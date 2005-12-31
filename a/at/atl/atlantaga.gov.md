@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlantaga.gov privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611023059id_/http%3A//www.atlantaga.gov/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlantaga.gov privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231134306id_/http%3A//atlantaga.gov/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # City of Atlanta Online
 
@@ -7,13 +7,16 @@
 ---  
 [](http://www.atlantaga.gov/citycoul/council.htm)  
 [](https://web.archive.org/Government/Default.aspx)  
+[](https://web.archive.org/Government/Courts.aspx)  
+[](https://web.archive.org/Government/Boards/brds_comm.aspx)  
 [](https://web.archive.org/CityChannel26/Default.aspx)  
+[](https://web.archive.org/CityServices/Default.aspx)  
 [](https://web.archive.org/Employment/Default.aspx)  
 [](https://web.archive.org/Calendars/Default.aspx)  
 [](https://web.archive.org/EconomicDevelopment/Default.aspx)  
-[](https://web.archive.org/CityServices/Default.aspx)  
 [](https://web.archive.org/International/Default.aspx)  
 [](https://web.archive.org/OnlinePayments/Default.aspx)  
+[](https://web.archive.org/OtherAgencies.aspx)  
 |   
 
 
@@ -36,16 +39,3 @@ Official Website for the City of Atlanta • ©2020 • [Disclaimer](https://web
 
 |  |    
 
-
-|  | 
-
-**City of Atlanta**  
-55 Trinity Avenue  
-Atlanta, Georgia 30303
-
-Telephone: 404.330.6000  
-Fax: 404.658.7673  
-[webmaster@atlantaga.gov](mailto:webmaster@atlantaga.gov)
-
-|   
----|---|---
