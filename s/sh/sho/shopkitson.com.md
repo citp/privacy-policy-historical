@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopkitson.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403191851id_/http%3A//www.shopkitson.com/index.php%3FpageId%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopkitson.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231071152id_/http%3A//www.shopkitson.com/index.php%3FpageId%3D7) for the most accurate reproduction.*
 
 # Kitson Trends - Shop Kitson | Kitson
 
