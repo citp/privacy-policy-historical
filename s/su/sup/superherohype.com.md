@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superherohype.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205083846id_/http%3A//www.superherohype.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superherohype.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231235252id_/http%3A//www.superherohype.com/privacy.php) for the most accurate reproduction.*
 
 # Superhero Hype! - Privacy Policy
 
@@ -32,7 +32,7 @@ This site makes chat rooms and forums available to its users. Please remember th
 
 #### Security
 
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. For more information about our security measures, you may send us an [e-mail](https://web.archive.org/web/20050205083846id_/http%3A//www.superherohype.com/feedback.php). 
+This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. For more information about our security measures, you may send us an [e-mail](https://web.archive.org/web/20051231235252id_/http%3A//www.superherohype.com/feedback.php). 
 
 ** Choice/Opt-Out **
 
@@ -40,7 +40,7 @@ Our site provides users with the opportunity to opt-out of receiving communicati
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [e-mail](https://web.archive.org/web/20050205083846id_/http%3A//www.superherohype.com/feedback.php) us:  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [e-mail](https://web.archive.org/web/20051231235252id_/http%3A//www.superherohype.com/feedback.php) us:  
 _Webmaster  
 Superhero Hype!  
 _
