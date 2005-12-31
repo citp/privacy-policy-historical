@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abundanthealth4u.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305214127id_/http%3A//abundanthealth.us/%3Fuid%3D4881%26page%3D1813) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abundanthealth4u.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231235536id_/http%3A//abundanthealth.us/%3Fuid%3D4881%26page%3D1813) for the most accurate reproduction.*
 
 # Privacy Policy
 
