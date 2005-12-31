@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the justice.gov privacy policy that was archived on 2005-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050628213339id_/http%3A//www.justice.gov/privacy-file.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justice.gov privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231171220id_/http%3A//www.justice.gov/privacy-file.htm) for the most accurate reproduction.*
 
-# DOJ Privacy Policy
+# USDOJ: Privacy Policy
 
+  
 Thank you for visiting the Department of Justice's Web site and reviewing our Privacy Policy. We remind you that if you link to a site outside of the Department of Justice, you are subject to the policies of the new site.
 
 **A. Information Collected and Stored Automatically**
@@ -26,11 +27,15 @@ You do not have to provide any personal information to visit this Web site. If y
 
 We may share information you give us with contractors acting on our behalf or with another government agency if your inquiry relates to that agency. In other limited circumstances, such as responses to requests from Congress and private individuals, we may be required by law to disclose information you submit. If you provide comments in response to a request for public comments we may make those comments as well as your identity available to the public in a publication or by posting them on our Web site. Where possible we may give you more specific guidance at the point of collection regarding how your personal information may be used or disclosed.
 
-Electronically submitted information is maintained and destroyed according to the principles of the Federal Records Act and the regulations and records schedules of the National Archives and Records Administration, and in some cases may be covered by the Privacy Act and subject to the Freedom of Information Act. A discussion of your rights under these laws can be found here: [.http://www.pueblo.gsa.gov/call/foia.htm.](https://web.archive.org/cgi-bin/outside.cgi?http://www.pueblo.gsa.gov/call/foia.htm)
+Electronically submitted information is maintained and destroyed according to the principles of the Federal Records Act and the regulations and records schedules of the National Archives and Records Administration, and in some cases may be covered by the Privacy Act and subject to the Freedom of Information Act. A discussion of your rights under these laws can be found here: [http://www.pueblo.gsa.gov/call/foia.htm.](http://www.pueblo.gsa.gov/call/foia.htm)
 
 Remember that e-mail is not necessarily secure against interception. If your communication is sensitive or includes personal information you may prefer to send it by postal mail instead.
 
-**C. Cookies**
+**C. COPPA**
+
+The Department of Justice is especially concerned about protecting children’s privacy. We hope parents and teachers are involved in children’s Internet explorations. It is particularly important for parents to guide their children when children are asked to provide personal information online. The Department’s Kids’ Page does not require children to reveal any information that could personally identify them. If a child chooses to provide personally identifying information to us, through an e-mail or otherwise, it will only be used to enable us to respond to the writer, and will not be retained.
+
+**D. Cookies**
 
 "Cookies" are small bits of text that are either used for the duration of a session ("session cookies"), or saved on a user's hard drive in order to identify that user, or information about that user, the next time the user logs on to a Web site ("persistent cookies"). The Department's Web site and its component sites do not use persistent cookies. One or more of the Department's component sites may use session cookies to provide streamlined navigation throughout their sites and for statistical analysis. These session cookies are deleted from the component's server soon after your session ends and are not collected or saved. You can set up your Web browser to inform you when cookies are set or to prevent cookies from being set. You can still use our Web site if you do not accept the cookies, but you may be unable to use certain cookie-dependent features.
 
