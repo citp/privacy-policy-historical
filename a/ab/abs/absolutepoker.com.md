@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the absolutepoker.com privacy policy that was archived on 2005-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050613014343id_/http%3A//www.absolutepoker.com/supportPrivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the absolutepoker.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231215407id_/http%3A//www.absolutepoker.com/supportPrivacy.asp) for the most accurate reproduction.*
 
 # ::: Welcome To ABSOLUTE POKER :::
 
