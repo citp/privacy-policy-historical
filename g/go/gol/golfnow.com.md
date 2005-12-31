@@ -1,61 +1,72 @@
-> *The following text is extracted and transformed from the golfnow.com privacy policy that was archived on 2001-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010203132700id_/http%3A//www.golfnow.com/shared/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golfnow.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231230720id_/http%3A//golfcyp.com/cyp/cyp.asp%3FHID%3D234%26ACT%3D2%26INO%3D4530) for the most accurate reproduction.*
 
-# Golf Now.com - Golf New, Travel, Auctions, Clubs, Tee Times, Golf Tips
+# Cypress Golf Solutions: Maximize Your Tee Sheet Through Relationship Marketing
 
-**Privacy Statement for GolfNow.com**
+|  | 
 
-Interactive Reservations, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: GolfNow.com. 
+Privacy Policy
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information. 
+We know that you care how information about you is used and shared. We appreciate your trust and we will do so carefully and sensibly. By visiting our site, you are accepting the practices described in this Privacy Policy. 
 
-Our site uses cookies to make sure you don't see the same ad repeatedly. We use cookies to deliver content specific to your interests and to save your password so you don't have to re-enter it each time you visit our site. 
+Will you or your partners send unsolicited email?
 
-Our site's registration form requires users to give us contact information (like their name and email address), unique identifiers (like their social security number), and demographic information (like their zip code, age, or income level). We use customer contact information from the registration form to send the user information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services and for other purposes. Unique identifiers (such as social security numbers) are collected to verify the user's identity and for use as account numbers in our record system. Demographic and profile data is also collected at our site. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis. 
+Our system powers permission-based Internet marketing only; sending personalized messages from golf courses and affiliates to customers. The transmission of unsolicited commercial email is expressly forbidden through our system. 
 
-This site contains links to other sites. GolfNow.com is not responsible for the privacy practices or the content of such Web sites. 
+How can I stop a partner from sending me more email?
 
-Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address) and unique identifiers (like their social security number). Contact information from the order form is used to send orders, information about our company, and promotional material from some of our partners to our customers. The customer's contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Unique identifiers (such as social security numbers) are collected from Web site visitors to verify the user's identity and for use as account numbers in our record system. 
+Each email sent through our system contains an easy, automated way for you to stop receiving email from that partner. Simply follow the instructions at the end of any email. If you have received unwanted, unsolicited email please forward a copy of that email with your comments to [CustomerService@cypressgolfsolutions.com](mailto:CustomerService@cypressgolfsolutions.com) for review. 
 
-Our online surveys ask visitors for contact information (like their email address), financial information (like their account or credit card numbers), and demographic information (like their zip code, age, or income level). We use contact data from our surveys to send the user information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected from our users is used to bill the user for products and services. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis. 
+How do you help prevent unsolicited email?
 
-We run contests on our site in which we ask visitors for contact information (like their email address). We use contact data from our contests to send users information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
-
-**Public Forums**  
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
-
-**Security**  
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
-
-**Supplementation Information**  
-This site supplements the information that you provide with information that is received from third parties. 
-
-**Children's Guidelines**  
-GolfNow.com will NOT collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent
-
-GolfNow.com will NOT collect personally identifiable offline contact information without prior parental consent.
-
-GolfNow.com will NOT distribute to third parties any personally identifiable information with out prior parental consent.
-
-GolfNow.com will NOT give the ability to publicly post or otherwise distribute personally identifiable contact information without prior parental consent.
-
-GolfNow.com will NOT entice by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity 
-
-**Choice/Opt-Out**  
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
-
-You can send email to john@golfnow.com You can call the following telephone number: 713-861-2900 
-
-**Correct/Update**  
-This site gives users the following options for changing and modifying information previously provided. Utilizing the change profile form on the web site. Email john@golfnow.com Call the following telephone number: 713-861-2900 
-
-**Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
-
-John Cohron  
-Interactive Reservations, Inc.  
-3025 Maxroy Street, Suite 200  
-Houston, Texas 77008  
-john@golfnow.com  
+  * We only allow partners to communicate with individuals with whom they already have a relationship. If other sources of information are used, they may only send email to individuals who have expressly shared their address or opted-in. 
+  * We require partners to personalize their communication with information that indicates they have an existing relationship with the customer. 
+  * If partners use an external source for customer data, we require those partners to supply the source to us in the event recipients complain about receiving unsolicited email. 
 
 
-©1997-2000 TRUSTe. All Rights Reserved.
+
+What personal information do you gather?
+
+The information we gather from customers helps us personalize and continually improve your experience. Below are the types of information we gather. 
+
+  * **Information You Give Us**  
+We receive and store any information you enter on our Website/Email or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for purposes such as responding to your requests, customizing future promotions, improving our functionality, and communicating with you. 
+  * **Automatic Information**  
+We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses our email program. A number of companies offer utilities designed to help you visit Websites anonymously. Although we will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these tools exist. 
+  * **Email Communications**  
+To help us make emails more useful and interesting, we often receive a confirmation when you open email from us if your computer supports such capabilities. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive email from us, please adjust your profile preferences when you sign in or you can [click here to unsubscribe](http://www.golffacility.com/remove.asp) at any time.  
+Unsubscribe path - http://www.golffacility.com/remove.asp
+  * **Information from Other Sources**  
+For reasons such as improving personalization of our service (for example, providing better product recommendations or special offers that we think will interest you), we might receive information about you from other sources and add it to your account information. Sometimes we also receive updated delivery and address information from these other sources so that we can correct our records and deliver your next purchase or communication more easily. 
+
+
+
+What about cookies?
+
+Cookies are alphanumeric identifiers that we transfer to your computer`s hard drive through your Web browser to enable our systems to recognize your browser and to provide features such as personalization and your tee time preferences. 
+
+Do you share information you receive?
+
+Information about our customers is an important part of our business, and we will not sell it to others. We share customer information only with our other golf course properties. 
+
+  * **Agents**  
+We employ other companies and individuals to perform functions on our behalf. Examples include email promotions, data entry, removing repetitive information from customer lists, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes. 
+  * **Promotional Offers**  
+Sometimes we send offers to selected groups of customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please adjust your Profile Preferences. 
+  * **Business Transfers**  
+As we continue to develop our business, we might sell or buy additional golf courses or assets. In such transactions, customer information generally is one of the transferred business assets. Also, in the unlikely event any or all of our assets are acquired, customer information will be one of the transferred assets. 
+  * **Protection of ourselves and others**  
+We release account and other personal information when we believe release is appropriate to comply with the law; or protect the rights, property, or safety of ourselves or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
+  * **With Your Consent**  
+Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information. 
+
+
+
+How secure is information about you?
+
+  * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. 
+  * Our SSL certificate is provided by [digicert Security Services](http://www.digicert.com/). We use the URL https://www.onlinereservationsystems.com when transmitting secure information. 
+  * We reveal only the last four digits of your credit card number when confirming a reservation. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. 
+  * It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign out when finished using a shared computer. 
+
+If you have any questions about this Privacy Policy or would like to contact us for any reason please send email correspondence to [CustomerService@cypressgolfsolutions.com.](mailto:CustomerService@cypressgolfsolutions.com)  
+---|---
