@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verotel.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403154737id_/http%3A//www.verotel.com/p02000-en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verotel.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231034227id_/http%3A//verotel.com/p02000-en.html) for the most accurate reproduction.*
 
 # Verotel "Putting Trust in Global Payments"
 
