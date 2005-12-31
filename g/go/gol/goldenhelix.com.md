@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the goldenhelix.com privacy policy that was archived on 2005-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050323202753id_/http%3A//www.goldenhelix.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldenhelix.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231074518id_/http%3A//www.goldenhelix.com/privacy_statement.html) for the most accurate reproduction.*
 
 # Golden Helix, Inc. | Privacy Statement
 
-|  [](https://web.archive.org/web/20050323202753id_/http%3A//www.goldenhelix.com/about.html)  
+|  [](https://web.archive.org/web/20051231074518id_/http%3A//www.goldenhelix.com/about.html)  
 ---  
 | 
 
@@ -10,9 +10,9 @@ NEWS FLASH
   
 ---  
   
-Golden Helix releases HelixTree for Mac OS X. Mar. 14, 2005. [More...](https://web.archive.org/web/20050323202753id_/http%3A//www.goldenhelix.com/pressrelease3_14_05helixtree.html)
+HelixTree achieves GeneChip-compatible™ status with Affymetrix Microarray Platform. Sep. 14, 2005. [More...](https://web.archive.org/web/20051231074518id_/http%3A//www.goldenhelix.com/pressrelease9_14_05_Affymetrix.html)
 
-Golden Helix releases ChemTree for Mac OS X. Mar. 14, 2005. [More...](https://web.archive.org/web/20050323202753id_/http%3A//www.goldenhelix.com/pressrelease3_14_05chemtree.html)  
+Affymetrix and Golden Helix collaborate to present a educational primer on SNP analyses with 100k GeneChip Mapping Arrays. Jul. 13, 2005. [More...](https://web.archive.org/web/20051231074518id_/http%3A//www.goldenhelix.com/affymetrix_genechip_compatible.html)  
   
 |  |  | 
 
