@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the chordata.info privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404053521id_/http%3A//www.geckotribe.com/info/policy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chordata.info privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231162915id_/http%3A//www.geckotribe.com/info/policy.php3) for the most accurate reproduction.*
 
 # Gecko Tribe, LLC Privacy & Content Policies
 
+[](http://www.geckotribe.com/gift_registry/)  
 ---  
   
 Gecko Tribe, LLC Policy Page   
