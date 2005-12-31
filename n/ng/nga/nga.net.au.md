@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nga.net.au privacy policy that was archived on 2005-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050620153454id_/http%3A//www.nga.net.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nga.net.au privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231231641id_/http%3A//www.nga.net.au/privacy.htm) for the most accurate reproduction.*
 
 # e-recruitment software - e-recruitment software specialists
 
