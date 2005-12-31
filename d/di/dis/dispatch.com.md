@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the dispatch.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308103304id_/http%3A//www.dispatch.com/default.php%3Fstory%3Ddispatch/services/Faq/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dispatch.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231140028id_/http%3A//www.dispatch.com/services/services.php%3Fstory%3Ddispatch/services/Faq/privacy.html) for the most accurate reproduction.*
 
 # The Columbus Dispatch -
 
 ### Also: Special note on children's privacy
 
+### Also: Terms of Service
+
 **Information we keep about you:** Dispatch.com respects the privacy of Web visitors. We do not sell the email addresses, names, street addresses, phone numbers or interests information about the users of our services.
 
-We will periodically send you promotional email about services offered by Dispatch.com and its advertisers and marketers on the Web. These promotions will be tailored to the interest categories you have indicated and are controlled by _The Columbus Dispatch._ Your identity will not be revealed to the marketer unless you respond directly to the marketer's offer and provide your information.
+We will periodically send you promotional email about services offered by Dispatch.com and its advertisers and marketers on the Web. These promotions will be tailored to the interest categories you have indicated and are controlled by _The Columbus Dispatch._ Your identity will not be revealed to the marketer unless you respond directly to the marketer's offer and provide your information. We may also send your periodic reminders about your print and online subscriptions.
 
 **You may "opt out" of receiving these offers.** To change your mailings and newsletter settings:
 
@@ -53,3 +55,5 @@ If you register on behalf of a child, we suggest that the "Mailings" box on the 
 Children are invited to share information on Dispatch.com when they participate in features of the NOW! section, such as contributing movie reviews, holiday greetings, short stories or entering contests. Children can respond to those features via U.S. mail or by email. This information -- the child's mailing address or email address -- is used or saved only to respond to the child if needed. It is not used for any other purpose. 
 
 If a parent chooses to not allow Dispatch.com to further collect or use the child's information, that parent can email us to request that the information be deleted. Please send email to: [onlineeditors@dispatch.com.](mailto:onlineed@dispatch.com)
+
+### Please see our [Terms of Service agreement](http://www.dispatch.com/services/services.php?story=dispatch/services/Faq/term.html)
