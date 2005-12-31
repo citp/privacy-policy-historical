@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realbiz360.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406071027id_/http%3A//www.realbiz360.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realbiz360.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231203037id_/http%3A//www.realbiz360.com/privacy.htm) for the most accurate reproduction.*
 
 # Untitled Document
 
