@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the longislandpress.com privacy policy that was archived on 2005-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050525075012id_/http%3A//www.longislandpress.com/index.php%3Fshow%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the longislandpress.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231203457id_/http%3A//www.longislandpress.com/index.php%3Fshow%3Dprivacy) for the most accurate reproduction.*
 
-# Long Island Press - We've Got You Covered!
+# Long Island Press: Long Island Newspaper, News, Entertainment, Real Estate, Classifieds, Automotive, Weddings, Business News, Sports, Restaurants, Fashion, Lifestyle
 
 We recognize and respect the importance of maintaining your privacy. We have established this Privacy Policy (the "Privacy Policy") to inform you of the kinds of information we may gather during your visit to the Site, why we gather customer information, what we use the information for, under what circumstances we may disclose such information, and how you can instruct us to limit the use of that information. 
 
