@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internet-success-system.com privacy policy that was archived on 2005-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050421003505id_/http%3A//www.hunteridge.com/disclosure/privacy.txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internet-success-system.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231100008id_/http%3A//www.hunteridge.com/disclosure/privacy.txt) for the most accurate reproduction.*
 
 # 
 
@@ -7,8 +7,22 @@
     
     Last Updated: May 1, 2003
     
-    Hunteridge.com - JVdealmaker.com - TopMarketingExpertsTellAll.com - SpecialsAndDeals.com  (Hunteridge, Inc.) strives to offer its
-    visitors the many advantages of Internet technology and to
+    Hunteridge, Inc.
+    
+    For websites: 
+    
+    Hunteridge.com
+    Market-Soft.com
+    JVdealmaker.com
+    TopMarketingExpertsTellAll.com
+    SpecialsAndDeals.com
+    SwiftKickInTheButt.com
+    FreeResaleRightsVault.com
+    Internet-Success-System.com
+    
+    
+    Hunteridge, Inc. strives to offer its website visitors the many
+    advantages of Internet technology and to
     provide an interactive and personalized experience. We may
     use Personally Identifiable Information (your name, e-mail
     address, street address, telephone number) subject to the
@@ -27,7 +41,7 @@
     You may provide information when you participate in
     sweepstakes and contests, message boards and chat rooms,
     and other interactive areas of our site. Like most Web
-    sites, Hunteridge.com - JVdealmaker.com - TopMarketingExpertsTellAll.com - SpecialsAndDeals.com  (Hunteridge, Inc.) also collects
+    sites, Hunteridge, Inc. also collects
     information automatically and through the use of electronic
     tools that may be transparent to our visitors. For example,
     we may log the name of your Internet Service Provider or
@@ -66,14 +80,14 @@
     identify you individually.
     
     We may use Personally Identifiable Information collected
-    on Hunteridge.com - JVdealmaker.com - TopMarketingExpertsTellAll.com - SpecialsAndDeals.com  (Hunteridge, Inc.) to communicate with
+    Hunteridge, Inc.) to communicate with
     you about your registration and customization preferences;
     our Terms of Service and privacy policy; services and
-    products offered by Hunteridge.com - JVdealmaker.com - TopMarketingExpertsTellAll.com - SpecialsAndDeals.com  (Hunteridge, Inc.) and
+    products offered by Hunteridge, Inc. and
     other topics we think you might find of interest. 
     
-    Personally Identifiable Information collected by
-    Hunteridge.com - JVdealmaker.com - TopMarketingExpertsTellAll.com - SpecialsAndDeals.com  (Hunteridge, Inc.) may also be used for
+    Personally Identifiable Information collected by Hunteridge, Inc.
+    may also be used for
     other purposes, including but not limited to site
     administration, troubleshooting, processing of e-commerce
     transactions, administration of sweepstakes and contests,
@@ -95,21 +109,19 @@
     
     Affiliated sites, linked sites and advertisements
     
-    Hunteridge.com - JVdealmaker.com - TopMarketingExpertsTellAll.com - SpecialsAndDeals.com  (Hunteridge, Inc.) expects its partners,
+    Hunteridge, Inc. expects its partners,
     advertisers and affiliates to respect the privacy of our
     users. Be aware, however, that third parties, including our
     partners, advertisers, affiliates and other content
     providers accessible through our site, may have their own
     privacy and data collection policies and practices. For
     example, during your visit to our site you may link to, or
-    view as part of a frame on a Hunteridge.com - JVdealmaker.com - TopMarketingExpertsTellAll.com - SpecialsAndDeals.com  (Hunteridge,
-    Inc.) page, certain content that is actually created or
-    hosted by a third party. Also, through Hunteridge.com - JVdealmaker.com - TopMarketingExpertsTellAll.com - SpecialsAndDeals.com 
-    (Hunteridge, Inc.) you may be introduced to, or be able to
+    view as part of a frame on a Hunteridge, Inc. page, certain content
+    that is actually created or hosted by a third party. Also, through
+    Hunteridge, Inc. you may be introduced to, or be able to
     access, information, Web sites, features, contests or
-    sweepstakes offered by other parties. Hunteridge.com - JVdealmaker.com - TopMarketingExpertsTellAll.com - SpecialsAndDeals.com 
-    (Hunteridge, Inc.) is not responsible for the actions or
-    policies of such third parties. You should check the
+    sweepstakes offered by other parties. Hunteridge, Inc. is not responsible
+    for the actions or policies of such third parties. You should check the
     applicable privacy policies of those third parties when
     providing information on a feature or page operated by a
     third party.
@@ -123,7 +135,7 @@
     particular advertisement before. Other features available
     on our site may offer services operated by third parties
     and may use cookies or other technology to gather
-    information. Hunteridge.com - JVdealmaker.com - TopMarketingExpertsTellAll.com - SpecialsAndDeals.com  (Hunteridge, Inc.) does not
+    information. Hunteridge, Inc. does not
     control the use of this technology by third parties or the
     resulting information, and is not responsible for any
     actions or policies of such third parties.
@@ -134,31 +146,29 @@
     be collected and used by third parties without our
     knowledge and may result in unsolicited messages from other
     individuals or third parties. Such activities are beyond
-    the control of Hunteridge.com - JVdealmaker.com - TopMarketingExpertsTellAll.com - SpecialsAndDeals.com  (Hunteridge, Inc.) and this
+    the control of Hunteridge, Inc. and this
     policy.
     
     Children
     
-    Hunteridge.com - JVdealmaker.com - TopMarketingExpertsTellAll.com - SpecialsAndDeals.com  (Hunteridge, Inc.) does not knowingly
+    Hunteridge, Inc. does not knowingly
     collect or solicit Personally Identifiable Information from
     or about children under 13 except as permitted by law. If
     we discover we have received any information from a child
     under 13 in violation of this policy, we will delete that
-    information immediately. If you believe Hunteridge.com - JVdealmaker.com - TopMarketingExpertsTellAll.com - SpecialsAndDeals.com 
-    (Hunteridge, Inc.) has any information from or about anyone
+    information immediately. If you believe Hunteridge, Inc.
+    has any information from or about anyone
     under 13, please contact us at the address listed below.
     
     Contacting Us.
     
     We can be reached by contacting:
     
-    Hunteridge.com - JVdealmaker.com - TopMarketingExpertsTellAll.com - SpecialsAndDeals.com  (Hunteridge, Inc.)
-    
-    Email: privacy@Hunteridge.com - JVdealmaker.com - TopMarketingExpertsTellAll.com - SpecialsAndDeals.com 
+    Email: privacy@Hunteridge.com
     
     Changes to this Policy
     
-    Hunteridge.com - JVdealmaker.com - TopMarketingExpertsTellAll.com - SpecialsAndDeals.com  (Hunteridge, Inc.) reserves the right to
+    Hunteridge, Inc. reserves the right to
     change this policy at any time. Please check this page
     periodically for changes. Your continued use of our site
     following the posting of changes to these terms will mean
@@ -185,9 +195,10 @@
     rendered by the arbitration may be entered in any court
     with jurisdiction to do so.
     
-    Hunteridge.com - JVdealmaker.com - TopMarketingExpertsTellAll.com - SpecialsAndDeals.com  (Hunteridge, Inc.) is controlled, operated
-    and administered entirely within Hunteridge.com - JVdealmaker.com - TopMarketingExpertsTellAll.com - SpecialsAndDeals.com 
-    (Hunteridge, Inc.). This statement and the policies
+    Hunteridge, Inc. is controlled, operated
+    and administered entirely within Hunteridge, Inc. 
+    
+    This statement and the policies
     outlined herein are not intended to and do not create any
     contractual or other legal rights in or on behalf of any
     party.
