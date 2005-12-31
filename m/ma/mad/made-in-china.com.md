@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the made-in-china.com privacy policy that was archived on 2005-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050630005811id_/http%3A//www.made-in-china.com/help/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the made-in-china.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231033120id_/http%3A//www.made-in-china.com/help/policy) for the most accurate reproduction.*
 
 # Made-in-China.com-->Privacy Policy
 
@@ -33,7 +33,7 @@ In addition to the use of Profile Information to operate the site, Made-in-China
 Top
 
 **How may your personal information be treated?**  
-Made-in-China.com does not disclose your Profile Information to any third parties, unless acting under the belief that such action is necessary to: (1) conform to legal requirements or comply with legal process; (2) protect and defend the rights or property of Made-in-China.com; (3) enforce the Made-in-China.com Terms & Conditions; or (4) act to protect the interests of its members or others. Your Company Profile Information collected by Made-in-China.com is stored in secure operating environments that are only accessible to authorized Focus Technology Co., Ltd employees. 
+Made-in-China.com does not disclose your Profile Information to any third parties, unless acting under the belief that such action is necessary to: (1) conform to legal requirements or comply with legal process; (2) protect and defend the rights or property of Made-in-China.com; (3) enforce the Made-in-China.com [Terms & Conditions](https://web.archive.org/help/terms/); or (4) act to protect the interests of its members or others. Your Company Profile Information collected by Made-in-China.com is stored in secure operating environments that are only accessible to authorized Focus Technology Co., Ltd employees. 
 
 Based on the information provided to us during registration, Made-in-China.com conducts research regarding users' demographics, industry and geographic location. This research is completed in order to better understand and serve our users. This research is compiled and analyzed on an aggregated basis. Made-in-China.com maintains the right to share this aggregated data with advertisers or business partners as required. 
 
@@ -57,6 +57,6 @@ The information that you provide when posting an item for trade or when making a
 Top
 
 **How to contact us on further inquiry about our privacy policy?**  
-You may [click here](https://web.archive.org/help/contact/) to contact us. 
+You may [click here](https://web.archive.org/aboutus/contact/) to contact us. 
 
 Top
