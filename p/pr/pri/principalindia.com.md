@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the principalindia.com privacy policy that was archived on 2004-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040618185818id_/http%3A//principalindia.com/presentation/View/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the principalindia.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231092848id_/http%3A//www.principalindia.com/presentation/View/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Principal India - Privacy Policy
 
 | | | |  |   
 ---  
 Privacy Policy  
-Welcome to the website of the Principal Asset Management Company. We understand that our customers and website visitors are concerned about the privacy of information. We have established policies and procedures concerning the collection, use and security of your information that will help protect your privacy. Our privacy policies are designed to help us serve our customers while maintaining strict privacy and security standards. 
+Welcome to the website of the Principal Pnb Asset Management Company. We understand that our customers and website visitors are concerned about the privacy of information. We have established policies and procedures concerning the collection, use and security of your information that will help protect your privacy. Our privacy policies are designed to help us serve our customers while maintaining strict privacy and security standards. 
 
-At the Principal Asset Management Company Private Limited, we recognize the importance of keeping the information we collect about you confidential. That's why we've always taken great care to protect what you entrust to us. The information found by clicking on the links at your left describe how we handle information collected and our commitment to protecting your privacy. 
+At the Principal Pnb Asset Management Company Private Limited, we recognize the importance of keeping the information we collect about you confidential. That's why we've always taken great care to protect what you entrust to us. The information found by clicking on the links at your left describe how we handle information collected and our commitment to protecting your privacy. 
 
 Changes to our privacy policies may be made occasionally. We recommend that visitors to our site review our privacy policies from time to time to learn of new privacy practices and changes to our policies. 
 
@@ -16,7 +16,7 @@ We may collect information about you from several sources. You may provide infor
 Online Information Collection   
 For each visitor to our website, our Web server automatically recognizes the visitor's Internet service provider. Additionally, we collect information about the sites visitors connect from, and the browsers visitors use. We use this information to assemble aggregate information about the visitors to our website, and assist with our systems administration and problem resolution activities. 
 
-We collect personally identifiable information in order to identify and register a Principal Asset Management Company Private Limited customer. The information we collect will vary depending upon the function you select. For example you may be required to provide information such as: 
+We collect personally identifiable information in order to identify and register a Principal Pnb Asset Management Company Private Limited customer. The information we collect will vary depending upon the function you select. For example you may be required to provide information such as: 
 
   * Name 
   * Address 
@@ -32,7 +32,7 @@ Links to other sites
 This web site contains links to other sites, and other sites may link to this site. Web sites linking to and from this site may have different privacy practices from the ones described here at www.principalindia.com. The privacy policies of the Principal Asset Management Company Private Limited apply only to its website. Visitors should read the privacy statements of other web sites they visit for information regarding specific privacy practices.   
 Information On Our Website Security   
   
-The information for the accounts you have with the Principal Asset Management Company Private Limited® is kept secure and confidential through multiple security features and procedures. 
+The information for the accounts you have with the Principal Pnb Asset Management Company Private Limited® is kept secure and confidential through multiple security features and procedures. 
 
   * The information you request from our website for your accounts can only be accessed with your password. It is your responsibility to keep your password confidential. 
     * Do not disclose your password to anyone. Our employees and associates will never ask you for your password. 
@@ -43,7 +43,7 @@ The information for the accounts you have with the Principal Asset Management Co
   * Your account information is not permanently stored on our Web server. The information only resides on our Web server while you are viewing the information. It is permanently stored on our secured corporate computer systems. 
   * Our corporate network systems, which store your account information, use proven security controls. 
   * We have data security staff whose sole responsibilities are to ensure the security of the information we process and store. 
-  * The Principal Asset Management Company Private Limited has policies and procedures in place to limit access to your information to only those who have a business need to view it. 
+  * The Principal Pnb Asset Management Company Private Limited has policies and procedures in place to limit access to your information to only those who have a business need to view it. 
 
   
 Secure Server Software   
