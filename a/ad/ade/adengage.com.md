@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adengage.com privacy policy that was archived on 2004-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040701111449id_/http%3A//adengage.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adengage.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231034544id_/http%3A//www.adengage.com/privacy.cfm) for the most accurate reproduction.*
 
-# Ad Engage Sponsored Link Manager - Contact Us
+# AdEngage - Contact Us
 
 **Privacy Policy**
 
@@ -10,5 +10,4 @@ This site uses cookies to manage login information. They are used strictly to al
 
 **Your Personal Information**
 
-We collect personal information for the purposes of paying and corresponding with our customers. We will not sell your personal information (including your email address and mailing address) to any third party. On any pages where credit card information is collected, SSL encryption is used to safeguard the data.   
-
+We collect personal information for the purposes of paying and corresponding with our customers. We will not sell your personal information (including your email address and mailing address) to any third party. On any pages where credit card information is collected, SSL encryption is used to safeguard the data. 
