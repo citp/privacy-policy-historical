@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the craigslist.org privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206015340id_/http%3A//www.craigslist.org/about/privacy.policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craigslist.org privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231131514id_/http%3A//www.craigslist.org/about/privacy.policy.html) for the most accurate reproduction.*
 
 # privacy policy - craigslist
 
@@ -35,7 +35,7 @@
 > 
 >   * All classified and forum postings are stored in our database, even after "deletion," and may be archived elsewhere. 
 >   * Our web logs and other records are stored indefinitely. 
->   * Registered job posters can access and update their account information through the [ Your Account](https://www.craigslist.org/cgi-secure/jobpost?a=Y) page. 
+>   * Registered job posters can access and update their account information through the account homepage. 
 >   * Subscribers can manage their subscriptions through the [Subscription Management](https://web.archive.org/cgi-bin/emailSubscriber.cgi) page. 
 >   * Although we make good faith efforts to store the information in a secure operating environment that is not available to the public, we cannot guarantee complete security. 
 > 
