@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratestogo.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203135837id_/http%3A//www.ratestogo.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratestogo.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231204950id_/http%3A//ratestogo.com/privacy.asp) for the most accurate reproduction.*
 
 # RatesToGo.com - Privacy & Security
 
@@ -17,7 +17,7 @@ Rates To Go is committed to ensuring our customers' privacy and security of all 
 
 
 **Our commitment to data security**   
-Your credit card details are protected while being transmitted over the Internet by the use of 128 bit encryption methods. Credit card details are only used to pay for accommodation booked through our service. These details are stored securely at all times, are not used for any other purpose and will never be provided to any unauthorised third parties.
+Your credit card details are protected while being transmitted over the Internet by the use of SSL encryption methods. Credit card details are only used to pay for accommodation booked through our service. These details are stored securely at all times, are not used for any other purpose and will never be provided to any unauthorised third parties.
 
 Rates To Go has also obtained a digital certificate from THAWTE Server CA (part of the VeriSign group), an industry leader in the protection and management of data transmission and storage. You can view this site certificate on each secured page, by clicking on the THAWTE image in the top right hand corner of your screen. A small frame displaying site security information will pop up. To view the THAWTE SSL security certificate, click here.
 
@@ -41,7 +41,7 @@ Like most Web sites, there is certain information we automatically track, includ
 **Who we share your information with**   
 We disclose your information to third parties (such as our hotels) only for the purpose of completing your transaction with us, providing the above services to you and for the purposes of associated administration. Rates To Go provides the guest's name, telephone number and e-mail address for each booking to the relevant accommodation supplier to enable them to process the booking efficiently and contact you if necessary. We do not sell, rent or trade your personal information to third parties for marketing purposes.
 
-In addition to the circumstances described above, Rates To Go may disclose client information if required to do so by law, court order, as requested by other government or law enforcement authority, or in the good faith belief that disclosure is otherwise necessary or advisable including, without limitation, to protect the rights or properties of Rates To Go or when we have reason to believe that disclosing the information is necessary to identify, contact or bring legal action against someone who may be causing interference with our rights or properties, whether intentionally or otherwise, or when anyone else could be harmed by such activities.
+Unless otherwise prohibited by law or our contractual obligations, we may disclose personal information if required to do so by law, court order, or as requested by a governmental or law enforcement authority, or in the good faith belief that disclosure is otherwise necessary or advisable. Such situations may include: to perform, maintain or enforce contracts with our customers; to protect the rights or properties of Flairview Travel, our business affiliates, our customers, or others; or when we have reason to believe that disclosing the information is necessary to identify, contact, or bring legal action against someone who may be causing, or who may be threatening to cause, interference with or damage to our rights or properties, whether intentionally or otherwise; or when anyone else could be harmed by such activities.
 
 **Cookies**   
 We may, from time to time, use "cookies" to store your preferences, record session information and collect information on how you visit and access our Web pages. We collect information on the Web pages visited by our customers in order to help us to continue improving our services.
