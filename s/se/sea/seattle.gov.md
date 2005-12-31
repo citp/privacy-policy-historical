@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seattle.gov privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403155636id_/http%3A//www.seattle.gov/pan/privacypol.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seattle.gov privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231212911id_/http%3A//www.seattle.gov/pan/privacypol.htm) for the most accurate reproduction.*
 
 # City of Seattle's Official Web Site
 
@@ -56,8 +56,6 @@ If during your visit to our web site you participate in a survey, send an e-mail
 
 
 The information collected is not limited to text characters and may include audio, video, and graphic information formats you send us.
-
-We use your email address to respond to you. Survey information is used for the purpose identified by the survey. Information from other online forms is used only for conducting City business related to the online form.
 
 We use your e-mail address to respond to you. It is the City's Policy to not use your e-mail address to send you unsolicited e-mail unless you specifically elect to receive it. Online discussion lists or "threads" are maintained and controlled in accordance with the City's [Electronic Conferencing and List Services Policy](http://www.seattle.gov/pan/ListServicesPolicies.htm). Survey information is used for the purpose identified by the survey. Information from other online forms is used only for conducting City business related to the online form.
 
