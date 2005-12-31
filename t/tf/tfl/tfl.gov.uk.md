@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the tfl.gov.uk privacy policy that was archived on 2005-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050630002645id_/http%3A//www.tfl.gov.uk/tfl/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tfl.gov.uk privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231195654id_/http%3A//tfl.gov.uk/tfl/privacy.shtml) for the most accurate reproduction.*
 
 # Transport for London - Privacy Policy
 
-Click here to view our [Terms and conditions](https://web.archive.org/web/20050630002645id_/http%3A//www.tfl.gov.uk/tfl/tandc.shtml)
+Click here to view our [Terms and conditions](https://web.archive.org/web/20051231195654id_/http%3A//tfl.gov.uk/tfl/tandc.shtml)
 
 This policy is designed to inform you of our commitment to upholding your right to privacy when using any of our web services. It describes the ways in which we capture information and the ways in which we use it.
 
-For a statement of TfL’s wider obligations under Data Protection Act, 1998 please click here to view our [Terms and Conditions](https://web.archive.org/web/20050630002645id_/http%3A//www.tfl.gov.uk/tfl/tandc.shtml). 
+For a statement of TfL’s wider obligations under Data Protection Act, 1998 please click here to view our [Terms and Conditions](https://web.archive.org/web/20051231195654id_/http%3A//tfl.gov.uk/tfl/tandc.shtml). 
 
 Transport for London (TfL) is a functional body of the Greater London Authority, reporting to the Mayor of London.
 
@@ -68,7 +68,7 @@ We may contact you to provide the services that you have purchased or registered
 
 When we collect information from you we will tell you if we would like to send you information about our products and services or transport related issues. We will give you the opportunity to tell us you do not wish to receive such information. If you do not object to receiving marketing material at the time, but subsequently change your mind, you may tell us so at any time by contacting us using the details given below.
 
-For information please contact [enquire@tfl.gov.uk ](mailto:enquire@tfl.gov.uk%20)
+For information please contact [enquire@tfl.gov.uk ](mailto:enquire@tfl.gov.uk)
 
 If we wish to share your data with third parties for marketing purposes, we will again tell you about this and only do so if we get your consent. Again, you may tell us at any time that you no longer agree to your details being shared with third parties for marketing purposes.
 
@@ -107,7 +107,7 @@ Which remain in the cookie file of your browser for much longer (though how long
 
 Our cookies cannot be used by themselves to identify you. 
 
-Find out more about cookies at [http://www.allaboutcookies.org/cookies/ ](http://www.allaboutcookies.org/cookies/%20)
+Find out more about cookies at [http://www.allaboutcookies.org/cookies/ ](http://www.allaboutcookies.org/cookies/)
 
 ## How we use cookies on our site and what information we collect
 
@@ -143,7 +143,7 @@ Third parties serve persistent cookies via this site. These are used for the fol
 
 Some of our web pages may contain electronic images known as Web beacons (sometimes known as clear gifs) that allow us to count visiting these pages. Web beacons collect only limited information which including a cookie number, time and date of a page view, and a description of the page on which the web beacon resides. We may also carry web beacons placed by third party advertisers. These beacons do not carry any personally identifiable information and are only used to track the effectiveness of a particular campaign. 
 
-Find out more about web beacons at [http://www.allaboutcookies.org/web-beacons/ ](http://www.allaboutcookies.org/web-beacons/%20)
+Find out more about web beacons at [http://www.allaboutcookies.org/web-beacons/ ](http://www.allaboutcookies.org/web-beacons/)
 
 ## Disabling / enabling cookies
 
@@ -151,8 +151,8 @@ You have the ability to accept or decline cookies by modifying the settings in y
 
 You have two options if you wish to disable cookies:
 
-1) You may opt out of the third party cookies used on this site by following a few simple steps which can be found at [http://www.websidestory.com/privacy/ ](http://www.websidestory.com/privacy/%20)  
-2) You may disable cookies through your browser by following the instructions found at [http://www.allaboutcookies.org/manage-cookies/ ](http://www.allaboutcookies.org/manage-cookies/%20)
+1) You may opt out of the third party cookies used on this site by following a few simple steps which can be found at [http://www.websidestory.com/privacy/ ](http://www.websidestory.com/privacy/)  
+2) You may disable cookies through your browser by following the instructions found at [http://www.allaboutcookies.org/manage-cookies/ ](http://www.allaboutcookies.org/manage-cookies/)
 
 ## Protecting your information
 
