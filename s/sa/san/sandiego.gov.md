@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sandiego.gov privacy policy that was archived on 2005-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050618075154id_/http%3A//www.sandiego.gov/directories/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandiego.gov privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231162934id_/http%3A//www.sandiego.gov/directories/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Notice | City of San Diego
 
