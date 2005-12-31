@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the e-classifieds.net privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308235354id_/http%3A//www.e-classifieds.net/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-classifieds.net privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231185920id_/http%3A//www.e-classifieds.net/about/privacy.html) for the most accurate reproduction.*
 
 # e-Classifieds: Classified ads software programs
 
 ## Hagen Software Privacy Policy Statement
 
-Hagen Software is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of this web site. This policy may change from time to time so please check back periodically.
+Hagen Software is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of this web site. This policy may change from time to time, so please check back periodically.
 
 This policy will let you know:
 
