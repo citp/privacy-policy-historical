@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the christianaudio.com privacy policy that was archived on 2005-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050328092813id_/http%3A//hovelaudio.com/catalog/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianaudio.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231183817id_/http%3A//christianaudio.com/privacy.php%3FosCsid%3De44ae227934e7395d3b54b64bdd29e7c) for the most accurate reproduction.*
 
-# Hovel Audio: Privacy Notice
-
-| 
+# Christian Audio: Privacy Notice
 
 | 
 
-Privacy Notice   
+| 
+
+##  Privacy Notice   
   
 ---  
   
@@ -81,8 +81,4 @@ Hovel Audio, Inc.
 Customer Care  
 623 Concord Pl.  
 San Marcos, CA 92069  
-(760) 798-1601   
-  
-[](http://hovelaudio.com/catalog/ipod.php)
-
-[](http://www.christianitytoday.com/history)
+(760) 798-1601 
