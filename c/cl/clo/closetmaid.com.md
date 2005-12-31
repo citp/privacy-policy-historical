@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the closetmaid.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605213220id_/http%3A//www.closetmaid.com/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the closetmaid.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231095741id_/http%3A//www.closetmaid.com/privacypolicy.cfm) for the most accurate reproduction.*
 
 # ClosetMaid - MAIN
 
-|  |  |   
+|  |   
 ---  
 | [](http://www.closetmaid.com/closet/index.cfm) | [](http://www.closetmaid.com/bedroom/index.cfm) | [](http://www.closetmaid.com/garage/index.cfm) | [](http://www.closetmaid.com/kitchen/index.cfm) | [](http://www.closetmaid.com/laundry/index.cfm) | [](http://www.closetmaid.com/bath/index.cfm)  
 ---|---|---|---|---|---  
