@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phpfreaks.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404215110id_/http%3A//www.phpfreaks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phpfreaks.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231204402id_/http%3A//www.phpfreaks.com/privacy.php) for the most accurate reproduction.*
 
 # PHP Help: Privacy Policy
 
@@ -19,17 +19,20 @@ phpfreaks.com will only collect enough information about yourself in a profile t
 
 | 
 
+* * *
+
 **PHPFreaks Hosted by:**  
 
 
-[](http://www.webhostfreaks.com/ "Web Hosting")
+[](http://www.serverpowered.com/ "Web Hosting")   
+**[Dedicated Servers](http://www.serverpowered.com/ "Dedicated Servers")**
 
 * * *
 
 **Sponsors**
 
   
-[](http://ads.thewebfreaks.com/ads/adclick.php?n=ab42d74b)
+[](http://www.webhostfreaks.com/ "PHP Web Hosting")
 
 * * *
 
@@ -50,5 +53,6 @@ phpfreaks.com will only collect enough information about yourself in a profile t
 [](http://www.w3.org/MarkUp/)  
 [](http://www.w3.org/Style/CSS/)  
 [](http://www.mozilla.org/)  
+[](http://www.nosoftwarepatents.com/)  
 [](https://web.archive.org/killcookie.php)  
 
