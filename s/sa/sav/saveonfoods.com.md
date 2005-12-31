@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saveonfoods.com privacy policy that was archived on 2005-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050628082357id_/http%3A//www.saveonfoods.com/1/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saveonfoods.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231164854id_/http%3A//www.saveonfoods.com/1/privacy.htm) for the most accurate reproduction.*
 
 # Save On Foods, Privacy Statement
 
@@ -17,7 +17,7 @@ It is important for us at Save-On-Foods to make you feel as comfortable as possi
 **Contact**    
 During your initial visit to our website, we would ask that you indicate whether you want to receive communications from Save-On-Foods. There is no obligation to receive communications when visiting our website. Occasionally, we may be in touch with you via email, postal mail or telephone to notify you of new services or products available through Save-On-Foods and to ask you about how satisfied you are with Save-On-Foods' products and services.
 
-If you have any questions about our privacy statement, the practices of this website, or dealing with Save-On-Foods, contact us by calling 1.800.242.9229 to voice any concerns to our friendly customer service representatives, or fill in our **[online customer inquiry form](https://web.archive.org/web/20050628082357id_/http%3A//www.saveonfoods.com/1/contact.htm) **[](https://web.archive.org/web/20050628082357id_/http%3A//www.saveonfoods.com/1/contact.htm)
+If you have any questions about our privacy statement, the practices of this website, or dealing with Save-On-Foods, contact us by calling 1.800.242.9229 to voice any concerns to our friendly customer service representatives, or fill in our **[online customer inquiry form](https://web.archive.org/web/20051231164854id_/http%3A//www.saveonfoods.com/1/contact.htm) **[](https://web.archive.org/web/20051231164854id_/http%3A//www.saveonfoods.com/1/contact.htm)
 
 **Links**    
 This website provides links to other websites. Please be aware that we are not responsible for the privacy practices of any other websites. We encourage our users to be aware when they leave our website to read the privacy policies of each and every website that collects personal information. This policy statement applies solely to personal information collected by Save-On-Foods.
@@ -32,39 +32,43 @@ Ultimately, if you are unhappy with our privacy statement or our service as a wh
 
 **_We reserve the right to change this privacy statement from time to time. We will inform you that the statement has been updated, as we will change the effective date of the statement, and make a note on our website's homepage that the statement has been changed._**
 
-Effective date: January 29, 2004.
+Effective date: January 29, 2004. 
 
 * * *
 
 **_II. Privacy Notice  
-_****Personal Information Collection, Use, Disclosure & Consent **
+_Personal Information Collection, Use, Disclosure & Consent**
 
-**Privacy**  
-OFG respects its customers’ and employees’ privacy and accordingly the Overwaitea Food Group, a division of Great Pacific Industries Inc. (“OFG”) collects, uses and discloses personal information with its customer’s and employee’s consent and as required by law.
+**Privacy**
 
-**Personal Information**  
+Overwaitea Food Group respects its customers’ and employees’ privacy and accordingly the Overwaitea Food Group, a division of Overwaitea Food Group Limited Partnership ("OFG") collects, uses and discloses personal information with its customer’s and employee’s consent and as required by law.
+
+**Personal Information**
+
 Personal information is information about an identifiable individual but does not include the name, title, business address or business telephone number of an employee of an organization.
 
-**Collection, Use and Disclosure of Your Personal Information**  
-In order to efficiently offer and provide quality products and services to OFG’s customers/employees, OFG must collect, use and disclose personal information in relation to its customers and employees. In this regard:
+**Collection, Use and Disclosure of Your Personal Information**
 
-1\. OFG will only collect, use and disclose the personal information necessary for its day-to-day administration, reward programs and to enable OFG to:
+In order to efficiently offer and provide quality products and services to OFG’s customers/employees, OFG must collect, use and disclose personal information in relation to its customers and employees. In this regard: 
 
-  * understand the needs of customers, their preferences and to establish and maintain a commercial relationship with customers of OFG and to provide customers with ongoing service,
-  * determine the demand for products which OFG makes available for sale to customers,
-  * provide you with information about products and services offered by OFG, and
-  * enable OFG to more efficiently and effectively operate, manage and develop its business.
+  * OFG will only collect, use and disclose the personal information necessary for its day-to-day administration, reward programs and to enable OFG to: 
+    * understand the needs of customers, their preferences and to establish and maintain a commercial relationship with customers of OFG and to provide customers with ongoing service, 
+    * determine the demand for products which OFG makes available for sale to customers, 
+    * provide you with information about products and services offered by OFG, and 
+    * enable OFG to more efficiently and effectively operate, manage and develop its business. 
+  * OFG will only collect, use or disclose personal information with a customer’s/employee’s consent, except where required or allowed by law. 
+  * OFG will disclose and transfer personal information to its agents for processing and to assist OFG in its day-to-day business activities and administration. 
+  * OFG will safeguard and maintain the security and confidentiality of the personal information provided by its customers/employees. 
+  * OFG’s customers/employees may at any time request their own personal information, subject to any restrictions at law, and may request correction of inaccurate or incomplete personal information. 
+  * OFG will collect, use and disclose customer’s/employee’s personal information in a manner which complies with legal requirements.
 
 
 
-2\. OFG will only collect, use or disclose personal information with a customer’s/employee’s consent, except where required or allowed by law.  
-3\. OFG will disclose and transfer personal information to its agents for processing and to assist OFG in its day-to-day business activities and administration.  
-4\. OFG will safeguard and maintain the security and confidentiality of the personal information provided by its customers/employees.  
-5\. OFG’s customers/employees may at any time request their own personal information, subject to any restrictions at law, and may request correction of inaccurate or incomplete personal information.  
-6\. OFG will collect, use and disclose customer’s/employee’s personal information in a manner which complies with legal requirements.
+**Personal Information Options**
 
-**Personal Information Options**  
-A customer/employee can opt not to receive OFG’s marketing information and/or not to have OFG use and disclose their personal information other than that personal information required or permitted by law, personal information subject to contractual restrictions/obligations of OFG and/or personal information that is required by OFG to properly and efficiently administer OFG’s day-to-day activities, by simply requesting the necessary form(s) from OFG’s Customer Service Department and thereafter completing and returning the form(s) to OFG. If a customer/employee has concerns or complaints about OFG’s privacy practices or compliance, a customer/employee can contact OFG’s Customer Service Department and request the appropriate form(s) which can be completed and returned to OFG. **[Download the forms here](https://web.archive.org/web/20050628082357id_/http%3A//www.saveonfoods.com/1/privacy_information/forms.htm)**
+A customer/employee can opt not to receive OFG’s marketing information and/or not to have OFG use and disclose their personal information other than that personal information required or permitted by law, personal information subject to contractual restrictions/obligations of OFG and/or personal information that is required by OFG to properly and efficiently administer OFG’s day-to-day activities, by simply requesting the necessary form(s) from OFG’s Customer Service Department and thereafter completing and returning the form(s) to OFG. 
+
+If a customer/employee has concerns or complaints about OFG’s privacy practices or compliance, a customer/employee can contact OFG’s Customer Service Department and request the appropriate form(s) which can be completed and returned to OFG. 
 
 _Please refer to OFG’s Privacy Policy for complete details on OFG’s commitment to privacy, available at OFG’s Customer Service Department._
 
@@ -74,15 +78,15 @@ _If you have questions regarding OFG’s privacy practices, please contact OFG�
 
 > _**Don Eng, General Counsel**  
 >  19855 – 92A Avenue Langley, B.C. V1M 3B6   
->  Phone: (604) 888-2079 ext. 3216   
+>  Phone: (604) 881-3668  
 >  Fax: (604) 888-8521   
 >  Email: [**don_eng@owfg.com**](mailto:don_eng@owfg.com)_
 
-June 21, 2004
+August 22 , 2005
 
 * * *
 
-**_III. Privacy Policy_** _ ****_
+**_III. Privacy Policy_**
 
 The Overwaitea Food Group respects the privacy of its customers and employees. In this regard, the Overwaitea Food Group adopts practices consistent with the Canadian Standards Association's Model Code for the Protection of Personal Information which code contains ten (10) fair information principles generally described as follows: 
 
@@ -106,6 +110,6 @@ The Overwaitea Food Group respects the privacy of its customers and employees. I
 
 **10\. Challenging Compliance** – An individual shall be entitled to challenge concerns they may have with respect to an organization's compliance with the fair information principles contained herein. 
 
-It is the goal of the Overwaitea Food Group to honour the fair information principles contained herein through the implementation of practices and procedures relating to personal information, as may be amended from time to time, to fulfill the needs of the Overwaitea Food Group.
+It is the goal of the Overwaitea Food Group to honour the fair information principles contained herein through the implementation of practices and procedures relating to personal information, as may be amended from time to time, to fulfill the needs of the Overwaitea Food Group. 
 
-January 29, 2004
+January 29, 2004 
