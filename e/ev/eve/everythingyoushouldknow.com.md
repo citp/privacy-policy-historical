@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the everythingyoushouldknow.com privacy policy that was archived on 2005-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050407212801id_/http%3A//www.everythingyoushouldknow.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everythingyoushouldknow.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231214516id_/http%3A//everythingyoushouldknow.com/privacy.html) for the most accurate reproduction.*
 
-# KickStartMedia.com PRIVACY POLICY
+# KickStartMedia.com Privacy Policy
+
+PRIVACY POLICY 
 
 Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet’s vast array of information, tools and opportunities with complete confidence.
 
@@ -62,3 +64,17 @@ Revisions to This Policy: Our company reserves the right to revise, amend, or mo
 Last Updated April 1, 2005
 
 © 2005 KickStartMedia.com
+
+* * *
+
+[Affiliate Sign Up](http://www.1shoppingcart.com/app/afsignup.asp?MerchantID=61556) [](https://web.archive.org/web/20051231214516id_/http%3A//everythingyoushouldknow.com/disclaimer.html) | [](https://web.archive.org/web/20051231214516id_/http%3A//everythingyoushouldknow.com/terms_of_use.html)[Affiliate Login](http://www.1shoppingcart.com/app/aflogin.asp?MerchantID=61556)[](https://web.archive.org/web/20051231214516id_/http%3A//everythingyoushouldknow.com/disclaimer.html) | [](https://web.archive.org/web/20051231214516id_/http%3A//everythingyoushouldknow.com/terms_of_use.html)[Tell a Friend about this site](http://www.1shoppingcart.com/app/tellafriend.asp?MerchantID=61556) [](https://web.archive.org/web/20051231214516id_/http%3A//everythingyoushouldknow.com/disclaimer.html) | [](https://web.archive.org/web/20051231214516id_/http%3A//everythingyoushouldknow.com/terms_of_use.html)[Contact Us](http://www.everythingyoushouldknow.com/contact/) | [Mailing List](http://www.1shoppingcart.com/app/join.asp?MerchantID=61556)
+
+[Warranties, Disclaimers & Legal Rights](https://web.archive.org/web/20051231214516id_/http%3A//everythingyoushouldknow.com/disclaimer.html) | [Terms of Service](https://web.archive.org/web/20051231214516id_/http%3A//everythingyoushouldknow.com/terms_of_use.html) | [Privacy Policy](https://web.archive.org/web/20051231214516id_/http%3A//everythingyoushouldknow.com/privacy.html)
+
+* * *
+
+© 2005 KickStartMedia.com  
+15721 Bernardo Heights Parkway   
+Suite B-454   
+San Diego, CA 92128-3176  
+800-795-5417 
