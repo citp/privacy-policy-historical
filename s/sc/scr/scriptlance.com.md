@@ -1,6 +1,31 @@
-> *The following text is extracted and transformed from the scriptlance.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404232654id_/http%3A//www.scriptlance.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scriptlance.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231075932id_/http%3A//www.scriptlance.com/privacy.shtml) for the most accurate reproduction.*
 
 # ScriptLance.com - custom freelance programming, web designers, job listings and more...
+
+| |    THE 20 LATEST PROJECTS  
+---|---  
+[Cartoon Illustration](http://www.scriptlance.com/projects/1136014722.shtml)  
+---  
+[Salon Menu Re-design](http://www.scriptlance.com/projects/1136014137.shtml)  
+[Nightlife Events Site](http://www.scriptlance.com/projects/1136013761.shtml) [](http://www.scriptlance.com/featured.shtml)  
+[Buying Unfinished Php Scripts](http://www.scriptlance.com/projects/1136012167.shtml)  
+[Advanced Mailing List App.](http://www.scriptlance.com/projects/1136011218.shtml)  
+[Php Employee Database Site](http://www.scriptlance.com/projects/1136010588.shtml)  
+[Proxy List 20000 +](http://www.scriptlance.com/projects/1136009946.shtml)  
+[Move My Linux Server](http://www.scriptlance.com/projects/1136009748.shtml)  
+[Thirty 200 Word Articles](http://www.scriptlance.com/projects/1136008934.shtml)  
+[Setup Shopcartdx_v4.29](http://www.scriptlance.com/projects/1136008232.shtml)  
+[Recipe Site Clone Components](http://www.scriptlance.com/projects/1136006348.shtml)  
+[Datring Script](http://www.scriptlance.com/projects/1136005616.shtml)  
+[Script Installation](http://www.scriptlance.com/projects/1136005034.shtml)  
+[Mambo/phpesp Member Integratio](http://www.scriptlance.com/projects/1136002787.shtml)  
+[Closed Bid Project](http://www.scriptlance.com/projects/1136002725.shtml)  
+[Server Admin](http://www.scriptlance.com/projects/1136002373.shtml)  
+[Logo Design For Travel Agency](http://www.scriptlance.com/projects/1136000306.shtml)  
+[Html Formatting - Xhtml 1.0](http://www.scriptlance.com/projects/1135999070.shtml)  
+[Sell Domain](http://www.scriptlance.com/projects/1135997439.shtml)  
+[Cd Rom Audio Content](http://www.scriptlance.com/projects/1135995069.shtml)  
+| 
 
 ##  Privacy Statement for ScriptLance.com 
 
@@ -33,3 +58,5 @@ This site has security measures in place to protect the loss, misuse, and altera
 ##  Contacting the Web Site 
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](http://www.r3n3.com/contact.html). 
+
+| 
