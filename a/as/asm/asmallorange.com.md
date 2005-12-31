@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asmallorange.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206070158id_/http%3A//www.asmallorange.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asmallorange.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231024948id_/http%3A//asmallorange.com/privacy.php) for the most accurate reproduction.*
 
 # A Small Orange - Privacy Policy
 
@@ -12,7 +12,7 @@ We will ask you when we need information that personally identifies you (Persona
 
 ### Customer Notice
 
-When you purchase a product or service from us, we store information about you that is required to verify, validate, process and maintain your order. This includes your name and contact details together with your payment method details. Any credit card information is only temporarily stored and is in an encrypted format. 
+When you purchase a product or service from us, we store information about you that is required to verify, validate, process and maintain your order. This includes your name and contact details together with your payment method details. Any credit card information is stored in a highly encrypted format. 
 
 ### Security
 
