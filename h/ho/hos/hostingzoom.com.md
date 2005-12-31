@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the hostingzoom.com privacy policy that was archived on 2005-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050624003303id_/http%3A//www.hostingzoom.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostingzoom.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231181401id_/http%3A//hostingzoom.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Hosting Zoom - Privacy Policy
 
   | 
 
 [](http://www.truste.org/ivalidate.php?url=www.hostingzoom.com&sealid=101)
+
+Effective Date: 11/01/2004 
 
 By submitting an online order form, or by using Hosting Zoom’s service, Customer hereby agrees to the following Privacy Policy. Customer agrees that it shall comply with and require its end users to comply with this Privacy Policy, Hosting Zoom’s Terms of Service (TOS), Hosting Zoom’s Acceptable Use Policy (AUP), and Hosting Zoom’s No-Spam Policy (NSP). In this document, the word “Agreement,” with a capital “A,” refers to the TOS, the AUP, the NSP, and the Privacy Policy collectively.
 
@@ -128,6 +130,8 @@ In general, Hosting Zoom gathers some generic information automatically. Generic
 
 Information that you disclose in a public space, including on any bulletin board, chat room, or Web site that Hosting Zoom may host for you as part of your Hosting Zoom services, is available to anyone else who visits that space. Hosting Zoom cannot safeguard any information you disclose in these locations. Additionally, Hosting Zoom Web sites may contain links to sites that belong to third parties unrelated to Hosting Zoom. Hosting Zoom cannot protect any information you may disclose at these sites and recommends that you review the privacy policy statements of those sites you visit. 
 
+We post customer testimonials on our web site which may contain personally identifiable information such as the customer's name. We do obtain the customer's consent prior to posting the testimonial to post their name along with their testimonial. 
+
 The Live Chat system that Hosting Zoom uses for customer support is a one-on-one chat. Hosting Zoom owns or licenses the Live Chat software and operates it on Hosting Zoom’s server and network. No third party collects any information that you provide through the Live Chat system. Hosting Zoom may retain and use logs of the Live Chat sessions for any of the following purposes:
 
 •
@@ -216,3 +220,80 @@ We use an outside credit card processing company to bill you for services. This 
 **_Service Providers_**
 
 We use other third parties to provide various additional services for you on our Web site. When you sign up for the additional services, we will share certain elements of the information you provide to us as necessary for the third party to provide that service. 
+
+The following table discloses basic information about the service providers with whom we may share your information. For each service provider, we tell you
+
+•
+
+| The provider’s name;  
+---|---  
+  
+•
+
+| The type of service that provider provides to Hosting Zoom or to you;  
+  
+•
+
+| The information that we share with that service provider;  
+  
+•
+
+| How the service provider collects your information, which may involve our sending the information to the service provider via a secure Internet link; and  
+  
+•
+
+| How the service provider is allowed to use your information.  
+  
+Please note: In most cases, the third party service provider has its own posted privacy policy. Hosting Zoom does not control the operations of any third party service provider and makes no representations or warranties about any third party service provider’s compliance with its own posted privacy. For each service provider, we include the URL of that service provider’s home page so that you can read their privacy policy or contact them with any questions you have about their practices for collecting, using, and disclosing information they gather through their Web site or online services.
+
+**Name of Provider** | **Type of Service Provided to Hosting Zoom or to Customer** | **Elements of Information Shared with Provider** | **How the Provider Collects Your Information** | **How the Provider is Allowed to Use Your Information**  
+---|---|---|---|---  
+**Authorize.net** | Credit card processor gateway | • name  
+• address  
+• credit card information  
+• telephone number  
+| We provide Authorize.net with this information when you fill out the order form on HostingZoom.com. The information is transmitted securely over the Internet. | Authorize.net has their own privacy policy regarding their use of the information we provide to them. 
+
+Please contact Authorize.net to learn the details of their privacy policy.
+
+www.authorize.net   
+  
+**PayPal** | Payment processor | None. | All payment transactions are processed on PayPal’s secured Web site. | Please contact PayPal to learn the details of their privacy policy. 
+
+www.paypal.com   
+  
+**Miva Merchant** | Shopping cart software | • e-mail address  
+• telephone number  
+• domain name  
+| We provide this information via an online form at Miva’s website. | We provide the information to Miva so we can install a licensed copy of the Miva Merchant shopping cart software on the your domain. 
+
+Miva stores the customer information in their license database to keep track of Web sites with Miva licenses.
+
+Please contact Miva to learn the details of their internal policies for collecting, using, and disclosing the information.
+
+www.miva.com   
+  
+  
+**GeoTrust** | SSL certificate provider that provides you with a SSL certificate.  | • name  
+• address  
+• e-mail address  
+• domain name  
+• telephone number  
+| We provide this information via an online form at GeoTrust’s Web site. | Please contact GeoTrust to learn the details of their privacy policy. 
+
+www.geotrust.com   
+  
+  
+**eNom** | Domain registration | • domain name  
+• customer name  
+• postal address  
+• telephone number  
+• e-mail address  | We provide this information to eNom when you sign up for services with us and choose to register an Internet domain name. Your information is transmitted securely over the Internet. | We provide the information to eNom so they can register domain names for you. 
+
+Please contact eNom to learn the details of their privacy policy.
+
+www.enom.com   
+  
+  
+  
+
