@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the galttech.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305035808id_/http%3A//www.galttech.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the galttech.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231131613id_/http%3A//www.galttech.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,9 +8,13 @@ For each visitor to our sites, our Web server automatically recognizes your doma
 
 When you click on links and/or ad banners that take you to third-party web sites, you will be subject to the third parties' privacy policies. While we support the protection of privacy on the Internet, we cannot be responsible for the actions of third parties. We encourage you to read the posted privacy statement whenever interacting with any web site. 
 
-**Third Party Advertising:**  
-We use MaxWorldwide and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click [here](http://www.networkadvertising.org/optout_nonppii.asp).   
-All issues regarding privacy related to MaxWorldwide ads are governed by MaxWorldwide's privacy policy, which can be viewed [here](http://www.maxworldwide.com/privacy_policy/index.php). 
+**Advertising:**  
+Some ads that appear on our site are served by a third party ad network company, [L90](http://www.l90.com/). As such, all issues regarding privacy related to these ads (including use of cookies, opting-out, etc.) are governed by L90's privacy policy, which can be viewed [here](http://www.l90.com/corporate/privacy_policy/index.html). 
+
+Some ads that appear on our site are served by a third party ad network company, [FastClick](http://www.fastclick.com/). As such, all issues regarding privacy related to these ads (including use of cookies, opting-out, etc.) are governed by FastClick's privacy policy, which can be viewed [here](http://www.fastclick.com/co_privacy.html). 
+
+**Third-Party Ad Servers** :  
+Some of our advertisers use third-party advertising companies to serve their ads on our sites. These third-party advertising companies employ cookie technology to measure ad effectiveness. To do so, these companies may use information about your visits to our sites and other Web sites. Unless you are otherwise notified by them, these advertising companies do not use names, addresses, email addresses, or telephone numbers, and they do not link any online actions or cookies to an identifiable person. Use of their cookies is subject to their own privacy policies. 
 
 **Software Downloads** :  
 Any software you download and install is subject to the user license and privacy policy specific to that product and is in no way governed by our website policy. 
