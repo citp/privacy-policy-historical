@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nestle.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405212107id_/http%3A//www.nestle.com/Footer/Privacy_Policy/Privacy%2BPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nestle.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231074549id_/http%3A//www.nestle.com/Footer/Privacy_Policy/Privacy%2BPolicy.htm) for the most accurate reproduction.*
 
 # Nestlé - Privacy Policy
 
@@ -60,7 +60,7 @@ If you prefer not to receive cookies while browsing our website, you can set you
 
 ### Referrals
 
-Some of our websites may provide you with the opportunity to email a web page to another person. For this feature to work, we may need to collect your email addresses and/or the email addresses of those to whom you send the web page. The email address collected in this context are not used for any other purpose other than to send your request. These email addresses are not stored and are deleted immediately after your request is fulfilled.
+Some of our websites may provide you with the opportunity to email a web page to another person. For this feature to work, we may need to collect your email addresses and/or the email addresses of those to whom you send the web page. The email address collected in this context are not used for any other purpose other than to send your request. These email addresses are deleted as soon as Nestlé has complied with its obligations under applicable laws after your request is fulfilled.
 
 ### Spamming
 
