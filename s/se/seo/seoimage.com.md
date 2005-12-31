@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the seoimage.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404070522id_/http%3A//www.seoimage.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoimage.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231065212id_/http%3A//www.seoimage.com/privacy-policy.html) for the most accurate reproduction.*
 
 # SEO-Image™ Search Engine Optimization Search Engine Marketing company SEO
 
 **Privacy Policy**
 
-As part of your experience, we want you to feel confident that we will respect your privacy: We will protect the confidentiality not only of the information you provide to us, but also the information you obtain using the SEO Image LLC web site.
+As part of your experience, we want you to feel confident that we will respect your privacy: We will protect the confidentiality not only of the information you provide to us, but also the information you obtain using the SEO Image, Inc. web site.
 
 This Privacy Policy is designed to accomplish four objectives:
 
@@ -13,10 +13,10 @@ This Privacy Policy is designed to accomplish four objectives:
 3\. Tell you how we protect the information we collect; and  
 4\. Tell you who has access to your information.
 
-SEO Image LLC' sole purpose in operating the web site is to provide intellectual property services to its users. SEO Image LLC never has, and never will "mine" the search strings submitted by users to our site for any reason. SEO Image LLC has never sold any customer information to any third party, nor will we ever do so. We will continue to do everything in our power to protect the privacy of our customers' searches and link exchange information. We collect only the information we need to provide accurate listings on our website and to our link exchange members.
+SEO Image, Inc.'s sole purpose in operating the web site is to provide intellectual property services to its users. SEO Image, Inc. never has, and never will "mine" the search strings submitted by users to our site for any reason. SEO Image, Inc. has never sold any customer information to any third party, nor will we ever do so. We will continue to do everything in our power to protect the privacy of our customers' searches and link exchange information. We collect only the information we need to provide accurate listings on our website and to our link exchange members.
 
 **1\. WHAT INFORMATION DO WE COLLECT?**  
-SEO Image LLC believes it is important for you to know what types of information we collect when you use our site or sign up for one of our related services. We gather information about you when you visit our pages and when you contact us for information about any of our services. We automatically record the name of the domain; the IP address from which you access our website; the type of browser and operating system used to access our site; the date and time you access our site; the Internet address of the website from which you linked directly to our site; and the pages you visit. 
+SEO Image, Inc. believes it is important for you to know what types of information we collect when you use our site or sign up for one of our related services. We gather information about you when you visit our pages and when you contact us for information about any of our services. We automatically record the name of the domain; the IP address from which you access our website; the type of browser and operating system used to access our site; the date and time you access our site; the Internet address of the website from which you linked directly to our site; and the pages you visit. 
 
 **2\. WHY DO WE COLLECT THIS INFORMATION?**   
 We use this information in order to serve the needs of our customers. We use the information we collect to personalize the advertising and content you see on our pages. We also use your information to process your requests to improve our customer service, to contact you, to conduct internal investigations, and to supply anonymous statistics for internal and external clients. 
