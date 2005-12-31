@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the treasurydirect.gov privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205194728id_/http%3A//www.treasurydirect.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the treasurydirect.gov privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231093645id_/http%3A//www.treasurydirect.gov/privacy.htm) for the most accurate reproduction.*
 
 # Privacy & Security Notices
 
@@ -40,7 +40,7 @@ We do not have any agreements with outside organizations to collect personal inf
 Parents can inquire about what information we have collected from their children online, prevent the further use or maintenance of such information or direct the Bureau to delete their children's personal information. This can be done by:
 
   * calling us at (202) 504-3500;
-  * e-mailing us at [commoffc@bpd.treas.gov](mailto:oadmin@bpd.treas.gov,commoffc@bpd.treas.gov); or
+  * sending us an [e-mail](http://www.treasurydirect.gov/email.htm); or
   * writing to us at:  
 Bureau of the Public Debt  
 799 9th Street, NW  
@@ -129,4 +129,4 @@ The Bureau of the Public Debt is committed to making its website accessible to a
 
 Our website is designed to be equally accessible to those using current, standards-compliant web browsers or assistive technologies.
 
-If you have difficulty accessing any of our websites, please [contact us](mailto:oadmin@bpd.treas.gov).
+If you have difficulty accessing any of our websites, please send us an [e-mail](http://www.treasurydirect.gov/email.htm).
