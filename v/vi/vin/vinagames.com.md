@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vinagames.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403161919id_/http%3A//www.vinagames.com/%3FF%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vinagames.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231120531id_/http%3A//www.vinagames.com/privacy.html) for the most accurate reproduction.*
 
-# Vietnamese Games Online - Play Tien len, Domino, Chinese Poker, Xi To
+# Privacy Policy
 
 Last updated on 12/17/2001 
 
