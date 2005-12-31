@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetrecruit.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404142414id_/http%3A//www.planetrecruit.com/static.cgi%3Fm%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetrecruit.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231181553id_/http%3A//planetrecruit.com/static.cgi%3Fm%3Dprivacy) for the most accurate reproduction.*
 
 # PlanetRecruit: IT, Engineering and Management jobs from the UK's top recruitment agencies - Employment, careers, work
 
@@ -64,14 +64,16 @@ hotonline Limited ("hotonline") is strongly committed to protecting your privacy
 
 If you have any questions, concerns or comments regarding hotonline or this website, please contact us: 
 
-Email: [recruitmentsupport@hotonline.com](mailto:recruitmentsupport@hotonline.com)
+Email: 
 
 **Mailing Address:**
 
-3 Shortlands
+Beaumont House
 
-Hammersmith 
+Kensington Village
+
+Avonmore Road
 
 London 
 
-W6 8JH 
+W14 8TS
