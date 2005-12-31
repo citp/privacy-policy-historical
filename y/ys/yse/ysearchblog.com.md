@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ysearchblog.com privacy policy that was archived on 2005-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050630003437id_/http%3A//privacy.yahoo.com/privacy/us/ysearch) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ysearchblog.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231051040id_/http%3A//privacy.yahoo.com/privacy/us/ysearch) for the most accurate reproduction.*
 
 # Yahoo! Privacy
 
