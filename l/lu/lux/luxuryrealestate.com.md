@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luxuryrealestate.com privacy policy that was archived on 2005-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050525080822id_/http%3A//luxuryrealestate.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxuryrealestate.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231212102id_/http%3A//www.luxuryrealestate.com/privacy.html) for the most accurate reproduction.*
 
 # LuxuryRealEstate.com
 
