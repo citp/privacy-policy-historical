@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reference.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308033620id_/http%3A//www.reference.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reference.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231091136id_/http%3A//reference.com/help/privacy.html) for the most accurate reproduction.*
 
 # Reference.com/Privacy Policy
 
@@ -6,7 +6,7 @@
 
 The following discloses our privacy policy for this web site: Reference.com. We take your privacy concerns seriously and we strive to earn and keep your trust. Please do not hesitate to contact us with your questions and concerns (contact information is provided below).
 
-We do not share your personal information, including your e-mail address, with other parties. We hate spam as much as you, so we won't give your information to anyone.
+We do not share your personal information, including your e-mail address, with other parties. We hate spam as much as you do, so we won't give your information to anyone.
 
 We do not send unsolicited e-mail. If you are receiving e-mail from us, it is because at some point you, or someone with access to your e-mail account, requested it. You can always opt out of any e-mail we send you simply by following the instructions that appear at the bottom of the e-mail message in question. If you are receiving e-mail from us in response to an inquiry you made, you can rest assured that we will use your e-mail address for no purpose other than to respond to your inquiry.
 
@@ -16,7 +16,7 @@ This site contains links to other sites. We are not responsible for the privacy 
 
 Reference.com shares only aggregate information with its affiliates, advertisers and business partners. We do not share any information about specific visitors. For example, we may give potential advertisers information that applies to all users of Reference.com generally, but we would never tell them anything about _you personally_.
 
-We use [cookies](https://web.archive.org/go/http://dictionary.reference.com/search?q=cookie) for various purposes, including: 
+We use [cookies](https://web.archive.org/go/http://dictionary.reference.com/search?q=cookie) for various purposes, including:
 
   * to control ad delivery (for example, to limit the number of pop-up ads you see)
   * to indicate your subscription status (to check whether or not you are signed in as a subscriber)
@@ -47,7 +47,7 @@ This Web site meets the guidelines of [TRUSTe's](https://web.archive.org/go/http
 
 ### Third-Party Advertisers
 
-We use outside ad companies to display ads on our site. Ads may contain cookies, and appear to be coming from our site, but in reality they are coming from our partners who are serving ads on our site. Here is a list of advertising networks with whom we have relationships: 
+We use outside ad companies to display ads on our site. Ads may contain cookies, and appear to be coming from our site, but in reality they are coming from our partners who are serving ads on our site. Here is a list of advertising networks with whom we have relationships:
 
   * [Advertising.com](https://web.archive.org/go/http://www.advertising.com/)
   * [Be Free](https://web.archive.org/go/http://www.befree.com/)
@@ -62,16 +62,21 @@ We use outside ad companies to display ads on our site. Ads may contain cookies,
 
 ### Choice/Opt-Out
 
-If you are receiving e-mail from us and wish to stop, simply follow the instructions at the bottom of the e-mail message in question.
+If you are receiving e-mail from us and wish to stop, simply follow the instructions at the bottom of the e-mail message in question or use the unsubscribe form on these pages:
 
-### Contacting the Web Site
+  * [Dictionary.com Word of the Day](https://web.archive.org/go/http://dictionary.reference.com/wordoftheday/list/)
+  * [Reference.com On This Day](https://web.archive.org/thisday/list/)
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
+
+
+We also offer the option to permanently [opt-out](https://web.archive.org/help/faq/popout.html) of pop-under advertising from Dictionary.com, Reference.com and Thesaurus.com.
+
+### Contacting Us
+
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
 > Lexico Publishing Group, LLC  
 >  Attn: Customer Service  
 >  65 Pine Avenue #319  
 >  Long Beach, CA 90802  
 >  [E-mail](https://web.archive.org/help/contact.html)
-
-|  ADVERTISEMENT [ADVERTISE WITH US](https://web.archive.org/go/http://www.lexico.com/contact/ad/index.html?ref=ref)
