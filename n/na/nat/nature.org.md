@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the nature.org privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307000859id_/http%3A//nature.org/aboutus/misc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nature.org privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231233633id_/http%3A//nature.org/aboutus/misc) for the most accurate reproduction.*
 
-# About Us - Privacy Statement, Privacy Principles, Privacy Policy, opt out, opt-out, opting out
+# About The Nature Conservancy - Privacy Statement, Privacy Principles, Privacy Policy, opt out, opt-out, opting out
 
   
 
 
 ## Privacy Statement
 
-**Last revised:** Thursday, December 16th, 2004
+**Last revised:** October 4th, 2005
 
 ### Quick Links Related to Your Privacy on Nature.org
 
@@ -46,11 +46,11 @@ We believe that a visitor to our web site is the one to best determine:
   * Expect reasonable steps to be taken to protect personal information from unauthorized use 
   * Review the accuracy of personal information and update it
 
-[](http://www.charitynavigator.org/index.cfm/bay/search.summary/orgid/4208.htm)
+
 
 **Charity Navigator,** America's largest charity evaluator, recently ([December, 2004](http://www.charitynavigator.org/index.cfm/bay/content.view/catid/68/cpid/238.htm)) evaluated the written privacy policies of 3,282 charities and non-profits in order to determine the organizations' commitment to protecting the confidentiality of their donors' and members' personal information.
 
-Charity Navigator has reviewed The Nature Conservancy's privacy policy and reported it to be prominently displayed on our web site and electronic marketing/solicitation materials. Additionally, Charity Navigator reported that The Nature Conservancy offers all users **[the opportunity to opt-out](https://web.archive.org/aboutus/misc/art5099.html)** of having their membership information shared with third-party organizations.
+Charity Navigator has reviewed The Nature Conservancy's privacy policy and reported it to be prominently displayed on our web site and electronic marketing/solicitation materials. Additionally, Charity Navigator reported that The Nature Conservancy offers all users **[the opportunity to opt-out](https://web.archive.org/aboutus/misc/art5099.html)** of having their membership information shared with third-party organizations.
 
 Learn more about [Charity Navigator's evaluation of The Nature Conservancy](http://www.charitynavigator.org/index.cfm/bay/search.summary/orgid/4208.htm).
 
@@ -101,7 +101,6 @@ Following are the web sites that are affiliated with <http://nature.org/> and ar
   * Landscape Conservation Networks: <http://tnc-ecomanagement.org/>
   * Last Great Places: <http://www.lastgreatplaces.org/>
   * Longleaf Pine Restoration Project: <http://consci.org/Eglin/>
-  * Nature.org in Japanese: <http://www.tnc.or.jp/>
   * Oak Openings: <http://oakopen.org/>
   * Parks in Peril: <http://parksinperil.org/>
   * Private Forests: <http://www.privateforest.org/>
@@ -229,7 +228,7 @@ Any information that you provide to us on the web, in e-mail, and by fax or mail
 
 The Nature Conservancy may occasionally update this policy so that it evolves with the rapidly changing technologies employed on the internet. All revisions will be posted to this web site and any revised Privacy Policy will apply only to data collected subsequent to its effective date.
 
-**Last revised:** Thursday, December 16th, 2004
+**Last revised:** October 4th, 2005
 
   
 
