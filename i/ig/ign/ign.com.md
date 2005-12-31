@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ign.com privacy policy that was archived on 2005-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050627012144id_/http%3A//corp.ign.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ign.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231091820id_/http%3A//corp.ign.com/privacy.html) for the most accurate reproduction.*
 
 # IGN Entertainment
 
