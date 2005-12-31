@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the municode.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405192548id_/http%3A//www.municode.com/community/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the municode.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231121944id_/http%3A//www.municode.com/community/privacy.asp) for the most accurate reproduction.*
 
 # Municode.com | Privacy Policy
 
@@ -17,7 +17,7 @@
 
 ### Introduction
 
-Municipal Code Corporation respects each individual’s right to personal privacy. We will collect and use information through our Web site only in the ways disclosed in this statement. This statement applies solely to information collected at Municipal Code Corporation’s Web site.
+Municipal Code Corporation respects each individuals right to personal privacy. We will collect and use information through our Web site only in the ways disclosed in this statement. This statement applies solely to information collected at Municipal Code Corporations Web site.
 
 While the majority of access to information provided on the Municode Web site is offered free of charge, we do charge fees for select premium products and services. The initial product for which a fee is charged is Multiple Code Searching, which enables subscribers to query more than one Code simultaneously. To enable the purchase of these products Municipal Code Corporation collects billing and credit card information. The credit card information is not archived. This information will only be shared with third parties who perform tasks required to complete the purchase transaction. 
 
@@ -37,7 +37,7 @@ Municipal Code Corporation collects information through our Web site at several 
 
 We collect additional information through order forms and support forms. The information collected through these forms is solely that which the user provides and is voluntarily given.
 
-Municipal Code Corporation makes use of cookies on its web site. A cookie is a small text file that our Web server places on a user’s computer hard drive to be a unique identifier. They are used to enable special functions such as setting the "Online Codes" page as the users home page on municode.com should the user request it, or remembering that you are a registered user of a premium service. Our cookies do not collect personally identifiable information and with exception of the "Online Codes Home Page" and registered user cookies, they expire when you leave the site. 
+Municipal Code Corporation makes use of cookies on its web site. A cookie is a small text file that our Web server places on a users computer hard drive to be a unique identifier. They are used to enable special functions such as setting the "Online Codes" page as the users home page on municode.com should the user request it, or remembering that you are a registered user of a premium service. Our cookies do not collect personally identifiable information and with exception of the "Online Codes Home Page" and registered user cookies, they expire when you leave the site. 
 
 ### Part II. Information Usage.
 
