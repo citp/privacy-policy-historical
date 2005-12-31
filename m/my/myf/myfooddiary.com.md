@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the myfooddiary.com privacy policy that was archived on 2005-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050519030013id_/http%3A//www.myfooddiary.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfooddiary.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231170307id_/http%3A//myfooddiary.com/privacy.asp) for the most accurate reproduction.*
 
 # My Food Diary :: Privacy Policy
 
-If you have questions or concerns regarding this statement, you should first contact MyFoodDiary.com by using the contact form at the following location: <http://www.myfooddiary.com/contact_form.asp?dept=cs>. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact MyFoodDiary.com by using the contact form at the following location: <http://www.myfooddiary.com/contact_form.asp?dept=cs>.  If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/consumers/watchdog_complaint.php>.  TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
 ### Information Collection & Use
 
@@ -103,5 +103,7 @@ We reserve the right to modify this privacy statement at any time, so please rev
 If you have any questions or suggestions regarding our privacy policy, please contact us at: <http://www.myfooddiary.com/contact_form.asp?dept=cs>.
 
 MyFoodDiary.com  
-P.O. Box 4471  
-Midway, KY 40347 
+1030 Monarch Street, Ste. 120  
+Lexington, KY 40513
+
+Last Updated on 10/31/2005 
