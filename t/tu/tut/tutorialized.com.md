@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tutorialized.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204052156id_/http%3A//www.tutorialized.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutorialized.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231214216id_/http%3A//www.tutorialized.com/privacy.php) for the most accurate reproduction.*
 
-# Free Photoshop Tutorials, HTML Tutorials, Flash Tutorials
+# Photoshop Tutorials and Flash Tutorials
 
 Tutorialized has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this website.
 
