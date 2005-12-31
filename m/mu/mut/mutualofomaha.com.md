@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mutualofomaha.com privacy policy that was archived on 2005-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050224044638id_/http%3A//www.mutualofomaha.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mutualofomaha.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231015603id_/http%3A//www.mutualofomaha.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy and Security
 
@@ -52,4 +52,4 @@ The product information contained on this Web Site has been prepared for informa
    
 Terms and Conditions of Use  
    
-Your use of any of the Mutual web sites is subject to certain [Terms and Conditions of Use."](https://web.archive.org/web/20050224044638id_/http%3A//www.mutualofomaha.com/terms.html "terms and conditions of use")
+Your use of any of the Mutual web sites is subject to certain [Terms and Conditions of Use."](https://web.archive.org/web/20051231015603id_/http%3A//www.mutualofomaha.com/terms.html "terms and conditions of use")
