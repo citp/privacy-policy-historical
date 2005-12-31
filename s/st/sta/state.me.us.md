@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the state.me.us privacy policy that was archived on 2005-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050618085204id_/http%3A//www.maine.gov/portal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.me.us privacy policy that was archived on 2006-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060106061112id_/http%3A//www.maine.gov/portal/privacy.html) for the most accurate reproduction.*
 
 # Maine.gov: Privacy Policy
 
@@ -71,4 +71,4 @@ The State of Maine and InforME make every effort to ensure that published inform
 
 ## **Contact Information**
 
-To offer comments about the Maine.gov website or about information presented in this Privacy Statement, contact [the Maine.gov webmaster](https://web.archive.org/web/20050618085204id_/http%3A//www.maine.gov/portal/contactus.html). 
+To offer comments about the Maine.gov website or about information presented in this Privacy Statement, contact [the Maine.gov webmaster](https://web.archive.org/web/20051231060245id_/http%3A//www.maine.gov/portal/contactus.html). 
