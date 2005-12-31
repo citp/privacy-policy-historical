@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the woodlandsonline.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607085506id_/http%3A//woodlandsonline.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodlandsonline.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231124719id_/http%3A//www.woodlandsonline.com/privacy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy - Woodlands Online
+# Woodlands Online - Privacy Policy
 
 ### Woodlands Online’s Membership Privacy Policy
 
@@ -32,8 +32,6 @@ Some of our listing submission forms require contact information such as name an
  **Item E: What will Woodlands Online do with my public information?**
 
 Posting communications on or through the Web Site automatically grants Woodlands Online a royalty-free, perpetual, irrevocable, non-exclusive license to use, reproduce, modify, publish, edit, translate, distribute, perform, and display the information alone or as part of other works in any form, media, or technology whether now known or hereafter developed. The foregoing grants shall include the right to exploit any proprietary rights in such communication, including but not limited to rights under copyright, trademark, service mark or patent laws under any relevant jurisdiction.
-
-Woodlands Online specifically disclaims any liability with regard to any actions resulting from your submissions and postings to the public portion of the Web Site. Generally, any communication which you post to the Website is considered to be non-confidential.
 
  **Item F: Woodlands Online Liability Disclaimer:**
 
