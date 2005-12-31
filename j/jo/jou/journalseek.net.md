@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the journalseek.net privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403165434id_/http%3A//genamics.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journalseek.net privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231161549id_/http%3A//genamics.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Genamics Privacy Policy
 
@@ -33,7 +33,3 @@ Genamics allows you to change or modify your personal information by sending e-m
 Disclaimer
 
 This site contains links to other sites. Genamics is not responsible for the content or privacy practices of these sites.
-
-Contact Us
-
-If you have any additional questions or concerns about our privacy policy, please [contact us](https://web.archive.org/web/20050403165434id_/http%3A//genamics.com/contactus.htm).
