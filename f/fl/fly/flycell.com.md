@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flycell.com privacy policy that was archived on 2005-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050611074234id_/http%3A//www.flycell.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flycell.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231012901id_/http%3A//www.flycell.com/privacy.php) for the most accurate reproduction.*
 
 # Ringtones, Cell Phone Wallpapers, Mobile Phone Games and more - Flycell - FAQs
 
@@ -57,5 +57,5 @@ Contact Information
 If you have any questions or suggestions regarding our Privacy Policy, please contact us at [help@flycell.com](mailto:help@flycell.com)
 
 |  |   
-[](https://web.archive.org/web/20050611074234id_/http%3A//www.flycell.com/contact.php)  
+[](https://web.archive.org/web/20051231012901id_/http%3A//www.flycell.com/contact.php?PHPSESSID=71141f3d97bc59b53290ecc58f32826e)  
 ---|---|---
