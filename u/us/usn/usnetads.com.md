@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usnetads.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404042209id_/http%3A//www.usnetads.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usnetads.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231165629id_/http%3A//usnetads.com/info/privacy.php) for the most accurate reproduction.*
 
 # USNetAds.com - Privacy Policy
 
@@ -47,7 +47,7 @@ USNetAds.com does not knowingly collect any information from persons under the a
 
 Should you have any questions, concerns, or comments, please [Contact Us](https://web.archive.org/info/contactus.php).
 
-**[ USNetAds.com ](http://www.usnetads.com/) \- USA Online Free Classified Ads **
+** USNetAds.com \- [US Free Classifieds, Free Ads, Free Classified Ads](http://www.usnetads.com/) **
 
   
 
