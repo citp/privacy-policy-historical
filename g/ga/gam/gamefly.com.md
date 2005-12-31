@@ -1,63 +1,8 @@
-> *The following text is extracted and transformed from the gamefly.com privacy policy that was archived on 2005-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050518080242id_/http%3A//www.gamefly.com/help/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamefly.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231232317id_/http%3A//www.gamefly.com/help/privacypolicy.asp) for the most accurate reproduction.*
 
-# Video Game Rentals : Rent or Buy PlayStation 2 / PS2, Xbox, GameCube, GBA Games
+# Video Game Rentals: Rent or Buy PS2, Xbox, Xbox 360, GameCube, GBA, DS, PSP Games
 
-|   
-|   
----  
-| **By Console**  
   
-  
-| 
-* | [PlayStation 2](http://www.gamefly.com/ps2/?fcTrack=Generic%20Page? "Playstation 2 / PS2")|   
-| 
-* | [Xbox](http://www.gamefly.com/xbox/?fcTrack=Generic%20Page? "Xbox / X Box")|   
-| 
-* | [GameCube](http://www.gamefly.com/gamecube/?fcTrack=Generic%20Page? "GameCube / Game Cube")|   
-| 
-* | [Game Boy Adv](http://www.gamefly.com/gba/?fcTrack=Generic%20Page? "Game Boy / Game Boy Advance")|   
-| 
-* | [DS](http://www.gamefly.com/ds/?fcTrack=Generic%20Page? "Nintendo DS/ DS")|   
-| 
-* | [PSP](http://www.gamefly.com/psp/?fcTrack=Generic%20Page? "PSP")|   
----  
-|    
-  
-  
-  
-  
----  
-| **Buy Pre-Played Games**  
-  
-  
-| 
-* | [PlayStation 2](http://www.gamefly.com/store/?fcTrack=Generic%20Page?Buy%20Games%20Module&stp=3 "PlayStation 2 / PS2 Games")  
-| 
-* | [Xbox](http://www.gamefly.com/store/?fcTrack=Generic%20Page?Buy%20Games%20Module&stp=4 "Xbox / X box Games")  
-| 
-* | [GameCube](http://www.gamefly.com/store/?fcTrack=Generic%20Page?Buy%20Games%20Module&stp=5 "GameCube / Game Cube Games")  
-| 
-* | [Game Boy Adv](http://www.gamefly.com/store/?fcTrack=Generic%20Page?Buy%20Games%20Module&stp=6 "Game Boy / Game Boy Advance Games")  
----  
-| **Gift Certificates**  
-  
-  
-| 
-* | [Buy](http://www.gamefly.com/giftcert/giftbuy.asp)  
-| 
-* | [Redeem](http://www.gamefly.com/giftcert/redeem.asp)  
----  
-| **FREE Rentals**  
-  
-  
-| 
-* | [Tell a Friend](http://www.gamefly.com/promos/referform.asp)  
-  
-
-
-[](https://www.esrb.org/confirm/gamefly-confirmation.htm)
-
-|    
 GameFly respects the privacy rights of our online visitors and is committed to protecting the personal information collected about you. To further this commitment, we have adopted this Online Privacy Policy ("Privacy Policy") to guide how we collect, store, and use the information you provide us online. 
 
 This Privacy Statement and the certification seal located on this page confirm that GameFly is a valid licensee and participating subscriber in the [Entertainment Software Rating Board's Privacy Online Program: ESRB Privacy Online](http://www.esrb.org/privacy.asp). To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of this privacy program, we are subject to frequent audits of our sites and other enforcement and accountability mechanisms administered independently by ESRB Privacy Online. 
@@ -104,7 +49,7 @@ To create a GameFly account, we ask you for certain personally identifying infor
 
 Once collected, we use the information above to: (i) create and give you access to your GameFly account; (ii) process and ship your orders; (iii) communicate with you (via e-mail or phone) about the status of your orders; (iv) answer any requests that you may have; and, (v) send you GameFly newsletters. 
 
-From time to time, we are approached by third party companies and organizations that provide game-related special offers that we believe may be of interest to you. To extend these offers to you, we may use your GameFly account information to send out promotional mailings on their behalf. We see this as a value-added service helping you find useful products or services. We strive to limit the notices and communications to those that we think you would appreciate receiving. If you want to be excluded from these promotional mailings, you may opt out by logging in to [Your Account](http://www.gamefly.com/member/account.asp) and updating your E-mail Subscriptions. 
+From time to time, we are approached by third party companies and organizations that provide game-related special offers or other offers that we believe may be of interest to you. To extend these offers to you, we may use your GameFly account information to send out promotional mailings on their behalf. If you decide to sign up for a third party offer, then with your consent we may also share your GameFly account information with the third party offer provider. We see this as a value-added service helping you find useful products or services. We strive to limit the notices and communications to those that we think you would appreciate receiving. If you want to be excluded from these promotional mailings, you may opt out by logging in to [Your Account](http://www.gamefly.com/member/account.asp) and updating your E-mail Subscriptions. 
 
 We may use your GameFly account e-mail address to send you service-related announcements that tell you about updates to our Privacy Policy or [Terms of Use](http://www.gamefly.com/help/termsofuse.asp), new areas or features on our Website, changes to our online service or technical support policies, and other related changes. 
 
@@ -112,7 +57,7 @@ We may also use your personal and demographic information in aggregate for our i
 
 _Tell a Friend_
 
-When you use the GameFly referral program (or “tell a friend” feature), we ask you to provide your friends’ first names and e-mail addresses and - if you’re not a GameFly subscriber - your first name and e-mail address. In return, we provide your friends with free GameFly trial subscription. This feature helps us spread the word about GameFly. First names and e-mail addresses submitted to us for this program are used only to send these free trial offers and are subsequently deleted. 
+When you use the GameFly Referral Program (or "Refer a Friend" feature), we ask you to provide your friends' first names and e-mail addresses and - if you're not a GameFly subscriber - your first name and e-mail address. In return, we provide your friends with a choice of a free GameFly trial subscription or discount pre-paid subscription. This feature helps us spread the word about GameFly. First names and e-mail addresses submitted to us for this program are used only to send this offer and are subsequently deleted. 
 
 _Contact Us Form_
 
@@ -182,6 +127,4 @@ If you have any questions, complaints, or comments regarding this Privacy Policy
 
 For complaints, you can also contact ESRB Privacy Online directly at [www.esrb.org](http://www.esrb.org/) or by regular mail at 317 Madison Avenue, 22nd Floor, New York, NY 10017. 
 
-This Privacy Policy was last updated on May 18, 2004. 
-
-| 
+This Privacy Policy was last updated on October 7, 2005. 
