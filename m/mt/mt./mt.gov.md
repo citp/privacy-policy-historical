@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mt.gov privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404143030id_/http%3A//mt.gov/itsd/policy/policies/ENTINT030.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mt.gov privacy policy that was archived on 2006-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060113074900id_/http%3A//mt.gov/itsd/policy/policies/ENTINT030.asp) for the most accurate reproduction.*
 
 # Enterprise Policy - Internet Privacy and Security
 
@@ -91,11 +91,11 @@ If you have any questions about this privacy statement, please contact us at:
 >  Helena, MT 59620-0113  
 >  406-444-2700 (Tel.)  
 >  406-444-2701 (Fax)  
->  Email: [webadmin@state.mt.us](mailto:webadmin@state.mt.us)
+>  Email: [webadmin@mt.gov](mailto:webadmin@mt.gov)
 
-Return to [Enterprise IT Policies](https://web.archive.org/web/20050404143030id_/http%3A//mt.gov/itsd/policy/enterprise.asp "Enterprise IT Policies")
+Return to [Enterprise IT Policies](https://web.archive.org/web/20051231094704id_/http%3A//mt.gov/itsd/policy/enterprise.asp "Enterprise IT Policies")
 
-Return to [ITSD Home](https://web.archive.org/web/20050404143030id_/http%3A//mt.gov/itsd/default.asp "ITSD Home")
+Return to [ITSD Home](https://web.archive.org/web/20051231094704id_/http%3A//mt.gov/itsd/default.asp "ITSD Home")
 
   
 
