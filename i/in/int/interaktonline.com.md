@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interaktonline.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204010827id_/http%3A//www.interaktonline.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interaktonline.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231101644id_/http%3A//www.interaktonline.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,7 +13,7 @@ Thank you for visiting InterAKT Online site. Your privacy is important to us. To
 
 ## THE INFORMATION WE COLLECT
 
-In this site, you can order products, vote in polls or otherwise ask a question, subscribe to one of our services such as our online ner subscriber agreements, to fulfill a request by you for an online newsletter, or to contact you about your account with us. 
+In this site, you can order products, vote in polls or otherwise ask a question, subscribe to one of our services such as our online subscriber agreements, to fulfill a request by you for an online newsletter, or to contact you about your account with us. 
 
 We sometimes use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage, as well as to offer you products, programs, or services. 
 
