@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the xanga.com privacy policy that was archived on 2005-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050629002852id_/http%3A//help.xanga.com/about/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xanga.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231071439id_/http%3A//help.xanga.com/about/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[All FAQs](http://help.xanga.com/) » [About Xanga.com, Inc.](https://web.archive.org/web/20050629002852id_/http%3A//help.xanga.com/default.htm#aboutxanga) » Privacy Policy
+[All FAQs](http://help.xanga.com/) » [About Xanga.com, Inc.](https://web.archive.org/web/20051231071439id_/http%3A//help.xanga.com/default.htm#aboutxanga) » Privacy Policy
 
 **What personal information does Xanga collect?**
 
