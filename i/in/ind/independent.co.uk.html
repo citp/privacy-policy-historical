@@ -1,517 +1,28 @@
-<!--The following is the downloaded HTML source of the independent.co.uk privacy policy that was archived on 2005-04-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050422203401id_/http%3A//www.independent.co.uk/story.jsp%3Fstory%3D55090) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the independent.co.uk privacy policy that was archived on 2005-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051231194438id_/http%3A//news.independent.co.uk/article294422.ece) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-UK"><head>
 
+    <meta name="KEYWORDS" content="Privacy Policy">
+    <meta name="DESCRIPTION" content="Privacy Policy">
+    <meta name="COPYRIGHT" content="© 2004 Independent News &amp; Media">
+    <meta http-equiv="CONTENT-TYPE" content="text/html; charset=ISO-8859-1">
+    <meta http-equiv="CONTENT-LANGUAGE" content="en">
+    <meta name="ROBOTS" content="INDEX,FOLLOW">
+    <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
+    <meta http-equiv="PRAGMA" content="NO-CACHE">
+    <meta name="GOOGLEBOT" content="NOARCHIVE,FOLLOW">
 
+    <script type="text/javascript" src="http://news.independent.co.uk/index.jsp?service=script"></script>
 
-
-<script type="text/javascript"><!--
-
-var pfCookie = getCookieVal( "null" );
-document.SHOW_SUMMARIES = (pfCookie == null) || (pfCookie== "1") ;
-
-if( ! document.TEXT_NODE )		document.TEXT_NODE=3;	//ie fix
-if( ! document.ELEMENT_NODE )	document.ELEMENT_NODE=1;	//ie fix
-
-function isMac(){
-	if( navigator && navigator.userAgent ){
-		if( navigator.userAgent.indexOf("Mac") >=0  )
-			return true;
-	}//if
-	return false;
-}//fn
-
-function isIE( version ){
-	if( navigator && navigator.userAgent ){
-		var ua=navigator.userAgent ;
-		var idx=ua.indexOf( " MSIE "+version +"." );
-		if( idx >=0 )
-			return true;
-	}//if
-	return false;
-}//fn
-
-function storeCookie(key,val) { 
-	var age =  100*24*3600 * 1000;	// ms in 100 days
-	storeCookieKey( key, val, age, true );
-}//storeCookie
-	
-function storeCookie(key,val,age,reloadPg) { 
-	var expDate = new Date();
-	var expTime = expDate.getTime()  + age;
-	expDate.setTime( expTime );
-	 	document.cookie = 	key +"="+ val + "; expires="+ expDate.toGMTString() ;
-	
-	
-	if( reloadPg )
-		window.location.reload();
-}//storeCookie
-	
-function getCookieVal( key ){
-	var cookiesText = document.cookie;
-	var keyAt = cookiesText.indexOf(key);		//get position of key
-	 
-	 	//window.alert("Cookie Key: "+key+" is at "+ keyAt );
-	
-	  if (keyAt == -1)  return null;  
-	  
-	  var sepAt = cookiesText.indexOf("=", keyAt );					//find next seperator pos after key
-	  var endAt = cookiesText.indexOf(";", sepAt );					//find first delim. after sep.
-	  if (endAt == -1) 	  endAt = cookiesText.length; 		// Last pair has no delimiter
-	  
-	  var val = cookiesText.substring( 1+ sepAt, endAt);
-	  
- 	 	 //window.alert("Cookie Key: "+key+" has val \n"+val);
-	  return val;
-}//func
-
-function interceptClickBuyStory( premUrl, premQS, jumpUrl, cookieKey  ){
-	var showSumms = document.SHOW_SUMMARIES;
-	if( cookieKey ){	
-	var portfolioCookie = getCookieVal( cookieKey );
-		showSumms = (portfolioCookie == null) || (portfolioCookie== "1") ;
-	}//if
-	displayClickBuyStory(showSumms, premUrl, premQS, jumpUrl);
-	return false;
-}//func
-
-function displayClickBuyStory( showSummaries,  premUrl, premQS, jumpUrl  ){
-	if( premUrl.length > 0 ){
-		if( showSummaries )
-			window.location = jumpUrl;
-		else{
-			var btAppend = "$$$javascript:self.close();";    // ensure c&b back button functions properly.
-			var styleQS = "&STYLE_SHEET="+ getCookieVal( "STYLE_SHEET" );
-			newWindow = window.open( premUrl + "?"+ premQS + styleQS + btAppend, "portfolio_window");
-			newWindow.focus();
-		}
-	}else
-		window.location = jumpUrl;
-}//fn
+    
+      
+    
 
 
 
-
-function openPremXwordWin( xword, printable){		//xword is the crossword filename, printable is flag (true/false)
-	var goDirect= ! document.SHOW_SUMMARIES;
-	var htmlPos = xword.lastIndexOf("cryptic.html");
-	if( htmlPos > 0 )
-		xword=xword.substring(0,htmlPos);
-
-	htmlPos = xword.lastIndexOf("printable.html");
-	if( htmlPos > 0 )
-		xword=xword.substring(0,htmlPos);
-	
-	var url="/crosswords/crossword.jsp";
-	if( goDirect )
-		url = "https://bt.premium-link.net/newauth/popup0/http://bt.premium-link.net/$59096$0$/crossword.jsp";
-	if( printable )
-		url += "?printable=true";
-   	else
-	    url += "?cryptic=true";
-	
-	url += "&crossword="+ xword;
-	url += "&cb_content_name="+ escape( "Cryptic Crossword: "+ xword );
-
-	if( goDirect )
-		xwordWin  = window.open(url,"xwordWin",'toolbar=1,location=0,directories=0,status=0,menubar=0,scrollbars=1,resizable=1,width=750,height=750');
-	else
-		window.location=url;
-	
-	return false; //must return false to link
-}//fn
-
-
-function getDateString(){ 
-	var months = new Array("January","February","March","April","May","June","July","August","September","October","November","December");	
-	var today  = new Date();
-	var year  = today.getYear() , 	month = today.getMonth(),
-	dayOfWk  = today.getDay(), dayOfMonth=today.getDate() ,
-	hh  = today.getHours(),	mm = today.getMinutes();
-
-	if(year < 1000)             year += 1900;         
-	if (hh < 10 ) 	   hh= "0" + hh; 
-	if (mm< 10 )   mm = "0" + mm; 
-
-	var dateStr = dayOfMonth + " "+ months[month] + " "+ year + "  "+ hh+ ":" + mm;
-
-	return dateStr;
-	
-}//function
-
-
-function toggle(button, trueVal, falseVal){
-	if(button.value==trueVal){
-		button.value=falseVal;
-		button.checked=false; 
-	}else{
-		button.value=trueVal;
-		button.checked=true;  
-	}//else
-}//function
-
-
-function openWin1 (url){
-	openNewWin(url,520,600);
-}
-
-function openNewWin(url, w, h){
-	var atts =  'width='+w+',height='+h+',menubar=yes,scrollable=yes,resizable=no,toolbar=no,location=no,directories=no,status=0,toolbar=0,menubar=0,scrollbars=1,resizable=0';
-	var newWindow = open (url, '_blank',atts);
-	newWindow.focus ();
-	if (document.layers)
-		open (location, '_self')
-}
-
-
-
-STYLE_FILES = new Array ("BIG","style_large.css", "MEDIUM", "style_medium.css", "SMALL", "style_small.css");
-DEFAULT_STYLE = "style_small.css", DEFAULT_STYLE_KEY = "SMALL";
-
-function getStyleFile(){
-	var key = getCookieVal( "STYLE_SHEET" );
-	var file=DEFAULT_STYLE;
-	for( s=0; s< STYLE_FILES.length; s+=2 ){
-		if( key == STYLE_FILES[s] )
-			file = STYLE_FILES[s+1];
-	}//for
-	
-	//window.status = "styleKey :  "+ key;
-
-	return file;
-}//func
-
-function getStyleKey(){
-	var key = getCookieVal( "STYLE_SHEET" );
-	var setting=DEFAULT_STYLE_KEY;
-	for( s=0; s< STYLE_FILES.length; s+=2 ){
-		if( key == STYLE_FILES[s] )
-			setting = key;
-	}//for
-
-	return setting;
-}//func
-
-function getStyleSheet(){
-	document.writeln("<link rel=\"STYLESHEET\" type=\"text/css\" href=\"/includes/styles/style_main.css\">");
-	document.writeln("<link rel=\"STYLESHEET\" type=\"text/css\" href=\"/includes/styles/"+ getStyleFile() +"\">");
-	document.writeln("<style type=\"text/css\" media=\"all\">@import \"/includes/styles/style_ie.css\";</style>");	
-}//func
-
-
-
-function openWin1 (url){
-	openNewWin(url,520,600);
-}
-
-function openNewWin(url, w, h){
-	var atts =  'width='+w+',height='+h+',menubar=yes,scrollable=yes,resizable=no,toolbar=no,location=no,directories=no,status=0,toolbar=0,menubar=0,scrollbars=1,resizable=0';
-	var newWindow = open (url, '_blank',atts);
-	newWindow.focus ();
-	if (document.layers)
-		open (location, '_self')
-}
-
-
-
-function shuffleArray( dataArray, shuffles ){
-	if( dataArray.length <2)
-		return dataArray;
-	
-	var len = dataArray.length;
-	for( s=0; s< shuffles; s++ ){
-		var shuffled = new Array (len);
-		var shuffPoint =  Math.round( Math.random() * (len-1) );
-	
-		for( e=shuffPoint; e<len;  e++ )
-			shuffled[ e-shuffPoint ] = dataArray[e]; 
-		for( e=0; e<shuffPoint; e++ )
-			shuffled[ e+ (len-shuffPoint) ] = dataArray[e]; 
-	
-		dataArray = shuffled;
-	}//for
-	return dataArray;
-}//fn
-	
-function getRandomAdIds( cmpIds, optIds, totalAds ){
-	cmpIds = shuffleArray( cmpIds, 3 );
-	optIds = shuffleArray( optIds, 3 );
-	
-	var adArray = new Array( totalAds );
-	var adCount =0;
-	for( a=0; a<cmpIds.length; a++){
-		if(adCount < totalAds){
-			adArray[adCount] = cmpIds[a] ;
-			adCount++;
-		}//if
-	}
-	for( a=0; a<optIds.length; a++){
-		if( adCount<totalAds ){
-			adArray[adCount] = optIds[a] ;
-			adCount++;
-		}//if
-	}//for
-	
-	return adArray;	
-}//func
-
-function timeStampPage( refTime, serverStamp ){
-		var debug = getCookieVal( "INDY_DEBUG" );
-		if( debug != "1" )
-			return;
-		var requestTime  =  new Date( refTime );
-		var nowTime = new Date();
-		var nowTimeStamp = nowTime.getDate() + " / "+ ( nowTime.getMonth()+1)  + " / "+  new String( nowTime.getYear() ).substr(2);
-		var diff = ( nowTime.getTime() - requestTime.getTime() ) / 1000;
-	
-		document.writeln( serverStamp );
-		document.writeln( "<br>\nLocal time is "+ nowTimeStamp + " --- elapsed: " + Math.round( diff ) );
-}//fn
-	
-
-//-->
-</script>
-
-
-
-
-
-<script language="javascript" type="text/javascript"><!--
-if (parent != self)
-	window.parent.location = location;
-	
-getStyleSheet();	// in clientScripts include
-
-//-->
-</script><link rel="STYLESHEET" type="text/css" href="/includes/styles/style_main.css">
-<link rel="STYLESHEET" type="text/css" href="/includes/styles/style_small.css">
-<style type="text/css" media="all">@import "/includes/styles/style_ie.css";</style>
-
-
-
-<title>Independent</title>
-<meta name="description" content="The Independent Newspaper">
-<meta name="keywords" content="The Independent, Independent.co.uk, newspaper, UK, Britain, England, London, broadsheet, latest, news, argument, forum, competitions, sport, entertainment, PDA, 50best">
-<meta name="ROBOTS" content="NOARCHIVE">
-</head>
-
-
-<body bgcolor="ffffff" text="#000000" leftmargin="5" topmargin="0" marginheight="0" marginwidth="0">
-
-<a name="top"></a>
-
-<!-- top table -->
-
-<table width="750" border="0" cellspacing="0" cellpadding="0">
-
-<!-- banner and logo -->
-<tbody><tr> 
-<td width="200" height="60">
-<script language="javascript">
-<!--
-var mydate=new Date()
-var today=mydate.getDay()
-
-if (today==0)
-	document.write('<a href="http://www.independent.co.uk"><img src="http://www.independent.co.uk/img/newsite/furniture/indy_sunday_site_logo.gif" alt="independent.co.uk" hspace="10" border="0"></a><br clear="all">')
-else
-	document.write('<a href="http://www.independent.co.uk"><img src="http://www.independent.co.uk/img/newsite/furniture/new_indy_logo3.gif" alt="independent.co.uk" hspace="10" border="0"></a><br clear="all">')
-//-->
-
-</script><a href="http://www.independent.co.uk"><img src="http://www.independent.co.uk/img/newsite/furniture/new_indy_logo3.gif" alt="independent.co.uk" hspace="10" border="0"></a><br clear="all">
-</td>
-
-<td align="center" height="60">
  
-<table width="488" border="0" cellspacing="0" cellpadding="0" height="80">
-<tbody><tr height="80"> 
-<td width="468" height="80">
-<!--  Advertron2: Adlink Banner (www)    ( #758 )  -->
- <!------- Start of (WWW) DoubleClick ADJ Tag, size : 468x60 ------>
-<table cellspacing="0" cellpadding="0" border="0" width="468" height="60">
-	<tbody><tr><td valign="top" border="0" width="468" height="60"> 
-	<script language="JavaScript">
-	   var rand = Math.round ( Math.random() * Math.pow (10,7) ) 	+	 Math.pow(10,6);
-	   document.write("<script language=\"JavaScript\" src=\"http://ad.uk.doubleclick.net/adj/independentdigital.co.uk/www;dcopt=ist;sz=468x60;ord=" +rand+ "?\"><\/script>");
-	</script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/independentdigital.co.uk/www;dcopt=ist;sz=468x60;ord=3354519?"></script>
-	<noscript>
-	<a href="http://ad.uk.doubleclick.net/jump/independentdigital.co.uk/www;dcopt=ist;sz=468x60;ord=1114056454764?" target="_new">
-	<img src="http://ad.uk.doubleclick.net/ad/independentdigital.co.uk/www;dcopt=ist;sz=468x60;ord=1114056454764?" border="0" width="468" height="60"> 
-	</a>
-	</noscript>
-	</td></tr>
-</tbody></table>
-<!------- End of DoubleClick ADJ Tag, size : 468x60  ------>
-
-
-
-</td></tr>
-</tbody></table>
-<!-- banner and logo end-->
-</td><td>
-</td></tr>
-
-
-<!-- stripadvert end-->
-<tr><td colspan="2" class="whitebg"><img src="/img/furniture/trans.gif" width="1" height="4"></td></tr>
-</tbody></table>
-<!-- end top table --> 
-
-<!-- main table --> 
-
-<table width="750" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td width="130" align="left" valign="top"> 
-
-<!-- navigation --> 
-
-
-
-
-
-<table width="100%" border="0" cellspacing="0" cellpadding="2">
-<tbody><tr class="navibg"> 
-<td class="naviprimary">&nbsp;&nbsp;<a href="http://news.independent.co.uk/" class="navbd">News</a></td>
-</tr>
-<tr><td>
-&nbsp;&nbsp;<a href="http://news.independent.co.uk/uk/" class="nv">UK</a><br>
-&nbsp;&nbsp;<a href="http://news.independent.co.uk/europe/" class="nv">Europe</a><br>
-&nbsp;&nbsp;<a href="http://news.independent.co.uk/world/" class="nv">World</a><br>
-&nbsp;&nbsp;<a href="http://news.independent.co.uk/business/" class="nv">Business</a><br>
-&nbsp;&nbsp;<a href="http://news.independent.co.uk/media/" class="nv">Media</a><br>
-&nbsp;&nbsp;<a href="http://news.independent.co.uk/people/" class="nv">People</a><br>
-</td></tr>
-</tbody></table>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="2">
-<tbody><tr class="navibg"> 
-<td class="naviprimary">&nbsp;&nbsp;<a href="http://sport.independent.co.uk/" class="navbd">Sport</a></td>
-</tr>
-<tr><td>
-&nbsp;&nbsp;<a href="http://sport.independent.co.uk/cricket/" class="nv">Cricket</a><br>
-&nbsp;&nbsp;<a href="http://sport.independent.co.uk/fishing/" class="nv">Fishing</a><br>
-&nbsp;&nbsp;<a href="http://sport.independent.co.uk/general/" class="nv">General</a><br>
-&nbsp;&nbsp;<a href="http://sport.independent.co.uk/golf/" class="nv">Golf</a><br>
-&nbsp;&nbsp;<a href="http://sport.independent.co.uk/motor_racing/" class="nv">Motor Racing</a><br>
-&nbsp;&nbsp;<a href="http://sport.independent.co.uk/olympics/" class="nv">Olympics</a><br>
-&nbsp;&nbsp;<a href="http://sport.independent.co.uk/rugby_league/" class="nv">Rugby League</a><br>
-&nbsp;&nbsp;<a href="http://sport.independent.co.uk/rugby_union/" class="nv">Rugby Union</a><br>
-&nbsp;&nbsp;<a href="http://sport.independent.co.uk/sports_politics/" class="nv">Sports Politics</a><br>
-&nbsp;&nbsp;<a href="http://sport.independent.co.uk/tennis/" class="nv">Tennis</a><br>
-&nbsp;&nbsp;<a href="http://sport.independent.co.uk/football/" class="nv">Football</a><br>
-</td></tr>
-</tbody></table>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="2">
-<tbody><tr class="navibg"> 
-<td class="naviprimary">&nbsp;&nbsp;<a href="http://comment.independent.co.uk/" class="navbd">Comment</a></td>
-</tr>
-<tr><td>
-&nbsp;&nbsp;<a href="http://comment.independent.co.uk/leading_articles/" class="nv">Leading Articles</a><br>
-&nbsp;&nbsp;<a href="http://comment.independent.co.uk/letters/" class="nv">Letters</a><br>
-&nbsp;&nbsp;<a href="http://comment.independent.co.uk/commentators/" class="nv">Commentators</a><br>
-&nbsp;&nbsp;<a href="http://comment.independent.co.uk/podium/" class="nv">Podium</a><br>
-&nbsp;&nbsp;<a href="http://comment.independent.co.uk/regular_columnists/" class="nv">Regular Columnists</a><br>
-</td></tr>
-</tbody></table>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="2">
-<tbody><tr class="navibg"> 
-<td class="naviprimary">&nbsp;&nbsp;<a href="http://education.independent.co.uk/" class="navbd">Education</a></td>
-</tr>
-<tr><td>
-&nbsp;&nbsp;<a href="http://education.independent.co.uk/news/" class="nv">News</a><br>
-&nbsp;&nbsp;<a href="http://education.independent.co.uk/business_schools/" class="nv">Business Schools</a><br>
-&nbsp;&nbsp;<a href="http://education.independent.co.uk/careers_advice/" class="nv">Careers Advice</a><br>
-&nbsp;&nbsp;<a href="http://education.independent.co.uk/gap_year/" class="nv">Gap Year</a><br>
-&nbsp;&nbsp;<a href="http://education.independent.co.uk/graduate_options/" class="nv">Graduate Options</a><br>
-&nbsp;&nbsp;<a href="http://education.independent.co.uk/higher/" class="nv">Higher</a><br>
-&nbsp;&nbsp;<a href="http://education.independent.co.uk/further/" class="nv">Further</a><br>
-&nbsp;&nbsp;<a href="http://education.independent.co.uk/schools/" class="nv">Schools</a><br>
-</td></tr>
-</tbody></table>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="2">
-<tbody><tr class="navibg"> 
-<td class="naviprimary">&nbsp;<a href="http://motoring.independent.co.uk/" class="navbd">Motoring</a></td>
-</tr>
-<tr><td>
-&nbsp;&nbsp;<a href="http://motoring.independent.co.uk/features/" class="nv">Features</a><br>
-&nbsp;&nbsp;<a href="http://motoring.independent.co.uk/road_tests/" class="nv">Road Tests</a><br>
-&nbsp;&nbsp;<a href="http://motoring.independent.co.uk/comment/" class="nv">Comment</a><br>
-&nbsp;&nbsp;<a href="http://motoring.independent.co.uk/motor_racing/" class="nv">Motor Racing</a><br>
-</td></tr>
-</tbody></table>
-
-
-<table width="100%" border="0" cellspacing="0" cellpadding="2">
-<tbody><tr class="navibg"> 
-<td class="naviprimary">&nbsp;<a href="http://money.independent.co.uk/" class="navbd">Money</a></td>
-</tr>
-<tr><td>
-&nbsp;&nbsp;<a href="http://money.independent.co.uk/property/" class="nv">Property</a><br>
-&nbsp;&nbsp;<a href="http://money.independent.co.uk/personal_finance/" class="nv">Personal Finance</a><br>
-</td></tr>
-</tbody></table>
-
-
-<table width="100%" border="0" cellspacing="0" cellpadding="2">
-<tbody><tr class="navibg"> 
-<td class="naviprimary">&nbsp;<a href="http://jobs.independent.co.uk/" class="navbd">Jobs</a></td>
-</tr>
-<tr><td>
-&nbsp;&nbsp;<a href="http://jobs.independent.co.uk/relocation/" class="nv">Relocation</a><br>
-&nbsp;&nbsp;<a href="http://jobs.independent.co.uk/careers/" class="nv">Careers</a><br>
-&nbsp;&nbsp;<a href="http://jobs.independent.co.uk/personality_tests/" class="nv">Personality Tests</a><br>
-</td></tr>
-</tbody></table>
-
-
-<table width="100%" border="0" cellspacing="0" cellpadding="2">
-<tbody><tr class="navibg"> 
-<td class="naviprimary">&nbsp;<a href="http://travel.independent.co.uk/" class="navbd">Travel</a></td>
-</tr>
-<tr><td>
-&nbsp;&nbsp;<a href="http://travel.independent.co.uk/news_and_advice/" class="nv">News &amp; Advice</a><br>
-&nbsp;&nbsp;<a href="http://travel.independent.co.uk/uk/" class="nv">UK</a><br>
-&nbsp;&nbsp;<a href="http://travel.independent.co.uk/africa/" class="nv">Africa</a><br>
-&nbsp;&nbsp;<a href="http://travel.independent.co.uk/americas/" class="nv">Americas</a><br>
-&nbsp;&nbsp;<a href="http://travel.independent.co.uk/ausandpacificrim/" class="nv">Australasia &amp; Pacific</a><br>
-&nbsp;&nbsp;<a href="http://travel.independent.co.uk/europe/" class="nv">Europe</a><br>
-&nbsp;&nbsp;<a href="http://travel.independent.co.uk/mideastandasia/" class="nv">Middle East &amp; Asia</a><br>
-&nbsp;&nbsp;<a href="http://travel.independent.co.uk/southeastasia/" class="nv">South-East Asia</a><br>
-&nbsp;&nbsp;<a href="http://travel.independent.co.uk/themes/" class="nv">Themes</a><br>
-</td></tr>
-</tbody></table>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="2">
-<tbody><tr class="navibg"> 
-<td class="naviprimary">&nbsp;<a href="http://enjoyment.independent.co.uk/" class="navbd">Enjoyment</a></td>
-</tr>
-<tr><td>
-&nbsp;&nbsp;<a href="http://enjoyment.independent.co.uk/books/" class="nv">Books</a><br>
-&nbsp;&nbsp;<a href="http://enjoyment.independent.co.uk/crosswords/" class="nv">Crosswords</a><br>
-&nbsp;&nbsp;<a href="http://enjoyment.independent.co.uk/dating/" class="nv">Dating</a><br>
-&nbsp;&nbsp;<a href="http://enjoyment.independent.co.uk/film/" class="nv">Film</a><br>
-&nbsp;&nbsp;<a href="http://enjoyment.independent.co.uk/food_and_drink/" class="nv">Food &amp; Drink</a><br>
-&nbsp;&nbsp;<a href="http://enjoyment.independent.co.uk/music/" class="nv">Music</a><br>
-&nbsp;&nbsp;<a href="http://enjoyment.independent.co.uk/photography/" class="nv">Photography</a><br>
-&nbsp;&nbsp;<a href="http://enjoyment.independent.co.uk/theatre/" class="nv">Theatre</a><br>
-</td></tr>
-</tbody></table>
-
-
-
-
-
-<br clear="all">
-
-<!-- navigation end --> 
  
-</td>
-<td width="10">&nbsp;</td>
-<td width="445" align="left" valign="top">
 
 
 
@@ -522,248 +33,4235 @@ else
 
 
 
-<!-- content -->
-<p class="padnone"><!-- location bar -->
-<a href="http://www.independent.co.uk/" class="black12px">Home</a>&nbsp;&nbsp;<b class="black12px">&gt;</b>&nbsp;<a href="/ ">Home</a><br clear="all"><br><!-- location bar end -->
-</p>
-<!--	Template: story.jsp		-->
-<!--	Story ID: 55090-->
+  
+  
+  
+  
+  
+    
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+        <script type="text/javascript" language="javascript" src="http://a.as-eu.falkag.net/dat/dlv/aslmain.js"></script>
+        
+      
+      
+      
+      
+      
+  
+    
+  
 
 
-<div>
 
-	<div class="head1">Privacy Policy</div>
+    <link rel="stylesheet" type="text/css" media="all" href="http://news.independent.co.uk/index.jsp?service=css&amp;media=all">
+    <link rel="stylesheet" type="text/css" media="screen" href="http://news.independent.co.uk/index.jsp?service=css&amp;media=screen">
+    <link rel="stylesheet" type="text/css" media="print" href="http://news.independent.co.uk/index.jsp?service=css&amp;media=print">
+    <link rel="stylesheet" type="text/css" media="aural" href="http://news.independent.co.uk/index.jsp?service=css&amp;media=aural">
+    <link rel="stylesheet" type="text/css" media="handheld" href="http://news.independent.co.uk/index.jsp?service=css&amp;media=handheld">
+
+    <link rel="stylesheet" type="text/css" media="screen" href="http://news.independent.co.uk/index.jsp?service=css&amp;media=screen&amp;alternate=normal" title="normal">
+    <link rel="alternate stylesheet" type="text/css" media="screen" href="http://news.independent.co.uk/index.jsp?service=css&amp;media=screen&amp;alternate=large" title="large">
+    <link rel="alternate stylesheet" type="text/css" media="screen" href="http://news.independent.co.uk/index.jsp?service=css&amp;media=screen&amp;alternate=x-large" title="x-large">
+
+    <title>Independent Online Edition &gt; News</title>
+  </head>
+  <body class="wireFrame" id="wire-classic">
+    <div class="outerContainer">
+      <div class="header">
+        
+
+
+
+
+
+
+
+
+
+
+<div class="leaderBoard">
+  
+    
+    
+  
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+    
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+      
+      
+        
+        
+        <div id="leaderboard" class="ad">
+          
+              
+                
+                  
+                  
+                  
+                
+              
+          
+              
+                
+                  
+                  
+                  
+                
+              
+          
+        </div>
+      
+      
+      
+  
+    
+  
+
+
 </div>
 
-<div class="head2">Please read this carefully</div>
+<div class="logo">
+  
+    <a href="http://www.independent.co.uk/"><img src="http://www.independent.co.uk/template/ver/gfx//new_indy_logo3.gif" alt="Independent.co.uk Online Edition: Home"></a>
+  
+</div>
+
+<div class="banner">
+  
+    
+    
+  
 
 
 
-<p class="padnone">09 October 2004</p><p>
-
-	<!-- Do not show editorial column ! -->
-<indy:articlecolumns columns="1">
-<!-- Tables below -->
-
-
-</indy:articlecolumns></p><p>Before using the Website (that is, any site operated by <b>Independent News &amp; Media plc</b> companies) it is your responsibility to read the Privacy Policy. You can notify us in the manner set out below if you do not want us to share information about you with third parties.
-</p><p>
-<b>The basic principles</b>
-</p><p>
-By accessing and using the Website you are agreeing to be legally bound by the <a href="story.jsp?story=55087"><b>Terms of Use</b></a> and this Privacy Policy. You should therefore also read the Terms of Use before using the Website.
-</p><p>
-ID is determined to protect your privacy. It is very important to us that you should be able to use and enjoy the Website without having to compromise your privacy unacceptably.
-</p><p>
-Knowing something about our users is, however, necessary to ensure that our service is continually improved. We need to build an accurate picture of the needs and wishes of our users, and to be able to communicate with you. That enables us to offer a service that is relevant and truly interactive, which is what our users expect. It also helps us to maintain free-to-user access to much of  the Website.
-</p><p>
-
-<b>We answer your important questions</b>
-</p><p>
-<i>"What information do you collect about me?"</i>
-</p><ul>
-<li>We automatically collect some data about our users' browsing actions and patterns. This is aggregate data and does not identify any individual.
-</li><li>We may also ask you to provide personal information on a voluntary basis in order to get a clearer picture of our users. It is then entirely up to you whether you are happy to give us this information.
-</li><li>In the course of entering competitions, promotions and other online offers you will be asked to give some details about yourself. You may also choose to e–mail us or make contact with us in other ways. Such contact gives us information about you.
-</li><li>If you have any financial dealings or make purchases with our trading partners on co–branded sites, they will ask for certain information. This information may be shared with us.
-</li></ul>
-<i>"For what purposes do you collect and use this information?"</i>
-<ul>
-<li>We use aggregate audience details (where no individual is identifiable) to help us improve our understanding of our users and their preferences. We use it to assist us in arranging relevant advertising, commercial opportunities and competitions, as well as ensuring the best editorial coverage. It also helps us develop the Website and audit its use.
-</li><li>The information about you as an identifiable individual, including contact details, may be used in the following ways:
-</li><li>to conduct market research and other surveys.
-</li><li>to create and draw to your attention editorial material and commercial opportunities that may be of interest to you.
-</li><li>to be shared with advertisers, trading partners and other commercial entities with whom we have or might have an association. We may also share the information that they obtain about their users, which may include you.
-</li></ul>
-<i>"How private are my details?</i>
-<ul>
-<li>Apart from other companies in the Independent News &amp; Media group, we only share personal information about you with third parties whom we have selected carefully and with whom we have, or may have, a commercial relationship. ID complies with the relevant legal requirements and takes all reasonable care to ensure that your information is secure and private and is only seen by responsible third parties. However we cannot be held responsible for the actions of any third party who receives or obtains access to the information, nor for any breach of security.
-</li><li>If you tell us that you do not want us to use your details, then data about your use of the Web Site would then only form part of aggregated statistics and would not be related to you as an individual.
-</li><li>You can ask to see the information we have about you by e-mailing a request to <a href="mailto:customerservice@independent.co.uk">customerservice@independent.co.uk</a>.
-</li></ul>
-<i>"What do I do if I am not happy for you to share information about me with others?"</i>
-<ul>
-<li>You may not wish us to share personal details about you with third parties outside the Group, or to use your information in the other ways we have described in this Privacy Policy. You can e-mail us at <a href="mailto:customerservice@independent.co.uk">customerservice@independent.co.uk</a> at any time to let us know of any objections you may have to how we use or disclose your data in the ways set out in this Privacy Policy..Your personal details may in any event be shared with third party organisations we have contracted to provide services to us, on an agency basis, which include processing data. We may also have to release information (which could include the contents of e-mail communications between any persons) because of a legal requirement on us or pursuant to a court order.
-</li></ul>
-
-<p>
-
-<b>Use of cookies on a website </b>
-</p>
-<ul><li><i> The basic principles</i><br>
-A cookie is a text-only string of information that a website transfers to the cookie file of the browser of your computer's hard disk so that the website can remember who you are. A cookie will typically contain the name of the domain from which the cookie has come, the "lifetime" of the cookie, and a value, usually a randomly generated unique number.
-<br>
-Two types of cookies are used on the Website: <b>Session Cookies</b> which are temporary cookies that remain in the cookie file of your browser until you leave the Website. <b>Persistent Cookies</b> which remain in the cookie file of your browser for much longer (though how long will depend on the lifetime of each specific cookie). Cookies can help a website to arrange content to match your preferred interests more quickly. Most major websites use cookies. Cookies cannot be used by themselves to identify you. Find out more about 
-<a href="http://www.allaboutcookies.org" target="NEW">cookies</a> here. </li></ul>
-
-<ul><li>
-<i>How we collect cookies on the Website and what information we collect</i>
-<br>
-<b>Session Cookies: </b>To allow you to carry information across pages of the Website and avoid having to re-enter information. <b>Persistent Cookies: </b>To help us recognise you as a unique visitor (just a number) when you return to the Website and to allow us to tailor content, advertisements and the presentation of the Website to match your preferences.  To compile anonymous, aggregated statistics that allow us to understand how users use the Website and to help us improve the structure of the Website. We cannot identify you personally in this way.
-
-
-<ul><li>
-<i>Third Party Cookies. </i>
-<br> Third parties serve cookies via the Website. These are used for the following purposes: To serve advertisements on the Website and track whether these advertisements are clicked on by users. To control how often you are shown a particular advertisement. To count the number of anonymous users of the Website.To provide security within transactions.</li></ul>
-
-
-<ul><li>
-<i>Use of Web Beacons</i>
-<br>
-Some of our web pages may contain electronic images know as web beacons (sometimes know as clear gifs) that allow us to count users who have visited these pages. Web beacons collect only limited information which including a cookie number, time and date of a page view, and a description of the page on which the web beacon resides. We may also carry web beacons placed by third party advertisers. These beacons do not carry any personally identifiable information and are only used to track the effectiveness of a particular campaign. Find out more about <a href="http://www.allaboutcookies.org/web-beacons/index.html" target="NEW">Web Beacons </a> 
-</li></ul>
-
-<ul><li>
-<i>Disabling/Enabling Cookies. </i>
-<br>You have the ability to accept or decline cookies by modifying the settings in your browser. However, you may not be able to use all the interactive features of the Website if cookies are disabled. Find out how to <a href="http://www.allaboutcookies.org/manage-cookies/" target="NEW">disable/enable cookies</a></li></ul>
-<p></p>
-<b>International transfer of personal data</b>
-<br>
-As you will know, the Internet does not recognise national boundaries. Services on the net are accessible globally so collection and transmission of personal data is not always confined to one country. You should be aware that by using the Website and those of our partners or any site we link through to, your personal data may be processed in or transferred to other countries, the USA for example, and you agree to your personal data being transferred or processed in this way.
-<p>
-
-<b>Further information</b>
-<br>
-If you want further information, or wish to communicate with us about this Privacy Policy and your wishes about your personal information, please e-mail us at  <a href="mailto:customerservice@independent.co.uk">customerservice@independent.co.uk</a>. 
-</p><p>
-
-<b>Company information</b>
-<br>
-<a href="http://www.independentdigital.co.uk" target="new">Independent Digital (UK) Limited</a> is a company in the <a href="http://www.independentnewsmedia.com" target="new">Independent News &amp; Media</a> group, registered in England and Wales under company number 3761191, whose registered office is at Independent House, 191 Marsh Wall, London E14 9RS, UK.<br></p>
-
-	
+ 
+ 
 
 
 
 
-<!-- start of footer -->
 
 
 
-</li></ul></td>
-<td width="10">&nbsp;</td>
-<td width="165" align="left" valign="top"> 
-
-<!-- date -->
-<p class="datesmall"><script language="JavaScript">document.write( getDateString() );</script>31 January 2020  04:54</p>
-
-<table cellpadding="2" cellspacing="2" width="165" class="channelbg">
-<tbody> 
-<tr class="channelbg"> 
-<form action="/search/search.jsp" class="searchbox" name="minisearch"></form>
-<input type="hidden" name="minisearch" value="1">
-<td class="channelbg" valign="top">&nbsp;<span class="articletext">Search this site:</span><br clear="all">
-&nbsp;<input class="box" name="keywords" onclick="document.minisearch.keywords.value='';" size="16"></td>
-<td valign="top"><input class="button" name="submit" type="submit" value="Go"></td>
-
-</tr>
-<tr><td colspan="2">&nbsp;<a href="/low_res/story.jsp?story=55090&amp;host=1&amp;dir=1" class="black12px"><img src="http://www.independent.co.uk/img/furniture/printer_icon.gif" border="0" width="23" height="11" alt="printable version">Printable Story</a><br clear="ALL"></td></tr>
-
-<tr><td colspan="2"><a class="black12px" href="http://www.independent.co.uk/portfolio/"><img src="http://www.independent.co.uk/img/furniture/clickandbuy/pp.gif" width="24" height="11" border="0" alt="independent portfolio">Independent Portfolio.<br>Click here to find out more.</a></td></tr>
-
-</tbody> 
-</table>
-
-<!-- commercial adverts -->
-<table cellpadding="0" cellspacing="0" border="0">
-<tbody><tr align="center" valign="top"><td><img src="/img/furniture/trans.gif" width="165" height="9" alt="" border="0"></td></tr>
 
 
-<tr align="center" valign="top"><td><!--  Advertron2: Adlink - Microsoft - Hub    ( #1862 )  -->
-<!------- Start of Ad'LINK ADJ Tag - Javascript Format , size : 160x600 ------>
-<table cellspacing="0" cellpadding="0" border="0" width="160" height="600"><tbody><tr>
-<td valign="top" border="0" width="160" height="600">
-<script language="JavaScript">
-   if(typeof(adlink_randomnumber)=="undefined"){var adlink_randomnumber=Math.floor(Math.random()*10000000000)}
-   document.write('<scr'+'ipt language="JavaScript" src="http://ad.uk.doubleclick.net/adj/independentdigital.co.uk/microsoft_sitehub160x600;sz=160x600;tile=2;ord='+adlink_randomnumber+'?"><\/scr'+'ipt>');
-</script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/independentdigital.co.uk/microsoft_sitehub160x600;sz=160x600;tile=2;ord=7396601943?"></script><noscript>
-<a href="http://ad.uk.doubleclick.net/jump/independentdigital.co.uk/microsoft_sitehub160x600;sz=160x600;tile=2;ord=1234567890?" target="_blank">
-<img src="http://ad.uk.doubleclick.net/ad/independentdigital.co.uk/microsoft_sitehub160x600;sz=160x600;tile=2;ord=1234567890?" border="0" width="160" height="600">
-</a></noscript></td></tr></tbody></table>
-<!------- End of Ad'LINK ADJ Tag - Javascript Format, size : 160x600  ------></td></tr>  
+
+  
+  
+  
+  
+  
+    
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+      
+      
+        
+        
+        <div id="banner" class="ad">
+          
+              
+                
+                  
+                  
+                  
+                
+              
+          
 
 
-</tbody></table>
-
-<!-- commercial adverts end --> 
-
-</td>
-</tr>
-</tbody></table>
-<br>
-
-<!-- content adverts --> 
-<br clear="all">
-<!-- our content-->
-<table width="740">
-<tbody><tr>
-<td align="center">
-<table>
-<tbody><tr>
-<td align="center">
-<hr width="550" size="1" align="center">
-<a href="http://www.independent.co.uk/legal/" class="black12px">Terms of Use</a> | 
-<a href="http://www.independent.co.uk/story.jsp?story=55090" class="black12px">Privacy Policy, including use of cookies</a> |
-<a href="http://www.independent.co.uk/story.jsp?story=59363" class="black12px">Sign up for our free daily news update</a><br>
-<a href="http://www.independent.co.uk/story.jsp?story=414313" class="black12px">Freelance contributions</a> | 
-<a href="http://www.independent.co.uk/story.jsp?story=116349" class="black12px">Advertise in print</a> |
-<a href="http://www.inmplc.com" class="black12px">INM PLC</a> | 
-<a href="http://www.independent.co.uk/story.jsp?story=55123" class="black12px">Contact us</a> 
-<br clear="all">
-<br>
-<span class="black12px">©2005 Independent News &amp; Media (UK) Ltd.</span></td>
-</tr>
-</tbody></table>
-</td>
-</tr>
-</tbody></table>
-<!-- our content end-->
-<!-- Netscape re-size -->
-
-<script language="javascript" type="text/javascript">
-
-<!--
-
-function WM_netscapeCssFix () {
-	if (document.WM.WM_netscapeCssFix.initWindowWidth != window.innerWidth || document.WM.WM_netscapeCssFix.initWindowHeight != window.innerHeight) {
-		document.location = document.location;
-	}
-}
-
-function WM_netscapeCssFixCheckIn () {
-	if ((navigator.appName == 'Netscape') && (parseInt(navigator.appVersion) == 4)) {
-		if (typeof document.WM == 'undefined') {
-			document.WM = new Object;
-		}
-		if (typeof document.WM.WM_scaleFont == 'undefined') {
-			document.WM.WM_netscapeCssFix = new Object;
-			document.WM.WM_netscapeCssFix.initWindowWidth = window.innerWidth;
-			document.WM.WM_netscapeCssFix.initWindowHeight = window.innerHeight;
-		}
-		window.onresize = WM_netscapeCssFix;
-	}
-}
-
-WM_netscapeCssFixCheckIn ();
-
-//-->
 
 
-</script>
-<!-- /Netscape re-size -->
 
-<!-- designed by nuwan nagahawatte -->
 
-<!-- independent.co.uk is owned and trained by independent digital -->
-<!-- end of footer -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="singleAd">
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+   
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+<span class="falkAd">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    <script language="JavaScript" type="text/javascript">
+      Ads_kid=0;
+      Ads_bid=0;
+      Ads_xl=0;
+      Ads_yl=0;
+      Ads_xp='';
+      Ads_yp='';
+      Ads_opt=0;
+      Ads_wrd='';
+      Ads_prf='art=294422';
+      Ads_par='';
+      Ads_cnturl='';
+      Ads_sec=0;
+      Ads_channels='';
+    </script>
+    <script id="banner-article-news-script" type="text/javascript" language="javascript" src="http://a.as-eu.falkag.net/dat/njf/1028/independent-news/article/banner-article-news.js"></script>
+  
+  
+  
+
+</span>
+  
+  
+
+
+</div>
+
+
+
+        </div>
+      
+      
+      
+  
+    
+  
+
+
+</div>
+
+
+        <div class="spacer"></div>
+      </div>
+
+      <div class="container">
+        <div class="left">
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+    
+  
+    
+    
+  
+  <div id="menu">
+    <ul class="level-1">
+      
+        
+          <li class="isRoot hasChild level-1">
+            <pre><a class="level-1" href="http://www.independent.co.uk/">Home</a></pre>
+            
+              <ul class="level-2">
+            
+            
+        
+      
+        
+          <li class="isCurrent hasChild level-2">
+            <pre><a class="level-2" href="http://news.independent.co.uk/">News</a></pre>
+            
+              <ul class="level-3">
+            
+            
+        
+      
+        
+          <li class="isChild hasChild level-3">
+            <pre><a class="level-3" href="http://news.independent.co.uk/uk/">UK</a></pre>
+            
+              <ul class="level-4">
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://news.independent.co.uk/uk/crime/">Crime</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://news.independent.co.uk/uk/health_medical/">Health&nbsp;Medical</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://news.independent.co.uk/uk/legal/">Legal</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://news.independent.co.uk/uk/politics/">UK&nbsp;Politics</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://news.independent.co.uk/uk/this_britain/">This&nbsp;Britain</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://news.independent.co.uk/uk/transport/">Transport</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://news.independent.co.uk/uk/ulster/">Ulster</a></pre>
+            
+              </li>
+            
+            
+              
+                    </ul>
+                  </li>
+              
+            
+        
+      
+        
+          <li class="isChild  level-3">
+            <pre><a class="level-3" href="http://news.independent.co.uk/europe/">Europe</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isChild hasChild level-3">
+            <pre><a class="level-3" href="http://news.independent.co.uk/world/">World</a></pre>
+            
+              <ul class="level-4">
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://news.independent.co.uk/world/politics/">World&nbsp;Politics</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://news.independent.co.uk/world/science_technology/">Science&nbsp;&amp;&nbsp;Technology</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://news.independent.co.uk/world/africa/">Africa</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://news.independent.co.uk/world/americas/">Americas</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://news.independent.co.uk/world/asia/">Asia</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://news.independent.co.uk/world/australasia/">Australasia</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://news.independent.co.uk/world/middle_east/">Middle&nbsp;East</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://news.independent.co.uk/world/fisk/">Robert&nbsp;Fisk</a></pre>
+            
+              </li>
+            
+            
+              
+                    </ul>
+                  </li>
+              
+            
+        
+      
+        
+          <li class="isChild hasChild level-3">
+            <pre><a class="level-3" href="http://news.independent.co.uk/business/">Business</a></pre>
+            
+              <ul class="level-4">
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://news.independent.co.uk/business/news/">Business&nbsp;News</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://news.independent.co.uk/business/analysis_and_features/">Business&nbsp;Analysis&nbsp;&amp;&nbsp;Features</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://news.independent.co.uk/business/comment/">Business&nbsp;Comment</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://news.independent.co.uk/business/sme/">SME</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://news.independent.co.uk/business/citywire/">Citywire</a></pre>
+            
+              </li>
+            
+            
+              
+                    </ul>
+                  </li>
+              
+            
+        
+      
+        
+          <li class="isChild  level-3">
+            <pre><a class="level-3" href="http://news.independent.co.uk/media/">Media</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isChild  level-3">
+            <pre><a class="level-3" href="http://news.independent.co.uk/environment/">Environment</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isChild hasChild level-3">
+            <pre><a class="level-3" href="http://news.independent.co.uk/people/">People</a></pre>
+            
+              <ul class="level-4">
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://news.independent.co.uk/people/obituaries/">Obituaries</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://news.independent.co.uk/people/profiles/">Profiles</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://news.independent.co.uk/people/pandora/">Pandora</a></pre>
+            
+              </li>
+            
+            
+              
+                    </ul>
+                  </li>
+              
+            
+        
+      
+        
+          <li class="isChild hasChild level-3">
+            <pre><a class="level-3" href="http://news.independent.co.uk/appeals/">Appeals</a></pre>
+            
+              <ul class="level-4">
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://news.independent.co.uk/appeals/indy_appeal/">Indy&nbsp;Appeal</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://news.independent.co.uk/appeals/ios_appeal/">IoS&nbsp;Appeal</a></pre>
+            
+              </li>
+            
+            
+              
+                    </ul>
+                  </li>
+              
+                    </ul>
+                  </li>
+              
+            
+        
+      
+        
+          <li class="isSibling hasChild level-2">
+            <pre><a class="level-2" href="http://sport.independent.co.uk/">Sport</a></pre>
+            
+              <ul class="level-3">
+            
+            
+        
+      
+        
+          <li class="isDefault  level-3">
+            <pre><a class="level-3" href="http://sport.independent.co.uk/cricket/">Cricket</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-3">
+            <pre><a class="level-3" href="http://sport.independent.co.uk/fishing/">Fishing</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault hasChild level-3">
+            <pre><a class="level-3" href="http://sport.independent.co.uk/football/">Football</a></pre>
+            
+              <ul class="level-4">
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://sport.independent.co.uk/football/news/">News</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://sport.independent.co.uk/football/comment/">Comment</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://sport.independent.co.uk/football/european/">European</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://sport.independent.co.uk/football/internationals/">Internationals</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://sport.independent.co.uk/football/coca_cola/">Coca&nbsp;Cola</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://sport.independent.co.uk/football/scotland/">Scotland</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://sport.independent.co.uk/football/arsenal/">Arsenal</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://sport.independent.co.uk/football/aston_villa/">Aston&nbsp;Villa</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://sport.independent.co.uk/football/birmingham/">Birmingham</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://sport.independent.co.uk/football/blackburn/">Blackburn</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://sport.independent.co.uk/football/bolton/">Bolton</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://sport.independent.co.uk/football/charlton/">Charlton</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://sport.independent.co.uk/football/chelsea/">Chelsea</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://sport.independent.co.uk/football/everton/">Everton</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://sport.independent.co.uk/football/fulham/">Fulham</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://sport.independent.co.uk/football/leeds/">Leeds</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://sport.independent.co.uk/football/leicester/">Leicester</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://sport.independent.co.uk/football/liverpool/">Liverpool</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://sport.independent.co.uk/football/manchester_city/">Manchester&nbsp;City</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://sport.independent.co.uk/football/man_united/">Manchester&nbsp;United</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://sport.independent.co.uk/football/middlesbrough/">Middlesbrough</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://sport.independent.co.uk/football/newcastle/">Newcastle</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://sport.independent.co.uk/football/portsmouth/">Portsmouth</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://sport.independent.co.uk/football/sunderland/">Sunderland</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://sport.independent.co.uk/football/tottenham/">Tottenham</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://sport.independent.co.uk/football/west_brom/">West&nbsp;Brom</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://sport.independent.co.uk/football/west_ham/">West&nbsp;Ham</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://sport.independent.co.uk/football/wigan/">Wigan</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://sport.independent.co.uk/football/wolves/">Wolves</a></pre>
+            
+              </li>
+            
+            
+              
+                    </ul>
+                  </li>
+              
+            
+        
+      
+        
+          <li class="isDefault  level-3">
+            <pre><a class="level-3" href="http://sport.independent.co.uk/general/">General</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-3">
+            <pre><a class="level-3" href="http://sport.independent.co.uk/golf/">Golf</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-3">
+            <pre><a class="level-3" href="http://sport.independent.co.uk/motor_racing/">Motor&nbsp;Racing</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-3">
+            <pre><a class="level-3" href="http://sport.independent.co.uk/rugby_league/">Rugby&nbsp;League</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-3">
+            <pre><a class="level-3" href="http://sport.independent.co.uk/rugby_union/">Rugby&nbsp;Union</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-3">
+            <pre><a class="level-3" href="http://sport.independent.co.uk/tennis/">Tennis</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-3">
+            <pre><a class="level-3" href="http://sport.independent.co.uk/olympics/">Olympics</a></pre>
+            
+              </li>
+            
+            
+              
+                    </ul>
+                  </li>
+              
+            
+        
+      
+        
+          <li class="isSibling hasChild level-2">
+            <pre><a class="level-2" href="http://comment.independent.co.uk/">Comment</a></pre>
+            
+              <ul class="level-3">
+            
+            
+        
+      
+        
+          <li class="isDefault  level-3">
+            <pre><a class="level-3" href="http://comment.independent.co.uk/leading_articles/">Leading&nbsp;Articles</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-3">
+            <pre><a class="level-3" href="http://comment.independent.co.uk/letters/">Letters</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-3">
+            <pre><a class="level-3" href="http://comment.independent.co.uk/commentators/">Commentators</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-3">
+            <pre><a class="level-3" href="http://comment.independent.co.uk/podium/">Podium</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault hasChild level-3">
+            <pre><a class="level-3" href="http://comment.independent.co.uk/columnists_a_l/">Columnists&nbsp;A-L</a></pre>
+            
+              <ul class="level-4">
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://comment.independent.co.uk/columnists_a_l/yasmin_alibhai_brown/">Yasmin&nbsp;Alibhai-Brown</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://comment.independent.co.uk/columnists_a_l/bruce_anderson/">Bruce&nbsp;Anderson</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://comment.independent.co.uk/columnists_a_l/sue_arnold/">Sue&nbsp;Arnold</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://comment.independent.co.uk/columnists_a_l/terence_blacker/">Terence&nbsp;Blacker</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://comment.independent.co.uk/columnists_a_l/michael_brown/">Michael&nbsp;Brown</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://comment.independent.co.uk/columnists_a_l/simon_carr/">Simon&nbsp;Carr</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://comment.independent.co.uk/columnists_a_l/mary_dejevsky/">Mary&nbsp;Dejevsky</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://comment.independent.co.uk/columnists_a_l/tracey_emin/">Tracey&nbsp;Emin</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://comment.independent.co.uk/columnists_a_l/helen_fielding/">Helen&nbsp;Fielding</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://comment.independent.co.uk/columnists_a_l/andrew_grice/">Andrew&nbsp;Grice</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://comment.independent.co.uk/columnists_a_l/adrian_hamilton/">Adrian&nbsp;Hamilton</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://comment.independent.co.uk/columnists_a_l/johann_hari/">Johann&nbsp;Hari</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://comment.independent.co.uk/columnists_a_l/philip_hensher/">Philip&nbsp;Hensher</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://comment.independent.co.uk/columnists_a_l/howard_jacobson/">Howard&nbsp;Jacobson</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://comment.independent.co.uk/columnists_a_l/alex_james/">Alex&nbsp;James</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://comment.independent.co.uk/columnists_a_l/dom_joly/">Dom&nbsp;Joly</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://comment.independent.co.uk/columnists_a_l/fergal_keane/">Fergal&nbsp;Keane</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://comment.independent.co.uk/columnists_a_l/miles_kington/">Miles&nbsp;Kington</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://comment.independent.co.uk/columnists_a_l/john_lichfield/">John&nbsp;Lichfield</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://comment.independent.co.uk/columnists_a_l/david_lister/">David&nbsp;Lister</a></pre>
+            
+              </li>
+            
+            
+              
+                    </ul>
+                  </li>
+              
+            
+        
+      
+        
+          <li class="isDefault hasChild level-3">
+            <pre><a class="level-3" href="http://comment.independent.co.uk/columnists_m_z/">Columnists&nbsp;M-Z</a></pre>
+            
+              <ul class="level-4">
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://comment.independent.co.uk/columnists_m_z/donald_macintyre/">Donald&nbsp;Macintyre</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://comment.independent.co.uk/columnists_m_z/hamish_mcrae/">Hamish&nbsp;McRae</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://comment.independent.co.uk/columnists_m_z/deborah_orr/">Deborah&nbsp;Orr</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://comment.independent.co.uk/columnists_m_z/rowan_pelling/">Rowan&nbsp;Pelling</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://comment.independent.co.uk/columnists_m_z/john_rentoul/">John&nbsp;Rentoul</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://comment.independent.co.uk/columnists_m_z/steve_richards/">Steve&nbsp;Richards</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://comment.independent.co.uk/columnists_m_z/deborah_ross/">Deborah&nbsp;Ross</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://comment.independent.co.uk/columnists_m_z/will_self/">Will&nbsp;Self</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://comment.independent.co.uk/columnists_m_z/joan_smith/">Joan&nbsp;Smith</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://comment.independent.co.uk/columnists_m_z/mark_steel/">Mark&nbsp;Steel</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://comment.independent.co.uk/columnists_m_z/janet_street_porter/">Janet&nbsp;Street-Porter</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://comment.independent.co.uk/columnists_m_z/thomas_sutcliffe/">Thomas&nbsp;Sutcliffe</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://comment.independent.co.uk/columnists_m_z/david_usborne/">David&nbsp;Usborne</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://comment.independent.co.uk/columnists_m_z/brian_viner/">Brian&nbsp;Viner</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://comment.independent.co.uk/columnists_m_z/alan_watkins/">Alan&nbsp;Watkins</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://comment.independent.co.uk/columnists_m_z/andreas_whittam_smith/">Andreas&nbsp;Whittam&nbsp;Smith</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://comment.independent.co.uk/columnists_m_z/john_walsh/">John&nbsp;Walsh</a></pre>
+            
+              </li>
+            
+            
+              
+                    </ul>
+                  </li>
+              
+                    </ul>
+                  </li>
+              
+            
+        
+      
+        
+          <li class="isSibling hasChild level-2">
+            <pre><a class="level-2" href="http://education.independent.co.uk/">Education</a></pre>
+            
+              <ul class="level-3">
+            
+            
+        
+      
+        
+          <li class="isDefault  level-3">
+            <pre><a class="level-3" href="http://education.independent.co.uk/news/">News</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-3">
+            <pre><a class="level-3" href="http://education.independent.co.uk/clearing/">Clearing</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault hasChild level-3">
+            <pre><a class="level-3" href="http://education.independent.co.uk/higher/">Higher</a></pre>
+            
+              <ul class="level-4">
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://education.independent.co.uk/higher/az_uni_colleges/">A-Z&nbsp;Unis&nbsp;&amp;&nbsp;Colleges&nbsp;</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://education.independent.co.uk/higher/az_degrees/">A-Z&nbsp;Degrees</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://education.independent.co.uk/higher/advice/">Advice</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://education.independent.co.uk/higher/overseas_students/">Overseas&nbsp;Students</a></pre>
+            
+              </li>
+            
+            
+              
+                    </ul>
+                  </li>
+              
+            
+        
+      
+        
+          <li class="isDefault hasChild level-3">
+            <pre><a class="level-3" href="http://education.independent.co.uk/business_schools/">Business&nbsp;Schools</a></pre>
+            
+              <ul class="level-4">
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://education.independent.co.uk/business_schools/mbas_guide/">MBAs&nbsp;Guide</a></pre>
+            
+              </li>
+            
+            
+              
+                    </ul>
+                  </li>
+              
+            
+        
+      
+        
+          <li class="isDefault hasChild level-3">
+            <pre><a class="level-3" href="http://education.independent.co.uk/careers_advice/">Careers&nbsp;Advice</a></pre>
+            
+              <ul class="level-4">
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://education.independent.co.uk/careers_advice/az_careers/">A-Z&nbsp;Careers</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://education.independent.co.uk/careers_advice/aerospace/">Aerospace</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://education.independent.co.uk/careers_advice/engineering/">Engineering</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://education.independent.co.uk/careers_advice/featured_institutions/">Featured&nbsp;Institutions</a></pre>
+            
+              </li>
+            
+            
+              
+                    </ul>
+                  </li>
+              
+            
+        
+      
+        
+          <li class="isDefault hasChild level-3">
+            <pre><a class="level-3" href="http://education.independent.co.uk/gap_year/">Gap&nbsp;Year</a></pre>
+            
+              <ul class="level-4">
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://education.independent.co.uk/gap_year/suppliers/">Suppliers</a></pre>
+            
+              </li>
+            
+            
+              
+                    </ul>
+                  </li>
+              
+            
+        
+      
+        
+          <li class="isDefault  level-3">
+            <pre><a class="level-3" href="http://education.independent.co.uk/graduate_options/">Graduate&nbsp;Options</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-3">
+            <pre><a class="level-3" href="http://education.independent.co.uk/further/">Further</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault hasChild level-3">
+            <pre><a class="level-3" href="http://education.independent.co.uk/schools/">Schools</a></pre>
+            
+              <ul class="level-4">
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://education.independent.co.uk/schools/az-alevels/">A-Z&nbsp;A-levels</a></pre>
+            
+              </li>
+            
+            
+              
+                    </ul>
+                  </li>
+              
+                    </ul>
+                  </li>
+              
+            
+        
+      
+        
+          <li class="isSibling hasChild level-2">
+            <pre><a class="level-2" href="http://motoring.independent.co.uk/">Motoring</a></pre>
+            
+              <ul class="level-3">
+            
+            
+        
+      
+        
+          <li class="isDefault  level-3">
+            <pre><a class="level-3" href="http://motoring.independent.co.uk/features/">Features</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-3">
+            <pre><a class="level-3" href="http://motoring.independent.co.uk/road_tests/">Road&nbsp;Tests</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-3">
+            <pre><a class="level-3" href="http://motoring.independent.co.uk/comment/">Comment</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-3">
+            <pre><a class="level-3" href="http://motoring.independent.co.uk/motor_racing/">Motor&nbsp;Racing</a></pre>
+            
+              </li>
+            
+            
+              
+                    </ul>
+                  </li>
+              
+            
+        
+      
+        
+          <li class="isSibling hasChild level-2">
+            <pre><a class="level-2" href="http://money.independent.co.uk/">Money</a></pre>
+            
+              <ul class="level-3">
+            
+            
+        
+      
+        
+          <li class="isDefault hasChild level-3">
+            <pre><a class="level-3" href="http://money.independent.co.uk/property/">Property</a></pre>
+            
+              <ul class="level-4">
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://money.independent.co.uk/property/mortgages/">Mortgages</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://money.independent.co.uk/property/homes/">Homes</a></pre>
+            
+              </li>
+            
+            
+              
+                    </ul>
+                  </li>
+              
+            
+        
+      
+        
+          <li class="isDefault hasChild level-3">
+            <pre><a class="level-3" href="http://money.independent.co.uk/personal_finance/">Personal&nbsp;Finance</a></pre>
+            
+              <ul class="level-4">
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://money.independent.co.uk/personal_finance/financial_directory/">Financial&nbsp;Directory</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://money.independent.co.uk/personal_finance/invest_save/">Invest&nbsp;&amp;&nbsp;Save</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://money.independent.co.uk/personal_finance/loans_credit/">Loans&nbsp;&amp;&nbsp;Credit</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://money.independent.co.uk/personal_finance/pensions/">Pensions</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://money.independent.co.uk/personal_finance/insurance/">Insurance</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://money.independent.co.uk/personal_finance/tax/">Tax</a></pre>
+            
+              </li>
+            
+            
+              
+                    </ul>
+                  </li>
+              
+                    </ul>
+                  </li>
+              
+            
+        
+      
+        
+          <li class="isSibling hasChild level-2">
+            <pre><a class="level-2" href="http://jobs.independent.co.uk/">Jobs</a></pre>
+            
+              <ul class="level-3">
+            
+            
+        
+      
+        
+          <li class="isDefault  level-3">
+            <pre><a class="level-3" href="http://jobs.independent.co.uk/relocation/">Relocation</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault hasChild level-3">
+            <pre><a class="level-3" href="http://jobs.independent.co.uk/careers/">Careers</a></pre>
+            
+              <ul class="level-4">
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://jobs.independent.co.uk/careers/career_clinic/">Career&nbsp;Clinic</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://jobs.independent.co.uk/careers/az_careers/">A-Z&nbsp;Careers</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://jobs.independent.co.uk/careers/aerospace/">Aerospace</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://jobs.independent.co.uk/careers/engineering/">Engineering</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://jobs.independent.co.uk/careers/featured_institutions/">Featured&nbsp;Institutions</a></pre>
+            
+              </li>
+            
+            
+              
+                    </ul>
+                  </li>
+              
+            
+        
+      
+        
+          <li class="isDefault  level-3">
+            <pre><a class="level-3" href="http://jobs.independent.co.uk/personality_tests/">Personality&nbsp;Tests</a></pre>
+            
+              </li>
+            
+            
+              
+                    </ul>
+                  </li>
+              
+            
+        
+      
+        
+          <li class="isSibling hasChild level-2">
+            <pre><a class="level-2" href="http://travel.independent.co.uk/">Travel</a></pre>
+            
+              <ul class="level-3">
+            
+            
+        
+      
+        
+          <li class="isDefault  level-3">
+            <pre><a class="level-3" href="http://travel.independent.co.uk/news_and_advice/">News&nbsp;&amp;&nbsp;Advice</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-3">
+            <pre><a class="level-3" href="http://travel.independent.co.uk/skiing/">Skiing</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-3">
+            <pre><a class="level-3" href="http://travel.independent.co.uk/asia/">Asia</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-3">
+            <pre><a class="level-3" href="http://travel.independent.co.uk/africa/">Africa</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-3">
+            <pre><a class="level-3" href="http://travel.independent.co.uk/americas/">Americas</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-3">
+            <pre><a class="level-3" href="http://travel.independent.co.uk/ausandpacific/">Australasia&nbsp;&amp;&nbsp;Pacific</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-3">
+            <pre><a class="level-3" href="http://travel.independent.co.uk/europe/">Europe</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-3">
+            <pre><a class="level-3" href="http://travel.independent.co.uk/middle_east/">Middle&nbsp;East</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-3">
+            <pre><a class="level-3" href="http://travel.independent.co.uk/uk/">UK</a></pre>
+            
+              </li>
+            
+            
+              
+                    </ul>
+                  </li>
+              
+            
+        
+      
+        
+          <li class="isSibling hasChild level-2">
+            <pre><a class="level-2" href="http://enjoyment.independent.co.uk/">Enjoyment</a></pre>
+            
+              <ul class="level-3">
+            
+            
+        
+      
+        
+          <li class="isDefault hasChild level-3">
+            <pre><a class="level-3" href="http://enjoyment.independent.co.uk/books/">Books</a></pre>
+            
+              <ul class="level-4">
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://enjoyment.independent.co.uk/books/news/">News</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://enjoyment.independent.co.uk/books/reviews/">Reviews</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://enjoyment.independent.co.uk/books/features/">Features</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://enjoyment.independent.co.uk/books/interviews/">Interviews</a></pre>
+            
+              </li>
+            
+            
+              
+                    </ul>
+                  </li>
+              
+            
+        
+      
+        
+          <li class="isDefault hasChild level-3">
+            <pre><a class="level-3" href="http://enjoyment.independent.co.uk/film/">Film</a></pre>
+            
+              <ul class="level-4">
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://enjoyment.independent.co.uk/film/news/">News</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://enjoyment.independent.co.uk/film/reviews/">Reviews</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://enjoyment.independent.co.uk/film/features/">Features</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://enjoyment.independent.co.uk/film/interviews/">Interviews</a></pre>
+            
+              </li>
+            
+            
+              
+                    </ul>
+                  </li>
+              
+            
+        
+      
+        
+          <li class="isDefault hasChild level-3">
+            <pre><a class="level-3" href="http://enjoyment.independent.co.uk/food_and_drink/">Food&nbsp;&amp;&nbsp;Drink</a></pre>
+            
+              <ul class="level-4">
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://enjoyment.independent.co.uk/food_and_drink/news/">News</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://enjoyment.independent.co.uk/food_and_drink/reviews/">Reviews</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://enjoyment.independent.co.uk/food_and_drink/features/">Features</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://enjoyment.independent.co.uk/food_and_drink/recipes/">Recipes</a></pre>
+            
+              </li>
+            
+            
+              
+                    </ul>
+                  </li>
+              
+            
+        
+      
+        
+          <li class="isDefault hasChild level-3">
+            <pre><a class="level-3" href="http://enjoyment.independent.co.uk/music/">Music</a></pre>
+            
+              <ul class="level-4">
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://enjoyment.independent.co.uk/music/news/">News</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://enjoyment.independent.co.uk/music/reviews/">Reviews</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://enjoyment.independent.co.uk/music/features/">Features</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://enjoyment.independent.co.uk/music/interviews/">Interviews</a></pre>
+            
+              </li>
+            
+            
+              
+                    </ul>
+                  </li>
+              
+            
+        
+      
+        
+          <li class="isDefault  level-3">
+            <pre><a class="level-3" href="http://enjoyment.independent.co.uk/photography/">Photography</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault hasChild level-3">
+            <pre><a class="level-3" href="http://enjoyment.independent.co.uk/theatre/">Theatre</a></pre>
+            
+              <ul class="level-4">
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://enjoyment.independent.co.uk/theatre/news/">News</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://enjoyment.independent.co.uk/theatre/reviews/">Reviews</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://enjoyment.independent.co.uk/theatre/features/">Features</a></pre>
+            
+              </li>
+            
+            
+        
+      
+        
+          <li class="isDefault  level-4">
+            <pre><a class="level-4" href="http://enjoyment.independent.co.uk/theatre/interviews/">Interviews</a></pre>
+            
+              </li>
+            
+            
+              
+                    </ul>
+                  </li>
+              
+                    </ul>
+                  </li>
+              
+                    </ul>
+                  </li>
+              
+            
+        
+      
+      <li class="slogan">from The Independent &amp; The Independent on Sunday</li>
+    </ul>
+  </div>
+
+
+        </div>
+
+        <div class="content">
+          
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 <script type="text/javascript">
-	var stamp = "server request at: 21 / 04 / 05 @ 05:07:34 <br>\n server completion at: 21 / 04 / 05 @ 05:07:34 <br>\n  <br>\n Elapsed difference:	0";
-	timeStampPage( 1114056454764, stamp  );
+  var articleheadline = "Privacy Policy"
 </script>
 
+<style type="text/css">
+  .article {visibility: hidden;}
+</style>
 
+<div class="article">
+  <div class="news">
+    <div id="date">
+      <script type="text/javascript">document.write(getDateString());</script>
+    </div>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+<div id="breadCrumbs">
+  <ul>
+    
+      
+        <li class="isRoot hasChild">
+          
+          <a href="http://www.independent.co.uk/">Home</a>
+          
+            <ul>
+          
+          
+      
+    
+      
+        <li class="isCurrent ">
+          
+            &gt;
+          
+          <a href="http://news.independent.co.uk/">News</a>
+          
+            </li>
+          
+          
+            
+                  </ul>
+                </li>
+            
+
+          
+      
+    
+  </ul>
+</div>
+
+
+
+    
+      
+      
+    
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+    
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+      
+      
+        
+        
+        <div id="miniheader" class="ad">
+          
+              
+                
+                  
+                  
+                  
+                
+              
+          
+              
+                
+                  
+                  
+                  
+                
+              
+          
+        </div>
+      
+      
+      
+  
+    
+  
+
+
+
+
+    
+
+    
+
+    
+
+    <h1>
+      Privacy Policy
+      
+
+
+
+
+
+
+
+
+<span class="starrating">
+  
+  
+</span>
+    </h1>
+
+    
+      <h2>
+        Please read this carefully
+      </h2>
+    
+
+    
+
+    <h4>
+      Published:&nbsp;01 January 2005
+    </h4>
+
+    <div class="bodyCopy">
+      <div class="articleButton">
+        
+          
+          
+        
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+    
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+      
+      
+        
+        
+        <div id="articlebutton" class="ad">
+          
+              
+                
+                  
+                  
+                  
+                
+              
+          
+              
+                
+                  
+                  
+                  
+                
+              
+          
+        </div>
+      
+      
+      
+  
+    
+  
+
+
+      </div>
+      <div id="bodyCopyContent">
+        
+
+        <p>
+  Before using the Website (that is, any site operated by Independent News &amp;
+ Media plc companies) it is your responsibility to read the Privacy Policy. 
+  You can notify us in the manner set out below if you do not want us to share 
+  information about you with third parties.
+</p>
+
+
+        
+          
+          
+            <p>
+   <b>The basic principles</b>
+</p>
+<p>
+  By accessing and using the Website you are agreeing to be legally bound by 
+  the Terms of Use and this Privacy Policy. You should therefore also read the 
+  Terms of Use before using the Website.
+</p>
+<p>
+  ID is determined to protect your privacy. It is very important to us that 
+  you should be able to use and enjoy the Website without having to compromise 
+  your privacy unacceptably.
+</p>
+<p>
+  Knowing something about our users is, however, necessary to ensure that our 
+  service is continually improved. We need to build an accurate picture of the 
+  needs and wishes of our users, and to be able to communicate with you. That 
+  enables us to offer a service that is relevant and truly interactive, which 
+  is what our users expect. It also helps us to maintain free-to-user access 
+  to much of the Website.
+</p>
+<p>
+   <b>We answer your important questions</b>
+</p>
+<p>
+   <i>"What information do you collect about me?"</i>
+</p>
+<p>
+  We automatically collect some data about our users' browsing actions and 
+  patterns. This is aggregate data and does not identify any individual.
+</p>
+<p>
+  We may also ask you to provide personal information on a voluntary basis in 
+  order to get a clearer picture of our users. It is then entirely up to you 
+  whether you are happy to give us this information.
+</p>
+<p>
+  In the course of entering competitions, promotions and other online offers 
+  you will be asked to give some details about yourself. You may also choose 
+  to e-mail us or make contact with us in other ways. Such contact gives us 
+  information about you.
+</p>
+<p>
+  If you have any financial dealings or make purchases with our trading 
+  partners on co-branded sites, they will ask for certain information. This 
+  information may be shared with us.
+</p>
+<p>
+   <i>"For what purposes do you collect and use this information?"</i></p>
+<p>
+  We use aggregate audience details (where no individual is identifiable) to 
+  help us improve our understanding of our users and their preferences. We use 
+  it to assist us in arranging relevant advertising, commercial opportunities 
+  and competitions, as well as ensuring the best editorial coverage. It also 
+  helps us develop the Website and audit its use.
+</p>
+<p>
+  * The information about you as an identifiable individual, including contact 
+  details, may be used in the following ways:
+</p>
+<p>
+  * to conduct market research and other surveys.
+</p>
+<p>
+  * to create and draw to your attention editorial material and commercial 
+  opportunities that may be of interest to you.
+</p>
+<p>
+  * to be shared with advertisers, trading partners and other commercial 
+  entities with whom we have or might have an association. We may also share 
+  the information that they obtain about their users, which may include you.
+</p>
+<p>
+   <i>"How private are my details?</i>
+</p>
+<p>
+  Apart from other companies in the Independent News &amp; Media group, we 
+  only share personal information about you with third parties whom we have 
+  selected carefully and with whom we have, or may have, a commercial 
+  relationship. ID complies with the relevant legal requirements and takes all 
+  reasonable care to ensure that your information is secure and private and is 
+  only seen by responsible third parties. However we cannot be held 
+  responsible for the actions of any third party who receives or obtains 
+  access to the information, nor for any breach of security.
+</p>
+<p>
+  If you tell us that you do not want us to use your details, then data about 
+  your use of the Web Site would then only form part of aggregated statistics 
+  and would not be related to you as an individual.
+</p>
+<p>
+  You can ask to see the information we have about you by e-mailing a request 
+  to <a href="mailto:customerservice@independent.co.uk">@ </a>.
+</p>
+<p>
+   <i>"What do I do if I am not happy for you to share information about 
+  me with others?"</i>
+</p>
+<p>
+  You may not wish us to share personal details about you with third parties 
+  outside the Group, or to use your information in the other ways we have 
+  described in this Privacy Policy. You can e-mail <a href="mailto:customerservice@independent.co.uk">@ </a> at any time to let us know of any objections you may have 
+  to how we use or disclose your data in the ways set out in this Privacy 
+  Policy. Your personal details may in any event be shared with third party 
+  organisations we have contracted to provide services to us, on an agency 
+  basis, which include processing data. We may also have to release 
+  information (which could include the contents of e-mail communications 
+  between any persons) because of a legal requirement on us or pursuant to a 
+  court order.
+</p>
+<p>
+   <b>Use of cookies on a website </b>
+</p>
+<p>
+   <i>The basic principles</i>
+</p>
+<p>
+  A cookie is a text-only string of information that a website transfers to 
+  the cookie file of the browser of your computer's hard disk so that the 
+  website can remember who you are. A cookie will typically contain the name 
+  of the domain from which the cookie has come, the "lifetime" of 
+  the cookie, and a value, usually a randomly generated unique number.
+</p>
+<p>
+  Two types of cookies are used on the Website: <b>Session Cookies</b> which 
+  are temporary cookies that remain in the cookie file of your browser until 
+  you leave the Website.
+</p>
+<p>
+   <b>Persistent Cookies</b> which remain in the cookie file of your browser 
+  for much longer (though how long will depend on the lifetime of each 
+  specific cookie). Cookies can help a website to arrange content to match 
+  your preferred interests more quickly. Most major websites use cookies. 
+  Cookies cannot be used by themselves to identify you.
+</p>
+<p>
+   <i>How we collect cookies on the Website and what information we collect</i>
+</p>
+<p>
+   <b>Session Cookies: </b>To allow you to carry information across pages of 
+  the Website and avoid having to re-enter information. <b>Persistent Cookies: </b>
+To help us recognise you as a unique visitor (just a number) when you return 
+  to the Website and to allow us to tailor content, advertisements and the 
+  presentation of the Website to match your preferences. To compile anonymous, 
+  aggregated statistics that allow us to understand how users use the Website 
+  and to help us improve the structure of the Website. We cannot identify you 
+  personally in this way.
+</p>
+<p>
+   <i>Third Party Cookies. </i>
+</p>
+<p>
+  Third parties serve cookies via the Website. These are used for the 
+  following purposes: To serve advertisements on the Website and track whether 
+  these advertisements are clicked on by users. To control how often you are 
+  shown a particular advertisement. To count the number of anonymous users of 
+  the Website.To provide security within transactions.
+</p>
+<p>
+   <i>Use of Web Beacons</i>
+</p>
+<p>
+  Some of our web pages may contain electronic images know as web beacons 
+  (sometimes know as clear gifs) that allow us to count users who have visited 
+  these pages. Web beacons collect only limited information which including a 
+  cookie number, time and date of a page view, and a description of the page 
+  on which the web beacon resides. We may also carry web beacons placed by 
+  third party advertisers. These beacons do not carry any personally 
+  identifiable information and are only used to track the effectiveness of a 
+  particular campaign.
+</p>
+<p>
+   <i>Disabling/Enabling Cookies. </i>
+</p>
+<p>
+  You have the ability to accept or decline cookies by modifying the settings 
+  in your browser. However, you may not be able to use all the interactive 
+  features of the Website if cookies are disabled.
+</p>
+<p>
+   <b>International transfer of personal data</b>
+</p>
+<p>
+  As you will know, the Internet does not recognise national boundaries. 
+  Services on the net are accessible globally so collection and transmission 
+  of personal data is not always confined to one country. You should be aware 
+  that by using the Website and those of our partners or any site we link 
+  through to, your personal data may be processed in or transferred to other 
+  countries, the USA for example, and you agree to your personal data being 
+  transferred or processed in this way.
+</p>
+<p>
+   <b>Further information</b> If you want further information, or wish to 
+  communicate with us about this Privacy Policy and your wishes about your 
+  personal information, please e-mail <a href="mailto:customerservice@independent.co.uk">@ </a>.
+</p>
+<p>
+   <b>Company information</b>
+</p>
+<p>
+  Independent Digital (UK) Limited is a company in the <a href="http://www.independentnewsmedia.com" target="new">
+Independent News &amp; Media</a> group, registered in England and Wales under 
+  company number 3761191, whose registered office is at Independent House, 191 
+  Marsh Wall, London E14 9RS, UK.
+</p>
+
+          
+        
+
+        
+      </div>
+    </div>
+
+    
+
+    <div class="miniWrapper">
+      
+        
+        
+      
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+    
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+      
+      
+        
+        
+        <div id="minifooter" class="ad">
+          
+              
+                
+                  
+                  
+                  
+                
+              
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="singleAd">
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+   
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+<span class="falkAd">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    <script language="JavaScript" type="text/javascript">
+      Ads_kid=0;
+      Ads_bid=0;
+      Ads_xl=0;
+      Ads_yl=0;
+      Ads_xp='';
+      Ads_yp='';
+      Ads_opt=0;
+      Ads_wrd='';
+      Ads_prf='art=294422';
+      Ads_par='';
+      Ads_cnturl='';
+      Ads_sec=0;
+      Ads_channels='';
+    </script>
+    <script id="minifooter-article-news-script" type="text/javascript" language="javascript" src="http://a.as-eu.falkag.net/dat/njf/1028/independent-news/article/minifooter-article-news.js"></script>
+  
+  
+  
+
+</span>
+  
+  
+
+
+</div>
+
+
+
+        </div>
+      
+      
+      
+  
+    
+  
+
+
+    </div>
+
+    
+
+    
+      
+      
+        
+        <div class="thisSection">
+          <h2>
+            Also in this section
+          </h2>
+          <ul>
+            
+            
+            
+            
+            
+              
+                
+                <li class="news">
+                  <a href="http://news.independent.co.uk/article298691.ece">About Click&amp;buy
+                    
+                  </a>
+                </li>
+              
+            
+              
+                
+                <li class="news">
+                  <a href="http://news.independent.co.uk/article298720.ece">Thank you for your annual subscription to the Independent Portfolio: <i>Robert Fisk</i>
+                    <img src="http://www.independent.co.uk/template/ver/gfx//portfolio_icon.gif" class="portfolio" border="0" alt="Independent Porfolio Content">
+                  </a>
+                </li>
+              
+            
+              
+                
+                <li class="news">
+                  <a href="http://news.independent.co.uk/article293864.ece">Independent Digital competition rules
+                    
+                  </a>
+                </li>
+              
+            
+              
+                
+                <li class="news">
+                  <a href="http://news.independent.co.uk/article293865.ece">Standard Independent newspaper competition rules
+                    
+                  </a>
+                </li>
+              
+            
+              
+                
+                <li class="news">
+                  <a href="http://news.independent.co.uk/article293866.ece">Contact Us
+                    
+                  </a>
+                </li>
+              
+            
+          </ul>
+        </div>
+      
+    
+
+    
+
+
+
+
+
+
+
+
+
+<div class="articleFooter">
+  <ul>
+    <li><a id="print" href="javascript:printWindow()"><img src="http://www.independent.co.uk/template/ver/gfx//printable_version_icon.gif" alt="Printable version"></a></li>
+    
+      <li><a href="http://news.independent.co.uk/article293769.ece"><img src="http://www.independent.co.uk/template/ver/gfx//email_newsletter_icon.gif" alt="Email newsletter"></a></li>
+    
+    
+      <li><a href="http://news.independent.co.uk/article293770.ece"><img src="http://www.independent.co.uk/template/ver/gfx//about_portfolio_icon.gif" alt="Portfolio Packages"></a></li>
+    
+    
+      <li><a href="http://news.independent.co.uk/article293771.ece"><img src="http://www.independent.co.uk/template/ver/gfx//rss_feeds_icon.gif" alt="RSS Feeds"></a></li>
+    
+    
+    
+    
+    <li><img src="http://www.independent.co.uk/template/ver/gfx/scale_fonts_icon.gif" alt="Scale fonts"></li>
+    <li class="normalCss" id="normalCss"><a href="javascript:setActiveStyleSheet('normal');">A</a></li>
+    <li class="largeCss" id="largeCss"><a href="javascript:setActiveStyleSheet('large');">A</a></li>
+    <li class="x-largeCss" id="x-largeCss"><a href="javascript:setActiveStyleSheet('x-large');">A</a></li>
+  </ul>
+</div>
+
+  </div>
+</div>
+
+  <script type="text/javascript">
+    setupArticle();
+    
+    
+      //oneColumn();
+      setColumns('oneColumn');
+    
+    
+  </script>
+
+
+<style type="text/css">
+  .article {visibility: visible;}
+</style>
+
+
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+        </div>
+
+        <div class="right">
+
+          
+            
+
+            <div class="mpu">
+              
+                
+                
+              
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+    
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+      
+      
+        
+        
+        <div id="mpu" class="ad">
+          
+              
+                
+                  
+                  
+                  
+                
+              
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="singleAd">
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+   
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+<span class="falkAd">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    <script language="JavaScript" type="text/javascript">
+      Ads_kid=0;
+      Ads_bid=0;
+      Ads_xl=0;
+      Ads_yl=0;
+      Ads_xp='';
+      Ads_yp='';
+      Ads_opt=0;
+      Ads_wrd='';
+      Ads_prf='art=294422';
+      Ads_par='';
+      Ads_cnturl='';
+      Ads_sec=0;
+      Ads_channels='';
+    </script>
+    <script id="mpu-article-news-script" type="text/javascript" language="javascript" src="http://a.as-eu.falkag.net/dat/njf/1028/independent-news/article/mpu-article-news.js"></script>
+  
+  
+  
+
+</span>
+  
+  
+
+
+</div>
+
+
+
+        </div>
+      
+      
+      
+  
+    
+  
+
+
+            </div>
+
+            <div class="wrapAroundRight">
+              <div class="column3">
+                
+                  
+                  
+                
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+    
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+      
+      
+        
+        
+        <div id="button" class="ad">
+          
+              
+                
+                  
+                  
+                  
+                
+              
+          
+              
+                
+                  
+                  
+                  
+                
+              
+          
+        </div>
+      
+      
+      
+  
+    
+  
+
+
+
+                
+
+                  
+
+                  
+                  
+                    
+                    
+                      
+                        
+                        
+                          
+                          
+                          <div class="related">
+                            <h2>
+                              Site info
+                            </h2>
+                            <ul>
+                              
+
+                              
+                                
+                                  
+                                    
+                                    
+                                      <li class="news">
+                                        <a href="http://news.independent.co.uk/article293865.ece">Standard Independent newspaper competition rules
+                                          
+                                        </a>
+                                      </li>
+                                    
+                                  
+                                
+                                
+                              
+                                
+                                  
+                                    
+                                    
+                                      <li class="news">
+                                        <a href="http://news.independent.co.uk/article293864.ece">Independent Digital competition rules
+                                          
+                                        </a>
+                                      </li>
+                                    
+                                  
+                                
+                                
+                              
+                                
+                                  
+                                    
+                                    
+                                  
+                                
+                                
+                              
+                                
+                                  
+                                    
+                                    
+                                      <li class="news">
+                                        <a href="http://news.independent.co.uk/article294419.ece">Legal &amp; Terms of Use
+                                          
+                                        </a>
+                                      </li>
+                                    
+                                  
+                                
+                                
+                              
+                                
+                                  
+                                    
+                                    
+                                      <li class="news">
+                                        <a href="http://news.independent.co.uk/article294441.ece">Freelance contributions
+                                          
+                                        </a>
+                                      </li>
+                                    
+                                  
+                                
+                                
+                              
+                                
+                                  
+                                    
+                                    
+                                      <li class="news">
+                                        <a href="http://motoring.independent.co.uk/article294442.ece">The Independent Traveller: Contributors' Guidelines
+                                          
+                                        </a>
+                                      </li>
+                                    
+                                  
+                                
+                                
+                              
+                                
+                                  
+                                    
+                                    
+                                      <li class="news">
+                                        <a href="http://news.independent.co.uk/article293866.ece">Contact Us
+                                          
+                                        </a>
+                                      </li>
+                                    
+                                  
+                                
+                                
+                              
+                            </ul>
+                          </div>
+                        
+                      
+                    
+                  
+
+                  
+                    
+                      
+                    
+
+
+
+
+
+
+
+
+
+
+
+                  
+
+                  
+                    
+                    <div class="topStories">
+                      <h2>
+                        Top stories
+                      </h2>
+                      <ul>
+                        
+                        
+                        
+                        
+                          
+                            
+                            <li class="news">
+                              <a href="http://news.independent.co.uk/world/middle_east/article335784.ece">Britons freed by hostage-takers 
+                                
+                              </a>
+                            </li>
+                          
+                        
+                          
+                            
+                            <li class="news">
+                              <a href="http://news.independent.co.uk/uk/this_britain/article335804.ece">Tate director walks out as cash row ends 'year of misery'
+                                
+                              </a>
+                            </li>
+                          
+                        
+                          
+                            
+                            <li class="news">
+                              <a href="http://news.independent.co.uk/europe/article335764.ece">Putin's critics take aim as Russia steps into G8 limelight
+                                
+                              </a>
+                            </li>
+                          
+                        
+                          
+                            
+                            <li class="news">
+                              <a href="http://news.independent.co.uk/appeals/indy_appeal/article335748.ece">Christmas Appeal: Sudan's child army returns to classroom
+                                
+                              </a>
+                            </li>
+                          
+                        
+                          
+                            
+                            <li class="news">
+                              <a href="http://news.independent.co.uk/uk/this_britain/article335810.ece">Canoeists fight for right to paddle the 'blue pathways'
+                                
+                              </a>
+                            </li>
+                          
+                        
+                          
+                            
+                            <li class="news">
+                              <a href="http://news.independent.co.uk/uk/this_britain/article335806.ece">London's New Year festivities at risk from Tube strike
+                                
+                              </a>
+                            </li>
+                          
+                        
+                      </ul>
+                    </div>
+                  
+                
+
+                
+              </div>
+            
+
+            <div class="column4">
+              <div class="skyscraper">
+                
+                     
+
+
+
+
+
+
+
+
+
+<div class="search-simple">
+  <form action="http://www.independent.co.uk/search/simple.do">
+    <fieldset>
+      <input type="hidden" name="publicationId" value="55">
+      <input type="hidden" name="includeSectionId" value="38"> 
+  
+      <input type="hidden" name="xsuccessUrl" value="index.jsp?templateName=result">
+      <input type="hidden" name="xerrorUrl" value="index.jsp?templateName=result">
+      
+      <input type="hidden" name="searchEngineName" value="lucySearch1">
+      <input type="hidden" name="includeSubSections" value="true">
+      <input type="hidden" name="pageLength" value="25">
+    
+      <input type="hidden" name="articleType" value="news">
+      <input type="hidden" name="sortString" value="by_date_desc">
+      <input type="hidden" name="maxRows" value="500"> 
+  
+      <label for="searchString">Search this site:</label>
+      <input id="searchString" name="searchString">
+  	  <div class="button"><input type="submit" value="Go"></div>
+  	</fieldset>
+  </form>
+</div>
+
+                
+                
+                  
+                  
+                
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+    
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+      
+      
+        
+        
+        <div id="upsell" class="ad">
+          
+              
+                
+                  
+                  
+                  
+                
+              
+          
+              
+                
+                  
+                  
+                  
+                
+              
+          
+        </div>
+      
+      
+      
+  
+    
+  
+
+
+                
+                  
+                  
+                
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+    
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+      
+      
+        
+        
+        <div id="skyscraper" class="ad">
+          
+              
+                
+                  
+                  
+                  
+                
+              
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="singleAd">
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+   
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+<span class="falkAd">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    <script language="JavaScript" type="text/javascript">
+      Ads_kid=0;
+      Ads_bid=0;
+      Ads_xl=0;
+      Ads_yl=0;
+      Ads_xp='';
+      Ads_yp='';
+      Ads_opt=0;
+      Ads_wrd='';
+      Ads_prf='art=294422';
+      Ads_par='';
+      Ads_cnturl='';
+      Ads_sec=0;
+      Ads_channels='';
+    </script>
+    <script id="skyscraper-article-news-script" type="text/javascript" language="javascript" src="http://a.as-eu.falkag.net/dat/njf/1028/independent-news/article/skyscraper-article-news.js"></script>
+  
+  
+  
+
+</span>
+  
+  
+
+
+</div>
+
+
+
+        </div>
+      
+      
+      
+  
+    
+  
+
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="footer-include">
+        
+
+
+
+
+
+
+
+
+
+
+<div class="footer" id="independent-footer">
+  <ul>
+  	
+    <li><a href="http://news.independent.co.uk/article294419.ece">Terms of Use</a>&nbsp;|</li>
+    
+    
+    
+    <li><a href="http://news.independent.co.uk/article294422.ece">Privacy Policy, including use of cookies</a>&nbsp;|</li>
+    
+    
+    
+    <li><a href="http://news.independent.co.uk/article293769.ece">Sign up for our free daily news update</a>&nbsp;|</li>
+    
+    
+    
+    <li><a href="http://news.independent.co.uk/article294441.ece">Freelance contributions</a>&nbsp;|</li>
+    
+    <!--<li><a href="http://www.independent.co.uk/story.jsp?story=116349">Advertise</a>&nbsp;|</li>-->
+    <!--<li><a href="http://www.independent.co.uk/story.jsp?story=55123">Independent Solutions</a>&nbsp;|</li>-->
+
+    
+      <li><a href="http://news.independent.co.uk/article293771.ece">RSS Feeds</a>&nbsp;|</li>
+    
+    <li><a href="http://jobs.independent.co.uk/vacancies/">Work for INM</a>&nbsp;|</li>
+    <!--<li><a href="http://www.independent.co.uk/story.jsp?story=72153">Other Digital sites</a>&nbsp;|</li>-->
+    
+    
+    <li><a href="http://news.independent.co.uk/article293866.ece">Contact us</a>&nbsp;|</li>
+    	
+    
+    <!--<li><a href="http://www.independent.co.uk/story.jsp?story=55123">Independent News &amp; Media</a>&nbsp;|</li>-->
+  </ul>
+</div>
+
+<div class="copyright">
+  <br><br>© 2005 Independent News and Media Limited
+</div>
+
+
+      </div>
+    </div>
+    <div class="bigSky">
+      
+        
+        
+      
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+    
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+      
+      
+        
+        
+        <div id="bigsky" class="ad">
+          
+              
+                
+                  
+                  
+                  
+                
+              
+          
+              
+                
+                  
+                  
+                  
+                
+              
+          
+        </div>
+      
+      
+      
+  
+    
+  
+
+
+    </div>
+
+    
+      
+      
+    
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+    
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+      
+      
+        
+        
+        <div id="overlay" class="ad">
+          
+              
+                
+                  
+                  
+                  
+                
+              
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="singleAd">
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+   
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+<span class="falkAd">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    <script language="JavaScript" type="text/javascript">
+      Ads_kid=0;
+      Ads_bid=0;
+      Ads_xl=0;
+      Ads_yl=0;
+      Ads_xp='';
+      Ads_yp='';
+      Ads_opt=0;
+      Ads_wrd='';
+      Ads_prf='art=294422';
+      Ads_par='';
+      Ads_cnturl='';
+      Ads_sec=0;
+      Ads_channels='';
+    </script>
+    <script id="overlay-article-news-script" type="text/javascript" language="javascript" src="http://a.as-eu.falkag.net/dat/njf/1028/independent-news/article/overlay-article-news.js"></script>
+  
+  
+  
+
+</span>
+  
+  
+
+
+</div>
+
+
+
+        </div>
+      
+      
+      
+  
+    
+  
+
+
+
+    <script type="text/javascript">
+      var cookie = readCookie("style");
+      var title = cookie ? cookie : getPreferredStyleSheet();
+      setActiveStyleSheet(title);
+    </script>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">var jsRt     = '1';
+var jsObjId  = '294422';
+var jsType   = escape('article');
+var jsCtxId  = '202';
+var jsPubId  = '55';
+var jsCat    = escape('');
+var jsMeta   = escape('');
+var jsTitle  = escape("Privacy Policy");
+var jsUrl    = escape('http://www.independent.co.uk/template/ver/wireFrame/classic.jsp');
+
+  var ref=escape(document.referrer);
+  if (ref.length>=252) ref=ref.substring(0,252)+"...";
+  var isJS10 = 1;
+</script>
+<script type="text/javascript"><!--
+  var isJS10=0;
+  document.write('<img src="http://logger.independent.co.uk/eae-logger/Logger?clientDT=' + (new Date()).getTime() + '&amp;rt=' + jsRt+ '&amp;objId=' + jsObjId  + '&amp;type=' + jsType + '&amp;ctxId=' + jsCtxId + '&amp;pubId=' + jsPubId + '&amp;cat=' + jsCat +  '&amp;meta=' + jsMeta + '&amp;title=' + jsTitle + '&amp;url=' + jsUrl + '" width="1" height="1" alt="" />');
+  //-->
+</script><img src="http://logger.independent.co.uk/eae-logger/Logger?clientDT=1580446459046&amp;rt=1&amp;objId=294422&amp;type=article&amp;ctxId=202&amp;pubId=55&amp;cat=&amp;meta=&amp;title=Privacy%20Policy&amp;url=http%3A//www.independent.co.uk/template/ver/wireFrame/classic.jsp" width="1" height="1" alt="">
+<script type="text/javascript"><!--
+  if(isJS10){
+    document.write('<img src="http://logger.independent.co.uk/eae-logger/Logger?rt=' + jsRt + '&amp;objId=' + jsObjId  + '&amp;type=' + jsType + '&amp;ctxId=' + jsCtxId + '&amp;pubId=' + jsPubId + '&amp;cat=' + jsCat +  '&amp;meta=' + jsMeta + '&amp;title=' + jsTitle + '&amp;url=' + jsUrl + '" width="1" height="1" alt="" />');
+  }
+  //-->
+</script>
+<noscript>
+  <p>
+    <img src="http://logger.independent.co.uk/eae-logger/Logger?rt=1&amp;objId=294422&amp;url=http%3A%2F%2Fwww.independent.co.uk%2Ftemplate%2Fver%2FwireFrame%2Fclassic.jsp&amp;type=article&amp;pubId=55&amp;ctxId=202&amp;cat=&amp;meta=&amp;title=Privacy+Policy" width="1" height="1" alt="ost" />
+  </p>
+</noscript>
+
+  
 
 
 </body></html>
