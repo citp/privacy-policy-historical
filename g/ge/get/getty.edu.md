@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getty.edu privacy policy that was archived on 2005-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050401233555id_/http%3A//www.getty.edu/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getty.edu privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231193752id_/http%3A//www.getty.edu/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement (Getty About Us)
 
@@ -18,6 +18,15 @@ Our Web server automatically records the IP addresses of visitors to our site. T
 **E-Cards**  
 Some pages on this site allow you to send free e-cards to a friend. E-cards are sent as links to a Getty.edu Web page. We do not save, use, or sell senders' or recipients' names or e-mail addresses.
 
+**E-Getty Newsletter**  
+The e-Getty newsletter is a free monthly events bulletin sent via e-mail.
+
+To receive the e-Getty newsletter by e-mail, you need to submit your e-mail address. Your e-mail address is stored on secure Getty servers and will not be shared with anyone. When you sign up, you can choose to receive e-Getty in HTML, which includes graphics, or as text only, which does not include graphics.
+
+You can also view the e-Getty newsletter online, without submitting your e-mail address, at http://www.getty.edu/egetty/e-getty.html.
+
+You may stop receiving the e-Getty newsletter at any time. Follow the "unsubscribe" link in the footer of any newsletter.
+
 **Getty Bookmarks**  
 To use the Getty Bookmark feature, you need to create an online account. Your e-mail address is used to identify your account and the associated bookmarks. The e-mail address tied to your account is stored on secure Getty servers and will not be used for marketing purposes or shared with anyone. We may occasionally use your e-mail address for purposes related to administration of your online account, such as sending service notices or password reminders.
 
@@ -34,16 +43,16 @@ To request a school visit to the Getty, you must submit information about yourse
 
 If you no longer wish to receive mailings from the Education Department, please call the school line at (310) 440-7322.
 
-**ArtsEdNet Talk**  
-To use the ArtsEdNet Talk discussion board on this site, you need to create an online account. Your e-mail address is used to identify your account. The e-mail address tied to your account is stored on secure Getty servers and will not be used for marketing purposes or shared with anyone.
+**TeacherArtExchange Listserv**  
+To use the TeacherArtExchange listserv on this site, you need to create an online account. Your e-mail address is used to identify your account. We will not use your e-mail for marketing purposes or share it with anyone.
 
-ArtsEdNet Talk takes place primarily over e-mail. Messages are also archived to our Web site, where they are available in perpetuity. As a subscriber to ArtsEdNet Talk, you can choose how often you wish to receive e-mail messages from other subscribers. You can elect to receive messages weekly, daily, or whenever there is a new post to the board. You can change your e-mail preferences at any time.
+The TeacherArtExchange listserv takes place primarily over e-mail. Messages are also archived to our Web site, where they are available in perpetuity. As a subscriber to TeacherArtExchange, you can choose how often you wish to receive e-mail messages from other subscribers.
 
 We may occasionally send you e-mail for purposes related to administration of your online account, such as sending service notices or password reminders.
 
-Please note that information you submit to the ArtsEdNet Talk discussion board is nonconfidential and nonproprietary. Please also note that ArtsEdNet Talk is an unmoderated list. This means that no one reads or edits the e-mail messages sent to the ArtsEdNet Talk listserver before they are distributed to ArtsEdNet Talk subscribers and archived to our Web site. To protect your privacy, do not send any message to the ArtsEdNet Talk discussion board that contain personally identifiable information such as your name, mailing address, or phone number. For technical reasons, we are unable to delete postings made to the ArtsEdNet Talk site.
+Please note that information you submit to the TeacherArtExchange listserv is nonconfidential and nonproprietary. TeacherArtExchange is also an unmoderated list. This means that no one reads or edits the e-mail messages sent to TeacherArtExchange before they are distributed to subscribers and archived to our Web site. To protect your privacy, do not send any message to the TeacherArtExchange listserv that contains personally identifiable information such as your name, mailing address, or phone number.
 
-To unsubscribe from ArtsEdNet Talk, send an e-mail from your registered e-mail account to [artsednet@lists.getty.edu](mailto:artsednet@lists.getty.edu) with the subject line UNSUBSCRIBE ARTSEDNET.
+You can [unsubscribe](https://web.archive.org/education/teacherartexchange/unsubscribe.html) from TeacherArtExchange at any time.
 
 **Getty Leadership Institute "Keep Me Posted"**  
 We use the information you provide us in our "Keep Me Posted" online form to contact you by e-mail and/or postal mail about seasonal programs offered by the Getty Leadership Institute and about the GLI programs in which you indicate interest on the form.
