@@ -1,14 +1,63 @@
-<!--The following is the downloaded HTML source of the hotref.com privacy policy that was archived on 2005-03-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050305000620id_/http%3A//www.hotref.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hotref.com privacy policy that was archived on 2005-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051231121551id_/http%3A//www.hotref.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <meta http-equiv="Content-Style-Type" content="text/css">
-<title>HotRef.com: It's all about referrals</title>
-<meta name="description" content="It's all about referrals">
-<meta name="keywords" content="It's all about referrals">
-<link rel="stylesheet" href="templates/hotref.css" type="text/css">
-<script src="js/prev.js" type="text/javascript" language="JavaScript"></script>
+<title>HotRef.com: The world's leading online network for business and personals</title>
+<meta name="description" content="The world's leading online network for business and personals">
+<meta name="keywords" content="The world's leading online network for business and personals">
+<link rel="stylesheet" href="http://www.hotref.com/templates/hotref.css" type="text/css">
+<script language="JavaScript">
+<!--
+
+var IPATH="templates/spin/images/"
+var ids=['','match','online','date','board','qzone','mail','account'];
+var imgs=['','b_date.jpg','b_friend.gif','b_date.jpg','b_board.gif','b_qzone.gif','b_mail.gif','b_account.gif'];
+var imgo=['','b_date-over.jpg','b_friend-over.gif','b_date-over.jpg','b_board-over.gif','b_qzone-over.gif','b_mail-over.gif','b_account-over.gif'];
+var img=new Array();
+for (var i=1;i<=7;i++) {
+	img[i]=new Image();img[i].src=IPATH+imgs[i];img[i+10]=new Image();img[i+10].src=IPATH+imgo[i];
+}
+function showImage(i,o) {
+	var x=document.images[ids[i]]; x.src=(o?img[i+10].src:img[i].src);
+}
+var alertImg=new Image(); alertImg.src=IPATH+"alert.gif";
+var spaceImg=new Image(); spaceImg.src=IPATH+"spacer.gif";
+var alertUrl="";
+var winOption=",resizable=no,statusbars=no,menubars=no,addressbars=no";
+function openX(url,id,h,w,urlBrowser) {
+	var win=window.open(url,id,"height="+h+",width="+w+",left="+(screen.width-w)/2+",top="+(screen.height-h)/2+winOption);
+	if (!win.opener) win.opener=window;
+	win.focus();
+}
+function alertClicked() {
+	eval(alertUrl);
+	alertUrl='';
+	var x=document.images['alert']; x.src=spaceImg.src; x.height=0; x.width=0;
+}
+// Spin Messenger
+var userid=0;
+var mpage="http://www.hotref.com/game/messenger/im_frames.php?sid=&userid=";
+function openMessenger()
+{
+	var clientid=Math.floor(Math.random()*10000);
+	var ht = 305; // size for IE
+	if(navigator.appName == "Netscape" && document.getElementById != null){ht=300;}
+	var oWin=window.open(mpage+"&clientid="+clientid,userid,"resizable=yes,status=no,left=10,top=10,height="+ht+",width=210");
+	oWin.focus();
+}
+
+var impage="http://www.hotref.com/game/messenger/im_frames.php?action=invite&sid=&userid=";
+function IMInvite(guestid)
+{
+	var clientid=Math.floor(Math.random()*10000);
+	var oWin=window.open(impage+"&clientid="+clientid+"&guestid="+guestid,userid,"resizable=yes,status=yes,left=10,top=10,height=300,width=210");
+	oWin.focus();
+}
+//-->
+</script>
+
 </head>
 
 <body bgcolor="#ffffff" text="#000000" link="#0000cc" vlink="#551a8b" alink="#ff0000" topmargin="2" marginheight="2">
@@ -18,8 +67,8 @@
 
 <table cellspacing="0" cellpadding="0" border="0" width="99%">
 <tbody><tr>
-	<td width="5%"><a href="/index.php?">
-		<img src="/templates/images/hotref___logo.gif" width="164" height="44" border="0" vspace="8" alt="HotRef">
+	<td width="5%"><a href="http://www.hotref.com/index.php?">
+		<img src="http://www.hotref.com/templates/images/hotref-logo.gif" width="164" height="44" border="0" vspace="8" alt="HotRef">
 		</a>
 	</td>
 	<td>
@@ -36,7 +85,7 @@
 				<font size="-1"></font>
 				</td></tr>
 				<tr><td align="right" valign="top" nowrap="">
-				<font size="-1"><a href="/signup.php">Join Now</a>&nbsp;|&nbsp;<a href="/login.php">Sign In</a>&nbsp;|&nbsp;<a href="/learnmore.php">Learn More</a></font></td></tr>
+				<font size="-1"><a href="http://www.hotref.com/signup.php">Sign Up</a>&nbsp;|&nbsp;<a href="http://www.hotref.com/login.php">Sign In</a></font></td></tr>
 				</tbody></table></td></tr>
 				</tbody></table>
 			</td>
@@ -133,7 +182,7 @@ Due to the communications standards on the Internet, when you visit the HotRef w
 <tr><td align="left" class="h11"><b>Information Use</b></td></tr>
 <tr><td height="8"></td></tr>
 <tr><td align="left" class="text">
-HotRef is an online service dedicated to helping people access the latest and most relevant information on web. The information you choose to provide on this site is used to help you safeguard the quality of contents that you may receive. HotRef is the sole owner of the information collected on this site.
+HotRef.com offers online networking services for business and personals. The information you choose to provide on this site is used to help you safeguard the quality of contents that you may receive. HotRef is the sole owner of the information collected on this site.
 </td></tr>
 <tr><td height="8"></td></tr>
 <tr><td align="left" class="text">
@@ -227,11 +276,11 @@ If you have questions or comments about this privacy policy, please email us at
 
 <tr>
 <td nowrap="" align="center"><font size="-1">
-<a class="footer" href="/aboutus.php">About HotRef</a>
+<a class="footer" href="http://www.hotref.com/aboutus.php">About HotRef</a>
 |
-<a class="footer" href="/contactus.php">Contact Us</a>
+<a class="footer" href="http://www.hotref.com/contactus.php">Contact Us</a>
 |
-<a class="footer" href="/privacy.php">Privacy Policy</a>
+<a class="footer" href="http://www.hotref.com/privacy.php">Privacy Policy</a>
 </font>
 </td>
 </tr>
