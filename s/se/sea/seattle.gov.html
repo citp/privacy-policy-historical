@@ -1,58 +1,30 @@
-<!--The following is the downloaded HTML source of the seattle.gov privacy policy that was archived on 2005-04-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050403155636id_/http%3A//www.seattle.gov/pan/privacypol.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the seattle.gov privacy policy that was archived on 2005-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051231212911id_/http%3A//www.seattle.gov/pan/privacypol.htm) for the most accurate reproduction.-->
 
 <html><head>
 <title>City of Seattle's Official Web Site</title>
-
 <meta name="Description" content="Home Page of the Official Web Site of the City of Seattle -- Seattle Public Access Network">
 <meta name="Keywords" content="Seattle, City of Seattle, Seattle, Washington, cityofseattle.net, Public Access Network, PAN, City of Seattle Official Web Site, Web Portal to the City of Seattle, 24 Hour Online City Hall">
 <meta name="target" content="">
 <meta name="title" content="City of Seattle's Official Web Site">
 <meta name="description" content="Welcome to the Main Menu and Official Web Site of the City  of Seattle.">
 <link rel="stylesheet" href="/2004_style.css" type="text/css">
-<style>
-body{margin: 0px}
-.portalgroupheader {font-family: Verdana, Arial, Helvetica, sans-serif; 
-font-weight: bold;
-font-size: 75%; 
-margin:9pt 3pt 5pt 3pt; 
-padding:2pt; 
-color: #247324; 
-background-color:#E9F8E6;}
-.TIERTWO {border: groove black 1px; background-color: #247324}
-.TIERTWO a:link {color:#ffffff}
-.TIERTWO a:visited {color:#ffffff}
-.TIERTWO a:hover {color:#ffffff}
-
-.TIERTWO_OVER {background-color: #CCCCCC}
-.TIERTWO_OFF {}
-</style>
-
+<link rel="stylesheet" href="/css/generic_style.css" type="text/css">
+<script language="JavaScript">
+SECTION = "about"
+LOC = "pan"
+</script>
 <script language="javascript" src="/navigation.js"></script>
-
 </head>
-<body bgcolor="#ffffff" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0&quot;">
+<body onload="whatPage()" bgcolor="#ffffff" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0&quot;">
 <div align="center" name="mydiv">
 <!----------------BEGIN HEADER INC---------------->
 <noindex>
 <script language="javascript" src="/js/ypSlideOutMenusA.js"></script>
 <style type="text/css">
-.pan_text, pan_text a {
-		color:#666666 ! important;
-		display:block;		
-		padding-left:2px;
-		padding-top:2px;
-		padding-bottom:2px;
-		letter-spacing: normal ! important;
-		font-family: arial, verdana ! important;
-		font-size: 11px ! important;
-		text-decoration:none ! important;
-		font-weight: bold ! important;
-}
 .menuCont .options {
 		border-left:1px solid #333333;				
 		background-color:#E9E9E9;
-             
 	}
 .menu a {
 		color:#666666;
@@ -61,8 +33,8 @@ background-color:#E9F8E6;}
 		padding-top:2px;
 		padding-bottom:2px;
 		border-bottom:1px solid #333333;
-		font-family: arial, verdana ! important;
-		font-size: 11px ! important;
+		font-family: arial, verdana;
+		font-size: 11px;
 		text-decoration:none;
 		font-weight: bold;
 		layer-background-color:#203945;
@@ -71,30 +43,18 @@ background-color:#E9F8E6;}
 		background-color:#ADCFEB;
 		layer-background-color:#99CCFF;
 		color:#000000;
-		padding-left:2px ! important;
-		padding-top:2px ! important;
-		padding-bottom:2px ! important;
-		font-size: 11px ! important;
-		text-decoration:none ! important;
-		font-weight: normal ! important;
 	}
 </style>
-<script language="javascript" src="/js/sniffer.js"></script>
 <script language="javascript">
-if(is_ie5up || is_opera5up || is_nav5up)writeDept();
-
 IE = document.all?1:0;
 NAV6 = document.getElementById?1:0;
 
-//if(IE || NAV6){writeDept()}
-
-
-
+if(IE || NAV6){writeDept()}
 function writeCSS(){
 if(IE || NAV6){
-document.write('<td width="86" height="23" style="position:relative;" align="center" id="DeptName" background="/2004_IMG/top_button.gif" onmouseover="ypSlideOutMenu.showMenu(\'dept\');this.style.backgroundImage=\'url(/2004_IMG/top_button_on.gif)\'" onmouseout="ypSlideOutMenu.hideMenu(\'dept\');this.style.backgroundImage=\'url(/2004_IMG/top_button.gif)\'"><a style="color:#666666;font-family:Arial;font-size:9pt;font-weight:bold;text-decoration:none;" href="/html/citizen/departments.htm" class="pan_text">Departments</a></td>');
+document.write('<td width="86" height="23" style="position:relative;" align="center" id="DeptName" background="/2004_IMG/top_button.gif" onmouseover="ypSlideOutMenu.showMenu(\'dept\');this.style.backgroundImage=\'url(/2004_IMG/top_button_on.gif)\'" onmouseout="ypSlideOutMenu.hideMenu(\'dept\');this.style.backgroundImage=\'url(/2004_IMG/top_button.gif)\'"><a style="color:#666666;font-family:Arial;font-size:9pt;font-weight:bold;text-decoration:none;" href="/html/citizen/departments.htm">Departments</a></td>');
 } else {
-document.write('<td align="center" id="DeptName" background="/2004_IMG/top_button.gif"><a style="color:#666666;font-family:Arial;font-size:9pt;font-weight:bold;text-decoration:none;" href="/html/citizen/departments.htm" class="pan_text">Departments</a></td>');
+document.write('<td align="center" id="DeptName" background="/2004_IMG/top_button.gif"><a style="color:#666666;font-family:Arial;font-size:9pt;font-weight:bold;text-decoration:none;" href="/html/citizen/departments.htm">Departments</a></td>');
 }
 }
 function testBrowser(){
@@ -105,70 +65,71 @@ function testBrowser(){
   }
 }
 
+function writeCSS_NEW(){
+if(IE || NAV6){
+document.write('<td width="78" style="position:relative;" id="DeptName" onmouseover="ypSlideOutMenu.showMenu(\'dept\');" onmouseout="ypSlideOutMenu.hideMenu(\'dept\');"><a href="/html/citizen/departments.htm"><img src="/2004_img/btn_dept.gif" alt="City Departments" width="78" height="23" border="0"></a></td>');
+} else {
+document.write('<td width="78"><img src="/2004_img/btn_dept.gif" alt="City Departments" width="78" height="23" border="0"></td>');
+}
+}
+function video(id){
+loC = "http://www.seattlechannel.org/videos/video.asp?ID="+id
+//alert (loC)
+window.open(loC,"viewer","location=no,status=yes,scrollbars=no,resizable=no,width=675,height=472")
+}
+
+function videoContent(id){
+loC = "http://www.seattlechannel.org/videos/video.asp?ID="+id+"&content=1"
+window.open(loC,"viewer","location=no,status=yes,scrollbars=no,resizable=no,width=675,height=472")
+}
+
+
 </script><div style="visibility:hidden;" id="deptContainer" align="left"><div style="visibility: inherit; overflow: auto; height: 65px; top: -200px;" id="deptContent" class="menuCont"><div style="visibility:inherit;" class="options"><div style="visibility:inherit;" class="menu"><a href="https://web.archive.org/web/20041010045300/http://www.seattle.gov/html/citizen/departments.htm"><b>All Departments</b></a></div><div style="visibility:inherit;" class="menu"><a href="https://web.archive.org/web/20041010045300/http://www.seattle.gov/animalshelter/"><b>Animal Shelter</b></a></div><div style="visibility:inherit;" class="menu"><a href="https://web.archive.org/web/20041010045300/http://www.seattleaquarium.org/"><b>Aquarium</b></a></div><div style="visibility:inherit;" class="menu"><a href="https://web.archive.org/web/20041010045300/http://www.seattle.gov/arts/"><b>Arts &amp; Cultural Affairs</b></a></div><div style="visibility:inherit;" class="menu"><a href="https://web.archive.org/web/20041010045300/http://www.seattle.gov/CitizenService/"><b>Citizens Service Bureau</b></a></div><div style="visibility:inherit;" class="menu"><a href="https://web.archive.org/web/20041010045300/http://www.seattle.gov/law/"><b>City Attorney</b></a></div><div style="visibility:inherit;" class="menu"><a href="https://web.archive.org/web/20041010045300/http://www.seattle.gov/audit/"><b>City Auditor</b></a></div><div style="visibility:inherit;" class="menu"><a href="https://web.archive.org/web/20041010045300/http://www.seattle.gov/leg/clerk/clerk.htm"><b>City Clerk</b></a></div><div style="visibility:inherit;" class="menu"><a href="https://web.archive.org/web/20041010045300/http://www.seattle.gov/council/default.htm"><b>City Council</b></a></div><div style="visibility:inherit;" class="menu"><a href="https://web.archive.org/web/20041010045300/http://www.seattle.gov/light/"><b>City Light</b></a></div><div style="visibility:inherit;" class="menu"><a href="https://web.archive.org/web/20041010045300/http://www.seattle.gov/civilrights/"><b>Civil Rights</b></a></div><div style="visibility:inherit;" class="menu"><a href="https://web.archive.org/web/20041010045300/http://www.seattle.gov/csc/"><b>Civil Service Commission</b></a></div><div style="visibility:inherit;" class="menu"><a href="https://web.archive.org/web/20041010045300/http://www.seattle.gov/dclu/citydesign/ProjectReview/SDC/"><b>Design Commission</b></a></div><div style="visibility:inherit;" class="menu"><a href="https://web.archive.org/web/20041010045300/http://www.seattle.gov/EconomicDevelopment/"><b>Economic Development</b></a></div><div style="visibility:inherit;" class="menu"><a href="https://web.archive.org/web/20041010045300/http://www.seattle.gov/emergency_mgt/"><b>Emergency Management</b></a></div><div style="visibility:inherit;" class="menu"><a href="https://web.archive.org/web/20041010045300/http://www.seattle.gov/ethics/ethics.htm"><b>Ethics and Elections</b></a></div><div style="visibility:inherit;" class="menu"><a href="https://web.archive.org/web/20041010045300/http://www.seattle.gov/executiveadministration/"><b>Executive Administration</b></a></div><div style="visibility:inherit;" class="menu"><a href="https://web.archive.org/web/20041010045300/http://www.seattle.gov/filmoffice/"><b>Film and Music Office</b></a></div><div style="visibility:inherit;" class="menu"><a href="https://web.archive.org/web/20041010045300/http://www.seattle.gov/financedepartment/"><b>Finance Department</b></a></div><div style="visibility:inherit;" class="menu"><a href="https://web.archive.org/web/20041010045300/http://www.seattle.gov/fire/"><b>Fire Department</b></a></div><div style="visibility:inherit;" class="menu"><a href="https://web.archive.org/web/20041010045300/http://www.seattle.gov/fleetsfacilities/"><b>Fleets &amp; Facilities</b></a></div><div style="visibility:inherit;" class="menu"><a href="https://web.archive.org/web/20041010045300/http://www.metrokc.gov/health/"><b>Health Department</b></a></div><div style="visibility:inherit;" class="menu"><a href="https://web.archive.org/web/20041010045300/http://www.seattle.gov/examiner/"><b>Hearing Examiner</b></a></div><div style="visibility:inherit;" class="menu"><a href="https://web.archive.org/web/20041010045300/http://www.seattle.gov/housing/default.htm"><b>Housing</b></a></div><div style="visibility:inherit;" class="menu"><a href="https://web.archive.org/web/20041010045300/http://www.seattle.gov/humanservices/"><b>Human Services</b></a></div><div style="visibility:inherit;" class="menu"><a href="https://web.archive.org/web/20041010045300/http://www.seattle.gov/doit/default.htm"><b>Information Technology</b></a></div><div style="visibility:inherit;" class="menu"><a href="https://web.archive.org/web/20041010045300/http://www.seattle.gov/oir/"><b>Intergovernmental Relations</b></a></div><div style="visibility:inherit;" class="menu"><a href="https://web.archive.org/web/20041010045300/http://www.spl.org/"><b>Library</b></a></div><div style="visibility:inherit;" class="menu"><a href="https://web.archive.org/web/20041010045300/http://www.seattle.gov/mayor/"><b>Mayor</b></a></div><div style="visibility:inherit;" class="menu"><a href="https://web.archive.org/web/20041010045300/http://www.seattle.gov/courts/"><b>Municipal Court</b></a></div><div style="visibility:inherit;" class="menu"><a href="https://web.archive.org/web/20041010045300/http://www.seattle.gov/neighborhoods/"><b>Neighborhoods</b></a></div><div style="visibility:inherit;" class="menu"><a href="https://web.archive.org/web/20041010045300/http://www.seattle.gov/parks/"><b>Parks and Recreation</b></a></div><div style="visibility:inherit;" class="menu"><a href="https://web.archive.org/web/20041010045300/http://www.seattle.gov/Personnel/"><b>Personnel</b></a></div><div style="visibility:inherit;" class="menu"><a href="https://web.archive.org/web/20041010045300/http://www.seattle.gov/dpd/"><b>Planning &amp; Development</b></a></div><div style="visibility:inherit;" class="menu"><a href="https://web.archive.org/web/20041010045300/http://www.seattle.gov/planningcommission/"><b>Planning Commission</b></a></div><div style="visibility:inherit;" class="menu"><a href="https://web.archive.org/web/20041010045300/http://www.seattle.gov/police/"><b>Police Department</b></a></div><div style="visibility:inherit;" class="menu"><a href="https://web.archive.org/web/20041010045300/http://www.cityofseattle.net/pscsc/"><b>Public Safety</b></a></div><div style="visibility:inherit;" class="menu"><a href="https://web.archive.org/web/20041010045300/http://www.cityofseattle.net/pscsc/"><b>-&nbsp;&nbsp;&nbsp;Civil Service Commission</b></a></div><div style="visibility:inherit;" class="menu"><a href="https://web.archive.org/web/20041010045300/http://www.seattle.gov/util/"><b>Public Utilities</b></a></div><div style="visibility:inherit;" class="menu"><a href="https://web.archive.org/web/20041010045300/http://www.seattle.gov/retirement/"><b>Retirement Office</b></a></div><div style="visibility:inherit;" class="menu"><a href="https://web.archive.org/web/20041010045300/http://www.seattlecenter.com/"><b>Seattle Center</b></a></div><div style="visibility:inherit;" class="menu"><a href="https://web.archive.org/web/20041010045300/http://www.seattlechannel.org/"><b>Seattle Channel</b></a></div><div style="visibility:inherit;" class="menu"><a href="https://web.archive.org/web/20041010045300/http://www.seattle.gov/environment/"><b>Sustainability &amp; Environment</b></a></div><div style="visibility:inherit;" class="menu"><a href="https://web.archive.org/web/20041010045300/http://www.seattle.gov/transportation/"><b>Transportation</b></a></div></div></div></div>
 
 
 <table width="775" cellpadding="0" cellspacing="0" border="0">
 <tbody><tr>
-  <td>
-  <table width="775" cellpadding="0" cellspacing="0" border="0"> 
-  <tbody><tr>
-    <td width="86" height="23" align="center" background="/2004_IMG/top_button.gif" onmouseover="this.style.backgroundImage='url(/2004_img/top_button_on.gif)'" onmouseout="this.style.backgroundImage='url(/2004_img/top_button.gif)'"><a style="color:#666666;font-family:Arial;font-size:9pt;font-weight:bold;text-decoration:none;" href="/" class="pan_text">SEATTLE.GOV</a></td>
-    <td width="86" height="23" align="center" background="/2004_IMG/top_button.gif" onmouseover="this.style.backgroundImage='url(/2004_img/top_button_on.gif)'" onmouseout="this.style.backgroundImage='url(/2004_img/top_button.gif)'"><a style="color:#666666;font-family:Arial;font-size:9pt;font-weight:bold;text-decoration:none;" href="/html/citizen/services.htm" class="pan_text">City Services</a></td>
-    <script language="Javascript">writeCSS()</script><td width="86" height="23" style="position:relative;" align="center" id="DeptName" background="/2004_IMG/top_button.gif" onmouseover="ypSlideOutMenu.showMenu('dept');this.style.backgroundImage='url(/2004_IMG/top_button_on.gif)'" onmouseout="ypSlideOutMenu.hideMenu('dept');this.style.backgroundImage='url(/2004_IMG/top_button.gif)'"><a style="color:#666666;font-family:Arial;font-size:9pt;font-weight:bold;text-decoration:none;" href="/html/citizen/departments.htm" class="pan_text">Departments</a></td>
-    <td width="86" height="23" align="center" background="/2004_IMG/top_button.gif" onmouseover="this.style.backgroundImage='url(/2004_img/top_button_on.gif)'" onmouseout="this.style.backgroundImage='url(/2004_img/top_button.gif)'"><a style="color:#666666;font-family:Arial;font-size:9pt;font-weight:bold;text-decoration:none;" href="/directory/" class="pan_text">Staff Directory</a></td>
-    <td width="173"><img src="/2004_img/gov_bar.gif" border="0"></td>
-    <td width="86" height="23" align="center" background="/2004_IMG/top_button.gif" onmouseover="this.style.backgroundImage='url(/2004_img/top_button_on.gif)'" onmouseout="this.style.backgroundImage='url(/2004_img/top_button.gif)'"><a style="color:#666666;font-family:Arial;font-size:9pt;font-weight:bold;text-decoration:none;" href="/html/citizen/about.htm" class="pan_text">About Seattle</a></td>
-    <td width="86" height="23" align="center" background="/2004_IMG/top_button.gif" onmouseover="this.style.backgroundImage='url(/2004_img/top_button_on.gif)'" onmouseout="this.style.backgroundImage='url(/2004_img/top_button.gif)'"><a style="color:#666666;font-family:Arial;font-size:9pt;font-weight:bold;text-decoration:none;" href="/html/feedback.htm" class="pan_text">City Contacts</a></td>
-    <td width="86" height="23" align="center" background="/2004_IMG/top_button.gif" onmouseover="this.style.backgroundImage='url(/2004_img/top_button_on.gif)'" onmouseout="this.style.backgroundImage='url(/2004_img/top_button.gif)'"><a style="color:#666666;font-family:Arial;font-size:9pt;font-weight:bold;text-decoration:none;" href="/html/sitemap.htm" class="pan_text">Site Map</a></td>
-  </tr>
-  </tbody></table>
-  <table width="775" cellpadding="0" cellspacing="0" border="0">
-  <tbody><tr>
-    <td width="536"><img src="/2004_img/tier_header.jpg" border="0" usemap="#header_temp_Map" alt="Seattle.Gov Home Page"></td>
-    <td width="239" valign="top">
-    <table width="239" cellpadding="0" cellspacing="0" border="0" background="/2004_img/search_buffer.gif" bgcolor="#EAEAEA">
-        <tbody><tr>
-          <td width="239" valign="top"><a href="http://www.seattle.gov/html/visitor/icons.htm"><img src="/2004_img/tier_header2.jpg" alt="Seattle.Gov Home Page" border="0"></a></td>
-        </tr>
-        <tr>
-          <td width="239" height="25" background="/2004_img/search_buffer.gif" style="background-image: url(http://www.seattle.gov/2004_img/search_buffer.gif);color:#666666;font-family:Arial;font-size:9pt;font-weight:bold;text-decoration:none;" nowrap="">
-		  <form style="MARGIN:0px;PADDING:-10px;" method="get" action="http://find.seattle.gov/search">
-          &nbsp;SEARCH:&nbsp;<input onclick="this.value=''" value="Seattle.gov" style="font-size:9px;width:125px" type="text" name="q" size="18" maxlength="255">
-          <input type="submit" name="btnG" value="Go" style="font-size:9px;">
-          <input type="hidden" name="site" value="default_collection">
-          <input type="hidden" name="client" value="cos_frontend">
-          <input type="hidden" name="proxystylesheet" value="cos_frontend">
-          <input type="hidden" name="output" value="xml_no_dtd">
-          </form></td>
-        </tr>
-        </tbody></table>
-        </td>
-  </tr>
-  </tbody></table>
+  <td width="81"><a href="http://www.seattle.gov/"><img src="/2004_img/btn_home.gif" alt="Seattle.gov Home Page" width="81" height="23" border="0"></a></td>
+  <td width="81"><a href="http://www.seattle.gov/html/citizen/services.htm"><img src="/2004_img/btn_services.gif" alt="City Services" width="81" height="23" border="0"></a></td>
+  <script language="Javascript">writeCSS_NEW()</script><td width="78" style="position:relative;" id="DeptName" onmouseover="ypSlideOutMenu.showMenu('dept');" onmouseout="ypSlideOutMenu.hideMenu('dept');"><a href="/html/citizen/departments.htm"><img src="/2004_img/btn_dept.gif" alt="City Departments" width="78" height="23" border="0"></a></td>
+<!--  <td width="78"><img src="/2004_img/btn_dept.gif" alt="City Departments" width="78" height="23" border="0"></td>-->
+  <td width="86"><a href="http://www.seattle.gov/directory/"><img src="/2004_img/btn_staff.gif" alt="Staff Directory" width="86" height="23" border="0"></a></td>
+  <td width="86"><img src="/2004_img/bar_grey.gif" alt="[WEB GRAPHIC]" width="237" height="23" border="0"></td>  
+  <td width="83"><a href="/html/citizen/about.htm"><img src="/2004_img/btn_about.gif" alt="About Seattle" width="83" height="23" border="0"></a></td>
+  <td width="75"><a href="/html/feedback.htm"><img src="/2004_img/btn_contacts.gif" alt="City Contacts" width="75" height="23" border="0"></a></td>
+  <td width="54"><a href="/html/sitemap.htm"><img src="/2004_img/btn_sitemap.gif" alt="Site Map" width="54" height="23" border="0"></a></td>
+</tr>  
+</tbody></table>
+<table width="775" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+  <td width="540"><a href="http://www.seattle.gov"><img src="/2004_img/seattle_header.jpg" alt="Seattle.gov Home Page" width="540" height="59" border="0"></a></td>
+  <td width="235" bgcolor="#EDF7FF" background="/2004_img/search_bkg.gif" style="color:#666666;font-family:Arial;font-size:9pt;font-weight:bold;text-decoration:none;">
+  <form style="MARGIN:0px;PADDING:-10px;" method="get" action="http://find.seattle.gov/search">
+  &nbsp;SEARCH:&nbsp;<input onclick="this.style.backgroundImage='url(/2004_img/google_off.gif)'" value="" style="font-size:9px;width:125px;background-color:#FFFFFF;background:url(/2004_img/google.gif)" type="text" name="q" size="18" maxlength="255">
+  <input type="submit" name="btnG" value="Go" style="font-size:9px;width:25px">
+  <input type="hidden" name="site" value="default_collection">
+  <input type="hidden" name="client" value="cos_frontend">
+  <input type="hidden" name="proxystylesheet" value="cos_frontend">
+  <input type="hidden" name="output" value="xml_no_dtd">
+  </form>
   </td>
 </tr>
-  </tbody></table>
-  
-
-
-  
-  <table width="775" cellpadding="0" cellspacing="0" border="0"> 
-  <tbody><tr>
-    <td width="86" height="23" align="center" background="/2004_IMG/top_button.gif" onmouseover="this.style.backgroundImage='url(/2004_img/top_button_on.gif)'" onmouseout="this.style.backgroundImage='url(/2004_img/top_button.gif)'"><a style="color:#666666;font-family:Arial;font-size:9pt;font-weight:bold;text-decoration:none;" href="http://www.seattle.gov/news/default.asp">News</a></td>
-    <td width="86" height="23" align="center" background="/2004_IMG/top_button.gif" onmouseover="this.style.backgroundImage='url(/2004_img/top_button_on.gif)'" onmouseout="this.style.backgroundImage='url(/2004_img/top_button.gif)'"><a style="color:#666666;font-family:Arial;font-size:9pt;font-weight:bold;text-decoration:none;" href="http://www2.ci.seattle.wa.us/events/default.asp">Events</a></td>
-    <td width="86" height="23" align="center" background="/2004_IMG/top_button.gif" onmouseover="this.style.backgroundImage='url(/2004_img/top_button_on.gif)'" onmouseout="this.style.backgroundImage='url(/2004_img/top_button.gif)'"><a style="color:#666666;font-family:Arial;font-size:9pt;font-weight:bold;text-decoration:none;" href="/html/traffic.htm">Traffic</a></td>  
-    <td width="86" height="23" align="center" background="/2004_IMG/top_button.gif" onmouseover="this.style.backgroundImage='url(/2004_img/top_button_on.gif)'" onmouseout="this.style.backgroundImage='url(/2004_img/top_button.gif)'"><a style="color:#666666;font-family:Arial;font-size:9pt;font-weight:bold;text-decoration:none;" href="/html/weather.htm">Weather</a></td>
-    <td width="86" height="23" align="center" background="/2004_IMG/top_button.gif" onmouseover="this.style.backgroundImage='url(/2004_img/top_button_on.gif)'" onmouseout="this.style.backgroundImage='url(/2004_img/top_button.gif)'"><a style="color:#666666;font-family:Arial;font-size:9pt;font-weight:bold;text-decoration:none;" href="/html/visitor/">Visiting</a></td>      
-    <td width="86" height="23" align="center" background="/2004_IMG/top_button.gif" onmouseover="this.style.backgroundImage='url(/2004_img/top_button_on.gif)'" onmouseout="this.style.backgroundImage='url(/2004_img/top_button.gif)'"><a style="color:#666666;font-family:Arial;font-size:9pt;font-weight:bold;text-decoration:none;" href="http://www2.cityofseattle.net/GIS_Map/">Maps</a></td><!--/html/citizen/maps.htm-->
-    <td width="86" height="23" align="center" background="/2004_IMG/top_button.gif" onmouseover="this.style.backgroundImage='url(/2004_img/top_button_on.gif)'" onmouseout="this.style.backgroundImage='url(/2004_img/top_button.gif)'"><a style="color:#666666;font-family:Arial;font-size:9pt;font-weight:bold;text-decoration:none;" href="/html/business/employment.htm">Jobs</a></td>
-    <td width="86" height="23" align="center" background="/2004_IMG/top_button.gif" onmouseover="this.style.backgroundImage='url(/2004_img/top_button_on.gif)'" onmouseout="this.style.backgroundImage='url(/2004_img/top_button.gif)'"><a style="color:#666666;font-family:Arial;font-size:9pt;font-weight:bold;text-decoration:none;" href="/html/CITIZEN/participation.htm">Get Involved</a></td>
-    <td width="86" height="23" align="center" background="/2004_IMG/top_button.gif" onmouseover="this.style.backgroundImage='url(/2004_img/top_button_on.gif)'" onmouseout="this.style.backgroundImage='url(/2004_img/top_button.gif)'"><a style="color:#666666;font-family:Arial;font-size:9pt;font-weight:bold;text-decoration:none;" href="/html/citizen/emergency_resources.htm">Emergency</a></td>
-  </tr>
-  </tbody></table>                                              
-  
-
-
+</tbody></table>
+<table width="775" cellpadding="0" cellspacing="0" border="0">
+  <tbody><tr><td colspan="9" style="background-color:#737373" id="colorBar"><img src="/2004_img/pixel_3.gif" alt="" width="3" height="3" border="0"></td>
+</tr>  
+<tr>
+  <td><a href="/html/business/default.htm"><img alt="Business" name="business" id="business" src="/2004_img/business_off.gif" onmouseover="ImgOn('business')" onmouseout="ImgOff('business')" width="84" height="24" border="0"></a></td>
+  <td><a href="/html/citizen/community.htm"><img alt="Community" name="community" id="community" src="/2004_img/community_off.gif" onmouseover="ImgOn('community')" onmouseout="ImgOff('community')" width="86" height="24" border="0"></a></td>
+  <td><a href="/html/VISITOR/culture.htm"><img alt="Arts and Recreation" name="culture" id="culture" src="/2004_img/culture_off.gif" onmouseover="ImgOn('culture')" onmouseout="ImgOff('culture')" width="86" height="24" border="0"></a></td>
+  <td><a href="/html/CITIZEN/environment.htm"><img alt="Environment" name="environment" id="environment" src="/2004_img/environment_off.gif" onmouseover="ImgOn('environment')" onmouseout="ImgOff('environment')" width="86" height="24" border="0"></a></td>
+  <td><a href="/html/CITIZEN/your.htm"><img alt="Government" name="government" id="government" src="/2004_img/government_off.gif" onmouseover="ImgOn('government')" onmouseout="ImgOff('government')" width="86" height="24" border="0"></a></td>
+  <td><a href="/html/CITIZEN/publicsafety.htm"><img alt="Public Safety" name="publicsafety" id="publicsafety" src="/2004_img/publicsafety_off.gif" onmouseover="ImgOn('publicsafety')" onmouseout="ImgOff('publicsafety')" width="86" height="24" border="0"></a></td>
+  <td><a href="/html/CITIZEN/getting.htm"><img alt="Transportation" name="transportation" id="transportation" src="/2004_img/transportation_off.gif" onmouseover="ImgOn('transportation')" onmouseout="ImgOff('transportation')" width="86" height="24" border="0"></a></td>
+  <td><a href="/html/CITIZEN/utility.htm"><img alt="Utilities" name="utilities" id="utilities" src="/2004_img/utilities_off.gif" onmouseover="ImgOn('utilities')" onmouseout="ImgOff('utilities')" width="86" height="24" border="0"></a></td>
+  <td><a href="/html/visitor/"><img alt="Visiting Seattle" name="visiting" id="visiting" src="/2004_img/visiting_off.gif" onmouseover="ImgOn('visiting')" onmouseout="ImgOff('visiting')" width="89" height="24" border="0"></a></td>
+</tr>
+</tbody></table>
 <script language="javascript"> 
 var _menus = [	
 	new ypSlideOutMenu("dept", "down", rePosx(), rePosy(), 190, 200, null)
@@ -179,57 +140,48 @@ var _menus = [
 		_menus[i].onactivate = new Function("document.getElementById('act" + i + "').className='active';");
 		_menus[i].ondeactivate = new Function("document.getElementById('act" + i + "').className='';");
 	}
-</script><style type="text/css">#deptContainer { visibility:hidden; left:468px; z-index:50; top:23px; overflow:hidden; }#deptContainer, #deptContent { position:absolute; height:200px; width:190px; z-index:50; clip:rect(0 190 200 0); }  </style>
+</script><style type="text/css">#deptContainer { visibility:hidden; left:458px; z-index:50; top:23px; overflow:hidden; }#deptContainer, #deptContent { position:absolute; height:200px; width:190px; z-index:50; clip:rect(0 190 200 0); }  </style>
 </noindex>
 
 <!----------------END HEADER INC---------------->
-<table width="775" cellpadding="0" cellspacing="0" border="0">
+<img src="/2004_img/about_back.gif" alt="" width="775" height="27" border="0"><table width="775" cellpadding="0" cellspacing="0" border="0">
 <tbody><tr>
-  <td width="200" valign="top" bgcolor="#cccccc" background="/2004_IMG/leftnav_buffer.gif">
-<!---------------BEGIN LEFT NAV INC--------------->
-  <table width="200" cellpadding="0" cellspacing="0" border="0">
-  <tbody><tr>
-    <td width="200"><a href="/default.htm"><img src="/2004_IMG/leftnav_home.gif" border="0" alt="Seattle.gov Home Page"></a><img src="/2004_IMG/leftnav_housing_buffer.gif" border="0"></td>
+  <td width="185" valign="top" bgcolor="#ffffff">
+  <!---------------BEGIN LEFT NAV INC--------------->
+  <a href="/html/citizen/about.htm"><img src="/2004_img/about_title.gif" alt="About Seattle" width="185" height="28" border="0"></a><table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tbody><tr id="virtual" onmouseover="cOn(this)" onmouseout="cOut(this)">
+    <td class="TIERTWO"><a href="/html/CITIZEN/your.htm">Your Seattle Government</a></td>
   </tr>
-  <tr>
-    <td bgcolor="#B4B4B4" width="200"><a href="/html/citizen/about.htm"><img src="/2004_IMG/leftnav_about_on.gif" alt="About Seattle" border="0"></a>
-    <table bgcolor="#B4B4B4" width="100%" cellpadding="2" cellspacing="0" border="0" class="leftmenu">
-    <tbody><tr id="about" onmouseover="cOn(this)" onmouseout="cOut(this)">
-      <td valign="top" width="10">•</td>
-      <td><a href="/html/CITIZEN/about_seattle.htm">Seattle - Our Great City</a></td>
-    </tr>
-    <tr id="virtual" onmouseover="cOn(this)" onmouseout="cOut(this)">
-      <td valign="top" width="10">•</td>
-      <td><a href="/html/CITIZEN/your.htm">Your Seattle Government</a></td>
-    </tr>
-     <tr id="pan" onmouseover="cOn(this)" onmouseout="cOut(this)">
-      <td valign="top" width="10">•</td>
-      <td><a href="/html/pan.htm">About Seattle.gov</a></td>
-    </tr>
-	<tr id="edemocracy" onmouseover="cOn(this)" onmouseout="cOut(this)">
-      <td valign="top" width="10">•</td>
-      <td><a href="/html/citizen/edemocracy.htm">eDemocracy</a></td>
-    </tr>
-    </tbody></table><img src="/2004_IMG/leftnav_about_blur.gif" border="0" alt="web graphic"></td>
+  <tr id="pan" onmouseover="cOn(this)" onmouseout="cOut(this)">
+    <td class="TIERTWO"><a href="/html/pan.htm">About Seattle.gov</a></td>
   </tr>
-  <tr>
-    <td width="200"><img src="/2004_IMG/leftnav_bottom.gif" border="0" alt="web graphic"></td>
+  <tr id="map" onmouseover="cOn(this)" onmouseout="cOut(this)">
+    <td class="TIERTWO"><a href="/html/sitemap.htm">Site Map</a></td>
   </tr>
-<!--
-  <tr>
-    <td width="200"><a href="/html/CITIZEN/your.htm"><img src="/2004_IMG/leftnav_yourgov.gif" border="0" alt="Your Government"></a></td>
+  <tr id="search" onmouseover="cOn(this)" onmouseout="cOut(this)">
+    <td class="TIERTWO"><a href="/html/director/">Search Seattle.gov</a></td>
   </tr>
--->  
-  </tbody></table>  
-
+  <tr id="services" onmouseover="cOn(this)" onmouseout="cOut(this)">
+    <td class="TIERTWO"><a href="/html/citizen/services.htm">City Services</a></td>
+  </tr>
+  <tr id="about" onmouseover="cOn(this)" onmouseout="cOut(this)">
+    <td class="TIERTWO"><a href="/html/visitor/aboutseattle.htm">Seattle 101: A Guide for Travelers and Tourists</a></td>
+  </tr>
+  <tr id="edemocracy" onmouseover="cOn(this)" onmouseout="cOut(this)">
+    <td class="TIERTWO"><a href="/html/citizen/edemocracy.htm">eDemocracy</a></td>
+  </tr>
+  <tr id="mapguide" onmouseover="cOn(this)" onmouseout="cOut(this)">
+    <td class="TIERTWO"><a href="/html/citizen/mapguide.htm">Maps on Seattle.Gov</a></td>
+  </tr>
+  </tbody></table>
   <!---------------END LEFT NAV INC--------------->
   </td>
-  <td width="574" valign="top" bgcolor="#ffffff"><img src="/2004_IMG/title_aboutseattlegov2.gif" border="0"><br>
+  <td valign="bottom" bgcolor="#ffffff">
   <div align="center">
 	<table width="95%" cellpadding="0" cellspacing="0" border="0">
 	<tbody><tr>
 	<td>
-<h4 align="right" style="color:#8336D4">City Online Privacy and Security Policy</h4>
+<h4 class="subtopic">City Online Privacy and Security Policy</h4>
 	
 <p align="center">Department of Information Technology<br><em>Originally posted on September 15, 2004; updated on December 16, 2004</em></p>
 
@@ -281,8 +233,6 @@ For site security purposes and to ensure that this service remains available to 
 </li></ol>
 
 <p>The information collected is not limited to text characters and may include audio, video, and graphic information formats you send us.</p>
-
-<p>We use your email address to respond to you. Survey information is used for the purpose identified by the survey.  Information from other online forms is used only for conducting City business related to the online form.</p> 
 
 <p>We use your e-mail address to respond to you. It is the City's Policy to not use your e-mail address to send you unsolicited e-mail unless you specifically elect to receive it.  Online discussion lists or "threads" are maintained and controlled in accordance with the City's <a href="http://www.seattle.gov/pan/ListServicesPolicies.htm">Electronic Conferencing and List Services Policy</a>. Survey information is used for the purpose identified by the survey.  Information from other online forms is used only for conducting City business related to the online form.<br>
 <br>
@@ -371,46 +321,30 @@ To offer comments about the information presented in this Privacy Notice, you ca
 	</tr>
 	</tbody></table>  
   </div></td>
-  <td witdh="1" bgcolor="#cccccc"><img src="/2004_IMG/pixel.gif" border="0"></td>
+  <td width="1" bgcolor="#cccccc"><img src="/2004_IMG/pixel.gif" border="0"></td>
 </tr>
 </tbody></table>
 <!---------------BEGIN FOOTER INC--------------->
-<table width="775" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-  <td width="774" valign="bottom"><img src="/2004_img/bot_bar2.gif" border="0"></td>
-  <td witdh="1" bgcolor="#cccccc"><img src="/2004_IMG/pixel.gif" border="0"></td>
-</tr>
-</tbody></table>
 <noindex>
 <div align="center">
 <table bgcolor="#000000" width="775" cellpadding="3" cellspacing="0" border="0">
 <tbody><tr>
-  <td style="font-family:Verdana;font-size:85%;color:#FFFFFF;font-weight:bold"><a style="font-family:Verdana;font-size:85%;color:#FFFF66;font-weight:bold" href="/">Seattle.gov</a>:  <a style="font-family:Verdana;font-size:90%;color:#ffffff" href="/html/citizen/services.htm">Services</a> | <a style="font-family:Verdana;font-size:90%;color:#ffffff" href="/html/citizen/departments.htm">Departments</a> | <a style="font-family:Verdana;font-size:90%;color:#ffffff" href="/directory/">Staff Directory</a> | <a style="font-family:Verdana;font-size:90%;color:#ffffff" href="/html/visitor/">Visiting</a> | <a style="font-family:Verdana;font-size:90%;color:#ffffff ! important" href="http://www.seattle.gov/mayor/">Mayor</a> | <a style="font-family:Verdana;font-size:90%;color:#ffffff ! important" href="http://www.seattle.gov/council/">City Council</a></td>
+  <td style="font-family:Verdana;font-size:85%;color:#FFFFFF;font-weight:bold"><a style="font-family:Verdana;font-size:85%;color:#FFFF66;font-weight:bold" href="/">Seattle.gov</a>:  <a style="font-family:Verdana;font-size:90%;color:#ffffff" href="/html/citizen/services.htm">Services</a> | <a style="font-family:Verdana;font-size:90%;color:#ffffff" href="/html/citizen/departments.htm">Departments</a> | <a style="font-family:Verdana;font-size:90%;color:#ffffff" href="/directory/">Staff Directory</a> | <a style="font-family:Verdana;font-size:90%;color:#ffffff ! important" href="http://www.seattle.gov/mayor/">Mayor</a> | <a style="font-family:Verdana;font-size:90%;color:#ffffff ! important" href="http://www.seattle.gov/council/">City Council</a></td>
 </tr>
 </tbody></table>
-<table width="775" cellpadding="0" cellspacing="0" border="0">
+<table bgcolor="#000000" width="775" cellpadding="0" cellspacing="0" border="0">
 <tbody><tr>
-  <td colspan="3"><img src="/2004_img/footer_blue.gif" border="0"></td>
-</tr>
-<tr>
-  <td width="16"><img src="/2004_img/footer_left.gif" border="0"></td>
-  <td width="743" align="center" background="/2004_img/footer_bottom.gif"><a style="font-family:Verdana;font-size:80%;color:#000000" href="http://www.cityofseattle.net/news/default2.asp">News</a> | <a style="font-family:Verdana;font-size:80%;color:#000000" href="/events/default.asp">Events</a> | <a style="font-family:Verdana;font-size:80%;color:#000000" href="/html/traffic.htm">Traffic</a> | <a style="font-family:Verdana;font-size:80%;color:#000000" href="/html/weather.htm">Weather</a> | <a style="font-family:Verdana;font-size:80%;color:#000000" href="http://www2.cityofseattle.net/GIS_Map/">Maps</a> | <a style="font-family:Verdana;font-size:80%;color:#000000" href="/html/business/employment.htm">Jobs</a> | <a style="font-family:Verdana;font-size:80%;color:#000000" href="/html/CITIZEN/participation.htm">Get Involved</a> | <a style="font-family:Verdana;font-size:80%;color:#000000" href="http://www.seattlechannel.org/">Seattle Channel</a></td>
-  <td width="16"><img src="/2004_img/footer_right.gif" border="0"></td>
-</tr>
-<tr>
-  <td colspan="3" align="center"><a href="http://www.seattle.gov/CitizenService/" style="font-family:Verdana;font-size:80%;color:#000000">Questions/Complaints</a> | <a href="/pan/privacypol.htm" style="font-family:Verdana;font-size:80%;color:#000000">Privacy &amp; Security Policy</a></td>
-</tr>
-<tr>
-  <td colspan="3" align="center" style="font-family:Verdana;font-size:70%;color:#000000"><br>Copyright © 1995-2005 City of Seattle</td>
+  <td><img src="/2004_IMG/footer_blue.gif" alt="" width="775" height="8" border="0"></td>
 </tr>
 </tbody></table>
+<table width="775" cellpadding="2" cellspacing="0" border="0">
+<tbody><tr>
+  <td style="font-family:Verdana;font-size:70%;color:#666666">Copyright © 1995-2005 City of Seattle</td>
+  <td align="right" style="font-family:Verdana;font-size:70%;color:#666666"><a href="/CitizenService/">Questions/Complaints</a> | <a href="/pan/privacypol.htm">Privacy &amp; Security Policy</a></td>
+</tr>
+</tbody></table>
+<br>  
 </div>
-<map name="header_temp_Map">
-<area shape="rect" alt="" coords="0,0,84,23" href="/default.htm">
-<area shape="rect" alt="Seattle.gov Home Page" coords="0,22,338,86" href="/">
-<area shape="poly" alt="Seattle Icons - Mt. Rainier" coords="482,46, 501,34, 510,31, 522,33, 528,34, 539,41, 545,43, 560,53, 568,57, 577,58, 583,62, 585,67, 533,67, 522,72, 505,81, 491,86, 482,87" href="/html/visitor/icons.htm">
-<area shape="poly" alt="Seattle Icons" coords="709,67, 707,62, 697,61, 696,60, 698,58, 697,54, 694,53, 688,53, 688,52, 694,49, 694,45, 716,37, 715,35, 713,33, 715,30, 721,29, 722,23, 724,23, 726,30, 734,31, 736,33, 733,36, 733,37, 749,42, 749,45, 749,46, 755,48, 757,52, 749,53, 749,58, 745,61, 737,63, 737,67" href="/html/visitor/icons.htm">
-</map>
 </noindex>
 <!---------------BEGIN FOOTER INC--------------->
 </div>
