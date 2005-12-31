@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riogrande.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305211302id_/http%3A//www.riogrande.com/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riogrande.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231101739id_/http%3A//riogrande.com/privacy_statement.htm) for the most accurate reproduction.*
 
 # Rio Grande Jewelry Making Supplies - Privacy Policy
 
