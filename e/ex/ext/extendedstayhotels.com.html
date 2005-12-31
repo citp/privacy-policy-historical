@@ -1,8 +1,7 @@
-<!--The following is the downloaded HTML source of the extendedstayhotels.com privacy policy that was archived on 2005-04-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050404081201id_/http%3A//www.extendedstayhotels.com/Privacy/Main.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the extendedstayhotels.com privacy policy that was archived on 2005-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051231054500id_/http%3A//www.extendedstayhotels.com/Privacy/Main.asp) for the most accurate reproduction.-->
 
 <html><head><script language="javascript"> self.name = "masterDefault"</script>
-
 
 
 
@@ -15,8 +14,14 @@
 <meta name="robots" content="index, follow"><!--content="noindex, nofollow"-->
 <meta http-equiv="imagetoolbar" content="no">
 <link rel="stylesheet" type="text/css" href="../ExtendedStayResources/Extended_Stay_Hotels.css">
+	<script language="javascript" src="../includes/resvFunctionsjs.asp"></script>
+	<script language="javascript" src="../Includes/SetCheckOutDate.asp"></script>
+	<script language="javascript" src="../includes/content-reservationFormjs.asp"></script>
+	<script language="javascript" src="../includesProg/fnOptionEX.js"></script>
+	<script language="javascript" src="../IncludesProg/fnLocationDropdowns.asp"></script>
 
 </head>
+
 <body marginheight="0" topmargin="0" leftmargin="0" marginwidth="0">
 <div id="containerall">
 	<script language="JavaScript">
@@ -72,13 +77,12 @@ function imgInact(imgName) {
 
 <div id="container">
 		<div id="logo">
-			<a href="http://www.ExtendedStayHotels.com/default.asp" target="_parent"><img src="/images/extended.gif" border="0" alt="Extended stay lodging for short or long term travel"></a>
+			<a href="http://www.ExtendedStayHotels.com/" target="_parent"><img src="/images/extended-stay-hotels.gif" border="0" alt="Extended Stay Hotels"></a>
 		</div><!--end logo-->
 		<div id="login">
-				<a href="https://www.ExtendedStayHotels.com/myAccount/Main.asp" target="_parent">Login/Review Reservations</a>
-			
-		</div>
-		<div id="join"><a href="/Email/Main.asp" target="_parent">Join Email Program</a></div>
+				<a href="https://www.ExtendedStayHotels.com/myAccount/Main.asp" target="_parent"><b>Account Login / Review Reservations</b></a>
+			<br>&nbsp;<br>
+		<a href="/Email/Main.asp" target="_parent">Join Email Program</a></div>
 			
 		
 	</div>
@@ -92,15 +96,351 @@ function imgInact(imgName) {
 		<div id="nav"><a onmouseover="imgAct('img5')" onmouseout="imgInact('img5')" href="http://www.ExtendedStayHotels.com/Temporary/Main.asp" target="_parent"><img name="img5" src="/images/nav-temp.gif" border="0" alt="Temporary Housing"></a></div><!--end nav-->
 	</div><!--end container-->
 	
-	<div id="MainContainer">
+	<div id="MainContainerHome">
 		
-		<div id="leftContainer">
+		<div id="leftContainerHome">
 			
-			<div id="leftBanner">
-				<img src="../images/spacer.gif" height="20">
-			</div><!--end leftBanner-->
+			<form name="frmMain" action="/Booking/MetroAreaProcess.asp" class="leftreservation">		
+	<div id="reservationBlue">
+			<table cellpadding="0" cellspacing="1" border="0" style="margin:0px auto">
+				<tbody><tr>
+					<td valign="top" colspan="2">
+						<img src="/images/spacer.gif" width="1" height="5"></td>
+				</tr>
+				
+				<tr>
+					<td valign="top" colspan="2" class="smtext">
+						<b>State/Province</b><br>
+						<select width="190" style="width:190px" name="state" id="state" onchange="javascript:UpdateSelect('MetroID','frmMain',this.options[this.selectedIndex].value,oCity);">
+							<option value="">Select a State/Province</option>
+									<option value="AL">Alabama</option>
+									<option value="AK">Alaska</option>
+									<option value="AZ">Arizona</option>
+									<option value="AR">Arkansas</option>
+									<option value="CA">California</option>
+									<option value="CO">Colorado</option>
+									<option value="CT">Connecticut</option>
+									<option value="DE">Delaware</option>
+									<option value="FL">Florida</option>
+									<option value="GA">Georgia</option>
+									<option value="ID">Idaho</option>
+									<option value="IL">Illinois</option>
+									<option value="IN">Indiana</option>
+									<option value="IA">Iowa</option>
+									<option value="KS">Kansas</option>
+									<option value="KY">Kentucky</option>
+									<option value="LA">Louisiana</option>
+									<option value="ME">Maine</option>
+									<option value="MD">Maryland</option>
+									<option value="MA">Massachusetts</option>
+									<option value="MI">Michigan</option>
+									<option value="MN">Minnesota</option>
+									<option value="MS">Mississippi</option>
+									<option value="MO">Missouri</option>
+									<option value="MT">Montana</option>
+									<option value="NE">Nebraska</option>
+									<option value="NV">Nevada</option>
+									<option value="NH">New Hampshire</option>
+									<option value="NJ">New Jersey</option>
+									<option value="NM">New Mexico</option>
+									<option value="NY">New York</option>
+									<option value="NC">North Carolina</option>
+									<option value="OH">Ohio</option>
+									<option value="OK">Oklahoma</option>
+									<option value="ON">Ontario</option>
+									<option value="OR">Oregon</option>
+									<option value="PA">Pennsylvania</option>
+									<option value="RI">Rhode Island</option>
+									<option value="SC">South Carolina</option>
+									<option value="TN">Tennessee</option>
+									<option value="TX">Texas</option>
+									<option value="UT">Utah</option>
+									<option value="VA">Virginia</option>
+									<option value="WA">Washington</option>
+									<option value="DC">Washington D.C.</option>
+									<option value="WI">Wisconsin</option>
+						</select></td>
+				</tr>
+				<tr>
+					<td valign="top" colspan="2">
+						<img src="/images/spacer.gif" width="1" height="2"></td>
+				</tr>
+				<tr>
+					<td valign="top" colspan="2" class="smtext">
+						<b>Metro Area</b><br>
+						<select width="190" style="width:190px" name="MetroID" id="MetroID">
+						<option value="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</option>
+						<option value=""></option>
+						<option value=""></option>
+						<option value=""></option>
+						<option value=""></option>
+					</select></td>
+				</tr>
+				<tr>
+					<td valign="top" colspan="2">
+						<img src="/images/spacer.gif" width="1" height="6"></td>
+				</tr>
+			</tbody></table>
+
+			<table cellpadding="0" cellspacing="0" border="0" style="margin:0px auto">							
+				<tbody><tr>
+					<td valign="top">
+						<table cellpadding="0" cellspacing="2" border="0">							
+							<tbody><tr>
+								<td valign="top" nowrap="" class="smtext">
+									<b>Check In</b><br>
+										<input type="hidden" id="checkindate" name="checkindate" value="1/1/2006">
+	<select width="60" style="width:60px" class="" id="Monthcheckindate" name="Monthcheckindate" onchange="javascript:CheckDays('frmMain', 'Monthcheckindate', 'Daycheckindate', 'Yearcheckindate');document.frmMain.checkindate.value=document.frmMain.Monthcheckindate.options[Monthcheckindate.selectedIndex].value+'/'+document.frmMain.Daycheckindate.options[Daycheckindate.selectedIndex].value+'/'+document.frmMain.Yearcheckindate.options[Yearcheckindate.selectedIndex].value;setCheckoutdDate(this.name);">
+		<option value="1">Jan</option>
+		<option value="2">Feb</option>
+		<option value="3">Mar</option>
+		<option value="4">Apr</option>
+		<option value="5">May</option>
+		<option value="6">Jun</option>
+		<option value="7">Jul</option>
+		<option value="8">Aug</option>
+		<option value="9">Sep</option>
+		<option value="10">Oct</option>
+		<option value="11">Nov</option>
+		<option value="12" selected="">Dec</option>
+	</select>
+	<select width="40" style="width:40px" class="" id="Daycheckindate" name="Daycheckindate" onchange="javascript:CheckDays('frmMain', 'Monthcheckindate', 'Daycheckindate', 'Yearcheckindate');document.frmMain.checkindate.value=document.frmMain.Monthcheckindate.options[Monthcheckindate.selectedIndex].value+'/'+document.frmMain.Daycheckindate.options[Daycheckindate.selectedIndex].value+'/'+document.frmMain.Yearcheckindate.options[Yearcheckindate.selectedIndex].value;setCheckoutdDate(this.name);">
+		<option value="1">1</option>
+		<option value="2">2</option>
+		<option value="3">3</option>
+		<option value="4">4</option>
+		<option value="5">5</option>
+		<option value="6">6</option>
+		<option value="7">7</option>
+		<option value="8">8</option>
+		<option value="9">9</option>
+		<option value="10">10</option>
+		<option value="11">11</option>
+		<option value="12">12</option>
+		<option value="13">13</option>
+		<option value="14">14</option>
+		<option value="15">15</option>
+		<option value="16">16</option>
+		<option value="17">17</option>
+		<option value="18">18</option>
+		<option value="19">19</option>
+		<option value="20">20</option>
+		<option value="21">21</option>
+		<option value="22">22</option>
+		<option value="23">23</option>
+		<option value="24">24</option>
+		<option value="25">25</option>
+		<option value="26">26</option>
+		<option value="27">27</option>
+		<option value="28">28</option>
+		<option value="29">29</option>
+		<option value="30">30</option>
+		<option value="31" selected="">31</option>
+	</select>
+	<select width="60" style="width:60px" class="" id="Yearcheckindate" name="Yearcheckindate" onchange="javascript:CheckDays('frmMain', 'Monthcheckindate', 'Daycheckindate', 'Yearcheckindate');document.frmMain.checkindate.value=document.frmMain.Monthcheckindate.options[Monthcheckindate.selectedIndex].value+'/'+document.frmMain.Daycheckindate.options[Daycheckindate.selectedIndex].value+'/'+document.frmMain.Yearcheckindate.options[Yearcheckindate.selectedIndex].value;setCheckoutdDate(this.name);">
+		<option value="2005" selected="">2005</option>
+		<option value="2006">2006</option>
+	</select>
+								</td>
+								<td valign="top">
+									<img src="/images/spacer.gif" width="1" height="2"></td>
+								<td valign="bottom">
+									<a href="javascript:showCalendar('frmMain', 'checkindate', document.frmMain.Monthcheckindate.options[document.frmMain.Monthcheckindate.selectedIndex].value, document.frmMain.Daycheckindate.options[document.frmMain.Daycheckindate.selectedIndex].value, document.frmMain.Yearcheckindate.options[document.frmMain.Yearcheckindate.selectedIndex].value);"><img src="/images/icon-calendar.gif" border="0" width="19" height="16"></a><br><img src="/images/spacer.gif" width="1" height="2"></td>
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				<tr>
+					<td valign="top">
+						<img src="/images/spacer.gif" width="1" height="2"></td>
+				</tr>
+				<tr>
+					<td valign="top">
+						<table cellpadding="0" cellspacing="2" border="0">							
+							<tbody><tr>
+								<td valign="top" nowrap="" class="smtext">
+									<b>Check Out</b><br>
+										<input type="hidden" id="checkoutdate" name="checkoutdate" value="1/2/2006">
+	<select width="60" style="width:60px" class="" id="Monthcheckoutdate" name="Monthcheckoutdate" onchange="javascript:CheckDays('frmMain', 'Monthcheckoutdate', 'Daycheckoutdate', 'Yearcheckoutdate');document.frmMain.checkoutdate.value=document.frmMain.Monthcheckoutdate.options[Monthcheckoutdate.selectedIndex].value+'/'+document.frmMain.Daycheckoutdate.options[Daycheckoutdate.selectedIndex].value+'/'+document.frmMain.Yearcheckoutdate.options[Yearcheckoutdate.selectedIndex].value;setCheckoutdDate(this.name);">
+		<option value="1" selected="">Jan</option>
+		<option value="2">Feb</option>
+		<option value="3">Mar</option>
+		<option value="4">Apr</option>
+		<option value="5">May</option>
+		<option value="6">Jun</option>
+		<option value="7">Jul</option>
+		<option value="8">Aug</option>
+		<option value="9">Sep</option>
+		<option value="10">Oct</option>
+		<option value="11">Nov</option>
+		<option value="12">Dec</option>
+	</select>
+	<select width="40" style="width:40px" class="" id="Daycheckoutdate" name="Daycheckoutdate" onchange="javascript:CheckDays('frmMain', 'Monthcheckoutdate', 'Daycheckoutdate', 'Yearcheckoutdate');document.frmMain.checkoutdate.value=document.frmMain.Monthcheckoutdate.options[Monthcheckoutdate.selectedIndex].value+'/'+document.frmMain.Daycheckoutdate.options[Daycheckoutdate.selectedIndex].value+'/'+document.frmMain.Yearcheckoutdate.options[Yearcheckoutdate.selectedIndex].value;setCheckoutdDate(this.name);">
+		<option value="1" selected="">1</option>
+		<option value="2">2</option>
+		<option value="3">3</option>
+		<option value="4">4</option>
+		<option value="5">5</option>
+		<option value="6">6</option>
+		<option value="7">7</option>
+		<option value="8">8</option>
+		<option value="9">9</option>
+		<option value="10">10</option>
+		<option value="11">11</option>
+		<option value="12">12</option>
+		<option value="13">13</option>
+		<option value="14">14</option>
+		<option value="15">15</option>
+		<option value="16">16</option>
+		<option value="17">17</option>
+		<option value="18">18</option>
+		<option value="19">19</option>
+		<option value="20">20</option>
+		<option value="21">21</option>
+		<option value="22">22</option>
+		<option value="23">23</option>
+		<option value="24">24</option>
+		<option value="25">25</option>
+		<option value="26">26</option>
+		<option value="27">27</option>
+		<option value="28">28</option>
+		<option value="29">29</option>
+		<option value="30">30</option>
+		<option value="31">31</option>
+	</select>
+	<select width="60" style="width:60px" class="" id="Yearcheckoutdate" name="Yearcheckoutdate" onchange="javascript:CheckDays('frmMain', 'Monthcheckoutdate', 'Daycheckoutdate', 'Yearcheckoutdate');document.frmMain.checkoutdate.value=document.frmMain.Monthcheckoutdate.options[Monthcheckoutdate.selectedIndex].value+'/'+document.frmMain.Daycheckoutdate.options[Daycheckoutdate.selectedIndex].value+'/'+document.frmMain.Yearcheckoutdate.options[Yearcheckoutdate.selectedIndex].value;setCheckoutdDate(this.name);">
+		<option value="2005">2005</option>
+		<option value="2006" selected="">2006</option>
+	</select>
+								</td>
+								<td valign="top">
+									<img src="/images/spacer.gif" width="1" height="2"></td>
+								<td valign="bottom">
+									<a href="javascript:showCalendar('frmMain', 'checkoutdate', document.frmMain.Monthcheckoutdate.options[document.frmMain.Monthcheckoutdate.selectedIndex].value, document.frmMain.Daycheckoutdate.options[document.frmMain.Daycheckoutdate.selectedIndex].value, document.frmMain.Yearcheckoutdate.options[document.frmMain.Yearcheckoutdate.selectedIndex].value);"><img src="/images/icon-calendar.gif" border="0" width="19" height="16"></a><br><img src="/images/spacer.gif" width="1" height="2"></td>
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+					
+				<tr>
+					<td valign="top">
+						<img src="/images/spacer.gif" width="1" height="6"></td>
+				</tr>	
+			</tbody></table>
+			<table cellpadding="0" cellspacing="1" border="0" style="margin:0px auto">
+				<tbody><tr>
+					<td valign="middle" class="smtext">
+						<a class="smtext" href="javascript:window.open('/booking/popups/adultKids.asp?WTReferrer=http%3A%2F%2Fwww%2Eextendedstayhotels%2Ecom%2FPrivacy%2FMain%2Easp%3F','newwin2','height=250,width=460');void(0);"><span class="smtext"><b>Adults</b></span></a><br>
+						<select width="35" style="width:35px" id="numadults" name="numadults">
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						</select></td>
+						
+					<td valign="top">
+						<img src="/images/spacer.gif" width="3" height="1"></td>
+							
+					<td valign="middle" class="smtext">
+						<a class="smtext" href="javascript:window.open('/booking/popups/adultKids.asp?WTReferrer=http%3A%2F%2Fwww%2Eextendedstayhotels%2Ecom%2FPrivacy%2FMain%2Easp%3F','newwin2','height=250,width=460');void(0);"><span class="smtext"><b>Kids</b></span></a><br>
+						<select width="35" style="width:35px" id="numchildren" name="numkids">
+						<option value="0">0</option>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						</select></td>
+							
+					<td valign="top">
+						<img src="/images/spacer.gif" width="3" height="1"></td>
+					
+					<td valign="middle" class="smtext">
+						<b>Rooms</b><br>
+						<select width="35" style="width:35px" id="rooms" name="rooms">
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+						<option value="6">6</option>
+						<option value="7">7</option>
+						<option value="8">8</option>
+						<option value="9">9</option>
+						</select>
+					</td>
+						
+					<td valign="top">
+						<img src="/images/spacer.gif" width="3" height="1"></td>
+					
+					<td valign="middle" class="smtext">
+						<b>Rate</b><br>
+						<select id="rates" name="rates" width="65" style="width:65px">
+									<option value="ESH">Internet</option>
+									<option value="COR">Corporate</option>
+									<option value="GOV">Gov't/Mil</option>
+									<option value="AAA">AAA</option>
+									<option value="SNR">Seniors</option>
+						</select>
+					</td>
+				</tr>
+				<tr>
+					<td valign="top" colspan="3">
+						<img src="/images/spacer.gif" width="1" height="15"></td>
+				</tr>
+			</tbody></table>
+		</div><!--end reservationBlue-->
 			
-			<script language="javascript">
+		<div id="reservationOptional">
+			<table cellpadding="0" cellspacing="0" border="0">
+				<tbody><tr>
+					<td>
+						<img src="/images/bl-optional.gif" border="0" alt="For your next trip, try an extended stay hotel. Save money, cook dinner and relax."></td>
+				</tr>
+				
+				<tr>
+					<td>
+						<img src="/images/spacer.gif" width="1" height="5"></td>
+				</tr>
+			</tbody></table>
+		</div><!--end revervationOptional-->
+		
+		<div id="reservationOptional">
+			<center>
+			<table cellpadding="0" cellspacing="0" border="0">
+				<tbody><tr>
+					<td valign="left" class="smtext">
+						<b>Promotional/ Referral Code</b><br>
+						<input type="text" name="promocode" value="" size="32" maxlength="10" onkeypress="handleKeyPress();"><br>
+						<img src="/images/spacer.gif" width="10" height="1"><br>
+						<b>Company Code</b><br>
+						<input type="text" name="companycode" value="" size="32" maxlength="5" onkeypress="handleKeyPress();"><br>
+						<img src="/images/spacer.gif" width="10" height="2"></td>
+				</tr>
+			</tbody></table>
+			<table cellpadding="0" cellspacing="0" border="0">
+				<tbody><tr>
+					<td valign="left" class="smtext">
+						<img src="/images/hr.gif" border="0" alt=""></td>
+				</tr>
+				
+			</tbody></table>
+			</center>
+		</div><!--end reservationBlue-->
+			
+		<div id="reservationBlue">
+			<center>
+			<table cellpadding="0" cellspacing="0" border="0" width="100%">	
+				<tbody><tr>
+					<td align="center">
+						<img src="/images/spacer.gif" width="1" height="4"><br>
+						<a href="javascript:checkAvailability();"><img src="/images/submit1.gif" border="0" alt="Find an available hotel in one of 600 locations"></a><br>
+						<img src="/images/spacer.gif" width="1" height="21"></td>
+				</tr>
+			</tbody></table>
+			</center>
+	</div>
+</form>
+<script language="javascript">
 <!--
 function chkForm(){
 	if (document.emailFrm.email.value.length == 0) {
@@ -129,65 +469,78 @@ function isEmail(string) {
     return re.test(string);
 }
 </script>
-<div id="SuiteOffersHdr">
-	<center>
-	<table cellpadding="0" cellspacing="0" border="0" width="100%">	
-		<tbody><tr>
-			<td align="center" bgcolor="54625C">
-				<a href="/Email/main.asp"><img src="/images/Suites-sm.gif" alt="Spacious studio suites for business travelers" border="0"></a></td>
-		</tr>
-	</tbody></table>
-	</center>
-</div><!--end SuiteOffersHdr-->
+<!--<div id="SuiteOffersHdr">	<center>	<table cellpadding="0" cellspacing="0" border="0" width="100%">			<tr>			<td align="center" bgcolor="54625C">				<a href="/Email/main.asp"><img src="/images/Suites-sm.gif" alt="Spacious studio suites for business travelers" border="0"></a></td>		</tr>	</table>	</center></div>end SuiteOffersHdr-->
 			
 <div id="SuiteOffers">
 	<form name="emailFrm" style="margin:0px" action="/Email/maingo.asp" onsubmit="return chkForm();">
 	<input type="hidden" name="quickAdd" value="true">
-	<center>
-	<table cellpadding="3" cellspacing="4" border="0" width="100%">	
-		<tbody><tr>
-			<td valign="left" class="text">
-				<img src="/images/spacer.gif" width="1" height="7"><br>
-				Enroll in our <b><span class="textRed">Email Program</span></b> and <b><span class="textRed">Save</span> $10</b>
-				on Your Next Stay<br>
-				<img src="/images/spacer.gif" width="1" height="7"><br>
-				<input type="text" size="25" name="email" maxlength="255" value="Email Address" onfocus="if(this.value=='Email Address')this.value='';" onblur="if(this.value=='')this.value='Email Address';" onclick="window.focus();this.focus();"></td>
-		</tr>
-		<tr>
-			<td align="center">
-				<input type="image" src="/images/submit2.gif" border="0" alt="Enter our SuiteOffers program for discounts"></td>
-		</tr>
-		<tr>
-			<td align="center">
-				<input type="image" src="/images/spacer.gif" border="0" height="12"></td>
-		</tr>
-	</tbody></table>
-	</center>
-	</form>
+	<div id="reservationSuiteOffers">
+				<center>
+				<table cellpadding="0" cellspacing="0" border="0">	
+					<tbody><tr>
+						<td align="center">
+							<a href="/Email/main.asp"><img src="/images/suites.gif" alt="Spacious studio suites for business travelers" border="0" width="214" height="28"></a></td>
+					</tr>
+				</tbody></table>
+				</center>
+			</div><!--end reservationBlue-->
+			
+			<div id="reservationSuiteOffers">
+				
+				<input type="hidden" name="quickAdd" value="true">
+				<center>
+				<table cellpadding="0" cellspacing="0" border="0" width="214">	
+					<tbody><tr>
+						<td colspan="3" align="left">
+							<img src="/images/bl_suite_subhead.gif" border="0" alt="Your inside source for the best deals on Extended Stay Hotels"></td>
+					</tr>
+					<tr>
+						<td width="10" align="left"><img src="/images/spacer.gif" width="10"></td>
+						<td align="left" class="sstext" width="184">
+							<img src="/images/spacer.gif" width="1" height="7"><br>
+							Enroll now and <b>save $10 on your<br>next stay!</b><br>
+							<img src="/images/spacer.gif" width="1" height="7"><br>
+							<input type="text" size="30" name="email" maxlength="255" value="" onfocus="if(this.value=='')this.value='';" onblur="if(this.value=='')this.value='';" onclick="window.focus();this.focus();"></td>
+						<td align="left"><img src="/images/spacer.gif" width="5"></td>
+					</tr>
+					<tr>
+						<td colspan="3" align="center" width="214">
+							<img src="/images/spacer.gif" width="1" height="11"><br>
+							<input type="image" src="/images/submit2.gif" border="0" alt="Enroll in our Suite Offers program for discounts" width="72" height="20" id="image1" name="image1"><br>
+							<img src="/images/spacer.gif" width="1" height="7"></td>
+					</tr>
+					<tr>
+						<td colspan="3" align="center" height="20"><img src="/images/spacer.gif" width="1" height="20"></td>
+					</tr>
+				</tbody></table>
+				</center>
+				
+			</div></form><!--end reservationSuiteOffers-->
+			
+	<!-- OLD <center>	<table cellpadding="3" cellspacing="4" border="0" width="100%">			<tr>			<td valign="left" class="text">				<img src="/images/spacer.gif" width="1" height="7"><br>				Enroll in our <b><span class="textRed">Email Program</span></b> and <b><span class="textRed">Save</span> $10</b>				on Your Next Stay<br>				<img src="/images/spacer.gif" width="1" height="7"><br>				<input type="text" size="25" name="email" maxlength="255" value="Email Address" onfocus="if(this.value=='Email Address')this.value='';" onBlur="if(this.value=='')this.value='Email Address';" onclick="window.focus();this.focus();"></td>		</tr>		<tr>			<td align="center">				<input type="image" src="/images/submit2.gif" border="0" alt="Enter our SuiteOffers program for discounts"></td>		</tr>		<tr>			<td align="center">				<input type="image" src="/images/spacer.gif" border="0" height="12"></td>		</tr>	</table>	</center>-->
+	
 </div><!--end SuiteOffers-->
 			
-		</div><!--end leftContainer-->
+		</div><!--end leftContainerHome-->
 		
-		<div id="contentContainerMain">
+		<div id="contentContainer">
 			
-			<div id="copyContainerFind">
-				<div id="headerFind"><img src="../images/hdr-privacy.gif" alt="Privacy/Security"></div><!--end header-->
-				<div id="subHeaderFind">&nbsp;</div><!--end subHeader-->
-				<div id="LocationContainer">
-					Extended Stay Hotels<sup>SM</sup>  and its four hotel brands, Extended StayAmerica Efficiency
-					Studios, Homestead Studio Suites Hotels, StudioPLUS Deluxe Studios, and Crossland Economy
-					Studios have created this privacy statement because we are committed to
-					protecting our guests' privacy. The following discloses our security,
-					information gathering and dissemination practices for the ExtendedStayHotels.com website.
+			<div id="copyContainerLong02">
+				<div id="headerLong02"><img src="../images/hdr-privacy.gif" alt="Privacy/Security" width="510" height="60"></div><!--end header-->
+				
+				<div id="copyLong03">
+					This privacy statement was created because we are committed to protecting Extended Stay Hotels <sup>SM</sup> 
+					and its four hotel brands, Extended StayAmerica Efficiency Studios, Homestead Studio Suites Hotels, 
+					StudioPLUS Deluxe Studios, and Crossland Economy Studios guests' privacy. The following 
+					discloses our security, information gathering and dissemination practices for the ExtendedStayHotels.com website. 
 					<p></p>
 					<a href="terms.asp">Click Here</a> for our Terms of Use for the ExtendedStayHotels.com website.
 					<p></p>
-					<div id="privacy">
-						<h2>Information Collection and Use</h2>
-						Extended Stay Hotels is the sole owner of the information collected on this website. 
-						Extended Stay Hotels will not sell, share, or otherwise distribute your
-						personal data to third parties. Extended Stay Hotels collects information from
-						our users at several different points on our website.
+					<br>&nbsp;<br>
+						<b><font color="23476b">Information Collection and Use</font></b>
+						<br>HVM L.L.C. is the sole owner of the information collected on this website. HVM L.L.C. 
+						will not sell, share, or otherwise distribute your personal data to third parties. 
+						We collect information from our users at several different points on our website. 
 						<p></p>
 						We use WebTrends NetIQ, a service provider, to help us gather and analyze
 						information about our customers. WebTrends' only role is to help us conduct
@@ -196,24 +549,23 @@ function isEmail(string) {
 						behavior through the use of this service or find out more about our service
 						provider, including its privacy policy and how to opt out, <a href="http://www.netiq.com/about_netIQ/privacypolicy.asp" target="_new">Click Here</a>.
 						<p></p>
-						<h2>Log Files</h2>
-						We use IP addresses to analyze trends, administer the website, track user's
+						<b><font color="23476b">Log Files</font></b>
+						<br>We use IP addresses to analyze trends, administer the website, track user's
 						movement, and gather broad demographic information for aggregate use. IP
 						addresses are not linked to personally identifiable information.
 						<p></p>
-						<h2>Links</h2>
-						This website may contain hyperlinks to websites operated by parties other than
-						Extended Stay Hotels. Such hyperlinks are provided for your reference only.
-						Extended Stay Hotels does not control such websites and is not responsible for
-						their contents. The inclusion of hyperlinks to such websites does not imply any
-						endorsement of the material on such websites or any association with their
-						operators. Those websites may have different privacy policies. If you click
-						onto another website, you may want to check the privacy policy of that Web
-						site. Extended Stay Hotels is not responsible for the privacy policies of other
-						sites.
+						<b><font color="23476b">Links</font></b>
+						<br>This website may contain hyperlinks to websites operated by parties other than HVM L.L.C. 
+						Such hyperlinks are provided for your reference only. HVM L.L.C. does not control such 
+						websites and is not responsible for their contents. The inclusion of hyperlinks to 
+						such websites does not imply any endorsement of the material on such websites or 
+						any association with their operators. Those websites may have different privacy 
+						policies. If you click onto another website, you may want to check the privacy 
+						policy of that Web site. HVM L.L.C. is not responsible for the privacy policies 
+						of other sites. 
 						<p></p>
-						<h2>Cookies</h2>
-						A cookie is a piece of data stored on the user's hard drive containing
+						<b><font color="23476b">Cookies</font></b>
+						<br>A cookie is a piece of data stored on the user's hard drive containing
 						information about the user. Usage of a cookie is in no way linked to any
 						personally identifiable information while on our website. If you do not want
 						information collected through the use of cookies, there is a simple procedure in
@@ -226,8 +578,8 @@ function isEmail(string) {
 						business partners use cookies on our website (for example, online advertisers).
 						However, we have no access to or control over these cookies.
 						<p></p>
-						<h2>Online Advertising</h2>
-						We use a third-party company to serve online advertisements on our behalf across
+						<b><font color="23476b">Online Advertising</font></b>
+						<br>We use a third-party company to serve online advertisements on our behalf across
 						the Internet. During this process, we may collect information about your visits
 						to our website. This is primarily accomplished through the use of a technology
 						commonly referred to as a Web Beacon or Action Tag, which we place on various
@@ -238,8 +590,8 @@ function isEmail(string) {
 						advertising. If you would like more information about this practice, or if you
 						prefer not to have this information used, <a href="http://www.atlasdmt.com/privacy/" target="_new">Click Here</a>.
 						<p></p>
-						<h2>Surveys &amp; Contests</h2>
-						From time-to-time our website requests information from users via surveys or
+						<b><font color="23476b">Surveys &amp; Contests</font></b>
+						<br>From time-to-time our website requests information from users via surveys or
 						contests. Participation in these surveys or contests is completely voluntary and
 						the user therefore has a choice whether or not to disclose this information.
 						Information requested may include contact information (such as name and
@@ -248,31 +600,31 @@ function isEmail(string) {
 						information will be used for purposes of monitoring or improving the use and
 						satisfaction of this website.
 						<p></p>
-						<h2>Special Offers</h2>
-						We send all new SuiteOffers members a welcoming email to confirm membership.
+						<b><font color="23476b">Special Offers</font></b>
+						<br>We send all new Suite Offers members a welcoming email to confirm membership.
 						Established members will receive information on services and special deals. Out
 						of respect for the privacy of our users we present the option to not receive
 						these types of communications. Please see our choice and opt-out below.
 						<p></p>
-						<h2>Correction/Updating Personal Information:</h2>
-						If a user's personally identifiable information changes (such as your zip code),
+						<b><font color="23476b">Correction/Updating Personal Information</font></b>
+						<br>If a user's personally identifiable information changes (such as your zip code),
 						or if a user no longer desires our service, we will endeavor to provide a way to
 						correct, update or remove that user's personal data provided to us. This can
 						usually be done at the My Account page or by emailing us using the Contact Us
 						page.
 						<p></p>
-						<h2>Choice/Opt-out</h2>
-						Our users are given the opportunity to 'opt-out' of having their information
+						<b><font color="23476b">Choice/Opt-out</font></b>
+						<br>Our users are given the opportunity to 'opt-out' of having their information
 						used for purposes not directly related to our website at the point where we ask
 						for the information. For example, our reservation process has an 'opt-out'
 						mechanism so users who book a room from us, but don't want any marketing
 						material, can keep their email address off of our lists. All our emails
-						promoting special deals to our SuiteOffers members contain a link to Opt-out of
+						promoting special deals to our Suite Offers members contain a link to Opt-out of
 						receiving future emails. You may also use the Contact Us page to Opt-Out of
 						receiving emails in the future.
 						<p></p>
-						<h2>Site Security</h2>
-						By making your travel purchase on our secure server, you are protected by Secure
+						<b><font color="23476b">Site Security</font></b>
+						<br>By making your travel purchase on our secure server, you are protected by Secure
 						Socket Layer (SSL) technology, utilized by most popular browsers, including
 						Netscape and Microsoft Explorer. This technology allows us to use the most
 						advanced encryption tools necessary to protect information transmitted between
@@ -283,14 +635,14 @@ function isEmail(string) {
 						its original form and stored in our off-line database. Your credit card
 						information is not transmitted over the Internet again.
 						<p></p>
-						<h2>Site and Service Updates</h2>
-						We also send the user website and service announcement updates. Members are not
+						<b><font color="23476b">Site and Service Updates</font></b>
+						<br>We also send the user website and service announcement updates. Members are not
 						able to un-subscribe from service announcements, which contain important
 						information about the service. We communicate with the user to provide requested
 						services and in regards to issues relating to their account via email or phone.
 						<p></p>
-						<h2>Notification of Changes</h2>
-						If we decide to change our privacy policy, we will post those changes on our
+						<b><font color="23476b">Notification of Changes</font></b>
+						<br>If we decide to change our privacy policy, we will post those changes on our
 						Homepage so our users are always aware of what information we collect, how we
 						use it, and under circumstances, if any, we disclose it. If at any point we
 						decide to use personally identifiable information in a manner different from
@@ -298,7 +650,6 @@ function isEmail(string) {
 						email. Users will have a choice as to whether or not we use their information in
 						this different manner. We will use information in accordance with the privacy
 						policy under which the information was collected.
-					</div><!--end privacy-->
 					<div id="BackToTop"><a href="#top">Back to Top</a></div><!--end div-->
 				</div><!--end LocationContainer-->
 				
@@ -317,21 +668,23 @@ function isEmail(string) {
 				<img src="/images/spacer.gif" width="15" height="1"></td>
 					
 			<td class="smtextblue">
-				©2005 Extended Stay Hotels<sup>SM</sup></td>
+				©2005 Extended Stay Hotels <sup>SM</sup></td>
 				
 			<td>
-				<img src="/images/spacer.gif" width="90" height="1"></td>
+				<img src="/images/spacer.gif" width="20" height="1"></td>
 				
 			<td>
 				<table cellpadding="2" cellspacing="3" border="0">
 					<tbody><tr>
-						<td class="smtextblue"><a href="http://www.ExtendedStayHotels.com/About/Main.asp">About Extended Stay Hotels</a></td>
+						<td class="smtextblue"><a href="http://www.ExtendedStayHotels.com/Extended/stay.asp">About Extended Stay Hotels</a></td>
 						<td class="smtextblue"> | </td>
 						<td class="smtextblue"><a href="http://www.ExtendedStayHotels.com/Contact/Main.asp">Contact Us</a></td>
 						<td class="smtextblue"> | </td>
 						<td class="smtextblue"><a href="http://www.ExtendedStayHotels.com/Travel/Main.asp">Travel Agents</a></td>
 						<td class="smtextblue"> | </td>
-						<td class="smtextblue"><a href="http://www.ExtendedStayHotels.com/About/Highlights.asp">About Us</a></td>
+						<td class="smtextblue"><a href="http://www.ExtendedStayHotels.com/Extended/Highlights.asp">About Us</a></td>
+						<td class="smtextblue"> | </td>
+						<td class="smtextblue"><a href="http://www.ExtendedStayHotels.com/Account/AffiliatedHotels.asp">Affiliated Hotels</a></td>						
 						<td class="smtextblue"> | </td>
 						<td class="smtextblue"><a href="http://www.ExtendedStayHotels.com/Privacy/Main.asp">Privacy/Security</a></td>
 					</tr>
