@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashfiesta.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403164406id_/http%3A//www.cashfiesta.com%3Fprivacy_infocenter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashfiesta.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231065317id_/http%3A//cashfiesta.com%3Fprivacy_infocenter) for the most accurate reproduction.*
 
 # Make money online: Cashfiesta Policies
 
@@ -8,7 +8,7 @@ Cashfiesta.com will not collect any personal information about individuals excep
 
 **Information we may request**
 
-When you register as a member with Cashfiesta.com, you must submit your name and address so that we can properly mail your monthly check to you. Your demographic information is the key to make you as a consumer happier and the advertiser more focused. In addition, we require user-specific information such as interests, gender, age, household income and education, which is used to build a profile of your interests and activity so that you can receive advertisement, offers and other benefits that are most likely to be of interest of you. We will ask you for this information when you register as a member. The only other piece of information that we require for sign up is your email address. We ask for this information to verify your identity and protect against fraud. 
+When you register as a member with Cashfiesta.com, you must submit your name and address so that we can properly mail your monthly check to you. Your demographic information is the key to make you as a consumer happier and the advertiser more focused. In addition, we require user-specific information such as interests, gender, age, household income and education, which is used to build a profile of your interests and activity so that you can receive advertisement, offers and other benefits that are most likely to be of interest of you. We will ask you for this information when you register as a member. The only other piece of information that we require for sign up is your email address. We ask for this information to verify your identity and protect against fraud. For some promotions we may also request a valid phone number. 
 
 **No Information Collected from Children**
 
@@ -28,11 +28,7 @@ When you visit Cashfiesta.com, we place a text file called a "cookie" in the bro
 
 **Choice/Opt-Out**
 
-Our site provides you with the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about you. To remove your information from our database, to not receive future communications or to no longer receive our service, you can send email to [cancelmyaccount@cashfiesta.com](mailto:cancelmyaccount@cashfiesta.com). 
-
-**Advertising Sources**
-
-Cashfiesta serves ads from different advertising partners among which Adtegrity.com. Adtegrity.com's Privacy Policy can be found at <http://www.adtegrity.com/privacy.asp>
+Our site provides you with the opportunity to opt-out of receiving commercial communications from us and our partners by changing your communication preferences in the [Edit Profile](http://www.cashfiesta.com/php/edit.php) section of the site. However, your option not to receive commercial messages: (a) shall not preclude us from corresponding with you, by e-mail or otherwise, regarding your existing or past relationship with us (e.g. sending you updates about the Cashfiesta.com services, incl. our Monthly Bonus emails), and (b) shall not preclude us, including our employees, contractors, agents and other representatives, from accessing and viewing your personal information in the course of maintaining and improving the site. 
 
 **Registration Form Disclosure**
 
