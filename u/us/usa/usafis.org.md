@@ -1,19 +1,14 @@
-> *The following text is extracted and transformed from the usafis.org privacy policy that was archived on 2005-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050625012929id_/http%3A//www.usafis.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usafis.org privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231062405id_/http%3A//www.usafis.org/privacy.asp) for the most accurate reproduction.*
 
 # Green Card Lottery, Apply and win the USA Green Card Lottery, USAFIS, Live & work in America
 
-  
-  
-and all related sites owned, operated or controlled by  
-" _Usafis Organization_ "
-
-Version 2.0 – (Last updated July 12, 2004)
+Version 2.0 – (Last updated November 20, 2005)
 
 [](http://www.truste.org/ivalidate.php?url=www.USAFIS.org&sealid=101)
 
 Usafis is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site usafis.org. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
-If you have questions or concerns regarding this statement, you should first contact Mr. Dan Gold by email goldd@usafis.org, phone +1-347-710-4565 or send regular mail to 2565 BROADWAY # 443 NEW YORK NY 10025 United States. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/consumers/watchdog_complaint.php> . TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first contact Mr. Dan Gold by email goldd@usafis.org, phone +1-347-710-4565 or send regular mail to 2565 BROADWAY # 443 NEW YORK NY 10025 United States. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe http://www.truste.org/consumers/watchdog_complaint.php . TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
 
 _Usafis Organization_ is the sole owner of the information collected on this site, usafis.org. _Usafis Organization_ will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. _Usafis Organization_ collects information from our users at several different points on _Usafis Organization_ website. 
 
@@ -29,7 +24,7 @@ This web site contains links to other sites. Please be aware that _Usafis Organi
 
 From time-to-time _Usafis Organization_ site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
 
-If a user elects to use _Usafis Organization_ referral service for informing a friend about this site, we ask them for the friend's name and email address. _Usafis Organization_ will automatically send the friend a one-time email inviting them to visit the site. The friend may contact _Usafis Organization_ to request the removal of the information from the database. 
+If a user elects to use _Usafis Organization_ referral service for informing a friend about this site, we ask them for the friend's name and email address. _Usafis Organization_ will automatically send the friend a one-time email inviting them to visit the site. The friend may contact _Usafis Organization_ to request the removal of the information from the database [through this link](http://www.usafis.org/helpdesk). 
 
 This website takes every precaution to protect users' information. When users submit sensitive information via the website, the information is protected both online and off-line. When registration form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as the payment reply form, the lock icon on the bottom of Web browsers such as Microsoft Internet Explorer becomes locked. 
 
@@ -40,6 +35,8 @@ If a user's personally identifiable information changes, or if a user no longer 
 _Usafis Organization_ users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to _Usafis Organization_ site. In order to unsubscribe you may type your email address at http://www.usafis.org/unsubscribe/ and your request will be recorded on our database.
 
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site
+
+Usafis testimonials page present winners who wanted to share their success stories with others. Usafis post customer testimonials on our web site, which may contain personally identifiable information such as the customer's name or other details, all in accordance with customer's explicit prior consent. We always obtain customer's consent prior to posting the testimonial, to post their personal information along with their testimonial. 
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
