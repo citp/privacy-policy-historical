@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hotref.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305000620id_/http%3A//www.hotref.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotref.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231121551id_/http%3A//www.hotref.com/privacy.php) for the most accurate reproduction.*
 
-# HotRef.com: It's all about referrals
+# HotRef.com: The world's leading online network for business and personals
 
 |   |  |  Your privacy is our top concern. We work hard to earn and keep your trust, so we adhere to the following principles to protect your privacy:   
 ---  
@@ -21,7 +21,7 @@ In order to become a HotRef member, you must first create an account on this web
 **Cookies & Log Files:**  
 Like most web sites, HotRef uses cookies and web log files to track site usage. A cookie is a tiny data file which resides on your computer which allows HotRef to recognize you as a user when you return to our site using the same computer and web browser. Unfortunately, if your browser settings do not allow cookies, you will not be able to use our website. Like the information you enter at registration, cookie and log file data is used to customize your experience on the web site. One type of cookie, called a "session" cookie, is used to identify a particular visit to the HotRef site. Session cookies expire after a short time or when you close your web browser. Due to the communications standards on the Internet, when you visit the HotRef web site we automatically receive the URL of the site from which you came and the site to which you are going when you leave HotRef. We also receive the Internet protocol (IP) address of your computer (or the proxy server you use to access the World Wide Web), your computer operating system and type of web browser you are using, as well as the name of your ISP. This information is used to analyze overall trends to help us improve the HotRef service, but is not linked to personally identifiable information in any way.   
 **Information Use**  
-HotRef is an online service dedicated to helping people access the latest and most relevant information on web. The information you choose to provide on this site is used to help you safeguard the quality of contents that you may receive. HotRef is the sole owner of the information collected on this site.   
+HotRef.com offers online networking services for business and personals. The information you choose to provide on this site is used to help you safeguard the quality of contents that you may receive. HotRef is the sole owner of the information collected on this site.   
 HotRef will communicate with you through email and notices posted on this website. These include a series of up to five welcome emails which help inform new users about various features of the service. Please be aware that you will always receive certain emails from HotRef related to the proper functioning of your account, such as email notices when another user in your network makes a referral to you.   
 **Information Sharing**  
 * Sharing Information With Third Parties:  
