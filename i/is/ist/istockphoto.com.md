@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the istockphoto.com privacy policy that was archived on 2005-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050518012844id_/http%3A//istockphoto.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the istockphoto.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231224739id_/http%3A//istockphoto.com/privacy.php) for the most accurate reproduction.*
 
 # iStockphoto.com : royalty free stock photography community
 
