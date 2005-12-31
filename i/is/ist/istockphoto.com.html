@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the istockphoto.com privacy policy that was archived on 2005-05-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050518012844id_/http%3A//istockphoto.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the istockphoto.com privacy policy that was archived on 2005-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051231224739id_/http%3A//istockphoto.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 	
@@ -13,17 +13,21 @@
 	
 	<link rel="alternate" type="application/atom+xml" title="iStockphoto.com - Latest News" href="http://www.istockphoto.com/istock_news_rss.php">
 	<link rel="alternate" type="application/atom+xml" title="iStockphoto.com - Latest Images" href="http://www.istockphoto.com/istock_rss.php">
-	<link rel="Shortcut Icon" type="image/ico" href="http://istockphoto.com/favicon.ico">
+	<link rel="alternate" type="application/atom+xml" title="iStockphoto.com - Latest Forum Threads" href="http://www.istockphoto.com/istock_forums_rss.php">
+	<link rel="Shortcut Icon" type="image/ico" href="http://www.istockphoto.com/favicon.ico">
+
+	
 	<!--
-		iweb5 / istockdb8 (istockdb8) was pleased to serve you today.
-		Current url: istockphoto.com/privacy.php
+		iweb10 / 66.244.238.158 (istockdb1) was pleased to serve you today.
+		Current url: http://www.istockphoto.com//privacy.php
 	-->
 	<title>iStockphoto.com : royalty free stock photography community</title>
 
 	<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
 
-				<link type="text/css" href="/csspassthru/001568256785/blue.css" rel="stylesheet">
+				<link type="text/css" href="http://www2.istockphoto.com/csspassthru/001550133139/blue.css" rel="stylesheet">
 							<script language="javascript" src="/styleswitcher.js" type="text/javascript"></script>
+							<script language="javascript" src="/dom.js" type="text/javascript"></script>
 			
 
 <script type="text/javascript"><!--
@@ -38,9 +42,8 @@
 
 
 		function TopsearchFormValidate(){
-			if ( document.topsearch.text.value != "" ){
-				return true;
-			} else {
+			if ( document.topsearch.text.value != "" ){ return true; }
+			else {
 				alert("Please enter a search term in the form.");
 				return false;
 			}
@@ -53,9 +56,11 @@
 
 </head>
 
+
+
 <body onload="preloadImages();">
 <div align="center">					<!-- The Main Container Div. Keeps everything centered -->
-	<div id="sitecontainer"> 		<!-- wraps the site, keeps everything together -->
+	<div id="sitecontainer" style="width: 762px;"> 		<!-- wraps the site, keeps everything together -->
 	
 		<!-- BEGIN HEADER ////////////////////////////////// -->
 		<div class="header" align="center"> <!-- this Div is for the header -->
@@ -66,64 +71,50 @@
 
 
 	<!-- start firstNavBar -->
-	<div id="firstNavBar">
-	<!--
-	<style>
-	#debugtable { border: 1px solid #00FF00 }
-	#debugtable td { border: 1px solid #FF0000 }
-	</style>
-	-->
-		<table width="760" id="debugtable" cellpadding="2" cellspacing="2" border="0">
-		<form name="topsearch" action="file_search.php" method="get" onsubmit="return TopsearchFormValidate();"></form>
-		<tbody><tr>
-			<td width="245">
-				<a href="http://istockphoto.com/index.php">
-				<input type="hidden" name="action" value="file">
-									<img name="toplogo" src="images/toplogo/blue.gif" border="0" title="iStockphoto.com: the designers' dirty little secret" alt="iStockphoto.com"></a>
-								
-			</td>
-			<td align="right" valign="middle">
-				<table cellpadding="2" cellspacing="0" border="0" align="right">
-					<tbody><tr>
-						<td class="menuText">
-							Search
-						</td>
-						<td>
-							<input type="text" name="text" class="topsearch" size="24" style="width: 150px;" value="">
-						</td>
-						<td>
-							<select class="dropdown" name="filetypeID" size="1">
-								<option value="">All Files</option>
-								<option value="1">Photographs</option>
-								<option value="7">Illustrations</option>
-								<option value="4">Flash</option>
-							</select>
-						</td>
-						<td>
-							<input type="submit" value="Go" class="buttonwhite">
-						</td>
-					</tr>
-				</tbody></table>
-			</td>
-		</tr>
-		
+	<div id="firstNavBar" align="right" style="height: 41px;">
+
+		<div style="float: left; margin: 5px;">
+			<a href="http://www.istockphoto.com/index.php">
+					<img name="toplogo" src="images/toplogo/blue.gif" border="0" title="iStockphoto.com: the designers' dirty little secret" alt="iStockphoto.com"></a>
+				
+
+		</div>
+
+		<form name="topsearch" action="http://www.istockphoto.com/file_search.php" method="get" onsubmit="return TopsearchFormValidate();">
+		<input type="hidden" name="action" value="file">
+		<table cellpadding="2" cellspacing="0" border="0" align="right" height="41">
+			<tbody><tr>
+				<td class="menuText" width="400" align="right">
+					Search
+				
+					<input type="text" name="text" class="topsearch" size="24" style="width: 150px;" value="">
+				
+					&nbsp;
+					<select class="dropdown" name="filetypeID">
+						<option value="">All Files</option>
+						<option value="1">Photographs</option>
+						<option value="7">Illustrations</option>
+						<option value="4">Flash</option>
+					</select>
+				
+					<input type="submit" value="Go" class="buttonwhite">&nbsp;
+				</td>
+			</tr>
 		</tbody></table>
+		</form>
 
 	</div>
 	<!-- end firstNavBar -->
 
 	<!-- start secondNavBar -->
-	<!--<div id="secondNavBar" >-->
 	<div id="secondNavBar">
 
-	
+		
 		<!-- start login form -->
 		<table class="usertable" width="100%" cellpadding="0" cellspacing="0" border="0">
-			<form name="toplogin" method="post" action="istock_login.php"></form>
+			<form name="toplogin" method="post" action="https://secure.istockphoto.com/istock_login.php"></form>
 			<input type="hidden" name="action" value="1">
-			<input type="hidden" name="goto" value="
-			
-				/privacy.php					">
+			<input type="hidden" name="goto" value="/privacy.php">
 			<tbody><tr>
 				<td style="padding-left: 6px;">
 					<span class="menuText">
@@ -153,33 +144,46 @@
 		
 		<table width="100%" border="0" cellpadding="0" cellspacing="0">
 			<tbody><tr>
-				<td valign="top" align="left">
+				<td valign="top" align="left" width="160px;">
 					<!-- BEGIN NAVIGATION ////////////////////////////////// -->
 					<div id="navigation">
 
 						
+
 <div>
+
 	<div class="menu">
 		<!-- MAIN LEFT NAV -->
 
-		<a href="http://istockphoto.com/introduction.php">Introduction</a>		<a href="http://istockphoto.com/istock_signup.php">Sign up</a>		<a href="http://istockphoto.com/file_search.php">Advanced Search</a>		<a href="http://istockphoto.com/file_categories.php">Browse Categories</a>		<a href="http://istockphoto.com/most_popular.php">Most Popular Files</a>		<br>
-		<a href="http://istockphoto.com/controlpanel.php">Control Panel</a>		<br>
-		<a href="http://istockphoto.com/design_spotlight.php">Designer Spotlight</a>		<a href="http://istockphoto.com/galleries.php">Galleries</a>		<a href="http://istockphoto.com/litebox.php">Lightbox</a>		<a href="http://istockphoto.com/forums.php">Forums</a>		<a href="http://istockphoto.com/articles.php">Articles</a>		<br>
-		<a href="http://istockphoto.com/user_creativenetwork.php">Creative Network</a>		<a href="http://istockphoto.com/file_upload.php">Upload Files</a>				<br>
-		<a href="http://istockphoto.com/contact_ticket.php">Support</a>		<a href="http://istockphoto.com/faq.php">FAQs</a>		<a href="http://istockphoto.com/downloads.php">Software</a>
-		<a href="http://istockphoto.com/store.php">Store</a>		<a href="http://istockphoto.com/partners.php">Partners</a>		
+		<a href="http://www.istockphoto.com/introduction.php">Introduction</a>		<a href="http://www.istockphoto.com/istock_signup.php">Sign up</a>		<a href="http://www.istockphoto.com/file_search.php">Advanced Search</a>		<a href="http://www.istockphoto.com/file_categories.php">Browse Categories</a>		<a href="http://www.istockphoto.com/most_popular.php">Most Popular Files</a>		<br>
+		<a href="http://www.istockphoto.com/controlpanel.php">Control Panel</a>		<br>
+
+		<a href="http://www.istockphoto.com/design_spotlight.php">Designer Spotlight</a>
+				
+		
+		<a href="http://www.istockphoto.com/galleries.php">Galleries</a>		<a href="http://www.istockphoto.com/litebox.php">Lightbox</a>		<a href="http://www.istockphoto.com/forums.php">Forums</a>		<a href="http://www.istockphoto.com/articles.php">Articles</a>
+
+		<a href="http://www.istockphoto.com/user_creativenetwork.php">Creative Network</a>		<br><a href="http://www.istockphoto.com/file_upload.php">Upload Files</a>		<a href="http://www.istockphoto.com/training_manuals.php">Training</a>		<br>
+		<a href="http://www.istockphoto.com/contact_ticket.php">Support</a>		<a href="http://www.istockphoto.com/faq.php">FAQs</a>		<a href="http://www.istockphoto.com/downloads.php">Software</a>	<a href="http://www.istockphoto.com/istock_store.php">Store</a> 
+
+		<a href="http://www.istockphoto.com/partners.php">Partners</a>		
 		<!-- END MAIN LEFT NAV -->
 	</div>
 
+
+
 	
 
-	
 
 
-    
-  
-  
-  
+
+
+
+
+
+
+
+
 
 
 </div>
@@ -284,7 +288,8 @@ Minors in the country, province or state in which they live, can only use this S
 <br>
 <b>9. CHANGES TO THIS PRIVACY POLICY </b><br>
 <br>
-We may change this policy as new services are added or old ones are changed.  Such changes will be effective when a notice of the change is posted on the Site.  Please check this Privacy Policy from time to time for updates by checking the date of the “Last Update” at the top of this document.<br>	</div>	
+We may change this policy as new services are added or old ones are changed.  Such changes will be effective when a notice of the change is posted on the Site.  Please check this Privacy Policy from time to time for updates by checking the date of the “Last Update” at the top of this document.<br>
+	</div>	
 </div>
 
 
@@ -302,20 +307,23 @@ We may change this policy as new services are added or old ones are changed.  Su
 
 	<!-- \\\\\\\\\\\\ FOOTER DIV \\\\\\\\\\\\\ --->
 	<div id="footer">
-		<table width="100%">
+		<table width="100%" cellpadding="0" cellspacing="0">
 			<tbody><tr>
 				<td colspan="3" class="borderbot">
 				</td>
 			</tr>
 			<tr>
-				<td align="left">
+				<td align="left" valign="top">
 					Design: <a href="exit.php?url=http://www.evolvs.com" target="_new">Evolvs.com</a> | Hosting: <a href="exit.php?url=http://www.webcorelabs.com" target="_blank">WebcoreLabs.com</a>
 				</td>
-				<td align="center">
-					Copyright 2005 iStock International Inc.
-				</td>
-				<td align="right">
-					<a href="contact_ticket.php">Contact Us</a> | <a href="employment.php">Careers</a> | <a href="privacy.php">Privacy</a> | <a href="license.php">Legal</a>
+				<td align="center" valign="top">
+					Copyright 2005 iStock International Inc.				</td>
+				<td align="right" valign="top">
+					<a href="http://www.istockphoto.com/employment.php">Careers</a> | 
+					<a href="http://www.istockphoto.com/contact_ticket.php">Contact Us</a> | 
+					<a href="http://www.istockphoto.com/civics_1_introduction.php">Civics</a> | 
+					<a href="http://www.istockphoto.com/privacy.php">Privacy</a> | 
+					<a href="http://www.istockphoto.com/license.php">Legal</a>
 				</td>
 			</tr>
 		</tbody></table>
@@ -326,6 +334,11 @@ We may change this policy as new services are added or old ones are changed.  Su
 </div>
 <br clear="all">
 <!-- main div -->
+
+<!-- i2a tracking code-->
+<script type="text/javascript" src="/includes/i2a.js">
+</script>
+
 
 
 </body></html>
