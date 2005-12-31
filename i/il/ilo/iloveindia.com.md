@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iloveindia.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205181430id_/http%3A//www.iloveindia.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iloveindia.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231135209id_/http%3A//www.iloveindia.com/privacy-policy.html) for the most accurate reproduction.*
 
 # iLoveIndia - Privacy Policy.
 
