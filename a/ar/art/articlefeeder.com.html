@@ -1,0 +1,503 @@
+<!--The following is the downloaded HTML source of the articlefeeder.com privacy policy that was archived on 2005-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051231235730id_/http%3A//www.articlefeeder.com/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+<title>Articles by ArticleFeeder.com</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="Author" content="Rajesh Ghosh (rajeshghosh_c@yahoo.co.in)">
+<meta name="Keywords" content="articles">
+<meta name="Description" content="your article search engine and directory"><link href="http://www.articlefeeder.com/stylesheet.css" rel="stylesheet" type="text/css">
+<link href="http://www.articlefeeder.com/stylesheet1.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//--> </script>
+<script language="JavaScript" type="text/JavaScript">
+
+/*
+Form field Limiter script- By Dynamic Drive
+For full source code and more DHTML scripts, visit http://www.dynamicdrive.com
+This credit MUST stay intact for use
+*/
+
+var ns6=document.getElementById&&!document.all
+
+function restrictinput(maxlength,e,placeholder){
+if (window.event&&event.srcElement.value.length>=maxlength)
+return false
+else if (e.target&&e.target==eval(placeholder)&&e.target.value.length>=maxlength){
+var pressedkey=/[a-zA-Z0-9\.\,\/]/ //detect alphanumeric keys
+if (pressedkey.test(String.fromCharCode(e.which)))
+e.stopPropagation()
+}
+}
+
+function countlimit(maxlength,e,placeholder){
+var theform=eval(placeholder)
+var lengthleft=maxlength-theform.value.length
+var placeholderobj=document.all? document.all[placeholder] : document.getElementById(placeholder)
+if (window.event||e.target&&e.target==eval(placeholder)){
+if (lengthleft<0)
+theform.value=theform.value.substring(0,maxlength)
+placeholderobj.innerHTML=lengthleft
+}
+}
+
+
+function displaylimit(thename, theid, thelimit){
+var theform=theid!=""? document.getElementById(theid) : thename
+var limit_text='<b><span id="'+theform.toString()+'">'+thelimit+'</span></b> characters remaining on your input limit'
+if (document.all||ns6)
+document.write(limit_text)
+if (document.all){
+eval(theform).onkeypress=function(){ return restrictinput(thelimit,event,theform)}
+eval(theform).onkeyup=function(){ countlimit(thelimit,event,theform)}
+}
+else if (ns6){
+document.body.addEventListener('keypress', function(event) { restrictinput(thelimit,event,theform) }, true); 
+document.body.addEventListener('keyup', function(event) { countlimit(thelimit,event,theform) }, true); 
+}
+}
+
+</script>
+<script language="javascript">
+
+/*
+Auto center window script- Eric King (http://redrival.com/eak/index.shtml)
+Permission granted to Dynamic Drive to feature script in archive
+For full source, usage terms, and 100's more DHTML scripts, visit http://dynamicdrive.com
+*/
+
+var win = null;
+function NewWindow(mypage,myname,w,h,scroll){
+LeftPosition = (screen.width) ? (screen.width-w)/2 : 0;
+TopPosition = (screen.height) ? (screen.height-h)/2 : 0;
+settings =
+'height='+h+',width='+w+',top='+TopPosition+',left='+LeftPosition+',scrollbars='+scroll+',resizable'
+win = window.open(mypage,myname,settings)
+}
+
+</script>
+
+</head>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="MM_preloadImages('http://www.articlefeeder.com/img/site_search_mo.gif','http://www.articlefeeder.com/img/privacy_policy_mo.gif','http://www.articlefeeder.com/img/terns_of_use_mo.gif','http://www.articlefeeder.com/img/contact_us_mo.gif')">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td height="926" align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+      <td align="left" valign="top"> <table border="0" width="100%" cellspacing="0" cellpadding="0">
+          <tbody><tr height="121"> 
+            <td bgcolor="#1E5082"> <table border="0" width="100%" cellspacing="0" cellpadding="0" height="100%">
+                <tbody><tr> 
+                  <td rowspan="3" align="left" width="260"><img border="0" src="http://www.articlefeeder.com/img/logo.jpg"></td>
+                  <td height="22" bgcolor="#1E5082" style="border-left-width: 1px; border-right-width: 1px; border-top-width: 1px; border-bottom: 1px solid #82AEDA" align="right"> 
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a class="menu" href="http://www.articlefeeder.com/login.php"><font color="#FFFFFF">Login</font> 
+                    </a>&nbsp;&nbsp;&nbsp; <a class="menu" href="http://www.articlefeeder.com/contact.php"><font color="#FFFFFF">Support</font></a></td>
+                  
+		        </tr>
+                <tr> 
+                  <td height="77" align="left" bgcolor="#6A97C5"> <img border="0" src="http://www.articlefeeder.com/img/top2.jpg"></td>
+                </tr>
+                <tr> 
+                  <td height="22" bgcolor="#1E5082" style="border-left-width: 1px; border-right-width: 1px; border-top: 1px solid #83B0D9; border-bottom-width: 1px" align="left"> 
+                    <a class="menu" href="http://www.articlefeeder.com/index.php"><font color="#FFFFFF">Home</font></a>&nbsp;&nbsp;&nbsp;&nbsp; 
+                    <a class="menu" href="http://www.articlefeeder.com/searcharticle.php"><font color="#FFFFFF">Site 
+                    Search</font></a>&nbsp;&nbsp;&nbsp;&nbsp; <a class="menu" href="http://www.articlefeeder.com/article_submission.php"><font color="#FFFFFF">Submit 
+                    Article</font></a>&nbsp;&nbsp;&nbsp;&nbsp; <a class="menu" href="http://www.articlefeeder.com/rss.php"><font color="#FFFFFF">Get 
+                    RSS</font></a><!--a class="menu" href="http://www.articlefeeder.com/index.php"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+					<a class="menu" href="http://www.articlefeeder.com/site.php"><font color="#FFFFFF">Create Your Site</font></a>--></td>
+                </tr>
+              </tbody></table></td>
+          </tr>
+          
+        </tbody></table>
+        
+      </td>
+        </tr>
+
+<tr> 
+          <td height="806" align="left" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+      <tbody><tr> 
+        <td width="788" height="100%" align="left" valign="top"><table width="179" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+                    <tbody><tr> 
+                      <td align="left" valign="top"><table width="179" border="0" cellpadding="5" cellspacing="0">
+                  <tbody><tr> 
+                    <td align="center" valign="middle" height="20">&nbsp;</td>
+                  </tr>
+                  <tr> 
+                    <td align="center" valign="middle" height="28" class="column_title">Article<br>
+                      categories</td>
+                  </tr>
+                  <tr> 
+                    <td align="left" valign="top" class="column_body"> 
+                                            <a href="http://www.articlefeeder.com/articles?cat=1">Autos, Trucks &amp; More</a><br> 
+                                            <a href="http://www.articlefeeder.com/articles?cat=34">Blogs, RSS &amp; Podcasting</a><br> 
+                                            <a href="http://www.articlefeeder.com/articles?cat=3">Business, Finance &amp; Management</a><br> 
+                                            <a href="http://www.articlefeeder.com/articles?cat=2">Computers &amp; Technology</a><br> 
+                                            <a href="http://www.articlefeeder.com/articles?cat=29">Education</a><br> 
+                                            <a href="http://www.articlefeeder.com/articles?cat=5">Family</a><br> 
+                                            <a href="http://www.articlefeeder.com/articles?cat=6">Food &amp; Drink</a><br> 
+                                            <a href="http://www.articlefeeder.com/articles?cat=26">Fun Stuff</a><br> 
+                                            <a href="http://www.articlefeeder.com/articles?cat=7">Health &amp; Fitness</a><br> 
+                                            <a href="http://www.articlefeeder.com/articles?cat=28">Hobbies</a><br> 
+                                            <a href="http://www.articlefeeder.com/articles?cat=8">House &amp; Home</a><br> 
+                                            <a href="http://www.articlefeeder.com/articles?cat=30">Internet</a><br> 
+                                            <a href="http://www.articlefeeder.com/articles?cat=25">Jobs &amp; Careers</a><br> 
+                                            <a href="http://www.articlefeeder.com/articles?cat=9">Kids &amp; Teens</a><br> 
+                                            <a href="http://www.articlefeeder.com/articles?cat=10">Legal</a><br> 
+                                            <a href="http://www.articlefeeder.com/articles?cat=24">Marketing &amp; Advertising</a><br> 
+                                            <a href="http://www.articlefeeder.com/articles?cat=12">Online Business, Promotion &amp; Marketing</a><br> 
+                                            <a href="http://www.articlefeeder.com/articles?cat=27">Other Stuff</a><br> 
+                                            <a href="http://www.articlefeeder.com/articles?cat=13">Parenting</a><br> 
+                                            <a href="http://www.articlefeeder.com/articles?cat=23">Pets</a><br> 
+                                            <a href="http://www.articlefeeder.com/articles?cat=21">Product Reviews</a><br> 
+                                            <a href="http://www.articlefeeder.com/articles?cat=32">Real Estate</a><br> 
+                                            <a href="http://www.articlefeeder.com/articles?cat=14">Recreation &amp; Sports</a><br> 
+                                            <a href="http://www.articlefeeder.com/articles?cat=35">Religion</a><br> 
+                                            <a href="http://www.articlefeeder.com/articles?cat=15">Self Help &amp; Motivational</a><br> 
+                                            <a href="http://www.articlefeeder.com/articles?cat=17">Travel &amp; Leisure</a><br> 
+                                            <a href="http://www.articlefeeder.com/articles?cat=18">Web Development</a><br> 
+                                            <a href="http://www.articlefeeder.com/articles?cat=19">Women's World</a><br> 
+                                            <a href="http://www.articlefeeder.com/articles?cat=11">World News &amp; Social Issues</a><br> 
+                                            <a href="http://www.articlefeeder.com/articles?cat=20">Writing &amp; Speaking</a><br> 
+                                          </td>
+                  </tr>
+                  <tr> 
+                    <td align="center" valign="middle" class="column_footer"><img border="0" src="http://www.articlefeeder.com/images/spacer.gif" width="1" height="1"></td>
+                  </tr>
+                  <tr> 
+                    <td align="center" valign="middle"><img border="0" src="http://www.articlefeeder.com/images/spacer.gif" width="1" height="1"><img border="0" src="http://www.articlefeeder.com/images/spacer.gif" width="1" height="1"></td>
+                  </tr>
+                  <tr> 
+                    <td align="center" valign="middle" height="28" class="column_title">Keyword 
+                      Search</td>
+                  </tr>
+                  <tr> 
+                    <td height="148" align="left" style="border: 1px solid #316DA8" valign="top" bgcolor="#D7E6FC" bordercolor="#1E5082"> 
+                      <form name="search" action="http://www.articlefeeder.com/search.php" method="get"><table width="179" border="0" cellspacing="0" cellpadding="0"> 
+                        <tbody><tr> 
+                          
+                          <td width="130" align="left" valign="top"> <table width="130" height="172" border="0" cellpadding="0" cellspacing="0">
+                              <tbody><tr> 
+                                <td height="19" align="center" valign="top" class="header1">&nbsp;</td>
+                              </tr>
+                              <tr> 
+                                <td height="35" align="center" valign="top"><input type="text" name="searchkeyword"></td>
+                              </tr>
+                              <tr> 
+                                <td align="left" valign="top"><table width="130" border="0" cellspacing="0" cellpadding="0">
+                                    <tbody><tr class="radio_btn"> 
+                                      <td width="27" align="left" valign="middle"> 
+                                        <input type="radio" name="search" value="title" class="noborder" checked=""></td>
+                                      <td width="103" align="left" valign="middle"> 
+                                        Article Title</td>
+                                    </tr>
+                                    <tr class="radio_btn"> 
+                                      <td align="left" valign="middle"> <input type="radio" name="search" value="name" class="noborder"></td>
+                                      <td align="left" valign="middle">Author's 
+                                        Name</td>
+                                    </tr>
+                                    <tr class="radio_btn"> 
+                                      <td align="left" valign="middle"> <input type="radio" name="search" value="body" class="noborder"></td>
+                                      <td align="left" valign="middle">Article 
+                                        Body</td>
+                                    </tr>
+                                    <tr class="radio_btn"> 
+                                      <td align="left" valign="middle"> <input type="radio" name="search" value="keyword" class="noborder"></td>
+                                      <td align="left" valign="middle">Keyword</td>
+                                    </tr>
+                                  </tbody></table>
+                                </td>
+                              </tr>
+                              <tr> 
+                                <td align="center" valign="bottom" height="30"><input type="submit" name="lsearch" class="butn3" value="Search"></td>
+                              </tr>
+                            </tbody></table></td>
+                  </tr>
+                </tbody></table></form></td>
+                    </tr><tr> 
+                    <td align="center" valign="middle" class="column_footer"><img border="0" src="http://www.articlefeeder.com/images/spacer.gif" width="1" height="1"></td>
+                  </tr>
+                  
+                
+                    <tr> 
+                      
+              <td height="2" align="center" valign="middle"><img border="0" src="http://www.articlefeeder.com/images/spacer.gif" width="1" height="1"></td>
+                    </tr>
+                    
+                        </tbody></table>
+          </td>
+                    </tr>
+                  </tbody></table></td>
+
+                <td width="897" align="left" valign="top" bgcolor="#FFFFFF"><link href="stylesheet.css" rel="stylesheet" type="text/css"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr> 
+                      <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                          <tbody><tr>
+                            <td width="99%" align="left" valign="top">&nbsp;</td>
+                            
+          <td width="1%" align="right" valign="top">&nbsp;</td>
+                          </tr>
+                        </tbody></table></td>
+                    </tr>
+
+
+                    
+<tr> 
+  <td align="center"> 
+    <table width="500" border="0" cellpadding="0" cellspacing="0" bordercolor="#cccc99" style="border-collapse: collapse" align="center">
+      <tbody><tr> 
+                <td>
+				<table width="100%" border="0" cellpadding="4" cellspacing="4" align="center">
+            <tbody><tr> 
+              <td><p class="base_text"><font size="4"><strong>Privacy Policy</strong></font></p>
+                <p class="base_text">ArticleFeeder.com has created this privacy 
+                  statement in order to demonstrate our firm commitment to privacy. 
+                  The following discloses the information gathering and dissemination 
+                  practices for ArticleFeeder.com.<br>
+                  Information Automatically Logged</p>
+                <p class="base_text">We use your IP address to help diagnose problems 
+                  with our server and to administer our Web site. Your IP address 
+                  is also used to gather broad demographic information.</p>
+                <p class="base_title"><strong>Cookies</strong></p>
+                <p class="base_text">Our Site uses cookies to keep track of your 
+                  shopping cart, and to make sure you don't see the same ad repeatedly. 
+                  We also use cookies to deliver content specific to your interests, 
+                  to save your password so you don't have to re-enter it each 
+                  time you visit our site.</p>
+                <p class="base_title"><strong>Advertisers</strong></p>
+                <p class="base_text">We occassionally use an outside ad company 
+                  to display ads on our site. These ads may contain cookies. While 
+                  we use cookies in other parts of our Web site, cookies received 
+                  with banner ads may be collected by the outside ad company, 
+                  and we do not have access to this information.</p>
+                <p class="base_title"><strong>Registration Forms</strong></p>
+                <p class="base_text">Our site's registration form requires users 
+                  to give us contact information (like their name, email, and 
+                  postal address) and demographic information (like their zip 
+                  code, age, or income level).</p>
+                <p class="base_text">Contact information from the registration 
+                  forms is used to send information about our company, and to 
+                  send promotional material from some of our partners to our customers. 
+                  The customer's contact information is also used to get in touch 
+                  with the customer when necessary.</p>
+                <p class="base_text">Users may opt-out of receiving future mailings; 
+                  see the choice/opt-out section below.</p>
+                <p class="base_text">Demographic and profile data is also collected 
+                  at our site.</p>
+                <p class="base_text"> We use this data to tailor our visitor's 
+                  experience at our site showing them content that we think they 
+                  might be interested in, and displaying the content according 
+                  to their preferences.</p>
+                <p class="base_title"><strong>Order Forms</strong></p>
+                <p class="base_text">Our site may, in some cases, use an order 
+                  form for customers to request information, products, and services. 
+                  We collect contact information (like their email address), and 
+                  financial information (like their account or credit card numbers).</p>
+                <p class="base_text">Contact information from the order forms 
+                  is used to ship purchases, information about our company, and 
+                  to send promotional material from some of our partners to our 
+                  customers. The customer's contact information is also used to 
+                  get in touch with the visitor when necessary.</p>
+                <p class="base_text">Users may opt-out of receiving future mailings; 
+                  see the choice/opt-out section below.</p>
+                <p class="base_text">Financial information that is collected is 
+                  used to check the users' qualifications for registration, to 
+                  bill the user for products and services.</p>
+                <p class="base_title"><strong>Surveys</strong></p>
+                <p class="base_text">We will occassionally run surveys where user 
+                  information is collected.</p>
+                <p class="base_text">Our online surveys ask visitors for contact 
+                  information (like email address) and demographic information 
+                  (like zip code, age, or income level).</p>
+                <p class="base_text">Contact information from the surveys is used 
+                  to ship purchases, information about our company. The customer's 
+                  contact information is also used to send promotional material 
+                  from some of our partners to our customers, and to get in touch 
+                  with the visitor when necessary.</p>
+                <p class="base_text">Users may opt-out of receiving future mailings; 
+                  see the choice/opt-out section below.</p>
+                <p class="base_text">Unique identifiers (such as social security 
+                  numbers) are collected from Web site visitors to verify the 
+                  user's identity, for use as account numbers in our record system.</p>
+                <p class="base_text">Demographic and profile data is also collected 
+                  at our site.</p>
+                <p class="base_text">We use this data to tailor our visitor's 
+                  experience at our site showing them content that we think they 
+                  might be interested in, and displaying the content according 
+                  to their preferences.</p>
+                <p class="base_title"><strong>Contests</strong></p>
+                <p class="base_text">We may, on certain occassions, run contests 
+                  on our site in which we ask visitors for contact information 
+                  (like email address).</p>
+                <p class="base_text">Contact information from the contests is 
+                  used to ship purchases, information about our company, and to 
+                  send promotional material from some of our partners to our customers. 
+                  The customer's contact information is also used to get in touch 
+                  with the visitor when necessary.</p>
+                <p class="base_text">Users may opt-out of receiving future mailings; 
+                  see the choice/opt-out section below.</p>
+                <p class="base_title"><strong>External Links</strong></p>
+                <p class="base_text">This site contains links to other sites. 
+                  ArticleFeeder.com is not responsible for the privacy practices 
+                  or the content of such Web sites.</p>
+                <p class="base_title"><strong>Security</strong></p>
+                <p class="base_text">This site has security measures in place 
+                  to protect the loss, misuse, and alteration of the information 
+                  under our control. These security measures include password 
+                  protected directories through the use of .htaccess files and 
+                  customized cgi programs to prevent access to specific areas 
+                  of the web site.</p>
+                <p class="base_title"><strong>Children's Guidelines</strong></p>
+                <p class="base_text">We care about children and understand that 
+                  they have special privacy needs. Therefore, we have adopted 
+                  the following privacy policy regarding children:</p>
+                <p class="base_text"> 1. We will NOT collect, use, or distribute 
+                  to third parties personally identifiable information without 
+                  prior verifiable parental consent.</p>
+                <p class="base_text"> 2. We will NOT give the child access to 
+                  unmonitored chat rooms, message boards, email accounts, or other 
+                  services that would give the child the ability to publicly post 
+                  or otherwise distribute personally identifiable information 
+                  without prior verifiable parental consent</p>
+                <p class="base_text">3. When verifiable parental consent is not 
+                  obtained, we will only use the online contact information (such 
+                  as email) to:</p>
+                <blockquote> 
+                  <p class="base_text"> 1. Respond directly to the child's request 
+                    on a one-time basis and not use that information to re-contact 
+                    the child for other purposes.</p>
+                  <p class="base_text"> 2. Request the name or online contact 
+                    information of a parent for the purpose of obtaining verifiable 
+                    parental consent or providing parental notification.</p>
+                  <p class="base_text">3. Respond more than once directly to a 
+                    specific request from a child (such as in the case where a 
+                    child requests a newsletter subscription) and not used to 
+                    re-contact the child for other purposes. We will use our best 
+                    efforts to provide parental notification, which will include 
+                    the nature and intended use as well as an opportunity for 
+                    the parent to prevent the use of the information and participation 
+                    in the activity. </p>
+                  <p class="base_text">4. We will NOT entice the child to divulge 
+                    more information than is needed to participate in any activity, 
+                    game, or service.</p>
+                  <p class="base_text">5. We will provide the parent a description 
+                    of the specific types of a personally identifiable information 
+                    collected from their child upon request. We will allow the 
+                    parent to refuse further use or future online collection of 
+                    personally identifiable information and provide a way for 
+                    a parent to obtain any personally identifiable information 
+                    collected from their child.</p>
+                  <p class="base_text"> 6. We will provide notice to children 
+                    in age appropriate terms of what personally identifiable information 
+                    is to be collected.</p>
+                  <p class="base_text">7. We will NOT provide any links to Web 
+                    sites that are unsuitable for children.</p>
+                  <p class="base_text">8. We will encourage children to get their 
+                    parent's permission before sharing personal information online. 
+                  </p>
+                  </blockquote>
+                <p class="base_title"><strong>Choice/Opt-Out</strong></p>
+                <p class="base_text">Our site provides users the opportunity to 
+                  opt-out of receiving promotional/marketing information from 
+                  our partners, and us.</p>
+                <p class="base_text"> 1. You can send email to admin@ArticleFeeder.com</p>
+                <p class="base_title"><strong>Data Quality/Access</strong></p>
+                <p class="base_text">This site gives users the following options 
+                  for changing and modifying information previously provided:</p>
+                <p class="base_text"> 1. You can send email to admin@ArticleFeeder.com 
+                </p>
+                <p class="base_title"><strong>Contacting the Web Site</strong></p>
+                <p class="base_text">If you have any questions about this privacy 
+                  statement, the practices of this site, or your dealings with 
+                  this Web site, you can contact: admin@ArticleFeeder.com </p></td>
+            </tr>
+                 </tbody></table>
+				</td>
+				</tr>
+				</tbody></table>					  
+					  
+					  <p>&nbsp;</p></td>
+                    </tr>
+                  </tbody></table></td> 
+<td width="183" align="left" valign="top" bgcolor="FFFFFF"><table width="180" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr> 
+      <td align="left" valign="top">&nbsp;</td>
+    </tr>
+    <tr> 
+      <td align="left" valign="top"> 
+        <table width="180" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr> 
+            <td width="10">&nbsp;</td>
+            <td width="153" valign="top"><a href="http://www.portalfeeder.com/report/" target="_blank"><img src="img/bigbrother2.jpg" width="151" height="250" border="0"></a></td>
+            <td width="17">&nbsp;</td>
+          </tr>
+          <tr> 
+            <td>&nbsp;</td>
+            <td align="center" valign="top"> 
+              <script type="text/javascript"><!--
+google_ad_client = "pub-2937352478900305";
+google_ad_width = 160;
+google_ad_height = 600;
+google_ad_format = "160x600_as";
+google_ad_type = "text";
+google_ad_channel ="1422471954";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "000099";
+google_color_url = "000000";
+google_color_text = "000000";
+//--></script> <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> </td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr> 
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+        </tbody></table></td>
+    </tr>
+    <tr> 
+      <td height="49" align="left" valign="top">&nbsp;</td>
+    </tr>
+  </tbody></table></td>
+              </tr>
+
+	 
+            </tbody></table></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+        <td height="22" align="left" valign="top"> <div align="center" class="copyright"> 
+      <p><font color="#000000"><a class="menu" href="http://www.articlefeeder.com/terms_of_use.php">Terms 
+        of Use</a><a class="menu" href="http://www.articlefeeder.com/privacy.php">Privacy Policy</a><a class="menu" href="http://articlefeeder.com/sitemap_index.xml">SiteMap</a></font><br>
+        Copyright 2005, ArticleFeeder.com. All rights reserved<font color="#000000">.</font><br>
+        <font size="1">Disclaimer: The information, opinions &amp; reviews expressed 
+        herein are that of the authors not ArticleFeeder.com</font></p>
+            </div></td>
+      </tr>
+</tbody></table>
+
+
+
+</body></html>
