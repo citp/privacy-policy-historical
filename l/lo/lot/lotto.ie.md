@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lotto.ie privacy policy that was archived on 2005-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050608082909id_/http%3A//www.lotto.ie/common/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lotto.ie privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231220746id_/http%3A//www.lotto.ie/common/privacy.asp) for the most accurate reproduction.*
 
 # The National Lottery
 
