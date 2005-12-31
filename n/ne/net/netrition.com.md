@@ -1,34 +1,34 @@
-> *The following text is extracted and transformed from the netrition.com privacy policy that was archived on 2005-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050401233823id_/http%3A//www23.netrition.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netrition.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231172048id_/http%3A//www19.netrition.com/privacy_statement.html) for the most accurate reproduction.*
 
 # Privacy Statement for Netrition, Inc.
 
-[](http://www24.netrition.com/) |  | [](http://www24.netrition.com/) | [](http://www24.netrition.com/cgi/add_to_cart.cgi?cart_display=true) | [](http://www24.netrition.com/checkout.html) | [](http://www24.netrition.com/myaccount.html) | [](http://www24.netrition.com/policies.html) |   
+[](http://www19.netrition.com/) |  | [](http://www19.netrition.com/) | [](http://www19.netrition.com/cgi/add_to_cart.cgi?cart_display=true) | [](http://www19.netrition.com/checkout.html) | [](http://www19.netrition.com/myaccount.html) | [](http://www19.netrition.com/policies.html) |   
 ---|---|---|---|---|---|---|---  
-[Ordering Policies](http://www24.netrition.com/policies.html)   
-[Prices](http://www24.netrition.com/prices.html)   
-[Sale Items!](http://www24.netrition.com/specials.html)   
-[Contact Us](http://www24.netrition.com/contact.html)   
-[Redeem Coupon](http://www24.netrition.com/cgi/provide_cert.cgi?display_form=true)   
-|  [Dietary Oils](http://www24.netrition.com/oils_page.html)   
-[Drink Mixes](http://www24.netrition.com/lowfat_mrp_page.html)   
-[Nutrition Bars](http://www24.netrition.com/bars_page.html)   
-[Protein Powders](http://www24.netrition.com/protein_powders_page.html)   
-|  [Fat Loss/Energy](http://www24.netrition.com/fatloss.html)   
-[Low Carb Foods](http://www24.netrition.com/low_carb_products_page.html)   
-[Muscle Builders](http://www24.netrition.com/muscle_builders_page.html)   
-|  [Books](http://www24.netrition.com/books_page.html)   
-[Browse Products](http://www24.netrition.com/cgi/product_categories_display.cgi)   
-[Herbs](http://www24.netrition.com/herbs_page.html)   
-[Minerals](http://www24.netrition.com/minerals_page.html)   
-[Vitamins](http://www24.netrition.com/vitamins_page.html)   
-|  [Food Nutrients](http://www24.netrition.com/cgi/foods.cgi)   
-[Health News](http://www24.netrition.com/cgi/news.cgi)   
-[HealthNotes](http://www24.netrition.com/healthnotes.html)   
-[Ripped News](http://www24.netrition.com/cgi/magazine_display.cgi)   
+[Ordering Policies](http://www19.netrition.com/policies.html)   
+[Prices](http://www19.netrition.com/prices.html)   
+[Sale Items!](http://www19.netrition.com/specials.html)   
+[Contact Us](http://www19.netrition.com/contact.html)   
+[Redeem Coupon](http://www19.netrition.com/cgi/provide_cert.cgi?display_form=true)   
+|  [Drink Mixes](http://www19.netrition.com/lowfat_mrp_page.html)   
+[Nutrition Bars](http://www19.netrition.com/bars_page.html)   
+[Nutritional Oils](http://www19.netrition.com/oils_page.html)   
+[Protein Powders](http://www19.netrition.com/protein_powders_page.html)   
+|  [Fat Loss/Energy](http://www19.netrition.com/fatloss.html)   
+[Low Carb Foods](http://www19.netrition.com/low_carb_products_page.html)   
+[Muscle Builders](http://www19.netrition.com/muscle_builders_page.html)   
+|  [Books](http://www19.netrition.com/cgi/product_categories_display.cgi?categories=BOOK&show_products=true)   
+[Browse Products](http://www19.netrition.com/cgi/product_categories_display.cgi)   
+[Herbs](http://www19.netrition.com/herbs_page.html)   
+[Minerals](http://www19.netrition.com/minerals_page.html)   
+[Vitamins](http://www19.netrition.com/vitamins_page.html)   
+|  [Food Nutrients](http://www19.netrition.com/cgi/foods.cgi)   
+[Health News](http://www19.netrition.com/cgi/news.cgi)   
+[HealthNotes](http://www19.netrition.com/healthnotes.html)   
+[Ripped News](http://www19.netrition.com/cgi/magazine_display.cgi)   
 |   
 ---|---|---|---|---|---  
-[](http://www24.netrition.com/prices.html) |    
-|  |  [](http://www24.netrition.com/prices.html) |    
+[](http://www19.netrition.com/prices.html) |    
+|  |  [](http://www19.netrition.com/prices.html) |    
   
 ---|---|---|---|---  
   
