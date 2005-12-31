@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stonybrook.edu privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205202854id_/http%3A//www.stonybrook.edu/sb/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stonybrook.edu privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231042535id_/http%3A//www.stonybrook.edu/sb/privacy.shtml) for the most accurate reproduction.*
 
 # Stony Brook University Privacy Policy
 
@@ -83,7 +83,7 @@ _User_ shall have the meaning set forth in subdivision 8 of section 202 of the S
 * * *
 
 [SB Home](http://www.stonybrook.edu/sb/index.shtml) |[ Welcome Center](http://www.stonybrook.edu/sb/welcome.shtml) | [Admissions](http://www.stonybrook.edu/sb/admissions.shtml) | [Academics](http://www.stonybrook.edu/sb/academics.shtml) | [Research](http://www.stonybrook.edu/sb/research.shtml) [  
-Faculty and Staff](http://www.stonybrook.edu/sb/faculty.shtml) | [Athletics](http://www.goseawolves.org/) | [For Students](http://www.stonybrook.edu/sb/studentlife.shtml) | [ In the Greater Community](http://www.stonybrook.edu/sb/greater.shtml) [  
+Faculty and Staff](http://www.stonybrook.edu/sb/faculty.shtml) | [Athletics](http://www.goseawolves.org/) | [For Students](http://www.stonybrook.edu/sb/studentlife.shtml) | [ In the Greater Community](http://www.stonybrook.edu/sb/community/) [  
 Hospital and Health Care](http://www.stonybrook.edu/sb/hospital.shtml)
 
 [News](http://www.stonybrook.edu/news) |[ Calendar](http://commcgi.cc.stonybrook.edu/cgi-bin/webevent/webevent.cgi?cmd=opencal&cal=cal1) | [Directories](http://www.stonybrook.edu/sb/directory.shtml) | [Contact Us](http://www.stonybrook.edu/sb/contact.shtml) | [Prospective Students](http://www.stonybrook.edu/sb/prospective.shtml) | [Alumni](http://www.alumni.sunysb.edu/) |  [Businesses](http://www.stonybrook.edu/sb/business.shtml) | [Giving to Stony Brook](http://www.stonybrook.edu/sb/giving.shtml)
