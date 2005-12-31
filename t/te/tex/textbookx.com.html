@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the textbookx.com privacy policy that was archived on 2005-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050630000206id_/http%3A//www.textbookx.com/service/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the textbookx.com privacy policy that was archived on 2005-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051231210203id_/http%3A//www.textbookx.com/service/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 	<title>Textbookx.com - Customer Service Center</title>
 <style>
-body {
+ body {
 	font-family: Verdana, Tahoma;
 	background:#fff;
 	margin: 0;
@@ -234,8 +234,23 @@ body {
 	padding: 0 10px 0 13px;
 	background: url(/skins/img/default/arrow_blue.gif) no-repeat 0 4px; 
 	}
+	.txtad {
+	vertical-align: top;
+	padding: 0 80px 0 0;
+	font-family: Tahoma, Verdana;
+	color: #fff;
+	font-size: 65%;
+	font-weight: bold;
+	}
+	.copy2 {
+	font-size: 60%;
+	font-family: Tahoma, Verdana;
+	color: #444444;
+	margin: 5px 0 5px 10px;
+	}
 
-	.info_title {
+ 
+ 	.info_title {
 	font-family: Tahoma, Verdana;
 	font-size: 60%;
 	color: #000;
@@ -318,8 +333,8 @@ body {
 	background: url(/skins/img/default/pl.gif);
 	height: 1px;
 	}
-
-	.title {
+ 
+ 	.title {
 	font-family: Tahoma, Verdana;
 	font-size: 85%;
 	padding: 0px 0 0px 20px;
@@ -340,8 +355,8 @@ body {
 	font-size: 60%;
 	color: #000;
 	}
-	
-h1 {
+	 
+ h1 {
 	font-size: 130%;
 	text-transform: capitalize;
 	font-weight: normal;
@@ -413,33 +428,47 @@ function choose(frm) {
 	<div id="logoline">
 	<table width="100%" cellspacing="0" cellpadding="0" border="0">
 	<tbody><tr>
-		<td width="30%" height="74" style="padding: 0 0 0 10px;"><a href="http://www.textbookx.com/"><img src="/skins/img/default/logo1.gif" border="0"></a></td>
+		<td width="30%" height="74" style="padding: 0 0 0 10px;">
+		<a href="http://www.textbookx.com/">
+		<img src="/skins/img/default/logo1.gif" border="0">
+		</a></td>
 		<td width="70%" style="padding: 0 10px 0 0 ;" align="right" valign="center">
 		
-			<table cellspacing="0" cellpadding="0">
-			<tbody><tr><td valign="top" style="padding: 10 0px 0 0 ;">
-				<table cellspacing="0" cellpadding="2" border="0">
-				<tbody><tr><td nowrap="" colspan="2">
-					<form action="http://www.textbookx.com/search.php" method="get" name="sbox"><input type="hidden" name="SID" value="d9d94ed1fa828913bf811e8855bf19b7">
-					<small class="title_form">Search:</small>
-					<select name="product" style="border: 1px solid #ffffff; font-size: 70%;"><option value="book">Book</option></select>
-					&nbsp;<small class="title_form">By:</small>
-					<select name="search_by" style="border: 1px solid #ffffff; font-size: 70%;">
-					<option value="isbn">ISBN</option>
-					<option value="title">Title</option>
-					<option value="author">Author</option>
-					</select>
-				</form></td></tr>
-				<tr><td>
-					<input name="terms" style="width: 150px;" value="" class="form" type="text" onkeyup="choose(document.forms['sbox'])">
-				</td><td>
-					<input type="image" src="/skins/img/default/but_ok.gif?SID=d9d94ed1fa828913bf811e8855bf19b7" border="0">
-				</td></tr><input type="hidden" name="type" value="adv"><input type="hidden" name="show_all" value="TRUE">
-				</tbody></table>
+			<table cellspacing="0" cellpadding="0" height="100%">
+			<tbody><tr><td valign="middle">
+                                <table cellspacing="0" cellpadding="2" border="0">
+                                <tbody><tr><td nowrap="" colspan="2">
+                                        <form name="sbox" action="http://www.textbookx.com/fastsearch.php" method="get"><input type="hidden" name="SID" value="8faf9d6d7028f27d945a726170bf5fed">
+                                        <small class="title_form">Search:</small>
+                                        <select name="stype" style="border: 1px solid #ffffff; font-size: 70%;"><option value="any">All</option><option value="book">Book</option><option value="game">Games</option><option value="video">Movies</option>
+</select>
+                                        &nbsp;<small class="title_form">Sort By:</small>
+                                        <select name="sortBy" style="border: 1px solid #ffffff; font-size: 70%;">
+                                        <option value="deffresh">Relevancy</option>
+                                        <option value="title">Title</option>
+                                        <option value="authorsort">Author</option>
+                                        </select>
+                                </form></td></tr>
+                                <tr><td>
+                                        <input name="query" style="width: 200px;" value="" class="form" type="text"><!-- onKeyUp="choose(document.forms['sbox'])"-->
+                                </td><td>
+                                        <input type="image" src="/skins/img/default/but_ok.gif?SID=8faf9d6d7028f27d945a726170bf5fed" border="0">
+                                </td></tr>
+				<input type="hidden" name="sortDirection" value="ascending">
+                                <input type="hidden" name="type" value="any"><input type="hidden" name="style" value="new">
+                                </tbody></table>
+
 			</td><td width="30" style="background: url(/skins/img/default/sep.gif) repeat-y center;">
 				&nbsp;
+
+
+
+
+
+
+
 			</td><td style="padding: 10 0px 0 0 ;">
-				<form name="frmLogin" action="https://www.textbookx.com/account/login.php" method="POST"><input type="hidden" name="SID" value="d9d94ed1fa828913bf811e8855bf19b7">
+				<form name="frmLogin" action="https://www.textbookx.com/account/login.php" method="POST"><input type="hidden" name="SID" value="8faf9d6d7028f27d945a726170bf5fed">
 				<table border="0">
 				<tbody><tr>
 				<td align="right"><span class="title_form">Login:</span></td>
@@ -448,10 +477,10 @@ function choose(frm) {
 				</tr><tr>
 				<td align="right"><span class="title_form">Password:</span></td>
 				<td width="30"><input type="password" name="password" class="form" style="width:120px"></td>
-				<td align="left"><a href="javascript:document['forms'].frmLogin.submit()"><input type="image" src="/skins/img/default/but_ok.gif?SID=d9d94ed1fa828913bf811e8855bf19b7" border="0"></a></td>
+				<td align="left"><a href="javascript:document['forms'].frmLogin.submit()"><input type="image" src="/skins/img/default/but_ok.gif?SID=8faf9d6d7028f27d945a726170bf5fed" border="0"></a></td>
 				</tr>
 				<tr>
-					<td align="left" colspan="3" class="topinfo1"><input type="checkbox" name="saveCookie">Remember me</td>
+					<td align="left" colspan="3" class="topinfo1"><table cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="topinfo1"><input type="checkbox" name="saveCookie">Remember me</td><td align="right" class="topinfo1"><a href="/account/register.php?SID=8faf9d6d7028f27d945a726170bf5fed"><b>Create an account</b></a></td></tr></tbody></table></td>
 				</tr>
 				</tbody></table>
 				</form>
@@ -467,16 +496,22 @@ function choose(frm) {
 		<td height="47" align="center" valign="bottom">
 			<table height="47" cellspacing="0" cellpadding="0" border="0" valign="bottom">
 			<tbody><tr>
-				<td width="1" valign="bottom"><img src="/skins/img/default/mm_div.gif" width="1" height="39"></td>
+				<td height="47" valign="middle"><br><a href="/frwdcount.php?id=citi102005txt&amp;url=http://citi.bridgetrack.com/usc/_spredir.htm?BTData=C02117B726D61725E504C4AB7A3A4A7AD9A9D9388FFFEF8F3F4CAACC99A9%26BT_TRF=274439%26BT_CON=67%26app=COLLEGE%26sc=4C2CW035%26m=60DT00000QW%26langId=EN%26siteId=CB%26B=V" class="txtad">3 unique Citi cards. Infinite possibilities.</a></td><td width="1" valign="bottom"><img src="/skins/img/default/mm_div.gif" width="1" height="39"></td>
 				<td height="47" valign="bottom"><a href="http://www.textbookx.com/" class="mainmenu">HOME</a></td>
 				<td width="1" valign="bottom"><img src="/skins/img/default/mm_div.gif" width="1" height="39"></td>
-				<td height="47" valign="bottom"><a href="https://www.textbookx.com/account/new_purchases.php" class="mainmenu">MY ACCOUNT</a></td>
+				<td height="47" valign="bottom"><a href="https://www.textbookx.com/account/new_purchases.php" class="mainmenu">MY&nbsp;ACCOUNT</a></td>
 				<td width="1" valign="bottom"><img src="/skins/img/default/mm_div.gif" width="1" height="39"></td>
 				<td height="47" valign="bottom"><a href="http://www.textbookx.com/browse.php" class="mainmenu">BOOKS</a></td>
+				<td width="1" valign="bottom"><img src="/skins/img/default/mm_div.gif" width="1" height="39"></td>
+				<td height="47" valign="bottom"><a href="http://www.textbookx.com/fvideo.php" class="mainmenu">DVD</a></td>
+				<td width="1" valign="bottom"><img src="/skins/img/default/mm_div.gif" width="1" height="39"></td>
+				<td height="47" valign="bottom"><a href="http://www.textbookx.com/fgames.php" class="mainmenu">GAMES</a></td>
 				<td width="1" valign="bottom"><img src="/skins/img/default/mm_div.gif" width="1" height="39"></td>
 				<td height="47" valign="bottom"><a href="http://www.textbookx.com/browse.php?code=MAG000000" class="mainmenu">MAGAZINES</a></td>
 				<td width="1" valign="bottom"><img src="/skins/img/default/mm_div.gif" width="1" height="39"></td>
 				<td height="47" valign="bottom"><a href="http://www.textbookx.com/scholarship" class="mainmenu">SCHOLARSHIPS</a></td>
+				<td width="1" valign="bottom"><img src="/skins/img/default/mm_div.gif" width="1" height="39"></td>
+				<td height="47" valign="bottom"><a href="http://www.textbookx.com/journal.php" class="mainmenu"><img src="/skins/img/default/ico_i.png" align="left" style="margin: 8 5 0 0">JOURNAL</a></td>
 				<td width="1" valign="bottom"><img src="/skins/img/default/mm_div.gif" width="1" height="39"></td>
 				<td height="47" valign="bottom"><a href="javascript:goAskIt()" class="mainmenu">HELP!</a></td>
 				<td width="1" valign="bottom"><img src="/skins/img/default/mm_div.gif" width="1" height="39"></td>
@@ -492,11 +527,11 @@ function choose(frm) {
 			<table height="24" cellspacing="0" cellpadding="0">
 			<tbody><tr>
 						  <td><img src="/skins/img/default/sm_div.gif"></td>
-				<td height="24"><a href="/track_order.php?SID=d9d94ed1fa828913bf811e8855bf19b7" class="submenu">Track Order</a></td>
+				<td height="24"><a href="/track_order.php?SID=8faf9d6d7028f27d945a726170bf5fed" class="submenu">Track&nbsp;Order</a></td>
 						  <td><img src="/skins/img/default/sm_div.gif"></td>
-				<td height="24"><a href="/service/shipping.php?SID=d9d94ed1fa828913bf811e8855bf19b7" class="submenu">Shipping</a></td>
+				<td height="24"><a href="/service/shipping.php?SID=8faf9d6d7028f27d945a726170bf5fed" class="submenu">Shipping</a></td>
 						  <td><img src="/skins/img/default/sm_div.gif"></td>
-				<td height="24"><a href="/service/bulk_order.php?SID=d9d94ed1fa828913bf811e8855bf19b7" class="submenu">Bulk Order</a></td>
+				<td height="24"><a href="/service/bulk_order.php?SID=8faf9d6d7028f27d945a726170bf5fed" class="submenu">Bulk&nbsp;Order</a></td>
 							<td><img src="/skins/img/default/sm_div.gif"></td>			</tr>
 			</tbody></table>
 		</td>
@@ -510,6 +545,7 @@ function choose(frm) {
 
 <div id="main">
 <table width="100%"><tbody><tr><td>
+
 <!-- HEADER END -->
 
 
@@ -529,7 +565,7 @@ function choose(frm) {
 
 <p class="text">
 
-<a href="http://www.truste.org/ivalidate.php?url=www.textbookx.com"><img src="clickseal.gif" align="right" hspace="10" height="73" width="91" border="0" alt="TRUSTe: Click to Verify"></a> 
+<a href="http://www.truste.org/ivalidate.php?url=www.textbookx.com&amp;sealid=101"><img src="clickseal.gif" align="right" hspace="10" height="73" width="91" border="0" alt="TRUSTe: Click to Verify"></a> 
 </p><p class="text">
 Akademos.com, Inc is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for TextbookX.com.  This privacy statement has an effective date of September 15, 2003. 
 </p><p>
@@ -537,7 +573,7 @@ TRUSTe is an independent, non-profit organization whose mission is to build user
 
 </p><p class="text">
 
-<b>If you feel that this company is not abiding by its posted privacy policy, you should first email your comments to <a href="../emailus.php?SID=d9d94ed1fa828913bf811e8855bf19b7">us</a>. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <a href="http://www.truste.org/consumers/watchdog_complaint.php">http://www.truste.org/consumers/watchdog_complaint.php</a> TRUSTe will then serve as a liaison with the Web site to resolve your concerns. </b>
+<b>If you feel that this company is not abiding by its posted privacy policy, you should first email your comments to <a href="../emailus.php?SID=8faf9d6d7028f27d945a726170bf5fed">us</a>. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <a href="http://www.truste.org/consumers/watchdog_complaint.php">http://www.truste.org/consumers/watchdog_complaint.php</a> TRUSTe will then serve as a liaison with the Web site to resolve your concerns. </b>
 
 </p><p class="text">
 Here are some steps we have taken to ensure your privacy: 
@@ -557,6 +593,10 @@ The information you provide us including your name, email address, mailing addre
 </p><h2>Order </h2>
 <p class="text">
 We request information from the user on our order form. Here a user must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill customer's orders. If we have trouble processing an order, this contact information is used to get in touch with the user. 
+
+</p><h2>Refer-A-Friend</h2>
+<p class="text">
+The TextbookX.com Refer-A-Friend program allows you to enter a friend's email address in order to send them a one-time email regarding a product that you specify.  The email address of your friend is stored in our database for the purpose of sending this one-time email only.  The email address is not used for any other purposes, nor will the friend be added to our list of registered email subscribers.  If you or your friend have been sent an email through this program and wish to have your information removed from our database, click <a href="/service/contact.php?SID=8faf9d6d7028f27d945a726170bf5fed" target="_blank">contact us</a> to make your request. 
 
 </p><h2>Cookies</h2> 
 <p class="text">
@@ -596,7 +636,7 @@ When you place an order with us, you are using our secure e-commerce server and 
 </p><p class="text">
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user information offline. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to your information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment. 
 </p><p class="text">
-If you have any questions about the security at our website, you can send an <a href="../emailus.php?SID=d9d94ed1fa828913bf811e8855bf19b7">e-mail.</a> 
+If you have any questions about the security at our website, you can send an <a href="../emailus.php?SID=8faf9d6d7028f27d945a726170bf5fed">e-mail.</a> 
 
 </p><h2>Administrative Type Emails</h2>
 <p class="text">
@@ -605,7 +645,7 @@ We also send the user administrative type email communications. Members are not 
 </p><h2>Correction/Updating Personal Information: </h2>
 <p class="text">
 
-If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can be done by clicking the "Your Account" link on any page on the website and making the desired changes, or by visiting 
+If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can be done by clicking the "Your Account" link on any page on the website and making the desired changes, or by visiting our 
 
 <script language="Javascript">
 var askitWindow;
@@ -615,7 +655,7 @@ function goAskIt() {
 }
 </script>
 
-<a href="javascript:goAskIt()" title="Questions? Problems? Get them answered here.">Customer Service Center </a>
+<a href="javascript:goAskIt()" title="Questions? Problems? Get them answered here.">Customer Service Center</a>.
 
 </p><h2>Choice/Opt-out </h2>
 <p class="text">
@@ -628,7 +668,7 @@ We are a LinkShare Merchant and, through this network, we have many affiliates. 
 
 </p><h2> Third Party Tracking</h2>
 <p>
-We have contracted with Overture services, Inc. Overture and DealTime, Inc. to monitor certain pages of our Web site for the purpose of reporting web traffic, statistics, advertisement 'click-throughs', and/or other activities on our site. Where authorized by us, Overture and DealTime may use cookies, Web beacons, and/or other monitoring technologies to compile anonymous statistics on our Web site visitors. No personally identifiable data is collected by or transferred to Overture and Dealtime. For more information about how the information collected by Overture and DealTime is used, please see their privacy policies at 
+We have contracted with Overture services, Inc. Overture and DealTime, Inc. to monitor certain pages of our Web site for the purpose of reporting web traffic, statistics, advertisement 'click-throughs', and/or other activities on our site. Where authorized by us, Overture and DealTime may use cookies, Web beacons, and/or other monitoring technologies to compile anonymous statistics on our Web site visitors. No personally identifiable data is collected by or transferred to Overture and Dealtime. For more information about how the information collected by Overture and DealTime is used, please see their privacy policies at: 
 <a href="http://www.overture.com/d/USm/about/company/ccprivacypolicy.jhtml">http://www.overture.com/d/USm/about/company/ccprivacypolicy.jhtml</a> and 
 <a href="http://www.dealtime.com/dealtime2000/Pages/About/1,2751,3593--1,00.html">http://www.dealtime.com/dealtime2000/Pages/About/1,2751,3593--1,00.html </a> 
 
@@ -665,8 +705,13 @@ Akademos, Inc.<br>25 Van Zant Street<br>Norwalk, CT 06855<br>Fax: 203 866 0199
 	<td height="50" width="100%" align="center" valign="center">
 		<table width="95%">
 		<tbody><tr>
-			<td width="50%" align="left" valign="center">&nbsp;</td>
-			<td width="50%" align="right" valign="center">&nbsp;</td>
+			<td align="middle" valign="middle">
+				<font class="copy2">
+Portions of this page Copyright 1995-2005 Muze Inc. For personal
+non-commercial use only. All rights reserved.
+</font>
+
+			</td>
 		</tr>
 		</tbody></table>
 	</td>
@@ -676,7 +721,7 @@ Akademos, Inc.<br>25 Van Zant Street<br>Norwalk, CT 06855<br>Fax: 203 866 0199
 		<table width="100%" height="46">
 		<tbody><tr>
 			<td><img src="/skins/img/default/logo2.gif"></td>
-			<td width="100%" align="center" style="font-size: 60%; color: #6C8FB2; padding-right: 80px;" nowrap="">
+			<td width="100%" align="center" style="font-size: 60%; color: #6C8FB2; padding-right: 80px;" nowrap=""><b><a class="menu_futer" href="/frwdcount.php?id=citi102005txt&amp;url=http://citi.bridgetrack.com/usc/_spredir.htm?BTData=C02117B726D61725E504C4AB7A3A4A7AD9A9D9388FFFEF8F3F4CAACC99A9%26BT_TRF=274439%26BT_CON=67%26app=COLLEGE%26sc=4C2CW035%26m=60DT00000QW%26langId=EN%26siteId=CB%26B=V">3 unique Citi cards. Infinite possibilities.</a>&nbsp;&nbsp;&nbsp;</b>
 				<a href="http://www.textbookx.com/" class="menu_futer">HOME</a>|
 				<a href="http://www.textbookx.com/service/about.php" class="menu_futer">ABOUT</a>|
 				<a href="http://www.textbookx.com/account/register.php" class="menu_futer">REGISTER</a>|
@@ -693,7 +738,7 @@ Akademos, Inc.<br>25 Van Zant Street<br>Norwalk, CT 06855<br>Fax: 203 866 0199
 <tr>
 	<td height="35" align="center" background="/skins/img/default/bg_head.gif" style="font-size: 60%; color: #326394;">
 		<a href="http://www.textbookx.com/service/advertising.php" class="menu2_futer">Advertisting</a>|
-		<a href="http://www.textbookx.com/service/media.php" class="menu2_futer">Media</a>|
+		<a href="http://www.akademos.com/publicity.php" class="menu2_futer">Publicity</a>|
 		<a href="http://www.textbookx.com/service/affiliate.php" class="menu2_futer">Affilates</a>|
 		<a href="http://www.textbookx.com/track_order.php" class="menu2_futer">Track Order</a>|
 		<a href="http://www.textbookx.com/service/shipping.php" class="menu2_futer">Shipping</a>|
@@ -709,7 +754,41 @@ Akademos, Inc.<br>25 Van Zant Street<br>Norwalk, CT 06855<br>Fax: 203 866 0199
 		<tbody><tr><td>
 		Copyright © 2005 <a href="http://www.akademos.com">Akademos, Inc</a>. All rights reserved.<br>
 		<a href="http://www.textbookx.com/service/legal.php">Terms and Conditions</a> of Use, <a href="http://www.textbookx.com/service/security.php">Security</a> and <a href="http://www.textbookx.com/service/privacy.php">Privacy Policy
-		</a></td><td align="right">
+		</a></td>
+		<td><!-- JavaScript functions -->
+
+<script language="JavaScript">
+function Rcertify() 
+{
+popupWin = window.open('http://www.bbbonline.org/cks.asp?id=102072210291524985', 'Participant','location=yes,scrollbars=yes,width=450,height=300'); 
+window.name = 'opener';
+}
+</script>
+
+<!--/ JavaScript functions -->
+
+<table width="90%">
+	<tbody><tr>
+		<!-- CC TYPES
+		<td><img src="/img/cards_NoAirBon.gif" width=171 height=25 title="We accept VISA, AMEX, Discover, MasterCard. We ship via Airborne@Home and USPS Priority Mail" alt="We accept VISA, AMEX, Discover, MasterCard. We ship via Airborne@Home and USPS Priority Mail"></td>
+		/ CC TYPES -->
+
+		<!-- SCANALERT CODE -->
+		<td><a target="_blank" href="//www.scanalert.com/RatingVerify?ref=www.textbookx.com&amp;SID=8faf9d6d7028f27d945a726170bf5fed"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/www.textbookx.com/12.gif" alt="HACKER SAFE certified sites prevent over 99% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE  is a Trademark of ScanAlert'); return false;"></a></td>
+		<!--/ SCANALERT CODE -->
+
+		<!-- TRUSTE CODE -->
+		<td><a href="/service/privacy.php?SID=8faf9d6d7028f27d945a726170bf5fed"><img src="/service/finalmark.gif" width="116" height="31" alt="" border="0"></a></td>
+		<!--/ TRUSTE CODE -->
+
+		<!-- BBB CODE -->
+		<td><a href="?SID=8faf9d6d7028f27d945a726170bf5fed" onclick="Rcertify();return false;"><img src="/img/ReliabilitySeal4.gif" alt="BBBOnLine Reliability Seal" width="90" height="31" border="0"></a></td>
+		<!--/ BBB CODE -->
+		<td><img src="../service/quickssl_static.gif" border="0"></td>
+	</tr>
+</tbody></table>
+</td>
+		<td align="right">
 		<a href="http://www.akademos.com"><img src="/skins/img/default/footer_akademos.gif" border="0"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 		</td></tr>
 		</tbody></table>
