@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the memorysuppliers.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307111713id_/http%3A//www.memorysuppliers.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memorysuppliers.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231161950id_/http%3A//memorysuppliers.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -55,24 +55,31 @@ Way to a Memory Upgrade.
   
 ---|---  
   
+  
+|   
+|   
+|   
+|   
+  
+---|---|---|---|---  
+ 
+
+  * **All orders** placed before 5:00 PM Central Time (3:00 PM Pacific, 6 PM Eastern) are guaranteed to **ship out the same business day** or your shipping is free.
+  * Memory Suppliers provides **free lifetime warranty** on all merchandise in addition to the manufacturer's warranty and a **full 30 days money back guarantee** (we will also pay the shipping charge back to Memory Suppliers and there is absolutely no restocking fees).
+  * **All items are in stock and ready to ship**. Local Chicagoland pickup is available between 9:00AM and 6:00PM Monday through Friday.
+  * Your absolute satisfaction is our number one priority and our service representatives are always ready to answer your questions. We truly pride our service on our customer first attitude. **No sale is final, until you say it is.**
+  * If have any questions or would like to place your order over the phone, **call us toll free at 866-621-2223** between 9:00 AM to 5:00 PM Central Time Monday through Friday. Alternatively, feel free to email us at [support@memorysuppliers.com](mailto:support@memorysuppliers.com) for a reply within 2 hours or less during regular business hours. 
 
 
-* USPS PRIORITY WITH DELIVERY CONFIRMATION/TRACKING SHIPPING COST IS ONLY $4.95 FOR ANY SIZE ORDER OR $10.50 FOR UPS 2ND DAY AIR (UPS GROUND = $5.95). YOUR PURCHASE WILL BE SHIPPED IN A SECURE PACKAGE AND FULLY INSURED. 
 
-* ALL ORDERS PLACED BEFORE 3 PM PACIFIC/6 PM EASTERN TIME ARE 
+  
 
-GUARANTEED TO SHIP OUT THE SAME BUSINESS DAY OR THE SHIPPING IS 100% FREE. 
 
-* ALL PARTS INCLUDE A 
+[](http://www.scanalert.com/RatingVerify?ref=www.memorysuppliers.com)
 
-LIFETIME WARRANTY and a 30 DAY MONEY BACK GUARANTEE (we will also pay the shipping charge back to Memory Suppliers and there is absolutely no restocking fee). 
+  
 
-* ALL MERCHANDISE IS 
+ 
 
-IN STOCK AND READY TO SHIP AS WE HAVE LARGE INVENTORIES OF EACH ITEM WE STOCK. IF YOU ARE IN THE CHICAGOLAND AREA, ALL THE MEMORY LISTED ON OUR WEBSITE IS AVAILABLE FOR PICKUP BETWEEN 9:00AM - 6:00PM MONDAY - FRIDAY. 
-
-* YOUR USPS OR UPS PACKING TRACKING NUMBER WILL BE AUTOMATICALLY EMAILED TO YOU SO YOU CAN TRACK YOUR MEMORY TO YOUR DOOR. 
-
-* YOUR ABSOLUTE SATISFACTION IS OUR NUMBER ONE PRIORITY AND WE ARE HERE TO HELP WITH ANY QUESTIONS OR PROBLEMS THAT MIGHT ARISE. 
-
-* REMEMBER UPGRADING YOUR MEMORY IS THE BEST AND LEAST EXPENSIVE WAY TO INSTANTLY BOOST YOUR COMPUTER'S SPEED. IF YOUR UPGRADE DOES NOT SATISFY YOUR EXPECTATIONS YOU CAN RETURN IT FOR A FULL REFUND AND WE'LL PAY TO SHIP THE PRODUCT BACK TO US. 
+1999-2005 All rights reserved.  
+All brand names are registered trademarks of their respective owners.
