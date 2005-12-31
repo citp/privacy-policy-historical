@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royalmailgroup.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204181943id_/http%3A//www.royalmailgroup.com/contactus/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalmailgroup.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231164747id_/http%3A//www.royalmailgroup.com/contactus/privacy_policy.asp) for the most accurate reproduction.*
 
 # Royal Mail Group - Privacy Policy
 
