@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commercialrealestate.com.au privacy policy that was archived on 2005-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050616192727id_/http%3A//www.commercialrealestate.com.au/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commercialrealestate.com.au privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231175827id_/http%3A//www.commercialrealestate.com.au/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement - Real Estate Australia
 
