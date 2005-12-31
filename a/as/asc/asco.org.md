@@ -1,13 +1,9 @@
-> *The following text is extracted and transformed from the asco.org privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210040536id_/http%3A//www.asco.org/ac/1%2C1003%2C_12-002451%2C00.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asco.org privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231163921id_/http%3A//www.asco.org/ac/1%2C1003%2C_12-002451%2C00.asp) for the most accurate reproduction.*
 
 # ASCO - Privacy Policy
 
-|  |   
----|---  
-|  |   
----|---  
-  
-**American Society of Clinical Oncology** (last updated September 23, 2004) ****
+**American Society of Clinical Oncology  
+** (last updated March 24, 2005)
 
  **Website Privacy Policy**
 
@@ -56,7 +52,7 @@ We hope that reading this Privacy Policy gives you a clear idea of how we manage
 
  **2\. Certain General Principles, Terms, and Disclaimers**
 
- **This Privacy Policy applies to the ASCO website (**[ **www.asco.org**](http://www.asco.org/) **), together with all other websites operated by ASCO, including without limitation the People Living With Cancer website (**[ **www.plwc.org**](http://www.plwc.org/) **), The**[ ****](http://www.jco.org/) **[Journal of Clinical Oncology](http://www.jco.org/)** **website (**[ **www.jco.org**](http://www.jco.org/) **), the Oncology Career Center website (**[ **www.careers.jco.org**](http://www.careers.jco.org/) **) and the Oncology Product Locator website (**[ **http://opl.asco.org**](http://opl.asco.org/) **) (collectively, the “Website”).  
+ **This Privacy Policy applies to the ASCO website (**[ **www.asco.org**](http://www.asco.org/) **), together with all other websites operated by ASCO, including without limitation the People Living With Cancer website (**[ **www.plwc.org**](http://www.plwc.org/) **), The**[ ****](http://www.jco.org/) **[Journal of Clinical Oncology](http://www.jco.org/)** **website (**[ **www.jco.org**](http://www.jco.org/) **), The[](http://www.jopasco.org/)[Journal of Oncology Practice](http://www.jopasco.org/) website ([www.jopasco.org](http://www.jopasco.org/)), the Oncology Career Center website (**[ **www.careers.jco.org**](http://www.careers.jco.org/) **), and the Oncology Product Locator website (**[ **http://opl.asco.org**](http://opl.asco.org/) **) (collectively, the “Website”).  
 **  
  ** _This Privacy Policy does not supersede the Terms of Use that governs your use of the Website. Any conflict between the two shall be determined in favor of the Terms of Use. ASCO may change this Privacy Policy at any time and any changes will be effective immediately upon posting to this Site, so please check back regularly to ensure you read and understand our current privacy policies._**
 
@@ -84,7 +80,7 @@ If you use the Website without registering, we will only collect anonymous “No
 
 The following list provides examples of how we may use your Non-Personal Information (NPI) and Personally Identifiable Information (PII).
 
-  1. To display content we think may be of interest you and otherwise help us customize what you see when you visit the Website.
+  1. To display content we think may be of interest to you and otherwise help us customize what you see when you visit the Website.
   2. To solicit user feedback to assess user-satisfaction or other needs and interests.
   3. To help us in creating new tools, features, and services.
   4. To provide you with notice of new features or other changes relating to the Website.
@@ -95,7 +91,7 @@ The following list provides examples of how we may use your Non-Personal Informa
   9. To monitor compliance with the Terms and Conditions, this Privacy Policy, and any other rules, agreements, or policies governing your use of the Website.
 
   
-**How we collect NPI.** We collect Non-Personal Information about your use of the Website through our use of Cookies and through other technical means (e.g. Click Stream Information such as log files, Web Beacons, etc.). We encourage you to research online resources and learn about not only Cookies but also the other technical means through which information about you may be collected through Web sites you visit. Your browser software can be set to reject all Cookies. A “help” section of most browsers’ toolbar usually offers instructions on how to reset the browser to reject Cookies. If you reject our Cookies, certain of the functions and conveniences of the Website may not work properly but we believe you do not have to accept our Cookies in order to productively use the Website.
+ **How we collect NPI.** We collect Non-Personal Information about your use of the Website through our use of Cookies and through other technical means (e.g. Click Stream Information such as log files, Web Beacons, etc.). We encourage you to research online resources and learn about not only Cookies but also the other technical means through which information about you may be collected through Web sites you visit. Your browser software can be set to reject all Cookies. A “help” section of most browsers’ toolbar usually offers instructions on how to reset the browser to reject Cookies. If you reject our Cookies, certain functions and conveniences of the Website may not work properly, but we believe you do not have to accept our Cookies in order to productively use the Website.
 
  **Anonymous nature of NPI; linking of NPI and PII.** Generally, the NPI we collect about you is attached to arbitrary, anonymous system names that are assigned to visitors when then enter the Website. Please note, however, that during the registration process, or at other times during your use of the Website, we may ask for your permission to link your NPI with your PII. 
 
@@ -111,7 +107,7 @@ The following list provides examples of how we may use your Non-Personal Informa
   8. To restrict underage use of our services.
 
   
-**Disclosure of Aggregate Information.** ASCO may provide Aggregate Information to third parties. For example, we might inform third parties regarding the number of users of the Website and the activities they conduct while on the Website. We might for example inform a pharmaceutical company (that may or may not be sponsor of the Website) that “30% of our users live east of the Mississippi” or that “25% of our users have tried alternative medicine.” We require parties with whom we share Aggregate Information to agree that they will not attempt to make this information Personally Identifiable Information, such as by combining it with other databases.
+ **Disclosure of Aggregate Information.** ASCO may provide Aggregate Information to third parties. For example, we might inform third parties regarding the number of users of the Website and the activities they conduct while on the Website. We might for example inform a pharmaceutical company (that may or may not be sponsor of the Website) that “30% of our users live east of the Mississippi” or that “25% of our users have tried alternative medicine.” We require parties with whom we share Aggregate Information to agree that they will not attempt to make this information Personally Identifiable Information, such as by combining it with other databases.
 
  **How we collect PII.** The PII that we collect and store generally consists of information gathered when you register with the Website for specific services and/or when you update any registration or profile information, but may also include other data input, forms, and information you provide to us whether electronically, by phone, by telecopier, in writing, in person, or by any other means. Your PII may also include information about your transactions and experiences with ASCO, including account balances and purchasing activity. **** If you provide us with PII through the Website, we will give you the opportunity to “Opt-Out” of receiving future communications from us related to the specific service for which we requested that information. Section 7 of this Privacy Policy more specifically describes how to Opt-Out from and Opt-In to communications from us.
 
@@ -147,7 +143,8 @@ Listed below are some of the security procedures that ASCO uses to protect your 
   4. Requires all ASCO employees to abide by our Privacy Policy and be subject to disciplinary action if they violate it.
   5. Backs-up our systems to protect the integrity of your PII.
 
-  
+
+
 **9.   How the Interactive Areas of the Website Operate**
 
 As a service to our users, the Website may feature message boards, chat rooms, and/or other public forums where users with similar interests or medical conditions can share information and support one another or where users can post questions for experts to answer. We may also offer online discussions moderated by medical or healthcare experts. 
@@ -183,7 +180,8 @@ This sort of statistical information is called aggregate data because it reflect
 **Click Stream Information.** A record of all the pages you have visited during your visit to a particular website or the services you accessed from the site or from an email. Click Stream Information is associated with your browser and not with you personally. It records the archives of your browser. 
 
 **Cookie.** A small data file that is stored on the hard drive of the computer you use to view a website. Cookies are placed by that site or by a third party with a presence on the site, such as an advertiser using a Web Beacon and are accessible only by the party or site that placed the Cookie on the computer (i.e. a Cookie placed on your computer by ASCO is not accessed by any other site you visit but a Cookie placed on your computer by an advertiser may be accessed by any site on which that same advertiser has a presence). Cookies can contain pieces of Personally Identifiable Information. ASCO encrypts any PII it stores in its Cookies. These Cookies often are used to make the site easier to use. For example, if you check a box to ask that we store your user name on your computer so that you don’t have to enter it each time you visit the site, it’s stored in a Cookie on your computer.   
-**Encryption.** The translation of data into a secret code. Encryption is the most effective way to achieve data security. To read an encrypted file, you must have access to a secret key or password that enables you to decrypt it. This is typically done by so called “secure computer systems”. 
+**  
+Encryption.** The translation of data into a secret code. Encryption is the most effective way to achieve data security. To read an encrypted file, you must have access to a secret key or password that enables you to decrypt it. This is typically done by so called “secure computer systems”. 
 
 **Firewall.** A system designed to prevent unauthorized access to or from a public or private network. Firewalls can be implemented in both hardware and software, or a combination of both. Firewalls are frequently used to prevent unauthorized users from accessing private portions of public networks. All messages entering or leaving the network pass through the firewall, which examines each message and blocks those that do not meet specified security criteria. 
 
@@ -209,4 +207,4 @@ If other pieces of information are linked to PII, they also become PII. For exam
 
  **Web Beacons (also often referenced as “clear GIFs”, “web bugs”, “1-by-1 GIFs”, “Single-Pixal GIFs”, “1 x 1 Pixals”, or “clear Pixals”).** Tiny graphic image files, imbedded in a web page in GIF, jpeg, or HTML format, that provide a presence on the web page and send back to its home server (which can belong to the host site, a network advertiser, or some other third party) information from the users’ browser, such as the IP address, the URL of the page on which the beacon is located, the type browser that is accessing the site, and the ID number of any Cookies on the users’ computer previously placed by that server. Web Beacons can also be used to place a Cookie on the users’ browser. 
 
-[www.asco.org](http://www.asco.org/)© Copyright 2004 American Society of Clinical Oncology. All rights reserved worldwide.
+[www.asco.org](http://www.asco.org/)© Copyright 2005 American Society of Clinical Oncology. All rights reserved worldwide.
