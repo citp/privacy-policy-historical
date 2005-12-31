@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the versiontracker.com privacy policy that was archived on 2005-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050519074817id_/http%3A//www.techtracker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the versiontracker.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231122409id_/http%3A//www.techtracker.com/privacy) for the most accurate reproduction.*
 
-# TechTracker - desktop management solutions and software download tools for Windows, Macintosh, and Palm OS.
+# TechTracker – Technology Advertising Network.
 
 **This statement discloses the privacy practices for the TechTracker family of web sites (www.techtracker.com, www.versiontracker.com, and www.macfixit.com) hereafter referenced as TechTracker, or "us" or "we."**
 
