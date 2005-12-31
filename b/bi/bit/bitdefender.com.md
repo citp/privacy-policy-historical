@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the bitdefender.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204195309id_/http%3A//bitdefender.com/bd/site/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitdefender.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231214828id_/http%3A//www.bitdefender.com/site/Main/view/privacy_policy.html) for the most accurate reproduction.*
 
-# BitDefender AntiVirus - Data Security, AntiVirus Software, Free Protection
+# Privacy Policy
 
 ---  
- \[Home](https://web.archive.org/web/20031204195309id_/http%3A//bitdefender.com/bd/site/page.php)\   
 Privacy Policy  
   
 SOFTWIN is very cautious about how your information is collected when you surf our websites and enter information about yourself and how this information is used and shared with others. We appreciate your trust and it is very important to us. This notice describes our privacy policy. BY VISITING ANY OF OUR WEBSITES, YOU AGREE WITH THE PRACTICES DESCRIBED IN THIS PRIVACY STATEMENT. The information that you give us helps us personalize and continually improve your experience with us. 
