@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cashfiesta.com privacy policy that was archived on 2005-04-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050403164406id_/http%3A//www.cashfiesta.com%3Fprivacy_infocenter) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cashfiesta.com privacy policy that was archived on 2005-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051231065317id_/http%3A//cashfiesta.com%3Fprivacy_infocenter) for the most accurate reproduction.-->
 
 <html><head>
 <title>Make money online: Cashfiesta Policies</title>
@@ -27,23 +27,22 @@ if(document.images)
 </script>
 <script language="JavaScript"> 
 	var cf_img_popu_array=new Array();
-	var cf_img_popu_index=0;
+	var cf_img_popu_index = -1;
 	function cf_popuCounter(stat,page){
+	cf_img_popu_index++;
 	var tz = "";
 	if(arguments.length > 2) tz = arguments[2];	
 	cf_img_popu_array[cf_img_popu_index]=new Image();
-	cf_img_popu_array[cf_img_popu_index].src="/php/sgif.php?s="+stat+"&p="+page+"&tz="+tz+"&1112547273";
-	cf_img_popu_index++;
+	cf_img_popu_array[cf_img_popu_index].src="/php/sgif.php?s="+stat+"&p="+page+"&tz="+tz+"&1136012119";
 	}
-	function cf_iframeUrlParams(p,l){
-	var cnt2_tm = new Date();
-	var cnt2_time = cnt2_tm.getFullYear()+"_"+(cnt2_tm.getMonth()+1) +"_"+cnt2_tm.getDate()+"_"+cnt2_tm.getHours() +"_"+ cnt2_tm.getMinutes() +"_"+ cnt2_tm.getSeconds();
-	var cnt2_params = "p="+p+"&l="+l+"&tm="+cnt2_time;
-	return cnt2_params;
+	function cf_crCounter(cr_id, page_stat_id, tz, a){
+	cf_img_popu_index++;
+	cf_img_popu_array[cf_img_popu_index]=new Image();
+	cf_img_popu_array[cf_img_popu_index].src="/php/sgif.php?s=cr&cr="+cr_id+"&p="+page_stat_id+"&tz="+tz+"&a="+a+"&t=1136012119";
 	}
 	function istatForm1(n,g){
-	var a2='<iframe name="'+n+'" scrolling="no" frameBorder=0 marginheight=0 marginwidth=0 width=720 height=560 security="restricted"\></iframe\></div\>';
-	var a1='<div style="position:absolute; left:40; top:-600; z-index:-4; visibility:hidden;"\>';
+	var a2='<iframe name="'+n+'" scrolling="no" frameBorder=0 marginheight=0 marginwidth=0 width=1 height=1 security="restricted"\></iframe\></div\>';
+	var a1='<div style="position:absolute; left:40; top:-600; z-index:-4;"\>';
 	var a3='<form style="position:absolute;" action="#" method="get" name="frm_'+n+'" target="'+n+'"\>'+g+'</form\>';
 	document.write(a1+a2+a3);
 	}
@@ -65,10 +64,18 @@ if(document.images)
 	function istatRequest2(n,a,t){
 		if( ! document.all) return 0; f=eval("document.frm_"+n); f.action=a; f.target=t; f.submit();
 	}
+	function istatRequest2p(n,a,t){
+		if( ! document.all) return 0; f=eval("document.frm_"+n); f.action=a; f.target=t; f.method="post"; f.submit();
+	}
 	function cf_setCookie(Name,value,days){
 	var ExpDay = new Date();
 	ExpDay.setTime(ExpDay.getTime()+(days*24*3600*1000));
-	document.cookie = Name+"="+escape(value)+";expires=" + ExpDay.toGMTString()+";path=/;";
+	document.cookie = Name+"="+escape(value)+";expires=" + ExpDay.toGMTString()+";path=/;domain=.cashfiesta.com;";
+	}
+	function istatFrame2(n){
+	var a2='<iframe name="'+n+'" width=1 height=1\></iframe\></div\>';
+	var a1='<div style="position:absolute; left:40; top:-600; z-index:-4;"\>';
+	document.write(a1+a2);
 	}
 	 </script></head>
 <body bgcolor="#6666FF" link="#FFCC00" vlink="#000099" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" text="#FFFFFF">
@@ -84,7 +91,20 @@ if(document.images)
  <td><img src="http://images.cashfiesta.com/images/s.gif" width="510" height="1"></td>
  </tr>
  <tr align="center">
- <td><script language="JavaScript" src="/php/rotate_js.php?target=cf_site&amp;login=&amp;tags=1&amp;width=468&amp;height=60"></script><a name="p69435href" href="javascript:p69435_go()"><img name="p69435img" src="https://web.archive.org/web/20020610191126/http://www.cashfiesta.com/images/s.gif" width="468" height="60" border="0"></a></td>
+ <td><script language="JavaScript">
+		var cf_restricted=1;
+		var cf_restricted_done=0;
+		function cf_restrDone(){
+			cf_restricted_done=1; if(cf_restricted==0) cf_setCookie("cf-not-restricted",1,10);
+		}
+		</script>
+		<div style="position:absolute; left:40; top:-600; z-index:-4; visibility:hidden;">
+		<iframe name="cf_fr_restricted" src="/js/restricted.php" onload="cf_restrDone()" security="restricted" width="1" height="1" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+		</div>
+		<script language="JavaScript">
+var cf_stat_preffix = "http://www.cashfiesta.com/php/redir.php?cr&CFST_000&1&PST&u?";
+cf_crCounter("CFST_000",1,"PST","i");
+</script><script language="JavaScript" src="/php/rotate_js.php?target=cf_site&amp;login=&amp;tags=1&amp;width=468&amp;height=60"></script><a name="p69435href" href="javascript:p69435_go()"><img name="p69435img" src="https://web.archive.org/web/20020610191126/http://www.clickxchange.com/fd.phtml?act=342012.3633" width="468" height="60" border="0"></a><script language="JavaScript">cf_popuCounter("g714_i","United States","PST");</script></td>
  </tr>
  </tbody></table>
 </td>
@@ -366,7 +386,7 @@ Cashfiesta.com will not collect any personal information about individuals excep
 <br><br><br><br>
 <b><font size="3">Information we may request</font></b>
 <br><br>
-When you register as a member with Cashfiesta.com, you must submit your name and address so that we can properly mail your monthly check to you. Your demographic information is the key to make you as a consumer happier and the advertiser more focused. In addition, we require user-specific information such as interests, gender, age, household income and education, which is used to build a profile of your interests and activity so that you can receive advertisement, offers and other benefits that are most likely to be of interest of you. We will ask you for this information when you register as a member. The only other piece of information that we require for sign up is your email address. We ask for this information to verify your identity and protect against fraud. 
+When you register as a member with Cashfiesta.com, you must submit your name and address so that we can properly mail your monthly check to you. Your demographic information is the key to make you as a consumer happier and the advertiser more focused. In addition, we require user-specific information such as interests, gender, age, household income and education, which is used to build a profile of your interests and activity so that you can receive advertisement, offers and other benefits that are most likely to be of interest of you. We will ask you for this information when you register as a member. The only other piece of information that we require for sign up is your email address. We ask for this information to verify your identity and protect against fraud. For some promotions we may also request a valid phone number.
 <br><br><br><br>
 <b><font size="3">No Information Collected from Children</font></b>
 <br><br>
@@ -387,14 +407,7 @@ When you visit Cashfiesta.com, we place a text file called a "cookie" in the bro
 <br><br><br><br>
 <b><font size="3">Choice/Opt-Out</font></b>
 <br><br>
-Our site provides you with the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about you. To remove your information from our database, to not receive future communications or to no longer receive our service, you can send email to <script language="javascript">
-var cf_e1='ancelmyaccount@cas';
-document.write('<a href="mailt'+'o:c'+cf_e1+'hfiesta.com" class="lnk_v1">c'+cf_e1+'hfiesta.com</a>');
-</script><a href="mailto:cancelmyaccount@cashfiesta.com" class="lnk_v1">cancelmyaccount@cashfiesta.com</a>. 
-<br><br><br><br>
-<b><font size="3">Advertising Sources</font></b>
-<br><br>
-Cashfiesta serves ads from different advertising partners among which Adtegrity.com. Adtegrity.com's Privacy Policy can be found at <a href="http://www.adtegrity.com/privacy.asp" target="_blank" class="lnk_v1">http://www.adtegrity.com/privacy.asp</a>
+Our site provides you with the opportunity to opt-out of receiving commercial communications from us and our partners by changing your communication preferences in the <a href="http://www.cashfiesta.com/php/edit.php" target="_blank">Edit Profile</a> section of the site. However, your option not to receive commercial messages: (a) shall not preclude us from corresponding with you, by e-mail or otherwise, regarding your existing or past relationship with us (e.g. sending you updates about the Cashfiesta.com services, incl. our Monthly Bonus emails), and (b) shall not preclude us, including our employees, contractors, agents and other representatives, from accessing and viewing your personal information in the course of maintaining and improving the site.
 <br><br><br><br>
 <b><font size="3">Registration Form Disclosure</font></b>
 <br><br>
@@ -429,32 +442,9 @@ document.write('<a href="mailt'+'o:s'+cf_e1+'esta.com" class="lnk_v1">s'+cf_e1+'
 <noscript><a href="http://media.fastclick.net/w/click.here?sid=12795&m=3&c=1" target="_blank">
 <img src="http://media.fastclick.net/w/get.media?sid=12795&m=3&tp=7&d=s&c=1"
 width=160 height=600 border=1></a></noscript>
-<!-- FASTCLICK.COM 120x600 and 160x600 SkyScraper CODE for cashfiesta.com --><script language="JavaScript">
-cf_popuCounter("fastclick_sky2","OTHERS");
-</script>
-<script language="JavaScript">
-cf_bnr = "http://images.cashfiesta.com/images/banners/";
-cnt = document.images.length;
-for(i=0;i<cnt;i++){ 
-	lk = document.images[i];
-	lka = ""+lk.src;
-	if(lka=="http://servedby.advertising.com/site=0000052920/mnum=0000109316/genr=1/logs=0/mdtm=1054590170/bins=1/optn=1"){
-		lk.src = cf_bnr+"optn1.gif";
-	}
-	if(lka=="http://a.as-us.falkag.net/dat/bgf/200308/08/banneridshake_2_v1_120x600.gif"){
-		lk.src = cf_bnr+"optn1.gif";
-	}
-	if(lka=="http://media.fastclick.net/cid9071/media20635.gif"){
-		lk.src = cf_bnr+"optn1.gif";
-	}
-	if(lka=="http://cserver.mii.instacontent.net/fastclick/cid9071/media20636.gif"){
-		lk.src = cf_bnr+"optn2.gif";
-	}
-	if(lka=="http://b.as-us.falkag.net/dat/bgf/200401/16/webalize_120x600.gif"){
-		lk.src = cf_bnr+"optn1.gif";
-	}
-}
-</script></td>
+<script language="JavaScript"> cf_crCounter("FSTC_000",1,"PST","i"); </script>
+<script language="JavaScript"> cf_popuCounter("fastclick_sky2","OTHERS"); </script>
+<br><br><br><br></td>
 </tr>
 </tbody></table>
 
@@ -482,6 +472,6 @@ for(i=0;i<cnt;i++){
 <td width="756" align="center" valign="middle"><span class="form_v1">©&nbsp;Copyright 2000-05 Cashfiesta.com All Rights Reserved</span></td>
 </tr>
 </tbody></table>
-<script language="javascript" src="/php/sscript.php?pg=site&amp;tm=2005_04_03_16_54_33&amp;rf="></script>
+<script language="javascript" src="/php/sscript.php?pg=site&amp;tm=2005_12_31_06_55_19&amp;rf=&amp;tz=UTC"></script>
 
 </body></html>
