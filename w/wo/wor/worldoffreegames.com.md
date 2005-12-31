@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the worldoffreegames.com privacy policy that was archived on 2005-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050521074150id_/http%3A//www.worldoffreegames.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldoffreegames.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231182122id_/http%3A//www.worldoffreegames.com/privacy.php) for the most accurate reproduction.*
 
-# World Of Free Games - Privacy Policy
+# Privacy Policy - World Of Free Games
 
 **worldoffreegames.com takes your privacy seriously. Please read the following to learn more about our privacy policy.**
 
