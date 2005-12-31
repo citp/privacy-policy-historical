@@ -1,15 +1,10 @@
-> *The following text is extracted and transformed from the starpulse.com privacy policy that was archived on 2005-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050319050836id_/http%3A//www.starpulse.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starpulse.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231161211id_/http%3A//www.starpulse.com/help/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Starpulse.com
 
 Starpulse.com created this Privacy Statement to demonstrate our commitment to Internet users privacy. The following policy discloses Starpulse.com's information collecting, use, and disclosure practices for our Web site. Our employees are required to follow our privacy policies. Those employees who violate our privacy policies are subject to disciplinary measures up to and including termination. 
 
 Starpulse.com reserves the right to revise this Privacy Statement at any time at our discretion. Changes to our Privacy Statement will become effective upon posting to our Web site. Starpulse.com will endeavor to notify current registered users of our services of changes in our Privacy Statement by sending an e-mail to their last known e-mail address. Changes with respect to current registered users will become effective upon transmission of the e-mail notifying them of such statement. 
-
-If you have any questions regarding our Privacy Statement and policies or your dealings with our Web site, please contact us as follows: 
-
-Starpulse.com  
-Email: [feedback@starpulse.com](mailto:feedback@starpulse.com)
 
 Starpulse.com collects different types of information in connection with the rendering of our services and the administration of our Web site. Starpulse.com will not voluntarily disclose or sell any information gathered about our users (Personal Information) to third parties for solicitation or other reasons unless you consent, and except as otherwise provided below. 
 
@@ -22,6 +17,8 @@ Our additional practices and policies with respect to our collection and usage p
 **Contests** \- From time to time, Starpulse.com Users may participate in contests through the Starpulse.com Web site. Starpulse.com runs contests on our site in which Starpulse.com may ask visitors for contact information (such as their e-mail address) and demographic information (such as their zip code, age, or income level). 
 
 **Outside Ad Company** \- Starpulse.com may use an outside advertising or marketing company to display ads on our site. These ads may contain cookies. While Starpulse.com use cookies in other parts of our Web site, cookies received with banner, or text ads are collected by our marketing company, and Starpulse.com does not have access to this information. (For more information on our use of cookies, see the Cookies section below.) In addition, our site may contain links to other Web sites. Starpulse.com does not endorse and are not responsible for the content of third-party Web sites accessed through our site or for any privacy practices with respect to such sites. 
+
+Starpulse.com uses MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.maxonline.com/privacy_policy/index.php). Third Party Cookies In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser
 
 **Public Forums** \- The views and opinions expressed and posted in and on the user forums are strictly those of individual forum members and in no way reflect the views and opinions of Starpulse.com, its associates, advertisers or affiliates.   
 Our Web site may contain chat rooms, forums, message boards, or news groups available to Users. Please remember that any information that is disclosed in these areas becomes public information, and that you should exercise caution when deciding to disclose your Personal Information. Representation information should not be disclosed in public forums. 
@@ -46,5 +43,15 @@ Only those employees of Starpulse.com who require access to data concerning User
 
 **Data Quality and Access** \- In accordance with the Fair Information Practices defined by the U.S. government, Starpulse.com encourages Users to correct any inaccuracies in personal information that has been previously provided to the Web site. Users may correct or update their information by sending an e-mail to feedback@starpulse.com. 
 
-**Feedback** \- Users may provide feedback (e.g., input and suggestions) to Starpulse.com regarding the Starpulse.com Web site. Users providing feedback must provide their name and e-mail address. Any contact information entered when providing feedback will only be used to acknowledge or respond to that feedback. Users are encouraged to provide their input and suggestions by sending an e-mail to [feedback@starpulse.com](mailto:feedback@starpulse.com).  
+**Feedback** \- Users may provide feedback (e.g., input and suggestions) to Starpulse.com regarding the Starpulse.com Web site. Users providing feedback must provide their name and e-mail address. Any contact information entered when providing feedback will only be used to acknowledge or respond to that feedback. 
+
+If you have any questions regarding our Privacy Statement and policies or your dealings with our Web site, please contact us as follows: 
+
+Starpulse.com  
+25 Business Park Drive  
+Branford, CT 06405
+
+[Click here](http://www.starpulse.com/help/contact.html) to contact us by Email.
+
+  
 
