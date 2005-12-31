@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the molottery.com privacy policy that was archived on 2005-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050203201335id_/http%3A//www.molottery.com/privacypolicy.shtm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the molottery.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231103151id_/http%3A//www.molottery.com/privacypolicy.shtm) for the most accurate reproduction.*
 
 # Privacy Policy - The Official Web site Of The Missouri Lottery
 
