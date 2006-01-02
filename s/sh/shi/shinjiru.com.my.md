@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shinjiru.com.my privacy policy that was archived on 2005-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051030110541id_/http%3A//www.shinjiru.com.my/aboutus/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shinjiru.com.my privacy policy that was archived on 2006-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060102233014id_/http%3A//shinjiru.com.my/aboutus/privacy.htm) for the most accurate reproduction.*
 
 # Malaysia & Offshore Web Hosting - Privacy Shinjiru.COM
 
