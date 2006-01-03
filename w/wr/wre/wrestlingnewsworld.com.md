@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrestlingnewsworld.com privacy policy that was archived on 2005-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050118225839id_/http%3A//www.grayinternet.com/docs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrestlingnewsworld.com privacy policy that was archived on 2006-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060104005627id_/http%3A//www.grayinternet.com/docs/privacy) for the most accurate reproduction.*
 
 # Gray Internet Technologies, LLC: Privacy Policy
 
@@ -30,9 +30,11 @@ Gray Internet  gathers data about visitors from various sources:
 
 Additionally, users are aggregated for tracking information derived mainly by tallying page views throughout our site, logging IP addresses, and browser type. Such information enables us to better tailor our content to readers' needs and to help our advertisers better understand the demographics of our audience. Because Gray Internet derives it's revenue mainly from advertising, sponsorships providing such aggregated demographic data is essential to keeping our service free to users.
 
-**Third Party Advertising**
+ **Third Party Advertising**  
+We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.maxonline.com/privacy_policy/index.php).
 
-The ads appearing on this Web site are delivered to you by focusIN and Axxess Inc., our Web advertising partners. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For more information about focusIN, cookies, and how to "opt-out", please [click here](http://www.focusin.com/privacy.htm).  For more information on what Axxess Inc., collects about you [click here](http://www.wrestlesite.com/legal).
+ **Third Party Cookies**  
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
 
 **Third Party Cookies**
 
