@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the education.gov.au privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212174658id_/http%3A//www.education.gov.au/goved/go/pid/342) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the education.gov.au privacy policy that was archived on 2006-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060104173730id_/http%3A//www.education.gov.au/goved/go/pid/342) for the most accurate reproduction.*
 
 # Privacy Notice
-
-****
 
 All personal information collected by the Education Portal Web Site is protected by the Privacy Act 1988. Information on the Commonwealth Privacy Act 1988 can be found on the Federal Privacy Commissioner’s web site. The Education Portal provides access to many online resources, which are not under our direct control. You should read the conditions of use and other statements of these sites. The privacy statement for the Department of Science, Education and Training (DEST) can be found at <http://www.dest.gov.au/>. 
 
