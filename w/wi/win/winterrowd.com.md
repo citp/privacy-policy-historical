@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winterrowd.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211094526id_/http%3A//www.winterrowd.com/WinterrowdSolutions/tabid/52/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winterrowd.com privacy policy that was archived on 2006-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060105082806id_/http%3A//winterrowd.com/WinterrowdSolutions/tabid/52/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Winterrowd Solutions
 
