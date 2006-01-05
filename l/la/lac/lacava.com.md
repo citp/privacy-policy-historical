@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the lacava.com privacy policy that was archived on 2005-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051023034453id_/http%3A//www.lacava.com/HTML/Privacy%2520statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lacava.com privacy policy that was archived on 2006-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060105142553id_/http%3A//www.lacava.com/HTML/Privacy%2520statement.htm) for the most accurate reproduction.*
 
 # Lacavadesign.com
-
-| 
 
 ** Lacava LLC Privacy Statement  
 **Updated: April 22, 2005 
