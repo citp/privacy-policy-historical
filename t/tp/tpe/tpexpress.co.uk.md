@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tpexpress.co.uk privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223052432id_/http%3A//www.tpexpress.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tpexpress.co.uk privacy policy that was archived on 2006-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060106201800id_/http%3A//www.tpexpress.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # TransPennine Express
 
