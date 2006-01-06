@@ -1,13 +1,15 @@
-<!--The following is the downloaded HTML source of the careerjunction.co.za privacy policy that was archived on 2004-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041205182445id_/http%3A//www.careerjunction.co.za/all/prv.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the careerjunction.co.za privacy policy that was archived on 2006-01-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060106040759id_/http%3A//www.careerjunction.co.za/inf/prv.asp) for the most accurate reproduction.-->
 
 <html><head>
-<meta http-equiv="Content-Type" content="text/html; CHARSET=iso-8859-1">
-<meta name="keywords" content="keywords"><meta name="description" content="CareerJunction is South Africa's #1 online career service. Our service to CareerSeekers is FREE and includes job search, Resume4Life, career advice and more.  Recruiters can advertise jobs, search resumes and create alerts to receive resumes via email.">
-<link rel="stylesheet" type="text/css" href="/data/templates/1/css.txt">
 <title>
-CareerJunction
+Jobs &amp; Careers in South Africa at CareerJunction.co.za
 </title>
+<meta http-equiv="Content-Type" content="text/html; CHARSET=iso-8859-1">
+<meta http-equiv="Expires" content="0">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta name="keywords" content="jobs, careers, job, career, recruitment, online recruitment, pnet, CareerJunction, careerjunction, career junction, resume, recruitment agency, job advertising, online jobs, online careers, jobs online, cv, curriculum vitae, personnel, personnel agency, employer, career advice, employment, job site, south african jobs"><meta name="description" content="CareerJunction is South Africa's #1 online career service. Our service to CareerSeekers is FREE and includes job search, Resume4Life, career advice and more.  Recruiters can advertise jobs, search resumes and create alerts to receive resumes via email.">
 <script language="javascript">jsver = 1.0;</script>
 <script language="javascript1.1">jsver = 1.1;</script>
 <script language="javascript1.2">jsver = 1.2;</script>
@@ -17,18 +19,18 @@ CareerJunction
 <script language="javascript">
 <!--
 // test whether we support JS 1.1
-if (window.location.pathname != '/browserver.asp')
+if (window.location.pathname != '/err/browser.asp')
 {
-	if ((jsver < 1.2) || (parseFloat(navigator.appVersion.substring(0,1)) < 4)) window.location.pathname = '/browserver.asp?cookies=1';
+	if ((jsver < 1.2) || (parseFloat(navigator.appVersion.substring(0,1)) < 4)) window.location.pathname = '/err/browser.asp?cookies=1';
 }
 // test whether this browser supports cookies
 document.cookie = "foo=bar";
 var cookie = " " + document.cookie;
 if (cookie.indexOf('foo') == -1)
 {
-	if (window.location.pathname != '/browserver.asp')
+	if (window.location.pathname != '/err/browser.asp')
 	{
-		window.location.pathname = '/browserver.asp?cookies=0';
+		window.location.pathname = '/err/browser.asp?cookies=0';
 	}
 }
 
@@ -36,17 +38,15 @@ function setFocusOnLoad()
 {
 	try
 	{
+		var urlpath = window.location.pathname;
 		var i = 0; 
 		for(i = 0;  i < document.forms[0].elements.length; i++) 
 		{
-			if (document.forms[0].elements[i].type != 'hidden' && 
-	                  document.forms[0].elements[i].type != 'checkbox' && 
-        	           document.forms[0].elements[i].type != 'radio' &&
-        	           url != '/' && url != '/careerseekers/default.asp' && url != '/careerseekers/' && url != '/rec/my/job/jobfrm2.asp') 
+			if(document.forms[0].elements[i].type == 'text' && urlpath != '/car/home/default.asp' &&  urlpath != '/rec/home/default.asp')        
 			{
 				document.forms[0].elements[i].focus(); 
 				return;
-			} 
+			} 		
 		}
 	 }	
 		catch(error) 
@@ -57,186 +57,216 @@ function setFocusOnLoad()
 
 //ToolTip functions:
 function showText(label)
-{
-	if (document.all && document.readyState == "complete")
 	{
-		document.all.tooltext.innerHTML = label;
-		document.all.tooltext.style.pixelLeft = event.clientX + document.body.scrollLeft - 30;
-		document.all.tooltext.style.pixelTop = event.clientY + document.body.scrollTop - 30;
-		document.all.tooltext.style.visibility = "visible";
+	document.getElementById("tooltip").style.display = "block";
+	document.getElementById("tooltip").style.top = event.clientY + document.body.scrollTop - 20;
+	document.getElementById("tooltip").style.left = event.clientX + document.body.scrollLeft + 10;
+	document.getElementById("tooltip").innerHTML = "<nobr>" + label + "</nobr>";
 	}
-}
 
 function hideText()
-{
-	if (document.all) document.all.tooltext.style.visibility = "hidden";
-}
+	{
+	document.getElementById("tooltip").style.display = "none";
+	}
+
+function cjPopUp(url,name)
+	{
+	var x = (screen.width/2) - 320;
+	var y = (screen.height/2) - 240;
+	var features = 'location=0,menubar=1,toolbar=0,status=0,width=640,height=480,resizable=0,scrollbars=1';
+	//alert(name)
+	window.open(url,name,features);
+	}
 	
 //-->
 </script>
 </head>
-<body marginwidth="0" marginheight="0" onload="JavaScript: self.focus(); setFocusOnLoad();">
-<!--For ToolTip:-->
-<div id="tooltext" style="position:absolute; visibility:hidden; background-color:#ffffff; color:#333333; font:bold 11px Verdana,Arial,Helvetica; border:1px solid #cccccc; padding:3px;"></div>
+<body marginwidth="0" marginheight="0" onload="JavaScript: setFocusOnLoad();">
 <noscript>
-<img src="//secure-za.imrworldwide.com/cgi-bin/m?ci=za-careerjunction&amp;cg=careerjunction-privacy-statement" alt="">
-</noscript><img src="http://log1.clickstream.co.za/0.9310293705535833?csv=mp&amp;site=cjmp-main&amp;page=%22www%2Ecareerjunction%2Eco%2Eza%2Fcareerjunction%2Dprivacy%2Dstatement%22&amp;ref=" border="0"><noscript>
-	<img src="http://log1.clickstream.co.za/0.876876?csv=mp&site=cjmp-main&page=%22www%2Ecareerjunction%2Eco%2Eza%2Fcareerjunction%2Dprivacy%2Dstatement%22&ref=" border=0>
-</noscript><table width="588" border="0" cellspacing="12" cellpadding="0" align="center" bgcolor="#ffffff"><tbody><tr><td colspan="5"><table width="100%" border="0" cellspacing="0" cellpadding="3"><tbody><tr class="menu"><td><small>Legal</small></td><td align="right"><small><a href="javascript:window.close();">Close Window</a></small></td></tr></tbody></table></td></tr><tr><td colspan="5"><big>Privacy Statement</big></td></tr><tr><td colspan="5"><img width="588" height="1" border="0" src="/img/line.gif"></td></tr><tr>
-<td valign="top" colspan="5">
-<p><big>CareerJunction (last updated 30/05/2002)</big><br><small></small></p><p><small><a name="top"><b>Index</b></a></small></p><small>
+	<meta http-equiv="refresh" content="0;url=/err/browser.asp">
+</noscript>
+<!--For ToolTip:-->
+<div id="tooltip"></div>
+<link rel="stylesheet" type="text/css" href="/com/1/css.txt"><table width="588" border="0" cellspacing="12" cellpadding="0" align="center" bgcolor="#ffffff"><tbody><tr><td colspan="5"> <table width="100%" border="0" cellspacing="0" cellpadding="3"><tbody><tr class="dark"><td colspan="4"> &nbsp;<a href="/inf/abt.asp">About CareerJunction</a> | <a href="/inf/cjn.asp">About CJN</a> | <a href="/inf/tms.asp">Terms Of Use</a> | Privacy </td><td align="right"><a href="javascript:window.close();"><b> Close</b></a>&nbsp;</td></tr></tbody></table></td></tr><script language="javascript" src="/inc/jsfuncs.asp"></script><script language="JavaScript">
 
-<ul>
+		function validateForm()
+		{
+			if (document.form.Filter.options[1].selected==true)
+			{
+			      var ToDate = new String();
+				ToDate = document.form.today.value + '/' + document.form.tomonth.value + '/' + document.form.toyear.value;
+				if (	
+					checkNumeric(document.form.today,"Day") &&
+					checkDayRange(document.form.today,"Day") &&
+					checkMinLength(document.form.tomonth,"Month",0) &&
+					checkNumeric(document.form.tomonth,"Month") &&
+					checkMonthRange(document.form.tomonth,"Month") &&
+					checkMinLength(document.form.toyear,"Year",4) &&
+					checkNumeric(document.form.toyear,"Year") &&
+					checkGivenYearRange(document.form.toyear,"Year", 1900, 9999) &&
+					checkDate(document.form.today, ToDate, "Date"))
+				{
+					//alert('all is fine');
+					document.form.action = "/adm/cnt/pgevuw.asp" + location.search;
+					document.form.submit();
+				}
+			}
+			else
+			{	// if  all snippets are to be viewed irrelevant of the date and time...
+				document.form.action = "/adm/cnt/pgevuw.asp" + location.search;
+				document.form.submit();
+			}
+		}
+		
+		function filterChange()
+		{
+			if (document.form.Filter.options[0].selected==true)
+			{
+				document.form.today.value=''; 
+				document.form.tomonth.value=''; 
+				document.form.toyear.value=''; 
+				document.form.tohour.value=0;
+				document.form.today.disabled=true; 
+				document.form.tomonth.disabled=true; 
+				document.form.toyear.disabled=true; 
+				document.form.tohour.disabled=true;
+			} 
+			else 
+			{
+				document.form.today.value='DD'; 
+				document.form.tomonth.value='MM'; 
+				document.form.toyear.value='CCYY';
+				document.form.tohour.value=12; 
+				document.form.today.disabled=false;
+				document.form.tomonth.disabled=false;
+				document.form.toyear.disabled=false; 
+				document.form.tohour.disabled=false;
+			}
+		}
+	</script><form name="form" method="post"></form>
+<tr>
+<td colspan="5" valign="top">
+<p><big>CareerJunction</big><br><i>Last Updated 01/07/2005</i>
+</p><ul>
 <li><a href="#intro">Introduction</a></li>
-<li><a href="#info">Information collection and use</a></li>
+<li><a href="#info">Information Collection &amp; Use</a></li>
 <li><a href="#reg">Registration</a></li>
 <li><a href="#resume">Resume</a></li>
-<li><a href="#place">Placement</a></li>
-<li><a href="#email">Email Us</a></li>
 <li><a href="#cookies">Cookies</a></li>
 <li><a href="#log">Log Files</a></li>
 <li><a href="#share">Sharing</a></li>
 <li><a href="#links">Links</a></li>
-<li><a href="#comms">Communicatons</a></li>
-<!--<li><a href="#surveys">Surveys & Contests</a></li>-->
+<li><a href="#comms">Communications</a></li>
 <li><a href="#security">Security</a></li>
 <li><a href="#correct">Correcting/Updating Personal Information</a></li>
-<li><a href="#choice">Choice/Opt-out</a></li>
-<li><a href="#notice">Notification of Changes</a></li>
-</ul>
-
-<p><a name="intro"><b>Introduction</b></a>
-<br><small>[ <a href="#top">Index</a> ]</small></p>
-
-<p><a href="https://www.truste.org/validate/11250" target="TRUSTe Verify"><img width="108" height="70" border="0" align="right" src="/img/pic/trusteverify108x70.gif" alt="TRUSTe: Click to verify" title="TRUSTe: Click to verify"></a>CareerJunction is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, we have agreed to notify you of:</p>
-
-<ul>
-<li>What personally identifiable information of yours or third party personally identification is collected from you through the web site.</li>
-<li>The organization collecting the information.</li>
-<li>How the information is used.</li>
-<li>With whom the information may be shared.</li> 
-<li>What choices are available to you regarding collection, use and distribution of the information.</li> 
-<li>The kind of security procedures that are in place to protect the loss, misuse or alteration of information under CareerJunction's control.</li> 
-<li>How you can correct any inaccuracies in the information.</li>
-</ul> 
-
-<p>If you feel that CareerJunction is not abiding by its posted privacy policy, you should first contact the Client Service Manager by email at <a href="mailto:info@careerjunction.co.za">info@careerjunction.co.za</a>, by phone at +27 21 686 6820 or by mail at PO Box 6286, Roggebaai 8012, South Africa. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <a href="http://www.truste.org/watchdog.html" target="TRUSTe Watchdog">TRUSTe Watchdog</a>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.</p>
-
-<p><a name="info"><b>Information collection and use</b></a>
-<br><small>[ <a href="#top">Index</a> ]</small></p>
-
-<p>CareerJunction is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. CareerJunction collects information from our users at several different points on our website.</p>
-
-<p><a name="reg"><b>Registration</b></a>
-<br><small>[ <a href="#top">Index</a> ]</small></p>
-
-<p>In order to use the functionality of this website, a user must first complete the registration form. During registration a user is required to give their contact information (such as full name and email address). This information is used to contact the user about the services on our site for which they have expressed interest.</p>
-
-<p><a name="resume"><b>Resume</b></a>
-<br><small>[ <a href="#top">Index</a> ]</small></p>
-
-<p>We request information from the user on our Resume form. Here a user must provide personal details (name, phone number, email address, city/town, location and affirmative action information), language information (language and proficiency), educational information (date, institution, city/town, location, course, level, subjects and leadership/achievements), employment information (date, company, company size, city/town, location, job title, type, level, industry, remuneration, benefits and duties/achievements), skills information (date, skill, competency, level and experience) and preferences (company size, location, job title, type, level, industry, remuneration, benefits, notice period/date, availability and searchability). This information is used for recruiting purposes. If we have trouble processing a request, the contact information is used to get in touch with the user. Should you have questions about how to remove your resume from the searchable database, please see our <a href="#choice">Choice/Opt-out</a> section below.</p>
-
-<p><a name="place"><b>Placement</b></a>
-<br><small>[ <a href="#top">Index</a> ]</small></p>
-
-<p>We request information from the user on our Placement form when they have been placed as a result of successfully using our web services.  Here a user must provide new employment information (date, company, company size, city/town, location, job title, type, level, industry, remuneration, benefits and duties), recruiter information recruiter's name, consultant's name and consultant's phone number) and personal information (name and email address). This information is used for checking and claim purposes. If we have trouble processing a claim, the contact information is used to get in touch with the user.</p>
-
-<p><a name="email"><b>Email Us</b></a>
-<br><small>[ <a href="#top">Index</a> ]</small></p>
-
-<p>We request information from the user on our Email Us form. Here a user must provide personal information (name, phone number and email address). This information is used for communicating to CareerJunction. If we have trouble processing an email contact, the contact information is used to get in touch with the user.</p>
-
-<p><a name="cookies"><b>Cookies</b></a>
-<br><small>[ <a href="#top">Index</a> ]</small></p>
-
-<p>A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. For example, the user will not be able to participate in any of the functions under their My Portfolio pages. Some of our business partners use cookies on our site for advertising purposes and some purchases (for example training courses). These cookies do not access any information (personal or otherwise) that is stored in the CareerJunction database. CareerJunction has no access to or control over these cookies. The following third parties are known to use cookies on our site:</p>
-
-<ul>
-<li>JeV.co.za (ad server)</li>
-</ul>
-
-<p><a name="log"><b>Log Files</b></a>
-<br><small>[ <a href="#top">Index</a> ]</small></p>
-
-<p>We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.</p>
-
-<p><a name="share"><b>Sharing</b></a>
-<br><small>[ <a href="#top">Index</a> ]</small></p>
-
-<p>We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person. RefCheck (see above) use a credit card processing company to bill users for services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. We also partner with third parties to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services.</p>
-<p>We will not voluntarily disclose any information about individual users, except as described in this Privacy Statement, or to comply with applicable laws or valid legal process, or to protect the rights or property of CareerJunction and its partner sites.</p>
-
-<p><a name="links"><b>Links</b></a>
-<br><small>[ <a href="#top">Index</a> ]</small></p>
-
-<p>This website contains links to other sites. Please be aware that we, CareerJunction, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected on pages of this website (containing "Powered by CareerJunction" in the foot of the pages).</p>
-
-<p><a name="comms"><b>Communications</b></a>
-<br><small>[ <a href="#top">Index</a> ]</small></p>
-
-<p>We send all new members a welcoming email to verify password and username. If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see our <a href="#choice">Choice/Opt-out</a> section below.</p>
-
-<p>We also send the user site and service announcement updates. Members are not able to unsubscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their account via email.</p>
-
-<!--<p><a name="surveys"><b>Surveys & Contests</b></a>
-<br><small>[ <a href="#top">Index</a> ]</small></p>
-
-<p>From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name, email address and phone number), and demographic information (such as city/town, location). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.</p>-->
-
-<p><a name="security"><b>Security</b></a>
-<br><small>[ <a href="#top">Index</a> ]</small></p>
-
-<p>This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line. When our RefCheck form asks users to enter sensitive information (such as credit card number and/or identity number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our RefCheck form, the lock icon on the bottom of Web browsers such as Microsoft Internet Explorer and Netscape Navigator becomes locked, as opposed to unlocked, or open, when you are just "surfing". To learn more about SSL, go to <a href="http://www.rsasecurity.com/standards/ssl/basics.html" target="SSL">Basic SSL</a>.</p>   
-<p>We also do everything in our power to protect user information offline. Access to all of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our Client Service Manager) are granted access to personally identifiable information. Our employees must use password protected screen savers when they leave their desk. When they return, they must re-enter their password to regain access to your information. Furthermore, all employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our clients' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage.</p>
-
-<p><a name="correct"><b>Correcting/Updating Personal Information</b></a>
-<br><small>[ <a href="#top">Index</a> ]</small></p>
-
-<p>If a user's personally identifiable information changes (such as their email address), or if a user no longer desires our service, we will provide a way to correct, update or remove that user's personal data provided to us. This can be done from the user's My Portfolio page or by emailing our Client Service Manager at <a href="mailto:info@careerjunction.co.za">info@careerjunction.co.za</a></p>
-
-<p><a name="choice"><b>Choice/Opt-out</b></a>
-<br><small>[ <a href="#top">Index</a> ]</small></p>
-
-<p>Users who no longer wish to allow their Resume to be searched by our subscribers may opt-out of this facility by going to their My Portfolio page, to My Resume Preferences and select to be non-searchable. Users who no longer wish to receive our newsletter may opt-out of receiving this communication by going to their My Portfolio page, to My Newsletter and select to not receive newsletters.</p>
-
-<p>Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not.</p>
-
-<p><a name="notice"><b>Notification of Changes</b></a>
-<br><small>[ <a href="#top">Index</a> ]</small></p>
-
-<p>If we decide to change our privacy policy, we will publish those changes so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.</p></small><p></p>
+<li><a href="#choice">Choice/Opt Out</a></li>
+<li><a href="#notice">Notification Of Changes</a></li>
+</ul><p></p>
 </td>
 </tr>
-<!-- START RedSheriff Measurement V5.01 -->
-<!-- COPYRIGHT 2002 RedSheriff Limited -->
+<tr>
+<td colspan="5" valign="top"><img width="588" height="1" border="0" src="/img/line.gif"></td>
+</tr>
+<tr>
+<td colspan="5" valign="top">
+<p><b><i>»</i> <a name="intro">Introduction</a></b><br><a href="https://www.truste.org/validate/11250" target="TRUSTe" onmouseover="javascript:showText('<b>View TRUSTe Verification</b>');" onmouseout="javascript:hideText();"><img width="108" height="70" border="0" align="right" src="/img/pic/trusteverify108x70.gif"></a>CareerJunction is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the internet by promoting the use of fair information practices. By displaying the TRUSTe logo, we have agreed to notify you of:</p>
+<ul>
+<li>What personally identifiable information is collected through our website;</li>
+<li>The organisation collecting the information;</li>
+<li>How the information is used;</li>
+<li>With whom the information is shared;</li> 
+<li>What choices are available to you regarding collection, use and distribution of the information;</li> 
+<li>The security procedures that are in place to protect the loss, misuse or alteration of information under CareerJunction's control;</li> 
+<li>How you can correct any inaccuracies in the information.</li>
+</ul> 
+<p>If you feel that CareerJunction is not abiding by its privacy policy, please contact the Client Service Manager via email at <a href="mailto:info@careerjunction.co.za?subject=Privacy">info@careerjunction.co.za</a>. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact <a href="http://www.truste.org/watchdog.html" target="TRUSTe">TRUSTe Watchdog</a>. TRUSTe will then serve as a liaison to resolve your concerns.</p>
+<p><b><i>»</i> <a name="info">Information Collection &amp; Use</a></b><br>CareerJunction is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. CareerJunction collects information from our users at several different points on our website.</p>
+<p><b><i>»</i> <a name="reg">Registration</a></b><br>In order to use the functionality of this website, a user must first complete the registration form. During registration a user is required to give the following information:
+</p><ul>
+<li>Full Name</li>
+<li>Phone Number</li>
+<li>Email Address</li>
+<li>City/Town &amp; Country (Province)</li>
+<li>Username</li>
+<li>Password</li>
+<li>Newsletter (Yes/No)</li>
+</ul>
+<p>This information is used to contact the user about the services on our site for which they have expressed interest.</p>
+<p><b><i>»</i> <a name="resume">Resume</a></b><br>We request the following information from the user in our resume form: 
+</p><ul>
+<li>Personal Details, including:</li>
+<ul>
+<li>Full Name</li>
+<li>Date Of Birth (Optional)</li>
+<li>Affirmative Action CareerSeeker (African/Coloured/Indian/Disabled/Female)</li>
+<li>Phone Number</li>
+<li>Additional Phone Number (optional)</li>
+<li>Email Address</li>
+<li>City/Town &amp; Country (Province)</li>
+</ul>
+<li>Languages</li> 
+<li>Education Details</li>
+<li>Student Life Employment Details</li>
+<li>Working Life Employment Details</li>
+<li>Skills</li> 
+<li>Associations</li>
+<li>Achievements</li>
+<li>Career Objective</li>
+<li>Availability</li>
+<li>Searchability</li>
+</ul>
+<p>This information is used for the Online Recruitment process. If we have trouble processing a request, the contact information is used to get in touch with the user.</p>
+<p><b><i>»</i> <a name="cookies">Cookies</a></b><br>A cookie is a piece of data stored on the user's hard drive containing information about the user. For instance, by setting a cookie on our site, the user would not have to log in a password more than once. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie terminates.</p>
+<p><b><i>»</i> <a name="log">Log Files</a></b><br>We use IP addresses to analyse trends, administer the site, track users' movements, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.</p>
+<p><b><i>»</i> <a name="share">Sharing</a></b><br>We sometimes share aggregated demographic information with our partners and advertisers. This is not linked to personally identifiable information.</p>
+<p>We also partner with third parties to provide specific services. When the user signs up for these services, we will share names or other  information that is necessary for the third party to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services.</p>
+<p>We will not voluntarily disclose any information about individual users, except as described in this privacy statement, or to comply with applicable laws or valid legal process, or to protect the rights or property of CareerJunction and its partner sites.</p>
+<p><b><i>»</i> <a name="links">Links</a></b><br>This website contains links to other sites. Please be aware that CareerJunction is not responsible for the privacy practices of such other sites. This privacy statement applies solely to information collected on pages of this site.</p>
+<p><b><i>»</i> <a name="comms">Communications</a></b><br>We send all new members a welcoming email to verify their username and password. Users also have the choice to subscribe to our newsletter. A user can unsubscribe from the newsletter at any time from both our site and the newsletter itself.</p>
+<p>We also send the user service announcements. Users are not able to unsubscribe from service announcements, which contain important information about the service.</p>
+<p>We communicate with the user to provide requested services and in regards to issues relating to their account via email.</p>
+<p><b><i>»</i> <a name="security">Security</a></b><br>This website takes every precaution to protect our users' information online. When asked to enter sensitive information (such as a credit card number), it is encrypted and is protected with secure sockets layer (SSL).</p>
+<p>We also do everything in our power to protect user information offline. Access to all of our users' information is restricted in our offices. Only employees who need the information to perform a specific job (for example, our Client Service Manager) are granted access to personally identifiable information. Furthermore, all employees are kept up-to-date on our security and privacy practices. Finally, the servers on which we store personally identifiable information are kept in a secure environment, behind a locked cage.</p>
+<p><b><i>»</i> <a name="correct">Correcting/Updating Personal Information</a></b><br>If a user's personally identifiable information changes (such as their email address), or if a user no longer desires our service, we will provide a way to correct, update or remove that user's personal details provided to us. This can be done from the user's My Portfolio page or by emailing our Client Service Manager at <a href="mailto:info@careerjunction.co.za?subject=Privacy">info@careerjunction.co.za</a>.</p>
+<p><b><i>»</i> <a name="choice">Choice/Opt Out</a></b><br>Users who no longer wish to allow their resume to be searchable by our subscribers may opt out of this facility by going to their My Portfolio page, to My Resume and select to be non searchable. Users who no longer wish to receive our newsletter may opt out of receiving it by going to their My Portfolio page, to My Newsletter and select to not receive newsletters.</p>
+<p><b><i>»</i> <a name="notice">Notification Of Changes</a></b><br>If we decide to change our privacy policy, we will publish those changes so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it.</p><p></p>
+</td>
+</tr>
+
+<tr><td colspan="5"><img src="/img/line.gif"></td></tr><tr><td colspan="5"><p>Copyright ©1997-2006 CareerJunction, all rights reserved.</p></td></tr><tr><td width="108"><img width="108" height="1" border="0" src="/img/none.gif"></td><td width="108"><img width="108" height="1" border="0" src="/img/none.gif"></td><td width="108"><img width="108" height="1" border="0" src="/img/none.gif"></td><td width="108"><img width="108" height="1" border="0" src="/img/none.gif"></td><td width="108"><img width="108" height="1" border="0" src="/img/none.gif"></td></tr></tbody></table>
+<!-- START NetRatings OPA Measurement V5.1.1 -->
+<!-- COPYRIGHT 2003 NetRatings Limited -->
+<div id="SiteCensus" style="position:absolute; top:20px; left:20px; z-index:-1; visibility: hidden">
 <script language="JavaScript" type="text/javascript"><!--
-  var _rsCI='za-careerjunction';
-  var _rsCG='careerjunction-privacy-statement';
-  var _rsDT=1;
-  var _rsSI=escape(window.location);
-  var _rsLP=location.protocol.indexOf('https')>-1?'https:':'http:';
-  var _rsRP=escape(document.referrer);
-  var _rsND=_rsLP+'//secure-za.imrworldwide.com/';
-  if (parseInt(navigator.appVersion)>=4) {
-    var _rsRD=(new Date()).getTime();
-    var _rsSE=1;
-    var _rsSV='';
-    var _rsSM=0.1;
-    _rsCL='<scr'+'ipt language="JavaScript" type="text/javascript" src="'+_rsND+'v5.js"></scr'+'ipt>';
-  } else {
-    _rsCL='<img src="'+_rsND+'cgi-bin/m?ci='+_rsCI+'&cg='+_rsCG+'&si='+_rsSI+'&rp='+_rsRP+'">';
-  }
-  document.write(_rsCL);
-//--></script><script language="JavaScript" type="text/javascript" src="https://secure-za.imrworldwide.com/v5.js"></script>
-
-<!-- END RedSheriff Measurement V5 -->
-<script language="Javascript">
-<!--
-	document.write('<img src="http://log1.clickstream.co.za/' + Math.random() + '?csv=mp&site=cjmp-main&page=%22www%2Ecareerjunction%2Eco%2Eza%2Fcareerjunction%2Dprivacy%2Dstatement%22&ref=' + document.referrer + '" border=0>')
+var _rsCI="za-careerjunction";
+var _rsCG="info-privacy";
+var _rsDT=1;
+var _rsDU=0;
+var _rsDO=0;
+var _rsX6=0;
+var _rsSI=escape(window.location);
+var _rsLP=location.protocol.indexOf('https')>-1?'https:':'http:';
+var _rsRP=escape(document.referrer);
+var _rsND=_rsLP+'//secure-za.imrworldwide.com/';
+ if (parseInt(navigator.appVersion)>=4)
+{
+ var _rsRD=(new Date()).getTime();
+ var _rsSE=1;
+ var _rsSV="";
+ var _rsSM=1.0;
+ _rsCL='<scr'+'ipt language="JavaScript" type="text/javascript" src="'+_rsND+'v51.js"></scr'+'ipt>';
+ }
+ else
+ {
+ _rsCL='<img src="'+_rsND+'cgi-bin/m?ci='+_rsCI+'&cg='+_rsCG+'&si='+_rsSI+'&rp='+_rsRP+'">';
+ }
+ document.write(_rsCL);
 //-->
-</script>
-
-<tr><td colspan="5"><img width="588" height="1" border="0" src="/img/line.gif"></td></tr><tr><td colspan="5"><img width="180" height="30" border="0" align="right" src="/img/pic/foot180x30.gif" alt="A Johnnic Communications Company" title="A Johnnic Communications Company"><small>Best viewed at 800x600 with Internet Explorer 5.0 and higher.<br>Powered by CareerJunction. ©1997-2004, all rights reserved.<br><a target="All" href="/all/inf.asp" title="Company Info">Company Info</a> | <a target="All" href="/all/use.asp" title="Terms &amp; Conditions">Terms &amp; Conditions</a> | Privacy Statement<br></small></td></tr><tr><td><img width="108" height="1" border="0" src="/img/none.gif"></td><td><img width="108" height="1" border="0" src="/img/none.gif"></td><td><img width="108" height="1" border="0" src="/img/none.gif"></td><td><img width="108" height="1" border="0" src="/img/none.gif"></td><td><img width="108" height="1" border="0" src="/img/none.gif"></td></tr></tbody></table>
+</script><script language="JavaScript" type="text/javascript" src="https://secure-za.imrworldwide.com/v51.js"></script>
+<noscript>
+ <img src="http://secure-za.imrworldwide.com/cgi-bin/m?ci=<CID>&cg=0" alt=""/>
+</noscript>
+</div>
+<!-- END NetRatings OPA Measurement V5.1.1 -->
 
 </body></html>
