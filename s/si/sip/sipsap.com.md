@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sipsap.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214030113id_/http%3A//sipsap.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sipsap.com privacy policy that was archived on 2006-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060110150507id_/http%3A//sipsap.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - - fetish - adult jobs - tantra - massage - dbsm - erotic se
+# Privacy Policy models escorts and photo albums escort agencies entertainer
 
 **Escort Search - Privacy Policy:**
 
