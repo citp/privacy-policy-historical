@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the relevantradio.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215172520id_/http%3A//www.relevantradio.com/docs/index.asp%3Fdocumentid%3D99) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relevantradio.com privacy policy that was archived on 2006-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060111221646id_/http%3A//www.relevantradio.com/docs/index.asp%3Fdocumentid%3D99) for the most accurate reproduction.*
 
 # Relevant Radio - Articles
 
