@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theregister.co.uk privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215090057id_/http%3A//www.theregister.co.uk/odds/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theregister.co.uk privacy policy that was archived on 2006-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060112044143id_/http%3A//www.theregister.co.uk/odds/about/privacy) for the most accurate reproduction.*
 
 # Your Privacy and The Register | The Register
 
@@ -71,10 +71,6 @@ The Register has partnered with other organisations to provide you with a number
 ### WorldPay
 
 WorldPay provide The Register with their credit card processing facilities. [Privacy Policy](http://www.worldpay.com/guarantee/terms.shtml)
-
-### Pearson Education
-
-Pearson run The Register's book shop. [Privacy Policy](http://www.pearsoned.co.uk/Privacynotice/)
 
 ### Expansys
 
