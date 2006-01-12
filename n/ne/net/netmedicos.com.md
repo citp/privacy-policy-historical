@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netmedicos.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305034543id_/http%3A//www.netmedicos.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netmedicos.com privacy policy that was archived on 2006-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060112065103id_/http%3A//www.netmedicos.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # NETMEDICOS.COM | Privacy Policy PLAB, IELTS, USMLE, GRE, AIPGMEE, AIIMS, AFMC, BHU, CMC, JIPMER, PGI, SGPGI, ...
 
