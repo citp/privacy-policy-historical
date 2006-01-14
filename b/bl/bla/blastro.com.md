@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blastro.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211184750id_/http%3A//www.blastro.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blastro.com privacy policy that was archived on 2006-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060114162055id_/http%3A//www.blastro.com/policy.html) for the most accurate reproduction.*
 
 # Music Videos on BLASTRO - the best Rap, Hip Hop, R&B, Pop, Dance and Rock videos
 
