@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yesup.net privacy policy that was archived on 2005-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051023083256id_/http%3A//yesup.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesup.net privacy policy that was archived on 2006-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060116142239id_/http%3A//yesup.net/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,7 +7,7 @@
 **Personal Information**  
 At YesUp.net (YesUp) we are committed to protecting your privacy. Any information we collect, such as email addresses, is submitted at the visitor's will. We do not and will not share any personal information with any third parties unless by governmental order. Other information is collected by our Payment Services provider but we have no access to this information. You may direct further inquiries to the Payment Services provider here:   
 <http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside>  
-2checkout.com:   
+or to our authorized retailer, 2checkout.com:   
 [http://www.2checkout.com](http://www.2checkout.com/)
 
 **Cookies**  
