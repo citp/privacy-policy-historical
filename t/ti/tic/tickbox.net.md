@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tickbox.net privacy policy that was archived on 2005-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051028075757id_/http%3A//www.tickbox.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tickbox.net privacy policy that was archived on 2006-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060116034143id_/http%3A//tickbox.net/privacy.php) for the most accurate reproduction.*
 
 # Tickbox.net
 
