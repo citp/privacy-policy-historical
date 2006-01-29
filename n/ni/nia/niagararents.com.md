@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the niagararents.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222120736id_/http%3A//www.niagararents.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niagararents.com privacy policy that was archived on 2006-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060129175117id_/http%3A//www.niagararents.com/privacy_policy) for the most accurate reproduction.*
 
 # NiagaraRents.com - including Niagara Rentals, Apartments, Houses, Rooms, Homes & more. Welland, St.Catharines, Thorold, Niagara Falls Apartment Rentals, Welland Apartments, Apartments in Niagara Falls Ontario, renting rooms in Niagara. - NiagaraRents.com - Niagara Rentals, Apartments, Houses, Student Housing, For Rent!
 
