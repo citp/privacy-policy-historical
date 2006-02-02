@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ssa.gov privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221150541id_/http%3A//www.ssa.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ssa.gov privacy policy that was archived on 2006-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060202232128id_/http%3A//www.ssa.gov/privacy.html) for the most accurate reproduction.*
 
 # Social Security Online Privacy Policy
 
   | 
 
-The privacy of our customers has always been of utmost importance to the Social Security Administration. In fact, our first regulation (see [http://www.socialsecurity.gov/OP_Home/cfr20/401/401-0000.htm](https://web.archive.org/OP_Home/cfr20/401/401-0000.htm)) was written to ensure your privacy. As a Federal agency, the Privacy Act of 1974 (5 U.S.C. 552a) requires us to protect the information we collect from you. (See [http://www.socialsecurity.gov/privacyact.htm](https://web.archive.org/web/20051221150541id_/http%3A//www.ssa.gov/privacyact.htm) ). **The privacy policy outlined below applies to the data we collect from you over the Internet.**
+The privacy of our customers has always been of utmost importance to the Social Security Administration. In fact, our first regulation (see [http://www.socialsecurity.gov/OP_Home/cfr20/401/401-0000.htm](https://web.archive.org/OP_Home/cfr20/401/401-0000.htm)) was written to ensure your privacy. As a Federal agency, the Privacy Act of 1974 (5 U.S.C. 552a) requires us to protect the information we collect from you. (See [http://www.socialsecurity.gov/privacyact.htm](https://web.archive.org/web/20060202232128id_/http%3A//www.ssa.gov/privacyact.htm) ). **The privacy policy outlined below applies to the data we collect from you over the Internet.**
 
 This is our notice to you about why we collect your personal information, how we use it, and who we share it with; what your choices are for how we use your information; how to get access to your information; and how we protect the information we collect and maintain.  
 |    
@@ -83,8 +83,4 @@ If Federal laws (e.g., Privacy Act, Social Security Act) do not allow us to shar
   
 ## If you visit other websites
 
-| 
-
-Our website contains links to other federal agencies, international agencies, and private organizations. These websites are not within our control and may not follow the same privacy, security or accessibility policies. Once you link to another site you are subject to the policies of that site. 
-
-|  
+| Our website contains links to international agencies, private organizations, and some commercial entities. These websites are not within our control and may not follow the same privacy, security or accessibility policies. Once you link to another site you are subject to the policies of that site. However, all Federal websites are subject to the same Federal privacy, security or accessibility mandates as ours. |  
