@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aol.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217142127id_/http%3A//www.aol.com/aolnetwork/aol_pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aol.com privacy policy that was archived on 2006-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060202085206id_/http%3A//www.aol.com/aolnetwork/aol_pp.html) for the most accurate reproduction.*
 
 # About AOL: Privacy Policy
 
@@ -106,4 +106,6 @@ Changes to this Privacy Policy and Additional Information
 
 The AOL Network may update this Privacy Policy from time to time, and so you should review this Policy periodically. If there are significant changes to the AOL Network's information practices, you will be provided with appropriate online notice. You may be provided other privacy-related information in connection with your use of offerings from the AOL Network, as well as for special features and services not described in this Policy that may be introduced in the future. 
 
-Last Updated 7-19-05
+Your California Privacy Rights: California privacy law allows California residents to obtain specific disclosures about a business's privacy practices if it shares information with other companies for direct marketing purposes. To make a request to the AOL Network under California's privacy law, please send an e-mail to: CAPrivacyInfoAN@aol.com.
+
+Last Updated 1-04-06
