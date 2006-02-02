@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nflshop.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230081140id_/http%3A//www.nflshop.com/nfl/index.jsp%3FpageId%3DnflCustomerService%26catId%3D2400008%26pageType%3DdetailLevel2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nflshop.com privacy policy that was archived on 2006-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060202021852id_/http%3A//www.nflshop.com/nfl/index.jsp%3FpageId%3DnflCustomerService%26catId%3D2400008%26pageType%3DdetailLevel2) for the most accurate reproduction.*
 
 # NFLShop.com : Customer Service
 
