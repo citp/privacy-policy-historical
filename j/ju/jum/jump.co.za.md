@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jump.co.za privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221073909id_/http%3A//www.jump.co.za/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jump.co.za privacy policy that was archived on 2006-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060202025530id_/http%3A//jump.co.za/PrivacyPolicy) for the most accurate reproduction.*
 
 # Jump Shopping - South Africa - DVD, Music, Games, Computers, Cameras, Sport & Outdoors and Much More
 
