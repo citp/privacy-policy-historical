@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thestar.co.uk privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224151232id_/http%3A//www.thestar.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestar.co.uk privacy policy that was archived on 2006-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060203121251id_/http%3A//thestar.co.uk/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Disclaimer
 
