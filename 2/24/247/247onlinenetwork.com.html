@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 247onlinenetwork.com privacy policy that was archived on 2005-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051222223612id_/http%3A//www.247onlinenetwork.com/privacy.php%3Fcityid%3D0) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 247onlinenetwork.com privacy policy that was archived on 2006-02-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060204212922id_/http%3A//247onlinenetwork.com/privacy.php%3Fcityid%3D0) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="Content-type" content="text/html">
@@ -136,7 +136,7 @@ function rotateBottom() {
 			imageNumberB = 0;	
 		bottomImagesViewsThisPage[imageNumberB]++;
 		// document.frames['bottombannerframe'].location.href = "http://www.247onlinenetwork.com/common/dynbottom_banner.php?src="+bottomImages[imageNumberB]+"&alttag="+bottomImagesALT[imageNumberB]+"&hrefurl="+bottomImagesURL[imageNumberB]+"&id="+bottomImagesID[imageNumberB]+"&v="+bottomImagesViewsThisPage[imageNumberB]+"&cityid="+bottomImagescityid[imageNumberB]+"&p="+bottomImagespage[imageNumberB]+"&f="+bottomImagesfeaturesid[imageNumberB]+"&c="+bottomImagescatid[imageNumberB]+"&b="+bottomImagesbusid[imageNumberB]+"&e="+bottomImageseventtype[imageNumberB];
-		swapfade(document.getElementById('bottombanner'), bottomImages[imageNumberB], '1', bottomImagesALT[imageNumberB])
+		swapfade(document.getElementById('bottombanner'), bottomImages[imageNumberB], '0', bottomImagesALT[imageNumberB])
 		currentImageDisplayedB = bottomImages[imageNumberB];
 	//use the setTimeout function to invoke the function after n milliseconds
 	setTimeout("rotateBottom();", bottomImagesInterval[imageNumberB]);
@@ -145,13 +145,13 @@ function rotateBottom() {
 
 function bottombannerclick()
 {
-	if(bottomImagesURL[imageNumberB].indexOf("247") != -1)
+	if(bottomImagesURL[imageNumberB].indexOf("247online") != -1)
 	{
 		window.location.href = bottomImagesURL[imageNumberB]; //+"&cityid=0";
 	}
 	else
 	{
-		window.location.href = bottomImagesURL[imageNumberB];
+		window.open(topImagesURL[imageNumber],'mywindow','toolbar=yes,location=yes,directories=yes,status=yes,menubar=yes,scrollbars=yes,copyhistory=yes,resizable=yes');
 	}
 }
 
@@ -169,7 +169,7 @@ function rotateTop() {
 		if (imageNumber > lastImageNumber) 
 			imageNumber = 0;	
 		topImagesViewsThisPage[imageNumber]++;
-		swapfade(document.getElementById('topbanner'), "http://www.247onlinenetwork.com/common/dyntop_banner.php?src="+topImages[imageNumber]+"&id="+topImagesID[imageNumber]+"&v="+topImagesViewsThisPage[imageNumber]+"&cityid="+topImagescityid[imageNumber]+"&p="+topImagespage[imageNumber]+"&f="+topImagesfeaturesid[imageNumber]+"&c="+topImagescatid[imageNumber]+"&b="+topImagesbusid[imageNumber]+"&e="+topImageseventtype[imageNumber], '1', topImagesALT[imageNumber]);
+		swapfade(document.getElementById('topbanner'), "http://www.247onlinenetwork.com/common/dyntop_banner.php?src="+topImages[imageNumber]+"&id="+topImagesID[imageNumber]+"&v="+topImagesViewsThisPage[imageNumber]+"&cityid="+topImagescityid[imageNumber]+"&p="+topImagespage[imageNumber]+"&f="+topImagesfeaturesid[imageNumber]+"&c="+topImagescatid[imageNumber]+"&b="+topImagesbusid[imageNumber]+"&e="+topImageseventtype[imageNumber], '0', topImagesALT[imageNumber]);
 		currentImageDisplayed = topImages[imageNumber];
 		
 		//document.getElementById('topbanner').src = "http://www.247onlinenetwork.com/common/dyntop_banner.php?src="+topImages[imageNumber]+"&id="+topImagesID[imageNumber]+"&v="+topImagesViewsThisPage[imageNumber]+"&cityid="+topImagescityid[imageNumber]+"&p="+topImagespage[imageNumber]+"&f="+topImagesfeaturesid[imageNumber]+"&c="+topImagescatid[imageNumber]+"&b="+topImagesbusid[imageNumber]+"&e="+topImageseventtype[imageNumber];
@@ -183,13 +183,14 @@ function rotateTop() {
 
 function topbannerclick()
 {
-	if(topImagesURL[imageNumber].indexOf("247") != -1)
+	if(topImagesURL[imageNumber].indexOf("247online") != -1)
 	{
 		window.location.href = topImagesURL[imageNumber]+"&cityid=0";
 	}
 	else
 	{
-		window.location.href = topImagesURL[imageNumber];
+		//window.location.href = topImagesURL[imageNumber];
+		window.open(topImagesURL[imageNumber],'mywindow','toolbar=yes,location=yes,directories=yes,status=yes,menubar=yes,scrollbars=yes,copyhistory=yes,resizable=yes');
 	}
 }
 
@@ -201,46 +202,21 @@ function mainmenu(url)
 //-->
 </script>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0" bgcolor="#CCFF99" width="100%">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td height="20" width="100%"></td></tr></tbody></table><div id="divHeader" style="position: absolute; left: 0px; top: 0px;"><table align="center" border="0" cellpadding="0" cellspacing="0" style="background:inherit " width="100%">
 <tbody><tr><td>
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="800" style="background:inherit ">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="800" class="headerfooter">
   <tbody><tr>
-    <td height="20" width="240" align="left" valign="top"><a href="http://www.247onlinenetwork.com/"><img src="http://www.247onlinenetwork.com/network_images/spacer-247-230x20.gif" border="0" vspace="0" alt="247onlineNetwork HOME"></a></td>
+    <td height="20" width="200" align="left" valign="top"><a href="http://www.247onlinenetwork.com/"><img src="http://www.247onlinenetwork.com/network_images/spacer-247-230x20.gif" border="0" vspace="0" alt="247onlineNetwork HOME"></a></td>
     <td align="left" valign="middle">
-	<div align="right">
+	<div align="left" style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px">
 	<a href="http://www.247onlinenetwork.com/sitemap.php?l=  Business and Event Directory&amp;cityid=0">Site Map</a>
 	&nbsp;&nbsp;&nbsp;
 	<a href="http://www.247onlinenetwork.com/contact_client.php?cityid=0" style="cursor:pointer ">Contact Us</a>
 	&nbsp;&nbsp;&nbsp;
-	<a href="http://www.247onlinenetwork.com/cityindex.php?cityid=0">HOME</a>
-	</div>
-	</td>
-    <td height="20" align="right">
-		</td>
-  </tr>
-</tbody></table>
-</td></tr></tbody></table>
-<table width="800" align="center" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" background="http://www.247onlinenetwork.com/network_images/header-800x125.jpg">
-  <tbody><tr>
-    <td align="center" height="125" width="175" valign="top" style="background:inherit ">&nbsp;
+	<a href="http://www.247onlinenetwork.com/cityindex.php?cityid=0">HOME</a></div></td>
+    <td height="20" align="center">
 	
-	</td>
-    <td colspan="2" align="left" valign="top" style="margin-top:0px; margin-right:0px; background-position: right; background-repeat:no-repeat " background="./common/citylogocontainer.php?citytxt=&amp;region=&amp;country=" nowrap="">
-	<div style="margin-left:0px; margin-top:0px; margin-bottom:0px; width:400px" align="left"><a href="http://www.247onlinenetwork.com/"><img border="0" vspace="0" hspace="0" src="http://www.247onlinenetwork.com/network_images/247_logo.gif" alt="247onlineNetwork LOGO"></a>
-	</div>
-	<div align="right" style="width:165px; float:right; margin-top:-60px; margin-right:10px">
-	<font style="font-size:12px; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF ">
-	<br>Thursday<br>December 22nd, 2005	
-	</font></div>
-	</td>
-      </tr>
-</tbody></table>
-<table width="800" align="center" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
-  <tbody><tr>
-    <td height="60" width="800" background="http://www.247onlinenetwork.com/network_images/bg-search-247-mag-800x65.gif" style="background-repeat:no-repeat " colspan="3" align="center" valign="top" class="bottomborder">
 	
-
-
 <script type="text/javascript">
 <!--
 var expandAdvancedState = false;
@@ -293,35 +269,77 @@ function checkEmptysrch()
  }
 }
 </script>
-
-
 <form name="frmSearch" action="http://www.247onlinenetwork.com/srch.php" method="POST" onsubmit="return(checkEmptysrch());">
   <input name="cityid" type="hidden" value="0">
   <input name="regionid" type="hidden" value="0">
   <input name="countryid" type="hidden" value="0">
   <input name="radiobutton" type="hidden" value="by City">
-<table width="795" height="60" border="0" cellpadding="0" cellspacing="0" align="left">
+<table height="10" border="0" cellpadding="0" cellspacing="0" align="left">
 <tbody><tr valign="top">
-<td height="51" colspan="4" align="center" valign="middle">&nbsp;
-  
-</td>
-<td width="417" height="51" align="right" valign="middle"><input style="margin-top:0px " name="searchString" size="57" value="">  &nbsp;</td>
-<td width="111" align="left" valign="middle">
-<input type="submit" value="SEARCH" style="background-color:#006699; font-weight:bold; font-size:12px; font-family:Arial; color:#00FFFF; height:20px ">
-</td>
+<td align="right" valign="middle">
+<input style="margin-top:0px;  font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px " name="searchString" size="20" value="">&nbsp;</td>
+<td align="left" valign="middle">
+<input type="submit" value="SEARCH" style="background-color:#006699; width:50px; font-weight:bold; font-size:10px; font-family:Arial; color:#00FFFF; height:18px "></td>
 </tr>
 </tbody></table>
 </form>
-
-    </td>
+		
+		</td>
+    <td align="right">	</td>
   </tr>
+</tbody></table>
+</td></tr></tbody></table>
+</div>	<script type="text/javascript">
+	var ns = (navigator.appName.indexOf("Netscape") != -1);
+	var d = document;
+	var px = document.layers ? "" : "px";
+	function ctnet_FloatDiv(id, sx, sy)
+	{
+		var el=d.getElementById?d.getElementById(id):d.all?d.all[id]:d.layers[id];
+		window[id + "_obj"] = el;
+		if(d.layers)el.style=el;
+		el.cx = el.sx = sx;el.cy = el.sy = sy;
+		el.sP=function(x,y){this.style.left=x+px;this.style.top=y+px;};
+		el.flt=function()
+		{
+			var pX, pY;
+			pX = (this.sx >= 0) ? 0 : ns ? innerWidth : 
+			document.documentElement && document.documentElement.clientWidth ? 
+			document.documentElement.clientWidth : document.body.clientWidth;
+			pY = ns ? pageYOffset : document.documentElement && document.documentElement.scrollTop ? 
+			document.documentElement.scrollTop : document.body.scrollTop;
+			if(this.sy<0) 
+			pY += ns ? innerHeight : document.documentElement && document.documentElement.clientHeight ? 
+			document.documentElement.clientHeight : document.body.clientHeight;
+			this.cx += (pX + this.sx - this.cx);this.cy += (pY + this.sy - this.cy);
+			this.sP(this.cx, this.cy);
+			setTimeout(this.id + "_obj.flt()", 5);
+		}
+		return el;
+	}
+	ctnet_FloatDiv("divHeader",       0,   0).flt();
+	<!-->ctnet_FloatDiv("divFooter", 	  0,   -19).flt(); -->
+	</script>
+<table width="800" align="center" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" background="http://www.247onlinenetwork.com/network_images/header-800x125.jpg" style="background-repeat:no-repeat">
+  <tbody><tr>
+    <td width="175" align="center" valign="top" style="background:inherit "></td>
+    <td height="125" colspan="2" align="left" valign="top" nowrap="" background="./common/citylogocontainer.php?citytxt=&amp;region=&amp;country=" style="margin-top:10px; margin-right:0px; background-position: right; background-repeat:no-repeat;">
+	<div style="margin:0px; width:400px" align="left"><a href="http://www.247onlinenetwork.com/"><img border="0" vspace="2" hspace="0" src="http://www.247onlinenetwork.com/network_images/247_logo.gif" alt="247onlineNetwork LOGO"></a>	</div>
+	<div align="right" style="width:165px; float:right; margin-top:-60px; margin-right:10px">
+	<font style="font-size:12px; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF ">
+	<br>Saturday<br>February 4th, 2006	
+	</font></div>	</td>
+      </tr>
     <tr>
     <td width="175" align="center" valign="top" class="left_column">
-	<div id="cont" align="left"> 
-			<img src="http://www.247onlinenetwork.com/network_images/tab-featured-communities.gif" alt="Click on a city name to go to the local city directory" border="0"><br>
+	  <br>	
+      <div id="cont" align="left"> 
+        			<img src="http://www.247onlinenetwork.com/network_images/tab-featured-communities.gif" alt="Click on a city name to go to the local city directory" border="0"><br>
 		&nbsp;&nbsp;<b>Canada:</b><br>
 &nbsp;&nbsp;&nbsp;<a href="http://www.247onlinenetwork.com/cityindex.php?l=athabasca alberta Community Business, Events and News Directory&amp;cityid=293"><font size="-1">Athabasca AB</font></a><br>
+&nbsp;&nbsp;&nbsp;<a href="http://www.247onlinenetwork.com/cityindex.php?l=banff alberta Community Business, Events and News Directory&amp;cityid=403"><font size="-1">Banff AB</font></a><br>
 &nbsp;&nbsp;&nbsp;<a href="http://www.247onlinenetwork.com/cityindex.php?l=calgary alberta Community Business, Events and News Directory&amp;cityid=117"><font size="-1">Calgary AB</font></a><br>
+&nbsp;&nbsp;&nbsp;<a href="http://www.247onlinenetwork.com/cityindex.php?l=drumheller alberta Community Business, Events and News Directory&amp;cityid=404"><font size="-1">Drumheller AB</font></a><br>
 &nbsp;&nbsp;&nbsp;<a href="http://www.247onlinenetwork.com/cityindex.php?l=edmonton alberta Community Business, Events and News Directory&amp;cityid=118"><font size="-1">Edmonton AB</font></a><br>
 &nbsp;&nbsp;&nbsp;<a href="http://www.247onlinenetwork.com/cityindex.php?l=fort mcmurray alberta Community Business, Events and News Directory&amp;cityid=381"><font size="-1">Fort McMurray AB</font></a><br>
 &nbsp;&nbsp;&nbsp;<a href="http://www.247onlinenetwork.com/cityindex.php?l=grande prairie alberta Community Business, Events and News Directory&amp;cityid=226"><font size="-1">Grande Prairie AB</font></a><br>
@@ -330,7 +348,9 @@ function checkEmptysrch()
 &nbsp;&nbsp;&nbsp;<a href="http://www.247onlinenetwork.com/cityindex.php?l=red deer alberta Community Business, Events and News Directory&amp;cityid=392"><font size="-1">Red Deer AB</font></a><br>
 &nbsp;&nbsp;&nbsp;<a href="http://www.247onlinenetwork.com/cityindex.php?l=rocky mountain house alberta Community Business, Events and News Directory&amp;cityid=288"><font size="-1">Rocky Mountain House AB</font></a><br>
 &nbsp;&nbsp;&nbsp;<a href="http://www.247onlinenetwork.com/cityindex.php?l=st. albert alberta Community Business, Events and News Directory&amp;cityid=273"><font size="-1">St. Albert AB</font></a><br>
+&nbsp;&nbsp;&nbsp;<a href="http://www.247onlinenetwork.com/cityindex.php?l=100 mile house british columbia Community Business, Events and News Directory&amp;cityid=401"><font size="-1">100 Mile House BC</font></a><br>
 &nbsp;&nbsp;&nbsp;<a href="http://www.247onlinenetwork.com/cityindex.php?l=abbotsford british columbia Community Business, Events and News Directory&amp;cityid=198"><font size="-1">Abbotsford BC</font></a><br>
+&nbsp;&nbsp;&nbsp;<a href="http://www.247onlinenetwork.com/cityindex.php?l=ahousat british columbia Community Business, Events and News Directory&amp;cityid=400"><font size="-1">Ahousat BC</font></a><br>
 &nbsp;&nbsp;&nbsp;<a href="http://www.247onlinenetwork.com/cityindex.php?l=barriere british columbia Community Business, Events and News Directory&amp;cityid=364"><font size="-1">Barriere BC</font></a><br>
 &nbsp;&nbsp;&nbsp;<a href="http://www.247onlinenetwork.com/cityindex.php?l=burnaby british columbia Community Business, Events and News Directory&amp;cityid=220"><font size="-1">Burnaby BC</font></a><br>
 &nbsp;&nbsp;&nbsp;<a href="http://www.247onlinenetwork.com/cityindex.php?l=chilliwack british columbia Community Business, Events and News Directory&amp;cityid=232"><font size="-1">Chilliwack BC</font></a><br>
@@ -343,6 +363,7 @@ function checkEmptysrch()
 &nbsp;&nbsp;&nbsp;<a href="http://www.247onlinenetwork.com/cityindex.php?l=fort nelson british columbia Community Business, Events and News Directory&amp;cityid=195"><font size="-1">Fort Nelson BC</font></a><br>
 &nbsp;&nbsp;&nbsp;<a href="http://www.247onlinenetwork.com/cityindex.php?l=kamloops british columbia Community Business, Events and News Directory&amp;cityid=200"><font size="-1">Kamloops BC</font></a><br>
 &nbsp;&nbsp;&nbsp;<a href="http://www.247onlinenetwork.com/cityindex.php?l=kelowna british columbia Community Business, Events and News Directory&amp;cityid=163"><font size="-1">Kelowna BC</font></a><br>
+&nbsp;&nbsp;&nbsp;<a href="http://www.247onlinenetwork.com/cityindex.php?l=kitimat british columbia Community Business, Events and News Directory&amp;cityid=402"><font size="-1">Kitimat BC</font></a><br>
 &nbsp;&nbsp;&nbsp;<a href="http://www.247onlinenetwork.com/cityindex.php?l=langley british columbia Community Business, Events and News Directory&amp;cityid=224"><font size="-1">Langley BC</font></a><br>
 &nbsp;&nbsp;&nbsp;<a href="http://www.247onlinenetwork.com/cityindex.php?l=maple ridge british columbia Community Business, Events and News Directory&amp;cityid=107"><font size="-1">Maple Ridge BC</font></a><br>
 &nbsp;&nbsp;&nbsp;<a href="http://www.247onlinenetwork.com/cityindex.php?l=nanaimo british columbia Community Business, Events and News Directory&amp;cityid=160"><font size="-1">Nanaimo BC</font></a><br>
@@ -510,8 +531,8 @@ function checkEmptysrch()
 &nbsp;&nbsp;&nbsp;<a href="http://www.247onlinenetwork.com/cityindex.php?l=sarnia ontario Community Business, Events and News Directory&amp;cityid=209"><font size="-1">Sarnia</font></a><br>
 &nbsp;&nbsp;&nbsp;<a href="http://www.247onlinenetwork.com/cityindex.php?l=sault ste. marie ontario Community Business, Events and News Directory&amp;cityid=206"><font size="-1">Sault Ste. Marie ON</font></a><br>
 &nbsp;&nbsp;&nbsp;<a href="http://www.247onlinenetwork.com/cityindex.php?l=scarborough ontario Community Business, Events and News Directory&amp;cityid=212"><font size="-1">Scarborough ON</font></a><br>
-&nbsp;&nbsp;&nbsp;<a href="http://www.247onlinenetwork.com/cityindex.php?l=simcoe ontario Community Business, Events and News Directory&amp;cityid=214"><font size="-1">Simcoe ON</font></a><br>
 &nbsp;&nbsp;&nbsp;<a href="http://www.247onlinenetwork.com/cityindex.php?l=simcoe ontario Community Business, Events and News Directory&amp;cityid=393"><font size="-1">Simcoe ON</font></a><br>
+&nbsp;&nbsp;&nbsp;<a href="http://www.247onlinenetwork.com/cityindex.php?l=simcoe ontario Community Business, Events and News Directory&amp;cityid=214"><font size="-1">Simcoe ON</font></a><br>
 &nbsp;&nbsp;&nbsp;<a href="http://www.247onlinenetwork.com/cityindex.php?l=smiths falls ontario Community Business, Events and News Directory&amp;cityid=102"><font size="-1">Smiths Falls ON</font></a><br>
 &nbsp;&nbsp;&nbsp;<a href="http://www.247onlinenetwork.com/cityindex.php?l=spencerville ontario Community Business, Events and News Directory&amp;cityid=377"><font size="-1">Spencerville ON</font></a><br>
 &nbsp;&nbsp;&nbsp;<a href="http://www.247onlinenetwork.com/cityindex.php?l=st catharines ontario Community Business, Events and News Directory&amp;cityid=33"><font size="-1">St Catharines ON</font></a><br>
@@ -562,6 +583,7 @@ function checkEmptysrch()
 &nbsp;&nbsp;&nbsp;<a href="http://www.247onlinenetwork.com/cityindex.php?l=sacramento california Community Business, Events and News Directory&amp;cityid=308"><font size="-1">Sacramento CA</font></a><br>
 &nbsp;&nbsp;&nbsp;<a href="http://www.247onlinenetwork.com/cityindex.php?l=san diego california Community Business, Events and News Directory&amp;cityid=303"><font size="-1">San Diego CA</font></a><br>
 &nbsp;&nbsp;&nbsp;<a href="http://www.247onlinenetwork.com/cityindex.php?l=san francisco california Community Business, Events and News Directory&amp;cityid=302"><font size="-1">San Francisco CA</font></a><br>
+&nbsp;&nbsp;&nbsp;<a href="http://www.247onlinenetwork.com/cityindex.php?l=san luis obispo california Community Business, Events and News Directory&amp;cityid=406"><font size="-1">San Luis Obispo CA</font></a><br>
 &nbsp;&nbsp;&nbsp;<a href="http://www.247onlinenetwork.com/cityindex.php?l=temple city california Community Business, Events and News Directory&amp;cityid=4"><font size="-1">Temple City CA</font></a><br>
 &nbsp;&nbsp;&nbsp;<a href="http://www.247onlinenetwork.com/cityindex.php?l=denver colorado Community Business, Events and News Directory&amp;cityid=122"><font size="-1">Denver CO</font></a><br>
 &nbsp;&nbsp;&nbsp;<a href="http://www.247onlinenetwork.com/cityindex.php?l=cocoa beach florida Community Business, Events and News Directory&amp;cityid=6"><font size="-1">Cocoa Beach FL</font></a><br>
@@ -586,6 +608,7 @@ function checkEmptysrch()
 &nbsp;&nbsp;&nbsp;<a href="http://www.247onlinenetwork.com/cityindex.php?l=kokomo indiana Community Business, Events and News Directory&amp;cityid=397"><font size="-1">Kokomo IN</font></a><br>
 &nbsp;&nbsp;&nbsp;<a href="http://www.247onlinenetwork.com/cityindex.php?l=south bend indiana Community Business, Events and News Directory&amp;cityid=396"><font size="-1">South Bend IN</font></a><br>
 &nbsp;&nbsp;&nbsp;<a href="http://www.247onlinenetwork.com/cityindex.php?l=new orleans louisiana Community Business, Events and News Directory&amp;cityid=105"><font size="-1">New Orleans LA</font></a><br>
+&nbsp;&nbsp;&nbsp;<a href="http://www.247onlinenetwork.com/cityindex.php?l=boston massachusetts Community Business, Events and News Directory&amp;cityid=405"><font size="-1">Boston MA</font></a><br>
 &nbsp;&nbsp;&nbsp;<a href="http://www.247onlinenetwork.com/cityindex.php?l=bangor maine Community Business, Events and News Directory&amp;cityid=320"><font size="-1">Bangor ME</font></a><br>
 &nbsp;&nbsp;&nbsp;<a href="http://www.247onlinenetwork.com/cityindex.php?l=portland maine Community Business, Events and News Directory&amp;cityid=356"><font size="-1">Portland ME</font></a><br>
 &nbsp;&nbsp;&nbsp;<a href="http://www.247onlinenetwork.com/cityindex.php?l=albany new york Community Business, Events and News Directory&amp;cityid=306"><font size="-1">Albany NY</font></a><br>
@@ -628,54 +651,59 @@ function checkEmptysrch()
 &nbsp;&nbsp;&nbsp;<a href="http://www.247onlinenetwork.com/cityindex.php?l=seattle washington Community Business, Events and News Directory&amp;cityid=127"><font size="-1">Seattle WA</font></a><br>
 &nbsp;&nbsp;&nbsp;<a href="http://www.247onlinenetwork.com/cityindex.php?l=spokane washington Community Business, Events and News Directory&amp;cityid=330"><font size="-1">Spokane WA</font></a><br>
 &nbsp;&nbsp;&nbsp;<a href="http://www.247onlinenetwork.com/cityindex.php?l=green bay wisconsin Community Business, Events and News Directory&amp;cityid=333"><font size="-1">Green Bay WI</font></a><br>
+&nbsp;&nbsp;&nbsp;<a href="http://www.247onlinenetwork.com/cityindex.php?l=milwaukee wisconsin Community Business, Events and News Directory&amp;cityid=399"><font size="-1">Milwaukee WI</font></a><br>
 &nbsp;&nbsp;&nbsp;<a href="http://www.247onlinenetwork.com/cityindex.php?l=wheeling west virgina Community Business, Events and News Directory&amp;cityid=332"><font size="-1">Wheeling WV</font></a><br>
 &nbsp;&nbsp;&nbsp;<a href="http://www.247onlinenetwork.com/cityindex.php?l=cheyenne wyoming Community Business, Events and News Directory&amp;cityid=334"><font size="-1">Cheyenne WY</font></a><br>
-<br>	</div>
-    </td>
+<br>      </div>
+      		<hr><strong>
+        		</strong> 
+	        <div align="left" style=" margin-left:5px; margin-right:5px; margin-top:5px">
+<table cellspacing="0" cellpadding="0" border="0">
+<tbody><tr>
+	<td style="width:8px; height:8px; background : url(http://www.247onlinenetwork.com/phpMyBorderCache/1_FFFFFF000000_8_1_1.gif);"></td>
+	<td style="background-image:url(http://www.247onlinenetwork.com/phpMyBorderCache/1_FFFFFF000000_8_1_2.gif); background-repeat:repeat-x;"></td>
+	<td style="width:8px; height:8px; background-image: url(http://www.247onlinenetwork.com/phpMyBorderCache/1_FFFFFF000000_8_1_3.gif);"></td>
+</tr>
+<tr>
+	<td style="background-image:url(http://www.247onlinenetwork.com/phpMyBorderCache/1_FFFFFF000000_8_1_4.gif); background-repeat:repeat-y ;"></td>
+	<td style="background: #FFFFFF;">
+        <p><font size="3"><font size="5">T</font>his <font size="4"><em><font size="3"><strong>24</strong></font><font color="#ff0000">7</font><font size="2">onlineNetwork</font></em></font> community website needs you!!!</font></p>
+    <p><font size="3">The <em><font size="4"><font size="3"><strong>24</strong></font><font color="#ff0000">7</font></font><font size="2">onlineNetwork</font></em> provides an 
+      excellent opportunity to create a&nbsp;career or a supplemental&nbsp;income with 
+      a fun and rewarding job that you control.</font></p>
+    <p><font size="3">With all the tools provided by the<br>
+      <em><font size="4"><font size="3"><strong>24</strong></font><font color="#ff0000">7</font></font><font size="2">onlineNetwork<font size="3">,</font></font></em> it is 
+      easy to generate revenue and best of all, you keep the cash!</font></p>
+    <p><font size="3">Contact the<br><em><font size="4"><font size="3"><strong>24</strong></font><font color="#ff0000">7</font></font><font size="2">onlineNetwork</font></em> by </font><a href="http://www.247onlinenetwork.com/contact_client.php?cityid=0&amp;view=input&amp;topic=1"><font size="3">CLICKING HERE</font></a><font size="3"> and <b><i>start taking 
+      control!</i></b></font></p>    
+    	</td>
+	<td style="background-image:url(http://www.247onlinenetwork.com/phpMyBorderCache/1_FFFFFF000000_8_1_6.gif); background-repeat:repeat-y;"></td>
+</tr>
+<tr>
+	<td style="width:8px; height:8px; background-image: url(http://www.247onlinenetwork.com/phpMyBorderCache/1_FFFFFF000000_8_1_7.gif);"></td>
+	<td style="background-image:url(http://www.247onlinenetwork.com/phpMyBorderCache/1_FFFFFF000000_8_1_8.gif); background-repeat:repeat-x;"></td>
+	<td style="width:8px; height:8px; background-image: url(http://www.247onlinenetwork.com/phpMyBorderCache/1_FFFFFF000000_8_1_9.gif);"></td>
+</tr>
+</tbody></table>
+
+</div>      
+	</td>
     <td height="60" align="center" valign="top" bgcolor="#FFFFFF" class="topborder">
 		<table border="0" cellpadding="0" cellspacing="0" width="100%">
 		<tbody><tr>
-		<td valign="top">
-	<script language="JavaScript">topImages = new Array("http://www.247onlinenetwork.com/ADMINII/users/1/images/banner/hargreaves.jpg","http://www.247onlinenetwork.com/ADMINII/users/1/images/banner/jutta-banner.gif","http://www.247onlinenetwork.com/ADMINII/users/2/images/banner/ebj1b.gif","http://www.247onlinenetwork.com/ADMINII/users/2/images/banner/hottubs-franchise-3a.gif","http://www.247onlinenetwork.com/ADMINII/users/2/images/banner/banner-wicms-fire-it.gif","http://www.247onlinenetwork.com/ADMINII/users/1/images/banner/Linkeze.gif");topImagesInterval = new Array("7000","7000","10000","5000","10000","8000");topImagesURL = new Array("http://www.247onlinenetwork.com/csb.php?bovr=4866","http://www.247onlinenetwork.com/csb.php?bovr=8014","HTTP://www.ebj.ca","http://www.247onlinenetwork.com/spotlight.php?busid=4682","http://www.247onlinenetwork.com/spotlight.php?busid=4560","http://www.247onlinenetwork.com/csb.php?bovr=8532");topImagesALT = new Array("Hargreaves Photography - Sports, Team and Family  Photograohy","CLICK FOR LATEST SALES INFO","click here for website","Hot Tubs For Rent - Hot Tub Rentals - Franchise Opportunity on 247onlineNetwork.com - your best online resource for Business, Community Events and News","click here - Now you can update your website with a simple click of your mouse. No waiting for webmasters, no costly delays or extra fees when you want to make a change to your website.","Promotional Apparel & Products");topImagesID = new Array("303","307","292","298","301","311");topImagespage = new Array("privacy","privacy","privacy","privacy","privacy","privacy");topImagescityid = new Array("0","0","0","0","0","0");topImagesfeaturesid = new Array("-1","-1","-1","-1","-1","-1");topImagescatid = new Array("-1","-1","-1","-1","-1","-1");topImagesbusid = new Array("-1","-1","-1","-1","-1","-1");topImageseventtype = new Array("-1","-1","-1","-1","-1","-1");topImagesViewsThisPage = new Array("1","0","0","0","0","0");var imageNumber = 0;var lastImageNumber = 6;var currentImageDisplayed="http://www.247onlinenetwork.com/ADMINII/users/1/images/banner/hargreaves.jpg";var imageInterval="7000";var currenturl="http://www.247onlinenetwork.com/csb.php?bovr=4866";var currentalttag="Hargreaves Photography - Sports, Team and Family  Photograohy";</script><img vspace="0" id="topbanner" name="topbanner" src="http://www.247onlinenetwork.com/ADMINII/users/1/images/banner/hargreaves.jpg" alt="Hargreaves Photography - Sports, Team and Family  Photograohy" height="60" border="0" width="468" onclick="javascript: topbannerclick();" style="cursor: pointer ">
+		<td align="center" valign="top" height="80" background="http://www.247onlinenetwork.com/network_images/banner-frame-488x80.gif" style="background-repeat:no-repeat; background-position:center">
+	<script language="JavaScript">topImages = new Array("http://www.247onlinenetwork.com/ADMINII/users/1/images/banner/4_rooms_free.gif","http://www.247onlinenetwork.com/ADMINII/users/1/images/banner/201_120_90.gif","http://www.247onlinenetwork.com/ADMINII/users/1/images/banner/cellularfactory.gif","http://www.247onlinenetwork.com/ADMINII/users/1/images/banner/468x60petsmart.gif","http://www.247onlinenetwork.com/ADMINII/users/1/images/banner/468x60_jan002_val.jpg","http://www.247onlinenetwork.com/ADMINII/users/2/images/banner/ebj1b.gif","http://www.247onlinenetwork.com/ADMINII/users/2/images/banner/hottubs-franchise-3a.gif","http://www.247onlinenetwork.com/ADMINII/users/1/images/banner/Linkeze.gif","http://www.247onlinenetwork.com/ADMINII/users/1/images/banner/hargreaves.jpg","http://www.247onlinenetwork.com/ADMINII/users/2/images/banner/banner-wicms-fire-it.gif","http://www.247onlinenetwork.com/ADMINII/users/1/images/banner/jutta-banner.gif");topImagesInterval = new Array("7000","6000","10000","7000","5000","10000","5000","8000","7000","10000","7000");topImagesURL = new Array("http://click.linksynergy.com/fs-bin/stat?id=zyfmYAfJI2U&offerid=97494.10000008&type=4&subid=0","http://click.linksynergy.com/fs-bin/stat?id=zyfmYAfJI2U&offerid=55640.10000006&type=4&subid=0","http://store.cellularfactory.com/247/","http://click.linksynergy.com/fs-bin/click?id=zyfmYAfJI2U&offerid=86036.10000002&type=4&subid=0","http://click.linksynergy.com/fs-bin/click?id=zyfmYAfJI2U&offerid=90206.10000114&type=4&subid=0","HTTP://www.ebj.ca","http://www.247onlinenetwork.com/spotlight.php?busid=4682","http://www.247onlinenetwork.com/csb.php?bovr=8532","http://www.247onlinenetwork.com/csb.php?bovr=4866","http://www.247onlinenetwork.com/spotlight.php?busid=4560","http://www.247onlinenetwork.com/csb.php?bovr=8014");topImagesALT = new Array("DISH Network Products","DISCOUNTFARES.com - LOW AIRFARES","Order your cellphone and accessories from CellularFactory/247","Special offer","Jewelery Auction","click here for website","Hot Tubs For Rent - Hot Tub Rentals - Franchise Opportunity on 247onlineNetwork.com - your best online resource for Business, Community Events and News","Promotional Apparel & Promotional Products","Hargreaves Photography - Sports, Team and Family  Photograohy","click here - Now you can update your website with a simple click of your mouse. No waiting for webmasters, no costly delays or extra fees when you want to make a change to your website.","CLICK FOR LATEST SALES INFO");topImagesID = new Array("315","317","316","318","319","292","298","311","303","301","307");topImagespage = new Array("privacy","privacy","privacy","privacy","privacy","privacy","privacy","privacy","privacy","privacy","privacy");topImagescityid = new Array("0","0","0","0","0","0","0","0","0","0","0");topImagesfeaturesid = new Array("-1","-1","-1","-1","-1","-1","-1","-1","-1","-1","-1");topImagescatid = new Array("-1","-1","-1","-1","-1","-1","-1","-1","-1","-1","-1");topImagesbusid = new Array("-1","-1","-1","-1","-1","-1","-1","-1","-1","-1","-1");topImageseventtype = new Array("-1","-1","-1","-1","-1","-1","-1","-1","-1","-1","-1");topImagesViewsThisPage = new Array("1","0","0","0","0","0","0","0","0","0","0");var imageNumber = 0;var lastImageNumber = 11;var currentImageDisplayed="http://www.247onlinenetwork.com/ADMINII/users/1/images/banner/4_rooms_free.gif";var imageInterval="7000";var currenturl="http://click.linksynergy.com/fs-bin/stat?id=zyfmYAfJI2U&offerid=97494.10000008&type=4&subid=0";var currentalttag="DISH Network Products";</script><img vspace="10" id="topbanner" name="topbanner" src="http://www.247onlinenetwork.com/ADMINII/users/1/images/banner/4_rooms_free.gif" alt="DISH Network Products" height="60" border="0" width="468" onclick="javascript: topbannerclick();" style="cursor: pointer; ">
         <script language="javascript" type="text/javascript">
 						//invoke the rotate function
 						 rotateTop();			
 						//  End -->				
-				</script>
-    </td></tr>
-  <tr>
-    <td height="15" align="center" valign="top" bgcolor="#FFFFFF">
-		
-<table cellspacing="0" cellpadding="0" border="0">
-<tbody><tr>
-	<td style="width:5px; height:5px; background : url(http://www.247onlinenetwork.com/phpMyBorderCache/1_00B0FF000000_5_1_1.gif);"></td>
-	<td style="background-image:url(http://www.247onlinenetwork.com/phpMyBorderCache/1_00B0FF000000_5_1_2.gif); background-repeat:repeat-x;"></td>
-	<td style="width:5px; height:5px; background-image: url(http://www.247onlinenetwork.com/phpMyBorderCache/1_00B0FF000000_5_1_3.gif);"></td>
-</tr>
-<tr>
-	<td style="background-image:url(http://www.247onlinenetwork.com/phpMyBorderCache/1_00B0FF000000_5_1_4.gif); background-repeat:repeat-y ;"></td>
-	<td style="background: #00B0FF;">
-		<table cellpadding="0" cellspacing="0" border="0" width="455"><tbody><tr><td valign="bottom">
-		<div align="center" style="height:15px; font-size:10px "> <strong>
-        		</strong> </div>
-		 </td></tr></tbody></table>
-			</td>
-	<td style="background-image:url(http://www.247onlinenetwork.com/phpMyBorderCache/1_00B0FF000000_5_1_6.gif); background-repeat:repeat-y;"></td>
-</tr>
-<tr>
-	<td style="width:5px; height:5px; background-image: url(http://www.247onlinenetwork.com/phpMyBorderCache/1_00B0FF000000_5_1_7.gif);"></td>
-	<td style="background-image:url(http://www.247onlinenetwork.com/phpMyBorderCache/1_00B0FF000000_5_1_8.gif); background-repeat:repeat-x;"></td>
-	<td style="width:5px; height:5px; background-image: url(http://www.247onlinenetwork.com/phpMyBorderCache/1_00B0FF000000_5_1_9.gif);"></td>
-</tr>
-</tbody></table>
-
- </td>
-  </tr>
+				</script>    </td></tr>
+  
   <tr>
     <td height="10" align="left" valign="top" bgcolor="#FFFFFF">
 	<table bgcolor="#FFFFFF" border="0" cellpadding="0" cellspacing="0" align="center">
         <tbody><tr>
-          <td valign="top" width="475" bgcolor="#FFFFFF"><table border="0" height="0" align="center">
+          <td valign="top" width="500" bgcolor="#FFFFFF"><table border="0" height="0" align="center">
                 <tbody><tr> 
                   <td width="397" height="379" valign="top"><div align="center">
             <table border="0" height="605">
@@ -713,12 +741,11 @@ function checkEmptysrch()
     </tbody></table></td>
   </tr>
   <tr>
-    <td height="60" align="center" valign="top" bgcolor="#FFFFFF"><script language="JavaScript">bottomImages = new Array("http://www.247onlinenetwork.com/network_images/sales-agents-wanted468x.gif","http://www.247onlinenetwork.com/ADMINII/users/1/images/banner/ctnet_1.gif");bottomImagesInterval = new Array("5000","5000");bottomImagesURL = new Array("http://www.247onlinenetwork.com","http://www.247onlinenetwork.com");bottomImagesALT = new Array("Business Opportunities","Business Opportunities");bottomImagesID = new Array("2","3");bottomImagespage = new Array("privacy","privacy");bottomImagescityid = new Array("0","0");bottomImagesfeaturesid = new Array("-1","-1");bottomImagescatid = new Array("-1","-1");bottomImagesbusid = new Array("-1","-1");bottomImageseventtype = new Array("-1","-1");bottomImagesViewsThisPage = new Array("1","0");var imageNumberB = 0;var lastImageNumberB = 2;var currentImageDisplayedB="http://www.247onlinenetwork.com/network_images/sales-agents-wanted468x.gif";var imageIntervalB="5000";var currenturlB="http://www.247onlinenetwork.com";var currentalttagB="Business Opportunities";</script><img id="bottombanner" name="bottombanner" src="http://www.247onlinenetwork.com/network_images/sales-agents-wanted468x.gif" alt="Business Opportunities" height="60" border="0" width="468" onclick="javascript: bottombannerclick();" style="cursor: pointer ">        <script language="JavaScript">
+    <td height="80" align="center" valign="top" background="http://www.247onlinenetwork.com/network_images/banner-frame-488x80.gif" style="background-repeat:no-repeat; background-position:center"><script language="JavaScript">bottomImages = new Array("http://www.247onlinenetwork.com/network_images/sales-agents-wanted468x.gif","http://www.247onlinenetwork.com/ADMINII/users/1/images/banner/ctnet_1.gif");bottomImagesInterval = new Array("5000","5000");bottomImagesURL = new Array("http://www.247onlinenetwork.com","http://www.247onlinenetwork.com");bottomImagesALT = new Array("Business Opportunities","Business Opportunities");bottomImagesID = new Array("2","3");bottomImagespage = new Array("privacy","privacy");bottomImagescityid = new Array("0","0");bottomImagesfeaturesid = new Array("-1","-1");bottomImagescatid = new Array("-1","-1");bottomImagesbusid = new Array("-1","-1");bottomImageseventtype = new Array("-1","-1");bottomImagesViewsThisPage = new Array("1","0");var imageNumberB = 0;var lastImageNumberB = 2;var currentImageDisplayedB="http://www.247onlinenetwork.com/network_images/sales-agents-wanted468x.gif";var imageIntervalB="5000";var currenturlB="http://www.247onlinenetwork.com";var currentalttagB="Business Opportunities";</script><img vspace="10" id="bottombanner" name="bottombanner" src="http://www.247onlinenetwork.com/network_images/sales-agents-wanted468x.gif" alt="Business Opportunities" height="60" border="0" width="468" onclick="javascript: bottombannerclick();" style="cursor: pointer ">        <script language="JavaScript">
 						//invoke the rotate functions
 						rotateBottom();	
 						//  End -->				
-				</script>
-    </td>
+				</script>    </td>
   </tr>
   <tr>
     <td height="20" align="center" valign="top" bgcolor="#FFFFFF"><font face="Verdana, Arial, Helvetica, sans-serif" size="-2">
@@ -740,7 +767,7 @@ function checkEmptysrch()
     <font face="Verdana, Arial, Helvetica, sans-serif" size="-2" color="#FF0000"><b>Today's Quote</b></font><br>
 	<table align="center" cellpadding="0" cellspacing="0" border="0">
 	<tbody><tr><td align="center" width="460"><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><b>
-The participant's perspectives are clouded while the bystander's views are clear.<br> -|- Chinese Proverb<br></b></font>
+Suburbia:  Where the developer bulldozes out the trees and then names the streets after them.<br> -|- Bill Vaughn<br></b></font>
 	</td></tr>
 	</tbody></table>
   <br>
@@ -762,50 +789,35 @@ or in part of the contents of this Web site are strictly prohibited without the 
  </tbody></table>
  </font> </td>
   </tr>
-	</tbody></table>
-	</td>
-    <td align="center" valign="top" width="150" class="right_column">
-	<table border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td align="center" bgcolor="#FFFFFF"><img src="http://www.247onlinenetwork.com/network_images/tab-feature-business-rh-2.gif"></td>
-  </tr>
-  <tr>
-    <td width="148" align="center" valign="middle">
-      <table border="0" cellspacing="0" cellpadding="4">
-        <tbody><tr>
-          <td width="100%" align="center" wrap=""><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#0000FF"><a href="http://www.247onlinenetwork.com/spotlight.php?business=&#9;  &#9;&#9;247onlinenetwork&#9;&#9;&amp;cityid=0&amp;busid=4556&amp;ct=1&amp;bt=5&amp;bid=0"><font color="#0000FF"><b>	  		247onlineNetwork		</b></font></a></font></td>
-        </tr>
-      </tbody></table>
-      </td>
-  </tr>
-</tbody></table>
-<table align="center" border="0" cellpadding="0" cellspacing="0" style="background:inherit ">
+	</tbody></table>	</td>
+    <td align="center" valign="top" width="122" class="right_column">
+	<table align="center" border="0" cellpadding="0" cellspacing="0" style="background:inherit ">
   <tbody><tr>   
 	<td width="100%">
 		<div align="center">
-		<hr>
-<a target="_parent" href="http://www.247onlinenetwork.com/freelisting.php?cityid=0"><img src="http://www.247onlinenetwork.com/network_images/city_target1.gif" width="120" border="0"></a><hr>		</div>
+<a target="blank" href="http://click.linksynergy.com/fs-bin/click?id=zyfmYAfJI2U&amp;offerid=56689.10000135&amp;subid=0&amp;type=4"><img src="http://www.247onlinenetwork.com/ADMINII/users/1/images/targetad/lavalife.GIF" alt="Meet Singles" width="120" border="0"></a><hr><a target="blank" href="http://click.linksynergy.com/fs-bin/click?id=zyfmYAfJI2U&amp;offerid=50887.10000005&amp;type=4&amp;subid=0"><img src="http://www.247onlinenetwork.com/ADMINII/users/1/images/targetad/netmagazines.gif" alt="Magazine Subscriptions from NetMagazines.com" width="120" border="0"></a><hr><a target="blank" href="http://click.linksynergy.com/fs-bin/click?id=zyfmYAfJI2U&amp;offerid=99185.10000004&amp;type=4&amp;subid=0"><img src="http://www.247onlinenetwork.com/ADMINII/users/1/images/targetad/18004memory_wearealways.gif" alt="18004MEMORY.COM" width="120" border="0"></a><hr><a target="_parent" href="http://www.247onlinenetwork.com/freelisting.php?cityid=0"><img src="http://www.247onlinenetwork.com/network_images/city_target4.gif" width="120" border="0"></a><hr>		</div>
 	</td>	
   </tr>
 </tbody></table>    </td>
   </tr>
   </tbody></table>
-<table align="center" border="0" cellpadding="0" cellspacing="0" bgcolor="#CCFF99" width="100%">
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="background:inherit " width="100%">
 <tbody><tr><td>
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="800" style="background:inherit ">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="800" class="headerfooter">
   <tbody><tr>
-    <td height="20" width="240" align="left" valign="top"><a href="http://www.247onlinenetwork.com/"><img src="http://www.247onlinenetwork.com/network_images/spacer-247-230x20.gif" border="0" vspace="0" alt="247onlineNetwork HOME"></a></td>
+    <td height="20" width="200" align="left" valign="top"><a href="http://www.247onlinenetwork.com/"><img src="http://www.247onlinenetwork.com/network_images/spacer-247-230x20.gif" border="0" vspace="0" alt="247onlineNetwork HOME"></a></td>
     <td align="left" valign="middle">
-	<div align="right">
+	<div align="left" style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px">
 	<a href="http://www.247onlinenetwork.com/sitemap.php?l=  Business and Event Directory&amp;cityid=0">Site Map</a>
 	&nbsp;&nbsp;&nbsp;
 	<a href="http://www.247onlinenetwork.com/contact_client.php?cityid=0" style="cursor:pointer ">Contact Us</a>
 	&nbsp;&nbsp;&nbsp;
-	<a href="http://www.247onlinenetwork.com/cityindex.php?cityid=0">HOME</a>
-	</div>
-	</td>
-    <td height="20" align="right">
+	<a href="http://www.247onlinenetwork.com/cityindex.php?cityid=0">HOME</a></div></td>
+    <td height="20" align="center">
+	
+			
 		</td>
+    <td align="right">	</td>
   </tr>
 </tbody></table>
 </td></tr></tbody></table>
