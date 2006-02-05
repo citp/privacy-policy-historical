@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commissionsoup.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212155455id_/http%3A//www.commissionsoup.com/publicHTML/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commissionsoup.com privacy policy that was archived on 2006-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060205224117id_/http%3A//commissionsoup.com/publicHTML/privacy.aspx) for the most accurate reproduction.*
 
 # CommissionSoup Privacy Policy
 
@@ -56,4 +56,4 @@ CommissionSoup
 Madison, SD. 57042  
 or contact us
 
-©2005 CommissionSoup
+©2006 CommissionSoup
