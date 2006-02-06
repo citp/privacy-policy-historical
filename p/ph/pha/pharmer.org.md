@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pharmer.org privacy policy that was archived on 2005-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051016213937id_/http%3A//www.pharmer.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmer.org privacy policy that was archived on 2006-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060206214953id_/http%3A//www.pharmer.org/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Pharmer.org -- Pill Identification Resources
 
@@ -24,4 +24,4 @@ You may participate in public forums on our website. Any information you make av
 **Contact Us**  
 If you have questions about this Privacy Statement, its implementation, or our practices, please contact us at admin@pharmer.org.
 
-340 reads
+720 reads
