@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voxtelecom.co.za privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216033237id_/http%3A//www.voxtelecom.co.za/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voxtelecom.co.za privacy policy that was archived on 2006-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060206190630id_/http%3A//www.voxtelecom.co.za/about/privacy.htm) for the most accurate reproduction.*
 
 # VOXTelecom -- Customer Zone
 
