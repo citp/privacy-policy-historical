@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mercatus.org privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210164423id_/http%3A//mercatus.org/subcategory.php/88.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercatus.org privacy policy that was archived on 2006-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060206101429id_/http%3A//mercatus.org/subcategory.php/88.html) for the most accurate reproduction.*
 
 # Mercatus Center - Privacy Policy
 
