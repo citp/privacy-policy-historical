@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rpdata.net.au privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221034007id_/http%3A//www.rpdata.net.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rpdata.net.au privacy policy that was archived on 2006-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060206185956id_/http%3A//rpdata.net.au/privacy.htm) for the most accurate reproduction.*
 
 # Real Estate For Sale - RP Data Australia
 
@@ -48,4 +48,4 @@ This information relates to our current privacy standards. We may vary our priva
 
 **Feedback**
 
-If you have any comments or suggestions regarding our website or this privacy statement please email us at [privacy@rpdata.com](mailto:privacy@rpdata.com) or [click here](https://web.archive.org/web/20051221034007id_/http%3A//www.rpdata.net.au/contact.htm)
+If you have any comments or suggestions regarding our website or this privacy statement please email us at [privacy@rpdata.com](mailto:privacy@rpdata.com) or [click here](https://web.archive.org/web/20060206185956id_/http%3A//rpdata.net.au/contact.htm)
