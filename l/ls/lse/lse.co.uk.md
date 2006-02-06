@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lse.co.uk privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218104211id_/http%3A//lse.co.uk/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lse.co.uk privacy policy that was archived on 2006-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060206092354id_/http%3A//lse.co.uk/Privacy.asp) for the most accurate reproduction.*
 
 # Life Style Extra
 
