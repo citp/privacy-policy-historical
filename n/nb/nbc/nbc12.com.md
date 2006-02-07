@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nbc12.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225053450id_/http%3A//www.nbc12.com/servlet/Satellite%3Fpagename%3DWWBT/Page/WBT_ContentPage%26c%3DPage%26cid%3D1059969234860) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbc12.com privacy policy that was archived on 2006-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060207061247id_/http%3A//www.nbc12.com/servlet/Satellite%3Fpagename%3DWWBT/Page/WBT_ContentPage%26c%3DPage%26cid%3D1059969234860) for the most accurate reproduction.*
 
 # NBC12 Online | Privacy Policy
 
