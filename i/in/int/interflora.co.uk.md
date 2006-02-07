@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interflora.co.uk privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210192439id_/http%3A//www.interflora.co.uk/page.xml%3Fpage_name%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interflora.co.uk privacy policy that was archived on 2006-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060207075553id_/http%3A//www.interflora.co.uk/page.xml%3Fpage_name%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
