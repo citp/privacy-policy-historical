@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truthforlife.org privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404022244id_/http%3A//www.truthforlife.org/TFL_Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truthforlife.org privacy policy that was archived on 2006-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060207073523id_/http%3A//www.truthforlife.org/download/TFL_Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
