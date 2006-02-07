@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fccj.edu privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220185645id_/http%3A//www.fccj.edu/current/stucomputing/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fccj.edu privacy policy that was archived on 2006-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060207124621id_/http%3A//fccj.edu/current/stucomputing/privacypolicy.html) for the most accurate reproduction.*
 
 # student computing services
 
