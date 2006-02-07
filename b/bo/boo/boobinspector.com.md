@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boobinspector.com privacy policy that was archived on 2005-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051123131700id_/http%3A//www.boobinspector.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boobinspector.com privacy policy that was archived on 2006-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060207031856id_/http%3A//www.boobinspector.com/privacy.html) for the most accurate reproduction.*
 
 # HOH Limited Privacy Policy Statement
 
