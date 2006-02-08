@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goape.co.uk privacy policy that was archived on 2005-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051102213302id_/http%3A//www.goape.co.uk/Page.asp%3FM%3D1%26Page%3D57) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goape.co.uk privacy policy that was archived on 2006-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060208162446id_/http%3A//www.goape.co.uk/Page.asp%3FM%3D1%26Page%3D57) for the most accurate reproduction.*
 
 # Go Ape high ropes forest adventure course, challenging corporate groups, families, friends and schools
 
