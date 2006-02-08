@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the budget.com.au privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229191659id_/http%3A//www.budget.com.au/about_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budget.com.au privacy policy that was archived on 2006-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060208133205id_/http%3A//www.budget.com.au/about_privacy.php) for the most accurate reproduction.*
 
 # Budget Australia >> Privacy Policy
 
-Budget Rent a Car Australia Pty Ltd Privacy PolicyWe at Budget Rent a Car Australia recognize the importance of protecting your personal information. The Commonwealth Privacy Act 1988 (Privacy Act) regulates the handling of personal information (for example, name and address details) by Australian private sector organisations. This policy explains how Budget Rent a Car Australia protects your privacy and summarises how we collect, use and disclose personal information that you might provide us. When you make an application to use our service, you consent to us using and disclosing your personal information consistent with this policy. Please refer to the section in this policy titled �What you consent and agree to�. This policy is applicable to personal information that we hold about you in Australia. Because the Budget Rent a Car Group (as to which see below) operates a vehicle rental system in many countries, your personal information will also be held in and accessible by Budget Rent a Car Group staff or franchise and licensee operators located in other countries. This privacy policy does not apply to information held by the Budget Rent a Car Group outside Australia. Some of the countries that the Budget Rent a Car Group operates in have privacy or data protection laws for private sector organisations similar to the law in Australia, other countries that the Budget Rent a Car Group operates in do not. In this policy we also explain how you can contact us if you have a query about any personal information that Budget Rent a Car Australia may be holding about you. We recommend that you take the time to read this privacy policy and retain it for future reference. 
+Budget Rent a Car Australia Pty Ltd Privacy PolicyWe at Budget Rent a Car Australia recognize the importance of protecting your personal information. The Commonwealth Privacy Act 1988 (Privacy Act) regulates the handling of personal information (for example, name and address details) by Australian private sector organisations. This policy explains how Budget Rent a Car Australia protects your privacy and summarises how we collect, use and disclose personal information that you might provide us. When you make an application to use our service, you consent to us using and disclosing your personal information consistent with this policy. Please refer to the section in this policy titled "What you consent and agree to". This policy is applicable to personal information that we hold about you in Australia. Because the Budget Rent a Car Group (as to which see below) operates a vehicle rental system in many countries, your personal information will also be held in and accessible by Budget Rent a Car Group staff or franchise and licensee operators located in other countries. This privacy policy does not apply to information held by the Budget Rent a Car Group outside Australia. Some of the countries that the Budget Rent a Car Group operates in have privacy or data protection laws for private sector organisations similar to the law in Australia, other countries that the Budget Rent a Car Group operates in do not. In this policy we also explain how you can contact us if you have a query about any personal information that Budget Rent a Car Australia may be holding about you. We recommend that you take the time to read this privacy policy and retain it for future reference. 
 
 * * *
 
 About the Budget Rent a Car Group
 
-�Budget Rent a Car� is the trading name of Budget Rent a Car Australia Pty Limited ABN 89 007 348 021 which is a subsidiary of Budget Rent a Car System, Inc. and a member of the family of companies whose ultimate owner is Cendant Corporation (Cendant), located in the United States. Budget Rent a Car System, Inc., its subsidiaries and related companies operate one of the world�s best known general-use car and truck rental companies, with over 1,800 locations in the United States, Canada, Latin America, Caribbean, Australia and New Zealand. Budget Rent a Car System, Inc. has marketing arrangements with Zodiac Europe Limited, a separately owned UK-based company trading as Budget Rent a Car through owning or franchising additional locations in Europe, the Middle East, and Africa. 
+"Budget Rent a Car" is the trading name of Budget Rent a Car Australia Pty Limited ABN 89 007 348 021 which is a subsidiary of Budget Rent a Car System, Inc. and a member of the family of companies whose ultimate owner is Cendant Corporation (Cendant), located in the United States. Budget Rent a Car System, Inc., its subsidiaries and related companies operate one of the world's best known general-use car and truck rental companies, with over 1,800 locations in the United States, Canada, Latin America, Caribbean, Australia and New Zealand. Budget Rent a Car System, Inc. has marketing arrangements with Zodiac Europe Limited, a separately owned UK-based company trading as Budget Rent a Car through owning or franchising additional locations in Europe, the Middle East, and Africa. 
 
 * * *
 
@@ -31,34 +31,19 @@ When you rent a vehicle from Budget Rent a Car Australia, we need to collect cer
   * company name and employee number; and 
   * contact details of individuals who can provide professional references. 
 
-In certain circumstances, we may collect sensitive information about you. For example, we may collect information about your membership of a professional association in order to provide you with the correct discount for our services. Sensitive information under the Privacy Act includes information about an individual�s membership of a professional or trade association. We will only collect sensitive information about you with your consent or otherwise in accordance with the law. 
+In certain circumstances, we may collect sensitive information about you. For example, we may collect information about your membership of a professional association in order to provide you with the correct discount for our services. Sensitive information under the Privacy Act includes information about an individual's membership of a professional or trade association. We will only collect sensitive information about you with your consent or otherwise in accordance with the law. We will also record information about where you collected the vehicle and the date, time and location of its return. 
 
-We will also record information about where you collected the vehicle and the date, time and location of its return. How we collect the information will depend on how you use our services. We may collect information directly from you by telephone, fax, e-mail, over the counter, your completion of an application or enrolment form, or through our Internet based service. We may also collect information about you indirectly though a travel agent, a corporate program or through one of our partner programs. 
+How we collect the information will depend on how you use our services  
+We may collect information directly from you by telephone, fax, e-mail, over the counter, your completion of an application or enrolment form, or through our Internet based service.We may also collect information about you indirectly though a travel agent, a corporate program or through one of our partner programs. You can choose not to provide some of your personal details but this may prevent us from providing our services to you or limit our ability to provide you with the level of service that you would normally expect from us.
 
-You can choose not to provide some of your personal details but this may prevent us from providing our services to you or limit our ability to provide you with the level of service that you would normally expect from us. 
-
-**The Use of Cookies**  
+The Use of Cookies  
 We may send cookies (pieces of programming) to your computer when you visit our site. Cookies can be stored on your hard drive (persistent cookies) or in memory (session cookies). Cookies enable us to enhance the web offerings to you and to optimise your online experience. We will not collect any of your personal information with our cookies. 
 
 Persistent cookies identify pages accessed and provide personalised features, for example choosing which page you would like to make your start page. They are used to help us develop the design and layout of the web site, improve applications and measure their effectiveness. 
 
 Session cookies are used for security purposes as part of our customer identification process. These cookies allow you to be recognised once you have logged in and provide you with confidential access to your rental records. 
 
-Like many web site operators, Budget Rent A Car also uses the independent company Red Sheriff to measure and analyse the internet usage across the Network. RedSheriff is a leader in the internet industry in interactive measurement technologies and market research. Budget Rent A Car uses Red Sheriff's Red Measure tracking code to collect the following core information on the usage of the Budget Rent A Car network: 
-
-  * The number of page views (or page impressions) that occur on the Network; 
-  * The number of unique visitors to the Network; 
-  * How long these unique visitors (on average) spend on the Network when they do visit; and 
-  * Common entry and exit points into the Network.
-
-
-
-  
-This aggregate, non-personal information is collated by [Red Sheriff ](http://www.redsheriff.com.au/)and provided to Budget Rent A Car to assist in analysing the usage of the Network. The Red Sheriff data is also accessible by media organizations and research companies, for the purpose of conducting industry comparisons with other internet portals. 
-
-All pages on the Network are coded with the Red Sheriff Measure software. This is transparent to the user as the software makes use of an invisible image (via Javascript), at the bottom of the web page. This software stores a "cookie" in the browser, which contains a unique identifier. This enables Red Sheriff to track the number of unique visitors to the Network. This information is collected and aggregated by Red Sheriff, and in no way does this unique identifier identify a user personally. Budget Rent A Car does not and will not marry any data collected by Red Sheriff with any personal information collected on the Network. 
-
-Red Sheriff software code cannot be disabled entirely on the Budget Rent A Car pages, as the Red Measure code takes into account all web-browser configurations, including the disabling of Java and Javascript. However, if cookies are disabled in your browser, then Red Sheriff cannot track you as a unique visitor, and will consider you as a new visitor each time you browse a new page on the Network. To learn how to disable your cookies, please refer Section 5 above. To learn more about Red Sheriff's privacy policy, [click here](http://www.redsheriff.com/au/content/privacy_1.html). 
+We may also allow third parties to collect statistical data from our site using their persistent cookies. However these cookies do not capture information that can personally identify you. They are simply used to measure the effectiveness of our site.
 
 * * *
 
@@ -87,7 +72,8 @@ We may disclose your personal information to other related and non-related organ
   * credit card providers; 
   * credit reporting and fraud checking agencies; 
   * debt collection agencies, in the event of your default in payment of monies owed to us;
-  * city councils and government or private organisations responsible for the processing or handling of traffic related infringements; driver licensing authorities and government, regulatory and law enforcement agencies where the disclosure is required or authorised by law.
+  * city councils and government or private organisations responsible for the processing or handling of traffic related infringements; driver licensing authorities and 
+  * government, regulatory and law enforcement agencies where the disclosure is required or authorised by law. 
 
 
 
@@ -95,7 +81,7 @@ We may disclose your personal information to other related and non-related organ
 
 **Use or disclosure for direct marketing purposes**
 
-We may use and disclose your personal information to offer you products and services provided by Budget Rent a Car Australia, Budget Rent a Car System, Inc., Zodiac Europe Ltd, other members of the Cendant family of companies and related companies and franchisees and licensees of the Budget Rent a Car Group. We may also use (but not disclose) your personal information to offer you products and services provided by companies participating in Budget Rent a Car partner programs. You can choose not to allow us to use or disclose your personal information for direct marketing purposes by indicating your preference on the rental document or by contacting us (see �Whom can I contact for further information?� below). 
+We may use and disclose your personal information to offer you products and services provided by Budget Rent a Car Australia, Budget Rent a Car System, Inc., Zodiac Europe Ltd, other members of the Cendant family of companies and related companies and franchisees and licensees of the Budget Rent a Car Group. We may also use (but not disclose) your personal information to offer you products and services provided by companies participating in Budget Rent a Car partner programs. You can choose not to allow us to use or disclose your personal information for direct marketing purposes by indicating your preference on the rental document or by contacting us (see "Whom can I contact for further information?" below). 
 
 * * *
 
@@ -162,6 +148,6 @@ When you provide us with your personal information you consent and agree to our 
 
 ### Changes to this Policy
 
-This is our current privacy policy outlining our personal information management practices. It replaces any other privacy policy published by us to date. We may vary this policy at any time. To obtain an up to date copy of the policy, please contact Budget Rent a Car Australia (see �Whom can I contact for further information?� above) or visit our website [www.budget.com.au](http://www.budget.com.au/). 
+This is our current privacy policy outlining our personal information management practices. It replaces any other privacy policy published by us to date. We may vary this policy at any time. To obtain an up to date copy of the policy, please contact Budget Rent a Car Australia (see "Whom can I contact for further information?" above) or visit our website [www.budget.com.au](http://www.budget.com.au/). 
 
-Version 2 � Date of Publication March 2004 
+Version 2 - Date of Publication September 2005 
