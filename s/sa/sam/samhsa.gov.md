@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samhsa.gov privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227101121id_/http%3A//www.samhsa.gov/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samhsa.gov privacy policy that was archived on 2006-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060208073536id_/http%3A//www.samhsa.gov/privacy.aspx) for the most accurate reproduction.*
 
 # SAMHSA Privacy Policy
 
