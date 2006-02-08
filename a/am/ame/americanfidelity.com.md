@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the americanfidelity.com privacy policy that was archived on 2004-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040409082643id_/http%3A//www.americanfidelity.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanfidelity.com privacy policy that was archived on 2006-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060208055451id_/http%3A//americanfidelity.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# American Fidelity, Inc. - Resources
+# American Fidelity, Inc. "The Leader In Mortgage Lending"
 
 1\. We collect nonpublic personal information about you from the following sources:
 
@@ -22,7 +22,4 @@
 
 \- Information we receive from a consumer reporting agency, such as your creditworthiness and credit history.
 
-5\. We restrict access to nonpublic personal information about you to those employees who need to know that information to provide products or services to you. We maintain physical, electronic, and procedural safeguards that comply with federal regulations in order to guard your nonpublic personal information. 
-
-  
-
+5\. We restrict access to nonpublic personal information about you to those employees who need to know that information to provide products or services to you. We maintain physical, electronic, and procedural safeguards that comply with federal regulations in order to guard your nonpublic personal information.
