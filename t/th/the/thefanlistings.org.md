@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefanlistings.org privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218200526id_/http%3A//www.thefanlistings.org/termsofuse.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefanlistings.org privacy policy that was archived on 2006-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060208140937id_/http%3A//www.thefanlistings.org/termsofuse.php) for the most accurate reproduction.*
 
 # TFL.org Terms of Use, Privacy and Spam Policy | The Fanlistings
 
@@ -19,6 +19,8 @@ TFL.org does not condone spam and we are strong advocates of a spam-free interne
 We provide links to other World Wide Web sites or resources. We do not control these sites and resources, do not endorse them, and are not responsible for any aspects of those sites, including their availability, content, accuracy, legality, or delivery of services. You waive any claim resulting from your exposure to material on or through TFL that is offensive, indecent, or otherwise objectionable. You should be of legal age in your country, state, or community to view adult-oriented areas of TFL.
 
 TFL.org may contain some material that is inappropriate for young audiences. There are a number of ways you can control what your child can see and do online. You may wish to consider utilising filtering software to manage your child's online experience.
+
+TFL.org lists several 'fanlistings' for subjects that may be of a questionable or controversial nature. Although these are 'listed' at this Network, and the fanlistings may claim to be "approved by" or the "official" fanlisting for that subject, TFL does not endorse these subjects. TFL.org, the TFL senior staff, and the TFL staff and volunteers do not have any affiliation with, endorsement of, or approval of these subjects outside of them being listed at our network.
 
 ## Surveys
 
