@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epi.org privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231231330id_/http%3A//www.epi.org/content.cfm/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epi.org privacy policy that was archived on 2006-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060208175920id_/http%3A//www.epi.org/content.cfm/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,8 +21,9 @@ If users have questions or concerns regarding this document, they should contact
 
 Economic Policy Institute  
 Web Manager  
-1660 L Street N.W., Suite 1200,  
-Washington, D.C. 20036  
+1333 H Street, NW  
+Suite 300, East Tower  
+Washington, DC 20005  
 (202) 775-8810  
 [webmaster@epinet.org](mailto:webmaster@epinet.org)
 
@@ -31,23 +32,23 @@ Information Collection and Use
 Information Collection  
 EPI is the sole owner of the information collected on www.epinet.org. EPI collects information from our users at several different points on our Web site.
 
-Publication Orders   
+Publication Orders  
 We request information from the user on our order form. A user must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number and expiration date). This information is used for billing purposes and to fill customer's orders. If we have trouble processing an order, the information is used to contact the user.
 
-Newsletter signup page   
+Newsletter signup page  
 We request information from the user on our newsletter signup page. A user may provide their name, email, and/or mailing address to receive news and other information via email and/or postal mail. If a user wishes to subscribe to any of our electronic newsletters, we require only an email address.
 
 Information Use
 
 Cookies  
-A cookie is a piece of data stored on the user's computer tied to information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. 
+A cookie is a piece of data stored on the user's computer tied to information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site.
 
 Cookies are used by our shopping cart ("EPI Bookstore"). If users reject the cookie, they may still use our site. The only drawback to this is that the user will not be able to complete a purchase using our online bookstore (we do, however, also accept orders by phone and mail).
 
 To find more information about cookies, if you are using Microsoft Internet Explorer as your browser, visit the Microsoft Web site at <http://www.microsoft.com/info/cookies.htm?RLD=291> or if you are using Netscape Navigator as your browser, visit the Netscape Web site at <http://home.netscape.com/security/basics/privacy.html#cookies>
 
 Log Files  
-Like most standard Web site servers, we use log files. This includes Internet Protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks. We use this information to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. 
+Like most standard Web site servers, we use log files. This includes Internet Protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks. We use this information to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
 
 Web Bugs (Web Beacons/Clear GIFs)  
 We do not employ a technology known as Web bugs (a.k.a., Web Beacons or Clear GIFs) on our site. Web bugs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. We do not use clear GIFs on our Web site, nor in our emails.
@@ -66,7 +67,7 @@ Third-party Intermediaries
 We use an outside Internet service provider to host and maintain our web servers and bulk email service, a shipping company to ship orders by mail, and a credit card processing company to bill users for goods and services. These companies do not retain, share, store, or use personally identifiable information for any secondary purposes.
 
 Choice/Opt-out  
-Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for information. 
+Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for information.
 
 Users who no longer wish to receive our newsletters and/or promotional communications may opt-out of receiving these communications by replying to the message with the word unsubscribe in the subject line of the email, or by sending an email to EPI's Web Manager <[webmaster@epinet.org](mailto:webmaster@epinet.org)>, identifying which communication(s) the user is subscribed to, and indicating the email address(es) to be removed from the email list(s). We also offer opt-out mechanisms at the bottom of each such message. Users may also unsubscribe from email lists by contacting EPI's Web Manager by phone or postal mail using the contact information listed below.
 
@@ -85,13 +86,13 @@ When our shopping cart (i.e., bookstore order form) asks users to enter sensitiv
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. All employees are kept up-to-date on our security and privacy practices. Any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users' information is protected. Finally, the servers that store personally identifiable information are housed in a secure environment.
 
-If users have any questions about the security at our Web site, users can send an email to [webmaster@epinet.org](mailto:webmaster@epinet.org). 
+If users have any questions about the security at our Web site, users can send an email to [webmaster@epinet.org](mailto:webmaster@epinet.org).
 
 Correcting/Updating/Deleting/Deactivating Personal Information  
 If a user's personally identifiable information changes (such as zip code, phone, email, or postal address), or if a user no longer desires our service, we provide a way to correct, update, or delete/deactivate users' personally identifiable information. This can usually be done by emailing us at [webmaster@epinet.org](mailto:webmaster@epinet.org), or by contacting us via telephone or postal mail using the contact information listed below.
 
 Notification of Changes  
-If we decide to change our privacy policy, we will post those changes to this privacy policy [<http://www.epinet.org/content.cfm/privacy_policy>] and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+If we decide to change our privacy policy, we will post those changes to this privacy policy [<http://www.epinet.org/content.cfm/privacy_policy>] and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
 If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection, then we will notify users by posting a notice on our Web site for 30 days.
 
@@ -100,12 +101,13 @@ If users have any questions or suggestions regarding our privacy policy, please 
 
 Economic Policy Institute  
 Web Manager  
-1660 L Street N.W., Suite 1200,  
-Washington, D.C. 20036  
+1333 H Street, NW  
+Suite 300, East Tower  
+Washington, DC 20005  
 (202) 775-8810  
 [webmaster@epinet.org](mailto:webmaster@epinet.org)
 
-All material contained within this site Copyright © 2005 Economic Policy Institute.   
+All material contained within this site Copyright © 2006 Economic Policy Institute.   
 All rights reserved. 
 
 [](http://www.epi.org/)
