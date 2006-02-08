@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capitalonebowl.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231081700id_/http%3A//r.espn.go.com/espn/contests/capitalone/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capitalonebowl.com privacy policy that was archived on 2006-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060208130355id_/http%3A//r.espn.go.com/espn/contests/capitalone/privacy) for the most accurate reproduction.*
 
 # Capital One Bowl
 
