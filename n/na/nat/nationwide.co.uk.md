@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationwide.co.uk privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228105507id_/http%3A//nationwide.co.uk/about_nationwide/membership_matters/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationwide.co.uk privacy policy that was archived on 2006-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060208140212id_/http%3A//www.nationwide.co.uk/about_nationwide/membership_matters/privacy.asp%3Fsource%3Dnationwide%26campaign%3Dhomepage%26execution%3Dprivacy_23112005) for the most accurate reproduction.*
 
 # About Nationwide - Membership Matters - Privacy
 
@@ -26,7 +26,7 @@ All e-mail sent to Nationwide will be monitored and checked to ensure our system
 
 _This privacy policy only covers the Nationwide branded web sites. Links within this site to external web sites are not covered by this policy. Please note that any changes that Nationwide makes to this policy will be communicated electronically on the home-page of this site and not by individual written communication._
 
-[](https://web.archive.org/web/20051228105507id_/http%3A//nationwide.co.uk/about_nationwide/membership_matters/your_info.asp) [How Nationwide uses your information.](https://web.archive.org/web/20051228105507id_/http%3A//nationwide.co.uk/about_nationwide/membership_matters/your_info.asp)
+[](https://web.archive.org/web/20060208140212id_/http%3A//www.nationwide.co.uk/about_nationwide/membership_matters/your_info.asp) [How Nationwide uses your information.](https://web.archive.org/web/20060208140212id_/http%3A//www.nationwide.co.uk/about_nationwide/membership_matters/your_info.asp)
 
 **Cookies**
 
@@ -60,7 +60,7 @@ _Again no information will be recorded that uniquely identifies you._
 
 You may choose to set your browser to not accept any cookies - click on the link below to see how. Please be aware that in doing this certain websites (excluding Nationwide) may not operate correctly.
 
-Find out more about how Nationwide keeps your account secure in our [Security and Access Centre](https://web.archive.org/security_and_access/security_measures/approach/default.htm).
+Find out more about how Nationwide keeps your account secure on our [Security site](https://web.archive.org/security/default.htm).
 
 **Definitions**
 
