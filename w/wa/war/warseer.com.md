@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the warseer.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219013051id_/http%3A//www.warseer.com/category/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warseer.com privacy policy that was archived on 2006-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060208215944id_/http%3A//www.warseer.com/category/privacy) for the most accurate reproduction.*
 
 # WarSeer - Privacy Statement
 
