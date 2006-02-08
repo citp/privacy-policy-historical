@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thefanlistings.org privacy policy that was archived on 2005-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051218200526id_/http%3A//www.thefanlistings.org/termsofuse.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thefanlistings.org privacy policy that was archived on 2006-02-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060208140937id_/http%3A//www.thefanlistings.org/termsofuse.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 		<title>
@@ -11,132 +11,132 @@
 <link rel="alternate" type="text/xml" title="RSS .92" href="http://thefanlistings.org/updates/feed/rss/">
 <link rel="stylesheet" type="text/css" href="/style.css">
 <script type="text/javascript" src="http://thefanlistings.org/dropdown.js"></script>
-	<style type="text/css">
-.menutitle{
-cursor:pointer;
-background-color:#985556;
-color:#DEDEE4;
-width:146px;
-padding-top:4px;
-padding-bottom:4px;
-padding-left:3px;
-text-align: left;
-font-size: 14px;
-border-top: 1px solid #7F373A;
-}
+	
+   <style type="text/css">
+   .menutitle{
+   cursor:pointer;
+   background-color:#985556;
+   color:#DEDEE4;
+   width:146px;
+   padding-top:4px;
+   padding-bottom:4px;
+   padding-left:3px;
+   text-align: left;
+   font-size: 14px;
+   border-top: 1px solid #7F373A;
+   }
 
-.menutitle:hover{
-color: #eee;
+   .menutitle:hover{
+   color: #eee;
 
-}
+   }
 
-.menutitle a{
-text-decoration: none;
-color: #eee;
-}
+   .menutitle a{
+   text-decoration: none;
+   color: #eee;
+   }
 
+   ul.submenu{
+   list-style-type:square;
+   list-style-position: inside;
+   padding-left: 6px;
+   padding-bottom: 6px;
+   margin: 0px;
+   font-size: 12px;
+   }
 
-.submenu{
-padding-bottom: 6px;
-list-style-position:inside;
-list-style-type:square;
-padding-left:3px;
-font-size: 12px;
-}
+   .submenu li{
+   padding-bottom: 3px;
+   }
+   </style>
 
-.submenu li{
-padding-bottom: 3px;
-}
-</style><script type="text/javascript">
+   <script type="text/javascript">
+   <!--
+   /***********************************************
+   * Switch Menu script- by Martial B of http://getElementById.com/
+   * Modified by Dynamic Drive for format and NS4/IE4 compatibility
+   * Visit http://www.dynamicdrive.com/ for full source code
+   ***********************************************/
 
-/***********************************************
-* Switch Menu script- by Martial B of http://getElementById.com/
-* Modified by Dynamic Drive for format & NS4/IE4 compatibility
-* Visit http://www.dynamicdrive.com/ for full source code
-***********************************************/
+   var persistmenu="yes" //"yes" or "no". Make sure each SPAN content contains an incrementing ID starting at 1 (id="sub1", id="sub2", etc)
+   var persisttype="sitewide" //enter "sitewide" for menu to persist across site, "local" for this page only
 
-var persistmenu="yes" //"yes" or "no". Make sure each SPAN content contains an incrementing ID starting at 1 (id="sub1", id="sub2", etc)
-var persisttype="sitewide" //enter "sitewide" for menu to persist across site, "local" for this page only
+   if (document.getElementById){ //DynamicDrive.com change
+   document.write('<style type="text/css">\n')
+   document.write('.submenu{display: none;}\n')
+   document.write('</style>\n')
+   }
 
-if (document.getElementById){ //DynamicDrive.com change
-document.write('<style type="text/css">\n')
-document.write('.submenu{display: none;}\n')
-document.write('</style>\n')
-}
+   function SwitchMenu(obj){
+      if(document.getElementById){
+      var el = document.getElementById(obj);
+      var ar = document.getElementById("masterdiv").getElementsByTagName("span"); //DynamicDrive.com change
+         if(el.style.display != "block"){ //DynamicDrive.com change
+            for (var i=0; i<ar.length; i++){
+               if (ar[i].className=="submenu") //DynamicDrive.com change
+               ar[i].style.display = "none";
+            }
+            el.style.display = "block";
+         }else{
+            el.style.display = "none";
+         }
+      }
+   }
 
-function SwitchMenu(obj){
-	if(document.getElementById){
-	var el = document.getElementById(obj);
-	var ar = document.getElementById("masterdiv").getElementsByTagName("span"); //DynamicDrive.com change
-		if(el.style.display != "block"){ //DynamicDrive.com change
-			for (var i=0; i<ar.length; i++){
-				if (ar[i].className=="submenu") //DynamicDrive.com change
-				ar[i].style.display = "none";
-			}
-			el.style.display = "block";
-		}else{
-			el.style.display = "none";
-		}
-	}
-}
+   function get_cookie(Name) {
+   var search = Name + "="
+   var returnvalue = "";
+   if (document.cookie.length > 0) {
+   offset = document.cookie.indexOf(search)
+   if (offset != -1) {
+   offset += search.length
+   end = document.cookie.indexOf(";", offset);
+   if (end == -1) end = document.cookie.length;
+   returnvalue=unescape(document.cookie.substring(offset, end))
+   }
+   }
+   return returnvalue;
+   }
 
-function get_cookie(Name) {
-var search = Name + "="
-var returnvalue = "";
-if (document.cookie.length > 0) {
-offset = document.cookie.indexOf(search)
-if (offset != -1) {
-offset += search.length
-end = document.cookie.indexOf(";", offset);
-if (end == -1) end = document.cookie.length;
-returnvalue=unescape(document.cookie.substring(offset, end))
-}
-}
-return returnvalue;
-}
+   function onloadfunction(){
+   if (persistmenu=="yes"){
+   var cookiename=(persisttype=="sitewide")? "switchmenu" : window.location.pathname
+   var cookievalue=get_cookie(cookiename)
+   if (cookievalue!="")
+   document.getElementById(cookievalue).style.display="block"
+   }
+   }
 
-function onloadfunction(){
-if (persistmenu=="yes"){
-var cookiename=(persisttype=="sitewide")? "switchmenu" : window.location.pathname
-var cookievalue=get_cookie(cookiename)
-if (cookievalue!="")
-document.getElementById(cookievalue).style.display="block"
-}
-}
+   function savemenustate(){
+   var inc=1, blockid=""
+   while (document.getElementById("sub"+inc)){
+   if (document.getElementById("sub"+inc).style.display=="block"){
+   blockid="sub"+inc
+   break
+   }
+   inc++
+   }
+   var cookiename=(persisttype=="sitewide")? "switchmenu" : window.location.pathname
+   var cookievalue=(persisttype=="sitewide")? blockid+";path=/" : blockid
+   document.cookie=cookiename+"="+cookievalue
+   }
 
-function savemenustate(){
-var inc=1, blockid=""
-while (document.getElementById("sub"+inc)){
-if (document.getElementById("sub"+inc).style.display=="block"){
-blockid="sub"+inc
-break
-}
-inc++
-}
-var cookiename=(persisttype=="sitewide")? "switchmenu" : window.location.pathname
-var cookievalue=(persisttype=="sitewide")? blockid+";path=/" : blockid
-document.cookie=cookiename+"="+cookievalue
-}
+   if (window.addEventListener)
+   window.addEventListener("load", onloadfunction, false)
+   else if (window.attachEvent)
+   window.attachEvent("onload", onloadfunction)
+   else if (document.getElementById)
+   window.onload=onloadfunction
 
-if (window.addEventListener)
-window.addEventListener("load", onloadfunction, false)
-else if (window.attachEvent)
-window.attachEvent("onload", onloadfunction)
-else if (document.getElementById)
-window.onload=onloadfunction
-
-if (persistmenu=="yes" && document.getElementById)
-window.onunload=savemenustate
-
-</script><style type="text/css">
+   if (persistmenu=="yes" && document.getElementById)
+   window.onunload=savemenustate
+   -->
+   </script><style type="text/css">
 .submenu{display: none;}
-</style></head>
+</style>
 
 
-
-
-
-
+   </head>
 
 	<body>
 
@@ -149,7 +149,7 @@ window.onunload=savemenustate
 
     <div class="sidepiece">
 	<h3>Shortcuts</h3>
-<ul>
+   <ul>
 	<li><a href="http://thefanlistings.org/updates/">Category Updates</a></li>
 	<li><a href="http://thefanlistings.org/updates/archives/category/general/">Network News</a></li>
 	<li><a href="http://thefanlistings.org/approved.php">Listed FLs</a></li>
@@ -193,64 +193,65 @@ google_color_text = "000000";
 <div id="masterdiv">
 
 	<div class="menutitle" style="border-top:none;" onclick="SwitchMenu('sub1')">TFL Updates</div>
-	<span class="submenu" id="sub1">
+	<ul class="submenu" id="sub1">
         <li><a href="http://thefanlistings.org/updates/">Category Updates</a></li>
 	<li><a href="http://thefanlistings.org/updates/archives/category/general/">TFL News</a></li>
         <li><a href="http://thefanlistings.org/catinfo.php">Category Status</a></li>
-        <li><a href="http://thefanlistings.org/updates/archives/">Updates Archives</a></li>
+        <li><a href="http://thefanlistings.org/updates/archives.php">Updates Archives</a></li>
         <li><a href="http://thefanlistings.org/troubles.php">Troubles Lists</a></li>
         <li><a href="http://thefanlistings.org/mailinglists.php">TFL Mailing List</a></li>
-	</span>
+	</ul>
 
 	<div class="menutitle" onclick="SwitchMenu('sub2')">Join a Fanlisting?</div>
-	<span class="submenu" id="sub2">
+	<ul class="submenu" id="sub2">
         <li><a href="http://thefanlistings.org/approved.php">Approved FLs</a></li>
         <li><a href="http://thefanlistings.org/report.php">Report a FL</a></li>
         <li><a href="http://thefanlistings.org/search.php">Search TFL.org</a></li>
-	</span>
+	</ul>
 
 	<div class="menutitle" onclick="SwitchMenu('sub3')">Start a Fanlisting?</div>
-	<span class="submenu" id="sub3">
+	<ul class="submenu" id="sub3">
         <li><a href="http://thefanlistings.org/tfl101.php">TFL for Newbies</a></li>
         <li><a href="http://thefanlistings.org/start/rules.php">Rules</a></li>
         <li><a href="http://thefanlistings.org/catinfo.php">Category List</a></li>
         <li><a href="http://thefanlistings.org/start/apply.php">Apply Form</a></li>
-	</span>
+	</ul>
 
 	<div class="menutitle" onclick="SwitchMenu('sub4')">For FL Owners</div>
-	<span class="submenu" id="sub4">
+	<ul class="submenu" id="sub4">
         <li><a href="http://thefanlistings.org/finished.php">Finished Form</a></li>
         <li><a href="http://thefanlistings.org/updateinfo.php">Update Info Form</a></li>
         <li><a href="http://thefanlistings.org/closed.php">Closed Form</a></li>
         <li><a href="http://thefanlistings.org/changeemail.php">Change Your Email</a></li>
         <li><a href="http://thefanlistings.org/yourfls.php">Your FL List</a></li>
         <li><a href="http://thefanlistings.org/awards/">Awards</a></li>
-	</span>
+	</ul>
 
         <div class="menutitle" onclick="SwitchMenu('sub5')">Resources</div>
-	<span class="submenu" id="sub5">
+	<ul class="submenu" id="sub5">
         <li><a href="http://thefanlistings.org/forowners/tips.php">Tips &amp; Suggestions</a></li>
         <li><a href="http://thefanlistings.org/forowners/legal.php">Legalities/Formalities</a></li>
         <li><a href="http://thefanlistings.org/forowners/adoptions.php">Adopting Out</a></li>
         <li><a href="http://thefanlistings.org/forowners/etiquette.php">Fanlisting Etiquette</a></li>
         <li><a href="http://thefanlistings.org/links/">Links Centre</a></li>
 	<li><a href="http://thefanlistings.org/forowners/tutorials.php">Tutorials</a></li>
-	</span>
+	</ul>
 
 	<div class="menutitle" onclick="SwitchMenu('sub6')">Contact Us</div>
-	<span class="submenu" id="sub6">
+	<ul class="submenu" id="sub6">
        <li><a href="http://thefanlistings.org/contact.php">Email A Staffer</a></li>
        <li><a href="http://thefanlistings.org/report.php">Report A FL</a></li>
-	</span>
+	</ul>
 
 	<div class="menutitle" onclick="SwitchMenu('sub7')">Community </div>
-	<span class="submenu" id="sub7">
+	<ul class="submenu" id="sub7">
         <li><a href="http://board.thefanlistings.org/">Message Board</a></li>
         <li><a href="http://www.livejournal.com/community/fanlistings/">LJ Community</a></li>
-	</span>
+        <li><a href="http://www.cafepress.com/tflorg">TFL CafePress Store</a></li>
+	</ul>
 
 	<div class="menutitle" onclick="SwitchMenu('sub8')">About TFL</div>
-	<span class="submenu" id="sub8">
+	<ul class="submenu" id="sub8">
         <li><a href="http://thefanlistings.org/faqs/">About/FAQ</a></li>
         <li><a href="http://thefanlistings.org/linkhere/">Link TFL.org</a></li>
         <li><a href="http://thefanlistings.org/site/credits.php">Site Credits</a></li>
@@ -259,17 +260,17 @@ google_color_text = "000000";
         <li><a href="http://thefanlistings.org/donators.php">TFL Supporters</a></li>
         <li><a href="http://thefanlistings.org/site/feeds.php">Syndicate</a></li>
         <li><a href="http://thefanlistings.org/sitemap.php">Site Map</a></li>
-	</span>
+	</ul>
 
 	<div class="menutitle" onclick="SwitchMenu('sub9')">TFL Staff</div>
-	<span class="submenu" id="sub9">
+	<ul class="submenu" id="sub9">
         <li><a href="http://thefanlistings.org/site/staff.php">TFL Staff</a></li>
         <li><a href="http://thefanlistings.org/site/staffjobs.php">Staff Job Descriptions</a></li>
 	 <li><a href="http://thefanlistings.org/stafffeedback.php">Staff Feedback</a></li>
          <li><a href="http://thefanlistings.org/volunteers.php">Volunteer for TFL</a></li>
-	</span>
+	</ul>
 
-        <div class="menutitle"><a href="http://thefanlistings.org/sitemap.php">Site Map</a></div>
+   <div class="menutitle"><a href="http://thefanlistings.org/sitemap.php">Site Map</a></div>
 
 	<div class="menutitle"><a href="http://thefanlistings.org/">Home</a></div>
 
@@ -288,8 +289,6 @@ google_color_text = "000000";
 
 
 </div>
-
-
 
 <div id="content">
 <h1>TFL.org Terms of Use</h1><p>
@@ -315,6 +314,7 @@ document.write("<a href=" + "mail" + "to:" + username +
 <h2>Links to Third-Party Sites and Adult Content</h2>
 <p>We provide links to other World Wide Web sites or resources. We do not control these sites and resources, do not endorse them, and are not responsible for any aspects of those sites, including their availability, content, accuracy, legality, or delivery of services. You waive any claim resulting from your exposure to material on or through TFL that is offensive, indecent, or otherwise objectionable. You should be of legal age in your country, state, or community to view adult-oriented areas of TFL.</p>
 <p>TFL.org may contain some material that is inappropriate for young audiences. There are a number of ways you can control what your child can see and do online. You may wish to consider utilising filtering software to manage your child's online experience.</p>
+<p>TFL.org lists several 'fanlistings' for subjects that may be of a questionable or controversial nature.  Although these are 'listed' at this Network, and the fanlistings may claim to be "approved by" or the "official" fanlisting for that subject, TFL does not endorse these subjects.  TFL.org, the TFL senior staff, and the TFL staff and volunteers do not have any affiliation with, endorsement of, or approval of these subjects outside of them being listed at our network.</p>
 
 <h2>Surveys</h2>
 <p>TFL may hold surveys or polls for our users occassionally. Involvement or feedback in these surveys or polls is voluntary and the user may choose not to disclose their email address, name or other personal information. Users will be informed if their IP address is being collected.</p>
