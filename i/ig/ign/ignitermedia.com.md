@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ignitermedia.com privacy policy that was archived on 2005-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051127080939id_/http%3A//www.ignitermedia.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ignitermedia.com privacy policy that was archived on 2006-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060209142826id_/http%3A//ignitermedia.com/privacypolicy.html) for the most accurate reproduction.*
 
 # ..:: Welcome to Ignitermedia.com ::..
 
@@ -44,4 +44,4 @@ We give you the opportunity to remove your name from our postal mailing list so 
 **Contacting Us**  
 If you have comments or questions about our online privacy policy, please send an e-mail to info@ignitermedia.com. If you would like more information about IMG, or are experiencing technical trouble, please see Contact Us.
 
-Return to [ignitermedia.com](https://web.archive.org/web/20051127080939id_/http%3A//www.ignitermedia.com/index.html)
+Return to [ignitermedia.com](https://web.archive.org/web/20060209142826id_/http%3A//ignitermedia.com/index.html)
