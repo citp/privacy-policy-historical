@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the racesimulations.com privacy policy that was archived on 2005-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051024064012id_/http%3A//www.racesimulations.com/Information/1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racesimulations.com privacy policy that was archived on 2006-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060210124320id_/http%3A//www.racesimulations.com/information/1.html) for the most accurate reproduction.*
 
 # : RaceSimulations : Privacy Policy
 
