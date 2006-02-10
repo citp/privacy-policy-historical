@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 14kate.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229014214id_/http%3A//www.14kate.com/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 14kate.com privacy policy that was archived on 2006-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060210111742id_/http%3A//www.14kate.com/PrivacyPolicy.php) for the most accurate reproduction.*
 
-# ate.com - Privacy Policy:::14K
+# 4Kate.com - Privacy Policy:::1
 
 **_:::: Privacy Policy ::::_**
 
