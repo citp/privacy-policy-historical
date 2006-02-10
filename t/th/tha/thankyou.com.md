@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the thankyou.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404192049id_/http%3A//www.1800dessert.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thankyou.com privacy policy that was archived on 2006-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060210172840id_/http%3A//www.800thankyou.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[Home](https://web.archive.org/) Privacy Policy
+[Home](https://web.archive.org/) » Privacy Policy
 
 **PRIVACY POLICY**
 
-**Updated as of December 30, 2004**
+**Updated as of  October 3, 2005**
 
-We at 1800dessert.com and 800 Brands, Inc. have created this Privacy Policy because we know you care about how information you provide us is used and shared.  This Privacy Policy describes what information is gathered when you visit the 1800dessert.com web site, and how that information may be used and shared.  By visiting our site, you are accepting the practices described in this Privacy Policy.
+We at 1800ThankYou.com and 800 Brands, Inc. have created this Privacy Policy because we know you care about how information you provide us is used and shared.  This Privacy Policy describes what information is gathered when you visit the 1800ThankYou.com web site, and how that information may be used and shared.  By visiting our site, you are accepting the practices described in this Privacy Policy.
 
 **The Information We Collect**
 
-If you order a dessert or other product through our site, we will ask you to provide certain personal information, such as your name, email address, postal address and telephone number, as well as credit card information.  We also will ask you to provide name, postal address and other information about the gift recipient to whom you want your order shipped.  As a convenience to you, our site may from time to time include an “address book” feature that simplifies the ordering process by providing you with easy access to your gift recipients’ names, addresses and other information.  You will always know when we are collecting any of the foregoing information about you or your gift recipients (collectively, the “Information”) because we only collect the Information when you voluntarily provide it to us through our site.
+If you order a gift basket or other product through our site, we will ask you to provide certain personal information, such as your name, email address, postal address and telephone number, as well as credit card information.  We also will ask you to provide name, postal address and other information about the gift recipient to whom you want your order shipped.  As a convenience to you, our site may from time to time include an “address book” feature that simplifies the ordering process by providing you with easy access to your gift recipients’ names, addresses and other information.  You will always know when we are collecting any of the foregoing information about you or your gift recipients (collectively, the “Information”) because we only collect the Information when you voluntarily provide it to us through our site.
 
 **How We Use And Share The Information**
 
@@ -37,4 +37,4 @@ This Privacy Policy is effective as of the date stated at the top of this policy
 
 **How to Contact Us**
 
-If you have any questions or comments about this Privacy Policy, please email us at [info@1800dessert.com](mailto:info@1800dessert.com).
+If you have any questions or comments about this Privacy Policy, please email us at [info@1800ThankYou.com](mailto:info@1800ThankYou.com).
