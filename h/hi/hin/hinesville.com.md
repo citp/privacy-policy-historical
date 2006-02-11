@@ -1,125 +1,105 @@
-> *The following text is extracted and transformed from the hinesville.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231041236id_/http%3A//privacy.yahoo.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hinesville.com privacy policy that was archived on 2006-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060211051750id_/http%3A//www.hinesville.com/privacy.html) for the most accurate reproduction.*
 
-# Yahoo! Privacy
+# Hinesville.com
 
-| **More about Yahoo! Privacy**  
----  
-|  We have detailed reference links describing our privacy practices for a wide range of Yahoo! products and services.   
-[Find them here](https://web.archive.org/privacy/us/all.html).   
-**Assistance**  
-· | [Printer-friendly format](https://web.archive.org/privacy/us/print.html)  
-· | [Privacy Policy Help](http://help.yahoo.com/help/us/privacy/)  
-· | [Contact us](http://add.yahoo.com/fast/help/us/privacy/cgi_feedback)  
-· | [Edit Account Information](http://edit.yahoo.com/config/eval_profile?.src=&.done=privacy.yahoo.com/privacy/us/)  
-· | [Marketing Preferences](http://subscribe.yahoo.com/showaccount)  
-· | [Marketing Communication Help](http://help.yahoo.com/help/us/ymc/index.html)  
-**Special Topics**  
-· | [Security at Yahoo!](https://web.archive.org/privacy/us/security/details.html)  
-· | [Cookies](https://web.archive.org/privacy/us/cookies/details.html)  
-· | [Third Party Cookies on Yahoo!](https://web.archive.org/privacy/us/adservers/details.html)  
-· | [more...](https://web.archive.org/privacy/us/all.html)  
-**Privacy Links**  
-· | [Y! News: Privacy](http://fullcoverage.yahoo.com/Full_Coverage/Tech/Internet_Privacy)  
-· | [Y! Directory: Privacy Category](http://dir.yahoo.com/Computers_and_Internet/Internet/Issues/Privacy/)  
-· | [Search the Web: Privacy](http://search.yahoo.com/bin/search?p=privacy)  
-· | [Y! Directory: Security Category](http://dir.yahoo.com/Computers_and_Internet/Security_and_Encryption/)  
-· | [Federal Trade Commission](http://www.ftc.gov/)  
-  
-* * *  
-  
-  | 
+ 
 
-[](http://www.truste.org/ivalidate.php?url=www.yahoo.com&sealid=101) Yahoo! takes your privacy seriously. Please read the following to learn more about our privacy policy.
+ ** PRIVACY POLICY - COMMITMENT TO YOUR PRIVACY**
 
-**NOTICE:[Click here](http://www.ftc.gov/bcp/conline/pubs/online/sitesee.htm) for important information about safe surfing from the Federal Trade Commission. **
+This site is owned and operated by hinesville.com. Your privacy on the Internet is of the utmost importance to us. At hinesville.com, we want to make your experience online satisfying and safe.
 
-**What This Privacy Policy Covers**  
+Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
+
+INFORMATION hinesville.com GATHERS AND TRACKS
+
+Hinesville.com gathers two types of information about users:
+
+  * Information that users provide through optional, voluntary submissions. These are voluntary submissions to receive our electronic newsletters, to participate in our message boards or forums, to email a friend, and from participation in polls and surveys:
+  * Information hinesville.com gathers through aggregated tracking information derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to readers' needs and to help our advertisers and sponsors better understand the demographics of our audience. Because hinesville.com derives its revenue mainly from sponsorships and advertising, providing such aggregated demographic data is essential to keeping our service free to users. Under no circumstances does hinesville.com divulge any information about an individual user to a third party. 
 
 
-  * This policy covers how Yahoo! treats personal information that Yahoo! collects and receives, including information related to your past use of Yahoo! products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. 
-  * This policy does not apply to the practices of companies that Yahoo! does not own or control, or to people that Yahoo! does not employ or manage. In addition, certain Yahoo! associated companies such as [Inktomi](http://www.inktomi.com/info/privacy.html), [Overture](http://www.content.overture.com/d/USm/about/company/privacypolicy.jhtml), and [Altavista](http://www.altavista.com/web/legal/privacy) have their own privacy statements which can be viewed by clicking on the links. 
 
-**Information Collection and Use**
+Hinesville.com Gathers User Information In The Following Processes:
 
-      **General**  
+Optional Voluntary Information
 
+We offer the following free services, which require some type of voluntary submission of personal information by users:
 
-  * Yahoo! collects personal information when you register with Yahoo!, when you use [Yahoo! products or services](https://web.archive.org/privacy/us/all.html), when you visit Yahoo! pages or the pages of certain Yahoo! partners, and when you enter [promotions or sweepstakes](https://web.archive.org/privacy/us/promo/details.html). Yahoo! may combine information about you that we have with information we obtain from business partners or other companies. 
-  * When you register we ask for information such as your name, email address, birth date, gender, zip code, occupation, industry, and personal interests. For some financial products and services we may also ask for your address, Social Security number, and information about your assets. Once you register with Yahoo! and sign in to our services, you are not anonymous to us. 
-  * Yahoo! collects information about your transactions with us and with some of our business partners, including information about your use of financial products and services that we offer. 
-  * Yahoo! automatically receives and records information on our server logs from your browser, including your [ IP address](https://web.archive.org/privacy/us/ip/details.html), Yahoo! [ cookie](https://web.archive.org/privacy/us/cookies/details.html) information, and the page you request. 
-  * Yahoo! uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. 
+## _Privacy Policy Sample_
 
-      **Children**  
+1\. Electronic newsletters policy (Dispatches)
 
+We will offer a free electronic newsletter to users. hinesville.com gathers the email addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management page. Users can also subscribe to the newsletters at the time of registration.
 
-  * When a child under age 13 attempts to register with Yahoo!, we ask that he or she have a parent or guardian create a [ Yahoo! Family Account](https://web.archive.org/privacy/us/family/details.html) to obtain parental permission. 
-  * Yahoo! will not contact children under age 13 about special offers or for marketing purposes without a parent's permission. 
-  * Yahoo! does not ask a child under age 13 for more personal information, as a condition of participation, than is reasonably necessary to participate in a given activity or promotion. 
+2\. Message boards/forums policy
 
-**Information Sharing and Disclosure**  
+Users of the site's Message Boards and Forums must register separately for these services (both are free of charge) in order to post messages, although they needn't register to visit the site. During registration the user is required to supply a username, password, and email address.
 
+3\. "E-mail this to a friend" policy
 
-  * Yahoo! does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
-    * We provide the information to trusted partners who work on behalf of or with Yahoo! under confidentiality agreements. These companies may use your personal information to help Yahoo! communicate with you about offers from Yahoo! and our marketing partners. However, these companies do not have any independent right to share this information. 
-    * We have a parent's permission to share the information if the user is a child under age 13. Parents have the option of allowing Yahoo! to collect and use their child's information without consenting to Yahoo! sharing of this information with people and companies who may use this information for their own purposes; 
-    * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims; 
-    * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Yahoo!'s terms of use, or as otherwise required by law. 
-    * We transfer information about you if Yahoo! is acquired by or merged with another company. In this event, Yahoo! will notify you before information about you is transferred and becomes subject to a different privacy policy. 
-  * Yahoo! displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click on targeted ads meet the targeting criteria - for example, women ages 18-24 from a particular geographic area. 
-    * Yahoo! does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. 
-    * Yahoo! advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies). 
-  * Yahoo! works with vendors, partners, advertisers, and other service providers in different industries and categories of business. For more information regarding providers of products or services that you've requested please read our detailed [reference links](http://privacy.yahoo.com/privacy/us/all.html). 
+Our site users can choose to electronically forward a link, page, or documents to someone else by clicking "e-mail this to a friend". The user must provide their email address, as well as that of the recipient. This information is used only in the case of transmission errors and, of course, to let the recipient know who sent the email. The information is not used for any other purpose.
 
-**Cookies**  
+4\. Polling
 
+We may offer interactive polls to users so they can easily share their opinions with other users and see what our audience thinks about important issues. Opinions or other responses to polls are aggregated and are not identifiable to any particular user. Hinesville.com may use a system to "tag" users after they have voted, so they can vote only once on a particular question. This tag is not correlated with information about individual users.
 
-  * Yahoo! may set and access Yahoo! [ cookies](https://web.archive.org/privacy/us/cookies/details.html) on your computer. 
-  * Yahoo! lets [ other companies](https://web.archive.org/privacy/us/adservers/details.html) that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Yahoo!'s cookies. 
-  * Yahoo! uses [ web beacons](https://web.archive.org/privacy/us/beacons/details.html) to access Yahoo! cookies inside and outside our network of web sites and in connection with Yahoo! products and services. 
+5\. Surveys
 
-**Your Ability to Edit and Delete Your Account Information and Preferences**
+Hinesville.com may occasionally conduct user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our sponsors, advertisers and partners. We never share any of this information about specific individuals with any third party.
 
-      **General**  
+6\. Classified Advertising policy
 
+Users of the site's Classified Ads must register separately (free of charge) in order to post ads, although they needn't register to visit the site. During registration the user is required to supply a username, password, and email address.
 
-  * You can edit your [ Yahoo! Account Information](http://edit.yahoo.com/config/eval_profile?.src=&.intl=us&.done=privacy.yahoo.com/privacy/us), including your [ marketing preferences](http://subscribe.yahoo.com/showaccount), at any time. 
-  * New categories of marketing communications may be added to the Marketing Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive. 
-  * We reserve the right to send you certain communications relating to the Yahoo! service, such as service announcements, administrative messages and the Yahoo! Newsletter, that are considered part of your Yahoo! account, without offering you the opportunity to opt-out of receiving them. 
-  * You can delete your Yahoo! account by visiting our [ Account Deletion](https://edit.yahoo.com/config/delete_user) page. Please [ click here](https://web.archive.org/privacy/us/archives/details.html) to read about information that might possibly remain in our archived records after your account has been deleted. 
+## _Privacy Policy Template changes_
 
-      **Children**  
+Children
 
+Consistent with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of 13 without requesting parental consent.
 
-  * Parents can review, edit, and delete information relating to their child's Yahoo! account using tools offered by [Yahoo! Family Accounts](http://family.yahoo.com/). 
-  * If a parent chooses not to allow us to further collect or use a child's information, parents enrolled in Yahoo! Family Accounts can delete their child's account by signing into that child's account and then visiting our [ Account Deletion](https://edit.yahoo.com/config/delete_user) page. Please [ click here](https://web.archive.org/privacy/us/archives/details.html) to read about information that might possibly remain in our archived records after your account has been deleted. 
+Usage tracking
 
-**Confidentiality and Security**  
+Hinesville.com tracks user traffic patterns throughout all of our sites. However, we do not correlate this information with data about individual users. Hinesville.com does break down overall usage statistics according to a user's domain name, browser type, and MIME type by reading this information from the browser string (information contained in every user's browser).
 
+Hinesville.com sometimes tracks and catalogs the search terms that users enter in our Search function, but this tracking is never associated with individual users. We use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you.
 
-  * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
-  * We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you. 
-  * To learn more about security, including the security steps we have taken and security steps you can take, please read [Security at Yahoo!](http://privacy.yahoo.com/privacy/us/security/details.html). 
+Cookies
 
-**Changes to this Privacy Policy**  
+We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. Hinesville.com uses cookies to track user traffic patterns (as described above). Our advertising system delivers a one-time cookie to better track ad impressions and click rates.
 
+You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site. However, you do need cookies to participate actively in message boards, forums, polling and surveys.
 
-  * Yahoo! may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Yahoo! account or by placing a prominent notice on our site. 
+## _Privacy Policy Use_
 
-**Questions and Suggestions**  
+_How the information you gather is used if relevent._
 
+USE OF INFORMATION
 
-  * [Yahoo! is TRUSTe-certified](http://www.truste.org/ivalidate.php?url=www.yahoo.com&sealid=101). This certification applies to all English-language sites under the Yahoo.com domain. If you feel that your inquiry has not been satisfactorily addressed, you should contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php), an independent privacy organization. TRUSTe serves as a liaison with Yahoo! to resolve your concern. 
-  * If you have questions or suggestions, please complete a [feedback form](http://add.yahoo.com/fast/help/us/privacy/cgi_feedback?radio30=radio305) or you can contact us at: 
+Hinesville.com uses any information voluntarily given by our users to enhance their experience in our network of sites, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the interests of our users.
 
-Yahoo! Inc.  
-Customer Care - Privacy Policy Issues  
-701 First Avenue  
-Sunnyvale, CA 94089  
-(408) 349-5070  
+As stated above, we use information that users voluntarily provide in order to send out electronic newsletters and to enable users to participate in polls, surveys, message boards, and forums. We send out newsletters to subscribers on a regular schedule (depending on the newsletter), and occasionally send out special editions when we think subscribers might be particularly interested in something we are doing. Hinesville.com never shares newsletter mailing lists with any third parties, including advertisers, sponsors or partners.
+
+When we use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you. We track search terms entered in Search function as one of many measures of what interests our users. But we don't track which terms a particular user enters.
+
+Hinesville.vom creates aggregate reports on user demographics and traffic patterns for advertisers, sponsors and partners. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their needs. Because we don't track the usage patterns of individual users, an advertiser or sponsor will never know that a specific user clicked their ad. We will not disclose any information about any individual user except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public.
+
+SHARING OF THE INFORMATION
+
+Hinesville.com uses the above-described information to tailor our content to suit your needs and help our advertisers better understand our audience's demographics. This is essential to keeping our service free. We will not share information about individual users with any third party, except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public.
+
+SECURITY
+
+Hinesville.com operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by our customers.
+
+OPT-OUT POLICY
+
+We give users options wherever necessary and practical. Such choices include:
+
+  * **Opting not to register to receive our electronic newsletters.**
+  * **Opting not to participate in certain interactive areas, which completely alleviates the need to gather any personally identifiable information from our users**
 
 
-  
-Effective Date: March 28, 2002
 
+YOUR CONSENT
 
+By using this site, you consent to the collection and use of this information by Hinesville.com. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
