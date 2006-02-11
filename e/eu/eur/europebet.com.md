@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the europebet.com privacy policy that was archived on 2005-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050724022242id_/http%3A//www.gosportsbet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the europebet.com privacy policy that was archived on 2006-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060211215309id_/http%3A//www.gosportsbet.com/privacy) for the most accurate reproduction.*
 
 # GoSportsBet.com - Privacy Policy
 
@@ -8,7 +8,12 @@ What information do we collect, and why?
 
 When you make a deposit, in order to purchase V-Chips and place a wager, we need to know your name, e-mail address, mailing address, and credit card number with expiration date. This allows us to process your request and mail any winnings resulting from wagers placed on any of our gaming services.
 
-When you enter a contest or other promotion, we may ask for your name, address, and e-mail address so we can run the contest and notify winners. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+When you register for use of this website you will receive **approximately 1 email per week** regarding the company's services. When you enter a contest or other promotion, we may ask for your name, address, and e-mail address so we can run the contest and notify winners. 
+
+Note that users may opt-out of receiving future mailings; to do so please use the following methods:
+
+1\. Contact us by [clicking here.](http://www.gosportsbet.com/support/)  
+2\. At the bottom of each email sent to you there is a link indicating how to remove your email from our lists. Please use this link to remove your email address permanently. 
 
 When you participate in a customer survey, we may ask for your name, address, and other personal information. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences.
 
