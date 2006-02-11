@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebrity-link.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210081439id_/http%3A//www.celebrity-link.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebrity-link.com privacy policy that was archived on 2006-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060211155627id_/http%3A//www.celebrity-link.com/privacy.html) for the most accurate reproduction.*
 
 # Celebrity Link: Privacy Policy
 
@@ -21,4 +21,4 @@ In the course of serving advertisements to this site, our third-party advertiser
 If you have any additional questions about Celebrity Link's dedication to consumer privacy, please contact us at [privacypolicy@celebrity-link.com](mailto:privacypolicy@celebrity-link.com). 
 
   
-Copyright © 2005 [NetVision](http://www.net-v.com/). All Rights Reserved. [Privacy Statement](https://web.archive.org/privacy.html)
+Copyright © 2006 [NetVision](http://www.net-v.com/). All Rights Reserved. [Privacy Statement](https://web.archive.org/privacy.html)
