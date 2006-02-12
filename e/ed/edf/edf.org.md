@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edf.org privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210070042id_/http%3A//www.environmentaldefense.org/privacypolicy.cfm%3FlinkID%3D44) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edf.org privacy policy that was archived on 2006-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060212192041id_/http%3A//www.environmentaldefense.org/privacypolicy.cfm%3FlinkID%3D44) for the most accurate reproduction.*
 
 # Privacy Policy
 
