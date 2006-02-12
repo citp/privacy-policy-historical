@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nib.com.au privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231000450id_/http%3A//www.nib.com.au/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nib.com.au privacy policy that was archived on 2006-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060212013855id_/http%3A//www.nib.com.au/about/privacy.asp) for the most accurate reproduction.*
 
 # NIB Health Funds - Private Health Cover - NIB Privacy Policy
 
