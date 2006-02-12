@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bestquotes.com privacy policy that was archived on 2005-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050310200324id_/http%3A//bestquotes.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestquotes.com privacy policy that was archived on 2006-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060212223859id_/http%3A//bestquotes.com/privacy.htm) for the most accurate reproduction.*
 
 # Best Quotes Mortgage Refinance Cash Out - Privacy Statement Mortgage
 
-**[](https://web.archive.org/web/20050310200324id_/http%3A//bestquotes.com/contact.htm)Privacy Policy **
+**[](https://web.archive.org/web/20060212223859id_/http%3A//bestquotes.com/contact.htm)Privacy Policy **
 
 Best Quotes Corporation ("Best Quotes") is committed to protecting the privacy of personal information collected from visitors to our web site.
 
