@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bsplayer.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221093430id_/http%3A//www.bsplayer.com/index.php%3Fp%3Dhtml%26name%3Dprivacypolicy%26PHPSESSID%3De70fc14b27313651301b3843b06c7b3c) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bsplayer.com privacy policy that was archived on 2006-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060213061304id_/http%3A//bsplayer.com/index.php%3Fp%3Dhtml%26name%3Dprivacypolicy%26PHPSESSID%3D519f8462b7ebe26bc91c7821053bc535) for the most accurate reproduction.*
 
 # DivX Player, Video Player, Multimedia Player, Media Player, Ogg Player - BSplayer
 
