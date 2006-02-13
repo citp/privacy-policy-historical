@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepensionservice.gov.uk privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230123902id_/http%3A//www.thepensionservice.gov.uk/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepensionservice.gov.uk privacy policy that was archived on 2006-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060213205716id_/http%3A//www.thepensionservice.gov.uk/privacy-policy.asp) for the most accurate reproduction.*
 
 # The Pension Service - Privacy Policy
 
