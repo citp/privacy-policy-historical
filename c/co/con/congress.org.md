@@ -1,24 +1,32 @@
-> *The following text is extracted and transformed from the congress.org privacy policy that was archived on 2002-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021129192306id_/http%3A//www.congress.org/congressorg/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the congress.org privacy policy that was archived on 2006-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060213175904id_/http%3A//www.congress.org/congressorg/info/privacy.tt) for the most accurate reproduction.*
 
-# Congress.org -- Privacy Policy
+# Congress.org
 
-Congress.org is run by [Capitol Advantage](http://capitoladvantage.com/), a Washington, DC area company that provides a service to organizations that allows visitors to their web sites to contact elected officials and stay current on important issues. This service is called [CapWiz™](http://capwiz.com/quicktour/) and is used by associations, advocacy groups, corporations and media web sites. It also powers Congress.org.
+Congress.org is run by [Capitol Advantage](http://capitoladvantage.com/), a Washington, DC area company that provides a service to organizations that allows visitors to their web sites to contact elected officials and stay current on important issues. This service is called [Capwiz™](http://www.capitoladvantage.com/capwiz/qt/intro.html) and is used by associations, advocacy groups, corporations and media web sites. It also powers Congress.org.
 
-Capitol Advantage is committed to protecting and respecting your privacy. This document sets out our privacy policy and explains what we do with the personal information that we collect from our users. Please read this statement to understand our views and practices regarding personal information, and how they pertain to you as you use our CapWiz™ service. If we make any substantive changes to this policy, we'll post it on the site. If you have any questions or concerns regarding this statement, you should contact the Capitol Advantage privacy coordinator at [privacy@capitoladvantage.com](mailto:privacy@capitoladvantage.com).
+Subject to the privacy limitations inherit with email and non secure Web sites, Capitol Advantage is committed to protecting and respecting your privacy. This document sets out our privacy policy and explains what we do with the personal information that we collect from users of this site. Please read this statement to understand our views and practices regarding personal information, and how they pertain to you as you use our Capwiz™ service. 
+
+This privacy policy may be updated from time to time. Changes to the privacy policy will be posted to the Web site. It is your obligation to review this privacy policy from time to time, and your continued use of the Web site after changes have been posted will be deemed your acceptance of the revised policy. If you have questions or concerns about this privacy policy, you may contact Capitol Advantage via email at [cs@capitoladvantage.com](mailto:cs@capitoladvantage.com).
 
 **What information does Capitol Advantage gather about you and how do we use it?**
 
-When you send a message to a government official or a member of the media through Congress.org, we ask for your name, address and e-mail address. We also collect the full text of the message you send through our service, but only to send it. We use this information only to deliver your message and to identify you to the recipient. If you choose to have your letter posted publicly in [Letters To Leaders](http://congress.org/congressorg/issuesaction/letters/), it is saved only as long as it is displayed.
+If you register with Capitol Advantage to use any of the special services available through the Web site, you will be asked to submit certain information, names and email addresses. This information will be used to permit you to receive any information you may have requested from Capitol Advantage and any additional communications the company may deem appropriate in relation to your request.
+
+When you send a message to a government official or a member of the media through Congress.org, we ask for your name, address and e-mail address. We also collect the full text of the message you send through our service, but only to send it. We use this information to deliver your message and to identify you to the recipient. If you choose to have your letter posted publicly in [Letters To Leaders](http://congress.org/congressorg/issuesaction/letters/), it is saved only as long as it is displayed.
+
+When the user clicks "YES" when asked "Would you like to submit your letter for possible inclusion in an upcoming book on voters' letters to elected officials?" on the message compose page, the user hereby authorizes Capitol Advantage LLC ("CA") to use and publish User's letter(s) transmitted through this enabling website in a book to be published in the future. CA agrees to delete all personal information from User's letter(s) prior to using or publishing such letter(s) and shall delete all names and addresses except for the initials of the sender and the city and state. User hereby releases CA from any liability or damages arising from the use or publication of any of User's letter(s) contained on Capitol Advantage's website.
 
 If you sign-up for [MegaVote](http://congress.org/congressorg/megavote/), a weekly e-mail report of key Congressional votes, we ask for your ZIP code and e-mail address in order to identify your members of Congress and send you a weekly message about how they voted on key legislation.
 
-If you use our Tell-a-Friend feature to e-mail a link to Congress.org to a friend, you will need to provide us with both your email address as well as that of your friend. We will automatically send your message to this person, as well as invite them to visit the site. We use this information for the sole purpose of sending this e-mail.
+If you use our Tell-a-Friend feature to e-mail a link to Congress.org to a friend, you will need to provide us with both your email address as well as that of your friend. We will automatically send your message to this person, as well as invite them to visit the site. We use their information for the sole purpose of sending this e-mail.
 
-If you click the Remember Me option, we will place a cookie in your browser to remember your personal information. This cookie is a file that contains your name, address, and e-mail address information as you entered it on the message form. The next time you send a message, Capitol Advantage will retrieve that information from the cookie and automatically enter it on the message form for you. A couple things to remember about cookies: Cookies are stored on your hard drive, not on our site. Most browsers are set up to accept cookies, but you can configure your browser to refuse cookies or to notify you when you've received one. If you reject cookies, though, you will not be able to use the Remember Me feature.
+If you click the Remember Me option, we will place a cookie in your browser to remember your personal information. This cookie is a file that contains your name, address, and e-mail address information as you entered it on the message form. The next time you send a message, Capitol Advantage will retrieve that information from the cookie and automatically enter it on the message form for you. A couple of things to remember about cookies: Cookies are stored on your hard drive, not on our site. Most browsers are set up to accept cookies, but you can configure your browser to refuse cookies or to notify you when you've received one. If you reject cookies, though, you will not be able to use the Remember Me feature.
 
 When you purchase our Extra Impact hand-delivery service, we will also ask for your telephone number, credit card number and expiration date only so that we may process your payment. We may also use your information to contact you regarding your delivery, should the need arise. The transmission of this information is encrypted, using Secure Socket Layers (SSL) technology.
 
 We also collect IP addresses to help us understand how our visitors access our site, so we can make our site easier to find and to improve our users' overall experience when they visit Congress.org.
+
+If you sign up for Pledge Your Vote, the information you provide may be shared with others. We may also use this information to contact you with periodic Pledge Your Vote updates.
 
 **Will Capitol Advantage disclose any of your personal information?**
 
@@ -32,12 +40,20 @@ We do not give, rent, lend, or sell individual information to any third parties 
 
 **Will Capitol Advantage use your information for direct mailings?**
 
-We will never send you offers or information about products or services of ours, nor of any third party.
+You are using this Web site to engage in civic participation, which is the mission of the site. Occasionally Capitol Advantage may send you messages regarding products and services we offer that might be of interest to you for the same purpose. If you do not want to receive such messages, simply send an e-mail to [cs@capitoladvantage.com](mailto:cs@capitoladvantage.com) with "remove me from the Congress.org list" in the subject line.
 
-Capitol Advantage will contact you via e-mail for the following reasons:
+In addition, Capitol Advantage will contact you via e-mail for the following reasons:
 
-* To send you a copy of a message you have sent through our service.  
-* To send you a weekly MegaVote report (only if you have signed up for this service).
+  * To send you a copy of a message you have sent through our service.
+  * To send you a weekly MegaVote report (only if you have signed up for this service).
+
+**How can I update my personal information for my MegaVote subscription?**
+
+Capitol Advantage permits you to change or correct your personal information at any time and for any reason, or to unsubscribe from MegaVote. Just fill in the e-mail address under which you subscribed, at <http://www.congress.org/congressorg/megavote/login/>.
+
+**If you send us a message about the site, is it private?**
+
+Capitol Advantage has an area on the Web Site which permits you to submit feedback about the Web Site. Any feedback that is submitted becomes the property of Capitol Advantage; we may use your feedback to make improvements to the Web Site, for marketing purposes, or to contact you.
 
 **What else should you know about your privacy?**
 
