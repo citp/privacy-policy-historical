@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pagewash.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219160900id_/http%3A//www.pagewash.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagewash.com privacy policy that was archived on 2006-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060213031548id_/http%3A//www.pagewash.com/privacy.html) for the most accurate reproduction.*
 
-# PageWash: Privacy Policy
+# PageWash - Privacy Policy
 
 **Information Collection and Use**  
 PageWash.com is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. PageWash.com collects information from our users at several different points on our website. 
@@ -26,7 +26,7 @@ Children should always ask a parent for permission before sending personal infor
 We also send the user site and service announcement updates. Members are not able to un-subscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their account via email or phone. 
 
 **Correction/Updating Personal Information:**  
-If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can usually be done at the member information page or by contacting [Customer Support](https://web.archive.org/web/20051219160900id_/http%3A//www.pagewash.com/contact.html). 
+If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can usually be done at the member information page or by contacting [Customer Support](https://web.archive.org/web/20060213031548id_/http%3A//www.pagewash.com/contact.html). 
 
 **Choice/Opt-out**  
 Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for the information. 
