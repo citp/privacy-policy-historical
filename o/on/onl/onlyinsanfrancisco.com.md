@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlyinsanfrancisco.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225114220id_/http%3A//www.onlyinsanfrancisco.com/information/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlyinsanfrancisco.com privacy policy that was archived on 2006-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060214184026id_/http%3A//www.onlyinsanfrancisco.com/information/privacy.asp) for the most accurate reproduction.*
 
 # San Francisco FAQ & San Francisco Convention & Visitors Bureau Contact Information
 
