@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the projectviewercentral.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222015735id_/http%3A//projectviewercentral.com/support/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectviewercentral.com privacy policy that was archived on 2006-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060214115607id_/http%3A//projectviewercentral.com/support/privacy.html) for the most accurate reproduction.*
 
 # Microsoft Project Viewer Web/Server
 
