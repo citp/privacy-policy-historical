@@ -1,27 +1,11 @@
-> *The following text is extracted and transformed from the hipages.com.au privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210165418id_/http%3A//www.homeimprovementpages.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hipages.com.au privacy policy that was archived on 2006-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060216020828id_/http%3A//www.hipages.com.au/privacy) for the most accurate reproduction.*
 
 # Home Improvement Pages, Find a Tradesman in Australia
 
-|  |   
----|---|---  
-|  |  [HOME](https://web.archive.org/index.php) |  [CATEGORIES](https://web.archive.org/categoriespage.html) |  [SEARCH](https://web.archive.org/searchpage.html) |  [ADVERTISE WITH US](https://web.archive.org/advertise) |  [CONTACT US](https://web.archive.org/contactus) |  [LOGIN](https://web.archive.org/login)  
----|---|---|---|---|---  
-[Quality, Solid, Timber Doors And Windows](https://web.archive.org/index.php?m=search&dosql=do_therapist&a=url_redirect&contact_id=2445)  
-|  | 
-
-FIND A PROFESSIONAL
-
-  
-  
+|        |  |  |  |   
 ---  
-  
-  
-  
-    
-    
-|    |  Privacy Policy |     
----|---|---  
-  
+       | 
+
 **Privacy Policy**
 
 **Introduction**
@@ -106,6 +90,15 @@ FIND A PROFESSIONAL
 **Acceptance** 26\.  | You accept that your use of this site includes your acceptance of this Privacy Policy and the Terms of Use.   
 ---|---  
   
-Home Improvements Directory Australia   |   [Tradesmen](https://web.archive.org/index.php?m=search&a=all_therapists&file=therapists.html "Tradesmen Listed in Home Improvement Pages")    |   [Terms and Conditions](https://web.archive.org/terms "Terms and Conditions")    |   [Privacy Policy](https://web.archive.org/privacy "Privacy Policy")    |   [Contact Us](https://web.archive.org/contactus "Contact Us")   
-© 2004 Home Improvement Pages Australia - [info@homeimprovementpages.com.au](mailto:info@homeimprovementpages.com.au)    |   Partner Sites:    [Natural Therapy Pages](http://www.naturaltherapypages.com.au/ "Natural Therapy Pages")   
-[HIP Home](http://www.homeimprovementpages.com.au/ "Home Improvement Pages")    |   [Advertise with us](http://www.homeimprovementpages.com.au/advertise "Advertise with us")
+  
+|   
+---  
+| **What** |   
+---|---  
+**Where** |   
+|   
+|  **Postcode Finder
+
+[Keyword Search](https://web.archive.org/searchpage.html "Keyword Search")
+
+**
