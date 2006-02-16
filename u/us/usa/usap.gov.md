@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usap.gov privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225221621id_/http%3A//www.usap.gov/contentHandler.cfm%3Fid%3D493) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usap.gov privacy policy that was archived on 2006-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060216120553id_/http%3A//usap.gov/contentHandler.cfm%3Fid%3D493) for the most accurate reproduction.*
 
 # U.S. Antarctic Program: Privacy Policies
 
