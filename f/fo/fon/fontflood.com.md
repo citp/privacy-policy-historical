@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fontflood.com privacy policy that was archived on 2005-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051125210735id_/http%3A//www.fontflood.com/pages/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fontflood.com privacy policy that was archived on 2006-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060216144927id_/http%3A//fontflood.com/pages/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
