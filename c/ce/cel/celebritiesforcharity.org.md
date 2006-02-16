@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the celebritiesforcharity.org privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204183926id_/http%3A//www.celebritiesforcharity.org/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebritiesforcharity.org privacy policy that was archived on 2006-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060216105711id_/http%3A//celebritiesforcharity.org/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Celebrities For Charities
+# Celebrities For Charities : Privacy Policy
 
 | 
 
@@ -66,11 +66,10 @@ Privacy Questions and Concerns
 
 If you have specific questions or concerns regarding CFC's privacy policy, please contact us at the following address: 
 
-**The Celebrities For Charity Foundation, Inc.  
+| Mail: |  Celebrities For Charity Foundation, Inc.   
 38 Main Street  
 Andover, MA 01810  
-**
-
+  
+---|---  
+  
 Back to Top
-
-| 
