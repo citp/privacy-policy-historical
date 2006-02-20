@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the russiandating.ru privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404160218id_/http%3A//russiandating.ru/Privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the russiandating.ru privacy policy that was archived on 2006-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060220043811id_/http%3A//russiandating.ru/Privacy.shtml) for the most accurate reproduction.*
 
 # Russian Dating Privacy Policy
 
