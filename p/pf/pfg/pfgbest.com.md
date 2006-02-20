@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pfgbest.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308012053id_/http%3A//pfgbest.com/common/inc/menucounter.asp%3Fid%3D56%26url%3D/common/docs/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pfgbest.com privacy policy that was archived on 2006-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060220050140id_/http%3A//pfgbest.com/common/docs/privacy.asp) for the most accurate reproduction.*
 
 # Peregrine Financial Group, Inc - BEST Direct Online Trading
 
