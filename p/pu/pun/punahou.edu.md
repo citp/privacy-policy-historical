@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the punahou.edu privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221125755id_/http%3A//punahou.edu/index.cfm%3Ffuseaction%3Dig.page%26PageID%3D484) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the punahou.edu privacy policy that was archived on 2006-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060221081324id_/http%3A//punahou.edu/index.cfm%3Ffuseaction%3Dig.page%26PageID%3D484) for the most accurate reproduction.*
 
 # Punahou School | Punahou General Information: Privacy Policy
 
