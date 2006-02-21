@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the joyourself.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222092437id_/http%3A//www.joyourself.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joyourself.com privacy policy that was archived on 2006-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060221111314id_/http%3A//www.joyourself.com/privacy.php) for the most accurate reproduction.*
 
 # www.JOYourSelf.com
 
 |   |  | [Customer  
-Service](https://web.archive.org/web/20051222092437id_/http%3A//www.joyourself.com/contact.php) | [Afraid to  
-Register?](https://web.archive.org/web/20051222092437id_/http%3A//www.joyourself.com/afraidtoregister.php) | [Why You can  
-Trust JOYourself?](https://web.archive.org/web/20051222092437id_/http%3A//www.joyourself.com/trust.php) | [Privacy  
-Policy](https://web.archive.org/web/20051222092437id_/http%3A//www.joyourself.com/privacy.php) | [Terms &  
-Conditions](https://web.archive.org/web/20051222092437id_/http%3A//www.joyourself.com/terms.php)  
+Service](https://web.archive.org/web/20060221111314id_/http%3A//www.joyourself.com/contact.php) | [Afraid to  
+Register?](https://web.archive.org/web/20060221111314id_/http%3A//www.joyourself.com/afraidtoregister.php) | [Why You can  
+Trust JOYourself?](https://web.archive.org/web/20060221111314id_/http%3A//www.joyourself.com/trust.php) | [Privacy  
+Policy](https://web.archive.org/web/20060221111314id_/http%3A//www.joyourself.com/privacy.php) | [Terms &  
+Conditions](https://web.archive.org/web/20060221111314id_/http%3A//www.joyourself.com/terms.php)  
 ---|---|---|---|---  
   
 
