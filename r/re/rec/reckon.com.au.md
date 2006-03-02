@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reckon.com.au privacy policy that was archived on 2004-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040701154721id_/http%3A//www.reckon.com.au/aboutUs/securityAndPrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reckon.com.au privacy policy that was archived on 2006-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060302202745id_/http%3A//www.reckon.com.au/aboutUs/securityAndPrivacy.aspx) for the most accurate reproduction.*
 
-# Privacy policy
+# Quicken - Privacy Policy
 
  Privacy Information Management Statement
 
