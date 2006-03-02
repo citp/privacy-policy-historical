@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scamchecker.com privacy policy that was archived on 2005-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051110105311id_/http%3A//www.scamchecker.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scamchecker.com privacy policy that was archived on 2006-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060302014116id_/http%3A//www.scamchecker.com/privacy.html) for the most accurate reproduction.*
 
 # ScamChecker.com - Check any email address to see if it belongs to a scam artist.
 
@@ -16,4 +16,4 @@ ScamChecker.com is committed to safeguarding the privacy of our member's persona
 
 The data in the ScamChecker.com database is provided by it's members and can not be gauranteed as accurate or reliable. ScamChecker.com takes no responsibility for the data it's members provide. If you have been wrongfully accused of a scam and would like your email address or other information removed from this web site, [contact us](mailto:support@scamchecker.com) and we will investigate the situation and remove the data as necessary.
 
-[ *****[SUBMIT A SCAMMER'S EMAIL ADDRESS](https://web.archive.org/web/20051110105311id_/http%3A//www.scamchecker.com/submit_an_email_address.html) ***** ]
+[ *****[SUBMIT A SCAMMER'S EMAIL ADDRESS](https://web.archive.org/web/20060302014116id_/http%3A//www.scamchecker.com/submit_an_email_address.html) ***** ]
