@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mamasandpapas.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219095115id_/http%3A//www.mamasandpapas.com/privacy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mamasandpapas.com privacy policy that was archived on 2006-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060305222117id_/http%3A//www.mamasandpapas.com/privacy.php) for the most accurate reproduction.*
 
-# Mamas & Papas - The leading brand within the nursery industry
+# Mamasandpapas.com: Market Leading Pushchairs, Prams, Highchairs, Car Seats, Toys, Clothing & more
 
 At Mamas and Papas, we are committed to protecting your privacy. We have published this data protection guide to ensure that you are fully aware of how and why we collect information from you, to whom such information is disclosed and what your rights are. **
 
@@ -10,9 +10,9 @@ What information do we collect and how do we obtain it?
 
 We receive information when you place an order online. 
 
-If you order a catalogue, we need to know your name, address and email address so that we can process and fulfil your order and inform you of special offers and promotions. 
+If you order a catalogue, we need to know your name, address and email address so that we can process and fulfil your order and, at your request inform you of special offers and promotions. 
 
-If you order a product, we need to know your name, address, email address and payment card details so that we can process and fulfil your order and inform you of special offers and promotions. **
+If you order a product, we need to know your name, address, email address and payment card details so that we can process and fulfil your order and, at your request, inform you of special offers and promotions. **
 
 How do we use your information?  
 
@@ -56,8 +56,8 @@ If you do not want to continue to be contacted by Mamas & Papas Limited companie
 
 **Data Protection Department  
 London Road ****  
-Preston  
-PR1 4BR **
+****Preston  
+PR1 4BR**
 
 Stating which of these you would prefer not to receive. You may continue to receive mailings on route to you for a short period of time while your suppression is being processed. 
 
@@ -65,7 +65,7 @@ You have the right to see personal information which is held about you upon writ
 
 **Data Protection Compliance Manager**
 
- **Mamas & Papas Limited   
+**Mamas & Papas Limited   
 Colne Bridge Road   
 Huddersfield   
 HD5 0RH 
@@ -98,7 +98,7 @@ In Summary
 
 We are committed to protecting your privacy. 
 
-We use information we collect on the site to make shopping at mamasandpapas.co.uk possible and to enhance your overall shopping experience. 
+We use information we collect on the site to make shopping at mamasandpapas.com possible and to enhance your overall shopping experience. 
 
 Mamas & Papas welcome your questions and comments about any topic, including Data Protection and your privacy - please refer to the 'Contact Us' page on this website. 
 
