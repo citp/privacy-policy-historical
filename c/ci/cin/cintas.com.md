@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the cintas.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403165219id_/http%3A//www.cintas.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cintas.com privacy policy that was archived on 2006-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060311193743id_/http%3A//www.cintas.com/privacy.asp) for the most accurate reproduction.*
 
 # Cintas- Commitment to Your Privacy
+
+Commitment to Your Privacy
 
 This site is owned and operated by Cintas Corporation. Your privacy while using our site is of the utmost importance to us. At Cintas, we want to make your experience online as satisfying and safe as possible. This privacy statement discloses what information we gather and how we use that information. 
 
@@ -28,12 +30,12 @@ We also use aggregate tracking information to determine which areas of our sites
 Cintas does not sell our email lists or customer information. We will not share information about individual users with any third party, except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public. 
 
   
-When you register or otherwise provide us with personal information, Cintas will not share that information with third parties without your permission. Cintas wishes to maintain the accuracy of any personal information you provide. You may ask for a copy of your personal information, ask for your personal information to be updated or corrected, or ask us to remove your personal information from our records by contacting us at ( _add contact info here_ ). 
+When you register or otherwise provide us with personal information, Cintas will not share that information with third parties without your permission. Cintas wishes to maintain the accuracy of any personal information you provide. You may ask for a copy of your personal information, ask for your personal information to be updated or corrected, or ask us to remove your personal information from our records by contacting us at [catalogcustomerservice@cintas.com](mailto:catalogcustomerservice@cintas.com). 
 
   
 We ask for your e-mail address for online purchases in order to communicate with you about your orders. 
 
-We would also like to notify you of any specials, promotions or discounts at Cintas, as well as information on the latest trends in uniforms. If you do not want to receive any promotional emails, please contact us at [customerservice@cintas.com ](mailto:customerservice@cintas.com). 
+We would also like to notify you of any specials, promotions or discounts at Cintas, as well as information on the latest trends in uniforms. If you do not want to receive any promotional emails, please contact us at [catalogcustomerservice@cintas.com](mailto:catalogcustomerservice@cintas.com). 
 
 You can always remove yourself from any Cintas email list by clicking the link provided in each message. 
 
