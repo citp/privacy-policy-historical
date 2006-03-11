@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodlion.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404172036id_/http%3A//www.foodlion.com/PrivacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodlion.com privacy policy that was archived on 2006-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060311234735id_/http%3A//www.foodlion.com/PrivacyStatement.asp) for the most accurate reproduction.*
 
 # Privacy Statement - foodlion.com
 
@@ -14,7 +14,7 @@ Foodlion.com maintains and uses the anonymous, non-personal information collecte
 The information we gather from online surveys on the Foodlion.com site is for Foodlion.com use only. We generally do not request personally identifiable information such as name or email address in connection with our surveys. If we publish the results of a survey online, the information is in a collective, non-personally identifiable form. 
 
 **Cookies**  
-Occasionally our website may use temporary Cookie information to personalize your viewing experience. For example, we may store your zip code so we can display the stores closest to you. We do not correlate Cookie information with any personally identifying information such as name, address or email address. 
+Our website uses persistent cookies to identify unique visitors and personalize your viewing experience. For example, we may store your zip code so we can display the stores closest to you. We do not correlate Cookie information with any personally identifying information such as name, address or email address. 
 
 **The Information You Provide**  
 There are a number of places on this website where you can sign up for a promotion, register for an MVP Card, request information, apply for a job, or otherwise participate in a program offered by Foodlion.com or by other companies on the Foodlion.com site. You may be asked to provide personal information in connection with these activities. Personal information may include your name, address, e-mail, credit card information, MVP Card number, etc. This section will describe how Foodlion.com collects and uses the personal information you provide to Foodlion.com on the Foodlion.com site. This section does not apply to the data collection practices of other companies that may offer a program or activity jointly with Foodlion.com. 
