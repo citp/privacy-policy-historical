@@ -1,44 +1,17 @@
-> *The following text is extracted and transformed from the web-hosting.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214082204id_/http%3A//www.web-hosting.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web-hosting.com privacy policy that was archived on 2006-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060312000923id_/http%3A//www.webhostplus.com/privacy-policy.asp) for the most accurate reproduction.*
 
-# DeZines Web Hosting: Privacy Statement
+# Web Host Plus - Privacy Policy
 
-**Privacy Statement**
+|  |   |   
+Web Host Plus is committed to serving its customers  
+One of the ways in which Web Host Plus assures its customers with quality service is through safeguarding the privacy of each individual that visits our website or becomes one of our customers. This policy sets for the manner in which Web Host Plus gathers, processes, stores and organizes the information provided by our users as they visit our website. Being in an evolving technological environment, we must all understand that with technology there is change and as such Web Host Plus will use its best efforts to afford its customers and users the newest developments in privacy protection. Like all of our standards, this policy too may change from time to time so we ask that you review these policies each time you visit our website.
 
-We have created this privacy statement in order to demonstrate our firm commitment to privacy.
+No matter what type of information that is provided through the Web Host Plus website, Web Host Plus will protect the confidentiality of its customer's information, account information and personal information to the fullest extent possible. However, please note that information, irrespective of type, once disclosed to a public arena (such as chat rooms or third party sites) can not be guaranteed by the protection of Web Host Plus.
 
-This statement discloses the information gathering and dissemination practices of [DeZines Web Hosting Corporation](https://web.archive.org/web/20051214082204id_/http%3A//www.web-hosting.com/index.htm), pertinent to this web site. This statement supplements our [Legal Notices](http://www.web-hosting.com/order/agreement.html), with respect to privacy. The terms, conditions and provisions of our [Legal Notices](http://www.web-hosting.com/order/agreement.html) shall govern and take precedence over any conflicting provision or disclosure in this privacy statement. 
+Personally Identifiable Information  
+This type of information which normally consists of names, addresses, email addresses, credit card numbers, orders or request for services, will only be used in order to complete your request and provide you with the services. Unless otherwise instructed by you, Web Host Plus may often use this information for promotional purposes, advising you of new services and products, and improving upon the services we provide to our customers. All of your credit card and purchasing information is highly secured through commercially acceptable web based security and encryption protocols. However, please note that certain personal and voluntary information which you provide on other websites, such as feedback or opinions, may be deemed non-confidential and un-protected by Web Host Plus from disclosure.General Information  
+This refers to the generic information gathered and stored by Web Host Plus automatically while users are browsing through our website. This information is not personal in nature. It simply provides us with the user's Internet provider, web site reference, and date and frequency of usage. Such information is useful for us in generating statistical information, in measuring website activity, and a means in which we can improve upon our services.Children's Policy  
+Children under the age of 18 are prohibited from using our services without the consent of a parent or guardian. However, it must be noted that Web Host Plus has no way of knowing if a visitor or customer is actually under the age of 18. Therefore, it's entirely possible that we may collect, use and disclose information about users under the age of 18. We encourage parents to monitor their child's use of the Internet and advise those users under the age of 18 to obtain parental or guardian consent before disclosing any information.Exceptions  
+Web Host Plus will not disclose any personal information of its customer unless there is reason to believe that disclosing such information is necessary to identify, make contact with, or bring legal action against someone which may be causing harm or interfering with the rights or property of Web Host Plus, Web Host Plus's customers, or others, or where Web Host Plus has good faith belief that the law requires such disclosure. In addition, Web Host Plus will not disclose or monitor any content (personal or private electronic communications transmitted to Web Host Plus) unless it is (i) necessary to provide service to the customer; (ii) to protect the interest of Web Host Plus; (iii) required to cooperate with orders, warrants, subpoenas, or other legal process that Web Host Plus determines in its sole discretion to be valid and enforceable and (iv) necessary to provide to law enforcement agency when the contents are inadvertently obtained by Web Host Plus and appear to pertain to the commission of a crime.By using this site, you agree not to write or post any fraudulent or illegal messages as part of any e-mail, forum, chat, or other Web Host Plus-related electronic communications medium. You also acknowledge that you are solely responsible for the information and electronic communications content that you create. Web Host Plus disclaims any intention to censor, edit or engage in ongoing review or surveillance of communications stored on or transmitted through its facilities by customers or others. Web Host Plus will, however, receive, delete or block access to communications that may be harmful to Web Host Plus, its customer or third parties. The grounds upon which Web Host Plus may take such action may include, without limitation, actual or potential violations of Web Host Plus's Acceptable Use Policy.
 
-  * **General:**
-
-It is our general policy to use contact information, (such as e-mail address, telephone number and postal address) for internal purposes and to not sell or otherwise provide this information to third parties. 
-
-  * **IP Addresses:**
-
-Your IP address is captured when you visit this site. It is used to help diagnose problems with our server, to administer the web site, to track the IP origin of abusive behavior, such as SPAM and to track the IP origin of an unlawful activity, such as an attempt to violate the web site's security. This information may be shared with third parties, such as law enforcement agencies with respect to unlawful activities and Internet service providers with respect to SPAM. 
-
-  * **Links:**
-
-This site contains links to other web sites. We are not responsible for the privacy practices or the content of those other web sites. 
-
-  * **Order Forms & Shopping Carts:**
-
-This site includes order forms and shopping carts for requesting information and for ordering products and services. These forms and carts collect contact information (such as name, address and email address) and financial information (such as an account or credit card number). The contact information is used to process the requests and orders, and to contact the requesting or ordering party when necessary. The financial information is used to bill for the products and services ordered. Some of this information may be supplied to third parties. For example, information may be supplied to financial institutions for billing to a credit card.
-
-  * **Security:**
-
-This site has security measures in place to help protect the information under its control from loss, misuse and alteration. For example, industry standard SSL encryption is used when accepting credit card information. 
-
-  * **Third Parties:**
-
-Except as otherwise disclosed in this privacy statement, your personally identifiable information is not shared with any third party. For example, we do not sell, or otherwise give third parties access to, our customer list. 
-
-  * **Domain Name Registrations:**
-
-When you fill out the Domain Name Registration Form to register a domain name, that information is sent directly to [InterNIC](http://www.networksolutions.com/). InterNIC's database is publicly accessible. If we register your domain name for you, we will use your company name and address, phone number, and the e-mail address you provided on your order form for your Domain Name Registration, unless otherwise specified on your order form.
-
-  * **Corrections/Updates:**
-
-To make any changes in your order, your contact information or your financial information, please [contact us](https://web.archive.org/web/20051214082204id_/http%3A//www.web-hosting.com/contact.html). Please do not send us any financial information or any other sensitive information via email. 
-
-
-
+In the event of a sale or transfer of the assets or interest of Web Host Plus, Web Host Plus reserves the right to sell or transfer your information (personal or generic) to a third party, without your consent, that provides the same or similar services as Web Host Plus, agrees to be Web Host Plus's successor in interest with regard to the protection of the information collected and maintained by Web Host Plus, and agrees to be bound by this privacy policy.
