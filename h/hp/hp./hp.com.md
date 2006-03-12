@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the hp.com privacy policy that was archived on 2005-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051122012000id_/http%3A//welcome.hp.com/country/us/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hp.com privacy policy that was archived on 2006-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060312223123id_/http%3A//welcome.hp.com/country/us/en/privacy.html) for the most accurate reproduction.*
 
 # HP Online privacy statement
 
 |  HP and its subsidiaries respect your privacy and are committed to protecting it. HP provides this Privacy Statement to inform you of our Privacy Policy and practices and of the choices you can make about the way your information is collected online and how that information is used. We've structured our websites so that, in general, you can visit HP on the Web without identifying yourself or revealing any personal information. We make this notice readily available on our home page and at the bottom of every HP Web page. Some HP Web pages are [P3P-enabled](https://web.archive.org/country/us/en/privacy/p3p_popup.html), which allows you additional control over your personal information. 
 
-HP is a founding sponsor of the Council of Better Business Bureau's [ BBBOnLine](http://www.hp.com/cgi-bin/leaving_hp.cgi?cc=us&lang=en&exit_link=http://www.bbbonline.org/&exit_text=Continue%20to%20BBBOnLine%20Privacy%20Program&area_text=Online%20privacy%20statement&area_link=http://welcome.hp.com/country/us/en/privacy.html&back_text=Return%20to%20Online%20privacy%20statement&back_link=http://welcome.hp.com/country/us/en/privacy.html) Privacy Program, the "gold standard" for privacy certification. HP privacy practices meet the requirements of the Privacy Program and we are proud to display the BBBOnLine Privacy Seal. 
+HP is a founding sponsor of the Council of Better Business Bureau's [ BBBOnLine](http://www.hp.com/cgi-bin/leaving_hp.cgi?cc=us&lang=en&exit_link=http://www.bbbonline.org/cnfm.cfm?company%3D03311999100448&exit_text=Continue%20to%20BBBOnLine%20Privacy%20Program&area_text=Online%20privacy%20statement&area_link=http://welcome.hp.com/country/us/en/privacy.html&back_text=Return%20to%20Online%20privacy%20statement&back_link=http://welcome.hp.com/country/us/en/privacy.html) Privacy Program, the "gold standard" for privacy certification. HP privacy practices meet the requirements of the Privacy Program and we are proud to display the BBBOnLine Privacy Seal. 
 
-[](http://www.hp.com/cgi-bin/leaving_hp.cgi?cc=us&lang=en&exit_link=http://www.bbbonline.org/&exit_text=Continue%20to%20BBBOnLine%20Privacy%20Program&area_text=Online%20privacy%20statement&area_link=http://welcome.hp.com/country/us/en/privacy.html&back_text=Return%20to%20Online%20privacy%20statement&back_link=http://welcome.hp.com/country/us/en/privacy.html)
+[](http://www.hp.com/cgi-bin/leaving_hp.cgi?cc=us&lang=en&exit_link=http://www.bbbonline.org/cnfm.cfm?company%3D03311999100448&exit_text=Continue%20to%20BBBOnLine%20Privacy%20Program&area_text=Online%20privacy%20statement&area_link=http://welcome.hp.com/country/us/en/privacy.html&back_text=Return%20to%20Online%20privacy%20statement&back_link=http://welcome.hp.com/country/us/en/privacy.html)
 
 HP has also self-certified its privacy practices as consistent with U.S.-E.U. Safe Harbor principles: Notice, Choice, Onward Transfer, Access and Accuracy, Security, and Oversight/Enforcement. More information about the U.S. Department of Commerce Safe Harbor Program can be found at [http://www.export.gov/safeharbor/](http://www.hp.com/cgi-bin/ghp/gohpweb.pl/ghp/plate.html?http://www.export.gov/safeharbor/).
 
@@ -36,7 +36,7 @@ How HP uses cookies and Web beacons on HP.com and in third-party ads:
 ## 1\. Sites covered by this Privacy Statement
 
   
-This Privacy Statement applies to all HP.com-owned websites and domains, and our wholly owned subsidiaries ("HP websites.") This statement is not applicable to [Presario Online University by Learn2.com](http://www.hp.com/cgi-bin/ghp/gohpweb.pl/ghp/plate.html?http://store.learn2.com/basket/default.asp?affid=1104), which maintains its own privacy statement. 
+This Privacy Statement applies to all HP.com-owned websites and domains, and our wholly owned subsidiaries ("HP websites.") []() 
 
 ### Links to non-HP websites
 
