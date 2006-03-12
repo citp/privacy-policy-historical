@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clrwtr.com privacy policy that was archived on 2005-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051026030011id_/http%3A//www.clrwtr.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clrwtr.com privacy policy that was archived on 2006-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060312022216id_/http%3A//www.clrwtr.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # CTI Industrial Factory Automation Parts Distributors USA ABB AC Tech Xycom SEW Turck Sola Sunx Leeson Saftronics IDEC Hammond Lenze
 
