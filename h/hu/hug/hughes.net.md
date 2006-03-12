@@ -1,30 +1,21 @@
-> *The following text is extracted and transformed from the hughes.net privacy policy that was archived on 2001-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010802123727id_/http%3A//www.hughes.net/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hughes.net privacy policy that was archived on 2006-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060312130848id_/http%3A//www.hns.com/HNS/Rooms/DisplayPages/LayoutInitial%3FContainer%3Dcom.webridge.entity.Entity%255BOID%255B8654F0B4FFEF0349BC9F30DC94835DB0%255D%255D) for the most accurate reproduction.*
 
-# Antelecom.net - People Make The Difference
+# Privacy Policy
 
-  
-Protecting your privacy is important to us. We hope the following statement will help you understand how Antelecom.net collects, uses, and safeguards the personal information you provide on our web site.
+**Privacy Policy >>**
 
-**Information Collection**  
-When you browse Antelecom.net’s web site, you do so anonymously. We don’t collect personal information — including your e-mail address. We do log your IP address (the Internet address of your computer) to give us an idea of which parts of our web site you visit and how long you spend there. But we do not link your IP address to anything personally identifiable. 
+HUGHES/DIRECWAY is strongly committed to protecting the privacy of consumers of its products and services.
 
-At times we may request that you **voluntarily** supply us with personal information, such as your e-mail address and postal address, for purposes such as corresponding with us, making a purchase, or entering a sweepstakes. When you enter a sweepstakes with Antelecom.net, for example, we collect the serial number and your name, address, and e-mail address. 
+**Disclosure**  
+We do not use or disclose information about your individual visits to HUGHES/DIRECWAY or information that you may give us, such as your name, address, email address or telephone number, to any outside companies. But as we mention above, we may share with our Website partners aggregated statistical "ratings" information about the use of HUGHES/DIRECWAY.
 
-Like many other commercial web sites, the Antelecom.net web site may use a standard technology called a "cookie" to collect information about how you use the site. Please read [About Cookies](https://web.archive.org/web/20010802123727id_/http%3A//www.hughes.net/legal/aboutcookies.html) for more information.
+The HUGHES/DIRECWAY services have a separate privacy policy for its subscribers. If you are a HUGHES/DIRECWAY services subscriber you can find that policy within our Terms of Service. The purpose of this HUGHES/DIRECWAY privacy policy is to inform you, as a welcome visitor to [_www.hns.com_](http://www.hns.com/) or [_www.DIRECWAY.com_](http://www.direcway.com/) what kinds of information we may gather about you when you visit the HUGHES/DIRECWAY Website, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information. Finally, please note that this policy applies only to HUGHES/DIRECWAY brand, and not to other companies or organizations' Websites to which we link. We have clearly marked HUGHES/DIRECWAY and these branded Websites with our logo so you know where this policy applies.
 
- **Information Use**  
-If you provide us with your e-mail or postal address, or have done so in the past, we will ask you if we can use it to send you updates on the latest Antelecom.net products and promotions. We may use information you have given to us, for example, to provide a service, and inform you about new products and services. These offers may be based on information you provided in your initial transaction with us or in surveys. 
+**Information About All HUGHES/DIRECWAY Visitors**  
+In general, our service automatically gathers certain usage information like the numbers and frequency of visitors to HUGHES/DIRECWAY and its areas, very much like television ratings that tell the networks how many people tuned in to a program. We only use such data in the aggregate. This collective data helps us determine how much our customers use parts of the site, so we can improve our site to assure that it is as appealing as we can make it for as many of you as possible. For example, HUGHES/DIRECWAY uses a technology nicknamed "cookies" that tells us how and when pages in our site are visited, and by how many people. HUGHES/DIRECWAY cookies do not collect personally identifiable information and we do not combine information collected through cookies with other personally identifiable information to tell us who you are or even what your screen name or e-mail address is. We also may provide statistical "ratings" information, never information about you personally, to our HUGHES/DIRECWAY partners about how our subscribers, collectively, use HUGHES/DIRECWAY. We do this so they too can understand how much people use their areas and our site in order for them to provide you with the best possible Web experience as well.
 
-**Declining E-mail Offers**  
-Antelecom.net provides customers with an easy means to decline to receive e-mail offers. 
+**Information About You**  
+Sometimes, we may specifically ask for information about you when you sign up to use the service. We will need certain information - such as name, Internet address or username, billing address, type of computer, credit card number—in order to provide that service or product to you. We may also use that information to let you know of additional products and services about which you might be interested. You can choose not to receive such information if you don't want to by letting us know on the registration screen when you sign up for the product or service. We may ask you for information about your interests so that both you and we can take advantage of the interactivity of the online medium, but you may always choose to respond or not.
 
-Although most customers tell us they appreciate receiving notice of these opportunities, we recognize the importance of providing you with choices. At any time, you may request to discontinue receiving these offers from us by simply replying to the e-mail and informing us of your preferences. All e-mail offers that you receive from Antelecom.net will tell you how to decline further e-mail offers.
-
- **Children**  
-While Antelecom.net's product ad campaigns and marketing materials are often viewed by children, we do not solicit data from them. Antelecom.net encourages parents and guardians to spend time online with their children and to participate in the interactive activities offered on the sites their children visit. No information should be submitted to, or posted at, Antelecom.net’s web site by visitors under 18 years of age without the consent of their parent or guardian. 
-
-**Your Acceptance of These Terms**  
-By using this site, you signify your assent to the Antelecom.net Customer Internet Privacy Statement. If you do not agree to this policy, please do not use our site. We reserve the right, at our discretion, to change, add, or remove portions of this policy at any time. Please check this page periodically for changes. Your continued use of the Antelecom.net site following the posting of changes to these terms means you accept the changes.  
-
-
-Antelecom.net’s privacy statement is subject to change at any time and without notice. 
+**HUGHES/DIRECWAY Privacy Policy Changes**  
+If we decide to change our privacy policy for HUGHES/DIRECWAY, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone.
