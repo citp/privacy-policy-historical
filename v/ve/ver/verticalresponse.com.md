@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verticalresponse.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223055633id_/http%3A//www.verticalresponse.com/about/privacy_tos.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verticalresponse.com privacy policy that was archived on 2006-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060312032752id_/http%3A//verticalresponse.com/about/privacy_tos.html%23privacy) for the most accurate reproduction.*
 
 # VerticalResponse
 
