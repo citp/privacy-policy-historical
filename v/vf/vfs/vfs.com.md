@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vfs.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306160137id_/http%3A//www.vfs.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vfs.com privacy policy that was archived on 2006-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060312030939id_/http%3A//www.vfs.com/privacy.php) for the most accurate reproduction.*
 
 # Vancouver Film School
 
@@ -15,4 +15,4 @@ All official permanent records are secured in the Vancouver Film School facility
 Information will not be given to any agency or person other than the student, unless the student has given written permission. 
 
 Further information with respect to Vancouver Film School's Personal Information Privacy Policy for Students can be access through   
-[VFS Privacy Policy.](https://web.archive.org/web/20050306160137id_/http%3A//www.vfs.com/downloads/global/VFS_privacy_policy.pdf)
+[VFS Privacy Policy.](https://web.archive.org/web/20060312030939id_/http%3A//www.vfs.com/downloads/global/VFS_privacy_policy.pdf)
