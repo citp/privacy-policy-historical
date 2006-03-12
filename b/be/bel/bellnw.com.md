@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bellnw.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404191512id_/http%3A//www.bellnw.com/privpol) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellnw.com privacy policy that was archived on 2006-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060312173918id_/http%3A//www.bellnw.com/privpol) for the most accurate reproduction.*
 
 # Bell Electronics Privacy Policy
 
@@ -19,11 +19,11 @@ This site has taken reasonable security measures to protect the loss, misuse and
 **Choice/Opt-Out**  
 Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. You will notice in all e-mail subscriptions generated from www.bellnw.com there is an unsubscribe link at the bottom of the message. Simply click on this link to go to a page that allows you to unsubscribe from any or all of the lists you are subscribed to. 
 
-In addition to using the unsubscribe page, you can send e-mail to security@bellnw.com.
+In addition to using the unsubscribe page, you can send e-mail to esecurity@bellnw.com.
 
 **Correct/Update/Review**  
 This site gives users the following options for reviewing, changing and modifying information previously provided.  
-1\. By sending an e-mail to: security@bellnw.com  
+1\. By sending an e-mail to: esecurity@bellnw.com  
 2\. Log-in to a user account and make changes online.
 
 **Contacting the Web Site**  
@@ -33,7 +33,7 @@ Security Administrator
 Bell Electronics NW  
 19725 Russell Road  
 Kent, WA 98032 USA  
-privacy@bellnw.com 
+eprivacy@bellnw.com 
 
 **Changes to This Policy**  
 We may make changes to this policy from time to time. We will post changes to this policy here, so be sure to check back periodically. We will notify users by e-mail of significant changes, and provide a meaningful opportunity to opt-out, or otherwise prevent, any new uses of information not described in this current policy.
