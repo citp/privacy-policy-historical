@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secutix.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307001919id_/http%3A//www.secutix.com/Print/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secutix.com privacy policy that was archived on 2006-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060313201544id_/http%3A//www.secutix.com/Home/New_Site/Print/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,9 +12,9 @@ By submitting your data to this website, you expressly agree to its possible tra
 
 Accessing, deleting or correcting information 
 
-You may have your personal data deleted, corrected or revised by sending us an [e-mail](mailto:webmaster@elca.ch) via this site or by sending us a letter to: Webmaster, ELCA Holding S.A., avenue de la Harpe 22-24, 1000 Lausanne 13, Switzerland.
+You may have your personal data deleted, corrected or revised by sending us an [e-Mail](mailto:info@secutix.ch) via this site or by sending us a letter to: Webmaster, ELCA Holding S.A., avenue de la Harpe 22-24, P.O. Box 519, 1001 Lausanne, Switzerland.
 
-You may have access to your data at any time by sending us an [e-mail](mailto:webmaster@elca.ch) , or by writing to us at the address above. 
+You may have access to your data at any time by sending us an [e-Mail](mailto:info@secutix.ch) , or by writing to us at the address above. 
 
 Security of information 
 
@@ -29,7 +29,8 @@ Links from this site may take you to sites not covered by this Privacy Policy an
 If you need any more information. please contact us.   
 This policy may be modified from time to time.
 
-**ELCA HOLDING S.A.**  
-Ave de La Harpe 22-24  
-1000 Lausanne 13  
-SWITZERLAND
+ **ELCA HOLDING S.A.**  
+Av. de La Harpe 22-24  
+P.O. Box 519  
+1001 Lausanne  
+Switzerland
