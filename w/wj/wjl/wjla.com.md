@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wjla.com privacy policy that was archived on 2002-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021114152121id_/http%3A//www.wjla.com/external.hrb%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wjla.com privacy policy that was archived on 2006-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060313173443id_/http%3A//www.wjla.com/external.hrb%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # ABC 7 Privacy Policy
 
-1\. Privacy Practices. This statement discloses the privacy practices for the wjla.com website (the "Website") a service provided by WJLA-TV, an Allbritton Communications Company. Questions regarding this statement should be directed to WJLA at webteam@wjla.com or 3007 Tilden St. NW. Washington, DC 20008. This privacy policy does not apply to data collected offline including, but not limited to, data collected via the mail, telephone or at live events. 
+1\. Privacy Practices. This statement discloses the privacy practices for the wjla.com website (the "Website") a service provided by WJLA-TV, an Allbritton Communications Company. Questions regarding this statement should be directed to WJLA at webteam@wjla.com or 1100 WIlson Blvd. Sixth Floor Arlington, Virginia 22209. This privacy policy does not apply to data collected offline including, but not limited to, data collected via the mail, telephone or at live events. 
 
 2\. Categories of Information. The information gathered by WJLA falls into two categories: (1) information voluntarily supplied by users to the Website through optional registration and (2) tracking information gathered as users navigate through the Website. 
 
