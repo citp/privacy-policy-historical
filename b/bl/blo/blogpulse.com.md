@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogpulse.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214083004id_/http%3A//intelliseek.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogpulse.com privacy policy that was archived on 2006-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060313093744id_/http%3A//intelliseek.com/privacy.asp) for the most accurate reproduction.*
 
 # Intelliseek - Privacy Policy - Marketing Intelligence, Business Intelligence, Lead Generation
 
