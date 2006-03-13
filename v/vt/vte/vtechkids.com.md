@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vtechkids.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213201915id_/http%3A//www.vtechkids.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vtechkids.com privacy policy that was archived on 2006-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060313174638id_/http%3A//vtechkids.com/privacy.asp) for the most accurate reproduction.*
 
 # VTech Electronic Learning Products - Privacy Statements
 
