@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verint.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205130423id_/http%3A//www.verint.com/corporate/gen_ar1_cat_view.cfm%3Farticle_level1_category_id%3D16) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verint.com privacy policy that was archived on 2006-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060313160603id_/http%3A//www.verint.com/corporate/gen_ar1_cat_view.cfm%3Farticle_level1_category_id%3D16) for the most accurate reproduction.*
 
 # VERINT Corporate Web Site: Privacy Policy
 
@@ -8,9 +8,9 @@
 |   
 |    
   
-Last revised: September 15, 2003
+Last revised: October 17, 2005
 
-Verint Systems Inc. (collectively with its subsidiaries, "Verint," "we, "us") shares your concerns about the protection of your personal information online. This Privacy Policy (the "Policy") describes our practices regarding the collection and use of information through our websites, located at www.verint.com, www.loronix.com, www.smartsightnetworks.com, lanex.com, and all partner and customer extranets hosted by or on behalf of Verint (collectively, the "Site"). By using the Site, you signify your agreement to the terms and conditions of this Policy. If you do not agree to this Policy, please do not use the Site. 
+Verint Systems Inc. (collectively with its subsidiaries, "Verint," "we, "us") shares your concerns about the protection of your personal information online. This Privacy Policy (the "Policy") describes our practices regarding the collection and use of information through our websites, located at www.verint.com, www.loronix.com, www.smartsightnetworks.com, lanex.com, www.opusgroupconsulting.com, and all partner and customer extranets hosted by or on behalf of Verint (collectively, the "Site"). By using the Site, you signify your agreement to the terms and conditions of this Policy. If you do not agree to this Policy, please do not use the Site. 
 
 Please note that Verint reviews its privacy practices from time to time, and that those practices are subject to change. We ask that you bookmark and periodically review this page to ensure continuing familiarity with the most current version of our Privacy Policy. You can determine when this Policy was last revised by checking the "Last revised" legend at the top of the Policy. To contact Verint about privacy issues, to report a violation of our Privacy Policy or to raise any other issue, please e-mail us at [info@verint.com](mailto:%20info@verint.com). 
 
@@ -42,7 +42,7 @@ If you contact us by email through the Site, we may keep a record of your contac
 
 Verint works with third parties who provide services that may include, but are not necessarily limited to, website hosting, data analysis and email services. We reserve the right to share personally identifiable information with such third parties for the purpose of providing such services, and will seek to impose confidentiality obligations on such service providers. 
 
-Subject to applicable law, we reserve the right to release information concerning any visitor when that visitor is in violation of our [Terms of Service](https://web.archive.org/web/20041205130423id_/http%3A//www.verint.com/corporate/gen_ar1_cat_view.cfm?article_level1_category_id=17) or other published guidelines, or partakes (or is reasonably suspected of partaking) in any illegal activity, and to release such information in response to court and governmental orders, civil subpoenas, discovery requests and as otherwise required by law. We also reserve the right to release information about our visitors when we believe in good faith that such release is required to protect the rights, property, safety or security of Verint, our visitors or the public, or to respond to an emergency. 
+Subject to applicable law, we reserve the right to release information concerning any visitor when that visitor is in violation of our [Terms of Service](https://web.archive.org/web/20060313160603id_/http%3A//www.verint.com/corporate/gen_ar1_cat_view.cfm?article_level1_category_id=17) or other published guidelines, or partakes (or is reasonably suspected of partaking) in any illegal activity, and to release such information in response to court and governmental orders, civil subpoenas, discovery requests and as otherwise required by law. We also reserve the right to release information about our visitors when we believe in good faith that such release is required to protect the rights, property, safety or security of Verint, our visitors or the public, or to respond to an emergency. 
 
 Security.
 
@@ -64,7 +64,7 @@ Questions?
 
 Questions regarding this Privacy Policy should be directed to Verint at [info@verint.com](mailto:%20info@verint.com). 
 
-The Site and this Policy, © 2003 Verint Systems Inc. All rights reserved.
+The Site and this Policy, © 2005 Verint Systems Inc. All rights reserved.
 
   
   
