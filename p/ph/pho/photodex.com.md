@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photodex.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405163813id_/http%3A//www.photodex.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photodex.com privacy policy that was archived on 2006-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060313031046id_/http%3A//www.photodex.com/company/privacy.html) for the most accurate reproduction.*
 
 # Photodex Corporation - Photodex Privacy Policy
 
@@ -43,7 +43,7 @@ To continue receiving product upgrade notifications after your information chang
 Updates may be sent to: 
 
 > Photodex Corporation  
->  4201 W Parmer Lane #B150  
->  Austin, TX, 78727  
+>  925 Westbank Drive  
+>  Austin, TX, 78746  
 >  512.419.7000  
 >  [support@photodex.com](mailto:support@photodex.com)
