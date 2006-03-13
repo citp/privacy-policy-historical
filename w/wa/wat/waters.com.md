@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waters.com privacy policy that was archived on 2005-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050826124644id_/http%3A//www.waters.com/WatersDivision/Contentd.asp%3Fwatersit%3DCEAN-5MDJJ4%26WT.svl%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waters.com privacy policy that was archived on 2006-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060313081225id_/http%3A//www.waters.com/WatersDivision/Contentd.asp%3Fwatersit%3DCEAN-5MDJJ4%26WT.svl%3D1) for the most accurate reproduction.*
 
 # Waters - Privacy Statement
 
