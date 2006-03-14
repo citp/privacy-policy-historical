@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adaptec.com privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612173151id_/http%3A//www.adaptec.com/worldwide/company/compeditorial.html%3Fsess%3Dno%26language%3DEnglish%2BUS%26cat%3D/Company/Legal%26prodkey%3Dlegal_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adaptec.com privacy policy that was archived on 2006-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060314023820id_/http%3A//adaptec.com/worldwide/company/compeditorial.html%3Fsess%3Dno%26language%3DEnglish%2BUS%26cat%3D/Company/Legal%26prodkey%3Dlegal_privacy%26source%3Dfooter) for the most accurate reproduction.*
 
 # Adaptec: Privacy Policy for www.adaptec.com
 
@@ -17,7 +17,7 @@ Adaptec wants to take this opportunity to assure you that we do not rent, sell o
 
 We are firmly committed to guarding the confidence you have placed in our company and to use any information you volunteer responsibly and professionally. We strive to collect only that information that we think is necessary for our legitimate business interests such as improving marketing of our products, meeting the needs of and educating customers, resolving customer disputes and ensuring that our proprietary information is protected. If you do not want to share personal data, please read below for information on how to opt out or change personal information Adaptec collects from you.
 
-If you have questions or concerns regarding this privacy statement, please contact us via e-mail at [mailto:privacy@adaptec.com](mailto:privacy@adaptec.com) or phone Adaptec Customer Service at either  
+If you have questions or concerns regarding this privacy statement, please contact us via e-mail at [Adaptec Privacy Policy](https://web.archive.org/worldwide/company/compeditorial.html?prodkey=company_privacy_form&cat=%2fCompany%2fAbout+Adaptec) or phone Adaptec Customer Service at either  
 1-800-959-7274 or 1-408-957-2550  
 Monday - Friday (except holidays)   
 6:00 AM - 5:00 PM U.S. Pacific Time
@@ -32,7 +32,11 @@ This policy discloses our information gathering and usage practices for the foll
 [http://platinum.adaptec.com](http://www.getadaptec.com/) |  [www.adaptec-uk.com](http://platinum.adaptec.com/)  
 [www.adaptec-es.com](http://www.adaptec-es.com/) |  [www.adaptec-de.com](http://www.adaptec-de.com/)  
 [www.adaptec-it.com](http://www.adaptec-it.com/) |  [www.adaptec-fr.com](http://www.adaptec-fr.com/)  
-[www.adaptec.pl](http://www.adaptec.pl/) |    
+[www.adaptec.pl](http://www.adaptec.pl/) |  [www.adaptec.com.au](http://www.adaptec.com.au/)  
+[www.adaptec.co.uk](http://www.adaptec.co.uk/) |  [www.adaptec.fr](http://www.adaptec.fr/)  
+[www.adaptec.de](http://www.adaptec.de/) |  [www.adaptec.es](http://www.adaptec.es/)  
+[www.adaptec.it](http://www.adaptec.it/) |  [www.myadaptec.com](http://www.myadaptec.com/)  
+   
   
 Contents:
 
@@ -103,7 +107,7 @@ We frequently provide users the opportunity to opt-out of receiving communicatio
 
 Additionally you may use one of the following options to request removal of your information from our databases. Please include the exact contact information you'd like removed and some detail about the type of communication you received from us. 
 
-You can send email to [mailto:privacy@adaptec.com](mailto:privacy@adaptec.com)
+You can send email to [Adaptec Privacy Policy](https://web.archive.org/worldwide/company/compeditorial.html?prodkey=company_privacy_form&cat=%2fCompany%2fAbout+Adaptec)
 
 You can send mail to the following postal address: 
 
@@ -132,7 +136,7 @@ Correcting or Updating your Personal Info
 
 To change or modify or remove information previously provided, we recommend that you reply or contact that list source directly. If no instructions were provided for updating your contact information you can submit a request containing your 'old' contact information, your 'new' contact information and the nature of the communication(s) you've received: 
 
-You can send email to [mailto:privacy@adaptec.com](mailto:privacy@adaptec.com)
+You can send email to [Adaptec Privacy Policy](https://web.archive.org/worldwide/company/compeditorial.html?prodkey=company_privacy_form&cat=%2fCompany%2fAbout+Adaptec)
 
 You can send mail to the following postal address: 
 
@@ -185,7 +189,7 @@ Contact
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
 
-> [mailto:privacy@adaptec.com](mailto:privacy@adaptec.com)  
+> [Adaptec Privacy Policy](https://web.archive.org/worldwide/company/compeditorial.html?prodkey=company_privacy_form&cat=%2fCompany%2fAbout+Adaptec)  
 >  or phone Adaptec Customer Service at either  
 >  1-800-959-7274 or 1-408-957-2550  
 >  Monday - Friday (except holidays )   
