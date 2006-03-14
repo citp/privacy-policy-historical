@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the just-drinks.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229185042id_/http%3A//www.just-drinks.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the just-drinks.com privacy policy that was archived on 2006-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060314212823id_/https%3A//www.just-drinks.com/about/privacy.asp) for the most accurate reproduction.*
 
 # just-drinks.com: About Us
 
