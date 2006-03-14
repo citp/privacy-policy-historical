@@ -1,121 +1,79 @@
-> *The following text is extracted and transformed from the housevalues.com privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209133840id_/http%3A//housevalues.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the housevalues.com privacy policy that was archived on 2006-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060314133707id_/http%3A//www.housevalues.com/AboutUs/AboutHV-Privacy.aspx) for the most accurate reproduction.*
 
-# House Values - Your Online source for Home Valuation
+# About HouseValues.com | Privacy Policy
 
-**Privacy Statement for HouseValues.com**
+**(Effective Date: October 2005)**
 
-**(last updated: July 2002)**
+We, HouseValues, have created this privacy statement in order to demonstrate our firm commitment to privacy. This privacy statement discloses the information collection and disclosure practices for our Web sites (the "Sites"). By accessing the Sites, you consent to the collection and use of information as described herein. We reserve the right to change this privacy statement at any time. If we make any material changes to our privacy statement, we will post a new statement on the Sites and update the effective date set forth above. Therefore, we encourage you to check the date of our privacy statement whenever you visit the Sites to see if it has been updated since your last visit.
 
-We, HouseValues.com, have created this privacy statement in order to demonstrate our firm commitment to privacy. The privacy statement discloses our information gathering and dissemination practices for this Web site (the "Site"). By accessing our Site, you consent to the collection and use of information described herein. If we decide to change our privacy statement, we will post a new statement on our Site and update the statement date. Therefore, we encourage you to check the date of our privacy statement whenever you visit this Site to see if it has been updated since your last visit. 
+**INFORMATION WE COLLECT**
 
-**Information We Collect**
+  * **Personal Information.** When you register for certain services on the Sites, we will ask you to provide personal information. For some services we collect personal information, such as your e-mail address, name, home or work address or telephone number. We may also collect demographic information, such as your ZIP code, age, gender, and preferences. Information we collect may be combined with information we obtained through other services we offer. We may collect information about your visit to the Sites, including the pages you view, the links you click and other actions taken in connection with the Sites and services. We may also collect certain standard information that your browser sends to every web site you visit, such as your IP address, browser type and language, access times and referring Web site addresses. Our Sites may also provide you with various services related to home selling and home buying (e.g., estimates of current market value of homes, moving costs, mortgage or finance costs, current home listings, neighborhood information, etc.) in these instances we may collect additional information related to the services. In order for us to provide these services, we also may collect supplementary personally identifying information about you from third party sources to correct or supplement the information we have requested from you.
 
-**Personally Identifying Information**
+  * **Aggregate Information.** Aggregate information is data we collect about a group or category of products, services or users, from which individual user identities have been removed. We collect aggregate information about you and your use of our services and combine it with information about how others use the same service. Such aggregate information includes, without limitation, site traffic, page views, and impressions. This information may be correlated to you for our internal use only. However, we may collect, compile, store, publish, promote, sell, or otherwise disclose or use any and all aggregate information (i.e., information that does not personally identify you).
 
-Our Site provides homeowners with various services related to home selling such as estimates of current market value of homes, moving costs, and mortgage or finance costs. In order to provide these services, we collect information from homeowners and forward it to a local service provider (such as licensed real estate agents or brokers) who uses the homeowner information to prepare an estimate for the service requested. 
 
-If you are a homeowner, we collect personally identifying information, including your name, address, phone number, e-mail address, and information about your home and moving plans. If you are a licensed real estate agent or broker who is interested in preparing market evaluations and estimated selling price ranges for HouseValues.com, we collect your contact and professional information, including your name, company, address, phone number and e-mail address. We also collect e-mail addresses from users who register to receive our newsletter, Home Seller Tips, which contains a variety of useful information. Regardless of whether you are a homeowner or a real estate agent or broker, information that identifies you personally is collected from our Site only if you supply it voluntarily by entering it on our Site. 
 
-**E-mail Addresses**
 
-We collect e-mail addresses as part of providing our services. Except for customer service purposes, we will not send any e-mails to you unless you request information from us. We only send our Home Seller Tips e-mail newsletter to homeowners who request the newsletter. If you have registered to receive our newsletter, you may opt out of receiving future newsletters at any time. Please see the opting-out section below. Except as is described in this policy, we will not disclose your email address to any third party without your consent. 
+**USE OF PERSONAL INFORMATION**
 
-**Aggregate Information**
+We use personal information internally to serve our users and to enhance and extend our relationship with our users. Our services may include the display of personalized content and advertising. For example, by understanding how you use the Sites from your computer, we are able to customize and personalize your experience. More specifically, we use personal information for the purposes for which it was collected (such as to provide you with the services), to anticipate and resolve problems with our Sites, to respond to customer support inquiries, and to send you periodic e-mail newsletters which may inform you of other products or services offered by HouseValues and its affiliates, to send you relevant survey invitations related to our services and for our own internal operations (including internal analysis as described below). We may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your personal information (e-mail, name, address, telephone number) is not transferred to the third party. By registering for our Sites or otherwise submitting an inquiry to us you agree to receive the materials described herein. You may unsubscribe at any time from receiving non-service related communications. You should review the following section to understand when we disclose personal information to third parties.
 
-We collect aggregate information about you and your use of our services. Such aggregate information includes, without limitation, site traffic, page views, and impressions. This aggregate information may be correlated to you for our internal use only. However, we may collect, compile, store, publish, promote, sell, or otherwise disclose or use any and all aggregate information, provided that, such information does not personally identify you. 
+**DISCLOSURE OF PERSONAL INFORMATION**
 
-**Cookies**
+Except as set forth in this privacy statement, we do not disclose, sell, rent, loan, trade or lease any personally identifying information collected at our Sites to any third party. We will disclose personal information in the following circumstances:
 
-We currently use cookies to identify users and customize their experience on our site based on information they give us. Cookies are small pieces of information or files that are stored on a user's computer by the Web server through a user's browser for record keeping purposes. A cookie itself is not designed or intended to read any information from your computer (other than the contents of the cookie); rather, it is an identifier used by the Web site that originally placed it your hard drive. The actual contents of the cookie information can be retrieved by the same site's Web server in order to personalize, monitor, or regulate the use of the site. 
+  * **Internal Analysis and Operations.** We will use and disclose information about you for our own internal statistical, design or operational purposes, such as to estimate our audience size, measure aggregate traffic patterns, and understand demographic, user interest, purchasing and other trends among our users. We may outsource these tasks and disclose personal information about you to third parties, provided the use and disclosure of your personal information by these third parties is restricted to performance of such tasks. We may also share personal information with third-party vendors who assist us in performing internal functions necessary to operate our business. We require our third party vendors to keep such information confidential and to only use the information for the purpose it was provided.
 
-**Web Beacons**
+  * **Transaction Processing.** We will disclose personal information to one or more third parties, as necessary, to provide you with the services. As stated above, your personal information is forwarded to one or more third party service providers (such as real estate agents, brokers, lenders and other real estate professionals) in order to provide you with the services. If a particular service provider is unable to fulfill your request within a reasonable time, we may forward your information to an alternate service provider to ensure that your request is fulfilled. Service providers may contact you to complete the transactions you have requested by any methods available to him or her including via e-mail, telephone, regular mail, in person visits or other means. _We do not regulate how these third party service providers use or disclose your personal information and are not responsible for removing your information from any third party lists. Please contact the third party service providers directly to be removed from their lists._
 
-A Web beacon, also known as a "Web bug," is a small, graphic image on a Web page, Web-based document or in an e-mail message that is designed to allow the site owner or a third party to monitor who is visiting a site.  Web beacons are often invisible to the user because they are typically very small (only 1-by-1 pixel) and the same color as the background of the Web page, document or e-mail message.  Web beacons are represented as HTML IMG tags in the Web page; users can click on "view profiles" of the web page to see whether the page is using a web beacon. 
+  * **Protection of HouseValues and Others:** We disclose personal information when we believe it is appropriate to comply with the law (e.g., a lawful subpoena, warrant or court order); to enforce or apply this privacy statement or our other policies or agreements; to initiate, render, bill, and collect for amounts owed to us; to protect our or our users' rights, property or safety; or to protect our users from fraudulent, abusive, or unlawful use of, our Sites; or if we reasonably believe that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of communications or justifies disclosure of records without delay.
 
-Web beacons collect the IP address of the computer that the Web beacon is sent to, the URL of the page the Web beacon comes from and the time it was viewed.  Web beacons can also be linked to personal information.  For example, advertising networks use Web beacons to add information to a personal profile of what sites a person is visiting and to determine what banner ads to display based on the profile. Another use of Web beacons is to provide an independent accounting of how many people have visited a particular Web site. Web beacons are also used to gather statistics about Web browser usage at different places on the Internet.
+  * **Business Transfers.** In addition, information about users of our Sites, including personally identifiable information provided to us by our users, may be disclosed as part of any merger, acquisition, debt financing, sale of company assets, as well as in the event of an insolvency, bankruptcy or receivership in which personally identifiable information could be transferred to third parties as one of the business assets of the company.
 
-We may use Web beacons on our site or other sites and may permit third parties to place them on our site to monitor the effectiveness of advertising or for other legitimate purposes. 
+  * **Co-Branded Services.** Some services may be co-branded and offered in conjunction with another company. If you register for or use such services, both HouseValues and the other company may receive information collected in conjunction with the co-branded services.
 
-**Use and Disclosure of Data**
 
-**Internal Use of Personal Information** **.**
 
-In general, we use personal information internally to serve our users and to enhance and extend our relationship with our users.  For example, by understanding how you use the Site from your computer, we are able to customize and personalize your experience.  More specifically, we use personal information to complete transactions you have requested, to anticipate and resolve problems with our Site, to respond to customer support inquiries, and to send you periodic e-mail newsletters (provided you register to receive our newsletter).  You should review the following section to understand when we disclose personal information to third parties. 
 
-**Disclosure of Personal Information.** ****
+**LINKS**
 
-Except as disclosed in this policy, we do not disclose, sell, rent, loan, trade or lease any personal identifying information collected at our Site to any other party.  We disclose personal information when we have your consent to do so, as necessary to complete a transaction you have requested, for marketing purposes (unless you have chosen not to receive such communications, in certain business transactions), when required by law, or when permitted to protect our rights or property.  The following section describes these disclosure circumstances more fully. 
+Please be aware that we may provide links to third party Web sites from our Sites as a service to our users and we are not responsible for the content or information collection practices of those sites. We have no ability to control the privacy and data collection practices of such sites and the privacy policies of such sites may differ from that of HouseValues. Therefore, we encourage you to review and understand the privacy policies of such sites before providing them with any information.
 
-·        **Your Consent.   **We will disclose personal information with your consent, which we may obtain in writing, verbally, through online means or as part of a separate agreement.  If new services are offered in the future that require disclosure of personal information to third parties or other uses of personal information not covered in this Policy, we will update this Policy to reflect the changes.
+**COOKIES AND WEB BEACONS**
 
-·        **Internal Analysis.   **We may use information about you for our own internal statistical, design or operational purposes, such as to estimate our audience size, measure aggregate traffic patterns, and understand demographic, customer interest, purchasing and other trends among our users.  We may outsource these tasks to third parties, provided the use and disclosure of your personal information by these third parties is restricted to performance of these tasks.
+We may use cookies to identify users and customize their experience on our site based on information they give us. Cookies are small pieces of information or files that are stored on a user's computer by the Web server through a user's browser for record keeping purposes. A cookie itself is not designed or intended to read any information from your computer (other than the contents of the cookie); rather, it is an identifier used by the Web site that originally placed it on your hard drive. The actual contents of the cookie information can be retrieved by the same site's Web server in order to personalize, monitor, or regulate the use of the site. We do not use Web beacons, or similar technology on our Sites. However, we permit third parties to place Web beacons on our Sites to monitor the effectiveness of advertising and for other lawful purposes. A Web beacon, also known as a "Web bug," is a small, graphic image on a Web page, Web-based document or in an e-mail message that is designed to allow the site owner or a third party to monitor who is visiting a site. Web beacons collect non-personally identifying information such as the IP address of the computer that the Web beacon is sent to, the URL of the page the Web beacon comes from and the time it was viewed. We do not use (or permit third parties to use) Web beacons to collect personally identifying information about you.
 
-·        **Transaction Processing -- Market Evaluations.**   We disclose personal information to third parties as necessary to complete a transaction you have requested or to perform a service on our behalf.  When a third party acts solely on our behalf, we will require it to follow our privacy practices.  As stated above, your personal information is forwarded to real estate agents or brokers, and other house-related service providers in order to provide you with the services you request. We only forward your personal information to one real estate agent, broker or other service provider for each type of service you request. If the real estate agent, broker or other service provider is unable to fulfill your request in a reasonable time, we may forward your information to an alternate service provider to ensure that your request is fulfilled. In either case, that real estate agent, broker or service provider may contact you via e-mail, telephone or other means at his or her discretion. _We do not regulate how these third parties use your information and are not responsible for removing your information from any third party lists. Please contact the third party service providers directly to be removed from their lists._
+**SECURITY**
 
-·        **Protection of HouseValues.com and Others** :  We release personal information when we believe release is appropriate to comply with the law (e.g., a lawful subpoena, warrant or court order); to enforce or apply our policies; to initiate, render, bill, and collect for amounts owed to us; to protect our or our users' rights, property or safety; or to protect our users from fraudulent, abusive, or unlawful use of, our Site; or if we reasonably believe that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of communications or justifies disclosure of records without delay. ****
+We use reasonable security measures to store and maintain personally identifying information to protect it from loss, misuse, alternation or destruction by any unauthorized party while it is under our control.
 
-·        **Business Transfers.**   In addition, information about our users, including personally identifiable information, may be disclosed as part of any merger, acquisition, debt financing, sale of company assets, as well as in the event of an insolvency, bankruptcy or receivership in which personally identifiable information could be transferred to third parties as one of the business assets of the company. 
+**USE OF THIRD PARTY AD NETWORKS**
 
-**Links**
+We may allow other companies, called third-party ad servers or ad networks, to display advertisements on the Sites. Some of these ad networks may place a persistent cookie on your computer in order to recognize your computer each time they send you an online advertisement. In this way, ad networks may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. We do not have access to the cookies that may be placed by the third-party ad servers or ad networks.
 
-Our Site provides links to outside service providers such as Amazon.com who may collect customer information for their own use. We have no ability to control the privacy and data collection practices of these sites. Please review the privacy policies of any linked sites you visit. 
+There are a number of the third-party ad networks currently operating such as: Ad4Ever; AdCentric Online; Ad Dynamix; AdSolution; Avenue A; BlueStreak; BridgeTrack; DoubleClick; efluxa; Enliven; Flycast; i33; ediaplex; PlanetActive; Pointroll; Profero; Qksrv; RealMedia; RedAgency; TangoZebra; TargetGraph; TrackStar; Travelworm; Unicast. Those ad networks that use persistent cookies may offer you a way to opt out of ad targeting. You may find more information at the Web site of either the individual ad network or the Network Advertising Initiative.
 
-**Security**
+**CHILDREN**
 
-We use commercially reasonable efforts to store and maintain personally identifying information to protect it from loss, misuse, alternation or destruction by any unauthorized party. 
+We do not intend, and these Sites are not designed, to collect personal information from children under the age of 13. If you are under 13 years old, you should not register for our services or otherwise provide information on our Sites.
 
-**Choice/Opt-Out**
+**CHOICE AND ACCESS**
 
-You may opt-out of receiving communications from us in the future through any of the following options: 
+HouseValues gives users the following options for accessing, changing and deleting personal information previously provided, or opting out of receiving communications from us:
 
-  1. to unsubscribe to the Home Seller Tips newsletter visit: [http://www.housevalues.com/remove.aspx](https://web.archive.org/web/20031209133840id_/http%3A//housevalues.com/Remove.aspx)
-  2. email homesellerinfo@housevalues.com 
-  3. call the following telephone number: 425-454-0088 
+  * email us at [homesellerinfo@housevalues.com](mailto:homesellerinfo@housevalues.com); or
 
-**Children**
+  * call us at the following telephone number: (877) 450-0088
 
-We do not intend, and this site is not designed, to collect personal information from children under the age of 13. If you are under 13 years old, you should not register for our services. 
 
-**Access to Your Information**
 
-HouseValues.com gives users the following options for changing and modifying information previously provided: 
 
-  1. email homesellerinfo@housevalues.com 
-  2. call the following telephone number: 425-454-0088 
+**QUESTIONS AND CONCERNS**
 
-**HOUSEVALUES DO-NOT-CONTACT POLICY**
+If you have any questions about this privacy statement, the practices of our Sites, or your dealings with our Sites, please contact us at the following address or email us at homesellerinfo@housevalues.com:
 
-If individuals do not wish to receive sales calls, marketing messages or other commercial communications from HouseValues, Inc., they can ask to be placed on the HouseValues ‘Do-Not-Contact’ List.  In compliance with federal and state laws, HouseValues will document the request promptly.  Please allow sufficient time for your name, telephone number, mailing address and email address to be removed from any sales and marketing programs that are currently underway.
-
-  1. Requests can be in writing, by phone or by email, and must include your name, mailing address, and telephone number.
-  2. Requests regarding telephone calls should include all telephone numbers that are to be included on the ‘Do-Not-Contact’ List. It may take up to 30 days for the change to take effect.
-  3. Requests to be removed from direct mailings should include your address in addition to name and phone number, and similarly may take up to 30 days to take effect.
-  4. We also will honor your request not to receive email from us. We will remove your email address from our list within three business days of your request, but some promotions may not be immediately affected by the change. Be sure to provide all email addresses that are to be removed from our list.
-  5. Names and contact information will remain on the ‘Do-Not-Contact’ List for 10 years, unless individuals ask to be removed.
-  6. Individuals must provide HouseValues with any changes to name, mailing address, phone number or email address for such new information to be included in the ‘Do-Not-Contact’ List.
-
-Current HouseValues customers who do not wish to be contacted should follow the steps above.  Current HouseValues customers on the ‘Do-Not-Contact’ List will not receive sales or marketing calls from HouseValues, but may receive non-commercial solicitation calls.  These may include surveys, billing, customer relations and other service-related matters.
-
-All ‘Do-Not-Call’ List requests can be expressed by email to HouseValues, Inc. at info@housevalues.com, or by telephone at 1-877-450-0088, or by written notice to:
-
-HouseValues, Inc.
-
-Attn. Marketing Department
-
-15 Lake Bellevue Drive, Suite 200
-
-Bellevue, WA 98005
-
-**Questions and Concerns**
-
-If you have any questions about this privacy statement, the practices of this Site, or your dealings with this Site, please contact: 
-
-Customer Service 
-
-HouseValues.com 
-
-15 Lake Bellevue Drive, Suite 100 
-
-Bellevue, WA 98005 
-
-[homesellerinfo@housevalues.com](mailto:homesellerinfo@housevalues.com)
+Customer Service  
+HouseValues, Inc.  
+11332 NE 122nd Way  
+Kirkland, WA 98034
