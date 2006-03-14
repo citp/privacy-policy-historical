@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radioreference.com privacy policy that was archived on 2005-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051028004010id_/http%3A//www.radioreference.com/modules.php%3Fname%3DContent%26pa%3Dshowpage%26pid%3D14) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radioreference.com privacy policy that was archived on 2006-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060314040101id_/http%3A//www.radioreference.com/modules.php%3Fname%3DContent%26pa%3Dshowpage%26pid%3D14) for the most accurate reproduction.*
 
 # The Radio Reference Homepage - Content
 
@@ -28,6 +28,6 @@ RadioReference.com works with some third party agencies that serve ads to this s
 * * *
 
 Copyright © by The Radio Reference Homepage All Right Reserved.  
-Published on: 2002-07-04 (3560 reads)
+Published on: 2002-07-04 (5865 reads)
 
 [ Go Back ]
