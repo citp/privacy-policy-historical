@@ -1,13 +1,11 @@
-> *The following text is extracted and transformed from the djintelligence.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204184723id_/http%3A//www.djintelligence.com/pages/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the djintelligence.com privacy policy that was archived on 2006-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060314212431id_/http%3A//www.djintelligence.com/pages/privacy.asp) for the most accurate reproduction.*
 
-# DJ Intelligence - Smarten Your Website - Disc Jockey DJ Software - Online Tools for Mobile DJs
+# DJ Intelligence™ - Privacy Statement
 
----  
-   
 |   
   
 ---  
-**Thursday, December 04, 2003   **  
+**Tuesday, March 14, 2006   **  
    
 | **  [Home Page](http://www.djintelligence.com/)**  
 | **  [Demo Websites](http://www.djintelligence.com/pages/demo.asp)**  
@@ -19,34 +17,33 @@
 | **  [Sign Up Now](https://www.djintelligence.com/signup/signup.asp)**  
 | **  [Full Trial Offer](https://www.djintelligence.com/signup/trial.asp)**  
 | **  [Contact Us](http://www.djintelligence.com/pages/contact.asp)**  
-| **  [Useful Links](http://www.djintelligence.com/pages/links.asp)**  
-| **  [Account Login](http://www.djintelligence.com/account)**  
+| **  [ Account Login](http://www.djintelligence.com/account)**  
    
   
 ---  
-  **Professional DJs Speak Up   **  
+  **Professional DJs Speak Up   **  
  
 
-| "DJ Intelligence impresses my clients and is integrated with my DJ admin." |    
+|  "I can guarantee you that the money you spend on this web site will be well returned to you!" |    
 ---|---  
   
    
-[Five Star Productions](http://www.djintelligence.com/pages/success.asp)    
+[Sound Connection](http://www.djintelligence.com/pages/success.asp)   
    
   
 ---  
   
-**Free Disc Jockey Newsletter   **  
+**Free DJ Software Updates   **  
   
      
   
 ---  
   
-**Account Quick Login   **  
+**Account Quick Login   **  
   
 **Privacy Statement**
 
-DJ Intelligence, Inc. takes your privacy seriously. Please read the following to learn more about our privacy policy.
+Intelligence, Inc. takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
 **What This Privacy Policy Covers**
 
@@ -59,7 +56,7 @@ DJ Intelligence, Inc. takes your privacy seriously. Please read the following to
   * When you register we ask for information such as your name, email address, address, zip code, state, country, phone, and fax. Once you register with DJ Intelligence and sign in to our services, you are not anonymous to us.
   * DJ Intelligence collects information about your transactions with us and with some of our business partners, including information about your use of products and services that we offer.
   * DJ Intelligence automatically receives and records information on our server logs from your browser, including your IP address, DJ Intelligence cookie information, and the page you request.
-  * DJ Intelligence uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.
+  * DJ Intelligence uses information for the following general purposes: to tailor the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.
 
 **Information Sharing and Disclosure**
 
@@ -71,7 +68,8 @@ DJ Intelligence, Inc. takes your privacy seriously. Please read the following to
   * DJ Intelligence displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click on targeted ads meet the targeting criteria - for example, women ages 18-24 from a particular geographic area.
     * DJ Intelligence does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad.
     * DJ Intelligence advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies).
-  * DJ Intelligence does reserve the right at our discretion only to publicly list companies that are subscribers to our service in the form of company name and state/province, country.
+  * DJ Intelligence does reserve the right at our discretion only to publicly list companies that are subscribers to our service in the form of company name and state/province, country. At our sole discretion, we may also from time to time list the subscriber website URL to show as an example to prospective/current subscribers.
+  * DJ Intelligence does reserve the right to compile anonymous subscriber and end-user information in the form of statistical information, such as, but not limited to, the Top 200 song list or date availability checks. This does not include personally identifiable information.
 
 **Cookies**
 
@@ -91,6 +89,7 @@ DJ Intelligence, Inc. takes your privacy seriously. Please read the following to
   * We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you.
   * Your DJ Intelligence Account Information is password-protected.
   * In certain areas DJ Intelligence uses industry-standard SSL-encryption to protect data transmissions.
+  * Obtaining DJ Intelligence subscriber information by electronic or other means is strictly prohibited. Usage of such private information, including email, phone, address or other contact information is strictly prohibited and violators will be prosecuted to the fullest extent of the law.
 
 **Changes to this Privacy Policy**
 
@@ -98,19 +97,6 @@ DJ Intelligence, Inc. takes your privacy seriously. Please read the following to
 
 **Questions and Suggestions**
 
-  * If you have questions or suggestions, please [contact us](https://web.archive.org/web/20031204184723id_/http%3A//www.djintelligence.com/pages/contact.asp).
+  * If you have questions or suggestions, please [contact us](https://web.archive.org/web/20060314212431id_/http%3A//www.djintelligence.com/pages/contact.asp).
 
-  
-  
-   
-   
-  
-  
- [  
-Legal Notice](http://www.djintelligence.com/pages/legal.asp) | [Terms of Service](http://www.djintelligence.com/pages/terms.asp) | Privacy Statement
 
-  Copyright © 1998-2003 DJ Intelligence, Inc. All Rights Reserved.
-
-  
-dj, software, djs, dj's, d.j., d.j.s, d.j.'s, disc, disk, jockey, jockeys, jockey's, deejay, deejays, deejay's, dee, jay, jays, jay's, mobile, mobil, mobiles, service, services, entertainment, professional, production, productions, website, websites, web, site, sites, tool, tools, intelligence, intelligent, music, database, search, request, requests, audio, samples, list, library, availability, checker, planning, planner, planners, form, forms, timeline, timelines, survey, surveys, booking, contact, contracts, price, quote, quotes, payment, credit, referral, referrals, client, clients, contact, inquiry, internet, provider, ISP, design, host, hosting, application, applications, modules, web, master, webmaster, master, ceremonies, MC, emcee, karaoke, dj, djs, dj's, d.j., d.j.s, d.j.'s, disc, disk, jockey, jockeys, jockey's, deejay, deejays, deejay's, dee, jay, jays, jay's, mobile, mobil, mobiles, service, services, entertainment, software, website, websites, web, site, sites, tool, tools  
-[Yahoo](http://www.yahoo.com/) [Google](http://www.google.com/) [MSN](http://www.msn.com/) [HotBot](http://www.hotbot.com/) [Altavista](http://www.altavista.com/) [Infoseek](http://www.infoseek.com/) [Lycos](http://www.lycos.com/) [AskJeeves](http://www.askjeeves.com/) [AllTheWeb](http://www.alltheweb.com/) [LookSmart](http://www.looksmart.com/) [Dmoz](http://www.dmoz.org/) [Excite](http://www.excite.com/) [Netscape](http://www.netscape.com/) [WebCrawler](http://www.webcrawler.com/) [Teoma](http://www.teoma.com/) [MetaCrawler](http://www.metacrawler.com/) [Search.com](http://www.search.com/) [Dot-Com Monitor](http://www.dotcom-monitor.com/)
