@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fi.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403175720id_/http%3A//www.fi.com/us/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fi.com privacy policy that was archived on 2006-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060314171634id_/http%3A//www.fi.com/us/legal/privacy) for the most accurate reproduction.*
 
 # Fisher Investments - Privacy Policy
 
@@ -60,7 +60,7 @@ Fisher Investments collects nonpublic information about users from the following
 
 
 
-Fisher Investments does not disclose any nonpublic personal information about its clients or non-clients without explicit authorization from the respective party, except as permitted by law or in response to inquires from governmental authorities.
+Fisher Investments does not disclose any nonpublic personal information about its clients or non-clients without explicit authorization from the respective party, except as permitted by law or in response to inquiries from governmental authorities.
 
 Fisher Investments restricts access to personal and account information to those personnel who need to know that information to conduct business. Fisher Investments may also disclose that information to unaffiliated third parties (such as to brokers or custodians) only as permitted by law and only as needed for Fisher Investments to provide agreed services to clients. Fisher Investments maintains physical, electronic and procedural safeguards to guard nonpublic personal information.
 
@@ -89,4 +89,4 @@ To unsubscribe from Fisher Investments' email communications, send an email to [
 
 Fisher Investments has appropriate security measures in place at its physical facilities to protect against the loss, misuse or alteration of private information collected from users. If users feel that this website is not following its stated privacy policy, they are encouraged to contact Fisher Investments at [privacy@fi.com](mailto:privacy@fi.com). 
 
-[Back to top of page](http://www.fi.com/us/legal/privacy/#top)
+[Back to top of page](http://www.fi.com/legal/privacy/#top)
