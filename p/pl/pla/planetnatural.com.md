@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the planetnatural.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231212232id_/http%3A//www.planetnatural.com/site/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetnatural.com privacy policy that was archived on 2006-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060315000322id_/http%3A//www.planetnatural.com/site/privacypolicy.html) for the most accurate reproduction.*
 
 # Planet Natural -- Privacy Policy
 
 **[Organic Lawn Care](https://web.archive.org/site/xdpy/sg/Organic%20Lawn%20Care)**  
+  [Lawn Fertilizers](https://web.archive.org/site/xdpy/sgc/Organic%20Lawn%20Care/Lawn%20Fertilizers)  
   [Weed Control](https://web.archive.org/site/xdpy/sgc/Organic%20Lawn%20Care/Weed%20Control)  
 **[Soil Care& Fertilizers](https://web.archive.org/site/xdpy/sg/Soil%20Care%20&%20Fertilizers)**  
   [Advanced Nutrients](https://web.archive.org/site/xdpy/sgc/Soil%20Care%20&%20Fertilizers/Advanced%20Nutrients)  
@@ -98,6 +99,7 @@ We are committed to continuing to protect the privacy of our customers. If you h
   
 
 
-Copyright © 2004 Sparky Boy Enterprises. All rights reserved.
+Copyright © 2004-2006 Sparky Boy Enterprises. All rights reserved.   
+
 
 [](http://www.infogears.com/)
