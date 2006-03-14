@@ -1,63 +1,77 @@
-> *The following text is extracted and transformed from the animationfactory.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230120357id_/http%3A//www.ostg.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animationfactory.com privacy policy that was archived on 2006-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060314191028id_/http%3A//www.animationfactory.com/company/privacy.html) for the most accurate reproduction.*
 
-# OSTG | Open Source Technology Group
+# Animation Factory
 
-| 
+We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only in effect for the Web pages, newsletters, discussion forums and lists and opt-in announcement lists owned and operated by Jupitermedia and its wholly-owned subsidiaries including, without limitation, JupiterImages Corporation, Hemera Technologies Inc. and the Dynamic Graphics Group (collectively hereafter "JUPM"). (The JUPM Network includes all Web sites and certain other Internet media properties linked directly or indirectly from the Jupitermedia.com home page.) The following discloses our Privacy Policy. 
 
-OSTG, Inc., comprised of the Internet sites ostg.com, slashdot.org, sourceforge.net, freshmeat.net, thinkgeek.com, itmanagersjournal.com, slashcode.com, linux.com, animationfactory.com, gifworks.com, mediabuilder.com, postcardmaker.com, 3dtextmaker.com, NewsForge.com, geocrawler.com and devchannel.org (the "OSTG Sites"), is committed to protecting the privacy of users of the OSTG Sites. At OSTG, we intend to give you as much control as possible over your personal information, including registration data. As part of the normal operation of the OSTG Sites, we collect information from you. This Privacy Statement describes the information we collect about you and how that information may be used. 
+**What information are you collecting and how are you collecting it?**
 
-Information Gathered through the OSTG Sites
+Every computer connected to the Internet is given a domain name and a set of numbers, that serve as that computer's "Internet Protocol" [ IP address](http://webopedia.internet.com/TERM/I/IP_address.html). When a visitor requests a page from any Web site within the JUPM Network, our Web servers automatically recognize that visitor's domain name and IP address. The domain name and IP address reveal nothing personal about you other than the IP address from which you have accessed our site. We use this information to examine our traffic in aggregate, and to investigate misuse of the JUPM Network, its users, or to cooperate with law enforcement. See also **Will you disclose the information you collect to outside third parties?** We do not collect and evaluate this information for specific individuals. Our Web servers do not automatically record e-mail addresses of the visitors. 
 
-OSTG will track the domains from which people visit the OSTG Sites in order to gain aggregate data that may be analyzed for trends and statistics. Subject to the provisions of this Privacy Statement, OSTG may use accumulated aggregate data for several purposes including, but not limited to, marketing analysis, evaluation of OSTG's services, and business planning. 
+**What are cookies?**
 
-Currently, OSTG uses personal information as a basis for notifications to users, and in order to implement the Terms and Conditions of Use governing the OSTG Sites (the "Terms"). Generally, the user names, email addresses, and any additional information that a user may choose to post are publicly available on the OSTG Sites.  When users voluntarily and publicly disclose personal information that may contain Registration Data, as defined in the Terms, or otherwise post personal information in conjunction with content subject to a license, such personal information necessarily will be disclosed subject to the terms of the applicable license. An example of such a disclosure includes, but is not limited to, a user's disclosure of personal information as part of a message posted to a public message forum, or a publicly-released software application. 
+From time to time, JUPM or its advertisers may send a [ "cookie"](http://webopedia.internet.com/TERM/c/cookie.html) to your computer. A cookie is a small piece of data that is sent to your Internet browser from a Web server and stored on your computer's hard drive. A cookie can't read data off of your computer hard disk or read cookie files created by other Web sites. Cookies do not damage your system. We use cookies to identify which areas of JUPM's Network you have visited or customized, so the next time you visit, those pages may be readily accessible. Our advertisers may also use cookies to ascertain how many times you've seen an advertisement. Our advertisers and we may use this information to better personalize the content, banners, and promotions that you see on our site. You can choose whether to accept cookies by changing the settings of your Internet browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our Site and other Web sites may be diminished and some features may not work as intended. 
 
-OSTG may conduct surveys or other studies of its user base and usage for marketing and planning purposes. Participation in such surveys is at the user's option, but OSTG does reserve the right to conduct mandatory surveys in the future. With respect to information collected from such surveys or studies, and in the event that responses are to be publicly disclosed, users will be notified at the time they take the survey and OSTG will disclose only aggregate information regarding its users and not personal information identifying any specific individual. Notwithstanding the foregoing, in cases where surveys allow users to submit written comments, and where OSTG advises users of the possibility of such disclosure at the time they take the survey, OSTG reserves the right to disclose text information provided by any user through such a survey, provided that no personal information identifying that user is disclosed.  Circumstances under which OSTG would publicly disclose aggregate information include, but are not limited to, sharing survey results with the site population, providing data to OSTG advertisers on user preferences and/or demographics, business planning, and publicizing overall usage data in press communications. 
+**How do you use single-pixel gifs?**
 
-Cookies
+JUPM and its advertisers may use single-pixel gif images, sometimes referred to as web bugs or web beacons, to count Web page accesses and gather some general statistical information. JUPM does not gather personal information through the use of these images. Our advertisers may use single-pixel gifs that can track personal information from cookies that may have been previously placed on a user's computer by an advertiser. 
 
-OSTG employs "cookies" to provide users with tailored information. A "cookie" is an element of data that a website, when visited by a user, sends to that user's browser which, in turn, may store that element on the user's hard drive or memory.  OSTG uses cookies to better serve users of our OSTG Sites; any cookies sent by OSTG will be marked so that they will be accessible only by OSTG Sites subject to this Privacy Statement. However, at his or her option and at his or her sole expense and responsibility, any user may block or delete our cookies from his or her hard drive. However, by disabling cookies, certain site features and functionality may no longer work properly, or at all. 
+**What information do you collect when I register for something?**
 
-Other Notification
+JUPM offers access to some services that require registration. We may use your registration contact information to send notification to you of JUPM products and services by e-mail and/or postal mail. We also may share that information with our clients. Our clients may send you promotional material that is related to the topic of the service for which you registered. We may also use your IP address internally and share it with third parties. See **Will you disclose the information that you collect to outside third parties?**
 
-In order to implement or enforce the Terms, OSTG may use user-provided e-mail addresses to contact users on an individual basis.  At no time, unless such disclosure is required by law, a governmental agency, or specifically authorized by the user, will OSTG disclose individual user personal information to unrelated third parties that is not publicly available. 
+**What other information do you request?**
 
-Links with other sites 
+We may also request your e-mail address or mailing address for the purposes of conducting a survey or to provide additional services (for example, subscriptions to e-mail newsletters, announcement lists or information about conferences and trade shows). Whenever we request the identity of a visitor, we will clearly indicate the purpose of the inquiry before the information is requested. We maintain a strict "No-Spam" policy that means that we do not sell, rent, or otherwise give your e-mail address to a third-party, without your consent or as permitted by this Privacy Policy. 
 
-The OSTG Sites contain links to other websites, whether owned or controlled by OSTG affiliates, or unrelated third parties. Please note that the privacy policies of these sites may differ from those of the OSTG Sites. OSTG is not responsible for the privacy policies and practices of any linked website. We encourage you to read the privacy statement of any website you may visit. 
+We may from time to time send e-mail announcing new JUPM products and services. Except as stated above, JUPM will not send you e-mail that you have not agreed to receive. If you choose to supply your postal address in an online form, you may receive postal mailings from other third party companies. 
 
-Choice 
+When you sign up for an JUPM discussion forum, your name or alias is recorded solely for purposes of maintaining your own account within the forums. This information is not used to monitor your activity within a forum, nor is it used to identify you outside the JUPM network. 
 
-"Opt-in" Emails
+When you register for a contest or other promotion, we may ask for your name, address, and e-mail address so we can administer the contest and notify winners. 
 
-Users may "opt-in" to receive site notifications, newsletters, or other information via email. Users may remove themselves from such services at their discretion. Any email sent to an "opt-in" list will include directions for how a user may remove himself or herself from the list, or a URL where the user may find such directions. 
+When you use co-branded services, or those provided by a third party, within the JUPM Network, your information may be passed to the co-brand or third party provider and their use of your information is subject to their applicable privacy policies. 
 
-Profile Display
+**What information do you collect when I purchase something?**
 
-In some cases, users' personal information may be publicly available through a user's profile display. In such cases, users have the option to opt out of publicly displaying their personal information, including e-mail addresses.  Users may also enlist this technique when posing comments on certain OSTG Sites.  In cases where site profiles allow users to display optional information publicly, such entry and display is at the user's discretion and may be changed at any time by the user. 
+If you are purchasing something from an JUPM media property, we and any third party provider, need to know your name, e-mail address, mailing address, credit card number and expiration date. This allows us, or third party providers, to process and fulfill your order and to notify you of your order status. This information may also be used by us to notify you of related products and services. Credit card and e-mail information will not be shared or sold to third parties for any purpose except as provided in this Privacy Policy without your express permission. 
 
-Email Display
+Certain JUPM media properties use a shopping cart feature that safeguards this information by using industry standard SSL (Secure Socket Layer) encrypted servers. SSL codes the information transferred between you and the server, rendering it unreadable to anyone trying to intercept the information. Other JUPM media properties do not use SSL and thereby do not offer a secure coded way to transfer information. 
 
-In some cases, users may have the opportunity to use an OSTG Site to send electronic mail to another user or email list. In such cases, a user's valid email address and real name will be included with such messages. In order to prevent abuse, users may not opt-out of such a display, but may choose to refrain from using such OSTG Site to transmit an email message. 
+Wherever JUPM collects personal information we make an effort to include a link to this Privacy Policy on that page. 
 
-Access 
+**Will you disclose the information you collect to outside third parties?**
 
-On certain OSTG Sites, users can view their data on their personal profile page. When technically feasible, users are permitted to update their personal information directly through OSTG. When such updating service is not technically feasible, OSTG will make reasonable efforts to assist users in updating their personal information. 
+JUPM will disclose personal information and/or an IP address, when required by law or in the good-faith belief that such action is necessary to:   
+    1)    Cooperate with the investigations of purported unlawful activities and conform to the edicts of the law or comply with legal process served on JUPM, 
 
-Security 
+    2)   Protect and defend the rights or property of the JUPM Network of sites and related properties, or visitors to the JUPM Network of sites and related properties, 
 
-To secure site integrity, OSTG employs measures, including but not limited to security audits, use of encryption tools and software, and other reasonable security measures and procedures. 
+    3)   Identify persons who may be violating the law, the JUPM legal notice and Web site User Agreement, the rights of third parties, or otherwise misusing the JUPM Network or its related properties, 
 
-Internal access to users' private and nonpublic personal information is restricted to site administrators and individuals on a need-to-know basis. 
+    4)   Fulfill a user's order or request. 
 
-Enforcement 
+JUPM uses reasonable precautions to keep the information disclosed to us secure. JUPM reserves the right to transfer all such information in connection with the sale of all or part of JUPM's capital stock or assets. Furthermore, we are not responsible for any breach of security or for any actions of any third parties that receive the information. We are not responsible for such third party privacy policies or how they treat information about their users  
+_See_ below, **What else should I know about my privacy when online? See What information do you collect when I register for something.**
 
-In the event that OSTG becomes aware that site security is compromised or nonpublic user information has been disclosed to unrelated third parties as a result of external activity, including but not limited to external security attacks, OSTG shall take reasonable measures which it deems appropriate, including but not limited to internal investigation and reporting, and notification to and cooperation with law enforcement authorities, notwithstanding other provisions of this Privacy Statement. 
+**Opt-in announcement List Privacy Policy**
 
-If OSTG becomes aware that a user's personal information provided to OSTG has been disclosed in a manner not in accordance with this Privacy Statement, OSTG shall make reasonable efforts to notify the affected user, as soon as reasonably possible and as permitted by law, of what information has been disclosed, to the extent that OSTG knows this information. 
+When you sign up for an JUPM e-mail newsletter, you are given the opportunity to sign up for targeted third-party mailings. Whether you want to receive these announcement is your choice; you should only receive mailings pertaining to distribution lists you select. If you choose to receive an announcement from a specific distribution list, you will receive commercial messages that are related to the topic of the list from independent third parties that have contracted with JUPM to send messages to the list. Personally identifiable information will not be used by JUPM for any purposes other than to deliver the e-mail announcements. You may stop the arrival of these announcement lists at any time by removing your e-mail address from the list by forwarding the announcement list to [ announcementlist@jupitermedia.com](mailto:announcementlist@jupitermedia.com) or by following the instructions on the e-mails you receive. 
 
-No Guarantees For Factors Beyond OSTG's Control 
+**What else should I know about my privacy when online?**
 
-**While this Privacy Statement expresses OSTG's standards for maintenance of private data, it is not in a position to guarantee that the standards will always be met. There may be factors beyond OSTG's control (e.g., "script kiddies", "crackers and other malcontents") that may result in disclosure of data. As a consequence, OSTG disclaims any warranties or representations relating to maintenance or nondisclosure of private information.**
+The JUPM Network contains many hyperlinks to third party Web sites. The JUPM Network also contains advertisements of third parties. JUPM is not responsible for the privacy practices or the content of such third party Web sites or advertisers. JUPM does not share any of the individual personal information you provide JUPM with the third parties to which JUPM links, except as stated elsewhere within this Privacy Policy, although JUPM may share general, aggregate data with such third parties (such as how many people use our site). Please check with those Web sites to determine their privacy policy. 
 
-**Last modified:** 06/22/04  | 
+Please keep in mind that whenever you voluntarily disclose personal information online - for example through e-mail, discussion lists, or elsewhere \- that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. 
+
+Ultimately, you are solely responsible for maintaining the secrecy of your personal information. Please be careful and responsible whenever you're online. 
+
+**Your Consent To This Agreement**
+
+By using the JUPM Network, you consent to the collection and use of information by JUPM as specified above. We reserve the right to modify this policy. If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
+
+Please send any questions about JUPM's Privacy Policy to: [ privacy@jupitermedia.com](mailto:privacy@jupitermedia.com)
+
+Please note that your use of the JUPM network of Web sites is governed by our [ Legal Notice](http://www.jupitermedia.com/corporate/legal.html). 
+
+(Revised March 30, 2005) 
