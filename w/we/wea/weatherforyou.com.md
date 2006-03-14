@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weatherforyou.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217140336id_/http%3A//weatherforyou.com/privacy.shtm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weatherforyou.com privacy policy that was archived on 2006-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060314162522id_/http%3A//www.weatherforyou.com/privacy.shtm) for the most accurate reproduction.*
 
 # Weather for You Privacy Statement
 
