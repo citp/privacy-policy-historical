@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the zeal.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204122003id_/http%3A//zeal.com/about/privacy_policy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeal.com privacy policy that was archived on 2006-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060314180349id_/http%3A//zeal.com/about/privacy_policy.jhtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[About Zeal](https://web.archive.org/about/about_zeal.jhtml;jsessionid=V45YFOEDELNQJLAQQBWWDNFMCCAD0YNN)  
-[](https://web.archive.org/about/press_room/;jsessionid=V45YFOEDELNQJLAQQBWWDNFMCCAD0YNN) [Press Room](https://web.archive.org/about/press_room/;jsessionid=V45YFOEDELNQJLAQQBWWDNFMCCAD0YNN)  
-[Terms of Use](https://web.archive.org/about/terms_of_use.jhtml;jsessionid=V45YFOEDELNQJLAQQBWWDNFMCCAD0YNN)  
+[About Zeal](https://web.archive.org/about/about_zeal.jhtml)  
+[](https://web.archive.org/about/press_room/) [Press Room](https://web.archive.org/about/press_room/)  
+[Terms of Use](https://web.archive.org/about/terms_of_use.jhtml)  
 **Privacy Policy** |  | **Privacy Policy** | Last Updated: 07/19/01  
 ---|---  
 Zeal is committed to safeguarding your privacy while using our service. Zeal's parent company, LookSmart, Ltd., shares this respect for your privacy. Please read the following policy to understand how your personal information will be treated as you make full use of our offerings. While Zeal's commitment to your privacy will not waiver, we may be required to change the details of our privacy policy from time to time, so please check back periodically.  
