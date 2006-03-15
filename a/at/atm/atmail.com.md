@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the atmail.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210142650id_/http%3A//atmail.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atmail.com privacy policy that was archived on 2006-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060315034344id_/http%3A//atmail.com/privacy.php) for the most accurate reproduction.*
 
 # WebMail Client , WebMail Server , Email Server for Linux, Unix and Windows - Privacy Policy
 
-[Home:](https://web.archive.org/web/20051210142650id_/http%3A//atmail.com/index.ehtml) @Mail Privacy Policy
+[Home:](https://web.archive.org/web/20060315034344id_/http%3A//atmail.com/index.ehtml) @Mail Privacy Policy
 
 Version 8th Sept 2005
 
@@ -41,4 +41,4 @@ Changes to this Policy
 
 Please note this Privacy Policy will change from time to time. We expect most such changes to be minor, but there may be changes that are more significant. Regardless, we will post those changes on this page and, if the changes are significant, we will also provide a more prominent notice.
 
-If you have any additional questions, please feel free to [contact us](https://web.archive.org/web/20051210142650id_/http%3A//atmail.com/contact.php).
+If you have any additional questions, please feel free to [contact us](https://web.archive.org/web/20060315034344id_/http%3A//atmail.com/contact.php).
