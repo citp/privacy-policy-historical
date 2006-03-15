@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picknsave.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223083401id_/http%3A//picknsave.com/htmdocs/privacy_statement/main.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picknsave.com privacy policy that was archived on 2006-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060315032110id_/http%3A//www.picknsave.com/htmdocs/privacy_statement/main.html) for the most accurate reproduction.*
 
 # Welcome to Pick 'n Save Online
 
