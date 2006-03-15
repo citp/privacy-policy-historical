@@ -1,65 +1,47 @@
-> *The following text is extracted and transformed from the irs.com privacy policy that was archived on 1999-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991127134606id_/http%3A//www.dotcom-corp.com/irs.comprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irs.com privacy policy that was archived on 2006-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060315235020id_/http%3A//www.irs.com/secondary/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Statement for www.irs.com
+# Privacy Statement - IRS.com
 
-## 
+IRS.com Privacy Statement
 
-## Privacy Statement for www.irs.comTM
+Internet Revenue Services, Inc., owners and operators of irs.com, has created this privacy statement in order to demonstrate our firm commitment to privacy.  Our goal has been and will always be to assist the Internal Revenue Service in making the tax experience as easy as possible for taxpayers.  To provide the best possible service to the taxpayer it is necessary for us to obtain some information from our visitors.  In doing so, we minimize the amount of information we collect.
 
-DotCom Corporation has created this privacy statement in order to demonstrate our firm commitment to privacy.  Our goal has been and will always be to assist the Internal Revenue Service in making the tax experience as easy as possible for taxpayers.  To provide the best possible service to the taxpayer it is necessary for us to obtain some information from our visitors.  In doing so, we minimize the amount of information we request and take precautions to secure that information and ensure that your privacy is protected.
+The following discloses our information gathering and dissemination practices for this website: www.irs.com™.
 
-The following discloses our information gathering and dissemination practices for this website:  **www.irs.com** TM .
-
-  * We use your IP address to help diagnose problems with our server, and to administer our Web site. 
-  * We do not use cookies.
-  * Our TaxTip$ Newsletter form requires users to give us contact information (like their first name and e-mail address).  Users may opt-out of receiving future mailings; see the choice/opt-out section below.
-  * This site contains links to other sites.  DotCom is not responsible for the privacy practices or the content of such Web sites linked from **www.irs.com**.
-  * Our site uses an order form for Tax Link Partners to request services.  In addition to general information, we collect visitor's financial information (like their account or credit card numbers). Financial information that is collected is used to bill the Partner for services.
-  * We will not reveal customer information to any external organization unless we have previously informed the customer in disclosures or agreements, been authorized by the customer, or are required by law.
+  * We do not record any personal information.
+  * We record advertising information that is used for the administration of our web site.  This information is not specific to any particular user.
+  * We use your IP address to help diagnose problems with our server, and to administer our web site.
+  * This site contains links to other sites.  Internet Revenue Services, Inc. is not responsible for the privacy practices or the content of such web sites linked from www.irs.com.  We encourage you to read the Privacy Policy's of web sites who are linked to our web site.
 
 
 
-## Security
+Cookies
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
+At any time, Internet Revenue Services, Inc. may test alternative versions of any web page on the irs.com site.  Cookies are used to keep a user's viewing environment stable and continue to show only pages that a user has previously seen and expects to see.  Cookies are not used to collect any personal information.
 
-We will safeguard, according to strict standards of security and confidentiality, any information our customers share with us.
+Additionally, we do allow third parties to serve ads on our site.  These ads may contain cookies.  This policy does not cover the use of cookies by any advertisers.
 
-All data that is collected is either physically maintained in a database on another computer (that is not connected to the Internet) or kept on our server in a secure area.  All personal information is encrypted including credit card numbers, names, and addresses, so that none of this information can be read as it travels over the Internet.  We guarantee that all personal information provided by customers will not be sold or exchanged to any other company. 
+Security
 
-We will permit only authorized DotCom employees, who are trained in the proper handling of customer information, to have access to that information.  Employees who violate our Privacy Policy will be subject to our normal disciplinary process and subject to dismissal.
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control.  We will safeguard, according to strict standards of security and confidentiality, any information our customers share with us.
 
-## Children's Guidelines
+All data that is collected is either physically maintained in a database on another computer (that is not connected to the Internet) or kept on our server in a secure area.  We guarantee that all personal information provided by customers will not be sold or exchanged with any other company.
 
-A special note about children:
+We will permit only authorized Internet Revenue Services, Inc. employees, who are trained in the proper handling of customer information, to have access to that information.  Employees who violate our Privacy Policy will be subject to our normal disciplinary process and subject to dismissal.
 
-Children are not eligible to use our services and we ask that minors do not submit any personal information to use. If you are a minor, you can use this service only in conjunction with your parents or guardians. 
+Disclosing Information Gathering
 
-## Choice:  Opt-In/Opt-Out
+As noted above, we will never disclose individual customer information to any affiliate, advertiser, or third party.  However, we do, on occasion, provide aggregate information to our advertisers such as total traffic to our site, number of clicks on a particular link, etc.
 
-Our site provides users the opportunity to opt-out of receiving communications from us.
-
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
-
-  1. Instructions for being removed from our TaxTip$ Newsletter are contained in each Newsletter received by our subscribers.  You can also request removal by sending e-mail to [taxtips@irs.com](mailto:taxtips@irs.com) with the word 'unsubscribe' in the message.  You will receive a reply e-mail indicating your removal from the list.
+  
 
 
+[Site Map](https://web.archive.org/irs-taxes.htm)  |  [FAQs ](https://web.archive.org/secondary/faqs.htm) |  [Affiliates](http://www.linkconnector.com/traffic_affiliate.php?lc=001431001134001524&params=mid,1482&atid=a00000000000260101s301010100)  |  [Contact Us](https://web.archive.org/secondary/contact_us.htm)   
+[Legal Statement](https://web.archive.org/secondary/legal.htm)  |  [Privacy Statement ](https://web.archive.org/secondary/privacy.htm)
 
-## Correct/Update
+This site is not affiliated with the IRS website, the United States Internal Revenue Service or any state revenue or taxing agency.  Copyright © 2006 Internet Revenue Services, Inc. 
 
-This site gives users the following options for changing and modifying information previously provided. 
+  [IRS.com](https://web.archive.org/index.htm) includes tax information about irs tax forms, the Internal Revenue Service, state taxes, tax software, income tax preparation, tax refunds, and irs efile for year 2005 taxes.
 
-  1. To change or modify your name or e-mail address for the TaxTip$ Newsletter, just send an e-mail to [taxtips@irs.com](mailto:taxtips@irs.com) with the updated information.  You will receive a reply e-mail indicating your information was updated.
+  
 
-
-
-## Contacting the Web Site
-
-We respect your privacy and the confidentiality of your personal information.  We thank you for being a customer and will continually strive to meet your needs. 
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
-
-DotCom Corporation  
-1135 Kildaire Farm Road  
-Suite 200  
-Cary, NC 27511  [admin@irs.com](mailto:admin@irs.com)
