@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wgnradio.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210034708id_/http%3A//wgnradio.com/special/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wgnradio.com privacy policy that was archived on 2006-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060315205035id_/http%3A//wgnradio.com/special/privacy.htm) for the most accurate reproduction.*
 
 # wgnradio.com - Radio 720 WGN - Chicago's News and Talk . . . and Sports
 
