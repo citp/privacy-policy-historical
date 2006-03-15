@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sql-server-performance.com privacy policy that was archived on 2005-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050831003924id_/http%3A//www.sql-server-performance.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sql-server-performance.com privacy policy that was archived on 2006-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060315220917id_/http%3A//www.sql-server-performance.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # SQL-Server-Performance.Com Privacy Policy
 
@@ -33,6 +33,4 @@ If you have any questions about this privacy statement, the practices of this si
 _[Brad M. McGehee](mailto:webmaster@sql-server-performance.com)  
 SQL-Server-Performance.Com  
 188 Cricket LN  
-Rogersville, MO 65742  
-_   
-
+Rogersville, MO 65742_
