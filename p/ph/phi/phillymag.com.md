@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phillymag.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230043126id_/http%3A//www.phillymag.com/index.cfm/fuseaction/content.page/nodeID/b74b2f19-22ea-4012-b6c6-5ff9287d4bf0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phillymag.com privacy policy that was archived on 2006-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060315140900id_/http%3A//phillymag.com/index.cfm/fuseaction/content.page/nodeID/b74b2f19-22ea-4012-b6c6-5ff9287d4bf0) for the most accurate reproduction.*
 
 # www.PhillyMag.com
 
