@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dnsmadeeasy.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202152306id_/http%3A//www.dnsmadeeasy.com/s0306/pol/priv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnsmadeeasy.com privacy policy that was archived on 2006-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060315040515id_/http%3A//www.dnsmadeeasy.com/s0306/pol/priv.html) for the most accurate reproduction.*
 
 # Free DNS, DNS, DDNS, Reliable DNS, Free Redirection, Cheap DNS - DNS MADE EASY
 
@@ -28,12 +28,13 @@ Information Sharing and Disclosure
 
 
   * DNS Made Easy will not sell or rent your personally identifiable information to anyone. 
+  * DNS Made Easy may list your company domain / name on our own site for the purpose of marketing and saying that you use our services. 
   * DNS Made Easy may send personally identifiable information about you to other companies or people when: 
     * We have your consent to share the information; 
     * We need to share your information to provide the product or service you have requested; 
     * We need to send the information to companies who work on behalf of DNS Made Easy to provide a product or service to you. (Unless we tell you differently, these companies do not have any right to use the personally identifiable information we provide to them beyond what is necessary to assist us.); 
     * We respond to subpoenas, court orders or legal process; or 
-    * We find that your actions on our web sites violate the [DNS Made Easy Warranty and Disclaimer](https://web.archive.org/web/20031202152306id_/http%3A//www.dnsmadeeasy.com/s0306/pol/disc.html), or any of our usage guidelines for specific products or services. 
+    * We find that your actions on our web sites violate the [DNS Made Easy Warranty and Disclaimer](https://web.archive.org/web/20060315040515id_/http%3A//www.dnsmadeeasy.com/s0306/pol/disc.html), or any of our usage guidelines for specific products or services. 
 
 
 
@@ -45,7 +46,7 @@ Information Sharing and Disclosure
 Cookies  
 
 
-  * DNS Made Easy may set and access DNS Made Easy [cookies](https://web.archive.org/web/20031202152306id_/http%3A//www.dnsmadeeasy.com/s0306/pol/cook.html) on your computer. 
+  * DNS Made Easy may set and access DNS Made Easy [cookies](https://web.archive.org/web/20060315040515id_/http%3A//www.dnsmadeeasy.com/s0306/pol/cook.html) on your computer. 
   * DNS Made Easy allows other companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to DNS Made Easy's cookies. 
 
 Your Ability to Edit and Delete Your Account Information and Preferences  
@@ -80,5 +81,5 @@ Questions or Suggestions
 
 | 
 
-© 2003 by DNS Made Easy. All Rights Reserved.  
-© 2003 by Tiggee LLC. All Rights Reserved. 
+© 2006 by DNS Made Easy. All Rights Reserved.  
+© 2006 by [Tiggee LLC](http://www.tiggee.com/). All Rights Reserved. 
