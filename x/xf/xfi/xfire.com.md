@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xfire.com privacy policy that was archived on 2005-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050520050654id_/http%3A//www.xfire.com/xf/modules.php%3Fname%3DXFire%26file%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xfire.com privacy policy that was archived on 2006-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060315113214id_/http%3A//www.xfire.com/xf/modules.php%3Fname%3DXFire%26file%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Xfire - gaming simplified
 
@@ -9,7 +9,7 @@ Privacy Policy
 **Xfire's Privacy Policy with respect to the Xfire Service:**
 
 Information Collection & Use   
-Xfire requires users to register for the Xfire service and provide personal information including a username and email address. Xfire uses this information to establish and deliver service to the individual. Xfire may use this information to contact registered users to notify them of product and service updates, provide instruction, and to deliver other service related information. Ultimate Arena may also contact users to request additional information and feedback. If you wish to be removed from such secondary mailings you may do so by the means provided in the email.
+Xfire requires users to register for the Xfire service and provide personal information including a username and email address. Xfire uses this information to establish and deliver service to the individual. Xfire may use this information to contact registered users to notify them of product and service updates, provide instruction, and to deliver other service related information. Xfire may also contact users to request additional information and feedback. If you wish to be removed from such secondary mailings you may do so by the means provided in the email.
 
 Xfire may employ companies and people to perform tasks on its behalf, and will need to share personal information with these agents to establish and deliver service to the individual. Xfire's agents do not receive any right to use personal information beyond what is necessary to perform these tasks. Xfire will not disclose registration information to third parties, including, but not limited to, companies affiliated with Xfire, without your consent or as otherwise stated in this privacy policy. 
 
