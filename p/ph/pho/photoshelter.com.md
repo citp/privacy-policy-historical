@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the photoshelter.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213202340id_/http%3A//www.photoshelter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photoshelter.com privacy policy that was archived on 2006-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060315190504id_/http%3A//www.photoshelter.com/privacy) for the most accurate reproduction.*
 
-# Photoshelter™ - Privacy Policy
+# PhotoShelter™ - Privacy Policy
 
 Privacy Policy
 
