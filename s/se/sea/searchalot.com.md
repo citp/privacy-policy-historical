@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchalot.com privacy policy that was archived on 2005-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050531074158id_/http%3A//www.searchalot.com/texis/open/thru%3Fss%3Ds%26area%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchalot.com privacy policy that was archived on 2006-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060315012906id_/http%3A//www.searchalot.com/texis/open/thru%3Farea%3Dprivacy) for the most accurate reproduction.*
 
 # Searchalot - Our Privacy Statement
 
@@ -26,7 +26,7 @@ Some of the search engines listed in the Searchalot may pay a listing fee or may
 Searchalot may decide to change this Privacy Policy from time to time. When we do, we will post those changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it.
 
 **Questions and Suggestions**  
-If you have questions or suggestions, please [Contact Us](http://www.searchalot.com/texis/open/thru?area=feedback) or you can mail us at: 
+If you have questions or suggestions, please [Contact Us](https://web.archive.org/texis/open/thru?area=feedback) or you can mail us at: 
 
 Advanced Search Technologies, Inc.  
 Privacy Policies  
