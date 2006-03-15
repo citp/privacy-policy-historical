@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the compuware.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217083523id_/http%3A//www.compuware.com/corporate/602_ENG_HTML.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compuware.com privacy policy that was archived on 2006-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060315080105id_/http%3A//www.compuware.com/corporate/602_ENG_HTML.htm) for the most accurate reproduction.*
 
 # Compuware Corporation - Our Commitment to Privacy
 
-## Our commitment to privacy — Effective date August 15, 2005
+## Our commitment to privacy — Effective date February 7, 2006
 
 Compuware Corporation recognizes your right to confidentiality and is committed to protecting your privacy.  This privacy statement applies solely to information collected by Compuware-owned web sites.
 
@@ -33,13 +33,9 @@ You may visit the web site without disclosing any personally identifiable inform
 
 Please note that we do not knowingly solicit information from children and we do not knowingly market our products and services to children.
 
-**Information sharing and disclosure:** At times it may be necessary for Compuware to share personally identifiable information with third-party service providers. A nondisclosure statement will be executed to ensure confidentiality and to restrict the use of personal data in third-party service provider situations, including but not limited to:
+**Information sharing and disclosure:** Compuware values your business and strives to protect your privacy.  Compuware will not trade, sell or otherwise relinquish your information except where:
 
-  * analysis of web site activity by an evaluation firm 
-  * distribution of bulk e-mail by a mail house 
-  * communication of promotional material by an outside publisher 
-  * sharing of Compuware's master "opt-out" suppression file with third-party vendors to guarantee privacy requests.  
-[](https://web.archive.org/corporate/602_ENG_HTML.htm)
+  * Compuware has partnered with a third party vendor to host an event, and both parties will send invitations.  Compuware's master "opt-out" suppression file will be provided to such vendor to prevent unwanted Compuware material from delivery. 
 
 
 
