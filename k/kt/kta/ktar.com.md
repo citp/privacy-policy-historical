@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ktar.com privacy policy that was archived on 2005-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051031032609id_/http%3A//www.ktar.com/index.php%3Fsid%3D4309%26nid%3D159) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktar.com privacy policy that was archived on 2006-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060315202205id_/http%3A//www.ktar.com/%3Fnid%3D159%26sid%3D93702) for the most accurate reproduction.*
 
-# :: 620ktar.com ::
-
-Privacy Policy 
+# 620 ktar.com Privacy Policy
 
 General. This web site (the "Site") is operated by KTAR-AM ("Operator"). The following Privacy Statement (the "Statement") supplements the Terms of Use posted elsewhere at the Site. You should read the Statement and the Terms of Use before you use the Site. By using the Site, you agree to be bound by all of the terms, conditions and notices contained or referenced herein. You should review the Statement from time to time. Operator may change the Statement at any time by posting revisions to the Site. Your continued use of the Site constitutes your acceptance of the revised Statement. If you do not agree to all of the terms and conditions set forth in the Statement, you must exit the Site immediately. 
 
@@ -19,3 +17,5 @@ Ownership and Use of Information. Any information collected by Operator in conne
 Forums. The Site may include forums (such as message boards and chat rooms) that enable users to communicate with each other. Operator will not moderate or edit the forums and will not be responsible for the content or use of any material posted on any forum at the Site. Operator retains the right to delete at any time and for any or no reason any material posted at the Site. 
 
 Contact Information. Questions concerning the Statement or the Site should be directed to [webmaster](mailto:%6a%61%69%6d%65%40%62%6f%6e%6e%65%76%69%6c%6c%65%63%68%69%63%61%67%6f.%63%6f%6d). 
+
+[](http://tracker.bonnint.net/?copy_id=166)
