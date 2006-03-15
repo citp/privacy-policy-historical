@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ihserc.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215001006id_/http%3A//www.ihserc.com/about-ihs/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihserc.com privacy policy that was archived on 2006-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060315185539id_/http%3A//www.ihserc.com/about-ihs/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for IHS
 
@@ -36,7 +36,7 @@ Some IHS Web pages use VeriSign for processing secure credit card orders. VeriSi
 
 IHS uses ClickAction to deliver e-mail messages to IHS customers and Web site users. Every message comes with unsubscribe information. ClickAction Privacy Statement: <http://www.clickaction.com/site/privac.html>
 
-#### Notification of Change
+### Notification of Change
 
 If IHS decides to change its privacy policy, those changes will be posted here and on other IHS Web sites. Please refer to this page if you have questions about IHS activities. If you have questions about the IHS privacy policy, you can contact:
 
@@ -45,5 +45,3 @@ VP, SEC Counsel
 IHS  
 15 Inverness Way East  
 Englewood, CO 80112
-
-|  | 
