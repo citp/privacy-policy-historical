@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcams.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215165532id_/http%3A//www.webcams.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcams.com privacy policy that was archived on 2006-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060315183947id_/http%3A//webcams.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Webcams.com - Uncensored hardcore live webcam chat in many live sex chat categories
 
