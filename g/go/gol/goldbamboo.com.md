@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldbamboo.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231092344id_/http%3A//goldbamboo.com/static-1privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldbamboo.com privacy policy that was archived on 2006-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060316002230id_/http%3A//goldbamboo.com/static-1privacy.html) for the most accurate reproduction.*
 
 # GoldBamboo.com: privacy
 
