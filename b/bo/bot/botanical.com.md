@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the botanical.com privacy policy that was archived on 2005-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050901182910id_/http%3A//botanical.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the botanical.com privacy policy that was archived on 2006-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060315205706id_/http%3A//botanical.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy & Security Policy
 
