@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vtiger.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217222602id_/http%3A//www.vtiger.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vtiger.com privacy policy that was archived on 2006-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060315094529id_/http%3A//vtiger.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D65%26Itemid%3D103) for the most accurate reproduction.*
 
-# vtiger Privacy Policy
+# vtiger - vtiger Privacy Policy
 
 vtiger is committed to respecting your online privacy and recognize your need for appropriate protection of any information you share with us. You can visit most pages on our site without giving us any information about yourself. But sometimes we do need information to provide services that you request.
 
