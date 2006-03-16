@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the voxcap.com privacy policy that was archived on 2005-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050525103403id_/http%3A//www.voxcap.com/about/policies_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voxcap.com privacy policy that was archived on 2006-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060316080113id_/http%3A//www.voxcap.com/about/policies_privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - SpeakOut.com
 
-[Privacy Policy](https://web.archive.org/web/20050525103403id_/http%3A//www.voxcap.com/about/policies_privacy.html) | [Service Agreement](https://web.archive.org/web/20050525103403id_/http%3A//www.voxcap.com/about/policies_service.html) | [Our Cookie Policy](https://web.archive.org/web/20050525103403id_/http%3A//www.voxcap.com/about/policies_cookies.html)  
-[Children Under 13](https://web.archive.org/web/20050525103403id_/http%3A//www.voxcap.com/about/policies_children.html) | [Community Standards](https://web.archive.org/web/20050525103403id_/http%3A//www.voxcap.com/about/policies_community.html) | [Terms and Conditions](https://web.archive.org/web/20050525103403id_/http%3A//www.voxcap.com/about/policies_terms.html)
+[Privacy Policy](https://web.archive.org/web/20060316080113id_/http%3A//www.voxcap.com/about/policies_privacy.html) | [Service Agreement](https://web.archive.org/web/20060316080113id_/http%3A//www.voxcap.com/about/policies_service.html) | [Our Cookie Policy](https://web.archive.org/web/20060316080113id_/http%3A//www.voxcap.com/about/policies_cookies.html)  
+[Children Under 13](https://web.archive.org/web/20060316080113id_/http%3A//www.voxcap.com/about/policies_children.html) | [Community Standards](https://web.archive.org/web/20060316080113id_/http%3A//www.voxcap.com/about/policies_community.html) | [Terms and Conditions](https://web.archive.org/web/20060316080113id_/http%3A//www.voxcap.com/about/policies_terms.html)
 
 Our Privacy Policy
 
@@ -43,7 +43,7 @@ There is also another section of SpeakOut.com, the "Subscription Center," where 
 
 You can modify your registration profile by clicking on "My Profile." On this page you have the option to change your email address or your password, and the chance to update all of the personal information you previously entered. You will also have the opportunity to fill out additional, optional questions. This screen allows you to opt in and out of email messages from SpeakOut.com.
 
-We do not sell or market lists of our users or any of our users' personally identifiable information to any commercial entities. All of your personal information, including your name, e-mail address, and postal address, will not be given to any commercial organization or person outside our Foundation. We do use the e-mail adress you provide for sending periodic newsletters about changes on the website. We also may provide your e-mail address only to campaigns, not your name and address, and for campaigns we require an opt-in notification. If there is going to be a change in the way we use your information, we will notify you by email.
+We do not sell or market lists of our users or any of our users' personally identifiable information to any commercial entities. All of your personal information, including your name, e-mail address, and postal address, will not be given to any commercial organization or person outside our Foundation. We do use the e-mail adress you provide for sending periodic newsletters about changes on the website. We also may provide your e-mail address only to campaigns, not your name and address. 
 
 SpeakOut.com's network utilizes a redundant, multi-layered infrastructure that provides a very high level of security. With the use of multiple firewalls and secure translations, SpeakOut.com's internal network remains transparent to the external user. All of the end user's database information is processed on the back-end of our site requiring multiple authentication processes to gain access. Employee access to this data is limited to personnel that are responsible for maintaining the database.
 
