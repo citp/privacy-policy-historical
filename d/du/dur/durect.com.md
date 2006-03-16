@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the durect.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221072013id_/http%3A//www.durect.com/wt/nonav/page_name/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the durect.com privacy policy that was archived on 2006-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060316175531id_/http%3A//www.durect.com/wt/nonav/page_name/privacy_policy) for the most accurate reproduction.*
 
 # DURECT: Privacy Policy
 
@@ -48,11 +48,9 @@ Your use of this site is subject to our [Legal Notice](https://web.archive.org/w
 **How to Contact Us**  
 If you have any questions, comments or concerns about this Privacy Policy or the information practices on this site, please contact us as follows:
 
-[IR@durect.com](mailto:IR@durect.com)  
 DURECT Corporation  
-10240 Bubb Road  
-Cupertino, CA  
-95014 
+2 Results Way  
+Cupertino, CA 95014 
 
 **Changes to this Privacy Policy**  
 If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on December 2, 2002.
