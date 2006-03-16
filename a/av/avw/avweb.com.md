@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avweb.com privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528011943id_/http%3A//www.avweb.com/help_desk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avweb.com privacy policy that was archived on 2006-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060316150522id_/http%3A//www.avweb.com/help_desk/privacy.html) for the most accurate reproduction.*
 
 # AVweb Privacy Policy
 
@@ -55,4 +55,4 @@ We always use industry-standard encryption technologies when transferring and re
 
 **If you feel that this site is not following its stated information policy, you may contact us at the above address or phone number.**
 
-Updated 12/22/02 
+_Updated January 23, 2006_
