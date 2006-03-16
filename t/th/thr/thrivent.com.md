@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thrivent.com privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528085045id_/http%3A//www.thrivent.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thrivent.com privacy policy that was archived on 2006-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060317002547id_/http%3A//www.thrivent.com/privacy.html) for the most accurate reproduction.*
 
 # Thrivent Financial for Lutherans
 
@@ -24,7 +24,7 @@ When you register for Lutherans Online chat rooms and message boards, other free
 
 In other sections of our Web site (e.g., the information request form, free offers order forms), we may capture additional information such as telephone number, name of your church, the home city/state of your church, and whether or not you are Lutheran. 
 
-For added security, to register for access to the Account Access or Members/Chapters areas, you will need to provide your Social Security number or Thrivent ID, and contract number or birth date. This information, required at initial registration only, is used to identify you as a unique, authorized user. 
+For added security, to register for access to the Account Access or Members/Chapters areas, you will need to provide your Social Security number or Thrivent ID, and contract number or birth date. This information, required at initial registration only, is used to identify you as a unique, authorized user. Thrivent Financial will never ask you to confirm your personal or account information through an e-mail. Never respond to an e-mail (especially [unsolicited e-mail](https://web.archive.org/web/20060317002547id_/http%3A//www.thrivent.com/phishing.html)) which asks for personal information. 
 
   
 Top of page
@@ -111,4 +111,4 @@ Notice of any material change to our Internet Privacy Policy is given on the thr
 This Internet Privacy Policy and any updates are effective as of June 27, 2004.   
 Top of page
 
-[Print this page.](https://web.archive.org/web/20050528085045id_/http%3A//www.thrivent.com/printme.php)
+[Print this page.](https://web.archive.org/web/20060317002547id_/http%3A//www.thrivent.com/printme.php)
