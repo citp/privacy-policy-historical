@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the segway.com privacy policy that was archived on 2003-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030811010639id_/http%3A//www.segway.com/general/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the segway.com privacy policy that was archived on 2006-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060316155754id_/http%3A//segway.com/general/privacy_policy.html) for the most accurate reproduction.*
 
 # Segway | Privacy Policy
-
-  | 
 
 **Privacy Statement**  
 Protecting your privacy is a Segway top priority. This statement discloses the information practices for Segway's Web sites, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared. By visiting www.segway.com, you accept the practices described in this Privacy Statement, as modified from time to time by us. 
@@ -16,9 +14,9 @@ A user may wish to register on our site to receive informational and promotional
 For ordinary users, only a name and email address is requested for these interactions. For business users, we also request additional information about the business, including the company name, address, and phone number. All such contacts and registrations are voluntary on the part of the user; therefore the user has a choice whether or not to disclose this information.
 
   * **Fulfilling your transaction request**  
-If you request something from Segway LLC, such as a product or service, a callback, or specific marketing materials, we will use the information you provide to fulfill your request. To help us do this, we may share relevant information with others such as shipping carriers, product orientation providers, merchant bankers, postal or government authorities (for example, custom authorities) involved in the fulfillment. In connection with a transaction, we may also contact you as a part of our customer satisfaction surveys or for market research purposes. 
+If you request something from Segway Inc., such as a product or service, a callback, or specific marketing materials, we will use the information you provide to fulfill your request. To help us do this, we may share relevant information with others such as shipping carriers, product orientation providers, merchant bankers, postal or government authorities (for example, custom authorities) involved in the fulfillment. In connection with a transaction, we may also contact you as a part of our customer satisfaction surveys or for market research purposes. 
   * **Affiliated Businesses  
-**For a limited time, Segway HTs are available for purchase online exclusively through Amazon.com. In order to fulfill customer orders, Amazon.com will transfer the following customer information to us and a third-party product orientation company: Customer's name, address, email address, units ordered, and amount of deposit collected. Customers will be sent an email from Segway LLC with instructions on how to complete their order, balance due, and shipping information when their units are ready to ship. 
+**For a limited time, Segway HTs are available for purchase online exclusively through Amazon.com. In order to fulfill customer orders, Amazon.com will transfer the following customer information to us and a third-party product orientation company: Customer's name, address, email address, units ordered, and amount of deposit collected. Customers will be sent an email from Segway Inc. with instructions on how to complete their order, balance due, and shipping information when their units are ready to ship. 
   * **With Your Consent**  
 Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information.
   * **Cookies**  
@@ -57,5 +55,3 @@ Our site is a general audience site that is not designed nor intended to collect
 
 **Notification of Changes**  
 If we decide to modify the practices described in this Privacy Statement, we will post notice of the modifications on our web site home page for 14 days starting 14 days before the modifications go into effect.. If you feel that Segway is not abiding by this Privacy Statement, you should first contact Segway by sending an email to [privacy@segway.com](mailto:%20privacy@segway.com).
-
-|  
