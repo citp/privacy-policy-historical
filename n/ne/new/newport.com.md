@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newport.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207002442id_/http%3A//www.newport.com/store/help.aspx%3Fid%3D215%26lang%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newport.com privacy policy that was archived on 2006-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060317001703id_/http%3A//www.newport.com/store/help.aspx%3Fid%3D215%26lang%3D) for the most accurate reproduction.*
 
 # Newport Online Store | Help
 
