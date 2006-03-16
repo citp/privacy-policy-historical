@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sologig.com privacy policy that was archived on 2005-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051212094828id_/http%3A//www.sologig.com/legal/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sologig.com privacy policy that was archived on 2006-03-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060316235512id_/http%3A//www.sologig.com/legal/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head><script src="/__utm.js" type="text/javascript"></script>
 
@@ -12,7 +12,7 @@
 <link rel="Stylesheet" href="/resources/css/styles.css">
 <script language="javascript" src="/resources/base/form/js/Form.js" type="text/javascript"></script>
 <script language="javascript" src="/resources/js/BaseLib.js" type="text/javascript"></script>
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
 _uacct="UA-67875-2";
@@ -56,6 +56,7 @@ urchinTracker();
 			flashDiv.style.position='absolute';
 			flashDiv.style.left=(document.body.clientWidth-492)/2+"px";
 			flashDiv.style.top="200px";
+			document.getElementById("flash_shown").src = "/flash.php";
 		}
 	}
 </script>
@@ -69,6 +70,7 @@ urchinTracker();
 		<param name="wmode" value="Transparent">
 <embed src="/resources/flash/popup.swf" name="popup" align="middle" swliveconnect="true" width="492" height="379" play="false" loop="false" quality="high" scale="SHOWALL" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
 </object>
+<img id="flash_shown" width="1" height="1" src="/flash.php">
 </div>
 <script>
 	function popup_DoFSCommand(command, args) {
@@ -156,7 +158,8 @@ if (navigator.appVersion.indexOf('MSIE 3') != -1){
         
         
 <!--img src="/resources/images/TopLeftGutter.gif" alt="TopLeftGutter.gif" width="162" height="13" border="0"-->
-
+<!-- login form -->
+<form name="login_form" method="POST" action="/login/index.php">
 <table width="90%" border="0" align="center" cellpadding="0" cellspacing="0">
           <tbody><tr>
             <td align="left" valign="top" bgcolor="#EEEEEE"><img src="/resources/images/box_sm_UL.gif" alt="" width="13" height="18"></td>
@@ -166,9 +169,7 @@ if (navigator.appVersion.indexOf('MSIE 3') != -1){
           <tr>
             <td class="box_leftside">&nbsp;</td>
             <td bgcolor="#EEEEEE">
-<!-- login form -->
-<form name="login_form" method="POST" action="/login/index.php">
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
               <tbody><tr>
                 <td class="level2_hdr">Sign in</td>
               </tr>
@@ -201,16 +202,12 @@ if (navigator.appVersion.indexOf('MSIE 3') != -1){
                 <td>&nbsp;</td>
               </tr>
               <tr>
-                <td align="center"><table border="0" cellspacing="0" cellpadding="0">
-                  <tbody><tr>
-                    <td id="btn"><a href="javascript:document.login_form.submit();">Sign in</a></td>
-                  </tr>
-                </tbody></table>                  </td>
+                <td align="center">
+	                <input type="image" src="/resources/images/sign_in.gif" border="0">
+                </td>
               </tr>
             </tbody></table>
-</form>
-
-</td>
+			</td>
             <td class="box_rightside">&nbsp;</td>
           </tr>
           <tr>
@@ -219,6 +216,7 @@ if (navigator.appVersion.indexOf('MSIE 3') != -1){
             <td align="right" valign="bottom" bgcolor="#EEEEEE"><img src="/resources/images/box_sm_LR.gif" alt="" width="13" height="18"></td>
           </tr>
         </tbody></table>
+</form>
         <br><br>
 
 
@@ -290,11 +288,7 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 <h4>What You Should Know</h4> 
 Sologig.com cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Privacy Policy. Therefore, although we are committed to protecting your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private. As a user of the Site, you understand and agree that you assume all responsibility and risk for your use of the Site, the internet generally, and the documents you post or access and for your conduct on and off the Site.
 
-
 <!-- /Page Content -->
-
-
-
 
 <!--gfy footer-->
 </td>
@@ -336,7 +330,9 @@ Sologig.com cannot ensure that all of your private communications and other pers
 &nbsp;&nbsp;&nbsp;
 <nobr><a href="http://www.jobsearch.com" class="FooterNavLink">Job Search</a></nobr>
 &nbsp;&nbsp;&nbsp;
-<nobr>For Employers - <a href="http://www.intelligenthire.com/pages.aspx/services" class="FooterNavLink">Recruiting</a></nobr>
+<nobr><a href="/employer/" class="FooterNavLink">Find Freelancers</a></nobr>
+&nbsp;&nbsp;&nbsp;
+<nobr>For Employers - <a href="http://www.rightfish.com/" class="FooterNavLink">Recruiting</a></nobr>
 <script language="JavaScript" type="text/javascript">
    var clientidvar = 39;
    var wTrackerOn = 1;
