@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fitness.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308135809id_/http%3A//en.fitness.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitness.com privacy policy that was archived on 2006-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060316032831id_/http%3A//www.fitness.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement - Fitness.com
 
@@ -18,5 +18,4 @@ Fitness Management Ltd. may share non-personal information about our users with 
 
 By using our site, you consent to the collection and use of your information as we have outlined in this privacy statement and in our Agreement. Fitness Management Ltd. may decide to change this privacy statement from time to time. When we do, we will post the changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. 
 
-|   
----|---|---
+| 
