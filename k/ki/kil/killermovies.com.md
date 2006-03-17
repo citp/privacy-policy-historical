@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the killermovies.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402124230id_/http%3A//www.killermovies.com/policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the killermovies.com privacy policy that was archived on 2006-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060317170949id_/http%3A//www.killermovies.com/policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy for KillerMovies.com
 
@@ -23,9 +23,6 @@ We do not share any personal information with any third parties nor do we use an
 
 **Public Forums**  
 This site makes forums/message boards available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
-
-**Stats**  
-We use Webtrends Live to analyze traffic to this web site. WebTrends Live does not create individual profiles for visitors. Unlike some tracking services WebTrends Live does not have a database of individual profiles for each visitor. WebTrends Live only collects aggregate data. For more information about WebTrends Live privacy policy, please click [here](http://www.webtrendslive.com/privacy_policy.htm). 
 
 **Contacting the Web Site**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [staff@killermovies.com](mailto:staff@killermovies.com)
