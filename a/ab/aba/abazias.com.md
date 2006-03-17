@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the abazias.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218194512id_/http%3A//www.abazias.com/terms/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abazias.com privacy policy that was archived on 2006-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060317163500id_/http%3A//www.abazias.com/terms/privacy.asp) for the most accurate reproduction.*
 
-# Abazias Diamonds :: Terms of service :: Privacy Policy
+# Privacy Policy
 
 At Abazias, we are 100% committed to your privacy and the security of the information you provide to us during your visit to our site. We encourage you to review our policies below to ensure your privacy and comfort while visiting and ordering at our web site. 
 
