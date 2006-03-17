@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tweeter.com privacy policy that was archived on 2004-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040811171044id_/http%3A//www.tweeter.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweeter.com privacy policy that was archived on 2006-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060317233116id_/http%3A//www.tweeter.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
 
 # Tweeter Helpdesk
 
-|  | [](https://web.archive.org/helpdesk/index.jsp) **Our Privacy Policy**
+**Our Privacy Policy**
 
 We at Tweeter Home Entertainment Group, Inc. ("Tweeter"), producer of Tweeter.com, believe that you have the right to know how your personal information may be used or disclosed. You take your privacy seriously, and we respect your concerns. We have created this privacy policy in order to educate you as to as to how we collect information, what we do with it, and what controls you have. Please read it carefully, and if you have any questions or concerns, please send us a comment at [customersupport@tweeter.com](mailto:customersupport@tweeter.com) or contact us by telephone at 1-866-690-2370.
 
@@ -11,7 +11,7 @@ This privacy policy applies only to personal information collected via this webs
 **Information Collection and Use**
 
 **Information**  
-When visiting any Web site, your browser sends information to the site’s hosting server identifying the browser you are using, your Internet Service Provider, the page you last visited, and the page you are currently visiting. We log this information and we may also track and catalog the search terms that you enter in our search forms. When you purchase a product on Tweeter.com, we ask you for the following information: name address, phone number, e-mail address and credit card and expiration date. We may also receive information from you in connection with contests or sweepstakes on Tweeter.com, customer feedback you provide, and customer service help you request. 
+When visiting any Web site, your browser sends information to the site_s hosting server identifying the browser you are using, your Internet Service Provider, the page you last visited, and the page you are currently visiting. We log this information and we may also track and catalog the search terms that you enter in our search forms. When you purchase a product on Tweeter.com, we ask you for the following information: name address, phone number, e-mail address and credit card and expiration date. We may also receive information from you in connection with contests or sweepstakes on Tweeter.com, customer feedback you provide, and customer service help you request. 
 
 We use information to administer and improve Tweeter.com, process and follow up on your order, and contact you.
 
@@ -32,9 +32,11 @@ Tweeter does not rent, sell, or share personal information about you with other 
   * We provide the information to trusted partners who work on behalf of or with Tweeter under confidentiality agreements. These companies may use your personal information to help Tweeter fulfill orders, process credit card payment, evaluate Tweeter.com or communicate with you about offers from Tweeter and our marketing partners. However, these companies do not have any independent right to share this information. You may opt out of future marketing communications from Tweeter or our marketing partners at any time by e-mailing to [customersupport@tweeter.com](mailto:customersupport@tweeter.com) or calling us at 1-866-690-2370. 
   * We respond to subpoenas, court orders, or legal process, to establish or exercise our legal rights or defend against legal claims. 
   * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the Tweeter.com terms of use, or as otherwise required by law. 
-  * We transfer information about you if Tweeter is acquired by or merged with another company. In this event, Tweeter will notify you before information about you is transferred and becomes subject to a different privacy policy. 
+  * We transfer information about you if Tweeter is acquired by or merged with another company. In this event, Tweeter will notify you before information about you is transferred and becomes subject to a different privacy policy.
 
-Also, GSI Commerce Solutions, Inc. ("GSI") operates this website pursuant to agreements with Tweeter. GSI collects and has access to all information collected in connection with Tweeter.com. GSI has agreed in writing to be bound by the terms and conditions of this privacy policy. 
+
+
+Also, GSI Commerce Solutions, Inc. ("GSI") operates this website pursuant to agreements with Tweeter. GSI collects and has access to all information collected in connection with Tweeter.com. GSI has agreed in writing to be bound by the terms and conditions of this privacy policy.
 
 **3rd Parties/Links**  
 Tweeter.com contains links to other websites. Please recognize that we cannot control the use or security of your personal information collected by other websites. If you have any concerns regarding the security or privacy of these websites, you should feel free to browse their privacy policies, or even to contact them directly. Tweeter is not responsible for the privacy practices, data collection, security or content of other websites.
