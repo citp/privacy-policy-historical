@@ -1,31 +1,8 @@
-> *The following text is extracted and transformed from the bakersfield.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214154734id_/http%3A//www.bakersfield.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bakersfield.com privacy policy that was archived on 2006-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060317141411id_/http%3A//www.bakersfield.com/privacy) for the most accurate reproduction.*
 
-# bakersfield.com | Privacy Policy
+# Privacy Policy | Bakersfield.com - Kern County news, events, shopping & search
 
-| 
-
-SEARCH
-
-MOST READ STORIES
-
-NEWS
-
-29 EYEWITNESS NEWS
-
-ENTERTAINMENT
-
-COMMUNITY
-
-CLASSIFIEDS
-
-SUBSCRIBER SERVICES
-
-THE CALIFORNIAN
-
-| 
-
-  
-
+## Privacy Policy
 
 This Privacy Policy explains how bakersfield.com may collect, use and aggregate personal information about you on [www.bakersfield.com](http://www.bakersfield.com/), and its affiliated web sites. Bakersfield.com respects your personal privacy and is committed to protecting it.  
 
@@ -164,6 +141,4 @@ Bakersfield.com
 1707 Eye St. (P.O. Bin 440)  
 Bakersfield CA 93302  
 661-395-7500  
-e-mail: [webmaster@bakersfield.com](mailto:webmaster@bakersfield.com)  
-  
----|---
+e-mail: [webmaster@bakersfield.com](mailto:webmaster@bakersfield.com)
