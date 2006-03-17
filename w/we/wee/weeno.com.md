@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weeno.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231100906id_/http%3A//www.weeno.com/Pages/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weeno.com privacy policy that was archived on 2006-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060317040422id_/http%3A//www.weeno.com/Pages/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement
 
