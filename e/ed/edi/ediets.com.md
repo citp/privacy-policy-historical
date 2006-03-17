@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ediets.com privacy policy that was archived on 2005-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050303000320id_/http%3A//www.ediets.com/company/membersguide/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ediets.com privacy policy that was archived on 2006-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060317110858id_/http%3A//www.ediets.com/company/membersguide/privacy.cfm) for the most accurate reproduction.*
 
 # eDiets.com - Company - Membersguide - privacy policy
 
@@ -111,6 +111,8 @@ A cookie is a small text file stored on a user's computer for record-keeping pur
 Also, companies offering products or services through our Website may use their own cookies. This Privacy Policy covers the use and placement of cookies by eDiets.com only, and does not cover the use or placement of cookies by any third party. 
 
 Your browser may be set to reject all cookies. Most browsers offer instructions on how to reset the browser to reject cookies in the "Help" section of the toolbar. If you reject our cookie(s), you will be restricted to certain free areas of our Website and will be unable to access areas of the Website available to paid members. 
+
+We also use a third-party advertising company to serve ads when you visit our Web site. This company may use non-personally identifiable information about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by this company click here: <http://www.advertising.com/Privacy.html>
 
 ###### Web Beacons
 
