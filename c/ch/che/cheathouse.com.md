@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cheathouse.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305105148id_/http%3A//www.cheathouse.com/page.php%3Fid%3Dprivacy%26PHPSESSID%3Df7ccfa6150757b39de55637ac97edeed) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheathouse.com privacy policy that was archived on 2006-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060317030005id_/http%3A//www.cheathouse.com/page.php%3Fid%3Dprivacy%26PHPSESSID%3D356121dbbe362055054d24e662aea113) for the most accurate reproduction.*
 
-# CheatHouse.com - privacy
-
-|  | | | | 
+# Free Custom Essay Writing, Student Term & Research Papers Online, Privacy - Cheat House
 
 **OUR PRIVACY POLICY**  
 
@@ -26,11 +24,3 @@ You are our customers, and we value your loyalty - we will never wish you to be 
 As big supporters of OpenSource software (and frequent visitors to sites such as [Slashdot.org](http://www.slashdot.org/)) you can easily imagine where we stand on this personally. 
 
 _Last updated: 28.aug.2002_
-
-|  |   
----|---|---|---|---  
-|   
- | 
-
-  
-
