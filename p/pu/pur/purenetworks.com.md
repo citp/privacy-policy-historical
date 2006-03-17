@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purenetworks.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219050959id_/http%3A//purenetworks.com/about/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purenetworks.com privacy policy that was archived on 2006-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060317230700id_/http%3A//purenetworks.com/about/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # Pure Networks - Home Networking Software
 
