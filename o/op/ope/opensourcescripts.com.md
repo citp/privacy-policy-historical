@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opensourcescripts.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231172433id_/http%3A//www.opensourcescripts.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opensourcescripts.com privacy policy that was archived on 2006-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060317191319id_/http%3A//www.opensourcescripts.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
