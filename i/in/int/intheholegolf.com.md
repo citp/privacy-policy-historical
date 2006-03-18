@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intheholegolf.com privacy policy that was archived on 2005-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051031084204id_/http%3A//www.intheholegolf.com/page/ITHG/CTGY/PP) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intheholegolf.com privacy policy that was archived on 2006-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060318153025id_/http%3A//www.intheholegolf.com/store/pp.html) for the most accurate reproduction.*
 
 # Privacy Policy: IN THE HOLE! Golf
 
