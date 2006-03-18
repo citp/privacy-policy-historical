@@ -1,92 +1,153 @@
-> *The following text is extracted and transformed from the salomon.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205025744id_/http%3A//www.smithbarney.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salomon.com privacy policy that was archived on 2006-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060318104808id_/http%3A//www.networksolutions.com/legal/privacy-policy.jhtml) for the most accurate reproduction.*
 
-# Online Privacy Statement
+# Service Agreement | Network Solutions
 
-  
-  
+Updated September 30, 2004
+
+Version 2.4
+
+#### Privacy Topics
+
+  * Why A Privacy Policy?
+  * Getting to Know our Customers
+  * Third Party Advertising and Cookies
+  * Information Corrections or Changes
+  * How We Put Information to Good Use
+  * With Whom We May Share Information
+  * How Do I Get My Name Removed from Bulk Access
+  * Our Accountability to You
+  * Employee Accountability
+  * The Accountability of Network Solutions' Agents and Business Partners
+  * Notification of Changes
 
 
-Smith Barney clients may review the [Citigroup Privacy Promise For Consumers](https://web.archive.org/citi_privacy.html).
 
-|  |   
----|---  
-  
-Guests and Registered Users
+#### Why A Privacy Policy?
 
-| 
+Network Solutions respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy.
 
-Online Advertising  
-  
-Categories of Information Collected
+#### This Privacy Policy protects your privacy by:
 
-| 
+#### Informing you about:
 
-Other Sites and Services  
-  
-Use of Collected Information
+  * The types of personal information Network Solutions collects about you through its Web sites;
+  * How it collects that information;
+  * The general purposes for which it collects such information;
+  * The types of organizations to which it discloses the information;
+  * The choices and means by which individuals may limit its use and disclosure.
 
-| 
 
-Access  
-  
-Aggregate Information
 
-| 
+#### Empowering you to choose:
 
-Security  
-  
-Cookies
+  * Whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and
+  * Whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it).
 
-| 
 
-Changes  
-  
-Privacy Preferences
 
-| 
+#### Assuring you that Network Solutions:
 
-Questions  
-  
-Keeping your personal information secure and ensuring your understanding of how we use that information is important to us at Smith Barney. Our goal is to help you understand how the personal information you choose to share with us through the Smith Barney Access web site is collected, used and maintained. You may review this Smith Barney Access Online Privacy Statement ("privacy statement") at any time by clicking on the Privacy link appearing on the bottom of one or more pages of the this web site. 
+  * Takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction;
+  * Implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered;
+  * Uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and
+  * Provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate.
 
-Guests and Registered Users  
-You can visit this site to read about our firm, its products and services, get market quotes, check for career opportunities, use our branch locator or other features, all without giving us any personal information about yourself. We may collect anonymous, aggregate information about how our site is accessed by you, such as IP address, domain name, time spent at the site or web pages visited. 
 
-Categories of Information Collected   
-_Registration Information_ : Some of the features on the site require registration before you can use them. If you register to use the site, you choose to provide us with certain personal information such as your name, address, e-mail address and telephone number and agree to the Terms and Conditions governing this site. You can update registration information online. You may change your password at any time. 
 
-_Service & Transaction Information_: When you use a password or a similar identifier to access the site, we will recognize your identifier and may collect various categories of information about you such as information you give us, data related to your use of the site and its services (such as calculators, Watch Lists and other features), and information about your transactions, interactions, and communications with us. 
+**Ensuring accountability** to individuals who believe that Network Solutions has not complied with these privacy principles.
 
-_Cookies_ : In addition to the online information that you voluntarily provide to us, we may use cookies and retain cookie information separately or with the information you provide to us online. A cookie is a small piece of data assigned to the browser on your computer when you visit a website. We may use cookies for various purposes such as maintaining continuity during a session, gathering data about the use of our site, storing preferences or recognizing return users. We may use cookies or other tracking technology to monitor our online promotions. (See Online Advertising) Your web browser may alert you or permit you to refuse, disable or delete cookies. If you refuse cookies, you may not be able to use certain features or services on the site. For example cookies may be used to help complete or record a transaction or combined with your other data such as when you use tools or calculators so that we may retain online information for your use in subsequent sessions. For more information about cookies used on this site please see [FAQs About Cookies](https://web.archive.org/help/faq/software_tech.html). 
+#### Getting to Know Our Customers
 
-Use of Collected Information  
-We do not sell or market your personal information or personalized data to unaffiliated organizations. The personal information you provide and the personalized data you create and save on the site is used to provide superior service to you and to inform you of products, services, or other opportunities that may be available through our firm or our affiliates. This may include disclosure of such information to employees, representatives, officers, agents, affiliates, government and regulatory entities, third parties, and service providers. Such information and data will also be used to administer our business, the site, and our services in a manner consistent with this privacy statement, the Terms and Conditions that govern your use of this site and all applicable laws, rules, regulations, or other legal obligations. If you provide us with your name, address, telephone number or e-mail address, or have done so in the past, Smith Barney or its affiliates may contact you by telephone, mail or e-mail. Our affiliates are the family of companies controlled by Citigroup. They are in several different lines of business, including banking, consumer finance, insurance, securities and credit cards and do business under names such as Citibank, Travelers Life and Annuity and Primerica. Nonaffiliated third parties are those not part of the Citigroup family of companies. Types of nonaffiliated third parties include financial services providers, such as companies engaged in banking, consumer finance, securities and insurance and non-financial organizations, such as companies engaged in offering new products or services. E-mail or other electronic communications sent to us through the site will be maintained in a manner consistent with our legal and regulatory requirements regarding client and public communications. 
+Network Solutions is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are the Internet's leading domain name registrar because we have taken the time to get acquainted with each one of our many customers.
 
-Aggregate Information   
-If you anonymously visit or browse the site without registering or logging on with a username, password or other registration code, we do not collect your personal information unless you disclose it to us (e.g., e-mail address). We may collect aggregate, technical information that tracks site use including browser type, IP address, domain name, number or type of pages visited and time spent on the site. We may use such information in a variety of ways including analyzing trends, visitor interests, or to improve the site. 
+We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at [www.networksolutions.com](https://web.archive.org/web/20060318104808id_/http%3A//www.networksolutions.com/legal/www.networksolutions.com) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
 
-Privacy Preferences   
-Your browser software may contain a feature intended to notify you of the cookie policies of the websites you visit. For example, the Microsoft® Internet Explorer 6 browser software contained in Microsoft® Windows® XP contains such a cookie- filtering device commonly known as P3P. General information about P3P can be found at www.w3.org/P3P. This site has attempted to be compatible with the P3P privacy-filtering tool. However, P3P is still an evolving standard and therefore, we are not responsible for any problems you may experience when using a P3P filter, or any discrepancies between the machine-coded privacy statements which are read by the P3P tool and our human readable policies that you see referenced here on this site including this privacy statement and the Citigroup Privacy Promise, which are the controlling documents to which you should refer if you have questions about privacy and this site. 
+After you have signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
 
-Online Advertising   
-Smith Barney online advertisements may be posted by other companies on third party sites that carry our advertising. These companies may set cookies and use related technology, such as encoded URLs or other tracking mechanisms that may note how Internet users respond to an online advertisement. For example, browsers that click on an online advertisement may be redirected to our site with an encoded URL or other tracking technology that may collect and store information about site visits, time spent, or a specific advertisement. Generally reported as aggregate and anonymous data, such information can help us understand for example the performance of online advertising. Third party sites that show our online advertising are often independent businesses that provide their own privacy statements. We are not responsible for such statements or sites. You should always review the privacy representations of those third party sites that you visit before you use them and particularly before you share personal information. 
+For operational and quality assurance purposes, we take note of whether and how you use the information and services that we provide, such as by recording site traffic patterns and by maintaining log files of users' access to site files.
 
-Other Sites and Services  
-This site may contain links to other Internet sites not under our direction or control. This privacy statement does not apply to those sites. We are not responsible for such sites, cannot control how such sites use personal information, cookies or other data, and their representations do not apply to this site. You should always review the privacy representations of those sites that you link to before you use them and particularly before you share personal information. If you use other sections of this site that have additional privacy statements (e.g., My Accounts), those apply in addition to this statement to the use of that section or service as described. 
+The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. We also encrypt your transmission of sensitive information to us (e.g., credit card numbers, account passwords) in the interest of heightened privacy protection and information integrity. Transactions within our account manager and purchase flows use Secure Sockets Layer (SSL) encryption when transmitting data from your connection to our systems. You may click the lock icon within your web browser to verify the authenticity of any or our SSL certificates.
 
-Our _Young Investors Network_ section of this site does not collect personally identifiable information. The information available on the Young Investors Network is solely for educational purposes. Those who register to use the educational calculators and information available on the Young Investors Network sections of the site are not required to provide or asked for an e-mail address or other information that could identify them in any way. Users are encouraged not to use passwords or other registration information that could be used to identify them. 
+#### Third Party Advertising and Cookies
 
-Access  
-Clients can review their accounts through statements, Smith Barney Access or Financial Consultants and as described in our client privacy notices. Contact information such as our Internet or mailing addresses and telephone numbers are found on statements or other correspondence. Non-clients registered to use the site who provide personal data online can often update it through the same online registration or other section of the site. There may be a charge for requested information. To protect your privacy, proof of identity or other authentication may be required. 
+We use third-party advertising companies to serve ads on our Web site and other Web sites. In the course of serving advertisements, these companies may place or recognize a unique 'cookie' on your hard drive, and may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. For more information about this practice and to know your choices about not having your information used by these companies, please visit <http://www.doubleclick.net/us/corporate/privacy>.
 
-Security  
-We maintain your personal information and data according to strict standards of security and confidentiality as described in the Terms and Conditions that govern your use of this site. Online access to your account portfolio is only possible through a secure (SSL capable) web browser. SSL capable web browsers support encryption technology, which helps prevent unauthorized users from viewing your account information as it travels over the Internet. To learn more about security [click here](https://web.archive.org/web/20050205025744id_/http%3A//www.smithbarney.com/security.html). 
+Network Solutions shares Web site usage information about visitors to our Web site with a reputable third-party advertising company for the purpose of targeting our Internet banner advertisements on this site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please click here. To opt out of the targeting program, please click [here](http://www.privacychoices.org/ "http://www.privacychoices.org/").
 
-Changes  
-Smith Barney may change this privacy statement at any time. Any changes or updates will be effective immediately upon posting to this site. The effective date of this privacy statement, as stated below, indicates the last time this statement was materially changed. Checking the effective date below allows you to determine whether there have been such changes since the last time you reviewed the statement. This privacy statement does not supersede the Terms and Conditions that govern your use of this site. Any conflict between the two shall be determined in favor of such Terms and Conditions. 
+#### Information Corrections or Changes
 
-Questions  
-As a client, your Financial Consultant or other Smith Barney representative can assist you or direct your inquiries on these matters. Otherwise, for further direction regarding inquiries concerning this privacy statement, you may contact our Help Desk by [E-mail](https://web.archive.org/help/email/) or telephone as described on the site. 
+You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at <https://www.networksolutions.com/manage-it/index.jhtml>. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at [customerservice@networksolutions.com](mailto:customerservice@networksolutions.com).
 
-Effective Date  
-This online privacy statement was last modified: June 30, 2004. 
+#### How We Put Information to Good Use
+
+We use information about you for purposes of monitoring and improving our internal operations, as well as to ensure we: (i) bill you properly, (ii) administer your account in accordance with your agreements with us, and (iii) properly perform the services you have requested.
+
+We also use the information we collect to monitor and improve our internal operations, as well as to improve the experience of users in our network of sites. For example, we may correlate Web site traffic information with data about individual users. This data helps us to determine how much our customers use parts of the site, allowing us to enhance it to fit the needs of as many of our customers as possible. We may also break down overall usage statistics according to customers' domain names, browser types, and MIME types by reading this information from the browser string (information contained in every user's browser).
+
+Another example of our use of information to enhance the experience of users in our network of sites is our reliance on cookie files. We use cookie files to make it easier for users to access our site or services. A cookie file is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. However, the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above) when you register for Network Solutions services. When you register, we may use a cookie to store a unique, random user ID. We use this ID to identify you anonymously in our database and to track the pages you visit on our site.
+
+If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our sites may require a cookie for access.
+
+Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services.
+
+#### With Whom We May Share Information
+
+Pursuant to arrangements with Internet Corporation for Assigned Names and Numbers ('ICANN'), we compile and maintain a publicly accessible registration database that includes basic information about each domain name registered with us, including the names, telephone numbers and e-mail addresses of individuals designated as points of contact for a given domain name. Whether or not applicable domain name registration fees have been paid is also publicly accessible. With the gradual continued privatization of the Domain Name System, and consistent with the rules or policies applicable to that system, or to comply with any changes in law or regulation, we may, if appropriate, take steps to restrict the accessibility and amount of personally identifying information available in the registration database
+
+When you register a domain name through us, we must disclose your domain name and its associated Internet Protocol ("IP") numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet. Certain registries also require that we disclose to them the names, postal addresses, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. Each registry discloses certain portions (and in some cases all) of the information we are required to provide to them about your domain name registration. For example, each registry discloses at least each registered domain name and its associated IP numbers ("TLD zone files") to TLD server administrators so that the domain name is capable of functioning as an address on the Internet. Consistent with the current rules and policies for the Domain Name System, such registries also disclose the TLD zone files to other interested persons, provided those persons agree, among other things, not to use the TLD zone files for improper purposes, including the transmission of unsolicited commercial e-mail. Similarly, each registry may compile and maintain a publicly accessible database that includes basic information about each domain name registered with that registry, including the names, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name.
+
+We may share certain information about you with those of our vendors who are responsible for handling your account or performing other services that you require (including vendors who may update your credit card expiration date and credit card account number if you choose our auto-renew feature). Although we may share sensitive financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal e-mail messages or message board postings) with such vendors where necessary and appropriate, we will not share such information with other third parties, except in response to formal requests (e.g., subpoena or court order) made in connection with litigation, arbitration, or criminal proceedings directly relating to a domain name registration or other services we provide, or as directed by you or your agent.
+
+Additionally, we may share the information stored on the publicly accessible registration database, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. If you do not want us to share information about you with our business partners, you may opt-out of receiving this information through our Account Manager by following the instructions below:
+
+  1. Log into Account Manager at [www.networksolutions.com](https://web.archive.org/web/20060318104808id_/http%3A//www.networksolutions.com/legal/www.networksolutions.com "www.networksolutions.com");
+  2. Click “Edit User Info” in the left menu;
+  3. Scroll to the bottom of the page;
+  4. Select “NO” for the third statement, which reads, “I would like to receive selected and relevant information from Network Solutions partners;” and
+  5. Click “SAVE.”
+
+
+
+Please note, however, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
+
+#### How Do I Get My Name Removed from Bulk Access
+
+As noted above, we currently make certain information about you available to the general public via our domain name registration database look-up services. These services give users access to such data on a query-by-query basis. Pursuant to our arrangements with ICANN, qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to allow, enable or otherwise support the transmission by e-mail, telephone, or facsimile of mass, unsolicited, commercial advertising or solicitations to entities other than to such qualified persons’ own existing customers; or (ii) sell or redistribute the data to third parties, except insofar as the data is incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the data. If you do not want your personal information disclosed on a bulk basis, you may opt-out of such disclosure through our Account Manager by following the instructions below:
+
+  1. Log into Account Manager at [www.networksolutions.com](https://web.archive.org/web/20060318104808id_/http%3A//www.networksolutions.com/legal/www.networksolutions.com "www.networksolutions.com");
+  2. Click “Edit User Info” in the left menu;
+  3. Scroll to the bottom of the page;
+  4. Select “NO” for the first statement, which reads, “I choose to have my name included in the Bulk WHOIS data licensed to third parties for domains for which I am the Account Holder or Primary Contact;” and
+  5. Click “SAVE.”
+
+
+
+#### Our Accountability to You
+
+By purchasing our services, you obtain the protections of, and consent to the data processing practices described in, this Privacy Policy. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
+
+In addition to the privacy protections that we provide, our employees, agents and business partners are independently responsible for ensuring compliance with this Privacy Policy, as described below.
+
+#### Employee Accountability
+
+Only those Network Solutions employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by a Network Solutions employee is prohibited and constitutes grounds for disciplinary action.
+
+Additionally, our information management systems are configured in such a way as to block or inhibit employees from accessing information that they have no authority to access.
+
+#### The Accountability of Network Solutions' Agents and Business Partners
+
+Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
+
+If you feel that Network Solutions, or any of our agents, representatives or employees, is violating this Privacy Policy, please contact us via e-mail at [privacy@networksolutions.com](mailto:privacy@networksolutions.com), by telephone at (703) 668-4600, or by postal mail at:
+
+Network Solutions, LLC  
+Attention: General Counsel  
+13861 Sunrise Valley Drive  
+Herndon, VA 20171  
+(703) 668-4600 
+
+#### Notification of Changes
+
+We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to [privacy@networksolutions.com](mailto:privacy@networksolutions.com).
+
+**If you have any questions regarding this Privacy Policy, please contact[privacy@networksolutions.com](mailto:privacy@networksolutions.com).**
