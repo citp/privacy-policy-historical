@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the moviegoods.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008113659id_/http%3A//www.moviegoods.com/privacy_security.asp%3F%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviegoods.com privacy policy that was archived on 2006-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060318072419id_/http%3A//www.moviegoods.com/privacy_security.asp%3F%26) for the most accurate reproduction.*
 
 # MovieGoods - Privacy / Security
 
-This privacy statement discloses the privacy practices for MovieGoods, Inc. ([http://www.MovieGoods.com](http://www.moviegoods.com/)).
+This privacy statement discloses the privacy practices for MovieGoods, Inc. ([http://www.MovieGoods.com](http://www.moviegoods.com/))
 
-Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices has also agreed to notify you of: 
+Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices has also agreed to notify you of:
 
   1. What personally identifiable information of yours or third party personally identification is collected from you through the web site;
   2. The organization collecting the information;
@@ -12,11 +12,11 @@ Because this web site wants to demonstrate its commitment to your privacy, it ha
   4. With whom the information may be shared;
   5. What choices are available to you regarding collection, use and distribution of the information;
   6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under MovieGoods, Inc.’s control;
-  7. How you can correct any inaccuracies in the information. 
+  7. How you can correct any inaccuracies in the information.
 
 
 
-If you believe that MovieGoods, Inc. is not abiding by its posted privacy policy, please contact our Privacy Advocate by [email](mailto:privacy@moviegoods.com), or telephone at (702) 382-7414, or fax at (702) 388-7414, or by mail at One East Charleston Blvd., Las Vegas, Nevada 89104.
+If you believe that MovieGoods, Inc. is not abiding by its posted privacy policy, please contact our Privacy Advocate by [email](mailto:privacy@moviegoods.com), or telephone at (702) 382-7414, or fax at (702) 388-7414, or by mail at 6000 S. Eastern Avenue, Suite 1B, Las Vegas, Nevada 89104.
 
 **
 
@@ -33,7 +33,7 @@ Registration
 
 **
 
-In order to place orders or use any "personalized" or "customized" features of this web site, you must first complete our registration form. During registration, you must provide your contact information (such as name and email address). This information is used to contact you about the services on our site for which you have expressed interest.  
+In order to place orders or use any personalized or customized features of this web site, you must first complete our registration form. During registration, you must provide your contact information (such as name and email address). This information is used to contact you about the services on our site for which you have expressed interest.  
 Return to Top >>
 
 **
@@ -58,11 +58,11 @@ Return to Top >>
 
 **
 
-Mailing List(s) and Newsletters
+Mailing Lists and Newsletters
 
 **
 
-During the registration process, during the order process, and at other times at our site, we may ask if you wish to receive email notices regarding our products and services, or regarding related products or services offered by other merchants, or if you wish to subscribe to specific newsletters or discussion lists we may create and manage. You may elect to receive, or not to receive, any of these mailings, and you may change your mind at any time by "logging in" and changing your preferences. Even if you elect to receive these emails, your information will never be disclosed for use by any third party (all such mailings will be done by our staff or agents). If we elect to hire a separate agency or company to manage and deliver our email newsletters or postal mailings, our contract with that agency or company will preclude their using or sharing our customer lists for any other purpose. We will not sell our email or postal-address mailing lists to any third parties.  
+During the registration process, during the order process, and at other times at our site, we may ask if you wish to receive email notices regarding our products and services, or regarding related products or services offered by other merchants, or if you wish to subscribe to specific newsletters or discussion lists we may create and manage. You may elect to receive, or not to receive, any of these mailings, and you may change your mind at any time by "logging in" and changing your preferences. Even if you elect to receive these emails, your information will never be disclosed for use by any third party (all such mailings will be done by our staff or agents). If we elect to hire a separate agency or company to manage and deliver our email newsletters or postal mailings, our contract with that agency or company will preclude their using or sharing our customer lists for any other purpose.  
 Return to Top >>
 
 **
@@ -95,13 +95,15 @@ Sharing
 
 **
 
-We will share aggregated demographic information with our partners (including "affiliates") and advertisers. This is not linked to any personal information that can identify any individual person.
+We will share aggregated demographic information with our partners (including affiliates) and advertisers. This is not linked to any personal information that can identify any individual person.
 
-We maintain our own warehouses and shipping departments, but we may elect at times to ask our third-party suppliers to ship merchandise directly to you on our behalf. We will only disclose to third parties the minimum information required to ship your order, and our contract with any such company will require that they not retain, share, store, or use any personally identifying information for any secondary purposes. 
+We maintain our own warehouses and shipping departments, but we may elect at times to ask our third-party suppliers to ship merchandise directly to you on our behalf. We will only disclose to third parties the minimum information required to ship your order, and our contract with any such company will require that they not retain, share, store, or use any personally identifying information for any secondary purposes.
 
-We use a credit card verification and processing company to obtain credit card approvals and to bill users for goods and services. The companies we contract with do not retain, share, store, or use any personally identifying information for any secondary purposes. However, your own credit card company may, in some circumstances, make secondary use of your personal information and purchasing history; contact your credit card company for information or to request a copy of your service agreement. 
+From time to time, MovieGoods may provide the physical mailing addresses of some registered MovieGoods users to partner companies for limited marketing purposes. This information will not include the email addresses and/or phone numbers of any registered users.
 
-We may "partner" with other companies to provide specific services, such as coordinating delivery of our opt-in newsletters (see "mailing list," above) or to create and deliver "e-greetings." When you sign up for these services, we must share certain information (such as your e-mail address) with our partners in order for you to receive these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services. If you discover or suspect any secondary use of your data by any of our partners, please contact our Privacy Officer immediately (see contact information, above).  
+We use a credit card verification and processing company to obtain credit card approvals and to bill users for goods and services. The companies we contract with do not retain, share, store, or use any personally identifying information for any secondary purposes. However, your own credit card company may, in some circumstances, make secondary use of your personal information and purchasing history; contact your credit card company for information or to request a copy of your service agreement.
+
+We may partner with other companies to provide specific services, such as coordinating delivery of our opt-in newsletters (see mailing list, above), or to create and deliver "e-greetings". When you sign up for these services, we must share certain information (such as your e-mail address) with our partners in order for you to receive these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services. If you discover or suspect any secondary use of your data by any of our partners, please contact our Privacy Officer immediately (see contact information, above).  
 Return to Top >>
 
 **
@@ -132,7 +134,7 @@ This web site takes every precaution to protect our users’ information. When u
 
 When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with SSL, the best encryption software in the industry. While on a secure page, such as our order form, the "lock" icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked (when you are just "surfing," the icon appears un-locked, or open). 
 
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to your information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers’ information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage.
+While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to your information. Furthermore, all employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers’ information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage.
 
 If you have any questions about security or privacy at our web site, you can send an email to [privacy@moviegoods.com](mailto:privacy@moviegoods.com).  
 Return to Top >>
@@ -145,7 +147,7 @@ Correction/Updating Personal Information:
 
 **
 
-If a user’s personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user’s personal data provided to us. This can usually be done at the member information page or by emailing our Customer Support. 
+If a user’s personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user’s personal data provided to us. This can usually be done at the member information page or by emailing our Customer Support.
 
 **
 
@@ -164,5 +166,5 @@ Notification of Changes
 
 **
 
-If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.  
+If we decide to change our privacy policy, we will post those changes on this web page so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.  
 Return to Top >>
