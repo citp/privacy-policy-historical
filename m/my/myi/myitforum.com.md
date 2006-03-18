@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myitforum.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206195716id_/http%3A//myitforum.techtarget.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myitforum.com privacy policy that was archived on 2006-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060318205440id_/http%3A//myitforum.com/privacy.asp) for the most accurate reproduction.*
 
 # myITforum.com : Privacy Statement
 
@@ -23,4 +23,4 @@ You may occasionally get cookies from our advertisers. These cookies are sent fr
 
 **Removal from our Database**
 
-Should you ever wish to be removed from our database, simply contact us and we will be happy to fulfill your request. Additionally, should you wish further clarification of this policy, please do not hesitate to email us at [learningzone@techtarget.com](mailto:learningzone@techtarget.com).
+Should you ever wish to be removed from our database, simply contact us and we will be happy to fulfill your request. Additionally, should you wish further clarification of this policy, please do not hesitate to email us at [rtrent@myitforum.com](mailto:rtrent@myitforum.com).
