@@ -1,19 +1,16 @@
-> *The following text is extracted and transformed from the dunhamssports.com privacy policy that was archived on 2004-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040816041323id_/http%3A//www.dunhamssports.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dunhamssports.com privacy policy that was archived on 2006-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060318171629id_/http%3A//www.dunhamssports.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dprivacy) for the most accurate reproduction.*
 
 # Dunham's Sports Helpdesk
 
-|   
-| [](https://web.archive.org/helpdesk/index.jsp)
-
 GSI Commerce Solutions, Inc. has created this Privacy Policy to inform you of the information gathering and dissemination practices for this Web site, www.dunhamssports.com. Because we want to demonstrate our commitment to your privacy, we want to notify you of:
 
-  1. What personally identifiable information of yours is collected through this Web site; 
-  2. The organization collecting the information; 
-  3. How the information is used; 
-  4. With whom the information may be shared; 
-  5. What choices are available to you regarding collection, use and distribution of the information; 
-  6. The kind of security procedures that are in place to protect against the loss, misuse or alteration of information under GSI Commerce Solutions, Inc.'s control; and 
-  7. How you can correct any inaccuracies in the information. 
+  1. What personally identifiable information of yours is collected through this Web site;
+  2. The organization collecting the information;
+  3. How the information is used;
+  4. With whom the information may be shared;
+  5. What choices are available to you regarding collection, use and distribution of the information;
+  6. The kind of security procedures that are in place to protect against the loss, misuse or alteration of information under GSI Commerce Solutions, Inc.'s control; and
+  7. How you can correct any inaccuracies in the information.
 
 
 
@@ -75,19 +72,23 @@ Customer Feedback Form
 
 You can use this form to give us any input which we will use to improve our site. The only required data is your name and email address. The remainder of the data is optional. We only use this data to make improvements on our site. Except as provided in this privacy policy, this data is not shared with anyone in any way.
 
-Our Third Party Relationships   
+Our Third Party Relationships
+
+  
 
 We have established several relationships with third parties vendors to best serve our customers.
 
-  * **_Retailer:_** GSI Commerce Solutions, Inc. operates this Web site pursuant to agreements with Dunham's Athleisure Corporation ("Dunham's Sports"). Pursuant to such agreements, Dunham's Sports is entitled to access and use the information collected through this Web site to the same extent and in the same manner as GSI Commerce Solutions, Inc.. Additionally, Dunham's Sports may contact those customers who have agreed to receive promotional offers about offers in its land-based stores. Dunham's Sports has agreed to abide by this Privacy Policy and the same restrictions and limitations applicable to GSI Commerce Solutions, Inc. hereunder. 
-  * **_Affiliates:_** From time to time we may establish an affiliate program. An affiliate program allows other Web sites to earn money by linking customers to our site from their sites. These affiliates can only access data about the number of transactions and their resulting earnings. They cannot access our customers' personal data. If you choose to apply to any of our affiliate programs, we use the data you give us strictly for conducting business with you. We have entered into certain agreements with certain third parties for the purpose of helping to administer the affiliate programs. Such third parties may have access to certain of your information if you are an affiliate of the web site but is restricted to only use such information in connection with its administration of the affiliate programs. 
-  * **_Order Fulfillment:_** Certain vendors of ours provide customer order fulfillment and shipping services on our behalf. These vendors have access only to information needed to accurately fulfill and ship orders, which are processed through such vendors. These vendors have agreed to not use any personally identifiable information of customers for any other purpose. 
-  * **_Credit Card Processing:_** We use Chase Merchant Services L.L.C. to process credit card orders. We supply them with data for credit card authorization and fraud detection only and they are restricted from using the data for any other purposes. 
-  * **_Web Site Evaluation:_** From time to time, we engage certain third parties to observe, track and report on the behavior of the users of this Web Site in order to evaluate the performance and features of this Web Site. These third parties will only have access to information to the extent necessary and will be required to not use any personal information for any other purpose. 
-  * **_Marketing and Promotions:_** From time to time, we engage certain third parties to assist in the dissemination of marketing and promotional offers (i.e. e-mails) to those customers who have agreed to receive such offers. These third parties will only have access to information to the extent necessary and will be required to not use any personal information for any other purpose. 
-  * **_Additional Third Party Relationships:_** From time to time, we engage other third parties to assist in providing marketing, order processing and fulfillment services. These third parties will only have access to information to the extent necessary and will be required to not use any personal information for any purpose other than providing such services. 
+  * **_Retailer:_** GSI Commerce Solutions, Inc. operates this Web site pursuant to agreements with Dunham's Athleisure Corporation ("Dunham's Sports"). Pursuant to such agreements, Dunham's Sports is entitled to access and use the information collected through this Web site to the same extent and in the same manner as GSI Commerce Solutions, Inc.. Additionally, Dunham's Sports may contact those customers who have agreed to receive promotional offers about offers in its land-based stores. Dunham's Sports has agreed to abide by this Privacy Policy and the same restrictions and limitations applicable to GSI Commerce Solutions, Inc. hereunder.
+  * **_Affiliates:_** From time to time we may establish an affiliate program. An affiliate program allows other Web sites to earn money by linking customers to our site from their sites. These affiliates can only access data about the number of transactions and their resulting earnings. They cannot access our customers' personal data. If you choose to apply to any of our affiliate programs, we use the data you give us strictly for conducting business with you. We have entered into certain agreements with certain third parties for the purpose of helping to administer the affiliate programs. Such third parties may have access to certain of your information if you are an affiliate of the web site but is restricted to only use such information in connection with its administration of the affiliate programs.
+  * **_Order Fulfillment:_** Certain vendors of ours provide customer order fulfillment and shipping services on our behalf. These vendors have access only to information needed to accurately fulfill and ship orders, which are processed through such vendors. These vendors have agreed to not use any personally identifiable information of customers for any other purpose.
+  * **_Credit Card Processing:_** We use Chase Merchant Services L.L.C. to process credit card orders. We supply them with data for credit card authorization and fraud detection only and they are restricted from using the data for any other purposes.
+  * **_Web Site Evaluation:_** From time to time, we engage certain third parties to observe, track and report on the behavior of the users of this Web Site in order to evaluate the performance and features of this Web Site. These third parties will only have access to information to the extent necessary and will be required to not use any personal information for any other purpose.
+  * **_Marketing and Promotions:_** From time to time, we engage certain third parties to assist in the dissemination of marketing and promotional offers (i.e. e-mails) to those customers who have agreed to receive such offers. These third parties will only have access to information to the extent necessary and will be required to not use any personal information for any other purpose.
+  * **_Additional Third Party Relationships:_** From time to time, we engage other third parties to assist in providing marketing, order processing and fulfillment services. These third parties will only have access to information to the extent necessary and will be required to not use any personal information for any purpose other than providing such services.
 
-Additionally, from time to time, we share non-personal, non-individual statistical information with our marketing partners, advertisers or other third parties for research purposes. That is, we will not tell our marketing partners that you purchased a specific product, but we may tell them how many customers purchased that product.Security Policy
+Additionally, from time to time, we share non-personal, non-individual statistical information with our marketing partners, advertisers or other third parties for research purposes. That is, we will not tell our marketing partners that you purchased a specific product, but we may tell them how many customers purchased that product.
+
+Security Policy
 
 We use Secure Socket Layer (SSL) encryption technology to protect your personal information. The only time you are required to sign on our site is when you are making a purchase. On the Checkout page, you will be asked to access your existing account or create a new one. Existing account holders are prompted for their ID (your email address) and password. This password is for your protection. If you don't have your password, there is a link that reads "Lost your password?" Click on this for instructions on how to get your password.
 
@@ -97,4 +98,4 @@ If we are going to use your personally identifiable information in a manner diff
 
 Questions about our Policies
 
-If you have any questions regarding your privacy or any of our policies, please contact our Customer Service Department by email by completing the Customer Feedback Form in the Helpdesk section or by phone at 1-888-801-9158. 
+If you have any questions regarding your privacy or any of our policies, please contact our Customer Service Department by email by completing the Customer Feedback Form in the Helpdesk section or by phone at1-888-801-9158. 
