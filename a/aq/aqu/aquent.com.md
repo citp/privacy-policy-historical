@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the aquent.com privacy policy that was archived on 2005-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050923111046id_/http%3A//www.aquent.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aquent.com privacy policy that was archived on 2006-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060318124809id_/http%3A//www.aquent.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Aquent
+# Aquent: Privacy Policy
 
 Aquent is committed to safeguarding the privacy of the Users of its Web site. This Privacy Policy sets forth Aquent’s policies regarding the collection and treatment of personally identifiable information. 
 
-“Site” refers to this Internet Web site ([ www.Aquent.com](http://www.elawforum.com/)) and other Aquent Web sites linked to this Site. The Site acts as a venue for delivery of Aquent applications (listed here by way of example only) for 1) individuals currently working with Aquent (i.e., “active Users”) to interact with Aquent’s database and enter timecards, create and manage their Aquent Profiles, check benefits information, view schedules and assignment information, and process other information; 2) Aquent to process orders, send newsletters, perform customer service; qualify candidates for possible employment; 3) Aquent’s clients to search portfolios, run financial reports, sign timecards; and 4) members of the public to receive marketing campaigns and inquiries. 
+“Site” refers to this Internet Web site ([ www.Aquent.com](http://www.aquent.com/)) and other Aquent Web sites linked to this Site. The Site acts as a venue for delivery of Aquent applications (listed here by way of example only) for 1) individuals currently working with Aquent (i.e., “active Users”) to interact with Aquent’s database and enter timecards, create and manage their Aquent Profiles, check benefits information, view schedules and assignment information, and process other information; 2) Aquent to process orders, send newsletters, perform customer service; qualify candidates for possible employment; 3) Aquent’s clients to search portfolios, run financial reports, sign timecards; and 4) members of the public to receive marketing campaigns and inquiries. 
 
 What personally identifiable information is collected on the Site?   
   
