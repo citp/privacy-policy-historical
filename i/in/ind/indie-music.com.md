@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the indie-music.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204062236id_/http%3A//indie-music.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indie-music.com privacy policy that was archived on 2006-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060318135116id_/http%3A//www.indie-music.com/privacy.php) for the most accurate reproduction.*
 
 # Indie-Music.com
-
-  
-Privacy Policy
 
 COMMITMENT TO YOUR PRIVACY 
 
@@ -98,3 +95,23 @@ We give users options wherever necessary and practical. Such choices include:
 YOUR CONSENT 
 
 By using this site, you consent to the collection and use of this information by Indie-Music.com. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
+
+COPYRIGHT ISSUES
+
+Who do I contact if I suspect a copyright violation?
+
+Indie-Music.com does not tolerate copyright infringement and aggressively police our site for any violations. We investigate all allegations of infringement and immediately remove any content determined to be infringing under the DMCA. 
+
+To report an issue for investigation, please include the following information: 
+
+Content in question  
+URL link pointing to the content  
+Your complete contact information  
+Information regarding the alleged infringement. 
+
+And snail mail it to: 
+
+Indie-Music.com  
+ATTN: COPYRIGHT  
+3250 Hillcrest Dr.  
+Columbus, IN 47203
