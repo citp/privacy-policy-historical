@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the h-flash.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212115237id_/http%3A//www.networksolutions.com/legal/privacy-policy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the h-flash.com privacy policy that was archived on 2006-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060318104808id_/http%3A//www.networksolutions.com/legal/privacy-policy.jhtml) for the most accurate reproduction.*
 
 # Service Agreement | Network Solutions
 
@@ -60,7 +60,7 @@ Network Solutions respects your individual privacy. This Privacy Policy ('Policy
 
 Network Solutions is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are the Internet's leading domain name registrar because we have taken the time to get acquainted with each one of our many customers.
 
-We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at [www.networksolutions.com](https://web.archive.org/web/20051212115237id_/http%3A//www.networksolutions.com/legal/www.networksolutions.com;jsessionid=N3RH0B5WOWFYOCWMEAPSFEQ) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
+We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at [www.networksolutions.com](https://web.archive.org/web/20060318104808id_/http%3A//www.networksolutions.com/legal/www.networksolutions.com) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
 
 After you have signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
 
@@ -100,7 +100,7 @@ We may share certain information about you with those of our vendors who are res
 
 Additionally, we may share the information stored on the publicly accessible registration database, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. If you do not want us to share information about you with our business partners, you may opt-out of receiving this information through our Account Manager by following the instructions below:
 
-  1. Log into Account Manager at [www.networksolutions.com](https://web.archive.org/web/20051212115237id_/http%3A//www.networksolutions.com/legal/www.networksolutions.com;jsessionid=N3RH0B5WOWFYOCWMEAPSFEQ "www.networksolutions.com");
+  1. Log into Account Manager at [www.networksolutions.com](https://web.archive.org/web/20060318104808id_/http%3A//www.networksolutions.com/legal/www.networksolutions.com "www.networksolutions.com");
   2. Click “Edit User Info” in the left menu;
   3. Scroll to the bottom of the page;
   4. Select “NO” for the third statement, which reads, “I would like to receive selected and relevant information from Network Solutions partners;” and
@@ -114,7 +114,7 @@ Please note, however, that consistent with the current rules and policies for th
 
 As noted above, we currently make certain information about you available to the general public via our domain name registration database look-up services. These services give users access to such data on a query-by-query basis. Pursuant to our arrangements with ICANN, qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to allow, enable or otherwise support the transmission by e-mail, telephone, or facsimile of mass, unsolicited, commercial advertising or solicitations to entities other than to such qualified persons’ own existing customers; or (ii) sell or redistribute the data to third parties, except insofar as the data is incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the data. If you do not want your personal information disclosed on a bulk basis, you may opt-out of such disclosure through our Account Manager by following the instructions below:
 
-  1. Log into Account Manager at [www.networksolutions.com](https://web.archive.org/web/20051212115237id_/http%3A//www.networksolutions.com/legal/www.networksolutions.com;jsessionid=N3RH0B5WOWFYOCWMEAPSFEQ "www.networksolutions.com");
+  1. Log into Account Manager at [www.networksolutions.com](https://web.archive.org/web/20060318104808id_/http%3A//www.networksolutions.com/legal/www.networksolutions.com "www.networksolutions.com");
   2. Click “Edit User Info” in the left menu;
   3. Scroll to the bottom of the page;
   4. Select “NO” for the first statement, which reads, “I choose to have my name included in the Bulk WHOIS data licensed to third parties for domains for which I am the Account Holder or Primary Contact;” and
@@ -142,7 +142,7 @@ If you feel that Network Solutions, or any of our agents, representatives or emp
 
 Network Solutions, LLC  
 Attention: General Counsel  
-13200 Woodland Park Drive  
+13861 Sunrise Valley Drive  
 Herndon, VA 20171  
 (703) 668-4600 
 
