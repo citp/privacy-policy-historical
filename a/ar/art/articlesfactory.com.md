@@ -1,36 +1,146 @@
-> *The following text is extracted and transformed from the articlesfactory.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308170804id_/http%3A//www.articlesfactory.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesfactory.com privacy policy that was archived on 2006-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060319030441id_/http%3A//www.articlesfactory.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Find Free Article Content at ArticlesFactory
+# Privacy Policy
 
-Largest Categories
-
-Advertising
-
-Calendar
-
-| Su| Mo| Tu| We| Th| Fr| Sa  
----|---|---|---|---|---|---  
- | [1](https://web.archive.org/articles/day/2005-3-01.html)| [2](https://web.archive.org/articles/day/2005-3-02.html)| [3](https://web.archive.org/articles/day/2005-3-03.html)| [4](https://web.archive.org/articles/day/2005-3-04.html)| [5](https://web.archive.org/articles/day/2005-3-05.html)  
-[6](https://web.archive.org/articles/day/2005-3-06.html)| [7](https://web.archive.org/articles/day/2005-3-07.html)| [8](https://web.archive.org/articles/day/2005-3-08.html)| 9| 10| 11| 12  
-13| 14| 15| 16| 17| 18| 19  
-20| 21| 22| 23| 24| 25| 26  
-27| 28| 29| 30| 31|    
-Su| Mo| Tu| We| Th| Fr| Sa  
----|---|---|---|---|---|---  
- | [1](https://web.archive.org/articles/day/2005-2-01.html)| [2](https://web.archive.org/articles/day/2005-2-02.html)| [3](https://web.archive.org/articles/day/2005-2-03.html)| [4](https://web.archive.org/articles/day/2005-2-04.html)| [5](https://web.archive.org/articles/day/2005-2-05.html)  
-[6](https://web.archive.org/articles/day/2005-2-06.html)| [7](https://web.archive.org/articles/day/2005-2-07.html)| [8](https://web.archive.org/articles/day/2005-2-08.html)| [9](https://web.archive.org/articles/day/2005-2-09.html)| [10](https://web.archive.org/articles/day/2005-2-10.html)| [11](https://web.archive.org/articles/day/2005-2-11.html)| [12](https://web.archive.org/articles/day/2005-2-12.html)  
-[13](https://web.archive.org/articles/day/2005-2-13.html)| [14](https://web.archive.org/articles/day/2005-2-14.html)| [15](https://web.archive.org/articles/day/2005-2-15.html)| [16](https://web.archive.org/articles/day/2005-2-16.html)| [17](https://web.archive.org/articles/day/2005-2-17.html)| [18](https://web.archive.org/articles/day/2005-2-18.html)| [19](https://web.archive.org/articles/day/2005-2-19.html)  
-[20](https://web.archive.org/articles/day/2005-2-20.html)| [21](https://web.archive.org/articles/day/2005-2-21.html)| [22](https://web.archive.org/articles/day/2005-2-22.html)| [23](https://web.archive.org/articles/day/2005-2-23.html)| [24](https://web.archive.org/articles/day/2005-2-24.html)| [25](https://web.archive.org/articles/day/2005-2-25.html)| [26](https://web.archive.org/articles/day/2005-2-26.html)  
-[27](https://web.archive.org/articles/day/2005-2-27.html)| [28](https://web.archive.org/articles/day/2005-2-28.html)|    
-Su| Mo| Tu| We| Th| Fr| Sa  
----|---|---|---|---|---|---  
- | [1](https://web.archive.org/articles/day/2005-1-01.html)  
-[2](https://web.archive.org/articles/day/2005-1-02.html)| [3](https://web.archive.org/articles/day/2005-1-03.html)| [4](https://web.archive.org/articles/day/2005-1-04.html)| [5](https://web.archive.org/articles/day/2005-1-05.html)| [6](https://web.archive.org/articles/day/2005-1-06.html)| [7](https://web.archive.org/articles/day/2005-1-07.html)| [8](https://web.archive.org/articles/day/2005-1-08.html)  
-[9](https://web.archive.org/articles/day/2005-1-09.html)| [10](https://web.archive.org/articles/day/2005-1-10.html)| [11](https://web.archive.org/articles/day/2005-1-11.html)| [12](https://web.archive.org/articles/day/2005-1-12.html)| [13](https://web.archive.org/articles/day/2005-1-13.html)| [14](https://web.archive.org/articles/day/2005-1-14.html)| [15](https://web.archive.org/articles/day/2005-1-15.html)  
-[16](https://web.archive.org/articles/day/2005-1-16.html)| [17](https://web.archive.org/articles/day/2005-1-17.html)| [18](https://web.archive.org/articles/day/2005-1-18.html)| [19](https://web.archive.org/articles/day/2005-1-19.html)| [20](https://web.archive.org/articles/day/2005-1-20.html)| [21](https://web.archive.org/articles/day/2005-1-21.html)| [22](https://web.archive.org/articles/day/2005-1-22.html)  
-[23](https://web.archive.org/articles/day/2005-1-23.html)| [24](https://web.archive.org/articles/day/2005-1-24.html)| [25](https://web.archive.org/articles/day/2005-1-25.html)| [26](https://web.archive.org/articles/day/2005-1-26.html)| [27](https://web.archive.org/articles/day/2005-1-27.html)| [28](https://web.archive.org/articles/day/2005-1-28.html)| [29](https://web.archive.org/articles/day/2005-1-29.html)  
-[30](https://web.archive.org/articles/day/2005-1-30.html)| [31](https://web.archive.org/articles/day/2005-1-31.html)|    
+| [Business](http://www.articlesfactory.com/articles/business.html)  
+---  
+[Health](http://www.articlesfactory.com/articles/health.html)  
+[Marketing](http://www.articlesfactory.com/articles/marketing.html)  
+[Home Business](http://www.articlesfactory.com/articles/home-business.html)  
+[Family](http://www.articlesfactory.com/articles/family.html)  
+[Self Help](http://www.articlesfactory.com/articles/self-help.html)  
+[Finance](http://www.articlesfactory.com/articles/finance.html)  
+[Motivational](http://www.articlesfactory.com/articles/motivational.html)  
+[Computers](http://www.articlesfactory.com/articles/computers.html)  
+[Travel](http://www.articlesfactory.com/articles/travel.html)  
+[Internet](http://www.articlesfactory.com/articles/internet.html)  
+[Advice](http://www.articlesfactory.com/articles/advice.html)  
+[Sports](http://www.articlesfactory.com/articles/sports.html)  
+[Religion](http://www.articlesfactory.com/articles/religion.html)  
+[Writing](http://www.articlesfactory.com/articles/writing.html)  
+[Online Promotion](http://www.articlesfactory.com/articles/online-promotion.html)  
+[ECommerce](http://www.articlesfactory.com/articles/ecommerce.html)  
+[Web Design](http://www.articlesfactory.com/articles/web-design.html)  
+[Women's Issues](http://www.articlesfactory.com/articles/womens-issues.html)  
+[Technology](http://www.articlesfactory.com/articles/technology.html)  
   
+**Partners**
+
+|  | 
+
+[Web Design Services](http://www.itmask.com/services/webdesign/)  
+  
+---|---|---  
+|  | 
+
+[Poultry Raising](http://www.poultryyouth.com/)  
+  
+|  | 
+
+[Miami Dade Traffic Ticket Lawyer](http://www.bailyes.com/florida-dui-Attorney-Lawyer-law-Firms.htm)  
+  
+|  | 
+
+[Industrial steel buildings](http://www.standardsteelbuildings.com/)  
+  
+|  | 
+
+[Flash Templates](http://www.flashvista.com/flash_templates/)  
+  
+|  | 
+
+[Free hit counter and web statistics](http://www.hitscreen.com/)  
+  
+|  | 
+
+[Ink Cartridges](http://www.atlanticinkjet.com/)  
+  
+|  | 
+
+[Printer Ink Refills](http://www.re-inks.com/)  
+  
+|  | 
+
+[Coral Calcium](http://www.coralcalciumultimate.com/)  
+  
+|  | 
+
+[Accounting Software](http://www.accountingsoftwareconsultants.net/)  
+  
+**Calendar**
+
+S| M| T| W| T| F| S  
+---|---|---|---|---|---|---  
+ | [1](https://web.archive.org/articles/day/2006-3-01.html)| [2](https://web.archive.org/articles/day/2006-3-02.html)| [3](https://web.archive.org/articles/day/2006-3-03.html)| [4](https://web.archive.org/articles/day/2006-3-04.html)  
+[5](https://web.archive.org/articles/day/2006-3-05.html)| [6](https://web.archive.org/articles/day/2006-3-06.html)| [7](https://web.archive.org/articles/day/2006-3-07.html)| [8](https://web.archive.org/articles/day/2006-3-08.html)| [9](https://web.archive.org/articles/day/2006-3-09.html)| [10](https://web.archive.org/articles/day/2006-3-10.html)| [11](https://web.archive.org/articles/day/2006-3-11.html)  
+[12](https://web.archive.org/articles/day/2006-3-12.html)| [13](https://web.archive.org/articles/day/2006-3-13.html)| [14](https://web.archive.org/articles/day/2006-3-14.html)| [15](https://web.archive.org/articles/day/2006-3-15.html)| [16](https://web.archive.org/articles/day/2006-3-16.html)| [17](https://web.archive.org/articles/day/2006-3-17.html)| [18](https://web.archive.org/articles/day/2006-3-18.html)  
+  
+19
+
+| 
+
+20
+
+| 
+
+21
+
+| 
+
+22
+
+| 
+
+23
+
+| 
+
+24
+
+| 
+
+25  
+  
+26
+
+| 
+
+27
+
+| 
+
+28
+
+| 
+
+29
+
+| 
+
+30
+
+| 
+
+31
+
+|    
+S| M| T| W| T| F| S  
+---|---|---|---|---|---|---  
+ | [1](https://web.archive.org/articles/day/2006-2-01.html)| [2](https://web.archive.org/articles/day/2006-2-02.html)| [3](https://web.archive.org/articles/day/2006-2-03.html)| [4](https://web.archive.org/articles/day/2006-2-04.html)  
+[5](https://web.archive.org/articles/day/2006-2-05.html)| [6](https://web.archive.org/articles/day/2006-2-06.html)| [7](https://web.archive.org/articles/day/2006-2-07.html)| [8](https://web.archive.org/articles/day/2006-2-08.html)| [9](https://web.archive.org/articles/day/2006-2-09.html)| [10](https://web.archive.org/articles/day/2006-2-10.html)| [11](https://web.archive.org/articles/day/2006-2-11.html)  
+[12](https://web.archive.org/articles/day/2006-2-12.html)| [13](https://web.archive.org/articles/day/2006-2-13.html)| [14](https://web.archive.org/articles/day/2006-2-14.html)| [15](https://web.archive.org/articles/day/2006-2-15.html)| [16](https://web.archive.org/articles/day/2006-2-16.html)| [17](https://web.archive.org/articles/day/2006-2-17.html)| [18](https://web.archive.org/articles/day/2006-2-18.html)  
+[19](https://web.archive.org/articles/day/2006-2-19.html)| [20](https://web.archive.org/articles/day/2006-2-20.html)| [21](https://web.archive.org/articles/day/2006-2-21.html)| [22](https://web.archive.org/articles/day/2006-2-22.html)| [23](https://web.archive.org/articles/day/2006-2-23.html)| [24](https://web.archive.org/articles/day/2006-2-24.html)| [25](https://web.archive.org/articles/day/2006-2-25.html)  
+[26](https://web.archive.org/articles/day/2006-2-26.html)| [27](https://web.archive.org/articles/day/2006-2-27.html)| [28](https://web.archive.org/articles/day/2006-2-28.html)|    
+S| M| T| W| T| F| S  
+---|---|---|---|---|---|---  
+[1](https://web.archive.org/articles/day/2006-1-01.html)| [2](https://web.archive.org/articles/day/2006-1-02.html)| [3](https://web.archive.org/articles/day/2006-1-03.html)| [4](https://web.archive.org/articles/day/2006-1-04.html)| [5](https://web.archive.org/articles/day/2006-1-05.html)| [6](https://web.archive.org/articles/day/2006-1-06.html)| [7](https://web.archive.org/articles/day/2006-1-07.html)  
+[8](https://web.archive.org/articles/day/2006-1-08.html)| [9](https://web.archive.org/articles/day/2006-1-09.html)| [10](https://web.archive.org/articles/day/2006-1-10.html)| [11](https://web.archive.org/articles/day/2006-1-11.html)| [12](https://web.archive.org/articles/day/2006-1-12.html)| [13](https://web.archive.org/articles/day/2006-1-13.html)| [14](https://web.archive.org/articles/day/2006-1-14.html)  
+[15](https://web.archive.org/articles/day/2006-1-15.html)| [16](https://web.archive.org/articles/day/2006-1-16.html)| [17](https://web.archive.org/articles/day/2006-1-17.html)| [18](https://web.archive.org/articles/day/2006-1-18.html)| [19](https://web.archive.org/articles/day/2006-1-19.html)| [20](https://web.archive.org/articles/day/2006-1-20.html)| [21](https://web.archive.org/articles/day/2006-1-21.html)  
+[22](https://web.archive.org/articles/day/2006-1-22.html)| [23](https://web.archive.org/articles/day/2006-1-23.html)| [24](https://web.archive.org/articles/day/2006-1-24.html)| [25](https://web.archive.org/articles/day/2006-1-25.html)| [26](https://web.archive.org/articles/day/2006-1-26.html)| [27](https://web.archive.org/articles/day/2006-1-27.html)| [28](https://web.archive.org/articles/day/2006-1-28.html)  
+[29](https://web.archive.org/articles/day/2006-1-29.html)| [30](https://web.archive.org/articles/day/2006-1-30.html)| [31](https://web.archive.org/articles/day/2006-1-31.html)|    
+  
+Effective February 10, 2005
+
 Articles Factory respects the privacy of its users and does not collect any personally identifiable user information without prior notice. Web statistics are the sole and private property of Articles Factory and are only used for troubleshooting purposes.
 
 This Privacy Policy may be modified from time to time; the date of the most recent revision will appear on this page, so check back often. Continued access of Articles Factory by you will constitute your acceptance of any changes or revisions to the Privacy Policy. It is the goal of Articles Factory to bring you information that is tailored to your individual needs and, at the same time, protect your privacy. The following is a summary of the various ways we treat the information you provide us while using our site.
