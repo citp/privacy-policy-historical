@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inkfrog.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219160602id_/http%3A//www.inkfrog.com/index.php%3Ffile%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inkfrog.com privacy policy that was archived on 2006-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060319015759id_/http%3A//inkfrog.com/index.php%3Ffile%3Dprivacy) for the most accurate reproduction.*
 
 # InkFrog.com - eBay auction management and image hosting
 
