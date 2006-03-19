@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the callawaygolfpreowned.com privacy policy that was archived on 2005-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051031010526id_/http%3A//www.callawaygolfpreowned.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the callawaygolfpreowned.com privacy policy that was archived on 2006-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060319042812id_/http%3A//callawaygolfpreowned.com/content.aspx%3Fpid%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Policy : Customer Service : Callaway Golf Pre-Owned
+# Callaway Golf Pre-Owned & Outlet Official Site: Used Golf Clubs, Drivers, Fairway Woods, Iron Sets, Individual Irons, Wedges, Putters, Juniors
 
-## Callaway Golf Pre-Owned
+**More:** [UK Privacy Policy](https://web.archive.org/content.aspx?pid=privacy-uk)
 
-At Callaway Golf, we are committed to respecting your privacy ([click here](http://www.callawaygolf.com/en/#6a) to find out who we are). As a visitor to one of our websites, we only want to contact you if you wish to be contacted by us. With that in mind, we offer you the following details of how we gather, use, share and protect the information collected at this website.
+## Callaway Golf Pre-Owned & Outlet
+
+At Callaway Golf, we are committed to respecting your privacy ([click here](http://www.callawaygolf.com/en.html) to find out who we are). As a visitor to one of our websites, we only want to contact you if you wish to be contacted by us. With that in mind, we offer you the following details of how we gather, use, share and protect the information collected at this website.
 
   1. What kinds of information does Callaway Golf collect?
   2. What are cookies?
@@ -31,7 +33,7 @@ Another way we collect information is by automatically recording information abo
 
 From time to time, you may also be given the opportunity to give us feedback about our products or services or to post messages for others to read. Sometimes this is done anonymously. Other times your name or other identifying features may be attached. This process will always be voluntary and we will explain to you how the information will be used whenever we ask for it.
 
-Callaway Golf intends to give you as much control as possible over your Personal Information. In general, you can visit Callaway Golf on the Internet without telling us who you are or revealing any Personal Information about yourself. There are times, however, when we may need your Personal Information in order to respond to or process your requests or to allow you to participate in online promotions. It is our intent to let you know before we collect information from you on the Internet. 
+Callaway Golf intends to give you as much control as possible over your Personal Information. In general, you can visit Callaway Golf on the Internet without telling us who you are or revealing any Personal Information about yourself. There are times, however, when we may need your Personal Information in order to respond to or process your requests or to allow you to participate in online promotions. It is our intent to let you know before we collect information from you on the Internet.
 
 If you choose to give Callaway Golf Personal Information via the Internet, it is also our intent to let you know how we will use such information. If you tell us that you do not wish to have this Personal Information used as a basis for further contact with you, we will respect your wishes.
 
@@ -47,19 +49,19 @@ We need this information to help us improve our services to you; we want to make
 
 With that in mind, Callaway Golf collects Personal Information and General Data in order to:
 
-  * Make the website easier for you to use by not having to enter information more than once.
-  * Provide information faster.
-  * Create content more relevant to you.
-  * Adjust the website to your personal preferences.
-  * Conduct contests, sweepstakes and promotions.
-  * Help you quickly find products, services or information available from Callaway Golf.
-  * Make improvements to the website.
-  * Assess general trends within the website.
-  * Alert you to new products, contests, sweepstakes, special offers, updated information and other services that Callaway Golf thinks might be of interest to you. This might be done through direct contact with you or by customized postings on our websites. Where you have given us your permission we also might authorize other companies to contact you directly.
-  * Enable you to use certain customized features and to save information for later visits to the website.
-  * Create and deliver other similar business-related features and services.
-  * Offer you occasional opportunities to provide us with feedback about our products or services.
-  * Deliver the products that you have purchased from us.
+  * Make the website easier for you to use by not having to enter information more than once. 
+  * Provide information faster. 
+  * Create content more relevant to you. 
+  * Adjust the website to your personal preferences. 
+  * Conduct contests, sweepstakes and promotions. 
+  * Help you quickly find products, services or information available from Callaway Golf. 
+  * Make improvements to the website. 
+  * Assess general trends within the website. 
+  * Alert you to new products, contests, sweepstakes, special offers, updated information and other services that Callaway Golf thinks might be of interest to you. This might be done through direct contact with you or by customized postings on our websites. Where you have given us your permission we also might authorize other companies to contact you directly. 
+  * Enable you to use certain customized features and to save information for later visits to the website. 
+  * Create and deliver other similar business-related features and services. 
+  * Offer you occasional opportunities to provide us with feedback about our products or services. 
+  * Deliver the products that you have purchased from us. 
 
 
 
@@ -69,7 +71,7 @@ If you provide us with your mailing address, telephone number or facsimile numbe
 
 ## 4\. Where does Callaway Golf store this information and is it secure?
 
-Callaway Golf operates in many countries throughout the world. To enable us to offer consistent service to our customers, wherever they may live, we manage all of our Internet sites from one central location. This is currently in the United States of America (although data may be stored in multiple locations, both within the U.S. and throughout the world). Information may be collected outside of the U.S. and transferred to the U.S. in certain instances. 
+Callaway Golf operates in many countries throughout the world. To enable us to offer consistent service to our customers, wherever they may live, we manage all of our Internet sites from one central location. This is currently in the United States of America (although data may be stored in multiple locations, both within the U.S. and throughout the world). Information may be collected outside of the U.S. and transferred to the U.S. in certain instances.
 
 Callaway Golf takes precautions to protect your Personal Information, including our policy of allowing access to this Personal Information to only to those individuals and entities with a need to know. We also use available technology and encryption, when legally required or when appropriate for your protection, to provide a more secure environment and to reduce the chance of unauthorized access.
 
@@ -85,32 +87,23 @@ To understand how you can amend or update your Personal Information, please refe
 
 ## 6\. Does Callaway Golf share this information with anyone?
 
-We understand that your privacy is important to you. It is our policy not to disclose Personal Information about our website visitors without your explicit consent. This consent is given by your election to "opt-in" at the time you provide us with the Personal Information. Once you opt-in, you are granting us permission to use the Personal Information as described in this Privacy Policy, including transferring to and storing your Personal Information at our central website located in the United States of America. Your election to opt-in also is your agreement that we may share your Personal Information with selected business partners and affiliates. The opt-in process further means that Callaway Golf and the entities that we share your Personal Information with (as described below) may contact you directly in accordance with this Privacy Policy. Whenever we share Personal Information pursuant to this Privacy Policy, we will inform the party receiving it that the Personal Information may only be used for a specific, limited purpose in accordance with this Privacy Policy and as agreed upon in advance by Callaway Golf ([click here](http://www.callawaygolf.com/en/statement.aspx?pid=privacy#3) for more information on how your Personal Information may be used). We also may use confidentiality agreements to further protect Personal Information that becomes the property of Callaway Golf.
+We understand that your privacy is important to you. It is our policy not to disclose Personal Information about our website visitors without your explicit consent. This consent is given by your election to "opt-in" at the time you provide us with the Personal Information. Once you opt-in, you are granting us permission to use the Personal Information as described in this Privacy Policy, including transferring to and storing your Personal Information at our central website located in the United States of America. Your election to opt-in also is your agreement that we may share your Personal Information with selected business partners and affiliates. The opt-in process further means that Callaway Golf and the entities that we share your Personal Information with (as described below) may contact you directly in accordance with this Privacy Policy. Whenever we share Personal Information pursuant to this Privacy Policy, we will inform the party receiving it that the Personal Information may only be used for a specific, limited purpose in accordance with this Privacy Policy and as agreed upon in advance by Callaway Golf ([click here](http://www.callawaygolf.com/en.cg.PrivacyPolicy.html#3) for more information on how your Personal Information may be used). We also may use confidentiality agreements to further protect Personal Information that becomes the property of Callaway Golf.
 
 From time-to-time, in order to provide you with the services, information and products that you have requested, to conduct contests, promotions or sweepstakes or to provide you with services, information and products that we think might be of interest to you, we may share your Personal Information with the following entities and individuals:
 
-Our Corporate Entities: This includes Tadpole Golf Corporation (dba Callaway Golf Pre-Owned) and FrogTrader, Inc., and our parent company, Callaway Golf Company, and its other subsidiaries (collectively, the "Callaway Golf Companies"). Currently, Callaway Golf has subsidiaries in the United States, Canada, Europe, Japan, Korea and Australia. In addition to the Callaway Golf® brand of products, Callaway Golf's brands include, among others, Odyssey®, Top-Flite® and Ben Hogan®. To the extent that Personal Information is shared among the Callaway Golf Companies, or to the extent that one of our subsidiaries obtains your Personal Information directly from you, we will inform them that the Personal Information may only be used in accordance with this Privacy Policy. In the event that one or more of the Callaway Golf Companies merges with, acquires or is acquired by another company, in whole or in part, we may also share information with this other business entity. If this occurs, we will require that this other business entity follow this Privacy Policy with respect to your Personal Information. (References in this Privacy Policy to "Callaway Golf," "we" or "us" mean all of the Callaway Golf Companies. The privacy policies that apply to our various websites are very similar to this one, although you might find differences in the language depending on the country of origin of the particular website.)
+Our Corporate Entities: This includes Tadpole Golf Corporation (dba Callaway Golf Pre-Owned & Outlet) and FrogTrader, Inc., and our parent company, Callaway Golf Company, and its other subsidiaries (collectively, the "Callaway Golf Companies"). Currently, Callaway Golf has subsidiaries in the United States, Canada, Europe, Japan, Korea and Australia. In addition to the Callaway Golf® brand of products, Callaway Golf's brands include, among others, Odyssey®, Top-Flite® and Ben Hogan®. To the extent that Personal Information is shared among the Callaway Golf Companies, or to the extent that one of our subsidiaries obtains your Personal Information directly from you, we will inform them that the Personal Information may only be used in accordance with this Privacy Policy. In the event that one or more of the Callaway Golf Companies merges with, acquires or is acquired by another company, in whole or in part, we may also share information with this other business entity. If this occurs, we will require that this other business entity follow this Privacy Policy with respect to your Personal Information. (References in this Privacy Policy to "Callaway Golf," "we" or "us" mean all of the Callaway Golf Companies. The privacy policies that apply to our various websites are very similar to this one, although you might find differences in the language depending on the country of origin of the particular website.)
 
 Licensees, Licensors and other Business Partners: The Callaway Golf Companies may enter into business dealings, license agreements or other contracts with third parties (we call these relationships "Third Party Agreements"). In connection with these Third Party Agreements, the Callaway Golf Companies may license various trademarks and other intellectual property rights to third parties. At other times, Callaway Golf may receive permission from a third party to use the third party’s trademarks or intellectual property rights. In addition, Callaway Golf may enter into business relationships or contracts with other companies for a variety of goods and services. To the extent that Personal Information is shared with these third parties, we will inform them that the Personal Information may only be used for a specific, limited purpose in accordance with this Privacy Policy and as agreed upon in advance by Callaway Golf.
 
-Marketing, Advertising and Website Hosting Companies: Occasionally, the Callaway Golf Companies utilize the services of outside agencies, companies or individuals to run marketing campaigns, respond to information requests, coordinate contests, sweepstakes and promotions or to host or operate websites and webpages that are connected with our business. We may also contract with third parties to help us better understand your web usage preferences or to analyze data that we collect on our websites and elsewhere. To the extent that Personal Information is shared with these third parties, we will inform them that the Personal Information may only be used for a specific, limited purpose in accordance with this Privacy Policy and as agreed upon in advance by Callaway Golf. 
+Marketing, Advertising and Website Hosting Companies: Occasionally, the Callaway Golf Companies utilize the services of outside agencies, companies or individuals to run marketing campaigns, respond to information requests, coordinate contests, sweepstakes and promotions or to host or operate websites and webpages that are connected with our business. We may also contract with third parties to help us better understand your web usage preferences or to analyze data that we collect on our websites and elsewhere. To the extent that Personal Information is shared with these third parties, we will inform them that the Personal Information may only be used for a specific, limited purpose in accordance with this Privacy Policy and as agreed upon in advance by Callaway Golf.
 
 Consultants and Corporate Service Providers: The Callaway Golf Companies may use third parties to help us operate various aspects of our business. This might include people or companies that we bring in to help us understand how to more efficiently operate our business. It also might include third parties that we may use to outsource or help facilitate one or more aspects of our business (e.g. order fulfillment, customer service, co-branding issues, manufacturing, payment processing, etc.). To the extent that Personal Information is shared with these third parties, we will inform them that the Personal Information may only be used for a specific, limited purpose in accordance with this Privacy Policy and as agreed upon in advance by Callaway Golf.
 
-Law Enforcement, Regulatory Agencies and Legal Proceedings: The Callaway Golf Companies may share your information with government entities, authorized law enforcement personnel, regulatory bodies or as part of legal proceedings, in response to a valid subpoena or court order or as required by applicable law. 
+Law Enforcement, Regulatory Agencies and Legal Proceedings: The Callaway Golf Companies may share your information with government entities, authorized law enforcement personnel, regulatory bodies or as part of legal proceedings, in response to a valid subpoena or court order or as required by applicable law.
 
 ## 7\. What is the process for reviewing and correcting information?
 
-You may request a copy of the Personal Information that Callaway Golf has collected. You may also correct any inaccuracies contained in this Personal Information. We do not charge for information requests, although we may charge you a fee to cover our reasonable costs of actually providing you with a copy of your Personal Information. We will require proof of your identity. Please address requests to: 
-
-Internet Customer Service Representative  
-Callaway Golf Pre-Owned  
-9013 Tuscany Way  
-Building 1, Suite 110  
-Austin, TX 78754  
-USA
-
-Or, email [support@callawaygolfpreowned.com](mailto:support@callawaygolfpreowned.com). We will provide you with a readable copy of the Personal Information within a reasonable time period after your request (usually 30 days, although we will acknowledge your request within 14 days). You may challenge the data that we hold about you, and, where appropriate, you may have the data corrected or completed. In some instances recognized by law, we may refuse to provide you with a copy of the Personal Information or change the data, but we will give you reasons for our refusal.
+You may request a copy of the Personal Information that Callaway Golf has collected. You may also correct any inaccuracies contained in this Personal Information. We do not charge for information requests, although we may charge you a fee to cover our reasonable costs of actually providing you with a copy of your Personal Information. We will require proof of your identity. Please address requests to Internet Customer Service Representative, Callaway Golf Pre-Owned & Outlet, 9013 Tuscany Way, Building 1, Suite 110, Austin, Texas 78754 or email [support@callawaygolfpreowned.com](mailto:support@callawaygolfpreowned.com). We will provide you with a readable copy of the Personal Information within a reasonable time period after your request (usually 30 days, although we will acknowledge your request within 14 days). You may challenge the data that we hold about you, and, where appropriate, you may have the data corrected or completed. In some instances recognized by law, we may refuse to provide you with a copy of the Personal Information or change the data, but we will give you reasons for our refusal.
 
 We also welcome your questions, comments and suggestions about our Privacy Policy. Please send your comments to [support@callawaygolfpreowned.com](mailto:support@callawaygolfpreowned.com).
 
@@ -130,20 +123,11 @@ Protecting the privacy of children is important. Our website is not directed at 
 
 If you choose not to provide Personal Information, you will still, in most cases, be able to use many of the website features. However you will not be able to access areas that require registration or participate over the Internet in contests, sweepstakes or similar promotions.
 
-Even if you do not provide Personal Information, we will sometimes collect anonymous information about how you have used the website. This is information that does not personally identify you, but which may be helpful for marketing or improving the services we offer. (See link for more information on [general data that is collected](http://www.callawaygolf.com/en/statement.aspx?pid=privacy#1) when you visit our websites and on [how we use cookies](http://www.callawaygolf.com/en/statement.aspx?pid=privacy#2).)
+Even if you do not provide Personal Information, we will sometimes collect anonymous information about how you have used the website. This is information that does not personally identify you, but which may be helpful for marketing or improving the services we offer. (See link for more information on [general data that is collected](http://www.callawaygolf.com/en.cg.PrivacyPolicy.html#1) when you visit our websites and on [how we use cookies](http://www.callawaygolf.com/en/statement.aspx?pid=privacy#3).)
 
 ## 12\. How can I stop receiving communications from Callaway Golf?
 
-If you wish to stop receiving communications from us or would like us to cease processing your information in any other way, you can write to us at: 
-
-Internet Customer Service Representative  
-Callaway Golf Pre-Owned  
-9013 Tuscany Way  
-Building 1, Suite 110  
-Austin, TX 78754  
-USA
-
-Or, email [support@callawaygolfpreowned.com](mailto:support@callawaygolfpreowned.com).
+If you wish to stop receiving communications from us or would like us to cease processing your information in any other way, you can write to us at: Internet Customer Service Representative, Callaway Golf Pre-Owned & Outlet, 9013 Tuscany Way, Building 1, Suite 110, Austin, Texas 78754 or email [support@callawaygolfpreowned.com](mailto:support@callawaygolfpreowned.com).
 
 We will also provide you with a return email opt-out address in each email that we send to you so that you may opt out of receiving future email communications. This return opt-out address will be operational for at least 30 days following the date the email was originally sent to you.
 
@@ -151,8 +135,8 @@ We will also provide you with a return email opt-out address in each email that 
 
 From time to time, it may be necessary for Callaway Golf to change this privacy policy. We suggest that you check here periodically. Such modifications will automatically be effective 30 days after they are initially posted on the website. You can be assured, however, that any changes will not be retroactively applied and will not alter how we handle previously collected information.
 
-Please see our [terms and conditions](http://www.callawaygolf.com/en/statement.aspx?pid=legal) for additional information.
+Please see our [terms and conditions](http://www.callawaygolf.com/en.cg.PrivacyPolicy.LegalStatement.html) for additional information.
 
 ## 14\. When was the Privacy Policy last updated and when do those changes take effect?
 
-This Privacy Policy is effective June 1, 2004. There have been no updates to this Privacy Policy since that date. If we obtained your name prior to June 1, 2004, and if you have not expressly consented to be subject to the Privacy Policy set forth above, please [click here](http://www.callawaygolfpreowned.com/privacy-cgpo.html) to view the privacy policy that applies to your personal information.
+This Privacy Policy is effective June 1, 2004. There have been no updates to this Privacy Policy since that date. If we obtained your name prior to June 1, 2004, and if you have not expressly consented to be subject to the Privacy Policy set forth above, please [click here](https://web.archive.org/content.aspx?pid=privacy-cgpo) to view the privacy policy that applies to your personal information.
