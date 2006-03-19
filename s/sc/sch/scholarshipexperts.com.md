@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scholarshipexperts.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210182840id_/http%3A//scholarshipexperts.com/privacy/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarshipexperts.com privacy policy that was archived on 2006-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060319051339id_/http%3A//www.scholarshipexperts.com/privacy/privacy.jsp) for the most accurate reproduction.*
 
 # Scholarships
 
@@ -27,11 +27,11 @@ It is also necessary for the user to provide additional personal data throughout
   
 **Transactions/Ordering**
 
-We request information from the user on our transaction page. A user must provide contact information (like name and address for address verification purposes) and financial information (like credit card number, expiration date). This information is used for billing purposes. If we have trouble processing an order, the user's contact information is also used to get in touch with the user.  
+Scholarship Experts may sell products or services from time to time on its website. Should an online transaction be required for the purchase of products or services, Scholarship Experts would request information from the user on our transaction page. A user would be required to provide contact information (like name and address for address verification purposes) and financial information (like credit card number, expiration date). This information would be used for billing purposes. The user's contact information would also be used to get in touch with the user should we have trouble processing an order.  
   
 **Cookies**
 
-A cookie is a piece of data stored on the user's hard drive containing information about the user. Scholarship Experts does not use cookies, nor do we have plans to implement such technology in the future. 
+A cookie is a piece of data stored on the user's hard drive containing information about the user. Scholarship Experts does not currently use cookies, nor do we have plans to implement such technology in the future. 
 
 Some of our business partners may use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies.  
   
@@ -43,9 +43,6 @@ We use IP addresses to analyze trends, administer the site, track user's movemen
 **Sharing**
 
 We may share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person. 
-
-We use a credit card processing company to bill users for services. This company does not retain, share, store or use personally identifiable information for any secondary purposes.  
-
 
 We may also share the information that you voluntarily entered, if you explicitly give us permission to do so through the OPT-IN section of your profile. For OPTED-IN users only: We may make your information available to our carefully selected list of partners. These are reputable, leading companies and organizations that provide products and services that are useful and of interest to students and parents. (NOTE: Our partners will never be companies or organizations involved with pornography, tobacco or other objectionable or harmful industries.)   
   
@@ -67,7 +64,7 @@ If a user elects to use our referral service for informing a friend about our si
 
 This website takes every precaution to protect our users' information. When users submit sensitive information via the website, that information is protected both online and off-line. 
 
-We use the latest firewall technology and Oracle security settings to protect sensitive information online. Because our site requires electronic, credit card transactions, we have taken steps to ensure that your credit card transactions will be secure. All of the customer information we gather is protected against unauthorized access. 
+We use the latest firewall technology and Oracle security to ensure that the customer information we gather is protected against unauthorized access. 
 
 We also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job are granted access to personally identifiable information. All employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment with limited key-only access. 
 
