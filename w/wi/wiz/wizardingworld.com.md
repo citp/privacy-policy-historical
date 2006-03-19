@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wizardingworld.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607090058id_/http%3A//www.wizardingworld.com/legal/ww-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wizardingworld.com privacy policy that was archived on 2006-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060319081907id_/http%3A//www.wizardingworld.com/legal/ww-privacy.html) for the most accurate reproduction.*
 
 # Wizarding World - Privacy policy
 
@@ -39,19 +39,3 @@ Parents/Guardians may refuse to have their children participate at any time, and
 Wizarding World does not market any products to consumers except to promote the site (t-shirts, etc.), and has no reason at this time to maintain contact with our visitors. Wizarding World may at any time quote comments about our site from email we have received, but it would similarly only contain nonidentifiable information in the form of a first name, nickname, or state/province and country. Since we would not know from just an email the age of visitors, for quoting comments, parents/guardians may not be contacted for permission.
 
 No information collected from Visitors 16 and younger is used by Wizarding World for any marketing or promotional purposes whatsoever, either inside or outside this site.
-
-* * *
-
-NOTE: This site contains links to other sites, so it is imperative to monitor the privacy policies of those other sites before submitting personal information there. Wizarding World has no control over how those sites do business. However, if you feel that a site to which we link is inappropriate or mis-uses personal information, please [contact us immediately](mailto:wizardingworld@waycoolstuffonline.com?subject=Privacy%20Issues) since we do not wish to be associated with any site that violates reasonable ethical policies.  
-
-
-* * *
-
-  
-BE WARNED!
-
-We will give out personal information about any visitors if required by law, for example, to comply with a court order or subpoena, or to protect ourselves and the safety and security of our other visitors from individuals who threaten the safe operation of this site.
-
-If you need further assistance, please send an e-mail with your questions or comments to:
-
-[wizardingworld@waycoolstuffonline.com](mailto:wizardingworld@waycoolstuffonline.com?subject=Privacy%20Issues)
