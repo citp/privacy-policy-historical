@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netflix.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220111019id_/http%3A//www.netflix.com/PrivacyPolicy%3Fhnjr%3D8%26mqso%3D60180980) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netflix.com privacy policy that was archived on 2006-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060319111014id_/http%3A//www.netflix.com/PrivacyPolicy%3Fhnjr%3D8) for the most accurate reproduction.*
 
 # Netflix - Rent DVDs Online - Try Free
 
