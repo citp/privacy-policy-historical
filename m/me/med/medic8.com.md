@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the medic8.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219141259id_/http%3A//medic8.com/healthguide/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medic8.com privacy policy that was archived on 2006-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060320004238id_/http%3A//www.medic8.com/healthguide/privacy.htm) for the most accurate reproduction.*
 
-# Medic8 Privacy Policy
+# The Medic8 Family Health Guide: Privacy Policy
 
 **Privacy Policy**
 
