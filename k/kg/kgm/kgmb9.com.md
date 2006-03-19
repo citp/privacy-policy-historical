@@ -1,19 +1,24 @@
-> *The following text is extracted and transformed from the kgmb9.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217045507id_/http%3A//kgmb9.com/kgmb/display.cfm%3Fsid%3D1197) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kgmb9.com privacy policy that was archived on 2006-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060319043544id_/http%3A//kgmb9.com/kgmb/display.cfm%3Fsid%3D1197) for the most accurate reproduction.*
 
 # KGMB9 - Hawaii's Severe Weather Station | Privacy Policy
 
-[](https://web.archive.org/web/20051217045507id_/http%3A//kgmb9.com/kgmb/display.cfm?sid=1237)
+[](https://web.archive.org/web/20060319043544id_/http%3A//kgmb9.com/kgmb/display.cfm?sid=1237)
 
   
 [](http://kgmb.titantv.com/APG/Grid.aspx?callsign=kgmb)  
 
 
   
+[](http://www.kgmb9.com/kgmb/display.cfm?storyID=7438&sid=1243)  
+___March 13 - April 3  
+_ _  
 [](http://www.jeopardy.com/)  
-__Weekdays at  4 & 4:30 p.m._  
+ _ _Weekdays at  4 & 4:30 p.m._  
 _ _  
 [](http://insider.tv.yahoo.com/theinsider/)  
- _Weekdays at  6:30 p.m.__ 
+ _Weekdays at  6:30 p.m.__ _
+
+ _
 
 [](http://www.cbs.com/)
 
@@ -21,16 +26,18 @@ _ _
 Print Partner  
 [](http://www.honolulumagazine.com/)
 
+_
+
   
-[**Send News Tips**](https://web.archive.org/web/20051217045507id_/http%3A//kgmb9.com/kgmb/display.cfm?sid=1199)  
+[**Send News Tips**](https://web.archive.org/web/20060319043544id_/http%3A//kgmb9.com/kgmb/display.cfm?sid=1199)  
 Please send information about news and events to [kgmbnews@kgmb9.com](mailto:kgmbnews@kgmb9.com) or call 973-9889.
 
-[](http://altfarm.mediaplex.com/ad/ck/4742-24138-10209-22?mpt=140I2B7A59BJG4CMMNL1G272F)
+[](http://kgmb9.com/kgmb/display.cfm?storyID=7373&sid=1211)
 
   
 
 
-[](http://altfarm.mediaplex.com/ad/ck/4742-24138-10209-23?mpt=140I2B7A59BJG4CMMNL1G272F)
+[](http://www.kgmb9.com/kgmb/display.cfm?storyID=5244&sid=1237)
 
   
 
@@ -39,7 +46,7 @@ Please send information about news and events to [kgmbnews@kgmb9.com](mailto:kgm
 
 Posted: October 26, 2004 11:33 AM 
 
-[](https://web.archive.org/web/20051217045507id_/http%3A//kgmb9.com/kgmb/print.cfm?sid=1197&storyID=1624)
+[](https://web.archive.org/web/20060319043544id_/http%3A//kgmb9.com/kgmb/print.cfm?sid=1197&storyID=1624)
 
 KGMB9.com Privacy Policy  
 
@@ -94,33 +101,32 @@ The Privacy Notice posted on this site was updated on or about November 1, 2004.
 
 | 
 
-[](http://altfarm.mediaplex.com/ad/ck/4742-24138-10209-24?mpt=140I2B7A59BJG4CMMNL1G272F1E2254295KHCD4GG2JP3CO3C2)
+[](http://www.kgmb9.com/kgmb/display.cfm?storyID=7463&sid=1237)
 
   
 
 
-[](http://altfarm.mediaplex.com/ad/ck/4742-24138-10209-25?mpt=140I2B7A59BJG4CMMNL1G272F1E2254295KHCD4GG2JP3CO3C2)
+[](http://www.kgmb9.com/kgmb/display.cfm?storyID=7380&sid=1238)  
+\- ADVERTISEMENT -  
+
+
+[](http://www.cbs.com/primetime/the_unit/)  
+\- ADVERTISEMENT -  
+
+
+[](http://www.tonygroup.com/)  
+\- ADVERTISEMENT -  
+
+
+[](http://kgmb9.com/kgmb/display.cfm?sid=1193)
 
   
 
 
-[](http://altfarm.mediaplex.com/ad/ck/4742-24138-10209-26?mpt=140I2B7A59BJG4CMMNL1G272F1E2254295KHCD4GG2JP3CO3C2)  
+[](http://www.kgmb9.com/kgmb/display.cfm?storyID=6372&sid=1235)  
 \- ADVERTISEMENT -  
 
 
-[](http://altfarm.mediaplex.com/ad/ck/4742-24138-10209-27?mpt=140I2B7A59BJG4CMMNL1G272F1E2254295KHCD4GG2JP3CO3C2)  
+[](http://www.honolulupride.com/feature.cfm)  
 \- ADVERTISEMENT -  
-
-
-[](http://altfarm.mediaplex.com/ad/ck/4742-24138-10209-28?mpt=140I2B7A59BJG4CMMNL1G272F1E2254295KHCD4GG2JP3CO3C2)  
-\- ADVERTISEMENT -  
-
-
-[](http://altfarm.mediaplex.com/ad/ck/4742-24138-10209-29?mpt=140I2B7A59BJG4CMMNL1G272F1E2254295KHCD4GG2JP3CO3C2)  
-\- ADVERTISEMENT -  
-
-
-[](http://altfarm.mediaplex.com/ad/ck/4742-24138-10209-30?mpt=140I2B7A59BJG4CMMNL1G272F1E2254295KHCD4GG2JP3CO3C2)
-
-  
 
