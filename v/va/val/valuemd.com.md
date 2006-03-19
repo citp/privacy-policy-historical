@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the valuemd.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229121400id_/http%3A//www.valuemd.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuemd.com privacy policy that was archived on 2006-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060319191323id_/http%3A//www.valuemd.com/privacy.php) for the most accurate reproduction.*
 
 # Medical Schools Forum
 
-We at Value MD Limited Liability Company, hereafter refer as "ValueMD" are committed to respecting your privacy and recognize your need for appropriate protection and management of personally identifiable information you share with us (any information by which you can be identified, such as name, address, and telephone number). That is why ValueMD has established this privacy policy, so that you can understand the care with which we intend to treat your information. 
+We, at Value MD Limited Liability Company, hereafter refered to as "ValueMD", are committed to respecting your privacy and recognize your need for appropriate protection and management of personally identifiable information you share with us (any information by which you can be identified, such as name, address, and telephone number). That is why ValueMD has established this privacy policy, so that you can understand the care with which we intend to treat your information. 
 
 Some of our Web pages utilize "cookies" so that we can better serve you with more tailored information when you return to our site. Cookies are identifiers which a Web site can send to your browser to keep on your computer to facilitate your next visit to our site. You can set your browser to notify you when you are sent a cookie, giving you the chance to decide whether or not to accept it. The information we collect and analyze is used to improve our service to you. 
 
