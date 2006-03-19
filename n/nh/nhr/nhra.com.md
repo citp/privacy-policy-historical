@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nhra.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229025449id_/http%3A//nhra.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nhra.com privacy policy that was archived on 2006-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060319230132id_/http%3A//nhra.com/privacy.html) for the most accurate reproduction.*
 
 # NATIONAL HOT ROD ASSOCIATION PRIVACY POLICY
 
