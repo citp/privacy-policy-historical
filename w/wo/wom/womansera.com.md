@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the womansera.com privacy policy that was archived on 2005-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051119053239id_/http%3A//womansera.com/wemag/we.aspx%3Fshow%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womansera.com privacy policy that was archived on 2006-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060319150443id_/http%3A//womansera.com/wemag/we.aspx%3Fshow%3DPrivacy) for the most accurate reproduction.*
 
 # Woman's Era - The Substance of a Woman today...
 
 |   
   
 ---  
-**November (First) 2005  
+**March (First) 2006  
 **  
   
 |  | **Registered User**  
@@ -60,7 +60,7 @@ PASSWORD
     We pay a credit card processing through "suratdiamond.com" to handle all our online transactions. They use the same high level of security that banks use. When you click the PLACE ORDER button, you will be taken to our order page on their secure server.
     You need Acrobat Reader (free program) to open PDF format WOMAN'S ERA. If you don't yet have Acrobat Reader, we have a download link of Acrobat Reader on our home page.
  **Help:**  
-    If you have any further concerns about your privacy while on this site, please let us know: [[CLICK HERE](https://web.archive.org/web/20051119053239id_/http%3A//womansera.com/wemag/WE.ASPX?SHOW=ContactUs)]   
+    If you have any further concerns about your privacy while on this site, please let us know: [[CLICK HERE](https://web.archive.org/web/20060319150443id_/http%3A//womansera.com/wemag/WE.ASPX?SHOW=ContactUs)]   
   
 |  |  |   
   
