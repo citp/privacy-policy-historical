@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sovereignsociety.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215172016id_/http%3A//www.sovereignsociety.com/vmembers.php%3Fsec%3Dsovinfo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sovereignsociety.com privacy policy that was archived on 2006-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060319060659id_/http%3A//sovereignsociety.com/vmembers.php%3Fsec%3Dsovinfo) for the most accurate reproduction.*
 
 # The Sovereign Society - Important Information - Terms of Use
 
