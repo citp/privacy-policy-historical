@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncr.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213194545id_/http%3A//www.ncr.com/en/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncr.com privacy policy that was archived on 2006-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060320052749id_/http%3A//www.ncr.com/en/privacy.htm) for the most accurate reproduction.*
 
 # NCR - Privacy Policy and Data Protection Principles
 
@@ -65,8 +65,6 @@ NCR will apply these principles via practices that have the equivalent effect re
 **7\. Leading in the Marketplace**
 
 NCR will develop and offer market-driven solutions, particularly in the scalable data warehouse portfolio, that empower its corporate customers to protect consumers' personal data. NCR will also support and participate in consumer education efforts about the importance of fair information practices and privacy protection.
-
-* * *
 
 [](http://www.bbbonline.org/cks.asp?id=102040915264722821)
 
