@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chronogram.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231140447id_/http%3A//www.chronogram.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chronogram.com privacy policy that was archived on 2006-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060320114229id_/http%3A//www.chronogram.com/privacy) for the most accurate reproduction.*
 
 # Chronogram - Privacy Policy
 
@@ -65,4 +65,4 @@ The concern for safeguarding children on the Internet is something we take serio
 
 Contact information
 
-If you have questions about this Privacy Policy or anything else about Luminary Publishing, Inc., you can contact us at the following email address: [info@hvhealthyliving.com](mailto:info@hvhealthyliving.com). We look forward to the opportunity to address your concerns.
+If you have questions about this Privacy Policy or anything else about Luminary Publishing, Inc., you can contact us at the following email address: [info@chronogram.com](mailto:info@chronogram.com). We look forward to the opportunity to address your concerns.
