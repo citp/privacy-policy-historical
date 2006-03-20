@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerstep.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223084611id_/http%3A//www.careerstep.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerstep.com privacy policy that was archived on 2006-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060320230546id_/http%3A//www.careerstep.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
