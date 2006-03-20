@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nursingcenter.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228063551id_/http%3A//nursingcenter.com/about/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nursingcenter.com privacy policy that was archived on 2006-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060320051000id_/http%3A//www.nursingcenter.com/about/privacypolicy.asp) for the most accurate reproduction.*
 
 # NursingCenter - About Us - Privacy Policy
 
