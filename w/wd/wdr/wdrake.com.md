@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wdrake.com privacy policy that was archived on 2004-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040801045531id_/http%3A//wdrake.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wdrake.com privacy policy that was archived on 2006-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060320135530id_/http%3A//www.wdrake.com/privacy.aspx) for the most accurate reproduction.*
 
 # Walter Drake - Satisfying Customers for Over 50 Years!
 
@@ -8,8 +8,8 @@ Walter Drake is a leading direct marketing company in the United States, providi
 The Walter Drake business mailing address is: 
 
 > Walter Drake  
->  4510 Edison Ave.   
->  Colorado Springs, CO 80915 
+>  4630 Forge Rd. Suite A  
+>  Colorado Springs, CO 80907
 
 Comments about our Privacy Policy may be sent by [e-mail](mailto:help@wdrake.com). We can also be reached by telephone at 1-800-858-4979.
 
@@ -57,8 +57,8 @@ Other companies: We do not rent or sell your e-mail address to anyone.
 On occasion, we may share a portion of our catalog mailing lists with other reputable companies. If you prefer not to receive these catalog mailings, e-mail your request to [help@wdrake.com ](mailto:help@wdrake.com) with your name and address exactly as it appears on the back cover of the catalog, or mail the back cover to: 
 
 > Walter Drake Mail Preference   
->  Box 98968   
->  Las Vegas, NV 89193-8968
+>  PO Box 3680   
+>  Oshkosh, WI 54903-3680 
 
 ****How do we use Cookies?****  
 A "cookie" is a small file stored on your computer by a web site and gathers certain information about your activity on the site. We use cookies only to provide a mechanism that allows us to maintain your shopping cart. Our cookies do not store any personal or financial information about you. Most web browsers automatically accept cookies and allow you to disable the use of cookies. However, if you disable this feature, certain aspects of the Walter Drake web site, such as the shopping basket and "My Account" will not function properly. 
@@ -77,7 +77,7 @@ From time to time, Walter Drake will send out an email announcing special sales 
 
 > Customer Service:   
 >  [help@wdrake.com ](mailto:help@wdrake.com)  
->  1-800-858-4979, 5 am - 12 am (Mountain Time), 7 days a week
+>  1-800-858-4979, 6:00 am to 2:00 am Central - 7 Days a Week
 
 **Links To Other Sites**  
 While visiting wdrake.com, you may link to web sites operated by our partners or other third parties. This does not mean we endorse these web sites. We do not make any representations or warranties about any web site you may access through this web site. They are independent from Walter Drake, and we have no control over, or responsibility for, their information or activities. You need to make your own independent decision regarding your interactions or communications with any other web site. 
@@ -85,7 +85,7 @@ While visiting wdrake.com, you may link to web sites operated by our partners or
 If you provide personal information at one of those other sites, you are subject to the privacy policy of that site, not Walter Drake's privacy policy. We encourage you to read that privacy policy before submitting any personal information to any other web site. 
 
 **Security Concerns**  
-We are committed to data security and the accuracy of our information (see Our [Security Policy ](https://web.archive.org/web/20040801045531id_/http%3A//wdrake.com/security.aspx)) received from domestic and foreign visitors to our site. Likewise, your recipient(s)' information is never shared with third parties. In addition, none of your information is merged with outside data for marketing purposes. 
+We are committed to data security and the accuracy of our information (see Our [Security Policy ](https://web.archive.org/web/20060320135530id_/http%3A//www.wdrake.com/security.aspx)) received from domestic and foreign visitors to our site. Likewise, your recipient(s)' information is never shared with third parties. In addition, none of your information is merged with outside data for marketing purposes. 
 
 We do ask that you please review the acknowledgment of your request that you will receive to insure the accuracy of the information submitted to us. As noted earlier, your information is never shared with any third party when you let us know by [e-mail](mailto:help@wdrake.com) , letter, phone or the do not solicit option on each location where we are collecting information. The only exception is response to your specific request for merchandise or information. It should be noted that if you do allow us to share information, the other companies may be governed by different privacy policies. 
 
