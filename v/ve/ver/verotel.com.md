@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the verotel.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231034227id_/http%3A//verotel.com/p02000-en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verotel.com privacy policy that was archived on 2006-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060320230303id_/http%3A//www.verotel.com/p02000-en.html) for the most accurate reproduction.*
 
-# Verotel "Putting Trust in Global Payments"
+# Verotel "Putting Trust in Global Payments" · Accept Credit Cards · Accept Checks · 1-900 Billing · Direct Debit · SMS Billing · Asian Cards
 
 At Verotel, we are committed to protecting your privacy. We use the information we collect about you and your credit card, check or debit card to process transactions only. Private account and address information is necessary to verify that you are the person making the purchase and to thwart potential fraud. All information gathered in the course of a transaction is transmitted securely and is protected by our database throughout the transaction process. 
 
