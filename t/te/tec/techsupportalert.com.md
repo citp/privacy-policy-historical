@@ -1,19 +1,20 @@
-> *The following text is extracted and transformed from the techsupportalert.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209194950id_/http%3A//www.techsupportalert.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsupportalert.com privacy policy that was archived on 2006-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060320170344id_/http%3A//www.techsupportalert.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Tech Support Alert Privacy Policy
 
 **Tech Support Alert   Privacy Policy **
 
-We unconditionally respect the privacy of our newsletter subscribers and site visitors. **This** **is our policy** :
+I unconditionally respect the privacy of my newsletter subscribers and site visitors. **This** **is my policy** :
 
-  * **Choice and consent.** We respect the purpose for which our site visitors gave us their email address and other information. We inform users exactly how this information is used and give them choice and consent over this use including the removal of  names immediately upon request.
+  * ** Usage. ** Email addresses provided by site visitors are used only to mail email newsletters to which visitors subscribe and for no other purpose. They will **never** be used by me for promoting products or any other purpose other than mailing newsletters.
 
-  * **Third party use.** We do **not** sell, rent, or loan our lists to third parties for e-mail marketing. While we may in the future, sell advertising in our e-mail publications to other companies, we do not allow third parties any other use of our lists.
+  * ** Email Address Integrity. ** All my subscription lists are double opt-in. That is, subscribers must confirm by email, the subscription address given. This ensures that all my newsletters are specifically requested by the owner of the email address.
 
-  * **Unsubscriptions.** We send our newsletters only to those who request them, and immediately unsubscribe those who request it. Sometimes people subscribe for their friends, and while we cannot prevent that, our welcome message to subscribers -- and every issue of our free newsletter -- explain how to subscribe  and unsubscribe. We keep our subscription lists as clean as possible to prevent obsolete e-mails to take unnecessary bandwidth.
+  * **Third Party Use.** I do **not** sell, rent, or loan my subscription lists to third parties for any purpose with no exceptions.
 
-  * **Security.** We store subscriber and password files with personal information in a secure manner. We store such files in areas not accessible to Web browsers, or behind password protection, or off-line.
+  * **Un-subscriptions.** I send my newsletters only to those who request them and immediately un-subscribe those who request it.  Every issue of my newsletters explains how to subscribe  and un-subscribe.
+
+  *  **Security.** I store subscriber and password files with personal information in a secure manner not accessible to Web browsers or behind password protection or off-line.
+  *  **Choice and Consent.** I respect the purpose for which my site visitors give me their email address and other information. I inform users exactly how this information is used and give them choice and consent over this use including the removal of  names immediately upon request.
 
 
-
-[**Back**](https://web.archive.org/web/20041209194950id_/http%3A//www.techsupportalert.com/al_subscribe.htm)
