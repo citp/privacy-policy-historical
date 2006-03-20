@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ulta.com privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215144416id_/http%3A//www.ulta.com/cgi-bin/ulta/ulta/help/privacy_security.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ulta.com privacy policy that was archived on 2006-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060320180851id_/http%3A//www.ulta.com/control/privacy) for the most accurate reproduction.*
 
-# ULTA.com | Help | Privacy & Security
+# ULTA.com - The Ultimate Beauty Site : Privacy & Security
 
 **Privacy**
 
@@ -26,23 +26,11 @@ Advertisers and partners may also use their own cookies. ULTA.com does not contr
 
 **Disclosure**
 
-ULTA.com and its retail store affiliate, Ulta Salon, Cosmetics & Fragrance, Inc., have formed a strategic partnership with a company known as Chelsea Interactive for technology and other services. Your information may be provided to Chelsea Interactive and strategic partners of ULTA.com and/or Chelsea Interactive. Chelsea Interactive has agreed to maintain the confidentiality, security and integrity of your information, and ULTA.com will obligate all additional strategic partners of ULTA.com and/or Chelsea Interactive that receive any of your information to do the same. Of course, your information may also be provided to our retail store affiliate, Ulta Salon, Cosmetics & Fragrance, Inc., which provides fulfillment services to ULTA.com. If you do not want us to share your information with Chelsea Interactive and/or Ulta Salon, Cosmetics & Fragrance, Inc. and/or other strategic partners, please notify us using the Opt Out procedure described below. 
+ULTA.com and its retail store affiliate, Ulta Salon, Cosmetics & Fragrance, Inc., have formed a strategic partnership with a company known as Prosodie Interactive for technology and other services. Your information may be provided to Prosodie Interactive and strategic partners of ULTA.com and/or Prosodie Interactive. Prosodie Interactive has agreed to maintain the confidentiality, security and integrity of your information, and ULTA.com will obligate all additional strategic partners of ULTA.com and/or Prosodie Interactive that receive any of your information to do the same. Of course, your information may also be provided to our retail store affiliate, Ulta Salon, Cosmetics & Fragrance, Inc., which provides fulfillment services to ULTA.com. If you do not want us to share your information with Prosodie Interactive and/or Ulta Salon, Cosmetics & Fragrance, Inc. and/or other strategic partners, please notify us using the Opt Out procedure described below. 
 
 As we continue to develop the business of ULTA.com, we might sell portions of the business or certain assets of the business. In such transactions, customer information generally is one of the transferred business assets. Also, in the unlikely event that ULTA.com or substantially all of its assets are acquired, customer information will of course be one of the transferred assets. 
 
-Finally, your information may be provided to third parties to the extent necessary to process and fill your order, reduce credit risk, protect against fraud, comply with applicable law, enforce or apply our user agreement and privacy policies. In some instances, we may also share non-identifying and aggregate information with third parties. However, except for our affiliated retail stores, the marketing and strategic partners of ULTA.com and/or Chelsea Interactive and except as otherwise discussed in this policy, ULTA.com does not share, sell or rent individual, identifying information to any third party at any time without your explicit consent. 
-
-**Third Party Data Sharing**
-
-The personal information you have provided us and information about your order may be shared with third parties. This information may be combined with other personally identifiable information (such as demographic information and past purchase information) available from our records and other sources. This information will be used to make our future marketing efforts more efficient. It may also be used by our marketing partners to bring you offers of interest. 
-
-If you prefer we do not share your name and address with marketing partners, please see the optout section below. 
-
-If you agreed to receive email from our marketing partners, we will share with them your email address and the information described above, so they can send you offers for products and services that may be of interest to you. We will only share your e-mail address if you have opted in by checking the box on the registration page. Additionally, each email our partners send you will include a description of the simple opt out process to enable you to stop receiving future e-mail. 
-
-**Opt Out**
-
-If you do not want us to share your information with Chelsea Interactive or other third parties, you may e-mail us at [service@ULTA.com](mailto:service@ULTA.com) with a statement requesting that your information not be provided to Chelsea Interactive and/or other third parties. Please specify in your e-mail whether you do not want us to share your information with Chelsea Interactive or third parties or both. Likewise, if you do not want us to share your information with ULTA Salon, Cosmetics & Fragrance, Inc., you may e-mail us at [service@ULTA.com](mailto:service@ULTA.com) with a statement requesting that we limit the use of your information by ULTA Salon, Cosmetics & Fragrance, Inc.; in that case, ULTA Salon, Cosmetics & Fragrance, Inc. will only be given the information needed to fulfill your order. However, to the extent that you do not want us to share your information with any third parties, it may impact our ability to serve you through our website. 
+Finally, your information may be provided to third parties to the extent necessary to process and fill your order, reduce credit risk, protect against fraud, comply with applicable law, enforce or apply our user agreement and privacy policies. In some instances, we may also share non-identifying and aggregate information with third parties. However, except for our affiliated retail stores, the marketing and strategic partners of ULTA.com and/or Prosodie Interactive and except as otherwise discussed in this policy, ULTA.com does not share, sell or rent individual, identifying information to any third party at any time without your explicit consent. 
 
 **Security**
 
@@ -63,6 +51,3 @@ Please remember that any information you may disclose in public areas of our web
 **To Contact Us or Change Your Information**
 
 Do you have questions about our policies or any other customer service issue? Do you want to update your information for the Club at ULTA.com or change any other information about yourself? You can call us toll-free, from 10am to 10pm EST. Monday-Friday and 10am to 6pm EST. Saturday and Sunday, at 866-ULTA-COM or contact us online at [service@ULTA.com](mailto:service@ULTA.com). 
-
-**Related Help Topics**  
-[Copyright Information](https://web.archive.org/web/20021215144416id_/http%3A//www.ulta.com/cgi-bin/ulta/ulta/help/copyright.jsp) |  [In-Stock Inventory](https://web.archive.org/web/20021215144416id_/http%3A//www.ulta.com/cgi-bin/ulta/ulta/help/instock_inventory.jsp) | [Sales Tax](https://web.archive.org/web/20021215144416id_/http%3A//www.ulta.com/cgi-bin/ulta/ulta/help/sales_tax.jsp) | [Customer Satisfaction Policy](https://web.archive.org/web/20021215144416id_/http%3A//www.ulta.com/cgi-bin/ulta/ulta/help/customer_satisfaction.jsp) | [User Agreement](https://web.archive.org/web/20021215144416id_/http%3A//www.ulta.com/cgi-bin/ulta/ulta/help/user_agreement.jsp) | [Table of Contents](https://web.archive.org/web/20021215144416id_/http%3A//www.ulta.com/cgi-bin/ulta/ulta/help/index.jsp)
