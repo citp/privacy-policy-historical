@@ -1,16 +1,15 @@
-> *The following text is extracted and transformed from the armorama.com privacy policy that was archived on 2004-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040805103232id_/http%3A//www.armorama.com/modules.php%3Fop%3Dmodload%26name%3DFAQ%26file%3Dindex%26myfaq%3Dyes%26id_cat%3D3%26categories%3DWhat%2Bis%2BYour%2BPrivacy%2BStatement%253F%26parent_id%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armorama.com privacy policy that was archived on 2006-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060320223928id_/http%3A//www.armorama.com/modules.php%3Fop%3Dmodload%26name%3DFAQ%26file%3Dindex%26myfaq%3Dyes%26id_cat%3D3%26categories%3DWhat%2Bis%2BYour%2BPrivacy%2BStatement%253F%26parent_id%3D0) for the most accurate reproduction.*
 
-# Armorama.com :: Military Scale Model & Diorama Community
+# Armorama :: Military Scale Modeling Community - Model and Diorama Features, Forums, Gallery, and More.
+
+**Interested in advertising?**  
+Armorama™ ranks as the most popular scale modeling site according to Alexa.
+
+|  | 
 
   
-[](http://www.kitmaker.net/)  
   
-  
-| 
-
-  
-  
-What is Your Privacy Statement?Category: [Main](https://web.archive.org/web/20040805103232id_/http%3A//www.armorama.com/modules.php?op=modload&name=FAQ&file=index) >> What is Your Privacy Statement?   
+What is Your Privacy Statement?Cat: [Main](https://web.archive.org/web/20060320223928id_/http%3A//www.armorama.com/modules.php?op=modload&name=FAQ&file=index) >> What is Your Privacy Statement?   
 | Answer  
 ---  
  **·**   What about my privacy?
