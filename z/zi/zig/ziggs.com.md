@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ziggs.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215153323id_/http%3A//ziggs.com/about/nsPrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ziggs.com privacy policy that was archived on 2006-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060321170022id_/http%3A//www.ziggs.com/about/nsPrivacy.aspx) for the most accurate reproduction.*
 
 # Ziggs - Privacy Statement
 
@@ -58,7 +58,7 @@ Ziggs web pages may contain electronic images known as web beacons (sometimes ca
 Web beacons collect only a limited set of information, including a cookie number, time and date of a page view, and a description of the page on which the web beacon resides. 
 
 Updating Your Information   
-You may review, correct, update or change your Personal Information at any time. Simply log into your Ziggs account, go to your Account Profile, review your account information and, if you wish, edit it with the options provided. Click [here](https://web.archive.org/web/20051215153323id_/http%3A//ziggs.com/login.aspx) to access your Account Profile page. You may also send an email to support@ziggs.com. 
+You may review, correct, update or change your Personal Information at any time. Simply log into your Ziggs account, go to your Account Profile, review your account information and, if you wish, edit it with the options provided. Click [here](https://web.archive.org/web/20060321170022id_/http%3A//www.ziggs.com/login.aspx) to access your Account Profile page. You may also send an email to support@ziggs.com. 
 
 You may opt-out of receiving communications from Ziggs concerning other products or services available from Ziggs, or your opinion of current products and services or potential new products and services that may be offered (except for communications necessary for your use of or our operation of the Site) by editing your Account Profile as described above. If you previously opted not to receive such communications, you may later opt-in by editing your Account Profile or sending an email to support@ziggs.com. In the event you opt-out, we may retain your e-mail address and share your e-mail address with our third party service providers, for the purpose of honoring your request to opt-out of receiving such communications from us or our third party service providers on our behalf. 
 
@@ -78,7 +78,7 @@ Ziggs, is a Delaware corporation with its principal place of business at 420 Boy
 
 Ziggs welcomes your comments concerning this Privacy Statement. If you have comments or questions concerting this Privacy Statement, please contact Ziggs by e-mail at [support@ziggs.com](mailto:support@ziggs.com) or by calling (877) MY-ZIGGS (877-699-4447). Thank you for using ziggs.com. 
 
-Your use of our Site is subject to and contingent upon your agreement with our [Terms of Use](https://web.archive.org/web/20051215153323id_/http%3A//ziggs.com/about/nsTermsOfUse.aspx), which are hereby incorporated by reference. 
+Your use of our Site is subject to and contingent upon your agreement with our [Terms of Use](https://web.archive.org/web/20060321170022id_/http%3A//www.ziggs.com/about/nsTermsOfUse.aspx), which are hereby incorporated by reference. 
 
 Except as described in this notice, and subject to your choices, Ziggs will not use your Personal Information for any other purpose unless we first obtain your express authorization. 
 
