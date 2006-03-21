@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the sportinglife.com privacy policy that was archived on 2004-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040830183757id_/http%3A//www.sportinglife.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportinglife.com privacy policy that was archived on 2006-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060321044608id_/http%3A//www.sportinglife.com/info/privacy.html) for the most accurate reproduction.*
 
-# Sporting Life | Football, Cricket, Olympics, Sports News, Live Scores & Results
+# Sporting Life | India v England Live Ball-by-ball, FA Cup, Man City v West Ham Live, Birmingham v Liverpool Live, Football, Cricket, Rugby Union, Rugby League, Sports News, Live Scores & Results
 
   
-**Sporting Life Network Privacy Policy**
+**TEAMtalk Media Group Network Privacy Policy:**
 
-ukbetting plc incorporating Sporting Life UK Limited, TEAMtalk Media Limited, Rivals Digital Media and sites with in the Sporting Life Network strongly believe in protecting the confidentiality and security of information we collect about individuals. The material below describes our privacy policy and describes how we treat the information we receive about you if you interact with any of our sites. 
+TEAMtalk Media Group Network Privacy Policy: ukbetting plc incorporating Sporting Life UK Limited, TEAMtalk Media Group Limited, Rivals Digital Media and sites within the company's TEAMtalk Media Group Network strongly believe in protecting the confidentiality and security of information we collect about individuals. The material below describes our privacy policy and describes how we treat the information we receive about you if you interact with any of our sites. 
 
 **Why We Need to Know About You**  
 We need to know about you so that we can provide you with information on products and services and better target our sports content offering to your interests. What we need to know about you includes your address, age and preferences. 
