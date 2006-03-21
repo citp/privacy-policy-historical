@@ -1,9 +1,13 @@
-> *The following text is extracted and transformed from the webnewswire.com privacy policy that was archived on 2004-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041211072803id_/http%3A//webnewswire.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webnewswire.com privacy policy that was archived on 2006-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060321230217id_/http%3A//www.webnewswire.com/privacypolicy.html) for the most accurate reproduction.*
 
 # webnewswire.com - Privacy Policy
 
-  
 Our site respects and protects the privacy of the individuals that use it. Individually identifiable information about you is not willfully disclosed to any third party without first receiving your permission, as explained in this privacy policy ("Privacy Policy"). 
+
+**Posting stories**  
+When you send us stories and inputs, you agree to give us non-exclusive copyright to the material without any royalty or necessity of accrediting you with any byline. You also agree that you are the original author of the material and you are not infringing on anyone else's intellectual property. In case of any violation, we will be free to share your contact and ISP information for any such claims. You also agree to bear all legal complications that may originate due to your posting, and hold us harmless. In case you disagree with any of these clauses then kindly do not submit any stories. 
+
+If you think that your story has been posted by someone in error then please contact us through the feedback form, and we will delete the story immediately. Please note that there are sometimes hundreds of stories published each day and most of them originate from submissions by users. 
 
 **Our site and Cookies**  
 Upon your first visit to Our site, Our site sends a "cookie" to your computer. A cookie is a piece of data that identifies you as a unique user. Our site uses cookies to improve the quality of our service and to understand our user base more. Our site does this by storing user preferences in cookies and by tracking user trends and patterns of how people search. Our site will not disclose its cookies to third parties except as required by a valid legal process such as a search warrant, subpoena, statute, or court order.
@@ -24,15 +28,5 @@ We may decide to change this Privacy Policy from time to time. When we do, we wi
 
 For any questions, please fill in the feedback form.
 
-|  |    
-| Article Rating  
----  
-Average Score: **4**  
-Votes: **1**
-
-  
-  
-  
-  
   
 
