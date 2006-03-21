@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the buffalo.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305221905id_/http%3A//www.buffalo.com/link.asp%3Flink%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buffalo.com privacy policy that was archived on 2006-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060321125646id_/http%3A//www.buffalo.com/link.asp%3Flink%3Dprivacy) for the most accurate reproduction.*
 
-# Buffalo.com(SM) Privacy Policy
+# Privacy Policy
 
-|  | 
-
-**Buffalo.com SM and BuffaloNews.com Privacy Policy ** (updated 12/04)
+Buffalo.com and BuffaloNews.com Privacy Policy (updated 04/05) 
 
 Your privacy is very important to us. To make use of certain features of our website; ie, [Free email](http://mail.buffalo.com/), [E-vents@Buffalo.comSM](http://www.buffalo.com/calendar/), [MyCalendar@Buffalo.comSM](http://www.buffalo.com/calendar/my_calendar/accounts/), etc., visitors need to register and provide certain information as part of the registration process. The information you provide will help us to provide the services you request from us. One of the things we will do with this information is offer more personalized features and make our features and our site more useful to you. 
 
@@ -18,17 +16,17 @@ Our web servers automatically collect certain information about your computer's 
 
 To make our site more valuable to our visitors and to provide the content that they seek, we offer some features in conjunction with other providers that specialize in offering such services. Also, our site contains links to many other websites whose privacy policies we do not control. When you click on one of these links and leave our servers (check the URL in your browser's location bar to see where you are), that site's privacy policy governs any personal information you provide to that site. We recommend you familiarize yourself with that site's policy, as it may differ from Buffalo.com'sSM. 
 
-Buffalo.comSM does not sell, trade or rent any personal information about its users. However, Buffalo.comSM does share information with our partners, affiliates, sponsors and advertisers to assist them in market research and to confirm the value of advertising on Buffalo.comSM, and this information is in the form of aggregate statistics on traffic to pages of our site. These statistics include no personally identifying information. If you have consented as part of the registration process for free email, contests and other features, we also share information on our visitors with our partners, affiliates, sponsors and advertisers that may be marketing products and services of interest to you. As part of the registration process, we give you the opportunity to decline to receive any mailings from Buffalo.comSM, its partners, affiliates, sponsors or advertisers.
+Buffalo.comSM does not sell, trade or rent any personal information about its users unless otherwise indicated on afilliated Buffalo.com websites. However, Buffalo.comSM does share information with our partners, affiliates, sponsors and advertisers to assist them in market research and to confirm the value of advertising on Buffalo.comSM, and this information is in the form of aggregate statistics on traffic to pages of our site. These statistics include no personally identifying information. If you have consented as part of the registration process for free email, contests and other features, we also share information on our visitors with our partners, affiliates, sponsors and advertisers that may be marketing products and services of interest to you. As part of the registration process, we give you the opportunity to decline to receive any mailings from Buffalo.comSM, its partners, affiliates, sponsors or advertisers.
 
 All information gathered on Buffalo.comSM is encrypted for storage on our database. However, no security system is impenetrable and we cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. 
 
 Children should always get their parents permission before providing any information about themselves over the Internet, such as name, email address, phone number, etc.
 
-Children must be 13 years of age or older to become a registered member of E-vents@Buffalo.comSM and post events on the community calendar. See the [Standards of Content](https://web.archive.org/calendar/StandardsOfContent.asp) for E-vents@Buffalo.comSM
+Children must be 13 years of age or older to become a registered member of E-vents@Buffalo.comSM and post events on the community calendar. See the [Standards of Content](http://www.buffalo.com/calendar/StandardsOfContent.asp) for E-vents@Buffalo.comSM 
 
 See the [Terms of Service](http://mail.buffalo.com/templates/common/us/tos.htm) for Buffalo.comSM Free Email Service.
 
-Please take a few minutes to review Buffalo.com'sSM [Visitor Agreement](http://www.buffalo.com/visitor.asp).
+Please take a few minutes to review Buffalo.com'sSM [Visitor Agreement](https://web.archive.org/web/20060323114651id_/http://www.buffalonews.com/services/visitor.asp).
 
 Any changes to our privacy policy will be posted. 
 
