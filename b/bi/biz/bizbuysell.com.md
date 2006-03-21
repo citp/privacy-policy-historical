@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizbuysell.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603101859id_/http%3A//www.bizbuysell.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizbuysell.com privacy policy that was archived on 2006-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060321073926id_/http%3A//www.bizbuysell.com/privacy.htm) for the most accurate reproduction.*
 
 # BizBuySell: Privacy Policy
 
@@ -107,7 +107,7 @@ You can access any information in your posting by going to the area of the site 
 
 If you select the option to delete your posting, it is immediately deleted upon clicking the button to confirm that you do indeed wish to delete it. If you select the option to edit your posting, the changes you request are first reviewed by our processing center, and may take up to two business days to appear in their updated state online. Deleted or modified information may continue to be stored by BizBuySell for archival record-keeping purposes only.
 
-Credit card information submitted to BizBuySell is typically used for a one-time charge to your account, and subsequent orders for renewals require users to resubmit the credit information. (An exception: Startup franchise and business opportunity ads are automatically renewed each month, using the original credit information submitted.) Therefore, for added security, any credit card information submitted to BizBuySell is not accessible for review or modification by signing on to your ad or workbook. If you have questions regarding the credit card information used in ordering your ad, workbook, or pricing report, please contact us at 843.723.6003 or [AdManager@BizBuySell.com](mailto:admanager@bizbuysell.com).
+Credit card information submitted to BizBuySell is typically used for a one-time charge to your account, and subsequent orders for renewals require users to resubmit the credit information. (An exception: Startup franchise and business opportunity ads are automatically renewed each month, using the original credit information submitted.) Therefore, for added security, any credit card information submitted to BizBuySell is not accessible for review or modification by signing on to your ad or workbook. If you have questions regarding the credit card information used in ordering your ad, workbook, or pricing report, please contact us at 415.284.4380 or [AdManager@BizBuySell.com](mailto:admanager@bizbuysell.com).
 
 **Site and Service Updates**
 
