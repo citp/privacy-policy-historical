@@ -1,101 +1,97 @@
-> *The following text is extracted and transformed from the wrongdiagnosis.com privacy policy that was archived on 2004-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040803011815id_/http%3A//wrongdiagnosis.com/crtop/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrongdiagnosis.com privacy policy that was archived on 2006-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060321083536id_/http%3A//wrongdiagnosis.com/crtop/privacypolicy.htm) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - WrongDiagnosis.com
 
-As patients ourselves, we understand that health matters are very personal and need to be kept private. Your privacy is important to WrongDiagnosis.Com and we are committed to protecting that privacy. This privacy statement discloses the privacy practices for WrongDiagnosis.Com. 
+_Adviware_ recognises and values the protection of your personal information. _Adviware_ also recognises our customers’ concerns about the collection of any personal information and how _Adviware_ will use that information. _Adviware_ observes and is governed by the National Privacy Principles pursuant to the Australian Privacy Act 1988 (Cth). _Adviware_ has implemented this privacy policy in order to reassure our customers about how _Adviware_ will use any collected personal information. 
 
-## Overview
+##  1\. Personal identification and collection 
 
-Generally speaking, we do not attempt to gather personal information except as required to administer the site and provide any services that you may have asked for. Specific details of certain privacy issues are discussed in subsequent sections. In general, our privacy practices can be summarized as follows: 
+Every time you use our website, information is collected by our service. Types of information include: 
 
-  * We do not sell or distribute personally identifiable information. We only share aggregate statistical information (if any) with our advertisers, affiliates, or partners. 
-  * Personal information such as email addresses or shipping addresses obtained from you through purchases from our [Amazon.com Zshop](http://www.amazon.com/shops/wrongdiagnosis) may be used by us for opt-out newsletters or other marketing purposes. 
-  * In many cases we do not even have your personally identifiable information and make no attempt to get it. Ordinary viewing of public WrongDiagnosis.Com pages does not log anything other than standard web server logs (e.g. IP address, page viewed, date and time), and we make no attempt to identify you from this information. Credit card details for orders at our [Amazon Zshop](http://www.amazon.com/shops/wrongdiagnosis) are handled by Amazon.com and are not seen by us. For ordinary Amazom.com referral book sales that bypass our Amazon Zshop, we do not gather personal information or credit card details. 
-  * WrongDiagnosis.Com does not track sessions for ordinary viewing of our site, but may do so to allow entry to protected pages such as membership-only pages or credit card purchased documents. 
-  * WrongDiagnosis.Com does not use cookies, but our advertisers may. 
-
-
-
-The following sections discuss these issues in further detail. 
-
-## Log Files
-
-Most internet sites collect basic data in log files on web servers. When you perform an action at our web site, such as viewing a HTML page, the following information is typically collected by standard web server configuration, and may be logged by our web servers: 
-
-  * IP address 
-  * Page requested (i.e. which document is viewed) 
-  * Referrer page (where did you come from, if arriving from a link to us) 
-  * Date and time 
-  * Web browser type and version (e.g. Netscape versus Internet Explorer) 
-  * Other technical information 
+  * The date and time of your visit to our website; 
+  * Your IP address; 
+  * The address of the documents you access; 
+  * The type of browser and operating system you are using; and 
+  * Any address of any referring site and any website you are about to visit through our website links. 
 
 
 
-**IP addresses:** Whenever you access the Internet, all computers are assigned IP addresses to allow computers and servers to recognize and communicate with each other. These are usually written as 4 numbers separated by dots, such as 12.34.56.78, where each number is in the range 0 to 255 inclusive. IP addresses are not linked to personally identifiable information. We use IP addresses to analyze trends, administer the site, and gather broad demographic information for aggregate use. For example, we may need to determine how many "unique visitors" our site has had, and from which countries the visitors came. We may use IP addresses combined with pages visited to track user movement through a site, but only on an aggregate basis to determine which web pages are most used, and which paths through the site are the most useable. However, WrongDiagnosis.Com may use IP addresses in special cases, such as to identify visitors who refuse to comply with our terms of use or who may threaten our service, site, customers and others. 
+The information that will be collected provides _Adviware_ with details about how the website will be used including the frequency and duration of visits, and which web pages have been accessed on our site. 
 
-## Cookies
+_Adviware_ may also conduct surveys or market research and may seek information from you from time to time. These surveys will provide _Adviware_ with information that allows improvement in the types and quality of service offered to you and the manner in which those services are offered. 
 
-WrongDiagnosis.Com does not use cookies. However, our advertiser partners may use cookies, though we have neither control of nor access to the data from these cookies. WrongDiagnosis.Com does not attempt to create or access cookies or to match cookies to any other personally identifiable information. 
+We will not collect any personal information which may reveal racial or ethnic origin, political opinions, philosophical beliefs, trade union membership, sexual activity or sexual orientation. 
 
-**What is a cookie?** A cookie is a piece of data stored on the user’s hard drive containing information about the user, such as which activities they conducted while on our site. Cookies are temporary files created during a web session; once the user closes their browser, the cookie simply terminates. It is also possible to configure your web browser to reject cookies should you so wish. 
+You may supply to us sensitive information relating to personal health information through emails, chatgroups, chatrooms, forums or feedback forms. You expressly consent for _Adviware_ to publish on the web site or disclose this information to contracted third parties. _Adviware_ will anonymise and remove your personal details relating to health information you submit to us prior to any publication (e.g. on our website). 
 
-## Sharing/Disclosure
+##  1.1 Personal Information via the Adviware website 
 
-Except as set forth in this privacy statement, WrongDiagnosis.Com will not disclose to unaffiliated companies any information it gathers from you which could be used to identify or contact you ("Personal Information"). Any Personal Information provided to entities affiliated with WrongDiagnosis.Com will be treated in accordance with the terms of this Privacy Statement, unless you are otherwise notified. In the following limited circumstances we will consider, and may release, Personal Information to third parties: (1) to comply with valid legal requirements such as a law, regulation, search warrant, subpoena, or court order; or (2) in special cases, such as a physical threat to you or others, or to identify malicious users who may threaten our service, site, customers and others. 
+Most commercial websites use cookies. Cookies are pieces of information that websites send to the browser and are stored in the computer hard-drive. Cookies make using this website easier by storing information about your preferences on this website. This allows the site to be tailored to you on any of your return visits. Cookies will not identify you personally. If you would prefer not to receive cookies, you can alter your security settings on your web browser to disable cookies or to warn you when cookies are being used. However, by disabling the cookie function in your web browser you may impede your ability to use parts of the site. 
 
-We will share aggregated statistical and demographic information with our partners and advertisers. For example, the number of users of our site, or the number of users of particular documents or subareas of the web site. This is not linked to any personal information that can identify any individual person. 
+##  2\. Use and disclosure of information 
 
-## Credit Card Information
+The symptom and disease information that you provide to us via emails, chatgroups, chatrooms, forums or feedback forms may be used for two primary purposes. First it will be used for statistical purposes and may be provided to third party researchers. Secondly, it may be used for the _Adviware_ website, published in medical journals, books or magazines. 
 
-This site does not currently accept credit card details directly. Instead, our partners such as Amazon.com process credit card transactions without distributing this information to us. For example, credit card details for orders at our [Amazon Zshop](http://www.amazon.com/shops/wrongdiagnosis) are handled by Amazon Payments and are not seen by us. Email and shipping addresses are provided for us to ship product, but we do not see your billing details. Furthermore, for ordinary Amazom.com book, magazine or other referral sales that bypass our Amazon Zshop, we do not even receive email addresses or personal information, let alone credit card details. If for any reason we do receive your credit card details, we will use such information only in order to perform credit card verification and transaction approval. Our partners that collect credit card information may use this information in accordance with their own privacy or other policies and this is beyond our control. 
+Specifically, _Adviware_ will not use or disclose or permit the use or disclosure of information that could be used to identify an individual member in any circumstances except: 
 
-## Links
+(a) to ensure the proper functioning of the _Adviware_ website; and 
 
-This privacy statement applies solely to information collected by this Web site. This web site contains links to other web sites on the internet. Please be aware that we at WrongDiagnosis.Com are not responsible or liable for the privacy practices of such other web sites. 
+(b) where personal information is to be used by a participating third party contracted to _Adviware_ for research and where the participating third party is bound by a confidentiality agreement with _Adviware_. 
 
-We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. You access destination links at your own risk. Because we want to provide you with the best service possible, we would appreciate your comments about any external links at [privacy@wrongdiagnosis.com](mailto:privacy@wrongdiagnosis.com). 
+Your information may also be used or disclosed if: 
 
-## Third Party Advertising Services
+(a) _Adviware_ is required or authorised by law or if it is reasonably necessary to enforce the law; the information is necessary for the establishment, exercise or defence of a legal claim; or 
 
-WrongDiagnosis.Com may utilize certain third-party advertising services (e.g. organizations such as DoubleClick) to display advertising for our advertisers. These third-party services may place a cookie on your computer for the purposes of ad tracking and presentation. WrongDiagnosis.Com does not share personally identifiable visitor information with its advertising services. 
+(b) the necessary authorities (i.e. police, ambulance and fire services) are to believe on reasonable grounds that disclosure is necessary to prevent a threat to life or health; 
 
-## Public Forums
+(c) you have given express consent to _Adviware_ for a prescribed purpose. 
 
-WrongDiagnosis.Com may provide its users with chat rooms, forums, discussion areas, message boards and/or news groups. Please remember that any information disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. Information disclosed in these areas is not subject to this Privacy Statement and will be seen by third parties not related to WrongDiagnosis.Com and may be used by them for unauthorized purposes, such as to contact you. 
+_Adviware_ will not sell, distribute, rent, licence, disclose or reveal, share or pass your personally identifiable information onto any third parties, other than those who are contracted to _Adviware_ to keep the information confidential subject to the Australian Privacy Act 1988 (Cth) and regulations regarding the handling of personal information. 
 
-## Security
+##  3\. Sending information overseas 
 
-This web site has security measures to protect our users’ information that is under our control. WrongDiagnosis.Com employs strict security measures to safeguard online transactions. Personal information is stored on a secured server with strict access controls and is protected by several levels of security technology. However, we do not warrant or represent that any information you submit to WrongDiagnosis.Com will be protected against loss, misuse, or alteration by third parties. 
+You consent to _Adviware_ disclosing your symptoms or diseases that you provide via our website, emails, chatgroups, chatrooms, forums or feedback forms to other third parties or researchers contracted to _Adviware_ located outside Australia. _Adviware_ will take all reasonable steps to ensure that contractually such recipients respect the confidentiality of this information by abiding by equivalent privacy obligations, as those required in Australia. 
 
-## Notification of Changes
+##  4\. Security of your information 
 
-WrongDiagnosis.Com may change this Privacy Statement at any time by posting revisions to our web site, so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. 
+We will take all reasonable steps to ensure that all information you provide to us that we use or disclose is stored in a secure environment accessed only by authorised _Adviware_ personnel. Please keep in mind that no information transmitted over the internet can be guaranteed to be 100% secure. We will endeavour to protect your personal information, however we cannot ensure or warrant the security of any information you transmit to us or receive from our online services. These activities are conducted at your own risk. Once we receive your transmission, we will use our reasonable efforts to ensure its security. 
 
-We will use information in accordance with the privacy policy under which the information was collected. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. 
+## 5\. Credit Card Information 
 
-## Acceptance
+_Adviware_ does not currently accept credit card details directly. Instead, our partners such as Amazon.com process credit card transactions without distributing this information to us. For example, credit card details for orders at our Amazon Zshop are handled by Amazon Payments and are not seen by us. Email and shipping addresses are provided for us to ship product, but we do not see your billing details. Furthermore, for ordinary Amazom.com book, magazine or other referral sales that bypass our Amazon Zshop, we do not even receive email addresses or personal information, let alone credit card details. If for any reason we do receive your credit card details, we will use such information only in order to perform credit card verification and transaction approval. Our partners that collect credit card information may use this information in accordance with their own privacy or other policies and this is beyond our control. 
 
-Your use of the site constitutes acceptance of the provisions of this Privacy Statement and your continued usage after any changes are posted constitutes acceptance of each revised Privacy Statement. If you do not agree to the terms of this Privacy Statement or any revised policy, please exit the site immediately. 
+##  6\. Links 
 
-## Terms of Use
+This privacy statement applies solely to information collected by this Web site. This web site contains links to other web sites on the Internet. Please be aware that we at _Adviware_ are not responsible or liable for the privacy practices of such other web sites. 
 
-Please read our [_Terms of Use_](https://web.archive.org/web/20040803011815id_/http%3A//wrongdiagnosis.com/crtop/termsofuse.htm) for other terms and conditions governing your use of the WrongDiagnosis.Com Web site. Continued use of our web site constitutes acceptances of these terms and conditions of use. 
+We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. You access destination links at your own risk. Because we want to provide you with the best service possible, we would appreciate your comments about any external links at privacy@Adviware.com. 
 
-## Contacting the Web Site
+##  7\. Third Party Advertising Services 
 
-If you have any questions about this privacy statement, the practices of this Web site, or your interaction with this Web site, contact [privacy@wrongdiagnosis.com](mailto:privacy@wrongdiagnosis.com). 
+_Adviware_ may utilise certain third-party advertising services (e.g. organizations such as Burst Media, FastClick, Google) to display advertising for our advertisers. These third-party services may place a cookie on your computer for the purposes of ad tracking and presentation. _Adviware_ does not share personally identifiable visitor information with its advertising services. 
 
-_Privacy Statement version 1.3: Last revised March 6, 2003. Copyright © WrongDiagnosis.Com 2003._
+##  8\. Public Forums 
+
+_Adviware_ may provide its users with chat rooms, forums, polls, discussion areas, message boards and/or news groups. Please remember that any information disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. Information disclosed in these areas is not subject to this Privacy Statement and will be seen by third parties not related to _Adviware_ and may be used by them for unauthorised purposes, such as to contact you. 
+
+##  9\. How to contact us 
+
+If you have any concerns or questions, please contact _Adviware_ via our email privacy@adviware.com. _Adviware_ reserves the right to modify or amend this Statement at any time. 
+
+We appreciate you taking the time to read the _Adviware_ Privacy Statement. 
+
+© 2005 Adviware Pty Ltd. All Rights Reserved 
+
+_Privacy Statement last updated 4 January 2005_
 
 * * *
 
-[](https://web.archive.org/web/20040803011815id_/http%3A//wrongdiagnosis.com/crtop/privacypolicy_printer.htm)   [](https://web.archive.org/web/20040803011815id_/http%3A//wrongdiagnosis.com/crtop/termsofuse.htm) [](https://web.archive.org/web/20040803011815id_/http%3A//wrongdiagnosis.com/crtop/toc.htm) [](https://web.archive.org/web/20040803011815id_/http%3A//wrongdiagnosis.com/admin/adpolicy.htm)   
-
-
-* * *
-
-Did we miss something? Please [tell your story](https://web.archive.org/web/20040803011815id_/http%3A//wrongdiagnosis.com/crtop/tellstory.htm) or provide [feedback or suggestions](https://web.archive.org/web/20040803011815id_/http%3A//wrongdiagnosis.com/crtop/feedback.htm). 
+[](https://web.archive.org/web/20060321083536id_/http%3A//wrongdiagnosis.com/crtop/privacypolicy_printer.htm)   [](https://web.archive.org/web/20060321083536id_/http%3A//wrongdiagnosis.com/crtop/termsofuse.htm) [](https://web.archive.org/web/20060321083536id_/http%3A//wrongdiagnosis.com/crtop/toc.htm) [](https://web.archive.org/web/20060321083536id_/http%3A//wrongdiagnosis.com/crtop/spamstatement.htm)
 
 * * *
 
-By using this site you agree to our [Terms of Use](https://web.archive.org/web/20040803011815id_/http%3A//wrongdiagnosis.com/crtop/termsofuse.htm) and [Disclaimers](https://web.archive.org/web/20040803011815id_/http%3A//wrongdiagnosis.com/crtop/termsofuse.htm#disclaim). Information provided on this site is for informational purposes only; it is not intended as a substitute for advice from your own medical team. The information on this site is not to be used for diagnosing or treating any health concerns you may have - please contact your physician or health care professional for all your medical needs. Please see our [Terms of Use](https://web.archive.org/web/20040803011815id_/http%3A//wrongdiagnosis.com/crtop/termsofuse.htm) and [Disclaimers](https://web.archive.org/web/20040803011815id_/http%3A//wrongdiagnosis.com/crtop/termsofuse.htm#disclaim). 
+Did we miss something? Please provide [feedback or suggestions](https://web.archive.org/crtop/feedback.htm). 
+
+* * *
+
+By using this site you agree to our [Terms of Use](https://web.archive.org/crtop/termsofuse.htm). Information provided on this site is for informational purposes only; it is not intended as a substitute for advice from your own medical team. The information on this site is not to be used for diagnosing or treating any health concerns you may have - please contact your physician or health care professional for all your medical needs. Please see our [Terms of Use](https://web.archive.org/crtop/termsofuse.htm). 
