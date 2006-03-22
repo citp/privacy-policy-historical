@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the oklahoman.com privacy policy that was archived on 2005-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050914172506id_/http%3A//www.newsok.com/more/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oklahoman.com privacy policy that was archived on 2006-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060322052024id_/http%3A//www.newsok.com/more/privacypolicy) for the most accurate reproduction.*
 
 # NewsOK.com | Powered by The Oklahoman and NEWS 9
 
-HOMESJOBSCARSNEWSPAPER ADS
-
-| | 
+|  |   
+  
+| 
 
 PRIVACY POLICY OF NEWSOK.COMNewsOK is committed to providing visitors with a powerful, useful and appropriate on-line experience, while at the same time protecting users from unexpected use of personally identifiable information. Like other web publishers, we collect information from users in order to deliver more effective content and advertising, but only within the limits specified in this policy.
 
@@ -52,4 +52,6 @@ Please review the privacy policy of other sites you or your children elect to li
 
 IP AddressesNewsOK logs IP addresses, or the location of your computer on the Internet, for systems administration and troubleshooting purposes and to determine site usage. Your IP address does not contain personal information about you.
 
-Policy ChangesThe foregoing policy is effective March 14, 2003. NewsOK reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of the website following the posting of changes to this policy will mean that you accept those changes. By agreeing to submit personally identifiable information, you waive any claims related thereto that may arise from uses disclosed above or any reasonable extensions.
+Policy ChangesThe foregoing policy is effective March 14, 2003. NewsOK reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of the website following the posting of changes to this policy will mean that you accept those changes. By agreeing to submit personally identifiable information, you waive any claims related thereto that may arise from uses disclosed above or any reasonable extensions.  
+  
+---|---
