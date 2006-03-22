@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the thekidzpage.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230053509id_/http%3A//thekidzpage.com/html/terms.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thekidzpage.com privacy policy that was archived on 2006-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060322201649id_/http%3A//thekidzpage.com/html/terms.htm) for the most accurate reproduction.*
 
 # Privacy at theKidzpage.com
 
   
-**[_Navigation_](https://web.archive.org/web/20051230053509id_/http%3A//thekidzpage.com/html/information.htm) \- ****Privacy Statement** ** \- [_Linking_](https://web.archive.org/web/20051230053509id_/http%3A//thekidzpage.com/html/linktous.htm)  
+**[_Navigation_](https://web.archive.org/web/20060322201649id_/http%3A//thekidzpage.com/html/information.htm) \- ****Privacy Statement** ** \- [_Linking_](https://web.archive.org/web/20060322201649id_/http%3A//thekidzpage.com/html/linktous.htm)  
 **[](http://www.cybersitter.com/)[](http://www.netnanny.com/)[](http://www.safesurf.com/)
 
 Security | Removing/Changing Information | Children's Guidelines | Contacting the Site | Copyright Information
@@ -21,6 +21,8 @@ Demographic and profile data is collected at our site. We use this data to tailo
 This site contains advertising links to other sites. **theKidzpage™** is not responsible for the privacy practices or the content of such Web sites.
 
 Our online surveys request a visitor's demographic information (like their age-group). We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. 
+
+We have contracted with ValueClick to monitor certain pages of our website for the purpose of reporting website traffic, statistics, advertisement 'click-throughs', and/or other activities on our website. Where authorized by us, ValueClick may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. No personally identifiable information is collected by or transferred to any party other than the Advertiser. For more information about how the information is collected and used by ValueClick, please see ValueClick's privacy policy at <http://media.valueclick.com/privacy_consumer.shtml>
 
 back to top
 
