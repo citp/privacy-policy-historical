@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrestlinginc.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230125914id_/http%3A//www.wrestlinginc.com/index.cfm%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrestlinginc.com privacy policy that was archived on 2006-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060322234118id_/http%3A//www.wrestlinginc.com/index.cfm%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - WrestlingInc.com
 
@@ -28,4 +28,4 @@ This site contains links to other sites. **WrestlingInc.com** is not responsible
 
 #### Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us by clicking here. 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us by clicking [here](https://web.archive.org/index.cfm?page=contact_us). 
