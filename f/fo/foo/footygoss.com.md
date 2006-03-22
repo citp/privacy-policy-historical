@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footygoss.com privacy policy that was archived on 2005-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050625232220id_/http%3A//footygoss.com/Privacy_Policy.html%3FPOSTNUKESID%3D5a0138474d65781d1f798cc6a55e0b8d) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footygoss.com privacy policy that was archived on 2006-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060322212351id_/http%3A//www.footygoss.com/Privacy_Policy.html%3FPOSTNUKESID%3D2fb69bd38f479af7078f218efd41cacc) for the most accurate reproduction.*
 
 # 
 
