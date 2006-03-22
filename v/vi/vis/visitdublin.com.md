@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the visitdublin.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218213030id_/http%3A//www.visitdublin.com/privacy/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitdublin.com privacy policy that was archived on 2006-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060322131634id_/http%3A//www.visitdublin.com/privacy) for the most accurate reproduction.*
 
-# Dublin Tourism - Privacy Statement
+# Untitled Page
 
-**This privacy statement covers the entire family of Dublin Tourism web sites (visitdublin.com, dublingifts.com, dublinpass.com, malahidecastle.com, writersmuseum.com) and has been prepared in compliance with the Data Protection Acts of 1998 & 2003.**
+**This privacy statement covers the entire family of Dublin Tourism web sites (visitdublin.com, dublingifts.com, dublinpass.ie, malahidecastle.com, writersmuseum.com, visitdublin.com/trade) and has been prepared in compliance with the Data Protection Acts of 1998 & 2003.**
 
-This web site is owned and operated by the Dublin Regional Tourism Authority (Dublin Tourism). All enquiries should be addressed to Dublin Tourism, Tourism Center, Suffolk St, Dublin 2, Ireland. Telephone: +353 1 6057700. Queries related to privacy issues may also be addressed to [privacystatement@dublintourism.ie](mailto:privacystatement@dublintourism.ie).
+This web site is owned and operated by the Dublin Regional Tourism Authority (Dublin Tourism). All enquiries should be addressed to Dublin Tourism, Tourism Centre, Suffolk St, Dublin 2, Ireland. Telephone: +353 1 6057700. Queries related to privacy issues may also be addressed to [privacystatement@dublintourism.ie](mailto:privacystatement@dublintourism.ie).
 
 Personal data that is volunteered, or required for the purposes of entering competitions, utilising web site functions, or purchasing services online is stored securely and is not shared with other organisations or utilised for marketing purposes without the permission of the owner. 
 
@@ -12,9 +12,9 @@ Dublin Tourism may disclose personal information to our agents for the purpose o
 
 Users have a right to request access to any information about them that is stored by Dublin Tourism. Requests for access must be made in writing to Dublin Tourism at the address above. Dublin Tourism reserves the right to charge an administrative fee of €6.35 for this service.
 
-You have a right to request that any personal information stored by us be corrected or erased. With the exception of email mailing list data, all such requests should be made in writing to Dublin Tourism at the address above. To amend or erase email address information from our email mailing list, please visit the following URL: <http://www.visitdublin.com/newsfromdublin/default.asp> and use the form provided.
+You have a right to request that any personal information stored by us be corrected or erased. With the exception of email mailing list data, all such requests should be made in writing to Dublin Tourism at the address above. To amend or erase email address information from our email mailing list, please visit the following URL: <http://www.visitdublin.com/newsfromdublin/> and use the form provided.
 
-Dublin Tourism uses cookies to provide advertising services, track customers being referred by affiliate sites, and provide functionality for sales services in some areas of the site. Visitors may refuse to accept cookies; however, this may mean that some services are not available to them.
+Dublin Tourism uses cookies to provide advertising services, track customers being referred by affiliate sites and provide functionality for sales services in some areas of the site. Visitors may refuse to accept cookies; however, this may mean that some services are not available to them.
 
 Dublin Tourism takes its security responsibilities seriously, employing the most appropriate physical and technical measures, staff training and awareness, to ensure that unauthorised access to, alteration or destruction of personal data does not take place.
 
