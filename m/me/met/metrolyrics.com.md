@@ -1,15 +1,12 @@
-> *The following text is extracted and transformed from the metrolyrics.com privacy policy that was archived on 2005-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050825224016id_/http%3A//www.metrolyrics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrolyrics.com privacy policy that was archived on 2006-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060322164214id_/http%3A//www.metrolyrics.com/privacy) for the most accurate reproduction.*
 
 # MetroLyrics: Privacy Statement for MetroLyrics and MetroPosts
 
-**MetroLyrics, MetroPosts and MetroLeap Media Inc. Privacy Statement **
+**MetroLyrics and MetroPosts Privacy Statement **
 
   **INTRODUCTION **
 
-MetroLyrics is a web portal owned by MetroLeap Media Inc.  
-MetroPosts is discussion forum owned by MetroLeap Media Inc. 
-
- MetroLeap recognizes that your privacy and the protection of your personal information is important to you. This statement discloses how MetroLeap helps protect your personal information while using the MetroLyrics Web Site ([www.metrolyrics.com](http://www.metrolyrics.com/)) and its discussion forum MetroPosts ([www.metroposts.com](http://www.metroposts.com/)). Privacy statement is applicable to both MetroLyrics and MetroPosts, and whenever we refer to MetroLyrics it is applicable to MetroPosts too and vice versa.
+ MetroLyrics recognizes that your privacy and the protection of your personal information is important to you. This statement discloses how MetroLyrics helps protect your personal information while using the MetroLyrics Web Site ([www.metrolyrics.com](http://www.metrolyrics.com/)) and its discussion forum MetroPosts ([www.metroposts.com](http://www.metroposts.com/)). Privacy statement is applicable to both MetroLyrics and MetroPosts, and whenever we refer to MetroLyrics it is applicable to MetroPosts too and vice versa.
 
  MetroLyrics provides lyrics and music information such as albums and artists’ biographies, as well as discussion forum to its visitors and members. All lyrics are copyrighted material of artist and/or their representatives. Lyrics are submitted by MetroLyrics’ visitors and members, and could be inaccurate or incomplete. Please see MetroLyrics’ Terms of Use for more information about MetroLyrics offerings and limitations.
 
