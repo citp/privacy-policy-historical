@@ -1,14 +1,9 @@
-> *The following text is extracted and transformed from the ebooks.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207001715id_/http%3A//usa1.ebooks.com/information/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebooks.com privacy policy that was archived on 2006-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060322100237id_/http%3A//usa2.ebooks.com/information/privacy.asp) for the most accurate reproduction.*
 
 # eBooks.com - Help - Privacy
 
-Welcome to eBooks.com The World's Leading Source of eBooks.
-
-A massive range of ebooks in all popular formats including MS .lit, Palm and Adobe
-
-The eBooks.com website has been built with the current web standards in mind. This site will look much better in a browser that supports these web standards, however its content is accessible to any browser or Internet device.
-
-We recommend that you update your browser to the lastest version. Thank you.
+**Download a book today**  
+52,000 popular, professional and academic ebooks from the world's leading publishers
 
 | | | 
 
@@ -90,7 +85,7 @@ eBooks.com takes your privacy and the privacy of all its customers very seriousl
 
 If you have any concerns about your privacy and the use of the Website or any of eBooks.com's services or products, please contact privacy@ebooks.com. 
 
-You may request that we provide you with a copy of the personal information collected by us from your use of the Website or through your dealings with us. You may make this request by contact us through our [Online Support Form](http://usa1.ebooks.com/help/support-form.aspx) and providing the requested details. 
+You may request that we provide you with a copy of the personal information collected by us from your use of the Website or through your dealings with us. You may make this request by contact us through our [Online Support Form](http://usa2.ebooks.com/help/support-form.aspx) and providing the requested details. 
 
 ##### E-commerce Policy
 
@@ -123,64 +118,60 @@ Australia
 
 | | 
 
-##### Top 15 Best Sellers
+##### Current Best Sellers
 
   
 
 
 ##### Special Offers
 
-[****First time to eBooks.com?****](http://usa1.ebooks.com/news/article.asp?AID=41)  
+[****First time to eBooks.com?****](http://usa2.ebooks.com/news/article.asp?AID=41)  
 Easy steps to using eBooks
 
-[ ** **Register your subjects of interest****](http://usa1.ebooks.com/news/article.asp?AID=42)  
+[ ** **Sign Up for eMail Alerts****](http://usa2.ebooks.com/news/article.asp?AID=42)  
 Receive an email alert when we release new books in your field.
 
-[ ** **10% off New York Times Best Sellers****](http://usa1.ebooks.com/news/article.asp?AID=5475)  
+[ ** **10% off New York Times Best Sellers****](http://usa2.ebooks.com/news/article.asp?AID=5475)  
 eBook versions of the New York Times Best Sellers - at 10% off!
 
-[ ** **New Year, New You!****](http://usa1.ebooks.com/news/article.asp?AID=13771)  
-Save 20% on these Self-Help ebooks, specially picked to help you start the year well.
-
-[ ** **Best Selling Fiction Titles****](http://usa1.ebooks.com/news/article.asp?AID=46)  
+[ ** **Best Selling Fiction Titles****](http://usa2.ebooks.com/news/article.asp?AID=46)  
 Books that are definitely worth a read - our Best Selling Fiction
 
-[ ** **Oxford University Press Reference eBooks****](http://usa1.ebooks.com/news/article.asp?AID=50)  
-See the exciting range of Oxford Reference eBooks
+[ ** **Sustain Your Brain!****](http://usa2.ebooks.com/news/article.asp?AID=23129)  
+Is your grey matter in need of a tune up??? Take a look at some of these excellent titles, all at 20% off!
 
-[](http://us.ebooks.com/article/article.sjc?AID=50)
+  
+[ ** **Free Excerpts****](http://usa2.ebooks.com/news/article.asp?AID=30219)  
+Free excerpts for titles which are new, noteworthy or strongly in demand this month.
 
-[****Just Arrived!****](http://usa1.ebooks.com/news/article.asp?AID=57)  
+[ ** **Oxford University Press Reference eBooks****](http://usa2.ebooks.com/news/article.asp?AID=50)  
+See the exciting range of Oxford Reference eBooks 
+
+[****Just Arrived!****](http://usa2.ebooks.com/news/article.asp?AID=57)  
 We're adding hundreds of great titles each month.
 
-[ ** **Recently Reduced Titles****](http://usa1.ebooks.com/news/article.asp?AID=5478)  
+[ ** **Recently Reduced Titles****](http://usa2.ebooks.com/news/article.asp?AID=5478)  
 On Sale - Our favorite and most popular ebooks!
 
-[ ** **Featured Authors****](http://usa1.ebooks.com/news/article.asp?AID=15912)  
+[ ** **Featured Authors****](http://usa2.ebooks.com/news/article.asp?AID=15912)  
 20% off titles by our favorite authors!
 
-[ ** **Cambridge University Press titles****](http://usa1.ebooks.com/news/article.asp?AID=64)  
-The most comprehensive selection of Cambridge University Press ebooks.
+[ **Visit the Cambridge University Press eBook Store**](http://usa2.ebooks.com/news/article.asp?AID=64)  
+Cambridge University Press, the oldest university press in the world, has just launched its own eBook Store, powered by eBooks.com.
 
-[ ** **Take the law into your own hands!****](http://usa1.ebooks.com/news/article.asp?AID=60)  
-Represent Yourself in Court, Take Control of Your Student Debt, Become a US Citizen
+[ ** **Take the law into your own hands!****](http://usa2.ebooks.com/news/article.asp?AID=60)  
+Stand Up To The IRS, Win Your Lawsuit, Employment Law
 
-[ ** **Schools and Libraries receive a discount at eBooks.com!****](http://usa1.ebooks.com/news/article.asp?AID=7154)  
-We are happy to offer schools, universities and libraries a discount on ebooks.
-
-[ ** **Syngress Computer ebooks****](http://usa1.ebooks.com/news/article.asp?AID=69)  
+[ ** **Syngress Computer ebooks****](http://usa2.ebooks.com/news/article.asp?AID=69)  
 Popular Computing ebooks
 
-[ ** **Win $50 worth of eBooks!****](http://usa1.ebooks.com/news/article.asp?AID=5948)  
+[ ** **Win $50 worth of eBooks!****](http://usa2.ebooks.com/news/article.asp?AID=5948)  
 Join our eBooks.com Competitions Group for a chance to win yourself $50 worth of eBooks!
 
-[ ** **Get Rich Now****](http://usa1.ebooks.com/news/article.asp?AID=72)  
+[ ** **Get Rich Now****](http://usa2.ebooks.com/news/article.asp?AID=72)  
 Get control of your finances with our "Financial Independence Library"
 
-[ ** **Express Exec****](http://usa1.ebooks.com/news/article.asp?AID=68)  
-Save 20% on 100 comprehensive business strategy titles.
-
-[ ** **Ebook Library****](http://usa1.ebooks.com/news/article.asp?AID=82)  
-EBL Ebook Library is an innovative ebook lending platform for academic and research libraries
+[ ** **Gift Certificates****](http://usa2.ebooks.com/gift-certificates/)  
+Give the gift of reading with an eBooks.com Gift Certificate
 
 | 
