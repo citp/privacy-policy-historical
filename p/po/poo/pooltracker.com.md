@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pooltracker.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306211613id_/http%3A//www.pooltracker.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pooltracker.com privacy policy that was archived on 2006-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060322193433id_/http%3A//www.pooltracker.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Best Football Pools including NFL Football Pools and College Football Pools
 
@@ -43,13 +43,13 @@ Finally, we never use or share the personally identifiable information provided 
 
 Shopping with Pooltracker is absolutely safe - you never have to worry about credit-card safety when you are shopping at our site. We guarantee that each purchase you make is protected and safe. If fraudulent charges are ever made, you will not have to pay for them. 
 
-Pooltracker uses the services of PayPal.com to provide the highest level of secure online transactions. Your credit card information cannot be read as it travels to our ordering system. PayPal.com maintains their own privacy and security policies. If you have questions about these services, or how they handle the information they receive, please contact PayPal. 
+Pooltracker uses the services of Authorize.net to provide the highest level of secure online transactions. Your credit card information cannot be read as it travels to our ordering system. Authorize.net maintains their own privacy and security policies. If you have questions about these services, or how they handle the information they receive, please contact Authorize.net. 
 
-All information you enter in the PayPal.com order form will be shared with Pooltracker in order to fulfill the purchased services. This does not apply to your credit card information. We never get your credit card number. Nor does it apply to your PayPal login information. **We will never ask for your PayPal login information.**
+All information you enter in the Authorize.net order form will be shared with Pooltracker in order to fulfill the purchased services. This does not apply to your credit card information. We never get your credit card number. 
 
 **How You Can Access or Correct Your Information**
 
-You can access all your personally identifiable information that we collect online and maintain by sending us an email. The exception, as explained above or in the "Credit Card Processing and Security" section, is your credit information, since it is not kept. **We will never ask for your PayPal login information.**
+You can access all your personally identifiable information that we collect online and maintain by sending us an email. The exception, as explained above or in the "Credit Card Processing and Security" section, is your credit information, since it is not kept. 
 
 You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
 
@@ -77,10 +77,8 @@ We believe in what we do. We'll gladly give you a complete refund of the purchas
 
 **Shopping with Pooltracker.com is 100% safe** \- you never have to worry about credit card safety when you are shopping at our site. We guarantee that each purchase you make is protected and safe. If fraudulent charges are ever made, you will not have to pay for them. 
 
-**Safety in Numbers:** Pooltracker services are sold by PayPal, which is one of the oldest and biggest online stores on the Internet. When you shop at PayPal, you'll be one of thousands of customers who have safely shopped with PayPal without credit card fraud. 
+**Safety in Numbers:** Pooltracker services are sold by Authorize.net, which is one of the oldest and biggest online stores on the Internet. When you purchase at Authorize.net, you'll be one of thousands of customers who have safely shopped with Authorize.net without credit card fraud. 
 
-**Safe Technology:** PayPal's secure server software (SSL) is the industry standard and among the best software available today for secure commerce transactions. It encrypts your credit card number, so that it cannot be read while the information travels over the Internet. 
+**Safe Technology:** Authorize.net's secure server software (SSL) is the industry standard and among the best software available today for secure commerce transactions. It encrypts your credit card number, so that it cannot be read while the information travels over the Internet. 
 
-In general, under federal law of the United States, you will not be liable for more than $50 of fraudulent charges. In the unlikely event that you are subject to fraudulent charges, remember to first notify your credit card provider in accordance with its reporting rules and procedures. If, for whatever reason, you are held responsible for this amount, Pooltracker.com will cover the entire liability for you, up to $50, as long as the unauthorized use of your credit card resulted through no fault of your own from purchases made from Pooltracker.com while using the secure PayPal.com server. 
-
-[Click here to go to PayPal](http://www.paypal.com/). 
+In general, under federal law of the United States, you will not be liable for more than $50 of fraudulent charges. In the unlikely event that you are subject to fraudulent charges, remember to first notify your credit card provider in accordance with its reporting rules and procedures. If, for whatever reason, you are held responsible for this amount, Pooltracker.com will cover the entire liability for you, up to $50, as long as the unauthorized use of your credit card resulted through no fault of your own from purchases made from Pooltracker.com while using our secure server. 
