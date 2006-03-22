@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americarx.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221160730id_/http%3A//www.americarx.com/index.asp%3FPageAction%3DCustom%26ID%3D26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americarx.com privacy policy that was archived on 2006-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060322071816id_/http%3A//americarx.com/index.asp%3FPageAction%3DCustom%26ID%3D26) for the most accurate reproduction.*
 
 # Privacy Policy
 
