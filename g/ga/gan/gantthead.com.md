@@ -1,147 +1,149 @@
-> *The following text is extracted and transformed from the gantthead.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207202040id_/http%3A//www.gantthead.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gantthead.com privacy policy that was archived on 2006-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060323163934id_/http%3A//www.gantthead.com/privacy.cfm) for the most accurate reproduction.*
 
 # gantthead.com Privacy Policy
 
   
 [Home](https://web.archive.org/default.cfm)  >  gantthead.com Privacy Policy 
 
-**_gantthead.com_**
+_**gantthead.com**_
 
- ** _
+_**PRIVACY POLICY**_
 
-PRIVACY POLICY
+**_Why a Privacy Policy?_**
 
-Please read these 1,159 weasel words from our attorneys:
+The gantthead.com privacy policy (the "Privacy Policy") recognizes that you need appropriate protection and management of personally identifiable information that you share with us, including any information that identifies you personally, such as name, address and telephone number. 
 
-_** _
+We have established this privacy policy so you can understand how carefully we intend to treat the information you provide to [www.gantthead.com](http://www.gantthead.com/) (the "Web Site"). 
 
-Why a Privacy Policy?
+**_What information does gantthead.com collect?_**
 
-_
+We gather certain personal information about you, including your: 
 
-The gantthead.com privacy policy (the "Privacy Policy") recognizes that you need appropriate protection and management of personally identifiable information that you share with us, including any information that identifies you personally, such as name, address, and telephone number. 
+  * name
+  * address
+  * e-mail address and
+  * company information
 
-We have established this privacy policy so you can understand how carefully we intend to treat the information you provide to [www.gantthead.com](http://www.gantthead.com/) (the "Web Site"). gantthead.com will take all reasonable steps to see that this Privacy Policy is followed within our company. 
+Certain portions of the Web Site may prompt you to provide other personal information in your user profile, may ask you to answer demographic or personal preference questions, or may ask for financial information to complete a purchase. You may choose not to provide this information, but if you do so, you may be unable to access certain options, offers, and services on the Web Site. 
 
-_
+We also track the Internet address of the domains from which users visit us and information about which advertisements are displayed to a user, which advertisements a user clicked on and a subscriber's other interactions with the Web Site. gantthead.com also tracks subscribers' traffic patterns throughout their online sessions, including which web sites a subscriber visits while using the Web Site and which pages a subscriber views while using the Web Site. 
 
-This Policy Subject to Change 
+**_How We Gather Information_**
 
-_
+_Forms_
 
-We may modify this privacy policy from time to time. Our current privacy policy will be published on our web site. If you have any questions, or if you do not understand any provision of this Privacy policy, e-mail [contactus@gantthead.com](mailto:contactus@gantthead.com).
+When you register with gantthead.com, the registration form requires you to give us certain personal information about you. We also gather information through other forms or questions that you may answer on the Web Site. 
 
-_
-
-Why We Gather Information from You
-
-_
-
-When you register with gantthead.com, we collect certain information about you, including your Internet address. Information we obtain from you is used to provide and/or improve our level of service to you.
-
-We track the Internet address of the domains from which users visit us and analyze this data for trends and statistics. We also use your Internet address to help diagnose problems with our server and to administer our Web Site. Your Internet address is used to help identify you through gantthead.com and to gather demographic and marketing information. 
-
-__
-
-_It's Cookie Time: How We Gather Information_
+_Cookies_
 
 Some of the pages on the Web Site utilize cookies so that we can better serve you with more tailored information when you return to our site. Cookies are identifiers that a web site can send to your browser to keep on your computer to facilitate your next visit to our site. You can set your browser to notify you when you are sent a cookie, giving you the chance to accept or reject it. The information we collect and analyze is used to improve our service to you. We use cookies to deliver content specific to your interests, to save your password so you don't have to re-enter it each time you visit our site, and to provide us with the technical information for the personalization that lets us tailor our site to your preferences. 
 
-_
+_Other_
 
-Why the Web Site Registration Form is Important
+We use software to track the Internet address of the domains from which users visit us. 
 
-_
+**_How We Use Information_**
 
-The Web Site's registration form requires you to give us your contact information (such as your name and Internet address, password, and ZIP code). We use your contact information from the registration form to send you information about gantthead.com and promotional material from some of our partners. Your contact information is also used to contact you when necessary and may be shared with other companies who may want to contact our users. gantthead.com provides users the opportunity to elect not to receive e-mail updates regarding the Web Site. If you do not want to receive these communications from us, e-mail [contactus@gantthead.com](mailto:contactus@gantthead.com). 
+Information we obtain from you is used to: 
 
-_
+  * provide and/or improve our level and scope of service to you, including by providing additional newsletters or mailings from us or our affiliates that may be of interest to you.
+  * fulfill your requests for certain products and services, such as newsletters.
+  * analyze trends and statistics.
+  * diagnose problems with our server and to administer our Web Site.
+  * gather and analyze demographic and marketing information.
+  * allow gantthead.com to send you updates and other information regarding the Web Site.
+  * allow gantthead.com to send you promotional information that may be of interest to you.
+  * with your consent, to allow third parties to send you promotional information that may be of interest to you.
 
-User Profile Information
 
-_
 
-Certain portions of the Web Site may prompt you to provide other personal information in your user profile. You may choose not to provide this information, but if you do so you may be unable to access certain options, offers, and services on the Web Site. gantthead.com does not currently sell, trade, or rent any personal information that identifies particular individuals to any third parties; however, we may choose to do so with trusted third parties in the future. gantthead.com may also use this information for gantthead.com marketing purposes. If you do not wish to receive future mailings you may e-mail [contactus@gantthead.com](mailto:contactus@gantthead.com). Also, gantthead.com may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third parties, but these statistics will not include information that specifically identifies particular individuals. 
+**_With Whom Do We Share Your Information?_**
 
-_
+_Personally Identifiable Information_
 
-Personal Preference, Marketing, and Demographic Information
+We may make your personally identifiable information available to third parties when: 
 
-_
+  * we have your consent to share the information.
+  * they provide services or products on behalf of gantthead.com; provided that they do not have the right to use your information for any purpose other than to provide the applicable service.
+  * you use co-branded services.
+  * they are affiliates subject to privacy policies that protect your personally identifiable information from disclosure to third parties in a manner similar to this Privacy Policy.
+  * we sell, assign or transfer a part of our business that provides a particular service to you; provided, that your personally identifiable information may be sold, assigned or transferred only to the acquirer as a part of such transaction.
+  * we are required to do so by law, regulation, rule or court order; pursuant to requests from governmental agencies or law enforcement authorities.
+  * necessary to identify, contact or bring legal action against someone who may be violating our User Agreement.
+  * necessary to protect gantthead.com, our members or other third parties including, without limitation, other emergency situations.
 
-From time to time, gantthead.com may ask demographic or personal preference questions. You are never required to answer these questions; however, the information that you provide may be used for analyzing overall site demographics, user preferences and tastes, and similar "getting to know our customers" purposes. This information may also be disclosed to third parties. 
+If you wish to opt out of any service from gantthead.com or to revoke any previously provided consent, please send an e-mail to us with such instructions at contactus@gantthead.com. 
 
-_
+_Non-Personally Identifiable Information_
 
-Personal Information
+Without your consent, gantthead.com may aggregate personally identifiable information and disclose such information in a non-personally identifiable manner to advertisers and other parties for marketing, promotional and other purposes. Except as set forth above, we do not disclose without your consent any information that could be used to identify you personally. 
 
-_
+**_How to Update Information_**
 
-gantthead.com may include certain features that permit you to enter personal information, such as contact information. We recognize the importance of this information to you, and gantthead.com will take appropriate steps to protect the individual contact information that you enter into gantthead.com from unauthorized access or disclosure.
+You may update information previously provided to gantthead.com, including any consents provided to or withheld from gantthead.com, by sending an email to [contactus@gantthead.com](mailto:contactus@gantthead.com). 
 
-_
-
-Safeguarding Your Information and Transactions
-
-_
+**_Security of Information_**
 
 The Web Site has certain security measures in place to protect the loss, misuse and alteration of the information under our control. Although no security measure is foolproof, we believe that we have implemented a system that is as safe as today's technology permits. Our network firewall is a combination of hardware and software designed to keep unauthorized users from accessing our network. Any potentially sensitive data, including credit card payment information, is encrypted prior to transmission.
 
-gantthead.com uses an online order form for you to order information, products, and services through the Web Site. We collect your financial information (like your account or credit card numbers) when you complete this online order form. Financial information that we collect is used to bill you for the information, products, and services that you order. 
+**_Third Party Advertisers_**
 
-_
+Third parties may display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web Site, cookies received with banner ads may be collected by ad companies, and we may not have access to this information or be able to control its distribution. 
 
-Information Provided to Outside Advertisers
-
-_
-
-We may use an outside advertising company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web Site, cookies received with banner ads may be collected by ad companies, and we may not have access to this information or be able to control its distribution. 
-
-_
-
-Discussion Forums
-
-_
+**_Discussion Forums_**
 
 The Web Site may make chat rooms, forums, message boards, and/or news groups available for you to use. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
 
-_
+**_Links to Other Sites_**
 
-Links to Other Sites
+The Web Site may contain links to other sites. gantthead.com is not responsible for the privacy practices or the content of such web sites, notwithstanding the inclusion on such sites of the trademarks of gantthead.com. 
 
-_
+**_This Policy Subject to Change_**
 
-The Web Site may contain links to other sites. gantthead.com is not responsible for the privacy practices or the content of such web sites, notwithstanding the inclusion on such site of the trademarks of gantthead.com.   
+We may modify this privacy policy from time to time. Our current privacy policy will be published on our Web Site. If you have any questions, or if you do not understand any provision of this privacy policy, e-mail [contactus@gantthead.com](mailto:contactus@gantthead.com).
 
+**_Legal Agreement_**
 
-_
-
-How to Update Information
-
-_
-
-You may update information previously provided to gantthead.com by sending an email to [contactus@gantthead.com](mailto:contactus@gantthead.com). 
-
-**_
-
-Legal Agreement
-
-_**
-
-**This Privacy Policy forms a legal agreement between you and gantthead.com. Your use of the Web Site indicates your agreement to the terms of this Privacy Policy. You agree that the Electronic Communications Privacy Act (the "ECPA") shall not apply to any communications with gantthead.com. gantthead.com has the right to revise this Agreement at any time without notice by updating the Privacy Policy posted to the Web Site. If you have any questions about this Privacy Policy, the practices of this Web Site, or your dealings with this Web Site, please contact**[ **contactus@gantthead.com**](mailto:contactus@gantthead.com) **.**
-
- ****
+This Privacy Policy forms a legal agreement between you and gantthead.com. Your use of the Web Site indicates your agreement to the terms of this Privacy Policy. You agree that the Electronic Communications Privacy Act (the "ECPA") shall not apply to any communications with gantthead.com. gantthead.com has the right to revise this Agreement at any time without notice by updating the Privacy Policy posted to the Web Site. If you have any questions about this Privacy Policy, the practices of this Web Site or your dealings with this Web Site, please contact [contactus@gantthead.com](mailto:contactus@gantthead.com). 
 
 gantthead.com, Inc.  
 4035 Ridge Top Rd.  
 Suite 300  
 Fairfax, VA, 22030  
-
-
 (800) 895-2535  
 E-mail: [contactus@gantthead.com](mailto:contactus@gantthead.com). 
 
 Thank you for your support of gantthead.com and its Privacy Policy. 
 
-Last updated June 2, 2000.   
+Last updated July 11, 2005.   
+  
+---  
+|  | sponsored announcements and special offers |   
+| 
 
+**More than 60% of software projects in the U.S. fail, and poor requirements is one of the top 5 reasons.** Are your projects at risk? MKS offers you a truly unique solution. Download your free white paper: **[An Innovative Approach to Managing Software Requirements](http://www.gantthead.com/redirect/clickCount.cfm?ID=228567)**
+
+**[Download a FREE Trial](http://www.gantthead.com/redirect/clickCount.cfm?ID=228960)** \- **Just Released: W E B T I M E S H E E T 6.5** a simple intuitive tool to:  
+\- Organize and track activities, resources, time and expenses  
+\- Track Estimates Vs. Actuals  
+\- Track project costs against your budget  
+
+
+**Realizing Enterprise Architecture - A proven method for getting started** Join us for this exclusive Webcast to learn how you can realize the benefits of an Enterprise Architecture, quickly and easily.  
+April 6, 2006 – 11:00 am EST  
+**[Click here to register now](http://www.gantthead.com/redirect/clickCount.cfm?ID=230171)**
+
+**Read the new **[IDC white paper](http://www.gantthead.com/redirect/clickCount.cfm?ID=229816)** , compliments of Borland, on Project Portfolio and Application Life-Cycle Management.** This is a must read for IT leaders tackling the strategic and operational challenges of IT business alignment, off-shoring, outsourcing and regulatory compliance. 
+
+**Keep Projects On-Time and On-Budget with Intuit's QuickBase.** Get up and running fast. **[Free, 30-day Trial](http://www.gantthead.com/redirect/clickCount.cfm?ID=229932)**  
+-Manage projects your way with a flexible, Web-based tool.  
+-Spend less time consolidating files and info.  
+-Take action with automated notifications.  
+
+
+|   
+---|---|---  
+  
+"No snowflake in an avalanche ever feels responsible."  
+---  
+\- George Burns
