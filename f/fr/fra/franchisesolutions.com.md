@@ -1,13 +1,7 @@
-> *The following text is extracted and transformed from the franchisesolutions.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605033216id_/http%3A//www.franchisesolutions.com/index.cfm/fa/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the franchisesolutions.com privacy policy that was archived on 2006-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060323175123id_/http%3A//www.franchisesolutions.com/index.cfm/fa/privacy) for the most accurate reproduction.*
 
-# Looking to start a business? Get ideas from our franchise, restaurant, and small business opportunities guide.
+# Franchises, Business Opportunities, Franchise Businesses for Sale- USA Today Franchise Center
 
-|  | 
-
-|  |  Privacy Policy   
-|  **Our Privacy Policy is Simple…** |   
----|---  
-  
 * * *
 
   
@@ -16,8 +10,11 @@ Franchise Solutions strongly believes in keeping your personal information confi
 **Newsletter Subscription and Membership**   
 If you submit a newsletter or membership subscription at Franchise Solutions, you will receive our franchise newsletter and you may receive member updates from time to time with franchise industry news and/or special promotions. If at any time you wish to stop receiving these e-mails, simply follow the unsubscribe instructions at the bottom of the e-mail. 
 
-Your privacy is very important to us. If you have further questions or feedback, please e-mail us at [users@fransol.com](mailto:users@fransol.com)
+By submitting information to us and asking us to disclose your information to franchisors, you agree to receive telephone calls and/or emails about franchise opportunities even if you are registered with any state Do Not Call Registry, and/or the National Do Not Call List. 
+
+Your privacy is very important to us. If you have further questions or feedback, please e-mail us at 
 
 Thank you for visiting Franchise Solutions, 
 
-Matt Alden, General Manager
+Matt Alden, President  
+Franchise Solutions Inc. 
