@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esato.com privacy policy that was archived on 2003-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030610134305id_/http%3A//www.esato.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esato.com privacy policy that was archived on 2006-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060323102728id_/http%3A//www.esato.com/about/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -33,4 +33,4 @@ This site gives users the following options for changing and modifying informati
 **Contacting Esato**   
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 
-Esato.com [webmaster@esato.com](mailto:webmaster@esato.com)
+Esato.com [webmaster@esato.com](https://web.archive.org/contact/)
