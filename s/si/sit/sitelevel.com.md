@@ -1,50 +1,55 @@
-> *The following text is extracted and transformed from the sitelevel.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205052800id_/http%3A//www.whatuseek.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitelevel.com privacy policy that was archived on 2006-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060323050754id_/http%3A//www.sitelevel.com/privacy.shtml) for the most accurate reproduction.*
 
-# The whatUseek Network - Terms of Use
+# siteLevel - Privacy Policy
 
+|  |   
+|  |  |  |   
+---|---|---  
+|  | 1. |  | Overview  
+---|---|---  
+|  | siteLevel is a service offered by whatUseek, Corp. that enables companies and individuals to enable their web sites with a site search engine - allowing visitors to the given web site to search only within that site.  This Privacy Policy addresses the collection, use, and disclosure of personally identifiable information about persons or entities that sign-up for a siteLevel account.  
+|  |    
+2. |  | Information That We Collect  
+|  | Our primary goal in collecting personal information is to provide you with a user-friendly and customized experience.  This applies to both the operation of your siteLevel account as well as our effort to support you in managing your account.
+
+  Personal information of users is collected both in the registration and account management areas.  Such information includes contact information (name, telephone, address, etc.), as well as information regarding the structure of your web site.
+
+  For users purchasing the siteLevel Pro service, you may also provide financial information (i.e. credit card billing information) for the billing of your subscription.
+
+  In addition, we collect various types of information through the use of "cookies."  The uses of such information includes ensuring that registration and account management sessions are secure.  Other information collected through cookies includes, but is not limited to, the origin from where you accessed the siteLevel web site when initially registering.
+
+  whatUseek also records information about how its users interact with the siteLevel web site, both in the general and member areas.  Such information is used to help improve the content and user-friendliness of the site.  
   
-**whatUseek Privacy Policy**
+|  |    
+3. |  | Our Use Of Your Information  
+|  | We use personally identifiable information about you (as a siteLevel user) to facilitate the services that you request.  We use information that we collect about you to customize your siteLevel service, to support your in managing your account, and to help improve the siteLevel service to better meet the needs of our users.  If you choose to purchase the siteLevel Pro service (a paid-for service), we use your address and billing information to bill you and provide associated support.
 
-whatUseek and its advertisers and affiliates are deeply committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of consumer information. whatUseek works with a third party that serves ads to this site. This site uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data typically through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to http://www.engage.com/privacy.
+  You agree that we may use the information that we have about you to improve our marketing and promotional activities, to analyze site activity, improve our offerings, aid in supporting you in using the service, and customize our site's content and services.  
+  
+|  |    
+4. |  | Advertisers  
+|  | whatUseek collects personally identifiable information and discloses such information in a non-personally identifiable manner to advertisers and other third parties for other marketing and promotional purposes.  In such situations, we do not disclose to these third parties any information that could be used to identify you personally.  
+|  |    
+5. |  | Internal Service Providers  
+|  | We use internal service providers to facilitate our services (such as credit card processors and merchant banks) and therefore we provide some of your personally identifiable information directly to them if appropriate.  
+|  |    
+6. |  | Legal Requests  
+|  | whatUseek cooperates with law enforcement agencies and other third parties to enforce laws.  You agree to authorize us to disclose any information about you to law enforcement or other government agencies as we, in our sole discretion, determine to be necessary or appropriate, as it relates to investigation of fraud, intellectual property infringements, piracy, or other activities that are illegal or may expose us or you to legal liability.  
+|  |    
+7. |  | Our Disclosure Of Your Information  
+|  |  | Due to the existing regulatory environment, we cannot ensure that all private information will never be disclosed in ways not described in this Privacy Policy.  One example of this would be a court order to disclose such information.  Therefore, although we use industry standard practices to protect your privacy, we do not promise that your personal information will always remain private.
 
-**Consumer Information**
-
-During the process of delivering an ad to you, whatUseek and Flycast do not collect any personally identifiable information about you such as name, address, phone number, or e-mail address. However, whatUseek and Flycast do obtain some types of non-personally identifiable information such as the Internet Service Provider you use to connect to the Internet, your browser type, or the type of computer operating system you use (Macintosh or Windows, for example). The information collected by whatUseek and Flycast is used for the purpose of targeting ads and measuring ad effectiveness on behalf of our advertisers.
-
-If you would like additional information about the types of non-personally identifiable information that is collected by whatUseek and Flycast please click here.
-
-In some cases, you may voluntarily provide personal information in response to a specific ad (this ad may ask you to fill out a survey or provide your zip code). If this does occur, whatUseek and Flycast may collect this information on behalf of an advertiser. This information is used by an advertiser to respond to your request. In addition, whatUseek and Flycast may combine this information with other users' information and review it in an aggregate form to understand the type of individuals who view a specific type of ad or visit a particular kind of website.
-
-**Engage Profiles**
-
-Flycast Communications Network Web sites use anonymous identifiers (“cookies”) to collect anonymous preference and interest information. This information is provided by Flycast Communications to Engage Technologies, Inc. (“Engage”) and is used by Engage to create anonymous interest profiles on individual browsers. This information does not include any personally identifiable data (such as name, address or e-mail address) that is considered sensitive or controversial or would compromise a consumer’s privacy. Engage profiles are accessed by Engage-enabled Web sites and marketers to tailor site content, promotions and advertising, and to perform market research. Engage allows consumers to opt-out from these profiles at any time. To do so, a user should visit [www.engage.com/privacy/koptout.htm,](http://www.engage.com/privacy/koptout.htm) where they can receive an “opt out tag” that disables their browser from being recognized by the Engage system. For more information on Engage go to [www.engage.com](http://www.engage.com/).
-
-**Data Collection and Opt Out**
-
-whatUseek and Flycast, as well as most sites on the Internet, use "cookies" to enhance your experience on the web. whatUseek and Flycast cannot use these cookies to personally identify you in any way. What are cookies and why do we use them? A cookie is a unique number that is provided to you the first time whatUseek and Flycast serves you an ad. This unique number, which is stored in a cookie file on your computer, helps whatUseek and Flycast target ads to you. This cookie can help whatUseek and Flycast ensure that we don't serve you the same ad multiple times, and help our advertisers understand what you like and don't like about their offerings so that they can cater better to your needs the next time you are interested in their products or services. While we believe that cookies enhance your Internet experience by limiting the number of times you see the same ad and delivering more relevant content to you, they are not required for whatUseek and Flycast to deliver you an ad.
-
-If you do not want the benefit of cookies, there is a simple procedure to manually delete your cookies. Please consult your web browser's Help documentation for more information.
-
-**Cookie Opt Out Procedure**
-
-If you would like to "opt out," that is, to prevent any data from being stored by Flycast Communications, the advertising firm that sells and impresses the banner advertising for whatUseek and Flycast please [click here](http://www.flycast.com/about_us/index.cfm?sub=pri&content=priv-optout).
-
-_**Addendums**_ **  
-Information whatUseek and Flycast Collects**  
-To enable whatUseek and Flycast to provide better targeting to you and appropriate reporting for our advertisers, whatUseek and Flycast collects several types of non-personally-identifiable information about consumers who are served ads by the whatUseek and Flycast Network. This information includes:
-
-Your IP address: a unique number assigned to every computer on the Internet. The type of information that whatUseek and Flycast can infer from the IP address is a geographic location.
-
-Your domain: e.g., .com, .net, or .edu. This is standard information that is available with all communication sent on the Internet.
-
-Other information that whatUseek and Flycast can infer consists of:
-
-Operating system: e.g., Windows, DOS, Macintosh, or UNIX;
-
-Browser version and type: e.g., Netscape Navigator or Internet Explorer;
-
-Browser language: e.g., Java or Unix;
-
-Internet Service Provider (ISP): e.g., MindSpring or AOL;
-
-Clickstream information: whatUseekand Flycast can infer how you use the sites and pages on the internet, and can infer your local time.
+  As a matter of policy, we DO NOT sell or rent any personally identifiable information about you to any third party.  However, the following describes some of the ways that your personally identifiable information may be disclosed:  
+  
+---  
+|  |    
+8. |  | Control Of Your Password  
+|  | You are responsible for all actions taken with your user ID (email address) and password, including any fees incurred by these actions.  Therefore, we strongly recommend that you do not disclose your siteLevel user ID and password to any third parties.  If you choose to share your user ID and password with third parties, you are responsible for all actions taken with your user ID and password.  If you lose control of your password, you may lose substantial control over your personally identifiable information and may be subject to legally binding actions taken on your behalf.  Therefore, if the security of your password becomes compromised, you should immediately change your password.  
+|  |    
+9. |  | Security  
+|  | whatUseek uses industry standard practices to safeguard the confidentiality of your personally identifiable information.  We employ various methods to protect such data from unauthorized access.  However, on the Internet, there is no foolproof method of keeping information 100% secure.  
+|  |    
+10. |  | Notice  
+|  | We may amend this Privacy Policy at any time by publishing such ameded terms on our site.  All amended terms shall become effective automatically 30 days after they are initially posted on our site.  
+|  |    
+|  | 
