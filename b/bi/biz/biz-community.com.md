@@ -1,13 +1,14 @@
-> *The following text is extracted and transformed from the biz-community.com privacy policy that was archived on 2003-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030606012806id_/http%3A//biz-community.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biz-community.com privacy policy that was archived on 2006-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060323052330id_/http%3A//www.biz-community.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Biz-community - Privacy Policy
 
 [](https://web.archive.org/196/11.html)  
-Network, share, make a difference.|   
+South Africa's leading daily advertising, marketing  
+and media news resource for the industry!|   
 ---|---  
 | 
 
-[Marketing](https://web.archive.org/196/11.html)> [Advertising](https://web.archive.org/196/12.html), [Branding](https://web.archive.org/196/82.html), [CRM](https://web.archive.org/196/33.html), [Design](https://web.archive.org/196/13.html), [Digital](https://web.archive.org/196/16.html), [Direct Marketing](https://web.archive.org/196/14.html), [Media](https://web.archive.org/196/15.html), [Out Of Home](https://web.archive.org/196/70.html), [Print](https://web.archive.org/196/39.html), [Production](https://web.archive.org/196/17.html), [Public Relations](https://web.archive.org/196/18.html), [Radio](https://web.archive.org/196/59.html), [Research](https://web.archive.org/196/19.html), [Retail](https://web.archive.org/196/87.html), [Sales](https://web.archive.org/196/20.html), [Sponsorship](https://web.archive.org/196/48.html), [TV](https://web.archive.org/196/66.html)
+[Marketing](https://web.archive.org/196/11.html)> [Advertising](https://web.archive.org/196/12.html), [Branding](https://web.archive.org/196/82.html), [Cinema](https://web.archive.org/196/97.html), [CRM](https://web.archive.org/196/33.html), [Design](https://web.archive.org/196/13.html), [Digital](https://web.archive.org/196/16.html), [Direct Marketing](https://web.archive.org/196/14.html), [Education & Training](https://web.archive.org/196/98.html), [Eventing](https://web.archive.org/196/40.html), [Exhibitions](https://web.archive.org/196/94.html), [Magazines](https://web.archive.org/196/39.html), [Media](https://web.archive.org/196/15.html), [Newspapers](https://web.archive.org/196/90.html), [Online Media](https://web.archive.org/196/23.html), [Out Of Home](https://web.archive.org/196/70.html), [Printing](https://web.archive.org/196/73.html), [Production](https://web.archive.org/196/17.html), [Public Relations](https://web.archive.org/196/18.html), [Radio](https://web.archive.org/196/59.html), [Recruitment](https://web.archive.org/196/22.html), [Research](https://web.archive.org/196/19.html), [Retail](https://web.archive.org/196/87.html), [Sales](https://web.archive.org/196/20.html), [Sponsorship](https://web.archive.org/196/48.html), [TV](https://web.archive.org/196/66.html)
 
 |   
 ---|---|---  
@@ -22,11 +23,11 @@ Be assured that Biz-community will not disclose your personal information to thi
 
 Biz-community collects and shares aggregate information about our members with advertisers, business partners, sponsors and other third parties. For example, we will say Biz-community's audience is X percent females and Y percent males. This data is used to customize Biz-community's content and advertising to deliver a better experience for our members and will in no way personally identify you. 
 
-There are cases where we may ask you for personal information such as your name, email address, and birth date. For example, we request personal information when you register for an Biz-community account, for transactions, or for services that require registration or subscription. Biz-community needs to collect this information for fulfilling services, tracking/verifying compliance with Biz-community policies and applicable law and/or for purposes of editorial content and decisions. In addition, we may request your credit card information to bill you for membership fees or other services or products offered for sale through Biz-community or certain third party vendors. We may provide this credit card information to such third party vendors if necessary to complete your requested transaction. 
+There are cases where we may ask you for personal information such as your name, email address, and birth date. For example, we request personal information when you register for a Biz-community account, for transactions, or for services that require registration or subscription. Biz-community needs to collect this information for fulfilling services, tracking/verifying compliance with Biz-community policies and applicable law and/or for purposes of editorial content and decisions. In addition, we may request your credit card information to bill you for membership fees or other services or products offered for sale through Biz-community or certain third party vendors. We may provide this credit card information to such third party vendors if necessary to complete your requested transaction. 
 
 Furthermore, we may use your personal information to send you periodic communications, solicit your feedback, provide you with special offers, or for other purposes and to customize the services we provide to you. At the bottom of every communication, Biz-community provides a link that can be used to opt out of receiving any communications from us. 
 
-In case you choose to delete or change some of the information you have provided to us, you can do so at the [Member Details](https://web.archive.org/EditSubscription.aspx?m=e) page accessable from out front page. 
+In case you choose to delete or change some of the information you have provided to us, you can do so at the [Member Details](https://web.archive.org/EditSubscription.aspx?m=e) page accessible from out front page. 
 
 **USE OF IP ADDRESS**   
 An IP address is a number that's automatically assigned to your computer whenever you're surfing the Web. Web servers -- the big computers that "serve up" Web pages -- automatically identify your computer by its IP address. 
@@ -34,7 +35,7 @@ An IP address is a number that's automatically assigned to your computer wheneve
 Biz-community collects IP addresses for the purposes of system administration, to report aggregate information to our advertisers, and to audit the use of our site. When guests request pages from Biz-community, our servers log the guests' IP addresses. It is not our practice to link IP addresses to anything personally identifiable, which means that a member's session will be logged, but the member remains anonymous to us. However, we reserve the right to use IP addresses to identify a member only when we feel it is necessary to enforce compliance with our house rules or terms of use agreement or to protect our service, site, customers or others. Some services within Biz-community, such as certain message boards, may display e-mail addresses along with the message poster's name and message. 
 
 **USE OF COOKIES**   
-What are cookies? Cookies are pieces of information that a Web site transfers to an individual's hard drive for record-keeping purposes. Cookies make Web-surfing easier for you by saving your preferences while you're at our site. We never save passwords or credit card information in cookies. The use of cookies is an industry standard -- you'll find them at most major Web sites. 
+What are cookies? Cookies are pieces of information that a website transfers to an individual's hard drive for record-keeping purposes. Cookies make Web-surfing easier for you by saving your preferences while you're at our site. We never save passwords or credit card information in cookies. The use of cookies is an industry standard -- you'll find them at most major websites. 
 
 By showing how and when guests use a site, cookies help us see which areas are popular and which are not. Many improvements and updates to the site are based on such data as total number of visitors and pages viewed. This information is most easily tracked with cookies. We use the information from cookies to provide services better tailored to our members' needs. 
 
@@ -45,7 +46,7 @@ You may occasionally get cookies from our advertisers. Biz-community does not co
 **LINKS TO OTHER SITES/ "PUBLIC" AREAS**   
 Members should be aware that when you are on Biz-community, you could be directed to other sites that are beyond our control. There are links to other sites from Biz-community pages that take you outside our service. These other sites may send their own cookies to members, collect data or solicit personal information. The privacy policies of these other sites may significantly differ from that of Biz-community. We are not responsible for the privacy practices of these other sites and cannot guarantee the security of any of your personal information collected there. 
 
-Please keep in mind that whenever you give out personal information on a "public" venue online --- for example, via message boards or chat --- that information can be collected and used by people you don't know. If you choose to voluntarily disclose information on a bulletin board, message board or chat room on our Web site, this Privacy Policy will not cover such disclosure of information. We urge you to use caution when disclosing any private information on these venues. 
+Please keep in mind that whenever you give out personal information on a "public" venue online --- for example, via message boards or chat --- that information can be collected and used by people you don't know. If you choose to voluntarily disclose information on a bulletin board, message board or chat room on our website, this Privacy Policy will not cover such disclosure of information. We urge you to use caution when disclosing any private information on these venues. 
 
 **SECURITY**   
 Protecting the security of all personally identifiable information associated with our guests is of utmost concern to us. We take reasonable precautions to ensure the security of your information on our systems. When credit card information is transmitted we use industry standard, SSL (secure socket layer) encryption. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while Biz-community strives to protect its members' personal information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and cannot be responsible for the theft, destruction, or inadvertent disclosure of your personal information. 
@@ -59,4 +60,8 @@ Biz-community does not knowingly collect information from minors. If you are und
 
 **YOUR ACCEPTANCE OF THESE TERMS**   
 By using this site, you signify your assent to the Biz-community Privacy Policy. If you do not agree to this policy, please do not use this site. The terms of this Privacy Policy may change from time to time without prior notice to you, so please check this page periodically for any changes. Your continued use of this site following the posting of changes to these terms will mean you accept those changes.    
+  
+
+
+  
 
