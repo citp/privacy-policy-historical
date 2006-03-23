@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the linkconnector.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403184645id_/http%3A//www.linkconnector.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkconnector.com privacy policy that was archived on 2006-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060323111841id_/http%3A//www.linkconnector.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Statement for LinkConnector
+# Affiliate Programs for marketing your online business - Learn about LinkConnector.
 
 **Privacy Statement for LinkConnector.com**
 
