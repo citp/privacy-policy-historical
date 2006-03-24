@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the domainsite.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306220916id_/http%3A//www.domainsite.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainsite.com privacy policy that was archived on 2006-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060324144140id_/https%3A//www.domainsite.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Register a web address at reasonable prices
+# DomainSite.com
 
 We respect your privacy. We do not sell or rent your personal information to third parties for marketing purposes without your explicit consent. According to the law, domain name registration information has to be made available through Whois…, a publicly accessible database that lists the domain name registration information of each registrant. Since domain name registration information is available to the public through Whois…, anyone can access it on the Domainsite.com website or other web resources that offer Whois…. Therefore, the domain name registration information you provide us is, and must be, made available to the public. At times our customers may be included within searches of the Whois… database; however, any "spam" received through the use of Whois… does not originate from Domainsite.com. 
 
