@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the domainsite.com privacy policy that was archived on 2005-03-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050306220916id_/http%3A//www.domainsite.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the domainsite.com privacy policy that was archived on 2006-03-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060324144140id_/https%3A//www.domainsite.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 
@@ -19,6 +19,178 @@ function selectall() {
         }
     }
 }
+
+function selectall_cc() {
+    var currentform = window.document.form1;
+    for (i = 0; i < currentform.elements.length;i++) {
+        if (currentform.elements[i].name.indexOf("opttldarray") != -1){
+        if (currentform.elements[i].value == "de" || 
+		currentform.elements[i].value == "jp" || 
+		currentform.elements[i].value == "tm" || 
+		currentform.elements[i].value == "io" || 
+		currentform.elements[i].value == "sh" || 
+		currentform.elements[i].value == "ac" || 
+		currentform.elements[i].value == "nl" || 
+		currentform.elements[i].value == "at" || 
+		currentform.elements[i].value == "be" || 
+		currentform.elements[i].value == "co.nz" || 
+		currentform.elements[i].value == "net.nz" || 
+		currentform.elements[i].value == "it" || 
+		currentform.elements[i].value == "com.mx" || 
+		currentform.elements[i].value == "org.nz" || 
+		currentform.elements[i].value == "ag" ||
+		currentform.elements[i].value == "la" ||
+		currentform.elements[i].value == "hn" ||
+		currentform.elements[i].value == "sc" ||
+		currentform.elements[i].value == "vc"
+		)
+	{
+            if(currentform.elements[i].checked == false){
+                currentform.elements[i].checked = true;
+            }
+        }
+        }
+    }
+}
+
+
+function selectall_cnic() {
+    var currentform = window.document.form1;
+    for (i = 0; i < currentform.elements.length;i++) {
+        if (currentform.elements[i].name.indexOf("opttldarray") != -1){
+        if (currentform.elements[i].value == "br.com" || 
+		currentform.elements[i].value == "cn.com" || 
+		currentform.elements[i].value == "de.com" || 
+		currentform.elements[i].value == "eu.com" || 
+		currentform.elements[i].value == "gb.com" || 
+		currentform.elements[i].value == "gb.net" || 
+		currentform.elements[i].value == "hu.com" || 
+		currentform.elements[i].value == "jpn.com" || 
+		currentform.elements[i].value == "no.com" || 
+		currentform.elements[i].value == "qc.com" || 
+		currentform.elements[i].value == "ru.com" || 
+		currentform.elements[i].value == "sa.com" || 
+		currentform.elements[i].value == "se.com" || 
+		currentform.elements[i].value == "se.net" || 
+		currentform.elements[i].value == "uk.com" || 
+		currentform.elements[i].value == "uk.net" || 
+		currentform.elements[i].value == "us.com" || 
+		currentform.elements[i].value == "uy.com" || 
+		currentform.elements[i].value == "web.com" || 
+		currentform.elements[i].value == "za.com")
+	{
+            if(currentform.elements[i].checked == false){
+                currentform.elements[i].checked = true;
+            }
+	}
+        }
+    }
+}
+
+function unselectall_cc() {
+    var currentform = window.document.form1;
+    for (i = 0; i < currentform.elements.length;i++) {
+        if (currentform.elements[i].name.indexOf("opttldarray") != -1){
+        if (currentform.elements[i].value == "de" || 
+		currentform.elements[i].value == "jp" || 
+		currentform.elements[i].value == "tm" || 
+		currentform.elements[i].value == "io" || 
+		currentform.elements[i].value == "sh" || 
+		currentform.elements[i].value == "ac" || 
+		currentform.elements[i].value == "nl" || 
+		currentform.elements[i].value == "at" || 
+		currentform.elements[i].value == "be" || 
+		currentform.elements[i].value == "co.nz" || 
+		currentform.elements[i].value == "net.nz" || 
+		currentform.elements[i].value == "it" || 
+		currentform.elements[i].value == "com.mx" || 
+		currentform.elements[i].value == "org.nz" ||
+                currentform.elements[i].value == "ag" ||
+                currentform.elements[i].value == "la" ||
+                currentform.elements[i].value == "hn" ||
+                currentform.elements[i].value == "sc" ||
+                currentform.elements[i].value == "vc"
+)
+		{
+		    if(currentform.elements[i].checked == true){
+			currentform.elements[i].checked = false;
+		    }
+		}
+        }
+    }
+}
+
+function unselectall_cnic() {
+    var currentform = window.document.form1;
+    for (i = 0; i < currentform.elements.length;i++) {
+        if (currentform.elements[i].name.indexOf("opttldarray") != -1){
+        if (currentform.elements[i].value == "br.com" || 
+		currentform.elements[i].value == "cn.com" || 
+		currentform.elements[i].value == "de.com" || 
+		currentform.elements[i].value == "eu.com" || 
+		currentform.elements[i].value == "gb.com" || 
+		currentform.elements[i].value == "gb.net" || 
+		currentform.elements[i].value == "hu.com" || 
+		currentform.elements[i].value == "jpn.com" || 
+		currentform.elements[i].value == "no.com" || 
+		currentform.elements[i].value == "qc.com" || 
+		currentform.elements[i].value == "ru.com" || 
+		currentform.elements[i].value == "sa.com" || 
+		currentform.elements[i].value == "se.com" || 
+		currentform.elements[i].value == "se.net" || 
+		currentform.elements[i].value == "uk.com" || 
+		currentform.elements[i].value == "uk.net" || 
+		currentform.elements[i].value == "us.com" || 
+		currentform.elements[i].value == "uy.com" || 
+		currentform.elements[i].value == "web.com" || 
+		currentform.elements[i].value == "za.com")
+	{
+                    if(currentform.elements[i].checked == true){
+                        currentform.elements[i].checked = false;
+                    }
+                }
+        }
+    }
+}
+
+  function selectDiv(id, value)
+  {
+        var changeStr;
+        var theObj;
+        var dispStr;
+
+        divId1 = id+"_"+value;
+        var value1 = "true";
+        if (value == true)
+                value1 = false;
+        else
+                value1 = true;
+        divId2 = id+"_"+value1;
+	var blocking = "0";
+
+        if (document.getElementById)
+        {
+                changeStr = "document.getElementById('"+divId1+"')";
+                theObj = eval(changeStr);
+                if (theObj)
+                {
+                        blocking = "1";
+                        theObj.style.display = 'block';
+                }
+                changeStr = "document.getElementById('" + divId2 + "')";
+                theObj = eval(changeStr);
+                if (theObj)
+                {
+                        if (blocking == "1"){
+                                theObj.style.display = 'none';
+                        } else {
+                                 theObj.style.display = 'block';
+                        }
+                }
+        }
+  }
+
+
 function unselectall() {
     var currentform = window.document.form1;
     for (i = 0; i < currentform.elements.length;i++) {
@@ -51,16 +223,63 @@ function unselectall1() {
     }
 }
 
+function select_all() {
+    var currentform = window.document.form1;
+    for (i = 0; i < currentform.elements.length;i++) {
+        if (currentform.elements[i].name.indexOf("domain_name[]") != -1){
+            if(currentform.elements[i].checked == false){
+                currentform.elements[i].checked = true;
+            }
+        }
+    }
+}
+function unselect_all() {
+    var currentform = window.document.form1;
+    for (i = 0; i < currentform.elements.length;i++) {
+        if (currentform.elements[i].name.indexOf("domain_name[]") != -1){
+            if(currentform.elements[i].checked == true){
+                currentform.elements[i].checked = false;
+            }
+        }
+    }
+}
+  function selectBulkDiv(key,value)
+  {
+        status = key+"_"+value;
+        value1 = "true";
+        if (value == true)
+                value1 = false;
+        else
+                value1 = true;
+        status1 = key+"_"+value1;
+        var changeStr;
+        var theObj;
+        if (document.getElementById)
+        {
+                changeStr = "document.getElementById('show_" + status + "')";
+                theObj = eval(changeStr);
+                if (theObj)
+                {
+                        blocking = "1";
+                        theObj.style.display = 'block';
+                }
+                changeStr = "document.getElementById('show_" +status1 + "')";
+                theObj = eval(changeStr);
+                if (theObj)
+                {
+                        if (blocking == "1"){
+                                theObj.style.display = 'none';
+                        } else {
+                                 theObj.style.display = 'block';
+                        }
+                }
+
+        }
+  }
+
 </script>
 
-<title>Register a web address at reasonable prices</title>
-<meta name="keyword" content="Register web address, register a web address, register a. cc web address, cheap register 
-web address, register web addresses, how do i register a web address	
-Register web address url, register your web address, Register web address, register a web address, register a. cc web 
-address, cheap register web address, register web addresses, how do i register a web address, register web address 
-url, register your web address"> 
-<meta name="description" content="Register your web address at Domainsite.com for reliable and affordable service.">
-
+<title>DomainSite.com</title>
 <link href="/domainsite.css" rel="stylesheet" type="text/css">
 <link rel="shortcut icon" href="/favicon.ico">
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
@@ -81,10 +300,10 @@ url, register your web address">
                 <td width="100%" align="right" valign="bottom">
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
                     <tbody><tr>
-          <td width="163" align="left"><img border="0" src="/images_2/logo.png" alt="Domain name registration, Register domain, domain registration, register domain name"></td>
+          <td width="163" align="left"><a href="/"><img border="0" src="/images_2/logo.png" alt="Domain name registration, Register domain, domain registration, register domain name"></a></td>
 <td width="100%">&nbsp;</td>
                       <td align="left" class="BodyText">
-125 Rampart Way<br>Suite 300<br>Denver, CO 80230<br>Phone: 303-364-3669<br>
+125 Rampart Way<br>Suite 300<br>Denver, CO 80230<br>Phone: 303-459-6012<br>
                         <a href="mailto:support@domainsite.com" class="BodyText">support@domainsite.com</a>
                       </td>
                     </tr>
@@ -136,6 +355,7 @@ url, register your web address">
 
 </tr>
 </tbody></table>
+
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
@@ -422,8 +642,7 @@ url, register your web address">
 	    <table width="100%" border="0" cellspacing="0" cellpadding="0">
             <tbody><tr>
                 <td>
-		    <img src="/inner-images/inner_main_7.jpg" width="188" height="236" alt="Register web address, register a web address, register a cc web address">
-		</td>
+<img src="/inner-images/inner_main_7.jpg" width="188" height="236" alt="Register" web="" address,="" register="" a="" cc="" address="">		</td>
             </tr>
             <tr>
                 <td>
@@ -483,9 +702,17 @@ Registration</strong><center><hr></center></font>
 </td>
               </tr>
               <tr>
-                <td class="grBoxText">©2004 Spot Domain LLC, All Rights Reserved. - <a href="/powered_by.php">powered by</a> - 
-<a href="http://www.linuxmanpages.com">linux man pages</a>
-(1
+                <td class="grBoxText">
+<a href="/powered_by.php">powered by</a> |
+<a href="http://www.linuxmanpages.com">linux man pages</a> |
+<a href="http://www.earthsearch.net">geographic information</a> |
+<a href="http://www.whois.ws">global whois</a> |
+<a href="http://www.name.net/toolbars.php">Firefox and Mozilla toolbars</a> |
+<a href="http://www.bluerider.com">dictionary</a> |
+<a href="http://www.tld.io">ccTLD information</a>
+<br>
+©2005 Spot Domain LLC, All Rights Reserved.
+(2
 )
 </td>
               </tr>
