@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soundexchange.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222040456id_/http%3A//www.soundexchange.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundexchange.com privacy policy that was archived on 2006-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060324101022id_/http%3A//www.soundexchange.com/privacy.html) for the most accurate reproduction.*
 
 # SoundExchange | Privacy Policy
 
