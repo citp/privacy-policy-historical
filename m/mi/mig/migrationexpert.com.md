@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the migrationexpert.com privacy policy that was archived on 2005-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050626205023id_/http%3A//migrationexpert.com/content/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the migrationexpert.com privacy policy that was archived on 2006-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060324231714id_/http%3A//www.migrationexpert.com/content/privacy_policy.asp) for the most accurate reproduction.*
 
 # Migration Expert | Privacy Policy
 
 HELPING PEOPLE MIGRATE TO:   AUSTRALIA   |   [UK](http://www.immigrationexpert.com/uk/ "UK")   |   [CANADA](http://www.immigrationexpert.com/ "CANADA")
-
- 
 
 migrationexpert.com knows the importance of keeping your information secure. We understand your concerns about how your information is used and shared. Please be assured that migrationexpert.com takes every possible measure to treat your information with respect and privacy.
 
@@ -68,10 +66,3 @@ Our Privacy Policy and the Terms & Conditions may change from time to time. Clie
 **Links**
 
 This web site contains links to other sites. Please be aware that we, migrationexpert.com, are not responsible for the accuracy or the privacy practices of other such sites. We encourage our clients to be aware that when they leave our site, they should read the privacy statements of each and every web site that collects identifiable personal information. This privacy statement applies solely to information collected on this web site. 
-
-  
-
-
-Copyright © Migration Expert Pty Ltd ABN: 13 101 197 157  
-Our Services and use of this site are subject to our Terms & Conditions and Privacy Policy  
-(Site last updated - Tuesday, 22 February 2005)
