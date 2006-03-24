@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the iamplify.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212031016id_/http%3A//www.iamplify.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iamplify.com privacy policy that was archived on 2006-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060325004101id_/http%3A//www.iamplify.com/privacy.php%3FosCsid%3D84bbfbb409acaf54e6838786738a57e6) for the most accurate reproduction.*
 
 # Privacy Notice : iAmplify
 
-iAmplify, LLC ("iAmplify") is very sensitive to the privacy concerns of iAmplify customers and visitors to our website (the "Site") at www.iamplify.com (collectively, the "iAmplify users"). This iAmplify Online Privacy Policy ("Privacy Policy") explains our practices with respect to the collection, use, and disclosure of personal and non-personal information provided by iAmplify users. By visiting the Site or signing up for our services, iAmplify users signify their assent to this Privacy Policy. **Collection of Information**
+iAmplify, LLC ("iAmplify") is very sensitive to the privacy concerns of iAmplify customers and visitors to our website (the "Site") at www.iamplify.com (collectively, the "iAmplify users"). This iAmplify Online Privacy Policy ("Privacy Policy") explains our practices with respect to the collection, use, and disclosure of personal and non-personal information provided by iAmplify users. By visiting the Site or signing up for our services, iAmplify users signify their assent to this Privacy Policy. 
+
+**Collection of Information**
 
 **Personal Information**
 
