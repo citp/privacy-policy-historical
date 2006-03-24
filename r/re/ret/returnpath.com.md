@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the returnpath.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401135429id_/http%3A//returnpath.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the returnpath.com privacy policy that was archived on 2006-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060324165450id_/http%3A//www.returnpath.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Return Path - Changed Your Email? Keep Your Contacts!
 
-**RETURN PATH PRIVACY STATEMENT**
+**Effective December 2003  
+RETURN PATH PRIVACY STATEMENT**
 
 | 
 
@@ -10,7 +11,7 @@
   
 ---  
   
-**[](https://www.truste.org/validate/9205)**  
+**[](http://www.truste.org/ivalidate.php?url=www.returnpath.net&sealid=101)**  
   
 We know that your privacy is important to you. At Return Path, we're committed to helping you manage and protect it. We take privacy very seriously, and have taken many steps to help safeguard the personal information we collect from you at this Web site.
 
@@ -28,8 +29,8 @@ To demonstrate our commitment, we have agreed to disclose our information practi
 
 If you have questions or concerns regarding this statement, contact Return Path at [privacy@returnpath.net](mailto:privacy@returnpath.net). If you do not receive acknowledgement of your inquiry or if your inquiry is not satisfactorily addressed, you should contact:
 
-  * [TRUSTe](http://www.truste.org/users/users_watchdog_new.php), TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
-  * [BBBOnline](http://www.bbbonline.org/consumer/submit.asp)
+  * [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php), TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
+  * [BBBOnline](http://www.bbbonline.org/consumer/)
 
 
 
@@ -141,7 +142,7 @@ If there are changes to the terms of Return Path's Privacy Statement, we will po
 We value your opinions. If you have comments or questions about our privacy policy, please send them to Return Path Privacy at [privacy@returnpath.net](mailto:privacy@returnpath.net), or contact:
 
 Return Path, Inc.  
-56 West 22nd Street, 10th Floor  
+304 Park Avenue South, 7th Floor  
 New York, New York 10010  
 Phone: 212-905-5500  
 Fax: 212-905-5501
