@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the hotelplanner.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610112908id_/http%3A//hotelplanner.com/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelplanner.com privacy policy that was archived on 2006-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060324065139id_/http%3A//www.hotelplanner.com/Privacy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy
-
-## Privacy and Security
+# Privacy Policy - Hotel Planner always protects your privacy when you book your reunion, conference, or any group event.
 
 Information Collection and Use 
 
@@ -27,8 +25,6 @@ This Web site contains links to other sites. Please be aware that Lexyl Travel T
 Security 
 
 All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, a billing clerk or customer service representative) are granted access to personally identifiable information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. The servers that we store personally identifiable information on are kept in a secure environment. 
-
-If you have any questions about the security at our Web site, you can send an email to [questions@lexyl.com](mailto:questions@lexyl.com). 
 
 Special Offers 
 
