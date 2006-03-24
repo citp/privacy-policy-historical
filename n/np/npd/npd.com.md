@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the npd.com privacy policy that was archived on 2005-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050830012221id_/http%3A//www.npd.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the npd.com privacy policy that was archived on 2006-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060324171257id_/http%3A//npd.com/privacy.html) for the most accurate reproduction.*
 
 # The NPD Group - Global Leader in Sales and Marketing Information
 
