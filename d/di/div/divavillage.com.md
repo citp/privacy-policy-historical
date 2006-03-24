@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the divavillage.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224052546id_/http%3A//divavillage.com/article.php%3Fname%3Dterms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divavillage.com privacy policy that was archived on 2006-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060324120401id_/http%3A//divavillage.com/article.php%3Fname%3Dterms) for the most accurate reproduction.*
 
 # DivaVillage.com - Fashion Ezine
 
