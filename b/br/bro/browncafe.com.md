@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the browncafe.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231220215id_/http%3A//browncafe.com/statement.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the browncafe.com privacy policy that was archived on 2006-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060324032410id_/http%3A//www.browncafe.com/statement.shtml) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -67,31 +67,31 @@ If you have any questions about this privacy statement, the practices of this si
   
 ---  
   
-[Stock](http://browncafe.com/stock.htm)
+[Stock](http://www.browncafe.com/stock.htm)
 
 | 
 
-[News](http://browncafe.com/news.shtml)
+[News](http://www.browncafe.com/news.shtml)
 
 | 
 
-**[B rownCafe](http://browncafe.com/)**
+**[B rownCafe](http://www.browncafe.com/)**
 
 | 
 
-[People](http://browncafe.com/people.htm)
+[People](http://www.browncafe.com/people.htm)
 
 | 
 
-[Work](http://browncafe.com/work.htm)  
+[Work](http://www.browncafe.com/work.htm)  
   
-[Boards](http://browncafe.com/boards.htm)
+[Boards](http://www.browncafe.com/boards.htm)
 
 | 
 
-[Quotes](http://browncafe.com/stockport/stock_port.php)  
+[Quotes](http://www.browncafe.com/stockport/stock_port.php)  
   
-[Our Privacy Policy](http://browncafe.com/statement.shtml) ~ [Information Integrity](http://browncafe.com/integrity.shtml) ~ [Terms of Service](http://browncafe.com/tos.shtml) ~ [Search](http://browncafe.com/search/search.pl) ****  
+[Our Privacy Policy](http://www.browncafe.com/statement.shtml) ~ [Information Integrity](http://www.browncafe.com/integrity.shtml) ~ [Terms of Service](http://www.browncafe.com/tos.shtml) ~ [Search](http://www.browncafe.com/search/search.pl) ****  
   
 the fine print...
 
