@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the men.com privacy policy that was archived on 2005-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051231190459id_/http%3A//www.men.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the men.com privacy policy that was archived on 2006-03-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060325204523id_/http%3A//men.com/privacy) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -7,11 +7,23 @@
 	Men.com Magazine
 </title>
 
-	<link rel="stylesheet" href="/new/men.css" type="text/css">
-	<script src="/__utm.js" type="text/javascript"></script>
-
 <script language="JavaScript">
 <!--
+  sfHover = function() {
+		var sfEls = document.getElementById("nav").getElementsByTagName("LI")
+		for (var i=0; i<sfEls.length; i++) {
+			sfEls[i].onmouseover=function() {
+ 				this.className+=" ExplorerHover"
+			}
+ 			sfEls[i].onmouseout=function() {
+ 				this.className=this.className.replace(new RegExp(" ExplorerHover\\b"), "")
+			}
+		}
+	}
+	if (window.attachEvent)
+		window.attachEvent("onload", sfHover)
+
+
 	// Generate a random number
 	var axel = Math.random() + "";
 	var ord = axel * 1000000000000000000;
@@ -38,56 +50,7 @@
 		if (g == null) {g = ''} else {g = '&g='+g}
 		document.write('<script language="JavaScript" src="http://'+url+'/perl/ads/select.pl?s='+s+'&w='+w+'&h='+h+p+g+'&r='+ord+'&j=1"></script>')
 	}
-
-
-	if (document.images) {            // Active Images
-		img1on = new Image();      
-		img1on.src = "/new/imgs/home/nav_news_on.gif"; 
-		img2on = new Image();      
-		img2on.src = "/new/imgs/home/nav_sports_on.gif"; 
-		img3on = new Image();      
-		img3on.src = "/new/imgs/home/nav_entertainment_on.gif"; 
-		img4on = new Image();      
-		img4on.src = "/new/imgs/home/nav_life_on.gif"; 
-		img5on = new Image();      
-		img5on.src = "/new/imgs/home/nav_women_on.gif"; 
-		img6on = new Image();      
-		img6on.src = "/new/imgs/home/nav_automotive_on.gif"; 
-		img7on = new Image();      
-		img7on.src = "/new/imgs/home/nav_health_on.gif"; 
-		img8on = new Image();      
-		img8on.src = "/new/imgs/home/nav_toys_on.gif"; 
-		img9on = new Image();      
-		img9on.src = "/new/imgs/home/nav_afterhours_on.gif"; 
-		img10on = new Image();      
-		img10on.src = "/new/imgs/home/nav_store_on.gif"; 
-
-		img1off = new Image();      
-		img1off.src = "/new/imgs/home/nav_news.gif"; 
-		img2off = new Image();      
-		img2off.src = "/new/imgs/home/nav_sports.gif"; 
-		img3off = new Image();      
-		img3off.src = "/new/imgs/home/nav_entertainment.gif"; 
-		img4off = new Image();      
-		img4off.src = "/new/imgs/home/nav_life.gif"; 
-		img5off = new Image();      
-		img5off.src = "/new/imgs/home/nav_women.gif"; 
-		img6off = new Image();      
-		img6off.src = "/new/imgs/home/nav_automotive.gif"; 
-		img7off = new Image();      
-		img7off.src = "/new/imgs/home/nav_health.gif"; 
-		img8off = new Image();      
-		img8off.src = "/new/imgs/home/nav_toys.gif"; 
-		img9off = new Image();      
-		img9off.src = "/new/imgs/home/nav_afterhours.gif"; 
-		img10off = new Image();      
-		img10off.src = "/new/imgs/home/nav_store.gif"; 
-
-
-
-	}
-
-
+	
 	// Function to 'switch' images.
 	function changeImages() {
 		if (document.images) {
@@ -96,155 +59,258 @@
 				}
 			}
 		}
+
+        if (document.images) {            // Active Images
+        	// preload this image
+            menubg = new Image();      
+            menubg.src = "/imgs/common/nav_bg_dark.gif"; 
+
+            home1off = new Image();      
+            home1off.src = "/imgs/nav/home-home.gif"; 
+            home2off = new Image();      
+            home2off.src = "/imgs/nav/news-home.gif"; 
+            home3off = new Image();      
+            home3off.src = "/imgs/nav/business-home.gif"; 
+            home4off = new Image();      
+            home4off.src = "/imgs/nav/automotive-home.gif"; 
+            home5off = new Image();      
+            home5off.src = "/imgs/nav/health-home.gif"; 
+            home6off = new Image();      
+            home6off.src = "/imgs/nav/women-home.gif"; 
+            home7off = new Image();      
+            home7off.src = "/imgs/nav/relationships-home.gif"; 
+            home8off = new Image();      
+            home8off.src = "/imgs/nav/entertainment-home.gif"; 
+            home9off = new Image();      
+            home9off.src = "/imgs/nav/lifestyle-home.gif"; 
+            home10off = new Image();      
+            home10off.src = "/imgs/nav/outdoors-home.gif"; 
+            home11off = new Image();      
+            home11off.src = "/imgs/nav/extreme-home.gif"; 
+
+            sub1off = new Image();      
+            sub1off.src = "/imgs/nav/home.gif"; 
+            sub2off = new Image();      
+            sub2off.src = "/imgs/nav/news.gif"; 
+            sub3off = new Image();      
+            sub3off.src = "/imgs/nav/business.gif"; 
+            sub4off = new Image();      
+            sub4off.src = "/imgs/nav/automotive.gif"; 
+            sub5off = new Image();      
+            sub5off.src = "/imgs/nav/health.gif"; 
+            sub6off = new Image();      
+            sub6off.src = "/imgs/nav/women.gif"; 
+            sub7off = new Image();      
+            sub7off.src = "/imgs/nav/relationships.gif"; 
+            sub8off = new Image();      
+            sub8off.src = "/imgs/nav/entertainment.gif"; 
+            sub9off = new Image();      
+            sub9off.src = "/imgs/nav/lifestyle.gif"; 
+            sub10off = new Image();      
+            sub10off.src = "/imgs/nav/outdoors.gif"; 
+            sub11off = new Image();      
+            sub11off.src = "/imgs/nav/extreme.gif"; 
+
+            img1on = new Image();      
+            img1on.src = "/imgs/nav/home-on.gif"; 
+            img2on = new Image();      
+            img2on.src = "/imgs/nav/news-on.gif"; 
+            img3on = new Image();      
+            img3on.src = "/imgs/nav/business-on.gif"; 
+            img4on = new Image();      
+            img4on.src = "/imgs/nav/automotive-on.gif"; 
+            img5on = new Image();      
+            img5on.src = "/imgs/nav/health-on.gif"; 
+            img6on = new Image();      
+            img6on.src = "/imgs/nav/women-on.gif"; 
+            img7on = new Image();      
+            img7on.src = "/imgs/nav/relationships-on.gif"; 
+            img8on = new Image();      
+            img8on.src = "/imgs/nav/entertainment-on.gif"; 
+            img9on = new Image();      
+            img9on.src = "/imgs/nav/lifestyle-on.gif"; 
+            img10on = new Image();      
+            img10on.src = "/imgs/nav/outdoors-on.gif"; 
+            img11on = new Image();      
+            img11on.src = "/imgs/nav/extreme-on.gif"; 
+        }
+
+
+
 //-->
 </script>
 
+	<script src="/__utm.js" type="text/javascript"></script>
+	<link rel="stylesheet" href="/men.css" type="text/css">
+		
+	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+	</script>
+	<script type="text/javascript">
+	_uacct = "UA-205956-2";
+	urchinTracker();
+	</script>
+
+<meta name="description" content="The definitive men's online lifestyle magazine providing expert advice, secrets and tips on dating, relationships, love, entertainment, sex, women, girl friends, wives, sports, movies, TV, health, finance, money, credit cards, credit scores, cars, automobiles, trucks, extreme sports, family.">
+
 </head>
 
-<body marginheight="0" marhinwidth="0" topmargin="0" leftmargin="0" bgcolor="#000000">
+<body topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" bgcolor="#FFFFFF">
 
-<table border="0" cellspacing="0" cellpadding="0" align="center" width="925">
-		<tbody><tr>
-		<td><img src="/new/imgs/home/top.gif" width="925" height="11" border="0"></td>
-	</tr>
-	<tr>
-		<td background="/new/imgs/home/top_bg.gif">
-		<table border="0" cellspacing="0" cellpadding="0" width="100%">
-			<tbody><tr>
-				<td><img src="/new/imgs/home/top_left.gif" width="33" height="96" border="0"></td>
-				<td align="center"><script language="javascript">get_ad('728','90');</script><script language="JavaScript" src="http://ads.richard-group.com/perl/ads/select.pl?s=226&amp;w=728&amp;h=90&amp;r=8286579622977630&amp;j=1"></script></td>
-<!-- 
-				<td><img src="/new/imgs/spacer.gif" width="10" height="1" border="0"></td>
-				<td align="center">
-				<table border="0" cellspacing="0" cellpadding="1">
-					<tr>
-						<td bgcolor="#FFFFFF">
-						<table border="0" cellspacing="0" cellpadding="0">
-							<tr>
-								<td background="/new/imgs/home/top_bg.gif"><a href="/women/girlnextdoor/"><img src="/new/imgs/gnd_thumb.gif" width="49" height="82" border="0"></a></td>
-								<td background="/new/imgs/home/top_bg.gif"><img src="/new/imgs/spacer.gif" width="3" height="1" border="0"></td>
-								<td background="/new/imgs/home/top_bg.gif"><a href="/women/girlnextdoor/" class="headline_wh">Girl<br>Next<br>Door</a></td>
-								<td background="/new/imgs/home/top_bg.gif"><img src="/new/imgs/spacer.gif" width="5" height="1" border="0"></td>
-							</tr>
-						</table>
-						</td>
-					</tr>
-				</table>
-				</td>
- -->
-				<td align="right"><img src="/new/imgs/home/top_right.gif" width="33" height="96" border="0"></td>
-			</tr>
-		</tbody></table>
-		</td>
-	</tr>
-	<tr>
+<table border="0" cellspacing="0" cellpadding="0" width="918">
+	<tbody><tr>
 		<td>
 		<table border="0" cellspacing="0" cellpadding="0">
 			<tbody><tr>
-				<td><a href="/home/"><img src="/new/imgs/home/logo.gif" width="335" height="123" border="0"></a></td>
-				<td>
+				<td background="/imgs/common/top_bg.gif"><img src="/imgs/spacer.gif" width="8" height="" alt="men's magazines"></td>
+				<td background="/imgs/common/top_bg.gif">
 				<table border="0" cellspacing="0" cellpadding="0">
 					<tbody><tr>
-						<td>
-						<table border="0" cellspacing="0" cellpadding="0">
+						<td><img src="/imgs/spacer.gif" width="1" height="6" alt="dating tips"></td>
+					</tr>
+					<tr>
+						<td><script language="javascript">get_ad('728','90');</script><script language="JavaScript" src="http://ads.richard-group.com/perl/ads/select.pl?s=226&amp;w=728&amp;h=90&amp;r=105844787866353540&amp;j=1"></script></td>
+					</tr>
+					<tr>
+						<td><a href="/"><img src="/imgs/global/logo.gif" width="392" height="74" border="0" alt="free chat"></a></td>
+					</tr>
+				</tbody></table>
+				</td>
+				<td background="/imgs/common/search_bg.gif" valign="bottom">
+				<table border="0" cellspacing="0" cellpadding="0" width="182">
+								</table><table border="0" cellspacing="0" cellpadding="0" width="182">
+			<script language="javascript" type="text/javascript">
+				function showmen() {
+					if (document.getElementById) { // DOM3 = IE5, NS6
+						document.getElementById('googleform').style.visibility = 'hidden';
+						document.getElementById('googleform').style.display = 'none';
+					} else {
+						if (document.layers) { // Netscape 4
+							document.googleform.visibility = 'hidden';
+							document.googleform.display = 'none';
+						} else { // IE 4
+							document.all.googleform.style.visibility = 'hidden';
+							document.all.googleform.style.display = 'none';
+						}
+					}
+					if (document.getElementById) { // DOM3 = IE5, NS6
+						document.getElementById('manform').style.visibility = 'visible';
+						document.getElementById('manform').style.display = 'block';
+					} else {
+						if (document.layers) { // Netscape 4
+							document.manform.visibility = 'visible';
+							document.manform.display = 'block';
+						} else { // IE 4
+							document.all.manform.style.visibility = 'visible';
+							document.all.manform.style.display = 'block';
+						}
+					}
+				}
+				function showgoogle() {
+					if (document.getElementById) { // DOM3 = IE5, NS6
+						document.getElementById('manform').style.visibility = 'hidden';
+						document.getElementById('manform').style.display = 'none';
+					} else {
+						if (document.layers) { // Netscape 4
+							document.manform.visibility = 'hidden';
+							document.manform.display = 'none';
+						} else { // IE 4
+							document.all.manform.style.visibility = 'hidden';
+							document.all.manform.style.display = 'none';
+						}
+					}
+					if (document.getElementById) { // DOM3 = IE5, NS6
+						document.getElementById('googleform').style.visibility = 'visible';
+						document.getElementById('googleform').style.display = 'block';
+					} else {
+						if (document.layers) { // Netscape 4
+							document.googleform.visibility = 'visible';
+							document.googleform.display = 'block';
+						} else { // IE 4
+							document.all.googleform.style.visibility = 'visible';
+							document.all.googleform.style.display = 'block';
+						}
+					}
+				}
+			</script> 
+			
+			<form method="post"></form>
+					<tbody><tr>
+						<td align="center">
+						<table border="0" cellspacing="0" cellpadding="0" align="center">
 							<tbody><tr>
-								<td><a href="/news/" onmouseover="changeImages('nav_news', 'img1on')" onmouseout="changeImages('nav_news', 'img1off')">
-									<img src="/new/imgs/home/nav_news.gif" width="38" height="24" border="0" name="nav_news"></a></td>
-								<td><a href="/sports/" onmouseover="changeImages('nav_sports', 'img2on')" onmouseout="changeImages('nav_sports', 'img2off')">
-									<img src="/new/imgs/home/nav_sports.gif" width="51" height="24" border="0" name="nav_sports"></a></td>
-								<td><a href="/entertainment/" onmouseover="changeImages('nav_entertainment', 'img3on')" onmouseout="changeImages('nav_entertainment', 'img3off')">
-									<img src="/new/imgs/home/nav_entertainment.gif" width="96" height="24" border="0" name="nav_entertainment"></a></td>
-								<td><a href="/yourlife/" onmouseover="changeImages('nav_life', 'img4on')" onmouseout="changeImages('nav_life', 'img4off')">
-									<img src="/new/imgs/home/nav_life.gif" width="63" height="24" border="0" name="nav_life"></a></td>
-								<td><a href="/women/" onmouseover="changeImages('nav_women', 'img5on')" onmouseout="changeImages('nav_women', 'img5off')">
-									<img src="/new/imgs/home/nav_women.gif" width="50" height="24" border="0" name="nav_women"></a></td>
-								<td><a href="/automotive/" onmouseover="changeImages('nav_automotive', 'img6on')" onmouseout="changeImages('nav_automotive', 'img6off')">
-									<img src="/new/imgs/home/nav_automotive.gif" width="76" height="24" border="0" name="nav_automotive"></a></td>
-								<td><a href="/health/" onmouseover="changeImages('nav_health', 'img7on')" onmouseout="changeImages('nav_health', 'img7off')">
-									<img src="/new/imgs/home/nav_health.gif" width="51" height="24" border="0" name="nav_health"></a></td>
-								<td><a href="/toys/" onmouseover="changeImages('nav_toys', 'img8on')" onmouseout="changeImages('nav_toys', 'img8off')">
-									<img src="/new/imgs/home/nav_toys.gif" width="37" height="24" border="0" name="nav_toys"></a></td>
-								<td><a href="/afterhours/" onmouseover="changeImages('nav_afterhours', 'img9on')" onmouseout="changeImages('nav_afterhours', 'img9off')">
-									<img src="/new/imgs/home/nav_afterhours.gif" width="85" height="24" border="0" name="nav_afterhours"></a></td>
-								<td><a href="http://www.wheremenshop.com/" target="_blank" onmouseover="changeImages('nav_store', 'img10on')" onmouseout="changeImages('nav_store', 'img10off')">
-									<img src="/new/imgs/home/nav_store.gif" width="43" height="24" border="0" name="nav_store"></a></td>
+								<td><input type="radio" name="sarchform" onclick="javascript:showmen();void(0);" checked=""><img src="/imgs/auto/search_men.gif" width="44" height="10" alt="men's magazines"></td>
+								<td><img src="/imgs/spacer.gif" width="10" height="1" alt=""></td>
+								<td><input type="radio" name="sarchform" onclick="javascript:showgoogle();void(0);"><img src="/imgs/common/search_web.gif" width="20" height="10" alt="free chat"></td>
 							</tr>
 						</tbody></table>
 						</td>
 					</tr>
+ 			
 					<tr>
-						<td>
-<!--
-
--->
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="590" height="34" id="highlight" align="middle">
-<param name="allowScriptAccess" value="sameDomain">
-<param name="movie" value="/new/imgs/home/highlight.swf">
-<param name="quality" value="high">
-<param name="bgcolor" value="#000000">
-<param name="FlashVars" value="myarray1=THE ESSENTIAL ONLINE MAGAZINE FOR MEN&amp;link1=&amp;myarray2=Charlie Daniels Speaks Up&amp;link2=http://staging.men.com/entertainment/charlie/85&amp;myarray3=What Will The Evil White Guy Say Next!&amp;link3=http://staging.men.com/yourlife/evilwhiteguy/19&amp;myarray4=Bring Out The Beast In You&amp;link4=http://staging.men.com/health/432&amp;myarray5=THE ESSENTIAL ONLINE MAGAZINE FOR MEN&amp;link5=&amp;myarray6=Jolie in NYC, The Latest!&amp;link6=http://staging.men.com/entertainment/gossip/jolie/&amp;myarray7=Greetings From Southern California&amp;link7=http://staging.men.com/yourlife/440&amp;myarray8=Visit Our Store For Your Holiday Gifts&amp;link8=http://www.wheremenshop.com/&amp;myarray9=THE ESSENTIAL ONLINE MAGAZINE FOR MEN&amp;link9=&amp;myarray10=Not All Credit Cards Are Alike&amp;link10=http://staging.men.com/yourlife/441&amp;myarray11=Streisand's TV Classics On Sale&amp;link11=http://staging.men.com/entertainment/102&amp;myarray12=Turn On The Charm For The Holidays&amp;link12=http://staging.men.com/yourlife/imageconsultants/40&amp;myarray13=THE ESSENTIAL ONLINE MAGAZINE FOR MEN&amp;link13=&amp;myarray14=Mustang Retro Time&amp;link14=http://men.com/automotive/28&amp;myarray15=Cowboy Up! On Your Vacation&amp;link15=http://staging.men.com/yourlife/439&amp;myarray16=Build A Home Entertainment System&amp;link16=http://www.staging.men.com/toys/21">
-<embed src="/new/imgs/home/highlight.swf" quality="high" bgcolor="#000000" width="590" height="34" name="highlight" align="middle" allowscriptaccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="myarray1=THE ESSENTIAL ONLINE MAGAZINE FOR MEN&amp;link1=&amp;myarray2=Charlie Daniels Speaks Up&amp;link2=http://staging.men.com/entertainment/charlie/85&amp;myarray3=What Will The Evil White Guy Say Next!&amp;link3=http://staging.men.com/yourlife/evilwhiteguy/19&amp;myarray4=Bring Out The Beast In You&amp;link4=http://staging.men.com/health/432&amp;myarray5=THE ESSENTIAL ONLINE MAGAZINE FOR MEN&amp;link5=&amp;myarray6=Jolie in NYC, The Latest!&amp;link6=http://staging.men.com/entertainment/gossip/jolie/&amp;myarray7=Greetings From Southern California&amp;link7=http://staging.men.com/yourlife/440&amp;myarray8=Visit Our Store For Your Holiday Gifts&amp;link8=http://www.wheremenshop.com/&amp;myarray9=THE ESSENTIAL ONLINE MAGAZINE FOR MEN&amp;link9=&amp;myarray10=Not All Credit Cards Are Alike&amp;link10=http://staging.men.com/yourlife/441&amp;myarray11=Streisand's TV Classics On Sale&amp;link11=http://staging.men.com/entertainment/102&amp;myarray12=Turn On The Charm For The Holidays&amp;link12=http://staging.men.com/yourlife/imageconsultants/40&amp;myarray13=THE ESSENTIAL ONLINE MAGAZINE FOR MEN&amp;link13=&amp;myarray14=Mustang Retro Time&amp;link14=http://men.com/automotive/28&amp;myarray15=Cowboy Up! On Your Vacation&amp;link15=http://staging.men.com/yourlife/439&amp;myarray16=Build A Home Entertainment System&amp;link16=http://www.staging.men.com/toys/21">
-</object>
-<!--
-
--->
-<!-- <img src="/new/imgs/home/highlight.gif" width="590" height="34" border="0"> --></td>
+						<td align="center"><img src="/imgs/spacer.gif" width="1" height="6" alt="love secrets"></td>
 					</tr>
 					<tr>
-						<td background="/new/imgs/home/nav_mid_bg.gif" align="right"><img src="/new/imgs/home/nav_mid_right.gif" width="33" height="6" border="0"></td>
+						<td align="center" valign="top">
+<div id="manform" style="visible: show; display: block;"> 		
+			<form action="/search/" method="post">
+				<input type="hidden" name="action" value="men.comsearch">
+				<input type="hidden" name="tableid" value="77">
+				<input type="hidden" name="tableid" value="90">
+				<input type="hidden" name="tableid" value="91">
+				<input type="hidden" name="tableid" value="92">
+				<input type="hidden" name="tableid" value="93">
+				<input type="hidden" name="tableid" value="94">
+				<input type="hidden" name="tableid" value="95">
+				<input type="hidden" name="tableid" value="96">
+				<input type="hidden" name="tableid" value="102">
+				<input type="hidden" name="tableid" value="104">
+				<input type="hidden" name="tableid" value="106">
+				<input type="hidden" name="tableid" value="122">
+				<input type="hidden" name="tableid" value="124">
+				<input type="hidden" name="tableid" value="131">
+				<input type="hidden" name="tableid" value="135">
+				<input type="hidden" name="tableid" value="139">
+				<input type="hidden" name="tableid" value="138">
+
+				<table border="0" cellspacing="0" cellpadding="0">
+					<tbody><tr>
+						<td align="center"><input type="text" name="search" size="18" maxlength="255"></td>
 					</tr>
 					<tr>
-						<td height="38" align="right">
-						<table border="0" cellspacing="0" cellpadding="0" align="right">
-							<tbody><tr>
-<!-- 
-								<td>&nbsp;</td>
-								<td rowspan="2"><img src="/new/imgs/spacer.gif" width="30" height="1" border="0"></td>
-								<td><img src="/new/imgs/home/email.gif" width="34" height="10" border="0"></td>
-								<td rowspan="2"><img src="/new/imgs/spacer.gif" width="10" height="1" border="0"></td>
-								<td><img src="/new/imgs/home/password.gif" width="63" height="10" border="0"></td>
-								<td rowspan="2"><img src="/new/imgs/spacer.gif" width="10" height="1" border="0"></td>
-								<td>&nbsp;</td>
-								<td rowspan="2"><img src="/new/imgs/spacer.gif" width="30" height="1" border="0"></td>
- -->								<td>&nbsp;</td>
-
-								<td rowspan="2"><img src="/new/imgs/spacer.gif" width="10" height="1" border="0"></td>
-								<td>&nbsp;</td>
-							</tr>
-							<tr>
-<!-- 
-								<td><a href="/account/"><img src="/new/imgs/home/join.gif" width="74" height="20" border="0"></a></td>
-<form action="/account/" method="post">
-<input type="hidden" name="action" value="login">
-								<td><input type="text" name="email" size="10" maxlength="50"></td>
-								<td><input type="password" name="password" size="10" maxlength="50"></td>
-								<td><input type="image" src="/new/imgs/home/login.gif" border="0" value="Login" name="submit"></td>
-</form>
- -->
-<form action="/search/" method="post"></form>
-<input type="hidden" name="action" value="men.comsearch">
-<input type="hidden" name="tableid" value="77">
-<input type="hidden" name="tableid" value="90">
-<input type="hidden" name="tableid" value="91">
-<input type="hidden" name="tableid" value="92">
-<input type="hidden" name="tableid" value="93">
-<input type="hidden" name="tableid" value="94">
-<input type="hidden" name="tableid" value="95">
-<input type="hidden" name="tableid" value="96">
-<input type="hidden" name="tableid" value="97">
-<input type="hidden" name="tableid" value="101">
-<input type="hidden" name="tableid" value="102">
-<input type="hidden" name="tableid" value="104">
-
-								<td><input type="text" name="search" size="10" maxlength="50"></td>
-								<td><input type="image" src="/new/imgs/home/search.gif" border="0"></td>
-
-							</tr>
-						</tbody></table>
+						<td align="center"><img src="/imgs/spacer.gif" width="1" height="4" alt="free mens magazines"></td>
+					</tr>
+					<tr>
+						<td valign="top" height="26"><img src="/imgs/spacer.gif" width="72" height="1" alt="love secrets"><input type="image" src="/imgs/common/search.gif" width="44" height="16" border="0"></td>
+					</tr>
+				</tbody></table>
+			</form>
+</div>
+<div id="googleform" style="visibility: hidden; display: none;">			
+			<form method="get" action="http://www.google.com/custom" target="_blank">
+				<input type="hidden" name="client" value="pub-0817367852387093">
+				<input type="hidden" name="forid" value="1">
+				<input type="hidden" name="ie" value="ISO-8859-1">
+				<input type="hidden" name="oe" value="ISO-8859-1">
+				<input type="hidden" name="cof" value="GALT:#008000;GL:1;DIV:#336699;VLC:663399;AH:center;BGC:FFFFFF;LBGC:336699;ALC:0000FF;LC:0000FF;T:000000;GFNT:0000FF;GIMP:0000FF;FORID:1;">
+				<input type="hidden" name="hl" value="en">
+				<table border="0" cellspacing="0" cellpadding="0">
+					<tbody><tr>
+						<td align="center" colspan="3"><input type="text" name="q" size="18" maxlength="255"></td>
+					</tr>
+					<tr>
+						<td align="center" colspan="3"><img src="/imgs/spacer.gif" width="1" height="4" alt="free mens magazines"></td>
+					</tr>
+					<tr>
+						<td valign="top"><img src="/imgs/Logo_25wht2.gif" width="60" height="26" alt="free online dating"></td><td valign="top"><img src="/imgs/spacer.gif" width="7" height="1"></td><td valign="top" align="right"><input type="image" name="sa" value="Search" src="/imgs/common/search.gif" width="44" height="16" border="0"></td>
+					</tr>
+				</tbody></table>
+			</form>
+</div>
 						</td>
 					</tr>
+
 					<tr>
-						<td background="/new/imgs/home/nav_bot_bg.gif" align="right"><img src="/new/imgs/home/nav_bot_right.gif" width="33" height="21" border="0"></td>
+						<td align="center"><a href="/relationships/shareyourstory/"><img src="/imgs/home/top_callout.gif" width="182" height="70" border="0" alt="love secrets"></a></td>
 					</tr>
 				</tbody></table>
 				</td>
@@ -252,301 +318,263 @@
 		</tbody></table>
 		</td>
 	</tr>
+	<tr>
+		<td><img src="/imgs/global/global_bar.gif" width="918" height="21" alt="free mens magazines"></td>
+	</tr>
 
 	<tr>
 		<td>
 		<table border="0" cellspacing="0" cellpadding="0">
 			<tbody><tr>
-				<td rowspan="3" background="/new/imgs/home/left_bg.gif" valign="top"><img src="/new/imgs/home/left_bg_blk.gif" width="7" height="53" border="0"></td>
-				<td rowspan="32" valign="top" background="/new/imgs/home/sections_bg.gif">
-								<table border="0" cellspacing="0" cellpadding="0">
+				<td valign="top" background="/imgs/common/nav_bg.gif" rowspan="2">
+<table border="0" cellspacing="0" cellpadding="0" width="142">
+	<tbody><tr>
+		<td><img src="/imgs/global/sections.gif" width="142" height="55" alt="men's magazines"></td>
+	</tr>
+	<tr>
+		<td>
+<ul id="nav">
+
+	
+	<li>
+		
+		<a href="/news/" onmouseover="changeImages('news', 'img2on')" onmouseout="changeImages('news', 'sub2off')"><img src="/imgs/nav/news.gif" width="142" height="20" border="0" name="news" alt="news"></a>
+		
+		<ul>
+			<li><a href="/news/latestnews/">LATE BREAKING NEWS</a></li>
+			<li><a href="/news/world/">WORLD NEWS HEADLINES</a></li>
+			<li><a href="/news/photos/">BEST NEWS PHOTOS</a></li>
+			<li><a href="/news/weird/">WEIRD NEWS</a></li>
+			<li><a href="/sports/headlines/">SPORTS HEADLINES</a></li>
+			
+			<li><a href="/sports/stats/676">SPORTS SCORES</a></li>
+			<li><a href="/sports/sportsblog/">BEST DAMN SPORTS BLOG</a></li>
+		</ul>
+	</li>
+	
+
+
+	
+
+
+	<li>
+		
+		<a href="/business/" onmouseover="changeImages('business', 'img3on')" onmouseout="changeImages('business', 'sub3off')"><img src="/imgs/nav/business.gif" width="142" height="20" border="0" name="business" alt="business"></a>
+		
+		<ul>
+			<li><a href="/business/busnews/">NEWS</a></li>
+			<li><a href="/business/infoyouneed/">INFORMATION YOU NEED</a></li>
+			<li><a href="/business/mortgage/">MORTGAGE CENTRAL</a></li>
+			<li><a href="/business/yourmoney/">YOUR MONEY</a></li>
+			<li><a href="/business/creditrating/">YOUR CREDIT RATING</a></li>
+			<li><a href="/business/tools/">FINANCIAL TOOLS</a></li>
+			<li><a href="/business/socialsecurity/">SOCIAL SECURITY</a></li>
+			<li><a href="/business/irs/">THE IRS</a></li>
+			<li><a href="/business/government/">GOVERNMENT RESOURCES</a></li>
+<!-- 
+			<li><a href="/business/planning/">Financial Planning</a></li>
+			<li><a href="/business/bloggers?December_2005">Blogs</a></li> 
+-->
+		</ul>
+	</li>
+
+
+
+
+	<li>
+		
+		<a href="/automotive/" onmouseover="changeImages('automotive', 'img4on')" onmouseout="changeImages('automotive', 'sub4off')"><img src="/imgs/nav/automotive.gif" width="142" height="20" border="0" name="automotive" alt="auto"></a>
+		
+		<ul>
+			<li><a href="/automotive/feature/">FEATURE</a></li>
+			<li><a href="/automotive/testdrive/">TEST DRIVE</a></li>
+			<li><a href="/automotive/dealix/">NEW CARS</a></li>
+			<li><a href="/automotive/ebay/">FOUND ON EBAY</a></li>
+			<li><a href="/automotive/magazines/">MAGAZINES</a></li>
+			<li><a href="/automotive/bloggers">BLOGGERS</a></li>
+			<li><a href="/automotive/rate/">RATE MY RIDE</a></li>
+			<li><a href="/automotive/nightmare/">SERVICE NIGHTMARE</a></li>
+			<li><a href="/automotive/resources/">AUTO RESOURCE CENTER</a></li>
+			<li><a href="/automotive/protips/">TIPS FROM THE PROS</a></li>
+<!-- 
+			<li><a href="#">Auto Finance Center</a></li>
+			<li><a href="#">Auto Parts and Supplies</a></li>
+			<li><a href="#">Automotive Sponsors</a></li>
+ -->
+		</ul>
+	</li>
+
+
+
+	<li>
+		
+		<a href="/health/" onmouseover="changeImages('health', 'img5on')" onmouseout="changeImages('health', 'sub5off')"><img src="/imgs/nav/health.gif" width="142" height="20" border="0" name="health" alt="health"></a>
+		
+		<ul>
+			<li><a href="/health/webmd/">WEBMD</a></li>
+			<li><a href="/health/medical/">MEDICAL NEWS</a></li>
+			<li><a href="/health/exercise/">EXERCISE</a></li>
+			<li><a href="/health/diet/">"D" IS FOR DIET</a></li>
+			<li><a href="/health/prevention/">PREVENTION &amp; WELLNESS</a></li>
+			<li><a href="/health/healthyliving/">HEALTHY LIVING</a></li>
+		</ul>
+	</li>
+
+
+
+	<li>
+		
+		<a href="/women/" onmouseover="changeImages('women', 'img6on')" onmouseout="changeImages('women', 'sub6off')"><img src="/imgs/nav/women.gif" width="142" height="20" border="0" name="women" alt="women"></a>
+		
+		<ul>
+			<li><a href="/women/nakednews/">NAKED NEWS</a></li>
+			<li><a href="/women/runwayready/">RUNWAY READY</a></li>
+			<li><a href="http://www.chrudat.com/hot_college_girl_battle.php" target="_blank">BATTLE OF THE COLLEGE GIRLS</a></li>
+			<li><a href="http://www.okcupid.com/" target="_blank">CHAT</a></li>
+		</ul>
+	</li>
+
+
+
+	<li>
+		
+		<a href="/relationships/" onmouseover="changeImages('relationships', 'img7on')" onmouseout="changeImages('relationships', 'sub7off')"><img src="/imgs/nav/relationships.gif" width="142" height="20" border="0" name="relationships" alt="relationships"></a>
+		
+		<ul>
+			<li><a href="/relationships/icdating/">IMAGE CONSULTANTS</a></li>
+			<li><a href="/relationships/doclove/">DOC LOVE</a></li>
+			<li><a href="/relationships/exgf/">THE EX-GF PROJECT</a></li>
+			<li><a href="/relationships/singularman/">A SINGULAR MAN</a></li>
+<!-- 
+			<li><a href="/relationships/tomarsfromvenus/">TO MARS FROM VENUS</a></li>
+			<li><a href="/relationships/experts/">WHAT THE EXPERTS SAY</a></li>
+ -->
+			<li><a href="/relationships/romance365/">SEX AFTER MARRIAGE</a></li>
+		</ul>
+	</li>
+
+
+
+	<li>
+		
+		<a href="/entertainment/" onmouseover="changeImages('entertainment', 'img8on')" onmouseout="changeImages('entertainment', 'sub8off')"><img src="/imgs/nav/entertainment.gif" width="142" height="20" border="0" name="entertainment" alt="entertainment"></a>
+		
+		<ul>
+			<li><a href="/entertainment/movies/">MOVIE CENTRAL</a></li>
+			<li><a href="/entertainment/dvd/">DVD CENTRAL</a></li>
+			<li><a href="/entertainment/music/">MUSIC CENTRAL</a></li>
+			<li><a href="/entertainment/videogames/">VIDEO GAMERS CENTRAL</a></li>
+			<li><a href="/entertainment/gossip/">INSIDE HOLLYWOOD</a></li>
+			<li><a href="/entertainment/celebblogs/">CELEBRITY BLOGS</a></li>
+			<li><a href="/entertainment/soaps/">SOAP OPERA CENTRAL</a></li>
+			<li><a href="/entertainment/lol/">LAUGHING OUT LOUD</a></li>
+			<li><a href="/entertainment/poker/">ALL THE POKER YOU NEED</a></li>
+			<li><a href="/entertainment/games/">CHALLENGING WORD GAMES</a></li>
+		</ul>
+	</li>
+
+
+
+	<li>
+		
+		<a href="/lifestyle/" onmouseover="changeImages('lifestyle', 'img9on')" onmouseout="changeImages('lifestyle', 'sub9off')"><img src="/imgs/nav/lifestyle.gif" width="142" height="20" border="0" name="lifestyle" alt="lifestyle"></a>
+		
+		<ul>
+			<li><a href="/lifestyle/imageconsultants/">IMAGE CONSULTANTS</a></li>
+			<li><a href="/lifestyle/top10/">TOP 10 LISTS</a></li>
+			<li><a href="/lifestyle/blogs/">BLOGS</a></li>
+			<li><a href="/lifestyle/rotflmao/">ROTFLMAO</a></li>
+			<li><a href="/lifestyle/travel/">TRAVEL</a></li>
+			<li><a href="/lifestyle/toys/">TOYS</a></li>
+			<li><a href="/lifestyle/money/">MONEY</a></li>
+			<li><a href="/lifestyle/homeimprovement/">HOME IMPROVEMENT</a></li>
+			<li><a href="/lifestyle/career/">YOUR CAREER</a></li>
+			<li><a href="/lifestyle/pets/">PETS</a></li>
+			<li><a href="/lifestyle/kids/">KIDS</a></li>
+			<li><a href="/lifestyle/family/">FAMILY</a></li>
+			<li><a href="/lifestyle/entertaining/">ENTERTAINING</a></li>
+		</ul>
+	</li>
+
+
+
+	<li>
+		
+		<a href="/outdoors/" onmouseover="changeImages('outdoors', 'img10on')" onmouseout="changeImages('outdoors', 'sub10off')"><img src="/imgs/nav/outdoors.gif" width="142" height="20" border="0" name="outdoors" alt="outdoors"></a>
+		
+		<ul>
+			<li><a href="/outdoors/huntingnews/">HUNTING NEWS</a></li>
+			<li><a href="/outdoors/hunttheoutdoors/">HUNT THE OUTDOORS</a></li>
+			<li><a href="/outdoors/fishingnews/">FISHING NEWS</a></li>
+		</ul>
+	</li>
+
+
+
+	<li>
+		
+		<a href="/extreme/" onmouseover="changeImages('extreme', 'img11on')" onmouseout="changeImages('extreme', 'sub11off')"><img src="/imgs/nav/extreme.gif" width="142" height="20" border="0" name="extreme" alt="extreme"></a>
+		
+		<ul>
+			<li><a href="/extreme/exnews/">NEWS</a></li>
+<!-- 
+			<li><a href="/extreme/#">TRAVEL PHOTO JOURNAL</a></li>
+ -->
+			<li><a href="/extreme/ingmarsjournal/">INGMAR'S TRAVEL JOURNAL</a></li>
+			<li><a href="/extreme/adventureracing/">ADVENTURE+ULTRA RACING</a></li>
+			<li><a href="/extreme/nofearhere/">NO FEAR HERE!</a></li>
+			<li><a href="/extreme/ultramarathoner/">ULTRAMARATHONER JOURNAL</a></li>
+			<li><a href="/extreme/adventuretravel/">ADVENTURE TRAVEL</a></li>
+		</ul>
+	</li>
+
+
+
+	<li>
+		
+		<a href="/" onmouseover="changeImages('home', 'img1on')" onmouseout="changeImages('home', 'sub1off')"><img src="/imgs/nav/home.gif" width="142" height="20" border="0" name="home" alt="home"></a>
+		
+<!-- 
+		<ul>
+		</ul>
+ -->
+	</li>
+
+</ul>
+		</td>
+	</tr>
+	<tr>
+		<td><img src="/imgs/spacer.gif" width="1" height="15" alt="dating tips"></td>
+	</tr>
+	<tr>
+		<td align="center"><script language="javascript">get_ad('120','600');</script><script language="JavaScript" src="http://ads.richard-group.com/perl/ads/select.pl?s=226&amp;w=120&amp;h=600&amp;r=105844787866353540&amp;j=1"></script></td>
+	</tr>
+</tbody></table>
+
+				</td>
+				<td valign="top">
+				<table border="0" cellspacing="0" cellpadding="0">
 					<tbody><tr>
-						<td><img src="/new/imgs/home/sections.gif" width="160" height="53" border="0"></td>
-					</tr>
-					<tr>
-						<td>
-						<table border="0" cellspacing="0" cellpadding="0" width="160">
+						<td valign="top">
+						<table border="0" cellspacing="0" cellpadding="0">
 							<tbody><tr>
 								<td>
-								<table border="0" cellspacing="2" cellpadding="0" align="center" width="140">
+								<table border="0" cellspacing="0" cellpadding="0">
 									<tbody><tr>
-										<td class="nav_section"><a href="/news/latest" class="nav_section">BREAKING NEWS</a></td>
-									</tr>
-<!-- 
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="/news/latest/">Headlines</a></td>
-									</tr>
- -->
-<!-- 
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="/news/financial/">Financial</a></td>
-									</tr>
- -->
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="/news/world/">World News Headlines</a></td>
-									</tr>
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="/news/photos/">Best News Photos</a></td>
-									</tr>
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="/news/weird/">Weird News</a></td>
-									</tr>
-							<tr>
-								<td><img src="/new/imgs/spacer.gif" width="1" height="5" border="0"></td>
-							</tr>
-									<tr>
-										<td class="nav_section"><a href="/sports/headlines/" class="nav_section">SPORTS</a></td>
-									</tr>
-<!-- 
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="/sports/headlines/">Headlines</a></td>
-									</tr>
- -->
-<!-- 
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="/sports/nascar/">NASCAR</a></td>
-									</tr>
- -->
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="/sports/stats/327">Scores</a></td>
-									</tr>
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="/sports/images/">Best Sports Photos</a></td>
-									</tr>
-							<tr>
-								<td><img src="/new/imgs/spacer.gif" width="1" height="5" border="0"></td>
-							</tr>
-									<tr>
-										<td class="nav_section"><a href="/entertainment/" class="nav_section">ENTERTAINMENT</a></td>
-									</tr>
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="/entertainment/sly/">Sly</a></td>
-									</tr>
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="/entertainment/charlie/">Charlie Daniels</a></td>
-									</tr>
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="/entertainment/amanda/">On The Edge</a></td>
-									</tr>
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="/entertainment/gossip/">Celebrity Gossip</a></td>
-									</tr>
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="/entertainment/tabloid/110">Tabloid Tuesday</a></td>
-									</tr>
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="/entertainment/videogames/">Play Video Games</a></td>
-									</tr>
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="/entertainment/soapopera/">Soap Opera</a></td>
-									</tr>
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="/entertainment/movies/">Movie Reviews</a></td>
-									</tr>
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="/entertainment/poker/">Poker</a></td>
-									</tr>
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="/entertainment/music/">Music</a></td>
-									</tr>
-<!-- 
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="/entertainment/commercials/">Commercials</a></td>
-									</tr>
- -->
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="/entertainment/comics/">Comics</a></td>
-									</tr>
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="/entertainment/humor/">Humor</a></td>
-									</tr>
-<!-- 
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="/entertainment/puzzles/">Puzzles</a></td>
-									</tr>
- -->
-<!-- 
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="/entertainment/ironchef/">The Iron Chef</a></td>
-									</tr>
- -->
-<!-- 
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="/entertainment/bloggers/">Bloggers</a></td>
-									</tr>
- -->
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="/entertainment/hobbies/">Hobbies</a></td>
-									</tr>
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="/entertainment/chance/">Games of Chance</a></td>
-									</tr>
-							<tr>
-								<td><img src="/new/imgs/spacer.gif" width="1" height="5" border="0"></td>
-							</tr>
-									<tr>
-										<td class="nav_section"><a href="/yourlife/" class="nav_section">YOUR LIFE</a></td>
-									</tr>
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="/yourlife/imageconsultants/?subsection=style">Style and Image</a></td>
-									</tr>
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="/yourlife/evilwhiteguy/">Evil White Guy</a></td>
-									</tr>
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="/yourlife/atf/">ATF</a></td>
-									</tr>
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="/yourlife/travel/">Travel</a></td>
-									</tr>
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="/yourlife/outdoors/">Great Outdoors</a></td>
-									</tr>
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="/yourlife/cooking/">Cooking</a></td>
-									</tr>
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="/yourlife/parenting/">Parenting</a></td>
-									</tr>
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="/yourlife/finances/">Finances</a></td>
-									</tr>
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="/yourlife/homeimp/">Home Improvement</a></td>
-									</tr>
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="/yourlife/doclove/">Doc Love</a></td>
-									</tr>
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="/yourlife/jobs/">Jobs</a></td>
-									</tr>
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="/yourlife/pets/">Pets</a></td>
-									</tr>
-							<tr>
-								<td><img src="/new/imgs/spacer.gif" width="1" height="5" border="0"></td>
-							</tr>
-									<tr>
-										<td class="nav_section"><a href="/women/girlnextdoor/" class="nav_section">WOMEN</a></td>
-									</tr>
-<!-- 
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="/women/girlnextdoor/">The Girl Next Door</a></td>
-									</tr>
- -->
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="/women/gallery/">Victoria's Secret</a></td>
-									</tr>
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="http://singles.men.com/" target="_blank">Personals</a></td>
-									</tr>
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="/yourlife/imageconsultants/?subsection=dating">Dating</a></td>
-									</tr>
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="/yourlife/imageconsultants/quiz/">Test Your Dating IQ</a></td>
-									</tr>
-<!-- 
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="/women/gallery/">Victoria's Secret</a><br>&nbsp;&nbsp;&nbsp;&nbsp;<a class="smaller" href="/women/gallery/">Fashion Show</a></td>
-									</tr>
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="/women/emergencygifts/">Emergency Gifts</a></td>
-									</tr>
- -->
-							<tr>
-								<td><img src="/new/imgs/spacer.gif" width="1" height="5" border="0"></td>
-							</tr>
-									<tr>
-										<td class="nav_section"><a href="/automotive/" class="nav_section">AUTOMOTIVE</a></td>
-									</tr>
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="/automotive/testdrive/">Test Drive</a></td>
-									</tr>
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="/automotive/ebay/">eBay</a></td>
-									</tr>
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="/automotive/newcars/">New Cars</a></td>
-									</tr>
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="/automotive/magazines/">Magazines Preview</a></td>
-									</tr>
-							<tr>
-								<td><img src="/new/imgs/spacer.gif" width="1" height="5" border="0"></td>
-							</tr>
-									<tr>
-										<td class="nav_section"><a href="/health/" class="nav_section">HEALTH</a></td>
-									</tr>
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="/health/medical/">Medical News</a></td>
-									</tr>
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="/health/webmd/">WebMD</a></td>
-									</tr>
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="/health/exercisetips/">Exercise Tips</a></td>
-									</tr>
-							<tr>
-								<td><img src="/new/imgs/spacer.gif" width="1" height="5" border="0"></td>
-							</tr>
-									<tr>
-										<td class="nav_section"><a href="/toys/" class="nav_section">TOYS</a></td>
-									</tr>
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="/toys/gadgets/">Gadgets &amp; Technology</a></td>
-									</tr>
-							<tr>
-								<td><img src="/new/imgs/spacer.gif" width="1" height="5" border="0"></td>
-							</tr>
-									<tr>
-										<td class="nav_section"><a href="http://www.wheremenshop.com/" target="_blank" class="nav_section">STORE</a></td>
-									</tr>
-<!-- 
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="http://www.wheremenshop.com/" target="_blank">Specials For Men</a></td>
-									</tr>
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="http://www.wheremenshop.com/" target="_blank">Special For Her</a></td>
-									</tr>
-									<tr>
-										<td>&nbsp;&nbsp;<a class="smaller" href="http://www.wheremenshop.com/" target="_blank">Classifieds By Users</a></td>
-									</tr>
- -->
-							<tr>
-								<td><img src="/new/imgs/spacer.gif" width="1" height="5" border="0"></td>
-							</tr>
-									<tr>
-										<td class="nav_section"><a href="/home/" class="nav_section">HOME</a></td>
+										<td><img src="/imgs/global/head.gif" width="286" height="39" alt="men's magazines"></td>
+										<td><img src="/imgs/global/shadow.gif" width="307" height="39" alt="dating tips"></td>
 									</tr>
 								</tbody></table>
 								</td>
 							</tr>
+							<!-- Begin main section -->
 							<tr>
-								<td><img src="/new/imgs/spacer.gif" width="1" height="5" border="0"></td>
-							</tr>
-							<tr>
-								<td><script language="javascript">get_ad('160','600');</script><script language="JavaScript" src="http://ads.richard-group.com/perl/ads/select.pl?s=226&amp;w=160&amp;h=600&amp;r=8286579622977630&amp;j=1"></script></td>
-							</tr>
-						</tbody></table>
-						</td>
-					</tr>
-				</tbody></table>
-
-				</td>
-				<td bgcolor="#000099" rowspan="3"><img src="/new/imgs/spacer.gif" width="1" height="1" border="0"></td>
-				<td valign="top" rowspan="2" width="450" bgcolor="#ffffff">
-				<table border="0" cellspacing="0" cellpadding="0">
-					<tbody><tr>
-						<td><img src="/new/imgs/motif/head_about.gif" width="450" height="53" border="0"></td>
-					</tr>
-					<tr>
-						<td>
-						<table border="0" cellspacing="0" cellpadding="16">
-							<tbody><tr>
 								<td>
-<span class="headline">Men.com Privacy Policy</span><br><br>
-			<p>
+									<table border="0" cellspacing="0" cellpadding="15" width="100%">
+										<tbody><tr>
+											<td>
+											<span class="headline">Men.com Privacy Policy</span><br><br>
+														<p>
 				Thank you for visiting Men.com. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used on this site. The Men.com web site is governed by this Privacy Notice. 
 			</p><p>
 				<b>The Information We Collect</b> 
@@ -607,229 +635,118 @@
 				<b>How to Contact Us</b> 
 			</p><p>
 				If you have any questions or concerns about the Men.com online policy for this site or its implementation you may contact us at <a href="mailto:Admin@Men.com">Admin@Men.com</a>.
-								</p></td>
+											</p></td>
+										</tr>
+									</tbody></table>
+								</td>
+							</tr>
+							<!-- End Main Section -->
+							<tr>
+								<td><img src="/imgs/spacer.gif" width="1" height="15" alt="free chat"></td>
+							</tr>
+							<tr>
+								<td align="center"><hr color="#999999" width="90%"></td>
+							</tr>
+							<tr>
+								<td align="center">
+																	<table border="0" cellspacing="5" cellpadding="0">
+									<tbody><tr>
+										<td>
+<!-- 
+										<a href="/home/" class="footer">Home</a> | 
+ -->
+<!-- 
+										<a href="/account/" class="footer">Account</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+ -->
+										<a href="/terms/" class="footer">Terms and Conditions</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+										<a href="/privacy/" class="footer">Privacy</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+										<a href="/service/" class="footer">Customer Service</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+										<a href="/advertise/" class="footer">Advertise</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+										<a href="/press/" class="footer">Press</a><!--  | 
+
+										<a href="/sitemap/" class="footer">Site Map</a>
+ -->
+ 										<br><br>
+ 										</td>
+									</tr>
+								</tbody></table>
+
+								</td>
 							</tr>
 						</tbody></table>
 						</td>
-					</tr>
-				</tbody></table>
-				</td>
-				<td valign="top" background="/new/imgs/home/shadow_bg.gif">
-				<table border="0" cellspacing="0" cellpadding="0">
-					<tbody><tr>
-						<td><script language="javascript">get_ad('300','250');</script><script language="JavaScript" src="http://ads.richard-group.com/perl/ads/select.pl?s=226&amp;w=300&amp;h=250&amp;r=8286579622977630&amp;j=1"></script></td>
-					</tr>
-					<tr>
 						<td valign="top">
-						<table border="0" cellspacing="0" cellpadding="0" width="275">
+													<table border="0" cellspacing="0" cellpadding="0">
 							<tbody><tr>
-								<td rowspan="2"><img src="/new/imgs/spacer.gif" width="15" height="1" border="0"></td>
-								<td><img src="/new/imgs/spacer.gif" width="1" height="15" border="0"></td>
+								<td><img src="/imgs/common/sidebar_shadow.gif" width="182" height="15" alt="men's magazines"></td>
 							</tr>
 							<tr>
-								<td>
-															<table summary="" border="0" cellspacing="0" cellpadding="0">
+								<td><iframe src="/cgi-bin/stock_fetcher.pl?v=2" height="215" width="182" scrolling="no" frameborder="0"></iframe></td>
+							</tr>
+							<tr>
+								<td><img src="/imgs/news/sidebar_weather.gif" alt="dating tips" width="183" height="29" border="0"></td>
+							</tr>
+							<tr>
+								<td align="center" bgcolor="#F5F5F5">
+								<table cellpadding="0" cellspacing="0">
+									<tbody><tr>
+										<td align="center" width="120">
+											<a href="http://www.weather.com?par=internal&amp;code=1012554448&amp;site=logo&amp;promo=english"><img border="0" src="/imgs/news/weatherchannel.gif" alt="free chat"></a>
+										</td>
+									</tr>
+									<tr>
+										<td align="center" width="120">
+											<form target="_blank" method="post" action="http://www.weather.com/cgi-bin/uncgi/zip_city_search.cgi?par=internal&amp;code=1012554448&amp;site=logo&amp;promo=english">
+											<table cellpadding="0" cellspacing="0" border="0">
+												<tbody><tr>
+													<td align="center" width="120" colspan="2" class="weatherchannel">Enter city or US ZIP Code</td>
+												</tr>
+												<tr>
+													<td width="40" align="left" valign="bottom">
+														<input name="destination" type="text" size="8" value="" style="width: 100px">
+													</td>
+													<td width="20" align="left" valign="bottom">
+														<input type="image" src="http://image.weather.com/pics/button_go.gif" width="26" height="23" border="0" alt="go!" value="Go City">
+													</td>
+												</tr>
+											</tbody></table>
+											</form>
+										</td>
+									</tr>
+								</tbody></table>
+								</td>
+							</tr>
+							<tr>
+								<td><img src="/imgs/common/sidebar_separator.gif" width="182" height="7" alt="love secrets"></td>
+							</tr>
+							<tr>
+								<td><a href="/lifestyle/toys/"><img src="/imgs/lifestyle/sidebar_toys.gif" alt="free mens magazines" width="183" height="79" border="0"></a></td>
+							</tr>
+							<tr>
+								<td><img src="/imgs/common/sidebar_separator.gif" width="182" height="7" alt="love secrets"></td>
+							</tr>
+							<tr>
+								<td><a href="/women/runwayready/"><img src="/imgs/relationships/sidebar_runway.gif" alt="sidebar_runway.gif" width="183" height="117" border="0"></a></td>
+							</tr>
+							<tr>
+								<td><img src="/imgs/common/sidebar_separator.gif" width="182" height="7" alt="free mens magazines"></td>
+							</tr>
+							<tr>
+								<td><a href="/entertainment/gossip/jossip/"><img src="/imgs/entertainment/sidebar_jossip.gif" width="182" height="50" border="0" alt="free online dating"></a></td>
+							</tr>
+						</tbody></table>
+						<table border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" width="100%">
 							<tbody><tr>
-								<td>
-								<table border="0" cellspacing="0" cellpadding="0">
-																<tbody><tr>
-								<td class="smaller">
-	<script type="text/javascript">
-		<!--
-		var imageLoop = new Array(
-				
-					'/new/imgs/jeter1.jpg',
-					'/new/imgs/jeter2.jpg',
-					'/new/imgs/jeter3.jpg'
-				);
-
-		var index = -1;
-		function switchImage() {
-			++index;
-			if(index >= imageLoop.length) {
-				index = 0;
-			}
-			document.getElementById('homeFlash').getElementsByTagName('img')[0].setAttribute('src', imageLoop[index]);
-		}
-
-		if(setInterval) {
-			setInterval(switchImage, 3000);
-		}
-		document.addEventListener('onload', switchImage);
-
-		-->
-	</script>
-								<table border="0" cellspacing="0" cellpadding="1" align="left">
-									<tbody><tr>
-										<td colspan="2"><img src="/new/imgs/spacer.gif" width="1" height="4" border="0"></td>
-									</tr>
-									<tr>
-										<td bgcolor="#000099"><a href="http://store.speakingofsoaps.com/derekjeter.html" target="_blank"><div id="homeFlash"><img src="/new/imgs/jeter1.jpg" width="150" border="0"></div></a></td>
-										<td><img src="/new/imgs/spacer.gif" width="10" height="1" border="0"></td>
-									</tr>
-									<tr>
-										<td colspan="2"><img src="/new/imgs/spacer.gif" width="1" height="5" border="0"></td>
-									</tr>
-								</tbody></table>
-								<span class="headline">Derek Jeter Jersey</span><br>
-								We have secured a limited number of autographed Derek Jeter jerseys. <a href="http://store.speakingofsoaps.com/derekjeter.html" target="_blank">Click here for more information.</a><br>
-								</td>
+								<td><img src="/imgs/spacer.gif" width="1" height="15" alt="meet girls"></td>
 							</tr>
 							<tr>
-								<td><img src="/new/imgs/spacer.gif" width="1" height="8" border="0"></td>
-							</tr>
-							<tr>
-								<td bgcolor="#999999"><img src="/new/imgs/spacer.gif" width="1" height="1" border="0"></td>
-							</tr>
-							<tr>
-								<td><img src="/new/imgs/spacer.gif" width="1" height="8" border="0"></td>
-							</tr>
-
-																<tr>
-								<td class="smaller">
-								<table border="0" cellspacing="0" cellpadding="1" align="left">
-									<tbody><tr>
-										<td colspan="2"><img src="/new/imgs/spacer.gif" width="1" height="4" border="0"></td>
-									</tr>
-									<tr>
-										<td bgcolor="#000099"><a href="/women/gallery/"><img src="/new/imgs/vs_head.jpg" width="150" border="0"></a></td>
-										<td><img src="/new/imgs/spacer.gif" width="10" height="1" border="0"></td>
-									</tr>
-									<tr>
-										<td colspan="2"><img src="/new/imgs/spacer.gif" width="1" height="5" border="0"></td>
-									</tr>
-								</tbody></table>
-								<span class="headline">Victoria's Secret</span><br>
-								See images from their recent fashion show.<br><br><a href="/women/gallery/">Yummy...</a><br>
-								</td>
-							</tr>
-							<tr>
-								<td><img src="/new/imgs/spacer.gif" width="1" height="8" border="0"></td>
-							</tr>
-							<tr>
-								<td bgcolor="#999999"><img src="/new/imgs/spacer.gif" width="1" height="1" border="0"></td>
-							</tr>
-							<tr>
-								<td><img src="/new/imgs/spacer.gif" width="1" height="8" border="0"></td>
-							</tr>
-
-																<tr>
-								<td align="center">
-<script language="javascript"><!--
-function openPoker(cn) {pipwin=open("","pipwin","scrollbars=no,width=715,height=510").document.write("<html><title>Texas Holdem</title><frameset rows=* cols=* border=0 frameborder=0><frame noresize scrolling=no src=http://www.pluginpoker.com/popup/lobby.asp?c="+cn+"></frameset></html>");}
---></script>
-
-								<a href="javascript:void(0)" target="_top" onclick="openPoker(256)"><img src="/new/imgs/poker.gif" alt="" width="220" height="141" border="0"></a></td>
-							</tr>
-							<tr>
-								<td><img src="/new/imgs/spacer.gif" width="1" height="8" border="0"></td>
-							</tr>
-							<tr>
-								<td bgcolor="#999999"><img src="/new/imgs/spacer.gif" width="1" height="1" border="0"></td>
-							</tr>
-							<tr>
-								<td><img src="/new/imgs/spacer.gif" width="1" height="8" border="0"></td>
-							</tr>
-
-																<tr>
-								<td><span class="headline">Type In YOUR Zip Code</span><br><script src="http://voap.weather.com/weather/oap/22201?template=GOLFH&amp;par=null&amp;unit=0&amp;key=c804f9aa3c39931a982888b18abf8831"></script>
-								</td>
-							</tr>
-							<tr>
-								<td><img src="/new/imgs/spacer.gif" width="1" height="8" border="0"></td>
-							</tr>
-							<tr>
-								<td bgcolor="#999999"><img src="/new/imgs/spacer.gif" width="1" height="1" border="0"></td>
-							</tr>
-							<tr>
-								<td><img src="/new/imgs/spacer.gif" width="1" height="8" border="0"></td>
-							</tr>
-
-																<tr>
-								<td align="center">
-								<a href="http://www.ricolathanksamillion.com/" target="_blank"><img src="/new/imgs/ricola.gif" alt="" width="234" height="192" border="0"></a>
-								</td>
-							</tr>
-							<tr>
-								<td><img src="/new/imgs/spacer.gif" width="1" height="8" border="0"></td>
-							</tr>
-							<tr>
-								<td bgcolor="#999999"><img src="/new/imgs/spacer.gif" width="1" height="1" border="0"></td>
-							</tr>
-							<tr>
-								<td><img src="/new/imgs/spacer.gif" width="1" height="8" border="0"></td>
-							</tr>
-
-								</tbody></table>
-								</td>
+								<td align="center"><script language="javascript">get_ad('160','600');</script><script language="JavaScript" src="http://ads.richard-group.com/perl/ads/select.pl?s=226&amp;w=160&amp;h=600&amp;r=105844787866353540&amp;j=1"></script></td>
 							</tr>
 						</tbody></table>
 
-								</td>
-							</tr>
-						</tbody></table>
 						</td>
 					</tr>
 				</tbody></table>				
-				</td>
-			</tr>
-			<tr>
-				<td valign="bottom" background="/new/imgs/home/shadow_bg.gif"><img src="/new/imgs/home/shadow_bot.gif" alt="" width="300" height="297"></td>
-			</tr>
-						<tr>
-				<td colspan="2" bgcolor="#ffffff" valign="bottom" height="90">
-				<br><br>
-				<table border="0" cellspacing="0" cellpadding="0" align="center">
-					<tbody><tr>
-						<td><img src="/new/imgs/home/footer_left.gif" width="18" height="22" border="0"></td>
-						<td>
-						<table border="0" cellspacing="0" cellpadding="0">
-							<tbody><tr>
-								<td bgcolor="#000099"><img src="/new/imgs/spacer.gif" width="1" height="1" border="0"></td>
-							</tr>
-							<tr>
-								<td bgcolor="#000000">
-								<table border="0" cellspacing="0" cellpadding="2" height="20">
-									<tbody><tr>
-										<td align="center"><a href="/home/" class="footer">Home</a></td>
-										<td align="center"><img src="/new/imgs/spacer.gif" width="10" height="1" border="0"></td>
-<!-- 
-										<td align="center"><a href="/about/" class="footer">About</a></td>
-										<td align="center"><img src="/new/imgs/spacer.gif" width="10" height="1" border="0"></td>
- -->
-										<td align="center"><a href="/account/" class="footer">Your Account</a></td>
-										<td align="center"><img src="/new/imgs/spacer.gif" width="10" height="1" border="0"></td>
-										<td align="center"><a href="/terms/" class="footer">Terms and Conditions</a></td>
-										<td align="center"><img src="/new/imgs/spacer.gif" width="10" height="1" border="0"></td>
-										<td align="center"><a href="/privacy/" class="footer">Privacy Policy</a></td>
-										<td align="center"><img src="/new/imgs/spacer.gif" width="10" height="1" border="0"></td>
-										<td align="center"><a href="/service/" class="footer">Customer Service</a></td>
-										<td align="center"><img src="/new/imgs/spacer.gif" width="10" height="1" border="0"></td>
-										<td align="center"><a href="/advertise/" class="footer">Advertise with Us</a></td>
-										<td align="center"><img src="/new/imgs/spacer.gif" width="10" height="1" border="0"></td>
-										<td align="center"><a href="/press/" class="footer">Press Releases</a></td>
-										<td align="center"><img src="/new/imgs/spacer.gif" width="10" height="1" border="0"></td>
-										<td align="center"><a href="/sitemap/" class="footer">Site Map</a></td>
-<!-- 
-										<td align="center"><img src="/new/imgs/spacer.gif" width="10" height="1" border="0"></td>
-										<td align="center"><a href="/help/" class="footer">Help</a></td>
- -->
-									</tr>
-								</tbody></table>
-								</td>
-							</tr>
-							<tr>
-								<td bgcolor="#000099"><img src="/new/imgs/spacer.gif" width="1" height="1" border="0"></td>
-							</tr>
-						</tbody></table>
-						</td>
-						<td><img src="/new/imgs/home/footer_right.gif" width="18" height="22" border="0"></td>
-					</tr>
-					<tr>
-						<td colspan="3" align="center" height="25">Copyright ©2005, Men.com Magazine, LLC</td>
-					</tr>
-				</tbody></table>
-				<br><br>
 				</td>
 			</tr>
 
@@ -837,6 +754,7 @@ function openPoker(cn) {pipwin=open("","pipwin","scrollbars=no,width=715,height=
 		</td>
 	</tr>
 </tbody></table>
+
 
 
 
