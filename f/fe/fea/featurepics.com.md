@@ -1,19 +1,17 @@
-> *The following text is extracted and transformed from the featurepics.com privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227091821id_/http%3A//featurepics.com/HelpCenter/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the featurepics.com privacy policy that was archived on 2006-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060325204548id_/http%3A//featurepics.com/HelpCenter/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # FeaturePics.com - stock photography : royalty free, rights-managed photos. Privacy Policy.
 
 FeaturePics is a site for buying and selling Stock Photos, and giving recognition to the excellent group of FeaturePics Photographers. It is open to the public. 
 
-We are focused and constantly improving on the following segments: 
+We are focused and constantly improving image viewing in the following segments: 
 
-* construction, including architecture 
-* interior design 
-* health care, including life sciences and fitness 
-* sports and recreation 
-* photos taken of youth ("Gen-Y") and by youth 
-* photos taken of seniors and by seniors 
-* energy, including renewables 
-* ecology, including green marketing
+* construction images, including architecture 
+* sports, recreation and action shots 
+* photos taken of the young ("Gen-Y") and by young photographers 
+* photos taken of seniors and by older photographers 
+* energy, including renewables and sustainable subjects 
+* ecology, including green marketing and construction
 
 | 
 
