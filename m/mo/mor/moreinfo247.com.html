@@ -1,73 +1,557 @@
-<!--The following is the downloaded HTML source of the moreinfo247.com privacy policy that was archived on 2004-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040604205731id_/http%3A//www.carsonsi.com/Info/Privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the moreinfo247.com privacy policy that was archived on 2006-03-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060325132340id_/https%3A//www.moreinfo247.com/8763679/PrivacyPolicy.vstore) for the most accurate reproduction.-->
 
 <html><head>
-		<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
-		<meta name="generator" content="Adobe GoLive 4">
-		<title>Privacy Policy</title>
-		<script language="JavaScript1.2"><!--
-var SFIID = location.search.substring(1,11);
-		if (SFIID > 0) {
-document.cookie = "SFIID=" + SFIID + ";";
+    <link rel="SHORTCUT ICON" href="/favicon.ico">
+    <title>Privacy Policy</title>
+	<link rel="stylesheet" type="text/css" name="SFI Style" href="/css/vstore.css">
+
+<script type="text/javascript" language="JavaScript">
+<!--
+  function OpenWin(Loc, Width, Height) {
+ 	var WinInfo =
+ 	"toolbar=no,scrollbars=yes,directories=no,resizable=yes,menubar=no,width=" +
+  	Width + ",height=" + Height
+ 	wPageWindow = window.open(Loc, "wImageWindow", WinInfo);
+  	wPageWindow.focus();
+  }
+
+// initialize some global vars
+var xCoord, yCoord, br, ver;
+
+
+// very basic check for browser type and version
+if (navigator.appName == "Netscape") {
+	br="ns";
+}
+ver = navigator.appVersion.substring(0,1);
+
+// function to make tool tip visible 
+// lyr is NOT an object
+
+function rollOn(lyr) {
+	// if it's a netscape browser and not over version 4
+    if (br == "ns" && ver <= 4) {
+		lyr = document.layers[lyr];
+		lyr.position='absolute';
+		lyr.left = xCoord+5;
+		lyr.top = yCoord+5;
+		lyr.visibility = 'visible';
+    } else {
+    	lyr = document.getElementById(lyr);
+		lyr.style.position='absolute';
+		lyr.style.left = xCoord+5;
+		lyr.style.top = yCoord+5;
+		lyr.style.visibility = 'visible';
+    }
 }
 
-function ReadCookie (cookiename) {
-	var numOfCookies = document.cookie.length;
-	var nameOfCookie = cookiename + "=";
-	var cookieLen = nameOfCookie.length;
-	var x = 0;
-	while (x <= numOfCookies) {
-		var y = (x + cookieLen);
-		if (document.cookie.substring(x, y) == nameOfCookie)
-			return(extractCookieValue(y));
-		x = document.cookie.indexOf(" ", x) + 1;
-		if (x == 0)
-			break;
+// function to make tool tip hidden
+// lyr is NOT an object
+
+function rollOut(lyr) {
+	if(br == "ns" && ver <= 4) { 		
+		lyr = document.layers[lyr];
+		lyr.visibility = 'hidden';
+	} else {
+		lyr = document.getElementById(lyr);
+		lyr.style.visibility='hidden';
 	}
-	return "U";
 }
 
-function extractCookieValue (val) {
-	if ((endOfCookie = document.cookie.indexOf(";", val)) == -1) {
-		endOfCookie = document.cookie.length;
+// this code just tracks the mouse coordinates
+// need these so we know where to pop up the tool tips
+
+function checkwhere(e) {
+	// if netscape 4.x
+	if (document.layers){
+        xCoord = e.x;
+        yCoord = e.y;
 	}
-	return unescape(document.cookie.substring(val,endOfCookie));
+	// if IE 
+	        else if (document.all){
+	        xCoord = event.clientX;
+	        yCoord = event.clientY;
+	}
+	// this catches NS6 & IE 5+
+        else if (document.getElementById){
+        xCoord = e.clientX;
+        yCoord = e.clientY;
+	}
 }
 
-function Certify(URL) {
+// start tracking mouse move events
+document.onmousemove = checkwhere;
+if(document.captureEvents) {document.captureEvents(Event.MOUSEMOVE);}
 
-  popupWin = window.open(URL, 'Participant', 'width=400,height=350,menubar=no,resizable=yes,scrollbars=yes')
-  window.top.name = 'opener';
-
+function popup1(filename){
+window.open(filename, "","height=225,width=400,top=0,left=0,location=no,menubar=no,resizable=no,scrollbars=no,status=no,titlebar=no,toolbar=no,directories=no");
 }
-// -->
-		</script>
-	</head>
+ 
+// end -->
+</script>
+<script language="JavaScript">
+<!--begin
+ 
+function popup2(filename){
+window.open(filename, "","height=280,width=400,top=0,left=0,location=no,menubar=no,resizable=no,scrollbars=no,status=no,titlebar=no,toolbar=no,directories=no");
+}
+ 
+// end -->
+</script>
+<script language="JavaScript">
+<!--begin
+ 
+function popup3(filename){
+window.open(filename, "","height=500,width=700,top=0,left=0,location=no,menubar=no,resizable=yes,scrollbars=yes,status=no,titlebar=no,toolbar=no,directories=no");
+}
+ 
+// end -->
+</script>
+<script language="JavaScript">
+<!--begin
+ 
+function popup4(filename){
+window.open(filename, "","height=500,width=600,top=0,left=0,location=no,menubar=yes,resizable=yes,scrollbars=yes,status=no,titlebar=no,toolbar=yes,directories=no");
+}
+ 
+// end -->
+</script>
+<script>
+<!--
+// gets current date and converts it
+function MakeArray(n) {
+        this.length = n
+        return this
+}
+monthNames = new MakeArray(12)
+monthNames[1] = "January"
+monthNames[2] = "February"
+monthNames[3] = "March"
+monthNames[4] = "April"
+monthNames[5] = "May"
+monthNames[6] = "June"
+monthNames[7] = "July"
+monthNames[8] = "August"
+monthNames[9] = "September"
+monthNames[10] = "October"
+monthNames[11] = "November"
+monthNames[12] = "December"
+ 
 
-	<body bgcolor="white" vlink="#663300" link="#000066">
-		<div align="center">
-			<p><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="+3" color="#000066"><b>Privacy Policy</b></font></p>
-		</div>
-		<blockquote>
-			<p><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b><a href="http://www.carsonsi.com">Carson Services, Inc.</a></b> holds the privacy and security of our site visitors in the highest regard. The following information explains what kind of information is gathered on our site and how that information is used.</font></p>
-			<p><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>What's collected and what's not?</b><br>
-					You can visit our site without telling us who you are or revealing any personal information. While IP addresses (the Internet address of a computer) are logged to track a user's session, the user remains anonymous. Tracking IP addresses gives us an idea of which parts of our site users are visiting and how long they spend there. We do not link IP addresses to anything personally identifiable. This means that a user's session is tracked, but the user is anonymous. The user's browser also lets us know the type of computer and operating system being used.</font></p>
-			<p><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">We capture the email addresses of only those who have purchased products from us, and those who sign up for one or more of our mailing lists. </font></p>
-			<p><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>How is email information used?</b><br>
-					Email addresses are used to send you information that you requested or to confirm orders only. </font></p>
-			<p><font color="#cc0000" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>We NEVER sell, rent, or loan our email lists to outside firms. Period!</b><br>
-				</font></p>
-			<p><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>How do I remove my name from mailing lists to which I previously subscribed?</b><br>
-					Simply follow the simple removal directions always provided at the bottom of the newsletter you received from us.</font></p>
-			<p><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Is supplied credit card information retained?</b><br>
-					We retain this information for a period of time to allow for the possibility of a credit being posted to your credit card for a product being returned.</font></p>
-			<p><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>What about phone and fax numbers?</b><br>
-					We request a phone and/or fax number on order forms in case we need to contact you about your order. However, this information is entered into our personal customer database only. We NEVER sell, rent, or loan our list of customer fax or phone numbers. Nor any other information about customers.</font></p>
-			<div align="center">
-				<p><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="-2">©2001 Carson Services, Inc.</font></p>
-			</div>
-		</blockquote>
+function customDateString(oneDate) {
+       
+        var theMonth = monthNames[oneDate.getMonth() + 1]
+        var theYear = 2005
+        return theMonth + " " + oneDate.getDate() + ", " + theYear
+}
+
+-->                                     
+</script>
+
+  </head>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table border="0" width="100%" cellspacing="0" cellpadding="0" align="center">
+<tbody><tr>
+  <td colspan="3">
+
+
+
+
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tbody><tr background="/Images/Headers/h_vstore_bg.jpg">
+    <td align="left" background="/Images/Headers/h_vstore_bg.jpg">
+      <img src="/Images/Headers/h_vstore_left.jpg" border="0"> 
+    </td>
+    <td align="right" background="/Images/Headers/h_vstore_bg.jpg">
+      <img src="/Images/Headers/h_vstore_right.gif" border="0">
+    </td>
+    <td align="right" valign="top">
+
+    </td>
+  </tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+  <td width="150" valign="top" align="left">
+    
+
+
+	<div class="menu">
+      <table width="150" border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+          <td align="left" valign="top"><img src="/Images/Headers/h_vstore_tile_menu.gif" width="150" height="16"></td>
+        </tr>
+        <tr>
+          <td align="center" valign="top" background="/Images/Tiles/bg_vstore_tile.gif" bgcolor="#FFFFFF"> 
+            <table width="148" border="0" align="center" cellpadding="2" cellspacing="1" bordercolor="#FFFFFF">
+              <tbody><tr><td><a href="/8763679/showIndex.vstore">HOME</a></td></tr>
+
+              <tr><td bgcolor="#537FA9">DEPARTMENTS</td> </tr>
+              <tr><td class="bg2"><a href="/8763679/Department.vstore?id=37">&nbsp;• CLOSEOUTS</a></td></tr>
+              <tr><td class="bg2"><a href="/8763679/Department.vstore?id=185">&nbsp;• BOOKS</a></td></tr>
+              <tr><td class="bg2"><a href="/8763679/Department.vstore?id=191">&nbsp;• COFFEE &amp; TEA</a></td></tr>
+              <tr><td class="bg2"><a href="/8763679/Item.vstore?id=14">&nbsp;• IAHBE</a></td></tr>
+              <tr><td class="bg2"><a href="/8763679/Department.vstore?id=35">&nbsp;• MAGAZINES</a></td></tr>
+              <tr><td class="bg2"><a href="/8763679/Department.vstore?id=184">&nbsp;• BUSINESS RESOURCES</a></td></tr>
+              <tr><td class="bg2"><a href="/8763679/Department.vstore?id=32">&nbsp;• NATURAL CLEANERS</a></td></tr>
+              <tr><td class="bg2"><a href="/8763679/Department.vstore?id=189">&nbsp;• PERSONAL CARE</a></td></tr>
+              <tr><td class="bg2"><a href="/8763679/Department.vstore?id=190">&nbsp;• PET CARE</a></td></tr>
+              <tr><td class="bg2"><a href="/8763679/Department.vstore?id=33">&nbsp;• TELECOMMUNICATIONS</a></td></tr>
+              <tr><td class="bg2"><a href="/8763679/Department.vstore?id=34">&nbsp;• WELLNESS/NUTRITION</a></td></tr>
+	      <tr><td class="bg2"><a href="/8763679/RefundPolicy.vstore">&nbsp;• REFUND POLICY</a></td></tr>
+
+              <tr><td><a href="/8763679/HelpDesk.vstore">HELP DESK</a></td></tr>
+              <tr><td><a href="/8763679/Contact.vstore">CONTACT US</a></td></tr>
+              <tr><td><a href="/8763679/About.vstore">ABOUT VERIUNI™</a></td></tr>
+              <tr><td><a href="/8763679/Free">AFFILIATE PROGRAM</a></td></tr>
+			</tbody></table>
+			</td>
+        </tr>
+        <tr>
+          <td align="left" valign="top"><img src="/Images/Tiles/f_vstore_tile.gif" width="150" height="7" align="top"></td>
+        </tr>
+      </tbody></table>
+	</div>
+<br>
+
+    
+
+
+
+
+
+
+
+
+
+
+<table width="150" border="0" cellpadding="0" cellspacing="0" bgcolor="FFFFFF">
+    <tbody><tr>
+		<td><img src="/Images/Headers/h_vstore_tile_close.gif" border="0"></td> 
+	</tr>
+	<tr>
+		<td background="/Images/Tiles/bg_vstore_tile.gif">
+			<table width="100%" border="0" cellspacing="5" cellpadding="0">
+				<tbody><tr>
+					<td align="center" valign="top">
+						<a href="/8763679/Department.vstore?id=37"><img src="/Images/i_closeouts.gif" border="0"></a>
+						<br>
+						<a href="/8763679/Department.vstore?id=37">Click Here</a>
+        			</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+    	<td><img src="/Images/Tiles/f_vstore_tile.gif" border="0"></td>
+  	</tr>
+</tbody></table>
+<br>
+
+
+
+
+
+<table width="150" border="0" cellpadding="0" cellspacing="0" bgcolor="FFFFFF">
+	<tbody><tr>
+		<td align="center" valign="top">
+			<a href="http://www.bbbonline.org/r.cfm?ID=684000261" target="_blank"><img src="/Images/i_tag_bbb.gif" border="0"></a>
+        </td>
+	</tr><tr>
+		<td align="center" valign="top">
+			<a href="/8763679/AffiliateProgram.vstore"><img src="/Images/i_tag_sfi.gif" border="0"></a>
+        </td>
+	</tr>
+</tbody></table>
+<br>
+
+
+
+
+
+<table width="150" border="0" cellpadding="0" cellspacing="0" bgcolor="FFFFFF">
+<tbody><tr>
+	<td align="center" valign="top">
+	<script src="https://seal.verisign.com/getseal?host_name=www.moreinfo247.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=NO"></script>
+   	</td>
+</tr>
+</tbody></table>
+<br>
+
+
+
+
+
+
+<table width="150" border="0" cellpadding="0" cellspacing="0" bgcolor="FFFFFF">
+	<tbody><tr>
+		<td align="center" valign="top">
+        	<form action="http://www.spamwarden.com/ReportSpam.php3" method="post">
+            <div align="center">
+            	<input type="hidden" name="cid" value="1">
+                <input type="hidden" name="oid" value="8763679">
+                <input type="hidden" name="onm" value="Ryan Whiteside">
+                <input type="image" border="0" src="/Images/Buttons/ReportSpamButton.gif" width="148" height="43" name="image" align="middle">
+            
+        </div></form></td>
+	</tr>
+</tbody></table>
+<br>
+
+
+
+
+
+  </td>
+  <td valign="top" align="left">
+  	<table border="0" width="100%" cellspacing="0" cellpadding="0" align="center">
+		<tbody><tr>
+			<td>
+                <table cellspacing="10">
+                   <tbody><tr>
+                     <td>
 	
+
+<table width="500" border="0" cellspacing="0" cellpadding="3" align="center">
+  <tbody><tr>
+		
+    <td height="735"> 
+      <div align="center"> 
+        <div align="center">
+          <h2><b>Veriuni Store Privacy Policy</b> </h2>
+        </div>
+        <p align="left">Carson 
+          Services, Inc., the parent company for the VERIUNI label and the Veriuni Store, 
+           holds the privacy and security of our site visitors in 
+          the highest regard. The following information explains the type of information 
+          gathered on our sites and how that information is used.</p>
+        <p align="left"><b>What's collected and what's not?</b><br>
+        </p>
+        <p align="left">You can visit our site without telling us who you are 
+          or revealing any personal information. While IP addresses (the Internet 
+          address of a computer) are logged to track a user's session, the user 
+          remains anonymous. Tracking IP addresses gives us an idea of the areas 
+          on our site users are visiting and how long they spend there. We do 
+          not link IP addresses to anything personally identifiable. Again, this 
+          means that a user's session is tracked, but the user is anonymous. The 
+          user's browser also lets us know the type of computer and operating 
+          system being used.</p>
+        <p align="left">E-mail addresses are gathered from <b>only</b> those who 
+          have purchased products from us and those who sign up for one or more 
+          of our mailing lists. </p>
+        <p align="left"><b>How is e-mail information used?</b><br>
+        </p>
+        <p align="left">E-mail addresses are used to send you information that 
+          you requested or to confirm orders only. </p>
+        <div align="left"><i><u>We NEVER sell, rent, or loan our e-mail lists 
+          to outside firms. Period! </u></i> </div>
+        <p align="left"><b>How do I remove my name from mailing lists to which 
+          I previously subscribed?</b><br>
+        </p>
+        <p align="left">Just follow the simple removal directions always provided 
+          at the bottom of e-mails you receive from us.</p>
+        <p align="left"><b>Is supplied credit card information retained?</b><br>
+        </p>
+        <p align="left">We retain this information for a period of time to allow 
+          for the possibility of a credit being posted to your credit card for 
+          a product being returned. </p>
+        <p align="left"><b>What about phone and fax numbers?</b><br>
+        </p>
+        <p align="left">We request a phone and/or fax number on order forms in 
+          case we need to contact you about your order. However, this information 
+          is entered into our personal customer database <b>only</b>. We NEVER 
+          sell, rent, or loan our list of customer fax or phone numbers, nor any 
+          other information about customers.</p>
+      </div>
+</td>
+	</tr>
+</tbody></table>
+
+                    </td>
+                  </tr>
+                </tbody></table>
+			</td>
+		</tr>
+	</tbody></table>
+  </td>
+  <td width="150" valign="top" align="right">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<table width="150" border="0" cellpadding="0" cellspacing="0" bgcolor="FFFFFF">
+    <tbody><tr>
+		<td><img src="/Images/Headers/h_vstore_tile_rep.gif" border="0"></td> 
+	</tr>
+	<tr>
+		<td background="/Images/Tiles/bg_vstore_tile.gif">
+			<table width="100%" border="0" cellspacing="5" cellpadding="0">
+				<tbody><tr>
+					<td align="center" valign="top">
+						Your Veriuni sales representative is:<br> 
+						<center><a href="javascript:OpenWin('https://www.gomoreinfo.com/8763679/sponsor',500,600)">Ryan Whiteside</a></center>
+						<center><small>#8763679<small></small></small></center><small><small>
+        			</small></small></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+    	<td><img src="/Images/Tiles/f_vstore_tile.gif" border="0"></td>
+  	</tr>
+</tbody></table>
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table width="150" border="0" cellpadding="0" cellspacing="0" bgcolor="FFFFFF">
+    <tbody><tr>
+		<td><img src="/Images/Tiles/h_vstore_featured.gif" border="0"></td> 
+	</tr>
+	<tr>
+		<td background="/Images/Tiles/bg_tile_default.gif">
+			<table width="100%" border="0" cellspacing="5" cellpadding="0">
+				<tbody><tr>
+					<td align="center" valign="top">
+						<a href="/8763679/Item.vstore?id=23"><center><img src="/Images/Tiles/ad_samplepack.jpg" border="0"></center></a>
+        			</td>
+				</tr>
+				<tr>
+					<td align="center">
+						<font size="2">Get 8 great cleaning products!<br>
+						<a href="/8763679/Item.vstore?id=23"><b>CLICK HERE</b></a>
+					</font></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+    	<td><img src="/Images/Tiles/f_tile_default.gif" border="0"> </td>
+  	</tr>
+</tbody></table>
+<br>
+
+
+
+
+
+<table width="150" border="0" cellpadding="0" cellspacing="0" bgcolor="FFFFFF">
+    <tbody><tr>
+    	<td><img src="/Images/Tiles/h_tile_mgt.gif" border="0"></td> 
+	</tr>
+	<tr>
+    	<td background="/Images/Tiles/bg_tile_default.gif"> 
+      		<table width="100%" border="0" cellspacing="5" cellpadding="0">		
+        		<tbody><tr> 
+          			<td align="center" valign="top"><a href="/8763679/Item.vstore?id=94"><img src="/Images/Tiles/0405_store_motm.jpg" border="0"></a></td>
+				</tr>
+				<tr>	
+          			<td>
+					<div align="center">
+						<font size="2">Get Your Copy Today!<br>
+              			<font size="1">(to choose from an additional 500+ magazines)</font><br>
+              			<strong><a href="/8763679/Department.vstore?id=35">CLICK HERE!</a></strong></font>
+					</div>
+					</td>
+				</tr>
+			</tbody></table>
+    	</td>
+	</tr>
+	<tr>	
+    	<td><img src="/Images/Tiles/f_vstore_tile.gif" border="0"></td>
+  	</tr>
+</tbody></table>
+<br>
+
+
+
+
+
+<table width="150" border="0" cellpadding="0" cellspacing="0" bgcolor="FFFFFF">
+    <tbody><tr>
+		<td><img src="/Images/Tiles/h_vstore_featured.gif" border="0"></td> 
+	</tr>
+	<tr>
+		<td background="/Images/Tiles/bg_tile_default.gif">
+			<table width="100%" border="0" cellspacing="5" cellpadding="0">
+				<tbody><tr>
+					<td align="center" valign="top">
+						<a href="/8763679/Item.vstore?id=25"><center><img src="/Images/Tiles/ad_vln.jpg" border="0"></center></a>
+						<br>
+        			</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+    <tr>
+		<td background="/Images/Tiles/bg_tile_default.gif" align="center" valign="top">
+            <div style="margin: 5px 5px 5px 5px">
+			<font size="2">
+            <p align="center">
+            <strong><a href="/8763679/Department.vstore?id=34">CLICK HERE!</a></strong>
+            </p>
+            </font></div><font size="2">
+        </font></td>
+    </tr>
+	<tr>
+    	<td><img src="/Images/Tiles/f_tile_default.gif" border="0"> </td>
+  	</tr>
+</tbody></table>
+<br>
+
+
+
+
+
+  </td>
+</tr>
+<tr>
+  <td colspan="100%">
+    
+
+<table width="100%">
+  <tbody><tr>
+	<td background="/Images/Headers/f_vstore_bg.jpg">
+        <img src="/Images/Headers/f_vstore_left.jpg">
+ 	</td>
+  </tr>
+</tbody></table>
+<center>
+<img src="/Images/i_vstore_cclogos.gif"><br>
+	<small><a href="/8763679/showIndex.vstore">Home</a> | <a href="/8763679/About.vstore">About Veriuni</a> | <a href="/8763679/PrivacyPolicy.vstore">Privacy Policy</a> | <a href="/8763679/RefundPolicy.vstore">Refund Policy</a> | <a href="/8763679/HelpDesk.vstore">Help Desk</a> | <a href="/8763679/Contact.vstore">Contact Us</a>
+  <br><em>Copyright © 2004 Carson Services, 8763679</em> <br>
+</small></center>
+
+  </td>
+</tr>
+</tbody></table>
 
 
 </body></html>
