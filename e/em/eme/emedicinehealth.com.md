@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emedicinehealth.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215070551id_/http%3A//www.emedicinehealth.com/common/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emedicinehealth.com privacy policy that was archived on 2006-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060325194556id_/http%3A//www.emedicinehealth.com/common/privacy.asp) for the most accurate reproduction.*
 
 # eMedicine Health - Privacy
 
