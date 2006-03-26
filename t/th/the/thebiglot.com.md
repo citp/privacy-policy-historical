@@ -1,36 +1,7 @@
-> *The following text is extracted and transformed from the thebiglot.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402103500id_/http%3A//www.thebiglot.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebiglot.com privacy policy that was archived on 2006-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060326184931id_/http%3A//www.thebiglot.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
-|   **[Search Used Autos](http://www.thebiglot.com/SearchMain.asp)**  
----  
-  |  [Cars, Trucks, Vans, SUV's](http://www.thebiglot.com/advancedSearch.asp)  
-[Motorcycles](http://www.thebiglot.com/searchMoto.asp)  
-[RV's](http://www.thebiglot.com/searchRV.asp)  
-[ATV's](http://www.thebiglot.com/searchATV.asp)  
-[Boats & Watercraft](http://www.thebiglot.com/searchWatercraft.asp)  
-[Handicap Equipped](http://www.thebiglot.com/searchHandicap.asp)  
-  
-  **[List A Vehicle For Sale](http://www.thebiglot.com/placeanad.asp)**  
-  **[Get A New Car Quote](http://www.thebiglot.com/newCarQuoteStart.asp)**  
-  **[Vehicle Want Ads](http://www.thebiglot.com/wanted/wanted-results.asp)**  
-  |  [View Want Ads](http://www.thebiglot.com/wanted/wanted-results.asp)  
-[Place A Free Want Ad](http://www.thebiglot.com/VehicleWanted.asp)  
-  
-  **[Automotive Resources](http://www.thebiglot.com/resources.asp)**  
-  |  [Auto Insurance](http://www.thebiglot.com/resources_insurance.asp)  
-[Leasing A Car](http://www.thebiglot.com/resources_leasingavehicle.asp)  
-[Auto Loans](http://www.thebiglot.com/resources_autoloans.asp)  
-[Vehicle History Reports](http://www.thebiglot.com/resources_VHR.asp)  
-[Inspecting A Used Car](http://www.thebiglot.com/resources_samarins.asp)  
-[Auto Loan Calculator](http://www.thebiglot.com/resources_calculators.asp)  
-[Extended Warranties](http://www.thebiglot.com/resources_warranties.asp)  
-|   
-  
----  
-  
-**Privacy Policy**  
-  
 TheBigLot.com is a classified service provided by Adventis, Inc.  Adventis, Inc. established TheBiglot.com as a means for customers to achieve unprecedented online exposure for their vehicle, while at the same time having access to unparalleled customer service. TheBigLot.com recognizes and understands your concerns about privacy and the use of your personal information.  This Privacy Policy is intended to summarize the privacy practices of the [www.thebiglot.com](http://www.thebiglot.com/). 
 
 **Personal Information from Visitors**
@@ -75,7 +46,7 @@ TheBigLot.com strives to protect your information off-line as well.  We restric
 
 Finally, under certain circumstances, TheBigLot.com may disclose personal information when required by law. 
 
-**Where is Personal Information stored?**
+**Personal Information / Data Security**
 
 The security of the information you provide to TheBigLot.com is important to us.  Information that is collected by TheBigLot.com and TheBigLot.com website is stored on in-house controlled databases and servers.  This includes any information provided by visitors, even those who do not order our service.  We have implemented security policies, rules, and technical measures to prevent the loss, misuse, and alteration of sensitive information under our control.   In particular, all credit card transactions are protected by the latest Secure Socket Layer (SSL) encryption technology.  SSL is the Internet standard for secured transactions.  If you have any questions about the use of your credit card information, please contact our Customer Care department at 1-800- 430-1965, ext. 2, or via e-mail at web@thebiglot.com. 
 
@@ -89,4 +60,4 @@ TheBigLot.com reserves the right to change our Privacy Policy as business needs 
 
 If you have any questions, concerns, or suggestions regarding our Privacy Policy, please contact our Operations Manager directly at 1-800-430-1965, ext. 139, or e-mail at info@thebiglot.com. 
 
-For any other questions, please contact our Customer Care department at 1-800-430-1965, ext. 2, or e-mail at info@thebiglot.com.  Our Customer Care hours of operation are Monday through Thursday 9:00 a.m. to 9:00 p.m., Friday 9:00 a.m. to 6:00 p.m., and Saturday 1:00 p.m. to  5:00 p.m., Eastern Time.  Our mailing address is: Adventis, Inc., P.O. Box 1671, Roanoke, Virginia 24008.
+For any other questions, please contact our Customer Care department at 1-800-430-1965, ext. 2, or e-mail at info@thebiglot.com.  Our Customer Care hours of operation are Monday through Thursday 9:00 a.m. to 9:00 p.m., Friday 9:00 a.m. to 6:00 p.m. Eastern Time.  Our mailing address is: Adventis, Inc., P.O. Box 1671, Roanoke, Virginia 24008.
