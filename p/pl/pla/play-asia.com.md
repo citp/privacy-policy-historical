@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the play-asia.com privacy policy that was archived on 2005-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050830080406id_/http%3A//www.play-asia.com/paOS-00-3-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the play-asia.com privacy policy that was archived on 2006-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060326184942id_/http%3A//www.play-asia.com/paOS-00-3-privacy-49-en.html) for the most accurate reproduction.*
 
-# Play-Asia.com - Japanese & Asian Video Games for Consoles and PC
+# Play-Asia.com Privacy Statement
 
 |   
 ---|---  
   
-[](http://www.play-asia.com/paOS-14-71-bb-48-v.html)  
-  |  |    
-  
-|  | 
+[](https://web.archive.org/web/20060326184942id_/http%3A//www.play-asia.com/paOS-13-71-r-70-yto-48-28.html)  
+  |  |  |  | 
 
-Location: [Play-Asia.com Privacy Statement](https://web.archive.org/paOS-00-3-privacy.html)  
+Location: [Play-Asia.com Privacy Statement](https://web.archive.org/paOS-00-3-privacy-49-en.html)  
   
 ---|---|---  
   
@@ -81,232 +79,195 @@ Conditions of Use, Notices, and Revisions
 > Our business changes constantly, and our Privacy Statement and the Terms of Use will change also. We may e-mail periodic reminders of our notices and conditions, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Statement applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
 
 |   
-  | [](https://web.archive.org/paOS-00-3-helpdesk.html) |    
+  | [](https://web.archive.org/paOS-00-3-helpdesk-49-en.html) |    
   |    
 |   |    
    
 |   new releases  
 ---  
+|  [](https://web.archive.org/paOS-13-71-r-49-en-70-1a5y.html)  | [BLACK](https://web.archive.org/paOS-13-71-r-49-en-70-1a5y.html) |  US$ 54.90  
   
-|  [](https://web.archive.org/paOS-13-71-43-70-q82.html)  | [Zwei !! (Taito the Best)](https://web.archive.org/paOS-13-71-43-70-q82.html) |  US$ 34.90  
-  
- [](https://web.archive.org/paOS-15-72-1-73-1-70-q82-45-1.html)  
+ [](https://web.archive.org/paOScore/15-72-1-49-en-73-1-70-1a5y-45-1.html)  
 or   
-[save for later](https://web.archive.org/paOS-15-72-1-73-1-70-q82-45-1-40-copy_saved.html)  
+[save for later](https://web.archive.org/paOScore/15-72-1-49-en-73-1-70-1a5y-45-1-40-copy_saved.html)  
 ---|---|---  
-Falcom  
-Compatible with PlayStation2™  
-Japanese, NTSC J / RPG  
-Usually ships within 24hrs  
-   
- [](https://web.archive.org/paOS-13-71-b9-70-w6y.html)  | [Namco Museum Battle Collection](https://web.archive.org/paOS-13-71-b9-70-w6y.html) |  US$ 49.90  
-  
- [](https://web.archive.org/paOS-15-72-1-73-1-70-w6y-45-1.html)  
-or   
-[save for later](https://web.archive.org/paOS-15-72-1-73-1-70-w6y-45-1-40-copy_saved.html)  
-Namco  
-Compatible with Sony PSP™  
-US, No Region Protection / Classics  
-Usually ships within 24hrs  
-   
- [](https://web.archive.org/paOS-13-71-43-70-xd6.html)  | [From TV Animation: One Piece Grand Battle: Combat Rush](https://web.archive.org/paOS-13-71-43-70-xd6.html) |  US$ 59.90  
-  
- [](https://web.archive.org/paOS-15-72-1-73-1-70-xd6-45-1.html)  
-or   
-[save for later](https://web.archive.org/paOS-15-72-1-73-1-70-xd6-45-1-40-copy_saved.html)  
-Bandai  
-Compatible with PlayStation2™  
-Korean, NTSC J / Action Adventure  
-Usually ships within 1 to 2 weeks  
-   
- [](https://web.archive.org/paOS-13-71-r-70-xq4.html)  | [Heavy Metal Thunder](https://web.archive.org/paOS-13-71-r-70-xq4.html) |  US$ 59.90  
-  
- [](https://web.archive.org/paOS-15-72-1-73-1-70-xq4-45-1.html)  
-or   
-[save for later](https://web.archive.org/paOS-15-72-1-73-1-70-xq4-45-1-40-copy_saved.html)  
-Square Enix  
-Compatible with PlayStation2™  
-Asia, NTSC J / Action  
-Usually ships within 24hrs  
-   
- [](https://web.archive.org/paOS-13-71-bl-70-xq5.html)  | [Bleach: Heat the Soul 2](https://web.archive.org/paOS-13-71-bl-70-xq5.html) |  US$ 49.90  
-  
- [](https://web.archive.org/paOS-15-72-1-73-1-70-xq5-45-1.html)  
-or   
-[save for later](https://web.archive.org/paOS-15-72-1-73-1-70-xq5-45-1-40-copy_saved.html)  
-Sony Computer Entertainment  
-Compatible with Sony PSP™  
-Asia, No Region Protection / Fighting  
-Usually ships within 24hrs  
-   
- [](https://web.archive.org/paOS-13-71-ba-70-r0v.html)  | [Pac'n Roll DS](https://web.archive.org/paOS-13-71-ba-70-r0v.html) |  US$ 39.90  
-  
- [](https://web.archive.org/paOS-15-72-1-73-1-70-r0v-45-1.html)  
-or   
-[save for later](https://web.archive.org/paOS-15-72-1-73-1-70-r0v-45-1-40-copy_saved.html)  
-Namco  
-Compatible with Nintendo DS™  
-US, No Region Protection / Action  
-Usually ships within 24hrs  
-   
- [](https://web.archive.org/paOS-13-71-bb-70-rw3.html)  | [Koukyoushihen Eureka Seven Vol.2 [DVD+UMD]](https://web.archive.org/paOS-13-71-bb-70-rw3.html) |  US$ 77.90  
-  
- [](https://web.archive.org/paOS-15-72-1-73-1-70-rw3-45-1.html)  
-or   
-[save for later](https://web.archive.org/paOS-15-72-1-73-1-70-rw3-45-1-40-copy_saved.html)  
-Bandai  
-Compatible with Sony PSP™  
-Japanese, UMD Video (RC2/Japan) / Animation  
-Usually ships within 5-15 days  
-   
- [](https://web.archive.org/paOS-13-71-bb-70-v7q.html)  | [Initial D UMD Box Set (w/ Initial D PSP™ Carrying Bag)](https://web.archive.org/paOS-13-71-bb-70-v7q.html) |  US$ 29.90  
-  
- [](https://web.archive.org/paOS-15-72-1-73-1-70-v7q-45-1.html)  
-or   
-[save for later](https://web.archive.org/paOS-15-72-1-73-1-70-v7q-45-1-40-copy_saved.html)  
-Media Asia  
-Compatible with Sony PSP™  
-Hong Kong, UMD Video (RC3/Asia) / Action  
-Jay Chow, Anthony Wong, ...  
-Usually ships within 24hrs  
-   
-  
-  
-  
-discounted items 
-
- [](https://web.archive.org/paOS-13-71-99-70-3dl.html)  | [Virtua Fighter Cyber Generation: Ambition of the Judgement Six](https://web.archive.org/paOS-13-71-99-70-3dl.html) |  US$ 19.90  
-  
- [](https://web.archive.org/paOS-15-72-1-73-1-70-3dl.html)  
-or   
-[save for later](https://web.archive.org/paOS-15-72-1-73-1-70-3dl-40-copy_saved.html)  
----|---|---  
-Sega  
-Compatible with Gamecube™  
-Japanese, NTSC J / RPG  
-Usually ships within 24hrs  
-   
- [](https://web.archive.org/paOS-13-71-99-70-xn9.html)  | [Sherlock Holmes Consulting Detective (CD-ROM²)](https://web.archive.org/paOS-13-71-99-70-xn9.html) |  US$ 19.90  
-  
- [](https://web.archive.org/paOS-15-72-1-73-1-70-xn9.html)  
-or   
-[save for later](https://web.archive.org/paOS-15-72-1-73-1-70-xn9-40-copy_saved.html)  
-Victor  
-Compatible with PC-Engine™  
-Japanese, NTSC J / Adventure  
-Usually ships within 24hrs  
-   
- [](https://web.archive.org/paOS-13-71-99-70-put.html)  | [Baseball](https://web.archive.org/paOS-13-71-99-70-put.html) |  US$ 14.90  
-  
- [](https://web.archive.org/paOS-15-72-1-73-1-70-put.html)  
-or   
-[save for later](https://web.archive.org/paOS-15-72-1-73-1-70-put-40-copy_saved.html)  
-Nintendo of Japan  
-Compatible with Game Boy™  
-Japanese, No Region Protection / Sports  
-Usually ships within 24hrs  
-   
- [](https://web.archive.org/paOS-13-71-99-70-2d9.html)  | [Pokemon Box Ruby & Sapphire](https://web.archive.org/paOS-13-71-99-70-2d9.html) |  US$ 9.90  
-  
- [](https://web.archive.org/paOS-15-72-1-73-1-70-2d9.html)  
-or   
-[save for later](https://web.archive.org/paOS-15-72-1-73-1-70-2d9-40-copy_saved.html)  
-Nintendo of Japan  
-Compatible with Gamecube™  
-Japanese, NTSC J / Misc  
-Usually ships within 24hrs  
-   
- [](https://web.archive.org/paOS-13-71-99-70-bmh.html)  | [Everblue (CapKore)](https://web.archive.org/paOS-13-71-99-70-bmh.html) |  US$ 8.90  
-  
- [](https://web.archive.org/paOS-15-72-1-73-1-70-bmh.html)  
-or   
-[save for later](https://web.archive.org/paOS-15-72-1-73-1-70-bmh-40-copy_saved.html)  
-Capcom  
-Compatible with PlayStation2™  
-Japanese, NTSC J / Action Adventure  
-Usually ships within 24hrs  
-   
- [](https://web.archive.org/paOS-13-71-99-70-sf1.html)  | [Groove Adventure Rave](https://web.archive.org/paOS-13-71-99-70-sf1.html) |  US$ 29.90  
-  
- [](https://web.archive.org/paOS-15-72-1-73-1-70-sf1.html)  
-or   
-[save for later](https://web.archive.org/paOS-15-72-1-73-1-70-sf1-40-copy_saved.html)  
-Konami  
-Compatible with PlayStation™  
-Japanese, NTSC J / RPG  
-Usually ships within 24hrs  
-   
- [](https://web.archive.org/paOS-13-71-99-70-2pe.html)  | [Super Bomberman: Panic Bomber W](https://web.archive.org/paOS-13-71-99-70-2pe.html) |  US$ 12.90  
-  
- [](https://web.archive.org/paOS-15-72-1-73-1-70-2pe.html)  
-or   
-[save for later](https://web.archive.org/paOS-15-72-1-73-1-70-2pe-40-copy_saved.html)  
-Hudson  
-Compatible with Super Famicom™  
-Japanese, NTSC J / Puzzle  
-Usually ships within 24hrs  
-   
- [](https://web.archive.org/paOS-13-71-99-70-1zk.html)  | [Kuru Kururin Paradise](https://web.archive.org/paOS-13-71-99-70-1zk.html) |  US$ 19.90  
-  
- [](https://web.archive.org/paOS-15-72-1-73-1-70-1zk.html)  
-or   
-[save for later](https://web.archive.org/paOS-15-72-1-73-1-70-1zk-40-copy_saved.html)  
-Nintendo of Japan  
-Compatible with Game Boy Advance™  
-Japanese, No Region Protection / Puzzle  
-Usually ships within 24hrs  
-   
- [](https://web.archive.org/paOS-13-71-99-70-bn5.html)  | [DDR Festival Dance Dance Revolution Controller Set](https://web.archive.org/paOS-13-71-99-70-bn5.html) |  US$ 69.90  
-  
- [](https://web.archive.org/paOS-15-72-1-73-1-70-bn5.html)  
-or   
-[save for later](https://web.archive.org/paOS-15-72-1-73-1-70-bn5-40-copy_saved.html)  
-Konami  
-Compatible with PlayStation2™  
-Japanese, NTSC J / Music  
-Usually ships within 24hrs  
-   
- [](https://web.archive.org/paOS-13-71-99-70-2h0.html)  | [Sentou Yousei Yuki Kaze](https://web.archive.org/paOS-13-71-99-70-2h0.html) |  US$ 39.90  
-  
- [](https://web.archive.org/paOS-15-72-1-73-1-70-2h0.html)  
-or   
-[save for later](https://web.archive.org/paOS-15-72-1-73-1-70-2h0-40-copy_saved.html)  
-Aqua System  
-Compatible with Xbox™  
-Japanese, NTSC J / Simulation  
-Usually ships within 24hrs  
-   
- [](https://web.archive.org/paOS-13-71-99-70-h0u.html)  | [RockMan X8 (w/ MegaMan X6 for PlayStation™)](https://web.archive.org/paOS-13-71-99-70-h0u.html) |  US$ 29.90  
-  
- [](https://web.archive.org/paOS-15-72-1-73-1-70-h0u.html)  
-or   
-[save for later](https://web.archive.org/paOS-15-72-1-73-1-70-h0u-40-copy_saved.html)  
-Capcom  
+Electronic Arts  
 Compatible with PlayStation2™  
 Korean, NTSC J / Action  
-Usually ships within 24hrs  
+Usually ships within 1 to 2 weeks  
    
- [](https://web.archive.org/paOS-13-71-99-70-hz8.html)  | [Yu-Gi-Oh Duel Monsters Expert 3 [Beginners Pack] [pre-owned]](https://web.archive.org/paOS-13-71-99-70-hz8.html) |  US$ 39.90  
+ [](https://web.archive.org/paOS-13-71-dw-49-en-70-1920.html)  | [Call of Duty 2](https://web.archive.org/paOS-13-71-dw-49-en-70-1920.html) |  US$ 39.90  
   
- [](https://web.archive.org/paOS-15-72-1-73-1-70-hz8.html)  
+ [](https://web.archive.org/paOScore/15-72-1-49-en-73-1-70-1920-45-1.html)  
 or   
-[save for later](https://web.archive.org/paOS-15-72-1-73-1-70-hz8-40-copy_saved.html)  
+[save for later](https://web.archive.org/paOScore/15-72-1-49-en-73-1-70-1920-45-1-40-copy_saved.html)  
+Activision  
+Compatible with Xbox360™  
+Asia, No Region Protection / Action  
+Usually ships within 1-5 days  
+   
+ [](https://web.archive.org/paOS-13-71-u-49-en-70-17a5.html)  | [Under Defeat [Segadirect Limited Edition w/ Refurbished Dreamcast + Poster & Sticker]](https://web.archive.org/paOS-13-71-u-49-en-70-17a5.html) |  US$ 169.90  
+  
+ [](https://web.archive.org/paOScore/15-72-1-49-en-73-1-70-17a5-45-1.html)  
+or   
+[save for later](https://web.archive.org/paOScore/15-72-1-49-en-73-1-70-17a5-45-1-40-copy_saved.html)  
+G.Rev  
+Compatible with Dreamcast™  
+Japanese, NTSC J / Shooter  
+In stock, usually ships within 24hrs  
+   
+ [](https://web.archive.org/paOS-13-71-dw-49-en-70-19yj.html)  | [Blazing Angels: Squadrons of WWII](https://web.archive.org/paOS-13-71-dw-49-en-70-19yj.html) |  US$ 39.90  
+  
+ [](https://web.archive.org/paOScore/15-72-1-49-en-73-1-70-19yj-45-1.html)  
+or   
+[save for later](https://web.archive.org/paOScore/15-72-1-49-en-73-1-70-19yj-45-1-40-copy_saved.html)  
+UBI Soft  
+Compatible with Xbox360™  
+Asia, NTSC J / Simulation  
+Usually ships within 1-5 days  
+   
+ [](https://web.archive.org/paOS-13-71-x-49-en-70-17a3.html)  | [Under Defeat [Segadirect Limited Edition w/ Poster & Sticker]](https://web.archive.org/paOS-13-71-x-49-en-70-17a3.html) |  US$ 99.90  
+  
+ [](https://web.archive.org/paOScore/15-72-1-49-en-73-1-70-17a3-45-1.html)  
+or   
+[save for later](https://web.archive.org/paOScore/15-72-1-49-en-73-1-70-17a3-45-1-40-copy_saved.html)  
+G.Rev  
+Compatible with Dreamcast™  
+Japanese, NTSC J / Shooter  
+In stock, usually ships within 24hrs  
+   
+ [](https://web.archive.org/paOS-13-71-u-49-en-70-17a4.html)  | [Under Defeat [Segadirect Edition w/ Refurbished Dreamcast + Poster]](https://web.archive.org/paOS-13-71-u-49-en-70-17a4.html) |  US$ 149.90  
+  
+ [](https://web.archive.org/paOScore/15-72-1-49-en-73-1-70-17a4-45-1.html)  
+or   
+[save for later](https://web.archive.org/paOScore/15-72-1-49-en-73-1-70-17a4-45-1-40-copy_saved.html)  
+G.Rev  
+Compatible with Dreamcast™  
+Japanese, NTSC J / Shooter  
+In stock, usually ships within 24hrs  
+   
+ [](https://web.archive.org/paOS-13-71-dw-49-en-70-1922.html)  | [Peter Jackson's King Kong](https://web.archive.org/paOS-13-71-dw-49-en-70-1922.html) |  US$ 39.90  
+  
+ [](https://web.archive.org/paOScore/15-72-1-49-en-73-1-70-1922-45-1.html)  
+or   
+[save for later](https://web.archive.org/paOScore/15-72-1-49-en-73-1-70-1922-45-1-40-copy_saved.html)  
+UBI Soft  
+Compatible with Xbox360™  
+Asia, NTSC J / Action  
+Usually ships within 1-5 days  
+   
+ [](https://web.archive.org/paOS-13-71-bb-49-en-70-179l.html)  | [Sister Princess & Sister Princess Repure V](https://web.archive.org/paOS-13-71-bb-49-en-70-179l.html) |  US$ 59.90  
+  
+ [](https://web.archive.org/paOScore/15-72-1-49-en-73-1-70-179l-45-1.html)  
+or   
+[save for later](https://web.archive.org/paOScore/15-72-1-49-en-73-1-70-179l-45-1-40-copy_saved.html)  
+StarChild  
+Compatible with Sony PSP™  
+Japanese, UMD Video Region 2 / Animation  
+Usually ships within 5-15 days  
+  
+   
+discounted items
+
+ [](https://web.archive.org/paOS-13-71-99-49-en-70-11q9.html)  | [Goo Goo Soundy](https://web.archive.org/paOS-13-71-99-49-en-70-11q9.html) |  US$ 34.90  
+  
+ [](https://web.archive.org/paOScore/15-72-1-49-en-73-1-70-11q9.html)  
+or   
+[save for later](https://web.archive.org/paOScore/15-72-1-49-en-73-1-70-11q9-40-copy_saved.html)  
+---|---|---  
 Konami  
-Compatible with Game Boy Advance™  
-Japanese, No Region Protection / RPG  
-Usually ships within 24hrs  
+Compatible with PlayStation™  
+Japanese, NTSC J / Music  
+In stock, usually ships within 24hrs  
+   
+ [](https://web.archive.org/paOS-13-71-99-49-en-70-16rs.html)  | [Maximo vs. Army of Zin](https://web.archive.org/paOS-13-71-99-49-en-70-16rs.html) |  US$ 16.90  
   
-[Browse more discounted items...](https://web.archive.org/paOS-00-71-73.html)  
+ [](https://web.archive.org/paOScore/15-72-1-49-en-73-1-70-16rs.html)  
+or   
+[save for later](https://web.archive.org/paOScore/15-72-1-49-en-73-1-70-16rs-40-copy_saved.html)  
+Capcom  
+Compatible with PlayStation2™  
+US, NTSC U/C / Action  
+In stock, usually ships within 24hrs  
+   
+ [](https://web.archive.org/paOS-13-71-99-49-en-70-boj.html)  | [Pop'n Music 4 Append Disc [pre-owned]](https://web.archive.org/paOS-13-71-99-49-en-70-boj.html) |  US$ 24.90  
+  
+ [](https://web.archive.org/paOScore/15-72-1-49-en-73-1-70-boj.html)  
+or   
+[save for later](https://web.archive.org/paOScore/15-72-1-49-en-73-1-70-boj-40-copy_saved.html)  
+Konami  
+Compatible with Dreamcast™  
+Japanese, NTSC J / Music  
+In stock, usually ships within 24hrs  
+   
+ [](https://web.archive.org/paOS-13-71-99-49-en-70-owr.html)  | [Love Hina 2](https://web.archive.org/paOS-13-71-99-49-en-70-owr.html) |      
+[save for later](https://web.archive.org/paOScore/15-72-1-49-en-73-1-70-owr-40-copy_saved.html)  
+Konami  
+Compatible with PlayStation™  
+Japanese, NTSC J / Adventure  
+Out of print / Out of stock  
+   
+ [](https://web.archive.org/paOS-13-71-99-49-en-70-q8v.html)  | [Sakura Taisen V: Saraba Itoshiki Hito Yo Memory Card 8MB Special Edition](https://web.archive.org/paOS-13-71-99-49-en-70-q8v.html) |  US$ 49.90  
+  
+ [](https://web.archive.org/paOScore/15-72-1-49-en-73-1-70-q8v.html)  
+or   
+[save for later](https://web.archive.org/paOScore/15-72-1-49-en-73-1-70-q8v-40-copy_saved.html)  
+Hori  
+Compatible with PlayStation2™  
+In stock, usually ships within 24hrs  
+   
+ [](https://web.archive.org/paOS-13-71-99-49-en-70-15vw.html)  | [Quiz Donosama No Yabou (CD-ROM²) [pre-owned]](https://web.archive.org/paOS-13-71-99-49-en-70-15vw.html) |  US$ 19.90  
+  
+ [](https://web.archive.org/paOScore/15-72-1-49-en-73-1-70-15vw.html)  
+or   
+[save for later](https://web.archive.org/paOScore/15-72-1-49-en-73-1-70-15vw-40-copy_saved.html)  
+Capcom  
+Compatible with PC-Engine™  
+Japanese, NTSC J / Misc  
+In stock, usually ships within 24hrs  
+   
+ [](https://web.archive.org/paOS-13-71-99-49-en-70-owg.html)  | [Three Dirty Dwarves [pre-owned]](https://web.archive.org/paOS-13-71-99-49-en-70-owg.html) |  US$ 39.90  
+  
+ [](https://web.archive.org/paOScore/15-72-1-49-en-73-1-70-owg.html)  
+or   
+[save for later](https://web.archive.org/paOScore/15-72-1-49-en-73-1-70-owg-40-copy_saved.html)  
+Sega  
+Compatible with Sega Saturn™  
+Japanese, NTSC J / Beat 'em Up  
+In stock, usually ships within 24hrs  
+   
+ [](https://web.archive.org/paOS-13-71-99-49-en-70-xon.html)  | [Dragon Slayer: The Legend of Heroes (Super CD-ROM²) [pre-owned]](https://web.archive.org/paOS-13-71-99-49-en-70-xon.html) |  US$ 14.90  
+  
+ [](https://web.archive.org/paOScore/15-72-1-49-en-73-1-70-xon.html)  
+or   
+[save for later](https://web.archive.org/paOScore/15-72-1-49-en-73-1-70-xon-40-copy_saved.html)  
+Falcom  
+Compatible with PC-Engine™  
+Japanese, NTSC J / RPG  
+In stock, usually ships within 24hrs  
+   
+ [](https://web.archive.org/paOS-13-71-99-49-en-70-14z0.html)  | [Wonder Boy III: Monster Lair [pre-owned]](https://web.archive.org/paOS-13-71-99-49-en-70-14z0.html) |  US$ 24.90  
+  
+ [](https://web.archive.org/paOScore/15-72-1-49-en-73-1-70-14z0.html)  
+or   
+[save for later](https://web.archive.org/paOScore/15-72-1-49-en-73-1-70-14z0-40-copy_saved.html)  
+Sega  
+Compatible with Mega Drive™  
+Japanese, NTSC J / Action  
+In stock, usually ships within 24hrs  
+  
+[Browse more discounted items...](https://web.archive.org/paOS-00-71-73-49-en.html)  
   
   
-| Display language:  | [English](https://web.archive.org/paOS-16-46-1.html) -  | [Français](https://web.archive.org/paOS-16-46-e.html) -  | [Deutsch](https://web.archive.org/paOS-16-46-2.html) -  | [](https://web.archive.org/paOS-16-46-d.html)   
----|---|---|---|---  
-Reference currency:  |   
+| Display language  |   
+---|---  
+Reference currency  |   
+---|---  
   
-Trademarks listed on our pages belong to their designated owner(s). If you have any matter you want to bring up to us regarding copyright or trademarks, please feel free to [contact us](https://web.archive.org/paOS-21.html).  
+Trademarks listed on our pages belong to their designated owner(s). If you have any matter you want to bring up to us regarding copyright or trademarks, please feel free to [contact us](https://web.archive.org/paOScore/21-49-en.html).  
   
 ---  
   
-Website & content copyright 2002-2005 Play-Asia.com.   
+Website & content copyright 2002-2006 Play-Asia.com.   
    
-[Add one of our banners to your site](https://web.archive.org/paOS-37.html)
+[Add one of our banners to your site](https://web.archive.org/paOS-37-49-en.html)
