@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the multilingualbooks.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204145717id_/http%3A//www.multilingualbooks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multilingualbooks.com privacy policy that was archived on 2006-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060326042127id_/http%3A//www.multilingualbooks.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
 ---  
-|  **Order Toll Free  **  
-**1-800-218-2737  **  
+|  **Order By Phone   **  
+**1-877-401-6750  **  
   
 The Internet Language Company (ILC) has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website (www.multilingualbooks.com). 
 
