@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the liweddings.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212105230id_/http%3A//www.liweddings.com/pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liweddings.com privacy policy that was archived on 2006-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060327034831id_/http%3A//www.liweddings.com/pages/privacy.aspx) for the most accurate reproduction.*
 
-# LI Wedding
+# LIWeddings.com Internet Privacy Policy
 
-INTERNET PRIVACY POLICY
+| 
+
+| 
 
 Long Island Weddings ™, Inc ("LIWeddings.com") has developed this privacy statement for you, the visitor, to demonstrate our commitment to privacy on the Internet. The following discloses our information gathering and dissemination practices for www.LIWeddings.com and all other Web sites owned and operated by LIWeddings.com.
 
@@ -58,3 +60,11 @@ LIWeddings.com reserves the right to contact site visitors regarding account sta
 9\. LIWeddings.com's Right to Change Privacy Policy
 
 The foregoing policy is effective as of December 11, 1995. LIWeddings.com reserves the right to change this policy at any time by notifying visitors of the existence and location of the new or revised privacy policy. By entering the LIWeddings.com website you are accepting all terms and conditions outlined in the above Long Island Weddings ™, Inc Internet Privacy Policy.
+
+| 
+
+[](http://www.liweddings.com/scripts/tracking/static.aspx?ID=7) [](http://www.liweddings.com/scripts/tracking/static.aspx?ID=18) [](http://www.liweddings.com/scripts/tracking/static.aspx?ID=38) [](http://www.liweddings.com/scripts/tracking/static.aspx?ID=37)
+
+[](http://www.liweddings.com/vendors/banners/?ID=985) [](http://www.liweddings.com/vendors/banners/?ID=1030) [](http://www.liweddings.com/vendors/banners/?ID=29)  
+  
+---|---|---
