@@ -1,19 +1,22 @@
-> *The following text is extracted and transformed from the expatengineer.net privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210061244id_/http%3A//www.expatengineer.net/exe/exedd.nsf/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expatengineer.net privacy policy that was archived on 2006-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060327020841id_/http%3A//www.expatengineer.net/exe/exedd.nsf/privacy) for the most accurate reproduction.*
 
 # Privacy Expat Engineering Job Network
 
-[](https://web.archive.org/exe/banner/bannerclicks.nsf/\(bannerclickthrough\)?openagent&bannername=Shell120x60 "Shell businesses in Australia are committed to providing a range of energy solutions in a sustainable way. Our products include petrol, oils, greases and specialty industrial lubricants.")
-
-[](https://web.archive.org/exe/banner/bannerclicks.nsf/\(bannerclickthrough\)?openagent&bannername=Clough120x60 "With over 35 projects in 10 countries Clough has many world class and diverse professional engineering opportunities available right now")
+[](https://web.archive.org/exe/banner/bannerclicks.nsf/\(bannerclickthrough\)?openagent&bannername=Bayside120EXE "Bayside Personnel have extensive opportunities in the Middle East, providing skilled professionals to the petroleum and utility industries for the last 16 years. Bayside Personnel is the sole agent in Australia and New Zealand for Saudi Aramco, the world’s largest oil company.")
 
 [](https://web.archive.org/exe/banner/bannerclicks.nsf/\(bannerclickthrough\)?openagent&bannername=RailPersonnel120x60 "If you're looking for rail industry professionals for your organisation or if you're looking for a job within the rail industry then this site is for you. RailPersonnel is an online search company that matches professional people with some of the rail industry's top positions.")
 
-[ ](http://www.globalspec.com/search/websearch?frmtrk=affiliate&kbid=1397&img=banner_120x60_02.gif)   
-[](https://web.archive.org/exe/banner/bannerclicks.nsf/\(bannerclickthrough\)?openagent&bannername=360HR "360HR is an innovative and professional organisation committed to providing the full circle of Human Resources solutions to clients and candidates. 360HR abides by the philosophy “None of us is as smart as all of us!”")
+[](https://web.archive.org/exe/banner/bannerclicks.nsf/\(bannerclickthrough\)?openagent&bannername=nexus)
 
-[](https://web.archive.org/exe/banner/bannerclicks.nsf/\(bannerclickthrough\)?openagent&bannername=EJA "Engineering Job Portal for Australia and New Zealand")
+[](https://web.archive.org/exe/banner/bannerclicks.nsf/\(bannerclickthrough\)?openagent&bannername=Clough120x60EXE "With over 35 projects in 10 countries Clough has many world class and diverse professional engineering opportunities available right now")
 
-[](https://web.archive.org/exe/banner/bannerclicks.nsf/\(bannerclickthrough\)?openagent&bannername=KCOFC "Feature your company here. Display your 120 x 60 logo with 40 words of text to an International Engineering Audience. Click on the logo for further details")
+[](https://web.archive.org/exe/banner/bannerclicks.nsf/\(bannerclickthrough\)?openagent&bannername=Acorp120EXE "AustCorp Recruitment Pty Ltd is dedicated to opening avenues of employment between international companies their projects and engineering and construction personnel from Australia.
+
+")
+
+[](https://web.archive.org/exe/banner/bannerclicks.nsf/\(bannerclickthrough\)?openagent&bannername=EJA120x60a "Engineering Jobs Australia")
+
+[ ](http://www.globalspec.com/search/websearch?frmtrk=affiliate&kbid=1397&img=banner_120x60_02.gif)
 
 |  | 
 
