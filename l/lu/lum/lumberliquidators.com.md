@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lumberliquidators.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219164620id_/http%3A//www.lumberliquidators.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lumberliquidators.com privacy policy that was archived on 2006-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060327153240id_/http%3A//lumberliquidators.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy, Wood Flooring by Hardwood Specialist; Lumber Liquidators
 
@@ -52,8 +52,8 @@ To opt-out of receiving marketing communications from Lumber Liquidators:
   4. Send a request with your current contact information to:   
 **Lumber Liquidators  
 Attn: Privacy Manager   
-1104 West Roslyn Rd.   
-Colonial Heights, VA 23834 **
+3000 John Deere Rd.  
+Toano, VA 23168 **
 
 
 
@@ -73,8 +73,8 @@ To update or change your information:
   2. Send a request to [CustomerCare@LumberLiquidators.com](mailto:customercare@lumberliquidators.com).
   3. Send a request to:   
 Lumber Liquidators, Attn: Customer Care   
-1104 West Roslyn Rd.   
-Colonial Heights, VA 23834 
+3000 John Deere Rd.  
+Toano, VA 23168 
   4. Call 1-800-FLOORING
 
 
