@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moderndrummer.com privacy policy that was archived on 2005-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051102014419id_/http%3A//www.moderndrummer.com/private.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moderndrummer.com privacy policy that was archived on 2006-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060327171239id_/http%3A//www.moderndrummer.com/private.php) for the most accurate reproduction.*
 
-# Modern Drummer Magazine 2001
+# Modern Drummer Magazine Privacy Policy 03/27/2006
 
 **Modern Drummer Publications, Inc. Privacy Statement**
 
