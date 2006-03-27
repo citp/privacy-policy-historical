@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mbuzzy.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210203435id_/http%3A//www.mbuzzy.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbuzzy.com privacy policy that was archived on 2006-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060327091756id_/http%3A//www.mbuzzy.com/pp.php) for the most accurate reproduction.*
 
 # mbuzzy.com - images, ringtones, applications for your phone
 
-Privacy Statement
+### mbuzzy Privacy Policy
 
 **Policies**  
 A Note to Children and Parents: We intend the mbuzzy web site for use by adults. Children are not eligible to use our services and we ask that minors (under the age of 18) do not submit any personal information to us. If you are a minor, you can use this service only in conjunction with your parents or guardians.
