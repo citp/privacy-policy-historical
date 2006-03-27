@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parkplaza.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217172457id_/http%3A//www.parkplaza.com/customerservice/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkplaza.com privacy policy that was archived on 2006-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060328000927id_/http%3A//www.parkplaza.com/customerservice/privacy.jsp) for the most accurate reproduction.*
 
 # Park Plaza Hotels & Resorts - Our Privacy Promise
 
