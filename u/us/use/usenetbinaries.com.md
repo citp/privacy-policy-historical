@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the usenetbinaries.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207073722id_/http%3A//www.usenetbinaries.com/doc/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usenetbinaries.com privacy policy that was archived on 2006-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060327102808id_/http%3A//www.usenetbinaries.com/doc/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Usenet Binaries Dot Com - Privacy Policy
 
   
-
-
-#### UsenetBinaries.com Privacy Statement
+**UsenetBinaries.com Privacy Statement**
 
 This privacy statement covers the site www.usenetbinaries.com and all other sites in the UsenetBinaries.com domain name space, such as admin.usenetbinaries.com. Because this Web site wants to demonstrate its commitment to our users’ privacy, it has agreed to disclose its information practices. 
 
