@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the netterimages.com privacy policy that was archived on 2005-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051127164550id_/http%3A//www.netterimages.com/customer/privacy.htm%3Fhpr%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netterimages.com privacy policy that was archived on 2006-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060328014447id_/http%3A//netterimages.com/customer/privacy.htm%3Fhpr%3D) for the most accurate reproduction.*
 
-# Netter Medical Illustrations - Privacy Policy
+# Netter Medical Artwork - Privacy Policy
 
 This website ("Site") is owned by [Elsevier Inc.](http://us.elsevierhealth.com/), 1600 John F. Kennedy Blvd., Ste 1800, Philadelphia, PA 19103-2899, USA, and operated by [Slicksurface LLC](http://www.slicksurface.com/) ("Elsevier," "we," "us" or "our"). 
 
