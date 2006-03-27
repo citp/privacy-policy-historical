@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the parkplaza.com privacy policy that was archived on 2005-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051217172457id_/http%3A//www.parkplaza.com/customerservice/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the parkplaza.com privacy policy that was archived on 2006-03-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060328000927id_/http%3A//www.parkplaza.com/customerservice/privacy.jsp) for the most accurate reproduction.-->
 
 <html><head>
     <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-15">
@@ -117,6 +117,16 @@ function handleLanguageChange()
 
 
 
+function showAllPromos()
+{
+    document.localeform.onlyTranslatedPromos.value = 'false';
+    document.localeform.submit();
+}
+
+
+
+
+
 
 
 
@@ -142,7 +152,7 @@ function handleLanguageChange()
           <td style="background:#333399;border-bottom:3px solid #9999ff;padding-right:50;text-align:right;vertical-align:middle">
             
             
-            <form name="localeform" style="display:inline" action="/setlocale.jsp;jsessionid=DkJnL55qth7BkCpljzqGM16gBT2vQ2fBGq6hybyLTZwVkVvwLKNQ!1953813510">
+            <form name="localeform" style="display:inline" action="/setlocale.jsp">
   <input type="hidden" name="onlyTranslatedPromos" value="false">
   <input type="hidden" name="redisplay" value="true">
   <input type="hidden" name="url" value="http://www.parkplaza.com:80/customerservice/privacy.jsp">
@@ -155,6 +165,14 @@ function handleLanguageChange()
   
             <option value="de">
               Change to Deutsch
+            </option>
+  
+            <option value="fr">
+              Change to Français
+            </option>
+  
+            <option value="es">
+              Change to Español
             </option>
   
   </select>
@@ -524,7 +542,7 @@ function handleLanguageChange()
         
           <span class="selected">Our Privacy Promise</span>
         
-          <p style="margin:0">Our commitment to protecting your privacy.</p>
+          <p style="margin:0"></p>
         </li>
         <li>
         
@@ -610,30 +628,31 @@ function handleLanguageChange()
     <a href="/customerservice/home.jsp">Contact Us</a>&nbsp;:&nbsp;
     <a href="/guestaccess/secure/home.jsp">My Account</a>&nbsp;:&nbsp;
     <a href="/customerservice/privacy.jsp">Privacy Policy</a>&nbsp;:&nbsp;
-    <a href="/customerservice/termsandconditions.jsp">Terms and Conditions</a>
+    <a href="/customerservice/termsandconditions.jsp">Terms and Conditions</a>&nbsp;:&nbsp;
+    <a href="/aboutus/diversity.jsp">Diversity</a>
   </p>
   
   <p><a href="http://www.carlson.com">Visit our Family of Brands</a>:</p>
   <p>
   
   
-      <a href="http://www.regenthotels.com/crossBrandEntry.do?checkinDay=17&amp;checkinMonthYear=Dec+2005&amp;checkoutDay=18&amp;checkoutMonthYear=Dec+2005&amp;numberAdults=1%26s_ref%3DPark+Plaza+footer">Regent International Hotels</a>&nbsp;:&nbsp;	      
+      <a href="http://www.regenthotels.com/crossBrandEntry.do?checkinDay=27&amp;checkinMonthYear=Mar+2006&amp;checkoutDay=28&amp;checkoutMonthYear=Mar+2006&amp;numberAdults=1%26s_ref%3DPark+Plaza+footer">Regent International Hotels</a>&nbsp;:&nbsp;	      
   
   
   
-      <a href="http://www.radisson.com/crossBrandEntry.do?checkinDay=17&amp;checkinMonthYear=Dec+2005&amp;checkoutDay=18&amp;checkoutMonthYear=Dec+2005&amp;numberAdults=1%26s_ref%3DPark+Plaza+footer">Radisson Hotels &amp; Resorts</a>&nbsp;:&nbsp;	      
+      <a href="http://www.radisson.com/crossBrandEntry.do?checkinDay=27&amp;checkinMonthYear=Mar+2006&amp;checkoutDay=28&amp;checkoutMonthYear=Mar+2006&amp;numberAdults=1%26s_ref%3DPark+Plaza+footer">Radisson Hotels &amp; Resorts</a>&nbsp;:&nbsp;	      
   
   
   
-      <a href="http://www.countryinns.com/crossBrandEntry.do?checkinDay=17&amp;checkinMonthYear=Dec+2005&amp;checkoutDay=18&amp;checkoutMonthYear=Dec+2005&amp;numberAdults=1%26s_ref%3DPark+Plaza+footer">Country Inns &amp; Suites By Carlson</a>&nbsp;:&nbsp;	      
+      <a href="http://www.countryinns.com/crossBrandEntry.do?checkinDay=27&amp;checkinMonthYear=Mar+2006&amp;checkoutDay=28&amp;checkoutMonthYear=Mar+2006&amp;numberAdults=1%26s_ref%3DPark+Plaza+footer">Country Inns &amp; Suites By Carlson</a>&nbsp;:&nbsp;	      
   
   
   
-      <a href="http://www.parkinn.com/crossBrandEntry.do?checkinDay=17&amp;checkinMonthYear=Dec+2005&amp;checkoutDay=18&amp;checkoutMonthYear=Dec+2005&amp;numberAdults=1%26s_ref%3DPark+Plaza+footer">Park Inn</a>&nbsp;:&nbsp;	      
+      <a href="http://www.parkinn.com/crossBrandEntry.do?checkinDay=27&amp;checkinMonthYear=Mar+2006&amp;checkoutDay=28&amp;checkoutMonthYear=Mar+2006&amp;numberAdults=1%26s_ref%3DPark+Plaza+footer">Park Inn</a>&nbsp;:&nbsp;	      
   
   
   
-      <a href="http://www.rssc.com">Radisson Seven Seas Cruises</a>&nbsp;:&nbsp;	      
+      <a href="http://www.rssc.com">Regent Seven Seas Cruises</a>&nbsp;:&nbsp;	      
   
   
   
@@ -770,6 +789,11 @@ var s_linkTrackEvents="None"
 /* Plugin Config */
 var s_usePlugins=true
 function s_doPlugins() {
+        /*populate the SiteCatalyst campaign variable (s_campaign) if ¿cid¿ exists in the querystring. This is the parameter YesMail said they will be passing in the email links to your site(s) for the campaign id*/
+        s_vp_getCGI('s_campaign','cid');
+        /*populate a SiteCatalyst custom evar variable (s_eVar10). This variable will populate if uid exists in the querystring. This is the parameter YesMail said they will be passing in the email links to your site(s) for the userid*/
+        s_vp_getCGI('s_eVar8','uid');
+
 	// get campaign value from query string
 	s_vp_getCGI('s_campaign','s_cid');
 
@@ -1019,7 +1043,7 @@ unn];if(trk&&s_vs(un,sed))code+=s_mr(un,sess,q+(qs?qs:s_rq(un)),ta)
 s_sq(un,trk?'':qs)}return code}function s_dc(un){un=un.toLowerCase()
 s_wds(un);s_ca(un);return s_gs(un)}
 s_code=s_dc(s_account);if(s_code)s_d.write(s_code)
-</script><img name="s_i_carlsonparkplaza" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/carlsonparkplaza/1/G.9-Pd-R/s8191239586568?[AQB]&amp;ndh=1&amp;t=30/0/2020%202%3A51%3A45%204%200&amp;ce=ISO-8859-1&amp;pageName=/customerservice/privacy.jsp&amp;g=https%3A//web.archive.org/web/20051217172457id_/http%253A//www.parkplaza.com/customerservice/privacy.jsp&amp;cc=USD&amp;c1=Park%20Plaza&amp;v1=Park%20Plaza&amp;c2=unregistered&amp;v3=unregistered&amp;c10=/customerservice/privacy.jsp&amp;c11=English&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+</script><img name="s_i_carlsonparkplaza" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/carlsonparkplaza/1/G.9-Pd-R/s82550713565595?[AQB]&amp;ndh=1&amp;t=30/0/2020%202%3A51%3A48%204%200&amp;ce=ISO-8859-1&amp;pageName=/customerservice/privacy.jsp&amp;g=https%3A//web.archive.org/web/20060328000927id_/http%253A//www.parkplaza.com/customerservice/privacy.jsp&amp;cc=USD&amp;c1=Park%20Plaza&amp;v1=Park%20Plaza&amp;c2=unregistered&amp;v3=unregistered&amp;c10=/customerservice/privacy.jsp&amp;c11=English&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
 
 <!-- End SiteCatalyst code version: G.9. -->
 
@@ -1063,4 +1087,9 @@ s_code=s_dc(s_account);if(s_code)s_d.write(s_code)
 
 
 
+<!-- Server Name: OneWeb07 -->
+ <!-- 
+<table style="border-top:1px solid black;margin-top:3" cellpadding="0" cellspacing="0">  <tr><td style="padding-top:3"><b>FOR INTERNAL SYSTEM USE ONLY<br>Version Information</b></td></tr>  <tr><td><b>JAVA:</b>&nbsp; app id: OneWeb, Version: 3.1.171</td></tr>  <tr><td><b>FORTE:</b>&nbsp;app id: WBI, version: 4.08.0303, build date: 2006/03/07</td></tr></table>
+
+ -->
 </body></html>
