@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suntekstore.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204044840id_/http%3A//www.suntekstore.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suntekstore.com privacy policy that was archived on 2006-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060328083115id_/http%3A//www.suntekstore.com/privacypolicy.html) for the most accurate reproduction.*
 
 # SuntekStore.com Privacy Policy
 
