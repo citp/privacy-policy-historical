@@ -1,15 +1,17 @@
-> *The following text is extracted and transformed from the gapyear.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406005607id_/http%3A//www.gapyear.com/home.php%3Fop%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gapyear.com privacy policy that was archived on 2006-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060328141959id_/http%3A//www.gapyear.com/aboutus/privacy_policy.html) for the most accurate reproduction.*
 
-# GAPYEAR.COM
+# About Us :: Privacy Policy
+
+* * *
+
+* * *
 
   
-[Home](https://web.archive.org/web/20050406005607id_/http%3A//www.gapyear.com/index.php) :: Privacy policy
-
- **Privacy Statement**
+**Privacy Statement**
 
 We will not collect any personal or business information, nor store or share that information with any third party without your express permission.
 
-**Why we need Information**
+ **Why we need Information**
 
 When you visit our site you will receive explicit advice when we seek to gather information about you. The information you provide is used to produce your web page and any information you supply is displayed to the public on this page, unless otherwise stated. 
 
@@ -30,9 +32,9 @@ The information we collect about you or your business enables us to:
 \- deliver goods and services to the addresses you have provided   
 \- enhance and refine existing information we may have acquired from other sources  
 \- complete the internal administration necessary to register you and maintain our service to you   
-\- help benefit the growth and understanding of the gapyear market
+\- help benefit the growth and understanding of the gap year market
 
-**How do you know if we are gathering Information?**
+ **How do you know if we are gathering Information?**
 
 Detailed information about you is only collected when you are advised explicitly that is what we are doing and you supply it voluntarily. 
 
@@ -62,8 +64,7 @@ We take all reasonable precautions to protect information about you from loss, m
 
 **Payment Encryption Technology**
 
-To protect security we use the most advanced Encryption Technology, anti-intruder and anti-infection techniques when you are providing payment details. You can download an update to the default browser we recommend you use with this site, Internet Explorer 5 or above, which will give you 128 bit encryption. 
-
+To protect security we use the most advanced Encryption Technology, anti-intruder and anti-infection techniques when you are providing payment details. You can download an update to the default browser we recommend you use with this site, Internet Explorer 5 or above, which will give you 128 bit encryption.   
 **Destruction of Confidential Materials**
 
 Manual destruction of files, records and computer print-outs containing sensitive data are carried out in a secure way by either internally shredding or using a supplier who uses secure disposal methods. 
@@ -78,12 +79,11 @@ Some non-personal information may be collected automatically, such as the comput
 
 **Switching Cookies Off**
 
-Cookies are required in order to become a member of Gapyear, or to use the Gapyear Services. 
+Cookies are required in order to become a member of Gap year, or to use the Gap year Services. 
 
 **Linked Sites**
 
-This Privacy Promise does not apply to any third parties over whom we have no control. 
-
+This Privacy Promise does not apply to any third parties over whom we have no control.   
 **Changes to our Privacy Promise**
 
 We reserve the right to change this statement at any time without warning to meet any statutory requirements or changes in the nature of our activities and services. This privacy statement does not form the basis of any contract between any party. 
@@ -92,4 +92,4 @@ We reserve the right to change this statement at any time without warning to mee
 
 We caution you against giving out personally identifiable information (such as social security numbers, credit card numbers, names and addresses, driver license numbers, passwords) to strangers online, which may be used for illegal or harmful purposes.
 
-Some personal information you provide to Gapyear may be stored outside of the country in which you reside.
+Some personal information you provide to Gap year may be stored outside of the country in which you reside.
