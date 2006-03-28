@@ -1,298 +1,55 @@
-<!--The following is the downloaded HTML source of the grandinroad.com privacy policy that was archived on 2005-04-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050402082453id_/http%3A//www.frontgate.com/fg/cs.jsp%3FtId%3D59) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the grandinroad.com privacy policy that was archived on 2006-03-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060328083641id_/http%3A//www.grandinroad.com/jump.jsp%3FitemType%3DCATEGORY%26itemID%3D517%26path%3D1%252C2%252C270%252C517) for the most accurate reproduction.-->
 
-<html><head><script language="javascript" src="http://a1011.g.akamai.net/7/1011/6062/5ecacf302a9024/www.frontgate.com/flashinit.js"></script>
+<html><head><script language="JavaScript">
+    var isNav, isIE;
+    if(parseInt(navigator.appVersion) >= 4) {
+      if(navigator.appName == "Netscape")
+        isNav = true
+      else
+        isIE = true;
+    }
+
+    /* checks while typing*/
+    function maxlengthCheck(txt, evtThis, maxlength){
+      if(txt.value.length >= maxlength){
+        if (isIE)
+          event.keyCode = 0 // IE
+        else
+          return false;  // Netscape
+        maxlengthHack(txt, maxlength);
+        return false;
+      }
+    }
+
+    /* checks for pasted in text, etc*/
+    function maxlengthHack(txt, maxlength){
+      if(txt.value.length >= maxlength){
+        txt.value = txt.value.substring(0,maxlength);
+      }
+    }
+</script>
+
 
 <script language="JavaScript">
-if (!useRedirect) {    // if dynamic embedding is turned on
-if(hasRightVersion) {
-document.cookie = "flashenabled=1";
-} else {  // flash is too old or we cant detect the plugin
-document.cookie = "flashenabled=0";
+// Disable edit cell tab.
+   parent.editCell.className    = "tab-button-dis";
+//   parent.parent.frames('toolbarbottom').altButtons.style.display = "none";
+
+function saveForm() {
+    location.replace("/admin/displayeditcell.do?action=save");
 }
-} else {   // insert non-flash content
-document.cookie = "flashenabled=0";
-}
-</script>
 
-<title>Frontgate - Security &amp; Privacy</title>
+   function editCell(ruleID, itemID, slotID, itemType) {
+        parent.editDisplay.className     = "tab-button";
+        if(typeof(parent.displayRules)!="undefined") {
+            parent.displayRules.className = "tab-button";
+        }
+        parent.editCell.className    = "tab-button-on";
 
-
-
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<script language="javascript" src="http://a1011.g.akamai.net/7/1011/6062/94ce5dec13486d/www.frontgate.com/global_functions.js"></script>
-<script language="javascript">
-function checkForm(formname) 
-{
-    if (IE) {
-        var form = eval('document.all.' + formname);
-    } else if (NS) {
-        var form = eval('document.' + formname);
+        location.replace("/admin/displayeditcell.do?action=init&itemID=" + itemID + "&ruleID=" + ruleID + "&slotID="+ slotID + "&itemType=" + itemType );
+//        parent.parent.frames('toolbarbottom').altButtons.style.display= "inline";
     }
-    var showmsg = false;
-    var msg='Please provide the following information:\n\n';
-    if ((isFilled(form.firstname) == false)){ msg += 'First Name\n'; showmsg = true;}
-    if ((isFilled(form.lastname) == false)){ msg += 'Last Name\n'; showmsg = true;}
-    if ((isFilled(form.address1) == false)) { msg += 'Address\n'; showmsg = true;}
-    if ((isFilled(form.email) == false)) { msg += 'Email\n'; showmsg = true;}
-    if ((isFilled(form.siteurl) == false)) { msg += 'Site URL\n'; showmsg = true;}
-    if (showmsg == false) {
-        msg = 'Please re-enter the following information:\n\n';
-        if (!IsEmailValid(form.email)) { msg += 'Email Address'; showmsg = true;}
-        
-    } 
-    if (showmsg == true) {
-        alert(msg);
-    } else {
-        form.submit();
-    }   
-}
-</script>
-
-
-</head>
-<body bgcolor="#FFFFFF" background="http://a1011.g.akamai.net/7/1011/6062/25dd8cdc0b0c54/www.frontgate.com/images/other/page_bkgd.gif" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="PageLoad();">
-<center><div id="mainElement" align="center" width="748">
-
-
-<!-- The following must be kept on a single line.  Do not introduce link breaks between <fgfixup> tags -->
-<fgfixup name="cartCount"><script language="javascript">var cartCount = 0;</script></fgfixup>
-
-<script language="javascript">
-/******************************************************************************/
-function thisformsubmit() {
-    if (IE) {  
-        document.all.searchform.submit(); 
-    } else {
-        document.searchform.submit(); 
-    }
-} 
-/******************************************************************************/
-function cartSubmit(formname, typeSubmit) {
-    //A general purpose routine to submit the form
-    //I included the session and engine information in the form
-    //for consistency with other Broadvision code
-    //8/18/2000 Retrofitted for checkout link
-    if (IE) {
-        var form = eval('document.all.' + formname);
-    } else if (NS) {
-        var form = eval('document.' + formname);
-    }
-    
-    if (typeSubmit == 1) {
-        form.action = "http://www.frontgate.com/fg/shopcart.jsp";
-    } else {
-        form.action = "http://www.frontgate.com/fg/shopcart.jsp";
-        form.display.value = "review";
-    }
-    form.submit();
-    
-}
-
-
-// Initialiaze the main layers' HTML variables
-var sfHTML = '<table id="sfTable" name="sfTable" cellpadding="0" cellspacing="0" border="0" width="166" class="bgcream"><tr><td><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"></td></tr></table>';
-var csHTML = '<table id="csTable" name="csTable" cellpadding="0" cellspacing="0" border="0" width="166" class="bgcream"><tr><td><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"></td></tr></table>';
-var maHTML = '<table id="maTable" name="maTable" cellpadding="0" cellspacing="0" border="0" width="166" class="bgcream"><tr><td><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"></td></tr></table>';
-var scHTML = '<table id="scTable" name="scTable" cellspacing="0" cellpadding="0" border="0" width="165" class="bgcream"><tr><td><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"></td></tr></table>';
-var scHTMLadd = '<table id="scTableAdd" name="scTableAdd" cellspacing="0" cellpadding="0" border="0" width="165" class="bgcream"><tr><td><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"></td></tr></table>';
-
-
-	var itemAdded = "N";
-	
-
-
-// Product Catalog HTML for inside layer
-sfHTML =     '<table id="sfTable" name="sfTable" cellpadding="0" cellspacing="0" border="0" width="167" class="bgcream">'.concat(
-                 '<tr>',
-                     '<td class="bglightgray"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="1" height="8"></td>',
-                     '<td colspan="3"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"></td>',
-                     '<td class="bglightgray"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"></td>',
-                 '</tr>',
-                 '<tr>',
-                     '<td class="bglightgray"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"></td>',
-                     '<td><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"></td>',
-                     '<td>', '<!--begin leftnav include--><p class="leftnavmaincats"><img width=\'4\' height=\'1\' src=\'/images/spacer.gif\'><a class="maincatlist" href="http://www.frontgate.com/fg/cat.jsp?category_key=-13057" title="Patio &amp; Garden">Patio &amp; Garden</a><br><img width=\'4\' height=\'1\' src=\'/images/spacer.gif\'><a class="maincatlist" href="http://www.frontgate.com/fg/cat.jsp?category_key=-13052" title="Outdoor Furniture">Outdoor Furniture</a><br><img width=\'4\' height=\'1\' src=\'/images/spacer.gif\'><a class="maincatlist" href="http://www.frontgate.com/fg/cat.jsp?category_key=-13569" title="Furnishings &amp; Decor">Furnishings &amp; Decor</a><br><img width=\'4\' height=\'1\' src=\'/images/spacer.gif\'><a class="maincatlist" href="http://www.frontgate.com/fg/cat.jsp?category_key=-10635" title="Bed &amp; Bath">Bed &amp; Bath</a><br><img width=\'4\' height=\'1\' src=\'/images/spacer.gif\'><a class="maincatlist" href="http://www.frontgate.com/fg/cat.jsp?category_key=-13579" title="Gourmet Kitchen &amp; Bar">Gourmet Kitchen &amp; Bar</a><br><img width=\'4\' height=\'1\' src=\'/images/spacer.gif\'><a class="maincatlist" href="http://www.frontgate.com/fg/cat.jsp?category_key=-13576" title="Home Care &amp; Storage">Home Care &amp; Storage</a><br><img width=\'4\' height=\'1\' src=\'/images/spacer.gif\'><a class="maincatlist" href="http://www.frontgate.com/fg/cat.jsp?category_key=-10636" title="Electronics">Electronics</a><br><img width=\'4\' height=\'1\' src=\'/images/spacer.gif\'><a class="maincatlist" href="http://www.frontgate.com/fg/cat.jsp?category_key=-13065" title="Grilling &amp; Entertaining">Grilling &amp; Entertaining</a><br><img width=\'4\' height=\'1\' src=\'/images/spacer.gif\'><a class="maincatlist" href="http://www.frontgate.com/fg/cat.jsp?category_key=-13069" title="Pool &amp; Spa">Pool &amp; Spa</a><br><img width=\'4\' height=\'1\' src=\'/images/spacer.gif\'><a class="maincatlist" href="http://www.frontgate.com/fg/cat.jsp?category_key=-13546" title="Gift Guide">Gift Guide</a><br><img width=\'4\' height=\'1\' src=\'/images/spacer.gif\'><a class="maincatlist" href="http://www.frontgate.com/fg/cat.jsp?category_key=-10637" title="FRONTGATE OUTLET">FRONTGATE OUTLET</a><br><img src="http://a1011.g.akamai.net/7/1011/6062/8118a5e94de0ed/www.frontgate.com/images/leftnav/specialtytitles_bar_with_bg.gif" width=144 height=32 alt="" border="0"><br><img width=\'4\' height=\'1\' src=\'/images/spacer.gif\'><a class="minorcatlist" href="http://www.frontgate.com/fg/cat.jsp?category_key=-13318" title="Grandin Road">Grandin Road</a><br><img width=\'4\' height=\'1\' src=\'/images/spacer.gif\'><a class="minorcatlist" href="http://www.frontgate.com/fg/cat.jsp?category_key=-13362" title="Fine Outdoor Furnishings">Fine Outdoor Furnishings</a><br><img width=\'4\' height=\'1\' src=\'/images/spacer.gif\'><a class="minorcatlist" href="http://www.frontgate.com/fg/cat.jsp?category_key=-10644" title="Splash Pool &amp; Spa">Splash Pool &amp; Spa</a><br></p><!--end leftnav include-->', '</td>',
-                     '<td><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"></td>',
-                     '<td class="bglightgray"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"></td>',
-                 '</tr>',
-                 '<tr><td class="bglightgray"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="8" width="1"></td>',
-                     '<td colspan="3"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"></td>',
-                     '<td class="bglightgray"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"></td>',
-                 '</tr>',
-                 '<tr class="bglightgray">',
-                     '<td colspan="5"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="1" width="1"></td>',
-                 '</tr>',
-              '</table>');
-   
-
-
-// My Account HTML for inside layer
-maHTML =     '<table id="maTable" name="maTable" cellpadding="0" cellspacing="0" border="0" width="167" class="bgcream">'.concat(
-                 '<tr>',
-                     '<td class="bglightgray"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="1" height="8"></td>',
-                     '<td colspan="3"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"></td>',
-                     '<td class="bglightgray"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"></td>',
-                 '</tr>',
-                 '<tr>',
-                     '<td class="bglightgray"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="1" width="1"></td>',
-                     '<td><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="1" width="8"></td>',
-                     '<td>', '<!--begin leftnav include--><p class="leftnavmaincats"><img width=\'4\' height=\'1\' src=\'/images/spacer.gif\'><a class="minorcatlist" href="https://www.frontgate.com/fg/ma_signin.jsp" title="Log In">Log In</a><br><img width=\'4\' height=\'1\' src=\'/images/spacer.gif\'><a class="minorcatlist" href="https://www.frontgate.com/fg/createaccount.jsp" title="Create an Account">Create an Account</a><br><img width=\'4\' height=\'1\' src=\'/images/spacer.gif\'><a class="minorcatlist" href="http://www.frontgate.com/fg/ot_order_search.jsp" title="Order Tracking">Order Tracking</a><br></p><!--end leftnav include-->', '</td>',
-                     '<td><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="1" width="8"></td>',
-                     '<td class="bglightgray"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="1" width="1"></td>',
-                 '</tr>',
-                 '<tr><td class="bglightgray"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="8" width="1"></td>',
-                     '<td colspan="3"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"></td>',
-                     '<td class="bglightgray"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"></td>',
-                 '</tr>',
-                 '<tr class="bglightgray">',
-                     '<td colspan="5"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="1" width="1"></td>',
-                 '</tr>',
-             '</table>');
-              
-
-// Shopping Cart HTML for inside layer
-scHTML =     '<table id="scTable" name="scTable" height="30" width="250" cellspacing="0" cellpadding="0" border="0" class="bgcream">'.concat(
-                '<tr>',
-                    '<td class="bglightgray" valign="top" align="left" width="1"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="1" width="1"></td>',
-                    '<td valign="top" align="left" width="10"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="10" height="1"></td>',
-                    '<td valign="top" align="left" width="228" colspan="2"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="5" width="228"></td>',
-                    '<td valign="top" align="left" width="10"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="10" height="1"></td>',
-                    '<td class="bglightgray" valign="top" align="left" width="1" align="left"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="1" width="1"></td>',
-                 '</tr>',
-                 '<tr>',
-                    '<td class="bglightgray" valign="top" align="left" width="1"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="1" width="1"></td>',
-                    '<td valign="top" align="left" width="10"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="10" height="1"></td>',
-                    '<fgfixup name="cartItemQty">','<td colspan="2" valign="top" align="left" class="bgcream"><br><span class="standardsmall">There are no items in your cart.<br><br></span></td>','</fgfixup>',
-                    '<td valign="top" align="left" width="10"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="10" height="1"></td>',
-                    '<td class="bglightgray" valign="top" align="left" width="1"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="1" width="1"></td>',
-                '</tr>');
-
-	       
-                                    
-if (cartCount > 0)
-{                 
-  scHTML=
-  scHTML.concat('<tr>',
-                    '<td class="bglightgray" valign="top" align="left" width="1"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="1" width="1"></td>',
-                    '<td valign="top" align="left" width="10"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="10" height="1"></td>',
-                    '<td align="center" height="14" colspan="2">',
-                         '<table height="14" width="170" cellspacing="0" cellpadding="0" border="0">',
-                            '<tr>',
-                                '<td align="left"><a href="javascript:cartSubmit(\'searchform\',1);"><img src="http://a1011.g.akamai.net/7/1011/6062/fcf69c226008c7/www.frontgate.com/images/buttons/btn_viewdetails.gif" height="14" width="81" border="0"></a></td>',
-                                '<td class="bgcream"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="8" height="14"></td>',
-                                '<td align="right"><a href="javascript:cartSubmit(\'searchform\',2)"><img src="http://a1011.g.akamai.net/7/1011/6062/a0f94ae470a07d/www.frontgate.com/images/buttons/btn_checkout_small.gif" height="14" width="81" border="0"></a></td>',
-                            '</tr>',
-                        '</table>',
-                    '</td>',
-                    '<td valign="top" align="left" width="10"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="10" height="1"></td>',
-                    '<td class="bglightgray" valign="top" align="left" width="1" align="left"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="1" width="1"></td>',
-                '</tr>');
-
-   scHTMLadd =
-   scHTMLadd.concat('<tr>',
-                    '<td class="bglightgray" valign="top" align="left" width="1"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="1" width="1"></td>',
-                    '<td valign="top" align="left" width="10"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="10" height="1"></td>',
-                    '<td align="center" height="14" colspan="2">',
-                         '<table height="14" width="170" cellspacing="0" cellpadding="0" border="0">',
-                            '<tr>',
-                                '<td align="left"><a href="javascript:cartSubmit(\'searchform\',1);"><img src="http://a1011.g.akamai.net/7/1011/6062/fcf69c226008c7/www.frontgate.com/images/buttons/btn_viewdetails.gif" height="14" width="81" border="0"></a></td>',
-                                '<td class="bgcream"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="8" height="14"></td>',
-                                '<td align="right"><a href="javascript:cartSubmit(\'searchform\',2)"><img src="http://a1011.g.akamai.net/7/1011/6062/a0f94ae470a07d/www.frontgate.com/images/buttons/btn_checkout_small.gif" height="14" width="81" border="0"></a></td>',
-                            '</tr>',
-                        '</table>',
-                    '</td>',
-                    '<td valign="top" align="left" width="10"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="10" height="1"></td>',
-                    '<td class="bglightgray" valign="top" align="left" width="1" align="left"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="1" width="1"></td>',
-                '</tr>',
-                '<tr>',
-	                    '<td class="bglightgray" valign="top" align="left" width="1"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="1" width="1"></td>',
-	                    '<td valign="top" align="left" width="1" height="8" colspan="4"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="2" width="190"></td>',
-	                    '<td class="bglightgray" valign="top" align="left" width="1"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="1" width="1"></td>',
-	          '</tr>',
-                '<tr class="bglightgray">',
-	                    '<td valign="top" align="left" width="1" height="1" colspan="6"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="1" width="192"></td>',
-	         '</tr>',
-	         
-	          '</table>');
-}
-                
-scHTML =                 
-  scHTML.concat('<tr>',
-                    '<td class="bglightgray" valign="top" align="left" width="1"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="1" width="1"></td>',
-                    '<td valign="top" align="left" width="1" height="8" colspan="4"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="8" width="190"></td>',
-                    '<td class="bglightgray" valign="top" align="left" width="1"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="1" width="1"></td>',
-                '</tr>',
-                '<tr class="bglightgray">',
-                    '<td valign="top" align="left" width="1" height="1" colspan="6"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="1" width="192"></td>',
-                '</tr>',
-            '</table>');
-
-
-
-
-
-// Number of Items HTML for inside layer
-var niHTML = '<table id="niTable" name="niTable" cellspacing="0" cellpadding="0" border="0" width="165" class="bgcream"><tr><td class="bgcream" align="left" valign="top">('.concat(cartCount, ' item', (cartCount==1?"":"s"), ')</td></tr></table>');
-
-// Create the Layer objects for each unique dropdown or overlay and apply
-// Original v3 function had cart at 273px wide for all browsers by NS6, which was 280px
-var ieMouseOutCondition = IE ? 'if(!this.contains(event.toElement))' : '';
-
-var scLayer;
-            
-if(itemAdded != "N")
-{
-        
-        var scLayer = new Layer(document, 'sc', scHTMLadd, null, 90, 250, null, 'onMouseOver="stopHideTimer(scIndex);" onMouseOut="'.concat(ieMouseOutCondition, 'startHideTimer(scIndex);"'));
-	    scLayer.output();
-	    scLayer.hide();
-	
-	window.setTimeout("scLayer.show()", 3000);
-	  
-	window.setTimeout("scLayer.setBody(scHTML);scLayer.hide(); ", 8000);
-	
-	
-} else {
-
-var scLayer = new Layer(document, 'sc', scHTML, null, 90, 250, null, 'onMouseOver="stopHideTimer(scIndex);" onMouseOut="'.concat(ieMouseOutCondition, 'startHideTimer(scIndex);"'));
-	    scLayer.output();
-	    scLayer.hide();
-
-}
-
-var sfLayer = new Layer(document, 'sf', sfHTML, null, 90, 162, null, 'onMouseOver="stopHideTimer(sfIndex);" onMouseOut="'.concat(ieMouseOutCondition, 'startHideTimer(sfIndex);"'));
-    sfLayer.output();
-    sfLayer.hide();
-
-var csLayer = new Layer(document, 'cs', csHTML, null, 90, 162, null, 'onMouseOver="stopHideTimer(csIndex);" onMouseOut="'.concat(ieMouseOutCondition, 'startHideTimer(csIndex);"'));
-    csLayer.output();
-    csLayer.hide();
-
-var maLayer = new Layer(document, 'ma', maHTML, null, 90, 162, null, 'onMouseOver="stopHideTimer(maIndex);" onMouseOut="'.concat(ieMouseOutCondition, 'startHideTimer(maIndex);"'));
-    maLayer.output();
-    maLayer.hide();
-
-var niLayer = new Layer(document, 'ni', niHTML, null, 73, 60, null, 'onMouseOver="stopHideTimer(scIndex);"');
-    niLayer.output();
-    niLayer.hide();
-
-
-/******************************************************************************/
-// Build the search table HTML
-var searchHTML = '<table width="185" border="0" cellspacing="0" cellpadding="0" class="bgcream">'.concat(
-                     '<tr>',
-                        '<td align="left" valign="center">', buildInput("Description", 140, 200, ""), '</td>',
-                        '<td align="right" valign="center"><input type="image" name="btnFind" src="http://a1011.g.akamai.net/7/1011/6062/688eea181869a5/www.frontgate.com/images/buttons/btn_find.gif" border="0" width="32" height="17"></td>',
-                     '</tr>',
-                 '</table>');
-
-/******************************************************************************/
-
-// Set the default state of the number item layer for this page, so that it
-// can be used in an updateNumItemLayer() call in global_functions.js file
-numItemLayerHilite = false;
-itemAdded = "N";
 </script>
 
 
@@ -300,335 +57,939 @@ itemAdded = "N";
 
 
 
+
+
+
+
+
+
+
+<title>Grandin Road - For Your Protection</title>
+<meta name="description" content="Frontgate offers luxury home furnishings and decor for your kitchen, living room, pool, patio, garden, entry way, dining room, and recreation room.">
+<meta name="keywords" content="Frontgate, Grandin Road, home decor, luxury, furniture, Front gate, patio, garden, bar, recreation, outdoor, utility, dining, living, quality">
+<link rel="stylesheet" type="text/css" href="/includes/stylesheet_GR.css" title="style">
+<script src="/includes/flyopen.js"></script>
+<script src="/includes/rollover.js"></script>
+<script src="/includes/cleartext.js"></script>
 <script language="javascript">
-/******************************************************************************/
+arImageList = new Array ();
+arSubImageList = new Array ();
 
-    
-
-
-</script>	
-
-
-
-
-<table align="center" width="748" border="0" cellpadding="0" cellspacing="0">
-    <tbody><tr>
-       <td width="748" valign="top">
-            <div align="center">
-            <table align="center" width="748" border="0" cellpadding="0" cellspacing="0" class="bgcream">
-                
-	        <tbody><tr>
-			<td><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="16" height="1" alt=""></td>
-			<td><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="145" height="1" alt=""></td>
-			<td><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="5" height="1" alt=""></td>
-			<td><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="1" height="1" alt=""></td>
-			<td><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="15" height="1" alt=""></td>
-			<td><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="150" height="1" alt=""></td>
-			<td><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="95" height="1" alt=""></td>
-			<td><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="71" height="1" alt=""></td>
-			<td><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="35" height="1" alt=""></td>
-			<td><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="130" height="1" alt=""></td>
-			<td><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="69" height="1" alt=""></td>
-			<td><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="16" height="1" alt=""></td>
-			<td></td>
-		</tr>
-                <tr>
-			<td colspan="6"><a href="home.jsp"><img src="http://a1011.g.akamai.net/7/1011/6062/522bedcfbc4b03/www.frontgate.com/images/globalheader/FGlogo.gif" width="332" height="70" alt="Home" title="Home"></a></td>
-			<td colspan="2"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="166" height="70" alt=""></td>
-			<td><img src="http://a1011.g.akamai.net/7/1011/6062/61e7026b2b8a2b/www.frontgate.com/images/globalheader/topnav_searchdivider.gif" width="35" height="70" alt=""></td>
-			<td colspan="3">
-                <!--begin nested table for search area-->
-                        <table width="185" border="0" cellspacing="0" cellpadding="0" class="bgcream">
-                        <form method="GET" action="http://www.frontgate.com/fg/search_result.jsp" name="searchform"></form>
-                            
-                            <tbody><tr>
-                                <td colspan="2" valign="top"><img src="http://a1011.g.akamai.net/7/1011/6062/3cfddb1f4acc29/www.frontgate.com/images/search/header.gif" width="181" height="8" alt=""></td>
-                            </tr>
-                            <tr>
-                                <td height="25" colspan="2" valign="top"><script language="javascript">document.write(searchHTML);</script>undefined<input type="hidden" name="display" value=""></td>
-                            </tr>
-                            <tr>
-                                <td colspan="2" valign="top"><a href="http://www.frontgate.com/fg/eo_enteritem.jsp"><img src="http://a1011.g.akamai.net/7/1011/6062/32e1d59563ea4e/www.frontgate.com/images/search/whatsanitem.gif" width="136" height="11" border="0" alt=""></a></td>
-                               
-                            </tr>
-                            
-                        
-                        </tbody></table>
-                <!--end nested table for search area-->
-                    </td>
-                    <td colspan="1" valign="top" height="70"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="1" height="70" border="0" alt=""></td>
-                </tr>
-                
-                <tr class="bgmedbrown">
-                    <!-- <td height="18"><img src="/images/globalheader/green_spacer_20.gif" width="16" height="20" alt=""></td> -->
-
-                    <td colspan="3" height="18"><a href="http://www.frontgate.com/fg/home.jsp" onmouseout="javascript:stopShowTimer(sfIndex);startHideTimer(sfIndex);" onmouseover="javascript:stopHideTimer(sfIndex);startShowTimer(sfIndex);changeImages('sfImage', 'http://a1011.g.akamai.net/7/1011/6062/fb731b0fa950b4/www.frontgate.com/images/globalheader/shop_on.gif');"><img name="sfImage" src="http://a1011.g.akamai.net/7/1011/6062/180e9a01a56aa2/www.frontgate.com/images/globalheader/shop.gif" width="166" height="18" border="0"></a></td>
-
-                    <!-- <td height="18"><img src="/images/globalheader/green_spacer_20.gif" width="27" height="18" alt=""></td> -->
-
-                    <td colspan="3" height="18"><a href="http://www.frontgate.com/fg/cs.jsp"><img name="csImage" src="http://a1011.g.akamai.net/7/1011/6062/839239a33c9284/www.frontgate.com/images/globalheader/custserv_on.gif" width="166" height="18" border="0"></a></td>
-    
-                    <!-- <td colspan="4" height="18"><img src="/images/globalheader/green_spacer_20.gif" width="27" height="18" alt=""></td> -->
-
-                    <td colspan="2" height="18"><a href="https://www.frontgate.com/fg/ma_portal.jsp" onmouseout="javascript:stopShowTimer(maIndex);startHideTimer(maIndex);" onmouseover="javascript:stopHideTimer(maIndex);startShowTimer(maIndex);changeImages('maImage','http://a1011.g.akamai.net/7/1011/6062/c279a81032e912/www.frontgate.com/images/globalheader/myaccount_on.gif');"><img name="maImage" src="http://a1011.g.akamai.net/7/1011/6062/6cd678f4eb9966/www.frontgate.com/images/globalheader/myaccount.gif" width="166" height="18" border="0"></a></td>
-
-                    <!-- <td colspan="2" height="18"><img src="/images/globalheader/green_spacer_20.gif" width="93" height="18" alt=""></td> -->
-
-                    <td colspan="5" height="18"><a href="http://www.frontgate.com/fg/shopcart.jsp" onmouseout="javascript:stopShowTimer(scIndex);startHideTimer(scIndex);" onmouseover="javascript:startShowTimer(scIndex);updateNumItemLayer(true);changeImages('scImage', 'http://a1011.g.akamai.net/7/1011/6062/61e041d160968f/www.frontgate.com/images/globalheader/shopcart_on.gif');stopHideTimer(scIndex);"><img name="scImage" src="http://a1011.g.akamai.net/7/1011/6062/30831f2ef955aa/www.frontgate.com/images/globalheader/shopcart.gif" width="250" height="18" border="0"></a></td>
-
-		     
-                   <!-- <td colspan="1" height="18" valign="top"><img src="/images/spacer.gif" width="15" height="18" alt=""></td>  
-                    <td colspan="1" height="18" valign="top"><img src="/images/spacer.gif" width="1" height="18" alt=""></td> -->
-                </tr>
-            </tbody></table>
-        </div></td>
-    </tr>
-    <tr>
-        <td width="748" valign="top" align="center"><!--HTML structures within this cell must be 748px wide, or less.-->
-
-
-
-
-            <table width="748" border="0" cellspacing="0" cellpadding="0" align="top">
-                <tbody><tr>
-                    <td width="16" height="10"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="16" height="10"></td>
-                    <td width="145" height="10"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="145" height="10"></td>
-                    <td width="5" height="10"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="5" height="10"></td>
-                    <td class="bglightgray" width="1" height="10"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="1" height="10"></td>
-                    <td width="15" height="10"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="15" height="10"></td>
-                    <td width="550" height="10"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="550" height="10"></td>
-                    <td width="16" height="10"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="16" height="10"></td>
-                </tr>
-                <tr>
-                    <td width="16" height="1" valign="top"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="16" height="1"></td>
-                    <td width="145" valign="top">
-                        <table width="145" border="0" cellspacing="0" cellpadding="0" align="top">
-                            <tbody><tr>
-                                <td width="145" align="left" valign="top"><!--begin leftnav include-->
-<p class="leftnavmaincats"><img width="4" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><span class="maincatlist">Ordering Information</span><br><img width="13" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><a class="subcatlist" href="http://www.frontgate.com/fg/cs.jsp?tId=50" title="How To Order">How To Order</a><br><img width="13" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><a class="subcatlist" href="http://www.frontgate.com/fg/cs.jsp?tId=52" title="Gifting Services">Gifting Services</a><br><img width="13" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><a class="subcatlist" href="http://www.frontgate.com/fg/cs.jsp?tId=85" title="Corporate Sales">Corporate Sales</a><br><img width="13" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><a class="subcatlist" href="http://www.frontgate.com/fg/cs.jsp?tId=54" title="Customer FAQs">Customer FAQs</a><br><img width="4" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><span class="maincatlist">Shipping &amp; Returns</span><br><img width="13" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><a class="subcatlist" href="http://www.frontgate.com/fg/cs.jsp?tId=51" title="Shipping &amp; Processing">Shipping &amp; Processing</a><br><img width="13" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><a class="subcatlist" href="https://www.frontgate.com/fg/ot_order_search.jsp" title="Order Tracking">Order Tracking</a><br><img width="13" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><a class="subcatlist" href="http://www.frontgate.com/fg/cs.jsp?tId=57" title="Returns &amp; Exchanges">Returns &amp; Exchanges</a><br><img width="13" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><a class="subcatlist" href="http://www.frontgate.com/fg/cs.jsp?tId=170" title="Holiday Shipping Schedule">Holiday Shipping Schedule</a><br><img width="4" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><span class="maincatlist">For Your Protection</span><br><img width="13" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><span class="subcathilite">Security &amp; Privacy</span><br><img width="13" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><a class="subcatlist" href="http://www.frontgate.com/fg/cs.jsp?tId=58" title="One-Year Guarantee">One-Year Guarantee</a><br><img width="13" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><a class="subcatlist" href="http://www.frontgate.com/fg/cs.jsp?tId=60" title="Price Protection Policy">Price Protection Policy</a><br><img width="13" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><a class="subcatlist" href="http://www.frontgate.com/fg/cs.jsp?tId=131" title="Cookies &amp; JavaScript">Cookies &amp; JavaScript</a><br><img width="4" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><span class="maincatlist">Email/Catalog Requests</span><br><img width="13" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><a class="subcatlist" href="http://www.frontgate.com/fg/email_signup.jsp" title="Preferred Email Registry">Preferred Email Registry</a><br><img width="13" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><a class="subcatlist" href="http://www.frontgate.com/fg/catalog.jsp" title="Request a Catalog">Request a Catalog</a><br><img width="13" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><a class="subcatlist" href="http://www.frontgate.com/fg/cs.jsp?tId=82" title="Catalog Mail Preference">Catalog Mail Preference</a><br><img width="4" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><span class="maincatlist">About Frontgate</span><br><img width="13" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><a class="subcatlist" href="http://www.frontgate.com/fg/cs.jsp?tId=61" title="Company Profile">Company Profile</a><br><img width="13" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><a class="subcatlist" href="http://www.frontgate.com/fg/cs.jsp?tId=125" title="Corporate Offices">Corporate Offices</a><br><img width="13" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><a class="subcatlist" href="http://www.frontgate.com/fg/cs.jsp?tId=72" title="Career Opportunities">Career Opportunities</a><br><img width="13" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><a class="subcatlist" href="http://www.frontgate.com/fg/cs.jsp?tId=74" title="Terms &amp; Conditions">Terms &amp; Conditions</a><br><img width="4" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><span class="maincatlist">Contacting Frontgate</span><br><img width="13" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><a class="subcatlist" href="http://www.frontgate.com/fg/cs.jsp?tId=62" title="Contact Us">Contact Us</a><br><img width="13" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><a class="subcatlist" href="http://www.frontgate.com/fg/cs.jsp?tId=126" title="Store Locator">Store Locator</a><br><img width="13" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><a class="subcatlist" href="http://www.frontgate.com/fg/cs.jsp?tId=68" title="Supplier Inquiries">Supplier Inquiries</a><br><img width="13" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><a class="subcatlist" href="http://www.frontgate.com/fg/cs.jsp?tId=69" title="Frontgate Partnerships">Frontgate Partnerships</a><br><img width="13" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><a class="subcatlist" href="http://www.frontgate.com/fg/cs.jsp?tId=73" title="Report Technical Issues">Report Technical Issues</a><br><img width="13" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><a class="subcatlist" href="http://www.frontgate.com/fg/cs.jsp?tId=172" title="Media Requests">Media Requests</a><br><br><br></p>
-<!--end leftnav include--></td>
-                            </tr>
-                        </tbody></table>    
-                    </td>
-                    <td width="5" height="10"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="5" height="1"></td>
-                    <td class="bglightgray" width="1" height="1"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="1" height="1"></td>
-                    <td width="15" height="1"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="15" height="1"></td>
-                    <td width="550" valign="top">
-                        <table width="550" border="0" cellspacing="0" cellpadding="0" align="top">
-                            <tbody><tr>
-                                <td width="550" height="15" align="left" valign="top"><span class="breadcrumb"><a href="http://www.frontgate.com/fg/home.jsp" title="Home">Home</a>&nbsp;&gt;&nbsp;<a href="http://www.frontgate.com/fg/cs.jsp" title="Customer Service">Customer Service</a>&nbsp;&gt;&nbsp;Security &amp; Privacy</span></td>
-                            </tr>
-                            <tr>
-                                <td width="550" height="10"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="550" height="10"></td>
-                            </tr>
-                            <tr>
-                                <td width="550" valign="top" align="left">
-
-<script language="JavaScript"> 
-<!-- 
-function Rcertify() 
-{
-popupWin = window.open('http://www.bbbonline.org/cks.asp?id=292001193', 'Participant','location=yes,scrollbars=yes,width=600,height=450'); 
-window.name = 'opener';
-} 
-// --> 
-</script>  
-
-
-<!--begin outer table-->
-<table border="0" width="550" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td>
-
-<p><img src="http://a1011.g.akamai.net/7/1011/6062/d69f822bcac076/www.frontgate.com/images/custcare/hd_privacy_security.gif" width="197" height="22" alt="" border="0"></p>
-
-<p>Frontgate has developed an online commerce environment that is safe, secure, and respectful of your privacy.</p>
-
-<h4>Online Security</h4>
-<p><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="400" valign="top">
-Frontgate understands your concerns about online security. We go to great lengths to ensure that our site offers a secure commerce environment. The transfer of sensitive information between you and Frontgate is protected by the highest standard of encryption technology available on the Internet. Public/private key cryptography enables the creation of a secure "conversation" between your browser and our secure server. While this conversation could potentially be "overheard," it cannot be decrypted.
-</td><td align="center">
-
-<a href="" onclick="Rcertify();return false;"><img src="http://a1011.g.akamai.net/7/1011/6062/524061a01bde63/www.frontgate.com/incs/images/bbb_seal.gif" width="56" height="85" border="0" vspace="4"><br><u>Click to verify</u></a><br><a href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.FRONTGATE.COM&amp;lang=en"><img src="http://a1011.g.akamai.net/7/1011/6062/4462c5186fe22d/www.frontgate.com/images/verisign2.jpg" width="87" height="39" vspace="4"></a></td></tr></tbody></table>
-
-Follow the links below to learn more:</p>
-
-<ul>
-<li><a href="cs.jsp?tId=70#p1_1">How You Can Tell You're Browsing a Secure Website</a>
-</li><li><a href="cs.jsp?tId=70#p1_2">Data Encryption &amp; Risk of Decryption</a>
-</li><li><a href="cs.jsp?tId=70#p1_3">Top 10 Online Smart Shopping Tips</a>
-</li><li><a href="cs.jsp?tId=70#p1_4">Contacting the Webmaster</a>
-</li></ul>
-
-<h4>Your Privacy</h4>
-<p>Those who communicate with Frontgate and supply us with their contact information may receive future communications by email, direct mail, or telephone. If you do not wish to receive correspondence from Frontgate, you can contact us with a request to be removed from our mailing list.</p>
-
-<p>This site recognizes the IP addresses of visitors, but not their email addresses. Individually identifiable email addresses are not captured or stored unless they are directly provided to us. Email addresses will NOT be provided to any non-affiliated parties outside the Frontgate business group.</p>
-
-<p>Follow the links below to learn more about Frontgate’s information-gathering and -dissemination practices:</p>
-
-<ul>
-<li><a href="cs.jsp?tId=71#p1">How We Gather &amp; Use Your Personal Information</a>
-</li><li><a href="cs.jsp?tId=71#p2">How Our Web Site Uses Cookies &amp; IP Addresses</a>
-</li><li><a href="cs.jsp?tId=71#p3">Information Received by or Supplied to Third Parties</a>
-</li><li><a href="cs.jsp?tId=71#p4">Changing Your Email &amp; Mailing Preferences</a>
-</li><li><a href="cs.jsp?tId=71#p5">Removing Your Name from Mailing Lists, Telemarketing Lists, &amp; Email Lists in General</a>
-</li><li><a href="cs.jsp?tId=71#p6">Making Corrections &amp; Updates to Your Frontgate Account Information</a>
-</li><li><a href="cs.jsp?tId=71#p7">Protecting Childrens' Privacy</a>
-</li><li><a href="cs.jsp?tId=71#p8">Contacting the Webmaster</a>
-</li></ul>
-
-<!--end outer table-->
-</td>
-</tr>
-</tbody></table>
-            
-                                </td>            
-                            </tr>
-                        </tbody></table>    
-                    </td>
-                    <td width="16" height="1" valign="top"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="16" height="1"></td>
-                </tr>
-                <tr>
-                    <td colspan="3" height="15"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="15"></td>
-                    <td class="bglightgray" width="1" height="15"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="1" height="15"></td>
-                    <td colspan="3" height="15"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="15"></td>
-                </tr>
-            </tbody></table>
-
-
-
-
-
-        </td>
-    </tr>
-    <tr>
-        <td width="748" height="90" valign="top">
-           <form method="post" action="javascript:checkOptinForm('submitEmail');" name="submitEmail"> 
-            
-            
-            <table width="748" border="0" cellpadding="0" cellspacing="0" align="center">
-                <tbody><tr>
-                    <td colspan="5"><img src="http://a1011.g.akamai.net/7/1011/6062/47badb8e286c57/www.frontgate.com/images/globalfooter/horizontal_rule_748.gif" width="748" height="1" alt=""></td>
-                </tr>
-                <tr valign="top">
-                    <td rowspan="2" width="166" align="left" valign="top"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="166" height="24" alt=""><br><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="28" height="1" alt=""><img src="http://a1011.g.akamai.net/7/1011/6062/824bea9ae72661/www.frontgate.com/images/other/phone_number.gif" alt=""><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="28" height="1" alt=""></td>
-                    <td rowspan="2"><img src="http://a1011.g.akamai.net/7/1011/6062/f24cd3e346d70c/www.frontgate.com/images/globalfooter/vertical_rule_down.gif" width="1" height="89" alt=""></td>
-                    <td rowspan="2" width="15"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="15" height="89" alt=""></td>
-                    <td width="550" height="1"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="550" height="1" alt=""></td>
-                    <td rowspan="2" width="16"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="16" height="89" alt=""></td>
-                </tr>
-                <tr>
-                   <td width="550">
-                     <table width="550" border="0" cellpadding="0" cellspacing="0" align="center">
-                        <tbody><tr valign="middle"><td width="550" colspan="3"><span class="footer"><b>Join our <a href="email_signup.jsp"><b>Preferred Email Registry</b></a> for exclusive offers and previews: &nbsp;</b><input class="footer" type="text" name="receipt_email_address" value="Enter email address here" onclick="javascript:clearEmailField('submitEmail');" size="27"> <a href="javascript:checkOptinForm('submitEmail');"><img align="top" src="http://a1011.g.akamai.net/7/1011/6062/c7c01b04c678ef/www.frontgate.com/images/buttons/btn_submit_email.gif" alt="Submit" border="0"></a></span></td></tr>
-                     	<input type="hidden" name="FG_EMAIL" value="1">
-                     	<tr>
-                     	   <td width="550" colspan="3" height="5"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="550" height="5" alt=""></td>	
-                     	</tr>
-                     	<tr>
-	                   <td width="550" colspan="3"><span class="footer"><a href="http://www.frontgate.com/fg/cs.jsp?tId=62" title="Contact Us">Contact Us</a>&nbsp;|&nbsp;<a href="https://www.frontgate.com/fg/catalog.jsp" title="Free Catalog Request">Free Catalog Request</a>&nbsp;|&nbsp;<a href="http://www.frontgate.com/fg/cs.jsp?tId=58" title="One-Year Guarantee">One-Year Guarantee</a>&nbsp;|&nbsp;<a href="https://www.frontgate.com/fg/ot_order_search.jsp" title="Order Tracking">Order Tracking</a>&nbsp;|&nbsp;<a href="http://www.frontgate.com/fg/cs.jsp?tId=59" title="Security &amp; Privacy">Security &amp; Privacy</a><br><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="6" width="1" alt=""><br><a href="http://www.frontgate.com/fg/cs.jsp?tId=51">Shipping Information</a> | <a href="http://www.frontgate.com/fg/cs.jsp?tId=126">Store Locator</a> | <a href="http://www.frontgate.com/sitemap/">Site Map</a>&nbsp;|&nbsp;© 2005 Frontgate®</span></td>
-	                </tr>
-	             </tbody></table>
- 		  </td>
-                </tr>
-            </tbody></table>
-          </form>        
-        </td>
-    </tr>
-</tbody></table>
-<script language="javascript">
-
-function myBuildFullURL(filename, secure){
-    var linkURI = "http://";
-    if (secure)
-    {
-        linkURI = "https://";
+function preLoadCatImages(images_array) {
+	for(loop = 0; loop < images_array.length; loop++)
+	{
+           arImageList[loop] = new Image();
+           arImageList[loop].src = images_array[loop];
+	}
+}
+function preLoadSubCatImages(images_array) {
+	for(loop = 0; loop < images_array.length; loop++)
+	{
+           arSubImageList[loop] = new Image();
+           arSubImageList[loop].src = images_array[loop];
+	}
+}
+function changeCat(frm, thisbox) {
+   var optiontxt = thisbox.options[thisbox.selectedIndex].value;
+   if (optiontxt == "0"){
+        return;
     }
-
-    var startsWithSlash = /^\//;
-    if ( !startsWithSlash.test(filename) )
-    {
-        filename = __fastconcat("/",filename);
-    }
-
-    var returnLink = __fastconcat(linkURI, FG_CONST.HTTP_HOST, FG_CONST.NSAPI_GATEWAY_NAME, filename);
-    return returnLink;
+    location.href = optiontxt
+    //frm.action = optiontxt;
+    //alert (frm.action);
+    //frm.submit();
 }
 
-function clearEmailField(formname) {
- if (IE)
-    {
-        var form = eval('document.all.' + formname);
-    }
-    else if (NS)
-    {
-        var form = eval('document.' + formname);
-    }
- 
- if (form.receipt_email_address.value == "Enter email address here")
- 	form.receipt_email_address.value = '';
+function moreinfow(linkv) {
+	var linkURL = "/shopping/product/moreinfo.jsp?iProductID=517&linknum=" + linkv;
+	openMe(linkURL, 'MoreInfo');
+}
+
+function countCharacters(field,maxlimit) {
+	if (field.value.length > maxlimit-1) {
+		field.value = field.value.substring(0, maxlimit);
+		//alert("Sorry, maximum characters is "+maxlimit+"!");
+	}
+}
+
+</script>
+
+<!-- MilonicDHTML -->
+<script type="text/javascript" src="/menu/milonic_src.js"></script>
+<script type="text/javascript">
+<!--
+if(ns4)_d.write("<scr"+"ipt language=JavaScript src=/menu/mmenuns4.js><\/scr"+"ipt>");
+  else _d.write("<scr"+"ipt language=JavaScript src=/menu/mmenudom.js><\/scr"+"ipt>");
+ -->
+</script><script language="JavaScript" src="/menu/mmenudom.js"></script>
+
+
+
+
+<script type="text/javascript">
+
+
+/*
+Milonic DHTML Menu - JavaScript Website Navigation System.
+Copyright 2004 (c) Milonic Solutions Limited. All Rights Reserved.
+Version 5+ Data File structure is the property of Milonic Solutions Ltd and must only be used in Milonic DHTML Products
+This is a commercial software product, please visit http://www.milonic.com/ for more information.
+See http://www.milonic.com/license.php for Commercial License Agreement
+All Copyright statements must always remain in place in all files at all times
+*******  PLEASE NOTE: THIS IS NOT FREE SOFTWARE, IT MUST BE LICENSED FOR ALL USE  *******
+*/
+
+_menuCloseDelay=450           // The time delay for menus to remain visible on mouse out
+_menuOpenDelay=80            // The time delay before menus open on mouse over
+_subOffsetTop=0               // Sub menu top offset
+_subOffsetLeft=-15            // Sub menu left offset
+
+with(menuStyle=new mm_style()){
+itemwidth=100;
+onclass="menuItemOn";
+offclass="menuItemOff";
+onbgcolor="#FFFFFF";
+oncolor="#000000";
+onborder='1px solid #000000';
+offbgcolor="#FFFFFF";
+offcolor="#000000";
+offborder='1px solid #000000';
+bordercolor="#000000";
+borderstyle="solid";
+borderwidth=1;
+separatorcolor="#FFFAF5";
+separatorsize="0";
+fontsize="11px";
+fontstyle="normal";
+fontfamily="Verdana, Tahoma, Arial";
+pagebgcolor="#FFFAF5";
+headercolor="#FFFFFF";
+headerbgcolor="#ffffff";
+subimagepadding="0";
+overfilter="Fade(duration=0.0);Alpha(opacity=100);";
+outfilter="randomdissolve(duration=0.0)";
+}
+with(menuStyle165=new mm_style()){
+onclass="menuItemOn";offclass="menuItemOff";bordercolor="#999999";borderstyle="solid";borderwidth="1";pageclass="menuItemCurr";}
+with(menuStyle166=new mm_style()){
+onclass="menuItemOn";offclass="menuItemOff";bordercolor="#999999";borderstyle="solid";borderwidth="1";pageclass="menuItemCurr";}
+with(menuStyle434=new mm_style()){
+onclass="menuItemOn";offclass="menuItemOff";bordercolor="#999999";borderstyle="solid";borderwidth="1";pageclass="menuItemCurr";}
+with(menuStyle167=new mm_style()){
+onclass="menuItemOn";offclass="menuItemOff";bordercolor="#999999";borderstyle="solid";borderwidth="1";pageclass="menuItemCurr";}
+with(menuStyle464=new mm_style()){
+onclass="menuItemOn";offclass="menuItemOff";bordercolor="#999999";borderstyle="solid";borderwidth="1";pageclass="menuItemCurr";}
+with(menuStyle474=new mm_style()){
+onclass="menuItemOn";offclass="menuItemOff";bordercolor="#999999";borderstyle="solid";borderwidth="1";pageclass="menuItemCurr";}
+with(menuStyle171=new mm_style()){
+onclass="menuItemOn";offclass="menuItemOff";bordercolor="#999999";borderstyle="solid";borderwidth="1";pageclass="menuItemCurr";}
+with(menuStyle172=new mm_style()){
+onclass="menuItemOn";offclass="menuItemOff";bordercolor="#999999";borderstyle="solid";borderwidth="1";pageclass="menuItemCurr";}
+with(milonic=new menuname("Menu165")){
+style=menuStyle165;
+aI("image=/images/us/global/globalgraphics/spacer08.gif;");
+aI("text=Entryway;url=http://www.grandinroad.com/jump.jsp?itemID=449&itemType=CATEGORY&path=1%2C2%2C165%2C449;pagematch=path=1%2C2%2C165%2C449;");
+aI("text=Home Office;url=http://www.grandinroad.com/jump.jsp?itemID=174&itemType=CATEGORY&path=1%2C2%2C165%2C174;pagematch=path=1%2C2%2C165%2C174;");
+aI("text=Kitchen & Pantry;url=http://www.grandinroad.com/jump.jsp?itemID=446&itemType=CATEGORY&path=1%2C2%2C165%2C446;pagematch=path=1%2C2%2C165%2C446;");
+aI("text=Laundry & Mudroom;url=http://www.grandinroad.com/jump.jsp?itemID=570&itemType=CATEGORY&path=1%2C2%2C165%2C570;pagematch=path=1%2C2%2C165%2C570;");
+aI("text=Living Room;url=http://www.grandinroad.com/jump.jsp?itemID=444&itemType=CATEGORY&path=1%2C2%2C165%2C444;pagematch=path=1%2C2%2C165%2C444;");
+aI("text=Media Room;url=http://www.grandinroad.com/jump.jsp?itemID=453&itemType=CATEGORY&path=1%2C2%2C165%2C453;pagematch=path=1%2C2%2C165%2C453;");
+aI("text=Outdoor;url=http://www.grandinroad.com/jump.jsp?itemID=451&itemType=CATEGORY&path=1%2C2%2C165%2C451;pagematch=path=1%2C2%2C165%2C451;");
+aI("text=Workroom;url=http://www.grandinroad.com/jump.jsp?itemID=452&itemType=CATEGORY&path=1%2C2%2C165%2C452;pagematch=path=1%2C2%2C165%2C452;");
+aI("rawcss=text-transform:uppercase;text=Rooms OUTLET;url=http://www.grandinroad.com/shopping/browse/directorymain.jsp?outlet=1&itemID=165&itemType=CATEGORY&path=1%2C2%2C163%2C165;");
+aI("image=/images/us/global/globalgraphics/spacer08.gif;");
+}
+with(milonic=new menuname("Menu166")){
+style=menuStyle166;
+aI("image=/images/us/global/globalgraphics/spacer08.gif;");
+aI("text=Garden D&eacute;cor;url=http://www.grandinroad.com/jump.jsp?itemID=460&itemType=CATEGORY&path=1%2C2%2C166%2C460;pagematch=path=1%2C2%2C166%2C460;");
+aI("text=Outdoor Entertaining;url=http://www.grandinroad.com/jump.jsp?itemID=455&itemType=CATEGORY&path=1%2C2%2C166%2C455;pagematch=path=1%2C2%2C166%2C455;");
+aI("text=Outdoor Furniture;url=http://www.grandinroad.com/jump.jsp?itemID=669&itemType=CATEGORY&path=1%2C2%2C166%2C669;pagematch=path=1%2C2%2C166%2C669;");
+aI("text=Outdoor Lighting;url=http://www.grandinroad.com/jump.jsp?itemID=670&itemType=CATEGORY&path=1%2C2%2C166%2C670;pagematch=path=1%2C2%2C166%2C670;");
+aI("text=Pillows & Cushions;url=http://www.grandinroad.com/jump.jsp?itemID=711&itemType=CATEGORY&path=1%2C2%2C166%2C711;pagematch=path=1%2C2%2C166%2C711;");
+aI("text=Plaques & Mailboxes;url=http://www.grandinroad.com/jump.jsp?itemID=459&itemType=CATEGORY&path=1%2C2%2C166%2C459;pagematch=path=1%2C2%2C166%2C459;");
+aI("text=Rugs & Mats;url=http://www.grandinroad.com/jump.jsp?itemID=575&itemType=CATEGORY&path=1%2C2%2C166%2C575;pagematch=path=1%2C2%2C166%2C575;");
+aI("text=Storage & Maintenance;url=http://www.grandinroad.com/jump.jsp?itemID=510&itemType=CATEGORY&path=1%2C2%2C166%2C510;pagematch=path=1%2C2%2C166%2C510;");
+aI("rawcss=text-transform:uppercase;text=Outdoor OUTLET;url=http://www.grandinroad.com/shopping/browse/directorymain.jsp?outlet=1&itemID=166&itemType=CATEGORY&path=1%2C2%2C163%2C166;");
+aI("image=/images/us/global/globalgraphics/spacer08.gif;");
+}
+with(milonic=new menuname("Menu434")){
+style=menuStyle434;
+aI("image=/images/us/global/globalgraphics/spacer08.gif;");
+aI("text=Accent Tables;url=http://www.grandinroad.com/jump.jsp?itemID=441&itemType=CATEGORY&path=1%2C2%2C434%2C441;pagematch=path=1%2C2%2C434%2C441;");
+aI("text=Bookcases & Media;url=http://www.grandinroad.com/jump.jsp?itemID=440&itemType=CATEGORY&path=1%2C2%2C434%2C440;pagematch=path=1%2C2%2C434%2C440;");
+aI("text=Dining & Kitchen;url=http://www.grandinroad.com/jump.jsp?itemID=442&itemType=CATEGORY&path=1%2C2%2C434%2C442;pagematch=path=1%2C2%2C434%2C442;");
+aI("text=Home Office;url=http://www.grandinroad.com/jump.jsp?itemID=439&itemType=CATEGORY&path=1%2C2%2C434%2C439;pagematch=path=1%2C2%2C434%2C439;");
+aI("text=Outdoor;url=http://www.grandinroad.com/jump.jsp?itemID=436&itemType=CATEGORY&path=1%2C2%2C434%2C436;pagematch=path=1%2C2%2C434%2C436;");
+aI("text=Sofas & Chairs;url=http://www.grandinroad.com/jump.jsp?itemID=571&itemType=CATEGORY&path=1%2C2%2C434%2C571;pagematch=path=1%2C2%2C434%2C571;");
+aI("rawcss=text-transform:uppercase;text=Furniture OUTLET;url=http://www.grandinroad.com/shopping/browse/directorymain.jsp?outlet=1&itemID=434&itemType=CATEGORY&path=1%2C2%2C163%2C434;");
+aI("image=/images/us/global/globalgraphics/spacer08.gif;");
+}
+with(milonic=new menuname("Menu167")){
+style=menuStyle167;
+aI("image=/images/us/global/globalgraphics/spacer08.gif;");
+aI("text=Decorative Accessories;url=http://www.grandinroad.com/jump.jsp?itemID=212&itemType=CATEGORY&path=1%2C2%2C167%2C212;pagematch=path=1%2C2%2C167%2C212;");
+aI("text=Hearth;url=http://www.grandinroad.com/jump.jsp?itemID=205&itemType=CATEGORY&path=1%2C2%2C167%2C205;pagematch=path=1%2C2%2C167%2C205;");
+aI("text=Home Office;url=http://www.grandinroad.com/jump.jsp?itemID=215&itemType=CATEGORY&path=1%2C2%2C167%2C215;pagematch=path=1%2C2%2C167%2C215;");
+aI("text=Lighting;url=http://www.grandinroad.com/jump.jsp?itemID=207&itemType=CATEGORY&path=1%2C2%2C167%2C207;pagematch=path=1%2C2%2C167%2C207;");
+aI("text=Mirrors & Wall D&eacute;cor;url=http://www.grandinroad.com/jump.jsp?itemID=206&itemType=CATEGORY&path=1%2C2%2C167%2C206;pagematch=path=1%2C2%2C167%2C206;");
+aI("text=Outdoor;url=http://www.grandinroad.com/jump.jsp?itemID=210&itemType=CATEGORY&path=1%2C2%2C167%2C210;pagematch=path=1%2C2%2C167%2C210;");
+aI("text=Pillows, Cushions & Throws;url=http://www.grandinroad.com/jump.jsp?itemID=574&itemType=CATEGORY&path=1%2C2%2C167%2C574;pagematch=path=1%2C2%2C167%2C574;");
+aI("text=Rugs & Mats;url=http://www.grandinroad.com/jump.jsp?itemID=580&itemType=CATEGORY&path=1%2C2%2C167%2C580;pagematch=path=1%2C2%2C167%2C580;");
+aI("text=Storage;url=http://www.grandinroad.com/jump.jsp?itemID=211&itemType=CATEGORY&path=1%2C2%2C167%2C211;pagematch=path=1%2C2%2C167%2C211;");
+aI("rawcss=text-transform:uppercase;text=Accessories OUTLET;url=http://www.grandinroad.com/shopping/browse/directorymain.jsp?outlet=1&itemID=167&itemType=CATEGORY&path=1%2C2%2C163%2C167;");
+aI("image=/images/us/global/globalgraphics/spacer08.gif;");
+}
+with(milonic=new menuname("Menu464")){
+style=menuStyle464;
+aI("image=/images/us/global/globalgraphics/spacer08.gif;");
+aI("text=Crafts & Projects;url=http://www.grandinroad.com/jump.jsp?itemID=572&itemType=CATEGORY&path=1%2C2%2C464%2C572;pagematch=path=1%2C2%2C464%2C572;");
+aI("text=Furniture;url=http://www.grandinroad.com/jump.jsp?itemID=467&itemType=CATEGORY&path=1%2C2%2C464%2C467;pagematch=path=1%2C2%2C464%2C467;");
+aI("text=Laundry & Cleaning;url=http://www.grandinroad.com/jump.jsp?itemID=466&itemType=CATEGORY&path=1%2C2%2C464%2C466;pagematch=path=1%2C2%2C464%2C466;");
+aI("text=Lighting;url=http://www.grandinroad.com/jump.jsp?itemID=473&itemType=CATEGORY&path=1%2C2%2C464%2C473;pagematch=path=1%2C2%2C464%2C473;");
+aI("text=Organizing;url=http://www.grandinroad.com/jump.jsp?itemID=465&itemType=CATEGORY&path=1%2C2%2C464%2C465;pagematch=path=1%2C2%2C464%2C465;");
+aI("text=Outdoor;url=http://www.grandinroad.com/jump.jsp?itemID=573&itemType=CATEGORY&path=1%2C2%2C464%2C573;pagematch=path=1%2C2%2C464%2C573;");
+aI("text=Pets;url=http://www.grandinroad.com/jump.jsp?itemID=470&itemType=CATEGORY&path=1%2C2%2C464%2C470;pagematch=path=1%2C2%2C464%2C470;");
+aI("rawcss=text-transform:uppercase;text=Utility OUTLET;url=http://www.grandinroad.com/shopping/browse/directorymain.jsp?outlet=1&itemID=464&itemType=CATEGORY&path=1%2C2%2C163%2C464;");
+aI("image=/images/us/global/globalgraphics/spacer08.gif;");
+}
+with(milonic=new menuname("Menu474")){
+style=menuStyle474;
+aI("image=/images/us/global/globalgraphics/spacer08.gif;");
+aI("text=Food & Desserts;url=http://www.grandinroad.com/jump.jsp?itemID=481&itemType=CATEGORY&path=1%2C2%2C474%2C481;pagematch=path=1%2C2%2C474%2C481;");
+aI("text=Serving & Entertaining;url=http://www.grandinroad.com/jump.jsp?itemID=576&itemType=CATEGORY&path=1%2C2%2C474%2C576;pagematch=path=1%2C2%2C474%2C576;");
+aI("text=Easter;url=http://www.grandinroad.com/jump.jsp?itemID=609&itemType=CATEGORY&path=1%2C2%2C474%2C609;pagematch=path=1%2C2%2C474%2C609;");
+aI("rawcss=text-transform:uppercase;text=Occasions OUTLET;url=http://www.grandinroad.com/shopping/browse/directorymain.jsp?outlet=1&itemID=474&itemType=CATEGORY&path=1%2C2%2C163%2C474;");
+aI("image=/images/us/global/globalgraphics/spacer08.gif;");
+}
+with(milonic=new menuname("Menu171")){
+style=menuStyle171;
+aI("image=/images/us/global/globalgraphics/spacer08.gif;");
+aI("text=Accessories;url=http://www.grandinroad.com/jump.jsp?itemID=246&itemType=CATEGORY&path=1%2C2%2C171%2C246;pagematch=path=1%2C2%2C171%2C246;");
+aI("text=Furniture;url=http://www.grandinroad.com/jump.jsp?itemID=245&itemType=CATEGORY&path=1%2C2%2C171%2C245;pagematch=path=1%2C2%2C171%2C245;");
+aI("text=Occasions;url=http://www.grandinroad.com/jump.jsp?itemID=248&itemType=CATEGORY&path=1%2C2%2C171%2C248;pagematch=path=1%2C2%2C171%2C248;");
+aI("text=Outdoor;url=http://www.grandinroad.com/jump.jsp?itemID=665&itemType=CATEGORY&path=1%2C2%2C171%2C665;pagematch=path=1%2C2%2C171%2C665;");
+aI("text=Utility;url=http://www.grandinroad.com/jump.jsp?itemID=247&itemType=CATEGORY&path=1%2C2%2C171%2C247;pagematch=path=1%2C2%2C171%2C247;");
+aI("text=Wall Decor;url=http://www.grandinroad.com/jump.jsp?itemID=605&itemType=CATEGORY&path=1%2C2%2C171%2C605;pagematch=path=1%2C2%2C171%2C605;");
+aI("image=/images/us/global/globalgraphics/spacer08.gif;");
+}
+with(milonic=new menuname("Menu172")){
+style=menuStyle172;
+aI("image=/images/us/global/globalgraphics/spacer08.gif;");
+aI("text=Rooms;url=http://www.grandinroad.com/shopping/browse/directorymain.jsp?outlet=1&itemID=165&itemType=CATEGORY&path=1%2C2%2C172%2C165;pagematch=path=1%2C2%2C172%2C165;");
+aI("text=Outdoor;url=http://www.grandinroad.com/shopping/browse/directorymain.jsp?outlet=1&itemID=166&itemType=CATEGORY&path=1%2C2%2C172%2C166;pagematch=path=1%2C2%2C172%2C166;");
+aI("text=Furniture;url=http://www.grandinroad.com/shopping/browse/directorymain.jsp?outlet=1&itemID=434&itemType=CATEGORY&path=1%2C2%2C172%2C434;pagematch=path=1%2C2%2C172%2C434;");
+aI("text=Accessories;url=http://www.grandinroad.com/shopping/browse/directorymain.jsp?outlet=1&itemID=167&itemType=CATEGORY&path=1%2C2%2C172%2C167;pagematch=path=1%2C2%2C172%2C167;");
+aI("text=Utility;url=http://www.grandinroad.com/shopping/browse/directorymain.jsp?outlet=1&itemID=464&itemType=CATEGORY&path=1%2C2%2C172%2C464;pagematch=path=1%2C2%2C172%2C464;");
+aI("text=Occasions;url=http://www.grandinroad.com/shopping/browse/directorymain.jsp?outlet=1&itemID=474&itemType=CATEGORY&path=1%2C2%2C172%2C474;pagematch=path=1%2C2%2C172%2C474;");
+}
+
+
+with(scart=new mm_style()){
+}
+with(milonic=new menuname("SCMenu")){
+style=scart;
+ignorecollision=true;
+left=-48
+top=-1;
+aI("text=`<table cellpadding=0 cellspacing=0 border=0 width=193 class=menubg><tr><td colspan=5 class=menuborder><img src='http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif' width=1 height=1 border=0></td></tr><tr><td class=menuborder width=1><img src='http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif' width=1 height=1 border=0></td><td colspan=3><img src='http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif' width=1 height=10 border=0></td><td class=menuborder width=1><img src='http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif' width=1 height=1 border=0></td></tr><tr><td class=menuborder width=1><img src='http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif' width=1 height=1 border=0></td><td width=10><img src='http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif' width=10 height=1 border=0></td><td align=center class=tableitem>There are no items in your cart.</td><td width=10><img src='http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif' width=10 height=1 border=0></td><td class=menuborder width=1><img src='http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif' width=1 height=1 border=0></td></tr><td class=menuborder width=1><img src='http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif' width=1 height=1 border=0></td><td colspan=3><img src='http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif' width=1 height=10 border=0></td><td class=menuborder width=1><img src='http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif' width=1 height=1 border=0></td></tr><tr><td colspan=5 class=menuborder height=1><img src='http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif' width=1 height=1 border=0></td></tr></table>`;url=`/basket/basketmain.jsp`");
+}
+
+drawMenus();
+</script>
+<!-- End Milonic DHTML includes -->
+<script language="VBScript" type="text/vbscript">
+<!-- // Visual basic helper required to detect Flash Player ActiveX control version information
+Function VBGetSwfVer(i)
+  on error resume next
+  Dim swControl, swVersion
+  swVersion = 0
   
+  set swControl = CreateObject("ShockwaveFlash.ShockwaveFlash." + CStr(i))
+  if (IsObject(swControl)) then
+    swVersion = swControl.GetVariable("$version")
+  end if
+  VBGetSwfVer = swVersion
+End Function
+// -->
+</script>
+<script src="/includes/flashdetection.js"></script>
+</head>
+
+<body class="main" marginwidth="0" marginheight="0" topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0">
+
+<!-- Content Wrap Start -->
+    
+<table align="center" border="0" width="792" cellpadding="0" cellspacing="0">
+	<tbody><tr><td colspan="7"><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif" width="1" height="15" border="0"></td></tr>
+	<tr><td colspan="7" class="siteborder"><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif" width="1" height="1" border="0"></td></tr>
+	<tr>
+		<td class="siteborder" width="1"><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif" width="1" height="1" border="0"></td>
+		<td class="navheaderbg"><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif" width="10" height="1" border="0"></td>
+		<td colspan="3">
+			<div class="navheaderbg"><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif" width="1" height="10" border="0"></div>
+			<div class="innersiteborder"><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif" width="1" height="1" border="0"></div>
+		</td>
+		<td class="navheaderbg"><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif" width="10" height="1" border="0"></td>
+		<td class="siteborder" width="1"><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif" width="1" height="1" border="0"></td>
+	</tr>
+  	<tr>
+		<td class="siteborder" width="1"><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif" width="1" height="1" border="0"></td>
+		<td class="navheaderbg"><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif" width="10" height="1" border="0"></td>
+		<td class="innersiteborder"><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif" width="1" height="1" border="0"></td>
+		<td class="navheaderbg">
+
+<script language="JavaScript" type="text/JavaScript">
+function showLayers(layerid) { //v6.0
+  var layer = document.getElementById(layerid);
+  layer.style.visibility='visible';
 }
-function checkOptinForm(formname) {
-
-    if (IE)
-    {
-        var form = eval('document.all.' + formname);
-    }
-    else if (NS)
-    {
-        var form = eval('document.' + formname);
-    }
-    var showmsg = false;
-    var msg='';
-    
-    var actionPage = "http://www.frontgate.com/fg/signup_thanks.jsp";
-    if ((isFilled(form.receipt_email_address) == false)) { msg = "Please verify the email address you entered is accurate (e.g. account@website.com)."; showmsg = true;}
-    
-    if (showmsg == false)
-    {
-        
-        if (!IsEmailValid(form.receipt_email_address)) { msg = "Please verify the email address you entered is accurate (e.g. account@website.com)."; showmsg = true;}
-        
-    } 
-
-    if (showmsg == true)
-    {
-        alert(msg);
-    }
-    else
-    {
-        form.action=actionPage;	
-        form.submit();
-    }   
-    
+function hideLayers(layerid) { //v6.0
+  var layer = document.getElementById(layerid);
+  layer.style.visibility='hidden';
 }
 </script>
 
-<script language="JavaScript">
-if ((top.frames.length > 0) && (self != top))	{
-top.location = 'http://www.frontgate.com/fg/cs.jsp?tId=59';
-} else {
-
-	<!-- Fireclick Netflame -->
-	function handle(){return true;}
-	window.onerror=handle;
-	var fc_host='www.frontgate.com';
-	document.write('<scr'+'ipt '
-	+'src="'+((location.protocol=='http:')?'http://a644.g.akamai.net/f/644/67/3h/':'https://a248.e.akamai.net/f/248/67/3h/ssl-')
-	+'hints.netflame.cc/service/sc'+'ript/'+fc_host+'"></scr'+'ipt>');
-	function fcce(){if (typeof(fcnf)!="undefined") fcnf();}
-	var fcfn=window.onload;
-	function fcco(){window.setTimeout("fcce();", 100);fcfn();}
-	window.onload= null==fcfn ? fcce:fcco;
-	<!-- Fireclick Netflame -->
-}</script><script src="https://a248.e.akamai.net/f/248/67/3h/ssl-hints.netflame.cc/service/script/www.frontgate.com"></script>
+<!--SourceCode: GR,WEBGRB,HSN2005 -->
 
 
 
+<!-- Navheader Start-->
 
-</div></center>
+<table border="0" width="768" cellpadding="0" cellspacing="0">
+
+	<tbody><tr>
+		<td><a href="http://www.grandinroad.com/jump.jsp?itemID=163&amp;itemType=HOME_PAGE"><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/logo01.gif" border="0" alt="Grandin Road"></a></td>
+		<td align="right"><table border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr valign="top">
+				<td><table border="0" cellspacing="0" cellpadding="0">
+					<tbody><tr>
+						<td><a href="https://www.grandinroad.com/account/login/loginmain.jsp" onmouseover="rollover('top_myaccount','http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/myaccount_on.gif');" onmouseout="rollover('top_myaccount','http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/myaccount_off.gif');"><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/myaccount_off.gif" border="0" alt="My Account" name="top_myaccount"></a></td>
+						 
+						<td><a href="http://www.grandinroad.com/jump.jsp?itemType=CATEGORY&amp;itemID=270&amp;path=1%2C3%2C270" onmouseover="rollover('top_customerserv','http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/customerserv_on.gif');" onmouseout="rollover('top_customerserv','http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/customerserv_off.gif');"><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/customerserv_off.gif" border="0" alt="Customer Service" name="top_customerserv"></a></td>
+						<td><a href="https://www.grandinroad.com/account/orderhistory/orderstatusmain.jsp" onmouseover="rollover('top_ordertrack','http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/ordertrack_on.gif');" onmouseout="rollover('top_ordertrack','http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/ordertrack_off.gif');"><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/ordertrack_off.gif" border="0" alt="Order Tracking" name="top_ordertrack"></a></td>
+					</tr>
+				</tbody></table></td>
+			</tr>
+			<tr valign="middle" class="navsearchbg">
+				<td align="right"><table border="0" cellspacing="0" cellpadding="0" align="right">
+					<tbody><tr>
+						<td><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif" width="1" height="44"></td>
+						<form name="searchForm" action="http://www.grandinroad.com/shopping/search/advancedsearchmain.jsp" onsubmit="return checkFieldsSearch('searchForm')"></form>
+				    	<input type="hidden" name="searchType" value="keyword">
+						<input type="hidden" name="NRS" value="1">
+						<input type="hidden" name="RS" value="1">
+						<input type="hidden" name="RegularSearch" value="1">
+					   	<input type="hidden" name="ASRP" value="1">
+						<td><input type="text" name="keyword" value="Keyword or item#" maxlength="30" size="10" class="navsearchbox" onfocus="if(this.value=='Keyword or item#')this.value='';" onfocusout="if(this.value=='')this.value='Keyword or item#';"></td>
+						<td><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif" width="5" height="1" border="0"></td>
+						<td><input type="Image" name="Search" src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/search_btn.gif" border="0" alt="Search"></td>
+						<td><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif" width="15" height="1" border="0"></td>
+						
+						<!--        
+					<tr>
+            			<td align=right colspan=3><a href="http://www.grandinroad.com/shopping/search/advancedsearchmain.jsp" onMouseOver="rollover('top_advancedsearch','http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/advancedsearch_on.gif');" onMouseOut="rollover('top_advancedsearch','http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/advancedsearch_off.gif');"><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/advancedsearch_off.gif" border=0 alt="Advanced Search" name="top_advancedsearch"></a></td>
+			        </tr>
+					        -->
+						  
+			    	</tr>
+				</tbody></table></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+
+<tr>
+		<td class="globalnavbg" colspan="2"><table border="0" cellspacing="0" cellpadding="0" width="768">
+			<tbody><tr>
+				<td><table border="0" cellspacing="0" cellpadding="0">
+				<tbody><tr valign="top">
+				
+							<td><a href="http://www.grandinroad.com/jump.jsp?itemType=CATEGORY&amp;itemID=165&amp;path=1%2C2%2C165" onmouseover="rollover('Left165','http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/globalnav01_on.gif');popup('Menu165','Left165', null, null, null, 500);" onmouseout="rollover('Left165','http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/globalnav01_off.gif');popdown();"><img border="0" name="Left165" id="Left165" src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/globalnav01_off.gif" alt="Rooms"></a></td>
+							
+				<td><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/spacer_01.gif"></td>
+							
+							<td><a href="http://www.grandinroad.com/jump.jsp?itemType=CATEGORY&amp;itemID=166&amp;path=1%2C2%2C166" onmouseover="rollover('Left166','http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/globalnav05_on.gif');popup('Menu166','Left166', null, null, null, 500);" onmouseout="rollover('Left166','http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/globalnav05_off.gif');popdown();"><img border="0" name="Left166" id="Left166" src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/globalnav05_off.gif" alt="Outdoor"></a></td>
+							
+				<td><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/spacer_01.gif"></td>
+							
+							<td><a href="http://www.grandinroad.com/jump.jsp?itemType=CATEGORY&amp;itemID=434&amp;path=1%2C2%2C434" onmouseover="rollover('Left434','http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/globalnav02_on.gif');popup('Menu434','Left434', null, null, null, 500);" onmouseout="rollover('Left434','http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/globalnav02_off.gif');popdown();"><img border="0" name="Left434" id="Left434" src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/globalnav02_off.gif" alt="Furniture"></a></td>
+							
+				<td><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/spacer_01.gif"></td>
+							
+							<td><a href="http://www.grandinroad.com/jump.jsp?itemType=CATEGORY&amp;itemID=167&amp;path=1%2C2%2C167" onmouseover="rollover('Left167','http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/globalnav04_on.gif');popup('Menu167','Left167', null, null, null, 500);" onmouseout="rollover('Left167','http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/globalnav04_off.gif');popdown();"><img border="0" name="Left167" id="Left167" src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/globalnav04_off.gif" alt="Accessories"></a></td>
+							
+				<td><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/spacer_01.gif"></td>
+							
+							<td><a href="http://www.grandinroad.com/jump.jsp?itemType=CATEGORY&amp;itemID=464&amp;path=1%2C2%2C464" onmouseover="rollover('Left464','http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/globalnav03_on.gif');popup('Menu464','Left464', null, null, null, 500);" onmouseout="rollover('Left464','http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/globalnav03_off.gif');popdown();"><img border="0" name="Left464" id="Left464" src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/globalnav03_off.gif" alt="Utility"></a></td>
+							
+				<td><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/spacer_01.gif"></td>
+							
+							<td><a href="http://www.grandinroad.com/jump.jsp?itemType=CATEGORY&amp;itemID=474&amp;path=1%2C2%2C474" onmouseover="rollover('Left474','http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/globalnav06_on.gif');popup('Menu474','Left474', null, null, null, 500);" onmouseout="rollover('Left474','http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/globalnav06_off.gif');popdown();"><img border="0" name="Left474" id="Left474" src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/globalnav06_off.gif" alt="Occasions"></a></td>
+							
+				<td><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/spacer_01.gif"></td>
+							
+							<td><a href="http://www.grandinroad.com/jump.jsp?itemType=CATEGORY&amp;itemID=171&amp;path=1%2C2%2C171" onmouseover="rollover('Left171','http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/globalnav08_on.gif');popup('Menu171','Left171', null, null, null, 500);" onmouseout="rollover('Left171','http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/globalnav08_off.gif');popdown();"><img border="0" name="Left171" id="Left171" src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/globalnav08_off.gif" alt="New"></a></td>
+							
+				<td><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/spacer_01.gif"></td>
+							
+							<td><a href="http://www.grandinroad.com/jump.jsp?itemType=CATEGORY&amp;itemID=172&amp;path=1%2C2%2C172" onmouseover="rollover('Left172','http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/globalnav09_on.gif');popup('Menu172','Left172', null, null, null, 500);" onmouseout="rollover('Left172','http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/globalnav09_off.gif');popdown();"><img border="0" name="Left172" id="Left172" src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/globalnav09_off.gif" alt="Sale"></a></td>
+							
+				</tr></tbody></table></td>
+				<td align="right">
+					<div id="SCNav" style="position:relative;"><table class="navheaderbasketbg" border="0" cellspacing="0" cellpadding="0">
+					<tbody><tr valign="top">
+						<td rowspan="3" class="navheaderbg"><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/spacer_02.gif" width="1" height="35"></td>
+						<td>
+							<div><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/shopbasket_off.gif" border="0" alt="Shopping Cart" name="top_shopbasket"></div>
+							<div><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif" width="1" height="4" border="0"></div>
+						</td>
+					</tr>
+					<tr valign="top">
+						<td class="navheaderbaskettxt"><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif" width="33" height="1">(0 items)</td>
+					</tr>
+					<tr>
+						<td><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/spacer_02.gif" width="1" height="3"></td>
+					</tr>
+					<tr><td colspan="2" class="navheaderbasketborderbg"><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif" width="1" height="1" border="0"></td></tr>
+				</tbody></table>
+				<div id="scid" onmouseover="rollover('top_shopbasket','http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/shopbasket_on.gif');popup('SCMenu','scid');" onmouseout="rollover('top_shopbasket','http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/shopbasket_off.gif');popdown();" style="position:absolute;left:0px; top:0px; z-index:100;"><a href="http://www.grandinroad.com/basket/basketmain.jsp"><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif" width="119" height="40" border="0"></a></div>
+				</div>
+				</td>
+			</tr>		
+		</tbody></table></td>
+	</tr>
+
+</tbody></table>
+<!-- Navheader End -->
+
+<script language="javascript">
+var the_topimages = new Array("http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/globalnav01_on.gif",
+"http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/globalnav01_off.gif"
+,"http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/globalnav05_on.gif",
+"http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/globalnav05_off.gif"
+,"http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/globalnav02_on.gif",
+"http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/globalnav02_off.gif"
+,"http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/globalnav04_on.gif",
+"http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/globalnav04_off.gif"
+,"http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/globalnav03_on.gif",
+"http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/globalnav03_off.gif"
+,"http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/globalnav06_on.gif",
+"http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/globalnav06_off.gif"
+,"http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/globalnav08_on.gif",
+"http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/globalnav08_off.gif"
+,"http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/globalnav09_on.gif",
+"http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalnav/globalnav09_off.gif"
+);
+preLoadCatImages(the_topimages);
+function checkFieldsSearch() {
+        var searchtxt=Trim(document.searchForm.keyword.value);
+        if (searchtxt == '')
+	{
+		alert("Please enter keyword or item#.");
+		return false;
+	} else if (searchtxt == 'Keyword or item#') {
+		alert("Please enter keyword or item#.");
+		return false;
+        } else if (searchtxt.length <= 2) {
+		alert("We're sorry, but search terms must be greater than two characters. Please enter additional keywords, item numbers, or search criteria.");
+		return false;
+        } else {
+		return true;
+	}
+}
+function Trim(inString){
+  return LTrim(RTrim(inString));
+}
+
+function LTrim(inString){
+  return inString.replace(/^\s+/,'');
+}
+
+function RTrim(inString){
+  return inString.replace(/\s+$/,'');
+}
+
+</script>
+</td>
+		<td class="innersiteborder"><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif" width="1" height="1" border="0"></td>
+		<td class="navheaderbg"><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif" width="10" height="1" border="0"></td>
+		<td class="siteborder" width="1"><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif" width="1" height="1" border="0"></td>
+	</tr>
+  	<tr valign="top">
+      <td class="siteborder" width="1"><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif" width="1" height="1" border="0"></td>
+	  <td class="navheaderbg"><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif" width="10" height="1" border="0"></td>
+	  <td class="innersiteborder"><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif" width="1" height="1" border="0"></td>	
+	  <td width="768" class="contentbg">
+<!-- Content Block Start -->
+
+
+<table border="0" width="768" cellpadding="0" cellspacing="0">
+	<tbody><tr valign="top">
+		<td width="165" class="leftnavbg"><table border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr valign="top"><td><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/local/headers/main/custservgateway_mhd.gif" border="0" alt="Customer Service"></td></tr>
+			<tr valign="top"><td>
+				<div><div class="leftnavoff"><a href="http://www.grandinroad.com/jump.jsp?itemType=CATEGORY&amp;itemID=515&amp;path=1%2C2%2C270%2C515">Ordering Information</a></div><div class="leftnavoff"><a href="http://www.grandinroad.com/jump.jsp?itemType=CATEGORY&amp;itemID=516&amp;path=1%2C2%2C270%2C516">Shipping &amp; Returns</a></div><div class="leftnavon"><a href="http://www.grandinroad.com/jump.jsp?itemType=CATEGORY&amp;itemID=517&amp;path=1%2C2%2C270%2C517">For Your Protection</a></div><div class="subleftnavoff"><a href="http://www.grandinroad.com/jump.jsp?itemType=CATEGORY&amp;itemID=532&amp;path=1%2C2%2C270%2C517%2C532">Online Security</a></div><div class="subleftnavoff"><a href="http://www.grandinroad.com/jump.jsp?itemType=CATEGORY&amp;itemID=533&amp;path=1%2C2%2C270%2C517%2C533">Your Privacy</a></div><div class="subleftnavoff"><a href="http://www.grandinroad.com/jump.jsp?itemType=CATEGORY&amp;itemID=534&amp;path=1%2C2%2C270%2C517%2C534">One Year Guarantee/Price Protection</a></div><div class="subleftnavoff"><a href="http://www.grandinroad.com/jump.jsp?itemType=CATEGORY&amp;itemID=535&amp;path=1%2C2%2C270%2C517%2C535">Cookies &amp; JavaScript</a></div><div class="leftnavoff"><a href="http://www.grandinroad.com/jump.jsp?itemType=CATEGORY&amp;itemID=518&amp;path=1%2C2%2C270%2C518">Email &amp; Catalog Requests</a></div><div class="leftnavoff"><a href="http://www.grandinroad.com/jump.jsp?itemType=CATEGORY&amp;itemID=519&amp;path=1%2C2%2C270%2C519">About Us</a></div><div class="leftnavoff"><a href="http://www.grandinroad.com/jump.jsp?itemType=CATEGORY&amp;itemID=271&amp;path=1%2C2%2C270%2C271">Contacting Us</a></div></div>  
+				<div><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif" width="1" height="13" border="0"></div>
+			</td></tr>
+		</tbody></table></td>
+		<td><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif" width="1" height="379" border="0"></td>
+		<td><div class="default"><table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr><td colspan="3"><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="10" border="0"></td></tr>
+	<tr>
+		<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="10" height="1" border="0"></td>
+		<td class="default">
+		<div class="colorsubheader">Online Security</div><br>
+		<div><a href="http://www.bbb.com/" target="new"><img src="/images/us/local/page_specific/customerservice/bbb_seal.gif" border="0" align="left" hspace="10"></a></div>
+Grandin Road offers a secure online commerce environment. All credit transactions occur in a secure area of our site, protecting you from loss or misuse of information. The transfer of sensitive information between you and Grandin Road is protected by the highest standard of encryption technology available on the Internet.<br><br>
+		Public/private key cryptography enables the creation of a secure "conversation" between your browser and our secure server. While this conversation could potentially be "overheard," it cannot be decrypted.<br><br>
+
+		<strong>How You Can Tell You're Browsing a Secure Website</strong><br>
+		In order to be sure that information transferred between your browser and the Grandin Road server is secure, it is important to be aware of the security information available to you through your browser.<br><br>
+		Once you enter the Checkout process (when you're ready to purchase the items you have placed in your shopping cart), your connection to our server becomes secure. These security features are enacted automatically; you do not have to take any action to invoke them. To confirm that you are operating in secure mode, look at the bottom of your browser window. If you see an unbroken key or a closed lock (depending upon your browser) you can be sure that your information is secure.<br><br>
+
+		<div>Example of a "closed lock" symbol in an Internet Explorer Browser:</div>
+		<div><img src="/images/us/local/page_specific/customerservice/ie_bottom.gif" border="0"></div><br>
+		<div>Example of a "closed lock" symbol in a Netscape Communicator Browser:</div>
+		<div><img src="/images/us/local/page_specific/customerservice/netscape_bottom.gif" border="0"></div><br>
+		<div>You can also ensure security by checking the URL line of your browser. When you enter the secure area of our site, the first characters of the site address will change from "http" to "https".</div><br>
+		<div>Example of a secure URL in an Internet Explorer Browser:</div>
+		<div><img src="/images/us/local/page_specific/customerservice/ie_top.gif" border="0"></div><br>
+		<div>Example of a secure URL in a Netscape Communicator Browser:</div>
+		<div><img src="/images/us/local/page_specific/customerservice/netscape_top.gif" border="0"></div><br>
+
+		<strong>Data Encryption &amp; Risk of Decryption</strong><br>
+	Grandin Road makes use of a 128-bit encryption key issued by RSA Data Security, Inc. When a secure connection is initiated, our server's public key is automatically transferred to your browser. Your browser then uses this key to encrypt information transferred back to Grandin Road. This information can only be decrypted using the private key installed on Grandin Road's secure server.<br><br>
+		You may have read in the news that the RC4 encryption algorithm had been broken. In fact, a single message which had been encrypted using the less powerful 40-bit key was successfully decrypted. However, decrypting this single message utilized 120 computer workstations and two parallel supercomputers spread across three major research centers for more than 8 days. Decrypting additional messages would take the same amount of time and resources. The 128-bit encryption key has not been broken.<br><br>
+
+		<strong>Top 10 Online Smart Shopping Tips</strong><br>
+		Visit the Direct Marketing Association's <a href="http://www.shopthenet.org/tips.shtml" target="new"><u>Top 10 Online Smart Shopping Tips</u></a> for safety tips and precautions to take when shopping online. The <a href="http://www.dmaconsumers.org/" target="new"><u>DMA Consumer Assistance Web site</u></a> also offers consumer protection information for shopping online, by phone, or by mail.<br><br>
+
+		Contacting the Webmaster<br>
+		We've worked hard to bring you a secure online commerce environment, and we value your questions, comments, and concerns. If you have any feedback about our Web site security, please <a href="mailto:webmaster@grandinroad.com"><u>send us an e-mail</u></a> or contact us via regular mail:<br><br>
+		<div align="center">
+	GRANDIN ROAD<br>
+			Webmaster<br>
+			5566 West Chester Road<br>
+			West Chester, OH 45069
+		</div>
+		</td>
+		<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="10" height="1" border="0"></td>
+	</tr>
+<tr><td colspan="3"><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="10" border="0"></td></tr>
+</tbody></table>
+
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr><td colspan="3"><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="10" border="0"></td></tr>
+	<tr>
+		<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="10" height="1" border="0"></td>
+		<td class="default">
+		<div class="colorsubheader">Your Privacy</div><br>
+		<div><a href="http://www.bbb.com/" target="new"><img src="/images/us/local/page_specific/customerservice/bbb_seal.gif" border="0" align="left" hspace="10"></a></div>
+Grandin Road  has created this privacy statement in order to demonstrate our firm commitment to protecting our customers' personal information.<br><br>
+		Those who communicate with Grandin Road and supply us with contact information may receive future communications by email, direct mail, or telephone. If you do not wish to receive correspondence from Grandin Road, you can contact us with a request to be removed from our mailing list.<br><br>
+		This site recognizes the IP addresses of visitors, but not their email addresses. Individually identifiable email addresses are not captured or stored unless they are directly provided to us. Email addresses will NOT be provided to any non-affiliated parties outside of the Grandin Road business group.<br><br>
+
+		<strong>How We Gather &amp; Use Your Personal Information</strong><br>
+		During your communications with Grandin Road, we use various methods of gathering your personal information to help ensure that your shopping experience is as efficient and accommodating as possible.<br><br>
+
+		<strong>Information We Gather</strong><br>
+		We collect information such as your name, billing and shipping addresses, phone number, email address, credit-card information, and certain demographic information. When you set up an online account with us, we also request a password to allow you secure access.<br><br>
+
+		<strong>How We Use Your Information</strong><br>
+		We utilize the information we receive in order to: <br>
+		<ul>
+			<li>Send catalogs you have requested and mailings that may be of interest to you, provided you have not requested otherwise </li>
+			<li>Send exclusive email offers of new product announcements and special promotions, provided you have not opted out of receiving these notifications </li>
+			<li>Process and track your orders </li>
+			<li>Send order and shipping confirmation emails </li>
+			<li>Tailor your experience at our site, presenting content customized to your interests </li>
+		</ul>
+		You may terminate communications at any time by notifying us.<br><br>
+
+		<strong>How Our Web Site Uses Cookies &amp; IP Addresses</strong><br>
+		Our site uses IP addresses to protect our customers' security and to gather broad geographic information. IP addresses do not disclose any other type of personal information, such as names or email addresses. <br><br>
+		Our site uses cookies to keep track of your shopping cart. A cookie is a small data file stored on your computer. In order to shop at Grandin Road's site, you must have cookies activated on your browser. Cookies identify your computer and allow us to personalize your shopping experience to best meet your interests. They do not contain any personal information. <br><br>
+
+		<strong>Information Received by or Supplied to Third Parties</strong><br>
+		To better serve you and to enhance your shopping experience, we may supplement the information listed above with data that is publicly available and with data we receive from other reputable sources whose privacy policies meet the Direct Marketing Association's requirements.<br><br>
+		From time to time, we may share our postal mailing list with carefully selected providers of goods and services that may be of interest to you. (If you prefer not to receive mailings from these providers, you can notify us at any time.) Also, on rare occasions, we may disclose specific information upon governmental request in order to assist with fraud protection or investigation. Information is not provided to these agencies or companies for marketing or commercial purposes.<br><br>
+		In order to protect our customers' security to the fullest extent, information for all Grandin Road orders is filtered by a third-party screening application.<br><br>
+
+		<strong>Changing Your Email &amp; Mailing Preferences</strong><br>
+		If you are currently receiving communications from Grandin Road, it is because you have notified us of your desire to receive these mailings, because you have recently requested products or services from us, or because you have provided information to a third party affiliated with Grandin Road. If you prefer not to receive catalogs, email offers, or other communications from us, we give you the opportunity to terminate these mailings at any time. (Note: Because we plan our catalog and email mailings in advance, it may take several weeks for your request to become effective.)<br><br>
+		If you no longer wish to receive catalogs or mailings from affiliated companies, call 1.888.263.9850, <a href="mailto:cs@grandinroad.com"><u>send us an email</u></a>, or send your mailing label to:<br><br>
+		<div align="center">
+	GRANDIN ROAD<br>
+			5566 West Chester Road<br>
+			West Chester, OH 45069
+		</div><br>
+		If you no longer wish to receive email offers, visit our <a href="/subscribemain.jsp?action=1"><u>E-List</u></a> page to modify your preferences. You may also click on the "Unsubscribe" link at the bottom of any of our emails. (Note: Your selection will apply only to the current corresponding email address. Please allow up to 90 days for the activation of any changes in address status. Future mailings may still be sent to alternate email addresses you may have supplied to us. Also, you may still receive confirmation and/or tracking emails if you place an order on our website.)<br><br>
+
+		<strong>Removing Your Name from Mailing Lists, Telemarketing Lists, &amp; Email Lists in General</strong><br>
+		Most people enjoy receiving information about subjects that interest them or products and services they may need or want. Sometimes, however, the amount of this type of information - received by mail, phone or email - can become overwhelming. Visit the Direct Marketing Association's <a href="http://www.dmaconsumers.org" target="new"><u>Consumer Assistance department</u></a> to find out how you can get your name removed from these types of lists.<br><br>
+
+		<strong>Making Corrections &amp; Updates to Your Grandin Road Account Information</strong><br>
+Grandin Road gives you the following options for changing and modifying information previously provided:<br>
+		<ul>
+			<li>Update your information in <a href="/account/login/loginmain.jsp"><u>My Account</u></a>.</li>
+			<li>Call one of our Customer Service Representatives at 1.888.263.9850.</li>
+			<li><a href="mailto:cs@grandinroad.com"><u>Send us an e-mail</u></a>.</li>
+		</ul><br>
+
+		<strong>Protecting Childrens' Privacy</strong><br>
+		The Grandin Road Web site is not intended for use by, nor do we knowingly collect personal information from, children under the age of 18.<br><br>
+
+		<strong>Contacting the Webmaster</strong><br>
+		If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may <a href="mailto:webmaster@grandinroad.com"><u>send a message to the Webmaster</u></a>, or write to us at:<br><br>
+		<div align="center">
+	GRANDIN ROAD<br>
+			Webmaster<br>
+			5566 West Chester Road<br>
+			West Chester, OH 45069
+		</div>
+		</td>
+		<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="10" height="1" border="0"></td>
+	</tr>
+<tr><td colspan="3"><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="10" border="0"></td></tr>
+</tbody></table>
+
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr><td colspan="3"><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="10" border="0"></td></tr>
+	<tr>
+		<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="10" height="1" border="0"></td>
+		<td class="default">
+		<div class="colorsubheader">One Year Guarantee/Price Protection</div><br>
+
+		<strong>One-Year Guarantee</strong><br>
+		At Grandin Road, our primary focus is quality. We guarantee that every product we sell will stand up to the supreme test — our customers' satisfaction.<br><br>
+		Our One-Year Guarantee lets you put any Grandin Road product to the test. If for any reason you are not satisfied, simply return it within 90 days and we'll replace it or refund the cost of the item (excluding Shipping and Processing fees). In addition, we will repair or replace any product for a full year from the date of purchase.<br><br>
+
+		<strong>Price Protection</strong><br>
+		We have a high regard for value as well as quality. If you purchase from Grandin Road and see the same item in another catalog for less (including shipping and tax) within 90 days of your purchase, we'll gladly refund the difference. Please provide the other print catalog's advertisement and order form, and mail to:<br><br>
+		<div align="center">
+	Grandin Road	<br>
+			Price Protection<br>
+			5566 West Chester Road<br>
+			West Chester, OH 45069
+		</div><br><br>
+
+		<strong>Instructions for Returns and Exchanges</strong>
+		<ol>
+			<li>Complete the Grandin Road Exchange/Return form that came with your order.</li>
+			<li>Tear off the return shipping label from the bottom of the Exchange/Return form.</li>
+			<li>Carefully repackage the merchandise and affix the return shipping label to the outside of your package.</li>
+			<li>Return the package to us via UPS or insured parcel post.</li>
+		</ol>
+		If you do not have your Exchange/Return form, please send returns and exchanges to:<br><br><br>
+		<div align="center">
+	Grandin Road	<br>
+			Customer Returns Department<br>
+			8879 Union Centre Blvd.<br>
+			West Chester, OH 45069
+		</div><br><br>
+		Please note: Any items that are monogrammed, customized or made-to-order cannot be returned or exchanged unless damaged or defective.<br><br>
+
+		<strong>Questions?</strong><br>
+		Call 1.888.263.9850 or <a href="mailto:cs@grandinroad.com"><u>send us an e-mail</u></a>.<br><br>
+		</td>
+		<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="10" height="1" border="0"></td>
+	</tr>
+<tr><td colspan="3"><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="10" border="0"></td></tr>
+</tbody></table>
+
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr><td colspan="3"><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="10" border="0"></td></tr>
+	<tr>
+		<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="10" height="1" border="0"></td>
+		<td class="default">
+		<div class="colorsubheader">Cookies &amp; JavaScript</div><br>
+		Our site places a single, small file on your computer called a "cookie," which allows us to identify you as a unique visitor to our website. For example, if you have items in your shopping cart and leave our site or close your browser, the cookie helps us to identify you upon your return, so the contents of your cart will still be there for you. Your privacy and security are not compromised when you accept a cookie from our site. Cookies are encrypted and sent securely, and no personal information is collected by or stored within this cookie.<br><br>
+		The Grandin Road site also requires that JavaScript is enabled on your browser. Our servers use JavaScript to provide a more interactive shopping experience and to implement changes to the website. Enabling this coding language on your browser will not affect performance, nor will it collect or store any of your personal information.<br><br>
+		To enable cookies and JavaScript, refer to the section that applies to your Internet platform and browser type: <br><br>
+
+		<strong>Internet Explorer 6.0 and above (PC)</strong><br><br>
+		To adjust scripting settings:
+		<ol>
+			<li>Select Internet Options from the Tools menu</li>
+			<li>Click the Security tab</li>
+			<li>Click the Internet Zone</li>
+			<li>Click Custom Level</li>
+			<li>Scroll to the Scripting section, and click Enable for each option</li>
+			<li>Click OK to close the Security Settings window</li>
+		</ol>
+		To adjust cookie settings:
+		<ol>
+			<li>Click the Privacy tab</li>
+			<li>In the Settings section, the vertical slider should be set to Medium</li>
+			<li>Finishing up:</li>
+			<li>Click Apply, then OK to close the Internet Options window</li>
+			<li>Return to the previous page</li>
+			<li>Click Refresh to re-load the Grandin Road home page</li>
+		</ol>
+		<strong>Internet Explorer 5.0 (PC)</strong>
+		<ol>
+			<li>Select Internet Options from the Tools menu</li>
+			<li>Click the Security tab</li>
+			<li>Click the Internet Zone</li>
+			<li>Click Custom Level</li>
+			<li>Scroll to the Cookies section, and click Enable for each option</li>
+			<li>Scroll to the Scripting section, and click Enable for each option</li>
+			<li>Click OK to close the Security Settings window</li>
+			<li>Click OK to close the Internet Options window</li>
+			<li>Return to the previous page</li>
+			<li>Click Refresh to re-load the Grandin Road home page</li>
+		 </ol>
+		<strong>Internet Explorer 4.x (PC)</strong>
+		<ol>
+			<li>Select Internet Options from the View menu</li>
+			<li>Click the Advanced tab</li>
+			<li>Scroll to the Security/Cookies section</li>
+			<li>Click Always Accept Cookies</li>
+			<li>Click OK to close the Internet Options window</li>
+			<li>Return to the previous page</li>
+			<li>Click Refresh to re-load the Grandin Road home page</li>
+		 </ol>
+		<strong>Internet Explorer 5.0 and 4.x (Mac)</strong>
+		<ol>
+			<li>Select Preferences from the Edit menu</li>
+			<li>Click Cookies from the scrolling menu</li>
+			<li>Select Never Ask from the When Receiving Cookies menu</li>
+			<li>Click Web Content from the Scrolling menu</li>
+			<li>Select Enable Scripting from the Active Content box</li>
+			<li>Click OK to close the Preferences window</li>
+			<li>Return to the previous page</li>
+			<li>Click Refresh to re-load the Grandin Road home page</li>
+		</ol>
+		<strong>Netscape 7.1 and above (PC or Mac)</strong><br><br>
+		To adjust scripting settings:
+		<ol>
+			<li>Open the Edit menu and choose Preferences</li>
+			<li>Under the Advanced category, click Scripts &amp; Plugins (if no subcategories are visible, double-click Advanced to expand the list)</li>
+			<li>Select the Scripts &amp; Plugins preferences panel</li>
+			<li>Under Enable JavaScript For, select the Navigator checkbox</li>
+			<li>Under Allow scripts To, select the checkboxes for Create or Change Cookies and Read Cookies</li>
+		</ol>
+		To adjust cookie settings:
+		<ol>
+			<li>Open the Edit menu and choose Preferences</li>
+			<li>Under the Privacy &amp; Security category, click Cookies (if no subcategories are visible, double-click Privacy &amp; Security to expand the list)</li>
+			<li>Enable Cookies for Originating Web Site Only: select this option if you don't want to accept or return foreign cookies</li>
+			<li>Enable Cookies Based on Privacy Settings: select this option if you handle cookies based on your privacy settings, then click the View button to confirm or modify your privacy settings</li>
+			<li>Enable All Cookies: select this default option to permit all Web sites not explicitly blocked to set cookies on your computer</li>
+			<li>Click OK to close the Preferences window</li>
+			<li>Click Reload to re-load the Grandin Road home page</li>
+		</ol>
+		<strong>Netscape 4.0 (PC or Mac)</strong>
+		<ol>
+			<li>Select Preferences from the Edit menu</li>
+			<li>Select Advanced from the Category menu</li>
+			<li>Click Accept All Cookies</li>
+			<li>Click Enable Javascript</li>
+			<li>Click OK to close the Preferences window</li>
+			<li>Return to the previous page</li>
+			<li>Click Reload to re-load the Grandin Road home page</li>
+		</ol>
+		<strong>Customizing Privacy Settings in Internet Explorer 6.0</strong><br><br>
+		In Internet Explorer 6.0, you can choose to allow cookies for individual sites while blocking others. This allows you to maximize your computers' privacy settings by not accepting cookies from any sites except the ones you specify.
+		<ol>
+			<li>In Internet Explorer, on the Tools menu, click Internet Options</li>
+			<li>Click the Privacy tab, and then click Edit</li>
+			<li>In Address of Web Site, type the complete address of the Web site for which you want to specify custom settings (i.e. http://www.microsoft.com)</li>
+			<li>To specify that you want Internet Explorer to always allow cookies from the specified Web site to be saved on your computer, click Allow. To specify that you want Internet Explorer to never allow cookies from the specified Web site to be saved on your computer, click Block</li>
+		</ol>
+		<strong>Notes:</strong>
+		<ul>
+			<li>You can view a list of Web sites for which you have specified custom settings in the Managed Web Sites list. To remove a Web site from this list and delete its custom privacy settings, click Remove. When you remove a Web site from the Managed Web Sites list, your privacy settings for all Web sites without custom settings will be automatically applied to that Web site.</li>
+			<li>If you select a setting that does not allow cookies to be saved on your computer, you may not be able to view certain Web sites that require cookies.</li>
+			<li>When you change your privacy settings, the changes might not affect cookies that are already on your computer. To ensure that all of the cookies on your computer meet your privacy settings, you should delete all of the existing cookies on your computer. When you return to Web sites that previously had saved cookies on your computer, the Web sites that meet your privacy settings will again save cookies on your computer. The Web sites that do not meet your privacy settings will not be allowed to save cookies on your computer, and may not function properly.</li>
+		</ul>
+		</td>
+		<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="10" height="1" border="0"></td>
+	</tr>
+<tr><td colspan="3"><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="10" border="0"></td></tr>
+</tbody></table>
+</div></td>
+	</tr>
+</tbody></table>
+
+<!-- Content Block End -->
+	</td>
+	<td class="innersiteborder"><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif" width="1" height="379" border="0"></td>
+	<td class="navheaderbg"><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif" width="10" height="1" border="0"></td>
+	<td class="siteborder" width="1"><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif" width="1" height="1" border="0"></td>
+</tr>
+<tr>
+	<td class="siteborder" width="1"><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif" width="1" height="1" border="0"></td>
+		<td class="navheaderbg"><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif" width="10" height="1" border="0"></td>
+		<td colspan="3">
+			<div class="innersiteborder"><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif" width="1" height="1" border="0"></div>
+			<div class="navheaderbg"><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif" width="1" height="10" border="0"></div>
+		</td>
+		<td class="navheaderbg"><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif" width="10" height="1" border="0"></td>
+	<td class="siteborder" width="1"><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif" width="1" height="1" border="0"></td>
+</tr>
+<tr><td colspan="7" class="siteborder"><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif" width="1" height="1" border="0"></td></tr>
+<tr><td colspan="7"><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif" width="1" height="10" border="0"></td></tr>
+<tr valign="top">
+	<td colspan="7" align="center">
+			<table border="0" width="790" cellpadding="0" cellspacing="0">
+
+				
+	<tbody><tr><td><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/footerbar.gif" border="0"></td></tr>
+	<tr><td class="navfooterbg"><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif" width="790" height="10" border="0"></td></tr>
+	<tr valign="top">
+		<td class="navfooterbg">
+			<table border="0" cellspacing="0" cellpadding="0" width="790">
+					<tbody><tr valign="top">
+				<form method="post" action="http://www.grandinroad.com/subscribemain.jsp?action=1"></form>
+						<td><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif" width="12" height="8" border="0"></td>
+						<td>
+							<table border="0" cellpadding="0" cellspacing="0" align="left">
+								<tbody><tr>
+									
+									<td align="left" class="footertext"><b>Catalog Customers:</b>&nbsp;<a href="http://www.grandinroad.com/shopping/catalogquickshop/cqsmain.jsp">Catalog Quick Shop</a><!-- | <a href="#">E-Catalogs</a>--> | <a href="https://www.grandinroad.com/catalogrequest/catalogrequestmain.jsp">Free Catalog Request</a></td>
+								</tr>
+								<tr>
+									<td><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif" width="12" height="4" border="0"></td>
+								</tr>													
+								<tr>
+									<td nowrap="" align="left" class="footertext"><strong>Company Information:</strong>&nbsp;<a href="http://www.grandinroad.com/jump.jsp?itemType=CATEGORY&amp;itemID=519&amp;path=1%2C2%2C270%2C519">About Us</a> | <a href="http://www.grandinroad.com/jump.jsp?itemType=CATEGORY&amp;itemID=547&amp;path=1%2C2%2C270%2C271%2C547">Contact Us</a> | <a href="http://www.grandinroad.com/jump.jsp?itemType=CATEGORY&amp;itemID=517&amp;path=1%2C2%2C270%2C517">Privacy &amp; Security</a> | <a href="http://www.grandinroad.com/jump.jsp?itemType=CATEGORY&amp;itemID=273&amp;path=1%2C2%2C270%2C271%2C273">Store Locations</a></td>
+								</tr>
+								<tr>
+									<td><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif" width="12" height="4" border="0"></td>
+								</tr>
+								<tr>
+									<td nowrap="" align="left" class="footertext"><strong>Shopping Services:</strong>&nbsp;<a href="https://www.grandinroad.com/jump.jsp?itemType=CATEGORY&amp;itemID=277&amp;path=1%2C2%2C270%2C272%2C277">Wish Lists</a> | <a href="http://www.grandinroad.com/jump.jsp?itemType=CATEGORY&amp;itemID=534&amp;path=1%2C2%2C270%2C517%2C534">One-Year Guarantee</a> | <a href="https://www.grandinroad.com/account/orderhistory/orderstatusmain.jsp">Order Tracking</a> | <a href="http://www.grandinroad.com/jump.jsp?itemType=CATEGORY&amp;itemID=516&amp;path=1%2C2%2C270%2C516">Shipping</a> | <a href="http://www.grandinroad.com/content/sitemap/sitemapmain.jsp">Site Map</a></td>
+								</tr>
+								<tr>
+									<td><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif" width="12" height="4" border="0"></td>
+								</tr>
+								<tr>
+									<td nowrap="" align="left" class="footertext"><strong>Call us at:&nbsp;</strong>1-888-263-9850</td>
+								</tr>
+								<tr>
+									<td><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif" width="12" height="4" border="0"></td>
+								</tr>
+								<!-- TEMPORARILY COMMENTED OUT
+								<tr>
+									<td><img src="global/globalgraphics/spacer01.gif" width="12" height="2" border="0"></td>
+									<td nowrap align=left class=footertext><a href="#"> <img src= "global/globalgraphics/shopcanada.gif" border="0" alt="Shop in Canadian dollars"> </a></td>
+									<td><img src="global/globalgraphics/spacer01.gif" width="12" height="2" border="0"></td>
+								</tr>								
+								-->
+							</tbody></table>
+						</td>
+						<td align="right">
+							<table border="0" cellspacing="0" cellpadding="0">
+								<tbody><tr>
+									<td><a href="http://www.grandinroad.com/subscribemain.jsp?action=1"><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/emailsignup.gif" border="0" alt="Email Signup"></a></td>
+								</tr>
+								<tr>
+									<td><table border="0" cellspacing="0" cellpadding="0">
+										<tbody><tr>
+											<td><input name="email" type="text" value="Enter email address" maxlength="50" size="9" class="navemailbox" onfocus="if(this.value=='Enter email address')this.value='';" onfocusout="if(this.value=='')this.value='Enter email address';"></td>
+											<td><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif" width="5" height="1" border="0"></td>
+											<td><input type="Image" name="emailSubmit" src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/emailsignup_btn.gif" border="0" alt="Submit"></td>
+										</tr>
+									</tbody></table></td>
+								</tr>
+							</tbody></table>
+						</td>
+						<td><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif" width="12" height="1" border="0"></td>
+				
+					</tr>
+					<tr><td colspan="4"><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif" width="1" height="10" border="0"></td></tr>
+			</tbody></table>
+		</td>
+	</tr>
+<!--		
+
+THIS DATA IS FOR COMPANY INFORMATION FOOTER:
+
+						<tr>
+					<td><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif" width="12" height="1" border="0"></td>
+					<td class=footer nowrap align=right>Partner sites: <a href="http://www.grandinroad.com/custserv/customerservicemain.jsp?cid=2">Privacy &amp; Security</a> |<a href="http://www.grandinroad.com/custserv/customerservicemain.jsp?cid=7">Contact Us</a> | <a href="http://www.grandinroad.com/custserv/customerservicemain.jsp?cid=2">Privacy &amp; Security</a> | <a href="http://www.grandinroad.com/custserv/customerservicemain.jsp?cid=12">Terms of Use</a> | <a href="http://www.grandinroad.com/content/sitemap/sitemapmain.jsp">Site Map</a><br> &copy;2006 Grandin Road</td>
+					<td><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif" width="12" height="1" border="0"></td>
+				</tr>
+-->
+		
+		
+		
+		
+
+<tr><td colspan="2" class="mainbg"><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif" width="1" height="12" border="0"></td></tr>
+<!-- Global Footer Links i.e.: Partner sites: Last Link Line (given below)  (LINKS INFO NOT FOUND/NEED TO BE FIXED) -->		
+	<tr>
+		<td colspan="2" class="mainbg">
+			<table align="center" border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td align="center"><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif" width="12" height="1" border="0"></td>
+					<td class="footer" nowrap="" align="center">Partner sites: <a href="http://www.frontgate.com/jump.jsp?itemID=162&amp;itemType=HOME_PAGE&amp;k=XX31861" target="_blank">Frontgate</a> | <a href="http://www.garnethill.com" target="_blank">Garnet Hill</a> | <a href="http://www.isabellabird.com" target="_blank">Isabella Bird</a> | <a href="http://www.smithandnoble.com" target="_blank">Smith &amp; Noble</a> | <a href="http://www.territoryahead.com" target="_blank">Territory Ahead</a> | <a href="http://www.travelsmith.com/ts/home.jsp?referring_url=tlinkfro" target="_blank">TravelSmith</a> | <a href="http://www.citysearch.com" target="_blank">City Search</a> | <a href="http://www.evite.com" target="_blank">Evite</a> | <a href="http://www.hsn.com" target="_blank">HSN</a> | <a href="http://www.ticketmaster.com" target="_blank">Ticketmaster</a><br> ©2006 Grandin Road</td>
+					<!-- <td><img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif" width="12" height="1" border="0"></td> -->
+				</tr>
+			</tbody></table>
+		</td>			
+	</tr>
+	<tr>
+		<td colspan="2" class="mainbg">
+        <img src="http://a248.e.akamai.net/f/248/6062/6h/www.grandinroad.com/images/us/global/globalgraphics/spacer01.gif" width="1" height="35" border="0">
+        
+        <!-- Adding Code to Support Google Auto Site Map-->
+        
+        <img border="0" height="0" width="0" src="http://www.autositemap.com/autositemap.png">
+        
+        <!-- End Google Auto Site Map Code-->
+        
+        </td>
+        
+	</tr>
+	
+		
+</tbody></table>
+<!-- Fireclick Integration Implementation  -->
+
+	
+<!-- Fireclick Netflame -->
+<script language="javascript">
+ function handle(){return true;}
+ window.onerror=handle;
+ var fc_host="www.grandinroad.com";
+ //var fc_host='';
+ document.write('<scr'+'ipt '
+ +'src="'+((location.protocol=='http:')?'http://a644.g.akamai.net/f/644/67/3h/':'https://a248.e.akamai.net/f/248/67/3h/ssl-')
+ +'hints.netflame.cc/service/sc'+'ript/'+fc_host+'"></scr'+'ipt>');
+ function fcce(){if (typeof(fcnf)!="undefined") fcnf();}
+ var fcfn=window.onload;
+ function fcco(){window.setTimeout("fcce();", 100);fcfn();}
+ window.onload= null==fcfn ? fcce:fcco;
+ </script><script src="https://a248.e.akamai.net/f/248/67/3h/ssl-hints.netflame.cc/service/script/www.grandinroad.com"></script>
+ <!-- Fireclick Netflame -->
+
+<!-- Footer End -->
+<!-- MilonicDHTML -->
+<!-- Intelligent Reporting Support -->
+
+
+
+
+
+
+<!-- Intelligent Reporting Support End -->
+
+
+
+</td>
+</tr>	  
+</tbody></table>	
+<!-- Content Wrap End -->
+
+
+
+
+
+
+
+
 
 
 </body></html>
