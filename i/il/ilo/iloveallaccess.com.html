@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the iloveallaccess.com privacy policy that was archived on 2005-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051230180226id_/http%3A//www.iloveallaccess.com/index.php%3Ffile%3Dc-privpol) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the iloveallaccess.com privacy policy that was archived on 2006-03-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060328185114id_/http%3A//iloveallaccess.com/index.php%3Ffile%3Dc-privpol) for the most accurate reproduction.-->
 
 <html><head>
 <title>ILoveAllAccess.Com | Where True Fans Get Tickets!</title>
@@ -10,7 +10,8 @@
 <link rel="shortcut icon" href="favicon.ico">
   <script language="Javascript1.2" src="js/header.js"></script>
   <script language="Javascript1.2" src="js/openartist.js"></script>
-
+<script language="JavaScript1.2" src="js/helptips.js"></script>
+<link href="style/main_062205.css" rel="stylesheet" type="text/css">
 </head>
 <body bgcolor="#FFFFFF" text="#000000" link="#007C72" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
 <table width="760" border="0" cellpadding="0" cellspacing="0">
@@ -19,7 +20,7 @@
 	<table width="760" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr>
           <td width="193" align="left" valign="top">
-		  <table width="193" border="0" cellspacing="0" cellpadding="0">
+	  <table width="193" border="0" cellspacing="0" cellpadding="0">
               <tbody><tr> 
                 <td width="193" height="102" align="left" valign="top"><a href="index.php"><img src="images/ilaa_masthead.gif" alt="ILoveAllAccess.Com" width="193" height="102" border="0"></a></td>
               </tr>
@@ -30,7 +31,92 @@
                 <td width="193" height="80" align="left" valign="top"><img src="images/subslogan.gif" width="193" height="80" border="0"></td>
               </tr>
               <tr>
-                <td width="193" height="253" align="left" valign="top"><img src="images/leftedge_bottom.gif" alt="iLoveAllAccess.Com" width="193" height="253" border="0"></td>
+                <td width="193" height="253" align="left" valign="top">
+<!-- 				<img src="images/leftedge_bottom.gif" alt="iLoveAllAccess.Com" width="193" height="253" border="0"> -->
+<script language="JavaScript"> 
+
+function checkleftvalid()
+{
+	if (document.frmleftlogin.login.value.length <1 )
+	{
+		alert(" Please Enter the Email");
+		document.frmleftlogin.login.focus();
+		return false;
+	}
+	if (document.frmleftlogin.password.value.length <1 )
+	{
+		alert(" Please Enter the Password");
+		document.frmleftlogin.password.focus();
+		return false;
+	}
+	
+	
+	return true;
+}
+
+</script>
+<form name="frmleftlogin" action="index.php" method="post" onsubmit="return checkleftvalid();"> 
+<input type="hidden" name="file" value="c-login_a">
+<table width="193" height="253" border="0" align="center" cellpadding="0" cellspacing="0" background="images/login/mylaa_login_bg2.gif">
+  <tbody><tr> 
+    <td align="right" valign="top"><img src="images/spacer.gif" width="20" height="260"></td>
+  </tr>
+  <tr>
+    <!-- De-emphasized Log In -->
+    <td align="center" valign="top" class="HomeLogInBox"> 
+      <table width="180" border="0" align="center" cellpadding="0" cellspacing="4">
+        <tbody><tr> 
+          <td width="100%" height="48" align="center" valign="middle" class="GreenPageTitle">RETURNING 
+            CUSTOMERS</td>
+        </tr>
+		<tr> 
+          <td width="100%" height="48" align="center" valign="top"><img src="images/login/mylaa_logo.gif" alt="MyLAA Account Log In" width="114" height="48"></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"><table width="100%" border="0" align="left" cellpadding="0" cellspacing="0">
+              <tbody><tr> 
+                <td align="left" valign="middle">Username</td>
+              </tr>
+              <tr> 
+                <td align="left" valign="top"><input name="login" type="text" class="Input150" id="login" value=""></td>
+              </tr>
+            </tbody></table></td>
+        </tr>
+        <tr> 
+          <td align="center" valign="top"><table width="100%" border="0" align="left" cellpadding="0" cellspacing="0">
+              <tbody><tr> 
+                <td align="left" valign="middle">MyLAA Password &nbsp; <img onmouseout="HideHelp(d5)" onmouseover="ShowHelp(d5, 'What is this?', 'This is your MyLAA password. <br> This is used to login to your ILAA Account. <br>This password is different than the TOUR PASSWORD. <br><br> If you were given a TOUR PASSWORD click on the artist\'s tour link and type the TOUR PASSWORD into the login field.<br>')" src="siteadmin/images/help.gif" width="24" height="16" border="0">   <div style="display:none" id="d5"></div>
+
+</td>
+              </tr>
+              <tr> 
+                <td align="left" valign="top"><input name="password" type="password" class="Input150" id="password" value=""></td>
+              </tr>
+            </tbody></table></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="middle"><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+              <tbody><tr> 
+                <td align="center" valign="middle"> <input type="checkbox" name="chkremember" value="yes"></td>
+                <td align="left" valign="middle" nowrap="">Remember me</td>
+              </tr>
+            </tbody></table></td>
+        </tr>
+        <tr> 
+          <td align="center" valign="top"><input type="image" name="submit" src="images/login/btn_login.gif" alt="Log In" width="58" height="26" border="0"></td>
+        </tr>
+        <tr> 
+          <td align="center" valign="top"><a href="index.php?file=c-forgetpass">Forgot your password</a>?<br>
+            Not a member?<br><a href="index.php?file=c-registration">Register Free</a>!</td>
+        </tr>
+
+      </tbody></table></td>
+    <!-- De-emphasized Log In -->
+  </tr>
+</tbody></table>
+
+</form>
+				</td>
               </tr>
           </tbody></table>
 <!--
@@ -53,12 +139,20 @@
   <area shape="rect" coords="337,36,382,66" href="index.php?file=c-faq" alt="FAQ">
 </map>
  -->
- <map name="Map">
+<!-- map name="Map">
   <area shape="rect" coords="61,24,117,70" href="index.php" alt="Home">
   <area shape="rect" coords="117,11,195,59" href="index.php?file=c-aboutus" alt="About Us">
   <area shape="rect" coords="195,9,311,59" href="index.php?file=c-feedback" alt="Fan Feedback">
   <area shape="rect" coords="311,28,418,73" href="index.php?file=c-contactus" alt="Contact Us">
+</map -->
+<map name="Map">
+              <area shape="rect" coords="5,53,52,94" href="index.php" alt="Home">
+              <area shape="rect" coords="52,15,124,79" href="index.php?file=c-aboutus" alt="About Us">
+              <area shape="rect" coords="124,12,232,54" href="index.php?file=c-feedback" alt="Fan Feedback">
+              <area shape="rect" coords="233,12,321,55" href="index.php?file=c-contactus" alt="Contact Us">
+              <area shape="rect" coords="323,17,362,74" href="index.php?file=c-faq" alt="FAQ">
 </map>
+
 <table width="567" border="0" cellspacing="0" cellpadding="0">
               <tbody><tr>
                 <td width="539" align="left" valign="top"><table width="539" border="0" cellspacing="0" cellpadding="0">
@@ -77,13 +171,15 @@
                                   <td align="left" valign="middle">
 <form name="srch_site" method="POST" action="index.php?file=c-home">
 		<select name="srch_opt" class="Select130">
-			<option label="Sheryl Crow" value="44">Sheryl Crow</option>
+			<option label="Donald Fagen" value="45">Donald Fagen</option>
 <option label="Eagles" value="34">Eagles</option>
+<option label="Sammy Hagar" value="46">Sammy Hagar</option>
+<option label="Sheryl Crow" value="44">Sheryl Crow</option>
 
 		</select>
 									</form></td>
                                   <td width="40" height="30" align="left" valign="middle">
-								 <input type="image" name="srch_submit" src="images/btn_go.gif" alt="Submit Tour Search" width="32" height="30" border="0" onclick="return openartist();"></td>
+								 <input type="image" name="srch_submit" src="images/btn_searchtoursgo.gif" alt="Submit Tour Search" border="0" onclick="return openartist();"></td>
 
                                 </tr>
                               </tbody></table></td>
@@ -128,7 +224,7 @@ function check()
 <tbody><tr>
 <td valign="top" align="left">
 <p>
-</p><p><a href="http://www.iloveallacees.com">ILOVEALLACCESS.COM</a><br><strong>PRIVACY STATEMENT</strong><br><strong><u><br>Effective Date: October 21, 2004</u></strong></p>
+</p><p><a href="http://www.iloveallacees.com/">ILOVEALLACCESS.COM</a><br><strong>PRIVACY STATEMENT</strong><br><strong><u><br>Effective Date: October 21, 2004</u></strong></p>
 <p>This is the privacy statement ("Privacy Statement") for the iloveallaccess.com Web site (the “Site”). The Site is owned, operated and made available to you by ILAA, Inc., a California corporation (“we”, “our” “us”). This Privacy Statement explains our information practices and the choices you can make about the way we collect and use your personal information. This Privacy Statement covers the information you provide to us by or through this Site. </p>
 <p>The main purpose of this Site is to offer great premium concert packages to you. You can purchase such packages right here, in a safe online environment. To purchase any package you will need to provide us with certain personal information about you, including your credit card and/or other billing information. Even though this Site is directed to users who have reached the age of majority in the jurisdiction in which they live, it is possible that some of our users may be minors, including children under the age of 13. We do not knowingly sell premium packages to minors, so we ask all of our users to enter their birth date before they can submit an order, so that we can verify their age. PARENTS AND LEGAL GUARDIANS OF MINORS, PLEASE MAKE SURE THAT YOUR MINOR CHILD DOES NOT HAVE ACCESS TO YOUR CREDIT CARD INFORMATION WITHOUT YOUR PERMISSION.</p>
 <p>This Privacy Statement sets forth our policies regarding the collection, use and disclosure of certain information relating to your use of this Site. In addition to the general rules that apply to everyone visiting our Site, we have special rules that apply to our collection and use of personally identifiable information from Site visitors who are younger than 13. Those special rules appear in a section entitled COPPA COMPLIANCE that is set forth at the end of this Privacy Statement. </p>
@@ -174,7 +270,7 @@ function check()
 <p>Disclosure.<br>We do not disclose the personally identifiable information of children under the age of 13 to third parties, other than under certain limited situations such as: (a) to a company that provides support for the internal operations of our Site and that does not disclose or use such information for any other purpose, (b) in connection with a sale or acquisition of our Site or assets, or (c) as required by law or court order or in connection with a legal proceeding.</p>
 <p>Parental Requests for Information. If a child has provided any personal information to us via the Site, his or her parent (or guardian) may request a description of what personal information has been collected from that child, the specific personal information collected about the child, and the parent (or legal guardian) may either limit or restrict any further maintenance, use, disclosure or sharing of the child’s personal information, and/or direct us to delete it. Also, a parent or legal guardian may decline to allow any future collection of personal information from that child. Such requests may be made by contacting us at <a href="mailto:privacy@iloveallaccess.com">privacy@iloveallaccess.com</a>. TO MAKE SURE THAT WE DO NOT INADVERTENTLY DISCLOSE A CHILD’S PERSONALLY-IDENTIFIABLE INFORMATION WITHOUT HIS OR PARENT’S (OR LEGAL GUARDIAN’S) CONSENT, WE WILL TAKE REASONABLE MEASURES TO VERIFY THAT THE REQUESTOR IS, IN FACT, THE PARENT OR LEGAL GUARDIAN OF THE CHILD IN QUESTION, BEFORE WE PROVIDE A CHILD’S PERSONALLY IDENTIFIABLE INFORMATION TO THAT PERSON. </p>
 <p>The Special Case of a Child’s Attempt to Complete an Order for Concert Packages or Other Products.<br>No user of this Site can order a premium package or any other product or service that we offer without submitting his or her credit card information. If a child under the age of 13 attempts to complete an order for one of our packages or other products or services, a boldly colored screen will pop-up that will ask the child to go get his or her parent (or legal guardian) to complete the order. Only the parent or legal guardian may complete the order. To make sure that it was the parent (or legal guardian) the person who completed the order, we endeavor to verify the identity of the person who completed the order by contacting them (using the information provided by the child or by the person completing the order) after the order is submitted. </p>
-<p>If you have any further questions or comments, please e-mail us at <a href="mailto:info@iloveallaccess.com">info@iloveallaccess.com</a>, write us at ILAA, Inc., 21650 Oxnard Street, Suite 1925, Woodland Hills, CA. 91367, or give us a call at 888-I LUV AXS (toll free from the U.S., Canada, UK and Mexico); toll free from UK, Ireland, the Netherlands, Spain and Switzerland at +800 I LUV AXS 1 (+800 458 82971).</p>
+<p>If you have any further questions or comments, please e-mail us at <a href="mailto:info@iloveallaccess.com">info@iloveallaccess.com</a>, write us at ILAA, Inc., 21650 Oxnard Street, Suite 1925, Woodland Hills, CA. 91367, or give us a call at +1-888-I LUV AXS (+1-888-458-8297) toll free from the U.S., Canada,&nbsp;and Mexico<br>00-800 I LUV AXS (00-800 458-92971) toll free from UK, Germany, Ireland, the Netherlands, Spain and Switzerland</p>
 <p>THANK YOU FOR VISITING OUR SITE!</p>
 <p></p>
 <p align="center">This Privacy Statement was last revised on <u>October 21, 2004</u></p><p></p></td></tr></tbody></table></td></tr>
