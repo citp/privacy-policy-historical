@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paymate.com privacy policy that was archived on 2005-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050617053951id_/https%3A//www.paymate.com.au/popup/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paymate.com privacy policy that was archived on 2006-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060329031417id_/https%3A//www.paymate.com/popup/privacy.html) for the most accurate reproduction.*
 
 # Paymate Privacy Statement
 
