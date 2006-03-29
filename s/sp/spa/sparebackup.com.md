@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sparebackup.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220042452id_/http%3A//www.sparebackup.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparebackup.com privacy policy that was archived on 2006-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060329195944id_/http%3A//sparebackup.com/Privacy.aspx) for the most accurate reproduction.*
 
 # :: Spare Backup - The online remote backup service, that protects your data :: PRIVACY POLICY
 
