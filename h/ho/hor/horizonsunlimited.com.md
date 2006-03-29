@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the horizonsunlimited.com privacy policy that was archived on 2005-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050407153930id_/http%3A//www.horizonsunlimited.com/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horizonsunlimited.com privacy policy that was archived on 2006-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060329172738id_/http%3A//www.horizonsunlimited.com/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # Horizons Unlimited Global Enterprises Privacy Policy
 
@@ -52,7 +52,9 @@ There's 8 fun and inspirational [Meetings](https://web.archive.org/meetings/) th
 Site Info  
   
 [Advertise here!  
-](https://web.archive.org/newsletter/adrates.shtml)[Support our sponsors](https://web.archive.org/sponsors/)[ ](https://web.archive.org/newsletter/adrates.shtml)  
+](https://web.archive.org/newsletter/adrates.shtml)[Support our sponsors](https://web.archive.org/sponsors/)  
+[Join - Become a  
+](https://web.archive.org/store/)[Member of HU](https://web.archive.org/store/)  
 [Comments](https://web.archive.org/comments.shtml)  
 [Contact Us](https://web.archive.org/form/)  
 [](https://web.archive.org/comments.shtml)[Contribute Info](https://web.archive.org/form/)  
@@ -127,9 +129,15 @@ This is for YOUR protection. Your security and privacy is important to us, and w
 
 | 
 
+Check out the [ ](http://www.cafepress.com/horizonsmc)[Books](https://web.archive.org/books/) pages for Travel books and videos. Remember if you go to Amazon from our books page, we get a small percentage of every purchase.  
+Thanks! Grant and Susan 
+
 [](https://web.archive.org/store/index.php)
 
-[](https://web.archive.org/store/index.php#AmazonHonor)  
+[](https://web.archive.org/store/index.php#AmazonHonor)
+
+  
+  
   
 | 
 
