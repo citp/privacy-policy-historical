@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wgntv.com privacy policy that was archived on 2005-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050317041643id_/http%3A//wgntv.trb.com/go/services/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wgntv.com privacy policy that was archived on 2006-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060329070410id_/http%3A//wgntv.trb.com/go/services/privacy) for the most accurate reproduction.*
 
 # WGNTV.com | Chicago's WB | Privacy Policy
 
@@ -59,4 +59,8 @@ This policy and the use of this Site are governed by Illinois law. Any claim rel
 
 In the event case of any conflict between the terms of this policy and the terms of any electronic or machine readable privacy policy (for example, a P3P electronic privacy policy), the terms of this written policy shall control. 
 
-Copyright © 2005, WGN-TV
+Copyright © 2006, WGN-TV
+
+  
+  
+
