@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nutritionexpress.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214011159id_/http%3A//www.nutritionexpress.com/pls/ne/nut_exp%3FID%3D%26treq%3Dps%26mid%3D%26sub%3D%26itm%3D%26dgp%3D%26pg%3D%26ent%3D1070) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutritionexpress.com privacy policy that was archived on 2006-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060329090656id_/http%3A//www.nutritionexpress.com/pls/ne/nut_exp%3FID%3D%26treq%3Dps%26mid%3D%26sub%3D%26itm%3D%26dgp%3D%26pg%3D%26ent%3D1070) for the most accurate reproduction.*
 
 # Nutrition Express Privacy Statement
 
