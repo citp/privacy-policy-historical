@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bls.gov privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212081127id_/http%3A//www.bls.gov/bls/pss.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bls.gov privacy policy that was archived on 2006-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060331023228id_/http%3A//www.bls.gov/bls/pss.htm) for the most accurate reproduction.*
 
 # Privacy and Security Statement
 
