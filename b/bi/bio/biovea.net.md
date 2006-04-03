@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biovea.net privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222040636id_/http%3A//www.biovea.net/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biovea.net privacy policy that was archived on 2006-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060404010109id_/http%3A//biovea.net/privacypolicy.asp) for the most accurate reproduction.*
 
 # Welcome to BIOVEA
 
@@ -20,4 +20,4 @@ The email SUBJECT line should read: UNSUBSCRIBE
 
 The email BODY should contain: your membership email address, as well as your first and last name.
 
-Once removed, we will no longer contact you in any form (email, regular mail or other). 
+Once removed, we will no longer contact you in any form (email, regular mail or other).
