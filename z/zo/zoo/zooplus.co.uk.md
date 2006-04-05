@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the zooplus.co.uk privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230194224id_/http%3A//www.zooplus.co.uk/web/content/content.jsp%3Fkey%3DEN.PRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zooplus.co.uk privacy policy that was archived on 2006-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060405211613id_/http%3A//www.zooplus.co.uk/web/content/content.jsp%3Fkey%3DEN.PRIVACY) for the most accurate reproduction.*
 
 # Welcome to zooplus.co.uk
 
   
 Dear customers, 
 
-We value your trust and thus make every effort to make your shiopping experience safe and enjoyable. zooplus employs highest security standards at all times to ensure the protection of all your personal data from unauthorised access or use. Your order, personal data as well as your credit card details are protected by technical encryption and an additional authorisation process - both when transferring data and saving data on our servers. 
+We value your trust and thus make every effort to make your shopping experience safe and enjoyable. zooplus employs highest security standards at all times to ensure the protection of all your personal data from unauthorised access or use. Your order, personal data as well as your credit card details are protected by technical encryption and an additional authorisation process - both when transferring data and saving data on our servers. 
 
 **Collecting and using your data**  
 We collect information about you for two reasons: to process your order and to provide you with the best possible service. 
