@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrestling-edge.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230012801id_/http%3A//www.wrestling-edge.com/other.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrestling-edge.com privacy policy that was archived on 2006-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060406015527id_/http%3A//www.wrestling-edge.com/other.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Wrestling-Edge.com » Site Information
 
@@ -17,10 +17,6 @@ In the course of serving advertisements to this site, our third-party advertiser
 At Wrestling-Edge.com, it is possible to enter contests, vote in polls or participate in online forums or communities. In these areas, the user often must provide personally identifiable information, including but not limited to: name, address, e-mail address and information about your interests in and use of various products, programs, and services.
 
 In addition to direct submission of personal information, Wrestling-Edge.com can collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (Internet Explorer Netscape, etc), the type of operating system you are using, (Linux, Windows 98, etc) and the domain name of your Internet service provider (America Online, MSN, etc).
-
-**Newsletter**
-
-The information you give to us to subscribe to The Wrestling-Edge will not be given out to any third-parties and will stay in our internal database securely. The information you give to us such as your e-mail address will only be used to sent newsletter issues and nothing else. You may unsubscribe or subscribe at any time you wish. 
 
 **How We Use This Information**
 
