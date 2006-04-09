@@ -1,193 +1,193 @@
-> *The following text is extracted and transformed from the o2blueroom.co.uk privacy policy that was archived on 2005-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050509082037id_/http%3A//www.o2.co.uk/privacy.html%23usage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the o2blueroom.co.uk privacy policy that was archived on 2006-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060409092157id_/http%3A//www.o2.co.uk/privacy.html%23usage) for the most accurate reproduction.*
 
 # O2: The leading mobile phone site on the Web
 
-Privacy Policy  
-O2 uses information collected from its registered customers and visitors to the O2 Portals (web, WAP, xda and any other service we introduce from time to time) to enhance the services we offer to you and to improve your online experience. We take your privacy very seriously. This privacy policy sets out details of the personal information we collect about you and the ways in which we may use that information.
+Contents  
 
-Collecting personal information  
-O2 collects personal information from you when you visit our portals, when you register to become an O2 customer, when you purchase from the O2 Shop and when you enter any promotions or competitions on our portals. We protect the privacy of this information using our secure servers. The information you provide will be kept confidential and use to support our relationship with you as a customer. You may also be asked whether you would like to participate in surveys about O2 to help us improve our service. Whether you participate in these surveys or not will be up to you.
 
-Purpose of collecting information  
-If you are an O2 registered customer, we may use your personal information for the purposes of: (a) collecting payment from you (b) verifying that you are an authorised user if you call the O2 helpdesk (for reasons of security, you will be asked for some of the details you provided during the registration process) (c) informing you of: any service related changes affecting your use of O2; and new features and functionality (e.g. the introduction of a new messaging service) (d) contacting you to ask whether you are interested in using a new O2 offering (e) contacting you to ask whether you would like to attend a research group to help us improve our service to you (f) for crime and fraud detection and prevention.
+  1. Introduction
+  2. How We Collect Information
+  3. What Information do we collect ?
+  4. Why we collect information?
+  5. Disclosure of Your Information
+  6. Co-branded_Toc82333630 microsites and third party sites
+  7. Cookies
+  8. Accessing Your Information
+  9. Security
+  10. Users under 16
+  11. Changes to this policy
+  12. FAQs on related issues
+  13. Glossary
 
-If you are a O2 registered customer or you provide us with personal information in the context of a promotion or competition, we may use the personal information for the purposes of: (a) assessing and developing O2 and related products and services (b) informing you of other O2 products and special offers, provided that you choose to receive this information (c) informing you of any products and services offered by other companies that we think may be of interest to you, provided that you choose to receive this information. If you choose to receive information from other companies, we may sometimes disclose your personal information to those companies. We will only do so where those companies have undertaken not to use your personal information for any purpose other than to provide information to you. If you decide that you no longer want to receive information from a particular company, you should contact that company directly. You should be aware that if you subsequently give any personal information to another company, the uses to which that information may be put will be determined by that company's privacy policy. Our policy will no longer apply.
 
-If you are an O2 registered customer, you may, at any time, change your mind about receiving information from O2 or other companies in the future. If you subsequently decide that you no longer wish to receive information about either our products and services or those of third parties, you can notify us online by clicking on "Edit My Profile" under the heading of "Preferences".
 
-Use of cookies  
-A "cookie" is a piece of information, like a tag, which some web sites create on your PC which identifies your PC whenever you visit that web site. In order to provide you with the best possible online experience, O2 may create cookies when you visit the O2 site. Cookies may be used to help you in the following ways: to limit the frequency with which you will see particular advertisements or O2 announcements on the site; to identify your defaults if you have set up a customised homepage; to keep track of how many times you do specific things whilst using O2, to track where you have come from if you were referred to our website; to provide you with self-help information; and to make our email offers more relevant to you by taking into account your response to previous email offers. Our cookies will not be used to analyse your visits to other sites. Agents of O2, which assist in the serving, and targeting of advertisements, promotions and other marketing messages may use cookies to collect anonymous data. Data collected by cookies will not otherwise be passed to any third party. You have the ability to accept or decline cookies. Most PCs automatically accept them but you can modify your browser settings to decline if you so wish. If you decline cookies, some aspects of the O2 site may not work on your PC. For this reason we recommend that you accept cookies.
+1\. Introduction  
+O2 (UK) Limited (referred to in this policy as "we", "us "and "O2" ) takes your privacy very seriously. This policy explains how we collect and use information about you when you use our Web and WAP sites and the ways in which we may use that information such as to enhance the services we offer to you and to improve your online experience. It also sets out details of the personal information we collect about you and the ways in which we may use that information and also provides other information such as details about cookies and how to update or access any personal information we hold about you.  
+You should read this policy in conjunction with O2 Web and WAP services terms & conditions and your standard airtime contract as well as any other product/service terms that you have been notified about.
 
-Updating & amending your personal information  
-As an O2 registered customer, you have control over the accuracy of your personal information. If, at any time, you wish to verify, update or amend the personal information you have provided to O2, you can do so online by clicking on "Edit My Profile" under the heading "Preferences".
+Link to Glossary
 
-Third party sites  
-Our privacy policy does not apply to third party sites that you may access from the O2 site. You should therefore ensure that you are familiar with the applicable privacy policy before entering any personal information on a third party site.
+Back to Top
 
-Changes to Privacy Policy  
-We recognise the importance of privacy to our customers and visitors, and intend to remain at the forefront of industry developments in this area. We will keep this policy under review and any changes made from time to time will be posted on this page.
+2\. How We Collect Information
 
-Consent  
-We recognise the importance of privacy to our customers and visitors, and intend to remain at the forefront of industry developments in this area. We will keep this policy under review and any changes made from time to time will be posted on this page.
+We collect information about you in two ways:
 
-About O2   
-O2 is O2 (UK) Limited whose registered office is at Wellington Street, Slough, Berkshire, You can contact us by sending an email to [mycare@O2mail.co.uk](mailto:mycare@O2mail.co.uk "email mycare").
+**i) Directly from you**  
+From time to time you will be asked to, or will need to, provide personal details about yourself, such as when: 
 
-Data Protection Policy 
+  * You shop on this site;
+  * You register to become an O2 customer
+  * You submit enquiries to us/contact us
+  * You enter any online promotions, competitions or prize draws via wap or web
+  * You use O2 products and services
+  * You submit information to us by participating in O2 surveys
 
-The information you provide on the O2 Portals will be held only by O2 and its duly authorised agents. Your information will not be given or sold to any outside organisation for its use in marketing without your consent.
+  
+**ii) Indirectly from you, such as when:**
 
-Use of your information  
-The information you provide on the O2 Portals may be held and used by O2 for market analysis and production of internal reports, for marketing our products and services generally and (subject to any objection or preference you may indicate when submitting your details to us) for sending information to you about our products and services from time to time.
+  * You visit/ browse this site (see section 6, Cookies) 
+  * You visit/browse O2 group websites;
 
-If you are an O2 registered customer, any Media Messages you send to an email address, including Media Messages from your phone and Messages from the O2 Portal, will include your registered Portal First name and Last name and your phone number which will be displayed in the 'From:' field of the email.
+  
+We may also employ third parties to provide website services on our behalf. In such cases, if they collect any data on their own behalf, they will provide their own privacy policy. We advise you to read any new policy carefully. We do, however, endeavour to ensure that any partners we use apply the same high standards of privacy and security over your information. Link to Glossary 
 
-Disclosure of your information  
+3\. What Information do we collect?  
+In various areas of this website we ask you for information. This may include such information as your name, billing address, delivery address, telephone number, your use of products and services, debit or credit card details and other payment information. For example:  
+
+
+  * When you place a sales order with us we need to know your name, e-mail address, delivery address, credit or debit card number and expiry date or banking details, as appropriate. This enables us to process your order
+  * We might ask you if you want to enter a competition or promotion. For this we will usually ask for an e-mail address and/or mobile phone number
+  * We may ask you for information about yourself and your phone use to help you decide which, if any, of our products and services would suit you best
+
+
+
+4\. Why We Collect Information  
+We may use and analyse information about you for the following purposes:  
+
+
+  * To provide you with access to parts of this site;
+  * To process your order;
+  * To supply services and products that you have ordered
+  * To contact you if necessary and to verify that you are an authorised user for security purposes;
+  * To arrange for payment of goods and/or services purchased;
+  * To inform you of any service related message or of any new services or functionality (eg the introduction of a new messaging service);
+  * To assist us with crime and fraud prevention;
+  * To help us enhance the products and services that we offer you;
+  * For the purpose of market analysis and production of internal reports, for marketing our products and services generally and (subject to any objection or preference you may indicate when submitting your details to us) for sending information to you about our products and services from time to time.
+  * Informing you of any products and services offered by other companies that we think may be of interest to you, provided that you choose to receive this information. If you choose to receive information from other companies, we may sometimes disclose your personal information to those companies. See Disclosure of your information. 
+
+**Receiving marketing information**  
+If you are an O2 Portal Registered Customer, you may, at any time, change your mind about receiving information from O2 or other companies in the future. If you subsequently decide that you no longer wish to receive information about either our products and services or those of third parties, you can notify us online by clicking on "Edit My Profile" under the heading of "MyO2".  
+The 'opt-in' on the website allows you to select whether you receive information from O2 only, and/or from our business partners. You can opt-out of either or both at any time. We take every effort to ensure that any data provided to our business partners, with your permission, is handled with the same attention to privacy as we take. 
+
+5\. Disclosure of your Information  
 We may disclose your information to other companies in the O2 Group of companies, including their respective partners, agents and sub contractors, for any of the above purposes. In addition, we may disclose your information as may be required by law, regulation or legal proceedings.
 
-Disclaimer 
+The information you provide to us may be passed to third parties located outside the European Economic Area. Countries outside the European Economic Area do not always have strong data protection laws. However we will always take steps to ensure that your information is used by third parties in accordance with this policy. Additional terms and conditions may be presented when signing up for specific products and services.
 
-The following conditions apply to anyone accessing and using the O2 Portals, or any part of them. O2 may modify these conditions from time to time and accordingly you are advised to keep up to date with the changes by regularly reviewing the conditions. By using the O2 Portals you agree to be bound by these conditions. 
+If you choose to receive marketing information from other companies, we will only disclose your personal information to these companies where they have undertaken not to use your personal information for any purpose other than to provide information to you or other uses to which you have agreed. If you decide that you no longer want to receive information from a particular company, you should contact that company directly. You should be aware that if you subsequently give any personal information to another company, the uses to which that information may be put would be determined by that company's privacy policy.
 
-The content available on the O2 Portals is for general entertainment and interest only and O2 does not warrant or guarantee its accuracy or completeness. It is your responsibility to judge the accuracy or completeness of the content before relying on it in any way. Your use of the content (for whatever purpose) is at your sole risk. 
+If you are an O2 Portal Registered Customer, any Media Messages you send to an email address, including Media Messages from your phone and messages from the O2 Portal will include your registered portal first name and last name and your phone number which will be displayed in the 'from' field of the email.
 
-The content is protected by copyright, trademark and other intellectual property rights, as applicable and is provided solely for your own use. Republication or redistribution of any of the content available on the O2 Portals including by framing or similar means is prohibited. 
+**O2 Chat rooms and Opinion Forums**  
+You are reminded that chat rooms and opinion forums are for public discussion. Any personal information that you choose to supply when you participate in these discussions are widely accessible. Never reveal any personal information such as your telephone number, postal or email address when you participate in these discussions.
 
-O2 excludes all liability of any kind (including negligence) in respect of any third party information or other material made available on, or which can be accessed using, the Website. 
+6\. Co-Branded Micro Sites and Third Party Sites  
+Web pages and/or Micro Websites included within the website may be co-branded with third party names, logos, and/or properties. These Micro Websites are operated or maintained by O2. While such third parties are sponsors of these web pages or micro websites, the third parties do not share in any personally identifiable information collected within those web pages or Micro Websites unless otherwise stated. 
 
-You are solely responsible for evaluating any goods (including software) or services offered by third parties via the O2 Portals or on the Internet. O2 will not be a party to or in any way responsible for any transactions between you and third parties. Any personal information you may wish to disclose to third parties is at your own risk. 
+Link to Glossary
 
-These conditions are governed by and will be interpreted in accordance with English Law and any disputes relating to these conditions will be subject to the exclusive jurisdiction of the English courts.
+This policy does not apply to third party sites that you may access via an O2 Site. You should therefore ensure that you are familiar with the applicable third party privacy policy before entering any personal information on a third party site.
 
-Acceptable Usage Policy 
+Back to Top
 
-For portals to operate in a manner that satisfies the majority of its users, all users need to observe some rules and etiquette governing their use of it. These requirements are usually contained or referred to in the relevant terms and conditions governing a particular Internet service as well as general law. 
+7\. Cookies  
+A "cookie" is a piece of information, like a tag, which some websites create on your PC which identifies your PC whenever you visit that website. In order to provide you with the best possible online experience, O2 may create cookies when you visit the O2 site. Cookies may be used to help you in the following ways: to limit the frequency with which you will see particular advertisements or O2 announcements on the site; to identify your defaults if you have set up a customised homepage; to keep track of how many times you do specific things whilst using O2, to track where you have come from if you were referred to our website; to provide you with self-help information; and to make our email offers more relevant to you by taking into account your response to previous email offers.
 
-O2's customers must ensure that they know what these requirements are and how they are affected by them. 
+Our cookies will not be used to analyse your visits to other sites. Agents of O2, who assist in the serving, and targeting of advertisements, promotions and other marketing messages may use cookies to collect anonymous data such as how many people have viewed a particular page each day. Data collected by cookies will not otherwise be passed to any third party. You have the ability to accept or decline cookies. Most PCs automatically accept them but you can modify your browser settings to decline if you so wish - click here to switch off cookies on your browser. If you decline cookies, some aspects of the O2 site may not work on your PC and you may not be able to access areas you want on the website. For this reason we recommend that you accept cookies.
 
-To enable its customers to have a better understanding of what is and is not acceptable when using the O2 Portals or our SMS and Chat services, and to help you get the best out of the O2 Portals, O2 has developed a number of Acceptable Usage Policies (AUPs) relating to our services. Complying with these AUPs should help you benefit from safer surfing and minimise the risk of suffering "online abuse". If you fail to do so, your service may be suspended or terminated. 
+If you select the 'Remember Me' function, where it is available, for any return visits, you will need to have cookies enabled on your browser. 
 
-O2's AUPs are based on current "best industry practice" and draw on the collective experience of users and service providers across the Internet community. 
+Link to Glossary
 
-We may change the AUPs from time to time and any changes will be posted on these pages. To make the most of the guidance contained in the AUPs, please keep up to date with changes and look at them on a regular basis. We hope you will find them useful and informative.
+Back to Top
 
-Common Sense  
-The majority of O2's online customers will be using commercial software to connect to and navigate. This software implements the technical aspects of the connection but there are also some simple common sense checks which all customers can implement. For example, making sure that the computer is dialing the whole number, including the area code, will reduce the possibility of other people receiving unwanted calls. 
+8\. Accessing your Information  
+As an O2 Portal Registered Customer, you have control over the accuracy of your personal information. If, at any time, you wish to verify, update or amend the personal information you have provided to O2, you can do so online by clicking on "Edit My Profile" under the heading "MyO2".  
+**Access to Data**  
+You can access your personal information at any time. Just make a written request clearly identifying yourself and the information you require. We'll charge you £10 to cover the administrative cost of supplying it. If we hold any inaccurate information about you, please tell us and we will correct it.   
+Our address is:  
+FAO: The Data Controller
 
-O2's relationships with its customers, other networks, and ultimately its connectivity to the rest of the Internet, require its customers to behave responsibly. Accordingly, O2 cannot permit irresponsible behaviour by its customers, which could damage these relationships, O2's network or the use of the Internet by others. 
+O2 (UK) Limited  
+260 Bath Road  
+Slough  
+Berkshire  
+SL1 4DX 
 
-Customers who engage in abusive behaviour will be notified that their behaviour is unacceptable and may have their accounts suspended or terminated. Complying with these AUPs is a contractual requirement. If you fail to do so, your service may be suspended or terminated.
+9\. Security  
+You must not share your password for any message services or Portal access. Your passwords and the answers to secret questions are your responsibility, and must not be disclosed to any third party. This is also important for your own protection.
 
-Legal Compliance  
-The Internet and other portals are global mediums and are regulated by the laws of many different countries. Material which is illegal in this country may be legal in another, and vice versa. As a user in this country, for example, you should not access sites carrying child pornography, hard-core pornography or incitement to violence. These are just three examples of unlawful material and there are many others. When you visit a website, a copy of the visited pages is stored on your pc in the web browsers' cache files. Storage of illegal material in this way may well constitute a criminal offence. You must not, by using the O2 Portals, possess or transmit illegal material. If you are in any doubt as to the legality of anything, don't do it and take independent legal advice before proceeding. 
+We are constantly reviewing our procedures to protect your personal data from unauthorised access, accidental loss and/or destruction. We use industry standard secure sockets layer (SSL) technology, to encrypt sensitive information such as financial information eg your credit card  
+Please be aware that communications over the Internet, such as e-mails/Webmails, are not secure unless they have been encrypted. Your communications may route through a number of countries before being delivered - this is the nature of the World Wide Web/Internet. O2 cannot accept responsibility for any unauthorised access or loss of personal information that is beyond our control.  
+Link to Glossary
 
-To connect to any of O2's internet portal services, you will use a telephone (PSTN) line, ISDN line or ADSL. While connected to the Internet, you must comply with legal requirements concerning telephone network (mis)use. Set out below is a self explanatory extract from the Telecommunications Act. As you can see, network misuse is a serious criminal offence that can lead to fines and/or imprisonment. 
+10\. Users 16 and under  
+If you are aged 16 or under, please get your parent/guardian's permission before providing any personal information or before taking part in any O2.co.uk discussion Users without this consent are not allowed to provide us with personal information.
 
-(1) A Person who -  
-(a) sends by means of a public communication system, a message or other matter that is grossly offensive or of an indecent, obscene or menacing character, or  
-(b) sends by those means, for the purpose of causing annoyance, inconvenience or needless anxiety to another, a message that he knows to be false or persistently makes use for that purpose of a public telecommunication system,  
-shall be guilty of an offence and liable on summary conviction to imprisonment for a term not exceeding six months or a fine... or both. 
+Remember, never reveal any personal information about yourself or anyone else (for example, telephone number, home address or e-mail address) on chat rooms, discussion forums or bulletin boards. 
 
-You must not gain or attempt to gain unauthorised access to any computer systems for any purpose, including accessing the Internet. As well as being in breach of your contract for the particular service, such hacking or attempted hacking is a criminal offence. 
+11\. Changes to this Policy  
+We will keep this policy under review and any changes made from time to time will be posted on this page.  
+We will notify you of any changes with a link to this privacy policy on the log-in page of this site.
 
-Forging Addresses  
-You must not send data via the Internet which has forged addresses or which is deliberately constructed to adversely affect remote machines. 
+Back to Top
 
-You must not configure your PC as an open relay system 
+12\. FAQS on other related issues  
+a) Location information  
+b) How can you avoid receiving SPAM?
 
-Message Service Usage Policy  
-This Message Service Acceptable Usage Policy is based on current "best industry practice" and draws on the experience of users and providers of Message Services including email, instant message services, SMS messages and multi media services across the message services community. 
+**a) Location Information**
 
-Exchanging communication with others generally involves using common sense regarding the content material and being polite and courteous. The vast majority of O2's customers understand what is appropriate when sending or receiving messages. Message Services are without doubt an extremely effective and convenient method of communication. They are fast and cheap and within seconds of sending a message, it will be with its recipient. 
+Some web and mobile telephone services that you use from your O2 mobile may require us to disclose information about the location of your mobile phone to third parties. By using location-based services such as 'Find My Nearest ATM' or 'Friend Finder', you consent to O2 disclosing your information to third parties required to provide you with the service. The information that we provide to third parties will be an approximate location only.  
+However if do not wish your location to be disclosed for some or all services, please call our Location Services Privacy Controller (LSPC) by dialling 1300, free of charge from your O2 mobile (for non-O2 customers, please contact your network provider). If you have contacted the LSPC and decided to withhold your location information you may not be able to access certain services that require this information.
 
-Regrettably, there are occasions when individuals or groups of people exchange messages or involve in online activities, which are considered to be unacceptable by the Internet community. This is described by the generic term of "abuse". Although much unsolicited messages, particularly e-mail (SPAM), may just be a harmless but annoying way of advertising products or services, some can be as distressing as receiving malicious telephone calls. 
+Link to Glossary
 
-There are some simple steps you can take to minimise the likelihood of receiving or sending abuse or nuisance messages, particularly e-mail messages:  
+**Location Services Privacy Controller (LSPC)**  
+You can control how the location of your mobile is used to provide you with services by dialling the LSPC on 1300, free of charge from your O2 mobile.  
+You can choose a location status from the list below by following the voice prompts  
+a. You can be found by all location services, including those that allow other user to find you. These services may include those such as "Find a buddy" type services where you and your friends can find each other  
+b. You can be found by all location services that you use from your own mobile.  
+These services will only locate you each time you use the service, by calling or sending a text message for example  
+c. You can be found by all O2 location services but not by services that require your location to be disclosed to any third party services  
+You cannot be found by any location services, except by the emergency services in the event that you make an emergency call from your mobile. Link to Glossary
 
+**b) How can you avoid receiving Spam?**
 
-  1. Ensure that you are running a good quality virus detection application. The majority of these applications have the ability to detect hackers as well as viruses. Hackers are people who try to hack into your computer to either cause mischief or find your passwords and usernames. You should be aware that some hackers have the ability to seriously damage your computer system. 
-  2. If you keep sensitive information on your computer, it is worth using encryption software to protect it. 
-  3. While connected, do not publicise your IP address. This is the unique ID that your ISP allocates you while you are connected to the Internet. This is especially important if you are using applications such as CHAT, IRC (Internet relay chat) or video conferencing using a directory service. 
-  4. A majority of people spend their online time finding Internet software applications to run while online. Be careful what you install. Before installing software of unknown origin, ask yourself whether you trust the writer/source. Most computer viruses and Trojans are installed unknowingly while installing shareware or freeware applications that are supposedly designed to make your life easier. If in doubt, don't do it. 
-  5. Don't give out your message address unless you are absolutely sure you can trust the recipient. You should treat your e-mail address and personal details if in a chat room, as you would treat your telephone number. 
-  6. When posting into newsgroups configure your newsreader so that it doesn't show or it disguises your e-mail address, i.e. joe.bloggs32@nospam.isp.com. In the posting you would say" to reply to Joe, remove the nospam". A person responding to the e-mail then has to remove the nospam section of the e-mail address. This makes it more difficult for automated newsgroup trawlers to strip e-mail addresses from the postings. The majority of the mail lists that are used for the bulk sending of e-mails are compiled from undisguised e-mail addresses in newsgroups. 
-  7. Avoid posting into newsgroups if you are not entirely sure about the nature of their subject matter. If you are going to post into these groups, be aware that there is very little your ISP can do to protect you if you become a victim of abusive e-mails resulting from your posting or a "flame war". 
-  8. Never publicise your home address or telephone number. 
-  9. Be very careful when sending details such as your credit card number by message. Unless you are completely sure you can trust the recipient and the details of the recipient's message system, don't do it. 
-  10. When filling in online forms always look for and complete any "data protection opt out" boxes if you do not wish to be contacted regarding advertisement and promotion of any products and services. The information you provide may be disclosed to other organisations or used for marketing or other purposes which you did not envisage. If in doubt, do not use the online form. 
+**Think before you give out your e-mail address**  
+Try to avoid giving your main e-mail address on web sites, chatrooms, newsgroups or to companies. There are many places online that provide free e-mail accounts. You could set up a separate account to use when signing up to an Internet service, or for online shopping. This way your main e-mail address cannot be "harvested" by spammers. Avoid forwarding chain letters or petitions. These lists of addresses can be used by spammers.
 
-If you do become a victim of abusive e-mails, there is often very little your ISP can do to stop the abuse. However, the ISP of your abuser can possibly do something under its terms and conditions. Accordingly, we recommend you to take the following action:  
-a. E-mail the "abuse department" for the individual's ISP.  
-b. Send the relevant ISP as much evidence as possible. It is no use simply complaining about the activities of an individual, you must provide evidence of the abuse, e.g. send the whole e-mail, newsgroup posting or the URL of the website to abuse@ the ISP in question. The ISP will probably need the IP Address that the abuser was using at the time of the abuse. This is the unique ID allocated to that user at that specific moment and can be found/seen in the header of the e-mail, and in the header of the newsgroup posting. 
+**Never reply to spam**  
+This includes the notorious "click here to unsubscribe" trick. While it looks as if you are being given a chance to opt out of receiving further unsolicited e-mail, in fact you will be letting the spammer know that your e-mail address is active, leading to yet more spam being sent. Don't click it - just delete the e-mail.  
+You should also avoid trying to spam the spammers, you will end up being blacklisted as a spammer yourself.
 
-It is unlikely that a message service provider will simply give out the name and details of an alleged offender. However, a message service provider may need to divulge such information to appropriate authorities, such as the police or the courts, if formally requested to do so. In cases of extreme abuse, you may need to contact the police if you think further action should be taken. If you decide to do so, you must be prepared to provide the police with any evidence you have. The police will then consider whether a criminal offence may have been committed and whether further action can or should be taken. 
+**Blocks and Filters**  
+Your Webmail has simple spam blocking features already. Have a look for the pages on "spam" or "junk mail" in the 'Help' section of the Webmail service. If you are downloading emails onto your home PC, then email your Internet Service Provider or search their website to find out about spam blocking services they may offer. There are various software programs to help you block spam.
 
-Spam or Unsolicited Communication  
-You must not participate in the sending of unsolicited bulk e-mail, SMS messages, instant messages or multi media messages or usenet "abuse". This applies to material, which originates on your system or mobile device as well as third party material which passes through your system. 
+Link to Glossary
 
-Abusive Messages  
-It is not always obvious whether an e-mail, SMS or other Message activity is innocent, inadvertent, or intentional but as a general rule users should be aware that what is unacceptable (and possibly illegal) offline (oral or written), applies equally to Message Services. As with telephone calls, you must not send any Message that causes annoyance, inconvenience or needless anxiety. You should not send false messages likely to cause distress (e.g. advising the recipient that a relative has been in an accident when they have not), or any other material which is distressing, grossly offensive, indecent, obscene, menacing or in any other way unlawful. Particular care should be taken to avoid any material which is offensive to people on grounds of gender, race, colour, religion or other similar categorisation. Always be sensitive to the fact that children might have access. 
-
-Security  
-You must not share the password for any Message Service. Your passwords are your responsibility, and must not be disclosed to any third party. This is also important for your own protection. 
-
-What action will O2 take?  
-Compliance with this Acceptable Use Policy is a contractual requirement. If you fail to do so, your service may be suspended or terminated. 
-
-Customers who engage in abusive behaviour will be notified that their behaviour is unacceptable and may have their accounts suspended or terminated if such behaviour continues 
-
-Account Restoration  
-A suspended account may be restored at O2's discretion, upon receipt of a written undertaking by the abuser not to commit any future "abuse". All cases are, however, considered by O2 on their individual merits. 
-
-Port Scanning Policy  
-O2 prohibits the use of port scanning software on its services. 
-
-You must not run "port scanning" software, which accesses remote machines or networks, except with the explicit prior permission of the administrator or owner of such remote machines or networks. This includes using applications capable of scanning the ports of other Internet users. 
-
-If you intend to run a port scanning application, you must provide O2 with a copy of the written consent received from the target of the scan authorising the activity. This must be supplied to O2 prior to the application being run. 
-
-Q. What are ports?  
-A. Basically a place where information goes into or out of a computer.  
-With the Internet when your PC connects to a server it supplies a port number to be used for the server replies (the number will depend on the operating system used).  
-* The Port needs to be open on the users machine in order to receive replies from the servers you are trying to communicate with. 
-
-Q. What are trojans?  
-A. Viruses - of which there are many different kinds. They act as a back door to your PC allowing potential hackers to access information on your computer. 
-
-Q. What information are they after?  
-A. Normally they are after User ID's and passwords for dial-up connections especially for 0800 access. 
-
-Q. How are these viruses installed?  
-A. They are normally installed by the user having downloaded an .EXE file onto their machine under false pretences via programs like ICQ or IRC for example. Running the file will implant the virus. 
-
-Q. How can I protect my system from these viruses?  
-A. By acquiring up to date anti-virus software for your system such as Nortons Anti-Virus or McAfee Virus Scan. 
-
-Q. Where can I get further information about viruses?   
-A. Further information can be acquired from the following web site <http://www.sophos.com/>
-
-Q. How do the hackers access your system?  
-A. Using software programs like Back Orifice or Subseven they scan a large range of IP addresses hoping to find a machine that has a trojan virus installed. 
-
-Q. How can I stop myself from being port scanned?  
-A. Unfortunately you cannot stop yourself from being port scanned however you can make sure they don't get any information from your machine. You would need to Download software which monitors your connection for such attempts - such as Jammer, Lockdown2000, Nukenabber (most of this software is free to download) These programs will warn you when an attack is taking place and also give the IP address of the person that is attacking you. 
-
-Location Information  
-Some web and mobile telephone services that you use from your O2 mobile may require us to disclose information about the location of your mobile phone to third parties. By using location based services such as 'Find My Nearest ATM' or 'Friend Finder', you consent to O2 disclosing your information to third parties required to provide you with the service. The information that we provide to third parties will be an approximate location only.
-
-However if do not wish your location to be disclosed for some or all services, please call our Location Services Privacy Controller by dialling 1300, free of charge from your O2 mobile (please see below for further details). If you have contacted the Location Services Privacy Controller and decided to withhold your location information you may not be able to access certain services that require location information.
-
-Location Privacy Controller  
-You can control how the location of your mobile is used to provide you with services by dialling the Location Services Privacy Controller on 1300, free of charge from your O2 mobile.
-
-You can choose a location status from the list below by following the voice prompts 
-
-  1. You can be found by all location services, including those that allow other user to find you. These services may include those such as "Find a buddy" type services where you and your friends can find each other;
-  2. You can be found by all location services that you use from your own mobile.
-
-These services will only locate you each time you use the service, by calling or sending a text message for example;
-
-  3. You can be found by all O2 location services but not by services that require your location to be disclosed to any third party services;
-  4. You cannot be found by any location services, except by the emergency services in the event that you make an emergency call from your mobile.
-
-
+13\. Glossary  
+| Internet  | The international system of interconnected computer networks utilising standard protocols and procedures to transmit electronic data.  
+---|---  
+O2 Portal Registered Customer | Someone who has successfully registered their details on www.o2.co.uk website. This website is only open to UK residents who own or intend to own a UK network mobile phone.  
+Network | The electronic communications system by which we make Services available in the United Kingdom.  
+Portals | Our web, WAP, O2 Active and XDA portals and any other services and portals we introduce from time to time.   
+Media Message (MMS) (Multimedia Messaging Service) | A message that can contain text, images, video and audio.  
+Micro Websites | Self- contained websites relating to a particular product eg O2 Xda or a promotion eg O2 Music, built to function independently of the main website  
+Spam | Unsolicited "junk" e-mail or Messages sent to large numbers of people to promote products or services. The term also refers to inappropriate promotional or commercial postings to discussion groups or bulletin boards.  
+WAP Services | Services provided via Wireless Application Protocol (a secure specification that allows users to access Content via handheld wireless devices such as mobile phones). "O2 Active"refers to those WAP Services made available to O2 Network customers directly from the O2 Active menu on your Device.  
+Webmails | An email system that can be accessed via the web browser .  
+Web Services | Services provided from our websitewww.o2.co.uk and any additional websites linked from our website.  
+Web and WAP services terms and conditions | Terms and conditions for our Web and WAP services located on our website.
