@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostndomain.com privacy policy that was archived on 2005-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050315001426id_/http%3A//hostndomain.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostndomain.com privacy policy that was archived on 2006-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060410075603id_/http%3A//hostndomain.com/privacy.htm) for the most accurate reproduction.*
 
 # Host'n'Domain
 
