@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crazyxxx3dworld.com privacy policy that was archived on 2004-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040724043721id_/http%3A//crazyxxx3dworld.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazyxxx3dworld.com privacy policy that was archived on 2006-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060410191119id_/http%3A//crazyxxx3dworld.com/privacy.html) for the most accurate reproduction.*
 
 # Crazyxxx3Dworld.com - Privacy Policy
 
