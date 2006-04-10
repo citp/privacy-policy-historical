@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the productionhub.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231071600id_/http%3A//productionhub.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the productionhub.com privacy policy that was archived on 2006-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060410230748id_/http%3A//productionhub.com/about/privacy.asp) for the most accurate reproduction.*
 
 # ProductionHUB : About Us : Privacy Policy
 
-[](https://www.truste.org/ivalidate.php?url=www.productionhub.com "Verify TRUSTe Membership")
-
-ProductionHUB is a licensee of the [TRUSTe Privacy Program](http://www.truste.org/ "TRUSTe Privacy Program"). TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This covers the site [www.productionhub.com](http://www.productionhub.com/). Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, ProductionHUB has agreed to notify you of:
-
-If you have questions or concerns regarding this statement, you should first contact Bill Williams, Director of Technology by email: [bwilliams@productionhub.com](mailto:bwilliams@productionhub.com), toll free phone: 877.629.4122 or postal mail: 801 W. Fairbanks Avenue, Winter Park, FL 32789. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe through the "[TRUSTe WatchDog Dispute Resolution Process](http://www.truste.org/watchdog.html)". TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+[](http://www.linkpoint.com/)
 
 Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with an appropriate law enforcement investigation, current judicial proceeding, a court order or legal process served on our Web site, or as required by law.
 
@@ -14,9 +10,10 @@ Though we make every effort to preserve user privacy, we may need to disclose pe
   2. The organization collecting the information.
   3. How is the information used.
   4. With whom the information may be shared.
-  5. What choices are available to you regarding collection, use and distribution of the information?
-  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under ProductionHUB.com's control
-  7. How you can correct any inaccuracies in the information.
+  5. What about my email address?
+  6. What choices are available to you regarding collection, use and distribution of the information?
+  7. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under ProductionHUB.com's control
+  8. How you can correct any inaccuracies in the information.
 
 
 
@@ -45,6 +42,10 @@ Tell a Friend
 If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. ProductionHUB.com will automatically send the friend a one-time email inviting them to visit the site. ProductionHUB.com stores this information for the sole purpose of sending this one-time email. The friend may contact ProductionHUB.com [support](https://web.archive.org/about/contact.asp?department=2) to request the removal of this information from our database.
 
 ProductionHUB.com discloses your information to a third party credit authorization company but they do not use your information for any secondary purposes. We only pass over your personal information to other users when a match between media developers has occurred through our service and you have indicated an interest in contacting them. Otherwise, ProductionHUB.com will not disclose any of your personally identifiable information except when we have your permission.
+
+What about my email address?top
+
+Your email address is hidden and protected on the site. Users will be able to email you through our system without seeing your email address. If at the time of registration you indicated it was all right for ProductionHUB to send you our monthly newsletter and/or other industry related offers, we will do so. E-mails will be sent by ProductionHUB, for ProductionHUB, or on the behalf of a third party. ProductionHUB is committed to providing the industry with a reputable service without intruding on your privacy. The emails that you receive help in supporting the free services ProductionHUB provides. If at any time you decide not to receive emails from ProductionHUB, please inform us by calling 877.629.4122 or unsubscribe at the bottom of the email received.
 
 What choices are available to you regarding collection, use and distribution of your information?top
 
