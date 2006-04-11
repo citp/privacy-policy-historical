@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zango.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231043622id_/http%3A//www.zango.com/about/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zango.com privacy policy that was archived on 2006-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060411144837id_/http%3A//www.zango.com/about/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy: Online Games and Entertainment from Zango
 
