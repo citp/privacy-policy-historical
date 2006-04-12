@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplydresses.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220082001id_/http%3A//www.simplydresses.com/info/policies.cfm%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplydresses.com privacy policy that was archived on 2006-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060412195402id_/http%3A//www.simplydresses.com/info/policies.cfm%23privacy) for the most accurate reproduction.*
 
 # Prom Dresses Homecoming Dresses Prom Gowns Shoes Special Occasion Dresses and Accessories from Simplydresses.com
 
@@ -15,7 +15,7 @@ For customers not wishing to place their order online you may email your phone n
 
 **Fax orders**
 
-Customers may fax their order information by printing the [form linked here](http://simplydresses.com/pdfs/fax_form.pdf) and faxing to 212-228-4986. We will enter your information and you will receive an email confirmation of your order. 
+Customers may fax their order information by printing the [form linked here](http://simplydresses.com/pdfs/fax_form.pdf) and faxing to 302-449-1490. We will enter your information and you will receive an email confirmation of your order. 
 
 \- top of page -
 
@@ -23,10 +23,9 @@ Customers may fax their order information by printing the [form linked here](htt
 
 Customers using money orders must fill out this [form linked here](http://simplydresses.com/pdfs/mo_form.pdf) and mail it with their money order. Before mailing the form, call us at 888-THE PROM for a final price quote and stock availability. Please mail all money orders to...
 
-Kimberly Broomall  
-200 Park Ave. South   
-Suite 1308  
-New York, NY 10003 
+Simply Dresses  
+7 Crenshaw Ct.  
+Middletown DE 19709
 
 \- top of page -
 
@@ -58,9 +57,8 @@ We accept Visa, Mastercard, Discover, American Express, Money Order and Paypal. 
 
 Simplydresses   
 c/o Kimberly Broomall   
-200 Park Ave. South  
-Suite 1308  
-New York, NY 10003
+7 Crenshaw Ct.  
+Middletown DE 19709
 
 Please include your name, phone number, email address, shipping address, style number, size and color.
 
@@ -94,7 +92,7 @@ Additionally, Simplydresses.com logs your Internet Protocol Address (IP). An IP 
 
 Your information is secure with Simplydresses.com! Protecting your order information is a priority. Promgirl.com makes every effort to protect your online order information using Secure Sockets Layer (SSL) technology. 
 
-SSL encrypts your order information to avoid the decoding of that information by anyone other than [Simplydresses.com](https://web.archive.org/web/20051220082001id_/http%3A//www.simplydresses.com/info/www.simplydresses.com). To check the security of your connection, look at the lower left-hand corner of your browser window after accessing the server. If you see an unbroken key or a closed lock (depending on your browser), then SSL is active. You can also double check by looking at the URL line of your browser. When accessing a secure server, the first characters of the site address will change from "http" to "https". 
+SSL encrypts your order information to avoid the decoding of that information by anyone other than [Simplydresses.com](https://web.archive.org/web/20060412195402id_/http%3A//www.simplydresses.com/info/www.simplydresses.com). To check the security of your connection, look at the lower left-hand corner of your browser window after accessing the server. If you see an unbroken key or a closed lock (depending on your browser), then SSL is active. You can also double check by looking at the URL line of your browser. When accessing a secure server, the first characters of the site address will change from "http" to "https". 
 
 Some versions of firewalls don't permit communication through secure servers. In that case, you will be unable to connect to the server (and you won't have to worry about placing an order through an unsecured connection). 
 
