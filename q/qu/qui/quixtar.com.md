@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the quixtar.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212112250id_/http%3A//quixtar.com/Quixtar/PrivacyStatement/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quixtar.com privacy policy that was archived on 2006-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060414003142id_/http%3A//quixtar.com/Quixtar/PrivacyStatement/default.aspx) for the most accurate reproduction.*
 
-# Quixtar - Privacy Statement
+# 
 
   
 Thank you for visiting [www.quixtar.com](http://www.quixtar.com/) or the personalized QHealthZone.com or QBeautyZone.com Web site of your authorized Quixtar® Independent Business Owner (IBO) whose name appears on the site (our "Site"). This Site is powered by Quixtar Inc. and made available by Quixtar as a service to your IBO. As used in this Privacy Statement, the terms "our," "we" and "us" refer to both Quixtar and your IBO unless the context clearly provides otherwise.
@@ -27,6 +27,9 @@ Credit card information collected at registration or for shopping cart orders is
 
 **E. Surveys and Promotions**  
 From time to time you may voluntarily provide Personally Identifiable Information to complete surveys and questionnaires or to participate in user polls. We use this information to improve our products and services. We may also use your Personally Identifiable Information to provide you newsletters and other marketing information that coincide with your preferences. You may customize your marketing preferences, or let us know if you do not wish to receive any promotional materials, by adjusting your Subscriptions & Email options on the Site.
+
+**F. Personalized Health Program**  
+You may voluntarily elect to participate in the Personalized Health Program offered on our Site, a complete program that delivers a personalized health risk assessment (HRA), genetic testing, and customized nutritional supplements tailored to your personal health and nutrition needs. The HRA collects Personally Identifiable Information, including personal health information concerning your nutrition, lifestyle, and health history. The Site automatically processes your HRA information through an algorithm specially designed to analyze your nutritional needs, develop nutritional supplement recommendations, and perform safety checks for toxicity and allergic reactions. HRA information is securely stored in your separate HRA profile and accessible only by logging into the Site with your identification number and password. Note that others (spouse, family member, business partner) with whom you are registered under the same identification number and password can also access your HRA information on the Site. To protect your personal health information we encourage you to safeguard the password you use to access our Site as described in the “Protecting Your Information” section, below. Except as disclosed in this section, we do not share your HRA information with any non-affiliated third party without your permission.
 
 **2\. Aggregate Information**  
 This refers to information that does not, by itself, identify you as a specific individual. Such information would include the Uniform Resource Locator ("URL") of the Web site that referred you to our Site, your Internet Protocol ("IP") address (a number automatically assigned to your computer whenever you surf the Web), your operating system and browser type, and any search terms that you enter on our Site. Our Web server aggregates this information in order to monitor the level of activity on our Site, evaluate its effectiveness, and improve the content of our Site in order to make your visit an easy and enjoyable experience.
@@ -87,8 +90,8 @@ Any updates or changes to the terms of this Privacy Statement will be posted her
 **Contact Us**  
 If you have any concerns about our use of your information or about this Privacy Statement, please send an e-mail to [quixtar.customer.support@quixtar.com](mailto:quixtar.customer.support@quixtar.com), or call 800-253-6500. We will make every reasonable effort to address your concerns and remedy any problems you bring to our attention.
 
-Updated and effective December 7, 2005.
+Updated and effective January 12, 2006.
 
-©2005 Quixtar Inc., U.S.A, all rights reserved.
+©2006 Quixtar Inc., U.S.A, all rights reserved.
 
 Back to top
