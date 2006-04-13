@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nikah.com privacy policy that was archived on 2005-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051123191245id_/http%3A//www.nikah.com/islam/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikah.com privacy policy that was archived on 2006-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060414014607id_/http%3A//nikah.com/islam/privacy.asp) for the most accurate reproduction.*
 
 # Nikah.com :: Muslim Marriage Service ::
 
