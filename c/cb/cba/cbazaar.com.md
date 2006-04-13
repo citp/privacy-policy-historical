@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbazaar.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214164733id_/http%3A//www.cbazaar.com/Clothing/privacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbazaar.com privacy policy that was archived on 2006-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060414014740id_/http%3A//www.cbazaar.com/Clothing/privacyPolicy.asp) for the most accurate reproduction.*
 
 # Indian Clothing Exporters, Indian Apparels, Sarees, Saris, Salwars, Shalwars, Asian Clothing Wholesalers Exporters, Asian Fashion kids clothing Fashion jewellry, Silk Sarees exporters, Whole sale bulk trade bulk purchases of ladies clothes from India, Shawls, Tunics, Kurtis, Designer Clothing, Stoles, Bridal, Wedding dresses
 
