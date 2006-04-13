@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the freedback.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403160119id_/http%3A//freedback.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedback.com privacy policy that was archived on 2006-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060413183629id_/http%3A//freedback.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Statement for Freedback.com
+# HTML forms can be as simple as "Copy and Paste"
 
-**Privacy Statement for Freedback.com**
+### Privacy Policy
 
 Wondermill Webworks Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for all Webmasters.org sites run by note.com LLC, including this website: Freedback.com. 
 
@@ -36,8 +36,6 @@ We take the security of our data seriously and utilize several software and hard
 This site supplements the information that you provide with information that is received from third parties. For example, we may contract with a firm which identifies geographic locale of an IP address in order to better present the site (including our advertiser messages) in the appropriate language local to a Webmaster or Web Visitor.   
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 
-Wondermill Webworks Inc. 1402 McTavish Rd. Sidney, BC V8L 5T3 Canada
+Wondermill Webworks Inc. 1199 Glen Tara Lane Victoria, BC V8Z 6Z4 Canada
 
-THIS STATEMENT WAS CREATED ON OCTOBER 11TH 2004. 
-
-[Privacy Policy](https://web.archive.org/privacy.php) | [Terms of Service](https://web.archive.org/legal.php) | [Credits](https://web.archive.org/credits.php)
+THIS STATEMENT WAS CREATED ON MAY 1ST, 2005 
