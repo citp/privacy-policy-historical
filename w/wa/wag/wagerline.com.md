@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the wagerline.com privacy policy that was archived on 2005-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050829222408id_/http%3A//wagerline.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wagerline.com privacy policy that was archived on 2006-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060413230245id_/http%3A//www.wagerline.com/info/privacy.aspx) for the most accurate reproduction.*
 
 # Wagerline.com - FREE Real-time Scores, Odds, & Contests for All Major Sports
-
-Privacy Statement for WagerLine.com 
 
 WagerLine.com is owned and operated by SportsDirect Inc.   This statement demonstrates our commitment to privacy.  It discloses the information collected by SportsDirect Inc. in the operation of WagerLine.com.
 
@@ -22,7 +20,7 @@ b) Information collected, used or disclosed in the course of journalistic, liter
 
 c) Aggregate information that cannot be associated with a specific person, such as demographic statistics about SportsDirect Inc. customers, or number of visitors and average time spent on a website. 
 
-**Purposes for Collection of Personal Information:**
+### Purposes for Collection of Personal Information: 
 
 SportsDirect Inc. has collected and collects Personal Information for the following purposes: 
 
@@ -38,11 +36,11 @@ As examples of the above:
 
 i) SportsDirect Inc. may from time to time use a Person's Personal Information to contact the Person about changes, enhancements or similar notices related to SportsDirect Inc. products and services; 
 
-ii) If a Person indicated that they was interested in receiving offers or information from SportsDirect Inc. or certain of our selected sponsors or advertisers, SportsDirect Inc. may send the Person materials about products and services that SportsDirect Inc. feels may be of interest to the Person; and 
+ii) If a Person indicated that they were interested in receiving offers or information from SportsDirect Inc. or certain of our selected sponsors or advertisers, SportsDirect Inc. may send the Person materials about products and services that SportsDirect Inc. feels may be of interest to the Person; and 
 
 iii) If a Person enters a contest or other promotion offered on a SportsDirect Inc. website, SportsDirect Inc. may, under the rules of the promotion, use the Person's name and certain other information to administer the promotion, such as contacting, announcing and promoting the winners of the promotion. 
 
-**Obtaining Consent:**
+### Obtaining Consent: 
 
 SportsDirect Inc. will make a reasonable effort to make sure Persons understand how their Personal Information will be used by SportsDirect Inc.. SportsDirect Inc. will obtain consent from Persons before or when it collects or uses the Personal Information. SportsDirect Inc. will not attempt to deceive Persons into giving consent. 
 
@@ -52,9 +50,9 @@ A Person's consent can be express, implied, or given through an authorized repre
 
 i) Write to Customer Service - Privacy, SportsDirect Inc., 77 Chain Lake Drive, Halifax, NS, B3S 1E1; or 
 
-ii) Provide information to SportsDirect Inc. through the form provided on our [feedback page ](https://web.archive.org/includes/Email_us.asp?uid=1). 
+ii) Provide information to SportsDirect Inc. through the form provided on our [ feedback page ](https://web.archive.org/web/20060413230245id_/http%3A//www.wagerline.com/info/email_us.aspx?uid=1). 
 
-**Refusing or withdrawing Consent:**
+### Refusing or withdrawing Consent: 
 
 Subject to legal and contractual requirements, a Person can refuse to consent to SportsDirect Inc.'s collection, use or disclosure of Personal Information about the Person, or a Person may withdraw the Person's consent to SportsDirect Inc.'s further collection, use or disclosure of Personal Information at any time in the future by giving SportsDirect Inc. reasonable notice, unless: 
 
@@ -63,11 +61,12 @@ i) The consent relates to certain information required for credit approval which
 
 ii) The consent is otherwise required by law or iii) the use or disclosure is permitted by law or is related to the legal or regulatory requirements described herein. If a Person refuses or withdraws the Person's consent, SportsDirect Inc. may not be able to provide the Person or continue to provide the Person with some products, services or information which may be of value to the Person. 
 
-**Internet Aspects:**
+### Internet Aspects: 
 
 Personal Information may be collected when a user conducts activities on or related to all websites of SportsDirect Inc. (see "SportsDirect Inc. Companies Sites") or related to services made available on the SportsDirect Inc. Companies Sites. Although information collected, used or disclosed on the Internet as described below often does not constitute Personal Information (and to the extent that such is the case, then the obligations under the SportsDirect Inc. Privacy Policy do not extend to such information), SportsDirect Inc. provides the details below about Internet aspects of SportsDirect Inc. services for the purposes of disclosure. 
 
-**Internet Protocol Address (IP Address)**  
+### Internet Protocol Address (IP Address) 
+
 When the user's web browser requests a web page from another computer on the Internet, it automatically gives that computer the address where it should send the information. This address is called the computer's "IP address." For most users accessing the Internet from a dial-up Internet service provider (ISP), the IP address will be different every time the user logs on.   
 SportsDirect Inc. may use the user's IP Address to: 
 
@@ -77,7 +76,8 @@ b) Display (or allow the display by Third Party advertising providers of) more a
 
 c) Estimate user traffic from specific countries or organizations. Many IP addresses are commonly associated with Internet service providers, universities, or major corporations in specific regions or localities. Aggregate information derived from IP addresses may also be reported to advertisers. 
 
-**Cookies**  
+### Cookies 
+
 A cookie is a small text file, which often includes an anonymous unique identifier, that is sent to the user's web browser from a web site's computers and is stored on the user's computer's hard drive. Cookies cannot be used to run programs or deliver viruses to a user's computer.   
 SportsDirect Inc. may use cookies to: 
 
@@ -89,33 +89,41 @@ c) Display advertisements. SportsDirect Inc. and Third Party advertising provide
 
 Most browsers are initially set up to accept cookies. If a user prefers, the user can reset his/her browser either to notify the user when the user has received a cookie, or to refuse to accept cookies. The user should understand that while SportsDirect Inc. do not require a user to use cookies, certain SportsDirect Inc. services will not function properly if a user sets his/her browser to not accept cookies. 
 
-**Links To Other Sites And Advertisements**  
+### Links To Other Sites And Advertisements 
+
 A SportsDirect Inc. website may contain links to other websites and services. While SportsDirect Inc. try to link only to sites and services that share SportsDirect Inc's high standards and respect for privacy, a user should understand that SportsDirect Inc. is not responsible for the content of, or the privacy practices employed by, other companies or websites. This SportsDirect Inc. Privacy Policy applies only to the SportsDirect Inc. services related to this SportsDirect Inc. Privacy Policy. 
 
-The majority of the advertisements which are displayed in connection with SportsDirect Inc. services are served through one or more reputable Third Party advertisement-serving companies which deliver the advertisements to users in conjunction with SportsDirect Inc. services. For more information about what information is collected and how information is used by a major Third Party advertising provider click here. 
+The majority of the advertisements which are displayed in connection with SportsDirect Inc. services are served through one or more reputable Third Party advertisement-serving companies which deliver the advertisements to users in conjunction with SportsDirect Inc. services. 
 
-**Additional Information**  
+### Additional Information 
+
 SportsDirect Inc. Companies automatically collect certain information about the user's computer hardware and software. This information may include: browser type, operating system type, domain names, access times and referring Web site addresses. This information is used by SportsDirect Inc. to operate the service, to maintain the quality of the service, and to provide general statistics regarding use of the SportsDirect Inc. Companies Sites. 
 
 Certain SportsDirect Inc. services may be co-branded and offered in conjunction with another company. If a user registers for or uses such services, both SportsDirect Inc. and the other company may receive information collected in conjunction with the co-branded services. 
 
-**SportsDirect Inc. Companies Sites**  
+### SportsDirect Inc. Companies Sites 
+
 Covers.com   
 Coversexperts.com   
 Sportsdirectinc.com   
-Pokerfan.com   
-Davemalinsky.com   
+Pokerfan.com  
 Patmillersports.com   
-Bgsports.com   
-Tonygeorgesports.com   
-Williamfoote.com   
-Stevemerril.com   
-Leonardsports.com   
-Wagerline.com 
+Bgsports.com  
+Williamfoote.com  
+Davemalinsky.com  
+Stevemerril.com  
+Leonardsports.com  
+Tonygeorgesports.com  
+Torreysports.com  
+Mattfargo.com  
+Bigalsports.com  
+Larrynesssports.com  
+Wagerline.com  
+Coversodds.com
 
 **The SportsDirect Inc. Privacy Policy in Detail**
 
-**Definitions**
+### Definitions 
 
 **Collection** \- the act of gathering, acquiring, recording or obtaining Personal Information from any source, including third parties, by any means. 
 
@@ -125,7 +133,7 @@ Wagerline.com
 
 **Individual** \- an individual other than an Employee who   
 (a) Corresponds with SportsDirect Inc., including complaints and including applications for employment;   
-(b) Enters an contest or forum sponsored by SportsDirect Inc.; or   
+(b) Enters a contest or forum sponsored by SportsDirect Inc.; or   
 (c) Uses, or applies to use, the products or services of SportsDirect Inc.. 
 
 **Person** \- an Individual. 
@@ -140,8 +148,7 @@ d) Aggregate information that cannot be associated with a specific person, such 
 
 **Use** \- the treatment, handling, and management of Personal Information by the SportsDirect Inc.. 
 
-**Principle 1 - Accountability**  
-
+### Principle 1 - Accountability 
 
 SportsDirect Inc. is responsible for Personal Information under its control and shall designate one or more persons who are accountable for SportsDirect Inc.'s compliance with the following principles. 
 
@@ -157,8 +164,7 @@ b) Establishing procedures to receive and respond to inquiries or complaints;
 c) Training and communicating to staff about SportsDirect Inc.'s policies and practices; and   
 d) Developing public information to explain SportsDirect Inc.'s policies and practices. 
 
-**Principle 2 - Identifying Purposes for Collection of Personal Information**  
-
+### Principle 2 - Identifying Purposes for Collection of Personal Information 
 
 SportsDirect Inc. has collected and collects Personal Information for the purposes set out below, and shall identify the purposes for which Personal Information is collected at or before the time the information is collected. 
 
@@ -182,7 +188,7 @@ Further references to "identified purposes" mean the purposes identified in this
 
 2.3 Unless required by law, SportsDirect Inc. shall not use or disclose, for any new purpose, Personal Information that has been collected without first identifying the new purpose and obtaining the consent of the Person. 
 
-**Principle 3 - Obtaining Consent for Collection, Use or Disclosure of Personal Information**  
+### Principle 3 - Obtaining Consent for Collection, Use or Disclosure of Personal Information  
 
 
 The knowledge and consent of a Person are required for the collection, use or disclosure of Personal Information, except where inappropriate. 
@@ -207,8 +213,7 @@ SportsDirect Inc. may also use or disclose Personal Information without knowledg
 
 SportsDirect Inc. may disclose Personal Information without knowledge or consent to collect a debt, to comply with a subpoena, warrant or other court order, or as may be otherwise related to the legal or regulatory requirements described herein. 
 
-**Principle 4 - Limiting Collection of Personal Information**  
-
+### Principle 4 - Limiting Collection of Personal Information 
 
 SportsDirect Inc. shall limit the collection of Personal Information to that which is necessary for the purposes identified by SportsDirect Inc.. 
 
@@ -218,8 +223,7 @@ SportsDirect Inc. shall collect Personal Information by fair and lawful means.
 
 4.2 SportsDirect Inc. may also collect Personal Information from other sources including credit bureaus, employers or personal references, or other third parties that represent that they have the right to disclose the information. 
 
-**Principle 5 - Limiting Use, Disclosure and Retention of Personal Information**  
-
+### Principle 5 - Limiting Use, Disclosure and Retention of Personal Information 
 
 SportsDirect Inc. shall not use or disclose Personal Information for purposes other than those for which it was collected, except with the consent of the Person or as required by law. SportsDirect Inc. shall retain Personal Information only as long as necessary for the fulfillment of the purposes for which it was collected. 
 
@@ -229,7 +233,7 @@ SportsDirect Inc. shall not use or disclose Personal Information for purposes ot
 a) Another person for the development, enhancement, marketing or provision of any of the products or services of SportsDirect Inc.;   
 b) A person who, in the reasonable judgment of the SportsDirect Inc., is seeking the information as an agent of the Person;   
 c) Any SportsDirect Inc. to permit the provision of services requested by the Person, and   
-d) A Third Party or Third Parties, where the Person consents to such disclosure or disclosure is required by law. 
+d) A Third Party or Third Parties, where the Person consents to such disclosure or disclosures is required by law. 
 
 5.4 Only those Employees of SportsDirect Inc. who require access for business reasons, or whose duties reasonably so require, or properly designated representatives of SportsDirect Inc., are granted access to Personal Information about Individuals. 
 
@@ -237,8 +241,7 @@ d) A Third Party or Third Parties, where the Person consents to such disclosure 
 
 5.6 SportsDirect Inc. shall maintain reasonable and systematic controls, schedules and practices for information and records retention and destruction which apply to Personal Information that is no longer necessary or relevant for the identified purposes or required by law to be retained. Such information shall be destroyed, erased or made anonymous. 
 
-**Principle 6 - Accuracy of Personal Information**  
-
+### Principle 6 - Accuracy of Personal Information 
 
 Personal Information shall be as accurate, complete and up-to-date as is necessary for the purposes for which it is to be used. 
 
@@ -246,7 +249,7 @@ Personal Information shall be as accurate, complete and up-to-date as is necessa
 
 6.2 SportsDirect Inc. shall update Personal Information about Persons as and when necessary to fulfill the identified purposes or upon notification by the Person. 
 
-**Principle 7 - Security Safeguards**
+### Principle 7 - Security Safeguards 
 
 SportsDirect Inc. shall protect Personal Information by security safeguards appropriate to the sensitivity of the information. 
 
@@ -256,7 +259,7 @@ SportsDirect Inc. shall protect Personal Information by security safeguards appr
 
 7.3 All employees of SportsDirect Inc. with access to Personal Information shall be required as a condition of employment to respect the confidentiality of Personal Information. 
 
-**Principle 8 - Openness Concerning Policies and Practices**
+### Principle 8 - Openness Concerning Policies and Practices 
 
 SportsDirect Inc. shall make readily available to Persons specific information about its policies and practices relating to the management of Personal Information. 
 
@@ -267,7 +270,7 @@ c) A description of the type of Personal Information held by SportsDirect Inc., 
 
 8.2 SportsDirect Inc. shall make available information to help Persons exercise choices regarding the use of their Personal Information. 
 
-**Principle 9 - Access to Personal Information**
+### Principle 9 - Access to Personal Information 
 
 SportsDirect Inc. shall inform a Person of the existence, use and disclosure of his or her Personal Information upon request and shall give the Person access to that information. 
 
@@ -287,7 +290,7 @@ A Person shall be able to challenge the accuracy and completeness of the Persona
 
 9.7 An employee can obtain information or seek access to his or her Personal Information by contacting his or her immediate supervisor within SportsDirect Inc.. 
 
-**Principle 10 - Challenging Compliance**
+### Principle 10 - Challenging Compliance 
 
 A Person shall be able to address a challenge concerning compliance with the above principles to the designated person or persons accountable for the compliance of SportsDirect Inc. with the   
 SportsDirect Inc. Privacy Policy. 
@@ -304,7 +307,7 @@ B3S 1E1
 
 or 
 
-ii) Provide information to SportsDirect Inc. through our [feedback page ](https://web.archive.org/includes/Email_us.asp?uid=1). 
+ii) Provide information to SportsDirect Inc. through our [ feedback page ](https://web.archive.org/web/20060413230245id_/http%3A//www.wagerline.com/info/email_us.aspx?uid=1). 
 
 10.2 SportsDirect Inc. shall inform Persons about the existence of these procedures as well as the availability of complaint procedures. 
 
@@ -314,11 +317,11 @@ ii) Provide information to SportsDirect Inc. through our [feedback page ](https:
 
 Information logged by WagerLine.com
 
-Your IP address is logged to help diagnose problems with our server and to administer the site.  WagerLine.com uses cookies to save login information so you don’t have to enter it each time you visit.   It also uses cookies to estimate the number of repeat visitors. 
+Your IP address is logged to help diagnose problems with our server and to administer the site.  WagerLine.com uses cookies to save login information so you don't have to enter it each time you visit.   It also uses cookies to estimate the number of repeat visitors. 
 
 Registration Form
 
-WagerLine.com’s registration form requires users to provide contact information (like their name and email address).  This information is used to verify eligibility of contest winners, and to contact you if you win a prize.  We may also periodically use this information to send you promotional material regarding WagerLine.com or our advertisers. 
+WagerLine.com's registration form requires users to provide contact information (like their name and email address).  This information is used to verify eligibility of contest winners, and to contact you if you win a prize.  We may also periodically use this information to send you promotional material regarding WagerLine.com or our advertisers. 
 
 **We never sell, give, or trade our mailing list or email list to any other company, so you can rest assured that will not receive “spam” email or be placed on any other mailing lists as a result of registering on WagerLine.com.**
 
@@ -326,12 +329,12 @@ Links
 
 WagerLine.com contains links to other sites.  We are not responsible for the privacy practices or the content of the sites that we link.
 
-Message Boards 
+Posting Forum 
 
-WagerLine.com makes message boards available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose any personal information.
+WagerLine.com makes a posting forum available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose any personal information.
 
 Messages containing profanity, slander, libel, hatred, or obscenity are not allowed. We reserve the right to remove messages, posting rights, or user accounts at any time if this policy is not followed. Once posting rights are removed, they are not reinstated.
 
-Free advertisements are not allowed on our message boards for two reasons: their presence is unfair to our paying advertisers, and they often attempt to promote companies that are not reputable. Therefore, if a non-paying advertiser uses the message boards to advertise their product, service, or web site; the message will be deleted and the author will permanently lose their posting rights.
+Free advertisements are not allowed on our posting forum for two reasons: their presence is unfair to our paying advertisers, and they often attempt to promote companies that are not reputable. Therefore, if a non-paying advertiser uses the forum to advertise their product, service, or web site; the message will be deleted and the author will permanently lose their posting rights.
 
 Wagerline cannot and will not be held liable for the contents nor the effects of messages. The author of a post assumes all responsibility for its contents, without limits.
