@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pwccn.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228150610id_/http%3A//www.pwccn.com/home/eng/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pwccn.com privacy policy that was archived on 2006-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060413235352id_/http%3A//www.pwccn.com/home/eng/privacy.html) for the most accurate reproduction.*
 
 # PwC CN: Privacy Statement
 
