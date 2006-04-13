@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the approvedindex.co.uk privacy policy that was archived on 2005-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051027202920id_/http%3A//www.approvedindex.co.uk/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the approvedindex.co.uk privacy policy that was archived on 2006-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060413200302id_/http%3A//www.approvedindex.co.uk/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Approved Index - Bringing together buyers and suppliers of services
+# Approved Index - Home
 
   
 At Approved Index Ltd we value your right to privacy. However, in order to run an efficient and effective service, there is certain information about our users that we need to collect and use.
@@ -30,7 +30,7 @@ We have strict procedures governing the storage and disclosure of personal detai
 In addition, all the enquirer’s personal information is password-protected: only Approved Index Ltd and the suppliers that have been selected by the enquirer have access to an enquirer's personal information. 
 
   
-You have the right to request a copy of the personal information Approved Index Ltd holds about you and to have any inaccuracies corrected. (We charge £10 for information requests.) Please address any requests to [personalinfo@approvedindex.co.uk](mailto:personalinfo@approvedindex.co.uk).
+You have the right to request a copy of the personal information Approved Index Ltd holds about you and to have any inaccuracies corrected. (We charge £10 for information requests.) Please address any requests to [ personalinfo@approvedindex.co.uk](mailto:personalinfo@approvedindex.co.uk).
 
   
 If you use this service, you can be sure that Approved Index Ltd will not collect the email addresses that you provide for other purposes. We will only hold this information for as long as is necessary to transmit the email to the recipient. 
