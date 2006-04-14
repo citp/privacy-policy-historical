@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dvdtimes.co.uk privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231184721id_/http%3A//dvdtimes.co.uk/index.php%3Fpage%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvdtimes.co.uk privacy policy that was archived on 2006-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060415004326id_/http%3A//dvdtimes.co.uk/index.php%3Fpage%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # DVD Times - DVD News, Reviews and Features
 
