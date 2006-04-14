@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kashi.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212141829id_/http%3A//www.kashi.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kashi.com privacy policy that was archived on 2006-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060414231755id_/http%3A//www.kashi.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,7 +24,7 @@ Personal information, including your name, billing and credit card information, 
 
 **Other Kashi Programs**
 
-We offer you opportunities to sign up for newsletters and to receive information, product updates, and coupons, and to participate in our taste tester panel or share your success stories. We do not sell our mailing lists to anyone. Only those people who ask for information from us will receive promotional communications from Kashi. Should you wish to stop receiving Kashi information by email, please [click here to unsubscribe](https://web.archive.org/web/20051212141829id_/http%3A//www.kashi.com/unsubscribe.aspx) from our newsletter. We also offer an "opt-out" feature in each of our promotional emails that allows you, at any time, to have Kashi discontinue email communications to you.
+We offer you opportunities to sign up for newsletters and to receive information, product updates, and coupons, and to participate in our taste tester panel or share your success stories. We do not sell our mailing lists to anyone. Only those people who ask for information from us will receive promotional communications from Kashi. Should you wish to stop receiving Kashi information by email, please [click here to unsubscribe](https://web.archive.org/web/20060414231755id_/http%3A//www.kashi.com/unsubscribe.aspx) from our newsletter. We also offer an "opt-out" feature in each of our promotional emails that allows you, at any time, to have Kashi discontinue email communications to you.
 
 **Cookies**
 
