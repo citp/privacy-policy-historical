@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the drawspace.com privacy policy that was archived on 2005-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050409132345id_/http%3A//www.drawspace.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drawspace.com privacy policy that was archived on 2006-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060415013303id_/http%3A//drawspace.com/privacy.php) for the most accurate reproduction.*
 
-# FineArtEducation.com - Privacy
+# Drawspace.com - Privacy
 
 We collect basic customer information for the sole purpose of improving our visitors’ experiences. With an optional free subscription to our newsletter, we provide you with information about our new lessons, products and services. We do not sell or rent the information you provide to us online to third parties.
 
