@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kipp.org privacy policy that was archived on 2005-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051118160349id_/http%3A//www.kipp.org/privacypolicy.cfm%3Fpageid%3Dhome) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kipp.org privacy policy that was archived on 2006-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060415015115id_/http%3A//kipp.org/privacypolicy.cfm%3Fpageid%3Dhome) for the most accurate reproduction.*
 
 # KIPP: Knowledge Is Power Program
 
