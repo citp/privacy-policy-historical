@@ -1,21 +1,17 @@
-> *The following text is extracted and transformed from the mscsoftware.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230202026id_/http%3A//www.mscsoftware.com/about/legal/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mscsoftware.com privacy policy that was archived on 2006-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060414193308id_/http%3A//mscsoftware.com/about/legal/%23privacy) for the most accurate reproduction.*
 
-# About MSC.Software
+# Company Profile
 
-  
-  
-  
-  
-  
-  
-|   | 
+|    
+
 
 Terms | Privacy | Trademark
 
-|  |    **Terms and Conditions of Use and Disclaimer**  
----|---  
-  
+## Terms and Conditions of Use and Disclaimer
+
 **Copyright © 2005 The MSC.Software Corporation-All Rights Reserved.**
+
+| 
 
 The web sites www.mscsoftware.com and www.engineering-e.com are intended for use by The MSC.Software Corporation's ("MSC") customers and other business partners.
 
@@ -31,8 +27,9 @@ The information and data included in www.mscsoftware.com have been compiled by M
 MSC SPECIFICALLY DISCLAIMS ALL WARRANTIES WITH RESPECT TO www.mscsoftware.com and www.engineering-e.com OR YOUR USE THEREOF, EXPRESS, IMPLIED, OR OTHERWISE, INCLUDING WITHOUT LIMITATION, ALL WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. MSC SHALL NOT BE LIABLE FOR ANY SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, INCLUDING, WITHOUT LIMITATION, LOST REVENUES, LOST PROFITS, OR LOSS OF PROSPECTIVE ECONOMIC ADVANTAGE, RESULTING FROM THE USE OR MISUSE OF www.mscsoftware.com and www.engineering-e.com, OR THE INFORMATION HEREIN.   
   
 ---|---|---  
-|    **MSC.Software Website Privacy Policy**  
----|---  
+  
+## MSC.Software Website Privacy Policy
+
   
 
 
@@ -108,8 +105,9 @@ As a convenience to you, we sometimes provide links to other, non-MSC.Software w
 Questions and Concerns**  
 Anytime you have questions or concerns about our Privacy Policy, please contact us at [www@mscsoftware.com](mailto:www@mscsoftware.com).  
    
-|    **Trademark Information**  
----|---  
+  
+## Trademark Information
+
   
 
 
