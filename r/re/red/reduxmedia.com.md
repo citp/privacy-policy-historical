@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reduxmedia.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230153449id_/http%3A//reduxmedia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reduxmedia.com privacy policy that was archived on 2006-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060414221839id_/http%3A//reduxmedia.com/privacy.html) for the most accurate reproduction.*
 
-# REDUX media - Effective Online Advertising
+# REDUX media | Privacy Policy
 
   
 REDUX media INC. is dedicated to protecting your privacy when using our services. Please read this policy to understand how we collect and use information gathered through our service, and to understand your rights regarding these practices. 
