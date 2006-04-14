@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the reallusion.com privacy policy that was archived on 2003-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030409043045id_/http%3A//www.reallusion.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reallusion.com privacy policy that was archived on 2006-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060415000540id_/http%3A//www.reallusion.com/privacy.asp) for the most accurate reproduction.*
 
 # Reallusion 3d animation and text to speech software
+
+|  | 
 
 Privacy Policy
 
@@ -19,3 +21,5 @@ In some instances, Reallusion.com may review personal information (e.g., IP addr
 We will also use personal information to identify you, communicate with you, help us respond to your questions, and understand which Reallusion.com products and services best meet your needs.
 
 Under no circumstances will Reallusion.com sell personal information to any third party for any purpose. We may, however, share personal information with our business partners for the sole purpose of delivering products and services that you have requested and in order to communicate with you about Reallusion.com, its products and services. We may also release, to the minimum extent possible, specific personal information to comply with valid legal processes such as search warrants, or court orders. 
+
+| 
