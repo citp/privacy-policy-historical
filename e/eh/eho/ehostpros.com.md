@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ehostpros.com privacy policy that was archived on 2002-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020803020402id_/http%3A//www.ehostpros.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehostpros.com privacy policy that was archived on 2006-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060414073420id_/http%3A//www.ehostpros.com/privacy.html) for the most accurate reproduction.*
 
-# Powerful web hosting for $4.95 and First 60 Days FREE
+# Cheap Web Hosting & Reseller Plans for $4.95, Host Unlimited Domains, php, Frontpage.
 
 At ehostpros.com, our mission is to meet the expectancies of our clients. In an effort to achieve our goal, we would like to clearly define our position with regard to the Internet, our Web site and your identity. The following outlines our information gathering and disbursement procedures for our site located at ehostpros.com.
 
@@ -9,4 +9,4 @@ At ehostpros.com, our mission is to meet the expectancies of our clients. In an 
    Individual users may opt-out of receiving specific mailings by selecting appropriate boxes throughout our Web site. Unless otherwise agreed to by electronic signature, information about you is not shared with outside organizations or sold to any other 3rd parties. Although we deploy leading technology to protect against misuse of your information and encourage our business partners and affiliates to maintain the highest standards we do not have control over information not directly relating to our site.
 
 **Contacting Us:**  
-If you have any questions about our site, this privacy policy, or our general procedures, please [email us](mailto:info@ehostpros.com). 
+If you have any questions about our site, this privacy policy, or our general procedures, please [email us](mailto:info@ehostpros.com).
