@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trolltech.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213204033id_/http%3A//www.trolltech.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trolltech.com privacy policy that was archived on 2006-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060415002735id_/http%3A//www.trolltech.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Trolltech - Trolltech Privacy Policy
 
