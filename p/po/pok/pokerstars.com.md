@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokerstars.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228015723id_/http%3A//www.pokerstars.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokerstars.com privacy policy that was archived on 2006-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060414231041id_/http%3A//www.pokerstars.com/privacy.html) for the most accurate reproduction.*
 
 # Welcome to PokerStars.com
 
