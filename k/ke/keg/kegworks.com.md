@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kegworks.com privacy policy that was archived on 2005-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051113003746id_/http%3A//www.kegworks.com/shoppingcart/customer/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kegworks.com privacy policy that was archived on 2006-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060415001712id_/http%3A//www.kegworks.com/shoppingcart/customer/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
 # Home Bar Equipment, Keg and Bar Accessories - KegWorks.com
 
-|   |  [KegWorks.com](https://web.archive.org/web/20051113003746id_/http%3A//www.kegworks.com/shoppingcart/customer/home.php) :: Help :: 
+|   |  [KegWorks.com](https://web.archive.org/web/20060415001712id_/http%3A//www.kegworks.com/shoppingcart/customer/home.php) :: Help :: 
 
 |   Privacy Statement  
 ---  
@@ -41,12 +41,15 @@ Retail Outlet at the above address is open 9am - 5pm M-F
 
     |  | Most Popular Items  
 ---  
-[](http://www.kegworks.com/shoppingcart/customer/product.php?productid=19655&cat=&page=1) [Picnic Wine Cooler Carrying Case](http://www.kegworks.com/shoppingcart/customer/product.php?productid=19655&cat=&page=1) \- Sturdy aluminum case, velvet lined and insulated with a stainless steel corkscrew neatly tucked under the snap-on lid. [  
-](http://www.kegworks.com/shoppingcart/customer/product.php?productid=19244&cat=&page=1)[Picnic Cooler Bag](http://www.kegworks.com/shoppingcart/customer/product.php?productid=19244&cat=&page=1) \- Featuring an adjustable and removable padded divider, it securely holds food and/or up to three bottles of wine. A unique gift for any outdoor enthusiast!  
-[   
-](http://www.kegworks.com/shoppingcart/customer/home.php?cat=295) [Drink Tender](http://www.kegworks.com/shoppingcart/customer/home.php?cat=295) \- Perfect for taking drinks out onto the deck, hot tub or to enjoy near the pool. This unique design gives everyone a chance to pour their own.
+[Drink Tender](http://www.kegworks.com/shoppingcart/customer/home.php?cat=295) \- Perfect for taking drinks out onto the deck, hot tub or to enjoy near the pool. This unique design gives everyone a chance to pour their own.
 
-[](http://www.kegworks.com/shoppingcart/customer/product.php?productid=19543&cat=&page=1) [Fire Hydrant Tap Handle](http://www.kegworks.com/shoppingcart/customer/product.php?productid=19543&cat=&page=1) \- Perfect for your home bar, ideal for your fire hall bar.   
+[Mr. Beer](http://www.kegworks.com/shoppingcart/customer/product.php?productid=19133&cat=514&page=1) \- The Brew Keg Premium Edition Microbrewery System allows you to brew premium, world class beers right in your own home.
+
+[Bonnie Boy](http://www.kegworks.com/shoppingcart/customer/product.php?productid=19025&cat=&page=1) \- Modeled after the famous Manneken Pis fountain in Brussels, Belgium.
+
+[Deluxe Portable Travel Bar Set](http://www.kegworks.com/shoppingcart/customer/product.php?productid=19653&cat=316&page=1) \- Loaded with everything for your party on-the-go.
+
+[Corona Lime Slicer](http://www.kegworks.com/shoppingcart/customer/product.php?productid=16721&cat=293&page=1) \- The fast and easy way to cut limes for your Coronas!   
   
 Mailing List  
 ---  
@@ -56,5 +59,5 @@ Subscribe to the monthly
 newsletter !   
   
     
-[](https://web.archive.org/web/20051113003746id_/http%3A//www.kegworks.com/shoppingcart/customer/pages.php?pageid=7)   
+[](https://web.archive.org/web/20060415001712id_/http%3A//www.kegworks.com/shoppingcart/customer/pages.php?pageid=7)   
 
