@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kinderart.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217185723id_/http%3A//kinderart.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kinderart.com privacy policy that was archived on 2006-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060414231845id_/http%3A//kinderart.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # KinderArt - Privacy Policy
 
@@ -6,7 +6,7 @@ KinderArt is deeply committed to protecting the privacy of Internet users. Below
 
 Our e-mail address is: [learn@kinderart.com](mailto:learn@kinderart.com)
 
-For each visitor to our Web page, our Web server automatically recognizes the visitor's domain name (where possible). We sometimes view the domain names of visitors (as a whole) to our Web page, the e-mail addresses of those who sign up for the free KinderArt Newsletter and of those who post messages to our Bulletin Boards. 
+For each visitor to our Web page, our Web server automatically recognizes the visitor's domain name (where possible). We sometimes view the domain names of visitors (as a whole) to our Web page or the e-mail addresses of those who sign up for the free KinderArt Newsletter. 
 
 We use the information we collect to: 
 
