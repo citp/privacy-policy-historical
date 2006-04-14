@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kbb.com privacy policy that was archived on 2005-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051213194809id_/http%3A//www.kbb.com/kb/ki.dll/ke.kb.sp%3Fkbb%26%26117%26privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kbb.com privacy policy that was archived on 2006-04-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060414233958id_/http%3A//www.kbb.com/kb/ki.dll/ke.kb.sp%3Fkbb%26%26117%26privacy) for the most accurate reproduction.-->
 
 <html><head>
 	<title>Kelley Blue Book - Privacy Policy</title>
@@ -17,21 +17,40 @@
 
 
 
-<link href="/kbb101305.css" type="text/css" rel="stylesheet"> <!-- Style Sheet -->
+<link href="/kbb_v1.css" type="text/css" rel="stylesheet"> <!-- Style Sheet -->
  <script language="JavaScript" src="/javascript/dynpopup.js"></script>
  <script language="JavaScript" src="/javascript/kbbvars.js"></script>
- <script language="JavaScript1.2" src="/images/wsr/globalNav.js"></script>
+  <script language="JavaScript">
+    // Basic Image Preload Function
+    function loadImg(imgObj,imgSrc) {
+     if(document.images) {
+      eval( imgObj + ' = new Image()' );
+      eval( imgObj + '.src = "http://images.kbb.com' + imgSrc + '"' );
+     }
+    }
+   </script>
+   <script language="JavaScript1.2" src="/javascript/globalNav_v2.js"></script> <!-- Global JS -->
  <script language="JavaScript"><!--
    function floater() {
-  window.open("","floater","width=500,height=460,scrollbars=yes,toolbar=no")
+   window.open("","floater","width=500,height=460,scrollbars=yes,toolbar=no")
    }
-      function Start(page) {
-  OpenWin = this.open(page, "CtrlWindow", "toolbar=yes,menubar=no,location=no,scrollbars=yes,resizable=yes,left=100,top=20,width=650,height=430");
+    function Start(page) {
+   OpenWin = this.open(page, "CtrlWindow", "toolbar=yes,menubar=no,location=no,scrollbars=yes,resizable=yes,left=100,top=20,width=650,height=430");
    }
-      function ebay(page) {
-  OpenWin = this.open(page, "CtrlWindow", "toolbar=yes,menubar=no,location=no,scrollbars=yes,resizable=yes,left=100,top=20,width=650,height=430");
+    function ebay(page) {
+   Start(page);
    }
- // End --> </script>  <!--JS-->
+ // End --> </script>
+ <script language="JavaScript">
+  var houseAdExists = false;
+  var dealerAdExists = false;
+  function setHouseAdExists() {
+   houseAdExists = true;
+  }
+  function setDealerAdExists() {
+    dealerAdExists = true;
+   }
+ </script>  <!--JS-->
   
   </head>
   <body bgcolor="#FFFFFF" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0">
@@ -40,7 +59,7 @@
    <!-- Sets macro for tabsection if not already set -->
  <script language="JavaScript"><!--
      var s_pageName="gnprivacy";     // Page Name
-     var s_server  ="WEB6";     // SCname
+     var s_server  ="IRV-IDC-WEB02";     // SCname
      var s_channel ="general";     // Section
      var s_zip     ="";     // Zip Code
      var s_state   ="";     // State
@@ -68,6 +87,7 @@
      var s_prop20 ="";      // cmPartner_ID - control mode partner
      var s_prop21 ="117";      // Log Number
      var s_prop22 ="homepagetab";             // tab section
+     var s_prop23 ="";   // vehicle condition
      var s_prop25 ="";   // excludes pageView if set, only counts partnerView
      var s_events= "";             // event name        populated on page
      var s_eVar1= "";       // TypeOfReport
@@ -233,73 +253,84 @@
 <!-- Ad Tag 20 -->
 
 <!-- Ad Tag 22 -->
+
+<!--Ad Tag 23 -->
  <!-- RSI & Omniture tags //-->
   
  
  <table width="781" height="16" border="0" cellpadding="0" cellspacing="0" bgcolor="#E9EDEF"><tbody><tr>
-   <td colspan="4" valign="top" bgcolor="#ffffff"><a href="/"><img src="/images/wsr/header_release1/headerLogo.jpg" width="210" height="70" border="0" alt="Kelley Blue Book"></a></td>
-   <td colspan="9" align="right" bgcolor="#ffffff"><img src="/images/wsr/header_release1/headerRightAd.jpg" width="571" height="72" alt="Over 75 Years of Trust"></td>
- </tr><tr>
-   <td colspan="13" height="2" style="background: url(/images/wsr/header_release1/navAdBorder.gif) repeat-x;"><img src="/images/wsr/header_release1/navAdBorder.gif" width="1" height="2"></td>
- </tr>
+    <td colspan="4" valign="top" bgcolor="#ffffff"><a href="/"><img src="http://images.kbb.com/images/wsr/header_release1/headerLogo.jpg" width="210" height="70" border="0" alt="Kelley Blue Book"></a></td>
+    <td colspan="9" align="right" bgcolor="#ffffff"><img src="http://images.kbb.com/images/wsr/header/kbbHeaderRightAd.jpg" width="571" height="72" alt="80 Years of Trust"></td>
+   </tr><tr>
+    <td colspan="13" height="2" style="background: url('http://images.kbb.com/images/wsr/header_release1/navAdBorder.gif') repeat-x;"><img src="http://images.kbb.com/images/wsr/header_release1/navAdBorder.gif" width="1" height="2"></td>
+   </tr>
  
- <tr>
-   <td colspan="12" align="right">
-  <table border="0" cellpadding="1" cellspacing="1"><tbody><tr>
-    <td><a onmouseover="rollImage('quickDealerPriceQuote', 'circleArrowBlueOn')" onmouseout="rollImage('quickDealerPriceQuote', 'circleArrowBlue')" onclick="PartnerLink('ncleadgen','globalnav','kbbmain',this)" href="/kb/ki.dll/ke.kb.sp?kbb&amp;&amp;&amp;step1;fpq"><img id="quickDealerPriceQuote" height="10" src="/images/WSR/circleArrowBlue.gif" width="10" border="0"></a></td>
-    <td><a class="btnText_05" onmouseover="rollImage('quickDealerPriceQuote', 'circleArrowBlueOn')" onmouseout="rollImage('quickDealerPriceQuote', 'circleArrowBlue')" onclick="PartnerLink('ncleadgen','globalnav','kbbmain',this)" href="/kb/ki.dll/ke.kb.sp?kbb&amp;&amp;&amp;step1;fpq" target="_top">Quick Dealer Price Quote</a></td>
-    <td><img src="/images/WSR/spacer.gif" width="5"></td>
-    <td><a onmouseover="rollImage('searchUsed', 'circleArrowBlueOn')" onmouseout="rollImage('searchUsed', 'circleArrowBlue')" onclick="PartnerLink('carscom','globalnav_buy','kbbeccarscom',this)" href="/kb/ki.dll/ke.kb.sz?kbb&amp;&amp;&amp;zip;908;uc"><img id="searchUsed" height="10" src="/images/WSR/circleArrowBlue.gif" width="10" border="0"></a></td>
-    <td><a class="btnText_05" onmouseover="rollImage('searchUsed', 'circleArrowBlueOn')" onmouseout="rollImage('searchUsed', 'circleArrowBlue')" onclick="PartnerLink('carscom','globalnav_buy','kbbeccarscom',this)" href="/kb/ki.dll/ke.kb.sz?kbb&amp;&amp;&amp;zip;908;uc" target="_top">Search Used Car Listings</a></td>
-    <td><img src="/images/WSR/spacer.gif" width="5"></td>
-    <td><a onmouseover="rollImage('listYourCar', 'circleArrowBlueOn')" onmouseout="rollImage('listYourCar', 'circleArrowBlue')" onclick="PartnerLink('carscom','globalnav_sell','kbbeccarscom',this)" href="/kb/ki.dll/ke.kb.sz?kbb&amp;&amp;&amp;zip;983;uc" target="_top"><img id="listYourCar" height="10" src="/images/WSR/circleArrowBlue.gif" width="10" border="0"></a></td>
-    <td><a class="btnText_05" onmouseover="rollImage('listYourCar', 'circleArrowBlueOn')" onmouseout="rollImage('listYourCar', 'circleArrowBlue')" onclick="PartnerLink('carscom','globalnav_sell','kbbeccarscom',this)" href="/kb/ki.dll/ke.kb.sz?kbb&amp;&amp;&amp;zip;983;uc" target="_top">List Your Car for Sale</a></td>
-  </tr></tbody></table>
+ </tbody></table><table width="781" height="16" border="0" cellpadding="0" cellspacing="0" bgcolor="#E9EDEF"><tbody><tr>
+   <td colspan="14" align="right">
+   <table border="0" cellpadding="1" cellspacing="1"><tbody><tr>
+    <td><a class="btnText_05" onmouseover="rollImage('quickDealerPriceQuote', 'circleArrowBlueOn')" onmouseout="rollImage('quickDealerPriceQuote', 'circleArrowBlue')" onclick="PartnerLink('ncleadgen','globalnav','kbbmain',this)" href="/kb/ki.dll/ke.kb.sp?kbb&amp;&amp;&amp;step1;fpq"><img id="quickDealerPriceQuote" alt="Car Quotes from Local Dealers" class="arrowPadding" style="margin-bottom:-1px;" src="http://images.kbb.com/images/WSR/circleArrowBlue.gif" border="0">Quick Dealer Price Quote</a></td>
+    <td><img src="http://images.kbb.com/images/WSR/spacer.gif" width="5"></td>
+    <td><a class="btnText_05" onmouseover="rollImage('searchUsed', 'circleArrowBlueOn')" onmouseout="rollImage('searchUsed', 'circleArrowBlue')" onclick="PartnerLink('carscom','globalnav_buy','kbbeccarscom',this)" href="/kb/ki.dll/ke.kb.sz?kbb&amp;&amp;&amp;zip;908;uc"><img id="searchUsed" class="arrowPadding" alt="Used Cars for Sale" style="margin-bottom:-1px;" src="http://images.kbb.com/images/WSR/circleArrowBlue.gif" border="0">Search Used Car Listings</a></td>
+    <td><img src="http://images.kbb.com/images/WSR/spacer.gif" width="5"></td>
+    <td><a class="btnText_05" onmouseover="rollImage('listYourCar', 'circleArrowBlueOn')" onmouseout="rollImage('listYourCar', 'circleArrowBlue')" onclick="PartnerLink('carscom','globalnav_sell','kbbeccarscom',this)" href="/kb/ki.dll/ke.kb.sz?kbb&amp;&amp;&amp;zip;983;uc" target="_top"><img id="listYourCar" alt="Sell My Car" class="arrowPadding" style="margin-bottom:-1px;" src="http://images.kbb.com/images/WSR/circleArrowBlue.gif" border="0">List Your Car for Sale</a></td>
+   </tr></tbody></table>
    </td>
-   <td><img src="/images/WSR/spacer.gif" width="1"></td>
+   <td><img src="http://images.kbb.com/images/WSR/spacer.gif" width="1"></td>
  </tr><tr>
-   <td style="border-bottom: 1px solid #3A5E8B;"><img src="/images/wsr/spacer.gif" width="13"></td>
+   <td style="border-bottom: 1px solid #3A5E8B;"><img src="http://images.kbb.com/images/wsr/spacer.gif" width="13"></td>
    <!-- The next set of layers is all the "on state" tab layers. -->
  
  
  
- <td><a href="/" target="_top"><img id="homeTab" src="/images/wsr/header_release1/homeTabOn.gif" width="85" height="16" border="0"></a></td>
- <td style="border-bottom: 1px solid #3A5E8B;"><img src="/images/wsr/spacer.gif" width="1"></td>
+ 
+ <td><a href="/" target="_top"><img id="homeTab" alt="" src="http://images.kbb.com/images/wsr/header/homeTabOn_v1.gif" width="61" height="16" border="0"></a></td>
+ <td style="border-bottom: 1px solid #3A5E8B;"><img src="http://images.kbb.com/images/wsr/spacer.gif" width="1"></td>
  
  
  
- <td><a href="/kb/ki.dll/ke.kb.sp?kbb&amp;&amp;&amp;newCars;slp" target="_top" onmouseover="rollImage('newCarsTab', 'newCarsTabOn')" onmouseout="rollImage('newCarsTab', 'newCarsTab')"><img id="newCarsTab" src="/images/wsr/header_release1/newCarsTab.gif" width="111" height="16" border="0"></a></td>
- <td style="border-bottom: 1px solid #3A5E8B;"><img src="/images/wsr/spacer.gif" width="1"></td>
+ 
+ <td><a href="/kb/ki.dll/ke.kb.sp?kbb&amp;&amp;&amp;newCars;slp" target="_top" onmouseover="rollImage('newCarsTab', 'newCarsTabOn')" onmouseout="rollImage('newCarsTab', 'newCarsTab')"><img id="newCarsTab" src="http://images.kbb.com/images/wsr/header/newCarsTab_v1.gif" alt="New Cars" width="87" height="16" border="0"></a></td>
+ <td style="border-bottom: 1px solid #3A5E8B;"><img src="http://images.kbb.com/images/wsr/spacer.gif" width="1"></td>
  
  
  
- <td><a href="/kb/ki.dll/ke.kb.sp?kbb&amp;&amp;&amp;usedCars;slp" target="_top" onmouseover="rollImage('usedCarsTab', 'usedCarsTabOn')" onmouseout="rollImage('usedCarsTab', 'usedCarsTab')"><img id="usedCarsTab" src="/images/wsr/header_release1/usedCarsTab.gif" width="112" height="16" border="0"></a></td>
- <td style="border-bottom: 1px solid #3A5E8B;"><img src="/images/wsr/spacer.gif" width="1"></td>
+ 
+ <td><a href="/kb/ki.dll/ke.kb.sp?kbb&amp;&amp;&amp;usedCars;slp" target="_top" onmouseover="rollImage('usedCarsTab', 'usedCarsTabOn')" onmouseout="rollImage('usedCarsTab', 'usedCarsTab')"><img id="usedCarsTab" src="http://images.kbb.com/images/wsr/header/usedCarsTab_v1.gif" alt="Used Cars" width="88" height="16" border="0"></a></td>
+ <td style="border-bottom: 1px solid #3A5E8B;"><img src="http://images.kbb.com/images/wsr/spacer.gif" width="1"></td>
  
  
  
- <td><a href="/kb/ki.dll/ke.kb.sz?kbb&amp;&amp;&amp;zip;5425;rr&amp;reviewsRatings1;slp" target="_top" onmouseover="rollImage('reviewsTab', 'reviewsTabOn')" onmouseout="rollImage('reviewsTab', 'reviewsTab')"><img id="reviewsTab" src="/images/wsr/header_release1/reviewsTab.gif" width="162" height="16" border="0"></a></td>
- <td style="border-bottom: 1px solid #3A5E8B;"><img src="/images/wsr/spacer.gif" width="1"></td>
+ 
+ <td><a href="/kb/ki.dll/ke.kb.sz?kbb&amp;&amp;&amp;zip;5425;cmp&amp;compareNewCars;slp" target="_top" onmouseover="rollImage('compareNewCarsTab', 'compareNewCarsTabOn')" onmouseout="rollImage('compareNewCarsTab', 'compareNewCarsTab')"><img id="compareNewCarsTab" src="http://images.kbb.com/images/wsr/header/compareNewCarsTab_v1.gif" alt="Compare Cars" width="145" height="16" border="0"></a></td>
+ <td style="border-bottom: 1px solid #3A5E8B;"><img src="http://images.kbb.com/images/wsr/spacer.gif" width="1"></td>
  
  
  
- <td><a href="/kb/ki.dll/ke.kb.sz?kbb&amp;&amp;&amp;zip;5425;adv&amp;advice;slp" target="_top" onmouseover="rollImage('adviceTab', 'adviceTabOn')" onmouseout="rollImage('adviceTab', 'adviceTab')"><img id="adviceTab" src="/images/wsr/header_release1/adviceTab.gif" width="93" height="16" border="0"></a></td>
- <td style="border-bottom: 1px solid #3A5E8B;"><img src="/images/wsr/spacer.gif" width="1"></td>
+ 
+ <td><a href="/kb/ki.dll/ke.kb.sz?kbb&amp;&amp;&amp;zip;5425;rr&amp;reviewsRatings1;slp" target="_top" onmouseover="rollImage('reviewsTab', 'reviewsTabOn')" onmouseout="rollImage('reviewsTab', 'reviewsTab')"><img id="reviewsTab" src="http://images.kbb.com/images/wsr/header/reviewsTab_v1.gif" alt="Car Reviews and Car Ratings" width="138" height="16" border="0"></a></td>
+ <td style="border-bottom: 1px solid #3A5E8B;"><img src="http://images.kbb.com/images/wsr/spacer.gif" width="1"></td>
  
  
  
- <td><a href="/kb/ki.dll/ke.kb.sz?kbb&amp;&amp;&amp;zip;5425;fi&amp;financeInsure;slp" target="_top" onmouseover="rollImage('financeTab', 'financeTabOn')" onmouseout="rollImage('financeTab', 'financeTab')"><img id="financeTab" src="/images/wsr/header_release1/financeTab.gif" width="196" height="16" border="0"></a></td>
-   <td style="border-bottom: 1px solid #3A5E8B;"><img src="/images/wsr/spacer.gif" width="4"></td>
+ 
+ <td><a href="/kb/ki.dll/ke.kb.sz?kbb&amp;&amp;&amp;zip;5425;adv&amp;advice;slp" target="_top" onmouseover="rollImage('adviceTab', 'adviceTabOn')" onmouseout="rollImage('adviceTab', 'adviceTab')"><img id="adviceTab" src="http://images.kbb.com/images/wsr/header/adviceTab_v1.gif" alt="Car Buying Advice" width="69" height="16" border="0"></a></td>
+ <td style="border-bottom: 1px solid #3A5E8B;"><img src="http://images.kbb.com/images/wsr/spacer.gif" width="1"></td>
+ 
+ 
+ 
+ 
+ <td><a href="/kb/ki.dll/ke.kb.sz?kbb&amp;&amp;&amp;zip;5425;fi&amp;financeInsure;slp" target="_top" onmouseover="rollImage('financeTab', 'financeTabOn')" onmouseout="rollImage('financeTab', 'financeTab')"><img id="financeTab" src="http://images.kbb.com/images/wsr/header/financeTab_v1.gif" alt="Car Insurance and Auto Loans" width="172" height="16" border="0"></a></td>
+   <td style="border-bottom: 1px solid #3A5E8B;"><img src="http://images.kbb.com/images/wsr/spacer.gif" width="4"></td>
  </tr></tbody></table>
     <table border="0" cellpadding="0" cellspacing="0"><tbody><tr>
-  <td height="13"><img src="/images/WSR/spacer.gif" width="1" height="13"></td>
+  <td height="13"><img src="http://images.kbb.com/images/WSR/spacer.gif" width="1" height="13"></td>
    </tr></tbody></table>  <!--Kelley Logo graphic begins here-->
   <table cellpadding="0" cellspacing="0" width="6" height="200" align="left"><tbody><tr>
-     <td bgcolor="ffffff" width="6"><img src="/images/clear.gif" width="6" height="1"></td>
+     <td bgcolor="ffffff" width="6"><img src="http://images.kbb.com/images/clear.gif" width="6" height="1"></td>
     </tr></tbody></table>  <!--Navtable-->
 <table border="0" cellspacing="0" cellpadding="3" width="620">
  <tbody><tr><td bgcolor="white" valign="middle">
- <big><font face="arial" color="white"><b><img src="/images/wsr/privacy.gif"></b></font></big>
+ <big><font face="arial" color="white"><b><img src="http://images.kbb.com/images/wsr/privacy.gif"></b></font></big>
  </td></tr></tbody></table>
  <table border="0" cellspacing="0" cellpadding="3" width="620">
  <tbody><tr><td align="left" bgcolor="white" colspan="2">
@@ -432,13 +463,14 @@ For information on Your California Privacy Rights, see <a href="/kb/ki.dll/ke.kb
      s_prop20=s_prop20.toLowerCase();
      s_prop21=s_prop21.toLowerCase();
      s_prop22=s_prop22.toLowerCase();
+     s_prop23=s_prop23.toLowerCase();
      s_prop25=s_prop25.toLowerCase();
      s_events= s_events.toLowerCase();
      s_eVar1 = s_eVar1.toLowerCase();
      s_eVar2 = s_eVar2.toLowerCase();
      s_products = s_products.toLowerCase();
   // --> </script>
- <script language="JavaScript" src="/javascript/s_code_remote.js"></script><img name="s_i_kbbmain" height="1" width="1" border="0" src="https://102.112.2O7.net/b/ss/kbbmain/1/G.2-pD-R/s08695050664199?[AQB]&amp;ndh=1&amp;t=30/0/2020%207%3A53%3A22%204%200&amp;pageName=gnprivacy&amp;ch=general&amp;server=web6&amp;c1=other&amp;c2=gnprivacy&amp;c19=kbb&amp;c21=117&amp;c22=homepagetab&amp;g=https%3A//web.archive.org/web/20051213194809id_/http%253A//www.kbb.com/kb/ki.dll/ke.kb.sp%253Fkbb%2526%2526117%2526privacy&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+ <script language="JavaScript" src="/javascript/s_code_remote.js"></script><img name="s_i_kbbmain" height="1" width="1" border="0" src="https://102.112.2O7.net/b/ss/kbbmain/1/G.2-pD-R/s04454727231538?[AQB]&amp;ndh=1&amp;t=30/0/2020%207%3A53%3A19%204%200&amp;pageName=gnprivacy&amp;ch=general&amp;server=irv-idc-web02&amp;c1=other&amp;c2=gnprivacy&amp;c19=kbb&amp;c21=117&amp;c22=homepagetab&amp;g=https%3A//web.archive.org/web/20060414233958id_/http%253A//www.kbb.com/kb/ki.dll/ke.kb.sp%253Fkbb%2526%2526117%2526privacy&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
  <!--** end C79 Omni-Tags at bottom of every page *** -->
 
 
