@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadsarea.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221165144id_/http%3A//www.downloadsarea.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadsarea.com privacy policy that was archived on 2006-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060414232111id_/http%3A//downloadsarea.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - DownloadsArea.com
 
