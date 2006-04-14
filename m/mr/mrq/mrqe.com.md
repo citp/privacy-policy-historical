@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrqe.com privacy policy that was archived on 2002-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021123112507id_/http%3A//www.mrqe.com/lookup%3Ffile%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrqe.com privacy policy that was archived on 2006-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060415000151id_/http%3A//www.mrqe.com/lookup%3Ffile%3Dprivacypolicy) for the most accurate reproduction.*
 
 # MRQE: Privacy Policy
 
@@ -11,4 +11,4 @@ The privacy policy statement of our primary advertising broker, BURST!, is avail
 Comments to [cinema@mrqe.com](mailto:cinema@mrqe.com). 
 
 Database and search engine by Stewart M. Clamen   
-© 1993-2001, 144574 Canada, Inc. 
+© 1993-2004, 144574 Canada, Inc. 
