@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreamhorse.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305035652id_/http%3A//www.dreamhorse.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamhorse.com privacy policy that was archived on 2006-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060414225916id_/http%3A//dreamhorse.com/policy.htm) for the most accurate reproduction.*
 
 # Dream Horse Classifieds - Privacy Statement
 
@@ -25,13 +25,12 @@ In the course of serving advertisements to this site, our third-party advertiser
 We use BurstMedia and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. 
 
   * [BurstMedia Privacy Statement](http://www.burstmedia.com/release/privacy.asp)
-  * [Sonar Network Privacy Policy](http://www.sonar.com/content/privacy.htm)
 
 
 
 ####  Registration Forms 
 
-Our site's registration form requires users to give us contact information like their name, email, and postal address. We display the horse owner's contact name, contact email, contact phone, contact fax, city, state and postal code with the horse ad. We do not display an owner's street address. The only required field is contact email. Dream Horse Classifieds is offering a new service called TackTrader.com. Your Dream Horse contact information will also work on TackTrader.com if you choose to use TackTrader.com. 
+Our site's registration form requires users to give us contact information like their name, email, and postal address. We display the horse owner's contact name, contact email, contact phone, contact fax, city, state and postal code with the horse ad. We do not display an owner's street address. The only required field is contact email. 
 
 Contact information (email address) from the registration forms is used to get in touch with the customer when necessary such as informing the customer that their horse or tack ad is expiring. Contact information may also be shared with any law enforcement agency investigating any fraudulent or improper activity on Dream Horse Classifieds or TackTrader.com.
 
@@ -51,15 +50,6 @@ This information is shared with advertisers on an aggregate basis.
 ####  External Links 
 
 This site contains links to other sites. **Dream Horse Classifieds** is not responsible for the privacy practices or the content of such Web sites. 
-
-####  Special Relationships 
-
-  * Our message board is hosted by [Delphi Forums](http://www.delphi.com/)
-  * Our guestbook is hosted by [Guest World](http://www.guestworld.com/). 
-  * We host banner ads from BurstMedia. Please see their [Privacy Statement](http://www.burstmedia.com/release/privacy.asp). 
-  * We may host banner ads from the Sonar Network, a Division of DoubleClick.net. Please see their [Privacy Statement](http://www.sonar.com/content/privacy.htm) also. 
-
-
 
 ####  Public Forums 
 
@@ -82,4 +72,4 @@ This site gives users the following options for changing and modifying informati
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
 
 
-[Contact Information](https://web.archive.org/web/20050305035652id_/http%3A//www.dreamhorse.com/contact.html)
+[Contact Information](https://web.archive.org/web/20060414225916id_/http%3A//dreamhorse.com/contact.html)
