@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the templatezone.com privacy policy that was archived on 2005-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051225103441id_/http%3A//www.templatezone.com/privacy/default.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the templatezone.com privacy policy that was archived on 2006-04-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060415000640id_/http%3A//www.templatezone.com/privacy/default.asp) for the most accurate reproduction.-->
 
 <html><head>
 		<base href="http://www.templatezone.com/Privacy/">
@@ -19,6 +19,7 @@
 
 	<td background="../images/top_tile.gif" align="right">
 	<table>
+		<!--<tr><td align=left><img src="../images/Banner_Site.gif" border=0 align=left></td></tr>-->
 		<tbody><tr><td></td></tr><tr><td valign="absmiddle"><font color="#FFFFFF" style="FONT-FAMILY: Arial ;font-size:12pt"><strong>Smart Solutions for Your Small Business</strong></font>&nbsp;&nbsp;&nbsp;</td></tr>
 		<tr><td valign="bottom" align="right"><br><input type="text" name="term" style="background-color:#E3E3E3; border: 1px solid" value="">&nbsp;<input type="Image" src="../images/search-home.gif" align="absmiddle" id="Image1" name="Image1" alt="Search">&nbsp;&nbsp;&nbsp;</td></tr>
 	</tbody></table>
@@ -144,9 +145,67 @@
 <tbody><tr>
 	<td width="50%" align="left">
 		
+  
+<script>
+		function replaceSubstring(inputString, fromString, toString) {
+   // Goes through the inputString and replaces every occurrence of fromString with toString
+   var temp = inputString;
+   if (fromString == "") {
+      return inputString;
+   }
+   if (toString.indexOf(fromString) == -1) { // If the string being replaced is not a part of the replacement string (normal situation)
+      while (temp.indexOf(fromString) != -1) {
+         var toTheLeft = temp.substring(0, temp.indexOf(fromString));
+         var toTheRight = temp.substring(temp.indexOf(fromString)+fromString.length, temp.length);
+         temp = toTheLeft + toString + toTheRight;
+      }
+   } else { // String being replaced is part of replacement string (like "+" being replaced with "++") - prevent an infinite loop
+      var midStrings = new Array("~", "`", "_", "^", "#");
+      var midStringLen = 1;
+      var midString = "";
+      // Find a string that doesn't exist in the inputString to be used
+      // as an "inbetween" string
+      while (midString == "") {
+         for (var i=0; i < midStrings.length; i++) {
+            var tempMidString = "";
+            for (var j=0; j < midStringLen; j++) { tempMidString += midStrings[i]; }
+            if (fromString.indexOf(tempMidString) == -1) {
+               midString = tempMidString;
+               i = midStrings.length + 1;
+            }
+         }
+      } // Keep on going until we build an "inbetween" string that doesn't exist
+      // Now go through and do two replaces - first, replace the "fromString" with the "inbetween" string
+      while (temp.indexOf(fromString) != -1) {
+         var toTheLeft = temp.substring(0, temp.indexOf(fromString));
+         var toTheRight = temp.substring(temp.indexOf(fromString)+fromString.length, temp.length);
+         temp = toTheLeft + midString + toTheRight;
+      }
+      // Next, replace the "inbetween" string with the "toString"
+      while (temp.indexOf(midString) != -1) {
+         var toTheLeft = temp.substring(0, temp.indexOf(midString));
+         var toTheRight = temp.substring(temp.indexOf(midString)+midString.length, temp.length);
+         temp = toTheLeft + toString + toTheRight;
+      }
+   } // Ends the check to see if the string being replaced is part of the replacement string or not
+   return temp; // Send the updated string back to the user
+}
+
+
+ 
+  
+   //var strTemp = "width=298 ,height=365,resizable=no,scrollbars=no,status=0,copyhistory=no"
+	//locationwindow = "toolbar=no, titlebar=no, menubar=no, titlebar=no, location=no, directories=no, status=no, scrollbars=yes, resizable=no, copyhistory=no,width="+WindowWidth+",height="+WindowHeight+""
+	//img=replaceSubstring("images/popin.gif","/","}");
+	//window.open ("http://www.templatezone.com/screenshot2.asp?ImageName="+img,"null",strTemp);
+		
+
+</script>
+
+
 <table width="100%" border="0" cellspacing="0" cellpadding="10">
 <tbody><tr>
-	<td width="50%" align="left"><span class="small">Copyright ©&nbsp;2005 TemplateZone.com. All rights reserved.</span></td>
+	<td width="50%" align="left"><span class="small">Copyright ©&nbsp;2006 TemplateZone.com. All rights reserved.</span></td>
 <!--<td width="50%" align="right"><a href="../privacy">Privacy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="../#">Disclaimer</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.kmt.com">KMT Software</a></td>-->
 	<td width="50%" align="right"><a class="small" href="../privacy">Privacy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="small" href="../support/sitemap.asp">Sitemap</a></td>
 	</tr>
@@ -201,11 +260,12 @@ else
 				<td bgcolor="#f1f1f1">
 					<table cellpadding="0" align="center" cellspacing="0" width="100%" border="0">
 					<tbody><tr><td width="100%" class="topLinknoindent" onmouseout="this.className='topLinknoindent'" onmouseover="this.className='tophovernoindent'"><a href="../html-email-software/high-impact-email.asp/cid/" class="dropdown">High Impact eMail 3.0</a></td></tr>
-					<tr><td width="100%" class="topLinknoindent" onmouseout="this.className='topLinknoindent'" onmouseover="this.className='tophovernoindent'"><a href="../html-email-software/high-impact-email-he.asp/cid/" class="dropdown">Holiday Edition</a><br></td></tr>
+					<!--<tr><td width="100%" class="topLinknoindent" onMouseOut="this.className='topLinknoindent'" onMouseOver="this.className='tophovernoindent'"><a href="../html-email-software/high-impact-email-he.asp/cid/" class="dropdown">Holiday Edition</a><br></td></tr>-->
 					<tr><td width="100%" class="topLinknoindent" onmouseout="this.className='topLinknoindent'" onmouseover="this.className='tophovernoindent'"><a href="../html-email-software/template-packs.asp/cid/" class="dropdown">Get More Templates</a></td></tr>
 					<tr><td width="100%" class="topLinknoindent" onmouseout="this.className='topLinknoindent'" onmouseover="this.className='tophovernoindent'"><a href="../html-email-software/get-sample-emails.asp/cid/" class="dropdown">Get Sample eMails</a></td></tr>
 					<tr><td width="100%" class="topLinknoindent" onmouseout="this.className='topLinknoindent'" onmouseover="this.className='tophovernoindent'"><a href="../html-email-software/readyshare.asp/cid/" class="dropdown">ReadyShare </a><br></td></tr>
 					<tr><td width="100%" class="topLinknoindent" onmouseout="this.className='topLinknoindent'" onmouseover="this.className='tophovernoindent'"><a href="../html-email-software/custom-html-design-service.asp/cid/" class="dropdown">Custom Email Designs</a><br></td></tr>
+					<!--<tr><td width="100%" class="topLinknoindent" onMouseOut="this.className='topLinknoindent'" onMouseOver="this.className='tophovernoindent'"><a href="../html-email-software/high-impact-email-he.asp/cid/" class="dropdown">Holiday Edition</a><br></td></tr>-->
 					<tr><td width="100%" class="topLinknoindent" onmouseout="this.className='topLinknoindent'" onmouseover="this.className='tophovernoindent'"><a href="../html-email-software/download.asp/cid/" class="dropdown">Download Free Trial</a><br></td></tr>
 					</tbody></table>	
 				</td>
