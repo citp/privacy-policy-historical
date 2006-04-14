@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tripres.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218204520id_/http%3A//tripres.com/index_information.cfm%3FFuseAction%3DInformation/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripres.com privacy policy that was archived on 2006-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060415014548id_/http%3A//tripres.com/index_information.cfm%3FFuseAction%3DInformation/PrivacyPolicy) for the most accurate reproduction.*
 
 # TripRes.com 6.0
 
-You are here: [Home](https://web.archive.org/web/20051218204520id_/http%3A//tripres.com/index_information.cfm%3FFuseAction%3DInformation/index.cfm?Fuseaction=Home/Home) > Privacy Policy 
+You are here: [Home](https://web.archive.org/web/20060415014548id_/http%3A//tripres.com/index_information.cfm%3FFuseAction%3DInformation/index.cfm?Fuseaction=Home/Home) > Privacy Policy 
 
 * * *
 
