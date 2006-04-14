@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kellyclarkson.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212160126id_/http%3A//kellyclarkson.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kellyclarkson.com privacy policy that was archived on 2006-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060415001634id_/http%3A//www.kellyclarkson.com/main.php%3Fcontent%3Dprivacy) for the most accurate reproduction.*
 
-# KellyClarkson.com Official Website and Fan Club - Privacy Policy
+# KellyClarkson.com
 
 **Privacy & Usage Policy**
 
@@ -35,4 +35,4 @@ Persons under the age of 18 are not eligible to use our websites without parenta
 Membership to the official Kelly Clarkson fan club may be obtained by submitting the form at http://www.KellyClarkson.com/fanclub.aspx. The fan club community is strictly moderated by website administrators. Messages deemed to be innapropriate for any reason may be edited, deleted or locked. Abuse of the message board or chat room will result in the revoking membership priveleges and/or a discontinuation of membership altogether. Membership will also be terminated without refund if 'members only' content is distributed or displayed without written consent. We reserve the right to refuse service to anyone for any reason.
 
 **6\. Contacting Us**   
-If you have any questions about this Privacy Statement, the practices of this websites, or your dealings with these websites, you may use the “Contact” forms on either KellyClarkson.com or KellyClarksonStreetTeam.com.
+If you have any questions about this Privacy Statement, the practices of this websites, or your dealings with these websites, you may use the "Contact" forms on either KellyClarkson.com or KellyClarksonStreetTeam.com.
