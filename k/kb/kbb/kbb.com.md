@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kbb.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213194809id_/http%3A//www.kbb.com/kb/ki.dll/ke.kb.sp%3Fkbb%26%26117%26privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kbb.com privacy policy that was archived on 2006-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060414233958id_/http%3A//www.kbb.com/kb/ki.dll/ke.kb.sp%3Fkbb%26%26117%26privacy) for the most accurate reproduction.*
 
 # Kelley Blue Book - Privacy Policy
 
