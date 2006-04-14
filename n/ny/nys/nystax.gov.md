@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nystax.gov privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228013249id_/http%3A//nystax.gov/nyshome/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nystax.gov privacy policy that was archived on 2006-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060414232746id_/http%3A//nystax.gov/nyshome/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Notice
 
@@ -78,13 +78,16 @@ DTF is committed to protecting personal information collected through this Web s
 
 In addition, DTF has implemented procedures to safeguard the integrity of its information technology assets including, but not limited to, authentication, monitoring, auditing, and encryption. These security procedures have been integrated into the design, implementation, and day-to-day operations of this Web site as part of our continuing commitment to the security of electronic content as well as the electronic transmission of information. 
 
-For Web site security purposes and to maintain the availability of the Web site for all users, DTF employs software to monitor traffic to identify unauthorized attempts to upload or change information or otherwise damage this Web site. For additional information concerning Security at DTF’s Web site, see DTF’s [Security page](https://web.archive.org/web/20051228013249id_/http%3A//nystax.gov/nyshome/securesite.htm). 
+For Web site security purposes and to maintain the availability of the Web site for all users, DTF employs software to monitor traffic to identify unauthorized attempts to upload or change information or otherwise damage this Web site. For additional information concerning Security at DTF’s Web site, see DTF’s [Security page](https://web.archive.org/web/20060414232746id_/http%3A//nystax.gov/nyshome/securesite.htm). 
 
 ### Disclaimer
 
 The information provided in this privacy policy should not be construed as giving business, legal, or other advice, or warranting as fail proof, the security of information provided via this Web site. 
 
 * * *
+
+[Site Index](https://web.archive.org/nyshome/index.htm) | [Electronic Services](https://web.archive.org/nyshome/online.htm) | [Publications and Bulletins](https://web.archive.org/pubs_and_bulls/) | [Web Survey](http://nytax-metrics.custhelp.com/cgi-bin/nytax_metrics.cfg/websurveys/ws?_133=28 "this will open a new window")  
+[Accessibility](https://web.archive.org/nyshome/accessibility.htm) | [Disclaimer](https://web.archive.org/nyshome/disclaimer.htm) | [Privacy](https://web.archive.org/nyshome/privacy_policy.htm) | [Security](https://web.archive.org/nyshome/securesite.htm)
 
 * * *
 
