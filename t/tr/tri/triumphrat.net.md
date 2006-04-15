@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the triumphrat.net privacy policy that was archived on 2005-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050829214845id_/http%3A//www.triumphrat.net/modules.php%3Fop%3Dmodload%26name%3DPrivacy_Statement%26file%3Dindex) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triumphrat.net privacy policy that was archived on 2006-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060415030300id_/http%3A//www.triumphrat.net/modules.php%3Fop%3Dmodload%26name%3DPrivacy_Statement%26file%3Dindex) for the most accurate reproduction.*
 
 # TriumphRat.Net :: Triumph Motorcycles, RAT Discussions, Triumph Web Links, Motorcycle News, Events, Triumph FAQ
 
