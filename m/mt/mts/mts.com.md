@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mts.com privacy policy that was archived on 2005-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051026191022id_/http%3A//www.mts.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mts.com privacy policy that was archived on 2006-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060415025410id_/http%3A//www.mts.com/privacy.htm) for the most accurate reproduction.*
 
 # MTS Systems Internet Privacy Statement
 
