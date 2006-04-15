@@ -1,15 +1,9 @@
-> *The following text is extracted and transformed from the tripconnect.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210193157id_/http%3A//www.tripconnect.com/tripconnect/info.privacypolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripconnect.com privacy policy that was archived on 2006-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060415025116id_/http%3A//www.tripconnect.com/tripconnect/info.privacypolicy.do) for the most accurate reproduction.*
 
 # TripConnect - Travel Advice on Destinations and Reviews of Hotels
 
-|  |  |  Top Reviewers   
----|---  
   
-|  | Popular Destinations  
----|---  
-  
-  
-
+| 
 
 [ ](http://www.truste.org/ivalidate.php?url=www.tripconnect.com&sealid=101)
 
@@ -29,7 +23,7 @@ If you wish to disable these cookies, most browsers will tell you how. However, 
 
 ### Information We Collect From You 
 
-In order to operate the site and provide you with information on products and services that may be of interest to you, we may collect profile information when you register (i.e. information that could be used to contact you such as full name and email address), demographic information (e.g. zip code), public information such as user ratings and reviews and a user name from you. Please note that nowhere on our site do we knowingly collect profile information from children under the age of 13. 
+In order to operate the site and provide you with information on products and services that may be of interest to you, we may collect profile information when you register (i.e. information that could be used to contact you such as first and last name and email address), demographic information (e.g. zip code), public information such as user ratings and reviews and a user name from you. Please note that nowhere on our site do we knowingly collect profile information from children under the age of 13. 
 
 ### Information Other Web Sites Collect From You
 
@@ -45,13 +39,13 @@ Please read the information below to learn how we may make some of your profile 
 
 ### How We Use Profile Information, Reviews, Ratings and User Names
 
-When you register on our site, you must enter a user name as well as your full name, email address, your zip code (US and Canadian residents) or the country in which you live. 
+When you register on our site, you must enter a user name as well as your first and last names, email address, your zip code (US and Canadian residents) or the country in which you live. 
 
-Your username, as well as the city and state or country in which you live will be displayed in reviews written by you along with the content of those reviews and the ratings you provide therein. You should be aware that any personally identifiable information you submit in the text of a review can be read, collected, or used by other users of the site and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in your reviews. 
+Your username, as well as city and state or country in which you live will be displayed in reviews written by you along with the content of those reviews and the ratings you provide therein. You should be aware that any personally identifiable information you submit in the text of a review, in messages, while editing your "My Profile" page or anywhere else on the site, can be read, collected, or used by other users of the site and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in your reviews or elsewhere on the site. 
 
-Once you have registered, you may also choose to link to other registered users of the site by inviting them to link to you via forms provided on the site. Your full name will only be displayed, in reviews and elsewhere on the site, to a) other users that you link directly to you (one degree of separation), b) users that are linked to a user you are linked to (two degrees of separation), c) users that belong to groups you choose to join. You may change how your name is displayed by visiting the [My Account](https://web.archive.org/web/20051210193157id_/http%3A//www.tripconnect.com/tripconnect/myaccount.do) page. Also, your reviews may indicate to other users how you are linked to them if you are not directly linked to them. 
+Once you have registered, you may also choose to link to other registered users of the site by inviting them to link to you via forms provided on the site. Your first and last names will be displayed, in reviews, elsewhere on the site and in messages, to a) other users that you link directly to you (one degree of separation), b) users that are linked to a user you are linked to (two degrees of separation), c) users that belong to groups you choose to join. You may change how your name is displayed by visiting the [My Account](https://web.archive.org/web/20060415025116id_/http%3A//www.tripconnect.com/tripconnect/myaccount.do) page. Also, your reviews, your "My Profile" page and message threads in which you participate may indicate to other users how you are linked to them. 
 
-You will be given the chance to designate certain of your reviews as accessible only to people you link to and you will also be given the chance to restrict whether users can send you comments and questions about individual reviews. You may change some of these designations in the My Account section of our site or by editing your reviews. Your user name, as well as the city and state or country in which you live, along with your reviews and places indicated by you as places you have visited, may also appear on a User Profile section of the Site accessible to other users of the site. 
+You will be given the chance to designate certain of your reviews as accessible only to people you link to and you will also be given the chance to restrict whether users can send you comments and questions about individual reviews. You may change some of these designations in the My Account section of our site or by editing your reviews. Your user name, as well as the city and state or country in which you live, along with your reviews and places indicated by you as places you have visited, and also users you have linked to and groups you have joined, will also appear on your "My Profile" section of the Site accessible to other users of the site. 
 
 ### Personal Communications Between Members
 
@@ -73,12 +67,12 @@ You may opt-out of certain communications and/or modify profile information you 
 
 If we change our privacy policy, we will post those changes on our web site so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If we are going to use users' personally identifiable information in a manner different from that stated at the time of collection, we will notify users via email or by placing a prominent notice on our site. 
 
-If you have any questions or concerns about this privacy policy, the practices of the Site, or your dealings with the Site, you can contact us at [contact@tripconnect.com](mailto:contact@tripconnect.com). Alternatively, you can send us mail to: TripConnect, Inc., 419 Lafayette Street, 3rd Floor, New York, NY 10003. 
+If you have any questions or concerns about this privacy policy, the practices of the Site, or your dealings with the Site, you can contact us at [contact@tripconnect.com](mailto:contact@tripconnect.com). Alternatively, you can send us mail to: TripConnect, Inc., 419 Lafayette Street, 2nd Floor, New York, NY 10003. 
 
-TripConnect is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user?s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [www.tripconnect.com](http://www.tripconnect.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+TripConnect is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [www.tripconnect.com](http://www.tripconnect.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
 If you have questions or concerns regarding this statement, you should first contact TripConnect at [contact@tripconnect.com](mailto:contact@tripconnect.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
-Last Updated: October 25th, 2005 
+Last Updated: April 10th, 2006 
 
 | 
