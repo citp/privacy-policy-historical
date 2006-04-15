@@ -1,26 +1,8 @@
-> *The following text is extracted and transformed from the kenoshanews.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602204657id_/http%3A//kenoshacounty.com/customer_care/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kenoshanews.com privacy policy that was archived on 2006-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060415021029id_/http%3A//kenoshanews.com/privacy) for the most accurate reproduction.*
 
-# Kenosha Wisconsin News and Community Information
+# Kenosha News Online
 
-[Customer Care](https://web.archive.org/customer_care/)  
-[Place classified ad](https://web.archive.org/classifieds/place_ad)  
-[Subscriber services](https://web.archive.org/customer_care/subscriber_services)  
-[Back Issues](https://web.archive.org/customer_care/subscriber_services/back_issues.php)  
-[News 2 Go](https://web.archive.org/customer_care/subscriber_services/news_2_go.php)  
-[Library archive](https://web.archive.org/customer_care/library_archive)  
-[Fact File](https://web.archive.org/customer_care/library_archive/fact_file/index.php)  
-[Almanac](https://web.archive.org/customer_care/library_archive/almanac/index.php)  
-[Kenosha News History](https://web.archive.org/customer_care/library_archive/kenosha_news_history/index.php)  
-[Contact us](https://web.archive.org/customer_care/contact_us)  
-[Privacy statement](https://web.archive.org/customer_care/privacy)  
-[Downloadable forms](https://web.archive.org/customer_care/downloadable_forms)  
-Employment Wizard  
-[Lost? View Sitemap](https://web.archive.org/customer_care/site_map)  
-[]()  
-
-
-  
-|  |  Privacy Statement
+Privacy Statement
 
 KenoshaCounty.com respects the privacy of its users. In this document we explain how we use information you supply us via the kenoshacounty.com Web site. This privacy policy may be modified in the future. If it is, a new policy will be posted on our web sites. 
 
@@ -59,5 +41,3 @@ Does this privacy statement extend to links to other sites?
 This site contains links to other sites. While we encourage our business partners to adopt privacy policies that build users' trust and confidence in the Internet, we are not responsible for the privacy practices or the content of web sites linked to any of our sites. We may allow third parties to sponsor promotions and sweepstakes through our site. Use of any personal information provided to such a third party will be governed by that party's privacy policy. 
 
 If you have any questions about this privacy statement, please e-mail us at feedback@kenoshacounty.com. 
-
-|  | 
