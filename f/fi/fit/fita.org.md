@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fita.org privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210044510id_/http%3A//fita.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fita.org privacy policy that was archived on 2006-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060417233244id_/http%3A//fita.org/privacy.html) for the most accurate reproduction.*
 
 # International Trade Leads, Global Import Export - Fita.org, trade market resources and research
 
@@ -19,7 +19,7 @@ We collect the e-mail addresses of those who communicate with us via e-mail as w
 
 The information we collect is used to improve the content of our Web page, used to notify consumers about updates to our Web site, not shared with other organizations for commercial purposes.
 
-With respect to cookies: We set cookies so that only those who subscribe to [Really Useful Sites for International Trade Professionals](https://web.archive.org/web/20051210044510id_/http%3A//fita.org/useful/index.html) can access the site.
+With respect to cookies: We set cookies so that only those who subscribe to [Really Useful Sites for International Trade Professionals](https://web.archive.org/web/20060417233244id_/http%3A//fita.org/useful/index.html) can access the site.
 
 If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
 
