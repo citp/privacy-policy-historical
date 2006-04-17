@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the escapia.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205165458id_/http%3A//www.escapia.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escapia.com privacy policy that was archived on 2006-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060417231849id_/http%3A//www.escapia.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Escapia Privacy Policy
+# Privacy Policy - Escapia
 
 Escapia has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information-gathering and dissemination practices for this site. 
 
@@ -24,13 +24,6 @@ This site has security measures in place to protect the loss, misuse and alterat
 Users should send an e-mail to accounts@escapia.com if they would like to change or remove their information from our database and halt future communications. When writing, please supply your instructions, your username used to sign up, and the URL of the site to which you originally provided your information. 
 
 **Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of our Web site or your dealings with our Web site, you can contact: 
+If you have any questions about this privacy statement, the practices of our Web site or your dealings with our Web site, you can contact:
 
-**Michael Cline**  
-President of Customer Operations  
-Escapia, Inc.  
-14435 5th Ave So.  
-Seattle, WA 98168  
-[mailto:info@escapia.com](mailto:info@escapia.com)
-
-© 2004 Escapia Corporation 
+**Michael Cline** \- [mailto:info@escapia.com](mailto:info@escapia.com)
