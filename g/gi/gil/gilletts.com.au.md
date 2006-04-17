@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gilletts.com.au privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216062103id_/http%3A//gilletts.com.au/information.php%3Finfo_id%3D21) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gilletts.com.au privacy policy that was archived on 2006-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060417202256id_/http%3A//gilletts.com.au/information.php%3Finfo_id%3D21%26osCsid%3D6d0566d3bbff2d33807262f0c04d38d2) for the most accurate reproduction.*
 
 # Privacy and security ~ Gillett's Jewellers
 
