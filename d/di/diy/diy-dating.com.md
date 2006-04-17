@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diy-dating.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220131335id_/http%3A//www.diy-dating.com/privacy.php%3FSESSID%3D98420c4c7d15a2b2e17da7826c2244a9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diy-dating.com privacy policy that was archived on 2006-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060417185916id_/http%3A//www.diy-dating.com/privacy.php%3FSESSID%3D47f6d19d23fbed94a652401260422621) for the most accurate reproduction.*
 
 # DIY-Dating -
 
