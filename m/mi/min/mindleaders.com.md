@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindleaders.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222235557id_/http%3A//www.mindleaders.com/about/legal.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindleaders.com privacy policy that was archived on 2006-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060417233313id_/http%3A//www.mindleaders.com/about/legal.asp) for the most accurate reproduction.*
 
 # MindLeaders - Legal
 
@@ -60,7 +60,7 @@ Location:
 Please note that your personal information will be transferred outside the European Economic Area for the purposes of processing by MindLeaders and its affiliates. By using the MindLeaders website and providing your personal information, you consent to this transfer. If you are visiting MindLeaders from a location outside of the U.S., your connection will be through and to servers located in the U.S. Information you provide will be maintained in Web servers and internal systems located within the U.S. 
 
 Privacy Contact:   
-Questions regarding this policy should be directed to MindLeaders at legal@mindleaders.com. or write to MindLeaders.com, Inc. 851 W. Third St., Columbus, OH 43212
+Questions regarding this policy should be directed to MindLeaders at legal@mindleaders.com. or write to MindLeaders.com, Inc. 5500 Glendon Court, Suite 200, Dublin, OH 43016
 
 PRIVACY POLICY (081604101104) (scf)
 
@@ -72,6 +72,6 @@ The European Computer Driving Licence® (ECDL) and the International Computer Dr
 |   
 ---  
 | **User Comments  
-** "It explained to me in plain English how to correct everything that I was doing wrong. My life has changed!"  
+** "Its relevance and applicability! The concepts covered in the course gave me new energy and will continue to do so for a long time!"  
 ---|---  
 | 
