@@ -1,0 +1,701 @@
+<!--The following is the downloaded HTML source of the territoryahead.com privacy policy that was archived on 2006-04-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060417183736id_/http%3A//www.territoryahead.com/jump.jsp%3FitemType%3DCATEGORY%26itemID%3D237%26path%3D1%252C2%252C195%252C237) for the most accurate reproduction.-->
+
+<html><head><script language="JavaScript">
+    var isNav, isIE;
+    if(parseInt(navigator.appVersion) >= 4) {
+      if(navigator.appName == "Netscape")
+        isNav = true
+      else
+        isIE = true;
+    }
+
+    /* checks while typing*/
+    function maxlengthCheck(txt, evtThis, maxlength){
+      if(txt.value.length >= maxlength){
+        if (isIE)
+          event.keyCode = 0 // IE
+        maxlengthHack(txt, maxlength);
+        return true;
+      }
+    }
+
+    /* checks for pasted in text, etc*/
+    function maxlengthHack(txt, maxlength){
+      if(txt.value.length >= maxlength){
+        txt.value = txt.value.substring(0,maxlength);
+      }
+    }
+</script>
+
+
+<script language="JavaScript">
+// Disable edit cell tab.
+   parent.editCell.className    = "tab-button-dis";
+//   parent.parent.frames('toolbarbottom').altButtons.style.display = "none";
+
+function saveForm() {
+    location.replace("/admin/displayeditcell.do?action=save");
+}
+
+   function editCell(ruleID, itemID, slotID, itemType) {
+        parent.editDisplay.className     = "tab-button";
+        if(typeof(parent.displayRules)!="undefined") {
+            parent.displayRules.className = "tab-button";
+        }
+        parent.editCell.className    = "tab-button-on";
+
+        location.replace("/admin/displayeditcell.do?action=init&itemID=" + itemID + "&ruleID=" + ruleID + "&slotID="+ slotID + "&itemType=" + itemType );
+//        parent.parent.frames('toolbarbottom').altButtons.style.display= "inline";
+    }
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+<title>The Territory Ahead</title>
+<link rel="stylesheet" type="text/css" href="/includes/stylesheet.css" title="style">
+<link rel="stylesheet" type="text/css" href="/includes/global_stylesheet.css" title="style">
+<script src="/includes/flyopen.js"></script>
+<script src="/includes/rollover.js"></script>
+<script src="/includes/cleartext.js"></script>
+<script language="javascript">
+arImageList = new Array ();
+arSubImageList = new Array ();
+
+function preLoadCatImages(images_array) {
+	for(loop = 0; loop < images_array.length; loop++)
+	{
+           arImageList[loop] = new Image(); 
+           arImageList[loop].src = images_array[loop];
+	}
+}
+function preLoadSubCatImages(images_array) {
+	for(loop = 0; loop < images_array.length; loop++)
+	{
+           arSubImageList[loop] = new Image(); 
+           arSubImageList[loop].src = images_array[loop];
+	}
+}
+function changeCat(frm, thisbox) {
+   var optiontxt = thisbox.options[thisbox.selectedIndex].value;
+   if (optiontxt == "0"){
+        return;
+    }
+    location.href = optiontxt
+    //frm.action = optiontxt;
+    //alert (frm.action);
+    //frm.submit();
+}
+
+
+
+</script>
+<!-- MilonicDHTML -->
+<script type="text/javascript" src="/menu/milonic_src.js"></script>
+<script type="text/javascript">
+<!--
+if(ns4)_d.write("<scr"+"ipt language=JavaScript src=/menu/mmenuns4.js><\/scr"+"ipt>");
+  else _d.write("<scr"+"ipt language=JavaScript src=/menu/mmenudom.js><\/scr"+"ipt>");
+ -->
+</script><script language="JavaScript" src="/menu/mmenudom.js"></script><script>function $9(ap){return _f}</script>
+
+
+
+
+<script type="text/javascript">
+
+/*
+Milonic DHTML Menu - JavaScript Website Navigation System.
+Copyright 2004 (c) Milonic Solutions Limited. All Rights Reserved.
+Version 5+ Data File structure is the property of Milonic Solutions Ltd and must only be used in Milonic DHTML Products
+This is a commercial software product, please visit http://www.milonic.com/ for more information.
+See http://www.milonic.com/license.php for Commercial License Agreement
+All Copyright statements must always remain in place in all files at all times
+*******  PLEASE NOTE: THIS IS NOT FREE SOFTWARE, IT MUST BE LICENSED FOR ALL USE  *******
+*/
+
+_menuCloseDelay=450           // The time delay for menus to remain visible on mouse out
+_menuOpenDelay=80            // The time delay before menus open on mouse over
+_subOffsetTop=0               // Sub menu top offset
+_subOffsetLeft=-15            // Sub menu left offset
+
+with(menuStyle=new mm_style()){
+itemwidth=100;
+onclass="menuItemOn";
+offclass="menuItemOff";
+onbgcolor="#FFFFFF";
+oncolor="#000000";
+onborder='1px solid #000000';
+offbgcolor="#FFFFFF";
+offcolor="#000000";
+offborder='1px solid #000000';
+bordercolor="#000000";
+borderstyle="solid";
+borderwidth=1;
+separatorcolor="#FFFAF5";
+separatorsize="0";
+fontsize="11px";
+fontstyle="normal";
+fontfamily="Verdana, Tahoma, Arial";
+pagebgcolor="#FFFAF5";
+headercolor="#FFFFFF";
+headerbgcolor="#ffffff";
+subimagepadding="0";
+overfilter="Fade(duration=0.0);Alpha(opacity=100);";
+outfilter="randomdissolve(duration=0.0)";
+}
+with(menuStyle4=new mm_style()){
+itemwidth=140;onclass="menuItemOn";offclass="menuItemOff";bordercolor="#000000";borderstyle="solid";borderwidth="1";}
+with(menuStyle5=new mm_style()){
+itemwidth=140;onclass="menuItemOn";offclass="menuItemOff";bordercolor="#000000";borderstyle="solid";borderwidth="1";}
+with(menuStyle6=new mm_style()){
+itemwidth=140;onclass="menuItemOn";offclass="menuItemOff";bordercolor="#000000";borderstyle="solid";borderwidth="1";}
+with(menuStyle7=new mm_style()){
+itemwidth=140;onclass="menuItemOn";offclass="menuItemOff";bordercolor="#000000";borderstyle="solid";borderwidth="1";}
+with(milonic=new menuname("Menu4")){
+style=menuStyle4;
+aI("text=New for Summer;url=http://www.territoryahead.com/jump.jsp?itemID=281&itemType=CATEGORY&path=1%2C2%2C4%2C281;");
+aI("text=Shirts;url=http://www.territoryahead.com/jump.jsp?itemID=14&itemType=CATEGORY&path=1%2C2%2C4%2C14;");
+aI("text=Polos & Tees;url=http://www.territoryahead.com/jump.jsp?itemID=15&itemType=CATEGORY&path=1%2C2%2C4%2C15;");
+aI("text=Sport Coats & Outerwear;url=http://www.territoryahead.com/jump.jsp?itemID=24&itemType=CATEGORY&path=1%2C2%2C4%2C24;");
+aI("text=Leather & Suede Outerwear;url=http://www.territoryahead.com/jump.jsp?itemID=25&itemType=CATEGORY&path=1%2C2%2C4%2C25;");
+aI("text=Sweaters & Pullovers;url=http://www.territoryahead.com/jump.jsp?itemID=26&itemType=CATEGORY&path=1%2C2%2C4%2C26;");
+aI("text=Pants;url=http://www.territoryahead.com/jump.jsp?itemID=27&itemType=CATEGORY&path=1%2C2%2C4%2C27;");
+aI("text=Shorts;url=http://www.territoryahead.com/jump.jsp?itemID=28&itemType=CATEGORY&path=1%2C2%2C4%2C28;");
+aI("text=Shoes, Belts, Accessories;url=http://www.territoryahead.com/jump.jsp?itemID=29&itemType=CATEGORY&path=1%2C2%2C4%2C29;");
+aI("text=Guy Stuff Luggage;url=http://www.territoryahead.com/jump.jsp?itemID=192&itemType=CATEGORY&path=1%2C2%2C4%2C192;");
+aI("text=Talls;url=http://www.territoryahead.com/jump.jsp?itemID=134&itemType=CATEGORY&path=1%2C2%2C4%2C134;");
+}
+with(milonic=new menuname("Menu5")){
+style=menuStyle5;
+aI("text=New for Summer;url=http://www.territoryahead.com/jump.jsp?itemID=282&itemType=CATEGORY&path=1%2C2%2C5%2C282;");
+aI("text=Shirts & Vests;url=http://www.territoryahead.com/jump.jsp?itemID=39&itemType=CATEGORY&path=1%2C2%2C5%2C39;");
+aI("text=Knit Tops & Tees;url=http://www.territoryahead.com/jump.jsp?itemID=38&itemType=CATEGORY&path=1%2C2%2C5%2C38;");
+aI("text=Dresses;url=http://www.territoryahead.com/jump.jsp?itemID=37&itemType=CATEGORY&path=1%2C2%2C5%2C37;");
+aI("text=Skirts;url=http://www.territoryahead.com/jump.jsp?itemID=36&itemType=CATEGORY&path=1%2C2%2C5%2C36;");
+aI("text=Pants;url=http://www.territoryahead.com/jump.jsp?itemID=35&itemType=CATEGORY&path=1%2C2%2C5%2C35;");
+aI("text=Shorts;url=http://www.territoryahead.com/jump.jsp?itemID=34&itemType=CATEGORY&path=1%2C2%2C5%2C34;");
+aI("text=Leather & Suede Outerwear;url=http://www.territoryahead.com/jump.jsp?itemID=33&itemType=CATEGORY&path=1%2C2%2C5%2C33;");
+aI("text=Jackets & Outerwear;url=http://www.territoryahead.com/jump.jsp?itemID=32&itemType=CATEGORY&path=1%2C2%2C5%2C32;");
+aI("text=Sweaters;url=http://www.territoryahead.com/jump.jsp?itemID=31&itemType=CATEGORY&path=1%2C2%2C5%2C31;");
+aI("text=Shoes, Bags, Accessories;url=http://www.territoryahead.com/jump.jsp?itemID=166&itemType=CATEGORY&path=1%2C2%2C5%2C166;");
+aI("text=Bodywear;url=http://www.territoryahead.com/jump.jsp?itemID=243&itemType=CATEGORY&path=1%2C2%2C5%2C243;");
+aI("text=Petites;url=http://www.territoryahead.com/jump.jsp?itemID=170&itemType=CATEGORY&path=1%2C2%2C5%2C170;");
+}
+with(milonic=new menuname("Menu6")){
+style=menuStyle6;
+aI("text=Men's Sale;url=http://www.territoryahead.com/jump.jsp?itemID=135&itemType=CATEGORY&path=1%2C2%2C6%2C135;");
+aI("text=Women's Sale;url=http://www.territoryahead.com/jump.jsp?itemID=180&itemType=CATEGORY&path=1%2C2%2C6%2C180;");
+}
+with(milonic=new menuname("Menu7")){
+style=menuStyle7;
+aI("text=Destination Peru;url=http://www.territoryahead.com/jump.jsp?itemID=249&itemType=CATEGORY&path=1%2C2%2C7%2C249;");
+aI("text=Photo Credits;url=http://www.territoryahead.com/jump.jsp?itemID=223&itemType=CATEGORY&path=1%2C2%2C7%2C223;");
+aI("text=Big Waves, Little Horses;url=http://www.territoryahead.com/jump.jsp?itemID=262&itemType=CATEGORY&path=1%2C2%2C7%2C262;");
+}
+
+drawMenus();
+</script></head><body class="main" marginwidth="0" marginheight="0" topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0"><div class="menuItemOff" onmouseout="$I()" onmouseover="$J()" onselectstart="return" _f="" id="menu0" style="padding:0px;;border:1px solid #000000;z-index:499;visibility:hidden;position:absolute;top:-999px;;"></div><div class="menuItemOff" onmouseout="$I()" onmouseover="$J()" onselectstart="return" _f="" id="menu1" style="padding:0px;;border:1px solid #000000;z-index:499;visibility:hidden;position:absolute;top:-999px;;"></div><div class="menuItemOff" onmouseout="$I()" onmouseover="$J()" onselectstart="return" _f="" id="menu2" style="padding:0px;;border:1px solid #000000;z-index:499;visibility:hidden;position:absolute;top:-999px;;"></div><div class="menuItemOff" onmouseout="$I()" onmouseover="$J()" onselectstart="return" _f="" id="menu3" style="padding:0px;;border:1px solid #000000;z-index:499;visibility:hidden;position:absolute;top:-999px;;"></div>
+
+<script language="javascript">
+var the_topSubImages = new Array("/images/us/null",
+"/images/us/null"
+,"/images/us/null",
+"/images/us/null"
+,"/images/us/null",
+"/images/us/null"
+,"/images/us/null",
+"/images/us/null"
+,"/images/us/null",
+"/images/us/null"
+,"/images/us/null",
+"/images/us/null"
+,"/images/us/null",
+"/images/us/null"
+,"/images/us/null",
+"/images/us/null"
+,"/images/us/null",
+"/images/us/null"
+,"/images/us/null",
+"/images/us/null"
+);
+preLoadSubCatImages(the_topSubImages);
+</script>
+
+
+
+<!-- Content Wrap Start -->
+    
+<table align="center" border="0" width="770" cellpadding="0" cellspacing="0">
+  	<tbody><tr>
+		<td colspan="3" class="siteborder"><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="1" border="0"></td>
+	</tr>
+	<tr>
+		<td class="siteborder"><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="1" border="0"></td>
+		<td class="navheaderbg">
+
+<!--SourceCode:  -->
+
+
+
+<!-- Navheader Start-->
+
+<table border="0" width="768" cellpadding="0" cellspacing="0">
+
+<tbody><tr>
+	<td class="navheaderbg2"><img src="/images/us/global/globalnav/phnumber.gif" border="0"></td>
+	<td class="navheaderbg2" align="right"><table border="0" cellspacing="0" cellpadding="0" align="right">
+		<tbody><tr valign="middle">
+            
+            <td><a href="https://www.territoryahead.com/account/login/loginmain.jsp" onmouseover="rollover('top_login','/images/us/global/globalnav/login_on.gif');" onmouseout="rollover('top_login','/images/us/global/globalnav/login_off.gif');"><img src="/images/us/global/globalnav/login_off.gif" border="0" alt="Log In" name="top_login"></a></td>
+            
+            <td><a href="https://www.territoryahead.com/account/orderhistory/orderstatus.jsp" onmouseover="rollover('top_orderstatus','/images/us/global/globalnav/orderstatus_on.gif');" onmouseout="rollover('top_orderstatus','/images/us/global/globalnav/orderstatus_off.gif');"><img src="/images/us/global/globalnav/orderstatus_off.gif" border="0" alt="Order Status" name="top_orderstatus"></a></td>
+			<td><a href="http://www.territoryahead.com/jump.jsp?itemID=195&amp;itemType=CATEGORY&amp;path=1%2C3%2C195" onmouseover="rollover('top_customerserv','/images/us/global/globalnav/customerserv_on.gif');" onmouseout="rollover('top_customerserv','/images/us/global/globalnav/customerserv_off.gif');"><img src="/images/us/global/globalnav/customerserv_off.gif" border="0" alt="Customer Service" name="top_customerserv"></a></td>
+			<td><a href="http://www.territoryahead.com/shopping/catalogquickshop/cqsmain.jsp" onmouseover="rollover('top_cqs','/images/us/global/globalnav/catquickshop_on.gif');" onmouseout="rollover('top_cqs','/images/us/global/globalnav/catquickshop_off.gif');"><img src="/images/us/global/globalnav/catquickshop_off.gif" border="0" alt="Catalog Quickshop" name="top_cqs"></a></td>
+			
+			<td class="navheaderbg3"><a href="http://www.territoryahead.com/basket/basketmain.jsp" onmouseover="rollover('top_shopbasket','/images/us/global/globalnav/shopbasket_on.gif');" onmouseout="rollover('top_shopbasket','/images/us/global/globalnav/shopbasket_off.gif');"><img src="/images/us/global/globalnav/shopbasket_off.gif" border="0" alt="Shopping Bag" name="top_shopbasket"></a></td>
+			<td class="navheaderbg3"><!--<div><img src="/images/us/global/globalgraphics/spacer01.gif" width="153" height="1" border="0"></div>--><div class="iteminbagtext" nowrap="">&nbsp; (0 items)&nbsp;</div></td>
+		</tr>
+	</tbody></table></td>
+</tr>
+<tr>
+	<td colspan="2" class="navheaderrule1"><img src="/images/us/global/globalgraphics/spacer01.gif" width="768" height="1" border="0"></td>
+</tr>
+<tr>
+	<td colspan="2"><a href="http://www.territoryahead.com/jump.jsp?itemID=0&amp;itemType=HOME_PAGE"><img alt="The Territory Ahead" src="/images/us/global/globalnav/logo01.jpg" border="0"></a></td>
+</tr>
+<tr>
+	<td colspan="2"><table border="0" cellspacing="0" cellpadding="0" width="768">
+		<tbody><tr>
+			<td><a href="http://www.territoryahead.com/jump.jsp?itemID=0&amp;itemType=HOME_PAGE" onmouseover="rollover('top_home','/images/us/global/globalnav/home_on.gif');" onmouseout="rollover('top_home','/images/us/global/globalnav/home_off.gif');"><img src="/images/us/global/globalnav/home_off.gif" border="0" alt="Home" name="top_home"></a></td>
+<td><a href="http://www.territoryahead.com/jump.jsp?itemType=CATEGORY&amp;itemID=4&amp;path=1%2C2%2C4" onmouseover="rollover('MenuImg4','/images/us//global/globalnav/globalnav01_on.gif');popup('Menu4','MenuImg4');" onmouseout="rollover('MenuImg4','/images/us//global/globalnav/globalnav01_off.gif');popdown();"><img border="0" name="MenuImg4" id="MenuImg4" src="/images/us//global/globalnav/globalnav01_off.gif" alt="Men's Territory"></a></td>
+							<!--<td><a href="http://www.territoryahead.com/jump.jsp?itemType=CATEGORY&itemID=4&path=1%2C2%2C4" onMouseOver="rollover('LeftMen's Territory','/images/us//global/globalnav/globalnav01_on.gif');" onMouseOut="rollover('LeftMen's Territory','/images/us//global/globalnav/globalnav01_off.gif');"><img border="0" name="LeftMen's Territory"  src="/images/us//global/globalnav/globalnav01_off.gif" alt="Men's Territory"></a></td>-->
+					<td><a href="http://www.territoryahead.com/jump.jsp?itemType=CATEGORY&amp;itemID=5&amp;path=1%2C2%2C5" onmouseover="rollover('MenuImg5','/images/us//global/globalnav/globalnav02_on.gif');popup('Menu5','MenuImg5');" onmouseout="rollover('MenuImg5','/images/us//global/globalnav/globalnav02_off.gif');popdown();"><img border="0" name="MenuImg5" id="MenuImg5" src="/images/us//global/globalnav/globalnav02_off.gif" alt="Women's Territory"></a></td>
+							<!--<td><a href="http://www.territoryahead.com/jump.jsp?itemType=CATEGORY&itemID=5&path=1%2C2%2C5" onMouseOver="rollover('LeftWomen's Territory','/images/us//global/globalnav/globalnav02_on.gif');" onMouseOut="rollover('LeftWomen's Territory','/images/us//global/globalnav/globalnav02_off.gif');"><img border="0" name="LeftWomen's Territory"  src="/images/us//global/globalnav/globalnav02_off.gif" alt="Women's Territory"></a></td>-->
+					<td><a href="http://www.territoryahead.com/jump.jsp?itemType=CATEGORY&amp;itemID=6&amp;path=1%2C2%2C6" onmouseover="rollover('MenuImg6','/images/us//global/globalnav/globalnav03_on.gif');popup('Menu6','MenuImg6');" onmouseout="rollover('MenuImg6','/images/us//global/globalnav/globalnav03_off.gif');popdown();"><img border="0" name="MenuImg6" id="MenuImg6" src="/images/us//global/globalnav/globalnav03_off.gif" alt="Sale"></a></td>
+							<!--<td><a href="http://www.territoryahead.com/jump.jsp?itemType=CATEGORY&itemID=6&path=1%2C2%2C6" onMouseOver="rollover('LeftSale','/images/us//global/globalnav/globalnav03_on.gif');" onMouseOut="rollover('LeftSale','/images/us//global/globalnav/globalnav03_off.gif');"><img border="0" name="LeftSale"  src="/images/us//global/globalnav/globalnav03_off.gif" alt="Sale"></a></td>-->
+					<td><a href="http://www.territoryahead.com/jump.jsp?itemType=CATEGORY&amp;itemID=7&amp;path=1%2C2%2C7" onmouseover="rollover('MenuImg7','/images/us//global/globalnav/globalnav04_on.gif');popup('Menu7','MenuImg7');" onmouseout="rollover('MenuImg7','/images/us//global/globalnav/globalnav04_off.gif');popdown();"><img border="0" name="MenuImg7" id="MenuImg7" src="/images/us//global/globalnav/globalnav04_off.gif" alt="Peru Journey"></a></td>
+							<!--<td><a href="http://www.territoryahead.com/jump.jsp?itemType=CATEGORY&itemID=7&path=1%2C2%2C7" onMouseOver="rollover('LeftPeru Journey','/images/us//global/globalnav/globalnav04_on.gif');" onMouseOut="rollover('LeftPeru Journey','/images/us//global/globalnav/globalnav04_off.gif');"><img border="0" name="LeftPeru Journey"  src="/images/us//global/globalnav/globalnav04_off.gif" alt="Peru Journey"></a></td>-->
+					
+			<td class="clearbg"><table border="0" cellpadding="0" cellspacing="0" align="right">
+				<form name="searchForm" action="http://www.territoryahead.com/shopping/search/searchresultsmain.jsp" onsubmit="return checkFieldsSearch('searchForm')"></form>
+			    <input type="hidden" name="searchType" value="keyword">
+				<input type="hidden" name="NRS" value="1">
+				<input type="hidden" name="RS" value="1">
+				<tbody><tr>
+        			
+					<td align="right"><input type="text" name="keyword" value="keyword or item#" maxlength="30" size="10" class="navsearchbox" onfocus="if(this.value=='keyword or item#')this.value='';" onfocusout="if(this.value=='')this.value='keyword or item#';"></td>
+					<td><input type="Image" name="Search" src="/images/us/global/globalgraphics/search_btn.gif" border="0" alt="Search"></td>
+			    </tr>
+		        
+				
+			</tbody></table></td>
+		</tr>
+	</tbody></table></td>
+</tr>
+<!-- -->
+<tr>
+	<td colspan="2" class="navheaderrule2"><img src="/images/us/global/globalgraphics/spacer01.gif" width="768" height="1" border="0"></td>
+</tr>
+
+<!-- Navheader End -->
+</tbody></table>
+<script language="javascript">
+var the_topimages = new Array("/images/us//global/globalnav/globalnav01_on.gif",
+"/images/us//global/globalnav/globalnav01_off.gif"
+,"/images/us//global/globalnav/globalnav02_on.gif",
+"/images/us//global/globalnav/globalnav02_off.gif"
+,"/images/us//global/globalnav/globalnav03_on.gif",
+"/images/us//global/globalnav/globalnav03_off.gif"
+,"/images/us//global/globalnav/globalnav04_on.gif",
+"/images/us//global/globalnav/globalnav04_off.gif"
+);
+preLoadCatImages(the_topimages);
+function checkFieldsSearch() {
+        var searchtxt=Trim(document.searchForm.keyword.value);
+        if (searchtxt == '')
+	{
+		alert("Please enter keyword or item#.");
+		return false;
+	}else if (searchtxt == 'keyword or item#') {
+		alert("Please enter keyword or item#.");
+		return false;
+    } else if (searchtxt.length <= 2) {
+		alert("We are sorry, the information you have requested is not available.");
+		return false;
+    }else if(!checkSearchHasValidCharater(searchtxt)){
+        alert("We are sorry, the information you have requested is not available.");
+		return false;
+    } else {
+		return true;
+	}
+}
+function checkFieldsSearch1() {
+        var searchtxt=Trim(document.searchForm1.keyword.value);
+        if (searchtxt == '')
+	{
+		alert("Please enter keyword or item#.");
+		return false;
+	} else if (searchtxt == 'keyword or item#') {
+		alert("Please enter keyword or item#.");
+		return false;
+    } else if (searchtxt.length <= 2) {
+		alert("We are sorry, the information you have requested is not available.");
+		return false;
+     }else if(!checkSearchHasValidCharater(searchtxt)){
+        alert("We are sorry, the information you have requested is not available.");
+		return false;
+    } else {
+		return true;
+	}
+}
+function checkSearchHasValidCharater(inString) {
+    var validchars = "abcdefghijklmnopqrstuvwxyz0123456789";
+    var hasValidChar = false;
+
+    for (var i=0; i < inString.length; i++) {
+        var letter = inString.charAt(i).toLowerCase();
+        if (validchars.indexOf(letter) != -1){
+            hasValidChar=true;
+            break;
+        }
+    }
+    return  hasValidChar;
+}
+function Trim(inString){
+  return LTrim(RTrim(inString));
+}
+
+function LTrim(inString){
+  return inString.replace(/^\s+/,'');
+}
+
+function RTrim(inString){
+  return inString.replace(/\s+$/,'');
+}
+
+</script></td>
+		<td class="siteborder"><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="1" border="0"></td>
+	</tr>
+	<tr valign="top">
+		<td class="siteborder"><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="1" border="0"></td>
+		<td width="768" class="contentbg">
+		<!-- Content Block Start -->
+
+
+<table border="0" cellspacing="0" cellpadding="0" width="768">
+	<tbody><tr valign="top">
+		<td class="navheaderbg" width="165">
+			
+
+<script language="javascript">
+	function tdrollover(name,cssClass){
+    	document.getElementById(name).className = cssClass;
+	}
+</script>
+
+<table cellpadding="0" cellspacing="0" border="0">
+
+	<tbody><tr valign="top"><td><img src="/images/us/local/headers/main/custserv_mhd.gif" border="0" alt="Customer Service"></td></tr>
+	<tr valign="top"><td><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="7" border="0"></td></tr>
+
+                    <tr valign="top"><td width="165" class="leftNavOff" id="td232" onmouseover="tdrollover('td232','leftNavRollover');" onmouseout="tdrollover('td232','leftNavOff');"><a href="http://www.territoryahead.com/jump.jsp?itemType=CATEGORY&amp;itemID=232&amp;path=1%2C2%2C195%2C232">Shipping/Processing &amp; Tax</a></td></tr>
+				
+				<tr><td><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="6" border="0"></td></tr>
+
+                    <tr valign="top"><td width="165" class="leftNavOff" id="td235" onmouseover="tdrollover('td235','leftNavRollover');" onmouseout="tdrollover('td235','leftNavOff');"><a href="http://www.territoryahead.com/jump.jsp?itemType=CATEGORY&amp;itemID=235&amp;path=1%2C2%2C195%2C235">FAQ's</a></td></tr>
+				
+				<tr><td><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="6" border="0"></td></tr>
+
+                    <tr valign="top"><td width="165" class="leftNavOff" id="td236" onmouseover="tdrollover('td236','leftNavRollover');" onmouseout="tdrollover('td236','leftNavOff');"><a href="http://www.territoryahead.com/jump.jsp?itemType=CATEGORY&amp;itemID=236&amp;path=1%2C2%2C195%2C236">Contact Us</a></td></tr>
+				
+				<tr><td><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="6" border="0"></td></tr>
+
+                    <tr valign="top"><td width="165" class="leftNavOn" id="td237" onmouseover="tdrollover('td237','leftNavOn');" onmouseout="tdrollover('td237','leftNavOn');"><a href="http://www.territoryahead.com/jump.jsp?itemType=CATEGORY&amp;itemID=237&amp;path=1%2C2%2C195%2C237">Privacy &amp; Security</a></td></tr>
+				
+				<tr><td><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="6" border="0"></td></tr>
+
+                    <tr valign="top"><td width="165" class="leftNavOff" id="td238" onmouseover="tdrollover('td238','leftNavRollover');" onmouseout="tdrollover('td238','leftNavOff');"><a href="http://www.territoryahead.com/jump.jsp?itemType=CATEGORY&amp;itemID=238&amp;path=1%2C2%2C195%2C238">Sizing Charts</a></td></tr>
+				
+				<tr><td><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="6" border="0"></td></tr>
+
+                    <tr valign="top"><td width="165" class="leftNavOff" id="td234" onmouseover="tdrollover('td234','leftNavRollover');" onmouseout="tdrollover('td234','leftNavOff');"><a href="http://www.territoryahead.com/jump.jsp?itemType=CATEGORY&amp;itemID=234&amp;path=1%2C2%2C195%2C234">Returns/Exchanges</a></td></tr>
+				
+				<tr><td><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="6" border="0"></td></tr>
+
+                    <tr valign="top"><td width="165" class="leftNavOff" id="td239" onmouseover="tdrollover('td239','leftNavRollover');" onmouseout="tdrollover('td239','leftNavOff');"><a href="http://www.territoryahead.com/jump.jsp?itemType=CATEGORY&amp;itemID=239&amp;path=1%2C2%2C195%2C239">Gift Certificates</a></td></tr>
+				
+				<tr><td><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="6" border="0"></td></tr>
+
+                    <tr valign="top"><td width="165" class="leftNavOff" id="td240" onmouseover="tdrollover('td240','leftNavRollover');" onmouseout="tdrollover('td240','leftNavOff');"><a href="http://www.territoryahead.com/jump.jsp?itemType=CATEGORY&amp;itemID=240&amp;path=1%2C2%2C195%2C240">Gift Boxing</a></td></tr>
+				
+				<tr><td><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="6" border="0"></td></tr>
+
+                    <tr valign="top"><td width="165" class="leftNavOff" id="td241" onmouseover="tdrollover('td241','leftNavRollover');" onmouseout="tdrollover('td241','leftNavOff');"><a href="http://www.territoryahead.com/jump.jsp?itemType=CATEGORY&amp;itemID=241&amp;path=1%2C2%2C195%2C241">About Us</a></td></tr>
+				
+				<tr><td><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="6" border="0"></td></tr>
+
+                    <tr valign="top"><td width="165" class="leftNavOff" id="td242" onmouseover="tdrollover('td242','leftNavRollover');" onmouseout="tdrollover('td242','leftNavOff');"><a href="http://www.territoryahead.com/jump.jsp?itemType=CATEGORY&amp;itemID=242&amp;path=1%2C2%2C195%2C242">Our Stores</a></td></tr>
+				
+				<tr><td><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="6" border="0"></td></tr>
+
+</tbody></table>
+<table border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr><td></td></tr>
+</tbody></table>
+		</td>
+		<td><table width="603" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td width="20"><img src="/images/us/local/page_specific/customerservice/transparent.gif" width="20" height="1"></td>
+<td width="550" align="left" valign="top">
+<!-- TemplateBeginEditable name="Edit_Content" -->
+<table width="550" border="0" cellpadding="3">
+<tbody><tr>
+<td align="left" valign="top"><img src="/images/us/local/page_specific/customerservice/Title_yourprivacyrights.gif" width="300" height="35"><br>
+ <strong class="colorlesssub_subheader">We Respect Your
+Privacy</strong><br>
+ <span class="default">It is customary for direct marketing
+companies like The Territory Ahead/Isabella Bird to share customer
+information (name and address) with other reputable firms for
+purposes of sending you relevant catalog, magazine, or fundraising
+offers in the mail. You have the right to choose not to receive
+such information from other direct marketing firms. Furthermore,
+you may want to know what information we collect online from
+customer transactions and how we use it. Our privacy policy below
+explains our name removal procedure ("opt out"), data collection
+practices, and other pertinent security information.</span> 
+<p><strong class="colorlesssub_subheader">Our Privacy
+Policy</strong><br>
+ <span class="default">(Updated October 10, 2005) The Territory
+Ahead, Inc. sells apparel and accessories under The Territory Ahead
+and Isabella Bird brand names through its own catalogs, online web
+sites (territoryahead.com; isabellabird.com), via HSN TV, HSN.com,
+and our retail stores. We share our customer list (excluding
+customers of HSN TV, HSN.com, and our retail stores) with carefully
+screened companies whose products and services may interest you.
+Individual information shared consists of name and address;
+aggregate information shared may include range of dollars spent,
+date range of transaction, and type of clothing purchased (e.g.,
+men’s versus women’s clothing). We do not share
+customer telephone number or email address with outside companies.
+Our list is not available for telemarketing.</span></p>
+
+<p><strong class="colorlesssub_subheader">Name Removal Procedure
+("Opt Out")</strong> <span class="default"><br>
+ If you do not wish to receive mailings from these other companies
+with whom we share customer lists, or do not wish to receive our
+catalogs, please contact us by phone, email, or mail. Provide your
+exact name and address as it appears on your catalog to ensure
+accuracy, and indicate your catalog preferences.</span></p>
+
+<p><strong class="colorlesssub_subheader">Information We Collect
+Online</strong> <span class="default"><br>
+ Transaction information and email addresses We collect only the
+minimum information necessary to complete your order online; this
+is the same information required to complete telephone orders
+— name, billing and shipping address, telephone number, and
+payment information. We require customer email address for online
+orders so that we may notify you of your order status or
+merchandise return status. Additionally, we may send you emails
+promoting our products, announcing periodic sales, and offering
+other special limited-time discounts such as free shipping that may
+be used by online customers.</span></p>
+
+<p><strong class="colorlesssub_subheader">Email Removal Procedure
+("Opt Out")</strong><br>
+ <span class="default">We do not share customer email addresses
+with other companies for direct marketing purposes. However, if you
+do not wish to receive promotional mailings from territoryahead.com
+or isabellabird.com, you will have the option to opt out upon
+receipt of your next promotional email, or <a href="/subscribemain.jsp?action=0">you can unsubscribe
+here.</a>
+</span></p>
+
+<p class="defaultbold"><strong>Our company contact points:<br>
+ Toll Free: 1-800-737-5754<br>
+ Email: customerservice@territoryahead.com<br>
+ Mail: The Territory Ahead<br>
+ Attn: Customer Service<br>
+ 419 State St<br>
+ Santa Barbara, CA 93101-2304</strong></p>
+
+<p class="default">The Territory Ahead is a member of the Direct
+Marketing Association (DMA), and follows DMA privacy guidelines.
+The DMA’s Mail Preference Service reduces the availability of
+your name and address to many other direct marketing companies. To
+learn more, click on www.dmaconsumers.org</p>
+
+<p><strong class="colorlesssub_subheader">Cookies and Pixel
+Tags</strong><br>
+ <span class="default">A cookie is a small data file that is sent
+by a web server (in this case, our servers) to your computer. We
+use cookies to save your shopping cart items for up to two weeks
+should you leave our site prior to order checkout. Also, we use
+cookies to activate email promotions such as free shipping and
+order discounts once you click through to our web site. This
+enables you to automatically receive the promotion during the
+online order transaction.</span></p>
+
+<span class="default">Pixel tags, or web beacons, are 1 x 1 picture
+elements that are placed on a web site or in an email to monitor
+user actions. We use pixel tags in promotional emails to monitor
+aggregate statistics such as the percentage of promotional emails
+that get opened, clicked through, etc. Also, we use pixel tags on
+our site to monitor aggregate traffic volume (visits and visitors)
+by time of day, to summarize visitor navigation paths on our site
+(clickstreams), to track visitor ISP domains, and to track types of
+web browsers visitors use to access our site. This information is
+used to make it easier to get around our site, shop, checkout, and
+in general to ensure that our site functions as intended.</span> <p>
+</p></td>
+</tr>
+</tbody></table>
+
+
+<table width="550" border="0" cellpadding="3">
+<tbody><tr>
+<td align="left" valign="top"><img src="/images/us/local/page_specific/customerservice/Title_yoursecurity.gif" width="300" height="35"><br>
+ <span class="default">The Territory Ahead site is authenticated by
+VeriSign. Through the use of a Secure Server ID, VeriSign ensures
+that your shopping and billing information is encrypted and
+therefore protected from unauthorized users. To learn more about
+VeriSign's Digital ID Service, click on the VeriSign
+icon.</span><p>
+<table width="135" border="0" cellpadding="2" cellspacing="0">
+<tbody><tr>
+<td width="135" align="center" valign="top"><script src="https://seal.verisign.com/getseal?host_name=www.territoryahead.com&amp;size=M&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script></td>
+</tr>
+<tr>
+<td width="135"></td>
+</tr>
+</tbody></table>
+
+</p></td>
+</tr>
+</tbody></table>
+
+<!-- TemplateEndEditable --></td>
+<td width="33"><img src="/images/us/local/page_specific/customerservice/transparent.gif" width="33" height="1"></td>
+</tr>
+</tbody></table>
+</td>
+	</tr>
+</tbody></table>
+
+<!-- Content Block End -->
+	</td>
+	<td class="siteborder"><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="1" border="0"></td>
+</tr>
+<tr valign="top">
+	<td class="siteborder"><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="1" border="0"></td>
+	<td align="center" class="navfooterbg">
+<table border="0" width="768" cellpadding="0" cellspacing="0">
+
+<tbody><tr>
+	<td class="navfooterrule"><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="1" border="0"></td>
+</tr>
+<!-- placeholder spacer in footer -->
+<tr>
+	<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="1" border="0"></td>
+</tr>
+<!-- end placeholder spacer in footer -->
+<tr valign="top">
+	<td><table border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr valign="top">
+			<td class="navfooterbg1">
+				<div><img src="/images/us/global/globalgraphics/spacer01.gif" width="164" height="7" border="0"></div>
+				<div><table border="0" cellspacing="0" cellpadding="0">
+					<tbody><tr valign="top">
+						<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="9" height="1" border="0"></td>
+						<form method="post" action="http://www.territoryahead.com/subscribemain.jsp?action=1"></form>
+						<td>
+							<div><img src="/images/us/global/globalgraphics/emailsignup.gif" border="0" alt="Join Our Email List"></div>
+							<div><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="5" border="0"></div>
+							<div><input name="email" type="text" value="Your Email Address" maxlength="50" size="12" class="navemailbox" onfocus="if(this.value=='Your Email Address')this.value='';" onfocusout="if(this.value=='')this.value='Your Email Address';"></div>
+							<div><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="7" border="0"></div>
+							<div><input type="Image" name="emailSubmit" src="/images/us/global/globalgraphics/emailsignup_btn.gif" border="0" alt="Sign Up"></div>
+							<div><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="9" border="0"></div>
+						</td>
+					</tr>
+				</tbody></table></div>
+			</td>
+			<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="1" border="0"></td>
+			<td class="navfooterbg2" align="center" valign="top">
+				<div><img src="/images/us/global/globalgraphics/spacer01.gif" width="137" height="7" border="0"></div>
+				<div class="footer"><a href="http://www.isabellabird.com" target="_new"><i>Visit our exclusive women's collection</i></a></div>
+				<div><img src="/images/us/global/globalgraphics/spacer01.gif" width="137" height="7" border="0"></div>
+				<div><img src="/images/us/global/globalgraphics/isabellabird.gif" border="0"></div>
+			</td>
+			<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="1" border="0"></td>
+			<td class="navfooterbg3">
+				<div><img src="/images/us/global/globalgraphics/spacer01.gif" width="465" height="7" border="0"></div>
+				<div><table border="0" cellspacing="0" cellpadding="0">
+					<tbody><tr>
+						<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="15" height="1" border="0"></td>
+						<td>
+							<div class="footer">
+								<a href="http://www.territoryahead.com/content/sitemap/sitemapmain.jsp">Site Map</a> | <a href="http://www.territoryahead.com/jump.jsp?itemType=CATEGORY&amp;itemID=236&amp;path=1%2C2%2C195%2C236">Contact Us</a> | <a href="http://www.territoryahead.com/catalogrequest/catalogrequestmain.jsp">FREE Catalog</a> | <a href="http://www.territoryahead.com/jump.jsp?itemType=CATEGORY&amp;itemID=241&amp;path=1%2C2%2C195%2C241">About Us</a> | <a href="http://www.territoryahead.com/jump.jsp?itemType=CATEGORY&amp;itemID=242&amp;path=1%2C2%2C195%2C242">Our Stores</a>
+							</div>
+							<div><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="3" border="0"></div>
+							<div class="footer">
+								<a href="http://www.territoryahead.com/jump.jsp?itemID=197&amp;itemType=GATEWAY&amp;path=1%2C2%2C196%2C197">Gift Certificates</a> | <a href="http://www.territoryahead.com/jump.jsp?itemType=CATEGORY&amp;itemID=237&amp;path=1%2C2%2C195%2C237">Your Privacy Rights</a> | <a href="http://www.territoryahead.com/jump.jsp?itemID=195&amp;itemType=CATEGORY&amp;path=1%2C3%2C195">100% Guaranteed</a>
+							</div>
+							<div><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="3" border="0"></div>
+							<div class="copyright">©2006 The Territory Ahead</div>
+						</td>
+					</tr>
+				</tbody></table></div>
+			</td>
+		</tr>
+	</tbody></table></td>
+</tr>
+</tbody></table>
+<!-- Footer End -->
+
+<!-- Omniture Reporting Support -->
+
+
+<script type="text/javascript" src="/includes/s_code.js"></script><img name="s_i_mlTTAprod" height="1" width="1" border="0" alt="" src="https://marketlive.122.2O7.net/b/ss/mlTTAprod/1/H.1-Pdv-2/s95124883740702?[AQB]&amp;ndh=1&amp;t=30/0/2020%203%3A41%3A5%204%200&amp;ns=marketlive&amp;pageName=Product%20Groups/Customer%20Service/Privacy%20%26%20Security&amp;g=https%3A//web.archive.org/web/20060417183736id_/http%253A//www.territoryahead.com/jump.jsp%253FitemType%253DCATEGORY%2526itemID%253D237%2526path%253D1%25252C2%25252C195%25252C237&amp;cc=USD&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+<script>s.pageName='Product Groups/Customer Service/Privacy & Security';
+</script>
+<script>s_code=s.t();if(s_code)document.write(s_code);</script>
+
+<!-- End, Omniture Reporting Support -->
+
+<!-- MilonicDHTML -->
+<!-- Intelligent Reporting Support -->
+
+
+
+
+
+
+<!-- Intelligent Reporting Support End --></td>
+	<td class="siteborder"><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="1" border="0"></td>
+</tr>	  
+<tr><td colspan="3" class="siteborder"><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="1" border="0"></td></tr>
+<tr><td colspan="3"><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="10" border="0"></td></tr>
+<tr><td colspan="3"><table border="0" cellspacing="0" cellpadding="0" align="center">
+	<tbody><tr><td><div class="partnersites">Partner sites:&nbsp;&nbsp;&nbsp;<a href="http://www.frontgate.com" target="_blank">Frontgate</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.ballarddesigns.com" target="_blank">Ballard Designs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.garnethill.com" target="_blank">Garnet Hill</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.smithandnoble.com" target="_blank">Smith &amp; Noble</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.hsn.com" target="_blank">HSN</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.citysearch.com" target="_blank"> City Search </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.evite.com" target="_blank">Evite</a></div></td></tr>
+	<tr><td><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="10" border="0"></td></tr>
+	
+	
+</tbody></table></td></tr>
+</tbody></table>	
+<!-- Content Wrap End -->
+
+
+
+
+
+
+</body></html>
