@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the dll-files.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220062959id_/http%3A//dll-files.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dll-files.com privacy policy that was archived on 2006-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060417200207id_/http%3A//www.dll-files.com/privacy.shtml) for the most accurate reproduction.*
 
 # DLL-files.com - Privacy Policy
-
-| 
 
 We have a special Privacy Policy at our 24/7 Livesupport. [Privacy Policy for 24/7 Live Computer Support](http://www.liverepair.com/customization/LSC-1-55/tekdesk/privacy.asp). 
 
 This is the web site of **www.dll-files.com**.
 
-To see the different ways to contact us, go to [Contact us](https://web.archive.org/web/20051220062959id_/http%3A//dll-files.com/contact.php)
+To see the different ways to contact us, go to [Contact us](https://web.archive.org/web/20060417200207id_/http%3A//www.dll-files.com/contact.php)
 
 For each visitor to our Web page, our Web server automatically recognizes the following:
 
@@ -20,7 +18,7 @@ With respect to cookies: We do not set any cookies.
 
 If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
 
-From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by [Contact us](https://web.archive.org/web/20051220062959id_/http%3A//dll-files.com/contact.php).
+From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by [Contact us](https://web.archive.org/web/20060417200207id_/http%3A//www.dll-files.com/contact.php).
 
 From time to time, we make our _customer_ e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above.
 
@@ -36,17 +34,6 @@ Consumers can have this information corrected by writing to us at the above addr
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>.
 
-| DLL-files.com recommends you:  
----  
-[](http://www.dll-files.com/ad_out.php?annonsId=41)
-
-Price: 
-
-$29.95 | **Registry Mecanic  
-The most popular registry cleaner!**
-
-With Registry Mechanic you can safely clean, repair and optimize the Windows registry with a few simple mouse clicks! Problems with the Windows registry are a common cause of Windows crashes, slow performance and error messages. By using a registry cleaner regularly and fixing registry errors your system should not only be more stable but it will also help improve your system performance without expensive hardware upgrades.  
   
-[List all available products >>](https://web.archive.org/software.shtml)  
   
 [Join the Click4Click Banner Exchange!](http://www.click4click.com/cgi-bin/ref.cgi?r=webmaster@dll-files.com)
