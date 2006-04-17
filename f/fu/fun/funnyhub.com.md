@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funnyhub.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218031050id_/http%3A//funnyhub.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnyhub.com privacy policy that was archived on 2006-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060417191413id_/http%3A//www.funnyhub.com/privacy.html) for the most accurate reproduction.*
 
 # Funny Hub - Privacy Policy
 
@@ -12,4 +12,4 @@ The advertisements on FunnyHub.com are provided by both direct advertisers and t
 
 While FunnyHub.com will make every effort to prevent ads that contain spyware, adware, or other malicious programs (such as drive-by-downloads) we cannot always guarantee their exclusion due to the third-party nature of online advertising.
 
-If you have any privacy concerns, please contact us [here](https://web.archive.org/web/20051218031050id_/http%3A//funnyhub.com/contact.html). 
+If you have any privacy concerns, please contact us [here](https://web.archive.org/web/20060417191413id_/http%3A//www.funnyhub.com/contact.html). 
