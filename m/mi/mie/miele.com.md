@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the miele.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219214138id_/http%3A//www.miele.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miele.com privacy policy that was archived on 2006-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060417222000id_/http%3A//www.miele.com/privacy.asp) for the most accurate reproduction.*
 
-# Miele, Inc.: Your Privacy
+# Privacy Policy: Miele, Inc.: Your Privacy
 
 |    |  |     
 ---  
@@ -81,4 +81,7 @@ To do so, contact the [webmaster](http://www.miele.com/emailtomiele/emailusform.
 If you have any questions or suggestions, please contact the [webmaster](http://www.miele.com/emailtomiele/emailusform.asp?contact_dept_id=4&toemail=webmastr%40mieleusa%2Ecom&dept_name=Webmaster).   
 [ Top ](https://web.archive.org/privacy.asp?bhcp=1#topOfPage)
 
-Last updated: August 8th, 2005. 
+Last updated: August 8th, 2005.   
+  
+  |  |     
+---|---|---
