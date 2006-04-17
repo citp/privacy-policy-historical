@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cosmopal.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228062648id_/http%3A//cosmopal.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosmopal.com privacy policy that was archived on 2006-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060417184148id_/http%3A//cosmopal.com/privacy.php) for the most accurate reproduction.*
 
 # CosmoPal
 
@@ -6,7 +6,7 @@ CosmoPal members
 [ ](https://www.cosmopal.com/login.php)
 
 New user?  
-[ ](https://www.cosmpal.com/sign_up.php)
+[ ](https://www.cosmopal.com/sign_up.php)
 
 |  | The Privacy Policy below governs your CosmoPal account and any information you provide on this site. If you apply for a CosmoPal VISA © credit card (available in the U.S. only), you authorize CosmoPal and Providian National Bank (which is the issuer of the CosmoPal VISA card) to exchange the information you provide in the application form. If you are approved for a CosmoPal VISA credit card, your credit card account will be governed by the Providian Privacy Policy.
 
@@ -20,7 +20,7 @@ B. Information We Collect
 C. Our Use and Disclosure of Information  
 D. Information Security  
 E. Accessing and Changing Your Information  
-F. [Contacting Us](https://web.archive.org/web/20051228062648id_/http%3A//cosmopal.com/contact_us.php)
+F. [Contacting Us](https://web.archive.org/web/20060417184148id_/http%3A//cosmopal.com/contact_us.php)
 
 * * *
 
@@ -41,7 +41,7 @@ Additionally, in order to enhance the protection of your privacy and our complia
   6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under CosmoPal's control.
   7. How you can correct any inaccuracies in the information.
 
-If you have questions or concerns regarding this Privacy Policy, you should first contact CosmoPal using [this form](https://web.archive.org/web/20051228062648id_/http%3A//cosmopal.com/contact_us.php). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe [www.truste.org/users/users_watchdog.html](http://www.truste.org/users/users_watchdog.html). TRUSTe will then serve as a liaison with CosmoPal to resolve your concerns. 
+If you have questions or concerns regarding this Privacy Policy, you should first contact CosmoPal using [this form](https://web.archive.org/web/20060417184148id_/http%3A//cosmopal.com/contact_us.php). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe [www.truste.org/users/users_watchdog.html](http://www.truste.org/users/users_watchdog.html). TRUSTe will then serve as a liaison with CosmoPal to resolve your concerns. 
 
 By accepting the Privacy Policy and User Agreement in registration, you expressly consent to our use and disclosure of your personal information in the manner described in this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the CosmoPal User Agreement. This Privacy Policy will take effect on March 4, 2003. This Privacy Policy was last updated on October 10, 2003. 
 
@@ -159,7 +159,7 @@ By entering into our User Agreement, you agree that, with respect to other users
 
 In all cases, you must provide users with the opportunity to remove themselves from your database and review any information you have collected about them. In addition, under no circumstances, except as defined in this Section, can you disclose personally identifiable information about another CosmoPal user to any third party without our consent and the consent of such other user after adequate disclosure. Note that law enforcement personnel and other rights holders are given different rights with respect to information they access. 
 
-CosmoPal does not tolerate spam. Therefore, without limiting the foregoing, you may not add a CosmoPal user to your mail list (email or physical mail) without their express consent after adequate disclosure, even if said user has previously made a purchase from you. We strictly enforce our Anti-Spam Policy! To report CosmoPal-related spam to CosmoPal, please [contact us](https://web.archive.org/web/20051228062648id_/http%3A//cosmopal.com/contact_us.php).
+CosmoPal does not tolerate spam. Therefore, without limiting the foregoing, you may not add a CosmoPal user to your mail list (email or physical mail) without their express consent after adequate disclosure, even if said user has previously made a purchase from you. We strictly enforce our Anti-Spam Policy! To report CosmoPal-related spam to CosmoPal, please [contact us](https://web.archive.org/web/20060417184148id_/http%3A//cosmopal.com/contact_us.php).
 
 Merchant Referral Program  
 When you sign up for a CosmoPal account, you become eligible to participate in our Merchant Referral Bonus program. We provide you with a link on the Merchant Referral Bonus page which identifies you as the referrer. If a merchant uses that link to sign up for a Premier or Business CosmoPal account and completes the bonus requirements, you are eligible for a referral bonus. If you use a referral link to sign up, your business name (if you have a Business account) or first and last name (if you have a Premier account) may be listed in the referrer's CosmoPal account, along with the amount of bonus you have generated for the referrer, which is calculated as a percentage of your transaction volume, as described in the Merchant Referral Bonus Policy.
@@ -199,6 +199,6 @@ You can review the personal information you provided us and make any desired cha
   
 F. Contacting Us
 
-If you have any questions about this privacy statement, CosmoPal's information practices, or your dealings with CosmoPal, you can contact us using [this form](https://web.archive.org/web/20051228062648id_/http%3A//cosmopal.com/contact_us.php), call 402-935-7733 Monday through Friday between the hours of 4am and 10pm PST, or write us at CosmoPal, 2078 Third Street, Mandeville, LA 70471. 
+If you have any questions about this privacy statement, CosmoPal's information practices, or your dealings with CosmoPal, you can contact us using [this form](https://web.archive.org/web/20060417184148id_/http%3A//cosmopal.com/contact_us.php), call 402-935-7733 Monday through Friday between the hours of 4am and 10pm PST, or write us at CosmoPal, 2078 Third Street, Mandeville, LA 70471. 
 
 With respect to our privacy practices as a financial institution and our compliance with this Privacy Policy, CosmoPal is regulated by the Federal Trade Commission (FTC). You can obtain information about the FTC at [http://www.ftc.gov](http://www.ftc.gov/).
