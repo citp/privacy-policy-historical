@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aspspider.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210100439id_/http%3A//www.aspspider.com/team/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aspspider.com privacy policy that was archived on 2006-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060418011121id_/http%3A//www.aspspider.com/team/Privacy.aspx) for the most accurate reproduction.*
 
 # aspspider.net Privacy Policy
 
@@ -32,3 +32,6 @@ We use advertisements from third party companies. We try to avoid any kind of of
 As we continue to develop and grow our web site, we may sell aspspider.net or part of it. In such transactions, member information generally is one of the transferred business assets. 
 
 If you have any questions, please write to [ webmaster-1@aspspider.net](mailto:webmaster-1@aspspider.net?subject=privacy%20policy). 
+
+  
+
