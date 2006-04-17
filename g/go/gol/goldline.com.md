@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldline.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231210232id_/http%3A//goldline.com/about-goldline/goldline-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldline.com privacy policy that was archived on 2006-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060417183953id_/http%3A//goldline.com/about-goldline/goldline-privacy-policy.html) for the most accurate reproduction.*
 
 # Goldline International - Goldline International, Inc Privacy Policy
 
@@ -18,7 +18,7 @@ If you need to update any email address information you've previously submitted 
   5. **How to Contact Us**  
 If you have any questions or concerns about this privacy policy, please contact us at [info@goldline.com](mailto:info@goldline.com) or call Goldline at 1-800-827-4653.
   6. **Image Protection  
-**The images on this website are the property of Goldline International, Inc. and cannot be used without prior written authorization. [Read our terms of use to learn more.](https://web.archive.org/web/20051231210232id_/http%3A//goldline.com/about-goldline/goldline-terms-of-use.html)
+**The images on this website are the property of Goldline International, Inc. and cannot be used without prior written authorization. [Read our terms of use to learn more.](https://web.archive.org/web/20060417183953id_/http%3A//goldline.com/about-goldline/goldline-terms-of-use.html)
 
 |   
 ---|---|---|---
