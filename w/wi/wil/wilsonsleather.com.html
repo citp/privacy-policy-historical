@@ -1,14 +1,25 @@
-<!--The following is the downloaded HTML source of the wilsonsleather.com privacy policy that was archived on 2005-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051212151948id_/http%3A//www.wilsonsleather.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dfooter_privacyPolicy_img) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wilsonsleather.com privacy policy that was archived on 2006-04-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060417203257id_/http%3A//www.wilsonsleather.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dfooter_privacyPolicy_img) for the most accurate reproduction.-->
 
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 
 
 	<title>Wilsons Leather Customer Care</title>
 	<script language="Javascript">
+function trimString (str) {
+  while (str.charAt(0) == ' ')
+    str = str.substring(1);
+  while (str.charAt(str.length - 1) == ' ')
+    str = str.substring(0, str.length - 1);
+  return str;
+}
+
+
 function emailCheck(type) // not sure if anybody uses this, but just in case i'm leaving it functional
 {
-    if (!validateEmail(document.emailForm.emailAddress.value))
+ var email = trimString(document.emailForm.emailAddress.value);
+
+    if (!validEmail(email))
 	{
         alert('Please enter a valid e-mail address.');
         return false;
@@ -91,7 +102,7 @@ GSi Commerce, Inc.
 var DIV_NAME = 'subtext'; //name of div on page (submenu text)
 var TIMEOUT_DELAY = 5000; //timeout delay in milliseconds when no menu activity exists
 var TRIGGER_ON_DELAY = 250; //mouseover delay in milliseconds from mouseover main menu option to another option
-var MENU_OPTIONS = 8; //number of main menu options
+var MENU_OPTIONS = 9; //number of main menu options
 
 
 //local variables
@@ -185,57 +196,57 @@ function writeSubnav(name, message) {
  if (document.images) {
 
 		image1on = new Image();
-		image1on.src = "/images/women_on_new.gif";
+		image1on.src = "http://WIL.imageg.net/images/women_on_0214.gif";
 		image2on = new Image();
-		image2on.src = "/images/men_on_new.gif";
+		image2on.src = "http://WIL.imageg.net/images/men_on_0214.gif";
 		image3on = new Image();
-		image3on.src = "/images/kids_on_new.gif";
+		image3on.src = "http://WIL.imageg.net/images/kids_on_0214.gif";
 		image4on = new Image();
-		image4on.src = "/images/extended_sizes_on_new.gif";
+		image4on.src = "http://WIL.imageg.net/images/extended_sizes_on_0214.gif";
 		image5on = new Image();
-		image5on.src = "/images/pets_on_new.gif";
+		image5on.src = "http://WIL.imageg.net/images/pets_on_0214.gif";
 		image6on = new Image();
-		image6on.src = "/images/handbags_on_new.gif";
+		image6on.src = "http://WIL.imageg.net/images/handbags_on_0214.gif";
 		image7on = new Image();
-		image7on.src = "/images/accessories_on_new.gif";
+		image7on.src = "http://WIL.imageg.net/images/accessories_on_0214.gif";
 		image8on = new Image();
-		image8on.src = "/images/business_travel_on_new.gif";
+		image8on.src = "http://WIL.imageg.net/images/business_travel_on_0214.gif";
 		image9on = new Image();
-		image9on.src = "/images/home_goods_on.gif";
+		image9on.src = "http://WIL.imageg.net/images/home_goods_on_0214.gif";
 		
 		image1off = new Image(); 
-		image1off.src = "/images/women_new.gif"; 
+		image1off.src = "http://WIL.imageg.net/images/women_0214.gif"; 
 		image2off = new Image(); 
-		image2off.src = "/images/men_new.gif";
+		image2off.src = "http://WIL.imageg.net/images/men_0214.gif";
 		image3off = new Image();
-		image3off.src = "/images/kids_new.gif";
+		image3off.src = "http://WIL.imageg.net/images/kids_0214.gif";
 		image4off = new Image();
-		image4off.src = "/images/extended_sizes_new.gif";
+		image4off.src = "http://WIL.imageg.net/images/extended_sizes_0214.gif";
 		image5off = new Image();
-		image5off.src = "/images/pets_new.gif";
+		image5off.src = "http://WIL.imageg.net/images/pets_0214.gif";
 		image6off = new Image();
-		image6off.src = "/images/handbags_new.gif";
+		image6off.src = "http://WIL.imageg.net/images/handbags_0214.gif";
 		image7off = new Image();
-		image7off.src = "/images/accessories_new.gif";
+		image7off.src = "http://WIL.imageg.net/images/accessories_0214.gif";
 		image8off = new Image();
-		image8off.src = "/images/business_travel_new.gif";
+		image8off.src = "http://WIL.imageg.net/images/business_travel_0214.gif";
 		image9off = new Image();
-		image9off.src = "/images/home_goods.gif";
+		image9off.src = "http://WIL.imageg.net/images/home_goods_0214.gif";
 		
 		//new topnav
 		image1on_s = new Image();
-		image1on_s.src = "/images/team_store_on_s.jpg";
+		image1on_s.src = "http://WIL.imageg.net/images/team_store_on_s.jpg";
 		image2on_s = new Image();
-		image2on_s.src = "/images/gift_center_on_s.jpg";
+		image2on_s.src = "http://WIL.imageg.net/images/gift_center_on_s.jpg";
 		image3on_s = new Image();
-		image3on_s.src = "/images/clearance_on_s.jpg";
+		image3on_s.src = "http://WIL.imageg.net/images/clearance_on_s.jpg";
 		
 		image1off_s = new Image();
-		image1off_s.src = "/images/team_store_s.jpg";
+		image1off_s.src = "http://WIL.imageg.net/images/team_store_s.jpg";
 		image2off_s = new Image();
-		image2off_s.src = "/images/gift_center_s.jpg";
+		image2off_s.src = "http://WIL.imageg.net/images/gift_center_s.jpg";
 		image3off_s = new Image();
-		image3off_s.src = "/images/clearance_s.jpg";
+		image3off_s.src = "http://WIL.imageg.net/images/clearance_s.jpg";
 
 }
 
@@ -289,9 +300,47 @@ function changeSub(picName,imgName)
       document[picName].src= d_imgOn;
     }
  }
+//email capture functions 
+function showDiv() {
+   document.getElementById("email_inner").style.display = '';
+}
+function hideDiv() {
+  document.getElementById("email_inner").style.display = 'none';
+}
+function findcenter() {
+var pagewidth = document.body.clientWidth/2 + 92;
+document.getElementById('email_inner').style.left = pagewidth;
+} 
 </script>
 
 
+<!-- email capture -->
+<div id="email_inner" name="email_inner" style="display: none; left: 775px;">
+<table cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+	<td bgcolor="#E0E3EA">
+	<table width="288" border="0" cellpadding="0" cellspacing="0" style="border:1px solid #333333;">
+		<tbody><tr>
+			<td>
+				<img src="http://WIL.imageg.net/images/WIL_emailcapture_onJ_01.gif" width="288" height="26" border="0" usemap="#x_emailcapture"></td>
+		</tr>
+		<tr>
+			<td style="padding:10px 14px;">
+			<iframe name="email" src="../include/entry.jsp" width="260" height="370" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe></td>
+		</tr>
+		<tr>
+			<td>
+				<img src="http://WIL.imageg.net/images/spacer.gif" border="0" width="1" height="3"></td>
+		</tr>		
+	</tbody></table>
+	</td>
+</tr>
+</tbody></table>
+</div>
+<map name="x_emailcapture">
+<area shape="rect" alt="" coords="185,6,284,20" href="javascript:hideDiv('email_inner');">
+</map>
+<!-- /email capture -->
 <table cellpadding="0" cellspacing="0" border="0" width="763" align="center">
 <tbody><tr>
 	<td height="7" bgcolor="#C8C8C8"><img src="http://WIL.imageg.net/images/pixel.gif" width="1" height="7"></td>
@@ -325,17 +374,17 @@ function changeSub(picName,imgName)
 		</tbody></table> 
 		<table cellpadding="0" cellspacing="0" border="0" width="763" align="center" bgcolor="#FFFFFF">
 		<tbody><tr>
-		  <td align="center"><a href="/shop/index.jsp?categoryId=2096379" onmouseover="changeSub('img1','image1on_s');" onmouseout="changeSub('img1','image1off_s')"><img src="http://WIL.imageg.net/images/team_store_s.jpg" name="img1" border="0"></a><a href="/shop/index.jsp?categoryId=1842139" onmouseover="changeSub('img2','image2on_s');" onmouseout="changeSub('img2','image2off_s')"><img src="http://WIL.imageg.net/images/gift_center_s.jpg" name="img2" border="0"></a><a href="/category/index.jsp?categoryId=1855947" onmouseover="changeSub('img3','image3on_s');" onmouseout="changeSub('img3','image3off_s')"><img src="http://WIL.imageg.net/images/clearance_s.jpg" name="img3" border="0"></a></td>
+		  <td align="center"><a href="/shop/index.jsp?categoryId=2096379" onmouseover="changeSub('img1','image1on_s');" onmouseout="changeSub('img1','image1off_s')"><img src="http://WIL.imageg.net/images/team_store_s.jpg" name="img1" border="0"></a><a href="/shop/index.jsp?categoryId=1842139" onmouseover="changeSub('img2','image2on_s');" onmouseout="changeSub('img2','image2off_s')"><img src="http://WIL.imageg.net/images/gift_center_s.jpg" name="img2" border="0"></a><a href="/category/index.jsp?categoryId=1855947" onmouseover="changeSub('img3','image3on_s');" onmouseout="changeSub('img3','image3off_s')"><img src="http://WIL.imageg.net/images/clearance_s.jpg" name="img3" border="0"></a><a href="javascript:showDiv('email_inner');"><img src="http://WIL.imageg.net/images/get_email_updates.gif" border="0" width="173" height="15"></a></td>
 		</tr>
 		</tbody></table>
 		<table cellpadding="0" cellspacing="0" border="0" width="763" align="center" bgcolor="#E0E3EA">
 		<tbody><tr>
-				<td height="30"><a href="/shop/index.jsp?categoryId=1855603" onmouseout="delayOff(image1);" onmouseover="triggerDelay(1,'&nbsp;&nbsp;&nbsp;&nbsp;<font class=nav><a onmouseover=imgOn(image1) onmouseout=delayOff(image1) href=/family/index.jsp?categoryId=2066927&amp;cp=1855603 class=nav>Womens Hot Picks</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image1) onmouseout=delayOff(image1) href=/family/index.jsp?categoryId=2013549&amp;cp=1855603 class=nav>View All Jackets</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image1) onmouseout=delayOff(image1) href=/category/index.jsp?categoryId=2013553&amp;cp=1855603 class=nav>Jackets</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image1) onmouseout=delayOff(image1) href=/family/index.jsp?categoryId=2013616&amp;cp=1855603 class=nav>Womens Cycle</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image1) onmouseout=delayOff(image1) href=/family/index.jsp?categoryId=1995935&amp;cp=1855603 class=nav>Suede</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image1) onmouseout=delayOff(image1) href=/family/index.jsp?categoryId=1995936&amp;cp=1855603 class=nav>Womens NASCAR®</a></font>')"><img src="http://WIL.imageg.net/images/women_new.gif" name="image1" height="30" border="0"></a><a href="/shop/index.jsp?categoryId=1855604" onmouseout="delayOff(image2);" onmouseover="triggerDelay(2,'&nbsp;&nbsp;&nbsp;&nbsp;<font class=nav><a onmouseover=imgOn(image2) onmouseout=delayOff(image2) href=/family/index.jsp?categoryId=2066926&amp;cp=1855604 class=nav>Mens Hot Picks</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image2) onmouseout=delayOff(image2) href=/family/index.jsp?categoryId=2013496&amp;cp=1855604 class=nav>View All Jackets</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image2) onmouseout=delayOff(image2) href=/category/index.jsp?categoryId=2013488&amp;cp=1855604 class=nav>Jackets</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image2) onmouseout=delayOff(image2) href=/family/index.jsp?categoryId=2011943&amp;cp=1855604 class=nav>Mens Cycle</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image2) onmouseout=delayOff(image2) href=/family/index.jsp?categoryId=2112314&amp;cp=1855604 class=nav>Mens NASCAR®</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image2) onmouseout=delayOff(image2) href=/category/index.jsp?categoryId=1855607&amp;cp=1855604 class=nav>Accessories</a></font>')"><img src="http://WIL.imageg.net/images/men_new.gif" height="30" name="image2" border="0"></a><a href="/category/index.jsp?categoryId=1855605" onmouseout="delayOff(image3);" onmouseover="triggerDelay(3,'&nbsp;&nbsp;&nbsp;&nbsp;<font class=nav><a onmouseover=imgOn(image3) onmouseout=delayOff(image3) href=/family/index.jsp?categoryId=1831970&amp;cp=1855605 class=nav>Girls</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image3) onmouseout=delayOff(image3) href=/family/index.jsp?categoryId=1831971&amp;cp=1855605 class=nav>Boys</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image3) onmouseout=delayOff(image3) href=/family/index.jsp?categoryId=1855981&amp;cp=1855605 class=nav>Clearance</a></font>')"><img src="http://WIL.imageg.net/images/kids_new.gif" height="30" name="image3" border="0"></a><a href="/shop/index.jsp?categoryId=2101302" onmouseout="delayOff(image4);" onmouseover="triggerDelay(4,'&nbsp;&nbsp;&nbsp;&nbsp;<font class=nav><a onmouseover=imgOn(image4) onmouseout=delayOff(image4) href=/family/index.jsp?categoryId=2106748&amp;cp=2101302 class=nav>Womens</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image4) onmouseout=delayOff(image4) href=/family/index.jsp?categoryId=2106749&amp;cp=2101302 class=nav>Mens</a></font>')"><img src="http://WIL.imageg.net/images/extended_sizes_new.gif" height="30" name="image4" border="0"></a><a href="/category/index.jsp?categoryId=2151891" onmouseout="delayOff(image5);" onmouseover="triggerDelay(5,'&nbsp;&nbsp;&nbsp;&nbsp;<font class=nav><a onmouseover=imgOn(image5) onmouseout=delayOff(image5) href=/family/index.jsp?categoryId=2151892&amp;cp=2151891 class=nav>Active</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image5) onmouseout=delayOff(image5) href=/family/index.jsp?categoryId=2151893&amp;cp=2151891 class=nav>Cold Weather</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image5) onmouseout=delayOff(image5) href=/family/index.jsp?categoryId=2151894&amp;cp=2151891 class=nav>Princess</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image5) onmouseout=delayOff(image5) href=/family/index.jsp?categoryId=2151895&amp;cp=2151891 class=nav>Western</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image5) onmouseout=delayOff(image5) href=/family/index.jsp?categoryId=2151896&amp;cp=2151891 class=nav>Rebel</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image5) onmouseout=delayOff(image5) href=/family/index.jsp?categoryId=2156846&amp;cp=2151891 class=nav>Coats</a></font>')"><img src="http://WIL.imageg.net/images/pets_new.gif" height="30" name="image5" border="0"></a><a href="/shop/index.jsp?categoryId=1855606" onmouseout="delayOff(image5);" onmouseover="triggerDelay(6,'&nbsp;&nbsp;&nbsp;&nbsp;<font class=nav><a onmouseover=imgOn(image6) onmouseout=delayOff(image6) href=/family/index.jsp?categoryId=2163822&amp;cp=1855606 class=nav>Handbags Hot Picks</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image6) onmouseout=delayOff(image6) href=/family/index.jsp?categoryId=1831982&amp;cp=1855606 class=nav>View All Handbags</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image6) onmouseout=delayOff(image6) href=/family/index.jsp?categoryId=2018685&amp;cp=1855606 class=nav>Novelty</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image6) onmouseout=delayOff(image6) href=/family/index.jsp?categoryId=2018686&amp;cp=1855606 class=nav>Totes</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image6) onmouseout=delayOff(image6) href=/family/index.jsp?categoryId=2018687&amp;cp=1855606 class=nav>Shoulder</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image6) onmouseout=delayOff(image6) href=/family/index.jsp?categoryId=2018688&amp;cp=1855606 class=nav>Hobo</a></font>')"><img src="http://WIL.imageg.net/images/handbags_new.gif" height="30" name="image6" border="0"></a><a href="/category/index.jsp?categoryId=1855607" onmouseout="delayOff(image7);" onmouseover="triggerDelay(7,'&nbsp;&nbsp;&nbsp;&nbsp;<font class=nav><a onmouseover=imgOn(image7) onmouseout=delayOff(image7) href=/family/index.jsp?categoryId=1831967&amp;cp=1855607 class=nav>Belts</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image7) onmouseout=delayOff(image7) href=/category/index.jsp?categoryId=2158211&amp;cp=1855607 class=nav>Gloves</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image7) onmouseout=delayOff(image7) href=/category/index.jsp?categoryId=2158212&amp;cp=1855607 class=nav>Hats</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image7) onmouseout=delayOff(image7) href=/family/index.jsp?categoryId=1837878&amp;cp=1855607 class=nav>Womens Footwear</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image7) onmouseout=delayOff(image7) href=/category/index.jsp?categoryId=1832081&amp;cp=1855607 class=nav>Wallets</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image7) onmouseout=delayOff(image7) href=/family/index.jsp?categoryId=1831991&amp;cp=1855607 class=nav>Watches</a></font>')"><img src="http://WIL.imageg.net/images/accessories_new.gif" height="30" name="image7" border="0"></a><a href="/category/index.jsp?categoryId=2101303" onmouseout="delayOff(image8);" onmouseover="triggerDelay(8,'&nbsp;&nbsp;&nbsp;&nbsp;<font class=nav><a onmouseover=imgOn(image8) onmouseout=delayOff(image8) href=/family/index.jsp?categoryId=2019559&amp;cp=2101303 class=nav>Mens Executive</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image8) onmouseout=delayOff(image8) href=/family/index.jsp?categoryId=2019560&amp;cp=2101303 class=nav>Womens Executive</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image8) onmouseout=delayOff(image8) href=/family/index.jsp?categoryId=2018890&amp;cp=2101303 class=nav>Briefcases</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image8) onmouseout=delayOff(image8) href=/family/index.jsp?categoryId=2019569&amp;cp=2101303 class=nav>Messengers / Backpacks</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image8) onmouseout=delayOff(image8) href=/family/index.jsp?categoryId=2019584&amp;cp=2101303 class=nav>Portfolios</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image8) onmouseout=delayOff(image8) href=/family/index.jsp?categoryId=2019585&amp;cp=2101303 class=nav>Planners / Organizers</a></font>')"><img src="http://WIL.imageg.net/images/business_travel_new.gif" height="30" name="image8" border="0"></a><a href="/category/index.jsp?categoryId=2150898" onmouseout="delayOff(image9);" onmouseover="triggerDelay(9,'&nbsp;&nbsp;&nbsp;&nbsp;<font class=nav><a onmouseover=imgOn(image9) onmouseout=delayOff(image9) href=/family/index.jsp?categoryId=2151886&amp;cp=2150898 class=nav>Accents</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image9) onmouseout=delayOff(image9) href=/family/index.jsp?categoryId=2151887&amp;cp=2150898 class=nav>Global  Bazaar</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image9) onmouseout=delayOff(image9) href=/family/index.jsp?categoryId=2151888&amp;cp=2150898 class=nav>Loft</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image9) onmouseout=delayOff(image9) href=/family/index.jsp?categoryId=2151889&amp;cp=2150898 class=nav>Table Top</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image9) onmouseout=delayOff(image9) href=/family/index.jsp?categoryId=2151890&amp;cp=2150898 class=nav>Travel/Games</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image9) onmouseout=delayOff(image9) href=/family/index.jsp?categoryId=2156863&amp;cp=2150898 class=nav>Bowls/Vases</a></font>')"><img src="http://WIL.imageg.net/images/home_goods.gif" height="30" name="image9" border="0"></a>
+				<td height="30"><a href="/shop/index.jsp?categoryId=1855603" onmouseout="delayOff(image1);" onmouseover="triggerDelay(1,'&nbsp;&nbsp;&nbsp;&nbsp;<span class=nav><a onmouseover=imgOn(image1) onmouseout=delayOff(image1) href=/family/index.jsp?categoryId=2066927&amp;cp=1855603 class=nav>Womens Hot Picks</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image1) onmouseout=delayOff(image1) href=/family/index.jsp?categoryId=2013549&amp;cp=1855603 class=nav>View All Jackets</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image1) onmouseout=delayOff(image1) href=/category/index.jsp?categoryId=2013553&amp;cp=1855603 class=nav>Jackets</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image1) onmouseout=delayOff(image1) href=/family/index.jsp?categoryId=2013616&amp;cp=1855603 class=nav>Womens Cycle</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image1) onmouseout=delayOff(image1) href=/family/index.jsp?categoryId=1995936&amp;cp=1855603 class=nav>Womens NASCAR®</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image1) onmouseout=delayOff(image1) href=/family/index.jsp?categoryId=1995937&amp;cp=1855603 class=nav>Tops &amp; Bottoms</a></span>')"><img src="http://WIL.imageg.net/images/women_0214.gif" name="image1" width="76" height="30" border="0"></a><a href="/shop/index.jsp?categoryId=1855604" onmouseout="delayOff(image2);" onmouseover="triggerDelay(2,'&nbsp;&nbsp;&nbsp;&nbsp;<span class=nav><a onmouseover=imgOn(image2) onmouseout=delayOff(image2) href=/family/index.jsp?categoryId=2066926&amp;cp=1855604 class=nav>Mens Hot Picks</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image2) onmouseout=delayOff(image2) href=/family/index.jsp?categoryId=2013496&amp;cp=1855604 class=nav>View All Jackets</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image2) onmouseout=delayOff(image2) href=/category/index.jsp?categoryId=2013488&amp;cp=1855604 class=nav>Jackets</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image2) onmouseout=delayOff(image2) href=/family/index.jsp?categoryId=2011943&amp;cp=1855604 class=nav>Mens Cycle</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image2) onmouseout=delayOff(image2) href=/family/index.jsp?categoryId=2107347&amp;cp=1855604 class=nav>Mens NASCAR®</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image2) onmouseout=delayOff(image2) href=/category/index.jsp?categoryId=1855607&amp;cp=1855604 class=nav>Accessories</a></span>')"><img src="http://WIL.imageg.net/images/men_0214.gif" width="44" height="30" name="image2" border="0"></a><a href="/category/index.jsp?categoryId=1855605" onmouseout="delayOff(image3);" onmouseover="triggerDelay(3,'&nbsp;&nbsp;&nbsp;&nbsp;<span class=nav><a onmouseover=imgOn(image3) onmouseout=delayOff(image3) href=/family/index.jsp?categoryId=1831970&amp;cp=1855605 class=nav>Girls</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image3) onmouseout=delayOff(image3) href=/family/index.jsp?categoryId=1831971&amp;cp=1855605 class=nav>Boys</a></span>')"><img src="http://WIL.imageg.net/images/kids_0214.gif" width="48" height="30" name="image3" border="0"></a><a href="/shop/index.jsp?categoryId=2101302" onmouseout="delayOff(image4);" onmouseover="triggerDelay(4,'&nbsp;&nbsp;&nbsp;&nbsp;<span class=nav><a onmouseover=imgOn(image4) onmouseout=delayOff(image4) href=/family/index.jsp?categoryId=2106748&amp;cp=2101302 class=nav>Womens</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image4) onmouseout=delayOff(image4) href=/family/index.jsp?categoryId=2106749&amp;cp=2101302 class=nav>Mens</a></span>')"><img src="http://WIL.imageg.net/images/extended_sizes_0214.gif" width="119" height="30" name="image4" border="0"></a><a href="/category/index.jsp?categoryId=2151891" onmouseout="delayOff(image5);" onmouseover="triggerDelay(5,'&nbsp;&nbsp;&nbsp;&nbsp;<span class=nav><a onmouseover=imgOn(image5) onmouseout=delayOff(image5) href=/family/index.jsp?categoryId=2151892&amp;cp=2151891 class=nav>Active</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image5) onmouseout=delayOff(image5) href=/family/index.jsp?categoryId=2151893&amp;cp=2151891 class=nav>Cold Weather</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image5) onmouseout=delayOff(image5) href=/family/index.jsp?categoryId=2151894&amp;cp=2151891 class=nav>Princess</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image5) onmouseout=delayOff(image5) href=/family/index.jsp?categoryId=2151895&amp;cp=2151891 class=nav>Western</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image5) onmouseout=delayOff(image5) href=/family/index.jsp?categoryId=2151896&amp;cp=2151891 class=nav>Rebel</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image5) onmouseout=delayOff(image5) href=/family/index.jsp?categoryId=2156846&amp;cp=2151891 class=nav>Coats</a></span>')"><img src="http://WIL.imageg.net/images/pets_0214.gif" width="55" height="30" name="image5" border="0"></a><a href="/shop/index.jsp?categoryId=1855606" onmouseout="delayOff(image5);" onmouseover="triggerDelay(6,'&nbsp;&nbsp;&nbsp;&nbsp;<span class=nav><a onmouseover=imgOn(image6) onmouseout=delayOff(image6) href=/family/index.jsp?categoryId=2163822&amp;cp=1855606 class=nav>New Arrivals</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image6) onmouseout=delayOff(image6) href=/family/index.jsp?categoryId=1831982&amp;cp=1855606 class=nav>View All Handbags</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image6) onmouseout=delayOff(image6) href=/family/index.jsp?categoryId=2018685&amp;cp=1855606 class=nav>Novelty</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image6) onmouseout=delayOff(image6) href=/family/index.jsp?categoryId=2018686&amp;cp=1855606 class=nav>Totes</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image6) onmouseout=delayOff(image6) href=/family/index.jsp?categoryId=2018687&amp;cp=1855606 class=nav>Shoulder</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image6) onmouseout=delayOff(image6) href=/family/index.jsp?categoryId=2018688&amp;cp=1855606 class=nav>Hobo</a></span>')"><img src="http://WIL.imageg.net/images/handbags_0214.gif" width="87" height="30" name="image6" border="0"></a><a href="/category/index.jsp?categoryId=1855607" onmouseout="delayOff(image7);" onmouseover="triggerDelay(7,'&nbsp;&nbsp;&nbsp;&nbsp;<span class=nav><a onmouseover=imgOn(image7) onmouseout=delayOff(image7) href=/family/index.jsp?categoryId=1831967&amp;cp=1855607 class=nav>Mens Belts</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image7) onmouseout=delayOff(image7) href=/family/index.jsp?categoryId=2183995&amp;cp=1855607 class=nav>Womens Belts</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image7) onmouseout=delayOff(image7) href=/category/index.jsp?categoryId=2158211&amp;cp=1855607 class=nav>Gloves</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image7) onmouseout=delayOff(image7) href=/category/index.jsp?categoryId=2158212&amp;cp=1855607 class=nav>Hats</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image7) onmouseout=delayOff(image7) href=/family/index.jsp?categoryId=1837878&amp;cp=1855607 class=nav>Womens Footwear</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image7) onmouseout=delayOff(image7) href=/category/index.jsp?categoryId=1832081&amp;cp=1855607 class=nav>Wallets</a></span>')"><img src="http://WIL.imageg.net/images/accessories_0214.gif" width="100" height="30" name="image7" border="0"></a><a href="/category/index.jsp?categoryId=2101303" onmouseout="delayOff(image8);" onmouseover="triggerDelay(8,'&nbsp;&nbsp;&nbsp;&nbsp;<span class=nav><a onmouseover=imgOn(image8) onmouseout=delayOff(image8) href=/family/index.jsp?categoryId=2019559&amp;cp=2101303 class=nav>Mens Executive</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image8) onmouseout=delayOff(image8) href=/family/index.jsp?categoryId=2019560&amp;cp=2101303 class=nav>Womens Executive</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image8) onmouseout=delayOff(image8) href=/family/index.jsp?categoryId=2018890&amp;cp=2101303 class=nav>Briefcases</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image8) onmouseout=delayOff(image8) href=/family/index.jsp?categoryId=2019569&amp;cp=2101303 class=nav>Messengers / Backpacks</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image8) onmouseout=delayOff(image8) href=/family/index.jsp?categoryId=2019584&amp;cp=2101303 class=nav>Portfolios</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image8) onmouseout=delayOff(image8) href=/family/index.jsp?categoryId=2019585&amp;cp=2101303 class=nav>Planners / Organizers</a></span>')"><img src="http://WIL.imageg.net/images/business_travel_0214.gif" width="138" height="30" name="image8" border="0"></a><a href="/category/index.jsp?categoryId=2150898" onmouseout="delayOff(image9);" onmouseover="triggerDelay(9,'&nbsp;&nbsp;&nbsp;&nbsp;<span class=nav><a onmouseover=imgOn(image9) onmouseout=delayOff(image9) href=/family/index.jsp?categoryId=2151886&amp;cp=2150898 class=nav>Accents</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image9) onmouseout=delayOff(image9) href=/family/index.jsp?categoryId=2151887&amp;cp=2150898 class=nav>Global  Bazaar</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image9) onmouseout=delayOff(image9) href=/family/index.jsp?categoryId=2151888&amp;cp=2150898 class=nav>Loft</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image9) onmouseout=delayOff(image9) href=/family/index.jsp?categoryId=2151889&amp;cp=2150898 class=nav>Table Top</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image9) onmouseout=delayOff(image9) href=/family/index.jsp?categoryId=2151890&amp;cp=2150898 class=nav>Travel/Games</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a onmouseover=imgOn(image9) onmouseout=delayOff(image9) href=/family/index.jsp?categoryId=2156863&amp;cp=2150898 class=nav>Bowls/Vases</a></span>')"><img src="http://WIL.imageg.net/images/home_goods_0214.gif" width="95" height="30" name="image9" border="0"></a>
 			</td>
 		</tr>	
 			<tr>
 				<td height="19" bgcolor="#E0E3EA" colspan="7"><img src="http://WIL.imageg.net/images/pixel.gif" width="1" height="19">
-				<div align="center" id="subtext" style="width:763px;height:19px;top:124px;position:absolute;z-index:2;text-align:left;">
+<div align="center" id="subtext" style="width:763px;height:19px;top:124px;position:absolute;z-index:2;text-align:left;">
 				</div>
 				
 	<!-- Start of SearchMarketing.com Natural Pixel Tag: Please do not remove-->
@@ -357,7 +406,7 @@ function changeSub(picName,imgName)
 
 <table cellpadding="0" cellspacing="0" border="0" width="763" align="center">
 	<tbody><tr>
-		<td align="right" style="background-image: url(http://WIL.imageg.net/images/WIL_header_banner_bg.gif);"><a href="http://oas.imageg.net/O/a/s/www.wilsonsleather.com/helpdesk/index.jsp/211125555/Top1/default/empty.gif/61633134303531323433396439353130" target="_top"><img src="http://oas.imageg.net/O/a/Creatives/default/empty.gif" width="2" height="2" alt="" border="0"></a></td>
+		<td align="right" style="background-image: url(http://WIL.imageg.net/images/WIL_header_banner_bg.gif);"><a href="http://oas.imageg.net/O/a/s/www.wilsonsleather.com/helpdesk/index.jsp/679489371/Top1/default/empty.gif/61633134303531343434343366623730" target="_top"><img src="http://oas.imageg.net/O/a/Creatives/default/empty.gif" width="2" height="2" alt="" border="0"></a></td>
 	</tr>
 </tbody></table>
 
@@ -510,9 +559,30 @@ If we make any material changes to this Privacy Policy, we will post a notice on
 	</tr></tbody></table>
 	
 <!-- Begin Footer -->
+<!-- Start of New Pixel File -->
+
+
+<!-- End of New Pixel File -->
+
 
 <script language="JavaScript">
+findcenter();
 
+function verifyStateFt()
+{
+    var statesAndProvincesTextForJS = new String("state");
+    var state = document.stateFormFooter.state.selectedIndex;
+
+    if (state == 0)
+    {
+        alert('Please select a ' + statesAndProvincesTextForJS + ' to continue.');
+    }
+    else
+    {
+        document.stateFormFooter.submit();
+    }
+
+}
 
 function emailWindow(url) {
   	theWindow = window.open(url,
@@ -557,10 +627,12 @@ function validateEmail(email)
 
 		
 
-<form method="post" name="emailForm" onsubmit="return emailCheck(0);" style="display:iniline;margin:0px;"></form>
-			<input type="hidden" name="contest" value="wil_nocontest">
-			<input type="hidden" name="emailPref" value="Y">
-			<input type="hidden" name="refURL" value="/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy&amp;clickid=footer_privacyPolicy_img">
+	<form name="stateFormFooter" action="/corp/index.jsp" method="POST" onsubmit="return checkSubmit(document.stateFormFooter);"></form>
+	<input type="hidden" name="page" value="storeLocator">
+	<input type="hidden" name="selectedIndexValue" value="">
+	<input type="hidden" name="selectedStateIndexValue" value="">
+	<input type="hidden" name="strLocator" value="">
+
 <tbody><tr>
 	<td width="764" valign="top" align="center">
 	<table cellpadding="0" cellspacing="0" border="0" width="742">
@@ -579,12 +651,62 @@ function validateEmail(email)
 		<tbody><tr>
 
 		  <!-- page one login  1 -->
-			<td width="245" valign="center" class="footerlink" height="50">Sign up to Receive Email Updates:<br>
-			<img src="http://WIL.imageg.net/images/pixel.gif" width="1" height="3"><br>
-			<input type="text" name="emailAddress" size="28" id="formitems" value=" Enter Email Address" onclick="if(this.value==' Enter Email Address')this.value=''" style="font-size:10px;" onblur="if(this.value=='')this.value=' Enter Email Address'">
-			<a href="#" onclick="return emailCheck(1);"><img src="http://WIL.imageg.net/images/sign_up.jpg" width="53" height="17" border="0" align="absmiddle"></a>
+			<td width="245" valign="center" class="footerlink" height="50">Find the nearest Wilsons Leather store &gt;<br>
+			<img src="http://WIL.imageg.net/images/pixel.gif" width="1" height="4"><br>
+<select style="width:173px;max-width:173px" size="1" name="state" onchange="javascript: verifyStateFt();">
+<option value="" selected="">Select a State</option>
+<option value=""> - - - - - - - - - - - - - - - - - - - - </option>
+
+<option value="AL">Alabama</option>
+<option value="AZ">Arizona</option>
+<option value="AR">Arkansas</option>
+<option value="CA">California</option>
+<option value="CO">Colorado</option>
+<option value="CT">Connecticut</option>
+<option value="DE">Delaware</option>
+<option value="FL">Florida</option>
+<option value="GA">Georgia</option>
+<option value="ID">Idaho</option>
+<option value="IL">Illinois</option>
+<option value="IN">Indiana</option>
+<option value="IA">Iowa</option>
+<option value="KS">Kansas</option>
+<option value="KY">Kentucky</option>
+<option value="LA">Louisiana</option>
+<option value="ME">Maine</option>
+<option value="MD">Maryland</option>
+<option value="MA">Massachusetts</option>
+<option value="MI">Michigan</option>
+<option value="MN">Minnesota</option>
+<option value="MS">Mississippi</option>
+<option value="MO">Missouri</option>
+<option value="NE">Nebraska</option>
+<option value="NV">Nevada</option>
+<option value="NH">New Hampshire</option>
+<option value="NJ">New Jersey</option>
+<option value="NM">New Mexico</option>
+<option value="NY">New York</option>
+<option value="NC">North Carolina</option>
+<option value="ND">North Dakota</option>
+<option value="OH">Ohio</option>
+<option value="OK">Oklahoma</option>
+<option value="OR">Oregon</option>
+<option value="PA">Pennsylvania</option>
+<option value="RI">Rhode Island</option>
+<option value="SC">South Carolina</option>
+<option value="SD">South Dakota</option>
+<option value="TN">Tennessee</option>
+<option value="TX">Texas</option>
+<option value="UT">Utah</option>
+<option value="VA">Virginia</option>
+<option value="WA">Washington</option>
+<option value="WV">West Virginia</option>
+<option value="WI">Wisconsin</option>
+
+
+</select>&nbsp;<a href="javascript:verifyStateFt();"><img src="../images/btn_go_storeselector.gif" border="0" align="absmiddle"></a>
 			</td>
-			<td width="2"><img src="http://WIL.imageg.net/images/pixel.gif" width="2" height="10"></td>
+			<td width="2"><img src="http://WIL.imageg.net/images/pixel.gif" width="2" height="1"></td>
 	      
 	  
 
@@ -620,28 +742,28 @@ function validateEmail(email)
 		<td height="35">
 		<table cellpadding="0" cellspacing="0" border="0">
 		<tbody><tr>
-			<td width="247" valign="center" class="footerlink">©&nbsp;Wilsons Leather. All rights reserved.</td>
+			<td width="245" valign="center" class="footerlink">©&nbsp;Wilsons Leather. All rights reserved.</td>
 			<td width="1" bgcolor="#D8D8D8"><img src="http://WIL.imageg.net/images/pixel.gif" width="1" height="35"></td>
 			<td width="9"><img src="http://WIL.imageg.net/images/pixel.gif" width="9" height="1"></td>
 			
 
-			<td width="106" valign="center"><a href="../corp/index.jsp?page=storeLocator" class="footerlink2">Store Locator</a><br>
+			<td width="134" valign="center"><a href="../corp/index.jsp?page=aboutus" class="footerlink2">About Us</a><br>
 			<img src="http://WIL.imageg.net/images/pixel.gif" width="1" height="3"><br>
 		
-			<a href="../info/index.jsp?categoryId=1837229" class="footerlink2">Leather Care</a><br></td>
-			<td width="130" valign="center"><a href="../corp/index.jsp?page=aboutus" class="footerlink2">About Us</a><br>
-			<img src="http://WIL.imageg.net/images/pixel.gif" width="1" height="3"><br>
 			<a href="http://sourcing.wilsonsleather.com/erecruit/Careers/Careershome.asp" class="footerlink2">Career Opportunities</a><br></td>
-			
-			<td width="1" bgcolor="#D8D8D8"><img src="http://WIL.imageg.net/images/pixel.gif" width="1" height="35"></td>		
-			<td width="9"><img src="http://WIL.imageg.net/images/pixel.gif" width="9" height="1"></td>	
-			<td width="114" valign="center"><a href="https://www.connectcommerce.com/secure/partner_app.html?ccmid=K23243" class="footerlink2" target="_blank">Affiliate Programs</a><br>
+			<td width="120" valign="center"><a href="https://www.connectcommerce.com/secure/partner_app.html?ccmid=K23243" class="footerlink2" target="_blank">Affiliate Programs</a><br>
 			<img src="http://WIL.imageg.net/images/pixel.gif" width="1" height="3"><br>
-			<a href="/groupsales/index.jsp" class="footerlink2">Group Sales</a><br></td>
-			<td width="9"><img src="http://WIL.imageg.net/images/pixel.gif" width="9" height="1"></td>
-			<td width="114" valign="center"><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy&amp;clickid=footer_privacyPolicy_img" class="footerlink2">Privacy Policy</a><br>
+			<a href="/groupsales/index.jsp" class="footerlink2">Group Sales</a>
+			<br></td>
+			
+			<td width="5"><img src="http://WIL.imageg.net/images/pixel.gif" width="5" height="1"></td>	
+			<td width="113" valign="center"><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy&amp;clickid=footer_privacyPolicy_img" class="footerlink2">Privacy Policy</a><br>
 			<img src="http://WIL.imageg.net/images/pixel.gif" width="1" height="3"><br>
 			<a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=terms" class="footerlink2">Terms &amp; Conditions</a><br></td>
+			<td width="9"><img src="http://WIL.imageg.net/images/pixel.gif" width="9" height="1"></td>
+			<td width="103" valign="center"><a href="../info/index.jsp?categoryId=1837229" class="footerlink2">Leather Care</a><br>
+			<img src="http://WIL.imageg.net/images/pixel.gif" width="1" height="3"><br>
+			&nbsp;<br></td>
 		</tr>    
 		</tbody></table></td>
 	</tr>
