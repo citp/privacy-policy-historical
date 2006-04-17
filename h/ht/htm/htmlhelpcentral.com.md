@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the htmlhelpcentral.com privacy policy that was archived on 2005-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051119121542id_/http%3A//www.htmlhelpcentral.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the htmlhelpcentral.com privacy policy that was archived on 2006-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060417213141id_/http%3A//www.htmlhelpcentral.com/privacy.php) for the most accurate reproduction.*
 
 # HTML Help Central.com - Privacy Policy
 
