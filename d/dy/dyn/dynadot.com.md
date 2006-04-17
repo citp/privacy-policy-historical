@@ -1,13 +1,10 @@
-> *The following text is extracted and transformed from the dynadot.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220043017id_/http%3A//www.dynadot.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynadot.com privacy policy that was archived on 2006-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060417205841id_/http%3A//www.dynadot.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Dynadot LLC
 
 [](https://web.archive.org/) | [Home](https://web.archive.org/) | [My Account](https://web.archive.org/account/) | [Shopping Cart](https://web.archive.org/order/cart.html) | [Help](https://web.archive.org/help/)  
-[Welcome](https://web.archive.org/)   [Domain Names](https://web.archive.org/domain/search.html)   [Web Hosting](https://web.archive.org/web_hosting/about.html)   [Company](https://web.archive.org/company/about.html)  
+[Welcome](https://web.archive.org/)   [Domain Names](https://web.archive.org/domain/search.html)   [Web Hosting](https://web.archive.org/web_hosting/about.html)   [Resources](https://web.archive.org/resource/article/)   [Company](https://web.archive.org/company/about.html)  
 |          
-  
-Welcome to the Dynadot web design, web hosting, and domain name registration service ("Service"). The Service is made available subject to this Privacy Policy. By using the Service, you agree, without limitation or qualification, to be bound by this Privacy Policy. This policy may be updated from time to time, so please check back here periodically. 
-
   
 **What information is collected?**
 
@@ -30,4 +27,4 @@ We send emails updating you on the status of your order. We may email you a rene
 The Service uses cookies. A cookie is a piece of data stored on the user's computer tied to information about the user. We use session ID cookies only. Once a user closes the browser, the session cookie simply terminates. We use cookies to remember where you are in our website. For example, by setting a cookie when you sign into your account, we know that you are an authorized user. If you reject the cookie, you will not be able to enter the account area of the site.  
   
 [Contact Us](https://web.archive.org/company/contact.html)   [Prices](https://web.archive.org/company/prices.html)   [Privacy Policy](https://web.archive.org/privacy_policy.html)   [Service Agreement](https://web.archive.org/registration_agreement.html)   [Dispute Policy](https://web.archive.org/icann_dispute.html)   [Copyright Complaint](https://web.archive.org/copyright_policy.html)   [Report Spam](https://web.archive.org/spam_policy.html)   [Whois](https://web.archive.org/whois.html)  
-Copyright © 2002-2005 Dynadot LLC. All rights reserved.
+Copyright © 2002-2006 Dynadot LLC. All rights reserved.
