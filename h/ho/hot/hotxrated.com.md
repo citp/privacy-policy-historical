@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotxrated.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214005512id_/http%3A//www.hotxrated.com/%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotxrated.com privacy policy that was archived on 2006-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060417201558id_/http%3A//hotxrated.com/%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
