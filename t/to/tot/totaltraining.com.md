@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totaltraining.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218141647id_/http%3A//totaltraining.com/corp/privacy.asp%3Fmscsid%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totaltraining.com privacy policy that was archived on 2006-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060417235332id_/http%3A//totaltraining.com/corp/privacy.asp%3Fmscsid%3D) for the most accurate reproduction.*
 
 # Total Training: Privacy Policy
 
@@ -50,7 +50,7 @@ A cookie is a small piece of data placed on a visitor's computer when certain po
 Total Training requires visitors to register with their names and email addresses if they wish to post messages to any of Total Training's Forums. This information aids Total Training personnel in moderating forums and keeping their content consistent with Total Training's rules for forum usage. Total Training may also capture a visitor's IP address for the same purpose. As described previously, email addresses collected from forum registration are posted to the email database. Users who wish to unsubscribe from the Total Training email list may follow the instructions under Online Registration in this document.
 
 **General Browsing**  
-Navigational information about where visitors go on www.totaltraining.com is gathered by Total Training along with information about the technical efficiencies of the website and services (i.e., time to connect to our Web site, time to download pages, etc.). This information allows Total Training to see which areas of the website are most visited and enables the company to better understand visitors' experiences while navigating through the site, and give insight to ways to improve the quality of the website by recognizing and delivering more of the features, areas and services visitors prefer. In the process of gathering navigational information, non-personally identifiable information (for example, domain type, browser version, service provider and IP address) may be collected which will provide information regarding a visitor’s use of www.totaltraining.com (such as the time of a visitor’s last visit to a page on our site).
+Navigational information about where visitors go on www.totaltraining.com is gathered by Total Training along with information about the technical efficiencies of the website and services (i.e., time to connect to our Web site, time to download pages, etc.). This information allows Total Training to see which areas of the website are most visited and enables the company to better understand visitors' experiences while navigating through the site, and give insight to ways to improve the quality of the website by recognizing and delivering more of the features, areas and services visitors prefer. In the process of gathering navigational information, non-personally identifiable information (for example, domain type, browser version, service provider and IP address) may be collected which will provide information regarding a visitor's use of www.totaltraining.com (such as the time of a visitor's last visit to a page on our site).
 
 **Use of Information**  
 Total Training does not share or otherwise distribute any information collected online by Total Training with third parties. In the future, should assets of Total Training that include the marketing database be acquired by a third party, Total Training will take steps to continue the level of privacy established with visitors when they originally provided their information to Total Training.
@@ -65,7 +65,6 @@ Questions regarding our Privacy Policy may be addressed to Total Training in the
 
 
 Total Training  
-1819 Aston Ave.  
-Suite 101  
+1920 Palomar Point Way  
 Carlsbad, CA 92008  
 Attention: Online Marketing 
