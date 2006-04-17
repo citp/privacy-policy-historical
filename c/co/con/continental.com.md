@@ -1,132 +1,182 @@
-> *The following text is extracted and transformed from the continental.com privacy policy that was archived on 1999-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19990508055257id_/http%3A//www.continental.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the continental.com privacy policy that was archived on 2006-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060417195305id_/http%3A//www.continental.com/travel/policies/privacy/default.asp) for the most accurate reproduction.*
 
-# Continental Airlines -- Continental On-Line Privacy Policy
+# Continental Airlines - Privacy Policy
 
-### Information gathered by Continental On-Line
+Continental reserves the right to modify this Privacy Policy at any time without prior notice. The Policy posted on this Web site will be the current version dated with the last revision date. Any changes will apply to all information collected by Continental, including previously collected information. User is responsible for regularly reviewing these terms and conditions. Continued use of this Web site following any such changes shall constitute the User's acceptance of such changes.
 
-User information and site activity data is collected throughout the web site, including domains, browsers, and pages accessed. This information is used for standard reporting purposes and to improve site content and display. 
+Last updated: April 6, 2006
 
-There are three areas of the site where individual information is captured and retained for later use: CO.O.L. Travel Assistant, CO.O.L. Travel Specials, and the OnePass member area. Different information is needed for each of these programs and is currently held in separate databases. The information, how it gets used, and what you can do to change or update it is explained in more detail below. 
+### Privacy Notice to all Continental Customers
 
-**CO.O.L. Travel Assistant:** Information required for the reservation, purchase and delivery of products and services, to allow Continental to contact customers when necessary, to tailor the user experience, and to protect Continental from fraud are collected during the registration, shopping and purchase process. Names, shipping address, billing address, credit card numbers and expiration dates, e-mail address, telephone numbers, travel details, OnePass and other travel reward numbers are among the information collected. 
+Continental Airlines is committed to protecting the privacy of its customers in compliance with all relevant data protection laws. Please be advised that when you book or purchase a Continental ticket for transportation of passengers or cargo or if you participate in Continental programs or services such as OnePass or the Presidents Club, personal data is collected, used, processed and transferred for the following business purposes: making a reservation; purchasing a ticket; purchasing cargo; participating in OnePass services; obtaining ancillary services including accommodating special service requests; accounting, billing and auditing; checking credit or other payment mechanisms; operating frequent flyer programs; systems testing, maintenance and development; customer relations; sales and marketing; statistical analysis; developing and tailoring current and future services; facilitating travel including obtaining immigration and customs clearance; complying with applicable laws; providing data to third parties or governmental agencies to comply with, or assist in the development of, security or safety measures for passengers, baggage or cargo, or providing for the prevention, detection, apprehension or prosecution of imminent criminal acts; and protecting the legal rights of Continental. Upon booking a ticket for transportation or purchasing other services, you authorize Continental and its affiliates and authorized agents to (i) collect, process, retain and use, and (ii) transfer to third parties, including other carriers and government agencies, for their use, processing and retention, such personal data as Continental deems necessary to carry out the above-mentioned business purposes. You may contact Continental Customer Care at the address set forth below if you would like to review and rectify your personal data on file. If you object to Continental maintaining and using your personal data for marketing purposes, OnePass members may opt out of such purpose by using continental.com (sign in is required). You may also make your request in writing. Written requests by One Pass Members should be submitted to:
 
-Receipts and/or tickets will be mailed or sent via courier/express service to the billing or shipping address as appropriate. Users may be contacted by telephone, mail, or email if additional information is required to complete a transaction. Users may be notified by telephone, mail, or email of service changes. During the registration procedure, users may request that Continental periodically send promotion notification via e-mail. 
+E-mail:
+    [onepass@coair.com](mailto:onepass@coair.com)
+Phone:
+    1-713-952-1630
+Address:
+    OnePass Service Center  
+900 Grand Plaza Dr.  
+Houston, TX 77067-4323 USA
 
-Cookies are used to hold user preference information, maintain state during a transaction, and to enhance site security. 'Cookies' and system-identification software enable us to: 
+Written requests by non-OnePass Members should be directed to Continental Customer Care at either:
 
-  * Create a unique user ID for you. This saves you from having to log-in each time you visit the site. 
-  * Keep track of a purchase transaction during a session at the Website. 
-  * Collect usage information about the way you like to use our Website. This allows us to customize and improve the service 
+North America, Central America, South America, the Caribbean, Hawaii, Europe, the Middle East and Africa
 
+Address:
+    Customer Care - HQSCR  
+Continental Airlines, Inc.  
+P.O. Box 4607  
+Houston, TX 77210-4607
 
+Asia Pacific Region
 
-For security and audit purposes, all information is archived. 
+Address:
+    Customer Care Pacific  
+Continental Airlines, Inc.  
+P.O. Box 8778  
+Guam Commuter Terminal  
+Tamuning, GU 69631
 
-**CO.O.L. Travel Specials:** Information required for the delivery of the offers, to tailor the user experience, and to protect Continental from fraud is collected in the subscription process. This includes name, e-mail address, Zip Code, OnePass number, offers of interest. Personal information in this database is not shared or sold to other parties, except to the extent required by law. 
+### Privacy Notice to Continental Airlines Web Site Users
 
-Information is used to send scheduled e-mail of discount offers on Continental and it's partners. Occasional unscheduled e-mail may be sent when required for timely notification of offers, or for notification of changes to the service. Other Continental or third party offers may be included in the CO.O.L. Travel Specials mailings. All information is regularly reviewed in order to help us improve the offers and the service. Information is also used to tailor the user experience, including the e-mail messages and the web site. 
+"Continental Web Sites" are defined and used below as the following Web sites:
 
-Information required for on-line reservation and ticket purchase is not shared or sold to other parties, except to the extent required by law. 
+  * continental.com
+  * cocargo.com
+  * imot.continental.com
+  * onepassauction.com
 
-For security and audit purposes, all information is archived. 
 
-**OnePass Information:** Aggregate information is collected throughout the OnePass area of the Continental web site. There are two areas of the site in which information is captured and used at the individual level: "Enroll Instantly" and "Your Account". If you join OnePass through "Enroll Instantly", data from the enrollment application is saved and you are assigned an individual OnePass account number. This information is used to maintain your mileage accrual in this program. In "Your Account", you may view your individual mileage balance, and mileage earnings and withdrawals. In addition, the "Your Account" area has a communications page that allows you to choose which types of e-mail you prefer to receive, if any at all. Your individual preferences are saved. To protect your confidential information, you are assigned a Personal Identification Number (PIN) upon activating your OnePass account. You are advised not to disclose your PIN to any third party. If you do not know your PIN, you should contact the OnePass Service Center at [onepass@opsc.flycontinental.com](mailto:onepass@opsc.flycontinental.com). 
 
-### Use of information gathered by Continental On-Line
+#### Information gathered by Continental Airlines on Continental Web Sites
 
-**E-mail Addresses:** E-mail addresses are only collected when voluntarily provided. As such, if you do not wish to receive e-mails from us, we ask that you do not provide your e-mail address. An e-mail address is required when subscribing to the CO.O.L. Travel Special e-mail notification service. When registering for the CO.O.L. Travel Assistant, your e-mail address is required and is used for identification and in the event Continental needs to contact you. Your e-mail address is NOT required anywhere in the OnePass pages. 
+[](http://www.continental.com/vendors/out.asp?s=/travel/policies/privacy/default.asp&i=bbbonline)Your information and site activity data is collected throughout Continental Web Sites, including domains, browsers, and pages accessed. This information is used for standard reporting purposes, to improve site content and to display and enhance your Continental experience. Continental Airlines participates in the Council of Better Business Bureau's BBBOnLine® Privacy Program and is committed to the program's strict requirements regarding the treatment of personal information and to have that commitment verified by BBBOnLine. Further information about this program is available at [bbbonline.org](http://www.continental.com/vendors/out.asp?s=/travel/policies/privacy/default.asp&i=bbbonlinegeneral). In addition, Continental also adheres to the Safe Harbors Principles issued by the U.S. Department of Commerce.
 
-**Confidential Information:** Individual information you supply through the OnePass web site area follows the same standards as member information supplied through phone or mail. (OnePass members receive a Member's Guide upon activating a OnePass account that states this same policy.) From time to time, individual information may be shared with OnePass partners in order to provide members with more opportunities to earn miles and other benefits associated with OnePass membership. If you choose to keep your information private, please contact the OnePass Service Center by e-mail, phone, or mail: 
+Individual information is captured on this site and retained for later use based on inputs to the "My Account" area of the site. Different information is needed to fulfill the programs and services offered in conjunction with the continental.com booking engine and OnePass Program. The information, its use and what you can do to change or update it is explained in more detail below.
 
-> **Continental feedback forms:** Questions and comments submitted online may be published in the Continental Magazine, Continental On-Line, or other publications if Continental feels that they are of a topic of interest to the audience. Examples include on-line FAQ's and the letters section of Continental Magazine. Personally identifiable information will only be published if Continental has the user's explicit permission. 
+**Continental Web Sites booking engines:** Information required by Continental Web Sites for the reservation, purchase and delivery of products and services that allow Continental to contact customers when necessary to complete the delivery of such products and services; to tailor your Continental experience; and to protect Continental from fraud are collected during the registration, shopping and purchase process. Names, mailing addresses, billing addresses, credit and charge card numbers and expiration dates, e-mail addresses, telephone numbers, travel details, OnePass member number and other travel reward numbers are among the information collected.
 
-All feedback is reviewed. Individuals may be contacted by Continental if requested by the user, or if Continental feels contact is warranted by the message. Both aggregate and individual comments are used to help improve Continental On-Line and other Continental products and services. 
+Receipts and/or tickets will be mailed or sent by courier/express service to the billing or mailing address as appropriate. You may be contacted by telephone, mail or e-mail, if additional information is required to complete a transaction or to notify you of service changes.
 
-For security and audit purposes, all contact information is archived. 
+"Cookies" are used to hold your preference information, maintain state during a transaction, and to enhance site security. Cookies and system-identification software enable us to:
 
-### Disclosure of information gathered by Continental On-Line
+  * Create a unique user ID for you. This saves you from having to sign in each time you visit the specific Continental Web site.
+  * Keep track of a purchase transaction during a session at the specific Continental Web site.
+  * Display OnePass Program interaction and pertinent offers.
+  * Collect usage information about the way you like to use our Continental Web Sites that allows us to customize and improve the service.
 
-Continental does not share personally identifiable information with third parties without permission from the user (except as outlined for OnePass members in the Member's Guide). Aggregate information may at times be shared with Continental partners and other third parties. Aggregate information includes items like demographic information, domain names, and other site traffic information, but does not include personally identifiable information. An example is: X% of subscribers are AOL users, or X% of eligible tickets purchased are e-tickets. 
 
-### Opting-out of Continental On-Line databases
 
-Users may opt out of receiving CO.O.L. Travel Specials offers by ending their subscriptions, or contacting the CO.O.L. Travel Specials Administration at: [cooltravel@coair.com](mailto:cooltravel@coair.com)
+Please note that for security and audit purposes, all information is archived.
 
-Users may opt out of receiving CO.O.L. Travel Assistant offers by selecting no in the section of their member information titled: "special travel promotions", or contacting the CO.O.L. Travel Assistant Administration at: [travel@cooltravel.com](mailto:travel@cooltravel.com)
+**OnePass Information:** Aggregate information is collected throughout Continental Web Sites to provide you products and services associated with the OnePass program and Continental's services. There are two areas of the site in which information is captured and used at the individual level: "Enroll Instantly" and "My Account." If you join OnePass through "Enroll Instantly," data from the enrollment application is saved and you are assigned an individual OnePass account number. This information is used to administrate your mileage accrual and account information in this program, as well as to tailor your Continental experience. In "My Account," you may view your individual mileage balance and mileage earnings and withdrawals. All individual preferences entered in "My Account" are saved. In addition, the "My Account" area has an E-mail Subscription page that allows you to choose which types of e-mail you prefer to receive, if any. To protect your confidential information, you are assigned a Personal Identification Number (PIN)/Password (optional) upon activating your OnePass account. You are advised not to disclose your PIN/Password to any third party. If you do not know your PIN/Password use our online [online PIN help tools](https://www.continental.com/acct/pPinResolution.asp), or [contact the OnePass Service Center](http://www.continental.com/contact/onepass/default.asp) for assistance.
 
-If you have already provided your e-mail address with your OnePass account information, but prefer not to receive e-mails, please: 
+**OnePass Online Auction:** Information required for item searches, bidding and delivery of products and services upon successful bid, to allow Continental or an agent of Continental to contact customers when necessary, to tailor the user experience, and to protect Continental from fraud are collected during the registration and bidding process. Names, shipping address, billing address, credit card numbers and expiration dates, e-mail address, telephone numbers, travel details, OnePass and other travel reward numbers are among the information collected. Confirmation notices will be electronically mailed to the account email address or sent via courier/express service to the billing or shipping address as appropriate. Users may be contacted by telephone, mail, or email if additional information is required to complete a transaction. Users may be notified by telephone, mail, or email of service changes. During the registration process, users may request that Continental periodically send promotion notification via e-mail. Cookies are used to hold user preference information, maintain state during a transaction, and to enhance site security. For security and audit purposes, all information is archived.
 
-  * Send an e-mail to the OnePass Service Center at [onepass@opsc.flycontinental.com](mailto:onepass@opsc.flycontinental.com), advising our representatives of your preference 
-  * Visit "Your Account" and delete your e-mail address, or choose which types of e-mail you wish to receive or do not wish to receive. 
+**E-mail Address Usage:** Your e-mail address is required for reservations made on continental.com to be used for identification and in the event Continental needs to contact you. Your e-mail address is also required when creating an OnePass account. The e-mail address provided at enrollment is retained as your primary e-mail address. Once a primary e-mail address is assigned to your OnePass account, it cannot be deleted unless your account is closed via the OnePass Service Center, but may be edited through continental.com. If there is no e-mail address associated with your account and you add one, it is automatically designated as your primary e-mail address.
 
+#### Consent
 
+By utilizing the Continental Web Sites and/or enrolling as a OnePass Member, you are consenting to the use of personal data as herein described, including but not limited to the following uses of your data:
 
-### Update or Deactivation of personally identifiable information in Continental On-Line databases
+  * supplying it to our partners identified at [http://www.continental.com/onepass/earn/](http://www.continental.com/onepass/earn/default.asp); transferring it to other countries whether or not such countries have data protection laws; and
+  * the processing of any personal and sensitive data included in the data you provide.
 
-To correct or update personally identifiable information relating to CO.O.L. Travel Specials, subscribers should end their current subscription then re-subscribe with the corrected/updated information, or contact the CO.O.L. Travel Specials Administration at: [cooltravel@coair.com](mailto:cooltravel@coair.com)
 
-To correct or update personally identifiable information relating to CO.O.L. Travel Assistant, access your CO.O.L. Travel Assistant account, then select the "Member Information" icon and make the required corrections/updates, or contact the CO.O.L. Travel Assistant Administration at: [travel@cooltravel.com](mailto:travel@cooltravel.com)
-### Information gathered by Continental On-Line
 
-User information and site activity data is collected throughout the web site, including domains, browsers, and pages accessed. This information is used for standard reporting purposes and to improve site content and display. 
+#### Choice/Opt out options specific to the OnePass Program
 
-There are three areas of the site where individual information is captured and retained for later use: CO.O.L. Travel Assistant, CO.O.L. Travel Specials, and the OnePass member area. Different information is needed for each of these programs and is currently held in separate databases. The information, how it gets used, and what you can do to change or update it is explained in more detail below. 
+You may opt out of receiving e-mails by managing the E-mail Subscriptions section of your member information under "My Account" or by ending your subscriptions, by clicking on the unsubscribe link included in each e-mail, and entering the e-mail address that is located at the bottom of the e-mail. You may opt out of the e-mails that are listed on the E-mail Subscriptions page such as e-mails for OnePass Statements, OnePass News and Offers, Partner News and Offers, Presidents Club News and Offers, TripAlert notifications, Elite Automatic Upgrade Notification and Timetable Update e-mails. Please note that you cannot opt out of e-mails related to your purchased travel.
 
-**CO.O.L. Travel Assistant:** Information required for the reservation, purchase and delivery of products and services, to allow Continental to contact customers when necessary, to tailor the user experience, and to protect Continental from fraud are collected during the registration, shopping and purchase process. Names, shipping address, billing address, credit card numbers and expiration dates, e-mail address, telephone numbers, travel details, OnePass and other travel reward numbers are among the information collected. 
+Individual OnePass information you supply through the continental.com site follows the same standards as member information supplied through phone or mail. (OnePass members receive a Member's Guide upon activating an OnePass account that states this same policy.) From time to time, individual information may be shared with our OnePass partners in order to provide members with requested products or services, as well as more opportunities to earn miles and other benefits associated with OnePass membership. In addition, your member information may be merged with demographic data from a third party. If you choose to opt out of these options, you may set the privacy flag for either your phone number and/ or your mailing address in the "My Account" area on continental.com. You may also [contact the OnePass Service Center](http://www.continental.com/contact/onepass/default.asp) by e-mail, phone, or mail. Please include your name, address and OnePass account number in all correspondence and e-mail:
 
-Receipts and/or tickets will be mailed or sent via courier/express service to the billing or shipping address as appropriate. Users may be contacted by telephone, mail, or email if additional information is required to complete a transaction. Users may be notified by telephone, mail, or email of service changes. During the registration procedure, users may request that Continental periodically send promotion notification via e-mail. 
+E-mail:
+    [onepass@coair.com](mailto:onepass@coair.com)
+Phone:
+    1-713-952-1630
+Address:
+    OnePass Service Center  
+900 Grand Plaza Dr.  
+Houston, TX 77067-4323 USA
 
-Cookies are used to hold user preference information, maintain state during a transaction, and to enhance site security. 'Cookies' and system-identification software enable us to: 
+**Third Party Information Provided by You:** If, during the course of completing a transaction with Continental, you provide us with personally identifiable information pertaining to a third party (for example, you make a reservation for your daughter), such third party information will be used by Continental solely for the completion of that transaction. 
 
-  * Create a unique user ID for you. This saves you from having to log-in each time you visit the site. 
-  * Keep track of a purchase transaction during a session at the Website. 
-  * Collect usage information about the way you like to use our Website. This allows us to customize and improve the service 
+#### Disclosure of information gathered by Continental Airlines
 
+Continental will not sell your personally identifiable information. Continental will also not share your personally identifiable information with third parties without your permission, except as outlined for OnePass members in the Member's Guide or otherwise disclosed in Continental's Privacy Policy. Aggregate information may at times be shared with Continental partners and other third parties. Aggregate information includes items like demographic information, domain names, and other site traffic information, but does not include personally identifiable information. Some examples are: X% of subscribers are America Online users, or X% of eligible tickets purchased are eTickets.
 
+#### Use of Third-Party Service Providers
 
-For security and audit purposes, all information is archived. 
+Continental contracts with reputable third parties to facilitate the collection and aggregation of Web usage and transaction information; the distribution of advertisements and electronic mail; and the operation of some survey, promotional and sweepstakes programs. Such third parties are subject to confidentiality and any necessary privacy requirements and, upon completion of these services, all information is returned to Continental.
 
-**CO.O.L. Travel Specials:** Information required for the delivery of the offers, to tailor the user experience, and to protect Continental from fraud is collected in the subscription process. This includes name, e-mail address, Zip Code, OnePass number, offers of interest. Personal information in this database is not shared or sold to other parties, except to the extent required by law. 
+#### Use of Web Bugs
 
-Information is used to send scheduled e-mail of discount offers on Continental and it's partners. Occasional unscheduled e-mail may be sent when required for timely notification of offers, or for notification of changes to the service. Other Continental or third party offers may be included in the CO.O.L. Travel Specials mailings. All information is regularly reviewed in order to help us improve the offers and the service. Information is also used to tailor the user experience, including the e-mail messages and the web site. 
+Web documents may reference images, sometimes called "single-pixel GIFs" or "Web bugs" that streamline the collection of Web usage information. Continental uses Web bugs to send usage information directly to our advertising and E-mail Service Providers. This helps us better manage our efforts to advertise and communicate by e-mail by providing a better understanding of which banner ads or e-mail bring users to Continental Web Sites.
 
-Information required for on-line reservation and ticket purchase is not shared or sold to other parties, except to the extent required by law. 
+We currently contract with several online partners (identified at [http://www.continental.com/onepass/earn/](http://www.continental.com/onepass/earn/default.asp) to help manage and optimize our Internet business and communications. We use the services of a marketing company (DoubleClick, Inc.) to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use action tags and cookies provided by our marketing company on this site. The information we collect assist us in learning about our customers. Although our marketing company logs the information coming from continental.com on our behalf, Continental Airlines controls the usage of the data gathered. The data is used in accordance with our Privacy Policy. If you prefer not to participate, you may "opt-out" of this Web site analysis tool by going to <http://optout.continental.rpts.net/cgi-bin/rpts/optout.pl>. You will be immediately opted out (as long as the cookie remains on your computer) of the Web site analysis action tags and cookies "continental.rpts.net" provided by our marketing company for the specific web browser you are currently using. To "opt-in" again, remove the opt-out cookie from your cookies folder using the instructions for the two most popular browsers. If your browser is not listed, please consult your browser help for assistance:
 
-For security and audit purposes, all information is archived. 
+**Internet Explorer** From the Tools dropdown select Internet Options. In the Internet options select the general tab and select the settings button. Select the view files button - this will list all cookies associated with this specific Internet Explorer browser. Delete the continental.com cookie (continental.rpts.net).
 
-**OnePass Information:** Aggregate information is collected throughout the OnePass area of the Continental web site. There are two areas of the site in which information is captured and used at the individual level: "Enroll Instantly" and "Your Account". If you join OnePass through "Enroll Instantly", data from the enrollment application is saved and you are assigned an individual OnePass account number. This information is used to maintain your mileage accrual in this program. In "Your Account", you may view your individual mileage balance, and mileage earnings and withdrawals. In addition, the "Your Account" area has a communications page that allows you to choose which types of e-mail you prefer to receive, if any at all. Your individual preferences are saved. To protect your confidential information, you are assigned a Personal Identification Number (PIN) upon activating your OnePass account. You are advised not to disclose your PIN to any third party. If you do not know your PIN, you should contact the OnePass Service Center at [onepass@opsc.flycontinental.com](mailto:onepass@opsc.flycontinental.com). 
+**Netscape** From the Tasks dropdown select Privacy and Security, and from Privacy and Security select Cookie Manager. Select View Stored Cookies - this will list all cookies associated with this specific Netscape browser. Delete the continental.com cookie (continental.rpts.net).
 
-### Use of information gathered by Continental On-Line
+You may also search your computer for the file "continental.rpts.net" and delete it.
 
-**E-mail Addresses:** E-mail addresses are only collected when voluntarily provided. As such, if you do not wish to receive e-mails from us, we ask that you do not provide your e-mail address. An e-mail address is required when subscribing to the CO.O.L. Travel Special e-mail notification service. When registering for the CO.O.L. Travel Assistant, your e-mail address is required and is used for identification and in the event Continental needs to contact you. Your e-mail address is NOT required anywhere in the OnePass pages. 
+Updating or deactivating personally identifiable information in Continental Airlines databases
 
-**Confidential Information:** Individual information you supply through the OnePass web site area follows the same standards as member information supplied through phone or mail. (OnePass members receive a Member's Guide upon activating a OnePass account that states this same policy.) From time to time, individual information may be shared with OnePass partners in order to provide members with more opportunities to earn miles and other benefits associated with OnePass membership. If you choose to keep your information private, please contact the OnePass Service Center by e-mail, phone, or mail: 
+All your personally identifiable information collected on Continental Web Sites is accessible by you for review and update purposes. Please use the Continental Contacts below for such purposes. To correct or update personally identifiable information relating to OnePass, access your OnePass account, then select the "My Account" button and make the required corrections/updates, or [contact the OnePass Service Center](http://www.continental.com/contact/onepass/default.asp). For security purposes, complete card numbers are not displayed.
 
-> **Continental feedback forms:** Questions and comments submitted online may be published in the Continental Magazine, Continental On-Line, or other publications if Continental feels that they are of a topic of interest to the audience. Examples include on-line FAQ's and the letters section of Continental Magazine. Personally identifiable information will only be published if Continental has the user's explicit permission. 
+**Continental feedback forms:** Questions and comments submitted online may be published in the Continental magazine, continental.com, or other publications if Continen
 
-All feedback is reviewed. Individuals may be contacted by Continental if requested by the user, or if Continental feels contact is warranted by the message. Both aggregate and individual comments are used to help improve Continental On-Line and other Continental products and services. 
+All feedback is reviewed. You may be contacted by Continental if you request it, or if Continental feels contact is warranted by the message. Both aggregate and individual comments are used to help improve Continental Airlines and other Continental products and services.
 
-For security and audit purposes, all contact information is archived. 
+For security and audit purposes, all contact information is archived.
 
-### Disclosure of information gathered by Continental On-Line
+#### Data Security
 
-Continental does not share personally identifiable information with third parties without permission from the user (except as outlined for OnePass members in the Member's Guide). Aggregate information may at times be shared with Continental partners and other third parties. Aggregate information includes items like demographic information, domain names, and other site traffic information, but does not include personally identifiable information. An example is: X% of subscribers are AOL users, or X% of eligible tickets purchased are e-tickets. 
+To maintain the accuracy of your data, as well as preventing unauthorized access and correct use of all data, Continental uses the appropriate physical, electronic, and managerial measures to safeguard and secure the data we collect online.
 
-### Opting-out of Continental On-Line databases
+#### Children
 
-Users may opt out of receiving CO.O.L. Travel Specials offers by ending their subscriptions, or contacting the CO.O.L. Travel Specials Administration at: [cooltravel@coair.com](mailto:cooltravel@coair.com)
+No part of Continental Web Sites or online services is directed to children. Continental does not collect personally identifiable information from individuals actually known to Continental to be under the age of 13.
 
-Users may opt out of receiving CO.O.L. Travel Assistant offers by selecting no in the section of their member information titled: "special travel promotions", or contacting the CO.O.L. Travel Assistant Administration at: [travel@cooltravel.com](mailto:travel@cooltravel.com)
+#### How to Contact Us
 
-If you have already provided your e-mail address with your OnePass account information, but prefer not to receive e-mails, please: 
+If you wish to contact us on a privacy issue, please use the information listed below. Please include your name, address and OnePass account number (if you are a OnePass member) in all correspondence and e-mail.
 
-  * Send an e-mail to the OnePass Service Center at [onepass@opsc.flycontinental.com](mailto:onepass@opsc.flycontinental.com), advising our representatives of your preference 
-  * Visit "Your Account" and delete your e-mail address, or choose which types of e-mail you wish to receive or do not wish to receive. 
+**One Pass Members:**
 
+E-mail:
+    [onepass@coair.com](mailto:onepass@coair.com)
+Phone:
+    1-713-952-1630
+Address:
+    OnePass Service Center  
+900 Grand Plaza Dr.  
+Houston, TX 77067-4323 USA
 
+**Continental Customer Care Offices:**
 
-### Update or Deactivation of personally identifiable information in Continental On-Line databases
+North America, Central America, South America, the Caribbean, Hawaii, Europe, the Middle East and Africa
 
-To correct or update personally identifiable information relating to CO.O.L. Travel Specials, subscribers should end their current subscription then re-subscribe with the corrected/updated information, or contact the CO.O.L. Travel Specials Administration at: [cooltravel@coair.com](mailto:cooltravel@coair.com)
+Address:
+    Customer Care - HQSCR  
+Continental Airlines, Inc.  
+P.O. Box 4607  
+Houston, TX 77210-4607
 
-To correct or update personally identifiable information relating to CO.O.L. Travel Assistant, access your CO.O.L. Travel Assistant account, then select the "Member Information" icon and make the required corrections/updates, or contact the CO.O.L. Travel Assistant Administration at: [travel@cooltravel.com](mailto:travel@cooltravel.com)
+Asia Pacific Region
+
+Address:
+    Customer Care Pacific  
+Continental Airlines, Inc.  
+P.O. Box 8778  
+Guam Commuter Terminal  
+Tamuning, GU 69631
+
+**Webmaster contact:**
+
+E-mail:
+    [flyco_webmaster@coair.com](mailto:flyco_webmaster@coair.com)
+
+Continental's privacy policy applies only to Continental Web Sites managed by Continental or contracted parties (imot.continental.com, www.cocargo.com, www.continental.com, www.cotimetable.com, www.onepassauction.com), You are referred to the privacy policies of the hosts of other Web sites, including Continental Airlines Vacations (www.covacations.com) or those of our code-share partners, some of which may be reached through links from Continental Web Sites. If you decide to use other Web sites that have links from our Web site, please remember to read their privacy notices.
