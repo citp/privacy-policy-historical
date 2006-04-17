@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toptenlinks.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210192147id_/http%3A//www.toptenlinks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toptenlinks.com privacy policy that was archived on 2006-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060418002004id_/http%3A//toptenlinks.com/privacy) for the most accurate reproduction.*
 
 # Top10Links - best web sites in over 1000 categories! Find the top web sites fast!
 
