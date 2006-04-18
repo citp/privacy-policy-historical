@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the henryford.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228082716id_/http%3A//www.henryford.com/body.cfm%3Fid%3D39775) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the henryford.com privacy policy that was archived on 2006-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060418033049id_/http%3A//henryford.com/body.cfm%3Fid%3D39775) for the most accurate reproduction.*
 
-# Henry Ford Health System
-
-  
-
+# Henry Ford Hospital - A Best Ranked Hospital in Detroit, Michigan
 
 ### Effective Date April 14, 2003
 
@@ -85,3 +82,6 @@ We may disclose health information as required by State and Federal laws and reg
 **CHANGES TO OUR NOTICE OF PRIVACY PRACTICES** We may change our Notice of Privacy Practices from time to time. The changes will apply to all medical information about you that we have at the time of the change, and to all medical information about you that we keep in the future. Generally, the changes will take effect when they appear in a revised Notice of Privacy Practices. A copy of our current notice will be posted in our facilities and be available to all patients. To learn more about our privacy practices, contact our Privacy Official/Contact Person listed on the first page of this Notice.
 
 **COMPLAINTS** If you are concerned about a violation of your privacy rights, you may contact the Privacy Official/Contact Person listed on the first page of this Notice. You may also send a written complaint to the Secretary of the United States Department of Health and Human Services. You will not be penalized for filing a complaint.
+
+  
+
