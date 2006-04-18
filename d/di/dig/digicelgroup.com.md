@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the digicelgroup.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406213816id_/http%3A//www.digicelgroup.com/help_faq/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digicelgroup.com privacy policy that was archived on 2006-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060418131545id_/http%3A//www.digicelgroup.com/group/privacy_policy.php) for the most accurate reproduction.*
 
-# Digicel Caribbean: Help Faq
+# Digicel Caribbean: Privacy Policy
 
 Digicel is committed to respecting your privacy and to complying with applicable data protection and privacy laws. You can visit [www.digicelcaribbean.com](http://www.digicelcaribbean.com/) without disclosing any personally identifiable information about yourself.   
 We have provided this Privacy Policy Statement to help you understand how we collect, use and protect your information when you visit the Site. We wish to help you make informed decisions, so please take a few moments to read the sections below and learn how we may use your personal information.   
