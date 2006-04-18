@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softlookup.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212151838id_/http%3A//www.softlookup.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softlookup.com privacy policy that was archived on 2006-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060418034305id_/http%3A//softlookup.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy statement
 
