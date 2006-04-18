@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uwad.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211064525id_/http%3A//uwad.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uwad.com privacy policy that was archived on 2006-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060419014312id_/http%3A//uwad.com/privacy.htm) for the most accurate reproduction.*
 
 # Ultimate Web Advertising (uwad.com) : Privacy Policy
 
@@ -86,7 +86,7 @@ Cyruslogix Software Solutions (and all its website) respects your right to perso
 
 **Parents**
 
-  * Cyruslogix Software Solutions (and all its website)  has no intention of collecting any personally identifiable information from individuals under thirteen years of age. If a child has provided us with personally identifiable information, please [contact us](https://web.archive.org/web/20051211064525id_/http%3A//uwad.com/contact/contactform.htm) at  if you would like this information deleted from our records. We will make all reasonable efforts to delete the child's information from our databases.
+  * Cyruslogix Software Solutions (and all its website)  has no intention of collecting any personally identifiable information from individuals under thirteen years of age. If a child has provided us with personally identifiable information, please [contact us](https://web.archive.org/web/20060419014312id_/http%3A//uwad.com/contact/contactform.htm) at  if you would like this information deleted from our records. We will make all reasonable efforts to delete the child's information from our databases.
 
 
 
@@ -101,7 +101,7 @@ Cyruslogix Software Solutions (and all its website) respects your right to perso
   
 **Notification of Changes**
 
-  * Please note that from time to time we review our privacy practices, and that our current practices are subject to change without any notice. We encourage our visitors and affiliates to periodically review this page to become familiar with our privacy statement and any possible changes. If you have any questions or comments about our privacy practices, you may [contact us](https://web.archive.org/web/20051211064525id_/http%3A//uwad.com/contact/contactform.htm). 
+  * Please note that from time to time we review our privacy practices, and that our current practices are subject to change without any notice. We encourage our visitors and affiliates to periodically review this page to become familiar with our privacy statement and any possible changes. If you have any questions or comments about our privacy practices, you may [contact us](https://web.archive.org/web/20060419014312id_/http%3A//uwad.com/contact/contactform.htm). 
 
 
 
