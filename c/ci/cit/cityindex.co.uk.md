@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cityindex.co.uk privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231084235id_/http%3A//cityindex.co.uk/popup.asp%3Ffile%3D07pjyfwm5xvw) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityindex.co.uk privacy policy that was archived on 2006-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060418023205id_/http%3A//cityindex.co.uk/popup.asp%3Ffile%3D07pjyfwm5xvw) for the most accurate reproduction.*
 
 # City Index
 
