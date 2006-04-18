@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geekpedia.com privacy policy that was archived on 2004-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040626235055id_/http%3A//geekpedia.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekpedia.com privacy policy that was archived on 2006-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060418082637id_/http%3A//www.geekpedia.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Geekpedia • Privacy Policy
 
@@ -14,7 +14,9 @@ Cookies are files stored on your computer with information about websites you ha
 When you register with Geekpedia you must enter your first name, surname, birthday, email and other information. This information is only made public on this website, and it is not sold or disclosed to any third party. When you post something on the website like a programming tutorial, your name will be used to represent the author of that tutorial. 
 
 **Email address**  
-We don't sell your email address. Your email address is kept only in our database when you register, for contact information. It is made public only on our website, for others to contact you. It is protected by spam by using some simple ways to trick the crawlers. We will contact you only when necessary (reseting your password, tutorial approval, etc.) For more information read the [FAQ](https://web.archive.org/web/20040626235055id_/http%3A//geekpedia.com/faq.php?PHPSESSID=bf9795f5993524ee0c198d21f79c1a72). 
+We don't sell your email address. Your email address is kept only in our database when you register, for contact information. It is made public only on our website, for others to contact you. It is protected by spam by using some simple ways to trick the crawlers. We will contact you only when necessary (reseting your password, tutorial approval, etc.).  
+We may only send you very few emails (two or three a year) that we think you would be interested in (IT conferences, for example) and that don't have any comercial interest.  
+For more information read the [FAQ](https://web.archive.org/web/20060418082637id_/http%3A//www.geekpedia.com/faq.php). 
 
 **Security**  
 This website has security measures meant to prevent loss or alteration of the information. Although we can't guaranty that the information you posted will not be alterated or deleted from our website. Backups are usually made daily. 
