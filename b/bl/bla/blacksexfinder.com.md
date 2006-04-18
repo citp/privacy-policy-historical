@@ -1,17 +1,14 @@
-> *The following text is extracted and transformed from the blacksexfinder.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210051400id_/http%3A//blacksexfinder.com/public.php%3Fgo%3Dprivacy%26SID%3Da180f2ec94e7c9785e7de2be79941e02) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blacksexfinder.com privacy policy that was archived on 2006-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060418105222id_/http%3A//blacksexfinder.com/public.php%3Fgo%3Dprivacy) for the most accurate reproduction.*
 
 # Black Sex - Privacy Policy
 
-|  |   
----  
-  
----  
-  
-Register NOW!  
-  
+| 
+
+[](http://www.epiccash.com/track/track.php?UID=KELVYN&SID=21&PID=S)
+
 [](http://template.aebn.net/tid/28014/index.cfm?tid=28014)
 
-|  **Information Obtained**
+|  |  **Information Obtained**
 
 When you join blacksexfinder.com, you will create a user identity, which will include a username, personal profile, personal narrative and photograph. You will be asked for some personal information to complete your profile such as body type, personal interests, etc. The information you provide is being made available to the public as part of your personal profile and you should recognize as much prior to providing your information. If there is any information that you do not wish to made available to the public at large, you should not post it in your profile. 
 
@@ -25,7 +22,7 @@ We use “cookies” to identify how individuals use our site and to facilitate 
 
 **Security**
 
-blacksexfinder.com takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line. When our registration/order process asks users to enter sensitive information (such as a credit card number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example a billing clerk or a customer service representative) are granted access to personally identifiable information. 
+blacksexfinder.com takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line. NO BACKGROUND SEARCH OF FELONY OR SEXUAL OFFENSE CONVICTIONS IS DONE ON MEMBERS WHO USE THIS SERVICE. PLEASE TAKE APPROPRIATE SAFETY MEASURES TO INCREASE AWARENESS OF POSSIBLE RISKS ASSOCIATED WITH DATING. When our registration/order process asks users to enter sensitive information (such as a credit card number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example a billing clerk or a customer service representative) are granted access to personally identifiable information. There is no substitute for using good common sense and acting with caution when communicating with any stranger who wants to meet you. 
 
 **Billing Information**
 
@@ -49,17 +46,13 @@ If you have any questions regarding the above Policy Statement, please contact u
 
 |  | 
 
-[](https://web.archive.org/register.php?SID=d69d67b48bd980add4045d15f22d9723)
+[](https://web.archive.org/register.php)
 
-[](https://web.archive.org/rate.php?go=top&p=0&cat=0&SID=d69d67b48bd980add4045d15f22d9723)
+[](https://web.archive.org/rate.php?go=top&p=0&cat=0)
 
 [](http://www.adameve.com/AffiliateEntry.asp?bid=15&eid=19&aid=6584)
 
   
-
-
-|   
----  
-This website contains adult material, all members and persons appearing on this site have contractually represented to us that they are 18 years of age or older.   
-This site does not contain sexually explicit images as defined in  
-[18 U.S.C. 2256](http://www.blacksexfinder.com/18U_S_C_2257.php). 
+  
+  
+---|---|---|---|---
