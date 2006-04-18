@@ -1,20 +1,160 @@
-<!--The following is the downloaded HTML source of the henryford.com privacy policy that was archived on 2005-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051228082716id_/http%3A//www.henryford.com/body.cfm%3Fid%3D39775) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the henryford.com privacy policy that was archived on 2006-04-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060418033049id_/http%3A//henryford.com/body.cfm%3Fid%3D39775) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-<title>Henry Ford Health System</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<html><head><script type="text/javascript">
+var dtCurrentDate = new Date();
+
+//example below we set a Date object to a specific date (14th July 2006), for testing
+//dtCurrentDate = new Date("December 25, 2006 11:00:00");
+
+var hfDay = dtCurrentDate.getDate();
+var hfMonth = dtCurrentDate.getMonth();
+var hflogo_dir = "1";
+
+// if month is January
+if (hfMonth == 0){ hflogo_dir = "1";} // snow
+// if month is february
+if (hfMonth == 1) {
+	// and day is LT 9 --->
+	if(hfDay < 8) {hflogo_dir = "1";} // snow	
+	// and day is GTE 10 
+	if(hfDay >= 9){hflogo_dir = "2";} // hearts
+	// and day is GTE 16 
+	if(hfDay >= 15){hflogo_dir = "3";} // snow
+}
+// if month EQ march 
+if(hfMonth == 2){
+	// and day is LTE 10 
+	if(hfDay <= 9){hflogo_dir = "3";} // snow
+	// and day is GTE 11
+	if(hfDay >= 10){hflogo_dir = "4";} // shamrocks
+	// and day is GTE 19 
+	if(hfDay >= 18){hflogo_dir = "5";} // yellow tulips
+}
+// if month EQ april 
+if(hfMonth == 3){hflogo_dir = "5";} // yellow tulips
+// if month EQ may 
+if(hfMonth == 4){
+	// and day LTE 24 
+	if(hfDay <= 23){hflogo_dir = "5";} // yellow tulips
+	// and day GTE 25 
+	if(hfDay >= 24){hflogo_dir = "6";} // flag motif
+}
+// if month EQ june
+if(hfMonth == 5){hflogo_dir = "7";} // black eyed susan flowers
+// if month EQ july
+if(hfMonth == 6){
+	// and day EQ 1 
+	if(hfDay == 0){hflogo_dir = "7";} // back eyed susan flowers
+	// and day GTE 2 
+	if(hfDay >= 1){hflogo_dir = "8";} // flag 
+	// and day GTE 8 
+	if(hfDay >= 7){hflogo_dir = "7";} // black eyed susan flowers 
+}
+//if month EQ august 
+if(hfMonth == 7){
+	// and day LTE 15 
+	if(hfDay <= 14){hflogo_dir = "7";} // black eyed susan flowers
+	//and day GTE 16
+	if(hfDay >= 15){hflogo_dir = "11";} // back to school
+}
+//if month EQ september
+if(hfMonth == 8){
+	// and day LTE 15
+	if(hfDay <= 14){hflogo_dir = "11";} // back to school
+	// and day GTE 16
+	if(hfDay >= 15){hflogo_dir = "10";} // leafs
+}
+//if month EQ october
+if(hfMonth == 9){hflogo_dir = "10";} // leafs
+//if month EQ november 
+if(hfMonth == 10){
+	// and day LTE 25 
+	if(hfDay <= 24){hflogo_dir = "10";} // leafs
+	// and day GTE 26 
+	if(hfDay >= 25){hflogo_dir = "12";} // christmas
+}
+//if month EQ december 
+if(hfMonth == 11){hflogo_dir = "12";} // christmas
+
+var hfdir = 'images/seasonal_2006/' + hflogo_dir + '/';
+var imgDay = ''
+var imgNight = '_night'
+var hours = dtCurrentDate.getHours();
+if (hours >=12){ var xm = 'P' } else { var xm = 'A' }
+var hours = ((hours >12) ? hours -12 :hours)
+if (hours == "0") hours = 12;
+var time = hours + "" + xm
+if (time == '12A'){var imode = imgNight}
+if (time == '1A'){var imode = imgNight}
+if (time == '2A'){var imode = imgNight}
+if (time == '3A'){var imode = imgNight}
+if (time == '4A'){var imode = imgNight}
+if (time == '5A'){var imode = imgNight}
+if (time == '6A'){var imode = imgNight}
+if (time == '7A'){var imode = imgDay}
+if (time == '8A'){var imode = imgDay}
+if (time == '9A'){var imode = imgDay}
+if (time == '10A'){var imode = imgDay}
+if (time == '11A'){var imode = imgDay}
+if (time == '12P'){var imode = imgDay}
+if (time == '1P'){var imode = imgDay}
+if (time == '2P'){var imode = imgDay}
+if (time == '3P'){var imode = imgDay}
+if (time == '4P'){var imode = imgDay}
+if (time == '5P'){var imode = imgDay}
+if (time == '6P'){var imode = imgDay}
+if (time == '7P'){var imode = imgDay}
+if (time == '8P'){var imode = imgNight}
+if (time == '9P'){var imode = imgNight}
+if (time == '10P'){var imode = imgNight}
+if (time == '11P'){var imode = imgNight}
+
+function img_(name, ext){  
+	document.write('<img src="' + hfdir + name + imode + ext + '" border="0">');
+}
+function bg_(name, ext){
+	document.write(hfdir + name + imode + ext);
+}
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+
 
 <script language="JavaScript" type="text/JavaScript">
 <!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
 function MM_preloadImages() { //v3.0
   var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
     var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
     if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
 }
 
 function MM_findObj(n, d) { //v4.01
@@ -32,81 +172,205 @@ function MM_swapImage() { //v3.0
 //-->
 </script>
 
-<script language="JavaScript" type="text/JavaScript">
-  <!--
-  function MM_openBrWindow(theURL,winName,features) { //v2.0
-  window.open(theURL,winName,features);
-  }
-//-->
-</script>
-
-<!-- hit counter wi --><script>var wiCountVer11="34323130327c68656e7279666f72646865616c74682e6f72677c68656e7279666f72642e636f6d7c";function wiSLD(host){if(host.search(/[a-z]/i)!=-1){var out;return((out=host.match(/(?:^|\.)([\w-]+\.[\w-]+)$/))!=null)?out[1].toLowerCase():"";}else return host;}function wiIsLocal(url,localSLDs){var urlDom;urlDom=((urlDom=url.match(/^https?:\/\/([\w\.-]+)/i))!=null)?urlDom[1]:"";return localSLDs.indexOf("|"+wiSLD(urlDom)+"|")!=-1;}function wiSetCookie(){document.cookie="wi=true; path=/; domain="+wiSLD(location.host);}function wiCookiePresent(){return (document.cookie.search(/\bwi=true\b/)!=-1);}function wiU(a){return unescape(a.replace(/((?:[\da-f]{2})|(?:u[\da-f]{4}))/g,'%$1'));}function wiCount(){var pg=escape(location.href);var ref=escape(document.referrer);var url="http://www.wicountserver.com/count.asp?typ=load&pg="+pg+"&ac="+wiU(wiCountVer11.substr(0,10))+"&ref="+ref;pixel=new Image(1,1);pixel.src=url.replace(/\.[^\.]*\./,unescape('%2e%77%69%63%34%2e'));}function wiCountIfEntry(){var thisSLD=wiSLD(location.host);var localSLDs=wiU(wiCountVer11.substr(10));if(localSLDs.indexOf("|"+thisSLD+"|")!=-1){if(document.referrer==''){if(!wiCookiePresent()){wiSetCookie();wiCount();}}else if(wiIsLocal(document.referrer,localSLDs)){if(!wiCookiePresent())wiSetCookie();}else{wiCount();if(!wiCookiePresent())wiSetCookie();}}}wiCountIfEntry();</script><base target="_top">
-
-</head>
-
-<body leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0" marginwidth="0" marginheight="0" style="background-image:  url(images/redesign2/hdr_bg.gif); background-repeat: repeat-x; top left" onload="MM_preloadImages('images/redesign2/btn_top_home_on.gif','images/redesign2/btn_top_corporate_on.gif','images/redesign2/btn_top_careers_on.gif','images/redesign2/btn_top_news_on.gif','images/redesign2/btn_top_contact_on.gif','images/redesign2/btn_lft_make_on.gif','images/redesign2/btn_lft_find_on.gif','images/redesign2/btn_lft_sign_on.gif')">
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-	
-	
-	
-
-
-
-
-	
 		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+
+		
+		
+			
+
+		
+
+		
+		
+		
+
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+
+		
+		
+			
+
+		
+
+		
+		
+		
+
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+
+		
+		
+			
+
+		
+
+		
+		
+		
+
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+
+	
+
+
+	
+
+
+
 	
 	
-	
-	
 
-
-
-	
 
 
 
 
 
 	
+	<title>Henry Ford Hospital - A Best Ranked Hospital in Detroit, Michigan</title>
+<meta name="description" content="Henry Ford Hospital in Detroit Michigan offers breakthrough treatments including robotic prostatectomy (prostate surgery), bariatric (weight loss) surgery, advanced cancer treatment, brain tumor treatments and heart care.">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<style type="text/css">
+		@import url(hfhs.css);
+	</style>
 	
-
-
-
-
-
-<script language="JavaScript" type="text/javascript">
+	<script language="JavaScript" type="text/javascript">
 <!--
 function sm_ValidateForm(f) {
 	return true;
 }
 //-->
-</script>
-<script language="JavaScript1.2" type="text/javascript">
+</script><script language="JavaScript1.2" type="text/javascript">
 <!--
 var sm_reEmpty = /^\s*$/;
 var sm_reLeading = /^(\s+)/i;
@@ -588,8 +852,279 @@ function sm_ValidateForm(f, confirmDelete) {
 	return true;
 }
 //-->
-</script>
+</script><script language="JavaScript" type="text/javascript">
+<!--
+function getCookie(Name) {
+	var search = Name + "=";
+	if (document.cookie.length > 0) { // if there are any cookies
+		var offset = document.cookie.indexOf(search);
+		if (offset != -1) { // if cookie exists
+			offset += search.length; // set index of beginning of value
+			var end = document.cookie.indexOf(";", offset); // set index of end of cookie value
+			if (end == -1)
+				end = document.cookie.length;
+				return unescape(document.cookie.substring(offset, end));
+		}
+	}
+	return null;
+}
+function setCookie(name, value, expire, domain, path) {
+	var escval = escape(value);
+	if ((escval.length + name.length) > 4096) return false;
+	document.cookie = name + "=" 
+		+ escval
+		+ ((expire == null || expire.length == 0) ? "" : ("; EXPIRES=" + expire.toUTCString()))
+		+ ((domain == null || domain.length == 0) ? "" : ("; DOMAIN=" + domain))
+		+ ((path == null || path.length == 0) ? "" : ("; PATH=" + path));
+	return true;
+}
+function StoreCookie(f) {
+	var expireDate;
+	var userName;
+	
+	expireDate = new Date();
+	expireDate.setMonth(expireDate.getMonth() + 6);
+	userName = f.strUserName.value;
+	setCookie("un", userName, expireDate, window.location.host, "");
+}
+function ReadCookie() {
+	var data = getCookie("un");
+	if (data != null) {
+		if (document.frmLogin.strUserName.value.length > 0) {
+			var expireDate= new Date();
+			setCookie("un", "", expireDate, window.location.host, "");
+		} else {
+			document.frmLogin.strUserName.value = data;
+		}
+	}
+}
+var jsMyHealthRememberUserNameOnloadBackup = null;
+function jsMyHealthRememberUserNameOnload() {
+	if (jsMyHealthRememberUserNameOnloadBackup != null) {
+		jsMyHealthRememberUserNameOnloadBackup();
+	}
+	ReadCookie();
+	return true;
+}
+if (window.onload) {
+	jsMyHealthRememberUserNameOnloadBackup = window.onload;
+}
+window.onload = jsMyHealthRememberUserNameOnload;
+//-->
+</script><script>var wiCountVer11="34323130327c68656e7279666f72646865616c74682e6f72677c68656e7279666f72642e636f6d7c";function wiSLD(host){if(host.search(/[a-z]/i)!=-1){var out;return((out=host.match(/(?:^|\.)([\w-]+\.[\w-]+)$/))!=null)?out[1].toLowerCase():"";}else return host;}function wiIsLocal(url,localSLDs){var urlDom;urlDom=((urlDom=url.match(/^https?:\/\/([\w\.-]+)/i))!=null)?urlDom[1]:"";return localSLDs.indexOf("|"+wiSLD(urlDom)+"|")!=-1;}function wiSetCookie(){document.cookie="wi=true; path=/; domain="+wiSLD(location.host);}function wiCookiePresent(){return (document.cookie.search(/\bwi=true\b/)!=-1);}function wiU(a){return unescape(a.replace(/((?:[\da-f]{2})|(?:u[\da-f]{4}))/g,'%$1'));}function wiCount(){var pg=escape(location.href);var ref=escape(document.referrer);var url="http://www.wicountserver.com/count.asp?typ=load&pg="+pg+"&ac="+wiU(wiCountVer11.substr(0,10))+"&ref="+ref;pixel=new Image(1,1);pixel.src=url.replace(/\.[^\.]*\./,unescape('%2e%77%69%63%34%2e'));}function wiCountIfEntry(){var thisSLD=wiSLD(location.host);var localSLDs=wiU(wiCountVer11.substr(10));if(localSLDs.indexOf("|"+thisSLD+"|")!=-1){if(document.referrer==''){if(!wiCookiePresent()){wiSetCookie();wiCount();}}else if(wiIsLocal(document.referrer,localSLDs)){if(!wiCookiePresent())wiSetCookie();}else{wiCount();if(!wiCookiePresent())wiSetCookie();}}}wiCountIfEntry();</script><base target="_top"><title>Henry Ford Health System</title><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><script language="JavaScript" type="text/JavaScript">
+  <!--
+  function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+  }
+//-->
+</script><script>var wiCountVer11="34323130327c68656e7279666f72646865616c74682e6f72677c68656e7279666f72642e636f6d7c";function wiSLD(host){if(host.search(/[a-z]/i)!=-1){var out;return((out=host.match(/(?:^|\.)([\w-]+\.[\w-]+)$/))!=null)?out[1].toLowerCase():"";}else return host;}function wiIsLocal(url,localSLDs){var urlDom;urlDom=((urlDom=url.match(/^https?:\/\/([\w\.-]+)/i))!=null)?urlDom[1]:"";return localSLDs.indexOf("|"+wiSLD(urlDom)+"|")!=-1;}function wiSetCookie(){document.cookie="wi=true; path=/; domain="+wiSLD(location.host);}function wiCookiePresent(){return (document.cookie.search(/\bwi=true\b/)!=-1);}function wiU(a){return unescape(a.replace(/((?:[\da-f]{2})|(?:u[\da-f]{4}))/g,'%$1'));}function wiCount(){var pg=escape(location.href);var ref=escape(document.referrer);var url="http://www.wicountserver.com/count.asp?typ=load&pg="+pg+"&ac="+wiU(wiCountVer11.substr(0,10))+"&ref="+ref;pixel=new Image(1,1);pixel.src=url.replace(/\.[^\.]*\./,unescape('%2e%77%69%63%34%2e'));}function wiCountIfEntry(){var thisSLD=wiSLD(location.host);var localSLDs=wiU(wiCountVer11.substr(10));if(localSLDs.indexOf("|"+thisSLD+"|")!=-1){if(document.referrer==''){if(!wiCookiePresent()){wiSetCookie();wiCount();}}else if(wiIsLocal(document.referrer,localSLDs)){if(!wiCookiePresent())wiSetCookie();}else{wiCount();if(!wiCookiePresent())wiSetCookie();}}}wiCountIfEntry();</script><base target="_top"></head>
  
+
+
+	 
+	 
+	 
+	 
+
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+
+	
+	
+
+	
+	
+
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+		
+		
+	
+		
+
+	
+		
+
+	
+		
+
+	
+		
+
+
+<!-- B henryfordhealth.org --><!-- body ok -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+
+
+
+
+	
+		
+	
+	
+	
+	
+
+
+
+	
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+<!-- hit counter wi --><!-- hitcounter ok -->
+
+
+	
+		
+	
+ 
+
+
+
+<!-- hit counter wi --><!-- hitcounter ok -->
+<body bgcolor="#8D837B" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="MM_preloadImages('images_2006/btn_top_home_on.gif','images_2006/btn_top_about_on.gif','images_2006/btn_top_careers_on.gif','images_2006/top_press_on.gif','images_2006/top_contactus_on.gif','images_2006/btn_top_contact_on.gif')" style="scrollbar-face-color: #9D948D" "scrollbar-arrow-color:="" #9d948d"="">
+<!-- hit counter wi --><script>var wiCountVer11="34323130327c68656e7279666f72646865616c74682e6f72677c68656e7279666f72642e636f6d7c";function wiSLD(host){if(host.search(/[a-z]/i)!=-1){var out;return((out=host.match(/(?:^|\.)([\w-]+\.[\w-]+)$/))!=null)?out[1].toLowerCase():"";}else return host;}function wiIsLocal(url,localSLDs){var urlDom;urlDom=((urlDom=url.match(/^https?:\/\/([\w\.-]+)/i))!=null)?urlDom[1]:"";return localSLDs.indexOf("|"+wiSLD(urlDom)+"|")!=-1;}function wiSetCookie(){document.cookie="wi=true; path=/; domain="+wiSLD(location.host);}function wiCookiePresent(){return (document.cookie.search(/\bwi=true\b/)!=-1);}function wiU(a){return unescape(a.replace(/((?:[\da-f]{2})|(?:u[\da-f]{4}))/g,'%$1'));}function wiCount(){var pg=escape(location.href);var ref=escape(document.referrer);var url="http://www.wicountserver.com/count.asp?typ=load&pg="+pg+"&ac="+wiU(wiCountVer11.substr(0,10))+"&ref="+ref;pixel=new Image(1,1);pixel.src=url.replace(/\.[^\.]*\./,unescape('%2e%77%69%63%34%2e'));}function wiCountIfEntry(){var thisSLD=wiSLD(location.host);var localSLDs=wiU(wiCountVer11.substr(10));if(localSLDs.indexOf("|"+thisSLD+"|")!=-1){if(document.referrer==''){if(!wiCookiePresent()){wiSetCookie();wiCount();}}else if(wiIsLocal(document.referrer,localSLDs)){if(!wiCookiePresent())wiSetCookie();}else{wiCount();if(!wiCookiePresent())wiSetCookie();}}}wiCountIfEntry();</script><base target="_top"><!-- hitcounter ok -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+
+
+
+
+	
+		
+	
+	
+	
+	
+
+
+
+	
+
+
+
+
+
+	
+	
+
+
+
+
 
 
 <script language="JavaScript" type="text/javascript">
@@ -655,53 +1190,63 @@ window.onload = jsMyHealthRememberUserNameOnload;
 
 
 <link href="hfhs.css" rel="stylesheet" type="text/css">
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td valign="top" style="background-image: url(images/redesign2/header_seasonal.jpg); background-repeat: no-repeat; background-position: top right;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr> 
-          <td rowspan="2" valign="top" width="1%"><a href="default.cfm?oTopID=0"><img src="images/redesign2/hdr_hfhs_sign.gif" border="0"></a></td>
-          <td width="99%" align="right" valign="top"><a href="default.cfm?oTopID=0" onmouseover="MM_swapImage('home','','images/redesign2/btn_top_home_on.gif',1)" onmouseout="MM_swapImgRestore()"><img src="images/redesign2/btn_top_home.gif" name="home" width="68" height="21" border="0" id="home"></a><a href="body.cfm?id=37460&amp;oTopID=0" onmouseover="MM_swapImage('corporate','','images/redesign2/btn_top_corporate_on.gif',1)" onmouseout="MM_swapImgRestore()"><img src="images/redesign2/btn_top_corporate.gif" name="corporate" width="167" height="21" border="0" id="corporate"></a><a href="http://careers.peopleflow.com/hfcareers/" onmouseover="MM_swapImage('careers','','images/redesign2/btn_top_careers_on.gif',1)" onmouseout="MM_swapImgRestore()"><img src="images/redesign2/btn_top_careers.gif" name="careers" width="84" height="21" border="0" id="careers"></a><a href="body.cfm?id=46294&amp;oTopID=0" onmouseover="MM_swapImage('news','','images/redesign2/btn_top_news_on.gif',1)" onmouseout="MM_swapImgRestore()"><img src="images/redesign2/btn_top_news.gif" name="news" width="110" height="21" border="0" id="news"></a><a href="body.cfm?id=40156&amp;oTopID=0" onmouseover="MM_swapImage('contact','','images/redesign2/btn_top_contact_on.gif',1)" onmouseout="MM_swapImgRestore()"><img src="images/redesign2/btn_top_contact.gif" name="contact" width="88" height="21" border="0" id="contact"></a></td>
-        </tr>
-        <tr> 
-          <td valign="top" width="99%">&nbsp;</td>
-        </tr>
-      </tbody></table></td>
-  </tr>
-</tbody></table>
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr> 
-    <td width="1%" valign="top"><img src="images/redesign2/lft_btn_shadow.gif"></td>
-    <td width="1%" align="right" valign="top"><img src="images/redesign2/bdy_spacer.gif" width="30" height="1"></td>
-    <td width="97%" align="left" valign="top" background="images/redesign2/bdy_search_bg.gif"><a href="#" onclick="MM_openBrWindow('pop_up.html','campusmap','width=750,height=550')"><img src="images/redesign2/btn_sub_top_find.gif" width="93" height="19" border="0"></a><a href="body.cfm?id=46333"><img src="images/redesign2/btn_sub_top_information.gif" width="219" height="19" border="0"></a></td>		  
-	<form method="post" action="body.cfm?id=38433" name="taxonomy"></form>
+<table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td>
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF"><tbody><tr>
+	<td valign="top" style="background-image:url(images_2006/leftsidetile.gif); background-repeat: repeat-y; background-position: top left;"><script>img_("a",".jpg");</script><img src="images/seasonal_2006/3/a_night.jpg" border="0">
+	</td>
+	<td width="100%" rowspan="2" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr> 
+				<td width="0%" colspan="4" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+						<tbody><tr> 
+							<td width="0%" valign="top"><a href="default.cfm"><script>img_("b",".jpg");</script><img src="images/seasonal_2006/3/b_night.jpg" border="0"></a></td>
+							<td width="0%" valign="top" align="left"><a href="default.cfm"><script>img_("e",".jpg");</script><img src="images/seasonal_2006/3/e_night.jpg" border="0"></a></td>
+							<td width="100%" valign="top" align="right" style="background-image:url(images_2006/headertile.gif); background-repeat: repeat-x; background-position: top left;"><img src="images_2006/headermiddle.gif" border="0"></td>
+							
+									<td width="0%" valign="top" bgcolor="C1BBB8" align="right" style="background-image:url(images_2006/searchbkgrd.gif); background-repeat: no-repeat; background-position: top left;">
+									<table width="100%" border="0" cellpadding="0" cellspacing="0">
+									  <tbody><tr>
+									    <td align="right"><table width="100%" border="0" cellpadding="0" cellspacing="0"><form method="post" action="body.cfm?id=38433" name="taxonomy"></form>
 	 
 		<input type="hidden" name="includewhat" value="Webpages,modnews,modNews1,modNews2,Websites,Articles"><input type="hidden" name="action" value="search">
-	    <td width="1%" align="right" valign="top" background="images/redesign2/bdy_search_bg.gif" nowrap=""><img src="images/redesign2/btn_sub_top_search.gif" width="52" height="19" align="absmiddle"><input type="text" name="keywords" value="Search Henry Ford" align="absmiddle" onblur="if(!this.value)this.value='Search Henry Ford';" onfocus="if(this.value=='Search Henry Ford')this.value='';" style="background-color:EDF4FA; border: 1px solid ACD3F2; font-size:9px; font-family: arial; color: 000000; padding-bottom: 2px;"><input type="image" src="images/redesign2/btn_sub_top_go.gif" width="28" height="19" border="0" hspace="3" name="submit" align="absmiddle" style="border: 0px"><input type="hidden" name="DebugMe" value=""><!-- crawlable search results --><noscript><a href="http://www.henryfordhealth.org/Prostate-Cancer.cfm"><img src="HenryFordHealthSystem3.GIF" border="0" alt="Prostate Cancer Search"></a></noscript></td>
+	    <tbody><tr><td width="0%" align="right" valign="top" nowrap=""><img src="images_2006/abovesearch.gif"><br><br><input type="text" name="keywords" value="Search Henry Ford" align="absmiddle" onblur="if(!this.value)this.value='Search Henry Ford';" onfocus="if(this.value=='Search Henry Ford')this.value='';" style="background-color:#FFFFFF; border: 1px solid #776B5F; font-size:10px; font-family: arial; color: #000000; padding-bottom: 0px;"><input type="image" src="images_2006/go.gif" width="27" height="17" hspace="3" name="submit" align="absmiddle" style="border: 0px"><input type="hidden" name="DebugMe" value=""><!-- crawlable search results --><noscript><a href="http://www.henryfordhealth.org/Prostate-Cancer.cfm"><img src="HenryFordHealthSystem3.GIF" border="0" alt="Prostate Cancer Search"></a></noscript></td>
+	</tr></tbody></table></td></tr></tbody></table>
 	
-	
-  </tr>
-</tbody></table>
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr> 
-    <td width="1%" valign="top">
-		
+	</td></tr></tbody></table></td></tr>
+			<tr> 
+				<td width="0%" colspan="4" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+						<tbody><tr> 
+							<td width="0%" valign="top"><a href="default.cfm"><script>img_("d",".jpg");</script><img src="images/seasonal_2006/3/d_night.jpg" border="0"></a></td>
+							<td width="0%" valign="top"><script>img_("c",".jpg");</script><img src="images/seasonal_2006/3/c_night.jpg" border="0"></td>
+							<td width="100%" valign="top" align="right" style="background-image:url(images_2006/topnavtile.gif); background-repeat: repeat-x; background-position: top left;"><a href="default.cfm?oTopID=0" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image21','','images_2006/btn_top_home_on.gif',1)"><img src="images_2006/btn_top_home.gif" alt="Henry Ford Homepage" name="Image21" width="48" height="19" border="0"></a><a href="body.cfm?id=37460&amp;oTopID=0" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image22','','images_2006/btn_top_about_on.gif',1)"><img src="images_2006/btn_top_about.gif" alt="About Us" name="Image22" width="67" height="19" border="0"></a><a href="http://careers.peopleflow.com/hfcareers/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image23','','images_2006/btn_top_careers_on.gif',1)"><img src="images_2006/btn_top_careers.gif" alt="Careers" name="Image23" width="64" height="19" border="0"></a><a href="body.cfm?id=46294" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image19','','images_2006/btn_top_press_on.gif',1)"><img src="images_2006/btn_top_press.gif" name="Image19" width="84" height="19" border="0"></a><a href="body.cfm?id=40156&amp;oTopID=0" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image24','','images_2006/btn_top_contact_on.gif',1)"><img src="images_2006/btn_top_contact.gif" alt="Contact Us" name="Image24" width="85" height="19" border="0"></a></td>
+						</tr>
+					</tbody></table></td>
+			</tr><tr>
+			<td width="0%" height="560" valign="top" bgcolor="F2F2F2"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+					<tbody><tr> 
+						<td width="0%" valign="top"><a href="default.cfm"><script>img_("f",".jpg");</script><img src="images/seasonal_2006/3/f_night.jpg" border="0"></a></td>
+					</tr>
+					<tr> 
+						<td width="0%" valign="top" bgcolor="F2F2F2">
 		<style>				
 			table.mainCont1 {padding:0px;}
 			tr.clTop1 {padding:0px;}	
 			th.clTop1 {align:left; width:1%;}	
 			td.clTop1 {padding:0px;}		
-			table.clSub1 {width:100%; padding:0px; background-image: url(images/redesign2/bdy_lft_nav_gradient.gif); background-repeat: repeat-y; top left}			
+			table.clSub1 {width:100%; padding:0px; background-image: url(images_2006/bdy_lft_nav_gradient.gif); background-repeat: repeat-y; top left; border-bottom: 0px solid #FFFFFF;}			
 			tr.clSub1 {}
 			th.clSub1 {vertical-align:top;}
 			td.clSub1 {}				
 			tr.pclTop1 {}
-			td.pclTop1 {background-color:#FCFAEC;border-bottom: 1px solid #FFFFFF;padding: 0px;}		
+			td.pclTop1 {background-color:#F2F2F2; border-bottom: 2px solid #E4E4E4; padding: 0px;}		
 			A.clMain1:link {font-family:Verdana; font-size:10pt; text-decoration:none; font-weight:normal; color:#000000; text-align:left;}
 			A.clMain1:visited {font-family:Verdana; font-size:10pt; text-decoration:none; font-weight:normal; color:#000000; text-align:left;} 
-			A.clMain1:hover {font-family:Verdana; font-size:10pt; text-decoration:hover; font-weight:normal; color:#FF0000; text-align:left;} 		
-			A.clSubb1:link {font-family:arial; font-size:11px; text-decoration:none; font-weight:normal; color:#1705A4; text-align:left;}
-			A.clSubb1:visited {font-family:arial; font-size:11px; text-decoration:none; font-weight:normal; color:#1705A4; text-align:left;}
-			A.clSubb1:hover {background-color:#FCFAEC; font-family:arial; font-size:11px; text-decoration:hover; font-weight:normal; color:#000000; text-align:left;}		
+			A.clMain1:hover {font-family:Verdana; font-size:10pt; text-decoration:hover; font-weight:normal; color:#FF0000; text-align:left;} 	
+			A.clMain1:active {font-family:Verdana; font-size:10pt; text-decoration:none; font-weight:normal; color:#000000; text-align:left;}	
+			A.clSubb1:link {font-family:arial; font-size:11px; text-decoration:none; font-weight:normal; color:#5E5349; text-align:left;}
+			A.clSubb1:visited {font-family:arial; font-size:11px; text-decoration:none; font-weight:normal; color:#5E5349; text-align:left;}
+			A.clSubb1:hover {background-color:#FFFFFF; font-family:arial; font-size:11px; text-decoration:hover; font-weight:normal; color:#000000; text-align:left;}	
+			A.clSubb1:active {font-family:arial; font-size:11px; text-decoration:none; font-weight:normal; color:#5E5349; text-align:left;}		
 			td.pHTMLbetween1 {padding:0px;}
 			td.cHTMLbetween1 {padding:0px;}
 			td.pHTMLbefore1 {padding:0px;}
@@ -776,7 +1321,7 @@ window.onload = jsMyHealthRememberUserNameOnload;
 				}	
 			
 				
-					slidingTbl_preloadImages('images/redesign2/btn_lft_make_on.gif','images/redesign2/btn_lft_find_on.gif','images/redesign2/btn_lft_sign_on.gif','images/redesign2/btn_lft_refer_on.gif','images/redesign2/btn_lft_gift_on.gif','images/redesign2/btn_lft_services_on.gif','images/redesign2/btn_lft_health_on.gif','images/redesign2/btn_lft_information_on.gif','images/redesign2/btn_lft_interactive_on.gif','images/redesign2/btn_lft_locations_on.gif','images/redesign2/btn_lft_medical_on.gif','images/redesign2/btn_lft_research_on.gif','images/redesign2/btn_lft_classesevents_on.gif','images/redesign2/btn_lft_heart_on.gif','images/redesign2/btn_lft_neuroscience_on.gif','images/redesign2/btn_lft_orthopaedics_on.gif','images/redesign2/btn_lft_cancer_on.gif','images/redesign2/btn_lft_organ_on.gif','images/redesign2/btn_lft_prostate_on.gif');
+					slidingTbl_preloadImages('images_2006/btn_lft_make_on.gif','images_2006/btn_lft_find_on.gif','images_2006/btn_lft_locations_on.gif','images_2006/btn_lft_sign_on.gif','images_2006/btn_lft_refer_on.gif','images_2006/btn_lft_gift_on.gif','images_2006/btn_lft_services_on.gif','images_2006/btn_hospitals2_on.gif','images_2006/btn_lft_health_on.gif','images_2006/btn_lft_patient_on.gif','images_2006/btn_lft_research_on.gif','images_2006/btn_lft_medical_on.gif','images_2006/btn_lft_classesevents_on.gif','images_2006/btn_lft_heart_on.gif','images_2006/btn_lft_neuroscience_on.gif','images_2006/btn_lft_orthopaedics_on.gif','images_2006/btn_lft_cancer_on.gif','images_2006/btn_lft_organ_on.gif','images_2006/btn_lft_prostate_on.gif');
 								
 			
 				onloadFunctions1();
@@ -788,99 +1333,126 @@ window.onload = jsMyHealthRememberUserNameOnload;
 		
 			<table class="mainCont1" cellspacing="0">			
 							
-				<tbody><tr class="clTop1" id="pLinkTR_38776_1">
+				<tbody><tr class="clTop1" id="pLinkTR_46472_1">
 			
-					<td class="clTop1" id="pLinkTD_38776_1"><a href="https://www.henryford.com/secure/MakeAnAppointmentinfo.cfm" class="clMain1" target="_blank"><img src="images/redesign2/btn_lft_make.gif" border="0" name="pButton_38776_1" id="pButton_38776_1" onmouseover="slidingTbl_swapImage('pButton_38776_1','','images/redesign2/btn_lft_make_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Make An Appointment"></a></td>
+					<td class="clTop1" id="pLinkTD_46472_1"><a href="body.cfm?id=46472&amp;oTopID=46472" class="clMain1"><img src="images_2006/btn_lft_make.gif" border="0" name="pButton_46472_1" id="pButton_46472_1" onmouseover="slidingTbl_swapImage('pButton_46472_1','','images_2006/btn_lft_make_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Make an Appointment"></a></td>
+			
 				</tr>	
 								
 				<tr class="clTop1" id="pLinkTR_38441_1">
 			
-					<td class="clTop1" id="pLinkTD_38441_1"><a href="body.cfm?id=38441&amp;oTopID=38441" class="clMain1"><img src="images/redesign2/btn_lft_find.gif" border="0" name="pButton_38441_1" id="pButton_38441_1" onmouseover="slidingTbl_swapImage('pButton_38441_1','','images/redesign2/btn_lft_find_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Find A Doctor"></a></td>
-				</tr>	
-								
-				<tr class="clTop1" id="pLinkTR_40536_1">
+					<td class="clTop1" id="pLinkTD_38441_1"><a href="body.cfm?id=38441&amp;oTopID=38441" class="clMain1"><img src="images_2006/btn_lft_find.gif" border="0" name="pButton_38441_1" id="pButton_38441_1" onmouseover="slidingTbl_swapImage('pButton_38441_1','','images_2006/btn_lft_find_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Find A Physician"></a></td>
 			
-					<td class="clTop1" id="pLinkTD_40536_1"><a href="body.cfm?id=40536&amp;oTopID=40536" class="clMain1"><img src="images/redesign2/btn_lft_sign.gif" border="0" name="pButton_40536_1" id="pButton_40536_1" onmouseover="slidingTbl_swapImage('pButton_40536_1','','images/redesign2/btn_lft_sign_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Sign Up for Health Newsletters"></a></td>
-				</tr>	
-								
-				<tr class="clTop1" id="pLinkTR_40691_1">
-			
-					<td class="clTop1" id="pLinkTD_40691_1"><a href="body_referpatient.cfm?id=40691&amp;oTopID=40691" class="clMain1"><img src="images/redesign2/btn_lft_refer.gif" border="0" name="pButton_40691_1" id="pButton_40691_1" onmouseover="slidingTbl_swapImage('pButton_40691_1','','images/redesign2/btn_lft_refer_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Refer a Patient"></a></td>
-				</tr>	
-								
-				<tr class="clTop1" id="pLinkTR_46258_1">
-			
-					<td class="clTop1" id="pLinkTD_46258_1"><a href="http://henryford.com/body.cfm?id=37115" class="clMain1"><img src="images/redesign2/btn_lft_gift.gif" border="0" name="pButton_46258_1" id="pButton_46258_1" onmouseover="slidingTbl_swapImage('pButton_46258_1','','images/redesign2/btn_lft_gift_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Make a Gift"></a></td>
-				</tr>	
-								
-				<tr class="clTop1" id="pLinkTR_33677_1">
-			
-					<td class="clTop1" id="pLinkTD_33677_1"><a href="body.cfm?id=33677&amp;oTopID=33677" class="clMain1"><img src="images/redesign2/btn_lft_services.gif" border="0" name="pButton_33677_1" id="pButton_33677_1" onmouseover="slidingTbl_swapImage('pButton_33677_1','','images/redesign2/btn_lft_services_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Clinical Services &amp; Information"></a></td>
-				</tr>	
-								
-				<tr class="clTop1" id="pLinkTR_39110_1">
-			
-					<td class="clTop1" id="pLinkTD_39110_1"><a href="body.cfm?id=46332&amp;oTopID=39110" class="clMain1"><img src="images/redesign2/btn_lft_health.gif" border="0" name="pButton_39110_1" id="pButton_39110_1" onmouseover="slidingTbl_swapImage('pButton_39110_1','','images/redesign2/btn_lft_health_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Health Encyclopedia"></a></td>
-				</tr>	
-								
-				<tr class="clTop1" id="pLinkTR_39111_1">
-			
-					<td class="clTop1" id="pLinkTD_39111_1"><a href="body.cfm?id=39114&amp;oTopID=39111" class="clMain1"><img src="images/redesign2/btn_lft_information.gif" border="0" name="pButton_39111_1" id="pButton_39111_1" onmouseover="slidingTbl_swapImage('pButton_39111_1','','images/redesign2/btn_lft_information_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Information on Your Prescriptions"></a></td>
-				</tr>	
-								
-				<tr class="clTop1" id="pLinkTR_39112_1">
-			
-					<td class="clTop1" id="pLinkTD_39112_1"><a href="myhealth/adamdisplay_bguide.cfm?oTopID=39112" class="clMain1"><img src="images/redesign2/btn_lft_interactive.gif" border="0" name="pButton_39112_1" id="pButton_39112_1" onmouseover="slidingTbl_swapImage('pButton_39112_1','','images/redesign2/btn_lft_interactive_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Interactive Body Guide"></a></td>
 				</tr>	
 								
 				<tr class="clTop1" id="pLinkTR_33690_1">
 			
-					<td class="clTop1" id="pLinkTD_33690_1"><a href="body.cfm?id=33690&amp;oTopID=33690" class="clMain1"><img src="images/redesign2/btn_lft_locations.gif" border="0" name="pButton_33690_1" id="pButton_33690_1" onmouseover="slidingTbl_swapImage('pButton_33690_1','','images/redesign2/btn_lft_locations_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Locations"></a></td>
+					<td class="clTop1" id="pLinkTD_33690_1"><a href="body.cfm?id=33690&amp;oTopID=33690" class="clMain1"><img src="images_2006/btn_lft_locations.gif" border="0" name="pButton_33690_1" id="pButton_33690_1" onmouseover="slidingTbl_swapImage('pButton_33690_1','','images_2006/btn_lft_locations_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Find Us Now: Maps &amp; Tours"></a></td>
+			
 				</tr>	
 								
-				<tr class="clTop1" id="pLinkTR_45425_1">
+				<tr class="clTop1" id="pLinkTR_40536_1">
 			
-					<td class="clTop1" id="pLinkTD_45425_1"><a href="body.cfm?id=45425&amp;oTopID=45425" class="clMain1"><img src="images/redesign2/btn_lft_medical.gif" border="0" name="pButton_45425_1" id="pButton_45425_1" onmouseover="slidingTbl_swapImage('pButton_45425_1','','images/redesign2/btn_lft_medical_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Medical Education"></a></td>
+					<td class="clTop1" id="pLinkTD_40536_1"><a href="body.cfm?id=40536&amp;oTopID=40536" class="clMain1"><img src="images_2006/btn_lft_sign.gif" border="0" name="pButton_40536_1" id="pButton_40536_1" onmouseover="slidingTbl_swapImage('pButton_40536_1','','images_2006/btn_lft_sign_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Sign Up for Health Newsletters"></a></td>
+			
+				</tr>	
+								
+				<tr class="clTop1" id="pLinkTR_40691_1">
+			
+					<td class="clTop1" id="pLinkTD_40691_1"><a href="body_referpatient.cfm?id=40691&amp;oTopID=40691" class="clMain1"><img src="images_2006/btn_lft_refer.gif" border="0" name="pButton_40691_1" id="pButton_40691_1" onmouseover="slidingTbl_swapImage('pButton_40691_1','','images_2006/btn_lft_refer_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Refer a Patient"></a></td>
+			
+				</tr>	
+								
+				<tr class="clTop1" id="pLinkTR_37115_1">
+			
+					<td class="clTop1" id="pLinkTD_37115_1"><a href="body.cfm?id=37115&amp;oTopID=37115" class="clMain1"><img src="images_2006/btn_lft_gift.gif" border="0" name="pButton_37115_1" id="pButton_37115_1" onmouseover="slidingTbl_swapImage('pButton_37115_1','','images_2006/btn_lft_gift_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Make a Gift"></a></td>
+			
+				</tr>	
+			
+					<tr class="clTop1" id="pLinkHeaderTR_33677_1">
+						<td class="clTop1" id="pLinkHeaderTD_33677_1" colspan="2"><img src="images/slidingnavspacer.gif"></td>
+					</tr>
+									
+				<tr class="clTop1" id="pLinkTR_33677_1">
+			
+					<td class="clTop1" id="pLinkTD_33677_1"><a href="body.cfm?id=33677&amp;oTopID=33677" class="clMain1"><img src="images_2006/btn_lft_services.gif" border="0" name="pButton_33677_1" id="pButton_33677_1" onmouseover="slidingTbl_swapImage('pButton_33677_1','','images_2006/btn_lft_services_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Services &amp; Departments"></a></td>
+			
+				</tr>	
+								
+				<tr class="clTop1" id="pLinkTR_45404_1">
+			
+					<td class="clTop1" id="pLinkTD_45404_1"><a href="body.cfm?id=45404&amp;oTopID=45404" class="clMain1"><img src="images_2006/btn_hospitals2.gif" border="0" name="pButton_45404_1" id="pButton_45404_1" onmouseover="slidingTbl_swapImage('pButton_45404_1','','images_2006/btn_hospitals2_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Hospital Directory"></a></td>
+			
+				</tr>	
+								
+				<tr class="clTop1" id="pLinkTR_39110_1">
+			
+					<td class="clTop1" id="pLinkTD_39110_1"><a href="body.cfm?id=46332&amp;oTopID=39110" class="clMain1"><img src="images_2006/btn_lft_health.gif" border="0" name="pButton_39110_1" id="pButton_39110_1" onmouseover="slidingTbl_swapImage('pButton_39110_1','','images_2006/btn_lft_health_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Health Encyclopedia"></a></td>
+			
+				</tr>	
+								
+				<tr class="clTop1" id="pLinkTR_46593_1">
+			
+					<td class="clTop1" id="pLinkTD_46593_1"><a href="body.cfm?id=46593&amp;oTopID=46593" class="clMain1"><img src="images_2006/btn_lft_patient.gif" border="0" name="pButton_46593_1" id="pButton_46593_1" onmouseover="slidingTbl_swapImage('pButton_46593_1','','images_2006/btn_lft_patient_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Patient Quality and Safety"></a></td>
+			
 				</tr>	
 								
 				<tr class="clTop1" id="pLinkTR_45206_1">
 			
-					<td class="clTop1" id="pLinkTD_45206_1"><a href="body.cfm?id=45206&amp;oTopID=45206" class="clMain1"><img src="images/redesign2/btn_lft_research.gif" border="0" name="pButton_45206_1" id="pButton_45206_1" onmouseover="slidingTbl_swapImage('pButton_45206_1','','images/redesign2/btn_lft_research_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Research &amp; Clinical Trials"></a></td>
+					<td class="clTop1" id="pLinkTD_45206_1"><a href="body.cfm?id=45206&amp;oTopID=45206" class="clMain1"><img src="images_2006/btn_lft_research.gif" border="0" name="pButton_45206_1" id="pButton_45206_1" onmouseover="slidingTbl_swapImage('pButton_45206_1','','images_2006/btn_lft_research_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Research &amp; Clinical Trials"></a></td>
+			
+				</tr>	
+								
+				<tr class="clTop1" id="pLinkTR_45425_1">
+			
+					<td class="clTop1" id="pLinkTD_45425_1"><a href="body_meded.cfm?id=45425&amp;oTopID=45425" class="clMain1"><img src="images_2006/btn_lft_medical.gif" border="0" name="pButton_45425_1" id="pButton_45425_1" onmouseover="slidingTbl_swapImage('pButton_45425_1','','images_2006/btn_lft_medical_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Medical Education"></a></td>
+			
 				</tr>	
 								
 				<tr class="clTop1" id="pLinkTR_40994_1">
 			
-					<td class="clTop1" id="pLinkTD_40994_1"><a href="body.cfm?id=40994&amp;oTopID=40994" class="clMain1"><img src="images/redesign2/btn_lft_classesevents.gif" border="0" name="pButton_40994_1" id="pButton_40994_1" onmouseover="slidingTbl_swapImage('pButton_40994_1','','images/redesign2/btn_lft_classesevents_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Classes &amp; Events"></a></td>
+					<td class="clTop1" id="pLinkTD_40994_1"><a href="body.cfm?id=40994&amp;oTopID=40994" class="clMain1"><img src="images_2006/btn_lft_classesevents.gif" border="0" name="pButton_40994_1" id="pButton_40994_1" onmouseover="slidingTbl_swapImage('pButton_40994_1','','images_2006/btn_lft_classesevents_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Classes &amp; Events"></a></td>
+			
 				</tr>	
-								
+			
+					<tr class="clTop1" id="pLinkHeaderTR_33704_1">
+						<td class="clTop1" id="pLinkHeaderTD_33704_1" colspan="2"><img src="images/specialtycenters.gif"></td>
+					</tr>
+									
 				<tr class="clTop1" id="pLinkTR_33704_1">
 			
-					<td class="clTop1" id="pLinkTD_33704_1"><a href="body.cfm?id=33704&amp;oTopID=33704" class="clMain1"><img src="images/redesign2/btn_lft_heart.gif" border="0" name="pButton_33704_1" id="pButton_33704_1" onmouseover="slidingTbl_swapImage('pButton_33704_1','','images/redesign2/btn_lft_heart_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Heart Disease"></a></td>
+					<td class="clTop1" id="pLinkTD_33704_1"><a href="body.cfm?id=33704&amp;oTopID=33704" class="clMain1"><img src="images_2006/btn_lft_heart.gif" border="0" name="pButton_33704_1" id="pButton_33704_1" onmouseover="slidingTbl_swapImage('pButton_33704_1','','images_2006/btn_lft_heart_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Heart Disease"></a></td>
+			
 				</tr>	
 								
 				<tr class="clTop1" id="pLinkTR_33708_1">
 			
-					<td class="clTop1" id="pLinkTD_33708_1"><a href="body.cfm?id=33708&amp;oTopID=33708" class="clMain1"><img src="images/redesign2/btn_lft_neuroscience.gif" border="0" name="pButton_33708_1" id="pButton_33708_1" onmouseover="slidingTbl_swapImage('pButton_33708_1','','images/redesign2/btn_lft_neuroscience_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Neuroscience"></a></td>
+					<td class="clTop1" id="pLinkTD_33708_1"><a href="body.cfm?id=33708&amp;oTopID=33708" class="clMain1"><img src="images_2006/btn_lft_neuroscience.gif" border="0" name="pButton_33708_1" id="pButton_33708_1" onmouseover="slidingTbl_swapImage('pButton_33708_1','','images_2006/btn_lft_neuroscience_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Neuroscience"></a></td>
+			
 				</tr>	
 								
 				<tr class="clTop1" id="pLinkTR_41168_1">
 			
-					<td class="clTop1" id="pLinkTD_41168_1"><a href="body.cfm?id=41168&amp;oTopID=41168" class="clMain1"><img src="images/redesign2/btn_lft_orthopaedics.gif" border="0" name="pButton_41168_1" id="pButton_41168_1" onmouseover="slidingTbl_swapImage('pButton_41168_1','','images/redesign2/btn_lft_orthopaedics_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Orthopaedics and Rehabilitation"></a></td>
+					<td class="clTop1" id="pLinkTD_41168_1"><a href="body.cfm?id=41168&amp;oTopID=41168" class="clMain1"><img src="images_2006/btn_lft_orthopaedics.gif" border="0" name="pButton_41168_1" id="pButton_41168_1" onmouseover="slidingTbl_swapImage('pButton_41168_1','','images_2006/btn_lft_orthopaedics_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Orthopaedics and Rehabilitation"></a></td>
+			
 				</tr>	
 								
 				<tr class="clTop1" id="pLinkTR_33700_1">
 			
-					<td class="clTop1" id="pLinkTD_33700_1"><a href="body.cfm?id=33700&amp;oTopID=33700" class="clMain1"><img src="images/redesign2/btn_lft_cancer.gif" border="0" name="pButton_33700_1" id="pButton_33700_1" onmouseover="slidingTbl_swapImage('pButton_33700_1','','images/redesign2/btn_lft_cancer_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Josephine Ford Cancer Center"></a></td>
+					<td class="clTop1" id="pLinkTD_33700_1"><a href="body.cfm?id=33700&amp;oTopID=33700" class="clMain1"><img src="images_2006/btn_lft_cancer.gif" border="0" name="pButton_33700_1" id="pButton_33700_1" onmouseover="slidingTbl_swapImage('pButton_33700_1','','images_2006/btn_lft_cancer_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Josephine Ford Cancer Center"></a></td>
+			
 				</tr>	
 								
 				<tr class="clTop1" id="pLinkTR_45264_1">
 			
-					<td class="clTop1" id="pLinkTD_45264_1"><a href="body.cfm?id=45264&amp;oTopID=45264" class="clMain1"><img src="images/redesign2/btn_lft_organ.gif" border="0" name="pButton_45264_1" id="pButton_45264_1" onmouseover="slidingTbl_swapImage('pButton_45264_1','','images/redesign2/btn_lft_organ_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Organ Transplants"></a></td>
+					<td class="clTop1" id="pLinkTD_45264_1"><a href="body.cfm?id=45264&amp;oTopID=45264" class="clMain1"><img src="images_2006/btn_lft_organ.gif" border="0" name="pButton_45264_1" id="pButton_45264_1" onmouseover="slidingTbl_swapImage('pButton_45264_1','','images_2006/btn_lft_organ_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Organ Transplants"></a></td>
+			
 				</tr>	
 								
 				<tr class="clTop1" id="pLinkTR_41144_1">
 			
-					<td class="clTop1" id="pLinkTD_41144_1"><a href="body.cfm?id=41144&amp;oTopID=41144" class="clMain1"><img src="images/redesign2/btn_lft_prostate.gif" border="0" name="pButton_41144_1" id="pButton_41144_1" onmouseover="slidingTbl_swapImage('pButton_41144_1','','images/redesign2/btn_lft_prostate_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Prostate Cancer"></a></td>
+					<td class="clTop1" id="pLinkTD_41144_1"><a href="body.cfm?id=41144&amp;oTopID=41144" class="clMain1"><img src="images_2006/btn_lft_prostate.gif" border="0" name="pButton_41144_1" id="pButton_41144_1" onmouseover="slidingTbl_swapImage('pButton_41144_1','','images_2006/btn_lft_prostate_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Prostate Cancer"></a></td>
+			
 				</tr>	
 			
 			</tbody></table>
@@ -896,10 +1468,33 @@ window.onload = jsMyHealthRememberUserNameOnload;
 			}			
 			//-->
 			</script>
-		
-		    </td>
-    <td width="1%" align="right" valign="top"><img src="images/redesign2/bdy_spacer.gif" width="30" height="1"></td>
-    <td width="97%" align="left" valign="top"><img src="images/clear.gif" width="30" height="10"><br>
+		</td>
+					</tr>
+					<tr> 
+						<td valign="top"><br>
+							<img src="images_2006/wecanspacer.gif"></td>
+					</tr>
+				</tbody></table></td>
+				<script language="JavaScript">
+				document.write('<td width="100%" valign="top" style="background-image:url(');
+				bg_("g",".jpg");
+				document.write('); background-repeat: no-repeat; background-position: top left;">');
+				</script><td width="100%" valign="top" style="background-image:url(images/seasonal_2006/3/g_night.jpg); background-repeat: no-repeat; background-position: top left;">
+			<table width="100%" border="0" cellpadding="0" cellspacing="8">
+					<tbody><tr> 
+						<td width="100%" valign="top"><br>
+							<br><img src="images_2006/contentclear.gif"></td>
+					</tr>
+					<tr> 
+						<td width="1%"><table width="100%" height="1" border="0" cellspacing="0" cellpadding="0">
+								<tbody><tr valign="top"> 
+									<td width="1%" valign="top"><img src="images_2006/box_topleft.gif"></td>
+									<td width="98%" valign="top" background="images_2006/box_top.gif"><img src="images_2006/box_top.gif"></td>
+									<td width="1%" valign="top"><img src="images_2006/box_topright.gif"></td>
+								</tr>
+								<tr valign="top"> 
+									<td width="1%" valign="top" background="images_2006/box_left.gif"><img src="images_2006/box_left.gif"></td>
+									<td width="98%" valign="top">
  
 
  
@@ -925,39 +1520,52 @@ window.onload = jsMyHealthRememberUserNameOnload;
 
 	<style>
 		td.breadcrumb {font-size: 11px; font-weight: normal;}
+		a.breadcrumb:link { color: 005994; text-decoration:none;}
+		a.breadcrumb:visited { color: 005994; text-decoration:none;}
+		a.breadcrumb:hover { color: 000000; text-decoration:none;}
+		a.breadcrumb:visited:hover { color: 000000; text-decoration:none;}
 	</style>
-<table style="border:solid #000000 0px; width:100%;" cellpadding="1" cellspacing="0" class="">
+	
+<table style="border:solid #000000 0px; width:100%;" cellpadding="1" cellspacing="0" class="breadcrumb">
 		<tbody><tr>
 			<td class="breadcrumb">
 			
 			
-			<img src="images/arrowtop.gif">&nbsp;<a href="body.cfm?id=39775" style="text-decoration: none;">Notice&nbsp;of&nbsp;Privacy&nbsp;Practices</a> 
+			<img src="images/arrowtop.gif">&nbsp;<a href="body.cfm?id=39775" class="breadcrumb">Notice&nbsp;of&nbsp;Privacy&nbsp;Practices</a> 
 			
 			</td>
 		</tr>
 </tbody></table> 
 
-
-	  <table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-          <td valign="top" width="99%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-		   <tbody><tr>
-		    <td valign="top" width="100%">
-		  	<br>
-			
-				
-					
-					
-					
-						
-						
+</td>
+									<td width="1%" valign="top" background="images_2006/box_right.gif"><img src="images_2006/box_right.gif"></td>
+								</tr>
+								<tr valign="top"> 
+									<td width="1%" valign="top"><img src="images_2006/box_bottomleft.gif"></td>
+									<td width="98%" valign="top" background="images_2006/box_bottom.gif"><img src="images_2006/box_bottom.gif"></td>
+									<td width="1%" valign="top"><img src="images_2006/box_bottomright.gif"></td>
+								</tr>
+							</tbody></table></td>
+					</tr>
+					<tr> 
+						<td width="100%" valign="top"> 
+							
+							
+								
+									
+									
+									
 										
-					<h1>Notice of Privacy Practices</h1>									
-				
-			
-			
-			
-				
+										
+									
+									
+										<h1>Notice of Privacy Practices</h1>
+										
+									 
+								
+							 
+							
+							
 
 
 
@@ -1087,35 +1695,21 @@ We may disclose health information as required by State and Federal laws and reg
 
 
 
-			
-			
-			</td>
-			</tr>
-			<tr>
-			 <td valign="top" width="100%">
-			<br>					
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-				<font style="font-family:arial; font-size:14px; font-weight:bold; font-style:italic; color:306E92; padding-top: 10px;">
-				
-				
-				
-				
-				</font>
-			</td>
-			</tr>
-			</tbody></table>		
-			<style>
+								<br>
+							</td>
+						
+					</tr>
+					<tr> 
+						<td valign="top" width="100%"> <br>   
+							  
+							   
+							 
+							    
+							<font style="font-family:arial; font-size:14px; font-weight:bold; font-style:italic; color:306E92; padding-top: 10px;"> 
+							  
+							</font> </td>
+					</tr>
+					<style>
 				tr.CMteaser {vertical-align: top}
 				th.CMteaser {text-align: left}
 				span.CMteaser {font-family: verdana; font-weight: bold; color: #656565; font-style: normal;}
@@ -1135,34 +1729,87 @@ We may disclose health information as required by State and Federal laws and reg
 				table.related {font-family: verdana;}
 				.tax_teaser li, .tax_search li {font-size: 10px;}
 			</style>
-			
-		  </td>
-  		  <td width="1%" align="right" valign="top">
-		  <table width="100%" cellpadding="10" cellspacing="0" border="0">
-<form action="https://www.henryford.com/./myhealth/login_action.cfm" method="post" enctype="application/x-www-form-urlencoded" name="frmLogin" id="frmLogin" onsubmit="StoreCookie(this); return sm_ValidateForm(this);"></form><input type="hidden" name="strUserName_required" value="Please enter a valid username.">
-		    <tbody><tr>
-			  <td valign="top" align="right">
-	            <img src="images/redesign2/bdy_field_myhealth_username.gif" border="0"><br><input type="text" name="strUserName" id="strUserName" align="absmiddle" style="background-color:EDF4FA; border: 1px solid ACD3F2; font-size:9px; font-family: arial; color: 000000; padding-bottom: 2px; width:130px;"><br><img src="images/redesign2/bdy_field_password.gif"><br><input type="password" name="strPWD" id="strPWD" align="absmiddle" style="background-color:EDF4FA; border: 1px solid ACD3F2; font-size:9px; font-family: arial; color: 000000; padding-bottom: 2px; width:130px;"><br><input type="image" name="btnSubmit" id="btnSubmit" src=" images/redesign2/bdy_field_go.gif" width="25" height="17" alt="Login" style="border:0px;" align="absmiddle"> 
-			  </td>
-			</tr>
-			
-		  	</tbody></table>
-			<table width="100%" cellpadding="10" cellspacing="10" border="0"><tbody><tr><td valign="top" bgcolor="#FCFAEC" class="NavBarNum1">
-				<style type="text/css">
-				A.NavBarNum1:link    {  font-family: arial; font-weight: bold; font-size: 11px; text-decoration: none; color: 306E92;   }
-				A.NavBarNum1:visited {  font-family: arial; font-weight: bold; font-size: 11px; text-decoration: none; color: 306E92;   }
-				A.NavBarNum1:hover  {  font-family: arial; font-weight: bold; font-size: 11px; text-decoration: underline; color: 000000;   }
-				A.NavBarNum1:active  {  font-family: arial; font-weight: bold; font-size: 11px; text-decoration: none; color: 306E92;   }
-				A.NavBarNum1CurrentGroup:link    {  font-family: arial; font-weight: bold; font-size: 11px; text-decoration: underline; color: 000000;   }
-				A.NavBarNum1CurrentGroup:visited {  font-family: arial; font-weight: bold; font-size: 11px; text-decoration: underline; color: 000000;   }
-				A.NavBarNum1CurrentGroup:hover  {  font-family: arial; font-weight: bold; font-size: 11px; text-decoration: underline; color: 000000;   }
-				A.NavBarNum1CurrentGroup:active  {  font-family: arial; font-weight: bold; font-size: 11px; text-decoration: underline; color: 000000;   }
-				</style>
-			<img src="images/redesign2/bdy_subnav_back.gif" hspace="3"><a href="javascript:history.back()" class="NavBarNum1">Back</a><br><br>				
-			
-			
+				</tbody></table></td>
+			<td valign="top" bgcolor="F2F2F2" style="background-image:url(images_2006/hf_wecan.gif); background-repeat: no-repeat; background-position: bottom left;"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+					<tbody><tr> 
+						<td width="0%" valign="top"><img src="images_2006/rtnavtile.gif"></td>
+					</tr>
+					<tr>
+					<td valign="top" width="1%"><table width="100%" border="0" cellspacing="0" cellpadding="8">
+							<form action="https://www.henryford.com/./myhealth/login_action.cfm" method="post" enctype="application/x-www-form-urlencoded" name="frmLogin" id="frmLogin" onsubmit="StoreCookie(this); return sm_ValidateForm(this);"></form>
+								<input type="hidden" name="strUserName_required" value="Please enter a valid username.">
+								<tbody><tr> 
+									<td valign="top" align="left"> <img src="images_2006/bdy_field_myhealth_username.gif" border="0"><br>
+										<input type="text" name="strUserName" id="strUserName" align="absmiddle" style="background-color:EDF4FA; border: 1px solid ACD3F2; font-size:9px; font-family: arial; color: 000000; padding-bottom: 2px; width:120px;">
+										<br>
+										<img src="images_2006/bdy_field_password.gif"><br>
+										<input type="password" name="strPWD" id="strPWD" align="absmiddle" style="background-color:EDF4FA; border: 1px solid ACD3F2; font-size:9px; font-family: arial; color: 000000; padding-bottom: 2px; width:120px;">
+										&nbsp;&nbsp;
+										<input type="image" name="btnSubmit" id="btnSubmit" src=" images/redesign2/bdy_field_go.gif" width="25" height="17" alt="Login" style="border:0px;" align="absmiddle">
+										<br>
+										<a href="myhealth/forgotpassword.cfm"><img src="images_2006/forgetyourpassword.gif" border="0"></a> 
+									</td>
+								</tr>
+							
+							<tr> 
+								<td valign="top" align="left"><img src="images_2006/rightsidedots.gif"></td>
+							</tr>
+							<tr>
+
+							  <td valign="top" align="left"><a href="javascript:history.back()"><img src="images_2006/previouspage.gif" border="0"></a>
+							  
+							  <script language="Javascript">
+									function DoPrintEmail(type){		// This function still requires the import of the email tag in blank.cfm
+										var ThePage = location.href;
+										var arrPortions = ThePage.split('?');
+										var i=0;
+										var arrSuffix = arrPortions[1].split('&');
+										var j=0;
+										while(i<arrPortions.length){
+											j = arrPortions[i].indexOf("body")
+											if(j > -1){
+												arrPortions[i] = arrPortions[i].substr(0,j) + "blank.cfm";
+											}
+											i++;
+										}
+										
+										i=0;
+										while(i<arrSuffix.length){
+											if((arrSuffix[i].indexOf("action") > -1) && (type=="action=EmailFriend")){
+												arrSuffix.splice(i,1);
+											}
+											if(arrSuffix[i].indexOf("Adam") > -1){
+												arrSuffix.push("&displayheader=No&originalAction=detail");
+											}
+										i++;
+										}
+										
+										if(type == "action=EmailFriend"){
+											arrSuffix.splice(1,0,type);
+										}else{
+											arrSuffix.splice(0,0,type);											
+										}
+										i = arrPortions[0] + "?" + arrSuffix.join('&');
+										window.open(i);
+									}		//Function DoPrint
+									
+
+							  </script>
+							  	
+
+
+
+									<a href="javascript:void(0)" onclick="DoPrintEmail('print=yes')"><img src="images_2006/printthispage.gif" border="0"></a><br>
+ 									<a href="javascript:void(0)" onclick="DoPrintEmail('action=EmailFriend')"><img src="images_2006/emailtoafriend.gif" border="0"></a>  
 								
-				
+								</td>
+							</tr>
+							<tr> 
+								<td valign="top"><img src="images_2006/rightsidedots.gif"><br>
+									<br> 
+									
+									  
+										
 	<!-- Begin NavBar Output  -  Version:  v0.77r 06/21/2001  -->
 	
 								
@@ -1434,94 +2081,46 @@ We may disclose health information as required by State and Federal laws and reg
 </table>
 	
 		<!-- End NavBar Output -->
-				
-			
-					</td>
-				</tr>
-			</tbody></table>
-		  
-</td>
-        </tr>
-      </tbody></table>
-	</td>
-  </tr>
+	  
+									
+								</td>
+							</tr>
+							<tr> 
+								<td align="top"></td>
+							</tr>
+						</tbody></table></td></tr>
+					
+					<tr> 
+						<td valign="top"><br>
+							<img src="images_2006/wecanspacer.gif"></td>
+					</tr>
+				</tbody></table></td></tr>
+		</tbody></table></td>
+	<td width="20" bgcolor="#8D837B" rowspan="2" valign="top" style="background-image:url(images_2006/rightsidetile.gif); background-repeat: repeat-y; background-position: top left;"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr> 
+				<td width="0%" valign="top"><img src="images_2006/rightside.jpg"><br> 
+				</td>
+			</tr>
+		</tbody></table></td>
+	</tr>
 </tbody></table>
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-  <tbody><tr>
-  	<td width="235">&nbsp;</td>
-	<td>
-		
 
-
-
-	 
-		
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-		
-			<table class="metadetail">
-				<tbody><tr class="metadetail">
-					<td class="metadetail" nowrap=""><a href="blank.cfm?print=yes&amp;id=39775" target="_blank">Print This Page&nbsp;<img src="images/print.gif" border="0" align="absmiddle" hspace="5"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a class="metadetail" href="blank.cfm?id=39775&amp;displayheader=No&amp;action=emailfriend&amp;originalAction=None" target="_blank">Email to a Friend&nbsp;<img src="images/email.gif" border="0" hspace="5" align="absmiddle"></a>
-					</td>
-				</tr>
-			</tbody></table>
-		
-			
-
-
-
-
- 
-
-	 		
- 
-
-	</td>
-    <td valign="top" align="right">
-	<br>
-	<img src="images/redesign2/bdy_tagline.gif" hspace="20">
-	</td>
-  </tr>
+<table width="100%" border="0" bgcolor="#8D837B" cellpadding="0" cellspacing="0" style="background-image:url(images_2006/footertile.gif); background-repeat: repeat-x; background-position: top left;">
+	<tbody><tr> 
+		<td width="0%" align="left"><img src="images_2006/footerleft.gif"></td>
+		<td width="100%" align="right"><img src="images_2006/footer.gif"><br>
+			<font style="color:D0CDC9; font-weight:bold; font-size:11px; text-decoration: none;"><a href="body.cfm?id=45567" class="footer">Terms 
+			of Use</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="body.cfm?id=39775" class="footer">Privacy 
+			Policy</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="body.cfm?id=39011" class="footer">Take 
+			a 3-D Tour Inside Henry Ford Hospital</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.henryfordhealth.org/101.cfm" onmouseover="this.href='body.cfm?id=46340';" class="footer">Table 
+			of Contents</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Copyright 
+			1997-2006</font></td>
+		<td width="0%" align="right"><img src="images_2006/footerright.gif"></td>
+	</tr>
 </tbody></table>
-<br>
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-  <tbody><tr>
-    <td valign="top" bgcolor="E7E5E8"><img src="images/redesign2/bdy_spacer.gif" width="1" height="1"></td>
-  </tr>
-</tbody></table>
-<br>
-<div align="center">
-<font style="color:585858; font-weight:bold; font-size:11px; text-decoration: none;"><a href="body.cfm?id=45567" class="footer">Terms of Use</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="body.cfm?id=39775" class="footer">Privacy Policy</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="body.cfm?id=39011" class="footer">Take a 3-D Tour Inside Henry Ford Hospital</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.henryfordhealth.org/101.cfm" onmouseover="this.href='body.cfm?id=46340';" class="footer">Table of Contents</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Copyright 1997-2005</font>
-</div>
-<br>
+
+</td></tr></tbody></table>
+
 
 
 </body></html>
