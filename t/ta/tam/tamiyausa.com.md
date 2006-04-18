@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the tamiyausa.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212155639id_/http%3A//www.tamiyausa.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamiyausa.com privacy policy that was archived on 2006-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060419013121id_/http%3A//www.tamiyausa.com/privacy.php) for the most accurate reproduction.*
 
 # TamiyaUSA.com Privacy Statement
+
+[](https://web.archive.org/product/outlet.php)
 
   
 
@@ -10,9 +12,10 @@
   
 |   
 ---  
-| 12/1 [Builders Showcase #3](https://web.archive.org/articles/feature.php?article-id=156) |   
+| 4/11 [Tamiya/Con 2006 Results](https://web.archive.org/articles/feature.php?article-id=190) |   
+| 4/10 [TRF415MSX Wins Again: Marc Rheinard wins 2006 pre-Championship ](http://www.afmodels.com/world2/index.htm) |   
+| 4/4 [Builders Showcase #7](https://web.archive.org/articles/feature.php?article-id=188) |   
 | 12/1 [TCS 2006 Rules Posted](https://web.archive.org/tcs_races/index.php) |   
-| 11/1 [Builders Showcase #2 Winner](https://web.archive.org/articles/feature.php?article-id=147) |   
 [More News...](https://web.archive.org/news/index.php) |   
 |  |   
 ---|---  
