@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enigmaticboys.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219200520id_/http%3A//www.enigmaticboys.com/legal.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enigmaticboys.com privacy policy that was archived on 2006-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060418035022id_/http%3A//enigmaticboys.com/legal.htm) for the most accurate reproduction.*
 
 # Enigmatics studio
 
