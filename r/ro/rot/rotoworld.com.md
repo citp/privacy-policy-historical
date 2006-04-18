@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rotoworld.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212152000id_/http%3A//rotoworld.com/pages/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rotoworld.com privacy policy that was archived on 2006-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060418024846id_/http%3A//rotoworld.com/pages/privacy.asp) for the most accurate reproduction.*
 
-# Fantasy Football - Fantasy Football News from Rotoworld.com
+# Fantasy Baseball - Rotoworld.com
 
 RotoWorld.com and its properties want to insure that all of their customers and surfers feel safe about their private information. From time to time, it is necessary for us to acquire information from users or create cookies (save information) on the user’s machine to personalize the experience using our products or services. 
 
