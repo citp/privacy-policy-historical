@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mexconnect.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212111531id_/http%3A//www.mexconnect.com/mxcprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mexconnect.com privacy policy that was archived on 2006-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060418103821id_/http%3A//www.mexconnect.com/mxcprivacy.html) for the most accurate reproduction.*
 
 # MEXICO CONNECT'S PRIVACY POLICY & PRACTICES
 
@@ -64,4 +64,4 @@
 > 
 > [](http://www.mexconnected.com/)
 > 
-> [**© Mexico Connect 1996-2005**](http://www.mexconnected.com/mex_/mxccopy.htm)
+> [**© Mexico Connect 1996-2006**](http://www.mexconnected.com/mex_/mxccopy.htm)
