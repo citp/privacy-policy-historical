@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weeklydig.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222084539id_/http%3A//www.weeklydig.com/index.cfm/fuseaction/content.page/nodeID/ec8d06a1-afda-42e5-b119-e2e0f567acdd) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weeklydig.com privacy policy that was archived on 2006-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060418183715id_/http%3A//weeklydig.com/index.cfm/fuseaction/content.page/nodeID/ec8d06a1-afda-42e5-b119-e2e0f567acdd) for the most accurate reproduction.*
 
 # WeeklyDig : > Privacy Policy
 
@@ -108,7 +108,7 @@ Children's Online Privacy
 
 **
 
-Consistent with the Children's Online Privacy Protection Act ("COPPA"), this Site is not intended for use by anyone under the age of 13. _Boston’s Weekly Dig_ does not knowingly collect personal information from children through this Site, or any of its Web sites. If you are a parent with concerns about children's privacy issues in conjunction with the use of this Site, please contact us at [_rbertsche@plgt.com_](https://web.archive.org/web/20051222084539id_/http%3A//www.weeklydig.com/index.cfm/fuseaction/content.page/nodeID/mailtrbertsche@plgt.com).
+Consistent with the Children's Online Privacy Protection Act ("COPPA"), this Site is not intended for use by anyone under the age of 13. _Boston’s Weekly Dig_ does not knowingly collect personal information from children through this Site, or any of its Web sites. If you are a parent with concerns about children's privacy issues in conjunction with the use of this Site, please contact us at [_rbertsche@plgt.com_](https://web.archive.org/web/20060418183715id_/http%3A//weeklydig.com/index.cfm/fuseaction/content.page/nodeID/mailtrbertsche@plgt.com).
 
   
 
