@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vbcity.com privacy policy that was archived on 2002-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020125101017id_/http%3A//www.vbcity.com/page.asp%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vbcity.com privacy policy that was archived on 2006-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060419164933id_/http%3A//vbcity.com/page.asp%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # vbCity.com - Privacy Policy
 
