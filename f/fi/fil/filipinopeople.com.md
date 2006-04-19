@@ -1,33 +1,52 @@
-> *The following text is extracted and transformed from the filipinopeople.com privacy policy that was archived on 2005-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050408054927id_/http%3A//www.filipinopeople.com/company/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filipinopeople.com privacy policy that was archived on 2006-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060419130640id_/http%3A//filipinopeople.com/content.asp%3FContentId%3D353) for the most accurate reproduction.*
 
-# FilipinoPeople.com - Filipino Online Community - Sharing and Preserving Filipino Culture
+# FilipinoPeople.com - Filipino Online Community
 
-**Information Collected**  
-In order to access certain subscriber services and restricted areas within the FilipinoPeople.com, FilipinoPeople.com requires that you provide certain identifying information (the "Registration Data") listed in the online registration form. This information may include your legal name, address, telephone number(s), e-mail address, subscriber name or "screen name," areas of interest, password, etc... FilipinoPeople.com reserves the right to request any additional information necessary to establish and maintain your account for use of FilipinoPeople.com. 
+FilipinoPeople.com, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [http://www.FilipinoPeople.com](http://www.filipinopeople.com/)We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your shopping cart and to gather broad demographic information.
 
-**Age Restriction**  
-The Service is not directed to children under the age of 13. This restriction will be posted at points of data collection within the Service, such as registration for services. 
+Our site uses cookies to keep track of your shopping cart and to make sure you don't see the same ad repeatedly. We use cookies to deliver content specific to your interests.
 
-**Note to Parents:** If you have any concerns about the Service or its related services, wish to find out if your child is a member of one of our services, or wish to cancel your child's membership, please contact us at contact@filipinopeople.com.
+Our site's registration form requires users to give us contact information (like their name and email address) and demographic information (like their zip code, age, or income level). We use customer contact information from the registration form to send the user information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. This information is not shared with any 3rd party.
 
-  
-**Confidentiality**  
-Registration Data is the property of FilipinoPeople.com , subject to and protected by the Electronic Communications Privacy Act. FilipinoPeople.com will not sell, rent, swap, or otherwise disclose your Registration Data to any third party. FilipinoPeople.com maintains a secured area on the Site for transmission of Registration Data, and stores all Registration Data in a private database.
+This site contains links to other sites. 
 
-**Uses of Registration Data**  
-FilipinoPeople.com reserves the right to use your Registration Data to send you information about FilipinoPeople.com, the Site, FilipinoPeople.com products and services, and other topics in which you have indicated an interest.   
-User Access to Information Collected  
-You may access your Registration Data at any time through the Subscriber services section of the Site. This area is password-restricted for your protection.
+FilipinoPeople.com, Inc is not responsible for the privacy practices or the content of such Web sites.
 
-**Cookies**  
-In our effort to provide you services customized to your interests, we use cookies to keep and sometimes track information about you. A cookie is a small piece of data that is sent to your browser from a Web server and stored on your computer's hard drive. We use cookies to: access your account information (stored on our computers) in order to deliver better and more personalized services; estimate our audience size for our advertisers; track the number of entries in our promotions to dentify which areas of the Service you have visited. You should also be aware that companies that advertise on the Service might use their own cookies. This privacy policy does not cover how these companies use their cookies.
+**Refund/Exchange Policy**
 
-**No Liability for Acts of Third Parties**  
-Although FilipinoPeople.com will use all reasonable efforts to safeguard the confidentiality of the Registration Data, transmissions made by means of the Internet cannot be made absolutely secure. FilipinoPeople.com will have no liability for disclosure of Registration Data due to errors in transmission or unauthorized acts of third parties.
+We offer a 30 Money Back Guarantee on almost every product we offer. Please call customer service at 408-281-7606, in advance to obtain an RMA number (Return Merchandise Authorization) within 30 days of purchase date.
 
-**Use of Aggregated Information**  
-FilipinoPeople.com reserves the right to disclose to third parties information about Subscriber usage of the FilipinoPeople.com and any related services, including information gathered during your use of the Site. Any information disclosed will be in the form of aggregate data (such as overall patterns or demographic reports) that does not describe or identify any individual user.
+Return merchandise **with** RMA number to:
 
-| 
+**FilipinoPeople.com, Inc.**  
+(print RMA number Here)  
+699 Alamo Drive  
+San Jose, CA 95123
 
-[](http://filipinopeople.com/cgi-bin/click.cgi?id=108299712818980&zone=108299879519389&1112939690)
+NOTE: Refunds sent with no RMA number, or mailed to the call center will be returned to sender.  
+
+
+  **Order Cancellation Policy**
+
+Please submit any **cancellation** via email to [**webmaster@filipinopeople.com**](mailto:webmaster@filipinopeople.com), or call on our business phone at 408-281-7606. Email cancellations must contain the following: First name, last name, order number, and email address. This information must be identical to the information originally submitted on your order. Please provide contact information so that we may contact you if we have questions in regards to canceling your order.
+
+Every effort will be made to accommodate the cancellation of your order, providing your order has not been charged and/or shipped out. In the event that a cancellation was submitted (via email or phone), and your order was shipped out after, we will gladly refund the complete balance charged including shipping. However, if the cancellation was documented as received after the order was shipped, we will refund the merchandise total less shipping.  
+
+
+**Warranty Policy**
+
+**Shipping Costs**  
+Customer assumes all costs in shipping to us, and we assume the cost in shipping back to the customer. All replacement/repaired products are shipped UPS Ground unless a rush is requested. The cost of such a shipping upgrade is to be paid by the customer prior to shipment.
+
+**Warranty Procedure**  
+We suggest you contact our tech support team first by posting a question in our Help Desk to determine whether the item is indeed defective before shipping. Then make an online return merchandise authorization (RMA) request. See Return Policy for more details. No phone call or email is necessary!
+
+**30-Day Warranty**   
+All products (unless specifically stated otherwise), carry an implied, industry-standard 90-Day warranty against defects due to manufacturing or failure. Warranty does not include any use of the product that does not fall into the designed use of the product as intended by the manufacturer.
+
+**One-Year Warranty**  
+All parts (except refurbished items) come with a warranty against manufacturer defect or failure for a period of one year from the date of purchase. This warranty covers replacement or repair of the product, which is determined by availability, or vendor, and the time of purchase. Replacement is often used within 30 days after purchase with the same product or like product when direct replacement is unavailable. Repair is often necessary for items purchased more than 30 days prior. 
+
+**Manufacturer Warranty**   
+Manufacturers sometimes offer additional warranty for the following products: (VOIP Phones) Customers should contact the manufacturer after warranty expires.  
+
