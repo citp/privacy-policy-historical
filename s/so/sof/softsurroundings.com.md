@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softsurroundings.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217090821id_/http%3A//www.softsurroundings.com/page.php%3Ffile%3Dfaq%26faqId%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softsurroundings.com privacy policy that was archived on 2006-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060419181810id_/http%3A//www.softsurroundings.com/privacy) for the most accurate reproduction.*
 
 # SoftSurroundings.com
 
@@ -15,7 +15,7 @@ Soft Surroundings
 Hazelwood, MO 63042   
 Phone: 1-800-240-7076   
 Fax: 1-314-521-5780   
-[ soft_surroundings@softsurroundings.com ](mailto:soft_surroundings@softsurroundings.com)
+[e-mail us](http://www.softsurroundings.com/emailUs.php)
 
 **Information We Collect**  
 We may collect the following information: first and last name, street address, city, telephone number, e-mail address and, when necessary, credit card information, when you: 
@@ -57,7 +57,7 @@ Soft Surroundings
 Hazelwood, MO 63042   
 Phone: 1-800-240-7076   
 Fax: 1-314-521-5780   
-[ soft_surroundings@softsurroundings.com ](mailto:soft_surroundings@softsurroundings.com)
+[e-mail us](http://www.softsurroundings.com/emailUs.php)
 
 On rare occasions, we may disclose specific information upon governmental request, in response to a court order, or when required by law to do so. We may also share information with companies assisting in fraud protection or investigation. We do not provide information to these agencies or companies for marketing or commercial purposes.
 
@@ -69,7 +69,7 @@ Soft Surroundings
 Hazelwood, MO 63042   
 Phone: 1-800-240-7076   
 Fax: 1-314-521-5780   
-[ soft_surroundings@softsurroundings.com ](mailto:soft_surroundings@softsurroundings.com)
+[e-mail us](http://www.softsurroundings.com/emailUs.php)
 
 If you no longer wish to receive our e-newsletters and e-mail promotions you may electronically [unsubscribe here](http://www.softsurroundings.com/page.php?file=faq&faqId=49) or contact us at:
 
@@ -78,7 +78,7 @@ Soft Surroundings
 Hazelwood, MO 63042   
 Phone: 1-800-240-7076   
 Fax: 1-314-521-5780   
-[ soft_surroundings@softsurroundings.com ](mailto:soft_surroundings@softsurroundings.com)
+[e-mail us](http://www.softsurroundings.com/emailUs.php)
 
 If you do not want to receive mailings from other carefully screened companies, please contact us at:
 
@@ -87,7 +87,7 @@ Soft Surroundings
 Hazelwood, MO 63042   
 Phone: 1-800-240-7076   
 Fax: 1-314-521-5780   
-[ soft_surroundings@softsurroundings.com ](mailto:soft_surroundings@softsurroundings.com)
+[e-mail us](http://www.softsurroundings.com/emailUs.php)
 
 Please be sure to provide us your exact name and address, or the mailing label from your catalog, so that we can be sure to identify you correctly. Because we plan our mailings in advance, it may take several weeks for your request to become effective. If you continue to receive our communications, please contact us again and we will make every effort to correct the situation.
 
@@ -114,7 +114,7 @@ Soft Surroundings
 Hazelwood, MO 63042   
 Phone: 1-800-240-7076   
 Fax: 1-314-521-5780   
-[ soft_surroundings@softsurroundings.com ](mailto:soft_surroundings@softsurroundings.com)
+[e-mail us](http://www.softsurroundings.com/emailUs.php)
 
 A limited amount of purchase information also may be available to you. To protect your privacy, we will need to validate your identity before you update or review your information.
 
@@ -137,4 +137,4 @@ Soft Surroundings
 Hazelwood, MO 63042   
 Phone: 1-800-240-7076   
 Fax: 1-314-521-5780   
-[ soft_surroundings@softsurroundings.com ](mailto:soft_surroundings@softsurroundings.com)
+[e-mail us](http://www.softsurroundings.com/emailUs.php)
