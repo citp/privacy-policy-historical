@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the guitartricks.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217184434id_/http%3A//www.guitartricks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitartricks.com privacy policy that was archived on 2006-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060419073813id_/http%3A//guitartricks.com/privacy.php) for the most accurate reproduction.*
 
-# Guitar Lessons at Guitar Tricks: Legal Notice
+# Guitar Lessons: Legal Notice
 
 **Privacy Policy** ****
 
