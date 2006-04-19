@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mercedesclub.org.uk privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221100720id_/http%3A//www.mercedesclub.org.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercedesclub.org.uk privacy policy that was archived on 2006-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060420004248id_/http%3A//www.mercedesclub.org.uk/privacy.html) for the most accurate reproduction.*
 
 # : : Mercedes-Benz Owners' Association : :
 
