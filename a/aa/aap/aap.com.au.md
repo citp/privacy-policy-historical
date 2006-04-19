@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aap.com.au privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213232403id_/http%3A//aap.com.au/privacy-statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aap.com.au privacy policy that was archived on 2006-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060419224639id_/http%3A//aap.com.au/privacy-statement.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
