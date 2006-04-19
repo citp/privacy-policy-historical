@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brighthouse.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210160638id_/http%3A//mybrighthouse.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brighthouse.com privacy policy that was archived on 2006-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060419182912id_/http%3A//mybrighthouse.com/privacy.aspx) for the most accurate reproduction.*
 
 # Bright House Networks - User Agreement
 
