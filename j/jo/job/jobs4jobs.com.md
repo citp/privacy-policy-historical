@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobs4jobs.com privacy policy that was archived on 2005-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051027212407id_/http%3A//www.jobs4jobs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobs4jobs.com privacy policy that was archived on 2006-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060419064816id_/http%3A//www.jobs4jobs.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Jobs4jobs.com
 
