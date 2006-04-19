@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the huskyenergy.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204201034id_/http%3A//www.huskyenergy.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huskyenergy.com privacy policy that was archived on 2006-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060420015720id_/http%3A//www.huskyenergy.com/privacy.asp) for the most accurate reproduction.*
 
 # Husky Energy
 
@@ -12,10 +12,10 @@ _(a) Collection, Use and Disclosure Activities of Husky_
 
 Husky collects personal information about individuals participating in or impacted by its exploration, development, production and retail activities, including information regarding customers, investors, security holders, financial analysts and individuals owning, accessing, using or occupying lands where Husky is, was or may be conducting activities. Information that Husky collects includes: 
 
-  * contact and identification information, including name, address, e-mail address, and telephone number;
-  * property information, including title, ownership, land surveys, real property reports, road use and property access information, land use and land reclamation; 
-  * change of ownership information, including information related to the sale, transfer, or transmission on death of an interest in land or a lease; 
-  * environment, health and safety information, including information required to contact you and your family and to respond in the event of an emergency; 
+  * contact and identification information, including name, address, e-mail address, and telephone number; 
+  * property information, including title, ownership, land surveys, real property reports, road use and property access information, land use and land reclamation;
+  * change of ownership information, including information related to the sale, transfer, or transmission on death of an interest in land or a lease;
+  * environment, health and safety information, including information required to contact you and your family and to respond in the event of an emergency;
   * financial information, including banking information, tax information, occupation, payment information, credit or financial history and mortgage information; and
   * regulatory process, license and permit application information, including information required by applicable government and other regulatory agencies or by law. 
 
@@ -24,12 +24,12 @@ Husky collects personal information about individuals participating in or impact
 Husky collects, uses and discloses personal information in order to conduct its business activities, which include: 
 
   * providing information to shareholders and other interested individuals;
-  * providing goods and services; 
+  * providing goods and services;
   * managing customer relationships;
-  * acquisition and divestitures; 
-  * administering contracts (including leases of mineral and surface rights); 
+  * acquisition and divestitures;
+  * administering contracts (including leases of mineral and surface rights);
   * conducting exploration, development and production activities including seismic operations, reclamation, drilling and completion and constructing roads, wellsites, pipelines and other facilities; and
-  * complying with legal and regulatory requirements in the various jurisdictions in which Husky operates. 
+  * complying with legal and regulatory requirements in the various jurisdictions in which Husky operates.
 
 
 
@@ -37,12 +37,12 @@ Husky uses the services of many third parties in its business. Husky will share 
 
   * information technology consultants 
   * geophysical contractors;
-  * land brokers and land agents;
+  * land brokers and land agents; 
   * road, well, pipeline and other facilities construction and/or maintenance contractors;
   * environment, health and safety consultants;
   * geophysical, engineering, environmental, or other consultants;
   * credit rating agencies, credit providers and financial institutions; and
-  * government authorities. 
+  * government authorities.
 
 
 
@@ -66,7 +66,7 @@ If you do refuse or withdraw your consent, this may affect certain aspects of yo
 
 _(d) Contacting Husky_
 
-Husky has appointed two Privacy Officers to oversee all aspects of Husky's privacy policy and practices. The Privacy Officers are Vice President Legal and Vice President Corporate Administration. You may e-mail the Privacy Officers at [privacyofficer@huskyenergy.ca](mailto:privacyofficer@huskyenergy.ca), or you may contact the Privacy Officers at: 
+Husky has appointed two Privacy Officers to oversee all aspects of Husky's privacy policy and practices. The Privacy Officers are Vice President Legal and Vice President Chief Information Officer. You may e-mail the Privacy Officers at [privacyofficer@huskyenergy.ca](mailto:privacyofficer@huskyenergy.ca), or you may contact the Privacy Officers at: 
 
 > Husky Energy Inc.  
 >  Attention: Privacy Officers  
