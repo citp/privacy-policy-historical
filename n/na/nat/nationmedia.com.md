@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationmedia.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220101731id_/http%3A//nationmedia.com/dailynation/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationmedia.com privacy policy that was archived on 2006-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060419183329id_/http%3A//nationmedia.com/dailynation/privacy.asp) for the most accurate reproduction.*
 
 # Nationmedia.com | Daily Nation
 
