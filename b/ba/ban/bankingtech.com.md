@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankingtech.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222022204id_/http%3A//www.bankingtech.com/ipi/bankingtech/indextemplate.jsp%3Fpageid%3Dstatic%26contentid%3Dbat%3Aps) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankingtech.com privacy policy that was archived on 2006-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060420045227id_/http%3A//www.bankingtech.com/ipi/bankingtech/indextemplate.jsp%3Fpageid%3Dstatic%26contentid%3Dbat%3Aps) for the most accurate reproduction.*
 
 # Welcome to Banking Technology
 
