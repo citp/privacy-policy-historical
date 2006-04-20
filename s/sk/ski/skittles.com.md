@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skittles.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215090212id_/http%3A//www.mars.com/privacy/pp_english.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skittles.com privacy policy that was archived on 2006-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060420175706id_/http%3A//www.mars.com/privacy/pp_english.html) for the most accurate reproduction.*
 
 # Mars Privacy Policy
 
