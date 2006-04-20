@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icsc.org privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231073438id_/http%3A//www.icsc.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icsc.org privacy policy that was archived on 2006-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060420061219id_/http%3A//icsc.org/privacy.php) for the most accurate reproduction.*
 
 # ICSC Privacy Policy
 
@@ -12,7 +12,7 @@
 [](https://web.archive.org/srch/about/trustees.html)  
 [](https://web.archive.org/srch/about/2005_06CombinedListing_wEuro.pdf)  
 [](https://web.archive.org/srch/about/16reasons.php?region=)  
-[](https://web.archive.org/cgi/contact)  
+[](https://web.archive.org/apps/contact.php)  
 [](https://web.archive.org/srch/about/services.php?region=)  
 [](https://web.archive.org/about/KioskWeb2.html)  
 [](https://web.archive.org/srch/about/ICSC_bylaws2004.pdf)  
