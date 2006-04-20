@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockmagic.net privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222181041id_/http%3A//www.rockmagic.net/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockmagic.net privacy policy that was archived on 2006-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060420141824id_/http%3A//rockmagic.net/policy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
