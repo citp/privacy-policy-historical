@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juneauempire.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221204257id_/http%3A//juneauempire.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juneauempire.com privacy policy that was archived on 2006-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060420093033id_/http%3A//juneauempire.com/privacy.shtml) for the most accurate reproduction.*
 
 # JuneauEmpire.com:
 
