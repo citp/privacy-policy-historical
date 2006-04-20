@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the stlouisfed.org privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220214428id_/http%3A//www.stlouisfed.org/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stlouisfed.org privacy policy that was archived on 2006-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060420121328id_/http%3A//www.stlouisfed.org/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy, St. Louis Fed
 
 ### Privacy Policy
 
-[Legal Information](https://web.archive.org/web/20051220214428id_/http%3A//www.stlouisfed.org/legal/default.html)
+[Legal Information](https://web.archive.org/web/20060420121328id_/http%3A//www.stlouisfed.org/legal/default.html)
 
 * * *
 
@@ -29,31 +29,26 @@ If you provide us with your postal or e-mail address or telephone number, this i
 
   * Provide you with related information; or   
 
-  * Send you a token of appreciation through postal mail if you participate in selected online activities.   
-
+  * Send you a token of appreciation through postal mail if you participate in selected online activities. 
 
 
 
 We may also file your comments to improve the site, or review and discard the information.   
-When you fill out our online forms, they are returned to us via electronic mail. Your responses are not encrypted. We cannot guarantee the security of information sent via electronic mail.   
-
+When you fill out our online forms, they are returned to us via electronic mail. Your responses are not encrypted. We cannot guarantee the security of information sent via electronic mail. 
 
 **Cookies**
 
 A cookie is a text file that a web site can send to your browser and which may then be placed on your computer. We may use cookies on this site in the following ways:
 
   1. To collect statistical information about our users in aggregate. We perform analyses on our web server's log files to identify, among other things: 
-    * Our site's most popular pages;   
-
-    * The browsers and operating systems most often used by our visitors;   
-
-    * The sites and search engines that have referred visitors to our site; and   
-
+    * Our site's most popular pages; 
+    * The browsers and operating systems most often used by our visitors; 
+    * The sites and search engines that have referred visitors to our site; and 
     * The domains from which our users visit us. 
-  2. This analysis does not involve personally identifiable information. It is used only for the purpose of helping us understand and better meet our audience's needs. 2. If you register for a Research user account, a transient, memory-resident "cookies" will be invoked when you login to your user account and will disappear when your browser is closed. You are not required to register for a user account to use this site.  
-
-  3. Sometimes a third-party contractor will use cookies on one of the sites they create and manage for us -- for example, our Job Opportunities site.  
-You can set your browser to notify you before you receive a cookie, giving you the opportunity to decide whether to accept it or not. You can also set your browser to not accept cookies at all. If you do so, however, some areas of some sites (including ours) may not operate properly. 
+  2. This analysis does not involve personally identifiable information. It is used only for the purpose of helping us understand and better meet our audience's needs. 
+  3. If you register for a Research user account, a transient, memory-resident "cookie" will be invoked when you login to your user account and will disappear when your browser is closed. You are not required to register for a user account to use this site.
+  4. Sometimes a third-party contractor will use cookies on one of the sites they create and manage for us—for example, our Job Opportunities site.
+  5. You can set your browser to notify you before you receive a cookie, giving you the opportunity to decide whether to accept it or not. You can also set your browser to not accept cookies at all. If you do so, however, some areas of some sites (including ours) may not operate properly. 
 
 
 
@@ -72,15 +67,12 @@ This analysis does not involve personally identifiable information. It is used o
 
 **Disclosure of Information**
 
-  
 Any information collected on this web site, whether individual or aggregate, is for Federal Reserve use only. We do not rent, sell or share personal information about you with other people or nonaffiliated companies except under any of the following circumstances:
 
-  * When we have your permission;  
-
+  * When we have your permission;
   * The Federal Reserve Bank of St. Louis monitors this site for unauthorized attempts to upload or change information, to defeat or circumvent security measures, or to utilize this site for other than its intended purposes. By using this site you expressly consent to such monitoring and you are advised that if such monitoring reveals possible evidence of criminal activity, we will provide the evidence of such monitoring to law enforcement officials;
   * We retain the services of outside contractors to provide services, including mailing list administration and our Job Opportunities pages. We require that these contractors keep information obtained through our web site secure and confidential. We also require that these contractors use personal information obtained through our web site only on behalf of the Federal Reserve. 
-  * We may be required to disclose your personal information to government officials or otherwise as required by subpoenas, court orders, legal process or other legal obligations and to establish or exercise our legal rights or defend against legal claims. We will share information in order to investigate, prevent or take action regarding illegal activities, suspected fraud or as otherwise required by law.   
-
+  * We may be required to disclose your personal information to government officials or otherwise as required by subpoenas, court orders, legal process or other legal obligations and to establish or exercise our legal rights or defend against legal claims. We will share information in order to investigate, prevent or take action regarding illegal activities, suspected fraud or as otherwise required by law. 
 
 
 
