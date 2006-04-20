@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tqn.com privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528051355id_/http%3A//about.com/gi/pages/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tqn.com privacy policy that was archived on 2006-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060420184800id_/http%3A//tqn.com/gi/pages/mprivacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -44,6 +44,8 @@ Your browser offers so-called "cookies" which, if you allow their use, store sma
 We may also place a cookie on your browser so that this and other Web Sites owned by The New York Times Company will recognize you as a unique, anonymous user. This will enable us to make sure that you do not see the same ad over and over, to sequence ads in a series, and to measure more accurately the number of unique visitors across the network of New York Times Company Web sites.
 
 Some of the banner ads displayed in our Web sites are provided by outside companies. These ads contain cookies. While we use cookies in other parts of our Web sites, cookies received with banner ads are collected by our advertisers and we do not have access to this information. We use a reputable third party to serve some or all of the advertisements that are placed within our sites and they may use information (not including personally identifiable information) about your visits to our sites and other sites to assist in serving advertisements to you. If you would like to know more about the information gathering practices and 'opt-out' procedures of our third party ad server, please see <http://www.doubleclick.net/us/corporate/privacy>.
+
+About participates in the Tacoda Audience Network. The network matches ads to visitors' network browsing behavior; however, TACODA Audience Networks does not own or share any visitor data. To learn more about the Tacoda Audience Network [click here](http://www.tacoda.com/privacy_policy.htm) If you would like to opt out of the Tacoda Audience Network, [click here](http://www.networkadvertising.org/consumer/opt_out.asp)
 
 **USE OF WEB BEACONS**
 
