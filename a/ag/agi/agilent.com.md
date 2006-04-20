@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the agilent.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010142531id_/http%3A//we.home.agilent.com/cgi-bin/bvpub/agilent/editorial/cp_MiscEditorial.jsp%3FpageMode%3DPrivacy%26LANGUAGE_CODE%3Deng%26COUNTRY_CODE%3DUS) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agilent.com privacy policy that was archived on 2006-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060420145147id_/http%3A//www.home.agilent.com/cgi-bin/pub/agilent/editorial/cp_MiscEditorial.jsp%3FpageMode%3DPrivacy%26LANGUAGE_CODE%3Deng%26COUNTRY_CODE%3DUS) for the most accurate reproduction.*
 
 # Agilent | Customer Privacy Statement
 
 [](http://www.bbbonline.org/cks.asp?id=4182000121031)
 
-_This statement was last revised on June 18, 2004._
+_This statement was last revised on April 25, 2005._
 
 Agilent Technologies, Inc. and its subsidiaries (also referred to in this document as "Agilent Technologies" or "Agilent") provides this Privacy Statement to make you aware of our privacy practices and the choices you can make about how your personal information is collected and used, both on-line and off-line. To make this notice easy to access, it is available on the bottom of every Agilent web page. 
 
-Customers are Agilent's most valuable asset. We recognize that building a long-term business relationship with you depends a great deal on trust. This trust begins with our commitment to respecting as well as protecting your privacy. An integral part of this commitment is Agilent's participation in the BBBOnLine Privacy Program. We proudly display the BBBOnLine Privacy Seal. Our privacy practices are also self-certified as part of the U.S. Commerce Department's Safe Harbor Program. [More about BBBOnline](http://we.home.agilent.com/cgi-bin/bvpub/agilent/reuse/cp_ObservationLogRedirector.jsp?LANGUAGE_CODE=eng&EXTERNAL_PAGE_LINK_TEXT=More+about+BBBOnline&TARGET_URL=http%3a%2f%2fwww.bbbonline.org%2fcks.asp%3fid%3d4182000121031&LINK_TYPE=Arbitrary_Link&EXTERNAL_PAGE_LINK_URL=http%3a%2f%2fwww.bbbonline.org%2fcks.asp%3fid%3d4182000121031&COUNTRY_CODE=US)
+Customers are Agilent's most valuable asset. We recognize that building a long-term business relationship with you depends a great deal on trust. This trust begins with our commitment to respecting as well as protecting your privacy. An integral part of this commitment is Agilent's participation in the BBBOnLine Privacy Program. We proudly display the BBBOnLine Privacy Seal. Our privacy practices are also self-certified as part of the U.S. Commerce Department's Safe Harbor Program. [More about BBBOnline](http://www.home.agilent.com/cgi-bin/pub/agilent/reuse/cp_ObservationLogRedirector.jsp?LANGUAGE_CODE=eng&EXTERNAL_PAGE_LINK_TEXT=More+about+BBBOnline&TARGET_URL=http%3a%2f%2fwww.bbbonline.org%2fcks.asp%3fid%3d4182000121031&EXTERNAL_PAGE_LINK_URL=http%3a%2f%2fwww.bbbonline.org%2fcks.asp%3fid%3d4182000121031&COUNTRY_CODE=US)
 
 We've structured our web site so that you can visit us without identifying yourself or revealing any personal information. Throughout this Privacy Statement, personal information refers to any information that is unique to an individual, such as name, address, e-mail address, phone number, etc. If you do share your personal information with us, you can be assured that it will only be used to support your relationship with Agilent. 
 
@@ -58,21 +58,19 @@ On occasion Agilent may employ technologies that enable us to review which recip
 
 ## 8\. How Agilent Uses Cookies
 
-A cookie is a piece of information either stored temporarily in your browser's memory space (session cookie) or placed on your computer's hard drive (stored cookie). Many stored cookies also have a predetermined expiration date after which they disappear from your hard drive or they can be removed explicitly through functionality built into most web browsers. You may set your web browser (e.g. Microsoft Internet Explorer or Netscape Navigator) to notify you of cookie placement requests, ask for permission to accept them, or decline cookies completely. 
+A cookie is a piece of information either stored temporarily in your browser's memory space (session cookie) or placed on your computer's hard drive (stored cookie). Cookies allow a web application to respond to you as an individual, but without the need to identify you explicitly. Session cookies are destroyed when you terminate your browsing session by shutting down your browser. Stored cookies often have a predetermined expiration date after which they disappear from your hard drive. Cookies can be removed explicitly through functionality built into most web browsers. You may also set your web browser (e.g. Microsoft Internet Explorer or Netscape Navigator) to notify you of cookie placement requests, ask for permission to accept them, or decline cookies completely. 
 
 ### Adjusting Browser Cookie Settings
 
 For information on how to adjust your browser regarding cookies, please visit: 
 
-Microsoft Internet Explorer: [http://www.microsoft.com/info/cookies.htm](http://we.home.agilent.com/cgi-bin/bvpub/agilent/disclaimer/cp_Disclaimer.jsp?LANGUAGE_CODE=eng&EXTERNAL_PAGE_LINK_TEXT=http%3a%2f%2fwww.microsoft.com%2finfo%2fcookies.htm&TARGET_URL=http%3a%2f%2fwww.microsoft.com%2finfo%2fcookies.htm&LINK_TYPE=Arbitrary_Link&EXTERNAL_PAGE_LINK_URL=http%3a%2f%2fwww.microsoft.com%2finfo%2fcookies.htm&COUNTRY_CODE=US)
+Microsoft Internet Explorer: [http://www.microsoft.com/info/cookies.htm](http://www.home.agilent.com/cgi-bin/pub/agilent/disclaimer/cp_Disclaimer.jsp?LANGUAGE_CODE=eng&EXTERNAL_PAGE_LINK_TEXT=http%3a%2f%2fwww.microsoft.com%2finfo%2fcookies.htm&TARGET_URL=http%3a%2f%2fwww.microsoft.com%2finfo%2fcookies.htm&EXTERNAL_PAGE_LINK_URL=http%3a%2f%2fwww.microsoft.com%2finfo%2fcookies.htm&COUNTRY_CODE=US)
 
-Netscape Navigator: [http://wp.netscape.com/legal_notices/cookies.html](http://we.home.agilent.com/cgi-bin/bvpub/agilent/disclaimer/cp_Disclaimer.jsp?LANGUAGE_CODE=eng&EXTERNAL_PAGE_LINK_TEXT=http%3a%2f%2fwp.netscape.com%2flegal_notices%2fcookies.html&TARGET_URL=http%3a%2f%2fwp.netscape.com%2flegal_notices%2fcookies.html&LINK_TYPE=Arbitrary_Link&EXTERNAL_PAGE_LINK_URL=http%3a%2f%2fwp.netscape.com%2flegal_notices%2fcookies.html&COUNTRY_CODE=US)
+Netscape Navigator: [http://wp.netscape.com/legal_notices/cookies.html](http://www.home.agilent.com/cgi-bin/pub/agilent/disclaimer/cp_Disclaimer.jsp?LANGUAGE_CODE=eng&EXTERNAL_PAGE_LINK_TEXT=http%3a%2f%2fwp.netscape.com%2flegal_notices%2fcookies.html&TARGET_URL=http%3a%2f%2fwp.netscape.com%2flegal_notices%2fcookies.html&EXTERNAL_PAGE_LINK_URL=http%3a%2f%2fwp.netscape.com%2flegal_notices%2fcookies.html&COUNTRY_CODE=US)
 
-### Session Cookies
+### Cookie Usage
 
-On occasion Agilent may also use session cookies to help us analyze web traffic or to improve your web navigation experience. A unique ID is assigned to help us identify you each time you return to our web site during the current browsing session. Session cookies are destroyed when you terminate your browsing session by shutting down your browser. Session cookies allow a web application to respond to you as an individual, but without the need to identify you explicitly. 
-
-One of the major concerns about stored cookies is the fear that they contain personal information and information identifying you that could be accessed by other web sites. Agilent only stores a randomly chosen unique ID number and a context, both of which are meaningless to others, but help us identify you. 
+On occasion Agilent may use cookies to help us analyze web traffic or to improve your web navigation experience. To facilitate the analysis, an ID is assigned to help us uniquely identify you each time you return to our web site. One of the major concerns about stored cookies is the fear that they contain personal information and information identifying you that could be accessed by other web sites. Agilent only stores a randomly chosen unique ID number and a context, both of which are meaningless to others, but help us uniquely identify you. 
 
 By gathering and remembering information about your preferences, the web application can: 
 
