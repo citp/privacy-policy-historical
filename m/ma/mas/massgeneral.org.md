@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the massgeneral.org privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231111130id_/http%3A//www.massgeneral.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massgeneral.org privacy policy that was archived on 2006-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060420184248id_/http%3A//www.massgeneral.org/privacy.htm) for the most accurate reproduction.*
 
 # MGH Privacy Statement
 
