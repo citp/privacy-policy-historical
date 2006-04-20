@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the duluthtrading.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230180044id_/http%3A//www.duluthtrading.com/privacysecurity/privacysecurity.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duluthtrading.com privacy policy that was archived on 2006-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060420164435id_/http%3A//www.duluthtrading.com/privacysecurity/privacysecurity.aspx) for the most accurate reproduction.*
 
 # Privacy & Security - Duluth Trading Company
 
@@ -56,5 +56,5 @@ In the event of unauthorized use of your credit card, you must notify your credi
 
 Please contact us by e-mail at [customerservice@duluthtrading.com](mailto:customerservice@duluthtrading.com) if you have any further questions about our online security or credit card guarantee.  
   
-Copyright (c)2005 Duluth Trading Company  
+Copyright ©2006 Duluth Trading Company  
  **800-505-8888**
