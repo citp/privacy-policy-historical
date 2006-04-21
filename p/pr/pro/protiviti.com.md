@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the protiviti.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224181651id_/http%3A//protiviti.com/portal/site/pro-us/%3Fepi_menuItemID%3D690b6009e6d8722b22687910f5ffbfa0%26epi_menuID%3D46db2aca8ce6fb547a2ff891a7cebfa0%26epi_baseMenuID%3De895a64d2cd7bc72af03a975a7cebfa0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protiviti.com privacy policy that was archived on 2006-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060421061553id_/http%3A//protiviti.com/portal/site/pro-us/%3Fepi_menuItemID%3D690b6009e6d8722b22687910f5ffbfa0%26epi_menuID%3D46db2aca8ce6fb547a2ff891a7cebfa0%26epi_baseMenuID%3De895a64d2cd7bc72af03a975a7cebfa0) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ When you use or register with the Site, we may ask for certain Personal Informat
 We use Personal Information and other data collected through the Site to register you with the Site, to provide you with information regarding risk consulting, and to otherwise provide you with requested information or services. We may also from time to time use your Personal Information to send you automated email messages or marketing materials regarding our services, including employment information. You may opt out of receiving such marketing email messages by sending a message to the email address below.
 
 **Disclosures of Personal Information**  
-As described in Section 4 of the [Terms of Use](https://web.archive.org/web/20051224181651id_/http%3A//protiviti.com/portal/site/pro-us/%3Fepi_menuItemID%3D690b6009e6d8722b22687910f5ffbfa0%26epi_menuID%3D46db2aca8ce6fb547a2ff891a7cebfa0%26epi_baseMenuID%3De895a64d2cd7bc72af03a975a7cebfa0?pgTitle=Terms%20of%20Use), Protiviti may disclose Personal Information to third parties. The disclosure to third parties would occur in the following circumstances:
+As described in Section 4 of the [Terms of Use](https://web.archive.org/web/20060421061553id_/http%3A//protiviti.com/portal/site/pro-us/%3Fepi_menuItemID%3D690b6009e6d8722b22687910f5ffbfa0%26epi_menuID%3D46db2aca8ce6fb547a2ff891a7cebfa0%26epi_baseMenuID%3De895a64d2cd7bc72af03a975a7cebfa0?pgTitle=Terms%20of%20Use), Protiviti may disclose Personal Information to third parties. The disclosure to third parties would occur in the following circumstances:
 
   1. We may disclose information to companies and individuals we employ to perform business functions and services on our behalf. Such functions may include, for example, hosting our Web servers, analyzing data, providing legal, accounting and marketing services. 
 
