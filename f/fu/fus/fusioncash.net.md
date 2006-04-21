@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fusioncash.net privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215080515id_/http%3A//www.fusioncash.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fusioncash.net privacy policy that was archived on 2006-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060421212209id_/http%3A//www.fusioncash.net/privacy.php) for the most accurate reproduction.*
 
 # FusionCash
 
@@ -10,7 +10,8 @@ For each visitor to our website, our web server automatically logs information r
   * used to improve the content of our site,
   * used internally for marketing purposes,
   * used to prevent and respond to hacking and other illicit activities, and
-  * never shared with other organizations for commercial or any other purposes.
+  * never shared with other organizations for commercial or any other purposes. 
+  * However, your registered email address and other information may be provided to certain affiliates when you click on an offer. This is merely to aid in fraud prevention and completion tracking. Said affiliates have strict privacy policies and will not send unsolicited commercial email.
 
 
 
@@ -23,15 +24,17 @@ Registration is not required to access this site; however, most features require
 
 We require additional information from the user in order to disburse payment. A user must provide information such as name, email, and/or mailing address in order to receive payment. 
 
+When completing some offers, some or all of your contact information may be "pre-populated" on the advertiser's site. This industry-standard practice is intended to make the offer completion process easier. **Your contact information is not collected by the advertiser unless you "submit" the form.**
+
 FusionCash sends three types of emails: 
 
   * email confirmation requests (when you sign up initially or change your email address or password)
   * offer completion notifications (when you are credited for completing an offer)
-  * occasional newsletters (no more often than once per 30 days)
+  * occasional newsletters (no more often than twice per calendar month)
 
 
 
-You may [unsubscribe from newsletters](https://web.archive.org/web/20051215080515id_/http%3A//www.fusioncash.net/newsletter.php?unsub) at any time. Once unsubscribed, you will no longer receive the newsletter. 
+You may [unsubscribe from newsletters](https://web.archive.org/web/20060421212209id_/http%3A//www.fusioncash.net/newsletter.php?unsub) at any time. Once unsubscribed, you will no longer receive the newsletter. 
 
 For security reasons, we do not allow users to unsubscribe from account confirmation or completion notification emails. If you do not wish to receive those emails, simply cease logging in, as they are sent only when triggered by user actions.
 
