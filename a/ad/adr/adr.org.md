@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the adr.org privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212141341id_/http%3A//www.adr.org/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adr.org privacy policy that was archived on 2006-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060422014613id_/http%3A//www.adr.org/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 AAA PRIVACY POLICY 
 
-This Privacy Policy ( "Policy" ) sets forth the American Arbitration Association's ( "AAA" ) policies regarding the collection and use of information via this Portal located at adr.org (including all pages under such second level domain name, collectively, the  "Portal" ). The Portal is generally accessible by all visitors ( "Visitors" ); however, portions of the Portal are only accessible by certain Visitors who register to use the AAA's online services ( "Online Services" ). Certain Visitors registered to use the Online Services include persons who use the AAA's Internet-based alternative dispute resolution facility, AAAWebFile SM ( "WebFile" ) to submit a dispute for online arbitration or mediation (such Visitors or their representatives, the  "Parties" ). Only Parties may access the Web File area of the Online Services. Certain Visitors registered as arbitrators, mediators, or other neutrals with the AAA ( "Neutrals" ) or registered voters may also access portions of the Online Services. Parties, Neutrals and all other Visitors registered to use the Online Services are referred to collectively herein as  "Registered Visitors." Capitalized terms not otherwise defined herein shall have the meaning ascribed to them in the AAA Portal  [Terms of Use](https://web.archive.org/sp.asp?id=25129). 
+This Privacy Policy ( "Policy" ) sets forth the American Arbitration Association's ( "AAA" ) policies regarding the collection and use of information via this Portal located at adr.org (including all pages under such second level domain name, collectively, the  "Portal" ). The Portal is generally accessible by all visitors ( "Visitors" ); however, portions of the Portal are only accessible by certain Visitors who register to use the AAA's online services ( "Online Services" ). Certain Visitors registered to use the Online Services include persons who use the AAA's Internet-based alternative dispute resolution facility, AAAWebFile SM ( "WebFile" ) to submit a dispute for online arbitration or mediation (such Visitors or their representatives, the  "Parties" ). Only Parties may access the Web File area of the Online Services. Certain Visitors registered as arbitrators, mediators, or other neutrals with the AAA ( "Neutrals" ) or registered voters may also access portions of the Online Services. Parties, Neutrals and all other Visitors registered to use the Online Services are referred to collectively herein as  "Registered Visitors." Capitalized terms not otherwise defined herein shall have the meaning ascribed to them in the AAA Portal  [Terms of Use](https://web.archive.org/sp.asp?id=25129).
 
 INFORMATION COLLECTION AND USE
 
@@ -38,11 +38,11 @@ AAA may make available certain public and/or private forums such as bulletin boa
 
 OPT-OUT CHOICES
 
-To "opt-out" of (1) receiving communications from AAA (except for communications necessary for the operation of the Portal, the Online Services, or as otherwise permitted under this Policy), (2) having contact information disclosed to third parties for marketing purposes (except as necessary for AAA to operate the Portal, Online Services, or as otherwise permitted under this Policy), or (3) any other consent previously granted for a specific purpose concerning Your personal information, send an email to the AAA Data Controller at eCommerce  [mailbox@adr.org](mailto:mailbox@adr.org). 
+To "opt-out" of (1) receiving communications from AAA (except for communications necessary for the operation of the Portal, the Online Services, or as otherwise permitted under this Policy), (2) having contact information disclosed to third parties for marketing purposes (except as necessary for AAA to operate the Portal, Online Services, or as otherwise permitted under this Policy), or (3) any other consent previously granted for a specific purpose concerning Your personal information, send an email to the AAA Data Controller at eCommerce  [websitemail@adr.org](mailto:websitemail@adr.org). 
 
 REVIEW/CHANGE CONTACT INFORMATION
 
-Requests to review or change Registration Information previously provided on or through certain portions of the Online Services may be made to the AAA by sending an email to the AAA Data Controller at eCommerce  [mailbox@adr.org](mailto:mailbox@adr.org). 
+Requests to review or change Registration Information previously provided on or through certain portions of the Online Services may be made to the AAA by sending an email to the AAA Data Controller at eCommerce  [websitemail@adr.org ](mailto:websitemail@adr.org). 
 
 LINKED SITES
 
@@ -80,4 +80,4 @@ Privacy Policy Last Updated: March 9, 2005.
 
 CONTACT, QUESTIONS, COMMENTS, COMPLAINTS
 
-If You would like to communicate with AAA regarding privacy issues or have questions, comments or complaints about this Policy, please forward such communication to eCommerce  [mailbox@adr.org](mailto:mailbox@adr.org). 
+If You would like to communicate with AAA regarding privacy issues or have questions, comments or complaints about this Policy, please forward such communication to eCommerce  [websitemail@adr.org](mailto:websitemail@adr.org). 
