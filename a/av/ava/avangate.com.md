@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avangate.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210044806id_/http%3A//www.avangate.com/online-payment-solutions/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avangate.com privacy policy that was archived on 2006-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060421214510id_/http%3A//www.avangate.com/online-payment-solutions/privacy.php) for the most accurate reproduction.*
 
 # avangate.com - Security and Privacy Policy
 
@@ -130,7 +130,7 @@ The Sites might contain links to external web sites beyond Avangate control, web
 
 **Terms of Use**
 
-Please visit and review our [Terms and Conditions](https://web.archive.org/web/20051210044806id_/http%3A//www.avangate.com/online-payment-solutions/terms.php), that also governs your visit to the Site.   
+Please visit and review our [Terms and Conditions](https://web.archive.org/web/20060421214510id_/http%3A//www.avangate.com/online-payment-solutions/terms.php), that also governs your visit to the Site.   
 
 
 **Applicable Law**
