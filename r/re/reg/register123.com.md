@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the register123.com privacy policy that was archived on 2005-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051201024910id_/http%3A//www.certain.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the register123.com privacy policy that was archived on 2006-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060422013148id_/http%3A//certain.com/privacy.htm) for the most accurate reproduction.*
 
 # Certain Software - Privacy Statement
+
+Last Update June, 2005
 
 We at **Certain Software®** are committed to respecting your online privacy and recognize your need for appropriate protection and management of any Personal Information you share with us.
 
