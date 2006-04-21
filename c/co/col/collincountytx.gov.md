@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collincountytx.gov privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227041237id_/http%3A//www.collincountytx.gov/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collincountytx.gov privacy policy that was archived on 2006-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060421191314id_/http%3A//collincountytx.gov/privacy.jsp) for the most accurate reproduction.*
 
 # Collin County Privacy Policy
 
@@ -24,10 +24,11 @@ When visiting the Collin County website, the following information is collected 
   4. The length of time you visited this site;
   5. The web pages or services you accessed at this site;
   6. The Referring URL;
-  7. The amount of data transferred;
-  8. The IP address assigned to your ISP or your computer;
-  9. The Location assigned to your IP address; and
-  10. Name of the ISP assigned to your IP address.
+  7. The search engine and search phrases used to find this site;
+  8. The amount of data transferred;
+  9. The IP address assigned to your ISP or your computer;
+  10. The Location assigned to your IP address; and
+  11. Name of the ISP assigned to your IP address.
 
 
 
