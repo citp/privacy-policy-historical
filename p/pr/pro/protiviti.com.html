@@ -1,8 +1,7 @@
-<!--The following is the downloaded HTML source of the protiviti.com privacy policy that was archived on 2005-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051224181651id_/http%3A//protiviti.com/portal/site/pro-us/%3Fepi_menuItemID%3D690b6009e6d8722b22687910f5ffbfa0%26epi_menuID%3D46db2aca8ce6fb547a2ff891a7cebfa0%26epi_baseMenuID%3De895a64d2cd7bc72af03a975a7cebfa0) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the protiviti.com privacy policy that was archived on 2006-04-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060421061553id_/http%3A//protiviti.com/portal/site/pro-us/%3Fepi_menuItemID%3D690b6009e6d8722b22687910f5ffbfa0%26epi_menuID%3D46db2aca8ce6fb547a2ff891a7cebfa0%26epi_baseMenuID%3De895a64d2cd7bc72af03a975a7cebfa0) for the most accurate reproduction.-->
 
-<html><head><link rel="STYLESHEET" type="text/css" href="/content/PRO/include/css/protiviti_common.css">
-<link rel="STYLESHEET" type="text/css" href="/content/PRO/include/css/protiviti.css">
+<html xml:lang="en" lang="en"><!-- link rel="STYLESHEET" type="text/css" href="/content/PRO/include/css/protiviti_common.css" --><head><link rel="STYLESHEET" type="text/css" href="/content/PRO/include/css/protiviti.css">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <base target="_top">
 
@@ -334,7 +333,7 @@ dcsTag();
 <table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
    <tbody><tr>
    <td align="left" bgcolor="#FFFFFF"><img src="/images/PRO/vap_images/header/protiviti_logo.jpg"></td>
-   <td align="left" bgcolor="#FFFFFF"><img src="/images/PRO/vap_images/header/home_pro-us_en_US_7.jpg"></td>
+   <td align="left" bgcolor="#FFFFFF"><img src="/images/PRO/vap_images/header/home_pro-us_en_US_6.jpg"></td>
    <td width="1"></td>
    <td align="right"><img src="/images/PRO/vap_images/header/id_pro-us_en_US.gif"></td>
 </tr></tbody></table>
@@ -371,10 +370,52 @@ dcsTag();
 
 
 
-
-
 <script language="JavaScript" src="/portal/jslib/generic.js"></script>
 <script language="JavaScript" src="/content/PRO/include/js/protiviti.js"></script>
+
+<script language="JavaScript">
+var iSuffix = new Array('on', 'off', 'over');
+var iPath = '/images/PRO/vap_images/horizontal/';
+//----------------------------------------------------
+// preload
+//----------------------------------------------------
+function preLoad()
+{
+  if(document.images)
+  {
+    var argLen = arguments.length;
+    for(var i = 0; i < argLen; i++)
+    {
+      var arg = arguments[i];
+      var sufLen = iSuffix.length;
+      for(j = 0; j < sufLen; j++)
+      {
+        var suf = iSuffix[j]
+        self[arg + '_' + suf] = new Image();
+        self[arg + '_' + suf].src = iPath + arg + '_' + suf + '.' + iExt;
+      }
+    }
+  }
+}
+
+//-----------------------------------------------------
+// rollOver
+//-----------------------------------------------------
+function rollOver(iName, iState)
+{
+  if(document.images && self[iName + '_' + iState])
+  {
+    document.images[iName].src = self[iName + '_' + iState].src;
+  }
+}
+
+//---------------------------------------------------
+// PROreDo
+//---------------------------------------------------
+function PROreDo() {
+  window.location.reload()
+}
+</script>
 
 <style>
 <!--
@@ -424,7 +465,6 @@ text-decoration:none;
 </style> 
 
 
-
 	<script language="JavaScript">
       	var linkset=new Array();
       		
@@ -433,7 +473,7 @@ text-decoration:none;
             
                         linkset[0]+='<div class="menuitems"><a href="http://www.protiviti.com/portal/site/pro-ca/index.jsp?front_door=true">Canada</a></div>'
             
-                        linkset[0]+='<div class="menuitems"><a href="HTTP://www.protiviti.cn">China</a></div>'
+                        linkset[0]+='<div class="menuitems"><a href="/portal/site/pro-cn/index.jsp?front_door=true&siteLocale=zh_CN">China</a></div>'
             
                         linkset[0]+='<div class="menuitems"><a href="http://www.protiviti.com/portal/site/pro-fr/index.jsp?front_door=true">France</a></div>'
             
@@ -441,23 +481,23 @@ text-decoration:none;
             
                         linkset[0]+='<div class="menuitems"><a href="HTTP://www.protiviti.jp">Japan</a></div>'
             
-                        linkset[0]+='<div class="menuitems"><a href="#index.jsp?front_door=true">Mexico</a></div>'
+                        linkset[0]+='<div class="menuitems"><a href="/portal/site/pro-mx/index.jsp?front_door=true&siteLocale=es_MX">Mexico</a></div>'
             
                         linkset[0]+='<div class="menuitems"><a href="http://www.protiviti.com/portal/site/pro-nl/index.jsp?front_door=true">Netherlands</a></div>'
             
                         linkset[0]+='<div class="menuitems"><a href="http://www.protiviti.com/portal/site/pro-sg/index.jsp?front_door=true">Singapore</a></div>'
             
+                        linkset[0]+='<div class="menuitems"><a href="HTTP://www.protiviti.co.kr">South Korea</a></div>'
+            
                         linkset[0]+='<div class="menuitems"><a href="http://www.protiviti.com/portal/site/pro-gb/index.jsp?front_door=true">United Kingdom</a></div>'
             
                         linkset[0]+='<div class="menuitems"><a href="http://www.protiviti.com/portal/site/pro-us/index.jsp?front_door=true">United States</a></div>'
             
-		
 	</script>
 
-
-
 <table width="500" border="0" cellspacing="0" cellpadding="0">
-    <tbody><tr>                                     
+    <tbody><tr>
+    	<!-- td background="/images/PRO/vap_images/horizontal/nav_back_image.gif" -->
 	<td width="500" align="LEFT">
 	<table width="500" border="0" align="left" cellpadding="0" cellspacing="0">
               <tbody><tr>
@@ -466,33 +506,44 @@ text-decoration:none;
               <span class="navSelectCountry" onmouseover="this.style.cursor='hand'" onclick="showmenu(event,linkset[0])" onmouseout="delayhidemenu()">Select a Country</span>
              </td>
 		 
- 
-<td valign="top">
-      <table width="100" border="0" align="left" cellspacing="0" cellpadding="0">
-        <tbody><tr>
 
-			<td width="100" align="left"><a href="/portal/site/pro-us/?epi_menuItemID=e179b478752832747a2ff891a7cebfa0&amp;epi_menuID=46db2aca8ce6fb547a2ff891a7cebfa0&amp;epi_baseMenuID=e895a64d2cd7bc72af03a975a7cebfa0" class="navBorder">Solutions</a></td>
-        						
+                    <td valign="top">
+                      <table width="100%" border="0" align="left" cellspacing="0" cellpadding="0">
+                        <tbody><tr>
 
-			<td width="100" align="left"><a href="/portal/site/pro-us/?epi_menuItemID=2df1b481f23cc5747a2ff891a7cebfa0&amp;epi_menuID=46db2aca8ce6fb547a2ff891a7cebfa0&amp;epi_baseMenuID=e895a64d2cd7bc72af03a975a7cebfa0" class="navBorder">Tools</a></td>
-        						
+                    
 
-			<td width="100" align="left"><a href="/portal/site/pro-us/?epi_menuItemID=8217f9ba5f0a6ebfab078e9ca7cebfa0&amp;epi_menuID=2568b4521035edbfab078e9ca7cebfa0&amp;epi_baseMenuID=e895a64d2cd7bc72af03a975a7cebfa0" class="navBorder">Industries</a></td>
-        						
 
-			<td width="100" align="left"><a href="/portal/site/pro-us/?epi_menuItemID=6e2f9e7991db7e747a2ff891a7cebfa0&amp;epi_menuID=46db2aca8ce6fb547a2ff891a7cebfa0&amp;epi_baseMenuID=e895a64d2cd7bc72af03a975a7cebfa0" class="navBorder">Knowledge</a></td>
-        						
+                    <td width="100" align="left"><a href="/portal/site/pro-us/?epi_menuItemID=315a3420861e0f910e7be810b7aebfa0&amp;epi_menuID=cfd4eb51020e0f910e7be810b7aebfa0&amp;epi_baseMenuID=e895a64d2cd7bc72af03a975a7cebfa0" class="navBorder">Solutions</a></td>
+	
 
-			<td width="100" align="left"><a href="/portal/site/pro-us/?epi_menuItemID=238588dcdbae11847a2ff891a7cebfa0&amp;epi_menuID=46db2aca8ce6fb547a2ff891a7cebfa0&amp;epi_baseMenuID=e895a64d2cd7bc72af03a975a7cebfa0" class="navBorder">About Us</a></td>
-        						
 
-			<td width="100" align="left"><a href="/portal/site/pro-us/?epi_menuItemID=4c9119e52facf12f73eda410f5ffbfa0&amp;epi_menuID=8bb9c29f318cf12f73eda410f5ffbfa0&amp;epi_baseMenuID=e895a64d2cd7bc72af03a975a7cebfa0" class="navBorder">Careers</a></td>
-        						
+                    <td width="100" align="left"><a href="/portal/site/pro-us/?epi_menuItemID=2df1b481f23cc5747a2ff891a7cebfa0&amp;epi_menuID=46db2aca8ce6fb547a2ff891a7cebfa0&amp;epi_baseMenuID=e895a64d2cd7bc72af03a975a7cebfa0" class="navBorder">Tools</a></td>
+	
 
-	</tr>
-      </tbody></table>
-</td>
-</tr>
+
+                    <td width="100" align="left"><a href="/portal/site/pro-us/?epi_menuItemID=8217f9ba5f0a6ebfab078e9ca7cebfa0&amp;epi_menuID=2568b4521035edbfab078e9ca7cebfa0&amp;epi_baseMenuID=e895a64d2cd7bc72af03a975a7cebfa0" class="navBorder">Industries</a></td>
+	
+
+
+                    <td width="100" align="left"><a href="/portal/site/pro-us/?epi_menuItemID=6e2f9e7991db7e747a2ff891a7cebfa0&amp;epi_menuID=46db2aca8ce6fb547a2ff891a7cebfa0&amp;epi_baseMenuID=e895a64d2cd7bc72af03a975a7cebfa0" class="navBorder">Knowledge</a></td>
+	
+
+
+                    <td width="100" align="left"><a href="/portal/site/pro-us/?epi_menuItemID=238588dcdbae11847a2ff891a7cebfa0&amp;epi_menuID=46db2aca8ce6fb547a2ff891a7cebfa0&amp;epi_baseMenuID=e895a64d2cd7bc72af03a975a7cebfa0" class="navBorder">About Us</a></td>
+	
+
+
+                    <td width="100" align="left"><a href="/portal/site/pro-us/?epi_menuItemID=4c9119e52facf12f73eda410f5ffbfa0&amp;epi_menuID=8bb9c29f318cf12f73eda410f5ffbfa0&amp;epi_baseMenuID=e895a64d2cd7bc72af03a975a7cebfa0" class="navBorder">Careers</a></td>
+	
+
+                    
+
+                    <td width="100%" align="left">&nbsp;</td>
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>
 </tbody></table>
 </td></tr></tbody></table>
 <!-- Style: End horizontal navigation -->
@@ -617,12 +668,24 @@ function jumpTo(Select_List) {
 		     <span>Privacy Policy</span>
   
                 </td>
-     	  </tr>
+     	 <form action="index.jsp" method="GET"></form>
+	    <td class="breadcrumb" colspan="2" nowrap="">
+            <div align="right"><img border="0" src="/portal/images/misc/spacer.gif" alt="" width="2" height="1">
+                <input type="text" name="q" class="search">&nbsp;&nbsp;
+                
+                        <input type="submit" class="search" value="Search">
+                
+                <input type="hidden" name="pgTitle" value="Search">
+                <input type="hidden" name="proxyreload" value="1">
+            </div></td>
+            
+	    <!-- td width="15" class="breadcrumb">&nbsp;</td -->
+	</tr>
 	<tr>
-	  <td align="left" bgcolor="ededed">&nbsp;</td>
-	 </tr>
-    
+            <td align="left" colspan="3" bgcolor="ededed">&nbsp;</td>
+        </tr>
    </tbody></table>
+
    <!-- End Nav-Breadcrumb2 Area -->
 
 
@@ -672,7 +735,7 @@ function jumpTo(Select_List) {
 
 
 
-<!-- contentItem1 brass:8900/content/PRO/pro-us/pages/en/US/Home/privacy_policy.html -->
+<!-- contentItem1 bronze:8900/content/PRO/pro-us/pages/en/US/Home/privacy_policy.html -->
 
   
 
@@ -818,12 +881,17 @@ function jumpTo(Select_List) {
 	
                     <a href="/portal/site/pro-us/?pgTitle=Feedback_hidden_page&amp;fb_epi_menuItemID=690b6009e6d8722b22687910f5ffbfa0&amp;fb_epi_menuID=46db2aca8ce6fb547a2ff891a7cebfa0&amp;fb_epi_baseMenuID=e895a64d2cd7bc72af03a975a7cebfa0&amp;navName=Privacy+Policy">Site Feedback</a>&nbsp;&nbsp;|&nbsp;
         
-        ©&nbsp;2005 Protiviti Inc. All Rights Reserved | 1.888.556.7420
+        ©&nbsp;2006 Protiviti Inc. 
+        
+        All Rights Reserved | 1.888.556.7420
         
         </td>
   </tr>
 </tbody></table>
-
+<!-- elq page tracking -->
+<script type="text/javascript" language="JavaScript" src="/content/PRO/include/js/elqNow/elqCfg.js"></script>
+<script type="text/javascript" language="JavaScript" src="/content/PRO/include/js/elqNow/elqImg.js"></script><layer hidden="true"><img src="https://secure.eloqua.com/visitor/v200/svrGP.asp?pps=3&amp;siteid=361&amp;ref2=elqNone&amp;tzo=0&amp;ms=417" border="0" width="1" height="1"></layer>
+ 
 <!-- Style: End PRO footer -->
             <!-- end footer area -->
             </center>
