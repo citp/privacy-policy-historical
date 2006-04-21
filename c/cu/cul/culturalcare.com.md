@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the culturalcare.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231021112id_/http%3A//culturalcare.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the culturalcare.com privacy policy that was archived on 2006-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060421190810id_/http%3A//www.culturalcare.com/privacy.asp) for the most accurate reproduction.*
 
 # Cultural Care Au Pair | Privacy Policy
 
