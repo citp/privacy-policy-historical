@@ -1,11 +1,15 @@
-> *The following text is extracted and transformed from the ordermotion.com privacy policy that was archived on 2005-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051226010206id_/http%3A//ordermotion.com/%3Fp%3DCorporate/PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ordermotion.com privacy policy that was archived on 2006-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060421223812id_/http%3A//ordermotion.com/%3Fp%3DCorporate/PrivacyStatement) for the most accurate reproduction.*
 
-# OrderMotion | A Singular Solution for Multi-Channel Commerce
+# OrderMotion | A Singular Solution For Multi-Channel Commerce
 
   
-[Home](https://web.archive.org/web/20051226010206id_/http%3A//ordermotion.com/%3Fp%3DCorporate/index.asp) > [Company Information](https://web.archive.org/web/20051226010206id_/http%3A//ordermotion.com/%3Fp%3DCorporate/PrivacyStatement?p=Corporate)Privacy Statement
 
-The web site you have entered, [www.OrderMotion.com](http://www.ordermotion.com/), is operated by or on behalf of OrderMotion, A CommercialWare Division. 
+
+[Home](https://web.archive.org/web/20060421223812id_/http%3A//ordermotion.com/%3Fp%3DCorporate/index.asp) > [Company Information](https://web.archive.org/web/20060421223812id_/http%3A//ordermotion.com/%3Fp%3DCorporate/PrivacyStatement?p=Corporate)
+
+Privacy Statement
+
+The web site you have entered, [www.OrderMotion.com](http://www.ordermotion.com/), is operated by or on behalf of OrderMotion, Inc. 
 
 OrderMotion is committed to protecting your personal privacy. This Privacy Policy outlines the type of information that is collected by OrderMotion on this web site, and how we use and protect it. This Policy also tells you what to do if you do not want your Personal Information collected when you visit our web site, and how you can change information you have already provided to us. This Policy applies only to the OrderMotion web sites listed here. For example, it does not apply to banners, sweepstakes and other advertisements or promotions we may sponsor or participate in on web sites owned by third parties. 
 
