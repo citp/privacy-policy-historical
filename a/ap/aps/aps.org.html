@@ -1,152 +1,330 @@
-<!--The following is the downloaded HTML source of the aps.org privacy policy that was archived on 2003-10-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031008060921id_/http%3A//www.aps.org/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aps.org privacy policy that was archived on 2006-04-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060422015826id_/http%3A//www.aps.org/privacy.cfm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en"><html><!-- InstanceBegin template="/Templates/general2c.dwt" codeOutsideHTMLIsLocked="false" --><head>
-<!-- #BeginEditable "doctitle" --> 
-<title> APS Privacy Policy</title>
-<!-- #EndEditable -->
-<!-- InstanceBeginEditable name="head" --><meta name="keywords" content="American Physical Society, APS, Careers in Physics">
-<meta name="description" content="American Physical Society"><!-- InstanceEndEditable -->
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<script language="JavaScript" src="http://www.aps.org/browserdetect.js">
-</script>
-<!-- InstanceBeginEditable name="stylesheet" -->
-<!-- InstanceEndEditable -->
-<script language="JavaScript">
-<!--
-    function newWindow(expURL, width, height) {
-        options ="toolbar=0,status=1,menubar=0,scrollbars=1," +  "resizable=1,width=" + width + ",height=" + height;
-        expWin=window.open(expURL,"win", options);
-        }
-      //-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html xmlns:v="urn:schemas-microsoft-com:vml"><head>
+<title>APS Privacy Policy</title>
+<meta name="Description" content="APS Privacy Policy 2">
+<meta name="Keywords" content="American Physical Society,  APS, "><meta name="Generator" content="CommonSpot Content Server Version 3.2 SP4">
+<link rel="stylesheet" href="/style/home_ie_win.css" type="text/css">
+<script language="JavaScript"> <!--
+var gMenuControlID=0;
+var menus_included = 0;
+var jsPageAuthorMode = 0;
+var jsSessionPreviewON = 1;
+var jsDlgLoader = '/loader.cfm';
+var jsSiteID = 1;
+var jsSubSiteID = 1;
+var kurrentPageID = 48749;
+// -->
+</script><script language="JavaScript" src="/commonspot/nw-lame.js"></script>
+</head>
+<body lang="en" class="CS_Document"><a name="__topdoc__"></a><script language="JavaScript"><!--
+// always-include-ie.js  Copyright 1998-2003 PaperThin, Inc. All rights reserved.
+bName = navigator.appName;
+bVer = parseInt(navigator.appVersion);
+var bCanRollover=0
+if ((bName == "Netscape" && bVer >= 3) ||
+(bName == "Microsoft Internet Explorer" && bVer >= 4))
+bCanRollover=1;
+function ImageSet(imgID,newTarget)
+{
+if (bCanRollover)
+document[imgID].src=newTarget;
+}
+function clearStatus()
+{
+window.status = "";
+}
+function setStatbar(statbar)
+{
+var strStatbar=unescape(statbar);
+window.status=strStatbar;
+}
+function onLoadComplete()
+{
+if( menus_included == 1 )
+document.onmouseover = document_mouseover;	// defined in menu_ie.js
+}
+function HandleLink(parentID,link)
+{
+// links are in one of the following formats:
+// 		cpe_60_0,CP___PAGEID=100
+// 		CPNEWWIN:WindowName^params@CP___
+// 			CPNEWWIN:child^top=110:left=130:ww=140:hh=150:tb=1:loc=1:dir=0:stat=1:mb=1:sb=1:rs=1@CP___PAGEID=3811,Adv-Search-2.cfm,1
+if( jsPageAuthorMode == 0 )
+{
+windowname = "";
+windowparams = "";
+// "CPNEWWIN:" & NewWindowName & "^" & params & "@" & linkStruct.LinkURL;
+pos = link.indexOf("CPNEWWIN:");
+if (pos != -1)
+{
+pos1 = link.indexOf ("^");
+windowname = link.substring (pos+9, pos1);
+pos2 = link.indexOf ("@");
+windowparams = link.substring (pos1 + 1, pos2);
+link = link.substring (pos2 + 1, link.length);
+}
+if (link.indexOf ("CP___") != -1)
+{
+if (windowname == "")
+window.location = jsDlgLoader + "?url=/commonspot/utilities/handle-link.cfm&thelink=" + link;
+else
+{
+urltoopen = jsDlgLoader + "?url=/commonspot/utilities/handle-link.cfm&thelink=" + link;
+windowparams = FormatWindowParams(windowparams);
+window.open (urltoopen, windowname, windowparams);
+}
+}
+else
+{
+if (windowname == "")
+window.location = link;
+else
+{
+windowparams = FormatWindowParams(windowparams);
+window.open (link, windowname, windowparams);
+}
+}
+}
+else if( jsSessionPreviewON == 1 )
+{
+previewLink(link);
+}
+else
+{
+if( document.all[parentID] )
+document.all[parentID].click();
+}
+}
+function doWindowOpen(href,name,params)
+{
+window.open (href, name, params);
+}
+// 	CPNEWWIN:child^top=110:left=130:ww=140:hh=150:tb=1:loc=1:dir=0:stat=1:mb=1:sb=1:rs=1@CP___PAGEID=3811,Adv-Search-2.cfm,1
+function FormatWindowParams(windowparams)
+{
+if( windowparams.indexOf(":loc=") != -1 || windowparams.indexOf(":ww=") != -1 || windowparams.indexOf(":hh=") != -1 ||
+windowparams.indexOf(":left=") != -1 || windowparams.indexOf(":top=") != -1 )
+{
+windowparams = substringReplace(windowparams,':left=',',left=');
+windowparams = substringReplace(windowparams,'left=','left=');
+windowparams = substringReplace(windowparams,':ww=',',width=');
+windowparams = substringReplace(windowparams,'ww=','width=');
+windowparams = substringReplace(windowparams,':hh=',',height=');
+windowparams = substringReplace(windowparams,'hh=','height=');
+windowparams = substringReplace(windowparams,':loc=',',location=');
+windowparams = substringReplace(windowparams,'loc=','location=');
+windowparams = substringReplace(windowparams,':dir=',',directories=');
+windowparams = substringReplace(windowparams,'dir=','directories=');
+windowparams = substringReplace(windowparams,':tb=',',toolbar=');
+windowparams = substringReplace(windowparams,'tb=','toolbar=');
+windowparams = substringReplace(windowparams,':stat=',',status=');
+windowparams = substringReplace(windowparams,':mb=',',menubar=');
+windowparams = substringReplace(windowparams,':sb=',',scrollbars=');
+windowparams = substringReplace(windowparams,':rs=',',resizable=');
+}
+return windowparams;
+}
+function substringReplace(source,pattern,replacement)
+{
+var pos = 0;
+var target="";
+while ((pos = source.indexOf(pattern)) != (-1))
+{
+target = target + source.substring(0,pos) + replacement;
+source = source.substring(pos+pattern.length);
+pos = source.indexOf(pattern);
+}
+return (target + source);
+}
+// handle scheduled element links
+function show_sched_element(eid)
+{
+evalCol = String(self.element_collection);
+dispFlag = false;
+ua = navigator.userAgent.toLowerCase();
+if (bName == "Netscape" || ua.indexOf('aol') >= 0)
+{
+// cloned from always-include-ns.js
+tmp = "";
+if  (evalCol != 'undefined')
+{
+str = self.location.search;
+for(i=0;i<self.element_collection.length;i++)
+{
+sp = 'sched_elements_' + self.element_collection[i].id;
+if  (self.element_collection[i].id == eid)
+{
+dispFlag = true;
+if  (str == '')
+{
+tmp = "?forceElement=" + eid;
+self.location.search = tmp;
+}
+else
+{
+qArray = str.split("&");
+forceExists = false;
+for(i=0; i < qArray.length; i++)
+{
+el = qArray[i];
+qel = el.split('=');
+if  (qel.length == 1)
+qel[1] = '';
+if  (qel[0] == 'forceElement' || qel[0] == '?forceElement')
+{
+forceExists = true;
+qel[1] = eid;
+}
+qArray[i] = qel;
+}
+// reassemble
+searchStr = '';
+for (i=0; i < qArray.length; i++)
+{
+if  (i == 0)
+searchStr = qArray[i][0] + '=' + qArray[i][1];
+else
+searchStr = searchStr + '&' + qArray[i][0] + '=' + qArray[i][1];
+}
+if  (!forceExists)
+searchStr = searchStr + '&forceElement=' + eid;
+tmp = searchStr;
+self.location.search = searchStr;
+break;
+}
+}
+}
+}
+if  (!dispFlag)
+alert("You do not have access to the requested element.")
+}
+else
+{
+if ( evalCol != 'undefined' )
+{
+for(i=0;i<self.element_collection.length;i++)
+{
+sp = 'sched_elements_' + self.element_collection[i].id;
+obj = document.all.item(sp);
+//alert(sp);
+if ( self.element_collection[i].id == eid && obj != null)
+{
+dispFlag = true;
+if ( obj.length >= 0 )
+{
+for(z=0;z<obj.length;z++)
+{
+obj(z).style.display = 'block';
+}
+}
+else
+document.all(sp).style.display = 'block';
+}
+else if ( obj != null )
+{
+if ( obj.length >= 0 )
+{
+for(z=0;z<obj.length;z++)
+{
+obj(z).style.display = 'none';
+}
+}
+else
+document.all(sp).style.display = 'none';
+}
+}
+}
+if ( !dispFlag )
+alert("You do not have access to the requested element.")
+}
+}
+// --></script>
+<script language="JavaScript"> <!--
+function glblLinkHandler(lobj, attr, val)
+{
+return;
+}
+function onLoadFinished()
+{
+onLoadComplete();
+}
+var js_gvPageID = 48749;
+// -->
+</script><span class="CS_Element_CustomCF"><div id="48749-21913"></div></span><!-- --><span class="CS_Element_CustomCF"><div id="48749-474"><!-- begin header-APS1 --><!-- begin header-APS1-org.cfm --> 
+<link rel="STYLESHEET" type="text/css" href="/styles_aps/home_ie_win.css">
+
+
+
+<script>
+<!-- Begin - added 11-25 jef
      function formHandler(form){
      var URL = form.site.options[form.site.selectedIndex].value;
      window.location.href = URL;
+	 }
+	 
+	 function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  	 eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+	 if (restore) selObj.selectedIndex=0;
+	 }
+	 
+	 function MM_findObj(n, d) { //v4.01
+	 var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+	if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+	for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+	if(!x && d.getElementById) x=d.getElementById(n); return x;
+	}
+	
+	function MM_jumpMenuGo(selName,targ,restore){
+	var selObj = MM_findObj(selName); if (selObj) MM_jumpMenu(targ,selObj,restore);
+	}
      // End -->
-     }
 </script>
-<!-- InstanceParam name="height" type="text" value="150" -->
-</head>
-<body bgcolor="#ffffff" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" bottommargin="0" rightmargin="0">
-<!-- InstanceBeginEditable name="menu" -->
-<script language="JavaScript" src="general_array.js" type="text/javascript"></script><script language="javascript"> menu1=menus[1];</script>
-<!-- InstanceEndEditable -->
-    <script language="JavaScript" src="mmenu.js" type="text/javascript"></script><div tabindex="1" id="menu1" style="z-index: 21; visibility: visible; border: 0px solid; position: absolute; width: 125px; left: 10px; top: 85px;"><a id="lnk0" href="http://www.aps.org/unit.html" style="text-decoration:none;"><div id="el0" style="margin:0px;text-align:left;width:115px;padding:5px 5px 5px 5px ;font-weight:bold;font-style:normal;font-family:Arial,sans-serif;font-size:12px;color:#FFFF99;background:;" onmouseover=";this.style.background='#003366';style.color='#FFFFFF';this.style.cursor='pointer';ShM=1;; popi('http://www.aps.org/unit.html','menu1',0);;;return stch('aps units');" onmouseout="rep_img(); popdn(this,0, 'menu1', 'http://www.aps.org/unit.html', '', '#FFFF99', '');;; return stch('');">aps units</div></a><a id="lnk1" href="http://www.aps.org/memb/index.html" style="text-decoration:none;"><div id="el1" style="margin:0px;text-align:left;width:115px;padding:5px 5px 5px 5px ;font-weight:bold;font-style:normal;font-family:Arial,sans-serif;font-size:12px;color:#FFFF99;background:;" onmouseover=";this.style.background='#003366';style.color='#FFFFFF';this.style.cursor='pointer';ShM=1;; popi('http://www.aps.org/memb/index.html','menu1',1);;;return stch('membership services');" onmouseout="rep_img(); popdn(this,1, 'menu1', 'http://www.aps.org/memb/index.html', '', '#FFFF99', '');;; return stch('');">membership services</div></a><a id="lnk2" href="http://www.aps.org/index.html" style="text-decoration:none;"><div id="el2" style="margin:0px;text-align:left;width:115px;padding:5px 5px 5px 5px ;font-weight:bold;font-style:normal;font-family:Arial,sans-serif;font-size:12px;color:#FFFF99;background:;" onmouseover=";this.style.background='#003366';style.color='#FFFFFF';this.style.cursor='pointer';ShM=1;; popi('http://www.aps.org/index.html','menu1',2);;;return stch('aps home');" onmouseout="rep_img(); popdn(this,2, 'menu1', 'http://www.aps.org/index.html', '', '#FFFF99', '');;; return stch('');">aps home</div></a></div>
+<!-- #BeginEditable "script" -->
 
+
+   <!--<script language=JavaScript src="/general_array.js" type=text/javascript></script>-->
+	
+		<script language="JavaScript" src="/general_array.js" type="text/javascript"></script>
+	
+		<script language="JavaScript" src="/mmenu.js" type="text/javascript"></script>
+	
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tbody><tr bgcolor="#006699" valign="bottom">
-    <td nowrap="" height="73"><img src="images/leftstub.gif" width="9" height="73"><!-- InstanceBeginEditable name="topleft" --><img src="units/images/top-graphic1.jpg" width="126" height="73" alt="graphic" name="graphic"><!-- InstanceEndEditable --></td>
-    <td width="450" height="73" align="left"><!-- #BeginEditable "top image" --><img src="images/top-privacy.gif" width="399" height="44" border="0" alt="Privacy Policy" name="privacy"><a href="index.html"><img src="images/aps-spell-2.gif" alt="american physical society " name="aps" width="399" height="29" border="0" id="aps"></a><!-- #EndEditable --></td>
-    <td with="215"><img src="images/spacer.gif" width="210" height="1" hspace="1" border="0"></td>
-    <td height="73"><img src="images/spacer.gif" width="1" height="1" hspace="150" border="0"></td>
+	  <tbody><tr bgcolor="006699"> 
+    <td colspan="2" height="56"><a href="/index.cfm"><img src="/images/memb-1101c3.jpg" width="373" height="79" alt="APS working for you" name="apsworking" border="0"></a><a href="/about-aps.cfm"><img src="/images/top-about.gif" width="175" height="79" alt="about the aps" name="about" border="0"></a></td>
+	<td>&nbsp;</td>
+    <td>&nbsp;</td>
   </tr>
-  <tr valign="top"> 
-    <td width="135" height="300" valign="top" nowrap="" bgcolor="#006699"> <img src="images/divider-tall.gif" alt="divider" name="divider" width="10" height="150" hspace="0" vspace="0" border="0" align="left" id="divider"> 
-           <br>
-           <br clear="all">
-            <!-- #BeginEditable "search" --> 
-            <br>
-      <form action="http://cyclotron.aps.org/cgi-bin/htsearch">
-        <p class="side">search section
-        </p><div align="center"> 
-          <input type="text" name="words" size="12">
-          <input type="hidden" name="method" value="and">
-          <!--<input type=hidden name=restrict value="units/">-->
-        </div>
-      </form>
-	  <br>
-      <br>
-      <p class="side" style="font-weight: normal; margin-left: 10px;">questions? 
-        <a class="side" href="http://www.aps.org/Mail.html">contact aps</a></p>
-<!-- #EndEditable --></td>
-    <td colspan="2" valign="top" bgcolor="#ffffff">   <!-- #BeginEditable "body" --> 
-      <h3>Privacy Policy</h3>
-      <p class="main">APS respects the privacy of members, users of its services, 
-        and visitors to its various websites and operates according to the 
-        following policies.</p>
-      <h3>Personal Information</h3>
-      <p class="main">Some personal information including addresses, phone 
-        numbers, e-mail addresses, and other demographic information is collected 
-        for membership, subscriptions and publications, meeting registrations, 
-        submission of articles, and other similar transactions. APS takes 
-        precautions to protect your individual information from unauthorized 
-        use. APS may make internal use of your contact information to inform 
-        you of situations or services that may interest you. </p>
-      <p class="main">The APS online Membership Directory is a service restricted 
-        to use by members. It contains basic contact information and membership 
-        data. E-mail addresses are not released to outside organizations, 
-        except when a vendor performs a service for APS under its supervision. 
-        Member postal mailing lists are sold on a carefully screened basis, 
-        and only when the mailed material is thought to be of significant 
-        interest or benefit. Members may suppress the publication of their 
-        personal information in the Membership Directory, decline to receive 
-        APS-generated email messages, or request to be excluded from externally 
-        sold mailing lists by contacting the Membership Department at <a href="mailto:membership@aps.org">membership@aps.org</a>. 
-        Unpublished author or referee information is never sold, and is only 
-        used for purposes related to APS, its journals, and/or manuscripts 
-        which have been submitted to them. </p>
-      <p class="main">When you submit credit card transaction information 
-        to our site online, we use a secure server with commercial encryption 
-        software. When APS utilizes the services of the American Institute 
-        of Physics for certain credit card transactions to purchase APS products 
-        or services, those transactions are covered by AIP's similar <a href="http://www.aip.org/privacy.html">privacy 
-        policy</a>.</p>
-      <h3>Cookies</h3>
-      <p class="main">A “cookie” is a file a Web site places in 
-        your computer for future reference. APS uses cookies to improve some 
-        of its services, such as the Meeting Scheduler and the Referee Server. 
-        Information supplied through an APS cookie is used only by APS and 
-        is not shared with others. </p>
-      <h3>Server Logs</h3>
-      <p class="main">As you travel through the APS websites, our servers 
-        log information about your session. Information logged includes items 
-        such as your IP address, what browser you are using, the time and 
-        date you visited, how long your session lasted, and what pages you 
-        visited. We use this information from our server logs primarily to 
-        learn about our visitors as a group. It helps us to improve services 
-        on the site and plan for future needs so that we can assure continuity 
-        of service. Systematic (“robotic”) downloads of journal 
-        material are not permitted, and an individual log may be examined 
-        and/or access terminated when this activity is observed. Or, we may 
-        check an individual log for editorial purposes or when an individual 
-        has reported trouble accessing an APS system.</p>
-      <h3>Future Changes</h3>
-      <p class="main">APS reserves the right to change this policy in any 
-        manner at any time without prior notice. If we make material changes 
-        to our privacy policy, these changes will be posted on this page. 
-      </p>
-      <h3>Disclaimer</h3>
-      <p class="main">This privacy policy applies to all American Physical 
-        Society websites, but not to websites of any APS Division, Forum, 
-        Topical Group or Section. It does not apply to websites operated by 
-        organizations or groups who associate themselves in any way with the 
-        APS. It does not apply to any other Internet websites, including those 
-        that have hypertext links to any APS website. </p>
-      <p class="main">It is our intent to provide accurate information; however, 
-        changes in circumstances after the time of publication may affect 
-        the accuracy of information on this site. APS gives no assurance as 
-        to the accuracy of any information or advice contained. </p>
-      <p class="main">We take measures to protect our website but there is 
-        no warranty that the APS website will be free of infection by viruses 
-        or any other contaminating or destructive properties. The user accepts 
-        sole responsibility and risk associated with the use and results of 
-        APS website materials, irrespective of the purpose to which such use 
-        or results are applied. </p>
-      <p class="main">APS encourages you to exercise discretion while browsing 
-        the Internet. The APS website provides links to other websites which 
-        are not controlled by APS. A link from the APS website is not an APS 
-        endorsement for any company or organization. APS is not responsible 
-        for the accuracy, copyright compliance, legality or decency of material 
-        contained on any other website. We encourage you to be aware when 
-        you leave our website and to read the privacy statements of each website 
-        that collects personally identifiable information.</p>
-      <!-- #EndEditable -->
-<p><img src="images/spacer.gif" width="1" height="1" hspace="220"></p>   
- </td>
-    <td width="*" valign="top"><img src="images/spacer.gif" width="1" height="1" hspace="200"></td>
+  <tr> 
+    <td bgcolor="006699" valign="top" width="150" height="100%" nowrap=""><img src="/units/images/side.gif" width="7" height="250" align="left" hspace="0" border="0" alt="">
+      <p class="side"></p>
+      <br clear="all">
+	  
+	  <!-- changed search below 04-26-05 -- jef -->
+	   <p class="side" align="center"><a class="side" style="text-decoration: none;" href="/search.cfm">search</a> <br>
+
+	  <!-- cfmodule template="/aps/customcf/header-aps-searchform.cfm"-->
+	  </p>
+        <br>
+		<p class="side">questions? comments?<br><a class="side" href="/Mail.cfm">contact aps</a></p>
+		<br>
+		<img src="/images/spacer.gif" width="1" height="1" vspace="20">
+		<p>&nbsp;</p>
+      <!-- #EndEditable --> 
+    </td>
+	<td colspan="2" valign="top" bgcolor="ffffff">
+<!-- end begin header-APS1-org.cfm --><!-- end header-APS1 call --><!-- --><span class="CS_Element_Layout"><table id="idLayout2" cellpadding="0" cellspacing="0" class="CS_Layout_Table" width="100%" summary=""><tbody><tr class="CS_Layout_TR"><td id="idCell2x1x1" class="CS_Layout_TD"><span class="CS_Element_Textblock"><div id="48749-48751"><span class="CS_Element_Textblock"><span class="CS_Generic_Text"><div class="CS_Textblock_Text"><h3>Privacy Policy</h3><p>APS respects the privacy of members, users of its services, and visitors to its various websites and operates according to the following policies.</p><h3>Personal Information</h3><p>Some personal information including addresses, phone numbers, e-mail addresses, and other demographic information is collected for membership, subscriptions and publications, meeting registrations, submission of articles, and other similar transactions. APS takes precautions to protect your individual information from unauthorized use. APS may make internal use of your contact information to inform you of situations or services that may interest you. </p><p>The APS online Membership Directory is a service restricted to use by members. It contains basic contact information and membership data. E-mail addresses are not released to outside organizations, except when a vendor performs a service for APS under its supervision. Member postal mailing lists are sold on a carefully screened basis, and only when the mailed material is thought to be of significant interest or benefit. Members may suppress the publication of their personal information in the Membership Directory, decline to receive APS-generated email messages, or request to be excluded from externally sold mailing lists by contacting the Membership Department at <a href="mailto:membership@aps.org">membership@aps.org</a>. Unpublished author or referee information is never sold, and is only used for purposes related to APS, its journals, and/or manuscripts which have been submitted to them. </p><p>When you submit credit card transaction information to our site online, we use a secure server with commercial encryption software. When APS utilizes the services of the American Institute of Physics for certain credit card transactions to purchase APS products or services, those transactions are covered by AIP's similar <a href="http://www.aip.org/privacy.html">privacy policy</a>.</p><h3>Cookies</h3><p>A “cookie” is a file a Web site places in your computer for future reference. APS uses cookies to improve some of its services, such as the Meeting Scheduler and the Referee Server. Information supplied through an APS cookie is used only by APS and is not shared with others. </p><h3>Server Logs</h3><p>As you travel through the APS websites, our servers log information about your session. Information logged includes items such as your IP address, what browser you are using, the time and date you visited, how long your session lasted, and what pages you visited. We use this information from our server logs primarily to learn about our visitors as a group. It helps us to improve services on the site and plan for future needs so that we can assure continuity of service. Systematic (“robotic”) downloads of journal material are not permitted, and an individual log may be examined and/or access terminated when this activity is observed. Or, we may check an individual log for editorial purposes or when an individual has reported trouble accessing an APS system.</p><h3>Future Changes</h3><p>APS reserves the right to change this policy in any manner at any time without prior notice. If we make material changes to our privacy policy, these changes will be posted on this page. </p><h3>Disclaimer</h3><p>This privacy policy applies to all American Physical Society websites, but not to websites of any APS Division, Forum, Topical Group or Section. It does not apply to websites operated by organizations or groups who associate themselves in any way with the APS. It does not apply to any other Internet websites, including those that have hypertext links to any APS website. </p><p>It is our intent to provide accurate information; however, changes in circumstances after the time of publication may affect the accuracy of information on this site. APS gives no assurance as to the accuracy of any information or advice contained. </p><p>We take measures to protect our website but there is no warranty that the APS website will be free of infection by viruses or any other contaminating or destructive properties. The user accepts sole responsibility and risk associated with the use and results of APS website materials, irrespective of the purpose to which such use or results are applied. </p><p>APS encourages you to exercise discretion while browsing the Internet. The APS website provides links to other websites which are not controlled by APS. A link from the APS website is not an APS endorsement for any company or organization. APS is not responsible for the accuracy, copyright compliance, legality or decency of material contained on any other website. We encourage you to be aware when you leave our website and to read the privacy statements of each website that collects personally identifiable information.</p></div></span></span></div></span></td></tr>
+</tbody></table>	</span><span class="CS_Element_CustomCF"><div id="48749-475"><!-- begin footer-APS1 --><!-- begin footer-APS1-org -->
+		</div></span></td>
+    	<td>&nbsp;</td>
+  	</tr>
+	<tr valign="top">
+	  <td bgcolor="006699" valign="top"><img src="/images/spacer.gif" height="1" width="150" vspace="5"></td>
+	  <td bgcolor="ffffff" valign="top"><img src="/images/spacer.gif" width="400" height="1" border="0"></td>
+	  <td><img src="/images/spacer.gif" width="20" height="1" border="0"></td>
+	  <td width="15%"><img src="/images/spacer.gif" width="1" height="1" hspace="50" border="0"></td>
   </tr>
 </tbody></table>
-
-
-<!-- InstanceEnd -->
-</body></html>
+	<!-- end unit footer-APS1-org --><!-- end unit footer-APS1 include call --></div></span><!-- --></body></html>
