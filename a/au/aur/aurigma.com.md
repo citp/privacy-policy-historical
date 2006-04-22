@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aurigma.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229133401id_/http%3A//aurigma.com/About/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aurigma.com privacy policy that was archived on 2006-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060422050707id_/http%3A//aurigma.com/About/Privacy.aspx) for the most accurate reproduction.*
 
 # Aurigma - Privacy Policy
 
@@ -6,11 +6,11 @@ You take online privacy seriously, and so does Aurigma Inc./EveryThingCyber ("Au
 
 We can revise and update our privacy practices from time to time and we reserve the right to do so without any notice to you so you should visit this page occasionally to review our then-current privacy practices because they are binding on you. All updates will be published on this site. Your continued use of this site shall be considered your consent to any revised privacy practices.
 
-##### Non-Personal Information
+#####  Non-Personal Information
 
 In general, you can visit our site on the World Wide Web without telling us who you are or revealing any information about yourself. Our web server collects the domain names, not the e-mail addresses, of visitors. 
 
-##### Personal Information
+#####  Personal Information
 
 Aurigma/ETC may ask you to register and provide information that personally identifies you, such as name, e-mail address, mailing address or phone number ("Personal Information"). This will occur for example before purchasing our software or in some other cases. We use your Personal Information for three primary purposes:
 
@@ -24,11 +24,11 @@ Aurigma/ETC will not provide your name, e-mail address, mailing address, phone n
 
 If you don't want us to send you e-mail notifications regarding Aurigma/ETC's products, services, or special offers, let us know by sending us an e-mail to [ sales@aurigma.com](mailto:sales@aurigma.com) or uncheck appropriate check box in the My Account section.
 
-##### Cookies
+#####  Cookies
 
 "Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Our cookies do not contain any personally identifying information. They only contain a secure identifying code that we use to match you to your Personal Information whenever you return to our site. Your Personal Information is neither directly connected to nor stored on your computer, but is accessed when we identify your cookie to provide you with a more personalized experience when visiting our site.
 
-##### What Information Do We Collect?
+#####  What Information Do We Collect?
 
 The type of information we maintain on our secure Personal Information server falls into two categories. The first is general information about you such as name, phone, e-mail address, company name, etc. The second is product-specific information that enables us to customize information for you depending on which of our products or services you have purchased or registered. Our Technical Support Department also utilizes this information when you contact us.
 
