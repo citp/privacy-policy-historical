@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safe.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210194229id_/http%3A//safe.com/company/privacy-policy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safe.com privacy policy that was archived on 2006-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060422162946id_/http%3A//www.safe.com/company/privacy-policy/index.php) for the most accurate reproduction.*
 
 # Safe Software | Privacy Policy
 
@@ -29,4 +29,4 @@ If at any time you wish to be removed from Safe Software mailing list, or wish t
 
 We do not use any external identifiers to uniquely identify our contacts. Safe Software allows anonymous interaction wherever it is practical and does not transfer personal information internationally. We do not collect any potentially sensitive information on any person.
 
-If you have a complaint regarding online privacy, please [contact us](https://web.archive.org/web/20051210194229id_/http%3A//safe.com/company/contact/index.php).
+If you have a complaint regarding online privacy, please [contact us](https://web.archive.org/web/20060422162946id_/http%3A//www.safe.com/company/contact/index.php).
