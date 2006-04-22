@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ktvb.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222035334id_/http%3A//www.ktvb.com/registration/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktvb.com privacy policy that was archived on 2006-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060422160606id_/http%3A//www.ktvb.com/registration/privacy.html) for the most accurate reproduction.*
 
 # KTVB.COM | Boise Idaho News, Weather, Sports & Traffic | Privacy Policy
-
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/web.archive.org/aboutus/1939158906/Left1/default/empty.gif/7a2f48683431347a337841414476476f?x)
 
 | 
 
@@ -129,8 +127,8 @@ This Privacy Policy is effective as of June 1, 2005. Belo reserves the right to 
 
 | 
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/web.archive.org/aboutus/639319306/Position1/default/empty.gif/7a2f48683431347a337841414476476f?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/web.archive.org/aboutus/905182822/Position1/default/empty.gif/7a2f4869356c347a33784541434e3955?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/web.archive.org/aboutus/820567323/Position4/default/empty.gif/7a2f48683431347a337841414476476f?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/web.archive.org/aboutus/117611707/Position4/default/empty.gif/7a2f4869356c347a33784541434e3955?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/web.archive.org/aboutus/2010205503/Position5/default/empty.gif/7a2f48683431347a337841414476476f?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/web.archive.org/aboutus/1458384346/Position5/default/empty.gif/7a2f4869356c347a33784541434e3955?x)
