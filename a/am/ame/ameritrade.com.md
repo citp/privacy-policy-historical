@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ameritrade.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228155904id_/http%3A//ameritrade.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ameritrade.com privacy policy that was archived on 2006-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060422022538id_/http%3A//ameritrade.com/privacy.html) for the most accurate reproduction.*
 
 # Ameritrade: Privacy
 
@@ -38,7 +38,7 @@ Should you close your account with us, Ameritrade will retain your information, 
 **What information does Ameritrade share with affiliates, alliances and partners?**  
 Ameritrade may share information with affiliates if the information is required to provide the product or service you have requested or to provide you the opportunity to participate in the products or services our affiliates offer. Ameritrade also forges partnerships and alliances with other companies who offer high-quality products and services that might be of value to our clients. In order to ensure that these products and services meet your needs and are delivered in a manner that is useful and relevant, Ameritrade may share some information with partners, affiliates and alliances. This allows them to better understand the offers that are most relevant and useful. We may also compare our client lists with those of our partners and affiliates to ensure that they are not sending messages to you if you've elected not to be so notified. In our strategic relationships, we will require that it be identified that an offer is being extended because of the relationship with us. The use of your personal information is limited to the purposes identified in our relationship with the partner or affiliate. 
 
-An affiliate is a company that we own or control or with which there is common ownership with us and our parent company. An example of an affiliate is our sister company Amerivest Investment Management, LLC, a subsidiary of Ameritrade Holding Corp. Types of information we share with affiliates are name, e-mail address, mailing address, date of birth, employment status, and general account and demographic information. This information may be used for internal reporting, anticipating margin calls, and development strategies. 
+An affiliate is a company that we own or control or with which there is common ownership with us and our parent company. An example of an affiliate is our sister company Amerivest Investment Management, LLC, a subsidiary of TD Ameritrade Holding Corp. Types of information we share with affiliates are name, e-mail address, mailing address, date of birth, employment status, and general account and demographic information. This information may be used for internal reporting, anticipating margin calls, and development strategies. 
 
 Examples of partners and alliances may be financial or non-financial companies, such as airlines, credit card companies, telecommunications companies, and other services providers. Types of information shared are name, e-mail address, mailing address, date of birth, employment status, and general account and demographic information. 
 
@@ -97,4 +97,4 @@ Yes. Personal identifying information may be reviewed, changed or corrected at a
 **How will I know if there are any changes to this Privacy Statement?**  
 In the event Ameritrade materially changes this Privacy Statement, the revised Privacy Statement will promptly be posted to the Web site and we will post a notice on the Web site informing you of such changes. Additionally, this Privacy Statement has an effective date displayed in the lower, right corner indicating when it first came into effect. You should review this Privacy Statement periodically to remain informed of any changes. You agree to accept posting of a revised Privacy Statement electronically on the Web site as actual notice to you. 
 
-ATI 800 F; Effective 02/01/2005
+ATI 800 F; Effective 01/24/2006
