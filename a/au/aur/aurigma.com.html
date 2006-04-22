@@ -1,423 +1,224 @@
-<!--The following is the downloaded HTML source of the aurigma.com privacy policy that was archived on 2005-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051229133401id_/http%3A//aurigma.com/About/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aurigma.com privacy policy that was archived on 2006-04-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060422050707id_/http%3A//aurigma.com/About/Privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
-		<title>Aurigma - Privacy Policy</title>
-		<script type="text/javascript">
+	<script type="text/javascript">
 //<![CDATA[
 if (window.top.location!=window.location){
     window.top.location=window.location;
 }
 //]]>
-		</script>
-		<meta http-equiv="Content-Language" content="en-us">
-		
-		
-		<link rel="stylesheet" type="text/css" href="/Common/Master.css">
-		<link id="MainHeader1_linkFavIcon" rel="SHORTCUT ICON" href="/favicon.ico">
-	</head>
-	<body bgcolor="#FFFFFF">
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
+	</script>
+
+	<meta http-equiv="Content-Language" content="en-us"><link rel="stylesheet" type="text/css" href="/Common/Master.css"><link id="ctl00_linkFavIcon" rel="SHORTCUT ICON" href="/favicon.ico"><title>
+	Aurigma - Privacy Policy
+</title></head>
+<body>
+	<table width="100%" border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td width="100%">
+				<script type="text/javascript">var activeSection="Company";
+var showPopupMenu=true;</script>
+<script type="text/javascript" src="/Common/Common.js"></script>
+
+<div id="MenuProducts" class="PopupMenu" style="width:170px;left:361px" onmouseover="menuOver('Products')" onmouseout="menuOut('Products')">
+	<a href="/Products/GraphicsMilldotNET/">Graphics Mill for .NET</a>
+	<a href="/Products/GraphicsMill/">Graphics Mill for ActiveX</a>
+	<a href="/Products/ImageUploader/">Image Uploader</a>
+
+	<a href="/Products/FlashChart/">FlashChart</a>
+	<a href="/Products/AVIProcessor/">AVI Processor</a>
+	<a href="/Products/MediaProcessor/">Media Processor</a>
+	<span class="Separator"></span>
+	<a href="/Products/MediaGallery/">Media Gallery</a>
+	<a href="/Products/PhotoEditor/">PhotoEditor</a>
+
+	<span class="Separator"></span>
+	<a href="/Products/Download.aspx">Downloads</a>
+	<a href="/Products/BetaTesting.aspx">Beta Testing</a>
+</div>
+
+<div id="MenuServices" class="PopupMenu" style="width:160px;left:426px" onmouseover="menuOver('Services')" onmouseout="menuOut('Services')">
+	<a href="/Services/Software/ProductsCustomization.aspx">Product Customization</a>
+	<a href="/Services/Software/ImageProcessing.aspx">Image Processing</a>
+</div>
+
+<div id="MenuPurchase" class="PopupMenu" style="width:160px;left:488px" onmouseover="menuOver('Purchase')" onmouseout="menuOut('Purchase')">
+	<a href="/Store/Default.aspx">How to Buy</a>
+	<a href="/Store/OnlineStore.aspx">Online Store</a>
+	<a href="/Store/Resellers.aspx">Resellers</a>
+	<a href="/Store/Licensing.aspx">Licensing Info</a>
+	<a href="/Store/ReturnPolicy.aspx">Return Policy</a>
+	<span class="Separator"></span>
+	<a href="/Store/ShoppingCart.aspx">Shopping Cart</a>
+</div>
+
+<div id="MenuSupport" class="PopupMenu" style="width:160px;left:556px" onmouseover="menuOver('Support')" onmouseout="menuOut('Support')">
+	<a href="/Support/default.aspx?mainsrc=support.aspx">Support Center</a>
+	<a href="/Support/default.aspx?mainsrc=/Forums">Forums</a>
+	<a href="/Support/default.aspx?mainsrc=KB/Default.aspx">Knowledge Base</a>
+	<a href="/Support/default.aspx?mainsrc=OnlineHelp.aspx">Online Help</a>
+	<a href="/Support/default.aspx?mainsrc=Upgrade.aspx">Upgrade</a>
+	<span class="Separator"></span>
+	<a href="/Support/default.aspx?mainsrc=%2FSupport%2FContact%2FSendMessage%2Easpx%3Ftype%3Dfeature">Request Feature</a>
+	<a href="/Support/default.aspx?mainsrc=%2FSupport%2FContact%2FSendMessage%2Easpx%3Ftype%3Dproblem">Response Problem</a>
+</div>
+
+<div id="MenuCompany" class="PopupMenu" style="width:100px;left:639px" onmouseover="menuOver('Company')" onmouseout="menuOut('Company')">
+	<a href="/About/AboutUs.aspx">About Us</a>
+	<a href="/About/Mission.aspx">Mission</a>
+	<a href="/About/PressRoom.aspx">Press Room</a>
+	<a href="/About/ContactUs.aspx">Contact Us</a>
+</div>
+
+<table width="100%" cellpadding="0" cellspacing="0">
 	<tbody><tr>
-		<td>
-		
-<script type="text/javascript">
-//<![CDATA[
-var menus = new Array("Home", "Products", "Services", "Purchase", "Support", "Company");
-var types = new Array("", "Over", "Active");
-var i, j;
-var images = new Array();
-for (i=0;i<6;i++){
-	for (j=0;j<3;j++){
-		images[i*6+j] = new Image();
-		images[i*6+j].src="/images/"+menus[i]+types[j]+".gif";
-	}
-}
-
-
-function go(o){
-	window.location = o.childNodes[0].href;
-}
-
-var curMenu = null;
-var hiddenMenu = null;
-
-function menuOver(id)
-{
-	if (curMenu&&curMenu!=id){
-		hideMenu(curMenu);
-	}
-	document.getElementById("img"+id).src = "/images/" + id + "Over.gif";	
-	if (document.getElementById("Menu"+id))
-	{
-		document.getElementById("Menu"+id).style.visibility = 'visible';	
-	}		
-	curMenu = id;
-	hiddenMenu = null;
-}
-
-function menuOut(id)
-{
-	hiddenMenu = id;
-	window.setTimeout("delayedHideMenu()", 2000)		
-}
-
-function hideMenu(id){
-		if (id =="Company")
-		{	
-			document.getElementById("img"+id).src="/images/"+id+"Active.gif";
-		}
-		else
-		{
-			document.getElementById("img"+id).src="/images/"+id+".gif";
-		}	
-		if (document.getElementById("Menu"+id))
-		{
-			document.getElementById("Menu"+id).style.visibility = 'hidden';	
-		}
-}
-
-function delayedHideMenu(){
-	if (hiddenMenu){
-		hideMenu(hiddenMenu)
-	}
-	hiddenMenu = null;
-}
-
-//]]>
-</script>
-
-<table id="MenuProducts" border="0" cellpadding="1" cellspacing="0" bgcolor="#636393" width="170" style="position:absolute;visibility:hidden;top:90px;left:391px" onmouseover="menuOver('Products')" onmouseout="menuOut('Products')">
-<tbody><tr><td><table width="100%" border="0" cellpadding="2" cellspacing="0" bgcolor="#FFFFFF">
-<tbody><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="1">
-
-<tbody><tr><td bgcolor="#EBE8ED" class="MenuItem" onclick="go(this);" onmouseover="this.className='MenuItemOver';" onmouseout="this.className='MenuItem';"><a href="/Products/GraphicsMilldotNET/">Graphics Mill for .NET</a></td></tr>
-<tr><td bgcolor="#EBE8ED" class="MenuItem" onclick="go(this);" onmouseover="this.className='MenuItemOver';" onmouseout="this.className='MenuItem';"><a href="/Products/GraphicsMill/">Graphics Mill for ActiveX</a></td></tr>
-<tr><td bgcolor="#EBE8ED" class="MenuItem" onclick="go(this);" onmouseover="this.className='MenuItemOver';" onmouseout="this.className='MenuItem';"><a href="/Products/ImageUploader/">Image Uploader</a></td></tr>
-<tr><td bgcolor="#EBE8ED" class="MenuItem" onclick="go(this);" onmouseover="this.className='MenuItemOver';" onmouseout="this.className='MenuItem';"><a href="/Products/FlashChart/">FlashChart</a></td></tr>
-<tr><td bgcolor="#EBE8ED" class="MenuItem" onclick="go(this);" onmouseover="this.className='MenuItemOver';" onmouseout="this.className='MenuItem';"><a href="/Products/AVIProcessor/">AVI Processor</a></td></tr>
-<tr><td bgcolor="#EBE8ED" class="MenuItem" onclick="go(this);" onmouseover="this.className='MenuItemOver';" onmouseout="this.className='MenuItem';"><a href="/Products/MediaProcessor/">Media Processor</a></td></tr>
-<tr><td bgcolor="#FFFFFF"><img src="/images/spacer.gif" height="8" width="1" alt=""></td></tr>
-<tr><td bgcolor="#EBE8ED" class="MenuItem" onclick="go(this);" onmouseover="this.className='MenuItemOver';" onmouseout="this.className='MenuItem';"><a href="/Products/MediaGallery/">Media Gallery</a></td></tr>
-<tr><td bgcolor="#EBE8ED" class="MenuItem" onclick="go(this);" onmouseover="this.className='MenuItemOver';" onmouseout="this.className='MenuItem';"><a href="/Products/OnlineImageEditor/">Online Image Editor</a></td></tr>
-<tr><td bgcolor="#FFFFFF"><img src="/images/spacer.gif" height="8" width="1" alt=""></td></tr>
-<tr><td bgcolor="#EBE8ED" class="MenuItem" onclick="go(this);" onmouseover="this.className='MenuItemOver';" onmouseout="this.className='MenuItem';"><a href="/Products/Download.aspx">Downloads</a></td></tr>
-<tr><td bgcolor="#EBE8ED" class="MenuItem" onclick="go(this);" onmouseover="this.className='MenuItemOver';" onmouseout="this.className='MenuItem';"><a href="/Products/BetaTesting.aspx">Beta Testing</a></td></tr>
-</tbody></table></td></tr>
-</tbody></table></td></tr>
-</tbody></table>
-
-<table id="MenuServices" border="0" cellpadding="1" cellspacing="0" bgcolor="#636393" width="160" style="position:absolute;visibility:hidden;top:90px;left:456px" onmouseover="menuOver('Services')" onmouseout="menuOut('Services')">
-<tbody><tr><td><table width="100%" border="0" cellpadding="2" cellspacing="0" bgcolor="#FFFFFF">
-<tbody><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="1">
-<tbody><tr><td bgcolor="#EBE8ED" class="MenuItem" onclick="go(this);" onmouseover="this.className='MenuItemOver';" onmouseout="this.className='MenuItem';"><a href="/Services/Software/ProductsCustomization.aspx">Product Customization</a></td></tr>
-<tr><td bgcolor="#EBE8ED" class="MenuItem" onclick="go(this);" onmouseover="this.className='MenuItemOver';" onmouseout="this.className='MenuItem';"><a href="/Services/Software/ImageProcessing.aspx">Image Processing</a></td></tr>
-</tbody></table></td></tr>
-</tbody></table></td></tr>
-</tbody></table>
-
-<table id="MenuPurchase" border="0" cellpadding="1" cellspacing="0" bgcolor="#636393" width="160" style="position:absolute;visibility:hidden;top:90px;left:518px" onmouseover="menuOver('Purchase')" onmouseout="menuOut('Purchase')">
-<tbody><tr><td><table width="100%" border="0" cellpadding="2" cellspacing="0" bgcolor="#FFFFFF">
-<tbody><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="1">
-<tbody><tr><td bgcolor="#EBE8ED" class="MenuItem" onclick="go(this);" onmouseover="this.className='MenuItemOver';" onmouseout="this.className='MenuItem';"><a href="/Store/Default.aspx">How to Buy</a></td></tr>
-<tr><td bgcolor="#EBE8ED" class="MenuItem" onclick="go(this);" onmouseover="this.className='MenuItemOver';" onmouseout="this.className='MenuItem';"><a href="/Store/OnlineStore.aspx">Online Store</a></td></tr>
-<tr><td bgcolor="#EBE8ED" class="MenuItem" onclick="go(this);" onmouseover="this.className='MenuItemOver';" onmouseout="this.className='MenuItem';"><a href="/Store/Resellers.aspx">Resellers</a></td></tr>
-<tr><td bgcolor="#EBE8ED" class="MenuItem" onclick="go(this);" onmouseover="this.className='MenuItemOver';" onmouseout="this.className='MenuItem';"><a href="/Store/Licensing.aspx">Licensing Info</a></td></tr>
-<tr><td bgcolor="#EBE8ED" class="MenuItem" onclick="go(this);" onmouseover="this.className='MenuItemOver';" onmouseout="this.className='MenuItem';"><a href="/Store/ReturnPolicy.aspx">Return Policy</a></td></tr>
-<tr><td bgcolor="#FFFFFF"><img src="/images/spacer.gif" height="8" width="1" alt=""></td></tr>
-<tr><td bgcolor="#EBE8ED" class="MenuItem" onclick="go(this);" onmouseover="this.className='MenuItemOver';" onmouseout="this.className='MenuItem';"><a href="/Store/ShoppingCart.aspx">Shopping Cart</a></td></tr>
-</tbody></table></td></tr>
-</tbody></table></td></tr>
-</tbody></table>
-
-<table id="MenuSupport" border="0" cellpadding="1" cellspacing="0" bgcolor="#636393" width="160" style="position:absolute;visibility:hidden;top:90px;left:586px" onmouseover="menuOver('Support')" onmouseout="menuOut('Support')">
-<tbody><tr><td><table width="100%" border="0" cellpadding="2" cellspacing="0" bgcolor="#FFFFFF">
-<tbody><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="1">
-<tbody><tr><td bgcolor="#EBE8ED" class="MenuItem" onclick="go(this);" onmouseover="this.className='MenuItemOver';" onmouseout="this.className='MenuItem';"><a href="/Support/default.aspx?mainsrc=support.aspx">Support Center</a></td></tr>
-<tr><td bgcolor="#EBE8ED" class="MenuItem" onclick="go(this);" onmouseover="this.className='MenuItemOver';" onmouseout="this.className='MenuItem';"><a href="/Support/default.aspx?mainsrc=/Forums">Forums</a></td></tr>
-<tr><td bgcolor="#EBE8ED" class="MenuItem" onclick="go(this);" onmouseover="this.className='MenuItemOver';" onmouseout="this.className='MenuItem';"><a href="/Support/default.aspx?mainsrc=KB/Default.aspx">Knowledge Base</a></td></tr>
-<tr><td bgcolor="#EBE8ED" class="MenuItem" onclick="go(this);" onmouseover="this.className='MenuItemOver';" onmouseout="this.className='MenuItem';"><a href="/Support/default.aspx?mainsrc=OnlineHelp.aspx">Online Help</a></td></tr>
-<tr><td bgcolor="#EBE8ED" class="MenuItem" onclick="go(this);" onmouseover="this.className='MenuItemOver';" onmouseout="this.className='MenuItem';"><a href="/Support/default.aspx?mainsrc=Upgrade.aspx">Upgrade</a></td></tr>
-<tr><td bgcolor="#FFFFFF"><img src="/images/spacer.gif" height="8" width="1" alt=""></td></tr>
-<tr><td bgcolor="#EBE8ED" class="MenuItem" onclick="go(this);" onmouseover="this.className='MenuItemOver';" onmouseout="this.className='MenuItem';"><a href="/Support/default.aspx?mainsrc=%2FSupport%2FContact%2FSendMessage%2Easpx%3Ftype%3Dfeature">Request Feature</a></td></tr>
-<tr><td bgcolor="#EBE8ED" class="MenuItem" onclick="go(this);" onmouseover="this.className='MenuItemOver';" onmouseout="this.className='MenuItem';"><a href="/Support/default.aspx?mainsrc=%2FSupport%2FContact%2FSendMessage%2Easpx%3Ftype%3Dproblem">Response Problem</a></td></tr>		
-</tbody></table></td></tr>
-</tbody></table></td></tr>
-</tbody></table>
-
-<table id="MenuCompany" border="0" cellpadding="1" cellspacing="0" bgcolor="#636393" width="100" style="position:absolute;visibility:hidden;top:88px;left:669px" onmouseover="menuOver('Company')" onmouseout="menuOut('Company')">
-<tbody><tr><td><table width="100%" border="0" cellpadding="2" cellspacing="0" bgcolor="#FFFFFF">
-<tbody><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="1">
-<tbody><tr><td bgcolor="#EBE8ED" class="MenuItem" onclick="go(this);" onmouseover="this.className='MenuItemOver';" onmouseout="this.className='MenuItem';"><a href="/About/AboutUs.aspx">About Us</a></td></tr>
-<tr><td bgcolor="#EBE8ED" class="MenuItem" onclick="go(this);" onmouseover="this.className='MenuItemOver';" onmouseout="this.className='MenuItem';"><a href="/About/Mission.aspx">Mission</a></td></tr>
-<tr><td bgcolor="#EBE8ED" class="MenuItem" onclick="go(this);" onmouseover="this.className='MenuItemOver';" onmouseout="this.className='MenuItem';"><a href="/About/PressRoom.aspx">Press Room</a></td></tr>
-<tr><td bgcolor="#EBE8ED" class="MenuItem" onclick="go(this);" onmouseover="this.className='MenuItemOver';" onmouseout="this.className='MenuItem';"><a href="/About/ContactUs.aspx">Contact Us</a></td></tr>
-</tbody></table></td></tr>
-</tbody></table></td></tr>
-</tbody></table>
-
-<!--End Menu-->
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td height="93" width="345" valign="top">
-			<table width="345" border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-					<td valign="top" height="93">
-						<img src="/images/AurigmaLogo.gif" width="228" height="72" alt="Aurigma" class="logo"></td>
-					<td valign="top" height="93">
-						<img src="/images/AurigmaTop.gif" width="127" height="16" alt=""></td>
-				</tr>
-			</tbody></table>
+		<td height="80" width="344" rowspan="2" valign="top">
+			<img id="Logo" src="/Images/AurigmaLogo.gif" width="186" height="46" alt="Aurigma">
 		</td>
-		<td height="93" width="10" valign="top">
-			<table width="10" border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-					<td width="10" height="93" style="background-image:url(/images/Hatch.gif)" bgcolor="#EBE8ED"><img src="/images/spacer.gif" width="10" height="1" alt=""></td>
-				</tr>
-			</tbody></table>
-		</td>
-		<td height="93" width="100%" valign="top">
-			<table width="100%" border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-					<td height="61" width="100%" valign="top" align="right">
-						<table border="0" cellpadding="0" cellspacing="0">
-							<tbody><tr>
-								<td colspan="4"></td>
-								<td width="7" height="7"><img src="/images/spacer.gif" width="7" height="7" alt=""></td>
-							</tr>
-							<tr>
-							
-								<td valign="middle" class="TopMenu" width="100"><form method="get" action="/Search.aspx" name="searchForm" id="searchForm" target="_top"><input type="text" id="Query" name="Query" size="18"></form></td>
-								<td valign="middle" class="TopMenu" width="40" align="left"> &nbsp;<a href="javascript:document.getElementById('searchForm').submit();">Search</a></td>
-
-
-								<td><img src="/images/spacer.gif" width="10" height="1" alt=""></td>
-								<td valign="middle" class="TopMenu" width="217" align="right">
-									<a id="MainHeader1_TopPanel1_hlkSignIn" href="/MyAurigma/Login.aspx">Login</a>
-									
-									|
-									<a id="MainHeader1_TopPanel1_hlkRegister" href="/MyAurigma/Register.aspx">Register</a>
-									
-									|
-									<a id="MainHeader1_TopPanel1_hlkCart" href="/Store/ShoppingCart.aspx">Shopping&nbsp;Cart</a>
-									<span style="display:none">| <a href="/Map.aspx">Site Map</a> </span>
-								</td>
-								<td></td>
-							</tr>
-							<tr>
-								<td colspan="4"></td>
-								<td width="7" height="7"><img src="/images/spacer.gif" width="7" height="7" alt=""></td>
-							</tr>
-							<tr>
-								<td colspan="4" class="welcome" align="right">
-									<span id="MainHeader1_TopPanel1_lblWelcome"></span>
-								</td>
-								<td></td>
-							</tr>
-						</tbody></table>
-					</td>
-				</tr>
-				<tr>
-					<td height="30" width="100%" style="background-image:url(/images/Menu.gif)" bgcolor="#D2D2E1">
-						<table border="0" cellpadding="0" cellspacing="0">
-							<tbody><tr>
-								<td width="14" height="30"><img src="/images/Menu.gif" width="14" height="30" alt=""></td>
-								<td width="1"><img src="/images/MenuSep.gif" width="1" height="30" alt=""></td>
-								<td width="51"><a href="/" target="_top"><img id="imgHome" onmouseover="menuOver('Home')" onmouseout="menuOut('Home')" class="mainMenu" src="/images/Home.gif" width="51" height="30" border="0" alt="Home"></a></td>
-								<td width="1"><img src="/images/MenuSep.gif" width="1" height="30" alt=""></td>
-								<td width="64"><a href="/Products/" target="_top"><img id="imgProducts" onmouseover="menuOver('Products')" onmouseout="menuOut('Products')" class="mainMenu" src="/images/Products.gif" width="64" height="30" border="0" alt="Products"></a></td>
-								<td width="1"><img src="/images/MenuSep.gif" width="1" height="30" alt=""></td>
-								<td width="61"><a href="/Services/" target="_top"><img id="imgServices" onmouseover="menuOver('Services')" onmouseout="menuOut('Services')" class="mainMenu" src="/images/Services.gif" width="61" height="30" border="0" alt="Services"></a></td>
-								<td width="1"><img src="/images/MenuSep.gif" width="1" height="30" alt=""></td>
-								<td width="67"><a href="/Store/" target="_top"><img id="imgPurchase" onmouseover="menuOver('Purchase')" onmouseout="menuOut('Purchase')" class="mainMenu" src="/images/Purchase.gif" width="67" height="30" border="0" alt="Purchase"></a></td>
-								<td width="1"><img src="/images/MenuSep.gif" width="1" height="30" alt=""></td>
-								<td width="61"><a href="/Support/" target="_top"><img id="imgSupport" onmouseover="menuOver('Support')" onmouseout="menuOut('Support')" class="mainMenu" src="/images/Support.gif" width="61" height="30" border="0" alt="Support"></a></td>
-								<td width="1"><img src="/images/MenuSep.gif" width="1" height="30" alt=""></td>
-								<td width="68"><a href="/About/" target="_top"><img id="imgCompany" onmouseover="menuOver('Company')" onmouseout="menuOut('Company')" class="mainMenu" src="/images/CompanyActive.gif" width="68" height="30" border="0" alt="Company"></a></td>
-								<td><img src="/images/MenuSep.gif" width="1" height="30" alt=""></td>
-								<td><img src="/images/spacer.gif" width="11" height="30" alt=""></td>
-							</tr> 
-						</tbody></table>
-					</td>
-				</tr>
-				<tr>
-					<td height="2" width="100%" bgcolor="#FFFFFF"><img src="/images/spacer.gif" height="2" width="1" alt=""></td>
-				</tr>
-			</tbody></table>
+		<td height="54" width="100%" valign="top">
+			
+				<div id="Search">
+					<form method="get" action="/Search.aspx" name="searchForm" id="searchForm" target="_top"><input type="text" id="Query" name="Query" size="18">							&nbsp;<a href="javascript:document.getElementById('searchForm').submit();">Search</a></form>
+				</div>
+			
+			<div id="TopMenu">
+				<nobr>
+				<a id="ctl00_TopPanel1_hlkSignIn" href="/MyAurigma/Login.aspx">Login</a>
+				
+				|
+				<a id="ctl00_TopPanel1_hlkRegister" href="/MyAurigma/Register.aspx">Register</a>
+				
+				|
+				<a id="ctl00_TopPanel1_hlkCart" href="/Store/ShoppingCart.aspx">Shopping&nbsp;Cart</a>
+				<span style="display:none">| <a href="/Map.aspx">Site Map</a> </span>
+				</nobr>
+			</div>
+			<div id="Welcome">
+				<span id="ctl00_TopPanel1_lblWelcome"></span>
+			</div>
 		</td>
 	</tr>
-</tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-	<tbody><tr>
-		<td bgcolor="#636393" height="86"><img src="/Images/spacer.gif" width="21" height="86" alt=""></td>
-		<td bgcolor="#636393" height="86" width="344"><table border="0" cellpadding="0" cellspacing="0" width="344"><tbody><tr><td width="344" height="86"><img src="/Images/OnlineStoreImage.jpg" id="MainHeader1_imgMain" width="344" height="86" alt=" "></td></tr></tbody></table></td>
-		<td width="300" height="86" valign="top">
-			<table border="0" cellpadding="0" cellspacing="0" width="300">
-				<tbody><tr>
-					<td width="300" height="59">
-						<table width="300" border="0" cellpadding="0" cellspacing="0">
-							<tbody><tr>
-								<td width="2" bgcolor="#FFB164" rowspan="3"><img src="/Images/spacer.gif" width="2" height="59" alt=""></td>
-								<td width="218" height="3" bgcolor="#FF9933"><img src="/Images/spacer.gif" width="218" height="2" alt=""></td>
-								<td width="80" rowspan="2" bgcolor="#FF9933"><img src="/Images/SecondaryHeaderBack3.gif" width="80" height="35" alt=""></td>		
-							</tr>
-							<tr>
-								<td width="218" height="32" bgcolor="#FF9933"><img src="/Images/SecondaryHeaderBack3.jpg" width="218" height="32" alt=""></td>
-							</tr>
-							<tr>
-								<td width="218" height="24" bgcolor="#FF9933"><img src="/images/HeadingText/PrivacyPolicy.gif" id="MainHeader1_imgHeading" class="HeadingAlt" height="24" alt="Privacy Policy"></td>
-								<td width="80" rowspan="24" bgcolor="#FF9933"><img src="/Images/SecondaryHeaderBack5.gif" width="80" height="24" alt=""></td>		
-							</tr>				
-						</tbody></table>
-					</td>
-				</tr>
-				<tr>
-					<td bgcolor="#FFFFFF" height="27" class="subHeading">
-						
-					</td>
-				</tr>
-			</tbody></table>
-		</td>
-		<td width="100%">
-			<table border="0" cellpadding="0" cellspacing="0" width="100%">
-				<tbody><tr>	
-					<td style="background-image:url(/Images/SecondaryHeaderBack2.gif)" width="100%" height="59" bgcolor="#FF9933"><img src="/Images/spacer.gif" height="59" width="1" alt=""></td>
-				</tr>
-				<tr>
-					<td bgcolor="#FFFFFF" height="27" width="100%"><img src="/Images/spacer.gif" height="27" width="1" alt=""></td>
-				</tr>
-			</tbody></table>
-		</td>
+	<tr>
+		<td height="36" width="100%"><nobr><img src="/Images/MenuSep.gif" width="1" height="36" alt=""><a href="/" target="_top"><img id="imgHome" onmouseover="menuOver('Home')" onmouseout="menuOut('Home')" class="MainMenu" src="/Images/Home.gif" width="51" height="36" border="0" alt="Home"></a><img src="/Images/MenuSep.gif" width="1" height="36" alt=""><a href="/Products/" target="_top"><img id="imgProducts" onmouseover="menuOver('Products')" onmouseout="menuOut('Products')" class="MainMenu" src="/Images/Products.gif" width="64" height="36" border="0" alt="Products"></a><img src="/Images/MenuSep.gif" width="1" height="36" alt=""><a href="/Services/" target="_top"><img id="imgServices" onmouseover="menuOver('Services')" onmouseout="menuOut('Services')" class="MainMenu" src="/Images/Services.gif" width="61" height="36" border="0" alt="Services"></a><img src="/Images/MenuSep.gif" width="1" height="36" alt=""><a href="/Store/" target="_top"><img id="imgPurchase" onmouseover="menuOver('Purchase')" onmouseout="menuOut('Purchase')" class="MainMenu" src="/Images/Purchase.gif" width="67" height="36" border="0" alt="Purchase"></a><img src="/Images/MenuSep.gif" width="1" height="36" alt=""><a href="/Support/" target="_top"><img id="imgSupport" onmouseover="menuOver('Support')" onmouseout="menuOut('Support')" class="MainMenu" src="/Images/Support.gif" width="61" height="36" border="0" alt="Support"></a><img src="/Images/MenuSep.gif" width="1" height="36" alt=""><a href="/About/" target="_top"><img id="imgCompany" onmouseover="menuOver('Company')" onmouseout="menuOut('Company')" class="MainMenu" src="/Images/CompanyActive.gif" width="68" height="36" border="0" alt="Company"></a><img src="/Images/MenuSep.gif" width="1" height="36" alt=""></nobr></td>
+	</tr>
+	<tr>
+		<td colspan="2" bgcolor="#f0eef1"><img src="/Images/spacer.gif" width="1" height="6" alt=""></td>
 	</tr>
 </tbody></table>
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td width="157" valign="top" height="1" style="background-image:url(/Images/LeftBackground.gif)">
-			<table width="157" border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-					<td width="100%" bgcolor="#FFFFFF" valign="top">
-						<table width="100%" border="0" cellpadding="0" cellspacing="1">
-						
+				<table id="HeadingRow" border="0" cellspacing="0" cellpadding="0" width="100%">
+					<tbody><tr>
+						<td id="ctl00_tdImgMain" width="344" height="53" rowspan="2" colspan="1">
+							<img src="/Images/OnlineStoreImage.jpg" id="ctl00_imgMain" width="344" height="53" alt=" "></td>
 
-<tbody><tr>
-	<td width="100%" bgcolor="#EBE8ED" class="LeftMenu">
-		
-		<a href="/About/AboutUs.aspx">
-			
-			About Us</a>
-	</td>
-</tr>
-<tr>
-	<td width="100%" bgcolor="#EBE8ED" class="LeftMenu">
-		
-		<a href="/About/Mission.aspx">
-			
-			Mission</a>
-	</td>
-</tr>
-<tr>
-	<td width="100%" bgcolor="#EBE8ED" class="LeftMenu">
-		
-		<a href="/About/PressRoom.aspx">
-			
-			Press Room</a>
-	</td>
-</tr>
-<tr>
-	<td width="100%" bgcolor="#EBE8ED" class="LeftMenu">
-		
-		<a href="/About/ContactUs.aspx">
-			
-			Contact Us</a></td>
-</tr>
-
-
+						<td id="Heading" width="100%" height="53" valign="middle">
+							Privacy Policy
+						</td>
+					</tr>
+					
 				</tbody></table>
+				<table width="100%" border="0" cellpadding="0" cellspacing="0">
+					<tbody><tr>
+						<td id="InfoPanel" width="155" valign="top">
+							<div id="SubMenu">
+								
+    <a href="/About/AboutUs.aspx">About Us
+</a>
+<a href="/About/Mission.aspx">Mission
+</a>
+<a href="/About/PressRoom.aspx">Press Room
+</a>
+<a href="/About/ContactUs.aspx">Contact Us
+</a>
+
+
+							</div>
+							<div id="AdditionalInfo">
+								<div id="ByTask">
+
+								</div>
+								<img src="/Images/MSPartner.gif" width="93" height="43" alt="Microsoft Certified Partner">
+							</div>
+						</td>
+						<td width="100%" valign="top" id="MainPanel">
+							
+    <p>
+        You take online privacy seriously, and so does Aurigma Inc./EveryThingCyber ("Aurigma/ETC").
+        It's our way of sustaining your trust in Aurigma/ETC as well as in our products
+        and services.</p>
+    <p>
+        We can revise and update our privacy practices from time to time and we reserve
+        the right to do so without any notice to you so you should visit this page occasionally
+        to review our then-current privacy practices because they are binding on you. All
+        updates will be published on this site. Your continued use of this site shall be
+        considered your consent to any revised privacy practices.</p>
+    <h5>
+        Non-Personal Information</h5>
+    <p>
+        In general, you can visit our site on the World Wide Web without telling us who
+        you are or revealing any information about yourself. Our web server collects the
+        domain names, not the e-mail addresses, of visitors.
+    </p>
+    <h5>
+        Personal Information</h5>
+    <p>
+        Aurigma/ETC may ask you to register and provide information that personally identifies
+        you, such as name, e-mail address, mailing address or phone number ("Personal Information").
+        This will occur for example before purchasing our software or in some other cases.
+        We use your Personal Information for three primary purposes:</p>
+    <ol>
+        <li>To enable you to find or gain access to information, software or services on our
+            web site.</li>
+        <li>To register your license and rights, if any, to technical support.</li>
+        <li>To allow us to inform you of product updates and upgrades, special offers, new services
+            and products, as well as updated information that may be made available to registered
+            users.</li>
+    </ol>
+    <p>
+        Aurigma/ETC will not provide your name, e-mail address, mailing address, phone number,
+        or any other Personal Information to any third parties. Your Personal Information
+        will not be leased, sold, rented or otherwise made available to any other third
+        party except to the extent necessary to comply with applicable laws, police investigations,
+        or in legal proceedings where such information is relevant.</p>
+    <p>
+        If you don't want us to send you e-mail notifications regarding Aurigma/ETC's products,
+        services, or special offers, let us know by sending us an e-mail to <a href="mailto:sales@aurigma.com">
+            sales@aurigma.com</a> or uncheck appropriate check box in the My Account section.</p>
+    <h5>
+        Cookies</h5>
+    <p>
+        "Cookies" are small pieces of information that are stored by your browser on your
+        computer's hard drive. Our cookies do not contain any personally identifying information.
+        They only contain a secure identifying code that we use to match you to your Personal
+        Information whenever you return to our site. Your Personal Information is neither
+        directly connected to nor stored on your computer, but is accessed when we identify
+        your cookie to provide you with a more personalized experience when visiting our
+        site.</p>
+    <h5>
+        What Information Do We Collect?</h5>
+    <p>
+        The type of information we maintain on our secure Personal Information server falls
+        into two categories. The first is general information about you such as name, phone,
+        e-mail address, company name, etc. The second is product-specific information that
+        enables us to customize information for you depending on which of our products or
+        services you have purchased or registered. Our Technical Support Department also
+        utilizes this information when you contact us.</p>
+    <p>
+        Please feel free to contact us (at <a href="mailto:info@aurigma.com">info@aurigma.com</a>)
+        with any questions, comments, or problems that might arise.</p>
+
+						</td>
+					</tr>
+				</tbody></table>
+				
+<div id="Copyright">
+	Copyright © 1999-2005, Aurigma Inc. / EveryThingCyber 
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/About/Terms.aspx">Terms of Use</a> and <a href="/About/Privacy.aspx">Privacy 
+		Policy</a>
+</div>
 			</td>
 		</tr>
 	</tbody></table>
-	<table width="157" border="0" cellpadding="0" cellspacing="0">
-		<tbody><tr>
-			<td valign="top" align="right" width="157" height="200"><img src="/images/LeftGradient.jpg" height="27" width="135" alt=""></td>
-		</tr>
-	</tbody></table>
-</td>
-<td width="100%" valign="top" class="Main">		
-<p>You take online privacy seriously, and so does Aurigma Inc./EveryThingCyber 
-	("Aurigma/ETC"). It's our way of sustaining your trust in Aurigma/ETC as well 
-	as in our products and services.</p>
-<p>We can revise and update our privacy practices from time to time and we reserve 
-	the right to do so without any notice to you so you should visit this page 
-	occasionally to review our then-current privacy practices because they are 
-	binding on you. All updates will be published on this site. Your continued use 
-	of this site shall be considered your consent to any revised privacy practices.</p>
-<h5>Non-Personal Information</h5>
-<p>In general, you can visit our site on the World Wide Web without telling us who 
-	you are or revealing any information about yourself. Our web server collects 
-	the domain names, not the e-mail addresses, of visitors.
-</p>
-<h5>Personal Information</h5>
-<p>Aurigma/ETC may ask you to register and provide information that personally 
-	identifies you, such as name, e-mail address, mailing address or phone number 
-	("Personal Information"). This will occur for example before purchasing our 
-	software or in some other cases. We use your Personal Information for three 
-	primary purposes:</p>
-<ol>
-	<li>
-		To enable you to find or gain access to information, software or services on 
-		our web site.</li>
-	<li>
-		To register your license and rights, if any, to technical support.</li>
-	<li>
-		To allow us to inform you of product updates and upgrades, special offers, new 
-		services and products, as well as updated information that may be made 
-		available to registered users.</li>
-</ol>
-<p>Aurigma/ETC will not provide your name, e-mail address, mailing address, phone 
-	number, or any other Personal Information to any third parties. Your Personal 
-	Information will not be leased, sold, rented or otherwise made available to any 
-	other third party except to the extent necessary to comply with applicable 
-	laws, police investigations, or in legal proceedings where such information is 
-	relevant.</p>
-<p>If you don't want us to send you e-mail notifications regarding Aurigma/ETC's 
-	products, services, or special offers, let us know by sending us an e-mail to <a href="mailto:sales@aurigma.com">
-		sales@aurigma.com</a> or uncheck appropriate check box in the My Account 
-	section.</p>
-<h5>Cookies</h5>
-<p>"Cookies" are small pieces of information that are stored by your browser on 
-	your computer's hard drive. Our cookies do not contain any personally 
-	identifying information. They only contain a secure identifying code that we 
-	use to match you to your Personal Information whenever you return to our site. 
-	Your Personal Information is neither directly connected to nor stored on your 
-	computer, but is accessed when we identify your cookie to provide you with a 
-	more personalized experience when visiting our site.</p>
-<h5>What Information Do We Collect?</h5>
-<p>The type of information we maintain on our secure Personal Information server 
-	falls into two categories. The first is general information about you such as 
-	name, phone, e-mail address, company name, etc. The second is product-specific 
-	information that enables us to customize information for you depending on which 
-	of our products or services you have purchased or registered. Our Technical 
-	Support Department also utilizes this information when you contact us.</p>
-<p>Please feel free to contact us (at <a href="mailto:info@aurigma.com">info@aurigma.com</a>) 
-	with any questions, comments, or problems that might arise.</p>
 
-<!--Begin main footer-->
-		</td>
-	</tr>
-</tbody></table>
-		
-<table width="100%" border="0" cellpadding="0" cellspacing="0" style="background-image:url(/Images/Copyright.gif)" bgcolor="#AFAFAE">
-	<tbody><tr>
-		<td height="31" width="21" class="Copyright"><img src="/images/spacer.gif" width="21" height="31" alt=""></td>
-		<td height="31" width="100%" class="Copyright">
-			Copyright © 1999-2005, Aurigma Inc. / EveryThingCyber 
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/About/Terms.aspx">Terms of Use</a> and <a href="/About/Privacy.aspx">Privacy 
-				Policy</a>
-		</td>
-	</tr>
-</tbody></table>
-		</td>
-	</tr>
-</tbody></table>
-	
+
 </body></html>
