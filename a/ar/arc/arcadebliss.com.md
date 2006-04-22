@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the arcadebliss.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223064125id_/http%3A//www.arcadebliss.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadebliss.com privacy policy that was archived on 2006-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060422022636id_/http%3A//www.arcadebliss.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Free Games with new Free Games Added Weekly - ArcadeBliss.com
+# Free Web Games for the Planet ★ Arcade Bliss!
 
 **ArcadeBliss.Com Privacy Policy**
 
