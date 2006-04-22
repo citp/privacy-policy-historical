@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the axa-equitable.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210044344id_/http%3A//www.axa-equitable.com/footer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axa-equitable.com privacy policy that was archived on 2006-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060422202028id_/http%3A//www.axa-equitable.com/footer/privacy.html) for the most accurate reproduction.*
 
 # AXA Equitable - Privacy Policy
 
@@ -7,7 +7,7 @@ AXA Equitable - Privacy Policy
 We at AXA Equitable strongly believe in protecting the confidentiality and security of the personal information we collect.
 
 Safeguarding Your Personal Information  
-If you are an AXA Equitable client, you have already received a copy of our Privacy Policy. We will protect the confidentiality of all personal information about you in our possession, including any personal information you may provide us through this Website, in accordance with our Privacy Policy.
+If you are an AXA Equitable client, you have already received a copy of our Privacy Policy. We will protect the confidentiality of all personal information about you in our possession, including any personal information you may provide us through this Website, in accordance with our [Privacy Policy](https://web.archive.org/pdf/AXAEquitablePrivacyPolicy2006EQAcc.pdf).
 
 If you are not an AXA Equitable client, please be assured that we will also protect the confidentiality of any personal information we may acquire about you. We will not sell or rent information about you to anyone. However, we may disclose personal information to our affiliates, third party service providers or as otherwise required or permitted by law.
 
