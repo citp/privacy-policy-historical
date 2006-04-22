@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aec.gov.au privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214113220id_/http%3A//www.aec.gov.au/_content/help/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aec.gov.au privacy policy that was archived on 2006-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060422021106id_/http%3A//www.aec.gov.au/_content/help/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
@@ -42,7 +42,7 @@ We provide a secure environment and a reliable system but you should be aware th
 
 ## Need further information?
 
-If you have any privacy concerns, please contact the AEC Central Office in Canberra on telephone 02 6271 4411 or email [info@aec.gov.au](mailto:info@aec.gov.au).  You can also obtain further information from the Privacy Commissioner's web site, [www.privacy.gov.au](http://www.privacy.gov.au/) , or by telephone on 1300 363 992.
+If you have any privacy concerns, please contact the AEC National Office in Canberra on telephone 02 6271 4411 or email [info@aec.gov.au](mailto:info@aec.gov.au).  You can also obtain further information from the Privacy Commissioner's web site, [www.privacy.gov.au](http://www.privacy.gov.au/) , or by telephone on 1300 363 992.
 
 ## GLOSSARY
 
