@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tbs.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214135959id_/http%3A//www.tbs.com/general/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tbs.com privacy policy that was archived on 2006-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060423091638id_/http%3A//tbs.com/general/privacy) for the most accurate reproduction.*
 
 # tbs.com - tbs privacy policy
 
