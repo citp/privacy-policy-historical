@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the snapdollars.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213201513id_/http%3A//www.snapdollars.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapdollars.com privacy policy that was archived on 2006-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060423030253id_/http%3A//www.snapdollars.com/privacy) for the most accurate reproduction.*
 
 # SnapDollars.com ::: Earn Quick, Easy Cash at Home!
 
 SnapDollars Privacy Policy may be changed at any time, at SnapDollars discrestion. For your information and convenience, and as notice to our Users, the date and time of each update will always appear below.
 
-Last Updated: October 24, 2005 05:30 a.m. EST
+Last Updated: February 13, 2006 11:30 a.m. EST
 
   
 I. INFORMATION COLLECTION 
 
 1\. Information requested, required and collected
 
-Users of SnapDollars agree to provide the following information: name, mailing address, phone number, email address, username, and password. Eligibility requirements for bonus(es), promotions, and/or special draws, including but not limited to any advertising or retailing opportunities, include the User providing, to SnapDollars, any subsequent data that SnapDollars reasonably requests for the promotion and advertising thereof; such subsequent data that SnapDollars my require includes, but is not limited to, birth date, gender, marital status, education completed, household income, and number of children in household.
+Users of SnapDollars agree to provide the following information: name, mailing address, phone number, email address, username, and password. Eligibility requirements for bonus(es), promotions, and/or special draws, including but not limited to any advertising or retailing opportunities, include the User providing, to SnapDollars, any subsequent data that SnapDollars reasonably requests for the promotion and advertising thereof; such subsequent data that SnapDollars may require includes, but is not limited to, birth date, gender, marital status, education completed, household income, and number of children in household.
 
 2\. Means of Collection 
 
@@ -36,15 +36,14 @@ SnapDollars will not, under any circumstances, sell, rent, or share User informa
 (a) SnapDollars is required under law and/or penalty to provide assistance to any legal enforcement agency  
 (b) SnapDollars, et al, is bought by another company. All User and Company information becomes the property of the purchaser.   
 (c) User agrees that by selecting "co-registration" they also agree to the terms and conditions of co-registrant websites. Please see "Co-registration" below for more information.  
-(d) When a User is suspected of fraud, in which case we will share any and all relevant User information with all legal agencies  
-(e) SnapDollars maintains only the most trusted relationships with its business partners. From time to time, we may release selected information to these partners, in order to enhance the User experience of SnapDollars.
+(d) When a User is suspected of fraud, in which case we will share any and all relevant User information with all legal agencies
 
   
 III. CO-REGISTRATION 
 
 1\. Definition 
 
-SnapDollars acknowledges that co-registration may be a requirement to qualify for sign-up bonus(es) or other promotions on offer when signing up for SnapDollars .Users may sign up for as few or for as many "co-registrants" as they wish. This will not in any way affect their SnapDollars account.
+SnapDollars acknowledges that co-registration may be a requirement to qualify for sign-up bonus(es) or other promotions on offer when signing up for SnapDollars. Users may sign up for as few or for as many "co-registrants" as they wish. This will not in any way affect their SnapDollars account.
 
   
 2\. Information Sharing 
