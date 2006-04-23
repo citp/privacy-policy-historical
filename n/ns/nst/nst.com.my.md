@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the nst.com.my privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218021307id_/http%3A//www.nst.com.my/Current_News/NST/privacy_html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nst.com.my privacy policy that was archived on 2006-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060423043055id_/http%3A//www.nst.com.my/Current_News/nst/privacy.htm) for the most accurate reproduction.*
 
 # New Straits Times - Malaysia News Online
 
-Thank you for visiting the NST Online. Your privacy is important to us and to enable us to protect your privacy in relation to our interactive services and products, we set out this statement an overview explaining our online information practices and the choices available to you in respect of the way your information may be collected and used at this website. Please note however, that this statement only applies to us and not to other companies’ or organization’s websites to which we link.
+  
+Thank you for visiting the NST Online. Your privacy is important to us and to enable us to protect your privacy in relation to our interactive services and products, we set out this statement an overview explaining our online information practices and the choices available to you in respect of the way your information may be collected and used at this website. Please note however, that this statement only applies to us and not to other companies’ or organization’s websites to which we link. 
 
 **The Information We Collect**  
 In general, our service gathers certain usage information automatically, eg. the numbers and frequency of visitors to our website and the various areas of interest which inform us of its popularity amongst our visitors. Such data is usually used in the aggregate so that the data collected will assist us to determine the extent to which our visitors use the relevant parts of the website and enable us to improve the website with a view towards making it even more appealing to our visitors.
