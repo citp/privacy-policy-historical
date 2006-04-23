@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guitar.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212151459id_/http%3A//www.guitar.com/GCFpp.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitar.com privacy policy that was archived on 2006-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060423131638id_/http%3A//guitar.com/GCFpp.aspx) for the most accurate reproduction.*
 
 # The Ultimate Guitar Resource For Guitarists - Guitar.com
 
