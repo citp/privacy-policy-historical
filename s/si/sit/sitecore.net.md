@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitecore.net privacy policy that was archived on 2005-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051102210456id_/http%3A//www.sitecore.net/Footer%2520menu/Privacy%2520policy/PrivacyText.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitecore.net privacy policy that was archived on 2006-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060423055246id_/http%3A//sitecore.net/Footer%2520menu/Privacy%2520policy/PrivacyText.aspx) for the most accurate reproduction.*
 
 # Sitecore Content Management System (CMS) - Privacy policy
 
