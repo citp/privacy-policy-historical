@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qualiteam.biz privacy policy that was archived on 2005-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051123070741id_/http%3A//www.qualiteam.biz/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualiteam.biz privacy policy that was archived on 2006-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060424165133id_/http%3A//qualiteam.biz/privacy_statement.html) for the most accurate reproduction.*
 
 # Internet business solutions & b2c e-commerce development - QUALITEAM
 
