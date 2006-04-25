@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rac.co.uk privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211212539id_/http%3A//rac.co.uk/web/racworld/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rac.co.uk privacy policy that was archived on 2006-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060425214742id_/http%3A//rac.co.uk/web/racworld/privacy_policy) for the most accurate reproduction.*
 
 # RAC's privacy policy
 
@@ -9,15 +9,15 @@
 
 RAC plc, part of Aviva plc, and their group companies take the privacy of your information very seriously. We aim to meet current Internet best practice. Our services are designed to give you the information that you want to receive. Our Privacy Policy below explains how we will collect and use the information you give us. We may vary this policy from time to time and the current version will be that published on this site. The word `we' refers to RAC Motoring Services (RACMS), unless otherwise indicated.
 
-  * [Collecting your information ](https://web.archive.org/web/racworld/privacy_policy#yourinfo)
-  * [How we collect information about your visits to our websites](https://web.archive.org/web/racworld/privacy_policy#collectinfo)
-  * [What will we do with your personal information?](https://web.archive.org/web/racworld/privacy_policy#whatdo)
-  * [Sensitive information](https://web.archive.org/web/racworld/privacy_policy#sensinfo)
-  * [How to access your personal information](https://web.archive.org/web/racworld/privacy_policy#howaccess)
-  * [Users aged 16 years and under](https://web.archive.org/web/racworld/privacy_policy#16yrs)
-  * [What is a cookie?](https://web.archive.org/web/racworld/privacy_policy#cookie)
-  * [What is a web beacon?](https://web.archive.org/web/racworld/privacy_policy#beacon)
-  * [Links to other websites](https://web.archive.org/web/racworld/privacy_policy#links)
+  * [Collecting your information ](https://web.archive.org/web/racworld/privacy_policy;jsessionid=E2511D702A4696DF7093F7B131A2BA86#yourinfo)
+  * [How we collect information about your visits to our websites](https://web.archive.org/web/racworld/privacy_policy;jsessionid=E2511D702A4696DF7093F7B131A2BA86#collectinfo)
+  * [What will we do with your personal information?](https://web.archive.org/web/racworld/privacy_policy;jsessionid=E2511D702A4696DF7093F7B131A2BA86#whatdo)
+  * [Sensitive information](https://web.archive.org/web/racworld/privacy_policy;jsessionid=E2511D702A4696DF7093F7B131A2BA86#sensinfo)
+  * [How to access your personal information](https://web.archive.org/web/racworld/privacy_policy;jsessionid=E2511D702A4696DF7093F7B131A2BA86#howaccess)
+  * [Users aged 16 years and under](https://web.archive.org/web/racworld/privacy_policy;jsessionid=E2511D702A4696DF7093F7B131A2BA86#16yrs)
+  * [What is a cookie?](https://web.archive.org/web/racworld/privacy_policy;jsessionid=E2511D702A4696DF7093F7B131A2BA86#cookie)
+  * [What is a web beacon?](https://web.archive.org/web/racworld/privacy_policy;jsessionid=E2511D702A4696DF7093F7B131A2BA86#beacon)
+  * [Links to other websites](https://web.archive.org/web/racworld/privacy_policy;jsessionid=E2511D702A4696DF7093F7B131A2BA86#links)
 
 
 
@@ -33,7 +33,7 @@ We will act in accordance with current legislation and we will provide a link to
 
 RACMS will share the information you provide, together with other information, with our group companies *****. We (the RAC and Aviva group companies) may use the information you provide for administration, marketing, customer services and profiling your purchasing preferences. We will disclose your information to our service providers and agents for these purposes. 
 
-For information about the way we use cookies and other web tracking devices please refer to [section 2](https://web.archive.org/web/racworld/privacy_policy#collectinfo) in this privacy policy. 
+For information about the way we use cookies and other web tracking devices please refer to [section 2](https://web.archive.org/web/racworld/privacy_policy;jsessionid=E2511D702A4696DF7093F7B131A2BA86#collectinfo) in this privacy policy. 
 
 We may transfer your information outside of the European Economic Area, for example to Asia. We will only do this where it is necessary for the conclusion, or performance of a contract between us, or that we enter into at your request, in your interest, or for administrative, or our own marketing purposes. 
 
@@ -45,7 +45,7 @@ For our joint protection and training purposes, telephone calls may be recorded 
 
 #### Informing you about products and services
 
-We offer motoring and travel related products such as breakdown services, hotel bookings and vehicle inspections, sales and leasing. We also offer financial products such as Insurance, loans and credit cards. We may also share your information with our business partners. By providing us with your contact details, you will be indicating to us and our business partners, your consent to us and them, contacting you by mail, telephone, fax, email, and SMS/MMS to let you know about any goods, services or promotions of our own our business partners or other third parties, which may be of interest to you unless you indicate an objection to receiving such messages by ticking the box provided. 
+We offer motoring and travel related products such as breakdown services and vehicle inspections, sales and leasing. We also offer financial products such as Insurance, loans and credit cards. We may also share your information with our business partners. By providing us with your contact details, you will be indicating to us and our business partners, your consent to us and them, contacting you by mail, telephone, fax, email, and SMS/MMS to let you know about any goods, services or promotions of our own our business partners or other third parties, which may be of interest to you unless you indicate an objection to receiving such messages by ticking the box provided. 
 
 #### Sensitive data
 
@@ -59,7 +59,7 @@ When you visit our web pages, we will download something called a `cookie' to yo
 
 #### What will we do with your personal information?
 
-We will only use your information for the purposes that you would reasonably anticipate or that we state when we collect it and, where necessary, for which you have given us your consent. We will not contact you, or pass your information to our business partners, for marketing purposes unless you have indicated your agreement that we may do so. Where we are making arrangements on your behalf we may need to pass your information to third parties to conclude those arrangements. For example, to a hotel to make a hotel booking, or to an insurance company to obtain insurance quotes. 
+We will only use your information for the purposes that you would reasonably anticipate or that we state when we collect it and, where necessary, for which you have given us your consent. We will not contact you, or pass your information to our business partners, for marketing purposes unless you have indicated your agreement that we may do so. Where we are making arrangements on your behalf we may need to pass your information to third parties to conclude those arrangements. For example,to an insurance company to obtain insurance quotes. 
 
 We are committed to treating your personal data with due care and in accordance with the data protection principles.
 
@@ -77,7 +77,7 @@ If you are 16 or under you must have permission from a parent or guardian before
 
 #### What is a cookie?
 
-Cookies are text files that identify your computer (through what is known as an IP address) to our server. For information about what we use these for refer to [section 2](https://web.archive.org/web/racworld/privacy_policy#collectinfo). Whilst in some cases it may be possible, we do not use the IP address as a means of identifying you. You generally have the opportunity to set your computer to accept all cookies, to notify you when a cookie is issued, or not to receive cookies at any time. You can do this through your internet browser. With most browsers, this facility can be reached via the `tools' (e.g. Internet Explorer), or `edit', or 'task' (e.g. Netscape) menu. If you have any problems finding this area, the `help' function within your browser will be able to provide assistance. You can also find more detailed information about cookies and how to manage them on [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+Cookies are text files that identify your computer (through what is known as an IP address) to our server. For information about what we use these for refer to [section 2](https://web.archive.org/web/racworld/privacy_policy;jsessionid=E2511D702A4696DF7093F7B131A2BA86#collectinfo). Whilst in some cases it may be possible, we do not use the IP address as a means of identifying you. You generally have the opportunity to set your computer to accept all cookies, to notify you when a cookie is issued, or not to receive cookies at any time. You can do this through your internet browser. With most browsers, this facility can be reached via the `tools' (e.g. Internet Explorer), or `edit', or 'task' (e.g. Netscape) menu. If you have any problems finding this area, the `help' function within your browser will be able to provide assistance. You can also find more detailed information about cookies and how to manage them on [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
 If you refuse a cookie it may prevent the proper operation of the site or even prevent your access to certain areas. 
 
