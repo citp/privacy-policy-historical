@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ixiacom.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214162457id_/http%3A//www.ixiacom.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ixiacom.com privacy policy that was archived on 2006-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060425100441id_/http%3A//ixiacom.com/privacy) for the most accurate reproduction.*
 
-# Ixia - Leader in IP Network Testing
+# Ixia - Leader in IP Performance Testing
 
-This is the web site of Ixia
+## This is the web site of Ixia
 
 Address:  
 26601 W. Agoura Rd.  
@@ -17,7 +17,20 @@ We collect the e-mail addresses of those who communicate with us via e-mail, agg
 
 The information we collect is used to improve the content of our Web page, shared with other reputable organizations to help them contact consumers for marketing purposes. 
 
-With respect to cookies: We do not set any cookies. 
+[ top of page ] 
+
+### Use of Cookies
+
+We use cookies on this Site to ensure the integrity of the registration process and to personalize the Site. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web server in the domain that issued the cookie to you. 
+
+One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. This simplifies the process of delivering relevant content, eases site navigation, and so on. When you return to the Web site, the information you previously provided can be retrieved, so you can easily use the site's features that you customized. 
+
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of this or other Web sites you visit. 
+
+Click here to find out if you have cookies enabled.   
+If you don't have cookies enabled, please click [here](https://web.archive.org/popup_file.php?file=/cookies.php) to learn how to enable cookies on your browser. 
+
+[ top of page ] 
 
 If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address. 
 
@@ -33,7 +46,11 @@ Persons who supply us with their telephone numbers on-line may receive telephone
 
 Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations 
 
-With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. 
+[ top of page ] 
+
+### With respect to Ad Servers:
+
+We do not partner with or have special relationships with any ad server companies. 
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses. 
 
@@ -41,14 +58,19 @@ Customers may prevent their information from being used for purposes other than 
 
 Upon request we provide site visitors with access to no information that we have collected and that we maintain about them. 
 
-Consumers can access this information by e-mail us at the above address. 
+Consumers can access this information by e-mail us at the above address. Upon request we offer visitors no ability to have factual inaccuracies corrected in information that we maintain about them 
 
-Upon request we offer visitors no ability to have factual inaccuracies corrected in information that we maintain about them 
+[ top of page ] 
 
-With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. 
+### With respect to security:
+
+We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. 
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number. 
 
- [Terms of Use](https://web.archive.org/web/20051214162457id_/http%3A//www.ixiacom.com/terms_of_use.php)  
+  * [Terms of Use](https://web.archive.org/terms_of_use)
+
+
+
   
-[ back | top of page ] 
+[ back | top of page ]
