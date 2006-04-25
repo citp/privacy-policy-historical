@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the lifehack.org privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220130314id_/http%3A//www.lifehack.org/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifehack.org privacy policy that was archived on 2006-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060425051949id_/http%3A//www.lifehack.org/about/privacypolicy) for the most accurate reproduction.*
 
-# lifehack.org » Privacy Policy
+# Privacy Policy - lifehack.org
+
+## Privacy Policy
 
 Lifehack.org has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices covers all of the Lifehack.org sites. Your use of Lifehack.org Sites indicates your agreement to abide by the Terms in effect.
 
@@ -24,5 +26,3 @@ Third parties partners like advertiser may use cookies on our sites. We have no 
 
 **Notification of Changes**  
 If we decide to change our privacy policy, we will post these changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Regardless of later updates, we will never use the information you submit under this current policy in a new way without first providing you an opportunity to opt-out or otherwise prevent that use.
-
-Popularity: 1%
