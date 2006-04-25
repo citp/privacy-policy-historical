@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the isedb.com privacy policy that was archived on 2005-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051016064624id_/http%3A//isedb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isedb.com privacy policy that was archived on 2006-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060425042315id_/http%3A//isedb.com/db/pages/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Internet Search Engine Database - ISEDB.com
+# Privacy Policy
 
 In general, The Internet Search Engine Database(ISEDB.COM) does not collect, store, use or disclose personally identifying information The instances in which ISEDB does collect and use information are specifically described in this Privacy Policy.   
 ISEDB provides fun, easy to use services, including ISEDB directory (located at WWW.ISEDB.COM). This service may also be located on third party web sites and/or applications. ISEDB values its users and their concerns about privacy.   
@@ -21,10 +21,10 @@ Data about traffic and usage is not personally identifying or identifiable, and 
 **Email, Contact Information or Personally Identifying Information.**   
 ISEDB can obtain access to your name, e-mail address and other contact information only 
 
-  * when you become an advertiser with ISEDB, provide comments, submit a problem, or request information from ISEDB and provide your name or return contact information
+  * when you become an advertiser with ISEDB, provide comments, submit a problem, or request information from ISEDB and provide your name or return contact information 
   * Connection with special offers or contests.   
 
-  * The email addresses collected from the sign-ups for our mailing list are not sold, or disclosed to a third party. The email addresses collected will only be used to send out the newsletter/promotions from our merchants. You will not receive any mailings you did not request. You can remove yourself from our list by following the instruction we provide when we send emails.
+  * The email addresses collected from the sign-ups for our mailing list are not sold, or disclosed to a third party. The email addresses collected will only be used to send out the newsletter/promotions from our merchants. You will not receive any mailings you did not request. You can remove yourself from our list by following the instruction we provide when we send emails. 
 
 
 
@@ -32,4 +32,4 @@ Contact information provided in connection with problems, comments or requests i
 
 Finally, you may choose to provide contact information, other personally identifying information, and demographic information in order to participate in optional surveys or contests, which are run for promotional purposes. ISEDB uses such information to send you information about its products and to notify you if you win the contest. Finally, from time to time, but only with your permission, ISEDB may provide certain of its users' registration information to selected third parties who wish to participate in special promotions offered in conjunction with ISEDB. Users may opt-out of receiving such communications at any time by contacting ISEDB. 
 
-Questions regarding our privacy policies, and for assistance in opting out of our email lists please [contact us ](https://web.archive.org/contact/)
+Questions regarding our privacy policies, and for assistance in opting out of our email lists please [contact us ](https://web.archive.org/db/pages/Contact-Us)
