@@ -1,25 +1,27 @@
-> *The following text is extracted and transformed from the car.org privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401200306id_/http%3A//www.car.org/index.php%3Fid%3DMTY1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the car.org privacy policy that was archived on 2006-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060425221805id_/http%3A//www.car.org/index.php%3Fid%3DMTY1) for the most accurate reproduction.*
 
 # Privacy Policies
 
 Privacy Policies
 
-[**Privacy Policy for C.A.R. Online (www.car.org)**](https://web.archive.org/web/20040401200306id_/http%3A//www.car.org/index.php?id=MTY1#privpol)  
-[**California Association of REALTORS® Member Information Privacy Policy**](https://web.archive.org/web/20040401200306id_/http%3A//www.car.org/index.php?id=MTY1#mmp)
+[**Privacy Policy for C.A.R. Online (www.car.org)**](http://www.car.org/index.php?id=MTY1#privpol)  
+[**California Association of REALTORS® Member Information Privacy Policy**](http://www.car.org/index.php?id=MTY1#mmp) 
 
- **  Privacy Policy for C.A.R. Online (www.car.org)**
+**  Privacy Policy for C.A.R. Online (** **[www.car.org](http://www.car.org/))**
 
-The California Association of REALTORS® (“C.A.R.”) has created this Privacy Policy to demonstrate our firm commitment to privacy and so that you, as a visitor to CAR Online (“Web site”), will be aware of the uses made of information that may be generated as a result of you using our Web site.
+**Effective July 1, 2004**
 
-**What information is generated when you visit CAR Online?**
+The California Association of REALTORS® (“C.A.R.”) has created this Privacy Policy to demonstrate our firm commitment to privacy and so that you, as a visitor to C.A.R. Online (“Web site”), will be aware of the uses made of information that may be generated as a result of you using our Web site.
 
-Depending how you use our Web site, certain types of personal and nonpersonal information may be generated and collected.  For example, you may give us your name or email address when you complete a registration screen, respond to a questionnaire or submit an e-mail to us.  Any personal information that you provide to us will be used by us primarily to fulfill the stated objective for which the information was requested or collected (e.g. if information is provided as a result of you e-mailing us, we will use the information provided, such as e-mail address, to respond to you).
+**What information is generated when you visit C.A.R. Online?**
 
-Other types of information that may be generated and collected when you use our Web site is information that we consider nonpersonal in nature.  For example, we may collect the name of the domain from which you access the Internet (for example, aol.com, if you are connecting from an America Online account); the date and time you access our site or and the Internet address of the web site from which you linked directly to our site.  We use this information to measure the number of visitors to the different sections of our Web site and to help us make our Web site more useful to visitors.
+Depending on how you use our Web site, certain types of personal and nonpersonal information may be generated and collected.  For example, you may give us your name or e-mail address when you complete a registration screen, respond to a questionnaire or submit an e-mail to us.  Any personal information that you provide to us will be used by us primarily to fulfill the stated objective for which the information was requested or collected (e.g. if information is provided as a result of you e-mailing us, we will use the information provided, such as e-mail address, to respond to you).
+
+Other types of information that may be generated and collected when you use our Web site is information that we consider nonpersonal in nature.  For example, we may collect the name of the domain from which you access the Internet (for example, aol.com, if you are connecting from an America Online account); the date and time you access our site or and the Internet address of the Web site from which you linked directly to our site.  We use this information to measure the number of visitors to the different sections of our Web site and to help us make our Web site more useful to visitors.
 
 **Use of Cookies**
 
-What is a cookie?  A cookie is a data file that is created and stored on your computer’s hard drive when you visit a web site.  The typical purposes of a cookie is to make your use of the web site easier and more convenient and to assist the web site in tracking your use of the site.  For example, a cookie may save the registration information, passwords, purchases or preferences that you create when using a web site so you don’t have to reenter this information.  Cookies may also tell the web site which areas of the site are popular and which aren’t.  Cookie technology is used by most major web sites and is considered an industry standard for the Internet.
+What is a cookie?  A cookie is a data file that is created and stored on your computer’s hard drive when you visit a Web site.  The typical purposes of a cookie is to make your use of the Web site easier and more convenient and to assist the Web site in tracking your use of the site.  For example, a cookie may save the registration information, passwords, purchases or preferences that you create when using a Web site so you don’t have to reenter this information.  Cookies may also tell the Web site which areas of the site are popular and which aren’t.  Cookie technology is used by most major Web sites and is considered an industry standard for the Internet.
 
 Our Web site uses cookie technology to verify user information.  (Please see the section titled “Advertisements” for more information concerning advertisers.).  Also, most Internet browsers are initially set to accept cookies.  If you prefer, you may set your browser so that it refuses cookies or alerts you when cookies are being created on your hard drive.  You should be aware though that by not accepting cookies, you may impair your ability to use certain shopping or password protected areas of web sites.
 
@@ -29,9 +31,9 @@ C.A.R. is a private trade association consisting of real estate professionals. 
 
 _The member information made available through the REALTOR® Directory is intended to contain only the business information of our members.    Under no circumstances will we intentionally display or make available on our Web site the personal home addresses or phone numbers of our members. _
 
-If you are a member of CAR and would like to be removed from the REALTOR® Directory, please see the section called “Choice/Opt Out.”  If you have corrections or updates to the Directory, please see the section called “Corrections/Updates.”
+If you are a member of C.A.R. and would like to be removed from the REALTOR® Directory, please see the section called “Choice/Opt Out.”  If you have corrections or updates to the Directory, please see the section called “Corrections/Updates.”
 
-Directors and Committee Members 
+**Directors and Committee Members**
 
 For use by the members of C.A.R., we make available on the Web site the names of members who are serving as directors or committee members of C.A.R.
 
@@ -43,9 +45,9 @@ The information collected through the “Contact Us” feature is used to invest
 
 **C.A.R. Online Product Mall**
 
-The C.A.R. Online Product Mall is an area on our Web site where you can purchase various real estate related products.   In order to process and complete and your orders though the Mall, we will need to ask you for certain information, such as your name, company name, address, state and zip code.  We also need to ask you for your credit card number and expiration date. 
+The C.A.R. Online Product Mall is an area on our Web site where you can purchase various real estate related products.   In order to process and complete your orders though the Mall, we will need to ask you for certain information, such as your name, company name, address, state and zip code.  We also need to ask you for your credit card number and expiration date. 
 
-The information collected through the CAR Online Product Mall is used to process your order and may also be used to keep track of the amount and types of purchases being made through the C.A.R. Online Product Mall.  We may also use your email address or mailing address to send you information regarding updates to the products you purchased or new products which may be of interest to you.  When you click on the Product Mall icon, you may be taken to another website where you may purchase products, and if so, you agree to be taken to and bound by the terms of that website’s privacy policy.
+The information collected through the C.A.R. Online Product Mall is used to process your order and may also be used to keep track of the amount and types of purchases being made through the C.A.R. Online Product Mall.  We may also use your email address or mailing address to send you information regarding updates to the products you purchased or new products which may be of interest to you.  When you click on the Product Mall icon, you may be taken to another Web site where you may purchase products, and if so, you agree to be taken to and bound by the terms of that Web site’s privacy policy.
 
 With respect to your credit card information, this information is sent encrypted to a secure server.  The information is then used to complete your purchase order.  Please see the section called “Security” for more information about the security of our Web site.
 
@@ -73,11 +75,11 @@ We may from time to time run contests on our Web site.  If our contests require
 
 Like many other sites on the Internet, we sell advertising space on our Web site to other companies.  The advertising space we sell is usually in the form of an electronic “advertisement banner.”  An advertisement banner is essentially a graphic link to the actual Internet site of the advertiser.
 
-While we hope you find our advertiser’s products helpful, we cannot assume any responsibility for the privacy practices of our advertisers.   Therefore, like any other Internet site you may visit, we encourage you to become knowledgeable of the privacy policies and practices of our advertisers prior to providing information on their sites. 
+While we hope you find our advertiser’s products helpful, we cannot assume any responsibility for the privacy practices of our advertisers.  Therefore, like any other Internet site you may visit, we encourage you to become knowledgeable of the privacy policies and practices of our advertisers prior to providing information on their sites. 
 
 **Public Chat Rooms or Forums**
 
-We from time to time may provide chat rooms, forums, message boards, and/or news groups on our Web site.  While we feel these features will be helpful to the users of our Web site, we will not monitor them regularly nor will we be we responsible for what is said on or done as result of them.  Please remember that any information you disclose on these types of features will be accessible to the public and you should exercise caution prior to disclosing any personal information on these features.
+We from time to time may provide chat rooms, forums, message boards, and/or news groups on our Web site.  While we feel these features will be helpful to the users of our Web site, we will not monitor them regularly nor will we be responsible for what is said on or done as result of them.  Please remember that any information you disclose on these types of features will be accessible to the public and you should exercise caution prior to disclosing any personal information on these features.
 
 **Required by Law**
 
@@ -97,22 +99,22 @@ Our Web site does not currently attempt to collect or solicit information from p
 
 **Choice/Opt-Out**
 
-Our Web site provides you the opportunity to opt-out of receiving communications from us.  Also, if you are a member of C.A.R., you can choose to opt out of having your name included in the REALTOR® Directory.  To exercise your opt-out privilege, please feel free to email us at: _[contactus@car.org](mailto:contactus@car.org)_  or write us at: 525 South Virgil Avenue, Los Angeles, CA  90020, Attn: C.A.R. Online Web Developer.  Please be advised that if you are a member and choose to opt-out of receiving communications from the Web site, this may affect your ability to receive other email communications that are sent to members of C.A.R.
+Our Web site provides you the opportunity to opt-out of receiving communications from us.  Also, if you are a member of C.A.R., you can choose to opt out of having your name included in the REALTOR® Directory.  To exercise your opt-out privilege, please feel free to e-mail us at _[contactus@car.org](mailto:contactus@car.org)_  or write us at 525 South Virgil Avenue, Los Angeles, CA  90020, Attn: C.A.R. Online Web Developer.  Please be advised that if you are a member and choose to opt-out of receiving communications from the Web site, this may affect your ability to receive other e-mail communications that are sent to members of C.A.R.
 
 **Corrections/Updates**
 
-If you are a member and there is information about you on our Web site which needs to be corrected or updated, please feel free to email us at: _[contactus@car.org](mailto:contactus@car.org)_  or write us at: 525 South Virgil Avenue, Los Angeles, CA  90020, Attn: C.A.R. Online Web Developer.  However, in order for the correction or update to be permanent, you will need to contact your local association and make sure that the correction or update is made in their records as well. 
+If you are a member and there is information about you on our Web site which needs to be corrected or updated, please feel free to email us at _[contactus@car.org](mailto:contactus@car.org)_  or write us at 525 South Virgil Avenue, Los Angeles, CA  90020, Attn: C.A.R. Online Web Developer.  However, in order for the correction or update to be permanent, you will need to contact your local association and make sure that the correction or update is made in their records as well. 
 
-**Contacting our Web Site**
+**Contacting our Web site**
 
-If you have any questions about this Privacy Policy, the practices of our Web site, or your dealings with our Web site, please feel free to email us at: _[contactus@car.org](mailto:contactus@car.org)_  or write us at: 525 South Virgil Avenue, Los Angeles, CA  90020, Attn: C.A.R. Online Web Developer.
+If you have any questions about this Privacy Policy, the practices of our Web site, or your dealings with our Web site, please feel free to email us at _[contactus@car.org](mailto:contactus@car.org)_  or write us at 525 South Virgil Avenue, Los Angeles, CA  90020, Attn: C.A.R. Online Web Developer.
 
 **Changes to Privacy Policy Statement**
 
-With the ever-changing environment of the Internet and to maintain our ability to improve the quality and safety of our Web site, we reserve the right to change this Privacy Policy at any time.  As you use our Web site, we encourage you to periodically check back with this statement for changes that we may make.  Your continued use of our Web site will constitute your agreement to any changes we make and if you do not agree with a change, please refrain from using our Web site.  Thank you! ****
+With the ever-changing environment of the Internet and to maintain our ability to improve the quality and safety of our Web site, we reserve the right to change this Privacy Policy at any time.  In the event we make any material changes to our Privacy Policy, we will notify you by updating the Policy’s Effective Date and indicating the previous effective date.  As you use our Web site, we encourage you to periodically check back with this Privacy Policy for changes that we may make.  Your continued use of our Web site will constitute your agreement to any changes we make and if you do not agree with a change, please refrain from using our Web site.  Thank you! ****
 
-**The California Association of REALTORS®  
-****Member Information Privacy Policy**
+**The California Association of REALTORS®** **  
+Member Information Privacy Policy**
 
 The California Association of REALTORS® ("C.A.R.") has created this Member Information Privacy Policy to demonstrate its firm commitment to the privacy of member information and so that you, as a member of C.A.R., will be aware of the uses made of your member information by C.A.R.
 
@@ -142,8 +144,8 @@ To opt out of having your preferred contact information provided to third partie
 
 Please note, if you are a director or committee member of C.A.R., you cannot opt out of having your name reproduced and your preferred contact information used in the manner described in Sections 4 and 5 above.
 
-12.  Corrections/Updates.  If there is member information about you which needs to be corrected or updated, please email us at: [contactus@car.org](mailto:contactus@car.org) or write us at: 525 South Virgil Avenue, Los Angeles, CA 90020, Attn: Membership Records.  However, in order for the correction or update to be permanent, you will need to contact your local association and make sure that the correction or update is made in its records as well.
+12.  Corrections/Updates.  If there is member information about you which needs to be corrected or updated, please email us at [contactus@car.org](mailto:contactus@car.org) or write us at 525 South Virgil Avenue, Los Angeles, CA 90020, Attn: Membership Records.  However, in order for the correction or update to be permanent, you will need to contact your local association and make sure that the correction or update is made in its records as well.
 
-13.   Contacting C.A.R.  If you have any questions about this Privacy Policy, please feel free to email us at: _[contactus@car.org](mailto:contactus@car.org)_  or write us at: 525 South Virgil Avenue, Los Angeles, CA  90020, Attn: C.A.R. Privacy Policy.
+13.   Contacting C.A.R.  If you have any questions about this Privacy Policy, please feel free to email us at _[contactus@car.org](mailto:contactus@car.org)_  or write us at525 South Virgil Avenue, Los Angeles, CA  90020, Attn: C.A.R. Privacy Policy.
 
 14.  Changes in This Policy.  From time to time, C.A.R. may need to change this privacy policy to better meet the needs of its members.  As such, we reserve the right to change this privacy policy at any time.  Such changes may be made without prior notice so we encourage you to periodically check this privacy policy statement for changes that we may make.  Changes to this policy will be effective when posted on C.A.R.’s web site unless determined otherwise by the C.A.R. Board of Directors.
