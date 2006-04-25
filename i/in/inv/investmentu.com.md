@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investmentu.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229230912id_/http%3A//www.investmentu.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investmentu.com privacy policy that was archived on 2006-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060425053502id_/http%3A//investmentu.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # The Oxford Club Privacy Policy
 
