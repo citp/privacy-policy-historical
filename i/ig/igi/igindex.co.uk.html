@@ -1,18 +1,20 @@
-<!--The following is the downloaded HTML source of the igindex.co.uk privacy policy that was archived on 2005-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051216211043id_/http%3A//www.igindex.co.uk/content/privacy_notice.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the igindex.co.uk privacy policy that was archived on 2006-04-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060425203539id_/http%3A//www.igindex.co.uk/content/privacy_notice.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 	<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
+	<meta name="locale" id="locale" content="en_GB">
+	<meta name="softid" id="softid" content="##SOFTID##">
 	<meta http-equiv="imagetoolbar" content="no">
 	<meta name="description" content="World leaders in spread betting. Huge range of markets, outstanding online trading, narrow spreads. Financial spread betting on shares, indices, currencies, commodities, options. Plus binary betting!">
 	<meta name="keywords" content="ig index,igindex,spread betting,financial spread betting,financial betting,spreadbetting,online spread betting,ig,uk financial betting,online trading,binary betting,equity derivatives,tax free trading,house price betting,spread trading,day trading">
-	<meta name="generated" content="12/16/2005 5:09:45 PM">
+	<meta name="generated" content="4/24/2006 12:22:20 PM">
 	<title>IG Index - Privacy Notice</title>
 	<style type="text/css">
 		@import url(/css/sitestyle.css);
 	</style>
-	<script src="/js/global-1.1.js" type="text/javascript"></script>
-	<script src="/js/local-1.js" type="text/javascript"></script>
+	<script src="/js/global-1.2.js" type="text/javascript" language="javascript"></script>
+	<script src="/js/local-2.js" type="text/javascript" language="javascript"></script>
 </head>
 <body id="notices">
 <div id="playground">
@@ -109,15 +111,15 @@
 		<div class="body">
 			<span class="btn_help_gradient"><a href="/content/sites/igi/en_GB/he_logging_in.html"><span>Help</span></a></span>
 			<h3>Client Login</h3>
-			<form action="/login/dealing/igindex/security?action=authenticate" method="post" name="frmLogin" id="frmLogin" onsubmit="return validateForm(this)">
-				<input type="text" name="account_id" value="Account No." class="b5" size="14" maxlength="20" onkeyup="checkSubmit(event)" onchange="changeCase(this)" onfocus="clearField(this,'Account No.');">
-				<input type="password" name="password" value="........" class="b5" size="14" onkeyup="checkSubmit(event)" onfocus="clearField(this,'........');">
+			<form action="/login/dealing/igindex/security?action=authenticate" method="post" name="frmLogin" id="frmLogin">
+				<input type="text" name="account_id" value="Account No." class="b5" size="14" maxlength="20" onkeyup="checkSubmit(event);" onfocus="clearField(this);">
+				<input type="password" name="password" value="........" class="b5" size="14" onkeyup="checkSubmit(event);" onfocus="clearField(this);">
 				<input type="hidden" name="businessArea" value="F">
 				<input type="hidden" name="webSiteId" value="igi">
 				<input type="hidden" name="language" value="en">
 				<input type="hidden" name="locale" value="en_GB">
 				
-				<p class="btnGo"><a href="/content/sites/igi/en_GB/re_javascript_inactive.html" onclick="return submitLogin(document.forms['frmLogin'])">Go</a></p>
+				<p class="btnGo"><a href="/content/sites/igi/en_GB/re_javascript_inactive.html" onclick="submitLogin(document.frmLogin);return false;">Go</a></p>
 			</form>
 			<div class="spacer">&nbsp;</div>
 		</div>
@@ -129,22 +131,25 @@
 	<div class="tl"><div class="tr"></div>
 		<div class="body">
 			<h3>What's New</h3>
-			<div id="divScroller"></div>
-			<ul id="ulWhatsNew">
-				<!--#whatsnew#-->
-				<li><a href="/content/ne_new_mobile.html"><b>New Mobile Devices</b><p>Mobile Dealing extended: now GPRS, 3G and WiFi! Plus new devices...</p></a></li>
-				<!--#end_whatsnew#--><!--#whatsnew#-->
-				<li><a href="/content/ne_far_east.html"><b>Far Eastern Indices</b><p>We have launched a selection of new stock index bets from South East Asia...</p></a></li>
-				<!--#end_whatsnew#--><!--#whatsnew#-->
-				<li><a href="/content/ne_canada_futures.html"><b>Canada 60 futures</b><p>Speculate on the performance of Canada's top stock index...</p></a></li>
-				<!--#end_whatsnew#--><!--#whatsnew#-->
-				<li><a href="/content/ne_daily_hseng_nikkei.html"><b>Daily Hang Seng &amp; Nikkei</b><p>Two new daily stock index bets...</p></a></li>
-				<!--#end_whatsnew#--><!--#whatsnew#-->
-				<li><a href="/content/ne_fx_ladders.html"><b>Binary FX Ladders</b><p>A new type of binary bet... </p></a></li>
-				<!--#end_whatsnew#--><!--#whatsnew#-->
-				<li><a href="/content/ne_wall_street_reduction.html"><b>Wall Street Narrows</b><p>Wall Street futures now quoted on 8 point spreads... </p></a></li>
-				<!--#end_whatsnew#-->
+			<div id="divScroller" style="display: none;"></div>
+			<ul id="ulWhatsNew" style="display: block;">
+				
+				<li><a href="/content/ne_private_investor_awards.html"><b>An Award-Winning Service!</b><p>'Best Spread Betting Service' at the UK Private Investor Awards 2006... </p></a></li>
+				
+				<li><a href="/content/h_shares.html"><b>H-Shares Index</b><p>Your chance to trade China with our latest index bet...</p></a></li>
+				
+				<li><a href="/content/ne_sa_top40.html"><b>South African Top 40</b><p>Take a view on South African markets with the&nbsp;Top 40 Index...</p></a></li>
+				
+				<li><a href="/content/ne_nifty.html"><b>A Nifty New Bet</b><p>Interested in India? Then try our Nifty Fifty futures...</p></a></li>
+				
+				<li><a href="/content/ne_tecdax.html"><b>TecDAX</b><p>A new index bet on the German technology sector...</p></a></li>
+				
+				<li><a href="/content/ne_spot_fx.html"><b>New Spot FX Spreads</b><p>£/$ and Euro/$ now on 3-point spreads...</p></a></li>
+				
 			</ul>
+			<script type="text/javascript" language="javascript">
+			whatsNew();
+			</script>
 			<p class="btnGo"><a href="/content/ne_index.html">View all</a></p>
 		</div>
 	<div class="bl"><div class="br"></div></div></div>
@@ -170,6 +175,8 @@
 	<li><a href="http://www.binarybet.com/" target="_blank">binarybet.com</a></li>
 	<li><a href="http://www.iggroup.com/" target="_blank">IG Group</a></li>
 </ul>
+
+<p class="aligncenter r20"><a href="/content/ne_private_investor_awards.html"><img src="/content/files/igi_digital_look_award.jpg" width="101" height="133" border="0" alt="The Private Investors Awards 2006 - Best Spread Betting"></a></p>
 
 
 			</td>
