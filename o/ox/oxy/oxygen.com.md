@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oxygen.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223112231id_/http%3A//oxygen.com/basics/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxygen.com privacy policy that was archived on 2006-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060425231133id_/http%3A//oxygen.com/basics/privacy.aspx) for the most accurate reproduction.*
 
 # Oxygen: Privacy Policy
 
