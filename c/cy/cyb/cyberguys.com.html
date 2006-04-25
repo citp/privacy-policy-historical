@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cyberguys.com privacy policy that was archived on 2005-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051219070113id_/http%3A//www.cyberguys.com/templates/privacy.asp%3Fs%3DPR%26ureq%3DY) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cyberguys.com privacy policy that was archived on 2006-04-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060425205245id_/http%3A//www.cyberguys.com/templates/privacy.asp%3Fs%3DPR%26ureq%3DY) for the most accurate reproduction.-->
 
 <html><head>
 <title>Cyberguys.com - Privacy and Security</title>
@@ -7,6 +7,11 @@
 <meta name="copyright" content="© Copyright 2005 Cyberguys ® Inc.">
 <meta name="Author" content="Cyberguys ® Inc. Web Development Team">
 <link rel="STYLESHEET" type="text/css" href="../style_cyberguys.css">
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script>
+	_uacct="UA-103147-1";
+	urchinTracker();
+</script>
 
 <script type="text/javascript" src="../js/DHTMLAPI.js"></script>
 <script type="text/javascript" src="../js/emailform_validation.js"></script>
@@ -24,28 +29,26 @@
 				
 					<td valign="bottom" align="center" width="250">
 						<table cellpadding="2" cellspacing="0" border="0">
-							<form action="http://www.topica.com/f/p.html" method="POST" onsubmit="return validateForm( this, false, true, false, true, 0);" ;=""></form>
-							<input type="hidden" name="lid" value="800075952">
-							<input type="hidden" name="fid" value="800019365">
+						<form name="search_all" action="../templates/SearchAll.asp?s=SA" method="post"></form>
 							<tbody><tr bgcolor="#FFFFFF">
-								<td align="left"><span class="bodycopybold">Exclusive Email Specials</span></td>
+								<td align="left"><span class="bodycopybold">Find Products Now</span></td>
 							</tr>
 							<tr bgcolor="#FFFFFF">
 								<td align="left">
 									<table cellpadding="0" cellspacing="0" border="0">
 										<tbody><tr>
-											<td><input type="text" name="f:31" value="" maxlength="128" alt="email|0" id="Email Address" size="17"><input type="hidden" name="f#31" value="TEXT:Email%20Address"></td>
+											<td><input type="text" name="search" value="" size="25" maxlength="100"></td>
 											<td width="2"><div class="spacer2"></div></td>
-											<td><input type="image" src="../grafx/c_button_wsubscribe.gif" name="submit"></td>
+											<td><input type="image" src="../grafx/c_button_go2.gif" name="Submit" title="Search"></td>
 										</tr>
-										<input type="hidden" name="f:800192878" value="web">
-										<input type="hidden" name="f#800192878" value="TEXT:Source">
-										<input type="hidden" name="f:800192880" value="privacy.asp">
-										<input type="hidden" name="f#800192880" value="TEXT:Referring_URL">
 									</tbody></table>
 								</td>
 							</tr>
-							
+						<input type="hidden" name="capture_script" value="">
+						<input type="hidden" name="capture_dept" value="">
+						<input type="hidden" name="capture_cat" value="">
+						<input type="hidden" name="capture_sub" value="">	
+						
 						</tbody></table>
 					</td>
 				
@@ -90,6 +93,8 @@
 								<td align="center"><a href="http://www.cyberguys.com/templates/searchbargain.asp?s=SB&amp;dept=bar1&amp;search=bar99&amp;child=bar99&amp;rows=6&amp;across=2&amp;sort=new" class="hdr_nav">Outlet Center</a></td>
 								<td width="1" align="center" bgcolor="#FFFFFF"><div class="spacer1"></div></td>
 								<td align="center"><a href="http://www.cyberguys.com/templates/searchproducts.asp?s=SP&amp;dept=tch6&amp;search=&amp;child=&amp;rows=6&amp;across=2&amp;sort=new" class="hdr_nav">New Items</a></td>
+								<td width="1" align="center" bgcolor="#FFFFFF"><div class="spacer1"></div></td>
+								<td align="center"><a href="http://www.cyberguys.com/templates/searchproducts.asp?s=SP&amp;dept=lch43&amp;search=&amp;child=&amp;rows=6&amp;across=2&amp;sort=new" class="hdr_nav">Best Sellers</a></td>
 							</tr>
 						</tbody></table>
 					</td>
@@ -143,43 +148,6 @@
 	<tbody><tr>
 		<td width="140" valign="top" bgcolor="#ECECEC">
 			
-<script>
-function clean(inputText, textToRemove)
-{
-//replace special characters: /\.*+?|()[]{} with escaped characters
- var reDynamic = new RegExp("\/","g");
- textToRemove = textToRemove.replace(reDynamic,"\/");
- textToRemove = textToRemove.replace(/\\/g,"\\");
- textToRemove = textToRemove.replace(/\./g,"\.");     
- textToRemove = textToRemove.replace(/\*/g,"\*");     
- textToRemove = textToRemove.replace(/\+/g,"\+");     
- textToRemove = textToRemove.replace(/\?/g,"\?");     
- textToRemove = textToRemove.replace(/\|/g,"\|");     
- textToRemove = textToRemove.replace(/\(/g,"\(");     
- textToRemove = textToRemove.replace(/\)/g,"\)");     
- textToRemove = textToRemove.replace(/\[/g,"\[");     
- textToRemove = textToRemove.replace(/\]/g,"\]");     
- textToRemove = textToRemove.replace(/\{/g,"\{");     
- textToRemove = textToRemove.replace(/\}/g,"\}");     
- textToRemove = textToRemove.replace(/\#/g,"\#");
- textToRemove = textToRemove.replace(/\</g,"\<");
- textToRemove = textToRemove.replace(/\>/g,"\>"); 
- textToRemove = textToRemove.replace(/\!/g,"\!");
- textToRemove = textToRemove.replace(/\@/g,"\@");
- textToRemove = textToRemove.replace(/\%/g,"\%");
- textToRemove = textToRemove.replace(/\-/g,"\-");
- textToRemove = textToRemove.replace(/\&/g,"\&"); 
- textToRemove = textToRemove.replace(/\;/g,"\;");
- textToRemove = textToRemove.replace(/\$/g,"\$");  
- textToRemove = textToRemove.replace(/\./g,"\.");  
- textToRemove = textToRemove.replace(/\^/g,"\^");
- textToRemove = textToRemove.replace(/\_/g,"\_"); 
- //create dynamic regexp
- reDynamic = new RegExp(textToRemove,"gi");
- return inputText.replace(reDynamic,"");
-}
-
-</script>
 <!--Quick Search-->
 <table width="139" cellpadding="0" cellspacing="0" border="0">
 	<tbody><tr>
@@ -188,7 +156,7 @@ function clean(inputText, textToRemove)
 	<tr>
 		<td align="left"><span class="channelheading">&nbsp;Search</span></td>
 	</tr>
-	<form name="search_all" action="../templates/SearchAll.asp?s=SA" method="post" onclick="document.search_all.search.value = clean(clean(document.search_all.search.value,'</script>'),'<script>')"></form>
+	<form name="search_all" action="../templates/SearchAll.asp?s=SA" method="post"></form>
 
 	<tr>
 		<td colspan="2" align="center">
@@ -783,6 +751,39 @@ function clean(inputText, textToRemove)
 	</tr>	
 </tbody></table>
 <!--Cart Status-->
+<!--Free Catalog-->
+<table width="139" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td height="5" valign="top"><div class="spacer5"></div></td>
+	</tr>
+	<tr>
+		<td height="5" valign="top" align="left"><span class="channelheading">&nbsp;Exclusive</span></td>
+	</tr>
+	<tr>
+		<td height="5" valign="top" align="left"><span class="channelheading">&nbsp;Email Specials</span></td>
+	</tr>
+	<tr>
+		<form action="http://www.topica.com/f/p.html" method="POST" onsubmit="return validateForm( this, false, true, false, true, 0);" ;=""></form>
+    <input type="hidden" name="lid" value="800075952">
+    <input type="hidden" name="fid" value="800019365">
+		<td align="center" valign="top">
+			<table cellpadding="0" cellspacing="2" border="0">
+				<tbody><tr>
+					<td><input type="text" name="f:31" value="" maxlength="128" alt="email|0" id="Email Address" size="18"><input type="hidden" name="f#31" value="TEXT:Email%20Address"></td>
+				</tr>
+        <input type="hidden" name="f:800192878" value="web">
+				<input type="hidden" name="f#800192878" value="TEXT:Source">
+				<input type="hidden" name="f:800192880" value="privacy.asp">
+				<input type="hidden" name="f#800192880" value="TEXT:Referring_URL">
+				<tr>
+					<td align="left"><input type="image" src="../grafx/c_button_gsubscribe.gif" border="0"></td>
+				</tr>
+			</tbody></table>
+		</td>
+	
+	</tr>
+</tbody></table>
+<!--Free Catalog-->
 <!--Quick Search-->
 <table width="139" cellpadding="0" cellspacing="0" border="0">
 
@@ -837,15 +838,6 @@ function clean(inputText, textToRemove)
 	<tr>
 		<td valign="top" width="5" align="left"><div class="spacer5"></div></td>
 		<td align="right" valign="top"><span class="topsellers_off">1.&nbsp;</span></td>
-		<td valign="top" align="left"><a href="http://www.cyberguys.com/templates/searchdetail.asp?T1=134+1370" class="topsellers">CD Carousel Plus</a></td>
-		<td align="right" valign="top" width="5"><div class="spacer5"></div></td>
-	</tr>
-	<tr>
-		<td height="5" colspan="4" valign="top" align="left"><div class="spacer5"></div></td>
-	</tr>
-	<tr>
-		<td valign="top" width="5" align="left"><div class="spacer5"></div></td>
-		<td height="5" align="right" valign="top"><span class="topsellers_off">2.&nbsp;</span></td>
 		<td valign="top" align="left"><a href="http://www.cyberguys.com/templates/searchdetail.asp?T1=121+2570" class="topsellers">Y-splitter Liberator Power Extension</a></td>
 		<td align="right" valign="top" width="5"><div class="spacer5"></div></td>
 	</tr>
@@ -854,8 +846,17 @@ function clean(inputText, textToRemove)
 	</tr>
 	<tr>
 		<td valign="top" width="5" align="left"><div class="spacer5"></div></td>
-		<td height="5" align="right" valign="top"><span class="topsellers_off">3.&nbsp;</span></td>
+		<td height="5" align="right" valign="top"><span class="topsellers_off">2.&nbsp;</span></td>
 		<td valign="top" align="left"><a href="http://www.cyberguys.com/templates/searchdetail.asp?T1=121+2550" class="topsellers">Power Strip Liberator, 14in</a></td>
+		<td align="right" valign="top" width="5"><div class="spacer5"></div></td>
+	</tr>
+	<tr>
+		<td height="5" colspan="4" valign="top" align="left"><div class="spacer5"></div></td>
+	</tr>
+	<tr>
+		<td valign="top" width="5" align="left"><div class="spacer5"></div></td>
+		<td height="5" align="right" valign="top"><span class="topsellers_off">3.&nbsp;</span></td>
+		<td valign="top" align="left"><a href="http://www.cyberguys.com/templates/searchdetail.asp?T1=134+1450" class="topsellers">CD Carousel Plus Black</a></td>
 		<td align="right" valign="top" width="5"><div class="spacer5"></div></td>
 	</tr>
 	<tr>
@@ -873,7 +874,7 @@ function clean(inputText, textToRemove)
 	<tr>
 		<td valign="top" width="5" align="left"><div class="spacer5"></div></td>
 		<td height="5" align="right" valign="top"><span class="topsellers_off">5.&nbsp;</span></td>
-		<td valign="top" align="left"><a href="http://www.cyberguys.com/templates/searchdetail.asp?T1=142+1010" class="topsellers">38DB Wireless Cellular Amp. Kit</a></td>
+		<td valign="top" align="left"><a href="http://www.cyberguys.com/templates/searchdetail.asp?T1=204+0696" class="topsellers">Plusdeck2c Pc Cassette Deck, Tape To MP3</a></td>
 		<td align="right" valign="top" width="5"><div class="spacer5"></div></td>
 	</tr>
 	<tr>
@@ -882,7 +883,7 @@ function clean(inputText, textToRemove)
 	<tr>
 		<td valign="top" width="5" align="left"><div class="spacer5"></div></td>
 		<td height="5" align="right" valign="top"><span class="topsellers_off">6.&nbsp;</span></td>
-		<td valign="top" align="left"><a href="http://www.cyberguys.com/templates/searchdetail.asp?T1=142+0130" class="topsellers">Wireless Remote Presentation Mouse</a></td>
+		<td valign="top" align="left"><a href="http://www.cyberguys.com/templates/searchdetail.asp?T1=142+0393" class="topsellers">Aa Mini Maglite LED Conversion Kit</a></td>
 		<td align="right" valign="top" width="5"><div class="spacer5"></div></td>
 	</tr>
 	<tr>
@@ -891,7 +892,7 @@ function clean(inputText, textToRemove)
 	<tr>
 		<td valign="top" width="5" align="left"><div class="spacer5"></div></td>
 		<td height="5" align="right" valign="top"><span class="topsellers_off">7.&nbsp;</span></td>
-		<td valign="top" align="left"><a href="http://www.cyberguys.com/templates/searchdetail.asp?T1=121+2510" class="topsellers">Power Strip Liberator Plus</a></td>
+		<td valign="top" align="left"><a href="http://www.cyberguys.com/templates/searchdetail.asp?T1=112+0240" class="topsellers">Kill A Watt, Electricity Usage Monitor</a></td>
 		<td align="right" valign="top" width="5"><div class="spacer5"></div></td>
 	</tr>
 	<tr>
@@ -900,7 +901,7 @@ function clean(inputText, textToRemove)
 	<tr>
 		<td valign="top" width="5" align="left"><div class="spacer5"></div></td>
 		<td height="5" align="right" valign="top"><span class="topsellers_off">8.&nbsp;</span></td>
-		<td valign="top" align="left"><a href="http://www.cyberguys.com/templates/searchdetail.asp?T1=202+5275" class="topsellers">100base-t Line Splitters</a></td>
+		<td valign="top" align="left"><a href="http://www.cyberguys.com/templates/searchdetail.asp?T1=128+2255" class="topsellers">HD15 SVGA, M/m, Low Loss, 50ft</a></td>
 		<td align="right" valign="top" width="5"><div class="spacer5"></div></td>
 	</tr>
 	<tr>
@@ -909,7 +910,7 @@ function clean(inputText, textToRemove)
 	<tr>
 		<td valign="top" width="5" align="left"><div class="spacer5"></div></td>
 		<td height="5" align="right" valign="top"><span class="topsellers_off">9.&nbsp;</span></td>
-		<td valign="top" align="left"><a href="http://www.cyberguys.com/templates/searchdetail.asp?T1=131+0858" class="topsellers">Easy Ide, USB 2.0 To Ide Ata Converter</a></td>
+		<td valign="top" align="left"><a href="http://www.cyberguys.com/templates/searchdetail.asp?T1=120+5612" class="topsellers">Digital Wifi Detector, Canary Wireless</a></td>
 		<td align="right" valign="top" width="5"><div class="spacer5"></div></td>
 	</tr>
 	<tr>
@@ -918,44 +919,11 @@ function clean(inputText, textToRemove)
 	<tr>
 		<td valign="top" width="5" align="left"><div class="spacer5"></div></td>
 		<td height="5" align="right" valign="top"><span class="topsellers_off">10.&nbsp;</span></td>
-		<td valign="top" align="left"><a href="http://www.cyberguys.com/templates/searchdetail.asp?T1=190+0225" class="topsellers">Economical Headphones</a></td>
+		<td valign="top" align="left"><a href="http://www.cyberguys.com/templates/searchdetail.asp?T1=112+0465" class="topsellers">Power Station Organizer</a></td>
 		<td align="right" valign="top" width="5"><div class="spacer5"></div></td>
 	</tr>
 </tbody></table>
 
-<!--Free Catalog-->
-<table width="139" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-		<td height="5" valign="top"><div class="spacer5"></div></td>
-	</tr>
-	<tr>
-		<td height="5" valign="top" align="left"><span class="channelheading">&nbsp;Exclusive</span></td>
-	</tr>
-	<tr>
-		<td height="5" valign="top" align="left"><span class="channelheading">&nbsp;Email Specials</span></td>
-	</tr>
-	<tr>
-		<form action="http://www.topica.com/f/p.html" method="POST" onsubmit="return validateForm( this, false, true, false, true, 0);" ;=""></form>
-    <input type="hidden" name="lid" value="800075952">
-    <input type="hidden" name="fid" value="800019365">
-		<td align="center" valign="top">
-			<table cellpadding="0" cellspacing="2" border="0">
-				<tbody><tr>
-					<td><input type="text" name="f:31" value="" maxlength="128" alt="email|0" id="Email Address" size="18"><input type="hidden" name="f#31" value="TEXT:Email%20Address"></td>
-				</tr>
-        <input type="hidden" name="f:800192878" value="web">
-				<input type="hidden" name="f#800192878" value="TEXT:Source">
-				<input type="hidden" name="f:800192880" value="privacy.asp">
-				<input type="hidden" name="f#800192880" value="TEXT:Referring_URL">
-				<tr>
-					<td align="left"><input type="image" src="../grafx/c_button_gsubscribe.gif" border="0"></td>
-				</tr>
-			</tbody></table>
-		</td>
-	
-	</tr>
-</tbody></table>
-<!--Free Catalog-->
 <table width="139" cellspacing="0" cellpadding="0" border="0">
 	<tbody><tr>
 		<td align="center" valign="top"><a href="https://www.cyberguys.com/templates/catalog_request.asp?CountryCodeName=USAUnited%20States&amp;PromptSet=Alternative&amp;step=1&amp;ureq=Y"><img src="../grafx/c_order_catalog.gif" width="139" border="0"></a></td>
@@ -1052,7 +1020,7 @@ function clean(inputText, textToRemove)
 				<tbody><tr>
 					<td align="center"><table cellspacing="0" cellpadding="2" border="0">
 							<tbody><tr>
-								<td valign="top"><span class="bodycopy">©&nbsp;Copyright 2005 Cyberguys&nbsp;Inc.&nbsp;® &nbsp; 1-800-892-1010&nbsp;</span></td>
+								<td valign="top"><span class="bodycopy">©&nbsp;Copyright 2006 Cyberguys&nbsp;Inc.&nbsp;® &nbsp; 1-800-892-1010&nbsp;</span></td>
 							
 							</tr>
 						</tbody></table>
