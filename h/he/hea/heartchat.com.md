@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heartchat.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219161607id_/http%3A//216.150.29.120/cgi-bin/portal/helpdesk/privacy.pl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartchat.com privacy policy that was archived on 2006-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060425103113id_/http%3A//216.150.29.120/cgi-bin/portal/helpdesk/privacy.pl) for the most accurate reproduction.*
 
 # HeartChat - Your Dream Cyber Chat
 
