@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberguys.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219070113id_/http%3A//www.cyberguys.com/templates/privacy.asp%3Fs%3DPR%26ureq%3DY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberguys.com privacy policy that was archived on 2006-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060425205245id_/http%3A//www.cyberguys.com/templates/privacy.asp%3Fs%3DPR%26ureq%3DY) for the most accurate reproduction.*
 
 # Cyberguys.com - Privacy and Security
 
@@ -55,6 +55,9 @@ We take privacy and security matters very seriously and it is important to us th
   
 |   
 ---  
+ Exclusive  
+ Email Specials  
+---  
  Quick Order  
  Enter Item Below  
 |  | Qty |  | Item # |  |   
@@ -62,16 +65,13 @@ We take privacy and security matters very seriously and it is important to us th
 |  |  |  |  |   
 ---  
  Top 10 Sellers  
-| 1.  | [CD Carousel Plus](http://www.cyberguys.com/templates/searchdetail.asp?T1=134+1370) |   
-| 2.  | [Y-splitter Liberator Power Extension](http://www.cyberguys.com/templates/searchdetail.asp?T1=121+2570) |   
-| 3.  | [Power Strip Liberator, 14in](http://www.cyberguys.com/templates/searchdetail.asp?T1=121+2550) |   
+| 1.  | [Y-splitter Liberator Power Extension](http://www.cyberguys.com/templates/searchdetail.asp?T1=121+2570) |   
+| 2.  | [Power Strip Liberator, 14in](http://www.cyberguys.com/templates/searchdetail.asp?T1=121+2550) |   
+| 3.  | [CD Carousel Plus Black](http://www.cyberguys.com/templates/searchdetail.asp?T1=134+1450) |   
 | 4.  | [Aluminum Mobile Computing Workstation Cart](http://www.cyberguys.com/templates/searchdetail.asp?T1=111+0375) |   
-| 5.  | [38DB Wireless Cellular Amp. Kit](http://www.cyberguys.com/templates/searchdetail.asp?T1=142+1010) |   
-| 6.  | [Wireless Remote Presentation Mouse](http://www.cyberguys.com/templates/searchdetail.asp?T1=142+0130) |   
-| 7.  | [Power Strip Liberator Plus](http://www.cyberguys.com/templates/searchdetail.asp?T1=121+2510) |   
-| 8.  | [100base-t Line Splitters](http://www.cyberguys.com/templates/searchdetail.asp?T1=202+5275) |   
-| 9.  | [Easy Ide, USB 2.0 To Ide Ata Converter](http://www.cyberguys.com/templates/searchdetail.asp?T1=131+0858) |   
-| 10.  | [Economical Headphones](http://www.cyberguys.com/templates/searchdetail.asp?T1=190+0225) |   
----  
- Exclusive  
- Email Specials
+| 5.  | [Plusdeck2c Pc Cassette Deck, Tape To MP3](http://www.cyberguys.com/templates/searchdetail.asp?T1=204+0696) |   
+| 6.  | [Aa Mini Maglite LED Conversion Kit](http://www.cyberguys.com/templates/searchdetail.asp?T1=142+0393) |   
+| 7.  | [Kill A Watt, Electricity Usage Monitor](http://www.cyberguys.com/templates/searchdetail.asp?T1=112+0240) |   
+| 8.  | [HD15 SVGA, M/m, Low Loss, 50ft](http://www.cyberguys.com/templates/searchdetail.asp?T1=128+2255) |   
+| 9.  | [Digital Wifi Detector, Canary Wireless](http://www.cyberguys.com/templates/searchdetail.asp?T1=120+5612) |   
+| 10.  | [Power Station Organizer](http://www.cyberguys.com/templates/searchdetail.asp?T1=112+0465) | 
