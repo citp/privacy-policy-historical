@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the managemyhome.com privacy policy that was archived on 2005-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051018073751id_/http%3A//www.managemyhome.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the managemyhome.com privacy policy that was archived on 2006-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060425170003id_/http%3A//www.managemyhome.com/privacy.htm) for the most accurate reproduction.*
 
 # Manage My Home
 
@@ -32,4 +32,4 @@ Your personally identifiable information is password protected to prevent others
 
 **Unsubscribe**
 
-At any time, you can request that we stop sending you further information from Manage My Home by simply [unsubscribing](https://web.archive.org/web/20051018073751id_/http%3A//www.managemyhome.com/template/emailLogin.asp?loginAction=unsubscribe). 
+At any time, you can request that we stop sending you further information from Manage My Home by simply [unsubscribing](https://web.archive.org/web/20060425170003id_/http%3A//www.managemyhome.com/template/emailLogin.asp?loginAction=unsubscribe). 
