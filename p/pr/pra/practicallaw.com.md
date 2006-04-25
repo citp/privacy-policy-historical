@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the practicallaw.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207022114id_/http%3A//www.practicallaw.com/jsp/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the practicallaw.com privacy policy that was archived on 2006-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060425192805id_/http%3A//www.practicallaw.com/jsp/privacy.jsp) for the most accurate reproduction.*
 
-# practicallaw.com: Privacy policy
+# practicallaw.com: Privacy policy - v1.7.6 on app-3
 
 PLC Publications is committed to preserving its members' privacy. Please read the following privacy policy to understand how we use and protect the information that you provide us.
 
