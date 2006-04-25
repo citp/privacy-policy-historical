@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lnt.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212113905id_/http%3A//www.lnt.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav3_privacy_txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lnt.com privacy policy that was archived on 2006-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060425035047id_/http%3A//www.lnt.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav3_privacy_txt) for the most accurate reproduction.*
 
 # Linens 'n Things Helpdesk
 
