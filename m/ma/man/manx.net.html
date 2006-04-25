@@ -1,0 +1,458 @@
+<!--The following is the downloaded HTML source of the manx.net privacy policy that was archived on 2006-04-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060425145358id_/http%3A//manx.net/default.asp%3Fid%3D10008) for the most accurate reproduction.-->
+
+<html><head>
+<title>www.manx.net</title>
+<link rel="stylesheet" type="text/css" href="css/manxtelecomsite.css">
+
+<script language="Javascript" type="text/javascript">
+	
+	var iClick = 0
+	
+	function required(strForm) {
+		var bolNulls = new Boolean(true);
+		var a = 0; 
+		var strFormName = new String(strForm);
+		var strExempt = new Array('issuenumber','startdate','initial', 'adman_website');
+			  
+		while(eval('a <= document.' + strFormName + '.elements.length - 2') && bolNulls == true) {
+			if( eval('document.' + strFormName + '.elements[a].value == ""') && contains(strExempt, eval('document.' + strFormName + '.elements[a].name')) == false ) {
+				bolNulls = false;
+				eval('document.' + strFormName + '.elements[a].focus()');
+				iClick++;
+			}
+			a++;
+		}
+		if( iClick > 0 && bolNulls == false ) {
+			 alert( "Sorry, but you cannot submit an improperly filled out form.\n\nThe cursor has been put in the field that requires information." );
+			 }
+		else {
+		}
+			
+		delete strExempt;
+		delete strFormName;
+		return bolNulls;
+	 }
+	
+	 function contains(strArrayToLookIn, strItemToFind) {
+		var strTestArray = new Array();
+		var strItem = new String(strItemToFind); 
+		var bolFound = new Boolean(false); 
+		
+		strTestArray = strArrayToLookIn;
+		a = 0;
+
+		while( a <= strTestArray.length && bolFound == false ) {
+			if( strTestArray[a] == strItem ) {
+				bolFound = true;
+			}
+			a++;
+		}
+		
+		delete strTestArray;
+		delete strItem;
+		return bolFound;
+	 }
+	 
+	 function submitonce(theform){
+		var a = 0;
+		if (document.all||document.getElementById){
+			while(eval('a <= document.' + theform + '.elements.length - 2')) {
+				var tempobj = document.theform.elements[a]
+				if(tempobj.type.toLowerCase()=="submit"||tempobj.type.toLowerCase()=="reset")
+					tempobj.disabled = true
+				}
+				a++;
+			}		
+		}
+</script>
+	
+<script language="javascript">
+
+   function ShowHide(strRowID, strCellID)
+   {
+    var objRow = document.getElementById(strRowID);
+    var objElements=document.getElementsByName(strRowID);
+    var iCount=objElements.length;
+    
+	for (i=0;i<iCount;i++)
+	
+	{
+    if (objElements.item(i).style.display=="none")
+     {
+      //objRow.style.display = "block";
+      objElements.item(i).style.display="block";
+      var objCell = document.getElementById(strCellID);
+      objCell.innerText = "-";
+     }
+    else
+     {
+	  //objRow.style.display = "none";
+	  objElements.item(i).style.display="none";
+      var objCell = document.getElementById(strCellID);
+      objCell.innerText = "+";
+     };
+   }
+   }
+
+</script>
+
+<script language="javascript">
+
+	var win = null;
+	function NewWindow(mypage,myname,w,h,scroll)
+	{
+		LeftPosition = (screen.width) ? (screen.width-w)/2 : 0;
+		TopPosition = (screen.height) ? (screen.height-h)/2 : 0;
+		settings = 'height='+h+',width='+w+',top='+TopPosition+',left='+LeftPosition+',scrollbars='+scroll+',noresizable'
+		win = window.open(mypage,myname,settings)
+	}
+
+</script>
+
+<script language="JavaScript" src="http://newsimg.bbc.co.uk/syndication/avconsole/js/popup.js"></script>
+
+<script language="javascript">
+<!--
+function launchConsoleNews(){
+var
+consoleWindow=window.open("http://news.bbc.co.uk/broadband/news_console.stm?source=manx",
+"consoleWindow","width=671,height=373 toolbar=0,location=0,menubar=0,scrollbars=0,status=0");
+consoleWindow.focus();
+}
+
+function launchConsoleCeleb(){
+var
+consoleWindow=window.open("http://www.bbc.co.uk/go/syn/manx/celebdaq/-/broadband/celebdaq/popup.shtml",
+"consoleWindow","width=676,height=510 toolbar=0,location=0,menubar=0,scrollbars=0,status=0");
+consoleWindow.focus();
+}
+
+function launchConsoleSport(){
+var
+consoleWindow=window.open("http://news.bbc.co.uk/broadband/sport_console.stm?source=manx",
+"consoleWindow","width=671,height=373 toolbar=0,location=0,menubar=0,scrollbars=0,status=0");
+consoleWindow.focus();
+}
+
+function launchConsoleWeather(){
+var
+consoleWindow=window.open("http://www.bbc.co.uk/weather/broadband/weather_console.stm?source=manx",
+"consoleWindow","width=671,height=373 toolbar=0,location=0,menubar=0,scrollbars=0,status=0");
+consoleWindow.focus();
+}
+
+//-->
+</script>
+
+</head><body><map name="login_register_small">
+	<area alt="Sign up for Manxnet Mail" shape="rect" coords="13,23,68,38" href="http://signup.manx.net/">
+</map>
+
+
+
+<script language="javascript">window.name="manxnet";</script>
+
+
+	<center xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<table cellspacing="0" cellpadding="0" width="750" border="0">
+<tbody><tr>
+<td bgcolor="#FFFFFF" width="750">
+<table cellspacing="0" cellpadding="0" width="750" align="center" border="0">
+<tbody><tr>
+<td><a target="_blank" href="linkredir.asp?id=92"><img border="0" width="468" height="60" src="../images/banners/ManxBanner-9a-gif.gif"></a><img height="1" src="images/spacer.gif" width="33"></td><td valign="bottom" align="right"><a href=""><img src="images/manxnet_logo.jpg" border="0"></a></td>
+</tr>
+</tbody></table>
+<div align="center">
+<center>
+<table cellspacing="0" cellpadding="0" width="750" align="center" border="0">
+<tbody><tr>
+<td rowspan="2" bgcolor="#FFFFFF">
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td class="mainmenuinactive"><img border="0" src="images/folder_edge_trans_spacer.gif" width="10" height="21"></td>
+<td class="mainmenuinactive"><a href="default.asp?id=1"><font class="mainmenutext">Home</font></a></td><td class="mainmenuinactive"><img border="0" src="images/folder_edge_trans.gif" width="17" height="21"></td>
+<td class="mainmenuinactive"><img border="0" src="images/folder_edge_trans_spacer.gif" width="10" height="21"></td>
+<td class="mainmenuinactive"><a href="default.asp?id=18"><font class="mainmenutext">News &amp; Weather</font></a></td><td class="mainmenuinactive"><img border="0" src="images/folder_edge_trans.gif" width="17" height="21"></td>
+<td class="mainmenuinactive"><img border="0" src="images/folder_edge_trans_spacer.gif" width="10" height="21"></td>
+<td class="mainmenuinactive"><a href="default.asp?id=4"><font class="mainmenutext">Classifieds</font></a></td><td class="mainmenuinactive"><img border="0" src="images/folder_edge_trans.gif" width="17" height="21"></td>
+<td class="mainmenuinactive"><img border="0" src="images/folder_edge_trans_spacer.gif" width="10" height="21"></td>
+<td class="mainmenuinactive"><a href="default.asp?id=9"><font class="mainmenutext">Web Directory</font></a></td><td class="mainmenuinactive"><img border="0" src="images/folder_edge_trans.gif" width="17" height="21"></td>
+<td class="mainmenuinactive"><img border="0" src="images/folder_edge_trans_spacer.gif" width="10" height="21"></td>
+<td class="mainmenuinactive"><a href="default.asp?id=6"><font class="mainmenutext">What's On</font></a></td><td class="mainmenuinactive"><img border="0" src="images/folder_edge_trans.gif" width="17" height="21"></td>
+<td class="mainmenuactive"><img border="0" src="images/folder_edge_trans_spacer.gif" width="10" height="21"></td>
+<td class="mainmenuactive"><a href="default.asp?id=2"><font class="mainmenutext">Internet Services</font></a></td><td class="mainmenuactive"><img border="0" src="images/folder_edge_trans.gif" width="17" height="21"></td>
+<td class="mainmenuinactive"><img border="0" src="images/folder_edge_trans_spacer.gif" width="10" height="21"></td>
+<td class="mainmenuinactive"><a href="default.asp?id=7"><font class="mainmenutext">Support</font></a></td><td class="mainmenuinactive"><img border="0" src="images/folder_edge_trans.gif" width="17" height="21"></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+<table cellspacing="0" cellpadding="0" width="750" align="center" border="0">
+<tbody><tr>
+<td class="mainmenuactive"><img src="images/spacer.gif"></td>
+</tr>
+</tbody></table>
+<table background="images/background_header_manxnet2.gif" cellspacing="0" cellpadding="0" width="750" border="0" bgcolor="#CC3300" style="border-collapse: collapse" bordercolor="#111111">
+<tbody><tr background="images/background_header_manxnet2.gif">
+<td background="images/background_header_manxnet2.gif" class="mainmenuinactive">
+<table cellspacing="0" cellpadding="0" border="0" style="border-collapse: collapse" bordercolor="#111111">
+<tbody><tr>
+<td align="middle" valign="bottom" width="82" rowspan="4"><img src="images/login_register_small.gif" usemap="#login_register_small" border="0" width="69" height="39"><img height="7" src="images/spacer.gif" width="1"></td>
+<td width="78"><img height="7" src="images/spacer.gif" width="1"></td>
+<td valign="bottom" width="613"><img height="7" src="images/spacer.gif" width="1"></td>
+</tr>
+<tr>
+<td width="78"><img src="images/username.gif" width="59" height="10"></td>
+<td valign="bottom" width="613"><img src="images/password.gif" width="114" height="10"></td>
+</tr>
+<form action="http://webmail.manx.net/manxnetmail.cgi" method="post" name="loginform"></form>
+<tr>
+<td width="160"><input class="login" maxlength="50" size="12" name="User"><font class="mailtext"> @manx.net</font></td>
+<td width="161"><input class="login" type="password" maxlength="50" size="12" name="Pass"><input border="0" src="images/go_button.gif" name="login" type="image"></td>
+<td align="right" valign="top"><img src="images/spacer.gif" width="10" height="1"></td>
+</tr><input type="hidden" name="cmd" value="login"><input type="hidden" name="tcode" value="||tcode||"><input type="hidden" name="force_connection" value="true"><input type="hidden" name="frames" value="true">
+<tr>
+<td width="78"><img height="7" src="images/spacer.gif" width="1"></td>
+<td width="613"><img height="7" src="images/spacer.gif" width="1"></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+<table cellspacing="0" cellpadding="0" width="750" align="center" border="0">
+<tbody><tr>
+<td class="mainmenuactive"><img src="images/spacer.gif"></td>
+</tr>
+</tbody></table>
+</center>
+</div>
+</td>
+</tr>
+<tr>
+<td width="750">
+<table cellspacing="0" cellpadding="0" width="750" border="0">
+<tbody><tr>
+<td valign="top" width="194">
+<table cellspacing="0" cellpadding="0" width="194" border="0">
+<tbody><tr>
+<td width="40"><img height="1" src="images/spacer.gif" width="40"></td>
+<td width="154"><img height="1" src="images/spacer.gif" width="154"></td>
+</tr>
+<tr>
+<td colspan="2">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111">
+<tbody><tr>
+<td bgcolor="#FFFFFF" colspan="3"><img src="images/folder_edge_trans_spacer.gif" border="0" width="10" height="10"></td>
+</tr>
+<tr>
+<td class="mainmenuactive"><img src="images/folder_edge_trans_spacer.gif" border="0" width="11" height="21"></td>
+<td class="mainmenuactive" width="150"><font class="leftmenuheader">MANXNET FAST FIND</font></td>
+<td class="mainmenuactive" align="right"><img border="0" src="images/tab_end.gif" width="34" height="21"></td>
+</tr>
+<tr>
+<td class="menuactive" colspan="3"><img height="5" src="images/spacer.gif" width="154"></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<form name="quicklinks"></form>
+<td colspan="2" align="center" class="menuactive"><select onchange="self.location = document.quicklinks.quickfind.options[document.quicklinks.quickfind.selectedIndex].value" class="quickfind" size="1" name="quickfind"><option value="default.asp?id=10008" selected="">[Choose from list]</option>
+<option value="default.asp?id=7009">Advanced</option><option value="default.asp?id=19">Advertising Options</option><option value="default.asp?id=54">Bandwidth Speed Test</option><option value="default.asp?id=7011">Contact Us</option><option value="default.asp?id=7012">Contact Us</option><option value="default.asp?id=7008">Costs &amp; Ordering</option><option value="default.asp?id=7010">Costs &amp; Ordering</option><option value="default.asp?id=53">General Troubleshooting</option><option value="default.asp?id=7">How to Contact Us</option><option value="default.asp?id=18">Manx News &amp; Sport</option><option value="default.asp?id=17">Manx Weather</option><option value="default.asp?id=22">Manxnet Broadband</option><option value="default.asp?id=10">Manxnet Click </option><option value="default.asp?id=57">Manxnet Direct </option><option value="default.asp?id=10000">Manxnet E-biz Hosting</option><option value="default.asp?id=11">Manxnet Freedom </option><option value="default.asp?id=90">Manxnet Homepages</option><option value="default.asp?id=24">Manxnet Mail</option><option value="default.asp?id=87">Manxnet Mail Anti Spam</option><option value="default.asp?id=25">Manxnet Mail Plus</option><option value="default.asp?id=100">Manxnet Service Status</option><option value="default.asp?id=29">Manxnet Traveller</option><option value="default.asp?id=83">Mobile Internet (WAP)</option><option value="default.asp?id=88">Online Virus Scanner</option><option value="default.asp?id=7007">Premier &amp; Managed</option></select></td>
+
+</tr>
+<tr>
+<td class="menuactive" colspan="2">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber2">
+<tbody><tr>
+<td width="50%"><img border="0" src="images/tab_end_bottom_left.gif" width="34" height="7"></td>
+<td align="right" width="50%"><img border="0" src="images/tab_end_bottom.gif" width="34" height="7"></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<td width="40"><img height="1" src="images/spacer.gif" width="40"></td>
+<td width="154"><img height="1" src="images/spacer.gif" width="154"></td>
+</tr>
+<tr>
+<td colspan="2">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111">
+<tbody><tr>
+<td bgcolor="#FFFFFF" colspan="3"><img src="images/folder_edge_trans_spacer.gif" border="0" width="10" height="10"></td>
+</tr>
+<tr>
+<td class="mainmenuactive"><img src="images/folder_edge_trans_spacer.gif" border="0" width="11" height="21"></td>
+<td class="mainmenuactive" width="150"><font class="leftmenuheader"><span style="text-transform: uppercase">Internet Services</span></font></td>
+<td class="mainmenuactive" align="right"><img border="0" src="images/tab_end.gif" width="34" height="21"></td>
+</tr>
+<tr>
+<td class="menuactive" colspan="3"><img height="5" src="images/spacer.gif" width="154"></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<td valign="top" class="menuactive"><img src="images/arrow_rig.gif" border="0"></td>
+<td class="menuactive" valign="top" align="left"><a href="default.asp?id=10"><font class="leftsubmenulinks">Manxnet Click </font></a></td>
+</tr>
+<tr>
+<td valign="top" class="menuactive"><img src="images/arrow_rig.gif" border="0"></td>
+<td class="menuactive" valign="top" align="left"><a href="default.asp?id=11"><font class="leftsubmenulinks">Manxnet Freedom </font></a></td>
+</tr>
+<tr>
+<td valign="top" class="menuactive"><img src="images/arrow_rig.gif" border="0"></td>
+<td class="menuactive" valign="top" align="left"><a href="default.asp?id=22"><font class="leftsubmenulinks">Manxnet Broadband</font></a></td>
+</tr>
+<tr>
+<td valign="top" class="menuactive"><img src="images/arrow_rig.gif" border="0"></td>
+<td class="menuactive" valign="top" align="left"><a href="default.asp?id=7013"><font class="leftsubmenulinks">Manxnet Broadband for Business</font></a></td>
+</tr>
+<tr>
+<td valign="top" class="menuactive"><img src="images/arrow_rig.gif" border="0"></td>
+<td class="menuactive" valign="top" align="left"><a href="default.asp?id=24"><font class="leftsubmenulinks">Manxnet Mail</font></a></td>
+</tr>
+<tr>
+<td valign="top" class="menuactive"><img src="images/arrow_rig.gif" border="0"></td>
+<td class="menuactive" valign="top" align="left"><a href="default.asp?id=87"><font class="leftsubmenulinks">Manxnet Mail Anti Spam</font></a></td>
+</tr>
+<tr>
+<td valign="top" class="menuactive"><img src="images/arrow_rig.gif" border="0"></td>
+<td class="menuactive" valign="top" align="left"><a href="default.asp?id=25"><font class="leftsubmenulinks">Manxnet Mail Plus</font></a></td>
+</tr>
+<tr>
+<td valign="top" class="menuactive"><img src="images/arrow_rig.gif" border="0"></td>
+<td class="menuactive" valign="top" align="left"><a href="default.asp?id=29"><font class="leftsubmenulinks">Manxnet Traveller</font></a></td>
+</tr>
+<tr>
+<td valign="top" class="menuactive"><img src="images/arrow_rig.gif" border="0"></td>
+<td class="menuactive" valign="top" align="left"><a href="default.asp?id=57"><font class="leftsubmenulinks">Manxnet Direct </font></a></td>
+</tr>
+<tr>
+<td valign="top" class="menuactive"><img src="images/arrow_rig.gif" border="0"></td>
+<td class="menuactive" valign="top" align="left"><a href="default.asp?id=10000"><font class="leftsubmenulinks">Manxnet E-biz Hosting</font></a></td>
+</tr>
+<tr>
+<td valign="top" class="menuactive"><img src="images/arrow_rig.gif" border="0"></td>
+<td class="menuactive" valign="top" align="left"><a href="default.asp?id=90"><font class="leftsubmenulinks">Manxnet Homepages</font></a></td>
+</tr>
+<tr>
+<td valign="top" class="menuactive"><img src="images/arrow_rig.gif" border="0"></td>
+<td class="menuactive" valign="top" align="left"><a href="default.asp?id=83"><font class="leftsubmenulinks">Mobile Internet (WAP)</font></a></td>
+</tr>
+<tr>
+<td class="menuactive" colspan="2">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber2">
+<tbody><tr>
+<td width="50%"><img border="0" src="images/tab_end_bottom_left.gif" width="34" height="7"></td>
+<td align="right" width="50%"><img border="0" src="images/tab_end_bottom.gif" width="34" height="7"></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<td width="40"><img height="1" src="images/spacer.gif" width="40"></td>
+<td width="154"><img height="1" src="images/spacer.gif" width="154"></td>
+</tr>
+<tr>
+<td colspan="2">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111">
+<tbody><tr>
+<td bgcolor="#FFFFFF" colspan="3"><img src="images/folder_edge_trans_spacer.gif" border="0" width="10" height="10"></td>
+</tr>
+<tr>
+<td class="mainmenuactive"><img src="images/folder_edge_trans_spacer.gif" border="0" width="11" height="21"></td>
+<td class="mainmenuactive" width="150"><font class="leftmenuheader">MANXNET SITE SEARCH</font></td>
+<td class="mainmenuactive" align="right"><img border="0" src="images/tab_end.gif" width="34" height="21"></td>
+</tr>
+<tr>
+<td class="menuactive" colspan="3"><img height="5" src="images/spacer.gif" width="154"></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<form name="sitesearch"></form>
+<td colspan="2" align="left" class="menuactive"><img src="images/spacer.gif" width="12" alt=""><input size="25" type="text" name="searchtext" class="sitesearch">&nbsp;<input type="submit" class="sitesearch" value="Go" name="search"></td><input type="hidden" name="id" value="1000">
+</tr>
+<tr>
+<td class="menuactive" colspan="2">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber2">
+<tbody><tr>
+<td width="50%"><img border="0" src="images/tab_end_bottom_left.gif" width="34" height="7"></td>
+<td align="right" width="50%"><img border="0" src="images/tab_end_bottom.gif" width="34" height="7"></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center"><img src="images/spacer.gif" width="1" height="15"></td>
+</tr>
+<tr>
+<td colspan="2" align="center"><a target="_blank" href="linkredir.asp?id=101"><img border="0" width="121" height="75" alt="Inca Gems" src="../images/banners/Inca-121x75-v1.gif"></a></td>
+</tr>
+<tr>
+<td colspan="2" align="center"><img src="images/spacer.gif" width="1" height="10"></td>
+</tr>
+<tr>
+<td colspan="2" align="center"><a target="_blank" href="linkredir.asp?id=103"><img border="0" width="121" height="75" src="../images/banners/bets_4_u.gif"></a></td>
+</tr>
+</tbody></table>
+</td>
+<td valign="top" width="556">
+<table height="100" cellspacing="0" cellpadding="0" width="556" border="0">
+<tbody><tr>
+<td width="556" colspan="8" height="10"><img height="10" src="images/spacer.gif" width="556"></td>
+</tr>
+<tr>
+<td width="1"><img src="images/spacer.gif" width="1" height="1"></td>
+<td width="29"><img height="1" src="images/spacer.gif" width="10"></td>
+<td valign="top" width="530">
+<table border="0" width="530">
+<tbody><tr>
+<td colspan="3" width="530">
+<p><font class="sectionheader">Manxnet Privacy Policy Statement</font></p>
+<p><font class="sectionbody"></font></p><p><font class="sectionbody">Manx Telecom will not pass your personal details to anyone outside of Manx Telecom. Any information given by Manx Telecom to companies felt by Manx Telecom to be reputable will only be "aggregated" statistics. This means that none of the data includes information that would enable you or any other individual to be identified.</font></p><p></p>
+<p><font class="sectionbody"></font></p><p><font class="sectionbody">Should Manx Telecom's policy ever change, we will inform you and ask your permission once again before sharing any information.</font></p><p></p>
+<p><a name=""><font class="sectionsubheader">How does Manx Telecom protect your data? </font></a></p>
+<p><font class="sectionbody"></font></p><p><font class="sectionbody">When you register details with us, for example by opening a Manxnet email address or ordering an E-Biz product, your details are stored on secure servers and software appropriate for the service ordered or requested.</font></p><p></p>
+<p><font class="sectionbody"></font></p><p><font class="sectionbody">Over and above what Manx Telecom do to safeguard your privacy and security, there are a number of things you can do to protect yourself from Internet fraud:</font></p><p></p>
+<p><font class="sectionbody"></font></p><ul><font class="sectionbody"> <li> <p>Choose a password you can remember but others will not guess, and if you do write it down, keep it somewhere safe and secure.</p> </li><li> <p>When you have finished your session on Manxnet Webmail, make sure that you prevent your details being seen by anyone that you do not wish to see them.&nbsp; So, if you have logged into this area of Manxnet, remember to log off.&nbsp; Clear any 'cache' so there is no record of your session left on screen - both Firefox and Internet Explorer let you do this.&nbsp; We also recommend you then close your browser so any history of the session is cleared.&nbsp; As an extra precaution, your session on Manxnet Webmail will 'time out' if you have not used the site for 30 minutes.</p></li></font></ul><p></p>
+<p><a name=""><font class="sectionsubheader">Email addresses</font></a></p>
+<p><font class="sectionbody"></font></p><p><font class="sectionbody">At Manx Telecom we respect the privacy of personal e-mail accounts and we store your e-mail addresses just as securely as other personal information on Manx-Telecom.com, Pronto.net and Manx.net.&nbsp; We will not send you unwanted e-mail messages or junk mail, and your details will not be passed to ANY organisation beyond Manx Telecom without your explicit permission.</font></p><p></p>
+<p><font class="sectionbody"></font></p><p><font class="sectionbody">However, we will use email to send you messages about outstanding orders, faults and service issues.&nbsp; We may also use email to keep you up to date with news about our current services, as well as anything you show an interest in, either online, or through other contact with Manx Telecom.&nbsp; We see this as an integral part of signing up for Manxnet mail services.</font></p><p></p>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+<table cellspacing="0" cellpadding="0" width="750" align="center" bgcolor="#cccccc" border="0">
+<tbody><tr height="15">
+<td width="750" class="mainmenuactive" colspan="6" style="background-color: #FFFFFF"><img height="15" src="images/spacer.gif" width="750"></td>
+</tr>
+<tr height="31">
+<td width="14" class="mainmenuactive"><img height="31" src="images/spacer.gif" width="14"></td>
+<td width="180" class="mainmenuactive"><a href="default.asp?id=10008"><font class="copyright">Privacy Policy Statement</font></a></td>
+<td width="1" bgcolor="#ffffff"><img height="31" src="images/spacer.gif" width="1"></td>
+<td width="28" class="mainmenuinactive">&nbsp;</td>
+<td width="533" class="mainmenuinactive">
+<p align="right">
+<font class="copyright">© 2006 Manx Telecom Limited. All rights reserved</font>
+</p>
+</td>
+<td width="24" class="mainmenuinactive"><img height="31" src="images/spacer.gif" width="14"></td>
+</tr>
+</tbody></table>
+</center>
+
+
+</body></html>
