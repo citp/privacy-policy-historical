@@ -1,382 +1,52 @@
-<!--The following is the downloaded HTML source of the lifetimefitness.com privacy policy that was archived on 2005-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051231091029id_/http%3A//www.lifetimefitness.com/security_and_privacy/index.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lifetimefitness.com privacy policy that was archived on 2006-04-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060425054001id_/http%3A//www.lifetimefitness.com/security_and_privacy/index.cfm) for the most accurate reproduction.-->
 
 <html><head>
-<meta http-equiv="pragma" content="no-cache">
-<meta http-equiv="expires" content="-1">
-
 	<title>Life Time Fitness</title>
-
-<script language="javascript">
-<!-- Begin
-
-// var that is set to true in the body onload tag. templates that include this file may reference this variable inorder to run javascript onload.
-var isDocLoaded = false;
-var FilePath = "";
-
-// Browser sniffing variables
-var ns4 = document.layers ? 1 : 0;
-var ie4 = document.all ? 1 : 0;
-var ns6 = document.getElementById && !document.all ? 1 : 0;
-
-function openWindow(winURL, winName, winWidth, winHeight, winX, winY, boolScrollBars) 
-{
-	if (!winURL) winURL = '/';
-	if (!winName) winName = 'newWin';
-	if (!winWidth) winWidth = 100;
-	if (!winHeight) winHeight = 100;
-	if (!winX) winX = 0;
-	if (!winY) winY = 0;		
-	if (!boolScrollBars) boolScrollBars = 1;
-      
-	newWinObject = window.open(winURL, winName,'toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=' + boolScrollBars + ',resizable=1,width=' + winWidth + ',height=' + winHeight + ',left=' +  winX + ',top=' + winY);
-	
-	if (newWinObject.blur)
-	{ newWinObject.focus(); }
-	
-	return newWinObject;
-}
-
-// function to change an image's (or multiple images') source
-function changeImages() {
-	if (document.images) {
-		for (var i=0; i<changeImages.arguments.length; i+=2) {
-			var argArray = arguments[i].split('.');
-			var objName;
-			if ((document.layers && argArray.length > 1) || argArray.length <= 1) {
-				objName = eval("document." + arguments[i]);
-			} else {
-				objName = eval("document." + argArray[argArray.length - 1]);
-			}
-			objName.src = eval(changeImages.arguments[i+1] + ".src");
-		}
-	}
-}
-
-// dhtml layer variables for cross-browser compatability
-if (document.layers) {	// Netscape 4
-	doc = "document[";
-	conDoc = "document";
-	sty = "]";
-	htm = ".document";
-} else if (document.getElementById) {	// NS 6 or IE 5 and up (W3C compliant browsers).
-	doc = "document.getElementById(";
-	conDoc = "document.getElementById(";
-	sty = ").style";
-	htm = ".document";
-} else if (document.all) {	// IE 4
-	doc = "document.all[";
-	conDoc = "document.all[";
-	sty = "].style";
-	htm = "";
-}
-
-// vars for dropdown menus
-var navTimer = null;
-var currNav = null;
-var navHideDelay = 500;
-var isNavLoaded = false;
-
-// build dropdown objects (run onload)
-function buildNav() {
-	navAboutUsObj = eval(doc + '"navAboutUs"' + sty);
-	navMembershipObj = eval(doc + '"navMembership"' + sty);
-	navFitnessCentersObj = eval(doc + '"navFitnessCenters"' + sty);
-	navActivitiesObj = eval(doc + '"navActivities"' + sty);
-	navServicesObj = eval(doc + '"navServices"' + sty);
-	navHealthInfoObj = eval(doc + '"navHealthInfo"' + sty);
-	navShopObj = eval(doc + '"navShop"' + sty);
-	navContactObj = eval(doc + '"navContact"' + sty);
-	isNavLoaded = true;
-}
-
-// shows a dropdown menu, hides any other dropdown that is currently showing
-function showNav(which) {
-	if (isNavLoaded) {
-		if ((currNav != null) && (currNav != which)) {
-			eval("nav" + currNav + "Obj.visibility = 'hidden'");
-		}
-		currNav = which;
-		eval("nav" + currNav + "Obj.visibility = 'visible'");
-		clearTimeout(navTimer);
-		navTimer = null;
-	}
-}
-// hides a dropdown menu on a time delay
-function hideNav(which) {
-	if (isNavLoaded) {
-		navTimer = setTimeout("nav" + which + "Obj.visibility = 'hidden'", navHideDelay);
-	}
-}
-
-if (document.images) {
-	nav_aboutus_on = new Image();
-	nav_aboutus_on.src = FilePath + "/images/nav_images/about_us_on.gif";
-	nav_aboutus_off = new Image();
-	nav_aboutus_off.src = FilePath + "/images/nav_images/about_us.gif";
-	
-	nav_membership_on = new Image();
-	nav_membership_on.src = FilePath + "/images/nav_images/membership_on.gif";
-	nav_membership_off = new Image();
-	nav_membership_off.src = FilePath + "/images/nav_images/membership.gif";
-	
-	nav_fitnesscenters_on = new Image();
-	nav_fitnesscenters_on.src = FilePath + "/images/nav_images/fitness_centers_on.gif";
-	nav_fitnesscenters_off = new Image();
-	nav_fitnesscenters_off.src = FilePath + "/images/nav_images/fitness_centers.gif";
-	
-	nav_activities_on = new Image();
-	nav_activities_on.src = FilePath + "/images/nav_images/activities_on.gif";
-	nav_activities_off = new Image();
-	nav_activities_off.src = FilePath + "/images/nav_images/activities.gif";
-	
-	nav_services_on = new Image();
-	nav_services_on.src = FilePath + "/images/nav_images/services_on.gif";
-	nav_services_off = new Image();
-	nav_services_off.src = FilePath + "/images/nav_images/services.gif";
-	
-	nav_healthinfo_on = new Image();
-	nav_healthinfo_on.src = FilePath + "/images/nav_images/health_info_on.gif";
-	nav_healthinfo_off = new Image();
-	nav_healthinfo_off.src = FilePath + "/images/nav_images/health_info.gif";
-	
-	nav_shop_on = new Image();
-	nav_shop_on.src = FilePath + "/images/nav_images/shop_on.gif";
-	nav_shop_off = new Image();
-	nav_shop_off.src = FilePath + "/images/nav_images/shop.gif";
-	
-	nav_contactus_on = new Image();
-	nav_contactus_on.src = FilePath + "/images/nav_images/contact_us_on.gif";
-	nav_contactus_off = new Image();
-	nav_contactus_off.src = FilePath + "/images/nav_images/contact_us.gif";
-	
-}
-
-// End -->
-</script>
-
-
-<script language="javascript" src="/wrappers/blink.js"></script>	
-	
-		<script language="Javascript" src="/wrappers/fade2.js"></script>	
-		<link rel="stylesheet" href="/wrappers/main.css" type="text/css">
-	
-
-
+	<link rel="stylesheet" href="/wrappers/main.css" type="text/css">
+	<script language="Javascript" src="/wrappers/main.js"></script>
+	<meta http-equiv="Description" name="Description" content="Life Time Fitness offers you the most complete health and fitness experience with quality and value you can feel great about -- whether you want to maintain your general health, nurture your family's fitness or develop your competitive edge.">
+	<meta http-equiv="Keywords" name="Keywords" content="Lifetime Fitness, Life Time Fitness, lifetimefitness, lifetime, Life Time, lifetime fitness center, fitness center, health club, fitness club, fitness, gym, fitness gym, triathlon, experience life, corporate wellness, lifetime fitness triathlon, life time fitness triathlon, lifetime triathlon, life time triathlon, nutritional products">
+	<meta http-equiv="pragma" content="no-cache">
+	<meta http-equiv="expires" content="-1">	
 </head>
-
-
-
-
-
-
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-		
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-			
-			
-			
-				
-		
-		
-		
-		
-			
-		
-		
-		
-			
-
 <body bgcolor="#ffffff" marginheight="0" marginwidth="0" leftmargin="0" topmargin="0" link="#ff9900" vlink="#ff9900" onload="buildNav(); isDocLoaded=true;">
-
-
-
 <div id="navAboutUs" style="position:absolute; z-index:100; left:0px; top: 80px; visibility:hidden;">
 	<table width="150" border="0" cellspacing="0" cellpadding="2" bgcolor="#333333">
 	<tbody><tr>
 		<td>
-			
-
-
-
-
-
-
-
-
-
-
-
-	
-
-	
-		
-	
-
-
-
-
-	  <font class="text2"><a class="link3" href="http://www.lifetimefitness.com/about_us/" onmouseover="showNav('AboutUs'); changeImages('nav_aboutus','nav_aboutus_on');" onmouseout="hideNav('AboutUs'); changeImages('nav_aboutus','nav_aboutus_off');" target="_top">Overview</a></font>
-			<div class="frameworkNavDiv"><img src="/images/blank.gif" height="1" width="1"></div>
-			  <font class="text2"><a class="link3" href="http://investor.lifetimefitness.com/phoenix.zhtml?c=136737&amp;p=irol-IRHome" onmouseover="showNav('AboutUs'); changeImages('nav_aboutus','nav_aboutus_on');" onmouseout="hideNav('AboutUs'); changeImages('nav_aboutus','nav_aboutus_off');" target="_top">Investor Relations</a></font>
-			<div class="frameworkNavDiv"><img src="/images/blank.gif" height="1" width="1"></div>
-			  <font class="text2"><a class="link3" href="http://investor.lifetimefitness.com/phoenix.zhtml?c=136737&amp;p=irol-news05" onmouseover="showNav('AboutUs'); changeImages('nav_aboutus','nav_aboutus_on');" onmouseout="hideNav('AboutUs'); changeImages('nav_aboutus','nav_aboutus_off');" target="_top">Press Room</a></font>
-			<div class="frameworkNavDiv"><img src="/images/blank.gif" height="1" width="1"></div>
-			  <font class="text2"><a class="link3" href="http://www.lifetimefitness.com/media_kits/" onmouseover="showNav('AboutUs'); changeImages('nav_aboutus','nav_aboutus_on');" onmouseout="hideNav('AboutUs'); changeImages('nav_aboutus','nav_aboutus_off');" target="_top">Media Opportunities</a></font>
-			<div class="frameworkNavDiv"><img src="/images/blank.gif" height="1" width="1"></div>
-			  <font class="text2"><a class="link3" href="http://www.lifetimefitness.com/careers/" onmouseover="showNav('AboutUs'); changeImages('nav_aboutus','nav_aboutus_on');" onmouseout="hideNav('AboutUs'); changeImages('nav_aboutus','nav_aboutus_off');" target="_top">Careers</a></font>
-
-
+			  <font class="text2"><a class="link3" href="http://www.lifetimefitness.com/about_us/" onmouseover="showNav('AboutUs'); changeImages('nav_aboutus','nav_aboutus_on');" onmouseout="hideNav('AboutUs'); changeImages('nav_aboutus','nav_aboutus_off');" target="_top">Overview</a></font>			<div class="frameworkNavDiv"><img src="/images/blank.gif" height="1" width="1"></div>			  <font class="text2"><a class="link3" href="http://investor.lifetimefitness.com/phoenix.zhtml?c=136737&amp;p=irol-IRHome" onmouseover="showNav('AboutUs'); changeImages('nav_aboutus','nav_aboutus_on');" onmouseout="hideNav('AboutUs'); changeImages('nav_aboutus','nav_aboutus_off');" target="_top">Investor Relations</a></font>			<div class="frameworkNavDiv"><img src="/images/blank.gif" height="1" width="1"></div>			  <font class="text2"><a class="link3" href="http://investor.lifetimefitness.com/phoenix.zhtml?c=136737&amp;p=irol-news&amp;nyo=0" onmouseover="showNav('AboutUs'); changeImages('nav_aboutus','nav_aboutus_on');" onmouseout="hideNav('AboutUs'); changeImages('nav_aboutus','nav_aboutus_off');" target="_top">Press Room</a></font>			<div class="frameworkNavDiv"><img src="/images/blank.gif" height="1" width="1"></div>			  <font class="text2"><a class="link3" href="http://www.lifetimefitness.com/media_kits/" onmouseover="showNav('AboutUs'); changeImages('nav_aboutus','nav_aboutus_on');" onmouseout="hideNav('AboutUs'); changeImages('nav_aboutus','nav_aboutus_off');" target="_top">Media Opportunities</a></font>			<div class="frameworkNavDiv"><img src="/images/blank.gif" height="1" width="1"></div>			  <font class="text2"><a class="link3" href="http://www.lifetimefitness.com/careers/" onmouseover="showNav('AboutUs'); changeImages('nav_aboutus','nav_aboutus_on');" onmouseout="hideNav('AboutUs'); changeImages('nav_aboutus','nav_aboutus_off');" target="_top">Careers</a></font> 
 		</td>	
 	</tr>
 	</tbody></table>
 </div>
-
-
-
 
 <div id="navMembership" style="position:absolute; z-index:100; left: 91px; top: 80px; visibility:hidden;">
 	<table width="160" border="0" cellspacing="0" cellpadding="2" bgcolor="#333333">
 	<tbody><tr>
 		<td>
-			
-
-
-
-
-
-
-
-
-
-
-
-	
-
-	
-		
-	
-
-
-
-
-	  <font class="text2"><a class="link3" href="http://www.lifetimefitness.com/join_us/membership/" onmouseover="showNav('Membership'); changeImages('nav_membership','nav_membership_on');" onmouseout="hideNav('Membership'); changeImages('nav_membership','nav_membership_off');" target="_top">Membership Information</a></font>
-			<br>
-			  <img src="/images/main/dropdown_bullet.gif" align="middle"><font class="text2"><a class="link3" href="http://www.lifetimefitness.com/join_us/membership/membership_types/" onmouseover="showNav('Membership'); changeImages('nav_membership','nav_membership_on');" onmouseout="hideNav('Membership'); changeImages('nav_membership','nav_membership_off');" target="_top">Membership Types</a></font>
-			<br>
-			  <img src="/images/main/dropdown_bullet.gif" align="middle"><font class="text2"><a class="link3" href="http://www.lifetimefitness.com/join_us/membership/become_member/" onmouseover="showNav('Membership'); changeImages('nav_membership','nav_membership_on');" onmouseout="hideNav('Membership'); changeImages('nav_membership','nav_membership_off');" target="_top">Become a Member</a></font>
-			<br>
-			  <img src="/images/main/dropdown_bullet.gif" align="middle"><font class="text2"><a class="link3" href="http://www.lifetimefitness.com/join_us/membership/manage_membership/" onmouseover="showNav('Membership'); changeImages('nav_membership','nav_membership_on');" onmouseout="hideNav('Membership'); changeImages('nav_membership','nav_membership_off');" target="_top">FAQ</a></font>
-			<div class="frameworkNavDiv"><img src="/images/blank.gif" height="1" width="1"></div>
-			  <font class="text2"><a class="link3" href="http://www.lifetimefitness.com/sports/" onmouseover="showNav('Membership'); changeImages('nav_membership','nav_membership_on');" onmouseout="hideNav('Membership'); changeImages('nav_membership','nav_membership_off');" target="_top">Sports Membership</a></font>
-			<div class="frameworkNavDiv"><img src="/images/blank.gif" height="1" width="1"></div>						
-			  <font class="text2"><a class="link3" href="http://www.lifetimefitness.com/corporate_wellness/" onmouseover="showNav('Membership'); changeImages('nav_membership','nav_membership_on');" onmouseout="hideNav('Membership'); changeImages('nav_membership','nav_membership_off');" target="_top">Corporate Wellness</a></font>
-			<div class="frameworkNavDiv"><img src="/images/blank.gif" height="1" width="1"></div>					
-			  <font class="text2"><a class="link3" href="http://www.lifetimefitness.com/member_advantage/" onmouseover="showNav('Membership'); changeImages('nav_membership','nav_membership_on');" onmouseout="hideNav('Membership'); changeImages('nav_membership','nav_membership_off');" target="_top">Member Advantage</a></font>
-
-
+			  <font class="text2"><a class="link3" href="http://www.lifetimefitness.com/join_us/membership/" onmouseover="showNav('Membership'); changeImages('nav_membership','nav_membership_on');" onmouseout="hideNav('Membership'); changeImages('nav_membership','nav_membership_off');" target="_top">Membership Information</a></font>			<br>			  <img src="/images/main/dropdown_bullet.gif" align="middle"><font class="text2"><a class="link3" href="http://www.lifetimefitness.com/join_us/membership/membership_types/" onmouseover="showNav('Membership'); changeImages('nav_membership','nav_membership_on');" onmouseout="hideNav('Membership'); changeImages('nav_membership','nav_membership_off');" target="_top">Membership Types</a></font>			<br>			  <img src="/images/main/dropdown_bullet.gif" align="middle"><font class="text2"><a class="link3" href="http://www.lifetimefitness.com/join_us/membership/become_member/" onmouseover="showNav('Membership'); changeImages('nav_membership','nav_membership_on');" onmouseout="hideNav('Membership'); changeImages('nav_membership','nav_membership_off');" target="_top">Become a Member</a></font>			<br>			  <img src="/images/main/dropdown_bullet.gif" align="middle"><font class="text2"><a class="link3" href="http://www.lifetimefitness.com/join_us/membership/manage_membership/" onmouseover="showNav('Membership'); changeImages('nav_membership','nav_membership_on');" onmouseout="hideNav('Membership'); changeImages('nav_membership','nav_membership_off');" target="_top">FAQ</a></font>			<div class="frameworkNavDiv"><img src="/images/blank.gif" height="1" width="1"></div>			  <font class="text2"><a class="link3" href="http://www.lifetimefitness.com/sports/" onmouseover="showNav('Membership'); changeImages('nav_membership','nav_membership_on');" onmouseout="hideNav('Membership'); changeImages('nav_membership','nav_membership_off');" target="_top">Sports Membership</a></font>			<div class="frameworkNavDiv"><img src="/images/blank.gif" height="1" width="1"></div>									  <font class="text2"><a class="link3" href="http://www.lifetimefitness.com/corporate_wellness/" onmouseover="showNav('Membership'); changeImages('nav_membership','nav_membership_on');" onmouseout="hideNav('Membership'); changeImages('nav_membership','nav_membership_off');" target="_top">Corporate Wellness</a></font>			<div class="frameworkNavDiv"><img src="/images/blank.gif" height="1" width="1"></div>								  <font class="text2"><a class="link3" href="http://www.lifetimefitness.com/member_advantage/" onmouseover="showNav('Membership'); changeImages('nav_membership','nav_membership_on');" onmouseout="hideNav('Membership'); changeImages('nav_membership','nav_membership_off');" target="_top">Member Advantage</a></font> 
 		</td>	
 	</tr>
 	</tbody></table>
 </div>
-
-
-
 
 <div id="navFitnessCenters" style="position:absolute; z-index:100; left: 201px; top: 80px; visibility:hidden;">
 	<table width="150" border="0" cellspacing="0" cellpadding="2" bgcolor="#333333">
 	<tbody><tr>
 		<td>
-			
-
-
-
-
-
-
-
-
-
-
-
-	
-
-	
-		
-	
-
-
-
-
-	  <font class="text2"><a class="link3" href="http://www.lifetimefitness.com/clubs/" onmouseover="showNav('FitnessCenters'); changeImages('nav_fitnesscenters','nav_fitnesscenters_on');" onmouseout="hideNav('FitnessCenters'); changeImages('nav_fitnesscenters','nav_fitnesscenters_off');" target="_top">Find a Fitness Center</a></font>
-			<div class="frameworkNavDiv"><img src="/images/blank.gif" height="1" width="1"></div>
-			  <font class="text2"><a class="link3" href="http://www.lifetimefitness.com/clubs/index.cfm?strWebAction=new_locations" onmouseover="showNav('FitnessCenters'); changeImages('nav_fitnesscenters','nav_fitnesscenters_on');" onmouseout="hideNav('FitnessCenters'); changeImages('nav_fitnesscenters','nav_fitnesscenters_off');" target="_top">New Locations</a></font>
-
-
+			<font class="text2"><a class="link3" href="http://www.lifetimefitness.com/clubs/index.cfm?strWebAction=virtual_tour" onmouseover="showNav('FitnessCenters'); changeImages('nav_fitnesscenters','nav_fitnesscenters_on');" onmouseout="hideNav('FitnessCenters'); changeImages('nav_fitnesscenters','nav_fitnesscenters_off');" target="_top">Virtual Tour</a></font><div class="frameworkNavDiv"><img src="/images/blank.gif" height="1" width="1"></div><font class="text2"><a class="link3" href="http://www.lifetimefitness.com/clubs/" onmouseover="showNav('FitnessCenters'); changeImages('nav_fitnesscenters','nav_fitnesscenters_on');" onmouseout="hideNav('FitnessCenters'); changeImages('nav_fitnesscenters','nav_fitnesscenters_off');" target="_top">Find a Fitness Center</a></font><div class="frameworkNavDiv"><img src="/images/blank.gif" height="1" width="1"></div><font class="text2"><a class="link3" href="http://www.lifetimefitness.com/clubs/index.cfm?strWebAction=new_locations" onmouseover="showNav('FitnessCenters'); changeImages('nav_fitnesscenters','nav_fitnesscenters_on');" onmouseout="hideNav('FitnessCenters'); changeImages('nav_fitnesscenters','nav_fitnesscenters_off');" target="_top">New Locations</a></font> 
 		</td>	
 	</tr>
 	</tbody></table>
 </div>
-
-
-
 
 <div id="navActivities" style="position:absolute; z-index:100; left: 327px; top: 80px; visibility:hidden;">
 	<table width="120" border="0" cellspacing="0" cellpadding="2" bgcolor="#333333">
 	
 	<tbody><tr>
 		<td>
-			
-
-
-
-
-
-
-
-
-
-
-
-	
-
-	
-		
-	
-
-
-
-
-	  <font class="text2"><a class="link3" href="http://www.lifetimefitness.com/group_fitness/" onmouseover="showNav('Activities'); changeImages('nav_activities','nav_activities_on');" onmouseout="hideNav('Activities'); changeImages('nav_activities','nav_activities_off');" target="_top">Group Fitness</a></font><br>
-			  <img src="/images/main/dropdown_bullet.gif" align="middle"><font class="text2"><a class="link3" href="http://www.lifetimefitness.com/lifestudio/" onmouseover="showNav('Services'); changeImages('nav_services','nav_services_on');" onmouseout="hideNav('Services'); changeImages('nav_services','nav_services_off');" target="_top">LifeStudio</a></font>
-			<div class="frameworkNavDiv"><img src="/images/blank.gif" height="1" width="1"></div>
-			
-			
-			  <font class="text2"><a class="link3" href="http://www.lifetimefitness.com/activities/" onmouseover="showNav('Activities'); changeImages('nav_activities','nav_activities_on');" onmouseout="hideNav('Activities'); changeImages('nav_activities','nav_activities_off');" target="_top">Member Activities</a></font>
-			<div class="frameworkNavDiv"><img src="/images/blank.gif" height="1" width="1"></div>		
-			  <font class="text2"><a class="link3" href="http://www.lifetimefitness.com/events/athletic_events/" onmouseover="showNav('Activities'); changeImages('nav_activities','nav_activities_on');" onmouseout="hideNav('Activities'); changeImages('nav_activities','nav_activities_off');" target="_top">Athletic Events</a></font>
-			<div class="frameworkNavDiv"><img src="/images/blank.gif" height="1" width="1"></div>			
-			  <font class="text2"><a class="link3" href="http://www.lifetimefitness.com/activities/running_club/" onmouseover="showNav('Activities'); changeImages('nav_activities','nav_activities_on');" onmouseout="hideNav('Activities'); changeImages('nav_activities','nav_activities_off');" target="_top">Running Club</a></font>
-
-
+			  <font class="text2"><a class="link3" href="http://www.lifetimefitness.com/group_fitness/" onmouseover="showNav('Activities'); changeImages('nav_activities','nav_activities_on');" onmouseout="hideNav('Activities'); changeImages('nav_activities','nav_activities_off');" target="_top">Group Fitness</a></font><br>			  <img src="/images/main/dropdown_bullet.gif" align="middle"><font class="text2"><a class="link3" href="http://www.lifetimefitness.com/lifestudio/" onmouseover="showNav('Activities'); changeImages('nav_activities','nav_activities_on');" onmouseout="hideNav('Activities'); changeImages('nav_services','nav_services_off');" target="_top">LifeStudio</a></font>			<div class="frameworkNavDiv"><img src="/images/blank.gif" height="1" width="1"></div>									  <font class="text2"><a class="link3" href="http://www.lifetimefitness.com/activities/" onmouseover="showNav('Activities'); changeImages('nav_activities','nav_activities_on');" onmouseout="hideNav('Activities'); changeImages('nav_activities','nav_activities_off');" target="_top">Member Activities</a></font>			<div class="frameworkNavDiv"><img src="/images/blank.gif" height="1" width="1"></div>					  <font class="text2"><a class="link3" href="http://www.lifetimefitness.com/events/athletic_events/" onmouseover="showNav('Activities'); changeImages('nav_activities','nav_activities_on');" onmouseout="hideNav('Activities'); changeImages('nav_activities','nav_activities_off');" target="_top">Athletic Events</a></font>			<div class="frameworkNavDiv"><img src="/images/blank.gif" height="1" width="1"></div>						  <font class="text2"><a class="link3" href="http://www.lifetimefitness.com/activities/running_club/" onmouseover="showNav('Activities'); changeImages('nav_activities','nav_activities_on');" onmouseout="hideNav('Activities'); changeImages('nav_activities','nav_activities_off');" target="_top">Running Club</a></font> 
 		</td>	
 	</tr>
 	</tbody></table>
@@ -388,168 +58,37 @@ if (document.images) {
 	<table width="180" border="0" cellspacing="0" cellpadding="2" bgcolor="#333333">
 	<tbody><tr>
 		<td>
-			
-
-
-
-
-
-
-
-
-
-
-
-	
-
-	
-		
-	
-
-
-
-
-	<font class="text2"><a class="link3" href="http://www.lifetimefitness.com/personal_training/" onmouseover="showNav('Services'); changeImages('nav_services','nav_services_on');" onmouseout="hideNav('Services'); changeImages('nav_services','nav_services_off');" target="_top">Personal Training</a></font>
-			<br>
-			  <img src="/images/main/dropdown_bullet.gif" align="middle"><font class="text2"><a class="link3" href="http://www.lifetimefitness.com/team/" onmouseover="showNav('Services'); changeImages('nav_services','nav_services_on');" onmouseout="hideNav('Services'); changeImages('nav_services','nav_services_off');" target="_top">T.E.A.M. Weight Loss</a></font>
-			<div class="frameworkNavDiv"><img src="/images/blank.gif" height="1" width="1"></div>	
-			  <font class="text2"><a class="link3" href="http://www.lifetimefitness.com/child_center/" onmouseover="showNav('Services'); changeImages('nav_services','nav_services_on');" onmouseout="hideNav('Services'); changeImages('nav_services','nav_services_off');" target="_top">Child Center</a></font>
-			<div class="frameworkNavDiv"><img src="/images/blank.gif" height="1" width="1"></div>	
-			  <font class="text2"><a class="link3" href="http://www.lifetimefitness.com/lifespa/" onmouseover="showNav('Services'); changeImages('nav_services','nav_services_on');" onmouseout="hideNav('Services'); changeImages('nav_services','nav_services_off');" target="_top">LifeSpa &amp; Salon</a></font>
-			<div class="frameworkNavDiv"><img src="/images/blank.gif" height="1" width="1"></div>	
-			  <font class="text2"><a class="link3" href="http://www.lifetimefitness.com/lifecafe/" onmouseover="showNav('Services'); changeImages('nav_services','nav_services_on');" onmouseout="hideNav('Services'); changeImages('nav_services','nav_services_off');" target="_top">LifeCafe &amp; Nutrition Center</a></font>
-			<div class="frameworkNavDiv"><img src="/images/blank.gif" height="1" width="1"></div>	
-			  <font class="text2"><a class="link3" href="http://www.in2nutrition.com/lifetimefitness/" onmouseover="showNav('Services'); changeImages('nav_services','nav_services_on');" onmouseout="hideNav('Services'); changeImages('nav_services','nav_services_off');" target="_blank">Meal Planning</a></font>
-
-
+			<font class="text2"><a class="link3" href="http://www.lifetimefitness.com/personal_training/" onmouseover="showNav('Services'); changeImages('nav_services','nav_services_on');" onmouseout="hideNav('Services'); changeImages('nav_services','nav_services_off');" target="_top">Personal Training</a></font>			<br>			  <img src="/images/main/dropdown_bullet.gif" align="middle"><font class="text2"><a class="link3" href="http://www.lifetimefitness.com/team/" onmouseover="showNav('Services'); changeImages('nav_services','nav_services_on');" onmouseout="hideNav('Services'); changeImages('nav_services','nav_services_off');" target="_top">T.E.A.M. Weight Loss</a></font>			<div class="frameworkNavDiv"><img src="/images/blank.gif" height="1" width="1"></div>				  <font class="text2"><a class="link3" href="http://www.lifetimefitness.com/child_center/" onmouseover="showNav('Services'); changeImages('nav_services','nav_services_on');" onmouseout="hideNav('Services'); changeImages('nav_services','nav_services_off');" target="_top">Child Center</a></font>			<div class="frameworkNavDiv"><img src="/images/blank.gif" height="1" width="1"></div>				  <font class="text2"><a class="link3" href="http://www.lifetimefitness.com/lifespa/" onmouseover="showNav('Services'); changeImages('nav_services','nav_services_on');" onmouseout="hideNav('Services'); changeImages('nav_services','nav_services_off');" target="_top">LifeSpa &amp; Salon</a></font>			<div class="frameworkNavDiv"><img src="/images/blank.gif" height="1" width="1"></div>				  <font class="text2"><a class="link3" href="http://www.lifetimefitness.com/lifecafe/" onmouseover="showNav('Services'); changeImages('nav_services','nav_services_on');" onmouseout="hideNav('Services'); changeImages('nav_services','nav_services_off');" target="_top">LifeCafe &amp; Nutrition Center</a></font>			<div class="frameworkNavDiv"><img src="/images/blank.gif" height="1" width="1"></div>				  <font class="text2"><a class="link3" href="http://www.in2nutrition.com/lifetimefitness/" onmouseover="showNav('Services'); changeImages('nav_services','nav_services_on');" onmouseout="hideNav('Services'); changeImages('nav_services','nav_services_off');" target="_blank">Meal Planning</a></font> 
 		</td>	
 	</tr>
 	</tbody></table>
 </div>
-
-
-
 
 <div id="navHealthInfo" style="position:absolute; z-index:100; left: 499px; top: 80px; visibility:hidden;">
 	<table width="160" border="0" cellspacing="0" cellpadding="2" bgcolor="#333333">
 	<tbody><tr>
 		<td>
-			
-
-
-
-
-
-
-
-
-
-
-
-	
-
-	
-		
-	
-
-
-
-
-	<font class="text2"><a class="link3" href="http://www.lifetimefitness.com/health_info/" onmouseover="showNav('HealthInfo'); changeImages('nav_healthinfo','nav_healthinfo_on');" onmouseout="hideNav('HealthInfo'); changeImages('nav_healthinfo','nav_healthinfo_off');" target="_top">Health Information</a></font>
-<!--- 
-<br>
-<img src="/images/main/dropdown_bullet.gif" align="middle"><font class="text2"><a class="link3" href="http://www.lifetimefitness.com/health_info/index.cfm?strWebAction=health_news" onMouseOver="showNav('HealthInfo'); changeImages('nav_healthinfo','nav_healthinfo_on');" onMouseOut="hideNav('HealthInfo'); changeImages('nav_healthinfo','nav_healthinfo_off');" target="_top">Health News</a></font>
---->
-<br>
-<img src="/images/main/dropdown_bullet.gif" align="middle"><font class="text2"><a class="link3" href="http://www.lifetimefitness.com/health_info/index.cfm?strWebAction=health_tips" onmouseover="showNav('HealthInfo'); changeImages('nav_healthinfo','nav_healthinfo_on');" onmouseout="hideNav('HealthInfo'); changeImages('nav_healthinfo','nav_healthinfo_off');" target="_top">Health Tips</a></font>
-<br>			
-<img src="/images/main/dropdown_bullet.gif" align="middle"><font class="text2"><a class="link3" href="http://www.lifetimefitness.com/health_info/index.cfm?strWebAction=fit_facts" onmouseover="showNav('HealthInfo'); changeImages('nav_healthinfo','nav_healthinfo_on');" onmouseout="hideNav('HealthInfo'); changeImages('nav_healthinfo','nav_healthinfo_off');" target="_top">Fit Facts</a></font>
-<br>
-<img src="/images/main/dropdown_bullet.gif" align="middle"><font class="text2"><a class="link3" href="http://www.lifetimefitness.com/health_info/index.cfm?strWebAction=ask_etrainer" onmouseover="showNav('HealthInfo'); changeImages('nav_healthinfo','nav_healthinfo_on');" onmouseout="hideNav('HealthInfo'); changeImages('nav_healthinfo','nav_healthinfo_off');" target="_top">Ask the eTrainer</a></font>
-<br>			
-<img src="/images/main/dropdown_bullet.gif" align="middle"><font class="text2"><a class="link3" href="http://www.lifetimefitness.com/health_info/index.cfm?strWebAction=edibles" onmouseover="showNav('HealthInfo'); changeImages('nav_healthinfo','nav_healthinfo_on');" onmouseout="hideNav('HealthInfo'); changeImages('nav_healthinfo','nav_healthinfo_off');" target="_top">Edibles</a></font>
-<br>
-<img src="/images/main/dropdown_bullet.gif" align="middle"><font class="text2"><a class="link3" href="http://www.lifetimefitness.com/health_info/index.cfm?strWebAction=search" onmouseover="showNav('HealthInfo'); changeImages('nav_healthinfo','nav_healthinfo_on');" onmouseout="hideNav('HealthInfo'); changeImages('nav_healthinfo','nav_healthinfo_off');" target="_top">Search</a></font>
-<div class="frameworkNavDiv"><img src="/images/blank.gif" height="1" width="1"></div>						
-<font class="text2"><a class="link3" href="http://www.lifetimefitness.com/magazine/" onmouseover="showNav('HealthInfo'); changeImages('nav_healthinfo','nav_healthinfo_on');" onmouseout="hideNav('HealthInfo'); changeImages('nav_healthinfo','nav_healthinfo_off');" target="_top"><em>Experience Life</em> Magazine</a></font>
-
-
+			<font class="text2"><a class="link3" href="http://www.lifetimefitness.com/health_info/" onmouseover="showNav('HealthInfo'); changeImages('nav_healthinfo','nav_healthinfo_on');" onmouseout="hideNav('HealthInfo'); changeImages('nav_healthinfo','nav_healthinfo_off');" target="_top">Health Information</a></font><br><img src="/images/main/dropdown_bullet.gif" align="middle"><font class="text2"><a class="link3" href="http://www.lifetimefitness.com/health_info/index.cfm?strWebAction=health_tips" onmouseover="showNav('HealthInfo'); changeImages('nav_healthinfo','nav_healthinfo_on');" onmouseout="hideNav('HealthInfo'); changeImages('nav_healthinfo','nav_healthinfo_off');" target="_top">Health Tips</a></font><br>			<img src="/images/main/dropdown_bullet.gif" align="middle"><font class="text2"><a class="link3" href="http://www.lifetimefitness.com/health_info/index.cfm?strWebAction=fit_facts" onmouseover="showNav('HealthInfo'); changeImages('nav_healthinfo','nav_healthinfo_on');" onmouseout="hideNav('HealthInfo'); changeImages('nav_healthinfo','nav_healthinfo_off');" target="_top">Fit Facts</a></font><br><img src="/images/main/dropdown_bullet.gif" align="middle"><font class="text2"><a class="link3" href="http://www.lifetimefitness.com/health_info/index.cfm?strWebAction=ask_etrainer" onmouseover="showNav('HealthInfo'); changeImages('nav_healthinfo','nav_healthinfo_on');" onmouseout="hideNav('HealthInfo'); changeImages('nav_healthinfo','nav_healthinfo_off');" target="_top">Ask the eTrainer</a></font><br>			<img src="/images/main/dropdown_bullet.gif" align="middle"><font class="text2"><a class="link3" href="http://www.lifetimefitness.com/health_info/index.cfm?strWebAction=edibles" onmouseover="showNav('HealthInfo'); changeImages('nav_healthinfo','nav_healthinfo_on');" onmouseout="hideNav('HealthInfo'); changeImages('nav_healthinfo','nav_healthinfo_off');" target="_top">Edibles</a></font><br><img src="/images/main/dropdown_bullet.gif" align="middle"><font class="text2"><a class="link3" href="http://www.lifetimefitness.com/health_info/index.cfm?strWebAction=search" onmouseover="showNav('HealthInfo'); changeImages('nav_healthinfo','nav_healthinfo_on');" onmouseout="hideNav('HealthInfo'); changeImages('nav_healthinfo','nav_healthinfo_off');" target="_top">Search</a></font><div class="frameworkNavDiv"><img src="/images/blank.gif" height="1" width="1"></div>						<font class="text2"><a class="link3" href="http://www.lifetimefitness.com/magazine/" onmouseover="showNav('HealthInfo'); changeImages('nav_healthinfo','nav_healthinfo_on');" onmouseout="hideNav('HealthInfo'); changeImages('nav_healthinfo','nav_healthinfo_off');" target="_top"><em>Experience Life</em> Magazine</a></font> 
 		</td>	
 	</tr>
 	</tbody></table>
 </div>
-
-
-
 
 <div id="navShop" style="position:absolute; z-index:100; left: 601px; top: 80px; visibility:hidden;">
 	<table width="155" border="0" cellspacing="0" cellpadding="2" bgcolor="#333333">
 	<tbody><tr>
 		<td>
-			
-
-
-
-
-
-
-
-
-
-
-
-	
-
-	
-		
-	
-
-
-
-
-	  <font class="text2"><a class="link3" href="http://shop.lifetimefitness.com/" onmouseover="showNav('Shop'); changeImages('nav_shop','nav_shop_on');" onmouseout="hideNav('Shop'); changeImages('nav_shop','nav_shop_off');" target="_top">Online Store</a></font>
-			<div class="frameworkNavDiv"><img src="/images/blank.gif" height="1" width="1"></div>	
-			  <font class="text2"><a class="link3" href="https://store.mindframe.com/lifetimestore/autoship/index.cfm?STORE=AS" onmouseover="showNav('Shop'); changeImages('nav_shop','nav_shop_on');" onmouseout="hideNav('Shop'); changeImages('nav_shop','nav_shop_off');" target="_top">AutoShip Program</a></font>
-
-
+			  <font class="text2"><a class="link3" href="http://shop.lifetimefitness.com/" onmouseover="showNav('Shop'); changeImages('nav_shop','nav_shop_on');" onmouseout="hideNav('Shop'); changeImages('nav_shop','nav_shop_off');" target="_top">Online Store</a></font>			<div class="frameworkNavDiv"><img src="/images/blank.gif" height="1" width="1"></div>				  <font class="text2"><a class="link3" href="https://store.mindframe.com/lifetimestore/autoship/index.cfm?STORE=AS" onmouseover="showNav('Shop'); changeImages('nav_shop','nav_shop_on');" onmouseout="hideNav('Shop'); changeImages('nav_shop','nav_shop_off');" target="_top">AutoShip Program</a></font> 
 		</td>	
 	</tr>
 	</tbody></table>
 </div>
 
-
-
-
 <div id="navContact" style="position:absolute; z-index:100; left: 630px; top: 80px; visibility:hidden;">
 	<table width="135" border="0" cellspacing="0" cellpadding="2" bgcolor="#333333">
 	<tbody><tr>
 		<td>
-			
-
-
-
-
-
-
-
-
-
-
-
-	
-
-	
-		
-	
-
-
-
-
-	  <font class="text2"><a class="link3" href="http://www.lifetimefitness.com/contact_us/" onmouseover="showNav('Contact'); changeImages('nav_contactus','nav_contactus_on');" onmouseout="hideNav('Contact'); changeImages('nav_contactus','nav_contactus_off');" target="_top">Department Directory</a></font>
-			<div class="frameworkNavDiv"><img src="/images/blank.gif" height="1" width="1"></div>	
-			  <font class="text2"><a class="link3" href="http://www.lifetimefitness.com/contact_us/index.cfm?strWebAction=corporate_office" onmouseover="showNav('Contact'); changeImages('nav_contactus','nav_contactus_on');" onmouseout="hideNav('Contact'); changeImages('nav_contactus','nav_contactus_off');" target="_top">Corporate Office</a></font>
-
-
+			  <font class="text2"><a class="link3" href="http://www.lifetimefitness.com/contact_us/" onmouseover="showNav('Contact'); changeImages('nav_contactus','nav_contactus_on');" onmouseout="hideNav('Contact'); changeImages('nav_contactus','nav_contactus_off');" target="_top">Department Directory</a></font>			<div class="frameworkNavDiv"><img src="/images/blank.gif" height="1" width="1"></div>				  <font class="text2"><a class="link3" href="http://www.lifetimefitness.com/contact_us/index.cfm?strWebAction=corporate_office" onmouseover="showNav('Contact'); changeImages('nav_contactus','nav_contactus_on');" onmouseout="hideNav('Contact'); changeImages('nav_contactus','nav_contactus_off');" target="_top">Corporate Office</a></font> 
 		</td>	
 	</tr>
 	</tbody></table>
@@ -561,13 +100,12 @@ if (document.images) {
 
 <table bgcolor="#ffffff" border="0" width="780" cellpadding="0" cellspacing="0">
 
-
 	<tbody><tr>
 		<td style="width: 100%; padding-left: 0px;">			
 			<table style="width: 765px; padding-top: 3px; background: url(/images/top_header.jpg);" border="0" cellpadding="0" cellspacing="0">
 			<tbody><tr>
 				<td style="width: 10px;"><img src="/images/blank.gif" height="47" width="10"></td>
-				<td style="width: 98px;"><a href="http://www.lifetimefitness.com/index.cfm"><img src="/images/ltf_logo_white.gif" width="98" height="41" border="0" alt="Life Time Fitness"></a></td>
+				<td style="width: 98px;"><a href="http://www.lifetimefitness.com/"><img src="/images/ltf_logo_white.gif" width="98" height="41" border="0" alt="Life Time Fitness"></a></td>
 				<td style="width: 565px;">&nbsp;</td>
 				<td style="width: 92px;"><img src="/images/blank.gif" border="0" width="92" height="1"></td>
 			</tr>
@@ -606,55 +144,6 @@ if (document.images) {
 		<table width="765" border="0" cellpadding="0" cellspacing="0">
 		<tbody><tr>
 			<td width="100%">			
-	
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-		
-		
-
-
-
-
- 
- 
-
-
-
-	
-	
-		
-		
-				
-		
-	
-
-			
-
-
-
-	
-		
-			
-
-
-
-
-
 
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
@@ -667,33 +156,9 @@ if (document.images) {
 	
 	<td width="165" style="background-color: #666666;" rowspan="3" class="frameworkNavCell">
 	
-		
-
-
-
-
-
- 
-
-
-
 <table style="background-color: #666666;" border="0" cellspacing="0" cellpadding="0" width="100%" class="frameworkNavCell">		
 
-<tbody><tr valign="top"><td>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="/security_and_privacy/"><img src="/images/security_and_privacy/main_nav_image.jpg" border="0"></a></td></tr>
+<tbody><tr valign="top"><td> <a href="/security_and_privacy/"><img src="/images/security_and_privacy/main_nav_image.jpg" border="0"></a></td></tr>
 <tr>
 	
 	<td class="frameworkSpacerCell"><img src="/images/blank.gif" width="1" height="1"></td>
@@ -720,18 +185,9 @@ if (document.images) {
 		
 		
 
-
-
- 
-
-
-
-
-
-
 <table border="0" cellspacing="0" cellpadding="0" width="100%" class="frameworkHeaderCell" background="">
 <tbody><tr style="background-color: #99a9a9;">
-	<td id="frameworkHeaderTitle" style="color: ">
+	<td id="frameworkHeaderTitle" style="color: #99a9a9">
 		
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		
@@ -742,7 +198,6 @@ if (document.images) {
 	<td>&nbsp;</td>	
 </tr>
 </tbody></table>
-
 
 
 	</td>
@@ -760,41 +215,14 @@ if (document.images) {
 
 		
 
-
-
-
-
-
-
-
-
-
-
-
 <table width="100%" cellpadding="0" cellspacing="0" border="0">
 <tbody><tr>
 	
 	<td>
-		
-
-
-
-
-
-
-
-
-
-
-
-
-
-<img src="/images/security_and_privacy/page_titles/privacy_statement.gif" border="0">		
+		<img src="/images/security_and_privacy/page_titles/privacy_statement.gif" border="0">		
 	</td>
 	
-	
 </tr>
-
 
 <tr>
 	<td><img src="/images/blank.gif" height="30" width="1" border="0"></td>
@@ -913,16 +341,8 @@ If you have an enquiry or concern about our privacy policy, please contact
 			<td width="150" bgcolor="#ffffff">
 			
 				
+<br>
 
- 
-
-
-
-	
-	
-
-
-<br>	
 			
 			</td>
 
@@ -935,52 +355,12 @@ If you have an enquiry or concern about our privacy policy, please contact
 	</td>
 </tr>
 </tbody></table>
-
-
 <script language="JavaScript">
 <!-- Begin
-	
- if (navigator.appName == "Microsoft Internet Explorer"){
-	
-	var intScreenHeight = screen.height;
-	var intDocumentHeight = document.getElementById('heightTD').height;
-	var intBrowserHeight = document.body.clientHeight;
-	
-	if (intDocumentHeight > intBrowserHeight) {
-		var setDocumentHeight = (intScreenHeight - 160);				
-	}
-	else {
-		var setDocumentHeight = (intBrowserHeight - 160);
-	}	
-	document.getElementById('heightTD').height = setDocumentHeight;	
-}
-else if (navigator.appName == "Netscape"){
-		
-	var intInnerHeight = window.innerHeight;
-	var intDocumentHeight = document.height;
-
-	if (intInnerHeight > intDocumentHeight) {
-		var setDocumentHeight = (intInnerHeight - 170);		
-	}
-	else {
-		var setDocumentHeight = (intDocumentHeight - 170);
-	}
-	document.getElementById('heightTD').height = setDocumentHeight;	
-}	
-
+// expandPage(cell to expand, ieDifference, netscapeDifference)
+expandPage('heightTD',160,170);
 // End -->
-</script>
-
-		
-
-			
-
-
-
-	
-	
-		
-			<!--	footer.cfm -->
+</script> <!--	footer.cfm -->
 
 
 
@@ -1015,7 +395,7 @@ else if (navigator.appName == "Netscape"){
 				<a href="http://www.lifetimefitness.com/site_map/">Site Map</a>
 				
 				<div style="padding: 4px;">
-					©2005, LIFE TIME FITNESS, INC. All Rights Reserved.
+					©2006, LIFE TIME FITNESS, INC. All Rights Reserved.
 				</div>			
 			
 			</td>
@@ -1024,20 +404,6 @@ else if (navigator.appName == "Netscape"){
 	</td>
 </tr>
 </tbody></table>
-
-
-
-
-		
-	
-	
-	
-
-
-				  
-	
-
-
 
 
 
