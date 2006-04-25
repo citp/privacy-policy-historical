@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igindex.co.uk privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216211043id_/http%3A//www.igindex.co.uk/content/privacy_notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igindex.co.uk privacy policy that was archived on 2006-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060425203539id_/http%3A//www.igindex.co.uk/content/privacy_notice.html) for the most accurate reproduction.*
 
 # IG Index - Privacy Notice
 
