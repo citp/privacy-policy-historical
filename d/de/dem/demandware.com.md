@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the demandware.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225112904id_/http%3A//demandware.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demandware.com privacy policy that was archived on 2006-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060426013817id_/http%3A//demandware.com/privacy.html) for the most accurate reproduction.*
 
 # Demandware - Privacy
 
@@ -18,13 +18,13 @@ This site visitation data is used to administer the site and provide general sta
 
 We will keep any and all information collected from you at this site strictly confidential and we will not sell, rent, trade, or otherwise share your personal information with third parties for their promotional use without your permission. 
 
-We will use the personal information you give us to fulfill the services and provide the products you request from us. This may include sending information that you have requested, or contacting you about products and services that you have purchased. If you do not opt-out of communications from Demandware, we may send you marketing notices including promotions of our products and services. You can opt-out of communications from Demandware at any time (see “Control of Personal Information” below). 
+We will use the personal information you give us to fulfill the services and provide the products you request from us. This may include sending information that you have requested, or contacting you about products and services that you have purchased. If you do not opt-out of communications from Demandware, we may send you marketing notices including promotions of our products and services. You can opt-out of communications from Demandware at any time (see "Control of Personal Information" below). 
 
 We sometimes contract with other companies to provide services such as packaging and mailing information, answering user questions, or processing credit card transactions. We will only provide these partners with the information they need to conduct their services, they will be prohibited from using the information we provide for any other purpose and we will require them to observe the intent of this Privacy Policy. 
 
 We may disclose your personal information when we reasonably believe that it is required by a law or legal process and to protect and defend our rights and interests and the rights and interests of our affiliates, suppliers, or users. We also reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful. We may release certain personal information when we believe that such release is reasonably necessary to enforce or apply these terms and conditions or to protect the rights, property, and safety of others and ourselves. 
 
-In the event we go through a business transition, such as a merger, an acquisition by another company, or a sale of all or a portion of our assets, users' personal information will, in most instances, be part of the assets transferred. Notifications of such a transition will be made using the mechanisms described in the “Changes to this Statement” section below. 
+In the event we go through a business transition, such as a merger, an acquisition by another company, or a sale of all or a portion of our assets, users' personal information will, in most instances, be part of the assets transferred. Notifications of such a transition will be made using the mechanisms described in the "Changes to this Statement" section below. 
 
 ## Control of Personal Information
 
