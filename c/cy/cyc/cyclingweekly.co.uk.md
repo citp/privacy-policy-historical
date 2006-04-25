@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyclingweekly.co.uk privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223161040id_/http%3A//www.ipcmedia.com/terms/IPC_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyclingweekly.co.uk privacy policy that was archived on 2006-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060425030730id_/http%3A//www.ipcmedia.com/terms/IPC_privacy.html) for the most accurate reproduction.*
 
 # IPC Privacy Policy
 
