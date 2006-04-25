@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawyers.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218120516id_/http%3A//www.lawyers.com/utility/privacy/index.php%3Fsite%3D259) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawyers.com privacy policy that was archived on 2006-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060425052454id_/http%3A//lawyers.com/utility/privacy/index.php%3FLDC_userId%3D259129902%26LDC_sessionId%3D320800220) for the most accurate reproduction.*
 
 # 
 
