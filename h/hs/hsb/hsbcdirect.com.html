@@ -1,708 +1,757 @@
-<!--The following is the downloaded HTML source of the hsbcdirect.com privacy policy that was archived on 2005-10-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051013093245id_/http%3A//us.hsbc.com/inside/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hsbcdirect.com privacy policy that was archived on 2006-04-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060425224150id_/http%3A//www.us.hsbc.com/1/2/3/personal/inside/privacy) for the most accurate reproduction.-->
 
-<html><head><script language="javascript" type="text/javascript">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
+	<title>
+Privacy, Inside, HSBC Personal
+</title>
 
-function disable(href) {
-    for (var i=0; i<document.links.length; i++) {
-        if (document.links[i].href == href) {
-            document.links[i].href = 'javascript:;';
-            document.links[i].onclick = '';
-        }
-    }
-}
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="-1">
 
-var blank_pattern=/^[ \t\n]*$/;
-function goSearchTemplet(field,submitFlg)
-{
-  var srchValue=(field.value).toUpperCase();
-  
-  if (blank_pattern.test(field.value)||srchValue=="SITE SEARCH")
-  {
-    alert("Please type the word(s) you wish to search for");
-    field.focus();
-	if(submitFlg=='N')
-    {
-		return false;
-	}
-  }
-  else
-	{ 
-		field.value = replaceText(field.value, "<script>");
-		if(submitFlg=='Y')
-	    {
-			document.frmSearchleft.submit();
-        }
-		
-	}
-}
+<meta name="summary" content="HSBC Bank USA, National Association is the principal subsidiary of HSBC USA Inc, an indirectly-held, wholly-owned subsidiary of HSBC North America Holdings Inc., one of the nation's top 10 bank holding companies by assets.">
+<meta name="description" content="HSBC Bank USA, National Association is the principal subsidiary of HSBC USA Inc, an indirectly-held, wholly-owned subsidiary of HSBC North America Holdings Inc., one of the nation's top 10 bank holding companies by assets.">
+<meta name="keywords" content="privacy policy, privacy statement, privacy document, privacy">
+<meta name="robots" content="index">
 
-function replaceText(inputString, delim)
-{
-	
-	var strOutput="";
-	var nPos = 0;
-	while(true)
-	{
-		var nIndex = inputString.indexOf(delim,nPos);
-		// if delim can no longer be found, then copy the rest of the input
-		if(parseInt(nIndex)<0)
-		{
-			strOutput = strOutput + inputString.substring(nPos);
-			break;
-		}
-		// otherwise, replace it  and continue
-		else
-		{
-			strOutput = strOutput + inputString.substring(nPos,nIndex);
-			nPos = nIndex+delim.length;
-		}
-	}
-	return strOutput;
-}
-</script>
-
-
-	
-	
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	<title>Inside | Privacy Policy</title>
-	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-	<link href="/hsbc.css" rel="stylesheet" type="text/css" media="all">
-	<link href="/print.css" rel="stylesheet" type="text/css" media="print">
-	<script language="javaScript" src="/hsbc_corp_functions.js"></script>
-	<script language="javascript" type="text/javascript" src="/js/HSBC-top_section.js"></script>
-
+<script language="javascript" type="text/javascript" src="/1/themes/html/hbus_left_main_right/HSBC-top_section.js"></script>
 <script language="javascript" type="text/javascript"><!--
 	// This values are constant for the site
 	HSBC.SITE.rgn="Americas";                            //DCSext.geb_rgn (Europe,Americas,..)
 	HSBC.SITE.subrgn="North America";                    //DCSext.geb_subrgn (North America, South America,..)
 	HSBC.SITE.cnty="United States of America";           //DCSext.geb_cnty (Mexico,USA,Great Britain...)
 	HSBC.SITE.ent="HSBC Bank USA. N.A.";                 //DCSext.geb_ent (HSBC UK, HSBC US,Household,...)
+	HSBC.SITE.brand="HBUS";  
 	HSBC.DCS.ID = "dcs5nk37m00000cdygy79un6e_8r2x";
 
 	// This section will need to be dynamic and change depending on what section of the site they are on. The example below is for the group site.
-	HSBC.SITE.custgrp="PFS";                  //(PFS,CF,CMB,CIBM...) or use "PFS;CMB" for multi values
-	HSBC.SITE.busline="PFS";                  //(MME,SME...)
-	HSBC.SITE.prodline="US PWS";        	  //(Loans,Mortgages,Savings...)
+	HSBC.SITE.custgrp="PFS";        //(PFS,CF,CMB,CIBM...) or use "PFS;CMB" for multi values
+	HSBC.SITE.busline="PFS";	//(MME,SME...)
+	HSBC.SITE.prodline="";          //(Loans,Mortgages,Savings...)
+	HSBC.SITE.site="Public";	//Public or Internet Banking
+	HSBC.SITE.ibtype="";		// PIB, BIB, HSBCnet
+	HSBC.PAGE.cg_n="";
+	HSBC.SITE.language=="en";	//(Language page was displayed at
+	HSBC.SITE.cam="";	
 	//-->
 </script>
 
+<link href="/1/themes/html/hbus_left_main_right/Styles.css" rel="stylesheet" type="text/css" media="all">
+<link href="/1/themes/html/hbus_left_main_right/hsbc.css" rel="stylesheet" type="text/css" media="all">
+<link href="/1/themes/html/hbus_left_main_right/print.css" rel="stylesheet" type="text/css" media="print">
 
+<script src="/1/themes/html/hbus_left_main_right/hsbc_corp_functions.js" type="text/javascript"></script>
+<script src="" type="text/javascript"></script>
 </head>
+<body>
 
-<body background="/images/home/background_line_sp.gif" bgcolor="#FFFFFF" bottommargin="0" link="#666666" vlink="#666666" alink="red" topmargin="0" leftmargin="0" rightmargin="0" marginheight="0" marginwidth="0">
+<a name="top"></a>
 
-<script language="Javascript"><!--
-gVersion="1.0";
-//-->
-</script>
-<script language="Javascript1.1"><!--
-gVersion="1.1";
-//-->
-</script>
-<script language="Javascript1.2"><!--
-gVersion="1.2";
-var RE={"%09":/\t/g,"%20":/ /g,"%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g};
-//-->
-</script>
-<script language="Javascript1.3"><!--
-gVersion="1.3";
-//-->
-</script>
-<script language="Javascript1.4"><!--
-gVersion="1.4";
-//-->
-</script>
-<script language="Javascript1.5"><!--
-gVersion="1.5";
-//-->
-</script>
+		<div id="mast">
+<!-- utility nav and search -->
+<div id="utility_nav_container">
+<div id="site_identifier">United States</div>
+<div style="float:right; margin:0;">
+<table cellpadding="0" cellspacing="0" class="top_page_search">
+<tbody><tr> 
 
-<noscript>
-<IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://www1.member-hsbc-group.com/dcs8a9pzfvievvfhkn6u3og9d_5u3o/njs.gif?dcsuri=/nojavascript&WT.js=No">
+<form method="get" name="SearchPageForm" action="/1/2/!ut/p/_s.7_0_A/7_0_108"></form>  
+
+	<input type="hidden" name="isUrlRedirect" value="yes">
+	<input type="hidden" name="urlRedirectCommand" value="default-command">
+	<input type="hidden" name="stype" value="html">
+	<input type="hidden" name="st" value="1">
+	<th style="padding:0 5px  0 5px;">
+	<label for="search">Search</label>
+	</th>
+	<td><input name="sq" type="text" class="searchForms" id="sq"></td>
+	<td style="padding:0 5px 0 0 ;">
+	<input name="Go2" type="submit" class="searchButton" value="Go">
+	</td>
+
+</tr>
+</tbody></table>
+
+</div> 
+	<div id="utility_links">
+		<a href="/1/2/3">Home</a> | 
+		<a href="/1/2/3/online-access/spanish" target="Spanish" onclick="window.open('/1/2/3/online-access/spanish','Spanish','status=yes,location=yes,menubar=yes,scrollbars=yes,toolbar=yes,resizable=yes,width=750,height=550,top=0,screenY=0,left=0,screenX=0');return false;">Español</a> | 
+		<a href="/1/2/3/online-access/chinese" target="Chinese" onclick="window.open('/1/2/3/online-access/chinese','Chinese','status=yes,location=yes,menubar=yes,scrollbars=yes,toolbar=yes,resizable=yes,width=750,height=550,top=0,screenY=0,left=0,screenX=0');return false;" class="zhLink">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+	</div>
+<div class="float_fix"></div>
+</div>
+
+		<!-- logo and toggle -->
+<div id="logo_float_left">    
+		<div id="logo_container">
+			<a href="/1/2/3"><img src="/1/themes/html/hbus_left_main_right/hsbc_logo_localbank.gif" alt="HSBC - The World's Local Bank" width="265" height="22" border="0"></a>
+		</div>
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	<div class="biz_toggle">  
+		<ul>
+			<li><a href="/1/2/3/personal" class="off">Personal</a></li>
+			<li class="right"><a href="/1/2/3/business">Go To Business</a></li>
+		</ul>
+	</div>
+
+</div>
+<div class="float_fix"></div>
+<!-- /logo and toggle box -->
+		
+
+
+
+
+
+	<div id="primary_nav">
+	<ul>
+	
+	
+		
+			
+			
+				
+					<li><a href="/1/2/3/personal/online-services"> Online Services</a></li>
+				
+			
+		
+			
+			
+				
+					<li><a href="/1/2/3/personal/checking"> Checking</a></li>
+				
+			
+		
+			
+			
+				
+					<li><a href="/1/2/3/personal/savings"> Savings</a></li>
+				
+			
+		
+			
+			
+				
+					<li><a href="/1/2/3/personal/home-loans"> Home Loans</a></li>
+				
+			
+		
+			
+			
+				
+					<li><a href="/1/2/3/personal/personal-loans"> Personal Loans</a></li>
+				
+			
+		
+			
+			
+				
+					<li><a href="/1/2/3/personal/cards"> Cards</a></li>
+				
+			
+		
+			
+			
+				
+					<li><a href="/1/2/3/personal/other-services"> Other Services</a></li>
+				
+			
+		
+			
+			
+		
+			
+			
+		
+			
+			
+		
+			
+			
+		
+			
+			
+		
+			
+			
+		
+			
+			
+		
+			
+			
+		
+			
+			
+		
+			
+			
+		
+			
+			
+		
+			
+			
+		
+			
+			
+		
+			
+			
+		
+			
+			
+		
+			
+			
+		
+			
+			
+		
+	
+	</ul>
+	</div>
+
+
+		
+
+
+
+
+
+
+
+
+
+	<div id="secondary_nav">
+	
+	
+
+	
+		
+
+			
+
+			
+
+				
+
+				
+
+				<a href="/1/2/3/personal/inside/about"> About HSBC</a>
+
+				
+			
+		
+
+			
+
+			
+
+				
+
+				 | 
+
+				<a href="/1/2/3/personal/inside/privacy" class="on"> Privacy</a>
+
+				
+			
+		
+
+			
+
+			
+
+				
+
+				 | 
+
+				<a href="/1/2/3/personal/inside/terms-conditions"> Terms and Conditions</a>
+
+				
+			
+		
+
+			
+
+			
+		
+
+			
+
+			
+
+				
+
+				 | 
+
+				<a href="/1/2/3/personal/inside/site-map"> Site Map</a>
+
+				
+			
+		
+
+			
+
+			
+
+				
+
+				 | 
+
+				<a href="/1/2/3/personal/inside/equal-housing-lender"> Equal Housing Lender</a>
+
+				
+			
+		
+
+			
+
+			
+		
+
+			
+
+			
+		
+
+			
+
+			
+		
+
+			
+
+			
+		
+	
+
+
+	</div>
+	</div>
+
+
+		
+
+	<div id="container" class="nav_sub">
+		<div class="content">
+			
+
+
+
+
+
+
+        
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+
+
+ 
+
+
+
+			
+
+
+ 
+
+
+
+
+
+
+		
+ 
+
+
+
+
+
+<div id="main_content">	
+	
+		<a name="7_3_DQU"></a>
+		
+
+
+
+
+
+
+
+
+
+
+<div class="hsbcContent">
+<h1>Privacy Statement</h1>
+</div>
+
+	
+		
+
+		
+ 
+
+
+
+
+
+	<div class="hsbcOneCol hsbcCol">	
+		
+			<a name="7_3_DQV"></a>
+			
+
+
+
+
+
+
+
+
+
+
+<div class="hsbcContent">
+<blockquote><ul><li><a title="””" href="#HSBC_Products">All HSBC Products</a> <a title="””" href="HSBC_Products"></a></li><li><a title="””" href="#Credit_Card">Personal Credit Card Holders</a></li></ul></blockquote><p>&nbsp;</p><h4><a id="HSBC_Products" title="" href="#Credit_Card" name="HSBC_Products"></a>All HSBC Products</h4><p><em>HSBC's Commitment To You</em></p><p><em>At HSBC Bank USA, National Association (HSBC), we are committed to protecting your privacy. To keep your personal, non-public information both personal and private, we have established the following policies:</em></p><ol><li>We never sell your personal information to other companies for their independent marketing purposes.</li><li>We maintain physical, electronic and procedural safeguards to prevent unauthorized access to your personal information, and to protect you against the criminal misuse of that information.</li><li>We restrict access to your account(s) to only those employees involved in providing the services you've requested. All HSBC employees are required to keep your personal information confidential.</li><li>We honor your preferences about the information we share within the HSBC family of companies for marketing purposes. <em>If you have already notified us of your privacy preferences, you don't need to contact us again unless you want to change your preferences.</em></li></ol><p><em>Why Do We Collect Information?</em></p><p>We collect information about you for two important reasons:</p><ol><li>To identify you when you are conducting financial transactions, so we can help prevent unauthorized access to your personal and financial information.</li><li>To offer you preferred interest rates, special discounts and other services that can help you achieve your financial goals.</li></ol><p><em>What Kind Of Information Do We Collect?</em></p><p>When meeting your financial needs, we collect the following non-public personal information about you:</p><ol><li>When you fill out forms and applications for HSBC products and services, we may collect information such as your name, address, social security number, e-mail address, age, income, and assets.</li><li>When you make transactions with the HSBC family of companies or others, or through online services such as Bill Pay, we may collect information on your account balances, payment history, account usage and employment history.</li><li>When you apply for credit, we may collect account information, credit history and tax return information from third parties such as credit bureaus and electronic tax return originators.</li></ol><p><em>Why Do We Share Information Within The HSBC Family Of Companies?</em></p><p>To help us offer you valuable financial services, HSBC may share the types of information described above in"What Kind Of Information Do We Collect?" within the HSBC family of companies. The HSBC family includes banking, consumer finance, insurance, mortgage, and&nbsp;brokerage companies. Some examples include companies doing business under the names HSBC or Household. If you don't want us to share application and third party credit-related information within the HSBC family of companies, please call us toll-free at <em>1-877-394-HSBC (1-877-394-4722)</em>. Your request may take four to six weeks to take effect.</p><p>If you ask us not to share your information it will prevent you from receiving certain offers and discounts from HSBC and the HSBC family of companies. <em>It will not prevent unwanted solicitations from other companies that received your information from other sources</em>. Within the HSBC family of companies, we may continue to share information relating to your account transactions and our experiences with you.</p><p>We may also use the other companies in the HSBC family as service providers to perform services relating to the operations of your accounts (such as data processing). These HSBC companies may be located in countries other than where you reside, including but not limited to the United Kingdom and India.</p><p>If your accounts are held jointly with other individuals, we treat a do-not-share request by one accountholder as applying to that accountholder only, unless you notify us you're acting on behalf of the other accountholder(s).</p><p>If you would like HSBC to limit its mail, e-mail, and telephone contacts with you for marketing purposes, please call us at <em>1-877-394-HSBC <nobr>(1-877-394-4722)</nobr>.</em></p><p><em>How Do We Share Information Outside the HSBC Family Of Companies?</em></p><p>We may share the kinds of information described above in"What Kind Of Information Do We Collect?" with non-affiliated third parties contracted to perform services necessary for the routine operation of your account(s), such as check printing, data processing and loan servicing.</p><p>We may also share this information with service providers performing marketing services on our behalf, for fraud protection, or collections, and with other financial institutions with whom we have joint marketing agreements, or as permitted by law or with your consent.</p><p>Whenever we share information outside the HSBC family of companies, all non-affiliated third parties are required to maintain the confidentiality of that information.</p><p>In some cases, we are required or permitted by law to provide information about you to third parties without your consent. Examples include responding to a subpoena or similar legal process, providing information to consumer reporting agencies, or providing information in connection with a proposed or actual sale of your account to another financial institution.</p><p><em>How Do We Protect Your Privacy Online?</em></p><p>To help us learn which products, services and sections of our Web site interest you, and to improve your experience, we sometimes use"cookies." A cookie is a small file that our web server places on your hard drive to track activity on the site during a browsing session, and across multiple sessions. We also use a cookie to"remember" which online service you last logged into, so that we can pre-select that service on your next visit. The cookies we set do not identify you individually, contain no personal information, and are not shared with anyone. They can only track activity on our Web site, and cannot be read by any non-HSBC Web sites. We may also use online profiling to help us better understand your individual financial needs. This information does not identify you personally unless you voluntarily give us personal information while online.</p><p>We also work with other third parties to learn more about activity on our Web site. These vendors use"web beacons,""tracking pixels,""third party cookies" and other similar technologies to gather user demographics and usage patterns, which help us improve the effectiveness of our marketing and of our Web site design. These vendors do not share any personally identifiable information about you. If you prefer that your Web site visits are not tracked or analyzed in these ways, please visit the&nbsp;<a title="webtracking site" href="/1/2/3/personal/inside/webtracking">webtracking site</a> to learn more about these technologies, and about ways to opt-out.</p><p>If you use our EasyView service or other online aggregation services, we collect information about the accounts and relationships included in your EasyView service, including registration information such as your name and e-mail address. We also collect information about the accounts you have designated for the EasyView service, such as account balances, transactions, transaction histories, e-mail information, bills, payment history and other account activity.</p><p>We will not disclose any information about you we obtain solely through EasyView to any third party outside the HSBC family of companies, except as needed to provide your EasyView service, or as required or permitted by law.</p><p>This Privacy Policy is also available online at <em>us.hsbc.com</em>. It does not apply to other sites you may access through us.hsbc.com. You should review any privacy policies posted on those Web sites before you sign up or use them.</p><p><em>Special Notice For Private Banking Customers</em></p><p>Non-public personal information is closely guarded when we act as trustee or fiduciary. Please contact your Private Banking relationship manager for more information.</p><p><em>Special Notice For Residents Of Vermont</em></p><p>HSBC does not share your information within the HSBC family of companies, other than information relating to your account transactions and our experiences with you.</p><p>This Privacy Policy has been adopted by HSBC Bank USA, National Association&nbsp;(including Domestic Private Banking&nbsp; and excluding HSBC Tax &nbsp;Payer Financial Services Division), HSBC Mortgage Corporation (USA), HSBC Insurance Agency (USA) Inc., HSBC Securities (USA) Inc., and HSBC Motor Credit (USA) Inc. It covers your current or former consumer banking and financial services relationships with these HSBC companies.</p><p><em>Special Notice For Residents Of California</em></p><p><a title="California Opt-Out" onclick="window.open('https://www.banking.us.hsbc.com/HICServlet?cmd_CaliforniaPrivacyContactUsSubmitFirst=&amp;accept-language=en-us', '_blank', 'status=yes,location=yes,menubar=yes,resizable=yes,scrollbars=yes,toolbar=yes,width=650,height=550,screenX=0,left=0,screenY=0,top=0'); return false;" href="https://www.banking.us.hsbc.com/HICServlet?cmd_CaliforniaPrivacyContactUsSubmitFirst=&amp;accept-language=en-us" target="_blank">Click here</a>&nbsp;for California Privacy Opt-Out Preferences</p><p>&nbsp;</p><p>Revised: September, 2005</p><p>&nbsp;</p><h4><a id="Credit_Card" title="creditcard&quot;" href="””" name="Credit_Card"></a>HSBC Bank Nevada, N.A. - Privacy Statement</h4><p><em>Our Commitment to You</em></p><p>HSBC Bank Nevada, N.A., formerly known as Household Bank (SB), N.A., ("HSBC Bank Nevada") is the proud issuer of the HSBC Credit Card. We are part of a financial services organization that has been providing superior products and services to its customers for more than century. We greatly appreciate the trust that you and millions of other customers have placed in us, and we protect that trust by respecting your privacy even if our relationship with you ends.</p><p>This Privacy Statement illustrates our commitment to your privacy and explains our privacy practices so you can make an informed decision about whom you allow us to share your information with in order to offer you additional products and services. Although most customers enjoy receiving offers and information about additional products and services, if you prefer that we don't share your information for marketing purposes we will respect your choice. If you have selected a credit insurance product, the privacy statement applicable to that credit insurance product is set forth at the end of this Privacy Statement.</p><p><em>Types of Information We Collect</em></p><p>It is important for you to know that in order to ensure that our customers get the very best service and the highest quality products, HSBC Bank Nevada collects demographic information (such as your name and address) and credit information (such as information related to your accounts with us and others). This information comes either directly from you, for instance, from your application and transactions on your account; or, it may come from an outside source such as your credit bureau report. In addition, when you visit our Internet website, we may collect certain information about your Internet usage. Gathering this information helps us to identify our customers and manage our customer relationships. It also assists us in the development of products and services to meet the continuing needs of our customers.</p><p><em>We Respect Your Privacy</em></p><p>Since some of the information we gather is not publicly available, we take great care to ensure that this information is kept safe from unauthorized access. Because HSBC Bank Nevada respects your privacy and values your trust, the only employees or companies who can access your non-public personal information are those who use it to service your account or provide services to you or to us. HSBC Bank Nevada diligently maintains physical, electronic and procedural safeguards that comply with applicable federal standards to guard your non-public personal information and to assist us in preventing unauthorized access to that information.</p><p><em>How We Share Information with Our Affiliates*</em></p><p>From time to time, for general business purposes such as fraud control, or when we think it may benefit you, we share certain information with other companies within our corporate family (i.e., Affiliates). These companies all provide financial services such as banking, consumer finance, insurance, mortgage, and brokerage services. Some examples include companies doing business under the names Household, Beneficial, or HSBC. We may also share certain information with non-financial service providers that become our Affiliates in the future (such as travel, auto and shopping clubs). The information we share might come from your application, such as your name, address, telephone number, social security number, and e-mail address. Also, the information we share could include your transactions with us or our Affiliates (such as your account balance, payment history, and parties to the transaction), your Internet usage, or credit card usage. Except for California and Vermont residents, the information we share with our Affiliates may also include your assets, income or credit reports which we collect from the sources described above. With this information, our Affiliates can determine if the products they specialize in, such as mortgages, automobile loans and insurance, may be of benefit to you.</p><p><em>How We Share Information Outside the HSBC Bank Nevada Family</em></p><p>Except for California and Vermont residents, we also may share information with companies outside our corporate family (i.e., non-Affiliates) that are able to extend special offers we feel might be of value to you. These companies may be financial services providers (such as mortgage bankers or insurance product providers) or they may be non-financial companies (such as retailers or marketing companies). These offers are typically for products and services that you might not otherwise hear about. The information we may provide them comes from the sources described above and might include your name, address and phone number. For California and Vermont residents, state law restricts how we share information about you, and we have chosen not to share your information in this way.</p><p>We may also provide information to non-Affiliates that perform operational services related to your account or marketing services for us. Sharing information with these types of companies is permitted by law. Such a company might include a financial company (such as a mortgage banker or insurance service provider) with whom we have a joint marketing agreement or a non-financial company (such as a data processor or Internet service provider) with whom we have a service agreement. The information we may share also comes from the sources described above and might include your name, address, phone number and account experience with us.</p><p>Finally, we provide information about you to non-Affiliates such as credit reporting agencies and companies which provide services related to your account. This information sharing is also permitted by law.</p><p><em>Privacy and Security on the Internet</em></p><p>Our website, hsbccreditcard.com offers you the opportunity to view your current account information and make payments online, in addition to providing general information about our company and products. You may view our Privacy Statement and Security Information when you visit our website by clicking on the Privacy Statement link.</p><p><em>How to Request That Your Information Not Be Shared</em></p><p><em>Information Sharing with Our Affiliates</em></p><p>If you do not want us to share your credit information (such as your credit bureau information) with our Affiliates, please let us know by simply printing, completing and mailing the attached opt-out <a title="reply form" href="/1/2/3/personal/inside/privacy/optout">reply form</a>. We will be happy to comply with your request. If you have previously informed us of your preference, you do not need to do so again. Your request will not apply to information about your transactions or experience with us (such as account information, account usage, or payment history) and will only apply to the HSBC Credit Card account you have designated on the opt-out form by account number. An opt-out request by any party on a joint account will apply to all parties on the joint account.</p><p><em>Information Sharing with Non-Affiliates</em></p><p>If you do not want us to share your non-public personal information with non-Affiliates (unless we are permitted or required by law to do so), you will also need to indicate your request on the attached opt-out <a title="reply form" href="/1/2/3/personal/inside/privacy/optout">reply form</a>. We will be happy to comply with your request. If you have previously informed us of your preference, you do not need to do so again. Please understand that your request may exclude you from receiving valuable offers in the future. Your request will only apply to the HSBC Credit Card account you have designated on the opt-out form by account number. An opt-out request by any party on a joint account will apply to all parties on the joint account. Opt-out requests will not apply to information sharing that is permitted by law.</p><p>Once you have completed the reply form, please mail it to HSBC Card Services, P.O. Box 60173, City of Industry, CA 91716-0173. Please allow sufficient time for us to process your request. <em>Please do not include any other correspondence in with your request</em></p><p><em>How to Be Removed from Solicitation Lists of Companies Participating in the Direct Marketing Association (DMA) Preference Service</em></p><p>If you wish to be removed from mailing solicitation lists at a national level, please send your name and address (with zip code) to the Direct Marketing Association at the following address:</p><p>Mail Preference Service (DMA), P. O. Box 9008, Farmingdale, NY 11735-9008</p><p>* Affiliates are companies that are related to us by common ownership or corporate control. Our Affiliates include HFC®, Beneficial®, HSBC Auto Finance Inc., Household Insurance Group, Inc.,&nbsp;and HSBC companies such as HSBC Bank USA, N.A., and HSBC Mortgage Corporation.</p><p align="center"><em>HOUSEHOLD INSURANCE GROUP, INC.<br>ASSURANT SOLUTIONS SOUTHERN COUNTY MUTUAL INSURANCE COMPANY<br>Privacy Statement for Customers with Credit Insurance</em></p><p><em>This paragraph applies only to customers who have selected credit insurance provided by Household Insurance Group ("HIG"), the Assurant Group ("Assurant"), or Southern County Mutual Insurance Company ("Southern County")**.</em></p><p>HIG, Assurant, and Southern County are very aware of the privacy concerns of our customers, and we understand your concerns and protect your privacy. We are providing this notice to explain how we treat customer information that is not public. This is customer information we obtain from you, like your name and address, or other sources, such as account information related to your HSBC accounts. HIG, Assurant, and Southern County want you to know that we respect your privacy, and we protect your information.</p><p>To administer the credit insurance you requested, HIG, Assurant, and Southern County collect and keep a variety of information contained within your acceptance of the credit insurance. Either this information comes directly from you, for instance, from your application, or it may come from an HSBC lending affiliate.</p><p>HIG, Assurant, and Southern County take great care to protect the privacy of this information. For example, we do not sell or share with persons, companies, or organizations that are outside of HIG, Assurant, or Southern County Insurance Companies except as permitted by law. We require companies that provide services on our behalf or with whom we jointly market products to keep your information confidential. That the only employees or companies that can access such information are those who need it to provide services concerning your insurance.</p><p>Moreover, in compliance with federal and state standards, HIG, Assurant, and Southern County maintain physical, electronic and procedural safeguards to protect against unauthorized use or disclosure of that information. HIG, Assurant and Southern County do not disclose information about you to their respective affiliates or to third parties, except as permitted by law.</p><p><em>NOTE:</em> When your relationship with us ends, your information with us remains protected as outlined above.</p><p>** Household Insurance Group, Inc.(also under the trade name of HSBC Insurance Services) includes Household Life Insurance Company (formally known as Alexander Hamilton Life Insurance Company), Wesco Insurance Company, Service General Insurance Company, First Central National Life Insurance Company of New York, Household Life Insurance of Delaware, BFC Insurance Agency of Nevada, HSBC Insurance Agency (USA), Inc., and such other companies Household Insurance Group may subsequently acquire. Assurant Solutions includes American Reliable Insurance Company, American Bankers Insurance Company of Florida, American Bankers Life Assurance Company of Florida, Financial Insurance Exchange, First Fortis Life Insurance Company and Union Security Life Insurance Company.</p><p>Updates and Modifications: This Privacy Statement was last updated on May 9, 2005. We reserve the right to modify out privacy practices at any time. Any such modification will be communicated to you in accordance with applicable law.</p><p align="center"><em>© HSBC Card Services Inc. 2004-2005.&nbsp;&nbsp;All rights reserved.</em></p>
+</div>
+
+		 
+	</div>
+</div>
+		
+
+
+
+	
+			
+
+
+ 
+
+
+
+
+
+
+		
+ 
+
+
+
+
+
+	<div id="sub_content_nav" class="sub">	
+		
+			<a name="7_3_DUV"></a>
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+	<div class="tertiary_nav">
+		<ul>
+		
+		
+
+			
+		
+			
+			
+				<li class="section">
+					
+						
+						<a href="/1/2/3/personal/inside/privacy" title="Privacy">Privacy</a>
+					
+				</li>	
+				
+				
+
+			
+			
+						
+      						 
+      					
+						
+										<li>
+										
+										
+										<a href="/1/2/3/personal/inside/privacy/faqs" title="Privacy FAQs">Privacy FAQs</a>
+										
+
+										
+					
+      						 
+      					
+					
+							</li>
+													
+							
+
+			
+			
+						
+      						 
+      					
+						
+										<li>
+										
+										
+										<a href="/1/2/3/personal/inside/privacy/optout" title="Opt-Out Form">Opt-Out Form</a>
+										
+
+										
+					
+      						 
+      					
+					
+							</li>
+													
+							
+
+			
+		
+		
+						
+      						 
+      									
+				
+			
+							<li>
+							
+							
+							<a href="https://www.banking.us.hsbc.com/HICServlet?cmd_CaliforniaPrivacyContactUsSubmitFirst=&amp;accept-language=en-us" title="California Opt-Out Form" target="CA" onclick="window.open('https://www.banking.us.hsbc.com/HICServlet?cmd_CaliforniaPrivacyContactUsSubmitFirst=&amp;accept-language=en-us','CA','status=yes,location=yes,menubar=yes,scrollbars=yes,toolbar=yes,resizable=yes,width=800,height=600,top=0,screenY=0,left=0,screenX=0');return false;">California Opt-Out Form</a>
+							
+							</li>
+							
+		
+	</ul>
+</div>
+	
+		
+	</div>
+</div>
+		
+
+
+
+	
+			
+
+
+ 
+
+
+
+
+
+
+		
+ 
+
+
+
+
+
+<div id="sub_content" class="sub">	
+	
+		<a name="7_3_DR0"></a>
+		
+
+
+
+
+
+
+
+
+
+
+
+		<div id="sub_cont"><div class="hsbcContent">
+		
+				<h4>Related Information</h4>
+			
+		
+
+		<ul>
+		
+			<li>
+			
+					<a title="Privacy Frequently Asked Questions" href="/1/2/3/personal/inside/privacy/faqs">Privacy Frequently Asked Questions</a>
+				
+			
+			
+			</li>
+		
+			<li>
+			
+					<a title="Security Site" onclick="window.open('/1/2/3/personal/inside/securitysite/overview', '_blank', 'status=no,menubar=no,resizable=no,scrollbars=yes,toolbar=no,width=850,height=500'); return false;" target="_blank" href="/1/2/3/personal/inside/securitysite/overview">Security Site</a>
+				
+			
+			
+			</li>
+		
+			<li>
+			
+					<a title="Personal Internet Banking Frequently Asked Questions" href="/1/2/3/personal/online-services/personal-internet-banking/faqs">Personal Internet Banking FAQs</a>
+				
+			
+			
+			</li>
+		
+			<li>
+			
+					
+				
+			
+			
+			</li>
+		
+		</ul></div></div>
+	
+
+
+	 
+</div>
+		
+
+		
+ 
+
+
+
+
+
+
+	<div class="float_fix">&nbsp;</div>
+</div>
+<div id="footer">
+	
+		<a name="7_3_DR1"></a>
+		
+
+
+
+
+
+
+
+
+
+
+<div class="hsbcContent">
+<p>Member FDIC<br><a title="About HSBC" href="/1/2/3/personal/inside/about">About HSBC</a>&nbsp; |&nbsp; <a title="Careers" onclick="window.open('http://www.hsbcusa.com/careers', '_blank', ''); return false;" target="_blank" href="http://www.hsbcusa.com/careers">Careers</a>&nbsp; |&nbsp; <a title="Locations" onclick="window.open('http://www.banking.us.hsbc.com/HICServlet?cmd_GetUSMap=&amp;accept-language=en-US', '_blank', ''); return false;" target="_blank" href="http://www.banking.us.hsbc.com/HICServlet?cmd_GetUSMap=&amp;accept-language=en-US">Locations</a>&nbsp; |&nbsp; <a title="Privacy" href="/1/2/3/personal/inside/privacy">Privacy</a>&nbsp; |&nbsp; <a title="Security Site" onclick="window.open('/1/2/3/personal/inside/securitysite/overview', '_blank', 'status=yes,location=no,menubar=no,resizable=no,scrollbars=yes,width=655,height=500'); return false;" target="_blank" href="/1/2/3/personal/inside/securitysite/overview">Security</a>&nbsp; |&nbsp;&nbsp;<a title="Contact HSBC" onclick="window.open('https://www.banking.us.hsbc.com/HICServlet?cmd_GeneralContactUsCaller=&amp;accept-language=en-us', '_blank', ''); return false;" target="_blank" href="https://www.banking.us.hsbc.com/HICServlet?cmd_GeneralContactUsCaller=&amp;accept-language=en-us">Contact HSBC</a>&nbsp; |&nbsp; <a title="Related Websites" href="http://www.hsbcusa.com/hsbcsites">Related Websites</a>&nbsp; |&nbsp;&nbsp;<a title="Terms &amp; Conditions" href="/1/2/3/personal/inside/terms-conditions">Terms &amp; Conditions</a>&nbsp;&nbsp; |&nbsp;<a title="Site Map" href="/1/2/3/personal/inside/site-map">Site Map</a><br>© HSBC Bank USA, N.A. 2006. All Rights Reserved.</p>
+</div>
+
+	 
+</div>
+
+		
+
+
+
+	
+
+
+
+        
+    
+    
+			
+ <!-- JavaScript Checking  -->
+<script language="Javascript" type="text/javascript"><!-- gVersion="1.0"; //-->
+ </script> 
+ <script language="Javascript1.1" type="text/javascript"><!-- gVersion="1.1"; //-->
+ </script> 
+ <script language="Javascript1.2" type="text/javascript"><!-- gVersion="1.2"; var RE={"%09":/\t/g,"%20":/ /g,"%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g};  //-->
+ </script> 
+ <script language="Javascript1.3" type="text/javascript"><!-- gVersion="1.3"; //-->
+ </script> 
+ <script language="Javascript1.4" type="text/javascript"><!-- gVersion="1.4"; //-->
+ </script> 
+ <script language="Javascript1.5" type="text/javascript"><!-- gVersion="1.5"; //-->
+ </script>
+  <!-- No Script alternative  -->
+ <noscript>
+ <img name="dcsimg" width="1" height="1" alt=" " src="http://www1.member-hsbc-group.com/dcs5nk37m00000cdygy79un6e_8r2x/njs.gif?dcsuri=/nojavascript&amp;WT.js=No" />
 </noscript>
 
 
-<!-- MAST HEAD -->
-<a href="http://us.hsbc.com/" id="logo"><img src="/images/hsbclogo.gif" alt="HSBC Logo" width="334" height="45"></a>
-<div id="nav_bar_lft">
-  <img src="/hsbc_images/navbar_left4.gif" alt="United States" width="153" height="32">
-</div>
-<div id="nav_bar_mid"></div>
-<div id="lang">
-	
-	
-			<a href="http://us.hsbc.com/en/index.html"> <img src="/images/home/navbar_en_a.gif" alt="English" width="40" height="32"></a> 
-			<a href="http://us.hsbc.com/sp/index.html"><img src="/images/home/navbar_sp.gif" alt="Spanish" width="44" height="32"></a>
-			<a href="http://us.hsbc.com/ch/index.html"><img src="/images/home/navbar_ch2.gif" alt="Chinese" width="29" height="32"></a>
-		
-</div>
-<div id="notch">
-  <img src="/hsbc_images/navbar_notch3.gif" alt=" " width="37" height="32">
-</div>
-<div id="nav_bar_cap">
-  <img src="/hsbc_images/navbar_cap3.gif" alt=" " width="24" height="32">
-</div>
-<div id="nav_bar_ad">
- 
-			
 
-<script language="javascript" type="text/javascript">
 
+<script language="javascript" type="text/javascript" src="/1/themes/html/hbus_left_main_right/HSBC-bottom_section.js"></script>
 
-//  Set Aside Some Storage...
-var imageListPIC = new Array(99);
-var imageListURL = new Array(99);
 
-//  List Out The Banner/URL Combinations...						
-	
 
-imageListPIC[0] = "/personal/banners/equifax_dart.gif"; imageListURL[0] = "/personal/equifax.html";						
-
-imageListPIC[1] = "/personal/banners/freebillpay1.gif"; imageListURL[1] = "/internetbanking/billpay.html";						
-
-imageListPIC[2] = "/personal/banners/mortgage_preapprove.gif"; imageListURL[2] = "/personal/mortgage/preapprove.html";						
-
-imageListPIC[3] = "/personal/banners/guide.gif"; imageListURL[3] = "/personal/guide/default.html";						
-
-imageListPIC[4] = "/personal/banners/checksave.gif"; imageListURL[4] = "javascript:OpenSubWindow('https://www.banking.us.hsbc.com/HBCorpDfsServlet?cmd_launch=&appGroupName=deposit',630,450,'Account')";						
-
-imageListPIC[5] = "/personal/banners/debitcard.gif"; imageListURL[5] = "/personal/checking/mastermoney.html";						
-	
-imageListPIC[6] = "/personal/banners/he-spring05banner.gif"; imageListURL[6] = "/personal/homeequity/hecampaign.html?code=web";						
-
-imageListPIC[7] = "/personal/banners/onlinetrading3.gif"; imageListURL[7] = "/personal/invest/discount/onlinetrading.html";						
-
-imageListPIC[8] = "/personal/banners/freebillpay2.gif"; imageListURL[8] = "/internetbanking/billpay.html";						
-
-imageListPIC[9] = "/personal/banners/pet_insurance.gif"; imageListURL[9] = "/personal/insurance/pet_b.html";						
-
-imageListPIC[10] = "/personal/banners/renters.gif"; imageListURL[10] = "/personal/insurance/renters.html";						
-
-imageListPIC[11] = "/personal/banners/easyview.gif"; imageListURL[11] = "/easyview/default.html";						
-
-
-	
-//  The Number Of Banners/URLs...
-var imageCount = 12;
-currDateTime	= new Date();
-photoNumber		= (currDateTime.getSeconds()) % imageCount;
-imgTag	= '<a href="' + imageListURL[photoNumber] + '"><img src="' + imageListPIC[photoNumber] + '" /></a>';
-document.write(imgTag);
-</script><a href="javascript:OpenSubWindow('https://www.banking.us.hsbc.com/HBCorpDfsServlet?cmd_launch=&amp;appGroupName=deposit',630,450,'Account')"><img src="/personal/banners/checksave.gif"></a>
-
-
-
-	
-</div>
-
-<!-- /MAST HEAD --> 
-
-
-<!-- search -->
-	<form action="/HICServlet" method="get" name="frmSearchleft" onsubmit="return(goSearchTemplet(this.sq,'N'))">
-	      <input name="ct" type="hidden" value="hsbc">
-	      <input type="hidden" name="al" value="search">
-	      <input type="hidden" name="accept-language" value="en-us">
-	      <input type="hidden" name="cmd_SiteSearchResults" value="">
-	      <input type="hidden" name="stype" value="html">
-
-<div id="lft_col">
-	
-		<div id="srch">
-			<input name="sq" onfocus="javascript:sq.value=''" type="text" value="Site Search" size="20">
-			<a href="javascript: goSearchTemplet(document.frmSearchleft.sq,'Y')"><img src="/images/home/go.gif" id="srch_go_but" alt="Go" width="30" height="17"></a>
-		</div>
-	
-	<div id="lft_nav">    
-		
-			<script language="javascript" type="text/javascript">
-var isNS=(navigator.appName=="Netscape");
-var isMac=(navigator.userAgent.indexOf("Mac")>-1);
-var blank_pattern=/^[ \t\n]*$/;
-</script>
-
-
-<script language="javascript" type="text/javascript">
-<!--
-function HideIt(){
-	if(isNS){
-		hideDiv("divLinkDisclaimer1");
-		hideDiv("divLinkDisclaimer2");
-	}
-	//else
-		//startIt();
-}
-
-function ShowIt1(posX,posY){
-	if(isNS){
-	var popX
-	var popY
-	popX=(posX + 20)
-	popY=(posY + 10)
-	showDivAt("divLinkDisclaimer1",popY,popX);
-	}
-}
-
-function ShowIt2(posX,posY){
-	if(isNS){
-	var popX
-	var popY
-	popX=(posX + 20)
-	popY=(posY + 10)
-	showDivAt("divLinkDisclaimer2",popY,popX);
-	}
-}
-//-->
-</script>
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-	<div id="ps">
-	  <div id="lft_nav_ps"><a href="http://www.us.hsbc.com/personal/personal_home_page.html">Personal Services</a></div>
-</div>
-<div id="ps">
-	  <div id="lft_nav_ps"><a href="http://www.us.hsbc.com/business/business_home_page.html">Business Services</a></div>
-</div>
-<div id="ps">
-	  <div id="lft_nav_ps" class="on"><a href="http://www.us.hsbc.com/inside/default.html">About HSBC</a></div>
-<div class="lft_sub_nav1">
-	  	  <div><a href="http://www.us.hsbc.com/inside/about/default.html">Corporate Information</a></div>
-	  	  <div><a href="http://www.us.hsbc.com/inside/about/affiliate.html">Our Affiliates</a></div>
-	  	  <div><a href="http://www.hsbcusa.com/hsbcsites">Related Web sites</a></div>
-	  	  <div><a href="http://www.hsbcusa.com/corporateresponsibility">Community Commitment</a></div>
-	  	  <div><a href="http://www.hsbcusa.com/investorrelations">Investor Relations</a></div>
-	  	  <div><a href="http://www.hsbcusa.com/ourcompany/pressroom">Press Room</a></div>
-	  	  <div><a href="http://www.hsbcusa.com/careers">Career Opportunities</a></div>
-	  	  <div><a href="#" onclick="JavaScript:window.open(&quot;http://www.us.hsbc.com/components/disclaimers/group_disclaimer.html?url=http://www.hsbc.com/&quot;)">HSBC Worldwide</a></div>
-</div>
-</div>
-<div id="ps">
-	  <div id="lft_nav_ps"><a href="http://www.us.hsbc.com/HICServlet?cmd_GetUSMap=&amp;accept-language=en-US">Branches &amp; ATMs</a></div>
-</div>
-
-
-		
-		<div id="ps">
-			<div>
-			<table>
-				<tbody><tr><td><p>&nbsp; </p></td></tr>
-			</tbody></table>
-			</div>
-		</div>
-	</div>   
-		
-
-
-
-	<!-- left spiffs -->
-
-
-			
-
-<a href="http://us.hsbc.com/premier/index.html"><img src="/images/banners/premier.gif" class="ad" alt="HSBC Premier"></a>
-
-
-
-			
-
-<a href="javascript:OpenWindow('%20http://www.hsbcprivatebank.com','','status=yes,location=yes,menubar=yes,resizable=yes,scrollbars=yes,toolbar=yes,width=655,height=500');"><img src="/images/banners/private_bkg.gif" class="ad" alt="HSBC Private Bank"></a>
-
-
-
-
- 
-			
-
-<a href="/internetbanking/default.html"><img src="/images/banners/freeonlinebillpay.gif" class="ad" alt="Free Bill Pay!"></a>
-
-
-
-		
-		
-
- 	<!-- /left spiffs -->
-	</div>
-
-
-</form>
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- BEGIN: Include contentPage -->
-
-
-
-
-
-
-	<meta pagetitle="Inside | Privacy Policy">
-
-	<meta templatename="gbl_hsbcus">
-	<meta navpath="">
-	<meta name="pageKeywords" content="privacy policy, privacy statement, privacy document, privacy">
-	<meta name="pageDescription" content="HSBC Bank USA, National Association is the principal subsidiary of HSBC USA Inc, an indirectly-held, wholly-owned subsidiary of HSBC North America Holdings Inc., one of the nation's top 10 bank holding companies by assets.">
-	<table cellspacing="0" id="main">
-		<tbody><tr>
-			<td id="mid_col">
-
-			<h1>Privacy Policy</h1>
-				<div class="h1_rule"></div>
-				<div class="cont_sec">
-					<table cellspacing="0" cellpadding="0" width="420" border="0">
-<tbody>
-<tr valign="top">
-<td>
-<div style="CLEAR: both; MARGIN-TOP: 0px; BORDER-LEFT: #ccc 0px solid; PADDING-TOP: 3px; BORDER-BOTTOM: #ccc 0px solid">
-<ul style="MARGIN-TOP: 0px">
-<li><a href="#HSBC_Products">All HSBC Products</a> <a href="HSBC_Products"></a></li>
-
-<li><a href="#Credit_Card">Personal Credit Card Holders</a></li>
-</ul>
-</div>
-
-<p>&nbsp;</p>
-
-<p><strong class="red"><a name="HSBC_Products">All HSBC Products</a></strong></p>
-
-<p><b><br>
-HSBC's Commitment To You</b></p>
-
-<p><b>At HSBC Bank USA, National Association (HSBC), we are committed to protecting your privacy. To keep your personal, non-public information both personal and private, we have established the following policies:</b></p>
-
-<ol>
-<li>We never sell your personal information to other companies for their independent marketing purposes.</li>
-
-<li>We maintain physical, electronic and procedural safeguards to prevent unauthorized access to your personal information, and to protect you against the criminal misuse of that information.</li>
-
-<li>We restrict access to your account(s) to only those employees involved in providing the services you've requested. All HSBC employees are required to keep your personal information confidential.</li>
-
-<li>We honor your preferences about the information we share within the HSBC family of companies for marketing purposes. <b>If you have already notified us of your privacy preferences, you don't need to contact us again unless you want to change your preferences.</b></li>
-</ol>
-
-<img height="1" alt="" src="/images/graypixel.gif" width="500" vspace="7" border="0"><br>
-<b>Why Do We Collect Information?</b> 
-
-<p>We collect information about you for two important reasons:</p>
-
-<ol>
-<li>To identify you when you are conducting financial transactions, so we can help prevent unauthorized access to your personal and financial information.</li>
-
-<li>To offer you preferred interest rates, special discounts and other services that can help you achieve your financial goals.</li>
-</ol>
-
-<img height="1" alt="" src="/images/graypixel.gif" width="500" vspace="7" border="0"><br>
-<b>What Kind Of Information Do We Collect?</b> 
-
-<p>When meeting your financial needs, we collect the following non-public personal information about you:</p>
-
-<ol>
-<li>When you fill out forms and applications for HSBC products and services, we may collect information such as your name, address, social security number, e-mail address, age, income, and assets.</li>
-
-<li>When you make transactions with the HSBC family of companies or others, or through online services such as Bill Pay, we may collect information on your account balances, payment history, account usage and employment history.</li>
-
-<li>When you apply for credit, we may collect account information,&nbsp;credit history and tax return information from third parties such as credit bureaus and electronic tax return originators.</li>
-</ol>
-
-<img height="1" alt="" src="/images/graypixel.gif" width="500" vspace="7" border="0"><br>
-<b>Why Do We Share Information Within The HSBC Family Of Companies?</b> 
-
-<p>To help us offer you valuable financial services, HSBC may share the types of information described above in "What Kind Of Information Do We Collect?" within the HSBC family of companies. The HSBC family includes banking, consumer finance, insurance, mortgage, and&nbsp;brokerage companies. Some examples include companies doing business under the names HSBC or Household. If you don't want us to share application and third party credit-related information within the HSBC family of companies, please call us toll-free at <b>1-877-394-HSBC (1-877-394-4722)</b>. Your request may take four to six weeks to take effect.</p>
-
-<p>If you ask us not to share your information it will prevent you from receiving certain offers and discounts from HSBC and the HSBC family of companies. <strong>It will not prevent unwanted solicitations from other companies that received your information from other sources</strong>. Within the HSBC family of companies, we may continue to share information relating to your account transactions and our experiences with you.</p>
-
-<p>We may also use the other companies in the HSBC family as service providers to perform services relating to the operations of your accounts (such as data processing). These HSBC companies may be located in countries other than where you reside, including but not limited to the United Kingdom and India.</p>
-
-<p>If your accounts are held jointly with other individuals, we treat a do-not-share request by one accountholder as applying to that accountholder only, unless you notify us you're acting on behalf of the other accountholder(s).</p>
-
-<p>If you would like HSBC to limit its mail, e-mail, and telephone contacts with you for marketing purposes, please call us at <strong>1-877-394-HSBC <nobr>(1-877-394-4722)</nobr>.</strong></p>
-
-<img height="1" alt="" src="/images/graypixel.gif" width="500" vspace="7" border="0"><br>
-<b>How Do We Share Information Outside the HSBC Family Of Companies?</b> 
-
-<p>We may share the kinds of information described above in "What Kind Of Information Do We Collect?" with non-affiliated third parties contracted to perform services necessary for the routine operation of your account(s), such as check printing, data processing and&nbsp;loan servicing.</p>
-
-<p>We may also share this information with service providers performing marketing services on our behalf, for fraud protection, or collections, and with other financial institutions with whom we have joint marketing agreements, or as permitted by law or with your consent.</p>
-
-<p>Whenever we share information outside the HSBC family of companies, all non-affiliated third parties are required to maintain the confidentiality of that information.</p>
-
-<p>In some cases, we are required or permitted by law to provide information about you to third parties without your consent. Examples include responding to a subpoena or similar legal process, providing information to consumer reporting agencies, or providing information in connection with a proposed or actual sale of your account to another financial institution.</p>
-
-<img height="1" alt="" src="/images/graypixel.gif" width="500" vspace="7" border="0"><br>
-<b>How Do We Protect Your Privacy Online?</b> 
-
-<p>To help us learn which products, services and sections of our Web site interest you, and to improve your experience, we sometimes use "cookies." A cookie is a small file that our web server places on your hard drive to track activity on the site during a browsing session, and across multiple sessions. We also use a cookie to "remember" which online service you last logged into, so that we can pre-select that service on your next visit. The cookies we set do not identify you individually, contain no personal information, and are not shared with anyone. They can only track activity on our Web site, and cannot be read by any non-HSBC Web sites. We may also use online profiling to help us better understand your individual financial needs. This information does not identify you personally unless you voluntarily give us personal information while online.</p>
-
-<p>We also work with&nbsp;other third parties to learn more about activity on our Web site. These vendors use "web beacons," "tracking pixels," "third party cookies" and other similar technologies to gather user demographics and usage patterns, which help us improve the effectiveness of our marketing and of our Web site design. These vendors do not share any personally identifiable information about you. If you prefer that your Web site visits are not tracked or analyzed in these ways, please visit <strong><a href="/inside/webtracking.html">http://us.hsbc.com/inside/webtracking</a></strong> to learn more about these technologies, and about ways to opt-out.</p>
-
-<p>If you use our EasyView service or other online aggregation services, we collect information about the accounts and relationships included in your EasyView service, including registration information such as your name and e-mail address. We also collect information about the accounts you have designated for the EasyView service, such as account balances, transactions, transaction histories, e-mail information, bills, payment history and other account activity.</p>
-
-<p>We will not disclose any information about you we obtain solely through EasyView to any third party outside the HSBC family of companies, except as needed to provide your EasyView service, or as required or permitted by law.</p>
-
-<p>This Privacy Policy is also available online at <strong>us.hsbc.com</strong>. It does not apply to other sites you may access through us.hsbc.com. You should review any privacy policies posted on those Web sites before you sign up or use them.</p>
-
-<img height="1" alt="" src="/images/graypixel.gif" width="500" vspace="7" border="0"><br>
-<b>Special Notice For Private Banking Customers</b> 
-
-<p>Non-public personal information is closely guarded when we act as trustee or fiduciary. Please contact your Private Banking relationship manager for more information. <img height="1" alt="" src="/images/graypixel.gif" width="500" vspace="7" border="0"><br>
-<b>Special Notice For Residents Of Vermont</b></p>
-
-<p>HSBC does not share your information within the HSBC family of companies, other than information relating to your account transactions and our experiences with you.</p>
-
-<p><img height="1" alt="" src="/images/graypixel.gif" width="500" vspace="7" border="0"></p>
-
-<p>This Privacy Policy has been adopted by HSBC Bank USA, National Association&nbsp;(including Domestic Private Banking&nbsp; and excluding HSBC Tax &nbsp;Payer Financial Services Division), HSBC Mortgage Corporation (USA), HSBC Insurance Agency (USA) Inc., HSBC Securities (USA) Inc., and HSBC Motor Credit (USA) Inc. It covers your current or former consumer banking and financial services relationships with these HSBC companies.</p>
-
-<p><img height="1" alt="" src="/images/graypixel.gif" width="500" vspace="7" border="0"><br>
-<b>Special Notice For Residents Of California</b><br>
-<br>
-<a href="https://www.banking.us.hsbc.com/HICServlet?cmd_CaliforniaPrivacyContactUsSubmitFirst=&amp;accept-language=en-us">Click here</a> for California Privacy Opt-Out Preferences<br>
-</p>
-
-<p><img height="1" alt="" src="/images/graypixel.gif" width="500" vspace="7" border="0"><br>
-&nbsp; Revised: September, 2005</p>
-
-<p><img height="1" alt="" src="/images/graypixel.gif" width="500" vspace="7" border="0"></p>
-
-<p><strong class="red"><a name="Credit_Card">HSBC Bank Nevada, N.A. - Privacy Statement</a></strong></p>
-
-<p><br>
-&nbsp;</p>
-
-<p><strong>Our Commitment to You</strong></p>
-
-<p>HSBC Bank Nevada, N.A., formerly known as Household Bank (SB), N.A., ("HSBC Bank Nevada") is the proud issuer of the HSBC Credit Card. We are part of a financial services organization that has been providing superior products and services to its customers for more than century. We greatly appreciate the trust that you and millions of other customers have placed in us, and we protect that trust by respecting your privacy even if our relationship with you ends.</p>
-
-<p>This Privacy Statement illustrates our commitment to your privacy and explains our privacy practices so you can make an informed decision about whom you allow us to share your information with in order to offer you additional products and services. Although most customers enjoy receiving offers and information about additional products and services, if you prefer that we don't share your information for marketing purposes we will respect your choice. If you have selected a credit insurance product, the privacy statement applicable to that credit insurance product is set forth at the end of this Privacy Statement.<br>
-<img height="1" alt="" src="/images/graypixel.gif" width="500" vspace="7" border="0"></p>
-
-<p><br>
-<strong>Types of Information We Collect</strong></p>
-
-<p>It is important for you to know that in order to ensure that our customers get the very best service and the highest quality products, HSBC Bank Nevada collects demographic information (such as your name and address) and credit information (such as information related to your accounts with us and others). This information comes either directly from you, for instance, from your application and transactions on your account; or, it may come from an outside source such as your credit bureau report. In addition, when you visit our Internet website, we may collect certain information about your Internet usage. Gathering this information helps us to identify our customers and manage our customer relationships. It also assists us in the development of products and services to meet the continuing needs of our customers.<br>
-<img height="1" alt="" src="/images/graypixel.gif" width="500" vspace="7" border="0"></p>
-
-<p><br>
-<strong>We Respect Your Privacy</strong></p>
-
-<p>Since some of the information we gather is not publicly available, we take great care to ensure that this information is kept safe from unauthorized access. Because HSBC Bank Nevada respects your privacy and values your trust, the only employees or companies who can access your non-public personal information are those who use it to service your account or provide services to you or to us. HSBC Bank Nevada diligently maintains physical, electronic and procedural safeguards that comply with applicable federal standards to guard your non-public personal information and to assist us in preventing unauthorized access to that information.<br>
-<img height="1" alt="" src="/images/graypixel.gif" width="500" vspace="7" border="0"></p>
-
-<p><br>
-<strong>How We Share Information with Our Affiliates*</strong></p>
-
-<p>From time to time, for general business purposes such as fraud control, or when we think it may benefit you, we share certain information with other companies within our corporate family (i.e., Affiliates). These companies all provide financial services such as banking, consumer finance, insurance, mortgage, and brokerage services. Some examples include companies doing business under the names Household, Beneficial, or HSBC. We may also share certain information with non-financial service providers that become our Affiliates in the future (such as travel, auto and shopping clubs). The information we share might come from your application, such as your name, address, telephone number, social security number, and e-mail address. Also, the information we share could include your transactions with us or our Affiliates (such as your account balance, payment history, and parties to the transaction), your Internet usage, or credit card usage. Except for California and Vermont residents, the information we share with our Affiliates may also include your assets, income or credit reports which we collect from the sources described above. With this information, our Affiliates can determine if the products they specialize in, such as mortgages, automobile loans and insurance, may be of benefit to you.<br>
-<img height="1" alt="" src="/images/graypixel.gif" width="500" vspace="7" border="0"></p>
-
-<p><br>
-<strong>How We Share Information Outside the HSBC Bank Nevada Family</strong></p>
-
-<p>Except for California and Vermont residents, we also may share information with companies outside our corporate family (i.e., non-Affiliates) that are able to extend special offers we feel might be of value to you. These companies may be financial services providers (such as mortgage bankers or insurance product providers) or they may be non-financial companies (such as retailers or marketing companies). These offers are typically for products and services that you might not otherwise hear about. The information we may provide them comes from the sources described above and might include your name, address and phone number. For California and Vermont residents, state law restricts how we share information about you, and we have chosen not to share your information in this way.</p>
-
-<p>We may also provide information to non-Affiliates that perform operational services related to your account or marketing services for us. Sharing information with these types of companies is permitted by law. Such a company might include a financial company (such as a mortgage banker or insurance service provider) with whom we have a joint marketing agreement or a non-financial company (such as a data processor or Internet service provider) with whom we have a service agreement. The information we may share also comes from the sources described above and might include your name, address, phone number and account experience with us.</p>
-
-<p>Finally, we provide information about you to non-Affiliates such as credit reporting agencies and companies which provide services related to your account. This information sharing is also permitted by law. <img height="1" alt="" src="/images/graypixel.gif" width="500" vspace="7" border="0"></p>
-
-<p><br>
-<strong>Privacy and Security on the Internet</strong></p>
-
-<p>Our website, hsbccreditcard.com offers you the opportunity to view your current account information and make payments online, in addition to providing general information about our company and products. You may view our Privacy Statement and Security Information when you visit our website by clicking on the Privacy Statement link. <img height="1" alt="" src="/images/graypixel.gif" width="500" vspace="7" border="0"></p>
-
-<p><br>
-<strong>How to Request That Your Information Not Be Shared</strong></p>
-
-<p><strong>Information Sharing with Our Affiliates</strong></p>
-
-<p>If you do not want us to share your credit information (such as your credit bureau information) with our Affiliates, please let us know by simply printing, completing and mailing the attached opt-out <a title="reply form" onclick="window.open('/inside/privacy_opt_out.html', '', 'status=yes,menubar=yes,resizable=yes,scrollbars=yes,toolbar=yes,width=635,height=545'); return false;" href="/inside/privacy_opt_out.html" target="_blank">reply form</a>. We will be happy to comply with your request. If you have previously informed us of your preference, you do not need to do so again. Your request will not apply to information about your transactions or experience with us (such as account information, account usage, or payment history) and will only apply to the HSBC Credit Card account you have designated on the opt-out form by account number. An opt-out request by any party on a joint account will apply to all parties on the joint account.<br>
-<img height="1" alt="" src="/images/graypixel.gif" width="500" vspace="7" border="0"></p>
-
-<p><br>
-<strong>Information Sharing with Non-Affiliates</strong></p>
-
-<p>If you do not want us to share your non-public personal information with non-Affiliates (unless we are permitted or required by law to do so), you will also need to indicate your request on the attached opt-out <a title="reply form" onclick="window.open('/inside/privacy_opt_out.html', '', 'status=yes,menubar=yes,resizable=yes,scrollbars=yes,toolbar=yes,width=635,height=545'); return false;" href="/inside/privacy_opt_out.html" target="_blank">reply form</a>. We will be happy to comply with your request. If you have previously informed us of your preference, you do not need to do so again. Please understand that your request may exclude you from receiving valuable offers in the future. Your request will only apply to the HSBC Credit Card account you have designated on the opt-out form by account number. An opt-out request by any party on a joint account will apply to all parties on the joint account. Opt-out requests will not apply to information sharing that is permitted by law.</p>
-
-<p>Once you have completed the reply form, please mail it to HSBC Card Services, P.O. Box 60173, City of Industry, CA 91716-0173. Please allow sufficient time for us to process your request. <strong>Please do not include any other correspondence in with your request</strong>.<br>
-<img height="1" alt="" src="/images/graypixel.gif" width="500" vspace="7" border="0"></p>
-
-<p><br>
-&nbsp;</p>
-
-<p><strong>How to Be Removed from Solicitation Lists of Companies Participating in the Direct Marketing Association (DMA) Preference Service</strong></p>
-
-<p>If you wish to be removed from mailing solicitation lists at a national level, please send your name and address (with zip code) to the Direct Marketing Association at the following address:</p>
-
-<p>Mail Preference Service (DMA), P. O. Box 9008, Farmingdale, NY 11735-9008</p>
-
-<p>* Affiliates are companies that are related to us by common ownership or corporate control. Our Affiliates include HFC®, Beneficial®, HSBC Auto Finance Inc., Household Insurance Group, Inc.,&nbsp;and HSBC companies such as HSBC Bank USA, N.A., and HSBC Mortgage Corporation. <img height="1" alt="" src="/images/graypixel.gif" width="500" vspace="7" border="0"></p>
-
-<p>&nbsp;</p>
-
-<p align="center"><strong>HOUSEHOLD INSURANCE GROUP, INC.<br>
-ASSURANT SOLUTIONS<br>
-SOUTHERN COUNTY MUTUAL INSURANCE COMPANY<br>
-</strong><strong>Privacy Statement for Customers with Credit Insurance</strong></p>
-
-<p><b>This paragraph applies only to customers who have selected credit insurance provided by Household Insurance Group ("HIG"), the Assurant Group ("Assurant"), or Southern County Mutual Insurance Company ("Southern County")**.</b></p>
-
-<p>HIG, Assurant, and Southern County are very aware of the privacy concerns of our customers, and we understand your concerns and protect your privacy. We are providing this notice to explain how we treat customer information that is not public. This is customer information we obtain from you, like your name and address, or other sources, such as account information related to your HSBC accounts. HIG, Assurant, and Southern County want you to know that we respect your privacy, and we protect your information.</p>
-
-<p>To administer the credit insurance you requested, HIG, Assurant, and Southern County collect and keep a variety of information contained within your acceptance of the credit insurance. Either this information comes directly from you, for instance, from your application, or it may come from an HSBC lending affiliate.</p>
-
-<p>HIG, Assurant, and Southern County take great care to protect the privacy of this information. For example, we do not sell or share with persons, companies, or organizations that are outside of HIG, Assurant, or Southern County Insurance Companies except as permitted by law. We require companies that provide services on our behalf or with whom we jointly market products to keep your information confidential. That the only employees or companies that can access such information are those who need it to provide services concerning your insurance.</p>
-
-<p>Moreover, in compliance with federal and state standards, HIG, Assurant, and Southern County maintain physical, electronic and procedural safeguards to protect against unauthorized use or disclosure of that information. HIG, Assurant and Southern County do not disclose information about you to their respective affiliates or to third parties, except as permitted by law.</p>
-
-<p><b>NOTE:</b> When your relationship with us ends, your information with us remains protected as outlined above.</p>
-
-<p>** Household Insurance Group, Inc.(also under the trade name of HSBC Insurance Services) includes Household Life Insurance Company (formally known as Alexander Hamilton Life Insurance Company), Wesco Insurance Company, Service General Insurance Company, First Central National Life Insurance Company of New York, Household Life Insurance of Delaware, BFC Insurance Agency of Nevada, HSBC Insurance Agency (USA), Inc., and such other companies Household Insurance Group may subsequently acquire. Assurant Solutions includes American Reliable Insurance Company, American Bankers Insurance Company of Florida, American Bankers Life Assurance Company of Florida, Financial Insurance Exchange, First Fortis Life Insurance Company and Union Security Life Insurance Company.</p>
-
-<p>Updates and Modifications: This Privacy Statement was last updated on May 9, 2005. We reserve the right to modify out privacy practices at any time. Any such modification will be communicated to you in accordance with applicable law.</p>
-
-<br>
-<p align="center"><strong>© HSBC Card Services Inc. 2004-2005.&nbsp;&nbsp;All rights reserved.</strong></p>
-
-<img height="1" alt="" src="/images/graypixel.gif" width="500" vspace="7" border="0"> </td>
-</tr>
-</tbody>
-</table>
-				</div>
-					<!-- Original footer text: /docroot/components/footer/footer_general_fdic.html -->
-<div id="footer"><p>Member FDIC</p>
-<p>
-	<a href="javascript:OpenSubWindow('/securitysite/default.html',655, 500,'security')">Security Site</a>&nbsp;-&nbsp;
-	<a target="new" href="/inside/webtracking.html">Web Tracking Notification</a>&nbsp;-&nbsp;
-	<a href="/inside/privacy.html">Privacy Statement</a>&nbsp;-&nbsp;
-	<a href="/inside/termsandconditions.html">Terms &amp; Conditions</a><br>
-	<a href="/inside/sitemap.html">Site Map</a>
-</p>
-<p>
-© HSBC Bank USA, N.A. 2005. All Rights Reserved.
-</p>
-</div>
-			</td>
-<td id="rght_col">
-
-				<!-- Online Services Flag: corporate -->
-<!-- Account Access Flag:  -->
-<!-- Apply Now Flag: none -->
-<!-- Ins Quotes Flag:  -->
-<!-- Mort Rates Flag:  -->
-<!-- Special Promo Flag:  -->
-
-
-				 
-					<!-- Original file text: /docroot/inside/right_column/privacy_related_links.html -->
-		
-	
-
-	<div class="sub_cont_box">
-
-
-		<h2>Related Information</h2>
-		<ul>
-			
-				<li>
-					<p><a href="/inside/privacyfaqs.html">Privacy Frequently Asked Questions</a></p>
-
-				</li>
-			
-				<li>
-					<p><a href="javascript:OpenSubWindow('/securitysite/default.html',655, 500,'security');">Security Site</a></p>
-
-				</li>
-			
-				<li>
-					<p><a href="/internetbanking/faqs.html">Internet Banking Frequently&nbsp; Asked Questions</a></p>
-
-				</li>
-			
-		</ul>
-
-	</div>
-
-
-	
-				 
-			</td>
-
-		</tr>
-	</tbody></table>	
-            
-
-
-<!-- END: Include contentPage -->
-
-<script language="javascript" type="text/javascript" src="/js/HSBC-bottom_section.js"></script>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
 </body></html>
