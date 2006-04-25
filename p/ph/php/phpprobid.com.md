@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the phpprobid.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217180434id_/http%3A//phpprobid.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phpprobid.com privacy policy that was archived on 2006-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060425203254id_/http%3A//phpprobid.com/privacy.php) for the most accurate reproduction.*
 
 # Professional Auction Script Software by PHP Pro Bid
 
 | 
 
-| [](https://web.archive.org/web/20051217180434id_/http%3A//phpprobid.com/auction-software-features.php) | [](https://web.archive.org/web/20051217180434id_/http%3A//phpprobid.com/auction-script-requirements.php) | [](http://www.phpprobid.com/auction-software-demo/) | [](https://web.archive.org/web/20051217180434id_/http%3A//phpprobid.com/pricing.php) | [](https://www.phpprobid.com/order.php) |    
----|---|---|---|---|---  
+| [](https://web.archive.org/web/20060425203254id_/http%3A//phpprobid.com/auction-software-features.php) | [](https://web.archive.org/web/20060425203254id_/http%3A//phpprobid.com/auction-script-requirements.php) | [](http://www.phpprobid.com/auction-software-demo/) | [](https://web.archive.org/web/20060425203254id_/http%3A//phpprobid.com/pricing.php) | [](https://web.archive.org/web/20060425203254id_/http%3A//phpprobid.com/contact.php) | [](https://www.phpprobid.com/order.php) |    
+---|---|---|---|---|---|---  
   
 [](http://www.phpprobid.com/auction-software-demo/)
 
-[](https://web.archive.org/web/20051217180434id_/http%3A//phpprobid.com/comp.php)
+[](https://web.archive.org/web/20060425203254id_/http%3A//phpprobid.com/comp.php)
 
 [](http://www.phpprobid.com/portfolio.php)
 
