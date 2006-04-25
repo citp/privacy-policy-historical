@@ -1,14 +1,25 @@
-<!--The following is the downloaded HTML source of the lnt.com privacy policy that was archived on 2005-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051212113905id_/http%3A//www.lnt.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav3_privacy_txt) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lnt.com privacy policy that was archived on 2006-04-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060425035047id_/http%3A//www.lnt.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav3_privacy_txt) for the most accurate reproduction.-->
 
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 
 	
 		<title>Linens 'n Things&nbsp;Helpdesk</title>
 		<script language="Javascript">
+function trimString (str) {
+  while (str.charAt(0) == ' ')
+    str = str.substring(1);
+  while (str.charAt(str.length - 1) == ' ')
+    str = str.substring(0, str.length - 1);
+  return str;
+}
+
+
 function emailCheck(type) // not sure if anybody uses this, but just in case i'm leaving it functional
 {
-    if (!validateEmail(document.emailForm.emailAddress.value))
+ var email = trimString(document.emailForm.emailAddress.value);
+
+    if (!validEmail(email))
 	{
         alert('Please enter a valid e-mail address.');
         return false;
@@ -66,153 +77,373 @@ function jump(url)
 }
 </script>
 
-	    <link rel="stylesheet" type="text/css" href="../include/store.css">
+	    <link rel="stylesheet" type="text/css" href="http://LNT.imageg.net/include/store2.css">
 	</head>
-<body bgcolor="F7F2D5" topmargin="6" leftmargin="6" marginwidth="6" marginheight="6" rightmargin="6" border="0">		<a name="pageTop()"><!-- --></a>
+<body topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" rightmargin="0" border="0">
+<a name="pageTop()"><!-- --></a>
 	<script language="JavaScript" type="text/javascript" src="http://LNT.imageg.net/include/dhtml_menus.js"></script>
 <style type="text/css">
-.transMenu {position:absolute;overflow:hidden;left:-1000px;top:-1000px;z-index:10;}
-.transMenu .content {position:absolute;z-index:10;}
-.transMenu .items {position:relative;left:0px;top:0px;z-index:20;}
-.transMenu.top .items {border-top:none;}
+.transMenu {
+	position:absolute;
+	overflow:hidden;
+	left:-1000px;
+	top:-1000px;
+	z-index:10;
+	}
+
+.transMenu .content {
+	position:absolute;
+	z-index:10;
+	}
+
+.transMenu .items {
+	position:relative;
+	left:0px; top:0px;
+	z-index:20;
+	}
+
+.transMenu.top .items {
+	border-top:none;
+	}
+
 .transMenu .item {
-    color:#336;
+    color:#5d5d5d;
     font-size:10px;
-    font-family:sans-serif;
+    font-family:verdana, sans-serif;
     text-decoration:none;
 	/* hack for mac/ie5*/
 	border:none;
 	cursor:pointer;
 	cursor:hand;
+	padding-left:8px;
+	padding:3px;
 	}
-.transMenu .background {position:absolute;left:0px; top:0px;z-index:10;	-moz-opacity:.95;filter:alpha(opacity=95);}
-.transMenu .shadowRight {position:absolute;z-index:30;top:3px; width:2px; -moz-opacity:.4;filter:alpha(opacity=40);}
-.transMenu .shadowBottom {position:absolute;z-index:10;left:3px; height:2px; -moz-opacity:.4;filter:alpha(opacity=40);}
-.transMenu .item.hover {background:#fdfdfd;color:black;}
-.transMenu .item img {margin-left:10px;}
+
+.transMenu .background {
+	position:absolute;
+	left:0px; top:0px;
+	z-index:10;
+	-moz-opacity:.95;
+	filter:alpha(opacity=95);
+	}
+
+.transMenu .shadowRight {
+	position:absolute;
+	z-index:30;
+	top:3px; width:2px;
+	-moz-opacity:.4;
+	filter:alpha(opacity=40);
+	}
+
+.transMenu .shadowBottom {
+	position:absolute;
+	z-index:10;
+	left:3px; height:2px;
+	-moz-opacity:.4;
+	filter:alpha(opacity=40);
+	}
+
+.transMenu .item.hover {
+	background:#5d5d5d;
+	color:#ffffff;
+	font-weight:normal;
+	}
+
+.transMenu .item img {
+	margin-left:10px;
+	}
+
 </style>
 <script language="javascript">
-if (document.images) 
-{
-	var image0on = new Image();
-    image0on.src = "http://LNT.imageg.net/images/1-1.gif";
-    var image1on = new Image();
-    image1on.src = "http://LNT.imageg.net/images/2-1.gif";
-    var image2on = new Image();
-    image2on.src = "http://LNT.imageg.net/images/3-1.gif";
-    var image3on = new Image();
-    image3on.src = "http://LNT.imageg.net/images/4-1.gif";
-	var image4on = new Image();
-    image4on.src = "http://LNT.imageg.net/images/5-1.gif";
-    var image5on = new Image();
-    image5on.src = "http://LNT.imageg.net/images/6-1.gif";
-    var image6on = new Image();
-    image6on.src = "http://LNT.imageg.net/images/7-1.gif";
-    var image7on = new Image();
-	image7on.src = "http://LNT.imageg.net/images/8-1.gif";
-    var image8on = new Image();
-    image8on.src = "http://LNT.imageg.net/images/9-1.gif";
-    var image9on = new Image();
-    image9on.src = "http://LNT.imageg.net/images/10-1.gif";
-    var image10on = new Image();
-    image10on.src = "http://LNT.imageg.net/images/11-1.gif";
-    var image0off = new Image();
-    image0off.src = "http://LNT.imageg.net/images/1-0.gif";
-    var image1off = new Image();
-    image1off.src = "http://LNT.imageg.net/images/2-0.gif";
-    var image2off = new Image();
-    image2off.src = "http://LNT.imageg.net/images/3-0.gif";
-    var image3off = new Image();
-    image3off.src = "http://LNT.imageg.net/images/4-0.gif";
-    var image4off = new Image();
-    image4off.src = "http://LNT.imageg.net/images/5-0.gif";
-    var image5off = new Image();
-    image5off.src = "http://LNT.imageg.net/images/6-0.gif";
-    var image6off = new Image();
-    image6off.src = "http://LNT.imageg.net/images/7-0.gif";
-    var image7off = new Image();
-    image7off.src = "http://LNT.imageg.net/images/8-0.gif";
-    var image8off = new Image();
-    image8off.src = "http://LNT.imageg.net/images/9-0.gif";
-    var image9off = new Image();
-    image9off.src = "http://LNT.imageg.net/images/10-0.gif";
-    var image10off = new Image();
-    image10off.src = "http://LNT.imageg.net/images/11-0.gif";
+if (document.images) {
+
+       image0on = new Image();
+       image0on.src = "http://LNT.imageg.net/images/1-1v2.gif";
+       image1on = new Image();
+       image1on.src = "http://LNT.imageg.net/images/2-1v2.gif";
+       image2on = new Image();
+       image2on.src = "http://LNT.imageg.net/images/3-1v2.gif";
+       image3on = new Image();
+       image3on.src = "http://LNT.imageg.net/images/4-1v2.gif";
+	   image4on = new Image();
+       image4on.src = "http://LNT.imageg.net/images/5-1v2.gif";
+       image5on = new Image();
+       image5on.src = "http://LNT.imageg.net/images/6-1v2.gif";
+       image6on = new Image();
+       image6on.src = "http://LNT.imageg.net/images/7-1v2.gif";
+       image7on = new Image();
+       image7on.src = "http://LNT.imageg.net/images/8-1v2.gif";
+       image8on = new Image();
+       image8on.src = "http://LNT.imageg.net/images/9-1v2.gif";
+       image9on = new Image();
+       image9on.src = "http://LNT.imageg.net/images/10-1v2.gif";
+
+       image0off = new Image();
+       image0off.src = "http://LNT.imageg.net/images/1-0v2.gif";
+       image1off = new Image();
+       image1off.src = "http://LNT.imageg.net/images/2-0v2.gif";
+       image2off = new Image();
+       image2off.src = "http://LNT.imageg.net/images/3-0v2.gif";
+       image3off = new Image();
+       image3off.src = "http://LNT.imageg.net/images/4-0v2.gif";
+	   image4off = new Image();
+       image4off.src = "http://LNT.imageg.net/images/5-0v2.gif";
+       image5off = new Image();
+       image5off.src = "http://LNT.imageg.net/images/6-0v2.gif";
+       image6off = new Image();
+       image6off.src = "http://LNT.imageg.net/images/7-0v2.gif";
+       image7off = new Image();
+       image7off.src = "http://LNT.imageg.net/images/8-0v2.gif";
+	   image8off = new Image();
+       image8off.src = "http://LNT.imageg.net/images/9-0v2.gif";
+       image9off = new Image();
+       image9off.src = "http://LNT.imageg.net/images/10-0v2.gif";
+
 	}
-	
-	function imgOn(imgName) 
-	{
-		if (document.images) 
-		{
-	    	document[imgName].src = eval(imgName + "on.src");
-		}
+function imgOn(imgName) {
+	if (document.images) {
+		document[imgName].src = eval(imgName + "on.src");
 	}
-	
-	function imgOff(imgName) 
-	{
-		if (document.images) 
-		{
-	    	document[imgName].src = eval(imgName + "off.src");
-		}
 	}
-</script>
-<script language="JavaScript">
+function imgOff(imgName) {
+	if (document.images) {
+	    document[imgName].src = eval(imgName + "off.src");
+	}
+	}
+
+
+//
+// Rollover
+//
 function Hilite(name,over)
 {
-	if(window.document.images)
-  	{
-    	if (over)
-      		window.document.images[name].src = "http://LNT.imageg.net/images/" + name + "_on.jpg";
-    	else
-      		window.document.images[name].src = "http://LNT.imageg.net/images/" + name + ".jpg";
-  	}
+  if(window.document.images)
+  {
+    if (over)
+      window.document.images[name].src = "http://LNT.imageg.net/images/" + name + "_on.jpg";
+    else
+      window.document.images[name].src = "http://LNT.imageg.net/images/" + name + ".jpg";
+  }
 }
+
+
+function toggleVisibility(id, NNtype, IEtype, WC3type) 
+	{
+	    if (document.getElementById) 
+		{
+	        eval("document.getElementById(id).style.visibility = \"" + WC3type + "\"");
+			
+	    }
+		else
+		{
+	        if (document.layers) 
+			{
+	            document.layers[id].visibility = NNtype;
+	        }
+			else
+			{
+	            if (document.all)
+				{
+	                eval("document.all." + id + ".style.visibility = \"" + IEtype + "\"");
+	            }
+	        }
+	    }
+	}
+
+function emailFocus() {
+	parent.frames['emailDrop'].document.forms['emailForm'].emailAddress.focus();
+}
+
 </script>
+<style>
+	
+#wrapper {
+	text-align: center;
+	}
+
+#frame {
+	position:relative;
+	width:775px;
+	margin: 0 auto;
+	padding:0px;
+	text-align:left;
+	}
+
+#header {
+	position: absolute;
+	z-index: 100;
+	width:775px;
+	height:85px;
+	top: 0px;
+	left: 0px;
+	text-align:center;
+	}
+
+#emailSlider {
+	position: absolute;
+	left: 11px;
+	z-index: 101;
+	width: 216px;
+	top:122px;
+	text-align:center;
+	border: #AEB0B0 solid 0px;
+	}
+</style>
 
 
-<br>
-<table width="768" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff">
+<div id="wrapper">
+<div id="frame">
+<div id="header">
+<table width="780" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff" align="center">
 <tbody><tr>
-	<td colspan="4" align="right" height="30" valign="middle">
-		<table cellspacing="0" cellpadding="0" border="0">
+	<td align="right" colspan="2" height="25" valign="bottom">
+		<table cellspacing="0" cellpadding="0" border="0" width="504">
 		<tbody><tr>
-			<td width="13">
-				<img src="http://LNT.imageg.net/images/pixel.gif" alt="" width="13" height="1" border="0"></td>
-			<td width="100%">
-				<span class="topnavlink">Order by phone: 866-568-7378&nbsp;|&nbsp;<a href="/registry/index.jsp?clickid=topnav_giftr_txt" class="topnavlink">Gift Registry</a>&nbsp;|&nbsp;<a href="/corp/index.jsp?page=storeLocator&amp;clickid=topnav_storeloc_txt" class="topnavlink">Store Locator</a>&nbsp;|&nbsp;<a href="/helpdesk/index.jsp?clickid=topnav_help_txt" class="topnavlink">Help</a>&nbsp;|&nbsp;<a href="https://www.lnt.com/coreg/index.jsp?step=ot&amp;clickid=topnav_ordertrk_txt" class="topnavlink">Track Order</a>&nbsp;|&nbsp;<b><a href="/cart/index.jsp?clickid=topnav_cart_txt" class="topnavlink">Cart</a>(0 items)</b>&nbsp;&nbsp;</span><img src="http://LNT.imageg.net/images/pixel.gif" alt="" width="7" height="1" border="0"></td>
-			<td nowrap="">
-				Shop&nbsp;<a href="http://www.lnt.com" class="headerlink"><img src="http://LNT.imageg.net/images/usa_flag_on.gif" align="absmiddle" border="0"></a>&nbsp;<a href="http://www.lnt.com" class="headerlinkOn">USA</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://canada.lnt.com" class="headerlink"><img src="http://LNT.imageg.net/images/canada_flag.gif" align="absmiddle" border="0"></a>&nbsp;<a href="http://canada.lnt.com" class="headerlink">Canada</a>&nbsp;&nbsp;&nbsp;</td>
+			<td nowrap="" valign="top" align="center">
+				<a href="/registry/index.jsp?clickid=topnav_giftr_txt" class="topnavlink">Gift Registry</a></td>
+			<td width="25" align="center" valign="bottom">
+				<table cellspacing="0" cellpadding="0" border="0" width="25">
+				<tbody><tr>
+					<td>
+						<img src="http://LNT.imageg.net/images/pixel.gif" align="absmiddle" border="0" width="12" height="1"></td>
+					<td nowrap="" valign="top" width="1">
+						<img src="http://LNT.imageg.net/images/header_dotted_divider.gif" align="absmiddle" border="0" width="1"></td>
+					<td>
+						<img src="http://LNT.imageg.net/images/pixel.gif" align="absmiddle" border="0" width="12" height="1"></td>
+				</tr>
+				</tbody></table></td>
+			<td nowrap="" valign="top" align="center">
+				<a href="/corp/index.jsp?page=storeLocator&amp;clickid=topnav_storeloc_txt" class="topnavlink">Store Locator</a></td>
+			<td width="25" align="center" valign="bottom">
+				<table cellspacing="0" cellpadding="0" border="0" width="25">
+				<tbody><tr>
+					<td>
+						<img src="http://LNT.imageg.net/images/pixel.gif" align="absmiddle" border="0" width="12" height="1"></td>
+					<td nowrap="" valign="top" width="1">
+						<img src="http://LNT.imageg.net/images/header_dotted_divider.gif" align="absmiddle" border="0" width="1"></td>
+					<td>
+						<img src="http://LNT.imageg.net/images/pixel.gif" align="absmiddle" border="0" width="12" height="1"></td>
+				</tr>
+				</tbody></table></td>
+			<td nowrap="" valign="top" align="center">
+				<a href="https://www.lnt.com/coreg/index.jsp?step=ot&amp;clickid=topnav_ordertrk_txt" class="topnavlink">Track Order</a></td>
+			<td width="25" align="center" valign="bottom">
+				<table cellspacing="0" cellpadding="0" border="0" width="25">
+				<tbody><tr>
+					<td>
+						<img src="http://LNT.imageg.net/images/pixel.gif" align="absmiddle" border="0" width="12" height="1"></td>
+					<td nowrap="" valign="top" width="1">
+						<img src="http://LNT.imageg.net/images/header_dotted_divider.gif" align="absmiddle" border="0" width="1"></td>
+					<td>
+						<img src="http://LNT.imageg.net/images/pixel.gif" align="absmiddle" border="0" width="12" height="1"></td>
+				</tr>
+				</tbody></table></td>
+			<td nowrap="" valign="top" align="center">
+				<a href="https://www.lnt.com/coreg/index.jsp?step=register&amp;clickid=topnav_myacct_txt" class="topnavlink">My Account</a></td>
+			<td width="25" align="center" valign="bottom">
+				<table cellspacing="0" cellpadding="0" border="0" width="25">
+				<tbody><tr>
+					<td>
+						<img src="http://LNT.imageg.net/images/pixel.gif" align="absmiddle" border="0" width="12" height="1"></td>
+					<td nowrap="" valign="top" width="1">
+						<img src="http://LNT.imageg.net/images/header_dotted_divider.gif" align="absmiddle" border="0" width="1"></td>
+					<td>
+						<img src="http://LNT.imageg.net/images/pixel.gif" align="absmiddle" border="0" width="12" height="1"></td>
+				</tr>
+				</tbody></table></td>
+			<td nowrap="" valign="top" align="center">
+				<a href="/cart/index.jsp?clickid=topnav_cart_txt" class="topnavlink"><b>Cart (0 items)</b></a><img src="http://LNT.imageg.net/images/pixel.gif" border="0" width="10" height="1"></td>
+		</tr>
+		<tr>
+			<td colspan="11" bgcolor="#ffffff">
+				<img src="http://LNT.imageg.net/images/pixel.gif" border="0" width="1" height="1"></td>
 		</tr>
 		</tbody></table></td>
 </tr>
 <tr>
-	<td colspan="4">
-		<img src="http://LNT.imageg.net/images/pixel.gif" alt="" width="1" height="16" border="0"></td>
+	<td background="http://LNT.imageg.net/images/header_line.gif" colspan="4">
+		<img src="http://LNT.imageg.net/images/pixel.gif" height="3" width="1" border="0"></td>
 </tr>
 <tr>
-	<td width="13">
-		<img src="http://LNT.imageg.net/images/pixel.gif" alt="" width="13" height="1" border="0"></td>
-	<td width="222">
-		<a href="/home/index.jsp"><img src="http://LNT.imageg.net/images/header_lnt_logo.gif" alt="" border="0"></a></td>
-	<td width="333" align="right">
-
-<a href="http://www.lnt.com/shop/index.jsp?categoryId=1439986"><img src="http://LNT.imageg.net/images/LNT_isp_header_img.gif" alt="" border="0"></a>
-
-<img src="http://LNT.imageg.net/images/pixel.gif" alt="" width="10" height="1" border="0"><br><img src="http://LNT.imageg.net/images/pixel.gif" alt="" width="1" height="10" border="0"></td>
-	<td width="190" align="left"><form name="search" action="/searchHandler/index.jsp" method="get" style="margin:0 0 0 0;"><input name="keywords" class="pagetext" size="15" value="" onfocus="this.value=''">&nbsp;<input type="image" src="http://LNT.imageg.net/images/header_gobutton.gif" width="56" height="20" border="0" align="absmiddle" cache=""></form>
-	<span class="topnavlink">search by keyword or LNT.com #</span></td>
-</tr>
-<tr>
-	<td colspan="4"><img src="http://LNT.imageg.net/images/pixel.gif" alt="" width="1" height="13" border="0"></td>
+	<td width="780" valign="top">
+		<table cellspacing="0" cellpadding="0" border="0">
+		<tbody><tr>
+			<td>
+				<img src="http://LNT.imageg.net/images/pixel.gif" height="1" width="7" border="0"></td>
+			<td>
+				<img src="http://LNT.imageg.net/images/pixel.gif" height="10" width="1" border="0"><br>
+				<a href="/home/index.jsp"><img src="http://LNT.imageg.net/images/header_lnt_logo.gif" border="0" width="222" height="46"></a></td>
+			<td valign="top">
+				<table cellspacing="0" cellpadding="0" border="0">
+				<tbody><tr>
+					
+					<td width="12" align="center">
+						<img src="http://LNT.imageg.net/images/pixel.gif" height="1" width="12" border="0"></td>
+					
+					<td width="100">
+						<a href="/shop/index.jsp?categoryId=2061149"><img src="http://LNT.imageg.net/images/lnt_nav_nateBerkus.gif" height="15" width="89" border="0"></a></td>
+					<td bgcolor="#B1B1B1">
+						<img src="http://LNT.imageg.net/images/pixel.gif" height="33" width="1" border="0"></td>
+					<td width="130" align="center">
+						<a href="/shop/index.jsp?categoryId=1378799"><img src="http://LNT.imageg.net/images/lnt_nav_dd.gif" height="15" width="108" border="0"></a></td>
+					<td bgcolor="#B1B1B1">
+						<img src="http://LNT.imageg.net/images/pixel.gif" height="33" width="1" border="0"></td>
+					<td width="95" align="center">
+						<a href="/category/index.jsp?categoryId=2166305"><img src="http://LNT.imageg.net/images/lnt_nav_wn.gif" height="15" width="76" border="0"></a></td>
+					<td bgcolor="#B1B1B1">
+						<img src="http://LNT.imageg.net/images/pixel.gif" height="33" width="1" border="0"></td>
+					<td width="109" align="center">
+						<a href="/shop/index.jsp?categoryId=1347495"><img src="http://LNT.imageg.net/images/lnt_nav_specialOffers.gif" height="15" width="89" border="0"></a></td>
+					<td bgcolor="#B1B1B1">
+						<img src="http://LNT.imageg.net/images/pixel.gif" height="33" width="1" border="0"></td>
+					<td width="77" align="right">
+						<a href="/category/index.jsp?categoryId=1450422"><img src="http://LNT.imageg.net/images/lnt_nav_clearance.gif" height="15" width="65" border="0"></a></td>
+				</tr>
+				</tbody></table></td>
+		</tr>
+		<tr>
+			<td colspan="3">
+				<img src="http://LNT.imageg.net/images/pixel.gif" height="4" width="1" border="0"></td>
+		</tr>
+		</tbody></table></td>
 </tr>
 <tr>
 	<td colspan="4" align="center">
-	<div id="content">
-
-<a href="/category/index.jsp?categoryId=1331604"><img src="http://LNT.imageg.net/images/1-0.gif" name="image0" id="Bath" alt="" width="51" height="26" border="0"></a><a href="/category/index.jsp?categoryId=1331605"><img src="http://LNT.imageg.net/images/2-0.gif" name="image1" id="Bedding" alt="" width="75" height="26" border="0"></a><a href="/category/index.jsp?categoryId=1331606"><img src="http://LNT.imageg.net/images/3-0.gif" name="image2" id="Dining" alt="" width="61" height="26" border="0"></a><a href="/category/index.jsp?categoryId=1331607"><img src="http://LNT.imageg.net/images/4-0.gif" name="image3" id="Kitchen" alt="" width="69" height="26" border="0"></a><a href="/category/index.jsp?categoryId=1331608"><img src="http://LNT.imageg.net/images/5-0.gif" name="image4" id="Electrics" alt="" width="78" height="26" border="0"></a><a href="/category/index.jsp?categoryId=1331609"><img src="http://LNT.imageg.net/images/6-0.gif" name="image5" id="Home Decor" alt="" width="101" height="26" border="0"></a><a href="/category/index.jsp?categoryId=1331610"><img src="http://LNT.imageg.net/images/7-0.gif" name="image6" id="Organization" alt="" width="105" height="26" border="0"></a><a href="/category/index.jsp?categoryId=1346212"><img src="http://LNT.imageg.net/images/8-0.gif" name="image7" id="Gifts" alt="Gifts" width="53" height="26" border="0"></a><a href="/shop/index.jsp?categoryId=2061149"><img src="http://LNT.imageg.net/images/9-0.gif" name="image8" id="Nate Berkus" alt="" width="82" height="26" border="0"></a><a href="/category/index.jsp?categoryId=1426151"><img src="http://LNT.imageg.net/images/11-0.gif" name="image9" id="Seasonal" alt="Seasonal" width="82" height="26" border="0"></a>
-<!--##########-->
-</div>
-</td>
+	<div id="content"><a href="/category/index.jsp?categoryId=1331605"><img src="http://LNT.imageg.net/images/1-0v2.gif" name="image0" id="Bedding" alt="" width="80" height="26" border="0"></a><a href="/category/index.jsp?categoryId=1331604"><img src="http://LNT.imageg.net/images/2-0v2.gif" name="image1" id="Bath" alt="" width="53" height="26" border="0"></a><a href="/category/index.jsp?categoryId=1331606"><img src="http://LNT.imageg.net/images/3-0v2.gif" name="image2" id="Dining" alt="" width="64" height="26" border="0"></a><a href="/category/index.jsp?categoryId=1331607"><img src="http://LNT.imageg.net/images/4-0v2.gif" name="image3" id="Kitchen" alt="" width="73" height="26" border="0"></a><a href="/category/index.jsp?categoryId=1331608"><img src="http://LNT.imageg.net/images/5-0v2.gif" name="image4" id="Electrics" alt="" width="78" height="26" border="0"></a><a href="/category/index.jsp?categoryId=1331609"><img src="http://LNT.imageg.net/images/6-0v2.gif" name="image5" id="Home Decor" alt="" width="106" height="26" border="0"></a><a href="/category/index.jsp?categoryId=2167013"><img src="http://LNT.imageg.net/images/7-0v2.gif" name="image6" id="Window" alt="" width="76" height="26" border="0"></a><a href="/category/index.jsp?categoryId=1331610"><img src="http://LNT.imageg.net/images/8-0v2.gif" name="image7" id="Organization" alt="" width="107" height="26" border="0"></a><a href="/category/index.jsp?categoryId=1346212"><img src="http://LNT.imageg.net/images/9-0v2.gif" name="image8" id="Gifts" alt="" width="58" height="26" border="0"></a><a href="/category/index.jsp?categoryId=2166977"><img src="http://LNT.imageg.net/images/10-0v2.gif" name="image9" id="Seasonal" alt="" width="84" height="26" border="0"></a></div><img src="http://LNT.imageg.net/images/nav_shadow.gif" border="0"></td>
+</tr>
+</tbody></table>
+<table cellspacing="0" cellpadding="0" border="0" width="780" align="center">
+<tbody><tr>
+	<td rowspan="2" bgcolor="#ffffff" width="3">
+		<img src="http://LNT.imageg.net/images/pixel.gif" border="0" width="3" height="1"></td>
+	<td colspan="4" bgcolor="#E9E9E9" width="774">
+		<table cellspacing="0" cellpadding="0" border="0">
+		<tbody><tr>
+			<td>
+				<img src="http://LNT.imageg.net/images/header_left_corner.gif" border="0" width="8" height="37"></td>
+			<td valign="middle">
+				<a href="javascript:toggleVisibility('emailSlider','visible','visible','visible');emailFocus();"><img src="http://LNT.imageg.net/images/lnt_email_tab.gif" border="0" width="216" height="24"></a></td>
+			<td>
+				<img src="http://LNT.imageg.net/images/pixel.gif" border="0" width="320" height="1"></td>
+			<td>
+				<form name="search" action="/searchHandler/index.jsp" method="get" style="margin:0 0 0 0;">
+				<input name="keywords" class="searchBoxCopy" style="width:148px;" value="keyword or LNT.com #" onfocus="this.value=''"><img src="http://LNT.imageg.net/images/pixel.gif" border="0" width="7" height="1"><input type="image" src="http://LNT.imageg.net/images/header_gobutton.gif" width="68" height="21" border="0" align="absmiddle" cache="">
+				</form></td>
+		</tr>
+		</tbody></table></td>
+	<td rowspan="2" bgcolor="#ffffff" width="3">
+		<img src="http://LNT.imageg.net/images/pixel.gif" border="0" width="3" height="1"></td>
+</tr>
+</tbody></table>
+</div> <!-- end header div -->
+<div style="visibility:hidden;" id="emailSlider" height="149" width="216">
+<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><a href="javascript:toggleVisibility('emailSlider','hidden','hidden','hidden');"><img src="http://LNT.imageg.net/images/lnt_email_tab_onState.gif" border="0"></a></td></tr></tbody></table>
+<iframe name="emailDrop" height="149" width="216" frameborder="0" src="../include/entry.jsp" scrolling="No"></iframe><table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><img src="http://LNT.imageg.net/images/email_bot.gif" border="0"></td></tr></tbody></table></div>
+</div> <!-- end frame div -->
+<table cellspacing="0" cellpadding="0" border="0" width="780" align="center" bgcolor="#e9e9e9">
+<tbody><tr>
+	<td>
+		<img src="http://LNT.imageg.net/images/lnt_bot_left_corner.gif" border="0" width="8" height="6"></td>
 </tr>
 <tr>
 	<td colspan="4" bgcolor="#FFFFFF" height="1">
@@ -229,17 +460,139 @@ function Hilite(name,over)
 </div><img src="http://LNT.imageg.net/images/pixel.gif" border="0" alt="" width="0" height="0"></td>
 </tr>
 </tbody></table>
-<map name="lnt_header_seasonal_Map">
-<area shape="rect" alt="" coords="116,8,210,39" href="/shop/index.jsp?categoryId=1439986">
-<area shape="rect" alt="" coords="0,9,59,41" href="/category/index.jsp?categoryId=1426151">
-</map>
+</div>
 <script language="javascript">
-if (TransMenu.isSupported()) 
-{
+if (TransMenu.isSupported()) {
 var ms = new TransMenuSet(TransMenu.direction.down, 1, 1, TransMenu.reference.bottomLeft);
-var menu0 = ms.addMenu(document.getElementById("Bath"));menu0.addItem("Towels", "/category/index.jsp?categoryId=1331611&cp=1331604");menu0.addItem("Bath Rugs", "/family/index.jsp?categoryId=1331612&cp=1331604");menu0.addItem("Bath Collections", "/category/index.jsp?categoryId=1331613&cp=1331604");menu0.addItem("Shower Curtains", "/category/index.jsp?categoryId=1331614&cp=1331604");menu0.addItem("Bath Furniture", "/family/index.jsp?categoryId=1770209&cp=1331604");menu0.addItem("Towel Holders/Stands", "/family/index.jsp?categoryId=1830165&cp=1331604");menu0.addItem("Hampers/Wastebaskets", "/family/index.jsp?categoryId=1772889&cp=1331604");menu0.addItem("Personal Care", "/category/index.jsp?categoryId=1331615&cp=1331604");menu0.addItem("Accessories", "/category/index.jsp?categoryId=1331616&cp=1331604");menu0.addItem("Kids Bath", "/family/index.jsp?categoryId=1331617&cp=1331604");menu0.addItem("Robes/Wraps", "/family/index.jsp?categoryId=2134649&cp=1331604");var menu1 = ms.addMenu(document.getElementById("Bedding"));menu1.addItem("Sheets", "/category/index.jsp?categoryId=1331625&cp=1331605");menu1.addItem("Comforters", "/category/index.jsp?categoryId=1331627&cp=1331605");menu1.addItem("Bed-in-a-Bag", "/family/index.jsp?categoryId=1331628&cp=1331605");menu1.addItem("Bedding Ensembles", "/category/index.jsp?categoryId=1331626&cp=1331605");menu1.addItem("Down Comforters", "/family/index.jsp?categoryId=1896310&cp=1331605");menu1.addItem("Quilts", "/family/index.jsp?categoryId=1331629&cp=1331605");menu1.addItem("Coverlets", "/family/index.jsp?categoryId=2147889&cp=1331605");menu1.addItem("Duvet Covers", "/category/index.jsp?categoryId=1331630&cp=1331605");menu1.addItem("Daybeds/ Bedspreads", "/family/index.jsp?categoryId=1816048&cp=1331605");menu1.addItem("Blankets", "/family/index.jsp?categoryId=1331631&cp=1331605");menu1.addItem("Pillows", "/category/index.jsp?categoryId=1331632&cp=1331605");menu1.addItem("Mattresses", "/family/index.jsp?categoryId=1892995&cp=1331605");menu1.addItem("Mattress Pads", "/family/index.jsp?categoryId=1331633&cp=1331605");menu1.addItem("Featherbeds", "/family/index.jsp?categoryId=1331634&cp=1331605");menu1.addItem("Aerobeds", "/family/index.jsp?categoryId=1895921&cp=1331605");menu1.addItem("Kids Bedding", "/family/index.jsp?categoryId=1331635&cp=1331605");menu1.addItem("Bedskirts", "/family/index.jsp?categoryId=1331636&cp=1331605");menu1.addItem("Canopies", "/family/index.jsp?categoryId=2098789&cp=1331605");var menu2 = ms.addMenu(document.getElementById("Dining"));menu2.addItem("Fine China", "/family/index.jsp?categoryId=2017580&cp=1331606");menu2.addItem("Casual China", "/family/index.jsp?categoryId=1672331&cp=1331606");menu2.addItem("Everyday Dinnerware", "/category/index.jsp?categoryId=1331942&cp=1331606");menu2.addItem("Serveware", "/category/index.jsp?categoryId=1386948&cp=1331606");menu2.addItem("Glassware", "/category/index.jsp?categoryId=1331943&cp=1331606");menu2.addItem("Flatware", "/category/index.jsp?categoryId=1331944&cp=1331606");menu2.addItem("Table Linens", "/category/index.jsp?categoryId=1331945&cp=1331606");menu2.addItem("Wine Gifts", "javascript:void(window.open('http://www.lntwine.com','lntwine','width=800,height=600,scrollbars=yes,resizable=yes'));");menu2.addItem("Barware", "/category/index.jsp?categoryId=1331946&cp=1331606");menu2.addItem("Dining Chair Covers", "/family/index.jsp?categoryId=1386985&cp=1331606");menu2.addItem("Chairpads", "/family/index.jsp?categoryId=1816050&cp=1331606");var menu3 = ms.addMenu(document.getElementById("Kitchen"));menu3.addItem("Small Appliances", "/category/index.jsp?categoryId=1331947&cp=1331607");menu3.addItem("Cookware", "/category/index.jsp?categoryId=1331948&cp=1331607");menu3.addItem("Cutlery", "/category/index.jsp?categoryId=1331949&cp=1331607");menu3.addItem("Bakeware", "/category/index.jsp?categoryId=1331950&cp=1331607");menu3.addItem("Tools/Gadgets", "/category/index.jsp?categoryId=1331951&cp=1331607");menu3.addItem("Food Storage", "/family/index.jsp?categoryId=1332267&cp=1331607");menu3.addItem("Accessories", "/category/index.jsp?categoryId=1903069&cp=1331607");menu3.addItem("Organization", "/category/index.jsp?categoryId=1331952&cp=1331607");menu3.addItem("Tea Kettles", "/family/index.jsp?categoryId=1331956&cp=1331607");menu3.addItem("Gourmet Food", "/family/index.jsp?categoryId=1331957&cp=1331607");menu3.addItem("Kitchen Textiles", "/family/index.jsp?categoryId=2052308&cp=1331607");menu3.addItem("Kitchen Rugs", "/family/index.jsp?categoryId=1816005&cp=1331607");menu3.addItem("Water Filtration", "/family/index.jsp?categoryId=2141944&cp=1331607");menu3.addItem("Outdoor Grills", "/family/index.jsp?categoryId=2147319&cp=1331607");var menu4 = ms.addMenu(document.getElementById("Electrics"));menu4.addItem("Electronics", "/category/index.jsp?categoryId=1426156&cp=1331608");menu4.addItem("Kitchen", "/category/index.jsp?categoryId=1331958&cp=1331608");menu4.addItem("Irons", "/family/index.jsp?categoryId=1331959&cp=1331608");menu4.addItem("Personal", "/category/index.jsp?categoryId=1331960&cp=1331608");menu4.addItem("Vacuums", "/category/index.jsp?categoryId=2016830&cp=1331608");menu4.addItem("Sewing Machines", "/family/index.jsp?categoryId=2001561&cp=1331608");menu4.addItem("Air Conditioners", "/family/index.jsp?categoryId=1770211&cp=1331608");menu4.addItem("Fans", "/family/index.jsp?categoryId=1331961&cp=1331608");menu4.addItem("Air Purification", "/family/index.jsp?categoryId=1770212&cp=1331608");menu4.addItem("Humidifiers", "/family/index.jsp?categoryId=2146650&cp=1331608");menu4.addItem("Heaters", "/family/index.jsp?categoryId=1770214&cp=1331608");menu4.addItem("Telephones", "/family/index.jsp?categoryId=2146081&cp=1331608");menu4.addItem("Compact Appliances", "/category/index.jsp?categoryId=1998170&cp=1331608");var menu5 = ms.addMenu(document.getElementById("Home Decor"));menu5.addItem("Window Curtains", "/category/index.jsp?categoryId=1331964&cp=1331609");menu5.addItem("Window Hardware", "/category/index.jsp?categoryId=1331965&cp=1331609");menu5.addItem("Window Blinds", "/family/index.jsp?categoryId=1845678&cp=1331609");menu5.addItem("Window Shades", "/family/index.jsp?categoryId=2167072&cp=1331609");menu5.addItem("Decorative Pillows", "/category/index.jsp?categoryId=1331966&cp=1331609");menu5.addItem("Throws", "/family/index.jsp?categoryId=1331967&cp=1331609");menu5.addItem("Rugs", "/category/index.jsp?categoryId=1331968&cp=1331609");menu5.addItem("Doormats", "/family/index.jsp?categoryId=1331969&cp=1331609");menu5.addItem("Slipcovers", "/family/index.jsp?categoryId=1331970&cp=1331609");menu5.addItem("Furniture", "/category/index.jsp?categoryId=1331971&cp=1331609");menu5.addItem("Lighting", "/category/index.jsp?categoryId=1331972&cp=1331609");menu5.addItem("Wall Décor", "/category/index.jsp?categoryId=1331973&cp=1331609");menu5.addItem("Candles", "/category/index.jsp?categoryId=1331974&cp=1331609");menu5.addItem("Candle Accessories", "/category/index.jsp?categoryId=1973543&cp=1331609");menu5.addItem("Home Fragrance", "/family/index.jsp?categoryId=2049819&cp=1331609");menu5.addItem("Picture Frames", "/category/index.jsp?categoryId=1331975&cp=1331609");menu5.addItem("Decorative Accents", "/category/index.jsp?categoryId=1331976&cp=1331609");var menu6 = ms.addMenu(document.getElementById("Organization"));menu6.addItem("Cleaning", "/category/index.jsp?categoryId=1331977&cp=1331610");menu6.addItem("Vacuums", "/category/index.jsp?categoryId=2016830&cp=1331610");menu6.addItem("Hard Floor Cleaners", "/family/index.jsp?categoryId=1987314&cp=1331610");menu6.addItem("Laundry", "/category/index.jsp?categoryId=1331978&cp=1331610");menu6.addItem("Storage Essentials", "/category/index.jsp?categoryId=1331979&cp=1331610");menu6.addItem("Closet Essentials", "/family/index.jsp?categoryId=1331980&cp=1331610");menu6.addItem("Problem Solving", "/category/index.jsp?categoryId=1331981&cp=1331610");menu6.addItem("Backpacks and Travel", "/category/index.jsp?categoryId=1984127&cp=1331610");var menu7 = ms.addMenu(document.getElementById("Gifts"));menu7.addItem("Wine Gifts", "javascript:void(window.open('http://www.lntwine.com','lntwine','width=800,height=600,scrollbars=yes,resizable=yes'));");menu7.addItem("Extra Value Gifts", "/family/index.jsp?categoryId=2144352&cp=1346212");menu7.addItem("Gift Card", "/family/index.jsp?categoryId=1920416&cp=1346212");menu7.addItem("Gifts by Price", "/category/index.jsp?categoryId=1852946&cp=1346212");menu7.addItem("Gifts For Her", "/family/index.jsp?categoryId=1852955&cp=1346212");menu7.addItem("Gifts For Him", "/family/index.jsp?categoryId=1852956&cp=1346212");menu7.addItem("Gifts For Kids", "/family/index.jsp?categoryId=1852957&cp=1346212");menu7.addItem("Gifts For the Home", "/family/index.jsp?categoryId=1852960&cp=1346212");menu7.addItem("Gifts For the Chef", "/family/index.jsp?categoryId=1852959&cp=1346212");menu7.addItem("Nate Berkus Gifts For The Holiday", "/family/index.jsp?categoryId=2165597&cp=1346212");menu7.addItem("Electronic Gifts", "/family/index.jsp?categoryId=1888390&cp=1346212");menu7.addItem("Game Gifts", "/family/index.jsp?categoryId=1888391&cp=1346212");menu7.addItem("Stocking Stuffers", "/family/index.jsp?categoryId=2144351&cp=1346212");menu7.addItem("Corporate Gifts", "/family/index.jsp?categoryId=2144324&cp=1346212");menu7.addItem("Gifts For Pets", "/family/index.jsp?categoryId=2140649&cp=1346212");menu7.addItem("Monogrammed Gifts", "/family/index.jsp?categoryId=2067696&cp=1346212");menu7.addItem("Top Picks for Wedding Gifts", "/family/index.jsp?categoryId=1852953&cp=1346212");menu7.addItem("Golf Gifts", "/family/index.jsp?categoryId=2150811&cp=1346212");menu7.addItem("Last Minute Gifts", "/family/index.jsp?categoryId=2168904&cp=1346212");var menu8 = ms.addMenu(document.getElementById("Nate Berkus"));
-						menu8.addItem("Nate Berkus", "../shop/index.jsp?categoryId=2061149");
-					var menu9 = ms.addMenu(document.getElementById("Seasonal"));menu9.addItem("Christmas", "/category/index.jsp?categoryId=2137094&cp=1426151");menu9.addItem("Hanukkah", "/family/index.jsp?categoryId=2138923&cp=1426151");menu9.addItem("New Year's Eve", "/family/index.jsp?categoryId=2166491&cp=1426151");menu9.addItem("Keep Warm", "/category/index.jsp?categoryId=2131346&cp=1426151");menu9.addItem("Gifts", "/category/index.jsp?categoryId=1346212&cp=1426151");menu9.addItem("Toys", "/category/index.jsp?categoryId=2154397&cp=1426151");menu9.addItem("Games", "/category/index.jsp?categoryId=2137933&cp=1426151");menu9.addItem("Recreation", "/category/index.jsp?categoryId=2139566&cp=1426151");menu9.addItem("Travel", "/family/index.jsp?categoryId=1995576&cp=1426151");menu9.addItem("As Seen On TV", "/family/index.jsp?categoryId=2011124&cp=1426151");menu9.addItem("Remix", "/family/index.jsp?categoryId=2067143&cp=1426151");menu9.addItem("Think Pink", "/family/index.jsp?categoryId=2113573&cp=1426151");
+var menu0 = ms.addMenu(document.getElementById("Bedding"));
+	menu0.addItem("Sheets", "/category/index.jsp?categoryId=1331625&cp=1331605");
+					menu0.addItem("Comforters", "/category/index.jsp?categoryId=1331627&cp=1331605");
+					menu0.addItem("Bed-in-a-Bag", "/family/index.jsp?categoryId=1331628&cp=1331605");
+					menu0.addItem("Bedding Ensembles", "/category/index.jsp?categoryId=1331626&cp=1331605");
+					menu0.addItem("Down Comforters", "/family/index.jsp?categoryId=1896310&cp=1331605");
+					menu0.addItem("Quilts", "/family/index.jsp?categoryId=1331629&cp=1331605");
+					menu0.addItem("Coverlets", "/family/index.jsp?categoryId=2147889&cp=1331605");
+					menu0.addItem("Duvet Covers", "/category/index.jsp?categoryId=1331630&cp=1331605");
+					menu0.addItem("Daybeds/ Bedspreads", "/family/index.jsp?categoryId=1816048&cp=1331605");
+					menu0.addItem("Blankets", "/family/index.jsp?categoryId=1331631&cp=1331605");
+					menu0.addItem("Pillows", "/category/index.jsp?categoryId=1331632&cp=1331605");
+					menu0.addItem("Mattresses", "/family/index.jsp?categoryId=1892995&cp=1331605");
+					menu0.addItem("Mattress Pads", "/family/index.jsp?categoryId=1331633&cp=1331605");
+					menu0.addItem("Featherbeds", "/family/index.jsp?categoryId=1331634&cp=1331605");
+					menu0.addItem("Aerobeds", "/family/index.jsp?categoryId=1895921&cp=1331605");
+					menu0.addItem("Kids Bedding", "/family/index.jsp?categoryId=1331635&cp=1331605");
+					menu0.addItem("Bedskirts", "/family/index.jsp?categoryId=1331636&cp=1331605");
+					menu0.addItem("Canopies", "/family/index.jsp?categoryId=2098789&cp=1331605");
+					var menu1 = ms.addMenu(document.getElementById("Bath"));
+	menu1.addItem("Towels", "/category/index.jsp?categoryId=1331611&cp=1331604");
+					menu1.addItem("Bath Rugs", "/family/index.jsp?categoryId=1331612&cp=1331604");
+					menu1.addItem("Bath Collections", "/category/index.jsp?categoryId=1331613&cp=1331604");
+					menu1.addItem("Shower Curtains", "/category/index.jsp?categoryId=1331614&cp=1331604");
+					menu1.addItem("Bath Furniture", "/family/index.jsp?categoryId=1770209&cp=1331604");
+					menu1.addItem("Towel Holders/Stands", "/family/index.jsp?categoryId=1830165&cp=1331604");
+					menu1.addItem("Bath Hardware", "/family/index.jsp?categoryId=2234402&cp=1331604");
+					menu1.addItem("Hampers/Wastebaskets", "/family/index.jsp?categoryId=1772889&cp=1331604");
+					menu1.addItem("Personal Care", "/category/index.jsp?categoryId=1331615&cp=1331604");
+					menu1.addItem("Accessories", "/category/index.jsp?categoryId=1331616&cp=1331604");
+					menu1.addItem("Kids Bath", "/family/index.jsp?categoryId=1331617&cp=1331604");
+					menu1.addItem("Robes/Wraps", "/family/index.jsp?categoryId=2134649&cp=1331604");
+					var menu2 = ms.addMenu(document.getElementById("Dining"));
+	menu2.addItem("Fine China", "/family/index.jsp?categoryId=2017580&cp=1331606");
+					menu2.addItem("Casual China", "/category/index.jsp?categoryId=2170565&cp=1331606");
+					menu2.addItem("Everyday Dinnerware", "/category/index.jsp?categoryId=1331942&cp=1331606");
+					menu2.addItem("Serveware", "/category/index.jsp?categoryId=1386948&cp=1331606");
+					menu2.addItem("Glassware", "/category/index.jsp?categoryId=1331943&cp=1331606");
+					menu2.addItem("Flatware", "/category/index.jsp?categoryId=1331944&cp=1331606");
+					menu2.addItem("Table Linens", "/category/index.jsp?categoryId=1331945&cp=1331606");
+					menu2.addItem("Barware", "/category/index.jsp?categoryId=1331946&cp=1331606");
+					menu2.addItem("Dining Chair Covers", "/family/index.jsp?categoryId=1386985&cp=1331606");
+					menu2.addItem("Chairpads", "/family/index.jsp?categoryId=1816050&cp=1331606");
+					menu2.addItem("Kids Dinnerware", "/family/index.jsp?categoryId=2171509&cp=1331606");
+					var menu3 = ms.addMenu(document.getElementById("Kitchen"));
+	menu3.addItem("Small Appliances", "/category/index.jsp?categoryId=1331947&cp=1331607");
+					menu3.addItem("Cookware", "/category/index.jsp?categoryId=1331948&cp=1331607");
+					menu3.addItem("Cutlery", "/category/index.jsp?categoryId=1331949&cp=1331607");
+					menu3.addItem("Bakeware", "/category/index.jsp?categoryId=1331950&cp=1331607");
+					menu3.addItem("Tools/Gadgets", "/category/index.jsp?categoryId=1331951&cp=1331607");
+					menu3.addItem("Barbeque", "/category/index.jsp?categoryId=2208585&cp=1331607");
+					menu3.addItem("Food Storage", "/family/index.jsp?categoryId=1332267&cp=1331607");
+					menu3.addItem("Organization", "/category/index.jsp?categoryId=1331952&cp=1331607");
+					menu3.addItem("Kitchen Textiles", "/family/index.jsp?categoryId=2052308&cp=1331607");
+					menu3.addItem("Accessories", "/category/index.jsp?categoryId=1903069&cp=1331607");
+					menu3.addItem("Water Filtration", "/family/index.jsp?categoryId=2141944&cp=1331607");
+					menu3.addItem("Tea Kettles", "/family/index.jsp?categoryId=1331956&cp=1331607");
+					menu3.addItem("Kitchen Rugs", "/family/index.jsp?categoryId=1816005&cp=1331607");
+					menu3.addItem("Gourmet Food", "/family/index.jsp?categoryId=1331957&cp=1331607");
+					var menu4 = ms.addMenu(document.getElementById("Electrics"));
+	menu4.addItem("Electronics", "/category/index.jsp?categoryId=1426156&cp=1331608");
+					menu4.addItem("Kitchen", "/category/index.jsp?categoryId=1331958&cp=1331608");
+					menu4.addItem("Personal", "/category/index.jsp?categoryId=1331960&cp=1331608");
+					menu4.addItem("Vacuums", "/category/index.jsp?categoryId=2016830&cp=1331608");
+					menu4.addItem("Air Purification", "/family/index.jsp?categoryId=1770212&cp=1331608");
+					menu4.addItem("Humidifiers", "/family/index.jsp?categoryId=2146650&cp=1331608");
+					menu4.addItem("Heaters", "/family/index.jsp?categoryId=1770214&cp=1331608");
+					menu4.addItem("Fans", "/family/index.jsp?categoryId=1331961&cp=1331608");
+					menu4.addItem("Air Conditioners", "/family/index.jsp?categoryId=1770211&cp=1331608");
+					menu4.addItem("Irons/Garment Steamers", "/family/index.jsp?categoryId=1331959&cp=1331608");
+					menu4.addItem("Sewing Machines", "/family/index.jsp?categoryId=2001561&cp=1331608");
+					menu4.addItem("Telephones", "/family/index.jsp?categoryId=2146081&cp=1331608");
+					menu4.addItem("Compact Appliances", "/category/index.jsp?categoryId=1998170&cp=1331608");
+					var menu5 = ms.addMenu(document.getElementById("Home Decor"));
+	menu5.addItem("Furniture", "/category/index.jsp?categoryId=1331971&cp=1331609");
+					menu5.addItem("Slipcovers", "/family/index.jsp?categoryId=1331970&cp=1331609");
+					menu5.addItem("Rugs", "/category/index.jsp?categoryId=1331968&cp=1331609");
+					menu5.addItem("Decorative Pillows", "/category/index.jsp?categoryId=1331966&cp=1331609");
+					menu5.addItem("Throws", "/family/index.jsp?categoryId=1331967&cp=1331609");
+					menu5.addItem("Doormats", "/family/index.jsp?categoryId=1331969&cp=1331609");
+					menu5.addItem("Lighting", "/category/index.jsp?categoryId=1331972&cp=1331609");
+					menu5.addItem("Wall Décor", "/category/index.jsp?categoryId=1331973&cp=1331609");
+					menu5.addItem("Candles", "/category/index.jsp?categoryId=1331974&cp=1331609");
+					menu5.addItem("Candle Accessories", "/category/index.jsp?categoryId=1973543&cp=1331609");
+					menu5.addItem("Home Fragrance", "/family/index.jsp?categoryId=2049819&cp=1331609");
+					menu5.addItem("Picture Frames", "/category/index.jsp?categoryId=1331975&cp=1331609");
+					menu5.addItem("Decorative Accents", "/category/index.jsp?categoryId=1331976&cp=1331609");
+					var menu6 = ms.addMenu(document.getElementById("Window"));
+	menu6.addItem("Window Blinds ", "/family/index.jsp?categoryId=1845678&cp=2167013");
+					menu6.addItem("Window Curtains", "/category/index.jsp?categoryId=1331964&cp=2167013");
+					menu6.addItem("Window Hardware", "/category/index.jsp?categoryId=1331965&cp=2167013");
+					menu6.addItem("Window Shades", "/family/index.jsp?categoryId=2167072&cp=2167013");
+					var menu7 = ms.addMenu(document.getElementById("Organization"));
+	menu7.addItem("Cleaning", "/category/index.jsp?categoryId=1331977&cp=1331610");
+					menu7.addItem("Vacuums", "/category/index.jsp?categoryId=2016830&cp=1331610");
+					menu7.addItem("Hard Floor Cleaners", "/family/index.jsp?categoryId=1987314&cp=1331610");
+					menu7.addItem("Laundry", "/category/index.jsp?categoryId=1331978&cp=1331610");
+					menu7.addItem("Storage Essentials", "/category/index.jsp?categoryId=1331979&cp=1331610");
+					menu7.addItem("Closet Essentials", "/family/index.jsp?categoryId=1331980&cp=1331610");
+					menu7.addItem("Problem Solving", "/category/index.jsp?categoryId=1331981&cp=1331610");
+					menu7.addItem("Backpacks and Travel", "/category/index.jsp?categoryId=1984127&cp=1331610");
+					var menu8 = ms.addMenu(document.getElementById("Gifts"));
+	menu8.addItem("Gift Card", "/family/index.jsp?categoryId=1920416&cp=1346212");
+					menu8.addItem("Mother's Day Gifts", "/family/index.jsp?categoryId=2258595&cp=1346212");
+					menu8.addItem("Top Picks for Wedding Gifts", "/family/index.jsp?categoryId=1852953&cp=1346212");
+					menu8.addItem("Gifts by Price", "/category/index.jsp?categoryId=1852946&cp=1346212");
+					menu8.addItem("Gifts For Her", "/family/index.jsp?categoryId=1852955&cp=1346212");
+					menu8.addItem("Gifts For Him", "/family/index.jsp?categoryId=1852956&cp=1346212");
+					menu8.addItem("Gifts For Kids", "/family/index.jsp?categoryId=1852957&cp=1346212");
+					menu8.addItem("Gifts For the Home", "/family/index.jsp?categoryId=1852960&cp=1346212");
+					menu8.addItem("Gifts For the Chef", "/family/index.jsp?categoryId=1852959&cp=1346212");
+					menu8.addItem("Electronic Gifts", "/family/index.jsp?categoryId=1888390&cp=1346212");
+					menu8.addItem("Game Gifts", "/family/index.jsp?categoryId=1888391&cp=1346212");
+					menu8.addItem("Wine Gifts", "javascript:void(window.open('http://www.lntwine.com','lntwine','width=800,height=600,scrollbars=yes,resizable=yes'));");menu8.addItem("Corporate Gifts", "/family/index.jsp?categoryId=2144324&cp=1346212");
+					menu8.addItem("Golf Gifts", "/family/index.jsp?categoryId=2150811&cp=1346212");
+					menu8.addItem("Extra Value Gifts", "/family/index.jsp?categoryId=2144352&cp=1346212");
+					menu8.addItem("Monogrammed Gifts", "/family/index.jsp?categoryId=2067696&cp=1346212");
+					var menu9 = ms.addMenu(document.getElementById("Seasonal"));
+	menu9.addItem("Take it Outside!", "/category/index.jsp?categoryId=2214222&cp=2166977");
+					menu9.addItem("Mother's Day Gifts", "/family/index.jsp?categoryId=2258595&cp=2166977");
+					menu9.addItem("As Seen On TV", "/family/index.jsp?categoryId=2166999&cp=2166977");
+					menu9.addItem("Travel", "/family/index.jsp?categoryId=2166998&cp=2166977");
+					menu9.addItem("Sleep Away Camp", "/family/index.jsp?categoryId=2258757&cp=2166977");
+					menu9.addItem("Spring Cleaning", "/category/index.jsp?categoryId=2181535&cp=2166977");
+					menu9.addItem("Recreation", "/category/index.jsp?categoryId=2166995&cp=2166977");
+					menu9.addItem("Keep Warm", "/category/index.jsp?categoryId=2166992&cp=2166977");
+					menu9.addItem("Toys", "/family/index.jsp?categoryId=2206636&cp=2166977");
+					menu9.addItem("Games", "/family/index.jsp?categoryId=2205697&cp=2166977");
+					
 function showLayer(layerName)
 {
     if (document.getElementById)
@@ -257,8 +610,10 @@ function hideLayer(layerName)
         targetElement.style.visibility = 'hidden';
     }
 }
+
 TransMenu.renderAll();
 TransMenu.initialize();
+
 menu0.onactivate = function() { imgOn("image0");WCH.Apply('TransMenu0') };
 menu0.ondeactivate = function() { imgOff("image0");WCH.Discard('TransMenu0') };
 menu1.onactivate = function() { imgOn("image1");WCH.Apply('TransMenu1') };
@@ -279,8 +634,6 @@ menu8.onactivate = function() { imgOn("image8");WCH.Apply('TransMenu8') };
 menu8.ondeactivate = function() { imgOff("image8");WCH.Discard('TransMenu8') };
 menu9.onactivate = function() { imgOn("image9");WCH.Apply('TransMenu9') };
 menu9.ondeactivate = function() { imgOff("image9");WCH.Discard('TransMenu9') };
-menu9.onactivate = function() { imgOn("image10");WCH.Apply('TransMenu10') };
-menu9.ondeactivate = function() { imgOff("image10");WCH.Discard('TransMenu10') };
 }
 </script>
 <!-- email popup -->
@@ -298,8 +651,9 @@ theWindow.focus();
 //newWindow_EmailPop("http://LNT.imageg.net/include/orsoPopup.html");
 //alert("%");
 </script>
+<img src="http://LNT.imageg.net/images/pixel.gif" height="142" width="1">
 		
-		<table border="0" bgcolor="#ffffff" width="768" cellpadding="0" cellspacing="0" align="left">
+		<table border="0" bgcolor="#ffffff" width="774" cellpadding="0" cellspacing="0" align="center">
 			<tbody><tr>
 				<td valign="top">
 				<table cellpadding="6" border="0" width="100%">
@@ -317,7 +671,7 @@ theWindow.focus();
 
 
 
-	
+
 				
 <!-- *********************************** STOREMAN HELPDESK STARTS LNT************************************** -->
 				 
@@ -528,30 +882,40 @@ If we make any material changes to this Privacy Policy, we will post a notice on
 			<br><br>
 			</td>
 			</tr>
-			<tr>
 			
-			</tr>
 			<tr>
 			<td>
-				
+				<!-- Start of New Pixel File -->
 
-<table width="768" height="72" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr bgcolor="#F7F7F7"><!-- pagetype : helpdesk -->
-		<td width="154" style="padding-left:14px;" align="left">
+
+<!-- End of New Pixel File -->
+
+
+<table width="774" border="0" cellpadding="0" cellspacing="0" align="center">
+	<tbody><tr>
 		
-				
-<a target="_blank" href="http://www.scanalert.com/RatingVerify?ref=www.lnt.com"><img width="65" height="38" border="0" src="http://images.scanalert.com/meter/www.lnt.com/31.gif" align="absmiddle" alt="HACKER SAFE certified sites prevent over 99% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE  is a Trademark of ScanAlert'); return false;"></a>
-		
+		<td width="12">
+			<img src="http://LNT.imageg.net/images/lnt_footer_leftCorner.gif" border="0"></td>
+		<td valign="middle" class="footerCopy" width="750" nowrap="" bgcolor="#F6F6F6">
+			
+			<table cellspacing="0" cellpadding="0" border="0">
+			<tbody><tr>
+				<td width="187" class="bottomNavCopy">
+					<img src="http://LNT.imageg.net/images/pixel.gif" width="5" height="1" border="0">Copyright © 2006</td>
+				<td width="187">
+					<img src="http://LNT.imageg.net/images/pixel.gif" width="13" height="1" border="0"><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy&amp;clickid=botnav3_privacy_txt" class="bottomNavLinks">Privacy Policy</a></td>
+				<td width="187">
+					<img src="http://LNT.imageg.net/images/pixel.gif" width="19" height="1" border="0"><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=terms&amp;clickid=botnav3_terms_txt" class="bottomNavLinks">Terms &amp; Conditions</a></td>
+				<td width="187" class="bottomNavCopy">
+					<img src="http://LNT.imageg.net/images/pixel.gif" width="27" height="1" border="0">Shop&nbsp;
+		<a href="http://canada.lnt.com"><img src="http://LNT.imageg.net/images/canada_flag_on.gif" align="absmiddle" border="0"></a>&nbsp;<a href="http://canada.lnt.com" class="bottomNavLinks">Canada</a>
 		</td>
-		<td width="1"><img src="http://LNT.imageg.net/images/lnt_home_ftr_separator.gif" width="1" height="58" border="0" alt=""></td>
-		
-		<td width="154" style="padding-left:14px;" align="left"><a href="javascript:void window.open('../helpdesk/popup.jsp?display=payment&amp;subdisplay=3dSecure&amp;topic=vbv','serviceDescription','width=500,height=420')"><img src="/graphics/category_images/vbv_ltbg_71x57.gif" border="0"></a></td>
-		
-		<td width="1"><img src="http://LNT.imageg.net/images/lnt_home_ftr_separator.gif" width="1" height="58" border="0" alt=""></td>
-		<td align="right" valign="top" class="copyright" style="padding-right:14px;"><br>Copyright © 2005&nbsp;&nbsp;&nbsp;<!--&nbsp;<font class="copyright_white">Privacy Policy updated February 2004&nbsp;&nbsp;&nbsp;--><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy&amp;clickid=botnav3_privacy_txt" class="copyright">Privacy Policy</a>&nbsp;&nbsp;&nbsp;<a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=terms&amp;clickid=botnav3_terms_txt" class="copyright">Terms &amp; Conditions</a></td>
+			</tr>
+			</tbody></table></td>
+		<td width="12">
+			<img src="http://LNT.imageg.net/images/lnt_footer_rightCorner.gif" border="0"></td>
 	</tr>
 </tbody></table>
-
 
 
 
@@ -562,7 +926,7 @@ If we make any material changes to this Privacy Policy, we will post a notice on
 <!--/* You may give each page an identifying name, server, and channel on the next lines. */
 /* Custom Insight Variables */
 var s_pageName="helpdesk/index.jsp - safety - privacy" //Page Naming Convention
-var s_server="secprd_webstore_secprdapp09_4"
+var s_server="secprd_webstore_secprdapp09_5"
 var s_channel="Help Desk" //Global Category
 var s_pageType="" //Error Page (if applicable) 
 var s_prop1="" //Category Level 1
@@ -614,13 +978,14 @@ var s_eVar20="" //User ID
 /* Hierarchy Variables */
 var s_hier1="" //Breadcrumb path
 /********* INSERT THE DOMAIN AND PATH TO YOUR CODE BELOW ************///-->
-</script><script language="JavaScript" src="/include/s_code_remote.js"></script><img name="s_i_gsiclnt" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/gsiclnt/1/G.7-Pd-R/s6377806567045?[AQB]&amp;ndh=1&amp;t=31/0/2020%200%3A26%3A15%205%200&amp;pageName=helpdesk/index.jsp%20-%20safety%20-%20privacy&amp;g=https%3A//web.archive.org/web/20051212113905id_/http%253A//www.lnt.com/helpdesk/index.jsp%253Fdisplay%253Dsafety%2526subdisplay%253Dprivacy%2526clickid%253Dbotnav3_privacy_txt&amp;ch=Help%20Desk&amp;server=secprd_webstore_secprdapp09_4&amp;cc=USD&amp;v5=botnav3_privacy_txt&amp;c13=botnav3_privacy_txt&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+</script><script language="JavaScript" src="/include/s_code_remote.js"></script><img name="s_i_gsiclnt" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/gsiclnt/1/G.7-Pd-R/s69914838982526?[AQB]&amp;ndh=1&amp;t=31/0/2020%200%3A26%3A13%205%200&amp;pageName=helpdesk/index.jsp%20-%20safety%20-%20privacy&amp;g=https%3A//web.archive.org/web/20060425035047id_/http%253A//www.lnt.com/helpdesk/index.jsp%253Fdisplay%253Dsafety%2526subdisplay%253Dprivacy%2526clickid%253Dbotnav3_privacy_txt&amp;ch=Help%20Desk&amp;server=secprd_webstore_secprdapp09_5&amp;cc=USD&amp;v5=botnav3_privacy_txt&amp;c13=botnav3_privacy_txt&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
 <!-- End SiteCatalyst code version: G.6. -->
 
 
 
 
 
+<img src="http://LNT.imageg.net/images/pixel.gif" height="15" width="1" border="0">
 
 			</td>
 			</tr>
