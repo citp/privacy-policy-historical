@@ -1,42 +1,42 @@
-> *The following text is extracted and transformed from the tie-a-tie.net privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210185308id_/http%3A//tie-a-tie.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tie-a-tie.net privacy policy that was archived on 2006-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060425075916id_/http%3A//tie-a-tie.net/privacy.html) for the most accurate reproduction.*
 
 # Tie-a-Tie.net | Privacy Policy
 
 **     [Home](http://www.tie-a-tie.net/ "Home")
 
-    [Windsor Knot](https://web.archive.org/web/20051210185308id_/http%3A//tie-a-tie.net/windsor.html "Windsor Knot")
+    [Windsor Knot](https://web.archive.org/web/20060425075916id_/http%3A//tie-a-tie.net/windsor.html "Windsor Knot")
 
-    [Half Windsor Knot](https://web.archive.org/web/20051210185308id_/http%3A//tie-a-tie.net/halfwindsor.html "Half Windsor Knot")
+    [Half Windsor Knot](https://web.archive.org/web/20060425075916id_/http%3A//tie-a-tie.net/halfwindsor.html "Half Windsor Knot")
 
-    [Four in Hand Knot](https://web.archive.org/web/20051210185308id_/http%3A//tie-a-tie.net/fourinhand.html "Four in Hand Knot")
+    [Four in Hand Knot](https://web.archive.org/web/20060425075916id_/http%3A//tie-a-tie.net/fourinhand.html "Four in Hand Knot")
 
-    [Pratt Knot](https://web.archive.org/web/20051210185308id_/http%3A//tie-a-tie.net/pratt.html "Pratt Knot")
+    [Pratt Knot](https://web.archive.org/web/20060425075916id_/http%3A//tie-a-tie.net/pratt.html "Pratt Knot")
 
-    [Tie Knot Video](https://web.archive.org/web/20051210185308id_/http%3A//tie-a-tie.net/video.html "Tie Knot Video")
+    [Tie Knot Video](https://web.archive.org/web/20060425075916id_/http%3A//tie-a-tie.net/video.html "Tie Knot Video")
 
-    [Tie Tips & Tricks](https://web.archive.org/web/20051210185308id_/http%3A//tie-a-tie.net/tips.html "Tie Tips & Tricks")
+    [Tie Tips & Tricks](https://web.archive.org/web/20060425075916id_/http%3A//tie-a-tie.net/tips.html "Tie Tips & Tricks")
 
-    [Necktie Accessories](https://web.archive.org/web/20051210185308id_/http%3A//tie-a-tie.net/accessories.html "Necktie Accessories")
+    [Necktie Accessories](https://web.archive.org/web/20060425075916id_/http%3A//tie-a-tie.net/accessories.html "Necktie Accessories")
 
-    [Job Interview Dress](https://web.archive.org/web/20051210185308id_/http%3A//tie-a-tie.net/dress.html "Job Interview Dress")
+    [Job Interview Dress](https://web.archive.org/web/20060425075916id_/http%3A//tie-a-tie.net/dress.html "Job Interview Dress")
 
-    [Buy Neckties Online](https://web.archive.org/web/20051210185308id_/http%3A//tie-a-tie.net/neckties.html "Buy Neckties Online")
+    [Buy Neckties Online](https://web.archive.org/web/20060425075916id_/http%3A//tie-a-tie.net/neckties.html "Buy Neckties Online")
 
-    [Tell a Friend](https://web.archive.org/web/20051210185308id_/http%3A//tie-a-tie.net/tell.html "Tell a Friend")
+    [Tell a Friend](https://web.archive.org/web/20060425075916id_/http%3A//tie-a-tie.net/tell.html "Tell a Friend")
 
-    [Link to Me](https://web.archive.org/web/20051210185308id_/http%3A//tie-a-tie.net/linktome.html "Link to Me")
+    [Link to Me](https://web.archive.org/web/20060425075916id_/http%3A//tie-a-tie.net/linktome.html "Link to Me")
 
-    [Feedback](https://web.archive.org/web/20051210185308id_/http%3A//tie-a-tie.net/feedback.html "Feedback")
+    [Feedback](https://web.archive.org/web/20060425075916id_/http%3A//tie-a-tie.net/feedback.html "Feedback")
 
-    [Resources](https://web.archive.org/web/20051210185308id_/http%3A//tie-a-tie.net/resources.html "Resources")
+    [Resources](https://web.archive.org/web/20060425075916id_/http%3A//tie-a-tie.net/resources.html "Resources")
 
-    [Sitemap](https://web.archive.org/web/20051210185308id_/http%3A//tie-a-tie.net/sitemap.html "Sitemap")
+    [Sitemap](https://web.archive.org/web/20060425075916id_/http%3A//tie-a-tie.net/sitemap.html "Sitemap")
 
-**
+**[](http://www.students-matchplay.com/index.php?lang=en)
 
 | 
 
-> [](https://web.archive.org/web/20051210185308id_/http%3A//tie-a-tie.net/tell.html)[](https://web.archive.org/web/20051210185308id_/http%3A//tie-a-tie.net/print/privacy-policy.pdf "Print version")
+> [](https://web.archive.org/web/20060425075916id_/http%3A//tie-a-tie.net/tell.html)[](https://web.archive.org/web/20060425075916id_/http%3A//tie-a-tie.net/print/privacy-policy.pdf "Print version")
 > 
 > ### **Privacy Policy**
 > 
@@ -72,7 +72,7 @@
 > 
 > Internet: Tie-a-Tie.net
 > 
-> eMail: Please use the [Feedback](https://web.archive.org/web/20051210185308id_/http%3A//tie-a-tie.net/feedback.html "Feedback") form.
+> eMail: Please use the [Feedback](https://web.archive.org/web/20060425075916id_/http%3A//tie-a-tie.net/feedback.html "Feedback") form.
 > 
 > **Changes to this Policy**
 > 
