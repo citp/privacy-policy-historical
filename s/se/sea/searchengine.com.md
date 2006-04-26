@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the searchengine.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210150825id_/http%3A//searchengine.com/Terms_of_use/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchengine.com privacy policy that was archived on 2006-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060426060125id_/http%3A//searchengine.com/Terms_of_use/privacystatement.asp) for the most accurate reproduction.*
 
-# Shopping Resources - searchengine.com
+# Product Search - searchengine.com
 
 **PRIVACY STATEMENT:** This Privacy Statement relates solely to the online information collection and use practices of our Web site located at [searchengine.com](http://searchengine.com/) (the "Website"). We recognize that many visitors and users of this Web Site are concerned about the information they provide to us, and how we treat that information. This Privacy Statement, which may be updated from time to time, has been developed to address those concerns.
 
