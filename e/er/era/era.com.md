@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the era.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212113933id_/http%3A//www.era.com/era/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the era.com privacy policy that was archived on 2006-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060426221347id_/http%3A//www.era.com/era/privacy.html) for the most accurate reproduction.*
 
 # Real Estate, ERA Real Estate - Properties for Sale
 
