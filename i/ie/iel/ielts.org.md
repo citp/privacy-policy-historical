@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ielts.org privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230032147id_/http%3A//www.ielts.org/Library/article56.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ielts.org privacy policy that was archived on 2006-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060426133322id_/http%3A//www.ielts.org/Library/article56.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -101,7 +101,7 @@ The company can refuse to provide access to personal information where the Priva
 IELTS partner's Privacy Representative is the Company Secretary. Any questions, concerns or complaints about the company's Privacy Policy or its practices related to privacy of personal information should be address to the Representative, as follows:
 
 IELTS Webmaster  
-[Contact IELTS](https://web.archive.org/web/20051230032147id_/http%3A//www.ielts.org/library/contactus.asp)
+[Contact IELTS](https://web.archive.org/web/20060426133322id_/http%3A//www.ielts.org/library/contactus.asp)
 
 ## Personal Information Management Policy Statement 
 
@@ -139,7 +139,7 @@ IELTS is a contractor to the Commonwealth and State governments, and contracts o
 Complaints about possible breaches of privacy should be marked as "Confidential", and addressed to:
 
 IELTS Webmaster  
-[Contact IELTS](https://web.archive.org/web/20051230032147id_/http%3A//www.ielts.org/library/contactus.asp)
+[Contact IELTS](https://web.archive.org/web/20060426133322id_/http%3A//www.ielts.org/library/contactus.asp)
 
 Requests for access to personal information should be addressed to the Company Secretary (as set out above).
 
@@ -154,4 +154,4 @@ Where the individual's identity cannot be verified to the satisfaction of the Co
 For more information contact:
 
 > IELTS Webmaster  
-> [Contact IELTS](https://web.archive.org/web/20051230032147id_/http%3A//www.ielts.org/library/contactus.asp)
+> [Contact IELTS](https://web.archive.org/web/20060426133322id_/http%3A//www.ielts.org/library/contactus.asp)
