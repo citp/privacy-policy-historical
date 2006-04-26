@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the experian.co.uk privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218034703id_/http%3A//www.experian.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experian.co.uk privacy policy that was archived on 2006-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060426234113id_/http%3A//www.experian.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy statement | Experian UK
 
