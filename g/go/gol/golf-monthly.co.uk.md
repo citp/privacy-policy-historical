@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the golf-monthly.co.uk privacy policy that was archived on 2005-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051030084321id_/http%3A//www.golf-monthly.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golf-monthly.co.uk privacy policy that was archived on 2006-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060426051658id_/http%3A//golf-monthly.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Golf Monthly Online: Privacy policy
 
