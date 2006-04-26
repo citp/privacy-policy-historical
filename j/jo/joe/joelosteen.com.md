@@ -1,7 +1,30 @@
-> *The following text is extracted and transformed from the joelosteen.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212100944id_/http%3A//www.joelosteen.com/site/PageServer%3Fpagename%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joelosteen.com privacy policy that was archived on 2006-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060426234457id_/http%3A//www.joelosteen.com/site/PageServer%3Fpagename%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Joel Osteen Ministries: Privacy Policy
 
+|  |  |   AN EVENING WITH JOEL  
+---  
+  
+Buy Tickets online now for:  
+ **  
+2nd Night Added in Indy!!  
+**[Indianapolis, IN](http://www.ticketmaster.com/event/05003C24C7C83EB6?artistid=949337&majorcatid=10005&minorcatid=104&AddInterest=1141) \- Thurs, Apr 6  
+ **Indianapolis, IN - Fri, Apr 7  
+** **Sold Out!!  
+**  
+ **2nd Night Added in Columbus!!  
+**[Columbus, OH](http://www.ticketmaster.com/event/05003C56A7CF7F61?artistid=949337&majorcatid=10005&minorcatid=104&AddInterest=1141) \- Thurs, May 11  
+ **Columbus, OH - Fri, May 12  
+** **Sold Out!!  
+  
+**[Little Rock, AR](http://www.ticketmaster.com/event/1B003C4F8080AACE?artistid=949337&majorcatid=10005&minorcatid=104&AddInterest=1141) \- Fri, Jun 9  
+  
+  WATCH ONLINE  
+  
+Join a service LIVE from Lakewood Church or watch a previous broadcast.
+
+[Watch Online Now](http://www.joelosteen.com/site/PageServer?pagename=OnlineStreaming)  
+  
 ##### Privacy Policy
 
 Your privacy on the Internet is extremely important to us. Because you give us personal information, we believe you should fully understand the terms and conditions surrounding what we do with that information. This privacy statement discloses the information we gather, how we use it, and how you can correct or change it. 
