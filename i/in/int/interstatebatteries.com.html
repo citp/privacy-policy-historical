@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the interstatebatteries.com privacy policy that was archived on 2005-03-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050317152950id_/http%3A//www.ibsa.com/estore/shop_confidence.asp%3Fmscssid%3DRR5933UCXB8W8GFEG43N7P1P4K09D258%26js%3D1) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the interstatebatteries.com privacy policy that was archived on 2006-04-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060427000138id_/http%3A//www.ibsa.com/estore/shop_confidence.asp%3Fmscssid%3D03KE6B4APWUL8GGKBQLGAT9XRD1587G2%26js%3D1) for the most accurate reproduction.-->
 
 <html><head>
 <title>Interstate Batteries: Shop With Confidence</title>
@@ -7,6 +7,7 @@
 
 <link rel="SHORTCUT ICON" href="/estore/resources/images/Logo.ico">
 <link rel="STYLESHEET" type="text/css" href="/estore/resources/includes/ibsa.css">
+<link rel="STYLESHEET" type="text/css" href="/estore/resources/includes/STYLE.INc">
 <basefont face="Verdana,Arial,Helvetica" size="1" color="#000000">
 <style type="text/css">
 <!--
@@ -16,56 +17,492 @@
 <script language="JavaScript">
 <!--
 var blnHideScriptErrors = false;
+var blnPopUp;
+
+
+
+
 function eStoreErrorHandler(message, url, line)
 { return blnHideScriptErrors;
 }
 window.onerror = eStoreErrorHandler;
+function LeavingSite(){
+	if (blnPopUp = false) {
+		alert (Window.location);
+		window.open ('exit_survey.asp');
+	}
+}
+function addUnloadEvent(elm, evType, fn, useCapture) {
+  if (elm.addEventListener) {  //DOM standard way to attach events.  Works in Netscape 5+,Firefox .7+, Opera 7+, maybe more.
+    elm.addEventListener(evType, fn, useCapture);
+    return true;
+  } else if (elm.attachEvent) { //Win IE 5/6-specific way to attach events.
+    var r = elm.attachEvent('on' + evType, fn);
+    return r;
+  } else {  //fallback for Safari and Mac IE 5.
+    //caution, if elm.on+'evType' was specified in HTML, that event handler will be eaten in this case.
+    //recommend removing <elm onfoo="bar()"> declarations on any elms you plan on using this function with.
+    var oldhandler = elm['on' + evType];
+    if (typeof oldhandler != 'function') {
+      elm['on' + evType] = fn;  //no prior handler, just set property.
+    } else {
+      elm['on' + evType] = function() {  //prior handler(s), chain new handler using closure over old handler.
+        oldhandler();
+        fn();
+      }
+    }    
+  }
+}
 
+blnPopUp=true;
+addUnloadEvent(window, 'unload', LeavingSite, false);
 if (top.location != self.document.location)
 { top.location = self.document.location;
 }
 //-->
 </script>
 
-</head>
+<script type="text/javascript" src="https://www.websourcedtraffic.com/semws_tfc.js"></script></head>
 <body leftmargin="5" marginwidth="5" text="#51392B" link="#009900" vlink="#FF0000" alink="#00FF00" bgcolor="#FFFFFF" background="">
+<script language="JavaScript">
+<!-- Overture Services, Inc
+var pm_tagname    = "universalTag.txt";
+var pm_tagversion = "1.4";
+var pm_accountid  = "FJ77GS9I3GGUOM2B78CVG78KJ4";
+var pm_scripthost = "srv.perf.overture.com";
+var pm_customargs = "";
+var pm_querystr = "?" + "ver=" + pm_tagversion + "&aid=" + pm_accountid + pm_customargs;
+var pm_tag = "<SCR" + "IPT LANGUAGE='JavaScript' " + "SRC=//" + pm_scripthost + "/collweb/ScriptServlet" + pm_querystr + "></SCR" + "IPT>";
+document.write(pm_tag);
+// -->
+</script><script language="JavaScript" src="//srv.perf.overture.com/collweb/ScriptServlet?ver=1.4&amp;aid=FJ77GS9I3GGUOM2B78CVG78KJ4"></script>
+<script language="javascript" type="text/javascript" defer="true">
+  var script = document.createElement('script');
+  script.type = 'text/javascript';
+ 
+  if (location.href.substr(0,6).toLowerCase() == 'https:') 
+    script.src = "https://www.websourcedtraffic.com/semws_tfc.js";
+  else
+    script.src = "http://www.websourcedtraffic.com/semws_tfc.js";
+ 
+  document.getElementsByTagName('head')[0].appendChild(script);
+</script>
+<noscript><img src="http://www.websourcedtraffic.com/image.tfc"></noscript>
+
 
 <script language="JavaScript">
 <!--
 var URLroot = 'http://www.ibsa.com/estore/';
 var URL2001root = 'http://www.ibsa.com/';
 var SiteRoot = 'estore';
-var URLargs = '?mscssid=UXEFPEKHFFEE8PTKWMG37HGNHFFA0B12';
-var LINKguid = 'UXEFPEKHFFEE8PTKWMG37HGNHFFA0B12';
+var URLargs = '?mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7';
+var LINKguid = 'UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7';
 var CatTree = '<a href="http://www.ibsa.com/estore/main_application.asp?" ><font face="Verdana,Arial,Helvetica" size="1"  color=#000000 >Find My Battery</font></a><br>';
 var FindSpec = ''; 
 var SearchCatChecked = 'checked';
 var SearchSiteChecked = '';
 var LogoutLink = '';
-var BreadCrumbTrail = '<font face="Verdana,Arial,Helvetica" size="1" color="#333333"><a href="http://www.ibsa.com/estore/default.asp?mscssid=UXEFPEKHFFEE8PTKWMG37HGNHFFA0B12" class="breadcrumblink"><font face="Verdana,Arial,Helvetica" size="1" color="#333333" class="breadcrumblink">Home</font></a> &gt; </font>';
+var BreadCrumbTrail = '<!--<font face="Verdana,Arial,Helvetica" size="1" color="#333333"><a href="http://www.ibsa.com/estore/default.asp?mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7" class="breadcrumblink"><font face="Verdana,Arial,Helvetica" size="1" color="#333333" class="breadcrumblink">Home</font></a> &gt;--> </font>';
 var DisplayBreadCrumb = '0';
 var StyleClass = '';
 var StyleColor = 'color=#000000';
 var Js = '1';
+
+var FRUI = false;
+
 var PostJS = '&js=1';
 var ClearTilesTimer = ' ';
 var RightNav = '';
+   var show = false;
+   
+   var in_search = false;
+   
+   var in_search_str = 'mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7&js=1';
+   
+   var in_page_name = 'shop_confidence.asp';
+   
+   var in_page_name2 = false;
+  var main_page_name = 'main_application.asp';
 //-->
-</script>
-<script language="JavaScript" src="/estore/resources/includes/header.js"></script>
 
-<form action="https://web.archive.org/web/20050317152950id_/http%3A//www.ibsa.com/estore/shop_confidence.asp%3Fmscssid%3DRR5933UCXB8W8GFEG43N7P1P4K09D258%26js%3D1&amp;js=1">
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+
+
+</script>
+<style type="text/css">
+<!--
+	input.radio { background : black repeat; color: white; }
+
+A.clsLinksEndeca01 {color:#000000; font-family: Verdana, Arial, Helvetica; font-size:7pt; text-decoration: none;}
+A.clsLinksEndeca01:Visited {color:#0000ff; font-family: Verdana, Arial, Helvetica; font-size:7pt; text-decoration: none;}
+A.clsLinksEndeca01:Hover {color: #ff0000; font-family: Verdana, Arial, Helvetica; font-size:7pt; text-decoration:none;}
+
+A.clsLinksNarrowHeader {color:#228901; font-family: Verdana, Arial, Helvetica; font-size:10pt; text-decoration: underline;  font-weight:bold}
+A.clsLinksNarrowHeader:Visited {color:#228901; font-family: Verdana, Arial, Helvetica; font-size:10pt; text-decoration: underline;  font-weight:bold}
+A.clsLinksNarrowHeader:Hover {color: #228901; font-family: Verdana, Arial, Helvetica; font-size:10pt; text-decoration:underline;  font-weight:bold}
+
+A.clsLinksNarrowContent {color:#228901; font-family: Verdana, Arial, Helvetica; font-size:8pt; text-decoration:none;}
+A.clsLinksNarrowContent:Visited {color:#228901; font-family: Verdana, Arial, Helvetica; font-size:8pt; text-decoration:none; }
+A.clsLinksNarrowContent:Hover {color: #228901; font-family: Verdana, Arial, Helvetica; font-size:8pt; text-decoration:none; }
+
+
+A.clsLinksBlue {color:#0000FF; font-family: Verdana, Arial, Helvetica; font-size:8pt; text-decoration: none;}
+A.clsLinksBlue:Visited {color:#0000FF; font-family: Verdana, Arial, Helvetica; font-size:8pt; text-decoration: none;}
+A.clsLinksBlue:Hover {color: #FF0000; font-family: Verdana, Arial, Helvetica; font-size:8pt; text-decoration:none;}
+
+A.clsLinksDidYou {color:#ffffff; font-family: Verdana, Arial, Helvetica; font-size:15pt; text-decoration: underline;}
+A.clsLinksDidYou:Visited {color:#ffffff; font-family: Verdana, Arial, Helvetica; font-size:15pt; text-decoration: underline;}
+A.clsLinksDidYou:Hover {color: #ffffff; font-family: Verdana, Arial, Helvetica; font-size:15pt; text-decoration:underline;}
+
+A.clsLinksRed {color:#ff000000; font-family: Verdana, Arial, Helvetica; font-size:8pt; text-decoration: none; font-weight:bold}
+A.clsLinksRed:Visited {color:#ff0000; font-family: Verdana, Arial, Helvetica; font-size:8pt; text-decoration: none; font-weight:bold}
+A.clsLinksRed:Hover {color: #2AAC00; font-family: Verdana, Arial, Helvetica; font-size:8pt; text-decoration:none; font-weight:bold}
+
+A.clsLinksNav {color:#2AAC00; font-family: Verdana, Arial, Helvetica; font-size:8pt; text-decoration: none; font-weight:bold}
+A.clsLinksNav:Visited {color:#2AAC00; font-family: Verdana, Arial, Helvetica; font-size:8pt; text-decoration: none; font-weight:bold}
+A.clsLinksNav:Hover {color:#FF0000; font-family: Verdana, Arial, Helvetica; font-size:8pt; text-decoration:none; font-weight:bold}
+
+A.clsLinksNavWht {color:#ffffff; font-family: Verdana, Arial, Helvetica; font-size:8pt; text-decoration: none; font-weight:bold}
+A.clsLinksNavWht:Visited {color:#ffffff; font-family: Verdana, Arial, Helvetica; font-size:8pt; text-decoration: none; font-weight:bold}
+A.clsLinksNavWht:Hover {color:#80ff80; font-family: Verdana, Arial, Helvetica; font-size:8pt; text-decoration:none; font-weight:bold}
+
+A.clsLinksBC {color:#6DB43F; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size:10px; text-decoration: underline}
+A.clsLinksBC:Visited {color:#999999; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size:10px; text-decoration: underline}
+A.clsLinksBC:Hover {color: #000000; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size:10px; text-decoration: underline}
+
+A.clsLinksPaging {color:#008000; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size:10px; text-decoration: underline}
+A.clsLinksPaging:Visited {color:#999999; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size:10px; text-decoration: underline}
+A.clsLinksPaging:Hover {color: #000000; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size:10px; text-decoration: underline}
+
+A.clsLinksBodyText {color:#6DB43F; font-family: Verdana, Arial, Helvetica; font-size:8pt; text-decoration: underline}
+A.clsLinksBodyText:Visited {color:#999999; font-family: Verdana, Arial, Helvetica; font-size:8pt; text-decoration: underline}
+A.clsLinksBodyText:Hover {color: #000000; font-family: Verdana, Arial, Helvetica; font-size:8pt; text-decoration: underline}
+
+A.clsLinksSP {color:#008000; font-family: Verdana, Arial, Helvetica; font-size:8pt; text-decoration: underline}
+A.clsLinksSP:Visited {color:#999999; font-family: Verdana, Arial, Helvetica; font-size:8pt; text-decoration: underline}
+A.clsLinksSP:Hover {color: #000000; font-family: Verdana, Arial, Helvetica; font-size:8pt; text-decoration: underline}
+
+A.clsLinksFL {color:#6DB43F; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size:10px; text-decoration: none}
+A.clsLinksFL:Visited {color:#999999; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size:10px; text-decoration: none}
+A.clsLinksFL:Hover {color: #000000; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size:10px; text-decoration: none}
+
+A.clsLinksGridHeader {color:#FFFFFF; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size:10px; text-decoration: underline}
+A.clsLinksGridHeader:Visited {color:#999999; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size:10px; text-decoration: underline}
+A.clsLinksGridHeader:Hover {color: #000000; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size:10px; text-decoration: underline}
+
+.bodytext {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;font-size: 11px;color:#000000}
+
+.bodytextWhite {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;font-size: 11px;color:#FFFFFF}
+
+.bodytext14pt {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;font-size: 14px}
+
+.clsHeaderWht {color:#ffffff; font-family: Verdana, Arial, Helvetica; font-size:8pt; text-decoration: none; font-weight:bold}
+
+.clsLinksNumericCount {color:#000000; font-family: Verdana, Arial, Helvetica; font-size:7pt; text-decoration: none; font-weight:bold}
+
+.clsMatchesHeader {color:#B95432; font-family: Verdana, Arial, Helvetica; font-size:8pt; text-decoration: none; font-weight:bold}
+
+TD {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif
+}
+H4 {
+	FONT-SIZE: 11px; COLOR: #ffffff; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif
+}
+TD.submenu {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #ffffff; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif
+}
+TD.footer {
+	FONT-SIZE: 9px; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif
+}
+td.blackheaders {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;font-size: 12px;color:#FFFFFF;font-weight:bold}
+td.productresult {font-family: Arial;font-size: 14px;color:#FF0000;font-weight:bold}
+
+//-->
+</style>
+   <!-- Deluxe Menu, Deluxe-Menu.com -->
+ 
+   <noscript><a href="estore/main_application.asp">Find your battery on InterstateBatteries.com </a></noscript>
+
+
+   <!-- End of Code for Deluxe Menu Items -->
+   
+   <script type="text/javascript" language="JavaScript1.2">var dmWorkPath="resources/includes/menu/deluxe-menu2.html.files/";</script>
+		<!-- Deluxe Menu -->
+		<noscript><a href=http://deluxe-menu.com/>(c)2005 Deluxe-Menu.com</a> </noscript>
+   <script type="text/javascript" language="JavaScript1.2" src="resources/includes/menu/deluxe-menu2.html.files/dmenu.js"></script>
+		<!-- Copyright (c) 2005, Deluxe Menu, deluxe-menu.com -->
+   <!-- (c) 2005, Deluxe-Menu.com -->
+   
+
+
+<table cellspacing="0" cellpadding="0" border="0">
 	<tbody><tr>
-		<td colspan="2"><img src="/estore/resources/images/ch_privacy_policy.gif" width="178" height="27" border="0" alt=""></td>
-	</tr>	
-	<tr>
-		<td colspan="2" bgcolor="#999999" height="1"><img src="/estore/resources/images/spacer.gif" width="1" height="1"></td>
+		<td>
+			<!-- ENDECA zone call goes here -->
+			
+				<a href="http://www.ibsa.com/estore/default.asp?mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7&amp;js=1"><img src="resources/images/header_car.jpeg" width="771" height="64" border="0" align="center"></a>
+			
+		</td>
+	</tr>
+</tbody></table>
+
+<table cellspacing="0" cellpadding="0" width="771" border="0">
+	<tbody><tr>
+		<td>
+			<table bgcolor="#000000" border="0" cellspacing="0" cellpadding="0" width="100%">
+					<tbody><tr>
+				<form action="http://www.ibsa.com/estore/nav_all.asp?mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7&amp;js=1" method="POST" name="frmSimpleSearch" id="frmSimpleSearch"></form>
+					<td valign="middle"> <font color="#FFFFFF" size="1">
+		
+						    <input type="hidden" name="mscssid" value="UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7">
+						    <input type="hidden" name="js" value="1" id="hiddenjs">
+								<img align="middle" src="resources/images/search.gif" width="51" height="13" border="0" alt="Enter search text">
+									<input align="middle" type="text" maxlength="256" size="10" name="find_spec">
+							 </font>
+
+							<input type="image" src="resources/images/go_button_square.gif" width="21" height="18" alt="Search" align="middle" border="0">
+							<img align="middle" src="resources/images/go_divider.gif" width="1" height="19" border="0">
+					</td>
+
+					<td align="left" valign="bottom" width="22" border="0">	&nbsp; </td>
+							
+					<td align="right">
+						<script language="JavaScript1.2" type="text/javascript" src="resources/includes/menu/data.js"></script>
+					</td>
+				
+				</tr>
+			</tbody></table>
+		</td>
 	</tr>
 	<tr>
-		<td>&nbsp;</td>
-		<td valign="top" class="instructiontxt">
-	</td></tr>
+		<td bgcolor="red" valign="top" align="left" height="5"> </td>
+	</tr>
+</tbody></table>
+
+<!--<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0 >
+<TR>
+    <TD 
+    style="BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid" 
+    align=left height=50><IMG height=64 alt=InterstateBatteries.com 
+      src="/estore/resources/images/header_car.jpeg" 
+      width=800></TD></TR></table>-->
+<table cellspacing="0" cellpadding="0" width="100%" border="0">
+
+ <tbody><tr>
+
+  	<td valign="top" align="center" width="160" bgcolor="#6db43f" style="BORDER-RIGHT: #000000 1px solid">
+	
+  <!--<TD vAlign=top align=center width="126" bgColor=#6db43f style="BORDER-RIGHT: #000000 1px solid">-->
+   <table cellspacing="0" cellpadding="0" width="160" border="0" bgcolor="#33cc00">
+   <tbody><tr>
+    <td bgcolor="#000000" nowrap="" height="18"><font face="verdana" size="1px" color="#ffffff"><div align="center"><b>BUY ONLINE </b></div></font></td></tr>
+    
+    <tr valign="top" bgcolor="#6db43f"><td align="left" nowrap="">&nbsp;<img height="5" src="/estore/resources/images/plus_sign.gif" width="5">&nbsp;<a class="leftnav" href="https://web.archive.org/web/20060427000138id_/http%3A//www.ibsa.com/estore/search.asp?N=32&amp;Ns=product+Type%7c0||Rank|1&amp;mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7&amp;js=1">Alkaline&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+    </td></tr>
+    
+    <tr valign="top" bgcolor="#6db43f"><td align="left" nowrap="">&nbsp;<img height="5" src="/estore/resources/images/plus_sign.gif" width="5">&nbsp;<a class="leftnav" href="https://web.archive.org/web/20060427000138id_/http%3A//www.ibsa.com/estore/search.asp?N=23&amp;Ns=product+Type%7c0||Rank|1&amp;mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7&amp;js=1">Camcorders&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+    </td></tr>
+    
+    <tr valign="top" bgcolor="#6db43f"><td align="left" nowrap="">&nbsp;<img height="5" src="/estore/resources/images/plus_sign.gif" width="5">&nbsp;<a class="leftnav" href="https://web.archive.org/web/20060427000138id_/http%3A//www.ibsa.com/estore/search.asp?N=41&amp;Ns=product+Type%7c0||Rank|1&amp;mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7&amp;js=1">Cameras&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+    </td></tr>
+
+    
+
+    
+    <tr valign="top" bgcolor="#6db43f"><td align="left" nowrap="">&nbsp;<img height="5" src="/estore/resources/images/plus_sign.gif" width="5">&nbsp;<a class="leftnav" href="https://web.archive.org/web/20060427000138id_/http%3A//www.ibsa.com/estore/search.asp?N=24&amp;Ns=product+Type%7c0||Rank|1&amp;mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7&amp;js=1">Cellular Phones&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+    </td></tr>
+
+    
+     
+    <tr valign="top" bgcolor="#6db43f"><td align="left" nowrap="">&nbsp;<img height="5" src="/estore/resources/images/plus_sign.gif" width="5">&nbsp;<a class="leftnav" href="https://web.archive.org/web/20060427000138id_/http%3A//www.ibsa.com/estore/search.asp?N=27&amp;Ns=product+Type%7c0||Rank|1&amp;mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7&amp;js=1">Computers/Laptops&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+    </td></tr> 
+    
+    <tr valign="top" bgcolor="#6db43f"><td align="left" nowrap="">&nbsp;<img height="5" src="/estore/resources/images/plus_sign.gif" width="5">&nbsp;<a class="leftnav" href="https://web.archive.org/web/20060427000138id_/http%3A//www.ibsa.com/estore/search.asp?N=28&amp;Ns=product+Type%7c0||Rank|1&amp;mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7&amp;js=1">Cordless Phones&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+    </td></tr>
+    
+    <tr valign="top" bgcolor="#6db43f"><td align="left" nowrap="">&nbsp;<img height="5" src="/estore/resources/images/plus_sign.gif" width="5">&nbsp;<a class="leftnav" href="https://web.archive.org/web/20060427000138id_/http%3A//www.ibsa.com/estore/search.asp?N=29&amp;Ns=product+Type%7c0||Rank|1&amp;mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7&amp;js=1">Cordless Tools&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+    </td></tr>
+   
+    
+
+
+    
+
+    
+    <tr valign="top" bgcolor="#6db43f"><td align="left" nowrap="">&nbsp;<img height="5" src="/estore/resources/images/plus_sign.gif" width="5">&nbsp;<a class="leftnav" href="https://web.archive.org/web/20060427000138id_/http%3A//www.ibsa.com/estore/search.asp?N=36&amp;Ns=product+Type%7c0||Rank|1&amp;mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7&amp;js=1">Medical Equipment&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+    </td></tr>
+    
+    
+
+    <tr valign="top" bgcolor="#6db43f"><td align="left" nowrap="">&nbsp;<img height="5" src="/estore/resources/images/plus_sign.gif" width="5">&nbsp;<a class="leftnav" href="https://web.archive.org/web/20060427000138id_/http%3A//www.ibsa.com/estore/search.asp?N=44&amp;Ns=product+Type%7c0||Rank|1&amp;mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7&amp;js=1">Sealed Lead Acid/SLA&nbsp;&nbsp;&nbsp;&nbsp;</a>
+    </td></tr>
+    
+
+    
+
+    <tr valign="top" bgcolor="#6db43f"><td align="left" nowrap="">&nbsp;<img height="5" src="/estore/resources/images/plus_sign.gif" width="5">&nbsp;<a class="leftnav" href="https://web.archive.org/web/20060427000138id_/http%3A//www.ibsa.com/estore/search.asp?N=43&amp;Ns=product+Type%7c0||Rank|1&amp;mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7&amp;js=1">Two-Way Radios&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+    </td></tr>
+
+    
+
+    <tr valign="top" bgcolor="#6db43f">
+     
+     				<td align="right" nowrap=""><font face="verdana" size="1" color="black"><a class="leftnav" href="https://web.archive.org/web/20060427000138id_/http%3A//www.ibsa.com/estore/shop_confidence.asp?show=all&amp;mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7&amp;js=1">...More</a></font></td>
+     			
+     
+    </tr>
+    
+<!--    <TR vAlign=top bgColor=#6db43f><TD align=left nowrap>&nbsp;<IMG height=5 src="/estore/resources/images/plus_sign.gif" width=5>&nbsp;<A class=leftnav href="search.asp?N=32&Ns=product+Type%7c0||Rank|1&js=1&mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7">Alkaline</A>
+    </td></tr>
+    
+    <TR vAlign=top bgColor=#6db43f><TD align=left nowrap>&nbsp;<IMG height=5 src="/estore/resources/images/plus_sign.gif" width=5>&nbsp;<A class=leftnav href="search.asp?N=22&Ns=product+Type%7c0||Rank|1&js=1&mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7">Calculators</A>
+    </td></tr>
+  
+    <TR vAlign=top bgColor=#6db43f><TD align=left nowrap>&nbsp;<IMG height=5 src="/estore/resources/images/plus_sign.gif" width=5>&nbsp;<A class=leftnav href="search.asp?N=23&Ns=product+Type%7c0||Rank|1&js=1&mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7">Camcorders</A>
+    </td></tr>
+   
+    <TR vAlign=top bgColor=#6db43f><TD align=left nowrap>&nbsp;<IMG height=5 src="/estore/resources/images/plus_sign.gif" width=5>&nbsp;<A class=leftnav href="search.asp?N=41&Ns=product+Type%7c0||Rank|1&js=1&mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7">Cameras</A>
+    </td></tr>
+   
+    <TR vAlign=top bgColor=#6db43f><TD align=left nowrap>&nbsp;<IMG height=5 src="/estore/resources/images/plus_sign.gif" width=5>&nbsp;<A class=leftnav href="search.asp?N=2147384799&Ns=product+Type%7c0||Rank|1&js=1&mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7">Cash Registers</A>
+    </td></tr>
+   
+    <TR vAlign=top bgColor=#6db43f><TD align=left nowrap>&nbsp;<IMG height=5 src="/estore/resources/images/plus_sign.gif" width=5>&nbsp;<A class=leftnav href="search.asp?N=24&Ns=product+Type%7c0||Rank|1&js=1&mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7">Cellular Phones</A>
+    </td></tr>
+    
+    <TR vAlign=top bgColor=#6db43f><TD align=left nowrap>&nbsp;<IMG height=5 src="/estore/resources/images/plus_sign.gif" width=5>&nbsp;<A class=leftnav href="search.asp?N=25&Ns=product+Type%7c0||Rank|1&js=1&mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7">Chargers</A>
+    </td></tr>
+   
+    <TR vAlign=top bgColor=#6db43f><TD align=left nowrap>&nbsp;<IMG height=5 src="/estore/resources/images/plus_sign.gif" width=5>&nbsp;<A class=leftnav href="search.asp?N=2147384804&Ns=product+Type%7c0||Rank|1&js=1&mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7">Coin Cells</A>
+    </td></tr>
+    
+    <TR vAlign=top bgColor=#6db43f><TD align=left nowrap>&nbsp;<IMG height=5 src="/estore/resources/images/plus_sign.gif" width=5>&nbsp;<A class=leftnav href="search.asp?N=27&Ns=product+Type%7c0||Rank|1&js=1&mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7">Computers/Laptops</A>
+    </td></tr>
+    
+    <TR vAlign=top bgColor=#6db43f><TD align=left nowrap>&nbsp;<IMG height=5 src="/estore/resources/images/plus_sign.gif" width=5>&nbsp;<A class=leftnav href="search.asp?N=28&Ns=product+Type%7c0||Rank|1&js=1&mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7">Cordless Phones</A>
+    </td></tr>
+   
+    <TR vAlign=top bgColor=#6db43f><TD align=left nowrap>&nbsp;<IMG height=5 src="/estore/resources/images/plus_sign.gif" width=5>&nbsp;<A class=leftnav href="search.asp?N=29&Ns=product+Type%7c0||Rank|1&js=1&mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7">Cordless Tools</A>
+    </td></tr>
+    
+    <TR vAlign=top bgColor=#6db43f><TD align=left nowrap>&nbsp;<IMG height=5 src="/estore/resources/images/plus_sign.gif" width=5>&nbsp;<A class=leftnav href="search.asp?N=2147384805&Ns=product+Type%7c0||Rank|1&js=1&mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7">Dry Cells</A>
+    </td></tr>
+    
+    <TR vAlign=top bgColor=#6db43f><TD align=left nowrap>&nbsp;<IMG height=5 src="/estore/resources/images/plus_sign.gif" width=5>&nbsp;<A class=leftnav href="search.asp?N=2147384806&Ns=product+Type%7c0||Rank|1&js=1&mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7">Electronics</A>
+    </td></tr>
+    
+    <TR vAlign=top bgColor=#6db43f><TD align=left nowrap>&nbsp;<IMG height=5 src="/estore/resources/images/plus_sign.gif" width=5>&nbsp;<A class=leftnav href="search.asp?N=30&Ns=product+Type%7c0||Rank|1&js=1&mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7">Flashlights</A>
+    </td></tr>
+    
+    <TR vAlign=top bgColor=#6db43f><TD align=left nowrap>&nbsp;<IMG height=5 src="/estore/resources/images/plus_sign.gif" width=5>&nbsp;<A class=leftnav href="search.asp?N=31&Ns=product+Type%7c0||Rank|1&js=1&mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7">Hearing Aids</A>
+    </td></tr>
+   
+    <TR vAlign=top bgColor=#6db43f><TD align=left nowrap>&nbsp;<IMG height=5 src="/estore/resources/images/plus_sign.gif" width=5>&nbsp;<A class=leftnav href="search.asp?N=32&Ns=product+Type%7c0||Rank|1&js=1&mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7">Household Batteries</A>
+    </td></tr>
+   
+    <TR vAlign=top bgColor=#6db43f><TD align=left nowrap>&nbsp;<IMG height=5 src="/estore/resources/images/plus_sign.gif" width=5>&nbsp;<A class=leftnav href="search.asp?N=36&Ns=product+Type%7c0||Rank|1&js=1&mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7">Medical Equipment</A>
+    </td></tr>
+    
+    <TR vAlign=top bgColor=#6db43f><TD align=left nowrap>&nbsp;<IMG height=5 src="/estore/resources/images/plus_sign.gif" width=5>&nbsp;<A class=leftnav href="search.asp?N=2147384801&Ns=product+Type%7c0||Rank|1&js=1&mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7">Miscelleneous Devices</A>
+    </td></tr>
+    
+    <TR vAlign=top bgColor=#6db43f><TD align=left nowrap>&nbsp;<IMG height=5 src="/estore/resources/images/plus_sign.gif" width=5>&nbsp;<A class=leftnav href="search.asp?N=2147384802&Ns=product+Type%7c0||Rank|1&js=1&mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7">Office/Home Supplies</A>
+    </td></tr>
+    
+    <TR vAlign=top bgColor=#6db43f><TD align=left nowrap>&nbsp;<IMG height=5 src="/estore/resources/images/plus_sign.gif" width=5>&nbsp;<A class=leftnav href="search.asp?N=40&Ns=product+Type%7c0||Rank|1&js=1&mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7">Pagers</A>
+    </td></tr>
+    
+    <TR vAlign=top bgColor=#6db43f><TD align=left nowrap>&nbsp;<IMG height=5 src="/estore/resources/images/plus_sign.gif" width=5>&nbsp;<A class=leftnav href="search.asp?N=41&Ns=product+Type%7c0||Rank|1&js=1&mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7">Photo Batteries</A>
+    </td></tr>
+   
+    <TR vAlign=top bgColor=#6db43f><TD align=left nowrap>&nbsp;<IMG height=5 src="/estore/resources/images/plus_sign.gif" width=5>&nbsp;<A class=leftnav href="search.asp?N=43&Ns=product+Type%7c0||Rank|1&js=1&mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7">Radio Batteries</A>
+    </td></tr>
+    
+    <TR vAlign=top bgColor=#6db43f><TD align=left nowrap>&nbsp;<IMG height=5 src="/estore/resources/images/plus_sign.gif" width=5>&nbsp;<A class=leftnav href="search.asp?N=44&Ns=product+Type%7c0||Rank|1&js=1&mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7">Sealed Lead/SLA</A>
+    </td></tr>
+    
+    <TR vAlign=top bgColor=#6db43f><TD align=left nowrap>&nbsp;<IMG height=5 src="/estore/resources/images/plus_sign.gif" width=5>&nbsp;<A class=leftnav href="search.asp?N=2147384800&Ns=product+Type%7c0||Rank|1&js=1&mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7">Security Systems</A>
+    </td></tr>
+    
+    <TR vAlign=top bgColor=#6db43f><TD align=left nowrap>&nbsp;<IMG height=5 src="/estore/resources/images/plus_sign.gif" width=5>&nbsp;<A class=leftnav href="search.asp?N=2147384803&Ns=product+Type%7c0||Rank|1&js=1&mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7">Test Equipment</A>
+    </td></tr>
+    
+    <TR vAlign=top bgColor=#6db43f><TD align=left nowrap>&nbsp;<IMG height=5 src="/estore/resources/images/plus_sign.gif" width=5>&nbsp;<A class=leftnav href="search.asp?N=2147384795&Ns=product+Type%7c0||Rank|1&js=1&mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7">Toys</A>
+    </td></tr>
+    
+    <TR vAlign=top bgColor=#6db43f><TD align=left nowrap>&nbsp;<IMG height=5 src="/estore/resources/images/plus_sign.gif" width=5>&nbsp;<A class=leftnav href="search.asp?N=43&Ns=product+Type%7c0||Rank|1&js=1&mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7">Two-Way Radios</A>
+    </td></tr>
+    
+    <TR vAlign=top bgColor=#6db43f><TD align=left nowrap>&nbsp;<IMG height=5 src="/estore/resources/images/plus_sign.gif" width=5>&nbsp;<A class=leftnav href="search.asp?N=45&Ns=product+Type%7c0||Rank|1&js=1&mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7">Watches</A>
+    </td></tr>
+-->   
+    
+    
+<!--    <TR bgColor=#6db43f>
+     <TD width="100%"  height=7></TD>
+    </TR>
+-->    <tr>
+    <td bgcolor="#000000" nowrap="" height="18"><font face="verdana" size="1px" color="#ffffff"><div align="center"><b>VEHICLE BATTERIES </b></div></font></td></tr>
+    <tr valign="top" bgcolor="#6db43f"><td align="left" nowrap="">&nbsp;<img height="5" src="/estore/resources/images/plus_sign.gif" width="5">&nbsp;<a class="leftnav" href="https://web.archive.org/web/20060427000138id_/http%3A//www.ibsa.com/estore/search.asp?N=20&amp;Ns=product+Type%7c0||Rank|1&amp;mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7&amp;js=1">Agriculture Vehicle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+    </td></tr>
+     <tr valign="top" bgcolor="#6db43f"><td align="left" nowrap="">&nbsp;<img height="5" src="/estore/resources/images/plus_sign.gif" width="5">&nbsp;<a class="leftnav" href="https://web.archive.org/web/20060427000138id_/http%3A//www.ibsa.com/estore/search.asp?N=21&amp;Ns=product+Type%7c0||Rank|1&amp;mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7&amp;js=1">Automotive/Truck&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+    </td></tr>
+   
+     <tr valign="top" bgcolor="#6db43f"><td align="left" nowrap="">&nbsp;<img height="5" src="/estore/resources/images/plus_sign.gif" width="5">&nbsp;<a class="leftnav" href="https://web.archive.org/web/20060427000138id_/http%3A//www.ibsa.com/estore/search.asp?N=26&amp;Ns=product+Type%7c0||Rank|1&amp;mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7&amp;js=1">Commercial Equipment&nbsp;&nbsp;</a>
+    </td></tr>
+    
+     <tr valign="top" bgcolor="#6db43f"><td align="left" nowrap="">&nbsp;<img height="5" src="/estore/resources/images/plus_sign.gif" width="5">&nbsp;<a class="leftnav" href="https://web.archive.org/web/20060427000138id_/http%3A//www.ibsa.com/estore/search.asp?N=34&amp;Ns=product+Type%7c0||Rank|1&amp;mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7&amp;js=1">Lawn &amp; Garden&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+    </td></tr>
+   
+     <tr valign="top" bgcolor="#6db43f"><td align="left" nowrap="">&nbsp;<img height="5" src="/estore/resources/images/plus_sign.gif" width="5">&nbsp;<a class="leftnav" href="http://www.ibsa.com/estore/dealer_locator.asp?mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7&amp;product_line_id=3&amp;js=1">Marine&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+    </td></tr>
+    
+    <tr valign="top" bgcolor="#6db43f"><td align="left" nowrap="">&nbsp;<img height="5" src="/estore/resources/images/plus_sign.gif" width="5">&nbsp;<a class="leftnav" href="http://www.ibsa.com/estore/dealer_locator.asp?mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7&amp;product_line_id=8&amp;js=1">Motorcycle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+    </td></tr>
+    
+     <tr valign="top" bgcolor="#6db43f"><td align="left" nowrap="">&nbsp;<img height="5" src="/estore/resources/images/plus_sign.gif" width="5">&nbsp;<a class="leftnav" href="http://www.ibsa.com/estore/dealer_locator.asp?mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7&amp;product_line_id=3&amp;js=1">RV&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+    </td></tr>
+    
+     
+   
+<!--     <TR vAlign=top bgColor=#6db43f><TD align=left nowrap>&nbsp;<IMG height=5 src="/estore/resources/images/plus_sign.gif" width=5>&nbsp;<A class=leftnav href="search.asp?N=21&Ns=product+Type%7c0||Rank|1&js=1&mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7">Truck</A>
+    </td></tr>
+-->    
+     <tr valign="top" bgcolor="#6db43f"><td align="left" nowrap="">&nbsp;<img height="5" src="/estore/resources/images/plus_sign.gif" width="5">&nbsp;<a class="leftnav" href="https://web.archive.org/web/20060427000138id_/http%3A//www.ibsa.com/estore/search.asp?N=2147384794&amp;Ns=product+Type%7c0||Rank|1&amp;mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7&amp;js=1">Vintage Car&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+    </td></tr>
+    
+    <tr><td width="100%" height="7" bgcolor="#6db43f"></td></tr>
+    <tr><td>
+    <table cellspacing="0" cellpadding="0" width="100%" border="0">
+    <form name="dealerlocator" action="http://www.ibsa.com/estore/dealer_locator_results.asp?mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7&amp;js=1" method="post"></form>
+    <tbody><tr bgcolor="#b6d99f"><td style="BORDER-TOP: #000000 1px solid" valign="top" align="right" colspan="2"><div align="center"><img border="0" height="99" src="/estore/resources/images/dlr_locator.gif" width="151"></div></td></tr>
+    <tr valign="center" bgcolor="#b6d99f"><td colspan="2"><div align="center"><input type="text" name="postalcode" size="10" maxlength="10">&nbsp;<input align="middle" type="image" src="/estore/resources/images/go_button_square.gif" alt="Submit Button" border="0"></div></td></tr>
+    <tr bgcolor="#b6d99f"><td valign="top" colspan="2"><div align="left"><font face="verdana" size="1px" color="black">&nbsp;&nbsp;&nbsp;&nbsp;ZIP/POSTAL CODE</font></div></td></tr>
+    <tr bgcolor="#b6d99f"><td style="BORDER-BOTTOM: #000000 1px solid" valign="top" align="right" colspan="2">&nbsp;</td></tr></tbody></table></td></tr>
+   </tbody></table></td>
+
+  <td width="100%" valign="top" align="center">
+   <table cellspacing="0" cellpadding="0" width="100%" border="0">
+
+<!--    <tr>
+     <td colspan=3 height="4"><img src="/estore/resources/images/white_pixel.gif" width="1" height="1"></td>
+    </tr><tr>
+     <TD><IMG height=1 src="/estore/resources/images/white_pixel.gif" width=5></TD>
+     <TD> -->
+
+
+<script language="JavaScript" src="/estore/resources/includes/header.js"></script>
+
+
+
+<form action="https://web.archive.org/web/20060427000138id_/http%3A//www.ibsa.com/estore/shop_confidence.asp%3Fmscssid%3D03KE6B4APWUL8GGKBQLGAT9XRD1587G2%26js%3D1&amp;js=1"></form>
+</table><table width="98%" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr><td colspan="2" class="productresult">PRIVACY POLICY </td></tr>	
+	<tr><td colspan="2" bgcolor="#999999" height="1"><img src="/estore/resources/images/spacer.gif" width="1" height="1"></td></tr>
+  <tr><td>&nbsp; </td></tr>
+  <tr><td colspan="2"><a href="http://www.ibsa.com/estore/default.asp?mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7&amp;js=1" class="clsLinksBC">Home</a> &gt; </td></tr>
+  <tr><td>&nbsp; </td></tr>
+
 	<tr>
 		<td width="25">&nbsp;</td>
 		<td valign="top"><p><font face="Verdana, Arial" size="1" color="#000000" class="header"><b>You can shop with confidence at interstatebatteries.com!</b></font></p> 
@@ -87,8 +524,8 @@ var RightNav = '';
 
 
 <p><font face="Verdana, Arial" size="1" color="#000000" class="header"><b>Updating Your Personal Information</b></font></p>
-<p><font color="#333333" class="instructiontxt" face="verdana, arial" size="1">Consumers may change their personal information at any time, by logging into our website, and clicking on  <a href="http://www.ibsa.com/estore/account.asp?mscssid=UXEFPEKHFFEE8PTKWMG37HGNHFFA0B12&amp;js=1">Update Your Account Information</a> in the <a href="http://www.ibsa.com/estore/your_account.asp?mscssid=UXEFPEKHFFEE8PTKWMG37HGNHFFA0B12&amp;js=1">Your Account section</a>.</font></p><font color="#333333" class="instructiontxt" face="verdana, arial" size="1">
-</font><p><font color="#333333" class="instructiontxt" face="verdana, arial" size="1"></font>Business customers may change their information by contacting Customer Service at 866-842-5468, or sending an email to <a href="mailto: customerservice@interstatebatteries.com">CustomerService@InterstateBatteries.com</a>.  After verifying your business information, the Customer Service representative can make any changes to your account.</p> 
+<p><font color="#333333" class="instructiontxt" face="verdana, arial" size="1">Consumers may change their personal information at any time, by logging into our website, and clicking on  <a href="http://www.ibsa.com/estore/account.asp?mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7&amp;js=1" class="clsLinksBodyText">Update Your Account Information</a> in the <a href="http://www.ibsa.com/estore/your_account.asp?mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7&amp;js=1" class="clsLinksBodyText">Your Account section</a>.</font></p><font color="#333333" class="instructiontxt" face="verdana, arial" size="1">
+</font><p><font color="#333333" class="instructiontxt" face="verdana, arial" size="1"></font>Business customers may change their information by contacting Customer Service at 866-842-5468, or sending an email to <a href="mailto: customerservice@interstatebatteries.com" class="clsLinksBodyText">CustomerService@InterstateBatteries.com</a>.  After verifying your business information, the Customer Service representative can make any changes to your account.</p> 
 
 <p><font face="Verdana, Arial" size="1" color="#000000" class="header"><b>Contact by Email</b></font></p>
 <p><font color="#333333" class="instructiontxt" face="verdana, arial" size="1">Also in respect to your privacy, you are provided a choice whether or not to receive future messages from Interstate Batteries by e-mail.</font></p><p> 
@@ -104,13 +541,61 @@ var RightNav = '';
 		</p></font></font></td>
 	</tr>
 </tbody></table>
-</form>
 
-<script language="JavaScript" src="/estore/resources/includes/footer.js"></script>
 
-<font color="#FFFFFF" face="Verdana,Arial" size="1">Last Category Refresh = 3/17/2005 7:00:02 AM</font>
+<!--<script language="JavaScript" src='/estore/resources/includes/footer.js'></script>-->
+ 
+ </td></tr><tr>
+  <td colspan="3" class="align_center" valign="top" align="middle" bgcolor="white"><font face="verdana, arial, helvetica" size="1"><center>
+   <a class="bottomnav" href="http://www.ibsa.com/estore/main_application.asp?mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7&amp;show=all&amp;js=1">Shop Online</a><font color="#cccccc">&nbsp;|&nbsp;</font>
+   <a class="bottomnav" href="http://www.ibsa.com/estore/dealer_locator.asp?mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7&amp;js=1">Locations</a><font color="#cccccc">&nbsp;|&nbsp;</font>
+   <a class="bottomnav" href="http://www.ibsa.com/www_2001/content/about_us/default_aboutus.asp?js=1">About Us</a><font color="#cccccc">&nbsp;|&nbsp;</font>
+   <!--<A class=bottomnav href="http://www.ibsa.com/estore/customer_service.asp?mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7">Customer Service</A><FONT color=#cccccc>&nbsp;|&nbsp;</FONT>-->
+   <a class="bottomnav" href="http://www.ibsa.com/estore/customer_service_email.asp?mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7&amp;js=1">Contact Us</a><font color="#cccccc">&nbsp;|&nbsp;</font>
+   <a class="bottomnav" href="http://www.ibsa.com/www_2001/content/products/features.asp?js=1">Product Info</a><font color="#cccccc">&nbsp;|&nbsp;</font>
+   <a class="bottomnav" href="http://www.ibsa.com/racing/default.htm?js=1">Racing</a><font color="#cccccc">&nbsp;|&nbsp;</font>
+   <a class="bottomnav" href="http://www.ibsa.com/fundraising/default.asp?js=1">Fundraising</a>
+   
+   <br>
+   <a class="bottomnav" href="http://www.ibsa.com/estore/shop_confidence.asp?mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7&amp;js=1">Privacy Policy</a><font color="#cccccc">&nbsp;|&nbsp;</font>
+   <a class="bottomnav" href="http://www.ibsa.com/estore/copyright.asp?mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7&amp;js=1">Legal</a><font color="#cccccc">&nbsp;|&nbsp;</font>
+   <a class="bottomnav" href="http://www.ibsa.com/estore/sitemap.asp?mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7&amp;js=1">Site Map</a><font color="#cccccc">&nbsp;|&nbsp;</font>
+   <a class="bottomnav" href="http://www.ibsa.com/estore/show_affiliates.asp?mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7&amp;js=1">Affiliates</a><font color="#cccccc">&nbsp;|&nbsp;</font>
+   <a class="bottomnav" href="http://www.ibsa.com/estore/your_account.asp?mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7&amp;js=1">Your Account</a><font color="#cccccc">&nbsp;|&nbsp;</font>
+   <!--<A class=bottomnav href="http://www.ibsa.com/estore/power_points.asp?mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7">Power Points</A><FONT color=#cccccc>&nbsp;|&nbsp;</FONT>-->
+   <a class="bottomnav" href="http://www.ibsa.com/estore/basket.asp?mscssid=UP0HB1BJPF8V9KXELCM6TLCE2AUJ9DC7&amp;js=1">Shopping Cart</a>
+</center></font></td>
+ </tr>
+
+ <tr>
+
+  <!--<TD width="20%" vAlign=top width=10 height=20 bgcolor=white><IMG height=15 src="/estore/resources/images/trans.gif" width=276></TD>-->
+
+  <td colspan="3" valign="bottom" align="middle" height="20" bgcolor="white"><font class="align_center" face="Verdana,Arial,Helvetica" color="#333333" size="-2">© Interstate Battery System of America, Inc.</font></td>
+
+  <!--<TD vAlign=top width=124 height=20 bgcolor=white><IMG height=15 src="/estore/resources/images/trans.gif" width=124></TD>-->
+
+ </tr>
+
+			<tr>
+			<td colspan="3">
+						<table border="0" width="100%" cellpadding="0" cellspacing="0" class="clsNormalText"><tbody><tr><td align="left" bgcolor="white">
+						<font color="#333333" class="instructiontxt" face="verdana, arial" size="1" align="left"><br></font></td></tr></tbody></table>
+						</td></tr>
+		
+		
+</tbody></table>
+
+<!--<font color="#FFFFFF" face="Verdana,Arial" size="1">Last Category Refresh = 4/26/2006 4:00:02 PM</font>-->
 <script language="JavaScript">
 <!--
+
+function NoPopUpSurvey()
+
+{ blnPopUp=false;
+
+}
+
 blnHideScriptErrors = true;
 var i = 0;
 var re1 = /&js=1/g;
@@ -125,16 +610,21 @@ if (coll!=null)
   { ChkStr = coll[i].href;
     ChkStr = ChkStr.replace(re1,"");
     ChkStr = ChkStr.replace(re2,"");
-    if (ChkStr.substring(0,6) != "mailto")
-    { if (ChkStr.substring(0,1) != "j")
-      { if (ChkStr.search(re3) > 0)
-          coll[i].href = ChkStr + "&js=1";
-        else
-          coll[i].href = ChkStr + "?js=1";
-      }
-    } 
+    if (ChkStr.indexOf("#")== -1)
+    {
+	    if (ChkStr.substring(0,6) != "mailto")
+	    { if (ChkStr.substring(0,1) != "j")
+	      { if (ChkStr.search(re3) > 0)
+	          coll[i].href = ChkStr + "&js=1";
+	        else
+	          coll[i].href = ChkStr + "?js=1";
+	      }
+	      coll[i].onclick = 'NoPopUpSurvey'; 
+	    } 
+  	}
   }
 }
+
 //coll = document.all.tags("FORM");
 coll = document.forms;
 if (coll!=null)
