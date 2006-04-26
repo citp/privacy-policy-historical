@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the method123.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210182315id_/http%3A//www.method123.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the method123.com privacy policy that was archived on 2006-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060427000339id_/http%3A//www.method123.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Method123 : Project Management templates, free risk tools
 
@@ -15,7 +15,7 @@ Method123 is committed to protecting the privacy of the personal information of 
 
   **Accuracy of personal information**
 
-  We take all reasonable steps to ensure that all personal information we hold is as accurate as is possible. Under the Privacy Act 1993 (New Zealand), you have the right to contact us at any time and ask for its correction if you feel the personal information we have about you is inaccurate or incomplete. In normal circumstances we would correct that information. If we do not, you are entitled to request that we attach to that information a statement provided by you of the correction requested but not made. 
+  We take all reasonable steps to ensure that all personal information we hold is as accurate as is possible. You have the right to contact us at any time and ask for its correction if you feel the personal information we have about you is inaccurate or incomplete. In normal circumstances we would correct that information. If we do not, you are entitled to request that we attach to that information a statement provided by you of the correction requested but not made. 
 
   **Security of personal information**
 
@@ -35,6 +35,6 @@ Method123 is committed to protecting the privacy of the personal information of 
 
   **Accessing your personal information**
 
-  Under the Privacy Act 1993 (New Zealand), you have the right to request access to your information. We will usually give you full access to your personal information but, in some cases there may be legal or administrative reasons that prevent your access. If we deny access then we will inform you of the reasons why. 
+  You have the right to request access to your information. We will usually give you full access to your personal information but, in some cases there may be legal or administrative reasons that prevent your access. If we deny access then we will inform you of the reasons why. 
 
-  Please [contact us](https://web.archive.org/web/20051210182315id_/http%3A//www.method123.com/contact.php) if you would like to know more about how you can access or update your personal information. 
+  Please [contact us](https://web.archive.org/web/20060427000339id_/http%3A//www.method123.com/contact.php) if you would like to know more about how you can access or update your personal information. 
