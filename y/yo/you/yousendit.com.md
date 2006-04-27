@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yousendit.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225031239id_/http%3A//www.yousendit.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yousendit.com privacy policy that was archived on 2006-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060427181100id_/http%3A//www.yousendit.com/privacy.aspx) for the most accurate reproduction.*
 
 # YouSendIt: The Leader in File Delivery.
 
