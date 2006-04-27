@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mcgraw-hill.com privacy policy that was archived on 2005-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051223095009id_/http%3A//mcgraw-hill.com/privacy2.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mcgraw-hill.com privacy policy that was archived on 2006-04-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060427153543id_/http%3A//mcgraw-hill.com/privacy2.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>Privacy - The McGraw-Hill Companies</title>
@@ -123,6 +123,19 @@ var gDcsId="dcsdxpqbuqljwptlty1f8mwfr_4d2g";
 // Cookie checking function for home page refresh bypass
 var MGHHome = "";
 var dochome = new RegExp("/index\.html|^/$");
+var production = new Boolean(false);
+
+// If we are on development or staging, don't track the page
+if ( (window.location.hostname == "mhc-dev.mcgraw-hill.com") ||
+     (window.location.hostname == "mhc-stg.mcgraw-hill.com") ||
+     (window.location.hostname == "nmdev-internet.mcgraw-hill.com") ||
+     (window.location.hostname == "nmdev-intranet.mcgraw-hill.com") ||
+     (window.location.hostname == "corp-interstage.mcgraw-hill.com")
+    ) {
+        production = false;
+} else {
+    production = true;
+}
 
 function isCookie() {
     var allcookies = document.cookie;
@@ -306,7 +319,7 @@ function dcsMultiTrack(){
 dcsVar();
 dcsMeta();
 
-if (!isCookie() ) {
+if (!isCookie() && production) {
    if (dochome.test(window.location.pathname)) {
        document.cookie = "MGHHome=home";
    } else {
