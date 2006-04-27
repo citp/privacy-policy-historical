@@ -1,23 +1,23 @@
-> *The following text is extracted and transformed from the osnews.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230095854id_/http%3A//www.osnews.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osnews.com privacy policy that was archived on 2006-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060428010636id_/http%3A//osnews.com/privacy.php) for the most accurate reproduction.*
 
 # OSNews.com
 
-| **[](https://web.archive.org/web/20051230095854id_/http%3A//www.osnews.com/index.php "OSNews Front Page")**  
+| **[](https://web.archive.org/web/20060428010636id_/http%3A//osnews.com/index.php "OSNews Front Page")**  
 ---  
-**[News Archive](https://web.archive.org/web/20051230095854id_/http%3A//www.osnews.com/article.php?kind=News&offset=0&rows=70)**  
-**[Features](https://web.archive.org/web/20051230095854id_/http%3A//www.osnews.com/article.php?kind=Feature&offset=0&rows=70)**  
-**[Interviews](https://web.archive.org/web/20051230095854id_/http%3A//www.osnews.com/article.php?kind=Interview&offset=0&rows=70)**  
-**[Editorials](https://web.archive.org/web/20051230095854id_/http%3A//www.osnews.com/article.php?kind=Editorial&offset=0&rows=70)**  
+**[News Archive](https://web.archive.org/web/20060428010636id_/http%3A//osnews.com/article.php?kind=News&offset=0&rows=70)**  
+**[Features](https://web.archive.org/web/20060428010636id_/http%3A//osnews.com/article.php?kind=Feature&offset=0&rows=70)**  
+**[Interviews](https://web.archive.org/web/20060428010636id_/http%3A//osnews.com/article.php?kind=Interview&offset=0&rows=70)**  
+**[Editorials](https://web.archive.org/web/20060428010636id_/http%3A//osnews.com/article.php?kind=Editorial&offset=0&rows=70)**  
 **[Meta Blog](https://web.archive.org/meta/blog.php)**  
-**[View Topics](https://web.archive.org/web/20051230095854id_/http%3A//www.osnews.com/topic.php)**  
-**[Submit News](https://web.archive.org/web/20051230095854id_/http%3A//www.osnews.com/submit.php)**  
-**[Contact Us](https://web.archive.org/web/20051230095854id_/http%3A//www.osnews.com/contact.php)**  
-**[Membership](https://web.archive.org/web/20051230095854id_/http%3A//www.osnews.com/subscribe.php)**  
-**[OS Resources](https://web.archive.org/web/20051230095854id_/http%3A//www.osnews.com/resources.php)**  
+**[View Topics](https://web.archive.org/web/20060428010636id_/http%3A//osnews.com/topic.php)**  
+**[Submit News](https://web.archive.org/web/20060428010636id_/http%3A//osnews.com/submit.php)**  
+**[Contact Us](https://web.archive.org/web/20060428010636id_/http%3A//osnews.com/contact.php)**  
+**[Membership](https://web.archive.org/web/20060428010636id_/http%3A//osnews.com/subscribe.php)**  
+**[OS Resources](https://web.archive.org/web/20060428010636id_/http%3A//osnews.com/resources.php)**  
 **[OS Galaxy](http://galaxy.osnews.com/)**  
 **[GnomeFiles](http://gnomefiles.org/)**  
 **[Dusty-Computing](http://www.dusty-computing.com/)**  
-**[Advertise](https://web.archive.org/web/20051230095854id_/http%3A//www.osnews.com/advertise.php)**  
+**[Advertise](https://web.archive.org/web/20060428010636id_/http%3A//osnews.com/advertise.php)**  
 **Privacy statement**
 
 OSNews will not sell your personal information, and you will not receive email from anyone but OSNews if you register for an account or become a member. Registered users will be asked for certain personal information (name and email address), and certain information will be posted on a user page on the site, though posting an email address is optional. Location, date of registration, and information about comments posted will be made publicly available. 
