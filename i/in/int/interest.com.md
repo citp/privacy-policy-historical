@@ -1,112 +1,119 @@
-> *The following text is extracted and transformed from the interest.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228052331id_/http%3A//mortgages.interest.com/content/general/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interest.com privacy policy that was archived on 2006-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060427182821id_/http%3A//interest.com/content/general/privacystatement.asp) for the most accurate reproduction.*
 
 # Mortgages, home loans and interest rates- Interest.com
 
-[](https://web.archive.org/index.asp)  
-  
-|  | [Compare Today's Rates](https://web.archive.org/MapSearch/RT/0/0/0/0/0/0/0/0/0/0/0/0/0/) | | | [Mortgage Calculators](https://web.archive.org/content/calculators/index.asp) | | | [Mortgage Trends](https://web.archive.org/content/trends/index.asp)  
----|---|---|---|---  
-|  |   
-| 
+By visiting, using and/or submitting information to www.interest.com, you are accepting the practices described in this Privacy Policy and the terms and conditions of Interest.com's Agreement of Terms of Use located at the URL www.interest.com/terms (the "Terms of Use"). 
 
-|   
----  
-Interest.com Privacy Policy   
-| Interest.com has created this privacy statement in order to demonstrate our commitment to privacy. 
+Interest.com takes your privacy seriously, and has published this Privacy Policy to explain how Interest.com treats all information you may submit to www.interest.com, except that information which is submitted pursuant to a sweepstakes entry. Refer to the Official Rules and Privacy Policy for each individual sweepstakes for Interest.com's specific policies regarding information sharing and disclosure pursuant to sweepstakes entry. 
 
-## Your Privacy is Important to Us
+**Collection of Personally Identifiable Information**
 
-At Interest.com/MMIS, your privacy is a primary concern. You entrust us with your private financial information to help us match you with a bank, lender or loan broker, or financial professional who can meet your personal financial needs. In exchange for your trust, we promise to protect your privacy. Under no circumstances will Interest.com/MMIS sell or share your personal information with any person or organization except: as authorized by you; with participating lenders, financial professionals or other parties involved in your transaction, or as required by law or court order. The Privacy Policy below describes our standards when handling information about you, your loan request or your Personal Finance Assistant Profiles. 
+Many of the features of www.interest.com are available to you without your providing personally identifiable information. The following are certain situations in which Interest.com may collect personally identifiable information from you: 
 
-We want you to know: 
-
-  * What information we may collect on an Interest.com/MMIS Web site; 
-  * How your information is used, and 
-  * How you can change information you submit through our data collection services. 
+  * **Registration for Newsletters and Sweepstakes.** Interest.com collects personally identifiable information from you if you register online for one of Interest.com's newsletters and when you enter Interest.com's sweepstakes. When you register online with Interest.com, Interest.com asks for personally identifiable information like your name, e-mail address, birth date, gender, ZIP code, occupation, industry, personal interests and other demographic information. 
+  * **Use of Forums.** If you choose to transmit, submit or post information through Interest.com's chat rooms, bulletin boards or other forums (the "Forums"), Interest.com will collect that information you provide. Interest.com retains this information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by law and pursuant to Interest.com's Terms of Use. 
+  * **Forms.** Interest.com may collect personally identifiable information from you if you choose fill out any forms, profiles, or surveys on www.interest.com. 
+  * **Correspondence.** If you send Interest.com personal correspondence, such as emails or letters, or if other users or third parties send Interest.com correspondence about your activities or postings on www.interest.com, Interest.com may choose to collect such information into a file specific to you. 
+  * **Business Partners.** Interest.com may receive your personally identifiable information from one of Interest.com's business partners. 
 
 
 
-* * *
+**Use of Personally Identifiable Information**
 
-## Information We Collect
+Interest.com uses your personally identifiable information to improve and customize the advertising and content you see on Interest.com's Web sites, to fulfill your requests for certain products and services, and, if you permit Interest.com or Interest.com's affiliates, to contact you about special offers and new products. Your personally identifiable information may also be aggregated and used by Interest.com for market research, project planning, troubleshooting problems, detecting and protecting against error, fraud or other criminal activity, to enforce Interest.com's Terms of Use, for other internal purposes, and as otherwise described to you at the time of collection. Interest.com will obtain your consent for any use of your personally identifiable information beyond the original uses for which you provided your consent. 
 
-There are several areas on the Interest.com/MMIS site where you may be asked to enter both personal and non-personal information. We DO NOT sell or share any personal information about you with any person or organization except: as authorized by you; with participating lenders, financial professionals or other parties involved in your transaction, or as required by law or court order. 
+You agree that Interest.com may use personal information about you to improve Interest.com's marketing and promotional efforts, analyze site usage, improve Interest.com's content and product offerings, customize www.interest.com's content, layout, and services, and as otherwise set forth in this Privacy Policy. You also agree that Interest.com may use your personal information to contact you and deliver information to you that, in some cases, is targeted to your interests, such as targeted banner advertisements, administrative notices, product offerings, and communications relevant to your use of www.interest.com. By accepting the Terms of Use and this Privacy Policy, you expressly agree to receive this information. If you do not wish to receive these communications, Interest.com encourages you opt out of the receipt of certain communications, as set forth below. 
 
-  * **Information you provide via loan forms or profiles**  
-When you come to our site to complete a qualification form or personal profile, you'll need to provide personal and financial information such as your name, phone number, e-mail address, employment status and other financial information depending upon your loan or financial referral preferences.
-  *  **Supplementary information for your loan or profile**  
-When you complete a loan or profile at Interest.com/MMIS site, it may be necessary for us to supplement the information you provide with information from third party sources or additional information from your actions on Interest.com such as your loan search, completion of your personal preferences and personal finance profile stored data. 
-  * **Information we collect when you use the Interest.com/MMIS Personal Finance Assistant Profile**  
-Interest.com/MMIS and our authorized partners may collect information from you through our Personal Finance Assistant Profile collection forms. Participation in this service is completely voluntary, and you decide whether or not to disclose your personal information.
-  *  **Technical information we collect**  
-We use cookies and stored personal profile data to track and collect certain user information so we can provide the best possible online consumer experience on our Web sites.
-  *  **Information from Interest.com/MMIS online surveys**  
-Participation in surveys is completely voluntary, and you choose whether or not to share your personal information with us.
-  *  **Information from the "Email Us" section of an Interest.com/MMIS Web site**  
-You may contact Interest.com/MMIS through the "Contact Us" or "Feedback on our new site design" features. Participation in this area is completely voluntary, and you decide whether or not to disclose your personal information.
-  *  **Information gathered from lenders**  
-The "Lenders" section of our Web sites contains information for lenders who joined the Interest.com/MMIS Network and is provided as a service on their behalf. Please read our [Disclaimer Section](https://web.archive.org/web/20051228052331id_/http%3A//mortgages.interest.com/content/general/disclaimer.asp) for more details.
-  *  **Information collected from the "Calculators" section of our site**  
-Interest.com/MMIS offers you several resources to help you make better financial decisions. One of these resources is the "Calculators" section of our site. We DO NOT collect any personal data you may input into any calculators on our site. The results may contain statements and statistics that have been obtained from sources believed to be reliable, including, but not limited to, information originated by Interest.com, licensed by Interest.com from information providers, or gathered by Interest.com from publicly available sources.
-  *  **Information collected during usage of Interest.com**  
-Interest.com/MMIS uses cookies to enhance your Web-viewing experience. Interest.com assigns you unique numbers and records those numbers in the cookie file on your computer. When you visit or revisit Interest.com, we read this number to track your progression through the website and your completion of forms. This process DOES NOT collect any personally identifiable information about you, such as your name, address, phone number or email address, unless approved by you. Such non-personal information is used by Interest.com to structure our website and enhance our content to better serve the needs of our visitors.
-  *  **Public Forums**  
-This site may make chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information revealed in these areas becomes public information, and you should exercise caution when deciding to disclose your personal information. 
+**Disclosure of Personally Identifiable Information**
+
+Unless you are entering one of Interest.com's sweepstakes, Interest.com does not currently share, loan, rent or sell your personally identifiable information. However, the following describes some of the ways that your personally identifiable information may be disclosed in the normal scope of business to provide Interest.com's services: 
+
+  * **Advertisers.** Interest.com may aggregate personally identifiable information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for their marketing and promotional purposes. However, in these situations, Interest.com does not disclose to these entities any information that could be used to identify you personally. Certain information, such as your name, email address, password, credit card number, and bank account number, are not disclosed to these third parties in a personally identifiable manner without your explicit consent. 
+  * **External Service Providers.** There are a number of separate services offered by third parties, including, without limitation, Interest.com's affiliates, that Interest.com refers to as external service providers that may be complementary to your use of www.interest.com (e.g. realtors, mortgage brokers, lenders, financial institutions, credit card issuers, information aggregators). If you choose to use these separate services, disclose information to the external service providers, and/or grant them permission to collect information about you, then their use of your information is governed by their privacy policy. Interest.com does not disclose your personally identifiable information to external service providers unless you provide your explicit consent. With your consent, Interest.com may provide some of your personal information to the external service provider offering such services, for your convenience. To prevent Interest.com's disclosure of your personally identifiable information to an external service provider, you can decline such consent or simply not use their services. You should evaluate the practices of external services providers before deciding to use their services. 
+  * **Internal Service Providers.** Interest.com may use third parties that Interest.com refers to as internal service providers to facilitate or outsource one or more aspects of Interest.com's business, product and service operations that Interest.com provides to you (e.g., technology, Forums, newsletters/alerts, analytical tools, advertising campaign management) and therefore Interest.com may provide some of your personal information directly to these internal service providers. These internal service providers are subject to confidentiality agreements with Interest.com or other legal restrictions that prohibit their use of the information Interest.com provides them for any other purpose except to facilitate the specific outsourced Interest.com related operation, unless you have explicitly agreed or given your prior permission to them for additional uses. In some instances, the internal service provider may collect information directly from you. In these cases, you will be notified of the involvement of the internal service provider, and all additional information you provide them and their additional uses will be strictly up to you. If you provide additional information to an internal service provider directly, then their use of your personally identifiable information is governed by their applicable privacy policy. 
 
 
 
-* * *
+Notwithstanding the foregoing, Interest.com reserves the right (and you authorize Interest.com) to share or disclose your personally identifiable information when Interest.com determines, in its sole discretion, that the disclosure of your personally identifiable information is necessary to identify, contact, or bring legal action against you if: 
 
-## How your information is used
-
-We use the information you provide on your loan quote or profile to match you with qualified participating lenders, financial professionals or authorized partners only. We may also send your information to other third parties relevant to your transaction. Interest.com/MMIS may also share certain aggregated data with our lenders and other third parties for general marketing and demographic purposes; however, this data DOES NOT include any of your personal identifying information. 
-
-  * **Information shared with our participating lenders and financial professionals**  
-At your direction (when you click the "submit" button or checked-box authorization), the information you provide us on the loan or profile is sent through the Interest.com/MMIS system and presented to qualified participating lenders that offer the types of loan products you have identified, other parties relevant to your transaction and/or participating financial professionals. Since our lenders and financial professionals may keep and use your information whether or not you qualify for a loan with them or use their services, we recommend that you contact them directly for more information about their specific privacy policies.
-  *  **Information shared with third parties**
-
-We also may act as an agent for our participating lenders, financial professionals, and data-collection partners in collecting information on their behalf. In addition, Interest.com/MMIS may notify you about a special offer via an email alert (i.e. Mortgage Rate Alert). We do not reveal your name, address or any other identifying information to that promotional partner without your permission.
-
-  *  **Information shared with authorized agents**  
-At your direction (when you click the "Submit" button or checked-box authorization), the information you provide to us on the loan or profile is sent through the Interest.com/MMIS system and may be presented to our authorized agents.
+  * you are or may be violating this Privacy Policy or Interest.com's Terms of Use; 
+  * you are interfering with another's rights or property, including, without limitation, Interest.com's rights or property; 
+  * you are violating any applicable law, rule or regulation; 
+  * necessary or required by any applicable law, rule or regulation; and/or 
+  * requested by authorities in the event of any act of terrorism or instance of local, regional or national emergency. 
 
 
 
-* * *
+Personally identifiable information and other personal information collected from you may also be transferred to a third party as a result of a sale, acquisition, merger, reorganization, other transfer or bankruptcy (a "Transfer") involving Interest.com and/or its affiliates. Interest.com specifically reserves the right to transfer personally identifiable information collected from www.interest.com, and any of its databases, together with any personally identifiable information contained therein, to a third party in connection with a Transfer, and nothing in this Privacy Policy is intended to interfere with the ability of Interest.com to transfer all or part of its business and/or assets (including www.interest.com) to an affiliate or independent third party at any time, for any purpose, without any limitation whatsoever. 
 
-## Changing Information You Submit Through Interest.com/MMIS Web Sites 
+In addition, due to the existing regulatory environment, Interest.com cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting the foregoing), Interest.com may be forced to disclose personal information to the government or third parties under certain circumstances or third parties may unlawfully intercept or access transmissions or private communications. Therefore, although Interest.com uses industry standard practices to protect your privacy, Interest.com does not promise, and you should not expect, that your personally identifiable information or private communications will always remain private. 
 
-Interest.com/MMIS puts you in control of your experience on our Web sites. You'll find our sites easy to navigate to find all the information you need to complete your transactions.
+**NOTE: If you are submitting personally identifiable information pursuant to sweepstakes entry, Interest.com reserves the right to share, loan, rent and/or sell the personally identifiable information that you submit with its affiliates and other third parties. Please refer to the Official Rules and Privacy Policy for each individual sweepstakes for the specific guidelines regarding information sharing and disclosure.**
 
-Interest.com/MMIS sites have security measures in place to protect against the loss, misuse and alteration of the information under our control. Please contact our [Customer Relations department](mailto:CustomerService@interest.com) for a detailed explanation. 
+**Changes to Personally Identifiable Information and Use Preferences**
 
-On our Web sites, you can: 
+You may at any time request a copy of Interest.com's record of your personally identifiable information, change your personally identifiable information or use preferences, or opt-out of Interest.com's use of your personally identifiable information by contacting Interest.com via any of the methods set forth below: 
 
-  * " Change your information: You may be able to review and change personal information in a profile that you completed through Interest.com/MMIS online. If you are unable to do this online, contact our [Customer Relations department](mailto:CustomerService@interest.com)
-  * Delete your information: Federal and state regulations require that we store completed loan and financial requests for various periods of time. In order to comply with these regulations, we cannot delete information from our databases. 
-  * Request to stop receiving emails from us. Periodically, Interest.com/MMIS may send you emails to alert you to money saving tips or special offers. If you do not wish to receive any of these offers, please visit our [subscription area](https://web.archive.org/content/newsletter/index.asp) where you can remove yourself from our mailing list. 
+  * Via telephone: 
+  * Via fax: 
+  * Via mail: 53 East St. Charles Road, Villa Park, IL 60181
+  * Via email:  
 
-Request to stop receiving emails from us. Periodically, Interest.com/MMIS may send you emails to alert you to money saving tips or special offers. If you do not wish to receive any of these offers, please visit our [subscription area](http://mortgages.interest.com/content/newsletter/index.asp) where you can remove yourself from our mailing list. 
+  * Via online link:  
 
-* * *
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: <http://www.advertising.com/Privacy.html>
 
-* * *
 
-## Contacting the Web Site
+**Newsletters and CAN-SPAM Compliance**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
+Interest.com.com sends only verified, double-opt-in e-mail newsletters, specifically requested by Interest.com subscribers. Subscriptions to Interest.com.com newsletters are verified by sending an e-mail confirmation to your e-mail address, which requires a positive response before an e-mail address is added to Interest.com's list. Interest.com.com is fully compliant with the Controlling the Assault of Non-Solicited Pornography and Marketing Act of 2003. 
 
-**Interest.com/MMIS**   
-53 East St. Charles Road  
-Villa Park, IL 60181   
-  
----  
-  
-  
-  
-|  |   
----  
-|  |   
-|  |  |  | 
+**Cookie technology**
+
+"Cookies" are alphanumeric identifiers in the form of text files that are inserted and stored by your web browser on your computer's hard drive. Interest.com may set and access cookies on your computer to track and store preferential information about you. Interest.com gathers anonymous information about its users through cookie technology on an aggregate level only. Such aggregated information is used solely within Interest.com's internal organization and is not shared with third parties. 
+
+**Web beacons**
+
+"Web beacons", also called single-pixels (1x1) or clear GIFs, are electronic images that allow a website to access cookies and help track marketing campaigns and general usage patterns of visitors to those websites. Web beacons can recognize certain types of information, such as cookie numbers, time and date of a page view, and a description of the page where the Web beacon is placed. No personally identifiable information about you is shared with third parties through the use of web beacons. 
+
+  * **Internal use of web beacons.** Interest.com may use web beacons internally to count users and recognize users through cookies. Access to cookies helps Interest.com personalize your experience when you visit Interest.com.com. 
+  * **Email.** Interest.com may include web beacons in HTML-formatted email messages that Interest.com or its affiliates or agents send. Including web beacons in email messages helps Interest.com determine your interest in and the effectiveness of such emails. 
+  * **External use of web beacons.** Interest.com may also use web beacons externally. For example, Interest.com may report aggregate information about Interest.com.com users, such as demographic and usage information, to its partners and other third parties. Interest.com may also include other company's web beacons within Interest.com.com. 
+
+
+
+**Security**
+
+Personally identifiable information you submit to Interest.com is password-protected for your privacy and security. In certain areas Interest.com uses industry-standard SSL-encryption to protect data transmissions. In the unlikely event that an unauthorized third party compromises Interest.com security measures, Interest.com will not be responsible for any damages directly or indirectly caused by an unauthorized third party's ability to view, use or disseminate such information. 
+
+**Links to Other Web sites**
+
+www.interest.com may include links to other third party Web sites. Such links are not an endorsement by Interest.com of those Web sites and/or the products or services offered there. Third party Web sites may have different privacy policies and Interest.com is not responsible for the privacy practices of those third party Web sites. If you click on a link to a third party Web site, Interest.com encourages you to check the privacy policy of that Web site, as it may differ substantially from that of this Privacy Policy. 
+
+**Access and Use of www.interest.com**
+
+www.interest.com is intended to be accessed and used only by adults and is not directed to children under the age of 18. Interest.com does not knowingly permit registration or submission of personally identifiable information by anyone under the age of 18. 
+
+**Changes to this Privacy Policy**
+
+Interest.com reserves the right to update, amend and/or change this Privacy Policy at any time in its sole discretion and without notice. Updates to this Privacy Policy will be posted here. Any information Interest.com collects from you online is subject only to Interest.com's most current Privacy Policy. You are encouraged to revisit this Privacy Policy from time to time in order to review any changes that have been made. Interest.com's last update was March 17, 2006. You continued access and use of www.interest.com following the posting of any such changes shall automatically be deemed your acceptance of the same. 
+
+**Questions or Concerns**
+
+If you have questions, comments, concerns or feedback regarding this Privacy Policy, send an e-mail to webmaster @ interest.com. 
+
+**Governing Law; Arbitration**
+
+This Privacy Policy is to be governed by and construed in accordance with the internal laws of the State of Florida, without regard for principles of conflicts of laws. Any civil action, claim, dispute or proceeding arising out of, or relating to, this Privacy Policy shall be referred to final and binding arbitration, before a single arbitrator, under the commercial arbitration rules of the American Arbitration Association in Palm Beach County, Florida. You and Interest.com shall select the arbitrator, and if you and Interest.com are unable to reach agreement on selection of the arbitrator within thirty (30) days after the notice of arbitration is served, then the American Arbitration Association shall select the arbitrator. Arbitration shall not commence until the party requesting it has deposited One Thousand Dollars ($1,000.00) with the arbitrator as a retainer for the arbitrator's fees and costs. The party requesting arbitration shall advance such sums as are required from time to time by the arbitrator to pay the arbitrator's fees and costs until the prevailing party is determined or the parties have agreed in writing to an alternate allocation of fees and costs. 
+
+Judgment upon any award rendered by the arbitrator shall be final, binding and conclusive upon you and Interest.com, and your and Interest.com's respective administrators, executors, legal representatives, successors and assigns, and may be entered in any court of competent jurisdiction. Notwithstanding the previous sentence, in no event shall either you or Interest.com be entitled to punitive, special, indirect or consequential damages, and both you and Interest.com hereby waive your rights to any punitive, special, indirect or consequential damages, including, but not limited to, damages for any loss of profit, revenue or business. 
+
+**Miscellaneous**
+
+If any portion of this Privacy Policy is deemed unlawful, void or unenforceable by any arbitrator, this Privacy Policy as a whole shall not be deemed unlawful, void or unenforceable, but only that portion of this Privacy Policy that is unlawful, void or unenforceable shall be stricken from this Privacy Policy. 
+
+The headings contained in this Privacy Policy are for convenience of reference only, are not to be considered a part of this Privacy Policy, and shall not limit or otherwise affect in any way the meaning or interpretation of this Privacy Policy. 
+
+All covenants, agreements, representations and warranties made in this Privacy Policy, as may be amended by Interest.com from time to time, shall survive your acceptance of this Privacy Policy. 
+
+This Privacy Policy and the Terms of Use represent the entire understanding and agreement between you and Interest.com regarding the subject matter of the same, and supersede all other previous agreements, understandings and/or representations regarding the same. 
