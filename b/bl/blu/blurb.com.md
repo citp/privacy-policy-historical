@@ -1,97 +1,104 @@
-> *The following text is extracted and transformed from the blurb.com privacy policy that was archived on 2002-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021013213203id_/http%3A//www.blurb.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blurb.com privacy policy that was archived on 2006-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060427122119id_/http%3A//www.blurb.com/privacy.html) for the most accurate reproduction.*
 
-# iUtility - The Internet Utility Company
+# About Blurb
 
-  1. What personally identifiable information of yours or third party personally identifiable information is collected from you through the Web site.
-  2. The organization collecting the information.
-  3. How the information is used.
-  4. With whom the information may be shared.
-  5. What choices are available to you regarding collection, use and distribution of the information.
-  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under The Internet Utility Company�s control.
-  7. How you can access and correct any inaccuracies in the information collected about you.
+Here comes the legalese…  
+Do not read the following while operating heavy machinery, as it has been known to cause drowsiness in mammals: 
+
+Blurb ("Blurb", "us" or "we") respects the privacy of the visitors to its Website, the home page of which is located at www.Blurb.com ("Website"). 
+
+This Privacy Policy is intended to inform you of our policies and practices regarding the collection, use and disclosure of any Personal Information and Anonymous Information you submit to us through our Website. "Personal Information" is information about you that is personally identifiable to you, like your name, address, e-mail address, or phone number, as well as other non-public information that is associated with the foregoing. "Anonymous Information" means information that is not associated with or linked to your Personal Information; Anonymous Information does not permit the identification of individual persons. We collect and use Personal Information and Anonymous Information as described in this Privacy Policy. 
+
+## User Consent
+
+By submitting Personal Information through our Website, you agree to the terms of this Privacy Policy and you expressly consent to the processing of your Personal Information according to this Privacy Policy. Your Personal Information may be processed by Blurb in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Personal Information may be less stringent than the laws in your country. 
+
+## Collection of Personal Information
+
+The Personal Information we gather from you helps us learn about visitors to the Website, our customers and potential customers. We use this information to better tailor the features, performance and support of our products and services, and to offer you additional information and opportunities. 
+
+## Personal Information You Provide to Us
+
+We collect Personal Information that you submit to us voluntarily through our Website.
+
+  * When you register on the Website as a user, we will collect your full name, mailing address and e-mail address.
+  * When you create your profile on the Website after registering as a user, we will collect on an optional basis other Personal Information, such as hobbies, interests etc.
+  * When you order products or services on the Website, we will collect all necessary credit card information, including your name, to charge your credit card.
+  * When you subscribe to the Blurb newsletter, we will collect your e-mail address.
+  * When you contact us to submit feedback using the form on the Website, we will collect your name, e-mail address and your feedback.
+  * When you participate in one of our surveys, we may collect additional profile information.
+  * When you contact us using the request forms on the Website, we will collect your name, e-mail address and your comment or question that you enter into the form.
+  * When you post messages on the message boards of the Website, the information contained in your posting will be stored on our servers and other users will be able to see it.
+  * When you contact us by sending us an e-mail, we will collect your e-mail address and any information contained in the e-mail you send us.
 
 
 
-Questions regarding this statement should be directed to the The Internet Utility Company site coordinator by emailing [privacy@iUtility.com](mailto:privacy@iUtility.com) or writing to us at the following address:
+## Personal Information Collected Via Technology
 
-> > 1600 Rosecrans Avenue  
->  Building 2b, Suite 2  
->  Manhattan Beach, CA 90266
+As you navigate our Website, certain passive information may also be collected, including your Internet protocol address, browser type, domain names, access times, and operating system. We also use Cookies and navigational data like Uniform Resource Locators (URL) to gather information regarding the date and time of your visit and the solutions and information for which you searched and which you viewed. This type of information is collected to make our services and solutions more useful to you. 
 
-To return to The Internet Utility Company home page, please use the "Back" button on your browser. 
+An "Internet protocol address" or "IP Address" is a number that is automatically assigned to your computer when you use the Internet. In some cases your IP Address stays the same from browser session to browser session; but if you use a consumer internet access provider, your IP Address probably varies from session to session. We track IP Addresses solely in conjunction with session cookies to analyze our web page flow. 
 
-If you feel that The Internet Utility Company has not complied with the policies outlined in this privacy statement please submit a Watchdog report at **[http://www.truste.org/users/user_watchdog.html](http://www.truste.org/watchdog.html) **
+"Cookies" are small pieces of information that a web site sends to your computer's hard drive while you are viewing a web site. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on the Website. Persistent Cookies can be removed by following Internet browser help file directions. If you choose to disable Cookies, some areas of the Website may not work properly. 
 
-* * *
+##  Personal Information We Receive From Other Sources
 
-**The Internet Utility Company** **�s Privacy Statement ******
+We may receive Personal Information about you from other sources like telephone or fax or from companies that provide our services by way of a co-branded or private-labeled website ("Partner Companies"). We may add this information to the information we have already collected from you via our Website in order to improve the products and services we provide.
 
-The Internet Utility Company is the sole owner of the information it gathers on its site.  The Internet Utility Company will only share your information with outside parties in ways that are described in this privacy statement or if we are required to do so by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law, cooperate with law enforcement agencies, or comply with a legal process served on our Web site
+## Use of Information
 
-**What Information is Collected and How it is Used? **
+In general, Personal Information you submit to us is used either to respond to requests that you make, or to aid us in serving you better. We may also use your Personal Information to provide you with the Blurb newsletters, surveys, or promotional e-mails regarding changes and upgrades to our products and services and for other marketing purposes of Blurb or our partners, should you request to receive such communications from us.
 
-How to Join
+We may create Anonymous Information records from Personal Information by excluding information (such as your name) that make the information personally identifiable to you. We may use this Anonymous Information to analyze request patterns and usage patterns so that we may enhance our products and services. Blurb reserves the right to use and disclose Anonymous Information to third parties in its discretion. 
 
-We collect contact information such as name, mailing address, email address, phone number, and company information such as company name and Web site URL. This information is used to generate an invoice for you to print and submit with the rest of your application materials.
+## Feedback
 
-Contact Us
+If you provide feedback on any of our products and services to us, we may use such feedback for any purpose, provided we will not associate such feedback with your Personal Information. Blurb will collect any information contained in such communication and will treat the Personal Information in such communication in accordance with this Privacy Policy.
 
-We use email links located on the "contact us" page and other areas of the site to allow you to contact us directly with any questions or comments you may have. We read every message sent in and try to reply promptly to every one. This information is used to respond directly to your questions or comments. We may also file your comments to improve the site and program, or review and discard the information. Your personal information is only shared with third parties with your explicit permission.
+## Disclosure of Personal Information
 
-Your email address is used to send you these emails. To unsubscribe from the monthly newsletter, press releases, or Watchdog advisories, see the Unsubscribe section below.
+Except as otherwise stated in this Privacy Policy, we do not generally trade, rent, or share your Personal Information with third parties and we will not disclose financial information unless you ask us to do so. 
 
-Logged Files and Cookies
+However, we may share your Personal Information with third parties to provide you with the products and services that we offer you through the Website. These third parties are required not to use your Personal Information other than to provide the services requested by Blurb and are bound by strict confidentiality agreements with regard to their use of such information. You expressly consent to the sharing of your Personal Information with our contractors and third party service providers for the sole purpose of providing services to you.
 
-The Internet Utility Company Web site logs IP addresses and browser types for systems administration purposes.  These logs will be analyzed to improve the value of the materials available on the website.  A user�s session will be tracked, but the user will be anonymous. We do not link IP addresses to any personally identifiable information. 
+We may enter into agreements with Partner Companies pursuant to which we provide the Partner Companies with a URL and a customer registration page co-branded with, or private labeled by, the Partner Companies, and the Partner Companies distributes and promotes the URL to its customers. A Partner Company may want access to Personal Information that we collect from their customers. As a result, if you register on the Website through a Partner Company, we may provide your Personal Information to the Partner Company. Because we do not control the privacy practices of our Partner Companies, you should read and understand their privacy policies.
 
-**Third Party Service Providers**
+Although we currently do not have a parent company, any subsidiaries, joint ventures, or other companies under a common control (collectively, "Affiliates"), we may in the future. We may share some or all of your Personal Information with these Affiliates, in which case we will require our Affiliates to honor this Privacy Policy.
 
-The Internet Utility Company contracts with a third party to assist us in managing certain functions on our Web site, such as sending out our newsletters.  The Internet Utility Company only provides third party service providers with the information necessary to carry out the service (i.e. only email addresses are provided to the party sending the newsletter on The Internet Utility Company�s behalf).  Third party service providers are contractually prevented from using the information received from The Internet Utility Company for any purpose other than those dictated by The Internet Utility Company. 
+If our company or our assets are acquired by another company, that company will possess the Personal Information collected by us and it will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy.
 
-**Links **
+Regardless of any choices you make regarding your Personal Information (as described below), we may disclose your Personal Information if we believe in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on Blurb; or (b) to protect and defend the rights or property of Blurb or users of our Website. 
 
-The Internet Utility Company Web site contains links to other Web sites. We encourage you to visit these Web sites to learn more about online privacy. Please note that these Web sites' privacy policies may differ from those of The Internet Utility Company.  We encourage you to read the privacy statement of any Web site you may visit.
+## Your Choices Regarding Your Personal Information
 
-**How to Unsubscribe from** **The Internet Utility Company** **Email Publications**
+We offer you choices regarding the collection, use and sharing of your Personal Information. When you receive newsletters or promotional communications from us, you may indicate a preference to stop receiving further communications from us and you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in the e-mail your receive or by contacting us directly (please see contact information below). Despite your indicated e-mail preferences, we may send you notices of any updates to our Terms of Use or Privacy Policy.
 
-Newsroom
+You may change any of the Personal Information in your account by editing your online profile or by sending an e-mail to us at the e-mail address set forth below.
 
-To unsubscribe from receiving the The Internet Utility Company Newsletter and Press Releases log into your account and then click on the unsubscribe link to send an email to notify us of your unsubscribe request.  Also, an unsubscribe link appears at the end of each email and when you click on it you will be automatically unsubscribed from the mailing. 
+## Regarding Children
 
-To unsubscribe from any of the above publications you may also send an email to [webmaster@iUtility.com](mailto:webmaster@iUtility.com) stating the name of the publication from which you wish to be unsubscribed.    
+We do not intentionally gather Personal Information about visitors who are under the age of 13.
 
-**How to Access and Update User Information**
+## Other Sites
 
-Reasonable access to personally identifiable information will be provided within 30 days at no cost to the user.  If access cannot be provided within that timeframe, The Internet Utility Company will provide the user a date when the information will be provided.  If for some reason access is denied, The Internet Utility Company will provide an explanation as why access has been denied.
+Our provision of a link to any other website or location is for your convenience and does not signify our endorsement of such other website or location or its contents. We have no control over, do not review, and cannot be responsible for these outside websites or their content. Please be aware that the terms of our Privacy Policy do not apply to these outside websites.
 
-Newsroom 
+## Security
 
-If you need to update your email address, please contact The Internet Utility Company at [webmaster@iUtility.com](mailto:webmaster@truste.org). Alternatively, you may unsubsribe from the publication using your old email address and re-subscribing using your new email address.
+Blurb is committed to protecting the security of your Personal Information. We use a variety of industry-standard security technologies and procedures to help protect your Personal Information from unauthorized access, use, or disclosure. 
 
-Join the Privacy Partnership
+Blurb has implemented industry-standard electronic means of protecting your Personal Information. We store Personal Information behind a computer firewall, a barrier designed to prevent outsiders from accessing our servers, and we have implemented technology to detect intrusions. We also require you to enter a password to access your account information. In addition, Blurb protects your Personal Information from unauthorized physical access by storing your Personal Information in a controlled facility. Except as provided elsewhere in this Privacy Policy, Blurb limits access to Personal Information in electronic databases to those persons (including employees and contractors) in Blurb's organization who have a business need for such access. Lastly, we conduct regular internal audits and vulnerability scans to ensure compliance with these security measures and generate security incident logs that track Information useful in screening for attempted abuse of or unauthorized access to your Personal Information. 
 
-If you need to update your contact information that was entered into the Join the Privacy Partnership form, please contact The Internet Utility Company at [BizDev@iUtility.com](mailto:BizDev@iUtility.com) 
+Even though Blurb has taken significant steps to ensure that your Personal Information is not intercepted, accessed, used, or disclosed by unauthorized persons, you should know that Blurb cannot fully eliminate security risks associated with Personal Information.
 
-**For Licensees Only **
+## Contact Us
 
-Newsletters, Licensee Advisories, and Administrative Email
+Should you have any questions or concerns regarding this Privacy Policy, please contact us: Blurb 580 California Street, Suite 300 San Francisco, CA 94104 USA E-mail: privacy @blurb.com
 
-Licensees� email address and/or mailing address is used to send The Internet Utility Company�s monthly newsletter, licensee advisories and other administrative notices regarding The Internet Utility Company�s seal programs.   To unsubscribe from receiving the newsletter of the licensee advisories, see the Unsubscribe section below.  Licensees will not be able to opt-out of receiving administrative notices. 
+## Privacy PolicyUpdates
 
-Unsubcribe and Update
+This Privacy Policy is subject to occasional revision, and if we make any substantial changes in the way we use your Personal Information, we will post an alert on this page. If you object to any such changes, you must cease using our Website. Continued use of our Website following notice of any such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
 
-To unsubscribe from receiving the monthly newsletter or licensee advisories log into your account and click on the unsubscribe link to send an email to notify us of your unsubscribe request.  Also, an unsubscribe link appears at the end of each email and when you click on it you will be automatically unsubscribed from the mailing. 
+This Policy was last updated in February 2006.
 
-If you need to update your email address, please contact The Internet Utility Company at [webmaster@iUtility.com](mailto:webmaster@truste.org).  Licensees also may contact their Account Manager to update their contact information. 
-
-**Security **
-
-Protecting your privacy and your information is a top priority at The Internet Utility Company.  We have taken careful measures to prevent the loss, misuse, and alteration of your information. Once we receive your information that was entered into our web site, it is stored behind a firewall. All The Internet Utility Company employees are aware of our privacy and security policies. Your information is only accessible to those employees who need it in order to perform their jobs. 
-
-**Notification of Changes**
-
-If we are going to use your personally identifiable information in a manner different from that stated at the time of collection through this Web site, we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already collected through our site, we will post a prominent notice on our web site notifying users of the change. 
-
-**Privacy Policy Compliance**
-
-If you feel that The Internet Utility Company has not complied with the policies outlined in this privacy statement please submit a Watchdog report at **[http://www.truste.org/users/user_watchdog.html](http://www.truste.org/watchdog.html) **
+ 
