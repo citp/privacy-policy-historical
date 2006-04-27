@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eircom.net privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216205814id_/http%3A//home.eircom.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eircom.net privacy policy that was archived on 2006-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060427154451id_/http%3A//home.eircom.net/privacy) for the most accurate reproduction.*
 
 # eircom net - Privacy
 
