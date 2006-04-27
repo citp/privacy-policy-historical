@@ -1,19 +1,87 @@
-> *The following text is extracted and transformed from the proxyway.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231081115id_/http%3A//www.proxyway.com/www/info/proxyway-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proxyway.com privacy policy that was archived on 2006-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060427201157id_/http%3A//www.proxyway.com/www/info/proxyway-privacy.html) for the most accurate reproduction.*
 
-# Anonymous surfing, Anonymous web surfing, Free anonymous surfing, Free anonymous web surfing, Surf Anonymous, Anonymous internet surfing, Anonymous Surfing web, Anonymous Proxy Surfing, Anonymous proxy web surfing, Anonymous surfing software, Anonymous proxy software, Anonymous software surfing web, Proxy server surfing, Anonymous software surfing web
+# Privacy Policy
 
-|  | [](http://www.proxyway.com/) |  | **  Local Time: Sat., December 31, 2005 2:11 AM**  
+|  [](http://www.proxyway.com/www/free-proxy-software/proxy-server-software-new.html)  
 ---  
-Be safe. Be hidden.    
-**Your local time: 1/30/2020, 4:46:32 PM**  
-|  |    
-|  |  [  Home](http://www.proxyway.com/)        [   Products](http://www.proxyway.com/www/products.html)        [  Downloads](http://www.proxyway.com/www/downloads/)        [  Purchase](http://www.proxyway.com/www/purchase/)        [  Support](http://www.proxyway.com/www/anonymous%20proxy%20surfing.html#anonymous%20proxy%20surfing)        [  Affiliates](http://www.proxyway.com/www/affiliate/affiliate-program.html)        [  Recommended](http://www.proxyway.com/www/recommended.html)        |  |   |  |   
----|---|---|---|---|---  
+|  |  **Thursday, April 27, 2006**   
+Latest Release [ProxyWayExtra 3.2 - April 21, 2006](http://www.proxyway.com/www/downloads/download_proxyway_extra.html)  
+[ProxyWayPro 3.2 - April 21, 2006](http://www.proxyway.com/www/downloads/download_proxyway_pro.html)  
+[ProxyWay 3.2 - April 21, 2006](http://www.proxyway.com/www/downloads/download_proxyway.html)[ProxyWay Extra 3.2 New Features](http://www.proxyway.com/www/free-proxy-software/anonymous-proxy-software.html#whats_new)
+* Added three options for HTTP proxy checking:  
+• checking proxies without detecting proxy geo location;  
+• check proxies with detecting proxy country location;  
+• advanced proxy checking - check proxies with detecting proxy country and proxy region/state[ProxyWay Pro 3.2 New Features](http://www.proxyway.com/www/free-proxy-software/proxy-server-software-new.html)
+* To speed up HTTP proxy checking added ability to check proxies without detecting proxy country. Now you can select if you want to check proxies with or without detecting proxy country.[ProxyWay Pro 3.1 New Features](http://www.proxyway.com/www/free-proxy-software/proxy-server-software-new.html)
+* Fixed problem with duplicating proxies while updating proxy list in IP:Port format. 
+* Updated country list (country.dat file). 
+* Improved proxy list update for selected countries.[ProxyWay Pro 3.0 New Features](http://www.proxyway.com/www/free-proxy-software/proxy-server-software-new.html)
+* Added ability to check proxies using external script. 
+* In "Settings" menu added "Advanced settings" sub-menu with new options. 
+* Added "Delete bad proxies after checking" option. 
+* In "Update proxy list" window added check box to temporary disable/enable url for proxy list auto updating[Proxy Way 3.2 New Features](http://www.proxyway.com/www/free-proxy-software/free-proxy-server-software-new.html)
+* Now there is no program expiration date.  
+But we recommend you to visit ProxyWay web site periodically to get the latest version as the program is updated on a regular basis.[Proxy Way 3.1 New Features](http://www.proxyway.com/www/free-proxy-software/free-proxy-server-software-new.html)
+* Fixed problem with duplicating proxies while updating proxy list in IP:Port format. 
+* Updated country list (country.dat file).[Proxy Way 3.0 New Features](http://www.proxyway.com/www/free-proxy-software/free-proxy-server-software-new.html)
+* Added ability to check proxies using external script. 
+* In "Settings" menu added "Advanced settings" sub-menu with new options. 
+* In "Update proxy list" window added check box to temporary disable/enable url for proxy list auto updating
+|   
+---|---|---  
+[](http://www.proxyway.com/www/free-proxy-tool/proxy-search-proxies.html)  
+|  |  ProxyWay [Proxy Finder](http://www.proxyway.com/www/free-proxy-tool/proxy-finder-software.html) searches for HTTP, HTTPS and SOCKS (SOCKS4, SOCKS4A, SOCKS5, SOCKS5 with Authentication) proxies on the Internet. Just specify URL(s) where proxy lists are located and Proxy Finder will automatically find proxy information. Proxy/proxies are added to the program proxy list where they can be checked for proxy state, proxy speed, proxy location and proxy anonymity using ProxyWay [Proxy Checker](http://www.proxyway.com/www/free-proxy-tool/check-proxy-checker.html) module.
+
+[Proxy Finder module main features:](http://www.proxyway.com/www/free-proxy-tool/proxy-search-proxies.html)
+
+• Scan and extract HTTP, HTTPS and SOCKS proxies  
+• Recognize different proxy list formats  
+• Import/export proxy capabilities  
+• Search proxies from certain country(ies)  
+• Extract proxies from different proxy lists simultaneously  
+• Automatically search proxies using "Update scheduler".  |   
+---|---|---  
+[](http://www.proxyway.com/www/free-proxy-tool/check-proxy-checker.html)  
+|  |  ProxyWay [Proxy Checker](http://www.proxyway.com/www/free-proxy-tool/check-proxy-checker.html) automatically parses the proxy data and generates detailed information about proxy server response time, proxy location (country), proxy protocol, proxy anonymity and functionality. Just choose the proxy(ies) you want to check and click the _Check_ button.
+
+[Proxy Checker module main features:](http://www.proxyway.com/www/free-proxy-tool/check-proxy-checker.html)
+
+• Check any number of proxies simultaneously  
+• Check HTTP, HTTPS, SOCKS4, SOCKS5 proxy server lists  
+• Supports multithreading to check proxy list faster  
+• Check proxy speed  
+• Check proxy anonymity (anonymous, high anonymous, transparent)  
+• Check proxy location (country)  
+• Check proxy functionality  
+• Import/export proxy list capabilities  
+• "Auto check proxy" option to check all added or modified proxies automatically.  |   
+---|---|---  
+[](http://www.proxyway.com/www/internet-cleaner.html)  
+|  | 
+
+Do you know ...  
+... Your [computer tracks](http://www.proxyway.com/www/free-internet-eraser/track-eraser.html) everything you are doing while using the computer or [surfing the Internet](http://www.proxyway.com/www/free-internet-eraser/internet-eraser-software.html)  
+... Your online and offline activities are not private as [surfing tracks](http://www.proxyway.com/www/free-internet-cleaner/free-internet-history-cleaner.html), downloaded files and some identifying data is stored on your computer.  
+... Some tracks of computer and [Internet activity](http://www.proxyway.com/www/erase-history-eraser.html) can't be removed manually without special tracks eraser software.  
+If you don't protect your information, your surfing habits and private information could be tracked and stolen. You may compromise your privacy and even become a victim of identify theft.  
+[Privacy eraser software](http://www.proxyway.com/www/free-internet-eraser/privacy-eraser.html) will keep your private information by [deleting information](http://www.proxyway.com/www/delete-internet-history.html) that is collected on your computer while surf the web: a [history of the web sites you have visited](http://www.proxyway.com/www/free-internet-eraser/free-history-eraser.html), [images and movies you have seen](http://www.proxyway.com/www/free-internet-cleaner/cache-cleaner.html), files you downloaded, documents and files you have just opened, cookies that web sites store on your computer, emails, passwords and user IDs you use to access various accounts over the web, your credit card number and other confidential information.
+
+[Read more](http://www.proxyway.com/www/free-internet-eraser/web-eraser.html) |   
+---|---|---  
+[](http://www.proxyway.com/www/recommended.html)  
+|  |  [2Privacy.com](http://www.proxyway.com/cgi-bin/out.pl?to=235) \- Information about on-line privacy, security, viruses. FREE tests to check IP address, get detailed IP Whois information, determine IP or Domain geographic location.
+
+[ClearAllHistory](http://www.proxyway.com/cgi-bin/out.pl?to=188) \- deletes Internet surfing and other computer activity tracks from your PC
+
+|   
+---|---|---  
   
-|  |  |   |  |    
----|---|---|---|---  
-|  |  |             **Privacy Policy**  
+|   
 ---  
+|  **Privacy Policy**  
+  
+---  
+  
 By using this site, you accept all the terms and conditions of the ProxyWay.com Privacy Policy. The purpose of ProxyWay.com Privacy Policy is to inform you what kinds of information we may gather about you when you visit ProxyWay.com and how we may use it, whether we may disclose gathered information to anyone, and your ability to change the information. This privacy practice applies only to ProxyWay.com, and not to other web sites to which we may link. If you do not agree to this policy, please do not use the site.  
 ProxyWay.com respects your desire for privacy and ensures that your personal information submitted to ProxyWay.com is handled in a safe and responsible manner.  
 **Information Collection and Use**  
@@ -35,41 +103,60 @@ WARNING: ProxyWay.com reserves the right to report any unauthorized or fraudulen
 ProxyWay.com provides links to third-party sites, which are not under the control of ProxyWay.com. ProxyWay.com is not responsible for the content and privacy policy on third-party sites.  
 **Changes to the Privacy Policy**  
 ProxyWay.com Privacy Policy may be changed from time to time. Please review the Privacy Policy page periodically for any changes at: http://www.ProxyWay.com/www/info/proxyway-privacy.html.  
-   
+  
 |   
 ---  
-  Copyright ©2005 ProxyWay.com All rights reserved.  [Terms of Use](http://www.proxyway.com/www/info/proxyway-terms.html)  [Privacy Policy](http://www.proxyway.com/www/info/proxyway-privacy.html)  
-| [](http://www.proxyway.com/www/anonymous-surfing-how.html#anonymous-surfing-how) |   
----|---  
-|   |  | Learn more how ProxyWay provides high Internet anonymity, guards your privacy, helps to optimize | [](http://www.proxyway.com/www/anonymous-surfing-how.html#anonymous-surfing-how)  
----|---  
-Internet surfing and speeds up web surfing by eliminating Ad and popups ...  
-   
-|   
-[](http://www.proxyway.com/www/check-ip-address/whatis-my-ip-address.html#privacy-check) |   
-|   |  | Do you want to know how private you are while surfing? Check your Internet privacy using our **[**Privacy Test!**](http://www.proxyway.com/www/check-ip-address/whatis-my-ip-address.html#privacy-check)** | [](http://www.proxyway.com/www/check-ip-address/whatis-my-ip-address.html#privacy-check)  
----|---  
+|  |   
+|  [How ProxyWay Works](http://www.proxyway.com/www/anonymous-surfing-how.html) |   
+|  |   
+|  |   
+---  
+|  [](http://www.proxyway.com/www/anonymous-surfing-how.html)Learn more how ProxyWay provides high [Internet](http://www.proxyway.com/www/anonymous-proxy-surfing-web.html) anonymity, guards your privacy, helps to optimize Internet surfing and speeds up web surfing by eliminating Ad and popups ...  
+|  |   
+|  |   
+|  [Privacy Test](http://www.proxyway.com/www/privacy-test.html) |   
+|  |   
+|  |   
+---  
+|  [](http://www.proxyway.com/www/check-ip-address/whatis-my-ip-address.html)Do you want to know how private you are while surfing? Check your IP address, IP country location, Internet privacy & your proxy anonymity using our [**PC Privacy Test!**](http://www.proxyway.com/www/check-ip-address/whatis-my-ip-address.html)  
+|  |   
+|  |   
+|  [Free Proxy Lists](http://www.proxyway.com/www/free-proxy-lists/free-anonymous-proxy-server-lists.html) |   
+|  |   
+|  |   
+---  
+|  [](http://www.proxyway.com/www/free-proxy-lists/free-anonymous-proxy-server-lists.html) How to find free daily updated [proxy lists](http://www.proxyway.com/www/free-proxy-server-list.html) (HTTP, HTTPS, SOCKS). High anonymous proxy, anonymous proxy, transparent proxies from different countries.  
+|  |   
+|  |   
+|  [Why you need ProxyWay](http://www.proxyway.com/www/surf-anonymous-why.html) |   
+|  |   
+|  |   
+---  
+|  [](http://www.proxyway.com/www/surf-anonymous-why.html)Internet is full of potential risk to your privacy and security. Learn more about Internet threats and easy way you can avoid them using ProxyWay  
+|  |   
+|  |   
+|  [ProxyWay Help](http://www.proxyway.com/www/anonymous%20proxy%20surfing.html) |   
+|  |   
+|  |   
+---  
+|  [](http://www.proxyway.com/www/anonymous%20proxy%20surfing.html)Need help using, downloading or purchasing Proxy Way?  
+Check out   [FAQ](http://www.proxyway.com/www/anonymous%20proxy%20surfing.html)  
+or ProxyWay   [On-line Help](http://www.proxyway.com/www/anonymous-web-browsing/anonymous-web-browsing.html)  
+|  |   
+|  |   
+|  [Internet Risks](http://www.proxyway.com/www/internet-privacy.html) |   
+|  |   
+|  |   
+---  
+|  [](http://www.proxyway.com/www/internet-privacy.html)Every time you surf the web you are subject to different Internet risks including hackers, identity thieves, spammers and other people who want to get access to your computer and monitor your activities  
+|  |   
+|  |   
+|  [Proxy Way Tip of the Day](http://www.proxyway.com/www/anonymous%20proxy%20surfing.html) |   
+|  |   
+|  |   
+---  
+|  • I've checked a proxy list. Some of proxies support http/https protocol. But in the Service Manager they are only shown as http.
+
+HTTP(HTTPS) in the type column means that this proxy server supports HTTP and HTTPS, but the current supported protocol is HTTP. So you need to change this proxy server type from HTTP to HTTPS by clicking the "Modify" button in the proxy list. If you need to use this proxy server with all supported types (HTTP, HTTPS), you need to add this server to the proxy list twice with different server types.   
   
-  
-|   
-[](http://www.proxyway.com/www/surf-anonymous-why.html#surf-anonymous-why) |   
-|   |  | Learn more about Internet threats and easy way you can avoid them using ProxyWay | [](http://www.proxyway.com/www/surf-anonymous-why.html#surf-anonymous-why)  
----|---  
-  
-  
-|   
-[](http://www.proxyway.com/www/internet-privacy.html#web-security) |   
-|   |  | Every time you surf the web you are subject to different Internet risks including hackers, identity thieves, | [](http://www.proxyway.com/www/internet-privacy.html#web-security)  
----|---  
-spammers and other people who want to get access to your computer  
-|   
-[](http://www.proxyway.com/www/anonymous%20proxy%20surfing.html#anonymous%20proxy%20surfing) |   
-|   |  | Need help using, downloading or purchasing ProxyWay? Check out [FAQ](http://www.proxyway.com/www/anonymous%20proxy%20surfing.html#anonymous%20proxy%20surfing)  
-ProxyWay [On-line Help](http://www.proxyway.com/www/anonymous-web-browsing/anonymous-web-browsing.html#anonymous-web-browsing) | [](http://www.proxyway.com/www/anonymous%20proxy%20surfing.html#anonymous%20proxy%20surfing)  
----|---  
-  
-  
-|   
-|  |  |   
----|---|---  
-  | 
+|  | 
