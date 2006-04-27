@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the motosport.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219123935id_/http%3A//www.motosport.com/about/policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motosport.com privacy policy that was archived on 2006-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060427024340id_/http%3A//www.motosport.com/about/policy.jsp) for the most accurate reproduction.*
 
-# MotoSport Outlet
+# MotoSport
 
   
-This is the web site of **MotoSport Outlet**.
+This is the web site of **MotoSport**.
 
 Our postal address is  
 **115 W. 8th  
