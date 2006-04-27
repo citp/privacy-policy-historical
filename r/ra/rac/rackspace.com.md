@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rackspace.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213214107id_/http%3A//www.rackspace.com/aboutus/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rackspace.com privacy policy that was archived on 2006-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060427081603id_/http%3A//www.rackspace.com/aboutus/legal/privacystatement.php) for the most accurate reproduction.*
 
 # Privacy Statement
 
