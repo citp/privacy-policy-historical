@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the standardchartered.com.my privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224161211id_/http%3A//www.standardchartered.com.my/home/datapp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standardchartered.com.my privacy policy that was archived on 2006-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060427213138id_/http%3A//www.standardchartered.com.my/home/datapp.html) for the most accurate reproduction.*
 
 # Standard Chartered Bank - Disclaimer
 
@@ -37,11 +37,11 @@ You may have the right on payment of a fee to request access to and correction o
 
 Standard Chartered Bank Malaysia Berhad  
 Legal & Compliance Division  
-10th Floor, No. 2 Jalan Ampang  
-P.O. Box 11001  
-50450 Kuala Lumpur  
+Level 16, Menara Standard Chartered  
+No. 30, Jalan Sultan Ismail,  
+50320 Kuala Lumpur  
 Malaysia.
 
-**COPYRIGHT © STANDARD CHARTERED PLC 2002. ALL RIGHTS RESERVED.**
+**COPYRIGHT © STANDARD CHARTERED PLC 2006. ALL RIGHTS RESERVED.**
 
 > 
