@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jeevansathi.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217110807id_/http%3A//www.jeevansathi.com/P/privacy_policy.php%3Fchecksum%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeevansathi.com privacy policy that was archived on 2006-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060428185549id_/http%3A//www.jeevansathi.com/P/privacy_policy.php%3Fchecksum%3D) for the most accurate reproduction.*
 
 # JeevanSathi Matrimonials - Privacy Policy
 
-Jeevansathi.com is a division of Info Edge (I) Pvt.Ltd. It is an online matrimonial portal endeavoring constantly to provide you with premium matrimonial services. Since we are strongly committed to your right to privacy, we have drawn have a privacy statement in place with regard to the information we collect from you. 
+Jeevansathi.com is a division of Info Edge (I) Ltd. It is an online matrimonial portal endeavoring constantly to provide you with premium matrimonial services. Since we are strongly committed to your right to privacy, we have drawn have a privacy statement in place with regard to the information we collect from you. 
 
 We use a secure server for credit card transactions to protect the credit card information of our clients and Cookies are used to store the login information.   
   
