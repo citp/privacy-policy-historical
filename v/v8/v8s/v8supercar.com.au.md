@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the v8supercar.com.au privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231112511id_/http%3A//www.v8supercar.com.au/content/help/privacy/default.asp%3Find%3DM) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the v8supercar.com.au privacy policy that was archived on 2006-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060428035608id_/http%3A//www.v8supercar.com.au/content/help/privacy/default.asp%3Find%3DM) for the most accurate reproduction.*
 
 # Terms of Use - The Official Website of V8 Supercars Australia
 
-## AUSTRALIAN VEE EIGHT SUPERCAR COMPANY PTY LTD (AVESCO)
+## V8 Supercars Australia
 
 ### Privacy Statement 
 
 **Our approach to privacy  
-** The Australian Vee Eight Supercar Company Pty Ltd ( ** _AVESCO_** ) respects the privacy of your personal information. We are bound by the National Privacy Principles ( _ **NPPs**_ ) as set out in the _Privacy Act 1988_ (Cth) ( ** _the Privacy Act_** ).   
+** V8 Supercars Australia respects the privacy of your personal information. We are bound by the National Privacy Principles ( _ **NPPs**_ ) as set out in the _Privacy Act 1988_ (Cth) ( ** _the Privacy Act_** ).   
 This Privacy Statement explains our policy for dealing with personal information that we collect.
 
  **Exemptions  
@@ -18,7 +18,7 @@ We collect personal information when we provide our goods and services to you. G
 
 We collect personal information in a number of ways, including: 
 
-directly from you, such as when you enter your personal details on our website (eg when purchasing goods or services online or creating a membership account), when you provide information web page form submission such as an Live Timing Subscriptions; and
+directly from you, such as when you enter your personal details on our website (eg when creating a membership account), when you provide information web page form submission such as an Live Timing Subscriptions; and
 
 
 We usually collect personal information such as your name, address, email address, telephone number and financial details. As a general rule we do not collect sensitive information. However, if we do, it will usually be for the purposes of providing our goods and services and, where the law requires us to do so, we will seek your consent to collect it.
@@ -30,30 +30,37 @@ We may also use your contact information to notify you of important changes to o
 
 We may also disclose your information to our related companies, **Touring Car Entrants Group Australia Pty Ltd**
 
-You are not required to provide us with any personal information when visiting our website. However, sometimes we need to collect your information from our website to provide services that you request. For example, when you purchase a Playstation®2 Live Timing Subscription.
+You are not required to provide us with any personal information when visiting our website. However, sometimes we need to collect your information from our website to provide services that you request. For example, when you purchase a the Live Timing Subscription.
 
 We may disclose your information to our corporate sponsors and our service providers and contractors from time to time to help us to provide and market our services to you. If we do this we generally require these parties to protect your information in the same way we do.
 
 We may disclose your information to market research organisations. The information we disclose to market research organisations relates to sales, trading patterns and online navigation techniques and is provided in aggregated form. That is, the information provided does not identify you as an individual.
 
- **Security  
-** We use a variety of physical and electronic security measures including restricting physical access to our server, firewalls, the use of encryption technology during online transactions and secure databases to keep personal information secure from misuse, loss or unauthorised use or disclosure.
+ **Security**
+
+We use a variety of physical and electronic security measures including restricting physical access to our server, firewalls, the use of encryption technology during online transactions and secure databases to keep personal information secure from misuse, loss or unauthorised use or disclosure.
 
 The Internet is not a secure environment. If you send us information, including your email address, it is sent at your own risk. While we strive to protect your personal information from misuse, loss and unauthorised access, we cannot guarantee the security of any information you transmit to us or receive from our online products or services. These activities are conducted at your own risk. Once we receive your transmission, we make our best effort to ensure its security.
 
  **Cookies:-**
 
-AVESCO and BigPond a may use 'cookies' on the V8 Supercar website. Cookies are an industry standard and most major web sites use them. A cookie is a small text file that our web sites may place on your computer. Usually, cookies are used as a means for the V8 Supercar website to remember your preferences. As such, cookies are designed to improve your experience of the V8 Supercar web sites.
+V8 Supercars Australia and BigPond a may use 'cookies' on the V8 Supercar website. Cookies are an industry standard and most major web sites use them. A cookie is a small text file that our web sites may place on your computer. Usually, cookies are used as a means for the V8 Supercar website to remember your preferences. As such, cookies are designed to improve your experience of the V8 Supercar web sites.
 
-AVESCO and BigPond use [Neilsen//NetRatings](http://www.netratings.com/privacy.jsp?section=leg_scs) and [Omniture](http://www.omniture.com/global/privacy) to collate usage statistics on our website. This analysis is performed using data collected from the v8supercar.com.au website, that may include click through gateways that redirect some web page requests via Neilson//NetRatings' secure-au.imrworldwide.com domain. This analysis is used to improve the web experience of our users. No personally identifiable information is collected by Neilson//NetRatings or Omniture from the V8 Supercar web site.
+V8 Supercars Australia and BigPond use [Neilsen//NetRatings](http://www.netratings.com/privacy.jsp?section=leg_scs) and [Omniture](http://www.omniture.com/global/privacy) to collate usage statistics on our website. This analysis is performed using data collected from the v8supercar.com.au website, that may include click through gateways that redirect some web page requests via Neilson//NetRatings' secure-au.imrworldwide.com domain. This analysis is used to improve the web experience of our users. No personally identifiable information is collected by Neilson//NetRatings or Omniture from the V8 Supercar web site.
 
 If you would like to opt-out of Neilson//NetRatings and [Omniture](http://www.omniture.com/global/privacy) anonymous user profiling, you can do so at the [following pages at Neilsen//NetRatings](http://www.netratings.com/privacy.jsp?section=leg_scs) and [Omniture.](http://www.omniture.com/global/privacy)
 
-Our Technology Partner BigPond may use one of the following organisations [Sensis MediaSmart® Sales](http://www.about.sensis.com.au/products/mediasmart.php) and the [White Agency's](http://www.thewhiteagency.com.au/white.html) partner, DoubleClick to provide advertisement management and delivery across the [V8 Supercar website](http://www.v8supercar.com.au/). DoubleClick and Sensis use cookies for anonymous profiling purposes to tailor advertising to user's preferences. 
+Our Technology Partner BigPond may use one of the following organisations [Sensis MediaSmart® Sales](http://www.about.sensis.com.au/products/mediasmart.php) and the [White Agency's](http://www.thewhiteagency.com.au/white.html) partner, DoubleClick to provide advertisement management and delivery across the V8 Supercar website. DoubleClick and Sensis use cookies for anonymous profiling purposes to tailor advertising to user's preferences. 
 
-If you would like to opt-out of the DoubleClick anonymous profiling, [you can click here](http://www.doubleclick.com/us/about_doubleclick/privacy/).
+If you would like to opt-out of the DoubleClick anonymous profiling, [you can do so here](http://www.doubleclick.com/us/about_doubleclick/privacy/).
 
-If you would like to opt-out of the Sensis MediaSmart anonymous profiling, [you can click here](http://ad.sensismediasmart.com.au/images/sensis/cookie/optout.html).
+If you would like to opt-out of the Sensis MediaSmart anonymous profiling, [then do so here](http://ad.sensismediasmart.com.au/images/sensis/cookie/optout.html).
+
+Finally BigPond uses 24/7 Real Media to provide search engine and web site conversion reporting across the BigPond Channel websites. 24/7 Real Media uses cookies for anonymous profiling purposes. No personally identifiable information is collected by 24/7 Real Media from the V8 Supercar web sites. If you would like to opt-out of the 24/7 Real Media anonymous profiling, you can do [so at the following page.](http://www.247realmedia.com/opt-out.html)
+
+ **Important when deleting cookies**
+
+If you delete cookies from your computer’s web browser, you may remove your opt-out preference that you have set for the company’s listed above. The opt-out cookies set may also expire and may need to be refreshed by using the information set out on this page.
 
  **Access to information  
 ** You have a right to access most personal information we hold about you and if we deny access in some circumstances we will tell you why.
@@ -65,10 +72,11 @@ Please contact our Privacy Compliance Officer to ask for access to your informat
 
  **Amanda Bressow  
 Privacy Compliance Officer  
-AVESCO  
-Level 1, 64 Marine Parade  
+V8 Supercars Australia**
+
+ **Level 1, 64 Marine Parade  
 Southport Qld 4215  
 Gold Coast Australia**
 
  **Telephone: 61 07 5526 3564 |** **Facsimile: 61 07 5526 3461  
-Email: [ab@avesco.com.au](mailto:ab@avesco.com.au)**
+Email: [ab@v8supercars.com.au](mailto:ab@avesco.com.au)**
