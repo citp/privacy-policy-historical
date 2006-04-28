@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telesign.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214234505id_/http%3A//www.telesign.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telesign.com privacy policy that was archived on 2006-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060428182635id_/http%3A//telesign.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # TeleSign - Privacy Policy
 
