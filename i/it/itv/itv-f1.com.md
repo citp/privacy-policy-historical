@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itv-f1.com privacy policy that was archived on 2005-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051127193012id_/http%3A//www.itv-f1.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itv-f1.com privacy policy that was archived on 2006-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060428184636id_/http%3A//www.itv-f1.com/Privacy.aspx) for the most accurate reproduction.*
 
 # itv.com/f1
 
