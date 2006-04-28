@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internet-optimizer.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218031855id_/http%3A//www.internet-optimizer.com/legal/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internet-optimizer.com privacy policy that was archived on 2006-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060428184458id_/http%3A//internet-optimizer.com/legal/privacypolicy.html) for the most accurate reproduction.*
 
 # None
 
