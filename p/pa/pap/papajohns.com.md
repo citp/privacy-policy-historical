@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the papajohns.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225093416id_/http%3A//papajohns.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papajohns.com privacy policy that was archived on 2006-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060428102900id_/http%3A//www.papajohns.com/policy.htm) for the most accurate reproduction.*
 
 # Papa John's Pizza Privacy Policy
 
 **Your privacy is important to us.**   
-Safeguarding your privacy and the security of your personal information is important to us. Please take a few minutes to read the following policy so that you understand how we treat your personal information. As we continuously improve and expand our services, this policy might change. So please check it out periodically. If you have questions about our policy, please click on our customer feedback page to contact us via our electronic feedback form or call us at 1-888-777-7272.
+Safeguarding your privacy and the security of your personal information is important to us. Please take a few minutes to read the following policy so that you understand how we treat your personal information. As we continuously improve and expand our services, this policy might change. So please check it out periodically. If you have questions about our policy, please click on our customer feedback page to contact us via our electronic feedback form.
 
 **How we collect information about you. We collect information in three ways:**  
 
