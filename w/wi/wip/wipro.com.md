@@ -1,18 +1,21 @@
-> *The following text is extracted and transformed from the wipro.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224042154id_/http%3A//www.wipro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wipro.com privacy policy that was archived on 2006-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060428173648id_/http%3A//wipro.com/privacy.htm) for the most accurate reproduction.*
 
-# Wipro Technologies :: Privacy Statement
+# Wipro Technologies – IT Services, Product Engineering Services, Technology Infrastructure Services, Business Process Outsourcing, Consulting Services
 
-Wipro takes your privacy very seriously
+| [Home](https://web.archive.org/web/20060428173648id_/http%3A//wipro.com/index.aspx) Privacy Policy   
+
+
+Wipro takes your privacy very seriously 
 
 In general, you can visit Wipro's websites without telling us who you are and without revealing any information about yourself. There are times, however, when we may need information from you. 
 
 Wipro does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
 
-  1. We provide the information to trusted partners who work on behalf of or with Wipro under extremely strict confidentiality agreements. These companies may use your personal information to help Wipro communicate with you about offers from Wipro and our marketing partners. However, these companies do not have any independent right to share this information.
+  1. We provide the information to trusted partners who work on behalf of or with Wipro under extremely strict confidentiality agreements. These companies may use your personal information to help Wipro communicate with you about offers from Wipro and our marketing partners. However, these companies do not have any independent right to share this information. 
   2. We have a parent's permission to share the information if the user is a child under age 13. 
   3. We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims; 
   4. We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or as otherwise required by law. 
-  5. We transfer information about you if Wipro is acquired by or merged with another company.
+  5. We transfer information about you if Wipro is acquired by or merged with another company. 
 
 
 
@@ -27,3 +30,10 @@ Wipro may, if you so choose, send direct mailers to you at the address given by 
 
 AntiSpam policy   
 Wipro recognizes the receipt, transmission or distribution of spam emails (unsolicited bulk emails) as a major concern and has taken reasonable measures, to minimize the transmission and effect of spam emails in its computing environment. All emails received by Wipro, are subject to spam check, in coordination with “SPAMHAUS” subscription service. Any email identified as spam will be rejected with sufficient information to the Sender for taking necessary action. With this measure, along with other technical spam reduction measures, Wipro hopes to minimize the effect of spam emails. Wipro reserves the right to reject and/or report any suspicious spam emails, to the authorities concerned, for necessary action, from time to time. 
+
+|  |    
+[Subscribe to 'Peer Ping' our monthly newsletter](https://web.archive.org/web/20060428173648id_/http%3A//wipro.com/webforms/newsletter_form.aspx)
+
+[Request for Information](https://web.archive.org/web/20060428173648id_/http%3A//wipro.com/webforms/request_for_info.aspx)
+
+[Contact Us](https://web.archive.org/web/20060428173648id_/http%3A//wipro.com/webforms/contact_us_form.aspx)
