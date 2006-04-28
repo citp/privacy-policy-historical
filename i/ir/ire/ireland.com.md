@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ireland.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213213339id_/http%3A//www.ireland.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ireland.com privacy policy that was archived on 2006-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060428211459id_/http%3A//www.ireland.com/about/privacy) for the most accurate reproduction.*
 
 # Customer Care: Privacy Policy
 
