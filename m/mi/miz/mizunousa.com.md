@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mizunousa.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228151819id_/http%3A//www.mizunousa.com/corporate.nsf/WebPages01/87B3F6E18F5EC27285256E6A0078AC8B%3FOpenDocument) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mizunousa.com privacy policy that was archived on 2006-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060428120356id_/http%3A//www.mizunousa.com/corporate.nsf/WebPages01/87B3F6E18F5EC27285256E6A0078AC8B%3FOpenDocument) for the most accurate reproduction.*
 
 # Privacy Policy
 
