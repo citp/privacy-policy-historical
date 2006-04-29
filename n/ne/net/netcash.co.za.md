@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netcash.co.za privacy policy that was archived on 2005-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051025150744id_/http%3A//www.netcash.co.za/nprivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netcash.co.za privacy policy that was archived on 2006-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060430012801id_/http%3A//www.netcash.co.za/nprivacy.asp) for the most accurate reproduction.*
 
 # Netcash Debit Order Service - Privacy Statement
 
