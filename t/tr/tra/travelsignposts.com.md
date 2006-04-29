@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelsignposts.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212160041id_/http%3A//www.travelsignposts.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelsignposts.com privacy policy that was archived on 2006-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060429100332id_/http%3A//www.travelsignposts.com/privacy.php) for the most accurate reproduction.*
 
 # Travel Signposts
 
@@ -19,25 +19,25 @@ Travel Signposts Forums Latest
   
 ---  
   
-| [**On the...**](http://www.travelsignposts.com/forums/index.php?showtopic=30) in [On The Road Advice](http://www.travelsignposts.com/forums/index.php?) (Started by [**moroccooverlandtours.com**](http://www.travelsignposts.com/forums/index.php?showuser=29) at **Dec 11 2005, 10:50 PM** )  
+| [**Welcome to the Travel Signposts Forums!**](http://www.travelsignposts.com/forums/index.php?showtopic=3) in [European Coach Tour Experiences](http://www.travelsignposts.com/forums/index.php?) (Started by [**travel**](http://www.travelsignposts.com/forums/index.php?showuser=1) at **Nov 6 2003, 12:56 AM** )  
 ---  
-Replies: **0** :: Views: **2** :: Last comment by **[moroccooverlandtours.com](http://www.travelsignposts.com/forums/index.php?showuser=29)** at **Dec 11 2005, 10:50 PM**  
-  
-[**lets stay.....**](http://www.travelsignposts.com/forums/index.php?showtopic=29) in [Let's Stay In Touch](http://www.travelsignposts.com/forums/index.php?) (Started by [**moroccooverlandtours.com**](http://www.travelsignposts.com/forums/index.php?showuser=29) at **Dec 11 2005, 10:49 PM** )  
----  
-Replies: **0** :: Views: **2** :: Last comment by **[moroccooverlandtours.com](http://www.travelsignposts.com/forums/index.php?showuser=29)** at **Dec 11 2005, 10:49 PM**  
-  
-[**All Venice hotels**](http://www.travelsignposts.com/forums/index.php?showtopic=28) in [European Coach Tour Experiences](http://www.travelsignposts.com/forums/index.php?) (Started by [**Izaura**](http://www.travelsignposts.com/forums/index.php?showuser=0) at **Dec 7 2005, 06:42 AM** )  
----  
-Replies: **0** :: Views: **9** :: Last comment by **[Izaura](http://www.travelsignposts.com/forums/index.php?showuser=0)** at **Dec 7 2005, 06:42 AM**  
+Replies: **2** :: Views: **1384** :: Last comment by **[travel](http://www.travelsignposts.com/forums/index.php?showuser=1)** at **Dec 20 2005, 02:46 AM**  
   
 [**Where to stay in Milan?**](http://www.travelsignposts.com/forums/index.php?showtopic=27) in [Pre-Trip Advice](http://www.travelsignposts.com/forums/index.php?) (Started by [**Traveler**](http://www.travelsignposts.com/forums/index.php?showuser=28) at **Dec 6 2005, 07:34 AM** )  
 ---  
-Replies: **0** :: Views: **6** :: Last comment by **[Traveler](http://www.travelsignposts.com/forums/index.php?showuser=28)** at **Dec 6 2005, 07:34 AM**  
+Replies: **1** :: Views: **169** :: Last comment by **[moroccooverlandtours.com](http://www.travelsignposts.com/forums/index.php?showuser=29)** at **Dec 15 2005, 04:17 AM**  
   
 [**Planning a trip to Vienna? Looking for a hotel?**](http://www.travelsignposts.com/forums/index.php?showtopic=26) in [Pre-Trip Advice](http://www.travelsignposts.com/forums/index.php?) (Started by [**Snoopy**](http://www.travelsignposts.com/forums/index.php?showuser=27) at **Nov 23 2005, 07:49 AM** )  
 ---  
-Replies: **0** :: Views: **19** :: Last comment by **[Snoopy](http://www.travelsignposts.com/forums/index.php?showuser=27)** at **Nov 23 2005, 07:49 AM**  
+Replies: **1** :: Views: **200** :: Last comment by **[moroccooverlandtours.com](http://www.travelsignposts.com/forums/index.php?showuser=29)** at **Dec 15 2005, 04:19 AM**  
+  
+[**African Adventure**](http://www.travelsignposts.com/forums/index.php?showtopic=12) in [Which Tour For Me?](http://www.travelsignposts.com/forums/index.php?) (Started by [**lisa1212uk**](http://www.travelsignposts.com/forums/index.php?showuser=16) at **May 24 2005, 06:00 AM** )  
+---  
+Replies: **1** :: Views: **410** :: Last comment by **[moroccooverlandtours.com](http://www.travelsignposts.com/forums/index.php?showuser=29)** at **Dec 15 2005, 04:09 AM**  
+  
+[**Apartments Ukraine, Odessa**](http://www.travelsignposts.com/forums/index.php?showtopic=39) in [Other European Touring Experiences](http://www.travelsignposts.com/forums/index.php?) (Started by [**ukraineodessa**](http://www.travelsignposts.com/forums/index.php?showuser=32) at **Feb 21 2006, 04:52 AM** )  
+---  
+Replies: **0** :: Views: **105** :: Last comment by **[ukraineodessa](http://www.travelsignposts.com/forums/index.php?showuser=32)** at **Feb 21 2006, 04:52 AM**  
   
   
   
