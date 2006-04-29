@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agriculture.gov.ie privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228045155id_/http%3A//www.agriculture.gov.ie/index.jsp%3Ffile%3Dprivacy_statement.xml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agriculture.gov.ie privacy policy that was archived on 2006-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060429074858id_/http%3A//www.agriculture.gov.ie/index.jsp%3Ffile%3Dprivacy_statement.xml) for the most accurate reproduction.*
 
 # Dept of Agriculture & Food-
 
