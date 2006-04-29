@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alfy.com privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227201536id_/http%3A//www.alfy.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alfy.com privacy policy that was archived on 2006-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060430003543id_/http%3A//www.alfy.com/about/privacy.asp) for the most accurate reproduction.*
 
 # ALFY - The Web Portal for Kids - About ALFY - Privacy Policy
 
