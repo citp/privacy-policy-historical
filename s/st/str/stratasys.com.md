@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stratasys.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204102243id_/http%3A//www.stratasys.com/site/about_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stratasys.com privacy policy that was archived on 2006-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060430004619id_/http%3A//www.stratasys.com/about_privacy.html) for the most accurate reproduction.*
 
-# Stratasys in-office rapid prototyping systems
+# Stratasys, Inc - Rapid Prototyping, CAD Plastic Prototyping, Digital Prototypes, CAD Plastic Prototype Engineering
 
 Privacy Statement 
 
