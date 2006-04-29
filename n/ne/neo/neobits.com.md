@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the neobits.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605051737id_/http%3A//www.neobits.com/scripts/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neobits.com privacy policy that was archived on 2006-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060429020158id_/http%3A//neobits.com/do/privacy%3Bjsessionid%3DE9CBF1EF284999D4B3140C2E8FCC0912) for the most accurate reproduction.*
 
-# Neobits: Custom Computers
+# Neobits: Privacy Policy
 
 Neobits.com Privacy Policy Our Internet store allows you to buy products and services, receive special discounts, apply for credit, fill out surveys, and receive newsletters, e-mails or other promotional information from us. We use the information that we collect about you to fulfill your product and service purchases and to create a more personalized online experience. 
 
@@ -29,8 +29,8 @@ We do not sell, trade, or rent your Personally Identifiable Information to other
 **Contacting us:** If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact neobits.com by sending a letter to:   
 Neobits, Inc.  
 Attn: Privacy  
-201 San Antonio Circle, Suite 235  
-Mountain View, CA 94040  
+505 W. Olive Ave., STE 315  
+Sunnyvale, CA 94086  
 USA
 
 You may also contact us by e-mail at privacy@neobits.com. 
