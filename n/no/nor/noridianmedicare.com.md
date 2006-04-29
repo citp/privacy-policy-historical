@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noridianmedicare.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229125201id_/http%3A//www.noridianmedicare.com/provider/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noridianmedicare.com privacy policy that was archived on 2006-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060429225652id_/http%3A//www.noridianmedicare.com/provider/privacy.html) for the most accurate reproduction.*
 
 # Noridian Medicare: Provider: Contact Us: Email
 
