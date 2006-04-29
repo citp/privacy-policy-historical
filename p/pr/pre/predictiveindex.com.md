@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the predictiveindex.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204070052id_/http%3A//www.piworldwide.com/Legal.asp%3Fviewtype%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the predictiveindex.com privacy policy that was archived on 2006-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060429165403id_/http%3A//www.piworldwide.com/Legal.asp%3Fviewtype%3Dprivacy) for the most accurate reproduction.*
 
 # PI Worldwide
 
