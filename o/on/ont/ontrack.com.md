@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the ontrack.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212112408id_/http%3A//www.ontrack.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ontrack.com privacy policy that was archived on 2006-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060429235722id_/http%3A//ontrack.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-|    
----|---  
 Ontrack Data Recovery is committed to maintaining the privacy of the information you share with us. We will not sell, distribute, or rent information about you and your purchases at Ontrack.com. We will only use the information you share with us for the purposes of enhancing your use of our web site, or, with your permission, sending you information about our products and services.
 
 Please take a moment to read our Privacy Policy for a better understanding of the measures we take to protect you and the information you share with us. If you don't find your concern addressed here, please feel free to contact us by [email](mailto:privacy@ontrack.com) or by telephone at 800-872-2599. 
