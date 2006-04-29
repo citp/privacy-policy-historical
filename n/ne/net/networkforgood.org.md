@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the networkforgood.org privacy policy that was archived on 2005-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051203011225id_/http%3A//support.networkforgood.org/%3Fa%3D4%26q%3D152) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the networkforgood.org privacy policy that was archived on 2006-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060429204903id_/http%3A//support.networkforgood.org/%3Fa%3D4%26q%3D152) for the most accurate reproduction.*
 
 # Network for Good :: Help
 
@@ -28,4 +28,4 @@ Each charity has its own policies regarding privacy of donor information. Please
 
 []()
 
-[Print This FAQ](https://web.archive.org/web/20051203011225id_/http%3A//support.networkforgood.org/printable.asp?q=152)
+[Print This FAQ](https://web.archive.org/web/20060429204903id_/http%3A//support.networkforgood.org/printable.asp?q=152)
