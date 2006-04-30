@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the primus.ca privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211205637id_/http%3A//www.primus.ca/en/legal/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primus.ca privacy policy that was archived on 2006-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060430062832id_/http%3A//primus.ca/en/legal/privacypolicy.htm) for the most accurate reproduction.*
 
 # Primus Telecommunicatins Canada
 
