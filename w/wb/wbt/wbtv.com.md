@@ -1,87 +1,33 @@
-> *The following text is extracted and transformed from the wbtv.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211050422id_/http%3A//wbtv.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbtv.com privacy policy that was archived on 2006-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060430071404id_/http%3A//wbtv.com/privacy.cfm) for the most accurate reproduction.*
 
 # WBTV
 
-  
-[](http://www.wbtv.com/holidayTraditions/)
+This document describes WBTV's policy regarding information received about you during visits to our web site. The amount and type of information received depends on how you use our site. 
 
-[](http://adserver.jpc.com/wbtv/adclick.php?n=a4217919)
+**Normal Web Site Usage**
 
-[](http://www.wbtv.com/news/special_events_detail.cfm?ns_id=1215)
+You can visit WBTV's web site to read information or use our online tools without telling us who you are and without revealing any personal information. The only information we collect and store during normal web site usage is the name of your Internet service provider, the web site that referred you to us, the pages you request and the date and time of those requests. We use this information to generate statistics and measure site activity to improve the usefulness of customer visits. During normal web site usage we do not collect or store personally identifiable information such as name, mailing address, email address, phone number or social security number. 
 
-[](http://www.wbtv.com/news/special_events_detail.cfm?ns_id=13)
+**Collection of Personally Identifiable Information**
 
-[](http://salvationarmycharlotte.org/news.html)
+There are instances where WBTV requests personally identifiable information to provide our web site visitor a service or correspondence (promotions and mailed brochures). This information, such as name, mailing address, email address, type of request and possibly additional information, is collected and stored in a manner appropriate to the nature of the data by WBTV and is used to fulfill your request. If you tell us that the information should not be used as a basis for further contact, we will respect your request. The information you provide is used by WBTV to improve the services we provide you. It is never provided to any other company for that company's independent use. 
 
-|  |  | **Charlotte, NC** | **December 11, 2005**  
----|---  
-  
-**What this Privacy Policy Covers**
+**Additional Privacy Protections for Children Using the Internet**
 
-  * This policy covers Jefferson-Pilot Communications Company's (JPCC) treatment of personally identifiable information that JPCC collects when you are on the JPCC site, and when you use JPCC's services. 
-  * This policy also covers JPCC's treatment of any personally identifiable information that JPCC's business partners share with JPCC. 
-  * This policy does not apply to the practices of companies that JPCC does not own or control, or to people that JPCC does not employ or manage. In addition, this policy does not apply to, which has its own privacy policy. 
+WBTV joins the industry in recognizing that children, including young teens, may not be able to make informed choices about personal information requested online. Accordingly, WBTV does not knowingly target children or teenagers (younger than eighteen years of age) for collection of information online. WBTV does not solicit or collect customer identifiable information targeted at children and teenagers under eighteen and does not allow anyone else to do so on our web site. WBTV encourages parents to take an active role in protecting the privacy and security of their children and to prevent the inappropriate use of information about their children. WBTV also supports the development of technologies that help parents to control the collection and use of personal information from children who use online services in their households.
 
+**Electronic Mail Sent to us that Contains Personal Information**
 
+Internet users may decide to send WBTV personally identifying information, for example, in a message containing information about yourself. WBTV will only use this information to identify the user as a WBTV customer and to determine how to respond to the electronic mail. We will not use this information other than to resolve the matter identified in the email.
 
-**Privacy of Children**
+If you have provided us with your e-mail address so that we may include you in our newsletter or other mailing lists, we will place your email on those lists. We will provide a quick and effective method of removing yourself from the list quickly. 
 
-  * This site is not directed to, or intended for use by, children (defined as anyone age thirteen or younger). 
-  * JPCC encourages parents and guardians to be aware of and participate in their children's online activities. 
-  * We strictly adhere to the Children's Online Privacy Protection Act and will not knowingly register or otherwise collect personally identifiable information from any child under the age of 13 without the prior verifiable consent of that person's parent or guardian. 
+**Cookies and Your Privacy**
 
+A web site may use cookies to simulate a continuous connection to that site. This makes it more convenient for users to visit pages within a site without having to reintroduce themselves with each mouse click. Cookies contain only information that users volunteer, and do not have the capability of infiltrating a user's hard drive or taking away personal information. The simple function of a cookie is that of helping the user navigate a web site with as little obstruction as possible. Most current browser versions offer users the following options relating to cookies: accept all cookies, accept only cookies that get sent back to the originating server, disable cookies. Another option is for your browser to warn you before accepting a cookie. Every time there is an incoming cookie, a dialog box will ask if you want to accept it. Please consult the user manual or the online Help manual of your browser for instructions on how to customize your browser with your cookie preferences.
 
+WBTV uses cookies on only a few pages where you are asked to login or register and we only use it to remember your login/registration. We reserve the right to expand our use of this technology at any time and to modify our Privacy Policy as related.
 
-**Information Collection and Use**
+**Changes**
 
-  * JPCC collects personally identifiable information when you register for an JPCC account, when you use certain JPCC products or services, when you visit JPCC pages, and when you enter promotions or sweepstakes. JPCC may also receive personally identifiable information from our business partners. 
-  * When you register with JPCC, we ask for your name, email address, birth date, gender, zip code, occupation, industry, and personal interests. Once you register with JPCC and sign in to our services, you are not anonymous to us. 
-  * JPCC also automatically receives and records information on our server logs from your browser including your IP address, JPCC information and the page you requested. 
-  * JPCC uses information for three general purposes: to customize the advertising and content you see, to fulfill your requests for certain products and services, and to contact you about specials and new products. 
-
-
-
-**Information Sharing and Disclosure**
-
-  * JPCC will not sell or rent your personally identifiable information to anyone. 
-  * JPCC will send personally identifiable information about you to other companies or people when: 
-    * We have your consent to share the information 
-    * We need to share your information to provide the product or service you have requested 
-    * We need to send the information to companies who work on behalf of JPCC to provide a product or service to you. Unless we tell you differently, these companies do not have any right to use the personally identifiable information we provide to them beyond what is necessary to assist us. 
-    * We respond to subpoenas, court orders or legal process 
-    * We find that your actions on our web sites violate the JPCC Terms of Service, or any of our usage guidelines for specific products or services. 
-
-
-
-**Cookies**
-
-  * JPCC may set and access JPCC cookies on your computer. 
-  * JPCC allows other companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to JPCC's cookies. 
-  * JPCC uses web beacons to access our cookies within our network of web sites and in connection with JPCC products and services. 
-
-
-
-**Your Ability to Edit and Delete Your Account Information and Preferences**
-
-  * JPCC gives you the ability to edit your JPCC Account Information and preferences at any time, including whether you want JPCC to contact you about specials and new products. 
-
-
-
-**Security**
-
-  * Your JPCC Account Information is password-protected for your privacy and security. 
-  * In certain areas JPCC uses industry-standard SSL-encryption to protect data transmissions. 
-
-
-
-**Changes to this Privacy Policy**
-
-  * JPCC may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages. 
-
-
-
-|    
-[](http://www.carolina.rr.com/info/bannerads/adwbtv_rr.asp)   
-[](http://adserver.jpc.com/wbtv/adclick.php?n=a10b7409)   
-[](http://adserver.jpc.com/wbtv/adclick.php?n=ad1ed186)   
-[](http://adserver.jpc.com/wbtv/adclick.php?n=a5ffed90)
+We reserve the right to change our Privacy Policy. A revised Privacy Policy will only apply to data collected subsequent to its effective date. We reserve the right to modify or discontinue our web site and this Policy at any time. 
