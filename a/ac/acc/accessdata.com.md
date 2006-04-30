@@ -1,32 +1,40 @@
-> *The following text is extracted and transformed from the accessdata.com privacy policy that was archived on 2000-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000815082157id_/http%3A//accessdata.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accessdata.com privacy policy that was archived on 2006-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060430101712id_/http%3A//www.accessdata.com/home/privacy_policy) for the most accurate reproduction.*
 
-# ACCESSDATA - PASSWORD RECOVERY
+# AccessData Privacy Policy
 
-| 
+  |  |    
+---|---|---  
+  
+> We are very sensitive to the privacy of Internet users who visit this site. Therefore, we endeavor to provide users all information regarding our identity, how we use personal information that is collected, how to contact us, and how they can access and update their personal information. We also inform users of all potential recipients of the personal information. We do not use any personal information for purposes beyond those stated herein. Users can contact us by linking to Company page and emailing or calling us with a detailed message stating any questions or concerns. 
+> 
+> **Personal Information:**
 
-**ACCESSDATA PRIVACY STATEMENT**
+> **Collection and Use of Personal Data.**  
+>  AccessData collects information from users only on a voluntary basis in the following categories and never discloses the information except as provided herein: name, mailing address, telephone number, and e-mail address. Information is provided voluntarily by users and is used by the company only to the extent necessary to deliver items ordered from the company, deliver updates and or product announcements, submit information regarding news or events, or to provide feedback regarding the site. The information collected is used strictly to facilitate users' requests or to respond to a query. We regard this information as confidential and do not use it for any other purpose, sell it to other parties, or disclose it to any third party (except to third-party delivery services to effectuate delivery of the goods as requested by the user). Users can correct their personal information by clicking on the Update My Profile icon for company orders. If any problems are encountered in removing or modifying personal information or if any other request to update personal information has been submitted, users can contact us at the Company page and request assistance. 
 
-**Our Privacy Policy Outlined**  
-AccessData respects your right to privacy and understands that visitors to AccessData.com want to be in control of their personal information. AccessData presents information on AccessData.com that is tailored to the needs of our visitors. For this reason, we may ask you to register or to provide personal information when you visit certain areas of AccessData.com, including our download free software section, any contest or events section, or to subscribe to our newsletter. 
+> **Third-Party Data**  
+>  Users may also submit personal information of third parties, including their names, addresses, e-mail addresses, and telephone numbers. This information is used to allow company sales representatives to make contact with the named individual to determine interest in hearing about our products and services. Users can also provide the same information regarding third parties to order items. The information collected is used strictly to facilitate the users' requests for delivery of the item to the third party or to simplify the process of future orders or subscription renewals to the same third party, and for no other purpose. 
 
-We will use the personal information you share with us to ensure the content, services, and advertising that we provide on AccessData.com are tailored to your current and future needs. If you provide AccessData.com with your mailing address or telephone number, AccessData and its partners may use this information to alert you to product upgrades, special offers, updated information, and new services. If you provide your e-mail address, AccessData may contact you via e-mail as well. If you do not want AccessData, our partners, or selected third parties to contact you, you may opt out when you provide personal information or contact AccessData directly at [webmaster@accessdata.com](mailto:webmaster@accessdata.com)
+> **Cookies and Clear Gifs**  
+>  In our effort to improve users' site experience, the site uses cookies and clear gifs to provide pages and features that are most compatible with users' preferences. A cookie is a small text file that is stored on a browser when a user visits a Web site. A clear gif is a graphic file, rather than a text file, that is similar in function to a cookie. Cookies and clear gifs do not identify the user personally; they simply identify the browser and track the settings, preferences, or features. When a user returns to the site, the user's browser sends the cookie or clear gif to the company's web server and/or the third party's server. 
 
-If you choose not to register or provide personal information, you can still visit most of AccessData.com. However, you will not have access to areas that require personal identification. 
+> **Internet Protocol ("IP") Addresses.**  
+>  When users request pages from AccessData.com, our servers may log their IP address in order to improve site administration. This information, along with the other information listed above, can also be used to produce usage statistics to help the company better meet the needs of users and determine specific interests. 
 
-**AccessData Protects Your Personal Information**  
-AccessData will protect the personal information that you share with us. If you make a purchase on-line, we will use your credit card number only to process your payment and will not use it for marketing purposes. If we request demographic information, we will not share information about you as an individual with any other entity. If we do share demographic information with third parties, we will give them aggregate information only. 
+> **Protecting Information**  
+>  The company is equipped with security measures to protect against the loss, misuse, and unauthorized alteration of the information under our control. We cannot guarantee that the information will not be lost or misused, but we make every effort to ensure that it is secured to avoid such problems. 
 
-AccessData may carefully select third parties to send you information, by postal mail, about their products or services. If you do not want to receive information, you may decline to receive it (or "opt out") when you provide personal information to AccessData, or you may contact us directly. 
+> **Foreign Transfer of Data**  
+>  This site is designed for use by U.S. residents. If you are not a U.S. resident, you can use this site, but you are responsible for making sure that your actions comply with the laws in your area. When you submit information through this Web site, we understand that your action is an affirmative act, indicating informed consent to the processing as well as informed consent to allow the transborder transfer of the data to the U.S. for the purposes outlined above. 
 
-AccessData may occasionally present a special contest or promotion. To qualify for entry, we may ask you to provide personal information. If we plan to share that information with any sponsor(s), we will provide a statement to that effect. 
+> **Third-Party Links**  
+>  AccessData is not responsible for the privacy practices or content of any third-party sites. For your own protection, you should review the policies of similar sites to ensure they meet your personal expectations of privacy. 
 
-**How to Update Your Personal Information**  
-You can help AccessData maintain the accuracy of your personal information by notifying us when you change your address, title, phone number, or e-mail address. If at any time you wish to update your information or stop receiving communication from AccessData, our partners, or selected third parties, contact AccessData by e-mail at webmaster@AccessData.com or by postal mail at: 
+> **Future Changes to Privacy Policy**  
+>  We reserve the right, at our discretion, to change, modify, add, or remove portions of the Privacy Policy at any time. As we do not typically use personal information except as provided for above, we are not in a position to notify each user of material changes in our Privacy Policy. We encourage you to check the Privacy Policy to remain informed of any changes. 
 
-AccessData Corporation  
-2500 N. University Suite 200  
-Provo, UT 84604-3864  
-Phone: (801) 377-5410  
-Fax: (801) 377-5426
-
-Please include your old and new contact information so that we can make the appropriate corrections. 
+> **Effective Date**  
+>  This version of the Privacy Policy became effective on the 25th day of February 2006.   
+  
+|   
+---|---
