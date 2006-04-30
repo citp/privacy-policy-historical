@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suddenlaunch3.com privacy policy that was archived on 2005-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051203021017id_/http%3A//www.suddenlaunch.com/Policies-Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suddenlaunch3.com privacy policy that was archived on 2006-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060430032016id_/http%3A//www.suddenlaunch.com/Policies-Privacy.html) for the most accurate reproduction.*
 
 # Sudden Launch - Privacy Policy
 
