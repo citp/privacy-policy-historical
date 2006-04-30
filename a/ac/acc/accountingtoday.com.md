@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the accountingtoday.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221074946id_/http%3A//www.webcpa.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accountingtoday.com privacy policy that was archived on 2006-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060430035213id_/http%3A//www.webcpa.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# WebCPA | Tools and Resources for the Electronic Accountant
+# WebCPA | Tools and Resources for the Electronic Accountant - An Investcorp and SourceMedia Publication
 
 This Privacy Policy covers WebCPA's treatment of personally identifiable information we collect when you are on the WebCPA (AMG) site and when you use our services. This policy also covers our treatment of any personally identifiable information our business partners share with us. This policy does not apply to the practices of companies AMG does not own or control, or to individuals AMG does not employ or manage, including operators of sites to which you may link from the AMG Web site. 
 
