@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partnersfcu.org privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231101708id_/http%3A//www.partnersfcu.org/documents/privacypolicyreg.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partnersfcu.org privacy policy that was archived on 2006-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060430025557id_/http%3A//www.partnersfcu.org/documents/privacypolicyreg.asp) for the most accurate reproduction.*
 
 # Partners Federal Credit Union www.partnersfcu.org Privacy Policy Page
 
@@ -40,4 +40,4 @@ If you decide to terminate your membership or become an inactive member, we will
 
 A printable version of our [Partners Privacy Policy](https://web.archive.org/documents/privacypolicy.pdf) in Adobe Acrobat PDF format is available. If you do not have a copy of the Adobe Acrobat Reader, you can download it free from the [Adobe Acrobat Reader Page](https://web.archive.org/link.asp?viewType=flash&extlink=http://www.adobe.com/products/acrobat/readstep2.html) on Adobe's website.
 
-Page last updated: 1/27/2005   875
+Page last updated: 1/27/2005   1564
