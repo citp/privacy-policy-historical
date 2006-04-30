@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pull-ups.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221211831id_/http%3A//www.pull-ups.com/na/utility/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pull-ups.com privacy policy that was archived on 2006-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060430034520id_/http%3A//www.pull-ups.com/na/utility/privacypolicy.asp) for the most accurate reproduction.*
 
 # PULL-UPS® Training Pants presents the Way to Go!™ Potty Training Success Guide - No One Helps Make Potty Training Easier!
 
@@ -19,6 +19,8 @@ Children's privacy is of primary concern to us, and our Policy and practices ref
 **Cookies**
 
 Like many companies, we sometimes use "cookie" technology on our web site. These cookies are stored on your computer by your browser. When you log in, this type of cookie tells us whether you've visited us before or are a new visitor. The cookie doesn't obtain any personal information about you or provide us with any way to contact you, and the cookie doesn't extract any information from your computer. We do use the cookie to help us identify site features in which you have the greatest interest, so that we can provide more of what you may want. 
+
+We use the services of NetIQ/WebTrends to track the paths our customers take through our site. In doing so, we are better able to see where our customers go within our site and ensure our site is easy to navigate. If you have any questions concerning NetIQ/WebTrends, then you should refer to the [NetIQ/WebTrends Reporting Service Privacy Policy](https://reports.webtrends.com/privacypolicy.asp) to learn how they collect and use information, particularly the section of the Policy on Privacy Statement for Visitors to Sites Tracked by WebTrends on Demand. 
 
 **Contact Us**
 
