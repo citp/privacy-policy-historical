@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hamdard.edu.pk privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217004948id_/http%3A//www.hamdard.edu.pk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hamdard.edu.pk privacy policy that was archived on 2006-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060430101014id_/http%3A//www.hamdard.edu.pk/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement, Hamdard University
 
