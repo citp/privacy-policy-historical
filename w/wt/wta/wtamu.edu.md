@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wtamu.edu privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230191543id_/http%3A//www.wtamu.edu/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtamu.edu privacy policy that was archived on 2006-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060430034844id_/http%3A//www.wtamu.edu/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
   | 
 
-West Texas A&M University has created this privacy statement in order to demonstrate our   firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.wtamu.edu ](https://web.archive.org/web/20051230191543id_/http%3A//www.wtamu.edu/). 
+West Texas A&M University has created this privacy statement in order to demonstrate our   firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.wtamu.edu ](https://web.archive.org/web/20060430034844id_/http%3A//www.wtamu.edu/). 
 
 > We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information. 
 > 
