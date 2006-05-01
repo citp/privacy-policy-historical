@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamestracker.co.uk privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228121622id_/http%3A//www.gamestracker.co.uk/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamestracker.co.uk privacy policy that was archived on 2006-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060502001834id_/http%3A//www.gamestracker.co.uk/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - GamesTracker
 
@@ -11,8 +11,6 @@ Provincial House
 Solly Street  
 Sheffield  
 S1 4BA
-
-We can be reached via e-mail at info@gamestracker.co.uk or you can reach us by telephone at 0114 276 2266.
 
 For each visitor to our web page, our web server automatically recognizes your domain name, IP address and the pages that you visit.
 
