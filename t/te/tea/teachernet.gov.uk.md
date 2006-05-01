@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teachernet.gov.uk privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223135600id_/http%3A//www.teachernet.gov.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachernet.gov.uk privacy policy that was archived on 2006-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060502012506id_/http%3A//www.teachernet.gov.uk/privacy) for the most accurate reproduction.*
 
 # TeacherNet, Privacy
 
