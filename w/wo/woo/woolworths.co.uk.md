@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the woolworths.co.uk privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218214705id_/http%3A//www.woolworths.co.uk/ww_p2/help/index.jhtml%3Fsection%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woolworths.co.uk privacy policy that was archived on 2006-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060502001334id_/http%3A//www.woolworths.co.uk//ww_p2/help/index.jhtml%3Fsection%3D10) for the most accurate reproduction.*
 
 # 
 
 #### Who we are
 
-The woolworths.co.uk website (the 'Website') is owned and operated by Streets Online Limited ('we/us'), a company within Woolworths Group plc.
+The woolworths.co.uk website (the 'Website') is owned and operated by Woolworths Plc ('we/us'), a company within Woolworths Group plc.
 
 We are committed to providing users with an Internet experience, which respects their privacy. We adhere to the requirements of the UK Data Protection Act 1998.
 
