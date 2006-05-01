@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stylusstudio.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214005156id_/http%3A//www.stylusstudio.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylusstudio.com privacy policy that was archived on 2006-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060501234815id_/http%3A//www.stylusstudio.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -85,21 +85,21 @@ If you would like to correct and/or update your information, please [contact us]
 
 [Prev: **"XML Industry News"**](https://web.archive.org/xml_industry_news.html "XML Industry News") [Next: **"Stylus Studio 2006 EULA"**](https://web.archive.org/eula.html "Stylus Studio 2006 End User Product License Agreement")
 
-### [JSP Editor](https://web.archive.org/jsp_editor.html "JavaServer Pages \(JSP\) Editor")
+### [Working with Tables in XSLT](https://web.archive.org/videos/tutorial2/tutorial2.html "Working with Tables in XSLT Video")
 
-Edit and Validate JSP 1.2 and JSP 2.0 documents. Includes JSP syntax coloring, JSP code completion and more.
+A video tutorial about working with tables in XSLT.
 
-### [Building Web Services With Stylus Studio](https://web.archive.org/videos/wscc/wscc.html "Building Web Services With Stylus Studio")
+### [Food & Beverage Services](https://web.archive.org/customers/FoodServices.html "Food & Beverage Services")
 
-This video demonstration shows you how to use Stylus Studio's Web Service call composer to locate a WSDL file on the Internet, inspect, create SOAP envelope, invoke and inspect Web service data.
+"I'll have a burger and a side of Stylus Studio", says these top food & beverage services that use Stylus Studio in everyday operations. Come see which food & beverage services eat up the idea of having the most powerful XML IDE at their finger tips!
 
-### [XML File Explorer](https://web.archive.org/xml_file_explorer.html "XML File Explorer")
+### [W3C XML Specifications](https://web.archive.org/w3c/ "W3C XML Specifications")
 
-The XML File Explorer provides a productive, consistent, and easy-to-use interface for working with any data sources (relational data, EDI, binary, XML, CSV, and more) used in enterprise data integration projects.
+Learn about the official W3C XML specifications for XML, XSLT, XQuery, XPath, DOM, XML Namespaces, XInclude, XML Base, XPointer, WSDL and more.
 
-### [Using XSLT Templates](https://web.archive.org/videos/tutorial3/tutorial3.html "XSLT Template Tutorial")
+### [Getting EDI to XML and back to EDI Again: Round Trip Engineering using Stylus Studio URL Adapters](https://web.archive.org/videos/convert-to-xml3/convert-to-xml3.html "Getting EDI to XML and back to EDI Again: Round Trip Engineering using Stylus Studio URL Adapters")
 
-Using XSLT Templates is an online video demonstration of the Stylus Studio XSLT designer. See just how easy it is to create, apply and match XSLT templates to your XML data to create beautiful HTML layouts for XML content publishing applications.
+A free online video demonstration shows how to use Stylus Studio's Adapter URL technologies to convert EDI to XML and back again. Convert, validate, view and edit EDIFACT data directly in Stylus Studio. 
 
 #### Stylus Most Wanted 
 
