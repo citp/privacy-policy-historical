@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uhc.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223042658id_/http%3A//www.uhc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uhc.com privacy policy that was archived on 2006-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060501034324id_/http%3A//uhc.com/privacy) for the most accurate reproduction.*
 
 # Internet Privacy Policy
 
