@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the contactatonce.com privacy policy that was archived on 2005-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050925011455id_/http%3A//contactatonce.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contactatonce.com privacy policy that was archived on 2006-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060502092202id_/http%3A//contactatonce.com/privacy.html) for the most accurate reproduction.*
 
-# ContactAtOnce!
+# ContactAtOnce! - Privacy Policy & Terms of Use
 
 Your privacy is very important to us and we have the highest respect for the confidentiality of your personal information. The information we receive depends on what you do while visiting our site. We will not obtain personally identifying information about you unless you choose to provide it. If you are browsing our site anonymously, we will automatically collect some non-identifying statistical information to help us measure which pages of our Web site are visited and how long visitors use the site. This information includes things such as your IP address, the time and date, pages entered and time spent on individual pages. Your IP address is not linked to anything personally identifiable. 
 
-Consumers, Merchants and Site Providers logging in to the **ContactAtOnce!** Network and Portals are subject to different privacy agreements, information use agreements and acceptable use policies that are posted on those sites. 
+Consumers, Merchants and Site Providers logging in to the **ContactAtOnce!** Service and Portals are subject to different privacy agreements, information use agreements and acceptable use policies that are posted on those sites.
 
 **Information Use**
 
@@ -32,8 +32,8 @@ By using the **ContactAtOnce!** Web site, you consent to the collection and use 
 
 **ContactAtOnce!** LLC is not liable for any losses or damages that may arise from use of this Web site. If you do not agree to these terms and conditions, please do not download information from this Web site.
 
-Use of the **ContactAtOnce!** Network and Portals are subject to additional terms and agreements. For more information on their terms of use, contact [info@contactatonce.com](mailto:info@contactatonce.com).
+Use of the **ContactAtOnce!** Service and Portals are subject to additional terms and agreements. For more information on their terms of use, contact [info@contactatonce.com](mailto:info@contactatonce.com).
 
 The content, graphics and other elements of this Web site are protected under copyright and trademark laws and may not be reproduced in whole or in part without the express written consent of **ContactAtOnce!** , LLC.
 
-**ContactAtOnce!** and the **ContactAtOnce!** logo and **ContactAtOnce!** icon trademarks of **ContactAtOnce!** , LLC. All other trademarks are recognized as proprietary to their respective owners.
+**ContactAtOnce!** and the **ContactAtOnce!** logo are trademarks of **ContactAtOnce!** , LLC. All other trademarks are recognized as proprietary to their respective owners.
