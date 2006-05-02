@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optimost.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228160208id_/http%3A//optimost.com/privacywebsite.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimost.com privacy policy that was archived on 2006-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060502033300id_/http%3A//www.optimost.com/privacywebsite.phtml) for the most accurate reproduction.*
 
 # Optimost: Privacy Policy for this Web Site - Use multivariate testing to improve conversion rates on landing pages, splash pages, jump pages, and any other web page
 
@@ -79,4 +79,4 @@ New York, NY 10017
 
 Or email us at [privacy@optimost.com](mailto:privacy@optimost.com). 
 
-See also the [Privacy Policy for Our Services](https://web.archive.org/privacyservice.phtml) and [Website Terms and Conditions](https://web.archive.org/termswebsite.phtml)
+See also the [Privacy Policy for Our Services](https://web.archive.org/privacyservice.phtml) and [Web site Terms and Conditions](https://web.archive.org/termswebsite.phtml)
