@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jccsmart.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215004636id_/http%3A//www.jccsmart.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jccsmart.com privacy policy that was archived on 2006-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060502143919id_/http%3A//www.jccsmart.com/privacy.aspx) for the most accurate reproduction.*
 
 # jccsmart: Privacy notice
 
