@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncsreporting.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223221622id_/http%3A//www.ncsreporting.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncsreporting.com privacy policy that was archived on 2006-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060502031145id_/http%3A//www.ncsreporting.com/privacy.htm) for the most accurate reproduction.*
 
 # Nationwide Card Services Privacy Policy
 
