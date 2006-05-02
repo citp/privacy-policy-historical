@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the wmtw.com privacy policy that was archived on 2005-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050203180558id_/http%3A//www.wmtw.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wmtw.com privacy policy that was archived on 2006-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060502022840id_/http%3A//www.wmtw.com/privacy) for the most accurate reproduction.*
 
 # WMTW.com - Privacy
-
-  
-
 
 Internet Broadcasting Systems and its affiliates ("IBS") have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.WMTW.com](http://www.wmtw.com/). This privacy policy applies only to information collected by or through this website. It does not apply to information obtained by other means. 
 
