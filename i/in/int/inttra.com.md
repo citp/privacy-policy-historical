@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the inttra.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214032301id_/http%3A//www.inttra.com/Disclaimers/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inttra.com privacy policy that was archived on 2006-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060502085428id_/http%3A//www.inttra.com/home2/Pages/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# 
+# INTTRA.com Privacy Policy
 
-### INTTRA Privacy and Security Policy
-
-**Updated May 10, 2003**
+## Updated May 10, 2003
 
 This Privacy and Security Policy applies to all data and information INTTRA may obtain about You, once You have used the INTTRA system. It should be read in conjunction with the INTTRA Website Legal Terms and Conditions and all defined terms in that agreement have the same meaning in this Privacy and Security Policy. 
 
@@ -30,4 +28,12 @@ INTTRA may also use temporary "cookies" which is data sent to Your Web browser a
 
 Your use of the Portal, INTTRA-ACT or INTTRA-LINK and the terms of this Privacy and Security Policy are governed by the law of the State of New York. You represent and warrant that any data You provide to INTTRA is submitted in connection with transactions conducted for business purposes only. Access to and use of the INTTRA Portal is subject to this Privacy and Security Policy and to the Website Legal Terms and Conditions. Access to and use of password protected or secure areas of the Portal, INTTRA-ACT or INTTRA-LINK is restricted to authorized Users only. Unauthorized individuals attempting to access these areas of the Portal, INTTRA-ACT or INTTRA-LINK will be subject to prosecution. By accessing, browsing, downloading, generating, receiving or transmitting any data, information or messages via the Portal, INTTRA-ACT or INTTRA-LINK you hereby accept for Yourself and on Your company's behalf, without limitation or qualification, this Privacy and Security Policy and the INTTRA Website Legal Terms and Conditions. INTTRA may at any time revise this Privacy and Security Policy, and You are bound by such revisions and should therefore periodically revisit this page for any changes to this Privacy and Security Policy. 
 
-Please contact INTTRA Inc., Morris Corporate Center II, Building E, One Upper Pond Road, Parsippany, New Jersey, 07054 or [service@inttra.com](mailto:service@inttra.com) if You have any questions concerning the Privacy and Security Policy or the way INTTRA uses Your Personally Identifiable Information or Business Transaction Data. 
+**By mail:**   
+1 Upper Pond Rd.,   
+Morris Corporate Center II, Building E   
+Parsippany, NJ 07054   
+USA 
+
+**By phone:** +1 (973) 263 5100   
+**By fax:** +1 (973) 263 5969   
+**By e-mail:** [service@inttra.com](mailto:service@inttra.com)
