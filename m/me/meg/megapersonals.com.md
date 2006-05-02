@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megapersonals.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308121820id_/http%3A//www.megapersonals.com/%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megapersonals.com privacy policy that was archived on 2006-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060502044136id_/http%3A//www.megapersonals.com/%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -35,7 +35,7 @@ This Privacy Policy covers our treatment of all personally identifiable informat
 
 **Unsubscribe**
 
-  * If you do not wish to be contacted regularly about related specials, updates, new products and services, you may unsubscribe from the list of email recipients by entering your email at http://www./unsubscribe/. 
+  * If you do not wish to be contacted regularly about related specials, updates, new products and services, you may unsubscribe from the list of email recipients by entering your email at http://www.megapersonals.com/unsubscribe/. 
 
 
 
@@ -65,6 +65,6 @@ You can correct factual errors in your personally identifiable information by se
 
 **How To Contact Us**
 
-  * Should you have other questions or concerns about this Privacy Policy, please send us an email at support@ 
+  * Should you have other questions or concerns about this Privacy Policy, please send us an email at support@megapersonals.com 
 
 
