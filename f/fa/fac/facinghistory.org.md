@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the facinghistory.org privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210054401id_/http%3A//www.facinghistory.org/facing/fhao2.nsf/69E23A09F037CC4485256870006CEE2C/83E7E32CD89706F885257075006202E2%3FOpenDocument) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facinghistory.org privacy policy that was archived on 2006-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060503181005id_/http%3A//www.facinghistory.org/facing/fhao2.nsf/69E23A09F037CC4485256870006CEE2C/83E7E32CD89706F885257075006202E2%3FOpenDocument) for the most accurate reproduction.*
 
 # Facing History and Ourselves
 
