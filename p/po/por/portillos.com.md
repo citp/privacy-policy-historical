@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the portillos.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223032625id_/http%3A//www.portillos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portillos.com privacy policy that was archived on 2006-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060503230945id_/http%3A//www.portillos.com/privacy) for the most accurate reproduction.*
 
 # The Portillo Restaurant Group - Privacy Statement
 
