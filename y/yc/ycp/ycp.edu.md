@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ycp.edu privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218041229id_/http%3A//www.ycp.edu/5410.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ycp.edu privacy policy that was archived on 2006-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060503052722id_/http%3A//www.ycp.edu/5410.htm) for the most accurate reproduction.*
 
 # York College
 
