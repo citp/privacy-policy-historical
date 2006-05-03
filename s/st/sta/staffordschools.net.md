@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the staffordschools.net privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218191201id_/http%3A//www.pen.k12.va.us/Div/Stafford/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the staffordschools.net privacy policy that was archived on 2006-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060503104229id_/http%3A//www.pen.k12.va.us/Div/Stafford/privacy.html) for the most accurate reproduction.*
 
 # Stafford County Public Schools - Internet Privacy Policy Statement
 
