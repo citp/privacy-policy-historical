@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yvesrocherusa.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220040159id_/http%3A//www.yvesrocherusa.com/shop_app/app_US/jms.jsp%3F%26nav%3Dcservice%26cservice%3Dlegal%26noFrame) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yvesrocherusa.com privacy policy that was archived on 2006-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060504002359id_/http%3A//www.yvesrocherusa.com/shop_app/app_US/jms.jsp%3F%26nav%3Dcservice%26cservice%3Dlegal%26noFrame) for the most accurate reproduction.*
 
 # Yves Rocher - your natural beauty source for cosmetics, fragrance, skin and body care
 
