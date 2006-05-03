@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medicinescomplete.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220044705id_/http%3A//www.medicinescomplete.com/mc/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicinescomplete.com privacy policy that was archived on 2006-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060503224134id_/http%3A//www.medicinescomplete.com/mc/privacy.htm) for the most accurate reproduction.*
 
 # Internet Privacy Policy: MedicinesComplete
 
@@ -66,4 +66,4 @@ This Policy is effective as of 1 July 2004. Pharmaceutical Press reserves the ri
 
 ## 10\. How to Contact Us
 
-See the [contacts](https://web.archive.org/web/20051220044705id_/http%3A//www.medicinescomplete.com/mc/contact.htm) page for details of how to contact us.
+See the [contacts](https://web.archive.org/web/20060503224134id_/http%3A//www.medicinescomplete.com/mc/contact.htm) page for details of how to contact us.
