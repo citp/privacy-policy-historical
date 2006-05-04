@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the learn2type.com privacy policy that was archived on 2005-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050209090412id_/http%3A//www.learn2type.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learn2type.com privacy policy that was archived on 2006-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060504132032id_/http%3A//learn2type.com/Privacy) for the most accurate reproduction.*
 
-# Typing Test - Learn2Type.com - learn to type online FREE typing exercises and typing tests
+# Typing Test - Learn2Type.com - learn to type online FREE typing tutor and typing tests, typing certification
 
 | [](http://www.learn2type.com/) | 
 
@@ -11,6 +11,9 @@ Learn2Type.com, Inc. has created this privacy statement in order to demonstrate 
 
 Our site uses cookies to keep track of your session. We use cookies to tailor typing lessons specific to your continuing progress. 
 
+For _Kids_ and _School accounts_ :   
+**NO** personally identifiable information is collected.   
+For _Adults_ :   
 Our site's registration form requires users to give us contact information (like their name and email address), unique identifiers (like a user name), and demographic information (like their sex, age, and income level). We use customer contact information from the registration form to send the user promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary. Unique identifiers (such as user names) are collected for use as account numbers in our record system. Demographic and profile data is also collected at our site. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis. Users may opt out from email promotional offers at any time. 
 
 This site contains links to other sites. Learn2Type.com is not responsible for the privacy practices or the content of such Web sites. 
@@ -24,6 +27,7 @@ This site has resonable security measures in place to protect the loss, misuse a
 **Kids under 18 years of age**   
 In accordance with laws and safe practices, any account marked as a "kid" (i.e. age range selected during registration as under 18 years of age; or registration was performed at Kids.Learn2Type.com; or registration was a part of a Learn2Type for Schools enrollment) will have the following additional security safeguards: 
 
+* **NO** personally identifiable information is collected; 
 * Exercise content will be simpler and with educational content; 
 * NO emails will be sent to kids accounts, unless email contact is initiated by the user (limited to answering support questions); 
 * Banner ads displayed (if any) will be filtered; 
@@ -42,7 +46,7 @@ privacyX@XLearn2Type.com
 
 |   
 
-Content and materials on this website are Copyright ©1999-2005 Learn2Type.com, Inc. 
+Content and materials on this website are Copyright ©1999-2006 Learn2Type.com, Inc. 
 
 Access to this website and content is provided at no charge, and with no   
 guarantees. While this content has been made available to assist you in   
