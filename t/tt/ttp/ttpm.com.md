@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ttpm.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306153603id_/http%3A//ttpm.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ttpm.com privacy policy that was archived on 2006-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060504214727id_/http%3A//www.ttpm.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Twin Tier Pysician Management
 
