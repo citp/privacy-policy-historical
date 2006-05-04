@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the beeradvocate.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225184453id_/http%3A//beeradvocate.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beeradvocate.com privacy policy that was archived on 2006-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060504103824id_/http%3A//beeradvocate.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Beer Advocate
 
-  
 Version 04/01/2004 
 
 **Data Collection**   
@@ -19,7 +18,7 @@ If you opt to receive "Beer eMails" from us, expect 1-4 a month on average and f
 To fight spam, your email address will never be shown and is used solely by BeerAdvocate.com. 
 
 **Cookies**   
-[Click here to review the BeerAdvocate.com Cookies Policy / Requirements](https://web.archive.org/cookies.php). 
+[Click here to review the BeerAdvocate.com Cookies Policy / Requirements](https://web.archive.org/cookies). 
 
 **Changes to this Policy**   
 Please note this Privacy Policy will change from time to time. We expect most such changes to be minor, but there may be changes that are more significant. Regardless, we will post those changes on this page and, if the changes are significant, we will also provide a more prominent notice. 
