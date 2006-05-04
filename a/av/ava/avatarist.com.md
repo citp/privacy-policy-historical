@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avatarist.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220104846id_/http%3A//www.avatarist.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avatarist.com privacy policy that was archived on 2006-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060504124908id_/http%3A//www.avatarist.com/privacy) for the most accurate reproduction.*
 
 # Avatarist Privacy Policy
 
@@ -36,17 +36,17 @@ We do not sell, rent, loan, trade or lease the addresses on our list.
 |    
   
   
-  
 | 
 
 ## Best Uploaders  
   
 ---  
-[MarcuS](https://web.archive.org/user/MarcuS)| 246  
-[Grrraph](https://web.archive.org/user/Grrraph)| 90  
-[Glass](https://web.archive.org/user/Glass)| 48  
-[mak-asgard](https://web.archive.org/user/mak-asgard)| 43  
-[Unknown30](https://web.archive.org/user/Unknown30)| 31  
+[MarcuS](https://web.archive.org/user/MarcuS)| 297  
+[Glass](https://web.archive.org/user/Glass)| 216  
+[Kayla](https://web.archive.org/user/Kayla)| 160  
+[Dahaka](https://web.archive.org/user/Dahaka)| 136  
+[Grrraph](https://web.archive.org/user/Grrraph)| 116  
+  
   
 
 
