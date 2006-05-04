@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3fatchicks.com privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011030517id_/http%3A//3fatchicks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3fatchicks.com privacy policy that was archived on 2006-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060504092718id_/http%3A//www.3fatchicks.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy: Healthy Weight Loss Info provided by 3 Fat Chicks on a Diet! Weight loss support site for Weight Watchers, Atkins, South Beach Diet, and more. Includes forums chats, lowfat recipes, food reviews, fast food nutrition, health and fitness information, plus size clothing, pcos information.
 
