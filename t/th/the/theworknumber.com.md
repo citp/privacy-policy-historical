@@ -1,7 +1,12 @@
-> *The following text is extracted and transformed from the theworknumber.com privacy policy that was archived on 2005-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050528083510id_/http%3A//theworknumber.com/Privacy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theworknumber.com privacy policy that was archived on 2006-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060505005138id_/http%3A//theworknumber.com/Privacy) for the most accurate reproduction.*
 
 # The Work Number Privacy Statement
 
+|  |   
+---|---  
+|   |  |   
+---  
+  
   
  The Work Number® is a service of TALX Corporation, which has created these statements and guidelines in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for TALX Corporation Web properties, including our corporate and branded sites.
 
@@ -54,7 +59,7 @@ Because we take the protection of your data very seriously, you may be asked to 
 Return to top  
 
 
-## Cancel Your Subscription
+## 
 
 This site gives you the option of receiving communications like e-mail and newsletters. If you would like to remove your information from our database and not receive future communications from us, send your request to [webservices@talx.com](mailto:webservices@talx.com). Please place the word "cancellation" in the subject line of your e-mail.
 
@@ -75,3 +80,7 @@ TALX Corporation
 (314) 214-7000 
 
 Return to top
+
+|   
+| [Terms and Conditions](https://web.archive.org/web/20060505005138id_/http://www.theworknumber.com/TermsConditions) | [](https://web.archive.org/web/20060505005138id_/http://www.theworknumber.com/TermsConditions) |   | Copyright © 2006 TALX Corporation. All Rights Reserved |    
+---|---|---|---|---
