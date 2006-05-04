@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the skygolf.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218164736id_/http%3A//www.skygolfgps.com/company/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skygolf.com privacy policy that was archived on 2006-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060504062945id_/http%3A//skygolf.com/company/privacy.asp) for the most accurate reproduction.*
 
 # SkyGolf - Privacy Policy
 
-**You Are Here:** [Home](https://web.archive.org/web/20051218164736id_/http%3A//www.skygolfgps.com/) > **Privacy**
+**You Are Here:** [Home](https://web.archive.org/web/20060504062945id_/http%3A//skygolf.com/) > **Privacy**
 
   
 At SkyHawke Technologies, LLC, ("SkyHawke"), we are committed to protecting the privacy of the information you provide to us. All of the information we collect about you is strictly used to process your orders, secure and maintain your SkyPlayer™ course storage data, and provide a convenient, personalized shopping and product use experience. Please read the additional information below for more details about our privacy policy.
@@ -66,10 +66,10 @@ Top
 
 By using our website, you consent to the collection and use of this information by SkyGolf . If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
-If you have any questions about our privacy policy, please contact our Customer Service department from our [Contact webpage](https://web.archive.org/web/20051218164736id_/http%3A//www.skygolfgps.com/company/contact.asp) or at (601) 605-6100.
+If you have any questions about our privacy policy, please contact our Customer Service department from our [Contact webpage](https://web.archive.org/web/20060504062945id_/http%3A//skygolf.com/company/contact.asp) or at (601) 605-6100.
 
 Top
 
 **back to previous page**
 
-©2001-2005 [SkyHawke Technologies, LLC.](http://www.skyhawke.com/) All Rights Reserved. 
+©2001-2006 [SkyHawke Technologies, LLC.](http://www.skyhawke.com/) All Rights Reserved. 
