@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiemerchstore.com privacy policy that was archived on 2005-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050329053636id_/http%3A//www.indiemerchstore.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiemerchstore.com privacy policy that was archived on 2006-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060504064328id_/http%3A//www.indiemerchstore.com/privacy) for the most accurate reproduction.*
 
 # indiemerchstore.com - Privacy Policy
 
@@ -8,11 +8,11 @@ This is the web site of www.indiemerchstore.com.
 
 Our postal address is:  
 INDIEMERCHSTORE  
-1300 W 78TH ST  
-CLEVELAND OH 44102-1916  
+3135 CHESTER AVE  
+CLEVELAND OH 44114-4616  
 
 
-We can be reached via email at [info@indiemerchstore.com](mailto:info@indiemerchstore.com "Email Us") or you can reach us by telephone at +1 (216) 472-1650 ext 242
+We can be reached via email at [info@indiemerchstore.com](mailto:info@indiemerchstore.com "Email Us") or you can reach us by telephone at +1 (216) 357-2769
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name.
 
