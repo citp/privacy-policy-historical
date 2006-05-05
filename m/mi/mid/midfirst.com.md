@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the midfirst.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214131810id_/http%3A//midfirst.com/Inside/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midfirst.com privacy policy that was archived on 2006-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060505174607id_/https%3A//www.midfirst.com/Inside/Privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement - MidFirst Bank
 
   | 
 
-MIDFIRST BANK CUSTOMER INFORMATION DISCLOSURE
+* * *
 
 As required by the Fair Credit Reporting Act and the Gramm-Leach-Bliley Act, this disclosure provides information about the collection, use, sharing and security of nonpublic personal information about you by MidFirst Bank ("we"). This disclosure applies to you if we provide one or more products or services to you to be used primarily for personal, family or household purposes. The information practices described in this disclosure do not apply to (1) products or services used for business purposes or (2) mortgage loans serviced by our affiliate Midland Mortgage Co. 
 
