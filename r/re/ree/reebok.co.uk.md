@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the reebok.co.uk privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218094644id_/http%3A//www.rbk.com/uk/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reebok.co.uk privacy policy that was archived on 2006-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060505213821id_/http%3A//www.rbk.com/uk/legal/privacy.htm) for the most accurate reproduction.*
 
 # Reebok
 
 **Privacy policy**
 
- The policies below are applicable to [www.reebok.com](http://www.reebok.com/).
+ The policies below are applicable to [www.rbk.com](http://www.rbk.com/).
 
  Privacy refers to information that we at Reebok International Limited. ("Reebok") gather about you and the use that we make of it in the course of our business.
 
@@ -17,7 +17,7 @@ Reebok International Limited
 Moor Lane  
 Lancaster LA1 1GF 
 
- Guests' e-mail addresses are never posted on [www.reebok.com](http://www.reebok.com/).
+ Guests' e-mail addresses are never posted on [www.rbk.com](http://www.rbk.com/).
 
   **Policies for Individuals 16 and Under:**
 
@@ -35,7 +35,7 @@ Lancaster LA1 1GF
 
  Reebok does not use information transferred through cookies for any promotional or marketing purposes, nor is the information shared with any third parties whatsoever. Reebok does not use cookies to identify individuals or to retrieve information from your computer that was not originally sent in a cookie.
 
- Cookies help make reebok.com better by showing how and when guests use the site. They do not, however, gather user specific information about persons who use the site. Many content improvements and updates are based on data such as total number of visitors and pages viewed.  This statistical information is most easily tracked with cookies.
+ Cookies help make www.rbk.com better by showing how and when guests use the site. They do not, however, gather user specific information about persons who use the site. Many content improvements and updates are based on data such as total number of visitors and pages viewed.  This statistical information is most easily tracked with cookies.
 
  You may occasionally get cookies from our advertisers. These cookies are sent from third-party computers and are subject to the above-stated policies. 
 
