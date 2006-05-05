@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bollywoodsargam.com privacy policy that was archived on 2005-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050828224425id_/http%3A//www.bollywoodsargam.com/modules.php%3Fname%3DBollywoodSargam%26file%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollywoodsargam.com privacy policy that was archived on 2006-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060505222735id_/http%3A//bollywoodsargam.com/modules.php%3Fname%3DBollywoodSargam%26file%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy - We are commited to your privacy - Bollywood Sargam
 
@@ -23,4 +23,4 @@ This site contains links to other sites. Bollywood Sargam is not responsible for
 **Contacting the Web Site**
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:  
-info(AT)BollywoodSargam.com or [Click here](https://web.archive.org/web/20050828224425id_/http%3A//www.bollywoodsargam.com/modules.php?name=Feedback)
+info(AT)BollywoodSargam.com or [Click here](https://web.archive.org/web/20060505222735id_/http%3A//bollywoodsargam.com/modules.php?name=Feedback)
