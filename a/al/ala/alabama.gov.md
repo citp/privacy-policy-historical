@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alabama.gov privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219184059id_/http%3A//alabama.gov/utility/privacystatement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alabama.gov privacy policy that was archived on 2006-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060505172027id_/http%3A//www.alabama.gov/utility/privacystatement.php) for the most accurate reproduction.*
 
 # alabama.gov : The Official Website of the State of Alabama : Privacy Statement
 
@@ -7,10 +7,10 @@ Click on a region to access local information.
 Still need help? Click here to talk to an alabama.gov representative.  
 [](http://server.iad.liveperson.net/hc/42550049/?cmd=file&file=visitorWantsToChat&site=42550049&byhref=1&imageUrl=http://www.alabama.gov/images)
 
-[](http://moundville.ua.edu/)   
+[](http://www.oldalabamatown.com/)   
 Click image to learn about Alabama's destinations. 
 
-alabama.gov site may use cookies to carry user information from one page to another. An example is a search criterion. This information is not stored on our server but on your workstation. We do not track this information on our server. The cookies we use are set to expire at the end of your browser session. This means that when you close your browser they are deleted. 
+alabama.gov site may use cookies to carry user information from one page to another. An example is a search criterion. This information is not stored on our server but on your workstation. We do not track this information on our server. The cookies we use are set to expire at the end of your browser session, with the exception of the cookies used for the weather feature on alabama.gov's front page. This means that when you close your browser they are deleted. The cookies used for the weather feature are deleted when you clear your cache. 
 
 Our server does track statistical information (through the use of server logs) to help agencies hosted on this server analyze the use of their site. This is how we will handle information we learn about you from your visit to our website.
 
