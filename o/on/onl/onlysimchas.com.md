@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlysimchas.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231202638id_/http%3A//www.onlysimchas.com/index.cfm%3Ffuseaction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlysimchas.com privacy policy that was archived on 2006-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060505185243id_/http%3A//onlysimchas.com/index.cfm%3Ffuseaction%3Dprivacy) for the most accurate reproduction.*
 
 # OnlySimchas.com ® :: Membership ::
 
