@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pictureline.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305052423id_/http%3A//www.pictureline.com/mail/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pictureline.com privacy policy that was archived on 2006-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060505064454id_/http%3A//www.pictureline.com/mail/privacy.php) for the most accurate reproduction.*
 
-# pictureline price match policy
+# Privacy Policy
 
 **pictureline Email and Information Privacy Policy**
 
@@ -10,7 +10,7 @@ pictureline prides itself on integrity in our business practices. We will never 
 
 pictureline.com does not send spam. Email is only sent out to members who have opted in on our website or in our retail store. 
 
-pictureline.com will send out a confirmation email when you subscribe to the newslist(s). This email will contain a link to confirm your subscription to the picturelineNews or other newslists.
+pictureline.com will send out a confirmation email when you subscribe to the newslist(s). This email will contain a link to confirm your subscription to the picturelineNews or other related news.
 
 Each email that is sent from pictureline.com will include, at or near the bottom, a link to unsubscribe from our mailing list. After entering your email address, your name and all information will be completely deleted from our database, and you will not recieve ongoing communications from pictureline.com. If, however, you wish to resubscribe at any future date, this option is available to you.
 
@@ -28,7 +28,7 @@ pictureline.com sends out a monthly newsletter, entitled picturelineNews. This n
 
 The monthly newsletter will contain news on new products, products updates, price changes at pictureline, and general information relating to traditional photography, digital photography, and motion picture photography.
 
-When you place an order on pictureline.com, you will receive a confirmation of your order, confirmation of when your order ships, or emails related to any issues with your order (such as product being out of stock, etc.). 
+When you place an order on pictureline.com, you will receive a confirmation of your order, confirmation of when your order ships, or emails related to any issues with your order (such as product being out of stock, etc.). Information related to your orders can be accessed at [pictureline.com/user/login.php.](https://www.pictureline.com/user/login.php) pictureline does not allow access to credit card information online, however you may access / change / edit your address and contact information.
 
 We hope that you enjoy our newsletter and our website.
 
