@@ -1,0 +1,443 @@
+<!--The following is the downloaded HTML source of the flytap.com privacy policy that was archived on 2006-05-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060505163528id_/http%3A//www.flytap.com/USA/en/Company/TAP/PrivacyAndSecurityPolicy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
+	<title>TAP Portugal</title>
+	<meta name="generated-on" content="Sun, 22 Jan 2006 13:54:43">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+	<link href="/storage/obj2215/11/1/5925e2b591a20ae5c258562ae5a517b1.css" rel="stylesheet" type="text/css" media="screen, print">
+	<link href="/storage/obj2042/11/1/4d6b56721a3d552e4d01c09fe3ecd651.css" rel="stylesheet" type="text/css" media="print">
+	<script type="text/javascript" src="/storage/obj2197/11/1/24a9adde6f49b3950e3fe03ba1bf0672.js"></script>
+	<link rel="shortcut icon" href="/favicon.ico">
+
+	<script language="JavaScript">
+	<!--
+	
+		function setSize(id) 
+		{
+		
+			document.domain = "flytap.com";
+
+			var newheight;
+			try {
+				if (!window.opera && !document.mimeType && document.all && document.getElementById) {
+					newheight=document.getElementById(id).contentWindow.document.body.offsetHeight;
+				} else if(document.getElementById) {
+					newheight=document.getElementById(id).contentWindow.document.body.scrollHeight;
+				}
+				document.getElementById(id).height= (newheight + 16) + "px";
+			} catch (e) {
+				// could not resize the window to the iframe size. toggle back on the scrollbars
+				window.status += "Error: could not resize the window.";
+			}
+		}
+	//-->
+	</script>
+</head>
+<body>
+<div align="center">
+<div style="width:741px;">
+<div id="tapLogo">
+<div class="topline" style="float:left; width:156px;"><a href="http://www.flytap.com/USA/en/Homepage/"><img src="http://www2.flytap.com/web/164-logo_tap2.gif" alt="" title=""></a></div>
+<div class="topline" id="topBanner" style="float:left; width:575px; margin-left:10px;"><br></div>
+<div style="clear:both"></div>
+<div id="underLinePrint"></div>
+</div>
+<div style="width:741px; height: 100% ">
+<script language="JavaScript" type="text/javascript">
+
+//chamados pelos LIs de 2o nivel 
+function showSelected(obj, disp)
+{
+	if (disp) {
+		if (obj.parentNode.childNodes[0].id != "tabselected_a") {
+			obj.parentNode.childNodes[0].style.borderBottomColor = '#d7d7d7'; 
+			obj.parentNode.childNodes[0].style.background = '#d7d7d7';
+		}
+	} else {
+		if (obj.parentNode.childNodes[0].id != "tabselected_a") {
+			obj.parentNode.childNodes[0].style.borderBottomColor = '#ffffff'; 
+			obj.parentNode.childNodes[0].style.background = '#a9a9a9';
+		}
+	}					
+}
+
+
+function showChildren(obj, disp)
+{
+
+	if (document.getElementById('tabselected_a')) {
+	
+		if (disp) {
+		
+			if (obj.id != "tabselected") {				
+				document.getElementById('tabselected_a').style.borderBottomColor = '#ffffff'; 
+				document.getElementById('tabselected_a').style.background = '#a9a9a9'; 		
+				document.getElementById('tabselected_a').style.color = "#fff";
+			}
+			
+		} else {
+		
+			if (obj.id != "tabselected") {				
+				document.getElementById('tabselected_a').style.borderBottomColor = '#d7d7d7'; 
+				document.getElementById('tabselected_a').style.background = '#d7d7d7';
+				document.getElementById('tabselected_a').style.color = "#5a5a5a";			
+			}
+				
+		}					
+	}
+	
+	realElem = obj;	
+	if (obj.childNodes) {
+		for (var x = 0; obj.childNodes[x]; x++) {
+			if (obj.childNodes[x].nodeName == "A")
+				realElem = obj.childNodes[x];
+
+		}
+	}
+	
+	
+//	alert("oops! pedimos desculpa pela interrupcao!");
+	
+
+	if (disp) {
+		realElem.style.background = '#d7d7d7';
+		realElem.style.borderBottomColor = '#d7d7d7'; 
+	} else {
+		realElem.style.background = '#a9a9a9';			
+		realElem.style.borderBottomColor = '#ffffff'; 
+
+	}
+	
+	
+	
+		
+	var el = document.getElementById('tab2ndlevelopen');	
+	var e = false;
+	
+//	alert("oops! pedimos desculpa pela interrupcao!");	
+
+	// mostra os subitems
+	if (obj) {
+		if (obj.childNodes) {
+			for (var x = 0; obj.childNodes[x]; x++) {
+				if (obj.childNodes[x].nodeName == "UL") {
+					e = true;
+					if (disp) {
+						if (obj.id != "tabselected") {				
+							obj.childNodes[x].style.zIndex = 50;
+						}
+						obj.childNodes[x].style.display = "block";
+						obj.childNodes[x].style.margin = 0;
+						document.getElementById('tab2container').style.height = ((!el) ? "33px" : "55px");
+					} else {
+
+						if (obj.childNodes[x].id != "tab2ndlevelopen") {
+							obj.childNodes[x].style.zIndex = 20;
+							obj.childNodes[x].style.display = "none";
+						}
+						document.getElementById('tab2container').style.height = ((!el) ? "33px" : "55px");
+						//
+					}
+				}
+			}
+		}
+	}
+
+
+	
+	
+	// esconde quando nao ha nada (hoepage, downloads, etc)
+	if (el) {
+		if (!e) {
+			if (disp) {
+				if (el.childNodes) {
+					for (var x = 0; el.childNodes[x]; x++) {
+						if (el.childNodes[x].nodeName == "LI")
+							el.childNodes[x].style.display = "none";
+					}
+				}				
+			} else {
+				if (el.childNodes) {
+					for (var x = 0; el.childNodes[x]; x++) {
+						if (el.childNodes[x].nodeName == "LI")
+							el.childNodes[x].style.display = "block";
+					}
+				}
+			}
+		} 
+	} 
+	
+
+	if (!disp) {
+		if (document.getElementById('tabselected_a')) {
+			document.getElementById('tabselected_a').style.background = '#d7d7d7';
+			document.getElementById('tabselected_a').style.borderBottomColor = '#d7d7d7'; 
+		}
+	} 
+
+/*
+	
+	
+	if (!disp) {
+		el.style.display = "block";
+		el.style.zIndex = 51;
+		document.getElementById('tab2container').style.height = "60px";
+		
+		if (el.childNodes) {
+			for (var x = 0; el.childNodes[x]; x++) {
+				if (el.childNodes[x].nodeName == "LI")
+					el.childNodes[x].style.display = "block";
+	
+			}
+		}			
+	}
+*/		
+	return false;
+}
+
+
+</script>
+
+
+
+</div>
+<div style="clear: both"></div>
+
+
+<div>
+
+
+
+
+<div style="float:left; margin-right:10px; width:156px; overflow:hidden" id="lateralMenu">
+<form action="/index.php" method="get" name="sitesearch">
+
+
+<input type="hidden" name="lang" value="1">
+<input type="hidden" name="site" value="11">
+<input type="hidden" name="object" value="2041">
+
+<div class="pesquisa">
+<p><input type="text" name="query" value="Search for..." style="width:117px; height:13px; color:#666; font-size:10px;" onblur="if (this.value == '') {this.value = 'Search for...';}" onfocus="if (this.value == 'Search for...') {this.value = '';}" onmouseout="window.status=''; return true;" onmouseover="window.status='Search for...'; return true;">
+    <input type="image" src="http://www2.flytap.com/web/158-59-seta_grey.gif"></p>
+</div>
+
+
+</form>
+<div style="clear:left">
+<ul id="container">
+	<li><a href="http://www.flytap.com/USA/en/Homepage/">Aircraft</a></li>
+	<li><a href="http://www.flytap.com/USA/en/Promotions/">Promotions</a></li>
+	<li><a href="http://www.flytap.com/USA/en/Rent-a-car/">Rent-a-car</a></li>
+</ul>
+</div>
+<div><ul id="tabheader2">
+<li><a href="http://www.flytap.com/USA/en/Company/TAP/PrinciplesAMission/">Principles &amp; Mission</a>
+</li>
+<li><a href="http://www.flytap.com/USA/en/Company/TAP/CorporateInformation/">Corporate Information</a>
+</li>
+<li><a href="http://www.flytap.com/USA/en/Company/TAP/VictoriaProgram/">Victoria Program</a>
+</li>
+<li><a href="http://www.flytap.com/USA/en/Company/TAP/AlliancesAndPartnerships/">Alliances and Partnerships</a>
+</li>
+<li id="tabcurrent2"><a href="http://www.flytap.com/USA/en/Company/TAP/PrivacyAndSecurityPolicy/">Privacy and Security Policy</a>
+</li>
+</ul>
+</div><div style="clear:left; width:156px;">
+<div class="greyborder"><a href="/object224lang1site11.html">
+<img src="http://www2.flytap.com/web/1807-partidas_en_off.gif" alt="" title=""></a></div>
+<div class="greyborder"><a href="/object251lang1site11.html"><img src="http://www2.flytap.com/web/1486-horario_en_off.gif" alt="" title=""></a></div>
+<div class="greenborder" style="padding-bottom:5px;"><img src="http://www2.flytap.com/web/1312-newsletter_en.gif" alt="" title=""><br>
+
+<script>
+
+// Coisas do Limpa-Vidros
+
+function handleHttpResponse() 
+{
+	if (http.readyState == 4) {
+		alertLocalized(http.responseText);
+		document.getElementById('address').disabled = false;		
+	}
+}
+
+var http;
+
+function doNewsletter() 
+{
+	http = getHTTPObject(); // create the HTTP Object
+	
+	email = document.getElementById('address').value;
+	flag = document.getElementById('cancel').checked ? 1 : 0;
+	
+	document.getElementById('address').disabled = true;
+	
+	var url = "http://www.flytap.com/index.php?object=2144&lang=1&site=11&address=" + escape(email) + "&cancel=" + flag;
+	try {
+		http.open("GET", url, true);
+		http.onreadystatechange = handleHttpResponse;
+		http.send(null);
+	} catch (exc) {
+		window.status = "Error... " + exc;
+	}
+}
+
+
+function getHTTPObject() 
+{
+  var xmlhttp;
+  /*@cc_on
+  @if (@_jscript_version >= 5)
+    try {
+      xmlhttp = new ActiveXObject("Msxml2.XMLHTTP");
+    } catch (e) {
+      try {
+        xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+      } catch (E) {
+        xmlhttp = false;
+      }
+    }
+  @else
+  xmlhttp = false;
+  @end @*/
+  if (!xmlhttp && typeof XMLHttpRequest != 'undefined') {
+    try {
+      xmlhttp = new XMLHttpRequest();
+    } catch (e) {
+      xmlhttp = false;
+    }
+  }
+  return xmlhttp;
+}
+
+function blockEnter(evt) {
+    evt = (evt) ? evt : event;
+    var charCode = (evt.charCode) ? evt.charCode :
+        ((evt.which) ? evt.which : evt.keyCode);
+    if (charCode == 13 || charCode == 3) {
+        return false;
+    } else {
+        return true;
+    }
+}
+
+</script>
+
+<form>
+<input id="address" name="address" type="text" style="width:129px; margin-left:4px; margin-right:4px; padding-left:6px; color:#778c00; font-size:11px;" value="Your email" onblur="if (this.value == '') {this.value = 'Your email';}" onfocus="if (this.value == 'Your email') {this.value = '';}" onmouseout="window.status=''; return true;" onmouseover="window.status='Your email'; return true;" onkeydown="return blockEnter(event);">
+						   
+<p class="textGreen">
+</p>
+<input id="cancel" name="cancel" type="checkbox" style=" float:left">
+<span style="padding-top:4px; width:103px;display:block; float:left; vertical-align: middle">Cancel subscription</span>
+<img src="http://www2.flytap.com/web/149-55-okgreen.gif" style="padding-left:4px; float:left" onclick="doNewsletter(); return false;">
+<br style="clear:both">
+</form>
+
+</div>
+</div>
+</div>
+<div style="float:left; width:575px; ">
+
+<div id="horizontalMenu" style="height:60px; margin-bottom: 5px; clear: both; z-index:3;"><div style="float: left; clear: both;" id="tab2container" class="tab2containeropen"><ul id="tab2header" class="tab2header">
+<li onmouseover="return showChildren(this, true);" onmouseout="return showChildren(this, false);" class="tab1"><a onmouseover="return true" onmouseout="return true" href="http://www.flytap.com/USA/en/Homepage/">Homepage</a>
+</li>
+<li onmouseover="return showChildren(this, true);" onmouseout="return showChildren(this, false);" class="tab1" id="tabselected"><a onmouseover="return true" onmouseout="return true" id="tabselected_a" href="http://www.flytap.com/USA/en/Company/">Company</a>
+<ul onmouseover="return showSelected(this, true);" onmouseout="return showSelected(this, false);" class="tab2subheader tab2selected" id="tab2ndlevelopen">
+<li id="tab2current"><a href="http://www.flytap.com/USA/en/Company/TAP/">TAP</a>
+</li>
+<li><a href="http://www.flytap.com/USA/en/Company/TAPGroup/">TAP Group</a>
+</li>
+<li><a href="http://www.flytap.com/USA/en/Company/Press/">Press</a>
+</li>
+<li><a href="http://www.flytap.com/USA/en/Company/Fleet/">Fleet</a>
+</li>
+<li><a href="http://www.flytap.com/USA/en/Company/History/">History</a>
+</li>
+<li><a href="http://www.flytap.com/USA/en/Company/Museum/">Museum</a>
+</li>
+</ul>
+</li>
+<li onmouseover="return showChildren(this, true);" onmouseout="return showChildren(this, false);" class="tab1"><a onmouseover="return true" onmouseout="return true" href="http://www.flytap.com/USA/en/FlyWithUs/">Fly with us</a>
+<ul onmouseover="return showSelected(this, true);" onmouseout="return showSelected(this, false);" class="tab2subheader">
+<li><a href="http://www.flytap.com/USA/en/FlyWithUs/Fleet/">Fleet</a>
+</li>
+<li><a href="http://www.flytap.com/USA/en/FlyWithUs/Reservations/">Reservations</a>
+</li>
+<li><a href="http://www.flytap.com/USA/en/FlyWithUs/BeforeTravel/">Before travel</a>
+</li>
+<li><a href="http://www.flytap.com/USA/en/FlyWithUs/Departure/">Departure</a>
+</li>
+<li><a href="http://www.flytap.com/USA/en/FlyWithUs/OnBoard/">On Board</a>
+</li>
+<li><a href="http://www.flytap.com/USA/en/FlyWithUs/AtArrival/">At Arrival</a>
+</li>
+<li><a href="http://www.flytap.com/USA/en/FlyWithUs/Golf/">Golf</a>
+</li>
+</ul>
+</li>
+<li onmouseover="return showChildren(this, true);" onmouseout="return showChildren(this, false);" class="tab1"><a onmouseover="return true" onmouseout="return true" href="http://www.flytap.com/USA/en/TopExecutive/">Top Executive</a>
+</li>
+<li onmouseover="return showChildren(this, true);" onmouseout="return showChildren(this, false);" class="tab1"><a onmouseover="return true" onmouseout="return true" href="http://www.flytap.com/USA/en/Destinations/">Destinations</a>
+</li>
+<li onmouseover="return showChildren(this, true);" onmouseout="return showChildren(this, false);" id="tab2last" class="tab2last1"><a onmouseover="return true" onmouseout="return true" href="http://www.flytap.com/USA/en/Downloads/">Downloads</a>
+</li>
+</ul>
+</div></div>
+<div style="width:575px; z-index:1;">
+<div style="margin-left: 10px; width: 565px;" align="left">
+<p class="textGreen text16b" style="width: 374px; margin: 20px 0px 10px 0px; text-align: left;">
+Privacy &amp; Security Policy</p>
+</div>
+
+<div style="width: 565px; margin-left: 10px;" id="articleBody">
+<div style="float:left; width:374px; margin-right: 25px; line-height:13px; text-align:left;">
+
+
+<!-- XXX ( mm id=  --><span class="textGray text11" style="text-align:left;"><span style="font-weight: bold;">Safety Conditions<br><br></span>We are aware that exchanging personal information is a great concern for Internet users.<br>We will only request information about your credit card if you wish to make a reservation.<br>The security offered by the application is through the SSL (Secure Socket Layer) technology, based on encryting the communications exchanged between your PC and our server, so that these cannot be intercepted.<br><br><span style="font-weight: bold;">Privacy Policy<br><br></span>TAP will collect all possible information concerning its clients, with he aim of offering a personalised service and allow an easy navigation.<br>TAP will assure the best possible customer relation, and for that purpose will follow the principles of data protection.<br>Our customer's personal data will not be made available to a third party , and will only be used, with the authorisation of the client, in marketing campaigns or newsletters.<br>Should the client wish not to receive more marketing information, he/she will notify TAP accordingly.<br><span style="font-weight: bold;"><br>Use of Cookies<br><br></span>Cookies are small information files placed in your PC, thus allowing Web Sites to remember your past choices, dates and paths on the site.<br>These files are also used to prevent that you have to repeat your personal data and password everytime you use TAP Auction Service.<br>The user is entitled to configurate his browser to inform him everytime a cookie is received, or even to deactivate its acceptance. However, TAP allerts that this will prevent the use of some of our services.</span>
+
+</div>
+
+<div style="float:left; width: 166px; overflow: hidden;">
+<div style="border-bottom: 5px solid #bed730; background-color:#f2f7d6;"><img src="http://www2.flytap.com/web/1711-politica_privacidade.jpg" alt="" title="">
+</div>
+<div style="margin-top:20px;">
+<p class="textDarkGreen printNoDisplay" style="padding-top: 0px; margin-bottom: 4px;">
+
+<a href="#" onclick="window.print(); return false;" class="textDarkGreen"><img src="http://www2.flytap.com/web/333-333-print_icon.gif" alt="" title="" align="top"></a>
+
+<a href="#" onclick="window.print(); return false;" class="textDarkGreen">Print</a> 
+</p>
+<p class="textDarkGreen printNoDisplay" style="padding-top: 0px; margin-bottom: 4px;">
+
+<a href="#" onclick="history.go(-1); return false;" class="textDarkGreen"><img src="http://www2.flytap.com/web/369-369-icon_back.gif" alt="" title="" align="top"></a>
+
+<a href="#" onclick="history.go(-1); return false;" class="textDarkGreen">Go Back</a> 
+</p>
+</div>
+
+</div>
+<div style="clear:both"></div>
+</div></div>
+</div>
+<div style="clear:both"></div>
+</div>
+<div style="width:745px; height: 100%; clear: both;">
+ <div class="footerSize">
+  <div class="printNoDisplay" style="border-top:5px solid #eeeeee; float:left; width:156px; margin-top:35px; margin-right: 10px; height: 14px; font-size: 5px;"> </div>
+  <div style="border-top:5px solid #eeeeee; float:left; width:575px; margin-top:35px; height: 14px; font-size: 5px;"> </div>
+  <div style="clear:both"></div>
+ </div>
+ <div class="footerSize">
+  <div class="bottomline" id="printPadding" style="float:left; width:144px; margin-left: 7px; "><a href="http://www.flytap.com/USA/en/Copyright/" class="linksFooter">© Copyright TAP Portugal</a></div>
+  <div class="bottomline printNoDisplay" style="float:left; width:323px;"><a href="http://www.flytap.com/USA/en/SiteMap/" class="linksFooter">Site map</a> | <a href="http://www.flytap.com/USA/en/Company/TAP/PrivacyAndSecurityPolicy/" class="linksFooter">Privacy and Security Policy</a> | <a href="http://www.flytap.com/USA/en/Contacts/" class="linksFooter">Contacts </a></div>
+  <div class="bottomline"><img src="http://www2.flytap.com/web/189-89-tap_star.gif" alt="" title=""></div>
+  <div style="clear:both"></div>
+ </div>
+</div>
+</div>
+</div>
+
+</body></html>
