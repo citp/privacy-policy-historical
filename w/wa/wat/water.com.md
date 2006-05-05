@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the water.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212001709id_/http%3A//water.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the water.com privacy policy that was archived on 2006-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060505225717id_/http%3A//www.water.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # DS Waters of America
 
