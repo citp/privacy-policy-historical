@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the mariobadescu.com privacy policy that was archived on 2005-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051225214032id_/http%3A//www.mariobadescu.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mariobadescu.com privacy policy that was archived on 2006-05-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060505195458id_/http%3A//www.mariobadescu.com/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>Mario Badescu :: Privacy Policy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<link rel="stylesheet" type="text/css" href="http://www.mariobadescu.com/spLib/siteNetscape.css">
+<link rel="stylesheet" type="text/css" href="https://www.mariobadescu.com/spLib/siteNetscape.css">
 
 	<script language="JavaScript">
 	<!--//
@@ -52,11 +52,67 @@
 		}
 	}
 
+function setbackground()
+    {
+	  
+//	  alert(document.getElementById('imgClient'));
+	   if(document.getElementById('imgClient') == null)
+	   {
+	      return;
+	   }
+	   else
+	   {
+	      window.setTimeout( "setbackground()", 5000); // 5000 milliseconds delay
+
+          var index = Math.round(Math.random() * 7);
+          var Value = 'images/clients/klum.jpg'; // default picture
+	      var valueText = "HEIDI KLUM";
+
+          if(index == 1)
+	      {
+             Value = 'images/clients/klum.jpg';
+             valueText = "HEIDI KLUM";
+	      }
+          if(index == 2)
+	      {
+             Value = 'images/clients/judd.jpg'; 
+		     valueText = "ASHLEY JUDD";
+	      }
+          if(index == 3)
+	      {
+             Value = 'images/clients/theron.jpg'; 
+		     valueText = "CHARLIZE THERON";
+  	      }
+          if(index == 4)
+	      {
+             Value = 'images/clients/tyler.jpg'; 
+		     valueText = "LIV TYLER";
+	      }
+          if(index == 5)
+	      {
+             Value = 'images/clients/parker.jpg'; 
+		     valueText = "SARAH JESSICA PARKER";
+	      }
+          if(index == 6)
+	      {
+             Value = 'images/clients/campbell.jpg'; 
+		     valueText = "NAOMI CAMPBELL";
+	      }
+          if(index == 7)
+	      {
+             Value = 'images/clients/aniston.jpg'; 
+		     valueText = "JENNIFER ANISTON";
+          }
+          document.frmHomePage.imgClient.src = Value;
+	      document.frmHomePage.imgClient.alt = valueText;
+	   }   
+    }
+
 	//-->
 	</script>
 
 </head>
-<body bgcolor="#D4F1D4" text="#333333" link="#006633" vlink="336633" leftmargin="10" topmargin="10" marginwidth="10" marginheight="10">
+<body onload="setbackground();" bgcolor="#D4F1D4" text="#333333" link="#006633" vlink="336633" leftmargin="10" topmargin="10" marginwidth="10" marginheight="10">
 <div align="center">
 <table width="600" border="0" cellpadding="0" cellspacing="0">
 <tbody><tr>
@@ -182,6 +238,7 @@
 </tr>
 </tbody></table>
 </div>
+<script language="JavaScript" type="text/javascript" src="wz_tooltip.js"></script>
 
 
 </body></html>
