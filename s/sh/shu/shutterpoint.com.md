@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shutterpoint.com privacy policy that was archived on 2005-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050514005253id_/http%3A//www.shutterpoint.com/Home-Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shutterpoint.com privacy policy that was archived on 2006-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060505222139id_/http%3A//www.shutterpoint.com/Home-Privacy.cfm) for the most accurate reproduction.*
 
 # ShutterPoint Photography - Privacy Policy
 
@@ -7,13 +7,12 @@ ShutterPoint.com is committed to maintaining the privacy of information that you
 
 To jump to a particular section, use links below: 
 
-> Membership Information  
->  IP Addresses, Cookies and Log Files  
->  Surveys  
->  Your Privacy at Other Sites  
->  Opting Out  
->  Notification of Changes  
-> 
+  * Membership Information
+  * IP Addresses, Cookies and Log Files
+  * Surveys
+  * Your Privacy at Other Sites
+  * Opting Out
+  * Notification of Changes
 
   
 In order to be a member of this website, you have to complete the registration form. During registration users are asked to give their personally identifiable information (such as name, age range, e-mail address). We may use the e-mail address information to send the reminders of upcoming storage space subscription expiration or running low on space reminders; notifications about our new or existing products and services, special offers, or to otherwise contact you regarding your account with us. During registration you are asked to create a unique username that will be required for gaining access to the member-only features of this webiste. Your username is not treated as personally identifiable information and may be shown on this website in connection with the albums(s) you may choose to create and maintain. Additionally, your first and last name will be shown on this website in connection with the albums(s) you may choose to create and maintain or in connection to the public member directory. Your e-mail address is never displayed anywhere at this website and it cannot be obtained by other users of this website. Additionally, your e-mail is never given, rented or sold to any third parties. 
