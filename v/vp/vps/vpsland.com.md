@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vpsland.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219160406id_/http%3A//www.vpsland.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vpsland.com privacy policy that was archived on 2006-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060505182359id_/http%3A//vpsland.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy:: VPSLAND.com
+# VPSLAND.com :: Privacy Policy
 
 This is the Web site of VPSLAND.com. We can be reached via e-mail at info@vpsland.com. VPSLAND.com takes the privacy of its users very seriously and is committed to protecting their personal information. 
 
