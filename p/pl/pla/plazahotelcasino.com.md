@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plazahotelcasino.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222150604id_/http%3A//www.plazahotelcasino.com/home/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plazahotelcasino.com privacy policy that was archived on 2006-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060505195810id_/http%3A//www.plazahotelcasino.com/home/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - plazahotelcasino.com
 
@@ -7,13 +7,13 @@
 Privacy Policy  
 
 
-BARRICK GAMING CORPORATION ONLINE PRIVACY POLICY
+PLAZA HOTEL CASINO ONLINE PRIVACY POLICY
 
 OUR COMMITMENT TO PRIVACY  
 Your privacy is extremely important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
 
 APPLICATION OF THIS PRIVACY POLICY  
-This Privacy Policy applies to all websites owned and/or operated by Barrick Gaming Corporation and its subsidiaries, including, but not limited to, the websites for: (1) the Plaza Hotel and Casino at www.plazahotelcasino.com; (2) the Las Vegas Club Hotel and Casino at www.vegasclubcasino.net; (3) the Western Hotel and Casino at www.westernhotelcasino.com; and (4) the Gold Spike Hotel and Casino at www.goldspikehotelcasino.com. Our websites may be accessed through domain names other than the domain names listed above. This Privacy Policy does not apply to information collected by us by means other than through our websites.
+This Privacy Policy applies to all websites including, but not limited to, the websites for: (1) the Plaza Hotel and Casino at www.plazahotelcasino.com; (2) the Las Vegas Club Hotel and Casino at www.vegasclubcasino.net; (3) the Western Hotel and Casino at www.westernhotelcasino.com; and (4) the Gold Spike Hotel and Casino at www.goldspikehotelcasino.com. Our websites may be accessed through domain names other than the domain names listed above. This Privacy Policy does not apply to information collected by us by means other than through our websites.
 
 INFORMATION WE COLLECT ABOUT YOU  
 General Information  
@@ -33,7 +33,7 @@ HOW WE USE THE INFORMATION WE COLLECT
 We collect personally identifiable information about you in order to provide you with a personalized web experience. We use your contact data to send you information about our properties and current promotions, and to contact you when necessary. We use your financial data for billing of products and services. Your demographic data is used to customize your site experience and to deliver specific content that may be of interest to you.
 
 SHARING OF INFORMATION WE COLLECT  
-We will not sell, trade, or disclose to third parties any personally identifiable information obtained through our websites without your consent unless required to do so by law. We may disclose personally identifiable information in order to: (1) enforce our Website Agreement; (2) protect and defend the rights or property of Barrick Gaming Corporation; (3) comply with a court order or other legal process or legal requirements of any governmental authorities, including but not limited to, authorities which regulate gaming activities; or (4) in the sole discretion of Barrick Gaming Corporation, in exceptional circumstances, such as a national emergency, security concern, or other situation in which we deem such disclosure is prudent.
+We will not sell, trade, or disclose to third parties any personally identifiable information obtained through our websites without your consent unless required to do so by law. We may disclose personally identifiable information in order to: (1) enforce our Website Agreement; (2) protect and defend the rights or property of PlayLV Gaming Corporation; (3) comply with a court order or other legal process or legal requirements of any governmental authorities, including but not limited to, authorities which regulate gaming activities; or (4) in the sole discretion of PlayLV Gaming Corporation, in exceptional circumstances, such as a national emergency, security concern, or other situation in which we deem such disclosure is prudent.
 
 CHOICE REGARDING PROVIDING INFORMATION  
 General information is collected whenever you browse our websites. Our websites do not provide any means for opting out of providing general information when you browse our websites. However, privacy software that prevents the disclosure of general information is commercially available.
@@ -51,7 +51,7 @@ AGE RESTRICTIONS AND THE CHILDREN'S ONLINE PRIVACY PROTECTION ACT
 Pursuant to law, persons under the age of twenty-one (21) are not permitted to gamble in casinos and are not permitted to loiter in the gaming areas of any of our properties. Similarly, our websites are general audience sites intended for persons 21 years of age or older. Persons younger than 21 years of age are not allowed to use our websites, accept offers, or win contest, and we do not knowingly collect information from such persons. In accordance with the Children's Online Privacy Protection Act, we will not knowingly collect or accept personally identifiable information from a child under the age of thirteen (13). 
 
 HOW YOU MAY CHANGE, CORRECT YOUR REGISTRATION INFORMATION   
-If you want to change, correct, update, or delete your registration information, please contact us via email at privacy@barrickgamingcorp.com, call us at (702) 876-1001, or send your request to Barrick Gaming Corporation, Attn: Registration Information Correction, 501 S. Rancho, Suite B-10, Las Vegas, NV 89106, and the necessary revisions will be made. This provision applies only to registration information collected via the websites. 
+If you want to change, correct, update, or delete your registration information, please contact us via email at privacy@playlv.com, call us at (702) 876-1001, or send your request to PlayLV Gaming Corporation, Attn: Registration Information Correction, 501 S. Rancho, Suite B-10, Las Vegas, NV 89106, and the necessary revisions will be made. This provision applies only to registration information collected via the websites. 
 
 CHANGES  
-We reserve the right to modify or change this Privacy Policy at any time, simply by posting such changes on the website. Any such change, update, or modification will be effective immediately upon posting. If you have any questions regarding this Privacy Policy, please contact us at [privacy@barrickgamingcorp.com](mailto:privacy@barrickgamingcorp.com).
+We reserve the right to modify or change this Privacy Policy at any time, simply by posting such changes on the website. Any such change, update, or modification will be effective immediately upon posting. If you have any questions regarding this Privacy Policy, please contact us at [privacy@playlv.com](mailto:privacy@playlv.com).
