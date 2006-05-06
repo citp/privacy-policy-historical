@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the licor.com privacy policy that was archived on 2005-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051118181058id_/http%3A//www.licor.com/corp/privacy.txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the licor.com privacy policy that was archived on 2006-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060506122643id_/http%3A//www.licor.com/corp/privacy.txt) for the most accurate reproduction.*
 
 # 
 
@@ -19,7 +19,7 @@
     
     Marketing Communications Manager
     LI-COR Biosciences
-    4308 Progressive Ave.
+    4647 Superior St.
     Lincoln, NE  68504
     
     Our Privacy Policy is subject to change at any time.  Please review this link regularly for any changes.
