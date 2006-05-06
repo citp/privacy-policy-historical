@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apartmenthunterz.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207163503id_/http%3A//www.apartmenthunterz.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apartmenthunterz.com privacy policy that was archived on 2006-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060506221627id_/http%3A//www.apartmenthunterz.com/privacy.shtml) for the most accurate reproduction.*
 
 # Los Angeles Apartment Rentals - Apartment Hunters - Privacy Policy
 
