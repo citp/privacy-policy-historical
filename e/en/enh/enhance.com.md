@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enhance.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229124308id_/http%3A//www.enhance.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enhance.com privacy policy that was archived on 2006-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060506193248id_/http%3A//enhance.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Enhance Interactive - Privacy Policy
 
@@ -18,8 +18,16 @@ Enhance Interactive contains links to other sites. These sites may send their ow
 With Whom Do We Share Information?  
 Enhance Interactive may share non-personal and non-personally identifiable information about our users with advertisers, business partners, sponsors, and other third parties. However, we only divulge aggregate information, such as how often the average user visits Enhance Interactive. We will not share personally identifiable information with any third party without your express consent. 
 
+Enhance Interactive may also provide personal information when disclosure may be required by law (e.g., subpoenas, search warrants and court orders). We may also determine that such action is reasonably necessary to protect a party's rights, property, or well-being. This action may include exchanging information with other companies and organizations for the purposes of fraud detection or protection, or in other situations involving suspicious or illegal activities. 
+
+Business Transfers  
+In the event of a transfer of ownership of Enhance Interactive, such as acquisistion by or merger with another company, a user's personal information will, in most instances, be part of the assets transferred. 
+
+InfoSpace Customers  
+For guaranteed inclusion customers that have been referred to us by search properties owned or licensed by InfoSpace, Inc., we may provide their personal information to InfoSpace so that InfoSpace may offer similar services to these customers. InfoSpace shall be solely responsible for its use of any such information. These customers should also consult any privacy statements made public by InfoSpace. 
+
 Consent and Changes to this Privacy Statement  
-By using our site, you consent to the collection and use of your information as we have outlined in this privacy statement and to our Terms of Service. Enhance Interactive may decide to change this privacy statement from time to time. When we do, we will post the changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. 
+By using our site or services, you consent to the collection and use of your information as we have outlined in this privacy statement and to our Terms of Service. If you are using any of our services, we may also collect and use information in accordance with the applicable Terms and Conditions. Enhance Interactive may decide to change this privacy statement from time to time. When we do, we will post the changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. 
 
 Who Can I Ask If I Have Additional Questions?  
 Feel free to contact us any time with any questions you may have regarding our privacy statement. Our email address is info@enhance.com. 
