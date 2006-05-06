@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samuelfrench.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230123642id_/http%3A//www.samuelfrench.com/store/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samuelfrench.com privacy policy that was archived on 2006-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060506160959id_/http%3A//www.samuelfrench.com/store/privacy.php%3FosCsid%3Dd00618615d93faa70857b4911460168f) for the most accurate reproduction.*
 
 # Samuel French, Inc. The House of Plays & Musical Plays for 175 Years
 
