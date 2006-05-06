@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rivals.com privacy policy that was archived on 2005-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051106192534id_/http%3A//www.rivals.com/content.asp%3FCID%3D47698) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rivals.com privacy policy that was archived on 2006-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060506101511id_/http%3A//www.rivals.com/content.asp%3FCID%3D47698) for the most accurate reproduction.*
 
-# 
+# Rivals.com - Privacy Policy
 
 **Privacy Policy**
 
@@ -52,5 +52,4 @@ Rivals.com takes privacy matters very seriously, and intends to stay at the fore
 
 In certain situations, Rivals.com may be asked to release your personal information to judges, police, law enforcement personnel, officers of a court, or other entities. By subscribing to our services, you agree that Rivals.com is in no way liable for any result of the release of this information at our discretion, and that Rivals.com has the right to disclose this information upon request to a third party, if, from a legal standpoint, Rivals feels that it is necessary or in Rivals' best interests to do so. See additional information on our [process for the release of personal information.](https://web.archive.org/content.asp?CID=281252)
 
-In addition, by using this site and/or registering on this site, you agree that, should there be any dispute regarding the above release of personal information, this agreement shall be governed pursuant to the laws of the State of Tennessee and venue for such a dispute or any other dispute shall be in Williamson County or Davidson County, Tennessee (at the sole discretion of Rivals.com). If such a dispute is filed and Rivals.com is forced to defend its right to release personal information, you agree that Rivals.com, upon successfully defending this right, shall be entitled to obtain its costs of defense, including attorneys fees.  
-[](http://www.rivalsshop.com/stoItem.asp?Product=16526)
+In addition, by using this site and/or registering on this site, you agree that, should there be any dispute regarding the above release of personal information, this agreement shall be governed pursuant to the laws of the State of Tennessee and venue for such a dispute or any other dispute shall be in Williamson County or Davidson County, Tennessee (at the sole discretion of Rivals.com). If such a dispute is filed and Rivals.com is forced to defend its right to release personal information, you agree that Rivals.com, upon successfully defending this right, shall be entitled to obtain its costs of defense, including attorneys fees.
