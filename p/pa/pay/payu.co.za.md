@@ -1,13 +1,10 @@
-> *The following text is extracted and transformed from the payu.co.za privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204055347id_/http%3A//www.payu.co.za/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payu.co.za privacy policy that was archived on 2006-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060506050842id_/http%3A//www.payu.co.za/Privacy.htm) for the most accurate reproduction.*
 
-# Pay As You Use Internet
+# PAYU Privacy Policy *
 
-  
+PAYU Privacy Policy 
 
-
-**PAYU Privacy Policy**
-
-* "Sunday Times/SafikaTel/Internet Solutions" respects your privacy and is committed to protecting it. 
+* "The operator/SafikaTel/Internet Solutions" respects your privacy and is committed to protecting it. 
 
 * We recognize your need for appropriate protection and management of personally identifiable information you may share with us (any information by which you can be identified, such as name, address, and telephone number).
 
@@ -25,4 +22,6 @@
 
 * In all other cases, the only information we will ever disclose to third parties (e.g.: advertisers) is aggregate information about our users. 
 
-* Aggregate information will never identify you. It only identifies the user population in general terms. We are not responsible for the privacy practices or the content of sites linking out of the "Sunday Times/Safikatel/Internet Solutions" network. 
+* Aggregate information will never identify you. It only identifies the user population in general terms. We are not responsible for the privacy practices or the content of sites linking out of the "The operator/Safikatel/Internet Solutions" network.
+
+ **Connect at R1.44 (Incl. VAT) per minute.**
