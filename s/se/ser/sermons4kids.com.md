@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sermons4kids.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225071842id_/http%3A//www.sermons4kids.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sermons4kids.com privacy policy that was archived on 2006-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060507011608id_/http%3A//sermons4kids.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Children's Sermons for Sermon 4 Kids | Object Lessons & Children's Sermons
 
