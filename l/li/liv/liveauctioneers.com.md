@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the liveauctioneers.com privacy policy that was archived on 2005-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050728133916id_/http%3A//www.liveauctioneers.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveauctioneers.com privacy policy that was archived on 2006-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060506224310id_/http%3A//liveauctioneers.com/privacy.html) for the most accurate reproduction.*
 
-# LiveAuctioneers - AuctionLIVE auction software
+# Privacy Policy - Liveauctioneers
 
 **LIVE AUCTIONEERS PRIVACY POLICY**
 
