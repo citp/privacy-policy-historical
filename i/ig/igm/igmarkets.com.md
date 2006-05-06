@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igmarkets.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221063102id_/http%3A//www.igmarkets.com/content/privacy_notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igmarkets.com privacy policy that was archived on 2006-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060506150501id_/http%3A//www.igmarkets.com/content/sites/igm/en_GB/privacy_notice.html) for the most accurate reproduction.*
 
 # IG Markets - Privacy Notice
 
@@ -119,10 +119,4 @@ This website may have links to external third party websites that may benefit th
 ### Any Questions?
 
 Freephone **0800 195 6300** or call **+44 (0)20 7633 5555**  
-Please see [contact](https://web.archive.org/content/contact.html) page for support/trading lines
-
-[
-
-### Live Chat
-
-](https://web.archive.org/livechat/interim.jsp?workgroup=demo&webSiteId=igm)
+Please see [contact](https://web.archive.org/content/sites/igm/en_GB/contact.html) page for support/trading lines
