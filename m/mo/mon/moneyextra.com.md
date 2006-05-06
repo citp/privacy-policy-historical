@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the moneyextra.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217005317id_/http%3A//www.moneyextra.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyextra.com privacy policy that was archived on 2006-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060506180259id_/http%3A//www.moneyextra.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy of your Information - Money extra
 
 Your privacy is very important to us.
 
-Accordingly, we have put in place measures to ensure that any personal information or data that we obtain from you in connection with the Moneyextra website ("Website") is processed in accordance with the accepted principles of good information handling. 
+Accordingly, we have put in place measures to ensure that any personal information or data that we obtain from you in connection with the AWD Moneyextra website ("Website") is processed in accordance with the accepted principles of good information handling.
 
 ### What data do we hold about you?
 
-We hold the personal data provided by you during the voluntary registration process to tailor our service to your specific interests and requirements. We also hold the personal data provided by you in relation to certain services on the Website (such as the Portfolio Manager), so that you do not need to re-enter this data when you next require the service. Clearly, the more complete and accurate the personal data we hold about you, the better our service will be. 
+We hold the personal data provided by you during the voluntary registration process to tailor our service to your specific interests and requirements. We also hold the personal data provided by you in relation to certain services on the Website (such as the Portfolio Manager), so that you do not need to re-enter this data when you next require the service. Clearly, the more complete and accurate the personal data we hold about you, the better our service will be.
 
-We only hold your personal data where you have been issued with a personalised user name and password. These are unique to each registered user. You should take great care of them and keep them safe at all times. 
+We only hold your personal data where you have been issued with a personalised user name and password. These are unique to each registered user. You should take great care of them and keep them safe at all times.
 
 ### Where is your data stored?
 
-Moneyextra is a trading name of Chase de Vere Financial Solutions plc, which is the registered data controller of your personal data for the purposes of the Data Protection Act 1998. 
+AWD Moneyextra is a trading name of AWD Moneyextra Limited, which is the registered data controller of your personal data for the purposes of the Data Protection Act 1998.
 
 All personal data provided by you are held securely and in confidence by us in our computerised records. You have a right to inspect the data we hold about you at any time. If you wish to do so, you should write to our Data Protection Officer whose details are set out below. If anything in the data is inaccurate or out-of-date, let us know and we will amend our records.
 
@@ -22,7 +22,7 @@ All personal data provided by you are held securely and in confidence by us in o
 
 The nature of our service means that from time to time we have to share your personal data with our affiliates who provide the products and services that you request. For instance, if you want to apply for a particular financial product after using the comparison service or simply require more information about it, we will pass your relevant personal data to the product provider in order to fulfil your request.
 
-Occasionally, we may also contact you by phone, e-mail or otherwise to inform you about products and services which may be of interest to you. However, if you prefer to opt out of such direct marketing activity, please either call our Contact Centre on 0845 145 0145 , or let us know by any means convenient for you so that we may remove your personal data from our marketing database. However, please remember that by opting out, we will not be able to contact you about products or services that may benefit you.
+Occasionally, we may also contact you by phone, e-mail or otherwise to inform you about products and services which may be of interest to you. However, if you prefer to opt out of such direct marketing activity, please either call our Advice Centre on 0845 145 0145, or let us know by any means convenient for you so that we may remove your personal data from our marketing database. However, please remember that by opting out, we will not be able to contact you about products or services that may benefit you.
 
 We also extract certain information from your personal data for the purpose of generating statistics for our own internal purposes but it is not possible to identify you from these statistics.
 
@@ -46,7 +46,7 @@ In any e-mail we send, there are instructions that allow you to "unsubscribe" to
 
 ### Telephone Calls
 
-If you call our Contact Centre, calls may be recorded or monitored for training purposes.
+If you call our Advice Centre, calls may be recorded or monitored for training purposes.
 
 ### Transfer of the Website
 
@@ -54,4 +54,4 @@ Notwithstanding anything else that has been agreed or represented (in this Priva
 
 ### Contact details
 
-Our Data Protection Officer can be contacted by writing to Chase de Vere Financial Solutions plc, c/o AWD, 2nd Floor, Poseidon House, Castle Park, Cambridge, CB3 0RD.
+Our Data Protection Office can be contacted by writing to Mr Ian Francis, Compliance Director, AWD Group plc, Enkalon House, 86/92 Regent Rd, Leicester LE1 7DD
