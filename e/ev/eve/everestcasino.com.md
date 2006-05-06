@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the everestcasino.com privacy policy that was archived on 2005-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051124120741id_/http%3A//www.everestcasino.com/policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everestcasino.com privacy policy that was archived on 2006-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060506160349id_/http%3A//everestcasino.com/policies/privacy.html) for the most accurate reproduction.*
 
-# Everest Casino - Online Internet Casino, Game Downloads, Betting, Promotions and Secure Gambling.
+# On-line Casino Everest Casino Privacy Policy
 
 Privacy Policy
 
