@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vfmii.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213203603id_/http%3A//vfmii.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vfmii.com privacy policy that was archived on 2006-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060506224853id_/http%3A//www.vfmii.com/privacy_policy.html) for the most accurate reproduction.*
 
 # VFM Interactive Inc. - Rich Media online Marketing tools for the hotel industry
 
