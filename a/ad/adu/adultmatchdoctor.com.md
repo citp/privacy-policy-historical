@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adultmatchdoctor.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228171726id_/http%3A//www.adultmatchdoctor.com/html/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultmatchdoctor.com privacy policy that was archived on 2006-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060507193210id_/http%3A//www.adultmatchdoctor.com/html/privacy.asp) for the most accurate reproduction.*
 
 # AdultMatchdoctor.com - Privacy Statement
 
@@ -32,4 +32,4 @@ This site gives users the following options for changing and modifying informati
   * LAST OPTION: email [problem@adultmatchdoctor.com](mailto:problem@adultmatchdoctor.com)
 
 **Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can [Contact Us Here](https://web.archive.org/web/20051228171726id_/http%3A//www.adultmatchdoctor.com/html/contact.asp). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can [Contact Us Here](https://web.archive.org/web/20060507193210id_/http%3A//www.adultmatchdoctor.com/html/contact.asp). 
