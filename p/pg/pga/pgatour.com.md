@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pgatour.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229130501id_/http%3A//pgatour.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pgatour.com privacy policy that was archived on 2006-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060507095320id_/http%3A//www.pgatour.com/info/privacy) for the most accurate reproduction.*
 
 # PGATOUR.com - About Us
 
@@ -174,7 +174,6 @@ Return to Top
 
 |   | 
 
-Head-to-Head Fantasy Golf  
-is now on PGATOUR.com  
-Play League Championship   
-[Sign up Now!](http://www.pgatour.com/fantasy/challenge?refcode=pga-s_golflc06_1)
+Get in on the action  
+from the Wachovia Championship. LIVE with TOURNAMENT CENTRAL.   
+[Click here](http://www.pgatour.com/tc/r018/018)
