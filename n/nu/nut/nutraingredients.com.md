@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nutraingredients.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219053803id_/http%3A//www.nutraingredients.com/misc/misc.asp%3Fidmisc%3D12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutraingredients.com privacy policy that was archived on 2006-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060507201411id_/http%3A//www.nutraingredients.com/misc/misc.asp%3Fidmisc%3D12) for the most accurate reproduction.*
 
 # Dietary supplements, Nutraceuticals, Functional foods, Health ingredients, Herbals
 
