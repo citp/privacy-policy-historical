@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jgwentworth.com privacy policy that was archived on 2005-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050311085322id_/http%3A//www.jgwfunding.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jgwentworth.com privacy policy that was archived on 2006-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060507120603id_/http%3A//www.jgwfunding.com/privacy.asp) for the most accurate reproduction.*
 
-# J.G. Wentworth Advanced Funding - Privacy Policy
+# J.G. Wentworth, the leader in the structured settlement industry, protects personal client information.
 
-[Home](https://web.archive.org/web/20050311085322id_/http%3A//www.jgwfunding.com/default.asp) > Privacy **YOUR PRIVACY IS OUR CONCERN**
+[Home](https://web.archive.org/web/20060507120603id_/http%3A//www.jgwfunding.com/default.asp) > Privacy **YOUR PRIVACY IS OUR CONCERN**
 
 We recognize the importance of protecting your personal information. We collect and retain information about you to communicate with you, to process your requests for products and services, and to inform you about other financial services that may be of interest to you. Except as explained here in our Privacy Policy, we do not sell nonpublic personal information about current or former customers, nor do we share this type of information with anyone other than our affiliates. The examples in this Privacy Policy are illustrative only and are not intended to be exclusive.
 
@@ -63,6 +63,6 @@ If you have questions about the information in this notice, please write us:
 > 40 Morris Ave.  
 > Bryn Mawr, PA 19010
 
-If you have any further questions, please visit our website at [www.jgwfunding.com](http://www.jgwfunding.com/), write to the address listed above, or call us at 800-386-9102.
+If you have any further questions, please visit our website at [www.jgwfunding.com](http://www.jgwfunding.com/), write to the address listed above, or call us at 866-386-3102.
 
 This policy is effective November 22, 2004.
