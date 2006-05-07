@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mylaps.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214230621id_/http%3A//www.amb-it.com/modules/%3Fname%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylaps.com privacy policy that was archived on 2006-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060508012229id_/http%3A//www.amb-it.com/modules/%3Fname%3DPrivacy) for the most accurate reproduction.*
 
 # Race Timing and Scoring Systems by AMB Identification & Timing
 
