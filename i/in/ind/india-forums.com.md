@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the india-forums.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229130723id_/http%3A//www.india-forums.com/mailing_list/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the india-forums.com privacy policy that was archived on 2006-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060507044355id_/http%3A//india-forums.com/mailing_list/privacy.asp) for the most accurate reproduction.*
 
 # Mailing List: Privacy Statement
 
@@ -32,4 +32,4 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 If you have any additional questions about our site' dedication to consumer privacy, please [contact us](https://web.archive.org/contactus.asp). 
 
-If you would like to Create, Edit, or Close a Mailing List account with India Forums then [click here](https://web.archive.org/web/20051229130723id_/http%3A//www.india-forums.com/mailing_list/default.asp). 
+If you would like to Create, Edit, or Close a Mailing List account with India Forums then [click here](https://web.archive.org/web/20060507044355id_/http%3A//india-forums.com/mailing_list/default.asp). 
