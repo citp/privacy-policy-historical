@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xmradio.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219093330id_/http%3A//xmradio.com/privacy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xmradio.com privacy policy that was archived on 2006-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060507183738id_/http%3A//xmradio.com/privacy/privacy_policy.html) for the most accurate reproduction.*
 
 # XM Radio - Privacy Policy
 
@@ -55,6 +55,9 @@ We do not knowingly collect, maintain, or sell products or services for purchase
 
 **HOW SECURE IS THE WEBSITE?**  
 Our website is highly secure, with extra security in place to protect personally identifiable information. We use a varied combination of security measures to safeguard the confidentiality of the personally identifiable information you provide us when you purchase or use our Products and Services. 
+
+**DO WE USE TRACKING ON OUR WEBSITE?**  
+Our website uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of these technologies, go to <http://www.doubleclick.net/us/corporate/privacy>. 
 
 **HOW DO YOU KNOW WHETHER THE PRIVACY POLICY HAS CHANGED?**  
 We may change this privacy policy at any time without notice. We will post any changes on our website's privacy policy page so that you will always know what type of information we collect and how we use the information. 
