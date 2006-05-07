@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doityourself.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211183652id_/http%3A//cs.doityourself.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doityourself.com privacy policy that was archived on 2006-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060507100137id_/http%3A//cs.doityourself.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # DoItYourself.com Privacy Statement
 
@@ -78,4 +78,5 @@ Finally, although DoItYourself.com Inc. and its warehouse affiliate DoItYourself
 
 We may amend this Privacy Policy on a prospective basis (i.e., for future visits) at any time by posting a revised policy on our Web site. Further, nothing in this Privacy Policy is designed to protect the privacy of visitors whose use of the Company's Website is, in our opinion, or that of our attorneys or affiliates is intended for illegal, improper or abusive purposes, for purposes of marketing or solicitation, or would violate any other terms and conditions relating to use of the Web site. 
 
-This Privacy Statement is effective September 19, 2001 and has been updated on July 25, 2005.
+This Privacy Statement is effective September 19, 2001 and has been updated on July 25, 2005.   
+ 
