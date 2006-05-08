@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faithclipart.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231063711id_/http%3A//faithclipart.com/fca/privacyPolicy/view.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faithclipart.com privacy policy that was archived on 2006-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060508214143id_/http%3A//faithclipart.com/fca/privacyPolicy/view.do) for the most accurate reproduction.*
 
 # FaithClipart.com: Royalty-Free Christian Clipart and Church Art
 
