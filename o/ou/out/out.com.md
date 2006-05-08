@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the out.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219051443id_/http%3A//www.out.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the out.com privacy policy that was archived on 2006-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060508141707id_/http%3A//www.out.com/privacy.asp) for the most accurate reproduction.*
 
 # Out.com Web Site Privacy Policy
 
@@ -52,8 +52,8 @@ You can manage your print subscription account information at:
 For all other print subscription concerns, please contact us by clicking here (<http://www.lpimagazines.com/out/cs.aspx>), by calling (800) 792-2760, or by writing to us at:
 
 Out  
-P.O. Box 311  
-Newburgh, NY 12551-9922
+P.O. Box 424  
+Montvale, NJ 07465
 
 **Cookies**
 
