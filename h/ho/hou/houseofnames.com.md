@@ -1,26 +1,28 @@
-> *The following text is extracted and transformed from the houseofnames.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206054652id_/http%3A//www.houseofnames.com/xq/asp/sId./kbId.178/title.Privacy%2BStatement/qx/knowledgebase.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houseofnames.com privacy policy that was archived on 2006-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060508113056id_/http%3A//www.houseofnames.com/xq/asp/sId./kbId.178/title.Privacy%2BStatement/qx/knowledgebase.htm) for the most accurate reproduction.*
 
 # Privacy Statement - Knowledge Base, HouseofNames.com
 
 ## Privacy Statement
 
   
-Last Update: November, 03, 2004, 09:30 
+
+
+Last Updated on 2006/01/17
 
 Swyrich Corporation, the parent company of Houseofnames.com, has created this privacy statement in order to demonstrate our strong commitment to protecting your privacy. This statement discloses how we collect and disseminate information. 
 
-[](https://www.truste.org/ivalidate.php?url=www.houseofnames.com)Swyrich Corporation is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site www.houseofnames.com. Because we want to demonstrate our commitment to our users' privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe. 
+[](http://www.truste.org/ivalidate.php?url=www.houseofnames.com&sealid=101)Swyrich Corporation is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site www.houseofnames.com. Because we want to demonstrate our commitment to our users' privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe. 
 
-If users have questions or concerns regarding this statement, you should first contact privacy@swyrich.com . If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process (http://www.truste.org/watchdog.html). TRUSTe will serve as a liaison with the Web site to resolve users concerns. 
+If users have questions or concerns regarding this statement, you can contact Privacy Enforcement via [Email](mailto:privacy@swyrich.com?Subject=Privacy%20Enforcement). If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process [(http://www.truste.org/consumers/watchdog_complaint.php)](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will serve as a liaison with the Web site to resolve users concerns. 
 
 ## Contact Information
 
 Houseofnames.com welcomes your comments regarding this privacy statement; please contact us by one of the following means (Phone contact hours are Mon-Thur, 9-4; Fri, 9-2; EST). 
 
-  * Toll Free: 888-468-7686 
-  * Phone: 613-384-9986 
+  * Toll Free: 888-468-7686 x226 
+  * Phone: 613-384-9986 x226 
   * Fax: 613-384-0606 
-  * [email](mailto:privacy@swyrich.com?Subject=Privacy%20Questions) (Note: email is a non-confidential means of communication) 
+  * [E-mail](mailto:privacy@swyrich.com?Subject=Privacy%20Questions) (Note: E-mail is a non-confidential means of communication) 
   * Postal Mail, addressed to   
 House Of Names Privacy   
 Swyrich Corporation   
@@ -35,15 +37,17 @@ Kingston, ON, Canada, K7M 5V7
 
 If you are a user of our site, but do not place an order or do not use our contact-us, order, or affiliate program forms, we 
 
-  * **do not collect** any personal information about you 
-  * **do track** Windows IIS Server Data/http data (such as IP address, browser type, referring web site address, domain name, access times, and which pages were accessed on the site) 
+  * do not collect any personal information about you 
+  * do track Windows IIS Server Data/http data (such as IP address, browser type, referring web site address, domain name, access times, and which pages were accessed on the site) 
 
-This log data is collected in our server logs, so as to help diagnose problems with our Web server, to monitor certain aspects of web queries, analyze trends, and to administer our Web site. This collected information is **not linked** to any personal information that you may provide when contacting us, or ordering from us. 
+
+
+This log data is collected in our server logs, so as to help diagnose problems with our Web server, to monitor certain aspects of web queries, analyze trends, and to administer our Web site. This collected information is not linked to any personal information that you may provide when contacting us, or ordering from us. 
 
 If you contact us via email, we require as a minimum 
 
   * your name 
-  * email address 
+  * E-mail address 
 
 so that we may contact you; additional, opt-in, information may be given so as to describe you request. 
 
@@ -52,38 +56,40 @@ so that we may contact you; additional, opt-in, information may be given so as t
 If you place an order through our secure on-line form, or over the phone, we request your 
 
   * name 
-  * telephone number (optional on email orders) 
+  * telephone number (optional on E-mail orders) 
   * billing address 
   * shipping address, if different from billing address 
   * payment information 
-  * email address (optional on phone orders) 
+  * E-mail address (optional on phone orders) 
   * a password of your making, to allow you to track orders on-line (optional) 
   * an opt-out selection for future email newsletter distribution 
 
 
 
-US customers: Orders requiring importation into the US that also total $200 USD or more, must contain **a tracking number** , either an Employer Identification Number (also referred to as a Tax Id) or a Social Security Number (SSN). This requirement started October 1, 2004, and was made by US Customs and Border Protection, as a result of the **Dept. of Homeland Security's initiative** to improve security at the US border. 
+US customers: Orders requiring importation into the US that also total $200 USD or more, must contain a tracking number, either an Employer Identification Number (also referred to as a Tax Id) or a Social Security Number (SSN). This requirement started October 1, 2004, and was made by US Customs and Border Protection, as a result of the Dept. of Homeland Security's initiative to improve security at the US border. 
 
-This requirement **does not apply to purchases that are either downloaded over the Internet, do not require importation, or are importation orders totaling less than $200 USD**. The tracking number must belong to the ultimate consignee of the party receiving any portion of the shipment. For further information on US security policies and requirements, please visit the US Customs and Border Protection [web site](http://www.cbp.gov/). 
+This requirement does not apply to purchases that are either downloaded over the Internet, do not require importation, or are importation orders totaling less than $200 USD. The tracking number must belong to the ultimate consignee of the party receiving any portion of the shipment. For further information on US security policies and requirements, please visit the US Customs and Border Protection [web site](http://www.cbp.gov/). 
 
 As House Of Names customers are general consumers who do not normally have a Tax Id, we have elected to request the consignee's SSN number on the on-line purchase order form, when applicable. 
 
-**This number is provided to US Customs in electronic form** , and printed on a hard copy of the invoice shipped with the product (if necessary). House Of Names will, in those cases where it must collect it, treat the customer's SSN identification with the same respect as any of his or her's other personal information, and in particular with the same security as given credit card numbers; that is, the SSN will be recorded only for shipping requirement purposes, and is retained as per our Privacy, Security, and Information Retention policy, as documented further on this page. 
+This number is provided to US Customs in electronic form, and printed on a hard copy of the invoice shipped with the product (if necessary). House Of Names will, in those cases where it must collect it, treat the customer's SSN identification with the same respect as any other personal information, and in particular with the same security as given credit card numbers; that is, the SSN will be recorded only for shipping requirement purposes, and is retained as per our Privacy, Security, and Information Retention policy, as documented further on this page. 
 
-If you have concerns regarding this policy, contact House of Names via [email](mailto:privacy@swyrich.com?Subject=SSN%20Privacy%20Questions), or if you have immediate concerns regarding ordering and shipping, or if you wish to make a personal statement to House Of Names regarding such, call us toll free: 888-468-7686 xt 222. 
+If you have concerns regarding this policy, contact House of Names via [E-mail](mailto:privacy@swyrich.com?Subject=SSN%20Privacy%20Questions), or if you have immediate concerns regarding ordering and shipping, or if you wish to make a personal statement to House Of Names regarding such, call us toll free: 888-468-7686 (or 613-384-9986) x226. 
 
 ### When joining the Affiliate Program:
 
 If you sign-up to our Affiliate Program, we require your 
 
   * name 
-  * email address 
+  * E-mail address 
   * phone number 
-  * a password that you determine, to allow you to login to our site to get your affiliate statistics 
+  * a password that you determine 
   * web site address 
   * description of the site 
 
 
+
+The password allows you to login to our site to get yout affiliate statistics. 
 
 ### Other:
 
@@ -93,7 +99,7 @@ Houseofnames.com does not collect any demographic information.
 
 ## Third Party Personally Identifiable Information
 
-A visitor to our site may wish to use the "Email To A Friend" service that exists on some pages of the web site. The user must provide 'From' and 'To' email addresses in order to use this feature. The friend only receives a one-time invite. Those email addresses are not collected by the site, and are not linked to any other data.
+A visitor to our site may wish to use the "Email To A Friend" service that exists on surname search result pages (see the envelope icon near the top right hand side of the page). The user must provide 'From' and 'To' E-mail addresses in order to use this feature. The friend only receives a one-time invite. Those E-mail addresses are not collected by the site, and are not linked to any other data.
 
 ## Information Usage
 
@@ -102,24 +108,30 @@ If you provide us personal information we use it to
   * clarify details of orders 
   * send order confirmations 
   * reply to your questions 
-  * deliver purchased product to you; third party intermediary delivery services (Fed Ex, for example) will be given your name and shipping address 
-  * charge you the cost of goods; secure third party intermediary credit card processing services are used 
+  * deliver purchased product to you 
+  * charge you the cost of goods 
   * deliver a newsletter and special offerings to you, if you opt-in 
   * allow you secure access to limited-entry area of the site for order tracking, if you opt-in 
 
 
 
-Personal information may be disclosed, in good-faith and if necessary, to 
+Note: Third Party intermediary services are used: 
 
-  * conform to the edicts of law or comply with legal processes served on Swyrich Corporation and its site 
-  * protect and defend the rights or property of Swyrich Corporation and its site 
-  * act in urgent circumstances to protect the personal safety of Swyrich Corporation employees, users of products or services, or members 
+  * Agents: 
+
+We use outside shipping companies to fulfill orders, and credit card processing companies to bill you for goods and services. These companies do not retain, share or use personally identifiable information for any other purposes. 
+
+  * Service Providers:   
+We do not use third parties to provide services on our site.   
 
 
+
+
+We reserve the right to disclose your personal identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our site. 
 
 ## Information Retention
 
-Personal information is retained in a secure data base. The personal information is retained indefinitely except for credit card details. Credit card details are retained for a period of 90 days, after which the details are deleted. Credit card information contained on backups of our data base are destroyed within 120 days.
+Personal information is retained in a secure data base. The personal information is retained indefinitely except for credit card details. Credit card data are retained for 90 days.
 
 Cookies that are placed on the customer's machine are retained for 100 days.
 
@@ -127,7 +139,7 @@ Cookies that are placed on the customer's machine are retained for 100 days.
 
 You can control your personal information by sending Houseofnames.com a request via postal mail (as other means are less secure). If we validate that you are the owner of the data, the information may be updated, or deleted. 
 
-If you wish to opt-out of email notifications, you can be removed from the mailing list at any time by sending us an email request, or by using the opt-out link provided in the newsletter.
+If you wish to opt-out of email notifications, you can be removed from the mailing list at any time by sending us an E-mail request, or by using the opt-out link provided in the newsletter.
 
 We will not sell, give, share, or trade your personal information with any company that is not part of Swyrich Corporation, except as disclosed in this statement. Within the Swyrich Corporation information is used for the limited purposes stated here-in. Personal information will only be used for the stated purposes. We also do not allow other companies to offer our customer's products or services, unless you opt-in to receive such notifications (such practice is currently not supported by Houseofnames.com).
 
@@ -135,24 +147,24 @@ We will not sell, give, share, or trade your personal information with any compa
 
 We provide you with the means to access the following: 
 
-  * status of your order by on-line log-in, fax, or phone (for on-line access, you must provide an email address and password during the order process) 
+  * status of your order by on-line log-in, fax, or phone (for on-line access, you must provide an E-mail address and password during the order process) 
   * your personal information, as stated, and restricted, in **Information Control** sub-section, less the credit card details 
 
 
 
-You can request access to your information, less credit card details, by contacting our Custom Service Representative via telephone. 
+You can request access to your information, less credit card details, by contacting our Custom Service Representative via telephone toll free: 888-468-7686 (or 613-384-9986) x226. 
 
-Employees of Swyrich Corporation do not have access to your personal information, except at the time of order processing, or by the Data Base Adminstrator via secure password access. Admin access would be necessary to address data base maintenance issues, only.
+Employees of Swyrich Corporation do not have access to your personal information, except at the time of order processing, or by the Data Base Administrator via secure password access. Admin access would be necessary to address data base maintenance issues, only.
 
 ## Information Security
 
 We are committed to protecting the security of your personal information from loss, misuse or alteration. We use security technology and procedures to protect information from unauthorized access, use or disclosure. We store information on a global secure server, with limited access, that is located in controlled facilities. When personal information is transmitted, such as a credit card number, we protect it through the use of 128 bit SSL encryption.
 
-Houseofnames.com internet security is auditted daily by way of a third party [security service](http://www.scanalert.com/RatingVerify?ref=www.houseofnames.com). Our [security policy](http://www.houseofnames.com/xq/asp/sId./kbId.181/title.Security+Certificates/qx/knowledgebase.htm) and procedures are reviewed monthly, and employees are made aware of security policies and procedures.
+Houseofnames.com Internet security is audited daily by way of a third party [security service](http://www.scanalert.com/RatingVerify?ref=www.houseofnames.com). Our [security policy](http://www.houseofnames.com/xq/asp/sId./kbId.181/title.Security+Certificates/qx/knowledgebase.htm) and procedures are reviewed monthly, and employees are made aware of security policies and procedures.
 
 ## Information Protection for Children
 
-Houseofnames.com is a general audience site, and is not directed at childeren. We do not knowlingly collect any personal information from children. We rate the site as child-safe.
+Houseofnames.com is a general audience site, and is not directed at children. We do not knowingly collect any personal information from children. We rate the site as child-safe.
 
 ## Cookies
 
@@ -166,6 +178,8 @@ When you visit the site, a cookie is placed on your PC, if the customer's browse
 The cookie is retained for a period as described in **Information Retention** sub-section. If you disable cookies, you will be able to view the content of the web site, but you will not be able to place orders.
 
 Cookies are not linked to your personal information.
+
+No Web Beacons, or similar devices, are used on the site. 
 
 ## External Links
 
@@ -189,9 +203,9 @@ Houseofnames.com is certified by, subscribes to, and or follows the recommendati
 
 ## Enforcement
 
-If you have questions regarding this statement, you should first contact Swyrich Corporation by [email](mailto:privacy@swyrich.com?Subject=Privacy%20Enforcement), phone, fax, and or postal mail; an acknowledgement reply is normally set immediately, but please allow 2 business days for a reply to your specific inquiry. If you do not receive acknowledgement of your inquiry, or your inquiry has not been satisfactorily addressed not later then 30 days after it was made, you may log a complaint with one of the following: 
+If you have questions regarding this statement, you should first contact Swyrich Corporation by [Email](mailto:privacy@swyrich.com?Subject=Privacy%20Enforcement), phone, fax, and or postal mail; an acknowledgement reply is normally set immediately, but please allow 2 business days for a reply to your specific inquiry. If you do not receive acknowledgement of your inquiry, or your inquiry has not been satisfactorily addressed not later then 30 days after it was made, you may log a complaint with one of the following: 
 
-  * TRUSTe (Privacy Oversight) 
+  * [TRUSTe (Privacy Oversight)](http://www.truste.org/consumers/watchdog_complaint.php)
   * [BBB](http://www.bbbonline.org/consumer/complaint.asp)
   * [Privacy Commission of Canada](http://www.privcom.gc.ca/)
 
@@ -201,4 +215,4 @@ Swyrich Corporation enforces this privacy statement within the coporation.
 
 ## Change Control
 
-This privacy statement will occasionally be updated. When updated, the 'last updated' date at the top of this page will be modified. For significant changes to this statement, Houseofnames.com will place a prominent notice on the web site for 30 days.
+If we decide to change our policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage. 
