@@ -1,72 +1,32 @@
-> *The following text is extracted and transformed from the bannernow.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405191630id_/http%3A//bannernow.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bannernow.com privacy policy that was archived on 2006-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060508161316id_/http%3A//bannernow.com/privacy-policy.html) for the most accurate reproduction.*
 
-# NetTraction.com™ :: Privacy Policy
+# Privacy Policy
 
-  
-
-
-Useful Resources
-
-  
-[](https://web.archive.org/web/20050405191630id_/http%3A//bannernow.com/opt-in.php?interest=Affiliate%20Recruitment%20Mini%20Course)  
-  
-[](https://web.archive.org/web/20050405191630id_/http%3A//bannernow.com/opt-in.php?interest=Affiliate%20Management%20Mini%20Course)  
-  
-[](https://web.archive.org/web/20050405191630id_/http%3A//bannernow.com/opt-in.php?interest=Affiliate%20Management%20Tips%20and%20Tricks)  
-  
-[](https://web.archive.org/web/20050405191630id_/http%3A//bannernow.com/opt-in.php?interest=Affiliate%20Management%20Resources)  
-  
-[](https://web.archive.org/web/20050405191630id_/http%3A//bannernow.com/opt-in.php?interest=Industry%20Events%20Newsletter)
-
-As Seen in
-
-  
-[](http://hits.affiliatetraction.com/cgi-bin/redir?pd_link=i1-a2790-o1577-c1690)
-
-Get your subscription to  
-Revenue Magazine, the  
-performance marketing  
-standard, [Click Here](http://hits.affiliatetraction.com/cgi-bin/redir?pd_link=i1-a2790-o1577-c1690)
-
-Special Offer
-
-  
-[](https://web.archive.org/web/20050405191630id_/http%3A//bannernow.com/opt-in.php?interest=Tracking%20Software%20Prize) |  |    
-[Home](https://web.archive.org/web/20050405191630id_/http%3A//bannernow.com/) |    
-[Top Programs](http://www.gotrevenue.com/) |    
-[About Us](https://web.archive.org/web/20050405191630id_/http%3A//bannernow.com/about-us.php) |    
-[Affiliates](http://nettraction.affiliatetraction.com/) |    
-[Contact Us](https://web.archive.org/web/20050405191630id_/http%3A//bannernow.com/contact.php)  
----|---|---|---|---  
-  
-### Privacy Policy
-
-NetTraction.com™ takes your privacy seriously. Our privacy policy covers our treatment of personally identifiable information given or collected when you are on the site i.e. email address, name etc. We will not sell or rent your personally identifiable information to anyone. This policy does not apply to the practices of companies that we do not own or control, or to people that we do not employ or manage.
+ConversionByDesign.com™ takes your privacy seriously. Our privacy policy covers our treatment of personally identifiable information given or collected when you are on the site i.e. email address, name etc. We will not sell or rent your personally identifiable information to anyone. This policy does not apply to the practices of companies that we do not own or control, or to people that we do not employ or manage.
 
 Because we wish to keep the privilege of contacting you, our privacy policy guarantees that we will not sell or give your email address to anyone; your contact information is kept confidential.
 
-### Customer Information Privacy Policy
-
-**Our commitment to you**  
-We want to make your online experience satisfying and safe. Our data collection policy goal is to provide you with a robust online experience. We collect information online primarily to make it easier and more rewarding for you to use our services. Depending on the service you are accessing, you could be asked at various times to provide information such as your name, or email address. On other occasions such as when we provide services for purchases online, we may request your credit card number to conclude the transaction, or your mailing address to ensure proper delivery. We request this information to be of greatest value to you.
-
-**How the information is used**  
-Our services have been designed to enable us to provide information to those customers who wish to receive it.
-
-**Below is a description of the uses of information we collect and how our visitors benefit from this action:**
-
-  * We provide information to customers who are short on time and wish to receive pertinent information regarding our products.
-  * We provide a service that allows our customers to share the great news regarding our products to friends and family.
-  * We provide a newsletter that is sent out periodically for customers who wish to receive our product information, coupons, discounts, and other information.
-  * Sporadically customers will qualify to win free products, service discounts, coupons, and news.
-  * We provide special rate programs.
+**Customer Information Privacy Policy**
 
   
-**What choices are available to you regarding collection, and use of the information?**  
-We do offer you the ability to control the email communications we make to you. It is our intention to give you as much control over our relationship as possible. You may cancel email communications at any time. As stated above, we wish to keep the privilege of contacting you. Our privacy policy guarantees that we will not sell or give your email address to anyone; your contact information is kept confidential.  
-
-
+**Our Commitment To You** We want to make your online experience satisfying and safe. Our data collection policy goal is to provide you with a robust online experience. We collect information online primarily to make it easier and more rewarding for you to use our services. Depending on the service you are accessing, you could be asked at various times to provide information such as your name, or email address. On other occasions such as when we provide services for purchases online, we may request your credit card number to conclude the transaction, or your mailing address to ensure proper delivery. We request this information to be of greatest value to you.  
   
-|    
-|    
+**How the Information is Used** Our services have been designed to enable us to provide information to those customers who wish to receive it.   
+**  
+Below is a description of the uses of information we collect and how our visitors benefit from this action:**
 
+**\- We provide information to customers who are short on time and wish to receive pertinent information regarding our products.
+
+\- We provide a service that allows our customers to share the great news regarding our products to friends and family.
+
+\- We provide a newsletter that is sent out periodically for customers who wish to receive our product information, coupons, discounts, and other information.
+
+\- Sporadically customers will qualify to win free products, service discounts, coupons, and news.
+
+\- We provide special rate programs.
+
+**
+
+**What Choices are Available to You Regarding Collection, and Use of the Information?**
+
+We do offer you the ability to control the email communications we make to you. It is our intention to give you as much control over our relationship as possible. You may cancel email communications at any time by simply sending an email to optout1@conversionbydesign.com. As stated above, we wish to keep the privilege of contacting you. Our privacy policy guarantees that we will not sell or give your email address to anyone; your contact information is kept confidential. 
