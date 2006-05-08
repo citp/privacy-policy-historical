@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asos.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218183947id_/http%3A//www.asos.com/infopages/pgeprivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asos.com privacy policy that was archived on 2006-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060508042234id_/http%3A//www.asos.com/infopages/pgeprivacy.aspx) for the most accurate reproduction.*
 
 # ASOS Privacy | Designer Clothes | Womens Clothing | Womens Fashion
 
