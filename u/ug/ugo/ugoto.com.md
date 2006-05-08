@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ugoto.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212151546id_/http%3A//www.ugoto.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ugoto.com privacy policy that was archived on 2006-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060508185921id_/http%3A//www.ugoto.com/privacy) for the most accurate reproduction.*
 
 # uGoto.com: Funny Videos, Flash Games, Cartoons, Jokes, Humor, Links, News
 
