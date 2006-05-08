@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the americanbanker.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216231331id_/http%3A//www.americanbanker.com/pagedisplay.html%3Fpagename%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanbanker.com privacy policy that was archived on 2006-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060508063108id_/http%3A//www.americanbanker.com/pagedisplay.html%3Fpagename%3Dprivacypolicy) for the most accurate reproduction.*
 
 # American Banker Online - Privacy Policy
+
+| 
 
 At **American Banker Online** , we have gone to great lengths to implement fair information practices that are designed to protect your privacy. We believe that everyone benefits from the free flow of information and pledge to gather and use information about you responsibly. We welcome visitors to our site, and we want to make sure that you are comfortable. So before you explore any further, we want you to know about a few ways in which we ensure that doing business on the net is a pleasurable and profitable experience for everyone.
 
