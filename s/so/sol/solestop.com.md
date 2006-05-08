@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the solestop.com privacy policy that was archived on 2005-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051201005454id_/http%3A//solestop.com/phpcode/web/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solestop.com privacy policy that was archived on 2006-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060508083531id_/http%3A//solestop.com/phpcode/web/privacy.php) for the most accurate reproduction.*
 
-# Solestop! Buy Brand Name Shoes Online!
+# Solestop.com! Buy Brand Name Shoes Online!
 
 We do require certain personal information and shipping address information for the processing of orders. Solestop.com respects your privacy. Solestop.com does not sell, rent or loan any personal information that is identifiable to any unrelated third parties. Any personal information given to us will be held with the utmost care and security and will not be used in ways to which you have not consented. 
 
