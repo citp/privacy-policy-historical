@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the houseofnames.com privacy policy that was archived on 2005-02-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050206054652id_/http%3A//www.houseofnames.com/xq/asp/sId./kbId.178/title.Privacy%2BStatement/qx/knowledgebase.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the houseofnames.com privacy policy that was archived on 2006-05-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060508113056id_/http%3A//www.houseofnames.com/xq/asp/sId./kbId.178/title.Privacy%2BStatement/qx/knowledgebase.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<title>Privacy Statement - Knowledge Base, HouseofNames.com</title>
@@ -12,53 +12,63 @@
    <link type="text/css" rel="stylesheet" href="/css/honPrint.css" media="print">
    <link type="text/css" rel="stylesheet" href="/css/honKnowledgeBase.css" media="all">
 	<link rel="shortcut icon" href="/hon.ico">
-	<script type="text/javascript" src="/js/honGeneral.js"></script>
+	<script type="text/javascript" src="/js/hGeneral.js"></script>
 	<script type="text/javascript" src="/js/honEmailFriend.js"></script>
 </head>
-<body>
+<body oncontextmenu="return false;" oncopy="return false;">
 
 <div id="container">
 <table width="100%" cellpadding="0" cellspacing="0">
 <tbody><tr><td>
 
-<div id="printHeader"><img src="/i/printHeader.png" alt="House of Names"></div>
+<div id="printHeader"><img src="/i/printHeader.gif" alt="House of Names"></div>
 
 <div id="header">
 	<div id="hdLeft">
-		<div id="hdImage"><a name="top"><img src="/i/header3.jpg" width="296" height="89" alt="HouseOfNames.com"></a></div>
+		<div id="hdImage"><a name="top"><img src="/i/hdr.jpg" width="296" height="89" alt="HouseOfNames.com"></a></div>
 		<div id="hdNavBorder">&nbsp;</div>		
 	</div>
 	<div id="hdCenter">
 		<div id="hdAdvertisement">	
-				
-<script type="text/vbscript">
+			
+<script type="text/javascript">
 <!--
-	//check for flash 7
-	//script for IE on WIN32
-	
-	on error resume next
-	
-	dim checkForFlash7
-	checkForFlash7 = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.7")))
-	if checkForFlash7 = true then
-		document.write ("<object type=""application/x-shockwave-flash"" data=""/flash/advertising/banner/coreb.swf?fileName=/flash/advertising/banner/Shipping.swf&bgMovieName=/flash/advertising/banner/themes/Valentines.swf"" width=""468"" height=""60"">				<param name=""movie"" value=""/flash/advertising/banner/coreb.swf?fileName=/flash/advertising/banner/Shipping.swf&bgMovieName=/flash/advertising/banner/themes/Valentines.swf""/>				<param name=""quality"" value=""high"" /><img src=""/i/spacer.gif"" border=""0"" alt="""">			</object>")
-	else //Satisfaction guaranteed image if no flash detected
-		document.write ("<img src=""/i/ad3.gif"" alt=""Satisfaction Guaranteed"" width=""468"" height=""57"">")
-	end if
+var agt=navigator.userAgent.toLowerCase();
+var ie  = (agt.indexOf("msie") != -1);
+var ns  = (navigator.appName.indexOf("Netscape") != -1);
+var win = ((agt.indexOf("win")!=-1) || (agt.indexOf("32bit")!=-1));
+if (ie && win) {pluginlist =  detectIE("ShockwaveFlash.ShockwaveFlash.7","Shockwave Flash");}
+if (ns || !win) {
+		nse = ""; for (var i=0;i<navigator.mimeTypes.length;i++) nse += navigator.mimeTypes[i].type.toLowerCase();
+		pluginlist = detectNS("application/x-shockwave-flash","Shockwave Flash");
+}
+function detectIE(ClassID,name) { result = false; document.write('<SCR' + 'IPT type="' + 'text/vbscript' + '">\n on error resume next \n result = IsObject(CreateObject("' + ClassID + '"))</SCR' + 'IPT>\n'); if (result) return name+','; else return ''; }
+function detectNS(ClassID,name) { n = ""; if (nse.indexOf(ClassID) != -1) if (navigator.mimeTypes[ClassID].enabledPlugin != null) n = name+","; return n; }
+
+if (pluginlist.length > 0) pluginlist = pluginlist.substring(0,pluginlist.length-1);
+
+//check for flash 7
+if (pluginlist.indexOf("Flash")!=-1){
+		quote = String.fromCharCode(34);
+		document.write ("<object type=" + quote + "application/x-shockwave-flash" + quote + " data=" + quote + "/flash/advertising/banner/coreb.swf?fileName=/flash/advertising/banner/freeShipping.swf&bgMovieName=/flash/advertising/banner/themes/Mothers.swf" + quote + " width=" + quote + "468" + quote + " height=" + quote + "60" + quote + ">				<param name=" + quote + "movie" + quote + " value=" + quote + "/flash/advertising/banner/coreb.swf?fileName=/flash/advertising/banner/freeShipping.swf&bgMovieName=/flash/advertising/banner/themes/Mothers.swf" + quote + "/>				<param name=" + quote + "quality" + quote + " value=" + quote + "high" + quote + " /><img src=" + quote + "/i/spacer.gif" + quote + " border=" + quote + "0" + quote + " alt=" + quote + "" + quote + ">			</object>");		
+}else{
+	document.write ("<img src='/i/ad3.gif' alt='Satisfaction Guaranteed' width='468' height='57'>");
+}
 -->
-</script>
-
-
-
-		
+</script><img src="/i/ad3.gif" alt="Satisfaction Guaranteed" width="468" height="57">		
 		</div>
 	</div>
 </div>
+<div style="position:absolute;width:200px;height:16px;top:59px;left:67px; font: normal 14px Times New Roman;font-weight: bold;">Satisfaction Guaranteed</div>
 
 	
 
-<div id="main">
+<div style="width:auto;height:auto;margin: 15px 15px 5px 15px;">
 
+	<script type="text/javascript">	
+	endVar=220;//make scroll to end of screen seeing don't have right panel
+	</script>
+		
 	
 	<div style="float: right; margin: 0px;">
 			<form id="frmEmailLetter" style="margin: 0px;" action="/knowledgebase.asp" method="get">
@@ -92,16 +102,22 @@
 <!-- Updated 14-Sep-2004 09:20 Tweak the US Customs rqmt notice -->
 <!-- Updated 15-Sep-2004 15:59 Tweak the US Customs rqmt notice: Applies to orders $200 USD and up -->
 <!-- Updated 03-Nov-2004 09:30 Move SSN notification from top of page to appropriate position -->
+<!-- Updated 21-Mar-2005 11:45 Review for Truste renewal. -->
+<!-- Updated 29-Mar-2005 09:14 Fix Click to Verify link url -->
+<!-- Updated 21-Jun-2005 12:29 Chg credit card holding policy from 90 days to delete asap. -->
+<!-- Updated 17-Jan-2006 02:12 Chg credit card holding policy back to 90 days. -->
 <!-- -->
-<!-- Last Trustee Review 10-Mar-2004 14:45  -->
+<!-- Last Trustee Review 17-Mar-2005 11:45  -->
 
-Last Update: November, 03, 2004, 09:30
+<p>Last Updated on 2006/01/17</p>
+
 
 <p>Swyrich Corporation, the parent company of Houseofnames.com, has created this privacy statement in order to demonstrate our strong commitment to protecting your privacy.  This statement discloses how we collect and disseminate information.
 </p>
-<p><a href="https://www.truste.org/ivalidate.php?url=www.houseofnames.com"><img src="/i/Truste.gif" alt="Click To Verify" class="leftImageFloat"></a>Swyrich Corporation is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices.  This privacy statement covers the site www.houseofnames.com.  Because we want to demonstrate our commitment to our users' privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe.
+<p><a href="http://www.truste.org/ivalidate.php?url=www.houseofnames.com&amp;sealid=101"><img src="/i/clickseal.gif" alt="Click To Verify" class="leftImageFloat"></a>Swyrich Corporation is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices.  This privacy statement covers the site www.houseofnames.com.  Because we want to demonstrate our commitment to our users' privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe.
 </p>  
-<p>If users have questions or concerns regarding this statement, you should first contact privacy@swyrich.com . If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process (http://www.truste.org/watchdog.html). TRUSTe will serve as a liaison with the Web site to resolve users concerns.
+<p>If users have questions or concerns regarding this statement, you can contact Privacy Enforcement via <a href="mailto:privacy@swyrich.com?Subject=Privacy Enforcement">Email</a>. If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process 
+<a href="http://www.truste.org/consumers/watchdog_complaint.php">(http://www.truste.org/consumers/watchdog_complaint.php)</a>. TRUSTe will serve as a liaison with the Web site to resolve users concerns.
 </p>
 
 <br><br>
@@ -110,10 +126,10 @@ Last Update: November, 03, 2004, 09:30
 </p>
 <p>
 </p><ul>
- <li>Toll Free: 888-468-7686
- </li><li>Phone:     613-384-9986 
+ <li>Toll Free: 888-468-7686 x226
+ </li><li>Phone:     613-384-9986 x226
  </li><li>Fax:       613-384-0606
- </li><li><a href="mailto:privacy@swyrich.com?Subject=Privacy Questions">email</a> (Note: email is a non-confidential means of communication)
+ </li><li><a href="mailto:privacy@swyrich.com?Subject=Privacy Questions">E-mail</a> (Note: E-mail is a non-confidential means of communication)
  </li><li>Postal Mail, addressed to
     <br>House Of Names Privacy
     <br>Swyrich Corporation
@@ -128,15 +144,16 @@ Last Update: November, 03, 2004, 09:30
 <h3>When no order is placed:</h3>
 <p>If you are a user of our site, but do not place an order or do not use our contact-us, order, or affiliate program forms, we 
 </p><ul>
-<li><strong>do not collect</strong> any personal information about you
-</li><li><strong>do track</strong> Windows IIS Server Data/http data (such as IP address, browser type, referring web site address, domain name, access times, and which pages were accessed on the site) 
+<li>do not collect any personal information about you
+</li><li>do track Windows IIS Server Data/http data (such as IP address, browser type, referring web site address, domain name, access times, and which pages were accessed on the site) 
 </li></ul>
-This log data is collected in our server logs, so as to help diagnose problems with our Web server, to monitor certain aspects of web queries, analyze trends, and to administer our Web site. This collected information is <strong>not linked</strong> to any personal information that you may provide when contacting us, or ordering from us.
+<p>This log data is collected in our server logs, so as to help diagnose problems with our Web server, to monitor certain aspects of web queries, analyze trends, and to administer our Web site. This collected information is not linked to any personal information that you may provide when contacting us, or ordering from us.
+</p>
 <p>
 If you contact us via email, we require as a minimum
 </p><ul>
 <li>your name
-</li><li>email address
+</li><li>E-mail address
 </li></ul>
 so that we may contact you; additional, opt-in, information may be given so as to describe you request.
 <p></p>
@@ -145,25 +162,25 @@ so that we may contact you; additional, opt-in, information may be given so as t
 If you place an order through our secure on-line form, or over the phone, we request your
 <ul>
 <li>name
-</li><li>telephone number (optional on email orders)
+</li><li>telephone number (optional on E-mail orders)
 </li><li>billing address
 </li><li>shipping address, if different from billing address
 </li><li>payment information
-</li><li>email address (optional on phone orders)
+</li><li>E-mail address (optional on phone orders)
 </li><li>a password of your making, to allow you to track orders on-line (optional)  
 </li><li>an opt-out selection for future email newsletter distribution
 </li></ul>
 
 <p>US customers: Orders requiring importation into the US that also total $200 USD or more,
-must contain <strong>a tracking number</strong>, either an Employer Identification Number (also referred to as a Tax Id) or a Social Security Number (SSN). This requirement started October 1, 2004, and was made by US Customs and Border Protection, as a result of the <strong>Dept. of Homeland Security's initiative</strong> to improve security at the US border.
+must contain a tracking number, either an Employer Identification Number (also referred to as a Tax Id) or a Social Security Number (SSN). This requirement started October 1, 2004, and was made by US Customs and Border Protection, as a result of the Dept. of Homeland Security's initiative to improve security at the US border.
 </p>
-<p>This requirement <strong>does not apply to purchases that are either downloaded over the Internet, do not require importation, or are importation orders totaling less than $200 USD</strong>. The tracking number must belong to the ultimate consignee of the party receiving any portion of the shipment.  For further information on US security policies and requirements, please visit the US Customs and Border Protection <a href="http://www.cbp.gov/">web site</a>.
+<p>This requirement does not apply to purchases that are either downloaded over the Internet, do not require importation, or are importation orders totaling less than $200 USD. The tracking number must belong to the ultimate consignee of the party receiving any portion of the shipment.  For further information on US security policies and requirements, please visit the US Customs and Border Protection <a href="http://www.cbp.gov/">web site</a>.
 </p>
 <p>As House Of Names customers are general consumers who do not normally have a Tax Id, we have elected to request the consignee's SSN number on the on-line purchase order form, when applicable. 
 </p><p>
-</p><p><strong>This number is provided to US Customs in electronic form</strong>, and printed on a hard copy of the invoice shipped with the product (if necessary). House Of Names will, in those cases where it must collect it, treat the customer's SSN identification with the same respect as any of his or her's other personal information, and in particular with the same security as given credit card numbers; that is, the SSN will be recorded only for shipping requirement purposes, and is retained as per our Privacy, Security, and Information Retention policy, as documented further on this page. 
+</p><p>This number is provided to US Customs in electronic form, and printed on a hard copy of the invoice shipped with the product (if necessary). House Of Names will, in those cases where it must collect it, treat the customer's SSN identification with the same respect as any other personal information, and in particular with the same security as given credit card numbers; that is, the SSN will be recorded only for shipping requirement purposes, and is retained as per our Privacy, Security, and Information Retention policy, as documented further on this page. 
 </p>
-<p>If you have concerns regarding this policy, contact House of Names via <a href="mailto:privacy@swyrich.com?Subject=SSN Privacy Questions">email</a>, or if you have immediate concerns regarding ordering and shipping, or if you wish to make a personal statement to House Of Names regarding such, call us toll free: 888-468-7686 xt 222.
+<p>If you have concerns regarding this policy, contact House of Names via <a href="mailto:privacy@swyrich.com?Subject=SSN Privacy Questions">E-mail</a>, or if you have immediate concerns regarding ordering and shipping, or if you wish to make a personal statement to House Of Names regarding such, call us toll free: 888-468-7686 (or 613-384-9986) x226.
 </p>
 
 <p>
@@ -171,13 +188,15 @@ must contain <strong>a tracking number</strong>, either an Employer Identificati
 If you sign-up to our Affiliate Program, we require your
 <ul>
 <li>name
-</li><li>email address
+</li><li>E-mail address
 </li><li>phone number
-</li><li>a password that you determine, to allow you to login to our site to get your affiliate statistics
+</li><li>a password that you determine
 </li><li>web site address
 </li><li>description of the site
 </li></ul>
 <p></p>
+<p>The password allows you to login to our site to get yout affiliate statistics.
+</p>
 <h3>Other:</h3>
 If you use the name search feature, and you find your name is not present, you can opt-in to send Houseofnames.com a notification that your name is not present in our list of display names. This notification requires your email address, and includes your surname, so that we may contact you.
 <p></p>
@@ -186,7 +205,7 @@ If you use the name search feature, and you find your name is not present, you c
 
 <br><br>
 <h2>Third Party Personally Identifiable Information</h2>
-<p>A visitor to our site may wish to use the "Email To A Friend" service that exists on some pages of the web site.  The user must provide 'From' and 'To' email addresses in order to use this feature. The friend only receives a one-time invite. Those email addresses are not collected by the site, and are not linked to any other data.</p>
+<p>A visitor to our site may wish to use the "Email To A Friend" service that exists on surname search result pages (see the envelope icon near the top right hand side of the page).  The user must provide 'From' and 'To' E-mail addresses in order to use this feature. The friend only receives a one-time invite. Those E-mail addresses are not collected by the site, and are not linked to any other data.</p>
 
  
 <br><br>
@@ -196,24 +215,36 @@ If you use the name search feature, and you find your name is not present, you c
   <li>clarify details of orders
   </li><li>send order confirmations
   </li><li>reply to your questions
-  </li><li>deliver purchased product to you; third party intermediary delivery services (Fed Ex, for example) will be given your name and shipping address
-  </li><li>charge you the cost of goods; secure third party intermediary credit card processing services are used
+  </li><li>deliver purchased product to you
+  </li><li>charge you the cost of goods
   </li><li>deliver a newsletter and special offerings to you, if you opt-in
- </li><li>allow you secure access to limited-entry area of the site for order tracking, if you opt-in
+  </li><li>allow you secure access to limited-entry area of the site for order tracking, if you opt-in
 </li></ul>
 <p></p>
-<p>Personal information may be disclosed, in good-faith and if necessary, to 
+
+<p>
+Note: Third Party intermediary services are used:
 </p><ul>
- <li>conform to the edicts of law or comply with legal processes served on Swyrich Corporation and  its site
- </li><li>protect and defend the rights or property of Swyrich Corporation and its site
- </li><li>act in urgent circumstances to protect the personal safety of Swyrich Corporation employees,  users of products or services, or members 
-</li></ul>
+<li>Agents:
+  <p>
+  We use outside shipping companies to fulfill orders, and credit card processing companies to bill you for goods and services.  These companies do not retain, share or use personally identifiable information for any other purposes.
+  </p>
+</li>
+<li>Service Providers:
+  <br>We do not use third parties to provide services on our site.
+  <br>
+</li>
+</ul>
 <p></p>
+<br>
+<p>We reserve the right to disclose your personal identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our site.
+</p>
+<br>
 
 
 <br><br>
 <h2>Information Retention</h2>
-<p>Personal information is retained in a secure data base.  The personal information is retained indefinitely except for credit card details. Credit card details are retained for a period of 90 days, after which the details are deleted. Credit card information contained on backups of our data base are destroyed within 120 days.</p>
+<p>Personal information is retained in a secure data base.  The personal information is retained indefinitely except for credit card details. Credit card data are retained for 90 days.</p>
 
 <p>Cookies that are placed on the customer's machine are retained for 100 days.</p>
 
@@ -222,7 +253,7 @@ If you use the name search feature, and you find your name is not present, you c
 <h2>Information Control</h2>
 <p>You can control your personal information by sending Houseofnames.com a request via postal mail (as other means are less secure). If we validate that you are the owner of the data, the information may be updated, or deleted.
 </p>
-<p>If you wish to opt-out of email notifications, you can be removed from the mailing list at any time by sending us an email request, or by using the opt-out link provided in the newsletter.</p>
+<p>If you wish to opt-out of email notifications, you can be removed from the mailing list at any time by sending us an E-mail request, or by using the opt-out link provided in the newsletter.</p>
 
 <p>We will not sell, give, share, or trade your personal information with any company that is not part of Swyrich Corporation, except as disclosed in this statement. Within the Swyrich Corporation information is used for the limited purposes stated here-in. Personal information will only be used for the stated purposes. We also do not allow other companies to offer our customer's products or services, unless you opt-in to receive such notifications (such practice is currently not supported by Houseofnames.com).</p>
 
@@ -231,27 +262,27 @@ If you use the name search feature, and you find your name is not present, you c
 <h2>Information Access</h2>
 <p>We provide you with the means to access the following:
 </p><ul>
- <li>status of your order by on-line log-in, fax, or phone (for on-line access, you must provide an email address and password during the order process)
+ <li>status of your order by on-line log-in, fax, or phone (for on-line access, you must provide an E-mail address and password during the order process)
  </li><li>your personal information, as stated, and restricted, in <b>Information Control</b> sub-section,  less the credit card details
 </li></ul>
 <p></p>
 
-<p>You can request access to your information, less credit card details, by contacting our Custom Service Representative via telephone.
+<p>You can request access to your information, less credit card details, by contacting our Custom Service Representative via telephone toll free: 888-468-7686 (or 613-384-9986) x226.
 </p>
 
-<p>Employees of Swyrich Corporation do not have access to your personal information, except at the time of order processing, or by the Data Base Adminstrator via secure password access. Admin access would be necessary to address data base maintenance issues, only.</p>
+<p>Employees of Swyrich Corporation do not have access to your personal information, except at the time of order processing, or by the Data Base Administrator via secure password access. Admin access would be necessary to address data base maintenance issues, only.</p>
 
 
 <br><br>
 <h2>Information Security</h2>
 <p>We are committed to protecting the security of your personal information from loss, misuse or alteration. We use security technology and procedures to protect information from unauthorized access, use or disclosure. We store information on a global secure server, with limited access, that is located in controlled facilities. When personal information is transmitted, such as a credit card number, we protect it through the use of 128 bit SSL encryption.</p>
 
-<p>Houseofnames.com internet security is auditted daily by way of a third party <a href="http://www.scanalert.com/RatingVerify?ref=www.houseofnames.com">security service</a>. Our <a href="http://www.houseofnames.com/xq/asp/sId./kbId.181/title.Security+Certificates/qx/knowledgebase.htm">security policy</a> and procedures are reviewed monthly, and employees are made aware of security policies and procedures.</p>
+<p>Houseofnames.com Internet security is audited daily by way of a third party <a href="http://www.scanalert.com/RatingVerify?ref=www.houseofnames.com">security service</a>. Our <a href="http://www.houseofnames.com/xq/asp/sId./kbId.181/title.Security+Certificates/qx/knowledgebase.htm">security policy</a> and procedures are reviewed monthly, and employees are made aware of security policies and procedures.</p>
 
 
 <br><br>
 <h2>Information Protection for Children</h2>
-<p>Houseofnames.com is a general audience site, and is not directed at childeren. We do not knowlingly collect any personal information from children. We rate the site as child-safe.</p>
+<p>Houseofnames.com is a general audience site, and is not directed at children. We do not knowingly collect any personal information from children. We rate the site as child-safe.</p>
 
 
 <br><br>
@@ -265,7 +296,8 @@ If you use the name search feature, and you find your name is not present, you c
 The cookie is retained for a period as described in <b>Information Retention</b> sub-section.  If you disable cookies, you will be able to view the content of the web site, but you will not be able to place orders.</p>
 <p></p>
 <p>Cookies are not linked to your personal information.</p>
-
+<p>No Web Beacons, or similar devices, are used on the site.
+</p>
 
 <br><br>
 <h2>External Links</h2>
@@ -293,9 +325,9 @@ The cookie is retained for a period as described in <b>Information Retention</b>
 
 <br><br>
 <h2>Enforcement</h2>
-<p>If you have questions regarding this statement, you should first contact Swyrich Corporation by <a href="mailto:privacy@swyrich.com?Subject=Privacy Enforcement">email</a>, phone, fax, and or postal mail; an acknowledgement reply is normally set immediately, but please allow 2 business days for a reply to your specific inquiry. If you do not receive acknowledgement of your inquiry, or your inquiry has not been satisfactorily addressed not later then 30 days after it was made, you may log a complaint with one of the following:
+<p>If you have questions regarding this statement, you should first contact Swyrich Corporation by <a href="mailto:privacy@swyrich.com?Subject=Privacy Enforcement">Email</a>, phone, fax, and or postal mail; an acknowledgement reply is normally set immediately, but please allow 2 business days for a reply to your specific inquiry. If you do not receive acknowledgement of your inquiry, or your inquiry has not been satisfactorily addressed not later then 30 days after it was made, you may log a complaint with one of the following:
 </p><ul>
-<li>TRUSTe (Privacy Oversight)
+<li><a href="http://www.truste.org/consumers/watchdog_complaint.php">TRUSTe (Privacy Oversight)</a>
 </li><li><a href="http://www.bbbonline.org/consumer/complaint.asp">BBB</a>
 </li><li><a href="http://www.privcom.gc.ca/">Privacy Commission of Canada</a>
 </li></ul>
@@ -306,7 +338,8 @@ The cookie is retained for a period as described in <b>Information Retention</b>
 
 <br><br>
 <h2>Change Control</h2>
-<p>This privacy statement will occasionally be updated. When updated, the 'last updated' date at the top of this page will be modified. For significant changes to this statement, Houseofnames.com will place a prominent notice on the web site for 30 days.</p>
+<p>If we decide to change our policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.  We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage.
+</p>
 
 
 	
@@ -317,7 +350,7 @@ The cookie is retained for a period as described in <b>Information Retention</b>
 
 	<div class="emailNewsLetter">
 		<form method="post" id="frmEmailSignUp" action="/xq/asp/sId./qx/enewsletter.htm">
-			<div>E-Newsletters: <input type="text" name="txtEmailSignUp" size="12" value="Email Address" onfocus="this.value=''"> <input type="image" src="/i/btnSignUpNow.png" alt="Sign Up Now" class="alignTop"></div>
+			<div>E-Newsletters: <input type="text" name="txtEmailSignUp" size="12" maxlength="255" value="Email Address" onfocus="this.value=''"> <input type="image" src="/i/btnSignUpNow.png" alt="Sign Up Now" class="alignTop"></div>
 		</form>	
 	</div>
 </div>
@@ -325,20 +358,13 @@ The cookie is retained for a period as described in <b>Information Retention</b>
 
 </div>
 
-<div id="right">
-	<object type="application/x-shockwave-flash" data="/flash/advertising/skyscraper/coress.swf?fileName=/flash/advertising/skyscraper/add1.swf&amp;bgMovieName=/flash/advertising/skyscraper/themes/Valentines.swf" width="160" height="600">
-				<param name="movie" value="/flash/advertising/skyscraper/coress.swf?fileName=/flash/advertising/skyscraper/add1.swf&amp;bgMovieName=/flash/advertising/skyscraper/themes/Valentines.swf">
-				<param name="quality" value="high">
-<img src="/i/spacer.gif" border="0" alt="">
-			</object>
-</div>
-
 <div id="footer">
-	<map name="crCards"><area shape="rect" coords="0,0,86,30" href="javascript: Rcertify();" alt="BBB Reliability"></map>
-<h5>Last Updated: Sunday, February 06, 2005</h5><img src="/i/crCards.gif" usemap="#crCards" width="329" height="30" alt="We Accept Mastercard, Visa, American Express and Paypal"><br><br>
+	
+<map name="crCards"><area shape="rect" coords="0,0,86,30" href="javascript: Rcertify();" alt="BBB Reliability"></map>
+<h5>Last Updated: Monday, May 08, 2006</h5><img src="/i/crCards.gif" usemap="#crCards" width="329" height="30" alt="We Accept Mastercard, Visa, American Express and Paypal"><br><br>
 <a href="/xq/ASP/sId./qx/default.htm" class="black">Home</a> | <a href="/xq/ASP/sId./qx/aboutus.htm" class="black">About Us</a> | <a href="/service/xq/ASP/sId./qx/guarantee.htm" class="black">Our Guarantee</a> | <a href="/xq/asp/sId./kbId.178/title.Privacy+Statement/qx/knowledgebase.htm" class="black">Privacy Statement</a> | <a href="/service/xq/ASP/sId./qx/contact_us.htm" class="black">Contact Us</a> | <a href="/xq/ASP/sId./qx/honsurnamesearch.htm" class="black">Name Search</a> | <a href="/xq/asp/sId./qx/sitemap.htm" class="black">Site Map</a>
 <br><br><strong>Call us Toll free: 888-468-7686 xt 222 or (613)384-9986 xt 222</strong><br><br>
-Copyright © 2000 -  2005 Swyrich Corporation, all rights reserved
+Copyright © 2000 -  2006 Swyrich Corporation, all rights reserved
 <div id="hdTopNav" style="position:absolute;width:440px;height:16px;top:96px;left:0px; font-weight: bold;"><a href="/xq/asp/sId./qx/default.htm" class="black">Home</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="/service/xq/ASP/sId./qx/customerservice.htm" class="black">Customer Service</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="/xq/ASP/sId./qx/sitemap.htm" class="black">Site Map</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="/xq/ASP/sId./qx/honsurnamesearch.htm" class="black">Surname Search</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="/xq/asp/sId./qx/howtobuy.htm" class="red">How To Buy</a></div>
 
 </div>
