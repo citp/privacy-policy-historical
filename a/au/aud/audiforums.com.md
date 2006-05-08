@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audiforums.com privacy policy that was archived on 2005-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050828032428id_/http%3A//www.audiforums.com/includes/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiforums.com privacy policy that was archived on 2006-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060508185250id_/http%3A//www.audiforums.com/includes/privacy.asp) for the most accurate reproduction.*
 
 # Audi Forums
 
@@ -59,72 +59,48 @@ If you have any questions about this privacy policy, the practices of the AudiFo
 
 [Contact Form](https://web.archive.org/contact/)  
   
-  
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=788&url=http://www.autohausaz.com/audi-auto-parts/index.html)  
 
 
 | Featured Vendors  
 ---  
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=66&url=http://www.eurotrenzinc.com)  
-
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=346&url=http://www.mags4cheap.com/magazines/index.php/cPath/112/referral/rcristel)
 
 * * *
 
-[ ](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=382&url=http://www.getcoolparts.com)
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=501&url=http://www.eurostyleseast.com/)
 
+* * *
+
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=76&url=http://www.germanpartsonline.com)
+
+* * *
+
+[ ](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=382&url=http://www.getcoolparts.com)  
   
-
-
-* * *
-
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=95&url=http://www.autogeek.net)  
-
-
-* * *
-
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=259&url=http://www.namotorsports.net)  
-
-
-* * *
-
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=76&url=http://www.germanpartsonline.com)  
-
-
-* * *
-
-[Advertising Info](https://web.archive.org/contact/default.asp?msg=Advertising+Info)  
-  
-Ride of the Month  
----  
-August 2005  
-[](https://web.archive.org/MemberRides/showRide.asp?ID=31 "2005.5 Audi A4 1.8t")  
-[2005.5 Audi A4 1.8t](https://web.archive.org/MemberRides/showRide.asp?ID=31 "2005.5 Audi A4 1.8t")  
-  
-
-
 Top 10 Posters  
 ---  
-| [Jestnomen](https://web.archive.org/showprofile.asp?memID=784 "Jestnomen")| 7982  
+| [pandaxpress](https://web.archive.org/showprofile.asp?memID=2372)| 10538  
 ---|---  
-[PandaXpress](https://web.archive.org/showprofile.asp?memID=2372 "PandaXpress")| 6433  
-[bentframe](https://web.archive.org/showprofile.asp?memID=6332 "bentframe")| 3829  
-[Redgoat](https://web.archive.org/showprofile.asp?memID=3967 "Redgoat")| 3128  
-[audiboy1618](https://web.archive.org/showprofile.asp?memID=1753 "audiboy1618")| 3000  
-[apg96](https://web.archive.org/showprofile.asp?memID=3401 "apg96")| 2728  
-[clconversion](https://web.archive.org/showprofile.asp?memID=1392 "clconversion")| 2711  
-[ImolaS4](https://web.archive.org/showprofile.asp?memID=370 "ImolaS4")| 2678  
-[brrman](https://web.archive.org/showprofile.asp?memID=359 "brrman")| 2573  
-[CheckMyVitals](https://web.archive.org/showprofile.asp?memID=3792 "CheckMyVitals")| 2495  
+[jestnomen](https://web.archive.org/showprofile.asp?memID=784)| 10422  
+[redgoat](https://web.archive.org/showprofile.asp?memID=3967)| 6449  
+[bentframe](https://web.archive.org/showprofile.asp?memID=6332)| 5585  
+[apg96](https://web.archive.org/showprofile.asp?memID=3401)| 5088  
+[headshok2002](https://web.archive.org/showprofile.asp?memID=3695)| 4650  
+[audiboy1618](https://web.archive.org/showprofile.asp?memID=1753)| 4142  
+[awdaholic](https://web.archive.org/showprofile.asp?memID=4805)| 4056  
+[clconversion](https://web.archive.org/showprofile.asp?memID=1392)| 3592  
+[badluckaudi](https://web.archive.org/showprofile.asp?memID=10526)| 3418  
   
 Newest Vendors  
 ---  
-| [AutoSunShades.net](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=443&url=http://www.autosunshades.net/ "AutoSunShades.net")  
+| [Autohaus Arizona, Inc](http://www.autohausaz.com/)  
 ---  
-[WheelAutoHaus.com](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=393&url=http://www.wheelautohaus.com "WheelAutoHaus.com")  
-[GetCoolParts.com](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=382&url=http://www.getcoolparts.com "GetCoolParts.com")  
-[AutoTechInteriors.com](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=313&url=http://www.autotechinteriors.com "AutoTechInteriors.com")  
-[North American Motorsports](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=259&url=http://www.namotorsports.net "North American Motorsports")  
-[Auto & Truck Electronics](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=223&url=http://www.autoecu.com "Auto & Truck Electronics")  
-[RENN-ART, Inc.](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=202&url=http://www.renn-art.com "RENN-ART, Inc.")  
-[BuyWheelsToday.com](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=200&url=http://www.buywheelstoday.com "BuyWheelsToday.com")  
-[AutoGeek.net](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=88&url=http://www.autogeek.net "AutoGeek.net")  
-[K&N Engineering, Inc.](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=269&url=http://www.knfilters.com/ads/ad.aspx?id=254 "K&N Engineering, Inc.")
+[Euro Styles East](http://www.eurostyleseast.com/)  
+[German Parts Online](http://www.germanpartsonline.com/)  
+[GetCoolParts.com](http://www.getcoolparts.com/)  
+[Just E Print](http://www.justeprint.com/bcdefault.aspx?RefID=180)  
+[K&N Engineering, Inc.](http://www.knfilterchargers.com/ads/ad.aspx?id=115)  
+[Magazines 4 Cheap](http://www.mags4cheap.com/magazines/index.php/cPath/112/referral/rcristel)  
+[RENN-ART, Inc.](http://www.renn-art.com/)  
+[Royal Purple](http://www.royalpurple.com/video/video.html)
