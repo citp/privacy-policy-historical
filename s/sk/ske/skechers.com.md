@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skechers.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228072452id_/http%3A//shop.skechers.com/corporate/privacy/default.jskx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skechers.com privacy policy that was archived on 2006-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060508102801id_/http%3A//shop.skechers.com/corporate/privacy/default.jskx) for the most accurate reproduction.*
 
-# SKECHERS Footwear - Corporate Information
+# Skechers Shoe Store - Corporate Information
 
 This Web site (skechers.com) is owned and operated by SKECHERS USA, Inc. 
 
