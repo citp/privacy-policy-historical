@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitaljournal.com privacy policy that was archived on 2004-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040830223327id_/http%3A//digitaljournal.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaljournal.com privacy policy that was archived on 2006-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060509013723id_/http%3A//digitaljournal.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement - DigitalJournal.com - Digital Culture For Creative Minds
 
