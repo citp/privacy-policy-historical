@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qualtrics.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230185939id_/http%3A//qualtrics.com/help/1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualtrics.com privacy policy that was archived on 2006-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060508073721id_/http%3A//qualtrics.com/help/1.html) for the most accurate reproduction.*
 
 # What is your privacy policy regarding email addresses and personal information?
 
