@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wealthbeyondreason.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219122807id_/http%3A//wealthbeyondreason.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wealthbeyondreason.com privacy policy that was archived on 2006-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060508101403id_/http%3A//wealthbeyondreason.com/privacy.html) for the most accurate reproduction.*
 
 # Wealth Beyond Reason - Privacy Policy
 
