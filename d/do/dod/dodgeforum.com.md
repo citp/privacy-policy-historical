@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dodgeforum.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403121220id_/http%3A//www.dodgeforum.com/includes/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dodgeforum.com privacy policy that was archived on 2006-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060509153632id_/http%3A//www.dodgeforum.com/includes/privacy.asp) for the most accurate reproduction.*
 
 # Dodge Forum
 
@@ -59,76 +59,110 @@ If you have any questions about this privacy policy, the practices of the DodgeF
 
 [Contact Form](https://web.archive.org/contact/)  
   
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=600&url=http://www.performanceproducts4trucks.com/giveaway.aspx?referer=2401)  
+
+
   
-
-
 | Featured Vendors  
 ---  
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=181&url=http://www.carsponsorships.com/scout/sponsor.php?id=1310)  
-
-
-* * *
-
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=147&url=http://www.wolfgangcarcare.com)  
-
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=337&url=http://www.premiertruckaccessories.com)
 
 * * *
 
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=205&url=http://www.thefastman.com)  
-
-
-* * *
-
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=171&url=http://www.vtwintalk.com)  
-
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=787&url=http://ModdinArt.com)
 
 * * *
 
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=20&url=http://www.usspeedonline.com/page/U/CTGY/Dodge)  
-
-
-* * *
-
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=19&url=http://www.jdoqocy.com/click-1295019-10362437)  
-
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=761&url=http://www.ShopSAR.com)
 
 * * *
 
-[Advertising Info](https://web.archive.org/contact/default.asp?msg=Advertising+Info)  
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=611&url=http://www.southernhotrod.com)
+
+* * *
+
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=712&url=http://www.americanracing.com/06ola/dodgeforums)
+
+* * *
+
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=765&url=http://www.strippermotorsports.com/)
+
+* * *
+
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=696&url=http://www.truckaddons.com/)
+
+* * *
+
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=655&url=http://www.dodgechallenger.com)
+
+* * *
+
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=205&url=http://www.thefastman.com)
+
+* * *
+
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=451&url=http://www.revolution-motorsports.com/)
+
+* * *
+
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=665&url=http://www.gregspradlin.com/site/?Artwork:Limited_Prints:SRT-10_Performance_Truck_of_the_Year)
+
+* * *
+
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=20&url=http://www.usspeedonline.com/page/U/CTGY/Dodge)
+
+* * *
+
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=613&url=http://stores.channeladvisor.com/verociousmotorsports/)
+
+* * *
+
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=503&url=http://www.IntakesAndExhaust.com)
+
+* * *
+
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=19&url=http://www.truckxpressions.com)
+
+* * *
+
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=669&url=http://www.supermotors.org/?utm_source=dodgeforum&utm_medium=banner&utm_content=dodgetruck&utm_campaign=signup)
+
+* * *
+
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=661&url=http://www.autopaintguard.com)  
   
-  
-
-
-DF Vehicle of the Month  
+Ride of the Month  
 ---  
-[  
-Custom Dodge Durango R/T ](https://web.archive.org/includes/hrotm.asp)  
+May 2006  
+[](https://web.archive.org/MemberRides/showRide.asp?ID=110)  
+[1997 1500 Club Cab](https://web.archive.org/MemberRides/showRide.asp?ID=110 "1997 1500 Club Cab")  
   
-  
+
+
 Top 10 Posters  
 ---  
-| [Dodgegirl19](https://web.archive.org/showprofile.asp?memID=289)| 9646  
+| [badstratrt](https://web.archive.org/showprofile.asp?memID=2745)| 13856  
 ---|---  
-[dustyloins](https://web.archive.org/showprofile.asp?memID=894)| 8333  
-[71RoadRunner](https://web.archive.org/showprofile.asp?memID=193)| 7015  
-[BadStratRT](https://web.archive.org/showprofile.asp?memID=2745)| 5968  
-[mopartodd](https://web.archive.org/showprofile.asp?memID=1631)| 5902  
-[Viper-GTS](https://web.archive.org/showprofile.asp?memID=284)| 5329  
-[ramfan5.9](https://web.archive.org/showprofile.asp?memID=4465)| 4440  
-[casper](https://web.archive.org/showprofile.asp?memID=5849)| 4229  
-[Fiddle Player](https://web.archive.org/showprofile.asp?memID=5138)| 3781  
-[redriderbob](https://web.archive.org/showprofile.asp?memID=1408)| 3663  
+[vipergts](https://web.archive.org/showprofile.asp?memID=284)| 12950  
+[dodgegirl19](https://web.archive.org/showprofile.asp?memID=289)| 12929  
+[ramfan5.9](https://web.archive.org/showprofile.asp?memID=4465)| 11548  
+[dustyloins](https://web.archive.org/showprofile.asp?memID=894)| 11455  
+[casper](https://web.archive.org/showprofile.asp?memID=5849)| 9410  
+[71roadrunner](https://web.archive.org/showprofile.asp?memID=193)| 8342  
+[midnightblue](https://web.archive.org/showprofile.asp?memID=9989)| 8326  
+[nickoman01](https://web.archive.org/showprofile.asp?memID=5543)| 7408  
+[vader](https://web.archive.org/showprofile.asp?memID=1014)| 4454  
   
 Newest Vendors  
 ---  
-| [CarSponsorships.com](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=181&url=http://www.carsponsorships.com/scout/sponsor.php?id=1310)  
+| [Grinner Hester](http://www.autoforumuniverse.com/ads/redirect.aspx?vid=296&url=http://ModdinArt.com)  
 ---  
-[Harley Davidson Forums](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=171&url=http://www.vtwintalk.com)  
-[Wolfgang Car Care Products](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=101&url=http://www.wolfgangcarcare.com)  
-[Adam's Premium Car Care Products](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=84&url=http://www.adamspolishes.com)  
-[K&N Engineering, Inc.](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=83&url=http://www.knfilterchargers.com/ads/ad.aspx?id=115)  
-[XtecUSA.com](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=80&url=http://www.autoforumuniverse.com/vendors/xtecusa/)  
-[TheFastMan.com](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=205&url=http://www.thefastman.com)  
-[Southeast Performance](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=13&url=http://www.southeastperformance.com/)  
-[Truck Xpressions](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=19&url=http://www.jdoqocy.com/click-1295019-10362437)  
-[U.S. Speed](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=20&url=http://www.usspeedonline.com/page/U/CTGY/Dodge)
+[Royal Purple](http://www.autoforumuniverse.com/ads/redirect.aspx?vid=294&url=http://www.royalpurple.com/video/video.html)  
+[Stripper Motorsports](http://www.autoforumuniverse.com/ads/redirect.aspx?vid=285&url=http://www.strippermotorsports.com/)  
+[TruckAddOns.com](http://www.autoforumuniverse.com/ads/redirect.aspx?vid=284&url=http://www.TruckAddons.com)  
+[ShopSAR.com](http://www.autoforumuniverse.com/ads/redirect.aspx?vid=281&url=http://www.ShopSAR.com)  
+[American Racing](http://www.autoforumuniverse.com/ads/redirect.aspx?vid=279&url=http://www.americanracing.com)  
+[Jeg's High Performance](http://www.autoforumuniverse.com/ads/redirect.aspx?vid=272&url=http://www.jegs.com/webapp/wcs/stores/servlet/TopCategoriesDisplay?langId=-1&storeId=10001&catalogId=10002&ct=110)  
+[SuperMotors](http://www.autoforumuniverse.com/ads/redirect.aspx?vid=269&url=http://www.supermotors.org/?utm_source=dodgeforum&utm_medium=forum_index_text_link&utm_content=dodgetruck&utm_campaign=signup)  
+[Greg Spradlin](http://www.autoforumuniverse.com/ads/redirect.aspx?vid=265&url=http://www.gregspradlin.com)  
+[Auto Paint Guard](http://www.autoforumuniverse.com/ads/redirect.aspx?vid=263&url=http://www.autopaintguard.com/)
