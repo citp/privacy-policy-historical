@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tigerwoodsfoundation.org privacy policy that was archived on 2005-11-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051103101944id_/http%3A//www.tigerwoodsfoundation.org/privacy.sps%3Fitype%3D7595) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tigerwoodsfoundation.org privacy policy that was archived on 2006-05-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060509072523id_/http%3A//www.tigerwoodsfoundation.org/privacy.sps%3Fitype%3D7595) for the most accurate reproduction.-->
 
 <html><head>
 <meta name="owner" content="">
@@ -19,7 +19,70 @@
 <script language="JavaScript">
 var RMA_URL='';
 </script>
-<title>Tiger Woods Foundation</title>
+
+<script language="JavaScript">
+
+var wd
+
+function parseValue(thisone)
+{
+	wd="w"
+	var tempnum=thisone.value
+	
+	for (i=0;i<tempnum.length;i++)
+	{
+		if (tempnum.charAt(i)==".")
+		{
+			wd="d"
+			break
+		}
+	}
+
+	if (wd=="w")
+		thisone.value=prefix+tempnum+".00"
+	else{
+		if (tempnum.charAt(tempnum.length-2)=="."){
+			thisone.value=tempnum+"0"
+		}
+		else{
+			tempnum=Math.round(tempnum*100)/100
+			thisone.value=tempnum
+		}
+	}
+}
+
+
+function calcSupport()
+{
+	direct = document.submitGrantForm.directSupport.value;
+	indirect = document.submitGrantForm.indirectSupport.value;
+	document.submitGrantForm.totalSupport.value = (direct * 1) + (indirect * 1);
+}
+
+function calcExpenses()
+{
+	comp = document.submitGrantForm.officersComp.value;
+	salaries = document.submitGrantForm.otherSalaries.value;
+	pension = document.submitGrantForm.pensionPlanContrib.value;
+	benefits = document.submitGrantForm.otherEmpBenefits.value;
+	taxes = document.submitGrantForm.payrollTaxes.value;
+	document.submitGrantForm.totalExpenses.value = (comp * 1) + (salaries * 1)+ (pension * 1) + (benefits * 1) + (taxes * 1);
+}
+
+function calcTotal()
+{
+	total1 = document.submitGrantForm.total1.value;
+	total2 = document.submitGrantForm.total2.value;
+	document.submitGrantForm.grantTotal.value = ( (total1 * 1) / (total2 * 1) ) * 100;
+	var percentStr = document.submitGrantForm.grantTotal.value;
+	//alert (percentStr);
+	percentStr = percentStr.substring(0,5);
+	//alert (percentStr);
+	document.submitGrantForm.grantTotal.value = (percentStr * 1);
+}
+
+
+</script><title>Tiger Woods Foundation</title>
 </head>
 <body leftmargin="0" topmargin="0" marginheight="0" marginwidth="0">
 
@@ -314,7 +377,7 @@ var RMA_URL='';
 		<td class="copyright" align="center">
 		<img src="/pix/1.gif" width="1" height="10&quot;"><br>
 		<!--StartFragment -->
-		<a href="/privacy.sps?itype=7595">Privacy Policy</a>      |     <a href="/contact/default.sps">Contact Us</a>     |    <a href="http://www.tigerwoods.com" target="_blank">TigerWoods.com</a><br><br>
+		<a href="/privacy.sps?itype=7595">Privacy Policy</a>      |    <a href="/contact/default.sps">Contact Us</a>     |    <a href="http://www.tigerwoods.com" target="_blank">TigerWoods.com</a><br><br>
 
 		This website is the only official website of Tiger Woods Foundation and is © Copyright 'TigerWoodsFoundation.org'. <br>
 		Commercial reproduction, distribution or transmission of any part of this website<br>
