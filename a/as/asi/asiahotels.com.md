@@ -1,111 +1,74 @@
-> *The following text is extracted and transformed from the asiahotels.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230113655id_/http%3A//www.asiahotels.com/privacypolicy/termsofuse-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiahotels.com privacy policy that was archived on 2006-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060509073742id_/http%3A//www.asiahotels.com/privacy.asp) for the most accurate reproduction.*
 
-# asia-hotels.com - Terms of Use and Privacy Policy
+# Privacy Policy
+
+  |    
+Privacy Policy
+
+Asia Hotels is committed to ensuring our customers' privacy and security of all information collected. In accordance with the privacy legislation introduced on December 21, 2001, this Privacy Policy outlines the information collection practices utilised by Asia Hotels, how that information is used and the choices you can make about the way the information you provide to us is collected and used. 
+
+  * The information we collect
+  * How we use the information
+  * How to access or correct your information
+  * Our commitment to data security
+  * Cookies
+  * Opting out of promotional information
+  * How to contact us
+
+**The information we collect**  
+When you make a booking via the Asia Hotels web site, we need to collect information about you to process the transaction and fulfil your order. This information includes, but is not limited to, details such as your name, your contact details (email, phone, fax) and your credit card details. When you submit a request via our email support forms, we also collect your name and email so that we may respond to your request or query as quickly as possible.
+
+**How we use the information**  
+When you become a member of Asia Hotels or submit a booking request, we use the collected information in several ways: 
+
+  * Personal identification and verification
+  * To complete your hotel reservation
+  * To allow us to contact you for customer service, if required
+  * To make improvements to the Asia Hotels web site
+
+In addition, if you have opted to sign up for membership offered by our website, your email address will be used to send you an email message confirming your new member registration. As a member you, will occasionally receive updates from us about special rate offers, newsletters and any noteworthy changes to the website. However, you may always unsubscribe from receiving these email messages. Please see our Opting Out policy described below.
+
+We disclose your information to third parties (such as our hotels) only for the purpose of completing your transaction with us, providing the above services to you and for the purposes of associated administration. We do not sell, rent or trade your personal information to third parties for marketing purposes.
+
+Unless otherwise prohibited by law or our contractual obligations, we may disclose personal information if required to do so by law, court order, or as requested by a governmental or law enforcement authority, or in the good faith belief that disclosure is otherwise necessary or advisable. Such situations may include: to perform, maintain or enforce contracts with our customers; to protect the rights or properties of Flairview Travel, our business affiliates, our customers, or others; or when we have reason to believe that disclosing the information is necessary to identify, contact, or bring legal action against someone who may be causing, or who may be threatening to cause, interference with or damage to our rights or properties, whether intentionally or otherwise; or when anyone else could be harmed by such activities.
+
+Like most web sites, there is certain information we automatically track, including the URL that you just came from, the browser you are using and your IP address. This data is utilised to improve the services of Asia Hotels and does not include any personally identifying information.
+
+**How to access or correct your information**  
+At any time, Asia Hotels members can view and/or update all the information in their member profile. To do so, login on the [Membership Homepage](https://web.archive.org/membership.asp) and click on "Update Profile" to view and/or make the required changes. Should you wish to cancel your membership with Asia Hotels, simply notify us by sending an email to [customer_service@asiahotels.com](mailto:customer_service@asiahotels.com?subject=Request%20to%20Cancel%20Membership). 
+
+**Our commitment to data security**  
+While being transmitted over the Internet, your credit card details are protected using SSL (Secure Socket Layer) encryption. Credit card details are only used to pay for accommodation booked through our service. These details are stored securely at all times, are not used for any other purpose and will never be provided to any unauthorised third parties.
+
+Asia Hotels has also obtained a digital certificate from THAWTE Server CA (part of the VeriSign group), an industry leader in the protection and management of data transmission and storage. To view the THAWTE SSL security certificate, click here.
+
+**Cookies**  
+We may, from time to time, use "cookies" to store your preferences, record session information and collect information on how you visit and access our Web pages. We collect information on the Web pages visited by our customers in order to help us to continue improving our services.
+
+"Cookies" are pieces of information that our Web page transfers to your computer's hard disk for record-keeping purposes. Cookies can make the Web more useful by storing information about your preferences on a particular site. The use of cookies is an industry standard and many Web sites use them to provide useful features for you. Cookies in and of themselves do not personally identify you, only your computer.
+
+**Opting out of promotional information**  
+We at Asia Hotels work hard to provide our clients with the best possible rates in all our hotels. From time to time, we will send our members newsletters, updates and specials for hotels in certain areas. You will only receive this correspondence if you have chosen to do so and we hope that you will find these items informative and useful. However, should you choose to not receive them in the future, you will have the ability to unsubscribe from the mail database by clicking on the Unsubscribe link at the bottom of each email.
+
+**How to contact us**  
+This policy may be revised from time to time, as new features are added to the site or the legislation changes. Please check back periodically for updates and additions. If you have any concerns or queries about the Privacy Policy of Asia Hotels or would like more information, please contact us on [privacy@asiahotels.com](mailto:privacy@asiahotels.com). We will attempt to respond to all reasonable concerns or inquiries within three business days of receipt. 
+
+**CUSTOMERS** \- Please **DO NOT** submit booking enquiries to the above email address, as they will not be answered. If you have a question about an existing or new booking, please go our [Customer Service Center](https://web.archive.org/CustService.asp). 
+
+* * *
 
   
-**TERMS OF USE**
+[ [Home](https://web.archive.org/) | [Contact us](https://web.archive.org/contactasiahotels.asp) | [Help](https://web.archive.org/custservice.asp) | [Sitemap](https://web.archive.org/sitemap.asp) | [Membership](https://web.archive.org/membership.asp) | [Advanced search](https://web.archive.org/search.asp) ] 
 
-**Please carefully read the following before using this site**
+[**Hotels in Asia:**](http://www.asiahotels.com/)  
+[Australia hotels](https://web.archive.org/hl/Australia.asp), [Brunei hotels](https://web.archive.org/hl/Brunei.asp), [Cambodia hotels](https://web.archive.org/hl/Cambodia.asp), [China hotels](https://web.archive.org/hl/China.asp), [Fiji hotels](https://web.archive.org/hl/Fiji.asp), [Guam hotels](https://web.archive.org/hl/Guam.asp), [Hong Kong hotels](https://web.archive.org/hl/Hong_Kong.asp), [India hotels](https://web.archive.org/hl/India.asp), [Indonesia hotels](https://web.archive.org/hl/Indonesia.asp), [Japan hotels](https://web.archive.org/hl/Japan.asp), [Laos hotels](https://web.archive.org/hl/Laos.asp), [Macau hotels](https://web.archive.org/hl/Macau.asp), [Malaysia hotels](https://web.archive.org/hl/Malaysia.asp), [Maldives hotels](https://web.archive.org/hl/Maldives.asp), [Myanmar hotels](https://web.archive.org/hl/Myanmar.asp), [Nepal hotels](https://web.archive.org/hl/Nepal.asp), [New Caledonia hotels](https://web.archive.org/hl/New_Caledonia.asp), [New Zealand hotels](https://web.archive.org/hl/New_Zealand.asp), [Philippines hotels](https://web.archive.org/hl/Philippines.asp), [Singapore hotels](https://web.archive.org/hl/Singapore.asp), [South Korea hotels](https://web.archive.org/hl/South_Korea.asp), [Sri Lanka hotels](https://web.archive.org/hl/Sri_Lanka.asp), [Taiwan hotels](https://web.archive.org/hl/Taiwan.asp), [Thailand hotels](https://web.archive.org/hl/Thailand.asp), [Vanuatu hotels](https://web.archive.org/hl/Vanuatu.asp), [Vietnam hotels](https://web.archive.org/hl/Vietnam.asp)
 
-The information provided on this webpage may be amended from time to time. You need to review this webpage each time you use this Site. 
+[Asia hotels](http://www.asiahotels.com/) | [Africa hotels](http://www.asiahotels.com/africa-default.asp) |  [Europe hotels](http://www.euro-hotels.com/) | [Middle East hotels](http://www.asiahotels.com/middleeast-default.asp) | [South America hotels](http://www.asiahotels.com/americas-default.asp)
 
-We pledge to meet fully recognised standards of personal data privacy protection in handling personal data. For more information, please refer to our [Policy on Personal Data](https://web.archive.org/web/20051230113655id_/http%3A//www.asiahotels.com/privacypolicy/termsofuse-policy.asp#personaldatapolicy) and our [Personal Information Collection Statement](https://web.archive.org/web/20051230113655id_/http%3A//www.asiahotels.com/privacypolicy/termsofuse-policy.asp#picstatement). 
-
-If you have any questions about this Site or our Policy on Personal Data or Personal Information Collection Statement, please address your enquiry to our Privacy Compliance Officer at info@asia-hotels.com or call us on +852 2893 4093. 
-
-**Disclaimer**
-
-  1. We make every effort to ensure that any materials displayed on this Site are accurate as at the date of issue. Changes in market conditions or circumstances may occur after the issue date which may make information displayed on this Site no longer accurate or no longer reflect the current position. When you refer to or use any materials on this Site, you should pay attention to its date of issue.
-  2. We hereby expressly disclaim any representation, warranty or undertaking in relation to the accuracy, completeness, quality or adequacy of any contents of this Site. We will not be responsible for any loss resulting from your relying on any information provided on this Site.
-  3. You understand and agree that your access and use of this Site is at your own risk and that any downloading or obtaining of material or data through the use of this Site is at your own discretion and risk. You will be solely responsible for any damage to your computer system and if your use of the Site results in the need for servicing or replacing any equipment, material or data, we are not responsible for those costs.
-  4. There are risks involved in using the Internet. Transactions over the Internet may be subject to interruption, transmission blackout, delayed transmission due to Internet traffic or incorrect data transmission due to the public nature of the Internet. We accept no liability for any loss or damage (including without limitation economic, special, punitive or consequential damages) arising directly or indirectly from your access to or the use of this Site or the failure to do so. 
+**Powered by:**  
 
 
-
-**Links**
-
-  1. This Site may link to other sites operated by third parties. The inclusion of any link to such sites does not imply our endorsement of such hyper-linked sites, but is for your reference and convenience only. We have not reviewed all of the hyper-linked 
-sites and are not responsible for their content or accuracy. Linking to any hyper-linked site is at your own risk and subject to the terms and conditions (if any) of such hyper-linked site, in particular, it may have its own set of privacy policy statement and you are advised to check it out. 
-  2. This Site also contains advertisements by third parties. Unless otherwise specifically stated on this Site, we do not endorse or make any representation regarding the liability, quality or accuracy of any products or services featured in, or linked to any advertisement that appears on this Site. 
+  
 
 
-
-**Intellectual Property**
-
-  1. This Site or any portion of this Site should not be reproduced, duplicated, copied, sold or otherwise exploited for any commercial purpose that is not expressly permitted by us. We reserve the right to remove, update or amend any part of this Site at any time without giving any notice. 
-  2. All contents included on this Site, such as text, graphics, logos, button icons, images and links and its compilation (meaning its collection, arrangement and assembly) is the property of asia-hotels.com and is protected by Hong Kong and international copyright laws. You must not:- 
-    1. copy, reproduce, alter, modify, create derivative works, or publicly display any content from this Site or; 
-    2. create any hyperlink to any part of this Site without our express prior written permission. All software used on this Site is the property of asia-hotels.com or its software suppliers and protected by Hong Kong and international copyright laws. 
-
-
-
-**Prohibitions**
-
-When using this Site, you must not:- 
-
-  1. do any act which is defamatory, libellous, threatening or harassing; 
-  2. send any information or material to this Site which is indecent, unethical, obscene or contains child pornography; 
-  3. use any information in this Site for commercial purposes; 
-  4. use any device, software or routine to interfere or attempt to interfere with the proper working of this Site; 
-  5. infringe any third party’s copyright, patent, trademark, trade secret or other proprietary rights; 
-  6. take any action that imposes an unreasonable or disproportionately large load on our infrastructure; 
-  7. create any liability on us or cause us to lose (in whole or in part) the services of our Internet Service Providers or other suppliers. 
-
-
-
-**PRIVACY POLICY STATEMENT ON PERSONAL DATA**
-
-  1. We value all personal information provided by our customers, and this note sets out our policy and practices in relation to personal data.
-  2. It will be necessary for customers to supply us with certain personal data when using our services and facilities to search, select and book hotels or resorts registered with us, sign up for the newsletter and/or to send e-Postcards (the “ **Services** ”).
-  3. Failure to supply such personal data may result in our delay or inability to, or to continue to, carry out the Services.
-  4. Personal data will be used by us in connection with our provision of the Services, in particular: - 
-    1. general operation and performance of the Services;
-    2. conducting credit checks;
-    3. recovery of any amounts owed to us;
-    4. any verification, matching or exchange of information;
-    5. marketing products and services to customers;
-    6. in connection with complying, or checking compliance, with any laws or regulations relating to the Services; and/or
-    7. any other purpose associated with the above and any other purpose which a customer may from time to time agree.
-  5. We may make such enquiries as we consider necessary to confirm the accuracy of the personal data and we may transfer (whether within or outside Hong Kong), personal data to the following (or to any other person if required by law):- 
-    1. any of our subsidiaries, affiliates or business partners;
-    2. any actual or proposed assignee, participant or transferee of our right in relation to a customer; and/or
-    3. any third party service provider appointed or engaged by us.
-  6. Any of the entities referred to above may utilise the personal data in the course of any business or performance of any duty or function carried on by such entity. 
-  7. If you wish to opt out from receiving any marketing materials from us please unsubscribe at <http://www.asia-hotels.com/unsubscribe.asp>. 
-  8. This site, asia-hotels.com, uses the services of advertisement serving companies for the serving and/or targeting of ads, promotions and other marketing messages. To do this, the companies collect anonymous data, typically through the use of cookies. 
-  9. You are entitled to access personally identifiable information we hold about you and if applicable to correct or update it. You also have the right to request details of our personal privacy policy and the type of personal data we hold. You may do so by contacting our Privacy Compliance Officer by telephone on +852 2893 4093 or by email to info@asia-hotels.com. We have the right to charge a reasonable fee for processing a data access request. 
-
-
-
-**PERSONAL INFORMATION COLLECTION STATEMENT**
-
-**Our Use of Your Information**
-
-We will process the collected information to make bookings for you at your chosen hotel or resort. In addition, we may use the collected information for the following purposes:- 
-
-  1. processing reservation enquiries
-  2. processing requests for and sending e-Postcards
-  3. marketing of our products and services and those of our business partners and making announcement of special promotions
-  4. statistical research and analysis
-
-
-
-If you do not wish to receive direct marketing materials, you are entitled to opt-out from receiving them by unsubscribing at http://www.asia-hotels.com/unsubscribe.asp. 
-
-**Our Disclosure of Your Information**
-
-We value all personal information received by us and do our best to maintain its privacy. Except as stated below or with your prior consent or required by law, we will not transfer or disclose your personal information to any third party:- 
-
-  1. the hotels and resorts registered with us
-  2. any of our subsidiaries, affiliates and business partners
-  3. any third party service provider
-
-
-
-**Security**
-
-We use Secure Socket Layer (SSL) protocol. This means that information entered into our website is converted into code before being sent over the Internet. We also use a Digital Secure Server ID from VeriSign in an attempt to provide the best possible commercially available protection on the Internet. Unfortunately these security measures are not 100% secure and it is possible that others may intercept the information you are sending. 
-
-**Data Access and Correction**
-
-You are entitled to access personally identifiable information we hold about you and if applicable to correct or update it. You also have the right to request details of our personal privacy policy and the type of personal data we hold. You may do so by contacting our Privacy Compliance Officer by telephone on +852 2893 4093 or by email to info@asia-hotels.com. We have the right to charge a reasonable fee for processing a data access request 
+|  
