@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrdsb.ca privacy policy that was archived on 2005-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050613074336id_/http%3A//www.wrdsb.on.ca/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrdsb.ca privacy policy that was archived on 2006-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060509042748id_/http%3A//www.wrdsb.on.ca/privacy.php) for the most accurate reproduction.*
 
 # Waterloo Region District School Board - Welcome to Kindergarten
 
@@ -26,80 +26,4 @@ Please note that we may revise our policy as the content on our sites continues 
 
 We hope that you enjoy exploring our sites. 
 
-**wrdsb.on.ca** is owned and operated by the Waterloo Region District School Board., 51 Ardelt Ave Kitchener Ontario N2C 2R5. We can be reached by phone at 1-519-570-0003. If you have any questions about our privacy policy or practices, or you wish to amend, update, or verify information on file, or to notify us that you want your information deleted from our files, contact us at this address.   
-  
-The Board
-
-Budget Information
-
-Accommodation Planning
-
-Annual Accessibility Plan
-
-Learning Opportunities Grant
-
-Adult and Continuing Education
-
-Partnerships with Schools
-
-School Rentals
-
-Waterloo Education Foundation
-
-Office of Partnership and Innovation
-
-Curriculum Resources
-
- Software Depot  
- (for internal use only)
-
-Other Sites of Interest
-
-School Finder
-
-Street Proofing Your Children
-
-Transportation
-
-School Councils / WRAPSC
-
-Adult and Continuing Education
-
-School Year Calendar
-
-Communicating with Your School
-
-Parent, Student, Teacher Conferences
-
-French Programs
-
-Student Assessment
-
-Safe and Secure Schools
-
-Special Education
-
-Elementary
-
-Secondary
-
-Healthy Food and Beverage
-
-Secondary Curriculum
-
-Community Involvement Manual
-
-Grade 9-11 Student Report Card
-
- Ontario Youth Apprenticeship Program  
- (Community-based Learning)
-
-International Baccalaureate
-
-Board Designated Magnet Programs
-
-Online Cooperative Education Application
-
-Fast Forward Program
-
-Success For All
+**wrdsb.on.ca** is owned and operated by the Waterloo Region District School Board., 51 Ardelt Ave Kitchener Ontario N2C 2R5. We can be reached by phone at 1-519-570-0003. If you have any questions about our privacy policy or practices, or you wish to amend, update, or verify information on file, or to notify us that you want your information deleted from our files, contact us at this address. 
