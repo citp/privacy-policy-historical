@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brixton.com privacy policy that was archived on 2005-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050313225852id_/http%3A//www.brixton.com/DesktopDefault.aspx%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brixton.com privacy policy that was archived on 2006-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060509154047id_/http%3A//www.brixton.com/DesktopDefault.aspx%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Alebra Technologies Inc. Privacy
 
