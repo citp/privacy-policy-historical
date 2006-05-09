@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the chetday.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210104332id_/http%3A//chetday.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chetday.com privacy policy that was archived on 2006-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060509033553id_/http%3A//chetday.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Health & Beyond Online Privacy Policy
-
-| 
 
 ## **Health & Beyond Online  
 Privacy Policy**
@@ -39,7 +37,7 @@ ChetDay.com does not knowingly collect or solicit Personally Identifiable Inform
 
 **Contacting Us.**
 
-You can [click here](https://web.archive.org/web/20051210104332id_/http%3A//chetday.com/feedback.htm) to contact us with our feedback form at ChetDay.com.
+You can [click here](https://web.archive.org/web/20060509033553id_/http%3A//chetday.com/feedback.htm) to contact us with our feedback form at ChetDay.com.
 
 **Changes to this Policy**
 
@@ -54,6 +52,4 @@ If it proves impossible to arrive at a mutually satisfactory solution through me
 ChetDay.com is controlled, operated and administered entirely within North Carolina. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.  
 
 
-[**Click Here**](http://chetday.com/cgi-bin/birdcast.cgi) **to recommend Health & Beyond Online to a friend and receive a** ** free body detox routine for doing so.**  
-  
----|---
+[**Click Here**](http://chetday.com/cgi-bin/birdcast.cgi) **to recommend Health & Beyond Online to a friend and receive a** ** free body detox routine for doing so.**
