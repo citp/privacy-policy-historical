@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the htmart.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229110629id_/http%3A//www.htmart.com/pages.php%3Fpageid%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the htmart.com privacy policy that was archived on 2006-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060509132017id_/http%3A//www.htmart.com/pages.php%3Fpageid%3D5) for the most accurate reproduction.*
 
 # Home Theater Mart :: Privacy Policy
 
@@ -50,7 +50,7 @@ Should you have other questions or concerns about our Privacy Policy, please cal
 Your Consent to this Privacy Policy:  
 By using the HT MART web site, you agree to this Privacy Policy. If we decide to change our privacy policy, we will post those changes on this page. It is your responsibility to review our privacy policy and remain informed about any changes to it. 
 
-This site and its contents, unless specifically noted, are copyright HT MART © 2005. Unauthorized use of site content is prohibited. All rights reserved. 
+This site and its contents, unless specifically noted, are copyright HT MART © 2005 - 2020\. Unauthorized use of site content is prohibited. All rights reserved. 
 
 Please visit the HT MART [Help Zone](http://www.htmart.com/help.php) with any other questions you may have regarding our policies. 
 
