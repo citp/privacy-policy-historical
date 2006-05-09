@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ecommunity.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229200816id_/http%3A//www.ecommunity.com/privacy/index.asp%3Fpg%3D8130) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecommunity.com privacy policy that was archived on 2006-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060509180635id_/http%3A//www.ecommunity.com/privacy/index.asp%3Fpg%3D8130) for the most accurate reproduction.*
 
 # eCommunity.com: Privacy Notice: Notice of Privacy Practices
 
-[Home](https://web.archive.org/) > [Privacy Notice](https://web.archive.org/privacy/) > [Notice of Privacy Practices](https://web.archive.org/web/20051229200816id_/http%3A//www.ecommunity.com/privacy/index.asp?pg=8130)
+[Home](https://web.archive.org/) > [Privacy Notice](https://web.archive.org/privacy/) > [Notice of Privacy Practices](https://web.archive.org/web/20060509180635id_/http%3A//www.ecommunity.com/privacy/index.asp?pg=8130)
 
 Effective Date   
 1/21/05 **COMMUNITY HOSPITALS of INDIANA, INC. and THE INDIANA HEART HOSPITAL  
