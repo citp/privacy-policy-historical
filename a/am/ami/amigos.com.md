@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amigos.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206191438id_/http%3A//amigos.com/go/page/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amigos.com privacy policy that was archived on 2006-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060509175552id_/http%3A//amigos.com/go/page/privacy.html) for the most accurate reproduction.*
 
 # Amigos.com PRIVACY POLICY
 
