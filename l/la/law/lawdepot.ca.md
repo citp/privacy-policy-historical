@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the lawdepot.ca privacy policy that was archived on 2003-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030812075707id_/http%3A//www.lawdepot.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawdepot.ca privacy policy that was archived on 2006-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060509203212id_/http%3A//www.lawdepot.com/privacy.php%3Fad%3Dfooter) for the most accurate reproduction.*
 
-# LawDepot Privacy Policy
+# Privacy Policy from LawDepot.com
+
+## LawDepot Privacy Policy
 
 ### Our Commitment to your Privacy
 
@@ -20,7 +22,7 @@ Your personal information will be used in order to provide you with better servi
 
 We will NOT sell or rent your name or personal information to anyone else. We DO NOT sell, rent or provide outside access to our mailing list at all.
 
-If required by law, search warrant, subpoena or court order, LawDepot may be required to release such personal information.
+If required by law, search warrant, subpoena, court order, or credit card fraud investigation, LawDepot may be required to release such personal information.
 
 ### Security of your Personal Information
 
