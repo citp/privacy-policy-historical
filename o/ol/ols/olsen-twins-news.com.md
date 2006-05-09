@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the olsen-twins-news.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204060713id_/http%3A//www.olsen-twins-news.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olsen-twins-news.com privacy policy that was archived on 2006-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060509180929id_/http%3A//www.olsen-twins-news.com/privacy.htm) for the most accurate reproduction.*
 
 # Olsen Twins News - Privacy
 
@@ -9,7 +9,7 @@
 
   
 **Third Party Cookies  
-**In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
+**In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique ?cookie? on your browser.
 
 **Olsen Twins News respects your privacy.**
 
@@ -33,4 +33,4 @@ While we do our best to protect your personal information, we cannot guarantee t
 
 Please contact those vendors and others directly if you have any questions about their privacy policies.
 
-For any other information use the contact form [here](https://web.archive.org/web/20050204060713id_/http%3A//www.olsen-twins-news.com/otn-contact)
+For any other information use the contact form [here](https://web.archive.org/web/20060509180929id_/http%3A//www.olsen-twins-news.com/otn-contact)
