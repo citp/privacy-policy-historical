@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the relevantmagazine.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404165235id_/http%3A//www.relevantmagazine.com/copyright.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relevantmagazine.com privacy policy that was archived on 2006-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060509055410id_/http%3A//www.relevantmagazine.com/privacy.php) for the most accurate reproduction.*
 
-# RELEVANT magazine :: GOD.LIFE.PROGRESSIVE CULTURE.
+# RELEVANT MAGAZINE
 
-**PRIVACY POLICY**   
+PRIVACY POLICY  
+Monday, November 7, 2005
+
 I. General Policy. 
 
 Relevant Media Group, Inc. ("Relevant") respects the privacy concerns of the visitors to relevantmagazine.com (the "Web Site"). As a general policy, no personal information is automatically collected from users of the site. In the event that we do collect any personally identifiable data about visitors to this site, that information is only collected on a voluntary basis, and it is only known to Relevant. 
@@ -33,6 +35,6 @@ Contact Us:
 
 If you have any questions about this policy, you may contact   
 Attn: [Webmaster/relevantmagazine.com](mailto:info@relevantmediagroup.com)   
-Relevant Media Group, PO Box 951127, Lake Mary, FL 32795
+Relevant Media Group, 100 S. Lake Destiny Road, Suite 200, Orlando, FL 32810 
 
-© 2002 Relevant Media Group, Inc.
+© 2005 Relevant Media Group, Inc.
