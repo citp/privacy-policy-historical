@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paddypowercasino.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214222411id_/http%3A//www.paddypowercasino.com/EntryPoint%3Faction%3Dstatic%26ref%3DprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paddypowercasino.com privacy policy that was archived on 2006-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060509233433id_/http%3A//www.paddypowercasino.com/EntryPoint%3Faction%3Dstatic%26ref%3DprivacyPolicy) for the most accurate reproduction.*
 
 # Paddy Power Casino - an online casino you can trust
 
