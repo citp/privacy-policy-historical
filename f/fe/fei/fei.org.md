@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fei.org privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210221237id_/http%3A//fei.org/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fei.org privacy policy that was archived on 2006-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060510174009id_/http%3A//fei.org/privacy.cfm) for the most accurate reproduction.*
 
 # FEI: The association for financial executives: cfos, financial management, management accounting, jobs and Sarbanes-Oxley compliance
 
@@ -20,3 +20,9 @@ This Web site also contains links to other web sites. FEI has no control over an
 *Revised August 2004 
 
 | 
+
+|   
+---  
+[](https://web.archive.org/news/fei_75.cfm)  
+  
+
