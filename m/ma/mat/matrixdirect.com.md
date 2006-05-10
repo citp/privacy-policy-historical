@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the matrixdirect.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231194006id_/http%3A//www.matrixdirect.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matrixdirect.com privacy policy that was archived on 2006-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060510050951id_/http%3A//www.matrixdirect.com/privacy.html) for the most accurate reproduction.*
 
-# Matrix Direct privacy policy
+# Life Insurance Quotes at Matrix Direct: Term Life Insurance Quotes, Affordable Life Insurance Rates, Affordable Term Life Insurance, Term Life Insurance Policy
 
 Protecting the privacy of information about our customers is important. This notice tells you how we treat information about our current and former customers. 
 
@@ -64,7 +64,7 @@ We will not share information with anyone else unless
 
 ##  Notification of Changes
 
-This policy effective 09-09-04. If we decide to change our privacy policy, we will post those changes on our Web site. Access to those changes will be presented via a link on our homepage and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection, we will notify users via email or postal mail. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of receiving communication from Matrix Direct Insurance Services Inc., then they will not be contacted, nor will their personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change. 
+This policy effective 09-09-04. If we decide to change our privacy policy, we will post those changes on our Web site. Access to those changes will be presented via a link on our homepage and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection, we will notify users via email or postal mail. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of receiving communication from Matrix Direct Insurance Services Inc., then they will not be contacted, nor will their personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change.
 
 ##   
 Contact Information
@@ -73,7 +73,7 @@ If users have any questions regarding our privacy policy, please contact us at:
 
 > ##  Information Collection on the Web 
 
-Matrix Direct Insurance Services Inc. is the sole owner of the information collected on matrixdirect.com. Matrix Direct collects information from our users at several different points on our Web site. 
+Matrix Direct Insurance Services Inc. is the sole owner of the information collected on matrixdirect.com. Matrix Direct collects information from our users at several different points on our Web site.
 
 ##    
 Cookies
@@ -103,5 +103,3 @@ Security
 This Web site takes every precaution to protect our users' information. When users submit sensitive information via the Web site, their information is protected both online and off-line. When our quote request form asks users to enter sensitive information (such health information), that information is encrypted and is protected with 128 bit SSL (Secure Sockets Layer) encryption software. While on a secure page, such as our quote request form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just 'surfing'. 
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, an agent or a customer service representative) are granted access to personally identifiable information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every year, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users' information is protected. Finally, the servers that store personally identifiable information are in a secure environment in a locked facility. If users have any questions about the security at our Web site, users can send an email to [customerservice2@matrixdirect.com](mailto:customerservice2@matrixdirect.com).
-
-|   |  
