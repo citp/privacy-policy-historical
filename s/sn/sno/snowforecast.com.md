@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snowforecast.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220100647id_/http%3A//www.snowforecast.com/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snowforecast.com privacy policy that was archived on 2006-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060510082812id_/http%3A//snowforecast.com/aboutus/privacy.html) for the most accurate reproduction.*
 
 # Snow Forecast ::: Privacy Statement
 
