@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldenskate.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229080333id_/http%3A//www.goldenskate.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldenskate.com privacy policy that was archived on 2006-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060510131433id_/http%3A//www.goldenskate.com/privacy.shtml) for the most accurate reproduction.*
 
 # Golden Skate's Privacy Policy
 
@@ -15,7 +15,7 @@
 > 
 > **COPPA**
 > 
-> _Golden Skate_ , in compliance with the Children's Online Privacy Protection Act (COPPA) of 1998, provides notice to parents of children under 13 that: 
+> _Golden Skate_ , in compliance with the [Children's Online Privacy Protection Act (COPPA) of 1998](http://www.ftc.gov/ogc/coppa1.htm), provides notice to parents of children under 13 that: 
 > 
 >   * The [_Golden Skate Forums_](http://www.goldenskate.com/forum/) require the consent of parents or guardians to collect, use and disclose personally identifiable information about children under 13;
 >   * _Golden Skate_ has created a mechanism by which parents and guardians can provide consent;
