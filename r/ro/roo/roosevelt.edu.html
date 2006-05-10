@@ -1,355 +1,501 @@
-<!--The following is the downloaded HTML source of the roosevelt.edu privacy policy that was archived on 2005-03-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050308031541id_/http%3A//www.roosevelt.edu/technology/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the roosevelt.edu privacy policy that was archived on 2006-05-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060510171834id_/http%3A//www.roosevelt.edu/doit/website/privacy.htm) for the most accurate reproduction.-->
 
 <html><head>
 <meta http-equiv="Content-Language" content="en-us">
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-<title>Roosevelt University - Privacy Policy</title>
-<link rel="stylesheet" type="text/css" href="../links.css">
+<title>Roosevelt University - DoIT - Web Site Standards and Practices</title>
+<link rel="stylesheet" type="text/css" href="../../siteStyle.css">
+<link rel="stylesheet" type="text/css" href="../../navBar.css">
+<script language="JavaScript">
+var gAutoPrint = false;
+
+function printSpecial()
+{
+	if (document.getElementById != null)
+	{
+		var html = '<HTML>\n<HEAD>\n<title>\n';
+
+		if (document.getElementsByTagName != null)
+		{
+			var headTags = document.getElementsByTagName("title");
+			if (headTags.length > 0)
+				html += headTags[0].innerHTML;
+		}
+		html += '\n</title>';
+		html += '\n<link rel=stylesheet type=text/css href=http://www.roosevelt.edu/siteStyle.css>';
+		html += '\n</HE' + 'AD>\n<BODY>\n\<img src=http://www.roosevelt.edu/images/logo.jpg>';
+		
+		var printReadyElem = document.getElementById("printReady");
+		
+		if (printReadyElem != null)
+		{
+				html += printReadyElem.innerHTML;
+		}
+		else
+		{
+			alert("Could not find the printReady section in the HTML");
+			return;
+		}
+			
+		html += '\n</BO' + 'DY>\n</HT' + 'ML>';
+		
+		var printWin = window.open("","printSpecial");
+		printWin.document.open();
+		printWin.document.write(html);
+		printWin.document.close();
+		if (gAutoPrint)
+			printWin.print();
+	}
+	else
+	{
+		alert("Sorry, the print ready feature is only available in modern browsers.");
+	}
+}
+
+</script>
+<script language="javascript">
+var initialtab=[1, "sc1"]
+
+
+var turntosingle=0
+
+
+var disabletablinks=0
+
+
+
+var previoustab=""
+
+if (turntosingle==1)
+document.write('<style type="text/css">\n#tabcontentcontainer{display: none;}\n</style>')
+
+function expandcontent(cid, aobject){
+if (disabletablinks==1)
+aobject.onclick=new Function("return false")
+if (document.getElementById){
+highlighttab(aobject)
+if (turntosingle==0){
+if (previoustab!="")
+document.getElementById(previoustab).style.display="none"
+document.getElementById(cid).style.display="block"
+previoustab=cid
+}
+}
+}
+
+function highlighttab(aobject){
+if (typeof tabobjlinks=="undefined")
+collecttablinks()
+for (i=0; i<tabobjlinks.length; i++)
+tabobjlinks[i].className=""
+aobject.className="current"
+}
+
+function collecttablinks(){
+var tabobj=document.getElementById("tablist")
+tabobjlinks=tabobj.getElementsByTagName("A")
+}
+
+function do_onload(){
+collecttablinks()
+expandcontent(initialtab[1], tabobjlinks[initialtab[0]-1])
+}
+
+if (window.addEventListener)
+window.addEventListener("load", do_onload, false)
+else if (window.attachEvent)
+window.attachEvent("onload", do_onload)
+else if (document.getElementById)
+window.onload=do_onload
+</script><script language="JavaScript">
+function NewWindow(mypage, myname, w, h, scroll) {
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+</script>
+<script type="text/javascript">
+<!--
+function popup(mylink, windowname, w, h, scroll)
+{
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable'
+
+if (! window.focus)return true;
+var href;
+if (typeof(mylink) == 'string')
+href=mylink;
+else
+href=mylink.href;
+window.open(href, windowname, winprops);
+return false;
+}
+//-->
+</script>
 </head>
 <body>
-<!--webbot bot="Include" U-Include="../header.htm" TAG="BODY" startspan -->
-<div align="center">
- <center>
- <table border="1" cellpadding="0" cellspacing="4" style="border-collapse: collapse" bordercolor="#C0C0C0" id="AutoNumber1" width="715" height="65"><tbody><tr><td>
- <a href="http://www.roosevelt.edu/">
- <img border="0" src="../images/logo.jpg" alt="Roosevelt University - Dedicated to the Enlightenment of the Human Spirit" width="312" height="57"></a></td>
- <td align="right" valign="middle">
-<form method="GET" action="http://www.google.com/u/roosevelt">
-  <font face="Verdana, Arial, Helvetica" size="1">&nbsp;&nbsp; <a href="http://www.roosevelt.edu/contact/default.htm">Contact Us</a>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; </font>
-<input type="text" name="q" size="15" maxlength="255" value="" style="font-family: Verdana, Arial, Helvetica; font-size: 10pt">
-<input type="submit" name="sa" value="Search" style="font-family: Verdana, Arial, Helvetica; font-size: 10pt">
-  </form>
-<map name="FPMap0_I1">
-<area href="../ruaccess/default.htm" shape="rect" coords="0, 0, 80, 19">
-<area href="../schedule/default.htm" shape="rect" coords="85, 0, 156, 19">
-<area href="../ruonline/default.htm" shape="rect" coords="164, 0, 230, 19">
-<area href="../directory/default.htm" shape="rect" coords="238, 0, 307, 19">
-<area href="../jobs/default.asp" shape="rect" coords="317, 3, 359, 19">
-</map><img border="0" src="../images/map.gif" usemap="#FPMap0_I1" width="360" height="20"></td></tr>
-  </tbody></table>
- </center></div>
+<strong></strong>
 
-<div align="center">
- <center>
- <table border="0" cellpadding="0" style="border-collapse: collapse" bordercolor="#111111" id="AutoNumber2" width="715" height="22"><tbody><tr><td><font size="1" face="Verdana, Arial, Helvetica">&nbsp; </font></td></tr>
- </tbody></table>
-</center></div><!--webbot bot="Include" i-checksum="11134" endspan --><center>
-<table border="1" cellpadding="5" bordercolor="#C0C0C0" cellspacing="0" style="border-style: solid; border-collapse:collapse" width="715">
-<tbody><tr><td align="center" valign="top" width="155">
-<!--webbot bot="Include" U-Include="../otherlinks.htm" TAG="BODY" startspan -->
-<table width="150" border="1" cellspacing="0" bordercolor="#003300" style="border-collapse: collapse">
-<tbody><tr><td with="140" height="20" bgcolor="#003300"><p align="left"><b><font size="2" color="#EEEEEE" face="Verdana">Information for:</font></b></p></td></tr>
-<tr><td valign="top" bgcolor="#EEEEEE" width="140"><p>
-<img border="0" src="../images/bullet6.gif" alt="bullet" width="13" height="20"><font face="verdana, arial, helvetica" size="1"><a style="text-decoration: none" href="../admission/default.asp">Future Students</a></font><br>
-<img border="0" src="../images/bullet4.gif" alt="bullet" width="13" height="14"><font face="verdana, arial, helvetica" size="1"><a href="../current/default.asp" style="text-decoration: none">Current Students</a></font><br>
-<img border="0" src="../images/bullet4.gif" alt="bullet" width="13" height="14"><font face="verdana, arial, helvetica" size="1"><a href="../alumni/default.asp" style="text-decoration: none">Alumni &amp; Friends</a></font><br>
-<img border="0" src="../images/bullet4.gif" alt="bullet" width="13" height="14"><font face="verdana, arial, helvetica" size="1"><a href="../fac-staff/default.htm" style="text-decoration: none">Faculty &amp; Staff</a></font><br>
-<font size="1" face="Verdana, Arial, Helvetica">&nbsp;</font></p></td>
+<table width="715" height="22" border="0" align="center" cellpadding="0" cellspacing="0" background="../../images/infoFor.gif">
+<tbody><tr>
+<td width="267" align="left">&nbsp;</td>
+
+<td width="448" align="right" valign="top"><span class="dots">&nbsp;</span><a class="spot" href="../../ruaccess/default.htm">RU
+Access</a><img src="../../images/lowDotWhite.gif" width="12" height="10"><a class="spot" href="../../schedule/default.htm">Schedule</a><img src="../../images/lowDotWhite.gif" width="12" height="10"><a class="spot" href="../../ruonline/default.htm">RU Online</a><img src="../../images/lowDotWhite.gif" width="12" height="10"><a class="spot" href="../../directory/default.htm">Directory</a><img src="../../images/lowDotWhite.gif" width="12" height="10"><a class="spot" href="../../contact/default.htm">Contact
+Us</a></td>
+</tr>
+</tbody></table>
+<table width="715" border="0" align="center" cellpadding="0" cellspacing="0">
+<form method="GET" action="http://www.google.com/u/roosevelt"></form>
+<tbody><tr>
+  <td align="left" bgcolor="#006800"><span class="text8Black">&nbsp;&nbsp;&nbsp;</span><a class="audiences" href="../../admission/default.asp">Future Students</a>
+  <img src="../../images/1dot.gif">
+  <a class="audiences" href="../../current/default.asp">Current Students</a>
+  <img src="../../images/1dot.gif">
+  <a class="audiences" href="../../parents/default.asp">Parents</a>
+  <img src="../../images/1dot.gif">
+  <a class="audiences" href="../../alumni/default.asp">Alumni</a>
+  <img src="../../images/1dot.gif">
+  <a class="audiences" href="../../fac-staff/default.htm">Faculty &amp; Staff</a></td>
+<td align="right" valign="middle" bgcolor="#006800">
+<input name="q" type="text" size="13" maxlength="255">
+<input type="submit" name="sa" value="Search"></td></tr>
+</tbody></table>
+
+<table width="715" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tbody><tr>
+    <td>
+	<map name="FPMap0_I1">
+	<area href="../../default.asp" shape="rect" coords="388, 18, 685, 53">
+	<area href="../../chicago/default.asp" shape="rect" coords="408, 56, 480, 74">
+	<area href="../../schaumburg/default.htm" shape="rect" coords="490, 56, 587, 76">
+	<area href="../../ruonline/default.htm" shape="rect" coords="593, 56, 653, 76">
+	<area href="../../aboutru/roosevelts.htm" shape="rect" coords="5, 26, 100, 84">
+	</map>
+	<img src="../../images/logoRs2.jpg" width="715" height="85" border="0" usemap="#FPMap0_I1"></td>
 </tr></tbody></table>
-<div align="left">
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111">
-<tbody><tr><td><img border="0" src="../images/spacer.gif" width="1" height="25"></td></tr></tbody></table></div>
-<table width="150" border="1" cellpadding="0" cellspacing="0" bgcolor="#EEEEEE" style="border-collapse: collapse" bordercolor="#003300">
-<tbody><tr><td with="140" height="20" bgcolor="#003300"><p align="left"><b><font face="Verdana" size="2" color="#EEEEEE">Information about:</font></b></p></td></tr>
-<tr><td><p align="left">
-<img border="0" src="../images/bullet6.gif" alt="bullet" width="13" height="20"><a href="../aboutru/default.asp" style="text-decoration: none"><font size="1">The University</font></a><br> 
-<img border="0" src="../images/bullet4.gif" alt="bullet" width="13" height="14"><font face="verdana, arial, helvetica" size="1"><a href="../academics/default.htm" style="text-decoration: none">Academics &amp; Majors</a></font><br> 
-<img border="0" src="../images/bullet4.gif" alt="bullet" width="13" height="14"><font face="verdana, arial, helvetica" size="1"><a style="text-decoration: none" href="../admission/default.asp">Admission</a></font><br>
-<img border="0" src="../images/bullet4.gif" alt="bullet" width="13" height="14"><font face="verdana, arial, helvetica" size="1"><a href="../financialaid/default.htm" style="text-decoration: none">Financial Aid 
-(Tuition)</a></font><br>
-<img border="0" src="../images/bullet4.gif" alt="bullet" width="13" height="14"><font face="verdana, arial, helvetica" size="1"><a href="../schedule/default.htm" style="text-decoration: none">Schedule of Classes</a></font><br>
-<img border="0" src="../images/bullet4.gif" alt="bullet" width="13" height="14"><font face="verdana, arial, helvetica" size="1"><a href="../catalog/default.asp" style="text-decoration: none">Catalogs</a></font><br>
-<img border="0" src="../images/bullet10.gif" alt="bullet" width="13" height="24"><font face="verdana, arial, helvetica" size="1"><a href="../faculty/default.asp" style="text-decoration: none">Faculty</a></font><br>
-<img border="0" src="../images/bullet4.gif" alt="bullet" width="13" height="14"><font face="verdana, arial, helvetica" size="1"><a style="text-decoration: none" href="http://www2.roosevelt.edu/library/default.asp">The Library</a></font><br>
-<img border="0" src="../images/bullet4.gif" alt="bullet" width="13" height="14"><font size="1"><a style="text-decoration: none" href="../aboutru/people.htm">People</a></font><br>
-<img border="0" src="../images/bullet4.gif" alt="bullet" width="13" height="14"><font face="verdana, arial, helvetica" size="1"><a href="../campuses/default.asp" style="text-decoration: none">Campuses</a></font><br>
-<img border="0" src="../images/bullet4.gif" alt="bullet" width="13" height="14"><font face="verdana, arial, helvetica" size="1"><a href="../centers/default.htm" style="text-decoration: none">Institutes &amp; Centers</a></font><br>
-<img border="0" src="../images/bullet4.gif" alt="bullet" width="13" height="14"><font face="verdana, arial, helvetica" size="1"><a href="http://www2.roosevelt.edu/pr/default.asp" style="text-decoration: none">News Releases</a></font><br>
-<img border="0" src="../images/bullet4.gif" alt="bullet" width="13" height="14"><font face="verdana, arial, helvetica" size="1"><a href="../calendars/default.asp" style="text-decoration: none">Calendars</a></font><br>
-<img border="0" src="../images/bullet4.gif" alt="bullet" width="13" height="14"><font face="verdana, arial, helvetica" size="1"><a href="../jobs/default.asp" style="text-decoration: none">Jobs</a></font><br>
-<img border="0" src="../images/bullet10.gif" alt="bullet" width="13" height="24"><font face="verdana, arial, helvetica" size="1"><a href="default.asp" style="text-decoration: none">Technology</a></font><br>
-<img border="0" src="../images/bullet4.gif" alt="bullet" width="13" height="14"><font face="verdana, arial, helvetica" size="1"><a style="text-decoration: none" href="http://www.roosevelt.edu/intranet/default.htm">Intranet</a></font><br>
-<img border="0" src="../images/bullet4.gif" alt="bullet" width="13" height="14"><font face="verdana, arial, helvetica" size="1"><a href="http://mail.roosevelt.edu" style="text-decoration: none">Student E-mail</a></font><br>
-<img border="0" src="../images/bullet10.gif" alt="bullet" width="13" height="24"><font face="verdana, arial, helvetica" size="1"><a href="../contact/default.htm" style="text-decoration: none">Contact Us</a></font><br>
-<img border="0" src="../images/bullet10.gif" alt="bullet" width="13" height="24"><b><font face="verdana, arial, helvetica" size="1"><a href="../default.asp" style="text-decoration: none">HOME</a></font></b><br>
-<font size="1" face="Verdana, Arial, Helvetica">&nbsp;</font></p>
+
+
+<table width="715" align="center" bgcolor="#EEEEEE">
+<tbody><tr><td align="center">
+<ul id="tablist">
+<li><a onmouseover="expandcontent('sc1', this)" href="../../default.asp" class="current">Home</a></li>
+<li><a onmouseover="expandcontent('sc2', this)" href="../../aboutru/default.asp" class="">About RU</a></li>
+<li><a onmouseover="expandcontent('sc3', this)" href="../../teaching/default.asp" class="">Teaching &amp; Learning</a></li>
+<li><a onmouseover="expandcontent('sc4', this)" href="../../admission/default.asp" class="">Admission</a></li>
+<li><a onmouseover="expandcontent('sc5', this)" href="../../campuses/default.asp" class="">Campus &amp; Community</a></li>
+<li><a onmouseover="expandcontent('sc6', this)" href="../../services/default.asp" class="">Services &amp; Administration</a></li>
+</ul>
 </td></tr></tbody></table>
-<div align="left"><table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111"><tbody><tr><td><img border="0" src="../images/spacer.gif" width="1" height="25"></td></tr></tbody></table></div>
-<!--webbot bot="Include" i-checksum="44086" endspan --><br></td>
-<td width="555" valign="top">
-<p>
-<b><font face="Verdana, Arial, san-serif">Roosevelt University Privacy Policy</font></b></p>
+<table width="715" align="center"><tbody><tr><td>
+<div id="tabcontentcontainer">
+
+<div id="sc1" class="tabcontent" style="display: block;">&nbsp;
+</div>
+
+<div id="sc2" class="tabcontent">
+<a href="../../aboutru/history.htm">History</a>&nbsp;&nbsp;<span class="text8Bold">|</span>&nbsp;&nbsp;<a href="../../aboutru/socialJustice.htm">Social Justice</a>&nbsp;&nbsp;<span class="text8Bold">|</span>&nbsp;&nbsp;<a href="../../aboutru/mission.htm">Mission</a>&nbsp;&nbsp;<span class="text8Bold">|</span>&nbsp;&nbsp;<a href="../../aboutru/people.htm">People</a>&nbsp;&nbsp;<span class="text8Bold">|</span> 
+<a href="http://www2.roosevelt.edu/pr/default.asp">News</a>&nbsp;&nbsp;<span class="text8Bold">|</span> 
+<a href="../../calendars/default.asp">Calendars</a>
+</div>
+
+<div id="sc3" class="tabcontent">
+<a href="../../academics/default.htm">Academics &amp; Majors</a>&nbsp;&nbsp;<span class="text8Bold">|</span>&nbsp;&nbsp;<a href="../../library/default.asp">Library</a>&nbsp;&nbsp;<span class="text8Bold">|</span>&nbsp;&nbsp;<a href="../../centers/default.htm">Institutes and Centers</a>&nbsp;&nbsp;<span class="text8Bold">|</span>&nbsp;&nbsp;<a href="../../faculty/default.asp">Faculty</a></div>
+
+<div id="sc4" class="tabcontent">
+<a href="https://ruaccess.roosevelt.edu/pls/prod/bwskalog.P_DispLoginNon">Apply Online</a>&nbsp;&nbsp;<span class="text8Bold">|</span>&nbsp;&nbsp;<a href="../../financialaid/default.htm">Tuition</a>&nbsp;&nbsp;&nbsp;<span class="text8Bold">|</span>&nbsp;&nbsp;<a href="../../financialaid/default.htm">Financial Aid</a>&nbsp;&nbsp;<span class="text8Bold">|</span>&nbsp;&nbsp;<a href="../../catalog/default.asp">Catalogs</a>&nbsp;&nbsp;<span class="text8Bold">|</span>&nbsp;&nbsp;<a href="../../schedule/default.htm">Schedule of Classes</a>
+</div>
+
+<div id="sc5" class="tabcontent">
+<a href="../../current/default.asp">Student Life</a>&nbsp;&nbsp;<span class="text8Bold">|</span>&nbsp;&nbsp;<a href="../../campuses/default.asp">Campuses</a>&nbsp;&nbsp;<span class="text8Bold">|</span>&nbsp;&nbsp;<a href="http://www.auditoriumtheatre.org/">Auditorium Theatre</a>&nbsp;&nbsp;<span class="text8Bold">|</span>&nbsp;&nbsp;<a href="../../chicago/default.asp">Chicago Area</a></div>
+
+<div id="sc6" class="tabcontent">
+<a href="../../jobs/default.asp">Employment</a>&nbsp;&nbsp;<span class="text8Bold">|</span>&nbsp;&nbsp;<a href="../default.asp">Technology Services</a>&nbsp;&nbsp;<span class="text8Bold">|</span>&nbsp;&nbsp;<a href="../../intranet/default.htm">Intranet</a>&nbsp;&nbsp;<span class="text8Bold">|</span>&nbsp;&nbsp;<a href="http://mail.roosevelt.edu/">Student E-mail</a>
+</div>
+
+</div>
+</td>
+<td><a href="javascript:void(printSpecial())"><img src="../../images/print.jpg" width="12" height="14" border="0" align="middle"></a><a href="javascript:void(printSpecial())" class="spot">Print-friendly version</a></td>
+</tr></tbody></table><table width="715" align="center" bgcolor="#FFFFFF" cellpadding="5" cellspacing="0">
+    <tbody><tr>
+      <td align="center" valign="top" width="155" bgcolor="#EEEEEE">&nbsp; </td>
+<td valign="top" width="555"><div id="printReady">
+  <p class="pageTitle">Roosevelt University Privacy Policy<br>
+	<a href="default.asp" class="bold10link">Web Sites</a><span class="text10Bold"> | </span><a href="../default.asp" class="bold10link">DoIT</a></p>
 <!-- "About Us" section of privacy policy -->
-<h2><font face="Verdana, Arial, Helvetica" size="2">Summary</font></h2>
-<p><font face="Verdana, Arial, Helvetica" size="2">Roosevelt University respects 
+<h2>Summary</h2>
+<p>Roosevelt University respects 
 the privacy of the individuals who visit our Web site. We make no attempt to 
 gather information about you unless that information is provided voluntarily. 
 All such information will be used to conduct official Roosevelt business. We 
 strictly adhere to
 <a target="_blank" href="http://www.ed.gov/offices/OII/fpco/ferpa/">Family 
 Educational Rights and Privacy Act (FERPA)</a> requirements with respect to all 
-communication with and about students.</font></p>
-<p><font face="Verdana, Arial, Helvetica" size="2">Information is gathered via 
+communication with and about students.</p>
+<p>Information is gathered via 
 the web site primarily by two methods. First, our web server automatically logs 
 visits to the site. This log contains such information as your computer's IP 
 address, the time and date of the visit, and the files accessed. This 
 information is used for statistical and analytical purposes only. The second 
 main method used to collect information is done through the use of forms that 
 you may voluntarily complete. The information collected will only be used by 
-Roosevelt for the form's stated purpose.</font></p>
-<h2><font face="Verdana, Arial, Helvetica" size="2">About Us</font></h2>
-<p><font size="2" face="Verdana, Arial, Helvetica">This is a privacy policy for Roosevelt University.
-Our homepage on the Web is located at </font><font size="2"> <a href="http://www.roosevelt.edu">
-http://www.roosevelt.edu</a><font face="Verdana, Arial, Helvetica">.
+Roosevelt for the form's stated purpose.</p>
+<h2>About Us</h2>
+<p>This is a privacy policy for Roosevelt University.
+Our homepage on the Web is located at  <a href="http://www.roosevelt.edu/">
+http://www.roosevelt.edu</a>.
 The full text of our privacy policy is available on the Web at 
-</font> 
-<a href="http://www.roosevelt.edu/technology/privacy.htm">
-http://www.roosevelt.edu/technology/privacy.htm</a></font><font size="2" face="Verdana, Arial, Helvetica">
-This policy does not tell users where they can go to exercise their opt-in or opt-out options.</font></p><p>
-<font face="Verdana, Arial, Helvetica" size="2">We invite you to contact us if you have questions about this policy.
+ 
+<a href="privacy.htm">www.roosevelt.edu/doit/website/privacy.htm</a>
+This policy does not tell users where they can go to exercise their opt-in or opt-out options.</p><p>
+We invite you to contact us if you have questions about this policy.
 You may contact us by mail at the following address:
 Webmaster
 1430 N. Roosevelt Blvd. Room 700
 Schaumburg, IL 60195 
-USA </font>
-</p><p><font size="2" face="Verdana, Arial, Helvetica">You may contact us by e-mail at 
-</font><font size="2"> 
+USA 
+</p><p>You may contact us by e-mail at 
+ 
 <a href="mailto:webmaster@roosevelt.edu">
-webmaster@roosevelt.edu</a></font><font size="2" face="Verdana, Arial, Helvetica">. 
+webmaster@roosevelt.edu</a>. 
 You may call us at 847-619-8659.
 <!-- "Privacy Seals" section of privacy policy -->
-</font>
-</p><h2><font face="Verdana, Arial, Helvetica" size="2">Dispute Resolution and Privacy Seals</font></h2>
-<ul>
-<li>
-<font face="Verdana, Arial, Helvetica" size="2">
-<b>Dispute</b>:
-Any disputes of this privacy policy should be addressed to webmaster@roosevelt.edu.
-</font>
-</li></ul>
-<font face="Verdana, Arial, Helvetica" size="2">
-<!-- "Additional information" section of privacy policy -->
-</font>
-<h2><font face="Verdana, Arial, Helvetica" size="2">Additional Information</font></h2>
-<p>
-<font face="Verdana, Arial, Helvetica" size="2">This policy is valid for 1 day from the time that it is loaded by a client.
-</font>
-</p>
-<font face="Verdana, Arial, Helvetica" size="2">
-<!-- "Data Collection" section of privacy policy -->
-</font>
-<h2><font face="Verdana, Arial, Helvetica" size="2">Data Collection</font></h2>
-<p><font face="Verdana, Arial, Helvetica" size="2">P3P policies declare the data they collect in groups (also referred to as "statements").
-This policy contains 1 data group.
-</font>
-</p><h3><font face="Verdana, Arial, Helvetica" size="2">Group "RU Privacy"</font></h3>
-<p><font face="Verdana, Arial, Helvetica" size="2">We collect the following information:
-</font>
-</p><ul>
-<li><font face="Verdana, Arial, Helvetica" size="2">Query-string portion of URI</font></li>
-<li><font face="Verdana, Arial, Helvetica" size="2">URI stem</font></li>
-<li><font face="Verdana, Arial, Helvetica" size="2">Request timestamp</font></li>
-<li><font face="Verdana, Arial, Helvetica" size="2">Client's IP address or hostname</font></li>
-<li><font face="Verdana, Arial, Helvetica" size="2">Response status code</font></li>
-<li><font face="Verdana, Arial, Helvetica" size="2">Search terms</font></li>
-</ul>
-<p><font face="Verdana, Arial, Helvetica" size="2">At the user's option, we may also collect the following data:
-</font>
-</p><ul>
-<li><font face="Verdana, Arial, Helvetica" size="2">HTTP cookies</font></li>
-<li><font face="Verdana, Arial, Helvetica" size="2">User's Name</font></li>
-<li><font face="Verdana, Arial, Helvetica" size="2">User's Birth Date</font></li>
-<li><font face="Verdana, Arial, Helvetica" size="2">User's Gender</font></li>
-<li><font face="Verdana, Arial, Helvetica" size="2">User's Home Contact Information</font></li>
-<li><font face="Verdana, Arial, Helvetica" size="2">User's Business Contact Information</font></li>
-<li><font face="Verdana, Arial, Helvetica" size="2">Physical contact information</font></li>
-</ul>
-<p><font face="Verdana, Arial, Helvetica" size="2">This data will be used for the following purposes:</font></p>
-<ul>
-<li><font face="Verdana, Arial, Helvetica" size="2">Completion and support of the current activity.</font></li>
-<li><font face="Verdana, Arial, Helvetica" size="2">Web site and system administration.</font></li>
-<li><font face="Verdana, Arial, Helvetica" size="2">Research and development.</font></li>
-<li><font face="Verdana, Arial, Helvetica" size="2">One-time tailoring.</font></li>
-</ul>
-<p><font face="Verdana, Arial, Helvetica" size="2">This data will be used by ourselves and our agents.
-</font>
-</p><p><font face="Verdana, Arial, Helvetica" size="2">The following explanation is provided for why this data is collected:</font></p>
-<blockquote><font face="Verdana, Arial, Helvetica" size="2">Information requested via forms is provided at the option of the user.
 
-The site's servers do automatically collect the IP address, date/time, and other information sent by the user's machine. This information can not identify a user by name.</font></blockquote>
-<font face="Verdana, Arial, Helvetica" size="2">
+</p><h2>Dispute Resolution and Privacy Seals</h2>
+<ul class="bulletedListPlain">
+<li>
+
+<strong>Dispute</strong>:
+Any disputes of this privacy policy should be addressed to webmaster@roosevelt.edu.
+
+</li></ul>
+
+<!-- "Additional information" section of privacy policy -->
+
+<h2>Additional Information</h2>
+<p>
+This policy is valid for 1 day from the time that it is loaded by a client.
+
+</p>
+
+<!-- "Data Collection" section of privacy policy -->
+
+<h2>Data Collection</h2>
+<p>P3P policies declare the data they collect in groups (also referred to as "statements").
+This policy contains 1 data group.
+
+</p><h3>Group "RU Privacy"</h3>
+<p>We collect the following information:
+
+</p><ul class="bulletedListPlain">
+<li>Query-string portion of URI</li>
+<li>URI stem</li>
+<li>Request timestamp</li>
+<li>Client's IP address or hostname</li>
+<li>Response status code</li>
+<li>Search terms</li>
+</ul>
+<p>At the user's option, we may also collect the following data:
+
+</p><ul class="bulletedListPlain">
+<li>HTTP cookies</li>
+<li>User's Name</li>
+<li>User's Birth Date</li>
+<li>User's Gender</li>
+<li>User's Home Contact Information</li>
+<li>User's Business Contact Information</li>
+<li>Physical contact information</li>
+</ul>
+<p>This data will be used for the following purposes:</p>
+<ul class="bulletedListPlain">
+<li>Completion and support of the current activity.</li>
+<li>Web site and system administration.</li>
+<li>Research and development.</li>
+<li>One-time tailoring.</li>
+</ul>
+<p>This data will be used by ourselves and our agents.
+
+</p><p>The following explanation is provided for why this data is collected:</p>
+<blockquote>Information requested via forms is provided at the option of the user.
+
+The site's servers do automatically collect the IP address, date/time, and other information sent by the user's machine. This information can not identify a user by name.</blockquote>
+
 <!-- "Use of Cookies" section of privacy policy -->
-</font>
-<h2><font face="Verdana, Arial, Helvetica" size="2">Cookies</font></h2>
-<p><font face="Verdana, Arial, Helvetica" size="2">Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it.
-</font>
-</p><p><font face="Verdana, Arial, Helvetica" size="2">Our site makes use of cookies.
+
+<h2>Cookies</h2>
+<p>Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it.
+
+</p><p>Our site makes use of cookies.
 Cookies are used for the following purposes:
-</font>
-</p><ul>
-<li><font face="Verdana, Arial, Helvetica" size="2">Site administration
-</font>
-</li><li><font face="Verdana, Arial, Helvetica" size="2">Completing the user's current activity
-</font>
-</li><li><font face="Verdana, Arial, Helvetica" size="2">User targeting
-</font>
-</li><li><font face="Verdana, Arial, Helvetica" size="2">Research and development</font></li></ul>
-<h2><font face="Verdana, Arial, Helvetica" size="2">Compact Policy Summary</font></h2>
-<p><font face="Verdana, Arial, Helvetica" size="2">The compact policy which 
+
+</p><ul class="bulletedListPlain">
+<li>Site administration
+
+</li><li>Completing the user's current activity
+
+</li><li>User targeting
+
+</li><li>Research and development</li></ul>
+<h2>Compact Policy Summary</h2>
+<p>The compact policy which 
 corresponds to this policy is: CP="NON DSP CURa ADMa DEVa TAIa OUR IND PHY ONL 
-UNI COM NAV INT DEM OTC" </font>
-</p><p><font face="Verdana, Arial, Helvetica" size="2">The following table explains 
-the meaning of each field in the compact policy.</font></p><font face="Verdana, Arial, Helvetica" size="2">
-</font>
+UNI COM NAV INT DEM OTC" 
+</p><p>The following table explains 
+the meaning of each field in the compact policy.</p>
+
 <center>
 <table border="1" id="table1" cellspacing="0" cellpadding="2" bordercolor="#EEEEEE" width="100%">
 <tbody><tr><td valign="top">
-	<font face="Verdana, Arial, Helvetica" size="2"><b>Field</b></font></td>
+	<strong>Field</strong></td>
 	<td valign="top">
-	<font face="Verdana, Arial, Helvetica" size="2"><b>Meaning</b></font></td></tr>
+	<strong>Meaning</strong></td></tr>
 <tr><td valign="top">
-	<font face="Verdana, Arial, Helvetica" size="2">CP=</font></td>
+	CP=</td>
 <td valign="top">
-<font face="Verdana, Arial, Helvetica" size="2">This is the compact policy 
-header; it indicates that what follows is a P3P compact policy.</font></td></tr>
+This is the compact policy 
+header; it indicates that what follows is a P3P compact policy.</td></tr>
 <tr><td valign="top">
-	<font face="Verdana, Arial, Helvetica" size="2">NON</font></td>
+	NON</td>
 <td valign="top">
-<font face="Verdana, Arial, Helvetica" size="2">No access is available to 
+No access is available to 
 collected information.
-</font>
+
 </td></tr>
 <tr><td valign="top">
-	<font face="Verdana, Arial, Helvetica" size="2">DSP</font></td>
+	DSP</td>
 <td valign="top">
-<font face="Verdana, Arial, Helvetica" size="2">The policy contains at least one 
+The policy contains at least one 
 dispute-resolution mechanism.
-</font>
+
 </td></tr>
 <tr><td valign="top">
-	<font face="Verdana, Arial, Helvetica" size="2">CURa</font></td>
+	CURa</td>
 <td valign="top">
-<font face="Verdana, Arial, Helvetica" size="2">The data is used for completion 
+The data is used for completion 
 of the current activity.
-</font>
+
 </td></tr>
 <tr><td valign="top">
-	<font face="Verdana, Arial, Helvetica" size="2">ADMa</font></td>
+	ADMa</td>
 <td valign="top">
-<font face="Verdana, Arial, Helvetica" size="2">The data is used for site 
+The data is used for site 
 administration.
-</font>
+
 </td></tr>
 <tr><td valign="top">
-	<font face="Verdana, Arial, Helvetica" size="2">DEVa</font></td>
+	DEVa</td>
 <td valign="top">
-<font face="Verdana, Arial, Helvetica" size="2">The data is used for research 
+The data is used for research 
 and development.
-</font>
+
 </td></tr>
 <tr><td valign="top">
-	<font face="Verdana, Arial, Helvetica" size="2">TAIa</font></td>
+	TAIa</td>
 <td valign="top">
-<font face="Verdana, Arial, Helvetica" size="2">The data is used for tailoring 
+The data is used for tailoring 
 the site.
-</font>
+
 </td></tr>
 <tr><td valign="top">
-	<font face="Verdana, Arial, Helvetica" size="2">OUR</font></td>
+	OUR</td>
 <td valign="top">
-<font face="Verdana, Arial, Helvetica" size="2">The data is given to ourselves 
+The data is given to ourselves 
 and our agents.
-</font>
+
 </td></tr>
 <tr><td valign="top">
-	<font face="Verdana, Arial, Helvetica" size="2">IND</font></td>
+	IND</td>
 <td valign="top">
-<font face="Verdana, Arial, Helvetica" size="2">The data will be kept 
+The data will be kept 
 indefinitely.
-</font>
+
 </td></tr>
 <tr><td valign="top">
-	<font face="Verdana, Arial, Helvetica" size="2">PHY</font></td>
+	PHY</td>
 <td valign="top">
-<font face="Verdana, Arial, Helvetica" size="2">Physical contact information is 
+Physical contact information is 
 collected.
-</font>
+
 </td></tr>
 <tr><td valign="top">
-	<font face="Verdana, Arial, Helvetica" size="2">ONL</font></td>
+	ONL</td>
 <td valign="top">
-<font face="Verdana, Arial, Helvetica" size="2">Online contact information is 
+Online contact information is 
 collected.
-</font>
+
 </td></tr>
 <tr><td valign="top">
-	<font face="Verdana, Arial, Helvetica" size="2">UNI</font></td>
+	UNI</td>
 <td valign="top">
-<font face="Verdana, Arial, Helvetica" size="2">Unique identifiers are 
+Unique identifiers are 
 collected.
-</font>
+
 </td></tr>
 <tr><td valign="top">
-	<font face="Verdana, Arial, Helvetica" size="2">COM</font></td>
+	COM</td>
 <td valign="top">
-<font face="Verdana, Arial, Helvetica" size="2">Computer information is 
+Computer information is 
 collected.
-</font>
+
 </td></tr>
 <tr><td valign="top">
-	<font face="Verdana, Arial, Helvetica" size="2">NAV</font></td>
+	NAV</td>
 <td valign="top">
-<font face="Verdana, Arial, Helvetica" size="2">Navigation and clickstream data 
+Navigation and clickstream data 
 is collected.
-</font>
+
 </td></tr>
 <tr><td valign="top">
-	<font face="Verdana, Arial, Helvetica" size="2">INT</font></td>
+	INT</td>
 <td valign="top">
-<font face="Verdana, Arial, Helvetica" size="2">Interactive data is collected.
-</font>
+Interactive data is collected.
+
 </td></tr>
 <tr><td valign="top">
-	<font face="Verdana, Arial, Helvetica" size="2">DEM</font></td>
+	DEM</td>
 <td valign="top">
-<font face="Verdana, Arial, Helvetica" size="2">Demographic and socioeconomic 
+Demographic and socioeconomic 
 data is collected.
-</font>
+
 </td></tr>
 <tr><td valign="top">
-	<font face="Verdana, Arial, Helvetica" size="2">OTC</font></td>
+	OTC</td>
 <td valign="top">
-<font face="Verdana, Arial, Helvetica" size="2">Other types of information are 
+Other types of information are 
 collected.
-</font>
+
 </td></tr>
 </tbody></table></center>
-<p><font size="2" face="Verdana, Arial, Helvetica">The compact policy is sent by 
+<p>The compact policy is sent by 
 the Web server along with the cookies it describes. For more information, see 
-the P3P deployment guide at </font><font size="2"> <a href="http://www.w3.org/TR/p3pdeployment">
-http://www.w3.org/TR/p3pdeployment</a></font><font size="2" face="Verdana, Arial, Helvetica">.</font></p><h2><font face="Verdana, Arial, Helvetica" size="2">Policy Evaluation</font></h2>
-<p><font face="Verdana, Arial, Helvetica" size="2">Microsoft Internet Explorer 6 will evaluate this policy's compact policy whenever it is used with a cookie.
+the P3P deployment guide at  <a href="http://www.w3.org/TR/p3pdeployment">
+http://www.w3.org/TR/p3pdeployment</a>.</p><h2>Policy Evaluation</h2>
+<p>Microsoft Internet Explorer 6 will evaluate this policy's compact policy whenever it is used with a cookie.
 The actions IE will take depend on what privacy level the user has selected in their browser (Low, Medium, Medium High, or High; the default is Medium.
 In addition, IE will examine whether the cookie's policy is considered satisfactory or unsatisfactory, whether the cookie is a session cookie or a persistent cookie, and whether the cookie is used in a first-party or third-party context.
 This section will attempt to evaluate this policy's compact policy against Microsoft's stated behavior for IE6.
-</font>
-</p><p><font face="Verdana, Arial, Helvetica" size="2"><b>Note:</b> this evaluation is currently experimental and should not be considered a substitute for testing with a real Web browser.
-</font>
-</p><p><font face="Verdana, Arial, Helvetica" size="2"><b>Satisfactory policy</b>: this compact policy is considered <em>satisfactory</em> according to the rules defined by Internet Explorer 6.
+
+</p><p><strong>Note:</strong> this evaluation is currently experimental and should not be considered a substitute for testing with a real Web browser.
+
+</p><p><strong>Satisfactory policy</strong>: this compact policy is considered <em>satisfactory</em> according to the rules defined by Internet Explorer 6.
 IE6 will accept cookies accompanied by this policy under the High, Medium High, Medium, Low, and Accept All Cookies settings.
-</font>
-</p><p>
-<img border="0" src="../images/bk.jpg" align="texttop" alt="navigation <-- back" width="34" height="17"><font size="1" face="Verdana, Arial, Helvetica"><a href="#" onclick="history.go(-1)">Previous Page</a></font></p></td>
+
+</p>
+</div>
+
+
+<p><img border="0" src="../../images/backArrow.gif" align="top"><a href="../default.asp" class="spot">DoIT</a><span class="text8Bold"> | </span><a href="default.asp" class="spot">Web 
+Sites</a></p>
+</td>
 </tr>
-<!------------------------------------------Footer ---------------------------------------->
-<tr><td colspan="2">
-<!--webbot bot="Include" U-Include="../copyright.htm" TAG="BODY" startspan -->
-<font face="Verdana, Arial, Helvetica" size="1" color="#000000"></font><p><font face="Verdana, Arial, Helvetica" size="1" color="#000000">© 2005, Roosevelt University, All Rights Reserved<br>
-</font>
-<font face="Verdana, Arial, Helvetica" size="1" color="#800000"><b>Chicago</b></font><font face="Verdana, Arial, Helvetica" size="1" color="#000000">&nbsp; 430 S. Michigan Ave, Chicago, IL 60605 | (312) 341-3500<br>
-<font size="1" color="#800000"><b>Schaumburg</b></font><font size="1" color="#000000">&nbsp;1400 N. Roosevelt Blvd, Schaumburg, IL 60173 | (847) 619-7300</font><!--webbot bot="Include" i-checksum="30797" endspan --></font></p></td>
-</tr>
-</tbody></table>
-</center>
+
+<tr><td colspan="2"> 
+<p class="text8Black">© 2005, Roosevelt University, All Rights Reserved<br>
+<span class="text8red">Chicago</span>&nbsp; 430 S. Michigan Ave, Chicago, IL 60605 | 312-341-3500<br>
+<span class="text8red">Schaumburg</span>&nbsp;1400 N. Roosevelt Blvd, Schaumburg, IL 60173 | 847-619-7300</p></td></tr></tbody></table>
+
 </body></html>
