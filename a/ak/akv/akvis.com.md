@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the akvis.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210165656id_/http%3A//akvis.com/en/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akvis.com privacy policy that was archived on 2006-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060510135311id_/http%3A//akvis.com/en/privacy.php) for the most accurate reproduction.*
 
 # Image editing and photo restoration software by AKVIS LLC. Privacy Policy
 
@@ -21,5 +21,11 @@ All personal information you provide when you purchase our products (e-mail, you
 When you place an online order with us, we re-direct you to secure paying systems. These companies have their own privacy policies, please read them before making an order. We do not receive any credit card information as part of your product registration. 
 
 When you buy our products elsewhere and register with us, we keep your registration code along with your contact information: name, address, phone (optional), email. We use security measures to protect against loss, misuse and alteration of data used by our system. 
+
+Refund Policy 
+
+AKVIS does not pay refunds. 
+
+Our software is offered for a 10 days trial period so that one can verify compatibility of the software, its performance and make a deliberate decision. 
 
 For more information on AKVIS privacy policy please contact us at: [info@akvis.com](mailto:info@akvis.com). 
