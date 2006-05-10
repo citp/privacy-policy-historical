@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the leisurepro.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221174741id_/http%3A//www.leisurepro.com/Info/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leisurepro.com privacy policy that was archived on 2006-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060510192922id_/http%3A//www.leisurepro.com/Content/Privacy.html) for the most accurate reproduction.*
 
-# Buy Scuba Diving Gear & Snorkelling Equipment and everything underwater from LeisurePro
+# Buy Scuba Diving Gear & Snorkeling Equipment and everything underwater from LeisurePro
 
 **At LeisurePro.com, your privacy is a top priority. Please read below for our complete privacy policy details.**
 
