@@ -1,469 +1,849 @@
-<!--The following is the downloaded HTML source of the wcg.com privacy policy that was archived on 2005-03-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050305073454id_/http%3A//www.wiltel.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wcg.com privacy policy that was archived on 2006-05-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060510193905id_/http%3A//www.wcg.com/762.html) for the most accurate reproduction.-->
 
-<html><head>
-<meta content="WilTel, markets">
-<title>Privacy Statement </title>
-<link href="stylesheet/wiltel-style.css" rel="stylesheet" type="text/css">
-<script language="JavaScript" type="text/JavaScript">
-   overview_rollover = "images/nav/btn_overview_on.gif";
-   customer_rollover = "images/nav/btn_customer_on.gif";
-   market_rollover = "images/nav/btn_market_on.gif";
-vertical_rollover = "images/nav/btn_verticalmarket_on.gif";
-   product_rollover = "images/nav/btn_products_on.gif";
-   network_rollover = "images/nav/btn_network_on.gif";
-
-   overview_off = "images/nav/btn_overview.gif";
-   customer_off = "images/nav/btn_customer.gif";
-   market_off= "images/nav/btn_market.gif";
-vertical_off= "images/nav/btn_verticalmarket.gif";
-   product_off= "images/nav/btn_products.gif";
-   network_off= "images/nav/btn_network.gif";
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 
 
-function preloadImages() { 
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
 
-function swapImgRestore() { 
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
+<script>
 
-function findObj(n, d) { 
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
+<!-- Hide from tired old browsers
 
-function swapImage() {
-  //alert("swapping image");
-  var i,j=0,x,a=swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
+	var IE4 = (document.all) ? true : false;
 
-function rollit(section){
-   if(section == "overview"){
-     //alert(section);
-     swapImage('btn_overview','',overview_rollover,1);
-   }
-   else if(section == "customer"){
-     //alert(section);
-     swapImage('btn_customer','',customer_rollover,1);
-   }
-   else if(section == "vertical"){
-     //alert(section);
-     swapImage('btn_vertical','',vertical_rollover,1);
-   }
-   else if(section == "market"){
-     //alert(section);
-     swapImage('btn_market','',market_rollover,1);
-   }
-   else if(section == "product"){
-     //alert(product_rollover);
-     swapImage('btn_products','',product_rollover,1);
-   }
-   else if(section == "network"){
-     //alert(section);
-     swapImage('btn_network','',network_rollover,1);
-   }
-}
+	var NS4 = (document.layers) ? true : false;
 
-function unrollit(section){
-   if(section == "overview"){
-     //alert(section);
-     swapImage('btn_overview','',overview_off,1);
-   }
-   else if(section == "customer"){
-     //alert(section);
-     swapImage('btn_customer','',customer_off,1);
-   }
-   else if(section == "market"){
-     //alert(section);
-     swapImage('btn_market','',market_off,1);
-   }
-   else if(section == "vertical"){
-     //alert(section);
-     swapImage('btn_vertical','',vertical_off,1);
-   }
-   else if(section == "product"){
-     //alert(product_rollover);
-     swapImage('btn_products','',product_off,1);
-   }
-   else if(section == "network"){
-     //alert(section);
-     swapImage('btn_network','',network_off,1);
-   }
-}
-function validation(){
-	if ( document.myForm.First_Name.value == "" ){
-		alert("Please provide a first name.");
-		return false;
-	}
-	if ( document.myForm.Last_Name.value == "" ){
-		alert("Please provide a last name.");
-		return false;
-	}
-	if ( document.myForm.Title.value == "" ){
-		alert("Please provide a title.");
-		return false;
-	}
-	if ( document.myForm.Company.value == "" ){
-		alert("Please provide a company.");
-		return false;
-	}
-	if ( document.myForm.Phone.value == "" ){
-		alert("Please provide a business phone.");
-		return false;
-	}
-	tmpVal = 0;
-	for (counter = 0; counter < document.myForm.Contact.length; counter++){
-		if (document.myForm.Contact(counter).checked){
-			tmpVal = 1; 
+	var N6 = (document.getElementById && !document.all) ? true : false;
+
+			
+
+	if(N6 || IE4) {}
+
+		else {
+
+			alert('This website is optimized for Internet Explorer 4.0 and Netscape 6.0 or higher. Your current web browser is not fully supported and portions of this website will be unviewable. For best results, go to http://www.netscape.com or http://www.microsoft.com and download the latest browser.');
+
 		}
-	}
-	if ( tmpVal == 0 ){
-		alert("Please provide a contact preference.");
-		return false;
-	}
-	if ( document.myForm.text6.value == "" ){
-		alert("Please provide an email address.");
-		return false;
-	}
+
 	
-	tmpVal = 0;
-	for (counter = 0; counter < document.myForm.Services_Interest.length; counter++){
-		if (document.myForm.Services_Interest(counter).checked){
-			tmpVal = 1; 
+
+	
+
+	function stockpop_detail_window(url) {
+
+		if(navigator.userAgent.indexOf("MSIE") == -1) {
+
+			newwindow =	window.open(url,'stockpop_detail','toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=1,width=450,height=420');
+
+			newwindow.focus();
+
+		} else {
+
+			window.open(url,'stockpop_detail','toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=1,width=450,height=420');
+
 		}
+
 	}
-	if ( tmpVal == 0 ){
-		alert("Please provide services interest.");
-		return false;
+
+	
+
+	
+
+	
+
+	function openWin( windowURL, windowName, windowFeatures ) { 
+
+		return window.open( windowURL, windowName, windowFeatures ) 
+
 	}
-	return true;
+
+
+
+function searchCheck() {
+
+		var msg=document.QuickSearch.q1.value;
+
+		var j = msg.replace(/\(|\)/g, " ")
+
+	
+
+		document.QuickSearch.q1.value = j
+
+		document.QuickSearch.action = "http://search.level3.com/search/new/searchnew.asp?q1=" + j;	
+
+		document.QuickSearch.submit();
+
+	}	
+
+
+
+
+
+
+
+function jumpBox(list) {
+
+	if (list.options[list.selectedIndex].value == 'request') {
+
+		openWin( 'http://www.level3.com/mail/productleads.html', 'productleads', 'width=580,height=400,scrollbar=0,toolbars=0' );
+
+	} else {
+
+		location.href = list.options[list.selectedIndex].value;
+
+	}
+
 }
-function printit(){ 
- 
- var newWin=window.open("", "newwin", "height=500,width=500,scrollbars=yes"); 
- newWin.document.open();
- newWin.document.write("<html><head>");
- newWin.document.write("<style type='text/css'><!-- ");
- newWin.document.write(".contentBody {font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 11px;color: #68686A;text-decoration: none;}");
- newWin.document.write(".contentHeader {font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 11px;color: #000000;text-decoration: none;}");
- newWin.document.write(".contentHeader {font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 11px;color: #000000;text-decoration: none;}");
- newWin.document.write("li {	font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 11px;color: #68686A;text-decoration: none;}");
- newWin.document.write(".contentTitle {font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 14px;font-weight: bold;color: #000000;text-decoration: none;}");
- newWin.document.write(".footerCopy {font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 10px;color: #68686A;text-decoration: none;}");
- newWin.document.write(".tiny {font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 9px;color: #68686A;text-decoration: none;}");
- newWin.document.write("a {font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 11px;color: #0079C1;text-decoration: none;}");
- newWin.document.write("a:visited {font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 11px;color: #0079C1;text-decoration: none;}");
- newWin.document.write("a:hover {font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 11px;color: #0079C1;text-decoration: underline;}");
- newWin.document.write("#breadcrumbrow {display: none;}");
- newWin.document.write("--></style>");
- newWin.document.write("</head><body><p align='right'><img src='http://www.wiltelcommunications.com/images/elements/wiltellogo-bw.jpg' width='131' height='93'>");
- newWin.document.write("</p>");
- newWin.document.write("<span class='contentBody'>");
- newWin.document.write(content.innerHTML);
- newWin.document.write("</span>");
- newWin.document.write("<br><br><p align='center'> <a href='' onClick='self.close()'>Close Window</a></p></body></html>");
- newWin.document.close();
- newWin.print();
- 
- }
+
+// end hiding -->
+
+</script>	
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+	<meta http-equiv="Content-Language" content="en-us">
+
+	
+
+		<title>Level 3 Communications, Inc. - Privacy Policy</title>
+
+		<link rel="stylesheet" type="text/css" href="dotcomstyle.css">
+
+
+
+		<meta name="KEYWORDS" content="Level 3 Communications, Inc. - Privacy Policy">
+
+		<meta name="DESCRIPTION" content="Level 3 Communications, Inc. - Privacy Policy">
+
+		<meta name="Robots" content="index,follow">
+
+		<meta name="Googlebot" content="index,follow">
+
+
+
+	
+
+
+
+	
+
+</head>
+
+<body leftmargin="0" topmargin="0" bgcolor="">
+
+		<script>
+
+function Go(){return}
+
+
 
 </script>
 
-</head>
-<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="preloadImages('/images/nav/btn_overview_on.gif','/images/nav/btn_customer_on.gif','/images/nav/btn_market_on.gif','/images/nav/btn_products_on.gif','/images/nav/btn_network_on.gif')">
+<script type="text/javascript" src="header_menu.js"></script>
 
-<!-- header table -->
-<table width="774" border="0" align="center" cellpadding="0" cellspacing="0">
-<form method="get" action="http://search.atomz.com/search/"></form>
-  <tbody><tr>
-    <td valign="middle"><img src="images/phone.gif" width="114" height="30"></td>
-    <td align="right"><input type="text" name="sp-q">&nbsp;
-<input type="hidden" name="sp-x-1" value="collection">
-      <select name="sp-k" class="footer"> 
-        <option selected="" value="">All WilTel</option> 
-        <option value="Products">Products &amp; Services</option> 
-        <option value="News Releases">News Releases</option></select>&nbsp;
-    <input type="submit" name="Submit" value="Search"><input type="hidden" name="sp-a" value="sp1002d343"><input type="hidden" name="sp-p" value="all"><input type="hidden" name="sp-f" value="ISO-8859-1">&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td colspan="2"><img src="images/spacer.gif" width="774" height="5"></td>
-  </tr>
-  <tr>
- <td colspan="2"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="774" height="75">
-    <param name="movie" value="wiltel_header.swf">
-    <param name="quality" value="high">
-    <embed src="wiltel_header.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="774" height="75">
-  </object></td>
-</tr>
-  <tr>
-    <td colspan="2"><img src="images/spacer.gif" width="774" height="4"></td>
-  </tr>
-</tbody></table>
-
-<!-- nav on left -->
-<table width="774" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td valign="top">
-<table width="174" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td><a href="overview/index.htm" onmouseover="rollit('overview')" onmouseout="unrollit('overview')"><img src="images/nav/btn_overview.gif" alt="Company Overview" width="174" height="32" border="0" name="btn_overview"></a></td>
-  </tr>
-  <tr>
-    <td><img src="images/nav/divider_overview.gif" width="174" height="3"></td>
-  </tr>
-
-    <tr>
-    <td><a href="customers/index.htm" onmouseover="rollit('customer')" onmouseout="unrollit('customer')"><img src="images/nav/btn_customer.gif" alt="Customer Center" width="174" height="22" border="0" name="btn_customer"></a></td>
-  </tr>
-    <tr>
-      <td><img src="images/nav/divider_customer.gif" width="174" height="3"></td>
-    </tr>
-
-<tr>
-    <td><a href="market_segments/index.htm" onmouseover="rollit('market')" onmouseout="unrollit('market')"><img src="images/nav/btn_market.gif" alt="Market Segments" width="174" height="22" border="0" name="btn_market"></a></td>
-  </tr>
-<tr>
-  <td><img src="images/nav/divider_market.gif" width="174" height="3"></td>
-</tr>
-<tr>
-    <td><a href="vertical_markets/index.htm" onmouseover="rollit('vertical')" onmouseout="unrollit('vertical')"><img src="images/nav/btn_verticalmarket.gif" alt="Vertical Markets" width="174" height="22" border="0" name="btn_vertical"></a></td>
-  </tr>
-<tr>
-  <td><img src="images/nav/divider_market.gif" width="174" height="3"></td>
-</tr>
- <tr>
-    <td><a href="products/index.htm" onmouseover="rollit('product')" onmouseout="unrollit('product')"><img src="images/nav/btn_products.gif" alt="Products &amp; Services" width="174" height="22" border="0" name="btn_products"></a></td>
-  </tr>
-  <tr>
-    <td><img src="images/nav/divider_products.gif" width="174" height="3"></td>
-  </tr>
-
-  <tr>
-    <td><a href="network/index.htm" onmouseover="rollit('network')" onmouseout="unrollit('network')"><img src="images/nav/btn_network.gif" alt="Network &amp; Infrastructure" width="174" height="22" border="0" name="btn_network"></a></td>
-  </tr>
-  <tr>
-    <td><img src="images/nav/divider_network.gif" width="174" height="3"></td>
-  </tr>
-  <tr>
-  <td><img src="images/nav/nav_bottom.gif" width="174" height="8" border="0"></td>
-  </tr>
-</tbody></table>
-
-<table border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-  <td><img src="images/spacer.gif" height="4" width="10"></td>
-   </tr>
-<tr><td>
-<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="174" height="348">
-    <param name="movie" value="/wiltel_panel.swf">
-    <param name="quality" value="high">
-    <embed src="/wiltel_panel.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="174" height="348"></object>
-</td>
-</tr>
-</tbody></table>
-   
-    </td>
-    <td><img src="images/spacer.gif" width="4" height="100"></td>
-
-    <!--content -->
-    <td valign="top">
-
-
-<table width="596" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td colspan="5"><img src="images/content/content_box_top.gif" width="596" height="4"></td>
-  </tr>
-  <tr>
-    <td background="images/content/content_box_left.gif"><img src="images/spacer.gif" width="4" height="1"></td>
-    <td valign="top" bgcolor="#F4F4F4"><table width="445" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-        <td bgcolor="#CAD6EE"><img src="images/spacer.gif" width="18" height="29"></td>
-        <td valign="middle" bgcolor="#CAD6EE" class="contentTitle">
-      Privacy Statement 
-       </td>
-      </tr>
-      <tr>
-        <td><img src="images/content/dots1.gif" width="18" height="3"></td>
-        <td><img src="images/content/dots2.gif" width="427" height="3"></td>
-      </tr>
-      <tr>
-        <td bgcolor="#F4F4F4">&nbsp;</td>
-        <td bgcolor="#F4F4F4">&nbsp;</td>
-      </tr>
-      <tr>
-        <td bgcolor="#F4F4F4">&nbsp;</td>
-        <td bgcolor="#F4F4F4" class="contentBody">
-        <div id="content"><span>
-<p><span>References to “WilTel” herein include WilTel Communications, LLC, its parent, affiliates and subsidiaries, including but not limited to, Vyvx, LLC.</span></p><span>
-<p><span>WilTel Communications, LLC has created this privacy statement in order to demonstrate WilTel’s firm commitment to privacy. The following discloses our information gathering and dissemination practices for the WilTel and Vyvx Web sites. </span></p>
-<p><span>The information requested on our site is primarily used to be able to reach you to provide the information you request on our forms. We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address also is used to gather broad demographic information about who is visiting our site. </span></p>
-<p><span>WilTel uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address.&nbsp; For more information about DoubleClick, including information about how to opt out of these technologies, go to <a href="http://www.doubleclick.net/us/corporate/privacy">http://www.doubleclick.net/us/corporate/privacy</a></span></p>
-<p><span>This site contains links to other sites. WilTel is not responsible for the privacy practices or the content of such Web sites.</span></p>
-<p><b><span>SECURITY<br></span></b><span>This site has security measures in place to protect the loss, misuse and alteration of the information under our control. WilTel will use the latest technology to secure servers containing information you submit on the site to prevent inappropriate access or misuse. </span></p>
-<p><b><span>CHOICE/OPT-OUT<br></span></b><span>Our site provides users the opportunity to opt-out of receiving communications from our partners at the point where we request information about the visitor. </span></p>
-<p><span>This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. </span></p>
-<p><span>You can send email to:&nbsp;&nbsp;<a href="mailto:wiltel.webmaster@wiltel.com ">wiltel.webmaster@wiltel.com </a></span></p><span>
-<p><b><span>CORRECT/UPDATE</span></b><span><br>This site gives users the following options for changing and modifying information previously provided. </span></p>
-<p><span>You can send email to:&nbsp;&nbsp;<a href="mailto:wiltel.webmaster@wiltel.com%20">wiltel.webmaster@wiltel.com </a><b><i></i></b></span></p>
-<p><span></span></p>
-<p><b><span>CONTACTING THE WEB SITE<br></span></b><span>If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact </span></p>
-<p><span>WilTel Communications<br>Attn: WilTel Webmaster<br>One Technology Center,&nbsp; MD TC-8J<br>Tulsa, OK 74103<br><a href="mailto:wiltel.webmaster@wiltel.com%20">wiltel.webmaster@wiltel.com </a><b><i></i></b></span></p>
-<p><span>&nbsp;</span><span>©COPYRIGHT 2003-2004 WilTel Communications, LLC. All rights reserved. </span></p><!-- #EndEditable --></span><!-- RELATED CONTACTS--><!-- RELATED CONTACTS--></span></span></div><!-- BODY COPY -->
-        </td>
-      </tr>
-    </tbody></table></td>
-    <td bgcolor="#F4F4F4"><img src="images/spacer.gif" width="2" height="1"></td>
-
-
-    <!-- Quicklinks -->
-<td valign="top" bgcolor="#F4F4F4">
-
-    <!-- Top Quicklink area -->
-
-<table width="141" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td><img src="images/content/quick_links.jpg" width="141" height="67"></td>
-  </tr>
-  <tr>
-    <td background="images/content/quick_links_bkgr.jpg">
-          <div align="center"><a href="http://www.wiltel.com/information_request.htm" class="quicklink">Need Additional Information?<br>Click Here</a><br>
-<br>
-          </div><table width="141" border="0" cellspacing="0" cellpadding="0">
-</table>
-    </td>
-  </tr>
-  <tr><td bgcolor="#FFFFFF"><img src="images/spacer.gif" height="3" width="141"></td></tr>
-</tbody></table>
-<!-- second quicklink area -->
+<script type="text/javascript" src="menu_com.js"></script>
 
 
 
-<table width="141" border="0" cellspacing="0" cellpadding="0">
-   <tbody><tr align="center" bgcolor="#095BA6">
-   <td colspan="3" class="quicklinkHeader"><img src="images/spacer.gif" width="141" height="4"><br>
-      Page Tools<br>
-      <img src="images/spacer.gif" width="141" height="4"></td>
-   </tr>
-   <tr>
-   <td bgcolor="#CAD6EE"><img src="images/spacer.gif" width="3" height="10"></td>
-   <td bgcolor="#CAD6EE" class="subnav"><img src="images/spacer.gif" width="135" height="5"><br>
-        
-<table border="0" cellpadding="0" cellspacing="0">
+<table cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="black">
+
 <tbody><tr>
-<td valign="top">
-<img src="images/content/ico-printer.gif" width="40" height="33" align="absmiddle">
+
+<td>
+
+	<a href="http://www.level3.com"><img src="images/logo.gif" width="107" height="31" border="0"></a><table cellpadding="0" cellspacing="0" border="0" width="780" bgcolor="black" align="center">
+
+	<tbody><tr>
+
+	<td width="160"></td>
+
+	</tr>
+
+	<tr>
+
+		<td><img src="images/dot_clear.gif" width="107" height="2" border="0"></td>
+
+	</tr>
+
+	</tbody></table>
+
+	
+
 </td>
-<td valign="top">
-<a class="subnav" href="javascript:history.go(0);" onclick="printit()">Printable Version<br>(IE only)</a><br>
-</td>
+
 </tr>
-</tbody></table>
 
-        </td>
-   <td bgcolor="#CAD6EE"><img src="images/spacer.gif" width="3" height="10"></td>
-   </tr>
-</tbody></table>
-<br>
-<a href="https://networkdna.wiltel.com/dnaApp/login"><img src="http://www.wiltel.com/customers/content/images/DNA1.jpg" width="142" height="120" border="0"></a>
-
-
-
-</td>
-    <td background="images/content/content_box_right.gif"><img src="images/spacer.gif" width="4" height="1"></td>
-  </tr>
-  <tr>
-    <td colspan="5"><img src="images/content/content_box_bottom.gif" width="596" height="3"></td>
-  </tr>
 </tbody></table>
 
 
 
 
-</td>
+
+
+
+
+
+				
+
+				
+
+ <table width="801" cellpadding="0" cellspacing="0" borcer="0" align="center">
+
+<tbody><tr bgcolor="white">
+
+	<td>
+
+		<img src="Images/dot_clear.gif" width="1" height="10">
+
+	</td>
+
 </tr>
+
 </tbody></table>
 
-<!-- footer table -->
-<table width="774" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td align="center" class="footerCopy"><a href="index.html" class="footer">WilTel Home</a> | <a href="overview/content/newsroom.htm" class="footer">WilTel Newsroom</a> | <a href="overview/content/careers.htm" class="footer">Careers</a> | <a href="overview/index.htm" class="footer">Company Overview</a> | <a href="customers/index.htm" class="footer">Customer Center</a> | <a href="market_segments/index.htm" class="footer">Market Segments</a> | <a href="products/index.htm" class="footer">Services &amp; Solutions</a> | <a href="network/index.htm" class="footer">Network</a><br>
-       <a href="legal.htm" class="footer">Legal Notices</a> | <a href="privacy.htm" class="footer">Privacy Notice</a> | <a href="trademark.htm" class="footer">Trademark Notice</a> <br>
-      Copyright 2005 ®. All Rights Reserved. </td>
-  </tr>
+
+
+
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#000000">
+
+	<tbody><tr bgcolor="white">
+
+		<td>&nbsp;</td>
+
+		<td>
+
+			<table width="800" cellpadding="0" cellspacing="1" align="center" bgcolor="black">
+
+
+
+				<tbody><tr bgcolor="red">
+
+					<td colspan="3" bgcolor="#FF0000">
+
+						<font face="Arial" size="3" color="white">
+
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+						<b>Privacy Policy</b>
+
+						</font>
+
+						<img src="Images/dot_clear.gif" width="1" height="22">
+
+					</td>
+
+				</tr>
+
+				<tr bgcolor="#ffffff">
+
+					<td width="180" valign="top" bgcolor="#cccccc">
+
+						
+
+						
+
+						<br>
+
+						 
+
+						<table cellpadding="0" cellspacing="0" border="0" width="180">
+
+						
+
+						<tbody><tr>
+
+							<td valign="top" align="center" width="30"><img src="images/leftnav_icon.gif"></td>
+
+							
+
+								<td width="140"><a href="762.html" class="dotcomsubNAV">
+
+								<font style="FONT-SIZE: 12px; color: CC0000">Privacy Policy</font></a>	</td>	
+
+							
+
+						</tr>
+
+						
+
+						<tr>
+
+							<td valign="top" align="center" width="30"><img src="images/leftnav_icon.gif"></td>
+
+							
+
+								<td width="170"><a href="764.html" class="dotcomsubNAV">
+
+								<font style="FONT-SIZE: 12px">Acceptable Use Policy</font></a></td>
+
+							
+
+						</tr>
+
+						
+
+						<tr>
+
+							<td valign="top" align="center" width="30"><img src="images/leftnav_icon.gif"></td>
+
+							
+
+								<td width="170"><a href="770.html" class="dotcomsubNAV">
+
+								<font style="FONT-SIZE: 12px">Designation of Agent</font></a></td>
+
+							
+
+						</tr>
+
+						
+
+						<tr>
+
+							<td valign="top" align="center" width="30"><img src="images/leftnav_icon.gif"></td>
+
+							
+
+								<td width="170"><a href="3826.html" class="dotcomsubNAV">
+
+								<font style="FONT-SIZE: 12px">Legal Conditions, Terms of Use, and Tariffs</font></a></td>
+
+							
+
+						</tr>
+
+						
+
+						</tbody></table>
+
+						
+
+					</td>
+
+					<td width="440" align="center" valign="top">
+
+						
+
+							
+
+							<table cellpadding="3" cellspacing="0" width="100%">
+
+								
+
+	
+
+		
+
+		
+
+		
+
+			
+
+			
+
+			
+
+				
+
+			
+
+			
+
+		
+
+		
+
+			
+
+			
+
+			
+
+		
+
+	
+
+
+
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+
+
+
+  
+
+	
+
+
+
+
+
+
+
+
+
+
+
+		
+
+		
+
+	
+
+
+
+		
+
+	
+
+		<tbody><tr>
+
+			<td class="CenterTD" valign="top">
+
+				<br>
+
+<table cellspacing="0" cellpadding="0" width="75%" border="0">
+
+
+
+<tbody><tr>
+
+<td><img alt="" src="userimages/dot_clear.gif" width="20" border="0"></td>
+
+<td>
+
+<table cellspacing="0" cellpadding="0" width="380" border="0">
+
+
+
+<tbody><tr>
+
+<td align="left" width="380"><nobr><b><font face="arial,helvetica" color="#ff0000" size="-1">Level 3 Online Privacy Policy</font></b>&nbsp;&nbsp;</nobr></td></tr>
+
+<tr>
+
+<td colspan="2"><img height="7" src="Images/dot_clear.gif" width="380" border="0"></td></tr></tbody></table>
+
+<table cellspacing="0" cellpadding="0" width="380" border="0">
+
+
+
+<tbody><tr>
+
+<td><a class="anchor" name="0"><b></b></a>
+
+<p><b>Online Privacy Policy Table Of Contents: </b>
+
+</p><ul>
+
+<li><a class="dotcomhref" href="#1">Our Commitment To Privacy</a> <br><br>
+
+</li><li><a class="dotcomhref" href="#2">The Information We Collect and How We Use It </a><br><br>
+
+</li><li><a class="dotcomhref" href="#3">What About Cookies? </a><br><br>
+
+</li><li><a class="dotcomhref" href="#4">Who We Share It With </a><br><br>
+
+</li><li><a class="dotcomhref" href="#5">Our Commitment To Data Security</a> <br><br>
+
+</li><li><a class="dotcomhref" href="#6">Our Commitment To Children's Privacy </a><br><br>
+
+</li><li><a class="dotcomhref" href="#7">Linked Internet Web sites</a><br><br>
+
+</li><li><a class="dotcomhref" href="#8">How To Correct, Amend, or Delete Your Information </a><br><br>
+
+</li><li><a class="dotcomhref" href="#9">Online Privacy Policy Changes</a><br><br>
+
+</li><li><a class="dotcomhref" href="#10">How To Contact Us </a></li></ul>
+
+<p></p><a name="1"></a>
+
+<p><b>Our Commitment To Privacy: </b><br><br><nobr>Level 3</nobr> Communications, Inc. and its affiliates (collectively "<nobr>Level 3</nobr>") are committed to protecting the privacy of visitors to this Web site ("Site") and other <nobr>Level 3</nobr> Web sites. To accomplish this, we have implemented a comprehensive Online Privacy Policy that governs all information collected on or submitted to our Site. To make this Online Privacy Policy easy to find, we make it available on our homepage and at every point where personal information may be requested. By accessing, browsing or using the Site, you acknowledge that you read, understand, and agree to the terms and conditions of <nobr>Level 3</nobr>'s Online Privacy Policy. If you do not agree to these terms and conditions, please do not access, browse, or use this Site. <br><br>Level 3 has self-certified its adherence to the Safe Harbor principles on the <a class="dotcomhref" href="http://www.export.gov/safeharbor" target="_blank">Safe Harbor Web site</a>. </p>
+
+<p align="right"><a class="" href="#top"><img src="Images/us_button_top_arrow1.gif" border="0"></a></p><a name="2"></a>
+
+<p><b>The Information We Collect and How We Use It: </b><br><br>
+
+</p><ol>
+
+<li><b>Non-Personal and Aggregated Information Collected Automatically.</b> When you visit our Site, we log general data, such as your domain name (e.g., aol.com, Level3.com), the name of the Web page from which you entered our Site, which pages you visit on our Site, and how much time you spend on each page. We use this information to continually monitor and improve our Site and for internal analysis. In particular, we use IP addresses to analyze trends, administer the Site, track user's movement, and gather information for aggregate use. (IP addresses are not linked to personally identifiable information.) <br><br>
+
+</li><li><b>Personal Information That You Choose to Submit.</b> As a visitor to our Site, you may choose to use the Site to send us personal information (e.g., your name, mailing address, telephone number, e-mail address), for example, when you send a question via the Site, register for a special service, submit your resume, enter a contest or purchase a product or service through our Site. Anytime you submit personal information for a specific purpose using the Site, your information is used for that purpose only, unless you consent otherwise or as required by law. When you submit personal information to <nobr>Level 3</nobr> on this Site, you understand and agree that this information may be transferred across national boundaries and may be stored and processed in another country, which may not provide privacy protections similar to those your country provides.<br><br>We do not send unsolicited e-mail to you or other visitors to our Site. We use e-mail to respond to e-mail messages from you, to confirm product or service orders placed online and to engage in other communication that you have authorized or that we have determined necessary to more effectively service you and our customers. <br><br>In many cases, you choose the amount of information you supply (e.g., when sending us information through the Site, you may choose to include only an e-mail address - not a telephone number or mailing address - for replies). There may be instances where some of the information that we ask you to provide is identified as mandatory and some as voluntary. In such cases, if you do not provide mandatory personal information with respect to a particular activity, you will not be able to engage in that activity. </li></ol>
+
+<p align="right"><a class="" href="#top"><img src="Images/us_button_top_arrow1.gif" border="0"></a></p>
+
+<p></p><a name="3"></a>
+
+<p><b>What About "Cookies?" </b><br><br>The term "cookie" refers to files that are transferred from a Web site to your computer's hard drive. The purpose of cookies is to enable us to track your activities on our Site. Cookies help us remember who you are. They work in the same fashion as the clerk in a store you visit on a regular basis. The store clerk may not necessarily know your name, but he or she recognizes that you have been in the store before and may remember what you usually purchase while you are in the store. Cookies permit us to gain the same kind of information about you and enable us to provide you with more efficient and personalized service. For example, for sites that require registration, a cookie file can be stored on your computer enabling you to skip the registration process on subsequent visits. Cookies are also frequently used to track the progression of a customer engaged in an online purchase to ensure that the transactional information remains intact. <br><br>Some (usually newer) versions of Web browsers allow you to decide whether or not to accept cookie files and some programs notify you when a Web site is about to deposit a cookie file on your hard drive. If you decide not to accept cookies, you may not be able to successfully navigate some portions of a Web site.<br><br>You can check your hard drive for cookie files. For PC's, look for "cookies.txt" files on your hard drive. On a Macintosh, look for "magic cookies." There are software programs available ("cookie cutters" and "anonymizers") that allow you to selectively edit cookie files. <br><br><nobr>Level 3</nobr> uses cookie files for online purchasing and the customized presentation of Web pages. We do not use cookies to retrieve information from your computer that was not originally sent in the cookie, nor do we use information transferred through cookies for any promotional or marketing purposes, except as expressly set forth in this Online Privacy Policy. </p><a name="4"></a>
+
+<p><b>Who We Share It With: </b><br><br>We may share non-personal, aggregated information with our customers, partners, and advertisers. Aggregated information is not linked to any personal information that can identify an individual person. <br><br>Unless we have your permission or are required by law, we only share the personal information you provide through our Site with <nobr>Level 3</nobr> affiliates and/or business partners that are acting on our behalf. <span class="859094118-06012003">Level 3 reserves the right to disclose customer information to the extent authorized by federal surveillance statutes. </span>We make every reasonable effort to ensure that such <nobr>Level 3</nobr> affiliates and business partners, including those in the U.S. and/or any other countries, protect your personal information consistent with our Online Privacy Policy.</p>
+
+<p align="right"><a class="" href="#top"><img src="Images/us_button_top_arrow1.gif" border="0"></a></p>
+
+<p>Level 3 works with third parties to research certain usage and activities on our Web site on our behalf. Some third parties utilize Web beacons to conduct this research. Information collected through Web beacons helps us to identify user demographics and usage patterns to improve our measurements, reporting, and the effectiveness of our marketing efforts. Information recorded through Web beacons is aggregated and then shared with Level 3. No personally identifiable information about you is shared by these third parties with Level 3 as a result of this research. If you prefer not to participate in the Web beacon research on the Level 3 Web site, please visit each of the third party's Web site individually in order to opt out.&nbsp; </p><a name="5"></a>
+
+<p><b>Our Commitment To Data Security:</b><br><br>To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect through the Site. However, please be advised that <nobr>Level 3</nobr> cannot guarantee and has no control over the public or third party network through which you send your personal information to <nobr>Level 3</nobr>'s Site.</p><a name="6"></a>
+
+<p><b>Our Commitment To Children's Privacy: </b><br><br>Protecting the privacy of children is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our Site is structured to attract anyone under 13. </p><a name="7"></a>
+
+<p><b>Linked Internet Web Sites:</b><br><br>This Site provides hyperlinks, which are highlighted words or pictures within a hypertext document that, when clicked, take you to another place within the document, to another document altogether, or to other Web sites not controlled by <nobr>Level 3</nobr>. These hyper-linked Web sites may contain privacy provisions that are different from those provided herein. <nobr>Level 3</nobr> is not responsible for the collection, use or disclosure of information collected through these Web sites, and <nobr>Level 3</nobr> expressly disclaims any and all liability related to such collection, use, or disclosure.</p><a name="8"></a>
+
+<p><b>How To Correct, Amend, or Delete Your Information: </b><br><br>We honor requests from you to correct, amend, or delete your account information (for example, your name, address, or billing information). You may verify that appropriate corrections have been made. To correct, amend or delete account information, contact the <a class="dotcomhref" onclick="openWin( 'http://www.level3.com/mail/webmaster.html', 'webmaster', 'width=580,height=400,scrollbar=0,toolbars=0' )" href="javascript:void(0)">Webmaster</a>. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.</p>
+
+<p align="right"><a class="" href="#top"></a></p><a name="9"></a>
+
+<p><b>Online Privacy Policy Changes</b><br><br>This Online Privacy Policy is subject to change. Any changes to <nobr>Level 3</nobr>'s Online Privacy Policy will be posted on the Site. All information submitted through the Site to <nobr>Level 3</nobr> is subject to the terms and conditions of this Online Privacy Policy, as amended. </p><a name="10"></a>
+
+<p><b>How To Contact Us: </b><br><br>If you become aware of any violation by any person, including Users that have accessed the Service through your account, please <a class="dotcomhref" onclick="openWin( 'http://www.level3.com/mail/abuse.html', 'webmaster', 'width=580,height=400,scrollbar=0,toolbars=0' )" href="javascript:void(0)">notify us</a>. <br><br>Should you have other questions or concerns about <nobr>Level 3</nobr>'s Online Privacy Policy, please <a class="dotcomhref" onclick="openWin( 'http://www.level3.com/mail/privacy.html', 'privacy', 'width=580,height=400,scrollbar=0,toolbars=0' )" href="javascript:void(0)">contact us</a>.</p></td></tr>
+
+<tr>
+
+<td align="right"><img height="5" src="Images/dot_clear.gif" border="0"><br><a href="#top"><img src="Images/us_button_top_arrow1.gif" border="0"></a><br><br></td></tr></tbody></table></td></tr></tbody></table>
+
+			</td>
+
+		</tr>
+
+	
+
+ 
+
+
+
+	
+
+							</tbody></table>
+
+							
+
+					</td>
+
+					<td align="left" width="180" valign="top" bgcolor="#cccccc">
+
+						
+
+							<table cellpadding="3" cellspacing="0" width="100%">
+
+								
+
+	
+
+		
+
+		
+
+		
+
+			
+
+			
+
+			
+
+				
+
+			
+
+			
+
+		
+
+		
+
+			
+
+			
+
+			
+
+		
+
+	
+
+
+
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+
+
+
+  
+
+	
+
+
+
+
+
+
+
+
+
+
+
+		
+
+		
+
+	
+
+
+
+		
+
+	
+
+		<tbody><tr>
+
+			<td class="NarrowGrayTD" valign="top">
+
+				<p align="center"><a class="" href="http://www.level3.com/559.html"><img alt="" src="userimages/DotCom/en_US/images/3cmodem_green.jpg" border="0"></a></p>
+
+			</td>
+
+		</tr>
+
+	
+
+ 
+
+
+
+	
+
+							</tbody></table>
+
+							
+
+							<table cellpadding="3" cellspacing="0" width="100%">
+
+								
+
+	
+
+		
+
+		
+
+		
+
+			
+
+			
+
+			
+
+				
+
+			
+
+			
+
+		
+
+		
+
+			
+
+			
+
+			
+
+		
+
+	
+
+
+
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+
+
+
+  
+
+	
+
+
+
+
+
+
+
+
+
+
+
+		
+
+		
+
+	
+
+
+
+		
+
+	
+
+		<tbody><tr>
+
+			<td class="NarrowGrayTD" valign="top">
+
+				<br>
+
+<table align="center">
+
+<form name="QuickSearch" onsubmit="searchCheck()" method="get"></form>
+
+<tbody>
+
+<tr>
+
+<td valign="top" align="middle" width="151" bgcolor="#cccccc"><input size="8" name="q1"> <input type="image" height="19" width="50" src="userimages/searchFPO.gif" align="absMiddle" border="0"> </td></tr>
+
+<tr>
+
+<td valign="top" align="middle" width="151" bgcolor="#cccccc"><a class="" href="2990.html"><img height="19" src="userimages/sitemap_helpFPO.gif" width="88" border="0"></a><img height="19" src="userimages/reddot.gif" width="1"><a href="578.html"><img height="19" src="userimages/contact_usFPO.gif" width="62" border="0"></a><br><br></td></tr></tbody></table>
+
+			</td>
+
+		</tr>
+
+	
+
+ 
+
+
+
+	
+
+							</tbody></table>
+
+							
+
+					</td>
+
+			</tr></tbody></table>
+
+		</td>
+
+		<td>&nbsp;</td>
+
+	</tr>
+
 </tbody></table>
 
-<!--WEBSIDESTORY CODE HBX1.0 (Universal)-->
-<!--COPYRIGHT 1997-2004 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
-<script language="javascript">
-var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
-var hbx=_hbEvent("pv");hbx.vpc="HBX0100u";hbx.gn="ehg-wiltel.hitbox.com";
-
-//BEGIN EDITABLE SECTION
-//CONFIGURATION VARIABLES
-hbx.acct="DM5403246JAF62EN3";//ACCOUNT NUMBER(S)
-hbx.pn="PUT+PAGE+NAME+HERE";//PAGE NAME(S)
-hbx.mlc="CONTENT+CATEGORY";//MULTI-LEVEL CONTENT CATEGORY
-hbx.pndef="title";//DEFAULT PAGE NAME
-hbx.ctdef="full";//DEFAULT CONTENT CATEGORY
-
-//OPTIONAL PAGE VARIABLES
-//ACTION SETTINGS
-hbx.fv="";//FORM VALIDATION MINIMUM ELEMENTS OR SUBMIT FUNCTION NAME
-hbx.lt="auto_pos";//LINE TRACKING
-hbx.dlf="n";//DOWNLOAD FILTER
-hbx.dft="n";//DOWNLOAD FILE NAMING
-hbx.elf="n";//EXIT LINK FILTER
-
-//SEGMENTS AND FUNNELS
-hbx.seg="level3.net";//VISITOR SEGMENTATION
-hbx.fnl="";//FUNNELS
-
-//CAMPAIGNS
-hbx.cmp="";//CAMPAIGN ID
-hbx.cmpn="";//CAMPAIGN ID IN QUERY
-hbx.dcmp="";//DYNAMIC CAMPAIGN ID
-hbx.dcmpn="";//DYNAMIC CAMPAIGN ID IN QUERY
-hbx.dcmpe="";//DYNAMIC CAMPAIGN EXPIRATION
-hbx.dcmpre="";//DYNAMIC CAMPAIGN RESPONSE EXPIRATION
-hbx.hra="";//RESPONSE ATTRIBUTE
-hbx.hqsr="";//RESPONSE ATTRIBUTE IN REFERRAL QUERY
-hbx.hqsp="";//RESPONSE ATTRIBUTE IN QUERY
-hbx.hlt="";//LEAD TRACKING
-hbx.hla="";//LEAD ATTRIBUTE
-hbx.gp="";//CAMPAIGN GOAL
-hbx.gpn="";//CAMPAIGN GOAL IN QUERY
-hbx.hcn="";//CONVERSION ATTRIBUTE
-hbx.hcv="";//CONVERSION VALUE
-hbx.cp="null";//LEGACY CAMPAIGN
-hbx.cpd="";//CAMPAIGN DOMAIN
-
-//CUSTOM VARIABLES
-hbx.ci="";//CUSTOMER ID
-hbx.hc1="";//CUSTOM 1
-hbx.hc2="";//CUSTOM 2
-hbx.hc3="";//CUSTOM 3
-hbx.hc4="";//CUSTOM 4
-hbx.hrf="";//CUSTOM REFERRER
-hbx.pec="";//ERROR CODES
-
-//INSERT CUSTOM EVENTS
-
-//END EDITABLE SECTION
-
-//REQUIRED SECTION. CHANGE "YOURSERVER" TO VALID LOCATION ON YOUR WEB SERVER (HTTPS IF FROM SECURE SERVER)
-</script><script language="javascript1.1" defer="" src="hbx.js"></script>
-<!--END WEBSIDESTORY CODE-->
 
 
-</body></html>
+
+
+				
+
+ 
+
+ 
+
+
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#666666">
+
+<tbody><tr>
+
+	<td width="100%" colspan="3" bgcolor="white"><img src="Images/dot_clear.gif" width="1" height="7"></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+	<table cellpadding="0" cellspacing="0" border="0" width="780" bgcolor="#666666" align="center">
+
+	<tbody><tr>
+
+	<td width="341" align="center" class="footerTD" bgcolor="#666666">© 1999-2006 by Level 3 Communications, Inc. All rights reserved.</td>
+
+	<td width="2"><img src="images/foot_divider.gif"></td>
+
+	<td width="216" align="center" bgcolor="#666666"><a href="774.html" class="footerHREF">Legal Conditions, Terms of Use, and Tariffs</a></td>
+
+	<td width="2"><img src="images/foot_divider.gif"></td>
+
+	<td width="121" align="center" bgcolor="#666666"><a href="764.html" class="footerHREF">Acceptable Use Policy</a></td>
+
+	<td width="2"><img src="images/foot_divider.gif"></td>
+
+	<td width="94" align="center" bgcolor="#666666"><a href="762.html" class="footerHREF">Privacy Policy</a></td>
+
+	</tr></tbody></table>
+
+</td>
+
+<td>&nbsp;</td>
+
+</tr></tbody></table>
+
+
+
+
+
+
+
+
+
+	
+
+			
+
+	
+<div style="position: absolute; visibility: visible; background-color: black; width: 600px; height: 20px; font-family: arial; font-weight: normal; font-style: normal; font-size: 9pt; z-index: 101; top: 12px; left: 483px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: white; text-align: left; width: 100px; height: 20px; left: 0px; top: 0px;"><img src="userimages/dotcom/images/t2_services_off.jpg" name="Menu1i" width="100" height="20"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: white; text-align: left; width: 100px; height: 20px; left: 100px; top: 0px;"><img src="userimages/dotcom/images/t2_partners_off.jpg" name="Menu2i" width="100" height="20"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: white; text-align: left; width: 100px; height: 20px; left: 200px; top: 0px;"><img src="userimages/dotcom/images/t2_customers_off.jpg" name="Menu3i" width="100" height="20"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: white; text-align: left; width: 100px; height: 20px; left: 300px; top: 0px;"><img src="userimages/dotcom/images/t2_investors_off.jpg" name="Menu4i" width="100" height="20"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: white; text-align: left; width: 100px; height: 20px; left: 400px; top: 0px;"><img src="userimages/dotcom/images/t2_aboutus_off.jpg" name="Menu5i" width="100" height="20"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: white; text-align: left; width: 100px; height: 20px; left: 500px; top: 0px;"><img src="userimages/dotcom/images/t2_home_off.jpg" name="Menu6i" width="100" height="20"></div></div><div style="position: absolute; visibility: hidden; background-color: black; width: 180px; height: 60px; font-family: arial; font-weight: normal; font-style: normal; font-size: 9pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 180px; height: 10px; left: 0px; top: 0px;"><img src="userimages/dotcom/images/navs/services/drop1_top.gif"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 180px; height: 20px; left: 0px; top: 10px;"><img src="userimages/dotcom/images/navs/services/drop1_vs.gif" name="Menu1_2i" width="180" height="20"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 180px; height: 20px; left: 0px; top: 30px;"><img src="userimages/dotcom/images/navs/services/drop1_nis.gif" name="Menu1_3i" width="180" height="20"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 180px; height: 10px; left: 0px; top: 50px;"><img src="userimages/dotcom/images/navs/services/drop1_bottom.gif"></div></div><div style="position: absolute; visibility: hidden; background-color: black; width: 180px; height: 180px; font-family: arial; font-weight: normal; font-style: normal; font-size: 9pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 180px; height: 10px; left: 0px; top: 0px;"><img src="userimages/dotcom/images/navs/services/voice/drop1a_top.gif"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 180px; height: 20px; left: 0px; top: 10px;"><img src="userimages/dotcom/images/navs/services/voice/drop1a_e911.gif" name="Menu1_2_2i" width="180" height="20"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 180px; height: 20px; left: 0px; top: 30px;"><img src="userimages/dotcom/images/navs/services/voice/drop1a_li.gif" name="Menu1_2_3i" width="180" height="20"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 180px; height: 20px; left: 0px; top: 50px;"><img src="userimages/dotcom/images/navs/services/voice/drop1a_mm.gif" name="Menu1_2_4i" width="180" height="20"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 180px; height: 20px; left: 0px; top: 70px;"><img src="userimages/dotcom/images/navs/services/voice/drop1a_op.gif" name="Menu1_2_5i" width="180" height="20"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 180px; height: 20px; left: 0px; top: 90px;"><img src="userimages/dotcom/images/navs/services/voice/drop1a_tf.gif" name="Menu1_2_6i" width="180" height="20"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 180px; height: 20px; left: 0px; top: 110px;"><img src="userimages/dotcom/images/navs/services/voice/drop1a_vt.gif" name="Menu1_2_7i" width="180" height="20"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 180px; height: 20px; left: 0px; top: 130px;"><img src="userimages/dotcom/images/navs/services/voice/drop1a_ivt.gif" name="Menu1_2_8i" width="180" height="20"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 180px; height: 20px; left: 0px; top: 150px;"><img src="userimages/dotcom/images/navs/services/voice/drop1a_vel.gif" name="Menu1_2_9i" width="180" height="20"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 180px; height: 10px; left: 0px; top: 170px;"><img src="userimages/dotcom/images/navs/services/voice/drop1a_bottom.gif"></div></div><div style="position: absolute; visibility: hidden; background-color: black; width: 180px; height: 260px; font-family: arial; font-weight: normal; font-style: normal; font-size: 9pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 180px; height: 10px; left: 0px; top: 0px;"><img src="userimages/dotcom/images/navs/services/is/drop1b_top.gif"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 180px; height: 20px; left: 0px; top: 10px;"><img src="userimages/dotcom/images/navs/services/is/drop1b_colo.gif" name="Menu1_3_2i" width="180" height="20"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 180px; height: 20px; left: 0px; top: 30px;"><img src="userimages/dotcom/images/navs/services/is/drop1b_evpn.gif" name="Menu1_3_3i" width="180" height="20"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 180px; height: 20px; left: 0px; top: 50px;"><img src="userimages/dotcom/images/navs/services/is/drop1b_hsip.gif" name="Menu1_3_4i" width="180" height="20"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 180px; height: 20px; left: 0px; top: 70px;"><img src="userimages/dotcom/images/navs/services/is/drop1b_idf.gif" name="Menu1_3_5i" width="180" height="20"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 180px; height: 20px; left: 0px; top: 90px;"><img src="userimages/dotcom/images/navs/services/is/drop1b_ipl.gif" name="Menu1_3_6i" width="180" height="20"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 180px; height: 20px; left: 0px; top: 110px;"><img src="userimages/dotcom/images/navs/services/is/drop1b_iw.gif" name="Menu1_3_7i" width="180" height="20"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 180px; height: 20px; left: 0px; top: 130px;"><img src="userimages/dotcom/images/navs/services/is/drop1b_ipvpn.gif" name="Menu1_3_8i" width="180" height="20"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 180px; height: 20px; left: 0px; top: 150px;"><img src="userimages/dotcom/images/navs/services/is/drop1b_mdf.gif" name="Menu1_3_9i" width="180" height="20"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 180px; height: 20px; left: 0px; top: 170px;"><img src="userimages/dotcom/images/navs/services/is/drop1b_mepl.gif" name="Menu1_3_10i" width="180" height="20"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 180px; height: 20px; left: 0px; top: 190px;"><img src="userimages/dotcom/images/navs/services/is/drop1b_mpl.gif" name="Menu1_3_11i" width="180" height="20"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 180px; height: 20px; left: 0px; top: 210px;"><img src="userimages/dotcom/images/navs/services/is/drop1b_mw.gif" name="Menu1_3_12i" width="180" height="20"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 180px; height: 20px; left: 0px; top: 230px;"><img src="userimages/dotcom/images/navs/services/is/drop1b_ps.gif" name="Menu1_3_13i" width="180" height="20"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 180px; height: 10px; left: 0px; top: 250px;"><img src="userimages/dotcom/images/navs/services/is/drop1b_bottom.gif"></div></div><div style="position: absolute; visibility: hidden; background-color: black; width: 180px; height: 40px; font-family: arial; font-weight: normal; font-style: normal; font-size: 9pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 180px; height: 10px; left: 0px; top: 0px;"><img src="userimages/dotcom/images/navs/partner/drop2_top.gif"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 180px; height: 20px; left: 0px; top: 10px;"><img src="userimages/dotcom/images/navs/partner/drop2_l3e.gif" name="Menu2_2i" width="180" height="20"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 180px; height: 10px; left: 0px; top: 30px;"><img src="userimages/dotcom/images/navs/partner/drop2_bottom.gif"></div></div><div style="position: absolute; visibility: hidden; background-color: black; width: 180px; height: 180px; font-family: arial; font-weight: normal; font-style: normal; font-size: 9pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 180px; height: 10px; left: 0px; top: 0px;"><img src="userimages/dotcom/images/navs/customer/drop3_top.gif"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 180px; height: 20px; left: 0px; top: 10px;"><img src="userimages/dotcom/images/navs/customer/drop3_ocsc.gif" name="Menu3_2i" width="180" height="20"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 180px; height: 20px; left: 0px; top: 30px;"><img src="userimages/dotcom/images/navs/customer/drop3_si.gif" name="Menu3_3i" width="180" height="20"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 180px; height: 20px; left: 0px; top: 50px;"><img src="userimages/dotcom/images/navs/customer/drop3_bi.gif" name="Menu3_4i" width="180" height="20"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 180px; height: 20px; left: 0px; top: 70px;"><img src="userimages/dotcom/images/navs/customer/drop3_no.gif" name="Menu3_5i" width="180" height="20"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 180px; height: 20px; left: 0px; top: 90px;"><img src="userimages/dotcom/images/navs/customer/drop3_ns.gif" name="Menu3_6i" width="180" height="20"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 180px; height: 20px; left: 0px; top: 110px;"><img src="userimages/dotcom/images/navs/customer/drop3_dc.gif" name="Menu3_7i" width="180" height="20"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 180px; height: 20px; left: 0px; top: 130px;"><img src="userimages/dotcom/images/navs/customer/drop3_lnp.gif" name="Menu3_8i" width="180" height="20"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 180px; height: 20px; left: 0px; top: 150px;"><img src="userimages/dotcom/images/navs/customer/drop3_gov.gif" name="Menu3_9i" width="180" height="20"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 180px; height: 10px; left: 0px; top: 170px;"><img src="userimages/dotcom/images/navs/customer/drop3_bottom.gif"></div></div><div style="position: absolute; visibility: hidden; background-color: black; width: 150px; height: 140px; font-family: arial; font-weight: normal; font-style: normal; font-size: 9pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 150px; height: 10px; left: 0px; top: 0px;"><img src="userimages/dotcom/images/navs/investor/drop4_top.gif"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 150px; height: 20px; left: 0px; top: 10px;"><img src="userimages/dotcom/images/navs/investor/drop4_ir.gif" name="Menu4_2i" width="150" height="20"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 150px; height: 20px; left: 0px; top: 30px;"><img src="userimages/dotcom/images/navs/investor/drop4_cg.gif" name="Menu4_3i" width="150" height="20"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 150px; height: 20px; left: 0px; top: 50px;"><img src="userimages/dotcom/images/navs/investor/drop4_p.gif" name="Menu4_4i" width="150" height="20"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 150px; height: 20px; left: 0px; top: 70px;"><img src="userimages/dotcom/images/navs/investor/drop4_bf.gif" name="Menu4_5i" width="150" height="20"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 150px; height: 20px; left: 0px; top: 90px;"><img src="userimages/dotcom/images/navs/investor/drop4_si.gif" name="Menu4_6i" width="150" height="20"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 150px; height: 20px; left: 0px; top: 110px;"><img src="userimages/dotcom/images/navs/investor/drop4_iresources.gif" name="Menu4_7i" width="150" height="20"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 150px; height: 10px; left: 0px; top: 130px;"><img src="userimages/dotcom/images/navs/investor/drop4_bottom.gif"></div></div><div style="position: absolute; visibility: hidden; background-color: black; width: 150px; height: 160px; font-family: arial; font-weight: normal; font-style: normal; font-size: 9pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 150px; height: 10px; left: 0px; top: 0px;"><img src="userimages/dotcom/images/navs/about/drop5_top.gif"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 150px; height: 20px; left: 0px; top: 10px;"><img src="userimages/dotcom/images/navs/about/drop5_o.gif" name="Menu5_2i" width="150" height="20"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 150px; height: 20px; left: 0px; top: 30px;"><img src="userimages/dotcom/images/navs/about/drop5_news.gif" name="Menu5_3i" width="150" height="20"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 150px; height: 20px; left: 0px; top: 50px;"><img src="userimages/dotcom/images/navs/about/drop5_net.gif" name="Menu5_4i" width="150" height="20"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 150px; height: 20px; left: 0px; top: 70px;"><img src="userimages/dotcom/images/navs/about/drop5_tl.gif" name="Menu5_5i" width="150" height="20"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 150px; height: 20px; left: 0px; top: 90px;"><img src="userimages/dotcom/images/navs/about/drop5_sub.gif" name="Menu5_6i" width="150" height="20"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 150px; height: 20px; left: 0px; top: 110px;"><img src="userimages/dotcom/images/navs/about/drop5_cc.gif" name="Menu5_7i" width="150" height="20"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 150px; height: 20px; left: 0px; top: 130px;"><img src="userimages/dotcom/images/navs/about/drop5_cu.gif" name="Menu5_8i" width="150" height="20"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: black; background-color: rgb(204, 204, 204); text-align: left; width: 150px; height: 10px; left: 0px; top: 150px;"><img src="userimages/dotcom/images/navs/about/drop5_bottom.gif"></div></div></body></html>
