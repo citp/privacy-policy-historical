@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newhomeguide.com privacy policy that was archived on 2005-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051226171135id_/http%3A//www.newhomeguide.com/New-Homes.aspx%3Fchannel%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newhomeguide.com privacy policy that was archived on 2006-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060510222816id_/http%3A//www.newhomeguide.com/New-Homes.aspx%3Fchannel%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # New Home Guide.com - privacypolicy
 
