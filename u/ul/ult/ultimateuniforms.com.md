@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimateuniforms.com privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227131147id_/http%3A//www.ultimateuniforms.com/privacy.txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimateuniforms.com privacy policy that was archived on 2006-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060510174008id_/http%3A//www.ultimateuniforms.com/privacy.txt) for the most accurate reproduction.*
 
 # 
 
