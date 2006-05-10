@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flashcardexchange.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228095253id_/http%3A//www.flashcardexchange.com/docs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashcardexchange.com privacy policy that was archived on 2006-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060510134507id_/http%3A//flashcardexchange.com/docs/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
