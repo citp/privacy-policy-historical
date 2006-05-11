@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chriscornell.com privacy policy that was archived on 2005-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051202164753id_/http%3A//staging.interscope.com/signup/privacypolicy.asp%3Fsrc%3Dhttp%3A//www.chriscornell.com%26scnr%3Dnews) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chriscornell.com privacy policy that was archived on 2006-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060511203409id_/http%3A//staging.interscope.com/signup/privacypolicy.asp%3Fsrc%3Dhttp%3A//www.chriscornell.com%26scnr%3Dnews) for the most accurate reproduction.*
 
 # UNIVERSAL MUSIC GROUP PRIVACY POLICY
 
