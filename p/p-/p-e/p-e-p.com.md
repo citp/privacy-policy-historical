@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the p-e-p.com privacy policy that was archived on 2005-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051028020431id_/http%3A//www.p-e-p.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the p-e-p.com privacy policy that was archived on 2006-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060511172338id_/http%3A//www.p-e-p.com/Privacy.html) for the most accurate reproduction.*
 
 # Privacy - Planet Earth Projects, Inc.
 
