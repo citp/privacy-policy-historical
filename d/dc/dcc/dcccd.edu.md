@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dcccd.edu privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231191939id_/http%3A//dcccd.edu/Privacy%2Band%2BSecurity%2BCommitment.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dcccd.edu privacy policy that was archived on 2006-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060511234046id_/http%3A//www.dcccd.edu/Privacy%2Band%2BSecurity%2BCommitment.htm) for the most accurate reproduction.*
 
 # DCCCD: Privacy and Security Commitment
 
@@ -121,5 +121,5 @@ Back to the top
 
 \--------------------------------------------------------------------------------
 
-[FAQs - General Info](http://ernt.dcccd.edu/scripts/district.cfg/php.exe/enduser/std_alp.php) | [Request Brochures](http://www.dcccd.edu/pi/moreinfo.htm) | [Links to College Home Pages](https://web.archive.org/About+DCCC/Our+Locations/) | [DCCCD Home](http://www.dcccd.edu/) Page  
+[FAQs - General Info](http://ernt.dcccd.edu/scripts/district.cfg/php.exe/enduser/std_alp.php) | [Request Brochures](http://www.dcccd.edu/pi/moreinfo.htm) | [Links to College Home Pages](https://web.archive.org/About+DCCCD/Our+Locations/) | [DCCCD Home](http://www.dcccd.edu/) Page  
 Please send comments or questions to [getanswers@dcccd.edu](mailto:getanswers@dcccd.edu). 
