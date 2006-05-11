@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketlive.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206175943id_/http%3A//www.marketlive.com/privacy.asp%3Ftoproll%3D1%26roll%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketlive.com privacy policy that was archived on 2006-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060512000614id_/http%3A//www.marketlive.com/privacy.asp%3Ftoproll%3D1%26roll%3D0) for the most accurate reproduction.*
 
 # MarketLive, Inc. Privacy Policy
 
@@ -24,5 +24,5 @@ We have appropriate security measures in place in our physical facilities to pro
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
 
-[](https://web.archive.org/web/20050206175943id_/http%3A//www.marketlive.com/pop_up.asp)   
+[](https://web.archive.org/web/20060512000614id_/http%3A//www.marketlive.com/pop_up.asp)   
 
