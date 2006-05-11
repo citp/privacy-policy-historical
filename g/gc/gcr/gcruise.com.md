@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gcruise.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221150350id_/http%3A//gcruise.com/%3Fs%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gcruise.com privacy policy that was archived on 2006-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060511165831id_/http%3A//gcruise.com/%3Fs%3Dprivacy) for the most accurate reproduction.*
 
 # GCruise
 
