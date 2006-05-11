@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qmiles.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222033820id_/http%3A//www.qmiles.com%3Fprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qmiles.com privacy policy that was archived on 2006-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060512000018id_/http%3A//qmiles.com%3Fprivacy_policy) for the most accurate reproduction.*
 
 # Qatar Airways Privilege Club - Qatar Airways Privilege Club | Privacy Policy
 
