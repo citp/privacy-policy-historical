@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the swankmag.com privacy policy that was archived on 2005-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050415080059id_/http%3A//www.swankmag.com/private.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swankmag.com privacy policy that was archived on 2006-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060511220429id_/http%3A//www.swankmag.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Private Policy
 
-HTTP Electronic Publishing, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: SWANKMAG.COM 
+AP Traffic Inc. has created this statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: SWANKMAG.COM 
 
   * We use your IP address to help diagnose problems with our server, and to administer our Website. Our site may use cookies to deliver content specific to your interests, and for tracking. 
   * SWANKMAG.COM members who are billed via credit or debit card charges will be able to recognize the billing information by the creditor identification mark: HTTPPUB.COM.   
@@ -13,10 +13,8 @@ Our site's registration form requires users to give us contact information (like
 
 
 
-SECURITY This site has high-level encryption and state-of-the-art security measures in place to protect the loss, misuse, and alteration of the information under our control.
+This site has high-level encryption and state-of-the-art security measures in place to protect the loss, misuse, and alteration of the information under our control.
 
-CONTACTING THE WEB SITE If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you can contact us. Email cs@SWANKMAG.COM
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you can contact us. Email cs@SWANKMAG.COM
 
 Close This Window
-
-[**Return Back To Main Page**](https://web.archive.org/web/20050415080059id_/http%3A//www.swankmag.com/index.html)
