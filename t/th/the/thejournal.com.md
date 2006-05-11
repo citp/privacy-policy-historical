@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thejournal.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210091716id_/http%3A//www.101com.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thejournal.com privacy policy that was archived on 2006-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060511151753id_/http%3A//www.101com.com/Company/Privacy.aspx) for the most accurate reproduction.*
 
-# 101communications - Privacy
+# 101communications - Privacy Policy
 
 ## Privacy Policy
 
