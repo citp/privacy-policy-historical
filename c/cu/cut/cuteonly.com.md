@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cuteonly.com privacy policy that was archived on 2005-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051201115503id_/http%3A//www.cuteonly.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuteonly.com privacy policy that was archived on 2006-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060511142528id_/http%3A//www.cuteonly.com/privacy.php) for the most accurate reproduction.*
 
-# CuteOnly
+# CuteOnly Privacy Policy
 
   
 **Privacy Policy**
