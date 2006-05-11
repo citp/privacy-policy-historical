@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the horizonblue.com privacy policy that was archived on 2005-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051215123106id_/http%3A//www.horizonblue.com/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the horizonblue.com privacy policy that was archived on 2006-05-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060511150800id_/http%3A//horizonblue.com/privacy_policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 	<title>Horizon BCBSNJ - Privacy Policy</title>
@@ -27,6 +27,90 @@ function qtPhysicianDirectory(){
 }
 
 
+currentMenu = "";
+menuOn = 0;
+
+function buildMenu(menuName, menuArray)
+{
+	menuWidth = menuArray[4] - 4;
+
+	menu = "";
+	menu += "<div id=\"" + menuName + "\" style=\"position: absolute; top: " + menuArray[3] + "px; left: " + menuArray[2] + "px; visibility: hidden;\" onMouseOver=\"stopTimer();\" onMouseOut=\"startTimer();\">";
+	menu += "<table border=0 cellpadding=0 cellspacing=0 bgcolor=\"" + menuArray[1] + "\">";
+	menu += "<tr><td>";
+	menu += "<table border=0 cellpadding=3 cellspacing=1 ";
+
+
+	if (menuArray[4] == 0)
+	{
+		menu += ">";
+	}
+	else
+	{
+		menu += "width=\"" + menuWidth + "\">";
+	}
+		
+	for (i = 5; i < menuArray.length; i = i + 3)
+	{
+		menu += "<tr>";
+		menu += "<td bgcolor=\"" + menuArray[0] + "\" align=\"left\"><p class=dhtml_item>";
+
+		if (menuArray[i+2] == "")
+		{
+			menu += "<a class=dhtml href=\"" + menuArray[i+1] + "\">" + menuArray[i] + "</a>";
+		}
+		else
+		{
+			menu += "<a class=dhtml href=\"" + menuArray[i+1] + "\" target=\"_blank\">" + menuArray[i] + "</a>";
+		}
+
+		menu += "</p></td>";
+		menu += "</tr>";
+	}
+	
+	menu += "</table>";
+	menu += "</td></tr>";
+	menu += "</table>";
+	menu += "</div>";
+	
+	document.write(menu);
+}
+
+function showMenu(menuName)
+{
+	if (currentMenu != "")
+	{
+		hideMenu();
+	}
+
+	currentMenu = menuName;
+	
+	xPos = eval("document." + menuName + "_link" + ".offsetLeft");
+	yPos = eval("document." + menuName + "_link" + ".top") + 3;
+
+	eval("document.getElementById(\"" + menuName + "\").style.left = " + xPos);
+	eval("document.getElementById(\"" + menuName + "\").style.top = " + yPos);
+	eval("document.getElementById(\"" + menuName + "\").style.visibility = 'visible'");
+}
+
+function hideMenu()
+{
+	eval("document.getElementById(\"" + currentMenu + "\").style.visibility = 'hidden'");
+	currentMenu = "";
+}
+
+function startTimer()
+{
+	menuOn = setTimeout("hideMenu()", 500);
+}
+
+function stopTimer()
+{
+	if (menuOn != 0)
+	{
+		clearTimeout(menuOn);
+	}
+}
 
 
 members_qt = new Array("#ffffff", "#000000", 0, 154, 139,
@@ -73,7 +157,7 @@ buildMenu("providers_quick_tools", providers_qt);
 buildMenu("aboutus_quick_tools", aboutus_qt);
 buildMenu("global_quick_tools", global_qt);
 
-</script>
+</script><div id="members_quick_tools" style="position: absolute; top: 154px; left: 0px; visibility: hidden;" onmouseover="stopTimer();" onmouseout="startTimer();"><table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000"><tbody><tr><td><table border="0" cellpadding="3" cellspacing="1" width="135"><tbody><tr><td bgcolor="#ffffff" align="left"><p class="dhtml_item"><a class="dhtml" href="redir/qt_members.asp?pageto=members_rates.asp&amp;pagefrom=privacy_policy.asp&amp;sectionto=members&amp;sectionfrom=">Rates</a></p></td></tr><tr><td bgcolor="#ffffff" align="left"><p class="dhtml_item"><a class="dhtml" href="http://bcbsnj.myhealthyhorizon.com/topic/pharmacyservices.jhtml?urlSection=members">Pharmacy Services</a></p></td></tr><tr><td bgcolor="#ffffff" align="left"><p class="dhtml_item"><a class="dhtml" href="javascript:qtPhysicianDirectory();">Provider Directory</a></p></td></tr><tr><td bgcolor="#ffffff" align="left"><p class="dhtml_item"><a class="dhtml" href="redir/qt_members.asp?pageto=members_forms_download.asp&amp;pagefrom=privacy_policy.asp&amp;sectionto=members&amp;sectionfrom=">Downloadable Forms</a></p></td></tr></tbody></table></td></tr></tbody></table></div><div id="brokers_quick_tools" style="position: absolute; top: 154px; left: 3px; visibility: hidden;" onmouseover="stopTimer();" onmouseout="startTimer();"><table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000"><tbody><tr><td><table border="0" cellpadding="3" cellspacing="1" width="135"><tbody><tr><td bgcolor="#ffffff" align="left"><p class="dhtml_item"><a class="dhtml" href="redir/qt_brokers.asp?pageto=brokers_online_services.asp&amp;pagefrom=privacy_policy.asp&amp;sectionto=brokers&amp;sectionfrom=">Online Services</a></p></td></tr><tr><td bgcolor="#ffffff" align="left"><p class="dhtml_item"><a class="dhtml" href="redir/qt_brokers.asp?pageto=brokers_group_enrollment.asp&amp;pagefrom=privacy_policy.asp&amp;sectionto=brokers&amp;sectionfrom=">Group Enrollment</a></p></td></tr><tr><td bgcolor="#ffffff" align="left"><p class="dhtml_item"><a class="dhtml" href="redir/qt_brokers.asp?pageto=brokers_quotes.asp&amp;pagefrom=privacy_policy.asp&amp;sectionto=brokers&amp;sectionfrom=">Quotes and Proposals</a></p></td></tr><tr><td bgcolor="#ffffff" align="left"><p class="dhtml_item"><a class="dhtml" href="redir/qt_brokers.asp?pageto=brokers_newsletters.asp&amp;pagefrom=privacy_policy.asp&amp;sectionto=brokers&amp;sectionfrom=">Newsletters</a></p></td></tr></tbody></table></td></tr></tbody></table></div><div id="group_quick_tools" style="position: absolute; top: 154px; left: 0px; visibility: hidden;" onmouseover="stopTimer();" onmouseout="startTimer();"><table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000"><tbody><tr><td><table border="0" cellpadding="3" cellspacing="1" width="135"><tbody><tr><td bgcolor="#ffffff" align="left"><p class="dhtml_item"><a class="dhtml" href="redir/qt_group.asp?pageto=group_online_services.asp&amp;pagefrom=privacy_policy.asp&amp;sectionto=group&amp;sectionfrom=">Online Services</a></p></td></tr><tr><td bgcolor="#ffffff" align="left"><p class="dhtml_item"><a class="dhtml" href="http://bcbsnj.myhealthyhorizon.com/topic/pharmacyservices.jhtml?urlSection=members">Pharmacy Services</a></p></td></tr><tr><td bgcolor="#ffffff" align="left"><p class="dhtml_item"><a class="dhtml" href="redir/qt_group.asp?pageto=members_presale_coverage.asp&amp;pagefrom=privacy_policy.asp&amp;sectionto=group&amp;sectionfrom=">Coverage Options</a></p></td></tr></tbody></table></td></tr></tbody></table></div><div id="providers_quick_tools" style="position: absolute; top: 154px; left: 0px; visibility: hidden;" onmouseover="stopTimer();" onmouseout="startTimer();"><table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000"><tbody><tr><td><table border="0" cellpadding="3" cellspacing="1" width="135"><tbody><tr><td bgcolor="#ffffff" align="left"><p class="dhtml_item"><a class="dhtml" href="redir/qt_providers.asp?pageto=providers_online.asp&amp;pagefrom=privacy_policy.asp&amp;sectionto=providers&amp;sectionfrom=">Online Services</a></p></td></tr><tr><td bgcolor="#ffffff" align="left"><p class="dhtml_item"><a class="dhtml" href="http://bcbsnj.myhealthyhorizon.com/topic/pharmacyservices.jhtml?urlSection=members">Pharmacy	Services</a></p></td></tr></tbody></table></td></tr></tbody></table></div><div id="aboutus_quick_tools" style="position: absolute; top: 154px; left: 0px; visibility: hidden;" onmouseover="stopTimer();" onmouseout="startTimer();"><table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000"><tbody><tr><td><table border="0" cellpadding="3" cellspacing="1" width="135"><tbody><tr><td bgcolor="#ffffff" align="left"><p class="dhtml_item"><a class="dhtml" href="http://bcbsnj.myhealthyhorizon.com/topic/pharmacyservices.jhtml?urlSection=members">Pharmacy Services</a></p></td></tr><tr><td bgcolor="#ffffff" align="left"><p class="dhtml_item"><a class="dhtml" href="javascript:qtPhysicianDirectory();">Provider Directory</a></p></td></tr><tr><td bgcolor="#ffffff" align="left"><p class="dhtml_item"><a class="dhtml" href="redir/qt_aboutus.asp?pageto=aboutus_jobs.asp&amp;pagefrom=privacy_policy.asp&amp;sectionto=aboutus&amp;sectionfrom=">Careers</a></p></td></tr></tbody></table></td></tr></tbody></table></div><div id="global_quick_tools" style="position: absolute; top: 154px; left: 0px; visibility: hidden;" onmouseover="stopTimer();" onmouseout="startTimer();"><table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000"><tbody><tr><td><table border="0" cellpadding="3" cellspacing="1" width="135"><tbody><tr><td bgcolor="#ffffff" align="left"><p class="dhtml_item"><a class="dhtml" href="http://bcbsnj.myhealthyhorizon.com/topic/pharmacyservices.jhtml?urlSection=members">Pharmacy Services</a></p></td></tr><tr><td bgcolor="#ffffff" align="left"><p class="dhtml_item"><a class="dhtml" href="javascript:qtPhysicianDirectory();">Provider Directory</a></p></td></tr><tr><td bgcolor="#ffffff" align="left"><p class="dhtml_item"><a class="dhtml" href="redir/qt_global.asp?pageto=aboutus_jobs.asp&amp;pagefrom=privacy_policy.asp&amp;sectionto=aboutus&amp;sectionfrom=">Careers</a></p></td></tr></tbody></table></td></tr></tbody></table></div>
 
 
 <!-- ##topNav## --->
@@ -251,7 +335,7 @@ buildMenu("global_quick_tools", global_qt);
 	<form method="post" action="/keyword_search.asp?urlSection=&amp;pagefrom=privacy_policy.asp"></form>
 	<td>
 	<!--- <div><input type="text" value="ie" size="8" style="font: 16px 'courier new'; width: 90px; height: 27px; border: 3px inset #DDD;"></div>  --->
-	
+	<input type="Text" name="Data" size="8" maxlength="50" class="quicktools" style="width: 100px">
 	
 	</td>
 	<td align="right"><input type="Submit" name="submitx" value="Go" class="quicktools"></td>
