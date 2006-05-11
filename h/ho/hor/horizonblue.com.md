@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the horizonblue.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215123106id_/http%3A//www.horizonblue.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horizonblue.com privacy policy that was archived on 2006-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060511150800id_/http%3A//horizonblue.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Horizon BCBSNJ - Privacy Policy
 
