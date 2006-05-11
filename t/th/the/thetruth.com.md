@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetruth.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231020054id_/http%3A//www.thetruth.com/index.cfm%3FFound%3DPrivacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetruth.com privacy policy that was archived on 2006-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060511215828id_/http%3A//www.thetruth.com/index.cfm%3FFound%3DPrivacy_Policy) for the most accurate reproduction.*
 
 # truth found
 
