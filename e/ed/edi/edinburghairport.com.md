@@ -1,46 +1,49 @@
-> *The following text is extracted and transformed from the edinburghairport.com privacy policy that was archived on 2003-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030711190649id_/http%3A//www.onlineukshops.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edinburghairport.com privacy policy that was archived on 2006-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060512101818id_/http%3A//www.edinburghairport.com/portal/controller/dispatcher.jsp%3FCiID%3D9ca16d35771a2010VgnVCM100000147e120a____%26CtID%3D448c6a4c7f1b0010VgnVCM200000357e120a____%26Ct%3DB2C_CT_GENERAL%26RootCh%3DMisc%26Ch%3DPrivacy%2BStatement%26ChID%3De04f83322f5f3010VgnVCM10000036821c0a____%26ChPath%3DEDI%255EMisc%255EPrivacy%2BStatement) for the most accurate reproduction.*
 
-# Online UK Shops
+# BAA Edinburgh: Privacy Statement
 
-**Privacy Policy covering Online UK Shops**
+Please read carefully
 
-UK Internet Sites Limited   
-Dept. Online UK Shops   
-PO Box 4047   
-Glasgow G52 4US   
-United Kingdom 
+1.Introduction  
+BAA plc and its group companies including World Duty Free ("BAA") each take their obligations with regard to your personal information seriously.This Privacy Policy sets out the ways BAA handles your personal information via this website ("the Website"). BAA is registered as a data controller under the Data Protection Act. Any personal information collected by BAA is handled in accordance with applicable data protection legislation.
 
-**[http://www.onlineukshops.com](http://www.onlineukshops.com/)**
+2\. The information we collect through the Website and the way we use it  
+If you give us your personal details when you use the Website, we will inform you of the uses we make of that information at the time we collect it from you.
 
-**General policy**   
-Online UK Shops respects your privacy. The information that you provide us with, or that is gathered automatically helps us and third parties to monitor our service and provide you with the services that you have subscribed to. Please bear in mind that any personal information that you submit through forums, letters/emails for publication and the like may be collected by others. If you have any concerns, questions or comments please [contact us](https://web.archive.org/web/20030711190649id_/http%3A//www.onlineukshops.com/contact.html). 
+You may be asked to give us personal details when subscribing to a service, taking part in customer surveys or providing feedback on various issues relating to BAA.
 
-**Email newsletters**   
-Online UK Shops operates email newsletters on its site. These are free to sign up to. What we ask of you is your email address, at times we may ask you for further information, which is used for demographic purposes. We do not give our email lists out to other parties unless you choose to opt in to a scheme whereby third parties may use your details for their own purposes. Our newsletters may contain promotions or advertisements from various businesses or information on other sites or services that we offer. If at any time you wish to unsubscribe from our newsletter you may do so by visiting the site you signed up with and using the unsubscribe facility. You may also email the website editor although it may take a longer time before your email address is removed than with the automatic unsubscribe facility. 
+If you are giving us your personal details in the course of subscribing for a service (for example a newsletter), then we will of course use it in order to provide you with that service.
 
-**Registration**   
-Our site may require you to register with us. This is to allow access to extra services that we provide for you. The information is not used for sending you newsletters or promotions unless stated. 
+If you purchase a travel service from us (such as car parking, insurance or lounge spaces), we will, unless you object, use that information to send you a limited number of communications each year relating to similar products and services. We do our best to tailor this information so that it will be useful to you, but if at any time you no longer wish to receive it, you can opt out by following the instructions that we will give you with each communication.
 
-**Third party sites**   
-Our site operates with third party sites (such as online shops). We may, on occasion, share non-personal aggregated information to these third parties. 
+We would also like, with our partners, to be able to communicate with you relating to other offers relating to travel, travel services, duty free and airport shopping. We always choose our partners carefully to ensure that you will find those communications of interest. However we recognise that not all of our passengers like to receive this kind of communication and therefore we will not do so unless you have specifically chosen to receive it.
 
-**Cookies**   
-We use 'cookies' to track advertising information and website usage. On certain sites, or third party sites we may utilise cookies for other purposes such as order tracking in online shops or for targeting advertisements to particular types of visitor. 
+We do also, with a view to improving the Website and the user experience, use some information for the purposes of statistical analysis. However when we do this we anonymise the information so you cannot be personally identified from it.
 
-**Surveys**   
-On occasion we may conduct online surveys. This is used to gauge our service, collect demographic information and other information that we may find useful. These surveys are optional. We may share non-personal, aggregated information with third parties. 
+We may disclose your personal information to others where we are required or permitted to do so by law or if you send us any material that is unlawful, offensive, abusive, threatening, defamatory, obscene, discriminatory or infringes the rights of anyone else, in order to prevent you from continuing to do so.
 
-**Security**   
-While we strive to keep the information that you supply directly or indirectly secure please be aware that the Internet is not a fully secure medium. 
+If you are under 16 you must obtain consent from a parent or guardian before providing us with any personal information.
 
-**Competitions**   
-From time to time we operate competitions and promotions. Participation in these is optional. Information submitted may be submitted to third parties, check individual competition rules. You may also be given an option to sign up for a free email newsletter, opting out of this does not disqualify you from a competition. 
+All personal information is held in a secure environment.
 
-**Usage of information**   
-If requested we may submit your information to local or government authorities. 
+We shall hold your personal information for as long as necessary in order to provide the relevant service, monitor the service over a reasonable period of time or for as long as may be reasonable given the circumstances in which the information is provided.
 
-**Corrections/updates**   
-You may unsubscribe from our newsletters using the facilities available on the website you signed up with or by emailing the relevant online editor. If you have any problems please [contact us](https://web.archive.org/web/20030711190649id_/http%3A//www.onlineukshops.com/contact.html). 
+3\. Order forms for car parking, lounges and travel services  
+If you buy car parking, travel services or lounge spaces through the BAA Advance part of the Website, BAAE (the division of BAA which fulfils such orders) will ask you to complete an order form, which will ask for your name, address, email address and a telephone number. Ordinarily BAAE will contact you by email only but if we encounter a problem with your order, we may need to telephone you to resolve it in the most effective way.
 
-**Policy changes**   
-By using our site you agree to accept this privacy policy and are aware that our policy may change with time. Any changes to this policy will appear on this web page. 
+4.WorldPoints  
+WorldPoints is BAA's airport shopping loyalty programme. You can sign up by visiting [www.baa.com/worldpoints](http://www.baa.com/worldpoints). A separate Privacy Policy is applicable to those passengers who join the WorldPoints programme, details of which are available on the Website.
+
+5.Cookies  
+BAA collects information about your use of the Website from cookies.
+
+When you enter the Website your computer will automatically be issued with a 'cookie'. A 'cookie' is a small text file that identifies your computer to our server. Cookies in themselves do not identify the individual user, just the computer used.
+
+BAA 'cookies' record those areas of the Website that have been visited by your computer, for how long and what activity was undertaken on the Website. We do this so as to understand which are the most popular parts of the Website, and also to improve your experience. For example, cookies that we use ensure that some promotional items, such as pop-ups and overlays, do not appear too many times on the same visit to the Website.
+
+In addition, we would also like to make you aware that, although external to BAA, 'third party' cookies are served on the Website and can be used to track internet activity after a user has left the Website. 'Third party' cookies usually have a long lifetime as they are 'harvested' and 'refreshed' whenever a user visits a page where the same or a similar cookie is being used.
+
+You are not obliged to accept cookies. You have the opportunity to set your computer either to accept all cookies, to notify you when a cookie is issued, or not to receive cookies at any time. The last of these, of course, means that your experience of using the Website may be impaired as we will be unable to personalise aspects of your use of the Website.
+
+6\. Links to Third Party Websites  
+This Privacy Policy applies solely to the Website and does not apply to any third party websites you may access from the Website.
