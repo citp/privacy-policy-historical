@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flashbay.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230210953id_/http%3A//www.flashbay.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashbay.com privacy policy that was archived on 2006-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060513002511id_/http%3A//www.flashbay.com/privacy.php) for the most accurate reproduction.*
 
-# USB Flash Drives with Logo
+# FlashBay.dk
 
 |   | 
 
