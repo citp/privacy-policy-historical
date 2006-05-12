@@ -1,62 +1,80 @@
-> *The following text is extracted and transformed from the teach12.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211154907id_/http%3A//www.teach12.com/ttc/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teach12.com privacy policy that was archived on 2006-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060512140832id_/http%3A//www.teach12.com/ttc/Privacy.asp) for the most accurate reproduction.*
 
-# The Teaching Company - Privacy Information
+# The Teaching Company - Privacy Policy
 
-Our Commitment to Protecting Your Privacy
-
-  * How we protect your information
-  * How we use "cookies"
-  * How we use customer information
-  * How to change your customer information
+Our Privacy Policy  
 
 
-
-How we protect your information 
-
-When you order from us on-line at [www.teach12.com](http://www.teach12.com/), we protect your information by using Secure Sockets Layer (SSL) protocol.  SSL encryption electronically codes any information you send us.  With this state-of-the-art system, you can enter your credit-card number, delivery and billing information safely through the secure server.  The encryption process protects the information by scrambling it before it is sent to us from your computer. 
-
-If you feel uncomfortable with buying on-line, we’re still taking orders by phone 1-800-TEACH-12 (1-800-832-2412), fax (703-378-3819), or surface mail (4151 Lafayette Center Drive; Suite 100; Chantilly, VA 20151-1232).
-
-Return To Top
-
-How we use "cookies" information
-
-Cookie technology is widely used on the internet.  We use cookies to make your visit more effective and secure.  We do not sell or redistribute cookie-based information to anyone.    
-The information helps us to:
-
-  * Determine what site areas you like.
-  * Offer you special sales opportunities.
-  * Make navigation through our site easier and faster for you.
+  * How we protect your name, address, and e-mail address >
+  * How we protect your billing information >
+  * How we use "cookies" information >
+  * How to change your customer information >
 
 
 
-Return To Top
+**How we protect your name, address, and e-mail address **  
+We will not sell or rent your name, address, e-mail address, or purchase history to any other person or company. Period. That has been our policy since we opened in 1990. 
 
-How we use customer information
+We use your name and address to send you course materials you order, our catalogs, and newsletters. 
 
-Protecting your privacy is of great concern to us.  We use the information collected on this site to: 
+Companies can do far more wonderful things with your e-mail address than rent it to others. Here's what we do with your e-mail address: 
 
-  * Make your shopping experience as easy and pleasant as possible. 
-  * Help us learn more about your preferences. 
-  * Help us most effectively disseminate news about sales and special offers.
+  * **Send you order confirmations and course starter materials**. When you place an order, you'll receive an order confirmation within moments. You'll also receive the professor's summary of the course, links to websites recommended by the professor to supplement your learning experience, and the recommended readings for the course with a link so you may order the readings if you choose. 
+  * **Send you free articles**. We search widely for articles of interest on the subjects covered by our courses. When we find one that is especially interesting and compelling, we'll send it to you if we can arrange with the publisher to do so. 
+  * **Collect your feedback on courses and professors**. We work hard to stay in touch with you. Through e-mail surveys, you vote for the courses you want us to make, rate the quality of our courses, tell us what improvements to make to our courses and services, and tell us which professors we should choose to make The Great Courses. The professors who teach The Great Courses were chosen based on the votes of more than 15,000 customers who have evaluated audition lectures. 
+  * **Notify you of special offers**. Each catalog and newsletter includes courses that are on sale. We also notify our customers via e-mail when courses are on sale. We also make buying simple via e-mail. If you see courses that interest you, simply click on the links to our website, where you can find out more. 
 
 
 
-The Teaching Company may match user information with third-party data. Also, we may disclose user statistics in order to describe our services to prospective partners, advertisers, other third parties and for other lawful purposes.  The Teaching Company may disclose user information in order to identify, contact, or bring legal action against any person or persons causing injury or interference with the property or business practices of The Teaching Company or anyone else that could be harmed by such activities.  We will disclose information in good faith when required to do so by law.  We will not share any of your personal information without first seeking your express permission. 
+Return To Top >
 
-The Teaching Company is not liable or responsible for any independent policies practiced by other sponsors, merchants, affiliates, or other persons in correlation with our website. Return To Top
+**How we protect your billing information**   
+When you order from us online, we protect your information by using Secure Sockets Layer (SSL) protocol.  We are secured by VeriSign, the leading provider of SSL encryption keys. SSL encryption electronically masks any information you send us. With this state-of-the-art system, you can enter your credit card number and delivery and billing information safely. The encryption process protects the information by scrambling it before it is sent to us. 
 
-How to change your information
+You can verify our compliance at any time by clicking on the VeriSign logo located on our Shopping Cart page or any page in the checkout process. 
 
-To correct or update any of your personal information please contact us through one of the below listed means.  Please remember, if you have multiple addresses, we request that you send us the multiple address references.  Our contact information is:
+If you feel uncomfortable buying through our site, we'd be delighted to take your orders via: 
 
-**Email:** [custserv@teachco.com](mailto:custserv@teachco.com)
+**Phone** : 1-800-TEACH-12 (1-800-832-2412)   
+Office hours: 9:00 a.m. to 9:00 p.m. Eastern Time, Monday through Friday; and 9:00 a.m. to 5:00 p.m. Eastern Time, Saturday. 
 
-**Phone:** 1-800-TEACH-12 (1-800-832-2412).   Our office hours are 9:00 am until 9:00 pm ET, Monday through Friday; and 9:00 am until 5:00 pm ET Saturday.
+**Fax:** 703-378-3819 
 
-**Mail:   ** |   
----|---  
-The Teaching Company  
-4151 Lafayette Center Drive, Suite 100  
-Chantilly, VA 20151    
-Return To Top
+**Mail:   **The Teaching Company   
+           4151 Lafayette Center Drive, Suite 100   
+           Chantilly, VA 20151-1232  
+
+Return To Top >
+
+**How we use "cookies" information**   
+Cookie technology is widely used on the Internet. We use cookies to make your visit more effective. We do not sell or redistribute cookie-based information to anyone. 
+
+The information helps us to: 
+
+  * offer you special sales opportunities 
+  * make navigation through our site easier and faster for you 
+  * keep our prices lower by better understanding what information interests you. 
+
+
+
+No personal information is stored in long-term cookies. 
+
+Return To Top >
+
+**How to change your customer information**   
+If you are a registered user of our site, you can correct or update personal information in the Your Account area of the site. 
+
+If you are not a registered user, please contact us through one of the means listed below.  If you have multiple addresses, we request that you send us the multiple address references. 
+
+**E-mail:** [custserv@teachco.com ](mailto:custserv@teachco.com)
+
+**Phone** : 1-800-TEACH-12 (1-800-832-2412)   
+Our office hours are 9:00 a.m. to 9:00 p.m. Eastern Time, Monday through Friday; and 9:00 a.m. to 5:00 p.m. Eastern Time, Saturday. 
+
+**Fax:** 703-378-3819 
+
+**Mail:   **The Teaching Company   
+           4151 Lafayette Center Drive, Suite 100   
+           Chantilly, VA 20151-1232  
+
+Return To Top >
