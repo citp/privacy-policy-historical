@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the directathletics.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219051728id_/http%3A//www.directathletics.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directathletics.com privacy policy that was archived on 2006-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060512175946id_/http%3A//www.directathletics.com/privacy_policy.html) for the most accurate reproduction.*
 
-# DirectAthletics
+# DirectAthletics | Privacy Policy
 
 We are committed to safeguarding the online privacy of our users, and recognize the importance of protecting the privacy of personal information collected. This policy may change from time to time, so please check back periodically. 
 
