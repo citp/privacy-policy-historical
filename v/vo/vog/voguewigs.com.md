@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the voguewigs.com privacy policy that was archived on 2005-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050410031715id_/http%3A//www.voguewigs.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voguewigs.com privacy policy that was archived on 2006-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060512104835id_/http%3A//www.voguewigs.com/privacypolicy.html) for the most accurate reproduction.*
 
-# voguewigs.com
+# Privacy Policy
 
 **Privacy Policy**  
 Your privacy is important. We respect that.  
