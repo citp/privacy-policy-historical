@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luxsci.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231225357id_/http%3A//luxsci.com/extranet/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxsci.com privacy policy that was archived on 2006-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060512134027id_/http%3A//luxsci.com/extranet/privacy.html) for the most accurate reproduction.*
 
 # Lux Scientiae: Privacy Policy
 
@@ -32,5 +32,5 @@ Lux Scientiae staff will not examine the content of your incoming or outgoing em
 
 **Client Testimonial**
 
-The Internet and my web site have grown to become essential components of my business. The expertise and support that Lux Scientiae continually delivers is crucial to maintaining the worldwide contact I need to succeed. Lux Scientiae provides peace of mind!  
-\- Brian Skerry, [Brian Skerry Photography](http://www.brianskerry.com/)
+Thank you very much for getting my service setup so quickly. Within an hour from subscribing to the email-only service, I was up and running. The site was very intuitive and easy to use, so I was able to configure my account rapidly. Also, I want to praise your company for your customer service response. For all of my inquiries/tickets, I got satisfied responses very quickly. Some responses were within minutes. Lastly, your email-only service is very competitively priced. I will recommend you to everyone, especially since I am an IT web consultant working for many fortune 500 companies. Last company I worked with was Sony Pictures and am currently working as a consultant at directv.com.  
+\- Bryan Beam [BBInc.tv Inc.](http://www.bbinc.tv/)
