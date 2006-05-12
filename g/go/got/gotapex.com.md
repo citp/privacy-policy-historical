@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the gotapex.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230233220id_/http%3A//www.gotapex.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotapex.com privacy policy that was archived on 2006-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060512122151id_/http%3A//www.gotapex.com/privacy.php) for the most accurate reproduction.*
 
 # Deals, Coupon codes and Discount prices - GotApex?
-
-[ ](http://onecall.com/LandingPage.aspx?lpID=80&PMNID=1319&BCPID=241)
 
 | Email Login:  
   
@@ -26,7 +24,7 @@ Password:
   
   
   
-[](http://service.bfast.com/bfast/click?bfmid=70780&sourceid=24803698&categoryid=gotapexholiday)   
+[](http://service.bfast.com/bfast/click?bfmid=70780&sourceid=24803698&categoryid=gotapexmomdeal&bfinfo=998)   
 Privacy Policy
 
 **_Privacy Policy_**
@@ -61,23 +59,10 @@ By using Got Apex?, Inc. and the rest of the services provided, you consent to t
 **If you have any questions pertaining to this privacy policy and its contents, please direct your correspondence to [leon@gotapex.com](mailto:leon@gotapex.com). We value the input of our readers and users and we try our best to make your visit at Got Apex?, Inc. enjoyable. 
 
   
-| 
-
-|   
----  
-| [DellSB - Dimension 9150 Desktop with 2.8Ghz Pentium 4 820 Dual Core, 512MB DDR2 SDRAM, 160GB S-ATA, DVD-Rom & CD-RW, 128MB ATI Radeon X300 SE for $729 after Rebate including 19" LCD Monitor!](https://web.archive.org/coupon-codes/30603.dhtml)  
----  
-[DellHome - 30% Off for Dimension Desktops, 10% off XPS Desktops, and $300 to $750 Off Inspiron Notebooks Coupons!](https://web.archive.org/coupon-codes/30604.dhtml)  
-[Hot! DirectWineOnline - Got Apex? Exclusive! Buy 6 Bottles of Premium Wine for Only $59.88 and GET 6 Bottles FREE Plus a FREE Vintner`s Reserve Tabletop Opener (Value $139.95)!](https://web.archive.org/coupon-codes/30591.dhtml)  
-[Chase - PerfectCard Visa/Mastercard with 6% Rebate on ALL Gas Purchases at Any Station, Purchase Assurance, Extended Warranty Protection, Travel Insurance, No Annual Fee, and MORE!](https://web.archive.org/coupon-codes/30596.dhtml)  
-[Hot! OneCall - Onkyo 7.1 Channel XM-Radio Ready, Optional iPod Compatibility Home Theater Receiver for $375.99 plus Delivery!](https://web.archive.org/coupon-codes/30598.dhtml)  
-  
-  
-  
-  
+|    
 
 
-**web search**  
+| **web search**  
 ---  
 **stocks**  
   
@@ -92,13 +77,6 @@ enter zip code
   
   
 
-
-**Meritline**  
-\- [Wireless ](http://www.myaffiliateprogram.com/u/meritlne/t.asp?id=1745&p=clink?meritline+AwUqxH+82wilan.html) 802.11b Lan as low as $19.99  
-\- [Great Azo ](http://www.myaffiliateprogram.com/u/meritlne/t.asp?id=1745&p=clink?meritline+AwUqxH+dvd-r-blank-media-1.html) 4x DVD-R as low as $0.19 Each!  
-\- [Ritek](http://www.myaffiliateprogram.com/u/meritlne/t.asp?id=1745&p=clink?meritline+AwUqxH+ritek-dvd-blank-media.html) 4x DVD+R as low as $0.42/ea, free shipping!   
-\- [High Quality](http://www.myaffiliateprogram.com/u/meritlne/t.asp?id=1745&p=clink?meritline+AwUqxH+52x-high-quality-cdr-cd-r-printing-logo2.html) CDR (CD-R) 52X 80Min/700MB Blank Media - $15.50/100 pack  
-**[MERITLINE](http://www.myaffiliateprogram.com/u/meritlne/t.asp?id=1745)**
 
 * * *
 
