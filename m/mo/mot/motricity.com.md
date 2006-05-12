@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the motricity.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231213103id_/http%3A//www.motricity.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motricity.com privacy policy that was archived on 2006-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060512130448id_/http%3A//motricity.com/about/privacy.php) for the most accurate reproduction.*
 
-# Motricity Privacy Policy
+# Motricity | About Us | Privacy Policy
 
 Your privacy is important to us. This Privacy Policy will tell you what information we collect, how we collect it, how we use it, how we disclose it, how we protect it, and what choices you have with respect to all of the above. We urge you to read this Privacy Policy so that you will understand both our commitment to you and your privacy, and how you can participate in that commitment.
 
