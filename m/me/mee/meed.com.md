@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the meed.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228180026id_/http%3A//www.meed.com/nav%3Fpage%3Dmeed.static.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meed.com privacy policy that was archived on 2006-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060512182927id_/http%3A//www.meed.com/nav%3Fpage%3Dmeed.static.privacy) for the most accurate reproduction.*
 
 # MEED - Middle East Business News & Information
 
-| **28 December 2005**   
+| **12 May 2006**   
 = Subscriber Access  
 ---  
  [Breaking News](https://web.archive.org/nav?page=meed.backgrounder.news "Click here for Breaking News")  
