@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the in-pharmatechnologist.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231211208id_/http%3A//in-pharmatechnologist.com/misc/misc.asp%3Fidmisc%3D12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the in-pharmatechnologist.com privacy policy that was archived on 2006-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060512083603id_/http%3A//in-pharmatechnologist.com/misc/misc.asp%3Fidmisc%3D12) for the most accurate reproduction.*
 
 # Pharmaceutical industry and manufacturer - Pharmaceutical news, packaging and technology
 
