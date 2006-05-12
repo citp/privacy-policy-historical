@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetsecure.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218014826id_/http%3A//internetsecure.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetsecure.com privacy policy that was archived on 2006-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060512212210id_/http%3A//internetsecure.com/privacy.htm) for the most accurate reproduction.*
 
 # InternetSecure
 
@@ -35,11 +35,11 @@ Except for the above parties, and for use by InternetSecure’s consultants and 
 **InternetSecure takes measures to protect and keep information secure. Our Merchants’ area, application form and electronic purchase service are secured with SSL encryption. Verisign has supplied us with digital certificates for our Web sites. All information collected by InternetSecure is held offline, secured via SSL encryption, and protected by a firewall. Whenever sensitive information is transmitted to InternetSecure through our Web site, such as a credit card number, our server provides 128-bit encryption of the information as it travels across the Internet. InternetSecure restricts internal access to personal information to selected members of InternetSecure’s staff. 
 
 **Third Party Dispute Resolution:  
-**InternetSecure Inc. is committed to resolving disputes quickly and efficiently. In the event that a dispute cannot be settled through our normal internal processes, InternetSecure Inc. is committed to using an independent third party dispute resolution process. 
+**InternetSecure is committed to resolving disputes quickly and efficiently. In the event that a dispute cannot be settled through our normal internal processes, InternetSecure Inc. is committed to using an independent third party dispute resolution process. 
 
 This process can be initiated through [ThirdPartyResolution@internetsecure.com](mailto:thirdpartyresolution@internetsecure.com) only after our normal internal processes have been completed. 
 
-In the event the issue relates to private information, InternetSecure Inc. will not use or distribute any private information without express permission. All disputes in arbitration will be resolved under the laws of Ontario. 
+In the event the issue relates to private information, InternetSecure will not use or distribute any private information without express permission. All disputes in arbitration will be resolved under the laws of Ontario. 
 
 **Opt out / Correct / Update:  
 **This site gives Merchants the following options for removing their information from our database to cancel future communications, to no longer receive our service, or to change their information on our database: 
@@ -52,7 +52,7 @@ In the event the issue relates to private information, InternetSecure Inc. will 
 Contacting InternetSecure:  
 **If you have questions about this privacy statement, the practices of this site or your dealings with this web site, you may contact: 
 
-**InternetSecure Inc.**  
+**InternetSecure**  
 2201 Speers Road  
 Oakville ON  
 L6L 2X9  
