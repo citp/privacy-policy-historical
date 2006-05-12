@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dotomi.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215173007id_/http%3A//www.dotomi.com/common/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotomi.com privacy policy that was archived on 2006-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060512053348id_/http%3A//www.dotomi.com/common/privacy.html) for the most accurate reproduction.*
 
 # dotomi
 
@@ -23,6 +23,10 @@ A cookie is a text file that is placed on your hard disk by a Web page server. C
 Occasionally, a third party advertising network or a Publisher may place a cookie on the consumer's browser. In this case, the cookie would be used by the Publisher or advertising network to identify a Dotomi consumer and alert its ad server to serve a Dotomi Direct Message. 
 
 Within each served Dotomi Direct Message there is a drop down menu, which clearly provides the consumer with the opportunity to opt-out of receiving Dotomi Direct Messaging. The consumer can click on the "Opt-Out" line on the menu and will then be prompted on how to opt out of receiving Dotomi Direct Messaging. Once the consumer has opted-out of receiving Dotomi Direct Messaging, the two cookies originally attached to the consumer's browser will be nullified. 
+
+Dotomi Web Site Third-Party Cookies
+
+A third party may place a cookie on the site visitor's browser. These cookies do not collect or contain any Personally Identifiable Information. There are two situations in which a third party cookie is used: (1) the cookie would be used by a Publisher or advertising network to identify a Dotomi consumer and alert its ad server to serve a Dotomi Direct Message. (2) The cookie is placed by a web-analytics company to facilitate our analysis of our website traffic. 
 
 Information Received by Dotomi
 
