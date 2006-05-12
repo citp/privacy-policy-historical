@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourmusic.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214110252id_/http%3A//www.yourmusic.com/help/index_sub.html%3Ffaq_section%3D8%26sub_section%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourmusic.com privacy policy that was archived on 2006-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060512022950id_/http%3A//www.yourmusic.com/help/index_sub.html%3Ffaq_section%3D8%26sub_section%3Dprivacy) for the most accurate reproduction.*
 
 # Yourmusic.com
 
@@ -28,7 +28,8 @@ Naturally, we also pay attention to what you buy, we keep track of your shopping
 
 We may conduct some or all of these activities through our third party service providers, who provide these services on our behalf. 
 
-Your credit card information:   
+Your credit card information: 
+
 We'll keep your credit card information on file, but we have designed our site not to display the entire credit card information. Plus, you can always choose to change to a new card or delete one of your credit cards entirely from our files. To see (or change) your current credit card status, click "Billing/Preferences" in "Your Account." 
 
 When you sign up for a subscription you authorize yourmusic.com to place a temporary, $1 authorization charge on your card. This temporary charge _will not_ be converted into an actual charge to you; it is used only to verify your billing address and the validity of your card. The temporary charge will reduce the amount available on your card by $1 for a short period of time. 
