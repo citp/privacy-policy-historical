@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ldproducts.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221153652id_/http%3A//ldproducts.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ldproducts.com privacy policy that was archived on 2006-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060513031858id_/http%3A//www.ldproducts.com/privacy.html) for the most accurate reproduction.*
 
 # Your Privacy
 
