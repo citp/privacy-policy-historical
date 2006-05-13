@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propay.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215120011id_/http%3A//www.propay.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propay.com privacy policy that was archived on 2006-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060513153857id_/http%3A//propay.com/privacy.html) for the most accurate reproduction.*
 
 # ProPay: Accept Credit Cards - Simple, Safe, & Affordable
 
