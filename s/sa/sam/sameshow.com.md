@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sameshow.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231010644id_/http%3A//sameshow.com/other/powerpoint-to-flash-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sameshow.com privacy policy that was archived on 2006-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060514001318id_/http%3A//sameshow.com/other/powerpoint-to-flash-privacy.html) for the most accurate reproduction.*
 
-# PowerPoint to Flash Software - Privacy Policy
+# PowerPoint to Flash - E-learning Software,Convert PowerPoint to Flash,Create flash presentation,
 
 **Wondershare Software is committed to protecting your privacy. We will only collect your personal information for defined purposes. We do not distribute or share your personal information beyond what is strictly necessary to fulfill our obligations to you. We may share your information only with partners who adhere to Wondershare's commitment to protecting your privacy. Wondershare Software will not sell your personal information in any manner whatsoever.**
 
