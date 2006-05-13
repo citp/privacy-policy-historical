@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the biopharminternational.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231220622id_/http%3A//www.biopharminternational.com/biopharm/static/staticHtml.jsp%3FfileName%3D/sitewide/privacy/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biopharminternational.com privacy policy that was archived on 2006-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060513130256id_/http%3A//www.biopharminternational.com/biopharm/static/staticHtml.jsp%3FfileName%3D/sitewide/privacy/privacy.jsp) for the most accurate reproduction.*
 
-# BioPharm - Privacy Policy
+# Privacy Policy - BioPharm International
 
 **Advanstar Communications Inc.** (“Advanstar”) has created this privacy statement to demonstrate our firm commitment to fully disclosing the information collection and use practices applicable to this website. This privacy statement discloses what information we collect via this website and how we use it. 
 
