@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myrecipes.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230191519id_/http%3A//www.myrecipes.com/products/shourplg.asp%3FHome%3Dfoot2.priv.HP) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myrecipes.com privacy policy that was archived on 2006-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060513051527id_/http%3A//myrecipes.com/products/shourplg.asp%3FHome%3Dfoot2.priv.HP) for the most accurate reproduction.*
 
 # Cooking.com - Pledge
 
