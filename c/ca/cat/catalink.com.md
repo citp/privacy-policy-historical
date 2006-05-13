@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catalink.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228130108id_/http%3A//www.catalink.com/privacy_policy2.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catalink.com privacy policy that was archived on 2006-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060513172254id_/http%3A//www.catalink.com/privacy_policy2.php) for the most accurate reproduction.*
 
 # Catalogues & Brochures Available Free at Catalink - Catalogs Mail Order Holiday Travel
 
