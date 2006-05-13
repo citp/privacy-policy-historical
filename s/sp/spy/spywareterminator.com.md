@@ -1,44 +1,51 @@
-> *The following text is extracted and transformed from the spywareterminator.com privacy policy that was archived on 2005-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051201144544id_/http%3A//www.spywareterminator.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spywareterminator.com privacy policy that was archived on 2006-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060513184643id_/http%3A//spywareterminator.com/legal/privacy.aspx) for the most accurate reproduction.*
 
-# Spyware Terminator
+# Spyware Terminator - Privacy Policy
 
-**PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY USING ANY OF THE SERVICES, YOU REPRESENT THAT YOU HAVE READ AND UNDERSTAND THE AGREEMENT, WHICH INCLUDES THIS PRIVACY POLICY, AND YOU AGREE TO BE BOUND BY THE AGREEMENT AND THIS PRIVACY POLICY.**
+PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY USING ANY OF THE SERVICES, YOU REPRESENT THAT YOU HAVE READ AND UNDERSTAND THE AGREEMENT, WHICH INCLUDES THIS PRIVACY POLICY, AND YOU AGREE TO BE BOUND BY ALL ITS TERMS. TERMS NOT DEFINED IN THIS PRIVACY POLICY HAVE THE MEANING DESCRIBED IN THE TERMS OF USE.
 
-At Crawler, we care about providing you with the tools and information to manage and protect your online privacy. We have therefore developed a policy to inform you about the types of information Crawler collects and what measures we have in place to protect that information.
+**The Privacy Policy will address the following points:**
 
-While we have made every attempt to make this policy as clear as possible, if you have any questions about this policy, contact us at:
+  * Information Collection
+  * Personally Identifiable Information
+  * Cookies
+  * Sharing of Information
+  * Advanced Site Rank Feature
+  * Policy Changes Making Changes
+  * Contact Information
 
-CRAWLER, LLC  
-999 YAMATO RD STE 100  
-BOCA RATON, FL 33431-4478  
-===============================  
-Telephone: 1-561-989-7400  
-Facsimile: 1-561-989-7401  
-===============================  
-Email: [contact@crawler.com](mailto:contact@crawler.com)
 
-THESE SERVICES ARE INTENDED FOR ADULTS ONLY. CRAWLER INTENDS ITS SERVICES TO BE USED ONLY BY ADULTS. CRAWLER EXPRESSLY HAS NO INTEREST IN MARKETING THE SERVICES TO ANYONE UNDER THE AGE OF 13.
 
-**Information Collection**
+## Information Collection
 
-If you download Spyware Terminator, the program will scan your computer for known threats to your computer, as well as unknown applications and executable files on the computer, and the relevant registry details associated with these applications and executable files. You may elect to have Spyware Terminator compiles this information into a Scan Report and send it to our database. This is the only information collected from your computer at any time. NO PERSONAL INFORMATION is collected unless you fill out your email address in the settings tab and choose to send information to our Spyware Terminator team about threats. In that case, we collect your email address and name so we may answer any questions that you have submitted.
+Visiting and using Crawler Services may result in Crawler receiving performance and usage information (such as search term, time of day, browser type, default language setting, IP address, an anonymous identifier). This information will not be used to personally identify you.
 
-**Sharing Information**
+## Personally Identifiable Information
 
-Spyware Terminator does not attempt to determine the identity of its users or correlate the email address, if you volunteered it, to their Web usage. Except as described below, Spyware Terminator does not intentionally disclose personally identifying information collected by our services to any third party without your consent. We do not rent or sell your personally identifiable information.
+Some of Crawler services require registration in order to create an account. The registration information typically asked for includes your name, email address and account password. This information is necessary to initiate as well as continually use the account. Searches using alternate search engines such as MSN, Google, and Yahoo through the Crawler toolbar are relayed through our servers, however, we don't collect any search specific or user related information.
 
-We disclose any information we possess in response to subpoenas, court orders, or legal requirements, and such information might be used by the receiving party to determine your identity, your Web usage and online shopping behavior, or other things about you.
+## Cookies
 
-We employ other companies and individuals to perform functions on our behalf, such as technical support services. To perform those functions, it may be necessary for them to obtain access to Spyware Terminator's databases and servers, which may contain any personally identifying information you voluntarily supplied through the Scan Report. These parties are obliged to use the information according to our instructions and they are bound to this Privacy Policy and must apply appropriate confidentiality and security measures.
+Cookies are small files that contain information that a website uses to store user preferences and settings. You can reset your browser to control cookies; however, some Crawler services may not function properly if cookies are refused. Searches using alternate search engines such as MSN, Google, and Yahoo through the Crawler toolbar are relayed through our servers, however, we don't collect any search specific or user related information.
 
-By using Spyware Terminator services, you are consenting to the transfer of your information where it may be stored and processed by Spyware Terminator and its agents in the facilities maintained in the United States and other countries. If Spyware Terminator ever experiences a transfer of ownership, personally identifiable information can be subject to a different privacy policy. If this is the case, there will be notification prior to any personally identifiable information being transferred.
+## Sharing of Information
 
-**Security Measures**
+Crawler does not collect any personally identifiable information unless provided by you, and we will not share, rent or sell any of your personally identifiable information provided by you. We may share aggregated non-personally identifiable information with third parties outside of Crawler. Aggregate non-personally identifiable information is recorded about users and collected into groups so that it no longer reflects or references an individually identifiable user. We may disclose some information in response to subpoenas, court orders, or other legal requirements.
 
-In the event you do choose to send us certain information, we are committed to protecting the security of this information. Access to your information may be necessary and is restricted to those employees who need it in order to provide the service or for service development and improvement purposes.
+## Advanced SiteRank Feature
 
-Spyware Terminator uses commercially reasonable computer security safeguards to protect its databases and servers against risks of loss, unauthorized access, destruction, misuse, modification, or inadvertent or improper disclosure of data. These risks, however, cannot be completely eliminated and therefore Spyware Terminator cannot guarantee complete safety.
+View [privacy policy](http://www.spywareterminator.com/legal/advanced_privacy.aspx) on the SiteRank feature.
 
-**Policy Changes**
+## Policy Changes
 
-Spyware Terminator may change this Privacy Policy at any time at its sole discretion. Notice of material changes to this Policy will be posted on Spyware Terminator's Website or on the service before they become effective. You are responsible for reviewing the notice and any applicable changes.
+Crawler may change this Privacy Policy at any time at its sole discretion. Notice of material changes to this Policy will be posted on Crawler's Website. We will not reduce your rights under our Privacy Policy without your explicit consent, and we expect most future changes to be minor.
+
+## Contact Information
+
+CRAWLER, LLC, 999 YAMATO RD STE 100, Boca Raton, Florida 33431 Telephone: 1-561-989-7400,  
+Fax: 1-561-989-7401,  
+E-mail: [contact@crawler.com](mailto:contact@crawler.com)
+
+© 2003-2006 Crawler, LLC.
+
+All trademarks are the property of their respective owners. All Rights Reserved.
