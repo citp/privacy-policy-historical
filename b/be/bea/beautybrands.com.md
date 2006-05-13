@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beautybrands.com privacy policy that was archived on 2005-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050921041101id_/http%3A//www.beautybrands.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautybrands.com privacy policy that was archived on 2006-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060513214251id_/http%3A//www.beautybrands.com/privacy.asp) for the most accurate reproduction.*
 
 # beauty brands
 
