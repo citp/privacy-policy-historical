@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nlclassifieds.com privacy policy that was archived on 2005-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051226003748id_/http%3A//www.nlclassifieds.com/privacypolicy.htm%3Bjsessionid%3DABCB2C120343953693B2C9C4F81B349A) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nlclassifieds.com privacy policy that was archived on 2006-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060513174851id_/http%3A//nlclassifieds.com/privacypolicy.htm%3Bjsessionid%3DA1E6B58AB5C1E1A321CA21626DAA269A) for the most accurate reproduction.*
 
 # Newfoundland & Labrador Classifieds, Privacy Policy for {$site_name}
 
