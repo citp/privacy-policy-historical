@@ -1,84 +1,142 @@
-> *The following text is extracted and transformed from the symantecstore.com privacy policy that was archived on 1999-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991013114512id_/http%3A//www.symantecstore.com/Pages/Support/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the symantecstore.com privacy policy that was archived on 2006-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060513114826id_/http%3A//www.symantecstore.com/dr/v2/ec_main.entry25%3Fpage%3DGlobal-PrivacyPolicy%26client%3DSymantec%26sid%3D49997) for the most accurate reproduction.*
 
-# Privacy Policy
+# SymantecStore.com
 
-  
-Symantec Corporation ("Symantec") takes safeguarding online privacy seriously. Please read the following to understand Symantec's privacy practices. This policy applies to information gathered through Symantec's web sites. Users should be aware that Symantec's web site might link them to the web sites of third parties. This privacy policy only applies to activities within Symantec's web site and does not apply to activities on the web sites of third parties. 
-
-Symantec reserves the right to change its privacy policy, and will use commercially reasonable efforts to publish those changes so that users will always be aware of what information Symantec gathers and how it uses that information. 
-
-**What information does Symantec gather about its users?**
-
-_Does Symantec ask for personal information?_
-
-Symantec requests information regarding users' names, emails, credit card numbers, resident countries, job titles, company names, telephone numbers, software and hardware product purchases, along with other personal information, when users purchase products, enter contests or other promotions, or sign up for services. Information essential in order for Symantec to provide the services or products requested is generally designated as "Required" and information that allows Symantec flexibility in providing services or products, or which is used for internal statistical studies or market research, is indicated as "Optional". For example, a credit card number is required when ordering a product, whereas a fax number may not be essential, but would provide another means of communication. 
-
-The choice of how much personal information is disclosed to Symantec is left to the users' discretion. It is never mandatory for users to answer any question, although it may limit the services and products Symantec offers. 
-
-_Does Symantec use cookies?_
-
-"Cookies" give users a unique, random ID by storing small text files onto a user's computer hard drive with the user's browser. Cookies enable a web site to track a user's activities on a web site. 
-
-Symantec's web site currently uses cookies in two areas. Symantec uses cookies on its home page to save users time so they do not have to choose a country site each time they visit Symantec's web site. Symantec uses cookies on its trialware download page to speed up users' activities in not having to register more than once. Symantec may choose to use cookies in other areas on its web site in the future. 
-
-Symantec's cookies do not contain personally identifying information. Users are free to change their web browsers to prevent the acceptance of cookies. General instructions on how to change cookie preferences are found at <http://www.symantec.com/avcenter/security/cookies/cookies.html>. 
-
-_Does Symantec track IP addresses, platform types, domain names, and browser information?_
-
-An IP address is a number that is automatically assigned to, and identifies, a user's computer, Internet service provider, and geographic location, whenever a user surfs the web. Platform types are operating systems, such as Macintosh, DOS, or Microsoft ® Windows 3.1/95/98. Domain names are computer Internet addresses (e.g. if a user is logged on from yale.edu or symantec.com). Browsers are computer programs that provide access to sites on the web, such as Netscape Navigator or Microsoft ® Internet Explorer. 
-
-Symantec's web servers automatically track IP addresses, platform types, domain names, and browser information for system administration. None of this data is personally identifiable. Symantec analyzes this data in the aggregate to determine how many visitors it has, and which web pages are of interest. Symantec uses this data to improve its web site, products, and services such that they remain appealing. 
-
-**How does Symantec use personal information?**   
-When users submit personal information to Symantec, they should understand that they are agreeing to allow Symantec, its subsidiaries, and its affiliates access to, storage of, and use of, the data in any of the countries where Symantec, its subsidiaries, and its affiliates, do business, whether inside or outside the United States. 
-
-Symantec reserves the right to use personal information collected in any manner related to Symantec's business, including, but not limited to, generating statistical studies, conducting market research, improving its products and services, sending users surveys, and notifying users of product upgrades and updates, new products, changes on its web site, special offers, seminars and conventions, and other changes within Symantec. 
-
-**What choices do you have about how this information is used?**
-
-_Options for Direct Mail:_
-
-We respect your privacy and realize that not everyone likes to receive special offers or information. If you would like to request that your name be removed from our mailing lists, you may send this request by email, telephone, fax, or send a letter by postal mail, including your current name, address, telephone number and/or information contained in your Symantec mailer. Symantec will use commercially reasonable efforts to honor your request. However, you may continue to receive materials from Symantec as a result of unintentional human errors. If you continue to receive materials from Symantec, please notify Symantec again through the methods described above. 
-
-_Options for Email:_
-
-If you decide to unsubscribe or deactivate your name from Symantec's email bulletins, you may email, telephone, fax or send a letter by postal mail with the information listed above or follow the instructions contained in Symantec's email bulletins located at <http://www.symantec.com/help/subscribe.html>. Symantec will use commercially reasonable efforts to honor your request. However, you may continue to receive materials from Symantec as a result of unintentional human errors. If you continue to receive materials from Symantec, please notify Symantec again through the methods described above. 
-
-**Does Symantec share the information that it gathers with third parties?**   
-Symantec shares data with third parties as a value-added service that assists users in finding products or services, which they may not normally come across in daily life. When Symantec shares information with third parties, it generally only shares names and postal addresses. In certain instances, Symantec may share users' email addresses and telephone numbers. Symantec carefully reviews the materials of third parties and only selects those which it believes would interest its users. However, Symantec does not assume responsibility for any actions of third parties. 
-
-If users decide they do not want their information shared with third parties, they should contact Symantec in accordance to the contact information indicated above. Symantec will use commercially reasonable efforts to honor users' requests. However, users may continue to receive materials from third parties as a result of unintentional human errors. If users continue to receive materials from third parties, they should notify Symantec again through the methods described above. 
-
-Symantec is not responsible for the removal of personal information from third party lists if a third party has such data because of previous authorizations. 
-
-**Do third parties share information with Symantec?**   
-From time to time, Symantec may receive data from third parties for purposes of allowing Symantec the opportunity to contact users who are unfamiliar with its products and services. 
-
-**Does Symantec share the information that it gathers with government agencies or law enforcement?**   
-Symantec reserves the right to monitor and disclose to government officials or law enforcement, without a user's consent, any communications and personally identifiable information, whenever prompted to do so, by legal authorities, even when users have requested that their information not be disclosed to third parties. 
-
-**What is Symantec's commitment to data security?**   
-To protect against unauthorized access to data when users order products and services, or otherwise communicate with Symantec, Symantec uses firewalls (defined as computerized barriers) and Secure Sockets Layer (SSL) encryption, which scrambles data before it travels across the Internet. Symantec takes commercially reasonable steps to establish secure connections with users and to limit to authorized personnel, access to its databases which contain users' personal information. However, Symantec cannot guarantee that its security measures will prevent all unauthorized access to users' data. 
-
-Users' sensitive data is not distributed outside of Symantec, except when requested by legal authorities as discussed above, or when users provide Symantec with express written consent by email, fax or postal mail. Symantec defines "sensitive data" as data that pertains to a user's financial or credit information, such as credit card numbers. 
-
-**Are there online risks?**   
-Users should be aware of risks when they communicate on public newsgroups and message boards. On these forums, personal information may be collected by others outside of Symantec and used to send unsolicited emails or postal mailings. Symantec has no control over these actions and makes no representations, warranties or commitments concerning its ability to keep the information posted on these forums private. 
-
-**What are Symantec's complaint procedures?**   
-If users believe Symantec has not adhered to its privacy statement, they may notify Symantec by email, telephone, fax or postal mail. Symantec will use commercially reasonable efforts to promptly resolve any complaints. 
-
-|  **How do users contact Symantec?**  
+|   
 ---  
-Email Address:  |  [Privacy@Symantec.com](mailto:Privacy@Symantec.com)  
-Postal mail:  |  Symantec Corporation   
-Attn: Symantec Privacy   
-175 West Broadway   
-Eugene, Oregon 97401   
-Telephone:  |  800-441-7234   
-Fax:  |  (541) 984-8020   
-Attn: Symantec Privacy   
   
+Symantec is a licensee of the TRUSTe Privacy Program. The following statement discloses Symantec’s consumer privacy practices for the Symantec Web Site. We do update our policy from time to time without notice so please check back periodically. All updates will be published at this site.
+
+TRUSTe is an independent, non-profit initiative whose mission is to build users’ trust and confidence in the Internet by promoting the principles of disclosure and informed consent. Because this site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.  
+  
+| By displaying the TRUSTe "trustmark," we let you know that this Web site intends to tell you:  
+---  
+  
+  * What personal information is gathered, stored, tracked or used 
+  * With whom the information may be shared 
+  * How you can correct inaccuracies in the information 
+
+|   
+  
+The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
+
+You may contact Symantec directly using any of the communication means outlined at the end of this statement. If for any reason you are not satisfied with the response from Symantec to your inquiries regarding your right to privacy, you can contact TRUSTe at [http://www.truste.org/users/users_watchdog.html.](http://www.truste.org/users/users_watchdog.html)  
+  
+As a world leader in Internet security technology, Symantec understands your desire to protect personal information. We intend to inform you how your personal information will be gathered, tracked or used, and to give you choices. If choices are not offered on web pages where your personal information is obtained, please select one of the communication channels at the bottom of this statement to indicate your communication preferences.  
+  
+what information we gather and track  
+  
+We request personal information when you place an order, register a product, request a service, answer a survey, enter a contest, correspond with us or engage in certain other activities on our website. For example: 
+
+  1. If you submit an order on-line with us, we will ask you for information necessary to complete the transaction - such as your name, address, and credit card number. 
+  2. If you request technical support online, we will ask you for information necessary to complete the transaction — such as your name address and information about your computer hardware, software and the nature of the problem you are experiencing.
+
+  
+  
+You make the decision whether to proceed with any activity that requests personal information. If you do not wish to provide the requested information, however, you may not be able to complete the transaction.  
+  
+how we use the information we gather and track  
+  
+We use personally identifiable information in the following ways:
+
+  1. To provide you with information about virus alerts, product upgrades, new products, services, newsletters, informative emails, and research on future product ideas or improvements; 
+  2. To assist us in creating content that is relevant to you; 
+  3. To provide you with special offers that may be of interest to you; 
+  4. To assist us in creating better products and services to meet your needs; 
+  5. To allow you to purchase and download products, obtain access to services or otherwise engage in activities you select; 
+  6. To help you quickly find software, services or product information important to you.  
 
 
-[Top of Page]
+  
+  
+with whom we may share your information  
+  
+From time to time, we may provide your information to selected business partners to communicate to you information about products or services that they believe are important to you or your business. If you prefer that we not provide your information to our business partners, you may let us know using one of the methods described in this policy.
+
+In addition, Symantec retains the services of outside contractors to provide services for us. They may be used to ship products, provide technical support, or handle order processing. We require that these contractors keep the personal information of customers secure and confidential. We also require that these contractors use personal information only on behalf of Symantec.
+
+Please be advised that in certain instances, it may be necessary for Symantec to disclose your personal information to government officials or otherwise as required by our legal obligations.  
+  
+choice/opt-out  
+  
+Symantec provides a number of ways for you to ‘opt-out’ of receiving additional information from us or having us provide your personal information to our partners. We may offer you these choices at the time you give us your information.
+
+If you are on a Symantec web page that requires personal information but does not offer communication choices, or would like to change your preferences for information that you have previously provided, please complete the customer profile form at [https://www-secure.symantec.com/custserv/cgi-bin/cs_privacy_dyn.cgi](https://www-secure.symantec.com/custserv/cgi-bin/cs_privacy_dyn.cgi) or use one of the other communication channels at the bottom of this statement.
+
+If you are registering a version of a product that does not provide you the capability to indicate your communication preferences, please complete the customer profile form at [https://www-secure.symantec.com/custserv/cs_register.html](https://www-secure.symantec.com/custserv/cs_register.html) or use one of the other communication channels at the bottom of this statement.
+
+If you do not wish to continue receiving our e-mail newsletters or bulletins you can opt-out of receiving these communications by replying to the unsubscribe in the subject line in the email.  
+  
+  
+  
+  
+We have taken security measures, consistent with international information practices, to protect your personal information. These measures include technical and procedural steps to protect your data from misuse, unauthorized access or disclosure, loss, alteration, or destruction. Credit card information is transmitted using secure socket layer (SSL) encryption.
+
+Since Symantec is a global company, we provide company information to our worldwide offices. The personal information that you have provided to us may be transferred to other Symantec offices around the world. For example, when European customers register Symantec products their personal information may be transferred to servers in the United States then transferred to servers in one or more of Symantec's European offices. Also, in certain countries our outside contractors might undertake the collection, transferring, storage and processing of your information.
+
+We make a sincere effort to respond to your requests to update or correct your personal information. If you believe that Symantec does not have your current personal information, you can update it at [https://www-secure.symantec.com/custserv/cgi-bin/cs_privacy_dyn.cgi](https://www-secure.symantec.com/custserv/cgi-bin/cs_privacy_dyn.cgi), or use one of the other communication channels at the bottom of this statement.  
+  
+  
+  
+  
+Symantec may use cookies from time to time. A cookie is a unique text file that a Web site can send to your browser software. Cookies enable a Web site to tailor information presented to you based on your browsing preferences. Symantec may use cookies to personalize your pages at our Service & Support Web site, or to remember you when you register for products or services. If you do not want Symantec to deploy cookies in your browser, you can set your browser to reject cookies or to notify you when a Web site tries to put a cookie in your browser software. Rejecting cookies may affect your ability to use of some of the products and/or services at our web site.
+
+Symantec may also use cookies to track your visit to our Web site. While our Web servers may automatically log your IP address, this information does not identify you and you remain anonymous.  
+  
+  
+  
+  
+We may track domain names, IP addresses, and browser types from people who visit our site. We use this information to track aggregate traffic patterns throughout Symantec’s Web site. Such information is not correlated with any personal information.  
+  
+  
+  
+  
+At the Symantec Web site, there are a number of links to companies with whom we have a relationship. Symantec is not responsible for the privacy practices of our business partners. We encourage you to read their privacy statements, as they may differ from ours.
+
+We also link to co-branded web sites that are maintained by Symantec and one or more of our business partners. An example of a co-branded site is ShopSymantec. When you submit information to one of our co-branded sites you may be submitting it to both Symantec and our business partners and the privacy policies of these co-branded sites may differ from this privacy policy. We encourage you to read the privacy policies on any co-branded site to which you link for information on the privacy practices of that site.  
+  
+  
+  
+  
+Please remember that information you submit in a discussion group or forum, like "Ask Symantec", will be deemed public information and is not confidential. There is a risk in such communication venues that information can be collected and used by others. Please be careful and responsible when you are online.  
+  
+  
+  
+  
+In the event there is a major change to Symantec's privacy practices, a prominent notice will be posted on our web site. If the change involves the use of your personally identifiable information, the notice will contain instructions on how you can opt-out of such use.  
+  
+  
+  
+  
+If you have any questions, comments, or would like to change your communication preferences, please contact us using one of the options below:
+
+Customer Profile Form [https://www-secure.symantec.com/custserv/cgi-bin/cs_privacy_dyn.cgi](https://www-secure.symantec.com/custserv/cgi-bin/cs_privacy_dyn.cgi)
+
+Postal Mail  
+Symantec Corporation  
+555 International Way  
+Springfield, OR. 97477  
+Main Phone 541-335-5000   
+  
+|   
+---  
+|  |   
+|  | Privacy Practices  
+|  |   
+|  | Personal Information  
+|  |   
+|  | Security and Quality of personal Information  
+|  |   
+|  | Cookies  
+|  |   
+|  | Web Site Traffic  
+|  |   
+|  | Links to Business Partner and Co-Branded Sites  
+|  |   
+|  | Other Privacy Considerations  
+|  |   
+|  | Policy Changes  
+|  |   
+|  | Symantec Contact Information  
+  
+[](http://www.truste.org/ivalidate.php?url=www.symantec.com)
