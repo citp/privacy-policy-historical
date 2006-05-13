@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelation.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210183445id_/http%3A//www.travelation.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelation.com privacy policy that was archived on 2006-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060513205012id_/http%3A//www.travelation.com/privacy.html) for the most accurate reproduction.*
 
 # Discount Airfare and Cheap Tickets | Travelation
 
