@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shiur.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213213231id_/http%3A//www.shiur.com/legal.php%3Fmode%3Dps) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shiur.com privacy policy that was archived on 2006-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060514172550id_/http%3A//shiur.com/legal.php%3Fmode%3Dps) for the most accurate reproduction.*
 
-# Shiur.com - Your Online Yeshiva! - Torah | Shiur | Torah Portion | Judaica | Audio Shiur | Ask A Rabbi | Jewish History | Jewish Tradition
+# Shiur.com | Torah | Shiurim | Lectures | Dvar Torah | Jewish History | Weekly Torah Portion | Jewish Holidays and Tradition
 
 **
 
