@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the3dstudio.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225125951id_/http%3A//www.the3dstudio.com/legal_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the3dstudio.com privacy policy that was archived on 2006-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060514045111id_/http%3A//www.the3dstudio.com/legal_privacy.aspx) for the most accurate reproduction.*
 
 # The3dStudio.com - The 3D Resource Site
 
