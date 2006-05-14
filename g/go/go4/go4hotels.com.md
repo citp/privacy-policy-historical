@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the go4hotels.com privacy policy that was archived on 2005-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050901013221id_/http%3A//www.go4hotels.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go4hotels.com privacy policy that was archived on 2006-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060514183637id_/http%3A//www.go4hotels.com/privacy.htm) for the most accurate reproduction.*
 
 # go4Hotels - Online Travel and Hotels - Terms & Conditions
 
