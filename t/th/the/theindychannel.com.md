@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theindychannel.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220131200id_/http%3A//www.theindychannel.com/news/1014422/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theindychannel.com privacy policy that was archived on 2006-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060514124326id_/http%3A//www.theindychannel.com/news/1014422/detail.html) for the most accurate reproduction.*
 
 # TheIndyChannel.com - News
 
