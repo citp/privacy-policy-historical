@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nlng.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222100529id_/http%3A//www.nlng.com/NLNGnew/termsandconditions/Privacy%2BPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nlng.com privacy policy that was archived on 2006-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060515011244id_/http%3A//www.nlng.com/NLNGnew/termsandconditions/Privacy%2BPolicy.htm) for the most accurate reproduction.*
 
 # Nigerian LNG - Privacy Policy
 
