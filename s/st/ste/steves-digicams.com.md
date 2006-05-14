@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steves-digicams.com privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227034446id_/http%3A//www.steves-digicams.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steves-digicams.com privacy policy that was archived on 2006-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060514062844id_/http%3A//www.steves-digicams.com/privacy.html) for the most accurate reproduction.*
 
 # Steve's Digicams - Privacy Notice
 
@@ -54,7 +54,7 @@ This site may contain links or references to other Web sites. Please be aware th
 
 **Other Terms**
 
-Your use of this site is subject to our [Legal Notice](https://web.archive.org/web/20051227034446id_/http%3A//www.steves-digicams.com/legal.html)
+Your use of this site is subject to our [Legal Notice](https://web.archive.org/web/20060514062844id_/http%3A//www.steves-digicams.com/legal.html)
 
 **How to Contact Us**
 
@@ -66,4 +66,14 @@ Clearwater, FL 33761
 
 **Changes to This Privacy Policy**
 
-If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on April 4, 2004. 
+If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on April 4, 2004.   
+  
+  
+Note: All photographs and page content  
+Copyright © 1998-2006 Steve's Digicam Online, Inc.
+
+Nothing on this page may be used, distributed or  
+copied without the author's prior permission. 
+
+  
+
