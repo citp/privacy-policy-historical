@@ -1,21 +1,24 @@
-> *The following text is extracted and transformed from the ewu.edu privacy policy that was archived on 2005-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050728150242id_/http%3A//www.ewu.edu/x13715.xml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ewu.edu privacy policy that was archived on 2006-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060514220816id_/http%3A//www.ewu.edu/x13715.xml) for the most accurate reproduction.*
 
 # EWU | EWU Privacy Policy
 
-[Home](https://web.archive.org/web/20050728150242id_/http%3A//www.ewu.edu/x336.xml)
+[Home](https://web.archive.org/web/20060507205136id_/http://www.ewu.edu/x336.xml)
 
-EWU Privacy Policy  
- Thank you for visiting the Eastern Washington University website and reviewing our Privacy Notice. This statement addresses collection, use, and security of and access to information that may be obtained through use of Eastern Washington University's website. This notice covers the following topics:
+EWU Privacy Policy
+
+ 
+
+Thank you for visiting the Eastern Washington University website and reviewing our Privacy Notice. This statement addresses collection, use, and security of and access to information that may be obtained through use of Eastern Washington University's website. This notice covers the following topics:
 
 > • Information Collected and How it is Used  
->  • Personal Information and Choice  
->  • Public Access to Information  
->  • Nondisclosure of Certain Personal/Private Information  
->  • Review and Correction of Personally Identifiable Information  
->  • Cookies  
->  • Security  
->  • Disclaimer  
->  • Contact Information
+> • Personal Information and Choice  
+> • Public Access to Information  
+> • Nondisclosure of Certain Personal/Private Information  
+> • Review and Correction of Personally Identifiable Information  
+> • Cookies  
+> • Security  
+> • Disclaimer  
+> • Contact Information
 
 * * *
 
@@ -126,18 +129,15 @@ You may contact Eastern Washington University as follows:
 To review your personal information, or request correction of your personal information:
 
 > Admissions  
->  Eastern Washington University  
->  526 5th Street, Cheney WA 99004  
->  [admissions@mail.ewu.edu](mailto:admissions@mail.ewu.edu)
+> Eastern Washington University  
+> 526 5th Street, Cheney WA 99004  
+> [admissions@mail.ewu.edu](mailto:admissions@mail.ewu.edu)
 
 To offer comments about Eastern Washington University's website, or about the information presented in this Privacy Notice:
 
-> Webmaster  
->  Eastern Washington University  
->  Monroe 307, Cheney WA 99004  
->  (509)359-7087  
->  (509)359-6796  
->  [webadmin@mail.ewu.edu](mailto:webadmin@mail.ewu.edu)
-
-  
-
+> Web Manager  
+> Eastern Washington University  
+> Monroe 307, Cheney WA 99004  
+> Phone  (509)359-6880  
+> Fax     (509)359-7087  
+> [webadmin@mail.ewu.edu](mailto:webadmin@mail.ewu.edu)
