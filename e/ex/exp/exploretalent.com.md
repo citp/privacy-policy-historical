@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the exploretalent.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216221939id_/http%3A//exploretalent.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exploretalent.com privacy policy that was archived on 2006-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060515012042id_/http%3A//exploretalent.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Explore Talent Privacy Policy Page - World's Biggest Talent Website
+# Privacy Policy Modeling Auditions & Casting ExploreTalent agents pageants search
 
 Explore Talent Privacy Policy
 
@@ -32,7 +32,7 @@ On the Site, we place links to other Websites operated by other parties. Some of
   
 How We Use Personal Information
 
-We use your email address and your other personal information to help us efficiently operate the Site, to contact you in connection with your transactions and other activities on the Site (including, but not limited to, confirmation emails or important news that could affect your relationship with ExplorTalent.com), and to forward messages to you from other ExploreTalent.com users. These types of communications, are known as "Operational Communications." In some cases, Operational Communications may also contain commercial messages, such as banner ads and special offers. 
+We use your email address and your other personal information to help us efficiently operate the Site, to contact you in connection with your transactions and other activities on the Site (including, but not limited to, confirmation emails or important news that could affect your relationship with ExploreTalent.com), and to forward messages to you from other ExploreTalent.com users. These types of communications, are known as "Operational Communications." In some cases, Operational Communications may also contain commercial messages, such as banner ads and special offers. 
 
 We also use personal information to send you newsletters, information, offers and other promotional materials for ExploreTalent.com's or third parties' goods or services. We attempt to send you offers that are of value to you, such as discounts, exclusive offers or special event information. The Site provides you with options to decline to receive communications from ExploreTalent.com (other than those contained in Operational Communications). Some of these options may only be for a certain category of communications; others may be more general. By posting a profile on the Site, you are opting in to receive the ExploreTalent.com by Mail email. To stop receiving ExploreTalent.com by Mail and stop all automatic notifications login to your Explore Talent Account go "My Account" > "My Contact Info", check the checkbox "Yes, I do not want to recieve any automatic notifications" and click "Update" 
 
