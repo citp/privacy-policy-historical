@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the incentivelogic.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231172513id_/http%3A//www.incentivelogic.com/about/privacy_policy.m) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incentivelogic.com privacy policy that was archived on 2006-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060514051835id_/http%3A//www.incentivelogic.com/about/privacy_policy.m) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -37,7 +37,7 @@ If Clients need to update or change registration and/or permission information p
 #### Additional Information
 
 Questions regarding this Statement or the practices of this Site should be directed to Incentive Logic's Security Administrator by emailing such questions to support@incentivelogic.com  
-Copyright � 2000-2005 Incentive Logic, Inc.
+Copyright © 2000-2006 Incentive Logic, Inc.
 
 ## Participant RewardSite(s) and Folio Redemption Experience Policy
 
