@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yessy.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008093838id_/http%3A//www.yessy.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yessy.com privacy policy that was archived on 2006-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060514030332id_/http%3A//yessy.com/privacy.html%3Fs%3Dzlfmrh450ewmcg45skcaknb5) for the most accurate reproduction.*
 
 # Yessy > Privacy Policy
 
@@ -18,7 +18,7 @@ Yessy automatically receives and records information on the Yessy server logs fr
 
 3\. INFORMATION SHARING AND DISCLOSURE
 
-Yessy does not rent, sell, or share personal information about you with other people or companies. Yessy may divulge aggregate information about users but will not share personally identifiable information with any third party without your express consent. For example, Yessy may disclose how frequently the average Yessy user visits Yessy, or which sort of art is most popular. Please be aware, however, that Yessy will release specific personal information about you if required to do so in order to comply with any valid legal process such as a search warrant, subpoena, statute, or court order, or if Yessy believes it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the [Terms of Service](https://web.archive.org/terms.aspx), or as otherwise required by law. 
+Yessy does not rent, sell, or share personal information about you with other people or companies. Yessy may divulge aggregate information about users but will not share personally identifiable information with any third party without your express consent. For example, Yessy may disclose how frequently the average Yessy user visits Yessy, or which sort of art is most popular. Please be aware, however, that Yessy will release specific personal information about you if required to do so in order to comply with any valid legal process such as a search warrant, subpoena, statute, or court order, or if Yessy believes it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the [Terms of Service](https://web.archive.org/terms.html?s=zlfmrh450ewmcg45skcaknb5), or as otherwise required by law. 
 
 4\. CONFIDENTIALITY AND SECURITY
 
@@ -32,7 +32,7 @@ Yessy reserves the right to send you certain communications relating to Yessy, s
 
 6\. CHANGES TO THIS PRIVACY POLICY
 
-By using Yessy, you consent to the collection and use of your information as outlined in this policy and to the [Terms of Service](https://web.archive.org/terms.aspx). Yessy may update this Privacy Policy from time to time. The most current version of the Privacy Policy can always be found at: [http://www.yessy.com/privacy.aspx](https://web.archive.org/privacy.aspx).
+By using Yessy, you consent to the collection and use of your information as outlined in this policy and to the [Terms of Service](https://web.archive.org/terms.html?s=zlfmrh450ewmcg45skcaknb5). Yessy may update this Privacy Policy from time to time. The most current version of the Privacy Policy can always be found at: [http://www.yessy.com/privacy.html](https://web.archive.org/privacy.html?s=zlfmrh450ewmcg45skcaknb5).
 
 7\. QUESTIONS AND SUGGESTIONS
 
@@ -41,5 +41,5 @@ Email: [support@yessy.com](mailto:support@yessy.com)
 Mail:  
   Yessy, Inc.  
   Re: Privacy Policy  
-  1630-A 30th Street, #362  
-  Boulder, CO 80301 
+  1630 A 30th Street, #362  
+  Boulder, CO 80301
