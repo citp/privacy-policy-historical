@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qvalent.com privacy policy that was archived on 2005-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050407140649id_/http%3A//www.qvalent.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qvalent.com privacy policy that was archived on 2006-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060514180000id_/http%3A//www.qvalent.com/privacy.jsp) for the most accurate reproduction.*
 
 # Qvalent: Procurement, Presement and Payment
 
