@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esr.cri.nz privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222003326id_/http%3A//www.esr.cri.nz/aboutus/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esr.cri.nz privacy policy that was archived on 2006-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060515224718id_/http%3A//www.esr.cri.nz/aboutus/privacy.htm) for the most accurate reproduction.*
 
 # ESR - Specialist Science Solutions : Privacy policy
 
