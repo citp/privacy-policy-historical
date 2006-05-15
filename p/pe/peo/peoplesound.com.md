@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peoplesound.com privacy policy that was archived on 2005-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051012175750id_/http%3A//www.peoplesound.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peoplesound.com privacy policy that was archived on 2006-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060515095742id_/http%3A//peoplesound.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Peoplesound
 
