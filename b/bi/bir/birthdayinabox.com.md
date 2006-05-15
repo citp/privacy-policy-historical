@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the birthdayinabox.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219204428id_/http%3A//www.birthdayinabox.com/lobby.asp-page-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birthdayinabox.com privacy policy that was archived on 2006-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060515090507id_/http%3A//www.birthdayinabox.com/lobby.asp%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Birthday in a Box - Birthday Party Supplies & Theme Party Favors
 
