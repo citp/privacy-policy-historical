@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readersdigest.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220004354id_/http%3A//www.rd.com/content/openContent.do%3FcontentId%3D10660%26wtGroup%3DRDCOM_FOOTER%26wtID%3DPRIVACY_SITE%26lid%3D177) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readersdigest.com privacy policy that was archived on 2006-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060516205828id_/http%3A//www.rd.com/content/openContent.do%3FcontentId%3D10660%26wtGroup%3DRDCOM_FOOTER%26wtID%3DPRIVACY_SITE%26lid%3D177) for the most accurate reproduction.*
 
 # Privacy Policy
 
