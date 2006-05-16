@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the navigation.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305050923id_/http%3A//www.navteq.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the navigation.com privacy policy that was archived on 2006-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060516101628id_/http%3A//www.navteq.com/privacy.html) for the most accurate reproduction.*
 
 # NAVTEQ
 
