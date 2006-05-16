@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betonmarkets.com privacy policy that was archived on 2005-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051024035316id_/http%3A//mercury2.tradeodds.com//e/c_template/o_cgi/q_w/l_CR/a_l/l_GB/a_filecode/l_privacy_.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betonmarkets.com privacy policy that was archived on 2006-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060516200200id_/http%3A//venus2.betonmarkets.com//e/c_template/o_cgi/q_w/l_CR/a_l/l_GB/a_filecode/l_privacy_.htm) for the most accurate reproduction.*
 
 # BetOnMarkets.com - The World of Financial Trading
 
@@ -10,7 +10,7 @@ The Data Protection laws and regulations place obligations on users of personal 
 
 Your personal information is used primarily as a way of authenticating you as the proper owner of your account and as the person to whom withdrawal payments may be made. We collect personal data relating to you directly from you when you fill in the account opening form. In the event of any doubt as to the authenticity of your account details or of any withdrawal request, the company reserves the right to request further authentication information as may be deemed appropriate under the circumstances. 
 
-The above personal data that we collect will be held by us and processed for any purpose as may be allowed by law or required by any law. We may also transfer such personal data to any company within the Regent Markets Group of companies. 
+The above personal data that we collect will be held by us and processed for any purpose as may be allowed by law or required by any law. We may also transfer such personal data to any company within the Regent Markets Group of companies or any of our business associates. 
 
 Please note that our website generates log files that record the IP addresses of accesses to your account. This information is gathered with the sole purpose of assisting in the unlikely event of a need to investigate accesses to your account by unauthorized users. Additionally we may verify certain of the information you supply in the account opening form, or otherwise, with third-party information providers. 
 
