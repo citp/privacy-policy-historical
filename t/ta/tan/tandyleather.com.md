@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tandyleather.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221094855id_/http%3A//www.tandyleather.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tandyleather.com privacy policy that was archived on 2006-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060516201341id_/http%3A//tandyleather.com/privacy.html) for the most accurate reproduction.*
 
 # TandyLeather.com - Privacy Policy
 
