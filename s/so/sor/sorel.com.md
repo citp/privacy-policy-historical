@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sorel.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214133922id_/http%3A//www.sorel.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sorel.com privacy policy that was archived on 2006-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060516203526id_/http%3A//sorel.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Sorel :: Privacy Policy
 
