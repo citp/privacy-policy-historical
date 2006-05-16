@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the my-articles.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230164207id_/http%3A//my-articles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my-articles.com privacy policy that was archived on 2006-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060516133930id_/http%3A//my-articles.com/privacy.php) for the most accurate reproduction.*
 
 # My Articles Directory | Content Provider | Free Reprint Articles
 
