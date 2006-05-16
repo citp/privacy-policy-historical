@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mercatornet.com privacy policy that was archived on 2005-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051105060538id_/http%3A//www.mercatornet.com/component/content/view/66/38) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercatornet.com privacy policy that was archived on 2006-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060516230134id_/http%3A//www.mercatornet.com/component/content/view/66/38) for the most accurate reproduction.*
 
 # 
 
