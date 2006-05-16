@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classicalarchives.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213194608id_/http%3A//www.classicalarchives.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classicalarchives.com privacy policy that was archived on 2006-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060516064912id_/http%3A//www.classicalarchives.com/privacy.html) for the most accurate reproduction.*
 
 # CLASSICAL MUSIC ARCHIVES Privacy Policy
 
