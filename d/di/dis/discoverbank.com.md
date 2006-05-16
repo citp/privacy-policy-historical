@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discoverbank.com privacy policy that was archived on 2005-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051124085049id_/http%3A//www.discoverbank.com/index.asp%3FpID%3Dmisc%26sID%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoverbank.com privacy policy that was archived on 2006-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060516132104id_/http%3A//discoverbank.com/index.asp%3FpID%3Dmisc%26sID%3Dprivacy) for the most accurate reproduction.*
 
 # Discover Bank
 
@@ -80,7 +80,7 @@ To access the Banking Center, you need to create a user ID and password. To help
 
 
 
-Find out more about your Banking Center User ID and Password in our [Frequently Asked Questions](https://web.archive.org/web/20051124085049id_/http%3A//www.discoverbank.com/index.asp?pID=misc&sID=faq). 
+Find out more about your Banking Center User ID and Password in our [Frequently Asked Questions](https://web.archive.org/web/20060516132104id_/http%3A//discoverbank.com/index.asp?pID=misc&sID=faq). 
 
 **End Your Secure Session Completely**
 
