@@ -1,0 +1,219 @@
+<!--The following is the downloaded HTML source of the saveyourlinks.com privacy policy that was archived on 2006-05-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060516035218id_/http%3A//www.saveyourlinks.com/privacy_policy.asp) for the most accurate reproduction.-->
+
+<html><head>
+   <meta name="Keywords" content="save your links, save this link, save the link, save links, save favorites, save bookmarks, wizdatasys, wizdata systems, bookmark, bookmarks, favorite, favorites, hyperlink, hyperlinks, link, links, mark, marks, site, sites, page,  pages, URL, urls, utility, utilities, tool, tools, aids, privacy, private, public, password, protected, secure, security, reliable, manage, manager, organize, organizer, shareware, free, exchange, exchanges, transfer, transfers, convert, converts, internet explorer, netscape, browse, browser, explore, explorer, surf, surfing, college, colleges, university, universities, student, students, lab, home, research, save, saves, store, stores, remember, remembers, worldwide, world, wide, anywhere, remote, access, portable, web, web-based, online, internet, business, travel">
+   <meta name="Description" content="Save Your Links is an easy to use bookmarking and favorites system that allows you to access your bookmarks from any computer.">
+   <title>Save Your Links - free, easy to use bookmark and favorites manager</title>
+   <meta http-equiv="pragma" content="no-cache">
+   <meta http-equiv="cache-control" content="no-cache">
+   <meta http-equiv="expires" content="Thu, 19 Oct 2000 17:40:00 EST">
+   <link type="text/css" href="./shared/stylesheet.css" rel="stylesheet">
+</head>
+
+<body bgcolor="white" link="blue" alink="red" vlink="blue" marginwidth="0" leftmargin="0" rightmargin="0" topmargin="0">
+<script language="JavaScript">
+function doHelp() {
+   window.open('./help/Help_general.htm',  'helpWindow', 'directories=no,height=600,width=488,innerHeight=600,innerWidth=488,location=no,menubar=no,personalbar=no,resizeable=no,screenX=100,screenY=100,scrollbars=yes,status=no,toolbar=no');
+}
+
+function doRefer() {
+   window.open('./shared/popup.asp',  'referWindow', 'directories=no,height=380,width=300,innerHeight=380,innerWidth=300,location=no,menubar=no,personalbar=no,resizeable=no,screenX=100,screenY=100,scrollbars=no,status=no,toolbar=no');
+}
+
+function loginSubmit(myForm) {
+   if (trim(myForm.formUsername.value).length == 0) {
+      alert("You must supply a username.")
+      myForm.formUsername.focus();
+      myForm.formUsername.select();
+      return false;
+   }
+   return true;
+}
+
+function trim(myString) {
+   if (myString.length == 0) return myString;
+   while (myString.indexOf(" ") == 0) myString = myString.substring(1, myString.length);
+   if (myString.length == 0) return myString;
+   while (myString.lastIndexOf(" ") == (myString.length -1)) myString = myString.substring(0, myString.length -1);
+   return myString;
+}
+
+// Join Section
+joinNowOff = new Image(150,30);
+joinNowOff.src ="./graphics/join.gif";
+joinNowOn = new Image(150,30);
+joinNowOn.src = "./graphics/join_on.gif";
+var joinNowtextOn = "Join now and start reaping the benefits today.";
+
+quickPeekOff = new Image(150,30);
+quickPeekOff.src ="./graphics/try.gif";
+quickPeekOn = new Image(150,30);
+quickPeekOn.src = "./graphics/try_on.gif";
+var quickPeektextOn = "Test drive Save Your Links!";
+function img_act(imgName) {
+   imgOn = eval(imgName + "On.src");
+   var imgText = eval(imgName + "textOn");
+   document [imgName].src = imgOn;
+   window.status=imgText;
+}
+
+function img_inact(imgName) {
+   imgOff = eval(imgName + "Off.src");
+   document [imgName].src = imgOff;
+   window.status = '';
+}
+</script>
+<center>
+<table border="0" width="772" cellpadding="0" cellspacing="0">
+   <tbody><tr>
+      <td width="450" background="./graphics/background_large.jpg">
+<!--  == non-holiday graphic -->
+<!-- holiday graphic: holiday_logo.gif -->
+         <a href="./index.asp"><img src="./graphics/top_left.jpg" width="450" height="158" alt="Save Your Links!" hspace="0" vspace="0" align="LEFT" border="0"></a>
+      </td>
+      <td background="./graphics/background_large.jpg" width="322"><br>
+	 <a href="./sign_up.asp"><img src="./graphics/top_right.gif" width="275" height="120" hspace="0" vspace="0" border="0" alt="Sign Up Now!"></a>
+      </td>
+   </tr>
+</tbody></table>
+<table border="0" width="772" cellpadding="0" cellspacing="0" valign="TOP">
+   <tbody><tr>
+      <td bgcolor="#003399" rowspan="3"><img src="./graphics/spacer.gif" width="2" height="1" hspace="0" vspace="0" alt=""></td>
+      <td width="150" valign="TOP" bgcolor="lightblue"><br>
+         <table border="0" width="150" cellpadding="4" cellspacing="0" valign="TOP">
+            <tbody><tr valign="TOP">
+               <td width="150" bgcolor="#003399">
+                  <center><font size="4" face="Verdana" color="white">contest winners</font><br></center>
+               </td>
+            </tr>
+            <tr>
+               <td width="150" bgcolor="lightblue">
+                  <font size="1" face="Verdana">
+                  <b>Our Last Winner:</b>
+<center>
+Erica Keh<br> from New Jersey<br>
+won a <b>Palm Pilot</b> in our active user <a href="contest.asp">contest</a>.
+<br>CONGRATULATIONS!<br><br></center>
+
+                  </font>
+               </td>
+            </tr>
+            <tr valign="TOP">
+               <td width="150" bgcolor="#003399">
+                  <center><font size="4" face="Verdana" color="white">member login</font><br></center>
+               </td>
+            </tr>
+            <tr>
+               <td width="150" bgcolor="lightblue">
+                  <form name="loginForm" action="members/index.asp" method="POST" onsubmit="return loginSubmit(this);">
+                     <font size="1" face="Verdana">username:</font><br>
+<input type="text" name="formUsername" size="10" maxlength="15" value=""><br><font size="1" face="Verdana">password:</font><br><input type="password" name="formPassword" size="10" maxlength="15" value=""><br><input type="checkbox" name="formChecked">
+                     <font size="1" face="Verdana">save my password<br></font><center><font size="1" face="Verdana"><b>[do not save this on a public terminal]</b><br></font><br>
+                     <input type="submit" value="Login"><br>
+                     <font size="1" face="Verdana"><a href="./lost_password.asp"><i>forgot your password?</i></a></font></center>
+                  </form>
+               </td>
+            </tr>
+            <tr valign="TOP">
+               <td width="150" bgcolor="#003399">
+                  <center><font size="4" face="Verdana" color="white">what is save<br>your links?</font><br></center>
+               </td>
+            </tr>
+            <tr>
+               <td width="150" bgcolor="lightblue">
+                  <p><font size="1" face="Verdana">Save Your Links is a <b>FREE</b>, easy to use bookmarking/ favorites system that allows you to access your bookmarks from any computer that has Internet access.  The only URL you ever need to remember is: www.saveyourlinks.com!</font><br><br>
+                  </p><center>
+                  <a href="./sign_up.asp" onmouseover="img_act('joinNow');" onmouseout="img_inact('joinNow');"><img src="./graphics/join.gif" alt="Join Now!" border="0" name="joinNow" id="joinNow" width="150" height="30" hspace="0" vspace="0"></a>
+                  <a href="./members/index.asp?type=public&amp;name=Demo" onmouseover="img_act('quickPeek');" onmouseout="img_inact('quickPeek');"><img src="./graphics/try.gif" border="0" alt="Quick Peek!" name="quickPeek" id="quickPeek" width="150" height="30" hspace="0" vspace="0"></a></center>
+               </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td bgcolor="#003399" rowspan="2" width="2"><img src="./graphics/spacer.gif" width="2" height="1" hspace="0" vspace="0" alt=""></td>
+      <td bgcolor="white" valign="TOP" width="468">
+         <table border="0" width="100%" cellpadding="0" cellspacing="0">
+            <tbody><tr><td width="468"><center>
+
+<!-- AlwaySync -->
+<a href="http://allwaysync.com/?a=saveyourlinks" target="_new"><img src="http://www.allwaysync.com/download/AllwaySync_banner_small.gif?a=saveyourlinks" width="468" height="60" name="adBanner_" border="0" alt="Banner Ad"></a>
+
+</center></td></tr>
+            <tr><td bgcolor="#003399"><img src="./graphics/spacer.gif" height="2" width="1" hspace="0" vspace="0" alt=""></td></tr>
+            <tr>
+               <td width="468">
+<br>
+<font size="1" face="Verdana">
+<p><font size="5" face="Verdana">Privacy Policy</font></p><hr width="80%" align="LEFT" size="0">
+<p>The policy of Wizdata Systems, Inc. is to respect and protect the privacy of our users. This Privacy Policy discloses our information gathering and dissemination practices. We believe that electronic privacy is crucial for the ongoing success of the Internet as a service, commercial and entertainment medium. </p>
+<p>While we strive to deliver content and advertising that are specifically relevant to you, Wizdata Systems, Inc. does not sell, exchange, or release any of your individual personal information to a third party without you express permission. From time to time, we may introduce new products and services to our customers. To the extent these new products and services affect this policy, this policy will be modified or updated.</p>
+<p>As part of the registration process, Wizdata Systems, Inc. users are asked to fill out a questionnaire. The information provided will not be released to any third party without the user’s express permission. The demographic information collected during the registration process will be used to refine and improve the site content, to determine informational advertisements, to provide specialized services and to measure site activity. We may count, track and aggregate the visitor’s activity into our analysis of general traffic flows at our site. To these ends, we may merge information about you, which may then be shared on an aggregated basis with our advertisers and business partners. However, we will not disclose your individual identity.</p>
+<p><font size="4" face="Verdana">Use of cookies</font>
+</p><p>Once the user completes the questionnaire form on the site, a "cookie" is placed on his or her computer. The purpose of the "cookie" is to allow access to Wizdata Systems, Inc. without the need to input a user name and password every time they access the site from the same computer. The cookie itself does not contain any personally identifying information. </p>
+<p>Other companies, which place advertising on our site, also have the ability to assign their cookies to you in a process not under our control. We are not responsible for their privacy policies or how they treat information about their users. However, Wizdata Systems, Inc. will not provide them with information without your consent.</p>
+<p><font size="4" face="Verdana">Other circumstances</font>
+</p><p>From time to time, Wizdata Systems, Inc. may sponsor promotional events, which require the collection, processing and storing of individual contact and demographic information to be used for the event. Wizdata Systems, Inc. may also co-sponsor these activities with other companies, in which case the user’s individual contact and demographic information is likely to be shared with the other participating sponsors. A registrant’s personal contact and demographic information will not be released to third parties or non-participating organizations without the user’s consent and Wizdata Systems, Inc. will request that co-sponsors of such events uphold the privacy of the registrants’ information.</p>
+<p>When appropriate, an option will be made available for users during the event registration process to choose to receive information from third-party organizations.</p>
+<p>You should be aware that when you voluntarily disclose personal information on the chat or discussion areas that information can be collected and used by other and may result in unsolicited messages from other parties.</p>
+<p>This site is maintained by:<br><br>
+</p><blockquote>
+<p>Wizdata Systems, Inc.<br>
+125 Greenrale Ave.<br>
+Wayne, NJ 07470<br></p>
+</blockquote>
+<p>If you have any questions about this privacy statement or the practices of this site, please contact us at <a href="mailto:support@saveyourlinks.com">support@saveyourlinks.com</a></p><br>
+</font>
+
+               </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td bgcolor="#003399" rowspan="2" width="2"><img src="./graphics/spacer.gif" width="2" height="1" hspace="0" vspace="0" alt=""></td>
+      <td width="137" valign="TOP" bgcolor="lightblue" rowspan="3"><br>
+         <table border="0" width="137" cellpadding="4" cellspacing="0">
+            <tbody><tr>
+               <td width="137" bgcolor="#003399">
+                  <center><font size="4" face="Verdana" color="white">recommend to a friend</font></center>
+               </td>
+            </tr>
+            <tr>
+               <td width="137" bgcolor="lightblue">
+                  <center><img src="./graphics/m100_small_light_blue.jpg" alt="Palm Pilot m100" width="75" height="107" align="CENTER"></center>
+                  <p><font size="1" face="Arial">If you like SaveYourLinks.com, why not share this <b>FREE</b> service with a friend?   The more friends you refer that become members, the more chances you have to win a Palm Pilot m100 (for registered users only)!</font></p>
+                  <center><font size="3" face="Arial"><a href="javascript:doRefer();"><b>Refer a Friend</b></a></font></center>
+               </td>
+            </tr>
+            <tr>
+               <td width="137" bgcolor="#003399">
+                  <center><font size="4" face="Verdana" color="white">public accounts</font></center>
+               </td>
+            </tr>
+            <tr>
+               <td width="137" bgcolor="lightblue">
+                  <font size="1" face="Verdana">
+                  <img src="./graphics/arrow.gif" width="8" height="9" alt="*"> <a href="./members/index.asp?type=public&amp;name=Automotive">Automotive</a><br>
+                  <img src="./graphics/arrow.gif" width="8" height="9" alt="*"> <a href="./members/index.asp?type=public&amp;name=College">College</a><br>
+                  <img src="./graphics/arrow.gif" width="8" height="9" alt="*"> <a href="./members/index.asp?type=public&amp;name=Computer+Games">Computer Games</a><br>
+                  <img src="./graphics/arrow.gif" width="8" height="9" alt="*"> <a href="./members/index.asp?type=public&amp;name=Computer+Help">Computer Help</a><br>
+                  <img src="./graphics/arrow.gif" width="8" height="9" alt="*"> <a href="./members/index.asp?type=public&amp;name=Computers">Computers</a><br>
+                  <img src="./graphics/arrow.gif" width="8" height="9" alt="*"> <a href="./members/index.asp?type=public&amp;name=Dave+Matthews+Band">Dave Matthews Band</a><br>
+                  <img src="./graphics/arrow.gif" width="8" height="9" alt="*"> <a href="./members/index.asp?type=public&amp;name=Health+%26+Beauty">Health &amp; Beauty</a><br>
+                  <img src="./graphics/arrow.gif" width="8" height="9" alt="*"> <a href="./members/index.asp?type=public&amp;name=Music">Music</a><br>
+                  <img src="./graphics/arrow.gif" width="8" height="9" alt="*"> <a href="./members/index.asp?type=public&amp;name=Photo+Links">Photo Links</a><br>
+                  <img src="./graphics/arrow.gif" width="8" height="9" alt="*"> <a href="./members/index.asp?type=public&amp;name=Shopping">Shopping</a><br>
+                  <br>Want more? <a href="public.asp">Browse</a> other public accounts.<br><br>
+                  You can also <a href="sign_up.asp">create your own</a> public account!
+                  </font>
+               </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td bgcolor="#003399" rowspan="3" width="2"><img src="./graphics/spacer.gif" width="2" height="1" hspace="0" vspace="0" alt=""></td>
+   </tr>
+   <tr><td bgcolor="lightblue" height="2"><img src="./graphics/spacer.gif" height="2" width="1" alt=""></td><td bgcolor="#003399"><img src="./graphics/spacer.gif" height="2" width="1" hspace="0" vspace="0" alt=""></td></tr>
+   <tr><td colspan="5" bgcolor="lightblue"><center><font size="1" face="Verdana">Copyright © 1999-2005 WizData Systems, Inc.  All rights reserved worldwide.<br>[<a href="index.asp"><font color="brightyellow">Home</font></a> | <a href="terms_of_service.asp"><font color="brightyellow">Terms of Service</font></a> | <a href="privacy_policy.asp"><font color="brightyellow">Privacy Policy</font></a> | <a href="javascript:doHelp();"><font color="brightyellow">Help</font></a> | <a href="about.asp"><font color="brightyellow">About Us</font></a> | <a href="contact.asp"><font color="brightyellow">Contact Us</font></a> | <a href="contest.asp"><font color="brightred"><b>Contests</b></font></a>]<br><br></font></center></td></tr>
+   <tr><td bgcolor="#003399" colspan="7"><img src="./graphics/spacer.gif" height="2" width="1" hspace="0" vspace="0" alt=""></td></tr>
+</tbody></table>
+</center>
+
+</body></html>
