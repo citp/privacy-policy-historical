@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the discoverbank.com privacy policy that was archived on 2005-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051124085049id_/http%3A//www.discoverbank.com/index.asp%3FpID%3Dmisc%26sID%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the discoverbank.com privacy policy that was archived on 2006-05-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060516132104id_/http%3A//discoverbank.com/index.asp%3FpID%3Dmisc%26sID%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 	<title>Discover Bank </title>
@@ -11,18 +11,18 @@
 	 //new code
 var winUrl = null;
 var childWindow = null;
- 
-function showWin(url, windowName, features)      
+
+function showWin(url, windowName, features)
             {
             window.name = "mainWin";
             winUrl = url;
- 
+
              // Simple Browser Check
             var ns4 = (document.layers) ? 1 : 0;
             var ie4 = (document.all) ? 1 : 0;
             var ns6 = (document.getElementById && !document.all) ? 1 : 0;
-                                   
-                                   
+
+
             // Browser Window Dimensions
             function windowWid(){
                         return (ns4||ns6) ? window.innerWidth : document.body.clientWidth;
@@ -30,55 +30,56 @@ function showWin(url, windowName, features)
             function windowHei(){
                         return (ns4||ns6) ? window.innerHeight : screen.height;
             }
-                                   
+
             // Example Use
             var displaywidth = windowWid();
             var displayheight = windowHei();
-                                   
+
             var percwidth =  Math.round(displaywidth * 0.80);
             var percheight = Math.round(displayheight * 0.50);
-                         
+
             var winAttributes = "width=" + percwidth + ", height=" + percheight + ",top=30,left=30,scrollbars=1,toolbar=1,menubar=1 " +  features;
-                         
+
             //launch the new window and capture a reference to that window
             childWindow = window.open(url,windowName,winAttributes);
-                                     
+
             //bring "focus" to the new window so it appears on top of the window stack
-            childWindow.focus();                              
-}          
-                       
+            childWindow.focus();
+}
+
 function showBrowserWin(url, windowName)
 {
             showWin(url, windowName, "resizable,scrollbars,menubar,status,toolbar,location");
-}                       
+}
 	 //end new code
-	 
+
 	 function ShowConfirm(sURL) {
 	 	if (confirm("You are exiting the site.")) {
 			document.location=(sURL);
 		}
 	 }
-	 
-function forgotpswd() {
-  if (document.loginForm.UserID.value.length == 0) {
-	alert("Please enter your User ID");
-	document.loginForm.UserID.focus();
-  }
-  else {
-    document.loginForm.Action.value = "Forgot Password";
-    document.loginForm.submit();
-  }
-} 
 
-  	// only allow numbers to be entered
-	function isValid(parm) {
-  	var numb = '0123456789.';
+function forgotpswd() {
+
+	 if (document.loginForm.UserID.value.length == 0) {
+		alert("Please enter your User ID");
+		document.loginForm.UserID.focus();
+	 }
+	 else {
+	    document.loginForm.Action.value = "Forgot Password";
+	    document.loginForm.submit();
+	 }
+}
+
+// only allow numbers to be entered
+function isValid(parm) {
+	var numb = '0123456789.';
 
 	for (i=0; i<parm.length; i++) {
-    if (numb.indexOf(parm.charAt(i),0) == -1) return false;
-	  	}
-  		return true;
-  	 } 
+		if (numb.indexOf(parm.charAt(i),0) == -1) return false;
+  	}
+	return true;
+}
 
 	</script>
 	
@@ -87,11 +88,11 @@ function forgotpswd() {
 		<link rel="STYLESHEET" type="text/css" href="style.css">
 	</head>
 	<body style="margin:0px;background-color:#FFFFFF;">
-	<!-- START HEADER --><a name="top"></a>	
+	<!-- START HEADER --><a name="top"></a>
 	<table border="0" cellspacing="0" cellpadding="0" width="760" bgcolor="#FF6600" align="center">
 	<tbody><tr>
 		<td>
-	
+
 	<table border="0" cellspacing="0" cellpadding="0" width="750">
 	<tbody><tr>
 		<td height="10" colspan="4"><img src="images/blank_pixel.gif" width="1" height="1" alt=""></td>
@@ -143,7 +144,7 @@ function forgotpswd() {
 
 
 
-<p align="center"><!--a href="http://www.bankrate.com/brm/rate/rankings.asp" target=_blank"--><img src="images/TOPTIER125_1stQtr_05.gif" width="125" height="125" alt="Top Tier 100 Highest Yields" border="0"></p>	
+<p align="center"><!--a href="http://www.bankrate.com/brm/rate/rankings.asp" target=_blank"--><img src="images/TOPTIER125.gif" width="125" height="125" alt="Top Tier 100 Highest Yields" border="0"><!--/a--></p>
 			</td>
 			<td colspan="3" bgcolor="#ffffff" valign="top">
 				<!-- START MIDDLE CONTENT -->
@@ -424,7 +425,7 @@ The minute you learn your identity is being used fraudulently, place a fraud ale
 	<tbody><tr><td colspan="3" style="height: 10px">&nbsp;</td></tr>
 	<tr><td colspan="3" align="right" style="height: 10px;color:#ffffff;"><a href="index.asp?pID=misc&amp;sID=terms" class="white">Terms of Use</a>   |   <a href="index.asp?pID=misc&amp;sID=faq2" class="white">FAQs</a>  |   <a href="index.asp?pID=misc&amp;sID=privacy" class="white">Privacy Policy and Security</a>   |   <a href="index.asp?pID=misc&amp;sID=contact" class="white">Contact Us</a>  |   <a href="index.asp?pID=misc&amp;sID=sitemap" class="white">Site Map</a></td></tr>
 	<tr><td colspan="3" style="height: 10px"><img src="images/blank_pixel.gif" width="1" height="2" alt=""></td></tr>
-	<tr><td colspan="3" align="right" style="height: 10px;color:#ffffff;">© 2005 Discover&nbsp;Bank, Member FDIC.  A Morgan Stanley Company</td></tr>
+	<tr><td colspan="3" align="right" style="height: 10px;color:#ffffff;">© 2006 Discover&nbsp;Bank, Member FDIC.  A Morgan Stanley Company</td></tr>
 </tbody></table></td>
 		</tr>
 		</tbody></table>
