@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the microantivirus.com privacy policy that was archived on 2005-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051125204106id_/http%3A//microantivirus.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microantivirus.com privacy policy that was archived on 2006-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060517104037id_/http%3A//microantivirus.com/privacy.asp) for the most accurate reproduction.*
 
 # Microantivirus - Complete Security Solutions
 
