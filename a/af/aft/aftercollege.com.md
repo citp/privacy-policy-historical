@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aftercollege.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228200241id_/http%3A//www.aftercollege.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aftercollege.com privacy policy that was archived on 2006-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060517220519id_/http%3A//aftercollege.com/privacy.asp) for the most accurate reproduction.*
 
 # AfterCollege - Redefining College Recruiting
 
