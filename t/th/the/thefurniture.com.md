@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefurniture.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231042709id_/http%3A//www.thefurniture.com/store/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefurniture.com privacy policy that was archived on 2006-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060517060222id_/http%3A//www.thefurniture.com/store/privacy-policy.asp) for the most accurate reproduction.*
 
 # TheFurniture.com :: Privacy and Security Policy
 
@@ -14,11 +14,11 @@
 This site contains links to other Web sites. **TheFurniture.com** is not responsible for the privacy practices or the content of such sites. 
 
 ** Address Information**  
-Our site uses an order form for you to request information, products and services. We collect your contact information, including, but not limited to, addresses, email addresses, phone numbers, and financial information. Collected information is used for the sole benefit of **TheFurniture.com** to send information to customers about orders, about our company, and to send promotional material from some of our partners. This information is also used for billing and to contact you when necessary. 
+Our site uses an order form for you to request information, products and services. We collect your contact information, including, but not limited to, addresses, email addresses, phone numbers, and financial information. Collected information is used for the sole benefit of **TheFurniture.com** to send information to customers about orders, about our company, and to send promotional material. This information is also used for billing and to contact you when necessary.
 
 Demographic and profile data is also collected at our site. We use this data to tailor your experiences at our site, to show you content that we think you might be interested in, and to display the content according to your preferences. 
 
-Customer information is considered to be an asset of **Spektor, Inc**. (d/b/a **SpektorUSA** ) and **TheFurniture.com** , and as such may be transferred to another company as part of an acquisition of **SpektorUSA**. 
+Customer information is considered to be an asset of ** TheFurniture.com** **, LLC**.
 
 You may opt out of receiving mailings; see the choice/opt-out section, below. 
 
