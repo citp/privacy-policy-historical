@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sz-wholesale.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219094357id_/http%3A//sz-wholesale.com/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sz-wholesale.com privacy policy that was archived on 2006-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060517030445id_/http%3A//sz-wholesale.com/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # sz-wholesale.com promotional gifts, promotional products, promotional items
 
@@ -35,7 +35,7 @@ You can determine if and how a cookie will be accepted by configuring your brows
 
 The Site and its contents are not intended to be targeted to minors under applicable law and we do not intend to sell any of our products or services to minors. However, we have no way of distinguishing the age of individuals who access our Site and so we carry out the same Privacy Policy for individuals of all ages. If a minor has provided us with personal information without parental or guardian consent, the parent or guardian should contact us to remove the information
 
-sz-wholesale.com welcomes your continuous input regarding our Privacy Policy or our services provided to you. You may send us your comments and responses to [sale@sz-wholesale.com](mailto:sale@sz-wholesale.com)
+sz-wholesale.com welcomes your continuous input regarding our Privacy Policy or our services provided to you. You may send us your comments and responses to [gafucn@hotmail.com](mailto:gafucn@hotmail.com)
 
 **[****](https://web.archive.org/shenzhen_China_products/Giveaway-Material_1.htm)**
 
