@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joomlancers.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229063601id_/http%3A//www.joomlancers.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlancers.com privacy policy that was archived on 2006-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060517230323id_/http%3A//joomlancers.com/privacy.shtml) for the most accurate reproduction.*
 
 # Joomla Freelance Jobs and Projects - Joomla Programmers Webmasters Designers - Joomlancers.com
 
