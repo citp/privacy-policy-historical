@@ -1,42 +1,8 @@
-> *The following text is extracted and transformed from the mohela.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207230244id_/http%3A//www.mohela.com/Misc/Info/Info_PrivacyAct.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mohela.com privacy policy that was archived on 2006-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060517125750id_/http%3A//www.mohela.com/Misc/Info/Info_PrivacyAct.asp) for the most accurate reproduction.*
 
 # MOHELA Privacy Policy
 
-| **General Info**  
----  
-  
-  Loan Programs  
-    [Student Loans](http://www.mohela.com/Misc/Program/Program_StaffordLoan.asp)  
-    [Parent Loans](http://www.mohela.com/PLUS/Info)  
-    [CASHLoans](http://www.mohela.com/Cash/Info)  
-    [Consolidation](http://www.mohela.com/Consolidation)  
-    [Interest Rate Reduction Program](http://www.mohela.com/Misc/Program/Program_RateRelief_1.asp)  
-  
-  [Reward Programs](http://www.mohela.com/Misc/Reward)  
-    [MO State Government Employee](http://www.mohela.com/Misc/Reward/Reward_MOGovEmployee.asp)  
-    [MO Peace Officer](http://www.mohela.com/Misc/Reward/Reward_MOPoliceOfficer.asp)  
-    [MO Teacher](http://www.mohela.com/Misc/Reward/Reward_MOTeacher.asp)  
-    [MO Social Worker](http://www.mohela.com/Misc/Reward/Reward_MOSocialWorker.asp)  
-    [MO National Guard](http://www.mohela.com/Misc/Reward/Reward_MONationalGuard.asp)  
-    [MO Nurse](http://www.mohela.com/Misc/Reward/Reward_MONurse.asp)  
-  
-  [Borrowers](http://www.mohela.com/Borrower/Info)  
-    [Rate Relief Direct Payment](http://www.mohela.com/Misc/Info/Info_ElectronicPayment.asp)  
-  
-  [Schools](http://www.mohela.com/School/Info)  
-  
-  [Lenders](http://www.mohela.com/Lender/Info)  
-  
-  Other  
-    [Planning and Paying for College](http://www.mohela.com/Misc/Info/Info_PayingForCollege.asp)  
-    [Entrance/Exit Counseling](http://mapping-your-future.org/services/oslcidx.htm)  
-    [Order and Download Forms](http://www.mohela.com/Misc/Info/Info_DownLoadForms.asp)  
-    [Order Brochures](http://www.mohela.com/Misc/OrderBrochure/Default.asp)  
-    [Glossary Terms](http://www.mohela.com/Misc/Info/Info_Glossary.asp)  
-    [Calculators](http://www.mohela.com/Calculators)  
-    [Financial Aid Road Map](http://www.mohela.com/Misc/Info/Info_FinancialAidRoadMap.asp)  
-    [Other Web Links](http://www.mohela.com/Misc/Info/Info_OtherResources.asp)  
-|  **MOHELA Privacy Policy**  
+|  |  **MOHELA Privacy Policy**  
 MOHELA Privacy Policy |    
 ---  
 _Our Commitment_  
@@ -61,4 +27,4 @@ We do not sell or share customer information to nonaffiliated third parties for 
 _Security_  
 We restrict access to nonpublic personal information about you to those employees who need to know that information to provide products or services to you. We maintain physical, electronic and procedural safeguards that comply with federal regulations to guard your nonpublic personal information.  
    
-[Internet Privacy Policy](https://web.archive.org/web/20050207230244id_/http%3A//www.mohela.com/Misc/Info/Info_InternetPrivacyAct.asp)
+[Internet Privacy Policy](https://web.archive.org/web/20060517125750id_/http%3A//www.mohela.com/Misc/Info/Info_InternetPrivacyAct.asp)
