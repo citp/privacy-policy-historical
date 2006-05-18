@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the robinsharma.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220203417id_/http%3A//robinsharma.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robinsharma.com privacy policy that was archived on 2006-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060518233015id_/http%3A//robinsharma.com/canada_success_coach_privacy.htm) for the most accurate reproduction.*
 
-# Robin Sharma, Executive Coach, Life Coach, Motivational Speaker, and Inspirational Quotes
+# Canada Success Coach, Life Coach, Leadership Training, Self Motivation, Life Coach, Robin Sharma
 
 We respect each site visitor's right to personal privacy. To that end, we collect and use information throughout our website only as disclosed in this Privacy Policy. This statement applies solely to information collected on this website. 
 
@@ -31,11 +31,11 @@ We publish a newsletter, and we never sell or share our subscribers' email addre
 
 We operate online surveys, and we never sell or share our subscribers' email addresses
 
-**NOTIFICATION OF CHANGES**
+ **NOTIFICATION OF CHANGES**
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement.
 
-**CONFLICT RESOLUTION**
+ **CONFLICT RESOLUTION**
 
 We are committed to resolving disputes within 24-48 hours.
 
