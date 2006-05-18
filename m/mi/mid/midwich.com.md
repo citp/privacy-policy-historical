@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midwich.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213215657id_/http%3A//www.midwich.com/editorial/aboutmidwich/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midwich.com privacy policy that was archived on 2006-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060518095522id_/http%3A//www.midwich.com/editorial/aboutmidwich/privacypolicy.php) for the most accurate reproduction.*
 
 # Midwich - your focused distributor -
 
