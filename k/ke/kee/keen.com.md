@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the keen.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215001953id_/http%3A//www.keen.com/documents/help/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keen.com privacy policy that was archived on 2006-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060518035411id_/http%3A//www.keen.com/documents/help/privacypolicy.asp) for the most accurate reproduction.*
 
 # Keen: Privacy Policy
 
   | 
 
 This Privacy Policy forms part of the Member Agreement and is incorporated by reference therein. This Privacy Policy covers information you may provide to Keen through the Keen.com website. Capitalized terms not defined herein will have the meanings set forth in the Member Agreement and related policies.   
-Your privacy is very important to us at Keen, and Keen is a licensee of the TRUSTe Privacy Program. What is TRUSTe? TRUSTe is a non-profit organization dedicated to building trust in the Internet. We disclose information practices to TRUSTe, which in turn operates as a third-party "watch dog" by auditing our privacy practices to make sure that we are in compliance with TRUSTe's privacy standards. When you visit a website displaying the TRUSTe trustmark, you can expect to be notified of: 
+Your privacy is very important to us at Keen. Keen is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site Keen.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
-[ ](https://www.truste.org/ivalidate.php?url=www.Niteflirt.com)
+[ ](http://www.truste.org/ivalidate.php?url=www.keen.com&sealid=101)
 
   * What personally identifiable information of yours is collected;
   * What organization is collecting the information; 
@@ -62,6 +62,8 @@ Keen may collect credit card information when you create an Advisor listing, add
 You may also provide Keen with additional profile information (such as experience, affiliations, on-call schedule, etc.) that is displayed publicly on the Site, on your home page or in your listings. Other than the profile information submitted by our Members, and except as noted herein, Keen does not disclose any personally identifying information to other Members without your permission. 
 
 Keen's Tell a Friend Program allows Members to earn money by referring their friends to our Site. The third-party contact information you enter as part of Keen's Tell a Friend program will be used only to personalize a one-time referral email sent to your friends. 
+
+Keen's Send a Scope offer allows members to send a single horoscope email to a friend. The third-party contact information you enter as part of the Send a Scope offer will be used only to personalize a one-time horoscope email sent to your friend in which they may request to. 
 
 We use information we maintain about you, and other information we obtain from your current and past activities on the Site, to resolve disputes, identify potential liabilities, troubleshoot problems and enforce our Member Agreement. At times, we may look at your Member account information and transaction history to identify problems or resolve disputes. Moreover, such information is never completely removed from our databases due to technical constraints and the fact that we back up our systems. Therefore, our Members' personally identifiable information may not be completely removed from our databases in response to Member requests. 
 
