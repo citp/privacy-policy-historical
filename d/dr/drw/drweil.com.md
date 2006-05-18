@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drweil.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230104150id_/http%3A//www.drweil.com/u/Page/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drweil.com privacy policy that was archived on 2006-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060518055937id_/http%3A//www.drweil.com/u/Page/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,9 +6,11 @@
 
 **Privacy Policy**
 
+This privacy policy was last updated February 17, 2006.
+
 Weil Lifestyle, LLC, an Arizona limited liability company which owns and operates the www.DrWeil.com web site, cares about the privacy of each user of our web site. This confirms that Weil Lifestyle, LLC, is a licensee of the TRUSTe Privacy Program.  This privacy statement discloses the privacy practices for the www.DrWeil.com Web site.
 
-If you have any questions or concerns regarding this statement, you should first contact [webmaster@DrWeil.com.](mailto:webmaster23@DrWeil.com) You can also contact us via regular mail at: Weil Lifestyle, LLC, 3104 East Camelback Road, #758, Phoenix, Arizona 85016. 
+If you have any questions or concerns regarding this statement, you should first contact [webmaster@DrWeil.com.](mailto:webmaster23@DrWeil.com) You can also contact us via regular mail at: Weil Lifestyle, LLC, 3104 East Camelback Road, #758, Phoenix, Arizona 85016.
 
 If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
@@ -56,7 +58,9 @@ We will share aggregated, general or demographic information we collect about ou
 
 **_ Co-Branded Relationships_**
 
-Weil Lifestyle partners with Drugstore.com for the Dr. Weil Vitamin Advisor customized nutrition assessment offered to our users for free and for the Weil CustomPak(TM) vitamins and supplements recommended and available for purchase from Drugstore.com. No personal information of users from www.DrWeil.com is shared with Drugstore.com. Drugstore.com does share with Weil Lifestyle a user's email address and whether or not the users have taken the Vitamin Advisor and purchased. Drugstore.com also shares aggregate purchase information with Weil Lifestyle for the purpose of determining revenue share. They do not share the details of a user's personal nutrition assessment except in aggregate so that products and services can be improved over time.
+Below are some examples of our co-branded relationships.
+
+When accessing the Marketplace and other areas, please be aware that even though the pages may have the same look and feel of this website, you are actually entering your personal information on the co-branded partner website. You may reference their privacy policy in these areas. Weil Lifestyle partners with Drugstore.com for the Dr. Weil Vitamin Advisor customized nutrition assessment offered to our users for free and for the Weil CustomPak(TM) vitamins and supplements recommended and available for purchase from Drugstore.com. No personal information of users from www.DrWeil.com is shared with Drugstore.com. Drugstore.com does share with Weil Lifestyle a user's email address and whether or not the users have taken the Vitamin Advisor and purchased. Drugstore.com also shares aggregate purchase information with Weil Lifestyle for the purpose of determining revenue share. They do not share the details of a user's personal nutrition assessment except in aggregate so that products and services can be improved over time. 
 
 Weil Lifestyle partners with Waterfront Media, Inc. for the “My Optimum Health Plan” offered to our users as a premium membership product and available for purchase from Waterfront Media, Inc. Waterfront Media and Weil Lifestyle do share personally identifiable information to provide this premium service only to those members who have purchased the product. However, Waterfront Media does not use this personal information for their own purposes. They only use it as needed to provide this service to our members.
 
@@ -118,4 +122,4 @@ The www.DrWeil.com web site does not knowingly collect or use any personal infor
 
 Our privacy policy is subject to change.  In the event of any change, we will provide notice of such change on our web site.  If we want to use your personal information in a manner different from that stated to you at the time you provided such information to us, we will notify you of such change via email in addition to posting notification of such change on our web site.  At such time, you can determine whether you wish to allow us to use your information in this different manner.  If you have opted out of all communication with our web site or have deleted or deactivated your account with us, then you will not be contacted and your personal information will not be used. 
 
-**If you have any questions about this privacy policy or believe that the www.DrWeil.com web site is not abiding by our privacy policy, please contact our Webmaster by e-mail at[ Webmaster@drweil.com](mailto:webmaster23@drweil.com).  If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe through the "TRUSTe WatchDog Dispute Resolution Process" at [ http://truste.org/consumers/watchdog_complaint.php](http://truste.org/consumers/watchdog_complaint.php).  TRUSTe will serve as a liaison with the www.DrWeil.com web site to resolve your concerns.** This privacy policy was last updated January 11, 2005.
+If you have any questions about this privacy policy or believe that the www.DrWeil.com web site is not abiding by our privacy policy, please contact our Webmaster by e-mail at[ Webmaster@drweil.com](mailto:webmaster23@drweil.com).  If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe through the "TRUSTe WatchDog Dispute Resolution Process" at [ http://truste.org/consumers/watchdog_complaint.php](http://truste.org/consumers/watchdog_complaint.php).  TRUSTe will serve as a liaison with the www.DrWeil.com web site to resolve your concerns.
