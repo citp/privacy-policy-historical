@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bharatwaves.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212153459id_/http%3A//www.bharatwaves.com/portal/modules/bwinfo/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bharatwaves.com privacy policy that was archived on 2006-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060519210839id_/http%3A//www.bharatwaves.com/portal/modules/bwinfo/privacypolicy.php) for the most accurate reproduction.*
 
-# Bharat Waves - Contribute
+# Bharatwaves - Bharatwaves Info
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. This policy applies to all information collected or submitted on the BharatWaves web site. 
 
@@ -99,4 +99,4 @@ If you are under the age of 18 you should involve your parent or guardian before
 
 **How To Contact Us:** (Top)
 
-Should you have other questions or concerns about these privacy policies, please send us an email at [info@bharatwaves.com.](mailto:webmaster@guitargearheads.com.)
+Should you have other questions or concerns about these privacy policies, please use contact us form to communicate with us. 
