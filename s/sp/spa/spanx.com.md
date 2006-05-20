@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spanx.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231081341id_/http%3A//www.spanx.com/pls/enetrixp/%21stmenu_template.main%3Fcomplex_id_in%3D477024.488863..488863.cat) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spanx.com privacy policy that was archived on 2006-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060521015249id_/http%3A//www.spanx.com/pls/enetrixp/%21stmenu_template.main%3Fcomplex_id_in%3D477024.488863..488863.cat) for the most accurate reproduction.*
 
 # SPANX - Privacy
 
