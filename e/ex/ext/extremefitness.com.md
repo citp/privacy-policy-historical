@@ -1,37 +1,46 @@
-> *The following text is extracted and transformed from the extremefitness.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010181912id_/http%3A//www.extremefitness.com/viewprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremefitness.com privacy policy that was archived on 2006-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060520080130id_/http%3A//www.extremefitness.com/forum/privacy.php) for the most accurate reproduction.*
 
-# ExtremeFitness.Com: Privacy statement
+# ExtremeFitness.Com's Privacy Policy
 
-**Extreme Team Productions's Online Privacy Policy** We are committed to protecting the privacy and security of the users of our sites.
+[](https://web.archive.org/forum/index.php)
+
+  
+
+
+ExtremeFitness is the place to be if you are Extreme about your workouts - be it Bodybuilding, Marathons, IronMan competitions or whatever, you'll find like-minded people here who share your passion for working out. Our spam-and-ad-free environment makes ExtremeFitness a unique place to do your research and interact with your peers. So what are you waiting for? Join up now and join our community today!
+
+You will have to [**register**](https://web.archive.org/forum/register.php?s=6380eb45611459eac2132f9c47e9ac68&) before you can post: so just click the register link above to proceed. To start viewing messages, select the forum that you want to visit from the selection below. 
+
+  
+| [](https://web.archive.org/forum/index.php) | 
+
+[](https://web.archive.org/web/20060520080130id_/http%3A//www.extremefitness.com/forum/index.php?s=6380eb45611459eac2132f9c47e9ac68) **Extreme Fitness**
+
+|   
+---|---|---  
+**ExtremeFitness's Online Privacy Policy** We are committed to protecting the privacy and security of the users of our sites.
 
 This privacy policy will advise you about how we protect your personal information, and about what choices you have concerning our use of such information. Please read this policy carefully. We may need to change this policy from time to time in order to address new issues and reflect changes on our sites. We will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose that information to anyone. Please refer back to this policy regularly.
 
-If you have any questions or concerns about our privacy policy, please send us an e-mail to: [info@extremefitness.com](mailto:info@extremefitness.com).
+If you have any questions or concerns about our privacy policy, please send us an e-mail to: [webmaster@extremefitness.com](mailto:webmaster@extremefitness.com).
 
-**Scope Of Privacy Policy** This policy applies to your use of all of the sites and services owned or operated by Extreme Team Productions, Inc., and affiliated companies (collectively "Extreme Team Productions" or "we," "us," or "our"), including extremebikini.com, fitnessphotos.com and any other site that we may own or operate currently or in the future (collectively, the "Extreme Team Productions Sites"). Unless we say otherwise, all references to the Extreme Team Productions Sites in this policy include all such sites. This policy does not apply to your use of unaffiliated sites to which any of the Extreme Team Productions Sites only links.
+**Scope Of Privacy Policy** This policy applies to your use of all of the sites and services owned or operated by ExtremeFitness, Inc., and affiliated companies (collectively "ExtremeFitness" or "we," "us," or "our"), including extremebikini.com, fitnessphotos.com and any other site that we may own or operate currently or in the future (collectively, the "ExtremeFitness Sites"). Unless we say otherwise, all references to the ExtremeFitness Sites in this policy include all such sites. This policy does not apply to your use of unaffiliated sites to which any of the ExtremeFitness Sites only links.
 
 **Personal Identification Information** We will never intentionally disclose any personal identification information about you as an individual user (such as, for example, your full name, street address, telephone number, credit card number or e-mail address) to any third party without having received your permission. We may request personal identification information from you in connection with your use of, or participation in, our contests, sweepstakes, games, surveys, forums, subscription registrations, content submissions, chats, bulletin boards, discussion groups, requests for suggestions, visitors' requests for free products or services or additional information, and in connection with other activities, services or resources we make available on any of our sites. In all of these cases, we will collect personal identification information from you only if you voluntarily submit such information to us.
 
 If you do provide us with personal information, we may use it to conduct the activities described above. If you identify yourself to us by sending us an e-mail with questions or comments, we may use your personal information to respond to your questions or comments. We may file your comments for future reference, or we may discard the information after we have reviewed it.
 
-We may also contact you to confirm your registration and about your account status (for example, when a child enters a new age group to which different policies apply), and regarding changes to the Extreme Team Productions Sites' Terms and Conditions and this Privacy Policy. 
+We may also contact you to confirm your registration and about your account status and regarding changes to the ExtremeFitness Sites' Terms and Conditions and this Privacy Policy. 
 
 If you give us your permission, we may also use personal identification information for internal or external marketing and promotional purposes. On occasion, for example, we may send you e-mails to introduce a product or service that we think might be of interest to the users of our sites. For us to obtain your permission to send you this information, we will give you an opportunity to "opt-in" at the time our request for your personal information is made. If you do "opt-in," you may choose to "opt-out" at any time, even after you have provided personal information, by following the procedures set forth below at the end of this Privacy Policy. Please note, however, that under certain circumstances, if you initially do not choose to "opt-in," or if you later "opt-out," you may not be eligible for certain benefits for which a name, e-mail address, telephone number or other personal identification information is needed.
 
-We have the following exceptions to these policies: We will release specific information about you or your account to comply with any valid legal process such as a search warrant, subpoena, statute or court order. We will also release specific information in special cases, such as if there is an attempted breach of the security of the Extreme Team Productions Sites, or a physical threat to you or others.
+We have the following exceptions to these policies: We will release specific information about you or your account to comply with any valid legal process such as a search warrant, subpoena, statute or court order. We will also release specific information in special cases, such as if there is an attempted breach of the security of the ExtremeFitness Sites, or a physical threat to you or others.
 
 Please note that if you give out personal information online -- for example, through a message board or chat room -- that information can be collected and used by third parties. Although we strive to protect our users' privacy, we cannot guarantee the security of information you post in these forums. You disclose such information at your own risk.
 
-**Privacy of Children** Extreme Team Productions understands that young people need special safeguards and privacy protection. We realize that they may not understand all the provisions of our policy or be able to make thoughtful decisions about the choices that are made available to our adult users. We urge all parents to participate in their children's exploration of the Internet and any online services, and to teach their children about protecting their personal information while online.
+**Privacy of Children** ExtremeFitness understands that young people need special safeguards and privacy protection. We realize that they may not understand all the provisions of our policy or be able to make thoughtful decisions about the choices that are made available to our adult users. We urge all parents to participate in their children's exploration of the Internet and any online services, and to teach their children about protecting their personal information while online.
 
-Extreme Team Productions has adopted the following special policies to protect the privacy of users who are under 13 years old:
-
-  * No information may be submitted on or to any of the Extreme Team Productions Sites by users under 13 without the consent of their parent or guardian.
-  * User under 13 may not register with the Extreme Team Productions Sites on their own. A user under 13 may be registered only by a parent or guardian.
-  * If a user under 13 wins a contest for which such user is eligible, notification and prizes will be sent to the parent or guardian who initially registered the user.
-  * No personal information concerning users under 13 will be used for any marketing or promotional purposes, either inside or outside of Extreme Team Productions.
-
-
+ExtremeFitness does not allow registrations of users under the age of 13. 
 
 **Non-Personal Identification Information And The Use Of Cookie Technology** We collect non-personal identification information through the use of "cookie" technology and/or IP address tracking. Non-personal identification information might include the browser you use, the type of computer, the operating systems, the Internet service providers and other similar information. Our system also automatically gathers information about the areas you visit on our sites and about the links you may select from within our site to other areas of the World Wide Web or elsewhere online.
 
@@ -39,14 +48,130 @@ We use such information in the aggregate to understand how our users as a group 
 
 We may share this aggregate statistical information with our partners, suppliers and other third parties, but we will not share any individual names, personal navigational or other personal information. Some of our advertisers may display ads on our sites which solicit or contain technology to collect information about our users for the advertisers, but we will not permit such advertisers to collect any personal information from our users within our sites.
 
-Most browsers are set to accept cookies. You can set your browser to refuse cookies, or to alert you when cookies are being sent. If you do so, please note that some parts of the Extreme Team Productions Sites, such as message boards, chats, shopping, contests and game areas, may not function properly.
+Most browsers are set to accept cookies. You can set your browser to refuse cookies, or to alert you when cookies are being sent. If you do so, please note that some parts of the ExtremeFitness Sites, such as message boards, chats, shopping, contests and game areas, may not function properly.
 
 **Links To Other Sites** Users will find advertising or other contents on our sites that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. In many cases, the links represent cooperative projects or are mutual links established with persons or entities connected with our sites. Although we initially visit the sites or services that are so linked, we do not control the contents or links that appear on these sites. In addition, these sites or services, including their contents and links, may be constantly changing. These sites and services may have their own privacy policiesn and customer service policies, or no policy (policies) at all. We encourage you to review the privacy policies of any third party sites or services before providing any of them with your personal information.
 
-**Security Policy** Protecting your privacy and your information is a top priority. We have taken careful measures to secure both your information and our physical premises. We exercise great care in providing secure transmission of your information from your PC to our servers. Our secure server software encrypts information, ensuring that all Internet transactions remain private (unless sent by an unsecured means, such as e-mail).
+**Security Policy** Protecting your privacy and your information is a top priority. We have taken careful measures to secure both your information and our physical premises.
 
-**Choice/Opt-Out** If you "opt-in" to receive information from Extreme Team Productions or others, you can change your mind later. If at any time you would like to stop receiving such information, you can just modify your profile and slect to not receive email notices from us.  
+**Choice/Opt-Out** If you "opt-in" to receive information from ExtremeFitness or others, you can change your mind later. If at any time you would like to stop receiving such information, you can just modify your profile and select to not receive email notices from us.  
   
-**Your Acceptance of These Terms** By using any of the Extreme Team Productions Sites, you signify your acceptance of our Privacy Policy. If you do not agree to this policy, please do not use our sites. Your continued use of the Extreme Team Productions Sites following the posting of changes to these terms will mean that you accept those changes.
+**Your Acceptance of These Terms** By using any of the ExtremeFitness Sites, you signify your acceptance of our Privacy Policy. If you do not agree to this policy, please do not use our sites. Your continued use of the ExtremeFitness Sites following the posting of changes to these terms will mean that you accept those changes.
 
-(Last modified on April 18th, 2001.)
+(Last modified on Apr 19th, 2005.)  
+  
+---  
+**DMCA Policy**
+
+  * Digital Millennium Copyright Act Policy
+  * Notice to Owners of Copyrighted Works
+  * How to Write a Proper DMCA Notice
+  * Sending The Proper DMCA Notice to the Designated Agent
+  * What We Do When We Receive A Proper DMCA Notice
+  * Notice and Takedown Procedure
+  * Notice to Users of ExtremeFitness.Com Systems
+  * Writing and Submitting a Counter-notification
+  * Writing a Counter-notification
+  * Sending the Counter-notification
+  * Repeat Infringers
+  * Accommodation of Standard Technical Measures
+  * Policy With Regard To Non-Compliant Communications
+  * Submission of Misleading Information
+
+
+
+#### Digital Millennium Copyright Act Policy
+
+ExtremeFitness.Com is an Online Service Provider under Title II of the Digital Millennium Copyright Act, 17 U.S.C. Section 512 ("DMCA"). ExtremeFitness.Com respects the legitimate rights of copyrights owners, and has adopted an efficient notice and takedown procedure as required by the DMCA and described herein. This policy is intended to guide copyright owners in utilizing that procedure, and also to guide webmasters in restoring access to websites that are disabled due to mistake. 
+
+#### Notice to Owners of Copyrighted Works
+
+The DMCA provides a legal procedure by which you can request any Online Service Provider to disable access to a website where your copyrighted work(s) are appearing without your permission. There are two parts to the legal procedure: (1) Writing a Proper DMCA Notice, and (2) Sending the Proper DMCA Notice to ExtremeFitness.Com Designated Agent. 
+
+#### How to Write a Proper DMCA Notice
+
+A Proper DMCA Notice will notify ExtremeFitness.Com of particular facts in a document signed under penalty of perjury. We refer to this as a “Proper DMCA Notice.” To Write a Proper DMCA notice, please provide the following information:
+
+  1. Identify yourself as either: 
+    1. The owner of a copyrighted work(s), or
+    2. A person “authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.”
+  2. State your contact information, including your TRUE NAME, street address, telephone number, and email address.
+  3. Identify the copyrighted work that you believe is being infringed, or if a large number of works are appearing at a single website, a representative list of the works.
+  4. Identify the material that you claim is infringing your copyrighted work, to which you are requesting that ExtremeFitness.Com disable access over the World Wide Web.
+  5. Identify the location of the material on the World Wide Web by providing “information reasonably sufficient to permit ExtremeFitness.Com to locate the material.”
+  6. State that you have “a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agents, or the law.”
+  7. State that the information in the notice is accurate, under penalty of perjury.
+
+
+
+Sign the notice with either a physical or electronic signature. 
+
+#### Sending The Proper DMCA Notice to the Designated Agent
+
+To exercise your DMCA rights, you must send your Proper DMCA Notice to the following agent designated by ExtremeFitness.Com (the “Designated Agent”.) The contact information for ExtremeFitness.Com's Designated Agent is:
+
+Address: 14001-C Saint Germain Drive, PMB 165 Centreville, VA 20121-2338
+
+Email: [webmaster@extremefitness.com](mailto:webmaster@extremefitness.com)
+
+#### What We Do When We Receive A Proper DMCA Notice
+
+ExtremeFitness.Com will follow the procedures provided in the DCMA, which prescribed a notice and takedown procedure, subject to the webmaster’s right to submit a Counter-notification claiming lawful use of the disabled works. 
+
+#### Notice and Takedown Procedure
+
+It is expected that all users of any part of the ExtremeFitness.Com system will comply with applicable copyright laws. However, if ExtremeFitness.Com is notified of claimed copyright infringement, or otherwise becomes aware of facts and circumstances from which infringement is apparent, it will respond expeditiously by removing, or disabling access to, the material that is claimed to be infringing or to be the subject of infringing activity. ExtremeFitness.Com will comply with the appropriate provisions of the DMCA in the event a counter notification is received by its Designated Agent. 
+
+#### Notice to Users of ExtremeFitness.Com Systems
+
+Pursuant to the Terms of Service Agreement you agreed to when you were permitted to become a System User, you are required to use only lawfully-acquired creative works as website content, and your website may be disabled upon receipt of notice that infringing material is appearing there. ExtremeFitness.Com also respects the legitimate interests of webmasters in utilizing media content lawfully, being permitted to present a response to claims of infringement, and obtaining timely restoration of access to a website that has been disabled due to a copyright complaint.
+
+Your System Use privileges can also be suspended. You may protest a DMCA notice by submitting a Counter-notification as described below. 
+
+#### Writing and Submitting a Counter-notification
+
+If access to your website is disabled due to operation of the ExtremeFitness.Com notice and takedown procedure described above, and you believe the takedown was improper, you must submit a Counter-notification. 
+
+#### Writing a Counter-notification
+
+To Write a Proper Counter-notification, please provide the following information:
+
+  1. State that access to your website was disabled due to operation of the notice and takedown procedure.
+  2. Identify the material that has been removed and designate its URL prior to removal.
+  3. State, under penalty of perjury: 
+    1. Your name, address, and telephone number,
+    2. That you “have a good faith belief that the material was removed or disabled as result of mistake or misidentification of the material,"
+    3. That you “consent to the jurisdiction of the Federal District Court for the judicial district in which the address is located."
+
+
+
+#### Sending the Counter-notification
+
+To exercise your DMCA rights, you must send your Counter-notification to the “Designated Agent” for ExtremeFitness.Com, whose contact information is:
+
+Address: 14001-C Saint Germain Drive, PMB 165 Centreville, VA 20121-2338
+
+Email: [webmaster@extremefitness.com](mailto:webmaster@extremefitness.com)
+
+#### Repeat Infringers
+
+ExtremeFitness.Com may, in its discretion, use all appropriate means to terminate user access to its system or network who are repeat infringers. 
+
+#### Accommodation of Standard Technical Measures
+
+It is ExtremeFitness.Com's policy to accommodate and not interfere with standard technical measures it determines are reasonable under the circumstances, i.e., technical measures that are used by copyright owners to identify or protect copyrighted works. 
+
+#### Policy With Regard To Non-Compliant Communications
+
+ExtremeFitness.Com has discretion to handle non-compliant notices in whatever manner appears to be reasonable given the circumstances presented. 
+
+#### Submission of Misleading Information
+
+The submission of misleading information of any sort in a notification or counter-notification submitted to ExtremeFitness.Com voids any claim of right made by the submitting party. 
+
+« Back  
+  
+All times are GMT -5. The time now is 02:58 AM.
+
+|   
+---|---
