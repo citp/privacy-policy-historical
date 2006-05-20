@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the makeup.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231063026id_/http%3A//www.makeup.com/security.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makeup.com privacy policy that was archived on 2006-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060520192118id_/http%3A//www.makeup.com/privacy.jsp) for the most accurate reproduction.*
 
-# Privacy & Security at US Makeup.com - Discount Prices on Top-Selling Makeup & Skin Care Product
+# Makeup.com
 
 We value our customers and endeavor to create an enjoyable and valuable experience on our website. The following Privacy Policy applies to all visitors of Makeup.com:
 
