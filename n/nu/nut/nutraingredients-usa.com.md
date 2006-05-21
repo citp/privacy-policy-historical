@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nutraingredients-usa.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221072044id_/http%3A//nutraingredients-usa.com/misc/misc.asp%3Fidmisc%3D12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutraingredients-usa.com privacy policy that was archived on 2006-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060521223722id_/http%3A//nutraingredients-usa.com/misc/misc.asp%3Fidmisc%3D12) for the most accurate reproduction.*
 
 # Health food, Nutritional supplements - Energy drinks, Sport nutrition - Vitamins
 
