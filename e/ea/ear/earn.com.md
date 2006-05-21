@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earn.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210082239id_/http%3A//www.corporate.com/privacyPolicy.jsp%23_Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earn.com privacy policy that was archived on 2006-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060521105352id_/http%3A//www.corporate.com/privacyPolicy.jsp%23_Privacy) for the most accurate reproduction.*
 
 # The Company Corporation Privacy Policy - The Company Corporation - INCORPORATE NOW!
 
@@ -6,7 +6,7 @@ Guarantee
 Refund/Cancellation Policy  
 Registered Agent Services  
 Privacy Policy  
-[Terms and Conditions](https://web.archive.org/web/20051210082239id_/http%3A//www.corporate.com/termsConditions.jsp)
+[Terms and Conditions](https://web.archive.org/web/20060521105352id_/http%3A//www.corporate.com/termsConditions.jsp)
 
 **Guarantee:**  
 The Company Corporation®(TCC) strives for zero defects; therefore, we will promptly fix and assume all costs associated with errors made by TCC.
@@ -23,7 +23,7 @@ The fifty dollar ($50.00) preparation fee required to provide the documentation 
 Payments for Registered Agent service are nonrefundable.
 
 **Registered Agent Services:**  
-Registered agent services for the first year is included in The Company Corporation's (TCC) incorporation/LLC formation packages. Customers receive an invoice four months in advance of its due date to avoid any lapse in coverage. Payment is due 30 days after receipt of the invoice. Every state (except New York) requires a corporation or LLC to have a Registered Agent located in the state of formation to forward service of process and any official correspondence from the Secretary of State or equivalent office. Customers who wish to change their company's Registered Agent should do so prior to the start of their new coverage period. This also includes our exclusive ComplianceWatch service.
+Registered agent services for the first year is included in The Company Corporation's (TCC) incorporation/LLC formation packages. Customers receive an invoice four months in advance of its due date to avoid any lapse in coverage. Payment is due 30 days after receipt of the invoice. Every state requires a corporation or LLC to have a Registered Agent located in the state of formation to forward service of process and any official correspondence from the Secretary of State or equivalent office. Customers who wish to change their company's Registered Agent should do so prior to the start of their new coverage period. This also includes our exclusive ComplianceWatch service.
 
 **Privacy Policy:**  
 By accessing or using The Company Corporation website, you agree to The Company Corporation's Privacy Policy, as outlined below. The Company Corporation reserves the right to change the Privacy Policy from time to time at its sole discretion. Your use of this site will be subject to the most current version of the Privacy Policy at the time of such use.
