@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apartmentguide.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225092714id_/http%3A//www.apartmentguide.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apartmentguide.com privacy policy that was archived on 2006-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060521050943id_/http%3A//www.apartmentguide.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Apartments for rent - Privacy
 
