@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the timeatlas.com privacy policy that was archived on 2005-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050313170207id_/http%3A//www.timeatlas.com/mos/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D67%26Itemid%3D82) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeatlas.com privacy policy that was archived on 2006-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060521045828id_/http%3A//www.timeatlas.com/mos/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D67%26Itemid%3D82) for the most accurate reproduction.*
 
-# Privacy Policy - …linking technology and productivity for Windows users
+# - Privacy Policy
 
 This privacy statement covers the practices used for [WWW.TIMEATLAS.COM](http://www.timeatlas.com/).
 
@@ -20,11 +20,15 @@ _**Orders**_
 
 Our payment processor, PayPal, requests additional information from the subscriber. A user must provide contact information (such as name and email) and financial information (such as credit card number, expiration date). This information is used for billing purposes and to fill customer orders. If we have trouble processing an order, the information is used to contact the user. **We do not have access to your PayPal financial data.**
 
+_**Weekly Email Updates**_
+
+We also use the services of Zookoda to deliver our weekly email updates. Although we initiate the updates, the subscriber's email addresses are kept on their secure servers. A user may unsubscribe from the service by clicking the link on the update emails. We also have the ability to remove an email subscriber if needed.
+
 ### _Information Use_
 
 ### _**Cookies**_
 
-A cookie is a piece of data stored on the user's computer tied to information about the user. Without this cookie, a member will only see those articles which are coded for all users. Members also have the option of having the system remember their login. The system will create two persistant cookies, one which contains the username and the other the user password. Each cookie will expire one year from the date of creation. In addition to these optional cookies, a session cookie is also creation for all users. This cookie does not include any persoanl information.
+A cookie is a piece of data stored on the user's computer tied to information about the user. Without this cookie, a member will only see those articles which are coded for all users. Members also have the option of having the system remember their login. The system will create two persistent cookies, one which contains the username and the other the user password. Each cookie will expire one year from the date of creation. In addition to these optional cookies, a session cookie is also creation for all users. This cookie does not include any personal information.
 
 _**Log Files**_
 
@@ -42,12 +46,12 @@ We use several third parties to provide specific content and ads. These third pa
 
 ### _**Links**_
 
-This Web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+This Web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of the other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
 
 ###   
 **_Email-A-Friend_**
 
-If a user elects to use our referral service by emailing a friend an article link, we ask them for the friend's name and email address. Productivity Portfolio will automatically send the friend a one-time email inviting them to visit the site. Productivity Portfolio uses this information for the sole purpose of sending this one-time email. The friends email address is not retained. 
+If a user elects to use our referral service by emailing a friend an article link, we ask them for the friend's name and email address. Productivity Portfolio will automatically send the friend a one-time email inviting them to visit the site. Productivity Portfolio uses this information for the sole purpose of sending this one-time email. The friend's email address is not kept. 
 
 ### _Security_
 
@@ -65,5 +69,3 @@ _**Notification of Changes**_
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected.
 
 If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change. In some cases where we post a notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.
-
-Last updated: Feb 9th, 2005
