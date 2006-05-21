@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the news-gazette.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010040618id_/http%3A//www.news-gazette.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news-gazette.com privacy policy that was archived on 2006-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060521230315id_/http%3A//www.news-gazette.com/privacy) for the most accurate reproduction.*
 
-# privacy.html
+# News-Gazette.com: Privacy Policy
 
 ## The News-Gazette Online Privacy Policy
 
-  
 The News-Gazette Online takes your privacy concerns seriously. The following policy explains our position on information gathering and how we use any user data we collect.
 
-We will not give your phone number to any telemarketing department or sell your e-mail address to any company, for any mailing list, no matter how noble the cause. 
+We will not give your phone number to any telemarketing department or sell your e-mail address to any company, for any mailing list, no matter how noble the cause.   
+
 
 ### Information about you specifically
 
@@ -17,7 +17,8 @@ When you fill out a form on our site, we ask for this information: name, address
 
 We do not sell or use any of this personal information outside of our department (The News-Gazette Electronic Publishing Department). We do not disclose your personal information to any third party unless compelled by law. All of our employees who have access to your personal information are obliged to keep it confidential.
 
-There is an option on the contest entry form to choose to be notified of future contests by e-mail. If you click "yes," we will e-mail you when we begin a new contest. If you click "no," we'll leave you alone. If you don't want to receive these e-mails any more, simply reply to the message with the word "remove" in either the subject line or the message or, if it makes you feel better, both.
+There is an option on the contest entry form to choose to be notified of future contests by e-mail. If you click "yes," we will e-mail you when we begin a new contest. If you click "no," we'll leave you alone. If you don't want to receive these e-mails any more, simply reply to the message with the word "remove" in either the subject line or the message or, if it makes you feel better, both.  
+
 
 ### Information about you in general
 
@@ -35,7 +36,8 @@ We also do not allow anyone under the age of 13 to register for contest notifica
 
 Our Web site may allow you to communicate with other visitors or to post information to be accessed by others. When you use these services, your data may be collected by other visitors. This includes [resumes](http://www.news-gazette.com/resumes/resumes.html) and any information you include in a [classified ad](http://www.news-gazette.com/classifieds) that appears online.
 
-In addition, we occasionally have banner advertising from advertising networks, such as ValueClick, which does use cookies. For more on ValueClick's privacy policy, go to [http://valueclick.com/privacy.html.](http://valueclick.com/privacy.html)
+In addition, we occasionally have banner advertising from advertising networks, such as ValueClick, which does use cookies. For more on ValueClick's privacy policy, go to [http://valueclick.com/privacy.html.](http://valueclick.com/privacy.html)  
+
 
 ### Cookies
 
@@ -55,10 +57,4 @@ Unfortunately, no data transmission over the Internet can be guaranteed to be 10
 
 For more information about Internet privacy, visit the Electronic Frontier Foundation at <http://www.eff.org/>.
 
-If you have questions about our privacy policy, please contact Jean McDonald at [epub@news-gazette.com.](mailto:epub@news-gazette.com)
-
-[](http://www.news-gazette.com/)
-
-### [Return to The News-Gazette Online Home Page](http://www.news-gazette.com/)
-
-[©2001 The News-Gazette](https://web.archive.org/AboutNG/copyright/index.html)
+If you have questions about our privacy policy, please contact us via our [feedback form](https://web.archive.org/feedback/)
