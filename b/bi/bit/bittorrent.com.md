@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bittorrent.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221052723id_/http%3A//www.bittorrent.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bittorrent.com privacy policy that was archived on 2006-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060522234215id_/http%3A//bittorrent.com/privacy.myt) for the most accurate reproduction.*
 
-# BitTorrent - Privacy Policy
+# BitTorrent
 
 BitTorrent.com, and the other websites and intellectual property and proprietary information associated therewith (the "Sites"), and the various services provided through the Sites (the "Services"), are owned and operated by BitTorrent, Inc., its affiliates and subsidiaries ("we" "us" or "BitTorrent"). BitTorrent is committed to respecting the privacy rights and concerns of all users of our Sites and Services (we refer to the Sites and Services collectively as the "BitTorrent Features"). As such, we have established and implemented this privacy policy to inform visitors to the Sites and users of the Services how we use and protect the information we collect. If you have any questions regarding this information or our privacy practices, please see the section entitled "Questions? Contact Us" at the end of this privacy policy. 
 
@@ -12,9 +12,7 @@ Each time a visitor comes to a Site, we collect some limited information that yo
 
 In addition to collecting these types of information, BitTorrent collects aggregate queries for internal reporting and targeted advertising. We also count, track, and aggregate the visitor's activity into our analysis of general traffic flows at our sites (e.g. tracking where traffic comes from, how traffic flows within the Sites, etc.). To these ends, we may merge information about you into group data, which may then be shared on an aggregated basis with our advertisers; but BitTorrent will not disclose your individual identity or personal data without your permission.
 
-In the event that you provide us with answers to voluntary survey questions, we may present this information to our advertisers and partners, in the form of grouped statistics compiled from our users' answers to such questions.
-
-  
+In the event that you provide us with answers to voluntary survey questions, we may present this information to our advertisers and partners, in the form of grouped statistics compiled from our users' answers to such questions. 
 
   * Gathering and Use of Personally Identifiable Information
 
@@ -59,7 +57,7 @@ In an attempt to provide increased value to our visitors, we may choose various 
 
 ### Notification of changes.
 
-By visiting the Site or using the Services, you consent to the collection and use of information by us as set forth in this privacy policy. If we decide to change our privacy policy, we will post those changes within this page so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+By visiting the Site or using the Services, you consent to the collection and use of information by us as set forth in this privacy policy. If we decide to change our privacy policy, we will post those changes within this page so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
 
 ### Questions? Contact us.
 
@@ -74,6 +72,3 @@ If you have any questions about our privacy practices, please do not hesitate to
 ### Terms and Conditions.
 
 Please also read the Terms of Service establishing the use, disclaimers, and limitations of liability governing the use of the Site, the Services and the other BitTorrent services and applications. 
-    
-    
-    ©2005 BitTorrent, Inc.  All rights reserved.
