@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplenote.com privacy policy that was archived on 2005-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051102122729id_/http%3A//www.simplenote.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplenote.com privacy policy that was archived on 2006-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060522161759id_/http%3A//www.simplenote.com/privacy.aspx) for the most accurate reproduction.*
 
 # Simple Note - Privacy Policy
 
