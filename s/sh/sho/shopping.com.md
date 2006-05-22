@@ -1,22 +1,20 @@
-> *The following text is extracted and transformed from the shopping.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230013312id_/http%3A//shopping.com/aa14-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopping.com privacy policy that was archived on 2006-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060522150850id_/http%3A//www.shopping.com/aa14-privacy) for the most accurate reproduction.*
 
 # Shopping.com - Find, Compare, and Buy Anything in Seconds
 
-Privacy Policy
-
 May 25th, 2005
 
-Your Privacy
+### Your Privacy
 
 Shopping.com, Epinions.com, DealTime.com and PriceTool.com (the "Sites") are brought to you by Shopping.com, Inc. ("Shopping.com"). Shopping.com believes that trust is an important component of the service we provide to our customers. To ensure that we earn and keep that trust, Shopping.com makes every effort to protect your privacy and the confidentiality of your personal information. This Privacy Policy is provided to inform you about Shopping.com's collection, use and disclosure of information you choose to share with us through the Sites. 
 
 This Privacy Policy is considered to be a part of Shopping.com's [User Agreement](https://web.archive.org/aa17-user_agreement). By using the Sites you agree to the terms and conditions of the User Agreement, including this Privacy Policy. By using the Sites, you are also consenting to Shopping.com's privacy practices, including the use and disclosure of any personally identifiable information that you have shared with us, as described in this Privacy Policy. 
 
-Minor's Privacy
+### Minor's Privacy
 
 The Sites are not targeted towards, or intended for use by anyone under the age of 18. By using the Sites you represent and warrant that you are 18 years of age or older. We reserve the right to terminate your membership in the event that Shopping.com becomes aware you are under 18. Persons under 18 may not submit any personally identifiable information to us, and if we discover that we have inadvertently gathered such information, we will take the appropriate steps to delete it.
 
-What Information We Collect
+### What Information We Collect
 
 **Information You Give Us.** The use of certain features and services on the Sites requires that you register and supply personally identifiable information such as your name, email address, telephone number and other information, which is stored by Shopping.com. When you register as a member of the Sites, we may also collect additional information from you in order to provide you with those specific services and to personalize your experience on the Sites. For example, Epinions.com users may provide more information using features such as Wish Lists, and that information will be stored with your user profile.
 
@@ -28,11 +26,11 @@ You can block cookies by changing the settings on your browser (contact your ISP
 
 **Other Data Collection.** We may get data from or about you in other ways not specifically described in this statement. For example, you might contact Community Care or customer support, or we may get a third party complaint about you. 
 
-Use of Information by Shopping.com
+### Use of Information by Shopping.com
 
 Information you provide to us through the Sites is used by Shopping.com to operate the Sites, provide you with information and services you request, and to communicate with you. We may, for example, use information you provide to target ads that we think you may be interested in, or send emails to you including newsletters and alerts. Your information may also be used to contact you when necessary (such as to assist you in your use of the Sites). You may always choose not to provide us with this information; however, this may limit our ability to provide you with a specific service. You may opt-out of receiving future mailings at any time (see the Choice/Opt-Out section below); however, you may not opt-out of some administrative emails (such as emails about User Agreement changes or communications about Eroyalties or rebates earned in the Shopping.com Cash Back Program) while you are a member with one or more of our Sites.
 
-Sharing and Disclosure of Information
+### Sharing and Disclosure of Information
 
 **Aggregated Research Data.** Shopping.com produces research reports and other information and data about online shopping for participating merchants, and other customers, as well as media and other interested parties. Such information and data are based on aggregated, anonymous information about millions on online shoppers and do not include any personally identifiable information about individuals. 
 
@@ -52,7 +50,7 @@ Third party ad servers (including DoubleClick) may place or recognize a cookie a
 
 We may disclose information when required by law or under the good-faith belief that such disclosure is necessary in order to conform to applicable law, comply with legal process served on Shopping.com, or to protect the property or interests of Shopping.com, its agents and employees, personal safety, or the public. Under such circumstances, Shopping.com may be prohibited by law, court order or other legal process from providing notice of the disclosure, and Shopping.com reserves the right not to provide such notice in its sole discretion. 
 
-Other Use and Disclosure of Information for the Sites
+### Other Use and Disclosure of Information for the Sites
 
 **Content and Ratings.** You can publish reviews, comments and other content. Members can choose to rate products or reviews, and to create a web of trust. As an unregistered visitor, we may allow you to rate products and/or reviews.
 
@@ -68,35 +66,35 @@ We, and our licensees, can republish your content as described in our User Agree
 
 **Feedback.** We may ask for your feedback through a survey, and we may use the results for our internal development and marketing research. We may also share the results with our affiliates, consultants, vendors and service providers.
 
-Links to Other Sites
+### Links to Other Sites
 
 The Sites contain links to other web sites. Shopping.com is not responsible for the privacy practices or the content of these sites. If you have concerns about how other web sites collect and use information about you, make sure to read that site's own privacy policy.
 
-Changing or Deleting Information About You
+### Changing or Deleting Information About You
 
 Registered members may update or edit personal information or delete their membership account by accessing their Member Profile or Account information. We try to implement changes to our databases as quickly as possible. However, not all databases may be updated immediately, and some old data may remain in our archives and records. Also, we may be unable to send changes you make to partners, vendors or third party service providers who have already received your data or content. If your account or membership is being terminated or suspended, we may maintain some data to prevent re-registration.
 
 We will retain in our files information you have requested to delete in some circumstances, such as to REsolve disputes, analyze programs and enforce our User Agreement. Furthermore, such prior information is never completely removed from our databases due to technical and legal constraints, including stored "back up" systems.
 
-Choice/Opt-Out of Shopping.com Email Communications
+### Choice/Opt-Out of Shopping.com Email Communications
 
 At any time (and except for administrative emails discussed above), you have the ability to opt-out of receiving communications from Shopping.com and our partners. To unsubscribe from the Shopping.com email newsletter, contact [Customer Support](https://web.archive.org/aa24-contact_cs) and let us know that you would like to discontinue this service. In addition, each of our email messages contains a link at the bottom of the email for purposes of adjusting your email subscription preferences or to be removed from our mailing list.
 
-Security
+### Security
 
 Shopping.com uses physical, electronic and administrative safeguards, including advanced firewall and password protection for our databases, designed to protect the security of data. We restrict access to your personally identifying information to employees that need to know that information in order to operate, develop or improve our services. 
 
-Notification of Changes
+### Notification of Changes
 
 This Privacy Policy may be revised over time as our business grows and evolves. We will post any new privacy policy, along with the date of its last revision, prominently so that you will always know what information we gather, how we use that information, and whether we will disclose it to anyone. Please check the Sites regularly for information about revisions to our privacy policy. If you would like to receive email notification of any such changes, please contact [Customer Support](https://web.archive.org/aa24-contact_cs) requesting the same.
 
-Anti-Spam Policy
+### Anti-Spam Policy
 
 Shopping.com is 100% opposed to unsolicited commercial email or spam. We do not send emails to anyone without permission and we do not sell or provide email addresses to any unauthorized third party. If you receive any unsolicited emails from spammers, please be assured that Shopping.com did not provide your email addresses to such parties. This does not mean that we can prevent spam from happening on the Internet. 
 
 If you believe that you have received an unsolicited email from us, please contact our [Privacy Department](https://web.archive.org/aa27-cs_form?subject=Privacy%20Issues) and we will investigate. 
 
-Contact Us
+### Contact Us
 
 If you have any questions about this Privacy Policy, the practices of the Sites or Shopping.com, you may contact:  
 Shopping.com, Inc.  
