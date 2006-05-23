@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drsfostersmith.com privacy policy that was archived on 2005-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050322083028id_/http%3A//www.drsfostersmith.com/general.cfm%3Fgid%3D320%26ref%3D3232%26subref%3DAE) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drsfostersmith.com privacy policy that was archived on 2006-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060523024215id_/http%3A//www.drsfostersmith.com/general.cfm%3Fgid%3D320) for the most accurate reproduction.*
 
 # Customer Service: Privacy & Security
 
@@ -27,17 +27,7 @@ We believe that your email address is private information and you have our assur
 
 _We will always try to contact you by phone if we have a question about an order you placed. If we are unable to reach you by phone, we may also try to contact you by email._
 
-There are basically three ways to get on Drs. Foster & Smith's email subscription list: 
-
-  1. **Subscribe Online** & we'll send you the newsletters you sign up for. 
-  2. **Request a Print Catalog Online or by Phone** & we'll automatically sign you up for related pet emails using the address you provide. 
-  3. **Make a Purchase Online or by Phone** & we'll automatically sign you up for related pet emails using the same address you provide for shipping confirmation.
-
-
-
-[ back to top ]
-
-Every purchase qualifies you for additional newsletter subscriptions, whether you are a new or existing subscriber. You may opt out at any time from any or ALL newsletters in the series, either online or by using the links provided in every newsletter issue. 
+You may opt out at any time from any or ALL newsletters in the series, either online or by using the links provided in every newsletter issue. 
 
 [ back to top ]
 
