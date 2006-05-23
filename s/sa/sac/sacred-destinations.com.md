@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sacred-destinations.com privacy policy that was archived on 2005-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051018185440id_/http%3A//www.sacred-destinations.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sacred-destinations.com privacy policy that was archived on 2006-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060523204705id_/http%3A//sacred-destinations.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
