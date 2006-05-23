@@ -1,823 +1,783 @@
-<!--The following is the downloaded HTML source of the moving.com privacy policy that was archived on 2004-10-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041012104130id_/http%3A//www.moving.com/footer/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the moving.com privacy policy that was archived on 2006-05-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060523074632id_/http%3A//www.moving.com/About_Us/Privacy_Policy) for the most accurate reproduction.-->
 
-<html><head>
-
-<title>Moving.com - Find Moving Companies, Real Estate Agents, Mortgage Quotes and more</title>
-<meta name="keywords" content="Moving,Relocation,moving company,moving cost,Mover,movers,moving truck,truck rental,moving supplies,moving calculator,real estate,listings,real estate agent,commercial real estate,realstate,insurance,mortgage,mortgages,loans,from,moving to">
-<meta name="description" content="We offer a one-stop relocation solution: moving companies, real estate, insurance, mortgage, auto shippers, guides and calculators.">
-
-<meta name="distribution" content="GLOBAL">
-<meta name="robots" content="index,follow">
-
-<!--	
-	Dim MyService(17)
-	MyService(1) = "Moving"
-	MyService(2) = "Moving"
-	MyService(3) = "Moving"
-	MyService(4) = "Moving"
-	MyService(5) = "Moving"
-	MyService(6) = "Storage"
-	MyService(7) = "Storage"
-	MyService(8) = "packing"
-	MyService(9) = "packing"
-	MyService(10) = "Real Estate Agents"
-	MyService(11) = "Real Estate Listing"
-	MyService(12) = "Mortgage"
-	MyService(13) = "Insurance"
-	MyService(14) = "Furniture"
-	MyService(15) = "Auto Shipping"
-	MyService(16) = "Move - Do-It-Yourself"
-	MyService(17) = "Truck Rental"
-	
-	%>-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2 Final//EN"><html><head>
+<title>Moving.com: Changing the way people move</title>
+<meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
+<link rel="stylesheet" type="text/css" href="/include/i_siteStyle.css">
 
 
 
 
 
-	<!-- include virtual = "v_includes/RefererTrackTop.asp"-->
-
-<script language="javascript">
+<!------ OAS SETUP begin ------>
+<script language="JavaScript">
 <!--
-/**
- * DHTML date validation script.
- */
-// Declaring valid date character, minimum year and maximum year
-
-var dtCh= "/";
-var minYear=1900;
-var maxYear=3000;
-
-function isInteger(s){
-	var i;
-    for (i = 0; i < s.length; i++){   
-        // Check that current character is number.
-        var c = s.charAt(i);
-        if (((c < "0") || (c > "9"))) return false;
-    }
-    // All characters are numbers.
-    return true;
+//configuration
+OAS_url = 'http://oascentral.moving.com/RealMedia/ads/';
+OAS_sitepage = 'Moving.com/About_Us_Privacy_Policy';
+OAS_listpos = 'x01,x02,x03,x04,Bottom';
+OAS_query = 'PLName=www.moving.com';
+OAS_target = '_top';
+//end of configuration
+OAS_version = 10;
+OAS_rn = '001234567890'; OAS_rns = '1234567890';
+OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring (2, 11);
+function OAS_NORMAL(pos) {
+document.write('<A HREF="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@'
++ OAS_listpos + '!' + pos + '?' + OAS_query + '" TARGET=' + OAS_target + '>');
+document.write('<IMG SRC="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' + OAS_rns +
+'@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" BORDER=0></A>');
 }
-
-function stripCharsInBag(s, bag){
-	var i;
-    var returnString = "";
-    // Search through string's characters one by one.
-    // If character is not in bag, append to returnString.
-    for (i = 0; i < s.length; i++){   
-        var c = s.charAt(i);
-        if (bag.indexOf(c) == -1) returnString += c;
-    }
-    return returnString;
-}
-
-function daysInFebruary (year){
-	// February has 29 days in any year evenly divisible by four,
-    // EXCEPT for centurial years which are not also divisible by 400.
-    return (((year % 4 == 0) && ( (!(year % 100 == 0)) || (year % 400 == 0))) ? 29 : 28 );
-}
-function DaysArray(n) {
-	for (var i = 1; i <= n; i++) {
-		this[i] = 31
-		if (i==4 || i==6 || i==9 || i==11) {this[i] = 30}
-		if (i==2) {this[i] = 29}
-   } 
-   return this
-}
-
-function isDate(dtStr){
-	var daysInMonth = DaysArray(12)
-	var pos1=dtStr.indexOf(dtCh)
-	var pos2=dtStr.indexOf(dtCh,pos1+1)
-	var strMonth=dtStr.substring(0,pos1)
-	var strDay=dtStr.substring(pos1+1,pos2)
-	var strYear=dtStr.substring(pos2+1)
-	strYr=strYear
-	if (strDay.charAt(0)=="0" && strDay.length>1) strDay=strDay.substring(1)
-	if (strMonth.charAt(0)=="0" && strMonth.length>1) strMonth=strMonth.substring(1)
-	for (var i = 1; i <= 3; i++) {
-		if (strYr.charAt(0)=="0" && strYr.length>1) strYr=strYr.substring(1)
-	}
-	month=parseInt(strMonth)
-	day=parseInt(strDay)
-	year=parseInt(strYr)
-	//alert("month  :" + month)
-	//alert("Day  :" + day)
-	if (isNaN(month)){
-		alert("Please enter a valid month")
-		return false
-	}
-
-	if (isNaN(day)){
-		alert("Please enter a valid day")
-		return false
-	}
-	if (pos1==-1 || pos2==-1){
-		alert("The date format should be : mm/dd/yyyy")
-		return false
-	}
-	if (month<1 || month>12){
-		alert("Please enter a valid month")
-		return false
-	}
-	if (day<1 || day>31 || (month==2 && day>daysInFebruary(year)) || day > daysInMonth[month]){
-		alert("Please enter a valid day")
-		return false
-	}
-	if (strYear.length != 4 || year==0 || year<minYear || year>maxYear){
-		alert("Please enter a valid 4 digit year between "+minYear+" and "+maxYear)
-		return false
-	}
-	if (dtStr.indexOf(dtCh,pos2+1)!=-1 || isInteger(stripCharsInBag(dtStr, dtCh))==false){
-		alert("Please enter a valid date")
-		return false
-	}
-return true
-}
-
-// email
-	function checkEmail (strng) {
-		var error="";
-		if (strng == "") {
-		   error = "You didn't enter an email address.\n";
-		}
-
-		    var emailFilter=/^.+@.+\..{2,3}$/;
-		    if (!(emailFilter.test(strng))) { 
-		       error = "Please enter a valid email address.\n";
-		    }
-		    else {
-		//test email for illegal characters
-		       var illegalChars= /[\(\)\<\>\,\;\:\\\"\[\]]/
-		         if (strng.match(illegalChars)) {
-		          error = "The email address contains illegal characters.\n";
-		       }
-		    }
-		return error;    
-	}						
-	
-	// non-empty textbox
-	function isEmpty(strng) {
-		var error = "";
-		  if (strng.length == 0) {
-		     error = "The mandatory text area has not been filled in.\n"
-		  }
-		return error;	  
-	}
-						
-	function trim(strText) { 
-	    while (strText.substring(0,1) == ' ') 
-	        strText = strText.substring(1, strText.length);
-	    while (strText.substring(strText.length-1,strText.length) == ' ')
-	        strText = strText.substring(0, strText.length-1);
-	   return strText;
-	} 
-	
-	// this will get rid of leading spaces 	
-	function ltrim(strText) { 
-	    while (strText.substring(0,1) == ' ') 
-	        strText = strText.substring(1, strText.length);
-	   return strText;
-	} 
-	
-	
-    // this will get rid of trailing spaces 
-	function rtrim(strText) { 
-	    while (strText.substring(strText.length-1,strText.length) == ' ')
-	        strText = strText.substring(0, strText.length-1);
-	   return strText;
-	} 
-  //################################################################################
-  // Author   : VIJAY
-  // Function : AutoAdvance the cursor to next field
-  // Example  : AutoAdvance(what,e,max,action)
-  //			what = object; e=Event; max=length; action=Action to be performed
-  // Event    :onKeyUp
-  //################################################################################
-  
-	function AutoAdvance(what,e,max,action){
-		var key;
-		if (navigator.appName == 'Netscape'){
-			//netscape
-			//alert(e.which);
-			if (e.which == 0) return false;
-			//alert (isNaN(what.value));
-			if (isNaN(what.value)){ 
-				alert("Please enter numbers in this field");
-				what.value="";
-				return false;
-			}
-		}
-		else{
-			//microsoft
-			//alert(window.event.keyCode);
-			key = window.event.keyCode;
-			if (key == 39) {window.event.keyCode=0; return false};
-			if (key == 37) {window.event.keyCode=0; return false};
-			if (!((key >= 48 && key <= 57) || (key>=96 && key<=105))) { window.event.keyCode=0; return false};
-		}
-		if (document.layers) {
-			//netscape
-			if (e.target.value.length >= max)
-			eval(action);
-		}
-		else if (document.all) {
-			//microsoft
-			if (what.value.length > (max-1))
-			eval(action);
-		}
-	}   
-
-  //################################################################################
-  // Author   : VIJAY
-  // Function : AutoAdvanceValidate the field
-  // Example  : AutoAdvanceValidate(what,e,max,action)
-  //			what = object; e=Event; max=length; action=Action to be performed
-  // Event    :onKeyPress
-  //################################################################################	 
-	function AutoAdvanceValidate(what,e,max,action){
-		var key;
-		    
-		if (navigator.appName == 'Netscape'){
-			if (e.which == 0) return false;
-		}
-		else{
-			key = window.event.keyCode;
-			if (key == 39) {window.event.keyCode=0; return false};
-			if (key == 37) {window.event.keyCode=0; return false};
-			if (key < 48 || key > 57) {window.event.keyCode=0; return false};
-		}
-	} 
-	
-	
-	
-	
-function fixFloat(fld)
-{ // decimal number check/complainer 
-  if(!fld.value) return true; // blank fields are the domain of requireValue 
-  var val= parseFloat(fld.value);
-  if(isNaN(val))
-  { // parse error 
-    status= 'The ' + fld.name + ' field must contain a number.';
-    return false;
-  }
-  fld.value= val;
-  return true;
-}
-
-
-
-  //################################################################################
-  // Author   : VIJAY
-  // Function : AutoValidateFloat
-  // Description : Alows only Float values only
-  // Example  : AutoValidateFloat(what,e,max,action)
-  //			what = object to be performed
-  // Event    :onKeyPress
-  //################################################################################	 
-	function AutoValidateFloat(what){
-		var RegExp;
-		var sValue;
-		RegExp=/[^0-9]/g;
-		sValue=new String(what.value);
-		RegExp=/[^0-9]/g;
-		what.value=sValue.replace(RegExp,"");
-		if (isInteger (what.value)==false) {
-			window.event.keyCode=0;
-			return false;
-		};
-		
-	}  
 //-->
-
 </script>
-	<link rel="stylesheet" type="text/css" href="/includes/styles.css">
- 
+<script language="JavaScript1.1">
+<!--
+OAS_version = 11;
+if ((navigator.userAgent.indexOf('Mozilla/3') != -1) ||
+(navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1))
+OAS_version = 10;
+if (OAS_version >= 11)
+document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' +
+OAS_sitepage + '/1' + OAS_rns + '@' +
+OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');//-->
+</script><script language="JavaScript1.1" src="http://oascentral.moving.com/RealMedia/ads/adstream_mjx.ads/Moving.com/About_Us_Privacy_Policy/1148589237@x01,x02,x03,x04,Bottom?PLName=www.moving.com"></script>
+<script language="JavaScript">
+<!--
+document.write('');
+function OAS_AD(pos) {
+if (OAS_version >= 11)
+OAS_RICH(pos);
+else
+OAS_NORMAL(pos);
+}
+//-->
+</script>
+<!------ OAS SETUP end ------>
+
 
 </head>
-<body bgcolor="#FFFFFF" text="#000000" marginwidth="0" leftmargin="0" topmargin="0" marginheight="0">
 
-<!-- 1 row == logo and stuff -->
-<table id="tblTopMost" align="center" width="770" bgcolor="#FFFFFF" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>
-<table id="tblMainLogo" align="center" width="770" bgcolor="#FFFFFF" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-  		<td width="270" rowspan="2" valign="bottom">
-		<a href="/default.asp"><img border="0" align="absmiddle" src="/images/moving_270.gif" alt="Moving.com - Moving, Mortgage, Real Estate"></a></td>
-		<td width="500" align="right" id="Text19">
-		<!-- (( top blue nav bar ))-->
-			<img src="/images/globe/top_right_nav2.gif" width="500" height="17" border="0" usemap="#top_right_nav2_Map">
-			<map name="top_right_nav2_Map">
-			<area shape="rect" alt="" coords="220,0,300,17" href="/vendor/">
-			<area shape="rect" alt="" coords="300,0,338,17" href="http://moving.monstermoving.com/Help/">
-			<area shape="rect" alt="" coords="340,0,439,17" href="/guide/">
-			<area shape="rect" alt="" coords="439,0,500,17" href="/footer/aboutus/aboutus.asp">
-			<!--AREA SHAPE="rect" ALT="Login Here!" COORDS="110,0,199,17" HREF="/vendor/"-->
-			</map>
-		</td>
-	</tr>
-	<tr>
-		<td height="70" align="center" width="550">
-<!-- Begin Top 468 Ad -->
+<body marginheight="0" marginwidth="0" leftmargin="0" rightmargin="0" topmargin="0" bottommargin="0">
 
-		<table width="468" align="right" border="0" cellspacing="0">
-		  	<tbody><tr>
-				<td align="right">
-					<!--Ad Tag-->
-					<iframe width="234" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://ads.monstermoving.com/html.ng/size=234x60&amp;site=move&amp;mmapp=home&amp;pp=1&amp;mml1=1&amp;mml2=31&amp;mml3=1977&amp;mmlx=1977&amp;mmcl1=4&amp;mmcl2=0&amp;mmcl3=0&amp;mmclx=4&amp;rand=834805"><script size="text/javascript" language="JavaScript1.1" src="http://ads.monstermoving.com/js.ng/Params.richmedia=yes&size=234x60&site=move&mmapp=mpindex&pp=1&mml1=1&mml2=31&mml3=1977&mmlx=1977&mmcl1=4&mmcl2=0&mmcl3=0&mmclx=4&rand=834805"></script><noscript><a href="http://ads.monstermoving.com/click.ng/Params.richmedia=yes&size=234x60&site=move&mmapp=home&pp=1&mml1=1&mml2=31&mml3=1977&mmlx=1977&mmcl1=4&mmcl2=0&mmcl3=0&mmclx=4&rand=834805"><img width="234" height="60" border="0" alt="" src="http://ads.monstermoving.com/image.ng/Params.richmedia=yes&size=234x60&site=move&mmapp=home&pp=1&mml1=1&mml2=31&mml3=1977&mmlx=1977&mmcl1=4&mmcl2=0&mmcl3=0&mmclx=4&rand=834805"></a><br clear="all"></noscript></iframe>
-					<!--/Ad Tag-->
-				</td>
-			</tr>
-		</tbody></table>
+<center>
+<!-- start of main header -->
+<!-- +++++++++++++++++++++++++++++++++++++ -->
+<!-- ---HERE ARE THE DYNAMIC MENU STYLES-- -->
+<!-- +++++++++++++++++++++++++++++++++++++ -->
+<style type="text/css">
+<!--
 
-
-<!-- End Top 468 Ad -->
-		</td>
-	</tr>
-</tbody></table>
-<!-- END 1 row -->
-
-<!-- File Name: inc_leftNavBar_nets.asp -->
-<!-- 2 row == main nav-->
-
-<script language="JavaScript">
-function popUp(url) {
-sealWin=window.open(url,"win",'toolbar=0,location=0,directories=0,status=1,menubar=1,scrollbars=1,resizable=1,width=500,height=450');
-self.name = "mainWin"; 
+.DivMenu {
+	position:absolute;
+	left:-200;
+	top:-1000;
+	z-index:100;
+	
 }
-</script>
-<script language="JavaScript">
-<!--	
-function changeImages() {
-	for (var i=0; i<changeImages.arguments.length; i+=2) {
-		document[changeImages.arguments[i]].src = changeImages.arguments[i+1];
-	}
+.menu {
+	color:#E1DAEB;
+	font-family:verdana;
+	font-size:11px;
+	text-align:center;
+	text-decoration:none;
+	cursor:default;
+}
+.menu a:link{
+	color:#E1DAEB;
+	text-decoration:none;
+}
+.menu a:visited{
+	color:#E1DAEB;
+	text-decoration:none;
+ }
+.menu a:hover{
+	color:#ffffff;
+	text-decoration:underline;
+}
+.menuPurple {
+	color:#660099;
+	background-color:#E5CCF2;
+	font-family:arial;
+	font-size:12px;
+	text-align:center;
+	text-decoration:none;
+}
+.menuPurple a:link{
+	color:#660099;
+	text-decoration:none;
+}
+.menuPurple a:visited{
+	color:#660099;
+	text-decoration:none;
+}
+.menuPurple a:hover{
+	color:#000000;
+	text-decoration:underline;
+}
+.menuRed {
+	color:#993300;
+	background-color:F2D9BF;
+	font-family:arial;
+	font-size:12px;
+	text-align:center;
+	text-decoration:none;
+}
+.menuRed a:link{
+	color:#993300;
+	text-decoration:none;
+}
+.menuRed a:visited{
+	color:#993300;
+	text-decoration:none;
+}
+.menuRed a:hover{
+	color:#000000;
+	text-decoration:underline;
+}
+.menuGreen {
+	color:#666600;
+	background-color:#E5E5CC;
+	font-family:arial;
+	font-size:12px;
+	text-align:center;
+	text-decoration:none;
+}
+.menuGreen a:link{
+	color:#666600;
+	text-decoration:none;
+}
+.menuGreen a:visited{
+	color:#666600;
+	text-decoration:none;
+}
+.menuGreen a:hover{
+	color:#000000;
+	text-decoration:underline;
+}
+.navLink a{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:10px;
+	color:#666666;
+	text-decoration:none;
+}
+.navLink a:hover{
+	text-decoration:underline;
+}
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
 }
 
 //-->
+</style>
+<script language="JavaScript">
+<!--
+
+//sniffers
+var ns = (navigator.appName.indexOf('Netscape')>-1);
+var ie = (navigator.appName.indexOf('Microsoft Internet Explorer')>-1);
+var isNS4 = (document.layers ? true : false);
+var hidingMenu;
+var timeout = null;
+var divMenuID;
+
+//image arrays
+moving_on = new Image
+moving_off = new Image
+truckrental_on = new Image
+truckrental_off = new Image
+mortgage_on = new Image
+mortgage_off = new Image
+insurance_on = new Image
+insurance_off = new Image
+realestate_on = new Image
+realestate_off = new Image
+storage_on = new Image
+storage_off = new Image
+//utilities_on = new Image
+//utilities_off = new Image
+//resources_on = new Image
+//resources_off = new Image
+
+
+//moving_on.src = "http://media.moving.com/moving/mvng/new/nav/nav_bar_on_05.gif"
+//moving_off.src = "http://media.moving.com/moving/mvng/new/nav/nav_bar_05.gif"
+//truckrental_on.src = "http://media.moving.com/moving/mvng/new/nav/nav_bar_on_tr.gif"
+//truckrental_off.src = "http://media.moving.com/moving/mvng/new/nav/nav_bar_tr.gif"
+//mortgage_on.src = "http://media.moving.com/moving/mvng/new/nav/nav_bar_on_06.gif"
+//mortgage_off.src = "http://media.moving.com/moving/mvng/new/nav/nav_bar_06.gif"
+//insurance_on.src = "http://media.moving.com/moving/mvng/new/nav/nav_bar_on_07.gif"
+//insurance_off.src = "http://media.moving.com/moving/mvng/new/nav/nav_bar_07.gif"
+//realEstate_on.src = "http://media.moving.com/moving/mvng/new/nav/nav_bar_on_08.gif"
+//realEstate_off.src = "http://media.moving.com/moving/mvng/new/nav/nav_bar_08.gif"
+//storage_on.src = "http://media.moving.com/moving/mvng/new/nav/nav_bar_on_09.gif"
+//storage_off.src ="http://media.moving.com/moving/mvng/new/nav/nav_bar_09.gif"
+//utilities_on.src = "http://media.moving.com/moving/mvng/new/nav/nav_bar_on_10.gif"
+//utilities_off.src = "http://media.moving.com/moving/mvng/new/nav/nav_bar_10.gif"
+//resources_on.src = "http://media.moving.com/moving/mvng/new/nav/nav_bar_on_11.gif"
+//resources_off.src = "http://media.moving.com/moving/mvng/new/nav/nav_bar_selected_11.gif"
+
+moving_on.src = "http://media.moving.com/moving/mvng/new/nav/moving_on.gif"
+moving_off.src = "http://media.moving.com/moving/mvng/new/nav/moving_off.gif"
+truckrental_on.src = "http://media.moving.com/moving/mvng/new/nav/truckrental_on.gif"
+truckrental_off.src = "http://media.moving.com/moving/mvng/new/nav/truckrental_off.gif"
+mortgage_on.src = "http://media.moving.com/moving/mvng/new/nav/mortgage_on.gif"
+mortgage_off.src = "http://media.moving.com/moving/mvng/new/nav/mortgage_off.gif"
+realestate_on.src = "http://media.moving.com/moving/mvng/new/nav/realestate_on.gif"
+realestate_off.src = "http://media.moving.com/moving/mvng/new/nav/realestate_off.gif"
+storage_on.src = "http://media.moving.com/moving/mvng/new/nav/storage_on.gif"
+storage_off.src ="http://media.moving.com/moving/mvng/new/nav/storage_off.gif"
+
+
+function showMenu(menuToShow, e, obj) {
+
+	if((timeout)&&(menuToShow.id == hidingMenu.id)){
+		clearTimeout(timeout);
+	}
+	//remove menu without timeout if moving to another tab
+	else if(hidingMenu) {
+		moveMenu();
+		clearTimeout(timeout);
+	}
+	if (ns) {
+		var srcElement = e.target;
+	}
+	else {
+		var srcElement = event.srcElement;
+	}
+	var newX = findPosX(obj);
+	var newY = findPosY(obj);
+	menuToShow.style.left = newX;
+	menuToShow.style.top= newY + 63;
+}
+
+//function to find the x and y positions of the calling image
+function findPosX(obj)  {
+	var curleft = 0;
+	if (document.getElementById || document.all)  {
+		obj=document.getElementById("textRow");
+    	while(obj.offsetParent)  {
+			curleft += obj.offsetLeft
+			obj = obj.offsetParent;
+		}
+	}
+	else if (document.layers)
+		curleft += obj.x;
+	return curleft;
+}
+
+function findPosY(obj)  {
+	var curtop = 0;
+	var printstring = '';
+	if (document.getElementById || document.all)  {
+    	obj=document.getElementById("textRow");
+		while(obj.offsetParent)  {
+			printstring += ' element ' + obj.tagName + ' has ' + obj.offsetTop;
+			curtop += obj.offsetTop
+			obj = obj.offsetParent;
+		}
+	}
+	else if (document.layers)
+		curleft += obj.y;
+	return curtop;
+}
+
+function hideMenu(menuToHide, menuIDLength,e) {
+	
+    var toElementID;
+	if (ns) {
+		var mouseLastIn = e.relatedTarget;
+	}
+	else {
+		var mouseLastIn = event.toElement;
+	}
+
+	if (mouseLastIn != null) {
+		if (mouseLastIn.nodeType == 3) {
+			mouseLastIn = mouseLastIn.parentNode;
+		}
+		toElementID = mouseLastIn.id;
+	}
+	else {
+		return false;
+	}
+
+	if (typeof(toElementID) == "undefined") {
+		toElementID = "UNDEF";
+	}
+	toElementID = toElementID.substr(0,menuIDLength);
+	divMenuID = menuToHide.id;
+	divMenuID = divMenuID.substr(0,menuIDLength);
+
+	if (toElementID != divMenuID) {		
+		hidingMenu = menuToHide	
+		timeout = setTimeout('moveMenu()',500);
+		//menuToHide.style.left = -200 + 'px';
+		//menuToHide.style.top = -1000 + 'px';
+	}
+}
+
+function moveMenu() {
+	hidingMenu.style.left = -200 + 'px';
+	hidingMenu.style.top = -1000 + 'px';
+	 //to rollout the sticky menu header
+	 var imgID = divMenuID + '_off';
+	 chgImg(divMenuID,imgID);
+}
+
+//clear timout from subnav
+function document_onmouseover(e) {
+	if (ns){
+	    var srcElement = e.target;
+	}
+	else {
+		var srcElement = event.srcElement;
+	}
+	var toElementID = srcElement.id;
+	toElementID = toElementID.substr(0,4);
+	if((timeout)&&(toElementID== hidingMenu.id.substr(0,4))){
+		clearTimeout(timeout);
+	}
+}
+
+function defaultHide() {
+	if(document.layers){
+        //thisbrowser="NN4";
+        document.defaultDiv.visibility="hidden";
+    }
+    if(document.all){
+        //thisbrowser="ie"
+        document.all.defaultDiv.style.visibility="hidden";
+    }
+    if(!document.all && document.getElementById){
+        //thisbrowser="NN6";
+        document.getElementById("defaultDiv").style.visibility="hidden";
+    }
+}
+
+function defaultShow() {
+    if(document.layers){
+        //thisbrowser="NN4";
+        document.defaultDiv.visibility="visible";
+    }
+    if(document.all){
+        //thisbrowser="ie"
+        document.all.defaultDiv.style.visibility="visible";
+    }
+    if(!document.all && document.getElementById){
+        //thisbrowser="NN6";
+        document.getElementById("defaultDiv").style.visibility="visible";
+    }
+}
+
+//rollover function
+ function chgImgs(imgName, obj) {
+    //alert(imgName);
+    document.getElementById(obj.id).style.backgroundImage = "url(" + imgName + ")";
+  }
+
+function chgImg(imgName,newImg,id) {
+   //document[imgName].src=eval(newImg + ".src")
+   document.getElementById(id).background = eval(newImg+".src");
+   }
+//ns4 rollout function for use with dynamic menus    
+
+//function nschgImg(imgName,newImg) {
+//   document[imgName].src=eval(newImg + ".src")
+
+//   }
+function nschgImg(imgName,newImg) {
+   if (isNS4) document[imgName].src=eval(newImg + ".src")
+
+   }
+//-->
 </script>
 
-<table width="770" align="center" bgcolor="#FFFFFF" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-		<!-- Begin LEFT Nav -->
-		<td width="135" valign="top" rowspan="3">
-			<table width="135" cellspacing="0" cellpadding="0" border="0">
-			
-			<tbody><tr>
-			</tr><tr><td width="135"><img src="/images/globe/blue-top.gif" align="bottom"></td></tr>
-			<tr>
-				<td>
-					<table width="135" bgcolor="#6499BC" cellspacing="0" cellpadding="1" border="0">
-						
-						<tbody><tr>
-							<td colspan="2" width="135" id="Text42"><a class="leftnavOn" href="/moving/McomPL_default.asp?navvar=top">Moving</a></td>
-						</tr>
-						<tr>
-							<td align="center" width="7"><a href="http://moving.monstermoving.com/Moving_and_Planning/Quotes/index.asp?MType=FS" onmouseover="changeImages('MMH', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('MMH', 'http://media.monster.com/moving/core/clear.gif'); return true;"><img src="http://media.monster.com/moving/movn/clear.gif" name="MMH" border="0" width="5" height="7" alt=""></a></td>
-							<td id="Text43"><a class="leftnavOn" href="http://moving.monstermoving.com/Moving_and_Planning/Quotes/index.asp?MType=FS" onmouseover="changeImages('MMH', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('MMH', 'http://media.monster.com/moving/core/clear.gif'); return true;">Full-Service Movers</a></td>
-						</tr>
-						<tr>
-							<td align="center"><a href="http://moving.monstermoving.com/Moving_and_Planning/Quotes/index.asp?MType=SS" onmouseover="changeImages('SM', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('SM', 'http://media.monster.com/moving/core/clear.gif'); return true;"><img src="http://media.monster.com/moving/movn/clear.gif" name="SM" border="0" width="5" height="7" alt=""></a></td>
-							<td id="Text43"><a class="leftnavOn" href="http://moving.monstermoving.com/Moving_and_Planning/Quotes/index.asp?MType=SS" onmouseover="changeImages('SM', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('SM', 'http://media.monster.com/moving/core/clear.gif'); return true;">Self-Service Movers</a></td>
-						</tr>
-						<tr>
-							<td align="center"><a href="http://www.moving.com/mail_send/form/?navvar=left&amp;Service=36&amp;zebra=1" onmouseover="changeImages('LMM', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('LMM', 'http://media.monster.com/moving/core/clear.gif'); return true;"><img src="http://media.monster.com/moving/movn/clear.gif" name="LMM" border="0" width="5" height="7" alt=""></a></td>
-							<td id="Text43"><a class="leftnavOn" href="http://www.moving.com/mail_send/form/?navvar=left&amp;Service=36&amp;zebra=1" onmouseover="changeImages('LMM', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('LMM', 'http://media.monster.com/moving/core/clear.gif'); return true;">Last Minute Moves</a></td>
-						</tr>
-						<tr>
-							<td align="center"><a href="http://moving.monstermoving.com/Moving_and_Planning/Quotes/index.asp?MType=IN" onmouseover="changeImages('INTL', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('INTL', 'http://media.monster.com/moving/core/clear.gif'); return true;"><img src="http://media.monster.com/moving/movn/clear.gif" name="INTL" border="0" width="5" height="7" alt=""></a></td>
-							<td id="Text43"><a class="leftnavOn" href="http://moving.monstermoving.com/Moving_and_Planning/Quotes/index.asp?MType=IN" onmouseover="changeImages('INTL', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('INTL', 'http://media.monster.com/moving/core/clear.gif'); return true;">International Moves</a></td>
-						</tr>
-						<tr>
-							<td align="center"><a href="http://moving.monstermoving.com/Moving_and_Planning/Quotes/index.asp?MType=AU" onmouseover="changeImages('AUTO', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('AUTO', 'http://media.monster.com/moving/core/clear.gif'); return true;"><img src="http://media.monster.com/moving/movn/clear.gif" name="AUTO" border="0" width="5" height="7" alt=""></a></td>
-							<td id="Text43"><a class="leftnavOn" href="http://moving.monstermoving.com/Moving_and_Planning/Quotes/index.asp?MType=AU" onmouseover="changeImages('AUTO', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('AUTO', 'http://media.monster.com/moving/core/clear.gif'); return true;">Auto Movers</a></td>
-						</tr>
-						<tr>
-							<td align="center"><a href="http://moving.monstermoving.com/Moving_and_Planning/Quotes/index.asp?MType=OF" onmouseover="changeImages('OM', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('OM', 'http://media.monster.com/moving/core/clear.gif'); return true;"><img src="http://media.monster.com/moving/movn/clear.gif" name="OM" border="0" width="5" height="7" alt=""></a></td>
-							<td id="Text43"><a class="leftnavOn" href="http://moving.monstermoving.com/Moving_and_Planning/Quotes/index.asp?MType=OF" onmouseover="changeImages('OM', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('OM', 'http://media.monster.com/moving/core/clear.gif'); return true;">Office Movers</a></td>
-						</tr>
-						<tr>
-							<td align="center"><a href="http://moving.monstermoving.com/Moving_and_Planning/Quotes/index.asp?MType=PI" onmouseover="changeImages('PIANO', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('PIANO', 'http://media.monster.com/moving/core/clear.gif'); return true;"><img src="http://media.monster.com/moving/movn/clear.gif" name="PIANO" border="0" width="5" height="7" alt=""></a></td>
-							<td id="Text43"><a class="leftnavOn" href="http://moving.monstermoving.com/Moving_and_Planning/Quotes/index.asp?MType=PI" onmouseover="changeImages('PIANO', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('PIANO', 'http://media.monster.com/moving/core/clear.gif'); return true;">Piano Movers</a></td>
-						</tr>
-						<tr>
-							<td align="center"><a href="http://moving.monstermoving.com/Moving_and_Planning/Quotes/index.asp?MType=AA" onmouseover="changeImages('ARTS', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('ARTS', 'http://media.monster.com/moving/core/clear.gif'); return true;"><img src="http://media.monster.com/moving/movn/clear.gif" name="ARTS" border="0" width="5" height="7" alt=""></a></td>
-							<td id="Text43"><a class="leftnavOn" href="http://moving.monstermoving.com/Moving_and_Planning/Quotes/index.asp?MType=AA" onmouseover="changeImages('ARTS', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('ARTS', 'http://media.monster.com/moving/core/clear.gif'); return true;">Arts &amp; Antique Movers</a></td>
-						</tr>
-						<tr>
-							<td align="center"><a href="http://moving.monstermoving.com/Moving_and_Planning/Department/Truck_rental/" onmouseover="changeImages('TR', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('TR', 'http://media.monster.com/moving/core/clear.gif'); return true;"><img src="http://media.monster.com/moving/movn/clear.gif" name="TR" border="0" width="5" height="7" alt=""></a></td>
-							<td id="Text43"><a class="leftnavOn" href="http://moving.monstermoving.com/Moving_and_Planning/Department/Truck_rental/" onmouseover="changeImages('TR', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('TR', 'http://media.monster.com/moving/core/clear.gif'); return true;">Truck Rental</a></td>
-						</tr>
-						<tr>
-							<td align="center"><a href="http://www.moving.com/moving/McomPL_default.asp?navvar=top" onmouseover="changeImages('MORE', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('MORE', 'http://media.monster.com/moving/core/clear.gif'); return true;"><img src="http://media.monster.com/moving/movn/clear.gif" name="MORE" border="0" width="5" height="7" alt=""></a></td>
-							<td id="Text43"><a class="leftnavOn" href="http://www.moving.com/moving/McomPL_default.asp?navvar=top" onmouseover="changeImages('MORE', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('MORE', 'http://media.monster.com/moving/core/clear.gif'); return true;">And More...</a></td>
-						</tr>
-						
-						<tr><td colspan="2"><hr color="#D6DECA" size="1" width="90%"></td></tr>
-						<tr><td colspan="2" width="135" id="Text42"><a class="leftnavOn" href="/estore/?navvar=leftPack">Packing Center</a></td></tr>
-						<tr>
-							<td align="center"><a href="/estore/?navvar=leftBuy" onmouseover="changeImages('BOXES', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('BOXES', 'http://media.monster.com/moving/core/clear.gif'); return true;"><img src="http://media.monster.com/moving/movn/clear.gif" name="BOXES" border="0" width="5" height="7" alt=""></a></td>
-							<td id="Text43"><a class="leftnavOn" href="/estore/?navvar=leftBuy" onmouseover="changeImages('BOXES', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('BOXES', 'http://media.monster.com/moving/core/clear.gif'); return true;">Buy Boxes</a></td>
-						</tr>
-						<tr>
-							<td align="center"><a href="/tools/packingcal/default.asp?navvar=left" onmouseover="changeImages('CALC', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('CALC', 'http://media.monster.com/moving/core/clear.gif'); return true;"><img src="http://media.monster.com/moving/movn/clear.gif" name="CALC" border="0" width="5" height="7" alt=""></a></td>
-							<td id="Text43"><a class="leftnavOn" href="/tools/packingcal/default.asp?navvar=left" onmouseover="changeImages('CALC', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('CALC', 'http://media.monster.com/moving/core/clear.gif'); return true;">Packing Calculator</a></td>
-						</tr>
-						<tr>
-							<td align="center"><a href="/guide/moving/packing.asp?navvar=left" onmouseover="changeImages('TIPS', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('TIPS', 'http://media.monster.com/moving/core/clear.gif'); return true;"><img src="http://media.monster.com/moving/movn/clear.gif" name="TIPS" border="0" width="5" height="7" alt=""></a></td>
-							<td id="Text43"><a class="leftnavOn" href="/guide/moving/packing.asp?navvar=left" onmouseover="changeImages('TIPS', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('TIPS', 'http://media.monster.com/moving/core/clear.gif'); return true;">Tips and Tricks</a></td>
-						</tr>
-						<tr>
-							<td align="center"><a href="/mscripts/searchbox.asp?navvar=left&amp;service=8" onmouseover="changeImages('SERVC', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('SERVC', 'http://media.monster.com/moving/core/clear.gif'); return true;"><img src="http://media.monster.com/moving/movn/clear.gif" name="SERVC" border="0" width="5" height="7" alt=""></a></td>
-							<td id="Text43"><a class="leftnavOn" href="/mscripts/searchbox.asp?navvar=left&amp;service=8" onmouseover="changeImages('SERVC', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('SERVC', 'http://media.monster.com/moving/core/clear.gif'); return true;">Packing Services</a></td>
-						</tr>
-						
-						<tr><td colspan="2"><hr color="#D6DECA" size="1" width="90%"></td></tr>
-						<tr><td colspan="2" id="Text42"><a class="leftnavOn" href="/realestate/McomPL_default.asp?navvar=top">Real Estate</a></td></tr>
-						<tr>
-							<td align="center"><a href="http://moving.monstermoving.com/Find_a_Place/Department/REAM/" onmouseover="changeImages('AGENT', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('AGENT', 'http://media.monster.com/moving/core/clear.gif'); return true;"><img src="http://media.monster.com/moving/movn/clear.gif" name="AGENT" border="0" width="5" height="7" alt=""></a></td>
-							<td id="Text43"><a class="leftnavOn" href="http://moving.monstermoving.com/Find_a_Place/Department/REAM/" onmouseover="changeImages('AGENT', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('AGENT', 'http://media.monster.com/moving/core/clear.gif'); return true;">Find A Buyer's Agent</a></td>
-						</tr>
-						<tr>
-							<td align="center"><a href="http://moving.monstermoving.com/Find_a_Place/Department/REAM/" onmouseover="changeImages('SELLER', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('SELLER', 'http://media.monster.com/moving/core/clear.gif'); return true;"><img src="http://media.monster.com/moving/movn/clear.gif" name="SELLER" border="0" width="5" height="7" alt=""></a></td>
-							<td id="Text43"><a class="leftnavOn" href="http://moving.monstermoving.com/Find_a_Place/Department/REAM/" onmouseover="changeImages('SELLER', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('SELLER', 'http://media.monster.com/moving/core/clear.gif'); return true;">Find A Seller's Agent</a></td>
-						</tr>
-						<tr>
-							<td align="center"><a href="http://moving.monstermoving.com/Find_a_Place/Department/Roommate_Center/" onmouseover="changeImages('RMMATE', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('RMMATE', 'http://media.monster.com/moving/core/clear.gif'); return true;"><img src="http://media.monster.com/moving/movn/clear.gif" name="RMMATE" border="0" width="5" height="7" alt=""></a></td>
-							<td id="Text43"><a class="leftnavOn" href="http://moving.monstermoving.com/Find_a_Place/Department/Roommate_Center/" onmouseover="changeImages('RMMATE', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('RMMATE', 'http://media.monster.com/moving/core/clear.gif'); return true;">Find a Roommate</a></td>
-						</tr>
-						<tr>
-							<td align="center"><a href="http://moving.monstermoving.com/Find_a_Place/Cityprofile/" onmouseover="changeImages('CITY', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('CITY', 'http://media.monster.com/moving/core/clear.gif'); return true;"><img src="http://media.monster.com/moving/movn/clear.gif" name="CITY" border="0" width="5" height="7" alt=""></a></td>
-							<td id="Text43"><a class="leftnavOn" href="http://moving.monstermoving.com/Find_a_Place/Cityprofile/" onmouseover="changeImages('CITY', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('CITY', 'http://media.monster.com/moving/core/clear.gif'); return true;">City Profile Report</a></td>
-						</tr>
-						<tr>
-							<td align="center"><a href="http://moving.monstermoving.com/Find_a_Place/Compare2Cities/" onmouseover="changeImages('2CITY', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('2CITY', 'http://media.monster.com/moving/core/clear.gif'); return true;"><img src="http://media.monster.com/moving/movn/clear.gif" name="2CITY" border="0" width="5" height="7" alt=""></a></td>
-							<td id="Text43"><a class="leftnavOn" href="http://moving.monstermoving.com/Find_a_Place/Compare2Cities/" onmouseover="changeImages('2CITY', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('2CITY', 'http://media.monster.com/moving/core/clear.gif'); return true;">Compare Two Cities</a></td>
-						</tr>
-						<tr>
-							<td align="center"><a href="http://moving.monstermoving.com/Find_A_Place/Relosmart/rs.asp" onmouseover="changeImages('RELO', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('RELO', 'http://media.monster.com/moving/core/clear.gif'); return true;"><img src="http://media.monster.com/moving/movn/clear.gif" name="RELO" border="0" width="5" height="7" alt=""></a></td>
-							<td id="Text43"><a class="leftnavOn" href="http://moving.monstermoving.com/Find_A_Place/Relosmart/rs.asp" onmouseover="changeImages('RELO', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('RELO', 'http://media.monster.com/moving/core/clear.gif'); return true;">Cost of Living Tool</a></td>
-						</tr>
-						<tr>
-							<td align="center"><a href="http://moving.monstermoving.com/Find_A_Place/Calculators/SalaryCalc/" onmouseover="changeImages('SALARY', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('SALARY', 'http://media.monster.com/moving/core/clear.gif'); return true;"><img src="http://media.monster.com/moving/movn/clear.gif" name="SALARY" border="0" width="5" height="7" alt=""></a></td>
-							<td id="Text43"><a class="leftnavOn" href="http://moving.monstermoving.com/Find_A_Place/Calculators/SalaryCalc/" onmouseover="changeImages('SALARY', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('SALARY', 'http://media.monster.com/moving/core/clear.gif'); return true;">Salary Calculator</a></td>
-						</tr>
-						
-						<tr><td colspan="2"><hr color="#D6DECA" size="1" width="90%"></td></tr>
-						<tr><td colspan="2" id="Text42"><a class="leftnavOn" href="/storage/McomPL_default.asp?navvar=top">Storage</a></td></tr>
-						<tr>
-							<td align="center"><a href="http://moving.monstermoving.com/Moving_and_Planning/Department/Storage_center/Find.asp?StorageType=1" onmouseover="changeImages('SELF', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('SELF', 'http://media.monster.com/moving/core/clear.gif'); return true;"><img src="http://media.monster.com/moving/movn/clear.gif" name="SELF" border="0" width="5" height="7" alt=""></a></td>
-							<td id="Text43"><a class="leftnavOn" href="http://moving.monstermoving.com/Moving_and_Planning/Department/Storage_center/Find.asp?StorageType=1" onmouseover="changeImages('SELF', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('SELF', 'http://media.monster.com/moving/core/clear.gif'); return true;">Self Storage</a></td>
-						</tr>
-						<tr>
-							<td align="center"><a href="http://moving.monstermoving.com/Moving_and_Planning/Department/Storage_center/Find.asp?StorageType=2" onmouseover="changeImages('PICKUP', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('PICKUP', 'http://media.monster.com/moving/core/clear.gif'); return true;"><img src="http://media.monster.com/moving/movn/clear.gif" name="PICKUP" border="0" width="5" height="7" alt=""></a></td>
-							<td id="Text43"><a class="leftnavOn" href="http://moving.monstermoving.com/Moving_and_Planning/Department/Storage_center/Find.asp?StorageType=2" onmouseover="changeImages('PICKUP', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('PICKUP', 'http://media.monster.com/moving/core/clear.gif'); return true;">Pick Up &amp; Delivery</a></td>
-						</tr>
-						
-						<tr><td colspan="2"><hr color="#D6DECA" size="1" width="90%"></td></tr>
-						<tr><td colspan="2" id="Text42"><a class="leftnavOn" href="/fservices/McomPL_default.asp?navvar=top">Mortgage</a></td></tr>
-						<tr>
-							<td align="center"><a href="http://moving.monstermoving.com/Mortgage_and_Finance/Quotes/" onmouseover="changeImages('RATES', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('RATES', 'http://media.monster.com/moving/core/clear.gif'); return true;"><img src="http://media.monster.com/moving/movn/clear.gif" name="RATES" border="0" width="5" height="7" alt=""></a></td>
-							<td id="Text43"><a class="leftnavOn" href="http://moving.monstermoving.com/Mortgage_and_Finance/Quotes/" onmouseover="changeImages('RATES', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('RATES', 'http://media.monster.com/moving/core/clear.gif'); return true;">Compare Rates</a></td>
-						</tr>
-						<tr>
-							<td align="center"><a href="http://moving.monstermoving.com/Mortgage_and_Finance/Calculators/" onmouseover="changeImages('TOOLS', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('TOOLS', 'http://media.monster.com/moving/core/clear.gif'); return true;"><img src="http://media.monster.com/moving/movn/clear.gif" name="TOOLS" border="0" width="5" height="7" alt=""></a></td>
-							<td id="Text43"><a class="leftnavOn" href="http://moving.monstermoving.com/Mortgage_and_Finance/Calculators/" onmouseover="changeImages('TOOLS', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('TOOLS', 'http://media.monster.com/moving/core/clear.gif'); return true;">Tools &amp; Calculators</a></td>
-						</tr>
-						<tr>
-							<td align="center"><a href="http://moving.monstermoving.com/Mortgage_and_Finance/Comment/" onmouseover="changeImages('COMMENT', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('COMMENT', 'http://media.monster.com/moving/core/clear.gif'); return true;"><img src="http://media.monster.com/moving/movn/clear.gif" name="COMMENT" border="0" width="5" height="7" alt=""></a></td>
-							<td id="Text43"><a class="leftnavOn" href="http://moving.monstermoving.com/Mortgage_and_Finance/Comment/" onmouseover="changeImages('COMMENT', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('COMMENT', 'http://media.monster.com/moving/core/clear.gif'); return true;">Mortgage Commentary</a></td>
-						</tr>
-						
-						<tr><td colspan="2"><hr color="#D6DECA" size="1" width="90%"></td></tr>
-						<tr><td colspan="2" id="Text42"><a class="leftnavOn" href="/Finance/default.asp"> Finance</a></td></tr>
-						<tr>
-							<td align="center"><a href="http://moving.monstermoving.com/Mortgage_and_Finance/Department/Insurance_center/" onmouseover="changeImages('INS', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('INS', 'http://media.monster.com/moving/core/clear.gif'); return true;"><img src="http://media.monster.com/moving/movn/clear.gif" name="INS" border="0" width="5" height="7" alt=""></a></td>
-							<td id="Text43"><a class="leftnavOn" href="http://moving.monstermoving.com/Mortgage_and_Finance/Department/Insurance_center/" onmouseover="changeImages('INS', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('INS', 'http://media.monster.com/moving/core/clear.gif'); return true;">Insurance Center</a></td>
-						</tr>
-						<tr>
-							<td align="center"><a href="http://moving.monstermoving.com/Mortgage_and_Finance/Department/Loan_center/" onmouseover="changeImages('LOAN', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('LOAN', 'http://media.monster.com/moving/core/clear.gif'); return true;"><img src="http://media.monster.com/moving/movn/clear.gif" name="LOAN" border="0" width="5" height="7" alt=""></a></td>
-							<td id="Text43"><a class="leftnavOn" href="http://moving.monstermoving.com/Mortgage_and_Finance/Department/Loan_center/" onmouseover="changeImages('LOAN', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('LOAN', 'http://media.monster.com/moving/core/clear.gif'); return true;">Loan Center</a></td>
-						</tr>
-						<tr>
-							<td align="center"><a href="http://moving.monstermoving.com/Mortgage_and_Finance/Department/Personal_credit_center/" onmouseover="changeImages('CREDIT', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('CREDIT', 'http://media.monster.com/moving/core/clear.gif'); return true;"><img src="http://media.monster.com/moving/movn/clear.gif" name="CREDIT" border="0" width="5" height="7" alt=""></a></td>
-							<td id="Text43"><a class="leftnavOn" href="http://moving.monstermoving.com/Mortgage_and_Finance/Department/Personal_credit_center/" onmouseover="changeImages('CREDIT', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('CREDIT', 'http://media.monster.com/moving/core/clear.gif'); return true;">Credit Center</a></td>
-						</tr>
-						<tr>
-							<td align="center"><a href="http://moving.monstermoving.com/Mortgage_and_Finance/Department/Auto_Loan_center/" onmouseover="changeImages('ALOAN', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('ALOAN', 'http://media.monster.com/moving/core/clear.gif'); return true;"><img src="http://media.monster.com/moving/movn/clear.gif" name="ALOAN" border="0" width="5" height="7" alt=""></a></td>
-							<td id="Text43"><a class="leftnavOn" href="http://moving.monstermoving.com/Mortgage_and_Finance/Department/Auto_Loan_center/" onmouseover="changeImages('ALOAN', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('ALOAN', 'http://media.monster.com/moving/core/clear.gif'); return true;">Auto Loan Center</a></td>
-						</tr>
-						
-						<tr><td colspan="2"><hr color="#D6DECA" size="1" width="90%"></td></tr>
-						<tr><td colspan="2" id="Text42"><a class="leftnavOn" href="http://www.moving.com/Home_Beyond/default.asp?navvar=top">Home &amp; Beyond</a></td></tr>
-						<tr>
-							<td align="center"><a href="http://moving.monstermoving.com/Living_and_Shopping/Department/Home_services/" onmouseover="changeImages('HOMESERV', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('HOMESERV', 'http://media.monster.com/moving/core/clear.gif'); return true;"><img src="http://media.monster.com/moving/movn/clear.gif" name="HOMESERV" border="0" width="5" height="7" alt=""></a></td>
-							<td id="Text43"><a class="leftnavOn" href="http://moving.monstermoving.com/Living_and_Shopping/Department/Home_services/" onmouseover="changeImages('HOMESERV', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('HOMESERV', 'http://media.monster.com/moving/core/clear.gif'); return true;">Home Services</a></td>
-						</tr>
-						<tr>
-							<td align="center"><a href="http://moving.monstermoving.com/Living_and_Shopping/Department/Home_Furnishings/" onmouseover="changeImages('FURNISH', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('FURNISH', 'http://media.monster.com/moving/core/clear.gif'); return true;"><img src="http://media.monster.com/moving/movn/clear.gif" name="FURNISH" border="0" width="5" height="7" alt=""></a></td>
-							<td id="Text43"><a class="leftnavOn" href="http://moving.monstermoving.com/Living_and_Shopping/Department/Home_Furnishings/" onmouseover="changeImages('FURNISH', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('FURNISH', 'http://media.monster.com/moving/core/clear.gif'); return true;">Home Furnishings</a></td>
-						</tr>
-						<tr>
-							<td align="center"><a href="http://moving.monstermoving.com/Living_and_Shopping/Department/Childcare_center/find.asp" onmouseover="changeImages('CHILD', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('CHILD', 'http://media.monster.com/moving/core/clear.gif'); return true;"><img src="http://media.monster.com/moving/movn/clear.gif" name="CHILD" border="0" width="5" height="7" alt=""></a></td>
-							<td id="Text43"><a class="leftnavOn" href="http://moving.monstermoving.com/Living_and_Shopping/Department/Childcare_center/find.asp" onmouseover="changeImages('CHILD', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('CHILD', 'http://media.monster.com/moving/core/clear.gif'); return true;">Childcare Center</a></td>
-						</tr>
-						<tr>
-							<td align="center"><a href="http://moving.monstermoving.com/Living_and_Shopping/Department/water_center/" onmouseover="changeImages('WATER', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('WATER', 'http://media.monster.com/moving/core/clear.gif'); return true;"><img src="http://media.monster.com/moving/movn/clear.gif" name="WATER" border="0" width="5" height="7" alt=""></a></td>
-							<td id="Text43"><a class="leftnavOn" href="http://moving.monstermoving.com/Living_and_Shopping/Department/water_center/" onmouseover="changeImages('WATER', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('WATER', 'http://media.monster.com/moving/core/clear.gif'); return true;">Water Solutions</a></td>
-						</tr>
-						<tr>
-							<td align="center"><a href="http://moving.monstermoving.com/Living_and_Shopping/Department/Savings_Center/" onmouseover="changeImages('SAVE', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('SAVE', 'http://media.monster.com/moving/core/clear.gif'); return true;"><img src="http://media.monster.com/moving/movn/clear.gif" name="SAVE" border="0" width="5" height="7" alt=""></a></td>
-							<td id="Text43"><a class="leftnavOn" href="http://moving.monstermoving.com/Living_and_Shopping/Department/Savings_Center/" onmouseover="changeImages('SAVE', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('SAVE', 'http://media.monster.com/moving/core/clear.gif'); return true;">Savings Center</a></td>
-						</tr>
-						<tr>
-							<td align="center"><a href="http://moving.monstermoving.com/Living_and_Shopping/Department/Home_improvements/" onmouseover="changeImages('HIMPROV', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('HIMPROV', 'http://media.monster.com/moving/core/clear.gif'); return true;"><img src="http://media.monster.com/moving/movn/clear.gif" name="HIMPROV" border="0" width="5" height="7" alt=""></a></td>
-							<td id="Text43"><a class="leftnavOn" href="http://moving.monstermoving.com/Living_and_Shopping/Department/Home_improvements/" onmouseover="changeImages('HIMPROV', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('HIMPROV', 'http://media.monster.com/moving/core/clear.gif'); return true;">Home Improvement</a></td>
-						</tr>
-						<tr>
-							<td align="center"><a href="http://moving.monstermoving.com/Living_and_Shopping/Department/Auto_center/" onmouseover="changeImages('ACENTER', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('ACENTER', 'http://media.monster.com/moving/core/clear.gif'); return true;"><img src="http://media.monster.com/moving/movn/clear.gif" name="ACENTER" border="0" width="5" height="7" alt=""></a></td>
-							<td id="Text43"><a class="leftnavOn" href="http://moving.monstermoving.com/Living_and_Shopping/Department/Auto_center/" onmouseover="changeImages('ACENTER', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('ACENTER', 'http://media.monster.com/moving/core/clear.gif'); return true;">Auto Center</a></td>
-						</tr>
-						<tr>
-							<td align="center"><a href="http://www.moving.com/community/legis.asp?navvar=left" onmouseover="changeImages('GOV', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('GOV', 'http://media.monster.com/moving/core/clear.gif'); return true;"><img src="http://media.monster.com/moving/movn/clear.gif" name="GOV" border="0" width="5" height="7" alt=""></a></td>
-							<td id="Text43"><a class="leftnavOn" href="http://www.moving.com/community/legis.asp?navvar=left" onmouseover="changeImages('GOV', 'http://media.monster.com/moving/movn/arr_leftNav.gif'); return true;" onmouseout="changeImages('GOV', 'http://media.monster.com/moving/core/clear.gif'); return true;">Government Info</a></td>
-						</tr>
-						<tr><td colspan="2"><hr color="#D6DECA" size="1" width="90%"></td></tr>
-					</tbody></table>
-				</td>
-			</tr>
-			<tr><td width="1" height="1"><img src="/images/blank.gif" width="1" height="1" align="bottom"></td></tr>
-			<tr bgcolor="#ffffff"><td align="center" colspan="2"><a href="/vendor/"><img border="0" src="/images/globe/home_vendorslogin.gif" align="absmiddle"></a></td></tr>
-			<tr><td width="1" height="5" colspan="2"><img src="/images/blank.gif" width="1" height="5" align="bottom"></td></tr>
-			<tr><td align="center" colspan="2"><a href="javascript:popUp('https://digitalid.verisign.com/as2/14505622600f756c473ffec0137d0a6c');"><img border="0" align="MIDDLE" src="/images/gfx_verisign31.gif"></a></td></tr>
-		</tbody></table>
-	</td>
-	<!-- End LEFT Nav -->
-	
+<table width="740" cellspacing="0" cellpadding="0" border="0" align="center" id="Table1">
+
+<tbody><tr><td align="center"><div id="DARTLBDIV" xmlns="DARTInterface"><!-- BEGIN LB AD TAG --><script><!--
+						document.write("<SCR" + "IPT LANGUAGE='JavaScript1.1' SRC='http://ad.doubleclick.net/adj/MOVE.ING/ut_us/privacy_policy/index.asp;pos=LB;dcopt=ist;!category=Companion;sz=728x90;ord=5232006346159376485?'></SCR" + "IPT>");
+					// --></script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/MOVE.ING/ut_us/privacy_policy/index.asp;pos=LB;dcopt=ist;!category=Companion;sz=728x90;ord=5232006346159376485?"></script><script><!--
+					if ((!document.images && navigator.userAgent.indexOf("Mozilla/2.") >= 0) || (navigator.userAgent.indexOf("WebTV")>= 0)) 
+					{
+						document.write("<A HREF='http://ad.doubleclick.net/jump/MOVE.ING/ut_us/privacy_policy/index.asp;pos=LB;dcopt=ist;!category=Companion;sz=728x90;ord=5232006346159376485?' TARGET='_blank'>");
+						document.write("<IMG SRC='http://ad.doubleclick.net/ad/MOVE.ING/ut_us/privacy_policy/index.asp;pos=LB;dcopt=ist;!category=Companion;sz=728x90;ord=5232006346159376485?' WIDTH='728' HEIGHT='90' BORDER='0' ALT=''></A>");
+					}
+					// --></script><noscript><A HREF="http://ad.doubleclick.net/jump/MOVE.ING/ut_us/privacy_policy/index.asp;pos=LB;dcopt=ist;!category=Companion;sz=728x90;ord=5232006346159376485?" TARGET="_blank"><IMG SRC="http://ad.doubleclick.net/ad/MOVE.ING/ut_us/privacy_policy/index.asp;pos=LB;dcopt=ist;!category=Companion;sz=728x90;ord=5232006346159376485?" WIDTH="728" HEIGHT="90" BORDER="0" ALT="" /></A></noscript><!-- END LB AD TAG --></div></td></tr>
 
 
-	<!-- START MAIN Nav -->
-			<!-- BEGIN top Nav -->
-		<td valign="top" rowspan="3" height="1" width="1"><img src="/images/blank.gif" width="1" height="2"></td>
-		<td valign="top" align="right" colspan="3" width="631" height="29" id="Text44">
-			<div id="divMain">
-			<table id="tblMain" border="0" cellpadding="0" width="100%" cellspacing="0" align="center" bgcolor="#336699">
+	<tr>
+		<td align="left" valign="top">
+<div id="movingMenuDiv" align="left" class="DivMenu" onmouseover="return showMenu(document.getElementById('movingMenuDiv'),event, this)" onmouseout="defaultShow(); return hideMenu(document.getElementById('movingMenuDiv'),6,event)"><table border="0" width="735" cellspacing="0" cellpadding="0" class="menu" id="movingTable" background="http://media.moving.com/moving/mvng/new/nav/nav_bar_14.gif"><tbody id="movingTableBody"><tr id="movingTR1"><td id="movingTD1" align="right"><table border="0" width="735" cellspacing="0" cellpadding="2" class="menu" id="movingTable1"><tbody id="movingTableBody1"><tr id="movingTR2"><td id="movingTD2" align="right" onmouseover="defaultHide(); document_onmouseover(event);" onmouseout="defaultShow();"><a href="/Moving_and_Planning/Quotes/index.asp?MType=FS&amp;wtid=2">Full Service Movers</a>&nbsp;&nbsp;<img src="http://media.moving.com/moving/mvng/new/dot.gif" id="movingdot">&nbsp;&nbsp;<a href="/Moving_and_Planning/Quotes/index.asp?MType=SS&amp;wtid=2">Self-Service Movers</a>&nbsp;&nbsp;<img src="http://media.moving.com/moving/mvng/new/dot.gif" id="movingdot">&nbsp;&nbsp;<a href="/Moving_and_Planning/Quotes/index.asp?MType=AU&amp;wtid=2">Auto Movers</a>&nbsp;&nbsp;<img src="http://media.moving.com/moving/mvng/new/dot.gif" id="movingdot">&nbsp;&nbsp;<a href="/Moving_and_Planning/Department/Packing_Center/index.asp?wtid=79">Moving Boxes</a>&nbsp;&nbsp;<img src="http://media.moving.com/moving/mvng/new/dot.gif" id="movingdot">&nbsp;&nbsp;<a href="/Moving_and_Planning/Tools/index.asp?wtid=80">Tools</a>&nbsp;&nbsp;<img src="http://media.moving.com/moving/mvng/new/dot.gif" id="movingdot">&nbsp;&nbsp;<a href="/Moving_and_Planning/MAP_Article/index.asp?wtid=6">Advice &amp; Articles</a>&nbsp;&nbsp;</td></tr></tbody></table></td></tr></tbody></table></div><div id="mortgageMenuDiv" align="left" class="DivMenu" onmouseover="return showMenu(document.getElementById('mortgageMenuDiv'),event, this)" onmouseout="defaultShow(); return hideMenu(document.getElementById('mortgageMenuDiv'),8,event)"><table border="0" width="735" cellspacing="0" cellpadding="0" class="menu" id="mortgageTable" background="http://media.moving.com/moving/mvng/new/nav/nav_bar_14.gif"><tbody id="mortgageTableBody"><tr id="mortgageTR1"><td id="mortgageTD1" align="right"><table border="0" width="735" cellspacing="0" cellpadding="2" class="menu" id="mortgageTable1"><tbody id="mortgageTableBody1"><tr id="mortgageTR2"><td id="mortgageTD2" align="right" onmouseover="defaultHide(); document_onmouseover(event);" onmouseout="defaultShow();"><a href="/Mortgage_and_Finance/Quotes/index.asp?wtid=8">Mortgage Rates &amp; Quotes</a>&nbsp;&nbsp;<img src="http://media.moving.com/moving/mvng/new/dot.gif" id="movingdot">&nbsp;&nbsp;<a href="/Mortgage_and_Finance/Comment/index.asp?wtid=9">Mortgage Commentary</a>&nbsp;&nbsp;<img src="http://media.moving.com/moving/mvng/new/dot.gif" id="movingdot">&nbsp;&nbsp;<a href="/Mortgage_and_Finance/Calculators/index.asp?wtid=10">Tools &amp; Calculators</a>&nbsp;&nbsp;<img src="http://media.moving.com/moving/mvng/new/dot.gif" id="movingdot">&nbsp;&nbsp;<a href="/Mortgage_and_Finance/MAI_Article/index.asp?wtid=11">Advice &amp; Articles</a>&nbsp;&nbsp;</td></tr></tbody></table></td></tr></tbody></table></div><div id="truckrentalMenuDiv" align="left" class="DivMenu" onmouseover="return showMenu(document.getElementById('truckrentalMenuDiv'),event, this)" onmouseout="defaultShow(); return hideMenu(document.getElementById('truckrentalMenuDiv'),11,event)"><table border="0" width="735" cellspacing="0" cellpadding="0" class="menu" id="truckrentalTable" background="http://media.moving.com/moving/mvng/new/nav/nav_bar_14.gif"><tbody id="truckrentalTableBody"><tr id="truckrentalTR1"><td id="truckrentalTD1" align="right"><table border="0" width="735" cellspacing="0" cellpadding="2" class="menu" id="truckrentalTable1"><tbody id="truckrentalTableBody1"><tr id="truckrentalTR2"><td id="truckrentalTD2" align="right" onmouseover="defaultHide(); document_onmouseover(event);" onmouseout="defaultShow();"><a href="/Moving_and_Planning/Quotes/index.asp?MType=ALL&amp;wtid=2">Movers</a>&nbsp;&nbsp;<img src="http://media.moving.com/moving/mvng/new/dot.gif" id="movingdot">&nbsp;&nbsp;<a href="/Moving_and_Planning/Department/Packing_Center/index.asp?wtid=79">Moving Boxes</a>&nbsp;&nbsp;<img src="http://media.moving.com/moving/mvng/new/dot.gif" id="movingdot">&nbsp;&nbsp;<a href="/Moving_and_Planning/Tools/index.asp?wtid=80">Tools</a>&nbsp;&nbsp;<img src="http://media.moving.com/moving/mvng/new/dot.gif" id="movingdot">&nbsp;&nbsp;<a href="/Moving_and_Planning/MAP_Article/index.asp?wtid=6">Advice &amp; Articles</a>&nbsp;&nbsp;</td></tr></tbody></table></td></tr></tbody></table></div><div id="realEstateMenuDiv" align="left" class="DivMenu" onmouseover="return showMenu(document.getElementById('realEstateMenuDiv'),event, this)" onmouseout="defaultShow(); return hideMenu(document.getElementById('realEstateMenuDiv'),10,event)"><table border="0" width="735" cellspacing="0" cellpadding="0" class="menu" id="realEstateTable" background="http://media.moving.com/moving/mvng/new/nav/nav_bar_14.gif"><tbody id="realEstateTableBody"><tr id="realEstateTR1"><td id="realEstateTD1" align="right"><table border="0" width="735" cellspacing="0" cellpadding="2" class="menu" id="realEstateTable1"><tbody id="realEstateTableBody1"><tr id="realEstateTR2"><td id="realEstateTD2" align="right" onmouseover="defaultHide(); document_onmouseover(event);" onmouseout="defaultShow();"><a href="/Find_a_Place/Compare2Cities/">City Comparison</a>&nbsp;&nbsp;<img src="http://media.moving.com/moving/mvng/new/dot.gif" id="movingdot">&nbsp;&nbsp;<a href="/Find_A_Place/Department/Find_an_Apartment/index.asp?wtid=20">Apartment Rentals</a>&nbsp;&nbsp;<img src="http://media.moving.com/moving/mvng/new/dot.gif" id="movingdot">&nbsp;&nbsp;<a href="/Find_a_Place/Department/Roommate_Center/index.asp?wtid=21">Roommate Search</a>&nbsp;&nbsp;<img src="http://media.moving.com/moving/mvng/new/dot.gif" id="movingdot">&nbsp;&nbsp;<a href="/Find_A_Place/HomeBuyCalc/index.asp?wtid=23">Home Purchasing Tools</a>&nbsp;&nbsp;<img src="http://media.moving.com/moving/mvng/new/dot.gif" id="movingdot">&nbsp;&nbsp;<a href="/Find_A_Place/FAP_Article/index.asp?wtid=24">Articles &amp; Advice</a>&nbsp;&nbsp;</td></tr></tbody></table></td></tr></tbody></table></div><div id="storageMenuDiv" align="left" class="DivMenu" onmouseover="return showMenu(document.getElementById('storageMenuDiv'),event, this)" onmouseout="defaultShow(); return hideMenu(document.getElementById('storageMenuDiv'),7,event)"><table border="0" width="735" cellspacing="0" cellpadding="0" class="menu" id="storageTable" background="http://media.moving.com/moving/mvng/new/nav/nav_bar_14.gif"><tbody id="storageTableBody"><tr id="storageTR1"><td id="storageTD1" align="right"><table border="0" width="735" cellspacing="0" cellpadding="2" class="menu" id="storageTable1"><tbody id="storageTableBody1"><tr id="storageTR2"><td id="storageTD2" align="right" onmouseover="defaultHide(); document_onmouseover(event);" onmouseout="defaultShow();"><a href="/Moving_and_Planning/Department/Storage_center/Find.asp?wtid=26">Storage Facilities</a>&nbsp;&nbsp;<img src="http://media.moving.com/moving/mvng/new/dot.gif" id="movingdot">&nbsp;&nbsp;<a href="/Moving_and_Planning/Department/Truck_rental/index.asp?wtid=27">Truck Rental</a>&nbsp;&nbsp;<img src="http://media.moving.com/moving/mvng/new/dot.gif" id="movingdot">&nbsp;&nbsp;<a href="/Moving_and_Planning/Department/Packing_Center/index.asp?wtid=28">Moving Boxes</a>&nbsp;&nbsp;<img src="http://media.moving.com/moving/mvng/new/dot.gif" id="movingdot">&nbsp;&nbsp;<a href="/Moving_and_Planning/Department/Storage_center/articles/index.asp?wtid=79">Advice &amp; Articles</a>&nbsp;&nbsp;</td></tr></tbody></table></td></tr></tbody></table></div><!-- Start of Header code --><table width="735" cellspacing="0" cellpadding="0" border="0">	<tbody><tr><td colspan="9"><img src="http://media.moving.com/moving/core/clear.gif" height="10" width="1"></td></tr>	<tr id="textRow">		<td rowspan="2"><a href="/"><img src="http://media.moving.com/moving/mvng/new/MovingDotCom_Logo_no_tagline2.gif" border="0"></a></td>		<td colspan="8" class="navLink" align="right" valign="middle"><a href="/sitemap.asp">Site Map</a> | <a href="/Registration/CreateAccount.asp">Create an Account</a>&nbsp;|&nbsp;<a href="http://www.moving.com/login.asp?redirect=%2FAbout%5Fus%2Fprivacy%5FPolicy%2Findex%2Easp">Login</a>&nbsp;&nbsp;		</td>		<td><img src="http://media.moving.com/moving/core/clear.gif" height="35" width="1"></td>	</tr>	<tr id="textRow"><td colspan="2"><img src="http://media.moving.com/moving/core/clear.gif" width="169" height="1"></td><td width="59" height="23" align="center" style="background-image:url(http://media.moving.com/moving/mvng/new/nav/moving_off.gif)"><div id="moving" style="height:23px;padding-top:5px" onmouseover="chgImgs(moving_on.src, this)" onmouseout="chgImgs(moving_off.src, this)"><a href="/Moving_and_Planning/Quotes/index.asp?MType=ALL&amp;wtid=1" style="text-decoration:none;color:#FFFFFF;font-family:Arial;font-size=11;font-weight:bold">Moving</a></div></td><td width="83" height="23" align="center" style="background-image:url(http://media.moving.com/moving/mvng/new/nav/truckrental_off.gif)"><div id="truckrental" style="height:23px;padding-top:5px" onmouseover="chgImgs(truckrental_on.src, this)" onmouseout="chgImgs(truckrental_off.src, this)"><a href="/Moving_and_Planning/Department/Truck_rental/index.asp?wtid=300" style="text-decoration:none;color:#FFFFFF;font-family:Arial;font-size=11;font-weight:bold">Truck Rental</a></div></td><td width="63" height="23" align="center" style="background-image:url(http://media.moving.com/moving/mvng/new/nav/storage_off.gif)"><div id="storage" style="height:23px;padding-top:5px" onmouseover="chgImgs(storage_on.src, this)" onmouseout="chgImgs(storage_off.src, this)"><a href="/Moving_and_Planning/Department/Storage_center/Find.asp?wtid=25" style="text-decoration:none;color:#FFFFFF;font-family:Arial;font-size=11;font-weight:bold">Storage</a></div></td><td width="73" height="23" align="center" style="background-image:url(http://media.moving.com/moving/mvng/new/nav/mortgage_off.gif)"><div id="mortgage" style="height:23px;padding-top:5px" onmouseover="chgImgs(mortgage_on.src, this)" onmouseout="chgImgs(mortgage_off.src, this)"><a href="/Mortgage_and_Finance/Quotes/index.asp?wtid=7" style="text-decoration:none;color:#FFFFFF;font-family:Arial;font-size=11;font-weight:bold">Mortgage</a></div></td><td width="84" height="23" align="center" style="background-image:url(http://media.moving.com/moving/mvng/new/nav/realestate_off.gif)"><div id="realestate" style="height:23px;padding-top:5px" onmouseover="chgImgs(realestate_on.src, this)" onmouseout="chgImgs(realestate_off.src, this)"><a href="/Find_a_Place/index.asp?wtid=18" style="text-decoration:none;color:#FFFFFF;font-family:Arial;font-size=11;font-weight:bold">Real Estate</a></div></td><td><img src="http://media.moving.com/moving/core/clear.gif" width="3" height="1"></td></tr><tr><td height="19" colspan="9" background="http://media.moving.com/moving/mvng/new/nav/nav_bar_14.gif" align="right" valign="top"><div id="defaultDiv"><table border="0" width="735" cellspacing="0" cellpadding="0" class="menu" id="defaultTable"><tbody id="defaultTableBody"><tr id="defaultTR1"><td id="defaultTD1" align="right"><table border="0" width="735" cellspacing="0" cellpadding="2" class="menu" id="defaultTable1"><tbody id="defaultTableBody1"><tr id="defaultTR2"><td id="defaultTD2" align="right" onmouseover="document_onmouseover(event);"><a href="/About_Us/">About Us</a>&nbsp;&nbsp;<img src="http://media.moving.com/moving/mvng/new/dot.gif" id="movingdot">&nbsp;&nbsp;<a href="/About_us/Biz_Alliances/">Business Alliances</a>&nbsp;&nbsp;<img src="http://media.moving.com/moving/mvng/new/dot.gif" id="movingdot">&nbsp;&nbsp;<a href="/About_us/Datacenter/">Media Info Center</a>&nbsp;&nbsp;<img src="http://media.moving.com/moving/mvng/new/dot.gif" id="movingdot">&nbsp;&nbsp;<a href="/About_us/Careers/">Careers</a>&nbsp;&nbsp;</td></tr></tbody></table></td></tr></tbody></table></div></td></tr><tr><td colspan="9" align="right"><img src="http://media.moving.com/moving/mvng/new/nav/nav_bar_15.gif" width="374" height="6" alt=""></td></tr></tbody></table><!-- End of Header code -->			<table width="740" cellpadding="0" cellspacing="0" border="0">
 				<tbody><tr>
+					<td width="570" valign="top">
+						<table width="100%" bgcolor="white" cellpadding="0" cellspacing="0" border="0">
+							<tbody><tr>
+								<td colspan="4">
+									<table width="100%" bgcolor="white" cellpadding="0" cellspacing="0" border="0">
+										<tbody><tr><td colspan="3"><img src="http://media.moving.com/moving/core/clear.gif" width="1" height="5" alt=""></td></tr>
+										<tr>
+											<td width="20"><img src="http://media.moving.com/moving/mvng/new/left_curve_short.gif" width="20" height="12" alt=""></td>
+											<td valign="middle" background="http://media.moving.com/moving/mvng/new/top_line_short.gif"><img src="http://media.moving.com/moving/core/clear.gif" width="1" height="1" alt=""></td>
+											<td width="20" align="right"><img src="http://media.moving.com/moving/mvng/new/right_curve_short.gif" width="20" height="12" alt=""></td>
+										</tr>
+									</tbody></table>
+								</td>
+							</tr>
+							<tr>
+								<td width="1" bgcolor="#336699"><img src="http://media.moving.com/moving/core/clear.gif" width="1" height="1" alt=""></td>
+								<td width="552" height="343" align="center" valign="top">
+
+
+
+
+<!-- page contents -->
+<table width="545" cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+
+		<!-- start left column -->
+		<td valign="top" width="0" class="SideNavSectionGEN">
+			<!-- intentionally empty -->
+
+
+		</td>
+		<!-- end left column -->
+
+		<!-- start spacer column -->
+		<td width="5"><img src="http://media.moving.com/moving/core/clear.gif" width="5" height="1" alt=""></td>
+		<!-- end spacer column -->
+
+		<!-- start center column -->
+		<td valign="top" width="520">
 				
-				<td bgcolor="#4686AF"><img src="/images/globe/dot_4686AF.gif" width="14" height="29" border="0"></td>
-					
-				<td align="center"><a href="/realestate/McomPL_default.asp?navvar=top"><img id="tdMainMenuRealestate" src="/images/globe/topnav_realestate.gif" border="0"></a></td>
-					<td align="center"><img id="tdMainMenuDivider" src="/images/globe/topnav_divider.gif" height="29" border="0"></td>
-					<td align="center"><a href="/fservices/McomPL_default.asp?navvar=top"><img id="tdMainMenuFservices" src="/images/globe/topnav_mortgage.gif" width="82" height="29" border="0"></a></td>
-					<td align="center"><img id="tdMainMenuDivider" src="/images/globe/topnav_divider.gif" height="29" border="0"></td>
-					<td align="center"><a href="/Finance/default.asp?navvar=top"><img id="tdMainMenuFinance" src="/images/globe/topnav_Finance.gif" border="0"></a></td>
-					<td align="center"><img id="tdMainMenuDivider" src="/images/globe/topnav_divider.gif" height="29" border="0"></td>
-					<td align="center"><a href="http://moving.monstermoving.com/Moving_and_Planning/Department/Packing_center/"><img id="tdMainMenuEstore" src="/images/globe/topnav_movboxes.gif" width="86" height="29" border="0"></a></td>
-					<td align="center"><img id="tdMainMenuDivider" src="/images/globe/topnav_divider.gif" height="29" border="0"></td>
-					<td align="center"><a href="/moving/McomPL_default.asp?navvar=top"><img id="tdMainMenuMoving" align="absmiddle" src="/images/globe/topnav_moving.gif" width="62" height="29" border="0"></a></td>
-					<td align="center"><img id="tdMainMenuDivider" src="/images/globe/topnav_divider.gif" height="29" border="0"></td>
-					<td align="center"><a href="/storage/McomPL_default.asp?navvar=top"><img id="tdMainMenuStorage" src="/images/globe/topnav_storage.gif" width="70" height="29" border="0"></a></td>
-					<td align="center"><img id="tdMainMenuDivider" src="/images/globe/topnav_divider.gif" height="29" border="0"></td>
-					<td align="center"><a href="/Home_Beyond/default.asp?navvar=top"><img id="tdMainMenuHome_Beyond" src="/images/globe/topnav_homeandbeyond.gif" border="0"></a></td>
-					
-					<td bgcolor="#4686AF"><img src="/images/globe/dot_4686AF.gif" border="0" width="14" height="29"></td>
+			<p class="PLTopSpacing">
+			<font class="bodyHeaderGEN">Privacy Policy</font>
+			<table cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr><td><img src="http://media.moving.com/moving/core/clear.gif" height="15" width="1" alt=""></td></tr>
+				<tr><td class="TabGENLevel1"><img src="http://media.moving.com/moving/core/clear.gif" height="1" width="1" alt=""></td></tr>
+				<tr><td><img src="http://media.moving.com/moving/core/clear.gif" height="2" width="1" alt=""></td></tr>
+				<tr><td class="TabGENLevel1"><img src="http://media.moving.com/moving/core/clear.gif" height="1" width="1" alt=""></td></tr>
+				<tr><td><img src="http://media.moving.com/moving/core/clear.gif" height="10" width="1" alt=""></td></tr>
+			</tbody></table>
+				
+			<table border="0" cellpadding="0" cellspacing="0" width="425">
+				<tbody><tr>
+					<td><img src="http://media.moving.com/moving/core/clear.gif" width="35" height="1" alt=""></td>
+					<td>
+						Moving.com is committed to respecting your privacy. We want to provide a safe, secure user experience. We will use our best efforts to ensure that the information you submit to us remains private and is used only for the purposes stated below. This notice reflects our commitment to you and applies to all information collected or submitted on the Moving.com web site. By visiting Moving.com, you are accepting the practices described in this notice. 
+						<p>
+
+						<b>What Information Do We Collect At Moving.com?</b><br>
+						</p><p>
+						<b>General Information</b><br>
 						
+						We automatically gather information about all users collectively, such as, for example, what areas of Moving.com users visit most frequently, what web sites they came from, what computer platform they use and what services on Moving.com they access most frequently. 
+						</p><p>This data helps us determine what is most beneficial for our users and how to continually create a better overall experience for them. This data does not include personally identifying information, and we use this general information only in aggregate form. 
+						</p><p>
+						<b>Personal Information</b><br>
+					
+						In order to provide some of the services on Moving.com, we ask you to provide personal information such as, for example, your name, e-mail address, home address, move date and account numbers. In addition, from time-to-time, we may ask you for additional information, such as, for example, information and feedback about your interests and opinions. We only collect this personal information if you provide it to us voluntarily. 
+						</p><p>We use the information we collect for a variety of purposes, such as responding to your requests, customizing your experience on our web site, improving our services, and communicating with you about your account and about products and services that we think will be of interest to you. 
+						</p><p>
+
+						<b>Do We Share The Information We Collect?</b><br>
+					
+						We share customer information with the other divisions, subsidiaries and affiliates of our parent company, TMP Directional Marketing and with third parties only as described below. 
+						</p><p>
+						We occasionally share general information about our web site with advertisers and other Moving.com partners so they can learn how Moving.com visitors tend to navigate through the site. As described above, this general information does not include any personally identifying information. 
+						</p><p>
+						In order to create an account with Address Changer, our change of address service, and the Move Planner, you must provide an e-mail address. You may, either upon registering with Moving.com or any time thereafter, request that Moving.com not send any further communications to that e-mail address. If you choose to use Address Central, you may indicate certain companies for us to notify of your move. We provide the information you give us in connection with the Address Changer service to those companies. Each of those companies has its own policies with regard to the collection and use of personal information and Moving.com is not responsible for their use of your information. 
+						</p><p>
+						In addition, other companies occasionally make special offers available directly to Moving.com customers. You will have an opportunity to receive information about these offers. If you request to receive information about these offers, we will share your personal information with these companies so that they can send you details about their special offers. Each of these companies has its own policies with regard to the collection and use of personal information and Moving.com is not responsible for their use of your information. 
+						</p><p>
+						We work closely with certain business partners to provide you with high quality products and services. With some of these businesses, we will share the personal information that you provide us if it is relevant to the services that our partner provides to you. We presently share information with our partners in connection with the following co-branded services that they offer through Moving.com: 
+						</p><ul>
+						<li>Environmental Report
+						</li><li>Find a Home
+						</li><li>Find an Apartment
+						</li><li>Locate an Agent
+						</li><li>Mortgage Pre-Application
+						</li><li>School Report
+						</li><li>Tax Advisor
+						</li><li>Utility Connection
+						</li></ul>
+						For example, before you may use the Mortgage Pre-Application service, you must first complete a form that asks for certain personal information (such as your name, email address and social security number), as well as information about your finances, employment and the property you want to mortgage.  At your direction (by clicking the “Submit” button), we will forward this information to the participating lender of your choice, who may then contact you about applying for a mortgage, and use the information to assist you in that process.  
+						<p>
+						With respect to the Mortgage Pre-Application Service, Moving.com does not permit our participating lenders to use the information that you provide in your mortgage pre-application, other than in connection with helping you obtain a mortgage.  Moving.com, however, has no control over how the participating lenders use personal information gathered directly on their sites.  Also, with respect to our other business partners, each has its own posted policies with regard to the collection and use of personal information and Moving.com is not responsible for their use of your information. In addition, Moving.com contains many links to other companies' web sites. Moving.com is not responsible for the privacy or other practices or the content of such web sites. 
+				
+				
+						</p><p>
+						We employ other companies and individuals to perform functions on our behalf. Examples may include hosting our web servers, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. These other companies will have access to your personal information only as necessary to perform their functions and to the extent permitted by law. 
+						</p><p>
+						If Moving.com or our parent company, TMP Directional Marketing. (or substantially all of our or its assets) are acquired, we expect that customer information would be transferred along with the other business assets. 
+						</p><p>
+						To the extent permitted by law, we may also share your personal information if we believe it is necessary to comply with law, to enforce or apply our Terms of Use, or to protect the rights, property, or safety of Moving.com or our users. This may include, for example, sharing information with other companies and organizations for fraud protection and credit risk reduction. 
+						</p><p>
+						Other than as described above, we will provide you notice when we propose to share your personal information with third parties, and you will have an opportunity to choose not to share that information. 
+						</p><p>
+
+						<b>Updating Account Information</b><br>
+						
+						Moving.com encourages you to review the personal identifying information we have collected about you, and to change, correct inaccuracies, or update that information at any time. You can do this by logging into any of the utilities provided directly by us through our web site, such as the Move Planner or Address Changer, and clicking on "Update Account Information." When you update information, we usually keep a copy of the prior version for our records. 
+						</p><p>
+
+						<b>Deleting Information</b><br>
+						
+						We will no longer use or disclose any personally identifying information we have collected about you if you send an email requesting that we remove your personal information from our active files.  Please <a href="/Contact_Us/">click here</a> if you wish to have your personal information removed.  Please include your full name and the e-mail address that you used to register with us in the request.  Please note that this will only remove your personal information from our files and not from the files of our business partners or other third parties with whom we have shared your information as permitted under this policy.
+						
+						</p><p>
+
+						<b>Online Security</b><br>
+						
+						We use Secure Socket Layer 128-bit encryption technology and a secure internal computer system to protect personal identifying information used on Moving.com. While this technology does not completely guarantee the security of your information, it does make it very difficult for information to be stolen or intercepted while being transferred and stored. 
+						</p><p>
+
+						<b>Cookies</b><br>
+											
+						A "cookie" is an element of data that a web site can send to a browser, which then may get stored on a computer. The cookie can be used to identify a repeat user to the site that placed the cookie on the computer. Cookies also can be used to track your movement from page to page, or within a single page of a web site. Some of Moving.com's web pages use cookies. For example, you receive a cookie when you access the Move Planner and Address Changer. 
+						</p><p>
+						Moving.com uses cookies because, among other things, they allow us to personalize content, banners, and promotions that you see on our site. We also use information obtained from cookies to learn how you navigate through Moving.com. 
+						</p><p>
+						You can set your browser software to notify you when receiving a cookie, and you have the option not to accept cookies at all. Because some of our services require the use of cookies, if you refuse to accept cookies or if you remove a cookie that is on your computer, it will affect your ability to log into certain areas and your ability to use certain of the tools and content on Moving.com. 
+						</p><p>
+
+						<b>Contact Us</b><br>
+						
+						Moving.com encourages you to give us feedback. Please <a href="/Contact_Us/">click here</a> to submit your feedback. Any feedback that is submitted becomes the property of Moving.com. Feedback, such as customer suggestions or testimonials, may be used for a variety of purposes, including, for example, our marketing purposes or to contact users about our site.
+						
+						</p><p>
+
+						<b>Terms of Use and Privacy Commitment Changes</b><br>
+						If you choose to visit Moving.com, your visit and any dispute about the use of your personal information will be governed by this Privacy Notice and by our 
+						<a href="/About_us/Disclaimer/index.asp">Terms of Use</a>
+						. As our business changes, we may need to revise our Privacy Notice and Terms of Use. You will, of course, have the opportunity to change your privacy preferences at any time or delete your information from our active files. Please be aware that, to the extent permitted by applicable law, our use of information is governed by the Privacy Notice in effect at the time we use the information. 
+						Please <a href="/Contact_Us/">click here</a> to submit your questions, comments or concerns about Moving.com's Privacy Policy.
+						
+						</p><p>
+						Update effective February 25, 2004
+						<br><br>
+					</p></td>
 				</tr>
 			</tbody></table>
-			</div>
-		</td>
-		<!-- end top Nav -->
-	</tr>
-	<tr>
-		<td valign="top">
-			<br>
-
-
-	<script language="JAVASCRIPT" type="Text/JAVASCRIPT">
-		function newWindows() {
-		changeAddr=window.open('http://www.monstermoving.com/Moving_and_Planning/addresschanger/', 'changeaddress', 'toolbar=yes,scrollbars=yes,location=yes,resizable=yes')
-		}
-	</script>
-
-<table align="center" cellpadding="2" width="500" border="0">
- <tbody><tr>
-	<td colspan="2"><img src="/images/globe/text_privacystatement.gif"></td></tr>
-<tr>
-<td valign="top">
-<font id="Text6">
-The information presented on this page covers  <font id="Text1">Moving.com's</font> usage of information gathered for our website,</font> <a href="http://www.moving.com"><font id="Text16">www.moving.com</font></a>.
-<p>
-<font id="Text6"><font id="Text1">Moving.com</font> contains links to other sites. 
-
-</font></p><p><font id="Text6"><font id="Text1">Moving.com</font> is not responsible for the privacy practices, business operations, or content of any such sites.</font>
-</p><p>
-<font id="Text16"><b>Demographic Information</b></font><br>
-<font id="Text1">Moving.com</font> <font id="Text6">currently surveys its visitors for certain demographical information. This information typically includes contact information (e-mail address, zip code, phone number).</font> 
-	</p></td>
-	<td width="180" valign="TOP"><img src="/images/globe/about_us_top.gif" align="absbottom" width="180" height="36">
-		<table bgcolor="#B4C8D6" align="center" cellspacing="1" cellpadding="0" width="180" border="0">
-		  <tbody><tr>
-		  	<td bgcolor="#FFFFFF" valign="top" width="178"><br>
-				<ul id="Text48">
-					<a href="/footer/aboutus/aboutus.asp"><li class="redarrrow">Introduction</li></a>
-					<a href="/footer/aboutus/press.asp"><li class="redarrrow">Moving.com in the Media</li></a>
-					<a href="/footer/aboutus/pressrelease.asp"><li class="redarrrow">Press Releases</li></a>
-					<!--a href="/footer/career.asp"><li class="redarrrow">Jobs</li></a-->
-					<a href="/footer/aboutus/accolades.asp"><li class="redarrrow">Accolades</li></a>										
-					<!--a href="/vendor/default.asp"><li class="redarrrow">Relocation Professionals</li></a-->
-					<a href="http://moving.monstermoving.com/Advertise_With_Us/"><li class="redarrrow">Advertising</li></a>
-					<!--
-						<a href="/advertise/join.asp?service=2"><li class="redarrrow">Vendors - Join Our Network!</li></a>					
-					
-						<a href="/advertise/joinNS.asp?service=2"><li class="redarrrow">Vendors - Join Our Network!</li></a>					
-						
-						<a href="/advertise/join.asp?service=2"><li class="redarrrow">Vendors - Join Our Network!</li></a>							
-										
-					<a href="/affiliate/licensing.asp?service=2"><li class="redarrrow">Use our content</li></a-->
-					<a href="http://moving.monstermoving.com/About_Us/Privacy_Policy/"><li class="redarrrow">Privacy Policy</li></a>													
-					<!--a href="/newsletters/newsletters_main.asp"><li class="redarrrow">Newsletters</li></a-->	
-					<a href="http://moving.monstermoving.com/About_us/Exec_Bios/"><li class="redarrrow">Corporate Bios</li></a>	
-				</ul>
-			</td>
-		  </tr>
-		</tbody></table>
-
-</td>
-</tr>
-<tr>
-	<td colspan="2">
-<font id="Text6">The contact information provided by users to <font id="Text1">Moving.com</font> is used solely for the purposes of:</font>
-<ul>
-	<li><font id="Text6">contacting our users if necessary.</font>
-	</li><li><font id="Text6">allowing reputable and professional companies to contact users in order to offer them a service that the users had voluntarily requested.</font>
-	</li><li><font id="Text6">obtaining a better understanding of our users, thus enabling <font id="Text1">Moving.com</font> to create a website that is more accurately designed for its users.</font>
-</li></ul>
-<font id="Text1">Moving.com</font> <font id="Text6">supplements users' surveys with information that is received from third parties. <font id="Text1">Moving.com</font> does not in any way sell or redistribute any of our consumer's information to any third party organization under any circumstances.</font>
-<p>
-<font id="Text16"><b>Children's Guidelines</b></font><br>
-<font id="Text1">Moving.com</font> <font id="Text6">meets the guidelines of TRUSTe's Children's program. These guidelines prevent <font id="Text1">Moving.com</font> from partaking in any of the following operations:</font>
-</p><ul>
-	<li><font id="Text6">Collecting online contact information of children without prior parental consent or parental notification. A "parental notification" requires parents to be provided with the opportunity to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request.</font>
-	</li><li><font id="Text6">Collecting personally identifiable offline contact information of children without prior parental consent.</font>
-	</li><li><font id="Text6">Distributing personally identifiable information to third parties without prior parental consent.</font>
-	</li><li><font id="Text6">Publicly posting or distributing personally identifiable contact information of children without prior parental consent.</font>
-	</li><li><font id="Text6">Enticing children to divulge more information than is needed to participate in any given activity through the use of a special game, prize, etc.</font>
-</li></ul>
-<font id="Text16"><b>Unsubscribing/Correcting</b></font><br>
-<font id="Text1">Moving.com</font> <font id="Text6">provides its users with the opportunity to unsubscribe from receiving communication from <font id="Text1">Moving.com</font> or its partners. In addition, <font id="Text1">Moving.com</font> allows its users to modify any information that they had provided. Unsubscribing or correcting can be done in one of two ways:</font>
-<ul>
-<li><font id="Text6">A notification can be sent via email to <font id="Text1">Moving.com</font> at advertising@moving.com.</font>
-</li><li><font id="Text6">A notification can be sent vial postal mail to <b>Moving.com</b> at the following address:</font>
-</li></ul>
-<blockquote><font id="Text6">11 Broadway<br>
-			Suite 1131<br>
-			New York, NY 10004</font>
-</blockquote>
-<p>
-<font id="Text16"><b>Advertisements</b></font><br>
-<font id="Text6">
- We use third-party advertising companies to serve ads when you visit our Web site. 
-  These companies may use information (not including your name, address, e-mail address 
-  or telephone number) about your visits to this and other Web sites in order to provide 
-  advertisements about goods and services of interest to you.  If you would like more
-   information about this practice and to know your choices about not having this 
-   information used by these companies, <a href="http://www.almondnet.com/webSite2/policy.html">click here</a>.
-</font>
-</p><p>
-<font id="Text16"><b>Contacting the Web Site</b></font><br>
-<font id="Text6">If you have any questions regarding this privacy statement, the practices of this site, or your personal matters involving <font id="Text1">Moving.com</font>, please contact us using the information provided below:</font>
-</p><p>
-</p><address><font id="Text6">Moving.com</font></address>
-<address><font id="Text6">11 Broadway</font></address>
-<address><font id="Text6">Suite 1131</font></address>
-<address><font id="Text6">New York, NY 10004</font></address>
-<address><font id="Text6">UserSupport@moving.com</font></address>
-</td>
-</tr>
-</tbody></table>
-    	</td>
-<!-- end Main Body-->
-<td valign="top" height="2" width="2"><img src="/images/blank.gif" width="2" height="2"></td>
-<!-- begin Right Side-->
-		<td align="right" valign="top">
-			<table width="120" cellpadding="0" cellspacing="0" border="0">
+			
+			<!-- content ends here  -->						
+		</p></td>
+		<!-- end center column -->
 		
-				 <tbody><tr><td><img src="/images/blank.gif" width="3" height="6"></td></tr>
-			  <tr>
-			 <td align="right">
-				<!-- begin 120 ads -->
-				<table align="right" width="120" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff">
-<!--Starting of side banners -->
-	<tbody><tr><td align="center">
-	<!--Ad Tag-->
-	<script size="text/javascript" language="JavaScript" src="http://ads.monstermoving.com/js.ng/page.uniqueads=yes&amp;page.allowcompete=no&amp;size=120x240&amp;site=move&amp;mmapp=home&amp;pp=5&amp;mml1=1&amp;mml2=0&amp;mml3=0&amp;mmlx=1&amp;mmcl1=4&amp;mmcl2=1024&amp;mmcl3=0&amp;mmclx=1024&amp;rand=740806"></script>
-	<noscript><table cellpadding="1">
-	<tr><td><a href="http://ads.monstermoving.com/click.ng/size=120x240&site=move&mmapp=home&pp=4&mml1=1&mml2=0&mml3=0&mmlx=1&mmcl1=4&mmcl2=1024&mmcl3=0&mmclx=1024&rand=740806"><img width="120" height="240" border="0" alt="" src="http://ads.monstermoving.com/image.ng/size=120x240&site=move&mmapp=home&pp=4&mml1=1&mml2=0&mml3=0&mmlx=1&mmcl1=4&mmcl2=1024&mmcl3=0&mmclx=1024&rand=740806"></a></td></tr>
-	<tr><td><a href="http://ads.monstermoving.com/click.ng/size=120x240&site=move&mmapp=home&pp=5&mml1=1&mml2=0&mml3=0&mmlx=1&mmcl1=4&mmcl2=1024&mmcl3=0&mmclx=1024&rand=740806"><img width="120" height="240" border="0" alt="" src="http://ads.monstermoving.com/image.ng/size=120x240&site=move&mmapp=home&pp=5&mml1=1&mml2=0&mml3=0&mmlx=1&mmcl1=4&mmcl2=1024&mmcl3=0&mmclx=1024&rand=740806"></a></td></tr>
-	</table></noscript>
-	
-	<!--/Ad Tag-->
-	</td></tr>
-</tbody></table>
-<!-- END OF side banners -->		
-
-
-				<!-- End 120 ads -->				
-				</td>
-			  </tr>
-			  
-			  <tr>
-			  	<td><img src="/images/blank.gif" width="3" height="6"></td>
-			  </tr>
-			</tbody></table>	
-		</td>		
 	</tr>
+</tbody></table>
+<!-- end page contents -->
 
-	<tr>
-		<td colspan="3" valign="bottom">
-		<table align="center" width="98%" bgcolor="#FFFFFF" border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr>
-			<td align="center" id="Text45"><font color="#9BC1D9"><hr size="1" color="#9BC1D9">
-			<a class="footerOn" href="/affiliate/licensing.asp">Partners</a> | <a class="footerOn" href="/advertise/advertise.asp">Advertising</a> | <a class="footerOn" href="/footer/privacy.asp">Privacy</a> | <a class="footerOn" href="http://moving.monstermoving.com/Contact_Us/index.asp?">Contact Us</a></font>
-			</td>
-			</tr>
-			<tr><td>&nbsp;</td></tr>
-			<tr><td align="center" id="Text45"><p>©2003 Moving.com - All Rights Reserved</p></td></tr>
-		</tbody></table>
+
+								</td>
+								<td width="1" bgcolor="#336699"><img src="http://media.moving.com/moving/core/clear.gif" width="1" height="1" alt=""></td>
+								<td width="6" style="background-image:url(http://media.moving.com/moving/mvng/home/dropshadow_a.gif);"><img src="http://media.moving.com/moving/core/clear.gif" width="6" height="1" alt=""></td>
+							</tr>
+							<tr>
+								<td colspan="4">
+																		
+									<table width="100%" bgcolor="white" cellpadding="0" cellspacing="0" border="0" id="Table1">
+   										<tbody><tr>
+   											<td align="left" width="14"><img src="http://media.moving.com/moving/mvng/new/bottom_01.gif" width="14" height="19" alt=""></td>
+   											<td background="http://media.moving.com/moving/mvng/new/bottom_02.gif"><img src="http://media.moving.com/moving/core/clear.gif" width="1" height="1" alt=""></td>
+   											<td align="right" width="18"><img src="http://media.moving.com/moving/mvng/new/bottom_03.gif" width="18" height="19" alt=""></td>
+   										</tr>
+   									</tbody></table>	
+   									
+									
+									
+								</td>
+							</tr>
+						</tbody></table>
+					</td>
+
+
+					<!-- <td width="5"><img src="http://media.moving.com/moving/core/clear.gif" width="5" height="1" alt="" /></td> -->
+					<td width="165" valign="top" align="center">
+
+								<table cellpadding="0" cellspacing="0" border="0" id="Table3">
+									<tbody><tr><td align="center">
+										<!--OAS MJX Ad Tag-->
+										<script language="JavaScript">
+										<!--
+										OAS_AD('x01');
+										//--></script>
+										</td>
+									</tr>
+									<tr><td align="center">
+										<!--OAS MJX Ad Tag-->
+										<script language="JavaScript">
+										<!--
+										OAS_AD('x02');
+										//--></script>
+										</td>
+									</tr>
+									<tr><td align="center">
+										<!--OAS MJX Ad Tag-->
+										<script language="JavaScript">
+										<!--
+										OAS_AD('x03');
+										//--></script>
+										</td>
+									</tr>
+									<tr><td align="center">
+										<!--OAS MJX Ad Tag-->
+										<script language="JavaScript">
+										<!--
+										OAS_AD('x04');
+										//--></script>
+										</td>
+									</tr>
+								</tbody></table>
+						
+				<table cellpadding="0" cellspacing="0" border="0">
+				  <tbody><tr><td height="20"></td></tr>
+				  <tr><td align="center"><div id="DARTVBANDIV" xmlns="DARTInterface"><!-- BEGIN VBAN AD TAG --><script><!--
+						document.write("<SCR" + "IPT LANGUAGE='JavaScript1.1' SRC='http://ad.doubleclick.net/adj/MOVE.ING/ut_us/privacy_policy/index.asp;pos=VBAN;sz=120x240;ord=5232006346159376485?'></SCR" + "IPT>");
+					// --></script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/MOVE.ING/ut_us/privacy_policy/index.asp;pos=VBAN;sz=120x240;ord=5232006346159376485?"></script><script><!--
+					if ((!document.images && navigator.userAgent.indexOf("Mozilla/2.") >= 0) || (navigator.userAgent.indexOf("WebTV")>= 0)) 
+					{
+						document.write("<A HREF='http://ad.doubleclick.net/jump/MOVE.ING/ut_us/privacy_policy/index.asp;pos=VBAN;sz=120x240;ord=5232006346159376485?' TARGET='_blank'>");
+						document.write("<IMG SRC='http://ad.doubleclick.net/ad/MOVE.ING/ut_us/privacy_policy/index.asp;pos=VBAN;sz=120x240;ord=5232006346159376485?' WIDTH='120' HEIGHT='240' BORDER='0' ALT=''></A>");
+					}
+					// --></script><noscript><A HREF="http://ad.doubleclick.net/jump/MOVE.ING/ut_us/privacy_policy/index.asp;pos=VBAN;sz=120x240;ord=5232006346159376485?" TARGET="_blank"><IMG SRC="http://ad.doubleclick.net/ad/MOVE.ING/ut_us/privacy_policy/index.asp;pos=VBAN;sz=120x240;ord=5232006346159376485?" WIDTH="120" HEIGHT="240" BORDER="0" ALT="" /></A></noscript><!-- END VBAN AD TAG --></div></td></tr>
+				</tbody></table>
+
+					</td>
+
+
+			<!-----------------------------------Right Nav Banner - Starts---------------------------------------->
+	
+			
+			<!------------------------------------Right Nav Banner - End--------------------------------------------->
+
+
+
+
+
+
+
+
+
+
+				</tr>
+			</tbody></table>
+			<!---------------------------------How Does Work ---------------------------------------------->
+			<br><br>			
+			
+			
+			
+			<!---------------------------------AD SPACE---------------------------------------------->
+			
+			<br>
+			<table width="740" cellspacing="0" cellpadding="0" border="0" id="Table24">
+				<tbody><tr><td height="15" valign="bottom" background="http://media.moving.com/moving/mvng/new/dotted_line_tall.gif" class="footer"><span class="footer" style="background-color:white;">Advertisement&nbsp;</span></td></tr>
+				<tr>
+					<td align="center"><br>
+						<!--OAS MJX Ad Tag-->
+						<script language="JavaScript">
+						<!--
+						OAS_AD('Bottom');
+						//--></script>
+					</td>
+				</tr>
+			</tbody></table>
+			
+
+			<!--------------------------------- FOOTER ---------------------------------------------->
+			<br>			
+			<table width="740" cellspacing="0" cellpadding="0" border="0" id="Table25">
+				<tbody><tr><td height="1" background="http://media.moving.com/moving/mvng/new/dotted_line.gif"><img src="http://media.moving.com/moving/core/clear.gif" width="728" height="1"></td></tr>
+				<tr>
+					<td class="footer" align="center"><br>
+					    <a href="/Moving_and_Planning/Quotes/index.asp" class="footer">Find a Mover</a> | <a href="/Moving_and_Planning/Department/Packing_Center/index.asp" class="footer">Moving Boxes &amp; Supplies</a> | <a href="/Living_and_Shopping/index.asp" class="footer">Moving Resources </a> | <a href="/Moving_and_Planning/Department/Packing_Center/index.asp" class="footer">Packing Supplies</a> | <a href="/Moving_and_Planning/Department/Storage_center/Find.asp" class="footer">Storage Facilities</a> | <a href="/Moving_and_Planning/Department/Truck_rental/index.asp" class="footer">Truck Rentals</a><br>
+					    <a href="/Living_and_Shopping/Department/Home_services/ServiceMagic.asp" class="footer">Home Services </a> | <a href="/Mortgage_and_Finance/Department/Insurance_center/index.asp" class="footer">Insurance</a> | <a href="/Community/index.asp" class="footer">Neighborhood Information</a> | <a href="/Mortgage_and_Finance/Quotes/index.asp" class="footer">Mortgages</a> | <a href="/Find_A_Place/School_Reports/" class="footer">School Reports</a>| <a href="/Moving_and_Planning/Department/Utility_center/index.asp" class="footer">Utilities</a>
+					    <br><br>					
+					</td>
+				</tr>
+			</tbody></table>
+			<table width="740" cellspacing="0" cellpadding="0" border="0" id="Table26">				
+				<tbody><tr>
+					<td class="footer" align="center"><br>
+					    <a href="/" class="footer">Home</a> | <a href="/About_Us/" class="footer">About Us</a> | <a href="/Contact_Us/" class="footer">Contact Us</a> | <a href="/Help/" class="footer">Help</a> | <a href="/About_Us/Privacy_Policy/" class="footer">Privacy Policy</a> | <a href="/Links/" class="footer">Links</a> | <a href="http://www.move.com" class="footer">Move.com</a> | <a href="/IRC/" class="footer">International Corporate Relocation</a><br>
+					    <a href="/About_Us/Disclaimer/" class="footer">Terms Of Use</a> | <a href="/Advertise_With_Us/" class="footer">Advertise With Us</a> | <a href="/Advertise_With_Us/Partners.asp" class="footer">Partners</a> | <a href="/sitemap.asp" class="footer">Site Map</a> | <a href="http://admin.moving.com/" class="footer">Vendor Log-In</a> | <a href="http://vendor.moving.com/vendor/" class="footer">Last Minute Moves Vendor Log-In</a>
+					    <br><br>
+					    <strong>Copyright © 2000-2006 Homestore, Inc., d/b/a Move. All rights reserved.</strong>
+					</td>
+				</tr>
+			</tbody></table>
 		</td>
 	</tr>
 </tbody></table>
-</td></tr></tbody></table>
+</center>
 
+<!--build:include="/shared/code/i_dcs.js" target="/include"-->
 
-<!-- START OF Data Collection Server TAG -->
-<!-- Copyright 2002 NetIQ Corporation -->
-<!-- V2.0 -->
-<script language="JavaScript">
-<!--
-function dcs_2_0(dcs_URI,dcs_QRY,dcs_EXT)
-{
-	var dCurrent = new Date();
-	var P = "";
-	P+="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://cookie.monster.com/DCS000002_7G5R/dcs.gif?";
-	P+="dcsuri="+escape(dcs_URI);
-	P+="&dcsqry="+escape(dcs_QRY);
-	if ((window.document.referrer != "") && (window.document.referrer != "-"))
-	{
-		if (!(navigator.appName == "Microsoft Internet Explorer" && parseInt(navigator.appVersion) < 4) )
-		{
-			P+="&dcsref="+escape(window.document.referrer);
-		}
-	}
-	P+=dcs_EXT;
-	P+="&dcssip=www.moving.com";
-	P+="&dcsdat="+escape(dCurrent.getTime());
-	document.write('<img border="0" name="DCSIMG" width="1" height="1" alt="" src="'+P+'">');
-}
-//-->
-</script>
-<script language="JavaScript">
-<!--
-function dcsExtend(N,V)
-{
-	dcsEXT+="&"+N+"="+escape(V);
-}
-function dcsMeta() 
-{
-	var F=false;
-	var myDocumentElements;
-	if (document.all)
-	{
-		F = true;
-		myDocumentElements=document.all.tags("meta");
-	}
-	if (!F && document.documentElement)
-	{
-		F = true;    
-		myDocumentElements=document.getElementsByTagName("meta");
-	}
-	if (F)
-	{
-		for (var i=1; i<=myDocumentElements.length;i++)
-		{
-			myMeta=myDocumentElements.item(i-1);
-			if (myMeta.name.indexOf('WT.')==0)
-				dcsExtend(myMeta.name,myMeta.content);
-		}
-	}	
-}
-
-var dcsURI=window.location.pathname;
-var dcsQRY=window.location.search;
-var dcsEXT="";
-dcsMeta();
-dcs_2_0(dcsURI,dcsQRY,dcsEXT);
-//-->
-</script><img border="0" name="DCSIMG" width="1" height="1" alt="" src="https://cookie.monster.com/DCS000002_7G5R/dcs.gif?dcsuri=/web/20041012104130id_/http%253A//www.moving.com/footer/privacy.asp&amp;dcsqry=&amp;dcssip=www.moving.com&amp;dcsdat=1580425407116">
+<!-- *** MINDFIRE ROI CLICK TRACKING CODE 3.0 *** -->
+<script language="JavaScript" type="text/javascript" defer="defer" src="http://search.mindfire.com/tracking/show.php?id=455783622&amp;location=Homepage"></script>
 <noscript>
-<img border="0" name="DCSIMG" width="1" height="1" alt="" src="http://cookie.monster.com/DCS000002_7G5R/njs.gif?dcsuri=/nojavascript&dcssip=www.moving.com">
+<img src="http://search.mindfire.com/tracking/log.php?id=455783622&loc=Homepage" border="0" width="1" height="1">
 </noscript>
-<!-- END OF Data Collection Server TAG -->	
+<!-- ^^^ MINDFIRE ROI CLICK TRACKING CODE 3.0 ^^^ -->
+
+
+
+
+<!-- SiteCatalyst code version: H.2.
+Copyright 1997-2005 Omniture, Inc. More info available at
+http://www.omniture.com -->
+<script language="JavaScript"><!--
+var s_account_local = "";
+//--></script>
+
+<script language="JavaScript" src="/include/s_code.js"></script><img name="s_i_movingcom" height="1" width="1" border="0" alt="" src="https://stats.moving.com/b/ss/movingcom/1/H.2-pdv-2/s57976781020423?[AQB]&amp;ndh=1&amp;t=30/0/2020%2023%3A3%3A29%204%200&amp;ns=movingcom&amp;pageName=About_Us_Privacy_Policy&amp;g=https%3A//web.archive.org/web/20060523074632id_/http%3A//www.moving.com/About_us/privacy_Policy/&amp;cc=USD&amp;c1=About%20Us&amp;v1=About%20Us&amp;v2=www.moving.com&amp;c3=www.moving.com&amp;v3=About%20Us&amp;c4=About%20Us&amp;v37=About_Us_Privacy_Policy&amp;c38=About_Us_Privacy_Policy&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+<script language="JavaScript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+s.pageName="About_Us_Privacy_Policy"
+s.server=""
+s.channel=""
+s.pageType=""
+s.prop1="About Us"
+s.prop2=""
+s.prop3="www.moving.com"
+s.prop4="About Us"
+s.prop5=""
+s.prop6=""
+s.prop7=""
+s.prop8=""
+s.prop9=""
+s.prop10=""
+s.prop11=""
+s.prop12=""
+s.prop13=""
+s.prop14=""
+s.prop15=""
+s.prop38=""
+/* E-commerce Variables */
+s.campaign=""
+s.events=""
+s.products=""
+s.purchaseID=""
+s.eVar1=""
+s.eVar2=""
+s.eVar3=""
+s.eVar4=""
+s.eVar5=""
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.2. -->
+
+
+
+
+
 
 
 
