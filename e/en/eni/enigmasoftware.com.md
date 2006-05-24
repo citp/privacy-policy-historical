@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enigmasoftware.com privacy policy that was archived on 2005-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050727015524id_/http%3A//www.enigmasoftware.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enigmasoftware.com privacy policy that was archived on 2006-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060525013036id_/http%3A//enigmasoftware.com/privacy.shtml) for the most accurate reproduction.*
 
 # Enigma Software Group, Inc.
 
