@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the alexa.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231141715id_/http%3A//pages.alexa.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alexa.com privacy policy that was archived on 2006-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060524180147id_/http%3A//pages.alexa.com/help/privacy.html) for the most accurate reproduction.*
 
 # Alexa Web Search -- Privacy Policy
 
 Alexa Internet Privacy Policy
 
-**Updated 17 March 2003** ([see what's changed](https://web.archive.org/web/20051231141715id_/http%3A//pages.alexa.com/help/redline.html#privacy))   
+**Updated 17 March 2003** ([see what's changed](https://web.archive.org/web/20060524180147id_/http%3A//pages.alexa.com/help/redline.html#privacy))   
  
 
-Alexa is committed to protecting your privacy. This Privacy Policy, which is a binding part of Alexa's [ Website Terms of Use and End User License Agreement ("Agreement")](https://web.archive.org/web/20051231141715id_/http%3A//pages.alexa.com/help/terms.html), explains the type of information Alexa collects through its website and theAlexa browser companion software ("Toolbar Service") and what Alexa does with it.
+Alexa is committed to protecting your privacy. This Privacy Policy, which is a binding part of Alexa's [ Website Terms of Use and End User License Agreement ("Agreement")](https://web.archive.org/web/20060524180147id_/http%3A//pages.alexa.com/help/terms.html), explains the type of information Alexa collects through its website and theAlexa browser companion software ("Toolbar Service") and what Alexa does with it.
 
 ALEXA'S TOOLBAR SERVICE COLLECTS AND STORES INFORMATION ABOUT THE WEB PAGES YOU VIEW, THE DATA YOU ENTER IN ONLINE FORMS AND SEARCH FIELDS, AND, WITH VERSIONS 5.0 AND HIGHER, THE PRODUCTS YOU PURCHASE ONLINE WHILE USING THE TOOLBAR SERVICE. ALTHOUGH ALEXA DOES NOT ATTEMPT TO ANALYZE WEB USAGE DATA TO DETERMINE THE IDENTITY OF ANY ALEXA USER, SOME INFORMATION COLLECTED BY THE TOOLBAR SERVICE IS PERSONALLY IDENTIFIABLE. ALEXA AGGREGATES AND ANALYZES THE INFORMATION IT COLLECTS TO IMPROVE ITS SERVICE AND TO PREPARE REPORTS ABOUT AGGREGATE WEB USAGE AND SHOPPING HABITS.
 
