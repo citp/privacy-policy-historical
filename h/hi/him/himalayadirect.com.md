@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the himalayadirect.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222151828id_/http%3A//himalayadirect.com/privacy.php%3FosCsid%3D3dfb5686bac6c89321a97a98bd16e8b8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the himalayadirect.com privacy policy that was archived on 2006-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060525114109id_/http%3A//www.himalayadirect.com/privacy.php%3FosCsid%3D6549ac5756974445e4ae4a7f970d5c39) for the most accurate reproduction.*
 
 # researching nature · enriching life · since 1930
 
