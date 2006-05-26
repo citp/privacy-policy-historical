@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the look-4it.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210221322id_/http%3A//www.look-4it.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the look-4it.com privacy policy that was archived on 2006-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060526202202id_/http%3A//www.look-4it.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - LOOK-4IT.COM Meta Search Engine
 
@@ -19,12 +19,9 @@
 
 If you no longer wish to receive our occasional newsletters or other marketing communications from **LOOK-4IT.COM** you may **opt-out** of receiving these by sending an E-Mail message to us at [unsubscribe@look-4it.com](mailto:unsubscribe@look-4it.com).
 
-  
-
-
 [**Home**](http://www.look-4it.com/ "Meta Search Engine - LOOK-4IT.COM")  |  [ **Submit Article**](http://www.look-4it.com/submit-article.php "Submit Article")  |  [ **Link to Us**](http://www.look-4it.com/link-to-us.php "Link to LOOK-4IT.COM")  |  [ **Free  Content**](http://www.look-4it.com/free-content.php "FREE Content")  |  [ **Contact Us**](mailto:info@look-4it.com)  |  [ **Privacy  Policy**](http://www.look-4it.com/privacy-policy.php "LOOK-4IT.COM Privacy Policy")  |  [ **Terms  of Use**](http://www.look-4it.com/terms-of-use.php "LOOK-4IT.COM Terms of Use")
 
-Copyright © 2005, LOOK-4IT.COM. All Rights Reserved.
+Copyright © 2005-2006, LOOK-4IT.COM. All rights reserved.
 
 All trademarks, icons, and logos, shown or mentioned at this web site, are the property of their respective owners.   
 The information in the articles is provided without any warranty and must by used by the reader at their own discretion.   
