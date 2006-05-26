@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yesnetwork.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231194455id_/http%3A//www.yesnetwork.com/privacypoilicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesnetwork.com privacy policy that was archived on 2006-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060526190006id_/http%3A//yesnetwork.com/privacypoilicy.asp) for the most accurate reproduction.*
 
 # YES Network Privacy Policy - YESNetwork.com
 
