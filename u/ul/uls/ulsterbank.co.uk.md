@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ulsterbank.co.uk privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222204741id_/http%3A//www.ulsterbank.co.uk/ulster/ni/Privacy/default.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ulsterbank.co.uk privacy policy that was archived on 2006-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060526085501id_/http%3A//www.ulsterbank.co.uk/ulster/ni/Privacy/default.htm) for the most accurate reproduction.*
 
 # Ulster Bank: Privacy Policy
 
@@ -44,4 +44,4 @@ ULSTER BANK, its directors, employees, servants and agents, affiliates or other 
 
 ULSTER BANK reserves the right in its sole discretion to amend this privacy statement at any time, and you should regularly check this privacy statement for any
 
-[Back to previous page](https://web.archive.org/web/20051222204741id_/http%3A//www.ulsterbank.co.uk/ulster/ni/default.asp)
+[Back to previous page](https://web.archive.org/web/20060526085501id_/http%3A//www.ulsterbank.co.uk/ulster/ni/default.asp)
