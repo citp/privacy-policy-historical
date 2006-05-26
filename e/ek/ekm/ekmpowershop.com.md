@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ekmpowershop.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212110207id_/http%3A//www.ekmpowershop.com/ekmps/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ekmpowershop.com privacy policy that was archived on 2006-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060526101903id_/http%3A//www.ekmpowershop.com/ekmps/privacy.asp) for the most accurate reproduction.*
 
 # ekmpowershop - Privacy Policy
 
-|  |    
+|  |  |  |    
 **Privacy Policy**
 
 At Ekm Systems Ltd we are committed to protecting and respecting the privacy or all our customers and visitors. 
@@ -14,3 +14,5 @@ When visitors use the website, information such as the ISP's domain, the time ac
 Any personal information contained within customer's websites and online shops is their own responsibility. We have taken security measures to ensure that our customers are protected against loss, alteration or misuse. 
 
 Customers are responsible for ensuring that only authorised personnel access their accounts. If for any reason you are concerned about this, please contact us on abuse@ekmpowershop.com. Should you have any queries relating to our Privacy Policy, please contact us at sales@ekmpowershop.com . 
+
+|  | 
