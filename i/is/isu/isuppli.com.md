@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isuppli.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230123211id_/http%3A//www.isuppli.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isuppli.com privacy policy that was archived on 2006-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060526064849id_/http%3A//isuppli.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # iSuppli Corporation : Applied Market Intelligence
 
