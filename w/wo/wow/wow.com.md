@@ -1,141 +1,111 @@
-> *The following text is extracted and transformed from the wow.com privacy policy that was archived on 1999-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991124173148id_/http%3A//www.compuserve.com/new_member/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wow.com privacy policy that was archived on 2006-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060527014011id_/http%3A//wow.com/redir%3Fsrc%3DPTL%26clickedItemURN%3Dhttp%253A%252F%252Fwww.aol.com%252Faolnetwork%252Faol_pp.html%26clickedItemDescription%3DprivacyLink) for the most accurate reproduction.*
 
-# Welcome Center Channel
+# Privacy Policy - About AOL
 
-  
-Protecting the Privacy of Our Members 
+AOL.com is part of the AOL Network. If you are a registered user of the AOL Network, this Privacy Policy applies to your use of AOL.com and the AOL Network. Click here to [learn more](http://about.aol.com/aolnetwork/aol_network_faq.html) about the AOL Network.
 
-**Table of Contents**
+AOL NETWORK PRIVACY POLICY
 
-1\. Overview  
-2\. Individual Member Information  
-3\. Reviewing and Correcting Individual Member Information  
-4\. Monitoring Member Online Activity  
-5\. Online Marketing and Promotions  
-6\. Your Responsibilities To Protect Personal Information  
-7\. Legal Responsibilities of CompuServe  
-8\. Privacy of Your Personal Communications  
-9\. Unsolicited Commercial E-Mail  
-10\. Privacy in Chat Rooms, Forums and Bulletin Boards  
-11\. Other Resources for Online Member Privacy Information  
-12\. Backing Up the CompuServe System for Business Purposes 
+Thank you for registering your Screen Name to obtain enhanced access to the network of Web sites and services offered by AOL LLC ("AOL"). The AOL Network improves your online experience by offering you access to a variety of features, offerings and content. By registering your Screen Name, you gain access to the AOL Network, which consists of [AOL Enhanced Websites and Services](http://about.aol.com/aolnetwork/aol_enhanced.html) such as AIM Mail, and other content and offerings from the AOL Network's [affiliated providers](http://about.aol.com/aolnetwork/affiliates.html) (collectively the "AOL Network" or "Network").
 
-As a CompuServe member, you may make the following choices about your privacy: 
+When you register with and use the AOL Network, you provide the AOL Network with personally identifiable information (your "AOL Network information"). This Policy explains the information practices that apply to your AOL Network information, as well as the choices you can make about the ways this information is used by the AOL Network.
 
-Choose whether you want to receive promotional or marketing information from CompuServe; and 
+Registering to use your Screen Name with the AOL Network is optional. This Privacy Policy applies only to information AOL collects about you as a user of the AOL Network. This policy does not apply to information about you collected by the AOL Network's affiliated providers, or third party Web sites and offerings linked to or otherwise accessible from the AOL Network. The information collected or received by the AOL Network's affiliated providers and these third parties is subject to their own privacy policies.
 
-Choose whether you want to receive promotional or marketing information from third parties affiliated with CompuServe. 
+Collection of your AOL Network Information
 
-During the sign-up process, you will select your preferences for the above-described choices. Anytime after sign-up, you can change your preferences in the Marketing Preferences area (GO MARKETING PREFERENCES). Please note that these lists are updated quarterly, and it may take a number of weeks for your new preference to be activated. However, CompuServe still reserves the right to communicate with members regarding matters pertaining to the Service, its features and its use. 
+Your AOL Network information consists of personally identifiable information collected or received about you when you interact with the AOL Network's Web sites, services and offerings as a registered user. Depending on how you use the Network, your AOL Network information may include
 
-The CompuServe Privacy Policy will periodically be reviewed and updated from time to time and will make that information available to our members. 
+  * registration-related information (such as name, home or work addresses, e-mail addresses, telephone and fax numbers, birth date or gender);
+  * information about your visits to AOL Network Web sites and pages, and your responses to the offerings and advertisements presented on these Web sites and pages;
+  * information about the searches you perform through the AOL Network and how you use the results of those searches;
+  * information about the AOL Network services or offerings that you use, and how frequently you use them;
+  * information about how long you have used services from AOL, Inc. prior to registering with the Network;
+  * transaction-related information (such as credit card or other preferred means of payment, billing or shipping information, or a history of products purchased through the AOL Network);
+  * customer service information about you as a AOL Network user or subscriber; or
+  * other information specifically related to your use of a particular AOL Network service or offering.
 
-1\. Overview 
 
-Internet and online service providers like CompuServe maintain unique relationships with members. We offer members the opportunity to communicate privately and publicly with others online. We also provide members with many informational and transactional resources and opportunities that sometimes require sharing personal information. 
 
-The sharing of this information allows consumers to have the online experience they want. It also enables businesses to deliver information about their products or services efficiently. 
+Your AOL Network information may be supplemented with additional information from other companies.
 
-At the same time, however, the collection of personal information makes it important for members to be aware of CompuServe's privacy policies and our procedures for collecting and using personal information. You also need to know what you as a member can do, and what CompuServe does, to protect that information and your rights of access to that information. 
+Your AOL Network information may also include certain technical information gathered or received when you use the AOL Network. Some of the technical information that may be collected or received includes: the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using (e.g., Windows XP or Mac OS), CPU type (e.g. Pentium), your manner of connecting to the Internet (e.g., connection speed through narrowband or broadband access); Internet protocol address; information about the version of service from AOL Inc. that you used prior to registering with the Network; other information about your geographic location; and the domain name of your Internet service provider.
 
-2\. Individual Member Information 
+Your AOL Network information may be collected and stored in the United States. Additionally, the AOL Network will use the Screen Name Service, or similar technologies, to authenticate you on the AOL Network and enable you to take advantage of Network offerings. You can learn more about other benefits of the Screen Name Service, including its ability to facilitate your use of Web sites outside the AOL Network, by visiting [Screen Name Service](http://my.screenname.aol.com/).
 
-CompuServe defines individual member information as information supplied directly by you and information derived about you from your use of our service. The information collected about a member may include: contact information (name, postal and e-mail addresses); 
+How Your AOL Network information is Used
 
-billing information (financial account and credit card number); 
+Your AOL Network information is used
 
-transactional information (such as use of premium services or online purchases); and navigational information (such as data revealing member choices or preferences they make about the service). Also included are individual communications between the company and the member. 
+  * to operate and improve the Web sites, services and offerings available through the AOL Network;
+  * to personalize the content and advertisements provided to you;
+  * to fulfill your requests for products, programs, and services;
+  * to communicate with you and respond to your inquiries;
+  * to conduct research about your use of the AOL Network; and
+  * to help offer you other products, programs, or services that may be of interest.
 
-Individual member information may or may not be personally identifiable (i.e., identifies you directly). For instance, your name, address and credit card number are personally identifiable individual member information, while navigational or transactional information is aggregated to examine patterns of usage. No transactional or navigational information is shared with CompuServe-affiliated third parties unless it is aggregated. 
 
-Individual member information might be used for business requirements such as billing, collection and accounting; or for research on usage patterns and product development; online site customization and targeted marketing. 
 
-CompuServe maintains member information (such as your name and address) for system administration and billing purposes. If a member cancels their CompuServe account, their member information is kept accessible to customer service for approximately six months after cancellation. Thereafter, it is placed in our service bureau archives. 
+Your AOL Network information may be shared with the Network's affiliated providers. You have [choices](http://about.aol.com/marketingprefs.adp) about how your AOL Network information is used, and whether affiliated providers receive personally identifiable information about you as an AOL Network user. Affiliated providers that receive your AOL Network information may use this information according to their applicable privacy policies. 
 
-3\. Reviewing and Correcting Individual Member Information 
+Your AOL Network information will not be shared with third parties unless it is necessary to fulfill a transaction you have requested, in other circumstances in which you have consented to the sharing of your AOL Network information, or except as described in this Privacy Policy. The AOL Network may use your AOL Network information to present offers to you on behalf of business partners and advertisers. These business partners and advertisers receive aggregate data about groups of AOL Network users, but do not receive information that personally identifies you.
 
-You have a right to review and correct personally identifiable member information that CompuServe maintains about you. To review the address and phone numbers that you previously entered, simply GO MEMBER and select Accounts & Billing. Click on "Update Your Billing Address" and your current address and phone numbers will be displayed. You may then update whatever records you choose. Your billing method and credit card information will not be displayed for security reasons, but you may type in new information to update your records. 
+If you use AOL Network communications tools to disclose information about yourself publicly (for example, in chat rooms or online message boards made available by the AOL Network), other online users may obtain access to any information you provide. The contents of your online communications, as well as other information about you as an AOL Network user, may be accessed and disclosed in response to legal process (for example, a court order, search warrant or subpoena); in other circumstances in which AOL believes the AOL Network is being used in the commission of a crime; when we have a good faith belief that there is an emergency that poses a threat to the safety of you or another person; or when necessary either to protect the rights or property of AOL, the AOL Network or its affiliated providers, or for us to render the service you have requested. 
 
-4\. Monitoring Member Online Activity 
+The AOL Network may use agents and contractors in order to help operate the Network. If such agents and contractors have access to personally identifiable information, they are required to protect this information in a manner that is consistent with this Privacy Policy by, for example, not using the information for any purpose other than to carry out the services they are performing for the AOL Network.
 
-Member online activity may be monitored or tracked. This may be done by CompuServe or an independent third party who CompuServe has contracted with to provide a unique service on CompuServe. Providers, including CompuServe, can improve their online services by collecting and thoughtfully using data about members online activities. 
+In the event that ownership of the AOL Network was to change as a result of a merger, acquisition or transfer to another company, your AOL Network information may be transferred. If such a transfer results in a material change in the use of your AOL Network information, the AOL Network will provide notice about the choices you have to decline to permit such a transfer.
 
-CompuServe may monitor some online member navigational (where you go) and transactional (what you buy) activity. This data is primarily about the choices members make among the range of available services or merchandise, and the times and ways that members use CompuServe. This information is used internally by CompuServe for programming, marketing and promotions, research on usage patterns and account administration and billing. 
+Your Choices About Your AOL Network Information
 
-This online activity information is aggregated--meaning the information from many members is grouped together and does not disclose the personal information of any particular member. Aggregated information includes descriptive or demographic data, usage patterns and preferences. This aggregated information about members may be provided to independent third parties to aid them in their programming decisions and, if a member chooses, used for marketing promotion purposes. 
+The AOL Network provides you with access to your registration and any billing or shipping information; the ability to edit this information at the [ My Account ](http://about.aol.com/aolnetwork/my_account.html) area; and the ability to deactivate your registration with the AOL Network. Additionally, some AOL Network services (AOL Search, for example) may offer you the ability to control what information is collected or used when you use these services.
 
-CompuServe does not disclose any individual navigational or transactional information except to comply with applicable law or valid legal process (e.g., search warrant or court order). 
+You can [make choices ](http://about.aol.com/marketingprefs.adp)about how your AOL Network information may be used by the AOL Network to provide marketing offers to you. In order to do so, please visit the [My Account](http://about.aol.com/aolnetwork/my_account.html) area and review your AOL Network marketing preferences. These preferences do not apply to communications that are directly related to your registration with the AOL Network, or the fulfillment of a specific transaction you have requested (for example, a service advisory from the AOL Network, or an acknowledgment of a purchase order).
 
-5\. Online Marketing and Promotions 
+You may also choose whether the AOL Network's affiliated providers receive personally identifiable AOL Network information. This choice does not apply to the sharing of AOL Network information necessary to provide you the basic functionality of the Network (for example, recognizing you as an authenticated user on affiliated providers' Web sites or services). Additionally, the AOL Network may share personally identifiable AOL Network information with one or more of its affiliated providers when that information is necessary to carry out a specific transaction or request you make for an offering from the Network or its affiliated providers, or as otherwise specified at the time you take advantage of that particular Network offering.
 
-CompuServe and affiliated third parties, such as content providers who manage CompuServe Forums or who host an affiliated Internet site, may send postal and electronic mailings or make telemarketing calls to members who have chosen to receive these marketing efforts. These efforts might include announcements of new services and features, or tips for using a particular service more effectively. These communications could come from Forum operators, Electronic Mall vendors, Internet site partners or other CompuServe content providers. For instance, a camera equipment manufacturer might offer the members of photography-related Forums a new product or service in which they might be interested. 
+Because the choices you make in connection with your AOL Network information may not take effect immediately, it is possible you may receive a communication during the period in which your request is being processed.
 
-6\. Your Responsibilities To Protect Personal Information 
+Cookies and Web Beacons
 
-Within CompuServe, your personal information is not accessible to other members unless you choose to share it. You should never give your password to anyone under any circumstances. No CompuServe employee will ever ask for your password online, so do not be fooled by anyone posing as an employee or Forum operator and asking for such information. Take care when providing personal identifying information (e.g., name, address, and telephone number) about yourself to others when online. 
+The AOL Network may use [cookies, web beacons, or similar technologies ](http://about.aol.com/aolnetwork/beacons.html) in combination with your AOL Network information to enhance and personalize your experience on the AOL Network, including to operate and improve offerings through the AOL Network; to help authenticate you when you use the AOL Network; to remember your preferences and registration information; to enable a shopping cart; to present and help measure and research the effectiveness of AOL Network offerings, advertisements, and e-mail communications (by determining which Network e-mails you open and act upon); and to customize the content and advertisements provided to you through the AOL Network.
 
-CompuServe is connected to the Internet and is in many ways accessible from the Internet. CompuServe has only limited control over your online environment. The simple act of maintaining an e-mail address in your name may expose your e-mail address to people and companies who have no direct relationship to CompuServe. Further, directing your browser software to access a site on the Internet may expose your e-mail address and other information. CompuServe is not responsible for the contacts made by its members online or for the results of those contacts. 
+The AOL Network and its advertisers may also use ad network providers, including AOL subsidiaries such as Advertising.com, to help present advertisements on the AOL Network and other Web sites. These ad network providers use cookies, web beacons, or similar technologies on your computer to help present, better target, and measure the effectiveness of their advertisements, using data gathered over time and across their networks of Web pages to determine or predict the characteristics and preferences of their audience. The AOL Network may share certain non-personally identifiable information about you as a Network user (such as user age and zip code) with certain ad network providers, including Advertising.com, to help them deliver more relevant advertisements through their ad networks. The use of cookies, web beacons, or similar technologies by Advertising.com and other ad network providers is subject to their own privacy policies, not the AOL Network's. You can find out more about ad network providers and the choices you have about these technologies by clicking [here ](http://about.aol.com/aolnetwork/beacons.html). 
 
-There are no uniform privacy practices when you access the Internet. While the Internet offers an exciting array of informative and entertaining sites, you should be aware that the Internet lies beyond the CompuServe community. Thus, Internet site operators are under no obligation to honor CompuServe's privacy policy when you visit their Internet sites. 
+Information for AOL and CompuServe Subscribers
 
-Some Internet sites may automatically gather certain information about those who visit their sites, including your computers operating system, your browser, your online/Internet service provider and your online activity at the Internet site. Other Internet sites require you to register certain information before you can enter their site. 
+Certain AOL Network offerings may be made available to subscribers of the AOL and CompuServe online services, without requiring these subscribers to register with the AOL Network.
 
-A Internet site operator might be able to collect your e-mail address, particularly if youve communicated in some way with the Internet site. Internet site operators vary regarding what they do with the information they collect, and CompuServe does not control the collection or use of any information a Internet site may collect. 
+Personal Financial Information
 
-Furthermore, some Internet site operators can transfer a file, called a "cookie", to your computers hard drive--with or without your knowledge. Some browsers have a preference setting that will notify you if a cookie is about to be deposited on your hard drive so you can make an informed decision before accepting it. 
+The following notice explains the AOL Network's practices with respect to the use of personal financial information, such as AOL Network portfolios ("AOL Network financial features"). By using AOL Network financial features, you agree to receive future notices required under the Gramm-Leach-Bliley Act through the continuous posting of this Privacy Policy online.
 
-Cookies may be used to recognize that you have previously visited a site, to track the areas within the Internet site that you have visited, or to provide a more customized interface to suit your interests, based on your previous visits to the site. If you have registered to enter a site, it is likely that the information has been stored on your computer as a cookie so that you will not have to re-enter the information each time you visit that particular site. 
+To use the portfolio feature on the AOL Network, for example, you specify the types of stocks and funds you wish to monitor, the names of the particular stocks of interest to you, and their purchase price ("portfolio information"). To give you updated information when you use these features, AOL Network servers automatically collect and store the portfolio information that you provide. Similarly, if you use a Wallet service to facilitate transactions on third party sites, you provide the AOL Network with information including your name, credit card, and shipping addresses ("wallet information").
 
-7\. Legal Responsibilities of CompuServe 
+The AOL Network does not disclose portfolio or wallet information to unaffiliated third parties other than in the limited circumstances permitted by law (for example, in response to legal process), or when you ask us to disclose the information (for example, when you request that the Network share wallet information in order to facilitate a purchase on a third party web site). Nor does the AOL Network share information about the specific types of stocks and funds in your portfolio with the Network's affiliated providers. Any sharing of portfolio or wallet information with the Network's affiliated providers is also subject to your [choices](http://about.aol.com/marketingprefs.adp).This policy does not apply, however, to financial information that you provide to an affiliated provider or a third party in connection with your use of their sites or offerings.
 
-CompuServe is legally obligated to provide any individual member information available if served with proper legal documentation in connection with law enforcement or legal action. 
+If you click through a banner advertisement on the portfolio or wallet features, and identify yourself to the advertiser (for example, by placing an order), the advertiser may be able to tell that you use that feature. No portfolio or wallet information is shared with the advertiser unless you request it.
 
-8\. Privacy of Your Personal Communications 
+Only employees and contractors who need to know this information in order to provide this service to you are authorized to access portfolio or wallet information.
 
-CompuServe gives your e-mail the same privacy protection and standards as U.S. postal mail. CompuServe does not retain or save a copy of e-mail messages once you have deleted them. (Please refer to Section 12.) 
+Our Commitment to Security
 
-CompuServe does not retain a copy of your incoming e-mail messages on its host computers once you have downloaded them to your hard drive provided that you have set your mail preferences accordingly. If you do not set this mail preference, a copy of the message will be downloaded to your hard drive (at your direction), and the original message will remain in your mailbox. You may then read or download it again until you either delete the message, or CompuServe automatically deletes it between 30 and 60 days later. CompuServe does not retain a copy of e-mail messages that you send to others although a copy can be saved on your hard drive for your future reference. 
+The AOL Network has established safeguards to help prevent unauthorized access to or misuse of your AOL Network information, but cannot guarantee that your personally identifiable information will never be disclosed in a manner inconsistent with this Privacy Policy (for example, as a result of unauthorized acts by third parties that violate applicable law or the policies of the Network and its affiliated providers). To protect your privacy and security, the AOL Network uses passwords to help verify your identity before granting access or making corrections to any of your AOL Network information.
 
-CompuServe is legally obligated to provide individual member e-mail information (including actual e-mail messages, if stored during a normal backup proceduresee Section 12) if served with proper legal documentation as defined by the Electronic Communications Privacy Act of 1986 in connection with law enforcement or legal action. 
+Special Note for Parents
 
-Accounts If your employer pays for your CompuServe account, you need to be aware that your employer may be entitled to review your e-mail through its corporate e-mail policy. Check with your employer regarding its e-mail privacy policy. 
+The AOL Network is intended for a general audience, and children under the age of thirteen are not permitted to register with the AOL Network. If any of the AOL Network's affiliated providers offers a site directed toward children, or knowingly collects information from children, that affiliated provider is required to provide you information about its practices for the handling of children's online data through its privacy policy.
 
-9\. Unsolicited Commercial E-Mail 
+How to Contact Us
 
-CompuServe's Member Agreement does not allow the distribution of unsolicited commercial e-mail (sometimes called junk e-mail or spam) by third parties to its members. If there are attempts to send unsolicited e-mail to you from other CompuServe member accounts or from over the Internet, it is CompuServe's policy to take action to try to block such solicitations from reaching your e-mail mailbox. 
+If you have any questions or concerns about the AOL Network's Privacy Policy or its implementation, you may contact us at this email address:
 
-It is a violation of the Member Agreement if CompuServe members send unsolicited advertising and promotional material to other members. When CompuServe receives member complaints about unsolicited e-mail from other members, a warning letter is sent to the offending member ordering a stop to such solicitations or the account will be terminated. 
+privacyquestions@aol.com
 
-Reporting E-Mail Solicitations 
+Changes to this Privacy Policy and Additional Information
 
-Members can report unwanted e-mail solicitations by sending an e-mail to "actionteam@CompuServe.com" or by sending a message through CompuServe's feedback system (GO FEEDBACK). 
+The AOL Network may update this Privacy Policy from time to time, and so you should review this Policy periodically. If there are significant changes to the AOL Network's information practices, you will be provided with appropriate online notice. You may be provided other privacy-related information in connection with your use of offerings from the AOL Network, as well as for special features and services not described in this Policy that may be introduced in the future. 
 
-10\. Privacy in Chat Rooms, Forums and Bulletin Boards 
+Your California Privacy Rights: California privacy law allows California residents to obtain specific disclosures about a business's privacy practices if it shares information with other companies for direct marketing purposes. To make a request to the AOL Network under California's privacy law, please send an e-mail to: CAPrivacyInfoAN@aol.com.
 
-CompuServe may monitor its public chat rooms, Forums, bulletin boards and other services to confirm that they are operating properly and that service operating rules and procedures are maintained. 
-
-Conversations in private chat rooms are, however, private. no conversations or messages are stored or maintained by CompuServe except if captured in the periodic back-up process (see Section 12). CompuServe is legally obligated to provide any individual member information available if served with proper legal documentation in connection with law enforcement or legal action or for health and safety reasons. 
-
-11\. Other Resources for Online Member Privacy Information 
-
-CompuServe actively participates in industry associations to support strong and effective privacy guidelines and practices in the interactive industry. There are other sources of information about individual privacy issues--both inside and outside the online/Internet environment. For more information, visit the following Internet sites. 
-
-Project OPEN 
-
-Project OPEN (Online Public Education Network) is a consumer education initiative of many leading online/Internet providers (including CompuServe), the Interactive Services Association and the National Consumers League. The purpose of Project OPEN is to build an informed community of online/Internet members who can enjoy the best and safest online experience possible. One of Project OPEN's consumer education initiatives focuses on the issue of online member privacy. You can visit the Project OPEN Internet site at **http://www.fraud.org/internet/open.htm**
-
-Center for Democracy and Technology 
-
-The Center For Democracy and Technology (CDT) is a non-profit public interest organization. CDT's mission is to develop and advocate public policies that advance constitutional civil liberties and democratic values in new computer and communications technologies. CDTs Internet site also hosts a Privacy Demonstration Project. You can visit CDTs Internet site at **http://www.cdt.org**
-
-Electronic Privacy Information Center 
-
-The Electronic Privacy Information Center (EPIC) is a public interest research center. EPIC was established in 1994 to focus public attention on emerging civil liberties issues and to protect privacy, the First Amendment, and constitutional values. You can visit EPICs Internet site at **http://www.epic.org**
-
-Privacy Rights Clearinghouse 
-
-The Privacy Rights Clearinghouse (PRC), affiliated with a San Diego, Calif., non-profit consumer organization, offers consumers an opportunity to learn how to protect their personal privacy. You can visit PRC's Internet site at **http://www.privacyrights.org**
-
-12\. Backing Up the CompuServe System for Business Purposes 
-
-To maintain the integrity of the Service in case of a system failure, CompuServe periodically backs up its entire system by taking a moment-in-time "snapshot." An incidental byproduct of this backup process is that these snapshots include all content on the system, including e-mail. These snapshots are kept for a period of time ranging up to eight weeks before being erased. 
+Last Updated 4-03-06
