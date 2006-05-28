@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the edinarealty.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405202201id_/http%3A//www.edinarealty.com/Content/Content.aspx%3FFooterID%3D15105) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edinarealty.com privacy policy that was archived on 2006-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060528174410id_/http%3A//www.edinarealty.com/Content/Content.aspx%3FFooterID%3D15105) for the most accurate reproduction.*
 
-# Edina Realty,Real Estate,Title,Mortgage,Twin Cities Real Estate,Minnesota Real Estate,Property Finder,Homes For Sale in Minnesota,Beyond The Sale,Minneapolis Area Homes, St Paul Area Homes
+# Edina Realty, Twin Cities Real Estate, Minnesota Real Estate, Homes For Sale in Minnesota, Minneapolis Area Homes, St Paul Area Homes, Northern Minnesota Real Estate, NW Wisconsin Real Estate, NW Wisconsin Lake Property, Hayward Real Estate, Siren WI Real Estate, Brainerd Lakes Real Estate, Northern Minnesota Lakeshore Real Estate, Lakeshore Real Estate, Duluth Real Estate, Wisconsin Real Estate, Minnesota Lakeshore Real Estate
 
 **Our Privacy Policy**
 
-At Edina Realty, we recognize that you expect privacy and security when it comes to information that personally identifies you and allows you to be individually contacted ("Personal Information"). Edina Realty has adopted the following online privacy policy because we understand the need to safeguard the information you may be providing to us at our web site.
+At Edina Realty, we recognize that you expect privacy and security when it comes to information that personally identifies you and allows you to be individually contacted ('Personal Information'). Edina Realty has adopted the following online privacy policy because we understand the need to safeguard the information you may be providing to us at our web site.
 
  **Why we request information about you**
 
@@ -34,4 +34,4 @@ Our web site contains links to and from other web sites and may be in the form o
 
 When you provide us with Personal Information, you consent to the collection and use of this information by Edina Realty, its affiliates, and those entities providing services necessary to complete your transaction. If we decide to change our privacy policy, we will post changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
-© 2002 Edina Realty. All Rights Reserved.
+© 2006 Edina Realty. All Rights Reserved.
