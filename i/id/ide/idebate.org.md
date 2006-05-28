@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the idebate.org privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230053934id_/http%3A//www.idebate.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idebate.org privacy policy that was archived on 2006-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060528105132id_/http%3A//www.idebate.org/privacy.php) for the most accurate reproduction.*
 
-# IDEA :: International Debate Education Association
+# IDEA: International Debate Education Association - Debate Resources & Debate Tools
 
 The International Debate Education Association, Inc. (IDEA) is committed to safeguarding your privacy. All IDEA, inc. and IDEA-affiliated websites adhere to a rigid policy for ensuring the privacy of any personally identifiable information (name, mailing address, email address, occupation, etc.) that may be collected though our websites. 
 
