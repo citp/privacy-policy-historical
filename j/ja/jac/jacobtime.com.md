@@ -1,0 +1,56 @@
+> *The following text is extracted and transformed from the jacobtime.com privacy policy that was archived on 2006-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060528085847id_/http%3A//www.jacobtime.com/osc/privacy.php%3FosCsid%3Da2654c76d12605e0cdf6c381de4ba57f) for the most accurate reproduction.*
+
+# watches
+
+**Our Commitment To Privacy**
+
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where private information may be requested.
+
+**The Information We Collect**
+
+This notice applies to all information collected or submitted on the JacobTime.com website. On some pages, you can order products, make requests, and register to receive materials. The type of personal information collected on these pages are: 
+
+  * Name 
+  * Address 
+  * Email address 
+  * Phone number 
+  * (etc.) 
+
+
+
+**The Way We Use Information**
+
+We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. 
+
+We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order. 
+
+We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
+
+You can register with our website if you would like to receive updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form. 
+
+We use non-identifying and aggregate information to better design our website. For example, our statistical program collects information about what search engines people use to visit our website and what search terms are used. This helps us to better promote and market our website on the Internet. 
+
+Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
+
+ **Our Commitment To Children's Privacy**
+
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
+
+**Our Commitment To Data Security**
+
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+
+  
+
+
+**How You Can Access Or Correct Your Information**
+
+You can access all your personally identifiable information that we collect online and maintain by contacting us electronically via email: [privacy@JacobTime.com](mailto:privacy@JacobTime.com) We use this procedure to better safeguard your information. 
+
+You can correct factual errors in your personally identifiable information by login to your on-line account or sending us a request that credibly shows error. 
+
+To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
+
+**How To Contact Us**
+
+Should you have other questions or concerns about these privacy policies, please send us an email at [privacy@JacobTime.com](mailto:privacy@JacobTime.com) . 
