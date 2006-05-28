@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sprysoft.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210182323id_/http%3A//www.sprysoft.com/information.php%3Finfo_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sprysoft.com privacy policy that was archived on 2006-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060528083203id_/http%3A//www.sprysoft.com/information.php%3Finfo_id%3D3%26osCsid%3D929b06588b43a00b9b5eb9295002bad6) for the most accurate reproduction.*
 
 # Sprysoft Academic Software, Student Software Discounts
 
