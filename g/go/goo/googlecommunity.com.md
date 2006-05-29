@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the googlecommunity.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219150816id_/http%3A//www.googlecommunity.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the googlecommunity.com privacy policy that was archived on 2006-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060529063925id_/http%3A//www.googlecommunity.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Google Community // Privacy Policy
 
