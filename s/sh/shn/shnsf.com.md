@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shnsf.com privacy policy that was archived on 2005-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051031004334id_/http%3A//shnsf.com/general/index.asp%3Fkey%3D427) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shnsf.com privacy policy that was archived on 2006-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060529051122id_/http%3A//www.shnsf.com/general/index.asp%3Fkey%3D427) for the most accurate reproduction.*
 
 # Privacy Policy
 
