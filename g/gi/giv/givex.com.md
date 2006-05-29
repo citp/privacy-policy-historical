@@ -1,6 +1,14 @@
-> *The following text is extracted and transformed from the givex.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228095418id_/http%3A//web.givex.com/privacy.psp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the givex.com privacy policy that was archived on 2006-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060529184656id_/http%3A//web.givex.com/privacy) for the most accurate reproduction.*
 
-# Givex Corporation
+# Privacy Policy — Givex Corporation
+
+[](http://server.iad.liveperson.net/hc/6458418/?cmd=file&file=visitorWantsToChat&site=6458418&byhref=1&imageUrl=http://web.givex.com/images/lp "Chat with Us Live")
+
+ 
+
+| 
+
+by [admin](http://web.givex.com/author/admin) —  last modified  2006-02-03 08:47 
 
 **YOUR CONSENT TO THIS PRIVACY POLICY**
 
@@ -30,7 +38,8 @@ Givex may collect other information about you during your visit to our site, but
   * information about the areas you visit on our web site; 
   * information about the products or services you buy through our web site. 
 
-  
+
+
 **COOKIES**
 
 Cookies are files or pieces of information that may be stored in your computer's hard drive when you visit a web site. Givex may use cookies to show how and when a user visits areas within our site so that we can see which areas are popular and which may need improvement. We also use cookies to help speed up your future activities at our site because the computer will remember that you have already provided Personal Information to us. Givex does not share Personal Information obtained through cookies with any third parties. 
@@ -75,5 +84,6 @@ Please write to us at [privacy-officer@givex.com](mailto:privacy-officer@givex.c
   * to ask that we not send you mailings or otherwise contact you; 
   * to report any violations of the Privacy Policy. 
 
-Again, Givex is committed to protecting your privacy in connection with this web site. Please do not hesitate to contact us if you have any questions, comments or concerns about this Privacy Policy.   
 
+
+Again, Givex is committed to protecting your privacy in connection with this web site. Please do not hesitate to contact us if you have any questions, comments or concerns about this Privacy Policy.
