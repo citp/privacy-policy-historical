@@ -1,648 +1,264 @@
-<!--The following is the downloaded HTML source of the innerrange.com privacy policy that was archived on 2005-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050625183845id_/http%3A//www.innerrange.com/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the innerrange.com privacy policy that was archived on 2006-05-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060529100845id_/http%3A//www.innerrange.com/Privacy.htm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-	<title>Privacy Policy</title>
-</head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><!-- InstanceBegin template="/Templates/IR_V1_0_Base.dwt" codeOutsideHTMLIsLocked="false" --><head>
 
-<body link="Navy" vlink="Navy">
+<title>Inner Range - Privacy Statement</title>
+<!-- InstanceParam name="Title" type="text" value="Inner Range - Privacy Statement" -->
 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="keywords" content="Concept, Concept 2000, Concept 3000, Concept 4000, Access 4000, Concept IQ, Security, Access Control, Automation, Home Automation, Building Automation, Integration, Smart Home, Facilities Management, Electronic Security, Electronic Surveillence, Inner Range, IR, IREurope">
 
-
-
-
-
-<link rel="stylesheet" href="css/main.css" type="text/css">
-<title>Inner Range</title>
-
-
-
-
-<script>
+<link href="IRWeb_StyleSheet.css" rel="stylesheet" type="text/css"> 
+<link href="vertical_navbar.css" rel="stylesheet" type="text/css">
+<style type="text/css">
 <!--
-
-if (document.images) 
-{
-	var atom_gif = new Image();
-	atom_gif.src = "images/main/atomstill.gif";   
-  	var atom_jpg = new Image();
-  	atom_jpg.src = "images/main/anim.jpg"; 
+body {
+	background-color: #CCCCCC;
+	margin-top: 0px;
 }
-	
-function anim_atom() {
-
- 	if(document["atom"].src == atom_jpg.src)
- 	{
- 	
-
-	  if (document.images) {
-	    document["atom"].src = atom_gif.src;
-	    }
- 	
- 	
- 	}
-  		clearTimeout(timeAtom);
-} 	
-function still_atom() {
-  	timeAtom = setTimeout("stop_atom()", 1000);
-} 
-function stop_atom()
-{
-	if (document.images) {
-    		document["atom"].src = atom_jpg.src;
-  	}
-
+.style2 {font-size: x-small}
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
 }
 
-
-// MENU MOUSE OVER 
-function menuOver(itemName) {
- clearTimeout(timeOn)
- menuActive = 1
-}// MENU MOUSE OUT 
-function menuOut(itemName) {
- if(document.layers) {
- 	menuActive = 0 
- 	timeOn = setTimeout("hideAllMenusStopAtom()", 400)
-  }
-}
- // SET BACKGROUND COLOR 
-function getImage(name) {
-  if (document.layers) {
-    return findImage(name, document);
-  }
-  return null;
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
 }
 
-function findImage(name, doc) {
-  var i, img;
-  for (i = 0; i < doc.images.length; i++)
-    if (doc.images[i].name == name)
-      return doc.images[i];
-  for (i = 0; i < doc.layers.length; i++)
-    if ((img = findImage(name, doc.layers[i].document)) != null) {
-      img.container = doc.layers[i];
-      return img;
-    }
-  return null;
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
 }
 
-function getImagePageLeft(img) {
-  var x, obj;
-  if (document.layers) {
-    if (img.container != null)
-      return img.container.pageX + img.x;
-    else
-      return img.x;
-  }
-  return -1;
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
 }
-
-function getImagePageTop(img) {
-  var y, obj;
-  if (document.layers) {
-    if (img.container != null)
-      return img.container.pageY + img.y;
-    else
-      return img.y;
-  }
-  return -1;
-}
-
-//document.write('<style> .menu{position: absolute;}</style>');
-var timeOn = null
-var timeAtom = null
-numMenus = 5;
-document.onmouseover = hideAllMenus;
-document.onclick = hideAllMenus;
-window.onerror = null;
-
-function getStyleObject(objectId) {
-    // cross-browser function to get an object's style object given its id
-    if(document.getElementById && document.getElementById(objectId)) {
-	// W3C DOM
-	return document.getElementById(objectId).style;
-    } else if (document.all && document.all(objectId)) {
-	// MSIE 4 DOM
-	return document.all(objectId).style;
-    } else if (document.layers && document.layers[objectId]) {
-	// NN 4 DOM.. note: this won't find nested layers
-	return document.layers[objectId];
-    } else {
-	return false;
-    }
-} // getStyleObject
-
-function changeObjectVisibility(objectId, newVisibility) {
-    // get a reference to the cross-browser style object and make sure the object exists
-    var styleObject = getStyleObject(objectId);
-    if(styleObject) {
-	styleObject.visibility = newVisibility;
-	return true;
-    } else {
-	//we couldn't find the object, so we can't change its visibility
-	return false;
-    }
-} // changeObjectVisibility
-function dumshowMenu(eventObj) {
-    hideAllMenusNow();
-	
-	eventObj.cancelBubble = true;
-	return true;
-}
-
-function showMenu(menuNumber, eventObj, labelID) {
-    hideAllMenusNow();
-	if(document.layers) {
-	img = getImage("img" + menuNumber);
- 	x = getImagePageLeft(img);
- 	y = getImagePageTop(img);
- 	menuTop = y + 10; // LAYER TOP POSITION
-	eval('document.layers["menu'+menuNumber+'"].top="'+menuTop+'"');
- 	eval('document.layers["menu'+menuNumber+'"].left="'+x+'"');
-	}
-	eventObj.cancelBubble = true;
-    var menuId = 'menu' + menuNumber;
-    if(changeObjectVisibility(menuId, 'visible')) {
-	return true;
-    } else {
-	return false;
-    }
-}
-
-function hideAllMenusTimed()
-{
-	hideAllMenusNow();
-	//timeOn = setTimeout("hideAllMenusStopAtom()", 400);
-}
-
-function hideAllMenusNow() {
-    for(counter = 1; counter <= numMenus; counter++) {
-	changeObjectVisibility('menu' + counter, 'hidden');
-    }
-}
-function hideAllMenus() {
-
-	still_atom();
-    for(counter = 1; counter <= numMenus; counter++) {
-	changeObjectVisibility('menu' + counter, 'hidden');
-    }
-}
-function hideAllMenusStopAtom() {
-	
-   hideAllMenus();
-}
-function moveObject(objectId, newXCoordinate, newYCoordinate) {
-    // get a reference to the cross-browser style object and make sure the object exists
-    var styleObject = getStyleObject(objectId);
-    if(styleObject) {
-	styleObject.left = newXCoordinate;
-	styleObject.top = newYCoordinate;
-	return true;
-    } else {
-	// we couldn't find the object, so we can't very well move it
-	return false;
-    }
-} // moveObject
-
-
-
-// ***********************
-// hacks and workarounds *
-// ***********************
-
-// initialize hacks whenever the page loads
-window.onload = initializeHacks;
-
-// setup an event handler to hide popups for generic clicks on the document
-function initializeHacks() {
-    // this ugly little hack resizes a blank div to make sure you can click
-    // anywhere in the window for Mac MSIE 5
-    if ((navigator.appVersion.indexOf('MSIE 5') != -1) 
-	&& (navigator.platform.indexOf('Mac') != -1)
-	&& getStyleObject('blankDiv')) {
-	window.onresize = explorerMacResizeFix;
-    }
-    resizeBlankDiv();
-    // this next function creates a placeholder object for older browsers
-    createFakeEventObj();
-}
-
-
-
-function createFakeEventObj() {
-    // create a fake event object for older browsers to avoid errors in function call
-    // when we need to pass the event object to functions
-    if (!window.event) {
-	window.event = false;
-    }
-} // createFakeEventObj
-
-
-
-function resizeBlankDiv() {
-    // resize blank placeholder div so IE 5 on mac will get all clicks in window
-    if ((navigator.appVersion.indexOf('MSIE 5') != -1) 
-	&& (navigator.platform.indexOf('Mac') != -1)
-	&& getStyleObject('blankDiv')) {
-	getStyleObject('blankDiv').width = document.body.clientWidth - 20;
-	getStyleObject('blankDiv').height = document.body.clientHeight - 20;
-    }
-}
-
-function explorerMacResizeFix () {
-    location.reload(false);
-}
-
-function mClk(src){ 
-	if(event.srcElement.tagName=='TD')
-		src.children.tags('A')[0].click();
-}
-
-
-
-
 //-->
 </script>
+<script type="text/javascript" src="highlight.js"></script>
+<script type="text/javascript" src="SelectLocation.js"></script>
+<!--[if IE 5]>
+<style>#navholder a {height: 1em; float: left; clear: both; width: 100%;}</style>
+<![endif]-->
+<!--[if IE 6]>
+<style>
+#navholder a {height: 1em;}
+</style>
+<![endif]-->
 
-<!-- START TOP MENU -->
-<table cellspacing="0" cellpadding="0" border="0">	<!-- Outer table -->
-	<tbody><tr valign="top">
-	<td><img src="images/main/anim.jpg" name="atom"></td> 
-	<td><table cellspacing="0" cellpadding="0" border="0">	
- 		<tbody><tr><td><table cellspacing="0" cellpadding="0" border="0"> 	
-			<tbody><tr><td>
-				<table cellspacing="0" cellpadding="0" border="0">
-					<tbody><tr><td>
-				<table cellspacing="0" cellpadding="0" border="0">
-				<tbody><tr>
-				<td><img src="images/header.gif"></td>
-				</tr>
-				</tbody></table>
-			</td>
-			<td>	
-				<table cellspacing="0" cellpadding="0" border="0">
-				<tbody><tr>
-				<td><img src="images/conceptAnim1.gif"></td></tr>
-				<tr>
-				<td><img src="images/conceptAnim_blackStrip.gif"></td></tr>
-				</tbody></table>
-			</td></tr>
-			</tbody></table>	
-		</td></tr>		
-		
-		<tr><td>
+</head>
 
-			<table cellspacing="0" cellpadding="0" border="0">	
-			<tbody><tr valign="bottom">   
-				<td><div id="home"><a href="home.cfm" onmouseover="anim_atom();dumshowMenu(event);menuOver('rollimg2');" onmouseout="menuOut('rollimg2');window.status='';return true;"><img src="images/main/btnHome.gif" width="58" height="30" border="0"></a></div></td>
-				<td><a href="aboutus.cfm" onmouseover="anim_atom();dumshowMenu(event);menuOver('rollimg2');" onmouseout="menuOut('rollimg2');window.status='';return true;"><img src="images/main/btnAbout.gif" width="68" height="30" border="0"></a></td>
-				<td><a href="contactus.cfm" onmouseover="anim_atom();dumshowMenu(event);menuOver('rollimg2');" onmouseout="menuOut('rollimg2');window.status='';return true;"><img src="images/main/btnContact.gif" width="78" height="30" border="0"></a></td>
+<body onload="MM_preloadImages('RTMedia_Images/IR_nav_on_02.jpg','RTMedia_Images/IR_nav_on_03.jpg','RTMedia_Images/IR_nav_on_04.jpg','RTMedia_Images/IR_nav_on_05.jpg','RTMedia_Images/IR_nav_on_06.jpg','RTMedia_Images/IR_nav_on_07.jpg','RTMedia_Images/IR_nav_on_08.jpg','RTMedia_Images/IR_nav_on_09.jpg','Images/Nav/Navbar_On_03.jpg','Images/Nav/Navbar_On_05.jpg','Images/Nav/Navbar_On_06.jpg','Images/Nav/Navbar_On_07.jpg','Images/Nav/Navbar_On_08.jpg','Images/Nav/Navbar_On_09.jpg','Images/Nav/Navbar_On_04.jpg','Images/Nav/Navbar_On_02.jpg','Images/Nav/Navbar_On_10.jpg')">
+<!-- ZOOMSTOP -->  
+  
+<!--DWLayoutTable-->
+<table width="783" align="center" cellpadding="0" cellspacing="0">
 
-<!-- Menu 1 -->			
-				<td align="left" valign="top">
-<table bgcolor="#8b0000" cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>
-		<td align="left" valign="middle" height="30">	
-					<div id="label1">
-					<a href="distfind.cfm" class="MenuHeader" onmouseover="anim_atom();return !showMenu('1', event, 'label1'); menuOver('rollimg2');" onmouseout="window.status='';return true;"><img src="images/main/btnDistributors.gif" border="0" name="img1"></a></div>
-					<div id="menu1" style="width: 150px; height: 52px; position:absolute; z-index:1; visibility:hidden" onmouseover="event.cancelBubble = true;" class="Menu">
-      						<table border="0" cellspacing="0" cellpadding="0" width="150"><tbody><tr><td bgcolor="#8b0000" width="100%">
-							<table border="0" cellpadding="2" cellspacing="0" width="100%">
-							<tbody><tr id="1a" bgcolor="#3b4888"><td onmouseover="this.style.backgroundColor = '#85b0cc';" onmouseout="this.style.backgroundColor = '#3b4888';" width="100%" class="MenuBox"><a class="MenuItem" href="http://www.innerrange.com/Restricted/Distributors/irportal.cfm?" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');"><img src="images/shim.gif" width="5" height="2" border="0">Distributor Login</a></td></tr>
-							<tr id="1b" bgcolor="#3b4888"><td onmouseover="this.style.backgroundColor = '#85b0cc';" onmouseout="this.style.backgroundColor = '#3b4888';" width="100%" class="MenuBox"><a class="MenuItem" href="distfind.cfm" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');"><img src="images/shim.gif" width="5" height="2" border="0">Find a Distributor</a></td></tr>
-							<tr id="1c" bgcolor="#3b4888"><td onmouseover="this.style.backgroundColor = '#85b0cc';" onmouseout="this.style.backgroundColor = '#3b4888';" width="100%" class="MenuBox"><a class="MenuItem" href="international.cfm" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');"><img src="images/shim.gif" width="5" height="2" border="0">International Map</a></td></tr>
-							
-							
-							</tbody></table>
-						</td></tr></tbody></table>
-					</div>
-		</td>
-	</tr>
-</tbody></table>
+  <tbody><tr>
+    <td width="783" height="80" class="header_sss">
+      <div align="right" style="margin-right: 15px; margin-top: 30px;">
+	    <form action="search.htm" method="GET"> 
+		  <table>
+		    <tbody><tr>
+			  <td height="15"><input name="zoom_query" type="text" class="form_text" size="8"></td>	  
+		      <td height="15"><input name="Search" type="image" id="Search" value="Search" size="8" src="Images/Nav/search_17px.jpg" alt="Search"></td>
+			</tr>
+		  </tbody></table>
+        </form>
+	  </div>
+	</td>
+  </tr>
+  <!-- END HEADER ---------------------------------------------------------------------------------->
+
+  <tr>
+    <td height="25" valign="top" class="NavBar"><!-- #BeginLibraryItem "/Library/IR_Navbar.lbi" --><table width="783" border="0" cellspacing="0" cellpadding="0" class="navbar">
+            <tbody><tr>
+              <td width="85" height="25" valign="bottom">&nbsp;</td>
+              <!-- Moved button for 'contact us' to the end.  It used to reside on this line  JPS - 12/08/2005 -->
+              <td width="55" valign="bottom"><div align="center"><a href="Index.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image6','','Images/Nav/Navbar_On_03.jpg',1)"><img src="Images/Nav/Navbar_Off_03.jpg" alt="Home" name="Image6" width="55" height="25" border="0"></a></div></td>
+              
+              <td width="72" valign="bottom"><div align="center"><a href="ProductsMain.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image8','','Images/Nav/Navbar_On_05.jpg',1)"><img src="Images/Nav/Navbar_Off_05.jpg" alt="Products" name="Image8" width="72" height="25" border="0"></a></div></td>
+              <td width="53" valign="bottom"><div align="center"><a href="News.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image9','','Images/Nav/Navbar_On_06.jpg',1)"><img src="Images/Nav/Navbar_Off_06.jpg" alt="News" name="Image9" width="53" height="25" border="0"></a></div></td>
+              <td width="83" valign="bottom"><div align="center"><a href="Downloads.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image10','','Images/Nav/Navbar_On_07.jpg',1)"><img src="Images/Nav/Navbar_Off_07.jpg" alt="Downloads" name="Image10" width="83" height="25" border="0"></a></div></td>
+              <td width="85" valign="bottom"><div align="center"><a href="HowToBuy.cfm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image11','','Images/Nav/Navbar_On_08.jpg',1)"><img src="Images/Nav/Navbar_Off_08.jpg" alt="How to Buy" name="Image11" width="85" height="25" border="0"></a></div></td>
+              <td width="63" valign="bottom"><div align="center"><a href="SiteMap.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image12','','Images/Nav/Navbar_On_09.jpg',1)"><img src="Images/Nav/Navbar_Off_09.jpg" alt="Site Map" name="Image12" width="63" height="25" border="0"></a></div></td>
+              <td width="70" valign="bottom"><div align="center"><a href="About.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image7','','Images/Nav/Navbar_On_04.jpg',1)"><img src="Images/Nav/Navbar_Off_04.jpg" alt="About Us" name="Image7" width="70" height="25" border="0"></a></div></td>
+			  <!-- 'Contact Us' button appears below, now on end of list.  JPS - 12/08/2005 -->
+			  <td width="85" valign="bottom"><div align="center"><a href="Contact.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image5','','Images/Nav/Navbar_On_02.jpg',1)"><img src="Images/Nav/Navbar_Off_02.jpg" alt="Contact" name="Image5" width="85" height="25" border="0"></a></div></td>
+			  <td width="62" valign="bottom"><div align="center"><a href="Support.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image13','','Images/Nav/Navbar_On_10.jpg',1)"><img src="Images/Nav/Navbar_Off_10.jpg" alt="Support" name="Image13" width="62" height="25" border="0"></a></div></td>
+			  <td>&nbsp;</td>
+            </tr>
+          </tbody></table>
+<!-- #EndLibraryItem --></td>
+  </tr>
+  <!-- END NAVBAR ------------------------------------------------------------------------------------>
+  
+  <!--MAIN AREA -------------------------------------------------------------------->
+  <tr>
+    <td height="465" valign="top" bgcolor="#FFFFFF">
+	  
+	  <!--  MAIN AREA LAYOUT - contains SideNav, BreadCrumb and MainContent -->
+	  <!-- InstanceBeginEditable name="Main" -->
+	  <table width="783" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+		  <!-- SideNav -->
+          <td width="120" height="487" valign="top" class="lh_fill"><!-- #BeginLibraryItem "/Library/MainMenu.lbi" -->
+		        <div id="navholder">
+				  <ul>
+				    <li><a href="Index.htm" title="Home" class="sn_links_Bold">Home</a></li>
+                    <li><a href="ProductsMain.htm" class="sn_links_Bold">Products</a></li>
+                    <li><a href="News.htm" title="News" class="sn_links_Bold">News</a></li>
+                    <li><a href="Downloads.htm" title="Downloads" class="sn_links_Bold">Downloads</a></li>
+                    <li><a href="HowToBuy.cfm" title="How to Buy" class="sn_links_Bold">How to Buy</a></li>
+                    <li><a href="SiteMap.htm" title="Site Map" class="sn_links_Bold">Site Map</a></li>
+                    <li><a href="About.htm" title="About Us" class="sn_links_Bold">About Us</a></li>
+                    <li><a href="Contact.htm" title="Contact Us" class="sn_links_Bold">Contact Us</a></li>
+                    <li><a href="Support.htm" title="Support" class="sn_links_Bold">Support</a></li>
+				    <li><a href="http://training.innerrange.com" title="Training" class="sn_links_Bold">Training</a></li>
+                    <li><a href="Careers.htm" title="Careers / Employment Opportunities" class="sn_links_Bold">Careers</a></li>
+                    <li><a href="Links.htm" title="Links" class="sn_links_Bold">Links</a></li>
+				  </ul>
+				</div><!-- #EndLibraryItem --></td>
+		  <!-- End SideNav -->
+		  
+		  <!--Holder for BreadCrumb and MainContent -->
+          <td valign="top">
+            <table width="663" cellpadding="0" cellspacing="0">
+			
+			<!-- BreadCrumbHolder -->
+              <tbody><tr>
+                <td height="10" valign="top"></td>
+              </tr>
+              <!-- END BreadCrumbHolder ------------------------------------------------------------->
+
+              <!--  MainContent ------------------------------------------------------------->
+              <tr>
+                <!-- ZOOMRESTART -->
+                <td height="455" valign="top">
+				  <div class="prod_text"> 
+					<div align="center"><a name="Top"><img src="Images/Other/PrivacyHeader_630px.png" width="633" height="35"></a></div>
+                    <ul>
+					  <li><a href="#Types" class="jump_links">Types of information we collect</a></li>
+					  <li><a href="#HowCollect" class="jump_links">How we collect information</a></li>
+                      <li><a href="#HowUse" class="jump_links">How we use your personal information</a></li>
+                      <li><a href="#Disclosure" class="jump_links">Disclosure of personal information to third parties</a></li>
+                      <li><a href="#Access" class="jump_links">Access to and correction of information we hold about you</a></li>
+                      <li><a href="#UpToDate" class="jump_links">Keeping your personal information up-to-date</a></li>
+                      <li><a href="#ResolveConcerns" class="jump_links">Resolving your concerns </a></li>
+                      <li><a href="#Changes" class="jump_links">Changes to this Privacy Policy</a></li>
+                      <li><a href="#ContactDetails" class="jump_links">Our contact details</a></li>
+					</ul>
+
+                    <p>This Privacy Statement explains in general terms how Inner Range Pty Ltd and its related companies (collectively referred to as "we", "us" and "Inner Range") protect the privacy of your personal information under the National Privacy Principles. It will apply to any personal information you provide to us:</p>
+                    <ul>
+					  <li>when applying for admission onto one or more of our training courses;</li>
+                      <li>when seeking approval for inclusion as an Approved Technician for the purposes of gaining access to restricted sections of the Inner Range web site;</li>
+                      <li>under any other agreement or arrangement.</li>
+					</ul>	
+                    <p>This Privacy Statement will also apply to any information about you that is provided to us by someone else such as a Distributor.</p>
+                    
+					<p><a name="Types"><strong>Types of information we collect.</strong></a><br>
+                    The types of personal information that we collect from you will depend on the circumstances of collection and on the type of service you request from us. As we are required by law to obtain your consent to the collection of "sensitive information" we will assume that you have consented to the collection of all information which is provided to us for use in accordance with this Statement, unless you tell us otherwise.</p>
+                    
+					<p><a name="HowCollect"><strong>How we collect information.</strong></a><br>
+                    We may collect personal information about you when you deal with us over the telephone, send as correspondence (whether by letter, fax or email), visit our web site or when you have contact with us in person. As well as collecting information directly from you, there may be occasions when we collect information about you from a third party. For example:</p>
+                    <ul>
+					  <li>from people making enquiries or purchases on your behalf;</li>
+                      <li>from market research companies contracted by us to obtain information so that we may improve products and services.</li>
+					</ul>
+                    
+					<p><a name="HowUse"><strong>How we use your personal information.</strong></a><br>
+                    We generally collect your personal information for the following purposes:</p>
+                    <ul>
+					  <li>to facilitate your participation in training and certification programmes;</li>
+                      <li>to keep you up to date with product training and technical support information;</li>
+                      <li>to keep you up to date with changes to services or the launch of new services that may be relevant to your business;</li>
+                      <li>to conduct marketing activities and to conduct market research.</li>
+					</ul>
+                    <p>Some of the information we collect is essential for us to be able to accurately identify who is using our products or services. In the case of enrolment into our Nationally Accredited Training Courses, accurate identification of participants is mandatory to help prevent academic fraud. </p>
+                    
+					<p><a name="Disclosure"><strong>Disclosure of personal information to third parties.</strong></a><br>
+                    We may disclose your personal information to third parties, for example, contractors to whom we contract out certain services. In these situations, we prohibit the third party contractor from using personal information about you except for the specific purpose for which we supply it. </p>
+                    <p>We may also disclose your personal information to various law enforcement agencies and governments around the world for security and customs purposes. </p>
+                    <p>Your information may also be shared between related companies in the Inner Range group, where necessary, to fulfil our purposes. </p>
+                    <p>Other than the above, we will not disclose your personal information without your consent unless disclosure is either necessary to prevent a threat to life or health, authorised or required by law, reasonably necessary to enforce the law or necessary to investigate a suspected unlawful activity.</p>
+                    
+					<p><a name="Access"><strong>Access to and correction of information we hold about you.</strong></a><br>
+                    We will, on request, provide you with access to the information we hold about you, unless there is an exception which applies under the National Privacy Principles, including for the purpose of correcting or updating that information. </p>
+                    <p>We may recover from you our reasonable costs of supplying you with access to this information. Your request to provide access to this information will be dealt with in a reasonable time. </p>
+                    <p>If we refuse to provide you with access to the information, we will provide you with reasons for the refusal and inform you of any exceptions relied upon under the National Privacy Principles. </p>
+                    <p>In light of the privacy legislation we now have in place systems and procedures to facilitate access to all information we hold about you on request. For information which we collected prior to 21st December, 2001we may not be able to provide you with access to this information where to do so would place an unreasonable administrative burden on us or cause us unreasonable expense.</p>
+                    
+					<p><a name="UpToDate"><strong>Keeping your personal information up-to-date.</strong></a><br>
+                    We take reasonable steps to ensure that your personal information is accurate, complete and up-to-date whenever we collect or use it. </p>
+                    <p>If the personal information we hold about you is inaccurate, incomplete or out-of-date, please contact us and we will take reasonable steps to either correct this information, or if necessary, discuss alternative action with you.</p>
+                    
+					<p><a name="ResolveConcerns"><strong>Resolving your concerns.</strong></a><br>
+                    If you wish to gain access to your personal information, have a complaint about a breach or your privacy or have any query on how your personal information is collected or used, please forward your request, complaint or query to the address below. We will respond to your query or complaint as soon as possible.</p>
+                    
+					<p><a name="Changes"><strong>Changes to this Privacy Statement.</strong></a><br>
+                    We may amend this Privacy Statement as our business requirements or the law changes. Any changes to this Privacy Statement will be updated on innerrange.com, so please visit this site periodically to ensure that you have our most current Privacy Statement.</p>
+                    
+					<p><a name="ContactDetails"><strong>Our contact details - all enquiries:</strong></a>
+					</p><p><!-- #BeginLibraryItem "/Library/ContactOz.lbi" -->
+<strong>Inner Range Head Office:</strong><br>
+Inner Range Pty Ltd <br>
+1 Millennium Court <br>
+Knoxfield <br>
+Victoria, 3180 <br>
+Australia <br>
+Tel: +61 3 9753 3488 <br>
+Fax: +61 3 9753 3499 <br>
+email: <a href="mailto:admin@innerrange.com" class="jump_links">admin@innerrange.com</a>
+<!-- #EndLibraryItem --></p>
+					<p><a href="#Top" class="jump_links">Top</a></p>
+                    <p>&nbsp;</p>
+				  </div>
 				</td>
-<!-- Menu 1 -->
+              </tr>
+			  <!--end maincontent -->
+            </tbody></table>
+		  </td>
+		  <!-- End Holder -->
+        </tr>
+      </tbody></table>
+	  <!-- InstanceEndEditable -->
+	  <!-- END MAIN AREA LAYOUT -->
 
-<!-- Menu 2 -->
-		<td align="left" valign="top">
-<table bgcolor="#8b0000" cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>
-		<td align="left" valign="middle" height="30">	
-					<div id="label2">
-					<a href="downloads/mkt/catalog.pdf" class="MenuHeader" onmouseover="anim_atom();return !showMenu('2', event, 'label2'); menuOver('rollimg2');" onmouseout="window.status='';return true;" target="_blank"><img src="images/main/btnProducts.gif" border="0" name="img2"></a></div>
-					<div id="menu2" style="width: 150px; height: 52px; position:absolute; z-index:1; visibility:hidden" onmouseover="event.cancelBubble = true;" class="Menu">
-      						<table border="0" cellspacing="0" cellpadding="0" width="150"><tbody><tr><td bgcolor="#8b0000" width="100%">
-							<table border="0" cellpadding="2" cellspacing="0" width="100%">
-							<tbody><tr id="2a" bgcolor="#3b4888"><td onmouseover="this.style.backgroundColor = '#85b0cc';" onmouseout="this.style.backgroundColor = '#3b4888';" width="100%" class="MenuBox"><a class="MenuItem" href="infoend.cfm" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');"><img src="images/shim.gif" width="5" height="2" border="0">Info for End Users</a></td></tr>
-							<tr id="2b" bgcolor="#3b4888"><td onmouseover="this.style.backgroundColor = '#85b0cc';" onmouseout="this.style.backgroundColor = '#3b4888';" width="100%" class="MenuBox"><a class="MenuItem" href="infoinstall.cfm" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');"><img src="images/shim.gif" width="5" height="2" border="0">Info for Installers</a></td></tr>
+	<!--ZOOMSTOP-->
+	</td>
+  </tr>
+  <!-- END MAIN AREA ------------------------------------------------------------------------------------ -->
 
-							<tr id="2c" bgcolor="#3b4888"><td onmouseover="this.style.backgroundColor = '#85b0cc';" onmouseout="this.style.backgroundColor = '#3b4888';" width="100%" class="MenuBox"><a class="MenuItem" href="infodist.cfm" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');"><img src="images/shim.gif" width="5" height="2" border="0">Info for Distributors</a></td></tr>
-							<tr id="2d" bgcolor="#3b4888"><td onmouseover="this.style.backgroundColor = '#85b0cc';" onmouseout="this.style.backgroundColor = '#3b4888';" width="100%" class="MenuBox"><a class="MenuItem" href="infoconsult.cfm" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');"><img src="images/shim.gif" width="5" height="2" border="0">Info for Consultants</a></td></tr>
-						
-							<tr id="2e" bgcolor="#3b4888"><td onmouseover="this.style.backgroundColor = '#85b0cc';" onmouseout="this.style.backgroundColor = '#3b4888';" width="100%" class="MenuBox"><a class="MenuItem" href="c3k4k.cfm" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');"><img src="images/shim.gif" width="5" height="2" border="0">Concept 3000 / 4000</a></td></tr>
-							<tr id="2f" bgcolor="#3b4888"><td onmouseover="this.style.backgroundColor = '#85b0cc';" onmouseout="this.style.backgroundColor = '#3b4888';" width="100%" class="MenuBox"><a class="MenuItem" href="conceptiq.cfm" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');"><img src="images/shim.gif" width="5" height="2" border="0">Concept IQ</a></td></tr>
-							<tr id="2g" bgcolor="#3b4888"><td onmouseover="this.style.backgroundColor = '#85b0cc';" onmouseout="this.style.backgroundColor = '#3b4888';" width="100%" class="MenuBox"><a class="MenuItem" href="downloads/mkt/catalog.pdf" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" target="_blank"><img src="images/shim.gif" width="5" height="2" border="0">Product Catalogue</a></td></tr>
-							<tr id="2h" bgcolor="#3b4888"><td onmouseover="this.style.backgroundColor = '#85b0cc';" onmouseout="this.style.backgroundColor = '#3b4888';" width="100%" class="MenuBox"><a class="MenuItem" href="thirdparty.cfm" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');"><img src="images/shim.gif" width="5" height="2" border="0">Third Party Products</a></td></tr>
+  <!-- FOOTER ------------------------------------------------------------------------------------ -->
+  <tr>
+    <td height="25" valign="top" class="page_footer">
+	  
+	  <div align="center" class="style2"><!-- #BeginLibraryItem "/Library/Footer Text.lbi" -->
 
-<tr id="2i" bgcolor="#3b4888"><td onmouseover="this.style.backgroundColor = '#85b0cc';" onmouseout="this.style.backgroundColor = '#3b4888';" width="100%" class="MenuBox"><a class="MenuItem" href="stratpart.cfm" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');"><img src="images/shim.gif" width="5" height="2" border="0">Strategic Partners</a></td></tr>
-
-							
-							</tbody></table>
-						</td></tr></tbody></table>
-					</div>
-		</td>
-	</tr>
+<a href="Privacy.htm" title="Privacy" class="jump_links">Privacy</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;©2005, 2006 Inner Range p/l &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Page Uploaded:
+                           <!-- #BeginDate format:En2 -->06-Feb-2006<!-- #EndDate -->
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:Webmaster@innerrange.com" class="jump_links">Webmaster</a>
+<!-- #EndLibraryItem --></div></td>
+  </tr>
+  <!-- END FOOTER ------------------------------------------------------------------------------------ -->
 </tbody></table>
-				</td>
-<!-- Menu 2 -->
-<!-- Menu 3 -->
-		<td align="left" valign="top">
-<table bgcolor="#8b0000" cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>
-		<td align="left" valign="middle" height="30">	
-					<div id="label3">
-					<a href="Restricted/Support/Supphome.cfm" class="MenuHeader" onmouseover="anim_atom();return !showMenu('3', event, 'label3'); menuOver('rollimg2');" onmouseout="window.status='';return true;"><img src="images/main/btnSupport.gif" border="0" name="img3"></a></div>
-					<div id="menu3" style="width: 150px; height: 52px; position:absolute; z-index:1; visibility:hidden" onmouseover="event.cancelBubble = true;" class="Menu">
-      						<table border="0" cellspacing="0" cellpadding="0" width="150"><tbody><tr><td bgcolor="#8b0000" width="100%">
-							<table border="0" cellpadding="2" cellspacing="0" width="100%">
-							<tbody><tr id="3a" bgcolor="#3b4888"><td onmouseover="this.style.backgroundColor = '#85b0cc';" onmouseout="this.style.backgroundColor = '#3b4888';" width="100%" class="MenuBox"><a class="MenuItem" href="Restricted/Support/Supphome.cfm" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');"><img src="images/shim.gif" width="5" height="2" border="0">Technical Support</a></td></tr>
 
-<tr id="3b" bgcolor="#3b4888"><td onmouseover="this.style.backgroundColor = '#85b0cc';" onmouseout="this.style.backgroundColor = '#3b4888';" width="100%" class="MenuBox"><a class="MenuItem" href="Restricted/Support/appnotes.cfm" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');"><img src="images/shim.gif" width="5" height="2" border="0">Application Notes</a></td></tr>
 
-							<tr id="3c" bgcolor="#3b4888"><td onmouseover="this.style.backgroundColor = '#85b0cc';" onmouseout="this.style.backgroundColor = '#3b4888';" width="100%" class="MenuBox"><a class="MenuItem" href="Restricted/Support/manuals.cfm" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');"><img src="images/shim.gif" width="5" height="2" border="0">Manuals &amp; Guides</a></td></tr>
-					<tr id="3d" bgcolor="#3b4888"><td onmouseover="this.style.backgroundColor = '#85b0cc';" onmouseout="this.style.backgroundColor = '#3b4888';" width="100%" class="MenuBox"><a class="MenuItem" href="Restricted/Support/faqs.cfm" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');"><img src="images/shim.gif" width="5" height="2" border="0">FAQs</a></td></tr>
-					<tr id="3e" bgcolor="#3b4888"><td onmouseover="this.style.backgroundColor = '#85b0cc';" onmouseout="this.style.backgroundColor = '#3b4888';" width="100%" class="MenuBox"><a class="MenuItem" href="Restricted/Support/search.cfm" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');"><img src="images/shim.gif" width="5" height="2" border="0">Knowledge Base</a></td></tr>
-					<tr id="3f" bgcolor="#3b4888"><td onmouseover="this.style.backgroundColor = '#85b0cc';" onmouseout="this.style.backgroundColor = '#3b4888';" width="100%" class="MenuBox"><a class="MenuItem" href="Restricted/Support/latestupdates.cfm" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');"><img src="images/shim.gif" width="5" height="2" border="0">Latest Updates</a></td></tr>
-					<tr id="3g" bgcolor="#3b4888"><td onmouseover="this.style.backgroundColor = '#85b0cc';" onmouseout="this.style.backgroundColor = '#3b4888';" width="100%" class="MenuBox"><a class="MenuItem" href="Restricted/Support/supcontact.cfm" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');"><img src="images/shim.gif" width="5" height="2" border="0">Contact Support</a></td></tr>
-					
-							</tbody></table>
-						</td></tr></tbody></table>
-					</div>
-		</td>
-	</tr>
-</tbody></table>
-				</td>
-<!-- Menu 3 -->
-<!-- Menu 4 -->
-		<td align="left" valign="top">
-<table bgcolor="#8b0000" cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>
-		<td align="left" valign="middle" height="30">	
-					<div id="label4">
-					<a href="http://training.innerrange.com" class="MenuHeader" onmouseover="anim_atom();return !showMenu('4', event, 'label4'); menuOver('rollimg2');" onmouseout="window.status='';return true;"><img src="images/main/btnTraining.gif" border="0" name="img4"></a></div>
-					<div id="menu4" style="width: 150px; height: 52px; position:absolute; z-index:1; visibility:hidden" onmouseover="event.cancelBubble = true;" class="Menu">
-      						<table border="0" cellspacing="0" cellpadding="0" width="150"><tbody><tr><td bgcolor="#8b0000" width="100%">
-							<table border="0" cellpadding="2" cellspacing="0" width="100%">
-							<tbody><tr id="3a" bgcolor="#3b4888"><td onmouseover="this.style.backgroundColor = '#85b0cc';" onmouseout="this.style.backgroundColor = '#3b4888';" width="100%" class="MenuBox"><a class="MenuItem" href="http://training.innerrange.com" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');"><img src="images/shim.gif" width="5" height="2" border="0">Accredited Training</a></td></tr>
-							<tr id="3b" bgcolor="#3b4888"><td onmouseover="this.style.backgroundColor = '#85b0cc';" onmouseout="this.style.backgroundColor = '#3b4888';" width="100%" class="MenuBox"><a class="MenuItem" href="http://training.innerrange.com/certify1.cfm" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');"><img src="images/shim.gif" width="5" height="2" border="0">Factory Certification</a></td></tr>
-					
-							</tbody></table>
-						</td></tr></tbody></table>
-					</div>
-		</td>
-	</tr>
-</tbody></table>
-				</td>
-<!-- Menu 4 -->
-<!-- Menu 5 -->
-		<td align="left" valign="top">
-<table bgcolor="#8b0000" cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>
-		<td align="left" valign="middle" height="30">	
-					<div id="label5">
-					<a href="Restricted/Downloads/mktdownload.cfm" class="MenuHeader" onmouseover="anim_atom();return !showMenu('5', event, 'label5'); menuOver('rollimg2');" onmouseout="window.status='';return true;"><img src="images/main/btnDownloads.gif" border="0" name="img5"></a></div>
-					<div id="menu5" style="width: 150px; height: 52px; position:absolute; z-index:1; visibility:hidden" onmouseover="event.cancelBubble = true;" class="Menu">
-      						<table border="0" cellspacing="0" cellpadding="0" width="150"><tbody><tr><td bgcolor="#8b0000" width="100%">
-							<table border="0" cellpadding="2" cellspacing="0" width="100%">
-							<tbody><tr id="5a" bgcolor="#3b4888"><td onmouseover="this.style.backgroundColor = '#85b0cc';" onmouseout="this.style.backgroundColor = '#3b4888';" width="100%" class="MenuBox"><a class="MenuItem" href="Restricted/Downloads/mktdownload.cfm" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');"><img src="images/shim.gif" width="5" height="2" border="0">Marketing Materials</a></td></tr>
-							<tr id="5b" bgcolor="#3b4888"><td onmouseover="this.style.backgroundColor = '#85b0cc';" onmouseout="this.style.backgroundColor = '#3b4888';" width="100%" class="MenuBox"><a class="MenuItem" href="Restricted/Downloads/techdownload.cfm" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');"><img src="images/shim.gif" width="5" height="2" border="0">Product Software</a></td></tr>
-							
-					
-							</tbody></table>
-						</td></tr></tbody></table>
-					</div>
-		</td>
-	</tr>
-</tbody></table>
-				</td>
-<!-- Menu 5 -->
 
-			</tr>  
-		
-		
-		</tbody></table>	
-		</td></tr><tr><td>	
-			<!--
-			<table cellspacing=0 cellpadding=0 border=0> 
-			<tr>
-			<td><img src="images/main/pageTitle.jpg"></td></tr>
-			</table>
-			-->
-		</td></tr>	
-	</tbody></table>	
-  	</td></tr> 
-</tbody></table>	
-</td>		
-<td width="100%" background="images/main/headerEnd.gif"></td>
-</tr>		
-</tbody></table>
-<!-- END TOP MENU -->
-
-
-
-<p align="left">
-<font color="Navy"></font></p><h2><font color="Navy">Privacy Statement</font></h2><br><p></p><table width="70%" align="center">
-
-
-
-</table>
-<font color="Navy">
-
-</font><ul><font color="Navy">
-
-<a href="privacy.cfm#types"><span style="text-decoration: none;"><b><li>Types of information we collect</li></b></span></a>
-		
-<a href="privacy.cfm#howcollect"><span style="text-decoration: none;"><b><li>How we collect information</li></b></span></a>
-
-<a href="privacy.cfm#howused"><span style="text-decoration: none;"><b><li>How we use your personal information</li></b></span></a>
-		
-<a href="privacy.cfm#disclosed"><span style="text-decoration: none;"><b><li>Disclosure of personal information to third parties</li></b></span></a>
-		
-<a href="privacy.cfm#access"><span style="text-decoration: none;"><b><li>Access to and correction of information we hold about you</li></b></span></a>
-		
-<a href="privacy.cfm#uptodate"><span style="text-decoration: none;"><b><li>Keeping your personal information up-to-date</li></b></span></a>
-
-<a href="privacy.cfm#concerns"><span style="text-decoration: none;"><b><li>Resolving your concerns</li></b></span></a></font>
-		
-<a href="privacy.cfm#changes"><span style="text-decoration: none;"><b><li>Changes to this Privacy Policy</li></b></span></a>
-		
-<a href="privacy.cfm#contact"><span style="text-decoration: none;"><b><li>Our contact details</li></b></span></a>
-		
-</ul><table width="70%" align="center">
-
-
-
-
-
-</table>
-
-<br>
-
-<p align="justify">
-This Privacy Statement explains in general terms how Inner Range Pty Ltd and its related companies (collectively referred to as "we", "us" and "Inner Range" protect the privacy of your personal information under the National Privacy Principles. It will apply to any personal information you provide to us: 
-</p><p align="left">
-</p><ul>
-<li>when applying for admission onto one or more of our training courses</li>
-<li>when seeking approval for inclusion as an Approved Technician for the purposes of gaining access to restricted sections of the Inner Range web site</li>
-<li>under any other agreement or arrangement</li>
-</ul><p></p><p align="justify">
-This Privacy Statement will also apply to any information about you that is provided to us by someone else such as a Distributor.
-
-</p><br><p align="justify">
-
-<font color="Navy"></font></p><h3><font color="Navy"><a name="types">Types of information we collect.</a></font></h3>
-The types of personal information that we collect from you will depend on the circumstances of collection and on the type of service you request from us. As we are required by law to obtain your consent to the collection of "sensitive information" we will assume that you have consented to the collection of all information which is provided to us for use in accordance with this Statement, unless you tell us otherwise.
-
-<p></p><br><p align="justify">
-<font color="Navy"></font></p><h3><font color="Navy"><a name="howcollect">How we collect information.</a></font></h3>
-We may collect personal information about you when you deal with us over the telephone, send as correspondance (whether by letter, fax or email), visit our web site or when you have contact with us in person. As well as collecting information directly from you, there may be occasions when we collect information about you from a third party. For Example:
-<p></p><p align="left">
-
-
-</p><ul>
-<li>from people making enquiries or purchases on your behalf</li>
-<li>from market research companies contracted by us to obtain information so that we may improve products and services</li>
-</ul><p></p><br><p align="justify">
-<font color="Navy"></font></p><h3><font color="Navy"><a name="howused">How we use your personal information.</a></font></h3>
-We generally collect your personal information for the following purposes:
-<p></p><p align="left">
-
-</p><ul>
-<li>to facilitate your participation in training and certification programmes</li>
-<li>to keep you up to date with product training and technical support information</li>
-<li>to keep you up to date with changes to services or the launch of new services that may be relavent to your business</li>
-<li>to conduct marketing activities and to conduct market research.</li>
-</ul><p></p><p align="justify">
-Some of the information we collect is essential for us to be able to accurately identify who is using our products or services. In the case of enrolment into our Nationally Accredited Training Courses, accurate identification of participants is mandatory to help prevent academic fraud.
-
-</p><br><p align="justify">
-<font color="Navy"></font></p><h3><font color="Navy"><a name="disclosed">Disclosure of personal information to third parties.</a></font></h3>
-We may disclose your personal information to third parties, for example, contractors to whom we contract out certain services. In these situations, we prohibit the third party contractor from using personal information about you except for the specific purpose for which we supply it.
-<br><br>
-We may also disclose your personal information to various law enforcement agencies and governments around the world for security and customs purposes.
-<br><br>
-Your information may also be shared between related companies in the Inner Range group, where necessary, to fulfil our purposes.
-<br><br>
-Other than the above, we will not disclose your personal information without your consent unless disclosure is either necessary to prevent a threat to life or health, authorised or required by law, reasonably necessary to enforce the law or necessary to investigate a suspected unlawful activity.
-
-
-<p></p><br><p align="justify">
-<font color="Navy"></font></p><h3><font color="Navy"><a name="access">Access to and correction of information we hold about you.</a></font></h3>
-We will, on request, provide you with access to the information we hold about you, unless there is an exception which applies under the National Privacy Principles, including for the purpose of correcting or updating that information.
-<br><br>
-We may recover from you our reasonable costs of supplying you with access to this information. Your request to provide access to this information will be dealt with in a reasonable time.
-<br><br>
-If we refuse to provide you with access to the information, we will provide you with reasons for the refusal and inform you of any exceptions relied upon under the National Privacy Principles.
-<br><br>
-In light of the privacy legislation we now have in place systems and procedures to facilitate access to all information we hold about you on request. For information which we collected prior to 21st December, 2001we may not be able to provide you with access to this information where to do so would place an unreasonable administrative burden on us or cause us unreasonable expense.
-<p></p><br><p align="justify">
-<font color="Navy"></font></p><h3><font color="Navy"><a name="uptodate">Keeping your personal information up-to-date.</a></font></h3>
-We take reasonable steps to ensure that your personal information is accurate, complete and up-to-date whenever we collect or use it.
-<br><br>
-If the personal information we hold about you is inaccurate, incomplete or out-of-date, please contact us and we will take reasonable steps to either correct this information, or if necessary, discuss alternative action with you.
-
-<p></p><br><p align="justify">
-<font color="Navy"></font></p><h3><font color="Navy"><a name="concerns">Resolving your concerns.</a></font></h3>
-If you wish to gain access to your personal information, have a complaint about a breach or your privacy or have any query on how your personal information is collected or used, please forward your request, complaint or query to the address below. We will respond to your query or complaint as soon as possible.
-<p></p><br><p align="justify">
-<font color="Navy"></font></p><h3><font color="Navy"><a name="changes">Changes to this Privacy Statement.</a></font></h3>
-We may amend this Privacy Statement as our business requirements or the law changes. Any changes to this Privacy Statement will be updated on innerrange.com, so please visit this site periodically to ensure that you have our most current Privacy Statement.
-<p></p><br><p align="justify">
-<font color="Navy"></font></p><h3><font color="Navy"><a name="contact">Our contact details - all enquiries.</a></font></h3><ul>
-<li>Inner Range Pty Ltd</li>
-<li>1 Millennium Court</li>
-<li>Knoxfield</li>
-<li>Victoria  3180</li>
-<li>Australia</li>
-<li>Tel:  +61 3 9753 3488</li>
-<li>Fax:  +61 3 9753 3499</li>
-<li>email:  <a href="mailto:admin@innerrange.com" target="mailto:admin@innerrange.com">admin@innerrange.com</a></li>
-
-</ul><p></p><p align="right">
-<a href="privacy.cfm#top"><span style="text-decoration: none;"><b>Return to top of page</b></span></a>
-</p><br><br><table width="70%" align="center">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</table>
-
-
-
-
-
-<!-- Outer table -->		
-
-<p align="center">
-<a href="http://www.innerrange.com/privacy.cfm" target="_blank">Privacy Policy</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:webmaster@innerrange.com">Webmaster</a>
-</p>
-<br>
-
-
-
-
-
-
-
+<script type="text/javascript">highlight();</script>
+<script type="text/javascript">SelectLocation();</script>
+<!--ZOOMRESTART-->
+<!-- InstanceEnd -->
 </body></html>
