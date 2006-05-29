@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wqam.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213195722id_/http%3A//www.wqam.com/index.php%3Fpage%3D118) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wqam.com privacy policy that was archived on 2006-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060529074532id_/http%3A//wqam.com/index.php%3Fpage%3D118%26PHPSESSID%3Dc36895bcfc7d6fe93bc8fa3c70ba6d6f) for the most accurate reproduction.*
 
 # wqam.com: WQAM > Home > Home > Privacy Policy
 
