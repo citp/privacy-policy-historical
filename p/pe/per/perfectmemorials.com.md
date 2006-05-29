@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the perfectmemorials.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224061916id_/http%3A//www.perfectmemorials.com/privacy_security.php%23privacy_notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectmemorials.com privacy policy that was archived on 2006-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060529193518id_/http%3A//www.perfectmemorials.com/privacy_security.php%3FosCsid%3Db74aed3866497fa7e04bf22decabb3fe%23privacy_notice) for the most accurate reproduction.*
 
-# Perfect Memorials - Privacy & Security Help
+# Privacy & Security Information
 
 Perfect Memorials Privacy Notice
-
-Last updated: June 12, 2003
 
 Perfect Memorials knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. **By visiting Perfect Memorials, you are accepting the practices described in this Privacy Notice.**
 
