@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the consumerinput.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215090006id_/http%3A//www.consumerinput.com/privacy.csp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerinput.com privacy policy that was archived on 2006-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060529205917id_/http%3A//www.consumerinput.com/toolbar/privacy.csp) for the most accurate reproduction.*
 
-# Consumer Input
+# Consumer Input Privacy Policy
 
-  
-
-
-Effective date: February 1, 2004
+Effective date: January 1, 2006
 
 Protecting your privacy is our highest priority. Consumer Input is designed to be an anonymous research forum. As such, we go to great lengths to ensure that your anonymity will remain intact. Our data collection techniques have been designed to purge personally identifiable information from our databases.
 
@@ -17,4 +14,4 @@ We will not license, publish, or sell any information collected from our panelis
 
 Inadvertently, the URL information we collect and license sometimes contains personal information about Internet users. Potentially, a name, address, email address, or similar information that an Internet user enters into a Web page can become part of the URL that is transmitted to us and stored in our databases. While we have no control over what information third party websites put into their URLs or where they put it, we make every commercially viable effort to purge our databases of any personally identifiable information. The data collection software uses a proprietary rules engine to search through all URLs, before transmitting them to its database, to strip out any such personally identifiable information. We do not disclose the contents of individual URLs stored in our databases so we will not release or use this information. Further, we aggregate data on hundreds of thousands of users before supplying data to our clients, thereby ensuring that an individual's privacy remains intact at all times.
 
-If you have questions related to privacy, please contact [privacy@consumerinput.com](mailto:privacy@consumerinput.com). Consumer Input is owned and operated by Compete, Inc. Copyright © 2000-2005 Compete™ All Rights Reserved. 
+If you have questions related to privacy, please contact [privacy@consumerinput.com](mailto:privacy@consumerinput.com). Consumer Input is owned and operated by Compete, Inc. Copyright © 2000-2006 Compete™ All Rights Reserved. 
