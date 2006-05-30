@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the google-store.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218071520id_/http%3A//www.google-store.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the google-store.com privacy policy that was archived on 2006-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060530082313id_/http%3A//www.google-store.com/privacy.php%3FosCsid%3Dc59c03950a7ba743fc0ba46e6cadfcef) for the most accurate reproduction.*
 
 # Google Store Worldwide
 
