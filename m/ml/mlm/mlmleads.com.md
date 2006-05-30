@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mlmleads.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221215717id_/http%3A//www.mlmleads.com/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlmleads.com privacy policy that was archived on 2006-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060530192728id_/http%3A//www.mlmleads.com/home/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
