@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hidden-street.net privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212042617id_/http%3A//www.hidden-street.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hidden-street.net privacy policy that was archived on 2006-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060530032111id_/http%3A//www.hidden-street.net/privacy.php) for the most accurate reproduction.*
 
 # Hidden Street
 
@@ -23,3 +23,9 @@ This site contains links to other sites. Hidden Street is not responsible for th
 **Contacting Hidden Street**
 
 Should you have any questions about this privacy policy, you may contact us at: hiddenstreetgmail.com
+
+  
+
+
+Copyright © 2004-2006 Hidden Street. [Privacy Policy](http://www.hidden-street.net/privacy.php)  
+Best viewed with Mozilla Firefox 
