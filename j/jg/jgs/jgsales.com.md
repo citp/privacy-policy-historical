@@ -1,15 +1,53 @@
-> *The following text is extracted and transformed from the jgsales.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219234249id_/http%3A//www.jgsales.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jgsales.com privacy policy that was archived on 2006-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060530080953id_/http%3A//www.jgsales.com/privacy.php%3FosCsid%3Db5518a59a080cd475e50465f348e3122) for the most accurate reproduction.*
 
-# J&G Sales LTD - Guns and Ammunition at Wholesale Prices to the Public
+# J&G Sales
 
-J&G Sales observes strict privacy measures to protect the information provided to us by our customers. We never sell, loan, give, or divulge the names addresses, or other personal information given to us by customers to any third party.  We would only divulge customer personal information when presented with a properly authorized and legal request by law enforcement and/or the justice courts. This applies to information provided via internet, phone, mail, or through in person purchases. 
+We at **J &G Sales** know that you care how information about you is used and shared, and we appreciate your trust and want you to feel confident in our services and security as it relates to your personal information. We therefore observe strict measures to protect your info. This notice describes our privacy policy. By visiting J&G Sales, you are accepting the practices described in this Privacy Notice. 
 
-The information is kept strictly in our customer files and is used only to process the orders and requests of the customers. The address information is used to send our seasonal J&G Sales catalog. The phone number or email address is only used to contact you if there is some need related to a pending order or business transaction. Your email address is used to send you notices of sale items and featured products only if you sign up to voluntarily receive these notices. You can unsubscribe at any time from these email notices by following the instructions at the bottom of our email newsletter.
+**What Personal Information Does J &G Sales Gather?**
 
-Data that is stored on our computer servers is protected both physically in well-secured and monitored structures, and electronically with up to date firewall protection. 
+The information we learn from customers helps us personalize and continually improve your shopping experience at J&G Sales. Here are the types of information we gather. 
 
-In some instances we need to know your date of birth, this is used and kept as a statement by you that you are of proper age to purchase products like ammunition, which is restricted to underage buyers. 
+  * **Information You Give Us:** We receive and store any information you enter on our Web site or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, fulfilling orders, customizing future shopping for you, improving our store features, and communication with you. 
+  * **Automatic Information:** We receive and store certain types of information whenever you interact with our website. For example, like many web sites, we sometimes use "cookies," to make the shopping cart work, and we obtain certain types of information when your Web browser accesses our website. 
+  * **E-mail Communications:** To help us make e-mails more productive to improve service and your shopping experience, we sometimes send you emails such as order confirmations. You can also subscribe to our email newsletters to receive notices of sales and new products. You will not receive these newletters unless you subscribe.
 
-Our website uses a cookie in order to make the shopping cart function. The cookie is used for no other reason. We do not have third party advertisers or banner ads on our website, so no other cookies are used by our website. 
 
-The BATF paperwork related to firearms sales is required to be kept for 20 years.  These forms are stored at J&G Sales during these 20 years. The BATF is permitted to view these records during the routine audits that every FFL dealer undergoes periodically, and if the information is properly requested due to an authorized trace.
+
+**What About Cookies?**
+
+Cookies are alphanumeric identifier text files that we transfer to your computers hard drive through your Web browser to enable our systems to recognize your browser and to provide features such as storage of items in your Shopping Cart between visits.
+
+**Do We Share the Information We Receive?**
+
+We respect your privacy and appreciate your business. At no time do we ever provide your account contact or payment information to any third party vendor, associate or service provider unless absolutely necessary in order to complete your transaction and order. We never sell, loan, rent, or divulge your personal information unless required by a properly authorized and legal request by law enforcement.
+
+**How Secure Is Information About Me?**
+
+We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you provide to us for purchasing of our products or services. We reveal only the last five digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer by clicking the "log off" link located in the side menu.
+
+**Which Information Can I Access?**
+
+J&G Salesgives you access to a broad range of information about your account and your interactions with us for the limited purpose of viewing and, in certain cases, updating that information.
+
+**Terms Of Service, Notices, and Revisions**
+
+If you choose to visit J&G Sales, your visit and any dispute over privacy is subject to this Notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of our local state. If you have any concern about privacy of your personal information as used and collected within our website, please send us a thorough description by clicking on the "Contact Us" link on the side menu, and we will try to resolve it. 
+
+Our business changes constantly, and our Privacy Notice and the Conditions of Use will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers. 
+
+**Information You Give Us**
+
+You provide most such information when you search, buy, order, post reviews, or other methods of communication via our website or email to J&G Sales. As a result of those actions, you might supply us with such information as your name, address, and phone numbers, and credit card information.
+
+**Automatic Information**
+
+For security purposes J&G Salessometimes collects and analyzes the Internet protocol (IP) address used to connect your computer to the Internet, and to our website. This is done for your protection for tracking purposes in the unfortunate event that someone gains access to your personal or financial information and opens an account, or makes purchases under your name.
+
+**BATFE Information**
+
+Paperwork related to a firearm sale (the form 4473 if done in person, the invoice logbooks if transferred to another FFL) must be kept on file by us for 20 years. The BATFE is permitted legally to review these records during routine audits that every FFL holder undergoes periodically, and also when the data is requested as part of a legitimate and authorized firearm trace. 
+
+**Questions**
+
+Questions regarding our Terms Of Service, Privacy Policy, or other policy related material can be directed to our support staff by clicking on the "Contact Us" link in the side menu. Or you can email us at:  **[ jgsales@qwest.net](mailto:%20jgsales@qwest.net)**
