@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redeyechicago.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214111245id_/http%3A//www.redeyechicago.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redeyechicago.com privacy policy that was archived on 2006-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060530212602id_/http%3A//www.redeyechicago.com/policy.htm) for the most accurate reproduction.*
 
 # RedEye Privacy Policy
 
