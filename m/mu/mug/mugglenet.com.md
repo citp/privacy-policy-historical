@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mugglenet.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212160230id_/http%3A//www.mugglenet.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mugglenet.com privacy policy that was archived on 2006-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060601014323id_/http%3A//mugglenet.com/privacy.shtml) for the most accurate reproduction.*
 
 # MuggleNet | Privacy Policy
 
@@ -23,7 +23,14 @@ We use Gorilla Nation, DoubleClick and other third-party advertising companies t
 In the course of serving advertisements to this site, our third-party ad server, Gorilla Nation, Double Click or their affiliates, or individual advertisers may place or recognize a unique “cookie” on your browser. 
 
 **MuggleNet Layout Cookie**  
-By utilizing the layout-changing feature on MuggleNet, you agree to accept a "cookie" into your browser. This cookie contains _only_ information that is used to set the layout correctly for you and no other personal information or any information which can be used to identify you personally.   
+By utilizing the layout-changing feature on MuggleNet, you agree to accept a "cookie" into your browser. This cookie contains _only_ information that is used to set the layout correctly for you and no other personal information or any information which can be used to identify you personally. 
+
+* * *
+
+**Support the site**   
+MuggleNet costs over $120,000 a year to run. If you order something through the link below, Amazon sends us a commission which helps us cover our costs. Thanks!
+
+* * *  
   
 ---  
   
@@ -38,8 +45,9 @@ MuggleNet is an unofficial fan site and the staff has a mortal fear of lawyers -
 [Privacy Policy](https://web.archive.org/privacy.shtml) | [COPPA Policy](http://www.mugglenet.com/coppa.shtml) | [Feedback](http://www.mugglenet.com/feedback/) | [Credits](http://www.mugglenet.com/credits.shtml)  
 [Random Addresses](http://www.mugglenet.com/junk.php)
 
-2,538 muggles currently online
-
+2,427 muggles currently online  
+  
+---  
   
 
 
