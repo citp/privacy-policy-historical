@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the italiarail.com privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227095943id_/http%3A//italiarail.com/tickets/IR/IR-privacy.asp%3FAFF%3DTRE) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the italiarail.com privacy policy that was archived on 2006-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060531034445id_/http%3A//www.italiarail.com/tickets/IR/IR-privacy.asp%3FAFF%3DTRE) for the most accurate reproduction.*
 
 # Italia Rail: Discover Italy by Train!
 
@@ -52,11 +52,11 @@ The security of your personal information is important to us. We maintain physic
 
 When our registration/order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry, SSL (Secure Sockets Layer). The site employs SSL via a digital certificate issued by Thwate.
 
-If you have any questions about the security at our website, you can send an email to service@italiarail.com.
+If you have any questions about the security at our website, you can send an email to service@ItaliaRail.com.
 
 **V. Accuracy of the Information We Collect**
 
-Any questions you may have regarding our Privacy Policy, the accuracy of your personal information or the use of your personal information, or any requests that we correct, update, or remove your information in our databases, should be directed via email to [info@italiarail.com](mailto:info@italiarail.com).
+Any questions you may have regarding our Privacy Policy, the accuracy of your personal information or the use of your personal information, or any requests that we correct, update, or remove your information in our databases, should be directed via email to [info@ItaliaRail.com](mailto:info@ItaliaRail.com).
 
 After receiving a request to change your information, we will make reasonable efforts to ensure that all of your personal information stored in databases we actively use to operate our website will be updated, corrected, changed or deleted, as appropriate, as soon as reasonably practicable. However, we reserve the right to retain in our archival files any information we remove from or change in our active website databases. We may retain such information to resolve disputes, troubleshoot problems and enforce our terms of use.
 
