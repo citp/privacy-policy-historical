@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the libraryreserve.com privacy policy that was archived on 2005-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050323025350id_/http%3A//www.libraryreserve.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libraryreserve.com privacy policy that was archived on 2006-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060531235149id_/http%3A//www.libraryreserve.com/Privacy.asp) for the most accurate reproduction.*
 
 # Digital Library Reserve, Inc. -- Privacy Policy
 
+  
   
 
 
