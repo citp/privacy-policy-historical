@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lowermybills.com privacy policy that was archived on 2004-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040618093031id_/http%3A//www.lowermybills.com/misc/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lowermybills.com privacy policy that was archived on 2006-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060604073010id_/http%3A//www.lowermybills.com/misc/privacy/index.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 
@@ -22,11 +22,23 @@
 <meta http-equiv="Content-Language" content="EN-US">
 
 
-<link rel="stylesheet" href="/style/main.css">
+<link rel="stylesheet" href="http://a261.g.akamai.net/7/261/3294/010321v0/images.lowermybills.com/css/about_us.css">
+<link rel="stylesheet" href="http://a261.g.akamai.net/7/261/3294/010321v0/images.lowermybills.com/style/main.css">
 
-<link rel="stylesheet" href="http://a261.g.akamai.net/7/261/3294/010321v100/images.lowermybills.com/style/main.css">
-
-<script src="http://a261.g.akamai.net/7/261/3294/010321v100/images.lowermybills.com/javascript/main.js"></script>
+<script src="http://a261.g.akamai.net/7/261/3294/010321v0/images.lowermybills.com/js/about_menu.js"></script>
+<script src="http://a261.g.akamai.net/7/261/3294/010321v0/images.lowermybills.com/javascript/main.js"></script>
+<script type="text/javascript" src="/js/survey/foresee/site1/oeTriggerParams.js"></script>
+<script type="text/javascript" src="/js/survey/foresee/oeLauncher.js"></script>
+<script type="text/javascript">
+function closeTrackerWin()
+{
+      var scoutTracker = ForeCStdGetCookie(triggerParms["scout_chk"]);
+      if(scoutTracker != null) {
+	var trackerWin = window.open(triggerParms["trackerURL"], "SurveyWindowInformative");
+	if(trackerWin != null && !trackerWin.closed) {trackerWin.close();}
+      }
+ }
+ </script>
 </head>
 
 
@@ -37,6 +49,7 @@
 
 <body bgcolor="#FFFFFF" text="#000000" link="#000066" vlink="#339900" alink="#FF9933" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
 
+<center>
 
 
 
@@ -52,60 +65,82 @@
 
 
 <!-- TOPNAV VERSION: MANAGEABLE UI -->
-<link rel="stylesheet" href="http://a261.g.akamai.net/7/261/3294/010321v1/images.lowermybills.com/css/nav.css" type="text/css">
-<script language="JavaScript" src="http://a261.g.akamai.net/7/261/3294/010321v1/images.lowermybills.com/js/navbar.js"></script>
+<link rel="stylesheet" href="http://a261.g.akamai.net/7/261/3294/010321v0/images.lowermybills.com/css/nav.css" type="text/css">
+
+
+<script language="JavaScript" src="http://a261.g.akamai.net/7/261/3294/010321v0/images.lowermybills.com/js/overrides/navbar_17203.js"></script>
+
+
 <script>
 var navBar = new navBar();
 
-navBar.leftLogoSrc="/images/topnav/lmb_logo.gif";
-navBar.leftLogoLink="http://www.lowermybills.com/index.jsp";
-navBar.leftLogoWidth=157;
-navBar.leftLogoHeight=54;
-navBar.leftLogoTitle="";
+navBar.leftLogoSrc="/images/topnav/17204/brand_mainnav.gif";
+navBar.leftLogoLink="http://www.lowermybills.com/";
+navBar.leftLogoWidth=210;
+navBar.leftLogoHeight=58;
+navBar.leftLogoTitle="LowerMyBills.com - An Experian Company";
 
-navBar.topTaglineSrc="/images/topnav/lmb_tagline.gif";
-navBar.topTaglineLink="";
-navBar.topTaglineWidth=426;
-navBar.topTaglineHeight=17;
-navBar.topTaglineTitle="Easy Comparisons. More Choices. Bigger Savings.";
+////// lending category pages should use separate tagline image -- PB 10.21.05//////////////
+var LMBChannel = "";
+       // alert(LMBChannel);
+if(LMBChannel == "loans"){
+    navBar.topTaglineSrc="/images/topnav/lmb_tagline.gif";
+}else{
+    navBar.topTaglineSrc="/images/topnav/lmb_tagline2.gif";
+}
+///////////////////////////////////////////////////////////////////////////
 
-navBar.rightImageSrc="/images/topnav/see_all.gif";
-navBar.rightImageLink="http://www.lowermybills.com/misc/sitemap/index.jsp";
-navBar.rightImageWidth=94;
-navBar.rightImageHeight=54;
+	
+	navBar.topTaglineTitle="Mortgage Quotes - Fast, Easy, Free";
+
+    navBar.topTaglineLink="";
+    navBar.topTaglineWidth=426;
+    navBar.topTaglineHeight=17;
+
+navBar.rightImageSrc="/images/topnav/17204/txt_contactus2.gif";
+navBar.rightImageLink="http://www.lowermybills.com/misc/company/com_general_0.jsp?content=contact_0";
+navBar.rightImageWidth=60;
+navBar.rightImageHeight=10;
 navBar.rightImageTitle="";
-
 navBar.tabsArray = [
 
-	["http://www.lowermybills.com/tld/index.jsp", "phone", "Phone & Internet", "144", "26", [
-			["http://www.lowermybills.com/tld/index.jsp", "Long Distance Service", "tld"],
+	["http://www.lowermybills.com/twi/index.jsp", "phone", "Phone & Internet", "118", "12", [
 			["http://www.lowermybills.com/twi/index.jsp", "Cellular Phone", "twi"],
-			["http://www.lowermybills.com/tia/index.jsp", "Internet Access", "tia"]
+			["http://www.lowermybills.com/tld/index.jsp", "Long Distance Service", "tld"],
+			["http://www.lowermybills.com/tia/index.jsp", "Internet Access", "tia"],
+			["http://www.vmcsatellite.com/design_red/home.cfm?sid=775", "Satellite", "sat"]
 		]
 	],
 
-	["http://www.lowermybills.com/debt/index.jsp", "debt", "Debt", "57", "26", [
-			["https://www.lowermybills.com/servlet/LMBServlet?the_action=DebtWizardInit", "DebtWizard", "debtwizard"],
-			["http://www.lowermybills.com/ldc/index.jsp", "Debt Consolidation Loan", "debtldcTopnav"]
+	["http://www.lowermybills.com/servlet/LMBServlet?the_action=DebtHome", "debt", "Debt", "32", "12", [
+			["https://www.lowermybills.com/debt/index.jsp", "DebtWizard", "debtwizard"],
+			["http://www.lowermybills.com/debt-consolidation-loans.jsp", "Debt Consolidation Loan", "debtldcTopnav"]
 		]
 	],
 
-	["http://www.lowermybills.com/lho/index.jsp", "loans", "Loans", "66", "26", [
-			["http://www.lowermybills.com/lre/index.jsp", "Home Refinance Loan", "lre"],
-			["http://www.lowermybills.com/lhe/index.jsp", "Home Equity Loan", "lhe"],
-			["http://www.lowermybills.com/ldc/index.jsp", "Debt Consolidation Loan", "ldc"],
-			["http://www.lowermybills.com/lhp/index.jsp", "Home Purchase Loan", "lhp"],
-			["http://www.lowermybills.com/lau/index.jsp", "Automobile Loan", "lau"]
+	["http://www.lowermybills.com/home-loans.jsp", "loans", "Loans", "43", "12", [
+			["http://www.lowermybills.com/refinance-loans.jsp", "Home Refinance Loan", "lre"],
+			["http://www.lowermybills.com/home-equity-loans.jsp", "Home Equity Loan", "lhe"],
+			["http://www.lowermybills.com/debt-consolidation-loans.jsp", "Debt Consolidation Loan", "ldc"],
+			["http://www.lowermybills.com/home-purchase-loans.jsp", "Home Purchase Loan", "lhp"]
 		]
 	],
 
-	["http://www.lowermybills.com/crr/index.jsp", "credit", "Credit & Finance", "136", "26", [
+	["http://www.lowermybills.com/billpayplus/index.jsp", "billpay", "BillPay", "49", "12", [
+			["http://www.lowermybills.com/billpayplus/billpay.jsp?action=login", "Login", "login"],
+			["http://www.lowermybills.com/billpayplus/billpay.jsp?action=current", "View Current Bills", "current"],
+			["javascript:startBillPayTour();", "Take the Tour", "tour"],
+			["http://www.lowermybills.com/billpayplus/billpay.jsp?action=signup", "Sign Up", "signup"]
+		]
+	],
+
+	["http://www.lowermybills.com/crr/index.jsp?sc=6066DH01", "credit", "Credit", "45", "12", [
 			["http://www.lowermybills.com/crc/index.jsp", "Credit Cards", "crc"],
-			["http://www.lowermybills.com/crr/index.jsp", "Free Credit Reports", "crr"]
+			["http://www.lowermybills.com/crr/index.jsp?sc=6066DH02", "Free Credit Report & Score", "crr"]
 		]
 	],
 
-	["http://www.lowermybills.com/servlet/LMBServlet?the_action=Load&next_page=/iau/insurance_index.jsp", "insurance", "Insurance", "95", "26", [
+	["http://www.lowermybills.com/iau/", "insurance", "Insurance", "72", "12", [
 			["http://www.lowermybills.com/iau/index.jsp", "Automobile Insurance", "iau"],
 			["http://www.lowermybills.com/ili/index.jsp", "Life Insurance", "ili"],
 			["http://www.lowermybills.com/ihe/index.jsp", "Health Insurance", "ihe"],
@@ -114,433 +149,330 @@ navBar.tabsArray = [
 		]
 	]
 ];
-
-navBar.resourcePath="http://a261.g.akamai.net/7/261/3294/010321v1/images.lowermybills.com";
+navBar.resourcePath="http://a261.g.akamai.net/7/261/3294/010321v0/images.lowermybills.com";
 navBar.activeTab="";
 navBar.activeSubItem="";
 
-navBar.draw();
+//navBar.draw();
+</script>
+
+
+<link type="text/css" rel="stylesheet" href="http://a261.g.akamai.net/7/261/3294/010321v0/images.lowermybills.com/css/navDropdownMenu.css">
+<script type="text/javascript" src="http://a261.g.akamai.net/7/261/3294/010321v0/images.lowermybills.com/js/navDropdownMenuGenerator.js"></script>
+<script type="text/javascript" src="http://a261.g.akamai.net/7/261/3294/010321v0/images.lowermybills.com/js/navDropdownMenuPositioner.js"></script>
+
+
+
+
+
+
+
+
+
+
+<table cellpadding="0" cellspacing="0" border="0" width="746" style="text-align: left">
+<tbody><tr><td class="leftColumn" colspan="2"><img src="http://a261.g.akamai.net/7/261/3294/010321v0/images.lowermybills.com/images/about/top-left.gif"></td><td colspan="2"><img src="http://a261.g.akamai.net/7/261/3294/010321v0/images.lowermybills.com/images/about/top-right.gif" width="592" height="10"></td></tr>
+<tr>
+	<td width="1" bgcolor="#999999"><img src="http://a261.g.akamai.net/7/261/3294/010321v0/images.lowermybills.com/images/spacer.gif" width="1"></td>
+	<td class="leftColumn" valign="top">
+	<div class="menu">
+	<script>
+	var aboutMenu = new aboutMenu();
+
+	aboutMenu.activeMenu="1";
+	aboutMenu.activeSubItem="3";
+	aboutMenu.form="0";
+
+	aboutMenu.draw();
+	</script>
+	</div>
+	</td><td>
+	<div class="content">
+
+
+
+
+
+
+<script src="http://a261.g.akamai.net/7/261/3294/010321v0/images.lowermybills.com/javascript/main.js"></script>
+<script src="http://a261.g.akamai.net/7/261/3294/010321v0/images.lowermybills.com/js/footer.js"></script>
+
+
+<script>
+
+function link(url, popurl) {
+	var windowurl = url;
+	var openinself = true;
+	try {
+		if (window.opener) {
+			if (popurl) {
+				windowurl = popurl;
+			}
+			else {
+				openinself = false;
+			}
+		}
+	}
+	catch (e) {	}
+	if (!openinself) {
+		window.open(windowurl);
+	}
+	else {
+		document.location = windowurl;
+	}
+	return false;
+}
+
 </script>
 
 
 
-
-
-
-
-
-
-<!-- BEGIN WEBSIDESTORY CODE v9.0.0 (11up): HEADER CODE -->
-<script language="javascript" id="_hbc">
-var _acct="DM531029FOEE58EN3;DM531116CFSS58EN3;DM540413OMBV58EN3";	//account number(s)
-var _pn="/misc/privacy/prv_general_0.jsp"; //page name(s)
-var _mlc="/Uncategorized"; //multi-level content category
-var _seg=""; // visitor segmentation
-var _cmp=""; // campaign id
-var _gp="";  // campaign goal
-var _cmpn="";// campaign id in query
-var _gpn=""; // campaign goal in query
-var _fnl=""; // funnels
-var _pec=""; // error codes
-var _fv="";  // form validation function name
-var _dcmp="";// dynamic campaign
-var _dcmpn="";//dynamic campaign in query
-var _hra=""; // response attribute
-var _hcn=""; // conversion
-var _hcv=""; // conversion value
-var _hlt=""; // lead tracking
-var _hla=""; // lead attribute
-var _hqsr="";// response attribute in referrer query
-var _hqsp="";// response attribute in query
-var _hc1=""; // custom 1
-var _hc2=""; // custom 2
-var _hc3=""; // custom 3
-var _hc4=""; // custom 4
-var _lt="none";  // link tracking
-var _ci="";  // customer id
-var _cp="null"; // campaign
-var _cpd=""; // campaign domain
-var _pndef="index.html"; //default page name
-var _ctdef="full"; //default content category
-var _dlf="n"; //download filter
-var _elf="n"; //exit link filter
-var _dft="n"; // download file tracker variable, set to y to use the name reference
-var _hrf=""; // custom referrer. use valid url or param name
-var _epg="n"; //event page identifier
-var _vpc="090001r";
-var _gn="ehg-lowermybills.hitbox.com",_mn="we71"; //gateway & machine name
-</script>
-<!-- END WEBSIDESTORY CODE  -->
-
-
-
-
-
-
-
-<table width="750" border="0" cellspacing="0" cellpadding="0" align="center">
-
-<tbody><tr>
-<td height="11" valign="baseline" nowrap=""><img src="http://a261.g.akamai.net/7/261/3294/010321v100/images.lowermybills.com/images/common/channel/com_youarehere_black.gif" width="97" height="11" alt="You Are Here">&nbsp;&nbsp;<span class="locationlink1"><a href="/servlet/LMBServlet?the_action=NavigateHome">Home</a></span>&nbsp; <span class="locationtext1">&gt;</span>&nbsp;&nbsp;<span class="locationlink1">Privacy Policy</span><span class="infotext2"></span></td>
-</tr>
-
-</tbody></table>
-
-
-<table width="750" border="0" cellspacing="0" cellpadding="0" align="center">
-<tbody><tr align="center">
-<td>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td valign="top" width="1%">
-<table width="150" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr valign="top">
-<td align="left"><img src="http://a261.g.akamai.net/7/261/3294/010321v100/images.lowermybills.com/images/template/tp_blank.gif" width="1" height="8"></td>
-</tr>
-</tbody></table>
-
-
-
-<table width="150" border="0" cellspacing="0" cellpadding="0">
-
-<tbody><tr>
-<td width="1%">&nbsp;</td>
-<td>
-
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td valign="top" align="left">
- <img src="http://a261.g.akamai.net/7/261/3294/010321v1/images.lowermybills.com/images/template/tp_blank.gif" width="1" height="20"><a href="/misc/company/com_general_0.jsp?content=company" class="navtitlelink">About Us</a><br>
-<div class="justify2">
-<span class="navtext">
-<a href="/misc/company/com_general_0.jsp?content=founder_0" class="navtext_green">Meet the Team</a><br>
-<a href="/misc/company/com_general_0.jsp?content=faq_0" class="navtext_green">FAQs</a><br>
-<a href="/misc/privacy/prv_general_0.jsp?content=privacy" class="navtext_green">Privacy Policy</a><br>
-<a href="/misc/company/com_general_0.jsp?content=contact_0" class="navtext_green">Contact Us</a><br>
-</span>
-</div>
- <img src="http://a261.g.akamai.net/7/261/3294/010321v1/images.lowermybills.com/images/template/tp_blank.gif" width="1" height="20"><a href="/misc/customer/" class="navtitlelink">Customer Care</a><br>
- <img src="http://a261.g.akamai.net/7/261/3294/010321v1/images.lowermybills.com/images/template/tp_blank.gif" width="1" height="20"><a href="/misc/press/index.jsp" class="navtitlelink">Newsroom</a><br>
- <img src="http://a261.g.akamai.net/7/261/3294/010321v1/images.lowermybills.com/images/template/tp_blank.gif" width="1" height="20"><a href="/misc/affiliates/afl_general_0.jsp?content=affiliates" class="navtitlelink">Affiliates</a><br>
-
- <img src="http://a261.g.akamai.net/7/261/3294/010321v1/images.lowermybills.com/images/template/tp_blank.gif" width="1" height="20"><a href="/misc/jobs/job_general_0.jsp?content=jobs" class="navtitlelink">Careers</a><br>
-<img src="http://a261.g.akamai.net/7/261/3294/010321v1/images.lowermybills.com/images/template/tp_blank.gif" width="1" height="20"><a href="/misc/legal/lgl_disclosures_license.jsp" class="navtitlelink">Disclosures &amp; Licenses</a><br>
-</td></tr>
-</tbody></table>
-
-
-</td>
-<td width="1%">&nbsp;</td>
-</tr>
-</tbody></table>
-
-
-
-
-
-
-<table width="150" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr valign="bottom">
-<td align="left"><img src="http://a261.g.akamai.net/7/261/3294/010321v100/images.lowermybills.com/images/template/tp_blank.gif" width="1" height="8"></td>
-</tr>
-</tbody></table>
-<table width="150" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td><img src="http://a261.g.akamai.net/7/261/3294/010321v100/images.lowermybills.com/images/template/tp_blank.gif" width="1" height="2"></td>
-</tr>
-<tr valign="top">
-<td align="right"><img src="http://a261.g.akamai.net/7/261/3294/010321v100/images.lowermybills.com/images/template/tp_blank.gif" width="1" height="8"></td>
-</tr>
-</tbody></table>
-<table width="150" border="0" cellspacing="0" cellpadding="0">
-
-<tbody><tr>
-<td width="1%">&nbsp;</td>
-<td>
-
-
-
-
-
-
-
-
-
-
-
-
-</td>
-<td width="1%">&nbsp;</td>
-</tr>
-</tbody></table>
-
-
-
-
-<table width="150" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td><img src="http://a261.g.akamai.net/7/261/3294/010321v100/images.lowermybills.com/images/template/tp_blank.gif" width="1" height="2"></td>
-</tr>
-</tbody></table>
-
-
-
-
-
-
-
-
-
-
-</td>
-<td valign="top" width="5%"><img src="http://a261.g.akamai.net/7/261/3294/010321v100/images.lowermybills.com/images/common/com_left_nav_green_bar.gif" width="21" height="255"></td>
-<td valign="top" width="94%">
-
-
-<br>
-<table width="585" border="0" align="center" cellpadding="0" cellspacing="5">
-
-<tbody><tr>
-<td colspan="2" class="maintext3" align="left"><b><font color="000066" size="5">Our Privacy Pledge</font><br><br>
-<font color="000066">Last updated: March 24, 2004</font></b><br>
+<h1>Our Privacy Pledge</h1>
+Last updated: March 29, 2005<br>
+<br><br>
+<b>We Respect Your Privacy</b><br>
 <br>
 
-<a href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;type=GOLD&amp;sealid=2&amp;dn=WWW.LOWERMYBILLS.COM&amp;lang=en" target="_blank"><img src="http://a261.g.akamai.net/7/261/3294/010321v1/images.lowermybills.com/images/misc/misc_verisign.gif" border="0" align="right" style="margin-bottom: 1em;"></a>
-At LowerMyBills.com, your security is a top priority and we are 100% committed to protecting your privacy online.   This pledge outlines the steps we've taken to ensure that you have a great experience at LowerMyBills.com, and also provides details on how we treat any personal information you may submit to us. Note: personal information is information about you that is personally identifiable, such as your name, address, email address, or phone number that is not otherwise publicly available.
-<br>
-</td>
-</tr>
-<tr>
-<td colspan="2" class="maintitle3" align="left"><a href="/misc/legal/lgl_disclosures_license.jsp">Disclosures &amp; Licenses</a></td>
-</tr>
-<tr>
-<td align="left" colspan="2" class="maintitle3">&nbsp;</td>
-</tr>
-<tr>
-<td colspan="2" class="maintext3" align="left"> <font color="#000066"><b>We Respect Your Privacy</b></font><br>
-When you request rate quotes or information through LowerMyBills.com,
-                  you are authorizing us to share information with our business
-                  partners, who will contact you by phone, email, or mail. If
-                  you do not want further communication, please notify the partner directly and also take advantage of  the National Do Not Call Registry.</td>
-</tr>
-<tr>
-<td align="left" colspan="2" class="maintext3">&nbsp;</td>
-</tr>
-<tr>
-<td align="left" colspan="2" class="maintext3"><font color="000066"><b>TRUSTe</b></font>
-<br>
-<table border="0">
-<tbody><tr><td>
-LowerMyBills.com adheres to the strict requirements set forth by the TRUSTe Privacy Program. TRUSTe is an independent privacy organization whose mission is to build users' trust and confidence on the Internet, and is the recognized leader in promoting privacy policy disclosure, informed user consent, and consumer education.  Their online seal, or "trustmark" is awarded to web sites that adhere to established privacy principles and agree to comply with their established oversight and consumer resolution process.  If you have questions or concerns about the TRUSTe Privacy Program, please contact us at <a href="mailto:customercare@lowermybills.com">CustomerCare@LowerMyBills.com</a>. If you have further concerns after you have contacted <a href="mailto:customercare@lowermybills.com">CustomerCare@LowerMyBills.com</a>, you can contact TRUSTe directly at <a href="http://www.truste.org/users/watchdog.html" target="_blank">http://www.truste.org/users/watchdog.html</a>. TRUSTe will then serve as a liaison to help you resolve your concerns.
-</td><td><a href="/misc/loading.jsp?LMBcategory=misc_gen&amp;LMBfrom=privacy&amp;LMBto=truste.org&amp;URL=https://www.truste.org/validate/6772" target="_blank"><img src="/images/external/ext_truste_round.gif" width="91" height="73" border="0" align="absmiddle" alt="TrustE - Click To Verify"></a></td>
-</tr>
-</tbody></table>
-<br>
-<br>
-</td>
-</tr>
-<tr>
-<td align="left" colspan="2">
-
-
-<p class="maintext3">
-
-
-
-<font color="000066"><b>Information Collection and Use</b></font>
-<br>
-Our goal is to provide you with a safe and enjoyable experience when using our service. You can browse the LowerMyBills.com website at anytime without revealing any personal information about yourself. When we do ask you for information, it is used only for the following important purposes: to process and fulfill your requests for products and services; to solicit your opinions and other feedback; to conduct research; to customize the advertising and content you see; and to provide anonymous reporting for internal and external clients.
-LowerMyBills.com may collect personal information at the following times, with your permission only:<br>
+<a href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;type=GOLD&amp;sealid=2&amp;dn=WWW.LOWERMYBILLS.COM&amp;lang=en" target="_blank"><img src="http://a261.g.akamai.net/7/261/3294/010321v0/images.lowermybills.com/images/misc/misc_verisign.gif" border="0" align="left" hspace="6"></a>
+At LowerMyBills.com<sup>®</sup>,&nbsp;your security is a top priority and we are committed to protecting your privacy online. This pledge outlines the steps we've taken to ensure that you have a great experience at LowerMyBills.com, and also provides details on how we treat any personal information you may submit to us.<br>
 <br>
 
-•&nbsp;When you register to receive communications from LowerMyBills.com
+This Privacy Pledge applies to this website, LowerMyBills .com. In addition, LowerMyBills , Inc. owns several other domain names that point to LowerMyBills .com, and we will from time to time add new sites that may or may not be listed in this Privacy Pledge. Please note that this policy applies only to sites maintained by LowerMyBills , Inc. and not to websites maintained by other companies or organizations to which we link. In addition, this policy applies only to information collected by LowerMyBills , Inc. online, not offline. For our privacy practices regarding BillPay Plus™, please see the <a href="javascript:openChildWindow('/billpayplus/privacy/', 519, 568, 'yes', 'yes')">BillPay Plus Privacy Policy</a>.
 <br>
-•&nbsp;When you seek information or enter applications for products and services offered through LowerMyBills.com<br>
-•&nbsp;When you enter promotions or sweepstakes offered by LowerMyBills.com<br>
-•&nbsp;When you provide such information to us through surveys, feedback, or other forms hosted on LowerMyBills.com's &nbsp;&nbsp;pages or the pages of certain LowerMyBills.com partner.<br>
 <br>
-
-In addition, we might receive information about you from other sources (such as service providers) for tracking purposes. LowerMyBills.com may add the information we receive about you to your existing account.
-Like other websites, we also automatically receive and record certain types of information every time you visit us.  We use "<a href="#010">Cookies</a>" and the other information to enhance your experience and present you with personalized offers.  Likewise, we sometimes use third-party advertising companies to serve and track advertisements appearing on our website.  These companies may employ cookies and action tags to measure advertising effectiveness.  Any information that these third parties collect via cookies and action tags is completely anonymous.
+<a href="/misc/legal/lgl_disclosures_license.jsp" onclick="return link(this.href);">Disclosures &amp; Licenses</a>
+<br><br>
+<b>TRUSTe</b><br>
+<a href="/misc/loading.jsp?LMBcategory=misc_gen&amp;LMBfrom=privacy&amp;LMBto=truste.org&amp;URL=https://www.truste.org/ivalidate.php?url=www.lowermybills.com" target="_blank"><img src="http://a261.g.akamai.net/7/261/3294/010321v0/images.lowermybills.com/images/external/ext_truste_round.gif" width="91" height="73" border="0" align="left" alt="TrustE - Click To Verify" hspace="10"></a>
+LowerMyBills, Inc. is a licensee of the Truste Privacy Program. LowerMyBills.com adheres to the strict requirements set forth by the TRUSTe Privacy Program. TRUSTe is an independent privacy organization whose mission is to build users' trust and confidence on the Internet, and is the recognized leader in promoting Privacy Pledge disclosure, informed user consent, and consumer education. Their online seal, or "trustmark" is awarded to websites that adhere to established privacy principles and agree to comply with their established oversight and consumer resolution process. If you have questions or concerns about the TRUSTe Privacy Program, please contact us at <a href="mailto:customercare@lowermybills.com"> </a><a href="mailto:customercare@lowermybills.com">Customer Care</a>. If you have further concerns after you have contacted LowerMyBills.com <a href="mailto:customercare@lowermybills.com">Customer Care</a>, you can contact <a href="http://www.truste.org/consumers/watchdog_complaint.php" target="_blank">TRUSTe</a> directly.
 
 <br>
 <br>
-<b><font color="000066">Information Sharing and Disclosure</font></b><br>
-LowerMyBills.com does not rent, sell, or share personal information about you with other people or non-affiliated companies.  We share customer information only with your permission or under the following circumstances:<br>
+<b>Information Collection and Use</b><br>
+We will collect and use personal information about you to respond to your request for products and services offered through this website. We will also collect information in order to notify you about products, services, and other opportunities we think will be of interest to you. Although personal information we collect from you may be considered publicly available through government records or available through widely distributed media, we will treat all personal information submitted by you as nonpublic personal information. The information we collect may be from the following sources:<br>
+<ul>
+<li> Information provided by you in connection with obtaining financial products or services such as mortgage loans (such as full name, telephone number, self-assessed property value, and social security number). </li>
+<li> Information you provide us when you register to receive communications from us (such as your email address). </li>
+<li> Information you provide us when you enter promotions or sweepstakes offered by LowerMyBills.com (such as your full name, physical address and email address). </li>
+<li> Information you provide us through surveys, feedback, or other forms hosted on our website or the pages of a LowerMyBills.com partner. </li>
+<li> Information you provide us when you apply for a job with LowerMyBills.com.</li>
+</ul>
 <br>
-•&nbsp;&nbsp;<b>Processing Your Requests: </b>If you apply for a product or service offered through
-   LowerMyBills, we will share your information with certain business partners strictly to process and fulfill your
-   request . Our business partners may contact you by telephone in order to process and fulfill your request even
-   if you have opted into the National Do Not Call List administered by the Federal Trade Commission. If one of our
-   business  partners contacts you by telephone and you wish not to be contacted again by that business partner
-   with respect to  your inquiry or application, then you should specifically make a request to that business partner to
-   not contact you  again. If the business partner disregards your request and contacts you again, please let us know
-   immediately by  sending an email to <a href="mailto:CustomerCare@lowermybills.com">CustomerCare@lowermybills.com</a>. Our business partners may also contact
-   you to process your request by email or mail based on the information you have provided to us.  Such partners may keep such information whether you elect to use their services or not.  If you do not want to receive such communications from them, please notify the business partner directly. <br>
-•&nbsp;&nbsp;<b>Contracted Partners: </b>We sometimes disclose the information we collect to companies that perform marketing &nbsp;&nbsp;&nbsp;services on our behalf. These partners only have access to personal information needed to perform their functions, and may not share it with others or use it for any other purpose. These companies are subject to confidentiality agreements with us and other legal restrictions that prohibit using the information except to market the specified LowerMyBills.com products or services.<br>
-•&nbsp;&nbsp;<b>Legal Protection:</b> We respond to subpoenas, court orders, or legal process, and will establish or exercise our legal rights and defend against legal claims. We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of LowerMyBills.com's terms of use, or as otherwise required by law.<br>
-•&nbsp;&nbsp;<b>Business Transfer:</b> As with any other business, it is possible that LowerMyBills.com in the future could merge with or be acquired by another company. If such an acquisition occurs, the successor company would have access to the information maintained by LowerMyBills.com, including customer account information, but would continue to be bound by this Privacy Policy unless you consent otherwise. Notice of a business transfer will be posted here for 30 days.
-
-<br>
-<br>
-<b><font color="000066">Anti-Spam Policy &amp; Pop Up Windows</font></b>
-<br>
-On occasion, you may receive advertisements for LowerMyBills.com from third parties.  For instance, when visiting a third party website, you may receive a "pop up" window advertising LowerMyBills.com.  Please note that such advertisements are served by the third party website that you have visited and are not controlled by LowerMyBills.com.  In addition, you may receive emails that advertise LowerMyBills.com's services from third party publishers.  LowerMyBills.com has established firm ground rules for dealing with any third party email services to ensure that advertisements for LowerMyBills.com are not sent out through a "Spam" mailing -- ensuring that our offers are sent only to those individuals who have given their permission to the third party email service to receive communications.  If any third party email publisher refuses to abide by LowerMyBills.com's anti-Spam policy, LowerMyBills.com will not use that publisher's services.  If you want to stop receiving emails from a third party, you should follow the opt-out instructions included in the email so that you will not be included in any future mailings.  An "unsubscribe" link should appear at the bottom of the email you received. However if for any reason it does not work, please bring that to our attention by emailing us at <a href="mailto:customercare@lowermybills.com">CustomerCare@LowerMyBills.com</a>.
-
-<br>
-<br>
-<a name="#010"></a>
-<b><font color="000066">Cookies</font></b>
-<br>
-To serve you faster and with better quality, we use "cookies" technology. Cookies are small bits of code, usually stored on a user's computer hard drive, which enable a Web site to "personalize" itself for each user. We generally use cookies to reduce the time it takes for pages to load on your computer and to assist with customer tracking. Customer tracking (or "click-stream") data collected by us is used to optimize your experience by learning whether or not you successfully used LowerMyBills.com.  Additionally, we may capture click-stream data on some of our partner's websites, limited to the activity involved with the completion of offers listed on our website. This information is used to monitor the performance of our partners.
-
-<br>
-<br>
-<b><font color="000066">Clear Gifs</font></b>
-<br>
-We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs) that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movement of Web users. Clear gifs are not tied to users' personally identifiable information. We also use clear gifs in our HTML-based emails to let us know which emails the recipients have opened. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If users would like to opt-out of these emails, please see the Opt-out section.
-
-<br>
-<br>
-<b><font color="000066">Confidentiality and Security</font></b>
-<br>
-The security of your personal information is very important at LowerMyBills.com and we take a number of steps to safeguard it.  We maintain physical, electronic, and procedural safeguards that comply with federal standards to guard personal information about you.  We limit access to personal information to those employees and agents who assist us in providing requested products and services to you.  In addition, we use industry standard data encryption technologies when transferring and receiving consumer data on the LowerMyBills.com website. We have partnered with VeriSign to protect against the loss, misuse or alteration of information that we collect from you.
+We also collect demographic information. Demographic information is all other information such as gender, zip code, or any information that is not tied to your personal information. In addition, we might receive information about you from other sources (such as service providers) for tracking purposes. We may add the information we receive about you to your existing account. Like other websites, we also automatically receive and record certain types of information every time you visit us. We use " cookies" and the other information to enhance your experience and present you with personalized offers. Likewise, we sometimes use third-party advertising companies to serve and track advertisements appearing on our website. These companies may employ cookies and action tags to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. <br>
 
 
+<p><b>Information Sharing and Disclosure</b><br>
+We do not share personal information about you with other people or nonaffiliated companies except to provide product or services you have requested or under the following circumstances:<br>
+</p><ul>
+
+<p><b>Loan Products or Service Requests - </b>
+If you submit a request for a loan product or service offered through this website we will share the personal information contained in your request form, such as your full name, physical address, telephone number, property location and self-assessed value, and social security number, with lenders in our provider network strictly to process and fulfill your request. In some circumstances, we may obtain additional information about you and/or share that information with lenders in our provider network. For example, we may use your social security number to obtain your credit score to help us match you with a lender. In addition, lenders that receive your personal information may use your social security number to pull your credit score and/or credit report in order to process and fulfill your request. All lenders in our provider network, which include banks, mortgage lenders and brokers, have entered into marketing agreements with LowerMyBills.com and are required to comply with federal and state privacy regulations. The lenders may contact you by telephone, email, or mail based on the information you provided to us in order to process and fulfill your request, even if you have opted into the National Do Not Call List administered by the Federal Trade Commission, any state equivalent Do Not Call List, or the Do Not Call List of an internal company. If one of the lenders contacts you by telephone and you wish not to be contacted again by that lender with respect to your inquiry, then you should specifically make a request to that lender not to contact you again. If the lender disregards your request and contacts you again, please let us know immediately by sending an email to LowerMyBills.com
+<a href="mailto:customercare@lowermybills.com">Customer Care</a>.  Please note that the lenders may maintain the information you provided whether you elect to use their services or not.</p>
+
+<p><b>Find-A-Real Estate Agent Service Requests -</b> If you submit a request to Find-A-Real Estate Agent, we will collect your personal information and disclose it to HomeGain, a third party vendor that operates LowerMyBills.com's Find-A-Real Estate Agent service. Please note that the personal information you submit through the Find-A-Real Estate Agent service is subject to both this Privacy Pledge and HomeGain's privacy policy. </p>
+
+<p><b>Other Products or Service Requests -</b> If you submit a request for a product or service other than a loan such Internet access, automobile insurance or long distance telephone service, we will share the personal information contained in your request form such as your full name, telephone number and email address with our business partners to process and fulfill your request. Our business partners may contact you by telephone, email, or mail based on the information you provided to us, even if you have opted into the National Do Not Call List administered by the Federal Trade Commission, any state equivalent Do Not Call List, or the Do Not Call List of an internal company. If one of our partners contacts you by telephone and you wish not to be contacted again by that business partner with respect to your inquiry, then you should specifically make a request to that partner not to contact you again. </p>
+
+<p><b>Vendors -</b>
+ We sometimes disclose the information we collect to companies that host certain services for us such as marketing distribution services on our behalf. These vendors only have access to personal information needed to perform their functions, and may not share it with others or use it for any other purpose. These companies are subject to confidentiality agreements with us and other legal restrictions that prohibit them from using the information except to market the specified LowerMyBills.com products or services. </p>
+
+<p><b>"Live Help" Feature -</b> <b> </b> If you have a question about this website, you can use the Live Help feature. The Live Help feature is operated by eGAIN. All personal information collected by eGAIN is kept confidential and forwarded to LowerMyBills.com for the purpose of responding to your question or customer service request. </p>
+
+<p><b>Job Postings -</b>
+ We allow for the online submission of resumes and employment related information. Please note that the information (including personal information) collected through the online job application process on the Career Pages section of our website is not subject to this Privacy Policy . However, we want to assure you that information obtained from our job site will be used solely for the purpose of accepting and evaluating your submission for possible employment and the related purposes described on our Career Pages. We currently use Wet Feet, an outside third party vendor, to handle our employment related submissions. All personal information collected by Wet Feet is kept confidential and forwarded to LowerMyBills.com for the purpose of recruitment. </p>
+
+<p><b>Affiliate Partners -</b>
+Personal and business information submitted through the "Affiliate Program" will be shared with Commission Junction. Commission Junction operates our affiliate program and information submitted through our affiliate program is collected by Commission Junction. Please review <a href="http://www.cj.com/privacy.jsp" target="_blank">Commission Junctions' Privacy Policy</a> before submitting your personal information.</p>
+
+<p><b>As Permitted by Law -</b>
+  <b> </b> We may be required to share your personal information with law enforcement or government agencies in response to subpoenas, court orders, federal/state audits or similar circumstances. We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of LowerMyBills.com's  <a href="/misc/termsofuse/index.jsp">Terms of Use</a>, or as otherwise required by law.</p>
+
+<p><b>Business Transfer </b><b>-</b> As with any other business, it is possible that LowerMyBills, Inc. in the future could merge with or be acquired by another company. If such an acquisition occurs, the successor company would have access to the information maintained by LowerMyBills.com, including customer account information, but would continue to be bound by this privacy pledge unless you consent otherwise. </p>
+</ul>
 <br>
+
+<p><b>Advertisements &amp; Pop Up Windows</b><br>
+On occasion, you may receive advertisements for LowerMyBills.com from third parties. For instance, when visiting a third party website, you may receive a "pop up" window advertising LowerMyBills.com. Please note that such advertisements are served by the third party website that you have visited and are not controlled by LowerMyBills.com. In addition, such advertisements may be placed by third party ad servers or ad networks. We maintain relationships with a number of the third party ad networks currently operating. You may find more information at the website of either the individual ad network or the <a href="http://www.networkadvertising.org/" target="_blank">Network Advertising Initiative</a>.
+
+</p><p><b>Anti-Spam Policy</b><br>
+You will not receive LowerMyBills.com email communications unless you submit your email address to us and register to receive them. Additionally, you may also receive emails that advertise LowerMyBills.com's services from third party publishers. We have established firm ground rules for dealing with any third party email services to ensure that advertisements for LowerMyBills.com are not sent out through a "Spam" mailing -- ensuring that our offers are sent only to those individuals who have given their permission to the third party email service to receive email communications. If any third party email publisher refuses to abide by LowerMyBills.com's anti-Spam policy, we will not use that publisher's services. If you want to stop receiving emails from a third party, you should follow the opt-out instructions included in the third party email so that you will not be included in any future mailings. An "unsubscribe" link should appear within or at the top or bottom of the email you received. However if for any reason it does not work, please bring that to our attention by emailing us at LowerMyBills.com <a href="mailto:customercare@lowermybills.com">Customer Care</a>.</p>
+
+<p><a name="#010"></a><b> Cookies and IP Addresses</b><br>
+To serve you faster and with better quality, we use "cookies" technology. Cookies are small bits of code, usually stored on a user's computer hard drive, which enable a Website to "personalize" itself for each user. We generally use cookies to reduce the time it takes for pages to load on your computer and to assist with customer tracking. Customer tracking (or "click-stream") data collected by us is used to optimize your experience by learning whether or not you successfully used LowerMyBills.com. Cookies are not tied to your personal information. Additionally, we may capture click-stream data on some of our partner's websites, limited to the activity involved with the completion of offers listed on our website. This information is used to monitor the performance of our partners. </p>
+<p> We also keep track of Internet Protocol (IP) addresses.  An IP Address is a number that is used by computers on the network to identify your computer every time you log on to the Internet.
 <br>
-<b><font color="000066">Email Communications and Removal from Mailing List</font></b>
+
+</p><p><b>Clear Gifs</b><br>
+We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs) that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movement of Web users. Clear gifs are not tied to users' personally identifiable information. We also use clear gifs in our HTML-based emails to let us know which emails the recipients have opened. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If users would like to opt-out of these emails, please see the
+
+ <a href="javascript:openUnsubscribeForm();">Opt-out </a>section within any email you receive from us or unsubscribe from our homepage by clicking <a href="javascript:openUnsubscribeForm();">here.</a></p>
+
+<p><b>Confidentiality and Security</b><br>
+The security of your personal information is very important at LowerMyBills.com and we take a number of steps to safeguard it.  For example:
+</p><ul>
+<li>We limit access to personal information to those employees or agents who assist us in providing requested products and services to you.  Employees are required to comply with our strict policies and procedures regarding the handling of your personal information.  Employees who violate these policies are subject to our normal disciplinary process.</li>
+<li>We maintain physical, electronic, and procedural safeguards that comply with federal standards to guard personal information about you.</li>
+<li>We use industry standard data encryption technologies when transferring and receiving consumer data on the LowerMyBills.com website. </li>
+<li>We have partnered with VeriSign to protect against the loss, misuse or alteration of information that we collect from you.</li>
+</ul>
+<p></p>
 <br>
-You may register to receive LowerMyBills.com's communications directly on our website or through a third party.   Upon registering, we will periodically send you newsletters and other e-mails featuring special and exclusive offers, promotions and other members-only benefits. If you no longer wish to receive these communications, please let us know by sending an email to <a href="mailto:customercare@lowermybills.com">CustomerCare@LowerMyBills.com</a>. (You may also opt-out by clicking on the unsubscribe link at the bottom of our emails).  Our email database is updated weekly.  Please note that LowerMyBills.com can only control its own mailing list and policies.  Third party advertisers that maintain their own mailing lists may send communications that advertise our services, and you may need to contact these parties directly in order to stop receiving such communications.
-Also, please note that if you enter into a transaction through our website, we may send you a thank you notice, ask for a satisfaction rating, request a testimonial and give you periodic product reminders as part of your service.<br>
+
+<p><b>Opting-Out</b><br>
+You may register to receive communications from us directly on our website or through a third party. Upon registering, we will periodically send you newsletters and other e-mails featuring special and exclusive offers, promotions and other members-only benefits. If you no longer wish to receive these communications, please let us know by sending an email to LowerMyBills.com <a href="mailto:customercare@lowermybills.com">Customer Care</a> (You may also opt-out by clicking on the unsubscribe link in our emails). Our email database is updated continually. However, you may continue to receive email communications from us up to ten business days from the time we receive your unsubscribe request. Please note that LowerMyBills.com can only control its own mailing list and policies. Third party advertisers that maintain their own mailing lists may send communications that advertise our services, and you may need to contact these parties directly in order to stop receiving their email communications. Also, please note that if you enter into a transaction through our website, we may send you a thank you notice, ask for a satisfaction rating, request a testimonial and give you periodic product reminders as part of your service.<br>
 <br>
-<b><font color="000066">Information Collected by Third Parties</font></b>
-<br>
-This Privacy Pledge applies to all information that you provide to LowerMyBills.com and all information that a third party provides to LowerMyBills.com in conjunction with any service offered on our site.  However, when you visit websites to which LowerMyBills.com provides a link, keep in mind you will be interacting with a third party that operates under its own privacy and security policies. If you choose to obtain certain services through a third party site, the data collected by the third party is governed by that third party's privacy policy. A third party site will also have its own policy regarding the use of cookies and clear gifs.<br>
+
+</p><p><b>Third Party Links</b><br>
+This Privacy Pledge applies to all information that you provide to LowerMyBills.com. However, when you visit websites to which LowerMyBills.com provides a link, keep in mind you will be interacting with a third party that operates under its own privacy and security policy. If you choose to obtain certain services through a third party site, the data collected by the third party is governed by that third party's privacy policy. A third party site will also have its own policy regarding the use of cookies and clear gifs. We encourage you to review the privacy policies of any other service provider from whom you request services.<br>
 <br>
 If LowerMyBills.com receives personal information from a third party that is not in conjunction with a service offered on our site, the use and disclosure of such information is governed by the agreement (if any) between LowerMyBills.com and such third party.
+</p><p><b>Framing </b><br>
+ In some cases, we may use third party vendors to operate portions of the LowerMyBills.com website. Although the particular section of the website may have a similar appearance as the LowerMyBills.com site, information submitted through these outside third parties are subject to this Privacy Pledge unless otherwise stated. For example, personal information submitted through our Affiliate Program is subject to the Commission Junction privacy policy.
+</p><p><b>A Special Note about Children's Privacy </b><br>
+You must be at least 18 years old to use this website. We do not knowingly collect, use or disclose personal information about visitors under 18 years of age. If you are under 18 years of age, you can use the services offered on our website only in conjunction with your parents or guardians
 
+  Please see our <a href="/misc/termsofuse/index.jsp" onclick="return link(this.href, '/misc/termsofuse/popup/index.jsp');">Terms of Use</a> for more information. </p>
 
-<br>
-<b><br>
-<font color="000066">Tell-a-Friend</font>
-</b><br>
-If a user elects to refer a friend to our website, we ask for the friend's name and email address. We will automatically send the friend a one-time email inviting them to visit the site. We do not store this information in our database.
+<b> Updating Your Information </b><br>
+If you want to access or update the personal information you submitted to LowerMyBills.com, please contact LowerMyBills.com <a href="mailto:customercare@lowermybills.com">Customer Care</a>.  In the alternative, you can write us at the address below and request that your personal information be updated. <p></p>
 
-
-<br>
-<b><br>
-<font color="000066">A Special Note about Children's Privacy</font>
-</b><br>
-You must be at least 18 years old to have our permission to use this website. We do not knowingly collect, use or disclose personal information about visitors less than 18 years of age. If you are a minor, you can use the services offered on our website only in conjunction with your parents or guardians.
-
-<br>
-<br>
-<font color="000066"><b>Changes to this Privacy Pledge</b></font>
-<br>
-LowerMyBills.com may update or modify this Privacy Pledge from time to time.  Any changes will be posted here and will become effective 30 days following its posting, unless otherwise stated.
-
-<br>
-<br>
-<font color="000066"><b>Questions and Suggestions</b></font>
-<br>
-If you have any questions, concerns or suggestions about our privacy pledge, or if you feel that we have failed to follow our stated Privacy Pledge in any manner, you may contact us:
-
-<br>
+<p><b>Questions and Suggestions</b><br>
+If you have any questions, concerns or suggestions about our Privacy Pledge, you may contact us: <br>
 <br>
 By sending an email to:<br>
 <a href="mailto:customercare@lowermybills.com">CustomerCare@LowerMyBills.com</a><br>
-<br>
-By sending a letter to:<br>
-LowerMyBills, Inc.
-<br>
-Attn: Customer Care
-<br>
-2401 Colorado Ave., Suite 200<br>
-Santa Monica, CA 90404
 </p>
-</td>
+<p>By sending a letter to:<br>
+LowerMyBills, Inc. <br>
+Attn: Customer Care <br>
+2401 Colorado Ave., Suite 200<br>
+Santa Monica, CA 90404 </p>
+
+<p><b> Changes to this Privacy Pledge</b><br>
+LowerMyBills.com may update or modify this Privacy Pledge from time to time. If there are material changes to this Privacy Pledge or in how LowerMyBills.com will use your personal information, we will post such changes here. You will be notified if any of the material changes that affect the use of your personal information and asked to opt-in to the new use of your personal information. If you do not agree with the changes to how your information will be used, please do not continue to use this website.</p>
+<p>
+By using this site, you signify your assent to the LowerMyBills.com Privacy Pledge. If you do not agree to this policy, please do not use any of the LowerMyBills.com site. W hen you request rate quotes or other information through LowerMyBills.com, you are authorizing us to share information with our business partners, who will contact you by phone, email, or mail. If you do not want further communication from them, please notify the partner directly. We reserve the right to make changes in this policy at any time. Please check the policy each time you use our website to ensure you are aware of any changes in our privacy practices. Our Privacy Pledge will indicate the date it was last updated. Your continued use of our site will signify your acceptance of the changes to our Privacy Pledge.
+
+
+	</p></div>
+	</td>
+	<td width="1" bgcolor="#999999"><img src="http://a261.g.akamai.net/7/261/3294/010321v0/images.lowermybills.com/images/spacer.gif" width="1"></td>
 </tr>
+<tr><td class="leftColumn" colspan="2"><img src="http://a261.g.akamai.net/7/261/3294/010321v0/images.lowermybills.com/images/about/bottom-left.gif"></td><td colspan="2"><img src="http://a261.g.akamai.net/7/261/3294/010321v0/images.lowermybills.com/images/about/bottom-right.gif" width="592" height="6"></td></tr>
 </tbody></table>
-<br>
+</center>
 
 
 
-</td>
-</tr>
-</tbody></table>
-</td>
-</tr>
-</tbody></table>
+    
+<!--WEBSIDESTORY CODE HBX1.0 (Universal)-->
+<!--COPYRIGHT 1997-2005 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
+<script language="javascript">
+var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
+var hbx=_hbEvent("pv");hbx.vpc="HBX0100u";hbx.gn="ehg-lowermybills.hitbox.com";
+hbx.hc2 = ""; // custom 2
+hbx.hc1 = ""; // custom 1
+hbx.gn = "ehg-lowermybills.hitbox.com"; // gateway & machine name
+hbx.fnl = ""; // funnels
+hbx.cmpn = ""; // campaign id in query
+hbx.dcmpe = "";
+hbx.pn = "About+Privacy+Policy";
+hbx.gpn = ""; // campaign goal in query
+hbx.fv = ""; // form validation function name
+hbx.hcv = ""; // conversion value
+hbx.cp = "null"; // campaign
+hbx.lt = "auto"; // link tracking
+hbx.ci = ""; // customer id
+hbx.hcn = ""; // conversion
+hbx.hlt = ""; // lead tracking
+hbx.seg = "";  // visitor segmentation
+hbx.acct = "DM531029FOEE58EN3;DM531116CFSS58EN3;DM540413OMBV58EN3"
+hbx.epg = "n"; // event page identifier
+hbx.hrf = ""; // custom referrer. use valid url or param name
+hbx.dcmp = ""; // dynamic campaign
+hbx.hla = ""; // lead attribute
+hbx.hqsr = ""; // response attribute in referrer query
+hbx.hra = ""; // response attribute
+hbx.hqsp = ""; // response attribute in query
+hbx.cmp = ""; // campaign id
+hbx.dft = "n"; // download file tracker variable, set to y to use the name reference
+hbx.cpd = ""; // campaign domain
+hbx.dcmpre = "";
+hbx.elf = "n"; // exit link filter
+hbx.pec = ""; // error codes
+hbx.pndef = "index.html"; // default page name
+hbx.ctdef = "full"; // default content category
+hbx.dcmpn = ""; // dynamic campaign in query
+hbx.mlc = "/Uncategorized"; // multi-level content category
+hbx.dlf = "n"; // download filter
+hbx.hc4 = ""; // custom 4
+hbx.gp = ""; // campaign goal
+hbx.hc3 = ""; // custom 3
+</script>
+<!-- END WEBSIDESTORY CODE  -->
+<script language="javascript1.1" defer="" src="http://a261.g.akamai.net/7/261/3294/010321v0/images.lowermybills.com/javascript/hbx.js"></script>
+<script language="javascript">
+if(navigator.appName!='Netscape'&&parseInt(navigator.appVersion)==4)document.write("<\!"+"--")
+</script>
+<noscript></noscript>
+<!--//-->
 
 
 
+<script type="text/javascript" src="/js/footer.js"></script>
+
+
+<link rel="stylesheet" href="http://a261.g.akamai.net/7/261/3294/010321v0/images.lowermybills.com/css/footer.css" type="text/css">
+
+<div align="center">
+<div id="footer">
+	<div id="links">
+<a href="http://www.lowermybills.com/misc/company/index.jsp" name="&amp;lid=Footer+-+About+Us">About Us</a> <small>•</small> <a href="http://www.lowermybills.com/misc/sitemap/index.jsp" name="&amp;lid=Footer+-+Site+Map">Site Map</a> <small>•</small> <a href="http://www.lowermybills.com/misc/customer/index.jsp" name="&amp;lid=Footer+-+Customer+Care">Customer Care</a> <small>•</small> <a href="http://www.lowermybills.com/misc/press/prs_general2_0.jsp?content=siteOverview_0" name="&amp;lid=Footer+-+Press+Room">Press Room</a> <small>•</small> <a href="http://www.lowermybills.com/misc/jobs/index.jsp" name="&amp;lid=Footer+-+Careers">Careers</a> <small>•</small> <a href="http://www.lowermybills.com/misc/termsofuse/index.jsp" name="&amp;lid=Footer+-+Terms+of+Use">Terms of Use</a> <small>•</small> <a href="http://www.lowermybills.com/misc/privacy/index.jsp" name="&amp;lid=Footer+-+Privacy">Privacy</a> <small>•</small> <a href="http://www.lowermybills.com/misc/legal/lgl_disclosures_license.jsp" name="&amp;lid=Footer+-+Licenses">Licenses</a> <small>•</small> <a href="javascript:openUnsubscribeForm();" name="&amp;lid=Footer+-+Unsubscribe">Unsubscribe</a> <small>•</small> <a href="http://www.lowermybills.com/" name="&amp;lid=Footer+-+Home">Home</a><div style="padding:1px;"></div><a href="http://www.lowermybills.com/misc/affiliates/index.jsp" name="&amp;lid=Footer+-+Affiliates">Affiliates</a> <small>•</small> <a href="http://www.lowermybills.com/misc/vendors/index.jsp" name="&amp;lid=Footer+-+Partners">Partners</a> <small>•</small> <a href="http://www.lowermybills.com/misc/vendors/ven_general_0.jsp?content=application_lenders" name="&amp;lid=Footer+-+For+Lenders">For Lenders</a> <small>•</small> <a href="http://www.freecreditreport.com" name="&amp;lid=Footer+-+Free+Credit+Report">Free Credit Report</a>
+	</div>
+	<div id="copyright">© 2000-2006 LowerMyBills, Inc. All Rights Reserved. 2401 Colorado Ave., Suite 200, Santa Monica, CA 90404</div>
+	<div id="logos">
+        <a id="footerHud" href="http://www.hud.gov/" target="_blank"><img src="http://a261.g.akamai.net/7/261/3294/010321v0/images.lowermybills.com/images/cobrands/hud_logo.gif" alt="U.S. Department of Housing and Urban Development" align="middle" border="0" height="56" width="64"></a>
+        <a id="footerLogoTruste" href="/misc/privacy/"><img src="http://a261.g.akamai.net/7/261/3294/010321v0/images.lowermybills.com/cobrands/branding/ext_truste_square.gif" alt="reviewed by Trust-E site privacy statement" align="middle" border="0" height="31" width="116"></a>
+		<a id="footerLogoVeriSign" href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;type=GOLD&amp;sealid=2&amp;dn=WWW.LOWERMYBILLS.COM&amp;lang=en" target="_blank"><img src="http://a261.g.akamai.net/7/261/3294/010321v0/images.lowermybills.com/images/misc/misc_verisign.gif" align="middle" border="0" hspace="10"></a>
+		<a id="footerLogoBBB" href="http://www.bbbonline.org/cks.asp?id=102042618283022676" target="_blank"><img src="http://a261.g.akamai.net/7/261/3294/010321v0/images.lowermybills.com/cobrands/branding/bbb_ReliabilitySeal4.gif" alt="Better Business Bureau OnLine Reliability Seal" align="middle" border="0" height="31" width="90"></a>
+		<a id="footerLogoTrueSecure" href="javascript:openTruSecure();"><img src="http://a261.g.akamai.net/7/261/3294/010321v0/images.lowermybills.com/cobrands/branding/logo_truesecure.gif" alt="TRUESECURE CERTIFIED" align="middle" border="0" height="63" width="64"></a>
+	</div>
+</div>
+</div>
+
+
+<script type="text/javascript" src="http://a261.g.akamai.net/7/261/3294/010321v0/images.lowermybills.com/js/hitBoxErrors.js"></script>
+
+
+<center>
+	<span class="servertag">
+		<span style="color:#cccccc">(WEB08) </span><br>
+		<img src="http://a261.g.akamai.net/7/261/3294/010321v0/images.lowermybills.com/images/template/tp_blank.gif" width="5" height="3" alt="">
+	</span>
+</center>
+
+
+<!-- GLOBAL TRACKING PIXELS [begin] -->
+
+<script language="JavaScript" src="https://server.iad.liveperson.net/hc/42435556/x.js?cmd=file&amp;file=chatScript3&amp;site=42435556&amp;&amp;category=en;woman;5" type="text/javascript"></script>
+
+<!-- GLOBAL TRACKING PIXELS [end] -->
 
 
 
-<link rel="stylesheet" href="http://a261.g.akamai.net/7/261/3294/010321v1/images.lowermybills.com/css/footer.css" type="text/css">
-<script language="JavaScript" src="http://a261.g.akamai.net/7/261/3294/010321v1/images.lowermybills.com/js/footer.js"></script>
-<script>
-
-var footer=new footer();
-
-
-
-
-// Footer version: UI Components
-footer.linkArray = [
-	[ "http://www.lowermybills.com/misc/company/index.jsp", "About Us", "aboutus" ],
-	[ "http://www.lowermybills.com/misc/sitemap/index.jsp", "Site Map", "sitemap" ],
-	[ "http://www.lowermybills.com/misc/customer/index.jsp", "Customer Care", "customercare" ],
-	[ "http://www.lowermybills.com/misc/press/index.jsp", "Newsroom", "newsroom" ],
-	[ "http://www.lowermybills.com/misc/jobs/index.jsp", "Careers", "careers" ],
-	[ "http://www.lowermybills.com/misc/vendors/index.jsp", "Partners", "partners" ],
-	[ "http://www.lowermybills.com/misc/vendors/ven_general_0.jsp?content=application_lenders", "For Lenders", "forlenders" ],
-	[ "http://www.lowermybills.com/misc/privacy/index.jsp", "Privacy", "privacy" ],
-	[ "http://www.lowermybills.com/unsubscribe/index.jsp", "Unsubscribe", "unsubscribe" ]
-
-		];
-
-
-
-footer.logoArray = [
-	["http://www.lowermybills.com/misc/privacy/", "http://a261.g.akamai.net/7/261/3294/010321v1/images.lowermybills.com/images/external/ext_truste_square.gif", ""],
-	["http://www.bbbonline.org/cks.asp?id=102042618283022676", "http://a261.g.akamai.net/7/261/3294/010321v1/images.lowermybills.com/images/misc/bbb_ReliabilitySeal4.gif", "_blank"]
-		];
-
-footer.resourcePath="http://a261.g.akamai.net/7/261/3294/010321v1/images.lowermybills.com";
-
-footer.addressLine="<sup>&copy;</sup>2000 - 2004 LowerMyBills, Inc. 2401 Colorado Ave., Suite 200, Santa Monica, CA 90404";
-
-footer.activeItem="";
-
-footer.draw();
-
+<script type="text/javascript">
+    /***********************
+    VAR FOR TOPNAV.  THIS MUST NOT BE REMOVED.
+    ***********************/
+    try {
+        isPageLoadComplete = true;
+    } catch (ex) {}
 </script>
 
 
-<center><span class="servertag"><font color="#cccccc">(81   -A) </font><br><img src="http://a261.g.akamai.net/7/261/3294/010321v1/images.lowermybills.com/images/template/tp_blank.gif" width="5" height="3" alt=""></span></center>
-
-
-
-
- 
- 
-<!-- BEGIN WEBSIDESTORY CODE v9.0.0 (11up): FOOTER CODE -->
-
-
-<!-- COPYRIGHT 1997-2003 WEBSIDESTORY, INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479 B1. Privacy notice at: http://websidestory.com/privacy -->
-<script language="javascript1.1" defer="" src="http://a261.g.akamai.net/7/261/3294/010321v1/images.lowermybills.com/javascript/hbe-11up.js">
-</script><script language="javascript">if(navigator.appName!='Netscape'&&parseInt(
-navigator.appVersion)==4)document.write("<\!"+"--")</script><noscript></noscript><!--//-->
-
-
-<!-- END WEBSIDESTORY CODE  -->
-
-
-
+<script type="text/javascript">
+    closeTrackerWin();
+</script>
 
 
 
