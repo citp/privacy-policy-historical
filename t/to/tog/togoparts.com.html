@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the togoparts.com privacy policy that was archived on 2005-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051230044108id_/http%3A//www.togoparts.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the togoparts.com privacy policy that was archived on 2006-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060605040111id_/http%3A//togoparts.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <title>togoparts.com</title>
@@ -10,10 +10,10 @@
 <table border="0" cellspacing="0" cellpadding="0" width="780" background="/images/logo2002_bg_blue.gif" height="70" bgcolor="#335465">
   <tbody><tr> 
     <td valign="middle" width="278" align="center">
-      <img src="/images/logo2002_blue_twinter.gif">
+      <img src="/images/logo2002_blue_t.gif">
     </td>
     <td width="502" align="right" valign="middle"> 
-    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,0,0" width="468" height="60"><param name="movie" value="http://www.togoparts.com/ads/togoparts_1.swf"><param name="quality" value="high"><embed src="http://www.togoparts.com/ads/togoparts_1.swf" quality="high" width="468" height="60" type="application/x-shockwave-flash" pluginspace="http://www.macromedia.com/go/getflashplayer"></object><div id="beacon_1" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.togoparts.com/advertising/adlog.php?bannerid=1&amp;clientid=2&amp;zoneid=1&amp;source=&amp;block=0&amp;capping=0&amp;cb=aa1d56e64b47d82ec70790ebecc6c056" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div>    </td>
+    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,0,0" width="468" height="60"><param name="movie" value="/ads/zerorh_2006-01.swf"><param name="quality" value="high"><param name="wmode" value="transparent"><embed src="/ads/zerorh_2006-01.swf" quality="high" wmode="transparent" width="468" height="60" type="application/x-shockwave-flash" pluginspace="http://www.macromedia.com/go/getflashplayer"></object><div id="beacon_51" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.togoparts.com/advertising/adlog.php?bannerid=51&amp;clientid=37&amp;zoneid=1&amp;source=&amp;block=0&amp;capping=0&amp;cb=451b23ac4a1f3ac3ceb8461629f81906" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div>    </td>
   </tr>
 </tbody></table>
 <style type="text/css">
@@ -78,6 +78,10 @@
         newWindow = window.open(addy,"ItemImage","width="+width+",height="+height+",toolbar=0,directories=0,menubar=0,status=0,location=0,scrollbars=0,copyhistory=0,resizable=0");
       }
 
+      function popUpWin_usersonline(addy) {
+        newWindow = window.open(addy,"usersonline","width=160,height=500,toolbar=0,directories=0,menubar=0,status=0,location=0,scrollbars=1,copyhistory=0,resizable=0");
+      }
+      
       NS4 = (document.layers) ;
       NS60 = (navigator.userAgent.indexOf("Netscape6/6.0")!=-1);
       Opera = (navigator.userAgent.indexOf('Opera')!=-1)||(navigator.appName.indexOf('Opera')!=-1)||(window.opera);
@@ -135,18 +139,23 @@
 
       
       reviewsmenu = new Array(
-//        "MTB Reviews","http://www.togoparts.com/reviews/list_categories.php3",0
-//        ,"RoadBike Reviews","http://www.togoparts.com/reviews/list_road_categories.php3",0
+//        "MTB Reviews","http://www.togoparts.com/items/list_categories.php",0
+//        ,"RoadBike Reviews","http://www.togoparts.com/items/list_road_categories.php",0
       )
 
       shopmenu = new Array(
         "Products in Stock","/shopping/fmalist.php",0
         ,"Market News","/shopping/fmnlist.php",0
+				,"Togoparts Store","/shopping/store.php",0
       )
 
       bikeshopsmenu = new Array(
         "Singapore Listing","/bikeshops/list_shops.php?country=SG",0
         ,"Malaysia Listing","/bikeshops/list_shops.php?country=MY",0
+      )
+      
+      membersmenu = new Array(
+        "Priv. Membership","/shopping/pmsignup.php",0
       )
 
       absPath="";
@@ -171,21 +180,26 @@
 
     	function hideDivs() {
     		var i;
-        for (i=1;i<5;i++) {
+        for (i = 1; i < 5; i++) {
     			if (document.getElementById) {
-    				var wm=document.getElementById('watermark'+i);
-    				if (wm&&wm.style.visibility)wm.style.visibility='visible';
+    				var wm = document.getElementById('watermark' + i);
+    				if (wm && wm.style.visibility) {
+              wm.style.visibility = 'visible';
+              wm.layer.x = 1;
+              wm.layer.top = true;
+              wm.layer.zIndex = 1;
+            }
     			}
     		}
     	}
     
     	if (!loadHandlers) {
-    		loadHandlers=new Array();
-    		loadHandlers[0]='hideDivs';
-    		lastLoadHandler=0;
+    		loadHandlers = new Array();
+    		loadHandlers[0] = 'hideDivs';
+    		lastLoadHandler = 0;
     	} else {
     		lastLoadHandler++;
-    		loadHandlers[lastLoadHandler]='hideDivs';
+    		loadHandlers[lastLoadHandler] = 'hideDivs';
     	}
       </script><script language="JavaScript" src="/common/javascript/mdom.js"></script><style type="text/css">
 .CL0 {text-decoration:none;color:#FFFFFF; }
@@ -261,9 +275,9 @@
             </b>
           </td>
           <!--members-->
-          <td class="verdana1" nowrap="">
+          <td class="verdana1" nowrap="" onmouseover="chgBg('membersid',3);expandMenu('membersmenu','membersid',event)" onmouseout="chgBg('membersid',0);collapseMenu('membersmenu')" id="membersid">
             <b>
-              <a href="/members/members_listing.php" style="color:white; text-decoration: none" onmouseover="if ( this.style ) { this.style.color='#F6A956'; this.style.fontWeight='bold'; } " onmouseout="if ( this.style ) { this.style.color='white';this.style.fontWeight='bold'; } ">
+              <a href="/members/members_listing.php" style="color:white; text-decoration:none" onmouseover="if ( this.style ) { this.style.color='#F6A956'; this.style.fontWeight='bold'; }  expandMenuNS('membersmenu',event);" onmouseout="if ( this.style ) { this.style.color='white';this.style.fontWeight='bold'; } collapseMenuNS('membersmenu');">
                 Members
               </a> 
             </b>
@@ -287,16 +301,16 @@
             <b>
               <font color="#f3f3f3">
                                 <a href="javascript:popUpWin_pm('/pm/pm_login.php');" style="color:white; text-decoration: none" title="Check Your PM">
-                      &nbsp;&nbsp;<img src="/pm/images/snewmail.gif" border="0" align="middle">
+                      &nbsp;&nbsp;<img src="/images/common/icons/email.gif" border="0" align="absmiddle">
                       Launch PM&nbsp;
                   </a>
                               |
                 Users Online:
-                <u><a onclick="popUpWin_usersonline('/members/users_online.php');">1275</a></u>
+                <u><a onclick="popUpWin_usersonline('/members/users_online.php');" style="cursor:pointer;">1204</a></u>
                 |
                 <!-- <i><u>Text Ad:</u></i> -->
                 &nbsp;
-                Get some <a href="/shopping/store.php">Togoparts Schwag</a> for your loved ones this festive season!<div id="beacon_12" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.togoparts.com/advertising/adlog.php?bannerid=12&amp;clientid=19&amp;zoneid=5&amp;source=&amp;block=0&amp;capping=0&amp;cb=d71c2254590cf7dcade7415b42471888" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div>              </font>
+                Want to win a Commencal META 4.0? <a href="/pages/tc2006details.php">Click here</a> to find out how!<div id="beacon_45" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.togoparts.com/advertising/adlog.php?bannerid=45&amp;clientid=19&amp;zoneid=5&amp;source=&amp;block=0&amp;capping=0&amp;cb=d086c5fb3393f5bea2041816772397c8" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div>              </font>
             </b>
           </td>
         </tr>
@@ -304,7 +318,8 @@
     </td>
   </tr>
 </tbody></table>
-   
+
+
 <table border="0" cellspacing="0" cellpadding="0" width="780">
   <tbody><tr>
     <td width="80%">
@@ -469,15 +484,49 @@
   </tr>
   <tr>
     <td width="64%">
-	<font color="#999999" class="arial1">
-	</font>
-	</td>
+      <font color="#999999" class="arial1">
+            </font>
+    </td>
     <td width="36%" align="right">
-      <font color="#999999" class="arial1">Copyright© 2000-2005 Togoparts.com All Rights Reserved.</font>
+      <font color="#999999" class="arial1">Copyright© 2000-2006 Togoparts.com All Rights Reserved.</font>
     </td>
   </tr>
 </tbody></table>
 <script>linkedImageMaxSize();</script>
+<!-- START Nielsen//NetRatings SiteCensus V5.1 -->
+<!-- COPYRIGHT 2005 Nielsen//NetRatings -->
+<script language="JavaScript" type="text/javascript">
+<!--
+	var _rsCI="togoparts";
+	var _rsCG="0";
+	var _rsDT=0; // to turn on whether to get the document title, 1=on
+	var _rsDU=0; // to turn on or off the applet, 1=on
+	var _rsDO=0; // to turn on debug output to the console, 1=on, only works if _rsDU=1
+	var _rsX6=0; // to force use of applet with XP and IE6, 1=on, only works if _rsDU=1
+	var _rsSI=escape(window.location);
+	var _rsLP=location.protocol.indexOf('https')>-1?'https:':'http:';
+	var _rsRP=escape(document.referrer);
+	var _rsND=_rsLP+'//secure-sg.imrworldwide.com/';
+
+	if (parseInt(navigator.appVersion)>=4)
+	{
+		var _rsRD=(new Date()).getTime();
+		var _rsSE=1;  // to turn on surveys, 1=on
+		var _rsSV=""; // survey name, leave empty
+		var _rsSM=0.5;  // maximum survey rate, 1.0=100%
+		_rsCL='<scr'+'ipt language="JavaScript" type="text/javascript" src="'+_rsND+'v51.js"><\/scr'+'ipt>';
+	}
+	else
+	{
+		_rsCL='<img src="'+_rsND+'cgi-bin/m?ci='+_rsCI+'&cg='+_rsCG+'&si='+_rsSI+'&rp='+_rsRP+'">';
+	}
+	document.write(_rsCL);
+//-->
+</script><script language="JavaScript" type="text/javascript" src="https://secure-sg.imrworldwide.com/v51.js"></script>
+<noscript>
+	<img src="//secure-sg.imrworldwide.com/cgi-bin/m?ci=togoparts&amp;cg=0" alt="">
+</noscript>
+<!-- END Nielsen//NetRatings SiteCensus V5.1 -->
 
 
 </body></html>
