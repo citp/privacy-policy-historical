@@ -1,85 +1,46 @@
-> *The following text is extracted and transformed from the wearesc.com privacy policy that was archived on 2000-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000608225253id_/http%3A//usc.rivals.com/default.asp%3Fsid%3D23%26p%3D51%26blip%3DPRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wearesc.com privacy policy that was archived on 2006-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060605083419id_/https%3A//secure.scout.com/a.z%3Fs%3D143%26p%3D5%26c%3D10) for the most accurate reproduction.*
 
-# WeAreSC.com
+# Scout.com: Membership
 
-  |  |   
+**Scout.com Privacy Policy**
 
+Thank you for visiting our site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this site. It describes the privacy practices for Scout.com and affiliated Web sites (such as dawgman.com or packerreport.com). [Click here](http://scout.com/) for a list of Affiliates.
 
-## Privacy Statement for Rivals.com
+This policy makes clear that Scout.com or its subsidiaries could merge with or be acquired by another business entity. Should such a combination occur, you should expect that Scout.com would share some or all of your information in order to continue to provide the service.
 
-Rivals.com, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for all Rivals.com-affiliated Web sites. 
+ **Information We Collect**  
+Scout.com collects information about users in a number of ways. The types of personally identifiable information that may be collected include: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services. When you register as a Scout.com user, you are asked to enter your name and email address plus additional information.
 
-We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is used to help identify you and your shopping cart and to gather broad demographic information. We will not provide or sell user-specific demographic information to any other person or business. We will only share this information on an aggregate basis. 
+We may also ask you for personal information when you [1] enter a sweepstakes, contest, or promotion, whether sponsored by us or one of our partners; [2] when you take one of our polls or fill out a marketing survey; [3] when you make a purchase of merchandise or premium content [4] when you ask to receive any of our newsletters [5] and when you sign up for services provided by our partners, including fantasy sports games, message boards and other services offered.
 
-Our site uses cookies (user data collectors) to keep track of your shopping cart. We use cookies to deliver content specific to your interests, to save your password so you don't have to re-enter it each time you visit our site, and for other purposes.
+While you are using the Scout.com site, we may collect certain non-personally-identifiable information about you, such as the URL you just came from, the next URL you go to, what browser you are using (e.g. Netscape, Internet Explorer), the domain name of your Internet Service Provider (e.g. AOL, Earthlink), and your IP address. We also use cookiespieces of information that Web sites transfer to your computers hard drive for record-keeping purposeson some Scout.com pages to keep track of your most recent visit to our site, identify the URL youre coming from when you buy a product on our site, provide you with an online shopping cart, and to track and customize advertising served to you.
 
-**_Advertising_**
+ **How We Use Your Information and What You Can Do About It**  
+We may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, and to offer you other products, programs or services that we believe may be of interest to you.
 
-Rivals.com works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.flycast.com/about_us/about-privacy.html>. 
+We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests, that we are making changes to our subscriber agreements or billing policies, to fulfill a request by you for information, to contact you about the status of your account with us (including special promotions or discounts available to account holders), or to provide you with content alerts relating to your selected team. We may use your e-mail address if you tell us that you want to receive promotional information from Scout.com or its advertisers.
 
-**_Registration Form_**
+Scout.com uses the information collected from you to better understand the demographics, interests and behavior of our collective audience or to deliver advertisements and promotions that are targeted to your interests. We do not share individual information about you with advertisers in the process.
 
-Our site's registration form requires users to give us contact information (like their name and email address) and demographic information (like their zip code, age, gender or income level). We use customer contact information from the registration form to send the selected user information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data for other purposes, such as tailoring the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers, but ONLY on an aggregate basis. We will NEVER share your address and personal data with any advertiser unless you specifically opt-in to one of our/their programs (a sweepstakes, for example). The choice to specifically identify yourself to an advertiser will always be yours. We will occasionally email you items of interest from some of our advertisers. You will have the opportunity to opt-out of such programs, and once again, your email name and personal information are never shared with those advertisers unless you choose to identify yourself to them by participating in offers that interest you. 
+ **Who Else Sees Your Information and What You Can Do About It**  
+When you visit an Affiliate site (such as washington.scout.com), we share information we have collected about you with that Affiliate. We may share your e-mail address and other information with our Affiliates, partners or advertisers sponsoring a promotion or event.
 
-This site contains links to other sites. **Rivals.com** is not responsible for the privacy practices or the content of such Web sites. 
+When you sign up with our partners for services such as fantasy games, free e-mail and other services, you are providing information to the partner offering the service as well as to Scout.com. You must carefully read the privacy policy of our affiliates and the partner providing the service before deciding to take advantage of the service.
 
-**_Order Form_**
+Some of our sites contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties.
 
-Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address), financial information (like their account or credit card numbers), and demographic information (like their zip code, age, gender or income level). Contact information from the order form is used to send orders, information about our company, and promotional material from some of our partners to our customers. The customer's contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared by Rivals.com with advertisers only on an aggregate basis. 
+We also share information about our users in the aggregate to profile our collective audience to advertisers and partners. Our partners may also share the aggregate information we provide with third parties. The information data may also be shared under confidentiality agreements with independent market research companies. We may also match your information with information provided to us by third parties under confidentiality agreements.
 
-**_Contests_**
+We may have to disclose information about you to law enforcement, other government officials or third parties in order to comply with applicable law or legal process (e.g. a court order or subpoena) or to protect the personal safety of our users or the public.
 
-We run contests on our site in which we ask visitors for contact information (like their email address), financial information (like their account or credit card numbers), and demographic information (like their zip code, age, gender or income level). We use contact data from our contests to send users information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected from our users is used to bill the user for products and services. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared by Rivals.com with advertisers on an aggregate basis. Unless the user opts-out in the contest registration process, he has identified himself to advertisers and marketing partners and this information is not necessarily used in aggregate. 
+ **How You Can Update, Correct or Delete Your Information**  
+You may go to [your membership information](https://secure.scout.com/a.z?s=143&p=5&c=7) at any time to update, correct or delete personal information or to stop receiving promotional e-mail or update your e-mail address on our promotions mailing list.
 
-We use an outside advertising company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
+ **How Your Information Is Protected**  
+Scout.com takes reasonable precautions to protect your information from loss, misuse or alteration. We use Secure Socket Layer (SSL) technology to protect sensitive information such as your credit card number and a series of firewalls to protect our internal systems. You should recognize that, while it is reported to be more secure to process credit card purchases through such systems than many other traditional means, there is no such thing as perfect security on the Internet.
 
-### Public Forums
+ **Children Under 13  
+** Our site and Affiliate sites are not designed to be used by children under 13, and we ask that children under 13 do not submit personal information to Scout.com, our Affiliates or partners.
 
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose any personal information. 
-
-### Security
-
-This site has security measures in place to protect against the loss, misuse and alteration of the information under our control. 
-
-### Children's Guidelines
-
-This site collects personally identifiable, online and offline contact information from all users interested in participating in contests, product offerings and other specific activities on this Web site. In some cases this information is more than is necessary to participate in the given activity. This site also gives all of its users the ability to read and to post in public forums. The site does not have a filter in place to exclude children from these activities without prior parental consent. Rivals.com uses its best efforts to make the content of its Web site acceptable for children's viewing.
-
- ** _Policies for Children Under 13_**
-
-Safeguarding the personal information of children is extremely important to us.  We encourage parents and guardians to spend time online with their children and to participate in the interactive activities offered on the site.  No information should be submitted to or posted at Rivals.com's Web sites by children under 13 years of age without the consent of their parent or guardian.  Unless otherwise disclosed during collection, Rivals.com does not collect or provide any personally identifying information of children under 13 years of age, regardless of its source, for any purpose whatsoever.  Rivals.com may, however, collect certain personally identifying information to protect the integrity of the web site and the safety of children under 13 using the site.  In the event Rivals.com collects such information, the information will be deleted from the Rivals.com systems each evening.  No information collected from users under 13 years of age is used for any marketing or promotional purpose whatsoever, either inside or outside the Rivals.com Network.  We do not allow children under 13 years of age to be listed in any member directories or to receive direct marketing communications from the Rivals.com Network or other third parties.
-
-All users who register on the site receive e-mail confirming their registration.  Users under 13 years old are notified that Rivals.com does not collect or store membership information without parental consent.  Users under 13 years old have access to all of the content at Rivals.com, however without  parental consent, they are not able to post on Message Boards that require a membership, nor are they able to receive any communications from Rivals.com.
-
-There are a number of emerging standards in the area of children's privacy that will affect how we process a child's personal information in the future.  We are monitoring these changes and will redesign our systems in order to comply with these new requirements.
-
-### Choice/Opt-Out
-
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. 
-
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
-
-  1. You can, where applicable, make your preference known on the order form or registration form that applies to the activity 
-  2. You can send email to [privacy@rivals.com](mailto:privacy@rivals.com)
-
-
-
-### Correct/Update
-
-This site gives users the following options for changing and modifying information previously provided. 
-
-  1. email [privacy@rivals.com](mailto:privacy@rivals.com)
-
-
-
-### Contacting the Web Site
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
-
-_71 Columbia Street Suite 550  
-Seattle, WA 98104   
-[info@rivals.com](mailto:info@rivals.com)_
-
-Site-specific editorial/photos © 2000 WeAreSC.com All other © 2000 Rivals.com Inc. All Rights Reserved. This is not an official site for any team or conference. 
-
-| | | | | 
+ **General**  
+This Privacy Policy is incorporated into and subject to the terms of the Scout.com.com User Agreement. Should this policy be amended in any way, changes will be posted to this page.
