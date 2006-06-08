@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resalerightssolution.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208233226id_/http%3A//www.resale-rights-solution.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resalerightssolution.com privacy policy that was archived on 2006-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060608193459id_/http%3A//resale-rights-solution.com/policy.html) for the most accurate reproduction.*
 
 # 
 
