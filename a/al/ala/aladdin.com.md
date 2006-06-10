@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aladdin.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219092602id_/http%3A//www.aladdin.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aladdin.com privacy policy that was archived on 2006-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060610072106id_/http%3A//aladdin.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Aladdin Security Portal: Aladdin Privacy Statement
 
@@ -6,7 +6,21 @@
 
 ## Privacy Policy
 
-At Aladdin Knowledge Systems, and our affiliates (collectively, "Aladdin"), the privacy of our customers is important to us. We are committed to protecting the information we gather from you on any of the Aladdin sites (the "Site" or the "Sites"). For specific details about the type of information we collect and how we use that information, and for other important facts, please click on any of the links below: 
+For specific details about the type of information we collect and how we use that information, and for other important facts, please click on any of the links below: 
+
+  * _What information is collected from you and how it's used_   
+
+  * _With whom we share your information_   
+
+  * _What cookies are and how we may use them on our Sites_   
+
+  * _How you can access, update or delete your information_   
+
+  * _Security precautions we take to safeguard information you provide to us_   
+
+  * _How to contact us_
+
+
 
 **What Information is Collected from You and How It's Used**
 
@@ -30,7 +44,7 @@ We use cookies to aid the users in the usage of Aladdin products, and the user w
 
 **How You Can Access, Update or Delete Your Information**
 
-When you enter the eAladdin.com website, you can subscribe or unsubscribe to any of our mailing lists by clicking on "eNewsletter Sign Up" on the left homepage menu, entering your email address into the form which opens up, and checking/unchecking any mailing list to which you want to be added or deleted. To update your personal contact information, please write to the [webmaster](mailto:webmaster@eAladdin.com). 
+When you enter the Aladdin.com website, you can subscribe or unsubscribe to any of our mailing lists by clicking on "eNewsletter Sign Up" on the left homepage menu, entering your email address into the form which opens up, and checking/unchecking any mailing list to which you want to be added or deleted. To update your personal contact information, please write to the [webmaster](mailto:webmaster@aladdin.com). 
 
 **Security Precautions We Take to Safeguard Information You Provide to Us**
 
@@ -38,7 +52,7 @@ Our Sites have security measures in place to protect the loss, misuse and altera
 
 While we strive to protect your personally identifying information, the Internet is not fully secure. Consequently, Aladdin cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. 
 
-If you have further questions about this Privacy Policy, please contact us directly at [webmaster@eAladdin.com](mailto:webmaster@eAladdin.com). 
+If you have further questions about this Privacy Policy, please contact us directly at [webmaster@aladdin.com](mailto:webmaster@aladdin.com). 
 
   
   
