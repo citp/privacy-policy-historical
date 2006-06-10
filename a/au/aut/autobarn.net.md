@@ -1,9 +1,15 @@
-> *The following text is extracted and transformed from the autobarn.net privacy policy that was archived on 2005-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051203101054id_/http%3A//www.autobarn.net/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autobarn.net privacy policy that was archived on 2006-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060610044237id_/http%3A//www.autobarn.net/privacypolicy.html) for the most accurate reproduction.*
 
-# AutoBarn.com Privacy Policy
+# AutoBarn.com Info
 
-**We are committed to maintaining your privacy.**  
+|  [ ](http://www.autobarn.net/index.html)  
+---  
+ Free Shipping: **$150+**    
+| | [](https://web.archive.org/web/20060610044237id_/http%3A//www.autobarn.net/index.html)
+
+**AutoBarn.com Privacy Policy** | **We are committed to maintaining your privacy.**  
 To demonstrate our commitment to your privacy, AutoBarn.com has developed a Privacy Policy to engender trust and confidence in our site and the Internet by encouraging full disclosure and informed consent. This statement discloses the privacy practices for the AutoBarn.com web site. Questions regarding this statement should be directed to AutoBarn.com [Customer Service](mailto:customerservice@autobarn.com).  
+---  
   
   
 **Information We Use& How It is Collected**  
@@ -60,4 +66,8 @@ We're interested in your comments about our privacy policy. You can send general
 **U.S. Mail:** | AutoBarn.com  
 PO Box 100  
 Roslyn, NY 11576  
-Attention: Customer Service
+Attention: Customer Service  
+  
+_This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._  
+  
+|  
