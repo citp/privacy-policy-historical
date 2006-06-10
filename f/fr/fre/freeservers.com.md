@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freeservers.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212142250id_/http%3A//www.freeservers.com/privacy-statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeservers.com privacy policy that was archived on 2006-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060610053649id_/http%3A//www.freeservers.com/privacy-statement.htm) for the most accurate reproduction.*
 
-# Free Web Space and Site Hosting - Freeservers.com
+# Privacy Policy -- Freeservers.com
 
 United Online Web Services, Inc. (“United Online Web Services”), a United Online Company, provides various consumer Internet subscription services including Internet web sites, web hosting services, domain registration, e-mail services and other services (collectively, the “Services”) under multiple brands including , without limitation, emailMyName, mySite, FreeServers, 50megs, Community Architect, and BizHosting. United Online Web Services is committed to safeguarding your privacy online and created this Privacy Statement in order to demonstrate our firm commitment to protecting the online privacy of users of our services 
 
