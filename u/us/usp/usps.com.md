@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usps.com privacy policy that was archived on 2005-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051029072938id_/http%3A//www.usps.com/homearea/docs/privpol.htm%3Ffrom%3Dhome%26page%3D0080privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usps.com privacy policy that was archived on 2006-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060610064838id_/http%3A//www.usps.com/homearea/docs/privpol.htm%3Ffrom%3Dhome%26page%3D0080privacy) for the most accurate reproduction.*
 
 # USPS - Privacy Notice Highlights
 
