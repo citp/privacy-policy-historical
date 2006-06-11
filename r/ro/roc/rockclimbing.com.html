@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rockclimbing.com privacy policy that was archived on 2005-09-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050924234114id_/http%3A//rockclimbing.com/site/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rockclimbing.com privacy policy that was archived on 2006-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060611133312id_/http%3A//www.rockclimbing.com/site/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 
@@ -65,21 +65,38 @@
 
 //-->
 </script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-177043-1";
+urchinTracker();
+</script>
 </head>
 
 <!-- the following should probably be superseded by CSS -->
 <body link="#1155CC" alink="#669966" vlink="#1155CC">
 
 
+<script language="JavaScript" type="text/javascript" src="/js/menu_load_and_show.js"></script>
 <script language="JavaScript" type="text/javascript">
 <!--
-function menu_show(id, parentid, alignid) {
+function menu_show(id) {
   document.getElementById(id).style.visibility = 'visible';
   var el = document.getElementById('top_banner_ad');
   if (el!=null) {
     el.style.width = 0;
     el.style.height = 0;
   }
+}
+function menu_load_and_show(id) {
+  document.getElementById(id).style.visibility = 'visible';
+  var el = document.getElementById('top_banner_ad');
+  if (el!=null) {
+    el.style.width = 0;
+    el.style.height = 0;
+  }
+  if (document.getElementById(id).innerHTML == "Loading...")
+    x_menu_load_and_show(id, receive_menu);
 }
 function menu_hide(id) {
   document.getElementById(id).style.visibility = 'hidden';
@@ -101,9 +118,9 @@ function menu_hide(id) {
   <tbody><tr align="left">
 
 
-    <td valign="middle" onmouseover="menu_show('GearMD','none','GearTA')" onmouseout="menu_hide('GearMD')" id="GearTA">
+    <td valign="middle" onmouseover="menu_show('GearMD')" onmouseout="menu_hide('GearMD')" id="GearTA">
       <a href="/gear/">Gear</a><br>
-<div onmouseover="menu_show('GearMD','none','GearTA')" onmouseout="menu_hide('GearMD')" id="GearMD" class="top_links_hidden">
+<div onmouseover="menu_show('GearMD')" onmouseout="menu_hide('GearMD')" id="GearMD" class="top_links_hidden">
   <table cellpadding="0" cellspacing="0" border="0" summary="layout">
   <tbody><tr><td><a href="/gear/index.php?c=2">Accessories</a></td></tr>
 
@@ -169,12 +186,12 @@ function menu_hide(id) {
   </tr>
 
 
-  <tr onmouseover="menu_show('ProtectionMD','GearMD','ProtectionAnchor')" onmouseout="menu_hide('ProtectionMD')">
+  <tr onmouseover="menu_show('ProtectionMD')" onmouseout="menu_hide('ProtectionMD')">
   <td>
      <a href="/gear/index.php?c=46" id="ProtectionAnchor">Protection</a>
 </td>
 	 <td>
-<div onmouseover="menu_show('ProtectionMD','GearMD','ProtectionAnchor')" onmouseout="menu_hide('ProtectionMD')" id="ProtectionMD" class="top_links_hidden">
+<div onmouseover="menu_show('ProtectionMD')" onmouseout="menu_hide('ProtectionMD')" id="ProtectionMD" class="top_links_hidden">
   <table cellpadding="0" cellspacing="0" border="0" summary="layout" width="50">
   <tbody><tr><td><a href="/gear/index.php?c=13">Active</a></td></tr>
   <tr><td><a href="/gear/index.php?c=44">Passive</a></td></tr>
@@ -214,9 +231,9 @@ function menu_hide(id) {
 
 
     <td valign="middle">&nbsp;|&nbsp;</td>
-    <td valign="middle" onmouseover="menu_show('ForumsMD','none','ForumsTA')" onmouseout="menu_hide('ForumsMD')" id="ForumsTA">
+    <td valign="middle" onmouseover="menu_show('ForumsMD')" onmouseout="menu_hide('ForumsMD')" id="ForumsTA">
       <a href="/forums/">Forums</a><br>
-<div onmouseover="menu_show('ForumsMD','none','ForumsTA')" onmouseout="menu_hide('ForumsMD')" id="ForumsMD" class="top_links_hidden">
+<div onmouseover="menu_show('ForumsMD')" onmouseout="menu_hide('ForumsMD')" id="ForumsMD" class="top_links_hidden">
   <table cellpadding="0" cellspacing="0" border="0" summary="layout">
 	<tbody><tr><td><a href="/forums/newsearch.php">Forum Search</a></td></tr>
 	<tr style="border-bottom: 1px #111 solid">
@@ -226,12 +243,12 @@ function menu_hide(id) {
 	</tr>
 
 
-  <tr onmouseover="menu_show('ClimbingInformationMD','ForumsMD','ClimbingInformationAnchor')" onmouseout="menu_hide('ClimbingInformationMD')">
+  <tr onmouseover="menu_show('ClimbingInformationMD')" onmouseout="menu_hide('ClimbingInformationMD')">
   <td>
      <a href="/forums/index.php?c=2" id="ClimbingInformationAnchor">Climbing Information</a>
 </td>
 	 <td>
-<div onmouseover="menu_show('ClimbingInformationMD','ForumsMD','ClimbingInformationAnchor')" onmouseout="menu_hide('ClimbingInformationMD')" id="ClimbingInformationMD" class="top_links_hidden">
+<div onmouseover="menu_show('ClimbingInformationMD')" onmouseout="menu_hide('ClimbingInformationMD')" id="ClimbingInformationMD" class="top_links_hidden">
   <table cellpadding="0" cellspacing="0" border="0" summary="layout" width="50">
   <tbody><tr><td><a href="/forum/beginners">Beginners</a></td></tr>
   <tr><td><a href="/forum/general">General</a></td></tr>
@@ -247,12 +264,12 @@ function menu_hide(id) {
   </tr>
 
 
-  <tr onmouseover="menu_show('ClimbingSpecialtyMD','ForumsMD','ClimbingSpecialtyAnchor')" onmouseout="menu_hide('ClimbingSpecialtyMD')">
+  <tr onmouseover="menu_show('ClimbingSpecialtyMD')" onmouseout="menu_hide('ClimbingSpecialtyMD')">
   <td>
      <a href="/forums/index.php?c=6" id="ClimbingSpecialtyAnchor">Climbing Specialty</a>
 </td>
 	 <td>
-<div onmouseover="menu_show('ClimbingSpecialtyMD','ForumsMD','ClimbingSpecialtyAnchor')" onmouseout="menu_hide('ClimbingSpecialtyMD')" id="ClimbingSpecialtyMD" class="top_links_hidden">
+<div onmouseover="menu_show('ClimbingSpecialtyMD')" onmouseout="menu_hide('ClimbingSpecialtyMD')" id="ClimbingSpecialtyMD" class="top_links_hidden">
   <table cellpadding="0" cellspacing="0" border="0" summary="layout" width="50">
   <tbody><tr><td><a href="/forum/gear_heads">Gear Heads</a></td></tr>
   <tr><td><a href="/forum/bouldering">Bouldering</a></td></tr>
@@ -273,12 +290,12 @@ function menu_hide(id) {
   </tr>
 
 
-  <tr onmouseover="menu_show('PartnersMD','ForumsMD','PartnersAnchor')" onmouseout="menu_hide('PartnersMD')">
+  <tr onmouseover="menu_show('PartnersMD')" onmouseout="menu_hide('PartnersMD')">
   <td>
      <a href="/forums/index.php?c=3" id="PartnersAnchor">Partners</a>
 </td>
 	 <td>
-<div onmouseover="menu_show('PartnersMD','ForumsMD','PartnersAnchor')" onmouseout="menu_hide('PartnersMD')" id="PartnersMD" class="top_links_hidden">
+<div onmouseover="menu_show('PartnersMD')" onmouseout="menu_hide('PartnersMD')" id="PartnersMD" class="top_links_hidden">
   <table cellpadding="0" cellspacing="0" border="0" summary="layout" width="50">
   <tbody><tr><td><a href="/forum/us_east_coast">US - East Coast</a></td></tr>
   <tr><td><a href="/forum/us_mountain_states">US - Mountain States</a></td></tr>
@@ -293,12 +310,12 @@ function menu_hide(id) {
   </tr>
 
 
-  <tr onmouseover="menu_show('ClassifiedAdsMD','ForumsMD','ClassifiedAdsAnchor')" onmouseout="menu_hide('ClassifiedAdsMD')">
+  <tr onmouseover="menu_show('ClassifiedAdsMD')" onmouseout="menu_hide('ClassifiedAdsMD')">
   <td>
      <a href="/forums/index.php?c=7" id="ClassifiedAdsAnchor">Classified Ads</a>
 </td>
 	 <td>
-<div onmouseover="menu_show('ClassifiedAdsMD','ForumsMD','ClassifiedAdsAnchor')" onmouseout="menu_hide('ClassifiedAdsMD')" id="ClassifiedAdsMD" class="top_links_hidden">
+<div onmouseover="menu_show('ClassifiedAdsMD')" onmouseout="menu_hide('ClassifiedAdsMD')" id="ClassifiedAdsMD" class="top_links_hidden">
   <table cellpadding="0" cellspacing="0" border="0" summary="layout" width="50">
   <tbody><tr><td><a href="/forum/used_gear_and_great_deals">Used Gear / Great Deals</a></td></tr>
   <tr><td><a href="/forum/view_this_website">View this Website</a></td></tr>
@@ -308,12 +325,12 @@ function menu_hide(id) {
   </tr>
 
 
-  <tr onmouseover="menu_show('WebsiteMD','ForumsMD','WebsiteAnchor')" onmouseout="menu_hide('WebsiteMD')">
+  <tr onmouseover="menu_show('WebsiteMD')" onmouseout="menu_hide('WebsiteMD')">
   <td>
      <a href="/forums/index.php?c=1" id="WebsiteAnchor">Website</a>
 </td>
 	 <td>
-<div onmouseover="menu_show('WebsiteMD','ForumsMD','WebsiteAnchor')" onmouseout="menu_hide('WebsiteMD')" id="WebsiteMD" class="top_links_hidden">
+<div onmouseover="menu_show('WebsiteMD')" onmouseout="menu_hide('WebsiteMD')" id="WebsiteMD" class="top_links_hidden">
   <table cellpadding="0" cellspacing="0" border="0" summary="layout" width="50">
   <tbody><tr><td><a href="/forum/whats_new">What's New</a></td></tr>
   <tr><td><a href="/forum/suggestions,_questions_and_feedback_dot_">Suggestions, Questions &amp; Feedback</a></td></tr>
@@ -328,12 +345,12 @@ function menu_hide(id) {
   <tr><td><a href="/forum/community">Community</a></td></tr>
 
 
-  <tr onmouseover="menu_show('ClubsMD','ForumsMD','ClubsAnchor')" onmouseout="menu_hide('ClubsMD')">
+  <tr onmouseover="menu_show('ClubsMD')" onmouseout="menu_hide('ClubsMD')">
   <td>
      <a href="/forums/index.php?c=11" id="ClubsAnchor">RC.com Clubs</a>
 </td>
 	 <td>
-<div onmouseover="menu_show('ClubsMD','ForumsMD','ClubsAnchor')" onmouseout="menu_hide('ClubsMD')" id="ClubsMD" class="top_links_hidden">
+<div onmouseover="menu_show('ClubsMD')" onmouseout="menu_hide('ClubsMD')" id="ClubsMD" class="top_links_hidden">
   <table cellpadding="0" cellspacing="0" border="0" summary="layout" width="50">
   <tbody><tr><td><a href="/forum/photographers_critique_forum">Photographers' Critique Forum</a></td></tr>
   <tr><td><a href="/forum/mental_training:_the_rock_warriors_way">Mental Training: The Rock Warrior's Way</a></td></tr>
@@ -349,9 +366,9 @@ function menu_hide(id) {
 
 
 <td valign="middle">&nbsp;|&nbsp;</td>
-<td valign="middle" onmouseover="menu_show('PhotosMD','none','PhotosTA')" onmouseout="menu_hide('PhotosMD')" id="PhotosTA">
+<td valign="middle" onmouseover="menu_show('PhotosMD')" onmouseout="menu_hide('PhotosMD')" id="PhotosTA">
   <a href="/photo/photo_list.php">Photos</a><br>
-<div onmouseover="menu_show('PhotosMD','none','PhotosTA')" onmouseout="menu_hide('PhotosMD')" id="PhotosMD" class="top_links_hidden">
+<div onmouseover="menu_show('PhotosMD')" onmouseout="menu_hide('PhotosMD')" id="PhotosMD" class="top_links_hidden">
   <table cellpadding="0" cellspacing="0" border="0" summary="layout">
   <tbody><tr><td><a href="/photo/photo_list.php">Top Photos</a></td></tr>
   <tr><td><a href="/photo/photo_list.php?action=list&amp;period=Month&amp;sort=newest_p_first">New Photos</a></td></tr>
@@ -362,43 +379,74 @@ function menu_hide(id) {
 </td>
 
 
-    <td valign="middle">&nbsp;|&nbsp;</td>
-    <td valign="middle" onmouseover="menu_show('RoutesMD','none','RoutesTA')" onmouseout="menu_hide('RoutesMD')" id="RoutesTA">
-      <a href="/routes/">Routes</a><br>
-<div onmouseover="menu_show('RoutesMD','none','RoutesTA')" onmouseout="menu_hide('RoutesMD')" id="RoutesMD" class="top_links_hidden">
+<td valign="middle">&nbsp;|&nbsp;</td>
+<td valign="middle" onmouseover="menu_show('RoutesMD')" onmouseout="menu_hide('RoutesMD')" id="RoutesTA">
+  <a href="/routes/">Routes</a><br>
+<div onmouseover="menu_show('RoutesMD')" onmouseout="menu_hide('RoutesMD')" id="RoutesMD" class="top_links_hidden">
   <table cellpadding="0" cellspacing="0" border="0" summary="layout">
 
-
-  <tbody><tr onmouseover="menu_show('NorthAmericaMD','RoutesMD','NorthAmericaAnchor')" onmouseout="menu_hide('NorthAmericaMD')">
+  <tbody><tr onmouseover="menu_load_and_show('Continent_1_MD')" onmouseout="menu_hide('Continent_1_MD')">
   <td>
-     <a href="/routes/listContinent.php?ContinentID=1" id="NorthAmericaAnchor">North America</a>
+  <a href="/routes/listContinent.php?ContinentID=1">North America</a>
   </td>
 	<td>
-<div onmouseover="menu_show('NorthAmericaMD','RoutesMD','NorthAmericaAnchor')" onmouseout="menu_hide('NorthAmericaMD')" id="NorthAmericaMD" class="top_links_hidden">
-  <table cellpadding="0" cellspacing="0" border="0" summary="layout" width="50">
-  <tbody><tr><td><a href="/routes/listContinent.php?ContinentID=1&amp;CountryStateID=5">USA</a></td></tr>
-  <tr><td><a href="/routes/listContinent.php?ContinentID=1&amp;CountryStateID=16">Canada</a></td></tr>
-  <tr><td><a href="/routes/listState.php?CountryStateID=3">Mexico</a></td></tr>
-  </tbody></table>
-</div>
+<div onmouseover="menu_show('Continent_1_MD')" onmouseout="menu_hide('Continent_1_MD')" id="Continent_1_MD" class="top_links_hidden">Loading...</div>
    &gt;</td>
   </tr>
 
+  <tr onmouseover="menu_load_and_show('Continent_5_MD')" onmouseout="menu_hide('Continent_5_MD')">
+  <td>
+  <a href="/routes/listContinent.php?ContinentID=5">Africa</a>
+  </td>
+	<td>
+<div onmouseover="menu_show('Continent_5_MD')" onmouseout="menu_hide('Continent_5_MD')" id="Continent_5_MD" class="top_links_hidden">Loading...</div>
+   &gt;</td>
+  </tr>
 
-  <tr><td><a href="/routes/listContinent.php?ContinentID=5">Africa</a></td></tr>
-  <tr><td><a href="/routes/listContinent.php?ContinentID=3">Asia</a></td></tr>
-  <tr><td><a href="/routes/listContinent.php?ContinentID=2">Europe</a></td></tr>
-  <tr><td><a href="/routes/listContinent.php?ContinentID=4">Oceania</a></td></tr>
-  <tr><td><a href="/routes/listContinent.php?ContinentID=6">South America</a></td></tr>
+  <tr onmouseover="menu_load_and_show('Continent_3_MD')" onmouseout="menu_hide('Continent_3_MD')">
+  <td>
+  <a href="/routes/listContinent.php?ContinentID=3">Asia</a>
+  </td>
+	<td>
+<div onmouseover="menu_show('Continent_3_MD')" onmouseout="menu_hide('Continent_3_MD')" id="Continent_3_MD" class="top_links_hidden">Loading...</div>
+   &gt;</td>
+  </tr>
+
+  <tr onmouseover="menu_load_and_show('Continent_2_MD')" onmouseout="menu_hide('Continent_2_MD')">
+  <td>
+  <a href="/routes/listContinent.php?ContinentID=2">Europe</a>
+  </td>
+	<td>
+<div onmouseover="menu_show('Continent_2_MD')" onmouseout="menu_hide('Continent_2_MD')" id="Continent_2_MD" class="top_links_hidden">Loading...</div>
+   &gt;</td>
+  </tr>
+
+  <tr onmouseover="menu_load_and_show('Continent_4_MD')" onmouseout="menu_hide('Continent_4_MD')">
+  <td>
+  <a href="/routes/listContinent.php?ContinentID=4">Oceania</a>
+  </td>
+	<td>
+<div onmouseover="menu_show('Continent_4_MD')" onmouseout="menu_hide('Continent_4_MD')" id="Continent_4_MD" class="top_links_hidden">Loading...</div>
+   &gt;</td>
+  </tr>
+
+  <tr onmouseover="menu_load_and_show('Continent_6_MD')" onmouseout="menu_hide('Continent_6_MD')">
+  <td>
+  <a href="/routes/listContinent.php?ContinentID=6">South America</a>
+  </td>
+	<td>
+<div onmouseover="menu_show('Continent_6_MD')" onmouseout="menu_hide('Continent_6_MD')" id="Continent_6_MD" class="top_links_hidden">Loading...</div>
+   &gt;</td>
+  </tr>
+
   </tbody></table>
 </div>
-    </td>
-
+</td>
 
     <td valign="middle">&nbsp;|&nbsp;</td>
-    <td valign="middle" onmouseover="menu_show('ArticlesMD','none','ArticlesTA')" onmouseout="menu_hide('ArticlesMD')" id="ArticlesTA">
+    <td valign="middle" onmouseover="menu_show('ArticlesMD')" onmouseout="menu_hide('ArticlesMD')" id="ArticlesTA">
       <a href="/articles/">Articles</a><br>
-<div onmouseover="menu_show('ArticlesMD','none','ArticlesTA')" onmouseout="menu_hide('ArticlesMD')" id="ArticlesMD" class="top_links_hidden">
+<div onmouseover="menu_show('ArticlesMD')" onmouseout="menu_hide('ArticlesMD')" id="ArticlesMD" class="top_links_hidden">
   <table cellpadding="0" cellspacing="0" border="0" summary="layout">
   <tbody><tr><td><a href="/articles/">Article Search</a></td></tr>
   <tr><td><a href="/articles/index.php?action=new&amp;type_id=5">Submit an Article</a></td></tr>
@@ -408,9 +456,9 @@ function menu_hide(id) {
 
 
     <td valign="middle">&nbsp;|&nbsp;</td>
-    <td valign="middle" onmouseover="menu_show('UsersMD','none','UsersTA')" onmouseout="menu_hide('UsersMD')" id="UsersTA">
+    <td valign="middle" onmouseover="menu_show('UsersMD')" onmouseout="menu_hide('UsersMD')" id="UsersTA">
       <a href="/users/">Users</a><br>
-<div onmouseover="menu_show('UsersMD','none','UsersTA')" onmouseout="menu_hide('UsersMD')" id="UsersMD" class="top_links_hidden">
+<div onmouseover="menu_show('UsersMD')" onmouseout="menu_hide('UsersMD')" id="UsersMD" class="top_links_hidden">
   <table cellpadding="0" cellspacing="0" border="0" summary="layout">
   <tbody><tr><td><a href="/users/list.php?Action=Query">User Search</a></td></tr>
   <tr><td><a href="/users/whosonline.php">Who is Online</a></td></tr>
@@ -420,9 +468,9 @@ function menu_hide(id) {
 
 
     <td valign="middle">&nbsp;|&nbsp;</td>
-    <td valign="middle" onmouseover="menu_show('AboutMD','none','AboutTA')" onmouseout="menu_hide('AboutMD')" id="AboutTA">
+    <td valign="middle" onmouseover="menu_show('AboutMD')" onmouseout="menu_hide('AboutMD')" id="AboutTA">
       <a href="/site/">About</a><br>
-<div onmouseover="menu_show('AboutMD','none','AboutTA')" onmouseout="menu_hide('AboutMD')" id="AboutMD" class="top_links_hidden">
+<div onmouseover="menu_show('AboutMD')" onmouseout="menu_hide('AboutMD')" id="AboutMD" class="top_links_hidden">
   <table cellpadding="0" cellspacing="0" border="0" summary="layout">
   <tbody><tr><td><a href="/site/docs/index.php?id=12">Management Team</a></td></tr>
   <tr><td><a href="/site/contact.php">Contact Us</a></td></tr>
@@ -447,9 +495,9 @@ function menu_hide(id) {
 
 
     <td valign="middle">&nbsp;|&nbsp;</td>
-    <td valign="middle" onmouseover="menu_show('HelpMD','none','HelpTA')" onmouseout="menu_hide('HelpMD')" id="HelpTA">
+    <td valign="middle" onmouseover="menu_show('HelpMD')" onmouseout="menu_hide('HelpMD')" id="HelpTA">
       <a href="/site/faq/">Help</a><br>
-<div onmouseover="menu_show('HelpMD','none','HelpTA')" onmouseout="menu_hide('HelpMD')" id="HelpMD" class="top_links_hidden">
+<div onmouseover="menu_show('HelpMD')" onmouseout="menu_hide('HelpMD')" id="HelpMD" class="top_links_hidden">
   <table cellpadding="0" cellspacing="0" border="0" summary="layout">
   <tbody><tr><td><a href="/site/userguide">User's Guide</a></td></tr>
   <tr><td><a href="/site/faq">Frequently Asked Questions (FAQ)</a></td></tr>
@@ -548,14 +596,12 @@ for
 <td width="500" align="center" valign="middle">
 		  <!-- Banner Ad -->
            
-          <iframe src="/ads/adframe.php?what=468x60" width="468" height="60" scrolling="no" frameborder="0" id="top_banner_ad">
-      <script language="JavaScript" type="text/javascript"
-              src="/ads/adjs.php?what=468x60"></script>
-      <noscript>
-       <a href="/ads/adclick.php"
-         ><img src="/ads/adview.php?what=468x60" alt="advertisement" /></a>
-      </noscript>
-      </iframe>
+          <!-- ad here -->
+      <iframe id="top_banner_ad" name="a27c87ce" src="http://ads.rockclimbing.com/adframe.php?n=a27c87ce&amp;what=zone:23" frameborder="0" scrolling="no" width="468" height="60">
+ <a href='http://ads.rockclimbing.com/adclick.php?n=a27c87ce' target='_blank'>
+ <img src='http://ads.rockclimbing.com/adview.php?what=zone:23&amp;n=a27c87ce'
+ border='0'
+ alt='' /></a></iframe>
         </td>
 <td width="175" valign="top" class="top_bar new" align="center">
 	
@@ -662,9 +708,28 @@ for
 
 <div id="left_bottom_corner">
     	
-  	
-        <iframe src="/ads/google.html" width="120" height="600" scrolling="no" frameborder="0"></iframe>
-    </div>
+  
+    
+        <br>
+    <iframe id="skyscraper_ad" name="a3d10e7f" src="http://ads.rockclimbing.com/adframe.php?n=a3d10e7f&amp;what=zone:25" framespacing="0" frameborder="no" scrolling="no" width="120" height="600">
+            <a href='http://ads.rockclimbing.com/adclick.php?n=a3d10e7f' target='_blank'>
+               <img src='http://ads.rockclimbing.com/adview.php?what=zone:25&amp;n=a3d10e7f' 
+               border='0' alt=''>
+            </a>
+    </iframe>
+
+    <br>
+
+        <br>
+    <iframe id="block_ad" name="a5b70023" src="http://ads.rockclimbing.com/adframe.php?n=a5b70023&amp;what=zone:26" framespacing="0" frameborder="no" scrolling="no" width="120" height="90">
+            <a href='http://ads.rockclimbing.com/adclick.php?n=a5b70023' target='_blank'>
+               <img src='http://ads.rockclimbing.com/adview.php?what=zone:26&amp;n=a5b70023' 
+               border='0' alt=''>
+            </a>
+    </iframe>
+    <br>
+    
+</div>
 
 <!-- End of Left Links Column -->		
 		</td>
@@ -688,18 +753,18 @@ for
 		
 			
 
-
+<b>By <a href="/user/tim" title="View tim's public profile">tim</a></b>
 <div class="medium_text">
 	<form action="/site/privacy/index.php" method="get">
 	
-	<span style="font-size: x-small;">Viewed 5820 times. Last Updated on Mon Mar 01, 2004 11:11 pm 
+	<span style="font-size: x-small;">Viewed 10604 times. Last Updated on Thu Jun 08, 2006 6:07 pm 
 	
 		
-	 by <a href="/user/trevor" title="View trevor's public profile">trevor</a> 	</span>
+	 by <a href="/user/tim" title="View tim's public profile">tim</a> 	</span>
 	
 		
 	
-		</form>
+  	</form>
 </div>
 
 
@@ -707,34 +772,35 @@ for
 	With a massive community, we take our users' privacy concerns very seriously.
 </div>		  
 
-
+  
 
 <div class="document">
-	<i>We are still editing this document. Please bear with us as we try to articulate our efforts to protect your privacy as you enjoy Rockclimbing.com.</i>
+	<i>We are still editing this document. Please bear with us as we try to articulate our efforts to protect your privacy as you enjoy Rockclimbing.com.</i>  --trevor
 <br>
 <br>
-Rockclimbing.com strives to create an informative and user friendly experience for each visitor and all of our registered climbers. To do this we must collect a certain amout of information from you while you browse the site. Because you trust us with this information, we take that responsibility very seriously.
+Rockclimbing.com strives to create an informative and user friendly experience for each visitor and all of our registered climbers. To do this we must collect a certain amout of information from you while you browse the site. Because you trust us with this information, we take that responsibility very seriously.   <b>Rockclimbing.com has a standing policy against making any information designated as 'private' visible to the public</b>, and the administrative staff who are privy to details such as email addresses and IP addresses are expected to exercise discretion.  More specifically:
 
 <h2>Your biographical information is private:</h2>
-We will never, ever sell your email address or share it with marketing people. 
-We are just as sick of SPAM as you are. This goes for any other information 
-that you provide to us and which you do not display on your public profile. However, if you choose to publish this information in your biography, public posts, photo descriptions, articles, or any other public content, then that is your choice.
-<p>
-We may, however, make use of the information you supply to target the banner 
-ads on our site, and in aggregate to provide advertisers with demographic 
-information about our user base.
+We will never, ever sell your email address or share it with marketing people.   If you designate it as publicly visible, then publicly visible it shall be; however, even such cases, we obscure email addresses from spammers and attempt to provide a measure of security for the unwary.  We are just as sick of SPAM as you are.  This also applies to other information that you provide to us and choose not to display publicly in your profile.  If you choose to publish this information in your profile, public posts, photo descriptions, articles, or any other public content, then that is your choice, and we will not prevent you from it.   We sometimes make use of the information you supply, in aggregate, to provide demographic information about our user base.  Items designated as private, and implicitly private information such as individual usage patterns, are never shared with any third party.
 
-</p><h2>Your clickthrough data is private:</h2>
-This website collects information about what URLs you've clicked through on this site only and from where you were referred. We will usually only track your IP address, but in some cases we actually track your specific username. However, we only use this information in macro statistics. We will not monitor a specific user's activity per se. We will not intentionally provide this information to any third party, except as necessary for the normal technical maintenance and operation of the site.
+<h2>Your clickthrough data is private:</h2>
+This website collects information about what URLs you've clicked through on this site (only!) and from whence you came.  Our logfiles only keep track of IP addresses and the pages requested from them; while posts and other user-submitted content are associated with usernames and IP addresses, we use this information only for macro statistics (summaries) and administrative maintenance.  We do not actively monitor any individual user's activity per se, and we will not intentionally provide this information to any third party unless we are required to by law.  We construct demographic summaries (exclusively) from publicly visible information and the logfiles that our servers generate.
 
 <h2>This website uses cookies:</h2>
-In order for this website to work effectively, it has to know who you are. Each user on this site has an account, and transactions have to be associated with that account. When you login, you are issued a cookie. Its the only way we can keep track of which account you are logged into. You must have cookies enabled in order to use this site.
+In order for this website to work effectively, it has to know who you are. Each user on this site has an account, and transactions have to be associated with that account. When you login, you are issued a cookie. Its the only way we can keep track of which account you are logged into. You must have cookies enabled in order to post to the site, read private messages, edit user-submitted content, or rate user-submitted content.  You do not need to have cookes enabled to read reviews, articles, posts, and route descriptions, or to view photos.
 
 <h2>Your passwords are encrypted:</h2>
-We recognize that many of you use the same password at multiple sites. To protect your privacy, we encrypt your password using MD5 encryption. This means that we cannot read it under any circumstances. If you ask us what your password is we cannot tell you. This is a good thing.
+We recognize that many of you use the same password at multiple sites. To protect your privacy, we encrypt your password using MD5 encryption. This means that we cannot read it under any circumstances. If you ask us what your password is, we cannot tell you.  This is a Good Thing. 
 
 <h2>Your Private Messages are private:</h2>
-We do not read your private messages between users. Although, the table is accessible for routine maintenance tasks, none of the Admins have regular access to the table.
+The staff cannot and will not read private messages between users.  Although the messages table is a regular old database table, none of the Admins have direct access to the table, and any attempt to access a private message is cause for dismissal.  Regurgitating the contents of a private message is the addressee's prerogative; we cannot and will not intervene if the designated recipient of a private message decides to quote from, or republish verbatim, the text of a message.  Nonetheless, the staff of the website is not privy to the contents of any messages but their own, and no third party will ever be provided with such information unless we are served with a subpoena.  
+
+<h2>In short...</h2>
+The management of rockclimbing.com attempts to do the Right Thing whenever possible, and we have put a significant effort into determining what this means.  If you feel that the management is making a dumb choice or ignoring a serious problem, please speak up.  We will make every effort to correct it -- and document the changes which result.
+
+Thank you for being a part of the rockclimbing.com community.
+
+<i><b>The Management</b></i>
 
 <p>
 </p><table width="100%">
@@ -757,6 +823,7 @@ We do not read your private messages between users. Although, the table is acces
 
 </div>
 
+
 			
 				
  	</td>
@@ -767,10 +834,6 @@ We do not read your private messages between users. Although, the table is acces
 
 <!-- END MAIN CONTENT -->
 <div id="footer">
-<!-- START ALTREC AD -->
-<hr>
-<a href="http://www.altrec.com/store/rock-climbing-shoes.html" target="_blank" style="text-align:center; color:#ff0000; font-weight:bold;">Rock Climbing Shoes</a>
-<!-- END ALTREC AD -->
 <hr>
 <a href="/index.php">RockClimbing.com</a>
 : <a href="/site/advertisers/">ADVERTISE</a>
@@ -785,8 +848,8 @@ We do not read your private messages between users. Although, the table is acces
 <br><i>Caveat lector</i>.  Think for yourself and make your own decisions.
 <br>
 <br>You may not reproduce any material on the site without the prior written consent of its author.
-<br>Posts, comments, and other user-submitted content are ©1995-2005 by their original authors.
-<br>This website &amp; its design are ©1995-2005 RockClimbing.com.
+<br>Posts, comments, and other user-submitted content are ©1995-2006 by their original authors.
+<br>This website &amp; its design are ©1995-2006 RockClimbing.com.
 <br>
 <span class="hidden">
   <a href="mailto:bitbucket@rockclimbing.com" class="hidden">bitbucket@rockclimbing.com</a>
@@ -794,7 +857,7 @@ We do not read your private messages between users. Although, the table is acces
 </span>
 <br>
   This page was served by <b>www.rockclimbing.com</b>
-  at IP address <b>216.240.150.146</b>.</div>
+  at IP address <b>216.240.150.157</b>.</div>
 
 <!-- old-style tooltips (to be replaced w/overLib in newer Smarty pages) -->
 <script language="JavaScript" type="text/javascript" src="/js/tooltip.js"></script>
