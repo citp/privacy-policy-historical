@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netzero.net privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231080844id_/http%3A//www.netzero.net/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netzero.net privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613014807id_/http%3A//www.netzero.net/legal/privacy.html%3Fcf%3Dwwwb1) for the most accurate reproduction.*
 
 # NetZero - Privacy and Security- Free Dial Up Internet Service - High Speed ISP - Net Zero Internet Provider - Netzero.com
 
@@ -154,7 +154,7 @@ Back to list
 
  **A note about the privacy of children aged 13 to 18**.
 
-We collect, use, and disclose information about children aged 13 to 18 in the same manner as we do for adults. NetZero believes that it's especially important to protect children's privacy online and encourages parents and guardians to spend time online with their children to participate and monitor their Internet activity. If you are under 18, we recommend you get your parent's permission before disclosing any information about yourself to anyone on the Internet. We do not filter advertisements or other content that children may receive, and they could receive content and materials from the Internet and/or advertising that are inappropriate for children. We provide a listing of third party services that offer parental control software that is located at: [www.netzero.com/support/info/safety.html.](https://web.archive.org/web/20051231080844id_/http%3A//www.netzero.net/legal/www.netzero.com/support/info/safety.html)
+We collect, use, and disclose information about children aged 13 to 18 in the same manner as we do for adults. NetZero believes that it's especially important to protect children's privacy online and encourages parents and guardians to spend time online with their children to participate and monitor their Internet activity. If you are under 18, we recommend you get your parent's permission before disclosing any information about yourself to anyone on the Internet. We do not filter advertisements or other content that children may receive, and they could receive content and materials from the Internet and/or advertising that are inappropriate for children. We provide a listing of third party services that offer parental control software that is located at: [www.netzero.net/support/info/safety.html.](http://www.netzero.net/support/info/safety.html)
 
 Back to list
 
