@@ -1,18 +1,15 @@
-> *The following text is extracted and transformed from the calendarlive.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228030643id_/http%3A//www.calendarlive.com/services/site/cl-privacy%2C0%2C1836093.story) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calendarlive.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613004532id_/http%3A//www.calendarlive.com/services/site/cl-privacy%2C0%2C1836093.story) for the most accurate reproduction.*
 
 # calendarlive.com: Calendarlive.com Privacy Policy
 
-|   |    
+|  |    
   
 
 
-**Last Updated: July, 2003**
+**Last Updated: May, 2006**
 
 Calendarlive.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. Please note this policy applies only to information collected by calendarlive.com online and does not impact information collected or used by calendarlive.com or its affiliates through other means.
 
-| ADVERTISEMENT  
----  
-  
 **How we gather information from users**.
 
 How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. You can visit many pages on our site without providing any information. Other pages may prompt you to provide information, such as when you register for access to portions of our site, sign up for membership, request certain features (e.g., newsletters, news updates and other products), sign up for a newspaper subscription or make a purchase. You may also provide information when you participate in sweepstakes and contests, voting and polling activities, message boards and chat rooms and other interactive areas of our site.
@@ -38,6 +35,8 @@ The quality news and information on calendarlive.com is supported by advertising
 Calendarlive.com expects its partners, advertisers and third-party affiliates to respect the privacy of our users. However, third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a calendarlive.com page, certain content that is actually created or hosted by a third party. Also, through calendarlive.com you may be introduced to, or be able to access, information, Web sites, advertisements, features, contests or sweepstakes offered by other parties. Calendarlive.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
 
 While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Through features available on our site, third parties may use cookies or other technology to gather information. Calendarlive.com does not control the use of this technology or the resulting information and is not responsible for any actions or policies of such third parties.
+
+A cookie gets entered by your Web browser into the "Cookies" folder on your hard drive after you close your browser, and may be used by your browser on subsequent visits to the Site. We use persistent and session cookies to analyze and enhance your experience on the Site, and use third party ad technology to serve ads. The data that is collected is the property of calendarlive.com, not the third party. We also allow third parties called ad networks or ad servers to serve ads to you on calendarlive.com. Cookies enable them to compile information about where you, or others who have used your computer, saw their advertisements and determine which ads are clicked on. This information makes it possible for the ad technology, ad servers and ad networks to deliver targeted advertisements to you on calendarlive.com. Calendarlive.com does not have access to the cookies that may be placed on your computer by third-party ad technology, ad servers or ad networks. calendarlive.com maintains relationships with a number of third-party networks, including Doubleclick, Unicast, and Pointroll. Those parties that use cookies may offer you a way to opt out of ad targeting. You may find more information at the Web site of the individual ad network or the [ Network Advertising Initiative.](http://www.networkadvertising.org/consumer/opt_out.asp)
 
 Please be careful and responsible whenever you are online. Should you choose to voluntarily disclose Personally Identifiable Information on our site, such as in message boards, chat areas or in advertising or notices you post, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of calendarlive.com and this policy.
 
@@ -70,3 +69,7 @@ In the event case of any conflict between the terms of this policy and the terms
 
 If you want other stories on this topic, search the Archives at [latimes.com/archives](http://www.latimes.com/archives).  
 
+
+|  | 
+
+ADVERTISEMENT
