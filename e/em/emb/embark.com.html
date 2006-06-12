@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the embark.com privacy policy that was archived on 2005-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051101004414id_/http%3A//www.princetonreview.com/footer/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the embark.com privacy policy that was archived on 2006-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060613011007id_/http%3A//www.princetonreview.com/footer/privacy_policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//IETF//DTD HTML//EN"><html><head>
-<title>The Princeton Review</title>
+<title>Privacy Policy | The Princeton Review</title>
 <link rel="stylesheet" href="/shared/css/princetonReview.css" type="text/css">
 <meta name="resource-type" content="document">
 <meta name="author" content="PrincetonReview.com">
@@ -18,7 +18,7 @@
 		var strTrackPath = "http://images.review.com/track/tprtrackpartner.gif?";
 		</script>
 		<script language="JavaScript1.2" src="http://www.princetonreview.com/shared/global/include/tprpartnertrack.js"></script>
-		<script language="JavaScript1.2" src="/shared/global/include/oas.js"></script><script language="JavaScript1.1" src="http://oascentral.archive.org/RealMedia/ads/adstream_mjx.ads/web.archive.org/web/20051101004414id_/http%3A//www.princetonreview.com/footer/privacy_policy.asp/1338210920@Right?"></script>		
+		<script language="JavaScript1.2" src="/shared/global/include/oas.js"></script><script language="JavaScript1.1" src="http://oascentral.archive.org/RealMedia/ads/adstream_mjx.ads/web.archive.org/web/20060613011007id_/http%3A//www.princetonreview.com/footer/privacy_policy.asp/1589048888@Right?"></script>		
 		
 		<!-- Sitewise SDC META Tags -->
 		
@@ -243,7 +243,7 @@
 	}
 	function optionValid(aOption)
 	{
-		if (document.frmSearch.lstMenu.value == "")
+		if (document.frmSearch.itemCode.value == "")
 		{
 			alert("Please select a test type");
 			return false;
@@ -252,15 +252,15 @@
 	}
 	function validateBasic() 
 	{
-		if (!optionValid(document.frmSearch.lstMenu.value)) return false;
-		if (!zipValid(document.frmSearch.txtZip.value)) return false;
+		if (!optionValid(document.frmSearch.itemCode.value)) return false;
+		if (!zipValid(document.frmSearch.Zip.value)) return false;
 		return true;
 	}
 	function clearDefault()
 	{	//TonyE - CR 19575: Changed " Enter Your Zip Code" to " Enter Zip/Postal Code"
-		if (document.frmSearch.txtZip.value == " Enter Zip/Postal Code")
+		if (document.frmSearch.Zip.value == " Enter Zip/Postal Code")
 		{
-			document.frmSearch.txtZip.value = ""
+			document.frmSearch.Zip.value = ""
 		}
 	}
 	</script>
@@ -269,8 +269,9 @@
 	<form id="frmSearch" name="frmSearch" method="get" action="http://testprep.princetonreview.com/coursefinder/search.asp" onsubmit="return validateBasic();"></form>
 	<tr>
 		<td width="172" align="left">
+		<input type="hidden" name="productType" id="Hidden1" value="C">
 		<img src="http://www.princetonreview.com/images/spacer.gif" width="4" border="0">
-		<select id="lstMenu" name="lstMenu" class="regElevenBlack" style="width: 145px">
+		<select id="itemCode" name="itemCode" class="regElevenBlack" style="width: 145px">
 			<option value="" selected="">Select Your Test</option>
 			<option value="">--------------------------------</option>
 			<option value=""> -- College --</option>
@@ -309,7 +310,7 @@
 	<tr>
 		<td width="172" align="left" valign="bottom">
 			<img src="http://www.princetonreview.com/images/spacer.gif" width="4" border="0">
-			<input type="text" name="txtZip" value=" Enter Zip/Postal Code" size="16" class="regElevenBlack" onclick="clearDefault();" onchange="clearDefault();" onkeydown="clearDefault();">
+			<input type="text" name="Zip" value=" Enter Zip/Postal Code" size="16" class="regElevenBlack" onclick="clearDefault();" onchange="clearDefault();" onkeydown="clearDefault();">
 			<input type="image" src="http://www.princetonreview.com/images/navigation/go_button.gif" border="0" id="image1" name="image1" align="absbottom">
 		</td>
 	</tr>
@@ -317,14 +318,15 @@
 		<td height="2"><img src="http://www.princetonreview.com/images/spacer.gif" height="2" width="172" border="0"></td>	
 	</tr>
 	<tr>
-		<td align="left" class="boldElevenBlack"><img src="http://www.princetonreview.com/images/spacer.gif" width="9" height="1" border="0"><a href="http://testprep.princetonreview.com/coursefinder/advancedSearch.asp" class="boldElevenBlackUnderline">Additional Options</a></td>
+		<td align="left" class="boldElevenBlack"><img src="http://www.princetonreview.com/images/spacer.gif" width="9" height="1" border="0"><a href="http://testprep.princetonreview.com/coursesearch/AdvancedSearch.aspx" class="boldElevenBlackUnderline">Additional Options</a></td>
 	</tr>
 	<tr>
 		<td height="10"><img src="http://www.princetonreview.com/images/spacer.gif" height="10" width="172" border="0"></td>	
 	</tr>
 	<tr>
 	<td><img src="http://www.princetonreview.com/images/navigation/dot_line.gif" border="0"></td>
-	</tr>			
+	</tr>	
+	<input type="hidden" name="rid" id="rid" value="1">		
 							
 	</tbody></table>
 </td>
@@ -335,7 +337,6 @@
 		<td width="560">
 <!-- PRIVACY POLICY UPDATED JUNE 20, 2005 BY ANDREA LEWIS ALLAN -->
 
-<br>
 <table width="560" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr class="regTwelveBlack"> 
     <td valign="top">
@@ -563,9 +564,26 @@ Though we make every effort to preserve your privacy, we cannot guarantee your p
 <table cellpadding="0" cellspacing="0" border="0" width="800">
 <tbody><tr>
 <td align="left"><img src="http://www.princetonreview.com/images/spacer.gif" height="1" width="100" border="0">
-<a href="javascript:OpenCopyrightWindow()" class="boldTenFooterGrayUnderline" target="_self">Copyright Notice</a>
-</td><td align="right" rowspan="2" valign="bottom">
-<a href="/out.asp?categoryID=1&amp;openWin=1&amp;URL=http%3A%2F%2Fwww%2Enacac%2Ecom%2Fseal%2Ehtml" class="boldTenFooterGrayUnderline" target="_self"><img src="http://www.princetonreview.com/images/footer/nacac_seal.gif" height="45" width="124" border="0"></a>
+<a href="javascript:OpenCopyrightWindow()" class="boldTenFooterGrayUnderline" target="_self" style="text-decoration:none">Copyright Notice</a></td>
+<td align="center" rowspan="2" valign="top">
+<a href="/college/testprep/testprep.asp?TPRPAGE=1&amp;TYPE=NEW-SAT-HOME" title="SAT" class="boldTenFooterGrayUnderline" style="text-decoration:none">SAT</a>
+<span class="regElevenGray">&nbsp;|&nbsp;</span>
+<a href="/college/testprep/testprep.asp?TPRPAGE=39&amp;TYPE=PSAT-HOME" title="PSAT" class="boldTenFooterGrayUnderline" style="text-decoration:none">PSAT</a>
+<span class="regElevenGray">&nbsp;|&nbsp;</span>
+<a href="/college/testprep/testprep.asp?TPRPAGE=2&amp;TYPE=ACT-HOME" title="ACT" class="boldTenFooterGrayUnderline" style="text-decoration:none">ACT</a>
+<span class="regElevenGray">&nbsp;|&nbsp;</span>
+<a href="/mba/testprep/testprep.asp?TPRPAGE=3&amp;TYPE=GMAT-HOME" title="GMAT" class="boldTenFooterGrayUnderline" style="text-decoration:none">GMAT</a>
+<span class="regElevenGray">&nbsp;|&nbsp;</span>
+<a href="/grad/testprep/testprep.asp?TPRPAGE=4&amp;TYPE=GRE-HOME" title="GRE" class="boldTenFooterGrayUnderline" style="text-decoration:none">GRE</a>
+<span class="regElevenGray">&nbsp;|&nbsp;</span>
+<a href="/law/testprep/testprep.asp?TPRPAGE=5&amp;TYPE=LSAT-HOME" title="LSAT" class="boldTenFooterGrayUnderline" style="text-decoration:none">LSAT</a>
+<span class="regElevenGray">&nbsp;|&nbsp;</span>
+<a href="/medical/testprep/testprep.asp?TPRPAGE=6&amp;TYPE=MCAT-HOME" title="MCAT" class="boldTenFooterGrayUnderline" style="text-decoration:none">MCAT</a>
+<span class="regElevenGray">&nbsp;|&nbsp;</span>
+<a href="/medical/testprep/testprep.asp?TPRPAGE=40&amp;TYPE=USMLE-HOME" title="USMLE" class="boldTenFooterGrayUnderline" style="text-decoration:none">USMLE</a>
+</td>
+<td align="right" rowspan="2" valign="top">
+<a href="/out.asp?categoryID=1&amp;openWin=1&amp;URL=http%3A%2F%2Fwww%2Enacac%2Ecom%2Fseal%2Ehtml" class="boldWhiteEleven"><img src="http://www.princetonreview.com/images/footer/nacac_seal.gif" height="45" width="124" border="0"></a>
 <img src="http://www.princetonreview.com/images/spacer.gif" height="1" width="80" border="0"></td>
 </tr>
 <tr valign="top">
