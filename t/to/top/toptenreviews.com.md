@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toptenreviews.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220074300id_/http%3A//toptenreviews.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toptenreviews.com privacy policy that was archived on 2006-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060612221132id_/http%3A//toptenreviews.com/privacy-policy.html) for the most accurate reproduction.*
 
 # TopTenREVIEWS Privacy Policy
 
@@ -6,23 +6,21 @@
 
 |   
 ---|---|---|---|---  
-| [Home](https://web.archive.org/web/20051220074300id_/http%3A//toptenreviews.com/)     [About Us](https://web.archive.org/web/20051220074300id_/http%3A//toptenreviews.com/about-us.html)    [Press Room](https://web.archive.org/web/20051220074300id_/http%3A//toptenreviews.com/press-room.html)    [Helpful Links](https://web.archive.org/web/20051220074300id_/http%3A//toptenreviews.com/privacy-policy.html)    [Contact Us](https://web.archive.org/web/20051220074300id_/http%3A//toptenreviews.com/contact-us.html)    [Sitemap](https://web.archive.org/web/20051220074300id_/http%3A//toptenreviews.com/sitemap.html)      |   
+| [Home](https://web.archive.org/web/20060612221132id_/http%3A//toptenreviews.com/)     [About Us](https://web.archive.org/web/20060612221132id_/http%3A//toptenreviews.com/about-us.html)    [Press Room](https://web.archive.org/web/20060612221132id_/http%3A//toptenreviews.com/press-room.html)    [Helpful Links](https://web.archive.org/web/20060612221132id_/http%3A//toptenreviews.com/privacy-policy.html)    [Contact Us](https://web.archive.org/web/20060612221132id_/http%3A//toptenreviews.com/contact-us.html)    [Sitemap](https://web.archive.org/web/20060612221132id_/http%3A//toptenreviews.com/sitemap.html)      |   
 Advertisement:  
-|  | Advertisement:  
-  
+[](http://clickserve.cc-dt.com/link/click?lid=41000000010143453) |  | Advertisement:  
+[](http://www.hermanstreet.com/ss-bin/sc/ref.cgi?storeid=*10cac24aa506b970bfb4&name=dvdcloner3-banneradd&url=http://www.hermanstreet.com/store/smarthtml/dvdcloner-radio.html)  
 | Helpful Links  
 |  |   
-| [ABOUT US](https://web.archive.org/web/20051220074300id_/http%3A//toptenreviews.com/about-us.html)  
+| [ABOUT US](https://web.archive.org/web/20060612221132id_/http%3A//toptenreviews.com/about-us.html)  
 ---  
-[PRESS ROOM](https://web.archive.org/web/20051220074300id_/http%3A//toptenreviews.com/press-room.html)  
-[HELPFUL LINKS](https://web.archive.org/web/20051220074300id_/http%3A//toptenreviews.com/privacy-policy.html)  
-| [Privacy Policy](https://web.archive.org/web/20051220074300id_/http%3A//toptenreviews.com/privacy-policy.html) |   
-[Product Assistance](https://web.archive.org/web/20051220074300id_/http%3A//toptenreviews.com/product-assistance.html)  
-[Secure Shopping](https://web.archive.org/web/20051220074300id_/http%3A//toptenreviews.com/secure-shopping.html)  
-[Website Content](https://web.archive.org/web/20051220074300id_/http%3A//toptenreviews.com/website-content.html)  
-[Advertising](https://web.archive.org/web/20051220074300id_/http%3A//toptenreviews.com/advertising.html)  
-[Careers](https://web.archive.org/web/20051220074300id_/http%3A//toptenreviews.com/careers.html)  
-[Contact Us](https://web.archive.org/web/20051220074300id_/http%3A//toptenreviews.com/contact-us.html)  
+[PRESS ROOM](https://web.archive.org/web/20060612221132id_/http%3A//toptenreviews.com/press-room.html)  
+[HELPFUL LINKS](https://web.archive.org/web/20060612221132id_/http%3A//toptenreviews.com/privacy-policy.html)  
+| [Privacy Policy](https://web.archive.org/web/20060612221132id_/http%3A//toptenreviews.com/privacy-policy.html) |   
+[Product Assistance](https://web.archive.org/web/20060612221132id_/http%3A//toptenreviews.com/product-assistance.html)  
+[Secure Shopping](https://web.archive.org/web/20060612221132id_/http%3A//toptenreviews.com/secure-shopping.html)  
+[Website Content](https://web.archive.org/web/20060612221132id_/http%3A//toptenreviews.com/website-content.html)  
+[Advertising](https://web.archive.org/web/20060612221132id_/http%3A//toptenreviews.com/advertising.html)  
 | 
 
 TopTenREVIEWS™ and its network of related review sites take your privacy seriously. Our privacy policy is designed to help you understand the terms and conditions surrounding the collection and use of the information we collect. We encourage you to read our full privacy policy, below: 
@@ -60,12 +58,12 @@ All personally identifiable information provided to TopTenREVIEWS is maintained 
 
 **Acceptance of Terms** By using the TopTenREVIEWS website, you signify your acceptance of this website _privacy policy_.  If you do not agree to this policy, please do not use our sites. Your continued use of any TopTenREVIEWS site following the posting of changes to these terms will indicate your acceptance of those changes.
 
-**How to Contact Us** If you want to reach us, [click here](https://web.archive.org/web/20051220074300id_/http%3A//toptenreviews.com/contact-us.html).
+**How to Contact Us** If you want to reach us, [click here](https://web.archive.org/web/20060612221132id_/http%3A//toptenreviews.com/contact-us.html).
 
 _Last updated July 2005_  
   
   |   |   |   |   |   |   |   |    
-  |  [Home](https://web.archive.org/web/20051220074300id_/http%3A//toptenreviews.com/)    [About Us](https://web.archive.org/web/20051220074300id_/http%3A//toptenreviews.com/about-us.html)    [Press Room](https://web.archive.org/web/20051220074300id_/http%3A//toptenreviews.com/press-room.html)    [Helpful Links](https://web.archive.org/web/20051220074300id_/http%3A//toptenreviews.com/privacy-policy.html)    [Contact Us](https://web.archive.org/web/20051220074300id_/http%3A//toptenreviews.com/contact-us.html)    [Sitemap](https://web.archive.org/web/20051220074300id_/http%3A//toptenreviews.com/sitemap.html)    [_Privacy Policy_](https://web.archive.org/web/20051220074300id_/http%3A//toptenreviews.com/privacy-policy.html) |    
+  |  [Home](https://web.archive.org/web/20060612221132id_/http%3A//toptenreviews.com/)    [About Us](https://web.archive.org/web/20060612221132id_/http%3A//toptenreviews.com/about-us.html)    [Press Room](https://web.archive.org/web/20060612221132id_/http%3A//toptenreviews.com/press-room.html)    [Helpful Links](https://web.archive.org/web/20060612221132id_/http%3A//toptenreviews.com/privacy-policy.html)    [Contact Us](https://web.archive.org/web/20060612221132id_/http%3A//toptenreviews.com/contact-us.html)    [Sitemap](https://web.archive.org/web/20060612221132id_/http%3A//toptenreviews.com/sitemap.html)    [_Privacy Policy_](https://web.archive.org/web/20060612221132id_/http%3A//toptenreviews.com/privacy-policy.html) |    
   
-Copyright © 2003 – 2005 TopTenREVIEWS, Inc. All Rights Reserved.  
+Copyright © 2003 – 2006 TopTenREVIEWS, Inc. All Rights Reserved.  
 Reproduction in whole or in part in any form or medium without express written permission of TopTenREVIEWS, Inc. is prohibited.
