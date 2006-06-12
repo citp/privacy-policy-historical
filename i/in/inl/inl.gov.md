@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inl.gov privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214115647id_/http%3A//www.inl.gov/securityprivacy/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inl.gov privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613010928id_/http%3A//www.inl.gov/securityprivacy/index.shtml) for the most accurate reproduction.*
 
 # The Idaho National Laboratory - Security/Privacy Statement
 
@@ -46,7 +46,7 @@ We do not create individual profiles with the information you provide. We do not
 
 
 
-Also, e-mail and online forms are not secure against interception and senders can not expect privacy. If you consider your communication business sensitive - or it includes personal information like your bank account, charge card, or social security number - you might want to send it by postal mail instead to the following address: 
+Online forms submitted from the https://secure.inl.gov/ domain utilize Secure Socket Layer (SSL) technology for encryption of transmitted data. E-mail and online forms which are not part of the https://secure.inl.gov/ domain are not secure against interception and senders cannot expect privacy. While we believe the secure method is the preferred method to send business sensitive material or personal information electronically, we cannot guarantee the security of any electronic data transmissions. If your communication will be through a non-secured method and will include business sensitive material or personal information like your bank account, charge card, or social security number, please send it by postal mail instead to the following address: 
 
 INL  
 P.O. Box 1625  
