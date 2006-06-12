@@ -1,37 +1,15 @@
-> *The following text is extracted and transformed from the inc.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229124137id_/http%3A//www.inc.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inc.com privacy policy that was archived on 2006-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060612225941id_/http%3A//www.inc.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
-* * *
-
-[](http://www.inc.com/)
-
-### _The_ Resource for Growing Companies
-
-  * [home](http://www.inc.com/)
-  * [magazine](http://www.inc.com/magazine/)
-  * [articles by topic](http://www.inc.com/articles/)
-  * [how-to](http://www.inc.com/guides/)
-  * [tools](http://www.inc.com/tools/)
-  * [inc500](http://www.inc.com/inc500/)
-  * [events](http://www.inc.com/events/)
-  * [services](http://www.inc.com/services/)
-  * [blog](http://blog.inc.com/)
+  * About us: 
+  * [ About Inc.com ](https://web.archive.org/web/20060612225941id_/http%3A//www.inc.com/about/index.html)
+  * [ Contact us ](https://web.archive.org/web/20060612225941id_/http%3A//www.inc.com/about/contact_us.html)
+  * [ Advertise ](https://web.archive.org/web/20060612225941id_/http%3A//www.inc.com/advertise/index.html)
+  * [ Business Relationships ](https://web.archive.org/web/20060612225941id_/http%3A//www.inc.com/about/biz_rel.html)
+  * [ Privacy Policy ](https://web.archive.org/web/20060612225941id_/http%3A//www.inc.com/about/privacy.html)
 
 
-
-#### Current Issue
-
-[](http://trax.inc.com/k/w/sub/cover)
-
-  * [**SUBSCRIBE NOW!** ›](http://trax.inc.com/k/w/sub/cover)
-  * [renew ›](http://trax.inc.com/k/w/sub/renew)
-  * [current issue ›](http://www.inc.com/magazine/)
-  * [contact us ›](http://www.inc.com/about/contact_us.html)
-
-
-
-* * *
 
 Inc.com is committed to maintaining the trust of our users. This statement explains how we collect information from you and what we do with that information.
 
@@ -69,10 +47,6 @@ Internet-based commerce is dynamic and changing. We may revise our privacy polic
 
 If you have questions or comments on this Privacy Statement, please [contact us](https://web.archive.org/about/contact_us.html).
 
-### Advertisement
+[](http://trax.inc.com/k/w/sub/subbox/cover)
 
-### Featured Services
-
-### Advertisement
-
-* * *
+## Select Services
