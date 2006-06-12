@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the developers.net privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216234812id_/http%3A//www.developers.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the developers.net privacy policy that was archived on 2006-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060612200241id_/http%3A//www.developers.net/privacy) for the most accurate reproduction.*
 
 # Privacy policy | developers.net
 
