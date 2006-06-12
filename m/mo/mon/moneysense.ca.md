@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneysense.ca privacy policy that was archived on 2005-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051203021632id_/http%3A//www.rogersmagazines.com/media/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneysense.ca privacy policy that was archived on 2006-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060612214725id_/http%3A//www.rogersmagazines.com/media/index.html) for the most accurate reproduction.*
 
 # Rogers Media Privacy FAQ
 
@@ -27,9 +27,10 @@ _Does Rogers protect the privacy of children?_
 _How do I unsubscribe from an e-mail newsletter?_  
 _Can I change or update my e-mail newsletter subscriptions?_  
 _Can I change my e-mail marketing preferences online?_  
-_I'm registering on one of your sites for the first time, but my name and address are here already. How?_  
+_I'm registering on one of your sites for the first time, but my name is here already. How?_  
 _Do Rogers web sites use cookies?_  
 _Do Rogers websites record information about my computer or my visit?_  
+_Does Rogers use "third party advertising"?_  
 _What about information on public forums?_  
 _What steps do you take for the security of my information?_  
 _How else can I protect my privacy online?_  
@@ -90,8 +91,8 @@ We have many e-mail newsletters for you choose from and realize your preferences
 _Can I change my e-mail marketing preferences online?_   
 If you registered with a password-protected profile at one of our web sites, log in to your profile update page and click the "Update Your Rogers Marketing Preferences" link at the bottom of the page. If you do not have a password-protected profile, you can upgrade your newsletter registration. Do this by registering for a password-protected profile with your existing e-mail address, and clicking on the upgrade link when prompted. If you prefer not to upgrade, you can click the link to no longer receive marketing messages at the end of any marketing e-mail.
 
-_I'm registering on one of your sites for the first time, but my name and address are here already. How?_  
-Virtually all [Rogers Media Web sites](http://rogersmagazines.com/mediasites/index.html) will begin using a shared web registration service in 2005. Any information you provide at registration for a site is tied to your e-mail address. If you use the same e-mail address to register at another Rogers Media Web site, the associated information will be retrieved, so you don't have to re-enter it.
+_I'm registering on one of your sites for the first time, but my name is here already. How?_  
+Virtually all [Rogers Media Web sites](http://rogersmagazines.com/mediasites/index.html) will begin using a shared web registration service in 2006. Any information you provide at registration for a site is tied to your e-mail address. If you use the same e-mail address to register at another Rogers Media Web site, the associated information will be retrieved, so you don't have to re-enter it.
 
 _Do Rogers web sites use cookies?_  
 Yes, some Rogers web sites use cookies. Typically, a cookie is set when you register on our sites.   
@@ -102,6 +103,9 @@ Rogers collects IP addresses and related information for the purposes of system 
 Browser information (i.e. the URL of the web page you were just on, the IP address of the computer you are using, your domain type, and your browser version) is automatically recorded as part of transmitting information over the Internet. We may use it to help us display information in the best format for you.   
 We may develop summary reports for advertisers, to help them better understand our audience and provide advertisements that are more likely to be of interest to you. For example, we may report total number of visitors to our site in general or to specific pages, average length of visit, etc. No identifying data about individuals is reported.   
 During your visit to our sites, we may record choices you have made and use this to provide more customized content or advertising. The data does not identify you and is not retained after your visit. This is sometimes called "clickstream" data.
+
+_Does Rogers use "third party advertising"?_  
+The ads appearing on many of our Web sites are delivered to you by DoubleClick, our Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you. For more information about DoubleClick, cookies, and how to "opt-out", please click here - <http://www.doubleclick.com/us/about_doubleclick/privacy>. 
 
 _What about information on public forums?_  
 Rogers sites may make chat rooms, forums, message boards and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
@@ -129,7 +133,7 @@ General Inquiries
 If you have any questions about these Rogers Media Privacy FAQs, the privacy practices of our web sites, or your dealings with us, please contact: 
 
 Rogers Media Web Customer Care  
-One Mount Pleasant Road, 11th Fl.  
+One Mount Pleasant Road, 8th Fl.  
 Toronto, Ontario  
 M4W 2Y5  
 [webmedia@rci.rogers.com](mailto:webmedia@rci.rogers.com)
@@ -197,8 +201,7 @@ Privacy Officer, Rogers Group of Companies
 Toronto, Ontario  
 M4W 1G9
 
-Phone #: 416-935-2525  
-Or email: [privacy@rci.rogers.com](mailto:privacy@rci.rogers.com)
+email: [privacy@rci.rogers.com](mailto:privacy@rci.rogers.com)
 
 9\. Customers that wish to obtain:
 
