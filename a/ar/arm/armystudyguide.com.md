@@ -1,44 +1,26 @@
-> *The following text is extracted and transformed from the armystudyguide.com privacy policy that was archived on 2005-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050923173523id_/http%3A//www.armystudyguide.com/admin/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armystudyguide.com privacy policy that was archived on 2006-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060612212142id_/http%3A//www.armystudyguide.com/content/admin_section/privacy-policy.shtml) for the most accurate reproduction.*
 
-# ArmyStudyGuide.com's Privacy Policy
+# Privacy Policy (ArmyStudyGuide.com)
 
-      ArmyStudyGuide.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this [ArmyStudyGuide.com](http://www.armystudyguide.com/) and all it's sub-sites to include but not limited to: 
+ArmyStudyGuide.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this [ArmyStudyGuide.com](http://www.armystudyguide.com/) .
 
-  * http://cadence.armystudyguide.com
-  * http://counsel.armystudyguide.com
-  * lhttp://eadersbook.armystudyguide.com
-  * http://basic.armystudyguide.com
-  * http://cadence.armystudyguide.com
-  * http://smct.armystudyguide.com
-  * [http://equipment.armystudyguide.com](http://equipment.armystudyguide.com/)
-  * http://ppt.armystudyguide.com
+**Advertisers**  
+We use outside ad companies to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by the ad companies, and we do not have access to this information.
 
+**External Links**  
+This site contains links to other sites. ArmyStudyGuide.com is not responsible for the privacy practices or the content of such Web sites.
 
+**Public Forums**  
+This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. We go to great lengths to protect personal information used when registering to use our forums. We strongly suggest that you help to protect your information by changing your password often.
 
-** Advertisers**  
+**Newsletters**  
+ArmyStudyGuide.com makes available to it's users various newsletters. Any user of the site has the option to enter their email address into a form to sign up for one or more of the newsletters and may quickly and easily remove their email address from our database simply by clicking a specific "unsubscribe" link in any one of the newsletters sent out.
 
+ArmyStudyGuide.com uses a professional business corespondence management service to serve the newsletters. They assure us that none of the information that you give up when signing up for any newsletter through our site will be sold or shared with any other party.
 
-      We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
+**Tracking**  
+Although we do not track individual movements throughout the site, we do closely monitor our server logs and other logs made available to us to better design the site for the benefit of our visitors. The information contained within the logs does not contain any personal information about any specific user.
 
-** External Links**  
-
-
-      This site contains links to other sites. ArmyStudyGuide.com is not responsible for the privacy practices or the content of such Web sites.
-
-** Public Forums**  
-
-
-      This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.  We go to great lengths to protect personal information used when registering to use our forums.  We strongly suggest that you help to protect your information by changing your password often.
-
-**Newsletter**
-
-       This site offers a Newsletter specifically for the purpose of sharing Army Study Guide Content Updates and information about new sections added to the Study Guide.  The Newsletter is hosted by server.com which offers remotely hosted database-driven resources.  The email addresses that are entered in order to subscribe to the free newsletter will never be sold or shared by ArmyStudyGuide.com.  If you would like to subscribe or unssubscribe from our newsletter, please visit the following link for more information.  [http://www.armystudyguide.com/newsletter/index.html](http://www.armystudyguide.com/newsletter/index.html)
-
-** Contacting the Web Site**  
-
-
-      If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact the webmaster using the form located [here] or email us at [webmaster@armystudyguide.com](mailto:webmaster@armystudyguide.com) 
-
-To view our disclaimer, please [[click here](https://web.archive.org/web/20050923173523id_/http%3A//www.armystudyguide.com/admin/disclaimer.htm)] 
-
-To view our reproduction policy [[click here](https://web.archive.org/web/20050923173523id_/http%3A//www.armystudyguide.com/admin/reproduction_policy.htm)] 
+  
+**Contacting the Web Site**  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can email us at [webmaster@armystudyguide.com](mailto:webmaster@armystudyguide.com)
