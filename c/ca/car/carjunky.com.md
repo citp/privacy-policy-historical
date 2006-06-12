@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carjunky.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210084313id_/http%3A//www.carjunky.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carjunky.com privacy policy that was archived on 2006-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060612195912id_/http%3A//www.carjunky.com/privacy) for the most accurate reproduction.*
 
 # CarJunky.com - Privacy Statement
 
@@ -32,13 +32,18 @@ This site makes chat rooms, forums, message boards, and/or news groups available
 
 We do not sell the information obtained from our user. This includes emails, address and any other contact information. The only time you will receive a message from us is you signed up for one of our services such as classifieds, autoforums, news, or newsletters. We have automated emailing applications that will contact our users to inform them of a response. 
 
+## Information Contained on the Site
+
+  
+Copyright �1999-2006 by CARJUNKY�, all rights reserved. CARJUNKY® is a trademark of CARJUNKY.com. All other trademarks, tradenames and/or service marks are the property of their respective holders. Although all information and prices contained herein are obtained from sources deemed to be reliable, CARJUNKY� assumes no responsibility for the accuracy of the information and no liability for any errors and/or omissions. Even though forum members are here on their free will please double check with a professional of the the information found herein. All information is subject to change without notice. For legal Advice please seek professional advice. 
+
 ## Choice/Opt-Out
 
 Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-  1. You can send email to remove @ carjunky dot com
+  1. You can send email to carjunkywebteam @ aol dot com
 
 
 
@@ -46,7 +51,7 @@ This site gives users the following options for removing their information from 
 
 This site gives users the following options for changing and modifying information previously provided. 
 
-  1. email information at carjunky dot com
+  1. email webmaster at carjunky dot com
 
 
 
