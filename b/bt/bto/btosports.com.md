@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the btosports.com privacy policy that was archived on 2005-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050303171240id_/http%3A//www.btosports.com/Pages/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btosports.com privacy policy that was archived on 2006-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060612201625id_/http%3A//www.btosports.com/cs/privacy) for the most accurate reproduction.*
 
-# BTO Sports - Privacy Policy
+# Privacy Policy - BTO SPORTS - Motocross Gear, Parts and Accessories - Shop BTO Sports online for all of your motocros
 
   
 Privacy Policy  
