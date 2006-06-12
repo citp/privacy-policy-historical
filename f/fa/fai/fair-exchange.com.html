@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the fair-exchange.com privacy policy that was archived on 2005-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051231042038id_/http%3A//www.fair-exchange.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fair-exchange.com privacy policy that was archived on 2006-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060613013254id_/http%3A//www.fair-exchange.com/privacy.asp) for the most accurate reproduction.-->
 
-<html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta name="keywords" content="Precision Data Ventures, TheDailyDraw, Prize Cash Draw, Direct, Marketing, Permission, Dynamic, Targeted, Consumer, Data">
 <meta name="description" content="Precision Data Ventures is a new permission marketing company dedicated to the development of highly targeted sales and marketing messages and the elimination of junk e-mails.">
 <meta name="Client" content="PDV Limited">
@@ -9,129 +9,250 @@
 <meta name="robots" content="FOLLOW,INDEX">
 <meta http-equiv="Content-Language" content="en-us">
 <meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
-<link rel="stylesheet" type="text/css" href="include/pdvltd.css">
-<link rel="stylesheet" type="text/css" href="../include/pdvltd.css">
-<title>Fair Exchange</title>
-  
+<script language="JavaScript" src="/pdvtier/script/validation.js"></script>
+<link rel="stylesheet" type="text/css" href="style/fex.css">
+<title>Fair-Exchange.com - Privacy Policy</title>
+
+<script language="javascript">
+function onclick_login()
+{
+	var msg="";
+	var focusObj;
+	
+	with(document.loginform)
+	{
+		if( email_address.value.length == 0 )
+		{
+			msg += "Please enter your email address\n";
+			if( !focusObj )
+				focusObj = email_address;
+		}
+		else if( !isEmail(email_address.value) )
+		{
+			msg += "Please enter a valid email address\n";
+			if( !focusObj )
+				focusObj = email_address;
+		}
+		
+		if( password.value.length == 0 )
+		{
+			msg += "Please enter your password\n";
+			if( !focusObj )
+				focusObj = password;
+		}
+		
+		if(msg.length > 0 )
+		{
+			focusObj.focus();
+			alert(msg);
+		}
+		else
+		{
+			return true;
+		}
+	}
+	
+	return false;
+}
+
+function onclick_reminder()
+{
+	h = 220;
+	w = 480;
+	mTop = (window.screen.height-h)/2;
+	mLeft = (window.screen.width-w)/2;
+	
+	mywin = window.open('popups/emailreminder.asp?SID=0','Thanks','WIDTH=' + w + ',height=' + h + ',top=' + mTop + ',left=' + mLeft );
+	mywin.focus();
+}
+
+function setemailfocus()
+{
+	var mywin;
+	var h = 295;
+	var w = 470;
+	var mTop = (window.screen.height-h)/2;
+	var mLeft = (window.screen.width-w)/2;
+		
+
+}
+</script>
+
+<style>
+/* HOMEPAGE STYLES */
+.global_nav {
+	background-image:url(http://imlb.fair-exchange.com/v2/global_bluenav_bg.gif);
+}
+.global_ftr {
+	background-image:url(http://imlb.fair-exchange.com/v2/global_ftr_bg.gif);
+}
+.global_cntnt_hldr .text {
+	background-color:#19578a;
+}
+</style>
+
 
 </head>
-<body bgcolor="#000000" text="#ffffff" leftmargin="0" topmargin="0" valign="top" align="center">
-<table width="758" border="0" cellpadding="0" cellspacing="0" valign="top" align="center">
-	<tbody><tr height="25" colspan="3">
-		<td>&nbsp;</td>
-	</tr>
-
-	<tr>
-		<td width="191"><img src="images/fe_topleft.gif" width="191" height="178"></td>
-		<td width="451"><img src="images/fe_topcenter.gif" width="451" height="178"></td>
-		<td width="116"><img src="images/fe_topright.gif" width="116" height="178"></td>
-	</tr>
-
-	<tr>
-		<td width="191" valign="top" bgcolor="#003366">
-			<table width="191" border="0" cellspacing="0" cellpadding="0" valign="top" bgcolor="#003366">
+<body onload="setemailfocus();" style="background-image:url(http://imlb.fair-exchange.com/v2/global_camoblue_bg.gif);">
+<div align="center">
 
 
+	<table cellpadding="0" cellspacing="0" class="global_hdr">
+		<tbody><tr>
+			<td class="leftcol" style="background-image:url(http://imlb.fair-exchange.com/v2/home_global_title.gif);">
+				<a tabindex="-1" onmouseover="self.status='Home'; return true;" onmouseout="self.status=''; return true;" href="home.asp?SID=0"><img src="http://imlb.fair-exchange.com/v2/global_nav_home.gif" alt="HOME" width="32" height="9" border="0"></a>&nbsp;
+				<a tabindex="-1" onmouseover="self.status='Spend Points'; return true;" onmouseout="self.status=''; return true;" href="rewards.asp?SID=0"><img src="http://imlb.fair-exchange.com/v2/global_nav_spend.gif" alt="SPEND POINTS" width="73" height="9" border="0"></a>&nbsp;
+				<a tabindex="-1" onmouseover="self.status='About Us'; return true;" onmouseout="self.status=''; return true;" href="about_us.asp?SID=0"><img src="http://imlb.fair-exchange.com/v2/global_nav_about.gif" alt="ABOUT US" width="51" height="9" border="0"></a>
+			</td>
+			<td class="rightcol">
 
-			<!--Navigation Bar-->
-			<tbody><tr><td width="191" valign="top"><a href="home.asp"><img src="images/fe_nav_1.gif" width="191" height="22" border="0"></a></td></tr>
-			<tr><td width="191" valign="top"><img src="images/fe_nav_2.gif" width="191" height="22" border="0"></td></tr>
-			<tr><td width="191" valign="top"><a href="email.asp"><img src="images/fe_nav_3.gif" width="191" height="22" border="0"></a></td></tr>
-			<tr><td width="191" valign="top"><a href="about_us.asp"><img src="images/fe_nav_4.gif" width="191" height="22" border="0"></a></td></tr>
+				<table cellpadding="0" cellspacing="0" class="global_login" style="background-image:url(http://imlb.fair-exchange.com/v2/global_login_bg.gif);">
+					<form action="services/login.asp" name="loginform" method="post" onsubmit="return onclick_login()"></form>
+					<tbody><tr>
+						<td style="padding-left:40px; height:94px;">
+							<div style="padding-top:5px;">
+								Email address<br>
+								<input type="text" name="email_address" size="18" style="margin-top:2px;">
+							</div>
+							<div style="padding-top:5px;">Password &nbsp;&nbsp;&nbsp;&nbsp;
+								<a href="javascript:onclick_reminder();" style="color:#FFFFFF;">Reminder?</a><br>
+								<input type="password" name="password" size="18" style="margin-top:2px;">
+								<input type="hidden" name="ERRRED" value="home.asp">
+								<input type="hidden" name="RED" value="home.asp">
+								<input type="hidden" name="game_id" value="-1">
+								<input type="hidden" name="NewPlayerRedirection" value="home.asp">
+								<input type="hidden" name="SOURCE" value="">
+							</div>
+						</td>
+						<td style="height:94px;">
+							<div style="padding-top:61px; padding-right:15px;">
+								<input type="image" src="http://imlb.fair-exchange.com/v2/global_login_go.gif" alt="GO" width="32" height="27" border="0">
+							</div>
+						</td>
+					</tr>
+					
+				</tbody></table>
+
+			</td>
+		</tr>
+	</tbody></table>
+
+	<table cellpadding="0" cellspacing="0" class="global_cntnt_hldr">
+
+	<tbody><tr>
+		<td class="global_bdr" rowspan="3"></td>
+		<td colspan="3"><img src="http://imlb.fair-exchange.com/v2/pandp_hdr.gif" alt="Terms and Conditions" width="799" height="49" border="0"><br>
+			<div class="text">
+				<p><b>PDV Ltd takes the protection of your privacy very seriously</b></p>
+				<p><b>In short</b></p>
+				<p>We promise our users that we will: <br>
+				   </p><ul>
+						<li>Guard your personal privacy</li> 
+						<li>Protect any personal data that we gather</li> 
+						<li>Adhere to the principals of permission marketing</li> 
+						<li>Be clear about how we use information</li> 
+						<li>Deal promptly and honestly with any complaints about our practices</li> 
+						<li>Be a champion of consumer data protection</li> 
+						<li>Endeavour to provide you with a highly personalised experience</li>
+					</ul>
+				<p>And that we will not: <br>
+				   </p><ul>
+						<li>Send you offers without your permission.</li>
+						<li>Release personal information about you unless it is a) to a third party Agent who works with us to deliver our service to you, or b) with your permission.</li>
+					</ul>
+				<p><b>In a little more detail:</b></p>
+
+		<p><u>General</u><br><br>
+		The Fair Exchange programme and all of the sites within it are operated by PDV Limited, Monmouth House, 40 Artillery Lane, London E1 7LS.<br><br>
+		PDV Ltd has developed this privacy policy to demonstrate our firm commitment to our users’ personal privacy. It outlines the types of information that we gather and our practices for how we use it. PDV Ltd is dedicated to continually improving our service and providing you with an experience tailored to your interests and requirements. We gather information when you register such as contact information (i.e. name and email address) and demographic information (like address or age). We use this information as well as other profile data gathered during your use of our games to build a picture of your interests and preferences. This profile allows us to confirm your entries, filter the advertising that we show you and sometimes develop specific offerings based on your personal preferences. <br><br>
+		We are registered under the Data Protection Act (Registration Z720633X) and we adhere to the Privacy and Electronic Communications Directive. We are members of the Direct Marketing Association (DMA).</p>
+
+		<p><u>Permission and Unsubscribing</u><br><br>
+		We only show you advertiser messages when you give us permission to do so.  When you first register with us you agree to receive e-mails and you may also choose to receive postal direct mail and mobile phone offers.<br><br>
+		You can withdraw these permissions AT ANY TIME by either a) going to your 'My Profile' page within any of our sites and ticking the appropriate 'No' box(es) or b) using the unsubscribe link from ANY of the messages that we send you.</p>
+
+		<p><u>Security</u><br><br>
+		Under the UK's Data Protection regime, we are required to have effective security measures in place to ensure that no one is able to gain unauthorised access to any personal information that we hold about you. We may need to require proof of identity before we are able to disclose any information covered by the relevant legislation to you. If we change or amend our privacy policy, we will notify you by posting changes on the relevant site.</p>
+
+		<p><u>Handling Your Information</u><br><br>
+		We work with advertisers to deliver targeted advertising to you, but we generally do this without sharing your personal information with them. They let us know the kind of audience they want to reach and provide us with the advertising material for us to deliver. Consequently, your personal information is not and cannot be accessed by advertisers without your permission.<br><br>
+		In specific instances, where advertisers wish to collect your personal data (e.g. on prize draw questionnaires), we pass it on to them ONLY after you have given us your permission to do so. We make this option and process very clear to you at the time that you are asked to provide the information.<br><br>
+		In some instances we may pass your information to other companies involved in its processing but in these cases such companies are contracted to us and are under strict restrictions on the secure handling of your information.  Where such a company is outside of the European Economic Area, we have in place a contractual agreement that commits such a company to a level of data protection probity acceptable within EU requirements. In all instances in which your information is processed by companies contracted to PDV, we remain responsible throughout.<br><br>
+		We may also disclose certain statistics on an aggregated and anonymous basis to our partners and other carefully selected companies so that we and they can provide you with offers and services tailored to your interests and requirements.<br><br>
+		You can view the majority of the information that we hold about you simply by looking at your 'My Profile' page within the site. You can also request a copy of the information that we hold about you by mailing us – <a href="mailto:subjectaccess@pdvltd.com"><u><font class="PrivacyLink">subjectaccess@pdvltd.com</font></u></a> and specifying your name and the e-mail address with which you are registered with us.  We will provide the information within 40 days.<br><br>
+
+		</p><p><u>Cookies, Tags and Web Beacons</u><br><br>
+
+		Cookies are small files of letters and numbers downloaded onto your computer when you access certain websites.  Cookies unlock a computer’s memory allowing sites to recognise users when they return to a site. Like a key, a cookie itself does not contain information but when it is read by a browser it can help a website identify you and your requirements.<br><br>  
+		We use cookies as a means of limiting the number of times that you will see a particular ad (a process called frequency capping).  We do this to try and ensure that you see the best range of ads possible for your interests.   <br><br>
+		We also use 'web beacons' as a means of tracking whether or not you open your e-mails from us.  The 'open' information is used to assess whether or not the message has been effective both for you and for our advertisers.  The information is retained and used by us in deciding the most appropriate offers to be made to you in future.<br><br>
+		In some cases, we also track the pages visited when you click through from our site to an advertiser's site. Note that this information is a) ANONYMOUS (no personal information is released nor can it be derived from the coded profile information that is released) and b) restricted only to the sites of selected advertisers; we do not track (by this or any other method) pages you visit on the general internet. <br><br>
+		Some of the websites that we advertise with require us to use cookies or action tags (also known as single pixel gifs, web beacons or IMG tags). These action tags provide these websites with the aggregate number of registrations that they have provided us with. This allows them to evaluate the effectiveness of their advertising. In some instances (e.g. reward schemes or affiliate networks) we will pass back your email address to such companies as part of this assessment and the provision of rewards for you. The specific details should be explained in the 'privacy policy' or 'conditions of use' pages of these sites. None of your other personal details are passed back.<br><br>
+		Some of the websites that advertise with us via the game and via e-mails may use cookies within their sites.  We will tell you about these before you make the choice to visit their site.<br><br>
+		You may decide how you wish cookies to be used or you may wish to reject them. You can make and action this choice within your computer and you can easily delete cookies that have been installed in the cookie folder of your browser. For example if you are using Microsoft Windows Explorer: <br><br>
+		</p><blockquote><p>
+		Open 'Windows Explorer' <br>
+		Click on the 'Search' button on the tool bar <br>
+		Type "cookie" into the search box for 'Folders and Files' <br>
+		Select 'My Computer' in the 'Look In' box <br>
+		Click 'Search Now' <br>
+		Double click on the folders that are found <br>
+		'Select' any cookie file <br>
+		Hit the 'Delete' button on your keyboard <br>
+		</p></blockquote>
+		<p></p>
 
 
-			<tr><td width="191" valign="top"><a href="http://www.thedailydraw.com" target="_blank"><img src="images/fe_dd.gif" width="191" height="92" border="0"></a></td></tr>
-			<tr><td width="191" valign="top"><a href="http://www.chooseaprize.com" target="_blank"><img src="images/fe_cap.gif" width="191" height="92" border="0"></a></td></tr>
-			<tr><td width="191" valign="top"><a href="http://www.strikermillion.com" target="_blank"><img src="images/fe_st.gif" width="191" height="92" border="0"></a></td></tr>
-			<tr><td width="191" valign="top"><a href="http://www.scratchandmatch.com" target="_blank"><img src="images/fe_sam.gif" width="191" height="92" border="0"></a></td></tr>
-			<tr><td width="191" valign="top"><a href="http://www.prizetag.com" target="_blank"><img src="images/fe_tag.gif" width="191" height="92" border="0"></a></td></tr>
-			<tr><td width="191" valign="top"><a href="http://www.fruitillion.com" target="_blank"><img src="images/fe_fru.gif" width="191" height="92" border="0"></a></td></tr>
-
-		</tbody></table>
-	</td>
-	<td width="451" valign="top" bgcolor="#003366">
-		<img src="images/fe_title_pp.gif" width="451" height="77">
-
-
-
-
-		<p><b>PDV Ltd takes the protection of your privacy very seriously</b></p>
-		<p><b>In short</b></p>
-		<p>We promise our users that we will: <br>
-		   </p><ul>
-				<li>Guard your personal privacy</li> 
-				<li>Protect any personal data that we gather</li> 
-				<li>Adhere to the principals of permission marketing</li> 
-				<li>Be clear about how we use information</li> 
-				<li>Deal promptly and honestly with any complaints about our practices</li> 
-				<li>Be a champion of consumer data protection</li> 
-				<li>Endeavour to provide you with a highly personalised experience</li>
-			</ul>
-		<p>And that we will not: <br>
-		   </p><ul>
-				<li>Send you offers without your permission.</li>
-				<li>Release personal information about you unless it is a) to a third party Agent who works with us to deliver our service to you, or b) with your permission.</li>
-			</ul>
-		<p><b>In a little more detail:</b></p>
-
-<p><u>General</u><br><br>
-The Fair Exchange programme and all of the sites within it are operated by PDV Limited, Monmouth House, 40 Artillery Lane, London E1 7LS.<br><br>
-PDV Ltd has developed this privacy policy to demonstrate our firm commitment to our users’ personal privacy. It outlines the types of information that we gather and our practices for how we use it. PDV Ltd is dedicated to continually improving our service and providing you with an experience tailored to your interests and requirements. We gather information when you register such as contact information (i.e. name and email address) and demographic information (like address or age). We use this information as well as other profile data gathered during your use of our games to build a picture of your interests and preferences. This profile allows us to confirm your entries, filter the advertising that we show you and sometimes develop specific offerings based on your personal preferences. <br><br>
-We are registered under the Data Protection Act (Registration Z720633X) and we adhere to the Privacy and Electronic Communications Directive. We are members of the Direct Marketing Association (DMA).</p>
-
-<p><u>Permission and Unsubscribing</u><br><br>
-We only show you advertiser messages when you give us permission to do so.  When you first register with us you agree to receive e-mails and you may also choose to receive postal direct mail and mobile phone offers.<br><br>
-You can withdraw these permissions AT ANY TIME by either a) going to your 'My Profile' page within any of our sites and ticking the appropriate 'No' box(es) or b) using the unsubscribe link from ANY of the messages that we send you.</p>
-
-<p><u>Security</u><br><br>
-Under the UK's Data Protection regime, we are required to have effective security measures in place to ensure that no one is able to gain unauthorised access to any personal information that we hold about you. We may need to require proof of identity before we are able to disclose any information covered by the relevant legislation to you. If we change or amend our privacy policy, we will notify you by posting changes on the relevant site.</p>
-
-<p><u>Handling Your Information</u><br><br>
-We work with advertisers to deliver targeted advertising to you, but we generally do this without sharing your personal information with them. They let us know the kind of audience they want to reach and provide us with the advertising material for us to deliver. Consequently, your personal information is not and cannot be accessed by advertisers without your permission.<br><br>
-In specific instances, where advertisers wish to collect your personal data (e.g. on prize draw questionnaires), we pass it on to them ONLY after you have given us your permission to do so. We make this option and process very clear to you at the time that you are asked to provide the information.<br><br>
-In some instances we may pass your information to other companies involved in its processing but in these cases such companies are contracted to us and are under strict restrictions on the secure handling of your information.  Where such a company is outside of the European Economic Area, we have in place a contractual agreement that commits such a company to a level of data protection probity acceptable within EU requirements. In all instances in which your information is processed by companies contracted to PDV, we remain responsible throughout.<br><br>
-We may also disclose certain statistics on an aggregated and anonymous basis to our partners and other carefully selected companies so that we and they can provide you with offers and services tailored to your interests and requirements.<br><br>
-You can view the majority of the information that we hold about you simply by looking at your 'My Profile' page within the site. You can also request a copy of the information that we hold about you by mailing us – <a href="mailto:subjectaccess@pdvltd.com"><u><font class="PrivacyLink">subjectaccess@pdvltd.com</font></u></a> and specifying your name and the e-mail address with which you are registered with us.  We will provide the information within 40 days.<br><br>
-
-</p><p><u>Cookies, Tags and Web Beacons</u><br><br>
-
-Cookies are small files of letters and numbers downloaded onto your computer when you access certain websites.  Cookies unlock a computer’s memory allowing sites to recognise users when they return to a site. Like a key, a cookie itself does not contain information but when it is read by a browser it can help a website identify you and your requirements.<br><br>  
-We use cookies as a means of limiting the number of times that you will see a particular ad (a process called frequency capping).  We do this to try and ensure that you see the best range of ads possible for your interests.   <br><br>
-We also use 'web beacons' as a means of tracking whether or not you open your e-mails from us.  The 'open' information is used to assess whether or not the message has been effective both for you and for our advertisers.  The information is retained and used by us in deciding the most appropriate offers to be made to you in future.<br><br>
-In some cases, we also track the pages visited when you click through from our site to an advertiser's site. Note that this information is a) ANONYMOUS (no personal information is released nor can it be derived from the coded profile information that is released) and b) restricted only to the sites of selected advertisers; we do not track (by this or any other method) pages you visit on the general internet. <br><br>
-Some of the websites that we advertise with require us to use cookies or action tags (also known as single pixel gifs, web beacons or IMG tags). These action tags provide these websites with the aggregate number of registrations that they have provided us with. This allows them to evaluate the effectiveness of their advertising. In some instances (e.g. reward schemes or affiliate networks) we will pass back your email address to such companies as part of this assessment and the provision of rewards for you. The specific details should be explained in the 'privacy policy' or 'conditions of use' pages of these sites. None of your other personal details are passed back.<br><br>
-Some of the websites that advertise with us via the game and via e-mails may use cookies within their sites.  We will tell you about these before you make the choice to visit their site.<br><br>
-You may decide how you wish cookies to be used or you may wish to reject them. You can make and action this choice within your computer and you can easily delete cookies that have been installed in the cookie folder of your browser. For example if you are using Microsoft Windows Explorer: <br><br>
-</p><blockquote><p>
-Open 'Windows Explorer' <br>
-Click on the 'Search' button on the tool bar <br>
-Type "cookie" into the search box for 'Folders and Files' <br>
-Select 'My Computer' in the 'Look In' box <br>
-Click 'Search Now' <br>
-Double click on the folders that are found <br>
-'Select' any cookie file <br>
-Hit the 'Delete' button on your keyboard <br>
-</p></blockquote>
-<p></p>
-
-
-<p>If you are not using Microsoft Windows Explorer, then you should select "cookies" in the "Help" function for information on where to find your cookie folder.</p>
-<p>If you disable cookies it will mean that we are unable to limit the number of times that you see an ad within our games but it will NOT restrict your participation or your chances of winning.</p>
-
-
-			<img src="images/fe_center_bottom.gif" width="451" height="78">
+		<p>If you are not using Microsoft Windows Explorer, then you should select "cookies" in the "Help" function for information on where to find your cookie folder.</p>
+		<p>If you disable cookies it will mean that we are unable to limit the number of times that you see an ad within our games but it will NOT restrict your participation or your chances of winning.</p>
+			</div>
 		</td>
-		<td width="116" bgcolor="#003366">&nbsp;</td>
+		<td class="global_bdr" rowspan="3"></td>
 	</tr>
 	<tr>
-	  <td colspan="3" width="758"><img src="images/fe_bottom.gif" width="758" height="25"></td>
+		<td colspan="3" width="799" height="1" style="background-image:url(http://imlb.fair-exchange.com/v2/global_dotdiv.gif);"></td>
 	</tr>
-		
-	<tr height="25" colspan="3">
-		<td>&nbsp;</td>
+	<tr>
+		<td style="background-image:url(http://imlb.fair-exchange.com/v2/global_wtwc_bg.jpg); background-repeat:no-repeat; height:180px; width:399px;">
+			<div style="height:180px; width:399px;">
+				<div style="padding-top:100px; padding-left:20px; padding-right:29px; width:200px; float:left;">
+					Play our Win the World Cup
+					scratch card game and win a
+					stunning 42 inch Plasma TV!
+					Plus loads of other great prizes,
+					all for FREE!
+				</div>
+				
+				<div style="padding-top:135px;">
+					<a tabindex="-1" onmouseover="self.status='WinTheWorldCup'; return true;" onmouseout="self.status=''; return true;" href="http://www.wintheworldcup.com/registration/singleregister.asp?SID=0" target="_blank"><img src="http://imlb.fair-exchange.com/v2/wtwc_playnow.gif" alt="Play Now" width="108" height="33" border="0"></a>
+				</div>
+			</div>
+		</td>
+		<td class="global_bdr"></td>
+		<td style="background-image:url(http://imlb.fair-exchange.com/v2/global_wafp_hdr.gif); background-repeat:no-repeat; background-color:#ff9e31; width:399px;">
+			<div style="height:180px; width:399px;">
+				<div style="padding-top:60px; padding-left:15px; padding-right:15px;">
+					<p style="margin-bottom:10px;">Fair Points is our Fair Exchange loyalty scheme.</p>
+					In return for you giving us data by entering competitions and agreeing to receive messages
+					from our partners we'll give you Fair Points every time you enter a competition or respond to an advertiser's email.
+				</div>
+				<div style="padding-left:230px;">
+					<a tabindex="-1" onmouseover="self.status='FairPoints'; return true;" onmouseout="self.status=''; return true;" href="fairpoints.asp?SID=0"><img src="http://imlb.fair-exchange.com/v2/global_fpbtn.gif" alt="Find out more" width="109" height="33" border="0"></a>
+				</div>
+			</div>
+		</td>
 	</tr>
-
 </tbody></table>
+
+
+	<div class="global_ftr" style="background-image:url(http://imlb.fair-exchange.com/v2/global_ftr_bg.gif);">
+		<ul id="navlist">
+			<li><a tabindex="-1" onmouseover="self.status='Privacy Policy'; return true;" onmouseout="self.status=''; return true;" href="privacy.asp?SID=0">Privacy Policy</a></li>
+			<li>:</li>
+			<li><a tabindex="-1" onmouseover="self.status='Advertisers'; return true;" onmouseout="self.status=''; return true;" href="http://www.pdvltd.com/advertisers/mediapack.asp?SID=0" target="_blank">Advertisers</a></li>
+		</ul>
+	</div>
+</div>
 
 
 </body></html>
