@@ -1,759 +1,1031 @@
-<!--The following is the downloaded HTML source of the armystudyguide.com privacy policy that was archived on 2005-09-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050923173523id_/http%3A//www.armystudyguide.com/admin/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the armystudyguide.com privacy policy that was archived on 2006-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060612212142id_/http%3A//www.armystudyguide.com/content/admin_section/privacy-policy.shtml) for the most accurate reproduction.-->
 
-<html><head>
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
-<meta name="ProgId" content="FrontPage.Editor.Document">
-<meta name="description" content=".">
-<meta name="keywords" content=".">
-<title>ArmyStudyGuide.com's Privacy Policy</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/2000/REC-xhtml1-20000126/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>Privacy Policy (ArmyStudyGuide.com)</title>
+	<link rel="stylesheet" href="http://www.armystudyguide.com/content/bmStyles.css" type="text/css">
+		<style type="text/css"><!--
+		@import "http://www.armystudyguide.com/content/bmSophStyles.css";
+	--></style>
+	<meta name="robots" content="index,follow,archive">
+	<meta name="description" content="&nbsp;">
+	<meta name="copyright" content="Copyright 1999 - 2006, ArmyStudyGuide.com. All rights reserved.">
+	<script src="http://www.armystudyguide.com/content/BM1click.js" type="text/javascript" language="JavaScript" charset="utf-8"></script>
+	<script src="http://www.armystudyguide.com/content/admin_section/bmNav.js" type="text/javascript" language="Javascript"></script>
+	<script src="http://www.armystudyguide.com/content/bmMainNav.js" type="text/javascript" language="Javascript"></script>	<style type="text/css">
 
-<style><!--
-A {text-decoration: none;}
-A:hover {text-decoration: underline;}
-TD {font: verdana; font-size: 8pt;}
-.BIGNUMBERS {font-size: 18pt}
-.SMALLCAPS {font-size: 16pt}
---></style>
+.showstate{ /*Definition for state toggling image */
+cursor:hand;
+cursor:pointer;
+float: right;
+margin-top: 2px;
+margin-right: 3px;
+}
 
+.headers{
+width: 100%;
+font-size: 120%;
+font-weight: bold;
+border: 1px solid #cccccc;
+background-color: #e6e6e6;
+}
+
+.switchcontent{
+border-left:1px solid #cccccc; border-right:1px solid #cccccc; border-top:0px solid #cccccc; border-bottom:1px solid #cccccc; width: 100%;
+
+}
+
+</style>
+
+<script type="text/javascript">
+
+/***********************************************
+* Switch Content script II- © Dynamic Drive (www.dynamicdrive.com)
+* This notice must stay intact for legal use. Last updated April 2nd, 2005.
+* Visit http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+var enablepersist="on" //Enable saving state of content structure using session cookies? (on/off)
+var memoryduration="7" //persistence in # of days
+
+var contractsymbol='http://www.armystudyguide.com/images/minus.gif' //Path to image to represent contract state.
+var expandsymbol='http://www.armystudyguide.com/images/plus.gif' //Path to image to represent expand state.
+
+/////No need to edit beyond here //////////////////////////
+
+function getElementbyClass(rootobj, classname){
+var temparray=new Array()
+var inc=0
+var rootlength=rootobj.length
+for (i=0; i<rootlength; i++){
+if (rootobj[i].className==classname)
+temparray[inc++]=rootobj[i]
+}
+return temparray
+}
+
+function sweeptoggle(ec){
+var inc=0
+while (ccollect[inc]){
+ccollect[inc].style.display=(ec=="contract")? "none" : ""
+inc++
+}
+revivestatus()
+}
+
+
+function expandcontent(curobj, cid){
+if (ccollect.length>0){
+document.getElementById(cid).style.display=(document.getElementById(cid).style.display!="none")? "none" : ""
+curobj.src=(document.getElementById(cid).style.display=="none")? expandsymbol : contractsymbol
+}
+}
+
+function revivecontent(){
+selectedItem=getselectedItem()
+selectedComponents=selectedItem.split("|")
+for (i=0; i<selectedComponents.length-1; i++)
+document.getElementById(selectedComponents[i]).style.display="none"
+}
+
+function revivestatus(){
+var inc=0
+while (statecollect[inc]){
+if (ccollect[inc].style.display=="none")
+statecollect[inc].src=expandsymbol
+else
+statecollect[inc].src=contractsymbol
+inc++
+}
+}
+
+function get_cookie(Name) { 
+var search = Name + "="
+var returnvalue = "";
+if (document.cookie.length > 0) {
+offset = document.cookie.indexOf(search)
+if (offset != -1) { 
+offset += search.length
+end = document.cookie.indexOf(";", offset);
+if (end == -1) end = document.cookie.length;
+returnvalue=unescape(document.cookie.substring(offset, end))
+}
+}
+return returnvalue;
+}
+
+function getselectedItem(){
+if (get_cookie(window.location.pathname) != ""){
+selectedItem=get_cookie(window.location.pathname)
+return selectedItem
+}
+else
+return ""
+}
+
+function saveswitchstate(){
+var inc=0, selectedItem=""
+while (ccollect[inc]){
+if (ccollect[inc].style.display=="none")
+selectedItem+=ccollect[inc].id+"|"
+inc++
+}
+if (get_cookie(window.location.pathname)!=selectedItem){ //only update cookie if current states differ from cookie's
+var expireDate = new Date()
+expireDate.setDate(expireDate.getDate()+parseInt(memoryduration))
+document.cookie = window.location.pathname+"="+selectedItem+";path=/;expires=" + expireDate.toGMTString()
+}
+}
+
+function do_onload(){
+uniqueidn=window.location.pathname+"firsttimeload"
+var alltags=document.all? document.all : document.getElementsByTagName("*")
+ccollect=getElementbyClass(alltags, "switchcontent")
+statecollect=getElementbyClass(alltags, "showstate")
+if (enablepersist=="on" && get_cookie(window.location.pathname)!="" && ccollect.length>0)
+revivecontent()
+if (ccollect.length>0 && statecollect.length>0)
+revivestatus()
+}
+
+if (window.addEventListener)
+window.addEventListener("load", do_onload, false)
+else if (window.attachEvent)
+window.attachEvent("onload", do_onload)
+else if (document.getElementById)
+window.onload=do_onload
+
+if (enablepersist=="on" && document.getElementById)
+window.onunload=saveswitchstate
+
+</script>
 </head>
 
-<body link="#000000" vlink="#000000" alink="#FF0000" topmargin="0" leftmargin="0">
+<body>
+<div style="text-align:right"><font face="Verdana" size="1" color="#808080">Providing a FREE 
+                    U.S. Army Board Study Guide and resources for Army Soldier and 
+                    NCO Boards and SGT / SSG Promotion Boards since 1999
+                    </font></div><!-- FASTCLICK.COM POP-UNDER CODE v1.8 for armystudyguide.com (12 hour) -->
+<script language="javascript"><!--                                 
+var dc=document; var date_ob=new Date();
+dc.cookie='h2=o; path=/;';var bust=date_ob.getSeconds();
+if(dc.cookie.indexOf('e=llo') <= 0 && dc.cookie.indexOf('2=o') > 0){
+dc.write('<scr'+'ipt language="javascript" src="http://media.fastclick.net');
+dc.write('/w/pop.cgi?sid=5836&m=2&tp=2&v=1.8&c='+bust+'"></scr'+'ipt>');
+date_ob.setTime(date_ob.getTime()+43200000);
+dc.cookie='he=llo; path=/; expires='+ date_ob.toGMTString();} // -->
+</script><script language="javascript" src="http://media.fastclick.net/w/pop.cgi?sid=5836&amp;m=2&amp;tp=2&amp;v=1.8&amp;c=6"></script>                                                          
+<!-- FASTCLICK.COM POP-UNDER CODE v1.8 for armystudyguide.com -->
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1">
+  <tbody><tr>
+    <td width="100%">
+    <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber2">
+      <tbody><tr>
+        <td width="1%">
+        <a href="http://www.armystudyguide.com/">
+        <img border="0" src="http://www.armystudyguide.com/images/asgtoptemp.GIF" hspace="0" width="247" height="136" vspace="2"></a></td>
+        <td width="99%">
+<div align="center"><!-- BEGIN RICH-MEDIA NETWORK CODE -->
+<script language="JavaScript">
+rnum=Math.round(Math.random() * 100000); ts=String.fromCharCode(60);
+if (window.self != window.top) { nf='' } else { nf='NF/' };
 
-<div align="center">
-  <center>
-  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1">
-    <tbody><tr>
-      <td width="100%">
-      <!--webbot bot="Include" U-Include="../include/ng-top.htm" TAG="BODY" startspan -->
+document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad12861a.cgi/v=2.1S/sz=468x60A|728x90A/'+rnum+'/NI/'+nf+'RETURN-CODE/JS/">'+ts+'/script>');
 
-<div align="center">
-  <center>
-  <table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber5">
-    <tbody><tr>
-      <td width="100%" bgcolor="#00319c">
-      <div align="center">
-        <center>
-        <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber6">
+  </script><script src="http://www.burstnet.com/cgi-bin/ads/ad12861a.cgi/v=2.1S/sz=468x60A|728x90A/29928/NI/NF/RETURN-CODE/JS/"></script><noscript>
+  <a href="http://www.burstnet.com/ads/ad12861a-map.cgi/ns/v=2.1S/sz=468x60A|728x90A/" target="_top">
+<img src="http://www.burstnet.com/cgi-bin/ads/ad12861a.cgi/ns/v=2.1S/sz=468x60A|728x90A/" border="0" alt="Click Here"></a></noscript>
+<!-- END BURST CODE -->
+</div>
+</td>
+      </tr>
+    </tbody></table>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%">
+    <table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber3" bgcolor="#396B10">
+      <tbody><tr>
+        <td width="100%">
+        <table border="0" cellspacing="1" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber4">
           <tbody><tr>
-            <td width="100%" bgcolor="#000000">
-            <p align="center">
-            <font face="Verdana" size="1" color="#FFFFFF"><a href="#top">
-            <font color="#000000">.<!-- FASTCLICK.COM POP-UNDER CODE v1.7 for armystudyguide.com -->
-<script language="javascript"><!--
-var doc=document;  var url=escape(doc.location.href); var date_ob=new Date();
-doc.cookie='h2=o; path=/;';var bust=date_ob.getSeconds();
-if(doc.cookie.indexOf('e=llo') <= 0 && doc.cookie.indexOf('2=o') > 0){
-doc.write('<scr'+'ipt language="javascript" src="http://media.fastclick.net');
-doc.write('/w/pop.cgi?sid=5836&m=2&v=1.7&u='+url+'&c='+bust+'"></scr'+'ipt>');
-doc.cookie='he=llo; path=/;';} // -->
-</script>
-<!-- FASTCLICK.COM POP-UNDER CODE v1.7 for armystudyguide.com -->
-</font></a>ArmyStudyGuide.com has 
-            been online since 1999 providing a Free Online U.S. Army Board Study 
-            Guide for NCO Promotion Boards and Soldier and NCO Boards</font></p></td>
+            <td width="50%"><div align="left"><b><font color="#FFFFFF" size="4" face="Verdana">&nbsp;&nbsp; Admin</font></b></div></td>
+            <td width="50%"><div align="right"><b><font size="4" face="Verdana" color="#9FC27C">
+            Online Since 1999 &nbsp; </font></b></div></td>
           </tr>
-          <tr>
-            <td width="100%">
-            <div align="center">
-              <center>
-              <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber8">
+        </tbody></table>
+        </td>
+      </tr>
+    </tbody></table>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%">
+    <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber25">
+      <tbody><tr>
+        <td width="100%"><font face="Verdana" size="1">Please 
+        <a target="_blank" href="http://www.armystudyguide.com/content/admin_section/tell-a-friend-about-armys.shtml">recommend</a> our FREE 
+        Army Study Guide to another Soldier.</font></td>
+        <td width="1%"><a target="_blank" href="http://www.hooahradio.com"><img border="0" src="http://www.armystudyguide.com/images/hr-anim2.gif" width="167" height="15"></a></td>
+      </tr>
+    </tbody></table>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%"><font size="1">&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td width="100%">
+    <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber36">
+      <tbody><tr>
+        <td width="100%" valign="top">
+        <div align="left">
+          <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="99%" id="AutoNumber39">
+            <tbody><tr>
+              <td width="100%">
+              <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber40">
                 <tbody><tr>
-                  <td width="1%">
+                  <td width="1%" valign="top">
+                  <div align="left">
+                    <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="175" id="AutoNumber41">
+                      <tbody><tr>
+                        <td>
+                        <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber42">
+                          <tbody><tr>
+              <td>
+              <table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#CCCCCC" width="100%" id="AutoNumber57">
+                <tbody><tr>
+                  <td width="100%"><div align="left"><b>
+                    <font size="2" face="Verdana">Browse More In:</font></b></div><div align="center"><a href="http://www.armystudyguide.com/content/admin_section/index.shtml" class="bmParent">Admin</a></div></td>
+                </tr>
+              </tbody></table>
+              </td>
+                          </tr>
+                          <tr>
+              <td>
+              <font size="1">&nbsp;</font></td>
+                          </tr>
+                          <tr>
+              <td>
+              <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber9">
+                <tbody><tr>
+                  <td width="100%" height="28" background="http://www.armystudyguide.com/images/2006atopleft.JPG" valign="bottom">
+                  <table border="0" cellspacing="1" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber11">
+                    <tbody><tr>
+                      <td width="100%"><b>
+                      <font size="2" face="Verdana" color="#FFFFFF">&nbsp;Navigation</font></b></td>
+                    </tr>
+                  </tbody></table>
+                  </td>
+                </tr>
+                <tr>
+                  <td width="100%">
+                  <table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#346613" width="100%" id="AutoNumber10">
+                    <tbody><tr>
+                      <td width="100%">
+                      <table border="0" cellpadding="3" cellspacing="3" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber50">
+                        <tbody><tr>
+                          <td width="100%"><div align="left"><table width="160" border="0" cellspacing="0" cellpadding="0" summary="Site navigation links"><tbody><tr><td class="bmNavigation"> <a href="http://www.armystudyguide.com/" class="bmNavigation">Home</a> </td></tr><tr><td class="bmNavigation"> <a href="http://www.armystudyguide.com/content/army_board_study_guide_topics/index.shtml" class="bmNavigation">Study Guide Topics</a> </td></tr><tr><td class="bmNavigation"> <a href="http://community.armystudyguide.com/groupee" class="bmNavigation">Community</a> </td></tr><tr><td class="bmNavigation"> <a href="http://www.armystudyguide.com/content/portable_study_guide/index.shtml" class="bmNavigation">Portable Study Guide</a> </td></tr><tr><td class="bmNavigation"> <a href="http://www.armystudyguide.com/content/powerpoint/index.shtml" class="bmNavigation">Powerpoint</a> </td></tr><tr><td class="bmNavigation"> <a href="http://www.armystudyguide.com/content/cadence/index.shtml" class="bmNavigation">Cadence</a> </td></tr><tr><td class="bmNavigation"> <a href="http://www.armystudyguide.com/content/Prep_For_Basic_Training/index.shtml" class="bmNavigation">Prep for Basic</a> </td></tr><tr><td class="bmNavigation"> <a href="http://www.armystudyguide.com/content/SMCT_CTT_Tasks/index.shtml" class="bmNavigation">Common Tasks SMCT</a> </td></tr><tr><td class="bmNavigation"> <a href="http://www.armystudyguide.com/content/Promotion_point_cutoff_scores/index.shtml" class="bmNavigation">Promotion Points</a> </td></tr><tr><td class="bmNavigation"> <a href="http://www.armystudyguide.com/content/Leadersbook_information/index.shtml" class="bmNavigation">Leadersbook Info</a> </td></tr><tr><td class="bmNavigation"> <a href="http://www.armystudyguide.com/content/useful_files/index.shtml" class="bmNavigation">Useful Files</a> </td></tr><tr><td class="bmNavigation"> <a href="http://www.armystudyguide.com/content/news/index.shtml" class="bmNavigation">News</a> </td></tr><tr><td class="bmNavigation"> <a href="http://www.armystudyguide.com/content/Unit_history/index.shtml" class="bmNavigation">Unit History</a> </td></tr><tr><td class="bmNavigation"> <a href="http://www.armystudyguide.com/content/Military_Equipment_Information/index.shtml" class="bmNavigation">Equipment Information</a> </td></tr><tr><td class="bmNavigation"> <a href="http://www.armystudyguide.com/content/audie_murphy_study_guide/index.shtml" class="bmNavigation">Audie Murphy Club</a> </td></tr><tr><td class="bmNavigation"> <a href="http://www.armystudyguide.com/content/EFMB/index.shtml" class="bmNavigation">EFMB</a> </td></tr><tr><td class="bmNavigation"> <a href="http://www.armystudyguide.com/content/EIB/index.shtml" class="bmNavigation">EIB</a> </td></tr><tr><td class="bmNavigation"> <a href="http://www.armystudyguide.com/content/Drill_Sergeant_Resources/index.shtml" class="bmNavigation">Drill Sergeant</a> </td></tr><tr><td class="bmNavigation"> <a href="http://www.armystudyguide.com/content/recruiter_info/index.shtml" class="bmNavigation">Recruiter</a> </td></tr><tr><td class="bmNavigation"> <a href="http://www.armystudyguide.com/content/army_reenlistment_information/index.shtml" class="bmNavigation">Reenlistment Info</a> </td></tr><tr><td class="bmNavigation"> <a href="http://www.armystudyguide.com/content/MILPER_Messages_Archive/index.shtml" class="bmNavigation">MILPER Messages</a> </td></tr><tr><td class="bmNavigation"> <a href="http://www.armystudyguide.com/content/Quiz/index.shtml" class="bmNavigation">Quizzes</a> </td></tr><tr><td class="bmNavigation"> <a href="http://www.armystudyguide.com/content/portable_study_guide/Current_Portable_Study_Guide/us-army-board-preparation.shtml" class="bmNavigation">Board Prep Guide</a> </td></tr><tr><td class="bmNavigation"> <a href="http://www.armystudyguide.com/content/army_counseling/index.shtml" class="bmNavigation">Counseling Help</a> </td></tr></tbody></table></div></td>
+                        </tr>
+                      </tbody></table>
+                      </td>
+                    </tr>
+                  </tbody></table>
+                  </td>
+                </tr>
+                <tr>
+                  <td width="100%"><font size="1">&nbsp;</font></td>
+                </tr>
+                <tr>
+                  <td width="100%"><!-- BEGIN: Constant Contact Standard Email List Button -->
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td><img src="http://img.constantcontact.com/ui/images/visitor/bevel_tl_or.gif" width="6" height="6" alt=""></td>
+<td background="http://img.constantcontact.com/ui/images/visitor/bevel_bg_top_or.gif"> </td>
+<td><img src="http://img.constantcontact.com/ui/images/visitor/bevel_tr_or.gif" width="6" height="6" alt=""></td>
+</tr>
+<tr>
+<td background="http://img.constantcontact.com/ui/images/visitor/bevel_bg_left_or.gif"></td>
+<td bgcolor="#ff9900"><a href="http://ui.constantcontact.com/d.jsp?m=1101145461348&amp;p=oi" target="_blank" style="text-decoration:none; font-weight: bold;  font-family:Arial,Helvetica,sans-serif; font-size:10px; color:#000000;">
+Question A Day in your Email</a></td>
+<td background="http://img.constantcontact.com/ui/images/visitor/bevel_bg_right_or.gif"></td>
+</tr>
+<tr>
+<td><img src="http://img.constantcontact.com/ui/images/visitor/bevel_bl_or.gif" width="6" height="6" alt=""></td>
+<td background="http://img.constantcontact.com/ui/images/visitor/bevel_bg_bottom_or.gif"> </td>
+<td><img src="http://img.constantcontact.com/ui/images/visitor/bevel_br_or.gif" width="6" height="6" alt=""></td>
+</tr>
+</tbody></table>
+</div>
+<!-- END: Constant Contact Standard Email List Button --></td>
+                </tr>
+                <tr>
+                  <td width="100%"><font size="1">&nbsp;</font></td>
+                </tr>
+              </tbody></table>
+              </td>
+                          </tr>
+                          <tr>
+              <td>
+              <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber12">
+                <tbody><tr>
+                  <td width="100%" background="http://www.armystudyguide.com/images/2006atopleft.JPG" height="28" valign="bottom">
+                  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber52">
+                    <tbody><tr>
+                      <td width="100%"><b>
+                      <font size="2" face="Verdana" color="#FFFFFF">&nbsp;Sub Navigation</font></b></td>
+                    </tr>
+                  </tbody></table>
+                  </td>
+                </tr>
+                <tr>
+                  <td width="100%">
+                  <table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#396B10" width="100%" id="AutoNumber13">
+                    <tbody><tr>
+                      <td width="100%">
+                      <table border="0" cellpadding="3" cellspacing="3" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber51">
+                        <tbody><tr>
+                          <td width="100%"><div align="left"></div></td>
+                        </tr>
+                      </tbody></table>
+                      </td>
+                    </tr>
+                  </tbody></table>
+                  </td>
+                </tr>
+              </tbody></table>
+              </td>
+                          </tr>
+                          <tr>
+              <td>&nbsp;</td>
+                          </tr>
+                          <tr>
+              <td>
+              <table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#CCCCCC" width="100%" id="AutoNumber31">
+                <tbody><tr>
+                  <td width="100%">
+                  <table border="0" cellpadding="3" cellspacing="3" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber32">
+                    <tbody><tr>
+                      <td width="100%">
+                      <font size="2" face="Verdana">
+              <img border="0" src="http://www.armystudyguide.com/images/audio_icon6.gif" width="16" height="14">
+              </font><b><font size="2" face="Verdana">FREE Audio Version</font></b><font size="2" face="Verdana"><br>
+              of our Study Guide.&nbsp; Choose the sections you want to study [<a href="http://www.armystudyguide.com/content/portable_study_guide/Audio_Army_Board_Study_Guide_/index.shtml">Go</a>]<br>
+                      </font><font size="1" face="Verdana">&nbsp;<br>
+                      </font>
+                      <img border="0" src="http://www.armystudyguide.com/images/2006astar.gif" width="16" height="16"><b><font face="Verdana" size="2">
+                      <font color="#FF0000">August 01, 2006</font><br>
+                        </font></b><font face="Verdana" size="2">Something is 
+                      happening here on 01 Aug.&nbsp; It's Big! [</font><font face="Verdana" size="2" color="#FF0000"><a target="_blank" href="http://www.challengeandpassword.com/">Go</a></font><font face="Verdana" size="2">]<br>
+                      </font><font face="Verdana" size="1">&nbsp;<br>
+                      </font>
+<font size="2" face="Verdana"><b><img border="0" src="http://www.armystudyguide.com/images/disk-icon6.GIF" width="18" height="15">Download &amp; print<br>
+</b>the&nbsp;most recent full version of the FREE ArmyStudyGuide.com Study Guide&nbsp; [<a href="http://www.armystudyguide.com/content/portable_study_guide/index.shtml">Go</a>]</font></td>
+                    </tr>
+                  </tbody></table>
+                  </td>
+                </tr>
+              </tbody></table>
+              </td>
+                          </tr>
+                          <tr>
+              <td><font size="1">&nbsp;</font></td>
+                          </tr>
+                          <tr>
+              <td><a target="_blank" href="http://www.550cord.com">
+              <img border="0" src="http://www.armystudyguide.com/images/2006a550cord3.GIF" width="172" height="71"></a></td>
+                          </tr>
+                          <tr>
+              <td>&nbsp;</td>
+                          </tr>
+                        </tbody></table>
+                        </td>
+                      </tr>
+                    </tbody></table>
+                  </div>
+                  </td>
+                  <td width="99%" valign="top">
+                  <div align="right">
+                    <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="98%" id="AutoNumber48">
+                      <tbody><tr>
+                        <td width="100%"><div align="left"><b><font size="1" face="Verdana">
+                          You are here: </font></b><span class="bmBreadcrumbText"><a href="http://www.armystudyguide.com" class="bmBreadcrumbs">home</a> &gt; <a href="http://www.armystudyguide.com/content/admin_section/index.shtml" class="bmBreadcrumbs">admin</a> &gt; privacy policy</span></div></td>
+                      </tr>
+                      <tr>
+                        <td width="100%"><font size="1">&nbsp;</font></td>
+                      </tr>
+                      <tr>
+                        <td width="100%"><div align="left"><h1>Privacy Policy<br><span class="bmSubhead">&nbsp;</span></h1></div></td>
+                      </tr>
+                      <tr>
+                        <td width="100%"><div align="left"><p><span class="bmarticleDate">Posted Friday, October 7, 2005</span></p></div>  <div align="left"><p>ArmyStudyGuide.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this <a href="http://www.armystudyguide.com/">ArmyStudyGuide.com</a> .</p>
+<p>&nbsp;</p>
+<p><strong>Advertisers</strong><br>
+We use outside ad companies to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by the ad companies, and we do not have access to this information.</p>
+<p><strong>External Links</strong><br>
+This site contains links to other sites. ArmyStudyGuide.com is not responsible for the privacy practices or the content of such Web sites.</p>
+<p><strong>Public Forums</strong><br>
+This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. We go to great lengths to protect personal information used when registering to use our forums. We strongly suggest that you help to protect your information by changing your password often.</p>
+<p><strong>Newsletters</strong><br>
+ArmyStudyGuide.com makes available to it's users various newsletters. Any user of the site has the option to enter their email address into a form to sign up for one or more of the newsletters and may quickly and easily remove their email address from our database simply by clicking a specific "unsubscribe" link in any one of the newsletters sent out.</p>
+<p>ArmyStudyGuide.com uses a professional business corespondence management service to serve the newsletters. They assure us that none of the information that you give up when signing up for any newsletter through our site will be sold or shared with any other party.</p>
+<p><strong>Tracking</strong><br>
+Although we do not track individual movements throughout the site, we do closely monitor our server logs and other logs made available to us to better design the site for the benefit of our visitors. The information contained within the logs does not contain any personal information about any specific user.</p>
+<p><br>
+<strong>Contacting the Web Site</strong><br>
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can email us at <a href="mailto:webmaster@armystudyguide.com">webmaster@armystudyguide.com</a></p></div> </td>
+                      </tr>
+                      <tr>
+                        <td width="100%"><font size="1">&nbsp;</font></td>
+                      </tr>
+                      <tr>
+                        <td width="100%"><div align="center"><script type="text/javascript"><!--
+google_ad_client = "pub-7482445962051672";
+google_alternate_color = "ffffff";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "28517D";
+google_color_url = "000000";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+                          </script></div></td>
+                      </tr>
+                      <tr>
+                        <td width="100%"><font size="1">&nbsp;</font></td>
+                      </tr>
+                      <tr>
+                        <td width="100%"><div class="bmBottomTools"><div class="bmBotRelated"></div><div class="bmBotEmailPrint"><a href="http://www.armystudyguide.com/cgi-bin/moxiebin/bm_tools.cgi?a=871;s=16;site=1" class="bmToolLink"><img src="http://www.armystudyguide.com/content/moxiepix/email_black.gif" height="17" width="17" alt="e-mail" align="middle" border="0" vspace="1"></a>&nbsp;<a href="http://www.armystudyguide.com/cgi-bin/moxiebin/bm_tools.cgi?a=871;s=16;site=1" class="bmToolLink">E-mail this page</a><br><a href="http://www.armystudyguide.com/cgi-bin/moxiebin/bm_tools.cgi?print=871;s=16;site=1" class="bmToolLink" onclick="newWin=window.open(this.href,'print','menubar,location,status,toolbar,resizable,titlebar,scrollbars');newWin.focus();return false;" target="print"><img src="http://www.armystudyguide.com/content/moxiepix/print_black.gif" height="17" width="17" alt="print" align="middle" border="0" vspace="1"></a>&nbsp;<a href="http://www.armystudyguide.com/cgi-bin/moxiebin/bm_tools.cgi?print=871;s=16;site=1" class="bmToolLink" onclick="newWin=window.open(this.href,'print','menubar,location,status,toolbar,resizable,titlebar,scrollbars');newWin.focus();return false;" target="print">Printer-friendly page</a><script type="text/javascript" language="JavaScript" charset="utf-8">// <![CDATA[
+BM1Cb(871)// ]]>
+</script></div>&nbsp;<div class="bmClearAll">&nbsp;</div></div> </td>
+                      </tr>
+                      <tr>
+                        <td width="100%"><font size="1">&nbsp;</font></td>
+                      </tr>
+                      <tr>
+                        <td width="100%">&nbsp;</td>
+                      </tr>
+                      <tr>
+                        <td width="100%">
+                        <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber49">
+                          <tbody><tr>
+                  <td width="50%" valign="top">
+                  <div align="left">
+                    <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="98%" id="AutoNumber16">
+                      <tbody><tr>
+                        <td width="100%">
+                        <table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#396B10" width="100%" id="AutoNumber18">
+                          <tbody><tr>
+                            <td width="100%" bgcolor="#9FC27C">
+                            <table border="0" cellspacing="1" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber20">
+                              <tbody><tr>
+                                <td width="100%"><b>
+                                <font size="2" face="Verdana">&nbsp;Sponsor</font></b></td>
+                              </tr>
+                            </tbody></table>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td width="100%">
+                            <table border="0" cellpadding="3" cellspacing="3" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber53">
+                              <tbody><tr>
+                                <td width="100%"><div style="text-align:center"><font face="verdana"><script type="text/javascript"><!--
+google_ad_client = "pub-7482445962051672";
+google_alternate_color = "ffffff";
+google_ad_width = 250;
+google_ad_height = 250;
+google_ad_format = "250x250_as";
+google_ad_type = "text_image";
+google_ad_channel ="";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "28517D";
+google_color_url = "000000";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+                                  </script></font></div></td>
+                              </tr>
+                            </tbody></table>
+                            </td>
+                          </tr>
+                        </tbody></table>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td width="100%"><font size="1">&nbsp;</font></td>
+                      </tr>
+                    </tbody></table>
+                  </div>
+                  </td>
+                  <td width="50%" valign="top">
+                  <div align="right">
+                    <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="98%" id="AutoNumber17">
+                      <tbody><tr>
+                        <td width="100%">
+                        <table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#396B10" width="100%" id="AutoNumber19">
+                          <tbody><tr>
+                            <td width="100%" bgcolor="#9FC27C">
+                            <table border="0" cellspacing="1" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber21">
+                              <tbody><tr>
+                                <td width="100%"><div align="left"><b>
+                                <font size="2" face="Verdana">&nbsp;Recently Added</font></b></div></td>
+                              </tr>
+                            </tbody></table>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td width="100%">
+                            <table border="0" cellpadding="3" cellspacing="3" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber56">
+                              <tbody><tr>
+                                <td width="100%"><div align="left"><div><strong>Latest articles in <a href="http://www.armystudyguide.com/content/admin_section/index.shtml">Admin</a></strong>
+<div id="bm4852" style="clear:both"><br><script type="text/javascript" language="JavaScript" charset="utf-8">// <![CDATA[
+BM1Ci(4852)// ]]>
+</script><a href="http://www.armystudyguide.com/content/admin_section/tell-a-friend-about-armys.shtml" class="bmHeadlineLink">»&nbsp;Tell a Friend about ArmyStudyGuide.com</a>
+</div><div id="bm3317" style="clear:both"><br><script type="text/javascript" language="JavaScript" charset="utf-8">// <![CDATA[
+BM1Ci(3317)// ]]>
+</script><a href="http://www.armystudyguide.com/content/admin_section/armystudyguidecom-contest.shtml" class="bmHeadlineLink">»&nbsp;ArmyStudyGuide.com Contests and Prizes</a>
+</div><div id="bm2869" style="clear:both"><br><script type="text/javascript" language="JavaScript" charset="utf-8">// <![CDATA[
+BM1Ci(2869)// ]]>
+</script><a href="http://www.armystudyguide.com/content/admin_section/more-highlighted-sites.shtml" class="bmHeadlineLink">»&nbsp;More Highlighted Sites</a>
+</div><div id="bm2125" style="clear:both"><br><script type="text/javascript" language="JavaScript" charset="utf-8">// <![CDATA[
+BM1Ci(2125)// ]]>
+</script><a href="http://www.armystudyguide.com/content/admin_section/get-your-own-unit-study-g.shtml" class="bmHeadlineLink">»&nbsp;Get your own Unit Study Guide</a>
+</div><div id="bm1968" style="clear:both"><br><script type="text/javascript" language="JavaScript" charset="utf-8">// <![CDATA[
+BM1Ci(1968)// ]]>
+</script><a href="http://www.armystudyguide.com/content/admin_section/armystudyguidecom-newslet.shtml" class="bmHeadlineLink">»&nbsp;ArmyStudyGuide.com Newsletter</a>
+</div><div id="bm1778" style="clear:both"><br><script type="text/javascript" language="JavaScript" charset="utf-8">// <![CDATA[
+BM1Ci(1778)// ]]>
+</script><a href="http://www.armystudyguide.com/content/admin_section/armystudyguidecom-volunte.shtml" class="bmHeadlineLink">»&nbsp;Volunteer to contribute useful content to ArmyStudyGuide.com</a>
+</div><div id="bm1715" style="clear:both"><br><script type="text/javascript" language="JavaScript" charset="utf-8">// <![CDATA[
+BM1Ci(1715)// ]]>
+</script><a href="http://www.armystudyguide.com/content/admin_section/contact-armystudyguidecom.shtml" class="bmHeadlineLink">»&nbsp;Contact ArmyStudyGuide.com</a>
+</div><div style="clear:both">&nbsp;</div></div>
+</div></td>
+                              </tr>
+                            </tbody></table>
+                            </td>
+                          </tr>
+                        </tbody></table>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td width="100%">&nbsp;</td>
+                      </tr>
+                    </tbody></table>
+                  </div>
+                  </td>
+                          </tr>
+                        </tbody></table>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td width="100%"><font size="1">&nbsp;</font></td>
+                      </tr>
+                      <tr>
+                        <td width="100%">
+                        <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" width="100%" id="AutoNumber54">
+                          <tbody><tr>
+                            <td width="100%">
+                            <table border="0" cellpadding="3" cellspacing="3" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber55">
+                              <tbody><tr>
+                                <td width="100%"><div align="left"><b>Available Subcategories:</b> </div></td>
+                              </tr>
+                            </tbody></table>
+                            </td>
+                          </tr>
+                        </tbody></table>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td width="100%">&nbsp;</td>
+                      </tr>
+                    </tbody></table>
+                  </div>
+                  </td>
+                </tr>
+              </tbody></table>
+              </td>
+            </tr>
+            <tr>
+              <td width="100%"><font size="1">&nbsp;</font></td>
+            </tr>
+            <tr>
+              <td width="100%">
+              <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber100">
+                                    <tbody><tr>
+                                      <td width="100%"><table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber62">
+                                <tbody><tr>
+                                  <td width="100%">
+                                  <table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse: collapse" bordercolor="#111111">
+  <tbody><tr><td class="headers">
+   <table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber91">
+     <tbody><tr>
+       <td width="100%"> 
+       <table border="0" cellspacing="1" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber102">
+         <tbody><tr>
+           <td width="100%"><font size="2" face="Verdana"><img src="http://www.armystudyguide.com/images/minus.gif" class="showstate" onclick="expandcontent(this, 'sc9')" width="13" height="13"></font><b><font face="Verdana" size="2">&nbsp; 
+       Misc. Information</font></b></td>
+         </tr>
+       </tbody></table>
+       </td>
+     </tr>
+   </tbody></table>
+   </td></tr>
+  <tr><td id="sc9" class="switchcontent">
+    <table border="0" cellpadding="3" cellspacing="3" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber90">
+      <tbody><tr>
+        <td width="100%">
+        <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber101">
+          <tbody><tr>
+                  <td width="50%" valign="top">
+                  <div align="left">
+                    <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="98%" id="AutoNumber44">
+                      <tbody><tr>
+                        <td width="100%">
+                        <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber46">
+                          <tbody><tr>
+              <td width="100%"><b><font size="2" face="Verdana">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Recommended Reading:</font></b></td>
+                          </tr>
+                          <tr>
+              <td width="100%">
+              <table border="0" cellpadding="3" cellspacing="3" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber34">
+                <tbody><tr>
+                  <td width="100%"><ul>
+                <li><font size="2" face="Verdana"><b><a href="http://www.amazon.com/exec/obidos/redirect?link_code=ur2&amp;tag=armystudyguideco&amp;camp=1789&amp;creative=9325&amp;path=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2F081172638X%2Fsr%3D8-14%2Fqid%3D1148943155%2Fref%3Dsr_1_14%3F%255Fencoding%3DUTF8">
+                <font color="#FF0000">NCO Guide 7th Edition</font></a></b><img src="http://www.assoc-amazon.com/e/ir?t=armystudyguideco&amp;l=ur2&amp;o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;"> For 
+                55 years, this has been the basic guidebook for enlisted leaders 
+                of the Army.</font></li>
+                <li><font size="2" face="Verdana">
+                <b>
+                <a href="http://www.amazon.com/exec/obidos/redirect?link_code=ur2&amp;tag=armystudyguideco&amp;camp=1789&amp;creative=9325&amp;path=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2F0891417281%2Fref%3Dpd_bxgy_text_b%3F%255Fencoding%3DUTF8">
+                <font color="#FF0000">Three Meter Zone</font></a></b><img src="http://www.assoc-amazon.com/e/ir?t=armystudyguideco&amp;l=ur2&amp;o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;"> 
+                A pocket-sized guide to being a good leader, for 
+                non-commissioned officers (NCOs).</font></li>
+                <li><font size="2" face="Verdana">
+                <b>
+                <a href="http://www.amazon.com/exec/obidos/redirect?link_code=ur2&amp;tag=armystudyguideco&amp;camp=1789&amp;creative=9325&amp;path=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2F0811731952%2Fref%3Dpd_sim_b_4%3F%255Fencoding%3DUTF8%26v%3Dglance%26n%3D283155">
+                <font color="#FF0000">Combat Leader's Field Guide</font></a></b><img src="http://www.assoc-amazon.com/e/ir?t=armystudyguideco&amp;l=ur2&amp;o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;"> 
+                The basic skills all soldiers must know to prevail on the 
+                battlefield</font></li>
+                <li><font face="Verdana"><b><a href="http://www.amazon.com/exec/obidos/redirect?link_code=ur2&amp;tag=armystudyguideco&amp;camp=1789&amp;creative=9325&amp;path=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2F0963869574%2Fref%3Dpd_sim_b_1%3F%255Fencoding%3DUTF8%26v%3Dglance%26n%3D283155">
+                <font size="2" color="#FF0000">Militant Muslim Combat Methods</font></a></b><font size="2"><img src="http://www.assoc-amazon.com/e/ir?t=armystudyguideco&amp;l=ur2&amp;o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;"> 
+                Tactics of the Crescent Moon: Militant Muslim Combat Methods</font></font></li>
+              </ul>
+</td>
+                </tr>
+              </tbody></table>
+              </td>
+                          </tr>
+                          <tr>
+              <td width="100%"><font size="1">&nbsp;</font></td>
+                          </tr>
+                          <tr>
+              <td width="100%"><b><font size="2" face="Verdana"> 
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+              Cool Stuff We Found:</font></b></td>
+                          </tr>
+                          <tr>
+              <td width="100%">
+              <table border="0" cellpadding="3" cellspacing="3" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber35">
+                <tbody><tr>
+                  <td width="100%">
+                  <ul>
+                    <li><font face="Verdana"><a href="http://www.amazon.com/exec/obidos/redirect?link_code=ur2&amp;tag=armystudyguideco&amp;camp=1789&amp;creative=9325&amp;path=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB0009DV9AI%2Fqid%3D1148944849%2Fsr%3D1-19%2Fref%3Dsr_1_19%3F%255Fencoding%3DUTF8%26m%3DA3Q2A3HABW6PEA%26s%3Dsporting-goods%26v%3Dglance%26n%3D3375251">
+                    <font size="2">Heat Seeker</font></a><font size="2"><img src="http://www.assoc-amazon.com/e/ir?t=armystudyguideco&amp;l=ur2&amp;o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;"> 
+                    The HeatSeeker comes with two built-in lasers that help 
+                    pinpoint the heat source with incredible accuracy up to 300 
+                    yards.</font></font></li>
+                  </ul>
+                  </td>
+                </tr>
+              </tbody></table>
+              </td>
+                          </tr>
+                          </tbody></table>
+                        </td>
+                      </tr>
+                    </tbody></table>
+                  </div>
+                  </td>
+                  <td width="50%" valign="top">
+                  <div align="right">
+                    <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="98%" id="AutoNumber45">
+                      <tbody><tr>
+                        <td width="100%">
+                        <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber47">
+                          <tbody><tr>
+              <td width="100%">
+              <table border="0" cellpadding="3" cellspacing="3" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber33">
+                <tbody><tr>
+                  <td width="100%"><div align="left"><script language="JavaScript" type="text/javascript" src="http://community.armystudyguide.com/groupee/forums?a=ci&amp;ci_id=4931048961&amp;s=6791098421"></script></div></td>
+                </tr>
+              </tbody></table>
+              </td>
+                          </tr>
+                          <tr>
+              <td width="100%"><font size="1">&nbsp;</font></td>
+                          </tr>
+                          </tbody></table>
+                        </td>
+                      </tr>
+                    </tbody></table>
+                  </div>
+                  </td>
+                    </tr>
+        </tbody></table>
+        </td>
+      </tr>
+    </tbody></table>
+    </td></tr>
+</tbody></table></td>
+                                </tr>
+                                </tbody></table>
+</td>
+                                    </tr>
+                                  </tbody></table>
+</td>
+            </tr>
+          </tbody></table>
+        </div>
+        </td>
+        <td width="1%" valign="top">
+        <div align="right">
+          <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="190" id="AutoNumber37">
+            <tbody><tr>
+              <td>
+              <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber38">
+                <tbody><tr>
+              <td>
+              <font size="1">&nbsp;</font></td>
+                </tr>
+                <tr>
+              <td>
+              <a href="http://community.armystudyguide.com/groupee">
+              <img border="0" src="http://www.armystudyguide.com/images/visitthecommunity.GIF" width="173" height="25"></a></td>
+                </tr>
+                <tr>
+              <td>
+              <font face="Verdana" size="1">&nbsp;</font></td>
+                </tr>
+                <tr>
+              <td>
+              <table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#CCCCCC" width="100%" id="AutoNumber14">
+                <tbody><tr>
+                  <td width="100%">
                   <div align="center">
                     <center>
-                    <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber10" height="120">
+                    <table border="0" cellpadding="3" cellspacing="3" style="border-collapse: collapse" bordercolor="#111111" width="98%" id="AutoNumber26">
                       <tbody><tr>
-                        <td width="100%" valign="top">
-                        <div align="center">
-                          <center>
-                          <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber11">
+                        <td width="100%"><div align="left"><table align="center" width="160" cellpadding="0" cellspacing="0" border="0" summary="This table contains e-mail and printer-friendly links for this article."><tbody><tr><td>&nbsp;<br><a href="http://www.armystudyguide.com/cgi-bin/moxiebin/bm_tools.cgi?a=871;s=16;site=1" class="bmToolLink"><img src="http://www.armystudyguide.com/content/moxiepix/email_black.gif" height="17" width="17" alt="e-mail" align="middle" border="0" vspace="1"></a>&nbsp;<a href="http://www.armystudyguide.com/cgi-bin/moxiebin/bm_tools.cgi?a=871;s=16;site=1" class="bmToolLink">E-mail this page</a><br><a href="http://www.armystudyguide.com/cgi-bin/moxiebin/bm_tools.cgi?print=871;s=16;site=1" class="bmToolLink" onclick="newWin=window.open(this.href,'print','menubar,location,status,toolbar,resizable,titlebar,scrollbars');newWin.focus();return false;" target="print"><img src="http://www.armystudyguide.com/content/moxiepix/print_black.gif" height="17" width="17" alt="print" align="middle" border="0" vspace="1"></a>&nbsp;<a href="http://www.armystudyguide.com/cgi-bin/moxiebin/bm_tools.cgi?print=871;s=16;site=1" class="bmToolLink" onclick="newWin=window.open(this.href,'print','menubar,location,status,toolbar,resizable,titlebar,scrollbars');newWin.focus();return false;" target="print">Printer-friendly page</a><script type="text/javascript" language="JavaScript" charset="utf-8">// <![CDATA[
+BM1Cb(871)// ]]>
+</script><br>&nbsp;</td></tr></tbody></table></div></td>
+                      </tr>
+                    </tbody></table>
+                    </center>
+                  </div>
+                  </td>
+                </tr>
+              </tbody></table>
+              </td>
+                </tr>
+                <tr>
+              <td><font size="1">&nbsp;</font></td>
+                </tr>
+                <tr>
+              <td>
+              <table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#CCCCCC" width="100%" id="AutoNumber27">
+                <tbody><tr>
+                  <td width="100%">
+                  <table border="0" cellpadding="3" cellspacing="3" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber28">
+                    <tbody><tr>
+                      <td width="100%"><b><font size="2" face="Verdana">Thank you 
+                      for using the FREE Army Board Study Guides that we 
+                      provide.</font></b></td>
+                    </tr>
+                  </tbody></table>
+                  </td>
+                </tr>
+              </tbody></table>
+              </td>
+                </tr>
+                <tr>
+              <td><font size="1">&nbsp;</font></td>
+                </tr>
+                <tr>
+              <td>
+              <table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#CCCCCC" width="100%" id="AutoNumber29">
+                <tbody><tr>
+                  <td width="100%">
+                  <table border="0" cellpadding="3" cellspacing="3" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber30">
+                    <tbody><tr>
+                      <td width="100%"><font face="verdana"><script type="text/javascript"><!--
+google_ad_client = "pub-7482445962051672";
+google_alternate_color = "ffffff";
+google_ad_width = 160;
+google_ad_height = 600;
+google_ad_format = "160x600_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "28517D";
+google_color_url = "000000";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+                        </script></font></td>
+                    </tr>
+                  </tbody></table>
+                  </td>
+                </tr>
+              </tbody></table>
+              </td>
+                </tr>
+                <tr>
+              <td><font size="1">&nbsp;</font></td>
+                </tr>
+                <tr>
+              <td>
+              <table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#CCCCCC" width="100%" id="AutoNumber103">
+                <tbody><tr>
+                  <td width="100%">
+                  <table border="0" cellpadding="3" cellspacing="3" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber104">
+                    <tbody><tr>
+                      <td width="100%">
+                      <p align="left">
+                      <a target="_blank" href="http://armystudyguidecom.ourtoolbar.com/">
+                      <img border="0" src="http://www.armystudyguide.com/images/2006aourtoolbarpromo.GIF" width="175" height="29"></a></p></td>
+                    </tr>
+                  </tbody></table>
+                  </td>
+                </tr>
+              </tbody></table>
+              </td>
+                </tr>
+                <tr>
+              <td><font size="1">&nbsp;</font></td>
+                </tr>
+                <tr>
+              <td>
+              <table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#CCCCCC" width="100%" id="AutoNumber58">
+                <tbody><tr>
+                  <td width="100%">
+                  <table border="0" cellpadding="3" cellspacing="3" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber52">
+                    <tbody><tr>
+                      <td width="100%">
+                      <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber53">
+                        <tbody><tr>
+                          <td width="100%">
+                          <font face="Verdana"></font><div align="left"><font face="Verdana"><font size="2">
+                          <img border="0" src="http://www.armystudyguide.com/images/2006afav.gif" width="16" height="16">
+                          </font>
+                          <a href="javascript:window.external.AddFavorite('http://www.armystudyguide.com', 'ArmyStudyGuide.com')">
+                          <font size="2">Add to Favorites</font></a></font></div></td>
+                        </tr>
+                        <tr>
+                          <td width="100%"><div align="left"><font size="2" face="Verdana">
+                          <img border="0" src="http://www.armystudyguide.com/images/2006ataf.gif" width="16" height="16">
+                          <a target="_blank" href="http://www.armystudyguide.com/content/admin_section/tell-a-friend-about-armys.shtml">
+                          Tell Another Soldier</a></font></div></td>
+                        </tr>
+                        </tbody></table>
+                      </td>
+                    </tr>
+                  </tbody></table>
+                  </td>
+                </tr>
+              </tbody></table>
+              </td>
+                </tr>
+                <tr>
+                  <td width="100%"><font size="1">&nbsp;</font></td>
+                </tr>
+                <tr>
+                  <td width="100%"><div align="center">
+              <a target="_blank" href="http://www.hooahradio.com/">
+              <img border="0" src="http://www.armystudyguide.com/images/2006ahooahradio1a.gif" width="135" height="154"></a></div></td>
+                </tr>
+                <tr>
+                  <td width="100%"><font size="1">&nbsp;</font></td>
+                </tr>
+                <tr>
+                  <td width="100%">
+                  <table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#CCCCCC" width="100%" id="AutoNumber61">
+                    <tbody><tr>
+                      <td width="100%">
+                      <table border="0" cellpadding="3" cellspacing="3" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber62">
+                        <tbody><tr>
+                          <td width="100%">
+                          <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber63">
                             <tbody><tr>
                               <td width="100%">
-                              <img border="0" src="../images/ng-021.GIF" width="87" height="125"></td>
+                              <font face="Verdana">
+                              <a href="http://www.tkqlhce.com/7l101xdmjdl0736A89021511537" target="_blank" onmouseover="window.status='http://www.surveypayoff.com';return true;" onmouseout="window.status=' ';return true;">
+                              <font size="2">Take  surveys &amp; get paid!</font></a><font size="2"><img src="http://www.lduhtrp.net/4b100h48x20MTPSWUVMONRNNRPT" width="1" height="1" border="0"></font></font></td>
                             </tr>
-                          </tbody></table>
-                          </center>
-                        </div>
-                        </td>
-                      </tr>
-                    </tbody></table>
-                    </center>
-                  </div>
+                            </tbody></table>
+                          </td>
+                        </tr>
+                      </tbody></table>
+                      </td>
+                    </tr>
+                  </tbody></table>
                   </td>
-                  <td width="99%">
-                  <p align="center"><!-- FASTCLICK.COM 728x90 and 468x60 BANNER CODE for armystudyguide.com -->
-<script language="javascript" src="http://media.fastclick.net/w/get.media?sid=5836&amp;m=1&amp;tp=5&amp;d=j&amp;t=s"></script>
-<noscript><a href="http://media.fastclick.net/w/click.here?sid=5836&m=1&c=1" target="_top">
-<img src="http://media.fastclick.net/w/get.media?sid=5836&m=1&tp=5&d=s&c=1"
-width=728 height=90 border=1></a></noscript>
-<!-- FASTCLICK.COM 728x90 and 468x60 BANNER CODE for armystudyguide.com -->
-</p></td>
+                </tr>
+                <tr>
+                  <td width="100%">&nbsp;</td>
                 </tr>
               </tbody></table>
-              </center>
-            </div>
-            </td>
-          </tr>
-          <tr>
-            <td width="100%">
-            <div align="center">
-              <center>
-              <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber7">
-                <tbody><tr>
-                  <td width="1%">
-                  <a href="http://www.armystudyguide.com">
-                  <img border="0" src="../images/ng003.GIF" width="526" height="41"></a></td>
-                  <td width="99%">
-                  <p align="left"><a href="http://www.armystudyguide.com">
-                  <img border="0" src="../images/ng013.GIF" width="119" height="41"></a><a href="http://www.armystudyguide.com/forum/index.php"><img border="0" src="../images/ng010.GIF" width="119" height="41"></a><a href="http://www.armystudyguide.com/portable/index.html"><img border="0" src="../images/ng009.GIF" width="119" height="41"></a></p></td>
-                </tr>
-              </tbody></table>
-              </center>
-            </div>
-            </td>
-          </tr>
+              </td>
+            </tr>
           </tbody></table>
-        </center>
-      </div>
-      </td>
-    </tr>
-  </tbody></table>
-  </center>
-</div>
+        </div>
+        </td>
+      </tr>
+    </tbody></table>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%">
+    <font size="1">&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td width="100%">
+    <div align="center"><form method="GET" action="http://www.picosearch.com/cgi-bin/ts.pl" target="_blank">
+<input type="HIDDEN" name="index" value="406505">
 
-<!--webbot bot="Include" i-checksum="36733" endspan --></td>
-    </tr>
-    <tr>
-      <td width="100%">
-      <div align="center">
-        <center>
-        <table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber12">
-          <tbody><tr>
-            <td width="1%" valign="top">
-            <div align="center">
-              <center>
-              <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="165" id="AutoNumber13">
-                <tbody><tr>
-                  <td>
-                  <!--webbot bot="Include" U-Include="../include/ng-left.htm" TAG="BODY" startspan -->
+<font face="Verdana" size="4"><b>Search This Site:
 
-<div align="center">
-  <center>
-  <table border="0" cellpadding="2" style="border-collapse: collapse" bordercolor="#111111" width="180" id="AutoNumber1" height="1">
-    <tbody><tr>
-      <td height="22"><b><font size="1" face="Verdana">
-      <img border="0" src="../images/ng-folder-open2.gif" width="20" height="20">ArmyStudyGuide.com</font></b></td>
-    </tr>
-    <tr>
-      <td height="18"><font size="1" face="Verdana">&nbsp;&nbsp;
-      <img border="0" src="../images/ng-page-icon-green.GIF" width="19" height="16"><a href="../index.html">Home</a></font></td>
-    </tr>
-    <tr>
-      <td height="18"><font size="1" face="Verdana">&nbsp;&nbsp;
-      <img border="0" src="../images/ng-page.gif" width="19" height="16"><a href="http://www.armystudyguide.com/forum/index.php">Forum</a></font></td>
-    </tr>
-    <tr>
-      <td height="18"><font size="1" face="Verdana">&nbsp;&nbsp;
-      <img border="0" src="../images/ng-page.gif" width="19" height="16"><a href="http://www.armystudyguide.com/portable/index.html">Print It</a></font></td>
-    </tr>
-    <tr>
-      <td height="1"><font size="1" face="Verdana">&nbsp;&nbsp;
-      <img border="0" src="../images/ng-page.gif" width="19" height="16"><a href="../promotions_reductions/promotion_points/2005september.htm">Current 
-      Cut-off Scores</a></font></td>
-    </tr>
-    <tr>
-      <td height="1"><font size="1" face="Verdana">&nbsp;&nbsp;
-      <img border="0" src="../images/ng-page.gif" width="19" height="16"></font><font face="Verdana" size="1"><a href="../Quizzes/Quiz-002/quiz.htm">Quick 
-      Board Quiz</a></font></td>
-    </tr>
-    <tr>
-      <td height="1"><font size="1" face="Verdana">&nbsp;&nbsp;
-      <img border="0" src="../images/ng-page.gif" width="19" height="16"><a href="../interactive_CTT/index.html">Interactive 
-      CTT Tasks</a></font></td>
-    </tr>
-    <tr>
-      <td height="1"><font size="1" face="Verdana">&nbsp;&nbsp;
-      <img border="0" src="../images/ng-page.gif" width="19" height="16"></font><font face="Verdana" size="1"><a href="../board-prep-guide.htm">Board 
-      Preparation Guide</a></font></td>
-    </tr>
-    <tr>
-      <td height="1"><b><font size="1" face="Verdana">
-      <img border="0" src="../images/ng-folder-open2.gif" width="20" height="20">More Sections</font></b></td>
-    </tr>
-    <tr>
-      <td height="18"><font size="1" face="Verdana">&nbsp;&nbsp;
-      <img border="0" src="../images/ng-page.gif" width="19" height="16"><a target="_blank" href="http://counsel.armystudyguide.com/">Counseling Help</a></font></td>
-    </tr>
-    <tr>
-      <td height="18"><font size="1" face="Verdana">&nbsp;&nbsp;
-      <img border="0" src="../images/ng-page.gif" width="19" height="16"><a target="_blank" href="http://cadence.armystudyguide.com/">Cadences</a></font></td>
-    </tr>
-    <tr>
-      <td height="18"><font size="1" face="Verdana">&nbsp;&nbsp;
-      <img border="0" src="../images/ng-page.gif" width="19" height="16"><a target="_blank" href="http://schools.armystudyguide.com/">Army Schools</a></font></td>
-    </tr>
-    <tr>
-      <td height="18"><font size="1" face="Verdana">&nbsp;&nbsp;
-      <img border="0" src="../images/ng-page.gif" width="19" height="16"><a target="_blank" href="http://www.armystudyguide.com/games/index.html">Games</a></font></td>
-    </tr>
-    <tr>
-      <td height="18"><font size="1" face="Verdana">&nbsp;&nbsp;
-      <img border="0" src="../images/ng-page.gif" width="19" height="16"><a target="_blank" href="http://basic.armystudyguide.com/">Prepare for Basic</a></font></td>
-    </tr>
-    <tr>
-      <td height="18"><font size="1" face="Verdana">&nbsp;&nbsp;
-      <img border="0" src="../images/ng-page.gif" width="19" height="16"><a target="_blank" href="http://smct.armystudyguide.com/">Common Tasks (CTT)</a></font></td>
-    </tr>
-    <tr>
-      <td height="18"><font size="1" face="Verdana">&nbsp;&nbsp;
-      <img border="0" src="../images/ng-page.gif" width="19" height="16"><a target="_blank" href="http://leadersbook.armystudyguide.com/">Leaders Book Info</a></font></td>
-    </tr>
-    <tr>
-      <td height="18"><font size="1" face="Verdana">&nbsp;&nbsp;
-      <img border="0" src="../images/ng-page.gif" width="19" height="16"><a target="_blank" href="http://ppt.armystudyguide.com/">PowerPoint Presentations</a></font></td>
-    </tr>
-    <tr>
-      <td height="18"><font size="1" face="Verdana">&nbsp;&nbsp;
-      <img border="0" src="../images/ng-page.gif" width="19" height="16"><a target="_blank" href="http://pubs.armystudyguide.com/">Publications</a></font></td>
-    </tr>
-    <tr>
-      <td height="18"><font size="1" face="Verdana">&nbsp;&nbsp;
-      <img border="0" src="../images/ng-page.gif" width="19" height="16"><a href="../drill_sergeant/index.html">Drill Sergeant</a></font></td>
-    </tr>
-    <tr>
-      <td height="18"><font size="1" face="Verdana">&nbsp;&nbsp;
-      <img border="0" src="../images/ng-page.gif" width="19" height="16"><a href="../samc/index.html">Audie Murphy</a></font></td>
-    </tr>
-    <tr>
-      <td height="18"><font size="1" face="Verdana">&nbsp;&nbsp;
-      <img border="0" src="../images/ng-page.gif" width="19" height="16"><a href="../eib/index.html">Expert Infantry</a></font></td>
-    </tr>
-    <tr>
-      <td height="18"><font size="1" face="Verdana">&nbsp;&nbsp;
-      <img border="0" src="../images/ng-page.gif" width="19" height="16"><a href="../efmb/index.html">Expert Field Medical</a></font></td>
-    </tr>
-    <tr>
-      <td height="1"><font size="1" face="Verdana">&nbsp;&nbsp;
-      <img border="0" src="../images/ng-page.gif" width="19" height="16"><a href="../recruiter/index.html">Army Recruiter</a></font></td>
-    </tr>
-    <tr>
-      <td height="22"><b><font size="1" face="Verdana">
-      <img border="0" src="../images/ng-folder-open2.gif" width="20" height="20">Other Sites</font></b></td>
-    </tr>
-    <tr>
-      <td height="18"><font size="1" face="Verdana">&nbsp;&nbsp;
-      <img border="0" src="../images/ng-page.gif" width="19" height="16"><b><a target="_blank" href="http://www.ncocorps.net/"><font color="#800000">NCOcorps.net</font></a></b></font></td>
-    </tr>
-    <tr>
-      <td height="18"><font size="1" face="Verdana">&nbsp;&nbsp;
-      <img border="0" src="../images/ng-page.gif" width="19" height="16"><a target="_blank" href="http://www.warriorethos.net/">WarriorEthos.net</a></font></td>
-    </tr>
-    <tr>
-      <td height="18"><font size="1" face="Verdana">&nbsp;&nbsp;
-      <img border="0" src="../images/ng-page.gif" width="19" height="16"><a target="_blank" href="http://www.militarybaby.com/">MilitaryBaby.com</a></font></td>
-    </tr>
-    <tr>
-      <td height="18"><font size="1" face="Verdana">&nbsp;&nbsp;
-      <img border="0" src="../images/ng-page.gif" width="19" height="16"><a target="_blank" href="http://www.deathmarchteam.com/">DeathMarchTeam.com</a></font></td>
-    </tr>
-    <tr>
-      <td height="18"><font size="1" face="Verdana">&nbsp;&nbsp;
-      <img border="0" src="../images/ng-page.gif" width="19" height="16"><a target="_blank" href="http://www.armyppt.com/">ArmyPPT.com</a></font></td>
-    </tr>
-    <tr>
-      <td height="18"><font size="1" face="Verdana">&nbsp;&nbsp;
-      <img border="0" src="../images/ng-page.gif" width="19" height="16"><a target="_blank" href="http://www.hmmwv.org">HMMWV.org</a></font></td>
-    </tr>
-    <tr>
-      <td height="1">
-      </td>
-    </tr>
-    <tr>
-      <td height="1">
-      <!-- FASTCLICK.COM InVue CODE v1.1 for armystudyguide.com -->
-<script language="javascript"><!--
-var dc=document; if(dc.all && dc.getElementById){
-var mjo=Math.floor(Math.random()*7777); dc.cookie='h2=o; path=/;'; 
-var ht=dc.body.clientHeight;var wt=dc.body.clientWidth;
-if(dc.cookie.indexOf('n=vue')<=0 && ht>400 && wt>400 && dc.cookie.indexOf('2=o')>0){
-dc.write('<scr'+'ipt language="javascript" src="http://media.fastclick.net');
-dc.write('/w/get.media?sid=5836&tm=12&m=4&tp=4&c='+mjo+'"></scr'+'ipt>');}} // -->
-      </script>
-<!-- FASTCLICK.COM InVue CODE v1.1 for armystudyguide.com -->
+<input type="TEXT" name="query" value="" size="33">
 
-</td>
-    </tr>
-  </tbody></table>
-  </center>
-</div>
+<input type="SUBMIT" value="Search" name="SEARCH">&nbsp;
 
-<!--webbot bot="Include" i-checksum="21280" endspan --><p>&nbsp;</p></td>
-                </tr>
-              </tbody></table>
-              </center>
-            </div>
-            </td>
-            <td width="99%" valign="top">
-            <div align="center">
-              <center>
-              <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber14">
-                <tbody><tr>
-                  <td width="99%" valign="top">
-                  <div align="center">
-                    <center>
-                    <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="98%" id="AutoNumber15" height="1">
-                      <tbody><tr>
-                        <td width="100%" height="12">
-                        <!--webbot bot="Include" U-Include="../include/ng-alerts.htm" TAG="BODY" startspan -->
-
-<div align="center">
-  <center>
-  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1">
-    <tbody><tr>
-      <td width="100%"><font face="Verdana" size="1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      </font></td>
-    </tr>
-    <tr>
-      <td width="100%"><b><font face="Verdana" size="1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      </font></b></td>
-    </tr>
-  </tbody></table>
-  </center>
-</div>
-
-<!--webbot bot="Include" i-checksum="56015" endspan --></td>
-                      </tr>
-                      <tr>
-                        <td width="100%" height="1">
-                        <div align="center">
-                          <center>
-                          <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber19">
-                            <tbody><tr>
-                              <td width="99%">
-                              <div align="center">
-                                <center>
-                                <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="98%" id="AutoNumber20" height="1">
-                                  <tbody><tr>
-                                    <td width="100%" height="1">
-                                    <font size="1" face="Verdana">You are here:
-                                    <img border="0" src="../images/ng-folder-open2.gif" align="absbottom" width="20" height="20"><a href="../index.html">Home</a><br>
-                                    </font>
-                                    <font face="Verdana">&nbsp;&nbsp;&nbsp;&nbsp; </font></td>
-                                  </tr>
-                                </tbody></table>
-                                </center>
-                              </div>
-                              </td>
-                              <td width="1%">
-                              <!--webbot bot="Include" U-Include="../include/ng-subjects.htm" TAG="BODY" startspan -->
-
-<p></p><form name="jumptop">
-<select name="menu" onchange="location=document.jumptop.menu.options[document.jumptop.menu.selectedIndex].value;" value="GO">
-        <option value="">Select A Study Subject</option>
-        <option value="http://www.armystudyguide.com/history/studyguide.htm">Army History</option>
-        <option value="http://www.armystudyguide.com/programs/studyguide.htm">Army Programs</option>
-        <option value="http://www.armystudyguide.com/at4/studyguide.htm">AT4</option>
-        <option value="http://www.armystudyguide.com/awards_decorations/studyguide.htm">Awards &amp; Decorations</option>
-        <option value="http://www.armystudyguide.com/battle_focus/studyguide.htm">Battle Focused Training</option>
-        <option value="http://www.armystudyguide.com/camouflage/studyguide.htm">Camouflage</option>
-        <option value="http://www.armystudyguide.com/chain_of_command/studyguide.htm">Chain of Command</option>
-        <option value="http://www.armystudyguide.com/code_of_conduct/studyguide.htm">Code of Conduct</option>
-        <option value="http://www.armystudyguide.com/communications/studyguide.htm">Communications</option>
-        <option value="http://www.armystudyguide.com/counseling/studyguide.htm">Counseling</option>
-        <option value="http://www.armystudyguide.com/customs_courtesies/studyguide.htm">Customs &amp; Courtesies</option>
-        <option value="http://www.armystudyguide.com/drill_and_ceremony/studyguide.htm">Drill &amp; Ceremony</option>
-        <option value="http://www.armystudyguide.com/field_sanitation/studyguide.htm">Field Sanitation</option>
-        <option value="http://www.armystudyguide.com/first_aid/studyguide.htm">First Aid</option>
-        <option value="http://www.armystudyguide.com/flags/studyguide.htm">Flags</option>
-        <option value="http://www.armystudyguide.com/geneva_convention/studyguide.htm">Geneva Convention</option>
-        <option value="http://www.armystudyguide.com/guard_duty/studyguide.htm">Guard Duty</option>
-        <option value="http://www.armystudyguide.com/grenades/studyguide.htm">Hand Grenades</option>
-        <option value="http://www.armystudyguide.com/land_navigation/studyguide.htm">Land Navigation</option>
-        <option value="http://www.armystudyguide.com/leadership/studyguide.htm">Leadership</option>
-        <option value="http://www.armystudyguide.com/leaves_and_passes/studyguide.htm">Leaves and Passes</option>
-        <option value="http://www.armystudyguide.com/m16/studyguide.htm">M16/A2 and M4</option>
-        <option value="http://www.armystudyguide.com/m18a1/studyguide.htm">M18A1</option>
-        <option value="http://www.armystudyguide.com/m2/studyguide.htm">M2</option>
-        <option value="http://www.armystudyguide.com/m203/studyguide.htm">M203</option>
-        <option value="http://www.armystudyguide.com/m240b/studyguide.htm">M240B</option>
-        <option value="http://www.armystudyguide.com/m249/studyguide.htm">M249</option>
-        <option value="http://www.armystudyguide.com/m60/studyguide.htm">M60</option>
-        <option value="http://www.armystudyguide.com/m72/studyguide.htm">M72</option>
-        <option value="http://www.armystudyguide.com/m9/studyguide.htm">M9</option>
-        <option value="http://www.armystudyguide.com/maintenance/studyguide.htm">Maintenance</option>
-        <option value="http://www.armystudyguide.com/military_justice/studyguide.htm">Military Justice</option>
-        <option value="http://www.armystudyguide.com/mk19/studyguide.htm">MK19</option>
-        <option value="http://www.armystudyguide.com/nbc/studyguide.htm">N.B.C.</option>
-        <option value="http://www.armystudyguide.com/nco_duties/studyguide.htm">NCO Duties</option>
-        <option value="http://www.armystudyguide.com/NCO-History/studyguide.htm">NCO History</option>
-        <option value="http://www.armystudyguide.com/ncoer/studyguide.htm">NCOER</option>
-        <option value="http://www.armystudyguide.com/physical_security/studyguide.htm">Physical Security</option>
-        <option value="http://www.armystudyguide.com/promotions_reductions/studyguide.htm">Promo. &amp; Reductions</option>
-        <option value="http://www.armystudyguide.com/physical_training/studyguide.htm">PT</option>
-        <option value="http://www.armystudyguide.com/security_intelligence/studyguide.htm">Security and Intell.</option>
-        <option value="http://www.armystudyguide.com/Supply_Economy/studyguide.htm">Supply Economy</option>
-        <option value="http://www.armystudyguide.com/survival/studyguide.htm">Survival</option>
-        <option value="http://www.armystudyguide.com/train_the_force/studyguide.htm">Train The Force</option>
-        <option value="http://www.armystudyguide.com/uniforms/studyguide.htm">Uniforms</option>
-        <option value="http://www.armystudyguide.com/us-Constitution/studyguide.htm">U.S. Constitution</option>
-        <option value="http://www.armystudyguide.com/weight_control/studyguide.htm">Weight Control</option>
-
-</select>
-</form><p></p>
-
-<!--webbot bot="Include" i-checksum="27636" endspan --><p><font size="1" face="Verdana">
-                              </font></p></td>
-                            </tr>
-                          </tbody></table>
-                          </center>
-                        </div>
-                        </td>
-                      </tr>
-                      <tr>
-                        <td width="100%" height="1">
-                        <p align="center"><b><font size="4" face="Verdana">Privacy
-                              Policy</font></b></p></td>
-                      </tr>
-                      <tr>
-                        <td width="100%" height="12">
-                        <font size="1" face="Verdana">&nbsp;&nbsp; </font></td>
-                      </tr>
-                      <tr>
-                        <td width="100%" height="1">
-                        <font size="1" face="Verdana">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                      ArmyStudyGuide.com has created this
-                                      privacy statement in order to demonstrate
-                                      our firm commitment to privacy. The
-                                      following discloses the information
-                                      gathering and dissemination practices for
-                                      this <a href="http://www.armystudyguide.com">ArmyStudyGuide.com</a>
-                                      and all it's sub-sites to include but not
-                                      limited to: </font>
-                                      <ul>
-                                        <li><font size="1" face="Verdana">http://cadence.armystudyguide.com</font></li>
-                                        <li><font size="1" face="Verdana">http://counsel.armystudyguide.com</font></li>
-                                        <li><font size="1" face="Verdana">lhttp://eadersbook.armystudyguide.com</font></li>
-                                        <li><font size="1" face="Verdana">http://basic.armystudyguide.com</font></li>
-                                        <li><font size="1" face="Verdana">http://cadence.armystudyguide.com</font></li>
-                                        <li><font size="1" face="Verdana">http://smct.armystudyguide.com</font></li>
-                                        <li><font size="1" face="Verdana"><a href="http://equipment.armystudyguide.com">http://equipment.armystudyguide.com</a></font></li>
-                                        <li><font size="1" face="Verdana">http://ppt.armystudyguide.com</font></li>
-                                      </ul>
-                                      <p><font face="Verdana"><b>
-                                      <font color="#000000" size="1">Advertisers</font></b><font size="1"><br>
-                                      </font></font></p>
-                                      <p><font size="1" face="Verdana">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                      We use an outside ad company to display
-                                      ads on our site. These ads may contain
-                                      cookies. While we use cookies in other
-                                      parts of our Web site, cookies received
-                                      with banner ads are collected by our ad
-                                      company, and we do not have access to this
-                                      information.</font></p>
-                                      <p><font face="Verdana"><b>
-                                      <font color="#000000" size="1">External
-                                      Links</font></b><font size="1"><br>
-                                      </font></font></p>
-                                      <p><font size="1" face="Verdana">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                      This site contains links to other sites.
-                                      ArmyStudyGuide.com is not responsible for
-                                      the privacy practices or the content of
-                                      such Web sites.</font></p>
-                                      <p><font face="Verdana"><b>
-                                      <font color="#000000" size="1">Public
-                                      Forums</font></b><font size="1"><br>
-                                      </font></font>
-                                      </p><p><font size="1" face="Verdana">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                      This site makes chat rooms, forums,
-                                      message boards, and/or news groups
-                                      available to its users. Please remember
-                                      that any information that is disclosed in
-                                      these areas becomes public information and
-                                      you should exercise caution when deciding
-                                      to disclose your personal information.&nbsp;
-                                      We go to great lengths to protect personal
-                                      information used when registering to use
-                                      our forums.&nbsp; We strongly suggest that
-                                      you help to protect your information by
-                                      changing your password often.</font></p>
-                                      <p><b><font size="1" face="Verdana">Newsletter</font></b></p>
-                                      <p><font size="1" face="Verdana">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                      This site offers a Newsletter specifically
-                                      for the purpose of sharing Army Study
-                                      Guide Content Updates and information
-                                      about new sections added to the Study
-                                      Guide.&nbsp; The Newsletter is hosted by
-                                      server.com which offers remotely hosted
-                                      database-driven resources.&nbsp; The email addresses
-                                      that are entered in order to subscribe to
-                                      the free newsletter will never be sold or
-                                      shared by ArmyStudyGuide.com.&nbsp; If you
-                                      would like to subscribe or unssubscribe
-                                      from our newsletter, please visit the
-                                      following link for more information.&nbsp;
-                                      <a href="http://www.armystudyguide.com/newsletter/index.html"><font color="#0000FF">http://www.armystudyguide.com/newsletter/index.html</font></a></font></p>
-                                      <p><font size="1" face="Verdana">&nbsp;</font></p>
-                                      <p>
-                                      <b>
-                                      <font color="#000000" hspace="3" size="1" face="Verdana">Contacting
-                                      the Web Site</font></b><font size="1" face="Verdana"><br>
-                                      </font>
-                                      </p>
-                                      <p><font size="1" face="Verdana">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                      If you have any questions about this
-                                      privacy statement, the practices of this
-                                      site, or your dealings with this Web site,
-                                      you can contact the webmaster using the
-                                      form located [here] or email us at <a href="mailto:webmaster@armystudyguide.com">webmaster@armystudyguide.com</a>&nbsp;
-                                      </font>
-                                      </p><p><font size="1" face="Verdana">To view
-                                      our disclaimer, please [<a href="disclaimer.htm"><font color="#0000FF">click
-                                      here</font></a>] </font>
-                                      </p><p><font size="1" face="Verdana">To view
-                                      our reproduction policy [<a href="reproduction_policy.htm"><font color="#0000FF">click
-                                      here</font></a>] </font>
-                                      </p><p>
-                        </p></td>
-                      </tr>
-                      <tr>
-                        <td width="100%" height="1">
-                        <font size="1" face="Verdana">&nbsp;&nbsp;&nbsp;&nbsp;
-                        </font></td>
-                      </tr>
-                      <tr>
-                        <td width="100%" height="19">
-                        <font size="1" face="Verdana">Last Updated: 20041210</font></td>
-                      </tr>
-                      <tr>
-                        <td width="100%" height="1">
-                        <font size="1" face="Verdana">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                        </font></td>
-                      </tr>
-                      <tr>
-                        <td width="100%" height="169">
-                        <!--webbot bot="Include" U-Include="../include/ng-bot.htm" TAG="BODY" startspan -->
-
-<div align="center">
-  <center>
-  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="95%" id="AutoNumber1">
-    <tbody><tr>
-      <td width="100%">
-      <b><font face="Verdana" size="1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-      Recommended Reading:</font></b></td>
-    </tr>
-    <tr>
-      <td width="100%">
-      <font face="Verdana" size="1">&nbsp;&nbsp;&nbsp;&nbsp; </font>
-      </td>
-    </tr>
-    <tr>
-      <td width="100%">
-      <ul>
-        <li><font face="Verdana" size="1">
-        <a target="_blank" href="http://www.amazon.com/exec/obidos/redirect?tag=armystudyguideco&amp;path=tg/detail/-/081172638X/qid=1104128562/sr=1-1/ref=sr_1_1?v=glance&amp;s=books">
-        NCO Guide, 7th Edition - Robert S. Rush</a>
-        <img border="0" src="../images/stars-5-0.gif" width="64" height="12"></font></li>
-        <li><font size="1" face="Verdana">
-        <a target="_blank" href="http://www.amazon.com/exec/obidos/redirect?tag=armystudyguideco&amp;path=tg/detail/-/0891417281/ref=pd_bxgy_img_2?v=glance&amp;s=books">
-        The Three Meter Zone: Common Sense Leadership for NCOs - J.D. Pendry</a>
-        <img border="0" src="../images/stars-5-0.gif" width="64" height="12"></font></li>
-        <li><font size="1" face="Verdana">
-        <a target="_blank" href="http://www.amazon.com/exec/obidos/redirect?tag=armystudyguideco&amp;path=tg/detail/-/0811727297/qid=1104129138/sr=1-1/ref=sr_1_1?v=glance&amp;s=books">
-        Combat Leader's Field Guide (Combat Leader's Field Guide) - Brett A. 
-        Stoneberger</a> <img border="0" src="../images/stars-4-5.gif" width="64" height="12"></font></li>
-        <li><font size="1" face="Verdana">
-        <a target="_blank" href="http://www.amazon.com/exec/obidos/redirect?tag=armystudyguideco&amp;path=tg/detail/-/0891411739/ref=pd_bxgy_img_2?v=glance&amp;s=books">
-        Small Unit Leadership : A Commonsense Approach - DANDRIDGE M. MALONE</a>
-        <img border="0" src="../images/stars-5-0.gif" width="64" height="12"></font></li>
-      </ul>
-      <p><font face="Verdana" size="1">&nbsp;&nbsp;&nbsp;&nbsp; </font>
-      </p></td>
-    </tr>
-    <tr>
-      <td width="100%">
-      <b><font face="Verdana" size="1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-      Site Announcements:</font></b></td>
-    </tr>
-    <tr>
-      <td width="100%">
-      <font size="1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font></td>
-    </tr>
-    <tr>
-      <td width="100%">
-      <ul>
-        <li><font size="1" face="Verdana">
-        <a target="_blank" href="http://www.ncocorps.net/">The NEW NCOcorps.net 
-        is up and running</a>. </font>
-        <font color="#808080" size="1" face="Verdana">- 26 March, 2005</font></li>
-      </ul>
-      </td>
-    </tr>
-    <tr>
-      <td width="100%">
-      &nbsp;</td>
-    </tr>
-  </tbody></table>
-  </center>
-</div>
-
-<!--webbot bot="Include" i-checksum="58714" endspan --></td>
-                      </tr>
-                      <tr>
-                        <td width="100%" height="19">&nbsp;</td>
-                      </tr>
-                    </tbody></table>
-                    </center>
-                  </div>
-                  </td>
-                  <td width="1%" valign="top">
-                  <!--webbot bot="Include" U-Include="../include/ng-right.htm" TAG="BODY" startspan -->
-
-<div align="right">
-  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="160" id="AutoNumber1">
-    <tbody><tr>
-      <td>
-      <div align="center">
-        <center>
-        <table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber2">
-          <tbody><tr>
-            <td width="100%" bgcolor="#C0C0C0">
-            <b><font face="Arial" size="1">►</font><font face="Verdana" size="1">
-            <a href="../promotions_reductions/promotion_points/index.html">
-            <font color="#000000">Check Promotion Pts.</font></a></font></b></td>
-          </tr>
-          <tr>
-            <td width="100%" bgcolor="#C0C0C0">
-            <b><font face="Arial" size="1">►</font><font face="Verdana" size="1">
-            <a href="submit_updates.htm"><font color="#000000">Submit an Update</font></a></font></b></td>
-          </tr>
-          <tr>
-            <td width="100%" bgcolor="#C0C0C0">
-            <b><font face="Arial" size="1">►</font><font face="Verdana" size="1">
-            <a href="submit_content.htm"><font color="#000000">Suggest a Question</font></a></font></b></td>
-          </tr>
-          <tr>
-            <td width="100%" bgcolor="#C0C0C0">
-            <b><font face="Arial" size="1">►</font><font face="Verdana" size="1">
-            <a href="submit_broken_link.htm"><font color="#000000">Submit a broken link</font></a></font></b></td>
-          </tr>
-          <tr>
-            <td width="100%" bgcolor="#FFCC00">
-            <p align="left"><b><font face="Arial" size="1">►</font><font face="Verdana" size="1"> Site Sponsor</font></b></p></td>
-          </tr>
-        </tbody></table>
-        </center>
-      </div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-      <div align="center">
-        <center>
-        <table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber3">
-          <tbody><tr>
-            <td width="100%">
-            <p align="center"><!-- FASTCLICK.COM 120x600 and 160x600 SkyScraper CODE for armystudyguide.com -->
-<script language="javascript" src="http://media.fastclick.net/w/get.media?sid=5836&amp;m=3&amp;tp=7&amp;d=j&amp;t=s"></script>
-<noscript><a href="http://media.fastclick.net/w/click.here?sid=5836&m=3&c=1" target="_top">
-<img src="http://media.fastclick.net/w/get.media?sid=5836&m=3&tp=7&d=s&c=1"
-width=160 height=600 border=1></a></noscript>
-<!-- FASTCLICK.COM 120x600 and 160x600 SkyScraper CODE for armystudyguide.com -->
-
-				</p></td>
-          </tr>
-          <tr>
-            <td width="100%" bgcolor="#FFCC00"><b><font face="Arial" size="1">►</font><font face="Verdana" size="1">
-            <a target="_blank" href="http://www.fastclick.com/re.f?5836">
-            <font color="#000000">Use our Sponsor</font></a></font></b></td>
-          </tr>
-          </tbody></table>
-        </center>
-      </div>
-      </td>
-    </tr>
-    <tr>
-      <td><font size="1">&nbsp; </font></td>
-    </tr>
-  </tbody></table>
-</div>
-
-<!--webbot bot="Include" i-checksum="64975" endspan --></td>
-                </tr>
-              </tbody></table>
-              </center>
-            </div>
-            </td>
-          </tr>
-        </tbody></table>
-        </center>
-      </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="100%">
-      <!--webbot bot="Include" U-Include="../include/ng-footer.htm" TAG="BODY" startspan -->
-
-<div align="center">
-  <center>
-  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1">
-    <tbody><tr>
-      <td width="100%">
-      <div align="center">
-        <center>
-        <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber2">
-          <tbody><tr>
-            <td width="101%" colspan="3">
-            <b><font face="Verdana" size="1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            </font></b></td>
-          </tr>
-          <tr>
-            <td width="101%" colspan="3">
-            <p align="center"><b><font face="Verdana" size="1">
-            <span style="background-color: #E9E9E9">This <font color="#800000">
-            IS NOT</font> an official or 
-      unofficial government site and is not in any way endorsed by the U.S. 
-      Government or the U.S. Military in any way! </span> </font></b></p></td>
-          </tr>
-          <tr>
-            <td width="101%" colspan="3">
-            <font face="Verdana" size="1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            </font></td>
-          </tr>
-          <tr>
-            <td width="1%">
-            <img border="0" src="../images/00014.GIF" hspace="6" vspace="6" width="130" height="32"></td>
-            <td width="99%"><font face="Verdana" size="1">Online 
-      since 1999 |© 1999-2005 ArmyStudyGuide.com, All Rights Reserved. 
-      Reproduction in whole or in part in any form or medium &nbsp;without the 
-      expressed written permission of ArmyStudyGuide.com is prohibited. | 
-      <a href="privacy.htm">Privacy Policy</a> | 
-      <a href="disclaimer.htm">Disclaimer</a> | 
-      <a href="contact_us.htm">Contact</a> | 
-            <a href="../not-affiliated.htm">Have An Issue? </a>| This is NOT an official or 
-      unofficial government site and is not in any way endorsed by the U.S. 
-      Government or the U.S. Military. </font></td>
-            <td width="1%"><font face="Verdana" size="1"><a href="#top">
-      <img border="0" src="../images/ng-top-of-page.GIF" align="right" hspace="6" vspace="6" width="117" height="25"></a></font></td>
-          </tr>
-        </tbody></table>
-        </center>
-      </div>
-      </td>
-    </tr>
-  </tbody></table>
-  </center>
-</div>
-
-<!--webbot bot="Include" i-checksum="36355" endspan --></td>
-    </tr>
-  </tbody></table>
-  </center>
-</div>
+<input type="reset" value="Clear" name="B1"></b></font></form></div></td>
+  </tr>
+  <tr>
+    <td width="100%"><font size="1">&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td width="100%">&nbsp; </td>
+  </tr>
+  <tr>
+    <td width="100%"><div align="center"><p style="text-align:center" class="bmBottomText"><font size="2" face="Verdana">|
+<a href="http://www.armystudyguide.com/content/admin_section/privacy-policy.shtml">Privacy Policy</a> |
+<a href="http://www.armystudyguide.com/content/admin_section/disclaimer.shtml">DISCLAIMER</a> |
+<a href="http://www.armystudyguide.com/content/admin_section/contact-armystudyguidecom.shtml">Contact Us</a> |
+<a href="http://www.armystudyguide.com/content/admin_section/armystudyguidecom-volunte.shtml">Volunteer to Contribute Content</a> |
+<span style="background-color: #FFFF00"><b>
+<a href="http://websurvey.burstmedia.com/surveyid1/surveysite.asp?Qhcode=ad12861a&amp;Qhcat=51">
+<font color="#FF0000">Take our quick Survey</font></a></b></span> ׀<br>
+|
+<a target="_blank" href="http://www.armystudyguide.com/militarybaby/index.shtml">MilitaryBaby.com</a> |
+<a target="_blank" href="http://www.countdownhomepage.com">CountdownHomepage.com</a>&nbsp; |&nbsp;
+<a target="_blank" href="http://www.ncocorps.net">NCOcorps.net</a>&nbsp; |&nbsp;
+<a target="_blank" href="http://www.usmrc.org">USMRC.org</a>&nbsp; |
+<a target="_blank" href="http://www.ncobusiness.com">NCObusiness.com</a>&nbsp; |
+</font> <br>
+<font size="2" face="Verdana">This IS NOT an official or unofficial government site and is not in any way 
+endorsed by the U.S. Government or the U.S. Military<br>BY USING THIS SITE YOU ARE AGREEING THAT YOU HAVE READ, UNDERSTAND AND AGREE WITH THE SITE DISCLAIMER!</font><a href="http://www.autositemap.com/"><img alt="Google Sitemaps Generator Tool" src="http://www.autositemap.com/autositemap.png" border="0" width="1" height="1"></a><!-- Start eXTReMe Non Public Tracker Code V3/5
+Login:    asgcom
+Help:     http://www.extremetracking.com
+Installation instructions:
+Copy and paste this code between the two body tags into the
+*source* of your pages or in your footer/template. Best is
+to use a normal text editor such as notepad. -->
+<script type="text/javascript" language="javascript1.2"><!--
+EXs=screen;EXw=EXs.width;navigator.appName!="Netscape"?
+EXb=EXs.colorDepth:EXb=EXs.pixelDepth;//-->
+</script><script type="text/javascript"><!--
+navigator.javaEnabled()==1?EXjv="y":EXjv="n";
+EXd=document;EXw?"":EXw="na";EXb?"":EXb="na";
+location.protocol=="https:"?EXprot="https":EXprot="http";
+top.document.referrer?EXref=top.document.referrer:EXref=EXd.referrer;
+EXd.write("<img src="+EXprot+"://nht-2.extreme-dm.com",
+"/n2.g?login=asgcom&amp;url="+escape(document.URL)+"&amp;pv=&amp;",
+"jv="+EXjv+"&amp;j=y&amp;srw="+EXw+"&amp;srb="+EXb+"&amp;",
+"l="+escape(EXref)+" height=1 width=1>");//-->
+</script><img src="https://nht-2.extreme-dm.com/n2.g?login=asgcom&amp;url=https%3A//web.archive.org/web/20060612212142id_/http%253A//www.armystudyguide.com/content/admin_section/privacy-policy.shtml&amp;pv=&amp;jv=n&amp;j=y&amp;srw=800&amp;srb=24&amp;l=" height="1" width="1"><noscript><img height="1" width="1" alt=""
+src="http://nht-2.extreme-dm.com/n2.g?login=asgcom&amp;url=nojs&amp;j=n&amp;jv=n&amp;pv="/></noscript>
+<!-- End eXTReMe Non Public Tracker Code --><br>Copyright 1999 - 2006, ArmyStudyGuide.com. All rights reserved.<br><a href="http://www.globalmoxie.com/"><img src="http://www.armystudyguide.com/bmadmin/bmpower.gif" alt="powered by Big Medium" width="110" height="36"></a><a href="http://www.armystudyguide.com/content/spiderindex.html" class="bmSpider">i</a></p>
+</div></td>
+  </tr>
+</tbody></table>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-350648-1";
+urchinTracker();
+</script>
 
 
 
-<script language="JavaScript" src="http://hostingprod.com/js_source/geov2.js"></script><script language="javascript">geovisit();</script><noscript><img src="http://visit.webhosting.yahoo.com/visit.gif?us1127496922" alt="setstats" border="0" width="1" height="1"></noscript>
-<img src="http://geo.yahoo.com/serv?s=76001524&amp;t=1127496922" alt="1" width="1" height="1">
+
 </body></html>
