@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abc-7.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214145641id_/http%3A//www.abc-7.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abc-7.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613002109id_/http%3A//abc-7.com/privacy.asp) for the most accurate reproduction.*
 
 # ABC7 Online - Privacy Statement
 
@@ -9,6 +9,8 @@ Waterman Broadcasting Corporation has created this privacy statement in order to
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and to gather broad demographic information (e.g. geographic region from where you access the site.)
 
 Our site's registration form(s) require users to give us their email address.  On occasion, optional demographic information may also be provided, at the discretion of the user (zip code, age, or income level). We use information from the registration form to send users information about our company and promotional material from some of our partners. The information is used to contact the visitor when necessary and shared with advertisers on an aggregate basis. Users may opt-out at anytime.
+
+Viewers who email comments to our web sites may have those comments recorded and maintained in public files as a requirement by the Federal Communications Commission.
 
 This site contains links to other sites.  ABC7 Precision Weather Center is not responsible for the privacy practices or the content of such Web sites.
 
