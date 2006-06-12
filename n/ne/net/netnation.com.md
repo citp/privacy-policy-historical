@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netnation.com privacy policy that was archived on 2005-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051123201750id_/http%3A//www.netnation.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netnation.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613010712id_/http%3A//www.netnation.com/company/privacy.php) for the most accurate reproduction.*
 
 # NetNation - TERMS OF USE
 
