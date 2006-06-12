@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paperbackswap.com privacy policy that was archived on 2005-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051016190206id_/http%3A//www.paperbackswap.com/help/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paperbackswap.com privacy policy that was archived on 2006-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060612235104id_/http%3A//www.paperbackswap.com/help/privacy_policy.php) for the most accurate reproduction.*
 
 # PaperBackSwap.com - Privacy Policy
 
@@ -32,7 +32,7 @@ If you choose to provide personally identifying information to us, we may use an
 Children under 18 are not permitted to use the **Paperbackswap** service. 
 
 **Your Ability to Edit and Delete Your Account Information and Preferences**  
-You can edit your **Paperbackswap** [Account Information](https://web.archive.org/members/profile/change_address.php) at any time.
+You can edit your **Paperbackswap** [Account Information](https://web.archive.org/members/profile/account_settings.php) at any time.
 
 We reserve the right to send you certain communications relating to the **Paperbackswap** service, such as service announcements, administrative messages and the **Paperbackswap** Newsletter, that are considered part of your **Paperbackswap** account, without offering you the opportunity to opt-out of receiving them.
 
