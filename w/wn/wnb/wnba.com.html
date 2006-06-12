@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wnba.com privacy policy that was archived on 2005-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051218133735id_/http%3A//www.wnba.com/basics/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wnba.com privacy policy that was archived on 2006-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060613014545id_/http%3A//www.wnba.com/basics/privacy_policy.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>WNBA.com: NBA.com Network Privacy Policy</title>
@@ -74,10 +74,11 @@ End If
 
  <table border="0" cellpadding="0" cellspacing="0" height="90" width="728">
 <tbody><tr>
-		<td>
+<td>
 <script language="JavaScript">
 <!--
-ns4 = (document.layers)? true:false
+var adHeight = 90;
+var adWidth = 728;
 if ((typeof(spnsrTXT) == "undefined") || (spnsrTXT == null))
 	var spnsrTXT= "";
 if ((site == "") || (typeof(site) == "undefined")){
@@ -92,24 +93,19 @@ var position = "5";
 if (page == ""){
 	var page = "";
 }
-if(ns4){
-	document.write('<ilayer id="adSpotLayer'+document.layers.length+'" visibility="hide" height="90" width="728"></ilayer>');
-	ads[document.layers.length-1]= new ad(site,page,position,"728x90");
-	}
-else {
-	document.write('<iframe src="http://ad.doubleclick.net/adi/'+site+'.dart/'+page+';'+spnsrTXT+'pos='+position+';sz=728x90;tile='+position+';ord=' + adSpotRandom + '?" ');
-	document.write('height="90" width="728" ' +
-	'name="adSpotFrame5" border="0" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" >');
-	document.write('<a href="http://ad.doubleclick.net/jump/'+site+'.dart/'+page+';'+spnsrTXT+'abr=!ie;pos='+position+';sz=728x90;tile='+position+';ord=' + adSpotRandom + '?">');
-	document.write('<img src="http://ad.doubleclick.net/ad/'+site+'.dart/'+page+';'+spnsrTXT+'abr=!ie;pos='+position+';sz=728x90;tile='+position+';ord=' + adSpotRandom +
-	'" border="0" height="90" width="728">' + '</a>');
-	document.write('</iframe>');	
-	}
 //-->
-</script><iframe src="http://ad.doubleclick.net/adi/WNBA.dart/;pos=5;sz=728x90;tile=5;ord=1580437553809?" height="90" width="728" name="adSpotFrame5" border="0" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><a href="http://ad.doubleclick.net/jump/WNBA.dart/;abr=!ie;pos=5;sz=728x90;tile=5;ord=1580437553809?"><img src="http://ad.doubleclick.net/ad/WNBA.dart/;abr=!ie;pos=5;sz=728x90;tile=5;ord=1580437553809" border="0" height="90" width="728"></a></iframe>
+</script>
+<!-- begin ad tag -->
+<script language="JavaScript" type="text/javascript">
+document.write('<script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/'+site+'.dart/'+page+';sz=728x90;ord=' + adSpotRandom + '?" type="text/javascript"><\/script>');
+</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/WNBA.dart/;sz=728x90;ord=1582143191919?" type="text/javascript"></script><script language="JavaScript" type="text/javascript">
+if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0)|| navigator.userAgent.indexOf("WebTV") >= 0) 
+{document.write('<a href="http://ad.doubleclick.net/jump/'+site+'.dart/'+page+';sz=728x90;ord=' + adSpotRandom + '?" target="_blank"><img src="http://ad.doubleclick.net/ad/'+site+'.dart/'+page+';sz=728x90;ord=' + adSpotRandom + '?" width="728" height="90" border="0" alt=""><\/a>');}
+</script>
+<noscript><a href="http://ad.doubleclick.net/jump/WNBA.dart/;sz=728x90;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/WNBA.dart/;sz=728x90;ord=123456789?" border="0" height="90" width="728" alt=""></a></noscript>
 </td>
-	</tr>
-</tbody></table>
+</tr></tbody></table>
+<!-- End ad tag -->
 
 
 
@@ -117,51 +113,127 @@ else {
 </tr>
 <tr><td colspan="4">
 	  
-	<!--/frags/wnbaglobalsitecomp/wnbaGlobalNavMenu_NEW.html SSI include--> <div><script language="JavaScript" src="/js/coBranded.js"></script></div>
+	<!--/frags/wnbaSecondAOLHat.html SSI include--> <script type="text/javascript">var sitedomain="channel.aol.com";var siteState="http%3a%2f%2faol%2ewnba%2ecom%2f";</script>
+ <script>
+<!-- //second aol hat
+var url = location.hostname;
+var agt=navigator.userAgent.toLowerCase()
+var is_aol   = (agt.indexOf("aol") != -1);
+var reAOL = /aol/gi;
+var displayAolHatNew = false;
+/*
+if (is_aol && url.toLowerCase() =="www.wnba.com"){
+	displayAolHatNew = true;
+}
+*/
+if (reAOL.test(url.toLowerCase())){
+	displayAolHatNew = true;
+}
+// -->
+var aolHat1='<scr'+ 'ipt language="JavaScript" src="http://www.aolhat.com/hat/wnba3/jswrite.js"></scr'+'ipt>' 
+
+if (displayAolHatNew){
+     document.write(aolHat1);
+}
+</script>
+<style>
+#aol_hat { font: bold 11px arial, sans-serif; height: 2.27em; margin:0; padding:0; }
+#aol_hat { min-width: 66.182em; _width:expression(document.body.clientWidth < 728 ? "66.182em" : "auto" ); }
+#aol_hat ul { font-size: 1em; margin:0; padding:0; list-style:none; display: inline;  float: left; margin-top: .6em;}
+#aol_hat ul li { font-size: 1em; margin:0; padding:0 0.4em; border: none; border-right:solid 1px #ffffff; display: inline; }
+#aol_hat ul li.aol_hat_last { border:none; padding-right: 3.64em; }
+#aol_hat a { font-size: 1em; text-decoration: none; color: #2864B4; }
+#aol_hat a:visited { color: #663366 }
+#aol_hat a:hover { text-decoration: underline; }
+#aol_hat div { font-size: 1em;height: 2.18em; line-height: 2.18em; vertical-align: middle;}
+#aol_hat input.aol_hat_search { width: 11.81em; height: 1.8em; border:solid 1px #56ba24; vertical-align: middle; margin-right: 2px;}
+#aol_hat input.aol_hat_button { width:4.6em; height: 1.8em; border:solid 1px #56ba24; }
+#aol_hat input.aol_hat_button {background-color: #BFEBAA; vertical-align: middle; font: 1.0em Tahoma,Arial,Sans-Serif;}
+#aol_hat_sns { font-size: 1em; width: 20.45em; }
+ul li a {display:inline;}  
+div#aol_hat {font-size:11px; font-weight:bold; z-index:200; height:30px;}
+#aol_hat {background:#861002;}
+div#aol_hat a, div#aol_hat a:visited {color:#FFF;}
+div#aol_hat_sns{margin: 0.6em 0pt 0pt;}
+div#aol_hat ul {float:left; padding:4px 0 0 2px; height:16px;}
+div#aol_hat ul li {padding:0 5px 0 0 !important; border-right:solid 1px #ffffff; line-height:11px; display:inline;}
+div#aol_hat ul li a {display:inline; padding-left:5px;}
+
+div#aol_hat_form{ margin: 0.6em 0pt 0pt;}
+div#aol_hat_form {font-weight:normal; font-size:10px;}
+#aol_hat_form { font-size: 1em;}
+#aol_hat_form {float:left; padding:0 0 0 35px; color:white;text-align:left;}
+#aol_hat_form form { margin:0;}
+div#aol_hat_form input.aol_hat_button {font-size:11px; margin-top:-2px; _margin-top:0px;}
+div#aol_hat_form input.aol_hat_search {margin-left:10px;margin-top:-2px; _margin-top:0px; }
+
+#aol_hat ul li.aol_hat_last {border:none;}
+#aol_hat a {color:#2864B4; background-image:none;}
+#aol_hat_sns div {display:inline;}
+#aol_hat_sns {float:right; height:16px; text-align:right; margin:0 8px 0 0; padding:0 9px 0 0; _padding:0 9px 0 0;}
+#aol_hat input.aol_hat_search {width: 118px; height:21px; border:solid 1px #56ba24;  vertical-align: middle; margin-right: 2px;}
+#aol_hat input.aol_hat_button {-moz-border-radius:2.5px; border-radius:2.5px; cursor:pointer; width:59px; height:21px; border:solid 1px #58B926; background-color: #D4F4C5; filter:progid:DXImageTransform.Microsoft.Gradient(gradientType=0,startColorStr=#FBFEF9,endColorStr=#BDEEA6); vertical-align: middle; font: 1.0em Tahoma,Arial,Sans-Serif;}
+#aol_hat input.aol_hat_button:hover {background-color:#83E839; filter:progid:filter:progid:DXImageTransform.Microsoft.Gradient(gradientType=0,startColorStr=#F9FEF7,endColorStr=#7BED46);}
+#aol_hat input.aol_hat_button:active {background-color:#C6FFA9; filter:progid:DXImageTransform.Microsoft.Gradient(gradientType=0,startColorStr=#99E576,endColorStr=#F5FCF1);}
+</style>
+
+
+
+
+
+	<script language="JavaScript" src="/js/coBranded.js"></script>
+	  
+	<!--/frags/wnbaglobalsitecomp/wnbaGlobalNavMenu_Top.html SSI include--> <link href="/css/globalNav.css" rel="stylesheet" type="text/css">
+<div><script language="JavaScript" src="/js/coBranded.js"></script></div>
 <noindex>
 <!--url's used in the movie-->
 <a href="/playoffs2005/"></a>
 <table cellpadding="0" border="0" cellspacing="0" width="780">
-<tbody><tr><td class="mainNavs"><a href="http://www.nba.com/"><img src="/media/homepage/globalBTN_nba.gif" border="0" width="19" height="17"></a></td>
-	<td class="mainNavs"><a href="http://www.nba.com/dleague/"><img src="/media/homepage/wnba_globalBTN_dleague.gif" border="0" width="48" height="17"></a></td>
-	<td class="mainNavs"><a href="http://www.wnba.com/"><img src="/media/homepage/globalBTN_wnba.gif" border="0" width="30" height="17"></a></td>
-	<td valign="top" class="mainNavs">
-	<select style="font-family:Arial; font-size:10px; font-weight:bold; font-style:normal;" name="global" onfocus="selectedIndex = 9" onchange="if( options[selectedIndex].value != '') document.location = options[selectedIndex].value">
-    <option value="http://www.nba.com/news/global.html">Global
-	</option><option value="http://www.nba.com/brasil/">Brasil
-	</option><option value="http://www.nba.com/canada/">Canada
-    </option><option value="http://china.nba.com">China
-    </option><option value="http://www.nba.com/espanol/">Español
-	</option><option value="http://www.nba.com/france/">France   
-    </option><option value="http://www.nba.com/germany/">Germany  
-	</option><option value="http://www.nba.com/japan/">Japan    
-	</option><option value="http://taiwan.nba.com">Taiwan  
-	</option><option value="http://www.nba.com/uk/">UK    
-	</option></select></td>
+<tbody><tr><td class="mainNavs"><div class="navPad"><a href="http://www.nba.com/" class="navLink">NBA</a></div></td>
+	<td class="mainNavs"><div class="navPad"><a href="http://www.nba.com/dleague/" class="navLink">D-League</a></div></td>
+	<td class="mainNavs"><div class="navPad"><a href="http://www.wnba.com/" class="navLink">WNBA</a></div></td>
+	<td valign="top" class="mainNavs"><div class="navWrapper">
+	<div align="left" class="boxBG" id="globalDD" onmouseover="showLayer('globalDD');" onmouseout="hideLayer('globalDD');">
+<img src="/images/blank.gif" height="5">
+	<div class="globalRow"><a class="globalLink" href="http://www.nba.com/news/global.html"><div class="gWidth">Global</div></a></div>
+	<div class="globalRow"><a class="globalLink" href="http://www.nba.com/brasil/"><div class="gWidth">Brasil</div></a></div>
+	<div class="globalRow"><a class="globalLink" href="http://www.nba.com/canada/"><div class="gWidth">Canada</div></a></div>
+	<div class="globalRow"><a class="globalLink" href="http://china.nba.com"><div class="gWidth">China</div></a></div>
+	<div class="globalRow"><a class="globalLink" href="http://www.nba.com/espanol/"><div class="gWidth">Español</div></a></div>
+	<div class="globalRow"><a class="globalLink" href="http://www.nba.com/france/"><div class="gWidth">France</div></a></div>
+	<div class="globalRow"><a class="globalLink" href="http://www.nba.com/germany/"><div class="gWidth">Germany</div></a></div>
+	<div class="globalRow"><a class="globalLink" href="http://www.nba.com/japan/"><div class="gWidth">Japan</div></a></div>
+	<div class="globalRow"><a class="globalLink" href="http://taiwan.nba.com"><div class="gWidth">Taiwan</div></a></div>
+	<div class="globalRow"><a class="globalLink" href="http://www.nba.com/uk/"><div class="gWidth">UK</div></a></div>
+	</div></div>	
+	<div class="linkWrapper" onmouseover="showLayer('globalDD');" onmouseout="hideLayer('globalDD');"><div class="navPad"><a href="#" class="navLink">Global</a></div></div>
+	</td>
 	<td class="mainNavs">
-	<select style="width:120px;font:10px verdana, arial, sans-serif;text-decoration:none;background-color:#ffffff;" name="url" onchange="javascript:if( options[selectedIndex].value != 'Teams') document.location = options[selectedIndex].value">
-	<option selected="">Teams</option>
-	<option value="/sting/">Charlotte</option>
-<option value="/sky/">Chicago</option>
-	<option value="/sun/">Connecticut</option>
-	<option value="/shock/">Detroit</option>
-	<option value="/comets/">Houston</option>
-	<option value="/fever/">Indiana</option>
-	<option value="/sparks/">Los Angeles</option>
-	<option value="/lynx/">Minnesota</option>
-	<option value="/liberty/">New York</option>
-	<option value="/mercury/">Phoenix</option>
-	<option value="/monarchs/">Sacramento</option>
-	<option value="/silverstars/">San Antonio</option>
-	<option value="/storm/">Seattle</option>
-
-	<option value="/mystics/">Washington</option>
-	</select></td>
-	<td class="mainNavs"><a href="/wireless/index.html"><img src="/media/homepage/globalBTN_wireless.gif" border="0" width="40" height="17"></a></td>
-	<td class="mainNavs"><a href="http://www.wnba.com/fantasy_games/triplethreat/game.jsp"><img src="/media/homepage/globalBTN_fantasy_game.gif" border="0" width="68" height="17"></a></td>
-	<td class="mainNavs"><a href="http://www.nba.com/nba_tv/"><img src="/media/homepage/globalBTN_nbatv.gif" border="0" width="30" height="17"></a></td>
-	<td class="mainNavs"><a href="http://store.nba.com/gp/node/n/14156111/103-1501712-5602240?%5Fencoding=UTF8&amp;league=wnba"><img src="/media/homepage/globalBTN_store.gif" border="0" width="24" height="17"></a></td>
-	<td class="mainNavs"><a href="/tickets/tickets.html"><img src="/media/homepage/globalBTN_tickets.gif" border="0" width="53" height="17"></a></td>
+	<div style="position:relative;width:40px;">
+	<div align="left" class="boxBG" id="teamsDD" onmouseover="showLayer('teamsDD');" onmouseout="hideLayer('teamsDD');">
+	<img src="/images/blank.gif" height="5">
+	<div class="globalRow"><a class="globalLink" href="/sting/"><div class="gWidth">Charlotte</div></a></div>
+	<div class="globalRow"><a class="globalLink" href="/sky/"><div class="gWidth">Chicago</div></a></div>
+	<div class="globalRow"><a class="globalLink" href="/sun/"><div class="gWidth">Connecticut</div></a></div>
+	<div class="globalRow"><a class="globalLink" href="/shock/"><div class="gWidth">Detroit</div></a></div>
+	<div class="globalRow"><a class="globalLink" href="/comets/"><div class="gWidth">Houston</div></a></div>
+	<div class="globalRow"><a class="globalLink" href="/fever/"><div class="gWidth">Indiana</div></a></div>
+	<div class="globalRow"><a class="globalLink" href="/sparks/"><div class="gWidth">Los Angeles</div></a></div>
+	<div class="globalRow"><a class="globalLink" href="/lynx/"><div class="gWidth">Minnesota</div></a></div>
+	<div class="globalRow"><a class="globalLink" href="/liberty/"><div class="gWidth">New York</div></a></div>
+	<div class="globalRow"><a class="globalLink" href="/mercury/"><div class="gWidth">Phoenix</div></a></div>
+	<div class="globalRow"><a class="globalLink" href="/monarchs/"><div class="gWidth">Sacramento</div></a></div>
+	<div class="globalRow"><a class="globalLink" href="/silverstars/"><div class="gWidth">San Antonio</div></a></div>
+	<div class="globalRow"><a class="globalLink" href="/storm/"><div class="gWidth">Seattle</div></a></div>
+	<div class="globalRow"><a class="globalLink" href="/mystics/"><div class="gWidth">Washington</div></a></div>
+	</div></div>	
+	<div class="linkWrapper" onmouseover="showLayer('teamsDD');" onmouseout="hideLayer('teamsDD');"><div class="navPad"><a href="#" class="navLink">Teams</a></div></div>
+	</td>
+	<td class="mainNavs"><div class="navPad"><a href="/wireless/index.html" class="navLink">Wireless</a></div></td>
+	<td class="mainNavs"><div class="navPad"><a href="http://www.wnba.com/fantasy/triplethreat/login.jsp" class="navLink">Fantasy Games</a></div></td>
+	<td class="mainNavs"><div class="navPad"><a href="http://www.nba.com/nba_tv/" class="navLink">NBATV</a></div></td>
+	<td class="mainNavs"><div class="navPad"><a href="http://store.nba.com/gp/node/n/14156111/103-1501712-5602240?%5Fencoding=UTF8&amp;league=wnba" class="navLink">Store</a></div></td>
+	<td class="mainNavs"><div class="navPad"><a href="/tickets/tickets.html" class="navLink">Tickets</a></div></td>
 </tr></tbody></table>
 </noindex>
 
@@ -171,33 +243,19 @@ else {
 
 
 
+
+
  <script language="JavaScript">
 <!--
-var flashSrc = 'http://www.wnba.com/wnba.com_index_hdr.swf';
+var flashSrc = 'http://www.wnba.com/wnba_mainHeader.swf';
 var flashWidth = '780';
-var flashHeight = '64';
+var flashHeight = '60';
 flashBg = '#Ffffff';
-if (flashinstalled == 2) {
-	if (flashversion >= 5) {
-	document.write('<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"');
-	document.write(' codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0"');
-	document.write(' WIDTH="'+flashWidth+'" HEIGHT="'+flashHeight+'">');
-	document.write('<PARAM NAME=movie VALUE="'+flashSrc+'"> ');
-	document.write('<param name="wmode" value="transparent">'); 
-	document.write('<PARAM NAME=quality VALUE=high> <PARAM NAME=bgcolor VALUE="'+flashBg+'">');
-	document.write('<EMBED src="'+flashSrc+'" quality=high bgcolor="'+flashBg+'" WIDTH="'+flashWidth+'" HEIGHT="'+flashHeight+'" TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" wmode="transparent"></EMBED>');
-	document.write('</OBJECT>');
-	}else {document.write("<br><center style=\"font-size:12px;font-family:verdana;font-weight:bold;\">You have Flash installed, but you must have the most current version.<br><a href=\"http://www.macromedia.com/support/flash/ts/documents/flashplayer_r40.htm\" target=\"_new\">Click here.</a></center>");}
-} else if (flashinstalled == 1) document.write("<br><center style=\"font-size:12px;font-family:verdana;font-weight:bold;\">You need Flash 5 to run this application.<br><a href=\"http://www.macromedia.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash&P5_Language=English\" target=\"_new\">Click here to download the plugin</a></center>");
-else document.write("<br><center style=\"font-size:12px;font-family:verdana;font-weight:bold;\">I can't find out if you have Flash installed.<br>You need Flash 5 and above to run this application.<br><a href=\"http://www.macromedia.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash&P5_Language=English\" target=\"_new\">Click here to download the plugin</a></center>");
-// -->
-</script><br><center style="font-size:12px;font-family:verdana;font-weight:bold;">I can't find out if you have Flash installed.<br>You need Flash 5 and above to run this application.<br><a href="http://www.macromedia.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash&amp;P5_Language=English" target="_new">Click here to download the plugin</a></center>
-<b!w_var_parms cmd="DEFINE" name=":flashSrc" value="http://www.wnba.com/media/wnbadotcom_mainhdr_finals05_v01.swf">
-<b!w_var_parms cmd="DEFINE" name=":flashWidth" value="780">
-<b!w_var_parms cmd="DEFINE" name=":flashHeight" value="60">
-<b!w_var_parms cmd="DEFINE" name=":flashBgcolor" value="#Ffffff">
-<b!w_paste cmd="File" src="../components/flashSniffer.stempl">
 
+var flashtrans=1;
+// -->
+</script>
+<script src="/js/js_sniffer.js"></script>
 
 	  
 	<!--/frags/wnbaTopNav_NEW.html SSI include--> <script>function checkSearch(){if(document.search.sp_q.value == ""){alert("Please enter a search term.");return false;}}</script>
@@ -209,23 +267,23 @@ else document.write("<br><center style=\"font-size:12px;font-family:verdana;font
 <input type="hidden" name="sp-x-1" value="site">
 <input type="hidden" name="sp-q-1" value="wnba">
 <input type="hidden" name="sp_advanced" value="">
-<table cellpadding="0" border="0" cellspacing="0" width="780">
-<tbody><tr><td height="24" class="topNav"><a href="/players/"><img src="/media/homepage/globalBTN_players.gif" width="36" height="12" border="0"></a></td>
-	<td class="topNav"><a href="/schedules/"><img src="/media/homepage/globalBTN_schedules.gif" width="50" height="12" border="0"></a></td>
-	<td class="topNav"><a href="/standings/by_conference.html"><img src="/media/homepage/globalBTN_standings.gif" width="50" height="12" border="0"></a></td>
-	<td class="topNav"><a href="/statistics/"><img src="/media/homepage/globalBTN_stats.gif" width="25" height="12" border="0"></a></td>
-	<td class="topNav"><a href="/transactions/WNBA_2005.html"><img src="/media/homepage/globalBTN_transactions.gif" width="64" height="12" border="0"></a></td>
-	<td class="topNav"><a href="/news/"><img src="/media/homepage/globalBTN_news.gif" width="25" height="12" border="0"></a></td>
-	<td class="topNav"><a href="/voices/"><img src="/media/homepage/globalBTN_our_voices.gif" width="53" height="12" border="0"></a></td>
-	<td class="topNav"><a href="/broadband/index.html"><img src="/media/homepage/globalBTN_highlights.gif" width="53" height="12" border="0"></a></td>
-	<td class="topNav"><a href="/community/"><img src="/media/homepage/globalBTN_comm.gif" width="58" height="12" border="0"></a></td>
-	<td class="topNav"><a href="/news/newsletters.html"><img src="/media/homepage/globalBTN_newsletter.gif" width="59" height="12" border="0"></a></td>
-	<td class="topNav" style="padding-right:5px;"><input size="35" name="sp_q" value="" style="width:114px;font-family:Arial; font-size:10px; font-weight:bold; font-style:normal;border: 1px solid #000000;"></td>
-	<td class="topNav" style="padding-right:5px;"><input type="image" src="/images/homepage/wnba_nav_search.gif"></td>
+<table cellpadding="0" border="0" cellspacing="0" width="780" style="background-image: url(/media/homepage/wnba_nav_bg.gif);">
+<tbody><tr><td><a href="/players/"><img src="/media/homepage/wnba_nav_players.gif" border="0"></a></td>
+	<td><a href="/schedules/"><img src="/media/homepage/wnba_nav_schedules.gif" border="0"></a></td>
+	<td><a href="/standings/by_conference.html"><img src="/media/homepage/wnba_nav_standings.gif" border="0"></a></td>
+	<td><a href="/statistics/"><img src="/media/homepage/wnba_nav_stats.gif" border="0"></a></td>
+	<td><a href="/transactions/WNBA_2006.html"><img src="/media/homepage/wnba_nav_transactions.gif" border="0"></a></td>
+	<td><a href="/news/"><img src="/media/homepage/wnba_nav_news.gif" border="0"></a></td>
+	<td><a href="/voices/"><img src="/media/homepage/wnba_nav_ourvoices.gif" border="0"></a></td>
+	<td><a href="/broadband/index.html"><img src="/media/homepage/wnba_nav_highlights.gif" border="0"></a></td>
+	<td><a href="/community/"><img src="/media/homepage/wnba_nav_wnbacares.gif" border="0"></a></td>
+	<!--<td class=topNav><a href="/news/newsletters.html"><img src="/media/homepage/wnba_nav_newsletter.gif" width=64 height=14 border=0></a></td>-->
+	<td style="padding-right:5px;"><input size="35" name="sp_q" value="" style="width:114px;font-family:Arial; font-size:10px; font-weight:bold; font-style:normal;border: 1px solid #000000;"></td>
+	<td style="padding-right:5px;"><input type="image" src="/images/homepage/wnba_nav_search.gif"></td>
 </tr></tbody></table>
 
 
-	</form></noindex></b!w_paste></b!w_var_parms></b!w_var_parms></b!w_var_parms></b!w_var_parms></td>
+	</form></noindex></td>
 </tr>
 <tr><td colspan="4"><img src="/images/blank.gif" height="10"></td></tr>
 <tr><td colspan="4" align="right" bgcolor="#ffffff"><img src="/media/homepage/top_right_white_corner.gif"></td></tr>
@@ -238,7 +296,7 @@ else document.write("<br><center style=\"font-size:12px;font-family:verdana;font
 <tr><td bgcolor="#D9DAD3"><div class="blackText">
 	<div class="nav"><a href="/news/">News and Features</a></div>
 	<div class="nav"><a href="/voices/">Our Voices</a></div>
-	<div class="nav"><a href="/community/">In The Community</a></div>
+	<div class="nav"><a href="/community/">WNBA Cares</a></div>
 	<div class="nav"><a href="/news/newsletters.html">Newsletters</a></div>
 	<div class="nav"><a href="/about_us/about_wnba_index.html">About Us</a></div>
 	<div class="nav"><a href="/analysis/wnba_rules_regulations.html">Rules and Regulations</a></div>
@@ -256,8 +314,8 @@ else document.write("<br><center style=\"font-size:12px;font-family:verdana;font
 <tbody><tr><td><img src="/images/blank.gif" height="10"></td></tr>
 <tr><td><img src="/media/homepage/blue_box_tr_round.gif" width="140" height="6"></td></tr>
 <tr><td height="16" valign="top" align="left" class="navHead"><img src="/media/homepage/wnba_store_hd_blue.gif" alt="WNBA Store" width="75" height="11"></td></tr>
-<tr><td class="grey" align="center"><img src="/media/wnbacominner_playoff1.gif" width="124" height="142"></td></tr>
-<tr><td class="grey" align="center"><a targer="new" href="http://store.nba.com/gp/node/n/14156111/103-1501712-5602240?%5Fencoding=UTF8&amp;league=wnba" class="storeLink">Gear up for the Playoffs now at the WNBA Store</a></td></tr>
+<tr><td class="grey" align="center"><img src="/media/wnbacominner_sky.gif" width="124" height="142"></td></tr>
+<tr><td class="grey" align="center"><a targer="new" href="http://store.nba.com/gp/node/n/15842181/103-4343864-9429406?%5Fencoding=UTF8&amp;league=wnba" class="storeLink">Chicago Sky gear is available at the WNBA Store</a></td></tr>
 <tr><td class="grey" align="right"><img src="/media/homepage/grey_box_br_round.gif" width="139" height="7"></td></tr></tbody></table>
 
   
@@ -268,13 +326,15 @@ else document.write("<br><center style=\"font-size:12px;font-family:verdana;font
 <tr><td class="grey">
 <div style="margin:10px;">
 <div class="orangeBullet">
-<!--
-<a target=new href="http://www.wnba.com/essay_entry05.jsp">Enter to win new uniforms for your basketball team</a><br><br>
--->
+<a href="http://www.wnba.com/webAction?actionId=surveyInitialize&amp;target=/news/wnba_Newsletter.jsp&amp;surveyId=746">Get the inside scoop with WNBA.com's e-mail newsletter</a></div>
+
+<div class="listWrapperBlue"> </div>
+
+<div class="orangeBullet">
+
+<a href="http://www.wnba.com/fantasy_games/triplethreat/game.jsp">Play WNBA Triple Threat Fantasy Challenge to win great prizes</a></div>
 
 <!--
-<a href="http://www.wnba.com/fantasy_games/triplethreat/login.jsp">Play WNBA Triple Threat Fantasy Challenge to win great prizes</a></div>
-
 <div class=listWrapperBlue> </div>
 
 <div class=orangeBullet>
@@ -282,7 +342,6 @@ else document.write("<br><center style=\"font-size:12px;font-family:verdana;font
 
 <div class=listWrapperBlue> </div>
 -->
-<a target="new" href="http://www.nba.com/news/Whats_Next_Signup.jsp">Get the inside scoop with WNBA.com's e-mail newsletter</a></div>
 
 
 </div></td></tr>
@@ -457,138 +516,138 @@ else document.write("<br><center style=\"font-size:12px;font-family:verdana;font
 <!-- End detect image -->
 				
 <div class="articleBody">
-	Here at the NBA.com network of web sites (NBA.com, WNBA.com and NBDL.com and the official team sites of National Basketball Association ("NBA"), the Women's National Basketball Association ("WNBA") and the National Basketball Development League ("NBDL"), collectively referred to hereinafter as the "NBA.com Network"), we are committed to safeguarding your privacy.  This Privacy Policy ("Policy") describes the personally identifiable information we gather about you on the NBA.com Network, what we do with it, and the safeguards we have in place to protect it.<p>
+	Please be advised that the NBA.com Privacy Policy has been updated.<p></p><p>
 
-Before you submit any information to the NBA.com Network, please read this Policy for an explanation of how we will treat your personal information.  By using any part of the NBA.com Network, including without limitation any official team site of the NBA, WNBA, and the NBDL, you consent to the collection and use of your personal information as outlined in this Policy.  If you do not agree to this Policy, please do not use the NBA.com Network.  Your use of any part of the NBA.com Network indicates your acceptance of this Policy and of the collection and use of your personal information in accordance with this Policy.  Please note that this Policy applies only to personally identifiable information collected on the NBA.com Network; it does not apply to any other information collected or obtained by any member of the NBA Family (as defined below) through other means.</p><p>
+The new Privacy Policy, like the old one, outlines how we collect and use information from you based on your activities on the NBA.com Network and from other data sources. We have revised our Privacy Policy to better clarify some of our existing practices, including how we use “cookie” technology, such as combining aggregated and anonymous data with cookies; share personally identifiable information with third parties to perform services on our behalf; use data collected on the site; and collect user preferences and send emails based on those preferences.  To update your user preferences at any time, you may visit the registration area at <a href="http://www.nba.com/fancenter" target="_blank">www.nba.com/fancenter</a>. </p><p></p><p>
 
-The NBA.com Network does not knowingly solicit any personally identifiable information from children under the age of 13.  In addition, the NBA.com Network does not knowingly obtain, retain or use information from anyone who indicates that they are under the age of 13.  Accordingly, children under the age of 13 may be restricted from participating in certain features and transactions on the NBA.com Network (including the NBA/WNBA Store on NBA.com at store.nba.com ("NBA/WNBA Store")).  If you would like more information about the NBA.com Network's policy with respect to children, please read our <a href="#parents">Note to Parents</a> below.</p><p>
+If you accept the new Privacy Policy, you don't need to take any action.  If you do not wish to accept the new Privacy Policy, you may cancel your NBA.com registration by sending us an e-mail from the account you registered with to FanRelations@NBA.com and include the word 'Cancel' in the subject line or writing to us at 450 Harmon Meadow Boulevard, Secaucus, New Jersey,  07094, Attn: NBA.com Network Fan Relations. </p><p>
 
-You should note that the NBA.com Network includes certain "Third Party Sections" (such as those identified below) which are operated by third parties and subject to separate privacy policies.  Please review the privacy policies, which are posted on the Third Party Sections and govern the collection of personally identifiable information through those Third Party Sections.  You also should note that the NBA.com Network works with (and may provide links to) third party sites (i.e., sites that are not part of the NBA.com Network) that advertise on and/or offer features and transactions described on the NBA.com Network (e.g., fantasy games, subscription services, chat rooms, message boards, vendors, registration for camps and clinics).  The organizations controlling those third party sites are responsible for ensuring that they comply with applicable laws, regulations, and rules. If you visit a site that is not part of the NBA.com Network, we encourage you to review that site's privacy policy before providing any personally identifiable information.</p><p>
+<br>
+</p><hr>
+<br>
 
-If we make any material changes to this Policy, those changes will be posted here so that you are always aware of what personal information is collected, how that information is used, and under what circumstances that information may be disclosed.  Since this Policy may change from time to time, you should review it periodically and specifically before you provide any additional personally identifiable information.  Your continued use of the NBA.com Network following the posting of changes to this Policy will signal your acceptance of such changes. </p><p>
+Here at the NBA.com network of web sites (NBA.com, WNBA.com and nbadleague.com and the official team sites of National Basketball Association ("NBA"), the Women's National Basketball Association ("WNBA") and the NBA Development League ("D-League"), collectively referred to hereinafter as the "NBA.com Network"), we are committed to safeguarding your privacy. This Privacy Policy ("Policy") describes the information we gather on the NBA.com Network, what we do with it, and the safeguards we have in place to protect it. <p>
 
-If you have any questions, comments, or requests regarding this Policy or the information practices of the NBA.com Network, please contact us by e-mail at <a href="mailto:fanrelations@nba.com?subject=Privacy">FanRelations@NBA.com</a> or write to us at 450 Harmon Meadow Boulevard, Secaucus, New Jersey, 07094, Attn: NBA.com Network Fan Relations. </p><p>
+Before you submit any information to the NBA.com Network, please read this Policy for an explanation of how we will treat your personal information. By using any part of the NBA.com Network, including without limitation any official team site of the NBA, WNBA, or the D-League, you consent to the collection and use of your personal information as outlined in this Policy and to the collection, processing and maintenance of this information in the United States, and where applicable, other countries. If you do not agree to this Policy, please do not use the NBA.com Network. Your use of any part of the NBA.com Network indicates your acceptance of this Policy and of the collection and use of your personal information in accordance with this Policy. Please note that this Policy applies only to information collected on the NBA.com Network; it does not apply to any other information collected or obtained by any member of the NBA Family (as defined below) through other means. </p><p>
+
+The NBA.com Network does not knowingly solicit any personally identifiable information from children under the age of 13. In addition, the NBA.com Network does not knowingly obtain, retain or use information from anyone who indicates that they are under the age of 13. Accordingly, children under the age of 13 may be restricted from participating in certain features and transactions on the NBA.com Network (including, without limitation, NBAStore.com and WNBAStore.com ("NBA/WNBA Store")). If you would like more information about the NBA.com Network's policy with respect to children, please read our <a href="#parents">Note to Parents</a> below. </p><p>
+
+You should note that the NBA.com Network includes certain "Third Party Sections" (such as those identified below), which are operated by third parties and are subject to separate privacy policies. Please review the privacy policies, which are posted on the Third Party Sections and govern the collection of information through those Third Party Sections. You also should note that the NBA.com Network works with (and may provide links to) third party sites (i.e., sites that are not part of the NBA.com Network) that advertise on and/or offer features and transactions described on the NBA.com Network (e.g., tickets, fantasy games, subscription services, chat rooms, message boards, registration for camps and clinics). The organizations controlling those third party sites are responsible for ensuring that they comply with applicable laws, regulations, and rules. If you visit a site that is not part of the NBA.com Network, we encourage you to review that site's privacy policy before providing any personally identifiable information. </p><p>
+
+If we make any material changes to this Policy, those changes will be posted here so that you are always aware of what personal information is collected, how that information is used, and under what circumstances that information may be disclosed. Since this Policy may change from time to time, you should review it periodically and specifically before you provide any additional personally identifiable information. Your continued use of the NBA.com Network following the posting of changes to this Policy will signal your acceptance of such changes. </p><p>
+
+If you have any questions, comments, or requests regarding this Policy or the information practices of the NBA.com Network, please contact us by e-mail at <a href="mailto:FanRelations@NBA.com">FanRelations@NBA.com</a> or write to us at 450 Harmon Meadow Boulevard, Secaucus, New Jersey, 07094, Attn: NBA.com Network Fan Relations.</p><p>
+
 <b></b></p><center><b><a name="toc">TABLE OF CONTENTS</a></b></center><b><br></b><ol><b>
 <li>  <a href="#one">The organizations collecting the information</a><br>
 </li><li> <a href="#two">What personally identifiable information is collected</a><br>
 </li><li>  <a href="#three">How personally identifiable and other information is used</a><br>
 </li><li> <a href="#four">With whom the information may be shared</a><br>
 </li><li> <a href="#five">Special policies applicable to the Third Party Sections</a><br>
-</li><li> <a href="#six">What choices are available to you regarding collection, use and distribution of the information</a><br>
+</li><li> <a href="#six">What choices are available to you regarding collection, use and distribution of the information; Opting-out</a><br>
 </li><li> <a href="#seven">The kind of security procedures that are in place to protect the loss, misuse or alteration of information under our control</a><br>
 </li><li> <a href="#eight">How you can correct any inaccuracies in the information</a><br>
 </li><li> <a href="#nine">Choice of Law</a><br>
-</li></b><li><b> <a href="#ten">Your California Privacy Rights</a></b><br></li></ol>
-<b><a name="one">1</a>. The organizations collecting the information</b><br>
+</li></b><li><b> <a href="#ten">Your California Privacy Rights</a></b><br></li></ol><p>
 
-The NBA.com and NBDL.com web sites are developed and operated by NBA Media Ventures, LLC ("NBAMV").  The WNBA.com web site is developed and operated by WNBA Enterprises, LLC ("WNBAE").  The official team sites of the NBA are developed and operated by NBAMV and the respective NBA teams.  The official team sites of the WNBA are developed and operated by WNBAE and the respective WNBA teams.  The official team sites of the NBDL are developed and operated by NBAMV.  The NBA.com China web site at <a href="http://china.nba.com/">NBA.com/china</a> is operated in conjunction with Sohu.com Inc.  The NBA.com Taiwan web site at <a href="http://taiwan.nba.com/">NBA.com/taiwan</a> is operated in conjunction with Yam Digital Technology Company Ltd.  Certain sections of the NBA.com Network are operated by third parties, including, without limitation, the NBA/WNBA Store, which is operated by Amazon.com and the NBA Photo Store at <a href="http://photostore.nba.com">http://photostore.nba.com</a>, which is operated by Getty Images (collectively, the "Third Party Sections").  Each of these Third Party Sections is subject to the additional privacy policies of the companies that collect data through these Third Party Sections.  Please refer to the section entitled "special policies applicable to the Third Party Sections" below for more information. <p>  
-The information collected on the NBA.com Network is collected on behalf of, and may be shared with, all members of the "NBA Family," including without limitation NBAMV, WNBAE, NBA Properties, Inc., NBA TV, LLC, NBDL Enterprises, LLC, each NBA, WNBA, and NBDL team, and each of their respective parents and affiliates. </p><p>
+<b><a name="one">1</a>. The organizations collecting the information</b><br>
+The NBA.com and nbadleague.com web sites are developed and operated by NBA Media Ventures, LLC ("NBAMV"). The WNBA.com web site is developed and operated by WNBA Enterprises, LLC ("WNBAE"). The official team sites of the NBA are developed and operated by NBAMV and the respective NBA teams. The official team sites of the WNBA are developed and operated by WNBAE and the respective WNBA teams. The official team sites of the D-League are developed and operated by NBAMV. The NBA.com China web site at <a href="/china">NBA.com/china</a> is operated in conjunction with Sohu.com Inc. The NBA.com Taiwan web site at <a href="/taiwan">NBA.com/taiwan</a> is operated in conjunction with Yam Digital Technology Company Ltd. Certain sections of the NBA.com Network are operated by third parties, including, without limitation, the NBA/WNBA Store, which is operated by Amazon.com, and the NBA Photo Store at <a href="http://photostore.nba.com">http://photostore.nba.com</a>, which is operated by Getty Images or its designee (collectively, the "Third Party Sections"). Each of these Third Party Sections is subject to the additional privacy policies of the companies that collect data through these Third Party Sections. Please refer to the section entitled "Special policies applicable to Third Party Sections" below for more information. </p><p>
 
 <a href="#toc">Return to top</a></p><p>
 
 <b><a name="two">2</a>.  What personally identifiable information is collected</b><br>
 
-As stated above, the NBA.com Network does not knowingly solicit any personally identifiable information from children under the age of 13.  Please review our <a href="#parents">Note to Parents</a>, if you have any questions regarding our Policy with respect to children. 
-</p><p>
-With respect to persons age 13 or older, the NBA.com Network does not collect personally identifiable information such as name and e-mail address through the site unless you voluntarily provide that information (e.g., in connection with site registration, newsletters, games, promotions, purchases on the NBA/WNBA Store, etc.).  Information required to participate in certain NBA.com Network features and transactions may vary but will typically include your first and last name; address including city, state, zip code and country; complete date of birth; and e-mail address.  In case you are making purchases online, a credit card number and expiration date may be required.  You may also be requested to provide a unique member name and password to access and use certain features of the site. </p><p>
-In addition, the NBA.com Network may solicit from time to time your opinion to determine your preferences and dislikes in order to provide you with a better product or offering. These surveys are always optional and your decision not to participate in a survey will not affect your status as an NBA.com Network user. <br><br>
+As stated above, the NBA.com Network does not knowingly solicit any personally identifiable information from children under the age of 13. Please review our <a href="#parents">Note to Parents</a>, if you have any questions regarding our Policy with respect to children.</p><p>
+
+With respect to persons age 13 or older, the NBA.com Network collects personally identifiable information required to participate in certain NBA.com Network features and transactions (e.g., in connection with site registration, newsletters, games, sweepstakes, promotions, purchases on the NBA/WNBA Store, etc.).  This information may vary but will typically include your first and last name; address including city, state, zip code and country; complete date of birth; and e-mail address. In case you are making purchases online, a credit card number (including CID number) and expiration date may be required as well as shipping, billing and other information you provide to purchase or ship an item and other transactional information based on your purchase activities on the NBA.com Network. You may also be requested to provide a unique member name and password to access and use certain features of the site.</p><p>
+
+In addition, the NBA.com Network may solicit from time to time your opinion to determine your preferences and dislikes in order to provide you with a better product or offering. These surveys are always optional, and your decision not to participate in a survey will not affect your status as an NBA.com Network user.</p><p>
+
+The NBA.com Network also may collect non-personally identifiable information, including traffic statistics regarding page views; other technical information, including IP address and standard web log information; and supplemental information from third parties.  The NBA.com Network also uses web beacons and other similar technology to track certain general usage pattern information, such as the web pages people visit within the NBA.com Network. The NBA.com Network also may log users' Internet Protocol (IP) addresses (the group of four numbers separated by periods, such as 123.45.67.89, that identifies a particular host computer) for the purposes of system administration, providing certain site functionality and content, site tracking and collecting and reporting aggregate usage information. We may combine this and other non-personally identifiable information with the personally identifiable information that we have collected.</p><p>
+
+The NBA.com Network uses "cookie" technology (including browser and flash cookies) and users' IP addresses to customize and enhance your online experience on the site. Cookies are pieces of information transferred to your hard drive when you visit our site that automatically identify your browser to our server whenever you interact with our site. Such technology is a common feature of many web sites and is necessary in order for certain features of our site to function properly or in order to provide an online service to you (e.g., site registration, NBA/WNBA Store). We do not combine information that we obtain through the use of cookies with personally identifiable information, but we may combine information which we obtain through the use of cookies with other aggregate or anonymous data, including a unique ID number we have assigned to you. You may customize the browser settings of your computer to notify you when a browser cookie is sent or to refuse browser cookies altogether. Please check your browser for instructions on how to make these adjustments.  </p><p>
+
+You also should be aware that the NBA.com Network cannot control the use of cookies (or the resulting use of information obtained from cookies) by third parties that host or provide data, content and services for, or advertise on, the NBA.com Network. The NBA.com Network uses reputable third party vendors, such as DoubleClick, to serve most of the advertisements that you see on the pages of our site. If you would like to know more about the information gathering practices and "opt-out" procedures of DoubleClick, <a href="http://www.doubleclick.com/us/about_doubleclick/privacy/">please click here</a>.</p><p>
 
 <a href="#toc">Return to top</a></p><p>
-
 
 <b><a name="three">3</a>.  How personally identifiable and other information is used</b><br>
 
-The NBA Family may use your information to provide you with services and information you have requested or products you have purchased (e.g., e-mail newsletters, NBA/WNBA Store orders).  The NBA Family also may use your information to respond to specific inquiries made by you (e.g., in response to job applications, e-mailed questions).  In addition, the NBA Family may use your information and/or supplement your information with other information we obtain to offer you products, services, and information that we think may be of interest to you.  An NBA.com Network user may change or update his or her personal information at any time by visiting the registration area at <a href="http://www.nba.com/fancenter">NBA.com/fancenter</a>.<br><br>
-The NBA.com Network uses "cookie" technology and users' IP addresses to customize and enhance your online experience on the site.  Cookies are pieces of information transferred to your hard drive when you visit our site that automatically identify your browser to our server whenever you interact with our site.  Such technology is a common feature of many web sites and is necessary in order for certain features of our site to function properly or in order to provide an online service to you (e.g., site registration, NBA/WNBA Store).  We do not combine information that we obtain through the use of cookies with other personally identifiable information that we collect on this site.  You may customize the browser settings of your computer to notify you when a cookie is sent or to refuse cookies altogether. Please check your browser for instructions on how to make these adjustments. <br><br>
-You also should be aware that the NBA.com Network cannot control the use of cookies (or the resulting use of information obtained from cookies) by third parties that host or provide data, content and services for, or advertise on, the NBA.com Network.  The NBA.com Network uses reputable third party vendors, such as DoubleClick, to serve most of the advertisements that you see on the pages of our site.  If you would like to know more about the information gathering practices and "opt-out" procedures of DoubleClick, please <a target="_blank" href="http://www.doubleclick.net/us/corporate/privacy/">click here</a>. <br><br>
-
-The NBA.com Network also tracks certain general usage pattern information, such as the web pages people visit within the NBA.com Network.  The NBA.com Network also may log users' Internet Protocol (IP) addresses (the group of four numbers separated by periods, such as 123.45.67.89, that identifies a particular host computer) for the purposes of system administration, providing certain site functionality and content, site tracking and collecting and reporting aggregate usage information.  <br><br>
+The NBA Family may use your information to provide you with services and information you have requested or products you have purchased (e.g., e-mail newsletters, NBA/WNBA Store orders) and to resolve disputes, collect fees, and troubleshoot problems.  The NBA Family also may use your information to respond to specific inquiries made by you (e.g., in response to job applications, e-mailed questions); to prevent potentially prohibited or illegal activities, and enforce our Terms of Use; and to customize, measure, and improve our services, content and layout. In addition, the NBA Family may use your information and/or supplement your information with other information we obtain to notify you about special offers, products, services, and information that we think may be of interest to you. You can opt-out of receiving commercial e-mail from us at any time.  You may also change or update your personal information by visiting the registration area at <a href="http://www.nba.com/fancenter" target="_blank">www.nba.com/fancenter</a>.</p><p>
 
 <a href="#toc">Return to top</a></p><p>
 
-
 <b><a name="four">4</a>.  With whom the information may be shared</b><br>
 
-The NBA.com Network will not disclose personally identifiable information about you to entities other than those within the NBA Family, except in accordance with this Policy or as authorized by you at the time the information is collected. <br><br>
+As indicated above, the NBA.com Network may disclose persofanally identifiable information to those within the NBA Family.  From time to time, the NBA.com Network may share personally identifiable information with third parties we have engaged to perform certain services in connection with the operation of certain aspects of the NBA.com Network, including to customize, measure, and improve our services, content, and layout. Except with respect to the Third Party Sections, these third party service providers who have access to your personally identifiable information are authorized to use this information only in a manner consistent with this Policy. </p><p>
 
-From time to time, the NBA.com Network may engage third parties to perform certain services in connection with the operation of certain aspects of the NBA.com Network.  Except with respect to the Third Party Sections, these third party service providers who have access to your personally identifiable information are authorized to use this information only in a manner consistent with this Policy. <br><br>
+The NBA Family has several sponsors and other business partners that can offer valuable products and services to our users. The NBA.com Network will not disclose your e-mail address to these partners, unless you have indicated that you wish to receive information, special offers or promotions from third parties via e-mail. From time to time, the NBA.com Network may share or provide non-identifiable aggregated information to these partners, and, in addition, the NBA.com Network may provide them with mailing address and other information so that they may extend offers to you. If you do not want your information shared with these partners, you may make such a request by sending us an e-mail at <a href="mailto:FanRelations@NBA.com">FanRelations@NBA.com</a> or writing to 450 Harmon Meadow Boulevard, Secaucus, New Jersey, 07094, Attn: NBA.com Network Fan Relations. Your information also may be provided to an entity that acquires all or any part of the NBA.com Network's assets or in a merger or acquisition, in which case, you will be notified of such transaction and advised of any change in the applicable privacy policy. Further, we may disclose information to law enforcement or other government officials and if asked to disclose it by subpoena, court order or other legal process. </p><p>
 
-The NBA Family has several sponsors and other business partners that can offer valuable products and services to our users.  The NBA.com Network will not disclose your e-mail address to these partners, unless you have consented to receiving information, special offers or promotions from third parties via e-mail.  From time to time, the NBA.com Network may share or provide non-identifiable aggregated information to these partners, and, in addition, the NBA.com Network may provide them with mailing address and other information so that they may extend offers to you.  If you do not want your information shared with these partners, you may make such a request by sending us an e-mail at <a href="mailto:fanrelations@nba.com?subject=Privacy">FanRelations@NBA.com</a> or writing to 450 Harmon Meadow Boulevard, Secaucus, New Jersey, 07094, Attn: NBA.com Network Fan Relations.  Your information also may be provided to an entity that acquires all or any part of the NBA.com Network's assets or in a merger or acquisition, in which case, you will be notified of such transaction and advised of any change in the applicable privacy policy.  Further, we may disclose information to law enforcement or other government officials and if asked to disclose it by subpoena, court order or other legal process. <br><br>
-
-While the NBA Family is careful in choosing its partners and advertisers, we are only responsible for content on our own sites and for use of your personally identifiable information by us.  All third parties associated with the NBA.com Network and/or to which the NBA.com Network may link (including, but not limited to, advertisers, sponsors and other Internet sites) with whom we share information have independent privacy and data collection practices.  We encourage you to read the privacy policy of every web site that you visit.  The NBA.com Network does not control this collection of information and cannot be responsible or liable for the policies or actions of third parties. <br><br>
-
+While the NBA Family is careful in choosing its partners and advertisers, we are only responsible for content on our own sites and for use of your personally identifiable information by us. All third parties associated with the NBA.com Network and/or to which the NBA.com Network may link (including, but not limited to, advertisers, sponsors and other Internet sites) with whom we share information have independent privacy and data collection practices. We encourage you to read the privacy policy of every web site that you visit. The NBA.com Network does not control this collection of information and cannot be responsible or liable for the policies or actions of third parties. </p><p>
 
 <a href="#toc">Return to top</a></p><p>
 
 <b><a name="five">5</a>.  Special policies applicable to the Third Party Sections</b><br>
 
-The practices described in this section apply only to information gathered through the Third Party Sections and do not reflect practices with respect to information gathered elsewhere on the NBA.com Network.  <br><br>
-<b>NBA/WNBA Store</b>.  At the NBA/WNBA Store, if you register or order products, you may provide the following types of personally identifiable information about yourself (or about others, if you order a gift online and want it sent directly to the recipient): name, address, e-mail address, telephone number, and credit card information. <br><br>
+The practices described in this section apply only to information gathered through the Third Party Sections (such as those indicated below) and do not reflect practices with respect to information gathered elsewhere on the NBA.com Network. </p><p>
 
-The NBA.com Network has engaged Amazon.com to perform services in connection with the management and operation of NBA/WNBA Store.  As such, in connection with NBA/WNBA Store, Amazon.com will have access to and will use the personally identifiable information you provide in connection with your purchases on the NBA Store, subject to the terms of our agreement with Amazon.com.  Examples of how Amazon.com may use your data include payment processing and authorization, fraud protection and credit risk reduction, marketing and promotional material distribution, site evaluation and data analysis.  Amazon.com has independent privacy and data collection practices.  For more information about those practices, please refer to Amazon.com's <a href="http://www.amazon.com/exec/obidos/tg/browse/-/468496/102-9736282-4836103" target="new">privacy policy</a>. <br><br>
+<b>NBA/WNBA Store</b>. At the NBA/WNBA Store, if you register or order products, you may provide the following types of personally identifiable information about yourself (or about others, if you order a gift online and want it sent directly to the recipient): name, address, e-mail address, telephone number, and credit card information. </p><p>
 
-<b>NBA Photo Store</b>.  At the NBA Photo Store, if you register or order products, you may provide the following types of personally identifiable information about yourself (or about others, if you order a gift online and want it sent directly to the recipient): name, address, e-mail address, date of birth, telephone number, and credit card information. <br><br>
+The NBA.com Network has engaged Amazon.com to perform services in connection with the management and operation of NBA/WNBA Store. As such, in connection with NBA/WNBA Store, Amazon.com will have access to and will use the personally identifiable information you provide in connection with your purchases on the NBA Store, subject to the terms of our agreement with Amazon.com. Examples of how Amazon.com may use your data include payment processing and authorization, fraud protection and credit risk reduction, marketing and promotional material distribution, site evaluation and data analysis. Amazon.com has independent privacy and data collection practices. For more information about those practices, please refer to Amazon.com's <a href="http://www.amazon.com/exec/obidos/tg/browse/-/468496/102-9736282-4836103" target="new">privacy policy</a>. </p><p>
 
-The NBA.com Network has engaged Getty Images or its designee to perform services in connection with the management and operation of NBA Photo Store.  As such, in connection with the NBA Photo Store, Getty Images or its designee will have access to and will use the personally identifiable information you provide in connection with your purchases or registration on the NBA Photo Store, subject to the terms of our agreement with Getty Images or its designee.  Examples of how Getty Images or its designee may use your data include payment processing and authorization, fraud protection and credit risk reduction, marketing and promotional material distribution, site evaluation and data analysis.  Getty Images or its designee has independent privacy and data collection practices.  For more information about those practices, please refer to Getty Images' <a href="http://photostore.nba.com/perl/gal/nba?process=deliver&amp;page=privacy" target="new">privacy policy</a>. <br><br>
+<b>NBA Photo Store</b>. At the NBA Photo Store, if you register or order products, you may provide the following types of personally identifiable information about yourself (or about others, if you order a gift online and want it sent directly to the recipient): name, address, e-mail address, date of birth, telephone number, and credit card information. </p><p>
 
+The NBA.com Network has engaged Getty Images or its designee to perform services in connection with the management and operation of NBA Photo Store. As such, in connection with the NBA Photo Store, Getty Images or its designee will have access to and will use the personally identifiable information you provide in connection with your purchases or registration on the NBA Photo Store, subject to the terms of our agreement with Getty Images or its designee. Examples of how Getty Images or its designee may use your data include payment processing and authorization, fraud protection and credit risk reduction, marketing and promotional material distribution, site evaluation and data analysis. Getty Images or its designee has independent privacy and data collection practices. For more information about those practices, please refer to Getty Images' <a href="http://photostore.nba.com/perl/gal/nba?process=deliver&amp;page=privacy" target="new">privacy policy</a>. </p><p>
 
-<a href="#toc">Return to top</a></p><p>
-
-
-<b><a name="six">6</a>.  What choices are available to you regarding collection, use and distribution of the information </b><br>
-
-You are not required to receive any e-mail communications from the NBA.com Network that you do not wish to receive.  During the registration process, you will have the option to sign up to receive newsletters, selected sponsor offers, discounts and other promotions by e-mail.  Users will receive such e-mails as a result of their use of the NBA.com Network only with their consent (e.g., through opt-in boxes).  If, after you choose to receive such information, you wish to discontinue receiving these e-mails, you may change your preferences by visiting the registration area (<a href="http://www.nba.com/fancenter">NBA.com/fancenter</a>) or by indicating your preference by following the instructions that may be provided within the e-mails received.  If a member name and password are required to access the feature, you will need to provide such information to update your registration preferences.  If you have forgotten your password, you may obtain it by visiting the registration area and requesting that a hint or a newly assigned password be sent to you. <br><br>
-
-You also may request to be removed from our catalog and mailing list by writing to us at 450 Harmon Meadow Boulevard, Secaucus, New Jersey, 07094. Attn: NBA.com Network Fan Relations.  To obtain information about having your name and home address removed from marketing mailing lists on a national basis, you may wish to contact the Direct Marketing Association at www.the-dma.org. <br><br>
+<b>NBA Fantasy Games</b>. The NBA.com Network may conduct one or more fantasy games in conjunction with third parties.  In connection with such fantasy games, the third party partner will have access to and may use the personally identifiable information you provide, subject to the terms of that third parties’ privacy policy, which will be posted on the registration page.  Please review the posted privacy of such third parties for more information. </p><p>
 
 <a href="#toc">Return to top</a></p><p>
 
+<b><a name="six">6</a>.  What choices are available to you regarding collection, use and distribution of the information, Opting-Out </b><br>
+
+You are not required to receive any e-mail communications from the NBA.com Network that you do not wish to receive. During the registration process, you may be asked to indicate whether you wish to receive newsletters, selected sponsor offers, discounts and other promotions by e-mail. You will receive such e-mails as a result of the preferences indicated in the registration process or subsequent changes made to your preferences. If, after you choose to receive such information, you wish to discontinue receiving these e-mails, you may change your preferences by visiting the registration area (<a href="http://www.nba.com/fancenter" target="_blank">www.nba.com/fancenter</a>) or by indicating your preference by following the instructions that may be provided within the e-mails received. If a member name and password are required to access the feature, you will need to provide such information to update your registration preferences. If you have forgotten your password, you may obtain it by visiting the registration area and requesting that a hint or a newly assigned password be sent to you. </p><p>
+
+You also may request to be removed from our catalog and mailing list by writing to us at 450 Harmon Meadow Boulevard, Secaucus, New Jersey, 07094. Attn: NBA.com Network Fan Relations. To obtain information about having your name and home address removed from marketing mailing lists on a national basis, you may wish to contact the Direct Marketing Association at www.the-dma.org. </p><p>
+
+<a href="#toc">Return to top</a></p><p>
 
 <b><a name="seven">7</a>.  The kind of security procedures that are in place to protect the loss, misuse or alteration of information under our control</b><br> 
 
-The NBA.com Network has security measures in place to protect against the loss, misuse and alteration of the information under its control.  The servers for the NBA.com Network that contain personally identifiable information are stored in a physically secure and climate controlled off-site facility.  Beyond the physical protection of the servers, we protect against data loss by backing up data, performing consistency checks, and restricting access to information on our servers.  When receiving financial information (e.g., credit card number, credit card expiration date) for completing online transactions, our site uses SSL or "Secure Sockets Layer," an industry standard security protocol.  In addition, only those trained employees needed to carry out our business functions will be authorized to have access to information on individual the NBA.com Network customers. <br><br>
+The NBA.com Network has security measures in place to protect against the loss, misuse and alteration of the information under its control. The servers for the NBA.com Network that contain personally identifiable information are stored in a physically secure and climate controlled off-site facility. Beyond the physical protection of the servers, we protect against data loss by backing up data, performing consistency checks, and restricting access to information on our servers. When receiving financial information (e.g., credit card number, credit card expiration date) for completing certain online transactions, including those in connection with the NBA.com/WNBA Store, the NBA Photo Store, and Audio League Pass, our site uses SSL or "Secure Sockets Layer," an industry standard security protocol.    Other features, like email and contact us are not encrypted.  When providing sensitive information on the Internet, you should also look at your browser to determine whether SSL technology is being employed (usually indicated by a image of a lock in the browser frame).   In addition, only those trained employees needed to carry out our business functions will be authorized to have access to information on individual NBA.com Network customers. </p><p>
 
-It is important to remember that whatever you transmit or disclose online can be collected and used by others or unlawfully intercepted by third parties.  No data transmission over the Internet can be guaranteed to be 100% secure.  While we strive to protect your information, we cannot warrant the security of any information you transmit to us. <br><br>
+It is important to remember that whatever you transmit or disclose online can be collected and used by others or unlawfully intercepted by third parties. No data transmission over the Internet can be guaranteed to be 100% secure. While we strive to protect your information, we cannot warrant the security of any information you transmit to us. </p><p>
 
-Your site membership account is password protected.  We recommend that you do not divulge your password to anyone.  At no time will any NBA.com Network employee ask for your password via e-mail.  If you ever receive such an inquiry, please notify the NBA.com Network immediately at <a href="mailto:fanrelations@nba.com?subject=Privacy">FanRelations@NBA.com</a>.  Ultimately, you are solely responsible for maintaining the secrecy of your member names, passwords and/or other account information. <br><br>
+Your site membership account is password protected. We recommend that you do not divulge your password to anyone. At no time will any NBA.com Network employee ask for your password via e-mail. If you ever receive such an inquiry, please notify the NBA.com Network immediately at <a href="mailto:FanRelations@NBA.com">FanRelations@NBA.com</a>. Ultimately, you are solely responsible for maintaining the secrecy of your member names, passwords and/or other account information. </p><p>
 
-Any information voluntarily disclosed by users and posted on our site (on message boards, web logs, and/or in chat areas) may be viewed and used by others.  If users post personal information that is accessible to the public online, the user does so at his or her own risk.  Users accept that they may receive unsolicited messages from other parties in return. <br><br>
+Any information voluntarily disclosed by users and posted on our site (on message boards, web logs, and/or in chat areas) may be viewed and used by others. If users post personal information that is accessible to the public online, the user does so at his or her own risk. Users accept that they may receive unsolicited messages from other parties in return. </p><p>
 
 <a href="#toc">Return to top</a></p><p>
-
 
 <b><a name="eight">8</a>.  How you can correct any inaccuracies in the information </b><br>
 
-To keep personally identifiable information that you provide via this site accurate, current and complete, please contact us as specified above and we will take appropriate steps to update or correct such information in our possession, or to remove you from our catalog and mailing list.  You also will have the option to correct any inaccuracies in your site membership account or other registration by returning to the registration area and updating your profile and preferences or re-registering.  If a member name and password are required to access the feature, you will need to provide such information to update your registration information. If you have forgotten your password, you may obtain it by visiting the registration area and requesting that a hint be sent to you at the e-mail address you originally provided during registration. <br><br> 
+To keep personally identifiable information that you provide via this site accurate, current and complete, please contact us as specified above and we will take appropriate steps to update or correct such information in our possession, or to remove you from our catalog and mailing list. You also will have the option to correct any inaccuracies in your site membership account or other registration by returning to the registration area and updating your profile and preferences or re-registering. If a member name and password are required to access the feature, you will need to provide such information to update your registration information. If you have forgotten your password, you may obtain it by visiting the registration area and requesting that a hint be sent to you at the e-mail address you originally provided during registration. </p><p>
 
 <a href="#toc">Return to top</a></p><p>
 
-
 <b><a name="nine">9</a>.  Choice of Law</b><br>
-If any disputes arise between us regarding your use of the NBA.com Network, such disputes shall be resolved according to the laws of the State of New Jersey, and the federal and state courts of New Jersey shall have exclusive jurisdiction over all claims. <br><br>
 
+If any disputes arise between us regarding your use of the NBA.com Network, such disputes shall be resolved according to the laws of the State of New Jersey, without regard to its choice-of-law provisions and the federal and state courts of New Jersey shall have exclusive jurisdiction over all claims. </p><p>
 
 <b><a name="ten">10</a>.  Your California Privacy Rights</b><br>  
-Beginning January 1, 2005, California Law permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to <a href="mailto:fanrelations@nba.com?subject=CaliforniaPrivacy">FanRelations@NBA.com</a> or write to us at NBA Media Ventures, LLC, 450 Harmon Meadow Boulevard, Secaucus, New Jersey, 07094. Attn: NBA.com Network Fan Relations<br> 
-<br>
 
+California Law permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to <a href="mailto:fanrelations@nba.com?subject=CaliforniaPrivacy">FanRelations@NBA.com</a> or write to us at NBA Media Ventures, LLC, 450 Harmon Meadow Boulevard, Secaucus, New Jersey, 07094. Attn: NBA.com Network Fan Relations  </p><p>
 
+<b>LAST UPDATED: February 10, 2006</b><br>
+Copyright 2006 NBA Media Ventures, LLC. All rights reserved. <br> 
+<i>Use of this site signifies your acceptance of  this Privacy Policy and the Terms of Use for <a href="http://www.nba.com">NBA.com</a>, <a href="http://www.wnba.com">WNBA.com</a>, and <a href="http://www.nba.com/dleague">nbadleague.com</a>.</i><br><br>
 
-
-
-<b>LAST UPDATED: April 22, 2005</b><br>
-Copyright 2004 NBA Media Ventures, LLC. All rights reserved. <br> 
-<i>Use of this site signifies your acceptance of  this Privacy Policy and the Terms of Use for <a href="http://www.nba.com">NBA.com</a>, <a href="http://www.wnba.com">WNBA.com</a>, and <a href="http://www.nba.com/nbdl">NBDL.com</a>.</i><br><br>
 </p><center><b><a name="parents">NBA.COM NETWORK NOTE TO PARENTS</a></b></center><br>
 
-It is the NBA.com Network's policy not to knowingly solicit any personally identifiable information from children under the age of 13.  A number of interactive features on the NBA.com Network require registration to participate (e.g., e-mail newsletters, site registration).  All registrants will be required to enter their full name, date of birth, complete address and e-mail address.  In some cases, users will be required to select a special member name to be used as an identifier for the feature and must also enter a password and a secret hint that will help us verify their identity if they forget their password.  If the NBA.com Network determines that a person is under the age of 13, based on the information provided during the registration process, that person will not be permitted to register for features requiring the submission of personal information.  Instead, when a child under 13 years old tries to register for such features on the NBA.com Network, he or she will be directed to content which does not involve the submission of personal information.  Children who indicate that they are under 13 years old will not be able to make credit card purchases or participate in interactive features on the NBA.com Network that involve the collection and retention of personal information (e.g., entering a sweepstakes) and they will not be contacted about special offers or promotions. 
-<br><br>
-The NBA.com Network works with (and may provide links to) third party sites that offer features described on the NBA.com Network.  Registration for these features is pursuant to the privacy policies of the third parties operating the web sites on which registration occurs.  Such third party sites may permit children under the age of 13 to register for these features on their sites in accordance with the privacy policies posted on those sites.  The operators of those third party sites are responsible for ensuring that their sites comply with applicable laws, regulations, and rules.  For more information, please review the privacy policies of each respective third party site.
-<br><br>
+It is the NBA.com Network's policy not to knowingly solicit any personally identifiable information from children under the age of 13. A number of interactive features on the NBA.com Network require registration to participate (e.g., e-mail newsletters, site registration). All registrants will be required to enter their full name, date of birth, complete address and e-mail address. In some cases, users will be required to select a special member name to be used as an identifier for the feature and must also enter a password and a secret hint that will help us verify their identity if they forget their password. If the NBA.com Network determines that a person is under the age of 13, based on the information provided during the registration process, that person will not be permitted to register for features requiring the submission of personal information. Instead, when a child under 13 years old tries to register for such features on the NBA.com Network, he or she will be directed to content which does not involve the submission of personal information. Children who indicate that they are under 13 years old will not be able to make credit card purchases or participate in interactive features on the NBA.com Network that involve the collection and retention of personal information (e.g., entering a sweepstakes) and they will not be contacted about special offers or promotions. <p>
 
-<a href="#toc">Return to top</a><p>
+The NBA.com Network works with (and may provide links to) third party sites that offer features described on the NBA.com Network. Registration for these features is pursuant to the privacy policies of the third parties operating the web sites on which registration occurs. Such third party sites may permit children under the age of 13 to register for these features on their sites in accordance with the privacy policies posted on those sites. The operators of those third party sites are responsible for ensuring that their sites comply with applicable laws, regulations, and rules. For more information, please review the privacy policies of each respective third party site.  </p><p>
 
-
+<a href="#toc">Return to top</a></p><p>
 </p></div>
 				
 <br><br>
@@ -624,60 +683,69 @@ The NBA.com Network works with (and may provide links to) third party sites that
      document.write(year);
 -->
 </script>2020
- WNBA Media Ventures, LLC. All rights reserved. No portion of WNBA.com may be duplicated, redistributed or manipulated in any form.  By accessing any information beyond this page, you agree to abide by the WNBA.com <a style="color:#FF6600" href="http://www.wnba.com/basics/privacy_policy.html">Privacy Policy</a> / <a href="http://www.nba.com/news/privacy_policy.html#ten" style="color:#FF6600">Your California Privacy Rights</a> and <a href="http://www.wnba.com/basics/termsofuse.html">Terms of Use</a>.<br>
+ WNBA Enterprises, LLC. All rights reserved. No portion of WNBA.com may be duplicated, redistributed or manipulated in any form.  By accessing any information beyond this page, you agree to abide by the WNBA.com <a style="color:#FF6600" href="http://www.wnba.com/basics/privacy_policy.html">Updated Privacy Policy</a> / <a href="http://www.nba.com/news/privacy_policy.html#ten" style="color:#FF6600">Your California Privacy Rights</a> and <a href="http://www.wnba.com/basics/termsofuse.html">Terms of Use</a>.<br>
+<a class="GlobalLegal" href="http://www.nba.com/chat_and_mailboxes/advertising.html">Advertise on NBA.com</a> | <a class="GlobalLegal" href="http://www.nba.com/help/jobs.html"><b>Career Opportunities</b></a> | <a class="GlobalLegal" href="http://www.nba.com/help/faq.html">Help</a><br>
 </span>
 </center></div></div>
 </noindex>
-  
-	<!--/frags/wnbaglobalsitecomp/wnbaGlobalNavMenu_NEW.html SSI include--> <div><script language="JavaScript" src="/js/coBranded.js"></script></div>
+
+	  
+	<!--/frags/wnbaglobalsitecomp/wnbaGlobalNavMenu_BTM.html SSI include--> <link href="/css/globalNav.css" rel="stylesheet" type="text/css">
+<div><script language="JavaScript" src="/js/coBranded.js"></script></div>
 <noindex>
 <!--url's used in the movie-->
 <a href="/playoffs2005/"></a>
 <table cellpadding="0" border="0" cellspacing="0" width="780">
-<tbody><tr><td class="mainNavs"><a href="http://www.nba.com/"><img src="/media/homepage/globalBTN_nba.gif" border="0" width="19" height="17"></a></td>
-	<td class="mainNavs"><a href="http://www.nba.com/dleague/"><img src="/media/homepage/wnba_globalBTN_dleague.gif" border="0" width="48" height="17"></a></td>
-	<td class="mainNavs"><a href="http://www.wnba.com/"><img src="/media/homepage/globalBTN_wnba.gif" border="0" width="30" height="17"></a></td>
-	<td valign="top" class="mainNavs">
-	<select style="font-family:Arial; font-size:10px; font-weight:bold; font-style:normal;" name="global" onfocus="selectedIndex = 9" onchange="if( options[selectedIndex].value != '') document.location = options[selectedIndex].value">
-    <option value="http://www.nba.com/news/global.html">Global
-	</option><option value="http://www.nba.com/brasil/">Brasil
-	</option><option value="http://www.nba.com/canada/">Canada
-    </option><option value="http://china.nba.com">China
-    </option><option value="http://www.nba.com/espanol/">Español
-	</option><option value="http://www.nba.com/france/">France   
-    </option><option value="http://www.nba.com/germany/">Germany  
-	</option><option value="http://www.nba.com/japan/">Japan    
-	</option><option value="http://taiwan.nba.com">Taiwan  
-	</option><option value="http://www.nba.com/uk/">UK    
-	</option></select></td>
+<tbody><tr><td class="mainNavs"><div class="navPad"><a href="http://www.nba.com/" class="navLink">NBA</a></div></td>
+	<td class="mainNavs"><div class="navPad"><a href="http://www.nba.com/dleague/" class="navLink">D-League</a></div></td>
+	<td class="mainNavs"><div class="navPad"><a href="http://www.wnba.com/" class="navLink">WNBA</a></div></td>
+	<td valign="top" class="mainNavs"><div class="navWrapper">
+	<div align="left" class="boxBG" id="globalbtmDD" onmouseover="showLayer('globalbtmDD');" onmouseout="hideLayer('globalbtmDD');" style="top:-165px;_top:-156px;">
+	<div class="globalRowBTM"><a class="globalLink" href="http://www.nba.com/news/global.html"><div class="gWidth">Global</div></a></div>
+	<div class="globalRowBTM"><a class="globalLink" href="http://www.nba.com/brasil/"><div class="gWidth">Brasil</div></a></div>
+	<div class="globalRowBTM"><a class="globalLink" href="http://www.nba.com/canada/"><div class="gWidth">Canada</div></a></div>
+	<div class="globalRowBTM"><a class="globalLink" href="http://china.nba.com"><div class="gWidth">China</div></a></div>
+	<div class="globalRowBTM"><a class="globalLink" href="http://www.nba.com/espanol/"><div class="gWidth">EspaÃ±ol</div></a></div>
+	<div class="globalRowBTM"><a class="globalLink" href="http://www.nba.com/france/"><div class="gWidth">France</div></a></div>
+	<div class="globalRowBTM"><a class="globalLink" href="http://www.nba.com/germany/"><div class="gWidth">Germany</div></a></div>
+	<div class="globalRowBTM"><a class="globalLink" href="http://www.nba.com/japan/"><div class="gWidth">Japan</div></a></div>
+	<div class="globalRowBTM"><a class="globalLink" href="http://taiwan.nba.com"><div class="gWidth">Taiwan</div></a></div>
+	<div class="globalRowBTM"><a class="globalLink" href="http://www.nba.com/uk/"><div class="gWidth">UK</div></a></div>
+	<img src="/images/blank.gif" height="5">
+	</div></div>	
+	<div class="linkWrapper" onmouseover="showLayer('globalbtmDD');" onmouseout="hideLayer('globalbtmDD');"><div class="navPad"><a href="#" class="navLink">Global</a></div></div>
+	</td>
 	<td class="mainNavs">
-	<select style="width:120px;font:10px verdana, arial, sans-serif;text-decoration:none;background-color:#ffffff;" name="url" onchange="javascript:if( options[selectedIndex].value != 'Teams') document.location = options[selectedIndex].value">
-	<option selected="">Teams</option>
-	<option value="/sting/">Charlotte</option>
-<option value="/sky/">Chicago</option>
-	<option value="/sun/">Connecticut</option>
-	<option value="/shock/">Detroit</option>
-	<option value="/comets/">Houston</option>
-	<option value="/fever/">Indiana</option>
-	<option value="/sparks/">Los Angeles</option>
-	<option value="/lynx/">Minnesota</option>
-	<option value="/liberty/">New York</option>
-	<option value="/mercury/">Phoenix</option>
-	<option value="/monarchs/">Sacramento</option>
-	<option value="/silverstars/">San Antonio</option>
-	<option value="/storm/">Seattle</option>
-
-	<option value="/mystics/">Washington</option>
-	</select></td>
-	<td class="mainNavs"><a href="/wireless/index.html"><img src="/media/homepage/globalBTN_wireless.gif" border="0" width="40" height="17"></a></td>
-	<td class="mainNavs"><a href="http://www.wnba.com/fantasy_games/triplethreat/game.jsp"><img src="/media/homepage/globalBTN_fantasy_game.gif" border="0" width="68" height="17"></a></td>
-	<td class="mainNavs"><a href="http://www.nba.com/nba_tv/"><img src="/media/homepage/globalBTN_nbatv.gif" border="0" width="30" height="17"></a></td>
-	<td class="mainNavs"><a href="http://store.nba.com/gp/node/n/14156111/103-1501712-5602240?%5Fencoding=UTF8&amp;league=wnba"><img src="/media/homepage/globalBTN_store.gif" border="0" width="24" height="17"></a></td>
-	<td class="mainNavs"><a href="/tickets/tickets.html"><img src="/media/homepage/globalBTN_tickets.gif" border="0" width="53" height="17"></a></td>
+	<div style="position:relative;width:40px;">
+	<div align="left" class="boxBG" id="teamsbtmDD" onmouseover="showLayer('teamsbtmDD');" onmouseout="hideLayer('teamsbtmDD');" style="top:-229px;_top:-215px;">
+	<div class="globalRowBTM"><a class="globalLink" href="/sting/"><div class="gWidth">Charlotte</div></a></div>
+	<div class="globalRowBTM"><a class="globalLink" href="/sky/"><div class="gWidth">Chicago</div></a></div>
+	<div class="globalRowBTM"><a class="globalLink" href="/sun/"><div class="gWidth">Connecticut</div></a></div>
+	<div class="globalRowBTM"><a class="globalLink" href="/shock/"><div class="gWidth">Detroit</div></a></div>
+	<div class="globalRowBTM"><a class="globalLink" href="/comets/"><div class="gWidth">Houston</div></a></div>
+	<div class="globalRowBTM"><a class="globalLink" href="/fever/"><div class="gWidth">Indiana</div></a></div>
+	<div class="globalRowBTM"><a class="globalLink" href="/sparks/"><div class="gWidth">Los Angeles</div></a></div>
+	<div class="globalRowBTM"><a class="globalLink" href="/lynx/"><div class="gWidth">Minnesota</div></a></div>
+	<div class="globalRowBTM"><a class="globalLink" href="/liberty/"><div class="gWidth">New York</div></a></div>
+	<div class="globalRowBTM"><a class="globalLink" href="/mercury/"><div class="gWidth">Phoenix</div></a></div>
+	<div class="globalRowBTM"><a class="globalLink" href="/monarchs/"><div class="gWidth">Sacramento</div></a></div>
+	<div class="globalRowBTM"><a class="globalLink" href="/silverstars/"><div class="gWidth">San Antonio</div></a></div>
+	<div class="globalRowBTM"><a class="globalLink" href="/storm/"><div class="gWidth">Seattle</div></a></div>
+<div class="globalRowBTM"><a class="globalLink" href="/mystics/"><div class="gWidth">Washington</div></a></div>
+	<img src="/images/blank.gif" height="5">
+	</div></div>	
+	<div class="linkWrapper" onmouseover="showLayer('teamsbtmDD');" onmouseout="hideLayer('teamsbtmDD');"><div class="navPad"><a href="#" class="navLink">Teams</a></div></div>
+	</td>
+	<td class="mainNavs"><div class="navPad"><a href="/wireless/index.html" class="navLink">Wireless</a></div></td>
+	<td class="mainNavs"><div class="navPad"><a href="http://www.wnba.com/fantasy/triplethreat/login.jsp" class="navLink">Fantasy Games</a></div></td>
+	<td class="mainNavs"><div class="navPad"><a href="http://www.nba.com/nba_tv/" class="navLink">NBATV</a></div></td>
+	<td class="mainNavs"><div class="navPad"><a href="http://store.nba.com/gp/node/n/14156111/103-1501712-5602240?%5Fencoding=UTF8&amp;league=wnba" class="navLink">Store</a></div></td>
+	<td class="mainNavs"><div class="navPad"><a href="/tickets/tickets.html" class="navLink">Tickets</a></div></td>
 </tr></tbody></table>
 </noindex>
 
 
+	
 	</td>
 </tr></tbody></table>
 <!--BEGIN PERSONALIZATION STEMPL -->
@@ -690,159 +758,171 @@ if (highRes){
 	document.getElementById("teamSpotlightHiRes").style.display ="block";
 }
 </script>
-<noindex>
-<table border="0" cellspacing="0" cellpadding="0" width="200" bgcolor="#E6E6DC">
-<tbody><tr><td><img src="/images/blank.gif" height="10"></td></tr>
-<tr><td><div style="margin-left:10px;margin-right:10px;"><img src="/media/homepage/fan_center_text.gif"></div></td></tr>
-<tr><td class="BleedText"><div style="margin:10px;">
-	<img src="/media/dot.gif" width="8" height="12" border="0"> <a class="BleedTextHead" href="http://www.nba.com/news/Whats_Next_Signup.jsp">Sign up now: Free Newsletters</a></div>
+<div style="margin-top:5px;margin-bottom:5px;"><a href="/history/"><img src="/media/homepage/wnba_hp_bleed_10thanniversary.gif" border="0"></a></div>
+
+
+
+  
+	<!--/frags/wnbaBleed.html SSI include--> <table cellpadding="0" border="0" cellspacing="0" width="200">
+<tbody><tr><td><img src="/media/homepage/wnba_hp_bleed_200hdr_fancenter.gif"></td></tr>
+<tr><td valign="top" class="hpBleed"><br><a href="http://www.wnba.com/webAction?actionId=surveyInitialize&amp;target=/news/wnba_Newsletter.jsp&amp;surveyId=746" class="BleedTextHead">Sign up for Free Newsletters</a><br><br>
+	<noindex>
+	<script language="JavaScript">
+	<!--
+	//document.write('<table border="0" cellspacing="0" cellpadding="0" width="178" bgcolor="#E6E6DC">');
+	//document.write('<tr>');
+	//document.write('<td class="BleedText"><div style="margin:10px;">');
+	var login = getCookie( "login" );
+	// This is for the rotating welcome 
+	welcomeText='Welcome ' +login;
+	if (( login != null ) && ( login != "null" )){
+	//You are logged in	  
+	document.writeln(welcomeText + "!<br><a class='BleedTextHead' href='/rm/myPreferences.jsp'>Update Profile</a>&nbsp;|&nbsp;<a class='BleedTextHead' href='/rm/logout.jsp'>Sign Out</a><br><br>");
+	}else{
+	document.writeln("<a class='BleedTextHead' href='/rm/login.jsp?dest=/'>Login</a>&nbsp;|&nbsp;<a class='BleedTextHead' href='http://www.nba.com/jm.jsp?ref=FCregWNBA&dest=http://www.wnba.com/rm/register.jsp'>Register now</a>, FREE!<br><br>");
+	document.writeln("<style>table.spotlightTable{background-color:#848484;}a.BleedTextHead{color:#1672CD;}</style>");
+	}
+	//document.writeln("</div></td></tr><tr><td colspan=2><img src='/images/blank.gif' height=7></td></tr></table>");
+	if (( login == null ) || ( login == "null" )){
+	document.writeln('<table align="center" cellpadding="0" cellspacing="0" border="0" width="178" bgcolor="#E6E6DC"><tr><td align="center"><a href="/rm/login.jsp" ><b>Update your Fan Center profile<br>to get your favorite team<br>information here<br><br></b></a></td></tr></table>');
+	}
+	// -->
+	</script>
+	<script>
+	if (highRes) {
+	document.write('<div style="margin-top:5px; margin-bottom:0px; margin-left:0px; margin-right:0px;" align="center" id="sortLayer"></DIV>');
+	document.write('<scr'+'ipt type="text/javascript" src="/js/wnbaHPPersonalization_HiRes.js"></scr'+'ipt> ');
+	}
+	</script>
+	<br></noindex>
 	</td>
 </tr>
-<tr><td align="center"><img src="/media/homepage/horz_dash_rtpad.gif"></td></tr>
+<tr><td><img src="/media/homepage/wnba_hp_bleed_200ftr.gif"></td></tr>
 <tr><td><img src="/images/blank.gif" height="5"></td></tr>
-</tbody></table></noindex>
-
-
-  
-	<!--/frags/wnbaBleed.html SSI include--> <noindex>
-<script language="JavaScript">
-<!--
-document.write('<table border="0" cellspacing="0" cellpadding="0" width="200" bgcolor="#E6E6DC">');
-document.write('<tr>');
-document.write('<td class="BleedText"><div style="margin:10px;">');
-var login = getCookie( "login" );
-// This is for the rotating welcome 
-welcomeText='Welcome ' +login;
-if (( login != null ) && ( login != "null" )){
-//You are logged in	  
-document.writeln(welcomeText + "!<br><a class='BleedTextHead' href='/rm/myPreferences.jsp'>Update Profile</a>&nbsp;|&nbsp;<a class='BleedTextHead' href='/rm/logout.jsp'>Sign Out</a>");
-}else{
-document.writeln("<a class='BleedTextHead' href='/rm/login.jsp?dest=/'>Login</a>&nbsp;|&nbsp;<a class='BleedTextHead' href='http://www.nba.com/jm.jsp?ref=FCregWNBA&dest=http://www.wnba.com/rm/register.jsp'>Register now</a>, FREE!");
-document.writeln("<style>table.spotlightTable{background-color:#848484;}a.BleedTextHead{color:#1672CD;}</style>");
-}
-document.writeln("</div></td></tr><tr><td colspan=2><img src='/images/blank.gif' height=7></td></tr></table>");
-if (( login == null ) || ( login == "null" )){
-document.writeln('<table align="center" cellpadding="0" cellspacing="0" border="0" width="200" bgcolor="#E6E6DC"><tr><td align="center"><a href="/rm/login.jsp" ><b>Update your Fan Center profile<br>to get your favorite team<br>information here<br><br></b></a></td></tr></table>');
-
-}
-// -->
-</script><table border="0" cellspacing="0" cellpadding="0" width="200" bgcolor="#E6E6DC"><tbody><tr><td class="BleedText"><div style="margin:10px;">
-
-<table border="0" cellspacing="0" cellpadding="0" bgcolor="#E6E6DC" width="200">
-<tbody><tr>
-<td class="BleedText">
-<script>
-if (highRes) {
-document.write('<div style="margin-top:5px; margin-bottom:0px; margin-left:0px; margin-right:0px;" align="center" id="sortLayer"></DIV>');
-document.write('<scr'+'ipt type="text/javascript" src="/js/wnbaHPPersonalization_HiRes.js"></scr'+'ipt> ');
-}
-</script>
-</td></tr>
-<tr><td><img src="/media/homepage/bottom_right_column.gif"></td></tr>
-</tbody></table><br>
-
-  
-	<!--/frags/wnbaOnTheAir.html SSI include--> <!---LOGOS-----> 
-
-<!---ABC:   /media/ABC_logo_CALENDAR_29x24.gif   -----> 
-<!---ESPN:  /media/ESPN_logo_CALENDAR_29x24.gif   ---> 
-<!---ESPN2: /images/shrinkee_ESPN2.gif--->
-<!---NBA TV:  /media/NBATV_logo_CALENDAR_29x24.gif ---> 
-<noindex>
-<table cellpadding="0" border="0" cellspacing="0" width="200"> <tbody><tr><td><img src="/media/homepage/top_right_column.gif"></td></tr> 
-<tr><td bgcolor="#E6E6DC"> <div style="margin:10px;"><img src="/media/homepage/wnba_calendar_text.gif"></div>
-
-<div class="bleedCalText"> <!--do not delete this line--->
-
-<font class="bleedCalDate"><b>December</b></font> <br>
-
-<font class="bleedCalTeam">Fri., Dec. 16:</font> <br>
-Chantelle Anderson will visit the Antioch Academy in San Antonio.<br><br>
-
-<font class="bleedCalTeam">Sat., Dec. 17:</font> <br>
-Helen Darling hosts the Charlotte Sting Select-A-Seat Event.<br><br>
-
-<font class="bleedCalTeam">Tues., Dec. 20:</font> <br>
-Habitat-for Humanity event in New Orleans with Temeka Johnson and Tamika Catchings.<br><br>
-
-<font class="bleedCalTeam">On newstands now...</font><br>
--<i>Upscale </i> with the Bryants at Sparks game<br>
--<i>Jolie </i> with Swin Cash and Lisa Leslie<br>
--<i>Ebony </i> with Sheila Johnson<br>
-
-
-
-<br>
-
-<!--<font class="bleedCalDate"><B>Tuesday:</B></font> <br>
-<FONT CLASS="bleedCalTeam">Sun at Monarchs</FONT>
-<TABLE WIDTH="95%" BORDER="0" CELLSPACING="0" CELLPADDING="0"><TR VALIGN="TOP"><TD WIDTH="32" ALIGN="CENTER"><DIV ALIGN="CENTER">
-<IMG SRC="/images/shrinkee_ESPN2.gif">
-</DIV></TD><TD VALIGN="MIDDLE">
-<FONT COLOR="#FF3E13"></FONT>       8 p.m. ET <FONT COLOR="#FF3E13"></FONT> 
-<A HREF="/tickets/tickets.html" CLASS=blue TARGET="_blank">Tickets</A><br>
-</TD></TR></TABLE><br>-->
-
-</div>
-
-</td></tr> <tr><td><img src="/media/homepage/bottom_right_column.gif"></td></tr> 
-<tr><td><img src="/images/blank.gif" height="10"></td></tr>
 </tbody></table>
 
 
+
+  
+	<!--/frags/wnbaOnTheAir.html SSI include--> <div align="center" style="margin-bottom:5px;">
+<script>var page="aol";</script>
+
+
+ <table border="0" cellpadding="0" cellspacing="0" height="150" width="180">
+<tbody><tr>
+<td>
+<script language="JavaScript">
+<!--
+var adHeight = 150;
+var adWidth = 180;
+if ((typeof(spnsrTXT) == "undefined") || (spnsrTXT == null))
+	var spnsrTXT= "";
+if ((site == "") || (typeof(site) == "undefined")){
+	var site = "WNBA";
+}
+//Look for sponsor tag
+
+
+//Determine position of ad
+var position = "";
+//Get page location, if already defined, ignore
+if (page == ""){
+	var page = "";
+}
+//-->
+</script>
+<!-- begin ad tag -->
+<script language="JavaScript" type="text/javascript">
+document.write('<script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/'+site+'.dart/'+page+';sz=180x150;ord=' + adSpotRandom + '?" type="text/javascript"><\/script>');
+</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/WNBA.dart/aol;sz=180x150;ord=1582143191919?" type="text/javascript"></script><script language="JavaScript" type="text/javascript">
+if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0)|| navigator.userAgent.indexOf("WebTV") >= 0) 
+{document.write('<a href="http://ad.doubleclick.net/jump/'+site+'.dart/'+page+';sz=180x150;ord=' + adSpotRandom + '?" target="_blank"><img src="http://ad.doubleclick.net/ad/'+site+'.dart/'+page+';sz=180x150;ord=' + adSpotRandom + '?" width="180" height="150" border="0" alt=""><\/a>');}
+</script>
+<noscript><a href="http://ad.doubleclick.net/jump/.dart/;sz=180x150;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/.dart/;sz=180x150;ord=123456789?" border="0" height="150" width="180" alt=""></a></noscript>
+</td>
+</tr></tbody></table>
+<!-- End ad tag -->
+
+
+</div>
+<table cellpadding="0" border="0" cellspacing="0" width="200">
+<tbody><tr><td><img src="/media/homepage/wnba_hp_bleed_200hdr_wnbacalendar.gif"></td></tr>
+<tr><td valign="top" class="hpBleed">
+<div class="bleedCalText"> <!--do not delete this line---> 
+
+
+
+<font class="bleedCalTeam">Tue., June 13:</font> <br>
+<img src="/media/wnba_hp_calendar_espn2.gif" align="left">7 p.m. ET<br>
+Charlotte at Washington<br><br>
+
+<font class="bleedCalTeam">Wed., June 14:</font> <br>
+<img src="/media/wnba_hp_calendar_nbatv.gif" align="left">8:30 p.m. ET<br>
+Sacramento at Houston<br><br>
+
+<font class="bleedCalTeam">Fri., June 16:</font> <br>
+<img src="/media/wnba_hp_calendar_nbatv.gif" align="left">7:30 p.m. ET<br>
+Indiana at Detroit<br>10 p.m.-Conn. at Phoenix<br><br>
 
 <!---LOGOS-----> 
 
-<!---ABC:   /media/ABC_logo_CALENDAR_29x24.gif   -----> 
-<!---ESPN:  /media/ESPN_logo_CALENDAR_29x24.gif   --->
-<!---ESPN2: /images/shrinkee_ESPN2.gif--->
-<!---NBA TV:  /media/NBATV_logo_CALENDAR_29x24.gif ---> 
+<!---
+/media/wnba_hp_calendar_abc.gif 
+/media/wnba_hp_calendar_espn.gif 
+/media/wnba_hp_calendar_espn2.gif 
+/media/wnba_hp_calendar_nbatv.gif 
+-->
 
 
-
-
-<table cellpadding="0" border="0" cellspacing="0" width="200"> <tbody><tr><td><img src="/media/homepage/top_right_column.gif"></td></tr> 
-<tr><td bgcolor="#E6E6DC"> <div style="margin:10px;"><img src="/media/homepage/how_to_get_nbatv_text_grey.gif"></div>
-
-<div class="bleedCalText"> 
-			  <script language="Javascript" src="/js/valZip.js"></script>
-			  <script language="Javascript">
-function getProviders()
-{
-	var zip = document.zipCodeForm.zipcode.value;
-	if (isZIPCode(zip))
-		window.open('/jsp/CableProvider.jsp?zipcode=' + zip, 'CableProviderByZipCode', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=0,width=455,height=400');
-	else
-		alert("Please enter a 5 digit zip code!");
-
-	return false;
-}
-</script>
-<div style="margin:3px;margin-bottom:0px;">
-<form name="zipCodeForm" method="post" onsubmit="return getProviders();">
-Enter your zip code to find your <br>local service provider for NBA TV.<br>
-<table cellpadding="2" border="0" cellspacing="0">
-<tbody><tr><td><input style="border: 1px solid #999;font-size:10px;" type="text" value="" name="zipcode" size="10"></td>
-<!--<input  border="0" type="Submit" value="go" STYLE="font-size:10px;border:#999 solid 1px;">-->
-<td><input type="image" src="/images/homepage/go_btn.jpg"></td></tr></tbody></table>
-</form></div>
+<font class="bleedCalTeam">On newsstands now...</font><br>
+-<i>CosmoGirl</i> - Sheila Johnson<br>
+-<i>Elle Girl</i> - 10th Anniversary<br>
+-<i>Essence</i> - 10th Anniversary<br>
 
 
 </div>
-
-</td></tr> <tr><td><img src="/media/homepage/bottom_right_column.gif"></td></tr> 
+</td>
+</tr>
+<tr><td><img src="/media/homepage/wnba_hp_bleed_200ftr.gif"></td></tr>
+<tr><td><img src="/images/blank.gif" height="5"></td></tr>
+</tbody></table>
+<table cellpadding="0" border="0" cellspacing="0" width="200">
+<tbody><tr><td><img src="/media/homepage/wnba_hp_bleed_200hdr_howtogetnbatv.gif"></td></tr>
+<tr><td valign="top" class="hpBleed">
+	<div class="bleedCalText"> 
+			  <script language="Javascript" src="/js/valZip.js"></script>
+			  <script language="Javascript">
+	function getProviders()
+	{
+		var zip = document.zipCodeForm.zipcode.value;
+		if (isZIPCode(zip))
+			window.open('/jsp/CableProvider.jsp?zipcode=' + zip, 'CableProviderByZipCode', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=0,width=455,height=400');
+		else
+			alert("Please enter a 5 digit zip code!");
+		return false;
+	}
+	</script>
+	<div style="margin:3px;margin-bottom:0px;">
+	<form name="zipCodeForm" method="post" onsubmit="return getProviders();">
+	Enter your zip code to find your <br>local service provider for NBA TV.<br>
+	<table cellpadding="2" border="0" cellspacing="0">
+	<tbody><tr><td><input style="border: 1px solid #999;font-size:10px;" type="text" value="" name="zipcode" size="10"></td>
+	<!--<input  border="0" type="Submit" value="go" STYLE="font-size:10px;border:#999 solid 1px;">-->
+	<td><input type="image" src="/images/homepage/go_btn.jpg"></td></tr></tbody></table>
+	</form></div>
+	</div>
+	</td>
+</tr>
+<tr><td colspan="2"><img src="/media/homepage/wnba_hp_bleed_200ftr.gif"></td></tr>
 </tbody></table>
 
-</noindex>
 
-
-
-</div></td></tr></tbody></table>
+</td></tr></tbody></table></div>
   
 	<!--/frags/wnbaFooterScript.html SSI include-->
   
 	<!--/frags/wnbaglobalsitecomp/wnbaGlobalFooterScript.html SSI include--> 
-<meta name="date" content="20051130">
+<meta name="date" content="20060612">
 
 <script language="JavaScript1.2">
 if (document.layers){
@@ -856,8 +936,43 @@ if (document.layers){
 <script language="JavaScript1.1">var SA_ID="nbapix;wnba";</script>
 <script language="JavaScript1.1" type="text/JavaScript" src="//stats.surfaid.ihost.com/sacdcv3_nbapix_nba.js"></script>
 <noscript>
-<img src="//stats.surfaid.ihost.com/crc/images/uc.GIF?3.00&amp;nbapix&amp;wnba&amp;noscript" height="1" width="1" alt="" border="0" />
+<img src="//stats.surfaid.ihost.com/crc/images/uc.GIF?3.00&nbapix&wnba&noscript" height="1" width="1" alt="" border="0" />
 </noscript>
 
+<!-- START Nielsen//NetRatings Measurement V5.1 -->
+<!-- COPYRIGHT 2004 Nielsen//NetRatings Limited -->
+<script language="JavaScript" type="text/javascript">
+<!--
+var _rsCI="us-nba";
+var _rsCG="wnba";
+var _rsDT=0;
+var _rsDU=0;
+var _rsDO=0;
+var _rsX6=0;
+var _rsSI=escape(window.location);
+var _rsLP=location.protocol.indexOf('https')>-1?'https:':'http:';
+var _rsRP=escape(document.referrer);
+var _rsND=_rsLP+'//secure-us.imrworldwide.com/';
+if (parseInt(navigator.appVersion)>=4)
+{
+var _rsRD=(new Date()).getTime();
+var _rsSE=1;
+var _rsSV="";
+var _rsSM=1;
+_rsCL='<scr'+'ipt language="JavaScript" type="text/javascript" src="'+_rsND+'v51.js"><\/scr'+'ipt>';
+}
+else
+{
+_rsCL='<img src="'+_rsND+'cgi-bin/m?ci='+_rsCI+'&cg='+_rsCG+'&si='+_rsSI+'&rp='+_rsRP+'">';
+}
+document.write(_rsCL);
+//-->
+</script><script language="JavaScript" type="text/javascript" src="https://secure-us.imrworldwide.com/v51.js"></script>
+<noscript>
+<img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-nba&amp;cg=wnba" alt="">
+</noscript>
+<!-- END Nielsen//NetRatings Measurement V5.1 -->
 
-</noindex></td></tr></tbody></table></div></body></html>
+
+
+</body></html>
