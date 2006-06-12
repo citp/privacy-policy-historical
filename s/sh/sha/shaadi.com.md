@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shaadi.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231043610id_/http%3A//www.shaadi.com/shaadi_info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shaadi.com privacy policy that was archived on 2006-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060612031557id_/http%3A//www.shaadi.com/shaadi_info/privacy.php) for the most accurate reproduction.*
 
 # Shaadi.com Matrimonials - The No.1 Matrimonial Services Provider - Privacy Policy
 
@@ -9,7 +9,7 @@
   
 ## Privacy Policy
 
-| [](https://web.archive.org/customer_relations/features/messenger.php)  
+|  [](https://web.archive.org/customer_relations/features/messenger.php)  
 |  |   
 ---|---|---  
 Privacy Statement for Shaadi.com Matrimonial Services  
@@ -176,7 +176,7 @@ If you have any questions about the security at our website, please [email us.](
   
 |  9\.   Tell me about Shaadi.com's email policy.  
 We use email extensively to help you find your match on Shaadi.com. Our main email products and services include: 
-* Member responses to your profile (called Contact Lens);
+* Member responses to your profile (called Contact Alert);
 * Partner matches for you (called Match Mail); and
 * Newsletters updating you of the latest features on our site.
 
@@ -185,7 +185,7 @@ Occasionally, we may also send you:
 * Announcements of special events which Shaadi.com is associated with; or
 * Special offers from partner sites, which we believe are useful for you.
 
-As a Shaadi.com member, you are automatically subscribed to all of the above, as an integral part of our matchmaking services to you. However, at any time, you may choose to manage your subscriptions to one or more of the above (except Contact Lens). All our emails will carry a link to help you do this. You can also independently manage your email subscription using the  
+As a Shaadi.com member, you are automatically subscribed to all of the above, as an integral part of our matchmaking services to you. However, at any time, you may choose to manage your subscriptions to one or more of the above (except Contact Alert). All our emails will carry a link to help you do this. You can also independently manage your email subscription using the  
 [My Email Manager](https://web.archive.org/my_shaadi/my-emails.php) option.
 
 We reiterate that we will never sell / rent out your email address to any third party, unless you expressly permit us to do so. In fact, we do not allow ANYONE to see your email address, not even other Shaadi.com members.
