@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arana.pw privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222022243id_/http%3A//www.pwregistry.pw/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arana.pw privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613015417id_/http%3A//www.pwregistry.pw/privacy.php) for the most accurate reproduction.*
 
 # PW - Policy Council - Governing the Management of the PW Domain
 
