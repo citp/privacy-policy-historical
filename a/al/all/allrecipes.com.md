@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the allrecipes.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215111922id_/http%3A//allrecipes.com/privacy.asp%3Flnkid%3D159) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allrecipes.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613014503id_/http%3A//allrecipes.com/privacy.asp%3Flnkid%3D159) for the most accurate reproduction.*
 
 # Allrecipes.com Privacy Policy
+
+**Welcome! Already an Allrecipes Member?[Sign In](http://my.allrecipes.com/default.aspx?ac_action=lgn). Not a member? [Join Today](http://members.allrecipes.com/join/site/default.aspx). It's Free**
 
 **Allrecipes.com Privacy Policy**   
 Last updated **Tuesday, August 23, 2005**   
