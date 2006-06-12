@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneymakingmommy.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230201503id_/http%3A//moneymakingmommy.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneymakingmommy.com privacy policy that was archived on 2006-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060612224049id_/http%3A//www.moneymakingmommy.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
@@ -12,14 +12,14 @@ _Online Media Center_
 ---  
   
   
-Read more about MoneyMakingMommy and it's owner Kelly Land in our Online Media Center. [ _Click Here_](https://web.archive.org/web/20051230201503id_/http%3A//moneymakingmommy.com/media-room/index.htm)
+Read more about MoneyMakingMommy and it's owner Kelly Land in our Online Media Center. [ _Click Here_](https://web.archive.org/web/20060612224049id_/http%3A//www.moneymakingmommy.com/media-room/index.htm)
 
 Thank you for visiting MoneyMakingMommy.com.
 
 Looking for a customized advertising campaign with us?  
 Feel free to 
 
-[ _contact us_](https://web.archive.org/web/20051230201503id_/http%3A//moneymakingmommy.com/contact.htm) to discuss your needs.   
+[ _contact us_](https://web.archive.org/web/20060612224049id_/http%3A//www.moneymakingmommy.com/contact.htm) to discuss your needs.   
   
 This is the web site of ** MoneyMakingMommy.com, Inc**.
 
