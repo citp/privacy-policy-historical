@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audio4fun.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210081922id_/http%3A//www.audio4fun.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audio4fun.com privacy policy that was archived on 2006-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060612220534id_/http%3A//www.audio4fun.com/privacy.htm) for the most accurate reproduction.*
 
 # Online Privacy - Audio4fun Privacy Statements
 
@@ -52,12 +52,12 @@ OTHER TERMS AND CONDITIONS
   
 ---  
   
-  
 In the event that you desire to purchase our products, the software, you agree not to use the software in any manner that is illegal, unethical, harassing, threatening, intimidating, abusive, obscene, profane, defamatory, hateful or a nuisance.
+
+Software piracy is theft. Using and distributing AV Voice Changer Software crack, Music Morpher crack, DVD Player Morpher crack, illicit password, serial numbers, protection numbers, activation keys, hack, key generators (keygens), warez prevent future software development.
 
 Under no circumstances shall Avnex Ltd be liable for any indirect, incidental or consequential damages or any liability in tort, contract, or other legal theory for computer failure or malfunction, business interruption, loss of profits, loss of goodwill, or any other damages or losses arising out of your use or inability to use the software.
 
 Should you have any question concerning this Policy, you can call Avnex Ltd toll free at 1-888-467 3059 and/or send an email to [office@audio4fun.com](mailto:office@audio4fun.com).   
-  
   
  
