@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the articlefeeder.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231235730id_/http%3A//www.articlefeeder.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlefeeder.com privacy policy that was archived on 2006-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060612203737id_/http%3A//www.articlefeeder.com/privacy.php) for the most accurate reproduction.*
 
-# Articles by ArticleFeeder.com
+# Web Content and Article Submission - Submit Your Articles For Huge Exposure
 
 **Privacy Policy**
 
