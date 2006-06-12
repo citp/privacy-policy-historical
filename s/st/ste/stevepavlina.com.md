@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stevepavlina.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231072653id_/http%3A//www.stevepavlina.com/privacy-statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stevepavlina.com privacy policy that was archived on 2006-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060612214348id_/http%3A//www.stevepavlina.com/privacy-statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -11,7 +11,7 @@ This site keeps all your personal information secret. Your personal information 
 
 ### Long Version
 
-**StevePavlina.com** has created this privacy statement in order to demonstrate its firm commitment to privacy. The following statement discloses the information gathering and dissemination practices for this web site. 
+Pavlina LLC has created this privacy statement for StevePavlina.com in order to demonstrate its firm commitment to privacy. The following statement discloses the information gathering and dissemination practices for this web site. 
 
 **Information Automatically Logged**  
 This site may log your IP address to help diagnose problems with the web server and to administer this web site. This information is primarily used for general traffic tracking and security. 
@@ -45,4 +45,4 @@ Sign up for the free _Personal Development Insights_ Newsletter, loaded with pra
 
 If you enjoy the free information available on this site, you're sure to enjoy the newsletter as well. Sign up right here: 
 
-Copyright © 2005 by Steve Pavlina, www.StevePavlina.com. All rights reserved. 
+Copyright © 2006 by Pavlina LLC, www.StevePavlina.com. All rights reserved. 
