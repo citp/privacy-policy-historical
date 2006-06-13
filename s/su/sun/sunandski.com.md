@@ -1,67 +1,8 @@
-> *The following text is extracted and transformed from the sunandski.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228032735id_/http%3A//sunandski.com/site/page.cfm%3FPageID%3D94) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunandski.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613062102id_/http%3A//sunandski.com/page.cfm%3FPageID%3D94) for the most accurate reproduction.*
 
 # Sun and Ski Sports - Your Privacy
 
-|   
----  
-  
-|   
----  
-| 
-
-Store Locations *  
-  
----  
-  
-About Us  
-  
-Holiday Gift Guide 2005  
-  
-2005 Winter Catalog   
-  
-Sun & Ski Gift Card  
-  
-Snowsports  
-  
-Bikes..ALL NEW!   
-  
-In-line Skate / Skateboard  
-  
-Skateboard  
-  
-Watersports  
-  
-Camping / Kayak  
-  
-Kayak  
-  
-Running  
-  
-Footwear  
-  
-3D In- Store Tour  
-  
-Lessons  
-  
-Events  
-  
-Careers  
-  
-Services  
-  
-Special Offers  
-  
-Join the Sun & Ski Sports Mailing List  
-  
-Featured Links  
-  
-Your Privacy  
-  
-[](http://sunandski.com/site/page.cfm?PageID=142) [](http://sunandski.com/site/page.cfm?PageID=137) [](http://sunandski.com/site/page.cfm?PageID=101) [](http://sunandski.com/site/page.cfm?PageID=97) [](http://sunandski.com/site/page.cfm?PageID=74) [](http://sunandski.com/site/page.cfm?PageID=100) [](http://sunandski.com/site/page.cfm?PageID=99) [](http://sunandski.com/site/page.cfm?PageID=66) [](http://sunandski.com/site/page.cfm?PageID=96) [](http://sunandski.com/site/page.cfm?PageID=110) [](http://sunandski.com/site/page.cfm?PageID=164) [](http://sunandski.com/site/page.cfm?PageID=166) [](http://sunandski.com/site/page.cfm?PageID=31) [](http://sunandski.com/site/page.cfm?PageID=165) [](http://sunandski.com/site/page.cfm?PageID=151) [](http://sunandski.com/site/page.cfm?PageID=179) [](http://sunandski.com/site/page.cfm?PageID=178) [](http://sunandski.com/site/page.cfm?PageID=180) [](http://sunandski.com/site/page.cfm?PageID=152) [](http://sunandski.com/site/page.cfm?PageID=188) [](http://sunandski.com/site/page.cfm?PageID=113) [](http://sunandski.com/site/page.cfm?PageID=112) [](http://sunandski.com/site/page.cfm?PageID=114) [](http://sunandski.com/site/page.cfm?PageID=104) [](http://sunandski.com/site/page.cfm?PageID=139) [](http://sunandski.com/site/page.cfm?PageID=140) [](http://sunandski.com/site/page.cfm?PageID=22) [](http://sunandski.com/site/page.cfm?PageID=105) [](http://sunandski.com/site/page.cfm?PageID=103) [](http://sunandski.com/site/page.cfm?PageID=167) [](http://sunandski.com/site/page.cfm?PageID=106) [](http://sunandski.com/site/page.cfm?PageID=98) [](http://sunandski.com/site/page.cfm?PageID=102) [](http://sunandski.com/site/page.cfm?PageID=225) [](http://sunandski.com/site/page.cfm?PageID=197) [](http://sunandski.com/site/page.cfm?PageID=126) [](http://sunandski.com/site/page.cfm?PageID=146) [](http://sunandski.com/site/page.cfm?PageID=222) [](http://sunandski.com/site/page.cfm?PageID=192) [](http://sunandski.com/site/page.cfm?PageID=147) [](http://sunandski.com/site/page.cfm?PageID=128) [](http://sunandski.com/site/page.cfm?PageID=224) [](http://sunandski.com/site/page.cfm?PageID=210) [](http://sunandski.com/site/page.cfm?PageID=130) [](http://sunandski.com/site/page.cfm?PageID=223) [](http://sunandski.com/site/page.cfm?PageID=149) [](http://sunandski.com/site/page.cfm?PageID=150) [](http://sunandski.com/site/page.cfm?PageID=148) [](http://sunandski.com/site/page.cfm?PageID=131) [](http://sunandski.com/site/page.cfm?PageID=191) [](http://sunandski.com/site/page.cfm?PageID=135) [](http://sunandski.com/site/page.cfm?PageID=205) [](http://sunandski.com/site/page.cfm?PageID=189) [](http://sunandski.com/site/page.cfm?PageID=186) [](http://sunandski.com/site/page.cfm?PageID=184) [](http://sunandski.com/site/page.cfm?PageID=243) [](http://sunandski.com/site/page.cfm?PageID=211) [](http://sunandski.com/site/page.cfm?PageID=198) [](http://sunandski.com/site/page.cfm?PageID=157) [](http://sunandski.com/site/page.cfm?PageID=158) [](http://sunandski.com/site/page.cfm?PageID=241) [](http://sunandski.com/site/page.cfm?PageID=238) [](http://sunandski.com/site/page.cfm?PageID=199) [](http://sunandski.com/site/page.cfm?PageID=52) [](http://sunandski.com/site/page.cfm?PageID=53) [](http://sunandski.com/site/page.cfm?PageID=144) [](http://sunandski.com/site/page.cfm?PageID=290) [](http://sunandski.com/site/page.cfm?PageID=293) [](http://sunandski.com/site/page.cfm?PageID=40) [](http://sunandski.com/site/page.cfm?PageID=43) [](http://sunandski.com/site/page.cfm?PageID=45) [](http://sunandski.com/site/page.cfm?PageID=46) [](http://sunandski.com/site/page.cfm?PageID=47) [](http://sunandski.com/site/page.cfm?PageID=78) [](http://sunandski.com/site/page.cfm?PageID=49) [](http://sunandski.com/site/page.cfm?PageID=50) [](http://sunandski.com/site/page.cfm?PageID=54) [](http://sunandski.com/site/page.cfm?PageID=61) [](http://sunandski.com/site/page.cfm?PageID=56) [](http://sunandski.com/site/page.cfm?PageID=58) [](http://sunandski.com/site/page.cfm?PageID=59) [](http://sunandski.com/site/page.cfm?PageID=235) [](http://sunandski.com/site/page.cfm?PageID=93) [](http://sunandski.com/site/page.cfm?PageID=94)  
-  
-[ ](https://digitalid.verisign.com/cgi-bin/dcssplash.exe?form_file=../fdf/dcssplash.fdf&domain_name=sunandski.com&seal_type=silver)
-
-| 
+| | 
 
 Thank you for reviewing our policies regarding any personal information you may choose to provide at our website. We take your privacy very seriously and carefully protect any and all information entrusted to us. We only collect information that helps us serve you better and that you voluntarily provide. We do not share your information with anyone else unless you've approved of such sharing in advance.
 
