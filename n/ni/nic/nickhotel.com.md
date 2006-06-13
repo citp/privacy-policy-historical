@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nickhotel.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231173311id_/http%3A//nickhotel.com/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nickhotel.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613054406id_/http%3A//www.nickhotel.com/privacy_policy.jsp) for the most accurate reproduction.*
 
 # Nick Hotel - Privacy Policy
 
