@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filecloud.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212023152id_/http%3A//www.filecloud.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filecloud.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613032002id_/http%3A//www.filecloud.com/privacy.php) for the most accurate reproduction.*
 
 # Filecloud - Privacy
 
@@ -14,4 +14,4 @@
 
 * Filecloud strives to keep your personally identifiable information accurate. Every effort is made to provide you with online access to your registration data so that you may update or correct your information at any time. Filecloud is committed to ensuring the security of your information. To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, appropriate procedures are in place to safeguard and secure the information collected online. Filecloud uses encryption when collecting or transferring sensitive data such as credit card information. 
 
-* Filecloud is a [Speakeasy Broadband Services](http://www.speakeasy.net/), LLC Property 
+* Filecloud is an [Ookla](http://www.ookla.com/), LLC Property 
