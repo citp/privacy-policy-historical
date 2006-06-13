@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the irs.gov privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229041118id_/http%3A//www.irs.gov/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irs.gov privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613035316id_/http%3A//www.irs.gov/privacy/index.html) for the most accurate reproduction.*
 
 # IRS Privacy Policy
 
-[Para ver esta página en español haga clic aquí](https://web.archive.org/privacy/article/0,,id=120920,00.html).
+[Para ver esta página en español haga clic aquí](https://web.archive.org/espanol/article/0,,id=154309,00.html).
 
 **IRS Office of Privacy**  
 **IRS Privacy Policy**  
@@ -18,7 +18,7 @@ Statistical Information**
 
 ### IRS Office of Privacy
 
-**_PLEASE NOTE the following:_** Do not respond to unsolicited e-mails that claim to come from the IRS, or any e-mail from an unknown party asking you to submit personal, tax, or financial data.  The Internal Revenue Service does not use e-mail to request this type of information.
+**_PLEASE NOTE the following:_** Do not respond to unsolicited e-mails that claim to come from the IRS, or any e-mail from an unknown party asking you to submit personal, tax, or financial data.  The Internal Revenue Service does not use e-mail to request this type of information.  For more information contact the Treasury Inspector General for Tax Administration (TIGTA) at 800-366-4484 or go to [www.treas.gov/tigta](http://www.treas.gov/tigta).
 
 The Internal Revenue Service's Privacy Office ensures that your personal information is protected whenever you visit the IRS website. If you have any questions or comments regarding the IRS's website privacy policy, please contact us at the address below.
 
