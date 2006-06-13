@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolsiteoftheday.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207035706id_/http%3A//www.coolsiteoftheday.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolsiteoftheday.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613055404id_/http%3A//coolsiteoftheday.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for Cool Site of the Day
 
@@ -32,17 +32,22 @@ You can send email to [remove@coolsiteoftheday.com](mailto:remove@coolsiteofthed
 
 This site gives users the following options for changing and modifying information previously provided.
 
-* email [info@coolsiteoftheday.com](mailto:info@coolsiteoftheday.com)
+email [info@coolsiteoftheday.com](mailto:info@coolsiteoftheday.com)
 
 ## Contacting the Web Site
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 
 Michael Corso  
-C Notes Interactive, Inc.  
-P.O. Box 439  
-Chappaqua, NY 10514
-
 [mike@coolsiteoftheday.com](mailto:mike@coolsiteoftheday.com)
 
-Back to [**Cool Site of the Day**](http://www.coolsiteoftheday.com/)
+**WE RESPECT YOUR PRIVACY**
+
+  * We will NEVER sell or exchange your personal information (name, e-mail address and mailing address) to anyone.
+  * We will NEVER release your personal information to any other party without your express permission.
+  * If we should ever give information to prospective advertisers, it is in the form of grouped statistics compiled through all our participating members' answers to survey questions. Your personal info is NOT included.
+  * You may always remove yourself from any mailing lists.
+
+
+
+Back to [Cool Site of the Day](http://www.coolsiteoftheday.com/)
