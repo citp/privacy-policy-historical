@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jda.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211210356id_/http%3A//www.jda.com/PrivacyStatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jda.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613144013id_/http%3A//jda.com/PrivacyStatement.htm) for the most accurate reproduction.*
 
 # JDA Software Group, Inc. | Privacy Statement
 
