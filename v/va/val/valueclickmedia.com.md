@@ -1,113 +1,42 @@
-> *The following text is extracted and transformed from the valueclickmedia.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231203429id_/http%3A//www.valueclickmedia.com/privacy_consumer.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valueclickmedia.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613025930id_/http%3A//www.valueclickmedia.com/privacy.shtml) for the most accurate reproduction.*
 
-# ValueClick Media - Privacy
+# ValueClick Media
 
-CONSUMER PRIVACY ****
+| [Member Privacy Statement](http://www.valueclickmedia.com/member_privacy.shtml) | [Opt-Out Cookie](http://admin.valueclickmedia.com/optout/index.html) |
 
-**I. INFORMATION WE COLLECT: INDIVIDUAL INTERNET CONSUMERS**
+ValueClick Media is committed to earning your trust and confidence. To better protect privacy, we provide this notice explaining our online technology and information collection practices.
 
-**A. Personally Identifiable Information (PII) .**   
-The ValueClick Network sites are designed to promote and facilitate the business of the ValueClick companies with advertisers and marketers. These sites are not directed towards individual Internet consumers nor do they seek any PII from such consumers. PII may be collected should a consumer contact a ValueClick company on his/her own initiative or respond to a ValueClick advertisement and provide any PII. Under no circumstances does the ValueClick Network request or collect sensitive PII such as an Internet user's medical/health conditions; racial or ethnic origin; political, religious or philosophical beliefs or affiliations; trade union membership or sex life. 
+As a ValueClick Company, ValueClick Media strongly believes in a consumer's right to privacy. ValueClick Media does not engage in the collection, distribution, sale or use of personally identifiable information about Web Users, such as email address, name, phone number and street address. All web user data collected by ValueClick Media as part of the ad serving process is not personally identifiable (browser type, for example) and is used in aggregate form. ValueClick Media does not know your email address. ValueClick Media does not conduct individual web user "profiling".
 
-From time to time, however, ValueClick may host response forms for one of our advertisers which will ask the Internet user to provide PII (e.g. name, address, zip code, email address, gender, and birth date). All information provided will be shared with the advertiser. We also may collect PII through co-registrations, i.e., when an Internet user registers on a third party site and agrees to receive offers from ValueClick. 
+Advertisers using the ValueClick Media Network may collect personally identifiable information explicitly provided by consumers for any purpose including the purchase of goods and services, order shipment, and sweepstakes entry. Personally identifiable information collected by Advertisers using the ValueClick Media Network is subject to the privacy policies of the individual advertisers.  
+**  
+Technology**
 
-**B. Non-Personally Identifiable Information (Non-PII) .**  
-When a consumer responds to or views an Internet advertisement served by a ValueClick company (such as through third-party websites or email solicitation) or visits a ValueClick Network site, we send a cookie and/or gif file (“Cookies”) to assign an anonymous, unique identifier to the end user's Internet browser. Cookies are small data files commonly used on the Internet to help optimize and personalize the Internet end user experience and identify repeat visitors to websites. 
+ValueClick Media uses a feature of Internet browsers called a "cookie". Cookies are files that the Internet browser places on your computer's hard drive. ValueClick Media also uses "web beacons", also known as clear gif technology, or action tags. Web beacons are tiny colorless image files placed in a web page, which are served by ValueClick Media and counted when served. Web beacons are used to track the completion of transactions and submittal of applications. 
 
-The function of these Cookies is to provide ValueClick with information for the purpose of paying third-parties commissions when an Internet user clicks on a link, creates a lead, or makes a purchase on an advertiser's Web site; and also to optimize and personalize the Internet user's experience. If the Internet user re-visits the advertiser's site directly, ValueClick is able to continue to track the user's activities on the advertiser's site and reward the third-party website that referred the user. We reserve the right to retain all ad delivery and reporting data indefinitely as long as may be reasonably necessary for accounting and audit purposes. 
+Cookies are used to improve the experience web users have when they see web advertisements. Cookies are not viruses and cannot erase your hard drive or otherwise damage your computer. Cookies are used to ensure that when a web user clicks on an ad, they are sent to the correct click-through destination. They are also used by our reporting system to estimate the total reach of an ad campaign, as well as frequency of display. This allows advertisers to determine with greater accuracy the composition of the audience they reach. Cookies are also used to control the delivery of a series of ads to a web browser, and to limit the number of times a web browser receives any one advertisement.
 
-Like most standard website servers, we use log files to collect Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, and date/time stamp. We use the information to analyze site usage, administer the site, understand usage and navigation trends in aggregate, and determine the relevance of content. This information, however, is not linked to any personally identifiable information. 
+There are many misconceptions about cookies and web beacons, some of which we will try to clarify. Cookies and web beacons do not tell us an e-mail address or any other personally identifiable information. ValueClick Media does not and cannot use cookies or web beacons to retrieve personal information from your computer. It is worth noting that the threat management chief for a leading anti-virus/anti-spyware program has publicly stated that Cookies were "harmless". 
 
-We also may use Internet browsing and online purchase data associated with an anonymous identifier to develop a predictive statistical user profile of the end user's needs and interests. ValueClick does not use Cookies or log files to collect end users' names, physical addresses, email addresses, phone numbers, credit card numbers, social security numbers, or any other information which can be used to identify a specific person. We may match the IP address and user profile with email address data obtained separately in order to better target campaigns to meet user's interests, but do will not share this information with third parties. 
+Web Users have the option of blocking the use of cookies by changing a setting in their browser. Please see your browser supplier's website for details on how to do this. ValueClick Media also provides an opt-out cookie to block ValueClick Media cookie placement.  
+**  
+Information Collection and Use**
 
-For improved audience targeting, some ValueClick Network sites use marketing technology that allows advertisers to add non-personally-identifying demographic information, such as age, gender, area code, or ZIP code, to the non-identifiable profile data. Thus, there is no direct connection between an end user's online choices and his or her personal identity. 
+As part of our on-going efforts to ensure the best possible experience for all recipients of ValueClick Media advertising, we use cookies and web beacons to collect data from browsers to aggregate statistical information. This includes IP addresses, browser types, operating systems, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of ValueClick Media. ValueClick Media does not, and cannot collect personal information. 
 
-In some cases, ValueClick receives and records partial email addresses of Internet users, only in circumstances where the user voluntarily provided its identity and contact information through the Advertiser's site or third-party marketer's site. This partial email address does not enable ValueClick to personally identify an Internet User. 
+Advertisements delivered by ValueClick Media may let you gain access to other sites. The linked sites are not under the control of ValueClick Media. ValueClick Media does not assume any responsibility or liability for the actions, products, services and content of linked sites. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties.   
+**  
+NETWORK ADVERTISING INITIATIVE**  
+ValueClick, Inc. is a member of the Network Advertising Initiative (“NAI”). The NAI is a group of third party network advertisers committed to increasing consumer confidence and contributing to the growth of electronic commerce. We, along with other members of the NAI, are committed to providing consumers with a clear explanation of what data we collect, how we use them, and why the use of data can benefit consumer's experience online. For more information about the Network Advertising Alliance please go to [www.networkadvertising.org](http://www.networkadvertising.org/). 
 
-**II. INFORMATION SHARING**
+**DATA PROCESSING/SAFE HARBOR**  
+The European Union (“EU”) maintains strict privacy laws. These rules differ significantly from US laws. To reconcile these differences, the US and the EU have created a Safe Harbor that defines mutually acceptable privacy operations. ValueClick, Inc. adheres to the Safe Harbor principals. For more information see [www.export.gov/safeharbor](http://www.export.gov/safeharbor).
 
-The ValueClick Network may make any PII provided in responding to an advertisement available to the company sponsoring the advertisement, as well as to other trusted third parties in accordance with the terms of this privacy policy. As a result, you may receive information on additional products, services and offers that may be of interest to you. 
+By providing information to us, you acknowledge that we operate in the United States and agree to (i) permit us to transmit and use your User information anywhere necessary, including across international boundaries, to affect the services and transactions provided by this Site; and (ii) that such use by us shall be subject to the terms and conditions stated in this Privacy Statement and applicable Terms and Conditions and Policies. 
 
-The ValueClick Network and/or our marketing partners may enhance and/or merge PII about consumers who have opted-in to receive marketing communications with commercially-available third party data collected from other sources in an effort to ensure that the messages being sent to the consumer in online and/or offline marketing programs are relevant to their interests. In the event we enhance and/or merge such personally identifiable information with data collected from other sources, we will take reasonable steps to maintain the integrity and quality of that information. 
+**MISCELLANEOUS**  
+YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND APPLICABLE TERMS AND CONDITIONS. You also agree that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (a) the purposes for which such third party's personal data has been collected; (b) the intended recipients or categories of recipients of the third party's personal data; (c) which of the third party's data are obligatory and which data, if any, are voluntary; and (d) how the third party can access and, if necessary, rectify the data held about them. It is the express will of the parties that this agreement and all related documents have been drawn up in English. C'est la volonté expresse des parties que la présente convention ainsi que les documents qui s'y rattachent soient rédigés en anglais. 
 
-The ValueClick Network may share PII (including information that has been enhanced with information from other sources) with advertisers, third party marketers, our affiliated entities for their online and/or offline marketing programs or in connection with the sale, merger, consolidation, change in control, transfer of substantial asset, reorganization or liquidation of any of the ValueClick Network companies. While ValueClick strongly encourages clients and partners to adopt responsible approaches to online marketing, ValueClick is not responsible for the information practices of clients or their partners. The collection, use, and disclosure of information by clients and partners are subject to their respective privacy policies, which may differ from ValueClick's policy. 
+**Contacting ValueClick Media**
 
-The ValueClick Network may release account and any other personal information when we believe release is appropriate to respond to a subpoena or otherwise comply with the law; enforce or apply our [Terms and Conditions](http://www.valueclick.com/terms.html) and other agreements; or protect the rights, property, or safety of ValueClick or others. This includes exchanging information with other companies and organizations for fraud protection. 
-
-**III. CONSUMER CHOICE AND ACCESS**
-
-**A. Opting Out .  
-** Some ValueClick Cookies have an "opt-out" option. This process does not remove the ValueClick Cookie from your system; it simply replaces it with an opt-out Cookie that does not contain any unique identifiers. If this site provides such a process it is detailed below. 
-
-Some of ValueClick's Cookies do not have an "opt-out" option, yet you still have the option of blocking the use of Cookies by changing a setting in your Internet browser. Please see your browser supplier's website for details on how to do this. 
-
-If you would like to opt-out of the ValueClick ad serving Cookie (where applicable), please click here: [Click here to go to Opt-out page](http://www.valueclick.com/perl/optout) . 
-
-B. Accessing Consumer Information .   
-Because they are not directed towards individual Internet users, most ValueClick Network sites do not maintain a process for an individual consumer to review and/or request changes to any PII collected. This site does not maintain a process for an individual consumer to access his/her PII. 
-
-**IV. SECURITY**
-
-The ValueClick Network employs industry standard security measures to ensure the security of all data. Any data that is stored on ValueClick's servers is treated as proprietary and confidential and is not available to the public. ValueClick has an internal security policy with respect to the confidentiality of customer and other data, allowing access only to those employees or third parties who have a need to know such information for the purpose of effectively delivering ValueClick products and services by means of user login and password requirements. The ValueClick Network routinely evaluates its data security practices to identify security threats or opportunities for improvement. 
-
-No transmission of data over the Internet is guaranteed to be completely secure. It may be possible for third parties not under the control of ValueClick to intercept or access transmissions or private communications unlawfully. While we strive to protect your PII, ValueClick cannot ensure or warrant the security of any information you transmit to us. You acknowledge and assume this risk when communicating with a ValueClick Network company. 
-
-**V. CONSENT AND CHANGES**
-
-The ValueClick Network may find it necessary or be legally obligated to update this Privacy Policy from time to time. When we do, we will post those changes on this page and update the effective date so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. Except as otherwise required by law, modifications to this Privacy Policy will not affect the privacy of data collected by ValueClick prior to the effective date of the policy change unless we provide you direct notice and the opportunity to opt-out of such proposed change. 
-
-**VI. CHILDREN'S PRIVACY AND SPAM**
-
-The ValueClick Network is very sensitive to the issue of children's privacy and makes every effort to protect the privacy of children using the Internet. ValueClick's web site, products, and services are not developed for or directed at children. Children (persons under the age of 18) are not eligible to do business with us and we do not collect personal information from any person we actually know is under the age of 13. If you believe your child has provided the ValueClick Network with any personally identifiable data by registering at a ValueClick web site, please email us at privacy@valueclick.com to have them removed. 
-
-The ValueClick Network is committed to proper Internet practices and full compliance with the CAN-SPAM Act of 2003 (15 U.S.C. § 7701). It is our policy to prohibit the sending of unsolicited or "Spam" e-mail by ValueClick or any of its marketing partners. 
-
-Please note that under the CAN-SPAM Act, an advertiser is required to provide an opt-out mechanism for consumers to unsubscribe from future emails about the advertiser. Although not required to by law, many email marketers also include an opt-out mechanism to enable consumers to be removed from their mailing list. This has caused some confusion for consumers in opting out. The table below clarifies which opt-out mechanism you should use for commercial emails . 
-
-| 
-
-To receive no further emails . . . 
-
-| 
-
-Opt-Out Mechanism to Use   
-  
----|---  
-  
-about the advertiser 
-
-| 
-
-Advertiser's   
-  
-from the email marketing company 
-
-| 
-
-Marketer's   
-  
-from the advertiser or email marketing company 
-
-| 
-
-Both   
-  
-**VII. DATA PROCESSING/SAFE HARBOR**
-
-The European Union (“EU”) maintains strict privacy laws. These rules differ significantly from US laws. To reconcile these differences, the US and the EU have created a Safe Harbor that defines mutually acceptable privacy operations. ValueClick, Inc. adheres to the Safe Harbor principals. For more information see [**www.export.gov/safeharbor**](http://www.export.gov/safeharbor/sh_overview.html). 
-
-By providing information to ValueClick Network sites, you acknowledge that they operate in the United States and agree to (i) permit ValueClick to transmit and use your User information anywhere necessary, including across international boundaries, to affect the services and transactions provided by this Site; and (ii) that such use by ValueClick shall be subject to the terms and conditions stated in this Privacy Statement and applicable Terms and Conditions and Policies. 
-
-**VIII. NETWORK ADVERTISING INITIATIVE**
-
-ValueClick, Inc. is a member of the Network Advertising Initiative (“NAI”). The NAI is a group of third party network advertisers committed to increasing consumer confidence and contributing to the growth of electronic commerce. We, along with other members of the NAI, are committed to providing consumers with a clear explanation of what data we collect, how we use them, and why the use of data can benefit consumer's experience online. For more information about the Network Advertising Alliance please go to [http://www.networkadvertising.org/ ](http://www.networkadvertising.org/)
-
-**IX. LIMITATION OF LIABILITY, THIRD PARTY INFORMATION & LANGUAGE **
-
-YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND APPLICABLE TERMS AND CONDITIONS AND POLICIES (INCLUDING LIMITATIONS ON DAMAGES, AND ARBITRATION OF DISPUTES). YOU AGREE THAT VALUECLICK MEDIA'S LIABILITY FOR ANY BREACH OF THIS PRIVACY POLICY SHALL BE LIMITED TO THE GREATER OF THE VALUE OF THE TRANSACTIONS OR SERVICES PROVIDED TO YOU BY VALUECLICK MEDIA OR $250 TO THE EXTENT SUCH CLAIM IS NOT OTHERWISE BARRED BY OUR TERMS AND CONDITIONS. 
-
-You also agree that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to ValueClick Media with regard to: (a) the purposes for which such third party's personal data has been collected; (b) the intended recipients or categories of recipients of the third party's personal data; (c) which of the third party's data are obligatory and which data, if any, are voluntary; and (d) how the third party can access and, if necessary, rectify the data held about them. It is the express will of the parties that this agreement and all related documents have been drawn up in English. C'est la volonté expresse des parties que la présente convention ainsi que les documents qui s'y rattachent soient rédigés en anglais. 
-
-**CONTACT US**
-
-For more information or if you have questions or concerns regarding the ValueClick Network Privacy Policy, please email us at [privacy@valueclick.com](mailto:privacy@valueclick.com) or you can send correspondence to the following address: ValueClick Media, Privacy Officer, 30699 Russell Ranch Road, Suite 250, Westlake Village, CA 91361. 
+If you have any questions about this privacy statement, the practices of this website, or your dealings with this website, please email us at [privacy@valueclick.com](mailto:privacy@valueclick.com) or you can send correspondence to the following address: ValueClick Media, Privacy Officer, 30699 Russell Ranch Road, Suite 250, Westlake Village, CA 91362 .
