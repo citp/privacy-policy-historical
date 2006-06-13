@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scottrade.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224200148id_/http%3A//www.scottrade.com/formscenter/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scottrade.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613054403id_/http%3A//www.scottrade.com/formscenter/privacy.htm) for the most accurate reproduction.*
 
-# Scottrade, Inc. - Privacy
+# Privacy Policy - Opening an Online Trading Account, Brokerage Account, Investing - Scottrade
 
 ##  SCOTTRADE PRIVACY POLICY AND SECURITY STATEMENT 
 
