@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reporternews.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212095610id_/http%3A//www.reporternews.com/abil/home/article/0%2C1874%2CABIL_7941_1600432%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reporternews.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613025019id_/http%3A//www.reporternews.com/abil/home/article/0%2C1874%2CABIL_7941_1600432%2C00.html) for the most accurate reproduction.*
 
 # Abilene Reporter News
 
