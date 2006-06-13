@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the barryplant.com.au privacy policy that was archived on 2005-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051123074945id_/http%3A//www.barryplantdoherty.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barryplant.com.au privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613055408id_/http%3A//www.barryplantdoherty.com.au/privacy) for the most accurate reproduction.*
 
 # BPD - Privacy
 
-## Barry Plant Doherty's Privacy Policy
+## Barry Plant's Privacy Policy
 
 We respect your right to privacy with regard to any information you supply us on this website and adhere strictly to a policy of complying with the provisions of the relevant Federal Government Act covering such matters.
 
@@ -20,7 +20,7 @@ The following statement sets out:
 · security of the information we hold about you  
 · what to do if you have concerns or a complaint with regard to privacy matters
 
-This site contains links to other sites, however, Barry Plant Doherty is not responsible for the privacy practices or the content of any of the sites linked to www.barryplantdoherty.com.au.
+This site contains links to other sites, however, Barry Plant is not responsible for the privacy practices or the content of any of the sites linked to www.barryplantdoherty.com.au.
 
 ### The type of information we collect
 
@@ -44,7 +44,7 @@ Should you wish to apply to lease a property we manage, we will ask you for:
 
 ### What we do with the information you supply to us
 
-Information you provide will be used by Barry Plant Doherty or its franchisees for the following reasons:
+Information you provide will be used by Barry Plant or its franchisees for the following reasons:
 
 · assist you to find the type of property you tell us you wish to purchase  
 · present you with a proposal to handle the sale of your property in response to specific request you  
@@ -86,7 +86,7 @@ Where we send emails that are not in response to a specific request from you, we
 
 ### Disclosure of information to third parties
 
-Any information you provide to us is used only by Barry Plant Doherty or the appropriate franchisee and is not disclosed to any outside party.
+Any information you provide to us is used only by Barry Plant or the appropriate franchisee and is not disclosed to any outside party.
 
 ### Accessing personal information we hold about you
 
@@ -94,7 +94,7 @@ You may gain access to the information we have collected about you by contacting
 
 ### Security of the information you supply to us
 
-Barry Plant Doherty will treat any personal information you provide us with in the strictest of confidence and we will take all reasonable steps to keep the information securely stored. Access to stored information is limited to authorised Barry Plant Doherty personnel.
+Barry Plant will treat any personal information you provide us with in the strictest of confidence and we will take all reasonable steps to keep the information securely stored. Access to stored information is limited to authorised Barry Plant personnel.
 
 ### What to do if you have any concerns or a complaint with regard to privacy matters
 
