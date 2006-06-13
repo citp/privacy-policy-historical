@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unmc.edu privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218093431id_/http%3A//www.unmc.edu/5/npp.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unmc.edu privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613034539id_/http%3A//www.unmc.edu/5/npp.htm) for the most accurate reproduction.*
 
 # Notice of Privacy Practices How Your Medical Information Is Used
 
@@ -18,7 +18,7 @@ This Notice applies to the following organizations and their clinics:
  
   * University of Nebraska Medical Center (UNMC)  
  
-  * University Medical Associates (UMA)  
+  * UNMC Physicians  
  
   * University Dental Associates (UDA)
 
@@ -146,5 +146,5 @@ Omaha, Nebraska 68198-2133
 Phone:  800-647-6216 or 402-559-8158  
 Hours:  8:30 a.m. – 5:00 p.m.  CST
 
-Effective Date:  3/17/2003  
-Version No. 1
+Effective Date:  4/01/2006  
+Version No. 3
