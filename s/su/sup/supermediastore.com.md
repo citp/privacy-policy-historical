@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supermediastore.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214194517id_/http%3A//supermediastore.com/privacypolicy1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supermediastore.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613140125id_/http%3A//www.supermediastore.com/privacypolicy1.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ Yahoo! hosts store pages, order processing system and order data information. Ya
 We have created our Privacy Policy ("Policy") Statement in order to demonstrate our firm commitment for protecting the privacy of our shoppers. 
 
 Questions regarding this policy should be directed to   
-**[sales@supermediastore.com](mailto:sales@supermediastore.com)**
+[](mailto:help@supermediastore.com)
 
 * * *
 
@@ -105,4 +105,4 @@ Supermediastore.com
 17936 Ajax Circle   
 City of Industry, CA 91748
 
-You may also contact us by e-mail at **[sales@supermediastore.com](mailto:sales@supermediastore.com)**
+You may also contact us by e-mail at **[](mailto:help@supermediastore.com)**
