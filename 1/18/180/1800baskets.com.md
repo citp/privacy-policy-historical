@@ -1,94 +1,154 @@
-> *The following text is extracted and transformed from the 1800baskets.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605040936id_/http%3A//www.1800flowers.com/security/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800baskets.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613194616id_/http%3A//www.1800baskets.com/index.asp%3FPageAction%3DCustom%26ID%3D3) for the most accurate reproduction.*
 
-# 1-800-FLOWERS.COM
+# Privacy & Security
 
-Last Updated March, 20, 2003 
+| 
 
-#### Your Privacy
+###### Privacy & Security
 
-At 1-800-FLOWERS.COM, we recognize and respect the importance of maintaining the privacy of our customers and members and have established this Privacy Policy as a result. Below we describe why we gather information from customers and members, what information we collect, how we collect it, what we use the information for and how you can instruct us if you prefer to limit the use of that information. This Privacy Policy is part of the Terms of Use, which governs your use of 1-800-FLOWERS.COM. 
+Last Updated October 15, 2005
 
-_Note: You must be 18 years or older to register as a member of 1-800-FLOWERS.COM._
+**Your Privacy**
+
+1-800-BASKETS.COM® recognizes and respects the importance of maintaining the privacy of our customers, registered members (“Members”) and users, and has established this Privacy Policy as a result. The purpose of this Privacy Policy is to inform you of: 
+
+  * the personal information we may collect from you when you visit our web site, respond to our emails, place orders via mail or fax, or otherwise contact us via telephone, email, fax or mail, 
+  * why we gather information from you, 
+  * how we collect it, 
+  * how we use it, and 
+  * the choices you have regarding our use of personal information you have provided. 
+
+
+
+This Privacy Policy is part of the Terms of Use, which governs your use of our web site located at _[www.1800baskets.com](https://web.archive.org/web/20060613194616id_/http%3A//www.1800baskets.com/www.1800BASKETS.COM)_ (1-800-BASKETS.COM or the “Web Site”). The Web Site is  owned by 1-800-Flowers.com, Inc.. (the “Company”). This Privacy Policy does not cover information provided to our Company-owned or franchised retail stores. 
+
+Note: You must be 18 years or older to use, subscribe or register as a member of 1-800-BASKETS.COM®. The Web Site is a general audience site and we do not knowingly collect, maintain or disclose personal information from or about children. 
 
 **Why do we gather information?**
 
-Since our inception, 1-800-FLOWERS.COM has consistently provided our customers with quality goods and excellent customer service. We gather personal information to allow us to process your orders, to provide an enhanced and more personalized shopping experience and to inform you and your gift and message recipients of special offers and discounts. 
+1-800-BASKETS.COM® gathers personal information to help improve our products and customer service, to communicate with you, to process your orders, to provide an enhanced and more personalized shopping experience and to inform you, and your gift and message recipients, of special offers and discounts from us, our affiliated brands and selected third parties. 
 
 **What information do we gather?**
 
-Through our Web Site and emails, including when you place an order, we may collect the following information: your name, telephone number, email address, billing information (credit card number, expiration date and billing address), occasion type (birthday, Mothers day, etc.), products purchased, any relevant promotion code and information (for example if you are claiming frequent flyer miles) and the gift and message recipient's name, address, telephone number and email address. Information you enter is collected even if you cancel or do not complete an order. Also, if you register as a member, we request your name, address, phone number, email address, title (gender), birthdate, and other information set forth on the Member Registration Page. Members may also add to their Address Book the name, address and telephone number of friends or other persons to whom they may wish to send gifts or receive gift reminders. Only Members have the right to view and edit their Address Book entries. 
+We collect information through our Web Site, emails, mail, fax, and telephone, including when you: 
 
-**How we use "cookies"**
+  * place an order, 
+  * participate in our forums, surveys, contests, sweepstakes, promotions, content submissions, chats, bulletin boards, discussion groups, requests for suggestions, and membership registrations, and 
+  * engage in other activities, services, products and resources we make accessible to our customers, members or users. 
+  * Depending on how you interact with us, we collect some or all of the following types of information: 
+  * your name, address, telephone number, email address, 
+  * billing information (credit card number, expiration date and billing address), 
+  * gender and birth date, if you choose to enter such information, 
+  * products purchased and occasion type (for example, Mother�s Day), 
+  * any promotion code and related information (for example, if you are claiming frequent flyer miles), 
+  * Message and gift recipients� names, addresses, telephone numbers and email addresses, and 
+  * other information you provide to us, including User Submissions (defined in the Terms of Use). 
 
-A "cookie" is a small file stored on your computer by a Web site which gives you a numeric user ID and stores certain information about your activity on the site. We use cookies to let us know that you are a prior customer and to provide certain features to you, for example to store information on your product selections as you shop on our site, but we do not store any personal information (except your name) or financial information about you using cookies.   
-Most web browsers automatically accept cookies, but most allow you to instruct your browser to prevent the use of cookies. However, if you disable this feature, certain aspects of 1-800-FLOWERS.COM, such as the shopping basket, will not function properly. 
 
-**How we use the information we collect about you.**
 
-We use information we collect from you to process your orders, to provide an enhanced and more personalized shopping experience and to inform you and your gift and message recipients of offers and discounts from 1-800-FLOWERS.COM or other sites and companies that we own. In addition, we periodically make such information, including aggregated information, available to selected third parties including but not limited to, those who trade or rent information for direct marketing purposes. However, without your consent, we do not make your, or your gift or message recipient's email addresses available to third parties (except for subsidiaries, subcontractors or agents acting on our behalf in compliance with this Privacy Policy)or any Successor (see below) to our business. If you would like us to email you a notice when our Privacy Policy or Terms of Use change, please follow the instructions below. Any email sent to your gift or message recipients will include a link to our Privacy Policy and a link to use if they wish not to receive further emails. You may instruct us not to share personal information about you that you have provided to us with third parties by following the instructions provided below. A Successor to our business is not to be considered to be a third party for these purposes (see below). 
+Information you provide to us may be collected by us even if an order, registration, or other process is started but not completed or otherwise cancelled. Members may also add to their Address Book the name, address and telephone number of friends or other persons to whom they may wish to send gifts or expressions. Only Members have the right to view and edit their Address Book entries. 
 
-In the event of a merger, consolidation, or sale or transfer of all or substantially all of the assets or business of 1-800-FLOWERS.COM (a "Successor"), one of the assets which would generally be transferred is the information we collect from our customers and members. However, the use of this information by any Successor would still be governed by the terms of this privacy policy, as amended from time to time, including any amendment after such transaction, and you will continue to have the right to opt-out of sharing your information with third parties. 
+**How we use "Cookies" and “Action Tags”**
 
-We may disclose any information you provide to 1-800-FLOWERS.COM(i) when we believe disclosure to be appropriate to comply with any law, regulation, or governmental request, or to comply with judicial process; or (ii) if such disclosure is necessary or appropriate to operate this web site or to process any purchases you make or conduct any promotions you participate in; (iii) to protect the rights or property of 1-800-FLOWERS.COM, its users, Sponsors, Providers, Licensors, or Merchants. 
+A "cookie" is a small data file sent to your browser from a web server and stored on your computer. We use cookies to let us know that you are a prior customer, user or Member and to provide certain features to you. Most web browsers allow you to instruct the browser to prevent the use of cookies. However, if you disable this feature, certain aspects of the 1-800-BASKETS.COM® Web Site, such as the shopping basket, may not function properly. 
 
-**Links**
+We have relationships with third parties who may receive non-personal information directly from the cookies placed by our Web Site on your computer to assist in analyzing our business and customers. 
 
-1-800-FLOWERS.COM wants you to be aware that when you click on links and/or ad banners that take you to third-party Web sites, you will be subject to the third parties' privacy policies, not ours. While we support the protection of privacy on the Internet, we cannot be responsible for the actions of third parties. We encourage you to read the posted privacy statement and user terms and conditions whenever interacting with, and prior to providing any personal information to, any other Web site. 
+Our Web Site also uses a common web technology called “action tags” (also called single pixel gifs or web beacons) to anonymously track purchase, usage and other web activity information. Action tags (including third party tags) may be used to provide data to third parties for tracking purposes. However, our Web Site does not use action tags to collect or transfer personal information. 
 
-#### Your Security
+**How we use the information we collect**
 
-Our Web site encrypts your credit card number prior to transmission over the Internet using secure socket layer (SSL) encryption technology. This technology works best when the site is viewed using Microsoft's Internet Explorer or Netscape Navigator.   
-However, no transmission of data over the Internet or any other public network can be guaranteed to be 100% secure. Although we make reasonable efforts to safeguard your personal information once we receive it, we cannot warrant the security of information you transmit to us. 
+We use information we collect to communicate with you, to process your orders, to provide an enhanced and more personalized shopping experience, to inform you and your gift and message recipients of offers and discounts from 1-800-BASKETS.COM® and our affiliated brands and to enable you to receive credits for purchases under loyalty or buying programs which you have joined. In addition, we may make such information (except for credit card number and expiration date, unless you consent otherwise), including aggregated information, available to selected third parties including, but not limited to, those who share or rent information for direct marketing purposes. 
 
-**How to limit the use of your information**  
-_From Third Parties_
+However, without your consent, we do not make your, or your gift or message recipients� email addresses, available to third parties. In addition, you may instruct that other personal information about you or your message or gift recipients� that you have provided to us not be shared with third parties by following the instructions in How to Limit the Use of Personal Information, below. 
 
-If you prefer not to have us provide personal information about you to third parties (which does not include subsidiaries, subcontractors or agents acting on our behalf in compliance with this Privacy Policy), please let us know by either:    | 
+Our Affiliates, subcontractors, and agents, and any successors to our business (if we ever sell some or all of our business), are not considered to be third parties under this Policy. However, in connection with information collected under this Policy, they are required to comply with this Policy. “Affiliates” are persons or entities directly or indirectly controlling, controlled by, or under common control with 1-800-Flowers.com, Inc. 
 
-1.
+We may combine information we receive from you via our Web Site, emails, mail, fax, and telephone with information from our Affiliates and third parties. We use the combined information to enhance and personalize your shopping experience with us and to communicate with you in accordance with this Privacy Policy. 
 
-| 
+We reserve the right to disclose information you provide to us as required by law, in response to legal process and law enforcement requests and as necessary or appropriate, in our view, to operate the Web Site, process orders or registrations, to conduct promotions, contests, and sweepstakes you participate in, and to protect the rights or property of the Company, its Affiliates, users, customers, recipients, Members, Sponsors, Providers, Licensors, Merchants and Associates (as these terms are defined in the Terms of Use). 
 
-writing us at:  
+Please note that any personal information you reveal or post on one our public forums (as defined in the Terms of Use), such as a message board, chat room, discussion group, folder, survey, contest, sweepstakes, user review and rate forum, and all User Submissions, are not protected by this Privacy Policy and may be collected, shared and used by us or with third parties, including to contact you. Information you give out or post on our public forums you disclose at your own risk. 
+
+**Consent to Transfer and Submission**
+
+1-800-BASKETS.COM® is operated in the 
+
+United States. If you are located outside the United States, please be aware that any information you provide to us will be transferred to the United States. By using the Web Site or otherwise providing us with information, you hereby consent to this transfer. 
+
+In addition, if you submit data to us about other individuals (such as your message and gift recipients), you agree that you have obtained consent from each such individual to the submission, transfer and processing of the information. Although personal information collected by us through the Web Site, emails, mail, fax, and telephone is used by us in accordance with this Privacy Policy, laws generally applicable to the protection of personal data in the U.S. may not be as stringent as those in other countries.   
+**  
+Links to Other Web Sites**
+
+1-800-BASKETS.COM® wants you to be aware that when you click on links and/or ad banners that take you to affiliated or third-party web sites, you will be subject to the privacy policies and terms of use of those web sites, not ours. We encourage you to read the posted privacy statement and user terms whenever using, and prior to providing any personal information to, any other web site. 
+
+**Security and Passwords**
+
   
----|---|---  
-  |   | 
+If you place an order on our Web site, it encrypts the credit card number you submit prior to transmission over the Internet using secure socket layer (SSL) encryption technology. This technology works best when the Web Site is viewed using Microsoft's Internet Explorer® or Netscape Navigator®. However, no transmission of data over the Internet or any other network can be guaranteed to be 100% secure. Although we make reasonable efforts to safeguard personal information once we receive it, we cannot warrant the security of information we receive. 
 
-Customer Satisfaction Department  
-1-800-FLOWERS.COM, INC.  
-1600 Stewart Avenue  
-Westbury, New York 11590   
+Portions of the Web Site (such as our Member registration and Address Book) may require registration and log-in processes in which you will select a user ID and password (collectively, the “Password”). Passwords provided to you by us are the confidential property of the Company and may be used by you solely for your individual use of the Web Site (and otherwise as specified by us). You are responsible for maintaining the confidentiality of any Password and for all activities that occur using your Password, whether or not authorized by you. You agree to immediately notify us of any unauthorized use of your Password or accounts. 
+
+**How to Limit the Use of Personal Information**
+
+We want to communicate with you only to the extent you want to hear from us. If you prefer not to have personal information collected from you via the Web Site, emails, mail, fax, and telephone shared with third parties, or to set your preferences concerning promotional communications, please follow the directions below. 
+
+**From Third Parties**
+
+We do not share email addresses you provide with third parties without your consent. In addition, if you prefer that other personal information provided by you not be shared with third parties, please let us know by emailing, writing or calling us as described below. Your instructions will be processed as soon as reasonably practicable and in accordance with law. 
+
+Emailing us at:
+
+[remove@1800baskets.com](mailto:remove@1800baskets.com)  the email address which you wish to have removed (i.e. not shared with third parties), and include your postal mailing address in the message; or 
+
+Writing us at:
+
+Customer Service Department  
+1-800-BASKETS.COM
+
+Lower Level  
+One Old Country Road
+
+Carle Place, New York 11514-1801
+
+-or-
+
+Telephoning us at 1-888-227-5387
+
   
-  |   | 
+(Please, include or tell us your mailing address, and if you have a catalog, brochure or other mailing label from us, please include it with your request or have it ready when you call)
 
-If you have a catalog, brochure or other mailing label from us, please include it with your request, otherwise just include your mailing address.  
-  
-  |   | 
+**From our Affiliates**
 
-or  
-  
-  | 
+If you also prefer not to have us provide personal information about you to our Affiliates, please indicate in your email or letter that you wish your instructions to apply to our “Affiliates.”   
+**  
+From 1-800-Baskets**
 
-2.
+If you also prefer that we not use the personal information you have provided to contact you or your message or gift recipients for our own marketing and promotional purposes, please indicate in your email or letter that you wish your instructions to apply to “1-800-Baskets.” These instructions, however, do not apply to non-promotional messages from us. 
 
-| 
+Please note that your instructions (above) do not govern the use of information you have provided to our Affiliates or to third parties (including any merchants referenced or accessible via our Web Site). The use of information you have provided to our Affiliates or to third parties is governed by their privacy policies and terms. 
 
-Emailing us at [remove@reply.1800flowers.com](mailto:remove@reply.1800flowers.com) (and include your mailing address).  
-  
-In addition, if you also prefer not to receive further product information and promotional mailings/emails from 1-800-FLOWERS.COM and sites and companies we own based on information you provided to 1-800-FLOWERS.COM, please indicate this in your instructions to us and please include your mailing address. Please note that your instructions will not apply to order status and confirmation emails, and that such emails may also contain promotional items and offers. Unless you indicate otherwise in the email or letter you send us, we will continue to provide you with information that we believe will be of interest about our own products and promotions and those of other sites and companies we own. 
-
-Your instructions will apply to information collected by 1-800-FLOWERS.COM, not to information collected on other Web sites or companies owned by 1-800-FLOWERS.COM. If you are a user of any of those Web sites and wish to opt-out in a similar manner with respect to those sites, please go to those sites, click on the Privacy Policy link or banner and follow the instructions. 
-
-Your instructions to limit the use of your information will be processed as soon as reasonably practicable. 
+Any promotional email we send to you or your gift or message recipients will include a link to our Privacy Policy and a link to use to opt-out of receiving further promotional emails from the sender. 
 
 **Corrections**
 
-If you would like to update or correct information previously provided to us, please send an e-mail with your new information to [update@1800flowers.com](mailto:update@1800flowers.com)
+If you would like to update or correct information previously provided to us, please send an e-mail with your new information, including your complete name, postal address, and email address to 
+
+_[update@1800baskets.com](mailto:update@1800baskets.com)_  
+  
+Members can modify and update their membership information (including name, mailing address, birth date, telephone number and email address) by accessing the password-protected “Update Membership” page. 
 
 **Your Consent and Changes to this Policy**
 
-Subject to the above provisions, by using our Web site, you consent to the collection and use of information by us and the terms of this Privacy Policy. We may change our Privacy Policy from time to time and we will post those changes so that you are always aware of what information we collect, how we use it, and under what circumstances we may disclose it. In addition, if you would like prior notice of changes to the Privacy Policy or Terms of Use, email us at [notice@1800flowers.com](mailto:notice@1800flowers.com) from the email address to which you would like notice sent. By using 1-800-FLOWERS.COM, after such changes and posting, you agree to be legally bound and to abide by the changes and other provisions contained in the Privacy Policy and Terms of Use. 
+Subject to the above provisions, by using our Web Site, you consent to the terms of this Privacy Policy and the Terms of Use, of which this policy is a part. We may change our Privacy Policy from time to time as new features or services are added, suggestions from our customers are incorporated or other changes are made. We will post the revised Privacy Policy on our Web Site at least 30 days prior to their effective date - unless we believe changes must take effect sooner to comply with law or to protect the Company or our customers, users, Members, recipients, Sponsors, Providers, Licensors, Merchants, Associates and Affiliates, in which case the changes will be effective upon posting or as otherwise specified. 
+
+  
+The date on which the current Privacy Policy and overall Terms of Use took effect is listed at the top of the Privacy Policy and Terms of Use (see “Last Updated” at the top of each). 
+
+In addition, if you would like notice of changes to the Privacy Policy or Terms of Use prior to their taking effect (or upon taking effect, if effective immediately), email us at [notice@1800baskets.com](mailto:notice@1800baskets.com) from the email address to which you would like notice sent. By using 1-800-BASKETS.COM®, after such changes take effect, you agree to be legally bound and to abide by the revised Privacy Policy and Terms of Use, of which this policy is a part. 
 
 **Your Comments**
 
-1-800-FLOWERS.COM welcomes feedback concerning its privacy policy. Please send your comments and questions to [feedback@1800flowers.com](mailto:feedback@1800flowers.com).
+1-800-BASKETS.COM® welcomes feedback concerning this Privacy Policy. Please send your comments and questions to [feedback@1800baskets.com](mailto:feedback@1800baskets.com)  
+  
+---|---
