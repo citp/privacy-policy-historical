@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the zebra.com privacy policy that was archived on 2005-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051212133834id_/http%3A//www.zebra.com/id/zebra/na/en/index/about_zebra/our_company/compliance/privacy_statement.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zebra.com privacy policy that was archived on 2006-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060613023634id_/http%3A//zebra.com/id/zebra/na/en/index/about_zebra/our_company/compliance/privacy_statement.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
 <title>Privacy Statement - Zebra Technologies</title>  
-<meta name="description" content="Privacy Statement - Zebra Technologies">
-<meta name="keywords" content="privacy statement ">
+<meta name="description" content="Read about privacy policies relating to use of Zebra Technologies' Web site.">
+<meta name="keywords" content="privacy statement, Zebra privacy, web site privacy, website privacy, privacy policy">
 <meta name="author" content="">
 <meta name="robots" content="index,follow">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -66,9 +66,9 @@
 			<td align="left" valign="bottom" width="187" rowspan="2"><h2>Printing Solutions for Business Improvement</h2></td>	
 		</tr>
 	</tbody></table>
-
+ 
 		</td>
-		<td>
+		<td> 
 			<table>
 				<tbody><tr>
 					<td id="utilitynavigationhome">
@@ -131,6 +131,7 @@
 
 
 
+<form id="none" method="post" action="">
 <select id="find_it_now_dropdown" name="languageselectorSingle" onchange="submitForm(languageselectorSingle);">
 <option value="#" selected="">Select Language</option>
 <option value="/id/zebra/na/en/index.html">English</option>
@@ -140,6 +141,7 @@
 <option value="/id/zebra/na/en/index/sp.html">Español (LA)</option>
 <option value="/id/zebra/na/en/index/fr.html">Français</option>
 <option value="/id/zebra/na/en/index/it.html">Italiano</option>
+<option value="/id/zebra/na/en/index/dutch.html">Nederlands</option>
 <option value="/id/zebra/na/en/index/no.html">Norsk</option>
 <option value="/id/zebra/na/en/index/pl.html">Polski</option>
 <option value="/id/zebra/na/en/index/ep.html">Português</option>
@@ -147,10 +149,11 @@
 <option value="/id/zebra/na/en/index/ru.html">Pусский</option>
 <option value="/id/zebra/na/en/index/fi.html">Suomi</option>
 <option value="/id/zebra/na/en/index/se.html">Svenska</option>
-<option value="/id/zebra/na/en/index/cn.html">中文</option>
+<option value="http://www.zebra.com.cn">中文</option>
 <option value="/id/zebra/na/en/index/jp.html">日本語</option>
 <option value="/id/zebra/na/en/index/ko.html">한국</option>
 </select>
+			</form>
 					</td>
 				</tr>
 			</tbody></table>
@@ -158,7 +161,7 @@
 		<td align="right">
 			<table align="right">
 				<tbody><tr align="right">
-					<td>
+					<td> 
 						<!-- include the Zebra Search component -->
 						
 
@@ -185,10 +188,11 @@
 
 
 
-	<table width="182" height="20" cellpadding="0" cellspacing="0">
+	
+		<table width="182" height="20" cellpadding="0" cellspacing="0">
 			<tbody><tr>			
 				<td>
-					<form id="form_search" method="post" action="/id/zebra/na/en/index/search_results.html">
+					<form id="form_search" name="searchForm" method="post" action="/id/zebra/na/en/index/search_results.html" onsubmit="return logSearch();">
 					<table cellpadding="0" cellspacing="0">
 					    <tbody><tr align="right">
 						<td valign="top" align="right">
@@ -203,6 +207,16 @@
 				</td>
 			</tr>
 		</tbody></table>
+		
+		<script language="Javascript">
+
+		  function logSearch()
+		  {
+			dcsMultiTrack('DCS.dcsuri','/formtracking/search.html','WT.oss', document.searchForm.p_mainsearch.value, 'WT.oss_r', '1');
+			return true;
+		  }
+  
+		</script>
 	
 
 					</td>
@@ -233,6 +247,7 @@
 
 
 
+<form id="none" method="post" action="">
 <select id="find_it_now_dropdown" name="finditnowdropdownSingle" onchange="submitForm(finditnowdropdownSingle);">
 <option value="#" selected="">Find it Now</option>
 <option value="/id/zebra/na/en/index/resource_library/getting_started.html">Getting Started</option>
@@ -250,6 +265,7 @@
 <option value="/id/zebra/na/en/index/forms/en/join_mailing_list0/join_mailing_list_existing_user.html">Join Mailing List</option>
 <option value="/id/zebra/na/en/index/site_map.html">Site Map</option>
 </select>
+			</form>
 					</td>
 				</tr>
 
@@ -744,12 +760,16 @@ td#buy_button a:hover {
 
 
 
-<table cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td width="100%" id="callout_right"><h4>Fact Sheet</h4><div id="callout_right_text">Learn more about Zebra in our <a href="/id/zebra/na/en/documentlibrary/misc/Zebra_Fact_Sheet_2005.html" title="Zebra Fact Sheet 2005">Fact Sheet</a>. 
-</div></td></tr>
-<tr>
-	<td><img src="/id/includes/Card/images/shim.gif" width="1" height="10"></td>
-</tr>
-</tbody></table>
+
+
+
+<div id="callouttitlelink"><h4>Fact Sheet</h4>
+	<ul>		
+<li><a href="/id/zebra/na/en/documentlibrary/misc/zebra_fact_sheet.html?dvar1=Misc&amp;dvar2=Zebra Fact Sheet 2006">Learn more about Zebra in our Fact Sheet. </a>&nbsp;(PDF, 258 KB)</li>
+	</ul>
+
+
+</div>
 
 
 
@@ -771,12 +791,16 @@ td#buy_button a:hover {
 
 
 
-<table cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td width="100%" id="callout_right"><h4>Press Releases</h4><div id="callout_right_text">Read more about <a href="/id/zebra/na/en/index/about_zebra/newsroom/press_releases.html" title="Press Releases">Zebra in the News</a>. 
-</div></td></tr>
-<tr>
-	<td><img src="/id/includes/Card/images/shim.gif" width="1" height="10"></td>
-</tr>
-</tbody></table>
+
+
+
+<div id="callouttitlelink"><h4>Press Releases</h4>
+	<ul>		
+<li><a href="/id/zebra/na/en/index/about_zebra/newsroom/press_releases.html">Read more about Zebra in the news. </a></li>
+	</ul>
+
+
+</div>
 								</td>
 							</tr>
 						</tbody></table>
@@ -837,7 +861,7 @@ td#buy_button a:hover {
 <table class="footer_table" cellpadding="0" cellspacing="0" width="100%">
 	<tbody><tr id="footer" valign="top" width="100%">
 		<td width="42%" align="left">
-			<p>© 2005 ZIH Corp. All rights reserved.</p>
+			<p>© 2006 ZIH Corp. All rights reserved.</p>
 		</td>
 		<td width="58%" align="left">
 			<ul>
@@ -854,45 +878,307 @@ td#buy_button a:hover {
 </div>
 
 
+	<!-- START OF Custom Tracking Code -->
+	<script language="Javascript">
+	<!--
+	// Code section for Enable Event Tracking
+	var gHref="";
+	function dcsParseSvl(sv){
+		sv=sv.split(" ").join("");
+		sv=sv.split("\t").join("");
+		sv=sv.split("\n").join("");
+		var pos=sv.toUpperCase().indexOf("WT.SVL=");
+		if (pos!=-1){
+			var start=pos+8;
+			var end=sv.indexOf('"',start);
+			if (end==-1){
+				end=sv.indexOf("'",start);
+				if (end==-1){
+					end=sv.length;
+				}
+			}
+			return sv.substring(start,end);
+		}
+		return "";
+	}
+	function dcsIsOnsite(host){
+		var doms="zebra.com";
+	    var aDoms=doms.split(',');
+	    for (var i=0;i<aDoms.length;i++){
+			if (host.indexOf(aDoms[i])!=-1){
+			       return 1;
+			}
+	    }
+	    return 0;
+	}
+	function dcsIsHttp(e){
+		return (e.href&&e.protocol&&(e.protocol.indexOf("http")!=-1))?true:false;
+	}
+
+	function dcsSaveHref(evt){
+		if (evt.preventDefault&&evt.target.href){
+			evt.preventDefault();
+			gHref=evt.target.href;
+		}
+	}
+
+	function dcsEvt(evt){
+		var e=evt.target||evt.srcElement;
+		if (e.tagName&&(e.tagName=="IMG")){
+			e=e.parentElement||e.parentNode;
+		}
+		return e;
+	}
+	function dcsBind(event,func){
+		if ((typeof(window[func])=="function")&&document.body){
+			if (document.body.addEventListener){
+				document.body.addEventListener(event, window[func], true);
+			}
+			else if(document.body.attachEvent){
+				document.body.attachEvent("on"+event, window[func]);
+			}
+		}
+	}
+	function dcsET(){
+		//dcsBind("click","dcsDownload");
+		dcsBind("click","dcsOffsite");
+	}
+	
+	function dcsMultiTrack(){
+		for (var i=0;i<arguments.length;i++){
+			if (arguments[i].indexOf('WT.')==0){
+					WT[arguments[i].substring(3)]=arguments[i+1];
+					i++;
+			}
+			if (arguments[i].indexOf('DCS.')==0){
+					DCS[arguments[i].substring(4)]=arguments[i+1];
+					i++;
+			}
+			if (arguments[i].indexOf('DCSext.')==0){
+					DCSext[arguments[i].substring(7)]=arguments[i+1];
+					i++;
+			}
+		}
+		var dCurrent=new Date();
+		DCS.dcsdat=dCurrent.getTime();
+		dcsTag();
+	}
+
+	function getCookie(c_name)
+	{
+	if (document.cookie.length>0)
+	{ 
+	c_start=document.cookie.indexOf(c_name + "=")
+	if (c_start!=-1)
+	{ 
+	c_start=c_start + c_name.length+1 
+	c_end=document.cookie.indexOf(";",c_start)
+	if (c_end==-1) c_end=document.cookie.length
+	return unescape(document.cookie.substring(c_start,c_end))
+	} 
+	}
+	return null
+	}
+
+
+	// Code section for Track clicks to download links.
+	function dcsDownload(evt){
+		evt=evt||(window.event||"");
+		if (evt){
+			var e=dcsEvt(evt);
+			if (dcsIsHttp(e)&&dcsIsOnsite(e.hostname)){
+				var types="xls,doc,pdf,txt,exe,sit,bin,hqx,csv,zip";
+				if (types.indexOf(e.pathname.substring(e.pathname.lastIndexOf(".")+1,e.pathname.length))!=-1){
+					var qry=e.search?e.search.substring(e.search.indexOf("?")+1,e.search.length):"";
+					if (qry.toUpperCase().indexOf("WT.SVL=")==-1){
+						WT.svl=dcsParseSvl(e.name?e.name.toString():(e.onclick?e.onclick.toString():""));
+					}
+					var path=(e.pathname.indexOf("/")!=0)?"/"+e.pathname:e.pathname;
+					dcsMultiTrack("DCS.dcssip",e.hostname,"DCS.dcsuri",path,"WT.ti","Download:"+path,"WT.dl","1");
+					DCS.dcssip=DCS.dcsuri=WT.ti=WT.svl=WT.dl="";
+				}
+			}
+		}
+	}
+
+	// Code section for Track clicks to links leading offsite.
+	function dcsOffsite(evt){
+		evt=evt||(window.event||"");
+		if (evt){
+			var e=dcsEvt(evt);
+			if (dcsIsHttp(e)&&!dcsIsOnsite(e.hostname)){
+				var qry=e.search?e.search.substring(e.search.indexOf("?")+1,e.search.length):"";
+				if (qry.toUpperCase().indexOf("WT.SVL=")==-1){
+					WT.svl=dcsParseSvl(e.name?e.name.toString():(e.onclick?e.onclick.toString():""));
+				}
+				var path=(e.pathname.indexOf("/")!=0)?"/"+e.pathname:e.pathname;
+				var trim=true;
+				dcsSaveHref(evt);
+				dcsMultiTrack("DCS.dcssip",e.hostname,"DCS.dcsuri",path,"DCS.dcsqry",trim?"":qry,"WT.ti","Offsite:"+e.hostname+path+qry,"WT.os","1");
+				DCS.dcssip=DCS.dcsuri=DCS.dcsqry=WT.ti=WT.svl=WT.os="";
+			}
+		}
+	}
+
+	//-->
+	</script>
+
+	<!-- END OF Custom SmartSource Data Collector TAG -->	
+
+	<!-- START OF SDC Advanced Tracking Code -->
+	<!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
+	<!-- $DateTime: 2005/12/15 15:37:36 $ -->
+	<script type="text/javascript"><!--
+	var gService = true;
+	var gTimeZone = -6;
+	// Code section for Enable First-Party Cookie Tracking
+	function dcsCookie(){
+		if (typeof(dcsOther)=="function"){
+			dcsOther();
+		}
+		else if (typeof(dcsPlugin)=="function"){
+			dcsPlugin();
+		}
+		else if (typeof(dcsFPC)=="function"){
+			dcsFPC(gTimeZone);
+		}
+	}
+	function dcsGetCookie(name){
+		var pos=document.cookie.indexOf(name+"=");
+		if (pos!=-1){
+			var start=pos+name.length+1;
+			var end=document.cookie.indexOf(";",start);
+			if (end==-1){
+				end=document.cookie.length;
+			}
+			return unescape(document.cookie.substring(start,end));
+		}
+		return null;
+	}
+	function dcsGetCrumb(name,crumb){
+		var aCookie=dcsGetCookie(name).split(":");
+		for (var i=0;i<aCookie.length;i++){
+			var aCrumb=aCookie[i].split("=");
+			if (crumb==aCrumb[0]){
+				return aCrumb[1];
+			}
+		}
+		return null;
+	}
+	function dcsGetIdCrumb(name,crumb){
+		var cookie=dcsGetCookie(name);
+		var id=cookie.substring(0,cookie.indexOf(":lv="));
+		var aCrumb=id.split("=");
+		for (var i=0;i<aCrumb.length;i++){
+			if (crumb==aCrumb[0]){
+				return aCrumb[1];
+			}
+		}
+		return null;
+	}
+	function dcsFPC(offset){
+		if (typeof(offset)=="undefined"){
+			return;
+		}
+		if (document.cookie.indexOf("WTLOPTOUT=")!=-1){
+			return;
+		}
+		var name=gFpc;
+		var dCur=new Date();
+		var adj=(dCur.getTimezoneOffset()*60000)+(offset*3600000);
+		dCur.setTime(dCur.getTime()+adj);
+		var dExp=new Date(dCur.getTime()+315360000000);
+		var dSes=new Date(dCur.getTime());
+		if (document.cookie.indexOf(name+"=")==-1){
+			if ((typeof(gWtId)!="undefined")&&(gWtId!="")){
+				WT.co_f=gWtId;
+			}
+			else if ((typeof(gTempWtId)!="undefined")&&(gTempWtId!="")){
+				WT.co_f=gTempWtId;
+				WT.vt_f="1";
+			}
+			else{
+				WT.co_f="2";
+				var cur=dCur.getTime().toString();
+				for (var i=2;i<=(32-cur.length);i++){
+					WT.co_f+=Math.floor(Math.random()*16.0).toString(16);
+				}
+				WT.co_f+=cur;
+				WT.vt_f="1";
+			}
+			if (typeof(gWtAccountRollup)=="undefined"){
+				WT.vt_f_a="1";
+			}
+			WT.vt_f_s="1";
+			WT.vt_f_d="1";
+		}
+		else{
+			var id=dcsGetIdCrumb(name,"id");
+			var lv=parseInt(dcsGetCrumb(name,"lv"));
+			var ss=parseInt(dcsGetCrumb(name,"ss"));
+			if ((id==null)||(id=="null")||isNaN(lv)||isNaN(ss)){
+				return;
+			}
+			WT.co_f=id;
+			var dLst=new Date(lv);
+			dSes.setTime(ss);
+			if ((dCur.getTime()>(dLst.getTime()+1800000))||(dCur.getTime()>(dSes.getTime()+28800000))){
+				dSes.setTime(dCur.getTime());
+				WT.vt_f_s="1";
+			}
+			if ((dCur.getDay()!=dLst.getDay())||(dCur.getMonth()!=dLst.getMonth())||(dCur.getYear()!=dLst.getYear())){
+				WT.vt_f_d="1";
+			}
+		}
+		WT.co_f=escape(WT.co_f);
+		WT.vt_sid=WT.co_f+"."+(dSes.getTime()-adj);
+		var expiry="; expires="+dExp.toGMTString();
+		document.cookie=name+"="+"id="+WT.co_f+":lv="+dCur.getTime().toString()+":ss="+dSes.getTime().toString()+expiry+"; path=/"+(((typeof(gFpcDom)!="undefined")&&(gFpcDom!=""))?("; domain="+gFpcDom):(""));
+		if (document.cookie.indexOf(name+"=")==-1){
+			WT.co_f=WT.vt_sid=WT.vt_f_s=WT.vt_f_d="";
+			WT.vt_f=WT.vt_f_a="2";
+		}
+	}
+
+	// Code section for Use the new first-party cookie generated with this tag.
+	var gFpc="WT_FPC";
+	var gConvert=true;
+
+	function dcsAdv(){
+		dcsFunc("dcsET");
+		dcsFunc("dcsCookie");
+		dcsFunc("dcsAdSearch");
+		dcsFunc("dcsTP");
+	}
+
+	//-->
+	</script>
+	<!-- END OF SDC Advanced Tracking Code -->
+
 	<!-- START OF SmartSource Data Collector TAG -->
-	<!-- © 1999-2004 NetIQ Corporation. All rights reserved. -->
-	<!-- V7.0 -->
-	<!-- $DateTime: 2003/10/28 16:26:23 $ -->
-	<!-- WebTrends code for zebra.com -->
-	<script language="Javascript"><!--
-	gVersion="1.0";
+	<!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
+	<!-- $DateTime: 2006/02/24 12:41:04 $ -->
+	<script type="text/javascript"><!--
+	var gDomain="statse.webtrendslive.com";
+	var gDcsId="dcslkvakq9u4fir3jk46bnu49_3k7k";
+
+	if ((typeof(gConvert)!="undefined")&&gConvert&&(document.cookie.indexOf(gFpc+"=")==-1)&&(document.cookie.indexOf("WTLOPTOUT=")==-1)){
+		document.write("<SCR"+"IPT TYPE='text/javascript' SRC='"+"http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+"/"+gDcsId+"/wtid.js"+"'><\/SCR"+"IPT>");
+	}
 	//-->
-	</script>
-	<script language="Javascript1.1"><!--
-	gVersion="1.1";
-	//-->
-	</script>
-	<script language="Javascript1.2"><!--
-	gVersion="1.2";
-	var RE={"%09":/\t/g,"%20":/ /g,"%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g};
-	//-->
-	</script>
-	<script language="Javascript1.3"><!--
-	gVersion="1.3";
-	//-->
-	</script>
-	<script language="Javascript1.4"><!--
-	gVersion="1.4";
-	//-->
-	</script>
-	<script language="Javascript1.5"><!--
-	gVersion="1.5";
-	//-->
-	</script>
-	<script language="JavaScript"><!--
+	</script><script type="text/javascript" src="https://statse.webtrendslive.com/dcslkvakq9u4fir3jk46bnu49_3k7k/wtid.js"></script>
+	<script type="text/javascript"><!--
 	var gImages=new Array;
 	var gIndex=0;
 	var DCS=new Object();
 	var WT=new Object();
 	var DCSext=new Object();
-
-	var gDomain="statse.webtrendslive.com";
-	var gDcsId="dcslkvakq9u4fir3jk46bnu49_3k7k";
+	var gQP=new Array();
+	var gI18n=false;
+	if (window.RegExp){
+		var RE={"%09":/\t/g,"%20":/ /g,"%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g};
+		var I18NRE={"%25":/\%/g};
+	}
 
 	function dcsVar(){
 		var dCurrent=new Date();
@@ -903,21 +1189,63 @@ td#buy_button a:hover {
 		WT.bh=dCurrent.getHours();
 		WT.ul=navigator.appName=="Netscape"?navigator.language:navigator.userLanguage;
 		if (typeof(screen)=="object"){
-			WT.cd=screen.colorDepth;
+			WT.cd=navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth;
 			WT.sr=screen.width+"x"+screen.height;
 		}
 		if (typeof(navigator.javaEnabled())=="boolean"){
 			WT.jo=navigator.javaEnabled()?"Yes":"No";
 		}
-		
-		var test = "Privacy Statement ";
-		
-		if (test){
-			WT.ti=test;
+		if (document.title){
+			WT.ti=gI18n?dcsEscape(dcsEncode(document.title),I18NRE):document.title;
 		}
 		WT.js="Yes";
-		if (typeof(gVersion)!="undefined"){
-			WT.jv=gVersion;
+		WT.jv=dcsJV();
+		if (document.body&&document.body.addBehavior){
+			document.body.addBehavior("#default#clientCaps");
+			if (document.body.connectionType){
+				WT.ct=document.body.connectionType;
+			}
+			document.body.addBehavior("#default#homePage");
+			WT.hp=document.body.isHomePage(location.href)?"1":"0";
+		}
+		if (parseInt(navigator.appVersion)>3){
+			if ((navigator.appName=="Microsoft Internet Explorer")&&document.body){
+				WT.bs=document.body.offsetWidth+"x"+document.body.offsetHeight;
+			}
+			else if (navigator.appName=="Netscape"){
+				WT.bs=window.innerWidth+"x"+window.innerHeight;
+			}
+		}
+		WT.fi="No";
+		if (window.ActiveXObject){
+			for(var i=10;i>0;i--){
+				try{
+					var flash = new ActiveXObject("ShockwaveFlash.ShockwaveFlash."+i);
+					WT.fi="Yes";
+					WT.fv=i+".0";
+					break;
+				}
+				catch(e){
+				}
+			}
+		}
+		else if (navigator.plugins&&navigator.plugins.length){
+			for (var i=0;i<navigator.plugins.length;i++){
+				if (navigator.plugins[i].name.indexOf('Shockwave Flash')!=-1){
+					WT.fi="Yes";
+					WT.fv=navigator.plugins[i].description.split(" ")[2];
+					break;
+				}
+			}
+		}
+		if (gI18n){
+			WT.em=(typeof(encodeURIComponent)=="function")?"uri":"esc";
+			if (typeof(document.defaultCharset)=="string"){
+				WT.le=document.defaultCharset;
+			} 
+			else if (typeof(document.characterSet)=="string"){
+				WT.le=document.characterSet;
+			}
 		}
 		WT.sp="@@SPLITVALUE@@";
 		DCS.dcsdat=dCurrent.getTime();
@@ -925,23 +1253,33 @@ td#buy_button a:hover {
 		DCS.dcsuri=window.location.pathname;
 		if (window.location.search){
 			DCS.dcsqry=window.location.search;
+			if (gQP.length>0){
+				for (var i=0;i<gQP.length;i++){
+					var pos=DCS.dcsqry.indexOf(gQP[i]);
+					if (pos!=-1){
+						var front=DCS.dcsqry.substring(0,pos);
+						var end=DCS.dcsqry.substring(pos+gQP[i].length,DCS.dcsqry.length);
+						DCS.dcsqry=front+end;
+					}
+				}
+			}
 		}
 		if ((window.document.referrer!="")&&(window.document.referrer!="-")){
 			if (!(navigator.appName=="Microsoft Internet Explorer"&&parseInt(navigator.appVersion)<4)){
-				DCS.dcsref=window.document.referrer;
+				DCS.dcsref=gI18n?dcsEscape(window.document.referrer, I18NRE):window.document.referrer;
 			}
 		}
 	}
 
-	function A(N,V){
-		return "&"+N+"="+dcsEscape(V);
+	function dcsA(N,V){
+		return "&"+N+"="+dcsEscape(V, RE);
 	}
 
-	function dcsEscape(S){
-		if (typeof(RE)!="undefined"){
+	function dcsEscape(S, REL){
+		if (typeof(REL)!="undefined"){
 			var retStr = new String(S);
-			for (R in RE){
-				retStr = retStr.replace(RE[R],R);
+			for (R in REL){
+				retStr = retStr.replace(REL[R],R);
 			}
 			return retStr;
 		}
@@ -950,37 +1288,44 @@ td#buy_button a:hover {
 		}
 	}
 
+	function dcsEncode(S){
+		return (typeof(encodeURIComponent)=="function")?encodeURIComponent(S):escape(S);
+	}
+
 	function dcsCreateImage(dcsSrc){
 		if (document.images){
 			gImages[gIndex]=new Image;
+			if ((typeof(gHref)!="undefined")&&(gHref.length>0)){
+				gImages[gIndex].onload=gImages[gIndex].onerror=dcsLoadHref;
+			}
 			gImages[gIndex].src=dcsSrc;
 			gIndex++;
 		}
 		else{
-			document.write('<IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="'+dcsSrc+'">');
+			document.write('<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="'+dcsSrc+'">');
 		}
 	}
 
 	function dcsMeta(){
-		var myDocumentElements;
+		var elems;
 		if (document.all){
-			myDocumentElements=document.all.tags("meta");
+			elems=document.all.tags("meta");
 		}
 		else if (document.documentElement){
-			myDocumentElements=document.getElementsByTagName("meta");
+			elems=document.getElementsByTagName("meta");
 		}
-		if (typeof(myDocumentElements)!="undefined"){
-			for (var i=1;i<=myDocumentElements.length;i++){
-				myMeta=myDocumentElements.item(i-1);
-				if (myMeta.name){
-					if (myMeta.name.indexOf('WT.')==0){
-						WT[myMeta.name.substring(3)]=myMeta.content;
+		if (typeof(elems)!="undefined"){
+			for (var i=1;i<=elems.length;i++){
+				var meta=elems.item(i-1);
+				if (meta.name){
+					if (meta.name.indexOf('WT.')==0){
+						WT[meta.name.substring(3)]=(gI18n&&(meta.name.indexOf('WT.ti')==0))?dcsEscape(dcsEncode(meta.content),I18NRE):meta.content;
 					}
-					else if (myMeta.name.indexOf('DCSext.')==0){
-						DCSext[myMeta.name.substring(7)]=myMeta.content;
+					else if (meta.name.indexOf('DCSext.')==0){
+						DCSext[meta.name.substring(7)]=meta.content;
 					}
-					else if (myMeta.name.indexOf('DCS.')==0){
-						DCS[myMeta.name.substring(4)]=myMeta.content;
+					else if (meta.name.indexOf('DCS.')==0){
+						DCS[meta.name.substring(4)]=(gI18n&&(meta.name.indexOf('DCS.dcsref')==0))?dcsEscape(meta.content,I18NRE):meta.content;
 					}
 				}
 			}
@@ -988,20 +1333,23 @@ td#buy_button a:hover {
 	}
 
 	function dcsTag(){
+		if (document.cookie.indexOf("WTLOPTOUT=")!=-1){
+			return;
+		}
 		var P="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+(gDcsId==""?'':'/'+gDcsId)+"/dcs.gif?";
 		for (N in DCS){
 			if (DCS[N]) {
-				P+=A(N,DCS[N]);
+				P+=dcsA(N,DCS[N]);
 			}
 		}
 		for (N in WT){
 			if (WT[N]) {
-				P+=A("WT."+N,WT[N]);
+				P+=dcsA("WT."+N,WT[N]);
 			}
 		}
 		for (N in DCSext){
 			if (DCSext[N]) {
-				P+=A(N,DCSext[N]);
+				P+=dcsA(N,DCSext[N]);
 			}
 		}
 		if (P.length>2048&&navigator.userAgent.indexOf('MSIE')>=0){
@@ -1009,16 +1357,56 @@ td#buy_button a:hover {
 		}
 		dcsCreateImage(P);
 	}
-	
+
+	function dcsJV(){
+		var agt=navigator.userAgent.toLowerCase();
+		var major=parseInt(navigator.appVersion);
+		var mac=(agt.indexOf("mac")!=-1);
+		var nn=((agt.indexOf("mozilla")!=-1)&&(agt.indexOf("compatible")==-1));
+		var nn4=(nn&&(major==4));
+		var nn6up=(nn&&(major>=5));
+		var ie=((agt.indexOf("msie")!=-1)&&(agt.indexOf("opera")==-1));
+		var ie4=(ie&&(major==4)&&(agt.indexOf("msie 4")!=-1));
+		var ie5up=(ie&&!ie4);
+		var op=(agt.indexOf("opera")!=-1);
+		var op5=(agt.indexOf("opera 5")!=-1||agt.indexOf("opera/5")!=-1);
+		var op6=(agt.indexOf("opera 6")!=-1||agt.indexOf("opera/6")!=-1);
+		var op7up=(op&&!op5&&!op6);
+		var jv="1.1";
+		if (nn6up||op7up){
+			jv="1.5";
+		}
+		else if ((mac&&ie5up)||op6){
+			jv="1.4";
+		}
+		else if (ie5up||nn4||op5){
+			jv="1.3";
+		}
+		else if (ie4){
+			jv="1.2";
+		}
+		return jv;
+	}
+
+	function dcsFunc(func){
+		if (typeof(window[func])=="function"){
+			window[func]();
+		}
+	}
+
 	dcsVar();
 	dcsMeta();
+	dcsFunc("dcsAdv");
 	dcsTag();
 	//-->
 	</script>
 
 	<noscript>
-	<img border="0" name="DCSIMG" width="1" height="1" src="http://statse.webtrendslive.com/dcslkvakq9u4fir3jk46bnu49_3k7k/njs.gif?dcsuri=/nojavascript&WT.js=No">
+	<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/dcslkvakq9u4fir3jk46bnu49_3k7k/njs.gif?dcsuri=/nojavascript&amp;WT.js=No">
 	</noscript>
+	<!-- END OF SmartSource Data Collector  TAG -->	
+
+  
 
 
 		</td>
