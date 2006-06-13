@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpp.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210050505id_/http%3A//cpp.com/private.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpp.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613070729id_/http%3A//cpp.com/private.asp) for the most accurate reproduction.*
 
 # CPP - Privacy Statement
 
@@ -32,7 +32,7 @@ Our web site uses an order form for customers to purchase products and services.
 
 Contact information from the order form is used to send orders to our customers. We also provide mailings and other marketing collateral regarding product information and releases. We also conduct surveys during which non-personally identifiable information is collected but will not be used other than to garner survey results.  Users may opt out of receiving any of the surveys by contacting CPP by email, mail or phone as noted above or by selecting the appropriate option during account setup or modification once they are logged into their account.  We reserve the right to aggregate or compile and use data obtained from the scoring or other processing of products listed on this site or other wise sold or licensed by CPP, and to utilize this data for research, product development, and statistical analysis. Be assured that such data is only used in aggregate and never discloses any individual's identity.
 
-If a user chooses to sign up to receive a CPP newsletter, that user will be able to unsubscribe from that newsletter by clicking on the unsubscribe link provided in the newsletter, by e-mailing CPP Customer Relations or by mailing CPP’s Customer Relations.
+If a user chooses to sign up to receive a CPP newsletter, that user will be able to unsubscribe from that newsletter by clicking on the unsubscribe link provided in the newsletter, by e-mailing CPP Customer Relations custserv@cpp.com or by mailing CPP’s Customer Relations at the address provided below.
 
 CPP collects the name and e-mail address of the end-user (the assessment taker) for the sole purpose of providing CPP’s customers with assessment results.  CPP does not share this information with any third parties (other than the test administrator).
 
