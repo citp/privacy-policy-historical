@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gigwise.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230122356id_/http%3A//gigwise.com/contents.asp%3FContentID%3D69) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigwise.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613042653id_/http%3A//gigwise.com/contents.asp%3FContentID%3D69) for the most accurate reproduction.*
 
 # GIGWISE.com | Privacy Policy
 
@@ -41,3 +41,5 @@ We reserve the right, at any time, to modify, alter, or update this Privacy Poli
 Any queries or comments about this policy should be forwarded to [query@gigwise.com](mailto:query@gigwise.com).
 
 Any site that you may connect to from here is not covered by this Privacy Policy.
+
+Leave a comment on this article!
