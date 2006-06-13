@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbssports.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225054404id_/http%3A//www.sportsline.com/info/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbssports.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613083058id_/http%3A//www.sportsline.com/info/about/privacy) for the most accurate reproduction.*
 
 # SportsLine.com - CBS SportsLine.com
 
