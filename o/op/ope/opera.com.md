@@ -1,22 +1,45 @@
-> *The following text is extracted and transformed from the opera.com privacy policy that was archived on 2005-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050607000851id_/http%3A//www.opera.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opera.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613022426id_/http%3A//www.opera.com/privacy) for the most accurate reproduction.*
 
 # Opera Privacy Statement
 
 The Opera browser offers you excellent features for the protection of your privacy and security when using Opera in the internet environment. Opera Software has also created this privacy statement in order to demonstrate our firm commitment to privacy. This document refers to three distinct areas. Please note that personal information that is collected directly by Opera Software is not shared with any other parties.
 
   * Privacy in the Opera desktop browser
+  * Privacy in the Opera Mini browser
   * Privacy on our Web sites
   * Privacy of customer data
 
 
 
-## Privacy in the opera desktop browser
+## Privacy in the Opera desktop browser
 
-The advertising banner in Opera was first introduced with the launch of Opera 5 in December 2000. All of Opera's desktop browsers now include this technology. Opera Software has taken much care in the development so that user privacy and security are not compromised. No personal information is collected or shared, and providing ad profile information in the browser is strictly optional. The Opera user's Web usage is not tracked. What is recorded and shared with the advertising service provider is the user's interaction with the relative banner advertising. Please see links below for more information about the company that provides the advertising in Opera.
+Opera Software has taken much care in the development so that user privacy and security are not compromised. No personal information is collected or shared, and providing ad profile information in the browser is strictly optional. The Opera user's Web usage is not tracked. What is recorded and shared with the advertising service provider is the user's interaction with the relative banner advertising. Please see links below for more information about the company that provides the advertising in Opera.
 
 ### Opera's built-in Web search
 
 Opera has a built-in Web search feature introduced in Opera 5. This gives the user the option to utilize external Web search engines directly from the browser interface. Opera relies on third parties for this service. Follow the link below for more information about Opera's search feature.
+
+## Privacy in the Opera Mini browser
+
+Opera Mini will keep a record of the user's phone number, make, and model for use with maintaining the history, cache and cookies. This is done for the purposes of debugging, maintenance, optimization of the service, or maintaining the customer relationship. The history, cache and cookie information can be removed using Tools > History > Clear from the menu in Opera Mini.
+
+### Opera Mini's built-in Web search
+
+Opera Mini has a built-in Web search feature. This gives the user the option to utilize external Web search engines directly from the browser interface. Opera Mini relies on third parties for this service. Opera Mini sends the user's search requests (in a specially designed URL string) directly to third party Web sites which handle the actual search queries. What is sent to the third party site is the special Opera Mini search string along with the text terms needed to perform the particular search query. No personal information is sent.
+
+When using the built-in search-related features, Opera Mini will receive cookies, including third party cookies, from thirds party sites. These can be removed using Tools > History > Clear from the menu in Opera Mini.
+
+Some third party sites may monitor data traffic from copies of the Opera Mini browser, such as numbers of hits and the search terms used. No personally identifiable information is made available to these services by the Opera Mini browser nor by Opera Software.
+
+Please note: Opera Software does not control the privacy and security practices and policies of these third parties and their sites. Check the particular site and/or business for more information. It is the responsibility of the browser user to use caution before sharing personal information via forms and other methods used by third parties and their Websites.
+
+No personal information is collected or shared, and providing ad profile information in the browser is strictly optional. The Opera user's Web usage is not tracked. What is recorded and shared with the advertising service provider is the user's interaction with the relative banner advertising. Please see links below for more information about the company that provides the advertising in Opera.
+
+### Privacy of customer data
+
+Analysis of Web usage will be done by aggregating data, ensuring anonymity of individual end users. Content and username/passwords for secure sites being encrypted server-side will not be aggregated and stored for any longer that the session is alive. Upon termination of the session this information will be deleted.
+
+If a customer places a request for customer service from Opera Software, the information that may be collected is: e-mail address, name, phone number, correspondence records, and technical information such as system hardware, operating system, and the version of Opera being used. This information is voluntarily given by the customer, and is used by Opera Software only for the purpose of assisting the customer with his or her problems. This information is not used for any other purpose. Information collected by our customer service department is not shared nor is it sold to other parties. We do not sell or share this information with our advertising partners or advertising agencies.
 
 ## Privacy on Our Web Sites
 
