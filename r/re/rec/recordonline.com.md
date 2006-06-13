@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the recordonline.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212143309id_/http%3A//www.recordonline.com/services/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recordonline.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613041244id_/http%3A//www.recordonline.com/services/privacy.html) for the most accurate reproduction.*
 
-# Record Online Customer Care Center
+# recordonline.com - customer service
 
-****_  
-This privacy policy was last updated on 6/22/01._  
+_This privacy policy was last updated on 6/22/01._  
    Ottaway Newspapers, Inc., the parent company of Ottaway Newspaper Group, and its affiliates (collectively referred to as "Ottaway", "we", "us" or "our", as applicable) are committed to maintaining the privacy of personal information that you provide to us when using their respective web sites (the "Ottaway Web Sites"). This Privacy Policy describes how we treat personal information received about you when you visit the Ottaway Web Sites. 
 
 **Information Collected  
@@ -53,16 +52,3 @@ This privacy policy was last updated on 6/22/01._
 
 **Comments and Questions  
 **   If you have any questions, comments or concerns about our Privacy Policy, you may contact us by e-mail at alanghoff@ottaway.com or by regular mail at: P.C. Box 401, Campbell Hall, NY 10916, Attn: Andrew Langhoff. 
-
-* * *
-
-  
-  
-[Powered by   
-](http://www.thrnewmedia.com/) [](http://thrnewmedia.com/)   
-40 Mulberry Street * PO Box 2046 * Middletown, NY 10940  
-Telephone 845-341-1100 or 800-295-2181 outside the Middletown, N.Y., area.  
-  
-For optimal viewing experience, [click here](http://www.recordonline.com/services/optimize.htm).  
-[Copyright](http://www.recordonline.com/services/copyright.html) Orange County Publications. All rights reserved.    
-
