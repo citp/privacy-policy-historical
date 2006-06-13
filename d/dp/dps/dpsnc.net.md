@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dpsnc.net privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223190039id_/http%3A//www.dpsnc.net/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D2028%26Itemid%3D715) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dpsnc.net privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613024527id_/http%3A//dpsnc.net/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D2028%26Itemid%3D715) for the most accurate reproduction.*
 
 # Durham Public Schools - Your Privacy
 
@@ -49,4 +49,4 @@ DPS may amend this policy from time to time. DPS will prominently display on thi
 
 #### Contact Us: 
 
-If you have questions about this privacy statement or the comments about the web site please [contact us](https://web.archive.org/index.php?option=com_contact&catid=32&Itemid=615).
+If you have questions about this privacy statement or the comments about the web site please [contact us](http://www.dpsnc.net/index.php?option=com_contact&catid=32&Itemid=615).
