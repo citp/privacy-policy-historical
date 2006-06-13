@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberhomes.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213202315id_/http%3A//www.buybankhomes.com/Default.asp%3F_URL_%3D/Special/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberhomes.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613044822id_/http%3A//www.buybankhomes.com/Default.asp%3F_URL_%3D/Special/Privacy.asp) for the most accurate reproduction.*
 
 # Locate and Bid on Bank-Owned REO and Pre Foreclosure Properties for FREE at Buy Bank Homes.
 
