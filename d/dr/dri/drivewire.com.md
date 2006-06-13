@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drivewire.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223144450id_/http%3A//www.drivewire.com/001supportingfiles/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivewire.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613230437id_/http%3A//www.drivewire.com/001supportingfiles/privacypolicy.html) for the most accurate reproduction.*
 
 # Drivewire - Privacy Policy
 
@@ -6,9 +6,9 @@
 
 **Overview**
 
-DriveWire takes your privacy very seriously. Drivewire.com understands that privacy concerns are extremely important to our customers and we strive to maintain the highest standards to protect your privacy. DriveWire has developed a strict privacy policy that covers every aspect of how and why we use your personal information. Please take a moment to read the following to learn more about our privacy policy. 
+Drivewire takes your privacy very seriously. Drivewire.com understands that privacy concerns are extremely important to our customers and we strive to maintain the highest standards to protect your privacy. Drivewire has developed a strict privacy policy that covers every aspect of how and why we use your personal information. Please take a moment to read the following to learn more about our privacy policy. 
 
-DriveWire follows these privacy principles in our conduct in the collection, use, release and security of customer information both online and offline: 
+Drivewire follows these privacy principles in our conduct in the collection, use, release and security of customer information both online and offline: 
 
   * Providing you NOTICE of our information practices. 
   * Giving you CHOICES about how your data will be used. 
@@ -18,7 +18,7 @@ DriveWire follows these privacy principles in our conduct in the collection, use
   * Committing to COMPLYING with applicable privacy requirements. 
   * Providing you with means to CONTACT US about privacy-related issues. 
 
-If you have any questions or believe that you have received unsolicited emails, please contact abuse@drivewire.com 
+If you have any questions or believe that you have received unsolicited emails, please contact abuse@Drivewire.com 
 
 Our Internet site allows you to enter contests, receive special discounts, fill out surveys, and receive newsletters, e-mails or other promotional information from us. We use the information that we collect about you to fulfill your product and service purchases and to create a more personalized online experience. This is just a brief overview, so please read on for more details about our Privacy Policy. This Policy may change from time to time, so please check back periodically. 
 
@@ -28,7 +28,7 @@ This policy covers how Auto Service Group Inc (Drivewire.com) handles your perso
 
 This Privacy Policy will explain the following regarding use of our site: 
 
-1\. What information does drivewire.com collect from you?   
+1\. What information does Drivewire.com collect from you?   
 2\. Where do we collect information from you and how do we use it?   
 3\. With whom do we share your information?   
 4\. Ownership Of information.   
@@ -37,16 +37,16 @@ This Privacy Policy will explain the following regarding use of our site:
 7\. What security precautions are in place to protect against the loss, misuse or alteration of your information?   
 8\. Use of "Cookies."   
 9\. Minors using this site.   
-10\. You should carefully review privacy policies of any third party sites accessible from drivewire.com.   
-11\. Contacting drivewire.com about privacy questions or concerns.   
+10\. You should carefully review privacy policies of any third party sites accessible from Drivewire.com.   
+11\. Contacting Drivewire.com about privacy questions or concerns.   
 12\. Acceptance of these terms.   
 13\. Privacy Policy changes.
 
-**1\. What information does drivewire.com collect from you?**
+**1\. What information does Drivewire.com collect from you?**
 
-In order to better provide you with numerous products and services, drivewire.com collects two types of information about its visitors: Personally Identifiable Information and Non-Personally Identifiable Information. Our primary goal in collecting information from you is to provide you with a smooth, efficient, and customized experience while using our site. 
+In order to better provide you with numerous products and services, Drivewire.com collects two types of information about its visitors: Personally Identifiable Information and Non-Personally Identifiable Information. Our primary goal in collecting information from you is to provide you with a smooth, efficient, and customized experience while using our site. 
 
-Personally Identifiable Information This refers to information that lets us know the specifics of who you are. Personal information is requested when you order a product or service, register for a Gift List, enter contests or sweepstakes, fill out surveys, and send us feedback. This information might include your name, billing address, shipping address, telephone number, e-mail address, credit card or other payment information, and product details. With this information, drivewire.com can fill your orders and better provide you with personalized services. 
+Personally Identifiable Information This refers to information that lets us know the specifics of who you are. Personal information is requested when you order a product or service, register for a Gift List, enter contests or sweepstakes, fill out surveys, and send us feedback. This information might include your name, billing address, shipping address, telephone number, e-mail address, credit card or other payment information, and product details. With this information, Drivewire.com can fill your orders and better provide you with personalized services. 
 
 Non-Personally Identifiable Information This refers to information that does not by itself identify a specific individual. We gather certain information about you based upon where you shop on our site in several ways. This information is compiled and analyzed on both a personal and an aggregated basis. This information may include the Web site's Uniform Resource Locator ("URL") that you just came from, which URL you next go to, what browser you are using, and your Internet Protocol ("IP") address. A URL is the global address of documents and other resources on the World Wide Web. An IP address is an identifier for a computer or device on a Transmission Control Protocol/Internet Protocol ("TCP/IP") network, such as the World Wide Web. Networks like the web use the TCP/IP protocol to route information based on the IP address of the destination. In other words, an IP address is a number that is automatically assigned to your computer whenever you are surfing the web, allowing web servers to locate and identify your computer. Computers require IP addresses in order for users to communicate on the Internet, browse and shop. 
 
@@ -54,9 +54,9 @@ Back to Top
 
 **2\. Where do we collect information from you and how do we use it?**
 
-Our primary goal in collecting personal information is to provide DriveWire.Com visitors with a superior customized online experience. We use the customer contact information to fill orders, contact purchasers to inform them of their order status, to send promotional information, to enhance the operation of our site and administer our systems. 
+Our primary goal in collecting personal information is to provide Drivewire.Com visitors with a superior customized online experience. We use the customer contact information to fill orders, contact purchasers to inform them of their order status, to send promotional information, to enhance the operation of our site and administer our systems. 
 
-Limited demographic data is also collected at our site from our third party advertising server, who provides us with the zip code and area code associated with a visitor's server, along with pages viewed on our site. We review the actions of the drivewire.com visitors on an aggregate basis to determine customers' preferences. Drivewire.com does research on our visitors' demographics, interests, and pages viewed based on the information provided to us during ordering, a promotion, from our server log files, from contests, drawings or surveys. We will use this data to tailor the visitor's experience at our site, to improve our marketing and promotional efforts, to statistically analyze site use, to improve our product offerings, and to customize our Site's content, layout, and services. We receive summary, but not individual, reports from our third party ad server, which tells us how many ads were presented and clicked upon. 
+Limited demographic data is also collected at our site from our third party advertising server, who provides us with the zip code and area code associated with a visitor's server, along with pages viewed on our site. We review the actions of the Drivewire.com visitors on an aggregate basis to determine customers' preferences. Drivewire.com does research on our visitors' demographics, interests, and pages viewed based on the information provided to us during ordering, a promotion, from our server log files, from contests, drawings or surveys. We will use this data to tailor the visitor's experience at our site, to improve our marketing and promotional efforts, to statistically analyze site use, to improve our product offerings, and to customize our Site's content, layout, and services. We receive summary, but not individual, reports from our third party ad server, which tells us how many ads were presented and clicked upon. 
 
 **We gather information in the following ways:**
 
@@ -71,17 +71,17 @@ Limited demographic data is also collected at our site from our third party adve
 
 ##### Contact Information and Third Party Data 
 
-If you contact drivewire.com or our customer service representatives by telephone, e-mail or letter, we may keep a record of your correspondence or comments. If you report a problem with our site, we may collect such information in a file specific to you. If you contact us through our feedback area or by calling one of our customer service representatives, we may ask for your name and e-mail address in order to send you a reply. If other users or third parties send us correspondence about your activities or purchases on our site, we may keep the information in a file specific to you. We use a third party to help us provide customer service. In order to help you most effectively, we provide them with your order information. 
+If you contact Drivewire.com or our customer service representatives by telephone, e-mail or letter, we may keep a record of your correspondence or comments. If you report a problem with our site, we may collect such information in a file specific to you. If you contact us through our feedback area or by calling one of our customer service representatives, we may ask for your name and e-mail address in order to send you a reply. If other users or third parties send us correspondence about your activities or purchases on our site, we may keep the information in a file specific to you. We use a third party to help us provide customer service. In order to help you most effectively, we provide them with your order information. 
 
 Back to Top
 
 **3\. With whom do we share your information?**
 
-The information collected by drivewire.com is used only for the limited purposes of processing orders, keeping you informed about your order status, for statistical purposes, for improving our site and its performance, and to notify you of products or special offers that may be of interest to you. We will disclose your Personally Identifiable Information to third parties to charge your credit card, fill your order, deliver your order, provide customer service and deliver promotional e-mails to you from drivewire.com. For example, we must release your credit card information to the card-issuing bank to confirm payment; and release your address information to the delivery service to deliver products that you ordered. 
+The information collected by Drivewire.com is used only for the limited purposes of processing orders, keeping you informed about your order status, for statistical purposes, for improving our site and its performance, and to notify you of products or special offers that may be of interest to you. We will disclose your Personally Identifiable Information to third parties to charge your credit card, fill your order, deliver your order, provide customer service and deliver promotional e-mails to you from Drivewire.com. For example, we must release your credit card information to the card-issuing bank to confirm payment; and release your address information to the delivery service to deliver products that you ordered. 
 
-We do not sell, trade, or rent your personal information to others. We may provide Non-Personally Identifiable Information about our customers' sales, traffic patterns, and related site information to third party advertisers, but these statistics do not include any Personally Identifiable Information. We may release account information when we believe that such release is reasonably necessary to enforce or apply our Terms and Conditions or to protect the rights, property, and safety of drivewire.com, our users, or others. 
+We do not sell, trade, or rent your personal information to others. We may provide Non-Personally Identifiable Information about our customers' sales, traffic patterns, and related site information to third party advertisers, but these statistics do not include any Personally Identifiable Information. We may release account information when we believe that such release is reasonably necessary to enforce or apply our Terms and Conditions or to protect the rights, property, and safety of Drivewire.com, our users, or others. 
 
-Except as otherwise stated in this Policy, at present drivewire.com does not disclose its customers' Personally Identifiable Information to other merchants. In the future, with your permission, we may provide some customer information to companies with products or services that may be of interest to you. This would be for marketing purposes only and no credit card information would be given. Occasionally drivewire.com may be required by law enforcement or judicial authorities to provide Personally Identifiable Information to the appropriate governmental authorities. We will disclose Personally Identifiable Information upon receipt of a court order, subpoena, or to cooperate with a law enforcement investigation. Drivewire.com fully cooperates with law enforcement agencies in identifying those who use our services for illegal activities. We reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful. 
+Except as otherwise stated in this Policy, at present Drivewire.com does not disclose its customers' Personally Identifiable Information to other merchants. In the future, with your permission, we may provide some customer information to companies with products or services that may be of interest to you. This would be for marketing purposes only and no credit card information would be given. Occasionally Drivewire.com may be required by law enforcement or judicial authorities to provide Personally Identifiable Information to the appropriate governmental authorities. We will disclose Personally Identifiable Information upon receipt of a court order, subpoena, or to cooperate with a law enforcement investigation. Drivewire.com fully cooperates with law enforcement agencies in identifying those who use our services for illegal activities. We reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful. 
 
 You will be notified when any third party that is not our agent/service provider collects your personal information, so you can make an informed choice as to whether or not to share your information with that party. 
 
@@ -99,23 +99,23 @@ Back to Top
 
 We believe you should have the ability to access and edit the personal information that you have provided to us. During the online ordering process you can review, change, or delete the information that you have submitted. You may change any of your personal information in your account online at any time. We encourage you to promptly update your information if it changes. 
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, or delete by making the change on our account information page or by emailing our Customer Support at [support@drivewire.com](mailto:support@drivewire.com). or by contacting us by telephone or postal mail at the contact information listed below. 
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, or delete by making the change on our account information page or by emailing our Customer Support at [support@Drivewire.com](mailto:support@Drivewire.com). or by contacting us by telephone or postal mail at the contact information listed below. 
 
 Opt Out - We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information.  For example, when you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order checkout form. 
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [privacy@DriveWire.com](mailto:privacy@DriveWire.com) or you may contact us at 949-387-1900 or by mail at DriveWire.com 18021 Sky Park Circle Suite K Irvine CA 92614 to opt-out. 
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [privacy@Drivewire.com](mailto:privacy@Drivewire.com) or you may contact us at 949-387-1900 or by mail at Drivewire.com 18021 Sky Park Circle Suite K Irvine CA 92614 to opt-out. 
 
 Back to Top
 
 **6\. What are your choices regarding collection, use, and distribution of your information?**
 
-We may from time to time send you e-mail or other communications regarding current promotions, specials and new additions to the drivewire.com site. You may "opt-out," or unsubscribe from our newsletters by following the unsubscribe instructions in any e-mail you receive from us. After doing so, drivewire.com users will not receive future communications or mailings unless they open a new account or enter a contest. 
+We may from time to time send you e-mail or other communications regarding current promotions, specials and new additions to the Drivewire.com site. You may "opt-out," or unsubscribe from our newsletters by following the unsubscribe instructions in any e-mail you receive from us. After doing so, Drivewire.com users will not receive future communications or mailings unless they open a new account or enter a contest. 
 
 Back to Top
 
 **7\. What security precautions are in place to protect against the loss, misuse, or alteration of your information?**
 
-At drivewire.com you can be assured that your personal and account information is secure, consistent with current industry standards. The importance of security for all Personally Identifiable Information associated with our customers is of utmost concern to us. Our secure servers protect the information using advanced firewall technology. 
+At Drivewire.com you can be assured that your personal and account information is secure, consistent with current industry standards. The importance of security for all Personally Identifiable Information associated with our customers is of utmost concern to us. Our secure servers protect the information using advanced firewall technology. 
 
 In order to most efficiently serve you, established third party banking, processing agents and distribution institutions handle credit card transactions and order fulfillment. They receive the information needed to verify and authorize your credit card or other payment information and to process and ship your order. 
 
@@ -125,9 +125,9 @@ Back to Top
 
 **8\. Use of "cookies"**
 
-When you use our site we will store cookies on your computer in order to facilitate and customize your use of our site. A cookie is a small data text file, which a Web site stores on your computer's hard drive (if your Web browser permits) that can later be retrieved to identify you to drivewire.com. Our cookies store randomly assigned user identification numbers, the country where you are located, and your first name to welcome you back to our site. The cookies make your use of the site easier, allow you to retrieve an earlier shopping cart, make the site run more smoothly and help us to maintain a secure site. You will be unable to shop on our site without your browser set to accept cookies. 
+When you use our site we will store cookies on your computer in order to facilitate and customize your use of our site. A cookie is a small data text file, which a Web site stores on your computer's hard drive (if your Web browser permits) that can later be retrieved to identify you to Drivewire.com. Our cookies store randomly assigned user identification numbers, the country where you are located, and your first name to welcome you back to our site. The cookies make your use of the site easier, allow you to retrieve an earlier shopping cart, make the site run more smoothly and help us to maintain a secure site. You will be unable to shop on our site without your browser set to accept cookies. 
 
-Some of our business partners (e.g., advertisers) use cookies on our site.  We have no access to or control over these cookies.  This privacy statement covers the use of cookies by DriveWire.Com, Auto Service Group Inc. only and does not cover the use of cookies by any advertisers. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. 
+Some of our business partners (e.g., advertisers) use cookies on our site.  We have no access to or control over these cookies.  This privacy statement covers the use of cookies by Drivewire.Com, Auto Service Group Inc. only and does not cover the use of cookies by any advertisers. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. 
 
 Back to Top
 
@@ -137,23 +137,23 @@ This site is intended for the use of adults 18 and over. The forms on this site 
 
 Back to Top
 
-**10\. You should carefully review privacy policies of any third party sites accessible from drivewire.com**
+**10\. You should carefully review privacy policies of any third party sites accessible from Drivewire.com**
 
-Other sites accessible through our web site have their own privacy policies and data collection, use and disclosure practices. Please consult each site's privacy policy. Drivewire.com is not responsible for the policies or practices of third parties. Please be aware that this site may contain links to other sites on the Internet that are owned and operated by third parties. This Privacy Policy does not cover the information practices of those web sites linked to drivewire.com. These other sites may send their own cookies to users, collect data, or solicit personal information. Additionally, other companies, which place advertising on our site, may collect information about you when you view or click on their advertising through the use of cookies. We cannot control this collection of information. You should contact these advertisers directly if you have any questions about their use of the information that they collect. 
+Other sites accessible through our web site have their own privacy policies and data collection, use and disclosure practices. Please consult each site's privacy policy. Drivewire.com is not responsible for the policies or practices of third parties. Please be aware that this site may contain links to other sites on the Internet that are owned and operated by third parties. This Privacy Policy does not cover the information practices of those web sites linked to Drivewire.com. These other sites may send their own cookies to users, collect data, or solicit personal information. Additionally, other companies, which place advertising on our site, may collect information about you when you view or click on their advertising through the use of cookies. We cannot control this collection of information. You should contact these advertisers directly if you have any questions about their use of the information that they collect. 
 
 Back to Top
 
-**11\. Contacting drivewire.com about privacy questions or concerns**
+**11\. Contacting Drivewire.com about privacy questions or concerns**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact drivewire.com by sending a letter to: 
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact Drivewire.com by sending a letter to: 
 
-DriveWire.com   
+Drivewire.com   
 Attn: Privacy Compliance Officer  
 18021 Sky Park Circle  
 Suite K  
 Irvine CA 92614 
 
-You may also contact us by e-mail at [privacy@drivewire.com](mailto:privacy@drivewire.com)
+You may also contact us by e-mail at [privacy@Drivewire.com](mailto:privacy@Drivewire.com)
 
 Back to Top
 
@@ -171,6 +171,6 @@ This Privacy Policy was last changed on September 13, 2005. If we decide to chan
 
 [](http://www.truste.org/ivalidate.php?url=www.drivewire.com&sealid=101) Auto Service Group Inc. is a licensee of the TRUSTe Privacy Program.  TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the site [www.drivewire.com](http://www.drivewire.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
-If you have questions or concerns regarding this statement, you should first contact DriveWire’s Privacy Policy Manager at [pricvacy@drivewire.com](mailto:pricvacy@drivewire.com).  If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first contact Drivewire’s Privacy Policy Manager at [pricvacy@Drivewire.com](mailto:pricvacy@Drivewire.com).  If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
 Back to Top
