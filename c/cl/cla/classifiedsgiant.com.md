@@ -1,41 +1,38 @@
-> *The following text is extracted and transformed from the classifiedsgiant.com privacy policy that was archived on 2003-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030812080539id_/http%3A//www.lookquick.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classifiedsgiant.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613035719id_/http%3A//classifiedsgiant.com/privacy.html) for the most accurate reproduction.*
 
-# lookquick.com - The World's Fastest Search Engine!
+# LookQuick Interactive Inc. Internet Advertising And Marketing Solns.
 
-**Why We Collect Personal Information**  
-LookQuick.com collects personal information to personalize your experience with our site. The more we know about you, the more we can present you with information and features that will interest you. The facts you provide, along with data stored in your personal "cookie," (see below) may also be used to make your online experience faster and more convenient.
+**Welcome to LookQuick Interactive, Inc.**   
+We have a basic commitment to keeping secure any information you share with us. Our users have a right to know what information we collect here on the LookQuick site and what we do with that information. We want you to understand exactly what our policy is, so we have tried to make this policy as clear as possible. If you have any questions, please ask by e-mailing Privacy@LookQuick.com 
 
-We also use user information to measure our success and performance. For example, aggregate information gives us an idea of the number of visitors we attract and how they navigate they site. The information we collect enables us to contact users with offers and advertisements that may appeal to them. At times, we may also use the information we collect to notify members of site updates and to promote special events at LookQuick.com.
+**HOW WE USE PERSONAL INFORMATION TO HELP YOU**   
+The information we collect allows us to present you with information and features that will interest you. The facts you provide, along with data stored in your "cookie," (see below) may also be used to make your online experience faster and more convenient. The information we collect enables us to contact users with offers and advertisements that may appeal to them. At times, we may also use the information we collect to notify members of site updates and to promote special events at Lookquick Interactive Inc.. 
 
-**How We Gather Data on LookQuick.com Users**  
-We gather information in a number of ways, depending on the section of our site you are using. If you are an advertiser and join our services, we may ask you for contact information. This information is used for account management purposes so we can better suit your needs. Your personal information will never be gathered without your knowledge or understanding.
+**HOW WE USE PERSONAL INFORMATION TO MANAGE OUR BUSINESS**   
+User information allows us to accurately measure our success and performance. For example, aggregate information gives us an idea of the number of visitors we attract and how they navigate the site. That's information we need as we continue to improve our service. 
 
-When you visit our site,what we collect may track this information through the use of a "cookie" or other technological means. This information is mainly used to keep track of the number of visitors that come to the site so we can better assist our advertisers.
+**HOW WE GATHER DATA**   
+First: Your personal information will never be gathered without your knowledge or understanding. We promise. Wherever we ask you for personal information, we try to include a link to this Privacy Policy for your review. 
 
-Wherever we ask you for personal information, we try to include a link to this Privacy Policy for your review.
+We gather information in a number of ways, depending on the section of our site you are using. If you are an advertiser, we may ask you for contact information for account management purposes so we can better suit your needs. 
 
-**Other Companies' Access to Your Personal Information**  
-LookQuick.com does not sell, rent or trade user information to other companies. Our site may link to advertisers and sites that collect personally identifiable information about you when you access them from LookQuick.com. This type of collection or use of personal information is beyond LookQuick.com 'control and is not covered by this Privacy Policy.
+When you visit our site, we may track this information through the use of a "cookie" or other technological means. This information is mainly used to monitor the number of visitors that come to the site so we can better assist our advertisers. 
 
-**"Cookies" and Their Use at LookQuick.com**  
-"Cookies" are small data files that are sent from the site to your browser and are stored on your hard drive, keeping track of your general activity on the site. When you make subsequent visits to the site, your cookie gives us a summary of your preferences and past experiences on the site. This allows us to tailor LookQuick.com to your needs.
+**"COOKIES" AND THEIR USE AT LOOKQUICK INTERACTIVE INC.**   
+"Cookies" are small data files that are sent from the site to your browser and are stored on your hard drive, keeping track of your general activity on the site. When you make subsequent visits to the site, your cookie gives us a summary of your preferences and past experiences on the site. This allows us to tailor Lookquick Interactive Inc. to your needs. 
 
-Your cookie may be altered at different times throughout your visits to LookQuick.com, and it is updated frequently as you use various LookQuick.com features. Every time you enter LookQuick.com, our server may deliver certain customized information to you based on the data stored in your cookie.   
-Some advertisers or Web sites that have links on our site may use their own cookies. Again, these cases are beyond our control and are not included in LookQuick.com's Privacy Policy.
+Your cookie may be altered at different times throughout your visits to Lookquick Interactive Inc., and it is updated frequently as you use various Lookquick Interactive Inc. features. Every time you enter Lookquick Interactive Inc., our server may deliver certain customized information to you based on the data stored in your cookie. 
 
-**Security  
-**LookQuick.com stores all data behind carefully selected security devices, such as firewalls or offline computer equipment. All internal communication with the system and communication of private member data, such as credit card information, is transmitted using encrypted protocols. Policies related to staff access to private member data are in place. All data is held in the strictest confidence, protected by the strictest security standards.
+**HOW OTHER COMPANIES GAIN ACCESS TO YOUR PERSONAL INFORMATION**   
+Lookquick Interactive Inc. does not sell, rent or trade user information to other companies. However, our site may link to advertisers and sites that do. This type of collection or use of personal information is beyond Lookquick Interactive Inc.'s control and is not covered by this Privacy Policy. 
 
-**Correct/Update**  
-This site gives users the following options for changing and modifying information previously provided.   
-Users can send mail to the following postal address:
+Some advertisers or web sites that have links on our site may use their own cookies. Again, these cases are beyond our control and are not included in Lookquick Interactive Inc.'s Privacy Policy. 
 
-> LookQuick.com, 2058 Ryer Ave NY 10457
-> 
-> or please contact us by email at [privacy@LookQuick.com](mailto:privacy@lookquick.com)
+**HOW DATA IS KEPT SECURE**   
+Lookquick Interactive Inc. stores all data behind carefully selected security devices such as firewalls. We keep some data in offline computer equipment for added security. All internal communication with the system and communication of private member data, such as credit card information, is transmitted using encrypted protocols. Policies related to staff access to private member data are in place. All data is held in the strictest confidence, protected by the strictest security standards. 
 
-**Your Agreement to This Privacy Policy**  
-By using LookQuick.com, you indicate that you agree to the collection and use of your personal information by LookQuick.com as outlined in this Privacy Policy.
+**YOUR AGREEMENT TO THIS PRIVACY POLICY**   
+By using Lookquick Interactive Inc., you indicate that you agree to the collection and use of your personal information by Lookquick Interactive Inc. as outlined in this privacy policy. 
 
-**Changes to This Privacy Policy**  
-Our Privacy Policy may change from time to time. Be sure to visit this page occasionally to find any updates we have made. We are committed to post Privacy Policy changes on this page so consumers can be sure of how LookQuick.com is gathering and using information about them. 
+**CHANGES TO THIS PRIVACY POLICY**   
+Our privacy policy may change from time to time. We are committed to posting privacy policy changes on this page so consumers can be sure of how Lookquick Interactive Inc. is gathering and using information. Be sure to visit this page occasionally to find any updates we have made 
