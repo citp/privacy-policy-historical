@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamparacing.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215014416id_/http%3A//www.tamparacing.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamparacing.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613190820id_/http%3A//www.tamparacing.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
