@@ -1,99 +1,120 @@
-> *The following text is extracted and transformed from the fabulousdomains.com privacy policy that was archived on 2005-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050924103345id_/http%3A//www.fabulous.com/index_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabulousdomains.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613034601id_/http%3A//www.fabulous.com/index_privacy.htm) for the most accurate reproduction.*
 
 # Fabulous
 
-      | 
+### Fabulous.com Limited - Privacy Policy
 
-**Fabulous.com - Privacy Policy**
+We at Fabulous.com Limited, our subsidiaries and our affiliated website operators (“Fabulous.com”), pride ourselves on providing our customers (“Customer”) and visitors to our websites (“Visitors”), with a range of exciting online products and services. 
 
-We at Fabulous.com, and our affiliated website operators, pride ourselves on providing you, the customer, with a range of exciting online products and services. As part of this process, we may from time to time, ask you to provide us with certain personal information, for example, your name, date of birth, email address and credit card details. 
+This privacy policy explains why and how Fabulous.com collects certain personal information from both our Customers and Visitors, and what we do with that information. 
 
-**Protecting your privacy**
+#### ABOUT THIS PRIVACY POLICY
 
-Fabulous.com takes all reasonable steps to protect the privacy of our customers and ensure that the personal information we collect is not ordinarily disclosed to third parties without the customer’s consent.  
-However, there may be times when Fabulous.com may be required to disclose personal information of a customer without their express consent. This may occur where we have reason to believe that disclosing the information is  
+Fabulous.com’s privacy policy has been drafted to comply with the National Privacy Principles outlined in the Australian Privacy Act 1998 (Cth). More information about the Privacy Act is available on the Australian Privacy Commissioner’s website at http://www.privacy.gov.au. 
 
+#### WHY WE NEED TO COLLECT PERSONAL INFORMATION
 
-  * necessary to identify, contact or bring legal action against the customer or another person who may be causing injury to or interference with (either intentionally or unintentionally) the rights or property of Fabulous.com Pty Ltd other customers or anyone else that could be harmed by such activities; or
+Personal information from our Customers and Visitors is used to enable Fabulous.com to deliver our online products and services to our Customers and Visitors. For example most of our products and services require some form of registration or subscription, while others require a payment to be made. Contact details of our Customers and Visitors may also be required from time to time to notify them of competition prizes they may have won.
+
+Some of the information we collect, including that obtained from our online enquiry/feedback facilities, is used to help Fabulous.com develop and improve the quality of our products and services, which in turn, provides both our Customers and Visitors with a more satisfying and enjoyable online experience. 
+
+#### WHAT WE DO WITH YOUR PERSONAL INFORMATION
+
+Customer’s email addresses and other personal information provided by customers may be used to enable us to send promotional material (on other products and services that we consider may be of interest to Customers. However, Customers may at any time, notify us that they do not wish to receive this material via an “opt-out” facility contained on our websites. 
+
+If a Customer no longer wants us to keep a record of their personal information or they need to update some of the particulars (for example, address), the Customer may contact us by emailing our Customer Support Group at [support@fabulous.com](mailto:support@fabulous.com), so we can update or remove the information as required.
+
+Personal information that Customers provide to Fabulous.com may also shared among our subsidiaries and the operators of our affiliated websites. All subsidiaries and affiliates are required to keep such information private and confidential and otherwise deal with such personal information strictly in accordance with this Privacy Policy. 
+
+Fabulous.com also shares information about our Customers (on an anonymous basis) with our advertisers, business partners, sponsors and other third parties. For example, we may disclose the fact that membership to one of our websites is “X” percent male and “Y” percent female. 
+
+This information is used to gain a better understanding of our customer base, thus enabling us to tailor our website content specifically to our Customer’s wants and needs. 
+
+#### HOW WE COLLECT INFORMATION
+
+**Personal Information provided to Fabulous.com**
+
+Fabulous.com collects and stores personal information that is voluntarily provided by our Customers as part of doing business with us. Such information may include Customer’s full name, date of birth, addresses (including home, postal and email address) and telephone numbers. We also collect and securely store Customer’s payment details such as their credit card details (where necessary).
+
+Fabulous.com Limited collects this personal information and makes use of these details to provide you with our products and services and to better manage our relationship with you.
+
+**Website activity**
+
+Fabulous.com Ltd provides products and services via a number of different websites. When Visitors view our websites, our web servers record anonymous information such as the time and date this website is viewed and the web pages/URL’s requested. This information assists us to improve the structure of our websites and monitor their performance.
+
+**Cookies**
+
+Fabulous.com makes use of cookies on this website. Cookies are pieces of information that a Website transfers to a Visitors hard drive for record-keeping purposes. The browser stores the information, and sends the information back to the server each time a Visitor request a webpage from the server. The use of cookies is an industry standard and are used by the majority of Website operators.
+
+By keeping a record of how and when Visitors view our websites, cookies help us see which web pages are popular and which are not. Many improvements and updates to our websites are based on such data as the total number of Visitors and pages viewed. This information is most easily tracked with cookies. We use the information from cookies to provide products and services that are better tailored to our Customers and Visitors needs.
+
+Most browsers are initially set up to accept cookies. Visitors can reset their browser to refuse all cookies or indicate when a cookie is being sent. However, some parts of our websites, or the products and services provided through our websites, may not function properly or may be considerably slower if you do not enable cookies on your Internet browser. 
+
+**IP Addresses**
+
+Fabulous.com website servers register the type of web browsers that Visitors are using and their IP address when Visitors access our websites.
+
+Fabulous.com collects IP addresses for the purposes of system administration, to report aggregate traffic information to our Customers, fraud detection and to generally audit the use of our websites. When Visitors request pages from our websites, our servers may log the Visitor’s IP addresses. 
+
+Fabulous.com does not normally link IP addresses to any personal information, which means that a Visitor’s session will be logged, but the Visitor otherwise remains anonymous. 
+
+Fabulous.com can and will use IP addresses to identify a Visitor when it is necessary to enforce compliance with our terms of service or to protect the integrity of our services and websites, as well as to protect our interests and those of our Customers.
+
+Some services provided by Fabulous.com, such as certain message boards, may display IP addresses along with the message poster's name and message. Please review each service prior to use and only uses those that collect and/or disclose information you are comfortable with disclosing.
+
+#### WHEN WE DISCLOSE PERSONAL INFORMATION
+
+Fabulous.com Limited takes all reasonable steps to protect the privacy of our Customers and Visitors and to ensure that the personal information we collect and store is protected against unauthorised disclosure to third parties.
+
+However, there may be times when Fabulous.com may be required to disclose personal information of a Customer or Visitor without their consent. This may occur where we have reason to believe that disclosing the information is:
+
+  * Necessary to identify, contact or bring legal action against the Customer, Visitor or another person who may be causing injury to or interference with (either intentionally or unintentionally) the rights or property of Fabulous.com or its subsidiaries, other Customers or anyone else that could be harmed by such activities; or
   * required by law.
 
 
 
-**Why we need to obtain personal information ABOUT YOU**
+#### PROTECTING KIDS PRIVACY
 
-Your personal information is used to enable us to deliver our online products and services to you. For example most of our products and services require some form of registration or subscription, while others require a payment to be made via a secure credit card facility. Your contact details may also be required from time to time to notify you of competition prizes you may have won.  
-Some of the information we collect, including that obtained from our customer feedback facilities, is used to help us develop and improve the quality of our products and services, which in turn, provides you with a more satisfying and enjoyable online experience.
-
-**What we do with your personal information**
-
-Your email address and other personal information may be used to enable us to send you marketing or promotional material (such as promotional offers) on other products and services that we consider may be of interest to you. However, you may at any time, notify us that you do not wish to receive this material via an “opt-out” facility contained on our websites.
-
-If you no longer wish us to keep a record of your personal information or you need to some of the particulars (for example, your address), you may contact us at the member information page on our websites or by emailing our Customer Support Group at support@fabulous.com, so we can correct, update or remove the information you have given us.
-
-The information you provide to Fabulous.com is also shared among and the operators of our affiliated websites.
-
-Fabulous.com also shares collective information about our users (on an anonymous basis) with our advertisers, business partners, sponsors and other third parties. For example, we may disclose the fact that membership to one of our websites is “X” percent male and “Y” percent female.   
-This data is used to gain a better understanding of our customer base, thus enabling us to tailor our website content to our customers specific wants and needs.
-
-**How we collect information about you**
-
-Fabulous.com may collect personal information about you and your surfing habits in a number of ways, including:
-
-  * Directly from you, such as when you enter your personal details on our websites to register or subscribe to our services);
-  * Indirectly, by keeping a record of our users IP addresses and through the use of “cookies”.
-  * Use of IP Addresses.
-
-
-
-An IP address is a number that's automatically assigned to your computer whenever you're surfing the Web. Web servers, (the big computers that "serve up" Web pages) automatically identify your computer by its IP address.  
-We collect IP addresses for the purposes of system administration, to report aggregate information to our advertisers, and to audit the use of our site. When guests request pages from our sites, our servers may log the guests' IP addresses. We do not normally link IP addresses to anything personally identifiable, which means that a user's session will be logged, but the user remains anonymous to us. We can and will use IP addresses to identify a user when we feel it is necessary to enforce compliance with our house rules or terms of service or to protect our service, site, customers or others. 
-
-Some services provided by Fabulous.com, such as certain message boards, may display IP addresses along with the message poster's name and message. Please review each service prior to use and only uses those that disclose information you are comfortable with sharing.
-
-**Use of Cookies**
-
-What are cookies? Cookies are pieces of information that a Web site transfers to an individual's hard drive for record-keeping purposes. Cookies make Web-surfing easier for you by saving your preferences while you're at our site. We never save passwords or credit card information in cookies. The use of cookies is an industry standard and you'll find them at most major Web sites.
-
-By showing how and when guests use a site, cookies help us see which areas are popular and which are not. Many improvements and updates to the site are based on such data as total number of visitors and pages viewed. This information is most easily tracked with cookies. We use the information from cookies to provide services better tailored to our users needs.
-
-Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. However, note that some parts of the Fabulous.com service will not function properly or may be considerably slower if you refuse cookies. For example, without cookies, you will not be able to set personalized news preferences or you may have difficulty completing shopping transactions, entering contests, or playing games.  
-You may also get cookies from our sponsors or advertisers websites. Fabulous.com has no control over this.
-
-**Use of Web Bugs**
-
-What are web bugs ? A web bug is an electronic tag that is placed on a web page. It can be used to count the number of visitors to our sites and gather information and develop profiles about people who visit our site and/or click on links on our sites. Such devices are also known as ‘invisible’ or ‘1-by-1’ GIFs due to their incredibly small size which usually cannot be detected. 
-
-We use web bugs on our websites to track both the source and destination of visitors to our sites. This is required for proper accounting and reporting requirements of our affiliate program Dark Blue as well as to help us to provide our visitors with what they want to see and do online.
-
-  
-**Protecting Kids Privacy  
-**  
-Fabulous.com is committed to complying with the provisions of the Children’s Online Privacy Protection Act of 1998 and the Rules and Regulations made pursuant thereto. We encourage parents and guardians to spend time online with their children and to participate in the activities offered on our sites.
+Fabulous.com is committed to complying with the provisions of the Children’s Online Privacy Protection Act of 1998 and the Rules and Regulations made pursuant thereto. We encourage parents and guardians to spend time online with their children and to participate in the activities offered on our websites. 
 
 **Notice to Kids**
 
-If you are under 13 years of age, we must get your parent or guardian’s permission before we can collect any personal information about you, such as your name, date of birth, your hobbies, etc.  
-You are allowed to give us either your email address, or the email address of your parent or guardian, so that we can contact them and ask for their permission to collect your personal information.   
+If you are under 13 years of age, we must get your parent or guardian’s permission before Fabulous.com can collect any personal information about you, such as your name, date of birth, your hobbies, etc.
+
+You are allowed to give us either your email address, or the email address of your parent or guardian, so that we can contact them and ask for their permission to collect your personal information. 
+
 No other information about you should be given to us, or one of our websites, until your parent or guardian has given you permission.
 
 **Notice to Parents**
 
 Before your child can access most of the interactive products and services we provide, they are required to provide us with certain information about themselves, for example, their name, date of birth and contact details, so that we can register them as a member.
 
-However, before we collect this personal information from your child, they are required to provide us with an e-mail address at which you, their parent or guardian can be contacted, so that we can obtain your consent.  
-Although users under 13 years of age may be allowed to participate in some contests and promotions, if they win, notification and prizes are sent to the parents or guardians at the address specified in the initial registration process. Publication of contest winners names, ages, or images for individuals under 13 require parental or guardian consent.  
+However, before we collect this personal information from your child, they are required to provide us with an e-mail address at which you, their parent or guardian can be contacted, so that we can obtain your consent.
+
+Although users under 13 years of age may be allowed to participate in some contests and promotions, if they win, notification and prizes are sent to the parents or guardians at the address specified in the initial registration process. Publication of contest winners names, ages, or images for individuals under 13 require parental or guardian consent.
+
 Subject to the below exemptions, the personal information that we collect from your children will be subject to and dealt with in accordance with the terms of this Privacy Policy.
 
-No information collected from guests under 13 years of age is used for any marketing or promotional purposes whatsoever, either of Fabulous.com, , our affiliated websites or third parties, unless expressly stated during the collection of this information or during registration for contests or promotions (and in that case, the information collected is used only for the specific contest or promotion).  
-We do not allow guests under 13 years of age to be listed in our member directory or to receive direct marketing communications from Fabulous.com or an affiliated website or third parties 
+No information collected from Visitors under 13 years of age is used for any promotional purposes whatsoever, either of Fabulous.com Limited, our subsidiaries, our affiliated websites or third parties, unless expressly stated during the collection of this information or during registration for contests or promotions (and in that case, the information collected is used only for the specific contest or promotion).
 
-**Links to Other Sites**
+We do not allow Visitors less than 13 years of age to be listed in our member directory or to receive direct promotional communications from Fabulous.com or an affiliated website or third parties. 
 
-Users should be aware that on our affiliated websites, there are links to third party websites. If you "click" on a banner advertisement, a search result or another type of link contained on one of our sites, the "click" may result in you leaving our site and your browser being redirected to a website owned and controlled by a third party.  
-Fabulous.com Pty Ltd has no control over and hence, accepts no responsibility for the content of these sites or the actions of the operators in relation to the collection of personal information of users of these sites.
+#### LINKS TO OTHER WEBSITES
 
-While Fabulous.com makes every effort to protect your personal information and your privacy, we cannot guarantee the security of any information you disclose online and you do so at your own risk. Please keep in mind that whenever you give out personal information online, that information can be collected and used by people that neither we or you don't know.
+Visitors should be aware that on our affiliated websites, there are links to third party websites. If you "click" on a banner advertisement, a search result or another type of link contained on one of our sites, the "click" may result in you leaving our site and your browser being redirected to a website owned and controlled by a third party.
 
-**Your Acceptance of These Terms**
+In this case, Fabulous.com recommends that you refer to the privacy statement of the websites you visit. Neither Fabulous.com nor its subsidiaries have any control over and hence, accepts no responsibility for the content of these sites or the actions of the operators in relation to the collection of personal information of users of these sites.
 
-By using this website or our affiliated websites, you signify your assent to the terms and conditions contained herein (as amended from time to time). If you do not agree to be bound by its terms, we politely ask that you do not use our sites. 
+While Fabulous.com Limited and our subsidiaries make every effort to protect your personal information and your privacy, we cannot guarantee the security of any information you disclose online and you do so at your own risk. 
+
+Customers and Visitors should keep in mind that whenever you give out personal information online, there is a risk that the information can be intercepted and used by third parties without our knowledge. Fabulous.com is in no way responsible or liable for the misuse of personal information obtained in this manner. 
+
+#### ACCESS AND ACCURACY OF PERSONAL INFORMATION
+
+If Fabulous.com holds your personal information, we will, where possible, provide you with reasonable access to the information upon your request.
+
+Fabulous.com will take reasonable steps to correct the information upon being put on notice by the Customer, so that at all times, it is accurate, complete and up to date. 
+
+#### YOUR ACCEPTANCE OF THESE TERMS
+
+By using this website or our affiliated websites, you signify your assent to the terms and conditions contained herein (as amended from time to time). If you do not agree to be bound by its terms, we kindly ask that you do not use our services or our websites. 
