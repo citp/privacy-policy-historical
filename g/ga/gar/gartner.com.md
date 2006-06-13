@@ -1,70 +1,64 @@
-> *The following text is extracted and transformed from the gartner.com privacy policy that was archived on 2000-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001209160500id_/http%3A//www.gartner.com/public/static/home/ggprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gartner.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613022649id_/http%3A//gartner.com/pages/story.php.id.2630.s.8.jsp) for the most accurate reproduction.*
 
-# Privacy Statement
+# Online Privacy Policy
 
-**GartnerGroup Privacy Practices on the Internet**
+|  |   
+---|---  
+**Online Privacy Policy**
 
-**Our Commitment to Privacy**
+* * *
 
-GartnerGroup is dedicated to the right of your privacy and data security on the Web. We are committed to handling the information you provide responsibly. We will take every prudent and practical step to safeguard your personal information and its use.
+**Information Collection and Use**   
+When you register on Gartner Web sites, or for Gartner events, or purchase products, we ask you for personal information. We use this information to provide you with the best advice and highest-quality service as well as with offers that we think are relevant to you. We may also contact you regarding a Web site problem or other customer service-related issues. 
 
-GartnerGroup promises to utilize all commercially reasonable steps to prevent the disclosure of your aggregated and personally identifiable information to third parties, except as you permit, or as may be required by law. GartnerGroup will never sell user information for marketing purposes to outside third parties.*
+Gartner does not market to children and does not knowingly collect personal information from children on Gartner Web sites. 
 
-**How We Collect Information**
+**Information Sharing and Disclosure**  
+Gartner does not sell, share or rent personal information about you collected on Company Web sites outside the Gartner family of companies. 
 
-We collect user information through the use of "cookies" (see more details on cookies below) and through data submitted by you. We use this data to help track user trends and behaviors in order to better serve you and provide a meaningful and beneficial user experience as well as design new products and services that are of value to you. 
+**How to Unsubscribe**  
+If you no longer want to receive e-mail communications from Gartner, you may unsubscribe by clicking the "Unsubscribe" button at the top or bottom of each e-mail Gartner sends, or by otherwise following the instructions to "opt out" appearing on that e-mail." 
 
-**The Types of Information We Collect**
+**Registration**  
+In order to use many features of Gartner Web sites, you may be asked to complete a registration form. During registration, you are required to provide contact information which is used to determine whether you are a subscriber or the authorized employee of a subscriber. 
 
-  1. When you register on GartnerGroup Interactive ([www.gartner.com](http://www.gartner.com/)) we ask you to create a username and password which you can then use during future log-ins on the site. This information is stored in our database as unique identifiers, and allows us to deliver the research products and services to which you have subscribed.
-  2. If you wish to purchase products and services available online, we ask that you provide us with credit card information for billing purposes. More information. 
-  3. If you are interested in signing up for one of our available subscriber E-mails, we ask that you supply us with a valid E-mail address in order to guarantee delivery of your mail. Note: You may opt-out of receiving future mailings at ANY time by un-subscribing from the selected E-mail list. More information. 
-  4. If you are filling out an online form on the GartnerGroup site, we may ask for additional demographic and contact information. This marketing information may be used to learn more about the types of users accessing the site and to help us provide you with services and products you will find valuable. 
+**Alerts**  
+When you sign up for e-mail Alerts from Gartner Web sites, you are asked to provide your e-mail address and to select topics to be included in the Alerts. Other information may also be necessary depending on the type of Alert requested. 
 
-**How We Use Collected Information**
+If you want to stop receiving Alerts from Gartner Web sites, click the "Alerts" link available from the top of the gartner.com homepage, then follow the instructions for deleting Alerts on the Alerts management page. 
 
-  * To ensure our clients have access to their products and services 
-  * To help us understand who is using our Web site and why 
-  * To fulfill orders for products and services 
-  * To register users for upcoming events online 
-  * To improve overall user experience on our site through better functionality and design 
-  * To gain user feedback to provide relevant content and services 
-  * To contact online contest winners 
-  * To collect user statistics and trends 
+**Purchases and Fulfillment**  
+When you place an order or register for a Gartner event, we may request additional information such as credit card number and expiration date. This information is used for confirmation and billing purposes. The contact information you provide is used to service the order. Also, when you register for an event, we may request additional information about your hotel, meal and other travel preferences. This information is used only for the specific event. 
 
-**Cookies**
+Gartner uses third-party service providers such as credit card processing companies, shipping companies, mailing houses and event coordinators together with other service providers as required to satisfy client requests. 
 
-A cookie is a small piece of computer code that enables Web servers to "identify" visitors. When a user visits a Web site that uses cookie technology, the Web site adds a cookie to the user's browser that includes identification information, which is then stored on the user's desktop. Each time the user initiates a session on our Web site, the site sets the cookie in order to identify the user and his/her access privileges on the site. Cookies can contain only as much information as you provide to the site. 
+When you register for a Gartner event, we provide necessary information to hotels and to facilities hosting events. These parties are allowed to use that personal information only to provide services relevant to the event. 
 
-You have the ability to delete cookie files from your hard drive at any time. However, you should know that cookies may be necessary to provide you access to content or features available on GartnerGroup Interactive. GartnerGroup uses cookie technology to enable users who register to move quickly and securely through access-controlled areas of the site. It also allows us to provide users with secure and authenticated access to GartnerGroup research that they own, allowing them to move freely between research articles without verifying their usernames each time. Cookie technology also enables all registered users to take advantage of features on the site such as "Search", "Browse" and "Profiling" as well as customized features including "Personal Home Page", "E-mail Notification" and "Usage Reporting". [More information](https://web.archive.org/public/static/help/faq.html#cookie).
+**Usage Tracking**  
+We monitor how you use our Web sites including search terms you enter, pages visited and documents viewed. If you are a registered user, this information is stored with your registration information. It is unique-number identifiable, and is used solely for purposes of enabling us to provide you with a personalized Web site experience. Aggregated (not personally identifiable) forms of this data may also be used in order to help us understand areas for future research and to identify future features and functions to develop for the Web sites. 
 
-**Data Security**
+This data may also be used by Gartner, in the aggregate, to identify appropriate product offerings and subscription plans. 
 
-GartnerGroup provides its registered users with a secure online experience by utilizing a variety of security measures to maintain the safety of your personal information. All user registration information is contained behind a "firewall" and only accessible by a limited number of employees who have special access rights to production systems. Passwords and credit card numbers are encrypted in GartnerGroup's secure database, which is also located behind a firewall. All sensitive/credit information supplied by users is transmitted via Secure Socket Layer (SSL) technology and then encrypted in GartnerGroup's database as stated above.
+This same data is also used by Gartner clients to help them understand how their subscriptions are being used by their employees and in this case, is personally identifiable to the specific client. 
 
-**Accessing or Changing Your Personal Information**
+**Cookies**  
+A cookie is a small piece of computer code that enables Web servers to "identify" visitors. Each time you initiate a session on Gartner Web sites, a cookie is set in order to identify you and determine your access privileges. Cookies do not store any of the information that you have provided to the site. They are simply identifiers. 
 
-If you wish to modify your personal/registration information, you may do so at any time by visiting the [Client Services](https://web.archive.org/public/static/clientservices/clientservices.html) page on GartnerGroup Interactive. 
+You have the ability to delete cookie files from your hard drive at any time. However, you should know that cookies may be necessary to provide you with access to much of the content and many of the features of Gartner Web sites. We use cookie technology to enable registered users to move quickly and securely through access-controlled areas of the sites. Cookie technology also enables registered users to take advantage of certain useful features on the sites, including "remember my password." 
 
-**Unsubscribing From an E-mail List**
+**Links to Other Sites**  
+Gartner Web sites contain links to other Web sites. Please be aware that Gartner is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our sites and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by Gartner Web sites. 
 
-Even after submitting your E-mail address to receive one of our subscriber E-mails or Profiling notification E-mails, you have the option to opt-out at ANY TIME. To unsubscribe from a subscriber E-mail list, send your request to [unsubscribe@gartner.com](mailto:unsubscribe@gartner.com). To remove E-mail notification on your Profiles, go to http://www.gartnerweb.com/ggbin/personalpage, choose "Manage My Profiles" and then select "Edit one of my profiles".
+**Security**  
+Gartner provides its users with a secure online experience. To do this, we use a variety of security measures to maintain the safety and confidentiality of personal information about you. All user registration information is contained behind a firewall and only accessible by a limited number of employees who have special access rights to our production systems. Confidential personal information sent to us is transmitted using Secure Socket Layer technology. This information is then encrypted in our secure database. The database is further protected behind a firewall. If you have any questions about the security at our Web sites, please send an e-mail to [security.officer@gartner.com](mailto:security.officer@gartner.com). 
 
-**Business Relationships**
+**Updating Personal Information**  
+If your personal information changes, you may update it at any time. To correct or update personal information, go to your user profile on our Web sites. 
 
-The GartnerGroup Web site contains links to other Web sites. Unfortunately, GartnerGroup can not be responsible for the privacy practices or content of such Web sites, and therefore we advise you to use caution when submitting personal information online.
+**Notification of Policy Changes**  
+We will notify you about significant changes to our Privacy Policy by placing a prominent notice on our Web site and in some instances, we may send a notice to the primary e-mail address specified in your user profile. 
 
-**How to Contact Us**
+**Contact Gartner**  
+If you would like to be taken off our marketing lists, please send an e-mail to [privacy@gartner.com](mailto:privacy@gartner.com). For additional questions, please contact the Gartner Privacy Officer nearest you. 
 
-If you have any questions about this privacy statement, you can contact [Client Support](https://web.archive.org/public/static/help/contactgg.html) in the U.S. at +1 203-316-3600 (8:00 a.m. - 8:00 p.m. EST) or [click here to select a location outside the U.S.](https://web.archive.org/public/static/help/contactgg.html)
-
-Tel: +1 203-316-3600  
-Fax: +1 203-316-1100
-
-Or write to:  
-Client Support  
-GartnerGroup, Inc.  
-56 Top Gallant Road  
-Stamford, CT 06904
-
-*GartnerGroup will take all commercially reasonable precautions to safeguard user information but, in the event of disclosure, GartnerGroup will not be liable for any damages the user may experience.
+* * *
