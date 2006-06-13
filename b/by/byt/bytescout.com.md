@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bytescout.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231084906id_/http%3A//www.bytescout.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bytescout.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613021940id_/http%3A//www.bytescout.com/privacy_statement.html) for the most accurate reproduction.*
 
 # ByteScout.Com Privacy Statement
 
@@ -12,7 +12,7 @@ The referring URL (the web page you left before coming to a www.ByteScout.com we
 All such information is gathered globally rather than individually, and no information is linked to any identifying information about you.
 
 **Cookies**  
-Our site uses cookies to track aggregate information about our visitors. This information is not linked to individual visitors.
+Our site uses cookies to track the aggregate information about our visitors. This information is not linked to individual visitors.
 
 **Order Forms**  
 ByteScout Software Development has partnered with [SWREG](http://www.swreg.org/) and [Share-It](http://www.shareit.com/) to accept your orders. Both [SWREG](http://www.swreg.org/) and [Share-It](http://www.shareit.com/) provide secure order forms for you to buy our products. When you place an order, [SWREG](http://www.swreg.org/) (or [Share-It](http://www.shareit.com/) ) collects contact information (like your email address), and financial information (like your credit card number). Contact information from the order forms is used only to get in touch with you when necessary. This includes sending you the product(s) you ordered, notifying you about new versions of the product(s) you ordered, and contacting you if there's a problem with your order. Financial information that is collected is used to bill you for the order.   
