@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the naturaltherapypages.com.au privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212110228id_/http%3A//www.naturaltherapypages.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturaltherapypages.com.au privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613025218id_/http%3A//www.naturaltherapypages.com.au/privacy) for the most accurate reproduction.*
 
-# Natural Therapy Pages - Australia's no. 1 natural therapies site
+# Privacy Policy - NaturalTherapyPages.com.au
 
        | 
 
