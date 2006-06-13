@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the cbc.ca privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218162331id_/http%3A//www.cbc.ca/aboutcbc/discover/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbc.ca privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613045654id_/http%3A//www.cbc.ca/aboutcbc/discover/privacy.html) for the most accurate reproduction.*
 
 # CBC.ca - Privacy
 
 **Protection of Personal Information at the CBC**  
 The CBC Privacy Coordinator is accountable for the CBC’s policies and practices, with respect to the management of personal information, and is the individual to whom complaints and inquires can be forwarded. 
 
-[Meg Angevine](mailto:meg_angevine@cbc.ca)  
+[Meg Angevine ](mailto:Meg_Angevine@cbc.ca)  
 Privacy Coordinator   
 Canadian Broadcasting Corporation  
 181 Queen Street,   
@@ -17,7 +17,7 @@ CBC Head Office
 P.O. Box 3220, Station C   
 Ottawa, Ontario K1Y 1E4 
 
-Tel. (613) 288-6165  
+Tel. (613) 288-6165   
 Fax (613) 288-6166 
 
 ^ Top  
