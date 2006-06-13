@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the egg2.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223182648id_/http%3A//www.egg2.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egg2.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613201437id_/http%3A//egg2.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
