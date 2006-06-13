@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hiphopgalaxy.com privacy policy that was archived on 2005-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051226201758id_/http%3A//www.hiphopgalaxy.com/privacy-policy-article3.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiphopgalaxy.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613193004id_/http%3A//www.hiphopgalaxy.com/privacy-policy-article3.html) for the most accurate reproduction.*
 
 # Privacy Policy - Hip Hop Galaxy
 
@@ -67,3 +67,6 @@ We use MaxWorldwide and other third-party advertising companies to serve ads whe
 **Third Party Cookies**
 
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
+
+  
+
