@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ibm.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230134149id_/http%3A//www.ibm.com/privacy/us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibm.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613040239id_/http%3A//www.ibm.com/privacy/us) for the most accurate reproduction.*
 
-# IBM - United States
+# IBM Privacy - United States
 
 |  | 
 
@@ -49,7 +49,7 @@ Important information
 ---  
   
 IBM is a member of TRUSTe ([www.truste.org](http://www.truste.org/)). IBM abides by the EU/US Safe Harbor Framework. To correct inaccuracies in IBM's record of your personal information respond to the sender or contact IBM at   
-[access_request@us.ibm.com](mailto:prvcy@us.ibm.com)
+[access_request@us.ibm.com](mailto:access_request@us.ibm.com)
 
 For IBM's complete notice see [IBM's Privacy policy](https://web.archive.org/privacy/details/us/).  
   
