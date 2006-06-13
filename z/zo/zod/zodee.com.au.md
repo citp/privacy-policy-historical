@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the zodee.com.au privacy policy that was archived on 2005-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051027121743id_/http%3A//zodee.com.au/customer_service/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zodee.com.au privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614010009id_/http%3A//www.zodee.com.au/customer_service/privacy.asp) for the most accurate reproduction.*
 
-# Zodee - Privacy Policy - Buy Lingerie, Swimwear Sleepwear and Underwear Online
+# Customer Service - Privacy Policy
 
-|  |  |   
+|    |  |   
 ---  
 [Help Index](https://web.archive.org/customer_service/)  
 At Zodee® we value your privacy immensly and it is important what information we collect and use you personal information is understood. This statement is our commitment to the perserving of your privacy and the information we collect and hold.   
@@ -24,9 +24,4 @@ Mailing List
 When you join the Zodee® club you are automatically added to our mailing list. If you prefer not to receive updates from Zodee®, you can unsubscribe in the members area of the website.   
 External Links   
 This site contains links to external websites and Zodee® Pty Ltd cannot be held responsible for the Privacy Policies of those sites.   
-See also: [Security](https://web.archive.org/customer_service/security.asp) [Terms & Conditions](https://web.archive.org/customer_service/terms.asp)  
-|  |   
----  
-[](https://web.archive.org/products/brands/Bonds-youth.asp)  
-[](https://web.archive.org/products/brands/bond-eye.asp)  
-[](https://web.archive.org/products/brands/Lisa-Ho.asp)
+See also: [Security](https://web.archive.org/customer_service/security.asp) [Terms & Conditions](https://web.archive.org/customer_service/terms.asp)
