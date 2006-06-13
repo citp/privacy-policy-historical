@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amazonwatch.org privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214153246id_/http%3A//www.amazonwatch.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazonwatch.org privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613021623id_/http%3A//amazonwatch.org/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Amazon Watch
 
@@ -24,7 +24,7 @@ Operations Manager
 **Amazon Watch**
 
 **Main office:**  
-1 Haight St. Suite B San Francisco, CA 94102  
+One Hallidie Plaza, Suite 402 San Francisco, CA 94102  
 Tel: 415-487-9600     Fax: 415-487-9601
 
 **Southern California office:**  
