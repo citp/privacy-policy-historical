@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the opentip.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230231517id_/http%3A//www.opentip.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opentip.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613214742id_/http%3A//www.opentip.com/privacy.php) for the most accurate reproduction.*
 
-# Opentip Online Shopping Mall offers wholesale and retail at factory direct price
+# Best buy for promotional items, sporting goods, office products, home and garden, and apparel. Opentip.com offers discount coupons, overstock, clearance, wholesale, or factory price.
 
 **www.opentip.com PRIVACY COMMITMENT TO THE PROTECTION OF CUSTOMER INFORMATION**  
 This notice describes our privacy policy. By visiting opentip.com, you are accepting the practices described in this Privacy Notice. 
