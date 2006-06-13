@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bioware.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217114738id_/http%3A//www.bioware.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bioware.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613034335id_/http%3A//www.bioware.com/legal/privacy.html) for the most accurate reproduction.*
 
 # BioWare: Privacy Policy
 
@@ -49,7 +49,7 @@ BioWare will only keep the personal information for so long as it is useful. At 
 
 ### Security
 
-BioWare's websites have security measures in place to protect against the loss, misuse or alteration of the personal information under BioWare's control. However, BioWare cannot guarantee that these security measures will hot be breached.
+BioWare's websites have security measures in place to protect against the loss, misuse or alteration of the personal information under BioWare's control. However, BioWare cannot guarantee that these security measures will not be breached.
 
 ### Changes to the BioWare's Privacy Policy
 
