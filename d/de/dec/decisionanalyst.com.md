@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the decisionanalyst.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230030851id_/http%3A//www.decisionanalyst.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decisionanalyst.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613055319id_/http%3A//decisionanalyst.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,19 +15,19 @@ We believe that consumers have an inalienable right to privacy. We protect your 
 We take your trust, and our responsibilities, very seriously. Here are our privacy practices regarding the information you entrust to us. 
 
 Who We Are  
-The site [www.DecisionAnalyst.com](https://web.archive.org/web/20051230030851id_/http%3A//www.decisionanalyst.com/index.asp) is owned and operated by [Decision Analyst, Inc](https://web.archive.org/web/20051230030851id_/http%3A//www.decisionanalyst.com/index.asp).  Tell me more.
+The site [www.DecisionAnalyst.com](https://web.archive.org/web/20060613055319id_/http%3A//decisionanalyst.com/index.asp) is owned and operated by [Decision Analyst, Inc](https://web.archive.org/web/20060613055319id_/http%3A//decisionanalyst.com/index.asp).  Tell me more.
 
   
 We only collect the personal identifying information (name, address, phone number, and email address, etc.) you voluntarily provide to us when downloading our marketing research data, white papers, and Stats™ Statistical Software.  Tell me more.
 
   
-We use the information you provide us to measure our advertising efforts. Tell me more.
+We use the information you provide us to measure our advertising efforts and for our marketing efforts. Tell me more.
 
   
 We don't share any information that personally identifies you with any business, client, or business partner. Decision Analyst does not sell or rent your personal information to anyone.  Tell me more.
 
   
-We do not use cookies for the [www.decisionanalyst.com](https://web.archive.org/web/20051230030851id_/http%3A//www.decisionanalyst.com/index.asp) corporate site. We may, however, use cookies to track our advertising efforts for our American Consumer Opinion® website. Some of this tracking is conducted through the site [www.decisionanalyst.com](https://web.archive.org/web/20051230030851id_/http%3A//www.decisionanalyst.com/index.asp). We do collect information in our log files.  Tell me more.
+We do not use cookies for the [www.decisionanalyst.com](https://web.archive.org/web/20060613055319id_/http%3A//decisionanalyst.com/index.asp) corporate site. We may, however, use cookies to track our advertising efforts for our American Consumer Opinion® website. Some of this tracking is conducted through the site [www.decisionanalyst.com](https://web.archive.org/web/20060613055319id_/http%3A//decisionanalyst.com/index.asp). We do collect information in our log files.  Tell me more.
 
   
 The www.decisionanalyst.com website contains links to other websites whose privacy policies may differ from ours.  Tell me more.
@@ -41,9 +41,9 @@ The www.DecisionAnalyst.com website is owned and operated by [Decision Analyst, 
 
   * [Council for Marketing and Opinion Research (CMOR)](http://www.cmor.org/)
 
-  * [Marketing Research Association (MRA)](http://www.mra-net.org/codes/index.cfm)
+  * [Marketing Research Association (MRA)](http://www.mra-net.org/)
 
-  * [World Association of Research Professionals (ESOMAR)](http://www.esomar.nl/guidelines/internet_guidelines.htm)
+  * [World Association of Research Professionals (ESOMAR)](http://www.esomar.org/)
 
 
 
@@ -58,7 +58,16 @@ The only information that we collect from you is the information you voluntarily
 
 Back to top
 
-We use the information you provide to us while downloading marketing research data, white papers, and Stats™ Statistical Software to measure the effectiveness of our advertising, to update you of any change in Stats™ Statistical Software, and to contact you about information contained in our white papers upon your request. 
+We use the information you provide to us while downloading marketing research data, white papers, and Stats™ Statistical Software to: 
+
+  * To measure the effectiveness of our advertising
+  * To update you of any changes in Stats™ Statistical Software
+  * To respond to an inquiry or request for information
+  * To thank you for contacting Decision Analyst
+  * To send you information about Decision Analyst products and services that we think might interest you. 
+  * To communicate with you regarding customer service related issuers 
+
+
 
 Back to top
 
@@ -76,7 +85,7 @@ Back to top
 
 
 
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law in the rare occurrence wherein we have a good-faith belief that such action is necessary to company with a current judicial proceeding, a court order, or a legal process served on our website. 
+Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law in the rare occurrence wherein we have a good-faith belief that such action is necessary to company with a current judicial proceeding, a court order, or a legal process served on us in connection with a website we own. 
 
 Back to top
 
@@ -86,7 +95,7 @@ Back to top
 
 For more information, questions or concerns regarding our data-protection practices and our Privacy Policy, please contact our Panel Administration Department at: 
 
-> Panel Administration Department  
+> Information Systems Department  
 >  Attn: Terri Howard  
 >  Decision Analyst, Inc.  
 >  604 Avenue H East  
@@ -107,7 +116,7 @@ Back to top
 
 If you believe we have violated our stated Privacy Policy with respect to any personal information you have entrusted to us, you have options: 
 
-  * We urge you to contact our [Internet Operations Department](mailto:thoward@decisionanalyst.com) so we may investigate your complaint.
+  * We urge you to contact our [Internet Systems Department](mailto:thoward@decisionanalyst.com) so we may investigate your complaint.
   
 
   * You may also file a complaint with the [ Council of American Survey Research Organizations (CASRO)](http://www.casro.org/), 3 Upper Devon, Port Jefferson, New York 11777.
