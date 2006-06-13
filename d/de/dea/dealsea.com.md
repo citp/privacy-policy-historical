@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dealsea.com privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227032416id_/http%3A//dealsea.com/exec/s/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealsea.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613174605id_/http%3A//dealsea.com/exec/s/privacy) for the most accurate reproduction.*
 
-# dealsea.com - cheap computer deals cheap digital camera deals cheap notebook sales online computer store
+# Dealsea.com: Online Coupons Dell, Amazon, Staples, Overstock
 
 We can be reached via e-mail at info@dealsea.com
 
