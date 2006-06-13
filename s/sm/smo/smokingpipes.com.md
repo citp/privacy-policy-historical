@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smokingpipes.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225051413id_/http%3A//www.smokingpipes.com/information/company/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smokingpipes.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613190251id_/http%3A//www.smokingpipes.com/information/company/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy at Smoking Pipes .com
 
