@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freelance-help.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220195818id_/http%3A//www.freelance-help.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelance-help.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613210946id_/http%3A//www.freelance-help.com/privacy.php) for the most accurate reproduction.*
 
 # Freelance :: Privacy Policy
 
@@ -36,17 +36,4 @@ Email: privacy (at) freelance-help.com
 
 [ ](http://jigsaw.w3.org/css-validator/check/referer)  
   
----|---  
-  
-  
-
-
-**Other sites of interest:**
-
-[**Direct TV**](http://www.satellitesolutions.com/) \- authorized dealer of directv satellite television systems.   
-[**Barcode Scanner Manufacturer**](http://www.barcode-manufacturer.com/) \- Taiwan manufacturer of barcode scannes, swipe card reader, receipt printer, customer display, serial-ethernet converter, cash drawer, and other pos devices.  
-\+ [**Free Merchant Account  
-**](http://www.electronictransfer.net/)\- [**Chat**](http://www.talk121.com/)  
-
-
-©01-05 Freelance Help. All rights reserved.
+---|---
