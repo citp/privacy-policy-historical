@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gore.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228053959id_/http%3A//www.gore.com/en_xx/footer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gore.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613060730id_/http%3A//www.gore.com/en_xx/footer/privacy.html) for the most accurate reproduction.*
 
 # Gore Privacy Policy and Legal Information
 
@@ -34,7 +34,7 @@ Where we refer to the Internet pages of third parties (links), GORE accepts no r
 GORE does not accept liability for ordinary neglect of duty in relation to service providers, especially when downloading files from GORE Internet pages, unless these relate to contractual obligations or affect life and limb or involve claims under the Product Liability Act. The same applies to neglect of duty on the part of our agents. 
 
 **Copyright information  
-** Copyright 2004 Gore. All rights reserved. The material and structure of GORE Internet pages are protected by Copyright. Reproduction of information or data in any way or form, and specifically the use of texts, sections of text or imagery, requires prior approval from GORE.
+** Copyright 2006 Gore. All rights reserved. The material and structure of GORE Internet pages are protected by Copyright. Reproduction of information or data in any way or form, and specifically the use of texts, sections of text or imagery, requires prior approval from GORE.
 
   
 **Trademark protection  
