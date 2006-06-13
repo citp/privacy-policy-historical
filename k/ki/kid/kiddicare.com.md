@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the kiddicare.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225083659id_/http%3A//www.kiddicare.com/page/security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiddicare.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613201619id_/http%3A//www.kiddicare.com/page/security) for the most accurate reproduction.*
 
 # Kiddicare - Security and Privacy
-
-### Website Security
 
 When you register details with us, make an order or access account details, we use a secure server. Any data you give us is encrypted using a 'Secure Socket Layer' (SSL) session. SSL is an industry standard and is one of the best ways to ensure Internet messages are not intercepted. 
 
