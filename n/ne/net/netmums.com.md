@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netmums.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405162914id_/http%3A//www.netmums.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netmums.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613231906id_/http%3A//netmums.com/cm/privacy.htm) for the most accurate reproduction.*
 
 # netmums in your area?
 
@@ -24,4 +24,4 @@
 >  Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 16, and no part of our website is structured to attract anyone under 16.
 > 
 > **How To Contact Us**   
->  Should you have other questions or concerns about these privacy policies, please call Siobhan at netmums on 020 8427 1951 or send us an email at [enquiries@netmums.com ](mailto:enquiries@netmums.com%20)
+>  Should you have other questions or concerns about these privacy policies, please send us an email at [enquiries@netmums.com ](mailto:enquiries@netmums.com%20)
