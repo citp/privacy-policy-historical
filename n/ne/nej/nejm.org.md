@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nejm.org privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230100910id_/http%3A//www.nejm.org/aboutnejm/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nejm.org privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613061942id_/http%3A//www.nejm.org/aboutnejm/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policies -- The New England Journal of Medicine
 
