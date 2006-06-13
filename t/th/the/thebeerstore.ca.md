@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebeerstore.ca privacy policy that was archived on 2005-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051031012816id_/http%3A//www.thebeerstore.ca/about/tbs-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebeerstore.ca privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613193141id_/http%3A//thebeerstore.ca/about/tbs-privacy.html) for the most accurate reproduction.*
 
 # The Beer Store Distribution System
 
@@ -97,7 +97,7 @@ If you would like to review or update the personal information in your customer 
 
 Please contact our Chief Privacy Officer to obtain further information about our policies and procedures or if you have any unresolved inquiries or concerns. 
 
-If you do not want to receive email from The Beer Store you can unsubscribe with every offering by clicking on the link within our email. You can also [**contact us**](mailto:jane.walker@thebeerstore.ca) by sending an email with "unsubscribe" in the subject line. When you request that your name be removed from our databases, it may not be possible to completely delete all your personal information due to technical and legal constraints, including stored back-up systems. 
+If you do not want to receive email from The Beer Store you can unsubscribe with every offering by clicking on the link within our email. You can also **[contact us](mailto:chiefprivacyofficer@thebeerstore.ca)** by sending an email with "unsubscribe" in the subject line. When you request that your name be removed from our databases, it may not be possible to completely delete all your personal information due to technical and legal constraints, including stored back-up systems. 
 
 Chief Privacy Officer  
 The Beer Store  
