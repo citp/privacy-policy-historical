@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technorati.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229212043id_/http%3A//technorati.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technorati.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613075000id_/http%3A//www.technorati.com/about/privacy.html) for the most accurate reproduction.*
 
 # Technorati: Privacy Policy
 
