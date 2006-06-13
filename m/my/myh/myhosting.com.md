@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the myhosting.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213221341id_/http%3A//myhosting.com/Policy/privacypolicy1.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myhosting.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613045152id_/http%3A//myhosting.com/Policy/PrivacyPolicy.asp) for the most accurate reproduction.*
 
-# myhosting.com Privacy Policy
+# Privacy Policy
 
-**Privacy Policy**
-
-**Version 1.2 - January, 2004**
+Privacy Policy  
+January 2004 - (version 1.2)
 
 This Privacy Policy (the “Policy”) governs all aspects of how myhosting.com collects, uses, maintains and discloses personal information from all users ("Users") of all Services (“Services”) offered by myhosting.com. myhosting.com complies with the requirements of the Canadian Personal Information Protection and Electronic Documents Act (“PIPEDA”).
 
@@ -15,14 +14,14 @@ The privacy of Users has been very important to myhosting.com since its foundati
 myhosting.com, from time-to-time, may collect personally identifiable information (“ **Personal Information** ”) from Users. This includes name, address, email address, date of birth, and credit card information that you provide, and any correspondence that you have with myhosting.com that occurs by way of email, web-based email forms and/or support tickets that are generated for the purpose of communicating and/or resolving any issues related to the Services. myhosting.com also collects additional usage information (“ **Additional Usage Information** ”) that is collected electronically about how Users use our website (e.g. by tracking the number of unique pageviews received by the pages of the website, or the domains from which Users originate) or via cookies that can be used to identify the User should they visit the website again. Additional Usage Information collected may include other information about your visits to our website. For example, we may collect information about your computer, such as your IP address (a number assigned to your computer whenever you surf the World Wide Web); the type of Internet browser you are using; the type of computer operating system you are using; or the domain name of the website from which you linked to our websites. This Additional Usage Information will not be linked to your Personal Information and will only be collected in the aggregate in connection with all the users of our website for planning, forecasting and/or evaluation purposes. As such, please note that this Policy does not cover aggregated data from which the identity of an individual cannot be determined. myhosting.com retains the right to use anonymous aggregated data in any way that it determines appropriate.
 
 **Your Consent**  
-**Your provision of Personal Information to myhosting.com means that you agree and consent that myhosting.com may collect, use and disclose your Personal Information in accordance with this Policy. If you do not agree with these terms, you are requested not to provide any Personal Information to myhosting.com. myhosting.com services can only be offered if you provide Personal Information to myhosting.com. Consequently, if you choose not to provide us with any required Personal Information, myhosting.com will not be able to offer you certain services.**
+Your provision of Personal Information to myhosting.com means that you agree and consent that myhosting.com may collect, use and disclose your Personal Information in accordance with this Policy. If you do not agree with these terms, you are requested not to provide any Personal Information to myhosting.com. myhosting.com services can only be offered if you provide Personal Information to myhosting.com. Consequently, if you choose not to provide us with any required Personal Information, myhosting.com will not be able to offer you certain services.
 
-**If you do not wish to receive information regarding the products and services offered by myhosting.com and its trusted affiliates, independent contractors and business partners please: (i) send an e-mail to the address listed at the end of this policy; or (ii) log into web—based Control Panel and change the appropriate preferences so as to not receive any correspondence from myhosting.com for any products and services offered by myhosting.com, its trusted affiliates, independent contractors and business partners.**
+If you do not wish to receive information regarding the products and services offered by myhosting.com and its trusted affiliates, independent contractors and business partners please: (i) send an e-mail to the address listed at the end of this policy; or (ii) log into web—based Control Panel and change the appropriate preferences so as to not receive any correspondence from myhosting.com for any products and services offered by myhosting.com, its trusted affiliates, independent contractors and business partners.
 
 **How myhosting.com uses Personal Information**  
 myhosting.com may, from time-to-time, use Personal Information collected through this website to: (i) provide Users with a product or service that has been requested; (ii) contact Users directly regarding products and services offered by myhosting.com and its trusted affiliates, independent contractors and business partners; (iii) understand User preferences in order to enhance Users' experience with myhosting.com and such affiliates, independent contractors and business partners; and (iv) research the effectiveness of the website and the marketing, advertising and sales efforts of myhosting.com, its trusted affiliates, independent contractors and business partners.
 
-myhosting.com's use of Personal Information is limited to these purposes. Unless permitted by law, no Personal Information about a User is collected, without first obtaining the consent of the individual to the collection, use and dissemination of that information.
+myhosting.com's use of Personal Information is limited to these purposes. Unless permitted by law, no Personal Information about a User is collected, without first obtaining the consent of the individual to the collection, use and dissemination of that information. 
 
 **Disclosure of Information**  
 myhosting.com will use all information collected from their Users for internal purposes only. myhosting.com does not sell or otherwise disclose to third parties any Personal Information that it has obtained. An exception is the information disclosed for the purpose of registering a domain name. Only contract information for a domain name will be provided to the registrar partner(s) in order to complete the registration process. Some anonymous data based on information collected from Users may be disclosed to potential and existing business partners, and investors.
@@ -36,7 +35,7 @@ Personal Information may also be subject to transfer to another company in the e
 **Maintenance and Security of Personal Information**  
 myhosting.com retains Personal Information about Users as long as myhosting.com believes it is necessary to fulfill the purpose for which it was collected. Currently, myhosting.com holds the Personal Information in the City of Toronto, Ontario, Canada. 
 
-Personal Information about Users that is maintained on our systems is protected using industry standard security measures and myhosting.com compiles with the security safeguards principal of Schedule 1, Clause 4.7 of PIPEDA. However, we cannot guarantee that the information submitted to, maintained on, or transmitted from our systems will be completely secure and transmission of information over the Internet is susceptible to possible loss, misrouting, interception and misuse.
+Personal Information about Users that is maintained on our systems is protected using industry standard security measures and myhosting.com compiles with the security safeguards principal of Schedule 1, Clause 4.7 of PIPEDA. However, we cannot guarantee that the information submitted to, maintained on, or transmitted from our systems will be completely secure and transmission of information over the Internet is susceptible to possible loss, misrouting, interception and misuse. 
 
 **Access to Personal Information**  
 myhosting.com provides individuals with access to Personal Information held about them and complies with the individual access principal of Schedule 1, Clause 4.9 of PIPEDA.
@@ -59,9 +58,9 @@ This statement is in effect as of January 1, 2004. myhosting.com will from time 
 **Questions**  
 If you have any questions about the privacy practices of myhosting.com, or you wish to access your Personal Information, please contact:
 
-| Michael Carr |    
+Michael Carr |  E-mail: [michaelc@softcom.biz](mailto:michaelc@softcom.biz)  
 ---|---  
-SoftCom Technology Consulting Inc. | E-mail: [michaelc@softcom.biz](mailto:michaelc@softcom.biz)  
-Vice-President | Fax.      416.957.7401  
-310 \- 10 Bay Street |    
+SoftCom Technology Consulting Inc. | Fax.      416.957.7401  
+Vice-President |    
+310 - 10 Bay Street |    
 Toronto, ON M5J 2R8 |  
