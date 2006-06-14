@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etihadairways.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228171239id_/http%3A//www.etihadairways.com/Presentation/Templates/TPLSinglePlaceholderControler.aspx%3Fpageid%3DC9AE2232-0C75-4165-A930-FEA4230A3B96) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etihadairways.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614083757id_/http%3A//www.etihadairways.com/Presentation/Templates/TPLSinglePlaceholderControler.aspx%3Fpageid%3DC9AE2232-0C75-4165-A930-FEA4230A3B96) for the most accurate reproduction.*
 
 # Privacy Policy
 
