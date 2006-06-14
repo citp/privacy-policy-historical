@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the wchstv.com privacy policy that was archived on 2005-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051226101115id_/http%3A//wchstv.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wchstv.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614081011id_/http%3A//wchstv.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement for www.wchstv.com
 
 | | [**CONTACT WCHS-TV8**](https://web.archive.org/about.shtml)  
 ---|---  
 | [**WCHS-TV8 FREQUENTLY ASKED QUESTIONS**](https://web.archive.org/faq.shtml)  
+| [**WCHS-DT FREQUENTLY ASKED HDTV QUESTIONS**](https://web.archive.org/hdtv_faq.shtml)  
 | [**PROGRAM CONTACTS & PROGRAM FAQ**](https://web.archive.org/programfaq.shtml)  
 | [**CONTESTS**](https://web.archive.org/contests/)  
 | [**JOBS @ TV8 & FOX11**](http://jobs.sbgnet.com/sbghire/JobCulture.jsp?marketID=10)  
@@ -75,9 +76,6 @@ If you have any questions about this privacy statement, the practices of this si
     Charleston, WV 25338
 
     [webmaster@wchstv.com](mailto:webmaster@wchstv.com) |  |  |  |    
-
-
-  
 
 
 EYEWITNESS NEWS IS AFFILIATED WITH  
