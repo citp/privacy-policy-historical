@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the cosmodex.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228152353id_/http%3A//cosmodex.com/def/customPages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosmodex.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614124219id_/http%3A//cosmodex.com/def/customPages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Cosmodex - Make Money with our 5 Tier Affiliate Program
+# Cosmodex - Privacy Policy
 
+|  |   
+---  
 |  |    
-|  |  |    
-|    
+| 
+
+Privacy Policy
+
 |    
   
 ---|---|---  
-  
-|    
-|   Privacy Policy  |    
-|    
-  
-  
-| **Cosmodex TM Privacy Policy**  
+|  |  |   
+---  
+|  | **Cosmodex TM Privacy Policy**  
 ---  
    
 This website is administered by CosmodexTM. The primary purpose of CosmodexTM is to be a dynamic resource and business tool to help you create your future. We want you to feel secure when visiting our site and are committed to maintaining your privacy when doing so.  
@@ -30,10 +30,13 @@ One example of information we collect indirectly is through our Internet access 
 We collect information directly from you in a number of ways, some of which we describe in this Privacy Statement. One way is through the use of cookies. Cookies are small files of information, which save and retrieve information about your visit to Cosmodex—for example, how you entered our site, how you navigated through the site, and what information was of interest to you. The cookies we use identify you merely as a number. (If you are uncomfortable regarding cookies use, please keep in mind you can disable cookies on your computer by changing the settings in preferences or options menu in your browser.)  
    
 We also collect information when you voluntarily submit it to us. Throughout our site, we provide the opportunity to register for an event or conference, order a white paper, or participate in an online survey. When we collect this type of information, we will notify you as to why we are asking for information and how this information will be used. It is completely up to you whether or not you want to provide it.  
-   
-**How do we use this information?**  
+|   
+|  | 
+
+| **How do we use this information?**  
 We analyze it to determine what is most effective about our site, to help us identify ways to improve it, and eventually, to determine how we can tailor CosmodexTM to make it more effective. We may also use data for other purposes, which we would describe to you at the point we collect the information.  
   
+---  
    
 **Will we share this with outside parties?**  
 As a global organization, data we collect may be transferred internationally throughout Cosmodex's worldwide organization. We will not sell individual information and will share it only with our advisors. But again, before you submit any information, we will notify you as to why we are asking for specific information and it is completely up to you whether or not you want to provide it.   
@@ -42,7 +45,7 @@ As a global organization, data we collect may be transferred internationally thr
 **What about sensitive personal data?**  
 We do not generally seek to collect sensitive personal data through this site. If we do seek to collect such data, we will ask you to consent to our proposed uses of the data. We may also collect some sensitive personal data incidentally. By providing us with unsolicited sensitive personal data, you consent to our using the data subject to applicable law as described in this Privacy Statement. The references to "sensitive personal data" are to the various categories of personal data identified by United States and other data privacy laws as requiring special treatment, including in some circumstances the need to obtain explicit consent. These categories comprise personal identity numbers, personal data about personality and private life, racial or ethnic origin, nationality, political opinions, membership of political parties or movements, religious, philosophical or other similar beliefs, membership of a trade union or profession or trade association, physical or mental health, genetic code, addictions, sexual life, property matters or criminal record (including information about suspected criminal activities).   
    
-**Do we give you access to your information?**  
+**Do we store collected information about you?**  
 You are entitled to know whether we hold information about you and, if we do, to have access to that information and require it to be corrected if it is inaccurate. You can do this by [sending us an e-mail](mailto:support@cosmodex.com).  
   
    
