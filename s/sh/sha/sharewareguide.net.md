@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharewareguide.net privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212160926id_/http%3A//www.sharewareguide.net/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharewareguide.net privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614204450id_/http%3A//www.sharewareguide.net/privacypolicy.html) for the most accurate reproduction.*
 
 # www.sharewareguide.net - Privacy Policy
 
