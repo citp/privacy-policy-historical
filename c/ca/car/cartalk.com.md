@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartalk.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224053743id_/http%3A//www.cartalk.com/menus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartalk.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615013418id_/http%3A//www.cartalk.com/menus/privacy.html) for the most accurate reproduction.*
 
 # Car Talk: Privacy Policy
 
@@ -73,10 +73,7 @@ No transmission of data over the Internet is guaranteed to be completely secured
 
 cartalk.com reserves the right to change this Privacy Policy at any time. Any such changes will be posted online. Questions should be directed to [feedback@cartalk.com](mailto:feedback@cartalk.com). 
 
-  
-
-
-Cartalk.com is a production of Dewey, Cheetham and Howe. Contents © 2005, Dewey, Cheetham and Howe. 
+Cartalk.com is a production of Dewey, Cheetham and Howe. Contents © 2006, Dewey, Cheetham and Howe. 
 
 CAR TALK, DEWEY, CHEETHAM & HOWE, SHAMELESS COMMERCE, and WARPED DISCS and are registered trademarks of Tom and Ray Magliozzi and/or Tappet Brothers Associates d/b/a Dewey, Cheetham & Howe.
 
@@ -85,5 +82,7 @@ CAR TALK, DEWEY, CHEETHAM & HOWE, SHAMELESS COMMERCE, and WARPED DISCS and are r
 
 * * *
 
+[](http://www.corsis.com/)|  Hosting for cartalk.com is generously provided by [Corsis Technology Services](http://www.corsis.com/).|   | [](http://e2ma.net/go/183688083/152308/4262355/goto:http://www.myemma.com)| Car Talk's email newsletters are powered by [Emma](http://e2ma.net/go/183688083/152308/4262355/goto:http://www.myemma.com?).  
+---|---|---|---|---  
   
 
