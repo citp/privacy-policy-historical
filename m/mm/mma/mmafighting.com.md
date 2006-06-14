@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mmafighting.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228171636id_/http%3A//www.mmafighting.com/mma/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmafighting.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614085303id_/http%3A//www.mmafighting.com/site/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Statement
+# MMAFighting.com - MMAFighting.com - Privacy Policy Statement
 
 MMAFighting.com is deeply committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of consumer information.  
 
@@ -16,5 +16,3 @@ To try and bring you offers that are of interest to you, we have relationships w
 
 **Questions**  
 If you have any questions or comments about this privacy statement, the practices of this site, you can contact [webmaster@mmafighting.com](mailto:webmaster@mmafighting.com)
-
-[**Return Home**](http://www.mmafighting.com/)
