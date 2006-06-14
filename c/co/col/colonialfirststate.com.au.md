@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colonialfirststate.com.au privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222082334id_/http%3A//colonialfirststate.com.au/misc/privacy.asp%3FsPageHeading%3DPri) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colonialfirststate.com.au privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614155024id_/http%3A//www.colonialfirststate.com.au/misc/privacy.asp%3FsPageHeading%3DPri) for the most accurate reproduction.*
 
 # Colonial First State
 
@@ -20,9 +20,9 @@ If you used a financial adviser who recommended your investment in the funds (as
 We aim to ensure that the personal information we retain about you is accurate, complete and up-to-date. You will be taken to agree to the use, collection and disclosure of your personal information when you make an investment in the fund. If you provide us with incomplete or inaccurate information, we may not be able to provide you with the products or services you are seeking. 
 
 **Online services**  
-For statistical purposes we collect information on web site activity (such as the number of users who visit our web site, the date and time of visits, the number of pages viewed, navigation patterns, what country and what systems users have used to access the site and, when entering our web site from another web site, the address of that web site) through the use of 'cookies'. This information on its own does not identify an individual but it does provide us with statistics that can be used to analyse and improve our web site.
+For statistical purposes we collect information on web site activity (such as the number of users who visit our web site, the date and time of visits, the number of pages viewed, navigation patterns, what country and what systems users have used to access the site and, when entering our web site from another web site, the address of that web site) through the use of ['cookies'](https://web.archive.org/misc/security.asp#cookie). This information on its own does not identify an individual but it does provide us with statistics that can be used to analyse and improve our web site.
 
-If you want to see our more detailed privacy policy document [click here](https://web.archive.org/funds/investment/pdf/privacy.pdf)
+If you want to see our more detailed privacy policy document [click here](https://web.archive.org/funds/investment/pdf/privacy.pdf). 
 
 If you have any questions or would like further information on our privacy and information handling practices, you can: 
 
