@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reproductiverights.org privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227000551id_/http%3A//www.reproductiverights.org/ab_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reproductiverights.org privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614203912id_/http%3A//reproductiverights.org/ab_privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy
 
 **CENTER FOR REPRODUCTIVE RIGHTS PRIVACY STATEMENT**  
 **Last Updated: January 14, 2003** The Center for Reproductive Rights ("The Center" or "we", "us", "our") shares your concern about the protection of your personal information online. This is our policy regarding the privacy of personal information we collect online in connection with the reprorights.org or reproductiverights.org website (the "Site").
