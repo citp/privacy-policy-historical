@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the i-love-disney.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230111627id_/http%3A//i-love-disney.com/info/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-love-disney.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615012859id_/http%3A//i-love-disney.com/info/privacy.shtml) for the most accurate reproduction.*
 
 # I-Love-Disney.com Privacy Policy
 
 ## Information Collection and Use
 
-I-Love-Disney.com is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. I-Love-Disney.com collects information from our users at several different points on our website.
+I-Love-Disney.com is the sole owner of the information collected on this site as well as our new sister sites. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. I-Love-Disney.com collects information from our users at several different points on our website.
 
 ## Log Files
 
