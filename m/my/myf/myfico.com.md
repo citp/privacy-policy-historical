@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfico.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231125640id_/http%3A//www.myfico.com/Policy/PrivacyPolicy.aspx%3Ffire%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfico.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615013027id_/http%3A//www.myfico.com/Policy/PrivacyPolicy.aspx%3Ffire%3D4) for the most accurate reproduction.*
 
 # myFICO - Privacy Policy
 
@@ -25,8 +25,7 @@ Information collected online is usually categorized as either _anonymous_ or _pe
 
 The Web Sites (other than InsuranceScore.com) may collect _anonymous information_ , which refers to data that cannot be tied back to a specific individual. The information we collect (either directly or through the use of a third-party tracking system) includes:
 
-[](http://www.truste.org/ivalidate.php?url=www.myfico.com&sealid=101)   
-
+[](http://www.truste.org/ivalidate.php?url=www.myfico.com&sealid=101)
 
   * The IP address of the computer making the request (Usually this is not your personal computer, but a computer used by your internet service provider or company network).
   * The URL that is being requested.
