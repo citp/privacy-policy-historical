@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elitefitness.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221054151id_/http%3A//www.elitefitness.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitefitness.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614213825id_/http%3A//www.elitefitness.com/g.o/XXXX/http%3A//www.elitefitness.com/privacy.html) for the most accurate reproduction.*
 
 # EliteFitness.com - Underground Bodybuilding, Fitness and Steroid Site - Tons of Bodybuilding, Weight Lifting, and Anabolic Steroid Information
 
@@ -48,6 +48,15 @@ This site gives users the following options for changing and modifying informati
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact  Elite Fitness, Inc. 217 West 18th Street PO Box 1264 New York, NY 10113-1264 suggestions@elitefitness.com
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact  Elite Fitness, Inc. 217 West 18th Street PO Box 1264 New York, NY 10113-1264 suggestions@elitefitness.com [](http://www.elitefitness.com/) | 
 
-[](http://www.elitefitness.com/adp/banners.pl?region=24&campaign=18&banner=69&publisher=0&mode=CLICK&bust=493321&timestamp=20051221004151)
+Copyright © 2006 . All rights reserved. 
+
+| 
+
+[**EliteFitness.com**](http://www.elitefitness.com/)  
+217 West 18th Street #1264  
+New York, NY 10113-1264  
+Phone: (888) 613-8959   
+  
+---|---|---
