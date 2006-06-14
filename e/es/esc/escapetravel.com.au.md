@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the escapetravel.com.au privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218143935id_/http%3A//www.escapetravel.com.au/aboutus/policies/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escapetravel.com.au privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614165100id_/http%3A//escapetravel.com.au/aboutus/policies/privacy.jsp) for the most accurate reproduction.*
 
 # Escape Travel - Privacy Policy
 
 ## Introduction
 
-This Privacy Policy ("Policy") explains in general terms how Flight Centre Limited ACN 003 377 188 ("Flight Centre", "we" "ourv or "us") protects the privacy of your personal information. We are firmly committed to protecting the privacy and confidentiality of personal information and maintain robust physical, electronic and procedural safeguards to protect personal information in our care.
+This Privacy Policy ("Policy") explains in general terms how Flight Centre Limited ACN 003 377 188 ("Flight Centre", "we" "our" or "us") protects the privacy of your personal information. We are firmly committed to protecting the privacy and confidentiality of personal information and maintain robust physical, electronic and procedural safeguards to protect personal information in our care.
 
 ## What is personal information?
 
@@ -22,7 +22,7 @@ We are required by law to obtain your consent to the collection of sensitive inf
 
 ## When we act as agent
 
-When we sell products and services to you, we usually do so as agent for the wholesaler or provider of those products and services. This means that we usually collect personal information about you, both for our internal purposes, and on behalf of the parties for whom we act as agent, for their internal purposes. Accordingly, the consent you provide under this statement to the collection of personal information by us, applies equally to the parties whose products and services we sell. For example, if you purchase a Qantas flight from us, then under this policy you will have consented to your personal information being used by us, being provided to Qantas to enable your flight to be booked and being used by Qantas for Qantas’ purposes.
+When we sell products and services to you, we usually do so as agent for the wholesaler or provider of those products and services. This means that we usually collect personal information about you, both for our internal purposes, and on behalf of the parties for whom we act as agent, for their internal purposes. Accordingly, the consent you provide under this statement to the collection of personal information by us, applies equally to the parties whose products and services we sell. For example, if you purchase a Qantas flight from us, then under this policy you will have consented to your personal information being used by us, being provided to Qantas to enable your flight to be booked and being used by Qantas for Qantas purposes.
 
 We act as agent for many hundreds of companies, so it is not possible for us to set out in this statement exactly how each of these companies will use your personal information, but we are happy to provide more specific information to you if you email your query to us at [privacy_feedback@flightcentre.com](mailto:privacy_feedback@flightcentre.com).
 
@@ -98,3 +98,6 @@ We welcome your inquiries or comments about our Policy. Should you have any comm
 ## Changes to our Policy
 
 From time to time it may be necessary for us to review and revise this Policy. We reserve the right to change our Policy at any time, should this occur the amendment would be posted on our website. 
+
+  
+
