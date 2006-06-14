@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colourlovers.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212101708id_/http%3A//colourlovers.com/index.cfm%3Fsection%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colourlovers.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614221134id_/http%3A//colourlovers.com/index.cfm%3Fsection%3Dprivacy_policy) for the most accurate reproduction.*
 
 # //// COLOURlovers :: loving colours since 1981
 
