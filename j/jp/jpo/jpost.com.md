@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jpost.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217135735id_/http%3A//info.jpost.com/2000/PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jpost.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615001323id_/http%3A//info.jpost.com/2000/PrivacyStatement) for the most accurate reproduction.*
 
 # Jerusalem Post | Breaking News from Israel, the Middle East and the Jewish World
 
