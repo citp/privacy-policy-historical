@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costco.ca privacy policy that was archived on 2005-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050310193726id_/http%3A//www.costco.ca/en-CA/Service/FeaturePageLeftNav.aspx%3FProductNo%3D10166084) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costco.ca privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614084540id_/http%3A//www.costco.ca/en-CA/Service/FeaturePageLeftNav.aspx%3FProductNo%3D10166084) for the most accurate reproduction.*
 
 # Costco.ca
 
@@ -14,7 +14,7 @@ This Privacy Statement explains our privacy practices for our customers who shop
 
 At Costco, we are committed to protecting the privacy of our customers. For that reason we have taken, and will continue to take, measures that protect the privacy of personal information and personal health information held by us.
 
-This Privacy Statement provides you with details regarding: (1) why we collect personal information and personal health information; (2) what we do with that information; (3) the steps we take to ensure that access to that information is secure; (4) how you can access personal information and personal health information pertaining to you; and (5) who you should contact if you have questions or concerns about our policies or practices. 
+This Privacy Statement provides you with details regarding: **(1) why we collect personal information and personal health information; (2) what we do with that information; (3) the steps we take to ensure that access to that information is secure; (4) how you can access personal information and personal health information pertaining to you; and (5) who you should contact if you have questions or concerns about our policies or practices.**
 
 Since we regularly review our policies and practices, your comments are always welcome. We reserve the right to change this Privacy Statement at any time; however, any changes or additions to Section 5 regarding the reasons we use personal information will not apply to you unless you consent to them. We will alert you that changes have been made by indicating at the top of the Privacy Statement the date that it was last updated. This Privacy Statement was last updated on October 15, 2004. There have been no other updates since this Privacy Statement came into effect on July 1, 2003. We encourage you to review our Privacy Statement to make sure that you understand how information that you provide will be used.
 
@@ -112,6 +112,6 @@ If you (1) previously consented to receive promotional information from Costco a
 
 2\. Calling our Member Service representatives at 1 800 463-3783;
 
-3\. E-mailing us at service@costco.ca;
+3\. E-mailing us at [service@costco.ca](mailto:service@costco.ca)
 
 4\. Writing us at: Member Service, 415 West Hunt Club Road, Ottawa, Ontario  K2E 1C5.
