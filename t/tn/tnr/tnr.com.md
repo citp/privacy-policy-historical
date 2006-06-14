@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tnr.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231200456id_/http%3A//www.tnr.com/privacy.mhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tnr.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615004317id_/http%3A//www.tnr.com/privacy.mhtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,7 +30,7 @@ Opting not to participate in certain interactive areas, which completely allevia
 
 **Subscriptions**
 
-You may use the web site to subscribe to the print or digital version of _The New Republic_ by following the instructions for subscribing. All subscription-related information is collected from users on this site and stored by the magazine's fulfillment house, Communications Data Services, Inc. ("CDS"), a reputable third party. 
+You may use the web site to subscribe to the print or digital version of _The New Republic_ by following the instructions for subscribing. All subscription-related information is collected from users on this site and stored by the magazine's fulfillment house, Palm Coast Data, Inc. ("PCD"), a reputable third party. 
 
 **Electronic Newsletters**
 
@@ -70,7 +70,7 @@ TheNewRepublic.com creates aggregate reports on user demographics and traffic pa
 
 When you visit TheNewRepublic.com and are asked to provide information about yourself, unless specifically stated otherwise in this Privacy Policy, you are sharing that information only with TheNewRepublic.com. TheNewRepublic.com will not disclose the information you submit, except as described here, or when we believe in good faith that the law requires disclosure to protect the rights or property of TheNewRepublic.com, or for administrative or other purposes we deem necessary to maintain or service our products and services. For example, we may allow access to our database by third parties that provide us with services, such as technical maintenance, but only for the purpose of and to the extent necessary to provide you with our services. 
 
-As discussed above, TheNewRepublic.com uses Topica to collect and store personal information users submit when subscribing to the electronic newsletters. CDS stores information collected from you when you subscribe online to our print or digital publication, _The New Republic_. These third parties may have their own privacy and data collection practices. TheNewRepublic.com has no responsibility or liability for these third party policies. 
+As discussed above, TheNewRepublic.com uses Topica to collect and store personal information users submit when subscribing to the electronic newsletters. PCD stores information collected from you when you subscribe online to our print or digital publication, _The New Republic_. These third parties may have their own privacy and data collection practices. TheNewRepublic.com has no responsibility or liability for these third party policies. 
 
 If you do not want your data to be shared, you may choose not to permit the data to be collected or transferred by not submitting personally identifiable information on our site, or by not using a particular service. 
 
