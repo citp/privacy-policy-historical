@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the selfhelpmagazine.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217152256id_/http%3A//selfhelpmagazine.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selfhelpmagazine.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615010521id_/http%3A//selfhelpmagazine.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,6 +11,6 @@ At SelfhelpMagazine our goal is to respect your privacy online. We gather inform
 
 
 
-The company owning SelfhelpMagazine Magazine, [Pioneer Development Resources](http://www.cybertowers.com/), Inc., will not knowingly violate your privacy. Please see our SelfhelpMagazine [Service Agreement](https://web.archive.org/web/20051217152256id_/http%3A//selfhelpmagazine.com/serviceagreement.html) and [Code of Conduct](https://web.archive.org/web/20051217152256id_/http%3A//selfhelpmagazine.com/conduct.html) for further information about privacy.
+The company owning SelfhelpMagazine Magazine, [Pioneer Development Resources](http://www.cybertowers.com/), Inc., will not knowingly violate your privacy. Please see our SelfhelpMagazine [Service Agreement](https://web.archive.org/web/20060615010521id_/http%3A//selfhelpmagazine.com/serviceagreement.html) and [Code of Conduct](https://web.archive.org/web/20060615010521id_/http%3A//selfhelpmagazine.com/conduct.html) for further information about privacy.
 
 Please use our pages to help yourself. If you become aware of any privacy issues or ways in which the privacy of others might be compromised without our knowledge, please help us make this site safe for everyone by reporting your concerns to us. Please feel free to contact the SelfhelpMagazine Editor-in-Chief, [Dr. Maheu ](mailto:drm@selfhelpmagazine.com)with any questions or concerns.
