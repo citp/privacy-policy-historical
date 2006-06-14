@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the modernhealthcare.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212153551id_/http%3A//www.modernhealthcare.com/page.cms%3FpageId%3D57) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modernhealthcare.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614223917id_/http%3A//modernhealthcare.com/page.cms%3FpageId%3D57) for the most accurate reproduction.*
 
 # Privacy Policy
 
-December 12, 2005
+June 14, 2006
 
 [](http://oas-central.realmedia.com/RealMedia/ads/click_nx.ads/www.modernhealthcare.com/pageId_57/13725306379@Left1,Left2,Right,Top,TopRight,BottomLeft,x21,x22,x23,x24!Top?)
 
