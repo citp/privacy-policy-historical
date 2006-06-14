@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joinmarriottrewards.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231142904id_/http%3A//www.marriott.com/privacy.mi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joinmarriottrewards.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615005023id_/http%3A//www.marriott.com/privacy.mi) for the most accurate reproduction.*
 
 # View information on the Marriott corporation, including our internet privacy policy
 
@@ -17,13 +17,15 @@ In these cases we will know who you are based on the information you previously 
 
 When we need to collect personally identifiable information from you to provide you with a particular service, we will ask you to voluntarily supply us with the information we need. For example, if you would like to make a reservation at one of our hotels, we will ask you for information such as name, address, telephone number, email address, credit card number, Marriott Rewards number (if applicable) and room preference to process your reservation. We will use your email address to send a confirmation and, if necessary, might use the other information to contact you for help in processing the reservation. We will also use your email address to: 
 
-1) send you a pre-arrival message summarizing your confirmation details and providing other information about the area and the hotel; 
+1) send you a pre-arrival message summarizing your confirmation details and providing other information about the area and the hotel, 
 
-2) notify you about special offers and promotions as described in the email section of this privacy statement; as well as 
+2) notify you about special offers and promotions as described in the email section of this privacy statement, 
 
-3) send you periodic satisfaction or market research surveys. 
+3) send you copies of your hotel bills when you request them or subscribe to the eFolio feature, as well as 
 
-You can opt out of marketing emails at any time. You can also [opt out](https://web.archive.org/profile/email/unsubscribeChallenge.mi) of Marriott research surveys. The same types of information would be requested to complete a gift certificate purchase, register for a Marriott Rewards promotion, enter a sweepstakes or online game, to enroll in the [Marriott Rewards program](https://web.archive.org/web/20051231142904id_/http%3A//www.marriott.com/privacy.mi?WT_Ref=mi_footer#Question4) or to redeem Marriott Rewards points. On occasion, we use third parties to provide us with additional contact information about you given the information you provided to us directly. For example, if we know your name and postal address, we may use a third party to provide us with your email address. We would then use this information for market analysis and marketing purposes.   
+4) send you periodic satisfaction or market research surveys. 
+
+You can opt out of marketing emails at any time. You can also [opt out](https://web.archive.org/profile/email/unsubscribeChallenge.mi) of Marriott research surveys. The same types of information would be requested to complete a gift certificate purchase, register for a Marriott Rewards promotion, enter a sweepstakes or online game, to enroll in the [Marriott Rewards program](https://web.archive.org/web/20060615005023id_/http%3A//www.marriott.com/privacy.mi?WT_Ref=mi_footer#Question4) or to redeem Marriott Rewards points. On occasion, we use third parties to provide us with additional contact information about you given the information you provided to us directly. For example, if we know your name and postal address, we may use a third party to provide us with your email address. We would then use this information for market analysis and marketing purposes.   
   
  Back to top  
 **Reservations**
@@ -33,9 +35,28 @@ The personally identifiable information you provide to us for making a reservati
  Back to top  
 **Creating a Personal Account**
 
-At your choice, you may create a personal account containing information such as your preferred Marriott hotel brands, frequently visited cities, interests (e.g., golf, tennis), and whether you travel with children or pets.  Creating a personal account makes it more convenient for you to make reservations by eliminating the need to repeatedly enter personal preference information.  It will allow us to inform you about special offers and promotions that may be of interest to you.  In addition, if you choose, you can include your credit card information in your account.  Your credit card information will be used for subsequent reservations to increase reservation speed and eliminate the need for you to repeatedly enter your credit card information.  The security of this information is addressed in security section below. 
+At your choice, you may create a personal account containing information such as your preferred Marriott hotel brands, frequently visited cities, interests (e.g., golf, tennis), and whether you travel with children or pets.  Creating a personal account makes it more convenient for you to make reservations by eliminating the need to repeatedly enter personal preference information.  It will allow us to inform you about special offers and promotions that may be of interest to you.  In addition, if you choose, you can include your credit card information in your account.  Your credit card information will be used for subsequent reservations to increase reservation speed and eliminate the need for you to repeatedly enter your credit card information.  The security of this information is addressed in security section below.   
+  
+ Back to top  
+**Updating Your Personal Account Information**
 
-You can access and review, update, or deactivate your personal account information online.  If you deactivate your personal account and are a Marriott Rewards member, all information not already required and stored as a condition of membership will be deleted.  If you are not a Marriott Rewards member and deactivate your personal account, the user ID and password are deleted and the account is recorded as inactive.   
+You can access and review, update, or deactivate your personal account information online.  If you deactivate your personal account and are a Marriott Rewards member, all information not already required and stored as a condition of membership will be deleted.  If you are not a Marriott Rewards member and deactivate your personal account, the user ID and password are deleted and the account is recorded as inactive. 
+
+Please note that Marriott **will never send you email requesting your user name, password, credit card number or social security number**. If you receive an email that looks like it's from Marriott, but asks you for your credit card number or social security number, it's a fraudulent email, or "phish." We recommend that you do the following: 
+
+  * Forward the email to the Federal Trade Commission at [spam@uce.gov](mailto:spam@uce.gov) or call 1-877-FTC-HELP (1-877-382-4357) to report it. The FTC uses the spam stored in this database to pursue law enforcement actions against people who send deceptive email.
+  * Delete the email.
+
+
+
+If you believe "phishers" have gotten access to your personal or financial information, we recommend that you also do the following: 
+
+  * Change your password.
+  * Contact credit reporting services and have a fraud alert attached to your credit report file. Please be aware that the perpetrator may attempt to use your information to establish accounts or obtain credit at other businesses in their name.
+
+
+
+[Learn more about fraudulent email or "phish" and how to protect your personal information >>](https://web.archive.org/marriott.mi?page=FraudulentEmails)  
   
  Back to top  
 **Marriott Rewards Communications and Use of Member Information**
@@ -100,9 +121,14 @@ Marriott and its third-party service providers use pixel tags (also known as "cl
  Back to top  
 **Emails about Special Offers and Promotions and Opt-Out**
 
-It is our intention to only send you email communications that will be useful to you and that you want to receive. When you create a personal account, join Marriott Rewards, or make a reservation and provide your email address, we will periodically contact you via email to provide you with Marriott Rewards account updates and provide information about special offers and promotions that may be of interest to you. These communications will relate to Marriott offers which may also include the promotions of select, reputable third parties with whom Marriott has a strategic marketing relationship because they offer products or services that we believe would be of interest to you. We typically use third party email service providers to send emails. These service providers are contractually prohibited from using your email address for any purpose other than to send Marriott related email. 
+It is our intention to only send you email communications that will be useful to you and that you want to receive. When you create a personal account, join Marriott Rewards, make a reservation, or request a copy of your hotel bill via email and provide your email address, we will periodically contact you via email and provide information about special offers and promotions that may be of interest to you. These communications will relate to Marriott offers which may also include the promotions of select, reputable third parties with whom Marriott has a strategic marketing relationship because they offer products or services that we believe would be of interest to you. We typically use third party email service providers to send emails. These service providers are contractually prohibited from using your email address for any purpose other than to send Marriott related email. We provide you the ability to define and modify your mailing preferences online at anytime including [unsubscribing](https://web.archive.org/profile/email/unsubscribeChallenge.mi) from all marketing communications.  In addition, every time you receive an email, you will be provided the choice to opt-out of future emails by following the instructions provided in the email.  You may also opt-out online by updating your personal account, or sending a letter to Internet Customer Care - Unsubscribe, 1818 North 90 Street, Omaha, Nebraska 68114-1315 USA. Please allow 10 business days for us to process your opt-out.   
+  
+ Back to top  
+**eFolio**
 
-We provide you the ability to define and modify your mailing preferences online at anytime including [unsubscribing](https://web.archive.org/profile/email/unsubscribeChallenge.mi) from all marketing communications.  In addition, every time you receive an email, you will be provided the choice to opt-out of future emails by following the instructions provided in the email.  You may also opt-out online by updating your personal account, or sending a letter to Internet Customer Care - Unsubscribe, 1818 North 90 Street, Omaha, Nebraska 68114-1315 USA. Please allow 10 business days for us to process your opt-out.   
+If you choose to participate in the in the eFolio program ("Program") you will receive hotel bills by email ("eFolio"). The eFolio will be sent to you over the Internet in an unsecured (unencrypted) manner and could be subject to interception by third parties. 
+
+Once you have subscribed to the Program, your Marriott Rewards number as entered on your reservation acts as the eFolio identifier, prompting your bill to be transmitted to your email address of record. If your Marriott Rewards number is applied to another person's room reservation, that person's bill will be transmitted to your email address as well. It is your responsibility to inform that person that their bill will be emailed to you when your Marriott Rewards number is attached to his/her reservation unless he/she makes alternative arrangements with a front desk associate during the stay.   
   
  Back to top  
 **Events and Meetings**
@@ -149,6 +175,6 @@ Within Marriott.com are numerous other Marriott Web sites that are accessible fr
  Back to top  
 **Marriott.com Changes to Your Privacy Rights**
 
-In the future, we may need to change this privacy statement.  All changes will be made here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone.  This statement was last updated on October 26, 2005.   
+In the future, we may need to change this privacy statement.  All changes will be made here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone.  This statement was last updated on April 4, 2006 to describe the eFolio program and provide a phishing alert.   
   
  Back to top
