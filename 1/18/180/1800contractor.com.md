@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1800contractor.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214021129id_/http%3A//1800contractor.com/rfs/servicerequest/exactmatch/oehPrivacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800contractor.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615015736id_/http%3A//www.1800contractor.com/rfs/servicerequest/exactmatch/oehPrivacy.jsp) for the most accurate reproduction.*
 
 # 1800Contractor.com - Privacy Policy
 
@@ -74,7 +74,7 @@ Though we strive to preserve user privacy, due to the existing regulatory enviro
 1800Contractor may share aggregated activity or statistical information with partners, advertisers or others, but such information shall not contain personally identifiable information.
 
 **Business Transitions**  
-In the event 1800Contractor goes through a business transition such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. See also, section entitled "Changes and updates to this policy…" set forth below.
+In the event 1800Contractor goes through a business transition such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. See also, section entitled "Changes and updates to this policyï¿½" set forth below.
 
 **Choice/Opt-out**  
 Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our Web site at the point where we ask for information.
