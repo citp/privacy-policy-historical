@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the networkgeneral.com privacy policy that was archived on 2005-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051226091114id_/http%3A//www.networkgeneral.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the networkgeneral.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614060344id_/http%3A//www.networkgeneral.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - NetworkGeneral.com - Application and Network Management Solutions
-
-About Us » Privacy Policy
 
 Network General  
 178 E. Tasman Drive  
