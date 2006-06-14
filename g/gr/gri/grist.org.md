@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the grist.org privacy policy that was archived on 2005-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050618084047id_/http%3A//www.grist.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grist.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615005601id_/http%3A//www.grist.org/about/privacy) for the most accurate reproduction.*
 
 # Grist Magazine | Privacy Policy
+
+  
+
 
 _Grist Magazine_ ("we" or "us") respects your privacy and has adopted policies and procedures for ensuring that personal information about visitors ("you") is handled responsibly. This statement describes the privacy practices of the __Grist Magazine__ website (on the Internet at www.grist.org, www.gristmagazine.com, www.gristmagazine.org, www.gristmagazine.info, www.gristmagazine.biz, www.grist.info, and www.gristmagazine.net). This statement outlines: 
 
@@ -121,8 +124,4 @@ Sign up for **free environmental news** by email.
 
 New in Grist ...
 
-[Just Breathe](https://web.archive.org/news/counter/2005/06/17/latino/index.html), in Counter Culture. Facts and figures on air quality and Latino health in the U.S.
-
-[City City Bang Bang](https://web.archive.org/news/maindish/2005/06/15/little-nickels/index.html), by Amanda Griscom Little. An interview with Seattle Mayor Greg Nickels on his pro-Kyoto cities initiative.
-
-[Shore Losers](https://web.archive.org/comments/soapbox/2005/06/15/kay-coastal/index.html), by Jane Holtz Kay. U.S. leaders and citizens shouldn't turn their backs on impending coastal chaos.
+[Showin' in the Wind](https://web.archive.org/advice/books/2006/06/13/baard/index.html), in Arts and Minds. Could a wind-energy art exhibit shape public opinion? 
