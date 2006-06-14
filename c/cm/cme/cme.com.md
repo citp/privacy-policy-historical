@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cme.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230213529id_/http%3A//www.cme.com/about/ins/privacy3403.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cme.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615013609id_/http%3A//www.cme.com/about/ins/privacy3403.html) for the most accurate reproduction.*
 
 # CME Privacy Policy
 
