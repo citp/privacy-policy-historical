@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 4electronicwarehouse.com privacy policy that was archived on 2005-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051029154051id_/http%3A//www.4electronicwarehouse.com/service/info.php/2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4electronicwarehouse.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615001939id_/http%3A//www.4electronicwarehouse.com/service/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement: Your Electronic Warehouse
 
 Your Electronic Warehouse has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: **[4ElectronicWarehouse.com](http://www.4electronicwarehouse.com/)**. 
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your shopping cart. 
+ We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your shopping cart. 
 
 Our site uses cookies to keep track of your shopping cart. We use cookies to save your password so you don't have to re-enter it each time you visit our site. 
 
