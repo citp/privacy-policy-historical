@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rand.org privacy policy that was archived on 2005-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051108034815id_/http%3A//www.rand.org/site_info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rand.org privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614200305id_/http%3A//www.rand.org/site_info/privacy.html) for the most accurate reproduction.*
 
-# RAND | Privacy Policy
+# RAND | About This Site | Privacy Policy
 
 ##### Effective July 13, 2004
 
@@ -45,7 +45,7 @@ For more information about our privacy statement, see Frequently Asked Questions
 
 If you have any questions about this privacy statement, the practices of RAND, or your experience with this web site, please contact [feedback](https://web.archive.org/about/feedback.html), call (310) 393-0411, or write to RAND, 1776 Main Street, P.O. Box 2138, Santa Monica, CA 90407-2138.
 
-* * *
+##  Frequently Asked Questions (FAQ)
 
 **How does RAND use personal information?**  
 Generally, RAND and our service partners use your personal information to operate the site and to deliver our services. For example, if you place an order for a RAND publication, RAND will ask for personal information needed to process your order, such as your address. RAND may provide other companies access to your personal information so that they can provide routine services, such as credit card processing or shipping your order(s).
@@ -74,6 +74,6 @@ RAND uses non-personally identifiable information and information obtained throu
 **How can you contact us about this web site?**  
 If you have any questions about this privacy statement, the practices of RAND, or your experience with this web site, please contact [feedback](https://web.archive.org/about/feedback.html), call (310) 393-0411, or write to RAND, 1776 Main Street, P.O. Box 2138, Santa Monica, CA 90407-2138.
 
-######  [About this Site](https://web.archive.org/web/20051108034815id_/http%3A//www.rand.org/site_info/index.html)
+#####  [About this Site](https://web.archive.org/web/20060614200305id_/http%3A//www.rand.org/site_info/index.html)
 
-######  [About RAND](https://web.archive.org/about/)
+#####  [About RAND](https://web.archive.org/about/)
