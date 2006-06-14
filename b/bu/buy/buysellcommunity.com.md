@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buysellcommunity.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305055549id_/http%3A//www.buysellcommunity.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buysellcommunity.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614060640id_/http%3A//www.buysellcommunity.com/privacy_policy) for the most accurate reproduction.*
 
 # Buy & Sell Classifieds - Privacy Policy
 
@@ -60,7 +60,7 @@ We may provide aggregate information about our customers, sales, Web site traffi
 
 **What About Legally Compelled Disclosure of Information?**
 
-We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights.
+We may disclose information when legally compelled to do so; in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights.
 
 **What About Other Web Sites Linked to Our Web Site?**
 
