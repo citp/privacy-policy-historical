@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the stevespanglerscience.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229052438id_/http%3A//www.stevespanglerscience.com/security.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stevespanglerscience.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614194740id_/http%3A//www.stevespanglerscience.com/security.php) for the most accurate reproduction.*
 
 # Privacy and Security Policies - Steve Spangler Science
+
+[Home ](https://web.archive.org/)> [Customer Service >](https://web.archive.org/help.php) [Privacy & Security](https://web.archive.org/security.php#)
 
 Any personal information you provide to Steve Spangler Science will only be used to notify you of Steve Spangler Science news, services and activities. Steve Spangler Science will hold the information securely and will not disclose it except for this purpose or when required by law. You have the right to inspect and update your details at any time. If you do not wish to hear from us any longer, please email us at [info@stevespanglerscience.com](mailto:info@stevespanglerscience.com).
 
