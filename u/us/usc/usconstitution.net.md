@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usconstitution.net privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219024221id_/http%3A//usconstitution.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usconstitution.net privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615013210id_/http%3A//www.usconstitution.net/privacy.html) for the most accurate reproduction.*
 
 # Our Privacy Policy - The U.S. Constitution Online - USConstitution.net
 
@@ -13,7 +13,7 @@ The Message Boards maintained on this site do request several pieces of informat
   * Name 
   * Email address 
   * Gender 
-  * Birthdate 
+  * Birth date 
   * Location 
   * WWW site 
   * Instant Messenger codes 
@@ -24,7 +24,7 @@ Frequent users may wish to register. Registered users choose a user name and pas
 
 Children 12 and under should get parental permission before registering and using their real name to post messages or before registering as a user.
 
-USConstitution.net does request that users who choose to use a pseudonym or handle use the same one consistently. Other Message Board policies [are posted and available](https://web.archive.org/web/20051219024221id_/http%3A//usconstitution.net/constpolicy.html).
+USConstitution.net does request that users who choose to use a pseudonym or handle use the same one consistently. Other Message Board policies [are posted and available](https://web.archive.org/web/20060615013210id_/http%3A//www.usconstitution.net/constpolicy.html).
 
 In addition to the information discussed above, each message posted includes the IP address of the computer posting the message. The IP address is saved to allow tracking and filtering of anyone who abuses or misuses the Message Board system. The IP address is stored internally, and is accessible only by the Webmaster.
 
