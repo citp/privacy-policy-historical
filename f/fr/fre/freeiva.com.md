@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freeiva.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231055452id_/http%3A//www.freeiva.com/cs_info/cs_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeiva.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615000308id_/http%3A//www.freeiva.com/cs_info/cs_privacy.htm) for the most accurate reproduction.*
 
-# Freeiva.com||city guide,interpreter,private companion,escort in beijing,shanghai,guangzhou| 兼职、翻译、导游、陪同、交友、英语,美女
+# private tour guide,interpreter,meeting interpreter, city guide, travel companion,shanghai,beijing,china
 
 _Privacy Policy / Term Condition_
 
