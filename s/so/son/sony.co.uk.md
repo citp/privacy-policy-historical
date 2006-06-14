@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sony.co.uk privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230043132id_/http%3A//www.sony.co.uk/view/ShowSiteSection.action%3Fsection%3DODW_PS%26site%3Dodw_en_GB) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sony.co.uk privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614191314id_/http%3A//www.sony.co.uk/view/ShowSiteSection.action%3Fsection%3DODW_PS%26site%3Dodw_en_GB) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -152,11 +152,13 @@ If you need further assistance or would like to make a comment, please e-mail pr
 
 Sony e-Solutions Europe B.V.
 
-Sony Contact Center Europe
+acting through its Belgian branch office at Customer Privacy
 
-Nieuw Eyckholt 208
+Da Vincilaan 7-D1
 
-6419 DJ Heerlen, The Netherlands
+B-1935 Zaventem
+
+Belgium
 
 Email privacy@eu.sony.com 
 
@@ -174,11 +176,11 @@ tel.: +44 8705 111999, fax: +44 1635 875250
 
 Email: generalcic@eu.sony.com
 
-Last Updated: 07/2004
+Last Updated: 02/2006
 
 Top
 
 These Terms and the contents of this site are subject to copyright.  
-© 2002 Sony. All Rights Reserved.  
-Letzter Update: June 2004  
+© 2006 Sony. All Rights Reserved.  
+Letzter Update: February 2006  
 
