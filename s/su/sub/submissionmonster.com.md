@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the submissionmonster.com privacy policy that was archived on 2005-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050210035321id_/http%3A//www.submissionmonster.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the submissionmonster.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615015815id_/http%3A//www.submissionmonster.com/privacy.html) for the most accurate reproduction.*
 
 # Submission Monster: Free Search Engine Submission and Website Promotion
 
@@ -10,7 +10,7 @@ Our privacy policy does not apply to the practices of other companies advertised
 
 Submission Monster collects the information entered during your website submission and logs your IP Address to prevent abuse of this service. 
 
-Your use of Submission Monster's website submission service constitutes a business relationship wherein we provide a promotion service for your website(s). In exchange, Submission Monster reserves the right to use the contact information collected during website submission to deliver notices regarding changes or updates to our service, to provide free sample newsletters, to inform you of additions to the Jayde Online Network of web sites, or to send announcements and carefully screened offers and information from our partners. 
+Your use of Submission Monster's website submission service constitutes a business relationship wherein we provide a promotion service for your website(s). In exchange, Submission Monster reserves the right to use the contact information collected during website submission to deliver notices regarding changes or updates to our service, to provide free sample newsletters, to inform you of additions to the GreenWave Online Network of web sites, or to send announcements and carefully screened offers and information from our partners. 
 
 With the exception of a autoresponse messages which are sent out when you use our free autosubmission service and contain important website submission results, you may remove yourself from any or all other notice and announcement mailings at anytime using the unsubscribe methods provided in those mailings. Any mailing received from our company is clearly identified and includes at least 2 methods to remove yourself from future mailings. Should you encounter problems in this regard, contact [webmaster@submissionmonster.com](mailto:webmaster@submissionmonster.com). Our turnaround time for responding to unsubscribe requests is generally 24 hours. 
 
