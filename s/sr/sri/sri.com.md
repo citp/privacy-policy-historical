@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sri.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219150510id_/http%3A//www.sri.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sri.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614200620id_/http%3A//sri.com/privacy.html) for the most accurate reproduction.*
 
 # SRI's Privacy Policy
 
