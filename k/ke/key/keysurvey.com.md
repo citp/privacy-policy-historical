@@ -1,12 +1,38 @@
-> *The following text is extracted and transformed from the keysurvey.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210184407id_/http%3A//www.keysurvey.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keysurvey.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614124602id_/https%3A//www.keysurvey.com/privacy.jsp) for the most accurate reproduction.*
 
 # Key Survey Privacy - 888-708-8118
 
-|  |  | [](https://web.archive.org/)  
----  
-  Survey software everyone can use.TM  
 |  |  |   
----|---|---  
+---  
+| 
+
+[Home](https://web.archive.org/?linkreg=main_menu_home)
+
+| 
+
+[Products](https://web.archive.org/web/20060614124602id_/https%3A//www.keysurvey.com/products.jsp?linkreg=main_menu_products)
+
+| 
+
+[Enterprise](https://web.archive.org/web/20060614124602id_/https%3A//www.keysurvey.com/enterprise.jsp?linkreg=main_menu_enterprise)
+
+| 
+
+[Solutions](https://web.archive.org/web/20060614124602id_/https%3A//www.keysurvey.com/solutions.jsp)
+
+| 
+
+[Services](https://web.archive.org/web/20060614124602id_/https%3A//www.keysurvey.com/services.jsp)
+
+| 
+
+[Samples](https://web.archive.org/web/20060614124602id_/https%3A//www.keysurvey.com/survey_samples.jsp?linkreg=main_menu_samples)
+
+| 
+
+[Company](https://web.archive.org/web/20060614124602id_/https%3A//www.keysurvey.com/about.jsp)  
+  
+---|---|---|---|---|---|---  
 |  |  Privacy Policy | 
 
 [](http://www.truste.org/ivalidate.php?url=www.keysurvey.com&sealid=102)  
@@ -130,19 +156,19 @@ If you have any questions or comments about our Privacy Policy, please contact u
 You can also send your request by mail: 
 
 **Survey Software Services Inc.  
-Forbes Business Center  
-194 Forbes Road, Suite 242  
+222 Forbes Road,  
 Braintree MA 02184**  
   
 |   
-  
-| 
-
-Survey Software Services, founded in 2001, designs, develops and markets online survey software everyone can use. Key Survey is the choice of thousands of organizations worldwide for its powerful features and unparalleled ease-of-use. Professional researchers and first-timers alike rely on Key Survey software to collect and analyze data, and report and present the results. Company products include Key Survey Enterprise, Key Survey Private Label/Small Business Enterprise, Key Survey Professional, Key Survey Premium, Key Survey Basic, and Key Survey Free Trial. Survey service offerings include survey scanning, paper surveys, mail services, data entry, and panel selection. Key Survey is an official licensee of the distinguished TRUSTe Privacy Seal Program and certified by the EU Safe Harbor Privacy Program, ensuring the utmost in customer privacy.  
-  
----  
-  
 |   
 ---  
+|  | 
+
+Survey Software Services, founded in 2001, designs, develops and markets online survey software everyone can use. Key Survey is the choice of thousands of organizations worldwide for its powerful features and unparalleled ease-of-use. Professional researchers and first-timers alike rely on Key Survey software to collect and analyze data, and report and present the results. Company products include Key Survey Enterprise, Key Survey Private Label/Small Business Enterprise, Key Survey Professional, Key Survey Premium, Key Survey Basic, and Key Survey Free Trial. Survey service offerings include survey scanning, paper surveys, mail services, data entry, and panel selection. Key Survey is an official licensee of the distinguished TRUSTe Privacy Seal Program and certified by the EU Safe Harbor Privacy Program, ensuring the utmost in customer privacy. 
+
+|   
+---|---|---  
+|  |  | [](https://web.archive.org/privacy.jsp)  
+---|---|---  
   
-© 2001-2005 Key Survey. All rights reserved. 
+© 2001-2006 Key Survey Software. All rights reserved. 
