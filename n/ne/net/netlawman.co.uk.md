@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netlawman.co.uk privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219131639id_/http%3A//www.netlawman.co.uk/netlawman-privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netlawman.co.uk privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614210453id_/http%3A//netlawman.co.uk/netlawman-privacy.php) for the most accurate reproduction.*
 
 # UK Legal Documents, Legal Forms and Legal advice
 
@@ -51,7 +51,7 @@ We are subject to the law like everyone else. We may be required to give informa
 To assist in combatting fraud, we share information with credit reference agencies so far as it relates to clients or customers who instruct their credit card issuer to cancel payment to us without having first provided an acceptable reason to us and given us the opportunity to refund their money.
 
   7. **Update your information**  
-At any time you may review or update the personally identifiable information that we hold about you, by contacting us at the address below. To better safeguard your information, we will also take reasonable steps to verify your identity before granting access or making corrections to your information. If you have any question regarding the confidentiality policy, please [Contact Us](https://web.archive.org/web/20051219131639id_/http%3A//www.netlawman.co.uk/netlawman-contact.php). 
+At any time you may review or update the personally identifiable information that we hold about you, by contacting us at the address below. To better safeguard your information, we will also take reasonable steps to verify your identity before granting access or making corrections to your information. If you have any question regarding the confidentiality policy, please [Contact Us](https://web.archive.org/web/20060614210453id_/http%3A//netlawman.co.uk/netlawman-contact.php). 
 
 
 
@@ -66,7 +66,7 @@ At any time you may review or update the personally identifiable information tha
 |   
 ---  
 [_Advanced Search_](http://www.netlawman.co.uk/Search/PgAdvanceSearch.php)  
-|   | **You like our service? Please tell your friends. You have a grumble? Please tell us now.**  
+|   | **You like our service? Please[ tell your friends. ](http://www.netlawman.co.uk/recommend-friend/recommend-friend.php)You have a grumble? [Please tell us ](http://www.netlawman.co.uk/netlawman-contact.php) now.**  
   
   
 ---|---  
