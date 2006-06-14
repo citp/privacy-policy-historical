@@ -1,0 +1,482 @@
+<!--The following is the downloaded HTML source of the irobot.com privacy policy that was archived on 2006-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615011258id_/http%3A//store.irobot.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.-->
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+
+
+	<title>iRobot : Help Desk</title>
+	<script language="Javascript">
+function trimString (str) {
+  while (str.charAt(0) == ' ')
+    str = str.substring(1);
+  while (str.charAt(str.length - 1) == ' ')
+    str = str.substring(0, str.length - 1);
+  return str;
+}
+
+
+function emailCheck(type) // not sure if anybody uses this, but just in case i'm leaving it functional
+{
+ var email = trimString(document.emailForm.emailAddress.value);
+
+    if (!validEmail(email))
+	{
+        alert('Please enter a valid e-mail address.');
+        return false;
+    }
+	if(type == 1)
+	{
+        document.emailForm.submit();
+	}
+}
+
+function validEmail(email)
+{
+    var vAtSym    = email.indexOf('@')
+    var vPeriod   = email.lastIndexOf('.')
+    var vSpace    = email.indexOf(' ')
+    var vLength   = email.length - 1   // Array is from 0 to length-1
+
+    if (vAtSym < 1 ||                     // '@' cannot be in first position
+    	vPeriod <= vAtSym + 1 ||          // Must be atleast one valid char btwn '@' and '.'
+    	vPeriod == vLength  ||            // Must be atleast one valid char after '.'
+    	vSpace  != -1)                    // No empty spaces permitted
+	{
+        return false;
+    }
+	return true;
+}
+
+
+
+
+
+function showCustomPopUp(thisUrl,thisName,theseParams)
+{
+	remote = open(thisUrl, thisName, theseParams);
+}
+
+
+// WE SHOULD NOT NEED THESE jh
+
+
+
+//	verisign POP-UP WINDOW
+function popUp(url)
+{
+	sealWin=window.open(url,"win",'toolbar=0,location=0,directories=0,status=1,menubar=1,scrollbars=1,resizable=1,width=500,height=450');
+	self.name = "mainWin";
+}
+
+function jump(url)
+{
+	if (url != "" && url != null)
+	{
+		self.location.href = url;
+	}
+}
+</script>
+
+	<link rel="stylesheet" type="text/css" href="http://irbt.imageg.net/include/store.css">
+	<style>
+	.breadcrumb {size: 11px; color:#40557E;}
+	</style>
+	<script language="JavaScript">
+	function newWindow(url) 
+	{
+	  	theWindow = window.open(url,
+	  	'mapWinFreeShip', 'width=350,height=250,scrollbars=yes,resizable=no')
+		theWindow.focus();
+	}
+	</script>
+</head>
+<body>
+<script language="javascript" type="text/javascript" src="http://irbt.imageg.net/include/header_dhtml_menus.js"></script>
+<script language="javascript" type="text/javascript">
+	//header tabs scripts
+	if (document.images)
+	{
+		path = "http://irbt.imageg.net/images/";
+	
+		home_on = new Image(); home_on.src = path + "hdr_home_tab_over.jpg";
+		store_on = new Image(); store_on.src = path + "hdr_store_tab_over.jpg";
+		gov_on = new Image(); gov_on.src = path + "hdr_govInd_tab_over.jpg";
+		about_on = new Image(); about_on.src = path + "hdr_about_tab_over.jpg";
+	
+		home_off = new Image(); home_off.src = path + "hdr_home_tab.jpg";
+		store_off = new Image(); store_off.src = path + "hdr_store_tab.jpg";
+		gov_off = new Image(); gov_off.src = path + "hdr_govInd_tab.jpg";
+		about_off = new Image(); about_off.src = path + "hdr_about_tab.jpg";
+	}
+	
+	function tabOn(imgNameAttrib,imgFileName)
+	{
+		var imgRef = eval("document." + imgNameAttrib);
+		imgRef.src = "http://irbt.imageg.net/images/" + imgFileName + "_over.jpg";
+	}
+	
+	function tabOff(imgNameAttrib, imgFileName)
+	{
+		var imgRef = eval("document." + imgNameAttrib);
+		imgRef.src = "http://irbt.imageg.net/images/" + imgFileName + ".jpg";
+	}
+</script>
+
+
+
+<script type="text/javascript">
+	var showEmail = 0;
+	var slideDelay = 0;
+	var domStyle = null;
+
+	function emailOpen(emailSlider){
+		domStyle = findMDOM('emailSlider',1);
+	    if (showEmail){
+		    fX = -95; cX = 31; showEmail = 0; 
+	    }else{
+	            fX = 31; cX = -95; showEmail = 1; 
+	    }
+	    slideEmail(cX,fX);
+		
+	}
+
+	function emailClose(emailSlider){
+	    if (showEmail){
+	        fX = -95; cX = 31; showEmail = 0;
+	        slideEmail(cX,fX);
+	    }
+		
+	}
+
+	function slideEmail(cX,fX){
+	    if (cX != fX){
+	        if (navigator.appName == "Microsoft Internet Explorer"){
+	            if (navigator.appVersion.lastIndexOf('Mac') != -1){
+	                if (cX > fX){
+	                    cX -= 9;
+	                }else{
+	                    cX += 9;
+	                }
+	            }else{
+	                if (cX > fX){
+	                    cX -= 9;
+	                }else{
+	                    cX += 9;
+	                }
+	            }
+	        }else if (navigator.appName == "Safari"){
+	            if (cX > fX){
+	                cX -= 20;
+	            }else{
+	                cX += 20;
+	            }
+	        }else{
+	            if (cX > fX){
+	                cX -= 30;
+	            }else{
+	                cX += 20;
+	            }
+	        }
+	               domStyle.top = cX;
+	               setTimeout('slideEmail(' + cX + ',' + fX + ')', slideDelay);
+	            }
+	            return;
+	}
+
+	function findMDOM(emailSlider,withStyle){
+	    if (withStyle == 1){
+	        return (document.getElementById('emailSlider').style);
+	    }
+	}
+	
+	/* variables for showing/hiding email popin */
+	var WC3type = "";
+	var NNtype = "";
+
+	function toggleVisibility(id)
+	{
+		if (WC3type == "hidden" || NNtype == "hide" || WC3type == "" || NNtype == "")
+		{
+			WC3type = "visible";
+			NNtype = "show";
+		}
+		else if (WC3type == "visible" || NNtype == "show")
+		{
+			WC3type = "hidden";
+			NNtype = "hide";
+		}
+
+	    if (document.getElementById)
+		{
+	        eval("document.getElementById(id).style.visibility = \"" + WC3type + "\"");
+	    }
+		else if (document.layers)
+		{
+            document.layers[id].visibility = NNtype;
+	    }
+	}
+</script>
+<style>
+#emailSlider {position:absolute;z-index:99;left: 553px;width: 223px;top: -100px;background-color:#3F7290;text-align:center;border: #373F4C solid 1px;}
+#frame_header_top {position:relative;width:778px;margin:0 auto;padding:0px;text-align:left;}
+#header {position:absolute;z-index:100;width:778px;height:20px;top:0;left:0;background-color:#FFFFFF;padding-top:11px;text-align:right;}
+#header_bottom {width:778px;margin:0 auto;}
+#frame_header_search {width:778px;margin:0 auto;padding:6px 0 6px 0;text-align:right;z-index:2;}
+</style>
+
+<div id="frame_header_top">
+	<div id="header"><a href="http://www.irobot.com" class="topnavlink">home page</a>&nbsp;|&nbsp;<a href="http://www.irobot.com/sp.cfm?pageid=28" class="topnavlink">news</a>&nbsp;|&nbsp;<a href="javascript:emailOpen('emailSlider');" class="topnavlink">email signup</a>&nbsp;&nbsp;<a href="javascript:emailOpen('emailSlider');"><img src="http://irbt.imageg.net/images/hdr_email_btn.gif" alt="" width="26" height="18" border="0" align="middle"></a></div>
+	<span id="emailSlider" height="124" width="223">
+	<iframe height="124" width="223" frameborder="0" src="/include/entry.jsp" scrolling="no"></iframe></span>
+</div>
+<div id="header_bottom">
+	<div style="width:563px;padding-top:32px;float:right;">
+		<div style="width:563px;height:32px;"><a href="http://www.irobot.com/sp.cfm?pageid=95" onmouseover="tabOn('home','hdr_home_tab');" onmouseout="tabOff('home','hdr_home_tab');"><img name="home" src="http://irbt.imageg.net/images/hdr_home_tab.jpg" alt="" width="140" height="32" border="0" style="padding-right:1px;"></a><a href="/home/index.jsp"><img name="store" src="http://irbt.imageg.net/images/hdr_store_tab_over.jpg" alt="" width="140" height="32" border="0" style="padding-right:1px;"></a><a href="http://www.irobot.com/sp.cfm?pageid=109" onmouseover="tabOn('gov','hdr_govInd_tab');" onmouseout="tabOff('gov','hdr_govInd_tab');"><img name="gov" src="http://irbt.imageg.net/images/hdr_govInd_tab.jpg" alt="" width="140" height="32" border="0" style="padding-right:1px;"></a><a href="http://www.irobot.com/sp.cfm?pageid=74" onmouseover="tabOn('about','hdr_about_tab');" onmouseout="tabOff('about','hdr_about_tab');"><img name="about" src="http://irbt.imageg.net/images/hdr_about_tab.jpg" alt="" width="140" height="32" border="0"></a><br></div>
+
+		<div style="width:560px;padding:4px 0 4px 0;background-color:#DBEAAE;border:1px solid #A2A2A3;">
+
+			<ul style="list-style-type:none;display:inline;">
+				<li style="width:133px;text-align:center;float:left;"><a id="dd1" href="javascript: void(0);" onmouseover="showSubnav('1');removeSubnavTimeouts();" onmouseout="dropdownTimer=setTimeout('hideSubnav()',1000);" class="subnavlinkoff">Cleaning Robots</a></li>
+				<li style="width:89px;text-align:left;float:left;"><a id="dd2" href="javascript: void(0);" onmouseover="showSubnav('2');removeSubnavTimeouts();" onmouseout="dropdownTimer=setTimeout('hideSubnav()',1000);" class="subnavlinkoff">Accessories</a></li>
+				<li style="width:91px;text-align:left;float:left;"><a href="/family/index.jsp?categoryId=2174939" onmouseover="hideSubnav();" class="subnavlink">iRobot Gear</a></li>
+				<li style="width:87px;text-align:left;float:left;"><a href="https://store.irobot.com/coreg/index.jsp?step=register" onmouseover="hideSubnav();" class="subnavlink">My Account</a></li>
+				<li style="width:91px;text-align:left;float:left;"><a href="/cart/index.jsp?wlName=wishlist" onmouseover="hideSubnav();" class="subnavlink">My Wish List</a></li>
+				<li style="width:66px;text-align:left;float:left;"><a href="/cart/index.jsp" onmouseover="hideSubnav();" class="subnavlink">My Cart</a></li>
+			</ul>
+		</div>
+	</div>
+	<div style="width:215px;margin:39px 0 0 0;float:right;">
+		<a href="http://www.irobot.com"><img src="http://irbt.imageg.net/images/logo.gif" width="194" height="37" alt="" border="0" style="padding:0 13px 12px 0;"></a><br>
+		<img src="http://irbt.imageg.net/images/hdr_logo_line.gif" width="215" height="1" alt="" border="0" style="position:relative;left:1px;">
+	</div>
+	<br clear="all">
+</div>
+<div id="dropdown1" align="left" onmouseover="showSubnav('1');removeSubnavTimeouts();" onmouseout="dropdownTimer=setTimeout(&quot;hideSubnav()&quot;,1000);">
+
+	<div><a href="/family/index.jsp?categoryId=2174930&amp;cp=2174940" class="dropdownlinks">Vacuuming</a></div>
+
+	<div style="padding:4px 0 0 0;"><a href="/family/index.jsp?categoryId=2174932&amp;cp=2174940" class="dropdownlinks">Floor Washing</a></div>
+
+</div>
+<div id="dropdown2" align="left" onmouseover="showSubnav('2');removeSubnavTimeouts();" onmouseout="dropdownTimer=setTimeout(&quot;hideSubnav()&quot;,1000);" style="width:167px;">
+
+
+	<div><a href="/subcategory/index.jsp?categoryId=2174947&amp;cp=2174941.2174944" class="dropdownlinks">Roomba Discovery Series</a></div>
+
+	<div style="padding:4px 0 0 0;"><a href="/subcategory/index.jsp?categoryId=2174949&amp;cp=2174941.2174944" class="dropdownlinks">Roomba Original Series</a></div>
+
+		<div style="padding:4px 0 0 0;"><a href="/subcategory/index.jsp?categoryId=2174945&amp;cp=2174941" class="dropdownlinks">Scooba</a></div>
+
+</div>
+<div id="frame_header_search">
+	<form name="search" action="/searchHandler/index.jsp" method="get" style="margin:0px;display:inline;"><span class="searchOurStore" style="padding-right:7px;">Search our Store:</span><input name="keywords" class="pagetext" style="width:90px;height:18px;margin:0;"><input type="image" src="http://irbt.imageg.net/images/hdr_search_go.gif" width="24" height="18" border="0" align="absmiddle" cache="" style="margin:0;"></form>
+</div>
+
+
+<div style="display:none;">
+	
+	<!-- Start of SearchMarketing.com Natural Pixel Tag: Please do not remove-->
+	<script language="JavaScript"><!--
+	{
+		document.write("<img src=http://tracking.searchmarketing.com/gsic_welcome.asp?SMCID=221&x=" +escape(document.referrer) +  " width=1 height=1>");
+	}
+	//-->
+	</script><img src="http://tracking.searchmarketing.com/gsic_welcome.asp?SMCID=221&amp;x=" width="1" height="1">
+	<!-- End SearchMarketing.com Natural Pixel Tag -->
+
+
+</div>
+<div style="display:none;">
+	<!-- Start of New Pixel File -->
+
+		 <img src="http://leadback.advertising.com/adcedge/lb?site=695501&amp;srvc=1&amp;betr=irobot_cs=1&amp;betq=1299=359721" width="1" height="1" border="0">
+		 
+
+<!-- End of New Pixel File -->
+
+</div>
+
+
+<div id="breadcrumbContainer" style="left: 288px; top: 97px;">
+		<a href="/home/index.jsp" class="breadcrumb">Store Home</a>
+
+		&nbsp;<span class="breadcrumb">&gt;</span>&nbsp;<a href="/helpdesk/index.jsp" class="breadcrumb">Home Robot Customer Service</a>
+
+</div>
+<script language="javascript" type="text/javascript">
+function initBreadcrumb()
+{
+	var centerOffset = 0;
+	var bcTop;
+	if (document.getElementById && !document.all)
+	{
+		centerOffset = 395;
+		bcTop = 97;
+	}
+	else
+	{
+		centerOffset = 388;
+		bcTop = 100;
+	}
+	bcLeft = document.body.clientWidth/2 - centerOffset;
+	document.getElementById("breadcrumbContainer").style.left = bcLeft;
+	document.getElementById("breadcrumbContainer").style.top = bcTop;
+}
+initBreadcrumb();
+</script>
+
+
+
+
+
+<table width="778" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody><tr>
+	<td width="215" valign="top">
+	<table width="215" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td class="pagelink" style="padding-bottom:40px;"></td>
+	</tr>
+    <tr>
+		<td height="22" colspan="2" class="subheadsmall">Safety, Security, and Privacy&nbsp;&gt;</td>
+	</tr>
+	<tr>
+		<td height="9" colspan="2"><img src="http://irbt.imageg.net/images/pixel.gif" width="1" height="9" alt="" border="0"></td>
+	</tr>
+
+		<tr>
+			<td valign="top" height="20">
+
+					<a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=secure" class="hd_pagelink">Secure Shopping Guarantee</a>
+
+               </td>
+		</tr>
+
+		<tr>
+			<td valign="top" height="20">
+
+					<a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=terms" class="hd_pagelink">Terms and Conditions</a>
+
+               </td>
+		</tr>
+
+		<tr>
+			<td valign="top" height="20">
+
+					<a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy" class="hd_pagelink">Privacy Policy</a>
+
+               </td>
+		</tr>
+
+
+	</tbody></table><br><br><br><br><br></td>
+<td valign="top">
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+	<td colspan="2" style="padding:45px 0 20px 0;"><img src="http://irbt.imageg.net/images/subhead_rule_hd.gif" width="563" height="2" alt="" border="0"></td>
+</tr>
+<tr>
+	<td><img src="/images/pixel.gif" width="10" height="1"></td>
+	<td valign="top"><!--STOREMAN GENERATION - 1 panel(s) found for slot: HelpSlot entryId: 2182078 with pd:null-->
+<!--STOREMAN PANEL: helpdesk/IROBOT_Security_10-3.20332.jsp-->
+
+			<!--?xml version="1.0" encoding="ISO-8859-1" standalone="no"?-->
+
+<smpanel xmlns:sm="http://engineering.gspt.net/storeman/sm-DTDinfo.html">
+
+<table width="98%" border="0" cellpadding="0" cellspacing="0">
+   <tbody><tr>
+        <td valign="top">
+<p class="header">Privacy Policy</p>
+
+<p>iRobot Corporation ("iRobot", "we" or "us") recognizes that the users and customers ("you") of this Web site, store.irobot.com (this "Web Site"), care how information about them is used and shared. We have created this Privacy Policy to inform you of our information collection, use and sharing practices for this Web Site.</p>
+
+<p>Please be advised that the practices described in this Privacy Policy apply only to information gathered through this Web Site and, where applicable, through this Web Site's Customer Service Department in connection with this Web Site, and do not necessarily reflect our practices with respect to information gathered through other Web sites that we operate or through other off-line means.</p>
+
+<p>If you have any questions regarding this Privacy Policy, you should contact this Web Site's Customer Service Department by email at customerservice@irobot.com.</p>
+
+<p><b><u>What Information About Me Is Collected and Stored?</u></b></p>
+
+<p>We collect and store information that you enter into this Web Site or that you provide through this Web Site's Customer Service Department. For example, when you open an account or place an order, we collect and store some or all of the following information that you provide: name, billing address, shipping address, email address, telephone number, credit card number and expiration date. This information is used to provide the products and services that you have ordered or requested, to process and ship orders, to send order and shipping confirmations and to provide customer service. Some of this information also may be used to contact you about sales, special offers, and new site features, unless you have <u>opted</u> not to receive promotional communications in connection with this Web Site.</p>
+
+<p>We collect and store certain other information automatically whenever you interact with this Web Site. For example, we collect your IP address, browser information and reference site domain name every time you visit this Web Site. We also collect information regarding customer traffic patterns and site usage. This information is used to analyze and improve this Web Site and to provide our customers with a fulfilling shopping experience.</p>
+
+<p>Also, like many Web sites, we use "cookies", which are files stored on your computer's hard drive by your browser. Cookies help us to identify account holders and to optimize their shopping experience. Cookies also allow us to hold selections in a shopping cart when a user leaves this Web Site without checking out. Most browsers accept cookies automatically but allow you to disable them. We recommend that you leave cookies "turned on" so that we can offer you a better shopping experience on this Web Site.</p>
+
+<p>We also may collect and store information about you that we receive from other sources, to enable us to update and correct the information contained in our database and to provide product recommendations and special offers that we think will interest you.</p>
+
+<p><b><u>Is Information Collected From Children?</u></b></p>
+
+<p>We do not sell or ship any items ordered through this Web Site directly to anyone who we know to be under the age of 18, nor do we collect any personal information from anyone who we know to be under the age of 18. If you are under the age of 18, you should use this Web Site only with the involvement of a parent or guardian and should not submit any personal information to us.</p>
+
+<p><b><u>With Whom Do You Share Information?</u></b></p>
+
+<p>We do not share with others any personal information that you provide to us through this Web Site or through this Web Site's Customer Service Department, except with your consent or as described in this Privacy Policy.</p>
+
+<p>We may share personal information that you provide to us through this Web Site or through this Web Site's Customer Service Department with our affiliates and service providers. In turn, our service providers may share this personal information with their affiliates and with service providers whom they engage to perform services related to this Web Site or the operation of our business. Examples of these services include Web Site operation, payment processing and authorization, fraud protection and credit risk reduction, product customization, order fulfillment and shipping, customer service, marketing and promotional material distribution, data analysis and, where applicable, data cleansing. These service providers are authorized to use this personal information only in connection with the services they are engaged to perform.</p>
+
+<p>We may release personal information if we believe in good faith that: the law or legal process requires it; we have received a valid administrative request from a law enforcement agency; or such release is necessary to protect the rights, property or safety of iRobot, or any of our affiliates, service providers, customers or others.</p>
+
+<p>We may share non-personal information with our marketing partners, advertisers and others from time to time. Examples of such non-personal information include the number of users who visited this Web Site during a specific time period or purchased a specific product through this Web Site. This information generally is shared in an aggregated form.</p>
+
+<p>As with any business, it is possible that as our business develops, we might sell or buy online stores or other assets. In such transactions, information about customers often is among the transferred assets. Accordingly, in the unlikely event that iRobot, or substantially all of its assets related to this Web Site, is acquired by a third party, such information may be one of the transferred assets. Under such circumstances iRobot would to the extent possible require the acquiring party to follow the practices described in this Privacy Policy, as it may be amended from time to time.</p>
+
+<p><b><u>What Steps Are Taken To Keep Personal Information Secure?</u></b></p>
+
+<p>Various security measures, including Secure Socket Layer (SSL) encryption technology, are used to protect personal information that we collect. If you place an order through this Web Site, you will be asked to set up an account and provide an email address and password. You must provide an appropriate email address and password in order to access account information. In order to help protect your personal information further, you should be careful about providing your password to others. If you wish to cancel your password, or if you become aware of any loss, theft or unauthorized use of your password, please contact this Web Site's Customer Service Department by email at customerservice@irobot.com or by phone at 1-(800) 727-9077.</p>
+
+<p><b><u>How Can I Access, Correct and Update Personal Information?</u></b></p>
+
+<p>You can access, correct and update certain personal information that you have provided to us by clicking on "Manage Your Account" within the Help Desk area of this Web Site.</p>
+
+<p><b><u>Can I Indicate Whether or Not I Want To Receive Promotional Communications?</u></b></p>
+
+<p>There are several ways in which you can tell us whether or not you want to receive promotional communications from us. When you set up an account, or click on "Manage Your Account" within the Help Desk area, or place an order, you will have an opportunity to make or change your selections in this regard. You also will have an opportunity to change these selections by clicking on an "unsubscribe" hyperlink contained in promotional emails we send you.</p>
+
+<p><b><u>What Happens When I Link To or From Another Web Site?</u></b></p>
+
+<p>This Web Site may contain links to other Web sites operated by affiliates of iRobot or third parties. Please be advised that the practices described in this Privacy Policy do not apply to information gathered through these other Web sites and that we are not responsible for the privacy policies, practices or contents of these other Web sites. We encourage you to be aware of when you leave this Web Site and to read the privacy policies of each and every Web site that you visit.</p>
+
+<p><b><u>What About Contests and Sweepstakes?</u></b></p>
+
+<p>When we run a contest or sweepstakes relating to this Web Site, it will be accompanied by a set of rules. The rules for each contest/sweepstakes will specify how the information gathered from you for entry will be used and disclosed, if different than as described in this Privacy Policy.</p>
+
+<p><b><u>How Will I Be Informed About Changes Regarding This Privacy Policy?</u></b></p>
+
+<p>We reserve the right to modify this Privacy Policy at any time. If we modify this Privacy Policy, we will post the revised Privacy Policy on this Web Site. We also may post a notice on this Web Site or send an email describing the changes. You should check this Web Site regularly to see if any recent changes to this Privacy Policy have occurred.</p>
+
+<p>Effective: 2/17/2006</p>
+
+<br>
+
+
+
+
+</td>
+</tr>
+</tbody></table>
+
+</smpanel>
+
+<!--END STOREMAN PANEL helpdesk/IROBOT_Security_10-3.20332.jsp-->
+<!--END STOREMAN GENERATION-->
+
+		
+
+	<br><br><br></td>
+	</tr>
+	</tbody></table></td>
+</tr>
+</tbody></table>
+
+<div id="frame_footer">
+	<div style="width:778;text-align:center;>
+		<div style=" padding:6px="" 0="" 4px="" 0;"=""><img src="http://irbt.imageg.net/images/ftr_line.gif" width="778" height="1" alt="" border="0"></div>
+		<div style="text-align:center;padding:6px 0 4px 0;"><a href="https://store.irobot.com/registration/index.jsp" class="footerlink">register your Roomba or Scooba</a>&nbsp;&nbsp;<span class="footerlink">|</span>&nbsp;&nbsp;<a href="/helpdesk/index.jsp?display=returns&amp;subdisplay=prodw" class="footerlink">home robot warranty information</a><br><img src="http://irbt.imageg.net/images/pixel.gif" width="1" height="3" alt="" border="0"><br><a href="/helpdesk/index.jsp" class="footerlink">home robot customer service</a>&nbsp;&nbsp;<span class="footerlink">|</span>&nbsp;&nbsp;<a href="/volumesales/index.jsp" class="footerlink">volume sales</a>&nbsp;&nbsp;<span class="footerlink">|</span>&nbsp;&nbsp;<a href="/helpdesk/index.jsp?display=store&amp;subdisplay=contact" class="footerlink">contact iRobot</a>&nbsp;&nbsp;<span class="footerlink">|</span>&nbsp;&nbsp;<a href="http://www.irobot.com/sp.cfm?pageid=79" class="footerlink">careers</a></div>
+		<div style="padding:6px 0 4px 0;"><img src="http://irbt.imageg.net/images/ftr_line.gif" width="778" height="1" alt="" border="0"></div>
+		<div style="text-align:center;padding:4px 0 4px 0;"><a href="/sitemap/index.jsp" class="footerlink2">site map</a>&nbsp;&nbsp;<span class="footerlink2">|</span>&nbsp;&nbsp;<a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy" class="footerlink2">terms &amp; privacy</a>&nbsp;&nbsp;<span class="footerlink2">|</span>&nbsp;&nbsp;<a href="http://www.irobot.com/sp.cfm?pageid=74" class="footerlink2">© iRobot corporation</a></div>
+	</div>
+
+ 
+
+
+</body></html>
