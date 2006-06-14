@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bluetie.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305041657id_/http%3A//www.bluetie.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluetie.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615012839id_/http%3A//www.bluetie.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy: BlueTie is a leading provider of hosted email, messaging, and collaboration solutions.
+# Privacy Policy: BlueTie is a leading provider of hosted email, messaging, and collaboration solutions for small and medium-sized businesses
 
 Privacy Policy  
 LAST UPDATED: 8/23/04  
@@ -79,7 +79,7 @@ The Web Site allows links to various other web sites. We assume no responsibilit
 [top]
 
 13\. Security  
-Please keep in mind that whenever you give out personal information online \--- for example, via instant messaging or online meetings--- that information can be collected and used by people you don't know. While BlueTie strives to protect your information and privacy, we cannot guarantee the security of any information you disclose online, and you do so at your own risk.
+Please keep in mind that whenever you give out personal information online --- for example, via instant messaging or online meetings--- that information can be collected and used by people you don't know. While BlueTie strives to protect your information and privacy, we cannot guarantee the security of any information you disclose online, and you do so at your own risk.
 
 The importance of security for all personally-identifiable information associated with our users and members is of utmost concern to us. Unfortunately, no data transmission over the Internet can be guaranteed to be secure. As a result, while we strive to protect your personally-identifiable information, we can't ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. However, once we receive your personally-identifiable information, we will take reasonable efforts to ensure its security on our systems.
 
