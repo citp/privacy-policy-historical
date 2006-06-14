@@ -1,43 +1,43 @@
-> *The following text is extracted and transformed from the good-tutorials.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221043626id_/http%3A//good-tutorials.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the good-tutorials.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615014702id_/http%3A//good-tutorials.com/privacy.jsp) for the most accurate reproduction.*
 
 # Good-Tutorials.com - Privacy Policy
 
 ## Latest Blog Posts    [](https://web.archive.org/rss.jsp)
 
-**[Looking Ahead](https://web.archive.org/blog/62/looking-ahead)** (December 19, 2005)  
-So what's in store for me, you, and for Good-Tutorials? _([read more](https://web.archive.org/blog/62/looking-ahead)) (18 comments)_  
-**[Heh, I've been Spammed](https://web.archive.org/blog/61/heh-ive-been-spammed)** (December 15, 2005)  
-I was puzzled just now when I saw the first piece of spam occur after I had implemented the new f... _([read more](https://web.archive.org/blog/61/heh-ive-been-spammed)) (32 comments)_  
-**[Holiday-Themed Tutorials](https://web.archive.org/blog/60/holiday-themed-tutorials)** (December 15, 2005)  
-Just a quick note to your writers out there- if you're trying to think of a solid idea for some t... _([read more](https://web.archive.org/blog/60/holiday-themed-tutorials)) (5 comments)_  
-**[Trillian to Adium Logfile Conversion](https://web.archive.org/blog/59/trillian-to-adium-logfile-conversion)** (December 11, 2005)  
-In this riveting post, I decide to release some code that converts Trillian logfiles to Adium's format. _([read more](https://web.archive.org/blog/59/trillian-to-adium-logfile-conversion)) (12 comments)_  
-**[Taking a Bit of a Break](https://web.archive.org/blog/58/taking-a-bit-of-a-break)** (December 10, 2005)  
-Hope none of you are anticipating any groundbreaking things debuting on Good-Tutorials in the nex... _([read more](https://web.archive.org/blog/58/taking-a-bit-of-a-break)) (20 comments)_  
+**[Thirty Thousand](https://web.archive.org/blog/119/thirty-thousand)** (June 13, 2006)  
+So I've seen a lot of tutorials in my time. _([read more](https://web.archive.org/blog/119/thirty-thousand))_  
+**[Why, Hello There!](https://web.archive.org/blog/118/why-hello-there)** (June 13, 2006)  
+Long time no blog. _([read more](https://web.archive.org/blog/118/why-hello-there))_  
+**[MySQL: 6,422; Zach: 1](https://web.archive.org/blog/117/mysql-6422-zach-1)** (June 02, 2006)  
+Luckily my one point was all that mattered to secure the win. Good-Tutorials is up and speedy again. _([read more](https://web.archive.org/blog/117/mysql-6422-zach-1))_  
+**[Going Down](https://web.archive.org/blog/116/going-down)** (May 30, 2006)  
+There should be an hour or two of downtime tonight as a second server is added. (Update x4) _([read more](https://web.archive.org/blog/116/going-down))_  
+**[Over the Weekend](https://web.archive.org/blog/115/over-the-weekend)** (May 29, 2006)  
+Nah, the weekend's mystery isn't much of a mystery. _([read more](https://web.archive.org/blog/115/over-the-weekend))_  
 
 
 ## Latest Blog Comments
 
-**tanz** on [Looking Ahead](https://web.archive.org/blog/62/looking-ahead#comment-1160)  
-  Well..... you can always design it with pen and paper..........  
-**Zach Holman** on [Looking Ahead](https://web.archive.org/blog/62/looking-ahead#comment-1159)  
-  Sigh, this is too sad. Getting ready to head home for three ...  
-**PrimeMatters** on [Looking Ahead](https://web.archive.org/blog/62/looking-ahead#comment-1158)  
-  Always moving forward, good stuff =)  
-**Dan** on [Looking Ahead](https://web.archive.org/blog/62/looking-ahead#comment-1157)  
-  lol, It sounds like a major thing he is doing, I think we ma...  
-**tanz** on [Looking Ahead](https://web.archive.org/blog/62/looking-ahead#comment-1156)  
-  Ok then Zach, I will shut up as long as you tell us what it ...  
-**Zach Holman** on [Looking Ahead](https://web.archive.org/blog/62/looking-ahead#comment-1155)  
-  Ha. :) Right now I do want to keep it secret, mostly because...  
-**tanz** on [Looking Ahead](https://web.archive.org/blog/62/looking-ahead#comment-1154)  
-  Is there any chance that you want to share this "very good i...  
-**Zach Holman** on [Looking Ahead](https://web.archive.org/blog/62/looking-ahead#comment-1153)  
-  tanz- well, nothing is coded yet. I have a very good idea of...  
-**Nour El Saidi** on [Looking Ahead](https://web.archive.org/blog/62/looking-ahead#comment-1152)  
-  Good Stuff. Getting better and better, Perhaps you can make...  
-**tanz** on [Looking Ahead](https://web.archive.org/blog/62/looking-ahead#comment-1151)  
-  Without giving too much away would you like to inform us.......  
+**Greg** on [Thirty Thousand](https://web.archive.org/blog/119/thirty-thousand#comment-4334)  
+  I have to admire the fact you did all of that on your own, r...  
+**Greg** on [Why, Hello There!](https://web.archive.org/blog/118/why-hello-there#comment-4333)  
+  You can bet SKETCHi is in that regular comments bit ;)  
+**Zach Holman** on [Thirty Thousand](https://web.archive.org/blog/119/thirty-thousand#comment-4332)  
+  That doesn't really work though. For example, I don't want t...  
+**lethalwire** on [Thirty Thousand](https://web.archive.org/blog/119/thirty-thousand#comment-4330)  
+  30,000 Tutorials is quite a bit. Though, many tutorials have...  
+**Zach Holman** on [Thirty Thousand](https://web.archive.org/blog/119/thirty-thousand#comment-4325)  
+  Wow, what a thriller Germany vs. Poland was. That was a fun ...  
+**Zach Holman** on [Thirty Thousand](https://web.archive.org/blog/119/thirty-thousand#comment-4313)  
+  Ryan- that's a fairly reasonable estimate. ;)  
+**Zach Holman** on [Why, Hello There!](https://web.archive.org/blog/118/why-hello-there#comment-4311)  
+  The timeouts are due to a bit of a complex issue.  
+**Nour El Saidi** on [Why, Hello There!](https://web.archive.org/blog/118/why-hello-there#comment-4309)  
+  Ij just like to ask, were those timeouts (503 errors) on the...  
+**wordedwrong.com** on [Thirty Thousand](https://web.archive.org/blog/119/thirty-thousand#comment-4308)  
+  Wow indeed, thats A L O T !.  
+**Ryan** on [Thirty Thousand](https://web.archive.org/blog/119/thirty-thousand#comment-4303)  
+  Wow, and 25,000 have something to do with sigs. ;)  
 
 
 Here's the breakdown in human-talk: I respect your privacy. I'm not going to sell your email address (I don't even ask for it unless you email me personally), I'm not going to try and steal your information, I'm not going to try and do anything Evil. I have tried to keep this site fairly low-key; it doesn't require a log-in and thus you don't have to give me your personal information.
