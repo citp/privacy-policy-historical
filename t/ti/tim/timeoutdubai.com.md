@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timeoutdubai.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225094332id_/http%3A//www.timeoutdubai.com/corporate/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeoutdubai.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615004929id_/http%3A//www.timeoutdubai.com/corporate/privacy.php) for the most accurate reproduction.*
 
 # Time Out Dubai - Corporate - Privacy
 
@@ -52,15 +52,32 @@ If you would like to review the material about you that we have collected via ou
 
 This Week's Magazine
 
+  
+
+
 Dubai Directory
-
-  
-  
-
 
 Weekly Poll
 
 Hot Tickets
+
+[Queen…It's A Kind Of Magic](https://web.archive.org/events/review.php?id=4192)
+
+ **Date:** Thursday, June 29, 2006  
+ **Price:** Regular - Dhs190,  
+Stalls - Dhs250,  
+VIP - Dhs350
+
+[Buy Tickets Now »](https://web.archive.org/events/review.php?id=4192)
+
+[FIFA World Cup Fan Park - 1st and 2nd round](https://web.archive.org/events/review.php?id=4201)
+
+ **Date:** Thursday, June 15, 2006Friday, June 16, 2006Saturday, June 17, 2006Sunday, June 18, 2006Monday, June 19, 2006Tuesday, June 20, 2006Wednesday, June 21, 2006Thursday, June 22, 2006Friday, June 23, 2006Saturday, June 24, 2006Sunday, June 25, 2006Monday, June 26, 2006Tuesday, June 27, 2006  
+ **Price:** Dhs10
+
+[Buy Tickets Now »](https://web.archive.org/events/review.php?id=4201)
+
+[All tickets for sale » ](http://www.itptickets.com/)
 
 Newsletter
 
