@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the publicintegrity.org privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230235258id_/http%3A//www.publicintegrity.org/about/about.aspx%3Fact%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicintegrity.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615001459id_/http%3A//www.publicintegrity.org/about/about.aspx%3Fact%3Dpolicy) for the most accurate reproduction.*
 
 # About Us - The Center for Public Integrity
-
-[](https://web.archive.org/about/about.aspx "About Us")
 
 This site is published by the Center for Public Integrity, a tax-exempt 501(c)(3) organization located at 910 17th Street NW, Washington, DC 20006. Contents of this site, including all site and section names, logos, other graphics, organized listings, presentation strategies, interface design and other design elements, are covered by trademarks, copyrights and other intellectual and trade property rights, held jointly or separately by the Center for Public Integrity. All rights are reserved. Contributing writers also may hold rights to some material. 
 
@@ -28,6 +26,8 @@ We use an outside shipping company to ship orders, and a credit card processing 
 
 **Links**   
 This Web site contains links to other sites. Please be aware that the Center for Public Integrity is not responsible for the privacy practices of such other sites. We encourage those leaving our site to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+
+Links to other Web sites are provided as a convenience. By clicking on them, you will be leaving the Center for Public Integrity's Web site. The Center does not approve or control these sites and does not guarantee the accuracy of their information. 
 
 **Newsletter**   
 If a user wishes to subscribe to our newsletter, we ask for such contact information as e-mail address. 
@@ -55,7 +55,7 @@ Users who no longer wish to receive our newsletter may opt-out of receiving thes
 **Notification of Changes**   
 If we decide to change our privacy policy, we will post those changes on our Homepage so users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. When we do, we will also revise the "last updated" date at the bottom of the privacy statement. 
 
-_This document was last updated July 26, 2005_
+_This document was last updated April 20, 2006_
 
   
 
