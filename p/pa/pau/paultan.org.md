@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paultan.org privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231093144id_/http%3A//paultan.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paultan.org privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614192824id_/http%3A//paultan.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy »
 
@@ -76,5 +76,3 @@ The contact forms gather email address and name so that we may reply to your ema
 We use the collected IP address to ban spammers from posting spam comments. We may also use the IP address to ban abusive individuals from commenting as well. We use the collected email address and name from the contact forms to return your email message. We track aggragate site traffic statistics for use in performance feedback and promotional use.
 
 If you have any questions or comments please use the [contact form](http://paultan.org/contact-me/) to write to paultan.org. Thank you. 
-
-co sidebar 
