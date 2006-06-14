@@ -1,19 +1,17 @@
-> *The following text is extracted and transformed from the retail-week.com privacy policy that was archived on 2005-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050228021659id_/http%3A//www.retail-week.com/nav%3Fpage%3Dretailweek.legal.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retail-week.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614172134id_/http%3A//www.retail-week.com/privacy) for the most accurate reproduction.*
 
 # Retail Week - Business information for the retail industry
 
-**Privacy Policy**  
+  
 
 
 * * *
 
-  
 **Our Commitment To Your Privacy**   
 
 
 * * *
 
-  
 Retail Week and [Emap Plc](http://www.emap.com/) are committed to protecting your privacy and security. From time to time _We_ may invite you to supply personal information in order for us to provide you with services (such as access to subscriber-only services, _Our_ bulletin board, email newsletters and competitions). In order to deliver such services, we will need to process and store your personal information and may need to transfer it to the relevant partner(s), to affiliates of Emap for processing both inside and outside the European Economic Area [EEA]. By submitting your personal information, you consent to such processing and transfers in connection with such orders, offers or services and for any other purposes to which you consent at the time you provide the information. We will never wilfully disclose personal information about you to any third party other than to process an order without first receiving your permission or unless we are under a legal obligation to do so. 
 
 **Why We Need To Collect Information From You**
