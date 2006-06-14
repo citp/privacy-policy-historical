@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopica.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207145606id_/http%3A//www.shopica.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopica.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615014228id_/http%3A//www.shopica.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Thank you for your interest in Shopica
 
