@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offshorexperts.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230040534id_/http%3A//www.offshorexperts.com/index.cfm/fa/home.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offshorexperts.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614113232id_/http%3A//offshorexperts.com/index.cfm/fa/home.privacy) for the most accurate reproduction.*
 
 # Outsourcing Directory for Outsourcing Services, Outsourcing Companies, Outsourcing News and Leads
 
@@ -49,4 +49,4 @@ privacy@OffshoreXperts.com
 
 You may also use the above contact information if you think any information about you is inaccurate, incomplete, or if you want to change the sort of information about you that OffshoreXperts.com may have collected.
 
-Updated: December 2005
+Updated: June 2006
