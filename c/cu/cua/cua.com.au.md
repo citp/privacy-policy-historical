@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cua.com.au privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210061601id_/http%3A//www.cua.com.au/web/cua.nsf/docindex/privacy%2Bpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cua.com.au privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614155531id_/http%3A//www.cua.com.au/web/cua.nsf/docindex/privacy%2Bpolicy) for the most accurate reproduction.*
 
 # CUA
 
@@ -27,9 +27,7 @@ Certain exceptions apply to the general restriction on us to deal with personal 
 **Further Information**  
 If you require more detailed information in relation to what sort of personal information we hold, for what purposes we hold it, how we collect, hold, use and disclose information 
 
-[_click here_](https://web.archive.org/web/cua.nsf/docindex/PDFs%20-%20Privacy/$FILE/privacy_notice_1103.pdf?OpenElement)
+[_click here_](https://web.archive.org/Web/Inter.nsf/attachments/Privacynotice.pdf/$FILE/Privacynotice.pdf)
 
 .  
-  
-  
 
