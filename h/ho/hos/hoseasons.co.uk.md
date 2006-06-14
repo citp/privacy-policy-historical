@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoseasons.co.uk privacy policy that was archived on 2005-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051119174100id_/http%3A//www.hoseasons.co.uk/holidays/general_info/security_statement.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoseasons.co.uk privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614231319id_/http%3A//hoseasons.co.uk/holidays/general_info/security_statement.asp) for the most accurate reproduction.*
 
 # Hoseasons - Security and Privacy Statement
 
@@ -14,20 +14,11 @@ Did you know? The risk of credit card fraud is 100 times greater when you hand y
 **Privacy Statement**  
 In order to process your booking, we need to collect certain personal details from you. These details will usually include the names and addresses of party members, credit/debit card or other payment details and special requirements such as those relating to any disability or medical condition which may affect the chosen holiday arrangements. If we need any other personal details, we will tell you before we obtain them from you. 
 
-We need to pass on your personal details to the companies and organisations who need to know them so that your holiday can be provided (for example your airline, hotel, other supplier, credit/debit card company or bank). Such companies and organisations may be outside the European Union, Norway, Iceland or Liechtenstein if your holiday is to take place or to involve suppliers outside these countries.
-
-|  |  Where you give us details relating to your physical or mental health or condition, we will ask you to give us your written consent to our holding, using and passing on such information. Except where expressly permitted by the Data Protection Act, we will only deal with the personal details you give us as set out above unless you agree otherwise. For example, if we wish to use any of your personal details for marketing purposes, we will tell you this when we ask for the details and give you the opportunity to say no if you do not want us to do so.   
+|  |  We need to pass on your personal details to the companies and organisations who need to know them so that your holiday can be provided (for example your airline, hotel, other supplier, credit/debit card company or bank). Such companies and organisations may be outside the European Union, Norway, Iceland or Liechtenstein if your holiday is to take place or to involve suppliers outside these countries.   
+  
+Where you give us details relating to your physical or mental health or condition, we will ask you to give us your written consent to our holding, using and passing on such information. Except where expressly permitted by the Data Protection Act, we will only deal with the personal details you give us as set out above unless you agree otherwise. For example, if we wish to use any of your personal details for marketing purposes, we will tell you this when we ask for the details and give you the opportunity to say no if you do not want us to do so.   
   
 We promise to keep all personal details you give us in connection with your booking confidential. We have appropriate security measures in place to protect this information.   
   
-You may write to us or email us to ask us whether we or someone on our behalf is holding personal details of yours or is carrying out any operation in relation to any of them. You are entitled to ask us what details of yours are being held or processed, for what purpose and to whom they may be or have been disclosed. We will charge a fee to respond to such a request. We promise to respond to your request within 40 days of receiving your written request and fee.
+You may write to us or email us to ask us whether we or someone on our behalf is holding personal details of yours or is carrying out any operation in relation to any of them. You are entitled to ask us what details of yours are being held or processed, for what purpose and to whom they may be or have been disclosed. We will charge a fee to respond to such a request. We promise to respond to your request within 40 days of receiving your written request and fee.  
 
-**Cookies**  
-"Cookies" are small pieces of information sent by a web server to a web browser, which enables the server to collect information from the browser. You can find out more about the way cookies work on [www.cookiecentral.com](http://www.cookiecentral.com/).
-
-Hoseasons uses cookies for a number of purposes, for instance to enable us to simplify the logging on process for registered users, to help ensure the security and authenticity of registered users, to provide the mechanisms for online booking and to enable traffic monitoring.
-
-Whilst you do not need to allow your browser to accept cookies in order to browse much of our web site, you must have cookies enabled if you wish to book online or access any areas reserved for registered users.  
-Most major websites use cookies and their use is standard on the Internet. Most web browsers automatically accept cookies. 
-
-However, you can change your settings so that you are notified whenever you are sent a cookie, or block them completely should you wish to do this. You can find out how to delete and control cookies at [www.aboutcookies.org](http://www.aboutcookies.org/)
