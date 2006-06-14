@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nwcn.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230000317id_/http%3A//www.nwcn.com/registration/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nwcn.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614183212id_/http%3A//www.nwcn.com/registration/privacy.html) for the most accurate reproduction.*
 
 # NWCN.com | News for NW Cable News | Privacy Policy
 
@@ -6,9 +6,9 @@
 
 [](https://web.archive.org/about/onnwcn.html)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/web.archive.org/aboutus/1603555371/Left/default/empty.gif/7a2f48693231343066595541446a6464?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/web.archive.org/aboutus/1334333982/Left/default/empty.gif/7a2f4868346c343035306341436f7a42?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/web.archive.org/aboutus/904515195/Left1/default/empty.gif/7a2f48693231343066595541446a6464?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/web.archive.org/aboutus/1632965718/Left1/default/empty.gif/7a2f4868346c343035306341436f7a42?x)
 
 [](http://www.nwsource.com/)
 
@@ -139,6 +139,8 @@ This text is invisible on the page, but this text is affected by the invisible i
 
 | 
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/web.archive.org/aboutus/1637960410/Position4/default/empty.gif/7a2f48693231343066595541446a6464?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/web.archive.org/aboutus/1751009852/Position4/default/empty.gif/7a2f4868346c343035306341436f7a42?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/web.archive.org/aboutus/1459163152/Position5/default/empty.gif/7a2f48693231343066595541446a6464?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/web.archive.org/aboutus/1510802127/Position5/default/empty.gif/7a2f4868346c343035306341436f7a42?x)
+
+###### Marketplace
