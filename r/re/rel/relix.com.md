@@ -1,6 +1,15 @@
-> *The following text is extracted and transformed from the relix.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217183707id_/http%3A//www.relix.com/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relix.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615005803id_/http%3A//relix.com/privacy.phtml) for the most accurate reproduction.*
 
 # r e l i x . c o m - Relix Magazine and Relix Records | Privacy Policy
+
+[Way to Go Home For RatDog](http://www.jambands.com/NewsArchives.phtml?newsfile=redesign_news279.html#6-12-19)     [&quot;Time Again&quot; For Washboard](http://www.jambands.com/NewsArchives.phtml?newsfile=redesign_news279.html#6-12-20)     [Seth Davis Slides Into A Great Southern Southbound](http://www.jambands.com/NewsArchives.phtml?newsfile=redesign_news279.html#6-12-21)     [A Brief Land Grab From The Biscuits](http://www.jambands.com/NewsArchives.phtml?newsfile=redesign_news279.html#6-12-18)     [Night of 1000 Breakfasts](http://www.jambands.com/NewsArchives.phtml?newsfile=redesign_news279.html#6-12-17)     [The Word on Wakarusa](http://www.relix.com/cgi-bin/content_list.cgi?type=news)     [ Brand New Dylan](http://www.relix.com/cgi-bin/content_list.cgi?type=news)     [Trey Anastasio Revisits Bar 17&#160;](http://www.relix.com/cgi-bin/content_list.cgi?type=news)     [Jambands.com Re-Launches Radio Charts](http://www.jambands.com/NewsArchives.phtml?newsfile=redesign_news279.html#6-12-22)     [The Floor's Too Far Away For Ozrics](http://www.jambands.com/NewsArchives.phtml?newsfile=redesign_news279.html#6-13-22)     [Kimock and Everyone](http://www.jambands.com/NewsArchives.phtml?newsfile=redesign_news279.html#6-14-17)       
+|   
+---  
+********  
+[](http://www.jambands.com/cgi-bin/btransfer.cgi?bid=792&posid=14)  
+  
+**Privacy Policy**   
+
 
 At Relix.com, our goal is to be your favorite destination for music information on the Internet. We do this by providing you with the information, services and products that are essential to you. To achieve this goal, we sometimes ask to collect data to help us understand what information, services and products will be most useful to you. 
 
@@ -21,3 +30,85 @@ A cookie is a small text file containing a unique identification number that is 
 You have the ability to configure your browsers to refuse acceptance of cookies. A cookie cannot pass on a computer virus, or even capture your e-mail address. Cookies help readers by saving such information as passwords and editorial preferences on user hard drives. 
 
 Please be aware that advertisers have links on our sites that take you to other sites that may collect personally identifiable information about you. We hope that all third parties involved adhere to policies that protect users' privacy. However, this privacy policy does not cover third party data collection practices and Relix does not assume any responsibility for any actions of third parties. 
+
+**Want the inside scoop on the music you care about?  
+Sign up for our award winning newsletter: [Click Here](https://web.archive.org/newsletter.phtml) **
+
+  
+[Advertising Info](https://web.archive.org/adsinfo.phtml) | [Contributor Guidelines](https://web.archive.org/coguide.phtml) | [Links](https://web.archive.org/linkspg.phtml) | [Privacy Policy](https://web.archive.org/privacy.phtml)  
+  
+[](http://www.relix.com/catalog.cgi?action=show_cat&catid=088_Relix%20Magazine) **  
+June 2006  
+**(on newsstands 5/30)   
+****  
+Exclusive Interview:   
+Pete Townshend  
+“This is Not a Rerun of the Old Circus Act”  **  
+
+
+  * 109 Summer Music Festivals You Can’t Miss
+  * From Bob Dylan to Bonnaroo: 10 Concerts that Changed the World
+  * Your Backstage Pass to the Jammys and Green Apple
+  * Les Claypool Waxes Poetic on Electric _Apricot: Quest for Festeroo_
+  * Gomez: Outsiders Among Us
+  * Warren Haynes Explores Gov’t Mule’s “Creative Tension”
+  * Lee “Scratch” Perry: Forever the Upsetter
+  * Plus Peter Frampton, Dweezil Zappa, Mike Gordon, Grace Potter, Mickey Hart and many, many more! 
+
+    
+**Read more in Relix**  
+On the newsstands and by [SUBSCRIPTION](http://www.relix.com/catalog.cgi?action=show_cat&catid=088_Relix%20Magazine)** **
+
+**Also in this issue:**   
+SCENE & HEARD  
+Mindful music from around the globe: The Beat, Soundcheck and Fragments
+
+REEL TIME  
+In the studio with Gov’t Mule
+
+FESTIVAL GUIDE **  
+********** It’s that time of year again: School’s letting out, the mercury is rising and the summer festival season is heating up! Once again, we present our guide to all the fun, from coast to coast.
+
+PARTING SHOTS   
+Lee “Scratch” Perry: Forever The Great Upsetter
+
+[  [Full Table of Contents ](https://web.archive.org/magtoc.phtml) ] 
+
+[](http://www.relix.com/radio)  
+NEW! [Relix Radio Podcasts](http://www.relix.com/radio) **  
+**Check out our new Relix Radio Podcast - Cold Turkey with Benjy Eisen and Mike Greenhaus  
+
+
+[](http://www.relix.com/radio) [](http://www.relix.com/radio) _  
+[](http://www.relix.com/catalog.cgi?action=show_cat&catid=088_Relix%20Magazine) _
+
+**FREE CD with Relix!  
+** · LES CLAYPOOL, "One Better"   
+· TIEDYE KEITH, "Big World"  
+· HOT TUNA, "Bill Graham Intro/Never Happen No More"  
+· WAGNER PA & BRAZUCA MATRACA, "Folia"  
+· CIRCUS MIND, "Drown in Your Sea"  
+· SAM BUSH, "New Country"  
+· LEE SCRATCH PERRY, "Pussy Man"  
+· FAMILY GROOVE COMPANY, "The Charmer"  
+· HABIB KOITE & BAMADA, "Wassiye"  
+· ALO, "Wasting Time"  
+· NEW RIDERS OF THE PURPLE SAGE, "Panama Red"  
+· KERMIT RUFFINS, "Drop Me Off in New Orleans"  
+· STOLEN OGRE, "Jericho"  
+
+
+This is the third of 6 FREE CDs in 2006.  
+[Sign up now!](http://www.relix.com/catalog.cgi?action=show_cat&catid=088_Relix%20Magazine)
+
+[](http://www.relix.com/catalog/catalog.cgi?catid=208_Back%20Issues%2d%202004%20to%202005&prod_id=i_MG3203&refid=21672&start_page=0&start_cat=&action=show_prod) [](http://www.relix.com/catalog/catalog.cgi?catid=208_Back%20Issues%2d%202004%20to%202005&prod_id=i_MG3201&refid=21672&start_page=0&start_cat=&action=show_prod)  
+**[](http://www.relix.com/catalog/catalog.cgi?catid=208_Back%20Issues%2d%202004%20to%202005&prod_id=i_MG3207&refid=21672&start_page=0&start_cat=&action=show_prod) [](http://www.relix.com/catalog/catalog.cgi?catid=208_Back%20Issues%2d%202004%20to%202005&prod_id=i_MG3204&refid=21672&start_page=0&start_cat=&action=show_prod)  
+Our past is your past: **  
+[2004 \+ 2005](http://www.relix.com/catalog/catalog.cgi?catid=208_Back%20Issues-%202004%20to%202005&refid=21672&start_page=0&start_cat=&action=show_cat)    
+[2003](https://web.archive.org/catalog.cgi?action=show_cat&catid=167_Back%20Issues%20-%202003)   
+[2002 \+ 2001](https://web.archive.org/catalog.cgi?action=show_cat&catid=168_Back%20Issues%20-%202002%20to%202001)   
+[2000 \- 1995](https://web.archive.org/catalog.cgi?action=show_cat&catid=169_Back%20Issues%20-%202000%20to%201995)   
+[before 1995](https://web.archive.org/catalog/catalog.cgi?catid=170_Back%20Issues%20-%201994%20to%201990&start_page=0&start_cat=&action=show_cat) **  
+  
+©Copyright Relix LLC 2000-2004. All rights reserved.  
+Relix LLC., 104 W. 29th Street, 11th Floor, New York, NY 10001, 646.230.0100 
