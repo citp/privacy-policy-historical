@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the nsdl.org privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217194825id_/http%3A//nsdl.org/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsdl.org privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614110435id_/http%3A//nsdl.org/help/%3Fpager%3Dprivacy) for the most accurate reproduction.*
 
 # NSDL - The National Science Digital Library
 
-[Help Intro](https://web.archive.org/help/) -> Collections
+Privacy Policy
 
-NSDL Privacy Policy in Brief
+The full NSDL Privacy Policy can be [downloaded here](http://comm.nsdl.org/download.php/179/Privacy_Draft-3.pdf).
 
-The full NSDL Privacy Policy can be [seen here](http://comm.nsdl.org/download.php/179/Privacy_Draft-3.pdf).
-
-**Introduction** The NSDL in general subscribes to the ALA Library Bill of Rights (<http://www.ala.org/work/freedom/lbr.html>). The document below describes briefly the NSDL provisions for protection of user privacy and confidentiality when using the NSDL Main Portal. 
+**Introduction** The NSDL in general subscribes to the [ALA Library Bill of Rights](http://www.ala.org/work/freedom/lbr.html). The document below describes briefly the NSDL provisions for protection of user privacy and confidentiality when using the NSDL Main Portal. 
 
 In a library, the right to privacy is the right to open inquiry without having the subject of one's interest examined or scrutinized by others. Confidentiality exists when a library is in possession of personally identifiable information about users and keeps that information private on their behalf. 
 
