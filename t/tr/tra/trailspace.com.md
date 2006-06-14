@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trailspace.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222032756id_/http%3A//www.trailspace.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trailspace.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614113335id_/http%3A//www.trailspace.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Trailspace.com
 
@@ -28,7 +28,7 @@ Some of our business partners (for example, advertisers) may also use cookies on
 
 ## Third Party Advertising
 
-The graphical and text-based ads appearing on this Web site are delivered to users by several Web advertising partners. Information about users� visit to this site, such as number of times they have viewed an ad (but not user name, address, or other personal information), is used to serve ads to users on this site. For more information about our advertising partners and their privacy policies, please follow the links below:
+The graphical and text-based ads appearing on this Web site are delivered to users by several Web advertising partners. Information about users' visits to this site, such as number of times they have viewed an ad (but not user name, address, or other personal information), is used to serve ads to users on this site. For more information about our advertising partners and their privacy policies, please follow the links below:
 
   * [Commission Junction Privacy Policy](http://www.cj.com/privacy.asp)
   * [LinkShare Privacy Policy](http://www.linkshare.com/home/privacy.shtml)
