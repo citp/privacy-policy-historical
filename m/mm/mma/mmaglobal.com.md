@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mmaglobal.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214151832id_/http%3A//mmaglobal.com/modules/content/index.php%3Fid%3D69) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmaglobal.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615005925id_/http%3A//mmaglobal.com/modules/content/index.php%3Fid%3D69) for the most accurate reproduction.*
 
 # MMA Global - Privacy Statement
 
@@ -26,7 +26,8 @@ MMA Initiatives & Policy
 [Best Practices](https://web.archive.org/modules/content/index.php?id=91)  
 [Standards](https://web.archive.org/modules/content/index.php?id=7)  
 Meetings & Events  
-[Calendar](https://web.archive.org/modules/piCal/)  
+[Event Calendar](https://web.archive.org/modules/piCal/)  
+[Mobile Marketing Forum](http://www.mobilemarketingforum.com/)  
 [Speaking Opportunities](https://web.archive.org/modules/content/index.php?id=11)  
 [Sponsorship Opportunities](https://web.archive.org/modules/content/index.php?id=12)  
 News Room  
@@ -87,4 +88,12 @@ We can be reached via e-mail at [](mailto:mma@mmaglobal.com)[mma@mmaglobal.com](
 
 | 
 
+[](mailto:laura.marriott@mmaglobal.com)
+
+JOIN THE MMA
+
+[](http://mmaglobal.com/modules/content/index.php?id=59)
+
 NEWSLETTER & ALERTS
+
+[](http://news.mmaglobal.com/page.cfm?name=subscribe)
