@@ -1,26 +1,26 @@
-> *The following text is extracted and transformed from the rei.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214112105id_/http%3A//rei.com/shared/help/privacy.html%3FstoreId%3D8000) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rei.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615012417id_/http%3A//www.rei.com/shared/help/privacy.html%3FstoreId%3D8000) for the most accurate reproduction.*
 
 # Help: Privacy and Security
 
 [Help](http://web.archive.org/rei/help/hintro.html) > Privacy and Security 
 
-  * [We Protect Your Privacy](https://web.archive.org/web/20051214112105id_/http%3A//rei.com/shared/help/privacy.html%3FstoreId%3D8000#1?storeId=8000)
-  * [Personal Information](https://web.archive.org/web/20051214112105id_/http%3A//rei.com/shared/help/privacy.html%3FstoreId%3D8000#2?storeId=8000)
-  * [The Information We Gather](https://web.archive.org/web/20051214112105id_/http%3A//rei.com/shared/help/privacy.html%3FstoreId%3D8000#3?storeId=8000)
-  * [Aggregate Data and Information Usage](https://web.archive.org/web/20051214112105id_/http%3A//rei.com/shared/help/privacy.html%3FstoreId%3D8000#4?storeId=8000)
-  * [Voluntary Registered Shopper Information](https://web.archive.org/web/20051214112105id_/http%3A//rei.com/shared/help/privacy.html%3FstoreId%3D8000#5?storeId=8000)
-  * [Click-Stream Data (and Cookie Technology)](https://web.archive.org/web/20051214112105id_/http%3A//rei.com/shared/help/privacy.html%3FstoreId%3D8000#6?storeId=8000)
-  * [Subscription Preferences](https://web.archive.org/web/20051214112105id_/http%3A//rei.com/shared/help/privacy.html%3FstoreId%3D8000#7?storeId=8000)
-  * [Communications from REI and Other Companies](https://web.archive.org/web/20051214112105id_/http%3A//rei.com/shared/help/privacy.html%3FstoreId%3D8000#8?storeId=8000)
+  * [We Protect Your Privacy](https://web.archive.org/web/20060615012417id_/http%3A//www.rei.com/shared/help/privacy.html%3FstoreId%3D8000#1?storeId=8000)
+  * [Personal Information](https://web.archive.org/web/20060615012417id_/http%3A//www.rei.com/shared/help/privacy.html%3FstoreId%3D8000#2?storeId=8000)
+  * [The Information We Gather](https://web.archive.org/web/20060615012417id_/http%3A//www.rei.com/shared/help/privacy.html%3FstoreId%3D8000#3?storeId=8000)
+  * [Aggregate Data and Information Usage](https://web.archive.org/web/20060615012417id_/http%3A//www.rei.com/shared/help/privacy.html%3FstoreId%3D8000#4?storeId=8000)
+  * [Voluntary Registered Shopper Information](https://web.archive.org/web/20060615012417id_/http%3A//www.rei.com/shared/help/privacy.html%3FstoreId%3D8000#5?storeId=8000)
+  * [Click-Stream Data (and Cookie Technology)](https://web.archive.org/web/20060615012417id_/http%3A//www.rei.com/shared/help/privacy.html%3FstoreId%3D8000#6?storeId=8000)
+  * [Subscription Preferences](https://web.archive.org/web/20060615012417id_/http%3A//www.rei.com/shared/help/privacy.html%3FstoreId%3D8000#7?storeId=8000)
+  * [Communications from REI and Other Companies](https://web.archive.org/web/20060615012417id_/http%3A//www.rei.com/shared/help/privacy.html%3FstoreId%3D8000#8?storeId=8000)
 
 
-  * [Other REI Privacy Notes](https://web.archive.org/web/20051214112105id_/http%3A//rei.com/shared/help/privacy.html%3FstoreId%3D8000#9?storeId=8000)
-  * [Privacy Policy Changes](https://web.archive.org/web/20051214112105id_/http%3A//rei.com/shared/help/privacy.html%3FstoreId%3D8000#10?storeId=8000)
-  * [Secure Shopping and Personal Information](https://web.archive.org/web/20051214112105id_/http%3A//rei.com/shared/help/privacy.html%3FstoreId%3D8000#11?storeId=8000)
-  * [The Transmission Of Sensitive Data](https://web.archive.org/web/20051214112105id_/http%3A//rei.com/shared/help/privacy.html%3FstoreId%3D8000#12?storeId=8000)
-  * [What Happens To My Information After REI Receives It?](https://web.archive.org/web/20051214112105id_/http%3A//rei.com/shared/help/privacy.html%3FstoreId%3D8000#13?storeId=8000)
-  * [REI's No-Risk Shopping Guarantee](https://web.archive.org/web/20051214112105id_/http%3A//rei.com/shared/help/privacy.html%3FstoreId%3D8000#14?storeId=8000)
-  * [Credit Card Security](https://web.archive.org/web/20051214112105id_/http%3A//rei.com/shared/help/privacy.html%3FstoreId%3D8000#15?storeId=8000)
+  * [Other REI Privacy Notes](https://web.archive.org/web/20060615012417id_/http%3A//www.rei.com/shared/help/privacy.html%3FstoreId%3D8000#9?storeId=8000)
+  * [Privacy Policy Changes](https://web.archive.org/web/20060615012417id_/http%3A//www.rei.com/shared/help/privacy.html%3FstoreId%3D8000#10?storeId=8000)
+  * [Secure Shopping and Personal Information](https://web.archive.org/web/20060615012417id_/http%3A//www.rei.com/shared/help/privacy.html%3FstoreId%3D8000#11?storeId=8000)
+  * [The Transmission Of Sensitive Data](https://web.archive.org/web/20060615012417id_/http%3A//www.rei.com/shared/help/privacy.html%3FstoreId%3D8000#12?storeId=8000)
+  * [What Happens To My Information After REI Receives It?](https://web.archive.org/web/20060615012417id_/http%3A//www.rei.com/shared/help/privacy.html%3FstoreId%3D8000#13?storeId=8000)
+  * [REI's No-Risk Shopping Guarantee](https://web.archive.org/web/20060615012417id_/http%3A//www.rei.com/shared/help/privacy.html%3FstoreId%3D8000#14?storeId=8000)
+  * [Credit Card Security](https://web.archive.org/web/20060615012417id_/http%3A//www.rei.com/shared/help/privacy.html%3FstoreId%3D8000#15?storeId=8000)
 
 
 
