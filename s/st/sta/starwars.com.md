@@ -1,18 +1,15 @@
-> *The following text is extracted and transformed from the starwars.com privacy policy that was archived on 2004-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041118024322id_/http%3A//www.starwars.com/site/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starwars.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615010658id_/http%3A//starwars.com/welcome/about/privacy_policy.html) for the most accurate reproduction.*
 
-# Star Wars: Site Info | Privacy Policy
+# Star Wars: Welcome | Privacy Policy
 
-| 
-
-   
-  
-| [starwars.com](https://web.archive.org/) |  | [Site Info](https://web.archive.org/site/) |  | Privacy Policy  
----|---|---|---|---  
-  
-**Privacy Policy**  
+|  [](https://web.archive.org/welcome/)  
 
 
-| 
+|  |  | 
+
+Privacy Policy
+
+| | 
 
 **Lucas Online**
 
@@ -148,22 +145,13 @@ The terms of this Privacy Policy apply to all information submitted on this Web 
 
 We hope you have a better understanding of our commitment to protect privacy. If you have any questions or comments about anything in this Privacy Policy, please contact us at the address below.
 
-If you wish to review, correct or delete information that Lucasfilm may have about you or your child, or wish to inform us that you do not permit further collection or use of your child’s information, please contact us at the following address:   
-  
-Webmaster  
-P.O. Box 10228  
-San Rafael, CA 94912  
-(415) 662-1555  
-Attn: Webmaster   
-[webmaster@starwars.com](mailto:webmaster@starwars.com)
+If you wish to review, correct or delete information that Lucasfilm may have about you or your child, or wish to inform us that you do not permit further collection or use of your child’s information, please contact us at the following address: 
 
-Or [click here](https://web.archive.org/share/feedback/privacy.html) to submit your questions online. 
-
-For additional information about our Web site, please see our [Terms of Use.](https://web.archive.org/site/copyright.html) To see the other operators who may collect personal information from this website, please view the Privacy Policy: Appendix A, by clicking [here](https://web.archive.org/site/privacy_policy_a.html).
+For additional information about our Web site, please see our [Terms of Use.](https://web.archive.org/welcome/about/copyright.html) To see the other operators who may collect personal information from this website, please view the Privacy Policy: Appendix A, by clicking [here](https://web.archive.org/welcome/about/privacy_policy_a.html).
 
 Thanks. Have fun! Back to start of Our Privacy Policy. 
 
-© 2004 Lucasfilm Ltd. and/or its affiliated and related entities. All rights reserved.
+© 2020 Lucasfilm Ltd. and/or its affiliated and related entities. All rights reserved.
 
 Effective Date: 12/23/02 [](http://www.bbbonline.org/cks.asp?id=30012011473813365)
 
@@ -173,11 +161,13 @@ We participate in the BBBOnline Privacy Program. See [www.bbbonline.com](http://
 ---|---|---  
   
   
-
-
-| 
-
-[](https://web.archive.org/site/)
-
   
+|   
+  
+  
+
+
+© Lucasfilm 2020. All rights reserved. | [Terms of Use](https://web.archive.org/welcome/about/copyright.html) | [Privacy Policy](https://web.archive.org/welcome/about/privacy_policy.html) | [Business inquiries](https://web.archive.org/welcome/about/privacy_policy_a.html)
+
+|    
 
