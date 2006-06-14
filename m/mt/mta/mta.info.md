@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mta.info privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231190036id_/http%3A//www.mta.info/mta/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mta.info privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615001327id_/http%3A//www.mta.info/mta/privacy.htm) for the most accurate reproduction.*
 
 # MTA - Internet Privacy Policy
 
@@ -85,3 +85,6 @@ MTA Website Privacy Compliance Officer
 Metropolitan Transportation Authority  
 347 Madison Avenue  
 New York, New York 10017
+
+Machine translations are imperfect. This service is intended to provide basic understanding of MTA website  
+content, but the translation is literal and may misrepresent names and idiomatic expressions.
