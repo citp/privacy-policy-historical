@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the submit.biz privacy policy that was archived on 2005-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050828030030id_/http%3A//www.submit.biz/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the submit.biz privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614191505id_/http%3A//www.submit.biz/privacy.php) for the most accurate reproduction.*
 
-# web promotion by submit.biz
+# Search engine marketing and top search engine placement :: Submit.biz
 
 Submit.biz and Worldwide Marketing strongly believes in protecting consumer privacy. This statement describes the privacy practices for the Worldwide-Marketing Web sites: 
 
-If you have questions or concerns regarding this statement, [ click here](mailto:admin@submit.biz?subject=Questions)
+If you have questions or concerns regarding this statement, [ click here](http://webpromotion.supportdesk.co.uk/)
 
 **1\. What information do we gather and track, and what do we do with it?**
 
@@ -57,10 +57,10 @@ We provide the following options for changing and updating information you previ
   * Send a letter to our postal address:  
 Dept. submit.biz  
 Worldwide Marketing  
-Silver Birches  
-Bendarroch Road  
-Ottery St Mary  
-EX11 1TS  
+2 Barton Orchard  
+Tipton St John  
+Devon  
+EX10 AN  
 England. 
   * Call us on: (44) 0845 058 0561 - lo-call rate number  
 Fax us on: (44) 0870 737 9182    
@@ -74,10 +74,10 @@ Mon - Fri: 9:30am till 5:30pm
 
 This web site is operated by:  
 Worldwide Marketing  
-Silver Birches  
-Bendarroch Road  
-Ottery St Mary  
-EX11 1TS  
+2 Barton Orchard  
+Tipton St John  
+Devon  
+EX10 AN  
 England.  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with our company, please do not hesitate to contact us using our contact form, email us or write to the above address, please include the web site address. You can also use this address if you wish to request from Worldwide-Marketing a copy of the personal data we hold about you or a description of that data. Please note that by English law we are entitled to charge you a small sum for providing this information. 
 
@@ -90,3 +90,5 @@ This web site may contains links to other sites. We are not responsible for the 
 
 
 
+
+We reserve the right to add, delete or amend these terms and condition with immediate effect.
