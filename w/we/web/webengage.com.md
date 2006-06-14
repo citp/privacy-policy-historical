@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webengage.com privacy policy that was archived on 2005-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051124091931id_/http%3A//webengage.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webengage.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614223640id_/http%3A//webengage.com/legal/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement - WebEngage
 
@@ -60,4 +60,4 @@ E-mail comments should be directed to: [privacy@webengage.com](mailto:privacy@we
 
 _Updated May 2002_
 
-[Copyright © 2001-2005 WebEngage, Inc.](https://web.archive.org/legal/copyright.php)   +    [Privacy](https://web.archive.org/legal/privacy.php)   +    [Terms of Use](https://web.archive.org/legal/terms.php)   +    [Built by Prescient](http://www.prescientsoftware.com/)
+[Copyright © 2001-2006 WebEngage, Inc.](https://web.archive.org/legal/copyright.php)   +    [Privacy](https://web.archive.org/legal/privacy.php)   +    [Terms of Use](https://web.archive.org/legal/terms.php)   +    [Built by Prescient](http://www.prescientsoftware.com/)
