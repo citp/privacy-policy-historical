@@ -1,23 +1,35 @@
-> *The following text is extracted and transformed from the webex.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231163330id_/http%3A//www.webex.com/webex_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webex.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615012959id_/http%3A//webex.com/webex_privacy.html) for the most accurate reproduction.*
 
 # Privacy statement: WebEx
 
   
-WebEx respects your privacy. When using our sites, you may get information, access online products and services, communicate with us or link to other Web sites with which we do business. While doing that, you may give us information so that we can provide enhanced products or services to you and to personalize your experience on our website. This online privacy policy describes how we use and protect Individual Identifying Information that you share with us. "Individual Identifying Information" is information that enables us to identify you, such as your email address, name, title and mailing address. 
+WebEx respects your privacy. When using our sites, you may get information, access online products and services, communicate with us or link to other web sites with which we do business. While doing that, you may give us information so that we can provide enhanced products or services to you and to personalize your experience on our website. This online privacy policy describes how we use and protect Personally Identifiable Information that you share with us ("PII”). 
 
-This policy governs Web-sites owned and operated by WebEx. Our policy does not govern Web-sites of other parties to which we may provide links, because WebEx is not responsible, and can not control the privacy practices or content of those sites. To demonstrate our commitment to fair information practices, we have adopted leading communication industry privacy guidelines. 
-
-We want to give you the comfort and confidence you need to fully participate in our online offerings so that we can better serve your needs. Therefore, here are the principles governing our information practices and other privacy aspects of our Web sites:
+The following principles govern web-sites owned and operated by WebEx. These principles do not govern web-sites of other parties to which we may provide only links because WebEx is not responsible, and can not control the privacy practices or content of those sites. 
 
   |  Information Collection and Use  
   
 
 
-  * WebEx collects Individual Identifying Information when you register for a WebEx account, or use certain WebEx products or services, when you visit WebEx pages, and when you enter promotions or sweepstakes. WebEx may also receive Individual Identifying Information from our business partners. 
-  * When you register with WebEx, we ask for your name, email address, birth date, gender, zip code, occupation, industry, and personal interests, or other information. Once you register with WebEx and sign in to our services, you are not anonymous to us. 
+  * WebEx collects PII when you register for a WebEx account or use the WebEx products or services for the following purposes: 
+    * to deliver the products and services you or your company have ordered for your use from WebEx; 
+    * to maintain accounting and billing contact information and other financial records; 
+    * to customize the advertising and content you see, 
+    * to contact you regarding our services unless you elected not to receive these communications. 
+  * When you register with WebEx, we ask for your name, email address, physical address, telephone numbers and, in some cases credit card information when you order services on-line. Some of our customers use WebEx services to provide sessions, such as web seminars, which require the participants to register prior to attending the session. When you register for one of these sessions, you may be asked to provide additional information such as your birth date, gender, zip code, occupation, industry, and personal interests. This information is provided to the customer hosting the session. WebEx may store this information on behalf of our customers as necessary to fulfill our obligations to our customers. WebEx requires that all such customers use, hold and process such PII in accordance with applicable privacy laws. 
   * WebEx also automatically receives and records information on our server logs from your browser including your IP address, WebEx cookie information and the page you requested. 
-  * WebEx uses information for three general purposes: to customize the advertising and content you see, to fulfill your requests for certain products and services, and to contact you about specials and new products. 
-  * WebEx routinely time-stamps and logs events (like features used, number of participants, length of meetings.) This data is used for accounting/billing purposes as well as for performance tuning and optimization of the WebEx services. 
+  * WebEx routinely collects information that cannot be identified to a particular individual such as time-stamps and logs events (like features used, number of participants, length of meetings.) This data is used for accounting/billing purposes as well as for performance and optimization of the WebEx services. 
+
+  
+---|---  
+  |  Retention and Relevance  
+  
+If we change any of our privacy policies or practices, we'll post those changes to this policy statement at least 30 days before they take effect. In limited cases, we may be required to disclose certain information to comply with a legal process, such as a court order, subpoena or search warrant.  
+
+
+  * WebEx may use and retain your PII when you use certain WebEx products or services, when you visit WebEx pages, and when you enter promotions or sweepstakes. WebEx may also receive PII from our business partners. 
+  * WebEx retains the PII that it collects only for the period of time such information is required to achieve the purposes set forth above. Generally, the retention period, will not be greater than one year after you cease to be an active customer depending on the purpose and any regulatory or audit requirements (e.g. financial records may be retained for a longer period to satisfy audit requirements). 
+  * WebEx uses and retains only your PII which is directly relevant to the purpose for which it is collected. This information is retained as you provide it but will be updated when you notify us of changes in order to maintain its accuracy. 
 
   
 ---|---  
@@ -25,116 +37,30 @@ We want to give you the comfort and confidence you need to fully participate in 
   
 
 
-  * WebEx will not sell or rent your Individual Identifying Information to anyone. 
-  * WebEx will send Individual Identifying Information about you to other companies or people when: 
+  * WebEx will not sell or rent your PII to anyone. 
+  * WebEx will send PII about you to other companies or people only when: 
     * We have your consent to share the information; 
-    * We need to share your information to provide the product or service you have requested;
-    * We need to send the information to companies who work on behalf of WebEx to provide a product or service to you. (Unless we tell you differently, these companies do not have any right to use the Individual Identifying Information we provide to them beyond what is necessary to assist us.); 
+    * We need to share your information to provide the product or service you have requested; 
+    * We need to send the information to companies who work on behalf of WebEx to provide a WebEx product or service or to otherwise assist WebEx with its business activities. (Unless we tell you otherwise, these companies do not have any right to use the PII we provide to them beyond what is necessary to assist us and are required to safeguard PII and not to disclose PII to others); 
     * We respond to subpoenas, court orders or legal process; or 
-    * We find that your actions on our Web sites violate the [WebEx Terms of Service](https://web.archive.org/webex_terms.html), or any of our usage guidelines for specific products or services. 
+    * We find that your actions on our Web sites violate the WebEx Terms of Service, 
 
   
 ---|---  
-  |  WebEx Customer Account Maintenance & Service Profile  
-You have the ability to edit your WebEx Account Information, including subscriptions for non-account specific email and general promotions, at any time. To request account maintenance, contact WebEx Customer Services at support@webex.com or call +1-866-229-3239 or +1-408-435-7088.  
-
-
-
+  |  PII Edits, Corrections or Erasures.  
   
----|---  
-  |  WebEx Prospect Opt Out Profile  
-WebEx gives you the ability to edit your prospect profile and preferences at any time, including whether you want WebEx to contact you about special offers and new products. If you would prefer not to receive messages from WebEx in the future, or if you just want to update your profile, please indicate your preferences through the following link <http://try.webex.com/mk/get/profile>. WebEx respects your privacy and will not sell or rent your personal information.   
+You have the ability to direct WebEx to edit, correct or erase your PII , at any time. To request such account maintenance send your email request to [privacy@webex.com](mailto:privacy@webex.com). You may also indicate that you do not wish to receive messages from WebEx regarding our services or update your information relating to such messages at [unsubscribe@webex.com](mailto:unsubscribe@webex.com). Following your request for either type of data editing, your information will be changed in WebEx’s data bases after we receive the information necessary to process your request.  
 
 
 
   
 ---|---  
-  |  Security  
-WebEx Meetings take place within the context of a switched communications environment. With WebEx, any session information (such as applications, chat, polling data, documents, video, and voice) provided by participants within a meeting is never saved on the WebEx switching platform but is instead instantly switched between meeting participants. The WebEx switching environment is architected similarly to the telephone switching environment; once the call is over all remnants of the content of that call dissipate, leaving only a record that a call took place. Further, the only means to participate in a meeting is through the WebEx invitation and join process; WebEx employees can therefore only participate in WebEx customer meetings when expressly permitted by our customer.  
-
-
-  * Your WebEx Account Information is password-protected for your privacy and security. 
-  * In certain areas WebEx uses industry-standard SSL-encryption to protect data transmissions. 
-  * In other areas WebEx uses proprietary security methods to protect data transmissions. 
-
-  
----|---  
-  |  Changes to this Privacy Policy  
-If we change any of our privacy policies or practices, we'll post those changes to this policy statement at least 30 days before they take effect. In limited cases, we may be required to disclose certain information to comply with a legal process, such as a court order, subpoena or search warrant.  
-
-
-
-  
----|---  
-  |  Questions or Suggestions  
+  |  Confidentiality  
   
 
 
-  * If you have questions or suggestions complete a feedback form or send an email to [security@webex.com. ](mailto:security@webex.com)
-
-  
----|---  
-  |  IP Information Collection and Use Practices  
-  
-
-
-  * WebEx receives IP addresses from all users because this information is automatically reported by your browser each time you view a Web page. 
-  * Your IP address is also stored in our user registration databases when you register with WebEx. 
-  * When a WebEx Web page is requested and viewed, that request is logged on our servers with information including the IP address of the computer that requested the page. 
-  * IP addresses may be used for various purposes, including to: 
-    * Diagnose service or technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific Web company or ISP. 
-    * Send the most appropriate advertising based on geographic area or information derived from your IP address. Many IP addresses are commonly associated with Internet service providers, universities, or major corporations in specific regions or localities. Aggregate information derived from IP addresses may also be reported to advertisers. 
-    * Estimate the total number of users visiting WebEx from specific countries or regions of the world.
-
-  
----|---  
-  |  Cookies  
-A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a Web site's computers and stored on your computer's hard drive.  
-Each Web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites.  
-_Choices about Cookies_   
-
-
-  * You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. (Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.) 
-  * If you reject all cookies, you will not be able to use WebEx products or services that require you to "sign in," and you may not be able to take full advantage of all offerings. However, many WebEx products and services do not require that you accept cookies. 
-
-  
----|---  
-  |    
-_WebEx's Practices Regarding Cookies_  
-WebEx uses cookies for a number of purposes, including to: 
-
-  * Access your information when you "sign in," so that we can provide you with customized content. 
-  * Keep track of preferences you specify while you are using WebEx's services. 
-  * Display the most appropriate advertising banners, based on your interests and activity on WebEx. 
-  * Estimate and report our total audience size and traffic. 
-  * Conduct research to improve WebEx's content and services. 
-  * Require you to re-enter your WebEx password after a certain period of time has elapsed to protect you against others accidentally accessing your account contents. 
-
-  
----|---  
-  |  Data Storage  
-_Account Information_   
-
-
-  * When you register with WebEx or submit information to WebEx, a temporary copy of that information is routinely made to prevent accidental loss of your information through a computer malfunction or human error. 
-  * WebEx keeps your account information active in our user registration databases in order to provide immediate access to your personalization preferences each time you visit WebEx. 
-  * If you ask WebEx to delete your WebEx account, in most cases your account will be deactivated and then deleted from our user registration database in approximately 90 days. This delay is necessary to discourage users from engaging in fraudulent activity. 
-  * Please note that any information that we have copied may remain in back-up storage for some period of time after your deletion request. This may be the case even though no information about your account remains in our active user databases. 
-
-  
----|---  
-  |    
-_Servers_
-
-  * The WebEx computers (called "servers") that send your Web pages and advertising banners process and store an enormous amount of information every day. These computer records are called "log files." 
-  * Log files are used for analysis, research, auditing, and other purposes, as described above. After this information has been used, it is stored and is inaccessible. Until the information is stored, your WebEx ID may remain in our active server log files. 
-
-  
----|---  
-  |  Contact Us  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [security@webex.com.](mailto:security@webex.com)  
-
-
+  * Service Design and Technology. The WebEx switching environment is designed similarly to the telephone switching environment. Once the meeting is over the content of the meeting is not retained by WebEx unless the customer specifically requests that the content be recorded. WebEx uses industry standard encryption as well as its own proprietary technology to protect PII and meeting content. 
+  * Further, the only means to participate in a meeting is through the WebEx invitation and join meeting process, which should include a password for each meeting. WebEx strongly recommends that all meetings be protected by passwords. In addition, the host has full control over attendee presence and may eject unwanted participants or lock a meeting to prevent additional participants. 
 
   
 ---|---
