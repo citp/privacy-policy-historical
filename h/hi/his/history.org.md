@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the history.org privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231225958id_/http%3A//www.history.org/foundation/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the history.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615004137id_/http%3A//history.org/foundation/privacy.cfm) for the most accurate reproduction.*
 
 # Colonial Williamsburg:Privacy Policy
 
@@ -50,6 +50,6 @@ Companies that participate in this service will stop the rental of your name.
 **How to Reach Us  
 **For comments about this Web site contact the [Webmaster. ](mailto:mstutz@cwf.org)
 
-For a more specific policy for williamsburgmarketplace.com, please view [www.williamsburgmarketplace.com/privacy.asp](http://www.williamsburgmarketplace.com/privacy.asp).
+For a more specific policy for williamsburgmarketplace.com, please view [www.williamsburgmarketplace.com/privacy.asp](https://www.williamsburgmarketplace.com/webapp/wcs/stores/servlet/PrivacyPolicyView?storeId=10001&catalogId=10602&langId=-1).
 
 This Privacy Policy was last updated December 20, 2004. Future updates to our policy will be noted here.
