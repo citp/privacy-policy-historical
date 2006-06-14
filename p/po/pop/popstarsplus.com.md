@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popstarsplus.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231200821id_/http%3A//www.popstarsplus.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popstarsplus.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614043747id_/http%3A//popstarsplus.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
@@ -7,7 +7,7 @@
 We at PopStarsPlus.com are committed to protecting the privacy of our internet visitor. Below is information outlining our continued support for the responsible management of consumer information.
 
 **Consumer Information**  
-PopStarsPlus.com does not collect any personally identifiable information about you such as name, address, phone number, or e-mail address. However, we do obtain some types of non-personally identifiable information such as your browser type, or the type of computer operating system you use (Macintosh or Windows, for example). The information collected by PopStarsPlus.com is used for the purpose of improving our website for all our visitors.
+PopStarsPlus.com does not collect any personally identifiable information about you such as name, address, phone number, or e-mail address. The only exception is for mailing prizes to contest winners. However, we do obtain some types of non-personally identifiable information such as your browser type, or the type of computer operating system you use (Macintosh or Windows, for example). The information collected by PopStarsPlus.com is used for the purpose of improving our website for all our visitors.
 
 In some cases, you may voluntarily provide personal information for example when adding a site. If this occurs, PopStarsPlus.com will NOT give this information to a third party.
 
