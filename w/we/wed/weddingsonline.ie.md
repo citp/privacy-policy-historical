@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weddingsonline.ie privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217230440id_/http%3A//www.weddingsonline.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingsonline.ie privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614075053id_/http%3A//weddingsonline.ie/privacy) for the most accurate reproduction.*
 
 # WeddingsOnline.ie - Privacy Policy - Weddings in Ireland, Irish Wedding Directory, Wedding Resources Ireland, Getting Married in Ireland
 
