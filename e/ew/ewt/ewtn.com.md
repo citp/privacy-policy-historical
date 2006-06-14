@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ewtn.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228025955id_/http%3A//www.ewtn.com/general/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ewtn.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615014538id_/http%3A//www.ewtn.com/general/privacy_policy.asp) for the most accurate reproduction.*
 
 # EWTN Background
 
