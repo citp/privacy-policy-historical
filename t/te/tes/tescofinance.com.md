@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tescofinance.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215044549id_/http%3A//www.tescofinance.com/personal/finance/security/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tescofinance.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615012618id_/http%3A//www.tescofinance.com/personal/finance/security/privacy.html) for the most accurate reproduction.*
 
 # Security and legal: Privacy policy - Tesco Personal Finance
 
@@ -79,7 +79,7 @@ Most browsers allow you to turn off the cookie function. If you want to know how
 
 ## Accessing your data, and resolving disputes
 
-We invite you to contact us if you have questions about this policy, or if you have a problem with the data that we hold about you, or if you think we have not followed our privacy policy in some way. You may contact our product areas by post or telephone. Check our [Contact Us](https://web.archive.org/web/20051215044549id_/http%3A//www.tescofinance.com/personal/finance/help/contact_us.html) page for the addresses and telephone numbers to contact.
+We invite you to contact us if you have questions about this policy, or if you have a problem with the data that we hold about you, or if you think we have not followed our privacy policy in some way. You may contact our product areas by post or telephone. Check our [Contact Us](https://web.archive.org/web/20060615012618id_/http%3A//www.tescofinance.com/personal/finance/help/contact_us.html) page for the addresses and telephone numbers to contact.
 
 ## Additional information
 
