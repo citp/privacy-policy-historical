@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the futuresmag.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231015743id_/http%3A//www.futuresmag.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futuresmag.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614184145id_/http%3A//www.futuresmag.com/privacy.html) for the most accurate reproduction.*
 
 # futuresmag.com: Privacy policy
 
@@ -35,12 +35,7 @@ This site makes chat rooms, forums, message boards, and/or news groups available
 This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. These measures include, but are not limited to, extensive network security protection systems, and security monitoring. 
 
 **Choice/Opt-Out**   
-Our site provides users the opportunity to opt-out of receiving promotional/marketing information from our partners, and us: 
+Our site provides users the opportunity to opt-out of receiving promotional/marketing information from our partners, and us. Please notify us at [FuturesMag@highlinemedia.com](mailto:futuresmag@highlinemedia.com)
 
-1) You can send email to [webmaster@aip.com](mailto:webmaster@aip.com). 
-
-Data Quality/Access This site gives users the following options for changing and modifying information previously provided: 
-
-1) You can send email to [webmaster@aip.com](mailto:webmaster@aip.com). 
-
-Contacting the Web Site If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact (via email): [webmaster@aip.com ](mailto:webmaster@aip.com). 
+**Contacting the Web Site**   
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at [FuturesMag@highlinemedia.com](mailto:futuresmag@highlinemedia.com) . 
