@@ -1,60 +1,22 @@
-> *The following text is extracted and transformed from the webmasterinfoandcontent.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228210044id_/http%3A//www.webmasterinfoandcontent.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmasterinfoandcontent.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614021851id_/http%3A//www.webmasterinfoandcontent.com/privacy.php) for the most accurate reproduction.*
 
-# webmasterinfoandcontent.com privacy policy.
+# privacy policy for our website.
 
-Webmasterinfoandcontent.com uses this privacy policy in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for webmasterinfoandcontent.com. 
-
-Information Automatically Logged 
-
-We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to gather broad demographic information. 
-
-Cookies 
-
-Our Site uses cookies to keep track of your shopping cart. We also use cookies to deliver content specific to your interests, to save your password so you don't have to re-enter it each time you visit our site. 
-
-Registration Forms 
-
-Our site's registration form requires users to give us contact information (like their name, email, and postal address) and demographic information (like their zip code, age, or income level). 
-
-Contact Info Usage 
-
-Contact information from the registration forms is used to send information about our company, and to send promotional material from some of our partners to our customers. The customer's contact information is also used to get in touch with the customer when necessary. 
-
-Demographic and profile data is also collected at our site. 
-
-We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences. 
-
-Order Forms 
-
-Our site may, in some cases, use an order form for customers to request information, products, and services. We collect contact information (like their email address). 
+   Webmasterinfoandcontent.com uses this privacy policy in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for webmasterinfoandcontent.com. , or income level). 
 
 Contact information from the order forms is used to ship purchases, information about our company, and to send promotional material from some of our partners to our customers. The customer's contact information is also used to get in touch with the visitor when necessary. 
 
 Users may opt-out of receiving future mailings. 
 
-Financial information that is collected is used to check the users' qualifications for registration, to bill the user for products and services. 
-
-Surveys 
-
-We will occassionally run surveys where user information is collected. 
-
-Our online surveys ask visitors for contact information (like email address) and demographic information (like zip code, age, or income level). 
-
-Contact information from the surveys is used to ship purchases, information about our company. The customer's contact information is also used to send promotional material from some of our partners to our customers, and to get in touch with the visitor when necessary. 
-
-Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences. 
-
-Contests 
-
 We may, on certain occassions, run contests on our site in which we ask visitors for contact information (like email address). 
 
-Contact information from the contests is used to ship purchases, information about our company, and to send promotional material from some of our partners to our customers. The customer's contact information is also used to get in touch with the visitor when necessary. 
+Contact information from the contests is used to ship purchases, information about our company, and to send promotional material from some of our partners to our customers. 
 
 Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
 
 External Links 
 
-This site contains links to other sites. ArticleCity.com is not responsible for the privacy practices or the content of such Web sites. 
+This site contains links to other sites. We are not responsible for the privacy practices or the content of such Web sites. 
 
 Security 
 
