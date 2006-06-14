@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newswise.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224042507id_/http%3A//newswise.com/about/policy/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newswise.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615004808id_/http%3A//newswise.com/about/policy/%23privacy) for the most accurate reproduction.*
 
 # Newswise
 
@@ -37,7 +37,7 @@ The Newswise vision is to improve the relationship between journalists and publi
 
 Newswise maintains a comprehensive online database of knowledge-based news. It is a one-stop site for reporters to manage information within focused domains. Newswise currently comprises scientific, medical, liberal arts, and business research news, with plans to grow in additional sectors. 
 
-Newswise offers a seamless combination of web and email tools to access its database of knowledge-based news. This use of both email and web makes it easier for journalists to access the news; we deliver it to them, but only the news categories they choose, and on the schedule they select. Newswise currently archives more than 41,000 high-caliber news stories, and each is full-text searchable. 
+Newswise offers a seamless combination of web and email tools to access its database of knowledge-based news. This use of both email and web makes it easier for journalists to access the news; we deliver it to them, but only the news categories they choose, and on the schedule they select. Newswise currently archives more than 48,000 high-caliber news stories, and each is full-text searchable. 
 
 Newswise also maintains a complement of other tools for journalists, including online calendars of science and medical meetings, and a database of awards, grants, and fellowships. We also broker and amplify reporters' searches for experts with an Expert Query service; this allows journalists to access experts in science, medicine, liberal arts, and business in a simple way. A variety of new online tools will continue to be added to this kit. 
 
