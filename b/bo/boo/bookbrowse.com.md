@@ -1,17 +1,21 @@
-> *The following text is extracted and transformed from the bookbrowse.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230080331id_/http%3A//www.bookbrowse.com/information/index.cfm%3Ffuseaction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookbrowse.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615002322id_/http%3A//www.bookbrowse.com/information/index.cfm%3Ffuseaction%3Dprivacy) for the most accurate reproduction.*
 
-# BookBrowse.com // A literary feast of exceptional books
+# BookBrowse.com: Your guide to exceptional books
 
+   Privacy Statement  
+  
 BookBrowse.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this website. 
 
 **Personal Information**   
-BookBrowse.com does not collect any personal information about a visitor unless that visitor specifically provides us an email address, in order to receive the weekly magazine or enter a contest. 
+BookBrowse.com does not collect any personal information about a visitor unless that visitor specifically provides us an email address. 
 
-We do not sell, share or rent email addresses. 
+The email addresses of those subscribing to BookBrowse's monthly magazine are added to the magazine mailing list stored in a secure location at our email host, Constant Contact. 
 
-The email addresses of those subscribing to the weekly magazine are added to the magazine mailing list stored in a secure location at our email host, Constant Contact. 
+Email addresses collected when people enter BookBrowse giveaways, quizzes or take part in our annual consumer survey 'thank you giveaway', are used only to select the winning names and are deleted once the winners have claimed their prizes. 
 
-Email addresses collected when people enter BookBrowse giveaways, quizzes or take part in our annual consumer survey 'thank you giveaway', are deleted once the winners have been contacted. 
+Membership information is stored on a secure server. 
+
+_**We have never; and will never; sell, give-away or rent email addresses, or any other personal information.**_
 
 **Tell-A-Friend Tool**   
 Visitors often wish to tell a friend about a particular page at BookBrowse, or send themselves a reminder. For this reason, like many other websites, BookBrowse provides a convenient 'tell-a-friend' tool that allows you to send a personal message to a friend telling them about BookBrowse. 
@@ -45,4 +49,4 @@ _Advertising_
 From time to time we use third-party advertising companies to serve ads on our Web site. These companies use cookies to track your visits to this and other websites in order to provide advertisements that may be of interest to you. The information about you does not include personal details such as your name or address, it is simply a cookie (as explained in the previous section) that tracks general traffic movements. If you would like more information about this practice, or you would like to opt out from having your data collected by some advertising networks, please [click here](http://www.networkadvertising.org/optout_nonppii.asp "opt out of ads"). 
 
 **Contacting BookBrowse.com**   
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please [contact us](https://web.archive.org/web/20051230080331id_/http%3A//www.bookbrowse.com/information/contactus "contact us"). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please [contact us](https://web.archive.org/web/20060615002322id_/http%3A//www.bookbrowse.com/information/contactus "contact us"). 
