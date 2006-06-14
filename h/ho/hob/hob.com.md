@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hob.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218183505id_/http%3A//hob.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hob.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615015008id_/http%3A//hob.com/support/privacy) for the most accurate reproduction.*
 
 # Internet Privacy Policy : HOB.com
 
