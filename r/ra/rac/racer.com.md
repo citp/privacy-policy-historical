@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the racer.com privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227122257id_/http%3A//www.racer.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racer.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614070233id_/http%3A//www.racer.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Racer Communications
 
