@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the calendars.com privacy policy that was archived on 2005-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051219170806id_/http%3A//www.fuzeqna.com/calendars/consumer/kbdetail.asp%3Fkbid%3D41) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the calendars.com privacy policy that was archived on 2006-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615003653id_/http%3A//www.fuzeqna.com/calendars/consumer/kbdetail.asp%3Fkbid%3D41) for the most accurate reproduction.-->
 
 <html><head>
 <meta name="GENERATOR" content="Microsoft Visual Studio 6.0">
@@ -29,6 +29,7 @@ border-color:#FFE65F;
 .LeftEndCapStyle
 {
 text-align:right;
+vertical-align:top;
 line-height:19pt;
 border-style:solid;
 border-bottom:none;
@@ -69,6 +70,7 @@ FONT-SIZE: 8pt
 
 .whitelabel
 {
+background-color:FFAD00;
 COLOR: #FFFFFF;
 FONT-FAMILY: Verdana;
 FONT-SIZE: 10pt;
@@ -118,11 +120,75 @@ FONT-SIZE: 10pt;
 FONT-WEIGHT: bold
 }
 
+.blackhelpheader
+{
+COLOR: #000000;
+FONT-FAMILY: Verdana;
+FONT-SIZE: 12pt;
+FONT-WEIGHT: bold;
+}
+
+.helplink
+{
+COLOR: #000000;
+FONT-FAMILY: Verdana;
+FONT-SIZE: 9pt;
+FONT-WEIGHT: bold
+}
+
+.helplink a:link {
+COLOR: #000000;
+FONT-FAMILY: Verdana;
+FONT-SIZE: 9pt;
+FONT-WEIGHT: bold;
+Text-decoration:none;
+}
+
 .GreyLabel
 {
 	background-color: #cccccc;
 }
 
+.GreyLabelTableBorder{
+	background-color: #cccccc;
+}
+
+.GrayLabelTable{
+	border: 1px solid #cccccc;
+}
+
+.GrayLabel
+{
+	background-color: #cccccc;
+	border-bottom:1px solid #FFFFFF;
+	COLOR: #000000;
+	FONT-FAMILY: Verdana;
+	FONT-SIZE: 10pt;
+	FONT-WEIGHT: bold;
+	text-align:right;
+	padding:8px;
+}
+
+.GrayLabelData
+{
+	border-bottom:1px solid #cccccc;
+	padding:8px;
+}
+
+.GrayLabelDataBottom{
+	padding:8px;
+}
+
+.GrayLabelBottom
+{
+	background-color: #cccccc;
+	COLOR: #000000;
+	FONT-FAMILY: Verdana;
+	FONT-SIZE: 10pt;
+	FONT-WEIGHT: bold;
+	text-align:right;
+	padding:8px;
+}
 
 BODY
 {
@@ -141,7 +207,13 @@ FONT-SIZE: 9pt
 
 .small
 {
-COLOR: 000000;
+FONT-FAMILY: Verdana;
+FONT-SIZE: 8pt;
+}
+
+.smallgray
+{
+COLOR: Gray;
 FONT-FAMILY: Verdana;
 FONT-SIZE: 8pt;
 }
@@ -209,6 +281,15 @@ A.whitelinklarge:Link
 color:#FFFFFF;
 FONT-FAMILY: Verdana;
 FONT-SIZE: 12pt;
+text-decoration:none;
+}
+
+A.whitelinklarge:Hover
+{
+color:#FFFFFF;
+FONT-FAMILY: Verdana;
+FONT-SIZE: 12pt;
+text-decoration:none;
 }
 
 A.whitelinklarge:Visited
@@ -216,6 +297,7 @@ A.whitelinklarge:Visited
 color:#FFFFFF;
 FONT-FAMILY: Verdana;
 FONT-SIZE: 12pt;
+text-decoration:none;
 }
 
 A.pagelink:Link
@@ -327,7 +409,71 @@ A.submenunavlink:hover
 color:#FFFFFF;
 text-decoration: underline;
 }
+
+.QuestionText
+{
+	font-size:11pt;
+	font-weight:bold;
+	padding-top:10px;
+}
+
+.transparent
+{
+    background-color: white;
+    display:none;
+    width:300;
+    padding:1px 1px 1px 1px;
+    position:absolute;
+    color: black;
+    border: 2 #FFAD00 solid;
+}
+
+.heading{
+}
+
+.searchcontrolstable{
+	padding:10px;
+	cell-spacing:none;
+}
+
+.listheader{
+	background-color:FFE65F;
+}
+
+.advancedsearchtopheader{
+}
+
+.advancedsearchtopheadertd{
+COLOR: #FFFFFF;
+FONT-FAMILY: Verdana;
+FONT-SIZE: 10pt;
+FONT-WEIGHT: bold;
+padding:5px;height:35px;vertical-align:center;
+white-space: nowrap;
+
+}
+
+.tdfiller{
+	height:35px;
+}
+
+.advancedsearchtopheaderspacertd{
+	padding:1px;
+}
+
+#kbdetailnewnav{
+	font-size: 8pt;
+	padding-right:5px;
+	vertical-align:top;
+}
+
+#kbdetailnewnav a.normallink{
+	font-size: 8pt;	
+}
+
 //-->
+
+
 </style>
 
 
@@ -337,6 +483,15 @@ text-decoration: underline;
 //Description	: Shared javascript validation
 //Last Modified	: S.Wijaya [02/21/2001]
 //Main Changes	: Comments
+
+
+function AddBookMark(url, pagename){
+	if (window.external) { 
+		window.external.AddFavorite(url,pagename) 
+	} else { 
+		alert("Sorry! Your browser doesn't support this function."); 
+	}
+}
 
 function showParticipantDetail(iParticipantID)
 {	
@@ -373,6 +528,19 @@ function IsNumeric(val) {
 	}
 	return true;
 }
+
+function IsWholeNumber(val) {
+	var re = /[0-9]+/
+	var stringFound = val.match(re);
+	
+	if (val == stringFound) 
+	{
+		return true;
+	}
+	return false;
+}
+
+
 
 function getYear(d) { 
   return (d < 1000) ? d + 1900 : d;
@@ -572,14 +740,18 @@ function prependDefaultProtocol(val)
 function checkTime(hour1, min1, half1, hour2, min2, half2)
 {
 	hour1 = parseInt(hour1)
-	min1 = parseInt(min1)
 	hour2 = parseInt(hour2)
-	min2 = parseInt(min2)
 	if (hour1 == 12) {
 		hour1 = 0;
 	}
 	if (hour2 == 12) {
 		hour2 = 0;
+	}
+	
+	//if midnight then OK
+	//alert(hour2 + "*" + min2 + "*" + half2);
+	if (hour2 == 0 && min2 == ":00" && half2 == " AM") {
+		return true;
 	}
 	if (half2 == " AM" && half1 == " PM") {
 		return false;
@@ -595,38 +767,243 @@ function checkTime(hour1, min1, half1, hour2, min2, half2)
 }
 
 // whitespace characters
-      var whitespace = " \t\n\r";
+var whitespace = " \t\n\r";
 
-      /****************************************************************/
+/****************************************************************/
 
-      // Check whether string s is empty.
-      function isEmpty(s)
-      { return ((s == null) || (s.length == 0)) }
+// Check whether string s is empty.
+function isEmpty(s)
+{ return ((s == null) || (s.length == 0)) }
 
-      /****************************************************************/
+/****************************************************************/
 
-      function isWhitespace (s)
-      {
-           var i;
+function isWhitespace (s)
+{
+     var i;
 
-           // Is s empty?
-           if (isEmpty(s)) return true;
+     // Is s empty?
+     if (isEmpty(s)) return true;
 
-           // Search through string's characters one by one
-           // until we find a non-whitespace character.
-           // When we do, return false; if we don't, return true.
+     // Search through string's characters one by one
+     // until we find a non-whitespace character.
+     // When we do, return false; if we don't, return true.
 
-           for (i = 0; i < s.length; i++)
-           {
-                // Check that current character isn't whitespace.
-                var c = s.charAt(i);
+     for (i = 0; i < s.length; i++)
+     {
+          // Check that current character isn't whitespace.
+          var c = s.charAt(i);
 
-                if (whitespace.indexOf(c) == -1) return false;
-           }
+          if (whitespace.indexOf(c) == -1) return false;
+     }
 
-           // All characters are whitespace.
-           return true;
-      }
+     // All characters are whitespace.
+     return true;
+}
+
+function validateFileExtension(fileName,extensions)
+{
+	var extarray;
+	var fileext;
+	var validext;
+	validext = false;
+	extensions = extensions.toUpperCase();
+	extarray=extensions.split(",");
+	if(fileName != "")
+	{
+		for (var i = 0;i < extarray.length; i++)
+		{
+			extlength = extarray[i].length;
+			fileext = fileName.toUpperCase();
+			fileext = fileext.substr(fileName.length - extlength,extlength);
+			if(fileext == extarray[i])
+			{
+				return true;
+			}
+		}
+		validext = false;
+	}
+	else
+	{
+		validext = true;
+	}
+	return validext;
+}
+
+function leftTrim(passString)
+{
+	var sString = new String(passString);
+	if (sString.length > 0)
+	{
+		while (sString.substring(0,1) == ' ')
+		{
+			sString = sString.substring(1, sString.length);
+		}
+	}
+	return sString;
+}
+
+function rightTrim(passString)
+{
+	var sString = new String(passString);
+	if (sString.length > 0)
+	{
+		while (sString.substring(sString.length-1, sString.length) == ' ')
+		{
+			sString = sString.substring(0,sString.length-1);
+		}
+	}
+	return sString;
+}
+
+function trimAll(passString)
+{
+	var sString = new String(passString);
+	if (sString.length > 0)
+	{
+		while (sString.substring(0,1) == ' ')
+		{
+			sString = sString.substring(1, sString.length);
+		}
+		while (sString.substring(sString.length-1, sString.length) == ' ')
+		{
+			sString = sString.substring(0,sString.length-1);
+		}
+	}
+	return sString;
+}
+
+function ShowPopup(popupname)
+{
+	var obj = document.all[popupname];
+    /* get the mouse left position */
+    /* x = event.clientX + document.body.scrollLeft; */
+    /* get the mouse top position  */
+    /* y = event.clientY + document.body.scrollTop + 35; */
+    /* display the pop-up */
+    obj.style.display="block";
+    /* set the pop-up's left */
+    /* obj.style.left = 285; */
+    /* set the pop-up's top */
+    /* obj.style.top = y; */
+}
+
+/* this function hides the pop-up when user moves the mouse out of the link */
+function HidePopup(popupname)
+{
+	var obj = document.all[popupname];
+    /* hide the pop-up */
+    obj.style.display="none";
+}
+
+/* this function edits a value for a valid date and then reformats it in mm/dd/yyyy format */
+function FormatDate_MMDDYYYY(val)
+{
+	var year,month,day;
+	var newval;
+	
+	sDate = trimAll(val);
+	sDate = sDate.split("/");
+	if (sDate.length != 3) {
+		val="";
+		return val;
+	}
+	
+	month = parseInt(sDate[0], 10)
+	day = parseInt(sDate[1], 10)
+	year = parseInt(sDate[2], 10)
+	
+	//alert(month);
+	if(month < 10)
+		newval = "0" + month + "/";
+	else
+		newval = month + "/";
+	//alert(day);
+	if(day < 10)
+		newval = newval + "0" + day + "/";
+	else
+		newval = newval + day + "/";
+	//alert(year);
+	if(sDate[2].length == 2)
+		newval = newval + "20" + sDate[2];
+	if(sDate[2].length == 4)
+		newval = newval + sDate[2];
+		
+	if (!IsDate(newval))
+	{
+		val = "";
+		return val;
+	}
+		
+	val = newval;
+	return val;
+}
+
+function IsValidTime(timeFld)
+{
+	// Checks if time is in HH:MM:SS AM/PM format.
+	// The seconds and AM/PM are optional.
+
+	var timePat = /^(\d{1,2}):(\d{2})(:(\d{2}))?(\s?(AM|am|PM|pm))?$/;
+	var timeStr = document.mainform[timeFld].value;
+			
+	var startidx = timeStr.indexOf(':');
+	if(startidx != -1) 
+		if(timeStr.indexOf(':',startidx + 1) == -1)
+		{	// add default of 00 for seconds
+			var temptime = timeStr.substr(0,startidx + 3) + ":00" + timeStr.substr(startidx + 3);
+			document.mainform[timeFld].value = temptime;
+			timeStr = temptime;
+		}
+				
+	var matchArray = timeStr.match(timePat);
+	if (matchArray == null)
+	{
+		alert("Time is not in a valid format.  Valid standard time formats are: (hh:mm AM/PM, hh:mm:ss AM/PM).  Valid military time formats are: (hh:mm, hh:mm:ss)");
+		return false;
+	}
+	hour = matchArray[1];
+	minute = matchArray[2];
+	second = matchArray[4];
+	ampm = matchArray[6];
+
+	if (second=="") { second = null; }
+	if (ampm=="") { ampm = null }
+
+	if (hour < 0  || hour > 23)
+	{
+		alert("Hour must be between 1 and 12. (or 0 and 23 for military time)");
+		return false;
+	}
+			
+	if (hour <= 12 && ampm == null)
+	{
+		if (confirm("Please indicate which time format you are using.  OK = Standard Time, CANCEL = Military Time"))
+		{
+		alert("You must specify AM or PM.");
+		return false;
+		}
+	}
+	if  (hour > 12 && ampm != null)
+	{
+		alert("You can't specify AM or PM for military time.");
+		return false;
+	}
+	if (minute < 0 || minute > 59)
+	{
+		alert ("Minute must be between 0 and 59.");
+		return false;
+	}
+	if (second != null && (second < 0 || second > 59))
+	{
+		alert ("Second must be between 0 and 59.");
+		return false;
+	}
+			
+	return true;
+}
+
+
+
 
 
 
@@ -701,6 +1078,57 @@ function Validation(){
 
 <body topmargin="0" leftmargin="" marginheight="0" marginwidth="">
 
+<!--div used for link "alt tags"-->
+<div id="MyDivPopUp" style="display: none; left: 621px; visibility: visible; top: 698px; position: absolute; z-index: 200"></div>
+<script language="javascript">
+<!--
+	Xoffset= 10;    // modify these values to ...
+	Yoffset= 20;    // change the popup position.
+	var old,skn,iex=(document.all),yyy=-1000;
+	var ns4=document.layers
+	var ns6=document.getElementById&&!document.all
+	var ie4=document.all
+	if (ns4){
+		skn=document.MyDivPopUp
+	}else if (ns6){
+		skn=document.getElementById("MyDivPopUp").style
+	}else if (ie4){
+		skn=document.all.MyDivPopUp.style
+	}
+	if(ns4){
+		document.captureEvents(Event.MOUSEMOVE);
+	}else{
+		skn.visibility="visible"
+		skn.display="none"
+	}
+	document.onmousemove=get_mouse;
+								
+	function popIt(msg){
+		var content="<TABLE BORDER=0 BORDERCOLOR=black CELLPADDING=1 CELLSPACING=0 BGCOLOR='#000000'><TD><TABLE CELLSPACING=0 CELLPADDING=5 BORDER=0 WIDTH='100%' BGCOLOR='#FFFFE2'><TR><TD><SPAN CLASS=smalltxt>"+msg+"</TD></TR></TABLE></TD></TABLE>";
+		yyy=Yoffset;
+		if(ns4){skn.document.write(content);skn.document.close();skn.visibility="visible"}
+		if(ns6){document.getElementById("MyDivPopUp").innerHTML=content;skn.display=''}
+		if(ie4){document.all("MyDivPopUp").innerHTML=content;skn.display=''}
+	}
+
+	function get_mouse(e){
+		var x=(ns4||ns6)?e.pageX:event.x+document.body.scrollLeft;
+		skn.left=x+Xoffset;
+		var y=(ns4||ns6)?e.pageY:event.y+document.body.scrollTop;
+		skn.top=y+yyy;
+	}
+
+	function killIt(){
+		yyy=-1000;
+		if(ns4){skn.visibility="hidden";}
+		else if (ns6||ie4)
+		skn.display="none"
+	}
+
+//-->
+</script>
+	
+
 <center>
 
 
@@ -727,17 +1155,26 @@ function Validation(){
 	}
 
 	function ManualLaunchSpellCheck(){
+		//alert(window.location.href)
+		//alert(window.location.href)
+		
 		var sURL
-		sURL = "../spellcheck/spellcheck_popup.asp?NumFields=" + document.frmSP.NumFields.value
+		//sURL = "http://www.fuzeqna.com/calendars/spellcheck/spellcheck_popup.asp?NumFields=" + document.frmSP.NumFields.value
+		sURL = "/calendars/spellcheck/spellcheck_popup.asp?NumFields=" + document.frmSP.NumFields.value
 		document.forms.frmSP.SpellCheckMethod.value="manual"
 		SCWin = window.open(sURL,"SpellCheckWindow",'scrollbars=yes,status=no,width=700,height=500')
 		setTimeout('Init_SpellCheckPopUp();', 500)
+		
 		return false
+		
 	}
 	
 	function AutoSpellCheck(){
+		//alert(window.location.href)
+		//return false
+		//return true
 		var sURL
-		sURL = "../spellcheck/spellcheck_popup.asp?NumFields=" + document.frmSP.NumFields.value
+		sURL = "/calendars/spellcheck/spellcheck_popup.asp?NumFields=" + document.frmSP.NumFields.value
 		document.forms.frmSP.SpellCheckMethod.value="auto"
 		SCWin = window.open(sURL,"SpellCheckWindow",'scrollbars=yes,status=no,width=700,height=500')
 		setTimeout('Init_SpellCheckPopUp();', 500)
@@ -745,6 +1182,7 @@ function Validation(){
 	}
 	
 	function Init_SpellCheckPopUp(){
+		
 		if(document.forms.frmSP.SpellCheckPopUpCreated.value=="true"){
 			window.SCWin.document.mainform.SpellCheckMethod.value = document.frmSP.SpellCheckMethod.value
 		}else{
@@ -848,6 +1286,11 @@ function setParent(url) {
 			<td valign="top">
 			
 			
+	<!--this table is here to pad out the page & force a scroll bar-->
+	<table width="100%" cellpadding="0" cellspacing="0" border="0" style="height:1000px;">
+		
+			<tbody><tr><td valign="top">
+			
 		<table width="100%" cellpadding="0" cellspacing="0" border="0">
 			<tbody><tr><td><img src="../images/spacer.gif" width="1" height="15" alt=""></td></tr>
 			<tr><td>
@@ -863,25 +1306,50 @@ function setParent(url) {
 				<td bgcolor="FDF1C5">
 					<table width="100%" cellpadding="8" cellspacing="0" border="0">
 						<tbody><tr>
-							<td>
-								<a href="emailfaq.asp?kbid=41" class="normallink"><img src="../images/g_email.gif" align="left" border="0" width="21" height="14" alt="Email">Email this item</a>&nbsp;&nbsp;&nbsp;
-									
-								<a href="kbdetail.asp?kbid=41&amp;p=t" class="normallink" target="_new">View printable version</a>
+							<td id="kbdetailnewnav" align="left" nowrap="">
+							
+								<a href="emailfaq.asp?kbid=41" class="normallink"><img src="../images/emailicon2.gif" align="left" border="0" alt="Email This Item" width="21" height="14"></a>
+								<a href="emailfaq.asp?kbid=41" class="normallink">Email</a>&nbsp;&nbsp;&nbsp;
+								
+								<a href="kbdetail.asp?kbid=41&amp;p=t" target="_new" class="normallink"><img src="../images/printicon2.gif" border="0" alt="Print This Item" width="21" height="14"></a>
+								<a href="kbdetail.asp?kbid=41&amp;p=t" target="_new" class="normallink">Print</a>&nbsp;&nbsp;&nbsp;
+							
+								<a href="javascript:void(0);" onclick="javascript:AddBookMark(window.location.href, 'Calendars.com KBItem#41');"><img alt="Bookmark this page" src="../images/bookmarkicon2.gif" border="0" width="19" height="14"></a>
+								<a href="javascript:void(0);" onclick="javascript:AddBookMark(window.location.href, 'Calendars.com KBItem#41');" class="normallink">Bookmark</a>
+								
 							</td>
 							
+							<td align="right"><a href="search.asp?">Return to Search</a></td>
 							<td align="right">&nbsp;</td>
 							
+						</tr>
+						<tr>
+							<td id="kbdetailnewnav">
+								<table cellspacing="0" cellpadding="2" valign="top">
+									<tbody><tr>
+										<td valign="top"><b>View all items in:</b></td>
+										<td valign="top" style="line-height:16px;">
+											<!--<span onmouseover="javascript:popIt('Click to view all items in this category');" onmouseout="javascript:killIt();">-->
+										 <a class="normallink" href="search.asp?catID1=6">Privacy Policy</a><br>
+											<!--</span>-->
+										</td>
+									</tr>
+								</tbody></table>
+							</td>
 						</tr>
 					</tbody></table>
 				</td>
 			</tr>
 		</tbody></table>
 			
-
+		
+		
 		<table width="100%" cellpadding="0" cellspacing="0" border="0">
+			
 			<tbody><tr>
 				<td><img src="../images/spacer.gif" width="1" height="2" alt=""></td>
 			</tr>
+		
 			<tr>
 				<td>
 					<table width="100%" cellpadding="5" cellspacing="0" border="0">
@@ -891,10 +1359,13 @@ function setParent(url) {
 					</tbody></table>
 				</td>
 			</tr>
+			
 			<tr>
 				<td><img src="../images/spacer.gif" width="1" height="1" alt=""></td>
 			</tr>
 			<tr>
+			
+				
 				<td>
 					<table width="100%" cellpadding="20" cellspacing="0" border="0">
 						<tbody><tr>
@@ -902,8 +1373,10 @@ function setParent(url) {
 						</tr>
 					</tbody></table>
 				</td>
+			
 			</tr>
 		</tbody></table>
+		
 		
 		<table width="100%" cellpadding="0" cellspacing="0" border="0">
 			
@@ -911,7 +1384,9 @@ function setParent(url) {
 				<td>
 					<table width="100%" cellpadding="5" cellspacing="0" border="0">
 						<tbody><tr>
-							<td bgcolor="FFAD00" class="whitelabel">Answer/Article </td>
+							<td bgcolor="FFAD00" class="whitelabel">
+								Answer/Article 
+								</td>
 						</tr>
 					</tbody></table>
 				</td>
@@ -923,29 +1398,29 @@ function setParent(url) {
 						
 						<tbody><tr>
 							<td>
-								<div>
+							<div>
 <div>
 <div>
 <div>
 <div>
 <p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Verdana">We respect your privacy and are committed to protecting your personal information. This notice describes our privacy policy. By visiting Calendars.com or DogBreedStore.com, you are accepting the practices described in this privacy notice. </span></p>
-<p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Verdana"><!--?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /--><o:p></o:p></span>&nbsp;</p>
+<p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Verdana"><!--?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /--> </span>&nbsp;</p>
 <p class="MsoNormal" style="MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><b><span style="FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Verdana">Information Collection</span></b></p><b><span style="FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Verdana"></span></b><span style="FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Verdana">
 <p class="MsoNormal" style="MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><br>When you visit the site, we collect some basic information that does not identify individual users. This includes the pages visited and the types of products purchased. We then aggregate this information with thousands of other pieces of information to improve our site and make your shopping time on the site as valuable and efficient as possible. </p>
-<p class="MsoNormal" style="MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><o:p></o:p>&nbsp;</p>
+<p class="MsoNormal" style="MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"> &nbsp;</p>
 <p class="MsoNormal" style="MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Verdana">We will not rent or sell your name, address, email address, credit card information or personal information to any third party without your permission. However, we must cooperate fully should a situation arise where we are required by law or legal process to provide information about a customer. </span></p>
-<p class="MsoNormal" style="MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Verdana"><o:p></o:p></span>&nbsp;</p>
+<p class="MsoNormal" style="MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Verdana"> </span>&nbsp;</p>
 <p class="MsoNormal" style="MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><b><span style="FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Verdana">Information We Need</span></b></p><b><span style="FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Verdana"></span></b><span style="FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Verdana">
 <p class="MsoNormal" style="MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><br>When you order, we need to know your name, email address, shipping address, billing address, phone number, and credit card number with expiration date. This allows us to process and fulfill your order and to notify you of your order status. We ask for your phone number in the event that our customer service representatives or delivery services need to contact you about your order. To simply create an account, we will only need your name, email address, and a password. </p>
-<p class="MsoNormal" style="MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><o:p></o:p>&nbsp;</p>
+<p class="MsoNormal" style="MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"> &nbsp;</p>
 <p class="MsoNormal" style="MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><b><span style="FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Verdana">Saved Information</span></b></p>
-<p class="MsoNormal" style="MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><b><span style="FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Verdana"></span></b><span style="FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Verdana"><br>We save the information about products you purchased to provide you with the best possible customer service and the most up-to-date information about your order. You can view your past and current orders online by logging into the My Account section with your private password. <o:p></o:p></span></p>
+<p class="MsoNormal" style="MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><b><span style="FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Verdana"></span></b><span style="FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Verdana"><br>We save the information about products you purchased to provide you with the best possible customer service and the most up-to-date information about your order. You can view your past and current orders online by logging into the My Account section with your private password.  </span></p>
 <p class="MsoNormal" style="MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Verdana"></span>&nbsp;</p>
 <p class="MsoNormal" style="MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Verdana">If you forget your password, we will first verify your identity and then email your password to the email address you have listed in your account. </span></p>
-<p class="MsoNormal" style="MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Verdana"><o:p></o:p></span>&nbsp;</p>
+<p class="MsoNormal" style="MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Verdana"> </span>&nbsp;</p>
 <p class="MsoNormal" style="MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><b><span style="FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Verdana">Changing Your Information</span></b></p><b><span style="FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Verdana"></span></b><span style="FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Verdana">
 <p class="MsoNormal" style="MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><br>If at any time you would like to change any information in your account, just go to the My Account link in the upper right-hand corner of each page. Here you can change or update your email address and password, billing address, payment options, shipping options, address book, and email preferences. Be sure to click Save My Changes when you have updated your account. </p>
-<p class="MsoNormal" style="MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><o:p></o:p>&nbsp;</p>
+<p class="MsoNormal" style="MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"> &nbsp;</p>
 <p class="MsoNormal" style="MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Verdana"><strong>To remove your name</strong> from our special email bulletins, please click on the link located at the bottom of each promotional email.</span></p>
 <p class="MsoNormal" style="MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Verdana"></span>&nbsp;</p>
 <p class="MsoNormal" style="MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Verdana"><span style="FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Verdana; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Our policy is intended to provide you with the safest and most secure shopping experience possible. Since the law, offerings and technologies change, we reserve the right to change, modify, add or remove portions of our privacy policy at any time without prior notice. If you have further questions, please feel free to contact our <a href="http://www.fuzeqna.com/calendars/consumer/kbdetail.asp?kbid=167">Customer Service</a> team.</span></span></p></span></span></span></div></div></div></div></div>
@@ -969,10 +1444,11 @@ function setParent(url) {
 			</tr>
 			<tr>
 				<td bgcolor="FDF1C5" colspan="2">
+					<a id="related">
 					<table width="100%" cellpadding="5" cellspacing="0" border="0">
 						<tbody><tr><td class="blacklabel" nowrap="">Related Items</td></tr>
 					</tbody></table>
-				</td>
+				</a></td>
 			</tr>
 			<tr>
 				<td colspan="2">
@@ -980,13 +1456,13 @@ function setParent(url) {
 						<tbody><tr>
 							<td>
 								
-								<a href="/calendars/consumer/kbdetail.asp?kbid=42" class="Relatedlink">What are my payment options?</a><p>
+								<a href="/calendars/consumer/kbdetail.asp?kbid=174" class="Relatedlink">What is your Security Policy?</a><p>
+									
+								<a href="/calendars/consumer/kbdetail.asp?kbid=42" class="Relatedlink">What are my payment options?</a></p><p>
 									
 								<a href="/calendars/consumer/kbdetail.asp?kbid=57" class="Relatedlink">Is my information secure?</a></p><p>
 									
 								<a href="/calendars/consumer/kbdetail.asp?kbid=40" class="Relatedlink">How do I purchase a calendar?</a></p><p>
-									
-								<a href="/calendars/consumer/kbdetail.asp?kbid=174" class="Relatedlink">What is your Security Policy?</a></p><p>
 									
 							</p></td>
 						</tr>
@@ -1001,11 +1477,12 @@ function setParent(url) {
 			</tr>
 			<tr>
 				<td bgcolor="#FFE65F">
+					<a id="rateit">
 					<table cellpadding="8" cellspacing="0" border="0">
 					
 						<tbody><tr>
-							<td>
-								How would you classify this information?<input type="hidden" name="surveyQuestion" value="1"><br>
+							<td class="QuestionText">
+								How would you rate this information?<input type="hidden" name="surveyQuestion" value="1"><br>
 							</td>
 							<td><nobr>
 								<select name="question1">
@@ -1043,7 +1520,7 @@ function setParent(url) {
 						
 						
 					</tbody></table>
-				</td>
+				</a></td>
 			</tr>
 			<tr>
 				<td><img src="../images/spacer.gif" width="1" height="2" alt=""></td>
@@ -1056,122 +1533,37 @@ function setParent(url) {
 			</tr>
 		</tbody></table>
 		
+		
+		
 		<table width="100%" cellpadding="10" cellspacing="0" border="0">
 			<tbody><tr>
-				<td>
-					<table width="100%" cellpadding="0" cellspacing="0" border="0">
-						
-						
+				<td><a id="alerts">
+					<table width="100%" class="GrayLabelTable" cellpadding="0" cellspacing="0">
 						
 						<tbody><tr>
-							<td colspan="4" bgcolor="cccccc"><img height="1" width="1" src="../images/spacer.gif" alt=""></td>
-							<td rowspan="3" bgcolor="cccccc"><img height="1" width="1" src="../images/spacer.gif" alt=""></td>
+							<td class="GrayLabel" nowrap="">KBID</td>
+							<td width="50%" class="GrayLabelData">41</td>
+							<td class="GrayLabelBottom" nowrap="">User Rating</td>
+							<td width="50%" class="GrayLabelData">Excellent</td>
 						</tr>
 						<tr>
-							<td class="GreyLabel">
-								<table width="100%" cellpadding="8" cellspacing="0" border="0">
-									<tbody><tr>
-										<td><img height="1" width="10" src="../images/spacer.gif" alt=""></td>
-										<td class="blacklabel" align="right" valign="top">Category</td>
-									</tr>
-								</tbody></table>
-							</td>
-							<td colspan="3">
-								<table width="100%" cellpadding="8" cellspacing="0" border="0">
-									<tbody><tr>
-										<td>
-											 <a class="normallink" href="search.asp?catID1=6">Privacy Policy</a>
-											&nbsp;&nbsp;&nbsp;(Click on category or sub-category to see all
-											related items)
-										</td>
-									</tr>
-								</tbody></table>
-							</td>
-						</tr>
-						<tr>
-							<td colspan="4" bgcolor="cccccc"><img height="1" width="1" src="../images/spacer.gif" alt=""></td>
+							<td class="GrayLabelBottom">Date</td>
+							<td colspan="3" class="GrayLabelDataBottom">7/30/2004</td>
 						</tr>
 						
-						
-						
-						<tr><td colspan="5">&nbsp;</td></tr>
-						<tr>
-							<td colspan="4" bgcolor="cccccc"><img height="1" width="1" src="../images/spacer.gif" alt=""></td>
-							<td rowspan="5" bgcolor="cccccc"><img height="1" width="1" src="../images/spacer.gif" alt=""></td>
-						</tr>
-						<tr>
-							<td class="GreyLabel">
-								<table width="100%" cellpadding="8" cellspacing="0" border="0">
-									<tbody><tr>
-										<td><img height="1" width="10" src="../images/spacer.gif" alt=""></td>
-										<td class="blacklabel" align="right">FAQ #</td>
-									</tr>
-								</tbody></table>
-							</td>
-							<td width="50%">
-								<table width="100%" cellpadding="8" cellspacing="0" border="0">
-									<tbody><tr><td>41</td></tr>
-								</tbody></table>
-							</td>
-							<td class="GreyLabel">
-								<table width="100%" cellpadding="8" cellspacing="0" border="0">
-									<tbody><tr>
-										<td><img height="1" width="10" src="../images/spacer.gif" alt=""></td>
-										<td class="blacklabel" align="right" nowrap="">User Rating</td>
-									</tr>
-								</tbody></table>
-							</td>
-							<td width="50%">
-								<table width="100%" cellpadding="8" cellspacing="0" border="0">
-									<tbody><tr><td>Excellent</td></tr>
-								</tbody></table>
-							</td>
-						</tr>
-						<tr>
-							<td><img height="1" width="1" src="../images/spacer.gif" alt=""></td>
-							<td bgcolor="cccccc"><img height="1" width="1" src="../images/spacer.gif" alt=""></td>
-							<td><img height="1" width="1" src="../images/spacer.gif" alt=""></td>
-							<td bgcolor="cccccc"><img height="1" width="1" src="../images/spacer.gif" alt=""></td>
-						</tr>
-						<tr>
-							<td class="GreyLabel">
-								<table width="100%" cellpadding="8" cellspacing="0" border="0">
-									<tbody><tr>
-										<td><img height="1" width="10" src="../images/spacer.gif" alt=""></td>
-										<td class="blacklabel" align="right">Date</td>
-									</tr>
-								</tbody></table>
-							</td>
-							<td>
-								<table width="100%" cellpadding="8" cellspacing="0" border="0">
-									<tbody><tr><td>7/30/2004</td></tr>
-								</tbody></table>
-							</td>
-							<td class="GreyLabel">
-								<table width="100%" cellpadding="8" cellspacing="0" border="0">
-									<tbody><tr>
-										<td><img height="1" width="10" src="../images/spacer.gif" alt=""></td>
-										<td class="blacklabel" align="right">Popularity</td>
-									</tr>
-								</tbody></table>
-							</td>
-							<td>
-								<table width="100%" cellpadding="8" cellspacing="0" border="0">
-									<tbody><tr><td>2250</td></tr>
-								</tbody></table>
-							</td>
-						</tr>
-						<tr>
-							<td colspan="4" bgcolor="cccccc"><img height="1" width="1" src="../images/spacer.gif" alt=""></td>
-						</tr>
 					</tbody></table>
-				</td>
+				</a></td>
 			</tr>
-		</tbody></table>
+		</tbody></table>		
+		
 				
 	</form></td></tr>
 	<tr><td></td></tr>
 	</tbody></table>
+	
+		</td>
+	</tr>
+</tbody></table>
 
 
 
