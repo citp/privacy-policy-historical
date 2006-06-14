@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the edfinancial.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220161518id_/http%3A//www.edfinancial.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edfinancial.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615014508id_/http%3A//www.edfinancial.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # Internet Privacy Policy - Edfinancial
 
   
 |  |  |  |  | 
 
-| At Edfinancial Services, we continue to develop technological enhancements for students, families, schools and our partners. We are committed to excellence in customer service, and your privacy is important to us. This policy is effective on November 1, 2005. | [](http://www.truste.org/ivalidate.php?url=www.edfinancial.com&sealid=101 "TRUSTe Click to Verify Seal")  
+| At Edfinancial Services, we continue to develop technological enhancements for students, families, schools and our partners. We are committed to excellence in customer service, and your privacy is important to us. This policy is effective on January 5, 2006. | [](http://www.truste.org/ivalidate.php?companyName=EdFinancial%20Services&sealid=101 "TRUSTe Click to Verify Seal")  
 ---|---  
   
 ### TRUSTe Privacy Program
@@ -25,9 +25,10 @@
 
 ### Use of Personal Identifying Information
 
-  * Edfinancial Services does not collect any nonpublic personal information from visitors to our sites unless you expressly provide it to us through one of our online services. Edfinancial Services does not sell, rent or lease its customer lists to third parties. If you choose to register on an Edfinancial Services website in order to utilize an online service that requires you to log in, Edfinancial Services will collect basic information such as name, email address and brief demographic information. If you choose to submit an online loan application, Edfinancial Services will collect information such as your Social Security Number, date of birth, driver's license number, phone number, and references required for a student loan application. 
+  * Edfinancial Services does not collect any nonpublic personal information from visitors to our sites unless you expressly provide it to us through one of our online services. Edfinancial Services does not sell, rent or lease its customer lists to third parties. If you choose to register on an Edfinancial Services website in order to utilize an online service that requires you to log in, Edfinancial Services will collect basic information such as name, email address and brief demographic information. If you choose to submit an online loan application, Edfinancial Services will collect information such as your Social Security Number, and that of your endorser or co-borrower, if applicable, date of birth, driver's license number, phone number, and references required for the completion of a student loan application. 
   * We currently contract with several online partners to help manage and optimize our Internet business and communications. We use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use Web beacons and cookies provided by our marketing company on this site. The type of information we collect includes, pages visited, product, school and lender codes, IP address, the type of browser you are using, the websites you visit immediately before and immediately after you visit our websites, and other anonymous data involving your use of our websites. By supplementing our records, this information helps us learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see. Although our marketing company logs the information coming from our site on our behalf, we control how that data may and may not be used. If you do not want to help us learn how to improve our site, products, offers and marketing strategy, you can “opt-out” of this website analysis tool by [clicking here](http://sitecatalyst.omniture.com/privacy/optout.html).
   * Edfinancial Services enables you to voluntarily provide personal information to third parties such as college or university admissions departments. This information will not be provided by Edfinancial Services to any third party other than the colleges or universities that you select. The selected university will be communicating with you, and the university's use of your data is governed by its privacy policy. 
+  * If you elect to use our referral service for informing a friend about one of our sites, Edfinancial Services will automatically send your friend a one-time email inviting them to view the article that you are sending them. Edfinancial Services does not store this information, and it is for the sole purpose of sending the one-time email. 
   * If you choose not to remove the check mark from the Newsletter box on your registration form, you agree that Edfinancial Services, Edamerica, Inc. or Educational Funding of the South, aka, Edsouth may periodically send you an e-mail newsletter which includes educational or marketing information to the email address with which you registered. If you choose not to remove the check mark from the Offers box on your registration form, you agree that Edfinancial Services, Edamerica, Inc. or Educational Funding of the South, aka, Edsouth may periodically send educational or marketing information to the email address with which you registered.  You may unsubscribe to either service at any time in the newsletter or registration areas of the sites, and your information is not shared with any third parties. 
   * Certain processes, such as online loan applications, will require that you provide your social security number and date of birth if you choose to continue with the online process. Once this information is provided, it will be associated by Edfinancial Services with the user account that is then logged on, and you will not need to provide it again. Thereafter, you will only need your username and password to access your account information or to complete forms in other processes. For your security, the social security number that you enter cannot be used with any other account. 
   * Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law where in we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
@@ -74,8 +75,8 @@ If you have any questions about this policy please contact:
 
 Customer Privacy  
 Edfinancial Services  
-P.O. Box 31549  
-Knoxville, TN 37930-1549  
+120 North Seven Oaks Drive  
+Knoxville, TN 37922  
 1-800-337-6884 or [info@edfinancial.com](mailto:info@edfinancial.com)
 
 ### California Privacy
