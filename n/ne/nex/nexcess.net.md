@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nexcess.net privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231192836id_/http%3A//nexcess.net/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nexcess.net privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615001256id_/http%3A//nexcess.net/legal/privacy.php) for the most accurate reproduction.*
 
 # NEXCESS.NET | Privacy Policy | Orders, Cookies, Logs
 
