@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the studentcity.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224023539id_/http%3A//studentcity.com/about/privacypolicies.php%3Fds%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentcity.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614175415id_/http%3A//studentcity.com/about/privacypolicies.php%3Fds%3D1) for the most accurate reproduction.*
 
 # StudentCity - Spring Break Travel Packages
 
-|  |  [](https://web.archive.org/) |  [](https://web.archive.org/spring-break-bahamas-party-cruise.html) |  [](https://web.archive.org/login/DisplayCustomer.pl) [](https://web.archive.org/login.php)  
+|  |  [](https://web.archive.org/) |  |  [](https://web.archive.org/login/DisplayCustomer.pl) [](https://web.archive.org/login.php)  
 ---|---|---  
-|  |  [](https://web.archive.org/booking_engine/reserve_trip.php) |  [](https://web.archive.org/inforeq/request_info.php) |  [](https://web.archive.org/events/events.php) |  [](https://web.archive.org/travelfree.php) |  [](https://web.archive.org/celebbreak.php) |  [](https://web.archive.org/gallery.php) |  [](https://web.archive.org/cooljobs.php) |  [](https://web.archive.org/paa.php?action=why) |  [](https://web.archive.org/paa.php?typeID=1)  
+|  |  [](https://web.archive.org/booking_engine_b/reserve_trip.php) |  [](https://web.archive.org/inforeq/new/request_info.php) |  [](https://web.archive.org/events/events.php) |  [](https://web.archive.org/travelfree.php) |  [](https://web.archive.org/celebbreak.php) |  [](https://web.archive.org/gallery.php) |  [](https://web.archive.org/cooljobs.php) |  [](https://web.archive.org/paa.php?action=why) |  [](https://web.archive.org/paa.php?typeID=1)  
 ---|---|---|---|---|---|---|---|---|---  
   
 |  **
