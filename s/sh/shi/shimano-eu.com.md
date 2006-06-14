@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shimano-eu.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228132332id_/http%3A//corporate.shimano.com/publish/content/corporate/en/shimanocorporatesiteen/about_shimano/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shimano-eu.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615014708id_/http%3A//corporate.shimano.com/publish/content/corporate/en/shimanocorporatesiteen/about_shimano/privacy_policy.html) for the most accurate reproduction.*
 
 # Shimano Corporate Site
 
