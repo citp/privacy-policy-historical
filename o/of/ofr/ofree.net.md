@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ofree.net privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221153647id_/http%3A//www.ofree.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ofree.net privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614171447id_/http%3A//www.ofree.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy at ¤ Only Free
 
@@ -26,30 +26,33 @@ Some of the offers listed on our site is not 100% free. You may have to pay Ship
 
 For questions regarding this privacy statement or the practises of this site, please contact us by [Clicking Here.](https://web.archive.org/contact.html)  
   
-  
-  
-[](https://web.archive.org/go/di.asp?slke7qn2fh)|   [Stop paying for your music. Legally download your favorite music for free! Get FREE, legal music downloads with MPFree! Fast and easy, No credit card required, Nothing to buy, Choose from more than 500,000 free songs, including the latest hits, All music is yours to keep--play it, burn it, save it, No commitments, no obligations, and nothing to buy!](https://web.archive.org/go/di.asp?slke7qn2fh)  
----|---  
    
   
+**Free Gucci, Prada or Fendi Designer Handbag!**
+
+Special Offers!
+
+**or**  
+Subscribe to Our  
+[RSS Feed](http://www.ofree.net/rss2.xml "Subscribe to my feed, Only Free - Newest Freebies and Free Stuff")  
 [](http://feeds.feedburner.com/OnlyFree-NewestFreebiesAndFreeStuff "Subscribe to my feed, Only Free - Newest FREEBIES and FREE Stuff")
 
 [](http://add.my.yahoo.com/rss?url=http://feeds.feedburner.com/OnlyFree-NewestFreebiesAndFreeStuff "Only Free - Newest FREEBIES and FREE Stuff")
 
-**100% Free !**
+[](http://fusion.google.com/add?feedurl=http://feeds.feedburner.com/OnlyFree-NewestFreebiesAndFreeStuff)
 
-**Free Swiffer Sweep+Vac !**
+[](http://feeds.my.aol.com/add.jsp?url=http://feeds.feedburner.com/OnlyFree-NewestFreebiesAndFreeStuff)
 
-Say Goodbye to your broom and dustpan.
+and Get Your Freebies Faster and More Reliably! 
 
-**Free Audiobooks!**
+**Free LG P7200 Cell Phone!**
 
-100 % Free!
+100% Free !
 
-**Free Canon Digital Rebel XT!**
+**Free XBOX 360 or Playstation 3 Game Console!**
 
-Sign up & Get!
+It's your choice!
 
-**Free Dell, Sony, or HP Laptop computer!**
+**Free Cosmetic !**
 
-EXCLUSIVE
+Sign up and Receive !
