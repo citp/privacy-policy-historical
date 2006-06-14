@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cacert.org privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210072327id_/http%3A//www.cacert.org/index.php%3Fid%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cacert.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615013504id_/http%3A//www.cacert.org/index.php%3Fid%3D10) for the most accurate reproduction.*
 
 # Welcome to CAcert.org
 
