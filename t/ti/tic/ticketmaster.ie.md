@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ticketmaster.ie privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228175924id_/http%3A//www.ticketmaster.ie/legal/privacy.html%3Ftm_link%3Dtm_home_i_pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketmaster.ie privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614184003id_/http%3A//www.ticketmaster.ie/legal/privacy.html%3Ftm_link%3Dtm_home_i_pp) for the most accurate reproduction.*
 
-# Ticketmaster.iw - Privacy
+# Ticketmaster.ie - Privacy
 
 Ticketmaster Privacy Policy  
 Our privacy statement demonstrates our firm commitment to your online privacy. In this statement, we disclose our information gathering and dissemination practices for this web site. Ticketmaster.ie has created this privacy statement ("Privacy Policy") in order to demonstrate our firm commitment to your privacy online. The following discloses our information gathering and dissemination practices for Ticketmaster.ie web site ("Site").
