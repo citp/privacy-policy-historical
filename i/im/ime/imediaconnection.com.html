@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the imediaconnection.com privacy policy that was archived on 2005-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051215080250id_/http%3A//imediaconnection.com/5882.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the imediaconnection.com privacy policy that was archived on 2006-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615012051id_/http%3A//imediaconnection.com/5882.asp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><!-- PageID 5882 - published by RedDot 6.1 - 6.1.1.23 - 10332 -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><!-- PageID 5882 - published by RedDot 6.5 - 6.5.2.14 - 10332 -->
 <title>iMedia Connection: Privacy Policy</title>
 
 <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://feeds.feedburner.com/ImediaConnectionAll">
@@ -86,7 +86,7 @@ document.write('IPT SRC="' + site + '/jserver/acc_random=' + random + target + '
 document.write('</SCR');
 document.write('IPT>');
 // End Hide -->
-</script><script src="http://imediac.adbureau.net/jserver/acc_random=1580433313225/site=IMEDIACONNECTION/area=COMPANY/aamsz=728X90/PAGEID="></script>
+</script><script src="http://imediac.adbureau.net/jserver/acc_random=1580433313976/site=IMEDIACONNECTION/area=COMPANY/aamsz=728X90/PAGEID="></script>
 </td>
 </tr>
 </tbody></table>
@@ -146,7 +146,7 @@ document.write('IPT>');
    <a href="/email/index.asp" name="&amp;lid=leftnav_Email" id="navch1s2" class="nav3"><strong>·</strong> Email</a><br>
    <a href="/wireless/index.asp" name="&amp;lid=leftnav_Wireless" id="navch1s3" class="nav3"><strong>·</strong> Wireless</a><br>
    <a href="/desktopapps/index.asp" name="&amp;lid=leftnav_DesktopApps" id="navch1s4" class="nav3"><strong>·</strong> Desktop Apps</a><br>
-   <a href="/itv/index.asp" name="&amp;lid=leftnav_iTV" id="navch1s5" class="nav3"><strong>·</strong> iTV</a><br>
+   <a href="/itv/index.asp" name="&amp;lid=leftnav_Video" id="navch1s5" class="nav3"><strong>·</strong> Video</a><br>
    <a href="/emerging/index.asp" name="&amp;lid=leftnav_EmergingPlatforms" id="navch1s6" class="nav3"><strong>·</strong> Emerging Platforms</a><br><br>
   </div>
   <a href="/strategies/index.asp" name="&amp;lid=leftnav_MediaStrategies" id="navch2" class="nav2">media strategies</a>
@@ -251,58 +251,78 @@ function checkForm()
       (document.newsLettSide.EMAIL_ADDRESS.value.indexOf('@') < 1) ||
       (document.newsLettSide.EMAIL_ADDRESS.value.indexOf('.') == -1))
   {
-    missinginfo += "e-mail incorrect";
+    missinginfo += "Invalid e-mail address!\n";
   }
+    
+  if ((document.newsLettSide.newsletter.checked == false) && (document.newsLettSide.autos.checked == false) &&
+        (document.newsLettSide.entertainment.checked == false))
+  {
+      missinginfo += "Please select a newsletter!";
+  }
+  
   if (missinginfo != "")
   {
    alert(missinginfo);
    return false;
   }
   else {
-    document.newsLettSide.confirmation.value = document.newsLettSide.confirmation.value + "?EMAIL_ADDRESS=" + document.newsLettSide.EMAIL_ADDRESS.value;
+
+    var pageURL = document.URL;
+    
+    document.newsLettSide.url.value = pageURL;  
+  
     return true;
   }
 }
 </script>
 
-
 <!-- newsletter -->
  </p><div id="nl">
- <form name="newsLettSide" method="post" action=" http://imediaconnection.os-0.com/smp/iMediaOptin" language="Javascript" onsubmit="return checkForm();">
-  <input type="hidden" name="confirmation" value="http://www.imediaconnection.com/5970.asp">
-  <input name="EMAIL_FORMAT_TYPE" type="hidden" value="33">
-  <input type="hidden" value="45" name="EMAIL_TYPE">
-  <input name="ACTION" type="hidden" value="SUBSCRIBE">
-
-  <a href="/email/subscribe.asp" class="hdr">Free Newsletter</a>
-   <div id="nlbody" class="text-sm">
-    <div class="text-sm">Email Address (required)</div>
-    <div id="inp"><input name="EMAIL_ADDRESS" type="text" value="" style="width:135px;height:18px;"></div>
-    <div id="btn"><input name="signUp" type="image" src="/images/Global/nl_btn1.gif" alt="Sign Up Now!"></div>
-    <a href="/email/subscribe.asp">Learn More&nbsp;<img src="/images/Global/nav_arrw2.gif"></a>
-   </div>
- </form>
- </div>
+ <form name="newsLettSide" method="post" action="http://imediaconnection.com/global/8577.asp" language="Javascript" onsubmit="return checkForm();">
+  
+    <div class="hdr">FREE NEWSLETTERS</div>
+<!--    <div class="inp">Email Address (required)</div> -->
+    <div class="inp"><input name="EMAIL_ADDRESS" type="text" value=" Enter Email Address" style="width:135px;height:20px; font: 11px Arial, Sans-serif; color: #333333;" onfocus="this.value='';"></div>
+    <div class="text-reg"><input type="checkbox" name="newsletter"> iMedia Connection</div>
+    <div class="text-reg"><input type="checkbox" name="autos"> Driving Interactive</div>
+    <div class="text-reg"><input type="checkbox" name="entertainment"> Entertainment Spot</div>
+    <input type="hidden" name="url" value="">
+    <div class="btn"><input name="signUp" type="image" src="/images/Global/nl_btn1.gif" alt="Sign Up Now!"></div>
+    <div class="text-sm"><a href="/email/subscribe.asp">Learn More</a>&nbsp;<img src="/images/Global/nav_arrw2.gif"></div>
+   </form></div>
+ 
+ 
  <!-- /newsletter -->
 
 
  <!-- summits --> 
  <div id="sl">
- <a href="/summits" class="hdr">Summits</a>
-  <div id="slbody" class="text-sm">  These are industry leading events where buyers and sellers meet, discuss, collaborate, and conduct “real” business.  
-  <a href="/summitfall/index.asp" class="hdr2">WINTER AGENCY SUMMIT</a><br>
-  Join attendees from the nation's top interactive agencies at the iMedia Agency Summit, where you'll hear from cutting-edge thinkers, make new contacts and generate ideas for new levels of marketing.
-  <div class="text-smb">Date <img src="/images/Global/arrw_single.gif"></div>
-  December 4-7, 2005
-  <div class="text-smb">Location <img src="/images/Global/arrw_single.gif"></div>
-  La Quinta Resort &amp; Club<br>La Quinta, California
-  <a href="/summitfall/index.asp" class="pict"><img src="/images/Channels/pict_agency_12-05.jpg" alt="Summit Location"></a>
-  <div class="text-smb">More Info <img src="/images/Global/arrw_single.gif"></div>
-  <a href="/summitfall/index.asp">Summit Home</a>
-  <a href="/summitfall/6472.asp">Agenda/Schedule</a>
-  <a href="/summits/invite.asp">Registration</a>
-  </div>
- </div>
+    <div class="hdr">UPCOMING EVENTS</div>    
+    <div class="text-xs">iMedia Connection:</div>
+    <div class="event">Brand Summit</div>
+    <div style="width: 135px; border-top: dotted 1px; border-bottom: dotted 1px; color: #999999; margin-left: 8px; padding: 0 0 6px 0;">
+        <div class="text-sm"><b>Date</b> <img src="/images/Global/arrw_single.gif"><br>September 10-13, 2006</div>
+        <div class="text-sm"><b>Location</b> <img src="/images/Global/arrw_single.gif"><br>Lake Las Vegas, NV</div>
+    </div>
+    <div class="text-reg">Join the best and brightest in digital marketing at this "must see" Brand Summit, known for its power to move real issues forward.</div>
+    <div class="text-reg">
+        <a href="/brandspring/9552.asp">More Info</a> <img src="/images/Global/arrw_double.gif"><br>
+        <a href="/summits/invite.asp">Request an Invite</a> <img src="/images/Global/arrw_double.gif">
+    </div>  
+
+    <div style="width: 134px; border-bottom: solid 3px; color: #FFFFFF; margin-left: 8px;">&nbsp;</div>
+
+    <!-- adtech event -->
+<div class="text-xs">ad:tech:</div>
+<div class="event">ad:tech Chicago</div>
+<div style="PADDING-RIGHT: 0px; BORDER-TOP: 1px dotted; PADDING-LEFT: 0px; PADDING-BOTTOM: 6px; MARGIN-LEFT: 8px; WIDTH: 135px; COLOR: #999999; PADDING-TOP: 0px; BORDER-BOTTOM: 1px dotted">
+<div class="text-sm"><b>Date</b> <img src="/images/Global/arrw_single.gif"><br>July&nbsp;24-25, 2006</div>
+<div class="text-sm"><b>Location</b> <img src="/images/Global/arrw_single.gif"><br>Chicago, Illinois</div></div>
+<div class="text-reg">Witness the intersection of technology and creativity this summer at ad:tech Chicago.</div>
+<div class="text-reg"><a href="http://www.ad-tech.com/chicago.asp" target="_blank">More Info</a> <img src="/images/Global/arrw_double.gif"> </div><br><!-- /adtech event -->
+
+ </div>   
+
  <!-- /summits --> 
  <p></p> 
  </td>
@@ -421,7 +441,7 @@ document.write('IPT SRC="' + site + '/jserver/acc_random=' + random + target + '
 document.write('</SCR');
 document.write('IPT>');
 // End Hide -->
-</script><script src="http://imediac.adbureau.net/jserver/acc_random=1580433313262/site=IMEDIACONNECTION/area=COMPANY/aamsz=160X600/PAGEID="></script>
+</script><script src="http://imediac.adbureau.net/jserver/acc_random=1580433314044/site=IMEDIACONNECTION/area=COMPANY/aamsz=160X600/PAGEID="></script>
  </div>
  </div>
 <!-- /skyscraper -->
@@ -434,35 +454,35 @@ document.write('IPT>');
   <div class="padding">
 
  
-  <a href="/news/7560.asp" name="&amp;lid=rightcol_NewsArticle" class="text-smb">MTV Mobile Entertainment</a>
-  <div class="text-xs">Dec 15, 2005</div>
+  <a href="/news/10023.asp" name="&amp;lid=rightcol_NewsArticle" class="text-smb">TNS: U.S. Advertising Growth Slows</a>
+  <div class="text-xs">Jun 14, 2006</div>
  
-  <a href="/news/7559.asp" name="&amp;lid=rightcol_NewsArticle" class="text-smb">Study: Mobile Ad Acceptance</a>
-  <div class="text-xs">Dec 15, 2005</div>
+  <a href="/news/10022.asp" name="&amp;lid=rightcol_NewsArticle" class="text-smb">eBay Prepares AdContext</a>
+  <div class="text-xs">Jun 14, 2006</div>
  
-  <a href="/news/7558.asp" name="&amp;lid=rightcol_NewsArticle" class="text-smb">News Interactive, ROO Online Video Deal</a>
-  <div class="text-xs">Dec 15, 2005</div>
+  <a href="/news/10021.asp" name="&amp;lid=rightcol_NewsArticle" class="text-smb">Google GBuy and Mapping Updates</a>
+  <div class="text-xs">Jun 14, 2006</div>
  
-  <a href="/news/7557.asp" name="&amp;lid=rightcol_NewsArticle" class="text-smb">AT&amp;T Web Security News Channel</a>
-  <div class="text-xs">Dec 15, 2005</div>
+  <a href="/news/10020.asp" name="&amp;lid=rightcol_NewsArticle" class="text-smb">PodTech.Network Hires Robert Scoble</a>
+  <div class="text-xs">Jun 14, 2006</div>
  
-  <a href="/news/7556.asp" name="&amp;lid=rightcol_NewsArticle" class="text-smb">King Kong Times Square Synced Ads</a>
-  <div class="text-xs">Dec 15, 2005</div>
+  <a href="/news/10019.asp" name="&amp;lid=rightcol_NewsArticle" class="text-smb">MTV &amp; Organic Start New Media Labs</a>
+  <div class="text-xs">Jun 14, 2006</div>
  
-  <a href="/news/7551.asp" name="&amp;lid=rightcol_NewsArticle" class="text-smb">AOL Top Searches 2005</a>
-  <div class="text-xs">Dec 14, 2005</div>
+  <a href="/news/10010.asp" name="&amp;lid=rightcol_NewsArticle" class="text-smb">BlueLithium's AdRoll Video Ad Network</a>
+  <div class="text-xs">Jun 13, 2006</div>
  
-  <a href="/news/7550.asp" name="&amp;lid=rightcol_NewsArticle" class="text-smb">WPNI, EarthLink Ads on Video Podcast</a>
-  <div class="text-xs">Dec 14, 2005</div>
+  <a href="/news/10000.asp" name="&amp;lid=rightcol_NewsArticle" class="text-smb">Datran Media Launches adLoyalty</a>
+  <div class="text-xs">Jun 13, 2006</div>
  
-  <a href="/news/7549.asp" name="&amp;lid=rightcol_NewsArticle" class="text-smb">Nielsen: Search Growth</a>
-  <div class="text-xs">Dec 14, 2005</div>
+  <a href="/news/9999.asp" name="&amp;lid=rightcol_NewsArticle" class="text-smb">CBS Digital Media Unveils "ShowBuzz"</a>
+  <div class="text-xs">Jun 13, 2006</div>
  
-  <a href="/news/7548.asp" name="&amp;lid=rightcol_NewsArticle" class="text-smb">Quova Marketing Solution</a>
-  <div class="text-xs">Dec 14, 2005</div>
+  <a href="/news/9998.asp" name="&amp;lid=rightcol_NewsArticle" class="text-smb">Burst Study: Teens See Web as Essential</a>
+  <div class="text-xs">Jun 13, 2006</div>
  
-  <a href="/news/7531.asp" name="&amp;lid=rightcol_NewsArticle" class="text-smb">Microsoft Search Revenue Plans</a>
-  <div class="text-xs">Dec 13, 2005</div>
+  <a href="/news/9997.asp" name="&amp;lid=rightcol_NewsArticle" class="text-smb">AOL Releases Open AIM Update</a>
+  <div class="text-xs">Jun 13, 2006</div>
  
 
   </div>
@@ -486,8 +506,7 @@ document.write('IPT>');
 <!-- /content table -->
 
 <!-- footer table -->
-  
-<table cellspacing="0">
+  <table cellspacing="0">
 <tbody><tr>
 <td>
 <div id="fbody">
@@ -504,7 +523,7 @@ document.write('IPT>');
  <br>
 
  <a href="/summits/index.asp" name="&amp;lid=footer_Summits" class="text-xs">Summits</a> | 
- <a href="/news/news.asp" name="&amp;lid=footer_News" class="text-xs">News</a> | 
+ <a href="/news/5978.asp" name="&amp;lid=footer_News" class="text-xs">News</a> | 
  <a href="/jobs/default.aspx" name="&amp;lid=footer_JobConnection" class="text-xs">Job Connection</a> | 
  <a href="/global/suggeststory.asp" name="&amp;lid=footer_SuggestaStory" class="text-xs">Suggest a Story</a> | 
  <a href="/global/feedback.asp" name="&amp;lid=footer_Feedback" class="text-xs">Give us Feedback</a> | 
@@ -518,8 +537,8 @@ document.write('IPT>');
  <a href="/aboutus.asp" name="&amp;lid=footer_AboutUs" class="text-xs">About Us</a>
  <br><br>
 
- Copyright 2005 iMedia Communications, Inc. All Rights Reserved. 
- <img src="/images/Global/poweredby_accipiter_160x16.gif">
+ Copyright 2006 iMedia Communications, Inc. All Rights Reserved. 
+ <img src="/images/Global/poweredby_accipiter190x45.gif">
  <br>
  </div>
 </div>
