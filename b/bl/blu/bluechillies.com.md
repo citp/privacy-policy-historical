@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluechillies.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211125221id_/http%3A//bluechillies.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluechillies.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615015002id_/http%3A//www.bluechillies.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy : BlueChillies.com
 
@@ -23,4 +23,4 @@
 
 By using our Web site, you consent to the collection and use of your personal information by **BlueChillies.com** as outlined in this Privacy Policy. 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site you can [contact us](https://web.archive.org/web/20051211125221id_/http%3A//bluechillies.com/contact.html). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site you can [contact us](https://web.archive.org/web/20060615015002id_/http%3A//www.bluechillies.com/contact.html). 
