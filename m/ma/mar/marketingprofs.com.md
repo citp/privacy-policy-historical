@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the marketingprofs.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214120149id_/http%3A//www.marketingprofs.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingprofs.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615000700id_/http%3A//www.marketingprofs.com/about/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy| MarketingProfs.com
 
-** MARKETINGPROFS.COM Privacy Policy **
+**MARKETINGPROFS.COM Privacy Policy  **
 
-** This policy was last updated on May 2, 2004**
+**This policy was last updated on May 2, 2004**
 
 MarketingProfs, LLC has created this privacy statement in order to demonstrate our strong commitment to privacy. MarketingProfs.com is deeply committed to respecting and protecting your right to privacy and takes your privacy seriously. We have very strict privacy policies and we strive to keep your personal and financial information secure. To that end, we have prepared this privacy policy to disclose and describe our information gathering and dissemination practices for this website. 
 
