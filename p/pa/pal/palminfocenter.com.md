@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the palminfocenter.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231164631id_/http%3A//palminfocenter.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palminfocenter.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615012036id_/http%3A//palminfocenter.com/privacy.asp) for the most accurate reproduction.*
 
 # PalmInfocenter.com: Privacy Statement
 
 **PalmInfocenter Privacy Statement**   
 **_Registration_**  
-We will **NOT** sell, share or redistribute your email address for any reason without your prior consent. 
+We will **NEVER** sell, share or redistribute your email address for any reason. 
 
 In order to use some features of this website, a user must first complete the registration form. During registration a user is required to give their contact information (such as name and email address). This information is used to contact the user about the services on our site for which they have expressed interest. It is optional for the user to provide demographic information (such as age and gender), but is encouraged so we can provide a more personalized experience on our site. This information is displayed in the user's public profile and can be viewed by all visitors of this Web site. Please keep in mind that whenever you voluntarily disclose personal information online this information is available to the public and you may receive unsolicited messages from other parties in return. We've taken steps to reduce spam by requreing that only logged in registered users can view public profiles. 
 
@@ -29,4 +29,4 @@ This web site contains links to other sites. Please be aware that PalmInfocenter
 **_Polls & Contests_**  
 From time-to-time our site requests information from users via surveys or contests. Participation in these polls or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age). Contact information will be used to notify the winners and award prizes. Poll results are not linked to personally identifiable information. Results will only be used for purposes of monitoring or improving the use and satisfaction of this site. 
 
-Any privacy policy questions or concerns can be addressed to the [Editor](mailto:webmaster@palminfocenter.com). 
+Any privacy policy questions or concerns can be addressed to: 
