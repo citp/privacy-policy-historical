@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acehardware.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210055038id_/http%3A//www.acehardware.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dfooterlink_privacy_txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acehardware.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615010953id_/http%3A//www.acehardware.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dfooterlink_privacy_txt) for the most accurate reproduction.*
 
 # Ace Helpdesk
 
@@ -8,7 +8,7 @@ GSI Commerce Solutions, Inc. ("GSI") operates this Web site, acehardware.com, pu
 
 Please be advised that the practices described in this Privacy Policy apply only to information gathered through this Web site and, where applicable, through our Customer Service Department in connection with this Web site, and do not necessarily reflect our practices with respect to information gathered through other Web sites that we operate or through other off-line means. 
 
-If you have any questions regarding this Privacy Policy, you should contact our Customer Service Department by email at [customersupport@acehardware.com](mailto:customersupport@acehardware.com). 
+If you have any questions regarding this Privacy Policy, you should contact our Customer Service Department by email at [customersupport@acehardware.com](mailto:customersupport@acehardware.com?%20subject=Privacy%20Policy%20Questions). 
 
 **_What Information About Me Is Collected and Stored?_**
 
@@ -16,7 +16,7 @@ We collect and store information that you enter into this Web site or that you p
 
 We collect and store certain other information automatically whenever you interact with this Web site. For example, we collect your IP address, browser information and reference site domain name every time you visit this Web site. We also collect information regarding customer traffic patterns and site usage. This information is used to analyze and improve this Web site and to provide our customers with a fulfilling shopping experience. 
 
-We may also uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of these technologies, go to [http://www.doubleclick.net/us/corporate/privacy](https://web.archive.org/void\(window.open\('http://www.doubleclick.net/us/corporate/privacy','doubleclick','width=800,height=600'\)\);/index.jsp). 
+We may also uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. 
 
 Also, like many Web sites, we use "cookies", which are files stored on your computer's hard drive by your browser. Cookies help us to identify account holders and to optimize their shopping experience. Cookies also allow us to hold selections in a shopping cart when a user leaves this Web site without checking out. Most browsers accept cookies automatically but allow you to disable them. We recommend that you leave cookies "turned on" so that we can offer you a better shopping experience on this Web site. 
 
@@ -42,7 +42,7 @@ As with any business, it is possible that as our business develops, we might sel
 
 **_What Steps Are Taken To Keep Personal Information Secure?_**
 
-We use various security measures, including Secure Socket Layer (SSL) encryption technology, to protect personal information that we collect. If you place an order through this Web site, you will be asked to set up an account and provide an email address and password. You must provide an appropriate email address and password in order to access account information. In order to help protect your personal information further, you should be careful about providing your password to others. If you wish to cancel a password, or if you become aware of any loss, theft or unauthorized use of a password, please contact our Customer Service Department by email at [customersupport@acehardware.com](mailto:customersupport@acehardware.com) or by phone at 1-866-290-5334. 
+We use various security measures, including Secure Socket Layer (SSL) encryption technology, to protect personal information that we collect. If you place an order through this Web site, you will be asked to set up an account and provide an email address and password. You must provide an appropriate email address and password in order to access account information. In order to help protect your personal information further, you should be careful about providing your password to others. If you wish to cancel a password, or if you become aware of any loss, theft or unauthorized use of a password, please contact our Customer Service Department by email at [customersupport@acehardware.com](mailto:customersupport@acehardware.com?%20subject=Privacy%20Policy%20Questions) or by phone at 1-866-290-5334. 
 
 **_How Can I Access, Correct and Update Personal Information?_**
 
