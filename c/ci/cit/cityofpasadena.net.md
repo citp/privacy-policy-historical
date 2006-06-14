@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cityofpasadena.net privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217224212id_/http%3A//www.cityofpasadena.net/privacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityofpasadena.net privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615000127id_/http%3A//cityofpasadena.net/privacyStatement.asp) for the most accurate reproduction.*
 
 # City of Pasadena Privacy Policy
 
@@ -29,8 +29,8 @@ Notwithstanding the provisions listed previously in this section, information su
 The City of Pasadena is required by the Health Insurance Portability and Accountability Act of 1996 (HIPAA) to maintain the privacy of certain confidential health care information, known as “Protected Health Information,” or “PHI,” and to provide you with a notice of the City’s legal duties and privacy practices regarding your PHI. This Notice describes your legal rights, advises you of the City’s privacy practices, and explains the circumstances under which the City is permitted to use and disclose PHI about you.     
 The HIPAA notice can be downloaded from the following links:
 
-[HIPAA notice (English)](https://web.archive.org/web/20051217224212id_/http%3A//www.cityofpasadena.net/pdf/hipaa.pdf)  
-[HIPAA notice (Spanish)](https://web.archive.org/web/20051217224212id_/http%3A//www.cityofpasadena.net/pdf/hippaSpanish.pdf)  
+[HIPAA notice (English)](https://web.archive.org/web/20060615000127id_/http%3A//cityofpasadena.net/pdf/hipaa.pdf)  
+[HIPAA notice (Spanish)](https://web.archive.org/web/20060615000127id_/http%3A//cityofpasadena.net/pdf/hippaSpanish.pdf)  
 
 
 |    
