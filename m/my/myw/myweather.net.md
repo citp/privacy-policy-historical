@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myweather.net privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219234656id_/http%3A//www.myweather.net/policy/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myweather.net privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615003438id_/http%3A//www.myweather.net/policy/Privacy.html) for the most accurate reproduction.*
 
 # MyWeather LLC
 
@@ -9,9 +9,7 @@
 
 **Effective** **6/30/04** ****
 
-### **Most Recent Revision:   11/3/05**
-
-Para leer la Política de Privacidad en Español, [ haga clic aquí](https://web.archive.org/web/20051219234656id_/http%3A//www.myweather.net/Policy/%7Bold%7Dprivacy_sp.html).
+### **Most Recent Revision:  1/31/06**
 
 We take your privacy very seriously.  MyWeather LLC is committed to protecting your privacy while accessing our services or content.  MyWeather is a supplier of content to the web site by which you’re accessing our services, and this policy applies only to content and services supplied and supported directly by MyWeather LLC.  We work hard to integrate our services with our partners’ web sites to give you a great user experience, but such entities are not bound by MyWeather’s privacy policy.  We can therefore make no warranties about the policies governing our partners’ sites in general - please refer to their privacy policy for additional information.
 
@@ -91,7 +89,7 @@ From time-to-time your registration with us may provide you the opportunity to p
 
 **How We Share Your Information:**
 
-MyWeather will not sell or otherwise transfer your personally identifiable information to a third party for their sole use.  Your information may be shared with the web site partner by whom you’ve accessed our services upon request for contests or data.  When we share your information, we have agreements with our partners stating that they not sell or transfer your personally identifiable information to third parties.
+MyWeather will not sell or otherwise transfer your personally identifiable information to a third party for their sole use.  Your information may be shared with the web site partner by whom you’ve accessed our services upon request for contests or their internal subscriber data.  Information that may be shared include name, email address and street address.  When we share your information, we have agreements with our partners stating that they not sell or transfer your personally identifiable information to third parties.
 
 MyWeather may share your information time to time with reputable third parties, to support basic business functions (“Third Party Processors”).  These Third Party Processors may include, for example, companies that operate our billing and fulfillment functions, or an online store. These Third Party Processors may organize, manage, administer, process, and/or analyze data on our behalf.  Third Party Processors may correct or update such data as needed.  MyWeather will work to ensure that in such arrangements all data is handled securely, and that confidentiality is maintained.
 
