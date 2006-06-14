@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the submitexpress.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231065209id_/http%3A//www.submitexpress.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the submitexpress.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615014250id_/http%3A//www.submitexpress.com/policy.html) for the most accurate reproduction.*
 
-# Submit Express - Privacy Policy
+# Search engine optmization with guaranteed results
 
 Submit Express believes that strong electronic privacy is crucial for the ongoing success of the Internet as a service, commercial and entertainment medium. To this end, unless you designate otherwise, the information you enter here will be known to only two parties: you and Submit Express. We pledge that Submit Express will not release your personal data to anyone else without your consent - period. You may change the status of whether you wish to receive Submit Express offers and communications at any time. When we do present information to our advertisers, unless you tell us otherwise, it is in the form of aggregate statistics compiled among all of our visitors' answers to survey questions as well as grouped on-site behavior. 
 
