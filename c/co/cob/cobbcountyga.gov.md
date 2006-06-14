@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cobbcountyga.gov privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216212319id_/http%3A//cobbcountyga.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cobbcountyga.gov privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615004354id_/http%3A//www.cobbcountyga.gov/privacy.htm) for the most accurate reproduction.*
 
-# Untitled Document
+# Cobb County Privacy Policy
 
 **Privacy Policy**  
 This computer system is for the use of Cobb County Government for the purpose of providing services and information via the Internet. Unauthorized access or access which exceeds authorized access is punishable by law. 
