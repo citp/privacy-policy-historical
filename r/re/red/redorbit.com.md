@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the redorbit.com privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227040459id_/http%3A//www.redorbit.com/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redorbit.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615004824id_/http%3A//redorbit.com/privacy_statement) for the most accurate reproduction.*
 
 # RedOrbit - Privacy Statement
 
-This privacy statement covers the site www.rednova.com. Because this Web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices. 
+This privacy statement covers the site [www.redorbit.com](http://www.redorbit.com/). Because this Web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices. 
 
-  * What personally identifiable information RedNova, Inc. collects. 
+  * What personally identifiable information RedOrbit, Inc. collects. 
   * What personally identifiable information third parties collect through the Web site. 
   * What organization collects the information. 
-  * How RedNova, Inc. uses the information. 
-  * With whom RedNova, Inc. may share user information. 
+  * How RedOrbit, Inc. uses the information. 
+  * With whom RedOrbit, Inc. may share user information. 
   * What choices are available to users regarding collection, use and distribution of the information. 
-  * What types of security procedures are in place to protect the loss, misuse or alteration of information under RedNova, Inc. control. 
+  * What types of security procedures are in place to protect the loss, misuse or alteration of information under RedOrbit, Inc. control. 
   * How users can correct any inaccuracies in the information. 
 
 
@@ -19,7 +19,7 @@ This privacy statement covers the site www.rednova.com. Because this Web site wa
 
  **Information Collection**
 
-RedNova, Inc. is the sole owner of the information collected on RedNova.com. RedNova, Inc. collects information from our users at several different points on our Web site. 
+RedOrbit, Inc. is the sole owner of the information collected on RedOrbit.com. RedOrbit, Inc. collects information from our users at several different points on our Web site. 
 
 **Registration**
 
@@ -33,24 +33,24 @@ We request information from the user on our order form. A user must provide cont
 
  **Profile**
 
-We store information that we collect through cookies, log files, clear gifs, and/or third parties to create a profile of our users. A profile is stored information that we keep on individual users that details their viewing preferences. Consequently, collected information is tied to the users personally identifiable information to provide offers and improve the content of the site for the user. This profile is used to tailor a user?s visit to our Web site, and to direct pertinent marketing promotions to them. We do not share your profile with other third parties. 
+We store information that we collect through cookies, log files, clear gifs, and/or third parties to create a profile of our users. A profile is stored information that we keep on individual users that details their viewing preferences. Consequently, collected information is tied to the users personally identifiable information to provide offers and improve the content of the site for the user. This profile is used to tailor a user's visit to our Web site, and to direct pertinent marketing promotions to them. We do not share your profile with other third parties. 
 
 **Cookies**
 
 A cookie is a piece of data stored on the user's computer tied to information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. We use both session ID cookies [and] persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. 
 
-We use cookies to enhance the RedNova experience. By setting a cookie on our site, users would not have to log in a password more than once, thereby saving time while on our site. If users reject the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. For example, the user will not be able to participate in any of our sweepstakes, contests or monthly drawings that take place. Persistent cookies enable us to track and target the interests of our users to enhance the experience on our site. See the 'Profile' section.
+We use cookies to enhance the RedOrbit experience. By setting a cookie on our site, users would not have to log in a password more than once, thereby saving time while on our site. If users reject the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. For example, the user will not be able to participate in any of our sweepstakes, contests or monthly drawings that take place. Persistent cookies enable us to track and target the interests of our users to enhance the experience on our site. See the 'Profile' section.
 
 Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. 
 
 **Third Party Advertising**
 
 The ads appearing on this Web site are delivered to users by our ad serving software. Information about users' visit to this site, such as number of times they have viewed an ad (but not user name, address, or other personal information), is used to serve ads to users on this site.   
-This privacy statement covers the use of cookies by RedNova, Inc. only and does not cover the use of cookies by any advertisers.
+This privacy statement covers the use of cookies by RedOrbit, Inc. only and does not cover the use of cookies by any advertisers.
 
-**Third Party Advertising - MaxOnline**
+**Third Party Advertising - Advertising.com**
 
-We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp). 
+We use third-party advertising companies to serve ads when you visit our Web site.  These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.  If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: <http://www.networkadvertising.org/consumer/opt_out.asp>
 
 **Third Party Cookies**
 
@@ -105,7 +105,7 @@ We use an outside shipping company to ship orders, and a credit card processing 
 
  **Business Transitions**
 
-In the event RedNova, Inc. goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. Users will be notified via email prior to a change of ownership or control of their personal information. If as a result of the business transition, the users? personally identifiable information will be used in a manner different from that stated at the time of collection they will be given choice consistent with our notification of changes section.
+In the event RedOrbit, Inc. goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. Users will be notified via email prior to a change of ownership or control of their personal information. If as a result of the business transition, the users? personally identifiable information will be used in a manner different from that stated at the time of collection they will be given choice consistent with our notification of changes section.
 
  **Choice/Opt-out**
 
@@ -117,7 +117,7 @@ Users of our site are always notified when their information is being collected 
 
  **Links**
 
-This Web site contains links to other sites. Please be aware that we, RedNova, Inc., are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+This Web site contains links to other sites. Please be aware that we, RedOrbit Inc., are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
 
 **Surveys [ & Contests] **
 
@@ -125,7 +125,7 @@ From time-to-time our site requests information from users via surveys or contes
 
 **Tell-A-Friend**
 
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. RedNova, Inc. will automatically send the friend a one-time email inviting them to visit the site. RedNova, Inc. stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. The friend may contact RedNova, Inc. to request the removal of this information from our database.
+If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. RedOrbit, Inc. will automatically send the friend a one-time email inviting them to visit the site. RedOrbit, Inc. stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. The friend may contact RedOrbit, Inc. to request the removal of this information from our database.
 
  **Security**
 
@@ -139,11 +139,7 @@ While we use SSL encryption to protect sensitive information online, we also do 
 
 In order for this Web site to properly fulfill its obligation to users it is necessary for us to supplement the information we receive with information from 3rd party sources.
 
- **Credit Check**
-
-For example, to determine if users qualify for one of our credit cards, we use their name and social security number to request a credit report. Once we determine a user's credit-worthiness, this document is destroyed. 
-
-**Correcting/Updating/Deleting/Deactivating Personal Information**
+ **Correcting/Updating/Deleting/Deactivating Personal Information**
 
 If a user's personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can usually be done at the member information page or by emailing our Customer Support. 
 
@@ -163,5 +159,5 @@ In the course of serving advertisements to this site, our third-party advertiser
 
  **Contact Information**  
 If users have any questions or suggestions regarding our privacy policy, please contact us at:   
-Web site URL : [www.rednova.com](http://www.rednova.com/)  
+Web site URL : [www.redorbit.com](http://www.redorbit.com/)  
   
