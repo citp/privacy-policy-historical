@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the plano.gov privacy policy that was archived on 2005-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051018033938id_/http%3A//www.planotx.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plano.gov privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615015433id_/http%3A//www.planotx.org/privacy_policy.html) for the most accurate reproduction.*
 
 # The City of Plano, Texas Official Website
 
 **Privacy Statement    **        
 
 
-This policy describe the city of Plano, Texas privacy practices regarding information collected from and provided to visitors to the site, [www.planotx.org](https://web.archive.org/web/20051018033938id_/http%3A//) and all departmental sites contained within. It contains information about specific data collected and how that information is used. This privacy statement applies to this web site and all websites of the city of Plano. When you follow a link to another site, even the sites of other governmental agencies, this policy will not apply. You should check the privacy policy of each of these sites if you have concerns about how they handle personally identifiable information. This statement may be updated periodically; please check back from time to time.
+This policy describe the city of Plano, Texas privacy practices regarding information collected from and provided to visitors to the site, [www.planotx.org](https://web.archive.org/web/20060615015433id_/http%3A//) and all departmental sites contained within. It contains information about specific data collected and how that information is used. This privacy statement applies to this web site and all websites of the city of Plano. When you follow a link to another site, even the sites of other governmental agencies, this policy will not apply. You should check the privacy policy of each of these sites if you have concerns about how they handle personally identifiable information. This statement may be updated periodically; please check back from time to time.
 
   
 **Collection and Use of Information**
@@ -66,7 +66,8 @@ We use this information to help us make our site more useful to visitors - to le
 
   
 **Links to Non-City of Plano Sites**  
-The city of Plano website and all its related departmental websites have links to many other governmental agencies and organizations, both public and private. Once you link to another non-city of Plano site, you are subject to the privacy policy of the new site.
+The city of Plano website and all its related departmental websites have links to many other governmental agencies and organizations, both public and private. Once you link to another non-city of Plano site, you are subject to the privacy policy of the new site. The City of Plano is not responsible for content carried on non-city of Plano sites to which we link.  
+ 
 
   
 **E-Mail Request for Information**
