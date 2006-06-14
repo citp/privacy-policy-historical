@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usb.org privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218031603id_/http%3A//www.usb.org/about/statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usb.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615001633id_/http%3A//www.usb.org/about/statement) for the most accurate reproduction.*
 
 # USB.org - Privacy Statement
 
@@ -43,8 +43,8 @@ This site gives users the following options for removing their information from 
 
   1. You can send email to [admin@usb.org](mailto:admin@usb.org)
   2. You can send mail to the following postal address:  
-_5440 SW Westgate Drive, Suite 217 Portland, OR 97221_
-  3. You can call the following number: +1 (503) 296-9892 
+_3855 SW 153rd Drive, Beaverton, OR   97006, USA_
+  3. You can call the following number: +1 (503) 619-0426 
 
 
 
@@ -55,9 +55,9 @@ This site gives users the following options for changing and modifying informati
 
   1. You may send email to [admin@usb.org](mailto:admin@usb.org)
   2. You may send mail to the following postal address:   
-_5440 SW Westgate Drive, Suite 217 Portland, OR 97221_
+_3855 SW 153rd Drive, Beaverton, OR   97006, USA_
   3. Visit [www.usb.org/members/](http://www.usb.org/members/)
-  4. You may call +1 (503) 296-9892 
+  4. You may call +1 (503) 619-0426 
 
 
 
