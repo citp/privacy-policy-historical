@@ -1,38 +1,8 @@
-> *The following text is extracted and transformed from the netrition.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231172048id_/http%3A//www19.netrition.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netrition.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615015321id_/http%3A//www24.netrition.com/privacy_statement.html) for the most accurate reproduction.*
 
 # Privacy Statement for Netrition, Inc.
 
-[](http://www19.netrition.com/) |  | [](http://www19.netrition.com/) | [](http://www19.netrition.com/cgi/add_to_cart.cgi?cart_display=true) | [](http://www19.netrition.com/checkout.html) | [](http://www19.netrition.com/myaccount.html) | [](http://www19.netrition.com/policies.html) |   
----|---|---|---|---|---|---|---  
-[Ordering Policies](http://www19.netrition.com/policies.html)   
-[Prices](http://www19.netrition.com/prices.html)   
-[Sale Items!](http://www19.netrition.com/specials.html)   
-[Contact Us](http://www19.netrition.com/contact.html)   
-[Redeem Coupon](http://www19.netrition.com/cgi/provide_cert.cgi?display_form=true)   
-|  [Drink Mixes](http://www19.netrition.com/lowfat_mrp_page.html)   
-[Nutrition Bars](http://www19.netrition.com/bars_page.html)   
-[Nutritional Oils](http://www19.netrition.com/oils_page.html)   
-[Protein Powders](http://www19.netrition.com/protein_powders_page.html)   
-|  [Fat Loss/Energy](http://www19.netrition.com/fatloss.html)   
-[Low Carb Foods](http://www19.netrition.com/low_carb_products_page.html)   
-[Muscle Builders](http://www19.netrition.com/muscle_builders_page.html)   
-|  [Books](http://www19.netrition.com/cgi/product_categories_display.cgi?categories=BOOK&show_products=true)   
-[Browse Products](http://www19.netrition.com/cgi/product_categories_display.cgi)   
-[Herbs](http://www19.netrition.com/herbs_page.html)   
-[Minerals](http://www19.netrition.com/minerals_page.html)   
-[Vitamins](http://www19.netrition.com/vitamins_page.html)   
-|  [Food Nutrients](http://www19.netrition.com/cgi/foods.cgi)   
-[Health News](http://www19.netrition.com/cgi/news.cgi)   
-[HealthNotes](http://www19.netrition.com/healthnotes.html)   
-[Ripped News](http://www19.netrition.com/cgi/magazine_display.cgi)   
-|   
----|---|---|---|---|---  
-[](http://www19.netrition.com/prices.html) |    
-|  |  [](http://www19.netrition.com/prices.html) |    
-  
----|---|---|---|---  
-  
-
+|  | 
 
 ### Privacy Statement for Netrition
 
@@ -44,22 +14,32 @@ We may use your IP address (a network identification number) to help diagnose pr
 
 Our site uses Cookies to keep track of your shopping cart and user preferences. We also may use Cookies to deliver content specific to your interests. 
 
-Our site's registration form requires users to give us contact information (like their name, address, phone number and email address), and allows storing of payment information (like their credit card numbers). We use customer contact information from the registration form to process orders, contact you concerning your order and maintain our subscription email lists. Users may opt-out of receiving future mailings; see the Choice/Opt-Out section below. Payment information that is collected is used to bill the user for products. 
+Our site uses an ordering system for customers to request products. We collect visitor's contact information (like their name, address, phone number and email address) and payment information (like their credit card numbers). Contact information from the ordering system is used to send orders and - if you choose to join our email mailing list(s) - information about our company. Users may opt-out of receiving future mailings; see the Choice/Opt-Out section below. Payment information that is collected is used to bill the user for products and services. 
 
 This site contains links to other sites. **Netrition, Inc.** is not responsible for the privacy practices or the content of such Web sites. 
 
-Our site uses an ordering system for customers to request products. We collect visitor's contact information (like their name, address, phone number and email address) and payment information (like their credit card numbers). Contact information from the ordering system is used to send orders and - if you do not choose to decline being on our email mailing list(s) - information about our company. The customer's contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the Choice/Opt-Out section below. Payment information that is collected is used to bill the user for products and services. 
-
-We may run contests on our site in which we ask visitors for contact information (like their email address). We use contact data from our contests to send users information about our company. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
-
 #### Security
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. We use Secure Sockets Layer (SSL) which is the industry-standard encryption scheme to scramble data so it can be transmitted securely to us. 
-
-#### Supplementation Information
-
-This site supplements the information that you provide with information that is received from third parties. 
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. We use Secure Sockets Layer (SSL) which is the industry-standard encryption scheme to scramble data so it can be transmitted securely to us. We perform periodic security scans of computer systems responsible for the processing of customer information. 
 
 #### Choice/Opt-Out
 
-Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. 
+Our site provides users the opportunity to opt-out of receiving email from us from within emails sent from our mailing list. 
+
+This site gives users the option for removing an email address from our email lists. To do so, you can visit the following URL: [http://www.netrition.com/subscribe.html](https://web.archive.org/subscribe.html)
+
+#### Correct/Update
+
+To modify information previously provided, visit [http://www.netrition.com/myaccount.html](https://web.archive.org/myaccount.html)
+
+#### Contacting the Web Site
+
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
+
+Customer Relations  
+Netrition, Inc.  
+20 Petra Lane  
+Albany, NY 12205  
+Or [contact us online](http://www.netrition.com/cgi/feedback_form.cgi)
+
+|  | 
