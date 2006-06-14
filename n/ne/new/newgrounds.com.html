@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the newgrounds.com privacy policy that was archived on 2005-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051223111033id_/http%3A//newgrounds.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the newgrounds.com privacy policy that was archived on 2006-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615001309id_/http%3A//newgrounds.com/privacy.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>Newgrounds Privacy Statement</title>
@@ -12,22 +12,21 @@
 <script language="JavaScript">
 <!--
 
-	var ng_image_rolls = new Array("sub_nav_2", "sub_nav_3", "sub_nav_4", "sub_nav_5", "sub_nav_6", "sub_nav_7");
-
-	function InitNGRolls()
+	function InitNGRolls(num)
 	{
 		var this_image;
-		for(var i=0; i<ng_image_rolls.length; i++)
+
+		for(var i=1; i<=num; i++)
 		{
-			this_image = ng_image_rolls[i];
+			this_image = "nav_b" + i;
 			eval(this_image + "on = new Image();");
-			eval(this_image + "on.src = \"/layout04/" + this_image + "_on.gif\";");
+			eval(this_image + "on.src = \"/images2006/" + this_image + "_on.gif\";");
 			eval(this_image + "off = new Image();");
-			eval(this_image + "off.src = \"/layout04/" + this_image + ".gif\";");
+			eval(this_image + "off.src = \"/images2006/" + this_image + "_off.gif\";");
 		}
 	}
 
-	//InitNGRolls();
+	InitNGRolls(8);
 
 	function NGRollOver(name)
 	{
@@ -37,12 +36,6 @@
 	function NGRollOut(name)
 	{
 		document.images[name].src = eval(name + "off.src");
-	}
-
-	function JumpToHotContent()
-	{
-		if(document.hotcontent.directory.selectedIndex != 0)
-			window.location.href = document.hotcontent.directory.options[document.hotcontent.directory.selectedIndex].value;
 	}
 
 	function GetHeightWidth(height, width)
@@ -59,44 +52,61 @@
 		return(text);
 	}
 
-		function LookForCook(this_name)
-		{
-			var our_cookies = document.cookie;
-			var pos = (our_cookies.indexOf(this_name)+this_name.length+1);
+	function LookForCook(this_name)
+	{
+		var our_cookies = document.cookie;
+		var pos = (our_cookies.indexOf(this_name)+this_name.length+1);
 
-			if(our_cookies.substring(pos,(pos+1)) == "Y")
+		if(our_cookies.substring(pos,(pos+1)) == "Y")
+		{
+			return("Y");
+		} else
+		{
+			return("N");
+		}
+	}
+
+	function LookForThisCook(this_name)
+	{
+		return(ReturnCookie(this_name));
+	}
+
+	function ReturnCookie(this_name)
+	{
+		var parts = document.cookie.split(';');
+		var sub_parts;
+
+		for(var i=0; i<parts.length; i++)
+		{
+			sub_parts = parts[i].split('=');
+
+			sub_parts[0] = sub_parts[0].replace(/\s/, '');
+			if(sub_parts[0] == this_name)
 			{
-				return("Y");
-			} else
-			{
-				return("N");
+				return(sub_parts[1]);
 			}
 		}
 
-		// Start multi-poll stuff
-		//if(LookForCook("ng_multipolls") != "Y")
-		//{
-		//	window.open("/multipolls/alienhominidfeeler.html", "AHSniffer", GetHeightWidth(460, 665) + ',location=0,menubar=0,resizable=0,scrollbars=1,status=0,titlebar=0,toolbar=0,hotkeys=0');
-			window.focus();
-		//}
-		// End multi-poll stuff
+		return(-1);
+	}
 
-		function DoEncEmail(dom, recip, name)
+	function DoEncEmail(dom, recip, name)
+	{
+		var dom_parts = dom.split("|");
+
+		document.write('<a href="mailto:');
+		document.write(recip + "@");
+
+		for(var i=(dom_parts.length-1); i>=0; i--)
 		{
-			var dom_parts = dom.split("|");
-
-			document.write('<a href="mailto:');
-			document.write(recip + "@");
-			for(var i=(dom_parts.length-1); i>=0; i--)
+			document.write(dom_parts[i]);
+			if(i!=0)
 			{
-				document.write(dom_parts[i]);
-				if(i!=0)
-				{
-					document.write(".");
-				}
+				document.write(".");
 			}
-			document.write('">' + name + '</a>');
 		}
+		document.write('">' + name + '</a>');
+	}
 
 	function CheckSearch()
 	{
@@ -115,12 +125,12 @@
 
 	function OpenGGWin()
 	{
-		window.open('/gold/login.php', 'goldwin', GetHeightWidth(375, 560) + ',location=0,menubar=0,resizable=0,scrollbars=1,status=0,titlebar=0,toolbar=0,hotkeys=0');
+		window.open('/gold/login.php', 'goldwin');
 	}
 
 	function OpenSignupWin()
 	{
-		window.open('/gold/signup.php', 'signupwin', GetHeightWidth(350, 550) + ',location=0,menubar=0,resizable=0,scrollbars=1,status=0,titlebar=0,toolbar=0,hotkeys=0');
+		window.open('/gold/signup.php', 'signupwin');
 	}
 
 	function OpenForgotPassWin()
@@ -138,21 +148,52 @@
 		window.open('/show_flash.php?file=' + file + '&height=' + height + '&width=' + width + '&url=' + url + '&name=' + name, name, GetHeightWidth(height + 42, width) + ',location=0,menubar=0,resizable=0,scrollbars=0,status=0,titlebar=0,toolbar=0,hotkeys=0');
 	}
 
-	// For visited links...
-	// #B47101
+	function CheckMainLoginForm()
+	{
+		if(document.mainformlogin.username.value.length == 0)
+		{
+			alert("You must enter your username before you can log in.");
+			document.mainformlogin.username.focus();
+			return(false);
+		}
+		else if(document.mainformlogin.userpass.value.length == 0)
+		{
+			alert("You must enter your password before you can log in.");
+			document.mainformlogin.userpass.focus();
+			return(false);
+		}
+
+		document.mainformlogin.submit();
+	}
+
+	function DoStuff()
+	{
+		if(document.mainformlogin.username.value.length == 0)
+		{
+			document.mainformlogin.username.focus();
+		} else
+		{
+			document.mainformlogin.userpass.focus();
+		}
+	}
+
+	function OpenRememberExplainWin()
+	{
+		window.open('/gold/explainremember.html', 'explwin', GetHeightWidth(350, 400) + ',location=0,menubar=0,resizable=0,scrollbars=1,status=0,titlebar=0,toolbar=0,hotkeys=0');
+	}
 
 //-->
 </script>
 <style type="text/css">
 <!--
 
-FORM { margin-bottom : 0 px; margin-top : 0 px; }
+FORM { margin-bottom : 0px; margin-top : 0px; }
 
 body
 {
 	background-color: #2F3238;
 	color: #C2C7CB;
-	background-image: url(/layout04/bg_page.gif);
+	background-image: url(/images2006/bg_gradient.gif);
 	background-repeat: repeat-x;
 	margin-top: 0px;
 	margin-left: 0px;
@@ -234,42 +275,209 @@ body, div, td
 	font-size: 13px;
 }
 
+a.header:link { color: #ffcc00; }
+a.header:visited { color: #ffcc00; }
+a.header:hover { color: #ffffff; }
+a.header:active { color: #ffab0d; }
+
+.font_header
+{
+	font-family: Arial,Helvetica;
+	font-size: 10px;
+	font-weight: bold;
+	letter-spacing: 1px;
+}
+
+.font_small_header
+{
+	font-family: Arial,Helvetica;
+	font-size: 9px;
+}
+
 //-->
 </style>
 
-<map name="top_nav_map">
-<area shape="rect" alt="[ Help ]" coords="15,19,45,31" href="/lit/portal_faq.html">
-<area shape="rect" alt="[ Forums ]" coords="50,19,92,31" href="/bbs/">
-<area shape="rect" alt="[ Chat ]" coords="97,19,127,31" href="/chat/">
-<area shape="rect" alt="[ Lit ]" coords="132,19,196,31" href="/lit/">
-<area shape="rect" alt="[ Webcams ]" coords="201,19,249,31" href="/webcam/">
-<area shape="rect" alt="[ Users ]" coords="254,19,290,31" href="/users_list.html">
-<area shape="rect" alt="[ Network ]" coords="295,19,343,31" href="/network/net_news.html">
-<area shape="rect" alt="[ Submit Content! ]" coords="348,19,434,31" href="/submit.html">
-<area shape="rect" alt="[ Home ]" coords="610,19,755,31" href="/">
-</map>
 
 <table border="0" cellpadding="0" cellspacing="0" width="770" align="center">
 	<tbody><tr>
-		<td align="center"><img src="/layout04/top_nav_map.gif" width="770" height="36" border="0" usemap="#top_nav_map"></td>
-	</tr>
-	<tr>
-		<td align="center">
-		<table border="0" cellpadding="0" cellspacing="0" width="770">
+		<td background="/images2006/top.gif" height="144">
+		<table border="0" cellpadding="0" cellspacing="0" width="770" height="144">
 			<tbody><tr>
-				<td width="275"><img src="/layout04/newhf/head_logo.gif" width="275" height="92" border="0" alt="" usemap="#head_logo_map"><map name="head_logo_map"><area shape="rect" alt="" coords="16,7,268,84" href="/"></map></td>
-				<td background="/layout04/newhf/top_bg.gif" width="486" align="center">
-				<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="486" height="92" id="ng_nav" align="">
-				<param name="movie" value="/layout04/newhf/ng_nav.swf">
-				<param name="quality" value="high">
-				<param name="wmode" value="transparent">
-				<param name="bgcolor" value="#393E42"><embed src="/layout04/newhf/ng_nav.swf" quality="high" bgcolor="#393E42" width="486" height="92" name="ng_nav" align="" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
-				</object>
+				<td width="355"><a href="/index.html"><img src="/images2006/spacer.gif" width="345" height="144" border="0"></a></td>
+				<td width="242">
+				<table border="0" cellpadding="0" cellspacing="0" width="242">
+					<tbody><tr>
+						<td><img src="/images2006/spacer.gif" width="242" height="95"></td>
+					</tr>
+					<tr>
+						<td align="center">
+						<table border="0" cellpadding="0" cellspacing="0">
+							<tbody><tr>
+								<td><img src="/images2006/search_head.gif" width="215" height="8"></td>
+							</tr>
+							<tr>
+								<td><form method="GET" name="search" action="/portal/search.php" onsubmit="return(CheckSearch());">
+								<table border="0" cellpadding="0" cellspacing="0">
+									<tbody><tr>
+										<td align="right"><img src="/images2006/search_left.gif" width="16" height="18"></td>
+										<td><input type="text" name="terms" size="12" style="font-family: Arial; font-size: 8pt; background-color: rgb(255,204,0); color: rgb(0,0,0); border: 1px solid rgb(255,204,0)"></td>
+										<td><img src="/images2006/spacer.gif" width="5" height="5"></td>
+										<td><select name="kind" size="1" style="font-family: Arial; font-size: 8pt; background-color: rgb(69,81,96); color: rgb(255,204,0); border: 1px solid rgb(0,0,0)">
+										<option value="j">Title</option>
+										<option value="a">Author</option>
+										</select></td>
+										<td><img src="/images2006/spacer.gif" width="5" height="5"></td>
+										<td><input type="image" src="/images2006/search.gif" width="41" height="18" alt="SEARCH!" border="0"></td>
+									</tr>
+								</tbody></table>
+								</form></td>
+							</tr>
+							<tr>
+								<td><img src="/images2006/spacer.gif" width="5" height="5"></td>
+							</tr>
+						</tbody></table>
+						</td>
+					</tr>
+				</tbody></table>
 				</td>
-				<td width="9"><img src="/layout04/newhf/top_right.gif" width="9" height="92"></td>
+				<td valign="top"><img src="/images2006/spacer.gif" width="5" height="5"></td>
+				<td width="165" valign="top" align="right">
+				<table border="0" cellpadding="8" cellspacing="0" width="163">
+					<tbody><tr>
+						<td align="center" valign="middle" class="font_header">
+
+
+						<script language="javascript">
+						<!--
+
+							var logged_in_name = ReturnCookie('NG_GG_username');
+
+							if(LookForThisCook('logged_in') != 1)
+							{
+								document.write('<form method="POST" action="/gold/login.php" name="mainformlogin" onSubmit="return(CheckMainLoginForm());">');
+								document.write('<input type="hidden" name="action" value="1">');
+								document.write('<input type="hidden" name="l" value="');
+								document.write(window.location.pathname);
+								if(window.location.search != "")
+								{
+									document.write(escape(window.location.search));
+								}
+								document.write('">');
+								document.write('<table border="0" cellpadding="0" cellspacing="0">');
+								document.write('<tr>');
+								document.write('<td class="font_small_header"><font color="#FFFFFF">&gt;</font> <a href="/gold/signup.php"><font color="#FFCC00">Not a member? SIGN UP!</font></a><br><font color="#FFFFFF">&gt;</font> <a href="/gold/forgotpass.php3"><font color="#FFCC00">Forgot Login?</font></a><br><img src="/images2006/spacer.gif" width="5" height="10"></td>');
+								document.write('</tr>');
+								document.write('<tr>');
+								document.write('<td><img src="/images2006/head_username.gif" width="59" height="8"><br>');
+								document.write('<input type="text" name="username" size="24" maxlength="20" style="font-family: Arial; font-size: 8pt; background-color: rgb(255,204,0); color: rgb(0,0,0); border: 1px solid rgb(255,204,0)" value="');
+								if(logged_in_name != -1)
+								{
+									document.write(logged_in_name);
+								}
+								document.write('"><br>');
+								document.write('<img src="/images2006/spacer.gif" width="5" height="6"><br>');
+								document.write('<img src="/images2006/head_password.gif" width="60" height="8"><br>');
+								document.write('<input type="password" name="userpass" size="24" maxlength="10" style="font-family: Arial; font-size: 8pt; background-color: rgb(255,204,0); color: rgb(0,0,0); border: 1px solid rgb(255,204,0)"></td>');
+								document.write('</tr>');
+								document.write('<tr>');
+								document.write('<td><img src="/images2006/spacer.gif" width="5" height="6"></td>');
+								document.write('</tr>');
+								document.write('<tr>');
+								document.write('<td align="center">');
+								document.write('<table border="0" cellpadding="0" cellspacing="0" width="100%">');
+								document.write('<tr>');
+								document.write('<td><input type="checkbox" name="remember" value="on"></td>');
+								document.write('<td class="font_small_header" nowrap>Save! [<a href="javascript:OpenRememberExplainWin();">?</a>]</td>');
+								document.write('<td width="50%" align="right"><input type="image" name="jackin" src="/images2006/jack_in.gif" align="absbottom" width="71" height="18"></td>');
+								document.write('</tr>');
+								document.write('</table>');
+								document.write('</td>');
+								document.write('</tr>');
+								document.write('</table>');
+								document.write('</form>');
+							} else
+							{
+								document.write('<br/>Logged in as <b><i>' + logged_in_name + '</i></b>.');
+								document.write('<br/><img src="/images2006/spacer.gif" width="2" height="10"><br/><center><a href="/gold/login.php"><img src="/images2006/acct_opt.gif" width="84" height="18" border="0"></a>');
+								document.write('<br/><img src="/images2006/spacer.gif" width="2" height="10"><br/><a href="/pm/"><img src="/images2006/inbox.gif" width="84" height="18" border="0"></a>');
+								document.write('<br/><img src="/images2006/spacer.gif" width="2" height="10"><br/><a href="/gold/logout.php?');
+								document.write(window.location.pathname);
+								if(window.location.search != "")
+								{
+									document.write(escape(window.location.search));
+								}
+								document.write('"><img src="/images2006/logout.gif" width="84" height="18" border="0"></a></center>');
+							}
+
+						//-->
+						</script><form method="POST" action="/gold/login.php" name="mainformlogin" onsubmit="return(CheckMainLoginForm());"><input type="hidden" name="action" value="1"><input type="hidden" name="l" value="/web/20060615001309id_/http%3A//newgrounds.com/privacy.html"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="font_small_header"><font color="#FFFFFF">&gt;</font> <a href="/gold/signup.php"><font color="#FFCC00">Not a member? SIGN UP!</font></a><br><font color="#FFFFFF">&gt;</font> <a href="/gold/forgotpass.php3"><font color="#FFCC00">Forgot Login?</font></a><br><img src="/images2006/spacer.gif" width="5" height="10"></td></tr><tr><td><img src="/images2006/head_username.gif" width="59" height="8"><br><input type="text" name="username" size="24" maxlength="20" style="font-family: Arial; font-size: 8pt; background-color: rgb(255,204,0); color: rgb(0,0,0); border: 1px solid rgb(255,204,0)" value=""><br><img src="/images2006/spacer.gif" width="5" height="6"><br><img src="/images2006/head_password.gif" width="60" height="8"><br><input type="password" name="userpass" size="24" maxlength="10" style="font-family: Arial; font-size: 8pt; background-color: rgb(255,204,0); color: rgb(0,0,0); border: 1px solid rgb(255,204,0)"></td></tr><tr><td><img src="/images2006/spacer.gif" width="5" height="6"></td></tr><tr><td align="center"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td><input type="checkbox" name="remember" value="on"></td><td class="font_small_header" nowrap="">Save! [<a href="javascript:OpenRememberExplainWin();">?</a>]</td><td width="50%" align="right"><input type="image" name="jackin" src="/images2006/jack_in.gif" align="absbottom" width="71" height="18"></td></tr></tbody></table></td></tr></tbody></table></form>
+						<noscript><form method="POST" action="/gold/login.php" name="mainformlogin" onSubmit="return(CheckMainLoginForm());">
+						<input type="hidden" name="action" value="1">
+						<table border="0" cellpadding="0" cellspacing="0">
+							<tr>
+								<td class="font_small_header"><img src="/images2006/arrow_sm.gif" width="8" height="9"><font color="#FFFFFF"><i>Grounds Gold Sign-In!</i></font><br>
+								<img src="/images2006/arrow_sm.gif" width="8" height="9"><a href="/gold/signup.php">Not a member? SIGN UP!</a><br><img src="/images2006/spacer.gif" width="5" height="10"></td>
+							</tr>
+							<tr>
+								<td><img src="/images2006/head_username.gif" width="59" height="8"><br>
+								<input type="text" name="username" size="24" maxlength="20" style="font-family: Arial; font-size: 8pt; background-color: rgb(255,204,0); color: rgb(0,0,0); border: 1px solid rgb(255,204,0)"><br>
+								<img src="/images2006/spacer.gif" width="5" height="6"><br>
+								<img src="/images2006/head_password.gif" width="60" height="8"><br>
+								<input type="password" name="userpass" size="24" maxlength="10" style="font-family: Arial; font-size: 8pt; background-color: rgb(255,204,0); color: rgb(0,0,0); border: 1px solid rgb(255,204,0)"></td>
+							</tr>
+							<tr>
+								<td><img src="/images2006/spacer.gif" width="5" height="6"></td>
+							</tr>
+							<tr>
+								<td align="center">
+								<table border="0" cellpadding="0" cellspacing="0" width="100%">
+									<tr>
+										<td width="50%" class="font_small_header"><img src="/images2006/arrow_sm.gif" width="8" height="9"><a href="/gold/forgotpass.php3">Forgot info?</a></td>
+										<td width="50%" align="right"><input type="image" name="jackin" src="/images2006/jack_in.gif" align="absbottom" width="71" height="18"></td>
+									</tr>
+								</table>
+								</td>
+							</tr>
+						</table>
+						</form></noscript>
+
+
+						</td>
+					</tr>
+				</tbody></table>
+				</td>
+				<td valign="top" align="center"><img src="/images2006/spacer.gif" width="3" height="5"></td>
 			</tr>
 		</tbody></table>
 		</td>
+	</tr>
+	<tr>
+	<td align="center">
+		<table border="0" cellpadding="0" cellspacing="0" width="762" bgcolor="#000000">
+		<tbody><tr>
+		<td align="center" class="font_header"><a href="/primer.html" class="header">About Newgrounds</a> | <a href="/lit/portal_faq.html" class="header">Help / FAQ</a> | <a href="/chat/" class="header">Chat</a> | <a href="/lit/" class="header">Literature</a> | <a href="/webcam/" class="header">Webcams</a> | <a href="/mature/" class="header">Mature</a> | <a href="/users_list.html" class="header">Users</a> | <a href="/network/net_news.html" class="header">Network</a> | <a href="/togo/psp/" class="header">PSP</a> | <a href="/wallpapers/" class="header">Wallpapers</a> | <a href="/submit.html" class="header">Submit Content</a></td>
+		</tr>
+		<tr>
+		<td><img src="/images2006/spacer.gif" width="5" height="5"></td>
+		</tr>
+		</tbody></table>
+	</td>
+	</tr>
+	<tr>
+	<td>
+	  <table border="0" cellpadding="0" cellspacing="0">
+	  <tbody><tr>
+			<td><a href="/portal/" onmouseover="NGRollOver('nav_b1');window.status='Flash Portal';return true;" onmouseout="NGRollOut('nav_b1');window.status='';return true;"><img src="/images2006/nav_b1_off.gif" width="138" height="42" alt="Flash Portal" name="nav_b1" border="0"></a></td>
+			<td><a href="/audio/" onmouseover="NGRollOver('nav_b2');window.status='Audio Portal';return true;" onmouseout="NGRollOut('nav_b2');window.status='';return true;"><img src="/images2006/nav_b2_off.gif" width="127" height="42" alt="Audio Portal" name="nav_b2" border="0"></a></td>
+			<td><a href="/game/" onmouseover="NGRollOver('nav_b3');window.status='Games';return true;" onmouseout="NGRollOut('nav_b3');window.status='';return true;"><img src="/images2006/nav_b3_off.gif" width="74" height="42" alt="Games" name="nav_b3" border="0"></a></td>
+			<td><a href="/toon/" onmouseover="NGRollOver('nav_b4');window.status='Toons';return true;" onmouseout="NGRollOut('nav_b4');window.status='';return true;"><img src="/images2006/nav_b4_off.gif" width="68" height="42" alt="Toons" name="nav_b4" border="0"></a></td>
+			<td><a href="/collection/" onmouseover="NGRollOver('nav_b5');window.status='Collections';return true;" onmouseout="NGRollOut('nav_b5');window.status='';return true;"><img src="/images2006/nav_b5_off.gif" width="121" height="42" alt="Collections" name="nav_b5" border="0"></a></td>
+			<td><a href="/collection/series.html" onmouseover="NGRollOver('nav_b6');window.status='Series';return true;" onmouseout="NGRollOut('nav_b6');window.status='';return true;"><img src="/images2006/nav_b6_off.gif" width="73" height="42" alt="Series" name="nav_b6" border="0"></a></td>
+			<td><a href="/bbs/" onmouseover="NGRollOver('nav_b7');window.status='Forums';return true;" onmouseout="NGRollOut('nav_b7');window.status='';return true;"><img src="/images2006/nav_b7_off.gif" width="83" height="42" alt="Forums" name="nav_b7" border="0"></a></td>
+			<td><a href="/ngmag/" onmouseover="NGRollOver('nav_b8');window.status='NG Mag';return true;" onmouseout="NGRollOut('nav_b8');window.status='';return true;"><img src="/images2006/nav_b8_off.gif" width="86" height="42" alt="NG Mag" name="nav_b8" border="0"></a></td>
+	  </tr>
+	  </tbody></table>
+	</td>
 	</tr>
 	<tr>
 		<td align="center">
@@ -280,10 +488,10 @@ body, div, td
 				<script language="JavaScript">
 				<!--
 
-					var ng_chars = new Array("/iframe_tribalfusion.html", "/iframe_casale.html", "/iframe_casale.html", "/iframe_shizmoo.html");
-					document.write('<iframe src="' + ng_chars[Math.floor((Math.random()*ng_chars.length))] + '" scrolling="no" frameborder="no" align="center" height = "90px" width = "728px"></iframe>');
+				var ng_chars = new Array("/iframe_tribalfusion.html", "/iframe_casale.html", "/iframe_casale.html", "/iframe_shizmoo.html");
+				document.write('<iframe src="' + ng_chars[Math.floor((Math.random()*ng_chars.length))] + '" scrolling="no" frameborder="no" align="center" height = "90px" width = "728px"></iframe>');
 
-				//--></script><iframe src="/iframe_casale.html" scrolling="no" frameborder="no" align="center" height="90px" width="728px"></iframe><noscript><iframe src="/iframe_track.html" scrolling="no" frameborder="no" align="center" height = "90px" width = "728px"></iframe></noscript>
+				//--></script><iframe src="/iframe_tribalfusion.html" scrolling="no" frameborder="no" align="center" height="90px" width="728px"></iframe><noscript><iframe src="/iframe_track.html" scrolling="no" frameborder="no" align="center" height = "90px" width = "728px"></iframe></noscript>
 				</td>
 				<td width="26"><img src="/layout04/newhf/banner_right.gif" width="23" height="100"></td>
 			</tr>
@@ -291,14 +499,8 @@ body, div, td
 		</td>
 	</tr>
 	<tr>
-		<td><img src="/layout04/newhf/black_break.gif" width="770" height="1"></td>
-	</tr>
-	<tr>
 		<td background="/layout04/newhf/bg_full.gif" align="center">
 		<!---------- END GLOBAL HEADER ---------->
-
-
-
 
 
 <center>
@@ -629,7 +831,7 @@ Contacting the Web Site
 						<table border="0" cellpadding="0" cellspacing="0">
 							<tbody><tr>
 								<td><img src="/layout04/newhf/bot_2.gif" width="11" height="30"></td>
-								<td background="/layout04/newhf/bot_3.gif" class="font_vd_small"><b>Copyright 1995-2005 <a href="/">Newgrounds Inc</a>.<br>
+								<td background="/layout04/newhf/bot_3.gif" class="font_vd_small"><b>Copyright 1995-2006 <a href="/">Newgrounds Inc</a>.<br>
 								<img src="/layout04/newhf/spacer_3.gif" width="3" height="3"></b></td>
 								<td><img src="/layout04/newhf/bot_4.gif" width="13" height="30"></td>
 							</tr>
