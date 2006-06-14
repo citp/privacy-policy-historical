@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sas.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230231904id_/http%3A//sas.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sas.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615014304id_/http%3A//sas.com/Privacy.html) for the most accurate reproduction.*
 
 # SAS Institute Inc. | Privacy Statement
 
@@ -108,7 +108,4 @@ ATTN: Legal Division / Privacy Manager
 
 _Revised Oct. 1, 2004_
 
-|  |  |   
-  
----  
-Country Privacy Policies
+|  | 
