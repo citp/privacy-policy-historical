@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domaindirect.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228110310id_/https%3A//www.domaindirect.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domaindirect.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615003331id_/https%3A//www.domaindirect.com/policy.html) for the most accurate reproduction.*
 
 # Domain Name Registration and Web Hosting from Domain Direct
 
@@ -46,14 +46,14 @@ CA
 
 **Registration Service Provider:**  
 Domain Direct  
-1-416-531-2084  
+1-866-337-8633  
 **http:** //www.domaindirect.com/supportform.html  
 This company may be contacted for domain login/passwords,  
 DNS/Nameserver changes, and general domain support questions.
 
 **Registrar of Record:** TUCOWS, INC.  
-Record last updated on 11-Apr-2005.  
-Record expires on 01-Jun-2006.  
+Record last updated on 02-May-2006.  
+Record expires on 01-Jun-2007.  
 Record created on 02-Jun-1998.
 
 **Domain servers in listed order:**  
