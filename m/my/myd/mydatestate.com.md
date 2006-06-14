@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mydatestate.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223043431id_/http%3A//www.mydatestate.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydatestate.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614211407id_/http%3A//www.mydatestate.com/privacy.php) for the most accurate reproduction.*
 
 # Best Dating
 
