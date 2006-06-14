@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the evite.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218125902id_/http%3A//www.evite.com/pages/custservice/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evite.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615001357id_/http%3A//www.evite.com/pages/custservice/privacy.jsp) for the most accurate reproduction.*
 
 # Evite - View our privacy policy.
 
-EVITE PRIVACY POLICY
+**EVITE PRIVACY POLICY**
 
 Evite ("Evite") Statement on Privacy and Security of Information. The following policy explains our information gathering and dissemination practices. 
 
-Information Collected
+**Information Collected**
 
 1\. Your Personally Identifiable Information Collected by Evite:
 
@@ -40,7 +40,7 @@ When we send messages to you or others, we may provide a URL link to the Evite s
 
 7\. Pixel Tags: Evite uses pixel tags to gather information about the emails we send to our registered users and to recipients of messages. Pixel tags are tiny graphic files, not visible to the human eye, that are included in our HTML-encoded email messages. When such a message is opened in an HTML-capable email program, the recipient's computer will access our server to retrieve the pixel tag file, allowing us to record and store, along with your email address, the date and time the recipient viewed the invite or reminder, that the recipient's email program is capable of receiving HTML-encoded email, and other standard logging information. The pixel tag also may see or read cookies. For more information about cookies and how to disable their use, see the section below on "Use of Cookies."
 
-Use of Information
+**Use of Information**
 
 1\. Use Of Your Personally Identifiable Information by Evite:
 
@@ -72,21 +72,21 @@ As described in more detail above, Business Partners display ads through our ser
 
 We use your IP Address to help diagnose problems with our server, and to administer our Web site and otherwise provide our service to you. IP addresses may be disclosed to Business Partners if Evite believes in good faith that the law or legal process requires it, or to protect the rights or property of Evite or others. In addition, our Business Partners may use information derived from your IP address, such as conducting a reverse domain name lookup, in order to provide advertisements more tailored to your interests.
 
-When We May Disclose Your Personally Identifiable Information, Evite Invitation Content, Data or Guest Contact Information
+**When We May Disclose Your Personally Identifiable Information, Evite Invitation Content, Data or Guest Contact Information**
 
 Evite may disclose your Personally Identifiable Information, the contents of your private communications, or the contact information of your guests if required to do so by law or court order. Your Personally Identifiable Information may also be disclosed if necessary in order to complete a transaction such as the fulfillment of an order or purchase placed by you. Evite will in no way disclose the contents of your Evite invitations other than to the intended recipient(s) unless required (1) by law or court order, (2) to protect Evite's rights and property, (3) to protect against unauthorized use of the Evite site, and (4) during emergencies such as when we believe someone's physical safety is at risk. Also, certain technical processing of email messages and their content may be required to: (1) send and receive messages; (2) conform to connecting networks' technical requirements; (3) conform to the limitations of the Service; or (4) conform to other similar requirements.
 
 It is possible that as we continue to develop our Web site and our business, Evite and/or related assets might be acquired. In such a transaction, customer information may be transferred to the acquiring entity.
 
-Security
+**Security**
 
 This site has industry standard security measures in place to protect the loss, misuse and integrity of the information under our control. Although we make good faith efforts to store the information collected by the Evite service in a secure operating environment that is not available to the public, we cannot guarantee complete security.
 
-Other Web Sites; Links
+**Other Web Sites; Links**
 
 This Web site contains links to other Web sites. Evite is not responsible for the privacy practices or the content of such Web sites.
 
-Opt-Out/Correct/Delete/Deactivate
+**Opt-Out/Correct/Delete/Deactivate**
 
 While Evite does not give you the opportunity to remove your information from our database, you may remove your registration information from your My Info page as described below. In addition, you may elect not to receive future communications from Evite or to discontinue use of our service. If you are a registered user, please log in and visit the My Info Page of our Web site and uncheck the box related to sending information to you via email. If you are not a registered user but are a recipient of an Evite invitation, you may delete your email address from the guest list by requesting to be removed from the guest list on the invitation page.
 
@@ -98,11 +98,11 @@ Evite allows its users the option to change information previously provided. Thi
 
 3\. Change the relevant information
 
-Changes to this Policy
+**Changes to this Policy**
 
 Evite reserves the right to amend this privacy policy at its sole discretion. If we make any substantive changes to the policy in the future with regard to how we use your information, we will notify registered users who have agreed to receive the Evite newsletter through that newsletter. For those users who have not agreed to accept the newsletter, substantive changes will be posted on the site in this location, and the date of the changes will be noted on the Web site for a period of time. Your continued use of the site after the changes are posted constitutes your agreement to the changes with regard to information collected in the past and in the future from you. If you do not agree to the changes, you may opt-out as described above. 
 
-Contacting the Web Site
+**Contacting the Web Site**
 
 We strive to do everything we can to protect the privacy of our users. Please feel free to share any comments and concerns with us. If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
