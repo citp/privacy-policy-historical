@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlyfinance.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223092906id_/http%3A//www.onlyfinance.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlyfinance.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614230335id_/http%3A//onlyfinance.com/privacy.aspx) for the most accurate reproduction.*
 
 # OnlyFinance Privacy Policy
 
@@ -54,4 +54,4 @@ Information supplied by you to us will only be transferred abroad by us or our a
 
 **Your Rights**
 
-You have certain rights under the Data Protection Act 1998. For example, we will always let you have a copy of all personal information we have about you should you request it. We may charge you a fee for a copy of such information. 
+You have certain rights under the Data Protection Act 1998. For example, we will always let you have a copy of all personal information we have about you should you request it. We may charge you a fee for a copy of such information.
