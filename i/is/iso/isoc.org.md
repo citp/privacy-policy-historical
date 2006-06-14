@@ -1,24 +1,6 @@
-> *The following text is extracted and transformed from the isoc.org privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228171806id_/http%3A//www.isoc.org/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isoc.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615014431id_/http%3A//www.isoc.org/help/privacy) for the most accurate reproduction.*
 
 # ISOC Search/Site Map/Help: Privacy Statement
-
-  
-|  | 
-
-### Privacy Statement:
-
-This is the web site of The Internet Society.
-
-Our postal address is:
-
-> 1775 Wiehle Ave., Suite 102  
->  Reston, Virginia 20190 USA
-
-or 
-
-> 4, rue des Falaises  
->  CH-1205 Geneva  
->  Switzerland
 
 We can be reached via e-mail at [info@isoc.org](mailto:info@isoc.org); you can reach us by telephone at +703 326 9880 (Reston, Virginia USA) or +41 22 807 1444 (Geneva, Switzerland).
 
@@ -33,6 +15,8 @@ As is standard practice for most web sites, certain visitor characteristics are 
 In the case of online balloting for Internet Society elections, Members are asked to supply numbers corresponding to those on their printed ballots to ensure that only a single vote is registered. The details of the actual votes are maintained only during the election process solely to allow proper verification and audit of the election. 
 
 On its web site, the Internet Society gives visitors the option of providing certain personally identifiable information for purposes such as joining the organization, renewing membership, participating in discussion groups, submitting inquiries and comments, or registering for conferences. This information includes name, postal address, email address, and other pertinent data.
+
+By voluntarily providing us with your Personal Data, you are consenting to our use of it in accordance with this Privacy Statement. Due to the nature of the Internet if you are visiting this site from a country other than the United States, your communications will inevitably result in the transfer of information across international boundaries. By visiting this web site you consent to these transfers. If you provide personal data to this site, you acknowledge and agree that such personal data may be transferred from your current location to the offices and servers of the Internet Society and its affiliates, agents and service providers located in the United States and in other countries.
 
 **WHAT WE DO WITH THE INFORMATION**
 
@@ -77,19 +61,3 @@ If you have any questions regarding our privacy policy or you feel that this sit
 **CONSENT AND CHANGES TO THIS POLICY**
 
 Subject to the above provisions, by using our site, you consent to the collection and use of information by us in accordance with this policy. If we decide to change our privacy policy, we will post those changes on this page. Any changes to this privacy statement will also be announced on the Internet Society home page at http://www.isoc.org/.
-
-| 
-
-  
-1775 Wiehle Ave., Suite 102, Reston, VA, USA 20190-5108  
-Tel: +1 703 326 9880 Fax: +1 703 326 9881 
-
-4, rue des Falaises, CH-1205, Geneva, Switzerland   
-Tel: +41 22 807 1444 Fax: +41 22 807 1445 
-
-This document <http://www.isoc.org/help/privacy/index.shtml>   
-was last updated Wednesday, 27-Jul-2005 18:06:05 EDT.   
-Copyright © 2005 Internet Society. All Rights Reserved. 
-
-Webmaster@ISOC.ORG  
-[Privacy Statement](https://web.archive.org/help/privacy/)
