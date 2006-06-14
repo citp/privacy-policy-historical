@@ -1,14 +1,14 @@
-<!--The following is the downloaded HTML source of the millipore.com privacy policy that was archived on 2005-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051227060141id_/http%3A//www.millipore.com/ec.nsf/docs/security) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the millipore.com privacy policy that was archived on 2006-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060614183617id_/http%3A//www.millipore.com/ec.nsf/docs/security) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">              
 <meta name="Content-Language" content="en">
 <meta name="Keywords" content="">
-<meta name="Description" content="NEW for new store">
-<meta name="publish_date" content="06/16/2005">
+<meta name="Description" content="Millipore's online security and privacy policy.">
+<meta name="publish_date" content="06/14/2006">
 <meta http-equiv="Pragma" content="no-cache"><meta http-equiv="cache-control" content="no-cache"><meta http-equiv="cache-control" content="no-store"><meta http-equiv="expires" content="0"><meta http-equiv="expires" content="Thursday, 11-Mar-99 18:31:30 GMT">
-<meta name="Responding-Server" content="WWW01">
+<meta name="Responding-Server" content="WWW03">
 <script language="JavaScript">
 <!-- Hide from old browsers
 function RandomSurveyPopUp( ) {
@@ -65,16 +65,27 @@ function leapto( theThing )
 <script language="JavaScript" type="text/javascript">
 <!-- 
 document._domino_target = "_self";
-function _doClick(v, o, t) {
-  var url="/ec.nsf/docs/security?OpenDocument&Click=" + v;
-  if (o.href != null)
-    o.href = url;
-  else {
-    if (t == null)
-      t = document._domino_target;
-    window.open(url, t);
+function _doClick(v, o, t, h) {
+  var form = document._WebContent;
+  if (form.onsubmit) {
+     var retVal = form.onsubmit();
+     if (typeof retVal == "boolean" && retVal == false)
+       return false;
   }
-
+  var target = document._domino_target;
+  if (o.href != null) {
+    if (o.target != null)
+       target = o.target;
+  } else {
+    if (t != null)
+      target = t;
+  }
+  form.target = target;
+  form.__Click.value = v;
+  if (h != null)
+    form.action += h;
+  form.submit();
+  return false;
 }
 // -->
 </script>
@@ -107,6 +118,22 @@ function VIDCheck(){
 	}
 	
 VIDCheck();
+
+var OSName="Unknown OS";
+if (navigator.appVersion.indexOf("Win")!=-1) OSName="Windows";
+if (navigator.appVersion.indexOf("Mac")!=-1) OSName="MacOS";
+if (navigator.appVersion.indexOf("X11")!=-1) OSName="UNIX";
+if (navigator.appVersion.indexOf("Linux")!=-1) OSName="Linux";
+
+function kH(e) {
+var pK = document.all? window.event.keyCode:e.which;
+return pK != 13;
+}
+if (OSName == "MacOS") {
+document.onkeypress = kH;
+if (document.layers)
+document.captureEvents(Event.KEYPRESS); 
+}
 
 
 
@@ -179,7 +206,10 @@ function wpMO(s, u, t) {
 </head>
 <body text="#000000" bgcolor="#FFFFFF" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" onunload="RandomSurveyPopUp();">
 
-<form action=""><!--BEGIN WEBNAVIGATIONHEADER--><!--BEGIN NAVIGATION HEADER-->
+<form method="post" action="/ec.nsf/docs/security?EditDocument&amp;Seq=1" name="_WebContent">
+<input type="hidden" name="__Click" value="0">
+<input type="hidden" name="%%ModDate" value="8525718D0056C37E">
+<!--BEGIN WEBNAVIGATIONHEADER--><!--BEGIN NAVIGATION HEADER-->
 <!--Subform: WebNavigationHeader-->
 <!--Version: 20040625-->
 <!--googleoff: all-->
@@ -196,12 +226,12 @@ function UserLogout(){
 // ------------------------------------------------
 // replace all
 function replaceAll( str, from, to ) {
-    var idx = str.indexOf( from );
-    while ( idx > -1 ) {
-        str = str.replace( from, to ); 
-        idx = str.indexOf( from );
-    }
-    return str;
+var idx = str.indexOf( from );
+while ( idx > -1 ) {
+str = str.replace( from, to ); 
+idx = str.indexOf( from );
+}
+return str;
 } 
 function dec2hex ( textString ) {
  return (textString+0).toString(16).toUpperCase();
@@ -520,7 +550,7 @@ return unescape(document.cookie.substring(offset, endstr));
 <span class="corporateBullet">•&nbsp;</span><a class="bulletLink" href="/offices.nsf/home">Local Millipore Office</a><br>
 <span class="corporateBullet">•&nbsp;</span><a class="bulletLink" href="/sales.nsf/home">Local Application Specialists</a><br>
 <span class="corporateBullet">•&nbsp;</span><a class="bulletLink" href="/accounts.nsf/retrieve-password">Retrieve or Change Password</a><br>
-<span class="corporateBullet">•&nbsp;</span><a class="bulletLink" href="/config.nsf/docs/aboutrss">RSS Feeds <img src="/config.nsf/files/rss/$file/xml.gif" border="0"></a><br>
+<span class="corporateBullet">•&nbsp;</span><a class="bulletLink" href="/corporate/pressroom.nsf/docs/aboutrss">RSS Feeds <img src="/config.nsf/files/rss/$file/xmlpod.gif" border="0"></a><br>
 <a class="milliporeAllLink" href="//webvirtualdocs?open&amp;search_criteria=ftsearch=([form]=ContentPageTop|UrlLinkTop)&amp;webview=webdocs"></a>
 </td></tr></tbody></table></td>
 <td><img src="/images/blank.gif" border="0" width="7"></td></tr>
@@ -568,13 +598,13 @@ return unescape(document.cookie.substring(offset, endstr));
 <td>
 <!--BEGIN WEBBRANDING-->
 <table border="0" cellspacing="0" cellpadding="0" valign="TOP"><tbody><tr valign="Top" height="25"><td><img src="/ec.nsf/files/system/$file/OnlineStore.gif" border="0"></td></tr><tr valign="Top"><td><img src="/config.nsf/files/separator/$file/horiz_rule_long.gif" border="0"></td></tr></tbody></table><!-- Top Level Navigation--><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="6">&nbsp;</td><td width="550">
+<br>
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr valign="top"><td width="72%"><font size="2" face="Arial"><br><br><br></font><br>
-<b><font size="4" color="#6A8BB6" face="Arial">SECURITY &amp; PRIVACY</font></b><br>
-<img src="/ec.nsf/dda0cb48c91c0fb6852567430063b5d6/42385d09abf2f27585256b3300506da5/en_RTBody/0.246?OpenElement&amp;FieldElemFormat=gif" width="524" height="7" alt=""></td><td width="1%">&nbsp;&nbsp;</td><td width="27%"><script src="https://seal.verisign.com/getseal?host_name=www.millipore.com&amp;size=S&amp;use_flash=YES&amp;use_transparent=NO"></script></td></tr>
+<b><font size="4" color="#6A8BB6" face="Arial">SECURITY &amp; PRIVACY</font></b></td><td width="1%">&nbsp;&nbsp;</td><td width="27%"><script src="https://seal.verisign.com/getseal?host_name=www.millipore.com&amp;size=S&amp;use_flash=YES&amp;use_transparent=NO"></script></td></tr>
 </tbody></table>
-<font size="2" face="Arial">Millipore Security protocols adhere to the latest US standards; your information is encrypted during your e-commerce sessions with Millipore. </font><br>
+<font size="2" face="Arial">Millipore Security protocols adhere to the latest US and European standards; your information is encrypted during your e-commerce sessions with Millipore. </font><br>
 <br>
 <font size="2" face="Arial">We do not store credit card or purchasing card information on our web server, and do require a re-entry of the credit card number for each purchase. This is an added level of security, and helpful in laboratories or purchasing departments with multiple users of a central computer. </font><br>
 <br>
@@ -582,49 +612,50 @@ return unescape(document.cookie.substring(offset, endstr));
 <br>
 <br>
 <b><font color="#6A8BB6" face="Arial">Millipore Online Privacy Policy</font></b><br>
-<img src="/ec.nsf/dda0cb48c91c0fb6852567430063b5d6/42385d09abf2f27585256b3300506da5/en_RTBody/0.FA8?OpenElement&amp;FieldElemFormat=gif" width="524" height="7" alt=""><br>
+<img src="/ec.nsf/550845c856c4c50f85256f0f005e3df6/42385d09abf2f27585256b3300506da5/en_RTBody/0.77E?OpenElement&amp;FieldElemFormat=gif" width="524" height="7" alt=""><br>
 <br>
-<font size="2" face="Arial">This Policy relates only to our online information collection and use practices. At Millipore we recognize that many consumers who visit our web site are concerned about any information they provide us on-line, and how we maintain and use this information. To address these concerns and to demonstrate our commitment to privacy we have developed and implemented this Privacy Policy for our domestic (i.e., U.S.) company. This Policy relates only to our online information collection and use practices. As this policy may change from time to time, we encourage you to periodically check it. </font><br>
+<font size="2" face="Arial">This Policy relates only to our online information collection and use practices. At Millipore we recognize that many consumers who visit our web site are concerned about any information they provide us on-line, and how we maintain and use this information. To address these concerns and to demonstrate our commitment to privacy we have developed and implemented this Privacy Policy. This Policy relates only to our online information collection and use practices. As this policy may change from time to time, we encourage you to periodically check it. </font><br>
 <br>
 <font size="2" face="Arial">In short, we do the following: </font><br>
 <br>
-<font color="#B02828" face="Arial">• </font><font size="2" face="Arial">We only collect personally identifiable information that you voluntarily and knowingly provide us.</font><br>
-<font color="#B02828" face="Arial">• </font><font size="2" face="Arial">We use the information that you provide us only for the purpose(s) for which you specifically provided it or for specific additional purposes for which we receive your prior consent.</font><br>
-<font color="#B02828" face="Arial">• </font><font size="2" face="Arial">We do not share any information you provide us with anyone outside of Millipore Corporation, except for suppliers who assist us in maintaining and managing the activities on our site. These suppliers are legally obligated to maintain the confidentiality of any information we provide them, including your information.</font><br>
-<font color="#B02828" face="Arial">• </font><font size="2" face="Arial">We may use a technology called “cookies” to enhance your experience on our site.</font><br>
-<font color="#B02828" face="Arial">• </font><font size="2" face="Arial">We employ appropriate security measures to protect the loss, misuse and alteration of any information you provide us.</font><br>
-<font color="#B02828" face="Arial">• </font><font size="2" face="Arial">We provide you with choice and control over the collection and use of any personally identifiable information that you provide us on-line, and a means for updating, correcting or removing this information .</font><br>
+<font size="2" face="Arial">• We only collect personally identifiable information that you voluntarily and knowingly provide us.</font><br>
+<font size="2" face="Arial">• We use the information that you provide us only for the purpose(s) for which you specifically provided it or for specific additional purposes for which we receive your prior consent.</font><br>
+<font size="2" face="Arial">• We do not share any information you provide us with anyone outside of Millipore Corporation, except for suppliers who assist us in maintaining and managing the activities on our site. These suppliers are legally obligated to maintain the confidentiality of any information we provide them, including your information.</font><br>
+<font size="2" face="Arial">• We may use a technology called “cookies” to enhance your experience on our site.</font><br>
+<font size="2" face="Arial">• We employ appropriate security measures to protect against the loss, misuse and alteration of any information you provide us.</font><br>
+<font size="2" face="Arial">• We provide you with choice and control over the collection and use of any personally identifiable information that you provide us on-line, and a means for updating, correcting or removing this information.</font><br>
 <br>
-<font size="2" face="Arial">Below is a more detailed explanation of our policy in each of these areas.</font><br>
+<br>
+<font size="2" face="Arial">Below is a more detailed explanation of our policy in each of these areas</font><br>
 <br>
 <br>
 <b><font color="#6A8BB6" face="Arial">Information We Collect and How We Use It </font></b><br>
-<img src="/ec.nsf/dda0cb48c91c0fb6852567430063b5d6/42385d09abf2f27585256b3300506da5/en_RTBody/0.2070?OpenElement&amp;FieldElemFormat=gif" width="524" height="7" alt=""><br>
+<img src="/ec.nsf/550845c856c4c50f85256f0f005e3df6/42385d09abf2f27585256b3300506da5/en_RTBody/0.1788?OpenElement&amp;FieldElemFormat=gif" width="524" height="7" alt=""><br>
 <br>
 <b><font size="2" face="Arial">General</font></b><br>
-<font size="2" face="Arial">We only collect personally identifiable information on a voluntary basis. We do not require that you provide this information to gain access to our site, and we do not require you to disclose more information than is reasonably needed to participate in an activity on our site. We collect personally identifiable information primarily to e-mail updates and news, to respond to your questions or suggestions, and to complete online transactions. We do not sell any information we gather at our web site to anyone outside of Millipore Corporation. We do not transfer or disclose any information we gather at our web site to anyone outside of Millipore Corporation without your prior consent, except (1) in cases where we believe in good faith that we have a legal obligation to disclose such information, and (2) to certain suppliers that assist Millipore in maintaining and managing the activities on its web site. Please be assured that these suppliers are legally obligated to maintain the confidentiality of this information and do not acquire any rights to use your information for their own benefit. We may share non-identifiable aggregate information about our users with business partners and other third parties in an effort to customize or enhance the content and advertising on our site for our users. </font><br>
+<font size="2" face="Arial">We only collect personally identifiable information on a voluntary basis. We do not require that you provide this information to gain access to our site, and we do not require you to disclose more information than is reasonably needed to participate in an activity on our site.  However, if you do not provide the information that is noted as being required or mandatory in connection with a particular activity, you will not be permitted to engage in that activity.  We collect personally identifiable information primarily to e-mail updates and news, to respond to your questions or suggestions, and to complete online transactions. We do not sell any information we gather at our web site to anyone outside of Millipore Corporation. We do not transfer or disclose any information we gather at our web site to anyone outside of Millipore Corporation without your prior consent, except (1) in cases where we believe in good faith that we have a legal obligation to disclose such information, and (2) to certain suppliers that assist Millipore in maintaining and managing the activities on its web site. Please be assured that these suppliers are legally obligated to maintain the confidentiality of this information and do not acquire any rights to use your information for their own benefit. We may share non-identifiable aggregate information about our users with business partners and other third parties in an effort to customize or enhance the content and advertising on our site for our users. </font><br>
 <br>
-<font size="2" face="Arial">We do reserve the right, in connection with the potential sale or transfer of the interests of Millipore and its subsidiaries and affiliates, to sell or transfer your information (including but not limited to your address, name, age, gender, zip code, state, and country of residency and other information that your provide through other communications) to a third party entity that (1) concentrates its business in a similar practice or service, (2) agrees to be Millipore’s  successor in interest with regard to the maintenance and protection of the information collected, and (3) agrees to the obligations of this privacy policy.</font><br>
+<font size="2" face="Arial">We do reserve the right, in connection with the potential sale or transfer of the interests of Millipore and its subsidiaries and affiliates, to sell or transfer your information (including but not limited to your address, name, age, gender, zip code, state, and country of residency and other information that your provide through other communications) to a third party entity that (1) concentrates its business in a similar practice or service, (2) agrees to be Millipore’s successor in interest with regard to the maintenance and protection of the information collected, and (3) agrees to the obligations of this privacy policy.</font><br>
 <br>
 <b><font size="2" face="Arial">Polls &amp; Surveys</font></b><br>
-<font size="2" face="Arial">We periodically conduct polls and surveys on our site. The information we collect from these polls and surveys is only for Millipore’s use. If sample answers to polls or surveys are posted our web site, no identifiable information is included.</font><br>
+<font size="2" face="Arial">We periodically conduct polls and surveys on our site. The information we collect from these polls and surveys is only for Millipore’s use. If sample answers to polls or surveys are posted our web site, no identifiable information is included</font><br>
 <br>
 <b><font size="2" face="Arial">Online Purchasing</font></b><br>
-<font size="2" face="Arial">When you order from us on our website we collect personally identifiable information from you. If you order one of our products or services, we will collect and maintain your name, e-mail address, billing address, shipping address, telephone number, product selections, credit card or other payment information, order number, referring URL, IP address, page you bought from and a password. We collect this, and other information,  in order to fill your order, to communicate with you about your order and to send you promotional materials. Before confirming your order, you will have the opportunity to review the product order form and make changes and additions to the information it contained and these changes will be automatically kept for future use.</font><br>
+<font size="2" face="Arial">When you order from us on our web site we collect personally identifiable information from you. If you order one of our products or services, we will collect and maintain your name, e-mail address, billing address, shipping address, telephone number, product selections, credit card or other payment information, order number, referring URL, IP address, page you bought from and a password. We collect this, and other information, in order to fill your order and to communicate with you about your order. Before confirming your order, you will have the opportunity to review the product order form and make changes and additions to the information it contained and these changes will be automatically kept for future use.  If you do not provide the information that is noted as being required or mandatory, you will not be able to place orders on our web site.</font><br>
 <font size="2" face="Arial"> </font><br>
 <b><font size="2" face="Arial">Cookies </font></b><br>
-<font size="2" face="Arial">Like many companies, we use a technology called “cookies” to enhance your experience on our site. We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record past activity at a site in order to provide better service when visitors return to our site , customize Web page content based on visitors' browser type or other information that the visitor sends.</font><br>
-<font size="2" face="Arial">The cookies Millipore uses do not contain any personally identifiable information and can not profile your system or collect information from your hard drive. You are not identified by name or e-mail address, just by a unique string of numbers that we assign the first time you come to our site.</font><br>
-<font size="2" face="Arial"> </font><br>
-<b><font size="2" face="Arial">Security </font></b><br>
-<font size="2" face="Arial">We employ appropriate security measures to protect the loss, misuse and alteration of the information under our control. For our e-commerce activities, we employ Secure Sockets Layer (SSL) software, which encrypts information you input, as an additional security measure. However, as no on-line data transmission can be guaranteed to be totally secure, we (like all web sites) cannot warrant or guarantee 100% security of any information you transmit to us at our web site. </font><br>
+<font size="2" face="Arial">Like many companies, we use a technology called “cookies” to enhance your experience on our web site.  “Cookies” are small pieces of information sent by a web server to a web browser which the web server is then able to retrieve from the web browser when you visit other pages of our web site or you subsequently visit our web site.  Millipore uses these cookies for a number of purposes, such as saving information about your language preference (so that you do not have to choose it every time you come to our site) or country (if applicable), authenticating registered users, supporting the mechanisms for our shopping cart and on-line ordering, and enabling general traffic trend analysis.  The cookies Millipore uses do not contain any personally identifiable information and can not profile your system or collect information from your hard drive. You are not identified by name or e-mail address, just by a unique string of numbers that we assign the first time you come to our site.</font><br>
 <br>
-<b><font size="2" face="Arial">Other Uses</font></b><br>
-<font size="2" face="Arial">From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice.  If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses.  If you are concerned about how your information is used, you should check back at our Web site periodically.</font><br>
+<font size="2" face="Arial">While you do not need to allow your browser to accept cookies in order to browse much of our web site or to access many of our services, you must have cookies enabled if you wish to access content in languages other than English, shop on-line at our web store, or access any areas reserved for registered users.</font><br>
+<br>
+<font size="2" face="Arial">Most browsers allow you to turn off the cookie function.  If you want to know how to do this, please look at the help menu on your browser.  As described above, turning off the cookie function will restrict the on-line services from Millipore that you can use.</font><br>
+<br>
+<b><font size="2" face="Arial">Security </font></b><br>
+<font size="2" face="Arial">We employ appropriate security measures to protect against the loss, misuse and alteration of the information under our control. For our e-commerce activities, we employ Secure Sockets Layer (SSL) software, which encrypts information you input, as an additional security measure. However, as no on-line data transmission can be guaranteed to be totally secure, we (like all web sites) cannot warrant or guarantee 100% security of any information you transmit to us at our web site.</font><br>
 <br>
 <br>
 <b><font color="#6A8BB6" face="Arial">Choice and Control </font></b><br>
-<img src="/ec.nsf/dda0cb48c91c0fb6852567430063b5d6/42385d09abf2f27585256b3300506da5/en_RTBody/0.3C6A?OpenElement&amp;FieldElemFormat=gif" width="524" height="7" alt=""><br>
+<img src="/ec.nsf/550845c856c4c50f85256f0f005e3df6/42385d09abf2f27585256b3300506da5/en_RTBody/0.362A?OpenElement&amp;FieldElemFormat=gif" width="524" height="7" alt=""><br>
 <br>
 <b><font size="2" face="Arial">Choice/Opt-In</font></b><br>
 <font size="2" face="Arial">Our site provides you the opportunity to opt-in to receive communications from us, as described at each opt-in opportunity. Further, when you receive the requested communication, you are given the opportunity to unsubscribe from receiving any future communications or to change your information.</font><br>
@@ -635,9 +666,15 @@ return unescape(document.cookie.substring(offset, endstr));
 <b><font size="2" face="Arial">Links To Other Sites</font></b><br>
 <font size="2" face="Arial">Millipore does not guarantee the content of other sites for which we provide a link.</font><br>
 <br>
+<b><font size="2" face="Arial">Transfer of Information to USA</font></b><br>
+<br>
+<font size="2" face="Arial">This web site is offered by Millipore Corporation and is hosted at its Corporate Headquarters in Billerica, MA, USA.  Data transferred from you by your use of this web site outside of the USA is therefore transferred to the USA and then may be transferred back to our European subsidiaries in order to respond to your request.  The USA may have different data protection standards than your country; however, we will still handle information in the manner we describe in this Privacy Policy.</font><br>
+<br>
+<font size="2" face="Arial">Click </font><a href="/ec.nsf/docs/fdof"><font size="2" face="Arial">here</font></a><font size="2" face="Arial"> to access Descriptions of Data Files made available for review pursuant to the Finnish Personal Data Act.</font><br>
+<br>
 <font size="2" face="Arial"> </font><br>
 <b><font color="#6A8BB6" face="Arial">How To Contact Us </font></b><br>
-<img src="/ec.nsf/dda0cb48c91c0fb6852567430063b5d6/42385d09abf2f27585256b3300506da5/en_RTBody/0.486E?OpenElement&amp;FieldElemFormat=gif" width="524" height="7" alt=""><br>
+<img src="/ec.nsf/550845c856c4c50f85256f0f005e3df6/42385d09abf2f27585256b3300506da5/en_RTBody/0.4574?OpenElement&amp;FieldElemFormat=gif" width="524" height="7" alt=""><br>
 <br>
 <font size="2" face="Arial">If you have any questions or concerns about our Privacy Policy or your dealings with this web site, you can contact us </font><a href="/forms.nsf/webmaster"><font size="2" face="Arial">here</font></a><font size="2" face="Arial"> or at: </font><br>
 <br>
@@ -646,22 +683,18 @@ return unescape(document.cookie.substring(offset, endstr));
 <font size="2" face="Arial">Billerica, MA </font><br>
 <font size="2" face="Arial">Attention: Legal Department</font><br>
 <br>
-<font size="2" face="Arial">Last Revised: August 5, 2004</font><br>
+<font size="2" face="Arial">Last Revised: October 10, 2005</font><br>
 </td></tr></tbody></table>
 <!--BEGIN SECTIONSITENAVIGATIONBULLET-->
 
 <a name="AdditionalInfo">
-
-<!--hide in NavigationMenu_Primary is null-->
-
-<!--hide in NavigationMenu_Primary is NOT null-->
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody><tr align="CENTER" valign="TOP"><td colspan="5"><br><img src="/config.nsf/files/separator/$file/horiz_rule_long.gif" border="\&quot;0\&quot;"><br><br></td></tr>
 <tr valign="TOP"><td width="159" height="158"></td><td><img src="/images/blank.gif" border="0" width="22" height="1"></td>
 <td width="159" height="158"></td><td><img src="/images/blank.gif" border="0" width="22" height="1"></td>
 <td width="159" height="158"></td></tr>
 <tr valign="TOP"><td colspan="5"><img src="/images/blank.gif" border="0" height="30"></td></tr>
-<tr><td width="159" height="158"></td><td><img src="/images/blank.gif" border="0" width="22" height="1"></td>
+<tr valign="TOP"><td width="159" height="158"></td><td><img src="/images/blank.gif" border="0" width="22" height="1"></td>
 <td width="159" height="158"></td><td><img src="/images/blank.gif" border="0" width="22" height="1"></td>
 <td width="159" height="158"></td></tr></tbody></table>
 
@@ -687,7 +720,7 @@ return unescape(document.cookie.substring(offset, endstr));
 <tr align="CENTER"><td colspan="3" bgcolor="C6C6C6" height="15"><img src="/images/blank.gif" border="0"></td></tr>
 </tbody></table>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr valign="TOP" align="CENTER"><td><font face="Arial" size="1" color="000000"><font size="2" face="Arial"><a class="navfooter" href="/"><font face="Arial" label="" size="1">Home</font></a><font size="2" face="Arial"> | </font><font size="2" face="Arial"><a class="navfooter" href="/ec.nsf/country"><font face="Arial" label="" size="1">Change Country</font></a><font size="2" face="Arial"> | </font><font size="2" face="Arial"><a class="navfooter" href="/corporate.nsf/docs/legal"><font face="Arial" label="" size="1">Legal/Trademark</font></a><font size="2" face="Arial"> | </font><font size="2" face="Arial"><a class="navfooter" href="/corporate.nsf/docs/sitemap"><font face="Arial" label="" size="1">Site Map</font></a><font size="2" face="Arial">  | </font><font size="2" face="Arial"><a class="navfooter" href="/ec.nsf/docs/security"><font face="Arial" label="" size="1">Privacy</font></a><font size="2" face="Arial"> | </font><font size="2" face="Arial"><a class="navfooter" href="/forms.nsf/webmaster"><font face="Arial" label="" size="1">Feedback</font></a></font><br><font size="1" color="006699" face="Arial">© 1994-2005 Millipore Corporation or an affiliated company. All rights reserved.</font>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr valign="TOP" align="CENTER"><td><font face="Arial" size="1" color="000000"><font size="2" face="Arial"><a class="navfooter" href="/"><font face="Arial" label="" size="1">Home</font></a><font size="2" face="Arial"> | </font><font size="2" face="Arial"><a class="navfooter" href="/ec.nsf/country"><font face="Arial" label="" size="1">Change Country</font></a><font size="2" face="Arial"> | </font><font size="2" face="Arial"><a class="navfooter" href="/corporate.nsf/docs/legal"><font face="Arial" label="" size="1">Legal/Trademark</font></a><font size="2" face="Arial"> | </font><font size="2" face="Arial"><a class="navfooter" href="/corporate.nsf/docs/sitemap"><font face="Arial" label="" size="1">Site Map</font></a><font size="2" face="Arial">  | </font><font size="2" face="Arial"><a class="navfooter" href="/ec.nsf/docs/security"><font face="Arial" label="" size="1">Privacy</font></a><font size="2" face="Arial"> | </font><font size="2" face="Arial"><a class="navfooter" href="/forms.nsf/webmaster"><font face="Arial" label="" size="1">Feedback</font></a></font><br><font size="1" color="006699" face="Arial">© 1994-2006 Millipore Corporation or an affiliated company. All rights reserved.</font>
 </font></font></font></font></font></font></td></tr></tbody></table>
 
 
