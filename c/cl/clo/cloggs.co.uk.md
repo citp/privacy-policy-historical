@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloggs.co.uk privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218000100id_/http%3A//www.cloggs.co.uk/page/securityprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloggs.co.uk privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614071557id_/http%3A//www.cloggs.co.uk/page/securityprivacy) for the most accurate reproduction.*
 
 # security & privacy
 
@@ -14,10 +14,10 @@
 [ **Live Chat Support**](http://www.cloggs.co.uk/page/livechat)  
 [ your account](http://www.cloggs.co.uk/page/myaccount)  
 [your order status](http://www.cloggs.co.uk/page/orderstatus)  
+[site guide](http://www.cloggs.co.uk/page/siteguide)  
 [despatch & delivery](http://www.cloggs.co.uk/page/despatchdelivery)  
+[size help](http://www.cloggs.co.uk/page/sizehelp)  
 [ **recent testimonials**](http://www.cloggs.co.uk/page/testimonials)  
-[ *Xmas Deliveries*](http://www.cloggs.co.uk/page/christmas05)  
-[*Xmas Returns*](http://www.cloggs.co.uk/page/christmasreturns05)  
 
 
 |   
@@ -29,8 +29,10 @@
 
 |   
 |  |   
-[](https://web.archive.org/web/20051218000100id_/http%3A//www.cloggs.co.uk/page/writeareview)  
-[](https://web.archive.org/web/20051218000100id_/http%3A//www.cloggs.co.uk/page/tellafriend) | [](https://server.iad.liveperson.net/hc/54687191/?cmd=file&file=visitorWantsToChat&site=54687191&byhref=1&imageUrl=https://www.cloggs.co.uk/content/ebiz/cloggs/stry/chatbanners3)  
+[](http://www.cloggs.co.uk/page/worldcup2006offers)  
+[](http://www.cloggs.co.uk/icat/brdsunoakley)  
+[](https://web.archive.org/web/20060614071557id_/http%3A//www.cloggs.co.uk/page/writeareview)  
+[](https://web.archive.org/web/20060614071557id_/http%3A//www.cloggs.co.uk/page/tellafriend) | [](https://server.iad.liveperson.net/hc/54687191/?cmd=file&file=visitorWantsToChat&site=54687191&byhref=1&imageUrl=https://www.cloggs.co.uk/content/ebiz/cloggs/stry/chatbanners8)  
 ---|---  
 | [](http://www.liveperson.com/)  
 ---  
@@ -53,6 +55,7 @@
   
 [](http://www.cloggs.co.uk/page/sizehelp)
 
+[](http://isis.imrg.org/screens/VerifyMerchantFrame.asp?guid=29FFD489-7AD6-4E18-809E-30F55B0EC53C)  
 [](http://isis.imrg.org/screens/VerifyMerchantFrame.asp?guid=29FFD489-7AD6-4E18-809E-30F55B0EC53C)  
   
 ---  
