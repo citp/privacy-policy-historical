@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coacht.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228163603id_/http%3A//www.coacht.com/story.cfm%3Fdoc%3D36) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coacht.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614210938id_/http%3A//www.coacht.com/story.cfm%3Fdoc%3D36) for the most accurate reproduction.*
 
 # CoachT.com - Privacy Statement for coacht.com
 
@@ -13,7 +13,9 @@ Our site's registration form requires users to give us contact information (like
 
 This site contains links to other sites. **CoachT.com** is not responsible for the privacy practices or the content of such Web sites. 
 
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
+We use outside ad companies to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
+
+We have contracted with ValueClick to monitor certain pages of our website for the purpose of reporting website traffic, statistics, advertisement 'click-throughs', and/or other activities on our website. Where authorized by us, ValueClick may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. No personally identifiable information is collected by or transferred to any party other than the Advertiser. For more information about how the information is collected and used by ValueClick, please see ValueClick's privacy policy at http://media.valueclick.com/privacy_consumer.shtml. 
 
 ### Public Forums
 
@@ -38,7 +40,7 @@ This site gives users the following options for removing their information from 
 This site gives users the following options for changing and modifying information previously provided. 
 
   1. email [coacht@coacht.com](mailto:coacht@coacht.com)
-  2. online form [Edit User Info](https://web.archive.org/web/20051228163603id_/http%3A//www.coacht.com/boards/join.cfm)
+  2. online form [Edit User Info](https://web.archive.org/web/20060614210938id_/http%3A//www.coacht.com/boards/join.cfm)
 
 
 
