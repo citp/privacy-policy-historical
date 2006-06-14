@@ -1,0 +1,5 @@
+> *The following text is extracted and transformed from the xlri.ac.in privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614025140id_/http%3A//xlri.ac.in/scripts/privacy.php) for the most accurate reproduction.*
+
+# XLRI - Jamshedpur :: About XLRI - Privacy Policy
+
+XLRI, Jamshedpur respects your right to privacy. When you visit the XLRI Official Web site, the following information may be collected from you, either voluntarily or involuntarily: Your computer or network's IP address, which must be validated in order for you to access the XLRI Official Web site; Your e-mail address and message when you communicate electronically with us; Information about your visit is gathered in an aggregate manner for quality control, security and improvement of our site. Your information is kept confidential, unaltered, and used only by the XLRI, Jamshedpur to administer your request. The XLRI, Jamshedpur does not disclose or sell any personally identifiable information collected at this site to other companies or organizations.
