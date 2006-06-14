@@ -1,113 +1,78 @@
-> *The following text is extracted and transformed from the netlibrary.com privacy policy that was archived on 2001-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010417113612id_/http%3A//www.netlibrary.com/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netlibrary.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615013442id_/http%3A//www.netlibrary.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# netLibrary - Privacy Policy
+# NetLibrary - Privacy Policy
 
-|  |  |  |    
-  
----  
-  
-Last updated: December 7, 2000  
-  
-netLibrary, Inc. is committed to protecting user privacy online. We believe that strong electronic privacy is crucial for the ongoing success of the Internet. We also believe it is critical for us to adhere to the American Library Association's [ Code of Ethics.](http://www.ala.org/alaorg/oif/ethics.html) At netLibrary, we pledge to give you as much control as possible over your personal information. We will not disclose individually-identifiable information about you to any third party without your consent.   
-**TRUSTe Licensee**
+NetLibrary, a division of OCLC Online Computer Library Center, Inc., an Ohio nonprofit corporation, is committed to protecting end-user privacy online. We believe that electronic privacy is crucial for the ongoing success of the Internet. Except as provided in this policy, we will not disclose personally-identifiable information about an end-user to any third party without the end-user's consent. 
+
+I. **Information We Collect**
 
 * * *
 
-  
-  
-  
-netLibrary is a licensee of the TRUSTe Privacy Program. This statement discloses the privacy practices for the netLibrary. When you visit a Web site displaying the TRUSTe trustmark, you can expect to be notified of: What personally identifiable information of yours is collected; What organization is collecting the information; How the information is used; With whom the information may be shared; What choices are available to you regarding collection, use and distribution of the information; What kind of security procedures are in place to protect the loss, misuse or alteration of information under the company’s control; and How you can correct any inaccuracies in the information. This privacy statement applies to all users of our Web site, including patrons of institutions, library users, and individuals. 
+**1\. IP Address**  
+The NetLibrary web site logs IP addresses for system administration purposes. Your IP address can help us diagnose problems with our server and track an end-user's session to give us an idea of which parts of our site end-users are visiting. In addition, we track system information, such as the type of browser you are using, your operating system, and the referring URL address. 
 
-[ ](https://www.truste.org/validate/2859)
+**2\. Cookies**  
+NetLibrary uses a feature of your browser called a cookie to store your member ID and state information about where you are in the site. NetLibrary uses cookies to keep track of where you are in the site since the Internet is a stateless environment, but many of NetLibrary's functions, such as moving from one page to the next in a book, require state. NetLibrary does not store any of your personal information in cookies. A cookie is simply a small data file that the web site writes to your hard drive. A cookie can't read any other data off your hard drive, pass on a virus, or read cookie files created by other sites. 
 
-Questions regarding this statement should be directed to [ privacy@netlibrary.com ](mailto:privacy@netlibrary.com). If the Web site has not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact [ TRUSTe ](http://www.truste.org/users/watchdog.html). 
+You can refuse cookies by turning them off in your browser. The NetLibrary web site will not operate properly without cookies enabled. 
 
-To return to the Web site, please use the "Back" button on your browser.   
-  
-**Information We Collect**
+**3\. Registration**  
+A significant amount of the site is available without registration, but in order to take advantage of some features of NetLibrary, you must register and create a member account. The NetLibrary online registration form requires you to provide your full name, email address, a User Name, and a password. 
 
-* * *
+**4\. Use of E-Mail Addresses and other information**  
+At your request, NetLibrary will use an e-mail address or other information that you supply to send a one-time e-mail inviting a friend to visit the site. 
 
-  
-  
-  
-**IP Address**  
-The netLibrary Web site logs IP addresses for system administration purposes. Your IP address can help us diagnose problems with our server and track a user’s session to give us an idea of which parts of our site users are visiting. In addition, we track system information, such as the type of browser you are using, your operating system, and the referring IP address. We use this information in aggregate only; we do not link IP addresses to any personal identifiers. 
+**5\. Links**  
+This web site contains links to other sites. Please be aware that NetLibrary is not responsible for the privacy practices of such other sites. We encourage our end-users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site. 
 
-**Cookies**  
-netLibrary uses a feature of your browser called a cookie to store your member ID and state information about where you are in the site. netLibrary uses cookies to keep track of where you are in the site since the Internet is a stateless environment, but many of netLibrary's functions, such as moving from one page to the next in a book, require state. netLibrary does not store any of your personal information in cookies. A cookie is simply a small data file that the Web site writes to your hard drive. A cookie can’t read any other data off your hard drive, pass on a virus, or read cookie files created by other sites. 
+**6\. Usage and Circulation Records**  
+As you interact with NetLibrary, your usage patterns are logged. This tells us if you searched to find information and what searches you used. We also log whether or not your searches were successful and what subject areas you visited. While you are viewing an eBook in NetLibrary, or while you have an eBook checked out, the system maintains a circulation record to know if you have access rights to that eBook. Unless you have violated the Terms of Use or the applicable eBook Agreement or we are required to do so by law; we only view, analyze, and disclose usage and circulation records in aggregated form. 
 
-You can refuse cookies by turning them off in your browser. netLibrary will not operate properly without cookies enabled. 
-
-**Registration**  
-A significant amount of the site is available without registration, but in order to take advantage of some features of netLibrary, you must register and create a member account. The netLibrary online registration form requires you to provide your full name, e-mail address, ZIP code, a User Name, and password. All other registration information, such as your age, address, phone number, and employer, is optional and is marked as such. We hope that, like many netLibrary users, you will want to provide information about yourself so that we can continue to make our Web site more valuable to you. 
-
-For certain contests, surveys, or chat forums, we may ask you to provide additional information about yourself. Participation in these enhanced services is completely optional. 
-
-If you choose to purchase additional products or services from netLibrary, we will collect your billing address, credit card number, and credit card expiration date. Occasionally, our publishers request that we provide the name of all eBook purchasers along with the items purchased. The purchase of eBooks may imply consent to providing that information. 
-
-**Recommend to a Friend**  
-If a user elects to use our "Recommend to a friend" service for informing a friend about eBooks offered by netLibrary, we ask them for both their email address the friend's email address. netLibrary will automatically send the friend a one-time email inviting them to visit the site but does not store these email addresses for future use. 
-
-**Links**  
-This web site contains links to other sites. Please be aware that netLibrary is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
-
-**Usage**  
-As you interact with netLibrary, your usage patterns are logged anonymously. This tells us if you searched to find information and what searches you used. We also log whether or not your searches were successful and what subject areas you visited. The logs use your session ID only, they do not connect with your specific member ID. Usage data is viewed and analyzed in aggregated form only. 
-
-**Circulation Records**  
-While you are viewing an eBook in netLibrary, or while you have an eBook checked out, the system has to be able to recognize you to know if you have access rights to that eBook. However, we do not keep any long-term circulation records. It is not possible to view a history of what publications an individual has used. We do keep track of any eBooks that you personally may purchase so that the system can recognize you as the owner and person authorized to access them.   
-  
-[Back To Top](https://web.archive.org/policy.asp#top)  
-  
-**Our Use of Your Information**
+II. **Our Use of Your Information**
 
 * * *
 
-  
-  
-  
-The majority of the information we collect is analyzed anonymously so that we can improve your netLibrary experience. One of netLibrary’s goals is to create an interactive learning system. To that end, we use our usage data to study how users seek information. Eventually, we hope to have enough data to help educators discover more about human learning and information analysis. 
+The majority of the information we collect is analyzed anonymously so that we can improve your NetLibrary experience. One of NetLibrary's goals is to create an interactive learning system. To that end, we use our usage data to study how end-users seek information. Eventually, we hope to have enough data to help educators discover more about human learning and information analysis. 
 
-Any personally-identifiable information about you is used to improve your individual netLibrary experience. This information is held in strictest confidence and is not shared outside of netLibrary except as specifically described in this statement. We will, with your permission, use your data to deliver information that is targeted to your interests, such as e-mail about promotions or targeted banners. If necessary, we will use your information to contact you. 
+Any personally-identifiable information about you is used to improve your individual NetLibrary experience. This information is held in strictest confidence and is not shared outside of NetLibrary except as specifically described in this statement. If necessary, we will use your information to contact you. 
 
-netLibrary is the only company that uses the financial information that you provided, such as credit card numbers. This information is used for billing when you order specific netLibrary products or services online. 
+**1\. Information Distribution**  
+NetLibrary will never willfully disclose personally-identifiable information to a third party unless: 
 
-**Information Distribution**  
-netLibrary will never willfully disclose personally-identifiable information to a third party without your permission. Any personally-identifiable information is used within netLibrary only, except as described above. All other information is disclosed as statistical information in aggregate form and cannot be linked to a specific individual. 
+  * you have violated the Terms of Use or the applicable eBook Agreement
+  * we are required to do so by law,
+  * you give us your permission, or
+  * the disclosure is permitted in this policy.
 
-MetaText is a product of netLibrary. netLibrary does not share any personally-identifiable information with MetaText. The MetaText privacy policy can be found at [ http://www.metatext.com/learnmore/privacy.htm. ](http://www.metatext.com/learnmore/privacy.htm)
 
-**Reviewing and Changing Your Information**  
-You can review and change any of the personal information you provided by going to the "Edit My Membership section" of the Navigation Bar. 
+
+Except as provided in this policy, NetLibrary will only use personally-identifiable information within NetLibrary, and will only disclose other information in an aggregate form that cannot be linked to a specific individual. If a Library requests, NetLibrary may share a User's registration information (see I.3. above) and aggregated eBook usage and circulation records (see I.6. above) with the Library. 
+
+**2\. Opt-Out Features**  
+You can review and change any of the personal information you provided by going to the **Edit My Account** button in the Navigation Bar. 
 
 **Opt-Out Features**  
-It is important to netLibrary that you control how we use the information you provide. 
+It is important to NetLibrary that you control how we use the information you provide. 
 
-  * To tell us you don’t want to receive communication from netLibrary, such as e-mail newsletters announcing new features, contests, or new content, opt out at registration or send an e-mail to [ privacy@netLibrary.com ](mailto:privacy@netLibrary.com)
-  * To tell us you don’t want to receive communications from a third-party company that offers a product or service that we think would be of value to you, opt out at registration or send an e-mail to [ privacy@netLibrary.com ](mailto:privacy@netLibrary.com)
-  * You can decline to provide personal information to us. Please note that in some cases this will limit your interaction with netLibrary. 
-
+  * To tell us you don't want to receive communication from NetLibrary, such as email newsletters announcing new features, contests, or new content, opt out at registration or send an email to [privacy@NetLibrary.com](mailto:privacy@NetLibrary.com)
+  * You can decline to provide personal information to us. Please note that in some cases this will limit your interaction with NetLibrary. 
 
 
-**Security**  
-netLibrary uses industry-standard efforts to safeguard the confidentiality of all information, regardless of whether it identifies you or not. Our security includes use of firewalls, secure socket layers, and encryption. 
+
+**3\. Security**  
+NetLibrary uses industry-standard efforts to safeguard the confidentiality of all information, regardless of whether it identifies you or not. 
 
 Your password is a component of our security system. As such, it is your responsibility to protect it. Do not share your password with any third parties. If your password has been compromised for any reason, you should change it immediately. 
 
-**Third Party Collectors of Information**  
-netLibrary’s Privacy Statement only addresses the use and disclosure of information we collect from you. Any information you disclose to a third party, such as other users or advertisers, is subject to that party’s Privacy Statement. We encourage you to ask questions before you disclose your personal information to others. 
+**4\. Third Party Collectors of Information**  
+NetLibrary's Privacy Statement only addresses the use and disclosure of information we collect from you. Any information you disclose to a third party, such as other end-users, is subject to that party's Privacy Statement. We encourage you to ask questions before you disclose your personal information to others. 
 
-**General**  
-This Privacy Statement is incorporated into and subject to the terms of the netLibrary License Agreement, Library Agreement, and Terms of Use. 
+**5\. General**  
+This Privacy Statement is incorporated into and subject to the terms of the NetLibrary License Agreement, Library Agreement, and Terms of Use. 
 
-If you have any questions or concerns about privacy, please send e-mail to [ privacy@netLibrary.com ](mailto:privacy@netLibrary.com). 
+If you have any questions or concerns about privacy, please send email to [privacy@NetLibrary.com](mailto:privacy@NetLibrary.com). 
 
-**Notification of Changes**  
-If we decide to change our privacy policy we will post those changes to our web site and notify users via email so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. Users always have the ability to opt-out of receiving communications from netLibrary by editing their account or sending an email to privacy@netlibrary.com.   
-  
-* * *
+**6\. Notification of Changes**  
+If we decide to change our privacy policy we will give notice of the change so our end-users are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. This notice may be given by any means, including, without limitation, by posting the changes on our web site; or by notifying end-users via email or conventional mail; or by some other reasonable means. Users always have the ability to opt-out of receiving communications from NetLibrary by editing their account or sending an email to [privacy@NetLibrary.com](mailto:privacy@NetLibrary.com). 
 
-  
-  
-[Back To Top](https://web.archive.org/web/20010417113612id_/http%3A//www.netlibrary.com/policy.asp)
+| 
