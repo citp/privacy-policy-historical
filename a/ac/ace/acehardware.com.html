@@ -1,14 +1,25 @@
-<!--The following is the downloaded HTML source of the acehardware.com privacy policy that was archived on 2005-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051210055038id_/http%3A//www.acehardware.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dfooterlink_privacy_txt) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the acehardware.com privacy policy that was archived on 2006-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615010953id_/http%3A//www.acehardware.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dfooterlink_privacy_txt) for the most accurate reproduction.-->
 
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 
 	
 	<title>Ace Helpdesk</title>
 	<script language="Javascript">
+function trimString (str) {
+  while (str.charAt(0) == ' ')
+    str = str.substring(1);
+  while (str.charAt(str.length - 1) == ' ')
+    str = str.substring(0, str.length - 1);
+  return str;
+}
+
+
 function emailCheck(type) // not sure if anybody uses this, but just in case i'm leaving it functional
 {
-    if (!validateEmail(document.emailForm.emailAddress.value))
+ var email = trimString(document.emailForm.emailAddress.value);
+
+    if (!validEmail(email))
 	{
         alert('Please enter a valid e-mail address.');
         return false;
@@ -86,7 +97,6 @@ var TIMEOUT_DELAY = 5000; //timeout delay in milliseconds when no menu activity 
 var TRIGGER_ON_DELAY = 250; //mouseover delay in milliseconds from mouseover main menu option to another option
 var MENU_OPTIONS = 7; //number of main menu options
 
-
 function changeDiv() {
     if (document.layers) {
        with(document.layers['subtext_2'].document)
@@ -131,7 +141,7 @@ function writeSubnav(name, message) {
  if (document.images) {
 
 		image1on = new Image();
-		image1on.src = "http://ACE.imageg.net/images/holiday-header-hardware-on.gif";
+		image1on.src = "http://ACE.imageg.net/images/h_hardware_on.gif";
 		image2on = new Image();
 		image2on.src = "http://ACE.imageg.net/images/h_handtools_on.gif";
 		image3on = new Image();
@@ -148,7 +158,7 @@ function writeSubnav(name, message) {
 		image7on.src = "http://ACE.imageg.net/images/h_housewares_on.gif";
 		
 		image1off = new Image(); 
-		image1off.src = "http://ACE.imageg.net/images/holiday-header-hardware-off.gif"; 
+		image1off.src = "http://ACE.imageg.net/images/h_hardware_off.gif"; 
 		image2off = new Image(); 
 		image2off.src = "http://ACE.imageg.net/images/h_handtools_off.gif";
 		image3off = new Image();
@@ -165,7 +175,7 @@ function writeSubnav(name, message) {
 		image7off.src = "http://ACE.imageg.net/images/h_housewares_off.gif";
 		
 		image8on = new Image();
-		image8on.src = "http://ACE.imageg.net/images/ace_bml_header.jpg";
+		image8on.src = "http://ACE.imageg.net/images/ace_placeAds.jpg";
 
 		image8off = new Image();
 		image8off.src = "http://ACE.imageg.net/images/pixel.gif";
@@ -200,6 +210,7 @@ function delayOff() {
 		checkItMain = setTimeout(string,TIMEOUT_DELAY);
 	if (checkItSub) clearTimeout(checkItSub);
 		checkItSub = setTimeout("timeout()",TIMEOUT_DELAY);
+	
 
 }
 /*
@@ -226,9 +237,12 @@ function timeout() {
 </script>
 
 
+
+
+
 <table cellpadding="0" cellspacing="0" border="0" width="780">
 <tbody><tr>
-  <td width="169" height="88" valign="bottom" rowspan="2"><a href="/home/index.jsp?clickid=topnav_logo_img"><img src="http://ACE.imageg.net/images/logo-ace-holiday.gif" width="169" height="88" border="0"></a></td>
+  <td width="169" height="88" valign="bottom" rowspan="2"><a href="/home/index.jsp?clickid=topnav_logo_img"><img src="http://ACE.imageg.net/images/ace_logo.gif" width="169" height="88" border="0"></a></td>
   <td width="611" colspan="2">
 
 <table width="611" cellpadding="0" cellspacing="0" border="0">
@@ -255,10 +269,10 @@ function timeout() {
 	<td width="598">
 		<table width="598" cellpadding="0" cellspacing="0" border="0">
 		<tbody><tr>
-			<td><img src="http://ACE.imageg.net/images/h_topcurve-holiday.gif" width="598" height="32" alt="" border="0"><!--img src="http://ACE.imageg.net/images/h_topcurve-new.gif" width="598" height="32" alt="" border="0"--></td>
+			<td><img src="http://ACE.imageg.net/images/h_topcurve-new.gif" width="598" height="32" alt="" border="0"></td>
 		</tr>
 		<tr>
-			<td height="34"><a href="/category/index.jsp?categoryId=1254881&amp;clickid=topnav_tab1_txt" onmouseout="imgOff('image1');delayOff(image1);" onmouseover="triggerDelay('image1');imgOn('image1');writeSubnav('subtext', '<center><font class=topnav><a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1255037&amp;clickid=topnav_tab1doorlocks_txt class=topnav>Door Locks</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1255029&amp;clickid=topnav_tab1nails_txt class=topnav>Nails/Drywall Screws</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1255027&amp;clickid=topnav_tab1safety_txt class=topnav>Home/Personal Safety</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1255049&amp;clickid=topnav_tab1_txt&amp;clickid=topnav_tab1closet_txt class=topnav>Closet Storage</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1254881&amp;clickid=topnav_tab1hardware_txt class=topnav>More in Hardware</a></font></center>')"><img src="http://ACE.imageg.net/images/holiday-header-hardware-off.gif" name="image1" width="91" height="34" border="0"></a><img src="http://ACE.imageg.net/images/h_bigpipe.gif" width="1" height="34" alt="" border="0"><a href="/shop/index.jsp?categoryId=1254873&amp;clickid=topnav_tab2_txt" onmouseout="imgOff('image2');delayOff(image2);" onmouseover="triggerDelay('image2');imgOn('image2');writeSubnav('subtext', '<font class=topnav><a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1254933&amp;clickid=topnav_tab2sockets_txt class=topnav>Sockets/Wrenches</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1254935&amp;clickid=topnav_tab2measuring_txt class=topnav>Measuring Tools</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1254932&amp;clickid=topnav_tab2pwrtools_txt class=topnav>Power Tools</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1254943&amp;clickid=topnav_tab2hammers_txt class=topnav>Hammers/Chisels</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/shop/index.jsp?categoryId=1254873&amp;clickid=topnav_tab2moretools_txt class=topnav>More in Hand/Power Tools</a></font>')"><img src="http://ACE.imageg.net/images/h_handtools_off.gif" width="84" height="34" name="image2" border="0"></a><img src="http://ACE.imageg.net/images/h_bigpipe.gif" width="1" height="34" alt="" border="0"><a href="/category/index.jsp?categoryId=1254879&amp;clickid=topnav_tab3_txt" onmouseout="imgOff('image3');delayOff(image3);" onmouseover="triggerDelay('image3');imgOn('image3');writeSubnav('subtext', '<font class=topnav><a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1254973&amp;clickid=topnav_tab3fans_txt class=topnav>Ceiling Fans</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1254965&amp;clickid=topnav_tab3lights_txt class=topnav>Light Fixtures</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1254957&amp;clickid=topnav_tab3phones_txt class=topnav>Telephones</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1254963&amp;clickid=topnav_tab3wiring_txt class=topnav>Wiring Devices</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1254879&amp;clickid=topnav_tab3moreelectric_txt class=topnav>More in Electrical</a></font>')"><img src="http://ACE.imageg.net/images/h_electrical_off.gif" width="81" height="34" name="image3" border="0"></a><img src="http://ACE.imageg.net/images/h_bigpipe.gif" width="1" height="34" alt="" border="0"><a href="/shop/index.jsp?categoryId=1254880&amp;clickid=topnav_tab4_txt" onmouseout="imgOff('image4');delayOff(image4);" onmouseover="triggerDelay('image4');imgOn('image4');writeSubnav('subtext', '<font class=topnav><a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1255014&amp;clickid=topnav_tab4bath_txt class=topnav>Bath Accessories</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1254995&amp;clickid=topnav_tab4faucets_txt class=topnav>Faucets</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1255017&amp;clickid=topnav_tab4plumbing_txt class=topnav>Plumbing Tools</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1255010&amp;clickid=topnav_tab4showerheads_txt class=topnav>Shower Heads</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/shop/index.jsp?categoryId=1254880&amp;clickid=topnav_tab4moreplubming_txt class=topnav>More in Plumbing</a></font>')"><img src="http://ACE.imageg.net/images/h_plumbing_off.gif" width="75" height="34" name="image4" border="0"></a><img src="http://ACE.imageg.net/images/h_bigpipe.gif" width="1" height="34" alt="" border="0"><a href="/shop/index.jsp?categoryId=1254884&amp;clickid=topnav_tab5_txt" onmouseout="imgOff('image5');delayOff(image5);" onmouseover="triggerDelay('image5');imgOn('image5');writeSubnav('subtext', '<font class=topnav><a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1255113&amp;clickid=topnav_tab5grills_txt class=topnav>Grills</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1255123&amp;clickid=topnav_tab5hoses_txt class=topnav>Hoses</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1255122&amp;clickid=topnav_tab5sprinklers_txt class=topnav>Sprinklers</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1255112&amp;clickid=topnav_tab5patio_txt class=topnav>Outdoor Patio Furniture</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/shop/index.jsp?categoryId=1254884&amp;clickid=topnav_tab5morelawngarden_txt class=topnav>More in Lawn and Garden</a></font>')"><img src="http://ACE.imageg.net/images/h_lawn_off.gif" width="72" height="34" name="image5" border="0"></a><img src="http://ACE.imageg.net/images/h_bigpipe.gif" width="1" height="34" alt="" border="0"><a href="/shop/index.jsp?categoryId=1254532&amp;clickid=topnav_tab6_txt" onmouseout="imgOff('image6');delayOff(image6);" onmouseover="triggerDelay('image6');imgOn('image6');writeSubnav('subtext', '<font class=topnav><a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1254890&amp;clickid=topnav_tab6caulk_txt class=topnav>Caulk</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1254891&amp;clickid=topnav_tab6ladders_txt class=topnav>Ladders</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1254919&amp;clickid=topnav_tab6cleaners_txt class=topnav>Household Cleaners</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1254920&amp;clickid=topnav_tab6mops_txt class=topnav>Mops/Brooms</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/shop/index.jsp?categoryId=1254532&amp;clickid=topnav_tab6morecleaning_txt class=topnav>More in Cleaning/Paint Supplies</a></font>')"><img src="http://ACE.imageg.net/images/h_cleaning_off.gif" width="88" height="34" name="image6" border="0"></a><img src="http://ACE.imageg.net/images/h_bigpipe.gif" width="1" height="34" alt="" border="0"><a href="/category/index.jsp?categoryId=1254882&amp;clickid=topnav_tab7_txt" onmouseout="imgOff('image7');delayOff(image7);" onmouseover="triggerDelay('image7');imgOn('image7');writeSubnav('subtext', '<font class=topnav><a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1255080&amp;clickid=topnav_tab7bakeware_txt class=topnav>Bakeware</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1255081&amp;clickid=topnav_tab7cookware_txt class=topnav>Cookware</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1255075&amp;clickid=topnav_tab7smallapps_txt class=topnav>Small Appliances</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1255089&amp;clickid=topnav_tab7vacuums_txt class=topnav>Vacuums</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1254882&amp;clickid=topnav_tab7morehouse_txt class=topnav>More in Housewares</a></font>')"><img src="http://ACE.imageg.net/images/h_housewares_off.gif" width="101" height="34" name="image7" border="0"></a></td>
+			<td height="34"><a href="/category/index.jsp?categoryId=1254881&amp;clickid=topnav_tab1_txt" onmouseout="imgOff('image1');delayOff(image1);" onmouseover="triggerDelay('image1');imgOn('image1');writeSubnav('subtext', '<center><font class=topnav><a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1255037&amp;clickid=topnav_tab1doorlocks_txt class=topnav>Door Locks</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1255029&amp;clickid=topnav_tab1nails_txt class=topnav>Nails/Drywall Screws</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1255027&amp;clickid=topnav_tab1safety_txt class=topnav>Home/Personal Safety</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1255049&amp;clickid=topnav_tab1_txt&amp;clickid=topnav_tab1closet_txt class=topnav>Closet Storage</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1254881&amp;clickid=topnav_tab1hardware_txt class=topnav>More in Hardware</a></font></center>')"><img src="http://ACE.imageg.net/images/h_hardware_off.gif" name="image1" width="91" height="34" border="0"></a><img src="http://ACE.imageg.net/images/h_bigpipe.gif" width="1" height="34" alt="" border="0"><a href="/shop/index.jsp?categoryId=1254873&amp;clickid=topnav_tab2_txt" onmouseout="imgOff('image2');delayOff(image2);" onmouseover="triggerDelay('image2');imgOn('image2');writeSubnav('subtext', '<font class=topnav><a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1254933&amp;clickid=topnav_tab2sockets_txt class=topnav>Sockets/Wrenches</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1254935&amp;clickid=topnav_tab2measuring_txt class=topnav>Measuring Tools</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1254932&amp;clickid=topnav_tab2pwrtools_txt class=topnav>Power Tools</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1254943&amp;clickid=topnav_tab2hammers_txt class=topnav>Hammers/Chisels</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/shop/index.jsp?categoryId=1254873&amp;clickid=topnav_tab2moretools_txt class=topnav>More in Hand/Power Tools</a></font>')"><img src="http://ACE.imageg.net/images/h_handtools_off.gif" width="84" height="34" name="image2" border="0"></a><img src="http://ACE.imageg.net/images/h_bigpipe.gif" width="1" height="34" alt="" border="0"><a href="/category/index.jsp?categoryId=1254879&amp;clickid=topnav_tab3_txt" onmouseout="imgOff('image3');delayOff(image3);" onmouseover="triggerDelay('image3');imgOn('image3');writeSubnav('subtext', '<font class=topnav><a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1254973&amp;clickid=topnav_tab3fans_txt class=topnav>Ceiling Fans</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1254965&amp;clickid=topnav_tab3lights_txt class=topnav>Light Fixtures</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1254957&amp;clickid=topnav_tab3phones_txt class=topnav>Telephones</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1254963&amp;clickid=topnav_tab3wiring_txt class=topnav>Wiring Devices</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1254879&amp;clickid=topnav_tab3moreelectric_txt class=topnav>More in Electrical</a></font>')"><img src="http://ACE.imageg.net/images/h_electrical_off.gif" width="81" height="34" name="image3" border="0"></a><img src="http://ACE.imageg.net/images/h_bigpipe.gif" width="1" height="34" alt="" border="0"><a href="/shop/index.jsp?categoryId=1254880&amp;clickid=topnav_tab4_txt" onmouseout="imgOff('image4');delayOff(image4);" onmouseover="triggerDelay('image4');imgOn('image4');writeSubnav('subtext', '<font class=topnav><a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1255014&amp;clickid=topnav_tab4bath_txt class=topnav>Bath Accessories</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1254995&amp;clickid=topnav_tab4faucets_txt class=topnav>Faucets</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1255017&amp;clickid=topnav_tab4plumbing_txt class=topnav>Plumbing Tools</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1255010&amp;clickid=topnav_tab4showerheads_txt class=topnav>Shower Heads</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/shop/index.jsp?categoryId=1254880&amp;clickid=topnav_tab4moreplubming_txt class=topnav>More in Plumbing</a></font>')"><img src="http://ACE.imageg.net/images/h_plumbing_off.gif" width="75" height="34" name="image4" border="0"></a><img src="http://ACE.imageg.net/images/h_bigpipe.gif" width="1" height="34" alt="" border="0"><a href="/shop/index.jsp?categoryId=1254884&amp;clickid=topnav_tab5_txt" onmouseout="imgOff('image5');delayOff(image5);" onmouseover="triggerDelay('image5');imgOn('image5');writeSubnav('subtext', '<font class=topnav><a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1255113&amp;clickid=topnav_tab5grills_txt class=topnav>Grills</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1255123&amp;clickid=topnav_tab5hoses_txt class=topnav>Hoses</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1255122&amp;clickid=topnav_tab5sprinklers_txt class=topnav>Sprinklers</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1255112&amp;clickid=topnav_tab5patio_txt class=topnav>Outdoor Patio Furniture</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/shop/index.jsp?categoryId=1254884&amp;clickid=topnav_tab5morelawngarden_txt class=topnav>More in Lawn and Garden</a></font>')"><img src="http://ACE.imageg.net/images/h_lawn_off.gif" width="72" height="34" name="image5" border="0"></a><img src="http://ACE.imageg.net/images/h_bigpipe.gif" width="1" height="34" alt="" border="0"><a href="/shop/index.jsp?categoryId=1254532&amp;clickid=topnav_tab6_txt" onmouseout="imgOff('image6');delayOff(image6);" onmouseover="triggerDelay('image6');imgOn('image6');writeSubnav('subtext', '<font class=topnav><a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1254890&amp;clickid=topnav_tab6caulk_txt class=topnav>Caulk</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1254891&amp;clickid=topnav_tab6ladders_txt class=topnav>Ladders</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1254919&amp;clickid=topnav_tab6cleaners_txt class=topnav>Household Cleaners</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1254920&amp;clickid=topnav_tab6mops_txt class=topnav>Mops/Brooms</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/shop/index.jsp?categoryId=1254532&amp;clickid=topnav_tab6morecleaning_txt class=topnav>More in Cleaning/Paint Supplies</a></font>')"><img src="http://ACE.imageg.net/images/h_cleaning_off.gif" width="88" height="34" name="image6" border="0"></a><img src="http://ACE.imageg.net/images/h_bigpipe.gif" width="1" height="34" alt="" border="0"><a href="/category/index.jsp?categoryId=1254882&amp;clickid=topnav_tab7_txt" onmouseout="imgOff('image7');delayOff(image7);" onmouseover="triggerDelay('image7');imgOn('image7');writeSubnav('subtext', '<font class=topnav><a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1255080&amp;clickid=topnav_tab7bakeware_txt class=topnav>Bakeware</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1255081&amp;clickid=topnav_tab7cookware_txt class=topnav>Cookware</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1255075&amp;clickid=topnav_tab7smallapps_txt class=topnav>Small Appliances</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1255089&amp;clickid=topnav_tab7vacuums_txt class=topnav>Vacuums</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a onmouseover=triggerDelay() onmouseout=delayOff() href=/category/index.jsp?categoryId=1254882&amp;clickid=topnav_tab7morehouse_txt class=topnav>More in Housewares</a></font>')"><img src="http://ACE.imageg.net/images/h_housewares_off.gif" width="101" height="34" name="image7" border="0"></a></td>
 		</tr>
 		</tbody></table>
 	</td>
@@ -268,7 +282,7 @@ function timeout() {
 		<table cellpadding="0" cellspacing="0" border="0" width="780">
 		<tbody><tr>
 			<td><img src="http://ACE.imageg.net/images/pixel.gif" width="4" height="1"></td>
-			<td align="right"><img src="http://ACE.imageg.net/images/797979_top.gif" width="775" height="28" alt="" border="0"><div id="subtext" align="right" style="width:700px;height:38px;top:93px;left:34px;position:absolute;z-index:2;"></div><div id="subtext_2" align="right" style="width:700px;height:38px;top:85px;left:34px;position:absolute;z-index:2;"><img src="/images/ace_bml_header.jpg" usemap="#thisace" border="0" name="image8"></div></td>
+			<td align="right"><img src="http://ACE.imageg.net/images/797979_top.gif" width="775" height="28" alt="" border="0"><div id="subtext" align="right" style="width:700px;height:38px;top:93px;left:34px;position:absolute;z-index:2;"></div><div id="subtext_2" align="right" style="width:725px;height:38px;top:85px;left:35px;position:absolute;z-index:1;"><img src="/images/ace_placeAds.jpg" usemap="#thisace" border="0" name="image8"></div></td>
 			<td>
 	<!-- Start of SearchMarketing.com Natural Pixel Tag: Please do not remove-->
 	<script language="JavaScript"><!--
@@ -285,6 +299,7 @@ function timeout() {
 	</td>
 </tr>
 </tbody></table>
+
 <map name="thisace">
 <area alt="" href="javascript:void(window.open('../helpdesk/popup.jsp?display=payment&amp;subdisplay=process','promo','width=500,height=600,scrollbars=yes,resizable=no'))" coords="350,6,409,26">
 </map>
@@ -410,7 +425,7 @@ function timeout() {
 						<!--here is panelId::1998406-->
 <!--here is pd::null-->
 <!--STOREMAN GENERATION - 1 panel(s) found for slot: HelpSlot entryId: 1998406 with pd:null-->
-<!--STOREMAN PANEL: helpdesk/ACE_safetySecurityAndPrivacy_8-3.19009.jsp-->
+<!--STOREMAN PANEL: helpdesk/ACE_safetySecurityAndPrivacy_8-3.21094.jsp-->
 
 								<!--?xml version="1.0" encoding="ISO-8859-1" standalone="no"?-->
 
@@ -424,7 +439,7 @@ function timeout() {
 			<br><br>
 			Please be advised that the practices described in this Privacy Policy apply only to information gathered through this Web site and, where applicable, through our Customer Service Department in connection with this Web site, and do not necessarily reflect our practices with respect to information gathered through other Web sites that we operate or through other off-line means.
 			<br><br>
-			If you have any questions regarding this Privacy Policy, you should contact our Customer Service Department by email at <a href="mailto:customersupport@acehardware.com" class="pagelink">customersupport@acehardware.com</a>.
+			If you have any questions regarding this Privacy Policy, you should contact our Customer Service Department by email at <a href="mailto:customersupport@acehardware.com? subject=Privacy Policy Questions" class="pagelink">customersupport@acehardware.com</a>.
 			<br><br>
 			<b><u>What Information About Me Is Collected and Stored?</u></b>
 			<br><br>
@@ -432,7 +447,7 @@ function timeout() {
 			<br><br>
 			We collect and store certain other information automatically whenever you interact with this Web site. For example, we collect your IP address, browser information and reference site domain name every time you visit this Web site. We also collect information regarding customer traffic patterns and site usage. This information is used to analyze and improve this Web site and to provide our customers with a fulfilling shopping experience.
 			<br><br>
-			We may also uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of these technologies, go to <a href="/void(window.open('http://www.doubleclick.net/us/corporate/privacy','doubleclick','width=800,height=600'));/index.jsp">http://www.doubleclick.net/us/corporate/privacy</a>.
+			We may also uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address.
 			<br><br>
 			Also, like many Web sites, we use "cookies", which are files stored on your computer's hard drive by your browser. Cookies help us to identify account holders and to optimize their shopping experience.  Cookies also allow us to hold selections in a shopping cart when a user leaves this Web site without checking out. Most browsers accept cookies automatically but allow you to disable them. We recommend that you leave cookies "turned on" so that we can offer you a better shopping experience on this Web site.
 			<br><br>
@@ -458,7 +473,7 @@ function timeout() {
 			<br><br>
 			<b><u>What Steps Are Taken To Keep Personal Information Secure?</u></b>
 			<br><br>
-			We use various security measures, including Secure Socket Layer (SSL) encryption technology, to protect personal information that we collect. If you place an order through this Web site, you will be asked to set up an account and provide an email address and password. You must provide an appropriate email address and password in order to access account information. In order to help protect your personal information further, you should be careful about providing your password to others. If you wish to cancel a password, or if you become aware of any loss, theft or unauthorized use of a password, please contact our Customer Service Department by email at <a href="mailto:customersupport@acehardware.com" class="pagelink">customersupport@acehardware.com</a> or by phone at 1-866-290-5334.
+			We use various security measures, including Secure Socket Layer (SSL) encryption technology, to protect personal information that we collect. If you place an order through this Web site, you will be asked to set up an account and provide an email address and password. You must provide an appropriate email address and password in order to access account information. In order to help protect your personal information further, you should be careful about providing your password to others. If you wish to cancel a password, or if you become aware of any loss, theft or unauthorized use of a password, please contact our Customer Service Department by email at <a href="mailto:customersupport@acehardware.com? subject=Privacy Policy Questions" class="pagelink">customersupport@acehardware.com</a> or by phone at 1-866-290-5334.
 			<br><br>
 			<b><u>How Can I Access, Correct and Update Personal Information?</u></b>
 			<br><br>
@@ -487,7 +502,7 @@ function timeout() {
 </tbody></table>
 </smpanel>
 
-<!--  jk- /panels/helpdesk/ACE_safetySecurityAndPrivacy_8-3.19009.jsp--><!--END STOREMAN PANEL helpdesk/ACE_safetySecurityAndPrivacy_8-3.19009.jsp-->
+<!--  jk- /panels/helpdesk/ACE_safetySecurityAndPrivacy_8-3.21094.jsp--><!--END STOREMAN PANEL helpdesk/ACE_safetySecurityAndPrivacy_8-3.21094.jsp-->
 <!--END STOREMAN GENERATION-->
 
 							
@@ -510,6 +525,10 @@ function timeout() {
 </tr>		
 </tbody></table>
 
+<!-- Start of New Pixel File -->
+
+
+<!-- End of New Pixel File -->
 
 
 <table border="0" cellpadding="0" cellspacing="0" width="780">
@@ -527,7 +546,7 @@ function timeout() {
 			<table border="0" cellpadding="0" cellspacing="0" width="763">
 				<tbody><tr>
 					<td width="15"><img src="http://ACE.imageg.net/images/pixel.gif" width="15" height="23"></td>
-					<td class="footerlink" align="left">©&nbsp;Copyright 2005.&nbsp;&nbsp;&nbsp;</td>
+					<td class="footerlink" align="left">©&nbsp;Copyright 2006.&nbsp;&nbsp;&nbsp;</td>
 					<td align="right" class="footerlink"><a href="/home/index.jsp?clickid=footerlink_home_txt" class="footerlink">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.adzmar.com/ace" class="footerlink">Store Locator</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/corp/index.jsp?page=careers&amp;clickid=footerlink_careers_txt" class="footerlink">Careers@Ace</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.helpfulhardwareclub.com/" target="new" class="footerlink">Helpful Hardware Club</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/corp/index.jsp?page=about&amp;clickid=footerlink_aboutus_txt" class="footerlink">About Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/helpdesk/index.jsp?clickid=footerlink_helpdesk_txt" class="footerlink">HelpDesk</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy&amp;clickid=footerlink_privacy_txt" class="footerlink">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/affiliate/index.jsp?clickid=footerlink_affiliate_txt" class="footerlink">Affiliate</a></td>
 					<td width="15"><img src="http://ACE.imageg.net/images/pixel.gif" width="15" height="23"></td>
 				</tr>
@@ -556,17 +575,19 @@ var s_eVar20 = '';
 var s_hier1 = '';
 var s_events = '';
 var s_channel = 'Home';
-var s_eVar19 = '16953010031';
+var s_eVar19 = '17333896473';
 </script>
 
 	<!--//********* INSERT THE DOMAIN AND PATH TO YOUR CODE BELOW ************///-->
 	<script language="JavaScript">
 	/* Specify the Report Suite ID(s) to track here */
 	var s_account="gsicace";
-	</script><script language="JavaScript" src="/include/omniture.js"></script><img name="s_i_gsicace" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/gsicace/1/G.9-Pd-R/s06723751592430?[AQB]&amp;ndh=1&amp;t=30/0/2020%206%3A44%3A4%204%200&amp;pageName=Customer%20Assistance%20-%20Customer%20Assitance%20Landing%20Page&amp;g=https%3A//web.archive.org/web/20051210055038id_/http%253A//www.acehardware.com/helpdesk/index.jsp%253Fdisplay%253Dsafety%2526subdisplay%253Dprivacy%2526clickid%253Dfooterlink_privacy_txt&amp;ch=Home&amp;server=www.acehardware.com&amp;cc=USD&amp;v19=16953010031&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+	</script><script language="JavaScript" src="/include/omniture.js"></script><img name="s_i_gsicace" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/gsicace/1/G.9-Pd-R/s05969110058191?[AQB]&amp;ndh=1&amp;t=30/0/2020%206%3A44%3A2%204%200&amp;pageName=Customer%20Assistance%20-%20Customer%20Assitance%20Landing%20Page&amp;g=https%3A//web.archive.org/web/20060615010953id_/http%253A//www.acehardware.com/helpdesk/index.jsp%253Fdisplay%253Dsafety%2526subdisplay%253Dprivacy%2526clickid%253Dfooterlink_privacy_txt&amp;ch=Home&amp;server=www.acehardware.com&amp;cc=USD&amp;v19=17333896473&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
 	<!-- End SiteCatalyst code version: G.9. -->
 
 
+
+<!-- No "DoubleClick" tracking implementation exists for this store. -->
 
 
 
