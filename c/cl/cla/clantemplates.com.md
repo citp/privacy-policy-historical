@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the clantemplates.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210071156id_/http%3A//www.clantemplates.com/pages/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clantemplates.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614202559id_/http%3A//www.clantemplates.com/pages/privacypolicy) for the most accurate reproduction.*
 
-# Free Gaming Templates for Clans of Counter-Strike, Halo, Half Life, Call of Duty... Tutorials, Gaming Images, Hosting, Scripts.
-
-* * *
+# Free Clan Gaming Templates - Clantemplates.com
 
   
   
-[**_More premium templates_**](http://www.clantemplates.com/pages/premium_i) | 
+| 
 
 **Privacy Policy** We can be reached via e-mail at webmaster [at] clantemplates[dot]com
 
