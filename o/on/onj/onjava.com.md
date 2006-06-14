@@ -1,15 +1,10 @@
-> *The following text is extracted and transformed from the onjava.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228174324id_/http%3A//onjava.com/pub/a/mediakit/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onjava.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615010428id_/http%3A//onjava.com/pub/a/mediakit/privacy.html) for the most accurate reproduction.*
 
-# O'Reilly Network: Privacy Policy
+# O'Reilly Network -- Privacy Policy
 
 |  |   
-| [Print](https://web.archive.org/lpt/a/14 "Go to a print-friendly version of this page.")  
-|     |   
----|---|---  
-   
-[Bookmark with del.icio.us](http://del.icio.us/post?url=http%3A%2F%2Fwww.oreillynet.com%2Fpub%2Fa%2Fmediakit%2Fprivacy.html&title=Privacy%20Policy)  
-   
-  
+
+
 ## O'Reilly Media Privacy Policy
 
 ### Purpose and Scope
@@ -54,7 +49,7 @@ We analyze visitors' use of our sites by tracking information such as pageviews,
 
 We use WebSiteStory's Hitbox, a third party web analytics service to improve our web site performance and user experience. We use this information to improve usability on our sites and to help support our customers online needs. Hitbox does not reveal any personally identifiable information, such as names or email address.
 
-For more information on the Hitbox service and privacy policy, please see their [privacy policy](http://www.websidestory.com/cgi-bin/wss.cgi?privacy&privacy&index) and [privacy FAQ](http://www.websidestory.com/cgi-bin/wss.cgi?privacy&faqs&faqs).
+For more information on the Hitbox service and privacy policy, please see their [privacy policy](http://www.websidestory.com/privacy/privacy-policy.html) and [privacy FAQ](http://www.websidestory.com/privacy/faq.html).
 
 ### Cookies
 
@@ -85,7 +80,7 @@ If we change our Privacy Policy, we will post those changes on www.oreilly.com. 
 
 **Snailmail** : To change your address, delete your name from our mailing list (for paper catalogs or brochures) or to opt-out of third-party mail, send email to [catalog@oreilly.com](mailto:catalog@oreilly.com?subject=) or call 800-998-9938 or 707-829-0515.
 
-| 
+|  | 
 
 Sponsored by:
 
