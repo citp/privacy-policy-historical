@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lens.com privacy policy that was archived on 2005-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050525094831id_/http%3A//www.lens.com/common/faq/privacyPolicy.asp%3Fpopup%3DN%26%26%23b) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lens.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615014235id_/http%3A//www.lens.com/common/faq/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,4 +19,4 @@ In areas of the Lens.com Web site which may be of particular interest to childre
 
 If you have any questions or comments about our privacy practices, would like to stop receiving information from Lens.com , or would like to correct or update information provided to Lens.com via its Web site, please contact Lens.com by sending an e-mail.
 
-[More about Corporate Policies](http://www.lens.com/common/faq/corppolicy.asp?)
+[More about Corporate Policies](http://www.lens.com/common/faq/corppolicy.asp)
