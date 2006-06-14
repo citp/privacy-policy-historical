@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the endicia.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210100750id_/http%3A//endicia.com/endicia-usa/Site/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endicia.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615011827id_/http%3A//endicia.com/endicia-usa/Site/privacy.cfm) for the most accurate reproduction.*
 
 # Endicia Internet Postage - Privacy Statement
 
@@ -73,7 +73,8 @@ We do not rent, sell, or swap your personal information with any one for marketi
   2. We may share your information if it is subpoenaed in legal procedings, if it is requested by a government agency, if it is needed in an investigation, or as required by law. 
   3. We may share part of your information with our affiliates if you signed up with Endicia using one of their affiliate links, or with other Endicia customers if you identified them as a referrer to our service. We will not share any of your personal information with the referrer or affiliate. 
   4. We may provide information to trusted partners or contractors working on our behalf subject to confidentiality agreements that bar their use of this information for their own purposes. 
-  5. In the case of a merger or acquisition of our company, service, or assets, we may share your information with the other company, and will notify you of any such transfer. 
+  5. If you have a DYMO Stamps account, we may share certain information on that DYMO Stamps account, including your contact information, billing transactions, and usage data, with DYMO Corporation. DYMO's usage of this information is governed by DYMO Corporation's privacy policy. For more information on DYMO's privacy policy, plase visit [www.dymo.com](http://www.dymo.com/). 
+  6. In the case of a merger or acquisition of our company, service, or assets, we may share your information with the other company, and will notify you of any such transfer. 
 
 We may, from time to time, communicate information to you regarding services, products, announcements, or special offers from us or from one of our partners. In cases where the communication concerns one of our partners, only we (or our agents under confidentiality agreements) will communicate with you directly, and we will not release your information to our partners. You may opt-out of these communications by notifying us at the e-mail address listed below. 
 
