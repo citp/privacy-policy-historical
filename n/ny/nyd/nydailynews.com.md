@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nydailynews.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230181654id_/http%3A//www.nydailynews.com/scontent/private_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nydailynews.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615003420id_/http%3A//nydailynews.com/scontent/private_policy) for the most accurate reproduction.*
 
 # New York Daily News - Private Policy
 
@@ -30,7 +30,7 @@ Our website contains links to websites that are not operated by the Daily News, 
 
 Users should check the applicable privacy policies of those third parties when providing personally identifiable information. 
 
-In addition, the advertisements appearing on our website are delivered to you by various third parties, including MaxOnline and RealMedia. These third parties may or may not use cookies, which may be used to gather information about you, or simply to track user activity. The Daily News does not have access to or control these cookies. Users should check the applicable privacy policies of these third parties when providing personally identifiable information. 
+In addition, the advertisements appearing on our website are delivered to you by various third parties, including MaxOnline and RealMedia. These third parties may or may not use cookies, which may be used to gather information about you, or simply to track user activity. The Daily News does not have access to or control these cookies. Users should check the applicable privacy policies of these third parties when providing personally identifiable information.
 
 **CHILDREN:**
 
