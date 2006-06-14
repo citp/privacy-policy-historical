@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidscamps.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306021954id_/http%3A//www.kidscamps.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidscamps.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615011246id_/http%3A//kidscamps.com/privacy.shtml) for the most accurate reproduction.*
 
 # Kidscamps.com - Help
 
@@ -9,7 +9,7 @@
 
 ### Privacy Statement for KidsCamps.com®
 
-KidsCamps.com® is firmly commited to privacy. The following discloses our information gathering and dissemination practices for this website: [KidsCamps.com](http://www.kidscamps.com/)®.
+KidsCamps.com® is firmly committed to privacy. The following discloses our information gathering and dissemination practices for this website: [KidsCamps.com](http://www.kidscamps.com/)®.
 
 This site contains third party links. [KidsCamps.com](http://www.kidscamps.com/)® is not responsible for the privacy practices or the content of such Web Sites.
 
@@ -32,7 +32,7 @@ This site gives users the following options for removing their information from 
   1. You can send e-mail to [info@kidscamps.com](mailto:info@kidscamps.com)
   2. You can visit the following URL: [http://www.kidscamps.com](http://www.kidscamps.com/)® and use the Contact Us form.
   3. You can send mail to the following postal address:  
-6421 Congress Ave., Suite 200, Boca Raton, Florida 33487
+2500 N. Military Trail, Suite 450, Boca Raton, Florida 33431-6353
   4. You can call the following telephone number: 877-242-9330
 
 
@@ -44,7 +44,7 @@ This site gives users the following options for changing and modifying informati
   1. E-mail [info@kidscamps.com](mailto:info@kidscamps.com)
   2. Visit [http://www.kidscamps.com](http://www.kidscamps.com/)® and fill out the online update form.
   3. Send mail to the following postal address:  
-6421 Congress Ave., Suite 200, Boca Raton, Florida 33487
+2500 N. Military Trail, Suite 450, Boca Raton, Florida 33431-6353
   4. Call the following telephone number: 877-242-9330
 
 
@@ -54,6 +54,6 @@ This site gives users the following options for changing and modifying informati
 If you have any questions about this privacy statement, the practices of the site, or your dealings with this Web site, you can contact:  
 _Webmaster  
 [KidsCamps.com](http://www.kidscamps.com/)®  
-6421 Congress Ave., Suite 200, Boca Raton, Florida 33487  
+2500 N. Military Trail, Suite 450, Boca Raton, Florida 33431-6353  
 Boca Raton, FL 33487  
 [info@kidscamps.com](mailto:info@kidscamps.com)_
