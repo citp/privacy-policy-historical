@@ -1,200 +1,61 @@
-> *The following text is extracted and transformed from the trumba.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217062905id_/http%3A//www.trumba.com/corp/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trumba.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615004440id_/http%3A//www.trumba.com/corp/privacy.aspx) for the most accurate reproduction.*
 
-# Trumba Privacy Policy
+# Trumba - Privacy Policy
 
-##### Last Updated: November 10, 2005
+##### Last Updated: March 15, 2006
 
-#### Introduction to Privacy Policy
+This privacy policy ("Policy") applies to the Web site owned and operated by Trumba Corporation ("Trumba" "we" or "us") located at www.trumba.com (the "Site"). Trumba provides interactive, online calendaring services (the "Services"). This Policy is designed to tell you how we collect and use personal information (as defined below) so you can make an informed decision about using our Site and our Services. Please read this statement before using our Site or submitting any personal information to us. By using our Site, you represent that you are 13 years old or older and that you consent to the information collection and use practices described herein. We reserve the right to change the provisions of this privacy policy at any time, but we will alert you that changes have been made by indicating on the privacy policy the date it was last updated. Your use of the Site following the posting of such changes or revised statement shall constitute your acceptance of any such changes. We encourage you to review our privacy policy whenever you visit our Site to make sure that you understand how any personal information you provide will be used. 
 
-The Trumba OneCalendar Service is a web-based software application designed to help families, individuals, and colleagues more efficiently plan and run their lives. Trumba Corporation grew out of our founders' desire to organize family members involved in numerous school, sports, entertainment, and work activities. 
+#### WHAT IS PERSONAL INFORMATION
 
-Trumba Corporation is committed to protecting your privacy. This Privacy Policy covers our treatment of personally identifiable information you voluntarily submit through your use of the Trumba Service. This policy does not apply to the practices of companies or other entities that Trumba does not own or control (see Your Acceptance of Our Privacy Policy Terms). If you link to another web site from the Trumba web site, please consult that site's privacy policy. 
+As used herein, the term "personal information" means information that specifically identifies an individual (such as a user's name, address, telephone number, e-mail address, credit card or other account number) or that is associated with an identifiable person (such as demographic information or information about a person's activities when such information is linked to personally identifying information). Personal information does not include "aggregate" information, which is data we collect about the use of the Sites or categories of Site users, from which any personal information has been removed. For example, information that forty-seven percent of the Site's registered users identify themselves as male, but without identifying any specific individuals as male, is aggregate information. We collect aggregate data for a number of purposes, including to help us understand trends and user needs so that we can better consider new publications, products and services, and tailor existing publications, products and services to user desires. This policy in no way limits or restricts our collection of aggregate information.
 
-This privacy policy describes the personal information we collect, why we collect it, and explains how it is used. By using the Trumba Service, you agree to the collection and use of your personal information as described below. You also agree to abide by the terms described in the [Trumba Terms of Use](https://web.archive.org/web/20051217062905id_/http%3A//www.trumba.com/corp/terms.aspx) agreement.
+#### WHAT PERSONAL INFORMATION DO WE COLLECT? 
 
-#### General Guidelines
+Personal information may be collected in a number of ways when you visit our Site or use the various services and activities available on our Site. At several places on our Site, we may collect certain information you voluntarily provide to us which may contain personal information. For example, if you register for a free trial, subscribe to or use our Services, apply for a job, fill out an online form or submit a comment or complaint, we may collect your name, address, phone and email and other contact information, as well as demographic and other personal information. You may also provide us with credit card information in connection with payment for subscriptions, events and other purchases through the Site, which is only used to process the transaction. In addition, from time to time we may collect demographic, contact or other personal information in connection with your participation in surveys, sweepstakes, contests, games, promotional offers, and forums and other interactive areas of the Site as well as in any email request you send us for any reason.
 
-  * We do not use the information you provide us in any manner other than that outlined in this privacy policy. 
-  * You can change personal account information or terminate your account at any time. 
-  * We will store your account information on secure servers. 
-  * We will provide aggregate or combined user statistics to partners without disclosing any personally identifiable information. 
-  * We provide tools allowing you to export your calendar data at any time for use in other calendar applications. 
-  * We will treat your email address with the respect it deserves and never share, sell, or rent email addresses with any partner, marketing agency, or third parties. 
-  * We will not disclose your personal information, without notice, unless required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on us or the site; (b) protect or defend the rights or property of Trumba or the web site; or (c) act in exigent circumstances to protect the personal safety of users of the site or the public. 
+When you visit our Site, some information is also automatically collected through the use of log files, such as your computer's Internet Protocol (IP) address, your computer's operating system, the browser type, the address of a referring web site and your activity on the Site. We use this information for purposes such as analyzing trends, administering the Sites, improving customer service, diagnosing problems with our servers, tracking user movement, and gathering broad demographic information for aggregate use. We may also automatically collect certain information through the use of "cookies." Cookies are small data files that are stored on a user's hard drive at the request of a Web site to enable the site to recognize users who have previously visited them and retain certain information such as customer preferences and history. If we combine cookies with or link them to any of the personally identifying information, we would treat this information as personal information. If you wish to block, erase, or be warned of cookies, please refer to your browser instructions or help screen to learn about these functions. However, if a browser is set not to accept cookies or if a user rejects a cookie, you will not be able to sign in and will not be able to access certain Site features or Services. 
 
+#### HOW DO WE USE THE PERSONAL INFORMATION WE COLLECT? 
 
+In general, we use personal information we collect to process your requests or transactions, to provide you with information, products and services you request, to inform you about other publications, information, events, promotions, products or services we think will be of interest, to administer and assist us with the operation of the Sites and of our business, and for the purpose for which the information was provided. For example, we may use the information we collect: 
 
-#### Collection of Information
+to send you a welcoming email and to contact you about your use of the Site, such as for administrative purposes or to provide you with customer service; to provide you with the services, products or information you requested and to complete any transactions in connection therewith; to respond to your emails, submissions, comments, requests or complaints; to request feedback and to enable us to develop, customize and improve the Site and our publications, products and services; to contact you about our services, products, training, activities or special events or offers and for other internal marketing, informational, product development and promotional purposes; to send you information from or about Trumba partners (if you have indicated your interest in receiving such information); to notify contest winners; and for the specific purpose for which the information was provided. 
 
-The following table lists the information we collect, why we collect it, and how it is used.
+We may also receive information from third parties with whom we have business relationships, and may combine this information with the other personal information we have about you. In such cases, this Policy governs our use and disclosure of such information. 
 
-#### Information that is not shared with anyone
+#### WHAT PERSONAL INFORMATION DO WE SHARE WITH THIRD PARTIES?
 
-Information | Why we collect it  
----|---  
-Name | 
+We do not sell, share, or rent any personal information to others in ways different from what is disclosed in this Policy without first obtaining your consent. We may provide aggregate information to third parties without your authorization. In addition, we may share personal information with third party vendors, consultants and other service providers ("Service Providers") who are engaged by or working with us in connection with the operation of the Site and our business and who need access to such information to carry out their work for us. For example, we may use credit card processing companies to process payments. We inform our Service Providers that any such information we provide may only be used to carry out their work for us. We are not responsible for any information you provide to these parties directly, and we encourage you to become familiar with their practices before disclosing information directly to such third parties with which you come into contact. 
 
-  * To customize your experience 
-  * To reference you by name when sending e-mail
+When you subscribe to a published calendar, we will share your email with the publisher of that calendar, and such publisher may use your email address in a variety of ways including without limitation sending you emails either directly or through the Trumba Service. We do not control or take any responsibility for the use of such information, or any other information, by the publishers of calendars to which you subscribe. We suggest you only subscribe to calendars published by people or entities that you are familiar with and with whom you are comfortable sharing this information. Personal information that you post to public areas of the Site, such as in published public calendars, forums or any other interactive areas, or other information that is provided for the purpose of being shared may be made publicly available and can potentially be viewed by anyone. Please note that calendars are public unless you choose to restrict access via Trumba privacy setting. Your posting to such public areas of the Site constitutes your consent to share such information publicly. Personal information contained in unpublished calendars may also be shared with third parties to whom you have granted access to such calendars. 
 
-  
-Password | 
+We also may disclose personal information when we are required to or we believe it is appropriate to comply with the law (e.g., a lawful subpoena, warrant or court order); to enforce or apply this privacy policy or our other policies or agreements; to initiate, render, bill, and collect for amounts owed to us; to protect our or our customers' rights, property or safety; to protect our customers from fraudulent, abusive, or unlawful use of our Site; or if we believe that an emergency involving the danger of death or serious physical injury to any person requires disclosure of communications or justifies disclosure of personal information. In addition, information about our customers, including personal information, may be disclosed as part of any merger, acquisition, debt financing, sale of company assets, as well as in the event of an insolvency, bankruptcy or receivership in which personally identifiable information could be transferred to third parties as one of the business assets of the Company.
 
-  * Protects access to your account
+Please note: The Sites may contain links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our Site and to read the privacy policies of any web site that collects personally identifiable information. Similarly, if you entered this Site through another Web site, we are also not responsible for the privacy practices of that site, and you should review the privacy policy of the originating site before providing any personal information to that site. This privacy policy applies solely to information collected by us.
 
-  
-Email Address | 
+#### WHAT STEPS DO WE TAKE TO PROTECT YOUR INFORMATION ONLINE? 
 
-  * Your unique user name - how you log into the service 
-  * To send email subscriptions that you have explicitly asked to receive 
-  * Periodically we may email you regarding service changes or availability problems 
-  * Used as the "reply-to" address when you send event email to your friends via the Trumba Add to my Calendar service 
-  * You can receive email from an organizer without disclosing your personal email address
+Trumba endeavors to secure your personal information from unauthorized access, use or disclosure by putting into place appropriate physical, electronic and managerial procedures to safeguard the information we collect through this Site. For example, only a limited set of employees have access to user accounts for the purpose of customer service, and accounts and log data are not viewed by a human being unless there is a security, audit or internal business purpose. When we collect credit card information, we use a secure server with Secure Socket Layer (SSL) encryption software. Additionally, your account information is accessible online only through the use of a password. Please be aware, however, that despite our efforts, no security measures are perfect or impenetrable. To protect the confidentiality of your personal information, you must keep your password confidential and not disclose it to any other person. You are responsible for all uses of the Site by any person using your password. Please advise us immediately by emailing us at privacy@corp.trumba.com if you believe your password has been misused. You should also note that email is not secure, and you should not send any confidential or sensitive information to us via an unsecured email. 
 
-  
-Cell Phone Number | 
+#### WHAT CHOICES DO YOU HAVE REGARDING THE USE OF YOUR INFORMATION? 
 
-  * To send SMS reminders that you have explicitly asked to receive
+You may "opt out" of receiving email from Trumba by so indicating at the time of registration, by accessing the "Account Settings" page, by emailing us at privacy@corp.trumba.com or by sending us a request by mail to the address set forth at the end of this Policy. By "opting out" of receiving email, you would not receive marketing or promotional communications from us, calendar update email messages from publishers of other Trumba subscribers that are sent through us, email reminders (even if you set up such reminder) or other emails, except for Service related emails. We also provide unsubscribe links within the emails we send that may be used to opt out of such communications. 
 
-  
-  
-#### Information that may be shared in the aggregate or combined to third-parties — _personally-identifiable information will NOT be tied to this data_
+#### COLLECTION OF INFORMATION FROM CHILDREN UNDER 13
 
-Data | Why we collect it  
----|---  
-Zip Code | 
+This Site is not directed to children under 13, and the Trumba Services are only available to users who are at least 13 years old. By registering for or subscribing to the Services or by using the Site, users represent to us that they are 13 or over, and we do not knowingly collect any information from anyone we actually know is under 13 years of age. 
 
-  * To customize your experience 
-  * To analyze geographic characteristics and improve the service 
+#### HOW CAN YOU CORRECT AND UPDATE YOUR PERSONAL INFORMATION OR OBTAIN ADDITIONAL INFORMATION
 
-  
-Time Zone | 
-
-  * Used for your default calendar display and to ensure that calendar and event reminders are sent at the appropriate time
-  * To analyze geographic characteristics and improve the service
-
-  
-  
-#### Orders
-
-If you purchase products or services, we will ask for billing information from you on an order form. This information will include name, billing address and financial information such as credit card number, and expiration date.
-
-Billing information is encrypted and sent to a credit card transaction processor using a secure connection. Trumba does not store any billing information in our database.
-
-#### Calendar Data
-
-Any event information you enter in a published "public" calendar can potentially be viewed by anyone, unless you choose to restrict access via Trumba privacy settings. Trumba provides a number of different privacy levels allowing you to share none, some, or all of your calendar information with select groups or individuals. Unpublished calendars can also be shared in a manner specified by you.
-
-You can also upload an image to published calendars. Your image will be displayed with your calendar and available to others according to the privacy settings that you choose.
-
-#### Trumba Email Products
-
-Trumba provides opt-in email subscriptions to help enhance the service we provide. These products include: 
-
-  * **Verification Email** — Based on the email address you supplied when you registered, we will send you a one-time verification email to verify your email address and password. You must activate your account through this email. 
-  * **Unsubscribe** — Out of respect for your privacy, we present the option to opt-out of email communications. We provide unsubscribe links within Trumba email products and within the web site. Registered users can opt out of email subscriptions using the "Email options" link on the bottom of the "Account Settings" page. 
-  * **Service-Related Announcements** — We may send you service-related email announcements on rare occasions when it is necessary to do so. For instance, if our service is suspended for maintenance. Since these emails are not promotional in nature, you may not opt-out of these communications. If you do not wish to receive them, you have the option to deactivate your account. 
-  * **Invite a Friend to Trumba Email** — If you choose to use our referral service to tell a friend about our site, or to forward event information, we will ask you for your friend's email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Trumba stores this information for the sole purposes of sending this one-time email, tracking the success of our referral program, storing email preferences, and for providing our members with a list of most frequently "mailed to" friends. Your friend may request to not receive future email from the Trumba Service by clicking on a link included in the email sent to them. 
-
-
-
-#### Cookies
-
-A cookie is a unique identifier sent to a user's computer during a visit to a web site. Cookies can be used to remember information such as user name and password (so you don't have to enter them each time you visit our site). 
-
-If you choose the option "Automatically sign me in on this computer," OneCalendar will use one persistent cookie to store your user name and password so (if you close your browser rather than signing off from the www.trumba.com Web site) you don't have to enter it on repeat visits. You can remove persistent cookies by following directions provided in your Internet browser's "Help" file. However if you configure your browser or choose to reject cookies, you may only use a portion of our web site including "Add to My Calendar" and viewing a public calendar. To best experience Trumba OneCalendar you need cookies enabled. 
-
-We use cookies to:
-
-  * Automatically log you into the service when you return (if you closed your browser rather than signing off at the end of your last visit) 
-  * Access your site preferences and deliver the appropriate calendar content to you 
-  * Record the date you first viewed specific entry pages 
-  * Access your Add to My Calendar preferences
-
-
-
-This privacy statement covers the use of cookies by www.trumba.com only and does not cover the use of cookies by any advertisers.
-
-#### Log Files
-
-We gather certain information automatically and store it in log files. This information includes IP address, browser type, referring/exit pages, operating system, date/time stamp, and requested URLs.
-
-How we use the information captured in log files:
-
-  * To help diagnose problems with our servers 
-  * To administer our web site 
-  * To gather aggregate demographic information 
-  * To understand which pages are most popular on our site
-
-
-
-#### Third-Party Advertisers
-
-Advertising partners may deliver advertisements appearing on the Trumba web site. Our arrangements with these advertisers do not require us to share any personally-identifiable information about our users.
-
-#### Links to Other Sites
-
-The Trumba web site may contain links to other third-party sites that are not owned or controlled by Trumba Corporation. Please be aware that Trumba Corporation is not responsible for the privacy practices of other such sites. We encourage you to be aware when you leave our site and to read the privacy policy of every web site that collects personally identifiable information. 
-
-#### Business Transfers
-
-Information about our users, including personal information, may be disclosed as part of any merger, acquisition, sale of company assets, or transition of service to another provider, as well as in the unlikely event of an insolvency, bankruptcy, or receivership in which personal information would be transferred as one of the business assets of the company. 
-
-#### Access to Personally Identifiable Information
-
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, or deactivate your account by changing your account settings directly or by contacting us by postal mail at the following address:
-
-Trumba Corporation  
-Attn: Account Update  
-1420 Fifth Avenue, Suite 4400  
-Seattle, WA 98101
-
-Or by sending email to [support@corp.trumba.com](mailto:support@corp.trumba.com)
-
-#### Security
-
-Trumba Corporation secures your personal information from unauthorized access, use or disclosure on offline computer servers in a controlled, secure environment. When it is necessary to transmit personal information, industry-standard Secure Socket Layer (SSL) encrypted protection is used.
-
-Email, which is different from the SSL encrypted transmissions described above, is not secure. Therefore, do not send any confidential information such as social security or account numbers via an unsecured email message. Send confidential information via U.S. mail to: 
-
-Trumba Corporation  
-Attn: Confidential  
-1420 Fifth Avenue, Suite 4400  
-Seattle, WA 98101
-
-To prevent unauthorized access of your information, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect through this web site. For example, only a limited set of employees have access to user accounts for the purposes of customer service and accounts and log data are not viewed by a human unless there is a security, audit or internal business purpose.
-
-If you have any questions about security on our web site, you can email us at [privacy@corp.trumba.com](mailto:privacy@corp.trumba.com)
-
-#### Surveys or Contests
-
-From time-to-time, we may provide you the opportunity to participate in contests or surveys on our site. If you decide to participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is voluntary and you may choose whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as ZIP code).
-
-We use aggregated anonymous information collected through customer surveys and site statistics to improve the products and services we offer. We do not connect this data to any personally identifiable information we have collected.
-
-We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you clear prior notice and an explicit choice to opt-in, and you choose to opt in to sharing such information.
-
-#### Our Commitment to Children's Privacy
-
-Protecting the privacy of children is especially important to Trumba Corporation. For that reason and to comply with the [Children's Online Privacy Protection Act](http://www.ftc.gov/ogc/coppa1.htm), Trumba OneCalendar is only available to users who are at least 13 years old. If you are under 13, you may not use the Trumba OneCalendar service. We never collect or maintain information at our web site from those we actually know are under 13 years of age, and no part of our web site is structured to attract anyone under 13 years of age.
-
-#### Changes in this Privacy Statement
-
-If we change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time.
-
-#### Your Acceptance of Our Privacy Policy Terms
-
-By using this web site, you consent to the Trumba Service Privacy Policy. If you do not wish to agree with this policy, please do not use this web site. Trumba reserves the right, at its discretion, to change, modify, add, or remove portions of this policy at any time. Your continued use of this web site following the posting of changes to these terms means that you accept such changes.
-
-#### Contact Us
-
-If you have any questions regarding our privacy policy, please contact us at [privacy@corp.trumba.com](mailto:privacy@corp.trumba.com) or:
+If you have any questions or comments about this Policy or the practices relating to this Site, or you wish to verify, correct or delete any personal information we have collected, please contact us at privacy@corp.trumba.com, and we will endeavor to respond to your inquiry or to correct, update or remove the personal information you have provided us as you indicate to the extent possible. You may also delete certain information by closing your account. However, please note that in certain circumstances, we may not be able to remove or change certain information, even in the event an account is closed. For example, we may be required to retain certain information, such as credit card billing information, for a certain period of time, and it may be necessary to retain certain information in order to complete any services or transactions with us. In lieu of email, you may also contact us by mail at the following address: 
 
 Trumba Corporation  
 Attn: Privacy Policy  
 1420 Fifth Avenue, Suite 4400  
-Seattle, WA 98101
+Seattle, WA 98101   
 
-#### Copyright
 
-Trumba™ and OneCalendar™ are services and trademarks of [Trumba Corporation](http://www.trumba.com/), Seattle, WA. Copyright ® 2004-2005 Trumba Corporation. All rights reserved.
+|  | 
+
+### Contents
