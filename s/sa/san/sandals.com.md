@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the sandals.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229130239id_/http%3A//www.sandals.com/general/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandals.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615004031id_/http%3A//www.sandals.com/general/privacy.cfm) for the most accurate reproduction.*
 
 # Couples All-Inclusive Resorts
 
 [ ](https://web.archive.org/index.cfm "Caribbean Resorts") | 
 
 This privacy statement covers the Sandals.com and Beaches.com websites. Because these web sites want to demonstrate their commitment to our users' privacy, they have agreed to disclose their information practices and their privacy practices. 
+
+[](http://seal.habeas.com/index.php?code=gIsB8caOqrwjIKj7sKWFebHL8Tgge0_X)
 
 |  Information Collection   
 ---  
