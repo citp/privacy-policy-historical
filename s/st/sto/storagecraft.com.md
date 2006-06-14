@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the storagecraft.com privacy policy that was archived on 2005-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051202141940id_/http%3A//www.storagecraft.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storagecraft.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615002412id_/http%3A//storagecraft.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# ShadowStor
+# StorageCraft - Provider of online disk backup software, disaster recovery, data storage, data protection, anti virus, anti spyware and internet privacy solutions
 
-At ShadowStor we take privacy seriously and we respect your right to privacy. We've arranged this official "Privacy Policy Statement" to clearly disclose to you what information we collect and how we use this information. 
+At StorageCraft Technology Corporation we take privacy seriously and we respect your right to privacy. We've arranged this official "Privacy Policy Statement" to clearly disclose to you what information we collect and how we use this information. 
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address. 
 
