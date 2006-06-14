@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the podomatic.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212134451id_/http%3A//www.podomatic.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the podomatic.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615005202id_/http%3A//podomatic.com/about/privacy) for the most accurate reproduction.*
 
-# podOmatic podcast portal: Make it, get it, go
+# podOmatic Podcast Portal: Create, Find, Share Podcasts!
 
 ### **podOmatic Privacy Policy**
 
