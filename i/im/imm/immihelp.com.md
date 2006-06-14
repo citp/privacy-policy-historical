@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the immihelp.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217091459id_/http%3A//immihelp.com/misc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the immihelp.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614084629id_/http%3A//immihelp.com/misc/privacy.html) for the most accurate reproduction.*
 
 # Immihelp Privacy Policy
 
@@ -52,7 +52,7 @@
      [More...](https://web.archive.org/guide/)  
 |  Printer Friendly    [Send to Friend](https://web.archive.org/script/referfriend.jsp) Privacy Policy
 
-  1. Immihelp.com values the privacy of information pertaining to its visitors. We do not use or disclose information about your individual visits to our web site or information that you may give us, such as your name, email address, to any outside sources.
+  1. Immihelp®.com values the privacy of information pertaining to its visitors. We do not use or disclose information about your individual visits to our web site or information that you may give us, such as your name, email address, to any outside sources.
   2. We will not use information about you without your permission and will provide the means for you to manage and control the information that you have provided.
   3. We will enable you to communicate your privacy concerns to us and  we will respond to them appropriately.
   4. We do not disclose any personal information to advertisers and for other marketing and promotional purposes that could be used to personally identify you, such as your password. 
