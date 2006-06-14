@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kumc.edu privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210125354id_/http%3A//www.kumc.edu/Pulse/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kumc.edu privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615000911id_/http%3A//www.kumc.edu/Pulse/privacy.html) for the most accurate reproduction.*
 
-# Privacy statement, University of Kansas Medical Center
+# University of Kansas Medical Center Privacy Statement
 
 **Notice of Privacy Practices for Patients at KU Medical Center**
 
@@ -18,11 +18,4 @@ Certain forms on our site solicit personal information when necessary to provide
 
 Questions regarding this privacy statement or the practices of this site may be submitted to [pulse@kumc.edu](mailto:pulse@kumc.edu).
 
-* * *
-
-[©2005](https://web.archive.org/Pulse/copyright.html)  
-The University of Kansas Medical Center  
-3901 Rainbow Boulevard, Kansas City, KS 66160  
-913-588-5000, 913-588-7963 TDD
-
-[An equal opportunity institution](http://www.kumc.edu/Pulse/eo_statement.html) | [Privacy Statement](http://www.kumc.edu/Pulse/privacy.html) | [About this site](http://www.kumc.edu/Pulse/aboutthissite.html) | [Suggestions](http://www.kumc.edu/suggestions/index.html)
+top of page
