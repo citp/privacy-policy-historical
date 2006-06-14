@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mathworks.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212142452id_/http%3A//www.mathworks.com/company/aboutus/policies_statements) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathworks.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615011234id_/http%3A//www.mathworks.com/company/aboutus/policies_statements) for the most accurate reproduction.*
 
 # The MathWorks - Company - About Us - Policies&Statements
 
