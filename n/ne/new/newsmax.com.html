@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the newsmax.com privacy policy that was archived on 2005-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051228044429id_/http%3A//newsmax.com/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the newsmax.com privacy policy that was archived on 2006-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615015450id_/http%3A//www.newsmax.com/privacy.shtml) for the most accurate reproduction.-->
 
 <html><head>
 <title>NewsMax.com: Privacy Statement</title>
@@ -41,7 +41,7 @@ document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + '/includes/script_2
 
 -->
 
-    </script><script language="JavaScript1.1" src="/includes/script_247_home.js?578711880"></script>
+    </script><script language="JavaScript1.1" src="/includes/script_247_home.js?426884325"></script>
 
 			<!-- ============================= Main Table ============================= -->
 			<table cellpadding="0" cellspacing="0" width="770" height="100%" border="0" align="center">
@@ -111,7 +111,7 @@ document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + '/includes/script_2
 														<td height="22" valign="middle" style="padding-left: 20px;">
 															<span class="style4">
 																<a href="/">Home</a> | 
-																<a href="/moneynews">Money</a> | 
+																<a href="/money">Money</a> | 
 																<a href="/liners.shtml">Jokes</a> | 
 																<a href="/links.shtml">Links</a> |
 																<a href="/mediakit/">Advertise</a> |
@@ -123,7 +123,7 @@ document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + '/includes/script_2
 															</span>
 														</td>
 														<td align="right" class="style4" style="padding-right: 5px;">
-															December 27, 2005
+															June 14, 2006
 														</td>
 													</tr>
 												</tbody></table>
@@ -139,7 +139,7 @@ document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + '/includes/script_2
 <td valign="top"><!-- ============================= Content Table ============================= -->
 <table cellpadding="0" cellspacing="0" width="770" height="100%" bgcolor="#ffffff" style="border-collapse: collapse; border-left: 1px solid #D9E1F6; border-right:1px solid #D9E1F6;">
 							<tbody><tr valign="top">
-								<td>
+								<td style="padding-left: 10px;">
 <p>
 
 <font face="arial,helvetica" color="#003399">
@@ -420,7 +420,7 @@ document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + '/includes/script_2
 											<td height="22" valign="middle" align="center">
 												<span class="style4">
 													<a href="/">Home</a> | 
-													<a href="/moneynews">Money</a> | 
+													<a href="/money">Money</a> | 
 													<a href="/liners.shtml">Jokes</a> | 
 													<a href="/links.shtml">Links</a> |
 													<a href="/mediakit">Advertise</a> |
@@ -448,34 +448,14 @@ document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + '/includes/script_2
 							</tr>
 							<tr valign="top">
 								<td align="center" class="style4">
-									All Rights Reserved © 2005 NewsMax.Com
+									All Rights Reserved © 2006 NewsMax.Com
 								</td>
 							</tr>
 						</tbody></table>
 					</td>
 				</tr>
 			</tbody></table>
-#!/usr/bin/perl
-#
-#	This tag creates a hidden pixel image
-#	that is called from NewsMaxStore.com so
-#	a cookie can be set form that domain to 
-#	track PROMO_CODE
-#	
-#	8/8/2005 - Larry Hussey
-
-# Check for the URL variables existance 
-
-use CGI 'param';
-my $fn = param('PROMO_CODE');
-
-if (defined $fn) {
-
-	print "<img src="\&quot;http://www.newsmaxstore.com/images/promo_tracking/promo_conversion_image.cfm?PROMO_CODE=$fn&amp;SOURCE=newsmax\&quot;" width="\&quot;1\&quot;" height="\&quot;1\&quot;" border="\&quot;0\&quot;">";
-}else{
-	print "&nbsp;";
-}
-exit;
+&nbsp;
 
 
 
