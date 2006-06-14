@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nature.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210181502id_/http%3A//npg.nature.com/npg/servlet/Content%3Fdata%3Dxml/08_privacy.xml%26style%3Dxml/08_privacy.xsl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nature.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615010536id_/http%3A//npg.nature.com/npg/servlet/Content%3Fdata%3Dxml/08_privacy.xml%26style%3Dxml/08_privacy.xsl) for the most accurate reproduction.*
 
 # Nature Publishing Group
 
@@ -83,24 +83,6 @@ If you reached this page directly from the purchasing system, please click 'back
 **Information about secure ordering online**
 
 We are committed to ensuring the security and privacy of information supplied by our customers. The site uses a secure server that encrypts all your credit-card information to ensure that no one else can view the details. The security of the connection will be confirmed by the presence of the padlock icon in the lower right hand corner or lower left hand corner of your browser.
-
-**Permissions**
-
-**Reproduction of figures and tables from primary journals**
-
-For permission to use _Nature_ figures and tables only, please complete our [permissions request form](http://www.nature.com/help/reprints_and_permissions/permit_form.html). All other enquiries should be directed to [permissions@nature.com](mailto:permissions@nature.com)
-
-**Reproduction of figures and tables from CD ROMs, books and secondary journals**
-
-The same conditions apply for primary journals (see above), and you should use the same permissions form. But please note that permission for electronic reproduction is not unlimited: we may in future require you to link through to the figure on [http://www.nature.com](http://www.nature.com/), rather than maintain an electronic version on your own website.
-
-**Photocopying of articles for classroom and coursework use**
-
-Please deal directly with your national copyright licensing agency/copyright clearance centre.
-
-**Other enquiries**
-
-For all other enquiries, including those concerning the reproduction in whatever medium of full papers or illustrative photographs, please e-mail your request to [permissions@nature.com](mailto:permissions@nature.com). Upon request, _Nature_ may at its discretion provide publishers with electronic versions of items in formats suitable for print and electronic use. In such cases a handling fee will be charged. 
 
 **Linking to and from Nature Publishing Group website**
 
