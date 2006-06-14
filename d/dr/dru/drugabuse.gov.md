@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the drugabuse.gov privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230042813id_/http%3A//www.drugabuse.gov/tools/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugabuse.gov privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615003509id_/http%3A//drugabuse.gov/tools/Privacy.html) for the most accurate reproduction.*
 
 # NIDA - Privacy Notice
-
-  
-| 
 
 \- Information Collected and Stored Automatically  
 \- Personally Provided Information  
@@ -15,7 +12,7 @@
 
 * * *
 
-Thank you for visiting the National Institute on Drug Abuse Website and reviewing our Privacy Policy. Our Privacy Policy for visits to _www.nida.nih.gov_ , _www.drugabuse.gov_ , _www.clubdrugs.org_ , _www.sarasquest.org_ , _www.steroidabuse.org_ , _www.marijuana-info.org_ , _hiv.drugabuse.gov_ , _stopdrugaddiction.org_ is clear: 
+Thank you for visiting the National Institute on Drug Abuse Website and reviewing our Privacy Policy. Our Privacy Policy for visits to _www.nida.nih.gov_ , _www.drugabuse.gov_ , _www.clubdrugs.gov_ , _www.sarasquest.gov_ , _www.steroidabuse.gov_ , _www.marijuana-info.org_ , _hiv.drugabuse.gov_ , _teens.drugabuse.gov_ , _international.drugabuse.gov_ is clear: 
 
 > **We collect no information about you, other than information automatically collected and stored (see below), when you visit our web site unless you choose to provide that information to us.**
 
@@ -65,11 +62,7 @@ Information collected online in the form of server logs, form submissions or e-m
 
 A "cookie" is a small file that a Web site transfers to your computer's hard disk allowing our server to "remember" specific information about your session while you are connected. 
 
-The NIDA web site does not make use of cookies, or permit other parties to use our server to host their cookies in order to collect information from our visitors. The Publication Catalog makes use of "session cookies" that keep your place when requesting more information than can be received on one page. These cookies are not stored on your system and are deleted at the end of each session. The NIDA site does not use or allow the use of any other systems (invisible graphics for example) to allow other parties to monitor and track visitors to the NIDA web site.
+The NIDA site is running a customer satisfaction survey that employs persistent cookies. Participation in this data collection effort is completely voluntary, and failure to respond will in no way affect the visitor's ability to access information. This information will be used by NIH solely for the purpose of improving our public Web sites. [More information is available on this use of persistent cookies](http://www.nih.gov/about/asci.htm).
 
   
-|   
-| 
 
-**Mailing List:**  
-To be notified of changes and news releases on the NIDA web site, please subscribe to our mailing list: 
