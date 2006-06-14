@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tolweb.org privacy policy that was archived on 2005-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051228005829id_/http%3A//tolweb.org/tree/home.pages/ToLPrivacyPolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tolweb.org privacy policy that was archived on 2006-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615012354id_/http%3A//tolweb.org/tree/home.pages/ToLPrivacyPolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><!-- InstanceBegin template="/Templates/about.dwt" codeOutsideHTMLIsLocked="true" --><head>
 <!-- InstanceBeginEditable name="doctitle" -->
@@ -63,10 +63,11 @@ table.required td, table.optional td	{
 window.onload = function ()
 {
 
-if (readCookie(COOKIE_MENU_PREFIX + LEFT_SIDE_BAR)) {
-	toggleLeftSidebar();
-}
 closeRightSidebarMenus();
+
+if (window.attachEvent) {
+	window.attachEvent("onload", sfHover);
+}
 
 }
 
@@ -83,31 +84,15 @@ function openWindow(href,w_width,w_height) {
 <a name="top"></a>
 <a name="skip"></a><a href="#maincontent" id="skip" class="hidden" title="Skip navigation">Skip 
   to main content</a>
+   <a href="/tree/phylogeny.html" title="Tree of Life Home Page" id="HomeLink">&nbsp;</a>
+  <a href="/tree/phylogeny.html" id="ToLWebProject"><img src="/tree/img/ToLWebProject.gif" alt="go to the Tree of Life home page" title="Tree of Life Home Page"></a> 
 <a href="#quicklinks" class="hidden" title="Go to quick links">Go to quick links</a>
 <a href="#quicksearch" class="hidden" title="Go to quick search">Go to quick search</a>
 <a href="#sectionnav" class="hidden" title="Go to local navigation">Go to navigation for this section of the ToL site</a>
-<a href="#leftsidebar" class="hidden" title="Go to detailed site links">Go to detailed links for the ToL site</a>
-<a href="/tree/phylogeny.html" title="Tree of Life Home Page" id="HomeLink">&nbsp;</a>
-<a name="sitenav"></a> 
-<div id="sitenav" class="on">
-    <h3 class="hidden">Site Navigation</h3>
-    <ul>
-        <li><a href="/tree/home.pages/browsing.html">Browse</a></li>
-        <li><a href="/tree/home.pages/treehelp.html">Help</a></li>
-        <li><a href="/tree/home.pages/projectfeatures.html">Features</a></li>
-        <li><a href="/tree/learn/learning.html">Learning</a></li>
-        <li><a href="/tree/home.pages/contributions.html">Contribute</a></li>
-        <li><a href="/tree/home.pages/abouttol.html">About</a></li>
-    </ul>
-</div>
+<a href="#sitenav" class="hidden" title="Go to detailed site links">Go to detailed links for the ToL site</a>
 
-<a href="/tree/phylogeny.html" id="ToLWebProject"><img src="/tree/img/ToLWebProject.gif" alt="go to the Tree of Life home page" title="Tree of Life Home Page"></a> 
-<form method="get" action="http://www.google.com/u/TreeofLife" id="quicksearch">
-    <input type="text" name="q" size="10">
-    <input class="gooquick" type="submit" name="sa" value="Search">
-    <div><a href="/tree/home.pages/search.html">advanced</a></div>
-</form>
- 
+
+   
 <div id="maincontent" class="nosb"><a name="maincontent"></a><!-- InstanceBeginEditable name="pagecontent" --> 
     <h1 class="superheader"><a href="/tree/home.pages/tolpolicies.html">ToL Policies</a></h1>
     <h2>Tree of Life Privacy Policy</h2>
@@ -405,7 +390,7 @@ function openWindow(href,w_width,w_height) {
                     evaluation (e.g., assessing the geographic diversity of project 
                     participants) as well as ToL project development (providing 
                     resources specific to contributors in a given locale).</p>
-                </td>
+            </td>
         </tr>
         <tr> 
             <th>Biographical Information</th>
@@ -424,9 +409,6 @@ function openWindow(href,w_width,w_height) {
     </tbody></table>
     <a name="classroom" id="classroom"></a> 
     <h4>ToL Classroom Treehouse Projects</h4>
-    <p><em>Note: Contribution tools for classroom treehouse projects are currently 
-        under development. The following procedures will be implemented as soon 
-        as these tools are made available on the ToL site.</em></p>
     <p>ToL classroom treehouse project registration is open to teachers only. 
         Upon registration, teachers will be asked to provide the following information:</p>
     <table class="required">
@@ -523,8 +505,8 @@ function openWindow(href,w_width,w_height) {
             <td><p>ToL scientific contributors are professional scientists whose 
                     reputation rests, in part, on their affiliation with an institution 
                     such as a university, museum, or government agency. Information 
-                    about this affiliation is published on the <a href="/tree/home.pages/participants.html">ToL 
-                    Scientific Contributors</a> page and in the credit lines for 
+                    about this affiliation is published in the <a href="/onlinecontributors/app?service=page/ScientificContributorsPage">ToL 
+                    Scientific Contributors list</a> and in the credit lines for 
                     certain ToL contributions (i.e., ToL branch pages, leaf pages, 
                     other articles, and notes).</p></td>
         </tr>
@@ -533,8 +515,8 @@ function openWindow(href,w_width,w_height) {
             <td><p>By default, the email addresses of ToL scientific contributors 
                     are printed in the credit lines of certain ToL contributions 
                     (i.e., ToL branch pages, leaf pages, other articles, and notes) 
-                    and on the <a href="/tree/home.pages/participants.html">ToL 
-                    Scientific Contributors</a> page. This makes it possible for 
+                    and in the <a href="/onlinecontributors/app?service=page/ScientificContributorsPage">ToL 
+                    Scientific Contributors</a> list. This makes it possible for 
                     visitors to the ToL site to contact ToL page authors with 
                     questions regarding their contributions. Throughout the ToL 
                     site, email addresses are encoded in order to protect them 
@@ -564,8 +546,8 @@ function openWindow(href,w_width,w_height) {
             <th>Web Page URL</th>
             <td><p>If a contributor has a home page on another web server, they 
                     can provide the URL for this page, and this URL is then published 
-                    on the <a href="/tree/home.pages/participants.html">ToL Scientific 
-                    Contributors</a> page and in credit lines.</p></td>
+                   in the <a href="/onlinecontributors/app?service=page/ScientificContributorsPage">ToL Scientific 
+                    Contributors</a> list and in credit lines.</p></td>
         </tr>
         <tr> 
             <th>Phone and Fax</th>
@@ -577,13 +559,13 @@ function openWindow(href,w_width,w_height) {
             <th>Biographical Information</th>
             <td>ToL scientific contributors can provide biographical information 
                 to introduce themselves to ToL visitors. This text is printed 
-                on the <a href="/tree/home.pages/participants.html">ToL Scientific 
-                Contributors</a> page.</td>
+                in the <a href="/onlinecontributors/app?service=page/ScientificContributorsPage">ToL Scientific 
+                Contributors</a> list.</td>
         </tr>
         <tr> 
             <th>Photo</th>
             <td>Contributors can submit a photo of themselves, which may be displayed 
-                on the <a href="/tree/home.pages/participants.html">ToL Scientific 
+               in the <a href="/onlinecontributors/app?service=page/ScientificContributorsPage">ToL Scientific 
                 Contributors</a> page as well as in the credit lines for certain 
                 ToL contributions (i.e., ToL branch pages, leaf pages, other articles, 
                 and notes).</td>
@@ -786,7 +768,7 @@ function openWindow(href,w_width,w_height) {
                 <li><a href="/tree/home.pages/presentToLpages.html">Present Information</a></li>
           </ul></li>
         <li><a href="/tree/home.pages/future.html">Future of the ToL Project</a></li>
-      </ul>
+    </ul>
     <h4 class="open" id="navpolicies" onclick="changeclass('navpolicies', 'open', 'closed'); changeclass('navpoliciesmenu', 'open', 'closed')">ToL 
       Policies</h4>          
     	
@@ -806,7 +788,11 @@ function openWindow(href,w_width,w_height) {
     <h4 class="open" id="navpeople" onclick="changeclass('navpeople', 'open', 'closed'); changeclass('navpeoplemenu', 'open', 'closed')">People</h4>          
     <ul id="navpeoplemenu" class="open">
         <li><a href="/tree/home.pages/people.html">ToL People</a></li>
-        <li><a href="/tree/home.pages/participants.html">Scientific Contributors</a></li>
+        <li><a href="/onlinecontributors/app?service=page/ScientificContributorsPage">Scientific Contributors</a>
+            <ul>
+                <li><a href="/tree/home.pages/participants.html">Branch Coordinators</a></li>
+            </ul>
+        </li>
         <li><a href="/onlinecontributors/app?service=page/ImageContributorsPage">Image/Media 
             Contributors</a></li>
         <li><a href="/tree/home.pages/othercont.html">Other ToL Contributors</a></li>
@@ -826,84 +812,90 @@ function openWindow(href,w_width,w_height) {
 </div>
  <a href="#skip" title="Go back to the beginning" class="hidden">go 
 to top</a> 
-<div id="leftsidebar" class="off"><a name="leftsidebar"></a> 
-     <h3 class="hidden">Detailed Site Links</h3>
-  	<h4 class="nomenu"><a href="/tree/phylogeny.html">Home</a></h4>
-	<h4 class="closed" id="navbrowse" onclick="changeclass('navbrowse', 'open', 'closed'); changeclass('navbrowsemenu', 'open', 'closed')">Browse</h4>               
-		<ul id="navbrowsemenu" class="closed">
-			<li><a href="/tree/home.pages/browsing.html">Browse the ToL</a></li>
-			<li><a href="/tree?group=life_on_earth">Root of the Tree</a></li>
-			<li><a href="/tree/home.pages/popular.html">Popular Pages</a></li>
-			<li><a href="/tree/home.pages/sample.html">Sample Pages</a></li>
-			<li><a href="/tree?random=true">Random Page</a></li>
-			<li><a href="/tree/home.pages/treehouses.html">Treehouses</a></li>
-			<li><a href="/tree/home.pages/biographieshome.html">Biographies</a></li>
-            	</ul>
- 	<h4 class="closed" id="navhelp" onclick="changeclass('navhelp', 'open', 'closed'); changeclass('navhelpmenu', 'open', 'closed')">Help</h4>               
-		<ul id="navhelpmenu" class="closed">
-			<li><a href="/tree/home.pages/treehelp.html">ToL Help</a></li>
-			<li><a href="/tree/home.pages/finding.html">Finding Things</a></li>
-			<li><a href="/tree/home.pages/navigating.html">Navigating the ToL</a></li>
-			<li><a href="/tree/home.pages/treeinterpret.html">Interpret the Tree</a></li>
-			<li><a href="/tree/home.pages/faq.html">FAQ</a></li>
-			<li><a href="/tree/home.pages/sitemap.html">Sitemap</a></li>
-			<li><a href="/tree/home.pages/feedback.html">Contact Us</a></li>
-            	</ul>
- 	<h4 class="closed" id="navfeat" onclick="changeclass('navfeat', 'open', 'closed'); changeclass('navfeatmenu', 'open', 'closed')">Features</h4>               
-		
-    <ul id="navfeatmenu" class="closed">
-        <li><a href="/tree/home.pages/projectfeatures.html">ToL Features</a></li>
-        <li><a href="/tree/home.pages/mytol.html">Setting Preferences</a></li>
+ <div id="sitenav"><a name="sitenav"></a><h3 class="hidden">Site Navigation</h3>
+     <ul>
+     <li><a href="/tree/phylogeny.html">Home</a></li>
+        <li class="med"><a href="/tree/home.pages/browsing.html">Browse</a>
+	<ul>
+		<li><a href="/Life_on_Earth/1">Root</a></li>
+		<li><a href="/tree/home.pages/popular.html">Popular Pages</a></li>
+		<li><a href="/tree/home.pages/sample.html">Sample Pages</a></li>
+		<li><a href="/tree/home.pages/growth.html">Recent Additions</a></li>
+		<li><a href="/tree?random=true">Random Page</a></li>
+		<li><a href="/tree/home.pages/treehouses.html">Treehouses</a></li>
+		<li><a href="/tree/home.pages/biographieshome.html">Biographies</a></li>
+	</ul>
+	</li>
+
+        <li><a href="/tree/home.pages/treehelp.html">Help</a>
+	<ul>
+		<li><a href="/tree/home.pages/finding.html">Finding Things</a></li>
+		<li><a href="/tree/home.pages/navigating.html">Navigating</a></li>
+		<li><a href="/tree/home.pages/treeinterpret.html">Tree Diagrams </a></li>
+		<li><a href="/tree/home.pages/faq.html">FAQ</a></li>
+		<li><a href="/tree/home.pages/sitemap.html">Sitemap</a></li>
+		<li><a href="/tree/home.pages/feedback.html">Contact Us</a></li>
+	</ul>
+	</li>
+        <li class="long"><a href="/tree/home.pages/projectfeatures.html">Features</a>
+	<ul>
+        <li><a href="/tree/home.pages/mytol.html">Preferences</a></li>
         <li><a href="/tree/home.pages/forums.html">Forums</a></li>
-        <li><a href="/tree/home.pages/glossary.html">ToL Glossary</a></li>
+        <li><a href="/tree/home.pages/glossary.html">Glossary</a></li>
         <li><a href="/tree/home.pages/randPic">Picture Sampler</a></li>
-        <li><a href="/tree/home.pages/downloadtree.html">Download the Tree</a></li>
+        <li><a href="/tree/home.pages/downloadtree.html">Tree Download</a></li>
         <li><a href="/tree/home.pages/links.html">Links</a></li>
-    </ul>
-      	 <h4 class="closed" id="navlearn" onclick="changeclass('navlearn', 'open', 'closed'); changeclass('navlearnmenu', 'open', 'closed')">Learning</h4>                       
-     
-    <ul id="navlearnmenu" class="closed">
-        <li><a href="/tree/learn/learning.html">ToL Learning</a></li>
+	</ul>
+	</li>
+        <li class="long"><a href="/tree/learn/learning.html">Learning</a>
+	<ul>
+	<li><a href="/tree/learn/learning.html">Learning</a></li>
         <li><a href="/tree/home.pages/treehouses.html">Treehouses</a></li>
-        <li><a href="/tree/learn/treebuilder.html">Build Treehouses</a></li>
-        <li><a href="/tree/learn/concepts/concepts.html">Phylogeny</a></li>
-    </ul>
-      	<h4 class="closed" id="navcontr" onclick="changeclass('navcontr', 'open', 'closed'); changeclass('navcontrmenu', 'open', 'closed')">Contribute</h4>               
-		<ul id="navcontrmenu" class="closed">
-			<li><a href="/tree/home.pages/contributions.html">ToL Contributions</a></li>
-			
-        <li><a href="/tree/sep/scicontent.html">Scientific Content</a></li>
-			
+        <li><a href="/tree/learn/treebuilder.html">Building Treehouses</a></li>
+        <li><a href="/tree/learn/concepts/concepts.html">Evolution/Phylogeny</a></li>
+	</ul>
+	</li>
+        <li class="vlong"><a href="/tree/home.pages/contributions.html">Contribute</a>
+	<ul>
+	 <li><a href="/tree/sep/scicontent.html">Scientific Content</a></li>
         <li><a href="/tree/learn/treebuilder.html">Build Treehouses </a></li>
-			
         <li><a href="/tree/home.pages/imagecontributions.html">Images/Media</a></li>
-            	</ul>
-      	<h4 class="closed" id="navabout" onclick="changeclass('navabout', 'open', 'closed'); changeclass('navaboutmenu', 'open', 'closed')">About</h4>               
-		
-    <ul id="navaboutmenu" class="closed">
-        <li><a href="/tree/home.pages/abouttol.html">About ToL</a></li>
-        <li><a href="/tree/home.pages/news.html">ToL News</a></li>
-        <li><a href="/tree/home.pages/goals.html">Goals of the ToL</a></li>
-        <li><a href="/tree/home.pages/structure.html">Structure of the ToL</a></li>
-        <li><a href="/tree/home.pages/aboutoverview.html">ToL Home Picture</a></li>
+	</ul>
+	</li>
+        <li><a href="/tree/home.pages/abouttol.html">About
+	</a>
+	<ul>
+        <li><a href="/tree/home.pages/news.html">News</a></li>
+        <li><a href="/tree/home.pages/goals.html">Goals</a></li>
+        <li><a href="/tree/home.pages/structure.html">Structure</a></li>
+        <li><a href="/tree/home.pages/aboutoverview.html">Home Picture</a></li>
         <li><a href="/tree/home.pages/accessibility.html">Accessibility</a></li>
         <li><a href="/tree/home.pages/citation.html">Citing the ToL</a></li>
-        <li><a href="/tree/home.pages/quality.html">Quality Assurance</a></li>
+        <li><a href="/tree/home.pages/quality.html">Quality Control </a></li>
+
         <li><a href="/tree/home.pages/toldev.html">ToL Development</a></li>
-        <li><a href="/tree/home.pages/tolpolicies.html">ToL Policies</a></li>
+        <li><a href="/tree/home.pages/tolpolicies.html">Policies</a></li>
         <li><a href="/tree/home.pages/people.html">People</a></li>
-        <li><a href="/tree/home.pages/acknowledgments.html">Acknowledgments &amp; 
-            Recognition</a></li>
+        <li><a href="/tree/home.pages/acknowledgments.html">Acknowledgments</a></li>
+	</ul>
+	</li>
     </ul>
-      	<h4 class="closed" id="navsearch" onclick="changeclass('navsearch', 'open', 'closed'); changeclass('navsearchmenu', 'open', 'closed')">Search</h4>               
-		<ul id="navsearchmenu" class="closed">
-			<li><a href="/tree/home.pages/search.html">ToL Search</a></li>
-			<li><a href="/tree/home.pages/groupsearch.html">Group Search</a></li>
-			<li><a href="/tree/home.pages/textsearch.html">Text Search</a></li>
-			
-        <li><a href="/onlinecontributors/app?service=page/ImageSearchPage">Image Search</a></li>
-            	</ul>
 </div>
+
+<form method="get" action="http://www.google.com/u/TreeofLife" id="quicksearch">
+    <input name="q" size="10" type="text">
+    <input class="gooquick" name="sa" value="Search" type="submit">
+</form>  
+	 <ul id="advanced"><li id="advancedsearch"><a href="/tree/home.pages/search.html">advanced</a>
+
+	<ul>
+	<li><a href="/tree/home.pages/groupsearch.html">Group Search</a></li>
+	<li><a href="/tree/home.pages/textsearch.html">Text Search</a></li>		
+        <li><a href="/onlinecontributors/app?service=page/ImageSearchPage">Image Search</a></li>
+	</ul>
+	</li>
+	</ul>
+
 <a href="#skip" title="Go back to the beginning" class="hidden">go to top</a> 
 <div id="footer"> <a name="footer"></a> 
     <div id="quicklinks"> <a name="quicklinks"></a> 
@@ -924,7 +916,6 @@ to top</a>
     Tree of Life Project. All rights reserved.</p>
 </div>
 <a href="#top" id="toplink">top</a>
-<div id="hidesitelinks" class="show" onclick="toggleLeftSidebar()">&nbsp;</div>
 
 <!-- InstanceEnd -->
 </body></html>
