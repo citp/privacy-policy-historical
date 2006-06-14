@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the upublish.info privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216223404id_/http%3A//www.upublish.info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upublish.info privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615011546id_/http%3A//www.upublish.info/privacy.php) for the most accurate reproduction.*
 
-# U Publish - Free Reprint Articles
+# U Publish - Free Reprint Articles | Free Articles | Free Article Publishing
 
 Privacy Policy
 
