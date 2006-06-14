@@ -1,8 +1,16 @@
-> *The following text is extracted and transformed from the simtel.net privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405235538id_/http%3A//www.simtel.net/privacy.php%5BSiteID%5Dsimtel.net) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simtel.net privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615004601id_/http%3A//www.simtel.net/privacy.php%5BSiteID%5Dsimtel.net) for the most accurate reproduction.*
 
 # Free downloads of the best computer software freeware and shareware
 
-[home](https://web.archive.org/) › Free downloads of the best computer software freeware and shareware 
+Hot Spots
+
+Highlights
+
+ADVERTISEMENT
+
+| 
+
+[home](https://web.archive.org/ "Simtel: Free Download of Computer Software, Games, Tools and Utilities - Freeware, Shareware, Demos and Trial Versions") › Free downloads of the best computer software freeware and shareware 
 
 Digital River, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. Simtel.Net holds the privacy of each individual as a high priority. The following discloses our information gathering and dissemination practices for this Web site: http://www.simtel.net 
 
