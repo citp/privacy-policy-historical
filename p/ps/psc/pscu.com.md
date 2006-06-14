@@ -1,8 +1,38 @@
-> *The following text is extracted and transformed from the pscu.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223181839id_/http%3A//pscu.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pscu.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614133101id_/http%3A//pscu.com/about/privacy.html) for the most accurate reproduction.*
 
 # ComputerUser Privacy Statement
 
-| | A D V E R T I S E M E N T S  
+|  |    
+---|---  
+  |   
+  
+* * *
+
+  
+  
+  | 
+
+Search these directories for your best solution:
+
+[Click here for ComputerTraining.](http://www.computertrainingschools.com/?computeruser) [Click here for self-paced Computer Training programs](http://www.careeracademy.com/) [Click for A+ Certification, Cisco Training, MCSE Certification, and MOUS exam info](http://www.trainingplanet.com/)
+
+[Click here for Online Computer and Technology Degrees](http://www.worldwidelearn.com/)
+
+[Computer Training & Certification A+, MCSE, Microsoft Office](http://www.netwind.com/)
+
+[Click here Professional, Trade, & Vocational Colleges & Training Programs](http://www.careerschoolguide.com/)
+
+[Career Training & Technical Degrees](http://www.careertrainingdirectory.com/)
+
+[Click here for Dial-Up Internet Access](http://www.dialup4less.com/)
+
+[Get info on Computer Training, IT Certification and Career Oriented Tech Schools.](http://www.computer-schools.info/)
+
+[MCSE, CCNA, CCNP Boot camp training](http://www.vibrantbootcamp.co.uk/)
+
+[Free Technical Support Community of 200,000 Users!](http://forums.techguy.org/)  
+  
+| A D V E R T I S E M E N T S  
 ---|---  
   |   
   
