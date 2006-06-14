@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wifelovers.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212150013id_/http%3A//www.wifelovers.com/2257.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wifelovers.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615015427id_/http%3A//www.wifelovers.com/2257.html) for the most accurate reproduction.*
 
 # 18 U.S.C. 2257 Compliance Statement
 
