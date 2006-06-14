@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the memorysuppliers.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231161950id_/http%3A//memorysuppliers.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memorysuppliers.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614190320id_/http%3A//www.memorysuppliers.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -55,20 +55,18 @@ Way to a Memory Upgrade.
   
 ---|---  
   
-  
 |   
 |   
 |   
 |   
   
 ---|---|---|---|---  
- 
-
-  * **All orders** placed before 5:00 PM Central Time (3:00 PM Pacific, 6 PM Eastern) are guaranteed to **ship out the same business day** or your shipping is free.
+  
+  * ** All orders** placed before 6:00 PM Central Time (3:00 PM Pacific, 6:00 PM Eastern) are guaranteed to **ship out the same business day** or your shipping is free.
   * Memory Suppliers provides **free lifetime warranty** on all merchandise in addition to the manufacturer's warranty and a **full 30 days money back guarantee** (we will also pay the shipping charge back to Memory Suppliers and there is absolutely no restocking fees).
-  * **All items are in stock and ready to ship**. Local Chicagoland pickup is available between 9:00AM and 6:00PM Monday through Friday.
+  * ** All items are in stock and ready to ship**. Local Chicagoland pickup is available between 8:00 AM and 6:00 PM Monday through Friday.
   * Your absolute satisfaction is our number one priority and our service representatives are always ready to answer your questions. We truly pride our service on our customer first attitude. **No sale is final, until you say it is.**
-  * If have any questions or would like to place your order over the phone, **call us toll free at 866-621-2223** between 9:00 AM to 5:00 PM Central Time Monday through Friday. Alternatively, feel free to email us at [support@memorysuppliers.com](mailto:support@memorysuppliers.com) for a reply within 2 hours or less during regular business hours. 
+  * If have any questions or would like to place your order over the phone, **call us toll free at 866-621-2223** between 8:00 AM to 6:00 PM Central Time Monday through Friday. Alternatively, feel free to email us at [support@memorysuppliers.com](mailto:support@memorysuppliers.com) for a reply within 2 hours or less during regular business hours. 
 
 
 
@@ -81,5 +79,5 @@ Way to a Memory Upgrade.
 
  
 
-1999-2005 All rights reserved.  
+Copyright 2006 and beyond. All rights reserved.  
 All brand names are registered trademarks of their respective owners.
