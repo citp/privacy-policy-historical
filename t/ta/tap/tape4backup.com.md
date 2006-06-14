@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tape4backup.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218203714id_/http%3A//www.tape4backup.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tape4backup.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614085151id_/http%3A//tape4backup.com/policy.html) for the most accurate reproduction.*
 
-# Tapes4backup.com
+# Our Policy- Tape 4 Backup
 
-[](https://web.archive.org/web/20051218203714id_/http%3A//www.tape4backup.com/index.html) |  [](https://web.archive.org/web/20051218203714id_/http%3A//www.tape4backup.com/aboutus.html) |  [](http://order.store.yahoo.com/cgi-bin/wg-order?tapesbackup) |  [](https://web.archive.org/web/20051218203714id_/http%3A//www.tape4backup.com/contact.html) |  |   
+[](https://web.archive.org/web/20060614085151id_/http%3A//tape4backup.com/index.html) |  [](https://web.archive.org/web/20060614085151id_/http%3A//tape4backup.com/aboutus.html) |  [](http://order.store.yahoo.com/cgi-bin/wg-order?tapesbackup) |  [](https://web.archive.org/web/20060614085151id_/http%3A//tape4backup.com/contact.html) |   | [Sitemap](https://web.archive.org/web/20060614085151id_/http%3A//tape4backup.com/sitemap.html) | [Privacy Policy](https://web.archive.org/web/20060614085151id_/http%3A//tape4backup.com/policy.html) | [FAQ](https://web.archive.org/web/20060614085151id_/http%3A//tape4backup.com/faq.html) |   
 |   
 |   
 |  |   |  |  |   
