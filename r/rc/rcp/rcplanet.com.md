@@ -1,18 +1,9 @@
-> *The following text is extracted and transformed from the rcplanet.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224034346id_/http%3A//www.rcplanet.com/Privacy_Statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcplanet.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614175557id_/http%3A//rcplanet.com/Privacy_Statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
-| 
+|  | 
 
-**Search by Part # or Keyword**
-
-[](https://www.scanalert.com/RatingVerify?ref=www.rcplanet.com)  
-  
----  
-  
-  
-  
-  
 **R/C Planet Privacy Statement**
 
 R/C Planet is a firm believer in the protection of its online customers' privacy. We have implemented a number of procedures and policies which are designed to protect your personal information while using our online services. 
@@ -35,14 +26,15 @@ Our site uses an order form for customers to request information, products, and 
 ---  
   
   
-[](http://www.rcplanet.com/discount_r_c_parts_18874_ctg.htm)
-
+  
+   
+   
 [](http://www.rcplanet.com/new_cars_trucks_18913_ctg.htm)
 
 [](http://www.rcplanet.com/new_option_parts_18875_ctg.htm)
 
+[](http://www.rcplanet.com/discount_r_c_parts_18874_ctg.htm)
+
 [](http://www.rcplanet.com/gift_certificates_18129_ctg.htm)
 
-[](https://nocpa.org/seal/verify.php?sub_id=431)   
-  
-** **
+[](http://www.controlscan.com/seal/verify2.php?subid=276&id=7)
