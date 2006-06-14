@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the krem.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211163438id_/http%3A//www.krem.com/registration/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krem.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614120550id_/http%3A//www.krem.com/registration/privacy.html) for the most accurate reproduction.*
 
 # KREM.com | News for Spokane, Washington | Privacy Policy
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/web.archive.org/aboutus/1360476889/Left/default/empty.gif/7a2f4868396c347a594e49414337457a?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/web.archive.org/aboutus/2078245134/Left/default/empty.gif/7a2f48683431347a594e5941437a4936?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/web.archive.org/aboutus/445550678/Left1/default/empty.gif/7a2f4868396c347a594e49414337457a?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/web.archive.org/aboutus/1528441698/Left1/default/empty.gif/7a2f48683431347a594e5941437a4936?x)
 
 | 
 
@@ -133,6 +133,6 @@ This text is invisible on the page, but this text is affected by the invisible i
 
 | 
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/web.archive.org/aboutus/129180213/Position4/default/empty.gif/7a2f4868396c347a594e49414337457a?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/web.archive.org/aboutus/85692915/Position4/default/empty.gif/7a2f48683431347a594e5941437a4936?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/web.archive.org/aboutus/1012610060/Position5/default/empty.gif/7a2f4868396c347a594e49414337457a?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/web.archive.org/aboutus/664262680/Position5/default/empty.gif/7a2f48683431347a594e5941437a4936?x)
