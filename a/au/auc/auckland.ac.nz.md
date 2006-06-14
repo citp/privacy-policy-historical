@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auckland.ac.nz privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214093742id_/http%3A//www.auckland.ac.nz/uoa/legal/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auckland.ac.nz privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615003357id_/http%3A//www.auckland.ac.nz/uoa/legal/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy - Legal Information - The University of Auckland
 
@@ -28,7 +28,7 @@ The University uses this information for statistical purposes and for system adm
 
 ### Confidential and Personal Information
 
-The University takes all reasonable precautions to guard against unauthorised access, to confidential and personal information including the loss, misuse, and alteration of the information held by the University on its servers. When personal information is no longer required for the purposes for which it was collected it may be deleted.
+The University takes all reasonable precautions to guard against unauthorised access to confidential and personal information including the loss, misuse, and alteration of the information held by the University on its servers. When personal information is no longer required for the purposes for which it was collected it may be deleted.
 
 ### Cookies
 
@@ -40,7 +40,7 @@ Personal information you supply to us through the use of online forms, email, on
 
 ## 3\. Disclosure of personal information
 
-Personal information held by the University will only disclosed to third parties with your consent unless the University is obliged to disclose information in certain circumstances set out in the Act or by order of any Court of Tribunal of competent jurisdiction. 
+Personal information held by the University will only be disclosed to third parties with your consent unless the University is obliged to disclose information in certain circumstances set out in the Act or by order of any Court of Tribunal of competent jurisdiction. 
 
 If at any stage you provide us with your email address either as part of a message or by completing a web form, we will only use your email address for the purposes for which it was provided. We will not subscribe your email address to any external mailing list without your consent. 
 
