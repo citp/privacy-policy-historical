@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the globeofblogs.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210064841id_/http%3A//www.globeofblogs.com%3Fx%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globeofblogs.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615000319id_/http%3A//globeofblogs.com%3Fx%3Dprivacy) for the most accurate reproduction.*
 
 # Globe of Blogs ::: Privacy Policy
-
-### Random Weblog
-
-[Art Of Noh, The](http://www.noh.ro/weblog/) ::: A weblog about computer security, antivirus protection and malware protection by Costin Raiu, Kaspersky Labs.  
-
 
 ## Statement of Policy
 
