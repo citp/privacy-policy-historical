@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exabytes.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212044235id_/http%3A//www.exabytes.com/about/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exabytes.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615015345id_/http%3A//exabytes.com/about/legal/privacy) for the most accurate reproduction.*
 
 # Exabytes // Legal Information // Privacy Policy
 
