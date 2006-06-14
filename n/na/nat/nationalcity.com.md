@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalcity.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228095156id_/http%3A//www.nationalcity.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalcity.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614165706id_/http%3A//www.nationalcity.com/about/privacy.asp%3FWT.svl%3D1) for the most accurate reproduction.*
 
 # Privacy Notice - About National City - National City Corporation
 
@@ -48,7 +48,7 @@ Information we disclose
 Fair Credit Reporting Act Disclosure | National City's Pledge  
 Effective date and changes  
 National City companies  
-[Privacy notice FAQs](https://web.archive.org/web/20051228095156id_/http%3A//about/privacyfaq.asp)  
+[Privacy notice FAQs](https://web.archive.org/web/20060614165706id_/http%3A//about/privacyfaq.asp)  
 ---|---  
    
 OPT-OUT: We will not share your nonpublic personal information with others as defined below. National City, on your behalf, has exercised your right to opt-out under 12 CFR Part 40, Privacy of Consumer Financial Information.  
@@ -115,14 +115,14 @@ Back to top
   
    
 National City companies  
-National City Bank, National City Bank of Kentucky, National City Insurance Agency of Kentucky, Inc., NatCity Investments, Inc., National City Bank of Pennsylvania, National City Insurance Agency of Pennsylvania, Inc., National City Bank of Southern Indiana, Sterling Private Investments, Inc., National City Bank of Indiana, National City Home Loan Services, Inc., First Franklin Financial Corporation, National City Bank of the Midwest, Allegiant Insurance Services, Allegiant Investment Counselors, Inc., Allegiant Investment Company, National City Insurance Group, Inc., National City Mortgage Co., National City Mortgage, Inc., Alliance Title Agency, LLC, New England Trust Company, N.A., National City Abstract, LLC, Access Financial Corp., Red Capital Markets, Inc., Capstone Realty Advisers, LLC, Provident Auto Leasing Company, Provident Auto Rental Company, LLC, NatCity Trust Company of Delaware, Allegiant Asset Management Company, NationalLink, LP, NationalLink, LLC, NationalLink of Alabama, LLC
+National City Bank, National City Bank of Kentucky, NatCity Investments, Inc., National City Bank of Pennsylvania, National City Insurance Agency of Pennsylvania, Inc., National City Bank of Southern Indiana, Sterling Private Investments, Inc., National City Bank of Indiana, National City Home Loan Services, Inc., First Franklin Financial Corporation, National City Bank of the Midwest, Allegiant Insurance Services, Allegiant Investment Company, National City Insurance Group, Inc., National City Mortgage Co., National City Mortgage, Inc., Alliance Title Agency, LLC, New England Trust Company, N.A., National City Abstract, LLC, Access Financial Corp., Red Capital Markets, Inc., Capstone Realty Advisers, LLC, Provident Auto Leasing Company, Provident Auto Rental Company, LLC, NatCity Trust Company of Delaware, Allegiant Asset Management Company, NationalLink, LP, NationalLink, LLC, NationalLink of Alabama, LLC, Pioneer Bank and Trust Company
 
 Back to top   
   
    
 * Vermont Residents Only: In Vermont the information we disclose under joint marketing agreements must be limited to your name, contact information, and information about our own transactions and experiences with you. Your consent is required before we can share certain credit information about you with our affiliates. We are permitted to share information which is not a credit report under Vermont law without your consent, such as information related solely to our transactions and experiences with you. California Residents: We will not disclose or share information about California residents without first providing you with a California Privacy Notice and honoring your choice unless such sharing or disclosure is permitted by applicable law.  
    
-(rev 11/2005)  
+(rev 05/2006)  
 |  |   
 ---|---  
 |   
@@ -136,7 +136,7 @@ Back to top
 |   
 |  |  | Email fraud: Phishing scams |  |   
 |  |  | Learn how to avoid becoming a victim of bogus emails. |   
-|  |  | [Learn more ](https://web.archive.org/web/20051228095156id_/http%3A//www.nationalcity.com/personal/onlineservices/onlinebanking/FinancialIdentity/Default.asp) |   
+|  |  | [Learn more ](https://web.archive.org/personal/onlineservices/onlinebanking/FinancialIdentity/Default.asp) |   
 |  |  |  |   
 |   
 |   
@@ -154,7 +154,7 @@ Back to top
 |   
 | 
 
-[Privacy notice FAQs ](https://web.archive.org/web/20051228095156id_/http%3A//about/privacyfaq.asp)  
+[Privacy notice FAQs ](https://web.archive.org/about/privacyfaq.asp)  
 Answers to frequently asked questions about National City's Privacy notice.  
   
   
@@ -165,9 +165,9 @@ Answers to frequently asked questions about National City's Privacy notice.
 |   
 | 
 
-[Identity theft FAQs ](https://web.archive.org/web/20051228095156id_/http%3A//about/identitytheftfaq.asp)
+[Identity theft FAQs ](https://web.archive.org/about/identitytheftfaq.asp)
 
-[Identity Protect ](https://web.archive.org/web/20051228095156id_/http%3A//personal/onlineservices/identityprotect/default.asp)   
+[Identity Protect ](https://web.archive.org/personal/onlineservices/identityprotect/default.asp)   
 Learn more about identity theft prevention and enroll in Identity Protect.  
   
 |   
