@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grab.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213084444id_/http%3A//www.grab.com/site/%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grab.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615015120id_/http%3A//www.grab.com/site/%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Grab.com
 
