@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gates.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308000523id_/http%3A//www.gates.com/privacy.cfm%3Flocation_id%3D225) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gates.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615014657id_/http%3A//gates.com/privacy.cfm%3Flocation_id%3D225) for the most accurate reproduction.*
 
-# Gates Corporation – The World’s Most Trusted Name in Belts, Hoses & Hydraulics
+# The world's most trusted name in belts, hoses & hydraulics | Gates Corporation
 
 Gates Corporation has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site: www.gates.com. 
 
@@ -12,20 +12,14 @@ This site contains links to other sites. Gates Corporation is not responsible fo
 
 
 **Cookies**  
-
-
 As part of our personalization services on occasion Gates Corporation may use cookies to keep track of user information. A cookie is simply a small data file that is sent from your web browser and stored on your computer's hard drive. We may use cookies to deliver personalized content specific to your interests and for other purposes such as measuring Web site traffic patterns. Gates Corporation may also use IP address for system administration and tracking purposes.  
 
 
 **Security**  
-
-
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control.  
 
 
 **Choice/Opt-Out**  
-
-
 Gates Corporation may occasionally send you an email regarding products, services and site updates, as well as special offers if you stated that you were interested in receiving such offers when registering at the Gates Corporation Web site. As well our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor, although occasionally we may be required to send you information via email we deem to be important.  
 
 
@@ -36,9 +30,11 @@ This site gives users the following options for removing their information from 
 
 
 
+**Updates to this Statement**  
+Gates Corporation reserves the right to update this Policy Statement from time to time. All updates will be posted to this page. If you disagree with the updated Privacy Statement, you may use the Opt-Out procedures to remove yourself from our database.  
+Effective Date of Privacy Statement: 9/13/05 
+
 **Correct/Update**  
-
-
 This site gives users the following options for changing and modifying information previously provided.   
 
 
@@ -47,8 +43,6 @@ This site gives users the following options for changing and modifying informati
 
 
 **Contacting the Web site**  
-
-
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 
 Marketing Communications  
