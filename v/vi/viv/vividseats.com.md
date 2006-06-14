@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the vividseats.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213225309id_/http%3A//www.vividseats.com/shop/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vividseats.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615001756id_/http%3A//www.vividseats.com/shop/privacy.shtml) for the most accurate reproduction.*
 
 # VIVID Seats - Privacy Information
+
+| 
 
   
 **
@@ -41,9 +43,9 @@ The amount and type of information we collect from you depends on your activitie
 
 
   
-**When you[subscribe to our e-mail newsletter](https://web.archive.org/account/manageSubscriptions.shtml) through our Web site**
+**When you subscribe to our e-mail newsletter through our Web site**
 
-  * You must create an Account to subscribe to our e-mail newsletter. We use your Account information in connection with your subscription. To manage your e-mail newsletter subscription, [click here](https://web.archive.org/account/manageSubscriptions.shtml).
+  * We collect your email address and zip code to send you event listings, offers and promotions.
 
 
 
@@ -82,5 +84,5 @@ In addition, your personal and account information and transaction history are k
 **How can I give you feedback or contact you?**  
 Simply [click here](mailto:info@vividseats.com). Please note that messages become our property and, unless you direct otherwise, may be used by us for promotional purposes.
 
-  |   
+|   |   
 ---|---
