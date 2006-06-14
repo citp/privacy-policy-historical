@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the embarcadero.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219070334id_/http%3A//embarcadero.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the embarcadero.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615011056id_/http%3A//www.embarcadero.com/privacy.html) for the most accurate reproduction.*
 
 # Embarcadero Technologies, Inc - Provider of database and application development tools that enable companies to build, optimize and manage their business applications and underlying databases.
 
