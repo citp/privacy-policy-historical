@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gettingpersonal.co.uk privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231182906id_/http%3A//www.gettingpersonal.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gettingpersonal.co.uk privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614184145id_/http%3A//www.gettingpersonal.co.uk/privacy.asp) for the most accurate reproduction.*
 
-# Personalised Calendars - unique personalised calendars for personal or business use
+# Privacy policy
 
 Getting personal is committed to preserving the privacy of all visitors to our website at [www.gettingpersonal.co.uk](http://www.gettingpersonal.co.uk/). Please read the following privacy policy to understand how we use and protect the information that you provide to us. 
 
