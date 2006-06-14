@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcspecialist.co.uk privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218002648id_/http%3A//www.pcspecialist.co.uk/index.php%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcspecialist.co.uk privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614200246id_/http%3A//www.pcspecialist.co.uk/index.php%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
 
 # PCSPECIALIST.CO.UK - Custom PCs, Custom Computers, Custom PC, Custom Built Computers, Gaming PC
 
