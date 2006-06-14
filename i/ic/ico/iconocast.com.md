@@ -1,8 +1,21 @@
-> *The following text is extracted and transformed from the iconocast.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220023503id_/http%3A//www.iconocast.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iconocast.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615003507id_/http%3A//iconocast.com/privacy.htm) for the most accurate reproduction.*
 
 # Iconocast privacy policy
 
-## Our commitment to your privacy, security and our Privacy Policy
+  |    
+---|---  
+  |    
+   
+   
+ 
+
+ADVERTISING BY ICONOCAST
+
+[**Optimism, Happiness, Self Esteem, Creativity, Competency, Achieve Intrinsic Motivation; visit www.motivationbook.com**](http://www.motivationbook.com/)
+
+**[Iconocast is about learning and teaching without borders; we offer eMarketing, Internet Advertising, Internet Marketing, Search Engine Optimization, Search Engine Marketing, Online Branding, and eMarketing News Services.](http://www.iconocast.com/index.html)**  
+  
+## **Our commitment to your privacy, security and our Privacy Policy**
 
 _**Your privacy is of outmost importance to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.**_
 
@@ -40,26 +53,26 @@ Protecting the privacy of the very young is especially important.
 
 Should you have other questions or concerns about these privacy policies, please call us at 949 500 8638 or send us an email at **corey(at)katir.com**
 
-[First Law of Branding](https://web.archive.org/web/20051220023503id_/http%3A//www.iconocast.com/First_Law_Branding.html)
+[First Law of Branding](https://web.archive.org/web/20060615003507id_/http%3A//iconocast.com/First_Law_Branding.html)
 
-[Second Law of Branding](https://web.archive.org/web/20051220023503id_/http%3A//www.iconocast.com/Second_Law_Branding.htm)
+[Second Law of Branding](https://web.archive.org/web/20060615003507id_/http%3A//iconocast.com/Second_Law_Branding.htm)
 
-**[Third Law of Branding](https://web.archive.org/web/20051220023503id_/http%3A//www.iconocast.com/Third_Law_Branding.htm)**
+**[Third Law of Branding](https://web.archive.org/web/20060615003507id_/http%3A//iconocast.com/Third_Law_Branding.htm)**
 
-**[Fourth Law of Branding](https://web.archive.org/web/20051220023503id_/http%3A//www.iconocast.com/Fourth_Law_Branding.htm)**
+**[Fourth Law of Branding](https://web.archive.org/web/20060615003507id_/http%3A//iconocast.com/Fourth_Law_Branding.htm)**
 
-**[Fifth Law of Branding](https://web.archive.org/web/20051220023503id_/http%3A//www.iconocast.com/Fifth_Law_Branding.htm)**
+**[Fifth Law of Branding](https://web.archive.org/web/20060615003507id_/http%3A//iconocast.com/Fifth_Law_Branding.htm)**
 
-**[Sixth Law of Branding](https://web.archive.org/web/20051220023503id_/http%3A//www.iconocast.com/Sixth_Law_Branding.htm)**
+**[Sixth Law of Branding](https://web.archive.org/web/20060615003507id_/http%3A//iconocast.com/Sixth_Law_Branding.htm)**
 
-**[Seventh Law of Branding](https://web.archive.org/web/20051220023503id_/http%3A//www.iconocast.com/Seventh_Law_Branding.htm)**
+**[Seventh Law of Branding](https://web.archive.org/web/20060615003507id_/http%3A//iconocast.com/Seventh_Law_Branding.htm)**
 
-**[Eighth Law of Branding](https://web.archive.org/web/20051220023503id_/http%3A//www.iconocast.com/Eighth_Law_Branding.htm)**
+**[Eighth Law of Branding](https://web.archive.org/web/20060615003507id_/http%3A//iconocast.com/Eighth_Law_Branding.htm)**
 
-**[Ninth Law of Branding](https://web.archive.org/web/20051220023503id_/http%3A//www.iconocast.com/Ninth_Law_Branding.htm)**
+**[Ninth Law of Branding](https://web.archive.org/web/20060615003507id_/http%3A//iconocast.com/Ninth_Law_Branding.htm)**
 
-**[Tenth Law of Branding](https://web.archive.org/web/20051220023503id_/http%3A//www.iconocast.com/Tenth_Law_Branding.htm)**
+**[Tenth Law of Branding](https://web.archive.org/web/20060615003507id_/http%3A//iconocast.com/Tenth_Law_Branding.htm)**
 
-****[Eleventh Law of Branding](https://web.archive.org/web/20051220023503id_/http%3A//www.iconocast.com/Eleventh_Law_Branding.htm)****
+****[Eleventh Law of Branding](https://web.archive.org/web/20060615003507id_/http%3A//iconocast.com/Eleventh_Law_Branding.htm)****
 
-**[**Twelfth Law of Branding**](https://web.archive.org/web/20051220023503id_/http%3A//www.iconocast.com/Twelfth_Law_Branding.htm)**
+**[**Twelfth Law of Branding**](https://web.archive.org/web/20060615003507id_/http%3A//iconocast.com/Twelfth_Law_Branding.htm)**
