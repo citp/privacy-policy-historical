@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the verio.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213212400id_/http%3A//verio.com/about/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verio.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615011203id_/http%3A//verio.com/about/legal/privacy) for the most accurate reproduction.*
 
-# About Verio - Privacy Policy
+# Privacy Policy
 
 In the course of serving its customers, Verio acquires, stores and transmits customer communications and information that customers may regard as private or sensitive. Some of this information - such as the customer's name, address, telephone number, and credit card data - is provided to Verio by its customers in order to establish service. Other information - such as the customer's account status, choice of services, and customer logs - is created and maintained by Verio in the normal course of providing service. Verio also uses cookies, which are small pieces of information that a web site can store in a designated file on a user's computer for various reasons. For example, Verio uses cookies on the landing pages of products sold online which record the customer information that is required on the order form. This information is then forwarded to an internal sales tracking database within Verio. In addition, Verio may store customers' electronic mail and other communications as a necessary incident to the transmission and delivery of those communications. 
 
@@ -22,7 +22,7 @@ In the case of a business transaction, including but not limited to, a merger or
 
 **Opt Out & Modifications**
 
-Customers may opt out of receiving notices of new or upgraded products from Verio and Verio partners by filling out this on-line [No Solicitation Request](https://web.archive.org/web/20051213212400id_/http://www.verio.com/about/legal/privacy/optout.cfm) form. However, customers may not opt out of receiving information from Verio which is essential for maintaining or updating customers' accounts or system information.
+Customers may opt out of receiving notices of new or upgraded products from Verio and Verio partners by filling out this on-line [No Solicitation Request](https://web.archive.org/web/20060615011203id_/http://www.verio.com/about/legal/privacy/optout.cfm) form. However, customers may not opt out of receiving information from Verio which is essential for maintaining or updating customers' accounts or system information.
 
 Also, DoubleClick provides an opportunity to opt out of DoubleClick's targeting program at [www.privacychoices.org/optout.htm](http://www.privacychoices.org/optout.htm).
 
@@ -46,6 +46,3 @@ Verio also will not, except for reasons stated below, disclose to third parties 
 Verio disclaims any intention to censor, edit or engage in ongoing review or surveillance of communications stored on or transmitted through its facilities by customers or others. Verio will, however, review, delete or block access to communications that may harm Verio, its customers or third parties. The grounds on which Verio may take such action include, but are not limited to, actual or potential violations of Verio's [Acceptable Use Policy.](https://web.archive.org/about/legal/aup.cfm)
 
 Last revised 3/11/05 
-
-  
- 
