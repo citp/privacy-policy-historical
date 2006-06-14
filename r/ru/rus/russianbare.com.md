@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the russianbare.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231203410id_/http%3A//www.russianbare.com/en/legal/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the russianbare.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615011917id_/http%3A//www.russianbare.com/en/legal/privacy/index.html) for the most accurate reproduction.*
 
 # Enature.net | Legal | Privacy Policy
 
