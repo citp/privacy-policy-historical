@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the danielstrading.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205105359id_/http%3A//www.danielstrading.com/content/priv.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the danielstrading.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615003122id_/http%3A//www.danielstrading.com/content/priv.php) for the most accurate reproduction.*
 
 # Daniels Trading Commodity Futures Trading | Commodity Brokers, Futures Brokers, Options Brokers
 
@@ -6,16 +6,16 @@
 
 ## Your Privacy is Our Priority
 
-Daniels Trading, a division of Refco, LLC ("Refco"), is committed to safeguarding the personal information that you provide us. This Privacy Policy describes how we handle and protect personal information we collect about individuals, such as you, who apply for or receive our products and services. The provisions of this notice apply to former customers as well as our current customers. 
+Daniels Trading, is committed to safeguarding the personal information that you provide us. This Privacy Policy describes how we handle and protect personal information we collect about individuals, such as you, who apply for or receive our products and services. The provisions of this notice apply to former customers as well as our current customers. 
 
 ## Why and How We Collect Personal Information
 
-When you apply for or maintain an account with Refco, we collect personal information about you for business purposes, such as evaluating your financial needs, processing your requests and transactions, informing you about products and services that may be of interest to you, and providing customer service. The personal information we collect about you includes: 
+When you apply for or maintain an account with Daniels Trading, we collect personal information about you for business purposes, such as evaluating your financial needs, processing your requests and transactions, informing you about products and services that may be of interest to you, and providing customer service. The personal information we collect about you includes: 
 
   * information you provide to us on applications and other forms, such as your name, address, date of birth, social security number, occupation, assets, and income; 
   * information about your transactions with us and with our affiliates; 
-  * information we receive from consumer reporting agencies, such as your credit history and creditworthiness, and other entities not affiliated with Refco; and 
-  * information you provide to us to verify your identity, such as a passport, or received from other entities not affiliated with Refco. 
+  * information we receive from consumer reporting agencies, such as your credit history and creditworthiness, and other entities not affiliated with Daniels Trading; and 
+  * information you provide to us to verify your identity, such as a passport, or received from other entities not affiliated with Daniels Trading. 
 
 
 
@@ -25,9 +25,9 @@ We limit access to your personal information to those employees who need to know
 
 ## Sharing Information With Our Affiliates
 
-We may share personal information described above with our affiliates for business purposes, such as servicing customer accounts and informing customers about new products and services, and as permitted by applicable law. Our affiliates are companies controlled or owned by us, or companies controlling or under common control with our parent company (Refco Group Ltd., LLC) and us, and include financial service companies, such as dealers, other brokers, futures commission merchants, and advisers. 
+We may share personal information described above with our affiliates for business purposes, such as servicing customer accounts and informing customers about new products and services, and as permitted by applicable law. Our affiliates are companies controlled or owned by us and include financial service companies, such as dealers, other brokers, futures commission merchants, and advisers. 
 
-The information we share with affiliates for marketing purposes may include the information described above, such as name, address and Refco account information, but will not include other credit information, such as credit history appearing on a consumer credit report or net worth and income information appearing on applications for our products and services. 
+The information we share with affiliates for marketing purposes may include the information described above, such as name, address and Daniels Trading account information, but will not include other credit information, such as credit history appearing on a consumer credit report or net worth and income information appearing on applications for our products and services. 
 
 ## Disclosure to Non-Affiliated Third Parties 
 
@@ -42,4 +42,4 @@ Also, we may disclose personal information with non-affiliated companies and reg
 
 ## Accessing and Revisiting Your Personal Information
 
-We endeavor to keep our customer files complete and accurate. We will give you reasonable access to the information we have about you. Most of this information is contained in account statements that you receive from us and applications that you submit to obtain our products and services. We encourage you to review this information and notify us if you believe any information should be corrected or updated. If you have a question or concern about your personal information or this privacy notice, please contact your Refco representative.  | 
+We endeavor to keep our customer files complete and accurate. We will give you reasonable access to the information we have about you. Most of this information is contained in account statements that you receive from us and applications that you submit to obtain our products and services. We encourage you to review this information and notify us if you believe any information should be corrected or updated. If you have a question or concern about your personal information or this privacy notice, please contact your Daniels Trading representative.  | 
