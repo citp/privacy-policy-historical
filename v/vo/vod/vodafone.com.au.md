@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vodafone.com.au privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216000145id_/http%3A//vodafone.com.au/rep/about/legal/privacy_policy.jsp%3Fgs%3Dforyou%26hd%3Dabout_vodafone%26st%3Dlegal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodafone.com.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615001751id_/http%3A//www.vodafone.com.au/rep/about/legal/privacy_policy.jsp%3Fgs%3Dforyou%26hd%3Dabout_vodafone%26st%3Dlegal) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -64,6 +64,6 @@ If you have any queries or concerns, please contact Customer Care by phoning con
 | Mobile & PDA Set-up  
 | [WEB2TXT](https://web.archive.org/foryou/services/txt_services/web2txt.jsp?gs=foryou&hd=services&st=txt_services&ss=web2txt)  
 | [Mobile Phone Glossary](https://web.archive.org/rep/about/reference.jsp?gs=foryou&hd=about_vodafone&st=mobileGlossary)  
-[](https://web.archive.org/rep/redSim.jsp?gs=foryou&hd=mobiles&st=promo280803)
-
 [](https://web.archive.org/rep/mobile_hotmail.jsp?gs=foryou&hd=services&st=mobile_hotmail)
+
+[](https://web.archive.org/foryou/services/yahoo_messenger_email.jsp?gs=foryou&hd=services&st=yahoo_messenger_email)
