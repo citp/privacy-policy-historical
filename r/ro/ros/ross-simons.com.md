@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ross-simons.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231105132id_/http%3A//www.ross-simons.com/content/_05_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ross-simons.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615000946id_/http%3A//www.ross-simons.com/content/_05_privacy.htm) for the most accurate reproduction.*
 
 # Ross-Simons | Your Privacy
 
@@ -31,7 +31,7 @@ Persons who supply us with their telephone numbers on-line may receive telephone
 To ensure that you receive only the catalogs you enjoy, let us know 1) you want to receive Ross-Simons catalogs but do not want us to share your name with other companies, 2) your address has changed, 3) you receive duplicate catalogs or 4) you no longer with to receive Ross-Simons catalogs. Please include full name, address and ID# as printed on Order Form. 
 
 Online: [Catalog Preferences](mailto:mailpreference@ross-simons.com)  
-Call: 1-800-556-7376  
+Call: 1-800-835-1343  
 Mail: Ross-Simons Mail Preference Service, 9 Ross-Simons Drive, Cranston, RI 02920-4476.
 
 [ ](http://www.the-dma.org/)
