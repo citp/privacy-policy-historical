@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twistedthrottle.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213195256id_/http%3A//www.twistedthrottle.com/article/articlestatic/75/1/5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twistedthrottle.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614101629id_/http%3A//www.twistedthrottle.com/policy/privacy) for the most accurate reproduction.*
 
 # TwistedThrottle.com : Privacy
 
