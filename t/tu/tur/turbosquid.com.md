@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the turbosquid.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214103032id_/http%3A//www.turbosquid.com/Help/Index.cfm%3FFuseAction%3DPrivacyHelp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turbosquid.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615001930id_/http%3A//www.turbosquid.com/Help/Index.cfm%3FFuseAction%3DPrivacyHelp) for the most accurate reproduction.*
 
 # Turbo Squid -- Help
 
