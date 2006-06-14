@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the istockphoto.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231224739id_/http%3A//istockphoto.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the istockphoto.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615003834id_/http%3A//www.istockphoto.com/privacy.php) for the most accurate reproduction.*
 
-# iStockphoto.com : royalty free stock photography community
+# royalty free stock photography community | iStockphoto.com
 
 **PRIVACY POLICY**
-
-* * *
 
 (Last Updated on March 28, 2005) 
 
@@ -22,9 +20,9 @@ We have designated an officer of the company to be accountable for our policies 
 
 President  
 iStock International Inc.  
-1920 - 11 Street SE  
+1202 - 20 Avenue SE  
 Calgary, AB  
-Canada T2G 3G2 
+Canada T2G 1M8 
 
 **3\. COLLECTION OF INFORMATION**
 
