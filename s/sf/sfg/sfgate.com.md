@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sfgate.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231042208id_/http%3A//sfgate.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfgate.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615002219id_/http%3A//sfgate.com/pages/privacy) for the most accurate reproduction.*
 
 # SFGate: Privacy Policy
 
@@ -213,6 +213,9 @@ There are links from The Chronicle online movie listings that allow you to purch
 **Open Table:**  
 The Chronicle online restaurant guide contains links for some restaurants to the Open Table reservation service. Please see their [privacy policy](http://opentable.trakhelp.com/bin/answer.py?answer=36&topic=4). Note that some restaurants require a credit card to make a reservation. You do not need to register with Open Table to make a reservation. 
 
+**Personals:**  
+Friend Finder Inc./Fast Cupid is a personals service. Their privacy policy is located [here](http://personals.sfgate.com/go/page/privacy.html?dcb=personals.sfgate.com).
+
 **Pictopia:**  
 Pictopia is a service that will deliver prints of Chronicle photos to you. Please see [this page](https://web.archive.org/gallery/buyphotos/) for more information. Pictopia legal information is [here.](http://www.pictopia.com/pub/legal.html)
 
@@ -220,12 +223,7 @@ Pictopia is a service that will deliver prints of Chronicle photos to you. Pleas
 Roundpoint provides a service that allows users to download San Francisco Chronicle stories to handheld devices. More more information on this feature, please see [this page](https://web.archive.org/mobile/). For privacy information, please see the [Roundpoint privacy policy](http://www.roundpoint.com/subscriber/privacy.html). 
 
 **Salary.com:**  
-Salary.com provides employment information. You may be asked for personally identifiable information if you choose to use certain Salary.com features. Please see the Salary.com [Privacy Policy](http://sfgatejobs.salary.com/salarywizard/docs/salwizhtmls/privacy_policy.html). 
-
-**Spring Street Networks:**  
-Spring Street Networks is a relationship service. Their privacy policy is located [here](http://www.springstreetnetworks.com/tos/privacy.asp).
-
-**Stubhub:**  
+Salary.com provides employment information. You may be asked for personally identifiable information if you choose to use certain Salary.com features. Please see the Salary.com [Privacy Policy](http://sfgatejobs.salary.com/salarywizard/docs/salwizhtmls/privacy_policy.html). **Stubhub:**  
 Stubhub allows users to purchase tickets for events. [More information on this service](http://sfgate.stubhub.com/). Stubhub's [privacy policy](http://sfgate.stubhub.com/?gSec=help&gAct=general&helpSec=privacy_policy). 
 
 **Ticketmaster:**  
