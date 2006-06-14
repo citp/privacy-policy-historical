@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldseriesofpoker.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230190211id_/http%3A//www.harrahs.com/about_us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldseriesofpoker.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615012344id_/http%3A//www.harrahs.com/about_us/privacy.html) for the most accurate reproduction.*
 
 # Harrah's - About Us - Privacy Policy
 
@@ -6,10 +6,10 @@
 Privacy Policy  
 Harrah's Operating Company, Inc.
 
-**Effective Date:   November 3, 2005**
+**Effective Date:   March 1, 2006**
 
-**2005 Corporate Privacy Policy**  
-**2005 Online Privacy Policy**
+**Corporate Privacy Policy**  
+**Online Privacy Policy**
 
 If you prefer that we not share your personal information with Joint Marketers, please [click here](http://harrahsent.rqst4.info/dspSurvey.cfm?N=16&SID=21&SEQ=1)‚ and follow the instructions provided.
 
@@ -19,8 +19,7 @@ If you prefer that we not share your personal information with Joint Marketers, 
 **INTRODUCTION**
 
 Harrah’s Operating Company, Inc. and all of our subsidiaries, affiliates, casinos and resorts have an unwavering commitment to providing outstanding products and services to visitors to our properties.  This Privacy Policy explains our practices for the following properties: Harrah’s Phoenix Ak-Chin,  
-Harrah’s Rincon, Harrah’s Joliet, Harrah’s Metropolis, Horseshoe Hammond, Harrah’s Bluffs Run, Harrah’s Council Bluffs, Harrah’s Prairie Band, Harrah’s  
-Louisiana Downs; Harrah’s Lake Charles, Harrah’s New Orleans, Horseshoe Casino Bossier City, Horseshoe Casino Tunica, Harrah’s North Kansas City, Harrah’s St. Louis, Bill’s Lake Tahoe, Harrah’s Lake Tahoe, Harrah’s Las Vegas, Harrah’s Laughlin, Harrah’s Reno, Harveys Lake Tahoe, Rio All-Suite Hotel & Casino, Harrah’s Atlantic City, Showboat Atlantic City, Harrah’s Cherokee, Harrah’s Chester, Bally’s Las Vegas, Paris Las Vegas, Caesars Palace, Flamingo Las Vegas, Caesars Indiana, Caesars Atlantic City, Bally’s Atlantic City, Grand Casino Gulfport, Grand Casino Biloxi, Grand Casino Tunica, Sheraton Tunica, Flamingo Laughlin, Reno Hilton, Wild Wild West Atlantic City, Claridge Atlantic City, Poarch Creek Atmore and the corporate offices of Harrah’s Operating Company, Inc. (collectively “The Properties” and/or “We”).
+Harrah’s Rincon, Harrah’s Joliet, Harrah’s Metropolis, Horseshoe Hammond, Harrah’s Bluffs Run, Harrah’s Council Bluffs, Harrah’s Prairie Band, Harrah’s Louisiana Downs; Harrah’s Lake Charles, Harrah’s New Orleans, Horseshoe Casino Bossier City, Horseshoe Casino Tunica, Harrah’s North Kansas City, Harrah’s St. Louis, Bill’s Lake Tahoe, Harrah’s Lake Tahoe, Harrah’s Las Vegas, Harrah’s Laughlin, Harrah’s Reno, Harveys Lake Tahoe, Rio All-Suite Hotel & Casino, Harrah’s Atlantic City, Showboat Atlantic City, Harrah’s Cherokee, Harrah’s Chester, Bally’s Las Vegas, Paris Las Vegas, Caesars Palace, Flamingo Las Vegas, Caesars Indiana, Caesars Atlantic City, Bally’s Atlantic City, Grand Casino Gulfport, Grand Casino Biloxi, Grand Casino Tunica, Sheraton Tunica, Reno Hilton, Wild Wild West Atlantic City, Claridge Atlantic City, Poarch Creek Atmore and the corporate offices of Harrah’s Operating Company, Inc. (collectively “The Properties” and/or “We”).
 
 * * *
 
