@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theydeserveit.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204011905id_/http%3A//theydeserveit.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theydeserveit.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614051528id_/http%3A//www.theydeserveit.com/privacy-policy.html) for the most accurate reproduction.*
 
 # They Deserve It , They Deserve It 2003, 2003,
 
