@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rosenberryrooms.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219001800id_/http%3A//www.rosenberryrooms.com/privacypolicy1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rosenberryrooms.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614110721id_/http%3A//www.rosenberryrooms.com/privacypolicy1.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,4 +22,4 @@ Rosenberry Rooms
 Cary, NC 27513   
 (919) 678-9999
 
-[](http://privacy.yahoo.com/privacy/us/security/details.html)
+[](http://smallbusiness.yahoo.com/merchant/)
