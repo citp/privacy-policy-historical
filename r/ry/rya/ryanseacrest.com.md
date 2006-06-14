@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the ryanseacrest.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216101846id_/http%3A//ryanseacrest.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryanseacrest.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614200732id_/http%3A//www.ryanseacrest.com/privacy.html) for the most accurate reproduction.*
 
 # RYAN SEACREST - OFFICIAL SITE
 
-**RYAN SEACREST PRODUCTIONS, INC. ONLINE PRIVACY POLICY**
+|   | 
+
+**  
+****R** **** **YAN SEACREST PRODUCTIONS, INC. ONLINE PRIVACY POLICY**
 
 Welcome to THE OFFICIAL RYAN SEACREST WEBSITE, operated by RYAN SEACREST PRODUCTIONS, INC. (“RSP”). Your privacy is very important to us. We do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent. We want you to fully understand our privacy practices, therefore please read this Privacy Policy carefully to learn more about the ways in which we use and protect your personal information. 
 
@@ -20,19 +23,17 @@ a. Cookies remember information about your activities on our website and help RS
 
 b. You are always free to decline our cookies if your browser permits, although in that case you may not be able to use certain features on the site.
 
-c. Please be advised that third party advertisements displayed on an RSP site may also contain cookies. RSP does not control the use of cookies by third parties. Therefore, visitors to our site should check the privacy policies of these third parties to see whether and how they use cookies. ****
+c. Please be advised that third party advertisements displayed on an RSP site may also contain cookies. RSP does not control the use of cookies by third parties. Therefore, visitors to our site should check the privacy policies of these third parties to see whether and how they use cookies.
 
 **  
-2\. Notice   
-****  
-**
+2\. Notice **
 
-**** 2.1. Whenever RSP collects PII from you, we will ensure that you are informed about who is collecting the information, how and why the information is being collected, and how RSP intends to use the information.
+2.1. Whenever RSP collects PII from you, we will ensure that you are informed about who is collecting the information, how and why the information is being collected, and how RSP intends to use the information.
 
 **  
 3\. Choice**
 
-RSP uses your PII in a manner consistent with this Privacy Policy and only for the purpose for which you submitted it. At the time your PII is collected, RSP will provide you with the opportunity to choose whether your PII may be used for purposes differenced from the purposes for which it was submitted. You will also be able to choose whether your PII may be shared with outside companies. ****
+RSP uses your PII in a manner consistent with this Privacy Policy and only for the purpose for which you submitted it. At the time your PII is collected, RSP will provide you with the opportunity to choose whether your PII may be used for purposes differenced from the purposes for which it was submitted. You will also be able to choose whether your PII may be shared with outside companies.
 
 **  
 4\. Use of PII**
@@ -42,22 +43,27 @@ RSP uses your PII in a manner consistent with this Privacy Policy and only for t
 4.5. Due to the existing regulatory environment, we cannot guarantee that all of your PII will never be disclosed in ways not described in this Privacy Policy. By way of example, RSP may be forced to disclose personal information to the government or third parties under certain circumstances and third parties may unlawfully intercept or access transmissions or private communications. Therefore, RSP does not promise, and you should not expect, that your PII will always remain private. **  
 **
 
-**** **  
+**  
 5\. Security**
 
-RSP treats your PII as an asset to be protected. RSP uses reasonable administrative, technical, personnel and physical measures to safeguard PII in our possession against theft, loss and unauthorized use, disclosure or modification. In addition, RSP uses reasonable methods to ensure that your PII is accurate, up-to-date and appropriately complete. However, please be advised that “perfect security” does not exist on the internet. ****
+RSP treats your PII as an asset to be protected. RSP uses reasonable administrative, technical, personnel and physical measures to safeguard PII in our possession against theft, loss and unauthorized use, disclosure or modification. In addition, RSP uses reasonable methods to ensure that your PII is accurate, up-to-date and appropriately complete. However, please be advised that “perfect security” does not exist on the internet.
 
-******  
+**  
 6\. Access, Review and Revise Your PII**
 
-_6.1. Access and Review of PII._ Wherever possible, you may review the PII we maintain about you in our databases. To review your PII, please contact RSP at [webmaster@ryanseacrest.com](mailto:webmaster@ryanseacrest.com). Please be advised that RSP will not be able to provide you with access to PII that we plan to delete from our records as soon as permitted by law. Upon receiving notification from you, RSP will take reasonable steps to correct any PII that you inform us is incorrect. _6.2. Deletion of PII._ **** To delete your PII, please contact RSP at [webmaster@ryanseacrest.com](mailto:webmaster@ryanseacrest.com). Upon your request, RSP will delete your PII from our database as soon as reasonably possible in accordance with applicable law. Please be advised that there may be residual information that will remain in RSP’s databases that may or may not contain PII. This residual information will not be given to any third party or used for any commercial purpose.
+_6.1. Access and Review of PII._ Wherever possible, you may review the PII we maintain about you in our databases. To review your PII, please contact RSP at [webmaster@ryanseacrest.com](mailto:webmaster@ryanseacrest.com). Please be advised that RSP will not be able to provide you with access to PII that we plan to delete from our records as soon as permitted by law. Upon receiving notification from you, RSP will take reasonable steps to correct any PII that you inform us is incorrect. _6.2. Deletion of PII._ To delete your PII, please contact RSP at [webmaster@ryanseacrest.com](mailto:webmaster@ryanseacrest.com). Upon your request, RSP will delete your PII from our database as soon as reasonably possible in accordance with applicable law. Please be advised that there may be residual information that will remain in RSP’s databases that may or may not contain PII. This residual information will not be given to any third party or used for any commercial purpose.
 
 **  
 7\. Amendments to this Privacy Policy**
 
-From time to time, RSP may revise this Privacy Policy to reflect changes in the law, technology or industry initiatives. All amended terms shall be automatically effective thirty (30) days after they are initially posted on the site. Therefore, you should review this Privacy Policy periodically to ensure that you are up-to-date on our most current policies and practices. ****
+From time to time, RSP may revise this Privacy Policy to reflect changes in the law, technology or industry initiatives. All amended terms shall be automatically effective thirty (30) days after they are initially posted on the site. Therefore, you should review this Privacy Policy periodically to ensure that you are up-to-date on our most current policies and practices.
 
 **  
 8\. Questions, Concerns or Complaints**
 
 If you have any privacy issues or complaints with respect to RSP’s website and/or this Privacy Policy, please contact RSP at [webmaster@ryanseacrest.com](mailto:webmaster@ryanseacrest.com).
+
+  
+  
+  
+---|---
