@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leasetrader.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231190408id_/http%3A//www.leasetrader.com/car/lease/info/agreement/Privacy_Statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leasetrader.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615013429id_/http%3A//www.leasetrader.com/car/lease/info/agreement/Privacy_Statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - LeaseTrader.com
 
@@ -38,7 +38,7 @@ Our privacy policy does not cover any use of information that a third-party ad s
 
 We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
 
-If you feel that this company is not abiding by its posted privacy policy, please contact our Customer Service Manager [by E-Mail](https://web.archive.org/web/20051231190408id_/http%3A//www.leasetrader.com/auto/sendEmailLT.aspx?f=http://www.leasetrader.com/car/lease/info/agreement/Privacy_Statement.aspx) or by Postal Mail to:
+If you feel that this company is not abiding by its posted privacy policy, please contact our Customer Service Manager [by E-Mail](https://web.archive.org/web/20060615013429id_/http%3A//www.leasetrader.com/auto/sendEmailLT.aspx?f=http://www.leasetrader.com/car/lease/info/agreement/Privacy_Statement.aspx) or by Postal Mail to:
 
 Customer Service Manager   
 LeaseTrader.com   
