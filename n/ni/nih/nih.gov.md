@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nih.gov privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220055208id_/http%3A//www.nih.gov/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nih.gov privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615013826id_/http%3A//www.nih.gov/about/privacy.htm) for the most accurate reproduction.*
 
 # Web Privacy Notice - National Institutes of Health (NIH)
 
