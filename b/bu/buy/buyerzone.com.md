@@ -1,127 +1,96 @@
-> *The following text is extracted and transformed from the buyerzone.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002143913id_/http%3A//buyerzone.com/corporate/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyerzone.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615015947id_/http%3A//www.buyerzone.com/corporate/privacy/index.html) for the most accurate reproduction.*
 
-# BuyerZone.com - Privacy Policy Page
+# BuyerZone.com Privacy Policy
 
-[](https://www.truste.org/ivalidate.php?url=www.buyerzone.com)
+Your privacy is very important to us. This privacy policy describes the information BuyerZone.com gathers, how we share that information and what we do to protect your information.
 
-BuyerZone.com is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for [http://www.buyerzone.com](https://web.archive.org/web/20031002143913id_/http%3A//buyerzone.com/index.html).
+Following is a brief overview of the highlights of our privacy policy. Please click here for the full privacy policy.
 
-TRUSTe is an independent, non profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this Web site has agreed to notify you of:
+  * **What information do we gather?** – BuyerZone.com is sensitive to the privacy concerns of our users and only collects data that is essential to our service. BuyerZone.com does not collect any personally identifiable information when you browse through our site. In order to use our Request for Quotes service as a buyer or supplier, BuyerZone.com requires that you provide information necessary to allow us to match appropriate buyers and suppliers. More Details.
+  * **How do we use your information?** – BuyerZone.com uses the information you provide in order to connect buyers and suppliers using our Request for Quotes service. BuyerZone.com also uses the information we gather to send you email communications about your Request for Quotes and about BuyerZone.com services. More Details.
+  * **How do we share your information with others?** – BuyerZone.com shares the information we collect in order to facilitate business purchasing transactions between buyers and suppliers. Information collected from buyers who submit Requests for Quotes is shared with matched suppliers so they can provide the requested price quotes. Similarly, buyers are provided information regarding each supplier to whom they are matched. More Details.
+  * **How do we keep your information secure?** – BuyerZone.com makes every effort to protect and safeguard the information we collect by adhering to current industry standard data security practices. More Details.
+  * **Account information and preferences** – BuyerZone.com provides a number of ways for you to manage your personal information, including updating your account and contact information, changing your account password, and changing your notification preferences. You may opt out of email communications from BuyerZone at any time after the completion of the Request for Quotes process. More Details.
 
-1\. What personally identifiable information of yours or third party personally identification is collected from you through the Web site  
-2\. The organization collecting the information   
-3\. How the information is used   
-4\. With whom the information may be shared   
-5\. What choices are available to you regarding collection, use, and distribution of the information   
-6\. The kind of security procedures that are in place to protect the loss, misuse, or alteration of information under BuyerZone.com control 7\. How you can correct any inaccuracies in the information 
 
-If you have questions or concerns regarding this statement, you should first contact BuyerZone.com by e-mail ([custcare@buyerzone.com](https://web.archive.org/web/20031002143913id_/http%3A//buyerzone.com/services/feedback_form/feedback.jhtml)) or phone (1-888-393-5000). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe through the "TRUSTe WatchDog Dispute Resolution Process"  
-(<http://www.truste.org/watchdog.html>). TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
 
-**Information Collection and Use**
+If you have questions or concerns regarding BuyerZone.com's privacy policy, please contact BuyerZone.com by email at [customercare@buyerzone.com.](mailto:customercare@buyerzone.com.)
 
-BuyerZone.com is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. BuyerZone.com collects information from our users at several different points on our Web site.
+Use of the site indicates agreement with the Privacy Policy. This Privacy Policy was last updated on February 15, 2006.
 
-**Registration**
+**WHAT INFORMATION DO WE GATHER?**  
+BuyerZone.com gathers information for the purpose of matching buyers with relevant suppliers and to personalize and continually improve your experience with us. We recognize that your information is sensitive and restrict our collection of it to the critical data needed to deliver a superior experience, both to buyers and suppliers. 
 
-To use this Web site, you must first complete the registration form. During registration you are required to give your contact information (such as name, e-mail address, company, company size, and ZIP code). This information is used to contact you about the services on our site for which you expressed interest. It is optional for you to provide demographic information (such as income level and gender), and unique identifiers (such as Social Security number), but encouraged so we can provide a more personalized experience on our site. 
+As a visitor to our site, you can browse our pages without having any personally identifiable information revealed about you. Information we automatically collect via industry standard web log files includes the URL from which you visited, the page you are visiting, your computer browser information and your IP address. We may also track the effectiveness of various promotions through the use of data collection devices known as "cookies." Cookies contain specific pieces of information on your computer hard drive, and can be set to store information during a visit or for a longer period of time. Our cookies are not tied to personally identifiable information.
 
-**Ordering**
+As a buyer using our Request for Quotes service, you need to provide additional information so BuyerZone.com can deliver our Request for Quotes service to you. This includes contact information, basic demographic information, and your purchasing requirements. The information collected varies according to the different purchasing categories and can be viewed by visiting the different forms located throughout our site. We will also ask you for feedback about our service, which is collected and stored to allow us to continually improve our offerings.
 
-We request information from you on our order form. Here you must provide contact information (name and shipping address) and financial information (credit card number and expiration date). This information is used for billing purposes and to fill your orders. If we have trouble processing an order, this contact information is used to get in touch with you.
+Cookies are also used to help streamline your experience on the site, automatically logging you in during future visits, for example. You are free to disable cookies at any time if your browser permits. However, by doing so, you may not be able to utilize certain features of our site. If you are unable to submit a Request for Quotes while having cookies disabled, please contact our Customer Care department at 1-888-393-5000 x2.
 
-**Cookies**
+As a supplier using our Request for Quotes service, you must provide information that allows us to deliver our service to you. This includes your contact information, information about your desired target markets, and billing information. In addition, we may supplement the information you provide with a credit check to ensure your creditworthiness. It should be noted that any credit card information we receive is stored securely via encryption and an SSL connection; our security measures are reviewed later in this document.
 
-A cookie is a piece of data stored on your hard drive containing information about you. Usage of a cookie is in no way linked to any personally identifiable information. For instance, by setting a cookie on our site, you would not have to enter a password more than once, thereby saving time while on our site. If you reject the cookie, you may still use our site without any drawbacks. Cookies also enable us to track and target your interests to enhance your experience on our site.
+As a visitor signing up for our newsletters, sample lead service, or other content, you will need to provide your contact information. Additionally, demographic information may be requested of you in order to provide a more customized experience. The specific information requested varies according to the different types of content requested by you.
 
-Some of our business partners (for example, advertisers) use cookies on our site. However, we have no access to or control over these cookies.
+**HOW DO WE USE YOUR INFORMATION?**  
+BuyerZone.com primarily uses the information we gather to put buyers and sellers into contact with one another and to improve your experience on our site through analysis and communication. 
 
-We use both session cookies (cookies which expire upon your exiting our site) and non-session cookies (cookies which do not expire as you exit our site; in our case they last seven days). The only 3rd-party cookies served on our site may be from our advertisers. These cookies are of both the session and non-session type.
+Request for Quotes. Buyers or suppliers who utilize our Request for Quotes service receive emails from us to facilitate the transaction. You cannot opt out of emails that are necessary to provide our services. By using BuyerZone.com's Request for Quotes service and accepting our Terms and Conditions, you agree that we may use your personal information to contact you and deliver information to you related to your Request for Quotes.
 
-**Log Files**
+Analysis. In our ongoing effort to improve the content and services we offer, we continually analyze the information we receive to identify trends and patterns in user behavior. Your personal information, when used in such a manner, is aggregated with others to amass enough data for such analysis and is not personally identifiable.
 
-In log files we collect your IP address, referring site URL, time, and date.
+Testimonials and Feedback. We sincerely appreciate the feedback we receive from our users. Your feedback, both positive and negative, is forwarded to the appropriate departments at BuyerZone.com as necessary so we can continue to monitor and improve the service we provide. We may also share testimonials in our marketing literature but will do so without including personally identifiable information unless we have expressly asked for your permission to do so.
 
-We use IP addresses, etc. to analyze trends, administer the site, track users' movements, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. 
+Newsletters. BuyerZone.com offers valuable content through email newsletters for both buyers and suppliers. Sign up is "opt-in" only, which means that you must sign up for a newsletter before you will start receiving it. If you no longer wish to receive any newsletter, we encourage you to opt out of these communications by changing your notification preferences as described below.
 
-**Sharing**
+Email Services. BuyerZone.com offers services such as "Tell a Friend" that allow visitors to notify other people via e-mail about its services. We do not use any email addresses used in these communications for any purpose other than to forward the requested information.
 
-We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person.
+Other communications. BuyerZone.com reserves the right to send you email communications related to your Request for Quotes and the status of your account. In addition, BuyerZone.com sends periodic surveys, e-newsletters, and other communications, all of which you can opt out of receiving by changing your notification preferences as described below.
 
-We use outside shipping companies to ship orders and a credit card processing company to bill users for goods and services. These companies do not retain, share, store, or use personally identifiable information for any secondary purposes.
+**HOW DO WE SHARE YOUR INFORMATION WITH OTHERS?**  
+Our customer information is an important part of our business. As a result, we limit the disclosure of this information to the information necessary to provide our service of matching buyers and suppliers. Our sharing of information to outside parties is described below. 
 
-We partner with both online quoting vendors and online shopping vendors to provide specific services. When you sign up for these services, we will share names or other contact information that is necessary for the third party to provide these services. These parties are not allowed to use personally identifiable information, such as e-mail and postal address or phone number, except for the purpose of providing these services.
+Buyers. To facilitate our business of matching buyers and suppliers, buyers using our Request for Quotes service will be provided information about suppliers. This includes supplier contact information, company background information and, where appropriate, ratings or reviews.
 
-**Links**
+Suppliers. Similarly, a small set of suppliers will be provided with buyer information so buyers may be able to have their purchasing needs fulfilled. The buyer's information (including all forms of contact information submitted) can only be used to communicate with the buyer about their desired purchase. In addition, suppliers may receive information about buyers in a manner that does not disclose personally identifiable information. Examples include data that are aggregated across a group of buyers or feedback that is provided without attribution to a specific person or company.
 
-This Web site contains links to other sites. Please be aware that we, BuyerZone.com, are not responsible for the privacy practices of such other sites. We encourage you to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+Agents. From time to time, we may utilize the services of third-party companies to help facilitate our business activities. These include bill collection services, affiliate or incentive program providers, customer service organizations, e-mail and postal mail brokers, and marketing service providers. These companies are subject to confidentiality agreements with us and are prohibited from using the information we provide for any reason except to perform the functions that BuyerZone.com has outlined for them.
 
-**Newsletter**
+Affiliates. BuyerZone.com has established partnerships to provide our Request for Quotes service more broadly throughout the Internet to both buyers and suppliers. When a user has utilized these services through an affiliate, we will share information about these users to the affiliate as necessary. This information is typically reported in an aggregated format.
 
-If you wish to subscribe to our newsletter, we ask for contact information such as name and e-mail address. 
+Advertisers. We aggregate information about our collective users for potential advertisers who are interested in understanding whether their offering would be suitable to our audience. This information does not include personally identifiable information like your company name or email address. Any promotions sent to you from the advertiser are done in a blind manner where the advertiser has no access to your personal contact information.
 
-**Surveys and Contests**
+Business Transfers. It is possible that our business may be merged with or sold to another business entity. During such a transaction, business information is typically one of the assets shared in the combined entity. In the event that this occurs, your personal information will be protected by the BuyerZone.com privacy policy in effect at the time. If your personal information will be used contrary to this policy, you will receive notice as described in the "Notification of Changes" section below.
 
-From time to time, our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary. Information requested may include contact information (such as name and shipping address) and demographic information (such as ZIP code and age). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of our site.
+Legal Requests. As a good corporate citizen, BuyerZone.com is interested in protecting its members and the community at large. We will release account and other personal information to legal authorities when we believe it is appropriate to comply with the law. In addition, BuyerZone may choose to release information about you to relevant parties in relation to investigations of fraud, piracy or other unlawful activity in order to maintain a high level of trust and safety in our community.
 
-**Tell-A-Friend**
+**INFORMATION SECURITY**  
+Your information is stored on servers that are protected against unauthorized access through the use of safeguards such as "firewalls," encryption and Secure Socket Layers. We utilize many security techniques to protect your personal information. However, it is impossible to guarantee a perfect security system. 
 
-If you elect to use our referral service to inform a friend about our site, we ask you for the friend's name and e-mail address. BuyerZone.com will automatically send the friend a one-time e-mail inviting him/her to visit the site. BuyerZone.com stores this information for the sole purpose of sending this one-time e-mail. The friend may contact BuyerZone.com at [custcare@buyerzone.com](https://web.archive.org/web/20031002143913id_/http%3A//buyerzone.com/services/feedback_form/feedback.jhtml) to request the removal of this information from our database.
+**ACCOUNT INFORMATION AND PREFERENCES**  
+BuyerZone.com provides a number of ways for you to manage your personal information.
 
-**Discussion Forums and Live Help**
+Account information. If you need to update your account information, such as your contact email address, you may do so by contacting our Customer Care department at [customercare@buyerzone.com](mailto:customercare@buyerzone.com.). 
 
-BuyerZone.com hosts discussion forums, where you can post your opinions about business products and services and read the opinions of others. The information disclosed in the public view is limited to the participant's username, posted comment, and date of posting. 
+Notification Preferences. You have the ability to "opt out" or unsubscribe from e-mail communications, such as periodic surveys and our monthly enewsletter, that are not directly related to the BuyerZone.com Request for Quotes service and/or the status of your account. To update your communication preferences contact our Customer Care department at [customercare@buyerzone.com](mailto:customercare@buyerzone.com.). If you do contact the Customer Care department, please be sure to specify the type of email communication(s) from which you would like to opt out. Information about how to unsubscribe is also included in every communication we send.
 
-We offer a live help function on our site to assist you with our services and the quoting services of our partners and affiliates. Our live help is a one-on-one private chat. We do not store the transcripts of these chats. 
+Password. BuyerZone.com suppliers may be issued a User ID and password to access their account. As a supplier, you are responsible for all actions taken with your user ID and password, including fees charged to your account. Do not share your password with any third parties, as you may be legally liable for any fees that are incurred. If you believe that your password has been compromised, you should immediately change your password or contact Customer Care at [customercare@buyerzone.com](mailto:customercare@buyerzone.com.) or 888-393-5000 x2.
 
-**Security**
+CHILDREN  
+Children (persons under the age of 18) are not eligible to use BuyerZone.com's services. 
 
-This Web site takes every precaution to protect your information. When you submit sensitive information via the Web site, your information is protected both online and off-line.
+LEGAL DISCLAIMER  
+Although we have attempted to address the various privacy-related issues you are likely to encounter, we cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Privacy Policy. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private from unauthorized access. 
 
-When our order form asks you to enter sensitive information (such as credit card number and/or Social Security number), that information is encrypted and protected with the best encryption technologies in the industry -- SSL and PCP. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to unlocked, or open, when you are just 'surfing.'
+Also, BuyerZone.com contains links to other sites. Please be aware that we are not responsible for the privacy practices of these other sites. We encourage you to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy policy applies to information collected by BuyerZone.com alone.
 
-While we use encryption to protect sensitive information online, we also do everything in our power to protect user information off line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desks. When they return, they must re-enter their password to regain access to your information. Furthermore, ALL employees are kept up to date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage.
+NOTIFICATION OF CHANGE  
+We may amend this Privacy Policy for minor changes at any time by posting the amended terms on the Site. All minor amended terms shall be effective upon posting. If we make material changes to this policy, we will notify you by email or by posting a prominent notice for 30 days prior to the change taking effect. 
 
-If you have any questions about the security at our Web site, please send an e-mail to [custcare@buyerzone.com](https://web.archive.org/web/20031002143913id_/http%3A//buyerzone.com/services/feedback_form/feedback.jhtml).
+CONTACTING US  
+If you have any additional questions or comments about BuyerZone.com's privacy statement, please contact us: 
 
-**Supplementation of Information**
-
-In order for this Web site to properly fulfill its obligation to you, it is necessary for us to supplement the information we receive with information from 3rd-party sources.
-
-**Credit Check:** For example, to determine if your proposed use of a credit card is valid, we may use your name and address to request a credit validation. Once we have determined the card use is valid this document is destroyed. 
-
-**ID and Business Verification:** We may use information from a third party to verify users’ identities or authenticate your business to maintain the integrity of Buyerzone.com. 
-
-**Special Offers**
-
-We send all new members a welcoming e-mail to verify password and username. Established members will occasionally receive information on products, services, special deals, and newsletters. Out of respect for your privacy, we present the option to not receive these types of communications. Please see choice/opt-out below.
-
-**Site and Service Updates**
-
-We also send you site and service announcement updates. Members are not able to unsubscribe from service announcements, which contain important information about the service. We communicate with you to provide requested services and address issues relating to your account via e-mail or phone.
-
-**Correction/Updating Personal Information:**
-
-If your personally identifiable information changes, like your ZIP code, or if you no longer desire our service, we will provide a way to correct, update, or remove your personal data. This can usually be done at Buyer's tools ([http://www.buyerzone.com/services/myzone/index.html](https://web.archive.org/services/myzone/index.html)) or by e-mailing [custcare@buyerzone.com](https://web.archive.org/web/20031002143913id_/http%3A//buyerzone.com/services/feedback_form/feedback.jhtml).
-
-**Choice/Opt-out**
-
-You are given the opportunity to 'opt-out' of having your information used for purposes not directly related to our site at the point where we ask for the information. For example, our order form has an 'opt-out' mechanism so that if you buy a product from us, but don't want any marketing material, you can keep your e-mail address off of our lists. 
-
-If you no longer wish to receive our newsletters or promotional materials from our partners, you may opt-out of receiving these communications by following the unsubscribe links in the e-mail, visiting Buyer's tools ([http://www.buyerzone.com/services/myzone/index.html](https://web.archive.org/services/myzone/index.html)) or e-mailing [custcare@buyerzone.com](https://web.archive.org/web/20031002143913id_/http%3A//buyerzone.com/services/feedback_form/feedback.jhtml).
-
-You are always notified when your information is being collected by any outside parties. We do this so you can make an informed choice as to whether you should proceed with services that require an outside party.
-
-**Insurance Disclaimer**
-
-BuyerZone.com is not an insurance broker. If you request a quote, you are not buying insurance from BuyerZone.com, and this form is not intended to be a substitute for an insurance application. Quotes presented through BuyerZone.com are non-binding, and full disclosure and agreement to the exact terms of your policy is exclusively between you and the vendor. BuyerZone.com neither endorses nor recommends any specific insurance coverage plan or insurance broker. 
-
-**Legal Disclaimer**
-
-Though we make every effort to preserve your privacy, we may need to disclose personal information when required by law in the good-faith belief that such action is necessary in order to conform to a court order or comply with a legal process served on our Web site. We will provide prior notification of such request(s) either by e-mail or written notice.
-
-**Notification of Changes**
-
-If we decide to change our privacy policy, we will post those changes on our homepage so you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you by e-mail. We will use information in accordance with the privacy policy under which the information was collected. You can choose not to have your information used.
-
-We always welcome your questions and comments about our privacy policy. To send us feedback, please contact [custcare@buyerzone.com](https://web.archive.org/web/20031002143913id_/http%3A//buyerzone.com/services/feedback_form/feedback.jhtml).
+BuyerZone.com  
+125 Walnut Street  
+Watertown, MA 02472  
+617.868.5757  
+[customercare@buyerzone.com](mailto:customercare@buyerzone.com)
