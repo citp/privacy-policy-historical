@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webtrends.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214120516id_/http%3A//www.webtrends.com/AboutWebTrends/PrivacyPolicy.aspx%3Fpromo%3DTI_silopriv_FT) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webtrends.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615005801id_/http%3A//www.webtrends.com/AboutWebTrends/PrivacyPolicy.aspx%3Fpromo%3DTI_silopriv_FT) for the most accurate reproduction.*
 
 # WebTrends Privacy Policy
 
@@ -80,6 +80,9 @@ Your Consent
 
 By using our web site, you consent to the collection and use of the information you provide to us as outlined in this Privacy Policy. We may change this Privacy Policy from time to time and without notice. If we change our Privacy Policy, we will publish those changes on this page. 
 
-For more information about this site or your visit, please email us at [webmaster@webtrends.com](mailto:webmaster@webtrends.com).   
-This document was last updated April 30, 2005.  
+Safe Harbor
 
+WebTrends is a participant in the U.S. Department of Commerce’s safe harbor program and adheres to the US safe harbor privacy principles. For more information about the US safe harbor framework, please consult the [Department of Commerce’s web site](http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list). 
+
+For more information about this site or your visit, please email us at [webmaster@webtrends.com](mailto:webmaster@webtrends.com).   
+This document was last updated December 23, 2005.
