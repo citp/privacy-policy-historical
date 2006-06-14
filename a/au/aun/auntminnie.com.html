@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the auntminnie.com privacy policy that was archived on 2005-11-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051116153924id_/http%3A//www.auntminnie.com/index.asp%3FSec%3Dabt%26Sub%3Dfaq%26Pag%3Ddis%26ItemId%3D52788) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the auntminnie.com privacy policy that was archived on 2006-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060614115557id_/http%3A//www.auntminnie.com/index.asp%3FSec%3Dabt%26Sub%3Dfaq%26Pag%3Ddis%26ItemId%3D52788) for the most accurate reproduction.-->
 
 <html><head><script language="JAVASCRIPT">
 <!-- hide code from non javascript browsers
@@ -9,62 +9,9 @@ function openWindow(url) {
 -->
 </script>
 
-<!-- INCLUDE VIRTUAL = "/functions/errorhandle.asp" -->
-
-<!-- Adserver includes -->
-
 <script "javascript"="" src="/functions/amBWRA.js"></script>
 
 
-
-
-<!-- eLibrary includes -->
-
-
-<script language="JavaScript">
- function DoElibImage( strItemID )
-      {
-      var hWin;
-      hWin = window.open( "/reference/eLibrary/ShowImage.asp?itemID=" + strItemID, "amShowImage", "menubar=no, status=no, toolbar=no, scrollbars=yes, resizable=yes, width=800, height=600");
-      hWin.focus();
-      return false;
-      }
-
- function BlurMe()
-   {
-   window.blur();
-   }
-
-//***************************************************************************
-//* CheckWindow
-//*   Checks to see if the window that OPENED the current window is still
-//*   open.  If so, that window is told to navigate to the URL.  If not, we
-//*   open a new window and navigate there.
-//***************************************************************************
- function CheckWindow( strURL, bIsImage )
-   {
-   if (bIsImage == false)
-      {
-      window.navigate( strURL );
-      }
-   else
-      {
-      if (window.opener.closed == false )
-         {
-         window.opener.navigate( strURL );
-         BlurMe();
-         }
-      else
-         {
-         window.open( strURL );
-         BlurMe();
-         }
-      }
-   }
-</script>
-
-
-<!-- External Resources includes -->
 
 
 <script language="JavaScript1.2" type="text/javascript">
@@ -102,185 +49,6 @@ function funOpenWindow(strUrl) {
 	}
 -->
 </script>
-
-<script language="JAVASCRIPT">
-
-<!-- hide JavaScript code from browsers that are not JavaScript enabled
-
-function master_errorcheck(PageDisplayed)
-{
-
-	// the functions being called are generated dynamically in login_tab.asp
-
-	if (PageDisplayed == "def")
-	{
-		return reg_def_errorcheck();
-	}
-	if (PageDisplayed == "eml")
-	{
-		return reg_eml_errorcheck();
-	}
-	if (PageDisplayed == "nam")
-	{
-		return reg_nam_errorcheck();
-	}
-	if (PageDisplayed == "per")
-	{
-		return reg_per_errorcheck();
-	}
-	if (PageDisplayed == "set")
-	{
-		return true;
-	}
-}
-
-function userIDCheck()
-{
-	var str = ""; //This is used to form a error message that will be displayed in the end of this function
-	
-	//Ensure that name_last is entered and valid
-	if (document.member_info.userID.value == "")
-	{
-		str = str + "Please Enter a Username\n";
-		document.member_info.userID.focus();
-	}
-	else
-	{
-		var value =  document.member_info.userID.value;
-		indexOfSpace = value.indexOf(" ");
-		if(indexOfSpace >= 0)
-		{
-			str = str + "Please enter only letters and numbers, no spaces\n";
-			document.member_info.userID.value = "";
-			document.member_info.userID.focus();
-		}
-		else
-		{
-			for (var i = 0; i < document.member_info.userID.value.length; i++)
-			{
-				var testChar = document.member_info.userID.value.charAt(i);
-				if((testChar >= 'a' && testChar <= 'z') || (testChar >= 'A' && testChar <= 'Z') || (testChar >= 0 && testChar <= 9) || testChar == '@' || testChar == '.')
-					continue;
-				else
-				{
-					str = str + "Please enter only letters, numbers, or valid e-mail addresses\n";
-					document.member_info.userID.value = "";
-					document.member_info.userID.focus();
-					break;
-				}
-			}
-		}
-	}
-	if (str != "")
-	{
-		alert(str);
-		document.member_info.userID.focus();
-		return false;
-	}
-	else
-	{
-		return true;
-	}
-}
-
-function emailcheck() 
-{
-	var message = "";
-	var str = "Please enter the correct value for \n";
-		str = str + "an E-mail address. It should be like you@yourisp.com";
-	if ( document.member_info.email.value.length <= 0) 
-	{
-		message = message + str;
-	}	
-	else    
-	{
-		var valid =  document.member_info.email.value;
-		indexofAT = valid.indexOf('@');	
-		indexofDOT = valid.indexOf(".");
-		indexofSpace = valid.indexOf(" ");
-		if (indexofAT <1 || indexofDOT == -1 || ((indexofDOT > indexofAT) && (indexofSpace == indexofDOT +1 ||  indexofSpace == indexofDOT - 1)) || indexofDOT + 1 == valid.length || indexofAT + 1 == valid.length || indexofSpace == indexofAT +1 ||  indexofSpace == indexofAT - 1 ) 
-		{
-			message = message + str;
-		}
-	}
-	if (message != "")
-	{
-		alert(message);
-		document.member_info.email.focus();
-		return false;
-	}
-	else
-	{
-		return true;
-	}
-}
-
-function pwdcheck()
-{
-	var message = "";//create error message string variable with nothing in it
-	if (document.member_info.password2.value.length == 0)
-	{
-		message = "Please enter your Password Again\n";
-	}
-	if (document.member_info.password1.value.length == 0)
-	{
-		message = "Please enter your Password\n";
-	}
-	if  (document.member_info.password2.value != document.member_info.password1.value)
-	{
-		message = message + "The passwords do not match\n";
-	}
-	if (message != "")
-	{
-		alert(message);
-		document.member_info.password1.value = "";
-		document.member_info.password2.value = "";
-		document.member_info.password1.focus();
-		return false;
-	}
-	else
-	{
-		return true;//no error message to display, return ok to process
-	}
-
-}
-
-
-function StateProvince()
-{
-	if ((document.member_info.orgCountry.value == "United States") && (document.member_info.hidden_country.value != "United States"))
-	{
-		document.member_info.orgProvince.value = "";
-		document.member_info.orgProvince.disabled = true;
-		document.member_info.orgState.disabled = false;
-	}
-
-	if ((document.member_info.orgCountry.value != "United States") && ((document.member_info.hidden_country.value == "United States") || (document.member_info.hidden_country.value == "null")))
-	{
-		document.member_info.orgProvince.disabled = false;
-		document.member_info.orgState.value = "";
-		document.member_info.orgState.disabled = true;
-	}
-
-	document.member_info.hidden_country.value = document.member_info.orgCountry.value;
-}
-
-
-function LoginFormSubmit(ThisPag, NextPag)
-{
-	if (master_errorcheck(ThisPag) == true)
-	{
-		document.member_info.NextPag.value = NextPag;
-		document.member_info.action = "/login/loginForm.asp";
-		document.member_info.submit();
-	}
-	return;
-}
-
-//end hiding of JavaScript code -->
-</script>
-<!-- BEGIN registration form pick userID-->
-
 
 
 
@@ -385,7 +153,7 @@ function fwLoadMenus()
 
    window.fw_menu_mkt = new Menu("root",150,17,strDropTypeFont,intDropFontSize,strDropFontColor,strDropFontHlightColor,strDropFontBackColor,strDropBGHlightColor);
    fw_menu_mkt.addMenuItem("Marketplace Home","location='http://www.auntminnie.com/index.asp?Sec=mkt'");
-   fw_menu_mkt.addMenuItem("OpenMarket","location='http://www.auntminnie.com/index.asp?sec=mkt&sub=omkt'");
+   fw_menu_mkt.addMenuItem("Bookstore","location='http://www.auntminnie.com/index.asp?sec=mkt&sub=omkt'");
    fw_menu_mkt.addMenuItem("-Buy Radiology Books","location='http://www.auntminnie.com/index.asp?sec=mkt&sub=omkt&pag=def&category=105'");
    fw_menu_mkt.addMenuItem("-Buy Market Reports","location='http://www.auntminnie.com/index.asp?sec=mkt&sub=omkt&pag=def&category=32'");
    fw_menu_mkt.addMenuItem("Equipment Classifieds","location='http://www.auntminnie.com/index.asp?sec=mkt&sub=eqs'");
@@ -412,28 +180,30 @@ function fwLoadMenus()
    fw_menu_sup.addMenuItem("Business and Industry","location='http://www.auntminnie.com/index.asp?sec=sup&sub=bai'");
    fw_menu_sup.addMenuItem("Cardiac Imaging","location='http://www.auntminnie.com/index.asp?sec=sup&sub=car'");
    fw_menu_sup.addMenuItem("CT","location='http://www.auntminnie.com/index.asp?sec=sup&sub=cto'");
+   fw_menu_sup.addMenuItem("Healthcare IT","location='http://www.auntminnie.com/index.asp?sec=sup&sub=ris'");
    fw_menu_sup.addMenuItem("Imaging Center","location='http://www.auntminnie.com/index.asp?sec=sup&sub=imc'");
    fw_menu_sup.addMenuItem("Molecular Imaging","location='http://www.auntminnie.com/index.asp?sec=sup&sub=mol'");
    fw_menu_sup.addMenuItem("MRI","location='http://www.auntminnie.com/index.asp?sec=sup&sub=mri'");
    fw_menu_sup.addMenuItem("Orthopedic Imaging","location='http://www.auntminnie.com/index.asp?sec=sup&sub=ort'");
    fw_menu_sup.addMenuItem("PACS","location='http://www.auntminnie.com/index.asp?sec=sup&sub=pac'");
+   fw_menu_sup.addMenuItem("Radiation Oncology","location='http://www.auntminnie.com/index.asp?sec=sup&sub=roc'");
    fw_menu_sup.addMenuItem("Residents","location='http://www.auntminnie.com/index.asp?sec=sup&sub=res'");
-   fw_menu_sup.addMenuItem("RIS","location='http://www.auntminnie.com/index.asp?sec=sup&sub=ris'");
    fw_menu_sup.addMenuItem("Ultrasound","location='http://www.auntminnie.com/index.asp?sec=sup&sub=ult'");
    fw_menu_sup.addMenuItem("Virtual Colonoscopy","location='http://www.auntminnie.com/index.asp?sec=sup&sub=vco'");
    fw_menu_sup.addMenuItem("Women's Imaging","location='http://www.auntminnie.com/index.asp?sec=sup&sub=wom'");
    fw_menu_sup.addMenuItem("X-Ray","location='http://www.auntminnie.com/index.asp?sec=sup&sub=xra'");
 
    window.fw_menu_dsc = new Menu("root",150,17,strDropTypeFont,intDropFontSize,strDropFontColor,strDropFontHlightColor,strDropFontBackColor,strDropBGHlightColor);
-   fw_menu_dsc.addMenuItem("Discussions Home","location='http://www.auntminnie.com/index.asp?Sec=dsc&Sub=def'");
-   fw_menu_dsc.addMenuItem("General Radiology","location='http://www.auntminnie.com/index.asp?sec=dsc&sub=gen'");
-   fw_menu_dsc.addMenuItem("Residents","location='http://www.auntminnie.com/index.asp?sec=dsc&sub=res'");
-   fw_menu_dsc.addMenuItem("PACS","location='http://www.auntminnie.com/index.asp?sec=dsc&sub=pac'");
-   fw_menu_dsc.addMenuItem("Technologists","location='http://www.auntminnie.com/index.asp?sec=dsc&sub=tch'");
-   fw_menu_dsc.addMenuItem("Medical Students","location='http://www.auntminnie.com/index.asp?sec=dsc&sub=med'");
-   fw_menu_dsc.addMenuItem("Ask the Vendors","location='http://www.auntminnie.com/index.asp?sec=dsc&sub=ask'");
-   fw_menu_dsc.addMenuItem("Question of the Week","location='http://www.auntminnie.com/index.asp?sec=dsc&sub=qtw'");
+   fw_menu_dsc.addMenuItem("Forum Home","location='http://www.auntminnie.com/forum/default.aspx'");
+   fw_menu_dsc.addMenuItem("General Radiology","location='http://www.auntminnie.com/forum/tt.aspx?forumid=2'");
+   fw_menu_dsc.addMenuItem("Residents","location='http://www.auntminnie.com/forum/tt.aspx?forumid=3'");
+   fw_menu_dsc.addMenuItem("PACS","location='http://www.auntminnie.com/forum/tt.aspx?forumid=6'");
+   fw_menu_dsc.addMenuItem("Technologists","location='http://www.auntminnie.com/forum/tt.aspx?forumid=7'");
+   fw_menu_dsc.addMenuItem("Medical Students","location='http://www.auntminnie.com/forum/tt.aspx?forumid=9'");
+   fw_menu_dsc.addMenuItem("Ask the Vendors","location='http://www.auntminnie.com/forum/tt.aspx?forumid=8'");
+   fw_menu_dsc.addMenuItem("Question of the Week","location='http://www.auntminnie.com/forum/tt.aspx?forumid=10'");
    fw_menu_dsc.addMenuItem("Terms of Service","location='http://www.auntminnie.com/default.asp?Sec=nws&Sub=rad&Pag=dis&ItemId=50589'");
+   fw_menu_dsc.addMenuItem("Forum Options","location='http://www.auntminnie.com/forum/editprofile.aspx'");
 
    fw_menu_dsc.writeMenus();
    }
@@ -496,8 +266,8 @@ function fwLoadMenus()
   <div id="menuLite4" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 109px; width: 152px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
 	 <div id="menuFg4" style="position: absolute; left: 1px; top: 1px; height: 108px; width: 151px; background-color: rgb(85, 85, 85);">
 <div id="menuItem25" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 17px; background-color: rgb(102, 51, 153); visibility: inherit; cursor: pointer;"><div id="menuItemText25" style="position:absolute;left:10;top:1;color:#FFFFFF;">Marketplace Home&nbsp;</div>
-<div id="menuItemHilite25" style="position:absolute;left:10;top:1;top:1;color:#FFFFFF;visibility:hidden;">Marketplace Home&nbsp;</div></div><div id="menuItem26" style="position: absolute; left: 0px; top: 18px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 17px; background-color: rgb(102, 51, 153); visibility: inherit; cursor: pointer;"><div id="menuItemText26" style="position:absolute;left:10;top:1;color:#FFFFFF;">OpenMarket&nbsp;</div>
-<div id="menuItemHilite26" style="position:absolute;left:10;top:1;top:1;color:#FFFFFF;visibility:hidden;">OpenMarket&nbsp;</div></div><div id="menuItem27" style="position: absolute; left: 0px; top: 36px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 17px; background-color: rgb(102, 51, 153); visibility: inherit; cursor: pointer;"><div id="menuItemText27" style="position:absolute;left:10;top:1;color:#FFFFFF;">-Buy Radiology Books&nbsp;</div>
+<div id="menuItemHilite25" style="position:absolute;left:10;top:1;top:1;color:#FFFFFF;visibility:hidden;">Marketplace Home&nbsp;</div></div><div id="menuItem26" style="position: absolute; left: 0px; top: 18px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 17px; background-color: rgb(102, 51, 153); visibility: inherit; cursor: pointer;"><div id="menuItemText26" style="position:absolute;left:10;top:1;color:#FFFFFF;">Bookstore&nbsp;</div>
+<div id="menuItemHilite26" style="position:absolute;left:10;top:1;top:1;color:#FFFFFF;visibility:hidden;">Bookstore&nbsp;</div></div><div id="menuItem27" style="position: absolute; left: 0px; top: 36px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 17px; background-color: rgb(102, 51, 153); visibility: inherit; cursor: pointer;"><div id="menuItemText27" style="position:absolute;left:10;top:1;color:#FFFFFF;">-Buy Radiology Books&nbsp;</div>
 <div id="menuItemHilite27" style="position:absolute;left:10;top:1;top:1;color:#FFFFFF;visibility:hidden;">-Buy Radiology Books&nbsp;</div></div><div id="menuItem28" style="position: absolute; left: 0px; top: 54px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 17px; background-color: rgb(102, 51, 153); visibility: inherit; cursor: pointer;"><div id="menuItemText28" style="position:absolute;left:10;top:1;color:#FFFFFF;">-Buy Market Reports&nbsp;</div>
 <div id="menuItemHilite28" style="position:absolute;left:10;top:1;top:1;color:#FFFFFF;visibility:hidden;">-Buy Market Reports&nbsp;</div></div><div id="menuItem29" style="position: absolute; left: 0px; top: 72px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 17px; background-color: rgb(102, 51, 153); visibility: inherit; cursor: pointer;"><div id="menuItemText29" style="position:absolute;left:10;top:1;color:#FFFFFF;">Equipment Classifieds&nbsp;</div>
 <div id="menuItemHilite29" style="position:absolute;left:10;top:1;top:1;color:#FFFFFF;visibility:hidden;">Equipment Classifieds&nbsp;</div></div><div id="menuItem30" style="position: absolute; left: 0px; top: 90px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 17px; background-color: rgb(102, 51, 153); visibility: inherit; cursor: pointer;"><div id="menuItemText30" style="position:absolute;left:10;top:1;color:#FFFFFF;">Job Boards&nbsp;</div>
@@ -536,41 +306,43 @@ function fwLoadMenus()
    </div>
   </div>
 </div>
-<div id="menuLayer8" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; background-color: rgb(119, 119, 119); width: 154px; height: 273px;">
-  <div id="menuLite8" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 271px; width: 152px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg8" style="position: absolute; left: 1px; top: 1px; height: 270px; width: 151px; background-color: rgb(85, 85, 85);">
+<div id="menuLayer8" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; background-color: rgb(119, 119, 119); width: 154px; height: 291px;">
+  <div id="menuLite8" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 289px; width: 152px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg8" style="position: absolute; left: 1px; top: 1px; height: 288px; width: 151px; background-color: rgb(85, 85, 85);">
 <div id="menuItem41" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 17px; background-color: rgb(102, 51, 153); visibility: inherit; cursor: pointer;"><div id="menuItemText41" style="position:absolute;left:10;top:1;color:#FFFFFF;">Advanced Visualization&nbsp;</div>
 <div id="menuItemHilite41" style="position:absolute;left:10;top:1;top:1;color:#FFFFFF;visibility:hidden;">Advanced Visualization&nbsp;</div></div><div id="menuItem42" style="position: absolute; left: 0px; top: 18px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 17px; background-color: rgb(102, 51, 153); visibility: inherit; cursor: pointer;"><div id="menuItemText42" style="position:absolute;left:10;top:1;color:#FFFFFF;">Business and Industry&nbsp;</div>
 <div id="menuItemHilite42" style="position:absolute;left:10;top:1;top:1;color:#FFFFFF;visibility:hidden;">Business and Industry&nbsp;</div></div><div id="menuItem43" style="position: absolute; left: 0px; top: 36px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 17px; background-color: rgb(102, 51, 153); visibility: inherit; cursor: pointer;"><div id="menuItemText43" style="position:absolute;left:10;top:1;color:#FFFFFF;">Cardiac Imaging&nbsp;</div>
 <div id="menuItemHilite43" style="position:absolute;left:10;top:1;top:1;color:#FFFFFF;visibility:hidden;">Cardiac Imaging&nbsp;</div></div><div id="menuItem44" style="position: absolute; left: 0px; top: 54px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 17px; background-color: rgb(102, 51, 153); visibility: inherit; cursor: pointer;"><div id="menuItemText44" style="position:absolute;left:10;top:1;color:#FFFFFF;">CT&nbsp;</div>
-<div id="menuItemHilite44" style="position:absolute;left:10;top:1;top:1;color:#FFFFFF;visibility:hidden;">CT&nbsp;</div></div><div id="menuItem45" style="position: absolute; left: 0px; top: 72px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 17px; background-color: rgb(102, 51, 153); visibility: inherit; cursor: pointer;"><div id="menuItemText45" style="position:absolute;left:10;top:1;color:#FFFFFF;">Imaging Center&nbsp;</div>
-<div id="menuItemHilite45" style="position:absolute;left:10;top:1;top:1;color:#FFFFFF;visibility:hidden;">Imaging Center&nbsp;</div></div><div id="menuItem46" style="position: absolute; left: 0px; top: 90px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 17px; background-color: rgb(102, 51, 153); visibility: inherit; cursor: pointer;"><div id="menuItemText46" style="position:absolute;left:10;top:1;color:#FFFFFF;">Molecular Imaging&nbsp;</div>
-<div id="menuItemHilite46" style="position:absolute;left:10;top:1;top:1;color:#FFFFFF;visibility:hidden;">Molecular Imaging&nbsp;</div></div><div id="menuItem47" style="position: absolute; left: 0px; top: 108px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 17px; background-color: rgb(102, 51, 153); visibility: inherit; cursor: pointer;"><div id="menuItemText47" style="position:absolute;left:10;top:1;color:#FFFFFF;">MRI&nbsp;</div>
-<div id="menuItemHilite47" style="position:absolute;left:10;top:1;top:1;color:#FFFFFF;visibility:hidden;">MRI&nbsp;</div></div><div id="menuItem48" style="position: absolute; left: 0px; top: 126px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 17px; background-color: rgb(102, 51, 153); visibility: inherit; cursor: pointer;"><div id="menuItemText48" style="position:absolute;left:10;top:1;color:#FFFFFF;">Orthopedic Imaging&nbsp;</div>
-<div id="menuItemHilite48" style="position:absolute;left:10;top:1;top:1;color:#FFFFFF;visibility:hidden;">Orthopedic Imaging&nbsp;</div></div><div id="menuItem49" style="position: absolute; left: 0px; top: 144px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 17px; background-color: rgb(102, 51, 153); visibility: inherit; cursor: pointer;"><div id="menuItemText49" style="position:absolute;left:10;top:1;color:#FFFFFF;">PACS&nbsp;</div>
-<div id="menuItemHilite49" style="position:absolute;left:10;top:1;top:1;color:#FFFFFF;visibility:hidden;">PACS&nbsp;</div></div><div id="menuItem50" style="position: absolute; left: 0px; top: 162px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 17px; background-color: rgb(102, 51, 153); visibility: inherit; cursor: pointer;"><div id="menuItemText50" style="position:absolute;left:10;top:1;color:#FFFFFF;">Residents&nbsp;</div>
-<div id="menuItemHilite50" style="position:absolute;left:10;top:1;top:1;color:#FFFFFF;visibility:hidden;">Residents&nbsp;</div></div><div id="menuItem51" style="position: absolute; left: 0px; top: 180px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 17px; background-color: rgb(102, 51, 153); visibility: inherit; cursor: pointer;"><div id="menuItemText51" style="position:absolute;left:10;top:1;color:#FFFFFF;">RIS&nbsp;</div>
-<div id="menuItemHilite51" style="position:absolute;left:10;top:1;top:1;color:#FFFFFF;visibility:hidden;">RIS&nbsp;</div></div><div id="menuItem52" style="position: absolute; left: 0px; top: 198px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 17px; background-color: rgb(102, 51, 153); visibility: inherit; cursor: pointer;"><div id="menuItemText52" style="position:absolute;left:10;top:1;color:#FFFFFF;">Ultrasound&nbsp;</div>
-<div id="menuItemHilite52" style="position:absolute;left:10;top:1;top:1;color:#FFFFFF;visibility:hidden;">Ultrasound&nbsp;</div></div><div id="menuItem53" style="position: absolute; left: 0px; top: 216px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 17px; background-color: rgb(102, 51, 153); visibility: inherit; cursor: pointer;"><div id="menuItemText53" style="position:absolute;left:10;top:1;color:#FFFFFF;">Virtual Colonoscopy&nbsp;</div>
-<div id="menuItemHilite53" style="position:absolute;left:10;top:1;top:1;color:#FFFFFF;visibility:hidden;">Virtual Colonoscopy&nbsp;</div></div><div id="menuItem54" style="position: absolute; left: 0px; top: 234px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 17px; background-color: rgb(102, 51, 153); visibility: inherit; cursor: pointer;"><div id="menuItemText54" style="position:absolute;left:10;top:1;color:#FFFFFF;">Women's Imaging&nbsp;</div>
-<div id="menuItemHilite54" style="position:absolute;left:10;top:1;top:1;color:#FFFFFF;visibility:hidden;">Women's Imaging&nbsp;</div></div><div id="menuItem55" style="position: absolute; left: 0px; top: 252px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 17px; background-color: rgb(102, 51, 153); visibility: inherit; cursor: pointer;"><div id="menuItemText55" style="position:absolute;left:10;top:1;color:#FFFFFF;">X-Ray&nbsp;</div>
-<div id="menuItemHilite55" style="position:absolute;left:10;top:1;top:1;color:#FFFFFF;visibility:hidden;">X-Ray&nbsp;</div></div>	  <div id="focusItem8" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+<div id="menuItemHilite44" style="position:absolute;left:10;top:1;top:1;color:#FFFFFF;visibility:hidden;">CT&nbsp;</div></div><div id="menuItem45" style="position: absolute; left: 0px; top: 72px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 17px; background-color: rgb(102, 51, 153); visibility: inherit; cursor: pointer;"><div id="menuItemText45" style="position:absolute;left:10;top:1;color:#FFFFFF;">Healthcare IT&nbsp;</div>
+<div id="menuItemHilite45" style="position:absolute;left:10;top:1;top:1;color:#FFFFFF;visibility:hidden;">Healthcare IT&nbsp;</div></div><div id="menuItem46" style="position: absolute; left: 0px; top: 90px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 17px; background-color: rgb(102, 51, 153); visibility: inherit; cursor: pointer;"><div id="menuItemText46" style="position:absolute;left:10;top:1;color:#FFFFFF;">Imaging Center&nbsp;</div>
+<div id="menuItemHilite46" style="position:absolute;left:10;top:1;top:1;color:#FFFFFF;visibility:hidden;">Imaging Center&nbsp;</div></div><div id="menuItem47" style="position: absolute; left: 0px; top: 108px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 17px; background-color: rgb(102, 51, 153); visibility: inherit; cursor: pointer;"><div id="menuItemText47" style="position:absolute;left:10;top:1;color:#FFFFFF;">Molecular Imaging&nbsp;</div>
+<div id="menuItemHilite47" style="position:absolute;left:10;top:1;top:1;color:#FFFFFF;visibility:hidden;">Molecular Imaging&nbsp;</div></div><div id="menuItem48" style="position: absolute; left: 0px; top: 126px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 17px; background-color: rgb(102, 51, 153); visibility: inherit; cursor: pointer;"><div id="menuItemText48" style="position:absolute;left:10;top:1;color:#FFFFFF;">MRI&nbsp;</div>
+<div id="menuItemHilite48" style="position:absolute;left:10;top:1;top:1;color:#FFFFFF;visibility:hidden;">MRI&nbsp;</div></div><div id="menuItem49" style="position: absolute; left: 0px; top: 144px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 17px; background-color: rgb(102, 51, 153); visibility: inherit; cursor: pointer;"><div id="menuItemText49" style="position:absolute;left:10;top:1;color:#FFFFFF;">Orthopedic Imaging&nbsp;</div>
+<div id="menuItemHilite49" style="position:absolute;left:10;top:1;top:1;color:#FFFFFF;visibility:hidden;">Orthopedic Imaging&nbsp;</div></div><div id="menuItem50" style="position: absolute; left: 0px; top: 162px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 17px; background-color: rgb(102, 51, 153); visibility: inherit; cursor: pointer;"><div id="menuItemText50" style="position:absolute;left:10;top:1;color:#FFFFFF;">PACS&nbsp;</div>
+<div id="menuItemHilite50" style="position:absolute;left:10;top:1;top:1;color:#FFFFFF;visibility:hidden;">PACS&nbsp;</div></div><div id="menuItem51" style="position: absolute; left: 0px; top: 180px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 17px; background-color: rgb(102, 51, 153); visibility: inherit; cursor: pointer;"><div id="menuItemText51" style="position:absolute;left:10;top:1;color:#FFFFFF;">Radiation Oncology&nbsp;</div>
+<div id="menuItemHilite51" style="position:absolute;left:10;top:1;top:1;color:#FFFFFF;visibility:hidden;">Radiation Oncology&nbsp;</div></div><div id="menuItem52" style="position: absolute; left: 0px; top: 198px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 17px; background-color: rgb(102, 51, 153); visibility: inherit; cursor: pointer;"><div id="menuItemText52" style="position:absolute;left:10;top:1;color:#FFFFFF;">Residents&nbsp;</div>
+<div id="menuItemHilite52" style="position:absolute;left:10;top:1;top:1;color:#FFFFFF;visibility:hidden;">Residents&nbsp;</div></div><div id="menuItem53" style="position: absolute; left: 0px; top: 216px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 17px; background-color: rgb(102, 51, 153); visibility: inherit; cursor: pointer;"><div id="menuItemText53" style="position:absolute;left:10;top:1;color:#FFFFFF;">Ultrasound&nbsp;</div>
+<div id="menuItemHilite53" style="position:absolute;left:10;top:1;top:1;color:#FFFFFF;visibility:hidden;">Ultrasound&nbsp;</div></div><div id="menuItem54" style="position: absolute; left: 0px; top: 234px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 17px; background-color: rgb(102, 51, 153); visibility: inherit; cursor: pointer;"><div id="menuItemText54" style="position:absolute;left:10;top:1;color:#FFFFFF;">Virtual Colonoscopy&nbsp;</div>
+<div id="menuItemHilite54" style="position:absolute;left:10;top:1;top:1;color:#FFFFFF;visibility:hidden;">Virtual Colonoscopy&nbsp;</div></div><div id="menuItem55" style="position: absolute; left: 0px; top: 252px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 17px; background-color: rgb(102, 51, 153); visibility: inherit; cursor: pointer;"><div id="menuItemText55" style="position:absolute;left:10;top:1;color:#FFFFFF;">Women's Imaging&nbsp;</div>
+<div id="menuItemHilite55" style="position:absolute;left:10;top:1;top:1;color:#FFFFFF;visibility:hidden;">Women's Imaging&nbsp;</div></div><div id="menuItem56" style="position: absolute; left: 0px; top: 270px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 17px; background-color: rgb(102, 51, 153); visibility: inherit; cursor: pointer;"><div id="menuItemText56" style="position:absolute;left:10;top:1;color:#FFFFFF;">X-Ray&nbsp;</div>
+<div id="menuItemHilite56" style="position:absolute;left:10;top:1;top:1;color:#FFFFFF;visibility:hidden;">X-Ray&nbsp;</div></div>	  <div id="focusItem8" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
    </div>
   </div>
 </div>
-<div id="menuLayer9" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; background-color: rgb(119, 119, 119); width: 154px; height: 165px;">
-  <div id="menuLite9" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 163px; width: 152px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg9" style="position: absolute; left: 1px; top: 1px; height: 162px; width: 151px; background-color: rgb(85, 85, 85);">
-<div id="menuItem56" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 17px; background-color: rgb(102, 51, 153); visibility: inherit; cursor: pointer;"><div id="menuItemText56" style="position:absolute;left:10;top:1;color:#FFFFFF;">Discussions Home&nbsp;</div>
-<div id="menuItemHilite56" style="position:absolute;left:10;top:1;top:1;color:#FFFFFF;visibility:hidden;">Discussions Home&nbsp;</div></div><div id="menuItem57" style="position: absolute; left: 0px; top: 18px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 17px; background-color: rgb(102, 51, 153); visibility: inherit; cursor: pointer;"><div id="menuItemText57" style="position:absolute;left:10;top:1;color:#FFFFFF;">General Radiology&nbsp;</div>
-<div id="menuItemHilite57" style="position:absolute;left:10;top:1;top:1;color:#FFFFFF;visibility:hidden;">General Radiology&nbsp;</div></div><div id="menuItem58" style="position: absolute; left: 0px; top: 36px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 17px; background-color: rgb(102, 51, 153); visibility: inherit; cursor: pointer;"><div id="menuItemText58" style="position:absolute;left:10;top:1;color:#FFFFFF;">Residents&nbsp;</div>
-<div id="menuItemHilite58" style="position:absolute;left:10;top:1;top:1;color:#FFFFFF;visibility:hidden;">Residents&nbsp;</div></div><div id="menuItem59" style="position: absolute; left: 0px; top: 54px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 17px; background-color: rgb(102, 51, 153); visibility: inherit; cursor: pointer;"><div id="menuItemText59" style="position:absolute;left:10;top:1;color:#FFFFFF;">PACS&nbsp;</div>
-<div id="menuItemHilite59" style="position:absolute;left:10;top:1;top:1;color:#FFFFFF;visibility:hidden;">PACS&nbsp;</div></div><div id="menuItem60" style="position: absolute; left: 0px; top: 72px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 17px; background-color: rgb(102, 51, 153); visibility: inherit; cursor: pointer;"><div id="menuItemText60" style="position:absolute;left:10;top:1;color:#FFFFFF;">Technologists&nbsp;</div>
-<div id="menuItemHilite60" style="position:absolute;left:10;top:1;top:1;color:#FFFFFF;visibility:hidden;">Technologists&nbsp;</div></div><div id="menuItem61" style="position: absolute; left: 0px; top: 90px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 17px; background-color: rgb(102, 51, 153); visibility: inherit; cursor: pointer;"><div id="menuItemText61" style="position:absolute;left:10;top:1;color:#FFFFFF;">Medical Students&nbsp;</div>
-<div id="menuItemHilite61" style="position:absolute;left:10;top:1;top:1;color:#FFFFFF;visibility:hidden;">Medical Students&nbsp;</div></div><div id="menuItem62" style="position: absolute; left: 0px; top: 108px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 17px; background-color: rgb(102, 51, 153); visibility: inherit; cursor: pointer;"><div id="menuItemText62" style="position:absolute;left:10;top:1;color:#FFFFFF;">Ask the Vendors&nbsp;</div>
-<div id="menuItemHilite62" style="position:absolute;left:10;top:1;top:1;color:#FFFFFF;visibility:hidden;">Ask the Vendors&nbsp;</div></div><div id="menuItem63" style="position: absolute; left: 0px; top: 126px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 17px; background-color: rgb(102, 51, 153); visibility: inherit; cursor: pointer;"><div id="menuItemText63" style="position:absolute;left:10;top:1;color:#FFFFFF;">Question of the Week&nbsp;</div>
-<div id="menuItemHilite63" style="position:absolute;left:10;top:1;top:1;color:#FFFFFF;visibility:hidden;">Question of the Week&nbsp;</div></div><div id="menuItem64" style="position: absolute; left: 0px; top: 144px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 17px; background-color: rgb(102, 51, 153); visibility: inherit; cursor: pointer;"><div id="menuItemText64" style="position:absolute;left:10;top:1;color:#FFFFFF;">Terms of Service&nbsp;</div>
-<div id="menuItemHilite64" style="position:absolute;left:10;top:1;top:1;color:#FFFFFF;visibility:hidden;">Terms of Service&nbsp;</div></div>	  <div id="focusItem9" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+<div id="menuLayer9" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; background-color: rgb(119, 119, 119); width: 154px; height: 183px;">
+  <div id="menuLite9" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 181px; width: 152px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg9" style="position: absolute; left: 1px; top: 1px; height: 180px; width: 151px; background-color: rgb(85, 85, 85);">
+<div id="menuItem57" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 17px; background-color: rgb(102, 51, 153); visibility: inherit; cursor: pointer;"><div id="menuItemText57" style="position:absolute;left:10;top:1;color:#FFFFFF;">Forum Home&nbsp;</div>
+<div id="menuItemHilite57" style="position:absolute;left:10;top:1;top:1;color:#FFFFFF;visibility:hidden;">Forum Home&nbsp;</div></div><div id="menuItem58" style="position: absolute; left: 0px; top: 18px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 17px; background-color: rgb(102, 51, 153); visibility: inherit; cursor: pointer;"><div id="menuItemText58" style="position:absolute;left:10;top:1;color:#FFFFFF;">General Radiology&nbsp;</div>
+<div id="menuItemHilite58" style="position:absolute;left:10;top:1;top:1;color:#FFFFFF;visibility:hidden;">General Radiology&nbsp;</div></div><div id="menuItem59" style="position: absolute; left: 0px; top: 36px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 17px; background-color: rgb(102, 51, 153); visibility: inherit; cursor: pointer;"><div id="menuItemText59" style="position:absolute;left:10;top:1;color:#FFFFFF;">Residents&nbsp;</div>
+<div id="menuItemHilite59" style="position:absolute;left:10;top:1;top:1;color:#FFFFFF;visibility:hidden;">Residents&nbsp;</div></div><div id="menuItem60" style="position: absolute; left: 0px; top: 54px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 17px; background-color: rgb(102, 51, 153); visibility: inherit; cursor: pointer;"><div id="menuItemText60" style="position:absolute;left:10;top:1;color:#FFFFFF;">PACS&nbsp;</div>
+<div id="menuItemHilite60" style="position:absolute;left:10;top:1;top:1;color:#FFFFFF;visibility:hidden;">PACS&nbsp;</div></div><div id="menuItem61" style="position: absolute; left: 0px; top: 72px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 17px; background-color: rgb(102, 51, 153); visibility: inherit; cursor: pointer;"><div id="menuItemText61" style="position:absolute;left:10;top:1;color:#FFFFFF;">Technologists&nbsp;</div>
+<div id="menuItemHilite61" style="position:absolute;left:10;top:1;top:1;color:#FFFFFF;visibility:hidden;">Technologists&nbsp;</div></div><div id="menuItem62" style="position: absolute; left: 0px; top: 90px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 17px; background-color: rgb(102, 51, 153); visibility: inherit; cursor: pointer;"><div id="menuItemText62" style="position:absolute;left:10;top:1;color:#FFFFFF;">Medical Students&nbsp;</div>
+<div id="menuItemHilite62" style="position:absolute;left:10;top:1;top:1;color:#FFFFFF;visibility:hidden;">Medical Students&nbsp;</div></div><div id="menuItem63" style="position: absolute; left: 0px; top: 108px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 17px; background-color: rgb(102, 51, 153); visibility: inherit; cursor: pointer;"><div id="menuItemText63" style="position:absolute;left:10;top:1;color:#FFFFFF;">Ask the Vendors&nbsp;</div>
+<div id="menuItemHilite63" style="position:absolute;left:10;top:1;top:1;color:#FFFFFF;visibility:hidden;">Ask the Vendors&nbsp;</div></div><div id="menuItem64" style="position: absolute; left: 0px; top: 126px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 17px; background-color: rgb(102, 51, 153); visibility: inherit; cursor: pointer;"><div id="menuItemText64" style="position:absolute;left:10;top:1;color:#FFFFFF;">Question of the Week&nbsp;</div>
+<div id="menuItemHilite64" style="position:absolute;left:10;top:1;top:1;color:#FFFFFF;visibility:hidden;">Question of the Week&nbsp;</div></div><div id="menuItem65" style="position: absolute; left: 0px; top: 144px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 17px; background-color: rgb(102, 51, 153); visibility: inherit; cursor: pointer;"><div id="menuItemText65" style="position:absolute;left:10;top:1;color:#FFFFFF;">Terms of Service&nbsp;</div>
+<div id="menuItemHilite65" style="position:absolute;left:10;top:1;top:1;color:#FFFFFF;visibility:hidden;">Terms of Service&nbsp;</div></div><div id="menuItem66" style="position: absolute; left: 0px; top: 162px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; width: 150px; height: 17px; background-color: rgb(102, 51, 153); visibility: inherit; cursor: pointer;"><div id="menuItemText66" style="position:absolute;left:10;top:1;color:#FFFFFF;">Forum Options&nbsp;</div>
+<div id="menuItemHilite66" style="position:absolute;left:10;top:1;top:1;color:#FFFFFF;visibility:hidden;">Forum Options&nbsp;</div></div>	  <div id="focusItem9" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
    </div>
   </div>
 </div>
@@ -610,11 +382,11 @@ function fwLoadMenus()
             
 				</option><option value="jobs">Job Boards
             
-				</option><option value="openmarket">OpenMarket
+				</option><option value="openmarket">Bookstore
             
 				</option><option value="vdp">Buyer's Guide
             
-				</option><option value="discussion">Discussion Groups
+				</option><option value="discussion">Forums
             
 				</option><option value="links">Links
             
@@ -634,13 +406,13 @@ function fwLoadMenus()
 	</td>
 </tr>
 <tr>
-<td align="LEFT" valign="TOP" width="730" colspan="3"><table border="0" cellpadding="0" cellspacing="0" width="730"><tbody><tr><td id="navtd" class="tnlback"><nobr>|<a href="http://www.auntminnie.com/index.asp?sec=def" onmouseover="window.FW_showMenu(window.fw_menu_nws       ,0, 20,'navtd');" target="_top" class="tnl">Home</a>|<a href="http://www.auntminnie.com/index.asp?sec=vdp       " onmouseover="window.FW_showMenu(window.fw_menu_vdp       ,42, 20,'navtd');" target="_top" class="tnl">Buyer's Guide</a>|<a href="http://www.auntminnie.com/index.asp?Sec=mkt&amp;sub=emp" onmouseover="window.FW_showMenu(window.fw_menu_job       ,130, 20,'navtd');" target="_top" class="tnl">Job Boards</a>|<a href="http://www.auntminnie.com/index.asp?sec=ref       " onmouseover="window.FW_showMenu(window.fw_menu_ref       ,192, 20,'navtd');" target="_top" class="tnl">Reference</a>|<a href="http://www.auntminnie.com/index.asp?sec=mkt       " onmouseover="window.FW_showMenu(window.fw_menu_mkt       ,254, 20,'navtd');" target="_top" class="tnl">Marketplace</a>|<a href="http://www.auntminnie.com/index.asp?sec=edu       " onmouseover="window.FW_showMenu(window.fw_menu_edu       ,340, 20,'navtd');" target="_top" class="tnl">Education</a>|<a href="http://www.auntminnie.com/index.asp?sec=cns       " onmouseover="window.FW_showMenu(window.fw_menu_cns       ,405, 20,'navtd');" target="_top" class="tnl">Conferences</a>|<a href="http://www.auntminnie.com/index.asp?sec=lin       " onmouseover="window.FW_showMenu(window.fw_menu_lin       ,495, 20,'navtd');" target="_top" class="tnl">Links</a>|<a href="http://www.auntminnie.com/index.asp?sec=sup       " onmouseover="window.FW_showMenu(window.fw_menu_sup       ,530, 20,'navtd');" target="_top" class="tnl">Communities</a>|<a href="http://www.auntminnie.com/index.asp?sec=dsc       " onmouseover="window.FW_showMenu(window.fw_menu_dsc       ,590, 20,'navtd');" target="_top" class="tnl">Discussions</a>|</nobr></td></tr></tbody></table></td>
+<td align="LEFT" valign="TOP" width="730" colspan="3"><table border="0" cellpadding="0" cellspacing="0" width="730"><tbody><tr><td id="navtd" class="tnlback"><nobr>|<a href="http://www.auntminnie.com/index.asp?sec=def" onmouseover="window.FW_showMenu(window.fw_menu_nws       ,0, 20,'navtd');" target="_top" class="tnl">Home</a>|<a href="http://www.auntminnie.com/index.asp?sec=vdp       " onmouseover="window.FW_showMenu(window.fw_menu_vdp       ,42, 20,'navtd');" target="_top" class="tnl">Buyer's Guide</a>|<a href="http://www.auntminnie.com/index.asp?Sec=mkt&amp;sub=emp" onmouseover="window.FW_showMenu(window.fw_menu_job       ,130, 20,'navtd');" target="_top" class="tnl">Job Boards</a>|<a href="http://www.auntminnie.com/index.asp?sec=ref       " onmouseover="window.FW_showMenu(window.fw_menu_ref       ,192, 20,'navtd');" target="_top" class="tnl">Reference</a>|<a href="http://www.auntminnie.com/index.asp?sec=mkt       " onmouseover="window.FW_showMenu(window.fw_menu_mkt       ,254, 20,'navtd');" target="_top" class="tnl">Marketplace</a>|<a href="http://www.auntminnie.com/index.asp?sec=edu       " onmouseover="window.FW_showMenu(window.fw_menu_edu       ,340, 20,'navtd');" target="_top" class="tnl">Education</a>|<a href="http://www.auntminnie.com/index.asp?sec=cns       " onmouseover="window.FW_showMenu(window.fw_menu_cns       ,405, 20,'navtd');" target="_top" class="tnl">Conferences</a>|<a href="http://www.auntminnie.com/index.asp?sec=lin       " onmouseover="window.FW_showMenu(window.fw_menu_lin       ,495, 20,'navtd');" target="_top" class="tnl">Links</a>|<a href="http://www.auntminnie.com/index.asp?sec=sup       " onmouseover="window.FW_showMenu(window.fw_menu_sup       ,530, 20,'navtd');" target="_top" class="tnl">Communities</a>|<a href="http://www.auntminnie.com/forum/default.aspx" onmouseover="window.FW_showMenu(window.fw_menu_dsc       ,590, 20,'navtd');" target="_top" class="tnl">Forums</a>|</nobr></td></tr></tbody></table></td>
 </tr>
 <tr>
 <td align="LEFT" valign="TOP" colspan="3">
 	<table border="0" width="730" cellpadding="1" cellspacing="0"><tbody><tr>
 		<td align="LEFT" valign="TOP" colspan="1">
-		<font class="text">[<a href="/index.asp?sec=log&amp;OriginalURL=%2Findex%2Easp%3FSec%3Dabt%26Sub%3Dfaq%26Pag%3Ddis%26ItemId%3D52788%26signIn%3D1">Sign in</a>]&nbsp;[<a href="/index.asp?sec=log&amp;sub=reg">Register for Free!</a>]</font>		
+		<font class="text">[<a href="/index.asp?sec=log&amp;OriginalURL=%2Findex%2Easp%3FSec%3Dabt%26Sub%3Dfaq%26Pag%3Ddis%26ItemId%3D52788%26signIn%3D1">Sign in</a>]&nbsp;[<a href="/index.asp?sec=log&amp;sub=reg">Register for Free!</a>]&nbsp;[<a href="/index.asp?sec=log&amp;OriginalURL=%2Findex%2Easp%3Fsec%3Dlog%26sub%3Dreg%26pag%3Deml%26sponsor%3D%26origURL%3D%26new%3D%26editionNavSec%3Dabt%26Sub%3Dfaq%26Pag%3Ddis%26ItemId%3D52788%26signIn%3D1">Newsletters</a>]</font>		
 		
 		</td>
 		<td align="right" valign="TOP" colspan="1">&nbsp;<font class="text">
@@ -664,21 +436,22 @@ function fwLoadMenus()
 </tbody></table>
 <table border="1" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" width="730">
 	<tbody><tr>
-		<td valign="TOP" align="CENTER" width="142"><div class="adbottom"><script language="JAVASCRIPT">
+		<td valign="TOP" align="CENTER" width="142">
+			 <div class="adbottom"><script language="JAVASCRIPT">
 <!--
-amBWRA('http://amsvc2.auntminnie.com', 4, 'sec_abt', 1, false, 140, 60, 38672);
+amBWRA('http://amsvc2.auntminnie.com', 4, 'sec_abt', 1, false, 140, 60, 38882);
 -->
-</script><script language="JAVASCRIPT" src="http://amsvc2.auntminnie.com/ad.aspx?ZoneID=4&amp;Keywords=sec_abt&amp;Task=Get&amp;Browser=NETSCAPE4&amp;IFR=False&amp;SiteID=1&amp;Random=1580467959051"></script>
+</script><script language="JAVASCRIPT" src="http://amsvc2.auntminnie.com/ad.aspx?ZoneID=4&amp;Keywords=sec_abt&amp;Task=Get&amp;Browser=NETSCAPE4&amp;IFR=False&amp;SiteID=1&amp;Random=1580467959545"></script>
 <noscript>
 <a href="http://amsvc2.auntminnie.com/ad.aspx?ZoneID=4&Keywords=sec_abt&Task=Click&Mode=HTML&SiteID=1&PageID=80048" target="_new">
 <img src="http://amsvc2.auntminnie.com/ad.aspx?ZoneID=4&Keywords=sec_abt&Task=Get&Mode=HTML&SiteID=1&PageID=80048" width=140 height=60 border="0"></a>
 </noscript>
-</div></td>
+</div></td>		
 		<td valign="TOP" align="CENTER" width="468"><div class="adbottom"><script language="JAVASCRIPT">
 <!--
-amBWRA('http://amsvc2.auntminnie.com', 3, 'sec_abt', 1, false, 468, 60, 38672);
+amBWRA('http://amsvc2.auntminnie.com', 3, 'sec_abt', 1, false, 468, 60, 38882);
 -->
-</script><script language="JAVASCRIPT" src="http://amsvc2.auntminnie.com/ad.aspx?ZoneID=3&amp;Keywords=sec_abt&amp;Task=Get&amp;Browser=NETSCAPE4&amp;IFR=False&amp;SiteID=1&amp;Random=1580467959053"></script>
+</script><script language="JAVASCRIPT" src="http://amsvc2.auntminnie.com/ad.aspx?ZoneID=3&amp;Keywords=sec_abt&amp;Task=Get&amp;Browser=NETSCAPE4&amp;IFR=False&amp;SiteID=1&amp;Random=1580467959546"></script>
 <noscript>
 <a href="http://amsvc2.auntminnie.com/ad.aspx?ZoneID=3&Keywords=sec_abt&Task=Click&Mode=HTML&SiteID=1&PageID=80048" target="_new">
 <img src="http://amsvc2.auntminnie.com/ad.aspx?ZoneID=3&Keywords=sec_abt&Task=Get&Mode=HTML&SiteID=1&PageID=80048" width=468 height=60 border="0"></a>
@@ -686,9 +459,9 @@ amBWRA('http://amsvc2.auntminnie.com', 3, 'sec_abt', 1, false, 468, 60, 38672);
 </div></td>
 		<td valign="TOP" align="CENTER" width="120"><div class="adbottom"><script language="JAVASCRIPT">
 <!--
-amBWRA('http://amsvc2.auntminnie.com', 5, 'sec_abt', 1, false, 120, 60, 38672);
+amBWRA('http://amsvc2.auntminnie.com', 5, 'sec_abt', 1, false, 120, 60, 38882);
 -->
-</script><script language="JAVASCRIPT" src="http://amsvc2.auntminnie.com/ad.aspx?ZoneID=5&amp;Keywords=sec_abt&amp;Task=Get&amp;Browser=NETSCAPE4&amp;IFR=False&amp;SiteID=1&amp;Random=1580467959059"></script>
+</script><script language="JAVASCRIPT" src="http://amsvc2.auntminnie.com/ad.aspx?ZoneID=5&amp;Keywords=sec_abt&amp;Task=Get&amp;Browser=NETSCAPE4&amp;IFR=False&amp;SiteID=1&amp;Random=1580467959548"></script>
 <noscript>
 <a href="http://amsvc2.auntminnie.com/ad.aspx?ZoneID=5&Keywords=sec_abt&Task=Click&Mode=HTML&SiteID=1&PageID=80048" target="_new">
 <img src="http://amsvc2.auntminnie.com/ad.aspx?ZoneID=5&Keywords=sec_abt&Task=Get&Mode=HTML&SiteID=1&PageID=80048" width=120 height=60 border="0"></a>
@@ -764,9 +537,9 @@ In order to use SSL security technology, we require that you have either Netscap
 	<tbody><tr>
  		<td valign="TOP" align="LEFT" width="142"><script language="JAVASCRIPT">
 <!--
-amBWRA('http://amsvc2.auntminnie.com', 4, 'sec_abt', 1, false, 140, 60, 38672);
+amBWRA('http://amsvc2.auntminnie.com', 4, 'sec_abt', 1, false, 140, 60, 38882);
 -->
-</script><script language="JAVASCRIPT" src="http://amsvc2.auntminnie.com/ad.aspx?ZoneID=4&amp;Keywords=sec_abt&amp;Task=Get&amp;Browser=NETSCAPE4&amp;IFR=False&amp;SiteID=1&amp;Random=1580467959110"></script>
+</script><script language="JAVASCRIPT" src="http://amsvc2.auntminnie.com/ad.aspx?ZoneID=4&amp;Keywords=sec_abt&amp;Task=Get&amp;Browser=NETSCAPE4&amp;IFR=False&amp;SiteID=1&amp;Random=1580467959568"></script>
 <noscript>
 <a href="http://amsvc2.auntminnie.com/ad.aspx?ZoneID=4&Keywords=sec_abt&Task=Click&Mode=HTML&SiteID=1&PageID=80048" target="_new">
 <img src="http://amsvc2.auntminnie.com/ad.aspx?ZoneID=4&Keywords=sec_abt&Task=Get&Mode=HTML&SiteID=1&PageID=80048" width=140 height=60 border="0"></a>
@@ -774,9 +547,9 @@ amBWRA('http://amsvc2.auntminnie.com', 4, 'sec_abt', 1, false, 140, 60, 38672);
 </td>
 		<td valign="MIDDLE" align="CENTER" width="468"><script language="JAVASCRIPT">
 <!--
-amBWRA('http://amsvc2.auntminnie.com', 8, 'sec_abt', 1, true, 468, 60, 38672);
+amBWRA('http://amsvc2.auntminnie.com', 8, 'sec_abt', 1, true, 468, 60, 38882);
 -->
-</script><iframe name="AdZone8" src="http://amsvc2.auntminnie.com/ad.aspx?ZoneID=8&amp;Keywords=sec_abt&amp;Task=Get&amp;Browser=NETSCAPE6&amp;SiteID=1&amp;X=1580467959113 " width="468" height="60Marginwidth=0" frameborder="0" marginheight="0" hspace="0" vspace="0" scrolling="No"></iframe>
+</script><iframe name="AdZone8" src="http://amsvc2.auntminnie.com/ad.aspx?ZoneID=8&amp;Keywords=sec_abt&amp;Task=Get&amp;Browser=NETSCAPE6&amp;SiteID=1&amp;X=1580467959570 " width="468" height="60Marginwidth=0" frameborder="0" marginheight="0" hspace="0" vspace="0" scrolling="No"></iframe>
 <noscript>
 <a href="http://amsvc2.auntminnie.com/ad.aspx?ZoneID=8&Keywords=sec_abt&Task=Click&Mode=HTML&SiteID=1&PageID=80048" target="_new">
 <img src="http://amsvc2.auntminnie.com/ad.aspx?ZoneID=8&Keywords=sec_abt&Task=Get&Mode=HTML&SiteID=1&PageID=80048" width=468 height=60 border="0"></a>
@@ -784,9 +557,9 @@ amBWRA('http://amsvc2.auntminnie.com', 8, 'sec_abt', 1, true, 468, 60, 38672);
 </td>
 		<td valign="MIDDLE" align="CENTER" width="120"><script language="JAVASCRIPT">
 <!--
-amBWRA('http://amsvc2.auntminnie.com', 9, 'sec_abt', 1, true, 120, 60, 38672);
+amBWRA('http://amsvc2.auntminnie.com', 9, 'sec_abt', 1, true, 120, 60, 38882);
 -->
-</script><iframe name="AdZone9" src="http://amsvc2.auntminnie.com/ad.aspx?ZoneID=9&amp;Keywords=sec_abt&amp;Task=Get&amp;Browser=NETSCAPE6&amp;SiteID=1&amp;X=1580467959121 " width="120" height="60Marginwidth=0" frameborder="0" marginheight="0" hspace="0" vspace="0" scrolling="No"></iframe>
+</script><iframe name="AdZone9" src="http://amsvc2.auntminnie.com/ad.aspx?ZoneID=9&amp;Keywords=sec_abt&amp;Task=Get&amp;Browser=NETSCAPE6&amp;SiteID=1&amp;X=1580467959574 " width="120" height="60Marginwidth=0" frameborder="0" marginheight="0" hspace="0" vspace="0" scrolling="No"></iframe>
 <noscript>
 <a href="http://amsvc2.auntminnie.com/ad.aspx?ZoneID=9&Keywords=sec_abt&Task=Click&Mode=HTML&SiteID=1&PageID=80048" target="_new">
 <img src="http://amsvc2.auntminnie.com/ad.aspx?ZoneID=9&Keywords=sec_abt&Task=Get&Mode=HTML&SiteID=1&PageID=80048" width=120 height=60 border="0"></a>
@@ -802,15 +575,16 @@ amBWRA('http://amsvc2.auntminnie.com', 9, 'sec_abt', 1, true, 120, 60, 38672);
 <table border="0" cellspacing="0" bgcolor="#FFFFFF" width="730">
 	<tbody><tr>
 		<td valign="TOP" align="CENTER">
-<center><font class="text"> || <a href="http://www.auntminnie.com/index.asp?sec=def">Home</a> || <a href="http://www.auntminnie.com/index.asp?Sec=vdp&amp;Sub=def">Buyer's Guide</a> || <a href="http://www.auntminnie.com/index.asp?Sec=osym&amp;Sub=def">Online Symposia</a> || <a href="http://www.auntminnie.com/index.asp?Sec=rca&amp;Sub=def">RadCasts</a> || <a href="http://www.auntminnie.com/index.asp?Sec=mkt&amp;sub=emp">Job Boards</a> || <a href="http://www.auntminnie.com/index.asp?Sec=edu&amp;Sub=def">Education</a> || <a href="http://www.auntminnie.com/index.asp?Sec=ref&amp;Sub=def">Reference</a> || <a href="http://www.auntminnie.com/index.asp?Sec=cns&amp;Sub=def">Conferences</a> || <a href="http://www.auntminnie.com/index.asp?Sec=sup&amp;Sub=def">Communities</a> || <a href="http://www.auntminnie.com/index.asp?Sec=lin&amp;Sub=def">Links</a> || <a href="http://www.auntminnie.com/index.asp?Sec=mkt&amp;Sub=def">Marketplace</a> || <a href="http://www.auntminnie.com/index.asp?Sec=dsc&amp;Sub=def">Discussions</a> || <a href="http://www.auntminnie.com/index.asp?Sec=abt&amp;Sub=def">About</a> || <a href="http://www.auntminnie.com/index.asp?Sec=abt&amp;Sub=faq&amp;Pag=dis&amp;ItemId=52788">Privacy Policy</a> || <a href="http://www.auntminnie.com/rss/rss.aspx"><img src="/images/utility/xml.gif" border="0"></a> || </font></center>
+<center><font class="text"> || <a href="http://www.auntminnie.com/index.asp?sec=def">Home</a> || <a href="http://www.auntminnie.com/index.asp?Sec=vdp&amp;Sub=def">Buyer's Guide</a> || <a href="http://www.auntminnie.com/index.asp?Sec=osym&amp;Sub=def">Online Symposia</a> || <a href="http://www.auntminnie.com/index.asp?Sec=rca&amp;Sub=def">RadCasts</a> || <a href="http://www.auntminnie.com/index.asp?Sec=mkt&amp;sub=emp">Job Boards</a> || <a href="http://www.auntminnie.com/index.asp?Sec=edu&amp;Sub=def">Education</a> || <a href="http://www.auntminnie.com/index.asp?Sec=ref&amp;Sub=def">Reference</a> || <a href="http://www.auntminnie.com/index.asp?Sec=cns&amp;Sub=def">Conferences</a> || <a href="http://www.auntminnie.com/index.asp?Sec=sup&amp;Sub=def">Communities</a> || <a href="http://www.auntminnie.com/index.asp?Sec=lin&amp;Sub=def">Links</a> || <a href="http://www.auntminnie.com/index.asp?Sec=mkt&amp;Sub=def">Marketplace</a> || <a href="http://www.auntminnie.com/forum/default.aspx">Forums</a> || <a href="http://www.auntminnie.com/index.asp?Sec=abt&amp;Sub=def">About</a> || <a href="http://www.auntminnie.com/index.asp?Sec=abt&amp;Sub=faq&amp;Pag=dis&amp;ItemId=52788">Privacy Policy</a> || <a href="http://www.auntminnie.com/rss/rss.aspx"><img src="/images/utility/xml.gif" border="0"></a> || </font></center>
 		</td>
 	</tr>
-</tbody></table><font size="-2" color="#FFFFFF">0.2031 s www.auntminnie.com net02</font>
+</tbody></table>
+<script type="text/javascript" src="/functions/ieupdate.js"></script><font size="-2" color="#FFFFFF">0.1563 s www.auntminnie.com net02</font>
 
 <table border="0" cellspacing="0" bgcolor="#FFFFFF" width="730">
 	<tbody><tr>
 		<td valign="TOP" align="CENTER">
-		<font face="arial, helvetica" size="-2"><a href="/index.asp?sec=abt&amp;sub=cop">Copyright © 2005&nbsp;AuntMinnie.com. All Rights Reserved.</a>
+		<font face="arial, helvetica" size="-2"><a href="/index.asp?sec=abt&amp;sub=cop">Copyright © 2006&nbsp;AuntMinnie.com. All Rights Reserved.</a>
 </font>
 		</td>
 	</tr>
