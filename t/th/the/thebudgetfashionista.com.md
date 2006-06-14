@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thebudgetfashionista.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214131734id_/http%3A//www.thebudgetfashionista.com/bf/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebudgetfashionista.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614110819id_/http%3A//www.thebudgetfashionista.com/bf/policy.php) for the most accurate reproduction.*
 
-# The Budget Fashionista: Shopping Tips, Fashion Advice, Beauty Reviews, Online Coupons for REAL Women
+# The Budget Fashionista: Fashion, Shopping, and Beauty on a BudgetPRIVACY POLICY and DISCLAIMER
 
 ##  The Budget Fashionista PRIVACY POLICY and DISCLAIMER 
 
