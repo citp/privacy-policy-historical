@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jpcycles.com privacy policy that was archived on 2005-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050303172907id_/http%3A//www.jpcycles.com/Shell.aspx%3Fsrc%3DFooter/Ordering/ReadText.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jpcycles.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614113808id_/http%3A//www.jpcycles.com/Shell.aspx%3Fsrc%3DFooter/Ordering/ReadText.htm) for the most accurate reproduction.*
 
 # J&P Cycles - Motorcycle exhausts, seats, mirrors, and more
 
-J&P Cycles collects the email addresses of those who communicate with us via email, the email addresses of those who make postings in our Rider's Forum area and email address of those who choose to receive email from a catalog or merchandise request. Those who fill out a merchandise order or catalog request must opt to be added to the mailing list.
+J&P Cycles collects the email addresses of those who communicate with us via email, the email addresses of those who make postings in our Rider's Forum area and email address of those who choose to receive email from a catalog or merchandise request. Those who fill out a merchandise order or catalog request are added to the the mailing list.
 
 The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, and used to notify consumers about updates to our Website. J&P Cycles will not sell your email address to another company, nor do we make our email database available to the public.
 
@@ -27,4 +27,4 @@ We will cooperate with law enforcement and judicial authorities, and we may prov
 >  PO Box 138  
 >  Anamosa, IA 52205
 
-We can be reached via e-mail at [customerservice@jpcycles.com](mailto:customerservice@jpcycles.com) or you can reach us by telephone at 1-800-338-1747.
+We can be reached via e-mail at [ customerservice@jpcycles.com](mailto:customerservice@jpcycles.com) or you can reach us by telephone at 1-800-338-1747.
