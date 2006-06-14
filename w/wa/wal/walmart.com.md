@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the walmart.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212144132id_/http%3A//www.walmart.com/catalog/catalog.gsp%3Fcat%3D121240%26path%3D0%253A5436%253A120160%253A119833%253A120621%253A121724) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walmart.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615005055id_/http%3A//www.walmart.com/catalog/catalog.gsp%3Fcat%3D121240) for the most accurate reproduction.*
 
-# Our Privacy Policy - Safety and Privacy on Walmart.com - Security & Privacy - Help - Wal-Mart
+# Our Privacy Policy - Security & Privacy - Help - Wal-Mart
 
 [Click here for our Wal-Mart Corporate Privacy Policy.](http://www.walmartstores.com/GlobalWMStoresWeb/navigate.do?catg=233)  
   
@@ -21,28 +21,20 @@ Top of Page
 Purchase Information  
 When you make a purchase from Walmart.com, we collect your name and payment method information, such as credit card information. We collect this information in order to bill you for your purchase. We also collect information that allows us to ship your order. This includes the name, address, and phone number of the intended recipient(s). 
 
-When you create an account at Walmart.com, you can choose to save your billing information in "Your Account." You can also save one or more shipping addresses in your Walmart.com Address Book. You may change or delete this saved information anytime. Simply go to [Your Account](https://web.archive.org/cservice/ya_index.gsp). Log in with your email address and password, then click "Credit Card Information", "Address Book" or "Change Name, Email & Password" and edit or delete whatever personal information you wish. 
+When you create an account at Walmart.com, you can choose to save your billing information in "Your Account." You can also save one or more shipping addresses in your Walmart.com Address Book. You may change or delete this saved information anytime. Simply go to [Your Account](https://web.archive.org/cservice/ya_index.gsp). Log in with your email address and password, then click "Credit Card Information", "Address Book" or "Change Name, Email & Password" and edit or delete whatever personal information you wish.   
+
 
 Top of Page
 
 Services Account Information  
-We collect personal information from customers who wish to use any of the Walmart.com services, including but not limited to, Walmart.com's Photo Center, DVD Rentals, Music Downloads, Gift Registry, Pharmacy and Vision Centers. In order to use these services you must provide your email address and password or create an account at Walmart.com. 
+We collect personal information from customers who wish to use any of the Walmart.com services, including but not limited to, Walmart.com's Photo Center, DVD Rentals, Music Downloads, Gift Registry, Pharmacy and Vision Centers. In order to use these services you must provide your email address and password or create an account at Walmart.com.   
 
-Top of Page
-
-Cookies and Other Computer Information  
-When you visit Walmart.com, you will be assigned a permanent "cookie" (a small text file) to be stored on your computer's hard drive. The purpose of the cookie is to identify you when you visit this Site so we can enhance and customize your online shopping experience. 
-
-You can choose to browse on Walmart.com without cookies, but without these identifier files you will not be able to complete a purchase or take advantage of certain features of this Site. These features include storing your shopping cart for later use and, in the future, providing a more personalized shopping experience. Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences. 
-
-We also collect certain technical information from your computer each time you request a page during a visit to Walmart.com. This information may include your Internet Protocol (IP) address, your computer's operating system, browser type and the address of a referring web site, if any. We collect this information to enhance the quality of your experience during your visit to this Site and will not sell or rent this information to any third parties. 
-
-We also contract with third parties to provide us with data collection and reporting services regarding our customers' activities on this Site and to track and measure performance of our marketing efforts. These third parties may use cookies and may receive anonymous information about your browsing and buying activity on this Site. None of your personally identifiable information (such as your name, address, email address, credit card number, etc.) will be received by or shared with these third parties. 
 
 Top of Page
 
 Contacting Walmart.com  
-We will use your email address to respond to your questions, suggestions, and/or requests for assistance in using this Site. 
+We will use your email address to respond to your questions, suggestions, and/or requests for assistance in using this Site.   
+
 
 Top of Page
 
@@ -52,6 +44,9 @@ From time to time, Walmart.com may conduct surveys and contests via this Site, e
 See more on How We Use Your Personal Information
 
 Top of Page
+
+  
+
 
  
 
@@ -72,15 +67,22 @@ Information we collect on Walmart.com may be used to enhance your shopping exper
 
 Top of Page
 
+  
+
+
  
 
 When and With Whom We Share Your Personal Information
 
-We never sell or rent your personal information to any third parties under any circumstances. We will share personal customer information only with our agents, representatives, service providers, and contractors for limited purposes, including fulfilling customer orders; offering certain products and services in connection with this Site; communicating to customers; providing customer service; storing, sharing and retrieving customers' photo images in our Photo Center; enhancing and improving customers' shopping experience; enabling access to our partners' web sites; providing a personalized shopping experience; preventing fraud; completing payment method processing; and providing the BabyConnection.com web site to our customers as discussed in more detail below. 
+We never sell or rent your personal information to any third parties under any circumstances. We will share personal customer information and/or purchase history only with our agents, representatives, service providers, and contractors for limited purposes, including fulfilling customer orders; offering certain products and services in connection with this Site; communicating to customers; providing customer service; storing, sharing and retrieving customers' photo images in our Photo Center; enhancing and improving customers' shopping experience; offering targeted marketing communications to users that opted-in to receive such communications; enabling access to our partners' web sites; providing a personalized shopping experience; preventing fraud; completing payment method processing; and providing the BabyConnection.com web site to our customers as discussed in more detail below. 
 
-Aside from the purposes described above, we will never share your personal information with any other third parties unless we have your express permission or under special circumstances, such as when we believe in good faith that the disclosure is required to prevent harm or injury (such as product recalls, fraud, claims or other liability) or to comply with valid legal processes (subpoenas, warrants) or as required by law. We may share aggregated demographic and statistical information with our partners. This is not linked to any personal information that can identify any individual person. 
+Aside from the purposes described above, we will never share your personal information with any other third parties unless we have your express permission or under special circumstances, such as when we believe in good faith that the disclosure is required to prevent harm or injury (such as product recalls, fraud, claims or other liability) or to comply with valid legal processes (subpoenas, warrants) or as required by law. We may share aggregated demographic and statistical information with our partners. This is not linked to any personal information that can identify any individual person.   
+
 
 Top of Page
+
+  
+
 
  
 
@@ -88,9 +90,13 @@ How You Can Control the Use of Your Personal Information
 
 You can modify or delete your personal information anytime. Simply go to [Your Account](https://web.archive.org/cservice/ya_index.gsp). Log in with your email address and password, then click "Credit Card Information", "Checking Account Information", "Address Book" or "Change Name, Email & Password" and edit or delete whatever information you wish. 
 
-Do not share your Walmart.com password with anyone. Other than on this Site, Walmart.com will never ask you for your password. 
+Do not share your Walmart.com password with anyone. Other than on this Site, Walmart.com will never ask you for your password.   
+
 
 Top of Page
+
+  
+
 
  
 
@@ -114,9 +120,12 @@ You can choose to browse on Walmart.com without cookies. However, without these 
 
 We also collect certain technical information from your computer each time you request a page during a visit to Walmart.com. This information may include your Internet Protocol (IP) address, your computer's operating system, browser type and the address of a referring Web site, if any. We collect this information to enhance the quality of your experience during your visit to the Site and will not sell or rent this information to any third parties. 
 
-We also contract with third parties to provide us with data collection and reporting services regarding our customers' activities on the Site, and to track and measure performance of our marketing efforts and your response to our marketing efforts. These third parties may use cookies and Web beacons (1x1 pixels), and may receive anonymous information about your browsing and buying activity on the Site. None of your personally identifiable information (such as your name, address, email address, credit card number, etc.) will be received by or shared with these third parties. If you do not want your non-personal information used to serve ads to you, you can change the settings of your browser to reject cookies. Each browser is different, so check the “Help” menu of your browser to learn how to change your cookie preferences. 
+We also contract with third parties to provide us with: data collection and reporting services regarding our customers' activities on the Site; tracking and measuring performance of our marketing efforts and your response to our marketing efforts; and the delivery of relevant marketing messages. These third parties may use cookies and Web beacons (1x1 pixels), and may receive anonymous information about your browsing and buying activity on the Site. None of your personally identifiable information (such as your name, address, email address, credit card number, etc.) will be received by or shared with these third parties. If you do not want your non-personal information used to serve ads to you, you can change the settings of your browser to reject cookies. Each browser is different, so check the “Help” menu of your browser to learn how to change your cookie preferences.    
 
-Top of Page  
+
+Top of Page
+
+  
   
    
    How You Can Decide What Marketing Communications You Receive From Us  
