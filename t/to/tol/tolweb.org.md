@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tolweb.org privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228005829id_/http%3A//tolweb.org/tree/home.pages/ToLPrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tolweb.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615012354id_/http%3A//tolweb.org/tree/home.pages/ToLPrivacyPolicy.html) for the most accurate reproduction.*
 
 # Tree of Life Privacy Policy
 
@@ -143,8 +143,6 @@ Treehouse builders can submit a photo of themselves, which may be displayed on t
   
 #### ToL Classroom Treehouse Projects
 
-_Note: Contribution tools for classroom treehouse projects are currently under development. The following procedures will be implemented as soon as these tools are made available on the ToL site._
-
 ToL classroom treehouse project registration is open to teachers only. Upon registration, teachers will be asked to provide the following information:
 
 Required Information  First Name and Surname of Teacher | 
@@ -183,11 +181,11 @@ Required Information  First Name and Surname | The contributor's name is used in
 ---|---  
 Institution | 
 
-ToL scientific contributors are professional scientists whose reputation rests, in part, on their affiliation with an institution such as a university, museum, or government agency. Information about this affiliation is published on the [ToL Scientific Contributors](https://web.archive.org/tree/home.pages/participants.html) page and in the credit lines for certain ToL contributions (i.e., ToL branch pages, leaf pages, other articles, and notes).  
+ToL scientific contributors are professional scientists whose reputation rests, in part, on their affiliation with an institution such as a university, museum, or government agency. Information about this affiliation is published in the [ToL Scientific Contributors list](https://web.archive.org/onlinecontributors/app?service=page/ScientificContributorsPage) and in the credit lines for certain ToL contributions (i.e., ToL branch pages, leaf pages, other articles, and notes).  
   
 Email address | 
 
-By default, the email addresses of ToL scientific contributors are printed in the credit lines of certain ToL contributions (i.e., ToL branch pages, leaf pages, other articles, and notes) and on the [ToL Scientific Contributors](https://web.archive.org/tree/home.pages/participants.html) page. This makes it possible for visitors to the ToL site to contact ToL page authors with questions regarding their contributions. Throughout the ToL site, email addresses are encoded in order to protect them from being harvested by spambots.
+By default, the email addresses of ToL scientific contributors are printed in the credit lines of certain ToL contributions (i.e., ToL branch pages, leaf pages, other articles, and notes) and in the [ToL Scientific Contributors](https://web.archive.org/onlinecontributors/app?service=page/ScientificContributorsPage) list. This makes it possible for visitors to the ToL site to contact ToL page authors with questions regarding their contributions. Throughout the ToL site, email addresses are encoded in order to protect them from being harvested by spambots.
 
 Upon request, a contributor's e-mail address is withheld from publication on the ToL web site. If a contributor chooses to have his or her e-mail address withheld from publication, this address will be accessible only to ToL staff, who may contact the contributor for legal or administrative purposes.  
   
@@ -197,11 +195,11 @@ Optional Information  Address | Most ToL scientific contributors choose to have 
 ---|---  
 Web Page URL | 
 
-If a contributor has a home page on another web server, they can provide the URL for this page, and this URL is then published on the [ToL Scientific Contributors](https://web.archive.org/tree/home.pages/participants.html) page and in credit lines.  
+If a contributor has a home page on another web server, they can provide the URL for this page, and this URL is then published in the [ToL Scientific Contributors](https://web.archive.org/onlinecontributors/app?service=page/ScientificContributorsPage) list and in credit lines.  
   
 Phone and Fax | This information is never published on the ToL site. It is kept on file, so that ToL staff can contact scientific contributors to discuss their contributions as well as ToL administrative matters.  
-Biographical Information | ToL scientific contributors can provide biographical information to introduce themselves to ToL visitors. This text is printed on the [ToL Scientific Contributors](https://web.archive.org/tree/home.pages/participants.html) page.  
-Photo | Contributors can submit a photo of themselves, which may be displayed on the [ToL Scientific Contributors](https://web.archive.org/tree/home.pages/participants.html) page as well as in the credit lines for certain ToL contributions (i.e., ToL branch pages, leaf pages, other articles, and notes).  
+Biographical Information | ToL scientific contributors can provide biographical information to introduce themselves to ToL visitors. This text is printed in the [ToL Scientific Contributors](https://web.archive.org/onlinecontributors/app?service=page/ScientificContributorsPage) list.  
+Photo | Contributors can submit a photo of themselves, which may be displayed in the [ToL Scientific Contributors](https://web.archive.org/onlinecontributors/app?service=page/ScientificContributorsPage) page as well as in the credit lines for certain ToL contributions (i.e., ToL branch pages, leaf pages, other articles, and notes).  
   
 ### Guidelines for Children
 
