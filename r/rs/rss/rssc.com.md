@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rssc.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216235715id_/http%3A//www.rssc.com/about/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rssc.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615014758id_/http%3A//www.rssc.com/about/privacy.jsp) for the most accurate reproduction.*
 
-# Radisson Seven Seas Cruises : Privacy Policy
+# Regent Seven Seas Cruises : Privacy Policy
 
 We want to make your experience online satisfying and safe. We want to provide you with the means to control your privacy and give you a way to voice questions or concerns you may have.
 
@@ -12,7 +12,7 @@ We collect information in different ways. We collect the e-mail addresses of tho
 
 **Who Is Collecting the Information**
 
-The information that you provide is collected by this Company. We are a subsidiary of Carlson Companies, Inc., which is the parent corporation of a diversified, world-wide group of service corporations operating primarily in the business of hospitality, travel, e-commerce and relationship marketing. The customer-focused initiatives of Carlson Companies, Inc. are designed to deliver a broad range of personalized products and services to our customers. Our brands include Radisson Hotels, Country Inns & Suites by Carlson, Regent Hotels, Radisson Seven Seas Cruises, Carlson Vacation Ownership, Carlson Lifestyle Living, Carlson Travel Group, Gold Points, and Carlson Marketing Group. We have a major interest in Carlson Restaurants Worldwide (including TGI Friday's, Italianni's and other restaurant concepts), Carlson Wagonlit Travel and Thomas Cook Travel.
+The information that you provide is collected by this Company. We are a subsidiary of Carlson Companies, Inc., which is the parent corporation of a diversified, world-wide group of service corporations operating primarily in the business of hospitality, travel, e-commerce and relationship marketing. The customer-focused initiatives of Carlson Companies, Inc. are designed to deliver a broad range of personalized products and services to our customers. Our brands include Radisson Hotels, Country Inns & Suites by Carlson, Regent Hotels, Regent Seven Seas Cruises, Carlson Vacation Ownership, Carlson Lifestyle Living, Carlson Travel Group, Gold Points, and Carlson Marketing Group. We have a major interest in Carlson Restaurants Worldwide (including TGI Friday's, Italianni's and other restaurant concepts), Carlson Wagonlit Travel and Thomas Cook Travel.
 
 **How the Information Is Used**
 
@@ -30,7 +30,7 @@ There may be links that will let you leave our site. We do not control the links
 
 **Declining Offers**
 
-If you do not want to receive posted or e-mail offers from us or from our partners, please let us know by calling (800) 477-7500 or writing to us at Radisson Seven Seas Cruises, 600 Corporate Drive, Suite 410, Ft. Lauderdale, FL 33334 telling us that you do not want to receive offers. Our e-mailed offers include instructions for unsubscribing from e-mailed offers. If you want to be removed from our postal mailing list, please provide us with your complete name and address.
+If you do not want to receive posted or e-mail offers from us or from our partners, please let us know by calling (800) 477-7500 or writing to us at Regent Seven Seas Cruises, 1000 Corporate Drive, Suite 500, Ft. Lauderdale, FL 33334 telling us that you do not want to receive offers. Our e-mailed offers include instructions for unsubscribing from e-mailed offers. If you want to be removed from our postal mailing list, please provide us with your complete name and address.
 
 **What Kind of Security Procedures Are in Place to Protect the Loss, Misuse or Alteration of Information Under the Company's Control?**
 
