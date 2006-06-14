@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ironplanet.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219154850id_/http%3A//www.ironplanet.com/main/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ironplanet.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614144120id_/http%3A//www.ironplanet.com/main/privacy.jsp) for the most accurate reproduction.*
 
 # IronPlanet - Privacy Statement
 
-[Home](https://web.archive.org/index.shtml) > Privacy Statement
+[Home](https://web.archive.org/index.jsp) > Privacy Statement
 
 IronPlanet.com, Inc. (hereinafter referred to as "IronPlanet" or "we") is committed to protecting your privacy online. You are important to us, and we will take special care to maintain your trust. In order to fully understand your rights, we encourage you to read this Privacy Statement and to consult our Terms & Conditions. Please direct questions regarding this statement to [CustomerCare@ironplanet.com](mailto:customercare@ironplanet.com). 
 
