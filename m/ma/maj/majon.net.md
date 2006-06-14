@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the majon.net privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224164538id_/http%3A//www.majon.net/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the majon.net privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614021345id_/http%3A//majon.net/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
