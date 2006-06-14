@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the getmeregistered.com privacy policy that was archived on 2005-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050825104229id_/http%3A//getmeregistered.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getmeregistered.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614184302id_/http%3A//www.getmeregistered.com/privacy_policy.php) for the most accurate reproduction.*
 
 # GetMeRegistered.com Online Event Registration - privacy policy
 
-updated: September 8, 2004
+|  updated: September 8, 2004
 
 Get Me Registered, owner of GetMeRegistered.com, respects site visitors' personal privacy. This document describes how we use the information you provide. This policy applies only to Get Me Registered's use of your information as collected on this website. By providing your information during the use of this site, you attest your understanding and acceptance of this policy.
 
