@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the extendedstayhotels.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231054500id_/http%3A//www.extendedstayhotels.com/Privacy/Main.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extendedstayhotels.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615015805id_/http%3A//www.extendedstayhotels.com/Privacy/Main.asp) for the most accurate reproduction.*
 
 # Privacy, Security statements to protect our guests' privacy at Extended Stay Hotels.
 
-This privacy statement was created because we are committed to protecting Extended Stay Hotels SM and its four hotel brands, Extended StayAmerica Efficiency Studios, Homestead Studio Suites Hotels, StudioPLUS Deluxe Studios, and Crossland Economy Studios guests' privacy. The following discloses our security, information gathering and dissemination practices for the ExtendedStayHotels.com website. 
+This privacy statement was created because we are committed to protecting Extended Stay Hotels SM and its five hotel brands, Extended Stay Deluxe, Extended StayAmerica Efficiency Studios, Homestead Studio Suites Hotels, StudioPLUS Deluxe Studios, and Crossland Economy Studios guests' privacy. The following discloses our security, information gathering and dissemination practices for the ExtendedStayHotels.com website. 
 
-[Click Here](https://web.archive.org/web/20051231054500id_/http%3A//www.extendedstayhotels.com/Privacy/terms.asp) for our Terms of Use for the ExtendedStayHotels.com website. 
+[Click Here](https://web.archive.org/web/20060615015805id_/http%3A//www.extendedstayhotels.com/Privacy/terms.asp) for our Terms of Use for the ExtendedStayHotels.com website. 
 
   **Information Collection and Use**   
 HVM L.L.C. is the sole owner of the information collected on this website. HVM L.L.C. will not sell, share, or otherwise distribute your personal data to third parties. We collect information from our users at several different points on our website. 
