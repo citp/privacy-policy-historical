@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newyorklife.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230055242id_/http%3A//www.newyorklife.com/cda/0%2C3254%2C10564%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newyorklife.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614200841id_/http%3A//www.newyorklife.com/cda/0%2C3254%2C10564%2C00.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -52,6 +52,4 @@ MainStay Funds | NYLINK Insurance Agencies
 MainStay VP Series Fund, Inc. | NYL Executive Benefits LLC  
 NYL Executive Benefits LLC |   
   
-If you would like more detailed information about this site's privacy practices, please [click here.](https://web.archive.org/cda/0,3254,11092,00.html)
-
-. 
+If you would like more detailed information about this site's privacy practices, please [click here](https://web.archive.org/cda/0,3254,11092,00.html). 
