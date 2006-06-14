@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the preloved.co.uk privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229220413id_/http%3A//www.preloved.co.uk/fuseaction-privacy.default/589c4985.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preloved.co.uk privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614195802id_/http%3A//www.preloved.co.uk/fuseaction-privacy.default/589c4985.html) for the most accurate reproduction.*
 
 # Preloved | Buy and Sell Online for Free in UK and Ireland
 
@@ -14,7 +14,7 @@ In order to perform certain activities on Preloved, a user must first become a m
 The member may also choose to provide more information such as a complete address, demographic information, or other comments. This is not compulsory but encouraged, in order to provide us with a better understanding of how to improve the service to our members. 
 
 **Disclosing your personal information**   
-When joining Preloved, members are given the opportunity to specify whether to reveal their email address or telephone number to other Preloved members. The member must choose at least one of these methods of contact. These settings can be changed by visiting the members area at [http://www.preloved.co.uk/members/](http://www.preloved.co.uk/fuseaction-members.default/b7edd084.html) Members may also choose to disclose other personal information to Preloved members by adding this information in the members area. 
+When joining Preloved, members are given the opportunity to specify whether to reveal their email address or telephone number to other Preloved members. The member must choose at least one of these methods of contact. These settings can be changed by visiting the members area at [http://www.preloved.co.uk/members/](http://members.preloved.co.uk/fuseaction-members.default/b7edd084.html) Members may also choose to disclose other personal information to Preloved members by adding this information in the members area. 
 
 **Sharing Information**   
 Preloved Classifieds will not sell, share or rent your name, email address, or any other personal details to others. 
@@ -24,9 +24,9 @@ We may however share aggregated demographic information with our partners and ad
 **Newsletters and other email**   
 We send all new members a welcome message via email. We also send members conformation of new adverts placed by them, and advise when they are about to expire. 
 
-At the time of joining, members are offered the opportunity to opt in to receiving an email newsletter. This newsletter is published from time to time and containing news about the site, hints and tips, special offers, and other information that we feel would be of interest to our members. Members may at any time choose to no longer receive this information by visiting the members area at [http://www.preloved.co.uk/members/](http://www.preloved.co.uk/fuseaction-members.default/b7edd084.html), or by following the instructions in the email they receive. 
+At the time of joining, members are offered the opportunity to opt in to receiving an email newsletter. This newsletter is published from time to time and containing news about the site, hints and tips, special offers, and other information that we feel would be of interest to our members. Members may at any time choose to no longer receive this information by visiting the members area at [http://www.preloved.co.uk/members/](http://members.preloved.co.uk/fuseaction-members.default/b7edd084.html), or by following the instructions in the email they receive. 
 
-Members may choose to receive information of new adverts published to the site in their chosen category via email using our Ad Alert system. They may also choose to follow discussions in Bargain Banter via email. Members may opt to no longer receive this information at any time by visiting the members area at [http://www.preloved.co.uk/members/](http://www.preloved.co.uk/fuseaction-members.default/b7edd084.html), or by following the instructions in the email they receive. 
+Members may choose to receive information of new adverts published to the site in their chosen category via email using our Ad Alert system. They may also choose to follow discussions in Bargain Banter via email. Members may opt to no longer receive this information at any time by visiting the members area at [http://www.preloved.co.uk/members/](http://members.preloved.co.uk/fuseaction-members.default/b7edd084.html), or by following the instructions in the email they receive. 
 
 **Tell a friend**   
 In some areas of the web site, Preloved offers tools to allow users to send information to a friend. Preloved will send the friend a one-time email inviting them to visit the site. Preloved Classifieds does not store any information about the sender, the recipient, nor details of the message sent. 
@@ -36,10 +36,10 @@ We forbid other individuals or organisations from taking email addresses from th
 
 We actively protect members' email addresses from those programs that scan web sites, siphoning out email addresses for spam use. This is done to the best of our ability and current knowledge but without risking denial of access from our legitimate users. 
 
-If you believe a company or individual has obtained your email address from Preloved Classifieds and is not responding to a request for contact, please contact us at [http://www.preloved.co.uk/members/](http://www.preloved.co.uk/fuseaction-members.default/b7edd084.html), providing as much information as possible. We will take whatever action we feel is appropriate and within our power. 
+If you believe a company or individual has obtained your email address from Preloved Classifieds and is not responding to a request for contact, please contact us at [http://www.preloved.co.uk/members/](http://members.preloved.co.uk/fuseaction-members.default/b7edd084.html), providing as much information as possible. We will take whatever action we feel is appropriate and within our power. 
 
 **Viewing or changing your personal information**   
-Members may view all information that Preloved Classifieds stores about them as an individual, by visiting our members' area at [http://www.preloved.co.uk/members/](http://www.preloved.co.uk/fuseaction-members.default/b7edd084.html)
+Members may view all information that Preloved Classifieds stores about them as an individual, by visiting our members' area at [http://www.preloved.co.uk/members/](http://members.preloved.co.uk/fuseaction-members.default/b7edd084.html)
 
 Here, they may also correct their personal information and unsubscribe from future newsletters (see 'Newsletters and other email' above). 
 
