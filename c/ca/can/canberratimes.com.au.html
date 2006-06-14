@@ -1,431 +1,525 @@
-<!--The following is the downloaded HTML source of the canberratimes.com.au privacy policy that was archived on 2005-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050617102031id_/http%3A//canberra.yourguide.com.au/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the canberratimes.com.au privacy policy that was archived on 2006-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615005714id_/http%3A//canberra.yourguide.com.au/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
+	<link href="/_includes/css/print.css" rel="stylesheet" type="text/css" media="print">
   <meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
-  <meta name="keywords" content="News, Canberra">
-<meta name="description" content="The Canberra Times Newspaper">
-<meta name="copyright" content="©2000 Rural Press Ltd.">
+  <meta name="keywords" content="News, Newspaper, Rural">
+<meta name="description" content="Ruralpress Limited Newspapers">
+<meta name="copyright" content="© 2000 Rural Press Ltd.">
 
   <title>canberra.yourguide</title>
 
+	<script type="text/javascript" language="JavaScript" src="/_includes/js/validation.js"></script>
 	<script language="JavaScript">
-		function LOver(cobj,lobj,bgclr,lclr)
+
+		function SubmitPoll(check_field)
 		{
-		cobj.backgroundColor=bgclr;
-		lobj.color=lclr;
+
+			fCheck = true
+
+			AtLeastOneSelected(document.poll_form, check_field, "checkbox","Readers Poll: Please select an option");
+
+
+			if (fCheck)
+			{
+				//document.poll_form.submit()
+				return true;
+			}
+			else {
+				return false;
+				
+			}
 		}
 
-		function openWin(fname,winname) 
-		{
-	  	ModalWin = window.open(fname,winname,"resizeable=no, scrollbars=yes, width=480, height=300");
+
+		function AtLeastOneSelected(which_form, element_name, check_mode, alert_message){
+			if (fCheck) {
+				fCheck = false;
+				with (window.document) {
+					for ( i=0; i < which_form.elements.length; i++ ) {
+						current_name = which_form.elements[i].name
+						if (current_name.substring(0,element_name.length) == element_name) {
+							if ((check_mode == "checkbox" && which_form.elements[i].checked == true) || (check_mode == "text_field" && which_form.elements[i].value != "")) {
+								fCheck = true;
+								break;
+							}
+						}
+					}
+				}
+				if (fCheck == false){
+					alert(alert_message);
+				}
+			}
 		}
-	</script>
-
-  <style type="text/css"><!--
-   a { text-decoration: none }-->
-  </style>
-
- </head>
-
-
-<body bgcolor="white" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" vlink="#003366" "="">
-
-
-
-<!-- Include virtual="/_includes/grey_header.inc" -->
-
-
-
-<table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#ffffff">
-	<tbody><tr>
-		<td valign="top" bgcolor="#333366">
-			<table border="0" cellpadding="0" cellspacing="0" width="180" bgcolor="#666699">
-				<tbody><tr>	
-					<td width="10" bgcolor="#666699"><img src="/images/general/space.gif" width="1" height="20"></td>
-					<td bgcolor="#666699"><a href="http://www.yourguide.com.au" target="_top"><font face="Verdana,Geneva,Swiss,Helvetica,Arial" color="#FFFFFF" size="2">www.yourguide.com.au</font></a></td>
-					<td width="8" bgcolor="#666699">&nbsp;</td>
-					<td bgcolor="#666699" valign="bottom"><img src="/images/general/tab_fronttop_r.gif" width="10" height="20"></td>
-				</tr>
-			</tbody></table>
-		</td>
-		<td bgcolor="#333366" width="100%"><img height="1" width="5" src="/images/general/space.gif"></td>
-<td align="right" rowspan="2" valign="top"></td>
-		<td bgcolor="#333366"><img height="1" width="5" src="/images/general/space.gif"></td>
-	</tr>
-	<tr>
-		<td colspan="2">
-	
-							<a href="/home.asp"><img src="/images/location/133.gif" border="0" align="middle" hspace="0" vspace="10"></a><br>
-						
-		</td>
-
-		<td><img height="1" width="5" src="/images/general/space.gif"></td>
-	</tr>
-</tbody></table>
-
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-
-<!-- Page Head Start -->
-
-	<tbody><tr>		
-		<td width="5"><img height="1" width="5" src="/images/general/space.gif"></td>
-	
-		<td width="156" name="nav_col_r1" bgcolor="#333366">&nbsp;<font face="Verdana,Geneva,Swiss,Helvetica,Arial" color="#FFFFFF" size="1">Inside Yourguide</font><img height="1" width="156" src="/images/general/space.gif"></td>
-
-		<td width="1" name="line_col_r1" bgcolor="#ffffff"><img height="1" width="1" src="/images/general/space.gif"></td>
-
-		<td width="10" name="space_col_r1" bgcolor="#333366"><img height="1" width="10" src="/images/general/space.gif"></td>
-
-		<td name="content_col_r1" bgcolor="#333366" colspan="3">
-			<table border="0" cellpadding="0" cellspacing="0" width="100%">
-				<tbody><tr>
-					<td><font face="Verdana,Geneva,Swiss,Helvetica,Arial" color="#FFFFFF" size="2"><b>Yourguide Information </b><font size="1">- Friday, 17 June 2005</font></font></td>
-					<td align="right"><font face="Verdana,Geneva,Swiss,Helvetica,Arial" color="#FFFFFF" size="1">canberra.yourguide.com.au&nbsp;&nbsp;</font></td>
-				</tr>
-			</tbody></table>
-		</td>
-		<td width="5"><img height="17" width="5" src="/images/general/space.gif"></td>
-
-	</tr>
-
-<!-- Page Head End -->
-
-<!-- Body Content start -->
-
-	<tr>
-		<td width="5"><img height="1" width="5" src="/images/general/space.gif"></td>
-	
-		<td width="156" name="nav_col_r1" valign="top">
-
-	<!-- Nav start -->
-
-			 
-
-	        <table border="0" cellpadding="0" cellspacing="0" width="100%">
-				<tbody><tr>
-					<td width="100%" valign="top"><img src="/images/general/space.gif" width="1" height="5" name="topleft" border="0"><br>
-
-<font face="Arial,Geneva,Swiss,Helvetica,Arial" size="2">&lt; </font><a href="/display.asp?class=news" class="nav"><font color="#000000" face="Verdana,Geneva,Helvetica,sans-serif" id="nav1" size="2">News</font></a><br><font face="Arial,Geneva,Swiss,Helvetica,Arial" size="2">&lt; </font><a href="/display.asp?class=sport" class="nav"><font color="#000000" face="Verdana,Geneva,Helvetica,sans-serif" id="nav1" size="2">Sport</font></a><br><font face="Arial,Geneva,Swiss,Helvetica,Arial" size="2">&lt; </font><a href="/display.asp?class=features" class="nav"><font color="#000000" face="Verdana,Geneva,Helvetica,sans-serif" id="nav1" size="2">Features</font></a><br><img src="/images/general/space.gif" width="1" height="1" name="temp"><font face="Arial,Geneva,Swiss,Helvetica,Arial" size="2">&lt; <a href="/displayops.asp?class=your%20say" class="nav"><font face="Verdana,Geneva,Helvetica,sans-serif" id="nav1" size="2">Have your say</font></a></font><br>
-				<img src="/images/general/space.gif" width="1" height="3" name="topleft" border="0"><br>
-
-						<img src="/images/general/space.gif" width="1" height="1" name="temp"><font face="Arial,Geneva,Swiss,Helvetica,Arial" size="2">&lt; </font><a href="/weather.asp" class="nav"><font color="#333366" face="Verdana,Geneva,Helvetica,sans-serif" id="nav1" size="2">Weather</font></a><br>
-						<img src="/images/general/space.gif" width="1" height="3" name="topleft" border="0"><br>
-
-						<font face="Arial,Geneva,Swiss,Helvetica,Arial" size="2">&lt; </font><a href="/sitemail.asp?class=site%20email" class="nav">
-						<font color="#333366" face="Verdana,Geneva,Helvetica,sans-serif" id="nav1" size="2">Email us</font></a><br>
-						<img src="/images/general/space.gif" width="1" height="3" name="topleft" border="0"><br>
-
-						<img src="/images/general/space.gif" width="1" height="1" name="temp"><font face="Arial,Geneva,Swiss,Helvetica,Arial" size="2">&lt; </font><a href="/display_community.asp?calclass=Community" class="nav"><font color="#333366" face="Verdana,Geneva,Helvetica,sans-serif" id="nav1" size="2">Local Info</font></a><br>
-						<img src="/images/general/space.gif" width="1" height="3" name="topleft" border="0"><br>
-<font face="Arial,Geneva,Swiss,Helvetica,Arial" size="2">&lt; </font><a href="/special.asp?class=special" class="nav"><font face="Verdana,Geneva,Helvetica,sans-serif" id="nav1" size="2">Special Features</font></a><font face="Arial,Geneva,Swiss,Helvetica,Arial" size="2"></font><br><img src="/images/general/space.gif" width="1" height="3" name="topleft" border="0"><br>
-						<img src="/images/general/space.gif" width="1" height="1" name="temp"><font face="Arial,Geneva,Swiss,Helvetica,Arial" size="2">&lt; </font><a href="/about.asp?department_id=12" class="nav"><font color="#333366" face="Verdana,Geneva,Helvetica,sans-serif" id="nav1" size="2">How to subscribe</font></a><br>
-						<img src="/images/general/space.gif" width="1" height="3" name="topleft" border="0"><br>
-
-
-
-						<img src="/images/general/space.gif" width="1" height="1" name="temp"><font face="Arial,Geneva,Swiss,Helvetica,Arial" size="2">&lt; </font><a href="/about.asp?department_id=2" class="nav"><font color="#333366" face="Verdana,Geneva,Helvetica,sans-serif" id="nav1" size="2">How to advertise</font></a><br>
-						<img src="/images/general/space.gif" width="1" height="3" name="topleft" border="0"><br>
-
-						<img src="/images/general/space.gif" width="1" height="1" name="temp"><font face="Arial,Geneva,Swiss,Helvetica,Arial" size="2">&lt; </font><a href="/about.asp" class="nav"><font color="#333366" face="Verdana,Geneva,Helvetica,sans-serif" id="nav1" size="2">Contact Us</font></a><br>
-						<img src="/images/general/space.gif" width="1" height="3" name="topleft" border="0"><br>
-
-
-						<!--<a href="/display_visit.asp" class="nav"><font color="#333366" face="Verdana,Geneva,Helvetica,sans-serif" id="nav1" size="2">TravelGuide</font></a><br>
-						<img src="/images/general/space.gif" width="1" height="3" name="topleft" border="0"><br>-->
-
-						<!--<a href="/about.asp" class="nav"><font color="#333366" face="Verdana,Geneva,Helvetica,sans-serif" id="nav1" size="2">About the<BR>The Canberra Times</font></a><br>
-						<img src="/images/general/space.gif" width="1" height="3" name="topleft" border="0"><br><BR>-->
-
-						<!--<a href="/display_classies.asp" class="nav"><font color="#333366" face="Verdana,Geneva,Helvetica,sans-serif" id="nav1" size="2">ClassifiedGuide</font></a><br>
-						<img src="/images/general/space.gif" width="1" height="3" name="topleft" border="0"><br>
-						-->
-
-						<br>
-
-
-						<font color="#333366" face="Verdana,Geneva,Helvetica,sans-serif" id="nav1" size="2"><b>Buy / Sell</b></font><br>
-						<img src="/images/general/space.gif" width="1" height="3" name="topleft" border="0"><br>
-
-						<img src="/images/general/space.gif" width="1" height="1" name="temp"><font face="Arial" size="2">&lt; </font><a href="/searchclas.asp"><font face="Verdana" size="2">View Classifieds</font></a><br><img src="/images/general/space.gif" width="1" height="3" name="topleft" border="0"><br><img src="/images/general/space.gif" width="1" height="1" name="temp"><font face="Arial" size="2">&lt; </font><a href="/sitemail_classifieds.asp"><font face="Verdana" size="2">Place Classified ads</font></a><br><img src="/images/general/space.gif" width="1" height="3" name="topleft" border="0"><br><img src="/images/general/space.gif" width="1" height="1" name="temp"><font face="Arial" size="2">&lt; </font><a href="/freeclassies/index.asp"><font face="Verdana" size="2">Place Free Classifieds</font></a><br><img src="/images/general/space.gif" width="1" height="3" name="topleft" border="0"><br>
-
-						<img src="/images/general/space.gif" width="1" height="1" name="temp"><font face="Arial,Geneva,Swiss,Helvetica,Arial" size="2">&lt; </font><a href="/guideredir.asp?type=auto"><font color="#333366" face="Verdana,Geneva,Helvetica,sans-serif" id="nav1" size="2">autoguide</font></a><br>
-						<img src="/images/general/space.gif" width="1" height="3" name="topleft" border="0"><br>
-
-						<img src="/images/general/space.gif" width="1" height="1" name="temp"><font face="Arial,Geneva,Swiss,Helvetica,Arial" size="2">&lt; </font><a href="/guideredir.asp?type=job"><font color="#333366" face="Verdana,Geneva,Helvetica,sans-serif" id="nav1" size="2">jobsguide</font></a><br>
-						<img src="/images/general/space.gif" width="1" height="3" name="topleft" border="0"><br>
-
-						<img src="/images/general/space.gif" width="1" height="1" name="temp"><font face="Arial,Geneva,Swiss,Helvetica,Arial" size="2">&lt; </font><a href="/guideredir.asp?type=localdirectory"><font color="#333366" face="Verdana,Geneva,Helvetica,sans-serif" id="nav1" size="2">localdirectory</font></a><br>
-						<img src="/images/general/space.gif" width="1" height="3" name="topleft" border="0"><br>
-
-						<img src="/images/general/space.gif" width="1" height="1" name="temp"><font face="Arial,Geneva,Swiss,Helvetica,Arial" size="2">&lt; </font><a href="/guideredir.asp?type=property"><font color="#333366" face="Verdana,Geneva,Helvetica,sans-serif" id="nav1" size="2">propertyguide</font></a><br>
-						<img src="/images/general/space.gif" width="1" height="3" name="topleft" border="0"><br><br>
-
-
-
-
-
-
-						<font color="#333366" face="Verdana,Geneva,Helvetica,sans-serif" id="nav1" size="2"><b>Local Links</b></font><br>
-						<img src="/images/general/space.gif" width="1" height="3" name="topleft" border="0"><br>
-						
-
-						<table border="0" cellpadding="0" cellspacing="0" width="100%">
-							<tbody><tr>
-								<td valign="top"><img src="/images/general/space.gif" width="1" height="1" name="temp"><font face="Arial,Geneva,Swiss,Helvetica,Arial" size="2">&lt;&nbsp;</font></td>
-								<td valign="top">
-									<a href="http://www.business.act.gov.au" class="nav" target="_blank"><font color="#333366" face="Verdana,Geneva,Helvetica,sans-serif" id="nav1" size="2">ACT Business Gateway</font></a><br>
-						<img src="/images/general/space.gif" width="1" height="3" name="topleft" border="0"><br>
-								</td>
-							</tr>
-						</tbody></table>
-
-						
-
-						<table border="0" cellpadding="0" cellspacing="0" width="100%">
-							<tbody><tr>
-								<td valign="top"><img src="/images/general/space.gif" width="1" height="1" name="temp"><font face="Arial,Geneva,Swiss,Helvetica,Arial" size="2">&lt;&nbsp;</font></td>
-								<td valign="top">
-									<a href="http://www.act.gov.au" class="nav" target="_blank"><font color="#333366" face="Verdana,Geneva,Helvetica,sans-serif" id="nav1" size="2">ACT Government</font></a><br>
-						<img src="/images/general/space.gif" width="1" height="3" name="topleft" border="0"><br>
-								</td>
-							</tr>
-						</tbody></table>
-
-						
-
-						<table border="0" cellpadding="0" cellspacing="0" width="100%">
-							<tbody><tr>
-								<td valign="top"><img src="/images/general/space.gif" width="1" height="1" name="temp"><font face="Arial,Geneva,Swiss,Helvetica,Arial" size="2">&lt;&nbsp;</font></td>
-								<td valign="top">
-									<a href="http://www.legassembly.act.gov.au" class="nav" target="_blank"><font color="#333366" face="Verdana,Geneva,Helvetica,sans-serif" id="nav1" size="2">ACT Legislative Assembly</font></a><br>
-						<img src="/images/general/space.gif" width="1" height="3" name="topleft" border="0"><br>
-								</td>
-							</tr>
-						</tbody></table>
-
-						
-
-						<table border="0" cellpadding="0" cellspacing="0" width="100%">
-							<tbody><tr>
-								<td valign="top"><img src="/images/general/space.gif" width="1" height="1" name="temp"><font face="Arial,Geneva,Swiss,Helvetica,Arial" size="2">&lt;&nbsp;</font></td>
-								<td valign="top">
-									<a href="http://www.legislation.act.gov.au" class="nav" target="_blank"><font color="#333366" face="Verdana,Geneva,Helvetica,sans-serif" id="nav1" size="2">ACT Government legislation</font></a><br>
-						<img src="/images/general/space.gif" width="1" height="3" name="topleft" border="0"><br>
-								</td>
-							</tr>
-						</tbody></table>
-
-						
-
-								<img src="/images/general/space.gif" width="1" height="1" name="temp"><font face="Arial,Geneva,Swiss,Helvetica,Arial" size="2">&lt;&nbsp;</font><a href="/links.asp" class="nav"><font color="#333366" face="Verdana,Geneva,Helvetica,sans-serif" id="nav1" size="2">Other</font></a><br>
-								<img src="/images/general/space.gif" width="1" height="3" name="topleft" border="0"><br><br>
-
-
-						
-
-
-
-						<br><br><br>
-
-
-						<font face="Arial,Geneva,Swiss,Helvetica,Arial" size="1">&lt; </font><a href="/home.asp" class="nav"><font color="#333366" face="Verdana,Geneva,Helvetica,sans-serif" id="nav1" size="1">Home</font></a><br>
-						<img src="/images/general/space.gif" width="3" height="3" name="topleft" border="0"><br>
-
-						<font face="Arial,Geneva,Swiss,Helvetica,Arial" size="1">&lt; </font><a href="/search.asp" class="nav"><font color="#333366" face="Verdana,Geneva,Helvetica,sans-serif" id="nav1" size="1">Search</font></a><br>
-						<img src="/images/general/space.gif" width="3" height="3" name="topleft" border="0"><br>
-
-						<font face="Arial,Geneva,Swiss,Helvetica,Arial" size="1">&lt; </font><a href="/help.asp" class="nav"><font color="#333366" face="Verdana,Geneva,Helvetica,sans-serif" id="nav1" size="1">Help</font></a><br>
-						<img src="/images/general/space.gif" width="1" height="3" name="topleft" border="0"><br>
-
-						<font face="Arial,Geneva,Swiss,Helvetica,Arial" size="1">&lt; </font><a href="/privacy.asp" class="nav"><font color="#333366" face="Verdana,Geneva,Helvetica,sans-serif" id="nav1" size="1">Privacy Policy</font></a><br>
-						<img src="/images/general/space.gif" width="1" height="3" name="topleft" border="0"><br>
-
-						<font face="Arial,Geneva,Swiss,Helvetica,Arial" size="1">&lt; </font><a href="/legal.asp" class="nav"><font color="#333366" face="Verdana,Geneva,Helvetica,sans-serif" id="nav1" size="1"> Copyright</font></a><br>
-						<img src="/images/general/space.gif" width="1" height="3" name="topleft" border="0">
-
-
-								<br><img src="/images/general/space.gif" width="130" height="1"><br>
-
-					</td>
-	         	</tr>
-	        </tbody></table> <br><img height="1" width="156" src="/images/general/space.gif">
-
-	<!-- Nav end -->
-
-		</td>
-		<td width="1" name="line_col_r1" bgcolor="#333366"><img height="1" width="1" src="/images/general/space.gif"></td>
-		<td width="10" name="space_col_r1"><img height="1" width="10" src="/images/general/space.gif"></td>
-		<td name="content_col_r1" valign="top">
-
-	<!-- Content start -->
-
-		<img height="5" width="1" src="/images/general/space.gif"><br><font face="Verdana,Geneva,Swiss,Helvetica,Arial" size="1" color="#333366"><b>Privacy policy</b></font><br>
-
-			<table border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-					<td width="5" height="1"><img src="/images/general/space.gif" width="1" height="1"></td>
-					<td>
-
-
-
-
-
-			<table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="white">
-       <tbody><tr>
-        <td valign="top"><br><br>
-
-
-<font face="Verdana,Geneva,Swiss,Helvetica,Arial" size="2">The internet has changed the way we live, read and communicate. It has turned the world into an intimate global village. But now that we're all closer together it's important to Rural Press Limited to help its customers retain their privacy while they are online.</font><br><br>
-
-<font face="Verdana,Geneva,Swiss,Helvetica,Arial" size="2">To ensure your privacy Rural Press Limited adheres to the following principles in accordance with worldwide practices for customer privacy and data protection. <br><br>
-			For more information on privacy please see the <a href="http://www.ruralpress.com/ruralpress/corp/privacy.html">Rural Press Privacy Policy</a>.
-	</font><br><br>
-
-<font face="Verdana,Geneva,Swiss,Helvetica,Arial" size="2" color="#3333cc"><b>Notice</b></font><br>
-<font face="Verdana,Geneva,Swiss,Helvetica,Arial" size="2">You may be asked for information that personally identifies you (personal information) or allows us to contact you. <br><br>
-
-Generally, this information is requested when you create a Registration ID on the site or when you download free software, enter a contest, order e-mail newsletters or join a limited-access premium site. <br><br>
-
-Rural Press will use your Personal Information for these primary purposes: <br>
-To make the site easier for you to use by not having to enter information more than once. <br>
-To help you quickly find services or information. <br>
-To help us create content most relevant to you. <br>
-To alert you to product upgrades, special offers, updated information and other new services from Rural Press Interactive <br><br>
-
-<font face="Verdana,Geneva,Swiss,Helvetica,Arial" size="2" color="#3333cc"><b>Consent</b></font><br>
-<font face="Verdana,Geneva,Swiss,Helvetica,Arial" size="2">If you choose not to register or provide personal information, you can still use most of yourguide or its associated web sites but you will not be able to access areas that require registration. <br><br>
-
-If you decide to register, you will be able to select the kinds of information you want to receive from yourguide by subscribing to various services. If you do not want the yourguide to communicate with you about other offers regarding products, programs, events, or services by e-mail, postal mail, or telephone, you may select the option stating that you do not wish to receive marketing messages from yourguide. <br><br>
-
-Yourguide occasionally allows other companies to offer our registered customers information about their products and services, using postal mail only. If you do not want to receive these offers, you may select the option stating that you do not wish to receive marketing materials from third parties. <br><br>
-
-<font face="Verdana,Geneva,Swiss,Helvetica,Arial" size="2" color="#3333cc"><b>Security</b></font><br>
-Yourguide has taken strong measures to protect the security of your personal information and to ensure that your choices for its intended use are honoured. We take strong precautions to protect your data from loss, misuse, unauthorised access or disclosure, alteration, or destruction. <br><br>
-
-<font face="Verdana,Geneva,Swiss,Helvetica,Arial" size="2" color="#3333cc"><b>Enforcement</b></font><br>
-If for some reason you believe the yourguide has not adhered to these principles, please notify us by e-mail at <a href="mailto:homepage@ruralpress.com">homepage@ruralpress.com</a>, and we will do our best to determine and correct the problem promptly.<br><br> 
-
-<font face="Verdana,Geneva,Swiss,Helvetica,Arial" size="2" color="#3333cc"><b>Notice to parents</b></font><br>
-Parents or guardians: We want to help you guard your children's privacy. <br><br>
-
-We encourage you to talk to your children about safe and responsible use of their Personal Information while using the Internet.<br><br>
-
-<font face="Verdana,Geneva,Swiss,Helvetica,Arial" size="2" color="#3333cc"><b>Use of Internet cookies</b></font>
- 
-<br>Rural Press may use cookies to assist its web site users in accessing information on its sites which is of interest and relevance. Cookies are a way of storing information on a computer so users do not have to enter the same data every time they access an Internet site. We may also use cookies to assist in site functionality or with site visitor statistics, but we do not store any personal details when this is done
- 
-<br><br>If users have any concerns about this technology and do not wish to accept cookies, they can set the browser on their PC to not accept them or to prompt user every time they are about to be stored on the PC. The choice is with the user.
-
-</font>
-
-        </font></td>
-
-        </tr>
-      </tbody></table>
-
-
-
-					</td>
-					<td width="5" height="1"><img src="/images/general/space.gif" width="1" height="1"></td>	
-				</tr>
-			</tbody></table>
-
-	<!-- Content end -->
-
-		</td>
-		<td width="10" name="space_col_r1"><img height="1" width="10" src="/images/general/space.gif"></td>
-		<td width="130" name="ad_col_r1" bgcolor="#E4E2C0" valign="top" align="center">
-			<!-- Ad start -->
-
-			     <table border="0" cellpadding="0" cellspacing="0" width="100%">
-      <tbody><tr>
-       <td>
-        <center>
-         <img src="/images/general/space.gif" width="130" height="3" align="bottom"><br>
-
-
-<a href="http://www.ruralbookshop.com.au" target="_blank"><img src="/ads/ruralbookshop/120x60.gif" width="120" height="60" border="0" alt="ruralbookshop"></a><br><img src="/images/general/space.gif" width="130" height="3"><br>
-<a href="http://www.farmonline.com.au/member_join.asp" target="_blank"><img src="/ads/daily_ag_news/120x130.gif" width="120" height="140" border="0" alt="Farmonline Daily AG News"></a><br><img src="/images/general/space.gif" width="130" height="3"><br>
-
-
-       </center></td>
-      </tr>
-     </tbody></table>
-
-
-
-<!-- section_id : 8 -->
-
-			<br><img height="1" width="130" src="/images/general/space.gif">
-			<!-- Ad end -->
-		</td>
-		<td width="5"><img height="17" width="5" src="/images/general/space.gif"></td>
-	</tr>
-
-<!-- Body Content end -->
-
-<!-- Base start -->
-
-	<tr>
-		<td width="5"><img height="1" width="5" src="/images/general/space.gif"></td>
-		<td width="156" name="nav_col_r3"><img height="1" width="156" src="/images/general/space.gif"></td>
-		<td width="1" name="line_col_r3"><img height="1" width="1" src="/images/general/space.gif"></td>
-		<td width="10" name="space_col_r3"><img height="1" width="10" src="/images/general/space.gif"></td>
-		<td name="content_col_r3">
-
-
-		<table border="0" cellpadding="0" cellspacing="0" width="100%">
-	<tbody><tr>
-		<td width="100%"><font face="Verdana,Geneva,Swiss,Helvetica,Arial" color="#FFFFFF" size="1"> - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - </font></td>
-	</tr>
-</tbody></table>
-
-		</td>
-		<td width="10" name="space_col_r3"><img height="1" width="10" src="/images/general/space.gif"></td>
-		<td width="130" name="ad_col_r3"><img height="1" width="130" src="/images/general/space.gif"></td>
-		<td width="5"><img height="17" width="5" src="/images/general/space.gif"></td>
-	</tr>
-
-<!-- Base end -->
-
-</tbody></table>
-
-<table width="100%" border="0">
-	<tbody><tr><td bgcolor="#333366"><img src="/images/general/space.gif" width="1" height="15"></td></tr>
-	<tr><td bgcolor="#FFFFFF"><img src="/images/general/space.gif" width="1" height="10"></td></tr>
-
-	<tr>
-		<td width="100%">
-		<!-- Google Adsense Starts Here -->
-		<center>
-			<script type="text/javascript">
-				google_ad_client = "pub-7617671539297056";
-				google_ad_width = 728;
-				google_ad_height = 90;
-				google_ad_format = "728x90_as";
-				google_ad_channel ="";
-				google_color_border = "336699";
-				google_color_bg = "FFFFFF";
-				google_color_link = "0000FF";
-				google_color_url = "008000";
-				google_color_text = "000000";
-			</script>
-
-			<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-			</script>
-
-			<table width="100%" border="0"><tbody><tr>
-<td><img src="/images/general/space.gif" width="15" height="1"></td>
-<td width="100%" align="center">
 
 		
-		<!-- Google Adsense Ends Here -->
+
+
+		/****************************************************************
+		* validateimage												*
+		*														*
+		* This function is triggered by the 'onerror' property of the front cover image	*
+		* tag. When no cover image file is available, this function hides the image cell	*
+		* altogether.												*
+		*														*
+		* Missing cover images are handled in this way because they are located on	*
+		* a different site. i.e. the presence of a filename in the yourguide database	*
+		* is assumed to be no guarantee that the image file is actually available.	*
+		****************************************************************/
+		function validateimage(strPubID) {
+			//var strMyImageID = 'img_frontcover' + strPubID;
+			//var strMyImageURL = 'http://idesk.ruralpress.com/_upload/_frontpages/' + strPubID + '_thumbnail2.jpg';
+			var strMyFrontCoverCellID = 'cell_frontcover' + strPubID;
+			var strMyFrontCoverDividerCellID = 'cell_frontcover_divider' + strPubID;
+			var MyCellObject;
+			MyCellObject = document.getElementById(strMyFrontCoverCellID);
+
+					// Hide the Front cover cell entirely.
+			if (MyCellObject) {
+				MyCellObject.innerHTML = '';
+				//MyCellObject.innerHTML = "<img src='/images/general_new/white.gif' width='151' height='221' style='border:1px solid #999999;' >";
+			}
+
+			// Also hide the spacer cell beneath the front cover cell.
+			MyCellObject = document.getElementById(strMyFrontCoverDividerCellID);
+			if (MyCellObject) {
+				MyCellObject.innerHTML = '';
+				//MyCellObject.innerHTML = "<img src='/images/general_new/white.gif' width='151' height='221' style='border:1px solid #999999;' >";
+			}
+		}
+
+	</script>
+
+	
+
+	<script src="/_includes/js/common_functions.js" language="JavaScript"></script>
+	<script src="/_includes/js/browser_check.js" language="JavaScript"></script>
+	<script language="JavaScript" src="/_includes/js/Calendar/popcalendar.js"></script></head><body bgcolor="white" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" vlink="#666699" onload="javascript:setFocusToContent();"><div onclick="bShow=true" id="calendar" onmouseover="document.all.close.src='_includes/js/Calendar/images/close.gif'" onmouseup="document.all.close.src='_includes/js/Calendar/images/close.gif'" style="z-index:+999;position:absolute;visibility:hidden;"><table cellpadding="0" cellspacing="0" width="200" style="font-family:arial;font-size:11px;border-width:1px;border-style:solid;border-color: #666666;font-family:arial; font-size:11px}" bgcolor="#ffffff"><tbody><tr bgcolor="#D4D0C8"><td><table cellpadding="2" cellspacing="0" width="218"><tbody><tr><td nowrap="" style="padding:2px;font-family:arial; font-size:11px;" align="right"><font color="#000000"><b><span id="caption"></span></b></font></td><td nowrap="" align="right"><a href="javascript:hideCalendar()" onmousedown="document.all.close.src='_includes/js/Calendar/images/close2.gif'" onmouseover="popDownYear(); popDownMonth();"><img id="close" src="_includes/js/Calendar/images/close.gif" width="16" height="14" border="0" alt="Close the Calendar" align="absmiddle"></a>&nbsp;</td></tr></tbody></table></td></tr><tr><td style="padding:5px" bgcolor="#ffffff"><span id="content"></span></td></tr><tr bgcolor="#666666"><td style="padding:5px" align="center"><span id="lblToday"></span></td></tr></tbody></table></div><div id="selectMonth" onmouseover="document.all.spanMonth.style.borderColor='#666666';" style="z-index:+999;position:absolute;visibility:hidden;"></div><div id="selectYear" onmouseover="document.all.spanYear.style.borderColor='#666666';" style="z-index:+999;position:absolute;visibility:hidden;"></div>
+
+	<script language="JavaScript">
+	if ( is_mac ){
+		keystroke = ' Option ';
+		if ( is_nav )
+			document.write("<link href='/_includes/css/mac.css' rel='stylesheet' type='text/css'>");
+		else if ( is_ie5up )
+			document.write("<link href='/_includes/css/pc_ie.css' rel='stylesheet' type='text/css'>");
+		else 
+			document.write("<link href='/_includes/css/mac.css' rel='stylesheet' type='text/css'>");
+		}
+	else {
+		keystroke = ' Control ';
+		if ( is_nav )
+			document.write("<link href='/_includes/css/pc_nav.css' rel='stylesheet' type='text/css'>");
+		else
+			document.write("<link href='/_includes/css/pc_ie.css' rel='stylesheet' type='text/css'>");
+	}
+
+
+	function setFocusToContent()
+	{
+		var theContent = document.getElementById("mainContentPrint");
+		//theContent.focus();
+
+	
+	}
+	</script><link href="/_includes/css/pc_nav.css" rel="stylesheet" type="text/css">
+
+	
+
+ 
+
+
+
+
+<table id="mainTablePrint" border="0" cellpadding="0" cellspacing="0" width="940px" align="center">
+	<tbody><tr id="topTabsPrint">	
+		<td width="4px"><img src="/images/general_new/tabend.gif" width="4px" height="21px" border="0"></td>
+		<td width="6px"><img src="/images/general_new/tableft.gif" width="6px" height="21px" border="0"></td>
+		<td nowrap=""><table border="0" cellpadding="0" cellspacing="0" valign="middle" class="Tab" width="100%"><tbody><tr><td nowrap="" align="center">&nbsp;<a href="http://www.yourguide.com.au">yourguide</a>&nbsp;&nbsp;</td><td nowrap="" align="center"><img src="/images/general_new/tabdivider.gif" width="5px" height="21px" border="0"></td><td nowrap="">&nbsp;&nbsp;<a href="/home.asp">canberra</a>&nbsp;</td></tr></tbody></table></td>
+		<td width="6px"><img src="/images/general_new/tabright.gif" width="6px" height="21px" border="0"></td>
+		<td class="TabBeside" width="55%">&nbsp;
+		Canberra news, classifieds and community.</td>
+		<td class="TabBeside" align="right"><a href="http://www.propertyguide.com.au" target="_blank">propertyguide</a>&nbsp;&nbsp;<a href="http://www.jobsguide.com.au" target="_blank">jobsguide</a>&nbsp;&nbsp;<a href="http://www.autoguide.com.au" target="_blank">autoguide</a>&nbsp;&nbsp;<a href="http://www.farmonline.com.au" target="_blank">farmonline</a>&nbsp;</td>
+	</tr>
+
+	<tr>
+		
+		<td colspan="6">
+			
+			<!-- OVERALL TABLE -->
+			<table border="0" cellpadding="0" cellspacing="0" width="100%" align="center">
+			<tbody><tr>
+			<td bgcolor="#F9F9F9" width="1px"><img src="/images/general/space.gif" width="1px" height="100%" border="0"></td>
+			<td bgcolor="#F3F3F3" width="1px"><img src="/images/general/space.gif" width="1px" height="100%" border="0"></td>
+			<td bgcolor="#F3F3F3" width="1px"><img src="/images/general/space.gif" width="1px" height="100%" border="0"></td>
+			<td bgcolor="#E9E7E7" width="1px"><img src="/images/general/space.gif" width="1px" height="100%" border="0"></td>
+			<td class="OverallBorder">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%" class="MastBorder">
+				<tbody><tr>
+					<td>
+						<table border="0" cellpadding="0" cellspacing="0" width="100%" class="MastBack">
+							<tbody><tr><td height="69">&nbsp;&nbsp;&nbsp;<a href="/home.asp">The Canberra Times</a></td>
+							<td height="69" align="right" valign="middle"><table border="0" cellpadding="0" cellspacing="0" width="100%" align="center"><tbody><tr><td><img src="/images/general/space.gif" height="4" width="1" border="0"></td></tr></tbody></table>
+								<!--sPubId=2--><a href="http://adsfac.net/link.asp?cc=BPG010.14895.0" target="_blank"><img src="http://adsfac.net/ag.asp?cc=BPG010.14895.0&amp;ord=1&amp;bk=1" width="468" height="60" border="0" alt=""></a><div style="position:absolute;top:1;left:1;"><img src="http://ads.ruralpress.com/beacon.asp?beacon=10330217"></div><img src="/images/general/space.gif" width="2" height="10" border="0"><br>
+							</td></tr>
+						</tbody></table>
+					</td>
+				</tr>
+				<tr>
+					<td height="20px" valign="middle">
+						<table border="0" cellpadding="0" cellspacing="0" width="100%" class="DateBar">
+							<tbody><tr>
+								<td align="left" height="20px">&nbsp;&nbsp;&nbsp;Thursday, 15 June 2006</td>
+								<td align="right" height="20px">
+								Welcome to canberra Yourguide.&nbsp;&nbsp;&nbsp;<a href="http://signon.yourguide.com.au/memberprofile.asp?site=YG&amp;returnurl=http://canberra.yourguide.com.au/privacy.asp?">Member Profile</a>&nbsp;|&nbsp;<a href="http://signon.yourguide.com.au/signin.asp?returnurl=http://canberra.yourguide.com.au/privacy.asp?">Login</a>
+								&nbsp;&nbsp;&nbsp;</td>
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				<tr>
+					<td height="1px" bgcolor="#C5C5C5"></td> <!--Shadow line -->
+				</tr>
+				<tr>
+					<td height="1px" bgcolor="#E6E6E6"></td> <!--Shadow line -->
+				</tr>
+				<tr>
+					<td height="1px" bgcolor="#F9F9F9"></td> <!--Shadow line -->
+				</tr>
+				<!-- LEFT NAV START -->
+				<tr>
+					<td>
+						<table border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody><tr width="100%">
+								<td width="13%" valign="top" class="LeftNav">
+									<table border="0" cellpadding="5" cellspacing="0" width="100%" class="LeftNav">
+										<tbody><tr width="100%">
+											<td valign="top" width="100%" id="menu">
+													<p class="MenuItem"><span class="MenuHeading">News</span></p>
+																							
+														<p class="MenuItem"><a href="/display.asp?class=news&amp;subclass=general">Local</a></p>
+														
+														<p class="MenuItem"><a href="/display.asp?class=sport&amp;subclass=other">Sport</a></p>
+														
+														<p class="MenuItem"><a href="/display.asp?class=your%20say&amp;subclass=general">Editorial</a></p>
+													
+
+													<p class="MenuItem"><a href="/search.asp" width="150px">Search<img src="/images/general/space.gif" width="5" border="0"><!--<img src="/images/general_new/lock.gif" width="5" height="8" border="0">--></a></p>
+
+														
+														<p class="MenuItem"><a href="/newsfeed/subscribe2.asp" width="150px">e-news<img src="/images/general/space.gif" width="5" border="0"></a></p>
+													
+														<p class="MenuItem"><a href="/weather.asp" width="150px">Weather</a></p>
+													
+																	
+
+													<p class="MenuDivider"></p>
+													<p class="MenuItem"><span class="MenuHeading">Marketplace</span></p>	
+													
+														<p class="MenuItem"><a href="/searchclas.asp">Classifieds</a></p>
+														
+															<p class="MenuItem"><a href="/sitemail_classifieds.asp">Place an ad </a></p>				
+														
+															<p class="MenuItem"><a href="/freeclassies/index.asp">Place Free Ad</a></p>
+																
+													<p class="MenuItem"><a href="http://www.propertyguide.com.au/">Real Estate</a></p>
+													<p class="MenuItem"><a href="http://www.jobsguide.com.au/">Jobs</a></p>
+													<p class="MenuItem"><a href="http://www.autoguide.com.au/">Autos</a></p>
+															
+													<p class="MenuDivider"></p>					
+													<p class="MenuItem"><span class="MenuHeading">Community</span></p>			
+																	
+													<p class="MenuItem"><a href="/dispcall.asp?month=6&amp;year=2006&amp;calclass=All">Events</a></p>								
+													<p class="MenuItem"><a href="/displayclubs.asp">Club Pages</a></p>
+													<p class="MenuItem"><a href="/dispcall.asp?month=6&amp;year=2006&amp;calclass=Entertainment">Entertainment</a></p>
+													<p class="MenuItem"><a href="/links.asp">Local Links</a></p>
+													<p class="MenuItem"><a href="/Features.asp">Special Features</a></p>
+													<p class="MenuDivider"></p>
+													
+												<!--	<p class="MenuItem"><span class="MenuHeading">Features</span></p>
+													<p class="MenuItem"><a href='#' >Dynamic  Links</a></p>
+													<p class="divider"></p>
+												-->
+													<p class="MenuItem"><span class="MenuHeading">Contact</span></p>
+													<p class="MenuItem"><a href="/about.asp?department_id=1">Contact Us</a></p>
+													<p class="MenuItem"><a href="/about.asp?department_id=12">Subscribe</a></p>
+													<p class="MenuItem"><a href="/about.asp?department_id=2">Advertise</a></p>
+																	
+														<p class="MenuItem"><a href="http://www.bicaprolab.com.au/photosales/frameset/start.htm" target="photo_sales">photo sales</a></p>
+													
+													<p class="MenuDivider"></p>
+													<p class="MenuItem"><span class="MenuItemGrey"><a href="/privacy.asp">Privacy</a></span></p>
+													<p class="MenuItem"><span class="MenuItemGrey"><a href="/copyright.asp">Copyright</a></span></p>
+
+											</td>
+										</tr>
+									</tbody></table>
+								</td>
+								<td width="15px">
+								</td>
+								<td id="mainContentPrint" width="610px" valign="top">
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#ffffff" class="StandardText">
+	<tbody><tr>
+		<td height="8px">			
+		</td>
+	</tr>
+	<tr>
+		<td class="WeatherHeader">PRIVACY</td>
+	</tr>
+	<tr>
+		<td height="10px"></td>
+	</tr>
+	<tr>
+		<td valign="top">
+			<table border="0" cellpadding="5" cellspacing="0" width="100%" class="StandardText">
+				<tbody><tr>
+					<td>The internet has changed the way we live, read and communicate. It has turned the world into an intimate global village. But now that we're all closer to together it's important for Rural Press Limited to help its customers retain their privacy while they are online.</td>
+				</tr>
+				<tr>
+					<td>To ensure your privacy Rural Press Limited adheres to the following principles in accordance with worldwide practices for customer privacy and data protection. For more information on privacy please see the <a href="http://www.ruralpress.com/ruralpress/corp/privacy.html">Rural Press Privacy Policy</a></td>
+				</tr>
+				<tr>
+					<td height="10"></td>
+				</tr>
+				<tr>
+					<td><b>Notice</b></td>
+				</tr>
+				<tr>
+					<td>You may be asked for information that personally identifies you (personal information) or allows us to contact you. Generally, this information is requested when you create a Registration ID on the site or when you download free software, enter a contest, order e-mail newsletters or join a limited-access premium site.</td>
+				</tr>
+				<tr>
+					<td>Rural Press will use your Personal Information for these primary purposes:</td>
+				</tr>
+				<tr>
+					<td>
+					1) To make the site easier for you to use by not having to enter information more than once.<br>
+					2) To help you quickly find services or information.<br>
+					3) To help us create content most relevant to you.<br>
+					4) To alert you to product upgrades, special offers, updated information and other new services from Rural Press Online Services
+					</td>
+				</tr>
+				<tr>
+					<td height="10"></td>
+				</tr>
+				<tr>
+					<td><b>Consent</b></td>
+				</tr>
+				<tr>
+					<td>If you choose not to register or provide personal information, you can still use most of Yourguide or its associated web sites but you will not be able to access areas that require registration.</td>
+				</tr>
+				<tr>
+					<td>If you decide to register, you will be able to select the kinds of information you want to receive from Yourguide by subscribing to various services. If you do not want Yourguide to communicate with you about other offers regarding products, programs, events, or services by e-mail, postal mail, or telephone, you may select the option stating that you do not wish to receive marketing messages from Yourguide.</td>
+				</tr>
+				<tr>
+					<td>Yourguide occasionally allows other companies to offer our registered customers information about their products and services, using postal mail only. If you do not want to receive these offers, you may select the option stating that you do not wish to receive marketing materials from third parties.</td>
+				</tr>
+				<tr>
+					<td height="10"></td>
+				</tr>
+				<tr>
+					<td><b>Security</b></td>
+				</tr>
+				<tr>
+					<td>Yourguide has taken strong measures to protect the security of your personal information and to ensure that your choices for its intended use are honoured. We take strong precautions to protect your data from loss, misuse, unauthorised access or disclosure, alteration, or destruction.</td>
+				</tr>				
+				<tr>
+					<td height="10"></td>
+				</tr>
+				<tr>
+					<td><b>Notice to Parents</b></td>
+				</tr>
+				<tr>
+					<td>Parents or guardians: We want to help you guard your children's privacy. We encourage you to talk to your children about safe and responsible use of their Personal Information while using the Internet.</td>
+				</tr>
+				<tr>
+					<td height="10"></td>
+				</tr>
+				<tr>
+					<td><b>Use of Internet Cookies</b></td>
+				</tr>
+				<tr>
+					<td>Rural Press may use cookies to assist its web site users in accessing information on its sites which is of interest and relevance. Cookies are a way of storing information on a computer so users do not have to enter the same data every time they access an Internet site. We may also use cookies to assist in site functionality or with site visitor statistics, but we do not store any personal details when this is done.</td>
+				</tr>
+				<tr>
+					<td>If users have any concerns about this technology and do not wish to accept cookies, they can set the browser on their PC to not accept them or to prompt user every time they are about to be stored on the PC. The choice is with the user.</td>
+				</tr>
+			</tbody></table>
 		</td>
 	</tr>
 </tbody></table>
+											</td>
+											<td width="15px"><img src="/images/general/space.gif" width="5px" height="100%" border="0"></td>
+											<td bgcolor="#C9C7C7" width="1px"><img src="/images/general/space.gif" width="1px" height="100%" border="0"></td>
+											<td bgcolor="#DADADA" width="1px"><img src="/images/general/space.gif" width="1" height="100%" border="0"></td>
+											<td bgcolor="#E9E7E7" width="1px"><img src="/images/general/space.gif" width="1" height="100%" border="0"></td>
+											<!--<td bgcolor='#F3F3F3'><img src='/images/general/space.gif' width='1' height='100%' border='0'></td>-->
+											<td bgcolor="#F3F3F3" width="1px"><img src="/images/general/space.gif" width="1px" height="100%" border="0"></td>
+											<td bgcolor="#F9F9F9" width="1px"><img src="/images/general/space.gif" width="1px" height="100%" border="0"></td>
+											<td valign="top" align="center" class="AdColumn"><!--<img src="/images/general_new/advertisement.gif" border="0" width="109" height="11"><br>--><br>
+											
+											<!--sPubId=2-->     <!--<table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr>
+       <td>
+        <center>
+         <img src="/images/general/space.gif" width="130" height="3" align="bottom"><BR>-->
+
+
+						<!--<a href="http://yourguide.nitroglobal.com?site=133" target="_blank"><img src="/images/ads/nitro_all.gif" width="120" height="72" border="0" alt="Click Here"></a>
+
+						<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="120" height="120" id="NitroButton" align="middle">
+							<param name="allowScriptAccess" value="sameDomain" />
+							<param name="movie" value="/images/ads/NitroButton_133.swf" />
+							<param name="quality" value="best" />
+							<param name="bgcolor" value="#ffffff" />
+							<embed src="/images/ads/NitroButton_133.swf" quality="best" bgcolor="#ffffff" width="120" height="120" name="NitroButton" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+						</object>
+						<BR><BR>-->
+			<table border="0" cellpadding="0" cellspacing="0" class="AdBox"><tbody><tr><td><table border="0" cellpadding="10" cellspacing="0" class="AdInnerBox"><tbody><tr><td><a href="http://www.holidaysawaysydneysider.com.au"><img src="/images/ads/HolidaysAwayBG.gif" width="120" height="180" border="0"></a></td></tr></tbody></table></td></tr></tbody></table><br>
+<table border="0" cellpadding="0" cellspacing="0" class="AdBox"><tbody><tr><td><table border="0" cellpadding="10" cellspacing="0" class="AdInnerBox"><tbody><tr><td><a href="http://www.ruralbookshop.com.au" target="_blank"><img src="/ads/ruralbookshop/120x60.gif" width="120" height="60" border="0" alt="ruralbookshop"></a></td></tr></tbody></table></td></tr></tbody></table><br>
+<table border="0" cellpadding="0" cellspacing="0" class="AdBox"><tbody><tr><td><table border="0" cellpadding="10" cellspacing="0" class="AdInnerBox"><tbody><tr><td><a href="http://www.farmonline.com.au/member_join.asp" target="_blank"><img src="/ads/daily_ag_news/120x130.gif" width="120" height="140" border="0" alt="Farmonline Daily AG News"></a></td></tr></tbody></table></td></tr></tbody></table><br>
+
+
+      <!-- </td>
+      </tr>
+     </table>-->
+
+
+<!--sPubId=2-->
+												
+												<!--<table border="0" cellpadding="0" cellspacing="0" class="AdBox"  onclick="alert(this.innerWidth);">
+													<tr>
+														<td>	
+															<table border="0" cellpadding="10" cellspacing="0" class="AdInnerBox">
+																<tr>
+																	<td>	
+																		
+																		<img src='/images/general_new/adsample.gif' width='110' height='129' border='0'>
+																	</td>
+																</tr>
+															</table>
+														</td>
+													</tr>
+												</table>
+												<br><br>
+												<table border="0" cellpadding="0" cellspacing="0" class="AdBox"  onclick="alert(this.innerWidth);">
+													<tr>
+														<td>	
+															<table border="0" cellpadding="10" cellspacing="0" class="AdInnerBox">
+																<tr>
+																	<td>	
+																		
+																		<img src='/images/general_new/adsample.gif' width='110' height='129' border='0'>
+																	</td>
+																</tr>
+															</table>
+														</td>
+													</tr>
+												</table>
+												<br><br>
+												<table border="0" cellpadding="0" cellspacing="0" class="AdBox"  onclick="alert(this.innerWidth);">
+													<tr>
+														<td>	
+															<table border="0" cellpadding="10" cellspacing="0" class="AdInnerBox">
+																<tr>
+																	<td>	
+																		
+																		<img src='/images/general_new/adsample.gif' width='110' height='129' border='0'>
+																	</td>
+																</tr>
+															</table>
+														</td>
+													</tr>
+												</table>
+-->
+
+
+											<img src="/images/general/space.gif" width="1" height="5"><br>
+											<script type="text/javascript">
+												google_ad_client = "pub-7617671539297056";
+												google_ad_width = 120;
+												google_ad_height = 240;
+												google_ad_format = "120x240_as";
+												google_ad_type = "text_image";
+												google_ad_channel ="";
+												google_color_border = "CCCCCC";
+												google_color_bg = "FFFFFF";
+												google_color_link = "000000";
+												google_color_url = "666666";
+												google_color_text = "333333";
+											</script>
+											<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+											<img src="/images/general/space.gif" width="1" height="5"><br>
+											</td>
+										</tr>
+									</tbody></table>
+								</td>
+							</tr>
+						</tbody></table>	
+					</td>
+					<!-- Right Shadow -->
+
+					<td bgcolor="#E9E7E7">
+						<!-- Grey side border -->
+						<img src="/images/general/space.gif" width="1" height="100%" border="0">
+					</td>
+					<td bgcolor="#F3F3F3">
+						<!-- Grey side border -->
+						<img src="/images/general/space.gif" width="1" height="100%" border="0">
+					</td>
+					<td bgcolor="#F3F3F3">
+						<!-- Grey side border -->
+						<img src="/images/general/space.gif" width="1" height="100%" border="0">
+					</td>
+					<td bgcolor="#F9F9F9">
+						<!-- Grey side border -->
+						<img src="/images/general/space.gif" width="1" height="100%" border="0">
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+
+	<!-- Bottom Shadow -->
+	<tr height="1px">
+		<td bgcolor="#E9E7E7" colspan="6" height="1px"><img src="/images/general/space.gif" width="100%" height="1px" border="0"></td>
+	</tr>
+	<tr height="1px">
+		<td bgcolor="#F3F3F3" colspan="6" height="1px"><img src="/images/general/space.gif" width="100%" height="1px" border="0"></td>
+	</tr>
+	<tr height="1px">
+		<td bgcolor="#F3F3F3" colspan="6" height="1px"><img src="/images/general/space.gif" width="100%" height="1px" border="0"></td>
+	</tr>
+	<tr height="1px">
+		<td bgcolor="#F9F9F9" colspan="6" height="1px"><img src="/images/general/space.gif" width="100%" height="1px" border="0"></td>
+	</tr>
+</tbody></table>
+
+<!-- END OVERALL TABLE -->
+
+<p align="center">
+<script type="text/javascript">
+	<!--
+		google_ad_client = "pub-7617671539297056";
+		google_ad_width = 728;
+		google_ad_height = 90;
+		google_ad_format = "728x90_as";
+		google_ad_type = "text_image";
+		google_ad_channel ="";
+		google_color_border = "CCCCCC";
+		google_color_bg = "FFFFFF";
+		google_color_link = "000000";
+		google_color_url = "666666";
+		google_color_text = "333333";
+	//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+</p>
+
 <!-- end body -->
 
 
 
-</center></td></tr></tbody></table></body></html>
+
+</body></html>
