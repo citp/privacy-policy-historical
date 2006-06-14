@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wholelattelove.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217215023id_/http%3A//www.wholelattelove.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholelattelove.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614152626id_/http%3A//www.wholelattelove.com/privacy.cfm) for the most accurate reproduction.*
 
-# Whole Latte Love Privacy Statement
+# 
 
 This Privacy Policy covers wholelattelove.com's treatment of personally identifiable information that we collect when you are on the wholelattelove.com site.
 
