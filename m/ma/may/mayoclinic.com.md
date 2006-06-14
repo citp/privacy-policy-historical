@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mayoclinic.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215062809id_/http%3A//www.mayoclinic.com/aboutmayo/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mayoclinic.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615004858id_/http%3A//www.mayoclinic.com/health/Privacy-Policy/PrivacyPolicy) for the most accurate reproduction.*
 
 # Mayo Clinic medical information and tools for healthy living - MayoClinic.com
 
@@ -99,5 +99,3 @@ If you've contacted MayoClinic.com about a privacy-related concern and you do no
 We will occasionally update this Privacy policy. You will see the word "updated" followed by the date next to the Privacy policy link near the bottom of all pages on the site. If the "updated" date has changed since you last visited, you're encouraged to review the policy to be informed of how this site is protecting your information.
 
 **Remember:** You may **opt out** of our services at any time you do not agree with the terms of this policy by simply deleting your personal profile.
-
-AM00005
