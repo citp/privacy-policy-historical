@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ojr.org privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219051847id_/http%3A//www.ojr.org/ojr/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ojr.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615004248id_/http%3A//www.ojr.org/ojr/privacy) for the most accurate reproduction.*
 
 # OJR.org Privacy Policy
 
@@ -30,4 +30,4 @@ Los Angeles, CA 90089-0281, USA
 
 Phone: 213-740-0948
 
-©1999-2005 USC Annenberg Online Journalism Review.
+©1999-2006 USC Annenberg Online Journalism Review.
