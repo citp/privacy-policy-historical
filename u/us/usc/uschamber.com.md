@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the uschamber.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219115851id_/http%3A//www.uschamber.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uschamber.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615015009id_/http%3A//www.uschamber.com/privacy) for the most accurate reproduction.*
 
 # U.S. Chamber of Commerce - Privacy Policy
+
+**Effective as of January 4, 2006.**
 
 **General Statement of Privacy**
 
@@ -12,7 +14,7 @@ We do not collect Personally Identifiable Information about you on the U.S. Cham
 
 **Use of Personally Identifiable Information**
 
-We reserve the option to share your contact information with certain third parties. You will always have the ability to opt out from receiving information from the U.S. Chamber as well as from said third parties.
+We reserve the option to share your contact information with certain third parties. These can include financial institutions, service providers, contractors, or affiliate organizations. You will always have the ability to opt out from receiving information from the U.S. Chamber as well as from said third parties.
 
 **Non-Personally Identifiable Information**
 
@@ -50,10 +52,24 @@ We want to help you protect your child’s privacy. We encourage you to talk to 
 
 **Correcting, Updating or Deleting Information**
 
-The uschamber.com Web site gives users the option, through automated procedures available on the Web site, to correct, update or delete any information previously provided to us by the user; however, we will maintain copies of user information to the extent retained as part of our Web site's standard backup/archive process. In addition, these procedures will not remove such of your information that has been provided by you to, or collected from you by, the Web sites of our business partners. We are not responsible for ensuring the removal or deletion from the Web sites of our business partners of your information provided by us to our business partners as permitted by you or otherwise in accordance with this Privacy Statement.
+The uschamber.com Web site gives users the option to correct, update or delete any information previously provided to us by the user; however, we will maintain copies of user information to the extent retained as part of our Web site's standard backup/archive process. In addition, these procedures will not remove such of your information that has been provided by you to, or collected from you by, the Web sites of our business partners. We are not responsible for ensuring the removal or deletion from the Web sites of our business partners of your information provided by us to our business partners as permitted by you or otherwise in accordance with this Privacy Statement. 
+
+To make changes to your contact information, or to opt out of receiving information, please contact us in one of the following ways:
+
+  1. Send an e-mail to [_webmaster@uschamber.com_](mailto:webmaster@uschamber.com)
+  2. Send a written request to:  
+Customer Service  
+U.S. Chamber of Commerce  
+1615 H Street NW  
+Washington, DC 20062 
+  3. Call us at 800-638-6582
+
+
 
 **P3P Compliant**
 
 The U.S. Chamber's Web site is P3P compliant. [Read more](http://www.w3.org/P3P) about Platform for Privacy Preferences Project (P3P).
 
-Updated April 2003.
+**Changes to This Privacy Policy**
+
+This privacy policy is available at all times to all users of the uschamber.com Web site at [http://www.uschamber.com/privacy.htm](https://web.archive.org/privacy.htm). Any material changes to this privacy policy will be communicated to users through this Web page. Users are responsible for making use of this resource to stay up to date on the uschamber.com/uschamber.org privacy policy.
