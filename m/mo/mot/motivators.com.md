@@ -1,26 +1,73 @@
-> *The following text is extracted and transformed from the motivators.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231224540id_/http%3A//www.motivators.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motivators.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614023717id_/http%3A//www.motivators.com/privacy.asp) for the most accurate reproduction.*
 
 # Promotional Products, Promotional Items, Advertising Specialties,
 
-**Privacy and security on the Internet  
-**Motivators recognizes your concern. Place your order with us free of any worry. We have taken every precaution to protect your credit card information and want you to feel totally comfortable when you order from us.  
-**  
-How is our Web site secure?  
-**The SSL (Secure Sockets Layer) is the most powerful encryption available on the Internet. This means that any information related to your credit card is encoded when being sent to us, so no one else is able to read it. You know that you are entering a secure area when the URL to the left of the colon changes from http to https. Also, your browser may have a special symbol, like a key or a lock.
+  
+**Our Commitment To Privacy**
 
-Having a secure server takes the risk out of your credit card transactions. We also do all order processing on software that is separate from the Internet, so there is no danger of anyone gaining access to your order information..
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online and internal information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-Your credit card purchases are, as always, insured by your credit card company. This means there is absolutely no risk to you. We want you to feel totally at ease every time you visit our site to get information, request a sample and place an order.
+**The Information We Collect**
 
-**Please note that email is not encrypted and not considered a secure way to transmit your credit card information.
+This notice applies to all information collected or submitted on the Motivators website. These Pages are Secure. On some pages, you can order products, make requests, and register to receive material. The types of personal information collected at these pages are:  
 
-**Your Other Information  
-**When you visit our Web site, we automatically recognize some information about you, including your Internet service provider. We don’t automatically recognize your name, address, email address or any other information specific to you, unless you give us that information via our online registration. Our “cookie” technology allows us to keep track of how many times you visit our site and what features you use. It helps us to make sure that our site is meeting your needs.
 
-We are also protected by HackerSafe, a service to assure that your information in kept secure.  For more information, please review it here:
+* Name 
+* Address 
+* Email Address 
+* Phone Number 
+* Credit/Debit Card Information 
+* Shipper # information 
+* (etc)
 
-<https://www.scanalert.com/RatingVerify?ref=www.motivators.com>
+On some pages, you can submit information about other people. For example, if you order a product online and want it sent directly to another recipient, you will need to submit the recipient's address. In this circumstance, the types of personal information collected are: 
 
-If you still do not feel comfortable about leaving your credit card information on our secured Web site, please contact one of our customer care representatives at 800-525-9600 and they’ll be happy to help you with your order.
+* Name 
+* Address 
+* Email Address 
+* Phone Number 
+* (etc) 
 
-Occasionally Motivators.com e-mails Registered Members with special promotions and offers. These help you take advantage of savings on products that may benefit you or your company. If you do not wish to receive e-mails regarding promotions, just contact us at support@motivators.com or call 1-800-525-9600 and request to be removed from our customer mailing list
+We use cookies to record session information, such as items that consumers add to their shopping cart
+
+**The Way We Use Information**
+
+We use the information you provide about yourself when placing an order only to complete that order. We do not share information with outside parties except to the extent necessary to complete that order.
+
+We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order.
+
+When an order is placed, you will receive an email order acknowledgement. We reveal only the last 5 digits of the card when confirming the order. ** Please do not email us credit card number information, as email is not secure.** If you do not feel comfortable entering your credit card information over the internet, please call 1-800-525-9600 and one of our representatives will be happy to help you.
+
+When you register with our website you will receive updates on our new products and services. If you wish to be removed from this list, please send an email to [privacy@motivators.com](mailto:privacy@motivators.com).
+
+You may also receive periodic mailings from Motivators (i.e. catalogs, flyers). If you wish to be removed from this mailing list, please send an email to [privacy@motivators.com](mailto:privacy@motivators.com)
+
+We do not share your phone number with outside parties. Your phone number will be used to contact you regarding order information. Occasionally, we may contact you via phone to inform you of new products and special deals we are offering. If you do not wish to receive this information by phone, please contact [privacy@motivators.com](mailto:privacy@motivators.com).
+
+We do not share your email address with any outside parties.
+
+We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.
+
+Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
+
+**Our Commitment To Data Security**
+
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. We are also protected by Hackersafe, a service to assure that your information is kept secure. For information click here: <https://www.scanalert.com/RatingVerify?ref=www.motivators.com>
+
+**Our Commitment To Children's Privacy**
+
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 18, and no part of our website is structured to attract anyone under 18.
+
+**How You Can Access Or Correct Your Information**
+
+You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
+
+To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
+
+**How To Contact Us**
+
+Should you have other questions or concerns about these privacy policies, please call us at 1-800-525-9600 or send us an email at [privacy@motivators.com](mailto:privacy@motivators.com)
+
+By Visiting Motivators.com, you are accepting the practices described in this privacy notice.
+
+This Privacy Policy has been in effect since 5/1/06
