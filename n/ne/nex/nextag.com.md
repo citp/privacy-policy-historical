@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nextag.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225044756id_/http%3A//www.nextag.com/serv/main/buyer/help/prPrivacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextag.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614193634id_/http%3A//www.nextag.com/serv/main/buyer/help/prPrivacyPolicy.jsp) for the most accurate reproduction.*
 
-# Nextag: Help [Privacy Policy]]
+# Nextag: Help [Privacy Policy]
 
 [ ](http://www.truste.org/ivalidate.php?url=www.nextag.com&sealid=101)   
 
@@ -96,7 +96,7 @@ Third parties displaying advertisements on our Websites may also use cookies or 
 
 We understand you may not want to receive email from us or from our partners and advertisers. You can choose to opt-out of receiving email communications from us - and from our sharing your contact data with our partners and with advertisers for direct marketing purposes - by selecting to opt out if and when you register on our Websites, by following the unsubscribe instructions in the email communication or by contacting the partner or advertiser directly.
 
-To opt out of receiving all other NexTag mailings after you have registered, send an email to: privacy@nextag.com or click the appropriate unsubscribe link contained within the email that you receive. Please note that opting out may prevent you from receiving email from NexTag regarding updates and improvements to the Websites or offers and promotions we may be offering.
+To opt out of receiving all other NexTag mailings after you have registered, [click here](https://web.archive.org/serv/main/emailcampaign/optout.jsp) or click the appropriate unsubscribe link contained within the email that you receive. Please note that opting out may prevent you from receiving email from NexTag regarding updates and improvements to the Websites or offers and promotions we may be offering.
 
 In some cases we request that you submit personal information in order to forward this information to our partners that have products or services in which you may be interested. In the event we share this information with our partners (e.g., Lenders or car dealers), we no longer have control over the use of such information and your rights regarding such use will be governed by the policies of our partners. You will then have to contact them directly with any opt-out request.
 
@@ -110,7 +110,7 @@ Beginning on January 1, 2005, California Civil Code Section 1798.83 permits resi
 > 1300 South El Camino Real  
 > Suite 600  
 > San Mateo, CA 94402  
-> usersupport@nextag.com  
+> usersupport@nextag.com ([click here](https://web.archive.org/serv/main/emailcampaign/optout.jsp) to opt out of receiving NexTag mailings)  
 > 
 
 If you do not receive acknowledgment of your inquiry or your inquiry is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will serve as a liaison with Nextag to resolve users concerns.
