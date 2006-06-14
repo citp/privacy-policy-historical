@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insurance.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219132053id_/http%3A//insurance.com/AboutUs/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insurance.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615001530id_/http%3A//insurance.com/AboutUs/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Insurance.com: Your Security and Privacy are Important to Insurance.com
 
@@ -41,7 +41,7 @@ View the Privacy Policy for each insurance product below.
 [ Life Insurance](http://www.insure.com/privacy_statement.html "Life Insurance Privacy Policy"), developed by Quotesmith.com, Inc.  
 [Small Business Health Insurance](http://www.ehealthinsurance.com/ehealthinsurance/PrivacyPolicy/DirectPrivacyPolicy.html "Small Business Health Insurance Privacy Policy"), developed by eHealthInsurance Services, Inc.  
 [Dental Insurance](http://www.dentalinsurance.com/cms-500/privacy-insurancedotcom.html "Dental Insurance Privacy Policy"), developed by Kelsey National Corporation  
-[Auto Insurance](https://www.comparisonmarket.com/Info/Privacy.aspx?visit=68335499&machine=52792147 "ComparisonMarket Privacy Policy"), developed by ComparisonMarket Insurance Agency. ComparisonMarket Insurance Agency does not service residents of Alaska, Hawaii, or Massachusetts. Please reference the Privacy Policies shown on each insurance carrier’s website for those states. If you are directed to Geico Direct, please refer to the privacy policy on their site.  
+[Auto Insurance](https://www.comparisonmarket.com/Info/Privacy.aspx?visit=79260307&machine=62708850 "ComparisonMarket Privacy Policy"), developed by ComparisonMarket Insurance Agency. ComparisonMarket Insurance Agency does not service residents of Alaska, Hawaii, or Massachusetts. Please reference the Privacy Policies shown on each insurance carrier’s website for those states. If you are directed to Geico Direct, please refer to the privacy policy on their site.  
 [Travel Insurance](http://www.worldtravelcenter.com/eng/cobrands/inscom/privacy.cfm "Travel Insurance Privacy Policy"), jointly developed by Insurance.com and Insuractive, Inc.  
 
 
@@ -80,7 +80,7 @@ Should you decide to apply for a particular insurance policy after obtaining a q
 
 7\. **Auto Insurance – ComparisonMarket Insurance Agency (ComparisonMarket)**
 
-ComparisonMarket Insurance Agency provides auto insurance quotes and other services in all states except for Alaska, Hawaii and Massachusetts. In situations where ComparisonMarket Insurance Agency is available, ComparisonMarket Insurance Agency requests certain required personal information during the quote process in an effort to provide more accurate quote information. Residents of those states are encouraged to see the [ComparisonMarket Privacy Policy](https://www.comparisonmarket.com/Info/Privacy.aspx?visit=68335499&machine=52792147 "ComparisonMarket Privacy Policy") In situations where you are referred to a single insurance carrier, please refer to the privacy policy listed on that insurance carrier’s site.
+ComparisonMarket Insurance Agency provides auto insurance quotes and other services in all states except for Alaska, Hawaii and Massachusetts. In situations where ComparisonMarket Insurance Agency is available, ComparisonMarket Insurance Agency requests certain required personal information during the quote process in an effort to provide more accurate quote information. Residents of those states are encouraged to see the [ComparisonMarket Privacy Policy](https://www.comparisonmarket.com/Info/Privacy.aspx?visit=79260307&machine=62708850 "ComparisonMarket Privacy Policy") In situations where you are referred to a single insurance carrier, please refer to the privacy policy listed on that insurance carrier’s site.
 
 9\. **Links to Third Party Insurance Sites**
 
@@ -95,7 +95,7 @@ A: Your nonpublic personally identifiable information is used in the following w
 Information that you provide during the quoting process is used to fulfill your requests for insurance quotes or applications. Information you provide during the registration or application process is: 
 
 a. used to facilitate your requests for insurance quotes or applications;   
-b. used to distribute newsletters, optional user experience surveys or other marketing and promotional materials to you, unless you [opt not to receive this information](https://www.comparisonmarket.com/Optout.aspx?visit=68335499&machine=52792147) ; and   
+b. used to distribute newsletters, optional user experience surveys or other marketing and promotional materials to you, unless you [opt not to receive this information](https://www.comparisonmarket.com/Optout.aspx?visit=79260307&machine=62708850) ; and   
 c. stored by our service providers or within the Insurance.com site in order to enable you to re-access the information at your convenience.   
 
 
@@ -115,7 +115,7 @@ Unless you expressly give us permission to do so, or unless required by law, we 
 
 **Q:What choices are available to me regarding the collection, use and distribution of my nonpublic personally identifiable information? **
 
-**A:** You may decide to [opt-out](https://www.comparisonmarket.com/Optout.aspx?visit=68335499&machine=52792147) of communications from Insurance.com. Users registering during the health insurance application process will automatically be placed on the email distribution list that provides you with information concerning promotions and updates to the Insurance.com site and all communications regarding your health insurance request. 
+**A:** You may decide to [opt-out](https://www.comparisonmarket.com/Optout.aspx?visit=79260307&machine=62708850) of communications from Insurance.com. Users registering during the health insurance application process will automatically be placed on the email distribution list that provides you with information concerning promotions and updates to the Insurance.com site and all communications regarding your health insurance request. 
 
 Except as noted in the next paragraph, during the quoting process on Insurance.com you will always retain complete control over what information you disclose in the quoting / application processes and to which insurance carriers, if any, it is sent. You will be asked for your name, contact details and other information only if you decide to proceed with coverage from a company that has offered an online quote. 
 
@@ -142,11 +142,11 @@ During the health application process you will automatically opt-in to an email 
 
 
 
-**Q:How can I “opt out” of receiving any email from you? ** Occasionally, we may email you our quarterly insurance newsletter or to let you know about new products, features, or insurance companies that we’ve added. [Click here](https://www.comparisonmarket.com/Optout.aspx?visit=68335499&machine=52792147) to have your email removed from our email marketing lists. 
+**Q:How can I “opt out” of receiving any email from you? ** Occasionally, we may email you our quarterly insurance newsletter or to let you know about new products, features, or insurance companies that we’ve added. [Click here](https://www.comparisonmarket.com/Optout.aspx?visit=79260307&machine=62708850) to have your email removed from our email marketing lists. 
 
 **Q:How can I contact you regarding the privacy of my information?**
 
-**A:** If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please [ email us](https://web.archive.org/web/20051219132053id_/http%3A//insurance.com/AboutUs/ContactUs.aspx "Email us") or contact our corporate headquarters at:   
+**A:** If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please [ email us](https://web.archive.org/web/20060615001530id_/http%3A//insurance.com/AboutUs/ContactUs.aspx "Email us") or contact our corporate headquarters at:   
 Insurance.com   
 29001 Solon Rd.   
 Solon, OH 44139 
