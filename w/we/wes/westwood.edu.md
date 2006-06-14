@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westwood.edu privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210142953id_/http%3A//www.westwood.edu/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westwood.edu privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614130630id_/http%3A//westwood.edu/privacy.asp) for the most accurate reproduction.*
 
 # Westwood College
 
@@ -8,7 +8,7 @@
 
 **General**
 
-Westwood College, Westwood College of Aviation Technology, Westwood Aviation Institute, and Westwood College Online are subsidiaries of Alta Colleges Inc. (Alta Colleges). Alta Colleges respect the privacy of every individual who visits our websites, requests information, or responds to our promotions. To better protect your privacy we have provided this notice explaining our online information practices and the choices you can make about the way your information is collected and used. This notice applies to all information collected or submitted on the Westwood College Web sites, unless otherwise posted.
+Westwood College, Redstone College, Redstone Institute, and Westwood College Online are subsidiaries of Alta Colleges Inc. (Alta Colleges). Alta Colleges respect the privacy of every individual who visits our websites, requests information, or responds to our promotions. To better protect your privacy we have provided this notice explaining our online information practices and the choices you can make about the way your information is collected and used. This notice applies to all information collected or submitted on the Westwood College Web sites, unless otherwise posted.
 
 **Information you provide to us**
 
@@ -16,6 +16,11 @@ Alta Colleges will not collect any personally identifiable information about you
 
   * We will use it to contact you and respond to your request for information.
   * We may store and process the information to better understand your needs and how we can improve our website and services.
+
+
+
+Additionally: 
+
   * We will not give or sell your individual information to an outside company for use in marketing or solicitation.
   * We will maintain the confidentiality of your personal information and it will only be used to support your relationship with Alta Colleges.
 
