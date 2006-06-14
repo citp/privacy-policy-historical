@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vinagames.org privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204101018id_/http%3A//www.vinagames.org/%3FF%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vinagames.org privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614204454id_/http%3A//www.vinagames.com/privacy.html) for the most accurate reproduction.*
 
-# Vinagames Entertainments
+# Privacy Policy
 
 Last updated on 12/17/2001 
 
