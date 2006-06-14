@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neighborhoodlink.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218134135id_/http%3A//www.neighborhoodlink.com/manager/neighbor/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neighborhoodlink.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615012543id_/http%3A//www.neighborhoodlink.com/manager/neighbor/privacy.html) for the most accurate reproduction.*
 
 # Neighborhood Link - Your Neighborhood's Privacy Practices
 
@@ -61,4 +61,4 @@ If you have any questions or comments about this privacy statement, the practice
 
 [Privacy Statement](http://www.neighborhoodlink.com/manager/neighbor/privacy.html)  
 Neighborhood Link [Terms of Use](http://www.neighborhoodlink.com/manager/neighbor/terms.html)   
-© 1997 - 2004 Neighborhood Link, Inc. 
+© 1997 - 2006 Neighborhood Link, Inc. 
