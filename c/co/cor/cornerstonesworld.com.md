@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cornerstonesworld.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210042048id_/http%3A//www.cornerstonesworld.com%3Fs%3D9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cornerstonesworld.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614135437id_/http%3A//cornerstonesworld.com%3Fs%3D9) for the most accurate reproduction.*
 
 # Privacy Statement | Business & Hotel Directory Europe & USA
 
