@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newwest.net privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223090753id_/http%3A//www.newwest.net/index.php/plain/entry/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newwest.net privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614202322id_/http%3A//www.newwest.net/index.php/plain/entry/privacy_policy) for the most accurate reproduction.*
 
 # New West Network | Privacy Policy
 
@@ -38,5 +38,12 @@ Effective Date: February 18, 2005
 
 |  | 
 
+Most Commented Stories Last 7 Days
+
+  
+  
+  
+  
+  
   
 
