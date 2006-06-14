@@ -1,26 +1,24 @@
-> *The following text is extracted and transformed from the midflorida.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204215050id_/http%3A//www.midflorida.com/go.asp%3Fgoto%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midflorida.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614101340id_/http%3A//www.midflorida.com/support/privacy.asp) for the most accurate reproduction.*
 
-# Welcome to MIDFLORIDA Federal Credit Union!
+# MIDFLORIDA - Support - Privacy
 
-<%@LANGUAGE="VBSCRIPT" CODEPAGE="1252"%> Untitled Document
-
-**IMPORTANT INFORMATION ABOUT YOUR PRIVACY**
+### IMPORTANT INFORMATION ABOUT YOUR PRIVACY
 
 **YOUR PRIVACY IS IMPORTANT TO US**  
 As a member of MIDFLORIDA FEDERAL CREDIT UNION, you provide us with important information about yourself. We believe it is our responsibility to safeguard your personal and financial information. While some financial institutions share account owner information with other businesses, we are committed to keeping your financial information confidential. The following privacy policy explains how we use and protect the information about our members. We ask that you read it carefully.
 
 **NOTICE OF YOUR FINANCIAL PRIVACY RIGHTS**  
-**_We_** , **_our_ **and **_us_** , when used in this notice, mean MIDFLORIDA FEDERAL CREDIT UNION.  
+We, our and us, when used in this notice, mean MIDFLORIDA FEDERAL CREDIT UNION.  
 This is our privacy notice for our members. When we use the words "you" and "your" we mean the following types of members:
 
 Our consumer members who have a continuing relationship by purchasing or holding financial products or services such as a(n):
 
   * Deposit account
-    * Loan account
-    * Credit card account
-    * Safe deposit box
-    * Automobile lease we service
-    * Mortgage brokerage services
+  * Loan account
+  * Credit card account
+  * Safe deposit box
+  * Automobile lease we service
+  * Mortgage brokerage services
   * All IRA accounts for which we act as custodian
   * Former members
 
@@ -28,9 +26,9 @@ Our consumer members who have a continuing relationship by purchasing or holding
 
 We will tell you the sources of the information we collect about you. We will tell you what measures we take to secure that information. We first define some terms.
 
-**_Nonpublic personal information_** means information about you that we collect in connection with providing a financial product or service to you. nonpublic personal information does not include information that is available from public sources, such as telephone directories or government records. hereafter, we will use the term " _information_ " to mean nonpublic personal information as defined in this section.
+Nonpublic personal information means information about you that we collect in connection with providing a financial product or service to you. nonpublic personal information does not include information that is available from public sources, such as telephone directories or government records. hereafter, we will use the term "information" to mean nonpublic personal information as defined in this section.
 
-An **_affiliate_** is a company we own or control. A **_nonaffiliated third party_** is a person we do not employ or a company that is not an affiliate of ours. This is also known as nonaffiliated third party, or simply, an " _other party_ ".
+An affiliate is a company we own or control. A nonaffiliated third party is a person we do not employ or a company that is not an affiliate of ours. This is also known as nonaffiliated third party, or simply, an "other party".
 
 **THE INFORMATION WE COLLECT**  
 We collect information about you from the following sources:
