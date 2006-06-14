@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the grants.gov privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212154040id_/http%3A//www.grants.gov/Privacy%3Fcampaignid%3Dtopnavtracking081105) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grants.gov privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615004851id_/http%3A//grants.gov/Privacy) for the most accurate reproduction.*
 
 # Grants.gov - Privacy and Security
 
-Information Collected and Stored ¦  Site Security ¦  [Links to Other Sites](https://web.archive.org/web/20051212154040id_/http%3A//www.grants.gov/Privacy#LOS) ¦  [Links to Grants.gov](https://web.archive.org/web/20051212154040id_/http%3A//www.grants.gov/Privacy#LGG)  
-[Cookies](https://web.archive.org/web/20051212154040id_/http%3A//www.grants.gov/Privacy#cookies) ¦  [Unsubscribe](https://web.archive.org/web/20051212154040id_/http%3A//www.grants.gov/Privacy#unsubscribe)
+Information Collected and Stored ¦  Site Security ¦  [Links to Other Sites](https://web.archive.org/web/20060615004851id_/http%3A//grants.gov/Privacy#LOS) ¦  [Links to Grants.gov](https://web.archive.org/web/20060615004851id_/http%3A//grants.gov/Privacy#LGG)  
+[Cookies](https://web.archive.org/web/20060615004851id_/http%3A//grants.gov/Privacy#cookies) ¦  [Unsubscribe](https://web.archive.org/web/20060615004851id_/http%3A//grants.gov/Privacy#unsubscribe)
 
 Thank you for visiting Grants.gov and reviewing our privacy and security policy.
 
@@ -65,6 +65,6 @@ The Grants.gov website will create a session cookie whenever you access the webs
 **Unsubscribe**  
 If you choose to [ unsubscribe](https://web.archive.org/Subscription?action=unsubscribe) from the Grants.gov Succeed Newsletter and other Grants.gov community communications and notices, visit [http://www.grants.gov/EOIUnsubscribe](https://web.archive.org/Subscription?action=unsubscribe) and submit your email address. 
 
-If you choose to [ unsubscribe](https://web.archive.org/Unsubscribe) from Grants.gov Find Opportunity Notifications, visit [http://www.grants.gov/Unsubscribe](https://web.archive.org/web/20051212154040id_/http%3A//www.grants.gov/Unsubscribe) and submit your email address.
+If you choose to [ unsubscribe](https://web.archive.org/Unsubscribe) from Grants.gov Find Opportunity Notifications, visit [http://www.grants.gov/Unsubscribe](https://web.archive.org/web/20060615004851id_/http%3A//grants.gov/Unsubscribe) and submit your email address.
 
 Back to Top 
