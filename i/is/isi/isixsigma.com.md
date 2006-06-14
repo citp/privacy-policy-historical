@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isixsigma.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228133846id_/http%3A//www.isixsigma.com/uagree/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isixsigma.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615011644id_/http%3A//www.isixsigma.com/uagree/privacy.asp) for the most accurate reproduction.*
 
 # iSixSigma Privacy Policy
 
@@ -12,21 +12,19 @@
   [ **New To Six Sigma?**](http://www.isixsigma.com/library/content/six-sigma-newbie.asp)  
   [ **Six Sigma Q &A**](http://www.isixsigma.com/library/content/c010204a.asp)  
   [ **Cert. Practice Test**](http://www.isixsigma.com/exam/)  
-  [ **The Cox-Box**](http://www.isixsigma.com/cox-box/)  
   [ **ISSSP Info**](http://www.isixsigma.com/isssphp_nav)  
   [Join Now](http://www.isixsigma.com/issspjoin_nav)  
   [Corporate Program](http://www.isixsigma.com/issspcorp)  
-  [Healthcare Conference](http://www.isixsigma.com/isssphc2006)  
   
-  [ **Six Sigma IQ Events**](http://www.isixsigma.com/sixsigmaiq)  
-  [6s Summit 06, Miami](http://www.isixsigma.com/sixsigmasummit2006)  
-  [6s Finance, Germany](http://www.isixsigma.com/sixsigmafinance2006)  
-  
+  [ **Six Sigma IQ Home**](http://www.isixsigma.com/sixsigmaiq)  
+  [6s Conferences](http://www.isixsigma.com/six_sigma_conferences/six_sigma_conferences_summits.asp)  
   **Channels**    
   [ **Europe**](http://europe.isixsigma.com/)  
   [ **Financial Services**](http://finance.isixsigma.com/)  
   [ **Healthcare**](http://healthcare.isixsigma.com/)  
   [ **Software / IT**](http://software.isixsigma.com/)  
+  [ **Outsourcing/Offshoring**](http://www.sourcingmag.com/)  
+  [ **Business Process Mgt**](http://www.bpmenterprise.com/)  
   **Quality Directory**    
   [ **Best Practices**](http://www.isixsigma.com/bp/)  
   [ **Certifications/Awards**](http://www.isixsigma.com/ca/)  
@@ -44,8 +42,6 @@
   [ **Advertise Here**](http://www.isixsigma.com/adsales/)  
   [ **Article Archives**](http://www.isixsigma.com/spotlight/)  
   [ **Newsletter Archives**](http://www.isixsigma.com/newsletter/archive/)  
-  **Related Topics**    
-  [ **Outsourcing/Offshoring**](http://www.sourcingmag.com/)  
   **User Feedback**    
   Please suggest site  
   improvements.  
@@ -82,10 +78,10 @@ iSixSigma will not sell or rent your personally identifiable information to anyo
 
 
  **Cookies**  
-iSixSigma may set and access iSixSigma cookies on your computer. iSixSigma allows other companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to iSixSigma's cookies. If you would like to learn more about cookies, please visit [Cookie Central](http://www.isixsigma.com/offsite.asp?A=Fr&Url=http://www.cookiecentral.com/content.phtml?area=2&id=1). If you would like to remove the iSixSigma cookies stored on your computer that identify your name and email address and make it easier for you to post to the discussion forum, [click here](https://web.archive.org/web/20051228133846id_/http%3A//www.isixsigma.com/newsletter/expire.asp).
+iSixSigma may set and access iSixSigma cookies on your computer. iSixSigma allows other companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to iSixSigma's cookies. If you would like to learn more about cookies, please visit [Cookie Central](http://www.isixsigma.com/offsite.asp?A=Fr&Url=http://www.cookiecentral.com/content.phtml?area=2&id=1). If you would like to remove the iSixSigma cookies stored on your computer that identify your name and email address and make it easier for you to post to the discussion forum, [click here](https://web.archive.org/web/20060615011644id_/http%3A//www.isixsigma.com/newsletter/expire.asp).
 
  **Your Ability to Edit and Delete Your Account Information**  
-iSixSigma gives you the ability to edit your iSixSigma Account Information and preferences at any time. You may request deletion of your iSixSigma account by notifying iSixSigma using our [contact form](https://web.archive.org/web/20051228133846id_/http%3A//www.isixsigma.com/contact/default.asp?ToDo=contact&o=oi). All account inquiries will be verified via return email.
+iSixSigma gives you the ability to edit your iSixSigma Account Information and preferences at any time. You may request deletion of your iSixSigma account by notifying iSixSigma using our [contact form](https://web.archive.org/web/20060615011644id_/http%3A//www.isixsigma.com/contact/default.asp?ToDo=contact&o=oi). All account inquiries will be verified via return email.
 
  **Security**  
 Your iSixSigma Account Information is protected for your privacy and security.
@@ -94,7 +90,7 @@ Your iSixSigma Account Information is protected for your privacy and security.
 iSixSigma may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages. 
 
 **Questions or Suggestions**  
-If you have questions or suggestions complete our [feedback form](https://web.archive.org/web/20051228133846id_/http%3A//www.isixsigma.com/contact/default.asp?ToDo=contact&o=oi).
+If you have questions or suggestions complete our [feedback form](https://web.archive.org/web/20060615011644id_/http%3A//www.isixsigma.com/contact/default.asp?ToDo=contact&o=oi).
 
   
 [**"The Bottom Line" Links**](http://www.isixsigma.com/adsales/ad-opps.asp#bottomline)  
@@ -118,79 +114,82 @@ LIVE Demos!  FREE and informative, click for details and schedule
   
 ---|---|---  
   
-|  | **ASSURING ENTERPRISE QUALITY LEADERSHIP**  
+|  | 
+
+J
+
+| 
+
+URΛN   
+INSTITUTE
+
+|   | 
+
+**_ ASSURING ENTERPRISE QUALITY LEADERSHIP _**_  
 Global Consulting, Training & Certification,   
-e-Learning and Software Support   
----|---  
-  
-| 
+e-Learning and Software Support_
 
-Smarter Solutions, Inc.
-
-Design for Six Sigma Experts
-
-| 
-
-Leaders in Thinking for six sigma consulting, training and coaching.
-
-::: We wrote The Book - Implementing Six Sigma, 2nd ed ::: [Learn More>](http://www.isixsigma.com/r.asp?id=2759&r=http://www.isixsigma.com/uagree/privacy.asp)  
-  
----|---  
-  
-| VILLANOVA  
-UNIVERSITY |   |   | Become a Leader.  
-  
-Earn your Six Sigma Green Belt or Black Belt Certificate Online!  
-Gain Valuable Skills to Enhance Your Career in Just 8 Weeks! |   |   | **START NOW**  
+|   |    
 ---|---|---|---|---|---|---  
-  
 | 
 
-   Your one-stop shop . . .
+PIVOTAL RESOURCES  
+The Experts in Six Sigma Strategy and Implementation
 
-  SIGMAPRO
+| **Corporate Consulting & Training  
+Black Belt, Green Belt and Champion  
+_Click Here to Learn More >>_**  
+---|---  
+|   | 
 
-   USA u Mexico u United Kingdom u India u Germany 
-
-|  |  | 
-
-Service
+SBTI
 
 | 
 
-Industrial  
+**Sigma Breakthrough Technologies, Inc.**
+
+|   |   | 
+
+**Full Service Lean Six Sigma Consultancy ****Transactional, Operations, Healthcare, Design, World Class MBB, Public Offerings Online & Classroom Offerings**
+
+|   |    
+---|---|---|---|---|---|---|---  
+w w w . s b t i o n l i n e . c o m |   | 
+
+**BUILDING BETTER PEOPLE. BUILDING BETTER COMPANIES.**
+
+|    
+|  |  |  |  |  |  |  |  |   
+|  |  |  |  |  |  |  |  |   
+| 
+
+** SIGMAPRO**
+
+| 
+
+** SigmaPro specializes in Lean Sigma and DFSS.  Contact us today for public or customized in-house certification programs.  [www.sigmapro.com](http://www.isixsigma.com/r.asp?id=3193&r=http://www.isixsigma.com/uagree/privacy.asp)**
+
+**USA u Mexico u UK u India u Germany u Caribbean u Thailand**  
   
+---|---  
+|  | 
+
+**Smarter Solutions, Inc.**  
+  
+---  
+  
+We Make Lean Six Sigma Simple!  
+  
+**Does your company really focus on MC 2?**
+
+**Your Business' Existence (and Excellence) depends on More Customers and Cash.[Learn More!](http://www.smartersolutions.com/6sigma.htm)**  
+  
+|  **Hertzler Systems**  
+**Presents...**  
+|  inRealTimeTM   
+|  Click here for a FREE 30-day trial   
+Real-time Data for MINITAB®  
 ---|---|---  
-  
-Six Sigma 
-
-| 
-
-þ
-
-| 
-
-þ  
-  
-Design for Six Sigma 
-
-| 
-
-þ
-
-| 
-
-þ  
-  
-Lean for Six Sigma 
-
-| 
-
-þ
-
-| 
-
-þ  
   
 | 
 
@@ -202,48 +201,20 @@ practitioners of Six Sigma in the world
 Public Training & Certification  
 **Click here to take a free Six Sigma Lesson**  
 ---|---  
-| 
-
-PIVOTAL RESOURCES  
-The Experts in Six Sigma Strategy and Implementation
-
-| **Corporate Consulting & Training  
-Black Belt, Green Belt and Champion  
-_Click Here to Learn More >>_**  
----|---  
-| 
-
-AIR ACADEMY ASSOCIATES
-
-UNIVERSITY
-
-| 
-
-Improve Your Personal & Business ROI
-
-More Courses - Industry Expert Instructors
-
-Call 800-748-1277 Now to Learn More!  
   
----|---  
+STAT-A-MATRIX a SAM Group Company
+
+Your partner in achieving **Performance Excellence**. Our proven three-tiered approach focuses on enhancing your business management systems. Learn more about our consulting/training services or register for a public seminar.   
   
-[STAT-A-MATRIX INC,](http://www.isixsigma.com/r.asp?id=2765&r=http://www.isixsigma.com/uagree/privacy.asp) a SAM Group Company
+| _THE UNIVERSITY OF_  
+_TEXA_ _S_  
+AT AUSTIN |  | 
 
-Your partner in achieving **Performance Excellence**. Our proven three-tiered approach focuses on enhancing your business management systems. Learn more about our consulting/training services or register for a public seminar.  
   
-| 
-
-__Accel_ per Consulting_
-
-_(Accelerating & Sustaining Business Performance)_
-
-| 
-
-Measure and Improve Six Sigma Implementation  
-through Six Sigma **Business Scorecard and Innovation**  
-Tel: (847) 884 1900            ** _FREE 6 s CHECKLIST!_**  
+**2** weeks + **1** project = Black Belt Certification  
   
----|---  
+  
+---|---|---  
   
 Download the [iSixSigma Toolbar](http://www.isixsigma.com/toolbar/) for 1-Click access. Search Your Way. Everyday. Without Delay.  
 [](http://www.isixsigma.com/toolbar/)
