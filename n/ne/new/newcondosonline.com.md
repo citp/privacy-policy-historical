@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the newcondosonline.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221130343id_/http%3A//www.newcondosonline.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newcondosonline.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614064255id_/http%3A//newcondosonline.com/privacy.php) for the most accurate reproduction.*
 
-# NewCondosOnline.com
+# New Condos Online: PreConstruction Condos Nationwide (Las Vegas San Diego Miami Los Angeles)
+
+  
+
 
 | **Customized Search**  
 ---  
@@ -21,22 +24,19 @@ Townhome
   
 **Bath**  
   
+**Construction Phase**  
   
+  
+or  
+[](https://web.archive.org/web/20060614064255id_/http%3A//newcondosonline.com/index.php)  
+  
+| 
 
-
-  * D.R Horton
-  * Lennar
-  * Centex Homes
-  * Premeir Coastal Development
-  * John Laing Homes
-
- 
-
-Privacy Policy 
+## PRIVACY POLICY
 
 **1.  Overview**
 
-            Thank you for visiting www.NewCondosOnline.com (the "Web Site"), owned and operated by 3K Living, LLC (“3K Living”). To better protect your privacy, we provide this notice explaining our privacy policy. This Privacy Policy outlines the types of personal information we gather when you use 3K Living's services, as well as some of the steps we take to safeguard it. 
+            Thank you for visiting www.NewCondosOnline.com (the "Web Site"), owned and operated by 3K Living, LLC (�3K Living�). To better protect your privacy, we provide this notice explaining our privacy policy. This Privacy Policy outlines the types of personal information we gather when you use 3K Living's services, as well as some of the steps we take to safeguard it. 
 
 The following principles apply to the personally identifying information we ask for and that you provide. "Personally identifying information" is information that individually identifies you, such as your name, physical address or email address. 
 
@@ -46,9 +46,9 @@ The server on which the Web Site is located collects and saves only the default 
 
 When we require personally identifying information, we will inform you about the types of information we collect and how we use it. We hope this will help you make an informed decision about sharing your personal information with us. 
 
-Our site’s newsletter registration form will request that you give us your email address. At a builder’s or another sponsor’s request, we may assist them with sending out new project information in the form of email to those who register with us at NewCondosOnline.com. You may always opt out of receiving future mailings. 
+Our site�s newsletter registration form will request that you give us your email address. At a builder�s or another sponsor�s request, we may assist them with sending out new project information in the form of email to those who register with us at NewCondosOnline.com. You may always opt out of receiving future mailings. 
 
-We use personal information internally to serve our users and to enhance and extend our relationship with our users. For example, by understanding how you use the Sites from your computer, we are able to customize and personalize your experience. More specifically, we use personal information for the purposes for which it was collected (such as to provide you with the services), to anticipate and resolve problems with our Sites, to respond to customer support inquiries, and to send you periodic e-mail newsletters (provided you register to receive our newsletter), and for our own internal operations (including internal analysis as described below). You should review the “Information Sharing” section to understand when we disclose personal information to third parties. 
+We use personal information internally to serve our users and to enhance and extend our relationship with our users. For example, by understanding how you use the Sites from your computer, we are able to customize and personalize your experience. More specifically, we use personal information for the purposes for which it was collected (such as to provide you with the services), to anticipate and resolve problems with our Sites, to respond to customer support inquiries, and to send you periodic e-mail newsletters (provided you register to receive our newsletter), and for our own internal operations (including internal analysis as described below). You should review the �Information Sharing� section to understand when we disclose personal information to third parties. 
 
 To the extent that any of our Sites accessible through the URL www.newcondosonline.com have additional or different practices or policies, these practices will be explained at that Site. 
 
