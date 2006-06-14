@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the 1911encyclopedia.org privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221035137id_/http%3A//lovetoknow.com/lovetoknow-privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1911encyclopedia.org privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614190630id_/http%3A//lovetoknow.com/lovetoknow-privacy-policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy - LoveToKnow Top 10
+# LoveToKnow - Everything you would LoveToKnow about Buying, Babies, Video
 
-| **LoveToKnow Privacy Policy**  
+ 
+
+ **LoveToKnow Privacy Policy**  
 We use third-party advertising companies to serve our ads on the Internet. These third-party advertising companies employ cookie and 1x1 pixel .gif technology to measure and improve the effectiveness of ads for their clients. To do so, these companies may use anonymous information about your visits to our Web site and other Web sites. This information can include: date/time of banner ad shown, the banner ad that was shown, their cookie, the IP address. This information can also be used for online preference marketing purposes. 
 
 **Consumer Information**  
@@ -13,6 +15,4 @@ LoveToKnow—as well as most sites on the Internet—use “cookies” to enhanc
 
 If you do not want the benefit of cookies, there is a simple procedure to delete your cookies manually. Please consult your web browser’s help documentation for more information.
 
-If you have any additional questions about LoveToKnow’s dedication to consumer privacy, please [ contact us](http://www.lovetoknow.com/top10/feedback.htm).
-
-| 
+If you have any additional questions about LoveToKnow’s dedication to consumer privacy, please contact us: admin at lovetoknow.com
