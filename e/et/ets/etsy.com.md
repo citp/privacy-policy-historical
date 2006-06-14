@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etsy.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217135938id_/http%3A//www.etsy.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etsy.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615004325id_/http%3A//www.etsy.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Etsy - Your place to buy and sell all things handmade
 
@@ -12,7 +12,7 @@ Effective Date: 09/21/2005
 
 **TRUSTe**
 
-iospace inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [http://etsy.com](http://etsy.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should first contact Robert Kalin at [hello@etsy.com](mailto:hello@etsy.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
+iospace inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [http://etsy.com](http://etsy.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should first contact Robert Kalin at [support@etsy.com ](mailto:support@etsy.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 **Information Collection and How it is Used**
 
@@ -29,12 +29,13 @@ We will send you a welcome/confirmation email when you sign up for our services.
 
 We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. 
 
-Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account by emailing [customersupport@etsy.com](mailto:customersupport@etsy.com) from the email address you signed up with.
+Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account by emailing [support@etsy.com ](mailto:support@etsy.com) from the email address you signed up with.
 
 **Choice/Opt-out**
 
-If you no longer wish to receive service communications, you may opt-out of receiving them by emailing us at [customersupport@etsy.com](mailto:customersupport@etsy.com).  
-Cookies
+If you no longer wish to receive service communications, you may opt-out of receiving them by emailing us at [support@etsy.com ](mailto:support@etsy.com).
+
+**Cookies**
 
 A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. If you reject all cookies, you will not be able to use Etsy products or services that require you to "sign in," and you may not be able to take full advantage of the Etsy service. Etsy uses its own cookies for a number of purposes, including to: Access your information when you "sign in"; keep track of preferences you specify while you are using Etsy's services; display the most appropriate advertising banners, based on your interests and activity on Etsy; estimate and report our total audience size and traffic; conduct research to improve Etsy's content and services. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
 
@@ -58,11 +59,11 @@ You can change your Etsy Account Information (except your username), at any time
 
 We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. Your Etsy Account Information is password-protected. In certain areas, Etsy uses SSL-encryption to protect data transmissions. 
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on your member account page or by emailing our Customer Support at [customerservice@etsy.com](mailto:customerservice@etsy.com) or by contacting us by telephone or postal mail at the contact information listed below.
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on your member account page or by emailing our Customer Support at [support@etsy.com ](mailto:support@etsy.com) or by contacting us by telephone or postal mail at the contact information listed below.
 
 **Security**
 
-The security of your personal information is important to us. When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). To learn more about our SSL, follow this link. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.If you have any questions about security on our Web site, you can send email us at [customerservice@etsy.com](mailto:customerservice@etsy.com).
+The security of your personal information is important to us. When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). To learn more about our SSL, follow this link. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.If you have any questions about security on our Web site, you can send email us at [support@etsy.com ](mailto:support@etsy.com).
 
 **Changes to this Privacy Policy**
 
