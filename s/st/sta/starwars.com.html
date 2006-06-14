@@ -1,340 +1,524 @@
-<!--The following is the downloaded HTML source of the starwars.com privacy policy that was archived on 2004-11-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041118024322id_/http%3A//www.starwars.com/site/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the starwars.com privacy policy that was archived on 2006-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615010658id_/http%3A//starwars.com/welcome/about/privacy_policy.html) for the most accurate reproduction.-->
 
-<html><head>
- <title>Star Wars: Site Info | Privacy Policy </title>
+<html><head><title>Star Wars: Welcome | Privacy Policy </title>
+<link rel="alternate" title="starwars.com Headlines" href="/data/headlines.xml" type="application/rss+xml">
 <link rel="shortcut icon" href="/img/sw.ico">
- <meta name="description" content="">
- <meta name="keywords" content="Star Wars, Site Info, , ARRAY(0x360718), ">
+<meta name="description" content="">
+<meta name="keywords" content="Star Wars, Welcome, , ">
 
-<script language="javascript" src="/meta/js/detect.js"></script>
- <script language="javascript" src="/meta/js/imageFunctions.js"></script>
- <script language="javascript" src="/meta/js/video.js"></script>
+<link rel="stylesheet" type="text/css" href="/meta/rd/stylesheets/pc_ie_main.css">
+<link rel="stylesheet" type="text/css" href="/meta/rd/stylesheets/pc_ie_welcome.css">
 
- <script language="javascript">
- <!--
-	 	browser_type = null;
-	 	var is = new Is();
-		// Display Content Style Sheet
-		 var css = "<link rel='stylesheet' Type='text/css' href='/meta/stylesheets/silos_pc.css'>";
+<script language="javascript" src="/meta/rd/js/browserDetect.js"></script>
+<script language="javascript" src="/welcome/js/sub_nav.js"></script>
+<script language="javascript" src="/meta/rd/js/loginCheckFrontPage.js"></script>
+<script language="javascript" src="/meta/rd/js/emailthis.js"></script>
+<script language="javascript" src="/meta/rd/js/imageFunctions.js"></script>
+<script language="javaScript" src="/meta/js/hp_tour.js"></script>
+<script>
+// ad junk
+var ord=Math.random()*10000000000000000;
+var headAd = false;
 
-		if(is.win)
-		{
-				if(is.opera) {
-					css = "<link rel='stylesheet' Type='text/css' href='/meta/stylesheets/silos_opera.css'>";
-				}
-				else if(is.ie4) {
-					css = "<link rel='stylesheet' Type='text/css' href='/meta/stylesheets/silos_pc.css'>";
-				}
-				else if(is.ns4) {
-					css = "<link rel='stylesheet' Type='text/css' href='/meta/stylesheets/silos_net.css'>";
-				}
-				else {
-					css = "<link rel='stylesheet' Type='text/css' href='/meta/stylesheets/silos_pc.css'>";
-				}
+var navActive = false;
+var timeOn = null;
+var currentMenu = "welcome";
+var currentSubMenu = null;
+
+var siteNavArray = new Array("welcome", "whatsnew", "themovies", "beyondthemovies", "gaming", "community", "kids", "shop", "hyperspace");
+function initNav() {
+	for(var x=0; x<siteNavArray.length; x++) {
+		adjustPos(siteNavArray[x]);
+	}
+	cell_bottom_high.src = drop_path + "dropdowns/bottom_high.gif";
+	cell_bottom.src = drop_path + "dropdowns/bottom.gif";
+	navActive = true;
+}
+
+function adjustPos(menuToShow) {
+	var xTop = 0;
+	var xLeft = 11;
+	
+	var myNavElement  = document.getElementById("navigation");
+	var myMenuElement = document.getElementById(menuToShow);
+	
+	switch(menuToShow) {
+		case "welcome":
+			xTop  = -5;
+			break;
+		case "whatsnew":
+			xTop  = 17;
+			break;
+		case "themovies":
+			xTop = 39;
+			break;
+		case "beyondthemovies":
+			xTop = 61;
+			break;
+		case "gaming":
+			xTop = 83;
+			break;
+		case "community":
+			xTop = 105;
+			break;
+		case "kids":
+			xTop = 127;
+			break;
+		case "shop":
+			xTop = 149;
+			break;
+		case "hyperspace":
+			xTop = 169;
+			break;
+		default:
+			break;
+	}
+		xTop  += parseInt(myNavElement.offsetTop);
+		xLeft += parseInt(myNavElement.offsetLeft);
+		
+		if(typeof(frontPage) != "undefined") {
+			xTop += 207;
+			xLeft += 3;
+			if(menuToShow == "hyperspace") {
+				xTop += 2;
+			}
 		}
-		else if(is.mac)
-		{
+				
+		myMenuElement.style.top  = xTop  + "px";
+		myMenuElement.style.left = xLeft + "px";
+}
 
-			if(is.opera) {
-				css = "<link rel='stylesheet' Type='text/css' href='/meta/stylesheets/silos_opera.css'>";
-			}
-			else if(is.ie4) {
-				css = "<link rel='stylesheet' Type='text/css' href='/meta/stylesheets/silos_ie_mac.css'>";
-			}
- 			else if(is.ns4) {
-				css = "<link rel='stylesheet' Type='text/css' href='/meta/stylesheets/silos_net_mac.css'>";
-			}
-			else {
-				css = "<link rel='stylesheet' Type='text/css' href='/meta/stylesheets/silos_ie_mac.css'>";
-			}
+function showMenu(menuToShow) {
+	if(navActive && !is.ie5  && currentMenu != null) {
+		timeOn=null;
+		var myMenu = document.getElementById(currentMenu);
+		myMenu.style.visibility = "hidden";
+		if(currentSubMenu != null && typeof(currentSubMenu) != "undefined") {
+			document.getElementById(currentSubMenu).style.visibility = "hidden";
+			subMenu = null;
 		}
+		
+		var myMenuElement = document.getElementById(menuToShow);
+		myMenuElement.style.visibility = "visible";
+	}
+	currentMenu = menuToShow; 
+}
+
+function hideMenu() {
+	if(timeOn != null && currentMenu != null) {
+		var myMenu = document.getElementById(currentMenu);
+		myMenu.style.visibility = "hidden";
+	}
+}
+
+function changeBG(menuItem) {
+	document.getElementById(menuItem+"_bullet").style.backgroundColor = bgMenuColor;
+	document.getElementById(menuItem).style.backgroundColor = bgMenuColor;
+	switch(menuItem) {
+		case "welcome_cell_6":
+		case "whatsnew_cell_8":
+		case "themovies_cell_6":
+		case "beyondthemovies_cell_6":
+		case "gaming_cell_4":
+		case "community_cell_10":
+		case "kids_cell_4":
+		case "shop_cell_3":
+		case "hyperspace_cell_7":
+			document[menuItem+'_bottom'].src=eval("cell_bottom_high.src");
+			break;
+		default:
+			break;
+	}
+}
+
+function removeBG(menuItem) {
+	document.getElementById(menuItem+"_bullet").style.backgroundColor = "";;
+	document.getElementById(menuItem).style.backgroundColor = "";
+	switch(menuItem) {
+		case "welcome_cell_6":
+		case "whatsnew_cell_8":
+		case "themovies_cell_6":
+		case "beyondthemovies_cell_6":
+		case "gaming_cell_4":
+		case "community_cell_10":
+		case "kids_cell_4":
+		case "shop_cell_3":
+		case "hyperspace_cell_7":
+			document[menuItem+'_bottom'].src=eval("cell_bottom.src");
+			break;
+		default:
+			break;
+	}
+}
+
+function startTimer(time)
+{
+	time = 300;
+	timeOn = window.setTimeout("hideMenu()",time);
+}
+
+function stopTimer()
+{	
+	window.clearTimeout(timeOn);
+	timeOn=null;
+}
+	
+var cell_bottom_high = new Image();
+var cell_bottom = new Image();
 
 
-		document.write(css);
 
+window.onresize = adjustNav;
+var bgMenuColor="#C9D5EE";
 
-//-->
+function adjustNav() {
+	initNav();
+	initSubNav();
+}
 </script>
 
-
-	<script language="javascript">
-		if(is.win)
-			document.write("<link rel='stylesheet' Type='text/css' href='/meta/stylesheets/generic.css'>");
-		if(is.mac)
-			document.write("<link rel='stylesheet' Type='text/css' href='/meta/stylesheets/generic_mac.css'>");
-		else
-			document.write("<link rel='stylesheet' Type='text/css' href='/meta/stylesheets/generic.css'>");
-	</script>
-
-
-
-
-
-
-
-
-
-<noscript>
-<link rel="stylesheet" Type="text/css" href="/meta/stylesheets/ie_home.css">
-</noscript>
-</head>
-
-
- <body topmargin="0" marginheight="0" leftmargin="0" marginwidth="0" text="#000000" link="#4d4d4d" vlink="#a1a1a1" alink="#a1a1a1" bgcolor="#ffffff">
-
-
-
-<table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#000000">
-<tbody><tr>
-	<td align="left" valign="top"><a href="/"><img src="/meta/header/img/swlogo.gif" border="0"></a></td>
-	<td align="left" valign="top">
-		<table border="0" cellpadding="0" cellspacing="0">
-		<tbody><tr>
-			<td align="left" valign="top" colspan="6"><img src="/img/clear.gif" width="1" height="13"></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top"><a href="/episode-i/"><img src="/meta/header/img/ep1.gif" border="0"></a></td>
-			<td align="left" valign="top"><a href="/episode-ii/"><img src="/meta/header/img/ep2.gif" border="0"></a></td>
-			<td align="left" valign="top"><a href="/episode-iii/"><img src="/meta/header/img/ep3.gif" border="0"></a></td>
-			<td align="left" valign="top"><a href="/episode-iv/"><img src="/meta/header/img/ep4.gif" border="0"></a></td>
-			<td align="left" valign="top"><a href="/episode-v/"><img src="/meta/header/img/ep5.gif" border="0"></a></td>
-			<td align="left" valign="top"><a href="/episode-vi/"><img src="/meta/header/img/ep6.gif" border="0"></a></td>
-		</tr>
-		</tbody></table>
-	</td>
-	<td align="right" valign="top" width="95%" bgcolor="#000000">
+<script language="javascript">
+		var world = "Welcome";
+	</script><script>var no_bananas = false;</script></head>
 
 	
-		
-		<!-- AD BANNER START -->
+	
+
+
+	
+
+
+	
+
+<body bgcolor="#4E6292" topmargin="0" marginheight="0" marginwidth="0" leftmargin="0" alink="#4E6292" vlink="#4E6292" link="#4E6292" onload="initNav(); initSubNav();">
+<div id="aboutDrop" onmouseover="stopTimer();" onmouseout="startTimer(null);" style="position:absolute; top:0px; left:0px; visibility: hidden">
+<table border="0" cellpadding="0" cellspacing="0" width="194">
+<tbody><tr>
+	<td align="left" valign="top" width="6" bgcolor="#000000"><img src="/img/clear.gif" width="6" height="1"></td>
+	<td align="left" valign="top" width="189" background="/welcome/img/solid_back.gif">
+		<table border="0" cellpadding="0" cellspacing="0" background="/img/clear.gif">
+		<tbody><tr>
+			<td align="left" valign="top" width="188">
+			<table border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+				<td align="left" valign="top" colspan="3"><img src="/img/clear.gif" width="1" height="3"></td>
+				<td align="left" valign="top" width="5" bgcolor="#000000"><img src="/img/clear.gif" width="5" height="1"></td>
+			</tr>
+			<tr>
+				<td align="left" valign="top"><img src="/img/clear.gif" width="3" height="1"></td>
+				<td align="left" valign="top" width="26" id="about_link_1_bullet"><img src="/welcome/img/latestupdates/bullet.gif" width="26" height="20"></td>
+				<td align="left" valign="middle" width="154" id="about_link_1" onmouseover="changeSubBG('about_link_1')" onmouseout="removeSubBG('about_link_1')"><a href="/welcome/about/news/" class="dropLink">Site News</a></td>
+				<td align="left" valign="top" width="5" bgcolor="#000000"><img src="/img/clear.gif" width="5" height="1"></td>
+			</tr>
+			<tr>
+				<td align="left" valign="top"><img src="/img/clear.gif" width="3" height="1"></td>
+				<td align="left" valign="top" bgcolor="#6578A0" colspan="2"><img src="/img/clear.gif" width="1" height="1"></td>
+				<td align="left" valign="top" width="5" bgcolor="#000000"><img src="/img/clear.gif" width="5" height="1"></td>
+			</tr>
+			<tr>
+				<td align="left" valign="top"><img src="/img/clear.gif" width="3" height="1"></td>
+				<td align="left" valign="top" bgcolor="#B9CFFF" colspan="2"><img src="/img/clear.gif" width="1" height="1"></td>
+				<td align="left" valign="top" width="5" bgcolor="#000000"><img src="/img/clear.gif" width="5" height="1"></td>
+			</tr>
+			<tr>
+				<td align="left" valign="top"><img src="/img/clear.gif" width="3" height="1"></td>
+				<td align="left" valign="top" width="26" id="about_link_2_bullet"><img src="/welcome/img/latestupdates/bullet.gif" width="26" height="20"></td>
+				<td align="left" valign="middle" width="154" id="about_link_2" onmouseover="changeSubBG('about_link_2')" onmouseout="removeSubBG('about_link_2')"><a href="/welcome/about/sitemap/" class="dropLink">Site Map</a></td>
+				<td align="left" valign="top" width="5" bgcolor="#000000"><img src="/img/clear.gif" width="5" height="1"></td>
+			</tr>
+			<tr>
+				<td align="left" valign="top"><img src="/img/clear.gif" width="3" height="1"></td>
+				<td align="left" valign="top" bgcolor="#6578A0" colspan="2"><img src="/img/clear.gif" width="1" height="1"></td>
+				<td align="left" valign="top" width="5" bgcolor="#000000"><img src="/img/clear.gif" width="5" height="1"></td>
+			</tr>
+			<tr>
+				<td align="left" valign="top"><img src="/img/clear.gif" width="3" height="1"></td>
+				<td align="left" valign="top" bgcolor="#B9CFFF" colspan="2"><img src="/img/clear.gif" width="1" height="1"></td>
+				<td align="left" valign="top" width="5" bgcolor="#000000"><img src="/img/clear.gif" width="5" height="1"></td>
+			</tr>
+
+			<tr>
+				<td align="left" valign="top"><img src="/img/clear.gif" width="3" height="1"></td>
+				<td align="left" valign="top" width="26" id="about_link_3_bullet"><img src="/welcome/img/latestupdates/bullet.gif" width="26" height="20"></td>
+				<td align="left" nowrap="" valign="middle" width="154" id="about_link_3" onmouseover="changeSubBG('about_link_3')" onmouseout="removeSubBG('about_link_3')"><a href="/welcome/about/faq/" class="dropLink">Frequently Asked Questions</a></td>
+				<td align="left" valign="top" width="5" bgcolor="#000000"><img src="/img/clear.gif" width="5" height="1"></td>
+			</tr>
+			</tbody></table>
+			</td>
+	</tr>
+	</tbody></table>
+	</td>
+</tr>
+<tr>
+	<td align="left" valign="bottom" colspan="3"><img src="/welcome/img/nav/bottom_about.gif" name="about_link_3_bottom"></td>
+</tr>
+</tbody></table>
+</div>
+<div id="membershipDrop" onmouseover="stopTimer();" onmouseout="startTimer(null);" style="position:absolute; top:0px; left:0px; visibility: hidden">
+<table border="0" cellpadding="0" cellspacing="0" width="194">
+<tbody><tr>
+	<td align="left" valign="top" width="6" bgcolor="#000000"><img src="/img/clear.gif" width="6" height="1"></td>
+	<td align="left" valign="top" width="189" background="/welcome/img/solid_back.gif">
+		<table border="0" cellpadding="0" cellspacing="0" background="/img/clear.gif">
+		<tbody><tr>
+			<td align="left" valign="top" width="188">
+			<table border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+				<td align="left" valign="top" colspan="3"><img src="/img/clear.gif" width="1" height="3"></td>
+				<td align="left" valign="top" width="5" bgcolor="#000000"><img src="/img/clear.gif" width="5" height="1"></td>
+			</tr>
+			<tr>
+				<td align="left" valign="top"><img src="/img/clear.gif" width="3" height="1"></td>
+				<td align="left" valign="top" width="26" id="membership_link_1_bullet"><img src="/welcome/img/latestupdates/bullet.gif" width="26" height="20"></td>
+				<td align="left" valign="middle" width="154" id="membership_link_1" onmouseover="changeSubBG('membership_link_1')" onmouseout="removeSubBG('membership_link_1')"><a href="/webapps/registration/registration" class="dropLink">Become A Member</a></td>
+				<td align="left" valign="top" width="5" bgcolor="#000000"><img src="/img/clear.gif" width="5" height="1"></td>
+			</tr>
+			<tr>
+				<td align="left" valign="top"><img src="/img/clear.gif" width="3" height="1"></td>
+				<td align="left" valign="top" bgcolor="#6578A0" colspan="2"><img src="/img/clear.gif" width="1" height="1"></td>
+				<td align="left" valign="top" width="5" bgcolor="#000000"><img src="/img/clear.gif" width="5" height="1"></td>
+			</tr>
+			<tr>
+				<td align="left" valign="top"><img src="/img/clear.gif" width="3" height="1"></td>
+				<td align="left" valign="top" bgcolor="#B9CFFF" colspan="2"><img src="/img/clear.gif" width="1" height="1"></td>
+				<td align="left" valign="top" width="5" bgcolor="#000000"><img src="/img/clear.gif" width="5" height="1"></td>
+			</tr>
+			<tr>
+				<td align="left" valign="top"><img src="/img/clear.gif" width="3" height="1"></td>
+				<td align="left" valign="top" width="26" id="membership_link_2_bullet"><img src="/welcome/img/latestupdates/bullet.gif" width="26" height="20"></td>
+				
+				<td align="left" valign="middle" width="154" id="membership_link_2" onmouseover="changeSubBG('membership_link_2')" onmouseout="removeSubBG('membership_link_2')"><a href="/webapps/registration/sign-in?forward=/welcome/" class="dropLink">Sign On</a></td>
+				
+				<td align="left" valign="top" width="5" bgcolor="#000000"><img src="/img/clear.gif" width="5" height="1"></td>
+			</tr>
+			<tr>
+				<td align="left" valign="top"><img src="/img/clear.gif" width="3" height="1"></td>
+				<td align="left" valign="top" bgcolor="#6578A0" colspan="2"><img src="/img/clear.gif" width="1" height="1"></td>
+				<td align="left" valign="top" width="5" bgcolor="#000000"><img src="/img/clear.gif" width="5" height="1"></td>
+			</tr>
+			<tr>
+				<td align="left" valign="top"><img src="/img/clear.gif" width="3" height="1"></td>
+				<td align="left" valign="top" bgcolor="#B9CFFF" colspan="2"><img src="/img/clear.gif" width="1" height="1"></td>
+				<td align="left" valign="top" width="5" bgcolor="#000000"><img src="/img/clear.gif" width="5" height="1"></td>
+			</tr>
+
+			<tr>
+				<td align="left" valign="top"><img src="/img/clear.gif" width="3" height="1"></td>
+				<td align="left" valign="top" width="26" id="membership_link_3_bullet"><img src="/welcome/img/latestupdates/bullet.gif" width="26" height="20"></td>
+				<td align="left" nowrap="" valign="middle" width="154" id="membership_link_3" onmouseover="changeSubBG('membership_link_3')" onmouseout="removeSubBG('membership_link_3')"><a href="/webapps/registration/update-registration" class="dropLink">Your Settings</a></td>
+				<td align="left" valign="top" width="5" bgcolor="#000000"><img src="/img/clear.gif" width="5" height="1"></td>
+			</tr>
+			<tr>
+				<td align="left" valign="top"><img src="/img/clear.gif" width="3" height="1"></td>
+				<td align="left" valign="top" bgcolor="#6578A0" colspan="2"><img src="/img/clear.gif" width="1" height="1"></td>
+				<td align="left" valign="top" width="5" bgcolor="#000000"><img src="/img/clear.gif" width="5" height="1"></td>
+			</tr>
+			<tr>
+				<td align="left" valign="top"><img src="/img/clear.gif" width="3" height="1"></td>
+				<td align="left" valign="top" bgcolor="#B9CFFF" colspan="2"><img src="/img/clear.gif" width="1" height="1"></td>
+				<td align="left" valign="top" width="5" bgcolor="#000000"><img src="/img/clear.gif" width="5" height="1"></td>
+			</tr>
+
+			<tr>
+				<td align="left" valign="top"><img src="/img/clear.gif" width="3" height="1"></td>
+				<td align="left" valign="top" width="26" id="membership_link_4_bullet"><img src="/welcome/img/latestupdates/bullet.gif" width="26" height="20"></td>
+				<td align="left" valign="middle" width="154" id="membership_link_4" onmouseover="changeSubBG('membership_link_4')" onmouseout="removeSubBG('membership_link_4')"><a href="/webapps/registration/subscriptions" class="dropLink">Your Subscriptions</a></td>
+				<td align="left" valign="top" width="5" bgcolor="#000000"><img src="/img/clear.gif" width="5" height="1"></td>
+			</tr>
+			<tr>
+				<td align="left" valign="top"><img src="/img/clear.gif" width="3" height="1"></td>
+				<td align="left" valign="top" bgcolor="#6578A0" colspan="2"><img src="/img/clear.gif" width="1" height="1"></td>
+				<td align="left" valign="top" width="5" bgcolor="#000000"><img src="/img/clear.gif" width="5" height="1"></td>
+			</tr>
+			<tr>
+				<td align="left" valign="top"><img src="/img/clear.gif" width="3" height="1"></td>
+				<td align="left" valign="top" bgcolor="#B9CFFF" colspan="2"><img src="/img/clear.gif" width="1" height="1"></td>
+				<td align="left" valign="top" width="5" bgcolor="#000000"><img src="/img/clear.gif" width="5" height="1"></td>
+			</tr>
+
+			<tr>
+				<td align="left" valign="top"><img src="/img/clear.gif" width="3" height="1"></td>
+				<td align="left" valign="top" width="26" id="membership_link_5_bullet"><img src="/welcome/img/latestupdates/bullet.gif" width="26" height="20"></td>
+				<td align="left" valign="middle" width="154" id="membership_link_5" onmouseover="changeSubBG('membership_link_5')" onmouseout="removeSubBG('membership_link_5')"><a href="http://cargobay.starwars.com/webapps/cargobay/fan-collection?type=want" class="dropLink">Your Collection</a></td>
+				<td align="left" valign="top" width="5" bgcolor="#000000"><img src="/img/clear.gif" width="5" height="1"></td>
+			</tr>
+			</tbody></table>
+			</td>
+	</tr>
+	</tbody></table>
+	</td>
+</tr>
+<tr>
+	<td align="left" valign="bottom" colspan="3"><img src="/welcome/img/nav/bottom_about.gif" name="membership_link_5_bottom"></td>
+</tr>
+</tbody></table>
+</div>
+
+<map name="bimg_map">
+<area shape="rect" alt="[ Welcome ]" coords="15,0,187,19" onmouseover="showMenu('welcome')" href="/site/">
+<area shape="rect" alt="[ What's New ]" coords="15,19,187,40" onmouseover="showMenu('whatsnew')" href="/whatsnew/">
+<area shape="rect" alt="[ The Movies ]" coords="15,41,187,62" onmouseover="showMenu('themovies')" href="/themovies/">
+<area shape="rect" alt="[ Beyond the Movies ]" coords="15,63,187,85" onmouseover="showMenu('beyondthemovies')" href="/beyondthemovies/">
+<area shape="rect" alt="[ Gaming ]" coords="15,86,187,106" onmouseover="showMenu('gaming')" href="/gaming/">
+<area shape="rect" alt="[ Community ]" coords="15,107,187,128" onmouseover="showMenu('community')" href="/community/">
+<area shape="rect" alt="[ Kids ]" coords="15,129,187,150" onmouseover="showMenu('kids')" href="/kids/">
+<area shape="rect" alt="[ Shop ]" coords="15,151,186,172" onmouseover="showMenu('shop')" href="http://www.starwarsshop.com/?ReferrerID=SWCMNH-00001">
+<area shape="rect" alt="[ Hyperspace ]" coords="15,173,187,201" onmouseover="showMenu('hyperspace')" href="/hyperspace/">
+<area shape="rect" alt="[ Starwars.com ]" coords="9,14,186,41" href="/">
+</map>
+
+
+	
 
 <!-- Site -->
 
-  <!-- Javascript BEGIN -->
- <script language="JavaScript">
-  ord=Math.random()*10000000000000000;
-  document.write('<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/starwars.siteinfo/;dcopt=ist;pos=top;tile=1;sz=468x60;ord=' + ord + '?" ><\/SCRIPT>');
- </script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/starwars.siteinfo/;dcopt=ist;pos=top;tile=1;sz=468x60;ord=1700158350660812?"></script>
- <noscript>
-  <A HREF="http://ad.doubleclick.net/jump/starwars.siteinfo/;pos=top;tile=1;sz=468x60;ord=123456789?" TARGET="_blank">
-  <IMG SRC="http://ad.doubleclick.net/ad/starwars.siteinfo/;pos=top;tile=1;sz=468x60;ord=123456789?" WIDTH="468" HEIGHT="60" BORDER="0" ALT=""></A>
- </noscript>
+	<table border="0" cellpadding="0" cellspacing="0" width="100%" height="108">
+	<tbody><tr>
+		<td align="center" valign="middle" width="100%" height="108" bgcolor="#000000"> 
+		<table border="0" cellpadding="0" cellspacing="0" width="974" height="108" align="center">
+			<tbody><tr><td align="left" valign="middle" height="108"><a href="/hyperspace/about/faq.html#adfree"><img src="/meta/ads/img/disable_head.gif" width="64" height="90" alt="[ Disable This Ad - Join Now! ]" border="0"></a></td>
+			<td width="7"><img src="/img/clear.gif" width="7" height="1"></td>
+			<td align="left" valign="middle" height="108" width="728">
+			<script language="JavaScript">
+			headAd = true;
+			document.write('<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/starwars.siteinfo/;dcopt=ist;pos=top;tile=1;sz=728x90;ord=' + ord + '?" ><\/SCRIPT>');
+			</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/starwars.siteinfo/;dcopt=ist;pos=top;tile=1;sz=728x90;ord=7617178321500824?"></script>
+			<noscript>
+			<A HREF="http://ad.doubleclick.net/jump/starwars.siteinfo/;pos=top;tile=1;sz=728x90;ord=123456789?" TARGET="_blank">
+			<IMG SRC="http://ad.doubleclick.net/ad/starwars.siteinfo/;pos=top;tile=1;sz=728x90;ord=123456789?" WIDTH="728" HEIGHT="90" BORDER="0" ALT=""></A>
+			</noscript>
+			</td>
+			<td><img src="/img/clear.gif" width="172" height="1"></td>
+		</tr></tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td><img src="/img/clear.gif" width="1" height="18"></td>
+	</tr>
+	</tbody></table>
   
 
 
 
 
-<!-- AD BANNER END -->
-	
 
-</td>
 
-	
-	<td align="left" valign="top"><a href="/hyperspace/about/faq.html#adfree"><img src="/meta/ads/img/disable.gif" border="0" alt="[ Disable Ad ]"></a></td>
-	
 
-</tr>
-</tbody></table>
+<map name="bimg_map_sw">
+<area shape="rect" alt="[ Starwars.com ]" coords="11,12,187,46" href="/">
+</map>
 
-<script language="javascript">
-<!--
-
-if(document.images)
-{
-	var empty		= new Image();
-	empty.src		= "/meta/header/img/empty_desc.gif"
-	var siteinfo	= new Image();
-	siteinfo.src	="/meta/header/img/siteinfo_desc.gif"
-	var community	= new Image();
-	community.src	="/meta/header/img/community_desc.gif"
-	var collecting	= new Image();
-	collecting.src	="/meta/header/img/collecting_desc.gif"
-	var eu			= new Image();
-	eu.src			="/meta/header/img/eu_desc.gif"
-	var databank	= new Image();
-	databank.src	="/meta/header/img/databank_desc.gif"
-	var swtoday		= new Image();
-	swtoday.src		="/meta/header/img/swtoday_desc.gif"
-}
-
-pageLoadCheck=0;
-
-function changeDesc(desc)
-{
-
-	if(pageLoadCheck)
-	{
-		if(document.images)
-		{
-			if(desc == 'null')
-			{
-				document['nav_desc'].src = eval("empty.src");
-			}
-			else
-			{
-				document['nav_desc'].src = eval(desc + ".src");
-			}
-		}
-	}
-
-}
-
-//-->
-</script>
-<table border="0" cellpadding="0" cellspacing="0">
+<table border="0" cellpadding="0" cellspacing="0" width="804" align="center">
 <tbody><tr>
-	<td align="left" valign="top"><img src="/meta/header/img/subleft.gif"></td>
-	<td align="left" valign="top"><a href="/site/" onmouseover="changeDesc('siteinfo')" onmouseout="changeDesc('null')"><img src="/meta/header/img/siteinfo.gif" border="0"></a></td>
-	<td align="left" valign="top"><a href="/community/" onmouseover="changeDesc('community')" onmouseout="changeDesc('null')"><img src="/meta/header/img/community.gif" border="0"></a></td>
-	<td align="left" valign="top"><a href="/collecting/" onmouseover="changeDesc('collecting')" onmouseout="changeDesc('null')"><img src="/meta/header/img/collecting.gif" border="0"></a></td>
-	<td align="left" valign="top"><a href="/eu/" onmouseover="changeDesc('eu')" onmouseout="changeDesc('null')"><img src="/meta/header/img/eu.gif" border="0"></a></td>
-	<td align="left" valign="top"><a href="/databank/" onmouseover="changeDesc('databank')" onmouseout="changeDesc('null')"><img src="/meta/header/img/databank.gif" border="0"></a></td>
-	<td align="left" valign="top"><a href="/swtoday/" onmouseover="changeDesc('swtoday')" onmouseout="changeDesc('null')"><img src="/meta/header/img/swtoday.gif" border="0"></a></td>
-	<td align="left" valign="top"><img src="/meta/header/img/subright.gif"></td>
-</tr>
-</tbody></table>
-
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-	<tbody><tr><td align="left" valign="top">
-	<table border="0" cellpadding="0" cellspacing="0" width="100%">
-	<tbody><tr>
-		<td align="left" valign="top"><img src="/site/img/site_curve.jpg"></td>
-	</tr>
-	</tbody></table>
-
-
-	<script language="javascript">
-	<!--
-
-	if(document.images)
-	{
-
-
-		var news1		= new Image();
-		news1.src		= "/meta/subnav/img/news1.gif";
-		var news2		= new Image();
-		news2.src		= "/meta/subnav/img/news2.gif";
-		var members1	= new Image();
-		members1.src	= "/meta/subnav/img/members1.gif";
-		var members2	= new Image();
-		members2.src	= "/meta/subnav/img/members2.gif";
-		var sitemap1	= new Image();
-		sitemap1.src	= "/meta/subnav/img/sitemap1.gif";
-		var sitemap2	= new Image();
-		sitemap2.src	= "/meta/subnav/img/sitemap2.gif";
-		var faq1		= new Image();
-		faq1.src		= "/meta/subnav/img/faq1.gif";
-		var faq2		= new Image();
-		faq2.src		= "/meta/subnav/img/faq2.gif";
-		var search1		= new Image();
-		search1.src		= "/meta/subnav/img/search1.gif";
-		var search2		= new Image();
-		search2.src		= "/meta/subnav/img/search2.gif";
-	}
-
-	function highlightSubNav(img)
-	{
-		if(document.images)
-		{
-			document[img].src = eval(img + "2.src");
-		}
-	}
-
-	function unhighlightSubNav(img)
-	{
-		if(document.images)
-		{
-			document[img].src = eval(img + "1.src");
-		}
-	}
-	//-->
-	</script>
-
-	<table border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td align="left" valign="top" bgcolor="#000000"><img src="/img/clear.gif" height="1" width="37"></td>
-		<td align="left" valign="top">
-			<table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
-			<tbody><tr>
-				<td align="left" valign="top"><a href="/site/news/" onmouseover="highlightSubNav('news')" onmouseout="unhighlightSubNav('news')"><img src="/meta/subnav/img/news1.gif" border="0" name="news"></a></td>
-			</tr>
-			<tr>
-				<td align="left" valign="top"><a href="/site/members/" onmouseover="highlightSubNav('members')" onmouseout="unhighlightSubNav('members')"><img src="/meta/subnav/img/members1.gif" border="0" name="members"></a></td>
-			</tr>
-			<tr>
-				<td align="left" valign="top"><a href="/site/sitemap/" onmouseover="highlightSubNav('sitemap')" onmouseout="unhighlightSubNav('sitemap')"><img src="/meta/subnav/img/sitemap1.gif" border="0" name="sitemap"></a></td>
-			</tr>
-			<tr>
-				<td align="left" valign="top"><a href="/site/faq.html" onmouseover="highlightSubNav('faq')" onmouseout="unhighlightSubNav('faq')"><img src="/meta/subnav/img/faq1.gif" border="0" name="faq"></a></td>
-			</tr>
-			<tr>
-				<td align="left" valign="top"><a href="/site/search/" onmouseover="highlightSubNav('search')" onmouseout="unhighlightSubNav('search')"><img src="/meta/subnav/img/search1.gif" border="0" name="search"></a></td>
-			</tr>
-			</tbody></table>
-		</td>
-		<td align="left" valign="top" bgcolor="#000000"><img src="/meta/subnav/img/right_site.gif"></td>
-	</tr>
-	</tbody></table>
-
-	<table border="0" cellpadding="0" cellspacing="0">
-		<tbody><tr><td align="left" valign="top"><img src="/meta/subnav/img/bottom_site.jpg"></td>
-	</tr></tbody></table>
-
-</td>
-<td align="left" valign="top" width="100%">
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tbody><tr>
-	<td align="left" valign="top" colspan="2"><img src="/meta/header/img/empty_desc.gif" name="nav_desc"></td>
-</tr>
-<tr>
-	<td align="left" valign="top"><img src="/img/spacer.gif" height="1" width="30"></td>
-
-
-	<td align="left" valign="top" width="100%">
-
-
-	<p>&nbsp;<br>
-
-	
+	<!-- Main Table - Column 1 -->
+	<td align="left" valign="top" width="187">
+		<table border="0" cellpadding="0" cellspacing="0" background="/img/clear.gif">
+		<tbody><tr>
+			<td align="left" valign="top"><img src="/welcome/img/front/nav_image_top.jpg" border="0" usemap="#bimg_map_sw"></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top"><div style="position:relative; top:0px; left:0px" id="navigation"><img src="/welcome/img/front/nav_image_bottom.jpg" border="0" usemap="#bimg_map"></div>
 		
-		<img src="/meta/content/img/banners/site_banner.jpg">
-		
-	
-
-
-	<br>
-	<table border="0" cellpadding="0" cellspacing="2">
-		<tbody><tr><td align="left" valign="bottom" nowrap=""><font face="arial, helvetica, sans-serif" size="1"><a href="/">starwars.com</a></font></td>
-		<td align="left" valign="middle"><img src="/meta/content/img/dot.gif" align="bottom"></td>
-
-		
-		<td align="left" valign="bottom" nowrap=""><font face="arial, helvetica, sans-serif" size="1"><a href="/site/">Site Info</a></font></td>
-		<td align="left" valign="middle"><img src="/meta/content/img/dot.gif" align="bottom"></td>
-		
-		
-		
-		
-		<td align="left" valign="bottom" nowrap=""><font face="arial, helvetica, sans-serif" size="1"><font color="#E9DA8D">Privacy Policy</font></font></td>
-		
-	</tr></tbody></table>
-
-
-	
 			
+				<img src="/welcome/img/front/nav_image_bottom_strip.gif"></td>
+			
+			
+	</tr>
 	
+	
+	
+	</tbody></table>
+	</td>
+	<td align="left" valign="top" width="617">
+	<table border="0" cellpadding="0" cellspacing="0" width="617" background="/img/clear.gif">
+	<tbody><tr>
+		<td align="right" valign="top" colspan="2" background="/welcome/img/search_area.jpg">
+		<table border="0" cellpadding="0" cellspacing="0" background="/img/clear.gif">
+		<tbody><tr>
+			<td align="left" valign="top" colspan="2"><img src="/img/clear.gif" width="1" height="14"></td>
+		</tr>
+		<tr>
+			<td align="right" valign="top" width="100%">
+			<table border="0" cellpadding="0" cellspacing="0" background="/img/clear.gif">
+				<tbody><tr><td align="left" valign="top">
+				<form method="POST" action="/search">
+				<input type="image" src="/welcome/img/search_button.gif" border="0"></form></td>
+				<td align="left" valign="middle">&nbsp;</td>
+				<td align="left" valign="middle"><input type="text" name="query" value="" size="25" maxlength="256" style="color: #000000; font-family: Arial,Helvetica,Verdana; font-weight: none; font-size: 11px; background-color: #ffffff;"></td>
+			</tr></tbody></table>
+			</td>
+			<td align="right" valign="top"><img src="/img/clear.gif" width="19" height="22"></td>
+		</tr>
+		</tbody></table>
+		</td>
+	</tr>
+	</tbody></table>
+	<table border="0" cellpadding="0" cellspacing="0" width="617" background="/img/clear.gif">
+	<tbody><tr>
+		<td align="left" valign="top" bgcolor="#00000"><img src="/img/clear.gif" width="10" height="23"></td>
+		<td align="left" valign="middle" bgcolor="#00000" width="50%" style="padding-left:4px"><div class="serviceText"><i><script language="javascript">showUserName("topPage");</script>Hello, you are not signed on.</i></div></td>
+		<td align="right" valign="middle" bgcolor="#00000" width="50%"><div class="serviceText"><script language="javascript">showServicesText("topPage", '/welcome/about/privacy_policy.html');</script><a href="/webapps/registration/sign-in?forward=/welcome/about/privacy_policy.html" class="serviceText">sign on</a> | <a href="/site/faq.html" class="serviceText">site help</a></div></td>
+		<td align="left" valign="top" width="17"><img src="/welcome/img/services_right.gif" width="17" height="23"></td>
+	</tr>
+	</tbody></table>
+	<a href="/welcome/"><img src="/welcome/img/welcome_title.gif" border="0" alt="[ Welcome ]"></a><br>
+	<table border="0" cellpadding="0" cellspacing="0" background="/img/clear.gif">
+	<tbody><tr>
+		<td align="left" valign="top" rowspan="1" colspan="2" bgcolor="#000000" style="padding-left:14px"><div style="position:relative; top:0px; left:0px" id="subNavigation"><a href="/welcome/about/" onmouseover="stopTimer();showSubMenu('aboutDrop'); swapImgOn('about')" onmouseout="onMouseOut=startTimer(null);swapImgOff('about')"><img src="/welcome/img/nav/about_off.gif" border="0" alt="[ About Starwars.com ]" name="about"></a><a href="/welcome/member/" onmouseover="stopTimer();showSubMenu('membershipDrop'); swapImgOn('membership')" onmouseout="onMouseOut=startTimer(null);swapImgOff('membership')"><img src="/welcome/img/nav/membership_off.gif" border="0" alt="[ Membership ]" name="membership"></a></div></td>
+		<td align="left" valign="top" rowspan="2"><img src="/welcome/img/nav/nav_right_content.gif"></td>
+	</tr>
+	<tr>
 
-	
-	</p><p>
-	<font face="arial" size="3" color="#E9DA8D"><b><font color="#E9DA8D">Privacy Policy</font></b></font><br>
-	
+		<td align="left" valign="top" width="10" bgcolor="#000000"><img src="/img/clear.gif" width="10" height="1"></td>
+		<td align="left" valign="top" bgcolor="#C4C4C4"><img src="/img/clear.gif" width="466" height="3"></td>
 
-	</p><p>
-	
+	</tr>
+	</tbody></table>
+
+
+
+
+
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%" background="/img/clear.gif">
+	<tbody><tr><td align="left" valign="top" width="100%">
+	<table border="0" cellpadding="0" cellspacing="0" width="617">
+		<tbody><tr><td align="left" valign="top" background="/img/gray_black.gif" width="13"><img src="/img/clear.gif" width="13" height="250"></td>
+		<td align="left" valign="top" width="604" background="/img/white.gif">
+		<table border="0" cellpadding="0" cellspacing="0" width="564" align="center" background="/img/clear.gif">
 		
+		<tbody><tr>
+			<td align="left" valign="top"><img src="/img/clear.gif" width="1" height="5"></td>
+		</tr>
+		
+		<tr>
+			<td align="left" valign="top"><div class="breadCrumb"><a href="/" class="breadCrumb">starwars.com</a> &gt; <a href="/welcome" class="breadCrumb">Welcome</a> &gt; <a href="/welcome/about" class="breadCrumb">About starwars.com</a> &gt; Privacy Policy</div></td>
+		</tr>
+		</tbody></table>
 
-		</p><div class="textBody">
-		<name="top"> <table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td width="10%" valign="top"><div class="textBody">&nbsp; </div></td><td width="80%" colspan="2" valign="top"><div class="textBody"><p><b>Lucas Online</b></p><p>WELCOME!
+		<table border="0" cellpadding="0" cellspacing="0" width="564" align="center" background="/img/clear.gif">
+		<tbody><tr>
+			<td align="left" valign="top">
+			
+			
+			
+				<br>
+				
+				<div class="docTitle">Privacy Policy</div>
+				
+			
+				<p>
+			
+			
+			
+
+			
+				</p><div class="textBody">
+				
+				<name="top"> <table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td width="10%" valign="top"><div class="textBody">&nbsp; </div></td><td width="80%" colspan="2" valign="top"><div class="textBody"><p><b>Lucas Online</b></p><p>WELCOME!
 
 </p><p></p><div class="textBody">We are committed to respecting the privacy rights of all visitors to our Web site.
 This Privacy Policy also explains the choices that you can make about the way your
@@ -731,230 +915,880 @@ contact us at the address below.<p></p>
 
 <p></p><div class="textBody">If you wish to review, correct or delete information that Lucasfilm may have about
 you or your child, or wish to inform us that you do not permit further collection or
-use of your child’s information, please contact us at the following address: <img src="/site/img/lol_logo.jpg" border="0" vspace="8" hspace="8" align="left" valign="top"><br><img src="/img/clear.gif" height="6"><br>Webmaster<br> P.O. Box 10228<br> San Rafael, CA 94912<br> (415) 662-1555<br> Attn: Webmaster <br><a href="mailto:webmaster@starwars.com">webmaster@starwars.com</a><br clear="all"><br>Or <a href="/share/feedback/privacy.html">click here</a> to submit your questions online. <p> For additional information about our Web site, please see our <a href="/site/copyright.html">Terms of Use.</a> To see the
+use of your child’s information, please contact us at the following address: <p>Lucas Online<br> P.O. Box 29901<br> San Francisco, CA 94129-0901<br> Attn: Webmaster <br>(415) 623-1113 <br><a href="mailto:webmaster@starwars.com">webmaster@starwars.com</a><br clear="all"><br>Or <a href="/share/feedback/privacy.html">click here</a> to submit your questions online. </p><p> For additional information about our Web site, please see our <a href="/welcome/about/copyright.html">Terms of Use.</a> To see the
 other operators who may collect personal information from this website, please view the
-Privacy Policy: Appendix A, by clicking <a href="/site/privacy_policy_a.html">here</a>.</p><p> Thanks. Have fun! <a href="#top">Back to start</a> of Our Privacy Policy. </p><p> © 2004 Lucasfilm Ltd. and/or its affiliated and related entities. All rights reserved.</p><p>Effective Date: 12/23/02
+Privacy Policy: Appendix A, by clicking <a href="/welcome/about/privacy_policy_a.html">here</a>.</p><p> Thanks. Have fun! <a href="#top">Back to start</a> of Our Privacy Policy. </p><p> © <script>var curDate=new Date(); document.write(curDate.getFullYear())</script>2020 Lucasfilm Ltd. and/or its affiliated and related entities. All rights reserved.</p><p>Effective Date: 12/23/02
 	<a href="http://www.bbbonline.org/cks.asp?id=30012011473813365" target="blank"><img src="/site/img/bbb_online.gif" border="0" vspace="5" align="right" valign="top"></a></p><p>
-	We participate in the BBBOnline Privacy Program. See <a href="http://www.bbbonline.org/cks.asp?id=30012011473813365" target="blank">www.bbbonline.com</a>.</p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></td>
+	We participate in the BBBOnline Privacy Program. See <a href="http://www.bbbonline.org/cks.asp?id=30012011473813365" target="blank">www.bbbonline.com</a>.</p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></td> <td width="10%" valign="top">&nbsp;</td></tr>    <tr><td colspan="4" align="left"></td></tr>    </tbody></table>
+				
+				</name="top"></div>
+				<br>
+			
+			
+			</td>
+		</tr>
+		<tr>
+			<td align="left" valign="top"><img src="/img/clear.gif" width="1" height="12"></td>
+		</tr>
+		</tbody></table>
+		</td>
+		<td align="left" valign="top" bgcolor="#000000" width="10"><img src="/img/clear.gif" width="10" height="1"></td>
+		<td align="left" valign="top" bgcolor="#3A496D" width="4"><img src="/img/clear.gif" width="4" height="1"></td>
+	</tr></tbody></table>
 
-	<td width="10%" valign="top">&nbsp;</td></tr>
+<map name="content_bottom_map">
+<area shape="rect" alt="[ Discuss This ]" coords="469,9,588,26" href="http://forums.starwars.com/">
 
-    <tr><td colspan="4" align="left"></td></tr>
+	<area shape="rect" alt="[ Email This ]" coords="369,9,461,26" href="javascript:doMail('Welcome');">
+
+</map>
+
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+	<td align="left" valign="top" colspan="3"><img src="/welcome/img/content/content_generic_bottom.gif" border="0" usemap="#content_bottom_map"></td>
+</tr>
+</tbody></table>
+</td>
+</tr></tbody></table>
 
 
-    </tbody></table>
-		<p>
-		</p></name="top"></div>
-		<p>
 
-	<!-- #endif -->
+
+
+
+
+
+	
+
+
+
+
+	
+
+	<img src="/img/clear.gif" width="1" height="13"><br>
+	<center>
+		<div class="copyRightText">© Lucasfilm <script>var curDate=new Date(); document.write(curDate.getFullYear())</script>2020. All rights reserved. | <a href="/welcome/about/copyright.html" class="copyrightLink">Terms of Use</a> | <a href="/welcome/about/privacy_policy.html" class="copyrightLink">Privacy Policy</a> | <a href="/welcome/about/privacy_policy_a.html" class="copyrightLink">Business inquiries</a></div>
+		<img src="/welcome//img/lol_footer.gif">
+	</center>
+	<!-- START Nielsen//NetRatings Measurement V5.1 -->
+	<!-- COPYRIGHT 2004 Nielsen//NetRatings Limited -->
+	<script language="JavaScript" type="text/javascript">
+	<!--
+	var _rsCI="us-lucasarts";
+	var _rsCG="starwars";
+	var _rsDT=0;
+	var _rsDU=0;
+	var _rsDO=0;
+	var _rsX6=0;
+	var _rsSI=escape(window.location);
+	var _rsLP=location.protocol.indexOf('https')>-1?'https:':'http:';
+	var _rsRP=escape(document.referrer);
+	var _rsND=_rsLP+'//secure-us.imrworldwide.com/';
+	if (parseInt(navigator.appVersion)>=4)
+	{
+	var _rsRD=(new Date()).getTime();
+	var _rsSE=1;
+	var _rsSV="";
+	var _rsSM=1;
+	_rsCL='<scr'+'ipt language="JavaScript" type="text/javascript" src="'+_rsND+'v51.js"><\/scr'+'ipt>';
+	}
+	else
+	{
+	_rsCL='<img src="'+_rsND+'cgi-bin/m?ci='+_rsCI+'&cg='+_rsCG+'&si='+_rsSI+'&rp='+_rsRP+'">';
+	}
+	document.write(_rsCL);
+	//-->
+	</script><script language="JavaScript" type="text/javascript" src="https://secure-us.imrworldwide.com/v51.js"></script>
+	<noscript>
+	<img src="http://secure-us.imrworldwide.com/cgi-bin/m?ci=us-lucasarts&amp;cg=starwars"  />
+	</noscript>
+<!-- END Nielsen//NetRatings Measurement V5.1 -->
+ </td>
+
+ 
+ 	
+	<td align="left" valign="top" width="10"><img src="/img/clear.gif" width="10" height="1"></td>
+	<td align="left" valign="top" width="120">
+
+<!-- Site -->
+
+ <script language="JavaScript">
+  document.write('<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/starwars.siteinfo/;pos=tower;tile=4;sz=160x600;ord=' + ord + '?" ><\/SCRIPT>');
+ </script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/starwars.siteinfo/;pos=tower;tile=4;sz=160x600;ord=7617178321500824?"></script>
+<noscript>
+  <A HREF="http://ad.doubleclick.net/jump/starwars.siteinfo/;pos=tower;tile=4;sz=160x600;ord=123456789?" TARGET="_blank">
+  <IMG SRC="http://ad.doubleclick.net/ad/starwars.siteinfo/;pos=tower;tile=4;sz=160x600;ord=123456789?" WIDTH="160" HEIGHT="600" BORDER="0" ALT=""></A>
+</noscript>
+  
+  
+
+
+<br>
+<img src="/img/clear.gif" width="160" height="1">
+
+
+</td>
+ 	
+
+
+ </tr>
+</tbody></table>
+
+
 
 	
 	
-	
+		<script>drop_path = '/welcome/img/';</script>
+
+
 
 	
-		
-	
 
-        <table border="0" cellpadding="0" cellspacing="0">
-        <tbody><tr><td align="left" valign="top" nowrap="">
-	<script language="javascript">
-<!--
 
-function doMail()
-{
 
-	var screenWidth		=	(screen.width - 600) / 2;
-	var screenHeight	=	(screen.height - 370) / 2;
+<div id="welcome" onmouseover="stopTimer();" onmouseout="startTimer(null);" style="position: absolute; top: 137px; bottom: 300px; left: 292px; width: 320px; height: 160px; visibility: hidden;">
+<table border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr><td align="left" valign="top">
+	<table border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td align="left" valign="top"><a href="/welcome/"><img src="/welcome/img/dropdowns/welcome/welcome.gif" border="0" alt="[ Welcome ]"></a></td>
+	</tr>
+	<tr>
+		<td align="right" valign="top" height="60" onmouseover="hideMenu()">&nbsp;</td>
+	</tr>
+	</tbody></table>
+	</td><td align="left" valign="top">
+	<table border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td align="left" valign="top" colspan="3"><img src="/welcome/img/dropdowns/top.gif"></td>
+	</tr>
+	<tr>
+		<td align="left" valign="top" width="6" background="/welcome/img/dropdowns/left_stretch.gif"><img src="/welcome/img/dropdowns/left_top.gif"></td>
+		<td align="left" valign="top" width="223" bgcolor="#93AADC">
+		<table border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td align="left" valign="top" colspan="2" background="/welcome/img/dropdowns/bar.gif"><img src="/img/clear.gif" width="1" height="6"></td>
+		</tr>
+		<tr>
+			<td align="left" valign="middle" colspan="2" background="/welcome/img/dropdowns/bar.gif"><div class="nav_userText">&nbsp;&nbsp;&nbsp;<script language="javascript">showUserName("site_nav");</script>Hello, you are not signed on.</div></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" colspan="2" background="/welcome/img/dropdowns/bar.gif"><img src="/img/clear.gif" width="1" height="4"></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/cat_sep.gif"></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" id="welcome_cell_1_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
+			<td align="left" valign="middle" width="193" id="welcome_cell_1" onmouseover="changeBG('welcome_cell_1')" onmouseout="removeBG('welcome_cell_1')"><script>if(loggedIn) document.write('<a href="/webapps/registration/sign-out"'); else document.write('<a href="/webapps/registration/sign-in"');</script><a href="/webapps/registration/sign-in" class="dropLink"><script>if(loggedIn) document.write('Sign Off'); else document.write('Become A Member');</script>Become A Member</a></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" id="welcome_cell_2_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
+			<td align="left" valign="middle" width="193" id="welcome_cell_2" onmouseover="changeBG('welcome_cell_2')" onmouseout="removeBG('welcome_cell_2')"><script>if(loggedIn) document.write('<a href="/webapps/registration/update-registration"'); else document.write('<a href="/webapps/registration/sign-in"');</script><a href="/webapps/registration/sign-in" class="dropLink"><script>if(loggedIn) document.write('Your Settings'); else document.write('Sign On');</script>Sign On</a></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" id="welcome_cell_3_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
+			<td align="left" valign="middle" width="193" id="welcome_cell_3" onmouseover="changeBG('welcome_cell_3')" onmouseout="removeBG('welcome_cell_3')"><script>if(loggedIn) document.write('<a href="http://cargobay.starwars.com/webapps/cargobay/fan-collection?type=want"'); else document.write('<a href="/webapps/registration/forgot-password"');</script><a href="/webapps/registration/forgot-password" class="dropLink"><script>if(loggedIn) document.write('Your Collection'); else document.write('Forgot Your Password?');</script>Forgot Your Password?</a></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/cat_sep.gif"></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" id="welcome_cell_4_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
+			<td align="left" valign="middle" width="193" id="welcome_cell_4" onmouseover="changeBG('welcome_cell_4')" onmouseout="removeBG('welcome_cell_4')"><a href="/welcome/about/news/" class="dropLink">Site News</a></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" id="welcome_cell_5_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
+			<td align="left" valign="middle" width="193" id="welcome_cell_5" onmouseover="changeBG('welcome_cell_5')" onmouseout="removeBG('welcome_cell_5')"><a href="/welcome/about/sitemap/" class="dropLink">Site Map</a></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" id="welcome_cell_6_bullet"><img src="/welcome/img/dropdowns/bullet_square_bottom.gif"></td>
+			<td align="left" valign="middle" width="193" id="welcome_cell_6" onmouseover="changeBG('welcome_cell_6')" onmouseout="removeBG('welcome_cell_6')"><img src="/img/clear.gif" width="1" height="4"><br><a href="/welcome/about/faq/" class="dropLink">Frequently Asked Questions</a></td>
+		</tr>
+		</tbody></table>
+		</td>
+		<td align="left" valign="top" width="6" background="/welcome/img/dropdowns/right_stretch.gif"><img src="/img/clear.gif" width="6" height="1"></td>
+	</tr>
+	<tr>
+		<td align="left" valign="top" colspan="3"><img src="/welcome/img/dropdowns/bottom.gif" name="welcome_cell_6_bottom"></td>
+	</tr>
+	</tbody></table>
+	</td>
 
-	var url = "/share/PageMailer/PageMailerForm_SW.jsp" + "?title=" + escape (document.title) + "&url=" + escape (document.location);
+</tr></tbody></table>
+</div>
+<div id="whatsnew" onmouseover="stopTimer();" onmouseout="startTimer(null);" style="position: absolute; top: 159px; bottom: 300px; left: 292px; width: 320px; height: 160px; visibility: hidden;">
+<table border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr><td align="left" valign="top">
+	<table border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td align="left" valign="top"><a href="/whatsnew/"><img src="/welcome/img/dropdowns/whatsnew/whatsnew.gif" border="0" alt="[ What's New ]"></a></td>
+	</tr>
+	<tr>
+		<td align="right" valign="top" height="60" onmouseover="hideMenu()">&nbsp;</td>
+	</tr>
+	</tbody></table>
+	</td><td align="left" valign="top">
+			<table border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td align="left" valign="top" colspan="3"><img src="/welcome/img/dropdowns/top.gif"></td>
+	</tr>
+	<tr>
+		<td align="left" valign="top" width="6" background="/welcome/img/dropdowns/left_stretch.gif"><img src="/welcome/img/dropdowns/left_top.gif"></td>
+		<td align="left" valign="top" width="223">
+		<table border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td align="left" valign="middle" colspan="2" background="/welcome/img/dropdowns/whatsnew/back.gif">
+			<table border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td align="left" valign="top" colspan="6"><img src="/img/clear.gif" width="1" height="9"></td>
+			</tr>
+			<tr>
+				<td align="left" valign="top"><img src="/img/clear.gif" width="9" height="1"></td>
+				<td align="left" valign="top"><a href="/hyperspace/member/insideronline/19/index.html"><img src="/hyperspace/img/silos/insideronline/19/20060613_story.gif" border="0" width="77" height="44"></a></td>
+				<td align="left" valign="top" width="10">&nbsp;</td>
+				<td align="left" valign="middle"><a href="/hyperspace/member/insideronline/19/index.html" class="navStory"><i>Lucasfilm Fan Club Magazine</i> #19 Online Supplement</a></td>
+				<td align="left" valign="top" width="10">&nbsp;</td>
+			</tr>
+			<tr>
+				<td align="left" valign="top" colspan="6"><img src="/img/clear.gif" width="1" height="9"></td>
+			</tr>
+			</tbody></table>
+			</td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" bgcolor="#93AADC">
+			<table border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+				<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
+			</tr>
+			<tr>
+				<td align="left" valign="top" id="whatsnew_cell_1_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
+				<td align="left" valign="middle" width="193" id="whatsnew_cell_1" onmouseover="changeBG('whatsnew_cell_1')" onmouseout="removeBG('whatsnew_cell_1')"><a href="/community/fun/caption/2006/06/caption20060613.html" class="dropLink">Fett Accompli</a></td>
+			</tr>
+			<tr>
+				<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
+			</tr>
+			<tr>
+				<td align="left" valign="top" id="whatsnew_cell_2_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
+				<td align="left" valign="middle" width="193" id="whatsnew_cell_2" onmouseover="changeBG('whatsnew_cell_2')" onmouseout="removeBG('whatsnew_cell_2')"><a href="/eu/explore/profile/f20060612/index.html" class="dropLink"><i>Star Wars</i> Artist Series: Da...</a></td>
+			</tr>
+			<tr>
+				<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
+			</tr>
+			<tr>
+				<td align="left" valign="top" id="whatsnew_cell_3_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
+				<td align="left" valign="middle" width="193" id="whatsnew_cell_3" onmouseover="changeBG('whatsnew_cell_3')" onmouseout="removeBG('whatsnew_cell_3')"><a href="/community/event/disney/news20060612.html" class="dropLink">2006 <i>Star Wars</i> Weekends...</a></td>
+			</tr>
+			<tr>
+				<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
+			</tr>
+			<tr>
+				<td align="left" valign="top" id="whatsnew_cell_4_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
+				<td align="left" valign="middle" width="193" id="whatsnew_cell_4" onmouseover="changeBG('whatsnew_cell_4')" onmouseout="removeBG('whatsnew_cell_4')"><a href="/eu/lit/comics/news20060612.html" class="dropLink">Fall 2006 Comics</a></td>
+			</tr>
+			<tr>
+				<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
+			</tr>
+			<tr>
+				<td align="left" valign="top" id="whatsnew_cell_5_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
+				<td align="left" valign="middle" width="193" id="whatsnew_cell_5" onmouseover="changeBG('whatsnew_cell_5')" onmouseout="removeBG('whatsnew_cell_5')"><a href="/hyperspace/about/news/news20060612.html" class="dropLink">Sold-Out Sideshow Trio and...</a></td>
+			</tr>
+			<tr>
+				<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
+			</tr>
+			<tr>
+				<td align="left" valign="top" id="whatsnew_cell_6_bullet"><img src="/welcome/img/dropdowns/bullet_hyperspace.gif"></td>
+				<td align="left" valign="middle" width="193" id="whatsnew_cell_6" onmouseover="changeBG('whatsnew_cell_6')" onmouseout="removeBG('whatsnew_cell_6')"><a href="/hyperspace/member/webstrips" class="dropLink">Daily <i>Star Wars</i> Webstrips</a></td>
+			</tr>
+			<tr>
+				<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/cat_sep.gif"></td>
+			</tr>
+			<tr>
+				<td align="left" valign="top" id="whatsnew_cell_7_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
+				<td align="left" valign="middle" width="193" id="whatsnew_cell_7" onmouseover="changeBG('whatsnew_cell_7')" onmouseout="removeBG('whatsnew_cell_7')"><a href="/whatsnew/" class="dropLink">All latest updates</a></td>
+			</tr>
+			<tr>
+				<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
+			</tr>
+			<tr>
+				<td align="left" valign="top" id="whatsnew_cell_8_bullet"><img src="/welcome/img/dropdowns/bullet_square_bottom.gif"></td>
+				<td align="left" valign="bottom" width="193" id="whatsnew_cell_8" onmouseover="changeBG('whatsnew_cell_8')" onmouseout="removeBG('whatsnew_cell_8')"><a href="/data/headlines.xml" class="dropLink">RSS / XML Headline Feed</a></td>
+			</tr>
+			</tbody></table>
+			</td>
+		</tr>
+		</tbody></table>
 
-	newwin = window.open(url,"mailer","width=600,height=370,toolbar=no,resizable=yes,scrollbars=yes,location=no,directories=no,menubar=no,top="+screenHeight+",left="+screenWidth+"");
+		</td>
+		<td align="left" valign="top" width="6" background="/welcome/img/dropdowns/right_stretch.gif"><img src="/img/clear.gif" width="6" height="1"></td>
+	</tr>
+	<tr>
+		<td align="left" valign="top" colspan="3"><img src="/welcome/img/dropdowns/bottom.gif" name="whatsnew_cell_8_bottom"></td>
+	</tr>
+	</tbody></table>
+	</td>
+	</tr></tbody></table>
+
+
+</div>
+<div id="themovies" onmouseover="stopTimer();" onmouseout="startTimer(null);" style="position: absolute; top: 181px; bottom: 300px; left: 292px; width: 320px; height: 160px; visibility: hidden;">
+<table border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr><td align="left" valign="top">
+	<table border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td align="left" valign="top"><a href="/themovies/"><img src="/welcome/img/dropdowns/themovies/themovies.gif" border="0" alt="[ The Movies ]"></a></td>
+	</tr>
+	<tr>
+		<td align="right" valign="top" height="60" onmouseover="hideMenu()">&nbsp;</td>
+	</tr>
+	</tbody></table>
+	</td><td align="left" valign="top">
+	<table border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td align="left" valign="top" colspan="3"><img src="/welcome/img/dropdowns/top.gif"></td>
+	</tr>
+	<tr>
+		<td align="left" valign="top" width="6" background="/welcome/img/dropdowns/left_stretch.gif"><img src="/welcome/img/dropdowns/left_top.gif"></td>
+		<td align="left" valign="top" width="223" bgcolor="#93AADC">
+		<table border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td align="left" valign="top" id="themovies_cell_1_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
+			<td align="left" valign="middle" width="193" id="themovies_cell_1" onmouseover="changeBG('themovies_cell_1')" onmouseout="removeBG('themovies_cell_1')"><a href="/episode-i/" class="dropLink">Episode I: The	Phantom Menace</a></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" id="themovies_cell_2_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
+			<td align="left" valign="middle" width="193" id="themovies_cell_2" onmouseover="changeBG('themovies_cell_2')" onmouseout="removeBG('themovies_cell_2')"><a href="/episode-ii/" class="dropLink">Episode II: Attack of the Clones</a></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" id="themovies_cell_3_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
+			<td align="left" valign="middle" width="193" id="themovies_cell_3" onmouseover="changeBG('themovies_cell_3')" onmouseout="removeBG('themovies_cell_3')"><a href="/episode-iii/" class="dropLink">Episode III: Revenge of the Sith</a></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" id="themovies_cell_4_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
+			<td align="left" valign="middle" width="193" id="themovies_cell_4" onmouseover="changeBG('themovies_cell_4')" onmouseout="removeBG('themovies_cell_4')"><a href="/episode-iv/" class="dropLink">Episode IV: A New Hope</a></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" id="themovies_cell_5_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
+			<td align="left" valign="middle" width="193" id="themovies_cell_5" onmouseover="changeBG('themovies_cell_5')" onmouseout="removeBG('themovies_cell_5')"><a href="/episode-v/" class="dropLink">Episode V: The Empire Strikes Back</a></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" id="themovies_cell_6_bullet"><img src="/welcome/img/dropdowns/bullet_square_bottom.gif"></td>
+			<td align="left" valign="middle" width="193" id="themovies_cell_6" onmouseover="changeBG('themovies_cell_6')" onmouseout="removeBG('themovies_cell_6')"><img src="/img/clear.gif" width="1" height="4"><br><a href="/episode-vi/" class="dropLink">Episode VI: Return of the Jedi</a></td>
+		</tr>
+		</tbody></table>
+		</td>
+		<td align="left" valign="top" width="6" background="/welcome/img/dropdowns/right_stretch.gif"><img src="/img/clear.gif" width="6" height="1"></td>
+	</tr>
+	<tr>
+		<td align="left" valign="top" colspan="3"><img src="/welcome/img/dropdowns/bottom.gif" name="themovies_cell_6_bottom"></td>
+	</tr>
+	</tbody></table>
+	</td>
+
+</tr></tbody></table>
+</div>
+<div id="beyondthemovies" onmouseover="stopTimer();" onmouseout="startTimer(null);" style="position: absolute; top: 203px; bottom: 300px; left: 292px; width: 320px; height: 160px; visibility: hidden;">
+<table border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr><td align="left" valign="top">
+	<table border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td align="left" valign="top"><a href="/beyondthemovies/"><img src="/welcome/img/dropdowns/beyondthemovies/beyondthemovies.gif" border="0" alt="[ Beyond the Movies ]"></a></td>
+	</tr>
+	<tr>
+		<td align="right" valign="top" height="60" onmouseover="hideMenu()">&nbsp;</td>
+	</tr>
+	</tbody></table>
+	</td><td align="left" valign="top">
+	<table border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td align="left" valign="top" colspan="3"><img src="/welcome/img/dropdowns/top.gif"></td>
+	</tr>
+	<tr>
+		<td align="left" valign="top" width="6" background="/welcome/img/dropdowns/left_stretch.gif"><img src="/welcome/img/dropdowns/left_top.gif"></td>
+		<td align="left" valign="top" width="223" bgcolor="#93AADC">
+		<table border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td align="left" valign="top" id="beyondthemovies_cell_1_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
+			<td align="left" valign="middle" width="193" id="beyondthemovies_cell_1" onmouseover="changeBG('beyondthemovies_cell_1')" onmouseout="removeBG('beyondthemovies_cell_1')"><a href="/clonewars/" class="dropLink">Clone Wars</a></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" id="beyondthemovies_cell_2_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
+			<td align="left" valign="middle" width="193" id="beyondthemovies_cell_2" onmouseover="changeBG('beyondthemovies_cell_2')" onmouseout="removeBG('beyondthemovies_cell_2')"><a href="/databank/" class="dropLink">Databank</a></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" id="beyondthemovies_cell_3_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
+			<td align="left" valign="middle" width="193" id="beyondthemovies_cell_3" onmouseover="changeBG('beyondthemovies_cell_3')" onmouseout="removeBG('beyondthemovies_cell_3')"><a href="/eu/" class="dropLink">Expanded Universe</a></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/cat_sep.gif"></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" id="beyondthemovies_cell_4_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
+			<td align="left" valign="middle" width="193" id="beyondthemovies_cell_4" onmouseover="changeBG('beyondthemovies_cell_4')" onmouseout="removeBG('beyondthemovies_cell_4')"><a href="/collecting/" class="dropLink">Collecting</a></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" id="beyondthemovies_cell_5_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
+			<td align="left" valign="middle" width="193" id="beyondthemovies_cell_5" onmouseover="changeBG('beyondthemovies_cell_5')" onmouseout="removeBG('beyondthemovies_cell_5')"><a href="http://cargobay.starwars.com" class="dropLink">Collector's Database</a></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" id="beyondthemovies_cell_6_bullet"><img src="/welcome/img/dropdowns/bullet_square_bottom.gif"></td>
+			<td align="left" valign="middle" width="193" id="beyondthemovies_cell_6" onmouseover="changeBG('beyondthemovies_cell_6')" onmouseout="removeBG('beyondthemovies_cell_6')"><img src="/img/clear.gif" width="1" height="4"><br><a href="http://starwars.com.com/?part=starwars?subj=fd?tag=link" target="_blank" class="dropLink">Price Comparison Shop</a></td>
+		</tr>
+		</tbody></table>
+		</td>
+		<td align="left" valign="top" width="6" background="/welcome/img/dropdowns/right_stretch.gif"><img src="/img/clear.gif" width="6" height="1"></td>
+	</tr>
+	<tr>
+		<td align="left" valign="top" colspan="3"><img src="/welcome/img/dropdowns/bottom.gif" name="beyondthemovies_cell_6_bottom"></td>
+	</tr>
+	</tbody></table>
+	</td>
+
+</tr></tbody></table>
+</div>
+<div id="gaming" onmouseover="stopTimer();" onmouseout="startTimer(null);" style="position: absolute; top: 225px; bottom: 300px; left: 292px; width: 320px; height: 160px; visibility: hidden;">
+<table border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr><td align="left" valign="top">
+	<table border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td align="left" valign="top"><a href="/gaming/"><img src="/welcome/img/dropdowns/gaming/gaming.gif" border="0" alt="[ Gaming ]"></a></td>
+	</tr>
+	<tr>
+		<td align="right" valign="top" height="60" onmouseover="hideMenu()">&nbsp;</td>
+	</tr>
+	</tbody></table>
+	</td><td align="left" valign="top">
+	<table border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td align="left" valign="top" colspan="3"><img src="/welcome/img/dropdowns/top.gif"></td>
+	</tr>
+	<tr>
+		<td align="left" valign="top" width="6" background="/welcome/img/dropdowns/left_stretch.gif"><img src="/welcome/img/dropdowns/left_top.gif"></td>
+		<td align="left" valign="top" width="223" bgcolor="#93AADC">
+		<table border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td align="left" valign="top" id="gaming_cell_1_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
+			<td align="left" valign="middle" width="193" id="gaming_cell_1" onmouseover="changeBG('gaming_cell_1')" onmouseout="removeBG('gaming_cell_1')"><a href="/gaming/videogames/news/" class="dropLink">Video Games</a></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/cat_sep.gif"></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" id="gaming_cell_2_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
+			<td align="left" valign="middle" width="193" id="gaming_cell_2" onmouseover="changeBG('gaming_cell_2')" onmouseout="removeBG('gaming_cell_2')"><a href="/gaming/other/rpg/" class="dropLink">Roleplaying Game</a></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" id="gaming_cell_3_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
+			<td align="left" valign="middle" width="193" id="gaming_cell_3" onmouseover="changeBG('gaming_cell_3')" onmouseout="removeBG('gaming_cell_3')"><a href="/gaming/other/tcg/" class="dropLink">Trading Card Game</a></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" id="gaming_cell_4_bullet"><img src="/welcome/img/dropdowns/bullet_square_bottom.gif"></td>
+			<td align="left" valign="middle" width="193" id="gaming_cell_4" onmouseover="changeBG('gaming_cell_4')" onmouseout="removeBG('gaming_cell_4')"><img src="/img/clear.gif" width="1" height="4"><br><a href="/gaming/other/misc/" class="dropLink">Other Games and Puzzles</a></td>
+		</tr>
+		</tbody></table>
+		</td>
+		<td align="left" valign="top" width="6" background="/welcome/img/dropdowns/right_stretch.gif"><img src="/img/clear.gif" width="6" height="1"></td>
+	</tr>
+	<tr>
+		<td align="left" valign="top" colspan="3"><img src="/welcome/img/dropdowns/bottom.gif" name="gaming_cell_4_bottom"></td>
+	</tr>
+	</tbody></table>
+	</td>
+
+</tr></tbody></table>
+</div>
+<div id="community" onmouseover="stopTimer();" onmouseout="startTimer(null);" style="position: absolute; top: 247px; bottom: 300px; left: 292px; width: 320px; height: 160px; visibility: hidden;">
+<table border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr><td align="left" valign="top">
+	<table border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td align="left" valign="top"><a href="/community/"><img src="/welcome/img/dropdowns/community/community.gif" border="0" alt="[ Community ]"></a></td>
+	</tr>
+	<tr>
+		<td align="right" valign="top" height="60" onmouseover="hideMenu()">&nbsp;</td>
+	</tr>
+	</tbody></table>
+	</td><td align="left" valign="top">
+	<table border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td align="left" valign="top" colspan="3"><img src="/welcome/img/dropdowns/top.gif"></td>
+	</tr>
+	<tr>
+		<td align="left" valign="top" width="6" background="/welcome/img/dropdowns/left_stretch.gif"><img src="/welcome/img/dropdowns/left_top.gif"></td>
+		<td align="left" valign="top" width="223" bgcolor="#93AADC">
+		<table border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td align="left" valign="top" id="community_cell_1_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
+			<td align="left" valign="middle" width="193" id="community_cell_1" onmouseover="changeBG('community_cell_1')" onmouseout="removeBG('community_cell_1')"><a href="/community/" class="dropLink">News &amp; Events</a></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" id="community_cell_2_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
+			<td align="left" valign="middle" width="193" id="community_cell_2" onmouseover="changeBG('community_cell_2')" onmouseout="removeBG('community_cell_2')"><a href="/community/fanclub/mag/" class="dropLink">Fan Clubs</a></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/cat_sep.gif"></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" id="community_cell_3_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
+			<td align="left" valign="middle" width="193" id="community_cell_3" onmouseover="changeBG('community_cell_3')" onmouseout="removeBG('community_cell_3')"><a href="http://forums.starwars.com" class="dropLink">Message Boards</a></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" id="community_cell_4_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
+			<td align="left" valign="middle" width="193" id="community_cell_4" onmouseover="changeBG('community_cell_4')" onmouseout="removeBG('community_cell_4')"><a href="http://blogs.starwars.com" class="dropLink">Blogs</a></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" id="community_cell_5_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
+			<td align="left" valign="middle" width="193" id="community_cell_5" onmouseover="changeBG('community_cell_5')" onmouseout="removeBG('community_cell_5')"><a href="/community/fun/polls/" class="dropLink">Polls</a></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" id="community_cell_6_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
+				<td align="left" valign="middle" width="193" id="community_cell_6" onmouseover="changeBG('community_cell_6')" onmouseout="removeBG('community_cell_6')"><a href="javascript:popSWQA('/qa/')" class="dropLink">Questions and Answers</a></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
+		</tr>
+
+
+
+		<tr>
+			<td align="left" valign="top" id="community_cell_7_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
+				<td align="left" valign="middle" width="193" id="community_cell_7" onmouseover="changeBG('community_cell_7')" onmouseout="removeBG('community_cell_7')"><a href="/community/fun/photomasher/" class="dropLink">Photo Masher</a></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
+		</tr>
+
+
+
+		<tr>
+			<td align="left" valign="top" id="community_cell_8_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
+			<td align="left" valign="middle" width="193" id="community_cell_8" onmouseover="changeBG('community_cell_8')" onmouseout="removeBG('community_cell_8')"><a href="/community/fun/caption/" class="dropLink">Photo Captions</a></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" id="community_cell_9_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
+			<td align="left" valign="middle" width="193" id="community_cell_9" onmouseover="changeBG('community_cell_9')" onmouseout="removeBG('community_cell_9')"><a target="_blank" href="http://starwars.com.com/html/starwars/download.html" class="dropLink">Downloads</a></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/cat_sep.gif"></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" id="community_cell_10_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
+			<td align="left" valign="middle" width="193" id="community_cell_10" onmouseover="changeBG('community_cell_10')" onmouseout="removeBG('community_cell_10')"><a href="/community/fun/web/" class="dropLink">Webmaster Tools</a></td>
+		</tr>
+		</tbody></table>
+		</td>
+		<td align="left" valign="top" width="6" background="/welcome/img/dropdowns/right_stretch.gif"><img src="/img/clear.gif" width="6" height="1"></td>
+	</tr>
+	<tr>
+		<td align="left" valign="top" colspan="3"><img src="/welcome/img/dropdowns/bottom.gif" name="community_cell_10_bottom"></td>
+	</tr>
+	</tbody></table>
+	</td>
+
+</tr></tbody></table>
+</div>
+<div id="kids" onmouseover="stopTimer();" onmouseout="startTimer(null);" style="position: absolute; top: 269px; bottom: 300px; left: 292px; width: 320px; height: 160px; visibility: hidden;">
+<table border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr><td align="left" valign="top">
+	<table border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td align="left" valign="top"><a href="/kids/"><img src="/welcome/img/dropdowns/kids/kids.gif" border="0" alt="[ Kids ]"></a></td>
+	</tr>
+	<tr>
+		<td align="right" valign="top" height="60" onmouseover="hideMenu()">&nbsp;</td>
+	</tr>
+	</tbody></table>
+	</td><td align="left" valign="top">
+	<table border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td align="left" valign="top" colspan="3"><img src="/welcome/img/dropdowns/top.gif"></td>
+	</tr>
+	<tr>
+		<td align="left" valign="top" width="6" background="/welcome/img/dropdowns/left_stretch.gif"><img src="/welcome/img/dropdowns/left_top.gif"></td>
+		<td align="left" valign="top" width="223" bgcolor="#93AADC">
+		<table border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td align="left" valign="top" id="kids_cell_1_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
+			<td align="left" valign="middle" width="193" id="kids_cell_1" onmouseover="changeBG('kids_cell_1')" onmouseout="removeBG('kids_cell_1')"><a href="/kids/" class="dropLink">Kids Home</a></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" id="kids_cell_2_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
+			<td align="left" valign="middle" width="193" id="kids_cell_2" onmouseover="changeBG('kids_cell_2')" onmouseout="removeBG('kids_cell_2')"><a href="/kids/explore/" class="dropLink">Explore <i>Star Wars</i></a></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" id="kids_cell_3_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
+			<td align="left" valign="middle" width="193" id="kids_cell_3" onmouseover="changeBG('kids_cell_3')" onmouseout="removeBG('kids_cell_3')"><a href="/kids/activity/" class="dropLink">Activities</a></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" id="kids_cell_4_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
+			<td align="left" valign="middle" width="193" id="kids_cell_4" onmouseover="changeBG('kids_cell_4')" onmouseout="removeBG('kids_cell_4')"><a href="/kids/games/" class="dropLink">Games</a></td>
+		</tr>
+		</tbody></table>
+		</td>
+		<td align="left" valign="top" width="6" background="/welcome/img/dropdowns/right_stretch.gif"><img src="/img/clear.gif" width="6" height="1"></td>
+	</tr>
+	<tr>
+		<td align="left" valign="top" colspan="3"><img src="/welcome/img/dropdowns/bottom.gif" name="kids_cell_4_bottom"></td>
+	</tr>
+	</tbody></table>
+	</td>
+
+</tr></tbody></table>
+</div>
+
+<div id="shop" onmouseover="stopTimer();" onmouseout="startTimer(null);" style="position: absolute; top: 291px; bottom: 300px; left: 292px; width: 320px; height: 160px; visibility: hidden;">
+<table border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr><td align="left" valign="top">
+	<table border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td align="left" valign="top"><a href="http://www.starwarsshop.com/?rid=SWCMTP00001"><img src="/welcome/img/dropdowns/shop/shop.gif" border="0" alt="[ Shop ]"></a></td>
+	</tr>
+	<tr>
+		<td align="right" valign="top" height="60" onmouseover="hideMenu()">&nbsp;</td>
+	</tr>
+	</tbody></table>
+	</td><td align="left" valign="top">
+	<table border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td align="left" valign="top" colspan="3"><img src="/welcome/img/dropdowns/top.gif"></td>
+	</tr>
+	<tr>
+		<td align="left" valign="top" width="6" background="/welcome/img/dropdowns/left_stretch.gif"><img src="/welcome/img/dropdowns/left_top.gif"></td>
+		<td align="left" valign="top" width="223" bgcolor="#93AADC">
+		<table border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td align="left" valign="top" id="shop_cell_1_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
+			<td align="left" valign="middle" width="193" id="shop_cell_1" onmouseover="changeBG('shop_cell_1')" onmouseout="removeBG('shop_cell_1')"><a href="http://www.starwarsshop.com/?rid=SWCMTP00001" class="dropLink">Shop Home</a></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" id="shop_cell_2_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
+			<td align="left" valign="middle" width="193" id="shop_cell_2" onmouseover="changeBG('shop_cell_2')" onmouseout="removeBG('shop_cell_2')"><a href="http://shop.starwars.com/catalog/category.xml?category_id=334&amp;rid=SWCMTP00001" class="dropLink">Exclusives</a></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" id="shop_cell_3_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
+			<td align="left" valign="middle" width="193" id="shop_cell_3" onmouseover="changeBG('shop_cell_3')" onmouseout="removeBG('shop_cell_3')"><a href="http://shop.starwars.com/catalog/category.xml?category_id=336&amp;rid=SWCMTP00001" class="dropLink">New Releases</a></td>
+		</tr>
+		</tbody></table>
+		</td>
+		<td align="left" valign="top" width="6" background="/welcome/img/dropdowns/right_stretch.gif"><img src="/img/clear.gif" width="6" height="1"></td>
+	</tr>
+	<tr>
+		<td align="left" valign="top" colspan="3"><img src="/welcome/img/dropdowns/bottom.gif" name="shop_cell_3_bottom"></td>
+	</tr>
+	</tbody></table>
+	</td>
+
+</tr></tbody></table>
+</div>
+
+<div id="hyperspace" onmouseover="stopTimer();" onmouseout="startTimer(null);" style="position: absolute; top: 311px; bottom: 300px; left: 292px; width: 320px; height: 160px; visibility: hidden;">
+<table border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr><td align="left" valign="top">
+	<table border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td align="left" valign="top"><a href="javascript:playHSSound()"><img src="/welcome/img/dropdowns/hyperspace/hyperspace.gif" border="0" alt="[ Hyperspace ]"></a></td>
+	</tr>
+	<tr>
+		<td align="right" valign="top" height="60" onmouseover="hideMenu()">&nbsp;</td>
+	</tr>
+	</tbody></table>
+	</td><td align="left" valign="top">
+	<table border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td align="left" valign="top" colspan="3"><img src="/welcome/img/dropdowns/top.gif"></td>
+	</tr>
+	<tr>
+		<td align="left" valign="top" width="6" background="/welcome/img//dropdowns/left_stretch.gif"><img src="/welcome/img//dropdowns/hyperspace/left_top.gif"></td>
+		<td align="left" valign="top" width="223" bgcolor="#93AADC">
+		<table border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td align="left" valign="top" id="hyperspace_cell_1_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
+			<td align="left" valign="middle" width="193" id="hyperspace_cell_1" onmouseover="changeBG('hyperspace_cell_1')" onmouseout="removeBG('hyperspace_cell_1')"><a href="/hyperspace/" class="dropLink">Hyperspace Latest Updates</a></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" id="hyperspace_cell_2_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
+			<td align="left" valign="middle" width="193" id="hyperspace_cell_2" onmouseover="changeBG('hyperspace_cell_2')" onmouseout="removeBG('hyperspace_cell_2')"><a href="/hyperspace/member/" class="dropLink">Exclusive Content</a></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" id="hyperspace_cell_3_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
+			<td align="left" valign="middle" width="193" id="hyperspace_cell_3" onmouseover="changeBG('hyperspace_cell_3')" onmouseout="removeBG('hyperspace_cell_3')"><a href="/hyperspace/extra/" class="dropLink">Member Extras</a></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/cat_sep.gif"></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" id="hyperspace_cell_4_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
+			<td align="left" valign="middle" width="193" id="hyperspace_cell_4" onmouseover="changeBG('hyperspace_cell_4')" onmouseout="removeBG('hyperspace_cell_4')"><a href="/hyperspace/about/news/news20040428.html" class="dropLink">What is the Fan Club?</a></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" id="hyperspace_cell_5_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
+			<td align="left" valign="middle" width="193" id="hyperspace_cell_5" onmouseover="changeBG('hyperspace_cell_5')" onmouseout="removeBG('hyperspace_cell_5')"><a href="/fanclub/" class="dropLink">Subscribe Now</a></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" id="hyperspace_cell_6_bullet"><img src="/welcome/img/dropdowns/bullet_square.gif"></td>
+			<td align="left" valign="middle" width="193" id="hyperspace_cell_6" onmouseover="changeBG('hyperspace_cell_6')" onmouseout="removeBG('hyperspace_cell_6')"><a href="/webapps/registration/subscription-management" class="dropLink">Enter Hyperspace Access Code</a></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" colspan="2"><img src="/welcome/img/dropdowns/item_sep.gif"></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" id="hyperspace_cell_7_bullet"><img src="/welcome/img/dropdowns/bullet_square_bottom.gif"></td>
+			<td align="left" valign="middle" width="193" id="hyperspace_cell_7" onmouseover="changeBG('hyperspace_cell_7')" onmouseout="removeBG('hyperspace_cell_7')"><img src="/img/clear.gif" width="1" height="4"><br><a href="javascript:doTour()" class="dropLink">Take a Tour</a></td>
+		</tr>
+		</tbody></table>
+		</td>
+		<td align="left" valign="top" width="6" background="/welcome/img/dropdowns/right_stretch.gif"><img src="/img/clear.gif" width="6" height="1"></td>
+	</tr>
+	<tr>
+		<td align="left" valign="top" colspan="3"><img src="/welcome/img/dropdowns/bottom.gif" name="hyperspace_cell_7_bottom"></td>
+	</tr>
+	</tbody></table>
+	</td>
+
+</tr></tbody></table>
+</div>
+<div id="hsSound" style="position:absolute; visibility: hidden">
+<script language="javascript">
+
+	var hsSound = "homepageClickSound";
+
+	function playHSSound()
+	{
+		// Start new movie
+		movieToPlay = eval("window.document." + hsSound);				// Set Variable
+		if(typeof(movieToPlay) != "undefined")
+			movieToPlay.TGotoFrame('/', 3);									// Play Movie
+
+		setTimeout("sendToHyperspace()", 2100);
+	}
+
+	function sendToHyperspace() {
+		window.location="/hyperspace";
+	}
+
+var pluginWeWant = 5;
+var weCanPlay = false;
+var plugin = (navigator.mimeTypes && navigator.mimeTypes["application/x-shockwave-flash"]) ? navigator.mimeTypes["application/x-shockwave-flash"].enabledPlugin : 0;
+
+if ( plugin ) {
+		var words = navigator.plugins["Shockwave Flash"].description.split(" ");
+	    for (var i = 0; i < words.length; ++i)
+	    {
+		if (isNaN(parseInt(words[i])))
+		continue;
+		var pluginVersion = words[i];
+	    }
+		if(pluginVersion >= 5) { weCanPlay = true; } else { weCanPlay = false; }
 }
+else if (navigator.userAgent && navigator.userAgent.indexOf("MSIE")>=0
+   && (navigator.appVersion.indexOf("Win") != -1) && !is.opera) {
+	document.write('<SCR' + 'IPT LANGUAGE=VBScript\> \n'); //FS hide this from IE4.5 Mac by splitting the tag
+	document.write('on error resume next \n');
+	document.write('weCanPlay = ( IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash." & 5)))\n');
+	document.write('</SCR' + 'IPT\> \n');
+}
+if ( weCanPlay ) {
 
-//-->
+	document.write('<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" WIDTH="5" HEIGHT="5" id="homepageClickSound" ALIGN=""> <PARAM NAME=movie VALUE="/meta/rd/homepageClickSound.swf"> <PARAM NAME=quality VALUE=high> <PARAM NAME=bgcolor VALUE=#FFFFFF> <EMBED src="/meta/rd/homepageClickSound.swf" quality=high bgcolor=#FFFFFF  WIDTH="5" HEIGHT="5" NAME="homepageClickSound" ALIGN="" TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer" swLiveconnect=true></EMBED></OBJECT>');
+}
 </script>
 
 
-		
-			
-		
+
+
+<p>&nbsp;<br>
 
 
 
 
-<br clear="all">
-<a href="javascript:doMail();"><img src="/meta/content/img/footers/site_emailthis.gif" border="0"></a>
-
-        </td>
-        </tr></tbody></table>
-
-	</p></td>
-	<td align="left" valign="top"><img src="/img/clear.gif" height="1" width="10"></td>
-	<td align="center" valign="top">
-	<table border="0" cellpadding="0" cellspacing="0">
-			
-					<tbody><tr><td align="left" valign="top"><a href="/site/"><img src="/meta/world/img/site_world.gif" border="0"></a></td>
-			
-	</tr></tbody></table>
-	<br>
 
 
-	
-
-	<!-- RECENT -->
-			<table cellpadding="0" cellspacing="0" border="0">
-		<tbody><tr>
-			<td colspan="3"><img src="/meta/silos/img/recent.gif"></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" background="/meta/silos/img/stretchLeft.gif" bgcolor="#555555" width="14"><img src="/meta/silos/img/left1.gif" width="14" height="43"></td>
-			<td rowspan="2" width="168" bgcolor="#555555" align="left" valign="middle">
-			<table border="0" cellpadding="0" cellspacing="0" width="100%">
-			<tbody><tr>
-				<td align="left" valign="top"><img src="/meta/silos/img/silo_bullet.gif"></td>
-				<td align="left" valign="bottom" width="100%"><a href="/hyperspace/member/fiction/f20041117/index.html" class="SILO">Feature: Escape from Balis-Baurgh</a></td>
-			</tr><tr>
-				<td align="left" valign="top"><img src="/meta/silos/img/silo_bullet.gif"></td>
-				<td align="left" valign="bottom" width="100%"><a href="/hyperspace/about/news/news20041117.html" class="SILO">News: Ewoks and Droids Avatars -- Classic Animated Style</a></td>
-			</tr><tr>
-				<td align="left" valign="top"><img src="/meta/silos/img/silo_bullet.gif"></td>
-				<td align="left" valign="bottom" width="100%"><a href="/hyperspace/member/photoreceptor/2004/11/photoreceptor20041117.html" class="SILO">Photoreceptor: Camie Closeup</a></td>
-			</tr><tr>
-				<td align="left" valign="top"><img src="/meta/silos/img/silo_bullet.gif"></td>
-				<td align="left" valign="bottom" width="100%"><a href="/hyperspace/member/knollvision/25.html" class="SILO">Video: KV25 Jedi Briefing Room</a></td>
-			</tr><tr>
-				<td align="left" valign="top"><img src="/meta/silos/img/silo_bullet.gif"></td>
-				<td align="left" valign="bottom" width="100%"><a href="/kids/explore/eu/f20041116/index.html" class="SILO">Feature: R2-D2's Greatest Gadgets</a></td>
-			</tr>
-			</tbody></table>
-			<br></td>
-			<td align="left" valign="top" background="/meta/silos/img/stretchRight.gif" bgcolor="#555555" width="16"><img src="/meta/silos/img/right1.gif" width="16" height="43"></td>
-		</tr>
-		<tr>
-			<td align="left" valign="bottom" background="/meta/silos/img/stretchLeft.gif" bgcolor="#555555" width="14"><img src="/meta/silos/img/left2.gif" width="14" height="61"></td>
-			<td align="left" valign="bottom" background="/meta/silos/img/stretchRight.gif" bgcolor="#555555" width="16"><img src="/meta/silos/img/right2.gif" width="16" height="61"></td>
-		</tr>
-		<tr>
-			<td colspan="3"><img src="/meta/silos/img/bottom.gif"></td>
-		</tr>
-		</tbody></table>
-
-
-	<!-- RELATED -->
-			<table cellpadding="0" cellspacing="0" border="0">
-		<tbody><tr>
-			<td colspan="3"><img src="/meta/silos/img/related.gif"></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" background="/meta/silos/img/stretchLeft.gif" bgcolor="#555555" width="14"><img src="/meta/silos/img/left1.gif" width="14" height="43"></td>
-			<td rowspan="2" width="168" bgcolor="#555555" align="left" valign="top">
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tbody><tr>
-	<td align="left" valign="top"><img src="/meta/silos/img/silo_bullet.gif"></td>
-	<td align="left" valign="bottom" width="100%"><a href="/site/copyright.html" class="SILO">Terms of Use</a></td>
-</tr><tr>
-	<td align="left" valign="top"><img src="/meta/silos/img/silo_bullet.gif"></td>
-	<td align="left" valign="bottom" width="100%"><a href="/site/privacy_policy_a.html" class="SILO">Privacy Policy - Appendix A</a></td>
-</tr><tr>
-	<td align="left" valign="top"><img src="/meta/silos/img/silo_bullet.gif"></td>
-	<td align="left" valign="bottom" width="100%"><a href="/site/faq.html" class="SILO">Frequently Asked Questions</a></td>
-</tr>
-</tbody></table>
-<br></td>
-			<td align="left" valign="top" background="/meta/silos/img/stretchRight.gif" bgcolor="#555555" width="16"><img src="/meta/silos/img/right1.gif" width="16" height="43"></td>
-		</tr>
-		<tr>
-			<td align="left" valign="bottom" background="/meta/silos/img/stretchLeft.gif" bgcolor="#555555" width="14"><img src="/meta/silos/img/left2.gif" width="14" height="61"></td>
-			<td align="left" valign="bottom" background="/meta/silos/img/stretchRight.gif" bgcolor="#555555" width="16"><img src="/meta/silos/img/right2.gif" width="16" height="61"></td>
-		</tr>
-		<tr>
-			<td colspan="3"><img src="/meta/silos/img/bottom.gif"></td>
-		</tr>
-		</tbody></table>
-
-
-
-
-	<!-- CONNECTIONS -->
-	
-
-	<!-- Shop/Kids Link Graphic -->
-	<map name="shop_kids">
-<area shape="polygon" alt="[ StarWarsShop.com ]" coords="10,0, 11,0, 12,0, 13,0, 14,0, 15,0, 16,0, 17,0, 18,0, 19,0, 20,0, 21,0, 22,0, 23,0, 24,0, 25,0, 26,0, 27,0, 28,0, 29,0, 30,0, 31,0, 32,0, 33,0, 34,0, 35,0, 36,0, 37,0, 38,0, 39,0, 40,0, 41,0, 42,0, 43,0, 44,0, 45,0, 46,0, 47,0, 48,0, 49,0, 50,0, 51,0, 52,0, 53,0, 54,0, 55,0, 56,0,
-56,1, 57,2, 57,3, 58,4, 58,5, 59,6, 59,7, 60,8, 60,9, 61,10, 62,11, 62,12, 63,13, 63,14, 64,15, 64,16, 65,17, 65,18, 66,19, 66,20, 67,21, 67,22, 68,23, 68,24, 67,24, 66,24, 65,24, 64,24, 63,24, 62,24, 61,24, 60,24, 59,24, 58,24, 57,24, 56,24, 55,24, 54,24, 53,24, 52,24, 51,24, 50,24, 49,24, 48,24, 47,24, 46,24, 45,24, 44,24,
-43,24, 42,24, 41,24, 40,24, 39,24, 38,24, 37,24, 36,24, 35,24, 34,24, 33,24, 32,24, 31,24, 30,24, 29,24, 28,24, 27,24, 26,24, 25,24, 24,24, 23,24, 22,24, 21,24, 20,24, 19,24, 18,24, 17,24, 16,24, 15,24, 14,24, 13,24, 12,24, 11,24, 10,24, 9,24, 8,23, 7,23, 6,23, 5,22, 4,21, 3,20, 2,19, 1,18, 1,17, 1,16, 0,15, 0,14, 0,13,
-0,12, 0,11, 0,10, 0,9, 1,8, 1,7, 1,6, 2,5, 3,4, 4,3, 5,2, 6,2, 7,1, 8,1, 9,1" href="http://www.starwarsshop.com">
-<area shape="polygon" alt="[ Kids ]" coords="59,0, 60,0, 61,0, 62,0, 63,0, 64,0, 65,0, 66,0, 67,0, 68,0, 69,0, 70,0, 71,0, 72,0, 73,0, 74,0, 75,0, 76,0, 77,0, 78,0, 79,0, 80,0, 81,0, 82,0, 83,0, 84,0, 85,0, 86,0, 87,0, 88,0, 89,0, 90,0, 91,0, 92,0, 93,0, 94,0, 95,0, 96,0, 97,0, 98,0, 99,0, 100,0, 101,0, 102,0, 103,0, 104,0,
-105,0, 106,0, 107,0, 108,0, 109,0, 110,0, 111,0, 112,0, 113,0, 114,0, 115,0, 116,0, 117,0, 118,0, 119,0, 120,0, 121,0, 122,0, 123,0, 124,0, 125,0, 126,0, 127,0, 128,0, 129,0, 130,0, 131,0, 132,0, 133,0, 134,0, 135,0, 136,0, 137,0, 138,0, 139,0, 140,0, 141,0, 142,0, 143,0, 144,0, 145,0, 146,0, 147,0, 148,0, 149,0, 150,0,
-151,0, 152,0, 153,0, 154,0, 155,0, 156,0, 157,0, 158,0, 159,0, 160,0, 161,0, 162,1, 163,1, 164,1, 165,2, 166,2, 167,3, 168,4, 169,5, 169,6, 170,7, 170,8, 170,9, 171,10, 171,11, 171,12, 171,13, 171,14, 171,15, 170,16, 170,17, 169,18, 169,19, 168,20, 167,21, 166,22, 165,23, 164,23, 163,23, 162,24, 161,24, 160,24, 159,24, 158,24,
-157,24, 156,24, 155,24, 154,24, 153,24, 152,24, 151,24, 150,24, 149,24, 148,24, 147,24, 146,24, 145,24, 144,24, 143,24, 142,24, 141,24, 140,24, 139,24, 138,24, 137,24, 136,24, 135,24, 134,24, 133,24, 132,24, 131,24, 130,24, 129,24, 128,24, 127,24, 126,24, 125,24, 124,24, 123,24, 122,24, 121,24, 120,24, 119,24, 118,24, 117,24,
-116,24, 115,24, 114,24, 113,24, 112,24, 111,24, 110,24, 109,24, 108,24, 107,24, 106,24, 105,24, 104,24, 103,24, 102,24, 101,24, 100,24, 99,24, 98,24, 97,24, 96,24, 95,24, 94,24, 93,24, 92,24, 91,24, 90,24, 89,24, 88,24, 87,24, 86,24, 85,24, 84,24, 83,24, 82,24, 81,24, 80,24, 79,24, 78,24, 77,24, 76,24, 75,24, 74,24, 73,24,
-72,24, 71,24, 71,23, 70,22, 70,21, 69,20, 69,19, 68,18, 68,17, 67,16, 67,15, 66,14, 65,13, 65,12, 64,11, 64,10, 63,9, 63,8, 62,7, 62,6, 61,5, 61,4, 60,3, 60,2, 59,1" href="/kids">
-</map>
-
-<table>
-<tbody><tr>
-    <td align="left"><img src="/img/clear.gif" height="7" width="0"><br><img src="/img/shop_kids.gif" usemap="#shop_kids" border="0"></td>
-</tr>
-</tbody></table>
-
-	
-	<!-- Search Box -->
-	  <form method="POST" action="http://search.starwars.com/search_cgi/query_cgi">
-  <input type="hidden" name="ResultTemplate" value="starwars.hts">
-  <input type="hidden" name="SortOrder" value="desc">
-  <input type="hidden" name="collection" value="Starwars">
-  <input type="hidden" name="ResultCount" value="10">
-  <input type="hidden" name="Action" value="FilterSearch">
-  <input type="hidden" name="filter" value="sw_filter.hts">
-
-  			<table border="0" width="214" cellpadding="0" cellspacing="0">
-			<tbody><tr>
-				<td><input type="image" src="/img/homepages/search.gif" border="0"></td>
-				<td width="137" height="27" bgcolor="#FFFFFF" align="left"><input type="text" name="QueryText" size="12" maxlength="100">&nbsp;</td>
-			</tr>
-			
-			</tbody></table>
-
-	
-
-	
-
-	
-
-
-	
-
-	
-
-	
-	
-</form></td>
-</tr>
-</tbody></table>
-
-
-
-	</td>
-	</tr>
-	</tbody></table>
-
-
-
-
-<p>
-<br>
-</p><p>
-</p><center>
-<b><font face="arial" size="1">© 2004 Lucasfilm Ltd. <a href="/site/copyright.html">Terms of Use</a> and <a href="/site/privacy_policy.html">Privacy Policy</a>. <a href="/site/privacy_policy_a.html">Business inquiries</a>.</font></b>
-<br>
-<img src="/meta/content/img/lol_footer.gif">
-</center>
-<br>
-<script language="javascript">pageLoadCheck=1;</script>
-
-
-
-</body></html>
+</p></div></body></html>
