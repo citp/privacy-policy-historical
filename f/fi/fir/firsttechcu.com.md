@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the firsttechcu.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220025250id_/http%3A//www.firsttechcu.com/home/about_first_tech/privacy_policy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firsttechcu.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614234103id_/http%3A//www.firsttechcu.com/home/about_first_tech/privacy_policy/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - First Tech Credit Union
 
 Privacy Policy
 
-First Technology Credit Union is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for firsttechcu.com. [](http://www.truste.org/ivalidate.php?url=www.firsttechcu.com&sealid=101)
+First Technology Credit Union is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information pratices. This privacy statement covers the site [www.firsttechcu.com](http://www.firsttechcu.com/) and www.1sttech.com.  Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.[](http://www.truste.org/ivalidate.php?url=www.firsttechcu.com&sealid=101)
 
 If you have questions or concerns regarding this statement, you should call our contact center at 503.644.4034 or 800.637.0852. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
 **First Tech Credit Union Privacy Policy**  
-Annual Privacy Policy | July, 2005 
+July, 2005 
 
 This is the joint privacy policy of First Technology Credit Union and our credit union affiliate, TCU Group Services, Inc. which does business as First Tech Financial Services, First Tech Insurance Services, Technology Insurance NW and First Tech Professional Services. Our joint policy describes the applicable member information practices related to each account and service you have with the Credit Union and our financial service affiliate. 
 
@@ -42,7 +42,7 @@ Because we maintain management control over our financial service affiliate, you
 The Credit Union and affiliate does not sell or share any member information with nonaffiliated third party marketers offering their products and services. 
 
 **4 a. Sharing Information with Third Party Service Providers  
-** While we may offer valuable financial products and services of our affiliate or third parties, we control the member information used to make such offers. We currently offer members insurance products offered by American Express Property Casualty, John Hancock Accidental Death & Dismemberment Insurance, and Capstone Group, Long Term Care Specialist. You may tell us not to offer these services to you as explained in the Opt Out section of this notice.
+** While we may offer valuable financial products and services of our affiliate or third parties, we control the member information used to make such offers. We currently offer members insurance products offered by American Express Property Casualty, Hartford Accidental Death & Dismemberment Insurance, and Capstone Group, Long Term Care Specialist. You may tell us not to offer these services to you as explained in the Opt Out section of this notice.
 
 **5\. Sharing Information as Legally Required or Permitted**  
 We may share any nonpublic personal information of yours in response to a lawful request issued by a court, government agency, or regulatory authority or as permitted by law in order to administer or enforce your account. We may also share our experience information about you with credit bureaus. Our reporting to credit bureaus is governed by the Fair Credit Reporting Act, which affords you the right to make sure that your credit bureau reports are accurate. 
@@ -54,7 +54,7 @@ We will exercise reasonable procedures in order to assure the accuracy of our re
 We use multiple levels of security, beginning with your browser and ending with a secure operating system that acts as a virtual information vault inside the Credit Union. Information we receive via online applications is secure and requires industry standard Secure Socket Layer encrypted browsers. Protecting your privacy is an ongoing process. We restrict access to nonpublic personal information about you to those employees who need to know that information to provide products or services to you. We will continue to review the measures we take to safeguard your personal information. These reviews will result in new measures to protect member records, as we make changes to our information security practices and other internal control systems to take advantage of new technology. 
 
 **8\. Privacy Related Complaints**  
-If you believe that First Tech Credit Union or its financial services affiliate has not complied with this Privacy Policy with respect to your personal information, you may write the First Tech Privacy Officer at: Privacy Officer, First Tech Credit Union, PO Box 2100, Beaverton, OR 97075, or email to [privacy@firsttechcu.com](mailto:privacy@firsttechcu.com). Please describe in your letter in as much detail as possible the ways you believe that the policy has not been complied with. We will investigate each issue promptly. 
+If you believe that First Tech Credit Union or its financial services affiliate has not complied with this Privacy Policy with respect to your personal information, you may write the First Tech Privacy Officer at: Privacy Officer, First Tech Credit Union, PO Box 2100, Beaverton, OR 97075, email to [privacy@firsttechcu.com](mailto:privacy@firsttechcu.com) or deliver your letter to the main branch located at 3555 SW 153rd, Beaverton, OR. Please describe in your letter in as much detail as possible the ways you believe that the policy has not been complied with. We will investigate each issue promptly. 
 
 **9\. Notification of Changes**  
 If we decide to change our privacy policy, we will post those changes on our website so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of mail or an electronic notification service. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
@@ -82,7 +82,8 @@ We also have links from firsttechcu.com to "fully branded" service provider site
 
 To opt out, please call:   
 503.644.4034 or 1.800.637.0852  
-Hours: M - F 8am - 6pm, Sat 10am - 2pm
+Hours: M - F 8am - 6pm, Sat 10am - 2pm  
+Or click here to complete an electronic opt-out form.
 
 This opt-out applies only to the accounts you provide, accounts opened after this opt-out will require their own opt-out instructions.
 
