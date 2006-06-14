@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newstatesman.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231183356id_/http%3A//www.newstatesman.com/nsprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newstatesman.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615010501id_/http%3A//www.newstatesman.com/nsprivacy.htm) for the most accurate reproduction.*
 
 # New Statesman
 
@@ -10,7 +10,7 @@ However, knowing some information about our users is necessary to ensure that ou
 
 **A:** This depends on the nature of your involvement with our website. We may ask you to provide personal information on a voluntary basis in order to get a clearer picture of our users. It is then up to you whether give us this information.
 
-If you enter our competitions, promotions or participate in other online offers you will need to give us some details about yourself. You may also choose to email us or [contact us](http://www.newstatesman.com/graphics/ns/contactus.htm) in other ways. Such contact gives us information about you. 
+If you enter our competitions, promotions or participate in other online offers you will need to give us some details about yourself. You may also choose to email us or [contact us](http://www.newstatesman.com/nscontactus.htm) in other ways. Such contact gives us information about you. 
 
 If you have any financial dealings or make purchases with our trading partners they will ask for certain information. Some of this information will be shared with us so that we can send you your purchases. We do not see or keep credit card details unless you specifically send them to us. 
 
