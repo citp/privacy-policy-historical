@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the jacksonhole.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406001659id_/http%3A//www.jacksonhole.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jacksonhole.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615014339id_/http%3A//jacksonhole.com/info/privacy.asp) for the most accurate reproduction.*
 
 # Jackson Hole | Privacy Policy
+
+  
+
 
 We at Jackson Hole Mountain Resort respect the privacy of the visitors to our web site. Any information that you provide us through our web site is the sole property of Jackson Hole Mountain Resort, and will not be shared with anyone outside of Jackson Hole Mountain Resort .
 
@@ -27,6 +30,3 @@ The Jackson Hole Mountain Resort e-mail service is completely opt-in/opt-out.
 * Opt-out: You may choose not to receive email by opting out at the bottom of the email or by contacting us at the email below.
 
 If you have any further questions about this privacy policy, please e-mail [e-mail](mailto:info@jacksonhole.com) or call us (307-733-2292; 888-DEEP-SNO).
-
-  
-
