@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycorporation.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219210924id_/http%3A//mycorporation.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycorporation.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615010453id_/http%3A//www.mycorporation.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # MyCorporation Legal Disclaimer - Affiliate Program Agreement - Incorporate at MyCorporation.com
 
@@ -57,8 +57,8 @@ EFFECTIVE DATE This Privacy Policy is effective this 1st day of June 15, 2005.
 \--Thank you for choosing My Corporation Business Services, Inc. as your filing service. Please feel free to contact us with any questions or concerns you may have. 
 
 My Corporation Business Services, Inc.  
-30141 Agoura Road, Suite 205  
-Agoura Hills, California 91301  
+26520 Agoura Road  
+Calabasas, CA 91302  
 Toll-Free: 1.888.692.6771   
 Direct/Int'l: 818.879.9079  
 FAX: 818.879.8005 
