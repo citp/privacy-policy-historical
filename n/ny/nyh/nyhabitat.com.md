@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nyhabitat.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212135332id_/http%3A//www.nyhabitat.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyhabitat.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615011701id_/http%3A//nyhabitat.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy statement
 
@@ -24,8 +24,7 @@ New York Habitat is a member of the Better Business Bureau in good standing. Dis
 | [](http://www.bbbonline.org/cks.asp?id=10010131129112469)  
 ---|---  
   
-Cookies are small pieces of information that some web sites ask to store on (and later retrieve from) your computer. When you visit New York Habitat website, a single cookie is stored into your browser, provided your browser accepts it. The information stored on this cookie contains a randomly generated string but no personal information. This cookie will allow you to retrieve previously selected preferences (if any) each time you come back visiting our website.   
-Cookies on our website are sent by our server only and expire after 100 days. 
+Cookies are small pieces of information that some web sites ask to store on (and later retrieve from) your computer. When you visit New York Habitat website, cookies are stored into your browser, provided your browser accepts them. The information stored on those cookies contains a randomly generated string but no personal information. Those cookies will allow you to retrieve previously selected preferences (if any) each time you come back visiting our website. Additionally, we may use cookies and third parties applications from time to time to build statistics using information such as browser, URL, IP address. 
 
 We use the information you provide about yourself when placing a request only to complete that request **. We do not share this information with outside parties except to the extent necessary to complete that order**. 
 
@@ -57,10 +56,14 @@ Should you have other questions or concerns about these privacy policies, please
   
 
 
-[HOME](https://web.archive.org/index.html)         [About us](https://web.archive.org/about-us.html)         [Media reports](https://web.archive.org/media-press.html)
+[HOME](https://web.archive.org/)         [About us](https://web.archive.org/about-us.html)         [Media reports](https://web.archive.org/media-press.html)
 
 * * *
 
 All information regarding properties on this website is from sources deemed reliable. It is submitted subject to errors, omissions, change of price, commission or conditions, or withdrawal without notice. Photographs, descriptions and information about the properties reflect conditions at the time the photographs were taken or the descriptions or information obtained.
 
 * * *
+
+[Site Map](https://web.archive.org/site-map.html) | [Contact Us](https://web.archive.org/feedback.html?hl=) | Phone: **(212) 255-8018** Fax: (212) 627-1416   
+---  
+[Privacy](https://web.archive.org/privacy.html) \- Copyright ©2006 New York Habitat, 307 Seventh Avenue, Suite 306, New York, NY 10001. USA.
