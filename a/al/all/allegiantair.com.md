@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allegiantair.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210101058id_/http%3A//allegiantair.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allegiantair.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614193323id_/http%3A//www.allegiantair.com/privacy.htm) for the most accurate reproduction.*
 
 # Allegiant Air
 
@@ -24,6 +24,10 @@ Route Map 
 
 Route Map 
 
+VIP Vegas Passport 
+
+VIP Vegas Passport 
+
 Casino Perks 
 
 Casino Perks 
@@ -36,9 +40,9 @@ Seat Assignments 
 
 Seat Assignments 
 
-Alamo Car  Rentals 
+Alamo Car Rentals 
 
-Alamo Car  Rentals 
+Alamo Car Rentals 
 
 About Us 
 
@@ -63,7 +67,7 @@ Press Room 
 |  |  |  |  |  |  |  |  |  |  |  |   
 ---|---|---|---|---|---|---|---|---|---|---|---  
 |   
-|  |  | [](https://web.archive.org/web/20051210101058id_/http%3A//allegiantair.com/index.htm) |  | [](https://web.archive.org/web/20051210101058id_/http%3A//allegiantair.com/route_map.htm) |  | [](https://web.archive.org/web/20051210101058id_/http%3A//allegiantair.com/flt_tracker.htm) |  |  |  |   
+|  |  | [](https://web.archive.org/web/20060614193323id_/http%3A//www.allegiantair.com/index.htm) |  | [](https://web.archive.org/web/20060614193323id_/http%3A//www.allegiantair.com/route_map.htm) |  | [](https://web.archive.org/web/20060614193323id_/http%3A//www.allegiantair.com/flt_tracker.htm) |  |  |  |   
 |  |  |  |   
 |   
   
@@ -83,12 +87,12 @@ The VeriSign Secure Site Seal assures our online customers that the Allegiant Ai
    
 **Policy Changes** \- Allegiant Air reserves the right to modify its Privacy Policy at any time. In the event that we make a material change to our policy we will post a notice of the change on this page.  
    
-**More Questions? -** If you still have questions about our privacy policy, please visit our [contacts page](https://web.archive.org/web/20051210101058id_/http%3A//allegiantair.com/contacts.htm) for different options on how to reach us.  
+**More Questions? -** If you still have questions about our privacy policy, please visit our [contacts page](https://web.archive.org/web/20060614193323id_/http%3A//www.allegiantair.com/contacts.htm) for different options on how to reach us.  
   
 * * *  
   
 ---  
   
-[Home](https://web.archive.org/web/20051210101058id_/http%3A//allegiantair.com/index.htm) : [Browser Help](https://web.archive.org/web/20051210101058id_/http%3A//allegiantair.com/browser.htm) : [Privacy](https://web.archive.org/web/20051210101058id_/http%3A//allegiantair.com/privacy.htm) : [Contract of Carriage](https://web.archive.org/web/20051210101058id_/http%3A//allegiantair.com/coc.htm) : [Work Here](https://web.archive.org/web/20051210101058id_/http%3A//allegiantair.com/jobs.htm) : [Contact Us](https://web.archive.org/web/20051210101058id_/http%3A//allegiantair.com/contacts.htm) : [Email Subscriptions](http://register.allegiantair.com/)  
+[Home](https://web.archive.org/web/20060614193323id_/http%3A//www.allegiantair.com/index.htm) : [Browser Help](https://web.archive.org/web/20060614193323id_/http%3A//www.allegiantair.com/browser.htm) : [Privacy](https://web.archive.org/web/20060614193323id_/http%3A//www.allegiantair.com/privacy.htm) : [Contract of Carriage](https://web.archive.org/web/20060614193323id_/http%3A//www.allegiantair.com/coc.htm) : [Work Here](https://web.archive.org/web/20060614193323id_/http%3A//www.allegiantair.com/jobs.htm) : [Contact Us](https://web.archive.org/web/20060614193323id_/http%3A//www.allegiantair.com/contacts.htm) : [Email Subscriptions](http://register.allegiantair.com/)  
   
 © 2005 Allegiant Air
