@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esf.edu.hk privacy policy that was archived on 2005-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050519105711id_/http%3A//www.esf.edu.hk/download/ESF_Personal%2520Data%2520_Privacy_%2520Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esf.edu.hk privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614120757id_/http%3A//www.esf.edu.hk/download/ESF_Personal%2520Data%2520_Privacy_%2520Policy.pdf) for the most accurate reproduction.*
 
 # PDF created with FinePrint pdfFactory trial version http://www.pdffactory.com
 
