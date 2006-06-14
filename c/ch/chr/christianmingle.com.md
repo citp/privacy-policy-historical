@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the christianmingle.com privacy policy that was archived on 2005-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051226091129id_/http%3A//www.christianmingle.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianmingle.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615003435id_/http%3A//www.christianmingle.com/privacy.html) for the most accurate reproduction.*
 
-# Christian Singles Mingle - Online Christian Personals for Christian Singles - 2005-12-26
+# Christian Singles Mingle - Online Christian Personals for Christian Singles - 2006-06-14
 
-This statement discloses the privacy practices for the ChristianMingle.com website. The purpose of this statement is to notify you of what personally identifiable information of yours will be collected and/or tracked by the ChristianMingle.com site, how it will be used, and what options are available to you regarding the collection, correction and/or deletion of information.
+This statement discloses the privacy practices for the ChristianMingle.com website. The purpose of this statement is to notify you of what personally identifiable information of yours will be collected and/or tracked by ChristianMingle.com and its affiliates, how it will be used, and what options are available to you regarding the collection, correction and/or deletion of information.
 
 ABOUT CHRISTIANMINGLE.COM AND THE INFORMATION WE COLLECT
 
 ChristianMingle.com is a membership-based online personals service designed to provide an easy way for our members to meet each other on the Web. To accomplish this, our members create their own unique profiles and our technology provides them matches based on their pre-selected criteria. In order to do this, we must ask for certain personal information, which may or may not include: customer-specified ChristianMingle.com username, gender, age, ethnic background, appearance, religion, occupation, preference/lifestyle information and general geographic location. This information is used by visitors for searching and matching purposes. Much of this information is optional, and meant to be seen by members. Public information supplied by the user is intended to be viewed by visitors to the site. Public information cannot be used to identify a specific member by name, address, etc.
 
-To process subscriptions, we may require information that includes, but is not limited to: email address, first name, last name, birth date, credit card number or checking account information for payment, a user-specified password, mailing address, zip code and telephone number. You will be notified of subscription renewal transactions when they occur. We primarily use email addresses submitted by members to verify enrollment and when forwarding anonymous e-mails from ad responders. Respondees' email addresses are not disclosed to the responder. We may also use a user's email address to send news regarding our site, but the user may choose not to receive email of this type by contacting us. Email addresses may also be used in private correspondence with the user for customer service issues. All other private information submitted by the user is confidential and will not be disclosed except as required by law or to protect members of ChristianMingle.com. All private information can be updated or deleted by the user at any time.
+To process subscriptions, we may require information that includes, but is not limited to: email address, first name, last name, birth date, credit card number or checking account information for payment, a user-specified password, mailing address, zip code and telephone number. You will be notified of subscription renewal transactions when they occur. We primarily use email addresses submitted by members to verify enrollment and when forwarding anonymous e-mails from ad responders. Respondees' email addresses are not disclosed to the responder. We may also use a user's email address to send news regarding our site, our affiliates' sites and other relevant communications. Email addresses may also be used in private correspondence with the user for customer service issues. All other private information submitted by the user is confidential and will not be disclosed except as required by law or to protect members of ChristianMingle.com. All private information can be updated or deleted by the user at any time.
 
 AGGREGATE INFORMATION NOT DIRECTLY SUBMITTED BY USERS TO CHRISTIANMINGLE.COM
 
@@ -42,7 +42,7 @@ SECURITY
 
 ChristianMingle.com has security measures in place to protect the loss, misuse and alteration of the information stored in our database. These measures include the use of Secure Server technology during credit card transactions and administrative access to site data, as well as other proprietary security measures which are applied to all repositories and transfers of user information.
 
-If you have any questions about the security of our site, please contact us. (http://www.christianmingle.com/contact.html) 
+If you have any questions about the security of our site, please contact us. (http://www.Relationships.com/contact.html) 
 
 CORRECTING/UPDATING OR REMOVING INFORMATION
 
@@ -50,7 +50,7 @@ ChristianMingle.com provides users the following options for modifying informati
 
 \- Users may change their credit card, password and other information by going to View/Edit Profile page.
 
-\- Send email via the contact form on the site. (http://www.christianmingle.com/contact.html)
+\- Send email via the contact form on the site. (http://www.Relationships.com/contact.html)
 
 \- You can send mail to the following postal address:
 
@@ -65,7 +65,7 @@ ChristianMingle.com users may use the following options if they do not wish to r
 
 \- Users may change their email options by going to View/Edit Profile and selecting Manage Emails.
 
-\- Send email via the contact form on the site. (http://www.christianmingle.com/contact.html)
+\- Send email via the contact form on the site. (http://www.Relationships.com/contact.html)
 
 LEGAL DISCLAIMER
 
@@ -84,4 +84,4 @@ P.O. Box 739
 Orem, UT 84059-0739  
 U.S.A.
 
-Or, send email via the contact form on the site. (http://www.christianmingle.com/contact.html)
+Or, send email via the contact form on the site. (http://www.Relationships.com/contact.html)
