@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the metalunderground.com privacy policy that was archived on 2005-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051110073447id_/http%3A//metalunderground.com/about_us/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metalunderground.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614202638id_/http%3A//www.metalunderground.com/about_us/privacy_statement) for the most accurate reproduction.*
 
-# Metal Underground . com - About Us - Privacy Statement
+# Metal Underground . com - About Us|privacy Statement
 
-[Home](https://web.archive.org/) > [About Us](https://web.archive.org/about_us/) > [Privacy Statement](https://web.archive.org/about_us/privacy_statement/)
+## About Us|privacy Statement
 
-The following is the Privacy Statement of metalunderground.com and all services included. Please read it carefully. This privacy statement applies specifically to metalunderground.com. Questions regarding this statement should be directed to [deathbringer@metalunderground.com](mailto:deathbringer@metalunderground.com).
+The following is the Privacy Statement of metalunderground.com and all services included. Please read it carefully. This privacy statement applies specifically to metalunderground.com. Questions regarding this statement should be directed to deathbringer (AT) metalunderground.com.
 
 ### Personal Information
 
