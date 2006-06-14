@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gifts.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217100254id_/http%3A//gifts.com/public/info%3Ffile%3Dprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gifts.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615010719id_/http%3A//gifts.com/public/info%3Ffile%3Dprivacy.html) for the most accurate reproduction.*
 
 # Gifts.com - Privacy Policy
 
