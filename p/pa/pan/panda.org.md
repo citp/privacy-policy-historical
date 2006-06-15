@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the panda.org privacy policy that was archived on 2005-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051112093422id_/http%3A//panda.org/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panda.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615205344id_/http%3A//www.panda.org/privacy/index.cfm) for the most accurate reproduction.*
 
-# WWF Online Privacy Policy
+# WWF - WWF Online Privacy Policy
 
 ### This website is owned by WWF-World Wide Fund for Nature (formerly World Wildlife Fund), Gland, Switzerland, hereafter referred to as "WWF". 
 
 We may change this privacy policy from time to time by updating this posting. 
 
 Please check this page periodically for changes. Your continued use of this site following the posting of changes to this policy will mean you accept those changes.
-
-**Our Commitment and Philosophy**
 
   * WWF does not collect any personal information about users, except that which is knowingly and specifically supplied to us by the user.
   * WWF is committed to ensuring the privacy of your personal information.
@@ -17,14 +15,14 @@ Please check this page periodically for changes. Your continued use of this site
   * If you are under 18 years old, we suggest that you ask your parents or guardian before signing up on this site.
   * We comply to [Swiss data protection legislation](http://www.edsb.ch/).
 
-To give our supporters the best security we use the WorldPay payment processing system to handle our online donations. [Read more.](https://web.archive.org/web/20051112093422id_/http%3A//panda.org/donation_security.cfm)
+To give our supporters the best security we use the WorldPay payment processing system to handle our online donations. [Read more.](http://www.panda.org/donation_security.cfm)
 
 **Data Privacy**  
-1\. What information do we collect?  
-2\. Where is the information held?  
-3\. Information from under 18s.  
-4\. Your right to access the information.  
-5\. External links
+1\. [What information do we collect?](http://www.panda.org/privacy_policy.cfm#info_collection)  
+2\. [Where is the information held?](http://www.panda.org/privacy_policy.cfm#hold_info)  
+3\. [Information from under 18s](http://www.panda.org/privacy_policy.cfm#info_minors).  
+4\. [Your right to access the information.](http://www.panda.org/privacy_policy.cfm#info_rights)  
+5\. [External links](http://www.panda.org/privacy_policy.cfm#links)
 
 **1\. What information do we collect?  
 **a) Personal information such as name, address, telephone number, e-mail address, date of birth (where appropriate), bank details etc. We collect this information only in connection with specific activities, such as membership, campaigns, feedback, surveys, email newsletter subscriptions, etc. You don't have to disclose any of this information if you do not wish to. 
@@ -43,11 +41,3 @@ At any time, you can ask us for a copy of the personal information that we hold 
 
 **5\. External links**  
 There are links on this web site that take you to other web sites outside of our service. Any links provided to third party web sites outside of panda.org are provided solely for your convenience. The operation and content of such third party web sites is beyond our control, and we do not endorse in any manner whatsoever or accept any responsibility for the content or other material that may be contained on such web sites, the use of such web sites, or any products or services advertised on or sold through any such web sites. We will not be liable under any circumstances for any damages whatsoever, direct or indirect, resulting from any use of this web site or any other third party web site linked to this web site, whether or not we are advised of the possibility of such damages.
-
-If you have any questions about our privacy policy, please contact **questions@wwfint.org**
-
-Want to know more about [cookies and what they do](http://www.allaboutcookies.org/)? 
-
-### 
-
-< Go back
