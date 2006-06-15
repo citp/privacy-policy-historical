@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the wgal.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206055750id_/http%3A//www.thewgalchannel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wgal.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615083834id_/http%3A//www.wgal.com/privacy) for the most accurate reproduction.*
 
-# TheWGALChannel.com - Privacy
+# WGAL.com - Privacy
 
-  
-
-
-Internet Broadcasting Systems and its affiliates ("IBS") have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.TheWGALChannel.com](http://www.thewgalchannel.com/). This privacy policy applies only to information collected by or through this website. It does not apply to information obtained by other means. 
+Internet Broadcasting Systems and its affiliates ("IBS") have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.WGAL.com](http://www.wgal.com/). This privacy policy applies only to information collected by or through this website. It does not apply to information obtained by other means. 
 
 **Information Collection and Use**  
 This website makes use of browser "cookies". Cookies are files written to a user's hard disk and read by the server programs to inform a website if the user has previously visited that site. We use cookies to deliver content specific to your interests, to save your password so you don't have to re-enter it each time you visit our site, and for other purposes. We often use outside ad companies to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our website, cookies received with ads are not being collected by us and we do not have access to this information. Cookies can be rejected by you and if so none of the functions listed above will be performed. 
@@ -23,7 +20,7 @@ The ads appearing on this Web site are delivered to you by DoubleClick, our Web 
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
 
 **Linking and Framing**  
-This site contains links to other sites. This site is not responsible for the privacy practices or the content of such websites. Occasionally when linking to another site, you may still see our site's logo or frame. This is to provide you with a seamless experience when visiting our website. In these cases you are no longer on TheWGALChannel.com and are now on a different website whose information collection practices may differ from ours. The privacy policy of the site you are on will govern how information collected from you is used. 
+This site contains links to other sites. This site is not responsible for the privacy practices or the content of such websites. Occasionally when linking to another site, you may still see our site's logo or frame. This is to provide you with a seamless experience when visiting our website. In these cases you are no longer on WGAL.com and are now on a different website whose information collection practices may differ from ours. The privacy policy of the site you are on will govern how information collected from you is used. 
 
 **Public Forums**  
 This site at some or all times makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. IBS cannot accept any responsibility for ensuring the privacy of information that you choose to disclose in these areas. 
@@ -35,7 +32,7 @@ This site has reasonable security measures in place to protect the loss, misuse 
 This site is generally not targeted to children. If we learn that we have received personally identifiable information from a child under the age of 13, we will take steps to delete such information or to obtain verifiable parental consent. 
 
 **Supplemental Information**  
-This site may supplement the information that you provide with information that is received from third parties. This information may be received from our partners in sponsored content sections. The type of information that is shared could include user contact information (like name and email address) and user demographic information (like zip code, age or income level). This site will use such information in accordance with this privacy policy. However, when you leave the TheWGALChannel.com website the privacy statement of the other site will apply to use of information by that site. (See "Linking and Framing" above). 
+This site may supplement the information that you provide with information that is received from third parties. This information may be received from our partners in sponsored content sections. The type of information that is shared could include user contact information (like name and email address) and user demographic information (like zip code, age or income level). This site will use such information in accordance with this privacy policy. However, when you leave the WGAL.com website the privacy statement of the other site will apply to use of information by that site. (See "Linking and Framing" above). 
 
 **Choice/Opt-Out**  
 Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. You will notice in all free email subscriptions generated from this website there is an unsubscribe link at the bottom of the message. Simply click on this link to go to a page that allows you to unsubscribe from any or all of the lists you are subscribed to. 
