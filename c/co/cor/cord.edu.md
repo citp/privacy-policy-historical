@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cord.edu privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220033913id_/http%3A//www.cord.edu/about/online_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cord.edu privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615133511id_/http%3A//www.cord.edu/about/online_privacy.html) for the most accurate reproduction.*
 
 # Concordia College Online Privacy Policy
 
