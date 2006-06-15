@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the archstoneapartments.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214043527id_/http%3A//www.archstoneapartments.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the archstoneapartments.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615072135id_/http%3A//www.archstoneapartments.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - ArchstoneApartments.com
 
 Privacy Policy - Effective April 1, 2005  
+  
+---  
   
 **How Our Privacy Policy Applies**
 
@@ -10,7 +12,7 @@ This Privacy Policy explains how we collect, use, and disclose the Personal Info
 
 Your provision of Personal Information to us indicates Your consent to this Privacy Policy as modified from time to time. 
 
-**Types of Personal Infformation We Collect**  
+**Types of Personal Information We Collect**  
 
 In this Privacy Policy, " **Personal Information** " means any information by which You can be personally identified, and includes Your name and address, age or date of birth, Your electronic mail address, number of children, Your occupation, employment information, telephone number, education, the kind of service provided to You, Your social security number, real property purchased, leased, or rented, bank account number, debit card number, bank or investment account, debit card, or credit card balance, payment history, and information pertaining to Your creditworthiness, assets, income or liabilities. ** __**
 
