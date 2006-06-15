@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digimarc.com privacy policy that was archived on 2005-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050829091636id_/http%3A//www.digimarc.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digimarc.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615195921id_/http%3A//digimarc.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Digimarc Corporation
 
@@ -60,5 +60,5 @@ Personally Identifiable Information and/or Third Party Personally Identifiable I
 
 Digimarc reserves the right to change its privacy policy. If we change our privacy practices, the changes will not relate to previously collected data. If we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our web site notifying users of the change. In some cases where we post the notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
 
-Copyright © 2005 , Digimarc Corporation  
+Copyright © 2006, Digimarc Corporation  
 PRIVACY POLICY UPDATED 05-20-05 
