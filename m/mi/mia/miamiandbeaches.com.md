@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miamiandbeaches.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307213201id_/http%3A//www.gmcvb.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miamiandbeaches.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615020856id_/http%3A//www.gmcvb.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # privacy policy
 
@@ -74,3 +74,7 @@ You hereby agree to indemnify, defend and hold the GMCVB, and all its officers, 
 XII. Modification of Terms and Conditions
 
 GMCVB reserves the right, at its sole discretion, to change, modify, add or remove any portion of this Agreement, in whole or in part, at any time. Notification of changes in the Agreement will be posted on the website. GMCVB may change, suspend or discontinue any aspect of the website at any time, including the availability of any website feature, database, or content. GMCVB may also impose limits on certain features and services or restrict your access to parts or all of the website without notice or liability. By using this website you agree to be bound by any such revisions and should therefore periodically visit the page to determine the then current terms of use to which you are bound.
+
+XII. Electronic Newsletters 
+
+We offer free, electronic newsletters, updates and e-mail reminders as a service to our registrants, based upon your voluntary subscription. You will only receive an electronic newsletter if you have requested it (opted-in). We do not share our mailing lists with any third parties, including advertisers or partners. 
