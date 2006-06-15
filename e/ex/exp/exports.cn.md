@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the exports.cn privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218213726id_/http%3A//www.exports.cn/BusinessTerms.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exports.cn privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615173005id_/http%3A//www.exports.cn/BusinessTerms.aspx) for the most accurate reproduction.*
 
-# Business Terms
+# Business Terms - Direct Buy China Products from China Factories, China Manufacturers, China Suppliers..
 
 |  |  |    Your are here: Exports.cn --> Privacy Policy  
 ---  
