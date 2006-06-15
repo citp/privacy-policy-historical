@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcentral.com.au privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231122434id_/http%3A//webcentral.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcentral.com.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615093003id_/http%3A//webcentral.com.au/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy : Updated 19 July 2005 - WebCentral
 
@@ -55,7 +55,7 @@ For some more information about what we collect, please see our Privacy FAQ Sect
   * in the case of ABNs, to verify your identity;
   * in the case of our partners who are IT professionals, to ascertain your areas of specialty and to refer prospective customers to you; if you have attended our partner roadshows, we may have a record of your attendance and areas of special interest;
   * maintain a technical and account history of your dealings with us, and to re-establish your account with us where you rejoin as a customer within 6 months after having terminated your account;
-  * monitor your compliance with our [Acceptable Use Policy](http://www.webcentral.com.au/acceptableuse.php) and other terms and conditions of supply;
+  * monitor your compliance with our [Acceptable Use Policy](http://webcentral.com.au/acceptableuse.php) and other terms and conditions of supply;
   * comply with our reporting and other obligations to third party licensors (such as reporting to software suppliers the number and identity of software licenses we have issued as part of our products).
 
 
@@ -97,7 +97,7 @@ For some more information about what we collect, please see our Privacy FAQ Sect
 
 ##### 7\. Children's Privacy
 
-WebCentral does not knowingly collect, use or market any information to children without seeking parental or a guardian's consent. We also urge you to familiarise yourself with your legal responsibilities with regard to children and the Internet, which can be found in our [Acceptable Use Policy](http://www.webcentral.com.au/acceptableuse.php).
+WebCentral does not knowingly collect, use or market any information to children without seeking parental or a guardian's consent. We also urge you to familiarise yourself with your legal responsibilities with regard to children and the Internet, which can be found in our [Acceptable Use Policy](http://webcentral.com.au/acceptableuse.php).
 
 ##### 8\. Complaints
 
