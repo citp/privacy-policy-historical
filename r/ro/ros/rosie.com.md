@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rosie.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215083234id_/http%3A//www.rosie.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rosie.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615105006id_/http%3A//www.rosie.com/privacy) for the most accurate reproduction.*
 
 # r blog » Privacy Policy
 
@@ -39,7 +39,7 @@ Our web site has security measures in place to protect against the loss, misuse 
 
 From time to time, the website may offer you the ability to join our R BLOG List to receive communications and various items of interest, at our sole discretion. To join the list, you must provide your e-mail address and, if you choose to provide it, your postal mail address with your state and zip code as well as the size of t-shirt you would want to receive in the event we send t-shirts out at some point in the future. Feel free to sign up if you are 13 or older. By joining any site list, you agree that we can send you (via email or postal mail, if provided) free stuff (neat ideas, thoughts, free things, information about worthy charities, and other good stuff) whenever deemed appropriate (or not at all), and that the same exact stuff may, or may not, be sent to everyone on the list. We may contact you via email and, possibly (if we have your full address), regular mail.
 
-We treat your interest R BLOG List contact information with care and value your privacy, and will not rent, sell, lease or barter the contact information you provide with any third party. However, we may send you emails, postal mailings and free stuff on behalf of third parties and charities we think are cool and worthwhile. We may use your zip code and state to send you e-mail messages about upcoming events in your area.
+We treat your interest R BLOG List contact information with care and value your privacy, and will not rent, sell, lease or barter the contact information you provide with any third party. However, we may send you emails, postal mailings and free stuff on behalf of third parties and charities we think are cool and worthwhile. We will also keep you informed of activities and special promotions related to Rosie’s For All Kids Foundation and Rosie’s Broadway Kids as well as Rosie’s Shop, the profits of which go entirely to fund these charities Rosie founded, and the children they serve. We may use your zip code and state to send you e-mail messages about upcoming events in your area.
 
 **5\. How to unsubscribe from our R BLOG List**
 
