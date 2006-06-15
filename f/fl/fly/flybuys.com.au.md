@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the flybuys.com.au privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218031813id_/http%3A//flybuys.com.au/information/privpol.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flybuys.com.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615203232id_/http%3A//flybuys.com.au/information/privpol.asp) for the most accurate reproduction.*
 
 # Welcome to FlyBuys : Information
 
 | 
 
-[](https://web.archive.org/web/20051218031813id_/http%3A//flybuys.com.au/awards/10cent/10cent.asp) [](https://web.archive.org/web/20051218031813id_/http%3A//flybuys.com.au/awards/20cent/20cent.asp)
-
-|  [](https://web.archive.org/web/20051218031813id_/http%3A//flybuys.com.au/information/top)
+|  [](https://web.archive.org/web/20060615203232id_/http%3A//flybuys.com.au/information/top)
 
 FlyBuys is changing the FlyBuys Policy on Information Privacy. This notice describes the changes that are being made. These changes will come into effect on 1 January 2006. You can call us on 13 1116, if you would like a full copy of the amended FlyBuys Policy on Information Privacy.
 
@@ -19,7 +17,7 @@ There are four key changes to the FlyBuys Policy on Information Privacy. In summ
   * If you nominate an additional cardholder or provide personal information to FlyBuys about another person (for example, a family member), you will have to make sure that the person has:
     * read and understood the FlyBuys Policy on Information Privacy; and
     * agreed to their personal information being collected, used and disclosed in accordance with the FlyBuys Policy on Information Privacy.
-  * Unless you instruct us otherwise, we will be able to use your electronic addresses (including your e-mail address and mobile phone number for receiving SMS), to the extent that you have provided them, to let you know about upgrades to our online services (such as Award Redemption) and to send you FlyBuys program and marketing communications.
+  * Unless you instruct us otherwise, we will be able to use your electronic addresses (including your e-mail address and mobile phone number for receiving SMS), to the extent that you have provided them, to let you know about upgrades to our online services (such as Reward Redemption) and to send you FlyBuys program and marketing communications.
 
 
 
@@ -84,13 +82,13 @@ go to top
     * employment status
     * information about credit cards linked to FlyBuys
     * transaction details associated with the earning of FlyBuys points 
-    * points earned and awards provided 
+    * points earned and rewards provided 
     * names, genders and dates of birth of additional cardholders
     * ages of other family members. 
 
 Members' signatures/authorities are also collected by FlyBuys.
 
-**2.3** If you are a FlyBuys member or simply inquiring about our online services such as Awards Redemption, we may use your electronic addresses (such as your email address or mobile phone number for receiving SMS) to advise you of any upgrades or changes to these services.
+**2.3** If you are a FlyBuys member or simply inquiring about our online services such as Rewards Redemption, we may use your electronic addresses (such as your email address or mobile phone number for receiving SMS) to advise you of any upgrades or changes to these services.
 
 We may also use your electronic addresses to send you from time to time various FlyBuys program and marketing communications.
 
@@ -103,7 +101,7 @@ go to top
 
 **3.2** FlyBuys will not use or disclose or permit the use or disclosure of personal information that could be used to identify an individual member in any circumstances except: 
 
-    1. to ensure the proper functioning of the FlyBuys program in relation to the member in question (for example, to confirm membership and acceptance of the Terms and Conditions, to communicate points earned, to seek the member's views on the operation of the FlyBuys program in order to improve member service, to ensure the integrity of points processing by participating retailers, to communicate promotional offers and special events and to identify the member when awards are made) and for these purposes personal information will only be disclosed to FlyBuys or a service provider retained by FlyBuys under conditions of confidentiality; 
+    1. to ensure the proper functioning of the FlyBuys program in relation to the member in question (for example, to confirm membership and acceptance of the Terms and Conditions, to communicate points earned, to seek the member's views on the operation of the FlyBuys program in order to improve member service, to ensure the integrity of points processing by participating retailers, to communicate promotional offers and special events and to identify the member when rewards are made) and for these purposes personal information will only be disclosed to FlyBuys or a service provider retained by FlyBuys under conditions of confidentiality; 
     2. where the personal information is to be used by CML Group Entities or NAB Group Entities for the purposes described in clause 3.3;
     3. otherwise, where the personal information is to be used by a participating retailer for marketing, planning, product development and research and where
       1. the personal information does not include the name of the member; and 
