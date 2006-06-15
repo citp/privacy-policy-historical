@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salon.com privacy policy that was archived on 2005-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051208190126id_/http%3A//salon.com/about/policy/index.html%3Flid%3Dprivacy_Bottom%26lpos%3DBottom_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salon.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615200408id_/http%3A//www.salon.com/about/policy) for the most accurate reproduction.*
 
 # Salon.com
 
@@ -46,9 +46,9 @@ Salon.com offers an "e-mail a friend about this story" feature, allowing site vi
 
 **Table Talk**
 
-Salon.com visitors who register for our Table Talk community area provide us with a name, password and a working e-mail address. We use this information to set up your account. We do not sell or redistribute the Table Talk membership list and will not send you e-mail at the address you provide, except for infrequent announcements relating to Table Talk or as needed to resolve issues that may arise with your Table Talk account. The e-mail address you register with Salon.com will be posted in Table Talk if and when you post comments there, but you are free at any time to substitute an alternate e-mail address if you wish to keep the one you initially registered private. Participants in Table Talk are expected to comply with the rules governing the area, but we cannot control third parties' use of information you may choose to provide in such a public forum. For more information see the Table Talk [registration page.](http://tabletalk.salon.com/webx?18@@)
+Salon.com visitors who register for our Table Talk community area provide us with a name, password and a working e-mail address. We use this information to set up your account. We do not sell or redistribute the Table Talk membership list and will not send you e-mail at the address you provide, except for infrequent announcements relating to Table Talk or as needed to resolve issues that may arise with your Table Talk account. The e-mail address you register with Salon.com will be posted in Table Talk if and when you post comments there, but you are free at any time to substitute an alternate e-mail address if you wish to keep the one you initially registered private. Participants in Table Talk are expected to comply with the rules governing the area, but we cannot control third parties' use of information you may choose to provide in such a public forum. For related information see the [Salon Table Talk FAQ page](http://tabletalk.salon.com/Helpfile/FAQ.html).
 
-**Promotion**
+ **Promotion**
 
 From time to time, Salon.com may sponsor sweepstakes, contests or other events which require the collection, processing and storage of individual contact and demographic information (e.g., your age and state of residence) to be used for the event. Salon may also co-sponsor these events along with other companies, in which case the user's individual contact and demographic information is likely to be shared with other participating sponsors, who may use this information as they wish. A registrant's personal contact and demographic information will not be released to any third-party organization other than named sponsors without the user's consent, and Salon.com will request that such named sponsors uphold the privacy of the registrants' information by not distributing or sharing such information with any other businesses or organizations.
 
@@ -62,7 +62,7 @@ Protecting the privacy of the very young is important to us. For that reason, we
 
 **Other disclosure of personal information**
 
-Salon.com will not otherwise use or disclose your personal information without your consent except (i) as described in this privacy policy, or (ii) as required by law, court order or as requested by other government or law enforcement authority. This policy does not protect information you post to any on-line bulletin board, chat room, newsgroup or other public forum within our Web sites.
+Salon will not otherwise use or disclose your personal information (personally identifiable data such as your name, email address, password) without your consent except (i) as described in this privacy policy, or (ii) as required by law to be disclosed. This policy does not protect information you post to any on-line bulletin board, chat room, newsgroup or other public forum within our Web sites.
 
 **Unsubscribe and data removal policies**
 
