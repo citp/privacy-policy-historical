@@ -1,10 +1,23 @@
-> *The following text is extracted and transformed from the pixel2life.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231223556id_/http%3A//www.pixel2life.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixel2life.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615211758id_/http%3A//www.pixel2life.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Pixel2life.com
 
+  |  |  | [](http://www.pixel2life.com/tutorials/) |  | [](http://www.pixel2life.com/submit/) |  | [](http://www.pixel2life.com/forums/) |  | [](http://www.pixel2life.com/resource_center/) |  | [](http://www.pixel2life.com/contact/)  
+---|---|---|---|---|---|---|---|---|---  
+  
+| 
+
+**Tutorials Indexed: 16696**
+
+|    
+---|---|---  
+  
   | 
 
-|   | 
+|  | **Articles** |    
+---|---|---  
+  
+  | 
 
 | **We here at pixel2life.com greatly respect your privacy and we hope that our users feel that the information they share with us is 100% secure and private. Here are the guidelines we follow at Pixel2life to ensure your privacy and our integrity:**  
 ---  
@@ -40,32 +53,20 @@
 |  | **Community Buzz** |    
 ---|---|---  
   
-****| **Goodies from the Mail Bag!**  
+****| **Vista 2 Beta Goes Public**  
 ---|---  
-**Hi Gang! Here are some of the latest goodies sent to me via the contact form for CBuzz pluggage:
+**Microsoft has made Windows Vista Beta 2 available to the masses for downloading in three different languages. If you can’t download you don’t have to worry, there will be also an option to order it on DVD.
 
-[Pixel-Pulse.com](http://www.pixel-pulse.com/) is back online with a new site and a new server on the other side of the Atlantic, and they are celebrating the rebirth with a 1 Year Hosting giveaway contest that you can check out [HERE](http://www.pixel-pulse.com//content/view/26/2/)!
-
-The serious stuff ends here.
-
-Now for the insane stuff I tend to bring to the table for your viewing pleasure! Got Jesus? Get your Christian Jerseys (No, I'm not joking) at [christianthrowbackjersey.com](http://www.christianthrowbackjersey.com/) and show your colors! Perhaps the harsh realities of world news are getting you down? It's time to stop surfing CNN.com and start using [happynews.com](http://www.happynews.com/)! For you American folks looking to find out if you're a yankee or a southern rebel, [alphadictionary.com](http://www.alphadictionary.com/articles/yankeetest.html) has got the perfect test for you, and for the chess nerds, not even your sport is safe from the "sex sells" [revolution](http://www.chessbase.com/newsdetail.asp?newsid=1826)!
-
-And finally... new heights in idiocy have been achieved over at [smashmyxbox.com](http://www.smashmyxbox.com/). The name says it all.. send him money, he'll buy an xBox, then smash it up. Folks, if you send these guys so much as a DIME, you are going straight to hell in a handbasket.
+Read More [Here](http://www.duggmirror.com/software/Vista_Beta_2_to_be_public_today_/) And Download from [Here](http://download.windowsvista.com/preview/beta2/en/x86/download.htm)  
+Worried about hardware requirements check them [Here](http://www.microsoft.com/windowsvista/getready/capable.mspx)
 
 **  
    
-**Posted By:[Faken](http://www.pixel2life.com/forums/index.php?showuser=2)**  
-**Posted On: 12-28-05**  
+**Posted By:[Donna](http://www.pixel2life.com/forums/index.php?showuser=111)**  
+**Posted On: 06-07-06**  
   
-****| **Sig Contest - Over $200 in Prizes**  
----|---  
-**[GreyCobra](http://www.greycobra.com/) has just announced a signature tournament with over $200 in prizes! Win an iPod Nano, $200 cash, or cool GreyCobra Gear!
-
-Details can be found [here](http://www.greycobra.com/forums/index.php?showtopic=12167)
-
-**  
    
-**Posted By:[Jay](http://www.pixel2life.com/forums/index.php?showuser=16)**  
-**Posted On: 12-26-05**  
-  
- 
+   
+  | 
+
+|  
