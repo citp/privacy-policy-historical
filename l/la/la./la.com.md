@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the la.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218203602id_/http%3A//la.com/home/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the la.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615064224id_/http%3A//la.com/home/privacypolicy) for the most accurate reproduction.*
 
 # LA.com: Your City. Your Guide. Insiders Guide to Los Angeles, California CA
 
-[About LA.com](https://web.archive.org/home/aboutlacom) | [Privacy](https://web.archive.org/home/privacypolicy) | [Advertising](https://web.archive.org/home/advertising) | [Press](https://web.archive.org/home/newspress/home/15634) | [Terms & Conditions](https://web.archive.org/home/termsconditions) | [Contact Us](https://web.archive.org/home/contactus) | [Site Map](https://web.archive.org/sitemap) | [Jobs](https://web.archive.org/home/multiuselist/jobs/31406) ~LA.com: Your City. Your Guide. LA.com is a new insider's guide to [Los Angeles](https://web.archive.org/web/20051218203602id_/http%3A//la.com/home/privacypolicy), California   
-21221 Oxnard Street, Los Angeles, CA 91367  © 2005 LA.com 
+[About LA.com](https://web.archive.org/home/aboutlacom) | [Privacy](https://web.archive.org/home/privacypolicy) | [Advertising](https://web.archive.org/home/advertising) | [Press](https://web.archive.org/home/newspress/home/15634) | [Terms & Conditions](https://web.archive.org/home/termsconditions) | [Contact Us](https://web.archive.org/home/contactus) | [Site Map](https://web.archive.org/sitemap) | [Jobs](https://web.archive.org/home/multiuselist/jobs/31406) ~LA.com: Your City. Your Guide. LA.com is a new insider's guide to [Los Angeles](https://web.archive.org/web/20060615064224id_/http%3A//la.com/home/privacypolicy), California   
+21221 Oxnard Street, Los Angeles, CA 91367  © 2006 LA.com 
 
 | 
 
