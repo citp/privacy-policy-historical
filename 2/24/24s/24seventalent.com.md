@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 24seventalent.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204225633id_/http%3A//www.24seventalent.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 24seventalent.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615161801id_/http%3A//24seventalent.com/about/privacy) for the most accurate reproduction.*
 
 # 24Seven Talent
 
