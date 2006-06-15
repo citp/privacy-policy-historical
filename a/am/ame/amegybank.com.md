@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amegybank.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231075429id_/http%3A//www.amegybank.com/privacypolicy/index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amegybank.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615213315id_/http%3A//www.amegybank.com/privacypolicy/index.aspx) for the most accurate reproduction.*
 
 # Amegy Bank
 
@@ -14,9 +14,9 @@ Remember: If you previously exercised your opt out rights, you do not need to ma
 
 The Amegy Bank Privacy Policy is our pledge that you can count on us to protect the privacy and security of your information, while continuing to supply you with the finest financial products and services.
 
-We appreciate your business and thank you for your continued confidence and trust. For more information on our Privacy Policy and security practices, please call one of our customer service representatives at 713-235-8810, 281-238-7770 or 214-754-9500 and press 10 (or call toll free at 888-GO-AMEGY/888-462-6349). 
+We appreciate your business and thank you for your continued confidence and trust. For more information on our Privacy Policy and security practices, please call one of our Customer Service Representatives at 713-235-8800, 214-754-9400 or 888-GO-AMEGY/888-462-6349.
 
-[Printer Friendly Version](https://web.archive.org/web/20051231075429id_/http%3A//www.amegybank.com/documents/privacy_policy_b.htm)
+[Printer Friendly Version](https://web.archive.org/web/20060615213315id_/http%3A//www.amegybank.com/documents/privacy_policy_c.htm)
 
 Respecting & Protecting Customer Privacy.
 
@@ -56,7 +56,7 @@ This Privacy Policy is in effect for all of the following Amegy Bank companies a
 
 
 
-For more information on our Privacy Policy and Security practices, please call one of our customer service representatives at 713-235-8810, 281-238-7770 or 214-754-9500 and press 10 (or call toll free at 888-GO-AMEGY/888-462-6349). 
+For more information on our Privacy Policy and Security practices, please call one of our Customer Service Representatives at 713-235-8800, 214-754-9400 or 888-GO-AMEGY/888-462-6349. 
 
 Protecting The Security And Confidentiality Of Customer Information
 
@@ -128,7 +128,7 @@ Listed below are the categories of Third Parties with whom we have joint marketi
 Your ability to "opt out," as described in this privacy policy, does not apply to the sharing of customer information with these third parties or to sharing of customer information otherwise permitted by law.
 
 Your "Opt Out" Rights  
-You can choose not to have your customer information shared with third parties (except as permitted by law) by completing and returning the [Opt Out Election Form](https://web.archive.org/web/20051231075429id_/http%3A//www.amegybank.com/documents/optout_form.pdf).
+You can choose not to have your customer information shared with third parties (except as permitted by law) by completing and returning the [Opt Out Election Form](https://web.archive.org/web/20060615213315id_/http%3A//www.amegybank.com/documents/optout_form.pdf).
 
 What About Former Customers?
 
@@ -139,7 +139,7 @@ Our "Opt Out" Policy: Choosing Not To Have Your Information Shared.
 If you prefer that we do not share your customer information with third parties (other than as permitted by law) or if you prefer that we do not share your customer information with companies within our corporate family, you may "Opt Out" of these disclosures. To do so, please complete the attached "OPT OUT ELECTION FORM," check the appropriate box on the form, complete all the requested information, and send the form back to us at the address provided on the form. We will process your request as soon as reasonably practical. Your opt out decision will apply to you and all accounts you hold jointly with another individual(s). On a joint account, we can accept an opt out request from you or anyone else on your account. This opt out will apply to all persons on the joint account. You may choose to opt out of customer information sharing at any time.
 
 How You Can "Opt Out"   
-You can choose not to have this information shared with companies in our corporate family and third parties by completing and returning an [Opt Out Election Form](https://web.archive.org/web/20051231075429id_/http%3A//www.amegybank.com/documents/optout_form.pdf).
+You can choose not to have this information shared with companies in our corporate family and third parties by completing and returning an [Opt Out Election Form](https://web.archive.org/web/20060615213315id_/http%3A//www.amegybank.com/documents/optout_form.pdf).
 
 NOTE: Your direction on this paragraph also covers certain information about you that we might otherwise share with our corporate family. We may share other information about you with our corporate family as permitted by law.
 
@@ -151,7 +151,7 @@ An important part of the responsibility of protecting your personal information 
   * Memorize personal identification numbers (PIN) - don't carry them in your wallet. 
   * Promptly review monthly financial statements and immediately report any descrepancies. 
   * Retain receipts from all ATM, debit and credit card transactions. When you're ready to dispose of them, make sure your account is not readable. 
-  * If you suspect someone has unauthorized access to your account or to any PIN or credit card information, notify us immediately at 713-235-8810 or 214-754-9500and press 10 to speak with a customer service representative (or toll free at 888-GO-AMEGY/888-462-6349). 
+  * If you suspect someone has unauthorized access to your account or to any PIN or credit card information, notify us immediately at 713-235-8800, 214-754-9400 or 888-GO-AMEGY/888-462-6349 to speak with a Customer Service Representative. 
   * Report crimes regarding your customer information to your local law enforcement agency and the Federal Trade Commission (FTC) toll free at 877-ID THEFT (877-438-4338) or online at http://www.consumer.gov/idtheft. 
 
 Glossary
