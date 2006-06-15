@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unos.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221035509id_/http%3A//www.unos.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unos.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615191008id_/http%3A//unos.com/privacy.html) for the most accurate reproduction.*
 
 # Uno Chicago Grill
 
@@ -51,7 +51,7 @@ The Company takes measures to prevent unauthorized intrusion to its websites and
 
 How can you update your personal information?
 
-If you register for a website facility under which the Company may send you regular communications (such as the "Uno Club"), you may update your personal information by selecting the "Update your Profile" link. 
+If you register for a website facility under which the Company may send you regular communications (such as the "Uno Insider's Club"), you may update your personal information by selecting the "Update your Profile" link. 
 
 What other information do we collect?
 
@@ -76,3 +76,10 @@ Changes to this Policy
 This Policy is the sole authorized statement of the Company's practices with respect to the collection of personal information through the Company's websites and the subsequent use and disclosure of such information. Certain third party websites may be linked to the Company website (such as unicru.com for job applications, and giftcertificates.com for the purchase of Gift Cards). These third party websites include their own privacy policies. Please refer to these policies when using one of the linked websites.
 
 The Company may revise this Policy from time to time. You should bookmark and periodically review this page to ensure that you are familiar with the most current version of this Policy. You can determine when this Policy was last revised by checking the "Last Revised" legend at the top of the Policy.
+
+Contact
+
+Uno Restaurant Holdings Corporation  
+100 Charles Park Road  
+Boston, MA 02132  
+(617)323-9200
