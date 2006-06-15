@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taxbrain.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217212820id_/http%3A//taxbrain.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxbrain.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615032628id_/http%3A//www.taxbrain.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Tax Brain Privacy Policy
 
@@ -54,9 +54,7 @@ From time to time, users may be asked to provide certain Identifying and Contact
 **  
 Cookies**
 
-A "cookie" is a small piece of information that our Web sites may provide to a user's browser while they are at our site. Registered users on TaxBrain will receive a cookie when they login. This cookie is maintained by their browser and contains their unique identifier. This cookie is also used to authenticate their identity and provide access to areas of our Web site that are limited to registered users, such as those for tax return preparation and electronic filing. The cookie is tied to the user's account id. Only TaxBrain knows what personal information matches the account id number. There is no way any personally identifiable information could be directly extracted from our cookie. However, if a user has opted to have their username and password remembered, the information is stored in the cookie.   
-We also contract with Coremetrics, a service provider, to provide us with a data collection and reporting service. This service allows us to better provide our product and services to you. Coremetrics' only role is to help us conduct our business and deliver the most relevant products and services. Coremetrics is contractually restricted from using your information in any other manner. If you would like to deactivate our ability to analyze your anonymous browsing and purchase behavior through the use of this service, or find out more about our service provider, including its privacy policy and how to opt out, go to:  
-<http://www.coremetrics.com/info_eluminate2.html>.
+A "cookie" is a small piece of information that our Web sites may provide to a user's browser while they are at our site. Registered users on TaxBrain will receive a cookie when they login. This cookie is maintained by their browser and contains their unique identifier. This cookie is also used to authenticate their identity and provide access to areas of our Web site that are limited to registered users, such as those for tax return preparation and electronic filing. The cookie is tied to the user's account id. Only TaxBrain knows what personal information matches the account id number. There is no way any personally identifiable information could be directly extracted from our cookie. However, if a user has opted to have their username and password remembered, the information is stored in the cookie. 
 
 **Log Files**
 
