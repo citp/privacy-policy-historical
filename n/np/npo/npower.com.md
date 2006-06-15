@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the npower.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228131353id_/http%3A//npower.com/At_home/Privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the npower.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615074103id_/http%3A//npower.com/At_home/Privacy_policy.html) for the most accurate reproduction.*
 
 # npower - Privacy Policy.
 
@@ -18,7 +18,7 @@ We collect the information requested by our contact forms, together with any com
 
 Just ask us! You can e-mail us at customer.data@npower.com or write to The Data Protection Officer, Database Operations, npower Ltd, Oak House, Bridgwater Road, Worcester, WR4 9FP.
 
-The information that you request will be provided within a maximum of 20 working days. We try to ensure that the information we hold is accurate, up to date and relevant and we'll be happy to correct any inaccuracies. 
+The information that you request will be provided within a maximum of 40 working days. We try to ensure that the information we hold is accurate, up to date and relevant and we'll be happy to correct any inaccuracies. 
 
 ## What are cookies? 
 
