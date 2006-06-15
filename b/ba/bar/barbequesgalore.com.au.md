@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the barbequesgalore.com.au privacy policy that was archived on 2005-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050614101647id_/http%3A//www.barbequesgalore.com.au/misc/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barbequesgalore.com.au privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616015321id_/http%3A//barbequesgalore.com.au/misc/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Barbeques Galore | Good Times Galore
 
 This privacy policy has been provided for your reference and records.  
   
   
-[](https://web.archive.org/goodtimesgalore/ecards.aspx "Barbeques Galore eCards")
+[](http://www.barbecuesgalore.com.au/misc/disclaimer.aspx "Absoulte Zero Deal")
 
 This privacy statement applies to your use of the Barbeques Galore (Aust) Pty Ltd website at www.barbequesgalore.com.au.
 
@@ -24,9 +24,6 @@ When you look at this website, our Internet Service Provider makes a record of y
 
 
 
-Access to Information Collected  
-The Office of the Federal Privacy Commissioner will not make an attempt to identify users or their browsing activities. However, in the unlikely event of an investigation, a law enforcement agency or other government agency may exercise its legal authority to inspect our Internet Service Provider's logs. 
-
 Use of Information Collected  
 We will only record your e-mail address if you send us a message. Your e-mail address will only be used for the purpose for which you have provided it and it will not be added to a mailing list or used for any other purpose without your consent.
 
@@ -37,8 +34,7 @@ This website only uses session cookies in the following instances:
 
   1. During a search query
   2. During your visit to product pages
-  3. Whilst you are logged into My Galore
-  4. When you register for the e-newsletter
+  3. When you register for the e-newsletter
 
 
 
@@ -49,4 +45,4 @@ The website statistics for this site are generated from web logs as outlined abo
 Upon clearing your browser values the session cookie set by this website is destroyed and no personal information is maintained which might identify you should you visit our website at a later date.
 
 Contact This Office  
-This site is governed by this privacy policy, if you have any queries, please [contact us here](https://web.archive.org/web/20050614101647id_/http%3A//www.barbequesgalore.com.au/contactus/general.aspx).
+This site is governed by this privacy policy, if you have any queries, please [contact us here](https://web.archive.org/web/20060616015321id_/http%3A//barbequesgalore.com.au/contactus/general.aspx).
