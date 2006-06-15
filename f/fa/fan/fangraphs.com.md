@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fangraphs.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221202000id_/http%3A//www.fangraphs.com/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fangraphs.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616005008id_/http%3A//www.fangraphs.com/policy.aspx) for the most accurate reproduction.*
 
-# fangraphs.com - Privacy Policy
+# Privacy Policy | Fan Graphs
 
 |  | **Player Search:** |  |   
 ---|---|---|---  
