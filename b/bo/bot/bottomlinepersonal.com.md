@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the bottomlinepersonal.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228133327id_/http%3A//www.bottomlinesecrets.com/simple.html%3Farticle_id%3D16004) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bottomlinepersonal.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615211944id_/http%3A//www.bottomlinesecrets.com/simple.html%3Farticle_id%3D16004) for the most accurate reproduction.*
 
 # BottomLineSecrets.com Web site Privacy Policy
 
 **BottomLineSecrets.com Web site Privacy Policy**
-
-_ _  
-[](https://digitalid.verisign.com/as2/a6bae7b539d7d430bd9b3dd24cb2907d)
 
 Effective April 2005 
 
@@ -83,7 +80,7 @@ Our Web sites are not directed nor targeted to, nor intended for use by, childre
 
 Security
 
-Boardroom takes reasonable precautions to safeguard information transmitted between users and the Web Sites. [](https://digitalid.verisign.com/as2/a6bae7b539d7d430bd9b3dd24cb2907d)Certain pages of the Web sites, including those that offer users the opportunity to provide credit card information for purchases, use Secured Socket Layers encryption. However, due to the inherent nature of the Internet as an open communications network, we can not guarantee that communications between you and Boardroom and information stored on our servers will be free from unauthorized access. Users understand and acknowledge this risk when communicating with, and providing information to, the Site. 
+Boardroom takes reasonable precautions to safeguard information transmitted between users and the Web Sites. Certain pages of the Web sites, including those that offer users the opportunity to provide credit card information for purchases, use Secured Socket Layers encryption. However, due to the inherent nature of the Internet as an open communications network, we can not guarantee that communications between you and Boardroom and information stored on our servers will be free from unauthorized access. Users understand and acknowledge this risk when communicating with, and providing information to, the Site. 
 
 Transfer of Information in Business Transactions
 
