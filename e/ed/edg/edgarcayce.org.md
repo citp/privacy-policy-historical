@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the edgarcayce.org privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219144328id_/http%3A//edgarcayce.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edgarcayce.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210716id_/http%3A//edgarcayce.org/policy.asp) for the most accurate reproduction.*
 
-# 
+# Privacy Policy Statement
 
-Privacy Policy Statement 
-
-This is the official web site of the **A.R.E.  
-**[Association for Research and Enlightenment, Inc.](http://edgarcayce.org/)
+Privacy Policy Statement  
+[Association for Research and Enlightenment, Inc.](http://edgarcayce.org/)
 
 Our address is  
-**215 67th Street  
-Virginia Beach, VA 23451**  
-We can be reached via e-mail at [are@edgarcayce.org](mailto:are@edgarcayce.org)  
-or you can reach us by telephone at 757-428-3588  
+215 67th Street  
+Virginia Beach, VA 23451
 
+We can be reached via e-mail at [are@edgarcayce.org](mailto:are@edgarcayce.org)  
+or you can reach us by telephone at 757-428-3588
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
 
@@ -30,12 +28,12 @@ You may receive mailings from other reputable companies. You can, however, have 
 
 Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations 
 
-Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
+Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line. 
 
 Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations 
 
 With respect to Ad Servers:  
-We do not partner with or have special relationships with any ad server companies. 
+**We do not partner with or have special relationships with any ad server companies. **
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
@@ -50,5 +48,3 @@ Consumer inaccuracies can be corrected by sending us e-mail at the above address
 With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site and When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server. .
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), state or local chapters of the Better Business Bureau.
-
-RETURN
