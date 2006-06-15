@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysql.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214184932id_/http%3A//www.mysql.com/company/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysql.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615204550id_/http%3A//www.mysql.com/company/legal/privacy.html) for the most accurate reproduction.*
 
 # MySQL AB :: Privacy Policy
 
@@ -21,6 +21,8 @@ We use the personal information you provide voluntarily to send information you'
 
 
 We release personal information when we believe that release is appropriate to comply with the law, or to protect the rights, property, or safety of MySQL AB, our users, or others. This may include exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+
+In addition, MySQL and its partners may engage in joint events or resell each others products. Such promotions will always reference the partners involved. Both MySQL and the partner(s) will have access to that information.
 
 ## Aggregated tracking information
 
@@ -73,4 +75,4 @@ You can review and validate the information, that we have collected about you by
 
 If you have any questions or comments about this privacy statement, the practices of this site, or your dealings with this Web Site, you can contact <[webmaster@mysql.com](mailto:webmaster@mysql.com)> and/or <[privacy@mysql.com](mailto:privacy@mysql.com)>
 
-_Last modified: March 1, 2005_
+_Last modified: December 27, 2005_
