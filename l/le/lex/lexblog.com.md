@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lexblog.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219012428id_/http%3A//www.lexblog.com/legal-35-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexblog.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615103144id_/http%3A//www.lexblog.com/legal-35-privacy-policy.html) for the most accurate reproduction.*
 
 # Law Blogs By LexBlog :: Privacy Policy
 
