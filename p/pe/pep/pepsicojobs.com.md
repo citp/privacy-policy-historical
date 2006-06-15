@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pepsicojobs.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214114830id_/http%3A//www.pepsicocareercenter.com/legal/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pepsicojobs.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615101011id_/http%3A//www.pepsicocareercenter.com/legal/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Pepsico Career Center Privacy Policy
 
