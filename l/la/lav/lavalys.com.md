@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lavalys.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220101942id_/http%3A//www.lavalys.com/privacy.php%3Flang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lavalys.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615043022id_/http%3A//lavalys.com/privacy.php%3Flang%3Den) for the most accurate reproduction.*
 
 # Lavalys - Comprehensive IT Security and Management
 
