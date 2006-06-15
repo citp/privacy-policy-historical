@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jagex.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214030830id_/http%3A//www.jagex.com/lang/en/aff/runescape/jagexprivacy.ws) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jagex.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615051531id_/http%3A//www.jagex.com/lang/en/aff/runescape/jagexprivacy.ws) for the most accurate reproduction.*
 
 # Jagex Software
 
@@ -101,4 +101,4 @@ If for data protection purposes you are concerned that the personal information 
 
 By using this site, you signify your assent to the Jagex Privacy Policy. If you do not agree to this policy, please do not use this site. We reserve the right to make changes in this policy. Please check back from time to time to ensure you are aware of any changes in our privacy practices. Your continued use of our site will signify your acceptance of these changes. 
 
-© Jagex Limited 2005 
+© Jagex Limited 1999 - 2006 
