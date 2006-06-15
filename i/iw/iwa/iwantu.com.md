@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the iwantu.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212100735id_/http%3A//iwantu.com/privacy.love%3Fid%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwantu.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615233900id_/http%3A//iwantu.com/privacy.love) for the most accurate reproduction.*
 
-# IwantU.com adult Personals - Where you are wanted!
+# Adult Dating Personals - IwantU.com Where you are wanted!
+
+[ ](http://www.truste.org/ivalidate.php?url=www.iwantu.com&sealid=101)
 
 Effective On: August 27th, 2004 
 
@@ -11,14 +13,14 @@ IwantU.com is a licensee of the TRUSTe Privacy Program. This privacy statement d
 3\. How the information is used   
 4\. With whom the information may be shared   
 5\. What choices are available to you regarding collection, use and distribution of the information   
-6\. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Wisol Inc control   
+6\. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Mana Internet Solutions control   
 7\. How you can correct any inaccuracies in the information. 
 
 If you feel that this company is not abiding by its posted privacy policy, you should first contact our customer service department at [http://support.iwantu.com](http://support.iwantu.com/)  
-Youm may also reach us at our mailing address: 
+You may also reach us at our mailing address: 
 
-Wisol Inc.  
-P.O. Box 802 Succ B  
+Mana Internet Solutions  
+BP 802 Succ B  
 Montreal, QC  
 H3B-3K5 Canada 
 
@@ -28,7 +30,7 @@ TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
 ##  Information Collection and Use 
 
-Wisol Inc. is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Wisol Inc. collects information from our users at several different points on our website such as the registration form, membership purchase and product purchases. 
+Mana Internet Solutions is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Mana Internet Solutions collects information from our users at several different points on our website such as the registration form, membership purchase and product purchases. 
 
 The member's personal information will not be sold or shared with any other company for promotional purposes. 
 
@@ -77,7 +79,7 @@ We will disclose personal information about our members if and when is required 
 
 ##  **Links**
 
-This web site contains links to other sites. Please be aware that we Wisol Inc. are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+This web site contains links to other sites. Please be aware that we Mana Internet Solutions are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
 
 ##  **Surveys & Contests**
 
