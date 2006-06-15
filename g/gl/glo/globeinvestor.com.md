@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globeinvestor.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204120445id_/http%3A//www.globeandmail.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globeinvestor.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210025id_/http%3A//www.theglobeandmail.com/help/privacy) for the most accurate reproduction.*
 
 # globeandmail.com - Privacy Policy
 
@@ -271,4 +271,4 @@ _A Person shall be able to address a challenge concerning compliance with the ab
 
 Please send us your privacy inquiry using the form below.   
 **All fields are mandatory.**   
-© 2004 Bell Globemedia Publishing Inc. All Rights Reserved. 
+© 2006 Bell Globemedia Publishing Inc. All Rights Reserved. 
