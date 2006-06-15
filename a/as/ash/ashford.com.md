@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ashford.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218092449id_/http%3A//www.ashford.com/helpdesk/index.asp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashford.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210006id_/http%3A//ashford.com/helpdesk/index.asp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
 
 # Ashford.com Helpdesk
 
@@ -30,7 +30,7 @@ If you feel that Ashford.com is not abiding by its posted privacy policy, you sh
 Ashford.com is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Ashford.com collects information from our users at several different points on our website. 
 
 **My Account**  
-When you make a purchase on our site, you will have the option to create an account. By creating an account, the system will remember your personal and purchase information and the checkout process on future purchases will be fast, easy and always completely [secure](https://web.archive.org/web/20051218092449id_/http%3A//www.ashford.com/helpdesk/index.asp?display=safety&subdisplay=secure). At your option, your account can also store important dates such as birthdays or anniversaries and allow you to subscribe to receive promotional emails and announcements from us (see “Electronic Mailings” below).
+When you make a purchase on our site, you will have the option to create an account. By creating an account, the system will remember your personal and purchase information and the checkout process on future purchases will be fast, easy and always completely [secure](https://web.archive.org/web/20060615210006id_/http%3A//ashford.com/helpdesk/index.asp?display=safety&subdisplay=secure). At your option, your account can also store important dates such as birthdays or anniversaries and allow you to subscribe to receive promotional emails and announcements from us (see “Electronic Mailings” below).
 
 Creating an account is also fast and easy: simply enter your personal information once and select your very own username and password. Then during checkout on your next purchase, just login and the system will take care of the rest. At all times, your personal information is accessible to you to review, edit, or update as necessary by clicking on the “My Account” link. 
 
