@@ -1,27 +1,7 @@
-> *The following text is extracted and transformed from the animeonline.net privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611215121id_/http%3A//www.animeonline.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animeonline.net privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615193406id_/http%3A//www.animeonline.net/index.php%3Fact%3Dps) for the most accurate reproduction.*
 
-# AnimeOnline.net - Privacy Statement
+# Anime Online - Anime Online Privacy Statement
 
-| **Forum Statistics**  
----  
-Registered: **21,030**  
-Attachments: **966**  
-Threads: **23,653**  
-Views: **2,753,094**  
-Posts: **455,581**  
-  
-**Gallery Statistics**  
----  
-Comments: **126,200**  
-Entries: **14,994**  
-Views: **6,752,544**  
-Downloads: **658,420**  
-  
-| 
-
-| ****AnimeOnline Privacy Policy****  
----  
-  
 **Animeonline/EverythingAnime Privacy Information**
 
 Your privacy is very important to us. We DO NOT sell or share your personal information or email address with ANY third party. The following discloses our information gathering and dissemination practices for the websites:  http://www.animeonline.net /  http://www.everything-anime.com
@@ -56,5 +36,6 @@ Any personal information (email address, home address etc) we obtain from visito
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
-Ewdi- [webmaster@animeonline.net](mailto:webmaster@animeonline.net)  
-Cybergig1- [cybergig1@charter.net](mailto:cybergig1@charter.net)
+Dan- [dan@animeonline.net](mailto:dan@animeonline.net)  
+Cybergig1- [cybergig1@charter.net](mailto:cybergig1@charter.net)  
+Lord Katsuhito- [lordkatsuhito@gmail.com](https://web.archive.org/web/20060615193406id_/http%3A//www.animeonline.net/lordkatsuhito@gmail.com)
