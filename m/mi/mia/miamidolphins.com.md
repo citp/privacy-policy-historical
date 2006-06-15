@@ -1,12 +1,134 @@
-> *The following text is extracted and transformed from the miamidolphins.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218190145id_/http%3A//www.miamidolphins.com/legal/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miamidolphins.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615024630id_/http%3A//miamidolphins.com/legal/privacystatement.asp) for the most accurate reproduction.*
 
 # MiamiDolphins.com
 
+  
+
+
+|   
+  
+---  
+  
+**Aug. 12, 7:30 pm**  
+**JACKSONVILLE (preseason)**  
+  
+  
+  
+**Aug. 19, 7:30 pm**  
+**at Tampa Bay (preseason)**  
+  
+  
+  
+**Aug. 24, 8:00 pm**  
+**at Carolina (preseason)**  
+  
+  
+  
+**Aug. 31, 7:30 pm**  
+**ST. LOUIS (preseason)**  
+  
+  
+  
+****  
+****REGULAR SEASON****  
+  
+  
+  
+**Sept. 7, 8:30 pm**  
+**at Pittsburgh**  
+  
+  
+  
+**Sept. 17, 1:00 pm**  
+**BUFFALO**  
+  
+  
+  
+**Sept. 24, 1:00 pm**  
+**TENNESSEE**  
+  
+  
+  
+**Oct. 1, 1:00 pm**  
+**at Houston**  
+  
+  
+  
+**Oct. 8, 1:00 pm**  
+**at New England**  
+  
+  
+  
+**Oct. 15, 4:15 pm**  
+**at N.Y. Jets**  
+  
+  
+  
+**Oct. 22, 1:00 pm**  
+**GREEN BAY**  
+  
+  
+  
+**Oct. 29**  
+**BYE WEEKEND**  
+  
+  
+  
+**Nov. 5, 1:00 pm**  
+**at Chicago**  
+  
+  
+  
+**Nov. 12, 1:00 pm**  
+**KANSAS CITY#**  
+  
+  
+  
+**Nov. 19, 1:00 pm**  
+**MINNESOTA#**  
+  
+  
+  
+**Nov. 23, 12:30 pm**  
+**at Detroit**  
+  
+  
+  
+**Dec. 3, 1:00 pm**  
+**JACKSONVILLE#**  
+  
+  
+  
+**Dec. 10, 1:00 pm**  
+**NEW ENGLAND#**  
+  
+  
+  
+**Dec. 17, 1:00 pm**  
+**at Buffalo#**  
+  
+  
+  
+**Dec. 25, 8:30 pm**  
+**N.Y. JETS**  
+  
+  
+  
+**Dec. 31, 1:00 pm**  
+**at Indianapolis#**  
+  
+  
+  
+****  
+**#Games that could potentially be moved to 4:05, 4:15 or 8:15 p.m.**  
+  
+  
+  
 [](https://web.archive.org/contacts/advertising/advertising.asp)
 
 [](https://web.archive.org/interactive/sharesite/sharesite.asp)
 
-|  |    
+|    
 [](http://www.truste.org/ivalidate.php?url=www.miamidolphins.com&sealid=102)
 
 Revised July 27, 2005
