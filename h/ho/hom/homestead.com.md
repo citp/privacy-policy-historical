@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homestead.com privacy policy that was archived on 2004-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040629210308id_/http%3A//www.homestead.com/%7Esite/Legal/privacy.ffhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homestead.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615223603id_/http%3A//www.homestead.com/%7Esite/Legal/privacy.ffhtml) for the most accurate reproduction.*
 
 # Homestead - your web site company
 
@@ -8,7 +8,7 @@
 |   
 | 
 
-[](https://www.truste.org/validate/10840)   
+[](https://www.truste.org/ivalidate.php?url=www.homestead.com)   
 **HOMESTEAD PRIVACY POLICY**   
 Last Updated June 2002 
 
@@ -106,35 +106,7 @@ If you have been contacted by Homestead as a result of information you entered o
 
 If we are going to use your personally identifiable information in a manner different from that as provided in our Privacy Policy at the time of collection we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect Member information already stored in our database, we will post a prominent notice on our web site(s) notifying Members of the change. In some cases where we post the notice we will also email Members who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
 
-  10. **Has this Privacy Policy been reviewed by a third party for approval?** Homestead is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users trust and confidence in the Internet by promoting the use of fair information practices. Because Homestead wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. If you still have questions or concerns regarding the Homestead privacy policy, please contact Homestead Member Support at [privacy@homesteadsupport.com](mailto:privacy@homesteadsupport.com), and if you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/users/users_watchdog.html). However, please understand that the TRUSTe program covers only information that is collected through web sites owned or operated by Homestead, and does not cover information that may be collected through software downloaded from a Homestead web site. 
-
-  11. **How does Homestead protect Children's Privacy?** Homestead does not direct its services towards minors and we do not allow Children under the age of 13 to sign up for Homestead Services. No information should be submitted to or posted at Homestead by children under the age of 13 ("Children") without the prior consent of their parent or guardian. 
-
-    1. **Verifiable Parental Consent.** We are required by law to obtain verifiable parental consent in order to collect, use, or disclose personal information from Children. Before we collect any information on a Child, we require the parent or guardian (collectively, the "Parent") to verify his or her consent by either completing a consent form which may be obtained by e-mailing kidsafety@homesteadsupport.com or by providing us with their credit card or social security number. By agreeing to the registration of his or her Child a Parent (i) agrees that the Child's online activities are subject to a number of rules and policies, including without limitation this Privacy Policy and the Member Agreement, and (ii) consents to our collection, use, and disclosure of personal information about the Child as described in this Privacy Policy. We make special provisions to allow parents to control the personal information we collect from Children as described below. 
-
-    2. **Collector of Personal Information.** Homestead Technologies Inc. owns and operates this web site and this policy only addresses the activities of Homestead. Other sites (including those that we link to) and the sites of our members may have their own policies, which we do not control and which are not addressed by this policy. 
-
-    3. **What and How Personal Information is Collected.**
-
-      1. **Collection by Homestead.** We may directly collect the following types of personal information about Children: name, address, email address, parent's registration information, birthdates, gender, or such other data that may help us to better tailor our services for each member. In addition, our servers may collect personal information indirectly and automatically (through, for example, the use of "cookies") about Children's activities while using our services, including internet sites and web pages visited. 
-
-      2. **Public Areas.** "Public Areas" are those member web sites and other areas, such as chat rooms, guest books and other means of online communication, in which a member or a third party may send a communication that is publicly available to other members. Public Areas provide special circumstances relating to the collection and disclosure of personal information. Members voluntarily may disclose any personal information whatsoever when they participate in Public Areas, but should exercise caution when doing so. In these instances, Homestead does not control that disclosure, and the personal information may be available to anyone who is also participating in that Public Area. 
-
-      3. **Prohibited Collection.** We are prohibited by law from conditioning Children's participation in a game, the offering of a prize, or another similar activity on the Child's disclosure of more Personal Information than is reasonably necessary to participate in that activity. 
-
-    4. **Our Use of Personal Information.** Homestead may use Children's personal information: to operate its site, to fulfill a requested transaction, for record keeping, for technical support or maintenance, to obtain verifiable parental consent for the collection of personal information, or for marketing directly to the Child. 
-
-    5. **Disclosure of Personal Information.**
-
-      1. **Disclosure by Homestead.** Except as contemplated in this section, we will not share personal information with a third party who does not agree to maintain the confidentiality of that personal information using reasonable security measures. We may disclose aggregated information about our members but that information contains no personal information. In some situations, we share personal information with third parties who provide support for the internal operations or enhancement of the services. 
-
-Unfortunately, due to the existing regulatory environment, we cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting the foregoing), we may be forced to disclose personal information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. We can (and you can authorize us to) disclose any personal information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us to legal liability. 
-
-      2. **Public Disclosure by Members.** Any time any member, including Children, voluntarily discloses personal information in a Public Area, that personal information may be used by third parties. In these cases, the member must choose whether or not to disclose personal information. 
-
-    6. **Review and Control of Personal Information.** If parents/guardians wish to request that their child's information be deleted or that no further information be collected from their child, please e-mail us at [kidsafety@homesteadsupport.com](mailto:kidsafety@homesteadsupport.com). 
-
-The Internet is huge and can be great fun to explore, but parents and children need to educate themselves if they want to have a safe and enjoyable online experience. Click [http://www.homestead.com/~site/Legal/safety.ffhtml](https://web.archive.org/~site/Legal/safety.ffhtml) if you'd like some tips on how to stay street smart on the Web. 
+  10. **Homestead and Children.** Homestead is not intended for use by children under the age of 13. We do not knowingly collect personal information from children. Please do not use Homestead if you are under the age of 13. 
 
 
 
