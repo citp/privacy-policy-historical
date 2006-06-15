@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eslemployment.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214010656id_/http%3A//www.eslemployment.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eslemployment.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615033943id_/http%3A//www.eslemployment.com/privacy.htm) for the most accurate reproduction.*
 
 # ESL employment - Free ESL / EFL Jobs and Employment Resource Site.
 
