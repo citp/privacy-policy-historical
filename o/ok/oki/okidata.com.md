@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the okidata.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217124419id_/http%3A//www.okidata.com/mkt/html/nf/PrivacyStatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the okidata.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615031924id_/http%3A//okidata.com/mkt/html/nf/PrivacyStatement.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -22,7 +22,7 @@ Questions regarding this statement should be directed to the Electronic Marketin
 
 Privacy Policy Statement
 
-Oki Data is committed to ensuring the privacy of information provided to us by our customers and visitors. We have developed this privacy statement to provide you with the highest level of assurance of the security and privacy of your information as it pertains to these sites ([ www.okidata.com](https://web.archive.org/web/20051217124419id_/http%3A//www.okidata.com/mkt/html/nf/OdaHome.html), [ my.okidata.com](http://my.okidata.com/), [ www.myokidata.com](http://www.myokidata.com/) and [ esales.okidata.com](http://esales.okidata.com/)). 
+Oki Data is committed to ensuring the privacy of information provided to us by our customers and visitors. We have developed this privacy statement to provide you with the highest level of assurance of the security and privacy of your information as it pertains to these sites ([ www.okidata.com](http://www.okidata.com/), [ my.okidata.com](http://my.okidata.com/), [ www.myokidata.com](http://www.myokidata.com/) and [ esales.okidata.com](http://esales.okidata.com/)). 
 
 Oki Data offers various opportunities for visitors to provide information on its site. This information can be broken down into two main categories. 
 
@@ -45,7 +45,7 @@ Meanwhile, links to other web sites (outside of the "okidata.com" domain) are pr
 
 User Control
 
-Customers and visitors who have purchased or registered in the OKI Store at [ www.okidata.com](https://web.archive.org/web/20051217124419id_/http%3A//www.okidata.com/mkt/html/nf/OdaHome.html) have the ability to change, edit or delete their personal information online by logging in at the [ member login page](http://esales.okidata.com/IWShowMemberPage.process?fromHomePage=). If Oki Data's privacy policies change in the future and the use of a users' personally identifiable information is used in a manner different from that stated at the time of collection, Oki Data will post a prominent notice on this web site 30 days prior to such changes going into effect. Additionally, if at any time a user wishes to be removed from future mailings, or change any personal information on any area of the Oki Data Web site, they may send email to [ webmaster@okidata.com](mailto:webmaster@okidata.com), [ support@okidata.com](mailto:support@okidata.com). To be removed, type "REMOVE" in the SUBJECT field. To change information, please state existing information and the change requested in the body of the message, or call 1-800-OKIDATA to request the changes be made. 
+Customers and visitors who have purchased or registered in the OKI Store at [ www.okidata.com](http://www.okidata.com/) have the ability to change, edit or delete their personal information online by logging in at the [ member login page](http://esales.okidata.com/IWShowMemberPage.process?fromHomePage=). If Oki Data's privacy policies change in the future and the use of a users' personally identifiable information is used in a manner different from that stated at the time of collection, Oki Data will post a prominent notice on this web site 30 days prior to such changes going into effect. Additionally, if at any time a user wishes to be removed from future mailings, or change any personal information on any area of the Oki Data Web site, they may send email to [ webmaster@okidata.com](mailto:webmaster@okidata.com), [ support@okidata.com](mailto:support@okidata.com). To be removed, type "REMOVE" in the SUBJECT field. To change information, please state existing information and the change requested in the body of the message, or call 1-800-OKIDATA to request the changes be made. 
 
 Oki Data takes every reasonable measure to ensure that the information it gathers from the user is accurate and remains confidential and secure from unauthorized access or use. Oki Data utilizes firewall technology to help ensure the security of your private information. 
 
@@ -75,7 +75,7 @@ Like most standard Web sites, we use log files. This includes internet protocol 
 
 Further questions regarding our privacy policy may be sent to [ webmaster@okidata.com](mailto:webmaster@okidata.com). 
 
-© Copyright, 2005 Oki Data Americas, Inc., a subsidiary of Oki Data Corporation 
+© Copyright, 2006 Oki Data Americas, Inc., a subsidiary of Oki Data Corporation 
 
 Oki Data Americas, Inc.  
 2000 Bishops Gate Blvd.  
