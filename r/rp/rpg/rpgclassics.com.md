@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rpgclassics.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215003516id_/http%3A//rpgclassics.com/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rpgclassics.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615160406id_/http%3A//rpgclassics.com/privacypolicy.shtml) for the most accurate reproduction.*
 
 # RPGC's Privacy Policy
 
