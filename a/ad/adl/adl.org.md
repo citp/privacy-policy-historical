@@ -1,40 +1,76 @@
-> *The following text is extracted and transformed from the adl.org privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204171522id_/http%3A//www.adl.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adl.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615021622id_/http%3A//www.adl.org/privacy.asp) for the most accurate reproduction.*
 
 # ADL Privacy Policy
 
-The Anti-Defamation League ("ADL") recognizes the value of your privacy. To respect and protect the privacy of our Website users, we operate the site in accordance with the following privacy policy. By using the ADL site, you consent to the terms and conditions of this privacy policy. ADL reserves the right to modify our policy from time to time. A revised policy will apply to information collected after the date the policy is changed and posted 
+The Anti-Defamation League (ADL) has established this privacy policy to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site: [www.adl.org](http://www.adl.org/). 
 
-What Information Do We Collect?
+This site contains links to other sites. ADL is not responsible for the privacy practices or the content of such Web sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
 
-ADL believes that personally identifying information, such as your name, postal and e-mail address or telephone number, is private and confidential. You can have general access to our site without providing any personally identifying information. ADL only collects personally identifying information when you voluntarily submit it, such as when you e-mail comments to the site, when you make an online donation, when you send a letter to your Congressional representative, or when you request information. This information is used for internal purposes only and helps us determine how we can improve the site to meet your needs. From time to time, we may use this information to contact you about ADL. When you make an online donation, ADL will collect your credit card number and expiration date so that it can process your donation.
+**General Information Collection and Use**  
+ADL is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. We collect information from our users at several different points on our Web site. 
 
-Use of Cookies
+**Log Files**  
+We use IP addresses to help us analyze trends, administer the site, track users movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
 
-ADL's Web site makes limited use of cookies. A cookie is small file that is saved on your computer and contains information related to your use of our site. At present we use cookies to enhance your experience with our Web site by preventing certain popup windows from appearing too frequently. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us. We do not, at this time, use cookies to collect any personally identifiable information including e-mail addresses and your name. We use cookies to understand site usage and to improve the content and offerings on our site. Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies on our site, certain popup windows will continue to reappear.  
- 
+**Cookies**   
+Our site uses 'cookies'. A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie enables us to track and target the interests of our users to enhance the experience on our site, but is in no way linked to any personally identifiable information while on our site. If a user rejects the cookie, they may still use our site. The only drawback to this is that the user may be limited in some areas of our site (for example, certain surveys or other such activities). 
 
-No Release of Information to Third Parties
+**Various Registrations**   
+In order to receive certain updates or use certain features of our Web site, a user may have to first complete a registration form. During registration a user is required to give their contact information (such as name and e-mail address). This information is used to contact the user about the services on our site for which they have expressed interest. If asked for, it is optional for a user to provide demographic information (such as income level and gender), and unique identifiers, but encouraged so we can provide a more personalized experience on our site and our e-mail communications with respect to content and personal topics of interest. 
 
-ADL does not release your personally identifying information to third parties unless you have given us permission to do so or unless such release is required to comply with the law or to protect the rights or safety of ADL or our Website users.
+ADL processes its donations through a third party service. This relationship is 100% confidential and secure. After a completed donation is accepted by the third party's server and authorized, credit card information is destroyed and a finalized report is sent through to ADL. No information other than to diagnose problems with the transaction server is retained by the third party. They do not resell, retransmit, or retain any information about transactions or personal contact information for donors it processes on behalf of ADL. 
 
-**
+**Newsletter**  
+If a user wishes to subscribe to our newsletter, we ask for contact information such as name and e-mail address. 
 
-Is the Information You provide Secure?
+**Orders**  
+Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (such as name, e-mail, and address) and financial information (such as account or credit card numbers). Contact information from the order form is used to send information about ADL to the users of our Web site. The customer's contact information is also used to get in touch with the visitor when necessary. This information is not shared or resold in any circumstance except as may be required by law.
 
-**
+Users may opt-out of receiving future mailings; see the choice/opt-out section below.
 
-ADL has implemented security measures to protect the loss, misuse and alteration of the credit card and other information under our control. We use high grade encryption and the https security protocol to communicate with your browser software. This makes it extremely difficult for anyone else to intercept or access the credit card information you send us to make an online donation.
+Financial information that is collected is used to bill the user for products and services. This credit card information is destroyed after a final authorization is received by ADL's transaction processing company.
 
-What About Links to Other Sites?
+**Surveys and Petitions**  
+Our online surveys ask visitors for contact information (like their e-mail or mailing address). We use contact data from our surveys to send the user information about ADL and its activities. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Other data collected by online surveys is used to educate ADL about the interests and concerns of its supporters and general site visitors concerning ADL's mission. This information is not shared with other organizations. ADL may operate e-mail discussions, and utilize contact lists to reach its members who request such information. Such services may be run both by ADL and contracted vendors. These e-mail addresses whether housed on ADL servers or those of a third-party contractor are never shared with any other organization and users may opt out of participating or receiving e-mail information from ADL at any time. Instructions are contained within each e-mail sent as well as on the help page of our Web site.
 
-Occasionally, ADL’s site may include links to other Web sites. ADL is not responsible for the privacy practices or the content of such Web sites.
+**Sharing**   
+We may share aggregated demographic information with our partners. This is not linked to any personal information that can identify any individual person. 
 
-How Can I Contact ADL?
+We use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. These companies are contractually prohibited from retaining, sharing, storing or using personally identifiable information for any secondary purposes.
 
-If you would like to contact us about our Privacy Policy, you can [send an email](mailto:webmaster@adl.org?subject=Privacy%20Policy) or write to ADL at:
+We may partner with third parties to provide specific services. When a user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services. 
 
-Anti-Defamation League  
-Privacy Policy Issues  
-Office of the General Counsel  
-823 United Nations Plaza  
-New York, NY 10017
+These parties are contractually prohibited from using personally identifiable information except for the purpose of providing these services. 
+
+**Tell-A-Friend**   
+If a user elects to use our electronic mail referral service to inform a friend about our site, we collect the friend's name and e-mail address. ADL will automatically send the friend the e-mail and an invitation them to visit the site. ADL stores this information for the sole purpose of sending this introductory e-mail. The friend may contact ADL at adl@adl.org to request the removal of this information from our database. 
+
+**Security**   
+Our Web site has security measures in place to protect against the loss, misuse and alteration of the information under our control. This includes a firewall and 24 hour monitoring of site activities by our hosting service provider as well as 128-bit SSL encryption (where allowable by law) on all transaction oriented operations between you and ADL via our transaction service provider. 
+
+While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk, a customer service representative, or database administrator) are granted access to personally identifiable information. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they are required to do to ensure our customers ' information is protected. Finally, the servers that we use to store personally identifiable information on are kept in a secure environment. 
+
+**Links to Other Sites**  
+Occasionally, ADL's Web site may include links to other Web sites. ADL is not responsible for the privacy practices or the content of such Web sites.
+
+**Correction/Updating Personal Information**  
+If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can usually be done at the member information page or by e-mailing us at [adl@adl.org](mailto:adl@adl.org)
+
+**Choice/Opt-Out**  
+Our Web site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. 
+
+The following options are available for removing information from our database to discontinue receiving future communications or our service. 
+
+  1. You can unsubscribe or change your e-mail preferences by following the link at the bottom of any e-mail you receive from ADL.  
+
+  2. You can send an e-mail to [adl@ad.org](mailto:adl@adl.org) and notify us of your desire to be removed from our e-mail list.
+
+
+
+**Contacting the Web Site**   
+If you have any questions about this privacy statement, the practices of our Web site or your dealings with the Web site contact [webmaster@adl.org](mailto:webmaster@adl.org)
+
+**Notification of Changes**   
+If we decide to change our privacy policy, we will post those changes here so our users are always aware of what information we collect, how we use it, and the circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an e-mail. 
+
+Last Updated April 2005
