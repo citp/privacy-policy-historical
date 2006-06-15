@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northstudio.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219163216id_/http%3A//www.northstudio.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northstudio.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615045345id_/http%3A//northstudio.com/privacy/index.html) for the most accurate reproduction.*
 
 # bc privacy act
 
@@ -14,7 +14,7 @@ by mail: 301 - 771 Vernon Ave., Victoria, BC V8X 5A7
 
 ## What Personal Information do we Collect? 
 
-When you purchase any product from us including but not limited to web development, internet marketing, hosting, search engine optimization, computer or business courses, any listings on any of our internet directories, graphic design, desktop publishing products including but not limited to brochures, rack cards, business cards, letterhear, posters, signs, or when you have us service, adminster, or repair your web site, or purchase other products or services from or through us, or if you participate in one of our surveys, contests, or promotions, or contact the studio staff, we may collect some or all of the following information: your name, address and telephone number, e-mail address, web site address and facsimile number, your occupation, and information about your computer skills (such as familiarity with certain computers and computer programs) 
+When you purchase any product from us including but not limited to web development, internet marketing, hosting, search engine optimization, computer or business courses, any listings on any of our internet directories, graphic design, desktop publishing products including but not limited to brochures, rack cards, business cards, letterhead, posters, signs, or when you have us service, administer, or repair your web site, or purchase other products or services from or through us, or if you participate in one of our surveys, contests, or promotions, or contact the studio staff, we may collect some or all of the following information: your name, address and telephone number, e-mail address, web site address and facsimile number, your occupation, and information about your computer skills (such as familiarity with certain computers and computer programs) 
 
 ## The Security of your Personal Information is Important to Us 
 
