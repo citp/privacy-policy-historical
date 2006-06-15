@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linuxlinks.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210123135id_/http%3A//www.linuxlinks.com/portal/news/staticpages/index.php%3Fpage%3D20050502092519355) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linuxlinks.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615041231id_/http%3A//linuxlinks.com/portal/news/staticpages/index.php%3Fpage%3D20050502092519355) for the most accurate reproduction.*
 
 # LinuxLinks News
 
