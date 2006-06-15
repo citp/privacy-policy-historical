@@ -1,15 +1,9 @@
-> *The following text is extracted and transformed from the liutilities.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207114126id_/http%3A//www.liutilities.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liutilities.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615034910id_/http%3A//www.liutilities.com/about/privacy) for the most accurate reproduction.*
 
 # Uniblue - Backup Made Easy
 
-Privacy Policy
+Privacy Policy  
 
-**This is the web site of Uniblue Systems Limited.**
-
-We can be reached through e-mail at [contact@uniblue.net](mailto:%20contact@uniblue.net)  
-
-
-* * *
 
 For each visitor to our web page, our web server automatically recognizes no information regarding the domain or e-mail address.
 
