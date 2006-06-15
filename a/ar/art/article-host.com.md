@@ -1,34 +1,66 @@
-> *The following text is extracted and transformed from the article-host.com privacy policy that was archived on 2005-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051126005825id_/http%3A//article-host.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the article-host.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615195115id_/http%3A//www.article-host.com/00privacy.php) for the most accurate reproduction.*
 
-# Article-Host.com
+# Privacy Policy for Article-Host.com
 
-Your Article Directory Privacy Policy
+**Article-Host.com  
+**
 
-It is our policy to respect the privacy of individuals who visit the Site or provide Comments to us. Our privacy policy (the "Privacy Policy"), is incorporated herein by reference. By accepting these Terms, you expressly consent to the use and disclosure of your personally identifiable and other information as described in the Privacy Policy. 
+##  **PRIVACY POLICY**
 
-We respect and are committed to protecting your privacy. This Privacy Policy lets you know how your personal information is processed and used at Article-Host. We take extraordinary steps to use your personal information only in ways that are compatible with this Privacy Policy.
+Welcome to Article-Host.com (the "Site").
 
+We understand that privacy online is important to users of our Site, especially when conducting business. 
+
+This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by Article-Host.com (collectively, "Services") ("Authorized Customers").
+
+**"Personally Identifiable Information"**   
+refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual.
+
+**What Personally Identifiable Information is collected?**  
+We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers, the nature and size of the business, and the nature and size of the advertising inventory that the Authorized Customer intends to purchase or sell.
+
+**What organizations are collecting the information?**  
+In addition to our direct collection of information, our third party service vendors (such as credit card companies, clearinghouses and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and Authorized Customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them.
+
+**How does the Site use Personally Identifiable Information?**  
+We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information. 
+
+ 
+
+**With whom may the information may be shared?**  
+Personally Identifiable Information about Authorized Customers may be shared with other Authorized Customers who wish to evaluate potential transactions with other Authorized Customers. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to "opt out" of receiving information or being contacted by us or by any agency acting on our behalf. 
+
+**How is Personally Identifiable Information stored?**  
+Personally Identifiable Information collected by Article-Host.com is securely stored and is not accessible to third parties or employees of Article-Host.com except for use as indicated above.
+
+**What choices are available to Visitors regarding collection, use and distribution of the information?**  
+Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at [editor@article-host.com](mailto:editor@article-host.com)
+
+**Are Cookies Used on the Site?**  
+Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.
+
+**How does Article-Host.com use login information?**  
+Article-Host.com uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information.
+
+**What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?**  
+Article-Host.com has entered into and will continue to enter into partnerships and other affiliations with a number of vendors. Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility. 
+
+Our privacy policy does not cover their collection or use of this information.   
+Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers. 
+
+**How does the Site keep Personally Identifiable Information secure?**  
+All of our employees are familiar with our security policy and practices. The Personally Identifiable Information of our Visitors and Authorized Customers is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. We audit our security systems and processes on a regular basis. Sensitive information, such as credit card numbers or social security numbers, is protected by encryption protocols, in place to protect information sent over the Internet. While we take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to Visitors or Authorized Customers for any such occurrences. 
+
+**How can Visitors correct any inaccuracies in Personally Identifiable Information?**  
+Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at [editor@article-host.com](mailto:editor@article-host.com)
+
+**Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?**  
+We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by contacting [editor@article-host.com](mailto:editor@article-host.com). However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward. 
+
+**What happens if the Privacy Policy Changes?**  
+We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure. 
+
+**Links:**  
+This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.   
   
-**Information Collection**  
-Article-Host is the sole owner of the information collected from our web site. We do not, or will not sell, share, or rent this information to others in ways different from what is disclosed in our privacy statement below.
-
-**Cookies**  
-A cookie is a piece of data stored on the visitor's hard drive containing information about the visitor. Advertisers connected to Article-Host at times require cookies to track statistics about products and locations, but at no time are these linked to any personal identification. Article-Host uses cookies or login convenience and for our in-house advertising statistics.
-
-**Log Files**  
-Article-Host keeps log files on broad fields to analyze trends, track page movements, and gather data for demographic locations. This is not attached in anyway to visitor's personal identification.
-
-**Sharing**  
-At this time, Article-Host does not share any information with advertisers, merchants, or any other third party.
-
-**Links**  
-Links to other sites outside of Article-Host do not apply to this privacy statement. We are not responsible for privacy policies of other web sites linked to Article-Host. Please read the privacy statement of each web site linked to Article-Host for information and data use for visitor's personal identification. Our privacy statement applies solely to Article-Host.
-
-**Newsletter**  
-Visitors are given the choice of subscribing to our Newsletter. You can either elect to subscribe or unsubscribe at any time. All information stored on our database is not shared or sold to any third party what so ever. Subscribers wishing to unsubscribe from our newsletter can uncheck the option on our [subscription page](http://www.article-host.com/ezinenotify.php), by using the Unsubscribe link in our newsletter or by sending notification by postal mail to our main office.
-
-**Sending to a Friend**  
-When a visitor chooses to send Articles to a friend, the names and e-mail addresses are not logged or stored in any way. Article-Host will send the friend a one-time e-mail inviting them to visit our site. Article-Host will never send another e-mail to the visitor or friend for any purpose.
-
-**Changes of our Policy**  
-We reserve the right to change our policy statement at any time and without notice. Visitors are advised to check our policies periodically.
+© 2006 **Article-Host.com** , All rights reserved.
