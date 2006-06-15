@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cheapair.com privacy policy that was archived on 2005-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051228091455id_/http%3A//www.cheapair.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cheapair.com privacy policy that was archived on 2006-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615220026id_/http%3A//www.cheapair.com/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -24,83 +24,82 @@
 <script language="JavaScript" src="/sc_mm.js"></script>
 <script language="JavaScript" src="/sc_tab3.js"></script>
 <script>
-var l=location.toString();l=l.toLowerCase();var d='cheapair.com';if(l.indexOf('http://'+d+'/')==0||l.indexOf('https://'+d+'/')==0||l.indexOf(d)<0){document.location.replace('http://www.'+d+'');}var l;
-			<!-- Begin
-				var isErrorShown;
-				if(GetCookie('err')!=''){isErrorShown=true;}
-				function hanleErrorShown(){
-					if(GetCookie('err')==''){
-						if ('privacy.asp' == 'mt_list.asp') {
-							document.location.href='wait.asp?src=mt_list.asp&actionId=PnrList';
-					} else
-						DeleteCookie('err');
-						setTimeout('hanleErrorShown();', verifySleep);
-					}
-				}
-				if (isErrorShown) setTimeout('hanleErrorShown()', verifySleep);
-			var boodschap = ' 1.800.CheapAir - www.CheapAir.com';function dgstatus(){window.status=boodschap;timerID=setTimeout("dgstatus();",100);}dgstatus();
-			
-		
-			function isLoggedOn() {return ((GetCookie('appId')!='')&&(GetCookie('ssID')!=''));}
+<!-- Begin
 
-			function userLogout() {if (confirm(amcaLogoutConfirm)) {top.location.href='http://cheapair.com/logout.asp'};}
+var isErrorShown;
+if(GetCookie('err')!=''){isErrorShown=true;}
+function hanleErrorShown(){
+	if(GetCookie('err')==''){
+		if ('privacy.asp' == 'mt_list.asp') {
+			document.location.href='wait.asp?src=mt_list.asp&actionId=PnrList';
+	} else
+		DeleteCookie('err');
+		setTimeout('hanleErrorShown();', verifySleep);
+	}
+}
+if (isErrorShown) setTimeout('hanleErrorShown()', verifySleep);
+var boodschap = ' 1.800.CheapAir - www.CheapAir.com';function dgstatus(){window.status=boodschap;timerID=setTimeout("dgstatus();",100);}dgstatus();
 
-			var logOffIndex = 0;
 
-			//========================================================================================
-			//  OPENS MODAL WINDOWS (DV)
-			//========================================================================================
-			function doLogon(force)
-			{
-				if (!force){
+function isLoggedOn() {return ((GetCookie('appId')!='')&&(GetCookie('ssID')!=''));}
 
-				}
-				document.location.href='https://www.cheapair.com/login.asp?url=privacy.asp';
-			}
-			
-			function registerNewUser(force)
-			{
-				if (!force){
+function userLogout() {if (confirm(amcaLogoutConfirm)) {top.location.href='http://www.cheapair.com/logout.asp'};}
 
-				}
-				document.location.href='https://www.cheapair.com/register.asp?url=privacy.asp';
-			}
-			
-			function modalResultLogon(modalWindow, modalResult){
-				if(!modalWindow)return;
-				if (!modalResult)
-					document.location.reload();
-				if ((modalResult == mrOk)
-				&& ((modalWindow == mwUserLogon)
-					|| (modalWindow == mwUserRegister))
-					) {
-					document.location.reload();
-					}	else
-				if ((modalResult == mrNone) 
-				&& (modalWindow == mwUserLogon))
-					registerNewUser();	
+var logOffIndex = 0;
 
-				if ((logOffIndex == 2) || (logOffIndex == 3))
-				{
-					location.reload();
-					logOffIndex = 0;
-				}
-			}
-			
-			function openAdvert()
-			{
+//========================================================================================
+//  OPENS MODAL WINDOWS (DV)
+//========================================================================================
+function doLogon(force)
+{
+	if (!force){
 
-			}		
+	}
+	document.location.href='https://www.cheapair.com/login.asp?url=privacy.asp';
+}
 
-			if (GetCookie('pgWaiting')=='#')DeleteCookie('pgWaiting');
-				
-				
-			MM_preloadImages('/images/bg_top.gif','/images/btn_off_01.gif','/images/btn_off_02.gif','/images/btn_off_03.gif','/images/btn_off_04.gif','/images/btn_off_05.gif');
-			MM_preloadImages('/images/bt_off_01.gif','/images/bt_off_02.gif','/images/bt_off_03.gif','/images/bt_off_04.gif');
-			
-			MM_preloadImages('/images/btn_on_01.gif','/images/btn_on_02.gif','/images/btn_on_03.gif','/images/btn_on_05.gif','/images/btn_on_04.gif','/images/bt_on_01.gif','/images/bt_on_02.gif','/images/bt_on_03.gif','/images/bt_on_04.gif','/images/top_bt_on_01.gif','/images/top_bt_on_02.gif','/images/top_bt_on_03.gif','/images/top_bt_on_04.gif','/images/logo_over.gif');openAdvert();
-			// End  -->
+function registerNewUser(force)
+{
+	if (!force){
 
+	}
+	document.location.href='https://www.cheapair.com/register.asp?url=privacy.asp';
+}
+
+function modalResultLogon(modalWindow, modalResult){
+	if(!modalWindow)return;
+	if (!modalResult)
+		document.location.reload();
+	if ((modalResult == mrOk)
+	&& ((modalWindow == mwUserLogon)
+		|| (modalWindow == mwUserRegister))
+		) {
+		document.location.reload();
+		}	else
+	if ((modalResult == mrNone) 
+	&& (modalWindow == mwUserLogon))
+		registerNewUser();	
+
+	if ((logOffIndex == 2) || (logOffIndex == 3))
+	{
+		location.reload();
+		logOffIndex = 0;
+	}
+}
+
+function openAdvert()
+{
+
+}
+
+if (GetCookie('pgWaiting')=='#')DeleteCookie('pgWaiting');
+	
+	
+MM_preloadImages('/images/bg_top.gif','/images/btn_off_01.gif','/images/btn_off_02.gif','/images/btn_off_03.gif','/images/btn_off_04.gif','/images/btn_off_05.gif');
+MM_preloadImages('/images/bt_off_01.gif','/images/bt_off_02.gif','/images/bt_off_03.gif','/images/bt_off_04.gif');
+
+MM_preloadImages('/images/btn_on_01.gif','/images/btn_on_02.gif','/images/btn_on_03.gif','/images/btn_on_05.gif','/images/btn_on_04.gif','/images/bt_on_01.gif','/images/bt_on_02.gif','/images/bt_on_03.gif','/images/bt_on_04.gif','/images/top_bt_on_01.gif','/images/top_bt_on_02.gif','/images/top_bt_on_03.gif','/images/top_bt_on_04.gif','/images/logo_over.gif');openAdvert();
+// End  -->
 </script>
 
 <style>
@@ -113,8 +112,7 @@ var l=location.toString();l=l.toLowerCase();var d='cheapair.com';if(l.indexOf('h
     <td colspan="5">
 			<table border="0" cellpadding="0" cellspacing="0" width="100%">
 			<tbody><tr>
-				<td rowspan="2" valign="bottom" width="50%">
-	<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="235" height="70">
+				<td rowspan="2" valign="bottom" width="50%"><object id="fla_logo" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="235" height="70">
 		<param name="movie" value="images/logo4.swf">
 		<param name="loop" value="false">
 		<param name="quality" value="high">
@@ -124,7 +122,7 @@ var l=location.toString();l=l.toLowerCase();var d='cheapair.com';if(l.indexOf('h
 						<table border="0" cellpadding="0" cellspacing="0" width="100%">
 						<tbody><tr>
 							<td width="9" nowrap=""><img src="/images/corner1.gif" width="9" height="23"></td>
-		          <td bgcolor="#003399" width="100%"><img src="/images/spacer.gif" width="10" height="8"><a href="http://cheapair.com/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Bt1','','/images/bt_on_01.gif',1)"><img name="Bt1" border="0" src="/images/bt_off_01.gif" width="36" height="7" alt="Home"></a><a href="javascript: ;" onclick="return msgRedirectUrl('https://www.cheapair.com/wait.asp?src=mt_list.asp&amp;actionId=PnrList', amceNotLoggedInTrip);" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Bt2','','/images/bt_on_02.gif',1)"><img name="Bt2" border="0" src="/images/bt_off_02.gif" width="56" height="7" alt="My Trips"></a><a href="javascript: ;" onclick="return msgRedirectUrl('https://www.cheapair.com/profile.asp', amceNotLoggedInProfile);" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Bt3','','/images/bt_on_03.gif',1)"><img name="Bt3" border="0" src="/images/bt_off_03.gif" width="67" height="7" alt="My Profile"></a><a href="http://cheapair.com/Cheap-Air-News.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Bt4','','/images/bt_on_04.gif',1)"><img name="Bt4" border="0" src="/images/bt_off_04.gif" width="66" height="7" alt="Travel Info"></a></td>
+		          <td bgcolor="#003399" width="100%"><img src="/images/spacer.gif" width="10" height="8"><a href="http://www.cheapair.com/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Bt1','','/images/bt_on_01.gif',1)"><img name="Bt1" border="0" src="/images/bt_off_01.gif" width="36" height="7" alt="Home"></a><a href="https://www.cheapair.com/wait.asp?src=mt_list.asp&amp;actionId=PnrList" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Bt2','','/images/bt_on_02.gif',1)"><img name="Bt2" border="0" src="/images/bt_off_02.gif" width="56" height="7" alt="My Trips"></a><a href="https://www.cheapair.com/profile.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Bt3','','/images/bt_on_03.gif',1)"><img name="Bt3" border="0" src="/images/bt_off_03.gif" width="67" height="7" alt="My Profile"></a><a href="http://www.cheapair.com/Cheap-Air-News.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Bt4','','/images/bt_on_04.gif',1)"><img name="Bt4" border="0" src="/images/bt_off_04.gif" width="66" height="7" alt="Travel Info"></a></td>
 						</tr>
 						<tr>
 							  <td colspan="2" height="18" bgcolor="#3366CC"><img src="/images/spacer.gif" width="1" height="18"></td>
@@ -135,7 +133,7 @@ var l=location.toString();l=l.toLowerCase();var d='cheapair.com';if(l.indexOf('h
 	<table border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
 		<td valign="middle">
-          <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="224" height="29">
+          <object id="fla_supp" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="224" height="29">
                     <param name="movie" value="/images/customer_support4.swf">
                     <param name="quality" value="high">
                     <param name="bgcolor" value="#FFFFFF">
@@ -146,17 +144,17 @@ var l=location.toString();l=l.toLowerCase();var d='cheapair.com';if(l.indexOf('h
 	if (isLoggedOn())
 		document.write("<td width=\"60\"><a href=\"javascript:userLogout();\" onmouseout=\"MM_swapImgRestore()\" onmouseover=\"MM_swapImage('Top0','','/images/top_bt_on_00.gif',1)\"><img name=\"Top0\" border=\"0\" src=\"images/top_bt_off_00.gif\" width=\"60\" height=\"11\" vspace=\"6\" alt=\"Log-Out\"></a></td>");
 	else
-		document.write("<td width=\"50\"><a href=\"/login.asp?url=/privacy.asp\" onmouseout=\"MM_swapImgRestore()\" onmouseover=\"MM_swapImage('Top1','','/images/top_bt_on_01.gif',1)\"><img name=\"Top1\" border=\"0\" src=\"images/top_bt_off_01.gif\" width=\"50\" height=\"11\" vspace=\"6\" alt=\"Log-In\"></a></td>"
+		document.write("<td width=\"50\"><a href=\"https://www.cheapair.com/login.asp?url=/privacy.asp\" onmouseout=\"MM_swapImgRestore()\" onmouseover=\"MM_swapImage('Top1','','/images/top_bt_on_01.gif',1)\"><img name=\"Top1\" border=\"0\" src=\"images/top_bt_off_01.gif\" width=\"50\" height=\"11\" vspace=\"6\" alt=\"Log-In\"></a></td>"
 								 + "<td width=\"68\"><a href=\"javascript:registerNewUser();\" onmouseout=\"MM_swapImgRestore()\" onmouseover=\"MM_swapImage('Top2','','/images/top_bt_on_02.gif',1)\"><img name=\"Top2\" border=\"0\" src=\"images/top_bt_off_02.gif\" width=\"68\" height=\"11\" vspace=\"6\" alt=\"Register\"></a></td>");
 </script>
-					<td width="65"><a href="http://cheapair.com/sitemap.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Top3','','/images/top_bt_on_03.gif',1)"><img name="Top3" border="0" src="/images/top_bt_off_03.gif" width="65" height="11" vspace="6" alt="Site Map"></a></td>
-					<td width="40"><a href="http://cheapair.com/help.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Top4','','/images/top_bt_on_04.gif',1)"><img name="Top4" border="0" src="/images/top_bt_off_04.gif" width="40" height="11" vspace="6" alt="Help"></a></td>
+					<td width="65"><a href="http://www.cheapair.com/sitemap.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Top3','','/images/top_bt_on_03.gif',1)"><img name="Top3" border="0" src="/images/top_bt_off_03.gif" width="65" height="11" vspace="6" alt="Site Map"></a></td>
+					<td width="40"><a href="http://www.cheapair.com/help.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Top4','','/images/top_bt_on_04.gif',1)"><img name="Top4" border="0" src="/images/top_bt_off_04.gif" width="40" height="11" vspace="6" alt="Help"></a></td>
 				</tr>
 				</tbody></table>
 				</td>
 			</tr>
 				<tr>
-          <td align="right" valign="bottom" nowrap=""><img src="/images/bg_top.gif" width="74" height="66"><a href="http://cheapair.com/cheap-air-flight-search.asp" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('Btn1','','/images/btn_on_01.gif',1);"><img name="Btn1" border="0" src="/images/btn_off_01.gif" width="77" height="66" alt="Book a Flight"></a><a href="http://cheapair.com/cheap-air-hotels.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Btn2','','/images/btn_on_02.gif',1)"><img name="Btn2" border="0" src="/images/btn_off_02.gif" width="94" height="66" alt="Reserve a Hotel"></a><a href="http://cheapair.com/cheap-air-cars.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Btn3','','/images/btn_on_03.gif',1)"><img name="Btn3" border="0" src="/images/btn_off_03.gif" width="80" height="66" alt="Rent a Car"></a><a href="http://cheapair.com/cheap-air-cruises.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Btn4','','/images/btn_on_04.gif',1)"><img name="Btn4" border="0" src="/images/btn_off_04.gif" width="87" height="66" alt="Take a Cruise"></a><a href="javascript: ;" onclick="alert('Our on-line booking engine for vacation packages is currently under construction.  In the meantime,\n please separately price air, hotel, and car components.  We apologize for the inconvenience.'); return false;" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Btn5','','/images/btn_on_05.gif',1)"><img name="Btn5" border="0" src="/images/btn_off_05.gif" width="77" height="66" alt="Packages"></a><img src="/images/corner3.gif" width="13" height="66"></td>
+          <td align="right" valign="bottom" nowrap=""><img src="/images/bg_top.gif" width="74" height="66"><a href="http://www.cheapair.com/cheap-air-flight-search.asp" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('Btn1','','/images/btn_on_01.gif',1);"><img name="Btn1" border="0" src="/images/btn_off_01.gif" width="77" height="66" alt="Book a Flight"></a><a href="http://www.cheapair.com/cheap-air-hotels" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Btn2','','/images/btn_on_02.gif',1)"><img name="Btn2" border="0" src="/images/btn_off_02.gif" width="94" height="66" alt="Reserve a Hotel"></a><a href="http://www.cheapair.com/car/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Btn3','','/images/btn_on_03.gif',1)"><img name="Btn3" border="0" src="/images/btn_off_03.gif" width="80" height="66" alt="Rent a Car"></a><a href="/cheap-air-cruises" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Btn4','','/images/btn_on_04.gif',1)"><img name="Btn4" border="0" src="/images/btn_off_04.gif" width="87" height="66" alt="Take a Cruise"></a><a href="/cheap-air-vacation-packages" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Btn5','','/images/btn_on_05.gif',1)"><img name="Btn5" border="0" src="/images/btn_off_05.gif" width="77" height="66" alt="Packages"></a><img src="/images/corner3.gif" width="13" height="66"></td>
 				</tr>
       </tbody></table>
 		</td>
@@ -171,7 +169,7 @@ var l=location.toString();l=l.toLowerCase();var d='cheapair.com';if(l.indexOf('h
             <br>
 <table align="center" border="0" cellpadding="0" cellspacing="0">
 <tbody><tr>
-	<td align="center"><a href="http://cheapair.com/adverts.asp?actionId=go&amp;adId=22" target="_blank"><img name="Ad1" border="0" src="adverts.asp?actionId=resource&amp;adId=22" width="150" hspace="10" vspace="0" alt=""></a></td>
+	<td align="center"><a href="http://www.cheapair.com/adverts.asp?actionId=go&amp;adId=18" target="_blank"><img name="Ad1" border="0" src="adverts.asp?actionId=resource&amp;adId=18" height="60" width="120" hspace="10" vspace="0" alt="Travel Insurance"></a></td>
 </tr>
 
 </tbody></table>
@@ -183,7 +181,6 @@ var l=location.toString();l=l.toLowerCase();var d='cheapair.com';if(l.indexOf('h
       </tbody></table>
 
 		</td><td height="11" width="12" valign="top"><img src="/images/crnBl1.gif" width="12" height="11"></td>
-
 		<td rowspan="3" valign="top" width="543">
 			<table border="0" cellpadding="0" cellspacing="0" height="100%" width="543">
 			<tbody><tr>
@@ -291,31 +288,29 @@ apprised of our current privacy practices.</p>
 	</tr>
 	<tr>
 		<td height="11" width="12" valign="bottom"><img src="/images/crnBl2.gif" width="12" height="11"></td>
-		<td height="11" width="12" valign="bottom"><img src="/images/crnBl4.gif" width="12" height="11"></td>
-		<td height="11" width="8" bgcolor="#3366CC"><img src="/images/spacer.gif" width="8" height="11"></td>
+		<td height="11" width="12" valign="bottom"><img src="/images/crnBl4.gif" width="12" height="11"></td>		<td height="11" width="8" bgcolor="#3366CC"><img src="/images/spacer.gif" width="8" height="11"></td>
 	</tr>
-
 	<tr>
 		<td bgcolor="#3366CC" colspan="4"><img src="/images/corner2.gif" width="9" height="8"></td>
 		<td bgcolor="#3366CC" align="right"><img src="/images/corner4.gif" width="9" height="8"></td>
 	</tr>
   <tr>
     <td colspan="5" align="center"><br>
-					<a href="/about-cheap-air.asp">About Us</a> | <a href="/Contact-Cheap-Air.asp">Contact Us</a> | <a href="javascript: ;" onclick="return msgRedirectUrl('https://www.cheapair.com/wait.asp?src=mt_list.asp&amp;actionId=PnrList', amceNotLoggedInTrip);">My Trips</a>
-					| <a href="javascript: ;" onclick="return msgRedirectUrl('https://www.cheapair.com/profile.asp', amceNotLoggedInProfile);">My Profile</a> | <a href="gift-certificate.asp">Gift Certificates</a> | <a href="http://cheapair.com/Cheap-Air-Fare-Search.htm">Fare Search</a>
+					<a href="/about-cheap-air.asp">About Us</a> | <a href="/Contact-Cheap-Air.asp">Contact Us</a> | <a href="https://www.cheapair.com/wait.asp?src=mt_list.asp&amp;actionId=PnrList">My Trips</a>
+					| <a href="https://www.cheapair.com/profile.asp">My Profile</a> | <a href="gift-certificate.asp">Gift Certificates</a> | <a href="http://www.cheapair.com/Cheap-Air-Fare-Search.htm">Fare Search</a>
 					| <a href="Cheap-Air-Testimonials.asp">Cheap Air Testimonials</a>
 					<br>
-      <a href="http://cheapair.com/Cheap-Air-Corporate-Travel.asp">Corporate Travel</a> | <a href="http://cheapair.com/Cheap-Air-News.asp"></a><a href="http://cheapair.com/agreement.asp">User 
-      Agreement</a> | <a href="http://cheapair.com/Cheap-Air-News.asp">News 
-      &amp; Info</a> | <a href="http://cheapair.com/sitemap.html">Site 
-      Map</a> | <a href="http://cheapair.com/help.htm">Help</a> 
-      | <a href="http://cheapair.com/privacy.asp">Privacy 
+      <a href="http://www.cheapair.com/Cheap-Air-Corporate-Travel.asp">Corporate Travel</a> | <a href="http://www.cheapair.com/Cheap-Air-News.asp"></a><a href="http://www.cheapair.com/agreement.asp">User 
+      Agreement</a> | <a href="http://www.cheapair.com/Cheap-Air-News.asp">News 
+      &amp; Info</a> | <a href="http://www.cheapair.com/sitemap.html">Site 
+      Map</a> | <a href="http://www.cheapair.com/help.htm">Help</a> 
+      | <a href="http://www.cheapair.com/privacy.asp">Privacy 
       &amp; Security</a> <br>
       <br>
       <br>
       <span class="small" style="color:#000000;">Copyright © 2002-2003, Cheap 
       Air, Inc. All rights reserved. CST 1015001-10.</span>
-</td></tr></tbody></table>
+		</td></tr></tbody></table>
 		<iframe name="HiddenFrame" id="HiddenFrame" src="/action.htm" width="0" height="0" style="VISIBILITY:hidden;OVERFLOW:hidden;POSITION:absolute"><!--  -->
 			<layer name="HiddenFrame" src="/action.htm" width="0" height="0"></layer>
 		</iframe>			
