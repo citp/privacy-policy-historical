@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idt.net privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230085531id_/http%3A//www.idt.net/site/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idt.net privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615025100id_/http%3A//www.idt.net/site/privacy.aspx) for the most accurate reproduction.*
 
 # IDT Corporation - Privacy Policy
 
@@ -9,7 +9,7 @@ IDT's Privacy Policy - Generally
 
 IDT is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This IDT Privacy Policy applies to IDT's family of Web sites and governs data collection and usage at all IDT sites and services. Please read the complete IDT Privacy Policy below.
 
-The purpose of the IDT Web sites' privacy policy is to inform you, as a welcome visitor to our Web sites, about the kinds of information we may gather about you when you visit our Web sites, how we may use that information, whether we disclose it to anyone, and your ability to correct, the information. Finally, please note that this policy applies only to IDT Web sites and Web sites that carry the IDT Web sites' brand, and not to other companies' or organizations' Web sites to which we link. We have clearly marked IDT Web sites and these branded Web sites with our logo so you know where this policy applies. 
+The purpose of the IDT Web sites' privacy policy is to inform you, as a welcome visitor to our Web sites, about the kinds of information we may gather about you when you visit our Web sites, how we may use that information, whether we disclose it to anyone, and your ability to correct the information. Finally, please note that this policy applies only to IDT Web sites and Web sites that carry the IDT Web sites' brand, and not to other companies' or organizations' Web sites to which we link. We have clearly marked IDT Web sites and these branded Web sites with our logo so you know where this policy applies. 
 
 Information About All IDT Web sites' Visitors
 
@@ -31,7 +31,7 @@ The majority of the advertisements you see on IDT Web sites are displayed by IDT
 
 Information About You 
 
-Sometimes, we may specifically ask for information about you when you sign up to use a service or when you order a product. IDT does not sell, rent or lease its customer lists to third parties. We do, however, need certain information -- such as name, age, Internet address or screen name, billing address, type of computer, credit card number -- in order to provide that service or product to you. We may also use that information to let you know of additional products and services about which you might be interested. You can choose not to receive such information if you don't want to by letting us know on the registration screen when you sign up for the product or service. We may ask you for information about your interests so that both you and we can take advantage of the interactivity of the online medium, but you may always choose to respond or not. Additionally, we may provide you with an opportunity to be listed in a directory on one of our IDT- branded services \-- these listings are also optional and you can make changes to or eliminate this information when you want to. 
+Sometimes, we may specifically ask for information about you when you sign up to use a service or when you order a product. IDT does not sell, rent or lease its customer lists to third parties. We do, however, need certain information -- such as name, age, Internet address or screen name, billing address, type of computer, credit card number -- in order to provide that service or product to you. We may also use that information to let you know of additional products and services about which you might be interested. You can choose not to receive such information if you don't want to by letting us know on the registration screen when you sign up for the product or service. We may ask you for information about your interests so that both you and we can take advantage of the interactivity of the online medium, but you may always choose to respond or not. Additionally, we may provide you with an opportunity to be listed in a directory on one of our IDT- branded services -- these listings are also optional and you can make changes to or eliminate this information when you want to. 
 
 IDT does not associate sensitive data, such as your race, religion, or political affiliations, with personally identifiable information. IDT takes precautions to segregate any sensitive data you may provide on IDT sites and services that reference your race, religion, sexual orientation, ethnicity or political affiliations. 
 
@@ -124,8 +124,8 @@ IDT Corporation, Inc., its subsidiaries, and affiliate companies respect the int
 
 \- the electronic or physical signature of the owner of the copyright or the person authorized to act on the owner's behalf.   
 \- a description of the copyrighted work that you claim has been infringed and a description of the infringing activity.   
-\- Identification of the location where the original or an authorized copy of the copyrighted work exists, for example the URL of the Web Site where it is posted or the name of the book in which it has been published.   
-\- Identification of the URL or other specific location on the IDT Web Sites where the material that you claim is infringing is located; you must include enough information to allow us to locate the material.   
+\- identification of the location where the original or an authorized copy of the copyrighted work exists, for example the URL of the Web Site where it is posted or the name of the book in which it has been published.   
+\- identification of the URL or other specific location on the IDT Web Sites where the material that you claim is infringing is located; you must include enough information to allow us to locate the material.   
 \- your name, address, telephone number, and email address.   
 \- a statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law.   
 \- a statement by you, made under penalty of perjury, that the above information in your Notice is accurate and that you are the copyright owner or are authorized to act on the copyright owner's behalf.   
@@ -146,7 +146,7 @@ By phone:
 
 Copyright Notice
 
-This contact information is only for reporting copyright infringement. Contact information for other matters is provided elsewhere on the IDT Web Sites. 
+This contact information is only for reporting copyright infringement. Contact information for other matters is provided elsewhere on the IDT Web Sites.
 
 |  |   
 ---
