@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the mp3lyrics.org privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217065641id_/http%3A//www.mp3lyrics.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3lyrics.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615024350id_/http%3A//www.mp3lyrics.org/privacy.html) for the most accurate reproduction.*
 
-# Mp3 Lyrics.org : Privacy Policy
+# Mp3 Lyrics Organized : Privacy Policy
 
 Mp3lyrics.org takes your privacy seriously. This policy covers how Mp3lyrics.org treats personal information that is collected and received. Please read the following to learn more about this privacy policy. 
 
 ### Personally identifying information
 
-"Personally identifying information" is information that individually identifies you, such as your name, physical address or email address. You are never required to submit any such information. In the [Guest Book](https://web.archive.org/gb1.php3) you may supply and leave your email address visible to others. Also the country of which your ip address as we see it will be visible to others if you decide to sign our guestbook. This information is stored and displayed to prevent illegal activity and missuse of the guest book. In addition _you may choose_ to supply your email address when [submitting or correcting lyrics](https://web.archive.org/submit.html), or when you want to [contact](https://web.archive.org/contact.html) mp3lyrics.org. However, this information is only stored for the sole purpose of enabling us to reply your requests. 
+"Personally identifying information" is information that individually identifies you, such as your name, physical address or email address. You are never required to submit any such information. In the [Guest Book](https://web.archive.org/gb1.php3) you may supply and leave your email address visible to others. Also the country of which your ip address as we see it will be visible to others if you decide to sign our guestbook. In addition _you may choose_ to supply your email address when [submitting or correcting lyrics](https://web.archive.org/submit.html), or when you want to [contact](https://web.archive.org/contact.html) mp3lyrics.org. However, this information is only stored for the sole purpose of enabling us to reply your requests. 
 
 ### Data collection
 
 Mp3lyrics.org collects limited non-personally identifying information your browser makes available whenever you visit a website. This log information includes your Internet Protocol address, browser type, browser language, the date and time of your query and one or more cookies that may uniquely identify your browser. Mp3Lyrics.org _may_ use this information to operate, develop and improve its searching services. Such information is mainly used in aggregated form. An example of this is the number of users who searched for a specific term, to record what artists / songs / lyrics are most wanted. 
 
-In addition to your browser information, mp3lyrics.org log your IP address or host name. Such information is used principally to track your locatin in the effort of displaying relevant advertisement, and in the effort of figuring out what crawlers are visiting this site. Your IP address or host name is only stored for a limited time, depending on your HTTP / IP behaviour, before it is deleted. 
+In addition to your browser information, mp3lyrics.org log your IP address or host name. Such information is used principally to track your location in the effort of displaying relevant advertisement, and in the effort of figuring out what crawlers are visiting this site. Your IP address or host name is only stored for a limited time, depending on your HTTP / IP behaviour, before it is deleted. 
 
 ### Cookies
 
@@ -20,11 +20,11 @@ Upon your first visit to Mp3lyrics.org a cookie may be sent to your computer tha
 
 ### JavaScript
 
-This site use JavaScript to, among other things, chiefly display good looking pages, track visitor information and behaviour, set cookies on your browser and display advertisement. To learn what javascript is visit [Mozilla's web page definition of JavaScript](http://www.mozilla.org/js/). 
+This site use JavaScript to, among other things, chiefly display good looking pages, track visitor information and behaviour, set cookies on your browser and display advertisement. To learn what JavaScript is visit [Mozilla's web page definition of JavaScript](http://www.mozilla.org/js/). 
 
 ### Information Sharing
 
-Mp3Lyrics.org do not rent or sell any information that is collected of the surfers visiting this web site. 
+Mp3Lyrics.org does not rent or sell any information that is collected of the surfers visiting this web site. 
 
 ### Information Security
 
