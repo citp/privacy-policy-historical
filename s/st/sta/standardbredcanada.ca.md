@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the standardbredcanada.ca privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228162104id_/http%3A//www.standardbredcanada.ca/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standardbredcanada.ca privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615064909id_/http%3A//www.standardbredcanada.ca/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -60,8 +60,8 @@ It is, however, the policy of Standardbred Canada to preserve the confidentialit
 Standardbred Canada often receives inquiries from members, and other interested parties, including commercial interests who wish to provide goods and services, for contact information about its members, including telephone numbers or addresses. When responding to such inquiries is not directly related to Standardbred Canada’s mandate, members are entitled to control the release of information and specific consent is required.  
 
 
-**[Click here](https://web.archive.org/web/20051228162104id_/http%3A//index.html) to return to the Standardbred Canada home page.**
+**[Click here](https://web.archive.org/web/20060615064909id_/http%3A//index.html) to return to the Standardbred Canada home page.**
 
   
   
-[](http://www.standardbredcanada.ca/cgi-bin/redirect.cgi/37309) |  | 
+[](http://www.standardbredcanada.ca/cgi-bin/redirect.cgi/2185) |  | 
