@@ -1,549 +1,131 @@
-<!--The following is the downloaded HTML source of the directline.com privacy policy that was archived on 2005-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051217083813id_/http%3A//info.directline.com/xxx/compinfo.nsf/Articles/Security%2B%26%2BPrivacy%3Fopendocument%26category%3DSecurity%2B%26%2BPrivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the directline.com privacy policy that was archived on 2006-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615061206id_/http%3A//www.directline.com/legal/security.htm) for the most accurate reproduction.-->
 
-<html><head>
-<link href="/xxx/compinfo.nsf/staticpages2.css" rel="stylesheet" type="text/css">
-<script language="javascript1.2" src="/xxx/compinfo.nsf/cookieClass.js" type="text/javascript"></script>
-<script language="JavaScript" src="/xxx/compinfo.nsf/footer.js" type="text/javascript"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 
-<script language="JavaScript">
-<!-- 
-document._domino_target = "_self";
-function _doClick(v, o, t) {
-  var url="/xxx/compinfo.nsf/Articles/_tadim6tbid5q7i81641874qbmc5hni_?OpenDocument&category=Security%20&%20Privacy&Click=" + v;
-  if (o.href != null)
-    o.href = url;
-  else {
-    if (t == null)
-      t = document._domino_target;
-    window.open(url, t);
-  }
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta content="text/html; charset=iso-8859-1">
+<title>Direct Line - About us</title>
 
-}
-// -->
-</script>
-</head>
-<body text="000000" bgcolor="FFFFFF" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0" onload="event_onLoad()">
 
-<form><!-- Begin CDATA Tag -->
-<script>//begin toplevel navigation rollover script
-//running
-var navName;
-var locationBar = document.location.href;
-var pageName = '';
-var pageModule  = '';
-if(locationBar.indexOf("/")!= -1)
+    
+            <meta name="keywords" content="About us, security and privacy">
+            
+        
+
+
+<link href="/generic/Stylesheets/staticpages.css" rel="stylesheet" type="text/css">
+
+<script language="javascript1.2" src="/generic/js/cookieClass.js" type="text/javascript"></script>
+<script language="JavaScript" src="/generic/js/footer.js" type="text/javascript"></script>
+<script language="JavaScript" src="/generic/js/navbar_sp.js" type="text/javascript"></script>
+<script language="JavaScript" src="/generic/js/stats.js" type="text/javascript"></script>
+<script language="JavaScript" src="/mortgages/direct_one/js/dl1.js" type="text/javascript"></script>
+<script language="JavaScript" src="/generic/js/MMO_appl.js" type="text/javascript"></script>
+<script language="JavaScript" src="/generic/js/common.js" type="text/javascript"></script>
+<script language="javascript1.2" type="text/javascript">
+
+
+// Fix for Norton Firewall programs
+
+function firewallFix( inRCP, linkId )
 {
-    //if((locationBar.indexOf("?"))== -1)
-    //{
-    pageName = locationBar.substring(locationBar.lastIndexOf("/")+1,locationBar.length);
-    //}
-    //else
-    //{
-    //    pageName = locationBar.substring(locationBar.lastIndexOf("/")+1,locationBar.indexOf("?"));
-    //}
-}
-splittedLocationBar = locationBar.split("/");
-for(i=0; i<splittedLocationBar.length; ++i)
-{
-if(pageName == splittedLocationBar[i])
-    {
-       pageModule = splittedLocationBar[i-1];
-    }
-}
-//this bit's for direct one at it sits within the mortgages directory
-if(pageModule=="direct_one")
-    {
-    if(top.location.href.indexOf("direct_one") >= 0)
-        pageModule="mortgages/direct_one";
-    }
-IE4 = (document.all) ? 1 : 0;
-NS4 = (document.layers) ? 1 : 0;
-var domObj;
-var oDoc = (document.all) ? 'all.' : '';
-var oStyle = (document.all) ? '.style' : '';
-var clTop;
-var clBot;
-var clLeft;
-var clRight;
-// =============================================
-function navOver(which,on,coords1,coords2,coords3,coords4,tempName)
-{
-    if(tempName == navName)
-        return;
-    if(IE4)
-        whichNav = document.all.navon.style;
-    else
-        whichNav = document.navon;
-    if(!on)
-    {
-        whichNav.visibility = "hidden";
-        return;
-    }
-    clLeft    = coords1;
-    clRight = coords2;
-    clTop    = coords3;
-    clBot    = coords4;
-    if (NS4)
-    {
-        whichNav.clip.left    = coords1;
-        whichNav.clip.right    = coords2;
-        whichNav.clip.top    = coords3;
-        whichNav.clip.bottom    = coords4;
+    var DLIWindow;
+    var spotlighttag = new String();
+    var tempURL      = new String();
+    var x            = screen.width;
+    var y            = screen.height;
+    var axel         = Math.random() + "";
+    var ord          = axel * 1000000000000000000;
+    var loc = new String(window.location);
+    if ( loc.indexOf("WORKAREA") ){
+        pos = loc.indexOf("WORKAREA");
+        tempURL = loc.substring(0, loc.indexOf("/", pos + 9)) + "/tracking/redirect/get_a_quote_button.htm?";    
+        tempURL2 = loc.substring(0, loc.indexOf("/", pos + 9)) + "/tracking/redirect/get_a_quote_button.htm?";    
     }
     else
     {
-        whichNav.clip = "rect(" + clTop + " " + clRight + " " + clBot + " " + clLeft + ")";
-    }
-    whichNav.visibility = "visible"
-}
-//this function is to control pop-ups and was added initially to cater with popups
-//for direct one (subsect of mortgages)
-function launchWin(theURL,inWinName)
-{
-var tOption="no";
-var tStatus="no";
-var tScroll="no";
-var tResize="no";
-var tXpos=20;
-var tYpos=20;
-var tScrW=700;
-var tScrH=500;
-switch(inWinName){
-case "wintool":
-tYpos=20;tXpos=20;tScrW=700;tScrH=500;
-tOption="yes";tScroll="yes";tResize="yes";tStatus="yes";
-break;
-case "app":
-tYpos=20;tXpos=20;tScrW=760;tScrH=580;
-tOption="no";tScroll="no";tResize="yes";tStatus="no";
-break;
-case "help":
-tYpos=20;tXpos=20;tScrW=700;tScrH=500;
-tOption="no";tScroll="no";tResize="no";tStatus="yes";
-break;
-default:
-break;
-}
-var winOpts='width='+tScrW+',height='+tScrH+',resizable='+tResize+',toolbar='+tOption+',menubar='+tOption+',status='+tStatus+',scrollbars='+tScroll+',top='+tYpos+',left='+tXpos;
-var newWin=window.open(theURL,inWinName,winOpts);
-}
-function topNavObj(inParms)
-{
-    //main nav Level
-    this.mainNavXTop    = inParms[0];
-    this.mainNavYTop    = inParms[1];
-    this.mainNavXBot    = inParms[2];
-    this.mainNavYBot    = inParms[3];
-    this.hrefDef        = inParms[4];
-}
-function subNavObj(inParms)
-{
-    //sub nav Level
-    this.mainNavXTop    = inParms[0];
-    this.mainNavYTop    = inParms[1];
-    this.mainNavXBot    = inParms[2];
-    this.mainNavYBot    = inParms[3];
-    this.hrefDef        = inParms[4];
-    this.targetDef        = inParms[5];
-}
-//=======================================================
-//running
- var onTheRoadData = new Array(2,71,64,90,"http://uk.directline.com/on_the_road/index.htm");
- var atHomeData    = new Array(69,71,121,90,"http://uk.directline.com/at_home/index.htm");
- var travelling = new Array(126,71,181,90,"http://uk.directline.com/travelling/index.htm");
- var moneyMatters  = new Array(188,71,272,90,"http://uk.directline.com/money_matters/index.htm");
- var myDirectline  = new Array(396,68,458,95,"myDL");
-//top Level navigation elements.
-var navigationDef = new Array();
-var topLevelNav = new Array(onTheRoadData,atHomeData,travelling,moneyMatters,myDirectline);
-var whichNavObj = new Array("ontheroad","athome","travelling","moneymatters","myDirectline");
-//sub Level navigation elements
-var sub_navigationDef = new Array();
-//on the road
-var otr_motor = new Array(2,101,84,116,"motor.htm","_self");
-var otr_carBuying = new Array(90,101,146,116,"carbuying.htm","_self");
-var otr_breakdown = new Array(152,101,240,116,"breakdown.htm","_self");
-var otr_loans = new Array(244,101,280,116,"loans.htm","_self")
-var onTheRoad_sub = new Array(otr_motor,otr_carBuying,otr_breakdown,otr_loans);
-//at home
-var ah_home = new Array(2,101,84,116,"home.htm","_self");
-var ah_mortgages = new Array(90,101,146,116,"mortgages.htm","_self");
-var ah_pet = new Array(153,101,226,116,"pet.htm","_self");
-var ah_loans = new Array(230,101,262,116,"loans.htm","_self");
-var atHome_sub = new Array(ah_home,ah_mortgages,ah_pet,ah_loans);
-//travelling
-var tr_travel = new Array(2,101,84,116,"travelins.htm","_self");
-var tr_creditcards = new Array(90,101,153,116,"creditcards.htm","_self");
-var tr_savings = new Array(160,101,199,116,"savings.htm","_self");
-var tr_loans = new Array(205,101,238,116,"loans.htm","_self");
-var travelling_sub = new Array(tr_travel,tr_creditcards,tr_savings,tr_loans);
-//money matters
-var mm_mortgages = new Array(2,101,59,116,"mortgages.htm","_self");
-var mm_pensions = new Array(65,101,113,116,"pensions.htm","_self");
-var mm_loans = new Array(120,101,151,116,"loans.htm","_self");
-var mm_savings = new Array(158,101,200,116,"savings.htm","_self");
-var mm_isa = new Array(205,101,225,116,"isa.htm","_self");
-var mm_creditcards = new Array(233,101,295,116,"creditcards.htm","_self");
-var mm_life = new Array(300,101,372,116,"life.htm","_self");
-var moneymatters_sub = new Array(mm_mortgages,mm_pensions,mm_loans,mm_savings,mm_isa,mm_creditcards,mm_life);
-var allSubNavElements = new Array(onTheRoad_sub,atHome_sub,travelling_sub,moneymatters_sub);
-var whichsub_NavObj = new Array("ontheroad","athome","travelling","moneymatters");
-//========================================================
-function findNavObj(inName)
-{
-    for(var i=0;i<whichNavObj.length;i++)
-    {
-        if(whichNavObj[i] == inName)
-        {
-            //alert(i);
-            return i;
-        }
-    }
-}
-for(var i=0;i < topLevelNav.length;i++)
-{
-    navigationDef[i] = new topNavObj(topLevelNav[i]);
-}
-var tempX=-1;
-var tempY=-1;
-sub_navigation_Objs = new Array();
-for(var m=0;m < allSubNavElements.length;m++)
-{
-    for(var n=0;n < allSubNavElements[m].length;n++)
-    {
-        sub_navigationDef[tempX++] = new subNavObj(allSubNavElements[m][n]);
-    }
-    sub_navigation_Objs[tempY++] = sub_navigationDef[tempX]
-}
-function mainElements()
-{
-    var xObj     = navigationDef[mainIndex];
-    var x1        = xObj.mainNavXTop;
-    var x2        = xObj.mainNavYTop;
-    var x3        = xObj.mainNavXBot;
-    var x4        = xObj.mainNavYBot;
-    var xlink    = xObj.hrefDef;
-    var rollName = whichNavObj[mainIndex];
-    if(xlink=="myDL")
-    {
-        return('<area shape="rect" coords="' +x1+ ',' +x2+ ',' +x3+ ',' +x4+ '" href="javascript:goWherever(\'login\');" onmouseover="navOver(' + i + ',true,' + x1+ ',' + x3+ ',' + x2 +','+x4 +',\'' +rollName + '\')" onmouseout="navOver(' + i + ',false,' + x1+ ',' +x3 + ',' + x2 +','+x4 +',\'' + rollName + '\')">');
-    }
-    else
-    {
-        return ('<area shape="rect" coords="' +x1+ ',' +x2+ ',' +x3+ ',' +x4+ '" href="'+xlink+'" onmouseover="navOver(' + i + ',true,' + x1+ ',' + x3+ ',' + x2 +','+x4 +',\'' +rollName + '\')" onmouseout="navOver(' + i + ',false,' + x1+ ',' +x3 + ',' + x2 +','+x4 +',\'' + rollName + '\')">');
-    }
-}
-function subElements(inSelected)
-{
-    var tempString = new String();
-    for(var i=0;i<inSelected.length;i++)
-    {
-        var xObj     = new subNavObj(inSelected[i]);
-        var x1        = xObj.mainNavXTop;
-        var x2        = xObj.mainNavYTop;
-        var x3        = xObj.mainNavXBot;
-        var x4        = xObj.mainNavYBot;
-        var xlink    = xObj.hrefDef;
-        var xtarget    = xObj.targetDef;
-        tempString+= ('<area shape="rect" coords="' +x1+ ',' +x2+ ',' +x3+ ',' +x4+ '" href="'+xlink+'" target = "' + xtarget + '" onclick="javascript:recordNavigation(\'' + xlink + '\')" onmouseover="navOver(' + i + ',true,' + x1+ ',' + x3+ ',' + x2 +','+x4 +')" onmouseout="navOver(' + i + ',false,' + x1+ ',' +x3 + ',' + x2 +','+x4 +')">');
-    }
-    return tempString;
-}
-function show(layerName) {
-    if(document.getElementById) {    // dom level 2
-        domObj = document.getElementById(layerName);
-        domObj.style.visibility = 'visible';
-    } else {
-        domObj = eval('document.' + oDoc + layerName + oStyle);
-        domObj.visibility = 'visible';
-    }
-}
-function hide(layerName) {
-    if(document.getLayerById) {
-        domObj = document.getElementById(layerName);
-        domObj.style.visibility = 'hidden';
-    } else {
-        domObj = eval('document.' + oDoc + layerName + oStyle);
-        domObj.visibility = 'hidden';
-    }
-}
-var loadedFlag = false;
-function event_onLoad() {
-    loadedFlag = true;
-}
-function recordNavigation(inVar)
-{
-    parent.data_screen3.document.open();
-    parent.data_screen3.document.write('<script language="javascript">var navigation1="' + inVar + '";var navigation2="' + navName  + '"</s' + 'cript>');
-    parent.data_screen3.document.close();
-}
-//Quote & Buy  - Start
-function goWherever(QSStart)
-{
-    var x = screen.width;
-    var y = screen.height;
-    var SSACode = " ";
-    var str1 = new String(top.document.location);
-    if(str1.split ("?")[1]){
-        var str2 = str1.split ("?")[1];
-        var start = str2.indexOf("SSACode=");
-        if (start!= -1){
-            var str3 = str2.substring(start+8);
-            var ampArray = str3.split("&");
-            var eqArray = str3.split("=");
-            if (ampArray.length > 1){
-                SSACode = ampArray[0];
-                if (SSACode.split("=")[0]){
-                    SSACode = SSACode.split("=")[0];
-                }
-            } else {
-                if (eqArray.length > 1){
-                    SSACode = eqArray[0];
-                } else {
-                    SSACode = str3;
-                }
-            }
-            if (SSACode.length != 10)
-                SSACode = " ";
-        }
-    }
-     //Hardcoding in money_matters for link to mortagage calculator
-    if (QSStart != "xxxxxx")
-    {
-        if(SSACode != " ")
-            tempURL = "http://uk.directline.com" + '/0000F2/index.htm?' + QSStart + '&SSACode=' + SSACode;
-        else
-            tempURL = "http://uk.directline.com" + '/0000F2/index.htm?' + QSStart ;
-        if(x > 799)
-        {
-            x = screen.width; - 2;
-            y = screen.height - 80;
-        }
-        parms = new String("width=" + x + ",height=" + y + ",scrollbars=auto,menubar=visible,statusbar=yes,status=yes,location=no,toolbar=no,history=no,resizable=yes,screenX=0,screenY=0,top=0,left=0");
-        if (QSStart == "000100")
-        {
-            tempURL = "https://www.dlfs.com/cgi-bin/apply.cgi";
-            DLIWindow = window.open(tempURL,"",parms);
-        }
-        else
-        {
-            DLIWindow = window.open(tempURL,"",parms);
-        }
-    }
-    else
-    {
-        document.location = "/mortgages/page07.htm";
-    }
-}
-// ===========================================================
-function openWin()
-{    
-    if((pageModule !="on_the_road" )&&(pageModule !="at_home" )&&(pageModule !="money_matters" )&&(pageModule !="travelling" )
-     &&(pageModule !="motor" )&&(pageModule !="rescue" )&&(pageModule !="european_motoring" )
-     &&(pageModule !="home" )&&(pageModule !="pet" )&&(pageModule !="homeresponse24" )
-     &&(pageModule !="travel" )&&(pageModule !="creditcard" )
-     &&(pageModule !="life" )&&(pageModule !="Loans" )&&(pageModule !="loans" )&&(pageModule !="api/dl/mortgages" )&&(pageModule !="Savings" )&&(pageModule !="mortgages" )
-     &&(pageModule !="critical_illness" )&&(pageModule !="pensions" )&&(pageModule !="isa" )&&(pageModule !="mortgages/direct_one" )&&(pageModule !="Cash%20Mini%20ISA" )&&(pageModule !="TrackerISA" )&&(pageModule !="api/dl/mydirectline" )&&(pageModule !="flp" ))
-    {
-        window.open('https://www.metafaq.com/clients/directline/html/global.htm','Global','width=465,height=525,screenX=15,screenY=50,top=15,left=50,resizable=yes');
-        return;
-    }
-    else
-    {
-        if(pageModule =="on_the_road" )
-        {
-            window.open('http://www.metafaq.com/clients/directline/html/motoring/all.htm','Global','width=465,height=525,screenX=15,screenY=50,top=15,left=50,resizable=yes');
-            return;
-        }
-        if(pageModule =="at_home" )
-        {
-            window.open('http://www.metafaq.com/clients/directline/html/home/all.htm','Global','width=465,height=525,screenX=15,screenY=50,top=15,left=50,resizable=yes');
-            return;
-        }
-        if(pageModule =="money_matters")
-        {
-            window.open('http://www.metafaq.com/clients/directline/html/finance/all.htm','Global','width=465,height=525,screenX=15,screenY=50,top=15,left=50,resizable=yes');
-            return;
-        }
-        if(pageModule =="travelling")
-        {
-            window.open('http://www.metafaq.com/clients/directline/html/travel/all.htm','Global','width=465,height=525,screenX=15,screenY=50,top=15,left=50,resizable=yes');
-            return; 
-        }
-        if(pageModule =="motor" )
-        {
-            window.open('http://www.metafaq.com/clients/directline/html/motoring/motor_insurance.htm','Global','width=465,height=525,screenX=15,screenY=50,top=15,left=50,resizable=yes');
-            return;       
-        }
-        if(pageModule =="rescue")
-        {
-            window.open('http://www.metafaq.com/clients/directline/html/motoring/breakdown_cover.htm','Global','width=465,height=525,screenX=15,screenY=50,top=15,left=50,resizable=yes');
-            return;      
-        }
-        if(pageModule =="european_motoring")
-        {
-            window.open('http://www.metafaq.com/clients/directline/html/motoring/european_breakdown.htm','Global','width=465,height=525,screenX=15,screenY=50,top=15,left=50,resizable=yes');
-            return;          
-        }
-        if(pageModule =="home" )
-        {
-            window.open('http://www.metafaq.com/clients/directline/html/home/home_insurance.htm','Global','width=465,height=525,screenX=15,screenY=50,top=15,left=50,resizable=yes');
-            return;                
-        }
-        if(pageModule =="pet")
-        {
-            window.open('http://www.metafaq.com/clients/directline/html/home/pet_insurance.htm','Global','width=465,height=525,screenX=15,screenY=50,top=15,left=50,resizable=yes');
-            return;              
-        }
-        if(pageModule =="homeresponse24")
-        {
-            window.open('http://www.metafaq.com/clients/directline/html/home/home_response.htm','Global','width=465,height=525,screenX=15,screenY=50,top=15,left=50,resizable=yes');
-            return;                  
-        }
-        if(pageModule =="travel" )
-        {
-            window.open('http://www.metafaq.com/clients/directline/html/travel/travel_insurance.htm','Global','width=465,height=525,screenX=15,screenY=50,top=15,left=50,resizable=yes');
-            return;               
-        }
-        if(pageModule =="creditcard")
-        {
-            window.open('https://www.metafaq.com/clients/directline/html/global.htm','Global','width=465,height=525,screenX=15,screenY=50,top=15,left=50,resizable=yes');
-            return;             
-        }
-        if(pageModule =="life")
-        {
-            window.open('http://www.metafaq.com/clients/directline/html/finance/life_insurance.htm','Global','width=465,height=525,screenX=15,screenY=50,top=15,left=50,resizable=yes');
-            return;                  
-        }
-        if(pageModule =="Loans" )
-        {
-            window.open('http://www.metafaq.com/clients/directline/html/home/loans.htm','Global','width=465,height=525,screenX=15,screenY=50,top=15,left=50,resizable=yes');
-            return;                        
-        }
-        if(pageModule =="loans")
-        {
-            window.open('http://www.metafaq.com/clients/directline/html/finance/loans.htm','Global','width=465,height=525,screenX=15,screenY=50,top=15,left=50,resizable=yes');
-            return;                      
-        }
-        if(pageModule =="api/dl/mortgages")
-        {
-            window.open('http://www.metafaq.com/clients/directline/html/finance/mortgages.htm','Global','width=465,height=525,screenX=15,screenY=50,top=15,left=50,resizable=yes');
-            return;                          
-        }
-        if(pageModule =="Savings")
-        {
-            window.open('http://www.metafaq.com/clients/directline/html/finance/savings.htm','Global','width=465,height=525,screenX=15,screenY=50,top=15,left=50,resizable=yes');
-            return;                          
-        }
-        if(pageModule =="critical_illness" )
-        {
-            window.open('http://www.metafaq.com/clients/directline/html/finance/critical_illness.htm','Global','width=465,height=525,screenX=15,screenY=50,top=15,left=50,resizable=yes');
-            return;                               
-        }
-        if(pageModule =="pensions")
-        {
-            window.open('http://www.metafaq.com/clients/directline/html/finance/pensions.htm','Global','width=465,height=525,screenX=15,screenY=50,top=15,left=50,resizable=yes');
-            return;                              
-        }
-        if(pageModule =="isa")
-        {
-            window.open('http://www.metafaq.com/clients/directline/html/finance/savings.htm','Global','width=465,height=525,screenX=15,screenY=50,top=15,left=50,resizable=yes');
-            return;                                  
-        }
-        if(pageModule =="mortgages/direct_one")
-        {
-            window.open('http://www.metafaq.com/clients/directline/html/finance/one_account.htm','Global','width=465,height=525,screenX=15,screenY=50,top=15,left=50,resizable=yes');
-            return;                                  
-        }
-        if(pageModule =="Cash%20Mini%20ISA")
-        {
-            window.open('http://www.metafaq.com/clients/directline/html/finance/mini_isa.htm','Global','width=465,height=525,screenX=15,screenY=50,top=15,left=50,resizable=yes');
-            return;                                  
-        }
-        if(pageModule =="TrackerISA")
-        {
-            window.open('http://www.metafaq.com/clients/directline/html/finance/ss_isa.htm','Global','width=465,height=525,screenX=15,screenY=50,top=15,left=50,resizable=yes');
-            return;                                  
-        }
-        if(pageModule =="api/dl/mydirectline")
-        {
-            window.open('http://www.metafaq.com/clients/directline/html/global.htm','Global','width=465,height=525,screenX=15,screenY=50,top=15,left=50,resizable=yes');
-            return;                                  
-        }
-        if(pageModule =="flp")
-        {
-            window.open('http://www.metafaq.com/clients/directline/html/home/home_insurance.htm','Global','width=465,height=525,screenX=15,screenY=50,top=15,left=50,resizable=yes');
-            return;                                  
-        }
-        if(pageModule =="mortgages")
-        {
-            window.open('http://www.metafaq.com/clients/directline/html/finance/mortgages.htm','Global','width=465,height=525,screenX=15,screenY=50,top=15,left=50,resizable=yes');
-            return;                                  
-        }
+        tempURL = "http://" + location.host + "/tracking/redirect/get_a_quote_button.htm?";
+        tempURL2 = "http://" + location.host + "/tracking/redirect/get_a_quote_button.htm?";
     }
     
+    if ( typeof linkId != "undefined" ){
+        tempURL =  tempURL + "rcp="+inRCP+"&linkType="+linkId;
+        tempURL2 =  tempURL2 + "rcp="+inRCP+"&req=req" +"&linkType="+linkId;
+    }
+    else
+    {
+        tempURL =  tempURL + "rcp="+inRCP;
+        tempURL2 =  tempURL + "rcp="+inRCP+"&req=req";        
+    }
+    
+    if( x > 799 )
+    {
+        x = screen.width - 10;
+        y = screen.height - 80;
+    }
+    parms = new String( "width=" + x + ",height=" + y + ",scrollbars=yes,menubar=visible,statusbar=yes,status=yes,location=no,toolbar=no,history=no,resizable=yes,screenX=0,screenY=0,top=0,left=0" );
+
+    switch( inRCP )
+    {
+        case "000023": // home
+            DLIWindow = window.open( tempURL, "", parms );
+            break;
+        case "000024": // motor
+            DLIWindow = window.open( tempURL, "", parms );
+            break;
+        case "000025": // rescue
+            DLIWindow = window.open( tempURL, "", parms );
+            break;
+        case "000026": // travel
+            DLIWindow = window.open( tempURL, "", parms );
+            break;
+        case "000080": // life
+            DLIWindow = window.open( tempURL, "", parms );
+            break;
+        case "000088": // pet
+            DLIWindow = window.open( tempURL, "", parms );
+            break;
+        case "000100": // loans
+            tempURL2 = "http://www.dlfs.com/loans/LoanRC.html";
+            DLIWindow = window.open( tempURL2, "", "height=600,width=800,screenY=50,top=15,left=50, menu=no, directories=no, status=yes , scrollbars=no,resizable=no" );
+            break;
+        case "REGISTER":
+            DLIWindow = window.open( tempURL2, "", parms );
+            break;
+        case "COPYRIGHT":
+            var winleft = screen.width - 600 - 20;
+            var wintop = screen.height - 130 - 60;
+            parms ='width=600,height=130,scrollbars=no,left='+winleft+',top='+wintop+',status=yes';
+            DLIWindow = window.open( "homepage_copyright.jsp", "copyright", parms );
+            break;
+        case "ONE_ACCOUNT":
+            var theURL  = "http://service.oneaccount.com/pls/plOneSalesDL/online_one_app.new_application";
+            var winOpts = 'width=909,height=620,resizable=yes,toolbar=no,menubar=no,status=no,scrollbars=yes,top=10,left=10';
+            var newWin  = window.open( theURL, "directOne", winOpts );
+            break;
+        default:
+            DLIWindow = window.open(tempURL,"",parms);
+    }
+    return;
 }
-//Quote & Buy  - End</script><div style="position:absolute; left:-2px; top:-10px; z-index:20">
-  <img src="/xxx/compinfo.nsf/red_pixel.gif" border="0" height="1" width="310" alt="">
-</div>
-<div style="position:absolute; left:0px; top:0px; z-index:20">
-  <img src="/xxx/compinfo.nsf/4trans.gif" border="0" height="1" width="1" alt="">
-</div>
-<div style="position:absolute; left:0px; top:0px; z-index:20">
-     <img src="/xxx/compinfo.nsf/red_pixel.gif" border="0" height="22" width="10" alt="">
-</div>
-<div style="position:absolute; left:10px; top:0px; z-index:10">
-     <img src="/xxx/compinfo.nsf/separater.gif" border="0" height="22" width="2" alt="">
-</div>
-<div style="position:absolute; left:12px; top:0px; z-index:10">
-      <a href="http://uk.directline.com" onmouseover="javascript:document.home.src='/xxx/compinfo.nsf/homered_2.gif'" onmouseout="javascript:document.home.src='/xxx/compinfo.nsf/homewhite_2.gif'"><img src="/xxx/compinfo.nsf/homewhite_2.gif" border="0" width="42" height="22" name="home" id="home"></a>
-</div>
-<div style="position:absolute; left:54px; top:0px; z-index:10">
-     <img src="/xxx/compinfo.nsf/separater.gif" border="0" height="22" width="2" alt="">
-</div>
-<div style="position:absolute; left:56px; top:0px; z-index:10">
-     <img src="/xxx/compinfo.nsf/red_pixel.gif" border="0" height="22" width="28" alt="">
-</div>
-<div style="position:absolute; left:84px; top:0px; z-index:10">
-            <a href="#" onclick="MyWindow=window.open('http://uk.directline.com/call_us/Call_us.htm','MyWindow','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,width=525,height=500,left=20,top=20'); return false;">
-            <img src="/xxx/compinfo.nsf/callus_nav.gif" alt="Call us" border="0" height="34" width="91">
-            </a>
-</div>
-<div style="position:absolute; left:175px; top:0px; z-index:10">
-            <a href="javascript:openWin();">
-            <img src="/xxx/compinfo.nsf/askaquestion_nav.gif" alt="Ask us a question" border="0" height="34" width="117">
-            </a>
-</div>
-<div style="position:absolute; left:292px; top:1px; z-index:10">
-            <img src="/xxx/compinfo.nsf/home_2.gif" border="0" height="95" width="20" id="home_2" name="home_2" alt="">
-</div>
-<div style="position:absolute; left:0px; top:35px; z-index:10">
-      <a href="http://uk.directline.com"><img src="/xxx/compinfo.nsf/dotcom.gif" width="212" height="59" border="0"></a>
-</div>
-<div style="position:absolute;top:0;left:308;z-index:20;"><img src="/xxx/compinfo.nsf/red_phone.gif" border="0"></div>
-<div id="navoff" style="position:absolute; top:0; left:312; z-index:10; visibility:visible">
-<img src="/xxx/compinfo.nsf/mainNav.gif" width="458" height="129" usemap="#toplevelmap" border="0">
-</div>
-<div id="navon" style="position:absolute; top:0; left:312; z-index:10; visibility:hidden">
-<img src="/xxx/compinfo.nsf/mainNavgeneric.gif" width="458" height="129" usemap="#toplevelmap" border="0">
-</div>
-<div id="productname" style="position:absolute; left:9px; top:89px; z-index:20 visibility:visible">
-<img src="/xxx/compinfo.nsf/aboutus.gif">
-</div>
-<map name="toplevelmap">
-<script>
-for(var mainIndex=0;mainIndex<navigationDef.length;mainIndex++)
-{
-	document.write(mainElements(mainIndex))
+
+
+function showCover(){
+   var  win = window.open('/rescue/rescue_popup.html', 'rescuecoverdetails',
+  'status, scrollbars, resizable, width=775, height=450, screenX=100,screenY=75,left=100,top=75');
+  win.focus();
+  return false;
+
 }
-</script><area shape="rect" coords="2,71,64,90" href="http://uk.directline.com/on_the_road/index.htm" onmouseover="navOver(5,true,2,64,71,90,'ontheroad')" onmouseout="navOver(5,false,2,64,71,90,'ontheroad')"><area shape="rect" coords="69,71,121,90" href="http://uk.directline.com/at_home/index.htm" onmouseover="navOver(5,true,69,121,71,90,'athome')" onmouseout="navOver(5,false,69,121,71,90,'athome')"><area shape="rect" coords="126,71,181,90" href="http://uk.directline.com/travelling/index.htm" onmouseover="navOver(5,true,126,181,71,90,'travelling')" onmouseout="navOver(5,false,126,181,71,90,'travelling')"><area shape="rect" coords="188,71,272,90" href="http://uk.directline.com/money_matters/index.htm" onmouseover="navOver(5,true,188,272,71,90,'moneymatters')" onmouseout="navOver(5,false,188,272,71,90,'moneymatters')"><area shape="rect" coords="396,68,458,95" href="javascript:goWherever('login');" onmouseover="navOver(5,true,396,458,68,95,'myDirectline')" onmouseout="navOver(5,false,396,458,68,95,'myDirectline')">
-</map><script language="javascript">
+
+
 var navName = "welcome";
 var navIndex = findNavObj(navName);
 var domObj;
 var oDoc = (document.all) ? 'all.' : '';
 var oStyle = (document.all) ? '.style' : '';
+
 function show(layerName) {
     if(document.getElementById) {   // dom level 2
         domObj = document.getElementById(layerName);
@@ -553,6 +135,7 @@ function show(layerName) {
         domObj.visibility = 'visible';
     }
 }
+
 function hide(layerName) {
     if(document.getLayerById) {
         domObj = document.getElementById(layerName);
@@ -562,10 +145,12 @@ function hide(layerName) {
         domObj.visibility = 'hidden';
     }
 }
+
 var loadedFlag = false;
 function event_onLoad() {
     loadedFlag = true;
 }
+
 function offToGoWherever(rcp,from)
 {
     if(rcp == '000024' && from == '1')
@@ -582,357 +167,751 @@ function offToGoWherever(rcp,from)
     }
     goWherever(rcp);
 }
+
+function oneAccount(url)
+{
+    servicewin=window.open("http://www.oneaccount.com/directline/detect.html","OneaccountSavingsCalculator","status=no,scrollbars=no,resizable=no,width=620,height=490");
+}
+
+//dlfs links
+function dlfsFixLink()
+{
+    window.open("https://www.dlfs.com/mortgages/CalculatorServlet?actionId=StandardOptionsMenu&mortgageType=Fix","Fix","status,scrollbars,resizable,width=660,height=550,screenX=100,screenY=75,left=0,top=0");
+}
+
+function dlfsFlexibleLink()
+{
+    window.open( "https://www.dlfs.com/mortgages/CalculatorServlet?actionId=StandardOptionsMenu&mortgageType=Flexible","Flexible","status,scrollbars,resizable,width=660,height=550,screenX=100,screenY=75,left=0,top=0");
+}
+function dlfsSVRLink()
+{
+    window.open( "https://www.dlfs.com/mortgages/CalculatorServlet?actionId=StandardOptionsMenu&mortgageType=SVR","SVR","status,scrollbars,resizable,width=660,height=550,screenX=100,screenY=75,left=0,top=0");
+}
+
+function doSel()
+{
+     obj =  document.productoptions.productoptions;
+
+     for (i = 1; i < obj.length; i++) {
+        if (obj[i].selected == true) {
+           eval(obj[i].value);
+        }
+     }
+}
 </script>
-<table border="0" cellpadding="0" cellspacing="0" width="17">
-  <tbody><tr>
-    <td height="129">
-      <script language="javascript">
-            //document.write(str);	This did write the header
-        </script>
-    </td>
-  </tr>
-</tbody></table>
+
+       
+     
+                  
+    <script language="JavaScript" src="/generic/js/site-tracker.js" type="text/javascript"></script>
+    <script language="JavaScript" type="text/javascript">
+        if ( typeof displayDescription != "undefined") {
+            defaultStatus = "directline:Legal:Security & privacy";
+        }
+    </script>
+         
+       
+    
+
+
+<style type="text/css">
+
+html, body {margin: 0; padding: 0;}
+
+
+</style>
+
+<style type="text/css">
+.t {background: url(tb.gif) 0 0 repeat-x; width: 12.8em; height:1.3em;background-color:#cc3333}
+.b {background: url(bb.gif) 0 100% repeat-x;}
+.l {background: url(l.gif) 0 0 repeat-y}
+.r {background: url(r.gif) 100% 0 repeat-y}
+.bl {background: url(blb.gif) 0 100% no-repeat}
+.br {background: url(brb.gif) 100% 100% no-repeat}
+.tl {background: url(tlb.gif) 0 0 no-repeat}
+.tr {background: url(trb.gif) 100% 0 no-repeat; padding:3px;padding-left:8px;padding-bottom:0.4em}
+
+
+.gobutton_t {background: url('/images/homepage/gobutton_tb.gif') 0 0 repeat-x; width: 3.8em; height:1.7em;background-color:#cc3333}
+.gobutton_b {background: url('/images/homepage/gobutton_bb.gif') 0 100% repeat-x;height:1.7em}
+.gobutton_l {background: url('/images/homepage/gobutton_l.gif') 0 0 repeat-y;height:1.7em}
+.gobutton_r {background: url('/images/homepage/gobutton_r.gif') 100% 0 repeat-y;height:1.7m}
+.gobutton_bl {background: url('/images/homepage/gobutton_blb.gif') 0 100% no-repeat;;height:1.7em}
+.gobutton_br {background: url('/images/homepage/gobutton_brb.gif') 100% 100% no-repeat;;height:1.7em}
+.gobutton_tl {background: url('/images/homepage/gobutton_tlb.gif') 0 0 no-repeat;height:1.7em}
+.gobutton_tr {background: url('/images/homepage/gobutton_trb.gif') 100% 0 no-repeat;padding:0em;padding-left:4px;padding-bottom:0.0em;height:1.7em;border:0px solid black;padding-top:0.2em}
+
+
+  div, form {
+    margin:0px;
+    padding:0px;
+  }
+
+
+.width {
+    width:auto;
+    min-width:760px;
+    background: url(greybar_bb.gif) 0 100% repeat-x;
+    border:1px solid green;
+}
+
+.content {
+    border:none;
+    padding:0px;
+
+}
+
+* html .minwidth {
+    padding-left:760px;
+
+}
+
+* html .container {
+    margin-left:-760px;
+    position:relative;
+
+}
+
+/*\*/
+* html .minwidth, * html .container, * html .content, * html .layout  {
+    height:1px;
+}
+/**/
+
+
+</style>
+
+
+
+
+
+</head>
+<body style="background-color:#ffffff;" onload="event_onLoad(); ">
+
+       
+<div id="headerSection">    
+
+
+        <div style="background: url('/images/homepage/greybar_tb.gif') 0 0 repeat-x; width:760px;min-width:760px; height:32px;background-color:#ececec;border:0px solid red;">
+            <div style="width:760px;min-width:760px;height:44px;background: url('/images/homepage/greybar_bb.gif') 0 100% repeat-x">
+<!--<div class="width">-->
+<div class="minwidth">
+<div class="layout">
+<div class="container">
+<div class="content">
+                <div style="border:0px solid red">
+                    <div title="Back to Directline Homepage" style="float:left;height:42px;">
+                        <div style="border:0px solid green;">
+                            <table cellpadding="0" cellspacing="0" border="0" height="100%">
+                                <tbody><tr>
+                                    
+                                    
+                                    
+                                    <td>&nbsp;</td><td><span class="homepagelink">&lt;</span></td><td valign="middle"><a href="http://www.directline.com" class="normal-no-underline"><span class="homepagelink">&nbsp;Home page  </span></a></td>
+                                </tr>
+                            </tbody></table>
+                        </div>
+                    </div>
+                    
+                    <div style="float:right;padding:0;margin:0;border:0px solid green;height:100%">
+                        <div class="stanza" style="float:left;width:auto;padding:0px solid green;margin:0">
+                                <table cellpadding="1" cellspacing="0" border="0" height="34px">
+                                    <tbody><tr><td valign="bottom">
+                                        <form name="productoptions" action="#" target="_self"><span class="small2">
+                                          <select class="product-select-box" name="productoptions" id="productoptions">
+                                               
+                                            
+                                                    
+                                                         <option label="select a product to view" value="">Select a product to view</option>
+                                                         <option label="Car insurance" value="location.href='/motor/welcome.htm'">Car Insurance</option>
+                                                         <option label="Home insurance" value="location.href='/home/welcome.htm'">Home insurance</option>
+                                                         <option label="Breakdown cover" value="location.href='/rescue/welcome.htm'">Breakdown cover</option>
+                                                         <option label="European Breakdown" value="location.href='/european_motoring/welcome.htm'">European Breakdown</option>
+                                                         <option label="Travel Insurance" value="location.href='/travel/welcome.htm'">Travel Insurance</option>
+                                                         <option label="Home emergency" value="location.href='/homeresponse24/welcome.htm'">Home emergency</option>
+                                                         <option label="Pet insurance" value="location.href='/pet/welcome.htm'">Pet Insurance</option>
+                                                         <option label="Life insurance" value="location.href='/life/welcome.htm'">Life Insurance</option>
+                                                         <option label="Critical Illness" value="location.href='/critical_illness/welcome.htm'">Critical Illness </option>
+                                                         <option label="Savings" value="location.href='/savings/welcome.htm'">Savings</option>
+                                                         <option label="Loans" value="location.href='/loans/welcome.htm'">Loans</option>
+                                                         <option label="Mortgages" value="location.href='/mortgages/welcome.htm'">Mortgages</option>
+
+                                                                
+                                               
+                                                                                      
+                                          </select></span>
+                                        </form>
+                                    </td></tr>
+                                    <tr><td><img src="/staticpages/images/common/spacer.gif" width="1" height="1" alt=""></td></tr>
+                                </tbody></table>
+                        </div>
+
+
+                        <div style="float:left;border:0px solid black;">
+                                <table cellpadding="0" cellspacing="0" border="0" height="34px" style="padding-bottom:5px;padding-left:2px;">
+                                    <tbody><tr><td valign="bottom">
+                                        <div class="gobutton_t">
+                                            <div class="gobutton_b">
+                                                <div class="gobutton_l">
+                                                    <div class="gobutton_r">
+                                                        <div class="gobutton_bl">
+                                                            <div class="gobutton_br">
+                                                                <div class="gobutton_tl">
+                                                                    <div class="gobutton_tr">
+                                                                        <a title="select a product to view, go button" href="javascript:doSel();" class="normal-no-underline"><div class="whiteboldmedium">GO &gt;</div></a>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </td></tr>
+                                </tbody></table>
+                        </div>
+                    </div>
+
+                </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--            </div>-->
+        </div>
+        
+
+          
+    
+    
+
+
+    <div id="advertHolder">
+         <div id="logo" title="Direct Line Insurance plc">
+            <p style="bottom:0;left:0;margin:0;padding:0">
+                
+                
+                
+                <a href="http://www.directline.com">
+                     <img src="/generic/images_sp/dllogo.gif" width="226px" height="71px" border="0" alt="">         
+                </a>
+            </p>
+         </div>   
+
+         
+               
+               
+                 <div style="position:relative;width:518;padding:0;padding-left:10px;margin:0;float:left;height:75px"><table style="height:75px;" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td style="vertical-align:bottom;"><h1 style="display:inline;padding:0;margin:0;bottom:0">Legal:</h1>&nbsp;&nbsp;<h1 class="pageTitle">Security &amp; privacy</h1></td></tr></tbody></table></div>            
+                            
+            
+         
+        
+   </div>           
+</div>    
+
+<!--
+<div style="position:relative;clear:both;width:772;border:1px solid #000000;height:20px;">&nbsp;
+</div>
+-->
+<div style="clear:both;">
+
 <table width="772" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td>
-      <table width="771" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-          <td colspan="2" width="302"><img src="/xxx/compinfo.nsf/spacer.gif" width="302" height="1"></td>
-          <td valign="bottom" width="470"><span class="txtGenLargeBlackBold">Security &amp; Privacy</span></td>
+     <td colspan="3"><img src="/staticpages/images/common/spacer.gif" width="1" height="10" alt=""></td>
+  </tr>
+</tbody></table>
+</div>
+<div id="outer" style="position:relative;min-height:100%;">
+<table border="0" cellpadding="0" cellspacing="0" width="auto">
+<tbody><tr>
+<td valign="top">
+<div style="width:240px;">
+<table width="240px" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td valign="top" align="right"><table cellpadding="0" cellspacing="0" border="0" width="240">
+          <tbody><tr><td style="font-size:0;padding:0;margin:0;">
+        <div style="postion: relative; top:-1px;"><img src="/staticpages/images/common/border.gif" alt="" border="0" height="1" width="240"></div>
+      </td>
+    </tr>
+    <tr>
+          
+    
+    
+        
+    
+
+        <td align="left" style="width:240;" valign="top">
+
+<div id="sideNavigation" style="width: 240;">
+    
+        <ul style="margin-left:0;padding-left:0">
+            
+            
+                 <li class="txtNavigationNonLive">
+                    
+
+                
+                
+                <div style="width:240px;height:15px;"><div style="float:left;height:15px;"><img src="/staticpages/images/common/spacer.gif" height="1" width="20" alt=""><a href="/legal/terms.htm" target="_self" class="txtNavigationNonLive">
+                    
+
+                Website terms of use</a></div><div style="float:right;padding-right:5px;padding-top:5px;height:15px;">
+
+                <img src="/staticpages/images/common/arrow.gif" alt="" height="7" width="5" 0"=""></div></div>
+                                
+
+                
+                        </li>
+                
+
+
+                
+
+        
+
+        
+            
+                 <li class="txtNavigationNonLive">
+                    
+
+                
+                
+                <div style="width:240px;height:15px;"><div style="float:left;height:15px;"><img src="/staticpages/images/common/spacer.gif" height="1" width="20" alt=""><a href="/legal/security.htm" target="_self" class="txtNavigationNonLive">
+                    
+
+                Security and privacy</a></div><div style="float:right;padding-right:5px;padding-top:5px;height:15px;">
+
+                <img src="/staticpages/images/common/arrow.gif" alt="" height="7" width="5" 1"=""></div></div>
+                                
+
+                
+                        </li>
+                
+
+
+                
+
+        
+
+        
+            
+                 <li class="txtNavigationNonLive">
+                    
+
+                
+                
+                <div style="width:240px;height:15px;"><div style="float:left;height:15px;"><img src="/staticpages/images/common/spacer.gif" height="1" width="20" alt=""><a href="/legal/transferofbusiness/welcome.htm" target="_self" class="txtNavigationNonLive">
+                    
+
+                Transfer of business</a></div><div style="float:right;padding-right:5px;padding-top:5px;height:15px;">
+
+                <img src="/staticpages/images/common/arrow.gif" alt="" height="7" width="5" 2"=""></div></div>
+                                
+
+                
+                        </li>
+                
+
+
+                
+
+        
+
+        
+
+        </ul>
+        
+
+</div>
+
+
+
+        </td>
         </tr>
       </tbody></table>
     </td>
-  </tr>
+   </tr>
 </tbody></table>
-<table width="772" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-     <td colspan="3"><img src="/xxx/compinfo.nsf/spacer.gif" width="1" height="10"></td>
-  </tr>
-  <tr>
-    <td valign="top" border="0" align="right">
-	<table cellpadding="0" cellspacing="0" border="0" width="289">     
+</div>
+</td><td>
+<div id="inner" style="border-left:1px solid #cccccc;height:100%;">
+      <table width="508" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr>
-          <td valign="top"><img src="/xxx/compinfo.nsf/beachimage.jpg" width="98" height="230">
-          </td>
-          <td align="right" width="191" valign="top">
-<!-- LEFT NAV -->
-<script language="JavaScript"><!-- Begin CDATA Tag -->
- 
-category='';
-function readcategory()
-{
-	var locationBar = window.document.location.href;
-	
-	if(locationBar.indexOf("/")!= -1)
-			{
-				if((locationBar.indexOf("&"))== -1)
-				{
-					category="current headline";
-				}
-				else
-				{
-					i=locationBar.lastIndexOf("&category=");
-					category=locationBar.substring(i+10,locationBar.length);
-				}
-	
-			}
-	
-}
-readcategory();
-var str= '';
-str +='<table cellspacing="0" cellpadding="0" border="0">';
-str +='<tr>';
-str +='    <td colspan="3"><img src="/xxx/compinfo.nsf/border.gif" border="0" height="1" width="191"></td>';
-str +='</tr>';
- <!-- heighlited menu item --> 
-    str +='<tr>';
-    str +='    <td align="center" height="15"><img src="/xxx/compinfo.nsf/arrow.gif" width="3" height="6"></td>';
-    str +='    <td colspan="2" bgcolor="';
-    str += (pageName == 'welcome.htm')?'#e6e6e6':'#ffffff';
-    str +='" height="20" ><a href="/xxx/compinfo.nsf/Articles/Welcome?opendocument&category=Welcome" target="_self"  class="';
-    str += (pageName == 'welcome.htm')?'txtNavigationLive':'txtNavigationNonLive';
-    str +='" size="1">About Us</a></td>';
-    str +='</tr>';
-    str +='<tr>';
-    str +='   <td ><img src="/xxx/compinfo.nsf/spacer.gif" alt="0" border="0" height="1" width="3"></td>';
-    str +='   <td colspan="2" ><img src="/xxx/compinfo.nsf/border.gif" border="0" height="1" width="181"></td>';
-    str +='</tr>';
-    str +='<tr>';    str +='    <td align="center" height="15"><img src="/xxx/Compinfo.nsf/arrow.gif" width="3" height="6"></td>';    str +='    <td colspan="2" bgcolor="';    str += (category == 'Phone+Directory')?'#e6e6e6':'#ffffff';    str +='" height="20" ><a href="/xxx/Compinfo.nsf/Articles/Phone+Directory?opendocument&category=Phone+Directory" target=""  class="';    str += (category == 'Phone+Directory')?'txtNavigationLive':'txtNavigationNonLive';    str +='" size="1">Phone Directory</a></td>';    str +='</tr>';    str +='<tr>';    str +='   <td ><img src="/xxx/Compinfo.nsf/spacer.gif" border="0" height="1" width="3"></td>';    str +='   <td colspan="2" ><img src="/xxx/Compinfo.nsf/border.gif" border="0" height="1" width="181"></td>';    str +='</tr>';;     str +='<tr>';    str +='    <td align="center" height="15"><img src="/xxx/Compinfo.nsf/arrow.gif" width="3" height="6"></td>';    str +='    <td colspan="2" bgcolor="';    str += (category == 'History')?'#e6e6e6':'#ffffff';    str +='" height="20" ><a href="/xxx/Compinfo.nsf/Articles/History?opendocument&category=History" target=""  class="';    str += (category == 'History')?'txtNavigationLive':'txtNavigationNonLive';    str +='" size="1">History</a></td>';    str +='</tr>';    str +='<tr>';    str +='   <td ><img src="/xxx/Compinfo.nsf/spacer.gif" border="0" height="1" width="3"></td>';    str +='   <td colspan="2" ><img src="/xxx/Compinfo.nsf/border.gif" border="0" height="1" width="181"></td>';    str +='</tr>';;     str +='<tr>';    str +='    <td align="center" height="15"><img src="/xxx/Compinfo.nsf/arrow.gif" width="3" height="6"></td>';    str +='    <td colspan="2" bgcolor="';    str += (category == 'Working+for+Direct+Line')?'#e6e6e6':'#ffffff';    str +='" height="20" ><a href="../../HRInfo.nsf/Articles/Introduction?opendocument&category=Introduction" target=""  class="';    str += (category == 'Working+for+Direct+Line')?'txtNavigationLive':'txtNavigationNonLive';    str +='" size="1">Working for Direct Line</a></td>';    str +='</tr>';    str +='<tr>';    str +='   <td ><img src="/xxx/Compinfo.nsf/spacer.gif" border="0" height="1" width="3"></td>';    str +='   <td colspan="2" ><img src="/xxx/Compinfo.nsf/border.gif" border="0" height="1" width="181"></td>';    str +='</tr>';;     str +='<tr>';    str +='    <td align="center" height="15"><img src="/xxx/Compinfo.nsf/arrow.gif" width="3" height="6"></td>';    str +='    <td colspan="2" bgcolor="';    str += (category == 'In+the+news')?'#e6e6e6':'#ffffff';    str +='" height="20" ><a href="/xxx/news.nsf/IICHeadline/current?opendocument&category=current+headline" target=""  class="';    str += (category == 'In+the+news')?'txtNavigationLive':'txtNavigationNonLive';    str +='" size="1">In the news</a></td>';    str +='</tr>';    str +='<tr>';    str +='   <td ><img src="/xxx/Compinfo.nsf/spacer.gif" border="0" height="1" width="3"></td>';    str +='   <td colspan="2" ><img src="/xxx/Compinfo.nsf/border.gif" border="0" height="1" width="181"></td>';    str +='</tr>';;     str +='<tr>';    str +='    <td align="center" height="15"><img src="/xxx/Compinfo.nsf/arrow.gif" width="3" height="6"></td>';    str +='    <td colspan="2" bgcolor="';    str += (category == 'Analyst+Conference')?'#e6e6e6':'#ffffff';    str +='" height="20" ><a href="http://www.investors.rbs.com/investor_relations/webcasts.cfm" target=""  class="';    str += (category == 'Analyst+Conference')?'txtNavigationLive':'txtNavigationNonLive';    str +='" size="1">Analyst Conference</a></td>';    str +='</tr>';    str +='<tr>';    str +='   <td ><img src="/xxx/Compinfo.nsf/spacer.gif" border="0" height="1" width="3"></td>';    str +='   <td colspan="2" ><img src="/xxx/Compinfo.nsf/border.gif" border="0" height="1" width="181"></td>';    str +='</tr>';;     str +='<tr>';    str +='    <td align="center" height="15"><img src="/xxx/Compinfo.nsf/arrow.gif" width="3" height="6"></td>';    str +='    <td colspan="2" bgcolor="';    str += (category == 'In+the+community')?'#e6e6e6':'#ffffff';    str +='" height="20" ><a href="/xxx/Compinfo.nsf/Articles/In+the+community?opendocument&category=In+the+community" target=""  class="';    str += (category == 'In+the+community')?'txtNavigationLive':'txtNavigationNonLive';    str +='" size="1">In the community</a></td>';    str +='</tr>';    str +='<tr>';    str +='   <td ><img src="/xxx/Compinfo.nsf/spacer.gif" border="0" height="1" width="3"></td>';    str +='   <td colspan="2" ><img src="/xxx/Compinfo.nsf/border.gif" border="0" height="1" width="181"></td>';    str +='</tr>';;     str +='<tr>';    str +='    <td align="center" height="15"><img src="/xxx/Compinfo.nsf/arrow.gif" width="3" height="6"></td>';    str +='    <td colspan="2" bgcolor="';    str += (category == 'Facts+&+Figures')?'#e6e6e6':'#ffffff';    str +='" height="20" ><a href="/xxx/news.nsf/FactsLkup/Financial+Results?open&category=Financial+Results" target=""  class="';    str += (category == 'Facts+&+Figures')?'txtNavigationLive':'txtNavigationNonLive';    str +='" size="1">Facts & Figures</a></td>';    str +='</tr>';    str +='<tr>';    str +='   <td ><img src="/xxx/Compinfo.nsf/spacer.gif" border="0" height="1" width="3"></td>';    str +='   <td colspan="2" ><img src="/xxx/Compinfo.nsf/border.gif" border="0" height="1" width="181"></td>';    str +='</tr>';;     str +='<tr>';    str +='    <td align="center" height="15"><img src="/xxx/Compinfo.nsf/arrow.gif" width="3" height="6"></td>';    str +='    <td colspan="2" bgcolor="';    str += (category == 'Website+Terms+of+Use')?'#e6e6e6':'#ffffff';    str +='" height="20" ><a href="/xxx/Compinfo.nsf/Articles/Website+Terms+of+Use?opendocument&category=Website+Terms+of+Use" target=""  class="';    str += (category == 'Website+Terms+of+Use')?'txtNavigationLive':'txtNavigationNonLive';    str +='" size="1">Website Terms of Use</a></td>';    str +='</tr>';    str +='<tr>';    str +='   <td ><img src="/xxx/Compinfo.nsf/spacer.gif" border="0" height="1" width="3"></td>';    str +='   <td colspan="2" ><img src="/xxx/Compinfo.nsf/border.gif" border="0" height="1" width="181"></td>';    str +='</tr>';;     str +='<tr>';    str +='    <td align="center" height="15"><img src="/xxx/Compinfo.nsf/arrow.gif" width="3" height="6"></td>';    str +='    <td colspan="2" bgcolor="';    str += (category == 'Technical+Information')?'#e6e6e6':'#ffffff';    str +='" height="20" ><a href="/xxx/Compinfo.nsf/Articles/Technical+Information?opendocument&category=Technical+Information" target=""  class="';    str += (category == 'Technical+Information')?'txtNavigationLive':'txtNavigationNonLive';    str +='" size="1">Technical Information</a></td>';    str +='</tr>';    str +='<tr>';    str +='   <td ><img src="/xxx/Compinfo.nsf/spacer.gif" border="0" height="1" width="3"></td>';    str +='   <td colspan="2" ><img src="/xxx/Compinfo.nsf/border.gif" border="0" height="1" width="181"></td>';    str +='</tr>';;     str +='<tr>';    str +='    <td align="center" height="15"><img src="/xxx/Compinfo.nsf/arrow.gif" width="3" height="6"></td>';    str +='    <td colspan="2" bgcolor="';    str += (category == 'Security+&+Privacy')?'#e6e6e6':'#ffffff';    str +='" height="20" ><a href="/xxx/Compinfo.nsf/Articles/Security+&+Privacy?opendocument&category=Security+&+Privacy" target=""  class="';    str += (category == 'Security+&+Privacy')?'txtNavigationLive':'txtNavigationNonLive';    str +='" size="1">Security & Privacy</a></td>';    str +='</tr>';    str +='<tr>';    str +='   <td ><img src="/xxx/Compinfo.nsf/spacer.gif" border="0" height="1" width="3"></td>';    str +='   <td colspan="2" ><img src="/xxx/Compinfo.nsf/border.gif" border="0" height="1" width="181"></td>';    str +='</tr>';;     str +='<tr>';    str +='    <td align="center" height="15"><img src="/xxx/Compinfo.nsf/arrow.gif" width="3" height="6"></td>';    str +='    <td colspan="2" bgcolor="';    str += (category == 'Pictures')?'#e6e6e6':'#ffffff';    str +='" height="20" ><a href="/xxx/news.nsf/picsdoc?readform&category=Home+Insurance" target=""  class="';    str += (category == 'Pictures')?'txtNavigationLive':'txtNavigationNonLive';    str +='" size="1">Pictures</a></td>';    str +='</tr>';    str +='<tr>';    str +='   <td ><img src="/xxx/Compinfo.nsf/spacer.gif" border="0" height="1" width="3"></td>';    str +='   <td colspan="2" ><img src="/xxx/Compinfo.nsf/border.gif" border="0" height="1" width="181"></td>';    str +='</tr>';;     str +='<tr>';    str +='    <td align="center" height="15"><img src="/xxx/Compinfo.nsf/arrow.gif" width="3" height="6"></td>';    str +='    <td colspan="2" bgcolor="';    str += (category == 'Contact+us')?'#e6e6e6':'#ffffff';    str +='" height="20" ><a href="/xxx/Compinfo.nsf/Articles/Contact+us?opendocument&category=Contact+us" target=""  class="';    str += (category == 'Contact+us')?'txtNavigationLive':'txtNavigationNonLive';    str +='" size="1">Contact us</a></td>';    str +='</tr>';    str +='<tr>';    str +='   <td ><img src="/xxx/Compinfo.nsf/spacer.gif" border="0" height="1" width="3"></td>';    str +='   <td colspan="2" ><img src="/xxx/Compinfo.nsf/border.gif" border="0" height="1" width="181"></td>';    str +='</tr>';
-    <!-- blank (space) menu item -->
-    str +='<tr>';
-    str +='<td align="center" height="15"><img src="/xxx/compinfo.nsf/spacer.gif" width="3" height="6"></td>';
-    str +='<td colspan="2" bgcolor="#ffffff" height="20">&nbsp;</td>';
-    str +='</tr>';
-    str +='<tr>';
-    str +='<td width="10" ><img src="/xxx/compinfo.nsf/spacer.gif" alt="0" border="0" height="1" width="3"></td>';
-    str +='</tr>';
-  
-str += '</table>';
-document.write (str);
-<!-- End CDATA tag --></script><table cellspacing="0" cellpadding="0" border="0"><tbody><tr>    <td colspan="3"><img src="/xxx/compinfo.nsf/border.gif" border="0" height="1" width="191"></td></tr><tr>    <td align="center" height="15"><img src="/xxx/compinfo.nsf/arrow.gif" width="3" height="6"></td>    <td colspan="2" bgcolor="#ffffff" height="20"><a href="/xxx/compinfo.nsf/Articles/Welcome?opendocument&amp;category=Welcome" target="_self" class="txtNavigationNonLive" size="1">About Us</a></td></tr><tr>   <td><img src="/xxx/compinfo.nsf/spacer.gif" alt="0" border="0" height="1" width="3"></td>   <td colspan="2"><img src="/xxx/compinfo.nsf/border.gif" border="0" height="1" width="181"></td></tr><tr>    <td align="center" height="15"><img src="/xxx/Compinfo.nsf/arrow.gif" width="3" height="6"></td>    <td colspan="2" bgcolor="#ffffff" height="20"><a href="/xxx/Compinfo.nsf/Articles/Phone+Directory?opendocument&amp;category=Phone+Directory" target="" class="txtNavigationNonLive" size="1">Phone Directory</a></td></tr><tr>   <td><img src="/xxx/Compinfo.nsf/spacer.gif" border="0" height="1" width="3"></td>   <td colspan="2"><img src="/xxx/Compinfo.nsf/border.gif" border="0" height="1" width="181"></td></tr><tr>    <td align="center" height="15"><img src="/xxx/Compinfo.nsf/arrow.gif" width="3" height="6"></td>    <td colspan="2" bgcolor="#ffffff" height="20"><a href="/xxx/Compinfo.nsf/Articles/History?opendocument&amp;category=History" target="" class="txtNavigationNonLive" size="1">History</a></td></tr><tr>   <td><img src="/xxx/Compinfo.nsf/spacer.gif" border="0" height="1" width="3"></td>   <td colspan="2"><img src="/xxx/Compinfo.nsf/border.gif" border="0" height="1" width="181"></td></tr><tr>    <td align="center" height="15"><img src="/xxx/Compinfo.nsf/arrow.gif" width="3" height="6"></td>    <td colspan="2" bgcolor="#ffffff" height="20"><a href="../../HRInfo.nsf/Articles/Introduction?opendocument&amp;category=Introduction" target="" class="txtNavigationNonLive" size="1">Working for Direct Line</a></td></tr><tr>   <td><img src="/xxx/Compinfo.nsf/spacer.gif" border="0" height="1" width="3"></td>   <td colspan="2"><img src="/xxx/Compinfo.nsf/border.gif" border="0" height="1" width="181"></td></tr><tr>    <td align="center" height="15"><img src="/xxx/Compinfo.nsf/arrow.gif" width="3" height="6"></td>    <td colspan="2" bgcolor="#ffffff" height="20"><a href="/xxx/news.nsf/IICHeadline/current?opendocument&amp;category=current+headline" target="" class="txtNavigationNonLive" size="1">In the news</a></td></tr><tr>   <td><img src="/xxx/Compinfo.nsf/spacer.gif" border="0" height="1" width="3"></td>   <td colspan="2"><img src="/xxx/Compinfo.nsf/border.gif" border="0" height="1" width="181"></td></tr><tr>    <td align="center" height="15"><img src="/xxx/Compinfo.nsf/arrow.gif" width="3" height="6"></td>    <td colspan="2" bgcolor="#ffffff" height="20"><a href="http://www.investors.rbs.com/investor_relations/webcasts.cfm" target="" class="txtNavigationNonLive" size="1">Analyst Conference</a></td></tr><tr>   <td><img src="/xxx/Compinfo.nsf/spacer.gif" border="0" height="1" width="3"></td>   <td colspan="2"><img src="/xxx/Compinfo.nsf/border.gif" border="0" height="1" width="181"></td></tr><tr>    <td align="center" height="15"><img src="/xxx/Compinfo.nsf/arrow.gif" width="3" height="6"></td>    <td colspan="2" bgcolor="#ffffff" height="20"><a href="/xxx/Compinfo.nsf/Articles/In+the+community?opendocument&amp;category=In+the+community" target="" class="txtNavigationNonLive" size="1">In the community</a></td></tr><tr>   <td><img src="/xxx/Compinfo.nsf/spacer.gif" border="0" height="1" width="3"></td>   <td colspan="2"><img src="/xxx/Compinfo.nsf/border.gif" border="0" height="1" width="181"></td></tr><tr>    <td align="center" height="15"><img src="/xxx/Compinfo.nsf/arrow.gif" width="3" height="6"></td>    <td colspan="2" bgcolor="#ffffff" height="20"><a href="/xxx/news.nsf/FactsLkup/Financial+Results?open&amp;category=Financial+Results" target="" class="txtNavigationNonLive" size="1">Facts &amp; Figures</a></td></tr><tr>   <td><img src="/xxx/Compinfo.nsf/spacer.gif" border="0" height="1" width="3"></td>   <td colspan="2"><img src="/xxx/Compinfo.nsf/border.gif" border="0" height="1" width="181"></td></tr><tr>    <td align="center" height="15"><img src="/xxx/Compinfo.nsf/arrow.gif" width="3" height="6"></td>    <td colspan="2" bgcolor="#ffffff" height="20"><a href="/xxx/Compinfo.nsf/Articles/Website+Terms+of+Use?opendocument&amp;category=Website+Terms+of+Use" target="" class="txtNavigationNonLive" size="1">Website Terms of Use</a></td></tr><tr>   <td><img src="/xxx/Compinfo.nsf/spacer.gif" border="0" height="1" width="3"></td>   <td colspan="2"><img src="/xxx/Compinfo.nsf/border.gif" border="0" height="1" width="181"></td></tr><tr>    <td align="center" height="15"><img src="/xxx/Compinfo.nsf/arrow.gif" width="3" height="6"></td>    <td colspan="2" bgcolor="#ffffff" height="20"><a href="/xxx/Compinfo.nsf/Articles/Technical+Information?opendocument&amp;category=Technical+Information" target="" class="txtNavigationNonLive" size="1">Technical Information</a></td></tr><tr>   <td><img src="/xxx/Compinfo.nsf/spacer.gif" border="0" height="1" width="3"></td>   <td colspan="2"><img src="/xxx/Compinfo.nsf/border.gif" border="0" height="1" width="181"></td></tr><tr>    <td align="center" height="15"><img src="/xxx/Compinfo.nsf/arrow.gif" width="3" height="6"></td>    <td colspan="2" bgcolor="#ffffff" height="20"><a href="/xxx/Compinfo.nsf/Articles/Security+&amp;+Privacy?opendocument&amp;category=Security+&amp;+Privacy" target="" class="txtNavigationNonLive" size="1">Security &amp; Privacy</a></td></tr><tr>   <td><img src="/xxx/Compinfo.nsf/spacer.gif" border="0" height="1" width="3"></td>   <td colspan="2"><img src="/xxx/Compinfo.nsf/border.gif" border="0" height="1" width="181"></td></tr><tr>    <td align="center" height="15"><img src="/xxx/Compinfo.nsf/arrow.gif" width="3" height="6"></td>    <td colspan="2" bgcolor="#ffffff" height="20"><a href="/xxx/news.nsf/picsdoc?readform&amp;category=Home+Insurance" target="" class="txtNavigationNonLive" size="1">Pictures</a></td></tr><tr>   <td><img src="/xxx/Compinfo.nsf/spacer.gif" border="0" height="1" width="3"></td>   <td colspan="2"><img src="/xxx/Compinfo.nsf/border.gif" border="0" height="1" width="181"></td></tr><tr>    <td align="center" height="15"><img src="/xxx/Compinfo.nsf/arrow.gif" width="3" height="6"></td>    <td colspan="2" bgcolor="#ffffff" height="20"><a href="/xxx/Compinfo.nsf/Articles/Contact+us?opendocument&amp;category=Contact+us" target="" class="txtNavigationNonLive" size="1">Contact us</a></td></tr><tr>   <td><img src="/xxx/Compinfo.nsf/spacer.gif" border="0" height="1" width="3"></td>   <td colspan="2"><img src="/xxx/Compinfo.nsf/border.gif" border="0" height="1" width="181"></td></tr><tr><td align="center" height="15"><img src="/xxx/compinfo.nsf/spacer.gif" width="3" height="6"></td><td colspan="2" bgcolor="#ffffff" height="20">&nbsp;</td></tr><tr><td width="10"><img src="/xxx/compinfo.nsf/spacer.gif" alt="0" border="0" height="1" width="3"></td></tr></tbody></table>
-</td>
-        </tr>
-      </tbody></table></td>
-    <td valign="top" align="left" width="13"><img src="/xxx/compinfo.nsf/border.gif" align="left" width="1" height="100%" vspace="0" hspace="0"></td>
-    <td valign="top" align="left">
-      <table width="470" border="0" cellspacing="0" cellpadding="0" align="left">
-        <tbody><tr>
-          <td valign="bottom"><img src="/xxx/compinfo.nsf/border.gif" width="470" height="1"></td>       
+                  
+          <td valign="top" align="left" rowspan="6"><img src="/staticpages/images/common/spacer.gif" height="1" width="12" alt=""></td>
+          <td valign="bottom"><img src="/staticpages/images/common/border.gif" width="508" height="1" alt=""></td>
         </tr>
         <tr>
-          <td align="right" bgcolor="e6e6e6">
-            <img src="/icons/ecblank.gif" width="150" height="28">
-          </td>
+          <td align="right" style="background-color:#e6e6e6;">
+            
+              <img src="/staticpages/images/common/spacer.gif" height="28" width="1" alt="">
+            
+          </td> 
         </tr>
         <tr>
-           <td valign="bottom"><img src="/xxx/compinfo.nsf/border.gif" width="470" height="1"></td>       
+           <td valign="bottom"><img src="/staticpages/images/common/border.gif" width="508" height="1" alt=""></td>
         </tr>
+        <tr><td>
+            <table cellspacing="0" cellpadding="0" border="0">
+            <tbody><tr><td><table cellspacing="0" cellpadding="0" border="0">
         
-            <tr>
-              <td>
-                <p><span class="txtGenSmallNine"></span></p><p><span class="txtGenSmallNine"><br><b><font face="Verdana">DIRECT LINE GROUP WEBSITE PRIVACY STATEMENT</font></b>
-</span></p><p><b><font face="Verdana">HOW YOUR PERSONAL INFORMATION IS USED</font></b><br>
-<br>
-<font face="Verdana"><a href="#Introduction">Introduction</a><br></font>
-<a href="#Collection of Information">Collection of Information</a><br>
-<a href="#Exchange of Information">Exchange of Information</a><br>
-<a href="#Fraud Prevention and Detection">Fraud Prevention and Detection</a><br>
-<a href="#Claims and Underwriting Exchange Register">Claims and Underwriting Exchange Register</a><br>
-<a href="#Motor Insurance Database">Motor Insurance Database</a><br>
-<a href="#Credit Reference Agencies">Credit Reference Agencies</a><br>
-<a href="#Use of personal information for marketing purposes">Use of personal information for marketing purposes</a><br>
-<a href="#Dealing with other people">Dealing with other people</a><br>
-<a href="#Automatic Renewals">Automatic Renewals</a><br>
-<a href="#Sensitive Information">Sensitive Information</a><br>
-<a href="#Cookies">Cookies</a><br>
-<a href="#Rejecting Cookies">Rejecting Cookies</a><br>
-<a href="#Data Storage Security">Data Storage Security</a><br>
-<a href="#Log In Security">Log In Security</a><br>
-<a href="#Call monitoring and recording">Call monitoring and recording</a><br>
-<a href="#Further information">Further information</a><br><br>
-<br>
-<font face="Verdana"><a name="Introduction" class="txtGenSmallNine"><b>Introduction</b></a></font><br>
-<br>
-<font face="Verdana">This privacy statement outlines how your personal information will be used and sets out some of the security measures taken in order to protect your privacy.</font><br>
-<br>
-<font face="Verdana">The names and details of the companies that offer services through this Direct Line website (the "</font><b><font face="Verdana">Site</font></b><font face="Verdana">") are set out in the </font><a href="/xxx/compinfo.nsf/00000000000000000000000000000000/638011afef50b0c880256e2b005411cc?OpenDocument"><b><font face="Verdana">Conditions of Use</font></b></a><font face="Verdana">.</font><font face="Verdana"> Those companies are collectively referred to in this statement as "</font><b><font face="Verdana">Direct Line</font></b><font face="Verdana">", "</font><b><font face="Verdana">we</font></b><font face="Verdana">" or "</font><b><font face="Verdana">us</font></b><font face="Verdana">". All Direct Line companies are subsidiaries of The Royal Bank of Scotland Group plc ("</font><b><font face="Verdana">RBS</font></b><font face="Verdana">"). Companies within the RBS group are collectively referred to in this notice as "</font><b><font face="Verdana">RBS Group</font></b><font face="Verdana">".</font><br>
-<br>
-<font face="Verdana">Your "</font><b><font face="Verdana">personal information</font></b><font face="Verdana">" means any information that we have obtained from you or third parties in connection with a service or product provided to you that is held now or at any time in the future by us or the RBS Group.</font><br>
-<br>
-<font face="Verdana">Direct Line and the RBS Group as a whole take your privacy very seriously and promise to respect your personal information. Please read this privacy statement to see how we and the RBS Group will treat any personal information that is provided to us via the telephone, in writing or via use of this Site.</font><br>
-<br>
-<b><font face="Verdana">Please note that this is a general statement on how personal information is used by Direct Line and the RBS Group.</font></b><br>
-<br>
-<b><font face="Verdana">If you purchase a particular product or service you will receive a hard copy of a specific privacy statement that is relevant to that product or service. That statement will be enclosed in product documentation sent to you and is entitled "What we do with your information". It is also available on line and is accessible via the home page for each particular product. In the event of conflict between the terms of this privacy statement and the terms of the specific privacy statement that applies to a particular product then the terms of the latter shall prevail.</font></b><br>
-<br>
-<font face="Verdana">You should show this document to anyone else who is covered by, or a party to, any policies or services that you purchase from us. We may change this privacy statement from time to time. Any changes will take effect once the revised privacy statement is available on the Site. </font><br>
-<a href="javascript: window.scrollTo(0,0)"><b>Back to top</b></a><br>
-<br>
-<font face="Verdana"><a name="Collection of Information" class="txtGenSmallNine"><b>Collection of Information</b></a></font><br>
-<br>
-<font face="Verdana">Information is collected lawfully and in accordance with the Data Protection Act 1998 (as amended and updated from time to time). We may collect personal information directly from you when you ask for a quote or as a result of the purchase of a product or service from us. We will do our best to ensure that your details are accurate and kept up to date and we would ask you to assist us in doing so by notifying us of any changes to your personal information.</font><br>
-<br>
-<font face="Verdana">We are constantly striving to improve the quality of our service and the efficiency of our systems and so, from time to time we may use your personal information that you give us to help us to do this.</font><br>
-<a href="javascript: window.scrollTo(0,0)"><b>Back to top</b></a><br>
-<br>
-<font face="Verdana"><a name="Exchange of Information" class="txtGenSmallNine"><b>Exchange of Information</b></a></font><br>
-<br>
-<font face="Verdana">We exchange personal information with other approved organisations for underwriting and fraud prevention purposes and we may provide such information to others where required or permitted by law.</font><br>
-<br>
-<font face="Verdana">We and other companies in the RBS Group will use and analyse your personal information for the following purposes:- </font><br>
-<font face="Verdana">-	</font><font face="Verdana">managing and administering products and services that are supplied. In the case of insurance products this will include underwriting reinsurance and claims handling purposes and this may include disclosing it to other insurers, reinsurers, regulatory authorities or to our agents who provide services on our behalf;</font><br>
-<font face="Verdana">-	</font><font face="Verdana">considering any applications for products you may make and to help in making credit-related decisions about you where appropriate;</font><br>
-<font face="Verdana">-	</font><font face="Verdana">servicing other relationships you may have within the RBS Group;</font><br>
-<font face="Verdana">-	</font><font face="Verdana">financial risk assessment, money laundering checks, compliance and regulatory reporting and fraud prevention;</font><br>
-<font face="Verdana">-	</font><font face="Verdana">assisting in making decisions on insurance proposals, other products and any claim made by you, members of your household, and others connected with your insurance proposals and claims; and</font><br>
-<font face="Verdana">-	</font><font face="Verdana">helping us and RBS Group to understand and develop new and innovative products and services.</font><br>
-<br>
-<font face="Verdana">Your personal information will only be disclosed to third parties outside of the RBS Group if:-</font><br>
-<font face="Verdana">-	</font><font face="Verdana">it is necessary for the performance of your agreement with us; or</font><br>
-<font face="Verdana">-	</font><font face="Verdana">you have given your consent; or</font><br>
-<font face="Verdana">-	</font><font face="Verdana">such disclosure is required or permitted by law; or</font><br>
-<font face="Verdana">-	</font><font face="Verdana">we are entitled to transfer rights and/or obligations as provided under the terms of any policy you may purchase; or</font><br>
-<font face="Verdana">-	</font><font face="Verdana">any such third party provides benefits or services to you under or in connection with our agreement with you; or</font><br>
-<font face="Verdana">-	</font><font face="Verdana">it is a credit reference agency or fraud prevention agency; and</font><br>
-<br>
-<font face="Verdana">any such third party has agreed to keep your personal information strictly confidential and use it for the purpose for which we provide it to them.</font><br>
-<br>
-<font face="Verdana">In future the way in which your personal information is viewed, recorded and used may change. In most cases these changes will result from enhancements in technology. Where we believe the changes may be to your disadvantage, we will give you at least 30 days notice of them by writing to you and also  posting notice of such an amendment on this website. If you continue to use a product or service for a further 60 days after notification, we will consider that you have consented to that change (unless you write to us to inform us otherwise).</font><br>
-<a href="javascript: window.scrollTo(0,0)"><b>Back to top</b></a><br>
-<br>
-<font face="Verdana"><a name="Fraud Prevention and Detection" class="txtGenSmallNine"><b>Fraud Prevention and Detection</b></a></font><br>
-<br>
-<font face="Verdana">In order to prevent and detect fraud we may at any time:-</font><br>
-<font face="Verdana">-	</font><font face="Verdana">share personal information about you across the RBS Group and with other insurers or financial institutions;</font><br>
-<font face="Verdana">-	</font><font face="Verdana">pass your details to Insurance Hunter, a central insurance application and claims checking system, whereby it may be checked against information held by Insurance Hunter and shared with other insurers; and</font><br>
-<font face="Verdana">-	</font><font face="Verdana">check your details with fraud prevention agencies. If you give us false or inaccurate information and we suspect fraud, we will record this and pass this information to fraud prevention agencies.</font><br>
-<br>
-<font face="Verdana">We and other organisations may also search and use fraud prevention and credit reference agency records to:-</font><br>
-<font face="Verdana">-	help make decisions about credit and credit related services for you and members of your household;</font><br>
-<font face="Verdana">-	help make decisions  in connection to insurance proposals, insurance claims and other products for you and members of your household;</font><br>
-<font face="Verdana">-	trace debtors, recover debt, prevent fraud and to manage your insurance policies;</font><br>
-<font face="Verdana">-	check your identity to prevent money laundering, unless you furnish us with other satisfactory proof of identity; or</font><br>
-<font face="Verdana">-	undertake credit searches and additional fraud searches.</font><br>
-<a href="javascript: window.scrollTo(0,0)"><b>Back to top</b></a><br>
-<br>
-<font face="Verdana"><a name="Claims and Underwriting Exchange Register" class="txtGenSmallNine"><b>Claims and Underwriting Exchange Register</b></a></font><br>
-<br>
-<font face="Verdana">We and other insurers pass information to the Claims and Underwriting Exchange Register run by Insurance Database Services Limited. In the case of motor and rescue policyholders we also pass information to the Motor Insurance Anti-Fraud and Theft Register run by the Association of British Insurers. The aim of such exchange is to help to check information that has been provided and also to prevent fraudulent claims. When dealing with a request for insurance we may search these registers. </font><br>
-<br>
-<font face="Verdana">If you take out a relevant policy you are required under the policy terms to tell us about any incident (such as an accident or theft) which may or may not give rise to a claim. When you tell us about an incident, we will pass information relating to it to these registers.</font><br>
-<a href="javascript: window.scrollTo(0,0)"><b>Back to top</b></a><br>
-<br>
-<font face="Verdana"><a name="Motor Insurance Database" class="txtGenSmallNine"><b>Motor Insurance Database</b></a></font><br>
-<br>
-<font face="Verdana">For customers who have taken out a motor insurance policy, your policy details will be added to the Motor Insurance Database ("</font><b><font face="Verdana">MID</font></b><font face="Verdana">"), run by the Motor Insurers' Information Centre ("</font><b><font face="Verdana">MIIC</font></b><font face="Verdana">"). MID data may be used by the Driver and Vehicle Licensing Agency and DVLNI for the purpose of Electronic Vehicle Licensing and by the Police for the purposes of establishing whether a driver's use of the vehicle is likely to be covered by a motor insurance policy and/or for preventing and detecting crime. If you are involved in an accident (in the UK or abroad), other UK insurers, the Motor Insurers' Bureau and MIIC may search the MID to obtain relevant policy information.</font><br>
-<br>
-<font face="Verdana">Persons pursuing a claim in respect of a road traffic accident (including citizens of other countries) may also obtain relevant information which is held on the MID. You can find out more about this from us, or at www.miic.org.uk</font><br>
-<a href="javascript: window.scrollTo(0,0)"><b>Back to top</b></a><br>
-<br>
-<font face="Verdana"><a name="Credit Reference Agencies" class="txtGenSmallNine"><b>Credit Reference Agencies</b></a></font><br>
-<br>
-<font face="Verdana">In processing any application you may make for credit, we may contact credit reference agencies who will record any such enquiry. They may supply us with credit information, including information from the electoral register. If you take out a loan, we will give details of your account and how you manage it to credit reference agencies. If you do not repay in full and on time, we may tell credit reference agencies who will make a record of any outstanding debt.</font><br>
-<br>
-<font face="Verdana">If you or other members of your household, apply for credit, insurance, or other financial services then we, the RBS Group, other lenders and other insurance companies may use search records and any other information provided to credit reference agencies for occasional debt tracing, claims assessment and fraud prevention purposes. The RBS Group, the credit reference agencies and fraud prevention agencies will also use the records for statistical analysis.</font><br>
-<br>
-<font face="Verdana">Please note that we do not hold a copy of your credit reference records. You have a right of access to your personal records that are held by such credit reference agencies and we can supply the names and addresses of the agencies used on request. </font><br>
-<br>
-<font face="Verdana">An association between joint applicants and/or any individual identified as your financial partner will be created at credit reference agencies, which will link your financial records. You and anyone else with whom you have a financial link understand and agree that each other's information will be taken into account in future applications by either or both of you. This linking will continue until one of you successfully files a 'disassociation' with credit reference agencies.</font><br>
-<a href="javascript: window.scrollTo(0,0)"><b>Back to top</b></a><br>
-<br>
-<font face="Verdana"><a name="Use of personal information for marketing purposes" class="txtGenSmallNine"><b>Use of personal information for marketing purposes</b></a></font><br>
-<br>
-<font face="Verdana">Unless you have informed us to the contrary, personal information held maybe used by us or the RBS Group to carry out research and to inform you by letter or telephone of other products we or the RBS Group believe may interest you. </font><br>
-<br>
-<font face="Verdana">Please be assured that we will not make your personal details available to any companies outside the RBS Group to use for their own marketing purposes.</font><br>
-<br>
-<font face="Verdana">We may also contact you by e-mail or other electronic media to notify you of other products we believe may interest you. We shall only do so however if you have provided your consent to such contact. If you are contacted by such means in future we shall on each occasion ensure you will always be given the option to opt out of any further such communication.</font><br>
-<br>
-<font face="Verdana">If you have provided your contact information to us and would prefer not to receive marketing information or to participate in research, simply tell us next time you call. Alternatively, change your selection within the settings in "My Direct Line" or when you next obtain a quote online.</font><br>
-<a href="javascript: window.scrollTo(0,0)"><b>Back to top</b></a><br>
-<br>
-<font face="Verdana"><a name="Dealing with other people" class="txtGenSmallNine"><b>Dealing with other people</b></a></font><br>
-<br>
-<font face="Verdana">At the request of many of our insurance policyholders and to make the managing your policy more convenient, it is our policy to deal with a policyholder's spouse or partner (if named on the policy where applicable) who calls on behalf.</font><br>
-<br>
-<font face="Verdana">If you would like someone else to be able to deal with your policy for you on a regular basis please let us know. In some exceptional circumstances we may also deal with other people who call us on your behalf. If at any time you would prefer us to deal only with you, please call to let us know.</font><br>
-<br>
-<font face="Verdana">Please note that we will not reveal any credit or debit card numbers that we hold to anyone other than the policyholder.</font><br>
-<a href="javascript: window.scrollTo(0,0)"><b>Back to top</b></a><br>
-<br>
-<font face="Verdana"><a name="Automatic Renewals" class="txtGenSmallNine"><b>Automatic Renewals</b></a></font><br>
-<br>
-<font face="Verdana">For customers who have taken out an insurance policy and who have taken advantage of our automatic renewal service we will retain your payment details in order to continue to deduct premiums when your policy in renewed.</font><br>
-<a href="javascript: window.scrollTo(0,0)"><b>Back to top</b></a><br>
-<br>
-<font face="Verdana"><a name="Sensitive Information" class="txtGenSmallNine"><b>Sensitive Information</b></a></font><br>
-<br>
-<font face="Verdana">In order to provide you with some of our products we may need to process sensitive information (such as information about health such as physical or mental health information or criminal convictions) about you and others who may be a party to the product or service purchased. We will not use sensitive personal data about you or others except for the specific purpose for which you provide it and to provide the services described in your policy. Please ensure that you only provide us with sensitive information about other people with their agreement.</font><br>
-<a href="javascript: window.scrollTo(0,0)"><b>Back to top</b></a><br>
-<br>
-<font face="Verdana"><a name="Cookies" class="txtGenSmallNine"><b>Cookies</b></a></font><br>
-<br>
-<font face="Verdana">A cookie identifies your computer to a server that then enables information to be stored on the hard drive of your computer. Cookies allow a computer to be identified as corresponding to one that has accessed another website or visited Site previously. Cookies are commonly used on the Internet and do not harm your computer system.</font><br>
-<br>
-<font face="Verdana">The cookies used on the Site do not include any information that others could read and understand about you, such as your name, or any account or policy number. They contain no personal information about you.</font><br>
-<br>
-<font face="Verdana">We currently use a combination of first and third party cookies in the following ways: </font><br>
-</p><ul><li><font face="Verdana">To facilitate your ability to navigate through the Site.</font></li><li><font face="Verdana">To collate anonymous aggregated information that is used to manage and plan enhancements to our services. For example, cookies help us to understand the popular paths that users take through the Site and how often it is visited. </font></li><li><font face="Verdana">To evaluate the effectiveness of our advertising and promotions on third party websites by tracking whether these advertisements are clicked on by users. We use third party agents to assist in providing information on promotion delivery. We own and control the use of all data collected and it is not shared with any other third party. All data collected is anonymous and non-personal.</font></li><li><font face="Verdana">As a flag to help us recognise when we have already asked you to participate in any on-line market research and to prevent you from being asked to complete the same questionnaire every time that you visit the Site while any particular research work is being carried out.</font></li></ul><br>
-<br>
-<font face="Verdana">Please note that we do not use third party tracking cookies in any respect.</font><br>
-<a href="javascript: window.scrollTo(0,0)"><b>Back to top</b></a><br>
-<br>
-<font face="Verdana"><a name="Rejecting Cookies" class="txtGenSmallNine"><b>Rejecting Cookies</b></a> </font><br>
-<br>
-<font face="Verdana">If you do not want us to use cookies when you visit the Site, you can configure your browser not to accept them or opt-out. Please refer to your browser's 'help' facility.</font><br>
-<br>
-<font face="Verdana">If you choose to reject cookies once you have logged onto the Site, but after a cookie has already been sent you can do so. If you delete certain cookies however, you may experience difficulties in navigation of the Site.</font><br>
-<br>
-<font face="Verdana">By deleting cookies, information collected to date becomes redundant. We will still hold the information about the cookie on our system. However, we will not be able to identify your computer as its former holder the next time you visit the Site. The information we hold about that cookie becomes completely unidentifiable as soon as you have deleted it from your computer.</font><br>
-<br>
-<font face="Verdana">For more information on cookies and deletion of cookies please see </font><a href="http://www.allaboutcookies.org/manage-cookies/"><b><font face="Verdana">http://www.allaboutcookies.org/manage-cookies/</font></b></a><br>
-<a href="javascript: window.scrollTo(0,0)"><b>Back to top</b></a><br>
-<br>
-<font face="Verdana"><a name="Data Storage Security" class="txtGenSmallNine"><b>Data Storage Security</b></a></font><br>
-<a onclick="window.open(&quot;https://digitalid.verisign.com/as2/d5a1abe56e82863adcdfe787a8bb5d7b&quot;)
-// the number is the Issuer Digest number when you do a search in VeriSign site for uk.directline.com
-return false;" href=""></a><br>
-<font face="Verdana">Any personal information saved is held safely on our mainframe computer, with security systems preventing unauthorised access and we always ensure it is treated confidentially.</font><br>
-<br>
-<font face="Verdana">We take security very seriously and we use one of the strongest available security systems to protect your communications with us. Whenever you fill in an online form, such as a request for a quote, it is automatically protected using something called a Secure Socket Layer (SSL) between your computer and ours. SSL works in the following ways:</font><br>
-<br>
-<font face="Verdana">It prevents impersonation - you can tell that you are using a genuine SSL site by the padlock symbol at the bottom of the screen. Clicking on either the padlock or the image below will reveal our Registration Certificate that is issued by Verisign, a leading Internet security company.</font><br>
-<a onclick="window.open(&quot;https://digitalid.verisign.com/cgi-bin/Xquery.exe?Template=authCertByIssuer&amp;form_file=../fdf/authCertByIssuer.fdf&amp;issuerSerial=a673a64acff40fb7cd6e3da67e96fc4d&quot;)
-// the number is the Issuer Digest number when you do a search in VeriSign site for uk.directline.com
-return false;" href=""><img src="/xxx/compinfo.nsf/2146195533eb330500256a80003b0ff6/42a0853adb0ca10b80256e2b005411cd/Details/0.5BCA?OpenElement&amp;FieldElemFormat=gif" width="98" height="102" border="0"></a><br>
-<br>
-<font face="Verdana">It encrypts data - as soon as your computer has recognised our computer they encrypt all information that is passed between them. Data encryption means that no one else can read or change your information as it travels over the Internet.</font><br>
-<br>
-<font face="Verdana">It prevents scrambling - SSL uses a Message Authentication Code (MAC) to prevent anyone tampering with our Internet site. Your computer will always check this code before it takes a message from us. This means that if anyone tried to interfere with a message, your computer would not recognise the code and would alert you.</font><br>
-<br>
-<font face="Verdana">We are aware that there are two minor problems with Microsoft Internet Explorer. Neither problem has any effect on the actual security in force on the Site, but may make it appear to you as if it is not fully secure.</font><br>
-<br>
-<font face="Verdana">Internet Explorer 4: The padlock symbol does not always appear at the bottom when it should. A full description of this error, number Q154621, is at </font><a href="http://www.support.microsoft.com/support/kb/articles/Q154/6/21.asp"><b><font face="Verdana">http://www.support.microsoft.com/support/kb/articles/Q154/6/21.asp</font></b></a><br>
-<br>
-<font face="Verdana">Internet Explorer 5: If you click on the padlock symbol to view the security certificate the following message may be displayed: "This certificate has failed to verify for all of its intended purposes". The other details of the certificate shown are correct. A full description of this error, number Q233479, is at </font><a href="www.support.microsoft.com/support/kb/articles/Q233/4/79.asp"><b><font face="Verdana">http://www.support.microsoft.com/support/kb/articles/Q233/4/79.asp</font></b></a><br>
-<a href="javascript: window.scrollTo(0,0)"><b>Back to top</b></a><br>
-<br>
-<font face="Verdana"><a name="Log In Security" class="txtGenSmallNine"><b>Log In Security</b></a></font><br>
-<br>
-<font face="Verdana">We would like to remind you to keep any log in details and passwords you have secure at all times.  Security details should only be entered on our secure website.  We may use e-mail to direct you to a secure log in page on our Site or, where consent is given, to inform you of other products, but we will never ask you to reveal or send your security details to us via email.  </font><br>
-<br>
-<font face="Verdana">Please be on your guard for suspicious e-mails. If you do receive an email asking you to submit account or security details (such as a credit card number, password or PIN number) or if you are suspicious in any way of any communication you are asked to provide over the internet in connection with Direct Line please contact us by phone on 0845 300 5988 if your call relates to Financial Services or on 0208 313 5861 if it relates to an insurance product.</font><br>
-<a href="javascript: window.scrollTo(0,0)"><b>Back to top</b></a><br>
-<br>
-<font face="Verdana"><a name="Call monitoring and recording" class="txtGenSmallNine"><b>Call monitoring and recording</b></a></font><br>
-<br>
-<font face="Verdana">We record telephone calls for monitoring and training purposes and to assist us in preventing and detecting fraud.</font><br>
-<a href="javascript: window.scrollTo(0,0)"><b>Back to top</b></a><br>
-<br>
-<font face="Verdana"><a name="Further information" class="txtGenSmallNine"><b>Further information</b></a></font><br>
-<br>
-<font face="Verdana">You are entitled on payment of a fee of £10 to receive a copy of the personal information we hold about you. If you would like more information about the personal information we hold about you please contact the Data Protection Officer. The address details are set out in the "What we do with your information" section of the terms and conditions for each particular product.</font><br>
-<br>
-<font face="Verdana">If you require further information about the contents of this privacy policy please write to the Data Protection Officer at 3 Edridge Road, Croydon, Surrey CR9 IAG.</font><br>
-<br>
-<br>
-<font face="Verdana">Last updated : December 2003</font><br>
-<a href="javascript: window.scrollTo(0,0)"><b>Back to top</b></a><p>
-              </p></td>
+        
+            <tbody><tr>
+              <td class="txtGenSmallNine"><p><br>
+</p>
+
+<h2>Direct Line Group Website Privacy Statement</h2>
+
+<br>
+<h3>How your&nbsp;personal information is used:</h3>
+
+<br>
+<a href="#sec1">Introduction</a><br>
+<a href="#sec2">Collection of Information</a><br>
+<a href="#sec3">How do we use your informatiom</a><br>
+<a href="#sec4">We do not disclose your information outside the group except:</a><br>
+<a href="#sec5">Credit reference and fraud prention agencies</a><br>
+<a href="#sec6">Keeping you informed</a><br>
+<a href="#sec7">Dealing with other people</a><br>
+<a href="#sec8">Automatic Renewals</a><br>
+<a href="#sec9">Sensitive Information</a><br>
+<a href="#sec10">Cookies</a><br>
+<a href="#sec11">Rejecting Cookies</a><br>
+<a href="#sec12">Data Storage Security</a><br>
+<a href="#sec13">Log In Security</a><br>
+<a href="#sec14">Call monitoring and recording</a><br>
+<a href="#sec15">Further Information</a><br>
+<h2>Intro<a name="sec1"></a>duction</h2>
+
+<br>
+This privacy statement outlines how your personal information will be used and sets out some of the security measures taken in order to protect your privacy. <br>
+<br>
+<p>The names and details of the companies that offer services through this Direct Line website (the "<strong>Site</strong>") are set out in the Conditions of Use. Those companies are collectively referred to in this statement as "<strong>Direct Line</strong>", "<strong>we</strong>" or "<strong>us</strong>". All Direct Line companies are subsidiaries of The Royal Bank of Scotland Group plc ("<strong>RBS</strong>"). Companies within the RBS group are collectively referred to in this notice as "<strong>RBS Group</strong>".</p>
+
+<p>Your "<strong>personal information</strong>" means any information that we have obtained from you or third parties in connection with a service or product provided to you that is held now or at any time in the future by us or the RBS Group.</p>
+
+<p>Direct Line and the RBS Group as a whole take your privacy very seriously and promise to respect your personal information. Please read this privacy statement to see how we and the RBS Group will treat any personal information that is provided to us via the telephone, in writing or via use of this Site.</p>
+
+<p><strong>Please note that this is a general statement on how personal information is used by Direct Line and the RBS Group.&nbsp;</strong> <strong>If you purchase a particular product or service you will receive a hard copy of a specific privacy statement that is relevant to that product or service. That statement will be enclosed in product documentation sent to you and is entitled "What we do with your information". It is also available on line and is accessible via the home page for each particular product. In the event of conflict between the terms of this privacy statement and the terms of the specific privacy statement that applies to a particular product then the terms of the latter shall prevail.</strong></p>
+
+<p>You should show this document to anyone else who is covered by, or a party to, any policies or services that you purchase from us. We may change this privacy statement from time to time. Any changes will take effect once the revised privacy statement is available on the Site.<br>
+<a href="#Top"><strong>Back to top</strong></a></p>
+
+<p></p>
+
+<h2><a name="sec2"></a>Collection of Information</h2>
+
+<br>
+Information is collected lawfully and in accordance with the Data Protection Act 1998 (as amended and updated from time to time). We may collect personal information directly from you when you ask for a quote or as a result of the purchase of a product or service from us. We will do our best to ensure that your details are accurate and kept up to date and we would ask you to assist us in doing so by notifying us of any changes to your personal information. <br>
+<br>
+<p>We are constantly striving to improve the quality of our service and the efficiency of our systems and so, from time to time we may use your personal information that you give us to help us to do this.<br>
+<a href="#Top"><strong>Back to top</strong></a></p>
+
+<p></p>
+
+<h2><a name="sec3"></a>How we use your information</h2>
+
+<p><br>
+We may use and share your imformation with other members of the group to help us, and then:</p>
+
+<ul>
+<li>assess financial and insurance risk;</li>
+
+<li>recover debt;</li>
+
+<li>develop customer relationships, services and systems; and</li>
+
+<li>prevent and detect crime.</li>
+</ul>
+
+<p><br>
+Your information includes information about your transactions.</p>
+
+<p>As our business and our relationships with you develop, the way in which we look at, record and use your Information may change.&nbsp; In most cases these changes will result from enhancements in technology and we believe, will be in line with your expectations.&nbsp; Where we believe the changes may not be obvious to you, we will give you notice of them.&nbsp; You are agreeing that by continuing to maintain your account, product, or service, for at least 60 days after we have notified you of a change, you will be consenting to that change (unless you write to us to tell us that you do not wish us to use your information in the new way).<br>
+<a href="#Top"><strong>Back to top</strong></a></p>
+
+<p></p>
+
+<h2><a name="sec4"></a>We do not disclose your information outside the Group except:</h2>
+
+<ul>
+<li>
+<div>where we have your permission to do so;</div>
+</li>
+
+<li>
+<div>where we have to do so, or are allowed to do so, by law;</div>
+</li>
+
+<li>
+<div>where other companies need the information to provide a service to us, or you; or</div>
+</li>
+
+<li>
+<div>where we can transfer rights and responsibilities under this agreement.<br>
+</div>
+</li>
+</ul>
+
+<p>In order to provide the services you have requested or may request from time to time, it may be neccessary for your Information to be transferred to someone who provides a service to us in other countries.&nbsp; If we do this we will ensure that anyone to whom we pass your Information agrees to treat it with the same level of protection as if we were dealing with it.&nbsp;&nbsp;<br>
+<a href="#Top"><strong>Back to top</strong></a></p>
+
+<p></p>
+
+<h2><a name="sec5"></a>Credit reference and fraud prevention agencies</h2>
+
+<p><br>
+An ‘association’ between the joint applicants and/or any individual identified as your financial partner, will be created at credit reference agencies, which will link your financial records. You and anyone else with whom you have a financial link understand that each other’s&nbsp; information will be taken into account in all future applications by either or both of you. This linking will continue until one of you successfully files a ‘disassociation’ at the credit reference agencies.</p>
+
+<p>We may make periodic searches of Group records, credit reference and fraud prevention agencies to manage your product with us, to take&nbsp;decisions regarding credit, including whether to make credit available or to continue to extend existing credit. The searches will not be seen or used by lenders to assess your ability to obtain credit.</p>
+
+<p>Where you borrow or may borrow from us, we may give details of your account and how you manage it to credit reference agencies. If you borrow and do not repay in full and on time, we may tell credit reference agencies who will record the outstanding debt.</p>
+
+<p>We will check your details with fraud prevention agencies.&nbsp; If you provide false or inaccurate information and we suspect fraud, we will record this.&nbsp; We and other organisations may use these records to:</p>
+
+<ul>
+<li>
+<div>help make decisions about credit and credit related services for you and&nbsp;members of your household;</div>
+</li>
+
+<li>
+<div>help make decisions on motor, household, credit, life and other insurance&nbsp;proposals and insurance claims, for you and members of your household;</div>
+</li>
+
+<li>
+<div>trace debtors, recover debt, prevent fraud, and manage your accounts or&nbsp;insurance policies;</div>
+</li>
+
+<li>
+<div>check your identity to prevent money laundering, unless you&nbsp;furnish us with satisfactory proof of identity.<br>
+</div>
+</li>
+</ul>
+
+<p>If you take out a relevant policy you are required under the policy terms to tell us about any incident (such as an accident or theft) which may or may not give rise to a claim. When you tell us about an incident, we will pass information relating to it to these registers.<br>
+<br>
+We are also required to supply motor insurance policy details to the Motor Insurance Database (MID) run by the Motor Insurer’s Information Centre (MIIC) to which the police, DVLA/DVLNI (Driver and Vehicle Licensing agencies) and other insurers have access.<br>
+<br>
+Persons pursuing a claim in respect of a road traffic accident (including citizens of other countries) may also obtain relevant information which is held on the MID. You can find out more about this from us, or at <a title="www.miic.org.uk" href="http://www.miic.org.uk/"><strong>www.miic.org.uk</strong></a>.</p>
+
+<p>If you or other members of your household apply for credit, insurance, or other financial services then we, the RBS Group, other lenders and other insurance companies may use search records and any other information provided to credit reference agencies for occasional debt tracing, claims assessment and fraud prevention purposes. The RBS Group, the credit reference agencies and fraud prevention agencies will also use the records for statistical analysis.<br>
+<br>
+Please note that we do not hold a copy of your credit reference records.<br>
+<br>
+An association between joint applicants and/or any individual identified as your financial partner will be created at credit reference agencies, which will link your financial records. You and anyone else with whom you have a financial link understand and agree that each other's information will be taken into account in future applications by either or both of you. This linking will continue until one of you successfully files a 'disassociation' with credit reference agencies.<br>
+<a href="#Top"><strong>Back to top</strong></a></p>
+
+<p></p>
+
+<h2><a name="sec6"></a>Keeping you informed</h2>
+
+<p><br>
+Unless you have informed us to the contrary, personal information held may be used by us or the RBS Group to carry out research and to inform you by letter or telephone of other products we or the RBS Group believe may interest you.<br>
+<br>
+We would like to tell you, by letter, phone or fax including automatic dialling, e-mail or other electronic means, about products and services which we believe would be of interest to you, and which are offered by us and other selected companies.&nbsp; If you would prefer not to receive marketing information or to participate in research, simply tell us next time you call.&nbsp; Please be assured that we will not make your personal details available to any companies outside the RBS Group to use for their own marketing purposes.&nbsp; Alternatively, change your selection within the settings in "My Direct Line" or when you next obtain a quote online.<br>
+<a href="#Top"><strong>Back to top</strong></a></p>
+
+<p></p>
+
+<h2><a name="sec7"></a>Dealing with other people</h2>
+
+<p><br>
+At the request of many of our insurance policyholders and to make the managing your policy more convenient, it is our policy to deal with a policyholder's&nbsp;spouse or partner (if named on the policy where applicable) who calls on behalf.<br>
+<br>
+If you would like someone else to be able to deal with your policy for you on a regular basis please let us know. In some exceptional circumstances we may also deal with other people who call us on your behalf, with your consent. If at any time you would prefer us to deal only with you, please call to let us know.&nbsp; Please note that we will not reveal any credit or debit card numbers that we hold to anyone other than the policyholder.<br>
+<a href="#Top"><strong>Back to top</strong></a></p>
+
+<p></p>
+
+<h2><a name="sec8"></a>Automatic Renewals</h2>
+
+<p><br>
+If you have taken advantage of our automatic renewal service we will retain your payment details in order to continue to deduct premiums when your policy is renewed.<br>
+<a href="#Top"><strong>Back to top</strong></a></p>
+
+<p></p>
+
+<h2><a name="sec9"></a>Sensitive Information</h2>
+
+<p><br>
+Some of the information we ask you for may be sensitive personal data, as defined by the Data Protection Act 1998 about you and others named on the insurance policy.&nbsp; We will not use such sensitive personal data about you or others except for the specific purpose for which you provided it and to provide the services described in your policy documents.&nbsp; Please ensure that you only provide us with sensitive information about other people with their agreement.<br>
+<a href="#Top"><strong>Back to top</strong></a></p>
+
+<p></p>
+
+<h2><a name="sec10"></a>Cookies</h2>
+
+<p><br>
+A cookie identifies your computer to a server that then enables information to be stored on the hard drive of your computer. Cookies allow a puter to be identified as corresponding to one that has accessed another website or visited Site previously. Cookies are commonly used on the Internet and do not harm your computer system.</p>
+
+<p>The cookies used on the Site do not include any information that others could read and understand about you, such as your name, or any account or policy number. They contain no personal information about you.<br>
+<br>
+We currently use a combination of first and third party cookies in the following ways:</p>
+
+<ul>
+<li>To facilitate your ability to navigate through the Site.</li>
+
+<li>To collate anonymous aggregated information that is used to manage and plan enhancements to our services. For example, cookies help us to understand the popular paths that users take through the Site and how often it is visited.</li>
+
+<li>To evaluate the effectiveness of our advertising and promotions on third party websites by tracking whether these advertisements are clicked on by users. We use third party agents to assist in providing information on promotion delivery.</li>
+
+<li>We own and control the use of all data collected and it is not shared with any other third party. All data collected is anonymous and non-personal.</li>
+
+<li>As a flag to help us recognise when we have already asked you to participate in any online market research and to prevent you from being asked to complete the same questionnaire every time that you visit the Site while any particular research work is being carried out.</li>
+</ul>
+
+<p>Please note that we do not use third party tracking cookies in any respect.<br>
+<a href="#Top"><strong>Back to top</strong></a></p>
+
+<p></p>
+
+<h2><a name="sec11"></a>Rejecting Cookies</h2>
+
+<p><br>
+If you do not want us to use cookies when you visit the Site, you can configure your browser not to accept them or opt-out.&nbsp; Please refer to your&nbsp;browser's 'help' facility.<br>
+<br>
+If you choose to reject cookies once you have logged onto the Site, but after a cookie has already been sent you can do so. If you delete certain cookies however, you may experience difficulties in navigation of the Site.<br>
+By deleting cookies, information collected to date becomes redundant. We will still hold the information about the cookie on our system. However, we will not be able to identify your computer as its former holder the next time you visit the Site.<br>
+The information we hold about that cookie becomes completely unidentifiable as soon as you have deleted it from your computer.&nbsp; For more information on cookies and deletion of cookies please see&nbsp;<a href="http://www.allaboutcookies.org/manage-cookies/" target="_blank"><strong>http://www.allaboutcookies.org/manage-cookies/</strong></a><br>
+<a href="#Top"><strong>Back to top</strong></a></p>
+
+<p></p>
+
+<h2><a name="sec12"></a>Data Storage Security</h2>
+
+<p><br>
+Any personal information saved is held safely on our mainframe computer, with security systems preventing unauthorised access and we always ensure it is treated confidentially.<br>
+<br>
+We take security very seriously and we use one of the strongest available security systems to protect your communications with us. Whenever you fill in an online form, such as a request for a quote, it is automatically protected using something called a Secure Socket Layer (SSL) between your computer and ours. SSL works in the following ways:</p>
+
+<p>It prevents impersonation - you can tell that you are using a genuine SSL site by the padlock symbol at the bottom of the screen. Clicking on either the padlock or the image below will reveal our Registration Certificate that is issued by Verisign, a leading Internet security company.</p>
+
+<p>Any personal information saved is held safely on our mainframe computer, with security systems preventing unauthorised access and we always ensure it is treated confidentially.<br>
+<br>
+We take security very seriously and we use one of the strongest available security systems to protect your communications with us. Whenever you fill in an online form, such as a request for a quote, it is automatically protected using something called a Secure Socket Layer (SSL) between your computer and ours. SSL works in the following ways:</p>
+
+<p>It prevents impersonation - you can tell that you are using a genuine SSL site by the padlock symbol at the bottom of the screen. Clicking on either the padlock or the image below will reveal our Registration Certificate that is issued by Verisign, a leading Internet security company.</p>
+
+<p><a href="https://digitalid.verisign.com/cgi-bin/Xquery.exe?Template=authCertByIssuer&amp;form_file=../fdf/authCertByIssuer.fdf&amp;issuerSerial=a673a64acff40fb7cd6e3da67e96fc4d" target="_blank"><img height="100" alt="Click here to verify this site - opens in new browser window" src="/generic/images_sp/VeriSignSeal_FFFFFF.gif" width="89" border="0"></a></p>
+
+<p>It encrypts data - as soon as your computer has recognised our computer they encrypt all information that is passed between them. Data encryption means that no one else can read or change your information as it travels over the Internet.</p>
+
+<p>It prevents scrambling - SSL uses a Message Authentication Code (MAC) to prevent anyone tampering with our Internet site. Your computer will always check this code before it takes a message from us. This means that if anyone tried to interfere with a message, your computer would not recognise the code and would alert you.</p>
+
+<p>We are aware that there are two minor problems with Microsoft Internet Explorer. Neither problem has any effect on the actual security in force on the Site, but may make it appear to you as if it is not fully secure.</p>
+
+<p>Internet Explorer 4: The padlock symbol does not always appear at the bottom when it should. A full description of this error, number Q154621, is available at&nbsp;<a href="http://www.support.microsoft.com/support/kb/articles/Q154/6/21.asp" target="_blank"><strong>http://www.support.microsoft.com/support/kb/articles/Q154/6/21.asp</strong></a></p>
+
+<p>Internet Explorer 5: If you click on the padlock symbol to view the security certificate the following message may be displayed: "This certificate has failed to verify for all of its intended purposes". The other details of the certificate shown are correct. A full description of this error, number Q233479, is available at&nbsp;<a href="http://www.support.microsoft.com/support/kb/articles/Q233/4/79.asp" target="_blank"><strong>http://www.support.microsoft.com/support/kb/articles/Q233/4/79.asp</strong></a><br>
+<a href="#Top"><strong>Back to top</strong></a></p>
+
+<p></p>
+
+<h2><a name="sec13"></a>Log in Security</h2>
+
+<p><br>
+<a href="https://digitalid.verisign.com/cgi-bin/Xquery.exe?Template=authCertByIssuer&amp;form_file=../fdf/authCertByIssuer.fdf&amp;issuerSerial=e7783176a91e638a4336596ac913a43f" target="_blank"></a>We would like to remind you to keep any log in details and passwords you have secure at all times. Security details should only be entered on our secure website. We may use e-mail to direct you to a secure log in page on our Site or, where consent is given, to inform you of other products, but we will never ask you to reveal or send your security details to us via email.<br>
+<br>
+Please be on your guard for suspicious emails. If you do receive an email asking you to submit account or security details (such as a credit card number, password or PIN number) or if you are suspicious in any way of any communication you are asked to provide over the internet in connection with Direct Line please contact us by phone on 0845 300 5988 if your call relates to Financial Services or on 0208 290 3453 if it relates to an insurance product.<br>
+<a href="#Top"><strong>Back to top</strong></a></p>
+
+<p></p>
+
+<h2><a name="sec14"></a>Call monitoring and recording</h2>
+
+<p><br>
+We record telephone calls for monitoring and training purposes and to assist us in preventing and detecting fraud.<br>
+<a href="#Top"><strong>Back to top</strong></a></p>
+
+<p></p>
+
+<h2><a name="sec15"></a>Further information</h2>
+
+<p><br>
+You have a right of access to your personal information and records held on our files.&nbsp; If you would like a copy of your personal information or would like further information on the contents of this privacy policy please write to the Data Protection Officer, Compliance Department, Churchill Court, Westmoreland Road, Bromley, Kent BR1 1DP.&nbsp; A fee may be payable.</p>
+
+<p>You have a right of access to your personal records that are held by such credit reference agencies and we can supply the names and addresses of the agencies used on request.</p>
+
+<p>Last updated : March 2006<br>
+<a href="#Top"><strong>Back to top</strong></a></p>
+
+                  
+              </td>
             </tr>
-              
+        
+        
+              <tr><td>&nbsp;</td></tr>
+              </tbody></table></td></tr>
+            </tbody></table>
+        </td></tr>
         <tr>
-          <td bgcolor="e6e6e6">
+          <td style="background-color:#e6e6e6;">
             <table cellpadding="0" cellspacing="0" border="0" width="100%">
               <tbody><tr>
-                    <td colspan="2" valign="bottom"><img src="/xxx/compinfo.nsf/border.gif" width="100%" height="1"></td>       
+                    <td colspan="2" valign="bottom"><img src="/staticpages/images/common/border.gif" width="100%" height="1" alt=""></td>
               </tr>
               <tr>
+                  <td style="white-space:nowrap;">
+                    <b></b>
+                  </td>
                   <td align="right">
-            <img src="/icons/ecblank.gif" width="150" height="28">
+                    
+                  
+                    
+                      <img src="/staticpages/images/common/spacer.gif" height="28" width="1" border="0" alt=""> 
+                    
                   </td>
               </tr>
               <tr>
-                  <td colspan="2" valign="top"><img src="/xxx/compinfo.nsf/border.gif" width="470" height="1"></td>        
+                  <td colspan="2" valign="top"><img src="/staticpages/images/common/border.gif" width="508" height="1" alt=""></td>
               </tr>
             </tbody></table>
           </td>
         </tr>
+        <tr><td><br></td></tr>
       </tbody></table>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="spacer.gif" height="1" width="289" border="0">   
-    </td>
-    <td valign="top">
-      <script language="javascript">
-        document.write(str_footer1);
-      </script>
-    </td>
-  </tr>  
-</tbody></table>
-<!-- End CDATA tag --></form>
+</div>
+</td>
+</tr>
 
 
-</body></html>
+
+
+
+
+<tr>
+<td>
+ <div style="width:240;height:25px;border:1px solid #cccccc;border-style:solid none solid none;padding:0;margin:0;"><table width="240" border="0" cellspacing="0" cellpadding="0" height="22px"><tbody><tr><td width="240">
+    <ul style="margin:0;padding:0;padding-top:4px;list-style: none;float:left;"><li style="display: inline;font-size:1em;">&nbsp;&nbsp;&nbsp;<a class="footerLink" title="Site map" href="/sitemap/map.htm" target="_self">Site map&nbsp;</a></li><li style="display: inline;font-size:1em;padding:0;margin:0"><span class="dl-footer-separater">&nbsp;&nbsp;|&nbsp;&nbsp;</span></li><li style="display: inline;" font-size:1em;=""><a class="footerLink" title="Feedback" href="/tracking/redirect/metafaq/secure_global.htm" onclick="window.open('/tracking/redirect/metafaq/secure_global.htm?linkType=link3001','Global','width=465,height=525,screenX=15,screenY=50,top=15,left=50,resizable=yes'); return false">Feedback</a></li>
+<li style="display: inline;font-size:1em;padding:0;margin:0"><span class="dl-footer-separater">&nbsp;&nbsp;|&nbsp;&nbsp;</span></li><li style="display: inline;font-size:1em;"><a class="footerLink" title="Accessibility" href="/accessibility/welcome.htm" target="_self">Accessibility</a></li>
+</ul></td></tr></tbody></table></div></td><td><div style="height:25px;border:1px solid #cccccc;border-style:solid none solid solid;padding:0;margin:0"><table width="508" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td style="width:12px"><img src="/staticpages/images/common/spacer.gif" height="1" width="12" alt=""></td><td style="width:496px"><ul style="margin:0;padding:0;padding-top:4px;list-style: none;float:left;"><li style="display: inline;" font-size:1em;=""><a class="footerLink" title="Security and Privacy" href="/legal/security.htm" target="_self">Security and Privacy</a></li>
+<li style="display: inline;font-size:1em;padding:0;margin:0"><span class="dl-footer-separater">&nbsp;&nbsp;|&nbsp;&nbsp;</span></li><li style="display: inline;" font-size:1em;=""><a class="footerLink" title="Legal" href="/legal/terms.htm" target="_self">Legal</a></li>
+<li style="display: inline;font-size:1em;padding:0;margin:0"><span class="dl-footer-separater">&nbsp;&nbsp;|&nbsp;&nbsp;</span></li><li style="display: inline;" font-size:1em;=""><a class="footerLink" title="About us" href="/about_us/welcome.htm" target="_self">About us</a></li>
+<li style="display: inline;font-size:1em;padding:0;margin:0"><span class="dl-footer-separater">&nbsp;&nbsp;|&nbsp;&nbsp;</span></li><li style="display: inline;" font-size:1em;=""><a class="footerLink" title="copyright link (opens in new window)" href="/copyright.htm" onclick="window.open('/copyright.htm', 'window_name', 'width=600,height=130,scrollbars=no,left='+(screen.width - 620)+',top='+(screen.height - 190)+',status=yes'); return false">© 1999-2006 RBS Insurance Services Ltd</a></li>
+
+    
+</ul></td></tr></tbody></table></td></tr></tbody></table><table>
+
+
+
+
+
+</table>
+
+     
+     
+                     
+            <script language="javascript">
+                SiTrackTracer("/pagedescription.gif","pagedesc=Legal:Security & privacy");
+                SiTrackTracer("/brand.gif","brandname=directline");
+            </script>
+         
+       
+       
+    
+
+
+
+    <!-- End CDATA tag -->
+</div></td></tr></tbody></table></div></body></html>
