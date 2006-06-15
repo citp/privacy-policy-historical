@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the phonedog.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219140842id_/http%3A//www.phonedog.com/content/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonedog.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615041917id_/http%3A//www.phonedog.com/content/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy policy - your telecommunications resource
-
-## Privacy Policy
+# Privacy Policy
 
 **www.phonedog.com respects your privacy.**   We have created this privacy statement in order to demonstrate our commitment to you, our consumer. This privacy statement discloses the privacy practices for this site, [www.phonedog.com](http://www.phonedog.com/). 
 
