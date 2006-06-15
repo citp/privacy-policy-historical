@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the landmarkeducation.com privacy policy that was archived on 2005-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051228132905id_/http%3A//www.landmarkeducation.com/display_content.jsp%3Ftop%3D502) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the landmarkeducation.com privacy policy that was archived on 2006-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060616005915id_/http%3A//www.landmarkeducation.com/display_content.jsp%3Ftop%3D502) for the most accurate reproduction.-->
 
 <html><head>
 	<title>privacy statement
@@ -149,8 +149,177 @@
 			}
 			return true;
 		}
+	
+		function doredirect(thisurl, url){
+			window.location=thisurl+"&sendto="+url;
+		}
 		
-		
+		function jstrim(str){
+			return str.replace(/^\s+|\s+$/g, '');
+		}
+		function checkRequiredFields(which){
+			var emptyString = /^\s*$/
+			if (which.required_field != null){
+				if (which.required_field.length > 0){
+					for (var i = 0; i < which.required_field.length; i++){
+						var obj = document.getElementById(which.required_field[i].value);
+						var obj_type = document.getElementById("fieldtype_"+which.required_field[i].value);
+						var err_msg = document.getElementById("errmsg_"+which.required_field[i].value).value;
+						if (obj != null){
+							if (obj_type.value == 'textbox' || obj_type.value == 'textarea'){
+								if (emptyString.test(jstrim(obj.value))) {
+									alert(err_msg);
+									document.getElementById(which.required_field[i].value).focus();
+									return false;
+								} 
+							} else if (obj_type.value == 'select'){
+								if (obj.selectedIndex == 0){
+									alert(err_msg);
+									obj.focus();
+									return false;
+								}
+							}
+						}
+					}
+				} else {
+					var obj = document.getElementById(which.required_field.value);
+					var obj_type = document.getElementById("fieldtype_"+which.required_field.value);
+					var err_msg = document.getElementById("errmsg_"+which.required_field.value).value;
+					if (obj != null){
+						if (obj_type.value == 'textbox' || obj_type.value == 'textarea'){
+							if (emptyString.test(jstrim(obj.value))) {
+								alert(err_msg);
+								obj.focus();
+								return false;
+							}
+						} else if (obj_type.value == 'select'){
+							if (obj.selectedIndex == 0){
+								alert(err_msg);
+								obj.focus();
+								return false;
+							}
+						}
+					}
+				}
+			}
+			return roa (which);
+		}
+
+		function updateDisplay(elementArray, value, checkArray, selectName){
+			var checkFound = false;
+			for (var i = 0; i < checkArray.length; i++){
+				if (value == checkArray[i]){
+					document.getElementById(selectName).disabled = false;
+					if (elementArray != null && elementArray.length > 0){
+						for (var j = 0; j < elementArray.length; j++){
+							if (elementArray[j] != ''){
+								
+									document.getElementById(elementArray[j]).style.display = 'inline';
+								
+							}
+						}
+					}
+					checkFound = true;
+				}
+			}
+			if (!checkFound){
+				for (var j = 0; j < elementArray.length; j++){
+					document.getElementById(elementArray[j]).style.display = 'none';
+				}
+				document.getElementById(selectName).disabled = true;
+			}
+		}
+
+
+		function roa (which){
+			var emptyString = /^\s*$/
+			if (which.required_andor != null){
+				if (which.required_andor.length > 0){
+					for (var i = 0; i < which.required_andor.length; i++){
+						var r_a = document.getElementById(which.required_andor[i].value+"-requiredandor_a");
+						var r_a_type = document.getElementById(which.required_andor[i].value+"-requiredandor_a_type");
+						var r_a_obj = document.getElementById(document.getElementById(which.required_andor[i].value+"-requiredandor_a").value);
+						var r_b = document.getElementById(which.required_andor[i].value+"-requiredandor_b");
+						var r_b_type = document.getElementById(which.required_andor[i].value+"-requiredandor_b_type");
+						var r_b_obj = document.getElementById(document.getElementById(which.required_andor[i].value+"-requiredandor_b").value);
+						var err_msg = document.getElementById(which.required_andor[i].value+"-requiredandor_err_msg").value;
+						var r_a_empty = false;
+						var r_b_empty = false;
+						if (r_a != null){
+							if (r_a_type.value == 'textbox' || r_a_type.value == 'textarea'){
+								if (emptyString.test(jstrim(r_a_obj.value))) {
+									r_a_empty = true;
+								}
+							} else if (r_a_type.value == 'select'){
+								if (r_a_obj.selectedIndex == 0){
+									r_a_empty = true;
+								}
+							}
+						}
+						if (r_b != null){
+							if (r_b_type.value == 'textbox' || r_b_type.value == 'textarea'){
+								if (emptyString.test(jstrim(r_b_obj.value))) {
+									r_b_empty = true;
+								}
+							} else if (r_b_type.value == 'select'){
+								if (r_b_obj.selectedIndex == 0){
+									r_b_empty = true;
+								}
+							}
+						}
+						if (r_a_empty && r_b_empty) {
+							alert(err_msg);
+							r_a_obj.focus();
+							return false;
+						}
+					}
+				} else {
+					var r_a = document.getElementById(which.required_andor.value+"-requiredandor_a");
+					var r_a_type = document.getElementById(which.required_andor.value+"-requiredandor_a_type");
+					var r_a_obj = document.getElementById(document.getElementById(which.required_andor.value+"-requiredandor_a").value);
+					var r_b = document.getElementById(which.required_andor.value+"-requiredandor_b");
+					var r_b_type = document.getElementById(which.required_andor.value+"-requiredandor_b_type");
+					var r_b_obj = document.getElementById(document.getElementById(which.required_andor.value+"-requiredandor_b").value);
+					var err_msg = document.getElementById(which.required_andor.value+"-requiredandor_err_msg").value;
+					var r_a_empty = false;
+					var r_b_empty = false;
+					if (r_a != null){
+						if (r_a_type.value == 'textbox' || r_a_type.value == 'textarea'){
+							if (emptyString.test(jstrim(r_a_obj.value))) {
+								r_a_empty = true;
+							}
+						} else if (r_a_type.value == 'select'){
+							if (r_a_obj.selectedIndex == 0){
+								r_a_empty = true;
+							}
+						}
+					}
+					if (r_b != null){
+						if (r_b_type.value == 'textbox' || r_b_type.value == 'textarea'){
+							if (emptyString.test(jstrim(r_b_obj.value))) {
+								r_b_empty = true;
+							}
+						} else if (r_b_type.value == 'select'){
+							if (r_b_obj.selectedIndex == 0){
+								r_b_empty = true;
+							}
+						}
+					}
+					if (r_a_empty && r_b_empty) {
+						alert(err_msg);
+						r_a_obj.focus();
+						return false;
+					}
+				}
+			}
+		}
+		function textarea_check(what, maxlimit){
+			if (what.value.length > maxlimit) {
+				what.value = what.value.substring(0, maxlimit);
+				return false;
+			}
+			return true;
+		}
 	</script>
 
 	
@@ -166,80 +335,8 @@
 </head>
 
 
+<body bgcolor="#FFFFFF" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0"><link rel="STYLESHEET" href="/file_redirect.jsp?fname=sitestyle.css" type="text/css"><table width="100%" cellpadding="0" cellspacing="0" border="0">	<tbody><tr>		<td width="5" nowrap="" background="/file_redirect.jsp?fname=pixel_ffcc00.gif"><img src="/file_redirect.jsp?fname=pixel_ffcc00.gif"></td>		<td width="195" nowrap=""><a href="http://www.landmarkeducation.com/index.jsp"><img src="/file_redirect.jsp?fname=logo_home.jpg" width="195" height="47" border="0"></a></td>		<td background="/file_redirect.jsp?fname=home_header_background.jpg">			<table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right" nowrap="" colspan="3" style="padding-right:6px; padding-bottom: 3px;"><a href="login.jsp" style="text-decoration:none; color:blue;">login</a>&nbsp;|&nbsp;<a href="redirect_sc.jsp">view order</a></td></tr>				<tr>                        <form name="qsearch" action="search_results.jsp?qsearch=true" method="post"></form>                                       <td align="right" nowrap="" colspan="5" style="padding-right:8px;">                                                <b>site search</b>&nbsp;<input type="textbox" name="searchphrase" size="12"> <input type="image" src="/file_redirect.jsp?fname=go_button.gif" border="0">                                        </td>                                </tr>                        							</tbody></table>		</td>	</tr></tbody></table><table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#666666">	<tbody><tr>		<td>			<table width="780" cellpadding="0" cellspacing="0" border="0" bgcolor="#666666">				<tbody><tr bgcolor="#666666">					<td height="20" width="5" nowrap="" background="/file_redirect.jsp?fname=pixel_ffcc00.gif"><img src="/file_redirect.jsp?fname=pixel_ffcc00.gif"></td>					<td bgcolor="#666666" class="topnav" width="16" nowrap="">&nbsp;</td><td height="20" nowrap=""><a href="http://www.landmarkeducation.com/index.jsp?top=20" class="topnav">home</a></td><td bgcolor="#666666" class="topnav" width="16" nowrap="">&nbsp;</td><td height="20" nowrap=""><a href="http://www.landmarkeducation.com/section.jsp?top=21" class="topnav">the landmark forum</a></td><td bgcolor="#666666" class="topnav" width="16" nowrap="">&nbsp;</td><td height="20" nowrap=""><a href="http://www.landmarkeducation.com/section.jsp?top=22" class="topnav">graduate center</a></td><td bgcolor="#666666" class="topnav" width="16" nowrap="">&nbsp;</td><td height="20" nowrap=""><a href="http://www.landmarkeducation.com/event_search.jsp?top=23" class="topnav">events and locations</a></td><td bgcolor="#666666" class="topnav" width="16" nowrap="">&nbsp;</td><td height="20" nowrap=""><a href="http://www.landmarkeducation.com/register.jsp?top=24" class="topnav">register now</a></td><td bgcolor="#666666" class="topnav" width="16" nowrap="">&nbsp;</td><td height="20" nowrap=""><a href="http://www.landmarkeducation.com/menu.jsp?top=25" class="topnav">about us</a></td><td bgcolor="#666666" class="topnav" width="16" nowrap="">&nbsp;</td><td height="20" nowrap=""><a href="http://www.landmarkeducation.com/display_content.jsp?top=26" class="topnav">for the media</a></td><td bgcolor="#666666" class="topnav" width="16" nowrap="">&nbsp;</td><td height="20" nowrap=""><a href="http://www.landmarkeducation.com/display_content.jsp?top=27" class="topnav">contact us</a></td><td bgcolor="#666666" class="topnav" width="16" nowrap="">&nbsp;</td>				</tr>			</tbody></table>		</td>		<td bgcolor="#666666" class="topnav" width="100">&nbsp;</td>	</tr></tbody></table>
 
-<body bgcolor="#FFFFFF" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
-<link rel="STYLESHEET" href="assets/sitestyle.css" type="text/css">
-
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>
-		<td width="5" nowrap="" background="assets/pixel_ffcc00.gif"><img src="assets/pixel_ffcc00.gif"></td>
-		<td width="195" nowrap=""><a href="index.jsp"><img src="assets/logo_home.jpg" width="195" height="47" border="0"></a></td>
-		<!-- befor tim changes<td background = "assets/home_header_background.jpg"><img src = "assets/home_header_background.jpg" width=575 height=47 border=0></td>-->
-		<td background="assets/home_header_background.jpg">
-			<table width="100%" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr><td align="right" nowrap="" colspan="3">&nbsp;</td></tr>
-
-				<tr>
-						<!--<td width=155 nowrap valign=top align=left>-->
-										<form name="qsearch" action="search_results.jsp?qsearch=true" method="post"></form>
-			<!--<table width=555 cellpadding=0 cellspacing=0 border=0>
-			
-			    <tr>
-				  <td colspan="2"><img src="assets/LM_home_tertbar.gif" width="155" height="27" alt="" border="0"></td>
-				</tr>
-				<tr>
-					<td rowspan=2><img src = "assets/search_image.gif" width=16 height=49></td>
-				</tr>
-				<tr>
-			-->
-					<td align="right" nowrap="" colspan="5" style="padding-right:8px;">
-						<!--<SPAN class="textbody-adbox">site search</SPAN>-->
-						<b>site search</b>&nbsp;<input type="textbox" name="searchphrase" size="12"> <input type="image" src="assets/go_button.gif" border="0">
-						<!--<a href = "search.jsp" class="textbody-adbox">advanced search</a>-->
-					</td>
-				</tr>
-			<!--</table>-->
-			
-						<!--</td>-->
-				
-			</tbody></table>
-		</td>		
-		<td width="5" nowrap="" background="assets/pixel_ffcc00.gif"><img src="assets/pixel_ffcc00.gif"></td>
-	</tr>
-</tbody></table>
-
-<!--main navigation-->
-<table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#666666">
-	<tbody><tr>
-		<td>
-			<table width="780" cellpadding="0" cellspacing="0" border="0" bgcolor="#666666">
-				<tbody><tr bgcolor="#666666">
-					<td height="20" width="5" nowrap="" background="assets/pixel_ffcc00.gif"><img src="assets/pixel_ffcc00.gif"></td>
-					<td bgcolor="#666666" class="topnav" width="16" nowrap="">&nbsp;</td>
-<td height="20" nowrap=""><a href="http://www.landmarkeducation.com/index.jsp?top=20" class="topnav">home</a></td>
-<td bgcolor="#666666" class="topnav" width="16" nowrap="">&nbsp;</td>
-<td height="20" nowrap=""><a href="http://www.landmarkeducation.com/section.jsp?top=21" class="topnav">the landmark forum</a></td>
-<td bgcolor="#666666" class="topnav" width="16" nowrap="">&nbsp;</td>
-<td height="20" nowrap=""><a href="http://www.landmarkeducation.com/section.jsp?top=22" class="topnav">graduate center</a></td>
-<td bgcolor="#666666" class="topnav" width="16" nowrap="">&nbsp;</td>
-<td height="20" nowrap=""><a href="http://www.landmarkeducation.com/event_search.jsp?top=23" class="topnav">events and locations</a></td>
-<td bgcolor="#666666" class="topnav" width="16" nowrap="">&nbsp;</td>
-<td height="20" nowrap=""><a href="http://www.landmarkeducation.com/menu.jsp?top=24" class="topnav">register now</a></td>
-<td bgcolor="#666666" class="topnav" width="16" nowrap="">&nbsp;</td>
-<td height="20" nowrap=""><a href="http://www.landmarkeducation.com/menu.jsp?top=25" class="topnav">about us</a></td>
-<td bgcolor="#666666" class="topnav" width="16" nowrap="">&nbsp;</td>
-<td height="20" nowrap=""><a href="http://www.landmarkeducation.com/display_content.jsp?top=26" class="topnav">for the media</a></td>
-<td bgcolor="#666666" class="topnav" width="16" nowrap="">&nbsp;</td>
-<td height="20" nowrap=""><a href="http://www.landmarkeducation.com/display_content.jsp?top=27" class="topnav">contact us</a></td>
-<td bgcolor="#666666" class="topnav" width="16" nowrap="">&nbsp;</td>
-
-				</tr>
-			</tbody></table>
-		</td>
-		<td bgcolor="#666666" class="topnav" width="100%">&nbsp;</td>
-		<td height="20" width="5" nowrap="" background="assets/pixel_ffcc00.gif"><img src="assets/pixel_ffcc00.gif" height="20" width="5"></td>
-	</tr>
-</tbody></table>
 		
 
 
@@ -254,22 +351,21 @@
 
  
 
+
+
+
 <table width="100%" cellpadding="0" cellspacing="0" border="0">
 	<tbody><tr>
 		<td width="5" nowrap="" background="assets/pixel_ffcc00.gif"><img src="assets/pixel_ffcc00.gif"></td>
 		<td width="195" nowrap="" valign="top">
 			<table cellpadding="1" cellspacing="1" border="0" bgcolor="#FFFFFF">
-
-<!-- varholder.midlvls[i].getSiteSectionTypeID():3 true -->
 <tbody><tr>
-<td width="10" nowrap="" valign="top"><a href="http://www.landmarkeducation.com/display_content.jsp?top=502&amp;mid=740"><img src="assets/box1.gif" width="8" height="12" border="0"></a></td>
+<td width="10" nowrap="" valign="top"><a href="http://www.landmarkeducation.com/display_content.jsp?top=502&amp;mid=740"><img src="/file_redirect.jsp?fname=box1.gif" width="8" height="12" border="0"></a></td>
 <td colspan="4" valign="top" width="100%"><a href="http://www.landmarkeducation.com/display_content.jsp?top=502&amp;mid=740" class="rightnav-link">Parental Consent</a></td>
-</tr>
+</tr><!-- line 45 -->
 
 </tbody></table>
 
-	
-<!--lecVar-->
 
 			<!--<img src = "assets/dashed_line_horizontal.gif" height=1 width=195>-->
 			
@@ -280,8 +376,10 @@
 				<tbody><tr><td class="textbody">
 					
 						
-							<p class="text-title">Privacy Statement</p><p>
+							<p><span class="text-title">Privacy Statement</span>
 						
+						
+							</p>
 					
 					
 					
@@ -289,7 +387,7 @@
 
 
 
-						</p><p class="textbody">
+						<p class="textbody">
 					
 						
 							</p><p align="center"><strong>LANDMARK EDUCATION<br>PRIVACY POLICY STATEMENT</strong><br>(Effective&nbsp; 06/29/04)</p>
@@ -352,7 +450,7 @@
 			
 					<span class="footernav"> | </span>
 
-					<a href="menu.jsp?top=24" class="footernav">register now</a>
+					<a href="register.jsp?top=24" class="footernav">register now</a>
 					
 				
 			
@@ -379,28 +477,32 @@
 
 	
 
-					<nobr><a href="display_content.jsp?top=502" class="footernav">privacy statement</a></nobr>
+					<nobr><a href="http://www.landmarkeducation.com/display_content.jsp?top=502" class="footernav">privacy statement</a></nobr>
 				
 			<span class="footernav"> | </span>
 
-					<nobr><a href="display_content.jsp?top=31" class="footernav">terms of use</a></nobr>
+					<nobr><a href="http://www.landmarkeducation.com/display_content.jsp?top=31" class="footernav">terms of use</a></nobr>
 				
 			<span class="footernav"> | </span>
 
-					<nobr><a href="search.jsp?top=30" class="footernav">search</a></nobr>
+					<nobr><a href="http://www.landmarkeducation.com/search.jsp?top=30" class="footernav">search</a></nobr>
 				
 			<span class="footernav"> | </span>
 
-					<nobr><a href="display_content.jsp?top=3940" class="footernav">site map</a></nobr>
+					<nobr><a href="http://www.landmarkeducation.com/display_content.jsp?top=3940" class="footernav">site map</a></nobr>
 				
 			
 		
 
 
- <!-- year is: 2005 --> 
+ <!-- year is: 2006 --> 
 
-		<br>©2005 Landmark Education. All Rights Reserved.<a href="login.jsp" style="font-color:black;text-decoration:none;">&nbsp;</a>
-		<br><br><br><br>
+		<br>©2006 Landmark Education. All Rights Reserved.<a href="http://www.landmarkeducation.com/login.jsp" style="font-color:black;text-decoration:none;">&nbsp;</a>
+		<br><br>
+
+                        <!--<A href="/send_bug.jsp" target=new>Report a bug for the beta test.</a>-->
+
+                <br><br>
 		</p></td>
 		<td width="5" nowrap="" background="assets/pixel_ffcc00.gif"><img src="assets/pixel_ffcc00.gif"></td>
 	</tr>
@@ -409,8 +511,8 @@
 <br><br><br>
 
 
-	
 
+<p style="color: #FFFFFF;">LM2</p>
 
 
 </body></html>
