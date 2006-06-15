@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ilounge.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230233816id_/http%3A//www.ilounge.com/index.php/ilounge/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilounge.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615042817id_/http%3A//www.ilounge.com/index.php/ilounge/privacy_policy) for the most accurate reproduction.*
 
 # iLounge | iPod News
 
-The policies below are applicable to iLounge. Any questions or comments you may have regarding this privacy policy, email [privacy@iLounge.com](mailto:privacy@iPodlounge.com).
+The policies below are applicable to iLounge. Any questions or comments you may have regarding this privacy policy, email [info@iLounge.com](mailto:info@ilounge.com).
 
 iLounge respects each individual user's right to privacy. iLounge does not collect personal identifying information unless such information is specifically and knowingly provided from users during contests, surveys, sweepstakes, giveaways, site registration, or use of public areas, such as a forum. iLounge may use aggregate forms of this information -- not individual data -- for marketing and promotional purposes. iLounge does not supply identifying information to other companies, or uses such information for its own purposes including but not limited to email newsletters, unless the user "opts-in" for such purposes by specifically allowing usage. (Identifying information must necessarily be used when notifying a user of requested information, such as notification of a winning entry in a contest or sweepstakes.) iLounge is not responsible for any actions or policies of such companies.
 
