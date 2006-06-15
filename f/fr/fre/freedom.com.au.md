@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the freedom.com.au privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218031947id_/http%3A//www.freedom.com.au/privacy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedom.com.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615214357id_/http%3A//freedom.com.au/privacy/privacy.asp) for the most accurate reproduction.*
 
 # Privacy < Freedom Furniture
 
-At Freedom Group Limited and all its subsidiaries, we are fully committed to respecting your privacy. The following Privacy Policy has been published to provide a clear and concise outline of how and when personal information is collected, stored, and distributed by Freedom. This policy also applies to Freedom's web site: www.freedom.com.au.
+At Steinhoff Asia Pacific Limited and all its subsidiaries, we are fully committed to respecting your privacy. The following Privacy Policy has been published to provide a clear and concise outline of how and when personal information is collected, stored, and distributed by Freedom. This policy also applies to Freedom's web site: www.freedom.com.au.
 
-Freedom Group Limited is bound by the _Privacy Act 1988_ and the National Privacy Principles set by the Federal Privacy Commissioner. For more information, visit [www.privacy.gov.au](http://www.privacy.gov.au/)
+Steinhoff Asia Pacific Limited is bound by the _Privacy Act 1988_ and the National Privacy Principles set by the Federal Privacy Commissioner. For more information, visit [www.privacy.gov.au](http://www.privacy.gov.au/)
 
 Collection of personal information
 
@@ -55,7 +55,7 @@ We will only send personal information about you to other organisations when:
 
 
 
-Such information remains under Freedom Group Limited's custodianship at all times and the agents involved are bound by specific confidentiality and non-disclosure agreements.
+Such information remains under Steinhoff Asia Pacific Limited's custodianship at all times and the agents involved are bound by specific confidentiality and non-disclosure agreements.
 
 Quality of personal information
 
@@ -71,7 +71,7 @@ Should you wish to access your personal information, please contact our Privacy 
 
 Opt-out
 
-If, for any reason, you would like to be removed from our mailing lists, please complete the [opt-out form](https://web.archive.org/web/20051218031947id_/http%3A//www.freedom.com.au/privacy/opt_out_form.asp) here. The opt-out form is also available from any of our stores or from the Privacy Officer.
+If, for any reason, you would like to be removed from our mailing lists, please complete the [opt-out form](https://web.archive.org/web/20060615214357id_/http%3A//freedom.com.au/privacy/opt_out_form.asp) here. The opt-out form is also available from any of our stores or from the Privacy Officer.
 
 Security
 
@@ -88,7 +88,7 @@ Freedom may make changes to this Privacy Policy from time to time for any reason
 Contact
 
 Privacy Officer  
-Freedom Group Limited  
+Steinhoff Asia Pacific Limited  
 PO BOX 227   
 MARAYONG NSW 2148  
 Phone: 1300 135 588  
