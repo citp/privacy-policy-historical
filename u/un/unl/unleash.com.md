@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unleash.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223175411id_/http%3A//www.unleash.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unleash.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615160354id_/http%3A//www.unleash.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for Graphics Unleashed
 
@@ -66,3 +66,12 @@ webmaster@unleash.com
   
 Last Updated Thursday July 03 2003.    
 
+
+  
+
+
+|   
+---|---  
+  
+Copyright © 1995-2006 Unleashed Productions, Inc., All Rights Reserved.  
+Copying of any materials or content on this site is strictly prohibited. 
