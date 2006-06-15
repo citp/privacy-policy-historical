@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inboxdollars.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218194031id_/http%3A//www.inboxdollars.com/%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inboxdollars.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615033653id_/http%3A//www.inboxdollars.com/%3Fp%3Dprivacy) for the most accurate reproduction.*
 
-# InboxDollars - Earn CA$H for E-Mail, Surveys, Games, and More!
+# InboxDollars - Earn CASH for E-Mail, Surveys, Games, and More!
 
 InboxDollars reserves the right to modify this Privacy Policy at any time. The date and time of the last update will always appear below, which serves as notice to our Users. 
 
