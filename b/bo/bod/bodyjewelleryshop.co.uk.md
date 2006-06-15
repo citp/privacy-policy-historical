@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bodyjewelleryshop.co.uk privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210064729id_/http%3A//www.bodyjewelleryshop.co.uk/about_BJS/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodyjewelleryshop.co.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615233526id_/http%3A//www.bodyjewelleryshop.com/about_BJS/privacy_statement) for the most accurate reproduction.*
 
 # BodyJewelleryShop.com Privacy Statement
 
@@ -39,30 +39,33 @@ Our servers are held in a secure data centre located in the UK, and are protecte
 External websites   
 This privacy policy covers the usage of BodyJewelleryShop.com only. Where we have linked to external sites, a different privacy policiy may apply.
 
-|  [](https://web.archive.org/body_jewellery_shop/index.cfm)  
+|  [](http://www.bodyjewelleryshop.com/body_jewellery_shop/)  
   
-[](https://web.archive.org/body_jewellery_shop/body_piercing_jewellery/index.cfm)  
+[](http://www.bodyjewelleryshop.com/body_jewellery_shop/body_piercing_jewellery/)  
   
-[](https://web.archive.org/body_jewellery_shop/body_piercings/index.cfm)  
+[](http://www.bodyjewelleryshop.com/body_jewellery_shop/body_piercings/)  
   
-[](https://web.archive.org/body_jewellery_shop/productCategory.cfm?sC=Gift_Section&iProductCategoryID=534)  
+[](http://www.bodyjewelleryshop.com/body_jewellery_shop/productCategory.cfm?sC=Gift_Section&iProductCategoryID=534)  
   
-[](https://web.archive.org/body_jewellery_shop/productCategory.cfm?iProductCategoryID=703)  
+[](http://www.bodyjewelleryshop.com/body_jewellery_shop/productCategory.cfm?iProductCategoryID=703)  
   
-[](https://web.archive.org/body_jewellery_shop/productCategory.cfm?iProductCategoryID=558)
-
-Member Login
+[](http://www.bodyjewelleryshop.com/body_jewellery_shop/productCategory.cfm?iProductCategoryID=558)
 
 Shopping Cart
 
-Your shopping cart is empty.
+Go to the [**online store**](https://web.archive.org/online_store/) to start shopping!
 
 * * *
 
-Display Currency: 
+Currency Display: 
+
+[](https://web.archive.org/members/login/setDisplayCurrency.cfm?sCurrencyCode=GBP)[](https://web.archive.org/members/login/setDisplayCurrency.cfm?sCurrencyCode=EUR)[](https://web.archive.org/members/login/setDisplayCurrency.cfm?sCurrencyCode=USD)[](https://web.archive.org/members/login/setDisplayCurrency.cfm?sCurrencyCode=CAD)[](https://web.archive.org/members/login/setDisplayCurrency.cfm?sCurrencyCode=JPY)  
+ More Currencies:
+
+Member Login
 
 About Body Jewellery Shop
 
 Jewellery Essentials
 
-[](https://web.archive.org/about_BJS/10_reasons/index.cfm) [](http://isis.imrg.org/screens/VerifyMerchantFrame.asp?guid=6AD2E074-DFEE-4E53-9608-A973EB774C65)
+[](https://web.archive.org/about_BJS/shipping_information/packaging.cfm) [](http://www.bodyjewelleryshop.com/body_piercing_videos/) [](https://web.archive.org/about_BJS/10_reasons/index.cfm) [](http://isis.imrg.org/screens/VerifyMerchantFrame.asp?guid=6AD2E074-DFEE-4E53-9608-A973EB774C65)
