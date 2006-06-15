@@ -1,56 +1,7 @@
-> *The following text is extracted and transformed from the diesel-ebooks.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212135557id_/http%3A//www.diesel-ebooks.com/cgi-bin/category.cgi%3Fcategory%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diesel-ebooks.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615033457id_/http%3A//www.diesel-ebooks.com/cgi-bin/category.cgi%3Fcategory%3Dprivacy) for the most accurate reproduction.*
 
-# ebooks for Download at Diesel eBooks
+# Download ebooks at Diesel eBooks
 
-| Fiction eBooks  
----  
-  
-[General Fiction](http://www.diesel-ebooks.com/cgi-bin/category/FIC000001)  
-[Romance](http://www.diesel-ebooks.com/cgi-bin/category/FIC027001)  
-[Erotica](http://www.diesel-ebooks.com/cgi-bin/category/FIC005000)  
-[Fantasy](http://www.diesel-ebooks.com/cgi-bin/category/FIC009001)  
-[Science Fiction](http://www.diesel-ebooks.com/cgi-bin/category/FIC028001)  
-[Horror](http://www.diesel-ebooks.com/cgi-bin/category/FIC015000)  
-[Mystery & Detective](http://www.diesel-ebooks.com/cgi-bin/category/FIC022001)  
-[Suspense & Thrillers](http://www.diesel-ebooks.com/cgi-bin/category/FIC032000)  
-[Action & Adventure](http://www.diesel-ebooks.com/cgi-bin/category/FIC002001)  
-[Childrens Fiction](http://www.diesel-ebooks.com/cgi-bin/category/JUV000001)  
-[Religious Fiction](http://www.diesel-ebooks.com/cgi-bin/category/FIC026001)  
-[Classics & Drama](http://www.diesel-ebooks.com/cgi-bin/category/DRA000001)  
-[Literary & Poetry](http://www.diesel-ebooks.com/cgi-bin/category/POE000001)  
-[Free eBooks](http://www.diesel-ebooks.com/cgi-bin/category.cgi?category=free_download)  
-  
-  
-Non-Fiction eBooks  
----  
-  
-[Art & Music](http://www.diesel-ebooks.com/cgi-bin/category/AAT000001)  
-[Biography](http://www.diesel-ebooks.com/cgi-bin/category/BIO000001)  
-[Body, Mind & Spirit](http://www.diesel-ebooks.com/cgi-bin/category/OCC000001)  
-[Business & Economics](http://www.diesel-ebooks.com/cgi-bin/category/BUS000001)  
-[Computers](http://www.diesel-ebooks.com/cgi-bin/category/COM000001)  
-[Crafts, Hobbies & Home](http://www.diesel-ebooks.com/cgi-bin/category/CRA000001)  
-[Education](http://www.diesel-ebooks.com/cgi-bin/category/EDU000000)  
-[Family & Relationships](http://www.diesel-ebooks.com/cgi-bin/category/FAM000000)  
-[History](http://www.diesel-ebooks.com/cgi-bin/category/HIS000000)  
-[Humor](http://www.diesel-ebooks.com/cgi-bin/category/HUM000000)  
-[Childrens Nonfiction](http://www.diesel-ebooks.com/cgi-bin/category/JNF000000)  
-[Language Arts](http://www.diesel-ebooks.com/cgi-bin/category/LAN000000)  
-[Law](http://www.diesel-ebooks.com/cgi-bin/category/LAW000000)  
-[Medical](http://www.diesel-ebooks.com/cgi-bin/category/MED000000)  
-[Philosophy](http://www.diesel-ebooks.com/cgi-bin/category/PHI000000)  
-[Political Science](http://www.diesel-ebooks.com/cgi-bin/category/POL000000)  
-[Psychology & Psychiatry](http://www.diesel-ebooks.com/cgi-bin/category/PSY000000)  
-[Reference & Study Aids](http://www.diesel-ebooks.com/cgi-bin/category/REF000000)  
-[Religion](http://www.diesel-ebooks.com/cgi-bin/category/REL000000)  
-[Science & Nature](http://www.diesel-ebooks.com/cgi-bin/category/SCI000000)  
-[Social Science](http://www.diesel-ebooks.com/cgi-bin/category/SOC000000)  
-[Sports & Fitness](http://www.diesel-ebooks.com/cgi-bin/category/SPO000000)  
-[Technology](http://www.diesel-ebooks.com/cgi-bin/category/TEC000000)  
-[Travel](http://www.diesel-ebooks.com/cgi-bin/category/TRV000000)  
-[True Crime](http://www.diesel-ebooks.com/cgi-bin/category/TRU000000)  
-  
-  
 > Your privacy is important to Diesel eBooks. We have created this privacy statement to demonstrate our commitment to keep your personal information confidential. By ensuring that you are aware of and understand our Customer Privacy Policy, we can provide you with better service. Please take a moment to read the following policy.
 > 
 >   1. _Why and How We Collect Personal Information_   
@@ -88,13 +39,3 @@ Non-Fiction eBooks
 > **How does it work?**
 > 
 > When remote servers or customer's web browsers access the Diesel eBooks Commerce Server, the connection between the 'client' and our Commerce Server becomes a dedicated 'link'. This is done by the exchange of keys between our Commerce Server and the 'client', which each use the keys for encrypting and decrypting the data which is passed between the connection. This allows the 'client' to send information that is encrypted and would appear as jumbled or mangled text across the internet to the Diesel eBooks Commerce Server where the data is decrypted. Most web browsers offer some unique method of notifying you or your customers that they are on a secure connection with a server which uses SSL technology. Clues that your are on a SSL server include locks on toolbars, keys, and solid blue lines around your browser.
-
-| 
-
-|  Similar Titles:  
-  
----  
----  
-Copyright © 2004 Diesel eBooks  
-  
-ia_archiver
