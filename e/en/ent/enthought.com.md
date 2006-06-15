@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the enthought.com privacy policy that was archived on 2005-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050901102632id_/http%3A//enthought.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enthought.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615064037id_/http%3A//enthought.com/privacy.htm) for the most accurate reproduction.*
 
-# Enthought inc., Privacy Policy
+# Enthought, Inc. - Privacy Policy
 
 ### Enthought, Inc.'s Privacy Policy
 
