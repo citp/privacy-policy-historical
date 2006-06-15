@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the gametrailers.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220113216id_/http%3A//gametrailers.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gametrailers.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615203342id_/http%3A//www.gametrailers.com/privacypolicy.php) for the most accurate reproduction.*
 
-# GameTrailers.com - Privacy Policy
+# GameTrailers.com - The Source For Video Game Media
 
 **GameTrailers.com Agreement and Privacy Policy User Agreement**
 
 * * *
+
+  
+
 
 **Overview**
 
