@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trademe.co.nz privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217182246id_/http%3A//www.trademe.co.nz/structure/helpdocs/default.asp%3Fhelp_id%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trademe.co.nz privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615190629id_/http%3A//www.trademe.co.nz/Help/Topic.aspx%3Fhelp_id%3D145) for the most accurate reproduction.*
 
 # TradeMe.co.nz - New Zealand Online Auctions & Classifieds - Trade Me
 
@@ -12,7 +12,7 @@ We release account and other personal information only when we believe release i
 **Email**  
 It is the policy of Trade Me to send our members email throughout the auction process and other email they elect to receive, in addition to customary business communications (payment confirmations, etc.). Further, it is our policy to immediately remove any member from any mailing list upon the member's request. In addition, Trade Me will send a monthly newsletter to members. Newsletters will contain clear and obvious instructions for how the member can remove himself or herself from that mailing list. 
 
-We do use email as a means of receiving feedback from our members, and we encourage you to [email us](https://web.archive.org/structure/helpdocs/crm_choose_subject.asp) with your questions or comments. 
+We do use email as a means of receiving feedback from our members, and we encourage you to [email us](https://web.archive.org/Help/ContactUs.aspx) with your questions or comments. 
 
 **Emailing Tools**  
 Trade Me provides facilities throughout the site to refer a friend to Trade Me or to send references to a specific listing to a friend. You may not use the "Email This Auction to a Friend" service or other email forwarding services that we offer to send spam or otherwise send content that would violate our privacy policy or [Terms and Conditions](https://web.archive.org/structure/helpdocs/terms_and_conditions.asp). We do not permanently store, sell, or rent these email messages or the email addresses. 
@@ -65,4 +65,4 @@ For more information,  View the Nielsen//NetRatings privacy policy.
 **Updates to our information practices**  
 From time to time, we make changes to our information practices or alter the functionality of our Web site. We always update this statement accordingly, so we encourage you to periodically review this page for the latest information on privacy practices at Trade Me. 
 
-If you have any questions about our privacy policies or any other matter, please [contact us](https://web.archive.org/structure/helpdocs/crm_choose_subject.asp). 
+If you have any questions about our privacy policies or any other matter, please [contact us](https://web.archive.org/Help/ContactUs.aspx). 
