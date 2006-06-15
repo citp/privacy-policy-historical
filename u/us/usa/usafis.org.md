@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usafis.org privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231062405id_/http%3A//www.usafis.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usafis.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615232036id_/http%3A//www.usafis.org/privacy.asp) for the most accurate reproduction.*
 
 # Green Card Lottery, Apply and win the USA Green Card Lottery, USAFIS, Live & work in America
 
@@ -8,7 +8,7 @@ Version 2.0 – (Last updated November 20, 2005)
 
 Usafis is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site usafis.org. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
-If you have questions or concerns regarding this statement, you should first contact Mr. Dan Gold by email goldd@usafis.org, phone +1-347-710-4565 or send regular mail to 2565 BROADWAY # 443 NEW YORK NY 10025 United States. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe http://www.truste.org/consumers/watchdog_complaint.php . TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first contact Mr. Dan Gold by email goldd@usafis.org, phone +1-347-710-4565 or send regular mail to 2576 BROADWAY # 443 NEW YORK NY 10025 United States. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe http://www.truste.org/consumers/watchdog_complaint.php . TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
 
 _Usafis Organization_ is the sole owner of the information collected on this site, usafis.org. _Usafis Organization_ will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. _Usafis Organization_ collects information from our users at several different points on _Usafis Organization_ website. 
 
