@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oldfriends.co.nz privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217080225id_/http%3A//www.oldfriends.co.nz/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oldfriends.co.nz privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615080217id_/http%3A//www.oldfriends.co.nz/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # OldFriends.co.nz - Find your old friends! - School Reunions - New Zealand
 
