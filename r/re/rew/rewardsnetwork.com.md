@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rewardsnetwork.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212143523id_/http%3A//www.rewardsnetwork.com/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rewardsnetwork.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615212018id_/http%3A//www.rewardsnetwork.com/privacypolicy.jsp) for the most accurate reproduction.*
 
-# Rewards Network - Privacy Policy
+# Rewards Network -
 
 ##### Our pledge to you, our member
 
@@ -13,7 +13,7 @@ Please read this Privacy Policy so that you can make informed decisions about us
 We take several steps to protect your Personal Information. Among other things: 
 
   * We will not disclose your Personal Information to any nonaffiliated third party for use in marketing that party's goods or services without your consent. 
-  * We will give you access to information we maintain on your name, how to contact you, credit cards you have registered with the Rewards Network, and certain other preferences you have registered with us ("Registration Information"), and we will allow you to correct any inaccuracies; and 
+  * We will give you access to information we maintain on your name, how to contact you, credit/debit cards you have registered with the Rewards Network, and certain other preferences you have registered with us ("Registration Information"), and we will allow you to correct any inaccuracies; and 
   * We will take reasonable steps to protect the security of the Personal Information we collect about you. 
 
 
@@ -23,7 +23,7 @@ We take several steps to protect your Personal Information. Among other things:
 We gather the following types of Personal Information in connection with the provision of our services to you. 
 
   * _Information you voluntarily provide to us._ For example, when you register to participate in the Rewards Network, you may provide us with Personal Information.
-  * _Information about your transactions with us or with others._ For example, we collect Personal Information and transactions from payment card companies, payment card processors and merchants that accept your credit card as payment for goods or services, including merchants that are participating in the Rewards Network or that have agreed to help us evaluate our program. We may also collect Personal Information from merchants or other parties who do not participate in the Rewards Network.
+  * _Information about your transactions with us or with others._ For example, we collect Personal Information and transactions from payment card companies, payment card processors and merchants that accept your credit/debit card as payment for goods or services, including merchants that are participating in the Rewards Network or that have agreed to help us evaluate our program. We may also collect Personal Information from merchants or other parties who do not participate in the Rewards Network.
   * _Information obtained about you from others._ For example, we work with firms that provide us demographic information or that enroll you in the Rewards Network (like a credit card company or airline). 
 
 
@@ -58,14 +58,14 @@ You may use our Refer a Friend service to refer your family and friends to becom
 
 When you visit our site without logging in, we may collect usage information ("session data"), but it is anonymous and is not linked to you as an individual. We may use session data for a variety of reasons, including to better understand things like how our site is navigated, how many visitors arrive at specific pages, the length and frequency of stays at our site, the types of browsers and computer operating systems used by our visitors, and the Internet Protocol addresses from which our visitors connect to our site.
 
-When you visit our site and login, we may collect usage information ("persistent data"), that will be linked to your user name and password. We may use the persistent data for a variety of reasons, including to monitor your use of our site in conjunction with your participation in one of our programs.
+When you visit our site and log in, we may collect usage information ("persistent data"), that will be linked to your Login ID and Password. We may use the persistent data for a variety of reasons, including to monitor your use of our site in conjunction with your participation in one of our programs.
 
-We use cookies on our web site to collect session data and persistent data for several purposes, such as to personalize and improve your individual viewing experiences on our site. Cookies placed on your computer by www.rewardsnetwork.com can only be read by the [www.rewardsnetwork.com](https://web.archive.org/index.jsp) web server. We use two different types of cookies in our web site:
+We use cookies on our web site to collect session data and persistent data for several purposes, such as to personalize and improve your individual viewing experiences on our site. Cookies placed on your computer by rewardsnetwork.com can only be read by the [rewardsnetwork.com](https://web.archive.org/index.jsp) web server. We use two different types of cookies in our web site:
 
   * "Session cookies" track the user's progression through our sites and session data in a single visit. These cookies enable us to remember things as the user progresses from one page to another. Your session cookies are deleted as soon as you close your browser. In addition, if you leave your browser open for a prolonged period, they are set to automatically erase themselves after a short period. 
   
 
-  * "Persistent cookies" remember a user and the user's persistent data at the user's next visit to our web site. Your persistent cookies are not automatically erased, and they remain on your computer until you erase them. (If you do not want these cookies to remain on your computer, you can erase them by following the steps for your specific browser.) For members, we may use a persistent cookie to remember such things as your User Name, name, preferred dining area, selected cuisine type and other promotional links that you clicked on while on the site. 
+  * "Persistent cookies" remember a user and the user's persistent data at the user's next visit to our web site. Your persistent cookies are not automatically erased, and they remain on your computer until you erase them. (If you do not want these cookies to remain on your computer, you can erase them by following the steps for your specific browser.) For members, we may use a persistent cookie to remember such things as your Login ID, name, preferred dining area, selected cuisine type and other promotional links that you clicked on while on the site. 
 
 
 
@@ -83,16 +83,16 @@ Our web site may have links to other sites on the Internet that are owned by thi
 
 We restrict access to Personal Information to those individuals or entities that need to know that information to operate, manage, and expand the Rewards Network, including to provide products and services to you. We maintain physical, electronic, and procedural safeguards to guard your Personal Information.
 
-With respect to use of our web site, we use industry-standard encryption technologies when transferring and receiving Personal Information through our site. We use Secure Sockets Layer (SSL) technology that encrypts information and keeps the data private and confidential between your machine and [www.rewardsnetwork.com](https://web.archive.org/index.jsp). This technology makes it safer to transmit your credit card number over the Internet.
+With respect to use of our web site, we use industry-standard encryption technologies when transferring and receiving Personal Information through our site. We use Secure Sockets Layer (SSL) technology that encrypts information and keeps the data private and confidential between your machine and [rewardsnetwork.com](https://web.archive.org/index.jsp). This technology makes it safer to transmit your credit card number over the Internet.
 
 ##### Reviewing, Changing Your Registration Information or Unsubscribing
 
 At any time, you can correct or update your Registration Information or modify your preferences pertaining to our newsletter and other marketing communications (whether made by e-mail, telephone, or ordinary mail). To review, change, or update your Registration Information, or unsubscribe or opt out from our monthly newsletters or other marketing communications, you have several options: 
 
-  * **Online:** On the [www.rewardsnetwork.com](https://web.archive.org/index.jsp) site login to your account and click on the "My Account" link at the top of the home page. Then click on the appropriate link to change your Personal Information or modify your newsletter subscription or marketing communication preferences. 
-  * **By e-mail** : Unsubscribe or opt out of our email newsletter or other marketing communications by sending an email request to [customerservice@rewardsnetwork.com](mailto:customerservice@rewardsnetwork.com). For your security, please do not email credit card changes. 
+  * **Online:** On the [rewardsnetwork.com](https://web.archive.org/index.jsp) site log in to your account and click on the "My Account" link at the top of the home page. Then click on the appropriate link to change your Personal Information or modify your newsletter subscription or marketing communication preferences. 
+  * **By e-mail** : Unsubscribe or opt out of our email newsletter or other marketing communications by sending an email request to [customerservice@rewardsnetwork.com](mailto:customerservice@rewardsnetwork.com). For your security, please do not email credit/debit card changes. 
   * **By postal mail** : Please include your email address and mail your request to us at Rewards Network Inc., P.O. Box 619400, Miami, FL 33261-9400, Attention: Member Services. 
-  * **By phone** : Call toll-free at 1-877-491-3463 ( 8am - midnight ET, 7 days a week.) 
+  * **By phone** : Call toll-free at 1-877-491-3463 ( 8 a.m. - midnight ET, 7 days a week.) 
   * **Link to unsubscribe** : Links to unsubscribe or opt out from future newsletters and other marketing communications are included at the bottom of each email. 
 
 
@@ -103,7 +103,7 @@ Requests to be unsubscribed or to opt out of marketing communications will be pr
 
 ##### No Use by Children
 
-The Rewards Network website may be used only by adults who have a credit card. In no event may our website be used by a child, including any child under the age of 13. 
+The Rewards Network web site may be used only by adults who have a credit or debit card. In no event may our web site be used by a child, including any child under the age of 13. 
 
 ##### Our Privacy Officer
 
@@ -119,7 +119,7 @@ Email: [badel@rewardsnetwork.com](mailto:badel@rewardsnetwork.com)
 
 ##### Notice of Changes
 
-This Privacy Policy was last revised on **_November 10, 2005_**. We reserve the right to change, modify or add to this policy (a "Change") at any time, and to apply any Change to Personal Information that we have already collected. We may provide you with notice of a Change by posting a notice or a revised Privacy Policy on our web site. You agree to visit our web site, from time to time, to review the current policy and any Changes.
+This Privacy Policy was last revised on **_February 12, 2006_**. We reserve the right to change, modify or add to this policy (a "Change") at any time, and to apply any Change to Personal Information that we have already collected. We may provide you with notice of a Change by posting a notice or a revised Privacy Policy on our web site. You agree to visit our web site, from time to time, to review the current policy and any Changes.
 
 **_AFFILIATES_**  
 Rewards Network Establishment Services Inc.  
