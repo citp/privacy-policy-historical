@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lotpro.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215033626id_/http%3A//www.lotpro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lotpro.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615020545id_/http%3A//www.lotpro.com/privacy) for the most accurate reproduction.*
 
-# New Cars Search, Find Used Cars, Auto Financing Online
+# LotPro.com Website Privacy Statement.
 
 The policy of LotPro.com is to respect the privacy of all web site visitors to the extent permitted by law. This online privacy statement is intended to inform you of the ways in which this web site collects information, the uses to which that information will be put, and the ways in which we will protect any information you choose to provide us. 
 
@@ -19,3 +19,9 @@ Cookies
 Cookies are pieces of information stored by your web browser on behalf of a web site and returned to the web site on request. This site may use cookies for two purposes: to carry data about your current session at the site from one web page to the next, and to identify you to the site between visits. If you prefer not to receive cookies, you may turn them off in your browser, or may set your browser to ask you before accepting a new cookie. Some pages may not function properly if the cookies are turned off. Unless otherwise notified on this site, we will not store data, other than for these two purposes, in cookies. Cookies remain on your computer, and accordingly we neither store cookies on our computers nor forward them to any external parties. Unless otherwise notified on this site, we do not use cookies to track your movement among different web sites and do not exchange cookies with other entities. 
 
 LotPro.com web sites provide links to other World Wide Web sites or resources. We do not control these sites and resources, do not endorse them, and are not responsible for their availability, content, or delivery of services. In particular, external sites are not bound by the LotPro.com's online privacy policy; they may have their own policies or none at all. Often you can tell you are leaving a LotPro.com web site by noting the URL of the destination site. 
+
+Third Party Advertising   
+We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here. 
+
+Third Party Cookies   
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
