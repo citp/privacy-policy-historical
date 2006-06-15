@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dietfacts.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219011008id_/http%3A//www.dietfacts.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dietfacts.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615053956id_/http%3A//dietfacts.com/privacy.asp) for the most accurate reproduction.*
 
-# Fast Food nutrition database, free diets, weight loss programs - DietFacts.com
+# Health, Restaurants, Recipes, Fitness, Calories, Weight Loss, Nutrition Facts, Restaurants, Free Diets - DietFacts.com - DietFacts.com
 
 ### Privacy Policy
 
@@ -14,9 +14,16 @@ This site contains links to other sites. This site is not responsible for the pr
 
 |  [](http://www.coheso.com/caloriesmart.df)
 
-[](https://web.archive.org/web/20051219011008id_/http%3A//www.dietfacts.com/default.asp?linkout=12281)
+[](https://web.archive.org/web/20060615053956id_/http%3A//dietfacts.com/default.asp?linkout=12281)
 
 [](http://calorielab.com/)
+
+Embrace these [diet pills](http://www.hateweight.com/diet_pills.html),  
+Phentermine, Didrex and Adipex  
+and see the magical difference.
+
+  
+
 
 [ ](http://www.jdoqocy.com/click-871258-10358344)  
 
