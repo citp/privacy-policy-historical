@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the b2s.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211212035id_/http%3A//b2s.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the b2s.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615195018id_/http%3A//www.b2s.com/privacy.php) for the most accurate reproduction.*
 
 # b2s.com -- We make business happens!
 
