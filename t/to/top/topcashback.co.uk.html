@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the topcashback.co.uk privacy policy that was archived on 2005-11-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051103024937id_/http%3A//www.topcashback.co.uk/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the topcashback.co.uk privacy policy that was archived on 2006-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615063603id_/http%3A//topcashback.co.uk/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head profile="http://www.topcashback.co.uk">
 		<title>TopCashBack Privacy Policy</title>
@@ -8,8 +8,67 @@
 		<meta name="description" content="Privacy Policy for the Topcashback website.">
 		<link href="/styles.css" type="text/css" rel="stylesheet">
 	</head>
-	<body>
+	<body leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0">
 			
+<script language="JavaScript">
+<!--
+function setCookie(name, value, expires, path, domain, secure) {
+  var curCookie = name + "=" + escape(value) +
+      ((expires) ? "; expires=" + expires.toGMTString() : "") +
+      ((path) ? "; path=" + path : "") +
+      ((domain) ? "; domain=" + domain : "") +
+      ((secure) ? "; secure" : "");
+  document.cookie = curCookie;
+}
+
+function getCookie(name) {
+  var dc = document.cookie;
+  var prefix = name + "=";
+  var begin = dc.indexOf("; " + prefix);
+  if (begin == -1) {
+    begin = dc.indexOf(prefix);
+    if (begin != 0) return null;
+  } else
+    begin += 2;
+  var end = document.cookie.indexOf(";", begin);
+  if (end == -1)
+    end = dc.length;
+  return unescape(dc.substring(begin + prefix.length, end));
+}
+
+var sSessionReferer;
+var sInitialReferer;
+var sReferer;
+var dtExpire; 
+var dtNow = new Date();
+sReferer = document.referrer
+if (sReferer == '')
+	{
+		sReferer = 'none';
+	}
+	
+sInitialReferer = getCookie('InitialReferer')
+
+if (sInitialReferer == null)
+{
+	dtExpire = new Date(dtNow.getTime() + 1000 * 60 * 60 * 24 * 365 * 10) //10 Years
+	
+	
+		setCookie('InitialReferer',sReferer,dtExpire,'/')
+	
+}
+
+sSessionReferer = getCookie('SessionReferer');
+if (sSessionReferer == null)
+{
+
+	setCookie('SessionReferer',sReferer,null,'/');
+
+}
+
+-->
+
+</script>
 <script>
 	function section()
 		{	var sURL;document.location.href=document.all.selectcategory.value	}
@@ -26,23 +85,164 @@
 		{	var sURL;	sURL = '/all/ShowResults.htm'
 			sURL = sURL + '?keyword=' + document.all.gensearch.value;
 			if (document.all.gensearch.value != '')	{	document.location.href=sURL	}	}
+
+	function getElementPosition(elemID){ 
+		var offsetTrail = document.getElementById(elemID); 
+		var offsetLeft = 0; 
+		var offsetTop = 0; 
+		while (offsetTrail){ 
+		offsetLeft += offsetTrail.offsetLeft; 
+		offsetTop += offsetTrail.offsetTop; 
+		offsetTrail = offsetTrail.offsetParent; 
+		}
+		if (navigator.userAgent.indexOf('Mac') != -1 && typeof document.body.leftMargin != 'undefined'){ 
+		offsetLeft += document.body.leftMargin; 
+		offsetTop += document.body.topMargin;
+		}
+		return {left:offsetLeft,top:offsetTop}; 
+		}
+	
+	function drawAdTableTop() {
+		var adtop = parseInt(getElementPosition('alpha').top);
+		var adbot = parseInt(getElementPosition('beta').top);
+		var adheight = adbot - adtop;
+		if (adheight >= 300)
+		{return '<table align="center" width="160" cellpadding="0" cellspacing="0" border="5" style="border-color:#ffa115;border-style:solid;"><tr><td align="center"><b>ZERO CASHBACK</b><br/>';}
+		else {return '';}
+	}
+
+	function drawAdTableBottom() {
+		var adtop = parseInt(getElementPosition('alpha').top);
+		var adbot = parseInt(getElementPosition('beta').top);
+		var adheight = adbot - adtop;
+		if (adheight >= 300) {return '<b>ZERO CASHBACK</b></td></tr></table><br/>';}
+		else {return '';}
+	}
+
+	function TCBReplace(sOrgVal,sSearchVal,sReplaceVal) 
+	{ 
+		var sVal; 
+		try 
+		{ 
+			sVal = new String(sOrgVal); 
+			if (sVal.length < 1) { return sVal; } 
+			var sRegExp = eval("/" + sSearchVal + "/g"); 
+			sVal = sVal.replace(sRegExp,sReplaceVal); 
+		} 
+		catch (exception)  { } 
+		return sVal; 
+	} 
+	
+	function TCBSearch()
+		{	var sURL;
+			var sKeywords;
+			try
+				{
+					sKeywords = document.all.powerbarsearch.value;
+					sKeywords = TCBReplace(sKeywords,"&","%26") 
+					sURL = '/PowerSearchResults.aspx?type=all&keyword=' + sKeywords;
+				}
+			catch (exception) 
+				{ 
+					sKeywords = ''
+				} 
+				
+			if (sKeywords == '')
+				{
+					try
+					{
+						sKeywords = document.all.retailersearch.value;
+						sKeywords = TCBReplace(sKeywords,"&","%26") 
+						sURL = '/RetailerResults.aspx?keyword=' + sKeywords;
+					}
+					catch (exception)  
+					{ 
+					} 
+				}
+			if (sKeywords == '')
+				{
+					try
+					{
+						sKeywords = document.all.productsearch.value;
+						sKeywords = TCBReplace(sKeywords,"&","%26") 
+						sURL = '/all/showresults.htm?search=yes&keyword=' + sKeywords;
+					}
+					catch  (exception)  
+					{
+						sKeywords = ''
+					}  
+				}	
+						
+			if (sKeywords != '')
+			{
+			window.location=sURL
+			}
+		}
 </script>
+<table cellspacing="0" cellpadding="0" border="0">
+	<tbody>
+		<tr bgcolor="#666666">
+			<td rowspan="2">
+				<img src="/images/powerbar_logo.gif" width="97" height="24" border="0"></td>
+			<td width="100%">
+				<table cellspacing="0" cellpadding="0" width="100%" border="0">
+					<tbody>
+						<tr>
+							<td height="24" class="BodySml" style="WIDTH: 725px">
+								<table cellspacing="0" cellpadding="0" border="0">
+									<tbody>
+										<tr>
+											<td valign="middle"><input class="BodySml" name="powerbarsearch" tabindex="999">
+											</td>
+											<td valign="middle"><img width="50" height="22" src="/images/PowerBarSearchBtn.gif" onclick="TCBSearch()" tabindex="2" alt="Search">
+											</td>
+											<td valign="middle" width="30">&nbsp;
+											</td>
+											<td><img width="19" height="15" alt="" src="/images/powerbar_Home.gif" border="0"></td>
+											<td class="BodySml"><a title="Visit Homepage" href="/"><span class="Powerbar">Home</span></a></td>
+											<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+											<td><img height="12" src="/images/powerbar_AddFavourite.gif" width="15" border="0"></td>
+											<td class="BodySml"><a title="AddToFavourites" href="Javascript:addbookmark()"><span class="Powerbar">Add 
+														To Favourites</span></a></td>
+											<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+											<td><img height="12" src="/images/powerbar_AddFavourite.gif" width="15" border="0"></td>
+											<td class="BodySml"><a title="Set As Homepage" href="/setashomepage.aspx"><span class="Powerbar">Set 
+														As HomePage</span></a></td>
+											<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+											<td><img height="12" src="/images/powerbar_AddFavourite.gif" width="15" border="0"></td>
+											<td class="BodySml"><a title="Set As Homepage" href="/myaccount.aspx?a=signup"><span class="Powerbar">Sign 
+														Up</span></a></td>
+											<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+							<td align="right">
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<hr color="white">
 <table class="main" cellspacing="0" cellpadding="0" width="100%" border="0">
 	<tbody><tr>
-		<td class="body" style="PADDING-BOTTOM: 0px" valign="bottom" width="181" rowspan="2"><a href="/"><img src="/images/headerlogo.gif" border="0"></a></td>
+		<td class="body" style="PADDING-BOTTOM: 0px" valign="bottom" width="181" rowspan="2"><a href="/"><img width="292" height="87" src="/images/headerlogo.gif" border="0"></a></td>
 	</tr>
 	<tr>
-		<td valign="bottom" height="62" align="center"><a href="/myaccount.aspx?a=signup"><img border="0" src="/images/HeaderBanner.gif" alt="Yes... you really do get all of the commission back. Click about us to find out why we would do this or click here to sign up."></a>
+		<td valign="bottom" align="center" height="62"><a href="/myaccount.aspx?a=signup"><img alt="Yes... you really do get all of the commission back. Click about us to find out why we would do this or click here to sign up." src="/images/HeaderBanner.gif" border="0"></a>
 			<div class="webBoxCompact" id="webSearchBox">
 				<table height="45" cellspacing="0" cellpadding="0" width="100%" border="0">
 					<tbody><tr>
-						<td align="center" background="/images/hdrbarright.gif"><font class="BodySml"> <a href="/myaccount.aspx">
-									Sign In / View Account</a>&nbsp;|&nbsp;<a href="/">Home</a> &nbsp;|&nbsp; <a href="/RetailersByLetter0.htm">
-									Retailers</a> &nbsp;|&nbsp; <a href="/products.htm">Products</a> &nbsp;|&nbsp;
-								<a href="/aboutus.aspx">About Us</a> |&nbsp; <a href="/faqs.aspx">FAQs</a> |&nbsp;
-								<a href="/inviteafriend.aspx">Invite a Friend</a> |&nbsp; <a href="/setashomepage.aspx">
-									Set as Homepage</a> |&nbsp; <a href="javascript:window.external.AddFavorite('http://www.topcashbcack.co.uk', 'TopCashBack - Cash Back Site')">
-									Bookmark</a></font></td>
+						<td align="left" background="/images/hdrbarright.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font class="BodySml"><a href="/myaccount.aspx"><b>Sign 
+										In / View Account</b></a> &nbsp;&nbsp;&nbsp;|&nbsp; <a href="/">Home</a>
+								&nbsp;|&nbsp; <a href="/RetailersByLetter0.htm">Retailers</a> &nbsp;|&nbsp; <a href="/products.htm">
+									Products</a> &nbsp;|&nbsp; <a href="/aboutus.aspx">About Us</a> |&nbsp; <a href="/faqs.aspx">
+									FAQs</a> |&nbsp; <a href="/inviteafriend.aspx">Refer a Friend</a> |&nbsp; <a href="/RetailersComparison.htm">
+									How We Compare</a> </font>
+						</td>
 					</tr>
 				</tbody></table>
 			</div>
@@ -50,7 +250,6 @@
 	</tr>
 </tbody></table>
 <br>
-
 
 			
 			<table align="center" width="75%">
@@ -87,11 +286,11 @@
 			</tbody></table>
 			
 <div align="center" style="LINE-HEIGHT:22pt">
-
-	© 2005 TopCashBack - All Rights Reserved. 
-		 - <a href="/contact.aspx">contact us</a> -
-		<a href="/terms.aspx">terms and conditions</a> -
-		<a href="/privacy.aspx">privacy policy</a>
+	©
+	
+	2005-2006
+	TopCashBack - All Rights Reserved. - <a href="/contact.aspx">contact us</a> - <a href="/terms.aspx">
+		terms and conditions</a> - <a href="/privacy.aspx">privacy policy</a>
 </div>
 
 	
