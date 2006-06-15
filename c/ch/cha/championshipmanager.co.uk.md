@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the championshipmanager.co.uk privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217122039id_/http%3A//www.championshipmanager.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the championshipmanager.co.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615041850id_/http%3A//www.championshipmanager.co.uk/privacy.php) for the most accurate reproduction.*
 
-# Championship Manager 5 - Official Website
+# Championship Manager 2006 - Official Website
 
 ## Privacy Statement
 
@@ -65,3 +65,21 @@ Please address all mail to:
 Web Master, c/o Eidos Interactive, Wimbledon Bridge House, 1 Hartfield Road, Wimbledon, London SW19 3RU, England. 
 
  
+
+****  
+Master|  49.8p  
+---|---  
+ ****  
+Elite|  49.1p  
+ ****  
+Expert|  48.5p  
+ ****  
+Grand Master|  46.1p  
+ ****  
+Professional|  44.9p  
+ ****  
+Expert|  43.2p  
+ ****  
+Elite|  42.4p  
+ ****  
+Elite|  41.3p
