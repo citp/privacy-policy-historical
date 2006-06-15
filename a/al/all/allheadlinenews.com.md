@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allheadlinenews.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214080316id_/http%3A//www.allheadlinenews.com/legal/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allheadlinenews.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615203653id_/http%3A//www.allheadlinenews.com/legal/privacypolicy.shtml) for the most accurate reproduction.*
 
 # All Headline News - Privacy Policy
 
