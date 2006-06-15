@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the masterlock.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213200924id_/http%3A//www.masterlock.com/general/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masterlock.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615160300id_/http%3A//masterlock.com/general/privacy.shtml) for the most accurate reproduction.*
 
 # Master Lock: Privacy Notice
 
   
-Master Lock Company  
+Master Lock Company L.L.C.  
 World Headquarters  
 137 W Forest Hill Avenue  
 PO Box 927  
@@ -25,6 +25,6 @@ Master Lock reserves the right to change or update this policy at any time by po
 
 Please see the Master Lock Company's 
 
-[legal notice](https://web.archive.org/web/20051213200924id_/http%3A//www.masterlock.com/general/legal.shtml) for more information.  
+[legal notice](https://web.archive.org/web/20060615160300id_/http%3A//masterlock.com/general/legal.shtml) for more information.  
   
 
