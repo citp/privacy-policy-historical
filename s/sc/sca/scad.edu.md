@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scad.edu privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220113307id_/http%3A//www.scad.edu/shared/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scad.edu privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615182459id_/http%3A//scad.edu/shared/privacy) for the most accurate reproduction.*
 
 # Savannah College of Art and Design: Privacy Policy
 
