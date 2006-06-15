@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aaii.com privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227192332id_/http%3A//aaii.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aaii.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615020326id_/http%3A//aaii.com/privacy) for the most accurate reproduction.*
 
 # AAII.com Privacy Policy
 
@@ -8,7 +8,7 @@ We request your E-mail address as part of the registration process for AAII.com.
 
 The information we collect through log analysis is not specific to any one user and remains confidential. This information is used to determine popular areas of the site by measuring clicks and the length of time a member spends on a page. We keep track of this data for determining trends and statistics internally. 
 
-AAII.com uses [cookies](https://web.archive.org/web/20051227192332id_/http://www.aaii.com/privacy/cookiepolicy.cfm) to remember your login settings. This allows you to wander through the site and certain member security points without any disturbance. Our site is set to keep you logged in for 60 minutes. This means that during a single browser session you can wander to any other site and come back to AAII.com and remain logged in. If after 60 minutes you hit a security point in AAII.com you'll have to re-enter your login information. We are in no way extracting personal information through the use of cookies. **For more information on cookies, click[here](https://web.archive.org/web/20051227192332id_/http://www.aaii.com/privacy/cookiepolicy.cfm).**
+AAII.com uses [cookies](https://web.archive.org/web/20060615020326id_/http://aaii.com/privacy/cookiepolicy.cfm) to remember your login settings. This allows you to wander through the site and certain member security points without any disturbance. Our site is set to keep you logged in for 60 minutes. This means that during a single browser session you can wander to any other site and come back to AAII.com and remain logged in. If after 60 minutes you hit a security point in AAII.com you'll have to re-enter your login information. We are in no way extracting personal information through the use of cookies. **For more information on cookies, click[here](https://web.archive.org/web/20060615020326id_/http://aaii.com/privacy/cookiepolicy.cfm).**
 
 Sincerely,  
 [webmaster@aaii.com](mailto:webmaster@aaii.com)  
