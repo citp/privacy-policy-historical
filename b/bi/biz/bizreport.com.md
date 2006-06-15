@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizreport.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210044704id_/http%3A//bizreport.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizreport.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210753id_/http%3A//www.bizreport.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Statement - BizReport.com
 
