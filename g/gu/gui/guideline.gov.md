@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the guideline.gov privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230042403id_/http%3A//www.guideline.gov/about/about_cookie.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guideline.gov privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615204341id_/http%3A//www.guideline.gov/about/about_cookie.aspx) for the most accurate reproduction.*
 
 # NGC - About - Cookie Policy
 
-[About](https://web.archive.org/web/20051230042403id_/http%3A//www.guideline.gov/about/about.aspx) > Cookie Policy 
+[About](https://web.archive.org/web/20060615204341id_/http%3A//www.guideline.gov/about/about.aspx) > Cookie Policy 
 
 ## National Guideline Clearinghouse™ (NGC) Privacy Notice and Policy Statement on Cookies
 
