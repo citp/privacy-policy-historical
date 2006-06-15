@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the scenedaily.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219143855id_/http%3A//www.scenedaily.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scenedaily.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615052716id_/http%3A//www.scenedaily.com/privacy_policy.html) for the most accurate reproduction.*
 
 # SCENE Daily: About Us: Bios
 
 ### Privacy Policy
 
-The Sceneplus.com web site is maintained by Street & Smith's Sports Group, 120 South Morehead St., Suite 400, Charlotte, NC 28202. We can be reached by email at [rfisher@amcity.com](mailto:rfisher@amcity.com). 
+The SceneDaily.com web site is maintained by Street & Smith's Sports Group, 120 South Morehead St., Suite 400, Charlotte, NC 28202. We can be reached by email at [rfisher@amcity.com](mailto:rfisher@amcity.com). 
 
 How Street & Smith's Sports Group uses information provided by you: This site does not collect personally identifying information about individuals except when specifically and knowingly provided by such individuals. A user's personally identifying information may be used by Street & Smith's Sports Group for editorial purposes. Street & Smith's Sports Group may also use such information for marketing and promotional purposes and may share the information with companies that it has pre-screened. Individuals may request that their information not be used for commercial purposes by contacting Street & Smith's Sports Group. 
 
