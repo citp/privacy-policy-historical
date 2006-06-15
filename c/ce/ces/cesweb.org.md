@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the cesweb.org privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212144214id_/http%3A//www.cesweb.org/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cesweb.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615053819id_/http%3A//www.cesweb.org/privacy_policy.asp) for the most accurate reproduction.*
 
-# 2006 International CES: Privacy Policy
+# 2007 International CES: Privacy Policy
 
 |   
 [](http://www.ce.org/)  
-  
 |  |  |  1_1_  
 
 
