@@ -1,22 +1,24 @@
-> *The following text is extracted and transformed from the superherohype.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231235252id_/http%3A//www.superherohype.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superherohype.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615195342id_/http%3A//www.superherohype.com/privacy.php) for the most accurate reproduction.*
 
-# Superhero Hype! - Privacy Policy
+# Superhero Hype! - Privacy Statement
 
-**Privacy Statement for www.superherohype.com**
+**Privacy Statement**
 
-**Superhero Hype!** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices of SuperheroHype.com. 
+SuperheroHype.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices of SuperheroHype.com. 
 
 #### Information Automatically Logged
 
-We use your IP address to administer our Web site.  The IP address is only employed to help identify the user when problems occur and when solving the problem.  The IP address will not be used for any other means.
+We use your IP address to administer our website.  The IP address is only employed to help identify the user when problems occur and when solving the problem.  The IP address will not be used for any other means.
 
 **Third Party Advertising**
 
-We use Gorilla Nation and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp).
+We use Gorilla Nation and other third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on this website and other websites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp).
 
 **Third Party Cookies**
 
-In the course of serving advertisements to this site, our third-party ad server, Gorilla Nation or their affiliates, or individual advertisers may place or recognize a unique "cookie" on your browser.
+In the course of serving advertisements to this 
+
+website, our third-party ad server, Gorilla Nation or their affiliates, or individual advertisers may place or recognize a unique "cookie" on your browser.
 
 #### Personal Information
 
@@ -24,23 +26,21 @@ Our site's mailing list form asks visitors to provide their email address. We us
 
 #### External Links
 
-This site contains links to other sites. **Superhero Hype** **! **is not responsible for the privacy practices or the content of such Web sites.
+This website contains links to other websites. SuperheroHype.com is not responsible for the privacy practices or the content of such websites.
 
 #### Public Forums
 
-This site makes chat rooms and forums available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+This website makes message boards available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
 #### Security
 
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. For more information about our security measures, you may send us an [e-mail](https://web.archive.org/web/20051231235252id_/http%3A//www.superherohype.com/feedback.php). 
+This website has security measures in place to protect the loss, misuse, and alteration of the information under our control. For more information about our security measures, you may [contact us](https://web.archive.org/web/20060615195342id_/http%3A//www.superherohype.com/contact.php). 
 
 ** Choice/Opt-Out **
 
-Our site provides users with the opportunity to opt-out of receiving communications from us at any time.
+Our website provides users with the opportunity to opt-out of receiving communications from us at any time.
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [e-mail](https://web.archive.org/web/20051231235252id_/http%3A//www.superherohype.com/feedback.php) us:  
-_Webmaster  
-Superhero Hype!  
+If you have any questions about this privacy statement, the practices of this website, or your dealings with this website, you can [contact us](https://web.archive.org/web/20060615195342id_/http%3A//www.superherohype.com/contact.php). _  
 _
