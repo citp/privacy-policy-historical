@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resume-resource.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217141959id_/http%3A//resume-resource.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resume-resource.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615110511id_/http%3A//www.resume-resource.com/privacy.html) for the most accurate reproduction.*
 
 # Resume-Resource.com Privacy Policy
 
@@ -59,6 +59,6 @@ Should you have other questions or concerns about these privacy policies, please
 
 * * *
 
-**[Back to Resume Articles](https://web.archive.org/web/20051217141959id_/http%3A//resume-resource.com/articles.html) | [Resume Examples](https://web.archive.org/web/20051217141959id_/http%3A//resume-resource.com/examples.html) | [Resume Home](https://web.archive.org/web/20051217141959id_/http%3A//resume-resource.com/index.html)**
+**[Back to Resume Articles](https://web.archive.org/web/20060615110511id_/http%3A//www.resume-resource.com/articles.html) | [Resume Examples](https://web.archive.org/web/20060615110511id_/http%3A//www.resume-resource.com/examples.html) | [Resume Home](https://web.archive.org/web/20060615110511id_/http%3A//www.resume-resource.com/index.html)**
 
 * * *
