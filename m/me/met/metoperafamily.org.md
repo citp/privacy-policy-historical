@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metoperafamily.org privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231163945id_/http%3A//www.metoperafamily.org/metopera/utility/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metoperafamily.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615023840id_/http%3A//www.metoperafamily.org/metopera/utility/privacy.aspx) for the most accurate reproduction.*
 
 # The Metropolitan Opera
 
@@ -6,7 +6,7 @@
 
 |  | 
 
-## 
+## Privacy Policy
 
 The Metropolitan Opera and the Metropolitan Opera Guild are committed to protecting the privacy and personal information of visitors to our web sites. The personal information referred to in this statement of our Privacy Policy includes, but may not be limited to, names, addresses, telephone numbers, e-mail addresses, and credit card information. As part of our commitment to your privacy, we support and adhere to the guidelines and practices adopted by the Direct Marketing Association’s Privacy Promise to American Consumers. 
 
