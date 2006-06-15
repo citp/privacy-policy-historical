@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the united.com privacy policy that was archived on 2005-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050529085405id_/http%3A//www.united.com/page/article/0%2C6722%2C1002%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the united.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615204627id_/http%3A//www.united.com/privacy) for the most accurate reproduction.*
 
 # United Airlines - Privacy Policy
 
-| | Quick links:  
----|---  
-|  [ Shop for flights](https://web.archive.org/link/0,6746,54067,00.html?navSource=QuickLinks&linkTitle=Shop+for+flights)  
-|  [ Special deals](https://web.archive.org/link/0,6746,601,00.html?navSource=QuickLinks&linkTitle=Special+deals)  
-|  [ Vacation packages](https://web.archive.org/page/article/0,6722,1028,00.html?navSource=QuickLinks&linkTitle=Vacation+packages)  
-|  [ Mileage summary](https://web.archive.org/link/0,6746,3120,00.html?navSource=QuickLinks&linkTitle=Mileage+summary)  
-|  [ Customer support](https://web.archive.org/page/article/0,6722,1277,00.html?navSource=QuickLinks&linkTitle=Customer+support)  
-|  [ ](https://web.archive.org/link/0,6746,53925,00.html?navSource=QuickLinks&linkTitle=%3Cimg+src%3D%27https%3A%2F%2Fwww.ua2go.com%2Fweb%2Fcommon%2Fimages%2FTed_QL_105x42.gif%27+alt%3D%27Fly+Ted%27+border%3D0%3E)  
   
+| 
+
+Back
+
 | 
 
 **Your Privacy Is Important To Us**  
@@ -40,4 +36,5 @@ United may disclose personal information if required to do so by law, court orde
 
 
   
-|  | 
+|  |   
+---|---|---
