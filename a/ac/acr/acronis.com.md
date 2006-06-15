@@ -1,35 +1,35 @@
-> *The following text is extracted and transformed from the acronis.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211205824id_/http%3A//www.acronis.com/enterprise/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acronis.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210824id_/http%3A//www.acronis.com/enterprise/company/privacy.html) for the most accurate reproduction.*
 
-# Company :: Privacy Statement
+# Acronis very respects your privacy, exactly as it declared in company privacy statements
 
 [Home](https://web.archive.org/enterprise/) >
 
-As an organization, Acronis greatly respects your privacy. We take great care of all information submitted by customers and site visitors at acronis.com, and guarantee that all such information is obtained voluntarily.
+Being a solid organization, Acronis greatly respects your privacy. We take care of all information submitted by customers and visitors of acronis.com, and guarantee that all such information is obtained voluntarily.
 
   
 
 
 ### What we collect:
 
-Acronis collects customer information at various locations on its Web site (acronis.com), including, product registration areas, promotional sign-up areas and newsletter registration areas. The type of information collected includes standard contact information such as name, email, postal address and demographic information.
+Acronis collects the customer's information at various locations on its Web site (acronis.com), including product registration areas, promotional sign-up areas, and newsletter registration areas. The type of information collected includes standard contact information such as name, email, postal address and demographic information.
 
   
 
 
 ### How we use customer information:
 
-This information is used primarily to help Acronis customize Web site content, service and support engagements and product information. Secondarily, the collected information is used to inform you of the latest developments at Acronis, including new product releases, notable upgrades, special offers and other relevant information.
+This information is primarily used to help Acronis customize its Web site content, service and support engagements and product information. Secondarily, the collected information is used to inform you of the latest developments of Acronis, including new product releases, notable upgrades, special offers and other relevant information.
 
-The information we collect is for Acronis business purposes only, and as of the last update to this statement, we do not share customer information with any third party entity.
+The information we collect is intended for Acronis business purposes only. We do not share the customer's information with any third party entity.
 
   
 
 
 ### Removal procedures
 
-As all customer information is collected via opt-in methods, we believe all information you receive from Acronis will be relevant to your computing needs. However, if at any time, you wish to no longer receive communications from Acronis, simply send and email to [support@acronis.com](mailto:support@acronis.com) and include "Remove" in the subject line.
+As all customer information is collected via opt-in methods, we believe all information you receive from Acronis will be relevant to your computing needs. However, if you wish to receive communications from Acronis no longer, simply visit [https://www.acronis.com/my/subscriptions/](https://web.archive.org/enterprise/my/subscriptions/ "Subscription") and check the **"Don't send me any messages"** option.
 
-If you need to change and/or update your contact information, you can send an email to the same email address, [support@acronis.com](mailto:support@acronis.com).
+You can also change and/or update your profile including your contact information at [https://www.acronis.com/my/profile/](https://web.archive.org/enterprise/my/profile/ "Profile"). 
 
   
 
@@ -43,13 +43,13 @@ Acronis.com utilizes cookies (small pieces of data stored by your Web browser on
 
 ### Security
 
-Considering all of us demand our information remain private and secure, and that customers purchase products from acronis.com using credit cards, we have made security a core organizational focus. Acronis.com features the most proven and effective security solutions available, including SSL.
+Taking into consideration the fact that everyone wants their information to remain private and secure, and that customers purchase products from acronis.com using credit cards, we have made security a core organizational focus. Acronis.com features the most proven and effective security solutions available, including SSL.
 
   
 
 
 ### Contacting Acronis:
 
-If, after reading this statement, you have any questions about Acronis' privacy policy, please send an email to [info@acronis.com](mailto:info@acronis.com).
+If after reading this statement, you have any questions about Acronis' privacy policy, please [submit them](https://web.archive.org/enterprise/my/support/?ab=2) to Acronis Customer Service.
 
  
