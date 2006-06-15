@@ -1,32 +1,38 @@
-> *The following text is extracted and transformed from the frost.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218093110id_/http%3A//www.frost.com/prod/servlet/privacy-policy.pag) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frost.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615041901id_/http%3A//www.frost.com/prod/servlet/privacy-policy.pag) for the most accurate reproduction.*
 
 # 
 
-## About Us
+**About Us**
 
-This is a privacy policy for Frost &Sullivan. Our homepage on the Web is located at [__](http://www.frost.com/)[_http://www.frost.com_](http://www.frost.com/). The full text of our privacy policy is available on the Web at [__](http://www.frost.com/privacy-policy)[_http://www.frost.com/privacy-policy_](http://www.frost.com/privacy-policy) Users may go to [__](http://www.frost.com/privacy-policy)[_http://www.frost.com/privacy-policy_](http://www.frost.com/privacy-policy) for information on how to opt-in or opt-out of use of their information. 
+This is a privacy policy for Frost &Sullivan. 
 
-We invite you to contact us if you have questions about this policy. You may contact us by e-mail at [__](mailto:clientservices@frost.com)[_clientservices@frost.com_](mailto:clientservices@frost.com). 
+Our homepage on the Web is located at [http://www.frost.com](http://www.frost.com/). 
 
-## Dispute Resolution and Privacy Seals
+The full text of our privacy policy is available on the Web at <http://www.frost.com/privacy-policy>. 
 
-We have the following privacy seals: 
+Users may go to <http://www.frost.com/privacy-policy> for information on how to opt-in or opt-out of use of their information. 
+
+We invite you to contact us if you have questions about this policy. You may contact us by e-mail at [myfrost@frost.com](mailto:myfrost@frost.com). 
+
+**Dispute Resolution and Privacy Seals**
+
+Frost & Sullivan has the following privacy seals: 
 
   * **Dispute Procedure** : Please contact our Customer Service in case of a dispute. 
 
 
 
-## Additional Information
+**Additional Information**
 
 This policy is valid for 1 week from the time that it is loaded by a client. 
 
-## Data Collection
+**Data Collection**
 
 P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 3 data groups. The data practices of each group will be explained seperately. 
 
 * * *
 
-### Group "Basic information"
+**Group "Basic information"**
 
 We collect the following information: 
 
@@ -44,21 +50,19 @@ This data will be used for the following purposes:
 
 
 
-This data will be used by ourselves and our agents. 
+This data will be used by Frost & Sullivan and our agents. 
 
-The following explanation is provided for why this data is collected:
+**Why  Data is Collected by Frost & Sullivan**:
 
-> Data is collected and analysed in order to guage which content is of most interest to our visitors and subscribers.
+> Data is collected and analyzed in order to guage which content is of most interest to our visitors and subscribers and to detect the most recent trends and patterns for our research purposes.
 
 * * *
 
-### Group "Cookies"
+**Group "Cookies"**
 
-We collect the following information: 
+Cookies are used to track visitors to frost.com, so we can better understand which portions of our site best serve you. 
 
-  * HTTP cookies 
-
-
+Frost & Sullivan will collect HTTP cookies. 
 
 This data will be used for the following purposes:
 
@@ -69,17 +73,13 @@ This data will be used for the following purposes:
 
 
 
-This data will be used by ourselves and our agents. 
-
-The following explanation is provided for why this data is collected:
-
-> Cookies are used to track visitors to our site, so we can better understand what portions of our site best serve you.
+This data will be used by Frost & Sullivan and our agents. 
 
 * * *
 
-### Group "Mailing registration"
+**Group "Mailing registration"**
 
-We collect the following information: 
+Frost & Sullivan collects the following information: 
 
   * Physical contact information 
   * Online contact information 
@@ -93,19 +93,17 @@ This data will be used for the following purposes:
 
 
 
-This data will be used by ourselves and our agents. 
+This data will be used by Frost & Sullivan and our agents. 
 
-The following explanation is provided for why this data is collected:
-
-> This information is collected so that we can send you valuable and useful information which is relevant to your needs and interests.
+> This information is collected so that we can send you valuable and useful information which is relevant to your needs and interests in order to provide you with a strategic range of information.
 
 * * *
 
-## Cookies
+**Cookies**
 
 Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. 
 
-Our site makes use of cookies. Cookies are used for the following purposes: 
+Frost & Sullivan's site makes use of cookies. Cookies are used for the following purposes: 
 
   * Site administration 
   * Completing the user's current activity 
