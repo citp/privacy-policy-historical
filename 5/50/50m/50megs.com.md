@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the 50megs.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210102404id_/http%3A//www.50megs.com/fs_img/search/privacy-statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 50megs.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615200826id_/http%3A//www.50megs.com/fs_img/search/privacy-statement.htm) for the most accurate reproduction.*
 
 # Privacy Policy -- 50megs.com
+
+Privacy Statement 
 
 United Online Web Services, Inc. (“United Online Web Services”), a United Online Company, provides various consumer Internet subscription services including Internet web sites, web hosting services, domain registration, e-mail services and other services (collectively, the “Services”) under multiple brands including , without limitation, emailMyName, mySite, FreeServers, 50megs, Community Architect, and BizHosting. United Online Web Services is committed to safeguarding your privacy online and created this Privacy Statement in order to demonstrate our firm commitment to protecting the online privacy of users of our services 
 
