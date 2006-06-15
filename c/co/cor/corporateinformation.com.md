@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corporateinformation.com privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623110456id_/http%3A//corporateinformation.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corporateinformation.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615053459id_/http%3A//www.corporateinformation.com/privacy.htm) for the most accurate reproduction.*
 
 # CorporateInformation Privacy Policy
 
@@ -22,7 +22,7 @@ CorporateInformation.com collects only the personal information that you volunta
 
             -            To respond to your questions;
 
--            To inform you of other products and services of our affiliates;
+            -            To inform you of other products and services of our affiliates;
 
             -            To send you occasional information related to the economy or stock markets;
 
@@ -40,4 +40,4 @@ CorporateInformation.com collects only the personal information that you volunta
 
             **Changes and Opting Out**
 
-            From time to time, CorporateInformation.com may change this privacy policy.  To keep up-to-date on any changes, please check this site periodically.  If at any time you have a question about this privacy policy or you wish to opt out of access to CorporateInformation.com’s services, please email us at [ci@wisi.com.](mailto:ci@wisi.com)
+            From time to time, CorporateInformation.com may change this privacy policy.  To keep up-to-date on any changes, please check this site periodically.  If at any time you have a question about this privacy policy or you wish to opt out of access to CorporateInformation.com’s services, please [Contact Us](https://web.archive.org/web/20060615053459id_/http%3A//www.corporateinformation.com/contactus.asp) with your request.
