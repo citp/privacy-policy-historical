@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adesa.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228183354id_/http%3A//adesa.com/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adesa.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615025228id_/http%3A//www.adesa.com/privacy.do) for the most accurate reproduction.*
 
 # ADESA.com [Working for Dealers...Everyday!]
 
