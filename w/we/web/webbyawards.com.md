@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the webbyawards.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229124239id_/http%3A//www.webbyawards.com/about/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webbyawards.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615022249id_/http%3A//webbyawards.com/about/privacy-policy.php) for the most accurate reproduction.*
 
 # Webby Awards
 
-[team](https://web.archive.org/web/20051229124239id_/http%3A//www.webbyawards.com/about/team.php)  
-[history](https://web.archive.org/web/20051229124239id_/http%3A//www.webbyawards.com/about/history.php)  
-[calendar](https://web.archive.org/web/20051229124239id_/http%3A//www.webbyawards.com/about/calendar.php)  
-[lectures](https://web.archive.org/web/20051229124239id_/http%3A//www.webbyawards.com/about/lectures.php)  
-[011](https://web.archive.org/web/20051229124239id_/http%3A//www.webbyawards.com/about/011.php)  
-[contact us](https://web.archive.org/web/20051229124239id_/http%3A//www.webbyawards.com/about/contact.php)
+[team](https://web.archive.org/web/20060615022249id_/http%3A//webbyawards.com/about/team.php)  
+[history](https://web.archive.org/web/20060615022249id_/http%3A//webbyawards.com/about/history.php)  
+[calendar](https://web.archive.org/web/20060615022249id_/http%3A//webbyawards.com/about/calendar.php)  
+[lectures](https://web.archive.org/web/20060615022249id_/http%3A//webbyawards.com/about/lectures.php)  
+[011](https://web.archive.org/web/20060615022249id_/http%3A//webbyawards.com/about/011.php)  
+[contact us](https://web.archive.org/web/20060615022249id_/http%3A//webbyawards.com/about/contact.php)
 
 Want to tell a friend about the Webby Awards? Click here.
 
@@ -48,7 +48,7 @@ When you submit a site(s), we need to know your name, email address, phone numbe
 When you sign up for The 011, we collect only an email address to deliver the requested information.  
   
 **Voting for The People's Voice Awards**  
-When you register to vote for The People's Voice Awards we collect a name and an email address to establish a unique identifier for each voter. This lets us provide maximum security against "ballot stuffing" and helps us notify voters with information pertaining to The People's Voice Awards. We will also use your email address to send you a reminder email to participate in the Webby Awards each year. If you do not wish to receive this reminder, you may email jcollins@webbyawards.com and ask to be taken off the mailing list. You will also have the opportunity to opt-in to receive occasional information from our partners. If you wish to stop receiving this information, you may unsubscribe from the link at the bottom of the email from our partner, or email jcollins@webbyawards.com and ask to be taken off the mailing list.  
+When you register to vote for The People's Voice Awards we collect a name, an email address and some additional information like age, gender, schooling, salary and industry to establish a unique identifier for each voter. WE DO NOT USE THIS INFORMATION FOR MARKETING PURPOSES. This lets us provide maximum security against "ballot stuffing" and helps us notify voters with information pertaining to The People's Voice Awards. We will also use your email address to send you a reminder email to participate in the Webby Awards each year. You will also have the opportunity to opt-in to receive occasional information from our partners. If you wish to stop receiving this information, you may unsubscribe from the link at the bottom of the email from our partner, or email [jcollins@webbyawards.com](mailto:jcollins@webbyawards.com) and ask to be taken off the mailing list.  
   
 **Tell a Friend Notifications**  
 When you request a notification to be sent to your friend, we ask you for your name, email address and your friend's name and email address. We do not use this information for any other purpose than to send your friend notifications about the Webby Awards.  
