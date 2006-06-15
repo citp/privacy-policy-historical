@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dukascopy.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218034443id_/http%3A//www.dukascopy.com/swiss/english/privacypolicy/) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dukascopy.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616000847id_/http%3A//www.dukascopy.com/swiss/english/privacypolicy/) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -43,3 +43,11 @@ Once sent to us, personal data is stored on our servers, to which access is stri
 **Contact Details**
 
 If you require any additional information or you have any further questions concerning our privacy policy please do not hesitate to contact us at [info@dukascopy.com](mailto:info@dukascopy.com)
+
+[ **Online Forex Trading**   
+](http://www.dukascopy.com/swiss/english/forex/trading/) | [ **Forex Trading Platform**   
+](http://www.dukascopy.com/swiss/english/forex/trading_platform/) | [ **Interbank Liquidity Providers**   
+](http://www.dukascopy.com/swiss/english/forex/interbank_liquidity/) | [ **Market Information**   
+](http://www.dukascopy.com/swiss/english/forex/trading_market_info/) | [**Tranding Rules and Conditions**   
+](http://www.dukascopy.com/swiss/english/forex/trading_rules/)  
+---|---|---|---|---
