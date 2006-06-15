@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artistdirect.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230142410id_/http%3A//www.artistdirect.com/nad/misc/policy/0%2C%2C%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artistdirect.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615205554id_/http%3A//www.artistdirect.com/nad/misc/policy/0%2C%2C%2C00.html) for the most accurate reproduction.*
 
 # Free Music Download, MP3 Music, Music Chat, Music Video, Music CD, ARTISTdirect Network
 
@@ -103,8 +103,9 @@ ARTISTdirect.com gives users the following options for reviewing and modifying i
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:  
 _Customer Service  
 ARTISTdirect, Inc.  
-10900 Wilshire Blvd., Suite 1400  
-Los Angeles, CA 90024  
+1601 Cloverfield Blvd.  
+Suite 400 South  
+Santa Monica, CA 90404  
 USA
 
 revised as of 5/19/2005 
