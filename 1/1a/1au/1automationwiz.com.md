@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1automationwiz.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212213631id_/http%3A//www.1automationwiz.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1automationwiz.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616015721id_/http%3A//www.1automationwiz.com/privacy.htm) for the most accurate reproduction.*
 
 # Shopping Cart Software and Autoresponder Accounts
 
@@ -6,7 +6,31 @@
   
   
   
-|   | 
+|  |  |   
+---|---|---  
+|   
+  
+"I love this system!
+
+In just a few short hours I was able to go from the stress of operating my web business manually, to the ease, simplicity & profitability of a hands free system.
+
+I applaud you!"
+
+Mike Lamb, Host of the moneyroom show  
+www. moneyroom.com
+
+"I made money with your program the for I even paid for it. 
+
+The free trial was so effective and the customer support so excellent that you were clearly might only choice!"
+
+Zach Waldman  
+ceospecialevent.com
+
+[Read More Rave Reviews](https://web.archive.org/web/20060616015721id_/http%3A//www.1automationwiz.com/shopping-cart-reviews.htm)  
+  
+|   
+|   
+  | 
 
 Cyber Samurai Marketing, Inc. strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period."
 
@@ -14,7 +38,7 @@ How we gather information from users
 
 How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. 
 
-Like most Web sites, our company also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site’s features according to your preferences.
+Like most Web sites, our company also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site's features according to your preferences.
 
 What we do with the information we collect
 
