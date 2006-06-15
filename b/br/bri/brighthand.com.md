@@ -1,15 +1,20 @@
-> *The following text is extracted and transformed from the brighthand.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228110201id_/http%3A//www.brighthand.com/info/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brighthand.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615023004id_/http%3A//www.brighthand.com/privacy) for the most accurate reproduction.*
 
-# Brighthand — Privacy Policy
+# PDA and SmartPhone Reviews and News
 
-Brighthand respects your privacy. You will NEVER have to register or provide any personal information in order to browse our website and read the Brighthand discussion boards (however, registration is required for posting on the discussion boards and for entering our contests and sweepstakes). 
+**_Registration_**  
+In order to use some features of this website, a user must first complete the registration form. During registration a user is required to give their contact information (such as name and email address). This information is used to contact the user about the services on our site for which they have expressed interest. It is optional for the user to provide demographic information (such as age and gender), but is encouraged so we can provide a more personalized experience on our site. This information is displayed in the user's public profile and can be viewed by all visitors of this Web site. Please keep in mind that whenever you voluntarily disclose personal information online this information is available to the public, however **we do not display e-mail address' of our users**. This is to ensure total privacy of our users. 
 
-###  Information about You
+**_Cookies_**  
+A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. The only drawback to this is that the user will have to manually type in their password each time they want to access a password protected feature. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. 
 
-Brighthand may from time to time ask you to provide information about yourself to us on a voluntary basis, through surveys, polls, and as a requirement for entry into Brighthand contests or sweepstakes. This information may include your name, address, telephone number, Zip Code, e-mail address, sex, age range, the types of devices you use, planned purchases, and what kinds of features you prefer in a PDA. 
+We sometimes use third-party advertising companies to serve ads on our website. These third-party advertising companies employ cookie and 1x1 pixel .gif technology to measure and improve the effectiveness of ads for their clients. To do so, these companies may use anonymous information about your visits to our Web site and other Web sites. This information can include: date/time of banner ad shown, the banner ad that was shown, their cookie, the IP address. This information can also be used for online preference marketing purposes. 
 
-Brighthand aggregates this information to determine trends, preferences, and demographics about the handheld community in general. We will use this aggregated information to study the trends of our user community. Occassionally we may provide this aggregate data to the sponsors of Brighthand. 
+**_Log Files_**  
+We use IP addresses to analyze trends, administer the site, and track user's actions on our Web site. IP addresses are not linked to personally identifiable information. 
 
-###  Your e-mail address
+**_Links_**  
+This web site contains links to other sites. Please be aware that Brighthand.com is not responsible for the privacy practices or content of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
 
-No one enjoys unsolicited e-mail, or spam. However, Brighthand may use your e-mail address to send you information about Brighthand that we think you might be interested in. You can [easily opt-out from receiving e-mail](mailto:optout@brighthand.com) from Brighthand by letting us know. Brighthand will NEVER sell or share your e-mail address with any outside source without your permission. 
+**_Polls & Contests_**  
+From time-to-time our site requests information from users via surveys or contests. Participation in these polls or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age). Contact information will be used to notify the winners and award prizes. Poll results are not linked to personally identifiable information. Results will only be used for purposes of monitoring or improving the use and satisfaction of this site. 
