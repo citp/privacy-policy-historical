@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jigzone.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228122047id_/http%3A//www.jigzone.com/faq/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jigzone.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615122732id_/http%3A//www.jigzone.com/faq/privacy.php) for the most accurate reproduction.*
 
 # JigZone: Privacy Policy
 
@@ -7,7 +7,7 @@ Jigzone.com has created this privacy statement in order to demonstrate our firm 
 #### Information Collection and Use
 
   * JigZone collects personally identifiable information when you register for a JigZone account. JigZone may also receive personally identifiable information from our business partners. 
-  * When you register with JigZone, we ask your name, email address, birth date, gender, zip code and personal interests. Once you register with JigZone and sign in to our service, you are not anonymous to us. 
+  * When you register with JigZone, we ask your name, email address. Once you register with JigZone and sign in to our service, you are not anonymous to us. 
   * Jigzone automatically receives and records information on our server logs from your browser including your IP address, JigZone cookie information and the page you requested. 
   * Jigzone uses information for three general purposes: to customize the advertising and content you see on our pages, to fulfill your requests for certain products and services, and to contact you about specials and new products.
 
@@ -27,7 +27,7 @@ Jigzone.com has created this privacy statement in order to demonstrate our firm 
 
 #### Your Ability to Edit Your account Information and Preferences
 
-  * JigZone gives you the ability to edit your [Registration Information](http://www.jigzone.com/member/regedit.php) and preferences at any time at <http://www.jigzone.com/member/regedit.php>
+  * JigZone gives you the ability to edit your [Registration Information](http://www.jigzone.com/member/changeNEP.php) and preferences at any time at <http://www.jigzone.com/member/changeNEP.php>
 
 
 
