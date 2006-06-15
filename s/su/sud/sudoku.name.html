@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sudoku.name privacy policy that was archived on 2005-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051213211558id_/http%3A//www.sudoku.name/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sudoku.name privacy policy that was archived on 2006-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615200542id_/http%3A//sudoku.name/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -14,28 +14,13 @@
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tbody><tr> 
     <td colspan="2"> 
-      
-
-
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta http-equiv="Expires" content="Thu, 01 Dec 1994 16:00:00 GMT">
-<meta http-equiv="Cache-Control" content="no-cache">
-<meta name="keywords" content="sudoku, su-doku, sudoku online, play sudoku, free sudoku, play sudoku free">
-<meta name="description" content="Play sudoku for free over here. Play sudoku online, play su-doku for fun">
-<title>Sudoku, Su doku, sudoku online, free sudoku, play sudoku free</title>
-<link href="sudoku.css" type="text/css" rel="stylesheet">
-
-
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr> 
-    <td><img src="pictures/head2.png" width="372" height="61"></td>
+    <td><a href=""><img src="pictures/head2.png" width="372" height="61" border="0"></a></td>
     <td>&nbsp;</td>
     <td align="right"><img src="pictures/head-castle.jpg" width="104" height="77"></td>
   </tr>
 </tbody></table>
-
-
     </td>
   </tr>
   <tr>
@@ -53,10 +38,25 @@
 <script>
 function favorites()
 {
-	//window.external.AddFavorite(location.href, document.title);
-	window.external.AddFavorite('http://www.sudoku.name/?ln=en', '﻿Sudoku');
+	//dont take this off, or change all menu.txt
+	//window.external.AddFavorite(location.href, '﻿Sudoku');
+	title=document.title;
+	url=location.href;
+	if (window.sidebar) 
+	{ // Mozilla Firefox Bookmark
+		//alert("yes");
+		window.sidebar.addPanel(title, url,"");	
+	} 
+	else if( window.external ) 
+	{ // IE Favorite		
+		//alert("no");
+		window.external.AddFavorite( url, title); 
+	}	
+	else if(window.opera && window.print) 
+	{ // Opera Hotlist		
+		return true; 
+	}
 }
-
 </script>
 
 
@@ -76,44 +76,46 @@ function favorites()
           <td width="98"><table width="100%" border="0" cellspacing="1" cellpadding="2">
               <tbody><tr> 
                 <td width="10%" valign="top" nowrap=""><img src="pictures/site_home.png" width="14" height="16"></td>
-                <td width="90%"><a href="index.php?ln=en"><font color="#000000" size="2" face="Verdana, Arial, Helvetica, sans-serif"> 
+                <td width="90%"><a href=""><font color="#000000" size="2" face="Verdana, Arial, Helvetica, sans-serif"> 
                   Sudoku                  </font></a></td>
               </tr>
               <tr> 
                 <td valign="top" nowrap=""><img src="pictures/play_mark.png" width="14" height="14"></td>
-                <td><a href="&#9;&#9;&#9;&#9;&#9;play-sudoku-en.php?a=online-games&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;"><font color="#000000" size="2" face="Verdana, Arial, Helvetica, sans-serif"> 
+                <td><a href="&#9;&#9;&#9;&#9;&#9;play/en&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;"><font color="#000000" size="2" face="Verdana, Arial, Helvetica, sans-serif"> 
                   <strong> 
                   Play Sudoku                  </strong></font></a></td>
               </tr>
               <tr> 
                 <td valign="top" nowrap=""><img src="pictures/information_mark1.gif" width="14" height="14"></td>
-                <td><a href="sudoku-rules.php?ln=en"><font color="#000000" size="2" face="Verdana, Arial, Helvetica, sans-serif"> 
+                <td><a href="rules/en"><font color="#000000" size="2" face="Verdana, Arial, Helvetica, sans-serif"> 
                   Sudoku rules                  </font></a></td>
               </tr>
               <tr> 
+                <td valign="top" nowrap=""><img src="pictures/solution.jpg" width="14" height="16"></td>
+                <td><a href="sudoku-solver/en"><font color="#000000" size="2" face="Verdana, Arial, Helvetica, sans-serif"> 
+                  Sudoku solver                  </font></a></td>
+              </tr>
+			                <tr> 
                 <td valign="top" nowrap=""><img src="pictures/add_favorites.png" width="14" height="16"></td>
                 <td><a href="javascript:favorites();"><font color="#000000" size="2" face="Verdana, Arial, Helvetica, sans-serif"> 
                   Add to favorites                  </font></a></td>
               </tr>
               <tr> 
                 <td valign="top" nowrap=""><img src="pictures/home_mark.gif" width="14" height="16"></td>
-                <td><a href="?ln=en" onclick="this.style.behavior='url(#default#homepage)'; this.setHomePage('http://www.sudoku.name/?ln=en'); return false;"><font color="#000000" size="2" face="Verdana, Arial, Helvetica, sans-serif"> 
+                <td><a href="javascript:;" onclick="this.style.behavior='url(#default#homepage)'; this.setHomePage(location.href); return false;"><font color="#000000" size="2" face="Verdana, Arial, Helvetica, sans-serif"> 
                   Turn to home page                  </font></a></td>
               </tr>
                             <tr> 
                 <td valign="top" nowrap=""><img src="pictures/sudoku-book.jpg" width="16" height="14"></td>
-                <td nowrap=""><div class="rotatingad"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a href="sudoku-book.php">Sudoku 
-                    book</a></font></div></td>
+                <td nowrap=""><div class="rotatingad"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a href="sudoku-book.php?ln=en">Sudoku book</a></font></div></td>
               </tr>
-			  <tr> 
+              <tr> 
                 <td valign="top" nowrap=""><img src="pictures/download-menu.png" width="16" height="18"></td>
-                <td nowrap=""><div class="rotatingad"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a href="download-sudoku.php">Download 
-                    Sudoku</a></font></div></td>
+                <td><div class="rotatingad"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a href="sudoku-software.php?ln=en">Sudoku Software</a> </font></div></td>
               </tr>
-			  <tr> 
+              <tr> 
                 <td valign="top" nowrap=""><img src="pictures/mobile-menu.png" width="16" height="18"></td>
-                <td><div class="rotatingad"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a href="palm-pda-mobile-sudoku.php">Sudoku 
-                    palm &amp; mobile</a></font></div></td>
+                <td><div class="rotatingad"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a href="sudoku-toys.php?ln=en">Sudoku toys</a></font></div></td>
               </tr>
                             <tr> 
                 <td valign="top" nowrap=""><img src="pictures/contact_mark.png" width="13" height="11"></td>
@@ -268,22 +270,57 @@ function favorites()
 
 <table width="60%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td align="center"><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong><a href=""><font color="#000000">English</font></a> 
-        | <a href="index-hb.php"><font color="#000000">עברית</font></a> | <a href="index-ru.php"><font color="#000000">Русский</font></a> 
-        | <a href="index-sk.php"><font color="#000000">Slovenčina</font></a> | 
-        <a href="index-es.php"><font color="#000000">Español</font></a> | <a href="index-de.php"><font color="#000000">Deutsch</font></a> 
-        | <a href="index-bg.php"><font color="#000000">Български</font></a><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong> 
-        | <a href="index-pt.php"><font color="#000000">Português</font></a></strong></font></strong></font></p>
+    <td align="center"><p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">
+	<strong><a href=""><font color="#000000">English</font></a></strong>
+        | 
+	<strong><a href="index-hb.php"><font color="#000000">עברית</font></a></strong>
+	 | 
+	 <strong><a href="index-ru.php"><font color="#000000">Русский</font></a></strong> 
+        | 
+	<strong><a href="index-sk.php"><font color="#000000">Slovenčina</font></a></strong>
+	 | 
+     <strong><a href="index-es.php"><font color="#000000">Español</font></a></strong>
+	  | 
+	  <strong><a href="index-de.php"><font color="#000000">Deutsch</font></a></strong> 
+        | 
+	<strong><a href="index-bg.php"><font color="#000000">Български</font></a></strong>
+        | 
+	<strong><a href="index-pt.php"><font color="#000000">Português</font></a></strong>
+	| 
+    <strong><a href="index-nl.php"><font color="#000000">Nederlands</font></a></strong>
+	| 
+    <strong><a href="index-ar.php"><font color="#000000" size="3">العربية</font></a></strong>
+	| 
+    <strong><a href="index-pl.php"><font color="#000000">Polski</font></a></strong>
+	| 
+    <strong><a href="index-jp.php"><font color="#000000">日本語</font></a></strong>
+	| 
+    <strong><a href="index-cn.php"><font color="#000000">汉语</font></a></strong>
+	| 
+    <strong><a href="index-ko.php"><font color="#000000">한국어</font></a></strong>
+	| 
+    <strong><a href="index-it.php"><font color="#000000">Italiano</font></a></strong>
+	| 
+    <strong><a href="index-fr.php"><font color="#000000">Français</font></a></strong>
+	</font></p>
             <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a href="privacy.php"><font color="#000000">privacy</font></a> |        <a href="cooperation.php?ln=en"> 
                 <font color="#000000">translation | cooperation | link exchange</font> 
                 </a> </font></p>
-      <font size="2" face="Verdana, Arial, Helvetica, sans-serif">
-            </font> 
-      <br><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> 
-        ﻿© 2005 www.sudoku.name All rights reserved        </font>
-      </td>
+            <font size="2" face="Verdana, Arial, Helvetica, sans-serif"> 
+            </font> <p><a href="http://www.kqzyfj.com/sc65ft1zt0GIOKMMJNGIHLHQMKJ?sid=Proudly+hosted+by+Hostgator" target="_blank" onmouseover="window.status='http://www.hostgator.com';return true;" onmouseout="window.status=' ';return true;"><font color="#000000" size="2" face="Verdana, Arial, Helvetica, sans-serif">Proudly 
+        hosted by, <font color="#000097">Hostgator</font></font></a>
+</p><p> 
+      <font size="2" face="Verdana, Arial, Helvetica, sans-serif"> 
+        ﻿© 2005-2006 www.sudoku.name All rights reserved        </font>
+      </p></td>
   </tr>
 </tbody></table>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-244750-1";
+urchinTracker();
+</script>
 
 
     </td>
