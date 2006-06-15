@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nbc4.tv privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218134331id_/http%3A//www.nbc4.tv/news/1176131/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbc4.tv privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210749id_/http%3A//www.nbc4.tv/news/1176131/detail.html) for the most accurate reproduction.*
 
 # NBC 4 - News - Online Privacy Statement
 
@@ -69,3 +69,6 @@ It is important to note that this site contains links to other sites, and that t
 USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE TERMS OF USE AND PRIVACY POLICY. 
 
 We reserve the right to change this policy at any time by posting a revised privacy policy. 
+
+  
+
