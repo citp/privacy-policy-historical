@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jesus.net privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223164006id_/http%3A//www.christ.com/loh-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jesus.net privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615101711id_/http%3A//www.christ.com/loh-privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy for www.Christ.com: The Lord of Hosts
+# www.Christ.com: Privacy Policy for The Lord of Hosts Website
 
 The Lord of Hosts website (www.Christ.com and its associated domains), and its advertisers and affiliates, are deeply committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of consumer information. 
 
@@ -22,10 +22,12 @@ While we believe that cookies enhance your Internet experience, you may choose a
 
 ## Privacy Policies for Third Party Advertising
 
-www.Christ.com works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.flycast.com/about_us/about-privacy.html>. 
+www.Christ.com occasionally works with third parties that serve ads to this site. To find out more about the policies of these advertisers, visit their websites for further information. 
 
 * * *
 
-If you have any additional questions about our dedication to consumer privacy, please contact us at Job@Lordofhosts.com 
+If you have any additional questions about our dedication to consumer privacy, please contact us using the contact form on our website: 
+
+[Send E-Mail to Christ.com](http://www.christ.com/loh-mail-contact.html)
 
 Thank you, and God bless you 
