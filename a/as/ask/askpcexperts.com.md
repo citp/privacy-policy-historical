@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the askpcexperts.com privacy policy that was archived on 2005-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051027200200id_/http%3A//www.askpcexperts.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askpcexperts.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615234801id_/http%3A//www.askpcexperts.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy
+# Computer Repair Service Online,Computer Repair Online,Computer Repair Course Online,Computer Repair Online Free,Computer Repair Training Online,Free computer Repair
 
 We keep your personal information private and secure. When you make a purchase from our site, you provide your name, email address, credit card information, address, phone number and a password. 
 
