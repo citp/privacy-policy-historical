@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the njlottery.net privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220081933id_/http%3A//njlottery.net/general/4-5_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the njlottery.net privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615110414id_/http%3A//www.njlottery.net/general/4-5_privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
