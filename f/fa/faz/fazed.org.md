@@ -1,14 +1,20 @@
-> *The following text is extracted and transformed from the fazed.org privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403073225id_/http%3A//www.fazed.org%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fazed.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210357id_/http%3A//fazed.org/privacy) for the most accurate reproduction.*
 
 # FAZED - Privacy Policy
 
-The FAZED Network, LLC. ("FAZED"), comprised of the Internet sites fazed.org and blogstar.org (the "FAZED Sites"), is committed to protecting the privacy of users of the FAZED Sites. At FAZED, we intend to give you as much control as possible over your personal information, including registration data. As part of the normal operation of the FAZED Sites, we collect information from you. This Privacy Statement describes the information we collect about you and how that information may be used.
+The FAZED Network, LLC. ("FAZED"), comprised of the Internet sites fazed.[net|org] and blogstar.org (the "FAZED Sites"), is committed to protecting the privacy of users of the FAZED Sites. At FAZED, we intend to give you as much control as possible over your personal information, including registration data. As part of the normal operation of the FAZED Sites, we collect information from you. This Privacy Statement describes the information we collect about you and how that information may be used.
 
 **Information Gathered through the FAZED Sites:**
 
 Currently, FAZED uses personal information as a basis for notifications to users, and in order to implement the Terms and Conditions of Use governing the FAZED Sites (the "Terms"). Generally, the user names, email addresses, and any additional information that a user may choose to post are publicly available on the FAZED Sites. When users voluntarily and publicly disclose personal information that may contain Registration Data, as defined in the Terms, or otherwise post personal information in conjunction with content subject to a license, such personal information necessarily will be disclosed subject to the terms of the applicable license. An example of such a disclosure includes, but is not limited to, a user's disclosure of personal information as part of a message posted to a public message forum.
 
- _Cookies_ : FAZED employs "cookies" to provide users with tailored information. A "cookie" is an element of data that a website, when visited by a user, sends to that user's browser which, in turn, may store that element on the user's hard drive or memory. FAZED uses cookies to better serve users of our FAZED Sites; any cookies sent by FAZED will be marked so that they will be accessible only by FAZED Sites subject to this Privacy Statement. However, at his or her option and at his or her sole expense and responsibility, any user may block or delete our cookies from his or her hard drive. However, by disabling cookies, certain site features and functionality may no longer work properly, or at all. _Other Notification_ : In order to implement or enforce the Terms, FAZED may use user-provided e-mail addresses to contact users on an individual basis. At no time, unless such disclosure is required by law, a governmental agency, or specifically authorized by the user, will FAZED disclose individual user personal information to unrelated third parties that is not publicly available.
+ _Cookies_
+
+: FAZED employs "cookies" to provide users with tailored information. A "cookie" is an element of data that a website, when visited by a user, sends to that user's browser which, in turn, may store that element on the user's hard drive or memory. FAZED uses cookies to better serve users of our FAZED Sites; any cookies sent by FAZED will be marked so that they will be accessible only by FAZED Sites subject to this Privacy Statement. However, at his or her option and at his or her sole expense and responsibility, any user may block or delete our cookies from his or her hard drive. However, by disabling cookies, certain site features and functionality may no longer work properly, or at all.
+
+ _Other Notification_
+
+: In order to implement or enforce the Terms, FAZED may use user-provided e-mail addresses to contact users on an individual basis. At no time, unless such disclosure is required by law, a governmental agency, or specifically authorized by the user, will FAZED disclose individual user personal information to unrelated third parties that is not publicly available.
 
 **Links with other sites**
 
@@ -16,7 +22,9 @@ The FAZED Sites contain links to other websites, whether owned or controlled by 
 
 **Choice**
 
- _Profile Display_ : In some cases, users' personal information may be publicly available through a user's profile display. In such cases, users have the option to opt out of publicly displaying their personal information, including e-mail addresses. Users may also enlist this technique when posing comments on certain FAZED Sites. In cases where site profiles allow users to display optional information publicly, such entry and display is at the user's discretion and may be changed at any time by the user. 
+ _Profile Display_
+
+: In some cases, users' personal information may be publicly available through a user's profile display. In such cases, users have the option to opt out of publicly displaying their personal information, including e-mail addresses. Users may also enlist this technique when posing comments on certain FAZED Sites. In cases where site profiles allow users to display optional information publicly, such entry and display is at the user's discretion and may be changed at any time by the user. 
 
 **Access**
 
@@ -36,7 +44,7 @@ If FAZED becomes aware that a user's personal information provided to FAZED has 
 
 **Updates to the Privacy Statement**
 
-To update the Privacy Statement, we will post both the changed version and its effective date at http://www.fazed.org/?p=privacy.
+To update the Privacy Statement, we will post both the changed version and its effective date at http://www.fazed.org/privacy/.
 
 **No Guarantees For Factors Beyond FAZED's Control
 
@@ -44,4 +52,4 @@ While this Privacy Statement expresses FAZED's standards for maintenance of priv
 
 **
 
-Last modified: 03/12/04
+Last modified: 12/3/05
