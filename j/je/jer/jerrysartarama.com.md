@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jerrysartarama.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401223212id_/http%3A//www.jerrysartarama.com/webcontent/information/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jerrysartarama.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615214914id_/http%3A//jerrysartarama.com/webcontent/information/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -23,7 +23,7 @@ When our registration/order form asks users to enter sensitive information (such
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage.
 
-If you have any questions about the security at our web site, you can send an email to uartist@aol.com.
+If you have any questions about the security at our web site, you can send an email to jerrys.customerservice@jerrysartarama.com.
 
 **Notification of Changes**  
 If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.  
