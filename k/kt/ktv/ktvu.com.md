@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ktvu.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219212712id_/http%3A//www.ktvu.com/station/1862830/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktvu.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615085008id_/http%3A//www.ktvu.com/station/1862830/detail.html) for the most accurate reproduction.*
 
 # KTVU.com - KTVU - Privacy Policy
 
