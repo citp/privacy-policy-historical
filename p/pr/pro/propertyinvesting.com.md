@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propertyinvesting.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218013533id_/http%3A//www.propertyinvesting.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyinvesting.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615152810id_/http%3A//propertyinvesting.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - PropertyInvesting.com
 
@@ -52,9 +52,13 @@ PropertyInvesting.com allows other companies that are presenting advertisements 
 
 PropertyInvesting.com uses web beacons to access our cookies within and outside our network of web sites and in connection with PropertyInvesting.com products and services. Web pages may contain electronic images (called a "single-pixel GIF" or "web beacon") that allow a web site to count users who have visited that page or to access certain cookies. 
 
-###  Your Ability to Edit and Delete Your Account Information and Preferences 
+###  Your Ability to Edit Your Account Information and Preferences 
 
-You may change or update the information you have supplied PropertyInvesting.com at any time. Please send an [e-mail](mailto:admin@propertyinvesting.com) with the update and we'll make the necessary changes as soon as possible. 
+You may change or update the information you have supplied PropertyInvesting.com at any time using edit function in the "[Profile](http://www.propertyinvesting.com/member/profile.html)" system. 
+
+However, if you would like to completely unsubscribe from PropertyInvesting.com, the easiest way to go about this is to click the "Unsubscribe" link at the bottom of a PropertyInvesting.com e-mail broadcast.
+
+If you have any questions, troubles or concerns, [let us know](mailto:admin@propertyinvesting.com?subject=privacy%20policy). 
 
 ###  Security 
 
@@ -63,5 +67,3 @@ Every effort is made to keep your information private and away from hackers. How
 ###  Changes to this Privacy Policy 
 
 PropertyInvesting.com may edit this policy from time to time. If we make any substantial changes we will notify you by posting a prominent announcement on our pages. 
-
-[](http://www.propertyinvesting.com/sima/click.php?id=88)
