@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the interclick.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221040956id_/http%3A//www.interclick.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interclick.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615020142id_/http%3A//interclick.com/privacy_policy.aspx) for the most accurate reproduction.*
 
-# InterClick - Privacy Policy
+# privacy_policy
 
 ### Information We Collect and How We Use It
 
