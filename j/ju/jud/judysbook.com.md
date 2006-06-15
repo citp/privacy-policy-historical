@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the judysbook.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211163521id_/http%3A//seattle.judysbook.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the judysbook.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615205349id_/http%3A//judysbook.com/about/privacy) for the most accurate reproduction.*
 
-# Judy's Book
+# Judy's Book: Privacy Policy
 
 Judy's Book is committed to protecting the privacy of our users. This privacy policy explains when and how personal information is collected, used, disclosed and protected with respect to our web site located at www.judysbook.com (the "Site"). By using the Site, you consent to the privacy practices described in this Policy, as modified from time to time by us. Please carefully review this policy so you understand our data privacy practices. 
 
@@ -40,7 +40,7 @@ We have put into place reasonable security measures in an effort to protect pers
 
 ## Control of Personal Information
 
-We give you the opportunity to opt-out of receiving communications from us and to view, correct or delete your personal information. 
+We give you the opportunity to opt-out of receiving communications from us and to view, correct or delete your personal information.
 
   1. If you do not want to receive e-mail from us, you can; (a) click on "Privacy" and alter your preferences accordingly; or (b) follow the opt-out instructions at the bottom of any email you receive from us. 
   2. If you want to view, correct or delete your personal information, you can access your information online by clicking the "Profile" link. 
@@ -71,7 +71,7 @@ Our web site contains links to other web sites. Any personal information you pro
 
 ## Your Comments or Concerns
 
-We welcome your feedback. If you have any comments or concerns about this privacy policy or would like to contact us for any reason, you may reach us at info@judysbookteam.com, or by mail at Judy's Book, Inc., P.O. Box 95137, Seattle, WA 98145-2137. 
+We welcome your feedback. If you have any comments or concerns about this privacy policy or would like to contact us for any reason, you may reach us at [info@judysbookteam.com](mailto:info@judysbookteam.com), or by mail at Judy's Book, Inc., P.O. Box 95137, Seattle, WA 98145-2137. 
 
 ## Data Changes
 
@@ -81,4 +81,4 @@ If you terminate your account or delete/change your data or content, we usually 
 
 We reserve the right to change this Policy at any time. We may use personal information for new, unanticipated uses not previously disclosed in this privacy policy. If our privacy practices change we will post the policy changes to our web site and notify you by indicating the date the privacy policy was last updated. We will also provide you with the ability to opt out of these new uses. We encourage you to check back at our web site periodically if you are concerned about how your information is used. 
 
-##### Last Updated: August, 2004
+Last Updated: August 2004
