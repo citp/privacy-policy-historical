@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the stratospherehotel.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214190005id_/http%3A//www.stratospherehotel.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stratospherehotel.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615063711id_/http%3A//www.stratospherehotel.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-|  | 
 
   
 
@@ -11,9 +9,7 @@ This Privacy Policy is effective as of May 1, 2003.
 
 I. APPLICATION OF THIS PRIVACY POLICY
 
-This Privacy Policy applies to all web sites owned or operated by Stratosphere and its subsidiaries (collectively, “Stratosphere”), including, but not limited to, the web sites for Stratosphere Casino Hotel & Tower and Arizona Charlies, including: 
-
-, , , , , ,  and  (collectively, "Stratosphere Web Sites"). Stratosphere Web Sites may be accessed through domain names in addition to the domain names listed above. This Privacy Policy does not apply to information collected by Stratosphere by means other than through Stratosphere Web Sites.
+This Privacy Policy applies to all web sites owned or operated by Stratosphere and its subsidiaries (collectively, “Stratosphere”), including, but not limited to, the web sites for Stratosphere Casino Hotel & Tower and Arizona Charlies, including: "stratospherehotel.com", "stratospherecasino.com", "stratospheretower.com", "arizonacharlies.com", "arizonacharliesdecatur.com", and "arizonacharliesboulder.com"(collectively, "Stratosphere Web Sites"). Stratosphere Web Sites may be accessed through domain names in addition to the domain names listed above. This Privacy Policy does not apply to information collected by Stratosphere by means other than through Stratosphere Web Sites.
 
 Certain transactions and services offered while visiting Stratosphere Web Sites may be processed or provided by strategic partners under contract with Stratosphere, even though it appears that you may not have left the Stratosphere Web sites, including reservations. This Privacy Policy does not apply to information collected by strategic partners, except that Stratosphere will treat information it receives about you from strategic partners under the terms of this Privacy Policy. Stratosphere does not have any control over how strategic partners use information they collect about you.
 
@@ -73,10 +69,3 @@ IX. CHANGES
 This Privacy Policy was posted on May 1, 2003. Stratosphere reserves the right to change, modify or amend this Privacy Policy at any time. When the Privacy Policy is changed, modified and/or amended, the revised Privacy Policy will be posted on Stratosphere Web Sites. Any revised Privacy Policy will only apply prospectively to Personal Information collected or modified after the effective date of the revised policy. Customers are responsible for periodically checking the Privacy Policy posted on Stratosphere Web Sites for changes.
 
 If you have any questions regarding this Privacy Policy, please contact webmaster@stratospherehotel.com.
-
-|   
-  
----|---|---  
-  
-  
-
