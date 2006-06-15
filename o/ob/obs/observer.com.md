@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the observer.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221205012id_/http%3A//www.observer.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the observer.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615214407id_/http%3A//www.observer.com/privacy.asp) for the most accurate reproduction.*
 
 # NYO - Privacy
 
@@ -8,7 +8,7 @@ Last Updated: June 30, 2005
 
 We are strongly committed to protecting the privacy of your personal information. The policies below are applicable to the observer.com website ("Website") produced and maintained by The New York Observer (collectively "Company" or "we", "us", or "our").   We have established this security and privacy policy ("Privacy Policy") to let you know the kinds of personal information we may gather during your visit to the Website, why we gather your information, what we use your personal information for, when we might disclose your personal information, and how you can manage your personal information.  
 
-**By visiting our Website, you are accepting the practices described in our Privacy Policy. Your use of our Website and Services is also subject to our Terms of Service. Please read our[Terms of Service](https://web.archive.org/web/20051221205012id_/http%3A//www.observer.com/terms.asp). If you do not agree to the terms of this Privacy Policy, please do not use the Website and exit immediately. We reserve the right to modify or amend the terms of our Privacy Policy from time to time without notice. Your continued use of our Website and our affiliate sites following the posting of changes to these terms will mean you accept those changes. **
+**By visiting our Website, you are accepting the practices described in our Privacy Policy. Your use of our Website and Services is also subject to our Terms of Service. Please read our[Terms of Service](https://web.archive.org/web/20060615214407id_/http%3A//www.observer.com/terms.asp). If you do not agree to the terms of this Privacy Policy, please do not use the Website and exit immediately. We reserve the right to modify or amend the terms of our Privacy Policy from time to time without notice. Your continued use of our Website and our affiliate sites following the posting of changes to these terms will mean you accept those changes. **
 
 If you don't find your concern addressed here, feel free to contact us by e-mail at [customerservice@observer.com ](mailto:customerservice@observer.com) or phone us at (212) 407-9347.  
 
