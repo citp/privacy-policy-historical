@@ -1,46 +1,114 @@
-> *The following text is extracted and transformed from the beyond.com privacy policy that was archived on 2002-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020802085120id_/http%3A//www.beyond.com/company/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyond.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615201827id_/http%3A//beyond.com/MKT/Content/JS/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Beyond.com Careers - Search Jobs, Post your Resume, Find People
 
-**Privacy Policy**  
-Beyond.com takes your privacy seriously. Please read the following to learn more about our privacy policy. 
+If you have questions or concerns regarding this statement, please contact us. 
 
-**What this Privacy Policy Covers**  
-This Privacy Policy covers Beyond.com's treatment of personally identifiable information that Beyond.com collects when you are on the Beyond.com site, and when you use Beyond.com's services. This policy also covers Beyond.com's treatment of any personally identifiable information that Beyond.com's business partners share with Beyond.com or that Beyond.com may collect on a partner's site.
+Please take a minute to read the following policy so you understand how we use the personal information we ask you to submit. As we update and expand our services, this policy may change, so please refer back to it periodically. If you use any of our services, you agree to these terms.
 
-This policy does not apply to the practices of companies that Beyond.com does not own or control, or to people that Beyond.com does not employ or manage. 
+ Collection and Use of Information  
+---  
+Viewing and Updating Your Information  
+Cookies  
+Log Files  
+Links  
+Recommend A Friend or Colleague  
+Security and Access  
+Children  
+Notification of Changes  
+Contact  
+  
+* * *
 
-**Information Collection and Use**  
-Beyond.com collects personally identifiable information when you use certain Beyond.com products or services, when you visit Beyond.com pages, and when you enter promotions or sweepstakes. Beyond.com may also receive personally identifiable information from our business partners. 
-
-Beyond.com also automatically receives and records information on our server logs from your browser including your IP address, Beyond.com cookie information and the page you requested.
-
-Beyond.com uses information for three general purposes: to customize the advertising and content you see, to fulfill your requests for certain products and services, and to contact you about specials and new products. 
-
-**Information Sharing and Disclosure**  
-Beyond.com will not sell or rent your personally identifiable information to anyone. However, from time to time, we will provide your email addresses to our shopping mall partners
-
-Beyond.com may also send personally identifiable information about you to other companies or people when: 
-
-  * We have your consent to share the information; 
-  * We need to share your information to provide the product or service you have requested; 
-  * We respond to subpoenas, court orders or legal process; 
-  * We find that your actions on our web sites violate our Terms of Service or any of our usage guidelines for specific products or services.
+**Collection and Use of Information**  
 
 
+When you register with this site or one of its affiliated web sites, we ask you for personal information. We use this information to process your requests and to communicate with you about the status of your requests. For example, if you request additional information on other services, such as continuing education or student loan consolidation, we will share your information solely as is necessary to process your request. We may also use your email address to send you newsletters you are subscribed to during registration, as well as messages about any special offers, promotional announcements and consumer surveys. 
 
-**Cookies**  
-Beyond.com may set and access Beyond.com cookies on your computer. 
+We are the sole owners of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. We collect information from our users at several different points on our website. When you first register with us, we ask for your email address and a password. At this time, we may subscribe you to various email publications. You can unsubscribe at any time. 
 
-Beyond.com allows other companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Beyond.com's cookies. 
+We also offer an Associate program, where associate members direct customers to the network through links on their Web sites. We ask associates for their site name (URL), mailing address, primary contact, pay-to address, technical contact, and other site-related information to determine whether a site will be included in our network. The information collected from our affiliates is used strictly for that program; none of this information is used for general marketing purposes. 
 
-Beyond.com uses web beacons to access our cookies within and outside our network of web sites and in connection with Beyond.com products and services.
+In some cases our software and web site are utilized by our partners in a joint venture via their web community. In these cases, the information collected on our site is available to both companies. 
 
-**Security**  
-In certain areas, Beyond.com uses industry-standard SSL-encryption to protect data transmissions.
+ 
 
-**Changes to this Privacy Policy**  
-Beyond.com may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages. 
+Back to top
 
-**Questions or Suggestions**  
-If you have questions or suggestions please send an email to: [privacy@beyond.com](mailto:privacy@beyond.com).
+* * *
+
+**Viewing and Updating Your Information on the Network**
+
+You always have complete access to the information you have provided to the network. You can make changes to this information to update your account anytime.
+
+Back to top
+
+* * *
+
+**Cookies**
+
+In general, we have limited use of cookies.  As you browse areas of this site, cookies may be placed on your computer’s hard drive. (Cookies are small pieces of data that are sent to your browser from a Web server and stored on your hard drive.) Cookies allow us to track your account so you don’t need to retype the information each time you visit our site. 
+
+Our advertisers may also serve cookies when users click on the ad banners on this site. We do not have access to any personal information gathered by advertisers.
+
+Back to top
+
+* * *
+
+**Log Files**  
+
+We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
+
+Back to top
+
+* * *
+
+**Links**
+
+This web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites.  We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site. 
+
+Back to top
+
+* * *
+
+**Recommend a Friend or Colleague**
+
+If a user elects to use our referral service for informing a friend or colleague about our site, we ask them for the friend's name and email address. We will automatically send the friend an email inviting them to visit the site or review the content selected by a user. We then store this information in our databases. The friend may contact us to request that we remove this information at any time. 
+
+Back to top
+
+* * *
+
+**Security and Access**
+
+We have implemented technology and security features, as well as strict internal guidelines, to safeguard the privacy of your personal information from unauthorized access or improper use. We will continue to enhance our security procedures as new technology becomes available. While we make every effort to ensure that your information is secure on our system, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, we cannot guarantee the security of any information you transmit to us, and you do so at your own risk. 
+
+When you place an order online at Beyond.com, your credit card information is protected through the use of encryption, such as the Secure Socket Layer ("SSL") protocol. SSL makes it difficult for your credit card information to be intercepted or stolen while being transmitted. Artemis HR uses a service company to process its credit card transactions.
+
+Users should not post personal information to any site if they are uncomfortable with the security of the site.  If you have any questions, please contact us.  Back to top
+
+* * *
+
+**Children**
+
+This site is not intended for children under 13 years of age and we do not knowingly or specifically collect information about children. This site does not and will not contact children under age 13 about special offers or for marketing purposes without a parent's permission. We believe that children should get their parents' consent before giving out personal information. If you are concerned about your child's use of this site, we encourage you to use web-filtering technology to supervise your child's access to the site. For children 14 and up (high-school age), we also encourage you to participate in your child's experience with our site. With a little guidance, this site can prove very useful in finding a part-time or summer job for your child, as well as providing them with excellent career counseling information. 
+
+Back to top
+
+* * *
+
+**Notification of Changes**  
+
+If we decide to change our privacy policy, we will post those changes here so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point you have questions or concerns about Beyond.com's privacy policy, please feel free to contact us. 
+
+Back to top
+
+* * *
+
+**Contact**
+
+If you have questions concerning your account or this privacy policy, please contact us. 
+
+Back to top
+
+* * *
