@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salesforce.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215080904id_/http%3A//www.salesforce.com/statements.jsp%3Ffile%3Dprivacy%26src%3Dweb) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salesforce.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615032732id_/http%3A//www.salesforce.com/statements.jsp%3Ffile%3Dprivacy%26src%3Dweb) for the most accurate reproduction.*
 
 # CRM Software | Customer Relationship Management (CRM)
 
