@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fretplay.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305232032id_/http%3A//www.fretplay.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fretplay.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615204424id_/http%3A//fretplay.com/privacy.shtml) for the most accurate reproduction.*
 
 # FRETPLAY : Privacy statement
 
-|  |    **Information Collection**  
+**Information Collection**  
 Sem Hadland AS is the sole owner of the information collected on Fretplay.com. Fretplay.com collects information from our users at several different points on our Web site. 
 
 **Submitted tabs and chords**  
@@ -65,5 +65,3 @@ Markveien 2
 Norway 
 
 hadland(a)encycmet.com (change (a) with @ - antispam) 
-
-|  |  |    | 
