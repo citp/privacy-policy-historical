@@ -1,25 +1,27 @@
-> *The following text is extracted and transformed from the developerfusion.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210080634id_/http%3A//www.developerfusion.co.uk/misc/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the developerfusion.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615111644id_/http%3A//www.developerfusion.co.uk/Extra/Privacy.aspx) for the most accurate reproduction.*
 
-# Developer Fusion Privacy Statement
+# Privacy Policy - Developer Fusion, the UK developer community - VB, ASP, C#, .NET, PHP and XML tutorials & source code
 
-Developer Fusion is strongly committed to protecting the privacy of its user community.
+Developer Fusion Ltd is strongly committed to protecting the privacy of its user community.
 
-The intent of this privacy policy is to detail the information DeveloperFusion.com may gather about individuals who visit its Web site, how that information is used, and DeveloperFusion.com's disclosure practices. Please note that this policy applies only to DeveloperFusion.com's Web site and not to the Web sites of other companies or organizations to which we provide links. 
+Whilst this Privacy Policy also covers the fine detail, we can sum it up here: we won't publish (except where permission has explictly been given), give, sell or rent your data to anyone, ever. We hate spam just as much as you do, and we don't abuse the trust you place in us when you sign up. We know we have certain obligations under the Data Protection Act 1998, and so we take good care to comply at all times with this and all relevant UK and EU laws. We understand the issues and concerns surrounding the use of personal data in business, so we maintain very high standards and are accountable to you at all times.
 
-**Site Usage Information**
+**Individual User Information**
 
-Developer Fusion gathers "site usage" information from all visitors to the DeveloperFusion.com Web site. Such data is used in the aggregate, to help determine general usage patterns and fine tune layout in order to ensure that our site is as useful and enjoyable as possible. This "site usage" and statistical information may be made public information at Developer Fusion's discretion.
+Individually identifiable information will not be released without that individual's prior consent. Visitors are specifically asked for individually identifiable information when signing up to use certain Developer Fusion services. In some instances, users may be asked for personal interest and demographic information in order to create a more customized user experience; however these fields will generally be optional. From time to time, Developer Fusion may wish to contact individual users regarding community news or to make promotional offers. However, such communications will only be delivered to users who have previously approved them, and we do not share neither e-mail addresses nor individually identifiable information with any third parties **.**
+
+**Site Usage**
+
+Developer Fusion gathers "site usage" information from all visitors to the Developer Fusion Web site. Such data is used in the aggregate, to help determine general usage patterns and fine tune layout in order to ensure that our site is as useful and enjoyable as possible. This "site usage" and statistical information may be made public information at Developer Fusion's discretion.
 
 **Use of Cookies**
 
 When you view our Web site, we may store some information on your computer. This information will be in the form of a 'Cookie' and will help us in many ways. For example, Cookies allow us to tailor our Web site to better match your interests and preferences and optionally provide automatic member login. With most Internet Browsers, you can erase Cookies from your computer hard drive, block all Cookies, or receive a warning before a Cookie is stored. Please refer to your Browser instructions or help screen to learn more about these functions. 
 
-**Individual User Information**
-
-Individually identifiable information will not be released without that individual's prior consent. Visitors are specifically asked for individually identifiable information when signing up to use certain DeveloperFusion.com services. In some instances, users may be asked for personal interest and demographic information in order to create a more customized user experience; however these fields will generally be optional. From time to time, Developer Fusion may wish to contact individual users regarding community news or to make promotional offers. However, such communications will only be delivered to users who have previously approved them. **We do not share neither e-mail addresses nor individually identifiable information with any third parties**.
-
 **Disclosure**
 
 Developer Fusion reserves the right to access and disclose individually identifiable information to comply with applicable laws and lawful government requests, to operate its systems properly or to protect itself or its users. Where practical, Developer Fusion will attempt to obtain the prior consent of the individual prior to disclosing individually identifiable information. As mentioned above, we reserve the right to share aggregated "site usage" information with third parties. 
 
-If you have any questions about our privacy policy, or believe that we have not adhered to the guidelines set forth above, please [contact us](https://web.archive.org/scripts/contact.aspx). 
+**Your Acceptance of the Terms of this Privacy Policy**
+
+By using this site, you signify your assent to the Developer Fusion Privacy Policy. If you do not agree to this policy, please do not use this site. The terms of this Privacy Policy may change from time to time without prior notice to you, so please check this page periodically for any changes. Your continued use of this site following the posting of changes to these terms will mean you accept those changes. If you have any questions about our privacy policy, or believe that we have not adhered to the guidelines set forth above, please [contact us](https://web.archive.org/extra/contact.aspx). 
