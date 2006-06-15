@@ -1,25 +1,29 @@
-<!--The following is the downloaded HTML source of the gametrailers.com privacy policy that was archived on 2005-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051220113216id_/http%3A//gametrailers.com/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gametrailers.com privacy policy that was archived on 2006-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615203342id_/http%3A//www.gametrailers.com/privacypolicy.php) for the most accurate reproduction.-->
 
 <html><head>
-
-<meta http-equiv="Content-Language" content="en-us">
-
-<title>GameTrailers.com - Privacy Policy</title>
-
+<meta name="GENERATOR" content="Notepad">
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>GameTrailers.com - The Source For Video Game Media</title>
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.gametrailers.com/rss/newest.xml">
+<link rel="SHORTCUT ICON" href="http://www.gametrailers.com/favicon.ico">
+<link rel="stylesheet" type="text/css" href="gametrailers_none.css">
+<meta name="description" content="Gametrailers.com is THE source for video game media, video game reviews, video game previews, video game downloads, and event coverage. Check out the latest video games for Sony Playstation 2, Playstation 3, XBox, XBox 360, Nintendo GameCube, PC and handhelds.">
+<meta name="keywords" content="video game, media, downloads, video games, video game trailers, video game downloads, pc games, xbox, xbox 360, ps2, ps3, gc, handheld games, psp, ds, nintendo, sony playstation, microsoft x-box, playstation 2, playstation 3, gamecube, gametrailers.com, Gametrailers, games, trailers, game, trailer">
 
+<!-- Mouseover Preload Script -->
 <script type="text/javascript">
 <!--
 
 var win = null;
-		function NewWindow(mypage,myname,w,h,scroll){
-		LeftPosition = (screen.width) ? (screen.width-w)/2 : 0;
-		TopPosition = (screen.height) ? (screen.height-h)/2 : 0;
-		settings =
-		'height='+h+',width='+w+',top='+TopPosition+',left='+LeftPosition+',scrollbars='+scroll+',resizable'
-		win = window.open(mypage,myname,settings)
-		}
+
+function NewWindow(mypage,myname,w,h,scroll){
+	LeftPosition = (screen.width) ? (screen.width-w)/2 : 0;
+	TopPosition = (screen.height) ? (screen.height-h)/2 : 0;
+	settings =
+	'height='+h+',width='+w+',top='+TopPosition+',left='+LeftPosition+',scrollbars='+scroll+',resizable'
+	win = window.open(mypage,myname,settings)
+}
 
 function newImage(arg) {
 	if (document.images) {
@@ -32,7 +36,9 @@ function newImage(arg) {
 function changeImages() {
 	if (document.images && (preloadFlag == true)) {
 		for (var i=0; i<changeImages.arguments.length; i+=2) {
-			document[changeImages.arguments[i]].src = changeImages.arguments[i+1];
+			if(changeImages.arguments[i] != 'vert0') {
+				document[changeImages.arguments[i]].src = changeImages.arguments[i+1];
+			}
 		}
 	}
 }
@@ -40,20 +46,81 @@ function changeImages() {
 var preloadFlag = false;
 function preloadImages() {
 	if (document.images) {
-		header_07_over = newImage("images/header_07-over.gif");
-		header_08_over = newImage("images/header_08-over.gif");
-		header_09_over = newImage("images/header_09-over.gif");
-		header_10_over = newImage("images/header_10-over.gif");
-		header_11_over = newImage("images/header_11-over.gif");
-		header_12_over = newImage("images/header_12-over.gif");
-		header_21_over = newImage("images/header_21-over.gif");
-		header_22_over = newImage("images/header_22-over.gif");
-		header_23_over = newImage("images/header_23-over.gif");
-		header_24_over = newImage("images/header_24-over.gif");
-		header_25_over = newImage("images/header_25-over.gif");
-		header_26_over = newImage("images/header_26-over.gif");
-		header_27_over = newImage("images/header_27-over.gif");
+	
+		/* silvernav newImage */
+		gt_gt_over = newImage("images/gt_gt-over.gif");
+		gt_previews_over = newImage("images/gt_previews-over.gif");
+		gt_reviews_over = newImage("images/gt_reviews-over.gif");
+		gt_top_over = newImage("images/gt_top-over.gif");
+		gt_users_over = newImage("images/gt_users-over.gif");
+		gt_forums_over = newImage("images/gt_forums-over.gif");
+		gt_community_over = newImage("images/gt_community-over.gif");
+		gt_gttv_over = newImage("images/gt_gttv-over.gif");
+		
+		/* header mouseovers */
+		all_over = newImage("images/all-over.gif");
+		vert10_all_over = newImage("images/vert-left.gif");
+		vert10_ps2_over = newImage("images/vert-right.gif");
+		vert10_both = newImage("images/vert-both.gif");
+		ps2_over = newImage("images/ps2-over.gif");
+		ps3_over = newImage("images/ps3-over.gif");
+		xbox_over = newImage("images/xbox-over.gif");
+		id360_over = newImage("images/xb360-over.gif");
+		gc_over = newImage("images/gc-over.gif");
+		rev_over = newImage("images/rev-over.gif");
+		ds_over = newImage("images/ds-over.gif");
+		gba_over = newImage("images/gba-over.gif");
+		psp_over = newImage("images/psp-over.gif");
+		pc_over = newImage("images/pc-over.gif");
+		
+		
+		trailers_over = newImage("images/trailers-over.gif");
+		div7_news_over = newImage("images/div7-news_over.gif");
+		div7_trailers_over = newImage("images/div7-trailers_over.gif");
+		news_over = newImage("images/news-over.gif");
+		div6_previews_over = newImage("images/div6-previews_over.gif");
+		div6_news_over = newImage("images/div6-news_over.gif");
+		previews_over = newImage("images/previews-over.gif");
+		div5_reviews_over = newImage("images/div5-reviews_over.gif");
+		div5_previews_over = newImage("images/div5-previews_over.gif");
+		reviews_over = newImage("images/reviews-over.gif");
+		div4_features_over = newImage("images/div4-features_over.gif");
+		div4_reviews_over = newImage("images/div4-reviews_over.gif");
+		features_over = newImage("images/features-over.gif");
+		div3_interviews_over = newImage("images/div3-interviews_over.gif");
+		div3_features_over = newImage("images/div3-features_over.gif");
+		interviews_over = newImage("images/interviews-over.gif");
+		div2_gameplay_over = newImage("images/div2-gameplay_over.gif");
+		div2_interviews_over = newImage("images/div2-interviews_over.gif");
+		gameplay_over = newImage("images/gameplay-over.gif");
+		div1_faqs_over = newImage("images/div1-faqs_over.gif");
+		div1_gameplay_over = newImage("images/div1-gameplay_over.gif");
+		faqs_over = newImage("images/faqs-over.gif");		
+		
 		preloadFlag = true;
+	}
+}
+
+function change_top10(replace) {
+	document.getElementById('top10').innerHTML = replace;
+}
+
+function change_contenttabs(newtext) {
+	document.getElementById('contentxxer').innerHTML = '';
+	document.getElementById('contentxxer').innerHTML = newtext;
+}
+
+function enable(obj) {
+	if(obj.value == obj.title) {
+		obj.disabled = false;
+		obj.value = '';
+	}
+}
+
+function disable(obj) {
+	if(obj.value == '') {
+		obj.disabled = false;
+		obj.value = obj.title;
 	}
 }
 
@@ -61,328 +128,382 @@ function preloadImages() {
 </script>
 <!-- End Preload Script -->
 
-
-
-
-
-<link rel="stylesheet" type="text/css" href="gt.css">
-
-
 </head>
 
+<body bgcolor="#000000" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" onload="preloadImages();">
 
 
-<body bgcolor="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="preloadImages();">
+
+<div align="center">
+
+<!-- SILVER NAV TOP -->
+<table width="800" height="36" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td width="148" height="36">
+			<a href="index.php" onmouseover="changeImages('gt_gt', 'images/gt_gt-over.gif'); return true;" onmouseout="changeImages('gt_gt', 'images/gt_gt.gif'); return true;" onmousedown="changeImages('gt_gt', 'images/gt_gt-over.gif'); return true;" onmouseup="changeImages('gt_gt', 'images/gt_gt-over.gif'); return true;">
+				<img name="gt_gt" src="images/gt_gt.gif" width="148" height="36" border="0" alt="GameTrailers.com"></a></td>
+		<td width="98" height="36">
+			<a href="previews.php" onmouseover="changeImages('gt_previews', 'images/gt_previews-over.gif'); return true;" onmouseout="changeImages('gt_previews', 'images/gt_previews.gif'); return true;" onmousedown="changeImages('gt_previews', 'images/gt_previews-over.gif'); return true;" onmouseup="changeImages('gt_previews', 'images/gt_previews-over.gif'); return true;">
+				<img name="gt_previews" src="images/gt_previews.gif" width="98" height="36" border="0" alt="GT Previews"></a></td>
+		<td width="100" height="36">
+			<a href="reviews.php" onmouseover="changeImages('gt_reviews', 'images/gt_reviews-over.gif'); return true;" onmouseout="changeImages('gt_reviews', 'images/gt_reviews.gif'); return true;" onmousedown="changeImages('gt_reviews', 'images/gt_reviews-over.gif'); return true;" onmouseup="changeImages('gt_reviews', 'images/gt_reviews-over.gif'); return true;">
+				<img name="gt_reviews" src="images/gt_reviews.gif" width="100" height="36" border="0" alt="GT Reviews"></a></td>
+		<td width="100" height="36">
+			<a href="top20.php" onmouseover="changeImages('gt_top', 'images/gt_top-over.gif'); return true;" onmouseout="changeImages('gt_top', 'images/gt_top.gif'); return true;" onmousedown="changeImages('gt_top', 'images/gt_top-over.gif'); return true;" onmouseup="changeImages('gt_top', 'images/gt_top-over.gif'); return true;">
+				<img name="gt_top" src="images/gt_top.gif" width="100" height="36" border="0" alt="GT Top Media"></a></td>
+		<td width="99" height="36">
+			<a href="usermovies.php" onmouseover="changeImages('gt_users', 'images/gt_users-over.gif'); return true;" onmouseout="changeImages('gt_users', 'images/gt_users.gif'); return true;" onmousedown="changeImages('gt_users', 'images/gt_users-over.gif'); return true;" onmouseup="changeImages('gt_users', 'images/gt_users-over.gif'); return true;">
+				<img name="gt_users" src="images/gt_users.gif" width="99" height="36" border="0" alt="GT User Movies"></a></td>
+		<td width="100" height="36">
+			<a href="http://forums.gametrailers.com" onmouseover="changeImages('gt_forums', 'images/gt_forums-over.gif'); return true;" onmouseout="changeImages('gt_forums', 'images/gt_forums.gif'); return true;" onmousedown="changeImages('gt_forums', 'images/gt_forums-over.gif'); return true;" onmouseup="changeImages('gt_forums', 'images/gt_forums-over.gif'); return true;">
+				<img name="gt_forums" src="images/gt_forums.gif" width="100" height="36" border="0" alt="GT Forums"></a></td>
+		<td width="100" height="36">
+			<a href="http://users.gametrailers.com/community.php" onmouseover="changeImages('gt_community', 'images/gt_community-over.gif'); return true;" onmouseout="changeImages('gt_community', 'images/gt_community.gif'); return true;" onmousedown="changeImages('gt_community', 'images/gt_community-over.gif'); return true;" onmouseup="changeImages('gt_community', 'images/gt_community-over.gif'); return true;">
+				<img name="gt_community" src="images/gt_community.gif" width="100" height="36" border="0" alt="GT Community"></a></td>
+		<td width="55" height="36">
+			<a href="http://www.gt.tv/" onmouseover="changeImages('gt_gttv', 'images/gt_gttv-over.gif'); return true;" onmouseout="changeImages('gt_gttv', 'images/gt_gttv.gif'); return true;" onmousedown="changeImages('gt_gttv', 'images/gt_gttv-over.gif'); return true;" onmouseup="changeImages('gt_gttv', 'images/gt_gttv-over.gif'); return true;">
+				<img name="gt_gttv" src="images/gt_gttv.gif" width="55" height="36" border="0" alt="GT.tv"></a></td>
+	</tr>
+</tbody></table>
+<!-- SILVER NAV TOP-->
+
+</div>
+
+
 
 <div align="center">
 
 <!-- HEADER  -->
-<table id="Table_01" width="750" height="251" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111">
+<table width="800" height="110" border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
-		<td width="20" height="106" rowspan="3">
-			<img src="images/header_02.jpg" width="20" height="106" alt=""></td>
-		<td width="108" height="106" colspan="2" rowspan="3">
+		<td width="800" height="75" colspan="24" background="images/header_default.jpg" align="right">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td align="center" width="350" height="75">
+		<a href="/">
+		<img border="0" src="images/header_strut.gif" width="350" height="75" alt="GameTrailers.com - The Source for Video Game Media"></a></td>
+		<td align="right" width="165">
+		<form name="login" action="/privacypolicy.php" method="post" margin="0" style="margin: 0px;" class="right_forumlink">
+<table border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td align="right"><div class="login_text_default">Username&nbsp;</div></td>
+				<td align="right">
+						<input type="text" name="username" size="16" class="login_box_default" value="" tabindex="1"></td>
+				<td rowspan="3">
+						<img border="0" src="images/spacer10.gif" width="10" height="10"></td>
+			</tr>
+			<tr>
+				<td align="right"><div class="login_text_default">Password&nbsp;</div></td>
+				<td align="right">
+						<input type="password" name="password" size="16" class="login_box_default" value="" tabindex="2"></td>
+			</tr>
+			<tr>
+				<td align="right" colspan="2">
+				<a target="_blank" onclick="NewWindow(this.href,'pretr','325','250','yes');return false" href="http://users.gametrailers.com/password_ret.php"><img border="0" src="images/cp_password_default.gif" width="73" height="17" hspace="1" vspace="1"></a><input type="image" name="submit" border="0" src="images/cp_login_default.gif" width="35" height="17" vspace="1" tabindex="3"></td>
+			</tr>
+		</tbody></table>
+		<input type="hidden" name="try" value="1"><input type="hidden" name="id" value=""></form>
+		</td>
+		<td align="left" width="145" nowrap="">
+		<a href="http://www.gametrailers.com/register.php"><img border="0" src="images/register_default.gif" width="135" height="55"></a></td>
+		<td align="left" width="145" nowrap="">
+		<a href="http://users.gametrailers.com/usermoviesubmit.php"><img border="0" src="images/upload_default.gif" width="135" height="55"></a></td>
+	</tr>
+</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td width="234" height="25" background="images/searchbox.jpg" align="center">
 			
 			
-	
-<!-- URL's used in the movie-->
-<!-- text used in the movie-->
-<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="108" height="106" id="dot4" align="">
- <param name="movie" value="dot4.swf"> <param name="quality" value="high"> <param name="bgcolor" value="#FFFFFF"> 
-  <embed src="dot4.swf" quality="high" bgcolor="#FFFFFF" width="108" height="106" name="dot4" align="" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"></object>
-	
+			
+<!--logindone-->
+<!-- SEARCH BAR -->
+<table border="0" width="234" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td align="right" width="134">
+						<form name="headsearch" action="search.php" method="post" margin="0" style="margin: 0px;"><input name="s" type="text" size="22" class="search_default" title="enter your search..." value="enter your search..." onfocus=" javascript:enable(this);" onblur="javascript:disable(this);">
+					</form></td>
+					<td align="left" width="100" height="25" valign="top">
+						<p><input type="image" name="submit" border="0" src="images/header_search_new.gif"><script language="JavaScript">
+var game_id = "";
+var gamename = "";
+var subdomain = "www";
+var age = "";
+var sex = "";
+var fromSearch = "";
+var primaryPlatform = "";
+var primaryGenre = "";
+var userID = "";
+var username = "";
+var platforms = "";
+var genres = "";
+var gglkw = "";
+</script><script language="JavaScript" src="js/mtvi_report_config.js"></script><script language="JavaScript" src="js/mtvi_report_code.js"></script><img name="s_i_viagametrailers" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/viagametrailers/1/G.7-PD-R/s52687745534303?[AQB]&amp;ndh=1&amp;t=19/1/2020%2021%3A10%3A36%203%200&amp;pageName=/www/web/20060615203342id_/http%253A//www.gametrailers.com/privacypolicy.php--&amp;g=https%3A//web.archive.org/web/20060615203342id_/http%253A//www.gametrailers.com/privacypolicy.php&amp;ch=web&amp;cc=USD&amp;c1=-&amp;h1=www/web/20060615203342id_/http%253A//www.gametrailers.com/privacypolicy.php&amp;h2=www/web/20060615203342id_/http%253A//www.gametrailers.com/privacypolicy.php&amp;c6=-&amp;c7=-&amp;c10=%3A/www/web/20060615203342id_/http%253A//www.gametrailers.com/privacypolicy.php--&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]"></p>
+					</td>			
+				</tr>
+			</tbody></table>
+<!-- SEARCH BAR -->
+
+				
 			</td>
-		<td width="622" height="20" colspan="18">
-			<img src="images/header_04.jpg" width="622" height="20" alt=""></td>
+		<td width="46" height="25">
+		<a href="http://www.gametrailers.com" onmouseover="changeImages('all', 'images/all-over.gif', 'vert10', 'images/vert-left.gif'); return true;" onmouseout="changeImages('all', 'images/all.gif', 'vert10', 'images/vert.gif'); return true;" onmousedown="changeImages('all', 'images/all-over.gif', 'vert10', 'images/vert-left.gif'); return true;" onmouseup="changeImages('all', 'images/all-over.gif', 'vert10', 'images/vert-left.gif'); return true;">
+		<img name="all" src="images/all.gif" width="46" height="25" border="0" alt="Show All Platforms"></a></td>
+			<td width="7" height="25">
+		<img name="vert10" src="images/vert.gif" width="7" height="25" alt=""></td>
+		<td>
+		<a href="?p=ps2" onmouseover="changeImages('vert10', 'images/vert-right.gif', 'ps2', 'images/ps2-over.gif', 'vert9', 'images/vert-left.gif'); return true;" onmouseout="changeImages('vert10', 'images/vert.gif', 'ps2', 'images/ps2.gif', 'vert9', 'images/vert.gif'); return true;" onmousedown="changeImages('vert10', 'images/vert-right.gif', 'ps2', 'images/ps2-over.gif', 'vert9', 'images/vert-left.gif'); return true;" onmouseup="changeImages('vert10', 'images/vert-right.gif', 'ps2', 'images/ps2-over.gif', 'vert9', 'images/vert-left.gif'); return true;">
+		<img name="ps2" src="images/ps2.gif" border="0" alt=""></a></td>
+			<td width="7" height="25">
+		<img name="vert9" src="images/vert.gif" width="7" height="25" alt=""></td>
+		<td>
+		<a href="?p=ps3" onmouseover="changeImages('vert9', 'images/vert-right.gif', 'ps3', 'images/ps3-over.gif', 'vert8', 'images/vert-left.gif'); return true;" onmouseout="changeImages('vert9', 'images/vert.gif', 'ps3', 'images/ps3.gif', 'vert8', 'images/vert.gif'); return true;" onmousedown="changeImages('vert9', 'images/vert-right.gif', 'ps3', 'images/ps3-over.gif', 'vert8', 'images/vert-left.gif'); return true;" onmouseup="changeImages('vert9', 'images/vert-right.gif', 'ps3', 'images/ps3-over.gif', 'vert8', 'images/vert-left.gif'); return true;">
+		<img name="ps3" src="images/ps3.gif" border="0" alt=""></a></td>
+			<td width="7" height="25">
+		<img name="vert8" src="images/vert.gif" width="7" height="25" alt=""></td>
+		<td>
+		<a href="?p=xbox" onmouseover="changeImages('vert8', 'images/vert-right.gif', 'xbox', 'images/xbox-over.gif', 'vert7', 'images/vert-left.gif'); return true;" onmouseout="changeImages('vert8', 'images/vert.gif', 'xbox', 'images/xbox.gif', 'vert7', 'images/vert.gif'); return true;" onmousedown="changeImages('vert8', 'images/vert-right.gif', 'xbox', 'images/xbox-over.gif', 'vert7', 'images/vert-left.gif'); return true;" onmouseup="changeImages('vert8', 'images/vert-right.gif', 'xbox', 'images/xbox-over.gif', 'vert7', 'images/vert-left.gif'); return true;">
+		<img name="xbox" src="images/xbox.gif" border="0" alt=""></a></td>
+			<td width="7" height="25">
+		<img name="vert7" src="images/vert.gif" width="7" height="25" alt=""></td>
+		<td>
+		<a href="?p=xb360" onmouseover="changeImages('vert7', 'images/vert-right.gif', 'xb360', 'images/xb360-over.gif', 'vert6', 'images/vert-left.gif'); return true;" onmouseout="changeImages('vert7', 'images/vert.gif', 'xb360', 'images/xb360.gif', 'vert6', 'images/vert.gif'); return true;" onmousedown="changeImages('vert7', 'images/vert-right.gif', 'xb360', 'images/xb360-over.gif', 'vert6', 'images/vert-left.gif'); return true;" onmouseup="changeImages('vert7', 'images/vert-right.gif', 'xb360', 'images/xb360-over.gif', 'vert6', 'images/vert-left.gif'); return true;">
+		<img name="xb360" src="images/xb360.gif" border="0" alt=""></a></td>
+			<td width="7" height="25">
+		<img name="vert6" src="images/vert.gif" width="7" height="25" alt=""></td>
+		<td>
+		<a href="?p=gc" onmouseover="changeImages('vert6', 'images/vert-right.gif', 'gc', 'images/gc-over.gif', 'vert5', 'images/vert-left.gif'); return true;" onmouseout="changeImages('vert6', 'images/vert.gif', 'gc', 'images/gc.gif', 'vert5', 'images/vert.gif'); return true;" onmousedown="changeImages('vert6', 'images/vert-right.gif', 'gc', 'images/gc-over.gif', 'vert5', 'images/vert-left.gif'); return true;" onmouseup="changeImages('vert6', 'images/vert-right.gif', 'gc', 'images/gc-over.gif', 'vert5', 'images/vert-left.gif'); return true;">
+		<img name="gc" src="images/gc.gif" border="0" alt=""></a></td>
+			<td width="7" height="25">
+		<img name="vert5" src="images/vert.gif" width="7" height="25" alt=""></td>
+		<td>
+		<a href="?p=rev" onmouseover="changeImages('vert5', 'images/vert-right.gif', 'rev', 'images/rev-over.gif', 'vert4', 'images/vert-left.gif'); return true;" onmouseout="changeImages('vert5', 'images/vert.gif', 'rev', 'images/rev.gif', 'vert4', 'images/vert.gif'); return true;" onmousedown="changeImages('vert5', 'images/vert-right.gif', 'rev', 'images/rev-over.gif', 'vert4', 'images/vert-left.gif'); return true;" onmouseup="changeImages('vert5', 'images/vert-right.gif', 'rev', 'images/rev-over.gif', 'vert4', 'images/vert-left.gif'); return true;">
+		<img name="rev" src="images/rev.gif" border="0" alt=""></a></td>
+			<td width="7" height="25">
+		<img name="vert4" src="images/vert.gif" width="7" height="25" alt=""></td>
+		<td>
+		<a href="?p=ds" onmouseover="changeImages('vert4', 'images/vert-right.gif', 'ds', 'images/ds-over.gif', 'vert3', 'images/vert-left.gif'); return true;" onmouseout="changeImages('vert4', 'images/vert.gif', 'ds', 'images/ds.gif', 'vert3', 'images/vert.gif'); return true;" onmousedown="changeImages('vert4', 'images/vert-right.gif', 'ds', 'images/ds-over.gif', 'vert3', 'images/vert-left.gif'); return true;" onmouseup="changeImages('vert4', 'images/vert-right.gif', 'ds', 'images/ds-over.gif', 'vert3', 'images/vert-left.gif'); return true;">
+		<img name="ds" src="images/ds.gif" border="0" alt=""></a></td>
+			<td width="7" height="25">
+		<img name="vert3" src="images/vert.gif" width="7" height="25" alt=""></td>
+		<td>
+		<a href="?p=gba" onmouseover="changeImages('vert3', 'images/vert-right.gif', 'gba', 'images/gba-over.gif', 'vert2', 'images/vert-left.gif'); return true;" onmouseout="changeImages('vert3', 'images/vert.gif', 'gba', 'images/gba.gif', 'vert2', 'images/vert.gif'); return true;" onmousedown="changeImages('vert3', 'images/vert-right.gif', 'gba', 'images/gba-over.gif', 'vert2', 'images/vert-left.gif'); return true;" onmouseup="changeImages('vert3', 'images/vert-right.gif', 'gba', 'images/gba-over.gif', 'vert2', 'images/vert-left.gif'); return true;">
+		<img name="gba" src="images/gba.gif" border="0" alt=""></a></td>
+			<td width="7" height="25">
+		<img name="vert2" src="images/vert.gif" width="7" height="25" alt=""></td>
+		<td>
+		<a href="?p=psp" onmouseover="changeImages('vert2', 'images/vert-right.gif', 'psp', 'images/psp-over.gif', 'vert1', 'images/vert-left.gif'); return true;" onmouseout="changeImages('vert2', 'images/vert.gif', 'psp', 'images/psp.gif', 'vert1', 'images/vert.gif'); return true;" onmousedown="changeImages('vert2', 'images/vert-right.gif', 'psp', 'images/psp-over.gif', 'vert1', 'images/vert-left.gif'); return true;" onmouseup="changeImages('vert2', 'images/vert-right.gif', 'psp', 'images/psp-over.gif', 'vert1', 'images/vert-left.gif'); return true;">
+		<img name="psp" src="images/psp.gif" border="0" alt=""></a></td>
+			<td width="7" height="25">
+		<img name="vert1" src="images/vert.gif" width="7" height="25" alt=""></td>
+		<td>
+		<a href="?p=pc" onmouseover="changeImages('vert1', 'images/vert-right.gif', 'pc', 'images/pc-over.gif', 'vert0', 'images/vert-left.gif'); return true;" onmouseout="changeImages('vert1', 'images/vert.gif', 'pc', 'images/pc.gif', 'vert0', 'images/vert.gif'); return true;" onmousedown="changeImages('vert1', 'images/vert-right.gif', 'pc', 'images/pc-over.gif', 'vert0', 'images/vert-left.gif'); return true;" onmouseup="changeImages('vert1', 'images/vert-right.gif', 'pc', 'images/pc-over.gif', 'vert0', 'images/vert-left.gif'); return true;">
+		<img name="pc" src="images/pc.gif" border="0" alt=""></a></td>
+	
+		<td width="6" height="25">
+		<img src="images/newnav_24.gif" width="6" height="25" alt=""></td>
+		<td width="28" height="25">
+		<img src="images/bit_default.jpg" width="28" height="25" alt=""></td>
 	</tr>
 	<tr>
-		<td width="328" height="61" colspan="7">
-			<a href="index.php">
-			<img src="images/header_06.jpg" width="328" height="61" border="0"></a></td>
-		<td width="46" height="61" colspan="2">
-			<a href="?p=all" onmouseover="changeImages('header_07', 'images/head-all-over.gif'); return true;" onmouseout="changeImages('header_07', 'images/head-all.gif'); return true;" onmousedown="changeImages('header_07', 'images/head-all-over.gif'); return true;" onmouseup="changeImages('header_07', 'images/head-all-over.gif'); return true;">
-				<img name="header_07" src="images/head-all.gif" width="46" height="61" border="0" alt=""></a></td>
-		<td width="44" height="61" colspan="2">
-			<a href="?p=xbox" onmouseover="changeImages('header_08', 'images/head-xbox-over.gif'); return true;" onmouseout="changeImages('header_08', 'images/head-xbox.gif'); return true;" onmousedown="changeImages('header_08', 'images/head-xbox-over.gif'); return true;" onmouseup="changeImages('header_08', 'images/head-xbox-over.gif'); return true;">
-				<img name="header_08" src="images/head-xbox.gif" width="44" height="61" border="0" alt=""></a></td>
-		<td width="46" height="61">
-			<a href="?p=ps2" onmouseover="changeImages('header_09', 'images/head-ps2-over.gif'); return true;" onmouseout="changeImages('header_09', 'images/head-ps2.gif'); return true;" onmousedown="changeImages('header_09', 'images/head-ps2-over.gif'); return true;" onmouseup="changeImages('header_09', 'images/head-ps2-over.gif'); return true;">
-				<img name="header_09" src="images/head-ps2.gif" width="46" height="61" border="0" alt=""></a></td>
-		<td width="44" height="61">
-			<a href="?p=gc" onmouseover="changeImages('header_10', 'images/head-gc-over.gif'); return true;" onmouseout="changeImages('header_10', 'images/head-gc.gif'); return true;" onmousedown="changeImages('header_10', 'images/head-gc-over.gif'); return true;" onmouseup="changeImages('header_10', 'images/head-gc-over.gif'); return true;">
-				<img name="header_10" src="images/head-gc.gif" width="44" height="61" border="0" alt=""></a></td>
-		<td width="44" height="61" colspan="2">
-			<a href="?p=pc" onmouseover="changeImages('header_11', 'images/head-pc-over.gif'); return true;" onmouseout="changeImages('header_11', 'images/head-pc.gif'); return true;" onmousedown="changeImages('header_11', 'images/head-pc-over.gif'); return true;" onmouseup="changeImages('header_11', 'images/head-pc-over.gif'); return true;">
-				<img name="header_11" src="images/head-pc.gif" width="44" height="61" border="0" alt=""></a></td>
-		<td width="46" height="61" colspan="2">
-			<a href="?p=hand" onmouseover="changeImages('header_12', 'images/head-hand-over.gif'); return true;" onmouseout="changeImages('header_12', 'images/head-hand.gif'); return true;" onmousedown="changeImages('header_12', 'images/head-hand-over.gif'); return true;" onmouseup="changeImages('header_12', 'images/head-hand-over.gif'); return true;">
-				<img name="header_12" src="images/head-hand.gif" width="46" height="61" border="0" alt=""></a></td>
-		<td width="24" height="61">
-			<img src="images/header_13.jpg" width="24" height="61" alt=""></td>
-	</tr>
-		<tr>
-		<td width="58" height="25">
-			<img src="images/header_14.gif" width="58" height="25" alt=""></td>
-		<td width="102" height="25" colspan="2" background="images/header_15.jpg" nowrap="" valign="top">
-		<form name="userlogin" action="index.php" method="post">
-			<input type="text" name="username" size="16" class="loginbox"></form></td>
-		<td width="38" height="25" colspan="2">
-			<img src="images/header_16.gif" width="38" height="25" alt=""></td>
-		<td width="144" height="25" colspan="3" background="images/header_17.jpg" nowrap="" valign="top">
-			
-			<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1">
-              <tbody><tr>
-                <td width="50%">
-			
-			<input type="password" name="password" size="16" class="loginbox"></td>
-                <td width="50%" align="center">
-			<input name="submit" type="image" src="images/b_headlog.gif" width="43" height="17"></td>
-              </tr>
-            </tbody></table>
-        </td>
-		<td width="64" height="25" colspan="2">
-			<img src="images/header_18.gif" width="64" height="25" alt=""></td>
-		<td width="161" height="25" colspan="6" background="images/header_19.jpg" nowrap="" valign="top">
-			
-			<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber2">
-              <tbody><tr>
-                <td width="50%">
-			<form name="searchbox" action="search.php" method="post">
-			<input type="text" name="s" size="18" class="searchbox"></form></td><input type="hidden" name="p" value="">
-                <td width="50%" align="center">
-			
-            <input name="submit" type="image" src="images/b_headgo.gif" width="43" height="18"></td>
-              </tr>
-            </tbody></table>
-        </td>
-		<td width="55" height="25" colspan="2">
-			<img src="images/header_20.jpg" width="55" height="25" alt=""></td>
-	</tr>
-		<tr>
-		<td width="109" height="30" colspan="2">
-			<a href="vault.php" onmouseover="changeImages('header_21', 'images/header_21-over.gif'); return true;" onmouseout="changeImages('header_21', 'images/header_21.gif'); return true;" onmousedown="changeImages('header_21', 'images/header_21-over.gif'); return true;" onmouseup="changeImages('header_21', 'images/header_21-over.gif'); return true;">
-				<img name="header_21" src="images/header_21.gif" width="109" height="30" border="0" alt=""></a></td>
-		<td width="106" height="30" colspan="3">
-			<a href="news.php" onmouseover="changeImages('header_22', 'images/header_22-over.gif'); return true;" onmouseout="changeImages('header_22', 'images/header_22.gif'); return true;" onmousedown="changeImages('header_22', 'images/header_22-over.gif'); return true;" onmouseup="changeImages('header_22', 'images/header_22-over.gif'); return true;">
-				<img name="header_22" src="images/header_22.gif" width="106" height="30" border="0" alt=""></a></td>
-		<td width="107" height="30" colspan="2">
-			<a href="previews.php" onmouseover="changeImages('header_23', 'images/header_23-over.gif'); return true;" onmouseout="changeImages('header_23', 'images/header_23.gif'); return true;" onmousedown="changeImages('header_23', 'images/header_23-over.gif'); return true;" onmouseup="changeImages('header_23', 'images/header_23-over.gif'); return true;">
-				<img name="header_23" src="images/header_23.gif" width="107" height="30" border="0" alt=""></a></td>
-		<td width="106" height="30" colspan="2">
-			<a href="reviews.php" onmouseover="changeImages('header_24', 'images/header_24-over.gif'); return true;" onmouseout="changeImages('header_24', 'images/header_24.gif'); return true;" onmousedown="changeImages('header_24', 'images/header_24-over.gif'); return true;" onmouseup="changeImages('header_24', 'images/header_24-over.gif'); return true;">
-				<img name="header_24" src="images/header_24.gif" width="106" height="30" border="0" alt=""></a></td>
-		<td width="106" height="30" colspan="4">
-			<a href="top20.php" onmouseover="changeImages('header_25', 'images/header_25-over.gif'); return true;" onmouseout="changeImages('header_25', 'images/header_25.gif'); return true;" onmousedown="changeImages('header_25', 'images/header_25-over.gif'); return true;" onmouseup="changeImages('header_25', 'images/header_25-over.gif'); return true;">
-				<img name="header_25" src="images/header_25.gif" width="106" height="30" border="0" alt=""></a></td>
-		<td width="106" height="30" colspan="4">
-			<a href="fanmovies.php" onmouseover="changeImages('header_26', 'images/header_26-over.gif'); return true;" onmouseout="changeImages('header_26', 'images/header_26.gif'); return true;" onmousedown="changeImages('header_26', 'images/header_26-over.gif'); return true;" onmouseup="changeImages('header_26', 'images/header_26-over.gif'); return true;">
-				<img name="header_26" src="images/header_26.gif" width="106" height="30" border="0" alt=""></a></td>
-		<td width="110" height="30" colspan="4">
-			<a href="http://forums.gametrailers.com/" onmouseover="changeImages('header_27', 'images/header_27-over.gif'); return true;" onmouseout="changeImages('header_27', 'images/header_27.gif'); return true;" onmousedown="changeImages('header_27', 'images/header_27-over.gif'); return true;" onmouseup="changeImages('header_27', 'images/header_27-over.gif'); return true;">
-				<img name="header_27" src="images/header_27.gif" width="110" height="30" border="0" alt=""></a></td>
-	</tr>
-	<tr>
-		<td width="750" height="14" colspan="21">
-			<img src="images/header_28.gif" width="750" height="14" alt=""></td>
-	</tr>
-	<tr>
-		<td width="750" height="100" colspan="21" background="images/header_29.gif" align="center">
-			<script language="JavaScript" type="text/javascript">
-<!--
-   if (!document.phpAds_used) document.phpAds_used = ',';
-   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-  
-   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("http://adserver.gametrailers.com/phpadsnew/adjs.php?n=" + phpAds_random);
-   document.write ("&amp;clientid=2&amp;target=_blank");
-   document.write ("&amp;exclude=" + document.phpAds_used);
-   if (document.referer)
-      document.write ("&amp;referer=" + escape(document.referer));
-   document.write ("'><" + "/script>");
-//-->
-</script><script language="JavaScript" type="text/javascript" src="http://adserver.gametrailers.com/phpadsnew/adjs.php?n=227714605&amp;clientid=2&amp;target=_blank&amp;exclude=,"></script><noscript><a href='http://adserver.gametrailers.com/phpadsnew/adclick.php?n=aca5d89a' target='_blank'><img src='http://adserver.gametrailers.com/phpadsnew/adview.php?clientid=2&amp;n=aca5d89a' border='0' alt=''></a></noscript></td>
-	</tr>
-	<tr>
-		<td width="20" height="1">
-			<img src="images/spacer.gif" width="20" height="1" alt=""></td>
-		<td width="89" height="1">
-			<img src="images/spacer.gif" width="89" height="1" alt=""></td>
-		<td width="19" height="1">
-			<img src="images/spacer.gif" width="19" height="1" alt=""></td>
-		<td width="58" height="1">
-			<img src="images/spacer.gif" width="58" height="1" alt=""></td>
-		<td width="29" height="1">
-			<img src="images/spacer.gif" width="29" height="1" alt=""></td>
-		<td width="73" height="1">
-			<img src="images/spacer.gif" width="73" height="1" alt=""></td>
-		<td width="34" height="1">
-			<img src="images/spacer.gif" width="34" height="1" alt=""></td>
-		<td width="4" height="1">
-			<img src="images/spacer.gif" width="4" height="1" alt=""></td>
-		<td width="102" height="1">
-			<img src="images/spacer.gif" width="102" height="1" alt=""></td>
-		<td width="28" height="1">
-			<img src="images/spacer.gif" width="28" height="1" alt=""></td>
-		<td width="14" height="1">
-			<img src="images/spacer.gif" width="14" height="1" alt=""></td>
-		<td width="32" height="1">
-			<img src="images/spacer.gif" width="32" height="1" alt=""></td>
-		<td width="32" height="1">
-			<img src="images/spacer.gif" width="32" height="1" alt=""></td>
-		<td width="12" height="1">
-			<img src="images/spacer.gif" width="12" height="1" alt=""></td>
-		<td width="46" height="1">
-			<img src="images/spacer.gif" width="46" height="1" alt=""></td>
-		<td width="44" height="1">
-			<img src="images/spacer.gif" width="44" height="1" alt=""></td>
-		<td width="4" height="1">
-			<img src="images/spacer.gif" width="4" height="1" alt=""></td>
-		<td width="40" height="1">
-			<img src="images/spacer.gif" width="40" height="1" alt=""></td>
-		<td width="15" height="1">
-			<img src="images/spacer.gif" width="15" height="1" alt=""></td>
-		<td width="31" height="1">
-			<img src="images/spacer.gif" width="31" height="1" alt=""></td>
-		<td width="24" height="1">
-			<img src="images/spacer.gif" width="24" height="1" alt=""></td>
+		<td width="800" height="10" colspan="24">
+		<img src="images/headrule.gif" width="800" height="10" alt=""></td>
 	</tr>
 </tbody></table>
-<!-- HEADER -->
+<!-- HEADER  -->
+</div>
 
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" width="750" id="AutoNumber4">
-  <tbody><tr>
-    <td width="100%">
 
-<img border="0" src="images/body_top.gif" width="750" height="10"></td>
-  </tr>
+<div align="center">
+  <table cellspacing="0" cellpadding="0" width="800" border="0" background="images/main_bg.gif">
+	<tbody><tr>
+		<td align="middle" width="800" valign="top">
+
+<table border="0" style="border-collapse: collapse" id="table3" cellpadding="0">
+	<tbody><tr>
+		<td><img border="0" src="images/lead_left.gif" width="26" height="90"></td>
+		<td background="images/temp_lead.gif" width="728" height="90"><script language="JavaScript" type="text/javascript">
+
+document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/gametrailers.mtvi/privacypolicy;section_0=privacypolicy;page=privacypolicy;platform=all;dcopt=ist;sz=728x90;ptile=1;ord=1150404588?" type="text/javascript"><\/script>');
+
+</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/gametrailers.mtvi/privacypolicy;section_0=privacypolicy;page=privacypolicy;platform=all;dcopt=ist;sz=728x90;ptile=1;ord=1150404588?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/gametrailers.mtvi/privacypolicy;section_0=privacypolicy;page=privacypolicy;platform=all;sz=728x90;ptile=1;ord=1150404588?" target="_blank"><img src="http://ad.doubleclick.net/ad/gametrailers.mtvi/privacypolicy;section_0=privacypolicy;page=privacypolicy;platform=all;sz=728x90;ptile=1;ord=1150404588?" width="728" height="90" border="0" alt=""></a></noscript></td>
+		<td><img border="0" src="images/lead_right.gif" width="26" height="90"></td>
+	</tr>
+</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td align="middle" width="800" valign="top">
+
+<div align="center"><img border="0" src="images/spacer10.gif" width="10" height="10"></div>
+</td>
+	</tr>
+</tbody></table>
+	
+	
+<table cellspacing="0" cellpadding="0" width="800" border="0" background="images/main_bg.gif">
+
+	<tbody><tr>
+		<td align="middle" width="140" valign="top">
+
+<table border="0" style="border-collapse: collapse" width="120" id="table2" cellpadding="0" bgcolor="#272727">
+	<tbody><tr>
+				<td background="images/left_nav.gif">
+				<img border="0" src="images/left_platforms.gif" width="120" height="30"></td>
+			  </tr><tr>
+					<td background="images/left_nav.gif"><div class="leftnav"><a href="index.php" alt="All Video Games" title="All Video Games" class="leftnav_link">All</a></div></td>
+				  </tr><tr>
+					<td background="images/left_nav.gif"><div class="leftnav"><a href="index.php?p=ps2" alt="Sony Playstation 2 Video Games" title="Sony Playstation 2 Video Games" class="leftnav_link">Playstation 2</a></div></td>
+				  </tr><tr>
+					<td background="images/left_nav.gif"><div class="leftnav"><a href="index.php?p=ps3" alt="Sony Playstation 3 Games, Consoles" title="Sony Playstation 3 Games, Consoles" class="leftnav_link">Playstation 3</a></div></td>
+				  </tr><tr>
+					<td background="images/left_nav.gif"><div class="leftnav"><a href="index.php?p=xbox" alt="Xbox Video Games" title="Xbox Video Games" class="leftnav_link">Xbox</a></div></td>
+				  </tr><tr>
+					<td background="images/left_nav.gif"><div class="leftnav"><a href="index.php?p=xb360" alt="XBOX 360 Games, Prices, Pics, Specs &amp; Trailers" title="XBOX 360 Games, Prices, Pics, Specs &amp; Trailers" class="leftnav_link">Xbox 360</a></div></td>
+				  </tr><tr>
+					<td background="images/left_nav.gif"><div class="leftnav"><a href="index.php?p=gc" alt="Nintendo Gamecube Video Games" title="Nintendo Gamecube Video Games" class="leftnav_link">GameCube</a></div></td>
+				  </tr><tr>
+					<td background="images/left_nav.gif"><div class="leftnav"><a href="index.php?p=rev" alt="Nintendo Wii Video Games" title="Nintendo Wii Video Games" class="leftnav_link">Nintendo Wii</a></div></td>
+				  </tr><tr>
+					<td background="images/left_nav.gif"><div class="leftnav"><a href="index.php?p=ds" alt="Nintendo DS Video Games" title="Nintendo DS Video Games" class="leftnav_link">Nintendo DS</a></div></td>
+				  </tr><tr>
+					<td background="images/left_nav.gif"><div class="leftnav"><a href="index.php?p=gba" alt="Gameboy Advance Video Games" title="Gameboy Advance Video Games" class="leftnav_link">GameBoy Advance</a></div></td>
+				  </tr><tr>
+					<td background="images/left_nav.gif"><div class="leftnav"><a href="index.php?p=psp" alt="Sony PSP Video Games" title="Sony PSP Video Games" class="leftnav_link">PSP</a></div></td>
+				  </tr><tr>
+					<td background="images/left_nav.gif"><div class="leftnav"><a href="index.php?p=pc" alt="PC Games" title="PC Games" class="leftnav_link">PC</a></div></td>
+				  </tr><tr>
+				<td background="images/left_nav.gif">
+				<img border="0" src="images/left_gametrailers.gif" width="120" height="30"></td>
+			  </tr><tr>
+					<td background="images/left_nav.gif"><div class="leftnav"><a href="vault.php" alt="PS2, PS3, Xbox, Xbox 360, GameCube, PSP, PC &amp; more Video Games" title="PS2, PS3, Xbox, Xbox 360, GameCube, PSP, PC &amp; more Video Games" class="leftnav_link">Game Vault</a></div></td>
+				  </tr><tr>
+					<td background="images/left_nav.gif"><div class="leftnav"><a href="reviews.php" alt="Game Trailer Review of each Video Game" title="Game Trailer Review of each Video Game" class="leftnav_link">Reviews</a></div></td>
+				  </tr><tr>
+					<td background="images/left_nav.gif"><div class="leftnav"><a href="previews.php" alt="Sony playstation 3 previews, XBox 360 previews" title="Sony playstation 3 previews, XBox 360 previews" class="leftnav_link">Previews</a></div></td>
+				  </tr><tr>
+					<td background="images/left_nav.gif"><div class="leftnav"><a href="interviews.php" alt="Game Trailer Interviews" title="Game Trailer Interviews" class="leftnav_link">Interviews</a></div></td>
+				  </tr><tr>
+					<td background="images/left_nav.gif"><div class="leftnav"><a href="events.php" alt="GTtv Event Coverage" title="GTtv Event Coverage" class="leftnav_link">Events</a></div></td>
+				  </tr><tr>
+					<td background="images/left_nav.gif"><div class="leftnav"><a href="gthd.php" alt="Gametrailers High-Definition Video" title="Gametrailers High-Definition Video" class="leftnav_link">GameTrailers HD</a></div></td>
+				  </tr><tr>
+					<td background="images/left_nav.gif"><div class="leftnav"><a href="podcasts.php" alt="GT Podcasts for iTunes" title="GT Podcasts for iTunes" class="leftnav_link">Podcasts</a></div></td>
+				  </tr><tr>
+					<td background="images/left_nav.gif"><div class="leftnav"><a href="http://users.gametrailers.com/community.php" alt="Gametrailers Community Homepage" title="Gametrailers Community Homepage" class="leftnav_link">Community</a></div></td>
+				  </tr><tr>
+					<td background="images/left_nav.gif"><div class="leftnav"><a href="gamepage.php?id=2060" alt="GT Weekly TV Show" title="GT Weekly TV Show" class="leftnav_link">GT Weekly</a></div></td>
+				  </tr><tr>
+					<td background="images/left_nav.gif"><div class="leftnav"><a href="http://forums.gametrailers.com/" alt="Gametrailers User Forums" title="Gametrailers User Forums" class="leftnav_link">Forums</a></div></td>
+				  </tr><tr>
+					<td background="images/left_nav.gif"><div class="leftnav"><a href="news.php" alt="Latest news at GameTrailers.com" title="Latest news at GameTrailers.com" class="leftnav_link">News</a></div></td>
+				  </tr><tr>
+					<td background="images/left_nav.gif"><div class="leftnav"><a href="faqs.php" alt="Questions on Video Games, XBox and other cheat codes" title="Questions on Video Games, XBox and other cheat codes" class="leftnav_link">FAQs</a></div></td>
+				  </tr><tr>
+					<td background="images/left_nav.gif"><div class="leftnav"><a href="http://www.gametrailers.com/fdpage.php" alt="Frag Dolls" title="Frag Dolls" class="leftnav_link">Frag Dolls</a></div></td>
+				  </tr><tr>
+				<td background="images/left_nav.gif">
+				<img border="0" src="images/left_events.gif" width="120" height="30"></td>
+			  </tr><tr>
+					<td background="images/left_nav.gif"><div class="leftnav"><a href="e32k6.php" alt="E3 2006 Home" title="E3 2006 Home" class="leftnav_link">E3 2006</a></div></td>
+				  </tr><tr>
+					<td background="images/left_nav.gif"><div class="leftnav"><a href="e32k5.php" alt="E3 2005 Home" title="E3 2005 Home" class="leftnav_link">E3 2005</a></div></td>
+				  </tr><tr>
+					<td background="images/left_nav.gif"><div class="leftnav"><a href="gdc2k6.php" alt="Game Developers Conference 2006 Home" title="Game Developers Conference 2006 Home" class="leftnav_link">GDC 2006</a></div></td>
+				  </tr><tr>
+					<td background="images/left_nav.gif"><div class="leftnav"><a href="tgs2k5.php" alt="TGS 2005 Home" title="TGS 2005 Home" class="leftnav_link">TGS 2005</a></div></td>
+				  </tr><tr>
+				<td background="images/left_nav.gif">
+				<img border="0" src="images/left_usermovies.gif" width="120" height="30"></td>
+			  </tr><tr>
+					<td background="images/left_nav.gif"><div class="leftnav"><a href="usermoviecontest.php" alt="User Movie Contests! Win Prizes for your art!" title="User Movie Contests! Win Prizes for your art!" class="leftnav_link">User Movie Contests</a></div></td>
+				  </tr><tr>
+					<td background="images/left_nav.gif"><div class="leftnav"><a href="umlisting.php" alt="Newest User Movies" title="Newest User Movies" class="leftnav_link">Newest User Movies</a></div></td>
+				  </tr><tr>
+					<td background="images/left_nav.gif"><div class="leftnav"><a href="umlisting.php?list=featured" alt="Featured User Movies" title="Featured User Movies" class="leftnav_link">Featured User Movies</a></div></td>
+				  </tr><tr>
+					<td background="images/left_nav.gif"><div class="leftnav"><a href="umlisting.php?list=popular" alt="Popular User Movies" title="Popular User Movies" class="leftnav_link">Popular User Movies</a></div></td>
+				  </tr>	</tbody></table>
+
+
+<div align="center"><img border="0" src="images/spacer10.gif" width="10" height="10"><script type="text/javascript" src="flashobject.js"></script></div>
+
+
+<table border="0" width="120" cellpadding="0" cellspacing="0" bgcolor="#808794" background="images/left_rel_bg.gif">
+	<tbody><tr>
+		<td>
+		<img border="0" src="images/left_releases.gif" width="120" height="30"></td>
+	</tr>
+	<tr>
+		<td>
+		
+		<img border="0" src="images/left_upcoming.gif" width="120" height="18"></td>
+	</tr>
+	<tr>
+		<td class="left_shine">
+<div class="rel_title"><a href="http://www.gametrailers.com/gamepage.php?id=1866" class="rel_link">Hard Truck: Apoca...</a></div>
+						<div class="rel_date">June 26, 2006</div><div class="rel_title"><a href="http://www.gametrailers.com/gamepage.php?id=2818" class="rel_link">Crusty Demons Moto-X</a></div>
+						<div class="rel_date">June 20, 2006</div><div class="rel_title"><a href="http://www.gametrailers.com/gamepage.php?id=2232" class="rel_link">NFL Head Coach </a></div>
+						<div class="rel_date">June 20, 2006</div><div class="rel_title"><a href="http://www.gametrailers.com/gamepage.php?id=2555" class="rel_link">Moto GP 4</a></div>
+						<div class="rel_date">June 20, 2006</div>			
+</td>
+	</tr>
+	<tr>
+		<td>
+		<img border="0" src="images/left_ender.gif" width="120" height="3"></td>
+	</tr>
+	<tr>
+		<td>
+		<img border="0" src="images/left_recent.gif" width="120" height="18"></td>
+	</tr>
+	<tr>
+		<td class="left_shine">
+<div class="rel_title"><a href="http://www.gametrailers.com/gamepage.php?id=1966" class="rel_link">Armored Core: Las...</a></div>
+						<div class="rel_date">June 13, 2006</div><div class="rel_title"><a href="http://www.gametrailers.com/gamepage.php?id=2430" class="rel_link">SF Alpha Anthology </a></div>
+						<div class="rel_date">June 13, 2006</div><div class="rel_title"><a href="http://www.gametrailers.com/gamepage.php?id=2468" class="rel_link">Urban Chaos</a></div>
+						<div class="rel_date">June 13, 2006</div><div class="rel_title"><a href="http://www.gametrailers.com/gamepage.php?id=2588" class="rel_link">Mega Man Battle N...</a></div>
+						<div class="rel_date">June 13, 2006</div>		</td>
+	</tr>
+	<tr>
+		<td><img border="0" src="images/left_ender.gif"></td>
+	</tr>
 </tbody></table>
 
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" width="750" id="AutoNumber3" bgcolor="#A5ABB9" background="images/body_background.gif">
-  <tbody><tr>
-    <td rowspan="2" width="155" valign="top" align="center">
-    <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" width="100%" id="AutoNumber5">
-      <tbody><tr>
-        <td width="100%">
-        <img border="0" src="images/leftnav_account.gif" width="155" height="20"></td>
-      </tr>
-		  <tr>
-        <td width="100%" background="images/left_mid.gif" class="leftnavcell">
-        <a href="login.php" class="leftnav">Register</a></td>
-      </tr>
-      <tr>
-        <td width="100%" background="images/left_mid.gif" class="leftnavcell">
-        <a href="privacypolicy.php" class="leftnav">Privacy Policy</a></td>
-      </tr>
-		  <tr>
-        <td width="100%">
-        <img border="0" src="images/left_top_home.gif" width="155" height="20"></td>
-      </tr>
-      <tr>
-        <td width="100%" background="images/left_mid.gif" class="leftnavcell">
-        <a href="vault.php" class="leftnav">The Vault</a></td>
-      </tr>
-      <tr>
-        <td width="100%" background="images/left_mid.gif" class="leftnavcell">
-        <a href="news.php" class="leftnav">News</a></td>
-      </tr>
-      <tr>
-        <td width="100%" background="images/left_mid.gif" class="leftnavcell">
-        <a href="reviews.php" class="leftnav">Reviews</a></td>
-      </tr>
-      <tr>
-        <td width="100%" background="images/left_mid.gif" class="leftnavcell">
-        <a href="previews.php" class="leftnav">Previews</a></td>
-      </tr>
-      <tr>
-        <td width="100%" background="images/left_mid.gif" class="leftnavcell">
-        <a href="tvspots.php" class="leftnav">TV Spots</a></td>
-      </tr>
-      <tr>
-        <td width="100%" background="images/left_mid.gif" class="leftnavcell">
-        <a href="top20.php" class="leftnav">Top 20</a></td>
-      </tr>
-      <tr>
-        <td width="100%" background="images/left_mid.gif" class="leftnavcell">
-        <a href="fanmovies.php" class="leftnav">Fan Movies</a></td>
-      </tr>
-      <tr>
-        <td width="100%" background="images/left_mid.gif" class="leftnavcell">
-        <a href="http://forums.gametrailers.com/" class="leftnav">Forums</a></td>
-      </tr>
-	  <tr>
-        <td width="100%">
-        <img border="0" src="images/leftnav_platform.gif" width="155" height="20"></td>
-      </tr>
-      <tr>
-        <td width="100%" background="images/left_mid.gif" class="leftnavcell">
-        <a href="?p=all" class="leftnav">All</a></td>
-      </tr>
-      <tr>
-        <td width="100%" background="images/left_mid.gif" class="leftnavcell">
-        <a href="?p=xbox" class="leftnav">X-Box</a></td>
-      </tr>
-      <tr>
-        <td width="100%" background="images/left_mid.gif" class="leftnavcell">
-        <a href="?p=ps2" class="leftnav">Playstation 2</a></td>
-      </tr>
-      <tr>
-        <td width="100%" background="images/left_mid.gif" class="leftnavcell">
-        <a href="?p=gc" class="leftnav">GameCube</a></td>
-      </tr>
-      <tr>
-        <td width="100%" background="images/left_mid.gif" class="leftnavcell">
-        <a href="?p=pc" class="leftnav">PC</a></td>
-      </tr>
-      <tr>
-        <td width="100%" background="images/left_mid.gif" class="leftnavcell">
-        <a href="?p=hand" class="leftnav">Handheld</a></td>
-      </tr>
-    </tbody></table>
-    <img border="0" src="images/left_spacer.gif" width="155" height="10"><br>
-    <script type="text/javascript"><!--
-google_ad_client = "pub-3950979726415562";
-google_ad_width = 120;
-google_ad_height = 600;
-google_ad_format = "120x600_as";
-google_ad_type = "text";
-google_ad_channel ="";
-google_color_border = "5A626F";
-google_color_bg = "828892";
-google_color_link = "FFFFFF";
-google_color_url = "AAB2BF";
-google_color_text = "30343B";
-//--></script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></td>
-    <td width="400" align="center" valign="top">
 
-    
+</td>		<td align="middle" width="480" valign="top">
 
 
-    <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" width="100%" id="AutoNumber9" bgcolor="#333333">
-      <tbody><tr>
-        <td colspan="3" width="400" height="25">
-        <img border="0" src="images/header_privacypolicy.gif" width="400" height="25"></td>
-      </tr>
-      <tr>
-        <td width="5" bgcolor="#A5ABB9">
-        <img border="0" src="images/latest_06.gif" width="5" height="20"></td>
-        <td width="390" bgcolor="#FFFFFF">
-        
-        
-        
+		<table border="0" style="border-collapse: collapse" width="100%" id="table6" cellpadding="0" background="http://trailers.gametrailers.com/images/generic_bg.gif">
+			<tbody><tr>
+				<td width="10" align="left">
+				<img border="0" src="http://trailers.gametrailers.com/images/generic_left.gif" width="10" height="30"></td>
+				<td><div class="gen_heading">Gametrailers.com - Privacy Policy</div></td>
+				<td width="10" align="right">
+				<img border="0" src="http://trailers.gametrailers.com/images/generic_right.gif" width="10" height="30"></td>
+			</tr>
+		</tbody></table>
 
+<table border="0" cellspacing="0" width="100%" cellpadding="0" style="border-style: solid; border-color: #606875; border-width: 0px 1px 0px 1px;">
 
+	<tbody><tr>
+		<td class="bg1" align="center">
+		
+		<div style="margin:10px">
+		<table border="0" style="border-collapse: collapse" width="458" id="table5" cellpadding="0">
+			<tbody><tr>
+				<td width="458" valign="bottom">
+				<div class="gen_title"></div>
+				<div class="gen_subtitle"></div>
+				</td>
+			</tr>
+			<tr>
+				<td align="left" width="458">
+<div class="gen_title">	<b>GameTrailers.com Agreement and Privacy Policy
+User Agreement</b><hr><br></div>
+<div class="gen_text">
 
-<table border="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1" cellpadding="0">
-    
-  <tbody><tr>
-    <td>
-   <div class="regtext" align="left" style="padding: 4px">
-	<b>GameTrailers.com Agreement and Privacy Policy
-User Agreement</b><hr><br>
-<b>Overview</b><br><br>
-
+<b>Overview</b><br><br>	
 We take your privacy seriously. Because we gather certain types of information about our users we want to help you understand the terms and conditions surrounding the collection and use of that information. This privacy statement discloses the types of information we gather, how we use it, and how to correct or change it. 
 <br><br>
 <b>Children</b>
@@ -429,123 +550,165 @@ We will make your personally identifiable information available to other compani
 You can review, correct or change the information collected during registration by visiting your preferences page after you login. Users may change information at any time and as often as necessary. Users who are experiencing problems with our services or who have questions about how our services work can contact us using e-mail addresses at the bottom of this page.
 <br><br>
 GameTrailers.com reserves the right to restrict access at will to users who are perceived as being detrimental to the community.
-											      
+
 	<br><br><br>
+				</div></td>
+			</tr>
+			</tbody></table>
+</div>
+
+
+		
+		</td>
+	</tr>
 	
-  </div></td>
-  </tr>   
-  </tbody></table>
-
-
-
-</td>
-        <td width="5" background="images/latest_right.gif">
-        <img border="0" src="images/latest_right.gif" width="5" height="20"></td>
-      </tr>
-      <tr>
-        <td colspan="3" width="400" height="14">
-        <img border="0" src="images/latest_bottom.gif" width="400" height="14"></td>
-      </tr>
-    </tbody></table>
-
-    
-    </td>
-    <td width="195" align="center" valign="top">
-    <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" id="AutoNumber6">
-      <tbody><tr>
-        <td width="100%">
-        <img border="0" src="images/right_top_recentforumtopics.gif" width="195" height="20"></td>
-      </tr>
-  <tr><td width="100%" background="images/right_mid.gif" class="leftnavcell">
-        <a class="leftnav" title="Classic Playstation Titles for the PSP" href="http://forums.gametrailers.com/showthread.php?t=19065" target="_parent">Classic Playstation Titles...</a></td>
-      </tr><tr><td width="100%" background="images/right_mid.gif" class="leftnavcell">
-        <a class="leftnav" title="Does this scare you?" href="http://forums.gametrailers.com/showthread.php?t=19064" target="_parent">Does this scare you?</a></td>
-      </tr><tr><td width="100%" background="images/right_mid.gif" class="leftnavcell">
-        <a class="leftnav" title="My First FM" href="http://forums.gametrailers.com/showthread.php?t=19063" target="_parent">My First FM</a></td>
-      </tr><tr><td width="100%" background="images/right_mid.gif" class="leftnavcell">
-        <a class="leftnav" title="amanda mcabe in eyeQ infocomcerial" href="http://forums.gametrailers.com/showthread.php?t=19062" target="_parent">amanda mcabe in eyeQ infoc...</a></td>
-      </tr><tr><td width="100%" background="images/right_mid.gif" class="leftnavcell">
-        <a class="leftnav" title="some kinda robot thingy" href="http://forums.gametrailers.com/showthread.php?t=19061" target="_parent">some kinda robot thingy</a></td>
-      </tr><tr><td width="100%" background="images/right_mid.gif" class="leftnavcell">
-        <a class="leftnav" title="This will make you think..." href="http://forums.gametrailers.com/showthread.php?t=19059" target="_parent">This will make you think.....</a></td>
-      </tr><tr><td width="100%" background="images/right_mid.gif" class="leftnavcell">
-        <a class="leftnav" title="Are you or is your family, Rich or Poor?" href="http://forums.gametrailers.com/showthread.php?t=19058" target="_parent">Are you or is your family,...</a></td>
-      </tr><tr><td width="100%" background="images/right_mid.gif" class="leftnavcell">
-        <a class="leftnav" title="Merry X-mas" href="http://forums.gametrailers.com/showthread.php?t=19057" target="_parent">Merry X-mas</a></td>
-      </tr>      <tr>
-        <td width="100%" background="images/right_bg.gif" align="center">
-        <img border="0" src="images/right_spacer.gif" width="195" height="10"></td>
-      </tr>
-
-      <tr>
-        <td width="100%" background="images/right_bg.gif" align="center">
-        <script language="JavaScript" type="text/javascript">
-<!--
-   if (!document.phpAds_used) document.phpAds_used = ',';
-   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-  
-   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("http://adserver.gametrailers.com/phpadsnew/adjs.php?n=" + phpAds_random);
-   document.write ("&amp;clientid=3&amp;target=_blank");
-   document.write ("&amp;exclude=" + document.phpAds_used);
-   if (document.referer)
-      document.write ("&amp;referer=" + escape(document.referer));
-   document.write ("'><" + "/script>");
-//-->
-</script><script language="JavaScript" type="text/javascript" src="http://adserver.gametrailers.com/phpadsnew/adjs.php?n=668413352&amp;clientid=3&amp;target=_blank&amp;exclude=,"></script><noscript><a href='http://adserver.gametrailers.com/phpadsnew/adclick.php?n=ac19c2ab' target='_blank'><img src='http://adserver.gametrailers.com/phpadsnew/adview.php?clientid=3&amp;n=ac19c2ab' border='0' alt=''></a></noscript>
-</td>
-      </tr>
-      <tr>
-        <td width="100%">
-        <img border="0" src="images/right_bot.gif" width="195" height="20"></td>
-      </tr>
-      </tbody></table>
-    </td>
-  </tr>
-  </tbody></table>
-
-<!-- FOOOTER -->
-<table id="Table_2" width="750" height="110" border="0" cellpadding="0" cellspacing="0">
+	
+	</tbody></table>
+<table border="0" cellspacing="0" width="480" cellpadding="0" background="http://trailers.gametrailers.com/images/game_media_bg.gif" style="border-style: solid; border-color: #606875; border-width: 0px 1px 1px 1px;">
 	<tbody><tr>
-		<td width="32" height="110" rowspan="5">
-			<img src="images/footer_01.jpg" width="32" height="110" alt=""></td>
-		<td width="686" height="14" colspan="2">
-			<img src="images/footer_02.gif" width="686" height="14" alt=""></td>
-		<td width="32" height="110" rowspan="5">
-			<img src="images/footer_03.jpg" width="32" height="110" alt=""></td>
-	</tr>
-	<tr>
-		<td width="175" height="33">
-			<img src="images/footer_04.gif" width="175" height="33" alt=""></td>
-		<td width="511" height="33">
-			<img src="images/footer_05.gif" width="511" height="33" alt="Over 15 Million Game Trailer Downloads"></td>
-	</tr>
-	<tr>
-		<td width="175" height="20">
-			<a href="#">
-			<img src="images/footer_06.gif" width="175" height="20" border="0"></a></td>
-		<td width="511" height="20" background="images/footer_07.gif">
-			<div align="center" class="footnav"><a href="vault.php" class="footnav">The Vault</a> · 
-              <a href="news.php" class="footnav">News</a> · <a href="previews.php" class="footnav">Previews</a> · 
-              <a href="reviews.php" class="footnav">Reviews</a> · <a href="top20.php" class="footnav">Top 20</a> · 
-              <a href="fanmovies.php" class="footnav">Fan Movies</a> · <a href="http://forums.gametrailers.com/" class="footnav">Forums</a></div></td>
-	</tr>
-	<tr>
-		<td width="686" height="24" colspan="2" background="images/footer_08.gif">
-			<div align="center" class="footnavsub"><a href="aboutus.php" class="footnavsub">About Us</a> ·
-              <a href="gtproductions.php" class="footnavsub">GT Productions</a> · <a href="faq" class="footnavsub">FAQ</a> · 
-              <a href="advertise.php" class="footnavsub">Advertise</a> · <a href="pressandaffiliates" class="footnavsub">Press and Affiliates</a> · 
-              <a href="termsofuse.php" class="footnavsub">Terms of Use</a> · 
-              <a href="privacypolicy.php" class="footnavsub">Privacy Policy</a></div></td>
-	</tr>
-	<tr>
-		<td width="686" height="19" colspan="2" background="images/footer_09.gif">
-			<div align="center" class="copytext">Copyright © 2004 <a href="#" class="copytext">
-              Gametrailers.com</a>, all rights reserved.</div></td>
+		<td>
+		
+			<div class="user_list_nav">
+		
+			&nbsp;</div>
+		
+		</td>
 	</tr>
 </tbody></table>
-<!-- FOOOTER -->
+
+
+</td>
+<td align="middle" width="180" valign="top">
+
+<table border="0" width="160" id="table4" cellspacing="0" cellpadding="0" bgcolor="#272727" background="images/right_dark_bg.gif">
+	<tbody><tr>
+		<td>
+		<img border="0" src="images/right_forums.gif" width="160" height="30"></td>
+	</tr>
+	<tr>
+		<td class="right_shinedark">
+<div class="right_forumtopics"><a href="http://forums.gametrailers.com/showthread.php?t=26658" class="right_forumlink" alt="The Angry Nintendo Nerd" title="The Angry Nintendo Nerd">The Angry Nintendo Nerd</a></div><div align="center"><img border="0" src="images/right_div.gif" width="160" height="3"></div><div class="right_forumtopics"><a href="http://forums.gametrailers.com/showthread.php?t=26657" class="right_forumlink" alt="Final Fantasy 13 - Dragon Boy" title="Final Fantasy 13 - Dragon Boy">Final Fantasy 13 - Dragon</a></div><div align="center"><img border="0" src="images/right_div.gif" width="160" height="3"></div><div class="right_forumtopics"><a href="http://forums.gametrailers.com/showthread.php?t=26656" class="right_forumlink" alt="A Fight For Tomorrow" title="A Fight For Tomorrow">A Fight For Tomorrow</a></div><div align="center"><img border="0" src="images/right_div.gif" width="160" height="3"></div><div class="right_forumtopics"><a href="http://forums.gametrailers.com/showthread.php?t=26655" class="right_forumlink" alt="PS3 Chip slows down..." title="PS3 Chip slows down...">PS3 Chip slows down...</a></div><div align="center"><img border="0" src="images/right_div.gif" width="160" height="3"></div><div class="right_forumtopics"><a href="http://forums.gametrailers.com/showthread.php?t=26654" class="right_forumlink" alt="Angry Baby FM Overture '06 ~ A Recap" title="Angry Baby FM Overture '06 ~ A Recap">Angry Baby FM Overture '0</a></div><div align="center"><img border="0" src="images/right_div.gif" width="160" height="3"></div><div class="right_forumtopics"><a href="http://forums.gametrailers.com/showthread.php?t=26652" class="right_forumlink" alt="My 3D swimsuit renders" title="My 3D swimsuit renders">My 3D swimsuit renders</a></div><div align="center"><img border="0" src="images/right_div.gif" width="160" height="3"></div><div class="right_forumtopics"><a href="http://forums.gametrailers.com/showthread.php?t=26650" class="right_forumlink" alt="Titan Quest" title="Titan Quest">Titan Quest</a></div><div align="center"><img border="0" src="images/right_div.gif" width="160" height="3"></div><div class="right_forumtopics"><a href="http://forums.gametrailers.com/showthread.php?t=26647" class="right_forumlink" alt="Mickey And Cloud Vs Sephiroth" title="Mickey And Cloud Vs Sephiroth">Mickey And Cloud Vs Sephi</a></div><div align="center"><img border="0" src="images/right_div.gif" width="160" height="3"></div><div class="right_forumtopics"><a href="http://forums.gametrailers.com/showthread.php?t=26646" class="right_forumlink" alt="Ask a Ninja Gaiden" title="Ask a Ninja Gaiden">Ask a Ninja Gaiden</a></div>		</td>
+	</tr>
+	<tr>
+		<td>
+		<img border="0" src="images/right_dark_ender.gif" width="160" height="3"></td>
+	</tr>
+</tbody></table>
+
+<div align="center"><img border="0" src="images/spacer10.gif" width="10" height="9"></div>
+
+<table border="0" width="160" cellspacing="0" cellpadding="0" bgcolor="#808794">
+	<tbody><tr>
+		<td><img border="0" src="images/right_ad.gif" width="160" height="30"></td>
+	</tr>
+	<tr>
+		<td background="images/temp_skyscraper.gif" width="160" height="600">
+		<script language="JavaScript" type="text/javascript">
+
+document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/gametrailers.mtvi/privacypolicy;section_0=privacypolicy;page=privacypolicy;platform=all;dcopt=ist;sz=160x600;ptile=2;ord=1150404588?" type="text/javascript"><\/script>');
+
+</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/gametrailers.mtvi/privacypolicy;section_0=privacypolicy;page=privacypolicy;platform=all;dcopt=ist;sz=160x600;ptile=2;ord=1150404588?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/gametrailers.mtvi/privacypolicy;section_0=privacypolicy;page=privacypolicy;platform=all;sz=160x600;ptile=2;ord=1150404588?" target="_blank"><img src="http://ad.doubleclick.net/ad/gametrailers.mtvi/privacypolicy;section_0=privacypolicy;page=privacypolicy;platform=all;sz=160x600;ptile=2;ord=1150404588?" width="160" height="600" border="0" alt=""></a></noscript>		</td>
+	</tr>
+</tbody></table>
+
+<div align="center"><img border="0" src="images/spacer10.gif" width="10" height="10"></div>
+
+
+
+
+<table border="0" width="160" cellspacing="0" cellpadding="0" bgcolor="#808794" background="images/right_bg.gif">
+	<tbody><tr>
+		<td><a href="news.php"><img border="0" src="images/right_news.gif" width="160" height="30"></a></td>
+	</tr><tr>
+		<td class="right_shine">
+<table>
+		<tbody><tr><td><a href="viewnews.php?id=3341" alt="Bungie Speaks on Halo 2 PC, Confirms no PC/Xbox Gameplay" title="Bungie Speaks on Halo 2 PC, Confirms no PC/Xbox Gameplay"><img border="0" src="images/icon_news.gif" width="24" height="26" align="left"></a></td><td><a href="viewnews.php?id=3341" class="right_newslink" alt="Bungie Speaks on Halo 2 PC, Confirms no PC/Xbox Gameplay" title="Bungie Speaks on Halo 2 PC, Confirms no PC/Xbox Gameplay">Bungie Speaks on Halo 2 PC, Confirm...</a></td></tr>
+		</tbody></table><div align="center"><img border="0" src="images/right_div2.gif" width="160" height="3"></div><table>
+		<tbody><tr><td><a href="viewnews.php?id=3340" alt="New Shredder Guitar Hero Controller Gets Mixed Reviews" title="New Shredder Guitar Hero Controller Gets Mixed Reviews"><img border="0" src="images/icon_news.gif" width="24" height="26" align="left"></a></td><td><a href="viewnews.php?id=3340" class="right_newslink" alt="New Shredder Guitar Hero Controller Gets Mixed Reviews" title="New Shredder Guitar Hero Controller Gets Mixed Reviews">New "Shredder" Guitar Hero Controll...</a></td></tr>
+		</tbody></table><div align="center"><img border="0" src="images/right_div2.gif" width="160" height="3"></div><table>
+		<tbody><tr><td><a href="viewnews.php?id=3337" alt="Blizzard Responds to Rumors, Claims No More MMOs in the Works" title="Blizzard Responds to Rumors, Claims No More MMOs in the Works"><img border="0" src="images/icon_news_hot.gif" width="24" height="26" align="left"></a></td><td><a href="viewnews.php?id=3337" class="right_newslink_hot" alt="Blizzard Responds to Rumors, Claims No More MMOs in the Works" title="Blizzard Responds to Rumors, Claims No More MMOs in the Works">Blizzard Responds to Rumors, Claims...</a></td></tr>
+		</tbody></table><div align="center"><img border="0" src="images/right_div2.gif" width="160" height="3"></div><table>
+		<tbody><tr><td><a href="viewnews.php?id=3338" alt="Dead Pixels Reported on Newly Released DS Lite" title="Dead Pixels Reported on Newly Released DS Lite"><img border="0" src="images/icon_news.gif" width="24" height="26" align="left"></a></td><td><a href="viewnews.php?id=3338" class="right_newslink" alt="Dead Pixels Reported on Newly Released DS Lite" title="Dead Pixels Reported on Newly Released DS Lite">Dead Pixels Reported on Newly Relea...</a></td></tr>
+		</tbody></table><div align="center"><img border="0" src="images/right_div2.gif" width="160" height="3"></div><table>
+		<tbody><tr><td><a href="viewnews.php?id=3339" alt="Best Buy Takes PS3 Game Pre-orders; Resident Evil 5 and Final Fantasy VII Listed" title="Best Buy Takes PS3 Game Pre-orders; Resident Evil 5 and Final Fantasy VII Listed"><img border="0" src="images/icon_news_hot.gif" width="24" height="26" align="left"></a></td><td><a href="viewnews.php?id=3339" class="right_newslink_hot" alt="Best Buy Takes PS3 Game Pre-orders; Resident Evil 5 and Final Fantasy VII Listed" title="Best Buy Takes PS3 Game Pre-orders; Resident Evil 5 and Final Fantasy VII Listed">Best Buy Takes PS3 Game Pre-orders;...</a></td></tr>
+		</tbody></table><div align="center"><img border="0" src="images/right_div2.gif" width="160" height="3"></div><table>
+		<tbody><tr><td><a href="viewnews.php?id=3335" alt="ESA Wages War on Video Games as Porn Law" title="ESA Wages War on Video Games as Porn Law"><img border="0" src="images/icon_news.gif" width="24" height="26" align="left"></a></td><td><a href="viewnews.php?id=3335" class="right_newslink" alt="ESA Wages War on Video Games as Porn Law" title="ESA Wages War on Video Games as Porn Law">ESA Wages War on "Video Games as Po...</a></td></tr>
+		</tbody></table>		</td>
+	</tr>
+	<tr>
+		<td><img border="0" src="images/right_ender.gif"></td>
+	</tr>
+</tbody></table>
+
+
+</td>
+	</tr>
+	</tbody></table>
 </div>
+
+<div align="center">
+  <table cellspacing="0" cellpadding="0" width="800" border="0" background="images/main_bg.gif" id="table1">
+	<tbody><tr>
+		<td align="middle" width="800" valign="top">
+
+<img border="0" src="images/spacer10.gif" width="10" height="10"></td>
+	</tr>
+	</tbody></table>
+</div>
+
+<div align="center">
+<!-- SILVER NAV BOTTOM -->
+<table width="800" height="36" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td width="148" height="36">
+			<a href="http://www.gametrailers.com" onmouseover="changeImages('gt_gt2', 'images/gt_gt-over.gif'); return true;" onmouseout="changeImages('gt_gt2', 'images/gt_gt.gif'); return true;" onmousedown="changeImages('gt_gt2', 'images/gt_gt-over.gif'); return true;" onmouseup="changeImages('gt_gt2', 'images/gt_gt-over.gif'); return true;">
+				<img name="gt_gt2" src="images/gt_gt.gif" width="148" height="36" border="0" alt="GameTrailers.com"></a></td>
+		<td width="98" height="36">
+			<a href="previews.php" onmouseover="changeImages('gt_previews2', 'images/gt_previews-over.gif'); return true;" onmouseout="changeImages('gt_previews2', 'images/gt_previews.gif'); return true;" onmousedown="changeImages('gt_previews2', 'images/gt_previews-over.gif'); return true;" onmouseup="changeImages('gt_previews2', 'images/gt_previews-over.gif'); return true;">
+				<img name="gt_previews2" src="images/gt_previews.gif" width="98" height="36" border="0" alt="GT Previews"></a></td>
+		<td width="100" height="36">
+			<a href="reviews.php" onmouseover="changeImages('gt_reviews2', 'images/gt_reviews-over.gif'); return true;" onmouseout="changeImages('gt_reviews2', 'images/gt_reviews.gif'); return true;" onmousedown="changeImages('gt_reviews2', 'images/gt_reviews-over.gif'); return true;" onmouseup="changeImages('gt_reviews2', 'images/gt_reviews-over.gif'); return true;">
+				<img name="gt_reviews2" src="images/gt_reviews.gif" width="100" height="36" border="0" alt="GT Reviews"></a></td>
+		<td width="100" height="36">
+			<a href="top20.php" onmouseover="changeImages('gt_top2', 'images/gt_top-over.gif'); return true;" onmouseout="changeImages('gt_top2', 'images/gt_top.gif'); return true;" onmousedown="changeImages('gt_top2', 'images/gt_top-over.gif'); return true;" onmouseup="changeImages('gt_top2', 'images/gt_top-over.gif'); return true;">
+				<img name="gt_top2" src="images/gt_top.gif" width="100" height="36" border="0" alt="GT Top Media"></a></td>
+		<td width="99" height="36">
+			<a href="usermovies.php" onmouseover="changeImages('gt_users2', 'images/gt_users-over.gif'); return true;" onmouseout="changeImages('gt_users2', 'images/gt_users.gif'); return true;" onmousedown="changeImages('gt_users2', 'images/gt_users-over.gif'); return true;" onmouseup="changeImages('gt_users2', 'images/gt_users-over.gif'); return true;">
+				<img name="gt_users2" src="images/gt_users.gif" width="99" height="36" border="0" alt="GT User Movies"></a></td>
+		<td width="100" height="36">
+			<a href="http://forums.gametrailers.com/" onmouseover="changeImages('gt_forums2', 'images/gt_forums-over.gif'); return true;" onmouseout="changeImages('gt_forums2', 'images/gt_forums.gif'); return true;" onmousedown="changeImages('gt_forums2', 'images/gt_forums-over.gif'); return true;" onmouseup="changeImages('gt_forums2', 'images/gt_forums-over.gif'); return true;">
+				<img name="gt_forums2" src="images/gt_forums.gif" width="100" height="36" border="0" alt="GT Forums"></a></td>
+		<td width="100" height="36">
+			<a href="http://users.gametrailers.com/community.php" onmouseover="changeImages('gt_community2', 'images/gt_community-over.gif'); return true;" onmouseout="changeImages('gt_community2', 'images/gt_community.gif'); return true;" onmousedown="changeImages('gt_community2', 'images/gt_community-over.gif'); return true;" onmouseup="changeImages('gt_community2', 'images/gt_community-over.gif'); return true;">
+				<img name="gt_community2" src="images/gt_community.gif" width="100" height="36" border="0" alt="GT Community"></a></td>
+		<td width="55" height="36">
+			<a href="http://www.gt.tv/" onmouseover="changeImages('gt_gttv2', 'images/gt_gttv-over.gif'); return true;" onmouseout="changeImages('gt_gttv2', 'images/gt_gttv.gif'); return true;" onmousedown="changeImages('gt_gttv2', 'images/gt_gttv-over.gif'); return true;" onmouseup="changeImages('gt_gttv2', 'images/gt_gttv-over.gif'); return true;">
+				<img name="gt_gttv2" src="images/gt_gttv.gif" width="55" height="36" border="0" alt="GT.tv"></a></td>
+	</tr>
+</tbody></table>
+<!-- SILVER NAV BOTTOM -->
+</div>
+
+
+
+<div align="center">		
+<!-- FOOTER -->
+
+		<div class="footnav"><br>
+		<a class="footnav" href="aboutus.php">About Us</a> ·
+        <a class="footnav" href="http://faqs.gametrailers.com/">FAQ</a> ·
+        <a class="footnav" href="advertise.php">Advertise</a> ·
+		<a class="footnav" href="advertise.php">Press &amp; Affiliates</a> ·
+        <a class="footnav" href="podcasts.php">Podcasts</a>  ·
+		<a class="footnav" href="resources.php">Related Sites</a>  ·
+        <a class="footnav" href="rssexplained.php">RSS</a>  ·
+		<a class="footnav" href="termsofuse.php">Terms of Use</a>  ·
+        <a class="footnav" href="privacy.php">Privacy Policy</a></div>
+        
+		<div class="copyright" style="padding-bottom: 12px;>Copyright © 
+		<a class=" copyright"="" href="http://www.gametrailers.com">GameTrailers.com, all rights reserved.</div>
+		</div>
+
 
 
 </body></html>
