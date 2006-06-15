@@ -1,63 +1,72 @@
-> *The following text is extracted and transformed from the abundanthealth4u.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231235536id_/http%3A//abundanthealth.us/%3Fuid%3D4881%26page%3D1813) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abundanthealth4u.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615145334id_/http%3A//www.abundanthealth4u.com/terms_privacy.asp) for the most accurate reproduction.*
 
-# Privacy Policy
+# Abundant Health - Your Aromatherapy Accessory Source!
 
-This is the web site of **Abundant Health.**
+**Privacy Policy**
 
-Our postal address is   
-**1460 N. Main Street #9  
-Spanish Fork, UT 84660  
-U.S.A.**
+**What information do we collect?**
 
-We can be reached via e-mail at [_**webmaster@abundant-health4u.com**_](mailto:webmaster@abundant-health4u.com)  
-or you can reach us by telephone at **1-888-718-3068.**
+  * We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another site feature. 
+  * When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously. 
+  * We also collect information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is not used for marketing purposes. 
+  * Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our websites. Please refer to the "Do we use 'cookies'?" section below for information about cookies and how we use them.
 
- **Information Collected**
+  
+ **How do we use your information?**
 
- ** _To protect the privacy of our customers, we do not release or sell any personal information we collect, including email addresses, mailing addresses, or phone numbers,  to any outside organization except those contracted with Abundant Health to provide order fulfillment._ **
+We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways: 
 
-Our web servers automatically collect the domain name of visitors to our Web page and aggregate information on what pages consumers access or visit. This information is not used to personally identify users, but is compiled and used statistically to internally review, monitor, and improve our web site and its performance. This information is not shared with other organizations.
+  * To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested. 
+  * To allow us to better service you in responding to your customer service requests. 
+  * To quickly process your transactions. 
+  * To administer a contest, promotion, survey or other site feature. 
+  * If you have opted-in to receive our e-mail newsletter, we may send you periodic e-mails. If you would no longer like to receive promotional e-mail from us, please refer to the "How can you opt-out, remove or modify information you have provided to us?" section below. If you have not opted-in to receive e-mail newsletters, you will not receive these e-mails. Visitors who register or participate in other site features such as marketing programs and 'members-only' content will be given a choice whether they would like to be on our e-mail list and receive e-mail communications from us.
 
-Other information that we collect includes information volunteered by the consumer, such as ordering information, site registrations, and contact form information. This information is used strictly for order fulfillment and to contact the consumer regarding their order, question, or request.
+  
+ **How do we protect visitor information?**
 
-From time to time, we occassionally gather information from surveys, contests, or other marketing instruments. This information is used internally for our own marketing purposes. This information is not currently released or sold to any other outside organization.
+We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.
 
- **Cookies**
+ **Do we use "cookies"?**
 
-With respect to cookies: We do not currently set any cookies. 
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard dritve through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-**E-mail**
+We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-We currently send by e-mail announcements and monthly specials only to customers who have requested to receive these e-mails, either online, or by verbal request.
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service.
 
-The service that sends emails to those on our mailing list currently tracks the email to see if it has been opened, or if a link has been clicked. This information is only seen by us in an aggregate form and is used only to monitor and improve the performance of our mailings.
+ **Do we disclose the information we collect to outside parties?**
 
-If you do not wish to receive these e-mail from us in the future, you may unsubscribe from our mailing list by either clicking on the "Unsubscribe" link included on these emails, or by sending us an e-mail at [webmaster@abundant-health4u.com](mailto:webmaster@abundant-health4u.com), or calling us at 1-888-718-3068.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include Abundant Health LLC. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
 
- **Mailing Addresses & Phone Numbers**
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-If you supply us with your postal address on-line you will only receive the information for which you provided us your address. 
+ **How can you opt-out, remove or modify information you have provided to us?**
 
-Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
+To modify your e-mail subscriptions, please let us know by emailing us at [webmaster@abundant-health4u.com](mailto:webmaster@abundant-health4u.com). Please note that due to email production schedules you may receive any emails already in production.
 
-We will not distribute, release, or sell postal addresses or phone numbers to any outside party with the exception of certain third party organizations who have contracted with Abundant Health to provide order fulfillment. These organizations will use this address only for the purpose of shipping the product ordered by the customer.
+To delete all of your online account information from our database, please either call us at 1-888-718-3068, or email us at [webmaster@abundant-health4u.com](mailto:webmaster@abundant-health4u.com). 
 
- **Ad Servers**  
+**Third party links**
 
-With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. 
+In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work).
 
-**Future Uses, Opting Out, & Information Access**
+ **Changes to our policy**
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
+If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. **This policy was last modified on November 23, 2005.**
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by calling us at the number provided above or e-mailing us at the above address. 
+ **Questions and feedback**
 
-Site visitors may access any personal information that we have collected from them by clicking the "My Account" link above and logging in with the password they created when registering. Consumers have the ability to correct or change their information while they are logged in to their account.
+We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue.
 
-Consumers may also e-mail or write to us at the above addresses with any changes or corrections to their personal information.
+ **Online Policy Only**
 
- **Encryption & Information Security**
+This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+ **Terms and Conditions**
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20060615145334id_/http%3A//www.abundanthealth4u.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+
+ **Your consent**
+
+By using our site, you consent to our privacy policy.
