@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the osram.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219224325id_/http%3A//www.osram.com/about_us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osram.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615163705id_/http%3A//osram.com/about_us/privacy.html) for the most accurate reproduction.*
 
 # SEE THE WORLD IN A NEW LIGHT
 
@@ -53,5 +53,5 @@ OSRAM will respond to reasonable requests to review your personal data and to co
 
   
 [Imprint](https://web.archive.org/about_us/imprint.html) / [Terms of use](https://web.archive.org/about_us/terms.html) / [Privacy Policy](https://web.archive.org/about_us/privacy.html) / Sitemap / [Contact](https://web.archive.org/contact/index.html)  
-© 2005, by OSRAM GmbH. All rights reserved. |  |  |   
+© 2006, by OSRAM GmbH. All rights reserved. |  |  |   
 
