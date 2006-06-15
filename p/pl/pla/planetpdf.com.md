@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetpdf.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219224734id_/http%3A//www.planetpdf.com/planetpdf.asp%3FcontentID%3D6477) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetpdf.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615092438id_/http%3A//www.planetpdf.com/planetpdf.asp%3FcontentID%3D6477) for the most accurate reproduction.*
 
 # Planet PDF - Privacy Policy - Planet PDF & PDF Store
 
@@ -78,7 +78,7 @@ Our sites utilize state-of-the-art security technology to ensure the security, i
 Subscribers to Planet PDF and the Planet PDF Newsletter may remove their personal information from our distribution lists as follows:
 
   * For Planet PDF: Please use the [Contact Us](https://web.archive.org/contact.asp) form available under the 'About Planet PDF menu of Planet PDF to send us an email regarding your request. 
-  * For PDF Store: Contact us at [support@pdfstore.com](mailto:support@pdfstore.com). 
+  * For PDF Store: Contact us [here](http://www.pdfstore.com/contact.asp). 
   * Planet PDF Newsletter recipients can cancel their free subscriptions at any time at the [subscription page](https://web.archive.org/login.asp). 
   * If you have a problem, please let us know through the Planet PDF contact form. 
 
