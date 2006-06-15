@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the environment-agency.gov.uk privacy policy that was archived on 2005-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051219145921id_/http%3A//environment-agency.gov.uk/other/help/196646) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the environment-agency.gov.uk privacy policy that was archived on 2006-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060616012234id_/http%3A//environment-agency.gov.uk/other/help/196646) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 				<title>Environment Agency - Privacy policy</title>
@@ -12,7 +12,7 @@
 <meta name="DC.Subject" content="policy, personal, data">
 <meta name="DC.Description" content="Information regarding the Environment Agency's use of personal data.">
 <meta name="DC.Language" content="en">
-<meta name="DC.Date.created" content="20051216">
+<meta name="DC.Date.created" content="200604 4">
 <meta name="DC.Type.category" content="HTML Page">
 <meta name="DC.Format" content="text/html">
 <meta http-equiv="PICS-Label" content="(PICS-1.1 &quot;http://www.rsac.org/ratingsv01.html&quot; l gen true comment &quot;RSACi North America Server&quot; for &quot;http://www.environment-agency.gov.uk&quot; on &quot;1999.06.24T10:19-0800&quot; r (n 0 s 0 v 0 l 0))">
@@ -132,7 +132,7 @@
 
 	// Calculate alternative page
 	var alternative_page;
-	alternative_page = '/other/help/196646/?lang=_e&amp;textonly=on&amp;';
+	alternative_page = '/other/help/196646/?lang=_e&textonly=on&';
 
 	// If user's preference is textonly then append format to the alternative URL	
 	if (cookie_textonly == 'on') {
@@ -178,19 +178,40 @@
 			  <div id="tpnavlft"> 
 			    <ul> 
 			      <li><a href="/other/help/196646/?lang=_e&amp;textonly=on" title="Text only version of page" onclick="SetCookie ('textonly','on','Mon, 01-Jan-2050 00:00:00 GMT','/');">Text Only</a></li>
-			      <li></li> 
+			      <li><a href="/other/help/196646/?lang=_w" title="Welsh language" onclick="SetCookie ('lang','_w','Mon, 01-Jan-2050 00:00:00 GMT','/');">Cymraeg</a></li> 
 			    </ul> 
-			    <p id="tpdate">19 December 2005</p>
+			    <p id="tpdate">15 June 2006</p>
 			  </div>
 			<div id="tpnavrgh">
-		    <div id="tpsearch"> 
-		      <form name="tpsch" method="get" action="/search/"> 
-			<input name="keywords" type="text" size="10" id="tpschterm" value="Search for..." onfocus="if (this.value=='Search for...') this.value='';" onblur="if (this.value=='') this.value='Search for...';"> 
-			<input name="search" type="hidden" value="yes"> 
-			<input name="submit" type="submit" value="Go"> 
-		      </form> 
-		    </div>
-		<ul>
+      		    <div id="tpsearch"> 
+      		       <script language="JavaScript">
+
+function checkBlank(SearchTerm)
+{
+if ((SearchTerm=='Search for...') || (SearchTerm=='')) {
+alert('Please type in the term you are searching for, then click Go.');
+document.tpsch.tpschterm.focus();
+}
+else
+{
+document.tpsch.submit();
+}
+
+}
+
+</script>
+
+<!--this is the configurable search live -->	
+ <form name="tpsch" method="get" action="http://environment-agency.resultspage.com/search">
+<input type="hidden" name="p" value="Q">
+<input type="hidden" name="ts" value="english">
+<input type="hidden" name="mainresult" value="mt_mainresult_yes">
+<input name="w" type="text" size="10" id="tpschterm" value="Search for..." onfocus="if (this.value=='Search for...') this.value='';" onblur="if (this.value=='') this.value='Search for...';">
+<!-- <input name="submit" type="submit" value="Go" /> -->
+<input type="button" name="button" value="Go" onclick="checkBlank(w.value)">
+</form>
+      		    </div>
+      		<ul>
 <li><a href="/other/help/?lang=_e">Help</a></li>
 <li><a href="/contactus/?lang=_e">Contact us</a></li>
 <li><a href="/ourviews/?lang=_e">Our views</a></li>
@@ -258,8 +279,7 @@
 <h2 class="accesstext">Secondary navigation: links to other relevant sections</h2>
 <ul class="lftnav" id="menu_links10">
 <li id="lfttopup"><a href="/other/help/?version=1&amp;lang=_e">Help</a></li><li><a href="/other/help/196639/?lang=_e">How to use the site</a></li>
-<li><a href="/other/help/195931/?lang=_e">Online jobs service</a></li>
-<li><a href="/other/help/507522/?lang=_e">Text only help</a></li>
+<li><a href="/other/help/507522/?lang=_e">Text Only help</a></li>
 <li><a href="/other/help/196644/?lang=_e">Rights and obligations</a></li>
 <li id="lftnavsel"><a href="#">Privacy policy</a></li>
 <li><a href="/other/help/188113/?lang=_e">PDF download tips</a></li>
@@ -282,8 +302,8 @@
 <p>Personal information that we are required to put on our public registers may be licensed for re-use to third parties. Personal information that is not on a public register may be also be licensed to third parties, but this will only be where the Data Protection Act 1998 allows. If personal information not on the public register is licensed for marketing purposes this will only be for strictly limited types of marketing and where you have indicated you want this to happen. Personal information may also be shared with parties other than those mentioned above where we are required by law to disclose the information.</p>
 <p>We will only hold personal data on our systems for a strictly limited period of time. For the most part the time period will be set as a matter of internal policy and will be the minimum necessary for our use.</p>
 <p class="hd4green"><span class="hd3">Access to your personal information</span></p>
-<p>You have the right to request a copy of the personal information the Environment Agency holds about you and to have any inaccuracies in that personal information corrected. Please address requests to the National Data Protection Manager or use the on-line enquiry form.</p>
-<p class="hd4green"><span class="hd3">Direct marketing</span></p>
+<p>You have the right to request a copy of the personal information the Environment Agency holds about you and to have any inaccuracies in that personal information corrected. Please address requests to the National Data Protection Manager or use the on-line enquiry form.<br><a href="http://www.environment-agency.gov.uk/aboutus/1105530/310151/319911/319954/1340536/">Click here to request a copy of your personal information.</a></p>
+<p><span class="hd3">Direct marketing</span></p>
 <p>From time to time we may wish to provide you with details of other services or literature about environmental matters available from the Environment Agency which may be of interest to you. We may also offer you the opportunity to participate in the consultation process for new methods, strategies, works or schemes proposed by the Environment Agency.</p>
 <p class="hd4green"><span class="hd3">Users under 18</span></p>
 <p>If you are under 18, please make sure that you obtain your parent/guardian's permission beforehand whenever you provide personal information to the Environment Agency on its website or by other means.</p>
@@ -294,8 +314,8 @@
 <p>The Environment Agency uses&nbsp;two separate cookies to identify preferred language settings and text only preferences on the site. The&nbsp;World Environment Day section uses a cookie for personalisation and the&nbsp;Fun and Games section uses a cookie to retain user settings for&nbsp;the Changing Blooms game. </p>
 <p>We also use an external agent to analyse usage behaviour on our behalf. To enable this we use a ‘unique visitor cookie’ to obtain information about your use of our site, such as whether you have visited our site more than once and how you found us. </p>
 <p>This information allows us to more effectively tailor our site to make its use easier. Their privacy policy can be found at:<a href="http://www.netratings.com/privacy.jsp?section=leg_scs">Nielsen//Netratings</a> </p>
-<p>Through modification of browser preferences, you can elect to accept all cookies, receive notification when a cookie is set, or decline all cookies. You can find further information regarding the deletion of cookies can be found at: <a href="http://www.aboutcookies.org/deletecookies.asp">http://www.aboutcookies.org/deletecookies.asp</a><a href="http://www.aboutcookies.org/deletecookies.asp" p="" <=""> 
-</a></p><p><a href="http://www.aboutcookies.org/deletecookies.asp" p="" <="">&nbsp;</a></p>
+<p>Through modification of browser preferences, you can elect to accept all cookies, receive notification when a cookie is set, or decline all cookies. You can find further information regarding the deletion of cookies can be found at: <a href="http://www.aboutcookies.org/Default.aspx?page=2">http://www.aboutcookies.org/Default.aspx?page=2</a><a href="http://www.aboutcookies.org/deletecookies.asp" <="" p=""> 
+</a></p><p><a href="http://www.aboutcookies.org/deletecookies.asp" <="" p="">&nbsp;</a></p>
    </div> 
   <div id="rghcont">
 		  
@@ -314,7 +334,7 @@
 			<p class="accesstext"><a href="#top">Back to top of page</a></p> 
 			<div id="ftadcontlg"> 
 			  <div id="ftadlft"> 
-			    <p>©The Environment Agency 2005<br> 
+			    <p>©The Environment Agency 2006<br> 
 			     
 			      <a href="/other/help/196646/">Privacy Policy</a></p> 
 			  </div> 
