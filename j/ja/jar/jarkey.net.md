@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the jarkey.net privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305235921id_/http%3A//www.jarkey.net/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jarkey.net privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210934id_/http%3A//www.jarkey.net/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
 NETWORK/JARKEY, INC. PRIVACY POLICY
 
-network/JARKEY, Inc. appreciates our relationship with you, respects that your information is yours, and is committed to safeguarding your privacy when you�re using our web site.  The following describes our collection of and use of any information that we may collect from you.
+network/JARKEY, Inc. we appreciates our relationship with you, respects that your information is yours, and is committed to safeguarding your privacy when you�re using our web site. The following describes our collection of and use of any information that we may collect from you.
 
 **Questions**
 
-If you have any questions, we can be reached via e-mail at jarkey_games@yahoo.com.
+If you have any questions, we can be reached via [ e-mail](mailto:games@jarkey.net).
 
 **We generally do not collect any information.**
 
@@ -25,3 +25,7 @@ We collect electronic mail information only if it is volunteered by you, such as
 **We may amend this Privacy Policy.**
 
 If in the future this Privacy Policy is amended or updated, you will be subject to this Privacy Policy as amended or updated.  We will not notify you of any amendments or updates to this Privacy Policy.  It is your responsibility to check this Privacy Policy often for any changes hereto.
+
+copyright 2005 network/JARKEY, Inc.  All Rights Reserved. 
+
+ 
