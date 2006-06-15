@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoworld.com.my privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218162020id_/http%3A//autoworld.com.my/aw/help/details.asp%3Fproductid%3D37) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoworld.com.my privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615231028id_/http%3A//www.autoworld.com.my/aw/help/details.asp%3Fproductid%3D37) for the most accurate reproduction.*
 
 # Autoworld - Help Guide
 
