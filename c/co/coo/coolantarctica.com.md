@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolantarctica.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220060623id_/http%3A//coolantarctica.com/privacy_policy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolantarctica.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615103525id_/http%3A//www.coolantarctica.com/privacy_policy_statement.htm) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -15,7 +15,7 @@
 >>> 
 >>> We can be reached via e-mail at [paulward@coolantarctica.com](mailto:paulward@coolantarctica.com)
 >>> 
->>> For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address.
+>>> For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name (usually that of the Internet Service Provider), but not the e-mail address.
 >>> 
 >>> We collect only the domain name, but not the e-mail address of visitors to our Web page.
 >>> 
@@ -25,7 +25,7 @@
 >>> 
 >>> The information we collect is used for internal review and is then discarded, it is used to improve the content of our Web page and not shared with other organizations for commercial purposes.
 >>> 
->>> With respect to cookies: We use cookies to and identify return visitors to our bulletin board who have previously registered as members.
+>>> We use cookies to and identify return visitors to our bulletin board who have previously registered as members.
 >>> 
 >>> If you do not want to receive e-mail from us in the future, please let us know by sending us an e-mail at the above address.
 >>> 
@@ -35,7 +35,7 @@
 >>> 
 >>> Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
 >>> 
->>> With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. 
+>>> We do not partner with or have special relationships with any ad-server companies. 
 >>> 
 >>> From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will use for these new purposes only data collected from the time of the policy change forward .
 >>> 
@@ -45,6 +45,4 @@
 >>> 
 >>> Consumers can have this information corrected by sending us e-mail at the above address. 
 >>> 
->>> With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site.
->>> 
->>> If you feel that this site is not following its stated information policy, you may contact us at the above addresses.
+>>> If you feel that this site is not following its stated information policy, you may contact us at the above address.
