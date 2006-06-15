@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the kellycareernetwork.com privacy policy that was archived on 2005-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050827072118id_/http%3A//www.kellyservices.us/eprise/main/web/us/services/en/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kellycareernetwork.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615030551id_/http%3A//www.kellyservices.us/web/us/services/en/pages/privacy_statement.html) for the most accurate reproduction.*
 
-# Kelly Privacy Statement
-
-|  | |  Kelly Privacy Statement
+# Kelly Services : Privacy Statement
 
 Kelly Services, Inc. respects the privacy of our customers, applicants, and employees and we acknowledge that you have certain rights related to any personal information we collect from you. Kelly supports the various national and local privacy laws, and has procedures in place to meet the requirements of those laws.
 
@@ -20,7 +18,7 @@ The following information discloses our privacy principles in addition to our pr
 
 **Our Commitment to Privacy**
 
-_Kelly Services, Inc. is committed to maintaining the privacy and security of the personal information of our customers, applicants, and employees. Kelly’s privacy policies reflect these principles, and will also conform to any privacy requirements in the countries in which we do business.  _
+Kelly Services, Inc. is committed to maintaining the privacy and security of the personal information of our customers, applicants, and employees. Kelly’s privacy policies reflect these principles, and will also conform to any privacy requirements in the countries in which we do business. 
 
 Top
 
@@ -34,26 +32,26 @@ In general, personal information is requested when you contact us to look for em
 
 The amount of personal information you are required to supply will normally be limited to only that which is necessary to supply our services to you.
 
-_Applicants and Employees_ : When you sign up for our job-search services through the [Kelly Career Network™](http://www.kellycareernetwork.com/) (KCN™), we may ask you for your name, e-mail address, or other personal information such as work experience, education, and skills.
+Applicants and Employees: When you sign up for our job-search services through the [Kelly Career Network™](http://www.kellycareernetwork.com/) (KCN™), we may ask you for your name, e-mail address, or other personal information such as work experience, education, and skills.
 
 Our Preferred Candidate system includes a Personal Search Agent (PSA) that allows Web site visitors to create a job-search profile. The profile acts as an intelligent agent to identify those jobs in our database that match your criteria. When a matching job becomes available, our Preferred Candidate system will notify you. These e-mail notifications travel over the Internet via nonsecure networks.
 
-We will also use your contact information to send you e-mail messages about our company or job postings that fit your profile. Only Kelly Services (or agents working on behalf of Kelly Services) will send you these direct mailings. You may opt out of receiving future mailings via e-mail; see the _Choice: Opt Out/Opt In_ section below. At no time will we release your personal information to customers without your consent.
+We will also use your contact information to send you e-mail messages about our company or job postings that fit your profile. Only Kelly Services (or agents working on behalf of Kelly Services) will send you these direct mailings. You may opt out of receiving future mailings via e-mail; see the Choice: Opt Out/Opt In section below. At no time will we release your personal information to customers without your consent.
 
-_E-Learning Participants_ : For those who take advantage of Kelly’s e-learning courses, we may request an e-mail address from you and ask that you create a special password to access your courses, test scores, and course history. For those courses with training fees, Kelly may also collect credit card information.
+E-Learning Participants: For those who take advantage of Kelly’s e-learning courses, we may request an e-mail address from you and ask that you create a special password to access your courses, test scores, and course history. For those courses with training fees, Kelly may also collect credit card information.
 
-_E-Timekeeping for Temporary Employees_ : In order to process payroll for our temporary employees, Kelly may collect personal data online from our employees such as name, hours, address, and any other personal identification information, including a social security number or tax identification number. This data will be used to process payroll either through Kelly operations or an agent of Kelly Services. When collecting timekeeping data electronically or manually, Kelly Services will ensure that its collection and processing meets all privacy requirements.
+E-Timekeeping for Temporary Employees: In order to process payroll for our temporary employees, Kelly may collect personal data online from our employees such as name, hours, address, and any other personal identification information, including a social security number or tax identification number. This data will be used to process payroll either through Kelly operations or an agent of Kelly Services. When collecting timekeeping data electronically or manually, Kelly Services will ensure that its collection and processing meets all privacy requirements.
 
-_Customers_ : For those customers who participate in any of Kelly’s various online procurement systems, we will ask for personal information necessary to fulfill the staffing request.
+Customers: For those customers who participate in any of Kelly’s various online procurement systems, we will ask for personal information necessary to fulfill the staffing request.
 
-_Cookies and Web Beacons_ : To help us provide better service, we sometimes collect anonymous information from visits to our sites through the use of "web beacons." These do not access your personal information, but rather allow Kelly to log users who have visited our Web sites. This anonymous information is sometimes known as "clickstream data." Kelly or its vendors may use this data to analyze trends and statistics to help us provide better customer service. If you do not want your transaction details used in this manner, see the paragraph below on cookies.
+Cookies and Web Beacons: To help us provide better service, we sometimes collect anonymous information from visits to our sites through the use of "web beacons." These do not access your personal information, but rather allow Kelly to log users who have visited our Web sites. This anonymous information is sometimes known as "clickstream data." Kelly or its vendors may use this data to analyze trends and statistics to help us provide better customer service. If you do not want your transaction details used in this manner, see the paragraph below on cookies.
 
 Many Kelly Web sites also use "cookies" to help personalize the online experience. A cookie is a piece of data stored on the user’s computer tied to information about that user. They also allow us to identify those computers when they return to a site. You can set your browser to notify you before you receive a cookie, giving you the option of whether to accept it. You can also set your browser to turn off cookies. If you do so, however, areas of some sites may not function properly. Kelly uses both session ID and persistent cookies. A session ID cookie simply terminates once users close the browser. A persistent cookie is a small text file stored on the user’s hard drive for an extended period of time. These can be removed by following Internet browser help file directions.
 
-_Links_ : This Web site contains links to other Kelly sites that adhere to the same privacy principles. For links to non-Kelly organizations, Kelly Services is not responsible for the privacy practices or the content of such Web sites.  
+Links: This Web site contains links to other Kelly sites that adhere to the same privacy principles. For links to non-Kelly organizations, Kelly Services is not responsible for the privacy practices or the content of such Web sites.  
 
 
-_Retention of Personal Data_ : Personal data that is collected from you will be retained or destroyed according to company requirements and/or local laws.
+Retention of Personal Data: Personal data that is collected from you will be retained or destroyed according to company requirements and/or local laws.
 
 Top  
 
@@ -85,7 +83,7 @@ _Kelly offers its customers, applicants, and employees choices about receiving f
 
 The amount of personal information you are required to supply will normally be limited to that which is necessary to supply the services you requested. For users of our [Kelly Career Network™](http://www.kellycareernetwork.com/) (KCN™), we may periodically send you updates via e-mail to alert you to jobs in our database that match your criteria. We may also send you e-mails regarding other career or promotional opportunities. Each notification tells you how to opt out of receiving future e-mails. At the point where we request personal data about you, our site also gives you the opportunity to opt out of receiving communications. The database is automatically updated when you opt out.
 
-_Sensitive Data - Opt In_ : When hiring employees, Kelly may collect the type of data viewed by some countries as "sensitive," such as information required to provide health-care services. This collection of data is either compatible with employment law or is vital to the interests of the Kelly employee. In order to comply with statutes, rules and regulations pertaining to equal employment opportunities or to assist Kelly in compiling data for its affirmative action practices, we may also ask you to provide gender or racial information. This provision of this type of information will be voluntary, unless it is required by law, and will not hinder your employment opportunities. When collecting sensitive information, we will ask you to provide your consent to collect, store, and in some cases, transfer this data to third parties including payroll service companies, health insurance organizations, or government agencies as required by law. Kelly takes all reasonable security measures to protect the confidentiality and integrity of sensitive data collected, stored, and used.
+Sensitive Data - Opt In: When hiring employees, Kelly may collect the type of data viewed by some countries as "sensitive," such as information required to provide health-care services. This collection of data is either compatible with employment law or is vital to the interests of the Kelly employee. In order to comply with statutes, rules and regulations pertaining to equal employment opportunities or to assist Kelly in compiling data for its affirmative action practices, we may also ask you to provide gender or racial information. This provision of this type of information will be voluntary, unless it is required by law, and will not hinder your employment opportunities. When collecting sensitive information, we will ask you to provide your consent to collect, store, and in some cases, transfer this data to third parties including payroll service companies, health insurance organizations, or government agencies as required by law. Kelly takes all reasonable security measures to protect the confidentiality and integrity of sensitive data collected, stored, and used.
 
 Top  
 
@@ -94,7 +92,7 @@ Top
 
 _Kelly takes the necessary steps to ensure personal information is accurate, complete, and current. Kelly provides individuals with reasonable access to the personal information they have provided so that they can review and correct this information._
 
-Kelly strives to keep your personally identifiable information accurate. We will give you the ability to review and update the personal information you have provided. Because Kelly offers a wide variety of different services through a global network, the personal information collected by each Kelly operation may not all reside in a single location, such as when you submit your résumé/curriculum vitae (CV) to Kelly operations in different countries. Consequently, please be aware that the choices and modifications you make to your personal data in one Kelly operation may not automatically be reflected in other Kelly operations. You may therefore need to contact each Kelly operation to learn how to access and update your information. (See the _How to Contact Us_ section below.)
+Kelly strives to keep your personally identifiable information accurate. We will give you the ability to review and update the personal information you have provided. Because Kelly offers a wide variety of different services through a global network, the personal information collected by each Kelly operation may not all reside in a single location, such as when you submit your résumé/curriculum vitae (CV) to Kelly operations in different countries. Consequently, please be aware that the choices and modifications you make to your personal data in one Kelly operation may not automatically be reflected in other Kelly operations. You may therefore need to contact each Kelly operation to learn how to access and update your information. (See the How to Contact Us section below.)
 
 At this site, you may access and change your own personal data at any time by going to the [Kelly Career Network](http://www.kellycareernetwork.com/)™ (KCN™) page, entering your last name and e-mail address in the supplied fields, and selecting "Edit My Registration."
 
@@ -117,12 +115,4 @@ Top
 
 _Kelly provides a way to respond to your privacy questions or handle your disputes. We assign ownership of our data privacy practices at both the local and U.S. world headquarters level to provide open communication and dispute resolution to our customers, applicants, and employees. Kelly abides by the "Safe Harbor" framework developed by the U.S. Department of Commerce and the European Commission. We will fully cooperate with the Federal Trade Commission or local data protection authorities when requested to do so._
 
-At Kelly, we are working hard to protect your privacy while delivering innovative career development and staffing services. Our privacy principles represent our commitment to ensuring that your personal information is safe and secure. If you believe that Kelly has not adhered to these principles and practices, [contact us](https://web.archive.org/eprise/main/web/us/services/en/contact_home) and we will work diligently to promptly determine and remedy the problem.
-
-[Do You Have a Question for Us](https://web.archive.org/eprise/main/web/us/services/en/contact_general_question)?
-
-[Questions about Human Resources Issues](https://web.archive.org/eprise/main/web/us/services/en/contact_hr_question)
-
-Version 1 January 2003
-
-Top
+At Kelly, we are working hard to protect your privacy while delivering innovative career development and staffing services. Our privacy principles represent our commitment to ensuring that your personal information is safe and secure. If you believe that Kelly has not adhered to these principles and practices, [contact us](https://web.archive.org/web/us/services/en/pages/contact_us.html "link to contact us page") and we will work diligently to promptly determine and remedy the problem.
