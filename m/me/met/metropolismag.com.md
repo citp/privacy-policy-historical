@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metropolismag.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231142529id_/http%3A//www.metropolismag.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metropolismag.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615165323id_/http%3A//www.metropolismag.com/html/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement | Metropolis Magazine
 
@@ -49,12 +49,10 @@ We also take commercially reasonable measures to protect user-information off-li
 **Notification of Changes**  
 If we decide to change our privacy policy, we will post those changes so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
 
-Metropolis  
+**Metropolis**  
 61 W. 23rd St.  
 New York, NY 10010  
 212-627-9977; 212-627-9988 (fax)  
-[ jtaraska@metropolismag.com](mailto:jtaraska@metropolismag.com)
+[ talk2us@metropolismag.com](mailto:talk2us@metropolismag.com)
 
 USE OF THIS SITE SIGNIFIES YOUR UNDERSTANDING AND AGREEMENT TO COMPLY WITH THE ENTIRE PRIVACY POLICY
-
-© Bellerophon Publications, Inc. 2004, All rights reserved.
