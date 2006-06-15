@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the speedypin.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216185708id_/http%3A//speedypin.com/prepaid/phone-cards/privacy/general) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedypin.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615231933id_/http%3A//speedypin.com/prepaid/phone-cards/privacy/general) for the most accurate reproduction.*
 
 # SpeedyPin FAQs: Privacy > General
 
-Please choose a general category below to begin your search. A list of questions will be generated according to your selection. If you do not find the answer to your question, please [email support](mailto:support@speedypin.com).
+Please choose a general category below to begin your search. A list of questions will be generated according to your selection. If you do not find the answer to your question, please email [support@speedypin.com](mailto:support@speedypin.com).
 
   
 
