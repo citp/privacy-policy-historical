@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alz.org privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212140230id_/http%3A//www.alz.org/aboutsite.asp%23sapp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alz.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615204357id_/http%3A//alz.org/aboutsite.asp%23sapp) for the most accurate reproduction.*
 
 # About This Site
 
@@ -45,13 +45,13 @@ Linking policy
 
 When linking to the Alzheimer’s Association Web site, Web managers should be aware that the Alzheimer’s Association trademarks are not available for posting or replication on third party Web sites without a written agreement with the Association. As part of the permission agreement for Web linking, third parties must post the following with any trademark or content used from an Association Web site:
 
-> _The Alzheimer’s Association is not responsible for information or advice provided by others, including those we link to from this site. Please direct any questions to[weblink@alz.org](mailto:weblink@alz.org)._
+> _The Alzheimer’s Association is not responsible for information or advice provided by others, including information on sites we link to. Please direct any questions to[weblink@alz.org](mailto:weblink@alz.org)._
 
 Back to top
 
 Security and privacy policy
 
-The Alzheimer’s Association is committed to protecting your privacy when you visit our Web site. Information we collect from you is used to improve our site, provide you a better experience, and respond to your questions and requests.
+The Alzheimer’s Association is committed to protecting your privacy when you visit our Web site. Information we collect from you is used to improve our site, provide you a better experience, respond to your questions and process your online donations.
 
 Information collection
 
@@ -130,7 +130,7 @@ _(Photo courtesy of ONEgeneration Day Care)_
 
   * [About Alzheimer's > Statistics](https://web.archive.org/AboutAD/Statistics.asp)
 
-  * [Persons with Memory Loss > Planning for the Future](https://web.archive.org/People/Planning.asp)
+  * [Living with Alzheimer's > Planning for the Future](https://web.archive.org/People/Planning.asp)
 
   * [Health Professionals > Diagnosing Alzheimer's Introduction](https://web.archive.org/Health/Diagnose/overview.asp)
 
@@ -149,9 +149,7 @@ _(Photo courtesy of ONEgeneration Day Care)_
 
   * [About Us > Leadership and Strategy](https://web.archive.org/aboutus/overview.asp)
 
-  * [Caregivers > Day-to-Day Care](https://web.archive.org/Care/daytodaycare.asp)
-
-  * [Research > Reason to Hope](https://web.archive.org/Research/overview.asp)
+  * [Caregivers > Day-to-Day Care](https://web.archive.org/Care/dailycare.asp)
 
 
 
