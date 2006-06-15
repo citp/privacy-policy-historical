@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superwarehouse.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214185533id_/http%3A//www.superwarehouse.com/custCare/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superwarehouse.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615032441id_/http%3A//www.superwarehouse.com/custCare/privacy.cfm) for the most accurate reproduction.*
 
 # Customer Service: Customer Care: Privacy Policy
 
@@ -23,7 +23,7 @@ If you begin to place an order from this website, and if you have at any time gi
 
 Like many other online merchants, we participate in cooperative database services which assist us in the matching of offline and online purchasing behavior, and marketing analysis, so that participants can better analyze and understand the differences and tendencies of print catalog purchasers and website visitors, and so that we can maximize the benefit of postal mail and e-mail we send to you. This sharing of information allows us and other interested parties to make future marketing efforts more efficient. These cooperative database services and their participants, however, have no right to use your e-mail address to send you e-mail. At any time, the only person who will e-mail you is us. 
 
-If you would prefer not to receive emails from us regarding special sales and exclusive offers, [Click Here. ](http://www.superwarehouse.com/custCare/email_optedOut.cfm)
+If you would prefer not to receive emails from us regarding special sales and exclusive offers, [Click Here. ](https://cart.superwarehouse.com/index.cfm?fuseaction=email.out)
 
 **Personal Information Other Than Your E-mail Address**
 
