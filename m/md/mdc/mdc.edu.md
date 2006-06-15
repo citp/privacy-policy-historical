@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mdc.edu privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217224613id_/http%3A//mdc.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mdc.edu privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615073442id_/http%3A//www.mdc.edu/privacy) for the most accurate reproduction.*
 
 # M-DCC Privacy
 
