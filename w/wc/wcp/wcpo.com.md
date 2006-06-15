@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wcpo.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210061242id_/http%3A//wcpo.com/helpdesk/legal/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wcpo.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615200606id_/http%3A//wcpo.com/helpdesk/legal/privacypolicy.html) for the most accurate reproduction.*
 
 # WCPO.com Privacy Policy - The Web site of WCPO-TV in Cincinnati, Ohio
 
 WCPO.com Privacy Policy
 
-**WCPO.com** is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At **WCPO.com** we intend to give you as much control as possible over your personal information. 
+[Scripps.com](http://www.scripps.com/) is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At [Scripps.com](http://www.scripps.com/) we intend to give you as much control as possible over your personal information. 
 
 The purpose of our policy is to inform you about the types of information we gather about you when you visit our site, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information. 
 
@@ -14,11 +14,13 @@ Our site may contain links to other web sites, including web sites directed to c
 
 We may request that you voluntarily supply us with personal information, including your e-mail address, postal address, home or work telephone number, credit card number (only if you choose to purchase a product online), for purposes such as correspondence, making a purchase, or participating in online contests, surveys or games. If you choose to give us personal information via the Internet that we or our business partners may need -- to correspond with you, process an order or provide you with a subscription, for example -- it is our intent to let you know how we will use such information. 
 
-Like many other commercial sites, our site may utilize a standard technology called a "cookie" to collect information about how our site is used. Cookies were designed to help a web site recognize a user's browser as a previous visitor and thus save and remember any preferences that may have been set while the user was browsing the site. A cookie cannot retrieve any other data from your hard drive, pass on a computer virus, or capture your e-mail address. Our web site may use cookies to enhance your visit. Cookies can securely store a user's password, personalize home pages, identify which parts of a site have been visited or keep track of selections, such as those selected in a "shopping cart." Our cookies may collect your domain name and track your selections through our web pages. We only use "cookies" to gather the information indicated in this policy and do not use cookies to gather personal identifying information about you without your consent. 
+Like many other commercial sites, our site may utilize a standard technology called a "cookie" to collect information about how our site is used. Cookies were designed to help a web site recognize a user's browser as a previous visitor and thus save and remember any preferences that may have been set while the user was browsing the site. **A cookie cannot retrieve any other data from your hard drive, pass on a computer virus, or capture your e-mail address.** Our web site may use cookies to enhance your visit. Cookies can securely store a user's password, personalize home pages, identify which parts of a site have been visited or keep track of selections, such as those selected in a "shopping cart." Our cookies may collect your domain name and track your selections through our web pages. We only use "cookies" to gather the information indicated in this policy and do not use cookies to gather personal identifying information about you without your consent. 
 
 We also use cookies in connection with our chat rooms in order to record your preferences. These cookies store automatically information pertaining to the last chat room you visited, as well as certain comments that can be issues in the chat room, in order to facilitate your experience with the chat rooms. No additional identifying information is stored on these cookies. You also have the option of choosing to allow us to use a cookie to store your username, or "handle" and password on your computer for use in that chat rooms, forums and other sites as indicated on the particular site. 
 
 We may require you to supply us with personal information (demographic information such as average age, income, education, population data, zip codes) during a "registration" process online prior to using certain features of our site. For example, you may be required to register to use chat rooms, forums, to access archival stories, to subscribe to newspapers, and to access other features. We use this general information to aggregate information according to demographics, such as gender, geographic location, age, income or a combination of these or other demographics. 
+
+In addition, users may complete a subscription form online in order to subscribe to any of our affiliate news sites. To subscribe, users must submit personal information in order for us to send the newspaper to you. 
 
 **II. Use of User Information**
 
@@ -27,6 +29,10 @@ We may perform statistical analyses of aggregate user behavior. This allows us t
 **III. Disclosure to Third Parties**
 
 We do not share personal identifying information with any third party without your permission. We disclose only in aggregate form our statistical analyses or demographics of users to third parties, such as advertisers or other business partners. In some instances, we operate shared web sites with businesses affiliated with us. Our privacy policy will apply to these web sites, and our affiliates adhere to our privacy policy and will not share personal information with any third party without your permission. PLEASE BE AWARE that when you voluntarily disclose personal information (such as your name, e-mail address) in chat areas or bulletin boards to third parties, that information may be collected by others outside the control of us and may result in unsolicited messages from others. 
+
+**III. (A) Accuracy of User Information**
+
+We may disclose personal information in special cases when we believe that disclosing information is necessary to identify, contact or bring legal action against someone who may be causing injury to our interference with our site, other users of our site, anyone else who could be harmed by such activities, or where we are required to do so by court order to applicable law. We reserve the right to disclose personal information when we believe, in good faith, that the law requires it. 
 
 **IV. Accuracy of User Information**
 
@@ -49,4 +55,4 @@ At any time while assessing our site, any user while online may "opt-out" of fur
 
 **VII. Use of Materials**
 
-The right to download and store or output the materials in our site is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at **eforeman@wcpo.com**. To link to the full **Terms of Use Agreement** pertaining to use of our site, please **[click here](https://web.archive.org/web/20051210061242id_/http%3A//wcpo.com/helpdesk/legal/termsofuse.html)**. 
+The right to download and store or output the materials in our site is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at **eforeman@wcpo.com**. To link to the full **Terms of Use Agreement** pertaining to use of our site, please **[click here](https://web.archive.org/web/20060615200606id_/http%3A//wcpo.com/helpdesk/legal/termsofuse.html)**. 
