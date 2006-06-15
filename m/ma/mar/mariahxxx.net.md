@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mariahxxx.net privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219132316id_/http%3A//mariahxxx.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mariahxxx.net privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615041356id_/http%3A//mariahxxx.net/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
