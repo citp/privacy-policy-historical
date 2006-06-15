@@ -1,12 +1,20 @@
-> *The following text is extracted and transformed from the auda.org.au privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220111523id_/http%3A//auda.org.au/policies/auda-2002-10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auda.org.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615052115id_/http%3A//auda.org.au/policies/auda-2002-10) for the most accurate reproduction.*
 
-# auDA :: Privacy Policy (2002-10)
+# auDA > auDA Published Policies > Privacy Policy (2002-10)
+
+This document outlines auDA’s policy on the collection by auDA of personal information, as well as how that information is used, accessed and protected. As this is auDA’s policy, it does not apply to members of the domain name industry operating within the .au domain. They are required to develop their own Privacy Policies in line with the Privacy Act.
+
+For more information about the Privacy Act, go to [www.privacy.gov.au](http://www.privacy.gov.au/) or call the privacy hotline on 1300 363 992.
+
+Read auDA’s Privacy Policy below. 
+
+* * *
 
 [PDF version](https://web.archive.org/pdf/auda-2002-10.pdf)
 
 **Policy No: 2002-10  
-Publication Date: 11/06/2002   
-Status: Current **
+** Publication Date: 11/06/2002   
+Status: Current 
 
 1\. BACKGROUND 
 
@@ -22,7 +30,7 @@ c) whether the information may be passed on to third parties; and
 
 d) the rights of individuals to have some control over the way any information about them is handled and maintained. 
 
-1.3 This policy has been drafted to adhere to the National Privacy Principles outlined in the Privacy Act. More information about the Act is available on the Australian Privacy Commissioner’s website at http://www.privacy.gov.au or on the Privacy Hotline number 1300 363 992. 
+1.3 This policy has been drafted to adhere to the National Privacy Principles outlined in the Privacy Act. More information about the Act is available on the Australian Privacy Commissioner’s web site at http://www.privacy.gov.au or on the Privacy Hotline number 1300 363 992. 
 
 1.4 This policy applies only to the collection and use of personal information by auDA. It does not apply to the collection and use of personal information by members of the domain name industry operating within the .au domain. Under auDA's Registry Licence Agreement and Registrar Agreement, registry operators and registrars are required to develop their own privacy policy in accordance with the requirements of the Privacy Act. 
 
@@ -46,7 +54,7 @@ e) canvas stakeholders for their views, opinions and suggestions in relation to 
 
 2.4 auDA does not require or collect personal information which would be considered "sensitive" under the Act. 
 
-2.5 auDA's website does not utilise "cookies" or other technology to collect user information or track usage. auDA's website may feature links to other websites. auDA is not responsible for the content and privacy practices of other such websites. 
+2.5 auDA's web site does not utilise "cookies" or other technology to collect user information or track usage. auDA's web site may feature links to other web sites. auDA is not responsible for the content and privacy practices of other such web sites. 
 
 3\. USE OF PERSONAL INFORMATION 
 
@@ -60,7 +68,7 @@ b) the secondary purpose is directly related to the primary purpose and the indi
 
 c) we are permitted or required by law, or it is in the interests of public safety to do so. 
 
-3.3 People who subscribe to one of auDA's mailing lists (such as the auDA Announcements List) may decide at any time to unsubscribe from the list. Instructions for unsubscribing will appear in the footer of all list emails, as well as on the auDA website. 
+3.3 People who subscribe to one of auDA's mailing lists (such as the auDA Announcements List) may decide at any time to unsubscribe from the list. Instructions for unsubscribing will appear in the footer of all list emails, as well as on the auDA web site. 
 
 4\. PROTECTION OF PERSONAL INFORMATION 
 
@@ -79,5 +87,3 @@ c) we are permitted or required by law, or it is in the interests of public safe
 6\. REVIEW OF POLICY 
 
 6.1 auDA reserves the right to revise this policy at any time and those people who volunteer their personal details to auDA are deemed to acknowledge and be bound by this policy and any changes made to it. This is no way affects the protection afforded under the relevant laws, according to which this policy was developed. 
-
-Last Updated: 23/09/2003 01:37
