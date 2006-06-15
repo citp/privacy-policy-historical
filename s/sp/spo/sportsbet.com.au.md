@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsbet.com.au privacy policy that was archived on 2005-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050828142556id_/http%3A//www.sportsbet.com.au/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsbet.com.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615044454id_/http%3A//www.sportsbet.com.au/Privacy.asp) for the most accurate reproduction.*
 
 # Sportsbet Australia - Licensed Sports Betting
 
