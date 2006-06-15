@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cupid.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211085417id_/http%3A//www.cupid.com/cupid-privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cupid.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615203650id_/http%3A//www.cupid.com/cupid-privacy-statement.aspx) for the most accurate reproduction.*
 
 # Cupid - date online from the privacy of home
 
@@ -16,7 +16,7 @@ This privacy statement covers the website www.Cupid.com. Because this Website wa
 
 If users of this website have questions or concerns regarding this privacy policy statement, they should [contact Cupid.com, Inc.](mailto:privacyissue@cupid.com)
 
-This privacy policy statement is incorporated by reference into Cupid.com, Inc.'s [Terms of Use Agreement](https://web.archive.org/web/20051211085417id_/http%3A//www.cupid.com/internet-dating-conduct.aspx). 
+This privacy policy statement is incorporated by reference into Cupid.com, Inc.'s [Terms of Use Agreement](https://web.archive.org/web/20060615203650id_/http%3A//www.cupid.com/internet-dating-conduct.aspx). 
 
 **About Cupid.com**  
 Cupid.com, Inc. is the sole owner and operator of the website Cupid.com and of the information collected on the website.Cupid.com endeavors to be an all-encompassing website designed to fulfill the needs of today's singles community. Cupid.com enhances the single lifestyle by providing a web-based portal for people to meet one another in the interests of friendship as well as dating. To facilitate this, Cupid.com offers next generation personal ads, focused social interest circles, dating advice and information as well as dating-oriented products and services. 
@@ -97,4 +97,8 @@ All personally identifiable Public and Private Information can be accessed, corr
 If changes to our privacy policy become necessary, Cupid.com will post those changes to this privacy policy statement, so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it to third parties. If we are going to use a Member's personally identifiable information in a manner significantly different from that stated at the time of collection we will notify members via email and our members will have an affirmative choice ("Opt-in") as to whether or not we can use their information in this manner. If our members do not provide such consent we will continue to use their information in accordance with the privacy policy under which the information was collected. 
 
 **Contacting Cupid.com**  
-If users have any questions or suggestions regarding our privacy policy, please [contact us](mailto:privacyissue@cupid.com). 
+If users have any questions or suggestions regarding our privacy policy, please [contact us](mailto:privacyissue@cupid.com) or mail us at the following address: 
+
+Cupid.com, Inc.  
+P.O. Box 728  
+Poughkeepsie, NY 12602 
