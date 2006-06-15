@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webjet.com.au privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218074704id_/http%3A//webjet.com.au/Guarantee/security_AB_TSA.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webjet.com.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615151932id_/http%3A//webjet.com.au/Guarantee/security_AB_TSA.html) for the most accurate reproduction.*
 
 # Webjet Travel - Online airfares at cost price for all airlines
 
