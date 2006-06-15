@@ -1,238 +1,325 @@
-> *The following text is extracted and transformed from the ragingbull.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206073404id_/http%3A//www.lycos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ragingbull.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615202558id_/http%3A//www.esignal.com/disclaimer/default.asp%23privacypolicy) for the most accurate reproduction.*
 
-# Lycos Privacy Policy
+# eSignal Website Terms & Conditions and Privacy Policy
 
-**Lycos Network Privacy Policy** | [](https://www.truste.org/validate/410)  
-**TRUSTe  
-Certification** | Lycos is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization with a mission to build trust and confidence in the Internet by promoting the principles of disclosure and informed consent. Because Lycos wants to demonstrate its commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed and audited for compliance by TRUSTe. The TRUSTe program covers only information that is collected through the Lycos Network, and does not cover information that may be collected through software downloaded from the network.   
----|---  
+********  
+Last Updated: April 3, 2006
+
+To assist you in using our eSignal websites, [www.esignal.com](http://www.esignal.com/), [www.esignalcentral.com](http://www.esignalcentral.com/), [www.esignallearning.com](http://www.esignallearning.com/), [www.futuresource.com](http://www.futuresource.com/), [www.marketcenter.com](http://www.marketcenter.com/), [www.marketcenterlive.com](http://www.marketcenterlive.com/), [www.quotrek.com](http://www.quotrek.com/), [www.quote.com](http://www.quote.com/), [www.ragingbull.com](http://www.ragingbull.com/), [www.advancedget.com](http://www.advancedget.com/), and any other websites we may launch from time to time (collectively, the “Websites”), and to ensure a clear understanding of the relationship arising from your use of any of the Websites, we have created a set of Website Terms and Conditions and a Privacy Policy. Our Website Terms and Conditions govern your use of our Websites generally and the relationship between you and us.  Our Privacy Policy explains how we protect information you provide to us through the Websites. Please read on to learn more.
+
+Your use of any of the Websites or any of the Services (defined below) constitutes your agreement to be bound by and comply with the Website Terms and Conditions and your consent to the collection, use and disclosure of personal information as described in the Privacy Policy. If you do not so agree and consent, you are not authorized to visit or use our Websites or the Services.
+
+If you have any questions and/or comments regarding our Website, you may contact us as provided in [Section 12.0](http://www.esignal.com/disclaimer/#12x) of our Privacy Policy.
+
+PLEASE READ THESE AGREEMENTS CAREFULLY BEFORE USING OUR WEBSITE.
+
+eSignal Website Terms and Conditions
+
+> 1.0 Agreement  
+>  2.0 Forward Looking Statements  
+>  3.0 Conditions on Participation  
+>  4.0 Purpose of Services  
+>  5.0 Disclaimer regarding Content  
+>  6.0 Ownership of Information; Downloading of Materials; Retransmission and Redistribution of Data  
+>  7.0 Our Data Providers' Requirements  
+>  8.0 Disclaimer regarding Links and Other Third Party Content  
+>  9.0 No Duty To Monitor Websites  
+>  10.0 Subscriber Code of Conduct  
+>  11.0 No Creation of Third-Party Rights  
+>  12.0 Shared Files; Information You Download  
+>  13.0 Materials You Post; Your License to Other Users  
+>  14.0 Complaints over Perceived Infringement  
+>  15.0 Disclaimer regarding Investment Decisions and Trading  
+>  16.0 No Advice or Solicitation  
+>  17.0 Product Demonstrations  
+>  18.0 Professional/Non-Professional Status  
+>  19.0 Access and Security  
+>  20.0 Disclaimer of Warranties and Limitation of Liability  
+>  21.0 Indemnification  
+>  22.0 Disclaimer of Right to Sue  
+>  23.0 Modification and Termination of Website; Modification of Website Terms and Conditions  
+>  24.0 Data Providers Enforcement Right  
+>  25.0 Force Majeure  
+>  26.0 Entire Agreement  
+>  27.0 Severability  
+>  28.0 Choice of Law; Choice of Forum  
+>  29.0 Assignment  
+>  30.0 Survival  
+>  31.0 Your Consent
+
+eSignal Privacy Policy
+
+> 1.0 [Applicability](http://www.esignal.com/disclaimer/#1x)  
+>  2.0 [Scope of Policy](http://www.esignal.com/disclaimer/#2x)  
+>  3.0 [What Information We Collect and Use](http://www.esignal.com/disclaimer/#3x)  
+>  4.0 [What We Do with Information We Collect and Use](http://www.esignal.com/disclaimer/#4x)  
+>  5.0 [Changing or Removing Information; Opting Out](http://www.esignal.com/disclaimer/#5x)  
+>  6.0 [Communications to our Users](http://www.esignal.com/disclaimer/#6x)  
+>  7.0 [Security of Personally Identifiable Information](http://www.esignal.com/disclaimer/#7x)  
+>  8.0 [Children](http://www.esignal.com/disclaimer/#8x)  
+>  9.0 [Notification of Changes](http://www.esignal.com/disclaimer/#9x)  
+>  10.0 [Relationship to Website Terms of Service](http://www.esignal.com/disclaimer/#10x)  
+>  11.0 [Your Consent](http://www.esignal.com/disclaimer/#11x)  
+>  12.0 [Contact Us](http://www.esignal.com/disclaimer/#12x)
+
+eSignal Website Terms and Conditions
+
+1.0 Agreement  
+These Terms and Conditions (the “Website Terms and Conditions”) govern your use of the Website, your receipt of any services and information through the Website, and your use of any demonstrations versions of eSignal services available through the Website (collectively, the “Services”). The Services are provided by eSignal, a division of Interactive Data Corporation and/or its affiliates (collectively, “eSignal”), and these Website Terms and Conditions constitute an agreement between you and eSignal. Other services available from eSignal or third parties through this Website may be governed by separate agreements. In the event of any conflict between these Website Terms and Conditions and/or our Privacy Policy and any separate agreement you have executed or otherwise entered into with eSignal regarding subscription services available through this Website, the terms of such separate agreement shall control.  
+Please read these Website Terms and Conditions carefully; they impose legal obligations on you. By accessing our Website or using the Services, you are acknowledging that you have read and understood these Website Terms and Conditions and agree to be legally bound by them.
+
+In addition, if you register as a user (a “Subscriber”) of any of the features of our Website or Services offered through our Website, during the registration process (and from time to time as eSignal may require) you will be prompted to click an “I Accept,” “Submit” or similar button, which further confirms your agreement to be legally bound by these Website Terms and Conditions and any additional terms and conditions of service that may apply to the particular Service.
+
+2.0 Forward Looking Statements   
+This Website contains forward-looking statements within the meaning of the Safe Harbor provisions of the Private Securities Litigation Reform Act of 1995\. Such statements include any statements regarding our future financial performance, future operating results or our plans or expectations for our company and our business. These statements are based on management’s current expectations and beliefs and involve known and unknown risks, uncertainties and other factors that may cause actual results to be materially different from those contemplated by the forward-looking statements. For further information on risk factors affecting our company and our business, please refer to our most recent annual, quarterly and other (e.g. Form 8-K) reports filed with the Securities and Exchange Commission.
+
+3.0 Conditions on Participation   
+You may use the Services only if: (i) you are eighteen (18) years of age or older and are of the age of consent in your jurisdiction; (ii) your use of the Services will not violate any law in any applicable jurisdiction, including, but not limited to, United States export controls; (iii) you do not engage in any conduct that will impede, impair or interfere with the functioning of the Services; and (iv) you agree to be bound by and abide by all of the provisions of these Website Terms and Conditions.
+
+4.0 Purpose of Services  
+The Services are made available solely as a convenience to you for general informational purposes.
+
+5.0 Disclaimer regarding Content   
+eSignal cannot and does not guarantee that the information in the Services is accurate, reliable, current, complete or appropriate for your needs. Certain information accessible through the Services may be provided by users of the Services or by parties with whom eSignal has no relationship. Other information that eSignal obtains from third parties, such as the New York Stock Exchange, NASDAQ, New York Mercantile Exchange and Dow Jones (collectively, the “Data Providers”), is obtained from sources believed to be reliable. Nevertheless, due to various factors, including the inherent possibility of human and mechanical error, the accuracy, completeness, timeliness, results obtained from use or correct sequencing of the information in the Services is not and cannot be guaranteed by eSignal or by any persons creating or transmitting such information. 
+
+6.0 Ownership of Information; Downloading of Materials; Retransmission and Redistribution of Data  
+Unless otherwise noted, all right, title and interest in and to the Website, and information made available in the Services, in all languages, formats and media throughout the world, including all copyrights and trademarks therein, are and shall continue to be the exclusive property of eSignal, its affiliates or Data Providers, or used under principles of “fair use.” Certain materials may be made available for download from this Website. Subject to these Website Terms and Conditions, eSignal grants you permission to download and copy such materials solely for your internal, non-commercial use; provided that all copyright notices appearing on the originals are duplicated on all copies thereof; and provided further, that you do not modify the materials in any way. Without limiting any other right or remedy available to eSignal, at law or in equity, the permission herein granted will automatically terminate in the event you breach the terms of this paragraph and, in such event, you must destroy immediately all downloaded materials in your possession, custody or control.
+
+EXCEPT AS OTHERWISE EXPRESSLY PERMITTED BY THE PRECEDING PARAGRAPH, YOU AGREE NOT TO REPRODUCE, RETRANSMIT, DISSEMINATE, SELL, DISTRIBUTE, PUBLISH, BROADCAST OR CIRCULATE ANY OF THE SERVICES OR MATERIALS IN ANY MANNER OR FOR ANY PURPOSES (WHETHER PERSONAL OR BUSINESS) WITHOUT THE PRIOR EXPRESS WRITTEN CONSENT OF ESIGNAL AND/OR THE RELEVANT DATA PROVIDERS. IN ADDITION, YOU SHALL NOT, WITHOUT THE PRIOR EXPRESS WRITTEN CONSENT OF ESIGNAL AND THE RELEVANT DATA PROVIDERS, MAKE COPIES OF ANY OF THE SOFTWARE OR DOCUMENTATION THAT MAY BE PROVIDED, ELECTRONICALLY OR OTHERWISE, INCLUDING, BUT NOT LIMITED TO, TRANSLATING, DECOMPILING, DISASSEMBLING OR CREATING DERIVATIVE WORKS.
+
+YOU FURTHER AGREE NOT TO USE THE SERVICES OR INFORMATION MADE AVAILABLE THROUGH THE SERVICES FOR ANY UNLAWFUL PURPOSE AND AGREE TO COMPLY WITH REASONABLE REQUESTS BY ESIGNAL TO PROTECT THE RESPECTIVE RIGHTS OF ESIGNAL, ITS AFFILIATES, LICENSORS AND THE DATA PROVIDERS IN THE SERVICES AND IN THE INFORMATION MADE AVAILABLE THROUGH THE SERVICES. 
+
+7.0 Our Data Providers' Requirements  
+These Website Terms and Conditions are subject to any requirements of eSignal’s Data Providers under eSignal’s agreements with such Data Providers, including such additional financial and contractual requirements as may be imposed by such Data Providers from time to time.  
   
-Welcome to the Lycos Network, owned and produced by Lycos, Inc. and its subsidiary and affiliate corporations, successors, and assigns (collectively referred to as "Lycos"). All Products and Services on the Lycos Network (as defined in our [Terms and Conditions](https://web.archive.org/legal/legal.asp)) are made available subject to this Privacy Policy. By using our Products and Services, you agree, without limitation or qualification, to be bound by this Privacy Policy or any other privacy or data collection policy applicable to any individual Lycos Network Web site and to receive any required legal notices regarding our privacy practices through the continuous posting of a clear and conspicuous link to the current version of this Privacy Policy throughout the Lycos Network near the bottom of most pages. If you become an inactive user, we will adhere to the policies and practices as described in this Privacy Policy, which may be revised from time to time. 
+8.0 Disclaimer regarding Links and Other Third Party Content   
+From time to time, the Services may provide you with the ability to access certain content from third parties, through links to the websites of such other parties or through content that other parties, themselves, post on the Website. When you access such third party content, YOU PROCEED AT YOUR OWN RISK. eSignal does not guarantee that it will screen such content or that such content will be accurate, free from errors, consistent with what it purports to be appropriate to fit your needs. You agree that eSignal shall not be held liable for any trading activities or other activities that occur on any website you access through links on the Website. We provide these links as a convenience, and do not endorse the content or services offered by these other sites.
 
-Please note that the Lycos Network contains links to other sites and occasionally allows other sites to be co-branded with the Lycos name. Web sites that are linked to Lycos Network sites or carry the Lycos brand for co-branding or marketing purposes may have privacy policies which differ from that of the Lycos Network. 
+If eSignal permits users of the Services to post content to the Website, eSignal reserves the right to screen such content but does not guarantee that it will do so. All decisions on whether or not to retain, disseminate or remove content posted by users shall be made by eSignal in its sole discretion. Users are prohibited from using the Services to violate any laws or to violate the rights of eSignal or of any third parties, all as further provided in our Subscriber Code of Conduct, below.
 
-The Lycos Network Privacy Policy discloses our privacy practices and contains detailed information about the following: 
+9.0 No Duty To Monitor Websites  
+You understand and agree that eSignal has the right, but not the obligation, to monitor the Websites, and to remove content from the Websites for any reason, including content that you submit.  You further understand and agree that eSignal has the right, but not the obligation, to review content before it is posted to the Websites, and to refuse to allow content to be posted for any reason.  Any and all decisions on whether or not to retain, disseminate, or remove content posted by users shall be made by eSignal in its sole discretion.
 
-  1. What information of yours does the Lycos Network collect?
-  2. What organization is collecting the information?
-  3. What are "cookies" and "Web beacons" and how does Lycos use them? 
-  4. How does the Lycos Network use the information?
-  5. With whom does the Lycos Network share  
-the information that is collected? 
-  6. How can you access or edit your information?
-  7. What is the opt-out policy for the Lycos Network?
-  8. What types of security procedures are in place to protect  
-against the loss, misuse or alteration of your information?
-  9. How does the Lycos Network comply with the Children's Online Privacy Protection Act (COPPA)?
-  10. What can you do to better protect yourself on the Internet?
+10.0 Subscriber Code of Conduct  
+When you register as a Subscriber at our Websites, you may gain access to a range of Services, including the ability to participate in chat rooms, exchange instant messages, post messages to bulletin boards, and share files.  You may use the Websites for lawful purposes only.  You agree not to post, upload, e-mail, transmit, distribute, or otherwise make available through the Websites any of the following:
 
-Our goal is to become your favorite Internet destination by providing the information, services, and product offerings that are most relevant to you. To achieve this goal, the Lycos Network must collect information so we can understand what makes you different from its millions of other unique users. While you are not required to register for any services on the Lycos Network, some Products and Services may not function properly or may not be accessible unless you do. 
+> (i) any material that violates any applicable laws, including without limitation the laws of the United States, the laws of any state or commonwealth within the United States, and the laws of any other jurisdiction that may apply;
+> 
+> (ii) any material that restricts or inhibits any other user from using and enjoying the Websites;
+> 
+> (iii) any material that is unlawful, threatening, abusive, harassing, defamatory, obscene, offensive, harmful, obnoxious, pornographic, profane, or indecent, including without limitation any transmissions constituting or encouraging conduct that would constitute a criminal offense, give rise to civil liability or otherwise violate any applicable law or regulation;
+> 
+> (iv) any material that contains viruses or any other element or component that has a capacity or potential to interrupt, destroy, interfere with, permit the unauthorized use of, or limit the functionality of any computer software or hardware, any telecommunications equipment, or any communications network;
+> 
+> (v) any material that violates or infringes the rights of others, including without limitation rights under copyright, trademark, or patent law; rights of privacy or publicity; rights under defamation law; or rights under securities or other applicable law; or
+> 
+> (vi) any material that contains any other harmful or illegal component.
 
-Information collected online is usually defined as being either **anonymous** or **personally identifiable.**
+You further agree that you will not:
 
-  * **Lycos collects anonymous information** , which refers to data that cannot be tied back to a specific individual. For example, Lycos collects some information each time a visitor comes to a Lycos Network site so we can improve the overall quality of the visitor's online experience. Lycos collects the visitor's IP address (e.g., whether the user is logged on from ibm.com or aol.com), referral data (e.g., the Internet address of the last Web page visited by a user before clicking over to a Lycos Network site), and browser and platform type (e.g., a Netscape browser on a Macintosh platform). Lycos also collects aggregate search terms from its HotBot and Lycos search services for internal reporting targeted advertising, and the Lycos 50 list of popular search terms. Lycos collects this user information for purposes of product monitoring, product improvement, and targeted advertising. In addition, Lycos collects your responses to online surveys displayed on the Lycos Network; these anonymous and optional surveys will seek your opinions about the Products and Services or the advertisements displayed on the Lycos Network. You do not have to register with the Lycos Network before we can collect this anonymous information. 
+> (i) alter, damage or delete any material appearing on the Websites;
+> 
+> (ii) disrupt the normal flow of communication on the Websites, such as through “spam” email or by other means; 
+> 
+> (iii) claim a relationship with or speak for any business, organization, or person for which you are not authorized to claim such a relationship; or 
+> 
+> (iv) violate any operating rule, policy or guideline of your Internet access provider or online service.
 
-****
-  * **Personally identifiable information** refers to data that tells us specifically who you are, such as your name and postal address, which may be collected in addition to the anonymous data described above. Lycos collects personal information in the following ways from different parts of its network of Web sites: 
+You acknowledge and agree that these prohibitions do not, and shall not be construed to, create any rights in you or any third parties.  We reserve the right (but do not have any obligation) to prohibit or restrict conduct on the Websites and to edit, block, or remove any content, in whole or in part, which in our sole discretion we believe violates our Subscriber Code of Conduct, or is otherwise objectionable.
 
-  | 
+If you believe that material has been posted that violates any of these prohibitions, or that should otherwise be removed, please contact eSignal as follows:
 
-  1. **Lycos Network Registration:** When you register to use one or more sites on the Lycos Network, you provide Lycos with your name, postal address, ZIP Code, email address, birth date, gender, telephone number, occupation, marital status and other information. While not all of this data is required for our services to function, we are better able to customize your experience if you volunteer complete and accurate information. Users who complete the registration process are given a Lycos Network ID and can take full advantage of the many offerings across the Lycos Network. 
-  2. **Matchmaker.com Registration:** When you register to use Matchmaker.com, you provide Lycos with an email address, birth date, and ZIP Code. For members of the majority of the Matchmaker.com communities, Lycos collects your credit card information in connection with your payment for the service. If you complete the Matchmaker.com questionnaire, Lycos collects and posts all of your responses, plus the ZIP Code you provide and any photos or images that you post. At the end of the registration process, you are asked whether you are interested in receiving information about certain topics that may be of interest; Lycos collects your responses to those questions. Occasionally, the "Matchmaker" of the community to which you belong may send a survey to the community; if you answer the survey, Lycos collects your survey responses. 
-  3. **Lycos Messenger Registration:** When you register to use Lycos Messenger, you must provide Lycos with information such as your email address, name, age, and gender; your city, country, and ZIP code of residence; and your preference of language. In addition, you may voluntarily supply information about your personal interests. You may elect to make Lycos Messenger registration information accessible to other users by checking the "public" box next to that information. If you do not check the "public" box next to an item, then that item will not be disclosed to other users. For a description of how the public registration information will be made available to other users, please click here.
-  4. **Other Registration:** In addition to registration for various services on the Lycos Network, we may ask you for personal information at other times, including when you enter a sweepstakes, contest or promotion sponsored by the Lycos Network. As described below, our co-brand partners also ask for personal information. If you purchase premium services we will ask for a valid credit card number. If you choose not to provide the requested information, the Lycos Network may not be able to offer you some of the personalized services that depend on this type of information to function 
-  5. **Correspondence:** If you contact the Lycos Network, we may keep a record of that correspondence. We do not collect any email addresses of those who communicate with the Lycos Network via email. We use the information provided so that we may respond to the email. 
+For reports relating to RagingBull.com:       RBTOS Violations  
+For reports relating to all other Websites: [Customer Service](https://web.archive.org/web/20060615202558id_/http%3A//regform/emailformbox.asp?Source=CSD)[](http://www.esignal.com/disclaimer/#12x)
 
+11.0 No Creation of Third-Party Rights  
+Nothing in these Terms and Conditions shall be construed to create any rights or obligations in, or otherwise on behalf of any third parties. 
+
+12.0 Shared Files; Information You Download  
+eSignal cannot and does not guarantee or warrant that information available for downloading through the eSignal Website will be free of infection or viruses, worms, Trojan horses or other code that manifests contaminating or destructive properties. You are responsible for implementing sufficient procedures and checkpoints to satisfy your particular requirements for accuracy and security of data input and output, and for maintaining a means external to eSignal for the reconstruction of any lost information.
+
+13.0 Materials You Post; Your License to Other Users  
+By posting or transmitting, inputting or uploading information or content (“Content”) to the Websites, you warrant that such Content does not violate or infringe the rights of any third parties. In addition, you automatically grant eSignal, eSignal users, and eSignal Subscribers under your intellectual property rights, a royalty-free, perpetual, non-exclusive, worldwide license (with the right to grant sublicenses) to use, copy, modify, distribute, publicly display, perform, and otherwise exploit such Content, without compensation to you.
+
+14.0 Complaints over Perceived Infringement  
+eSignal respects intellectual property rights and expects its users to do the same.  eSignal, may, in appropriate circumstances and at its discretion, disable and/or terminate the accounts of users who may be repeat infringers. 
+
+If you believe that materials posted on our Websites infringe your rights under copyright law in specific materials (collectively, a “Work”), we request that you follow the procedure described below to notify us of your concerns or objections.
+
+> 14.1.eSignal 's Designated Agent: If you believe materials posted on our Websites infringe the copyright in your Work, you must direct your concerns to our agent, designated under the Digital Millennium Copyright Act (17 U.S.C. §512) to respond to such concerns (our “Designated Agent”):
+> 
+> Email: [LEGAL](https://web.archive.org/regform/emailformbox.asp?Source=LEGAL)  
+>  Interactive Data Corporation  
+>  22 Crosby Drive  
+>  Bedford, MA 01730  
+>  Attention: Copyright Agent   
+>  Fax:  (781) 687-8005
+> 
+> 14.2. Content of Notice: Your notice to our Designated Agent should contain the following information:   
+>  (i) A physical or electronic signature of a person authorized to act on behalf of the owner of the intellectual property;
+> 
+> (ii) Identification of the copyrighted work that you believe has been infringed; 
+> 
+> (iii) Identification of the material on our Websites that you believe is infringing, with sufficient specificity to permit us to locate the material without undue searching; and   
+>  (iv) Information reasonably sufficient to permit us to contact you, including an address, telephone number and, if available, an e-mail address; 
+> 
+> (v) A statement by you that have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law.
+> 
+> (v) A statement by you, made under penalty of perjury, that the information on the notification is accurate and that you are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed; 
+
+15.0 Disclaimer Regarding Investment Decisions and Trading  
+Decisions to buy, sell, hold or trade in securities and other investments involve risk and are best made based on the advice of qualified financial professionals. Any trading in securities or other investments involves a risk of substantial losses. The practice of “Day Trading” involves particularly high risks and can cause you to lose substantial sums of money. Before undertaking any trading program, you should consult a qualified financial professional. Please consider carefully whether such trading is suitable for you in light of your financial condition and ability to bear financial risks.  Under no circumstances shall we be liable for any loss or damage you or anyone else incurs as a result of any trading or investment activity that you or anyone else engages in based on any information or material you receive through the Websites or our Services.
+
+16.0 No Advice or Solicitation  
+The Websites and Services are for informational purposes only and should not be used or construed as an offer to sell, a solicitation of an offer to buy, or an endorsement, recommendation or sponsorship of any company or security by eSignal, its affiliates, officers, directors, employees or agents. You acknowledge and agree that neither the Websites nor any of the Services is intended to supply investment or financial advice. eSignal offers no advice regarding the nature, potential value, or suitability or any particular security, transaction, investment or investment strategy. You acknowledge and agree that the use of the Websites and Services, and any decisions made in reliance upon the Websites and Services, are made at your own risk.
+
+17.0 Product Demonstrations   
+All product demonstrations (“demos”) may only be used during the time periods specified for which they are offered. All demos must be used in accordance with any accompanying instructions and may not be used for any reason other than their intended purpose.
+
+18.0 Professional/Non-Professional Status  
+With respect to Services involving the receipt of financial market information, if you are a professional broker, dealer or trader or employed by or conducting business in the securities industry, you must agree to be bound by eSignal’s agreements with the Data Providers before utilizing the Services for commercial purposes. 
+
+If you are such a professional, you must contact eSignal [Customer Service](https://web.archive.org/regform/emailformbox.asp?Source=CSD)[](https://web.archive.org/web/20060615202558id_/http%3A//regform/emailformbox.asp?Source=CSD)[](http://www.esignal.com/disclaimer/#12x) to obtain such agreements. Unless you have obtained and executed such agreements, you hereby represent and warrant: (i) that you meet and comply with all NYSE, AMEX, NASDAQ and Data Providers requirements for qualification as a Non-professional Subscriber; (ii) that you are acting solely in your own individual capacity to use the Services solely in connection with your own individual personal investment activities and not in connection with any trade or business activities; and (iii) that you are a sophisticated investor. You acknowledge and agree that if your status with respect to any of the foregoing statements is affected or changed in anyway, you shall promptly contact eSignal [Customer Service](https://web.archive.org/regform/emailformbox.asp?Source=CSD)[](https://web.archive.org/web/20060615202558id_/http%3A//regform/emailformbox.asp?Source=CSD)[](http://www.esignal.com/disclaimer/#12x) to obtain relevant exchange agreements.
+
+If you are not such a professional, you agree to use the Services solely in your own individual capacity, and solely in connection with your own individual personal investment activities and not in connection with any trade or business activities.
+
+19.0 Access and Security  
+You accept responsibility for the confidentiality and use of any access codes, account numbers and customer code numbers that you may receive for your access to and use of the Services. You accept responsibility for all time used and all activity that occurs through or under your access codes, customer numbers and/or account numbers. You agree to notify eSignal immediately if you become aware of any loss, theft or unauthorized use of your access codes and/or account numbers.
+
+20.0 Disclaimer of Warranties and Limitation of Liability   
+You agree that neither eSignal, its affiliates, officers, directors, employees, agents or representatives, nor any of the Data Providers, nor any officer, director, employee, agent, affiliate or representative thereof shall have any liability, contingent or otherwise, for any lack of truthfulness, accuracy or timeliness of the Websites or the Services; for any lack of truthfulness, accuracy, timeliness, completeness or correct sequencing of the information made available through the Websites or the Services; for any decision made or action taken by you or anyone else in reliance upon such information or the Websites or the Services; or for any harm or injury resulting from any interruption or delay of any data, information or any other aspect of the Websites or the Services; or for any harm or injury resulting from any unsafe, illegal, defective or otherwise inappropriate or objectionable aspect of any information made available through the Websites or the Services.  
+
+THE WEBSITES AND SERVICES ARE PROVIDED “AS IS.” TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, THERE IS NO WARRANTY OF MERCHANTABILITY, NO WARRANTY OF FITNESS FOR A PARTICULAR USE AND NO OTHER WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, REGARDING ANY ASPECT OF THE WEBSITES OR SERVICES OR INFORMATION MADE AVAILABLE VIA THE WEBSITES OR SERVICES. YOU RECOGNIZE THAT THE ACCURACY OF ANY SUCH INFORMATION SHOULD BE CHECKED BEFORE YOU RELY ON IT.
+
+IN NO EVENT WILL ESIGNAL OR THE DATA PROVIDERS BE LIABLE TO YOU, YOUR CUSTOMERS OR ANY OTHER PARTY FOR ANY DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL OR EXEMPLARY DAMAGES (INCLUDING BUT NOT LIMITED TO, LOST PROFITS, TRADING LOSSES OR DAMAGES THAT RESULT FROM INCONVENIENCE, DELAY OR LOSS OF THE USE OF THE WEBSITES OR THE SERVICES), OR CLAIMS ARISING IN TORT (INCLUDING NEGLIGENCE), EVEN IF ESIGNAL OR THE DATA PROVIDERS HAVE BEEN ADVISED OF OR ARE OTHERWISE AWARE OF THE POSSIBILITY OF ANY OF THE FOREGOING.
+
+YOU ACKNOWLEDGE THAT DOCUMENTS POSTED TO AND CONTENT AVAILABLE AT THE WEBSITES MAY CONTAIN COMPUTER VIRUSES OR OTHER HARMFUL ELEMENTS. SHOULD YOU DOWNLOAD ANY SUCH MATERIALS FROM THE WEBSITES, IT IS YOUR RESPONSIBILITY TO PERFORM ANY ANTI-VIRUS SCANNING OR OTHER PRECAUTIONS AS YOU DEEM NECESSARY. UNDER NO CIRCUMSTANCES WILL WE BE RESPONSIBLE FOR ANY LOSS OR DAMAGE CAUSED BY ANY MATERIALS DOWNLOADED FROM THE WEBSITES AND YOU ASSUME FULL RESPONSIBILITY FOR ALL COSTS ASSOCIATED WITH ALL NECESSARY SERVICING OR REPAIRS OF ANY EQUIPMENT OR DATA YOU USE IN CONNECTION WITH OUR WEBSITES.
+
+By way of example, and not by way of limitation, neither eSignal nor the Data Providers shall be liable for any loss resulting from a cause over which such entities do not have direct control, including but not limited to, the failure of electronic or mechanical equipment or communication lines, telephone or other interconnect problems, unauthorized access, theft, your errors, or events of force majeure. 
+
+21.0 Indemnification   
+You agree to indemnify and hold harmless eSignal, its affiliates, officers, directors, employees, agents and representatives and the Data Providers and their respective officers, directors, employees, agents and representatives, from and against any and all claims, including, but not limited to, any liability or expense arising from all claims, losses, damages (actual and consequential), suits, judgments, litigation costs, and attorney’s fees, of every kind and nature, arising from or relating to your use of the Websites or the Services or the information made available through the Websites or the Services, and/or your violation of these Website Terms and Conditions or any third party’s rights, including, but not limited to, copyright, proprietary rights, privacy rights, and rights under defamation law.
+
+22.0 Disclaimer of Right to Sue   
+You release eSignal, including its officers, directors, employees, or any other agents, from claims, demands and damages (actual and consequential) of every kind and nature, known and unknown, suspected and unsuspected, disclosed and undisclosed, arising out of or in any way connected with any dispute with any user of any of the Websites or Services, or arising in any way from content posted to any of the Websites by any third party.
+
+If you are a California resident, you waive California Civil Code § 1542, which provides:  “A general release does not extend to claims which the creditor does not know or suspect exist in his favor at the time of executing the release, which if known by him must have materially affected his settlement with the debtor.” 
+
+23.0 Modification and Termination of Website; Modification of Website Terms of Conditions   
+Notwithstanding any provision in these Website Terms and Conditions, eSignal reserves the right, in its sole discretion, at any time, to change or modify from time to time and/or terminate (i) its Websites, (ii) any particular Services made available via its Websites, or (iii) these Website Terms and Conditions. Your use of our Websites following any such change constitutes your agreement to follow and be bound by the Website Terms and Conditions, as changed.
+
+24.0 Data Providers Enforcement Right   
+Data Providers may enforce these Website Terms and Conditions against you by legal proceedings or other appropriate means
+
+25.0 Force Majeure  
+In addition to applicable disclaimers, stated above, eSignal’s performance under these Website Terms and Conditions and the Services shall be excused in the event of interruption and/or delay due to causes beyond its reasonable control, such as acts of God, acts of any government, war or other hostility, civil disorder, the elements, fire, earthquake, explosion, acts of terrorism, power failures, equipment failure, industrial or labor dispute, acts of Data Providers or other third party information providers, third party software or communication method interruption.
+
+26.0 Entire Agreement   
+These Website Terms and Conditions and our Privacy Policy embody the entire understanding between the parties with respect to eSignal’s Websites and supersede any and all prior representations and agreements, if any, oral or written, with respect to eSignal’s Websites. In the event of any conflict between these Website Terms and Conditions and/or Privacy Policy and any separate agreement you have executed or otherwise entered into regarding subscription services available through eSignal’s Websites, the terms of such separate agreement shall control.
+
+27.0 Severability   
+Should any provision of these Website Terms and Conditions be held to be void, invalid, unenforceable or illegal by a court, such provision shall be valid and enforceable to the extent permitted by applicable law, and the validity and enforceability of the other provisions shall not be affected thereby. Failure of any party to enforce any provision of these Website Terms and Conditions shall not constitute or be construed as a waiver of such provision or of the right to enforce such provision.
+
+28.0 Choice of Law; Choice of Forum   
+These Website Terms and Conditions and any dispute arising from the Websites or the Services shall be interpreted in accordance with the laws of the State of New York, U.S.A. without reference to its conflicts of law principles.  You expressly consent and agree that any claims arising under or related in any way to these Terms and Conditions, the Privacy Policy,  the Websites or the Services shall be brought only in the state or federal courts located in the State of New York and therefore you consent to the jurisdiction and venue of those courts.
+
+29.0 Assignment   
+These Website Terms and Conditions shall not be assignable by you, either in whole or in part. eSignal reserves the right to assign its rights and obligations under these Website Terms and Conditions.
+
+30.0 Survival   
+Sections 1, 2, 5, 6, 11, 12, 13, 15, 16, 17, 19, 20, 21, 22, 24, 25, 26, 27, 28, 29, 30 and 31 of these Website Terms and Conditions shall survive the termination of these Website Terms and Conditions and shall apply indefinitely.
+
+31.0 Your Consent  
+By using our Websites, you agree to comply with, and be bound by these Website Terms and Conditions. If you do not agree with some, or all of these Website Terms and Conditions, you are not authorized to visit our Websites. 
+
+Effective Date:  April 3, 2006  Your Privacy is Important to eSignal   
+Last Updated: April 3, 2006  
+
+
+1.0 Applicability.  
+We value our relationship with you and respect your right to privacy. Our Privacy Policy ("Privacy Policy") covers eSignal's treatment of information that we collect and maintain about you in connection with your use of  the Websites and your use of our products and services. This policy does not apply to the practices of companies that eSignal does not own or control or to individuals whom eSignal does not employ or manage, including operators of sites you may link to or from the Websites or from which you link to the Websites.  By using the Services and/or accessing our Websites, you are acknowledging that you have read and understood this Privacy Policy and consent to the practices described herein.  
+In addition, if you register as a user of any of the features of our Websites (a “Subscriber”), during the registration process (and from time to time as eSignal may require) you may be prompted to click an “I Accept,” “Submit” or similar button, which further confirms your consent to the practices described in this Privacy Policy.
+
+2.0 Scope of Policy  
+This Privacy Policy applies only to information you provide to us online or that we obtain in connection with your use of the Websites (or any service offered through the Websites) or through any websites that we operate or acquire. It does not apply to information obtained offline or through other non-electronic means.
+
+3.0 What Information We Collect and Use   
+eSignal reserves the right to use and control the information collected on the Websites. We will not share this information with any third party, other than as disclosed in this Privacy Policy. eSignal collects information from users at different points on our Websites and through our software, as follows:
+
+> 3.1. Registration: In order to subscribe to eSignal products and services, we require that you complete a registration form. This form may ask for contact information, such as name, address, email address, telephone number, company name, fax number and other basic contact information (“Registration Information”). After submitting your Registration Information, you can view and modify this information within the self-maintenance area of the Websites. You agree to notify eSignal of any change to your billing address within thirty (30) days of such change.
+> 
+> 3.2. Orders and Requests: When you subscribe to an eSignal product or service, we request the appropriate billing information on our order form. This information includes your credit card number, expiration date and billing address (“Order Information”). Order Information is kept with your Registration Information in a database and will be retained for future purchases.  You may also provide personal information to us when you voluntarily communicate with us, such as for requesting information or submitting an application for employment.  We may retain such information for use and disclosure consistent with this Privacy Policy.
+> 
+> 3.3. eSignal Software: While accessing and operating an eSignal product, the eSignal software will record general statistical and tracking information, such as the date and time a client accesses his or her product and the time spent using it. The eSignal software transfers this information to eSignal’s servers, and such information is used exclusively for internal resource management purposes.
+> 
+> 3.4. Other: eSignal may automatically receive and record information in our server logs from your browser, including your IP address (the Internet address of your PC), your computer’s name, the type and version of your web browser, referrer addresses and other generally-accepted log information. We may also record page views (hit counts) and other general statistical and tracking information, which will be aggregated with that of other users in order to understand how our Websites are being used.
+> 
+> 3.5. Cookies: A cookie is a small amount of data, which often includes unique, but anonymous, code, which is sent to your browser from a website’s computers and stored on your computer’s hard drive. Cookies can be used to provide you with a tailored user experience and to make it easier for you to use the Websites upon a future visit. eSignal will also use cookies to recognize you when you return to our Websites. Most web browsers are set to accept cookies by default, though you can manually disable the cookies feature of your browser. You should review the online documentation of your browser or consult with the provider of your browser for instructions on how to disable cookies. Please note that if you disable cookies on your computer, some parts of the Websites may not function properly.
+> 
+> 3.6. Referrers: A “referrer” is the information passed along by a web browser that references the web URL you linked from and is automatically collected by our web server. This information is collected and used by eSignal to understand the websites referring traffic to our Websites and to present appropriate content to our potential customers. eSignal tabulates referrer information on an aggregate basis to identify trends and traffic patterns.
+> 
+> 3.7. Partners: eSignal may enter into agreements with other companies that market software or services that either function similarly to eSignal software or that enhance or extend eSignal’s functionality. Some of these may be third party products that may utilize components of eSignal software. Under the terms of these agreements, we may be required to collect information about your sessions and your use of these third party products and share this information with these third parties.
+> 
+> 3.8. Providers: A provider is an entity that agrees to pay for the eSignal services being provided to you. We have entered into contractual agreements with these providers governing the provider arrangement. Under the terms of these agreements, we may be required to collect information about your sessions and your use of your eSignal product and share this information, along with your personally identifiable information, with the provider paying for your eSignal service. This information is kept strictly confidential, and is not shared with other third parties, except as provided for in this Privacy Policy.
+> 
+> 3.9. Computer Configuration: In order to determine whether your computer is supported by our system, we may collect certain anonymous information. This information includes, but may not be limited to, your operating system and browser, as well as the presence of the eSignal software or other third party software on your computer. This information is kept strictly confidential and is not shared with third parties, except as provided in this Privacy Policy.
+
+4.0 What We Do with Information We Collect and Use   
+In general, except as provided in this policy, we will not disclose your personally identifiable information to unaffiliated third parties without your express consent or allowing you to decline to permit the disclosure. There are, however, some limited circumstances in which we may need to disclose personally identifiable information about a user without express consent, including, but not limited to, the circumstances set forth below:
+
+> 4.1. eSignal Website Vendors: We may employ other companies to perform functions on our behalf, such as fulfilling orders, providing customer service, sending print and electronic mail, processing credit card payments, or other functions necessary to our business. In order to allow these companies to perform their obligations, we may need to share your personally identifiable information with them. However, we will provide these companies with only that information necessary to perform their functions on our behalf, and we will not allow them to use your personally identifiable information for any other purpose.
+> 
+> 4.2. Resellers: eSignal may from time to time enter into agreements with companies that resell eSignal’s products or services, either on eSignal’s behalf, or on their own behalf on a private labeled basis and/or on a co-branded basis. Under the terms of these agreements, we may be required, and therefore we reserve the right, to share your personally identifiable information with such resellers. Once your personally identifiable information is provided to such resellers, it will no longer be covered by this privacy policy. In those instances, your personally identifiable information will be governed by the privacy policy of the resellers to whom it is provided. Notwithstanding the foregoing, eSignal will not share your Order Information with any reseller that is not billing you directly for the re-marketed, private labeled and/or co-branded eSignal services to which you subscribe.
+> 
+> 4.3. eSignal Publishers and Merchants: eSignal reserves the right to provide to publishers and other merchants for whom eSignal sells or distributes products or services any personally identifiable information as is necessary to fulfill any requests you may make for their products or services. In addition, merchants of the products you purchase or to which you subscribe through eSignal may request additional personally identifiable information from you. eSignal will provide the merchants of such products the information you supply in response to those requests and, following such disclosure by eSignal, your personally identifiable information will no longer be covered by this policy. In those instances, your personally identifiable information is governed by the privacy policy of the merchants whose products you have purchased or to which you have subscribed.
+> 
+> 4.4. Protection of Rights: We may reveal your personally identifiable information to attorneys, private investigator organizations or law enforcement agencies if we believe that you have harmed or interfered with  (or will imminently harm or interfere) other eSignal users or anyone else or violating (either intentionally or unintentionally) our Website Terms and Conditions of Use or infringing any of eSignal’s legal rights, or harming the legal rights, property, or health or safety of any other person.
+> 
+> 4.5. Required by Law: eSignal will reveal your personally identifiable information, to the extent we reasonably believe we are required to do so by law. If we receive legal process calling for the disclosure of any of your personally identifiable information we will attempt to notify you via the email address you supplied during registration within a reasonable amount of time before we respond to the request, unless such notification is not permitted.
+> 
+> 4.6. Asset Transfers: eSignal shall be entitled to transfer to a third party information it maintains, including any personally identifiable information, in connection with a transaction or proceeding involving a transfer of some or all of the assets relating to the Websites or a business in connection with which such information is maintained. 
+
+5.0 Changing or Removing Personal Information; Opting Out   
+To ensure that you have appropriate control over your personally identifiable information, you can access your account (after supplying your user name and password) in the Self-Maintenance area of our Websites to update and/or correct the information you have previously submitted. 
+
+In addition, we provide you with the ability to decline -- or “opt-out of” -- certain mailings and other materials we may offer. For these materials, you will be able to specify whether you wish to opt-out by following directions provided in the Self-Maintenance area, as further detailed in Section 6.0 (Communications to out Users) of our Privacy Policy, below.
+
+Finally, if you request, we will remove your name and other personally identifiable information from our active databases. Please understand, however, that it may be impossible to remove this information completely, due to backups and records of deletions. If you wish to remove your name and other personally identifiable information from our database, please create an email with the term “Unsubscribe” in the subject line, and send the email to the address listed in Section 12.0 of this Privacy Policy. As an alternative, you may write to us with your request, at the mailing address set forth in Section 12.0. You will be removed from our databases generally within ten business days of our receipt of your request. You may also request to review or amend any personal information that we maintain about you, by sending a written request to the same address, subject to our verification of your identity acceptance of any proposed revision. 
+
+6.0 Communications to our Users
+
+> 6.1. eSignal: eSignal sends emails and/or postal mailings to new subscribers and to provide to existing subscribers information regarding their specific eSignal products. Periodically, eSignal will send news and information to subscribers and other parties who have expressed interest in eSignal and its products. You can opt out of receiving these promotional communications through the Self-Maintenance area of our Websites. For so long as you use eSignal products and services or otherwise maintain a business relationship with eSignal, however, you may not opt out of receiving communications from eSignal relating specifically to those products and services or business relationship.
+> 
+> 6.2. Third Parties: Except as described in this Privacy Policy, we do not share personally identifiable information with anyone, unless we have informed you of a change to our Privacy Policy and given you the opportunity to then choose to opt out. eSignal can no longer update any of your personally identifiable information once it has been transferred to such third parties and cannot implement or impose your opt out requests upon such third parties. Instead, you must either contact that third party or refer to its privacy policy to update your personally identifiable information or to let the third party know that you no longer want to receive promotional and/or marketing information about its products, services or offerings.
+
+7.0 Security of Personally Identifiable Information   
+eSignal maintains controls to protect the financial information you provide us, including credit card details, during the product purchase process. These controls include: (1) the use of SSL encryption to safeguard information when transmitted from your web browser to eSignal; (2) the logical authentication security within the databases that store customers’ credit card numbers; and (3) use of encryption of credit card numbers. 
+
+eSignal employees are required to acknowledge that they understand and will strictly abide by our corporate policies with respect to the confidentiality of personally identifiable information. Moreover, eSignal only gives access to databases containing personally identifiable information to employees on a need-to-know basis. Internal policies require that passwords be changed regularly, pursuant to security protocols. Our security procedures are reviewed on a periodic basis to ensure that they remain current.
+
+Accordingly, we have put in place security systems designed to prevent unauthorized disclosure of information you provide to us. These systems are structured to deter and prevent hackers and others from accessing this information. Due to the nature of Internet communications and evolving technologies, however, we cannot provide, and disclaim, assurance that the information you provide us will remain free from loss, misuse, or alteration by third parties who, despite our efforts, obtain unauthorized access. 
+
+8.0 Children   
+Persons under the age of eighteen (18) are not permitted to register for the eSignal service and eSignal does not knowingly collect, either online or offline, personally identifiable information from persons under the age of eighteen (18). If we learn that a child under the age of eighteen (18) has provided us with personally identifiable information, we will attempt to delete this information from our databases, subject to any technical limitations on our ability to do so.
+
+9.0 Notification of Changes   
+eSignal reserves the right to change or modify this Privacy Policy from time to time, or to terminate this Privacy Policy. We will post notice of the new policy from the Privacy Policy link on the homepage of our Websites. Your use of our Websites following any such change constitutes your agreement to follow and be bound by the Privacy Policy, as changed. If we make any significant changes regarding disclosure of personally identifiable information to third parties, we will attempt to notify you prior to the date the modified policy takes effect.
+
+10.0 Relationship to Website Terms of Conditions  
+Our obligations with respect to your use of the Websites are reflected in this Privacy Policy and  our Website Terms and Conditions and any additional terms of services that may be applicable.
+
+11.0 Your Consent  
+By using our Websites, you consent to our collection and use of your information, in accordance with this Privacy Policy. If you do not agree with some, or all of the terms of this Privacy Policy, you may not become a Subscriber, or otherwise visit our Websites. 
+
+12.0 Contact Us   
+You may contact us for any reason by email or traditional mail at the following addresses, provided, however, if you wish to provide us with formal notice under our Website Terms and Conditions or our Privacy Policy, you must provide your notice in writing, and mail it to the address set forth below:  
   
+By mail:  
+eSignal   
+PO Box 5028   
+Hayward, California 94540-5028   
+Attention: Customer Service  
   
----|---  
-Lycos reserves the right to collect certain information and store it in connection with your account. This information includes information about the different sites that you visit within the Lycos Network as well as the time and frequency at which you visit them. This information also includes the content that you transmit or post on the Lycos Network. For further information about Lycos's policy on maintaining transmitted or posted content, please see the Lycos Network Terms and Conditions.  When you register for a service within the Lycos Network, that information is generally collected and maintained solely by the Lycos Network unless specifically stated otherwise at the point of collection. If data is collected and/or maintained by any company other than Lycos, we will tell you at the point of collection. If you do not want to share your information with that company, you can choose not to use that service. 
+By email:  [Customer Service](https://web.archive.org/regform/emailformbox.asp?Source=CSD)
 
-Click [here](https://web.archive.org/privacy/doubleclick.asp#share) to see a list of companies that work with Lycos to provide you with a wide variety of Products and Services. 
-
-Lycos runs many promotions and sweepstakes across its Network. These promotions may be sponsored or co-sponsored by third-party companies. Data collected during a promotion is typically shared with the sponsor or co-sponsor. Lycos will inform you at the point of collection whether or not we are sharing your personal data as a result of your participation in a promotion or sweepstakes. If you do not want to have the Lycos Network share your data, you can choose not to participate in the promotion or sweepstakes. 
-
-Be aware that Lycos Network sponsors and other advertisers have links on the Network that take you to external sites. Some of these sites may collect personally identifiable information from you, and third-party advertising networks for Lycos like [DoubleClick](https://web.archive.org/privacy/doubleclick.asp) may use cookies and Web beacons in their advertisements to collect certain information from you. While Lycos hopes that all third parties involved adhere to our policies regarding the privacy of our users, the Lycos Network Privacy Policy does not cover third-party data collection practices and the Lycos Network does not assume any responsibility for any actions of third parties. 
-
-In addition to the personally identifiable information that Lycos actively collects when you register, we also collect anonymous information passively using **cookies** and **Web beacons**. This technology plays an important role in making the Internet work, but there is much confusion among Internet users about what cookies and Web beacons are and how they are used. 
-
-A **cookie** is a small text file containing a unique identification number that is transferred from a Web site to the hard drive of your computer so that the site administrator may identify your computer and passively track its activities on the Web site. This unique number identifies your Web browser to our computer system whenever you visit one of the sites in the Lycos Network. A cookie will not allow a Web site to learn any personally identifiable information (such as your real name and address) that you have not otherwise disclosed. 
-
-Cookies allow Lycos to automatically remember your Web browser when you visit our Network of Web sites. To help serve you better, Lycos generally uses cookies to: 
-
-  * **Allow us to deliver products and services more efficiently.** By storing certain registration and preference information on cookies or associating cookies with registration, preference or profile information stored on our computers, we can deliver products and services that use such information more quickly and efficiently for more users. This information is normally saved in an encrypted form that only Lycos can interpret.
-  * **Prevent others from using your account.** On some Lycos Network sites, cookies help us efficiently determine that only one user is logged on under the same member name at a time.
-  * **Measure statistics** such as audience size and traffic patterns. This information is only collected in aggregate form and will not be linked to your personally identifiable information.
-  * **Display advertisements.** Cookies let us know whether a Web browser has seen a particular advertisement (so we can show you a variety of material) and count the number of advertisements displayed to a particular browser. We also use cookies to customize the advertising you see based on non-personally identifiable demographic information that you provide when you register. Third-party advertising networks for Lycos (like DoubleClick) may issue cookies on the Lycos Network and other sites when serving advertisements. Click [here](https://web.archive.org/privacy/doubleclick.asp) for information on our relationship with DoubleClick.
-
-
-
-The use of cookies is an industry standard, and they are currently used on most major Web sites. It is possible to adjust your Web browser preferences to alert you when a cookie is sent to your hard drive, or to refuse cookies altogether. While Lycos does not require you to use cookies, keep in mind that certain sites and services will not function properly if you set your browser to refuse all cookies. 
-
-**Web beacons** , also known as clear GIFs or single-pixel GIFs, are small image files that Lycos may place on Web pages and within Web-based email newsletters that we send. Working in conjunction with cookies, Web beacons allow Lycos to accurately count the number of unique users who have visited a specific page on the Lycos Network and the number of times those pages are displayed. We can also use Web beacons to let us know how many people opened a Web-based email newsletter. This information is only collected in aggregate form and will not be linked to your personally identifiable information. 
-
-Without cookies and Web beacons, it would be difficult for Lycos to know which services have a larger audience than others. Tracking audience size helps us to better understand when to launch new services and enhance the current offerings. Keep in mind that any image file on a Web page can act as a Web beacon. Third-party advertising networks for Lycos like [DoubleClick](https://web.archive.org/privacy/doubleclick.asp) may use Web beacons in their advertisements. 
-
-Because Web beacons work in conjunction with cookies, you can prevent our Web beacon from collecting anonymous information by setting your Web browser to refuse all cookies or the Lycos Network cookie in particular. Web beacons are built into our Web pages, so non-functional Web beacons will continue to appear even if you refuse the Lycos Network cookie. 
-
-Any personally identifiable information you share with Lycos when registering for Products and Services at any of our Network sites is maintained and accessible only by Lycos unless specifically stated otherwise. Lycos requests information from its users so that users can enjoy customized experiences across the Lycos Network, including personalization services, interactive communications, online games and much more. Most of these Products and Services are available to you at no cost, and Lycos displays advertisements so we can continue to provide great content and services free of charge. We can also better prepare future content based on your interests. 
-
-The following are examples of how the Lycos Network may use the information it collects: 
-
-  * Lycos uses the information collected (both anonymous and personal) to personalize and enhance the content you see on the Lycos Network, such as news, stock portfolios, weather reports, sports scores, horoscopes, advertisements and more. In some cases, our Products and Services cannot work unless you have volunteered accurate information (for example, we need your valid ZIP Code to display weather conditions in your local area).
-  * Lycos collects anonymous data and shares it with third-party advertisers in an aggregate form. We will disclose to those advertisers the numbers of Lycos users who have certain demographic characteristics and the number of those people who have seen and "clicked" on a particular display. We will also disclose to those advertisers the overall demographics available regarding who saw and "clicked" on their advertisement. In addition, we may disclose anonymous results from online surveys to third-party advertisers or to Lycos's product and service providers. No personally identifiable information will be disclosed as part of this process.
-  * Lycos also uses the aggregate data to perform statistical analyses of the collective characteristics and behavior of our registered users and visitors, to measure user demographics and interests regarding specific areas of the Lycos Network, and to analyze how and where best to use our resources. Without such data, we would not know which parts of the Lycos Network are the most popular, and we would not be able to change and update the content and services appropriately. Please note that we may share this aggregate information with third-party companies.
-  * Lycos collects an aggregate list of search terms from its HotBot and Lycos search services. This information is collected anonymously and used primarily for the purposes of product development, monitoring, and improvement, as well as targeted advertising. Please note, however, that we may share this anonymous information with third-party companies.
-  * Lycos sometimes uses an individual registered user's data to "pre-populate" online forms that are displayed for the purpose of collecting additional individual data by the Lycos Network, selected third-party sites, and/or sponsors and advertisers.
-  * Lycos may, from time to time, use your information to contact you about changes or enhancements to Products and Services on the Lycos Network, issues regarding your account, or Lycos Network Terms and Conditions violations or suspensions.
-  * If you enter a sweepstakes or a contest on the Lycos Network, we will use the information you provided to contact you in the event you win.
-  * If you told Lycos that you were interested in receiving special offers from select Lycos clients, Lycos or third parties on Lycos's behalf (i) will send you email and postal mail about products and services that we feel may be of interest to you, and (ii) may combine information we have about you with information we obtain about you from third parties for the purpose of providing you with more appropriate products, services, and offerings. If you do not wish to participate in this program, please follow the opt-out instructions set forth in Section 7 of this policy. 
-  * **Subscription Customers:** Your credit card information is used to collect your recurrent subscription fees for Quote.com, Matchmaker.com, or other pay services.
-  * **Lycos Family Membership Customers:** Your credit card information is used to verify the age of a parent or guardian. The credit card will not be charged during the Lycos Family Membership registration process, and only the last 4 digits and a transaction number will be stored as proof of transaction. Click [here](https://web.archive.org/privacy/coppa.asp) for more information.
-
-By providing Lycos with your personally identifiable information, you authorize Lycos to internally share that information with other companies in the Terra Lycos group, _including companies that become part of the Terra Lycos group in the future_. You can see a current list of Terra Lycos companies here: <http://www.terra.com/info-en/group.htm>. 
-
-Any company in the Terra Lycos group (including Lycos) is authorized to share your personally identifiable information with any other company of the Terra Lycos group for the following purposes: to manage, administer, provide, expand and improve the existing Terra Lycos group products and services, and to offer new products and services; to adapt such products and services to your tastes and preferences; to send service updates to Terra Lycos users; to send, by traditional and/or electronic means, technical, operational and commercial information relating to the products and services offered by the Terra Lycos group or through any of the sites operated by the Terra Lycos group, currently and in the future; and to send you survey forms, which you are not required to fill in. Of course, Lycos and the Terra Lycos group companies will always give you the option to opt out of receiving any information or notices as described above, other than legal notices and other notices that are necessary to the functioning of the Products and Services, during the time that you are using the Products and Services or maintain an active registration with the Lycos Network. Companies in the Terra Lycos group may have a physical address in a foreign country. In any event, Lycos will take precautions to maintain the confidentiality and security of all user information sent abroad.
-
-The Lycos Network will sometimes share personally identifiable information with third-party companies and organizations. In most cases, you agree to share your information when you choose to register at a **co-branded** Web site. Co-branded sites are operated by third-party companies and offer a particular service or product to Lycos Network members. We may also maintain **private label** relationships where a third-party company provides Lycos with technology, services and/or content under Lycos Network branding. 
-
-Whenever you provide registration information on co-branded or private label sites, that data may be shared with the third-party company providing the service. You should make every effort to read the individual privacy policies of such third parties and make an informed decision on your own whether to continue based upon these sites' privacy practices and your own discretion. **You may opt-out of sharing your information with such providers by choosing not to use that service or content.**
-
-When you find goods or services through Lycos Shopping, you submit data directly to the individual merchants from whom you order goods or services. Please review carefully the privacy policies of particular merchants that you access through Lycos Shopping. 
-
-In addition to finding co-branded and private label sites, you will find direct links on our site to sites offered by third parties. Some of these sites are authorized to use the Lycos Network brands and/or logos. No third-party sites are covered by this Privacy Policy. If you feel that a site using a Lycos Network brand and/or logo does not follow an acceptable privacy policy, please contact the Lycos Privacy Site Coordinator by email at [privacy@lycos.com](mailto:privacy@lycos.com). 
-
-Lycos may disclose information about individual users to third parties who agree to provide services to Lycos and who agree to maintain the confidentiality of such information in accordance with this Privacy Policy. These third parties will provide a variety of services to Lycos, including, without limitation, processing and storing user information, helping to create new content and promotions for the Lycos Network, and sending or coordinating the sending of marketing communications that users have consented to receive. Lycos will disclose information about individual users to governmental or judicial authorities or law enforcement agencies, or to other individuals or entities in response to subpoena, court order, or other legal process. In matters involving a danger to personal or public safety, Lycos may voluntarily provide information to appropriate governmental authorities. 
-
-If you elect to receive Lycos Registration Offers during registration for the Lycos Network, Lycos will release personally identifiable information to the applicable sponsor or advertiser. Information released may include name, email address, postal address and other information supplied in the Lycos Network registration process. Please note that the sponsor or advertiser will not be bound by this Lycos Network Privacy Policy. 
-
-If Lycos is acquired by or merged with another company, Lycos may transfer personally-identifiable information about you to that company. Lycos will notify you in the event that your personally-identifiable information is transferred under these circumstances and becomes subject to a different privacy policy. 
-
-Matchmaker.com Customers: Lycos creates your public profile by using your answers to the Matchmaker.com questionnaire and your ZIP Code, along with any photos or images you post. Users will have the ability to search and view the public profiles. 
-
-Lycos Messenger Customers: Lycos creates a public profile for you by using the information that you submitted as part of the Lycos Messenger registration and that you indicated should be made public. Users will have the ability to search and view the public profiles for the purpose of finding others for their "buddy" lists. 
-
-Lycos Domains Customers: Users of Lycos Domains will be required to designate an administrative contact and, in some instances, a technical contact for the domain names they register. Lycos will assume that the Lycos member who registers for the Lycos Domains service will serve as these contacts, although users will have the ability to designate other contacts. Lycos will disclose the name, address, phone number, fax number, and email address of the administrative and technical contacts to Lycos's domain name provider, which in turn will make such information publicly available through an online WHOIS database. 
-
-The Lycos Network provides its registered users the ability to access and edit the personal information in their user profiles. For most membership sites on the Lycos Network ( **My Lycos, Lycos Mail, Gamesville, htmlGEAR, Tripod, Angelfire, Raging Bull and Quote.com** ) you can access your user profile by following these steps: 
-
-  * Go directly to [this page](http://ldbauth.lycos.com/cgi-bin/mayaRegister?m_PR=19&m_RC=3). You will receive a prompt to log in to the Network with your Lycos Network Member Name and password.
-  * After you log in, you will be taken to the Membership Information page, which contains your user profile. If you see a field that needs to be updated, click the appropriate **Edit** button.
-  * Make the necessary changes and click the **Update** button to save your changes.
-
-
-
-For some other sites on the Lycos Network, you will have to follow different steps to update the personal information in your user profile. 
-
-  * **Matchmaker.com** at [http://www.matchmaker.com](http://www.matchmaker.com/): After you log in, click on the "Member Tools" link at the bottom of any community page, select "Edit Page", and select the information you would like to update or revise. Edit your responses to any community survey by clicking on the "Member Tools" link, selecting "Edit Page", and selecting "Review/edit the Survey Question/s." To make an adjustment to your username, or your selection for gender or sexual preference, click on the "Feedback" button and complete the form. 
-  * **Lycos Messenger** at [http://messenger.lycos.com](http://messenger.lycos.com/): After you log in, click on the "Activate" link and the information that you have previously provided will be displayed on the page. Edit the information or settings you would like to update, such as your public display preferences, and click on "Activate."
-
-You can opt out of sharing your personally identifiable information with any third-party service or content providers in any areas of the Lycos Network by choosing not to use such areas. 
-
-In addition, you may opt-opt of sharing your personally identifiable information with third-party service providers and sponsors by clearing the appropriate checkboxes at the point of initial collection. You will see these checkboxes near the bottom of the registration page. 
-
-After the point of initial collection, we offer you the ability to opt-out of receiving updates and information about new Lycos products and services, as well as direct mail offers from selected service providers and sponsors. The instructions to opt out of most Lycos Network email newsletters and direct mail communications are the same as the instructions for editing user information profiles. Simply follow these steps: 
-
-  * Go directly to [this page](http://ldbauth.lycos.com/cgi-bin/mayaRegister?m_PR=19&m_RC=3). You will receive a prompt to log in to the Network with your Lycos Network Member Name and password.
-  * After you log in, you will be taken to the Membership Information page, which contains your email subscriptions. Click the **Edit** button under the **Email Subscriptions** banner. 
-  * Make the necessary changes and click the Update **button** to save your changes.
-
-
-
-In addition, all Lycos Network newsletters and direct email communications have easy-to-follow unsubscribe instructions at the bottom of each email. 
-
-If you are receiving email newsletters from Matchmaker.com, follow the unsubscribe instructions found at the bottom of each email communication. If you are receiving email newsletters from Wired Digital, Lycos Music, Lycos Computers or Sonique, follow the unsubscribe instructions found at the bottom of each email communication or go directly to this Web page: <http://hotwired.lycos.com/email/unsub>. 
-
-If you have a question about the Lycos opt-out process that is not answered here, please send an email to [privacy@lycos.com](mailto:privacy@lycos.com). 
-
-The Lycos Network has security measures in place to attempt to protect against the loss, misuse and alteration of your user data under our control. Lycos uses physical, electronic, and procedural safeguards to protect any personally identifiable data stored on its computers. Only authorized employees have access to the information you provide us. Any particularly sensitive information, such as a credit card number used to purchase premium services from Quote.com or Matchmaker.com, is encrypted prior to transmission. 
-
-While we cannot guarantee that loss, misuse or alteration to data will not occur, we take many precautions to prevent such unfortunate occurrences. 
-
-You are ultimately responsible for the security of your Lycos Network ID and password. Please take care when using and storing them. Lycos recommends that you do not divulge your password to anyone. You should log out of your browser at the end of each computer session to ensure that others cannot access your personal information and correspondence, especially if several people have access to your personal computer or you are using a computer in a public place like a library or Internet cafe. 
-
-The Children's Online Privacy Protection Act (COPPA) of 1998 provides safeguards to protect children who use the Internet by regulating the online collection of personal information from children under the age of 13. Because of these safeguards, children under 13 are not able to access or use all Products and Services on the Lycos Network. Parents of children under 13 can authorize their children to use some of our services by signing up for a Lycos Family Membership. 
-
-Parents can learn more about the Lycos Family Membership and obtain detailed answers about our compliance with COPPA by clicking [here](https://web.archive.org/privacy/coppa.asp). 
-
-**Know the risks.**  
-Meeting new people in an online community (chat room, forum, newsgroup, message board, Web page, etc.) is one of the best things about the Internet, but you should always be careful about disclosing personal information such as an actual name, member name, email address, and so on. This information may be collected and used by others within the online community to send unsolicited email messages from other parties, outside the Lycos Network. Some of the messages you receive may be useful to you, but some may not. In an effort to curtail unsolicited email, Lycos blocks certain email addresses and domains from sending messages to email addresses at our domains. 
-
-**Educate yourself.**  
-Search the Web for as much information as you can about how to protect your privacy. Look for a privacy policy on the Web sites you visit. A good place to start is [TRUSTe](http://www.truste.org/) \-- an independent, non-profit organization with a mission to build trust and confidence in the Internet. The Federal Trade Commission has a great Web site with useful information on being a [Savvy Internet Traveler](http://www.ftc.gov/bcp/conline/pubs/online/sitesee.html) along with other [privacy initiatives](http://www.ftc.gov/privacy/index.html). Additional privacy resources can be found at by clicking on any of the following links **
-
-Department of Education: Parents Guide to the Internet
-
-**  
-[http://www.ed.gov/pubs/parents /internet/](http://www.ed.gov/pubs/parents/internet/) **
-
-Better Business Bureau (BBB)
-
-**  
-[http://www.bbbonline.com](http://www.bbbonline.com/)
-
- **Center for Democracy and Technology**  
-<http://www.cdt.org/privacy/> \- Data Privacy  
-<http://www.cdt.org/privacy/guide/> \- Guide to Online Privacy **
-
-Direct Marketing Association (DMA)
-
-**  
-<http://www.the-dma.org/> **
-
-Electronic Frontier Foundation
-
-** \- non-profit dedicated to protecting public interest in online privacy.  
-[http://www.eff.org](http://www.eff.org/) **
-
-EPIC.org
-
-** (Electronic Privacy Information Center)   
-[http://www.epic.org](http://www.epic.org/) **
-
-Georgetown Internet Privacy Study
-
-**  
-<http://www.msb.edu/faculty/culnanm/gippshome.html>
-
-**Net Nanny** \- child safety software that filters potentially harmful Web sites  
-<http://www.netnanny.com/> **
-
-NetCoalition.com
-
-**  
-[http://www.netcoalition.com](http://www.netcoalition.com/) **
-
-Network Advertising Initiative
-
-**  
-<http://www.networkadvertising.org/> **
-
-Online Privacy Alliance
-
-**  
-<http://www.privacyalliance.org/>
-
-**The Privacy Rights Clearinghouse**  
-<http://www.privacyrights.org/>
-
-**Tell your children: "Never talk to strangers!"**  
-While Lycos works hard to protect children on the sites within the Lycos Network, we cannot protect their privacy once they leave. Please teach children that they should not reveal their names or other personal information to anyone they encounter on the Internet. They should also be instructed not to fill out any forms or register at any Web site without your knowledge and consent. Parents can also prevent or limit a child's access to inappropriate material on the Web by using commercially available parental control protections (such as computer hardware, software, or filtering services). Take advantage of the online resources for parents available on the Lycos Network, such as [SearchGuard](http://searchguard.lycos.com/) and [GetNetWise](http://www.getnetwise.org/). 
-
-**Use PGP (Pretty Good Privacy)**[http://www.pgp.com](http://www.pgp.com/) or another encryption program. 
-
-Questions regarding this statement should be directed to: 
-
-**Lycos Privacy Site Coordinator**   
-Lycos, Inc.   
-100 5th Ave   
-Waltham MA 02451   
-(781) 370-2700   
-(781) 370-2886 (Fax)   
-[**privacy@lycos.com**](mailto:privacy@lycos.com)
-
-If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/users/users_watchdog.html), who will serve as a liaison with the Lycos Network to resolve your concerns. 
-
-The Lycos Network will update this policy from time to time so please check back periodically. When such changes occur, you will see the word "Updated" next to the Privacy Policy link on the front page of each site on the Lycos Network. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will prominently post such changes prior to implementing them. 
-
-Last updated August 18, 2003. 
+Effective Date:  April 3, 2006
