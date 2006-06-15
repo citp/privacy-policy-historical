@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avis.co.uk privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214093859id_/http%3A//www.avis.co.uk/avisonline/terms.nsf/%28PrivacyStatementDefault%29/F19D6882ABFE25DBC1256C84005900F0%21opendocument) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avis.co.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615211533id_/http%3A//avis.co.uk/avisonline/terms.nsf/%28PrivacyStatementDefault%29/F19D6882ABFE25DBC1256C84005900F0%21opendocument) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -39,7 +39,7 @@ If you enter any competitions we offer on our site, we will ask you to enter cer
 
 
 When you participate in any on-line surveys you may be asked to supply certain personal information, for example, demographic data such as age and/or income. You can provide all or none as you so choose. Survey results will only be used to improve the site features and usability and not for any other purpose.  
-| © 2000-2005 AVIS rent a car         |   
+| © 2000-2006 AVIS rent a car         |   
 ---|---  
 
 
