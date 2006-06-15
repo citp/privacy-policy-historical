@@ -1,19 +1,29 @@
-> *The following text is extracted and transformed from the dteenergy.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231111936id_/http%3A//dteenergy.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dteenergy.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615234850id_/http%3A//www.dteenergy.com/privacyPolicy.html) for the most accurate reproduction.*
 
-# DTE Energy - Privacy Policy
+# DTE Energy
 
-|  | 
+|   
+---  
+   
+• Safe, reliable electric and natural gas services to Michigan businesses and homes.   
+   
+• Energy related businesses and services nationwide.   
+   
+**DTE Energy is your energy expert.**  
+| 
 
-Last Modified: December 18, 2005
+Last Modified: May 10, 2006
 
 DTE Energy and its [affiliate companies](https://web.archive.org/businesses/index.html) ("Company") understand your concerns about the use of your personal information online and are committed to protecting your privacy. We have implemented the following online privacy policy ("Privacy Policy") to give you a better understanding of how we handle your information.
+
+The Company may offer one or more interactive pages for children under the age of 13. The Company does not collect or maintain any personal information from children when they interact with those respective pages.
 
 This Privacy Policy applies to the DTE Energy Web site (dteenergy.com) as well as all other DTE Energy affiliates' sites, unless modified by a privacy policy on the respective DTE Energy affiliate site ("Affiliate Privacy Policy"). Please check any DTE Energy affiliate site for an Affiliate Privacy Policy. If there is a conflict between this Privacy Policy and the Affiliate Privacy Policy, the Affiliate Privacy Policy takes precedence.
 
 **Contents of Privacy Policy**  
 What type of information does DTE Energy gather?  
 What is the Company's policy regarding cookies?  
-How does the Company ensure the secure transfer of my information?  
+How does the Company protect my personal information?  
 What is DTE Energy's policy regarding e-mail?  
 Does the Company provide links to other sites?  
 What happens if changes are made to the Privacy Policy?  
@@ -32,13 +42,13 @@ DTE Energy may set cookies in order to provide automated services or surveys on 
 
 top
 
-**How does the Company ensure the secure transfer of my information?**  
-We use industry-standard encryption technologies when transferring personally identifiable information. When we transfer certain types of sensitive information such as financial, personal, account, or service information, we redirect visitors to a secure server where all communication between your computer and ours is scrambled into hard to decipher code and then translated back to meaningful communication. But regardless of the precautions, "perfect security" does not exist on the Internet. We cannot ensure or warrant the security of any personally identifiable or other information you transmit to us. The information you transmit to us is done at your own risk.
+**How does the Company protect my personal information?**  
+We use industry-standard encryption technologies when transferring personally identifiable information. When we transfer certain types of sensitive information such as financial, personal, account, or service information, we redirect visitors to a secure server where all communication between your computer and ours is scrambled into hard to decipher code and then translated back to meaningful communication. There are also a number of things you can do to protect your personal information. For tips on Web security, please see our [Help file](http://my.dteenergy.com/myAccount/manageAccountHelp.html#security) on Security and Privacy.
 
 top
 
 **What is DTE Energy's policy regarding e-mail?**  
-We do not send unsolicited e-mail. Registered users of my.dteenergy.com, or of other DTE Energy affiliates' Web sites, may 'opt-in' to receive e-mail from us. We do not ask for your personal or account information in an e-mail unless you have contacted us first and we need to clarify your request. If you have any doubt an e-mail is really from us, go to our Web site directly by typing dteenergy.com into your browser window and navigating to the desired page. For more tips on Web security, please see our [Help file](http://my.dteenergy.com/myAccount/manageAccountHelp.do#security) on Security and Privacy. We encourage you to report suspicious e-mail by forwarding the message to spoof@dteenergy.com. 
+We do not send unsolicited e-mail. Registered users of my.dteenergy.com, or of other DTE Energy affiliates' Web sites, may 'opt-in' to receive e-mail from us. We do not ask for your personal or account information in an e-mail unless you have contacted us first and we need to clarify your request. If you have any doubt an e-mail is really from us, go to our Web site directly by typing dteenergy.com into your browser window and navigating to the desired page. For more tips on Web security, please see our [Help file](http://my.dteenergy.com/myAccount/manageAccountHelp.html#security) on Security and Privacy. We encourage you to report suspicious e-mail by forwarding the message to spoof@dteenergy.com. 
 
 top
 
