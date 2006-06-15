@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motherearthnews.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212153059id_/http%3A//www.motherearthnews.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motherearthnews.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615020229id_/http%3A//www.motherearthnews.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -65,7 +65,7 @@ Our users are given the opportunity to choose whether to receive information fro
 We use reasonable precautions to protect our users' personal information and to store it securely. Sensitive information that is transmitted to us online (such as credit card number) is 128 bit encrypted and is transmitted to us securely. In addition, access to all of our users' information, not just the sensitive information mentioned above, is restricted. Only employees who need the information to perform a specific job (for example, a billing clerk or a customer service representative) are granted access to personally identifiable information. Finally, the servers on which we store personally identifiable information are kept in a secure environment. 
 
 **PURCHASING   RESTRICTIONS                                                                                               
-**Ogden Publications, Inc. does not sell products for purchase by children. If you are under 18, you may use our Web site only with the involvement of a parent or guardian.
+**Ogden Publications, Inc. does not sell products for purchase by children. If you are under 18, you may use our Web site only with the involvement of a parent or guardian. 
 
 ** SAFE SHOPPING GUARANTEE**
 
