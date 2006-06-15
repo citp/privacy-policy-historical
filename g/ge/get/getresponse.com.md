@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getresponse.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229183051id_/http%3A//www.getresponse.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getresponse.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615021313id_/http%3A//www.getresponse.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -56,8 +56,8 @@ We believe that keeping personal information secure is one of our most significa
 
 We restrict access to Personal Information about you to those employees and others who need to know that information to assist us in our business, or to provide products or services to you. We safeguard personal information, according to the established security standards and procedures, by maintaining physical, electronic, and procedural safeguards to the personal data information. 
 
-When we request customers to enter sensitive information, such as their name, geographical address, email address, and a credit card number, it is encrypted and protected with the best encryption software in the industry -- SSL. While on the secure page, such as our order form, the lock icon at the bottom of web browsers, e.g. Mozilla Firefox or Microsoft Internet Explorer, becomes locked, as opposed to unlocked or open, when you are just 'surfing'. 
+When we request customers to enter sensitive information, such as their name, geographical address, email address, and a credit card number, it is encrypted and protected with the best encryption software in the industry SSL and processed through a reputable payment processor [PayLane](http://www.paylane.com/). While on the secure page, such as our order form, the lock icon at the bottom of web browsers, e.g. Mozilla Firefox or Microsoft Internet Explorer, becomes locked, as opposed to unlocked or open, when you are just 'surfing'. 
 
 All of our customers' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (e.g. our billing clerk or a customer service representative) are personally granted access to sensitive information. 
 
-Go back or [Order NOW!](http://www.getresponse.com/order/autoresponders.html)
+[Order NOW!](http://www.getresponse.com/order/autoresponders.html)
