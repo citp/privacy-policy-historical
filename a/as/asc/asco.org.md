@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the asco.org privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231163921id_/http%3A//www.asco.org/ac/1%2C1003%2C_12-002451%2C00.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asco.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615214849id_/http%3A//www.asco.org/vgn-ext-templating/v/%3Fvgnextoid%3De508201eb61a7010VgnVCM100000ed730ad1RCRD) for the most accurate reproduction.*
 
 # ASCO - Privacy Policy
 
-**American Society of Clinical Oncology  
+  
+
+
+##### **American Society of Clinical Oncology  
 ** (last updated March 24, 2005)
 
  **Website Privacy Policy**
@@ -52,7 +55,7 @@ We hope that reading this Privacy Policy gives you a clear idea of how we manage
 
  **2\. Certain General Principles, Terms, and Disclaimers**
 
- **This Privacy Policy applies to the ASCO website (**[ **www.asco.org**](http://www.asco.org/) **), together with all other websites operated by ASCO, including without limitation the People Living With Cancer website (**[ **www.plwc.org**](http://www.plwc.org/) **), The**[ ****](http://www.jco.org/) **[Journal of Clinical Oncology](http://www.jco.org/)** **website (**[ **www.jco.org**](http://www.jco.org/) **), The[](http://www.jopasco.org/)[Journal of Oncology Practice](http://www.jopasco.org/) website ([www.jopasco.org](http://www.jopasco.org/)), the Oncology Career Center website (**[ **www.careers.jco.org**](http://www.careers.jco.org/) **), and the Oncology Product Locator website (**[ **http://opl.asco.org**](http://opl.asco.org/) **) (collectively, the “Website”).  
+ **This Privacy Policy applies to the ASCO website (**[ **www.asco.org**](http://www.asco.org/) **), together with all other websites operated by ASCO, including without limitation the People Living With Cancer website (**[ **www.plwc.org**](http://www.plwc.org/) **), The**[ **Journal of Clinical Oncology**](http://www.jco.org/) **website (**[ **www.jco.org**](http://www.jco.org/) **), The[Journal of Oncology Practice](http://www.jopasco.org/) website ([www.jopasco.org](http://www.jopasco.org/)), the Oncology Career Center website (**[ **www.careers.jco.org**](http://www.careers.jco.org/) **), and the Oncology Product Locator website (**[ **http://opl.asco.org**](http://opl.asco.org/) **) (collectively, the “Website”).  
 **  
  ** _This Privacy Policy does not supersede the Terms of Use that governs your use of the Website. Any conflict between the two shall be determined in favor of the Terms of Use. ASCO may change this Privacy Policy at any time and any changes will be effective immediately upon posting to this Site, so please check back regularly to ensure you read and understand our current privacy policies._**
 
@@ -187,7 +190,7 @@ Encryption.** The translation of data into a secret code. Encryption is the most
 
 **Non-Personal Information.** Information that is not traceable back to any individual and cannot be used to identify an individual. For example, Click Stream Information is Non-Personal Information, as is information such as gender, age, city, and physical location, when not linked with other Personally Identifiable Information. 
 
-**Opt-In.** Means you are actively indicating your preference to participate in a program, email, feature, tool, or enhancement on a website. Typically, if you “Opt-in” you must provide certain information, usually Personally Identifiable Information, to the website or otherwise actively indicate your choice or preference to participate in the website program. For example, if you wish to receive a newsletter by email from The [](http://www.jco.org/)[Journal of Clinical Oncology](http://www.jco.org/) (www.jco.org), you must enter your email address and choose the type of newsletter by checking a box next to a statement such as: “Yes, I’d like to receive the JCO Newsletters.” 
+**Opt-In.** Means you are actively indicating your preference to participate in a program, email, feature, tool, or enhancement on a website. Typically, if you “Opt-in” you must provide certain information, usually Personally Identifiable Information, to the website or otherwise actively indicate your choice or preference to participate in the website program. For example, if you wish to receive a newsletter by email from The [Journal of Clinical Oncology](http://www.jco.org/) (www.jco.org), you must enter your email address and choose the type of newsletter by checking a box next to a statement such as: “Yes, I’d like to receive the JCO Newsletters.” 
 
 **Opt-Out.** Means that if you do not take some action you are indicating your preference to participate in a program, email, feature, tool, or enhancement on a website. Typically, if you “Opt-out” you must uncheck a box next to a stated preference or otherwise take some indicate action to indicate your preference not to participate in a program. For example, if you do not wish to receive promotional emails from ASCO or its sponsors, you must uncheck the box in your email preference center that states: “Please send me special offers and communications from People Living With Cancer and/or its partners that would interest me.” 
 
