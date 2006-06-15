@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cftc.gov privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230012420id_/http%3A//www.cftc.gov/cftc/cftcprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cftc.gov privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615162330id_/http%3A//www.cftc.gov/cftc/cftcprivacy.htm%3Ffrom%3Dhome%26page%3Dprivacyfooter) for the most accurate reproduction.*
 
 # Privacy Policy for the CFTC Website
 
@@ -22,4 +22,4 @@ If you complete a form or send a comment or e-mail, you may be choosing to send 
 
 If you have questions about CFTC’s privacy policy and information practices you can e-mail [webmaster@cftc.gov](mailto:webmaster@cftc.gov). 
 
-Information on the Commission's systems of records maintained under the Privacy Act can be found [_under Section D of the CFTC Federal Register Notices._](https://web.archive.org/foia/fedreg99/foiprivacy99.htm)
+Information on the Commission's systems of records maintained under the Privacy Act can be found [under Section D of the CFTC Federal Register Notices.](https://web.archive.org/foia/fedreg01/foiprivacy01.htm)
