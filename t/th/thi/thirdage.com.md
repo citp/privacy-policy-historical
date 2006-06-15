@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thirdage.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212160011id_/http%3A//thirdage.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thirdage.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615214335id_/http%3A//www.thirdage.com/about/privacy.html) for the most accurate reproduction.*
 
 # ThirdAge - About Us - Privacy Statement
 
@@ -55,13 +55,4 @@ By using the Web Site, you signify your assent to the ThirdAge Privacy Policy an
 If you have questions or concerns regarding this Privacy Policy, the practice of this Web Site, your dealings with this Web Site, or would like to notify us of an alleged infringement of copyrights, you should contact ThirdAge by mail at: ThirdAge Inc., 25 Stillman Street, Suite 102, San Francisco, CA 94107-1309; or through our [contact form](http://thirdage.com/research/help/). 
 
 **12\. Ad Serving**  
-The ads appearing on ThirdAge.com are delivered to you by DoubleClick, our Web advertising partner. In the course of serving advertisements onto ThirdAge.com, DoubleClick may also place or recognize unique Cookies on your browser. Information about your visit to ThirdAge.com, such as number of times you have viewed an ad (but not your name, address or other personal information), is used to serve ads to you. For more information about DoubleClick, cookies and how to "opt-out," please click [here](http://www.doubleclick.net/us/corporate/privacy).   
-  
----  
-|  Must-See on ThirdAge   
-|  | [Meet Your Soul Mate Here and Now!](http://ad.doubleclick.net/clk;22768590;12096942;p?http://www.eharmony.com/core/eharmony?cmd=thirdage&cid=1235&aid=5310) |   
-|  | [The Top Male Health Concerns](http://www.thirdage.com/health/mens/guys/diabetes.html) |    
-|  | [Should You Get Screened for Osteoporosis?](http://www.thirdage.com/healthgate/files/19935.html) |    
-|  | [Dreams Come True! Take the Class](http://www.vcampus.com/thirdsemester/catalog/offering/?coid=76716) |    
-|  | [Are You Prepared for Cold and Flu Season?](http://blog.thirdage.com/?p=234) |    
-|  |  | 
+The ads appearing on ThirdAge.com are delivered to you by DoubleClick, our Web advertising partner. In the course of serving advertisements onto ThirdAge.com, DoubleClick may also place or recognize unique Cookies on your browser. Information about your visit to ThirdAge.com, such as number of times you have viewed an ad (but not your name, address or other personal information), is used to serve ads to you. For more information about DoubleClick, cookies and how to "opt-out," please click [here](http://www.doubleclick.net/us/corporate/privacy). 
