@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ingrammicro.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215065709id_/http%3A//www.ingrammicro.com/us/0%2C%2C15179_15106_15107_15108%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ingrammicro.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615103804id_/http%3A//www.ingrammicro.com/us/0%2C%2C15179_15106_15107_15108%2C00.html) for the most accurate reproduction.*
 
 # Ingram Micro: Privacy Statement
 
