@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the dallascounty.org privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231135106id_/http%3A//www.dallascounty.org/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dallascounty.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615222106id_/http%3A//www.dallascounty.org/privacypolicy.html) for the most accurate reproduction.*
 
-# Dallas County Privacy Policy
-
-### **PRIVACY POLICY**
-
-* * *
-
-**Welcome**
+# 
 
 Thank you for visiting the Dallas County Online Portal. This website is designed to make it easier and more efficient for Dallas County citizens and businesses to interact with their local government. Like all online resources, we recognize that visitors to this website are concerned about their privacy. Dallas County is committed to preserving your privacy when visiting this website. 
 
@@ -70,6 +64,3 @@ Information provided on this website is intended to allow the public immediate a
 **Contact Information**
 
 For questions regarding the Privacy Policy please contact: [webmaster@dallascounty.org](mailto:webmaster@dallascounty.org)
-
-Policy Last Update Date: April 19, 2001  
-
