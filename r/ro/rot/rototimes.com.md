@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rototimes.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219155654id_/http%3A//www.cdmsports.com/member/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rototimes.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615202622id_/http%3A//www.cdmsports.com/memberservices/privacy_policy.php) for the most accurate reproduction.*
 
-# 
+# - Privacy Policy - CDM Fantasy Sports
 
 **CDM Privacy Policy And Related Terms and Conditions**
 
- **1.   Ownership.**
+**1.   Ownership.**
 
 This Web Site is owned and provided by CBC Distribution and Marketing, Inc. d/b/a CDM, Inc. (“CDM”). Your use of this Web Site and all other CDM Web Sites (“Sites”) is subject to the following terms, conditions, and policies of CDM. 
 
