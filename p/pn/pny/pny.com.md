@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pny.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217122637id_/http%3A//www.pny.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pny.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615025225id_/http%3A//www.pny.com/privacy.asp) for the most accurate reproduction.*
 
 # PNY
 
 |  | [Home](https://web.archive.org/default.asp "home")  
 ---|---  
-| [About PNY](https://web.archive.org/aboutPny/default.asp "About PNY")  
+| [About PNY/Jobs](https://web.archive.org/aboutPny/default.asp "About PNY")  
 | [Pressroom](https://web.archive.org/pressroom "Pressroom")  
 | [Support](https://web.archive.org/support "Support")  
 | [Products](https://web.archive.org/products "Products")  
