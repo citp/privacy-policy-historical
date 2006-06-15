@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the stjude.org privacy policy that was archived on 2005-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051210232929id_/http%3A//www.stjude.org/legal/0%2C2621%2C588_3178%2C00.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stjude.org privacy policy that was archived on 2006-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615221122id_/http%3A//stjude.org/legal/0%2C2621%2C588_3178%2C00.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -102,12 +102,13 @@ function setSourceCodeCookie(sCallingURL)
 	// we have name and value array
 
 	// look for sourceCode var and set cookie with value
-	for (var i=0; i<nMaxVars; i++) 
-	{
-		if (sName[i] == "sourceCode") 
-		{
+	for (var i=0; i<nMaxVars; i++) {
+		if (sName[i] == "sourceCode") {
 			// set cookie value
-			setCookie("sourceCode", sValue[i], "", "/", "stjude.org")
+			var exp = new Date();
+			var nowPlusOneWeek = exp.getTime() + (14 * 24 * 60 * 60 * 1000);
+			exp.setTime(nowPlusOneWeek);
+			setCookie("sourceCode", sValue[i], exp.toGMTString(), "/", "stjude.org");
 			return;
 		}
 	}
@@ -189,7 +190,7 @@ setSourceCodeCookie(parent.document.URL);
 					<li class="two"><a href="/news">News</a></li>
 					<li class="three"><a href="/donate">Donate Now</a></li>
 					<li class="four"><a href="https://www.stjude.org/contact">Contact Us</a></li>
-					<li class="five"><a href="http://www.stjude.org/catalog">Shop</a></li>
+					<li class="five"><a href="/catalog">Shop</a></li>
 					<li class="six"><a href="/espanol">En Español</a></li>
 				</ul>
 			</div>
@@ -230,7 +231,7 @@ setSourceCodeCookie(parent.document.URL);
 
 	<span class="crumbs"><a href="http://www.stjude.org">Home</a><span class="gT">&gt;</span><a href="http://www.stjude.org/aboutus">About St. Jude Home</a><span class="gT">&gt;</span><a href="http://www.stjude.org/legal/0,2621,588_3176,00.html">Legal FAQ</a><span class="gT">&gt;</span>Privacy Policy</span>
 </div>
-			
+
 			
 					
 
@@ -383,14 +384,14 @@ Memphis, TN 38105<br>
 
 
 			
-				<div id="printIcon"><a href="javascript:window.print();" onmouseout="window.status=''; return true" onmouseover="window.status='This page will be automatically formatted when you print'; return true"><span>Print</span></a> <a href="javascript:window.print()" onmouseout="window.status=''; return true" onmouseover="window.status='This page will be automatically formatted when you print'; return true"><img src="/StJude/CDA/Images/Global/print_icon.gif" alt="Print This Page"></a></div>
+				<div id="printIcon"><a href="javascript:OpenWindow('/Forms/email_a_friend?cid=4434&amp;wsid=588&amp;chid=3178&amp;subject=StJude.org - Privacy%20Policy%20Statement','emailstory','width=500,height=520,scrollbars=no,location=no,directories=no,status=no,menubar=no,toolbar=no,resizable=yes')"><span>Email This Article</span></a> <a href="javascript:OpenWindow('/Forms/email_a_friend?cid=4434&amp;wsid=588&amp;chid=3178&amp;subject=Privacy%20Policy%20Statement','emailstory','width=500,height=520,scrollbars=no,location=no,directories=no,status=no,menubar=no,toolbar=no,resizable=yes')"><img src="/StJude/CDA/Images/Global/email_icon.gif" border="0" alt=""></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="javascript:window.print();" onmouseout="window.status=''; return true" onmouseover="window.status='This page will be automatically formatted when you print'; return true"><span>Print</span></a> <a href="javascript:window.print()" onmouseout="window.status=''; return true" onmouseover="window.status='This page will be automatically formatted when you print'; return true"><img src="/StJude/CDA/Images/Global/print_icon.gif" alt="Print This Page"></a></div>
+
 			
 		</div>
 		
 		
-		<div id="footer">
-			© 2005. St. Jude Children's Research Hospital.&nbsp;
-			
+		<div id="footer" align="center">
+		
 
 
 
@@ -478,9 +479,10 @@ Memphis, TN 38105<br>
 
 
 
+<!--Disclaimer / Copyright Statement-->
 <a href="/legal/0,2621,588_3177,00.html">Disclaimer / Registrations / Copyright Statement</a>
 
-			&nbsp;
+			<span class="pipe"> &nbsp;|&nbsp;</span>
 			
 
 
@@ -569,9 +571,10 @@ Memphis, TN 38105<br>
 
 
 
+<!--Privacy Policy-->
 <a href="/legal/0,2621,588_3178,00.html">Privacy Policy</a>
 
-			&nbsp;
+			<span class="pipe"> &nbsp;|&nbsp;</span>
 			
 
 
@@ -660,9 +663,10 @@ Memphis, TN 38105<br>
 
 
 
+<!--Notice of Privacy Practices-->
 <a href="/legal/0,2621,588_3791,00.html">Notice of Privacy Practices</a>
 
-			&nbsp;
+			<span class="pipe"> &nbsp;|&nbsp;</span>
 			
 
 
@@ -751,9 +755,10 @@ Memphis, TN 38105<br>
 
 
 
+<!--Linking Policy-->
 <a href="/legal/0,2621,588_4400,00.html">Linking Policy</a>
 
-			&nbsp;
+			 <span class="pipe"> &nbsp;|&nbsp;</span>
             
 
 
@@ -842,9 +847,102 @@ Memphis, TN 38105<br>
 
 
 
+<!--Parental Notification-->
+<a href="/legal/0,2621,588_5584,00.html">Parental Notification</a>
+
+            <span class="pipe"> &nbsp;|&nbsp;</span>
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--Help-->
 <a href="/legal/0,2621,588_5465,00.html">Help</a>
 
-		</div>
+                      <div id="footerCopyright"> © Copyright 2006. St. Jude Children's Research Hospital.&nbsp; </div>
 
 		<div id="extra">
 			<img src="/StJude/CDA/Images/Global/stjude_print_header.gif">
@@ -860,4 +958,4 @@ Memphis, TN 38105<br>
 
 
 
-</body></html>
+</div></body></html>
