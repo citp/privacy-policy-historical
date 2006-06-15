@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thegreenguide.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222211613id_/http%3A//www.thegreenguide.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegreenguide.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615061825id_/http%3A//thegreenguide.com/about/privacy) for the most accurate reproduction.*
 
-# The Green Guide: Privacy Statement
+# The Green Guide
 
 |  | 
 
@@ -88,22 +88,4 @@ _July 1, 2002:_ Document language finalized and published.
 
 _November 23, 2004_ Document amended.
 
-|  |  |  |    |  |  |  | 
-
-[](https://web.archive.org/subscribe)
-
-Got a Question for _The Green Guide_? 
-
-[](https://web.archive.org/greenguidance.mhtml)
-
-[](https://web.archive.org/ad/click.mhtml?c=welovehome) [](https://web.archive.org/ad/click.mhtml?c=lagniappe)
-
-[](https://ssl.thegreenguide.com/cart/)
-
-[Click here](https://web.archive.org/about/coupons) for over $350 worth of COUPONS for popular green products! 
-
-[](https://ssl.thegreenguide.com/donate/)
-
-_thegreenguide.com_ meets the [Consumer WebWatch](http://www.consumerwebwatch.org/bestpractices/) guidelines promoting credible information practices on the Web. 
-
-|  | 
+|  |  |  |    |  |  |  |  |  | 
