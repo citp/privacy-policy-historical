@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brickshelf.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223072841id_/http%3A//brickshelf.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brickshelf.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616010717id_/http%3A//www.brickshelf.com/privacy.html) for the most accurate reproduction.*
 
 # Brickshelf.com Privacy Policy
 
