@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reunion.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216111453id_/http%3A//www.reunion.com/site-root/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reunion.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615020011id_/http%3A//www.reunion.com/site-root/privacypolicy.jsp) for the most accurate reproduction.*
 
 # Reunion.com - Reunite With Old High School Friends and Old Flames Today!
 
@@ -21,7 +21,7 @@ Please keep in mind that whenever you voluntarily provide information in public 
 This Privacy Policy is available to users on this page for you to read. This Privacy Policy may be updated and modified from time to time to reflect new features, services and options, as well as any other changes with regard to the use of personal information. Users will be notified by a notice on the home pages of the Reunion.com Sites of any significant update to our Privacy Policy. By registering as a member of a Reunion.com Site, you agree to accept this Privacy Policy and are aware that our policy may change over time. Continued use of the Reunion.com Site or other Reunion.com services will signify that you agree to these changes. **About Children**  
 Children under 13. The Reunion.com Sites are not directed to children under the age of 13. The Reunion.com Sites prohibits registration by and will not knowingly collect personally identifiable information from anyone under 13. This requirement will be posted at points of data collection within the Reunion sites, such as registration for services.
 
-Note to Parents. If you have any concerns about the Reunion.com Sites or its related services, please contact us by clicking here.
+Note to Parents. If you have any concerns about the Reunion.com Sites or its related services, please contact us by [clicking here.](http://help.reunion.com/selfhelp/)
 
  **Information Collection and Use**  
 Below are more details about the information the Reunion.com Sites gather from you and how we use it.
@@ -66,7 +66,7 @@ Our Affiliates Sites. You should be aware that when you are on a Reunion.com sit
 **Linking to Other Sites.** You may also visit independent web sites, not operated by Reunion.com, that are connected to our network for our users. Such sites are operated by external, third-party service providers. Some of these sites will have their own separate membership processes and privacy policies. The Reunion.com Sites do not control sites that are operated by others and so cannot be responsible for the information practices of these sites. Other sites may set their own cookies, collect data or solicit personal information. It is always a good idea to check the Privacy Policy and Terms of Use of any site before offering any of your personal information. 
 
 **Third-Party Advertising**  
-**Third Party Advertising.** We use ad serving technology and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here http://www.networkadvertising.org/optout_nonppii.asp.   
+**Third Party Advertising.** We use ad serving technology and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here.](http://www.networkadvertising.org/optout_nonppii.asp)   
 Third Party Cookies. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser. **Security**  
 The Reunion.com Sites use diligent efforts to protect the security and integrity of the information you provide to us once it is received on our systems. However, when you submit information about yourself to the Reunion.com Sites over the Internet, the information may travel over many systems that are not under the control of Reunion.com. We take the protection of user data very seriously and to that end provide extra assurances that your information will not be intercepted. In the case of shopping pages, for example, the credit card information you submit is protected by secure servers.
 
@@ -82,7 +82,7 @@ We reserve the right to send you customary business communications (i.e. renewal
 > • Special Offers E-Mail: You may cancel participation in the special offers email by following the instructions at the bottom of each email.
 
 **Still Have Questions?**  
-If you have any other questions about the Reunion.com Privacy Policy, please contact us by clicking here or write to us at:
+If you have any other questions about the Reunion.com Privacy Policy, please contact us by [clicking here](http://help.reunion.com/selfhelp/) or write to us at:
 
 **Reunion.com, Inc.  
 Attn: Privacy Policy Officer**  
