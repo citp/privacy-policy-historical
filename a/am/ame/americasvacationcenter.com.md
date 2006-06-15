@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americasvacationcenter.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231094705id_/http%3A//www.americasvacationcenter.com/internal/about.cfm%3FAction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americasvacationcenter.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615110513id_/http%3A//www.americasvacationcenter.com/internal/about.cfm%3FAction%3Dprivacy) for the most accurate reproduction.*
 
 # America's Vacation Center - Discount Cruises, Last Minute Cruises, Caribbean Cruises, Mexico Cruises, Alaska Cruises, Hawaii Cruises, Europe Cruises
 
