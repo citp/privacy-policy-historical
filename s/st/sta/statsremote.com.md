@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statsremote.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231004226id_/http%3A//www.statsremote.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statsremote.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615160643id_/http%3A//statsremote.com/privacy.php) for the most accurate reproduction.*
 
 # StatsRemote :: Privacy Policy :: Your privacy is important to us.
 
