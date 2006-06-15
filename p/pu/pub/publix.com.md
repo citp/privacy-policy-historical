@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publix.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220012105id_/http%3A//publix.com/PrivacyPolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publix.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615225217id_/http%3A//www.publix.com/PrivacyPolicy.do) for the most accurate reproduction.*
 
 # Publix Privacy Policy
 
@@ -11,11 +11,14 @@ Publix and its affiliates are the sole owners of the information collected; exce
 
 The Publix [Apron's](http://www.publix.com/aprons) portion of our site collects a minimal amount of required information from those users requesting a reservation for a Publix Apron's Cooking School class and those users opting in to our Cooking School's printed calendar and/or electronic communication distribution list.  This information is strictly used to process the reservation request or to send the user the requested materials and/or e-mails.  None of the required information and/or optional information collected on any Publix Apron's form is used for other purposes than those stated in this policy; however, Publix may use third parties to assist in providing certain services to users.  In the event that Publix utilizes a third party to provide such services, our contract with the third party will include obligations upon the third party to keep all information obtained during such contract confidential and secure.
 
-You should be aware, however, that Publix may share information provided through the Publix Preschool Pals portion of our Web site with third parties under contract with Publix in order to provide Publix Preschool Pals members with the benefits of membership. See the Publix Preschool Pals Child Privacy Notice for more detail. Also, Publix may share information provided when ordering Gift Cards online with third parties under contract with Publix in order to provide services related to the Gift Card purchase transactions.  Such contracts with third parties include obligations upon the third party to keep all information obtained during such contract confidential and secure.
+The Publix Web site also collects information from users requesting a free subscription to our Publix GrapeTM and Publix FamilyStyle® magazines, as well as our monthly Publix Wine Guide e-mail newsletter. This information is strictly used to process and fulfill the subscription request and/or to send the user the requested magazines and/or e-mails and to confirm that the users are of legal age to receive materials relating to wine and alcohol.  In addition, this section requests optional demographic information to use for internal marketing research to better serve Publix customers.
+
+You should be aware, however, that Publix may share information provided through the Publix Preschool Pals portion of our Web site with third parties under contract with Publix in order to provide Publix Preschool Pals members with the benefits of membership. See the Publix Preschool Pals Child Privacy Notice for more detail. Also, Publix may share information provided when ordering Gift Cards online with third parties under contract with Publix in order to provide services related to the Gift Card purchase transactions.  Such contracts with third parties include obligations upon the third party to keep all information obtained during such contract confidential and secure.
 
 In addition, you should be aware that Publix may use and disclose protected health information as permitted by applicable law, including the Privacy Rules under the Health Insurance Portability and Accountability Act of 1996. See the Publix Pharmacy Notice of Privacy Practices for more detail.
 
-Finally, you should be aware that the "Publix Photo Center presented by Snapfish" is a co-branded web site operated by Hewlett-Packard, doing business as Snapfish.  When you visit the Publix Photo Center presented by Snapfish, you will be leaving the Publix Web site.  Publix has no control over the privacy practices of Snapfish and a separate Privacy Policy governs the Publix Photo Center presented by Snapfish.  Consequently, you should review the Privacy Policy that is specifically located on the Publix Photo Center presented by Snapfish Web Site to ensure that you understand, and are comfortable with, how Snapfish collects, stores, retains, uses and shares your personally identifiable information.
+Finally, you should be aware that the "Publix Photo Center presented by Snapfish" is a co-branded web site operated by Hewlett-Packard, doing business as Snapfish.  When you visit the Publix Photo Center presented by Snapfish, you will be leaving the Publix Web site.  Publix has no control over the privacy practices of Snapfish and a separate Privacy Policy governs the Publix Photo Center presented by Snapfish.  Consequently, you should review the Privacy Policy that is specifically located on the Publix Photo Center presented by Snapfish Web Site to ensure that you understand, and are comfortable with, how Snapfish collects, stores, retains, uses and shares your personally identifiable information.  
+
 
 **Protection of Privacy of Children Younger than 13**  
 Publix does not target children under the age of 13 and does not expect to sell any of its products or services to children. Although Publix does not target children under the age of 13, we do collect certain information about children from their parents through the Publix Preschool Pals portion of our Web site. Publix's procedures with regard to this information can be found in the Publix Preschool Pals Child Privacy Notice.
@@ -137,6 +140,55 @@ Prescription Refill section:
 
 All information in the refill form is required in order to fulfill your prescription request. By filling out the refill form, you are consenting to receive e-mail or telephone calls from us or our agents. For more detail on our Pharmacy privacy practices, see the Publix Pharmacy Notice of Privacy Practices.  
 
+[Wine Guide](https://web.archive.org/clubs/wine/Home.do) section:
+
+_Publix Grape TM magazine subscription_
+
+  * Your name (required) - to use for customer contact purposes and to send your magazine  
+
+
+  * Your address (required) - to send your magazine  
+
+
+  * Your e-mail address (optional) - for sending monthly Publix Wine Guide e-mail newsletter  
+
+
+  * Certification of age (required) - to confirm that you are of legal age to receive materials related to wine and alcohol
+
+
+
+
+_Send an Article to a Friend Form_
+
+  * Your friend's name - to use to send your friend a link to the article   
+
+
+  * Your friend's e-mail address - to use to send your friend a link to the article   
+
+
+  * Your name - to use to send the e-mail with a link to the article from you  
+
+
+  * Your e-mail address - to use to send the e-mail with a link to the article from you
+
+
+
+
+[Clubs & Programs section:](https://web.archive.org/clubs/ClubsAndPrograms.do)
+
+_Publix FamilyStyle ® magazine subscription_
+
+  * Your name (required) - to use for customer contact purposes  
+
+
+  * Your address (required) - to send your magazine   
+
+
+  * Demographic information including current child and pet status, and how you heard about Publix FamilyStyle® magazine (optional) - for internal marketing research to allow us to better serve our customers.
+
+
+
+
 [Publix Gift Cards order form](http://www.publix.com/services/gift/GiftCertificates.do): 
 
   * E-mail address (required) - to send order confirmation e-mail.  
@@ -208,4 +260,4 @@ Please let us know if you have any questions about our Privacy Policy. Simply se
 **COPYRIGHT NOTICE**   
 Copyright© 2005 Publix Asset Management Company. All rights reserved. Any rights not expressly granted herein are reserved.  
 
-Last modified: 11/2005  
+Last modified: 03/2006  
