@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salaryexpert.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224235217id_/http%3A//www.salaryexpert.com/index.cfm%3FFuseAction%3DHome.Dsp_PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salaryexpert.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615021052id_/http%3A//www.salaryexpert.com/index.cfm%3FFuseAction%3DHome.Dsp_PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - SalaryExpert.com
 
