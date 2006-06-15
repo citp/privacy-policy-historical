@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sign-up.to privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220024008id_/http%3A//www.sign-up.to/html/consumer/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sign-up.to privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615040835id_/http%3A//sign-up.to/html/consumer/privacy.shtml) for the most accurate reproduction.*
 
 # Sign-Up.to >> Privacy Policy
 
-Sign-Up Technologies Limited (referred to in this Privacy Policy as "SuTL", "we", "us" or "our") is committed to protecting your privacy. This Privacy Policy explains how we use the information we collect about you through Sign-Up™, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy. This Privacy Policy forms part of the [Terms of Use](https://web.archive.org/web/20051220024008id_/http%3A//www.sign-up.to/html/consumer/terms.shtml)
+Sign-Up Technologies Limited (referred to in this Privacy Policy as "SuTL", "we", "us" or "our") is committed to protecting your privacy. This Privacy Policy explains how we use the information we collect about you through Sign-Up™, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy. This Privacy Policy forms part of the [Terms of Use](https://web.archive.org/web/20060615040835id_/http%3A//sign-up.to/html/consumer/terms.shtml)
 
 **1\. Contact details**
 
