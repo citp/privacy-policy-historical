@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the dog.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220114807id_/http%3A//www.dog.com/helpdesk/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dog.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615211030id_/http%3A//www.dog.com/helpdesk/privacy_policy.asp) for the most accurate reproduction.*
 
 # Helpdesk : Privacy Policy - Dog.com
 
-|  **Privacy Policy**
+|   
+---  
+[](https://www.scanalert.com/RatingVerify?ref=www.dog.com)  
+**Privacy Policy**
 
 Dog.com respects your privacy and we are committed to protecting it. Dog.com believes in keeping your information confidential. We only collect information from you when you specifically and knowingly provide such information. Any information we collect is used for the purpose of providing you with a more satisfying and personalized shopping and browsing experience. 
 
