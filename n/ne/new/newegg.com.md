@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newegg.com privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227103726id_/http%3A//www.newegg.com/CustomerService/PrivacySecurity.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newegg.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615204354id_/http%3A//www.newegg.com/CustomerService/PrivacySecurity.asp) for the most accurate reproduction.*
 
 # Newegg.com - Privacy Policy
 
@@ -6,7 +6,7 @@
 
 [](http://www.truste.org/ivalidate.php?url=www.newegg.com&sealid=101) This privacy statement covers the site [http://www.newegg.com](http://www.newegg.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site. 
 
-If you have questions or concerns regarding this statement, you should first contact Jeff R. Johnston, Newegg.com Webmaster, at [webmaster@newegg.com](mailto:webmaster@newegg.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first contact Newegg.com Webmaster, at [webmaster@newegg.com](mailto:webmaster@newegg.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
 **By displaying the TRUSTe trustmark, our website has agreed to inform you on:**
 
@@ -29,8 +29,15 @@ In order to process your orders placed on this website, you must first complete 
 **Order**  
 Most of the information collected in the registration process will be used to process orders. During the order process, you will have to provide financial information such as your credit card number, expiration date, money order, wire transfer or check information. This information is used for billing purposes and to fulfill your order. If we have trouble processing an order, we will use this contact information to get in touch with you. To properly process your credit card information, we must share your personal and financial information with the merchant bank for authorization and approval. This process is protected by an enhanced security system. See the Security section below for more details on security measures and procedures. We do not share your personal and financial information with any third parties, except those specified in the Sharing section of this policy. 
 
+  
+
+
 **Cookies**  
 We customize certain Web page content based upon your browser type and other information provided by our cookie. If you choose to reject the cookie, you can still browse our store but will be unable to use the shopping cart to buy merchandise. The Newegg.com shopping cart cannot function without cookies enabled so that the necessary information to process your order is retained. If you disable cookies, Newegg.com will be unable to accept your online order. We will not share any personally identifiable information provided by this cookie with any third party. We will, however, link data stored in cookies to the personally identifiable information you submitted while on our site. This allows us to personalize your shopping experience and discern user preferences to evoke subconscious feelings of familiarity and assurance. 
+
+Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. 
+
+This privacy statement covers the use of cookies by [Newegg.com](http://www.newegg.com/) only and does not cover the use of cookies by any advertisers. 
 
 **Log Files**  
 We use IP addresses to analyze trends, administer the site, track user movement, and gather broad demographic information for aggregate use. We do not link IP addresses to personally identifiable information, and we do not distribute or share IP information with any third parties. 
@@ -42,12 +49,16 @@ _FedEx Corporation_
 942 South Shady Grove Road  
 Memphis, TN 38120  
 1-800-GO-FEDEX  
-[www.fedex.com](http://www.fedex.com/) |  _US Postal Service Headquarters_  
+[www.fedex.com](http://www.fedex.com/) |  _UPS Corporate Headquarters_  
+55 Glenlake Parkway, NE  
+Atlanta , GA 30328  
+United States  
+[www.ups.com](http://www.ups.com/) |  _US Postal Service Headquarters_  
 475 L'Enfant Plaza, SW  
 Washington DC  
 1-800-ASK-USPS  
 [www.usps.com](http://www.usps.com/)  
----|---  
+---|---|---  
   
 We may frame or mask another web site so that the look, feel and interface simulate the experience of browsing a genuine Newegg.com web page. Extreme care and discretion is exercised when evaluating third party sites. We only brand third party sites if their organization applies stringent security and privacy practices which parallel our own commitment to safe online shopping. 
 
