@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mivu.org privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228134907id_/http%3A//www.mivu.org/content.cfm%3FID%3D21) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mivu.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615073030id_/http%3A//mivu.org/content.cfm%3FID%3D21) for the most accurate reproduction.*
 
 # Michigan Virtual University - Contact Us
 
@@ -12,9 +12,9 @@ This page describes the ways in which Michigan Virtual University, a Michigan no
 [www.mivu.org](http://www.mivu.org/) (and all sub-domains of mivu.org)  
 [www.mivhs.org](http://www.mivhs.org/)  
 [www.mois.org](http://www.mois.org/)  
-[wireless.mivu.org](http://wireless.mivu.org/)  
 [www.learnport.org](http://www.learnport.org/)  
-[www.mydreamexplorer.org](http://www.mydreamexplorer.org/)
+[www.mydreamexplorer.org](http://www.mydreamexplorer.org/)  
+[ace.mivu.org](http://ace.mivu.org/)
 
 We provide a variety of information, features, and functions (the “Services”) through these Web sites.
 
