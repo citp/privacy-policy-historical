@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flagstar.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220053403id_/http%3A//flagstar.com/inside/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flagstar.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615195133id_/http%3A//www.flagstar.com/inside/privacy_policy.jsp) for the most accurate reproduction.*
 
 # Flagstar Bank - Privacy Policy
 
@@ -41,10 +41,10 @@ Flagstar is committed to protecting the privacy of its customers. You can help b
   * Protect your account numbers, card numbers, PINs (personal identification numbers) and passwords. Never keep your PIN with your debit or credit card as it can provide access to your accounts if your card is lost or stolen.
   * Use caution when disclosing your account numbers, social security numbers, etc., to other persons. If someone calls you, explains the call is on behalf of Flagstar and asks for your account number, you should beware. Official Flagstar staff will have access to your information and will not need to ask for it.
   * Keep your information current. It is important that we have current information on how to reach you. If we detect potentially fraudulent or unauthorized activity or use of an account, we will attempt to contact you immediately. If your address or phone number changes, please let us know.
-  * Let us know if you have any questions. Please do not hesitate to call us \- we are here to serve you. Call 1-800-945-7700 or write us at Flagstar Bank, FSB, 5151 Corporate Drive, Troy, Michigan 48098.
+  * Let us know if you have any questions. Please do not hesitate to call us \- we are here to serve you. Call 1 (800) 634-6486 or write us at Flagstar Bank, FSB, 5151 Corporate Drive, Troy, Michigan 48098.
 
 
 
 This notice is provided pursuant to Title V of the Gramm-Leach-Bliley Act (GLBA) of 1999, 12 CFR 40.
 
-[Top of Page](https://web.archive.org/web/20051220053403id_/http%3A//flagstar.com/inside/privacy_policy_content.jsp#topofpage)
+[Top of Page](https://web.archive.org/web/20060615195133id_/http%3A//www.flagstar.com/inside/privacy_policy_content.jsp#topofpage)
