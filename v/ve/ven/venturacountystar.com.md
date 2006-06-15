@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the venturacountystar.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228053146id_/http%3A//web.venturacountystar.com/info/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the venturacountystar.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615212609id_/http%3A//web.venturacountystar.com/info/privacy.shtml) for the most accurate reproduction.*
 
-# VenturaCountyStar.com
+# Ventura County Star- Personal Finance
 
 **Privacy policy**
 
@@ -10,7 +10,11 @@ The purpose of our policy is to inform you about the types of information we gat
 
 Our site(s) may contain links to other web sites, including web sites directed to children. We have no control over the privacy practices or the content of any of our business partners, advertisers, sponsors or other sites to which we provide links from our sites. You should check the applicable privacy policy of the web site sponsor when linking to other web sites.
 
+**
+
 I. Information Which We Collect
+
+**
 
 We may request that you voluntarily supply us with personal information, including your e-mail address, postal address, home or work telephone number, credit card number (only if you choose to purchase a product online), for purposes such as correspondence, making a purchase, or participating in online contests, surveys or games. If you choose to give us personal information via the Internet that we or our business partners may need -- to correspond with you, process an order or provide you with a subscription, for example -- it is our intent to let you know how we will use such information.
 
@@ -22,15 +26,27 @@ We may require you to supply us with personal information (demographic informati
 
 In addition, users may complete a subscription form online in order to subscribe to the Ventura County Star. To subscribe, users must submit personal information in order for us to send the newspaper to you.
 
+**
+
 II. Use of User Information
+
+**
 
 We may perform statistical analyses of aggregate user behavior. This allows us to measure relative consumer interest in the various areas of our web sites for product development purposes. Any information we collect is used for its own internal purposes to improve the content of the web sites, to enhance users' experiences when visiting our site(s), to customize the content and/or layout of our pages, and to provide the services required by an individual user. We do not use personal identifying information for any reason that is not disclosed either in this Policy or at the time the information is requested. We never send e-mail to you unless you request a particular service, or consent to being contacted by e-mail. There are instances where you will have the opportunity to subscribe to an e-mail list that will send information about the site or our advertisers to your e-mail address, but this will be done only with your permission and consent
 
+**
+
 III. Disclosure to Third Parties
+
+**
 
 We do not share personal identifying information with any third party without your permission. We disclose only in aggregate form our statistical analyses or demographics of users to third parties, such as advertisers or other business partners. In some instances, we operate shared web sites with businesses affiliated with us. Our privacy policy will apply to these web sites, and our affiliates adhere to our privacy policy and will not share personal information with any third party without your permission. PLEASE BE AWARE that when you voluntarily disclose personal information (such as your name, e-mail address) in chat areas or bulletin boards to third parties, that information may be collected by others outside the control of us and may result in unsolicited messages from others.
 
+**
+
 IV. Accuracy of User Information
+
+**
 
 In order to ensure the accuracy of personal information provided for registration, you may return to the registration form online in order to change information you have provided at any time. Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed to feedback@VenturaCountyStar.com.com, or you can reach us by telephone at (805) 650-2900. You can also write us at:
 
@@ -41,15 +57,27 @@ Ventura, Calif. 93003
 
 These privacy policies are effective as of April 8, 1999\. We reserve the right to change this policy at any time, and will post any changes to this policy as soon as they go into effect.
 
+**
+
 V. Security of Information
+
+**
 
 We use our best efforts to ensure the security of personal information submitted by users. When collecting credit card information for online purchases, we offer secured-server transactions that encrypt your information in transit to thwart someone from intercepting it and misusing it. When we collect other information from our users, it is stored in an area where the general public does not have access to it.
 
+**
+
 VI. Opting-out
+
+**
 
 At any time while assessing our site(s), any user while online may "opt-out" of further e-mail contact from us (while still allowing access to our site(s)). For further information about opting-out, contact us at the e-mail address, postal address or telephone number stated above.
 
+**
+
 VII. Use of Materials
 
-The right to download and store or output the materials in our site(s) is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at [e-mail address]. To link to the full Terms of Use Agreement pertaining to use of our site(s), please [click here](https://web.archive.org/web/20051228053146id_/http%3A//web.venturacountystar.com/info/user.shtml).  
+**
+
+The right to download and store or output the materials in our site(s) is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at [e-mail address]. To link to the full Terms of Use Agreement pertaining to use of our site(s), please [click here](https://web.archive.org/web/20060615212609id_/http%3A//web.venturacountystar.com/info/user.shtml).  
 
