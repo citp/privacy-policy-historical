@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the health.gov.au privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211123147id_/http%3A//www.health.gov.au/internet/wcms/publishing.nsf/Content/privacy_security.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the health.gov.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615213914id_/http%3A//www.health.gov.au/internet/wcms/publishing.nsf/Content/privacy_security.htm) for the most accurate reproduction.*
 
 # Privacy and security
 
-   
-
-This page provides privacy and security information for users of the Department of Health and Ageing website. 
+Privacy and security information for users of the Department of Health and Ageing website. 
 
 * * *
 
@@ -19,6 +17,8 @@ This statement outlines our information gathering and dissemination practices fo
 ## Your email address
 
 When you visit this website, the Department of Health and Ageing will only record your email address if you send us a message by email, or if you register requesting notifications. Registration for notifications may be made initially by email, postal mail or facsimile. Your email address will only be used for the purpose for which you have provided it, and will not be added to any mailing lists without your prior consent by way of a specific request in writing. We will not use or disclose your email address for any other purpose, without your prior written consent. 
+
+Top of page
 
 ## Cookies
 
@@ -43,6 +43,8 @@ This information is analysed to show broken links in our website, bottlenecks, a
 
 No attempt will be made to identify anonymous users or their browsing activities unless legally compelled to do so, such as in the event of an investigation, where a law enforcement agency may exercise a warrant to inspect the Internet Service Provider's log files. 
 
+Top of page
+
 ## Links to other websites
 
 This website contains links to other sites. The Australian Government is not responsible for the privacy practices of any third parties nor are they responsible for the material contained in a website that is linked to this site.
@@ -52,6 +54,8 @@ This website contains links to other sites. The Australian Government is not res
 The Department of Health and Ageing applies a range of security controls to protect its website from unauthorised access. However, users should be aware that the World Wide Web is an insecure public network that gives rise to a potential risk that a user's transactions are being viewed, intercepted or modified by third parties or that files which the user downloads may contain computer viruses, disabling codes, worms or other devices or defects.
 
 The Commonwealth accepts no liability for any interference with or damage to a user's computer system, software or data occurring in connection with or relating to this web site or its use. Users are encouraged to take appropriate and adequate precautions to ensure that whatever is selected from this site is free of viruses or other contamination that may interfere with or damage the user's computer system, software or data.
+
+Top of page
 
 ## Queries, concerns and further information
 
