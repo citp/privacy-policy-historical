@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chambal.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220121033id_/http%3A//www.chambal.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chambal.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615064522id_/http%3A//www.chambal.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Chambal.com- Privacy Policy
 
