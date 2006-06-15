@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the portsmouth.co.uk privacy policy that was archived on 2005-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051018034233id_/http%3A//www.portsmouth.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portsmouth.co.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615042037id_/http%3A//portsmouth.co.uk/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Disclaimer - Portsmouth Today: News, Sport, Jobs, Property, Cars, Entertainments & More
 
