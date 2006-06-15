@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxim-ic.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230000053id_/http%3A//www.maxim-ic.com/legal/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxim-ic.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615212358id_/http%3A//www.maxim-ic.com/legal/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Statement - Maxim/Dallas
 
