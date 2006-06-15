@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the easily.co.uk privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212092158id_/http%3A//easily.co.uk/index.php3%3Fexe%3Dterms%26page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easily.co.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615211504id_/http%3A//easily.co.uk/index.php3%3Fexe%3Dterms%26page%3Dprivacy) for the most accurate reproduction.*
 
 # Easily.co.uk - Search domain names, domain name registration, email & web hosting servers
 
 **This website is provided by Easily Limited (also known as "Easily.co.uk")**.
 
-Easily Limited (hereinafter referred to as Easily) is committed to protecting the privacy of its customers. This privacy policy applies to the websites managed by Easily (including but not limited to easily.co.uk and easily.dialup.me.uk and all subdomains of these) as well as the services and products provided through those sites. From to time we may make alterations to our website and to the products and services provided through it. This, and our commitment to protecting the privacy of your personal information may result in periodic changes to the privacy policy. Any such changes will be posted on this page and we would ask that you refer back to it regularly in order to review any amendments.
+Easily Limited (hereinafter referred to as Easily) is committed to protecting the privacy of its customers. This privacy policy applies to the websites managed by Easily (including but not limited to easily.co.uk and all subdomains of these) as well as the services and products provided through those sites. From to time we may make alterations to our website and to the products and services provided through it. This, and our commitment to protecting the privacy of your personal information may result in periodic changes to the privacy policy. Any such changes will be posted on this page and we would ask that you refer back to it regularly in order to review any amendments.
 
 Use of the Easily websites and services indicates your consent to the collection and use of information as described below.
 
@@ -23,19 +23,17 @@ Easily will not, without your consent, divulge your personal information to a th
 
 **2.1** in order to register a domain name we are required to send your name, business name (if applicable), postal address and email address to organisations that formally record the registration; this information may be available to others via a "Whois" search;
 
-**2.2** in order to connect you to the internet using our dialup service, we need to pass your username and password only to our upstream connectivity partner. We do not pass them your name or email address details;
+**2.2** if required to do so by law or by any organisation with appropriate authority;
 
-**2.3** if required to do so by law or by any organisation with appropriate authority;
+**2.3** if you have signed up for optional services which require us to pass your personal information to another company (see "Optional Services" below);
 
-**2.4** if you have signed up for optional services which require us to pass your personal information to another company (see "Optional Services" below);
+**2.4** to any financial institution with whom we hold an account for the purpose of verifying credit status and / or validating financial transactions;
 
-**2.5** to any financial institution with whom we hold an account for the purpose of verifying credit status and / or validating financial transactions;
+**2.5** we may provide aggregate statistics about our sales, customers, traffic patterns and other site information to third parties, but these statistics will not include any information that could personally identify you;
 
-**2.6** we may provide aggregate statistics about our sales, customers, traffic patterns and other site information to third parties, but these statistics will not include any information that could personally identify you;
+**2.6** in order to assist us in understanding our customer base some anonymous information (i.e not name or specific address) may from time to time be passed on to a third party for data analysis. If you do not wish your details to be utilised in this way you should follow the instructions on the page where you submit your details or contact the helpdesk;
 
-**2.7** in order to assist us in understanding our customer base some anonymous information (i.e not name or specific address) may from time to time be passed on to a third party for data analysis. If you do not wish your details to be utilised in this way you should follow the instructions on the page where you submit your details or contact the helpdesk;
-
-**2.8** as part of a sale or transfer of the shares and/or assets of Easily Limited.
+**2.7** as part of a sale or transfer of the shares and/or assets of Easily Limited.
 
 Easily Limited is not responsible for the privacy practices of other companies or websites. 
 
@@ -45,7 +43,7 @@ Credit card payment for our services is processed by our secure payment service 
 
 4\. Easily Newsletter
 
-From time to time Easily will send newsletters to those customers who have opted to be included on our various customer mailing lists. New customers have the opportunity to decide to opt in or out of these mailing lists when they first sign up with us to create an account. Existing customers or other people who are interested in the newsletters may opt in or out on the easily.co.uk website or by sending an email request to our [helpdesk support team](https://web.archive.org/web/20051212092158id_/http%3A//easily.co.uk/index.php3?exe=contact). 
+From time to time Easily will send newsletters to those customers who have opted to be included on our various customer mailing lists. New customers have the opportunity to decide to opt in or out of these mailing lists when they first sign up with us to create an account. Existing customers or other people who are interested in the newsletters may opt in or out on the easily.co.uk website or by sending an email request to our [helpdesk support team](https://web.archive.org/web/20060615211504id_/http%3A//easily.co.uk/index.php3?exe=contact). 
 
 5\. Optional Services
 
@@ -71,7 +69,7 @@ The Easily website contains advertising and links to other websites. No personal
 
 10\. Changes to Personal Information
 
-If you need to change the information that we keep, for example because you have moved or to correct an error, please [contact us](https://web.archive.org/web/20051212092158id_/http%3A//easily.co.uk/index.php3?exe=contact). 
+If you need to change the information that we keep, for example because you have moved or to correct an error, please [contact us](https://web.archive.org/web/20060615211504id_/http%3A//easily.co.uk/index.php3?exe=contact). 
 
 11\. Consent
 
