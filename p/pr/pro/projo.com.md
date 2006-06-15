@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the projo.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230110220id_/http%3A//www.projo.com/cgi-bin/include.pl/registration/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projo.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615042210id_/http%3A//www.projo.com/cgi-bin/include.pl/registration/privacy.htm) for the most accurate reproduction.*
 
 # Rhode Island news | projo.com | The Providence Journal
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.projo.com/home/1451517000/Left/default/empty.gif/7a2f4869356c343035444141426c7872?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.projo.com/home/2066667185/Left/default/empty.gif/7a2f4868396c343035446741434c6f65?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.projo.com/home/1901238952/Left1/default/empty.gif/7a2f4869356c343035444141426c7872?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.projo.com/home/1218629863/Left1/default/empty.gif/7a2f4868396c343035446741434c6f65?x)
 
 | 
 
@@ -131,8 +131,11 @@ This Privacy Policy is effective as of June 1, 2005. Belo reserves the right to 
 
 | 
 
-Advertising 
+Advertising
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.projo.com/home/1195667697/Position1/default/empty.gif/7a2f4869356c343035444141426c7872?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.projo.com/home/684281317/Position1/default/empty.gif/7a2f4868396c343035446741434c6f65?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.projo.com/home/528479518/Position2/default/empty.gif/7a2f4869356c343035444141426c7872?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.projo.com/home/1346345705/Position2/default/empty.gif/7a2f4868396c343035446741434c6f65?x)
+
+  
+
