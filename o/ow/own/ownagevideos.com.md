@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ownagevideos.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228110237id_/http%3A//www.ownagevideos.com/page.php%3Fid%3D63) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ownagevideos.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615054150id_/http%3A//www.ownagevideos.com/page.php%3Fid%3D63) for the most accurate reproduction.*
 
-# OwnageVideos.com - Privacy Policy
+# Ownagevideos.com - Privacy Policy
 
 OwnageVideos.com Privacy Policy 
 
