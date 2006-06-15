@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shop4tech.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219215404id_/http%3A//www.shop4tech.com/page50/category/Shop4Tech%2520Promises) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shop4tech.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615192228id_/http%3A//www.shop4tech.com/page50/category/Shop4Tech%2520Promises) for the most accurate reproduction.*
 
-# DVD Case, Blank DVD and DVD-R at Shop 4 Tech: Ink Cartridges, DVD Media, Printer Ink
+# DVD Media, CD Media | Shop4tech
 
 **Leda Multimedia Inc** has created this privacy statement in order to demonstrate its firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: **Shop 4tech.com.**
 
