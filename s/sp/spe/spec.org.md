@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spec.org privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225064520id_/http%3A//www.spec.org/spec/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spec.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615214828id_/http%3A//www.spec.org/spec/privacy_policy.html) for the most accurate reproduction.*
 
 # SPEC Privacy Policy
 
@@ -26,7 +26,7 @@ Your privacy is important, to you, to us, to anyone you may come in contact with
 
 This notice applies to all information collected or submitted on the SPEC web site.
 
-We do not commonly use cookies, or other session tracking methods, on this web site.
+We do not commonly use cookies, or other session tracking methods, on this web site. However, some of our downloads ask a short survey and we do use a cookie to record whether or not the user has already completed this survey. This cookie can be refused or deleted with no ill effect other than being asked to re-fill the survey upon the next download.
 
 Our comment and survey forms request your name and an email address that can be used to contact you.
 
@@ -62,4 +62,4 @@ You can correct factual errors in your personally identifiable information by se
 
 ##  How To Contact Us 
 
-Should you have other questions or concerns about these privacy policies, please [contact us](https://web.archive.org/spec/contact.html) or send us an email at [info@spec.org](https://web.archive.org/web/20051225064520id_/http%3A//www.spec.org/spec/&#109;ailto&#58;info&#64;spec&#46;&#111;rg).
+Should you have other questions or concerns about these privacy policies, please [contact us](https://web.archive.org/spec/contact.html) or send us an email at [info@spec.org](mailto:info@spec.org).
