@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mapsofworld.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231090420id_/http%3A//www.mapsofworld.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapsofworld.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615023512id_/http%3A//mapsofworld.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - MapsOfWorld.com
+
+**Privacy Policy**
 
 We at MapsOfWorld.com a subsidiary of Compare Infobase Pvt. Ltd are committed to safeguarding your online privacy. Please do read the following policy to understand how your private information will be treated while you make full use of our e-shopping or other offerings. This policy may change from time to time so please come back to check periodically. Compare Infobase Pvt. Ltd or its subsidiary MapsOfWorld.com may collect the information explained herein under. 
 
@@ -11,6 +13,20 @@ MapsOfWorld.com may ask you for personal information at times, including, but no
 
 **2\. What are cookies and how MapsOfWorld.com uses them?**  
 As combined part of offering and providing customised and personalised services, MapsOfWorld.com may use cookies to store and track your information. A cookie is a miniscule amount of data that is sent to your browser from a Web server that may be stored on your computer's hard drive. If you choose to browse map images, routes and trip plans we will require that you accept cookies. 
+
+Generally, we use cookies to: 
+
+  * Cache your personalised settings for items such as route language and default country location. 
+  * Determine whether you are using a public computer so that any MapsOfWorld.com settings changed while using a public computer do not affect the next user's ability to use MapsOfWorld.com 
+  * Roughly Estimate our audience or browsers. Each fresh browser trying to access MapsOfWorld.com may be given a cookie. That maybe used to determine the extent of repeat usage by the user. 
+  * Assist us to track the number of visits to and business activities at the MapsOfWorld.com or MapsOfWorld.com store, and to track and process the items in your shopping basket. 
+  * Track your progress and number of entries or queries in some of our promotions, and contests. When a Compare Infobase-hosted promotion uses cookies, the information written to the cookie may be used to track the entries, submissions made, and status in prize drawings list. 
+  * Measure certain specific traffic patterns to the site, track the areas of MapsOfWorld.com network of Web sites visited, track the Web site or geographical location through which you came to MapsOfWorld.com and your visiting patterns in average. We use this research to understand our users' visit habits and browsing preferences of if they are similar or different from one another so that we can make each visit by you on MapsOfWorld.com better experience then last one. We may use this information to better the content, banners, and promotions that you and other users will be likely to see on our sites. 
+  * MapsOfWorld.com also collects geophysical IP addresses for system and server administration and to report visiting information to our advertisers. 
+  * Other advertising networks that may serve advertisings onto MapsOfWorld.com network may also use their own cookies. 
+  * MapsOfWorld.com and its advertisers may also use small pieces of code called 葬web beacons鋳 or electronic images that are sometime called "single-pixel GIF" to collect anonymous and average advertising patterns, such as counting hits, browser type, time spent viewing a page, type of page views, promotion views, or advertising responses. These "web beacons" may be used to deliver cookies that conform to our anonymous cookie policy. MapsOfWorld.com does not allow access or sell other advertisers or their advertising networks, information collected from you. 
+
+
 
 **3\. Who is collecting information?**  
 When you are visiting a MapsOfWorld.com site and are asked for personal information, you are sharing that information for use by MapsOfWorld.com alone, unless it is specifically stated otherwise. Some MapsOfWorld.com services may be offered in conjunction with a third partner. In order to provide this service to you, it may be necessary for us to share your personal information with our partner company. In such cases you will be notified prior to the time of the data collection or transfer. Where as if you do not want your data to be shared, you can choose not to allow the transfer of such data by not using that particular service at all. 
