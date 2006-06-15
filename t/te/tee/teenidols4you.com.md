@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teenidols4you.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223152500id_/http%3A//www.teenidols4you.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenidols4you.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615040848id_/http%3A//www.teenidols4you.com/privacy.html) for the most accurate reproduction.*
 
 # TeenIdols4You.com | Feedback Form
 
@@ -43,5 +43,6 @@ We use this information in order to analyze, manage and improve our Web site so 
 > **Third Party Sites**
 > 
 > Our Web site may contain links to other sites maintained by third parties unrelated to Teen Idols 4 You. While we of course attempt to link only to reputable sites, please be aware that we do not monitor and is in no way responsible for the content or privacy practices of any such third party sites.   
+  
   
 |  
