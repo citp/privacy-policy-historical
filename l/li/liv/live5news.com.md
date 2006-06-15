@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the live5news.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213212141id_/http%3A//www.wcsc.com/about_us/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the live5news.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615125340id_/http%3A//www.wcsc.com/about_us/privacy_policy.cfm) for the most accurate reproduction.*
 
 # Live 5 News > About Us
 
