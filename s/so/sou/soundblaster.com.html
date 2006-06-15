@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the soundblaster.com privacy policy that was archived on 2005-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051211002041id_/http%3A//www.soundblaster.com/legal/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the soundblaster.com privacy policy that was archived on 2006-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615020830id_/http%3A//soundblaster.com/legal/privacy.asp) for the most accurate reproduction.-->
 
 <html lang="en-ww"><head>
 			<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
@@ -10,9 +10,9 @@
 
 
 
-			<meta name="CREAF.dateCreated" content="12/10/2005 6:14:27 PM">
-			<meta name="CREAF.renderNode" content="216.61.164.103">
-			<meta name="CREAF.clientNode" content="209.237.238.177">
+			<meta name="CREAF.dateCreated" content="6/14/2006 9:08:30 PM">
+			<meta name="CREAF.renderNode" content="216.61.164.38">
+			<meta name="CREAF.clientNode" content="209.237.238.228">
 			<meta name="CREAF.lcsSetting" content="1_6_2">	
 			
 			<meta name="WT.cg_n" content="Legal">
@@ -23,7 +23,9 @@
 		
 			<title>Sound Blaster  - Purest Audio, Richest Sound</title>
 			
-			<script language="JavaScript" src="/inc/border/border_js_sb.asp"></script>
+			<link href="/css/menu.css" rel="stylesheet" type="text/css"> 
+			<link href="/css/SoundBlaster.css" rel="stylesheet" type="text/css"> 
+			<script language="JavaScript" src="/inc/border/menu_js_sb.asp"></script>
 			<script>
 				if (!NS4) {  //NS4 is defined in browser.js, as part of the browser detection
 					document.write("<LINK REL=\"STYLESHEET\" TYPE=\"text/css\" HREF=\"/css/soundblaster_1.css\">");
@@ -57,177 +59,94 @@
 		</head>
 		<body vlink="#0C0C7C" alink="#0C0C7C" topmargin="0" marginheight="0" marginwidth="0" leftmargin="0" bgcolor="#FFFFFF">
 		<!--- <span style="font-Family:Verdana;font-Size:7pt">lang: 1 country: 6 site:2</span> --->
-		
 		<script language="Javascript" type="text/javascript">
 <!--
+var us1, us2, eu1, eu2, as1, as2, i;
+var nav1 = new Array();
+var nav2 = new Array();
 
+for( i=0; i<8; i++ )
+{
+	nav1[i]=new Image();
+	nav2[i]=new Image();
+}
+nav1[0].src="http://www.soundblaster.com/images/menu/menubuttons/topnav_whatsnew_on.gif";
+nav1[1].src="http://www.soundblaster.com/images/menu/menubuttons/topnav_technology_on.gif";
+nav1[2].src="http://www.soundblaster.com/images/menu/menubuttons/topnav_support_on.gif";
+nav1[3].src="http://www.soundblaster.com/images/menu/menubuttons/topnav_shop_on.gif";
+nav1[4].src="http://www.soundblaster.com/images/menu/menubuttons/topnav_products_on.gif";
+nav1[5].src="http://www.soundblaster.com/images/menu/menubuttons/topnav_partners_on.gif";
+nav1[6].src="http://www.soundblaster.com/images/menu/menubuttons/topnav_home_on.gif";
+nav1[7].src="http://www.soundblaster.com/images/menu/menubuttons/topnav_applications_on.gif";
 
-	var us1, us2, eu1, eu2, as1, as2, i;
-	var nav1 = new Array();
-	var nav2 = new Array();
+nav2[0].src="http://www.soundblaster.com/images/menu/menubuttons/topnav_whatsnew_off.gif";
+nav2[1].src="http://www.soundblaster.com/images/menu/menubuttons/topnav_technology_off.gif";
+nav2[2].src="http://www.soundblaster.com/images/menu/menubuttons/topnav_support_off.gif";
+nav2[3].src="http://www.soundblaster.com/images/menu/menubuttons/topnav_shop_off.gif";
+nav2[4].src="http://www.soundblaster.com/images/menu/menubuttons/topnav_products_off.gif";
+nav2[5].src="http://www.soundblaster.com/images/menu/menubuttons/topnav_partners_off.gif";
+nav2[6].src="http://www.soundblaster.com/images/menu/menubuttons/topnav_home_off.gif";
+nav2[7].src="http://www.soundblaster.com/images/menu/menubuttons/topnav_applications_off.gif";
 
-	for( i=0; i<7; i++ )	{
-		nav1[i]=new Image();
-		nav2[i]=new Image();
-	}
+var menuArrow=new Image();
+var menuLine=new Image();
+menuArrow.src="/images/menu/dropdownmenu_arrow.gif";
+menuLine.src="http://www.soundblaster.com/images/menu/dropdownmenu_dottedline.gif";
 
-	us1=new Image();
-	eu1=new Image();
-	us2=new Image();
-	eu2=new Image();
-	as1=new Image();
-	as2=new Image();
+var nav_usefor_normal = new Array();
+var nav_usefor_mo = new Array();
+for ( i=0; i < 4; i++ )
+{
+	nav_usefor_normal[i] = new Image();	
+	nav_usefor_mo[i] = new Image();		
+}
+nav_usefor_mo[0].src='http://www.soundblaster.com/products/images/left_go_listenMO.gif';
+nav_usefor_mo[1].src='http://www.soundblaster.com/products/images/left_go_createMO.gif';
+nav_usefor_mo[2].src='http://www.soundblaster.com/products/images/left_go_gameMO.gif';
+nav_usefor_mo[3].src='http://www.soundblaster.com/products/images/left_go_movieMO.gif';						
+nav_usefor_normal[0].src='http://www.soundblaster.com/products/images/left_go_listen.gif';
+nav_usefor_normal[1].src='http://www.soundblaster.com/products/images/left_go_create.gif';
+nav_usefor_normal[2].src='http://www.soundblaster.com/products/images/left_go_game.gif';
+nav_usefor_normal[3].src='http://www.soundblaster.com/products/images/left_go_movie.gif';							
 
-	us1.src="http://images.soundblaster.com//images/header/region1.gif";
-	us2.src="http://images.soundblaster.com//images/header/region1_mo.gif";
+function PreloadImage(strSrc)
+{
+	var obImg=new Image();
+	obImg.src=strSrc;
+}
 
-	eu1.src="http://images.soundblaster.com//images/header/region2.gif";
-	eu2.src="http://images.soundblaster.com//images/header/region2_mo.gif";
-
-	as1.src="http://images.soundblaster.com//images/header/region3.gif";
-	as2.src="http://images.soundblaster.com//images/header/region3_mo.gif";
-/*
-	nav1[0].src="http://images.soundblaster.com//images/header/nav1_home.gif";
-	nav1[1].src="http://images.soundblaster.com//images/header/nav2_prod.gif";
-	nav1[2].src="http://images.soundblaster.com//images/header/nav3_usefor.gif";
-	nav1[3].src="http://images.soundblaster.com//images/header/nav4_technology.gif";
-	nav1[5].src="http://images.soundblaster.com//images/header/nav5_support.gif";
-	nav1[6].src="http://images.soundblaster.com//images/header/nav6_shop.gif";
-
-	nav2[0].src="http://images.soundblaster.com//images/header/nav1_homeMO.gif";
-	nav2[1].src="http://images.soundblaster.com//images/header/nav2_prodMO.gif";
-	nav2[2].src="http://images.soundblaster.com//images/header/nav3_useforMO.gif";
-	nav2[3].src="http://images.soundblaster.com//images/header/nav4_technologyMO.gif";
-	nav2[5].src="http://images.soundblaster.com//images/header/nav5_supportMO.gif";
-	nav2[6].src="http://images.soundblaster.com//images/header/nav6_shopMO.gif";
-
-*/
-
-
-		var nav_usefor_normal = new Array();
-		var nav_usefor_mo = new Array();
-
-		var i;
-
-		for ( i=0; i < 4; i++ )
-			nav_usefor_normal[i] = new Image();	
-
-		for ( i=0; i < 4; i++ )
-			nav_usefor_mo[i] = new Image();		
-	
-		nav_usefor_mo[0].src='http://images.soundblaster.com//products/images/left_go_listenMO.gif';
-		nav_usefor_mo[1].src='http://images.soundblaster.com//products/images/left_go_createMO.gif';
-		nav_usefor_mo[2].src='http://images.soundblaster.com//products/images/left_go_gameMO.gif';
-		nav_usefor_mo[3].src='http://images.soundblaster.com//products/images/left_go_movieMO.gif';						
-
-		nav_usefor_normal[0].src='http://images.soundblaster.com//products/images/left_go_listen.gif';
-		nav_usefor_normal[1].src='http://images.soundblaster.com//products/images/left_go_create.gif';
-		nav_usefor_normal[2].src='http://images.soundblaster.com//products/images/left_go_game.gif';
-		nav_usefor_normal[3].src='http://images.soundblaster.com//products/images/left_go_movie.gif';							
-	
-
-	
-	
 function changeImage( img1, img2 )
-	{
-		if (document.images) {
-			img1.src = img2.src;
-		}
-
+{
+	if (document.images) {
+		img1.src = img2.src;
 	}
 
+}
 
 var popUpWin = 0;
-
 function popUpWindow(URLStr, width, height)
 {
 	var l=(screen.width-width)/2;
 	var t=(screen.height-height)/2;
-
 	if(popUpWin)
 	{
-	if(!popUpWin.closed) popUpWin.close();
+		if(!popUpWin.closed) popUpWin.close();
 	}
-	
-	
-	popUpWin = open(	URLStr,
-		  			'popUpWin',
-					'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbar=no,resizable=no,copyhistory=yes,width='+width+',height='+height+',left='+l+',top='+t+',screenX='+l+',screenY='+t+',background-color:red');
+	popUpWin = open(URLStr,'popUpWin','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbar=no,resizable=no,copyhistory=yes,width='+width+',height='+height+',left='+l+',top='+t+',screenX='+l+',screenY='+t+',background-color:red');
 }
 		
 //-->
 </script>			
  
- 
- 
-<center>
-<table width="760" cellspacing="0" cellpadding="0" border="0" id="Table1">
-	<tbody><tr valign="top">
-		<td width="118" rowspan="2"><a href="/"><img src="http://images.soundblaster.com//images/header/SB_logo.gif" width="118" height="67" alt="Sound BLASTER" border="0"></a></td>
-		<td width="37"><img src="http://images.soundblaster.com//images/header/arrow.gif" width="37" height="32" alt=">>" border="0"></td>
-		<td width="462"><img src="http://images.soundblaster.com//images/header/SB_tag.gif" width="462" height="32" alt="GAMES, MUSIC AND MOVIES SOUND BEST ON SOUND BLASTER" border="0"></td>
-		<td width="21"><img src="http://images.soundblaster.com//images/header/SB_tag2.gif" width="21" height="32" alt="" border="0"></td>
-		<td width="122"><a href="http://www.creative.com/"><img src="http://images.soundblaster.com//images/header/creat_logo.gif" width="122" height="32" alt="CREATIVE" border="0"></a></td>
-	</tr>
-	<tr><td colspan="4" valign="middle"><img src="http://images.soundblaster.com//images/header/tile1.gif" width="641" height="35" alt="" border="0"><img src="http://images.soundblaster.com//images/header/tile_end.gif" width="1" height="35" alt="" border="0"></td>
-	</tr>
-</tbody></table>
-
-
-<table width="760" cellspacing="0" cellpadding="0" border="0" id="Table2">
-	<tbody><tr valign="top">
-		<td rowspan="2" width="191"><a href="/scripts/changeregion.asp?reg=1" onmouseover="changeImage( us, us2 )" onmouseout="changeImage( us, us1 )"><img src="http://images.soundblaster.com//images/header/region1.gif" width="81" height="39" alt="AMERICAS" border="0" name="us"></a><a href="/scripts/changeregion.asp?reg=2" onmouseover="changeImage( eu, eu2 )" onmouseout="changeImage( eu, eu1 )"><img src="http://images.soundblaster.com//images/header/region2.gif" width="57" height="39" alt="EUROPE" border="0" name="eu"></a><a href="/scripts/changeregion.asp?reg=3" onmouseover="changeImage( as, as2 )" onmouseout="changeImage( as, as1 )"><img src="http://images.soundblaster.com//images/header/region3.gif" width="53" height="39" alt="ASIA" border="0" name="as"></a></td>
-		<td width="299"><img src="http://images.soundblaster.com//images/header/tile_orange.gif" width="299" height="17" alt="" border="0"></td>
-		<td width="270"><img src="http://images.soundblaster.com//images/header/tile_orange.gif" width="270" height="17" alt="" border="0"></td>
-	</tr>
-
-		<tr valign="top">
-			<td colspan="2" valign="top">
-			<table width="100%" align="center" border="0" cellpadding="0" cellspacing="0" id="Table1" height="22">
-			<tbody><tr>
-						<td valign="top" background="http://images.soundblaster.com//images/menu/menubuttons/menutopbackground.gif"><a href="/welcome.asp" id="menuanchor0"><img src="http://images.soundblaster.com//images/menu/menubuttons/home_1_6_2.gif" alt="HOME" id="menuButton0" hspace="0" vspace="0" border="0" onmouseover="buttonChange(this,'http://images.soundblaster.com//images/menu/menubuttons/homeover_1_6_2.gif');showMenu('menu0', 'menuanchor0', false);" onmouseout="buttonChange(this,'http://images.soundblaster.com//images/menu/menubuttons/home_1_6_2.gif');"></a></td>
-						
-						<td valign="top" background="http://images.soundblaster.com//images/menu/menubuttons/menutopbackground.gif"><a href="/products/" id="menuanchor1"><img src="http://images.soundblaster.com//images/menu/menubuttons/products_1_6_2.gif" alt="PRODUCTS" id="menuButton1" hspace="0" vspace="0" border="0" onmouseover="buttonChange(this,'http://images.soundblaster.com//images/menu/menubuttons/productsover_1_6_2.gif');showMenu('menu1', 'menuanchor1', false);" onmouseout="buttonChange(this,'http://images.soundblaster.com//images/menu/menubuttons/products_1_6_2.gif');"></a></td>
-						
-						<td valign="top" background="http://images.soundblaster.com//images/menu/menubuttons/menutopbackground.gif"><a href="/usefor/" id="menuanchor2"><img src="http://images.soundblaster.com//images/menu/menubuttons/usefor_1_6_2.gif" alt="USE FOR" id="menuButton2" hspace="0" vspace="0" border="0" onmouseover="buttonChange(this,'http://images.soundblaster.com//images/menu/menubuttons/useforover_1_6_2.gif');showMenu('menu2', 'menuanchor2', false);" onmouseout="buttonChange(this,'http://images.soundblaster.com//images/menu/menubuttons/usefor_1_6_2.gif');"></a></td>
-						
-						<td valign="top" background="http://images.soundblaster.com//images/menu/menubuttons/menutopbackground.gif"><a href="/technology/" id="menuanchor3"><img src="http://images.soundblaster.com//images/menu/menubuttons/technology_1_6_2.gif" alt="TECHNOLOGY" id="menuButton3" hspace="0" vspace="0" border="0" onmouseover="buttonChange(this,'http://images.soundblaster.com//images/menu/menubuttons/technologyover_1_6_2.gif');showMenu('menu3', 'menuanchor3', false);" onmouseout="buttonChange(this,'http://images.soundblaster.com//images/menu/menubuttons/technology_1_6_2.gif');"></a></td>
-						
-						<td valign="top" background="http://images.soundblaster.com//images/menu/menubuttons/menutopbackground.gif"><a href="/news/" id="menuanchor4"><img src="http://images.soundblaster.com//images/menu/menubuttons/soundbytes_1_6_2.gif" alt="SOUND BYTES" id="menuButton4" hspace="0" vspace="0" border="0" onmouseover="buttonChange(this,'http://images.soundblaster.com//images/menu/menubuttons/soundbytesover_1_6_2.gif');showMenu('menu4', 'menuanchor4', false);" onmouseout="buttonChange(this,'http://images.soundblaster.com//images/menu/menubuttons/soundbytes_1_6_2.gif');"></a></td>
-						
-						<td valign="top" background="http://images.soundblaster.com//images/menu/menubuttons/menutopbackground.gif"><a href="/support/" id="menuanchor5"><img src="http://images.soundblaster.com//images/menu/menubuttons/support_1_6_2.gif" alt="SUPPORT" id="menuButton5" hspace="0" vspace="0" border="0" onmouseover="buttonChange(this,'http://images.soundblaster.com//images/menu/menubuttons/supportover_1_6_2.gif');showMenu('menu5', 'menuanchor5', false);" onmouseout="buttonChange(this,'http://images.soundblaster.com//images/menu/menubuttons/support_1_6_2.gif');"></a></td>
-						
-						<td valign="top" align="right" background="http://images.soundblaster.com//images/menu/menubuttons/menutopbackground.gif"><a href="/shop/selectregion.asp?category=1" id="menuanchor6"><img src="http://images.soundblaster.com//images/menu/menubuttons/shop_1_6_2.gif" alt="SHOP" id="menuButton6" hspace="0" vspace="0" border="0" onmouseover="buttonChange(this,'http://images.soundblaster.com//images/menu/menubuttons/shopover_1_6_2.gif');showMenu('menu6', 'menuanchor6', false);" onmouseout="buttonChange(this,'http://images.soundblaster.com//images/menu/menubuttons/shop_1_6_2.gif');"></a></td>
-						
-			<td valign="top"><img src="http://images.soundblaster.com//images/menu/menubuttons/NAV_last.gif" width="102" height="22" alt="" border="0"></td>
-			</tr>		
-			</tbody></table>
-			</td>
-			
-		</tr>
-		</tbody></table><!-- sub menus here --><div class="top-menu"><table cellspacing="1" cellpadding="1" border="0" bgcolor="#999999" width="200" id="menu0" style="visibility: hidden;z-index: 50;position: absolute; text-align:left;"></table><table cellspacing="1" cellpadding="1" border="0" bgcolor="#999999" width="200" id="menu1" style="visibility: hidden;z-index: 50;position: absolute; text-align:left;"><tbody><tr bgcolor="#efefef" onmouseover="this.style.background='#aaaaaa'" onmouseout="this.style.background='#efefef'"><td align="left"><a href="/products/welcome.asp?category=1&amp;subcategory=208&amp;" class="menulink2">&nbsp;X-Fi</a></td></tr>
-<tr bgcolor="#efefef" onmouseover="this.style.background='#aaaaaa'" onmouseout="this.style.background='#efefef'"><td align="left"><a href="/products/welcome.asp?category=1&amp;subcategory=434&amp;" class="menulink2">&nbsp;Audigy 4</a></td></tr>
-<tr bgcolor="#efefef" onmouseover="this.style.background='#aaaaaa'" onmouseout="this.style.background='#efefef'"><td align="left"><a href="/products/welcome.asp?category=1&amp;subcategory=204&amp;" class="menulink2">&nbsp;Audigy 2</a></td></tr>
-<tr bgcolor="#efefef" onmouseover="this.style.background='#aaaaaa'" onmouseout="this.style.background='#efefef'"><td align="left"><a href="/products/welcome.asp?category=1&amp;subcategory=205&amp;" class="menulink2">&nbsp;Audigy</a></td></tr>
-<tr bgcolor="#efefef" onmouseover="this.style.background='#aaaaaa'" onmouseout="this.style.background='#efefef'"><td align="left"><a href="/products/welcome.asp?category=1&amp;subcategory=206&amp;" class="menulink2">&nbsp;Live!</a></td></tr>
-<tr bgcolor="#efefef" onmouseover="this.style.background='#aaaaaa'" onmouseout="this.style.background='#efefef'"><td align="left"><a href="/products/welcome.asp?category=1&amp;subcategory=207&amp;" class="menulink2">&nbsp;Others</a></td></tr>
-<tr bgcolor="#efefef" onmouseover="this.style.background='#aaaaaa'" onmouseout="this.style.background='#efefef'"><td align="left"><a href="/products/welcome.asp?category=1&amp;subcategory=16&amp;" class="menulink2">&nbsp;Accessories</a></td></tr>
-</tbody></table><table cellspacing="1" cellpadding="1" border="0" bgcolor="#999999" width="200" id="menu2" style="visibility: hidden;z-index: 50;position: absolute; text-align:left;"><tbody><tr bgcolor="#efefef" onmouseover="this.style.background='#aaaaaa'" onmouseout="this.style.background='#efefef'"><td align="left"><a href="/gaming/" class="menulink2">&nbsp;Gaming</a></td></tr>
-<tr bgcolor="#efefef" onmouseover="this.style.background='#aaaaaa'" onmouseout="this.style.background='#efefef'"><td align="left"><a href="/musiclistening/" class="menulink2">&nbsp;Music Listening</a></td></tr>
-<tr bgcolor="#efefef" onmouseover="this.style.background='#aaaaaa'" onmouseout="this.style.background='#efefef'"><td align="left"><a href="/musiccreation/" class="menulink2">&nbsp;Music Creation</a></td></tr>
-<tr bgcolor="#efefef" onmouseover="this.style.background='#aaaaaa'" onmouseout="this.style.background='#efefef'"><td align="left"><a href="/hometheater/" class="menulink2">&nbsp;Home Theater</a></td></tr>
-</tbody></table><table cellspacing="1" cellpadding="1" border="0" bgcolor="#999999" width="200" id="menu3" style="visibility: hidden;z-index: 50;position: absolute; text-align:left;"><tbody><tr bgcolor="#efefef" onmouseover="this.style.background='#aaaaaa'" onmouseout="this.style.background='#efefef'"><td align="left"><a href="/Milestones/" class="menulink2">&nbsp;Milestones</a></td></tr>
-<tr bgcolor="#efefef" onmouseover="this.style.background='#aaaaaa'" onmouseout="this.style.background='#efefef'"><td align="left"><a href="/eax/" class="menulink2">&nbsp;EAX / EAX ADVANCED HD</a></td></tr>
-<tr bgcolor="#efefef" onmouseover="this.style.background='#aaaaaa'" onmouseout="this.style.background='#efefef'"><td align="left"><a href="/mediasource/" class="menulink2">&nbsp;Creative MediaSource</a></td></tr>
-<tr bgcolor="#efefef" onmouseover="this.style.background='#aaaaaa'" onmouseout="this.style.background='#efefef'"><td align="left"><a href="/dvd-audio/" class="menulink2">&nbsp;DVD-Audio</a></td></tr>
-<tr bgcolor="#efefef" onmouseover="this.style.background='#aaaaaa'" onmouseout="this.style.background='#efefef'"><td align="left"><a href="/soundfont/" class="menulink2">&nbsp;SoundFont</a></td></tr>
-</tbody></table><table cellspacing="1" cellpadding="1" border="0" bgcolor="#999999" width="200" id="menu4" style="visibility: hidden;z-index: 50;position: absolute; text-align:left;"><tbody><tr bgcolor="#efefef" onmouseover="this.style.background='#aaaaaa'" onmouseout="this.style.background='#efefef'"><td align="left"><a href="/news/" class="menulink2">&nbsp;Latest News</a></td></tr>
-<tr bgcolor="#efefef" onmouseover="this.style.background='#aaaaaa'" onmouseout="this.style.background='#efefef'"><td align="left"><a href="/awards/" class="menulink2">&nbsp;Awards</a></td></tr>
-<tr bgcolor="#efefef" onmouseover="this.style.background='#aaaaaa'" onmouseout="this.style.background='#efefef'"><td align="left"><a href="/reviews/" class="menulink2">&nbsp;Reviews</a></td></tr>
-</tbody></table><table cellspacing="1" cellpadding="1" border="0" bgcolor="#999999" width="200" id="menu5" style="visibility: hidden;z-index: 50;position: absolute; text-align:left;"></table><table cellspacing="1" cellpadding="1" border="0" bgcolor="#999999" width="200" id="menu6" style="visibility: hidden;z-index: 50;position: absolute; text-align:left;"></table></div><!-- sub menus finish -->
-	
-
-
+	<center>
+	<map name="TopHeaderMap">
+		<area shape="rect" coords="13,7,125,62" href="/" style="cursor:hand;"> 
+		<area shape="rect" coords="687,3,754,16" href="http://www.creative.com" style="cursor:hand;" target="_blank">
+	</map>
+	<div class="MainBody"><img src="http://www.soundblaster.com/images/logo_header.gif" width="760" height="70" border="0" alt="Sound Blaster: Hear to believe" usemap="#TopHeaderMap"></div>
+	<!--?xml version="1.0" encoding="UTF-16"?--><div id="menu0" class="menu" style="z-index:999990"></div><div id="menu1" class="menu" style="z-index:999991"><a href="/products/x-fi/" target="_self" class="menuItem">Sound Blaster X-Fi</a><img src="http://www.soundblaster.com/images/menu/dropdownmenu_dottedline.gif" width="140" height="1" border="0" style="margin-left:5px;margin-right:5px;"><a href="/eax/" target="_self" class="menuItem">EAX ADVANCED HD</a><img src="http://www.soundblaster.com/images/menu/dropdownmenu_dottedline.gif" width="140" height="1" border="0" style="margin-left:5px;margin-right:5px;"><a href="/soundfont/" target="_self" class="menuItem">SoundFont</a><img src="http://www.soundblaster.com/images/menu/dropdownmenu_dottedline.gif" width="140" height="1" border="0" style="margin-left:5px;margin-right:5px;"><a href="/dvd-audio/" target="_self" class="menuItem">DVD-Audio</a><img src="http://www.soundblaster.com/images/menu/dropdownmenu_dottedline.gif" width="140" height="1" border="0" style="margin-left:5px;margin-right:5px;"><a href="/milestones/" target="_self" class="menuItem">Milestones</a><img src="http://www.soundblaster.com/images/menu/dropdownmenu_dottedline.gif" width="140" height="1" border="0" style="margin-left:5px;margin-right:5px;"></div><div id="menu2" class="menu" style="z-index:999992"><a href="/applications/gaming/" target="_self" class="menuItem">Gaming</a><img src="http://www.soundblaster.com/images/menu/dropdownmenu_dottedline.gif" width="140" height="1" border="0" style="margin-left:5px;margin-right:5px;"><a href="/applications/entertainment/" target="_self" class="menuItem">Entertainment</a><img src="http://www.soundblaster.com/images/menu/dropdownmenu_dottedline.gif" width="140" height="1" border="0" style="margin-left:5px;margin-right:5px;"><a href="/applications/audio_creation/" target="_self" class="menuItem">Audio Creation</a><img src="http://www.soundblaster.com/images/menu/dropdownmenu_dottedline.gif" width="140" height="1" border="0" style="margin-left:5px;margin-right:5px;"><a href="/applications/software/" target="_self" class="menuItem">Software</a><img src="http://www.soundblaster.com/images/menu/dropdownmenu_dottedline.gif" width="140" height="1" border="0" style="margin-left:5px;margin-right:5px;"><a href="http://www.creative.com/products/soundblaster/howto" target="_blank" class="menuItem">How-To</a><img src="http://www.soundblaster.com/images/menu/dropdownmenu_dottedline.gif" width="140" height="1" border="0" style="margin-left:5px;margin-right:5px;"></div><div id="menu3" class="menu" style="z-index:999993"><a href="/products/welcome.asp?category=1&amp;subcategory=208" target="_self" class="menuItem">X-Fi</a><img src="http://www.soundblaster.com/images/menu/dropdownmenu_dottedline.gif" width="140" height="1" border="0" style="margin-left:5px;margin-right:5px;"><a href="/products/welcome.asp?category=1&amp;subcategory=205" target="_self" class="menuItem">Audigy</a><img src="http://www.soundblaster.com/images/menu/dropdownmenu_dottedline.gif" width="140" height="1" border="0" style="margin-left:5px;margin-right:5px;"><a href="/products/welcome.asp?category=1&amp;subcategory=206" target="_self" class="menuItem">Live!</a><img src="http://www.soundblaster.com/images/menu/dropdownmenu_dottedline.gif" width="140" height="1" border="0" style="margin-left:5px;margin-right:5px;"><a href="/products/welcome.asp?category=1&amp;subcategory=207" target="_self" class="menuItem">Others</a><img src="http://www.soundblaster.com/images/menu/dropdownmenu_dottedline.gif" width="140" height="1" border="0" style="margin-left:5px;margin-right:5px;"><a href="/products/welcome.asp?category=1&amp;subcategory=16" target="_self" class="menuItem">Accessories</a><img src="http://www.soundblaster.com/images/menu/dropdownmenu_dottedline.gif" width="140" height="1" border="0" style="margin-left:5px;margin-right:5px;"></div><div id="menu4" class="menu" style="z-index:999994"><a href="/news/" target="_self" class="menuItem">Latest News</a><img src="http://www.soundblaster.com/images/menu/dropdownmenu_dottedline.gif" width="140" height="1" border="0" style="margin-left:5px;margin-right:5px;"><a href="/awards/" target="_self" class="menuItem">Awards</a><img src="http://www.soundblaster.com/images/menu/dropdownmenu_dottedline.gif" width="140" height="1" border="0" style="margin-left:5px;margin-right:5px;"><a href="/reviews/" target="_self" class="menuItem">Reviews</a><img src="http://www.soundblaster.com/images/menu/dropdownmenu_dottedline.gif" width="140" height="1" border="0" style="margin-left:5px;margin-right:5px;"><a href="/mailer/" target="_self" class="menuItem">Newsletter</a><img src="http://www.soundblaster.com/images/menu/dropdownmenu_dottedline.gif" width="140" height="1" border="0" style="margin-left:5px;margin-right:5px;"></div><div id="menu5" class="menu" style="z-index:999995"><a href="/fatal1ty/" target="_self" class="menuItem">Fatal1ty</a><img src="http://www.soundblaster.com/images/menu/dropdownmenu_dottedline.gif" width="140" height="1" border="0" style="margin-left:5px;margin-right:5px;"><a href="/partners/Gaming.asp" target="_self" class="menuItem">Gaming Partners</a><img src="http://www.soundblaster.com/images/menu/dropdownmenu_dottedline.gif" width="140" height="1" border="0" style="margin-left:5px;margin-right:5px;"></div><div id="menu6" class="menu" style="z-index:999996"></div><div id="menu7" class="menu" style="z-index:999997"></div><div class="MainBody"><table width="760" cellspacing="0" cellpadding="0" border="0" align="center" height="22"><tbody><tr><td><img src="http://www.soundblaster.com/images/menu/menubuttons/topnav_front.gif" hspace="0" vspace="0" border="0"></td><td valign="Top" background="http://www.soundblaster.com/images/menu/menubuttons/topnav_background.gif"><a href="/welcome.asp" id="menuanchor0" onmouseover="return buttonClick(event, 'menu0','http://www.soundblaster.com/images/menu/menubuttons/topnav_home_on.gif', 'http://www.soundblaster.com/images/menu/menubuttons/topnav_home_off.gif','NomenuButton');"><img src="http://www.soundblaster.com/images/menu/menubuttons/topnav_home_off.gif" id="menuButton0" alt="HOME" hspace="0" vspace="0" border="0"></a></td><td valign="Top" background="http://www.soundblaster.com/images/menu/menubuttons/topnav_background.gif"><a href="/technology/" id="menuanchor1" onmouseover="return buttonClick(event, 'menu1','http://www.soundblaster.com/images/menu/menubuttons/topnav_technology_on.gif', 'http://www.soundblaster.com/images/menu/menubuttons/topnav_technology_off.gif','menuButton');"><img src="http://www.soundblaster.com/images/menu/menubuttons/topnav_technology_off.gif" id="menuButton1" alt="TECHNOLOGY" hspace="0" vspace="0" border="0"></a></td><td valign="Top" background="http://www.soundblaster.com/images/menu/menubuttons/topnav_background.gif"><a href="/applications/" id="menuanchor2" onmouseover="return buttonClick(event, 'menu2','http://www.soundblaster.com/images/menu/menubuttons/topnav_applications_on.gif', 'http://www.soundblaster.com/images/menu/menubuttons/topnav_applications_off.gif','menuButton');"><img src="http://www.soundblaster.com/images/menu/menubuttons/topnav_applications_off.gif" id="menuButton2" alt="Applications" hspace="0" vspace="0" border="0"></a></td><td valign="Top" background="http://www.soundblaster.com/images/menu/menubuttons/topnav_background.gif"><a href="/products/" id="menuanchor3" onmouseover="return buttonClick(event, 'menu3','http://www.soundblaster.com/images/menu/menubuttons/topnav_products_on.gif', 'http://www.soundblaster.com/images/menu/menubuttons/topnav_products_off.gif','menuButton');"><img src="http://www.soundblaster.com/images/menu/menubuttons/topnav_products_off.gif" id="menuButton3" alt="PRODUCTS" hspace="0" vspace="0" border="0"></a></td><td valign="Top" background="http://www.soundblaster.com/images/menu/menubuttons/topnav_background.gif"><a href="/news/" id="menuanchor4" onmouseover="return buttonClick(event, 'menu4','http://www.soundblaster.com/images/menu/menubuttons/topnav_whatsnew_on.gif', 'http://www.soundblaster.com/images/menu/menubuttons/topnav_whatsnew_off.gif','menuButton');"><img src="http://www.soundblaster.com/images/menu/menubuttons/topnav_whatsnew_off.gif" id="menuButton4" alt="What's New" hspace="0" vspace="0" border="0"></a></td><td valign="Top" background="http://www.soundblaster.com/images/menu/menubuttons/topnav_background.gif"><a href="/partners/" id="menuanchor5" onmouseover="return buttonClick(event, 'menu5','http://www.soundblaster.com/images/menu/menubuttons/topnav_partners_on.gif', 'http://www.soundblaster.com/images/menu/menubuttons/topnav_partners_off.gif','menuButton');"><img src="http://www.soundblaster.com/images/menu/menubuttons/topnav_partners_off.gif" id="menuButton5" alt="Partners" hspace="0" vspace="0" border="0"></a></td><td valign="Top" background="http://www.soundblaster.com/images/menu/menubuttons/topnav_background.gif"><a href="/support/" id="menuanchor6" onmouseover="return buttonClick(event, 'menu6','http://www.soundblaster.com/images/menu/menubuttons/topnav_support_on.gif', 'http://www.soundblaster.com/images/menu/menubuttons/topnav_support_off.gif','NomenuButton');"><img src="http://www.soundblaster.com/images/menu/menubuttons/topnav_support_off.gif" id="menuButton6" alt="SUPPORT" hspace="0" vspace="0" border="0"></a></td><td valign="Top" background="http://www.soundblaster.com/images/menu/menubuttons/topnav_background.gif"><a href="/shop/selectregion.asp?category=1" id="menuanchor7" onmouseover="return buttonClick(event, 'menu7','http://www.soundblaster.com/images/menu/menubuttons/topnav_shop_on.gif', 'http://www.soundblaster.com/images/menu/menubuttons/topnav_shop_off.gif','NomenuButton');"><img src="http://www.soundblaster.com/images/menu/menubuttons/topnav_shop_off.gif" id="menuButton7" alt="SHOP" hspace="0" vspace="0" border="0"></a></td><td><img src="http://www.soundblaster.com/images/menu/menubuttons/topnav_background.gif" hspace="0" vspace="0" border="0"></td></tr></tbody></table></div><div class="MainBody"><img src="http://www.soundblaster.com/images/header_privacy_policy.gif" border="0" width="760" height="50" alt="Privacy"></div>
+		<div class="MainBody_2">
+		
 		<table width="760" align="center" border="0" cellpadding="0" cellspacing="0" style="layout:fixed">
 		<tbody><tr>
 			
@@ -267,10 +186,8 @@ function popUpWindow(URLStr, width, height)
 	}
 	
 	</style>
-
-<br>
-<table width="760" align="center" id="Table1">
-<tbody><tr><td>
+<table width="760" align="center" id="Table1" cellpadding="20">
+<tbody><tr><td style="color:#454444;">
 <p><b>CREATIVE'S ONLINE PRIVACY POLICY</b><br>
 Last revised March 18, 2005</p>
 <b>Overview</b>
@@ -475,7 +392,6 @@ USA<br>
 </tr>
 </tbody></table>
 </td></tr>
-
 </tbody></table>
 </td></tr>
 </tbody></table>
@@ -483,52 +399,24 @@ USA<br>
 
 		
 		
-		<!--
-		Lynn begin
+		</div>
 		
-		Lynn end
-		-->
-		
-		
-
-
-<br>
-	<table width="760" cellpadding="0" cellspacing="0" id="Table1">
-	<tbody><tr>
-		<td colspan="2"><img src="http://images.soundblaster.com//images/sb_footer.gif" width="764" height="24" alt="Get Engaged, Get Excited, Get Sound Blaster!"></td>
-	</tr>
-	<tr valign="top">
-		<td style="padding-left:3px"><font size="1" color="black" style="font-Size:7pt"><b>Copyright © 1998 - 2005 Creative Technology Ltd. All rights reserved.</b></font></td>
-		<td align="right"><font size="1" style="font-Size:7pt">
-			<a href="/legal/" class="copyright">Copyright &amp; Trademarks</a> |
-			<a href="/legal/tou.asp" class="copyright">Terms of Use</a> |
-			<a href="/legal/privacy.asp" class="copyright">Privacy Policy</a>
-			</font>
-		</td>
-	</tr>
+	<table width="760" cellpadding="0" cellspacing="0" border="0" style="margin-top:5px;">
+		<tbody><tr>
+			<td align="left" style="font-size:10px;font-family:Arial,Verdana;color:#5a5a5a;">
+				<a href="/legal/" class="copyright" style="text-decoration:none;">© 2006 Creative Technology Ltd. All rights reserved.</a>
+			</td>
+			<td align="right" style="font-size:10px;font-family:Arial,Verdana;color:#5a5a5a;">
+				<a href="/legal/privacy.asp" class="copyright">Privacy Policy</a> |
+				<a href="/legal/tou.asp" class="copyright">Terms of Use</a> |
+				<a href="/mailer/" class="Footer_subscribe">Subscribe to the Sound Blaster Newsletter</a>
+			</td>
+		</tr>
 	</tbody></table>
+	<br>
 
 
-<!--xx.xx.xx.103-->
-		<script>
-			var nObjCnt = 7;
-			
-			x0 = getObj("menu0");
-			
-			x1 = getObj("menu1");
-			
-			x2 = getObj("menu2");
-			
-			x3 = getObj("menu3");
-			
-			x4 = getObj("menu4");
-			
-			x5 = getObj("menu5");
-			
-			x6 = getObj("menu6");
-			
-			hasDivs = 1;
-		</script>
+<!--xx.xx.xx.38-->
 		<!-- processing finished - End Trans -->
 		<!-- START OF SmartSource Data Collector TAG -->
 <!-- WebTrends SmartSource Data Collector                  -->
