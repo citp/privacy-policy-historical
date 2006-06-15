@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ocgov.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219215224id_/http%3A//www.ocgov.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocgov.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615020959id_/http%3A//www.ocgov.com/privacy.asp) for the most accurate reproduction.*
 
 # County Of Orange - Privacy Policy
 
