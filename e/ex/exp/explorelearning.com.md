@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the explorelearning.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231220046id_/http%3A//www.explorelearning.com/index.cfm%3Fmethod%3DController.dspPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explorelearning.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615092123id_/http%3A//explorelearning.com/index.cfm%3Fmethod%3DController.dspPrivacy) for the most accurate reproduction.*
 
 # Privacy Policy | ExploreLearning
 
@@ -26,8 +26,9 @@ We generally use the aggregate data we collect to evaluate the extent to which t
 A cookie is a piece of data stored on the user's computer tied to information about the user. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. You can set your browser to notify you to either accept or deny the cookie according to the following information. 
 
   * IE6, see [Microsoft's Internet Explorer Web Privacy](http://www.microsoft.com/windows/ie/evaluation/overview/privacy.asp) page. 
+  * Firefox, see [Options/Preferences Window:Privacy Options](http://www.mozilla.org/support/firefox/options#privacy). 
   * Netscape 6, see [Netscape 6 - Safety with More Control](http://home.netscape.com/browsers/6/safety.html) . 
-  * Opera 5 or 6, see [Opera Preferences: Privacy](http://www.opera.com/support/resources/privacy.html). 
+  * Opera 5 or 6, see [Security and Privacy in Opera](http://www.opera.com/support/tutorials/security/privacy/index.dml). 
 
 
 
@@ -104,4 +105,4 @@ Phone: 434-293-7043
 
 ## Resolving Privacy Policy Disputes
 
-If you think we have not followed our privacy policy in some way, please contact us at for resolution. 
+If you think we have not followed our privacy policy in some way, please contact us for resolution. 
