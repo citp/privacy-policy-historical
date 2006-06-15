@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the usta.com privacy policy that was archived on 2005-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051220141048id_/http%3A//www.usta.com/site_services/custom.sps%3FiType%3D961%26icustompageid%3D1658) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the usta.com privacy policy that was archived on 2006-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615023511id_/http%3A//www.usta.com/site_services/custom.sps%3FiType%3D961%26icustompageid%3D1658) for the most accurate reproduction.-->
 
 <html><head>
 <link rel="P3Pv1" href="http://www.usta.com/w3c/p3p.xml">
@@ -10,7 +10,7 @@
 <meta name="title" content="Privacy Statement">
 <meta name="description" content="">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="timestamp" content="12/20/2005 2:10:46 PM">
+<meta name="timestamp" content="6/15/2006 2:35:04 AM">
 <script language="javascript">if (navigator.appName.indexOf("Netscape") != -1 && parseInt(navigator.appVersion) == 4){cssUrl = '/includes/css/stylen.css?a';}else{cssUrl = '/includes/css/style.css?a';}if (parseInt(navigator.appVersion) >=4){document.write('<link rel="stylesheet" hr'+'ef="' + cssUrl + '" type="text/css">');}</script><link rel="stylesheet" href="/includes/css/style.css?a" type="text/css"><noscript><link rel="stylesheet" type="text/css" href="/includes/css/style.css"></noscript>
 <link rel="stylesheet" type="text/css" href="/includes/css/poll.css">
 <script language="javascript" src="/js_script/brow.js?new"></script>
@@ -34,9 +34,6 @@ usta_reloadPage(true);
 
 <script language="JavaScript">var RMA_URL='http://rma.usta.com/publish.sps?syndicatorguid={56E5D9E8-9153-4839-89BD-41911967CF07}&rmasiteinstanceguid={F521D852-9041-489B-9D4E-E5F0FFC5DA2B}&rmapageid=1';</script>
 
-
-<title>Privacy Statement</title>
-
 <script language="javascript">
 
 
@@ -45,12 +42,152 @@ function launchLS() {
 	var largeur = 460;
   var top=(screen.height-hauteur)/2;
 	var left=(screen.width-largeur)/2;
-  var lien = "http://ls.daviscup.com/fc/2005/wg1/r1/launch-efrm.asp?tie=100007049";
+  var lien = "http://ls.daviscup.com/fc/2006/wg/r1/launch-efrm.asp?tie=100007794";
 	nFen = open(lien,"FedCupR1","top="+top+",left="+left+",toolbar=no,scrollbars=no,directories=no,menubar=no,width="+largeur+",height="+hauteur);
 }
 
 </script>
 
+<script type="text/javascript">
+	  	var gmyWin = null;
+
+		function myOpenWindow(winURL, winName, winFeatures, winObj)
+			{
+  			var theWin; // this will hold our opened window 
+  			// first check to see if the window already exists
+			if (winObj != null) {
+    			// the window has already been created, but did the user close it?
+    			// if so, then reopen it. Otherwise make it the active window.
+    			if (!winObj.closed) {
+      				winObj.focus();
+      				return winObj;
+    			} 
+    			// otherwise fall through to the code below to re-open the window
+  			}
+  			// if we get here, then the window hasn't been created yet, or it
+  			// was closed by the user.
+  			theWin = window.open(winURL, winName, winFeatures); 
+  			return theWin;
+		}
+</script>
+
+
+<script language="javascript">
+
+function daviscup() {
+	var hauteur = 600;
+	var largeur = 470;
+        var top=(screen.height-hauteur)/2;
+	var left=(screen.width-largeur)/2;
+        var lien = "http://ls.daviscup.com/dc/2005/wg/r1/launch-efrm.asp?tie=100006604";
+	nFen = open(lien,"DavisCupE","top="+top+",left="+left+",toolbar=no,scrollbars=no,directories=no,menubar=no,width="+largeur+",height="+hauteur);
+}
+
+</script>
+
+
+
+
+
+
+<title>Privacy Statement</title>
+
+<script language="javascript">
+<!--
+/******Turn Off Bubbling*******************/	
+function turnOffBubbling(e)
+{
+	if (!e) var e = window.event;
+	e.cancelBubble = true;
+	if (e.stopPropagation) e.stopPropagation();
+}
+  
+/******Selects active navigation button********/
+
+function selectActiveNavButton(strActiveNavButton,strAction,objEvent){
+
+	turnOffBubbling(objEvent);
+	var imgDir = "../../pix/newassets/menu/";
+	var navImg, navImgID, navName;
+	var activateNavButton = strActiveNavButton;
+	var action = "";
+	
+	if(strAction == "1"){
+		action = "_mo";
+	} 
+	else if (strAction == "2") {
+		action = "_on";
+	} 
+	else if (strAction == "3") {
+		action = "_off";
+	}
+	else {
+		action = "_off";
+	}
+	
+	//Set Image
+	navName = activateNavButton;
+	navImgID = navName + "_img";
+	//navImg = document.getElementById(navImgID);
+	navImgDir = imgDir + navName + action+ ".gif";
+	//navImg.src = navImgDir;
+	stringExpression = "document.getElementById(" + "'" + navImgID + "'" + ").src = " + "'" + navImgDir + "'";
+	//alert(stringExpression);
+	setTimeout(stringExpression,0);
+}
+
+/******Selects sub navigation button********/
+function selectActivateSubNavButton(strActiveTopNav, strSubNav, strAction, strActiveSubNav, objEvent)
+{
+	
+	turnOffBubbling(objEvent);
+	//Turn on active top nav button.
+	if(strActiveSubNav == "" || !(strActiveSubNav.indexOf(strActiveTopNav) > -1)){
+		selectActiveNavButton(strActiveTopNav,strAction,objEvent);
+	} 
+	//Turn on sub nav button.
+	selectActiveNavButton(strSubNav,strAction,objEvent);
+	
+}
+
+/******Selects active sub navigation menu********/
+function selectActivateSubNavs(strActiveSubNav,strSubNavArray){
+	var browserName=navigator.appName;
+	var activateSubNav = strActiveSubNav;
+	var subNavList = strSubNavArray.split("|");
+	var subNav, subNavName;
+	for(i=0;i<subNavList.length;i++){
+		
+		subNavName = subNavList[i]
+		
+		if(subNavName != activateSubNav){
+			//subNav = document.getElementById(subNavName);
+			stringExpression = "document.getElementById(" + "'" + subNavName + "'" + ").className = " + "'menuNormal'";
+			//subNav.className = "menuNormal";
+			setTimeout(stringExpression,0);
+		}
+		else {
+			//subNav = document.getElementById(subNavName);
+			
+			if (browserName=="Microsoft Internet Explorer")
+			{
+				stringExpression = "document.getElementById(" + "'" + subNavName + "'" + ").className = " + "'menuHover2'";
+				setTimeout(stringExpression,0);
+				//subNav.className = "menuHover2";
+			}
+			else 
+			{
+				stringExpression = "document.getElementById(" + "'" + subNavName + "'" + ").className = " + "'menuHover'";
+				setTimeout(stringExpression,0);
+				//subNav.className = "menuHover";
+			}
+		}
+		
+	}
+}
+
+-->
+</script>
 </head>
 
 <body leftmargin="0" topmargin="0" marginheight="0" marginwidth="0"><script language="Javascript">
@@ -113,265 +250,548 @@ If flashinstalled = 0 Then
 End If
 </script>
 
+
+<script type="text/javascript">
+
+function getposOffset(overlay, offsettype){
+var totaloffset=(offsettype=="left")? overlay.offsetLeft : overlay.offsetTop;
+var parentEl=overlay.offsetParent;
+while (parentEl!=null){
+totaloffset=(offsettype=="left")? totaloffset+parentEl.offsetLeft : totaloffset+parentEl.offsetTop;
+parentEl=parentEl.offsetParent;
+}
+if (offsettype=="top")
+{
+totaloffset=totaloffset+25;
+}
+if (offsettype=="left")
+{
+totaloffset=totaloffset-250;
+}
+return totaloffset;
+}
+
+function overlay(curobj, subobj){
+	if (document.getElementById)
+	{
+		if(document.getElementById(subobj).style.display == "none")
+		{
+			var subobj=document.getElementById(subobj);
+			//subobj.style.left=getposOffset(curobj, "left")+"px"
+			//subobj.style.top=getposOffset(curobj, "top")+"px"
+			subobj.style.display="block";
+		}
+		else if(document.getElementById(subobj).style.display == "block") 
+		{
+			document.getElementById(subobj).style.display="none";
+		}
+	}
+}
+
+function overlayclose(subobj){
+	
+}
+
+</script>
+<map name="headerlinks">
+<area shape="rect" coords="93,0,111,19" href="#" onclick="return overlay(this, 'subcontent2');return false"> 
+<area shape="rect" coords="7,89,72,103" href="/membership/default.sps" target="_self">
+<area shape="rect" coords="6,76,91,88" href="/tennislink/default.sps" target="_self">
+<area shape="rect" coords="224,93,291,106" href="http://www.espanol.usta.com" target="_blank">
+</map>
+
+<map name="example">
+<area shape="rect" coords="655,0,765,18" href="#" onmouseover="return overlay(this, 'subcontent2')">
+</map> 
+<map name="section-map">
+
+<area shape="rect" coords="344,1,359,16" href="#" onclick="return overlay(this, 'subcontent2');return false">
+<area shape="poly" coords="33,6,42,16,83,23,84,35,78,46,83,57,84,65,68,64,64,80,26,71,39,30,47,34,32,9" href="http://www.pnw.usta.com/" target="_blank">
+<area shape="poly" coords="47,86,53,84,34,77,28,89,34,116,35,124,60,124,48,104,51,85" href="http://www.norcal.usta.com/" target="_blank">
+<area shape="poly" coords="37,127,62,127,72,142,68,154,55,151,38,135,38,127" href="http://www.scta.usta.com/" target="_blank">
+<area shape="poly" coords="44,177,59,168,85,172,87,199,101,213,73,198,66,211,35,225,33,218,55,203,42,195,36,188,48,177" href="http://www.pnw.usta.com/" target="_blank">
+<area shape="poly" coords="111,203,148,220,146,229,121,220,113,206" href="http://www.hawaii.usta.com/" target="_blank">
+<area shape="poly" coords="89,39,140,47,137,99,147,106,144,132,83,124,73,132,52,105,59,83,74,85,77,70,90,69,89,38" href="http://www.intermountain.usta.com/" target="_blank">
+<area shape="poly" coords="86,127,143,136,141,166,111,166,100,173,74,156,77,137,91,130" href="http://www.southwest.usta.com/" target="_blank">
+<area shape="poly" coords="147,143,163,147,167,159,187,166,196,182,194,191,189,202,177,219,159,200,146,188,140,190,133,183,124,173,144,175,149,143" href="http://www.texas.usta.com/" target="_blank">
+<area shape="poly" coords="146,88,186,92,187,85,210,84,218,99,212,105,217,117,224,126,226,133,214,134,202,135,198,136,195,152,172,149,165,134,151,132,152,125,155,128,156,105,148,99,149,86" href="http://www.missourivalley.usta.com/" target="_blank">
+<area shape="poly" coords="148,40,187,41,211,48,208,81,182,85,162,85,145,80,149,38" href="http://www.northern.usta.com/" target="_blank">
+<area shape="poly" coords="218,62,233,55,246,56,253,59,259,70,260,90,275,92,278,110,271,122,252,113,231,124,222,111,223,97,222,87,218,62" href="http://www.midwest.usta.com/" target="_blank">
+<area shape="poly" coords="201,139,200,155,194,159,195,161,201,161,204,183,220,195,232,190,237,180,243,175,256,173,275,174,283,163,291,150,297,144,304,135,302,130,265,134,261,125,263,120,252,119,237,125,230,133,226,140,203,141" href="http://www.southern.usta.com/" target="_blank">
+<area shape="poly" coords="246,178,278,178,283,181,289,188,293,199,298,205,293,219,279,204,274,196,269,187,253,184,245,179" href="http://www.usatennisflorida.usta.com/" target="_blank">
+<area shape="rect" coords="214,215,256,232" href="http://www.carribean.usta.com/" target="_blank">
+<area shape="poly" coords="271,127,281,109,300,102,309,109,302,117,306,123,273,126" href="http://www.midatlantic.usta.com/" target="_blank">
+<area shape="poly" coords="282,85,306,81,321,90,311,102,297,97,283,99,274,86,278,84" href="http://www.middlestates.usta.com/" target="_blank">
+<area shape="poly" coords="286,75,313,57,318,78,321,86,308,81,290,78,286,72" href="http://www.eastern.usta.com/" target="_blank">
+<area shape="poly" coords="315,47,322,73,335,65,334,58,333,50,341,48,345,36,333,22,325,36,318,48" href="http://www.newengland.usta.com/" target="_blank">
+
+
+</map>
+<table cellspacing="0" cellpadding="0" width="952" border="0">
+  <tbody><tr>
+    <td width="656"><a href="/home/default.sps"><img src="/pix/newassets/header/header.gif" border="0" width="655" height="112"></a></td>
+    <td width="297"><img src="/pix/newassets/header/header_right.gif" border="0" width="297" height="112" usemap="#headerlinks"><div id="subcontent2" style="position:absolute; top:20px; left:520px; display:none; padding:0px; z-index:9;">
+<div style="width: 363px; height: 244px; padding: 0px; position:absolute;left:-100px;top:0px;">
+<img src="/pix/smaller_map.gif" usemap="#section-map" border="0" width="363" height="244">
+</div></div></td></tr>
+</tbody></table>
+<table width="952" cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff">
+	<tbody><tr>
+	   <td width="201" align="left" height="100%" valign="top">			<table width="100%" cellspacing="0" cellpadding="0" border="0">
+			<tbody><tr><td align="left" valign="top"><a href="http://www.usopen.org" target="_blank"><img src="/pix/newassets/menu/usopen_off.gif" border="0" width="86" height="57"></a><a href="http://www.usopenseries.com" target="_blank"><img src="/pix/newassets/menu/usopenseries_off.gif" border="0" width="115" height="57"></a></td></tr>
+				<tr><td align="left" valign="top"><!--<img SRC="/pix/newassets/devices/helpmefind.gif" WIDTH="201" HEIGHT="237"></td><td width="1" rowspan="2"><img src="/pix/1.gif" width="1" height="1">-->
+				<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="200" height="234" id="itsyourgame" align="middle" viewastext="">
+				<param name="allowScriptAccess" value="sameDomain">
+				<param name="movie" value="/includes/display_html/itsyourgame.swf">
+				<param name="quality" value="high">
+				<param name="bgcolor" value="#ffffff">
+				<param name="wmode" value="transparent">
+				<param name="FlashVars" value="courtURL=http%3A%2F%2Fwww.finder.usta.com/communitycenter/findacourt.aspx&amp;partnerURL=http%3A%2F%2Fwww.finder.usta.com/communitycenter/home.aspx&amp;programURL=http%3A%2F%2Fwww.finder.usta.com/communitycenter/findaprogram.aspx">
+				<embed src="/includes/display_html/itsyourgame.swf" wmode="transparent" flashvars="courtURL=http%3A%2F%2Fwww.finder.usta.com/communitycenter/findacourt.aspx&amp;partnerURL=http%3A%2F%2Fwww.finder.usta.com/communitycenter/home.aspx&amp;programURL=http%3A%2F%2Fwww.finder.usta.com/communitycenter/findaprogram.aspx" quality="high" bgcolor="#ffffff" width="200" height="234" name="itsyourgame" align="middle" allowscriptaccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"></object>
+				<script type="text/javascript" src="/script/ieupdate.js"></script>
+				</td></tr>
+				
+				
+	
+				<tr><td><img src="/pix/1.gif" width="1px" height="1px" border="0"></td></tr>
+				<tr><td align="left" valign="top"><a href="http://www.usopen.org" target="_blank"><img src="/pix/newassets/devices/usopen.gif" border="0" width="200" height="52"></a></td></tr>
+				<tr><td align="left" valign="top"><a href="http://www.usopenseries.com" target="_blank"><img src="/pix/newassets/devices/usopenseries.gif" border="0" width="200" height="52"></a></td></tr>
+				<tr><td align="left" valign="top"><a href="/news/fullstory.sps?iType=921&amp;inewsid=325525"><img src="/pix/newassets/devices/tv.gif" border="0" width="200" height="52"></a></td></tr>
+				<tr><td align="left" valign="top"><a href="http://www.ustashop.com/" target="_blank"><img src="/pix/newassets/devices/ustashop.gif" border="0" width="200" height="52"></a></td></tr>
+				<tr><td align="left" valign="top"><a href="/news/fullstory.sps?iType=12371&amp;inewsid=312386"><img src="/pix/newassets/devices/te_foundation.gif" border="0" width="200" height="53"></a></td></tr>
+			</tbody></table>
+			
+			
+
+		
+		<div id="seeRedAdvert" style="position:absolute;left:0px;top:446px;"></div>
+  		
+			<img src="/pix/B0C0D1.gif" width="100%" height="100%">
+		</td>
+		
+				<td width="750" align="left" valign="top">
+			<table width="100%" cellspacing="0" cellpadding="0" border="0">
+				<tbody><tr>
+					<td align="left" valign="top">
 <script language="javascript">
 <!--
+var reloadTo = '';
+function go(url1,url2) {
+	reloadTo = url1;
+    setTimeout('location.href = reloadTo',700); // 1.3 second delay
+    window.open(url2);
+    //return false;
+    
+}
 
-function launchLS() {
-	var hauteur = 570;
-	var largeur = 460;
-  var top=(screen.height-hauteur)/2;
-	var left=(screen.width-largeur)/2;
-  var lien = "http://ls.daviscup.com/fc/2005/wg1/sf/launch-efrm.asp?tie=100007052";
-	nFen = open(lien,"FedCupR1","top="+top+",left="+left+",toolbar=no,scrollbars=no,directories=no,menubar=no,width="+largeur+",height="+hauteur);
+/******Turn Off Bubbling*******************/	
+/*function turnOffBubbling(e)
+{
+	if (!e) var e = window.event;
+	e.cancelBubble = true;
+	if (e.stopPropagation) e.stopPropagation();
+}
+*/  
+/******Selects active navigation button********/
+
+function selectActiveNavButton(strActiveNavButton,strAction,objEvent){
+
+	//turnOffBubbling(objEvent);
+	var imgDir = "../../pix/newassets/menu/";
+	var navImg, navImgID, navName;
+	var activateNavButton = strActiveNavButton;
+	var action = "";
+	
+	if(strAction == "1"){
+		action = "_mo";
+	} 
+	else if (strAction == "2") {
+		action = "_on";
+	} 
+	else if (strAction == "3") {
+		action = "_off";
+	}
+	else {
+		action = "_off";
+	}
+	
+	//Set Image
+	navName = activateNavButton;
+	navImgID = navName + "_img";
+	//navImg = document.getElementById(navImgID);
+	navImgDir = imgDir + navName + action+ ".gif";
+	//navImg.src = navImgDir;
+	stringExpression = "document.getElementById(" + "'" + navImgID + "'" + ").src = " + "'" + navImgDir + "'";
+	//alert(stringExpression);
+	setTimeout(stringExpression,0);
+}
+
+/******Selects sub navigation button********/
+function selectActivateSubNavButton(strActiveTopNav, strSubNav, strAction, strActiveSubNav, objEvent)
+{
+	
+	//turnOffBubbling(objEvent);
+	//Turn on active top nav button.
+	if (strAction == "1" || strAction == "3")
+	{
+		if(strActiveSubNav == "" || !(strActiveSubNav.indexOf(strActiveTopNav) > -1))
+				selectActiveNavButton(strActiveTopNav,strAction,objEvent);
+	}
+	//Turn on sub nav button.
+	selectActiveNavButton(strSubNav,strAction,objEvent);
+	
+}
+
+/******Selects active sub navigation menu********/
+function selectActivateSubNavs(strActiveSubNav,strSubNavArray){
+	var browserName=navigator.appName;
+	var activateSubNav = strActiveSubNav;
+	var subNavList = strSubNavArray.split("|");
+	var subNav, subNavName;
+	for(i=0;i<subNavList.length;i++){
+		
+		subNavName = subNavList[i];
+		
+		if(subNavName != activateSubNav){
+			//subNav = document.getElementById(subNavName);
+			stringExpression = "document.getElementById(" + "'" + subNavName + "'" + ").className = " + "'menuNormal'";
+			//subNav.className = "menuNormal";
+			setTimeout(stringExpression,50);
+		}
+		else {
+			//subNav = document.getElementById(subNavName);
+			
+			if (browserName=="Microsoft Internet Explorer")
+			{
+				stringExpression = "document.getElementById(" + "'" + subNavName + "'" + ").className = " + "'menuHover2'";
+				setTimeout(stringExpression,50);
+				//subNav.className = "menuHover2";
+			}
+			else 
+			{
+				stringExpression = "document.getElementById(" + "'" + subNavName + "'" + ").className = " + "'menuHover'";
+				setTimeout(stringExpression,50);
+				//subNav.className = "menuHover";
+			}
+		}
+		
+	}
 }
 -->
 </script>
+<!-- BEGIN TOP Navigation -->
+	<table border="0" cellspacing="0" cellpadding="0" width="750">
+		<tbody><tr>
+			<td style="width: 74px;height: 57px;">
+				<a href="/about_us/default.sps"><img id="aboutus_img" src="/pix/newassets/menu/aboutus_off.gif" border="0" onmouseover="selectActivateSubNavs('sub_aboutus','sub_aboutus|sub_progame|sub_playnow|sub_parents|sub_coaches|sub_getinvolved|sub_futurechamps|sub_tournaments');selectActiveNavButton('aboutus',1,event)" onclick="selectActiveNavButton('aboutus',2,event)" onmouseout="selectActiveNavButton('aboutus',3,event)"></a></td>
+			<td style="width: 84px;height: 57px;">
+				<a href="/pro_game/default.sps"><img id="progame_img" src="/pix/newassets/menu/progame_off.gif" border="0" onmouseover="selectActivateSubNavs('sub_progame','sub_aboutus|sub_progame|sub_playnow|sub_parents|sub_coaches|sub_getinvolved|sub_futurechamps|sub_tournaments');selectActiveNavButton('progame',1,event)" onclick="selectActiveNavButton('progame',2,event)" onmouseout="selectActiveNavButton('progame',3,event)"></a></td>
+			<td style="width: 161px;height: 57px;">
+				<a href="/tournament/default.sps"><img id="tournaments_img" src="/pix/newassets/menu/tournaments_off.gif" border="0" onmouseover="selectActivateSubNavs('sub_tournaments','sub_aboutus|sub_progame|sub_playnow|sub_parents|sub_coaches|sub_getinvolved|sub_futurechamps|sub_tournaments');selectActiveNavButton('tournaments',1,event)" onclick="selectActiveNavButton('tournaments',2,event)" onmouseout="selectActiveNavButton('tournaments',3,event)"></a></td>
+			<td style="width: 135px;height: 57px;">
+				<a href="javascript: go('/futurechampions/custom.sps?icustompageid=17360&amp;itype=12457','http://www.playerdevelopment.usta.com/home/default.sps')"><img id="futurechamps_img" src="/pix/newassets/menu/futurechamps_off.gif" border="0" onmouseover="selectActivateSubNavs('sub_futurechamps','sub_aboutus|sub_progame|sub_playnow|sub_parents|sub_coaches|sub_getinvolved|sub_futurechamps|sub_tournaments');selectActiveNavButton('futurechamps',1,event)" onclick="selectActiveNavButton('futurechamps',2,event)" onmouseout="selectActiveNavButton('futurechamps',3,event)"></a></td>
+			<td style="width: 78px;height: 57px;">
+				<a href="/playnow/default.sps"><img id="playnow_img" src="/pix/newassets/menu/playnow_off.gif" border="0" onmouseover="selectActivateSubNavs('sub_playnow','sub_aboutus|sub_progame|sub_playnow|sub_parents|sub_coaches|sub_getinvolved|sub_futurechamps|sub_tournaments');selectActiveNavButton('playnow',1,event)" onclick="selectActiveNavButton('playnow',2,event)" onmouseout="selectActiveNavButton('playnow',3,event)"></a></td>
+			<td style="width: 62px;height: 57px;">
+				<a href="/parents/default.sps"><img id="parents_img" src="/pix/newassets/menu/parents_off.gif" border="0" onmouseover="selectActivateSubNavs('sub_parents','sub_aboutus|sub_progame|sub_playnow|sub_parents|sub_coaches|sub_getinvolved|sub_futurechamps|sub_tournaments');selectActiveNavButton('parents',1,event)" onclick="selectActiveNavButton('parents',2,event)" onmouseout="selectActiveNavButton('parents',3,event)"></a></td>
+			<td style="width: 65px;height: 57px;">
+				<a href="/coaches/default.sps"><img id="coaches_img" src="/pix/newassets/menu/coaches_off.gif" border="0" onmouseover="selectActivateSubNavs('sub_coaches','sub_aboutus|sub_progame|sub_playnow|sub_parents|sub_coaches|sub_getinvolved|sub_futurechamps|sub_tournaments');selectActiveNavButton('coaches',1,event)" onclick="selectActiveNavButton('coaches',2,event)" onmouseout="selectActiveNavButton('coaches',3,event)"></a></td>
+			<td style="width: 91px;height: 57px;">
+				<a href="/getinvolved/default.sps"><img id="getinvolved_img" src="/pix/newassets/menu/getinvolved_off.gif" border="0" onmouseover="selectActivateSubNavs('sub_getinvolved','sub_aboutus|sub_progame|sub_playnow|sub_parents|sub_coaches|sub_getinvolved|sub_futurechamps|sub_tournaments');selectActiveNavButton('getinvolved',1,event)" onclick="selectActiveNavButton('getinvolved',2,event)" onmouseout="selectActiveNavButton('getinvolved',3,event)"></a></td>
+		</tr>
+		
+		<tr>
+			<td width="750" height="27" colspan="8" bgcolor="#CCCCCC"></td>
+		</tr>
+		
+	</tbody></table>
+				<!--ABOUT US-->
+					<div id="sub_aboutus" class="menuNormal">
+						<table border="0" class="menutable" width="750" cellspacing="0" cellpadding="0"> 
+						<tbody><tr>	
+							<td>
+								<a href="/about_us/organization/default.sps"><img id="aboutus_organization_img" src="/pix/newassets/menu/aboutus_organization_off.gif" border="0" width="87" height="27" onmouseover="selectActivateSubNavButton('aboutus', 'aboutus_organization',1,'',event)" onclick="selectActivateSubNavButton('aboutus', 'aboutus_organization',2,'',event)" onmouseout="selectActivateSubNavButton('aboutus', 'aboutus_organization',3,'',event)"></a>
+							</td>
+							<td>
+								<a href="/about_us/ntc/default.sps"><img id="aboutus_ntc_img" src="/pix/newassets/menu/aboutus_ntc_off.gif" border="0" width="130" height="27" onmouseover="selectActivateSubNavButton('aboutus', 'aboutus_ntc',1,'',event)" onclick="selectActivateSubNavButton('aboutus', 'aboutus_ntc',2,'',event)" onmouseout="selectActivateSubNavButton('aboutus', 'aboutus_ntc',3,'',event)"></a>
+							</td>
+							<td>
+								<a href="/site_services/custom.sps?iType=961&amp;icustompageid=6107"><img id="aboutus_sections_img" src="/pix/newassets/menu/aboutus_sections_off.gif" border="0" width="58" height="27" onmouseover="selectActivateSubNavButton('aboutus', 'aboutus_sections',1,'',event)" onclick="selectActivateSubNavButton('aboutus', 'aboutus_sections',2,'',event)" onmouseout="selectActivateSubNavButton('aboutus', 'aboutus_sections',3,'',event)"></a>
+							</td>
+							<td>
+								<a href="/news/fullstory.sps?iType=12371&amp;inewsid=312386"><img id="aboutus_tef_img" src="/pix/newassets/menu/aboutus_tef_off.gif" border="0" width="175" height="27" onmouseover="selectActivateSubNavButton('aboutus', 'aboutus_tef',1,'',event)" onclick="selectActivateSubNavButton('aboutus', 'aboutus_tef',2,'',event)" onmouseout="selectActivateSubNavButton('aboutus', 'aboutus_tef',3,'',event)"></a>
+							</td>
+							<td>
+								<a href="/about_us/custom.sps?iType=12369&amp;icustompageid=17272"><img id="aboutus_rules_img" src="/pix/newassets/menu/aboutus_rules_off.gif" border="0" width="43" height="27" onmouseover="selectActivateSubNavButton('aboutus', 'aboutus_rules',1,'',event)" onclick="selectActivateSubNavButton('aboutus', 'aboutus_rules',2,'',event)" onmouseout="selectActivateSubNavButton('aboutus', 'aboutus_rules',3,'',event)"></a>
+							</td>
+							<td>
+								<a href="http://usta.recruitmax.com/ENG/candidates/" target="_blank"><img id="aboutus_joblistings_img" src="/pix/newassets/menu/aboutus_joblistings_off.gif" border="0" width="76" height="27" onmouseover="selectActivateSubNavButton('aboutus', 'aboutus_joblistings',1,'',event)" onclick="selectActivateSubNavButton('aboutus', 'aboutus_joblistings',2,'',event)" onmouseout="selectActivateSubNavButton('aboutus', 'aboutus_joblistings',3,'',event)"></a>
+							</td>
+							<td>
+								<a href="/communitytennis/fullstory.sps?iNewsid=246733"><img id="aboutus_awards_img" src="/pix/newassets/menu/aboutus_awards_off.gif" border="0" width="101" height="27" onmouseover="selectActivateSubNavButton('aboutus', 'aboutus_awards',1,'',event)" onclick="selectActivateSubNavButton('aboutus', 'aboutus_awards',2,'',event)" onmouseout="selectActivateSubNavButton('aboutus', 'aboutus_awards',3,'',event)"></a>
+							</td>
+							<td>
+								<img src="/pix/newassets/menu/aboutus_space_01.gif" border="0" width="80" height="27">
+							</td>
+						</tr>
+					</tbody></table>
+					</div>
+					<div id="sub_progame" class="menuNormal">
+					<table border="0" class="menutable" width="750" cellspacing="0" cellpadding="0"> 
+						<tbody><tr>	
+							<td>
+								<a href="http://www.usopen.org" target="_blank"><img id="progame_usopen_img" src="/pix/newassets/menu/progame_usopen_off.gif" border="0" width="69" height="27" onmouseover="selectActivateSubNavButton('progame', 'progame_usopen',1,'',event)" onclick="selectActivateSubNavButton('progame', 'progame_usopen',2,'',event)" onmouseout="selectActivateSubNavButton('progame', 'progame_usopen',3,'',event)"></a>
+							</td>
+							<td>
+								<a href="http://www.usopenseries.com" target="_blank"><img id="progame_openseries_img" src="/pix/newassets/menu/progame_openseries_off.gif" border="0" width="99" height="27" onmouseover="selectActivateSubNavButton('progame', 'progame_openseries',1,'',event)" onclick="selectActivateSubNavButton('progame', 'progame_openseries',2,'',event)" onmouseout="selectActivateSubNavButton('progame', 'progame_openseries',3,'',event)"></a>
+							</td>
+							<td>
+								<a href="/pro_game/wimbledon/default.sps"><img id="progame_grandslam_img" src="/pix/newassets/menu/progame_grandslam_off.gif" border="0" width="85" height="27" onmouseover="selectActivateSubNavButton('progame', 'progame_grandslam',1,'',event)" onclick="selectActivateSubNavButton('progame', 'progame_grandslam',2,'',event)" onmouseout="selectActivateSubNavButton('progame', 'progame_grandslam',3,'',event)"></a>
+							</td>
+							<td>
+								<a href="/pro_game/davis_cup/default.sps"><img id="progame_daviscup_img" src="/pix/newassets/menu/progame_daviscup_off.gif" border="0" width="70" height="27" onmouseover="selectActivateSubNavButton('progame', 'progame_daviscup',1,'',event)" onclick="selectActivateSubNavButton('progame', 'progame_daviscup',2,'',event)" onmouseout="selectActivateSubNavButton('progame', 'progame_daviscup',3,'',event)"></a>
+							</td>
+							<td>
+								<a href="/pro_game/fed_cup/default.sps"><img id="progame_fedcup_img" src="/pix/newassets/menu/progame_fedcup_off.gif" border="0" width="59" height="27" onmouseover="selectActivateSubNavButton('progame', 'progame_fedcup',1,'',event)" onclick="selectActivateSubNavButton('progame', 'progame_fedcup',2,'',event)" onmouseout="selectActivateSubNavButton('progame', 'progame_fedcup',3,'',event)"></a>
+							</td>
+							<td>
+								<a href="/pro_game/pro_circuits/default.sps"><img id="progame_procircuit_img" src="/pix/newassets/menu/progame_procircuit_off.gif" border="0" width="70" height="27" onmouseover="selectActivateSubNavButton('progame', 'progame_procircuit',1,'',event)" onclick="selectActivateSubNavButton('progame', 'progame_procircuit',2,'',event)" onmouseout="selectActivateSubNavButton('progame', 'progame_procircuit',3,'',event)"></a>
+							</td>
+							<td>
+								<a href="/schedule/custom.sps?iType=944&amp;icustompageid=1590"><img id="progame_fullschedule_img" src="/pix/newassets/menu/progame_fullschedule_off.gif" border="0" width="86" height="27" onmouseover="selectActivateSubNavButton('progame', 'progame_fullschedule',1,'',event)" onclick="selectActivateSubNavButton('progame', 'progame_fullschedule',2,'',event)" onmouseout="selectActivateSubNavButton('progame', 'progame_fullschedule',3,'',event)"></a>
+							</td>
+							<td>
+								<img src="/pix/newassets/menu/progame_space_01.gif" border="0" width="212" height="27">
+							</td>
+						</tr>
+					</tbody></table>
+					</div>
+					<div id="sub_tournaments" class="menuNormal">
+						<table border="0" class="menutable" width="750" cellspacing="0" cellpadding="0">
+							<tbody><tr>	
+							<td>
+								<img src="/pix/newassets/menu/tournaments_space_01.gif" border="0" width="86" height="27">
+							</td>
+							<td>
+								<a href="/juniorleague/"><img id="tournaments_juniors_img" src="/pix/newassets/menu/tournaments_juniors_off.gif" border="0" width="52" height="27" onmouseover="selectActivateSubNavButton('tournaments', 'tournaments_juniors',1,'',event)" onclick="selectActivateSubNavButton('tournaments', 'tournaments_juniors',2,'',event)" onmouseout="selectActivateSubNavButton('tournaments', 'tournaments_juniors',3,'',event)"></a>
+							</td>
+							<td>
+								<a href="/leagues/custom.sps?iType=930&amp;icustompageid=1145"><img id="tournaments_adultsseniors_img" src="/pix/newassets/menu/tournaments_adultsseniors_off.gif" border="0" width="89" height="27" onmouseover="selectActivateSubNavButton('tournaments', 'tournaments_adultsseniors',1,'',event)" onclick="selectActivateSubNavButton('tournaments', 'tournaments_adultsseniors',2,'',event)" onmouseout="selectActivateSubNavButton('tournaments', 'tournaments_adultsseniors',3,'',event)"></a>
+							</td>
+							<!--<td>								<a href="/seniorleague/"><img id="tournaments_seniors_img" src="/pix/newassets/menu/tournaments_seniors_onoff.gif" border="0" WIDTH="70" HEIGHT="27" onmouseover="selectActivateSubNavButton('tournaments', 'tournaments_seniors',1,'',event)" onclick="selectActivateSubNavButton('tournaments', 'tournaments_seniors',2,'',event)" onmouseout="selectActivateSubNavButton('tournaments', 'tournaments_seniors',3,'',event)" ></a>							</td>-->
+							<td>
+								<a href="/usatenniswheelchair/custom.sps?iType=6251&amp;icustompageid=8934"><img id="tournaments_wheelchair_img" src="/pix/newassets/menu/tournaments_wheelchair_off.gif" border="0" width="120" height="27" onmouseover="selectActivateSubNavButton('tournaments', 'tournaments_wheelchair',1,'',event)" onclick="selectActivateSubNavButton('tournaments', 'tournaments_wheelchair',2,'',event)" onmouseout="selectActivateSubNavButton('tournaments', 'tournaments_wheelchair',3,'',event)"></a>
+							</td>
+							<td>
+								<a href="/rules/default.sps?iType=923"><img id="tournaments_officials_img" src="/pix/newassets/menu/tournaments_officials_off.gif" border="0" width="56" height="27" onmouseover="selectActivateSubNavButton('tournaments', 'tournaments_officials',1,'',event)" onclick="selectActivateSubNavButton('tournaments', 'tournaments_officials',2,'',event)" onmouseout="selectActivateSubNavButton('tournaments', 'tournaments_officials',3,'',event)"></a>
+							</td>
+							<td>
+								<a href="/tennislink/default.sps"><img id="tournaments_tennislink_img" src="/pix/newassets/menu/tournaments_tennislink_off.gif" border="0" width="65" height="27" onmouseover="selectActivateSubNavButton('tournaments', 'tournaments_tennislink',1,'',event)" onclick="selectActivateSubNavButton('tournaments', 'tournaments_tennislink',2,'',event)" onmouseout="selectActivateSubNavButton('tournaments', 'tournaments_tennislink',3,'',event)"></a>
+							</td>
+							<td>
+								<img id="_img" src="/pix/newassets/menu/tournaments_space_01.gif" border="0" width="282" height="27">
+							</td>
+							</tr>
+						</tbody></table>
+					</div>
+					<div id="sub_futurechamps" class="menuNormal">
+						<table border="0" class="menutable" width="750" cellspacing="0" cellpadding="0">
+							<tbody><tr>	
+								<td>
+									<img src="/pix/newassets/menu/futurechamps_space_01.gif" border="0" width="102" height="27">
+								</td>
+								<td>
+									<a href="/futurechampions/custom.sps?icustompageid=17360&amp;itype=12457"><img id="future_aboutus_img" src="/pix/newassets/menu/future_aboutus_off.gif" border="0" width="67" height="27" onmouseover="selectActivateSubNavButton('futurechamps', 'future_aboutus',1,'',event)" onclick="selectActivateSubNavButton('futurechamps', 'future_aboutus',2,'',event)" onmouseout="selectActivateSubNavButton('futurechamps', 'future_aboutus',3,'',event)"></a>
+								</td>
+								<td>
+									<a href="/futurechampions/custom.sps?icustompageid=17361&amp;itype=12457"><img id="future_highper_img" src="/pix/newassets/menu/future_highper_off.gif" border="0" width="110" height="27" onmouseover="selectActivateSubNavButton('futurechamps', 'future_highper',1,'',event)" onclick="selectActivateSubNavButton('futurechamps', 'future_highper',2,'',event)" onmouseout="selectActivateSubNavButton('futurechamps', 'future_highper',3,'',event)"></a>
+								</td>
+								<td>
+									<a href="/futurechampions/custom.sps?icustompageid=17363&amp;itype=12457"><img id="future_sports_img" src="/pix/newassets/menu/future_sports_off.gif" border="0" width="88" height="27" onmouseover="selectActivateSubNavButton('futurechamps', 'future_sports',1,'',event)" onclick="selectActivateSubNavButton('futurechamps', 'future_sports',2,'',event)" onmouseout="selectActivateSubNavButton('futurechamps', 'future_sports',3,'',event)"></a>
+								</td>
+								<td>
+									<a href="/futurechampions/custom.sps?icustompageid=17364&amp;itype=12457"><img id="future_coaching_img" src="/pix/newassets/menu/future_coaching_off.gif" border="0" width="120" height="27" onmouseover="selectActivateSubNavButton('futurechamps', 'future_coaching',1,'',event)" onclick="selectActivateSubNavButton('futurechamps', 'future_coaching',2,'',event)" onmouseout="selectActivateSubNavButton('futurechamps', 'future_coaching',3,'',event)"></a>
+								</td>
+								<td>
+									<a href="/futurechampions/custom.sps?icustompageid=17365&amp;itype=12457"><img id="future_comp_img" src="/pix/newassets/menu/future_comp_off.gif" border="0" width="182" height="27" onmouseover="selectActivateSubNavButton('futurechamps', 'future_comp',1,'',event)" onclick="selectActivateSubNavButton('futurechamps', 'future_comp',2,'',event)" onmouseout="selectActivateSubNavButton('futurechamps', 'future_comp',3,'',event)"></a>
+								</td>
+								<td>
+									<img src="/pix/newassets/menu/futurechamps_space_02.gif" border="0" width="81" height="27">
+								</td>
+							</tr>
+						</tbody></table>
+					</div>
+					<div id="sub_playnow" class="menuNormal">
+						<table border="0" class="menutable" width="750" cellspacing="0" cellpadding="0">
+						<tbody><tr>	
+							<td>
+								<img src="/pix/newassets/menu/playnow_space_01.gif" border="0" width="291" height="27">
+							</td>
+							<td>
+								<a href="/team_tennis/custom.sps?iType=3491&amp;icustompageid=5952"><img id="playnow_juniors_img" src="/pix/newassets/menu/playnow_juniors_off.gif" border="0" width="53" height="27" onmouseover="selectActivateSubNavButton('playnow', 'playnow_juniors',1,'',event)" onclick="selectActivateSubNavButton('playnow', 'playnow_juniors',2,'',event)" onmouseout="selectActivateSubNavButton('playnow', 'playnow_juniors',3,'',event)"></a>
+							</td>
+							<td>
+								<a href="http://www.network.usta.com/publish.sps?syndicatorguid={C332A764-8DCB-4A1E-8ECD-DC88C394BD37}&amp;rmasiteinstanceguid={E52EBAE7-647F-45C7-9C20-5BD18EC70AC2}&amp;rmapageid=25&amp;sectionid=3939" target="_blank"><img id="playnow_highschool_img" src="/pix/newassets/menu/playnow_highschool_off.gif" border="0" width="76" height="27" onmouseover="selectActivateSubNavButton('playnow', 'playnow_highschool',1,'',event)" onclick="selectActivateSubNavButton('playnow', 'playnow_highschool',2,'',event)" onmouseout="selectActivateSubNavButton('playnow', 'playnow_highschool',3,'',event)"></a>
+							</td>
+							<td>
+								<a href="/recreationaltennis/fullstory.sps?iNewsid=195206"><img id="playnow_college_img" src="/pix/newassets/menu/playnow_college_off.gif" border="0" width="54" height="27" onmouseover="selectActivateSubNavButton('playnow', 'playnow_college',1,'',event)" onclick="selectActivateSubNavButton('playnow', 'playnow_college',2,'',event)" onmouseout="selectActivateSubNavButton('playnow', 'playnow_college',3,'',event)"></a>
+							</td>
+							<td>
+								<a href="/playnow/adultsseniors/default.sps"><img id="playnow_adultsenior_img" src="/pix/newassets/menu/playnow_adultsenior_off.gif" border="0" width="89" height="27" onmouseover="selectActivateSubNavButton('playnow', 'playnow_adultsenior',1,'',event)" onclick="selectActivateSubNavButton('playnow', 'playnow_adultsenior',2,'',event)" onmouseout="selectActivateSubNavButton('playnow', 'playnow_adultsenior',3,'',event)"></a>
+							</td>
+							<td>
+								<a href="/communitytennis/fullstory.sps?iNewsid=14207&amp;itype=946&amp;icategoryid=213"><img id="playnow_wheelchair_img" src="/pix/newassets/menu/playnow_wheelchair_off.gif" border="0" width="73" height="27" onmouseover="selectActivateSubNavButton('playnow', 'playnow_wheelchair',1,'',event)" onclick="selectActivateSubNavButton('playnow', 'playnow_wheelchair',2,'',event)" onmouseout="selectActivateSubNavButton('playnow', 'playnow_wheelchair',3,'',event)"></a>
+							</td>
+							<td>
+								<a href="/news/fullstory.sps?iType=946&amp;inewsid=333099"><img id="playnow_adaptive_img" src="/pix/newassets/menu/playnow_adaptive_off.gif" border="0" width="60" height="27" onmouseover="selectActivateSubNavButton('playnow', 'playnow_adaptive',1,'',event)" onclick="selectActivateSubNavButton('playnow', 'playnow_adaptive',2,'',event)" onmouseout="selectActivateSubNavButton('playnow', 'playnow_adaptive',3,'',event)"></a>
+							</td>
+							<td>
+								<img src="/pix/newassets/menu/playnow_space_01.gif" border="0" width="54" height="27">
+							</td>
+						</tr>
+						</tbody></table>
+					</div>
+					<div id="sub_parents" class="menuNormal">
+					<table border="0" class="menutable" width="750" cellspacing="0" cellpadding="0">
+					<tbody><tr>
+						<td>
+							<img src="/pix/newassets/menu/parents_space_01.gif" border="0" width="49" height="27">
+						</td>
+						<td>
+							<a href="/parents/custom.sps?itype=12361&amp;icustompageid=17336"><img id="parents_gettingstarted_img" src="/pix/newassets/menu/parents_gettingstarted_off.gif" border="0" width="93" height="27" onmouseover="selectActivateSubNavButton('parents', 'parents_gettingstarted',1,'',event)" onclick="selectActivateSubNavButton('parents', 'parents_gettingstarted',2,'',event)" onmouseout="selectActivateSubNavButton('parents', 'parents_gettingstarted',3,'',event)"></a>
+						</td>
+						<td>
+							<a href="/parents/custom.sps?itype=12361&amp;icustompageid=17337"><img id="parents_role_img" src="/pix/newassets/menu/parents_role_off.gif" border="0" width="85" height="27" onmouseover="selectActivateSubNavButton('parents', 'parents_role',1,'',event)" onclick="selectActivateSubNavButton('parents', 'parents_role',2,'',event)" onmouseout="selectActivateSubNavButton('parents', 'parents_role',3,'',event)"></a>
+						</td>
+						<td>
+							<a href="/parents/custom.sps?itype=12361&amp;icustompageid=17338"><img id="parents_teach_img" src="/pix/newassets/menu/parents_teach_off.gif" border="0" width="100" height="27" onmouseover="selectActivateSubNavButton('parents', 'parents_teach',1,'',event)" onclick="selectActivateSubNavButton('parents', 'parents_teach',2,'',event)" onmouseout="selectActivateSubNavButton('parents', 'parents_teach',3,'',event)"></a>
+						</td>
+						<td>
+							<a href="/parents/custom.sps?itype=12361&amp;icustompageid=17340"><img id="parents_organize_img" src="/pix/newassets/menu/parents_organize_off.gif" border="0" width="146" height="27" onmouseover="selectActivateSubNavButton('parents', 'parents_organize',1,'',event)" onclick="selectActivateSubNavButton('parents', 'parents_organize',2,'',event)" onmouseout="selectActivateSubNavButton('parents', 'parents_organize',3,'',event)"></a>
+						</td>
+						<td>
+							<a href="/parents/custom.sps?iType=12361&amp;icustompageid=17354"><img id="parents_resource_img" src="/pix/newassets/menu/parents_resource_off.gif" border="0" width="104" height="27" onmouseover="selectActivateSubNavButton('parents', 'parents_resource',1,'',event)" onclick="selectActivateSubNavButton('parents', 'parents_resource',2,'',event)" onmouseout="selectActivateSubNavButton('parents', 'parents_resource',3,'',event)"></a>
+						</td>
+						<td>
+							<a href="/communitytennis/fullstory.sps?iNewsid=246733"><img id="parents_awards_img" src="/pix/newassets/menu/parents_awards_off.gif" border="0" width="173" height="27" onmouseover="selectActivateSubNavButton('parents', 'parents_awards',1,'',event)" onclick="selectActivateSubNavButton('parents', 'parents_awards',2,'',event)" onmouseout="selectActivateSubNavButton('parents', 'parents_awards',3,'',event)"></a>
+						</td>
+					</tr>
+					</tbody></table>
+				</div>
+				<div id="sub_coaches" class="menuNormal">
+					<table border="0" class="menutable" width="750" cellspacing="0" cellpadding="0">
+					<tbody><tr>
+						<td>
+							<img src="/pix/newassets/menu/coaches_space_01.gif" border="0" width="40" height="27">
+						</td>
+						<td>
+							<a href="/coaches/custom.sps?iType=12362&amp;icustompageid=17455"><img id="coaches_info_img" src="/pix/newassets/menu/coaches_info_off.gif" border="0" width="118" height="27" onmouseover="selectActivateSubNavButton('coaches', 'coaches_info',1,'',event)" onclick="selectActivateSubNavButton('coaches', 'coaches_info',2,'',event)" onmouseout="selectActivateSubNavButton('coaches', 'coaches_info',3,'',event)"></a>
+						</td>
+						<td>
+							<a href="/coaches/custom.sps?iType=12362&amp;icustompageid=17317"><img id="coaches_pe_img" src="/pix/newassets/menu/coaches_pe_off.gif" border="0" width="76" height="27" onmouseover="selectActivateSubNavButton('coaches', 'coaches_pe',1,'',event)" onclick="selectActivateSubNavButton('coaches', 'coaches_pe',2,'',event)" onmouseout="selectActivateSubNavButton('coaches', 'coaches_pe',3,'',event)"></a>
+						</td>
+						<td>
+							<a href="/coaches/custom.sps?iType=12362&amp;icustompageid=17304"><img id="coaches_highschool_img" src="/pix/newassets/menu/coaches_highschool_off.gif" border="0" width="76" height="27" onmouseover="selectActivateSubNavButton('coaches', 'coaches_highschool',1,'',event)" onclick="selectActivateSubNavButton('coaches', 'coaches_highschool',2,'',event)" onmouseout="selectActivateSubNavButton('coaches', 'coaches_highschool',3,'',event)"></a>
+						</td>
+						<td>
+							<a href="/coaches/custom.sps?iType=12362&amp;icustompageid=17306"><img id="coaches_recreation_img" src="/pix/newassets/menu/coaches_recreation_off.gif" border="0" width="69" height="27" onmouseover="selectActivateSubNavButton('coaches', 'coaches_recreation',1,'',event)" onclick="selectActivateSubNavButton('coaches', 'coaches_recreation',2,'',event)" onmouseout="selectActivateSubNavButton('coaches', 'coaches_recreation',3,'',event)"></a>
+						</td>
+						<td>
+							<a href="http://www.playerdevelopment.usta.com/home/default.sps" target="_blank"><img id="coaches_highperformance_img" src="/pix/newassets/menu/coaches_highperformance_off.gif" border="0" width="108" height="27" onmouseover="selectActivateSubNavButton('coaches', 'coaches_highperformance',1,'',event)" onclick="selectActivateSubNavButton('coaches', 'coaches_highperformance',2,'',event)" onmouseout="selectActivateSubNavButton('coaches', 'coaches_highperformance',3,'',event)"></a>
+						</td>
+						<td>
+							<a href="/coaches/custom.sps?iType=12362&amp;icustompageid=17355"><img id="coaches_resource_img" src="/pix/newassets/menu/coaches_resource_off.gif" border="0" width="99" height="27" onmouseover="selectActivateSubNavButton('coaches', 'coaches_resource',1,'',event)" onclick="selectActivateSubNavButton('coaches', 'coaches_resource',2,'',event)" onmouseout="selectActivateSubNavButton('coaches', 'coaches_resource',3,'',event)"></a>
+						</td>
+						<td>
+							<a href="/communitytennis/fullstory.sps?iNewsid=246733"><img id="coaches_awards_img" src="/pix/newassets/menu/coaches_awards_off.gif" border="0" width="164" height="27" onmouseover="selectActivateSubNavButton('coaches', 'coaches_awards',1,'',event)" onclick="selectActivateSubNavButton('coaches', 'coaches_awards',2,'',event)" onmouseout="selectActivateSubNavButton('coaches', 'coaches_awards',3,'',event)"></a>
+						</td>
+						</tr>
+					</tbody></table>
+				</div>
+				<div width="750" id="sub_getinvolved" class="menuNormal">
+						<table border="0" class="menutable" width="750" cellspacing="0" cellpadding="0">
+						<tbody><tr>	
+							<td>
+								<img id="_img" src="/pix/newassets/menu/getinvolved_space_01.gif" border="0" width="362" height="27">
+							</td>
+							<td>
+								<a href="/getinvolved/default.sps"><img id="getinvolved_volunteer_img" src="/pix/newassets/menu/getinvolved_volunteer_off.gif" border="0" width="64" height="27" onmouseover="selectActivateSubNavButton('getinvolved', 'getinvolved_volunteer',1,'',event)" onclick="selectActivateSubNavButton('getinvolved', 'getinvolved_volunteer',2,'',event)" onmouseout="selectActivateSubNavButton('getinvolved', 'getinvolved_volunteer',3,'',event)"></a>
+							</td>
+							<td>
+								<a href="/communitytennis/fullstory.sps?iNewsid=92973"><img id="getinvolved_univ_img" src="/pix/newassets/menu/getinvolved_univ_off.gif" border="0" width="100" height="27" onmouseover="selectActivateSubNavButton('getinvolved', 'getinvolved_univ',1,'',event)" onclick="selectActivateSubNavButton('getinvolved', 'getinvolved_univ',2,'',event)" onmouseout="selectActivateSubNavButton('getinvolved', 'getinvolved_univ',3,'',event)"></a>
+							</td>
+							<td>
+								<a href="/communitytennis/fullstory.sps?iNewsid=40741&amp;icategoryid=437"><img id="getinvolved_news_img" src="/pix/newassets/menu/getinvolved_news_off.gif" border="0" width="93" height="27" onmouseover="selectActivateSubNavButton('getinvolved', 'getinvolved_news',1,'',event)" onclick="selectActivateSubNavButton('getinvolved', 'getinvolved_news',2,'',event)" onmouseout="selectActivateSubNavButton('getinvolved', 'getinvolved_news',3,'',event)"></a>
+							</td>
+							<td>
+								<a href="/communitytennis/fullstory.sps?iNewsid=107420&amp;icategoryid=437"><img id="getinvolved_awards_img" src="/pix/newassets/menu/getinvolved_awards_off.gif" border="0" width="53" height="27" onmouseover="selectActivateSubNavButton('getinvolved', 'getinvolved_awards',1,'',event)" onclick="selectActivateSubNavButton('getinvolved', 'getinvolved_awards',2,'',event)" onmouseout="selectActivateSubNavButton('getinvolved', 'getinvolved_awards',3,'',event)"></a>
+							</td>
+							<td>
+								<a href="http://www.usta.com/cta"><img id="getinvolved_cta_img" src="/pix/newassets/menu/getinvolved_cta_off.gif" border="0" width="37" height="27" onmouseover="selectActivateSubNavButton('getinvolved', 'getinvolved_cta',1,'',event)" onclick="selectActivateSubNavButton('getinvolved', 'getinvolved_cta',2,'',event)" onmouseout="selectActivateSubNavButton('getinvolved', 'getinvolved_cta',3,'',event)"></a>
+							</td>
+							<td>
+								<a href="/news/fullstory.sps?iType=946&amp;inewsid=325230"><img id="getinvolved_njtl_img" src="/pix/newassets/menu/getinvolved_njtl_off.gif" border="0" width="41" height="27" onmouseover="selectActivateSubNavButton('getinvolved', 'getinvolved_njtl',1,'',event)" onclick="selectActivateSubNavButton('getinvolved', 'getinvolved_njtl',2,'',event)" onmouseout="selectActivateSubNavButton('getinvolved', 'getinvolved_njtl',3,'',event)"></a>
+							</td>
+						</tr>
+					</tbody></table>
+					</div>
+		<!--Mouse Out Boundaries-->
+			<div id="mouseout" style="position: absolute;top: 102px; left:202px; z-index: 8; width:750px;">		
+				<table border="0" width="750" onmouseover="selectActivateSubNavs('','sub_aboutus|sub_progame|sub_playnow|sub_parents|sub_coaches|sub_getinvolved|sub_futurechamps|sub_tournaments')" onmouseout="selectActivateSubNavs('','sub_aboutus|sub_progame|sub_playnow|sub_parents|sub_coaches|sub_getinvolved|sub_futurechamps|sub_tournaments')">
+					<tbody><tr>
+					<td>
+					</td>
+					</tr>
+				</tbody></table>
+			</div>
+			
+			<div id="mouseout" style="position: absolute;top: 197px; left:202px; z-index: 8; width:590px; height:8px;">		
+				<table border="0" width="590" onmouseover="selectActivateSubNavs('','sub_aboutus|sub_progame|sub_playnow|sub_parents|sub_coaches|sub_getinvolved|sub_futurechamps|sub_tournaments')" onmouseout="selectActivateSubNavs('','sub_aboutus|sub_progame|sub_playnow|sub_parents|sub_coaches|sub_getinvolved|sub_futurechamps|sub_tournaments')">
+					<tbody><tr>
+					<td>
+					</td>
+					</tr>
+				</tbody></table>
+			</div>
+			<div id="mouseout" style="position: absolute;top: 216px; left:790px; z-index: 8; width:164px; height:8px;">		
+				<table border="0" width="164" onmouseover="selectActivateSubNavs('','sub_aboutus|sub_progame|sub_playnow|sub_parents|sub_coaches|sub_getinvolved|sub_futurechamps|sub_tournaments')" onmouseout="selectActivateSubNavs('','sub_aboutus|sub_progame|sub_playnow|sub_parents|sub_coaches|sub_getinvolved|sub_futurechamps|sub_tournaments')">
+					<tbody><tr>
+					<td>
+					</td>
+					</tr>
+				</tbody></table>
+			</div>
+			
+			<div id="mouseout" style="position: absolute;top: 87px; left:952px; z-index: 8; width:20px;">		
+				<table border="0" width="10px" height="134" onmouseover="selectActivateSubNavs('','sub_aboutus|sub_progame|sub_playnow|sub_parents|sub_coaches|sub_getinvolved|sub_futurechamps|sub_tournaments')" onmouseout="selectActivateSubNavs('','sub_aboutus|sub_progame|sub_playnow|sub_parents|sub_coaches|sub_getinvolved|sub_futurechamps|sub_tournaments')">
+					<tbody><tr>
+					<td>
+					</td>
+					</tr>
+				</tbody></table>
+			</div>
+			<div id="mouseout" style="position: absolute;top: 87px; left:184px; z-index: 8; width:20px;">		
+				<table border="0" width="10px" height="134" onmouseover="selectActivateSubNavs('','sub_aboutus|sub_progame|sub_playnow|sub_parents|sub_coaches|sub_getinvolved|sub_futurechamps|sub_tournaments')" onmouseout="selectActivateSubNavs('','sub_aboutus|sub_progame|sub_playnow|sub_parents|sub_coaches|sub_getinvolved|sub_futurechamps|sub_tournaments')">
+					<tbody><tr>
+					<td>
+					</td>
+					</tr>
+				</tbody></table></div>
+<!-- END TOP Navigation -->
 
-
-
-<table width="100%" cellspacing="0" cellpadding="0" border="0">
-	<tbody><tr>
-		<td class="tdBk">
-			<table cellspacing="0" cellpadding="0" border="0">
-				<tbody><tr>
-					<td><img src="/pix/1.gif" width="255" height="15" alt="" border="0"></td>
-					<td><!--<a href="/nationaltenniscenternews/fullstory.sps?iNewsid=27828">--><a href="http://www.usopen.org" target="_blnak"><img src="/pix/header/button_top-usopenorg.gif" width="48" height="15" alt="[USOpen.org]" border="0"></a></td>	
-					<td><img src="/pix/1.gif" width="10" height="15" alt="" border="0"></td>		
-					<td><a href="/newsletter/signup.sps"><img src="/pix/header/button_top-newsletter.gif" width="62" height="15" alt="[Newsletter]" border="0"></a></td>
-					<td><img src="/pix/1.gif" width="10" height="15" alt="" border="0"></td>		
-					<!--<td><a href="http://www.usta.com/store/" target="blank"><img src="/pix/header/button_top-ustashop.gif" width="64" height="15" alt="[USTA Shop]" border="0"></a></td>-->					
-					<td><img src="/pix/1.gif" width="10" height="15" alt="" border="0"></td>				
-					<td><a href="/communitytennis/fullstory.sps?iNewsid=14574"><img src="/pix/header/button_top-USATF.gif" width="207" height="15" alt="[USA Tennis Foundation]" border="0"></a></td>
-					
-					<!--<a href="/misc_pages/custom.sps?iType=1927&icustompageid=6258">-->
-					<!--<a href="/misc_pages/custom.sps?iType=1927&amp;icustompageid=6258"><img src="/pix/header/button_top-auctions.gif" width="50" height="15" alt="[Auctions]" border="0"></a>-->
-					<td><img src="/pix/1.gif" width="10" height="15" alt="" border="0"></td>
-<!--<td><a href="/membersonly/home.sps?iType=5783&amp;icustompageid=8388"><img src="/pix/header/topnav-membersonly.gif" width="86" height="15" alt="[Members-Only]" border="0"></a></td>-->
-<td><a href="https://usta.ebiz.uapps.net/solutionsite/SSO_files/membersonly.asp"><img src="/pix/header/topnav-membersonly.gif" width="86" height="15" alt="[Members-Only]" border="0"></a></td>
+</td>
+					<td width="1"><img src="/pix/1.gif" width="1"></td>
 				</tr>
 			</tbody></table>
-		</td>
-	</tr>
-</tbody></table>
-
-
-<table width="772" cellspacing="0" cellpadding="0" border="0">
-	<tbody><tr>
-		<td>
-
-<!--<script Language="JavaScript">if (flashinstalled==2){		document.write("<div style='position:absolute; left:0; top:15; width=728 height=90 visibility:visible; z-index:2;'>");		document.write("<OBJECT classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000'");		document.write("codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0'");		document.write(" WIDTH=728 HEIGHT=90>");		document.write("<PARAM NAME=movie VALUE='http://www.usta.com/flash/dc05_r1_masthead_comp1.01.swf'><PARAM NAME=quality VALUE=high><param name='wmode' value='transparent'>   <EMBED src='http://www.usta.com/flash/dc05_r1_masthead_comp1.01.swf' quality=high bgcolor=#CCCCCC  wmode='transparent' WIDTH=728 HEIGHT=90 TYPE='application/x-shockwave-flash' PLUGINSPAGE='http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash'></EMBED>");		document.write("</OBJECT>");		document.write("</div>");}</script> <a href="http://www.usta.com/protennis/home.sps?iType=954"><img src="/pix/alt_dc.gif" alt="United States Tennis Association" border="0" WIDTH="728" HEIGHT="90"></a><img src="/pix/header/right_tip_top.gif" border="0" WIDTH="44" HEIGHT="90"></td></td>-->
-
-<!--<SCRIPT Language="JavaScript">if (flashinstalled==2){document.write("<div style='position:absolute; left:0; top:15; width=728 height=90 visibility:visible; z-index:2;'>");		document.write("<OBJECT classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000'");		document.write("codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0'");		document.write(" WIDTH=728 HEIGHT=90>");		document.write("<PARAM NAME=movie VALUE='http://www.usta.com/flash/survey_masthead_comp1.00.swf?x'><PARAM NAME=quality VALUE=high><param name='wmode' value='transparent'>   <EMBED src='http://www.usta.com/flash/survey_masthead_comp1.00.swf' quality=high bgcolor=#CCCCCC  wmode='transparent' WIDTH=728 HEIGHT=90 TYPE='application/x-shockwave-flash' PLUGINSPAGE='http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash'></EMBED>");		document.write("</OBJECT>");		document.write("</div>");	}   </SCRIPT><a href="http://www.usta.com/home/default.sps"><img src="/pix/header/survey_masthead_alt.gif" width="728" height="90" alt="United States Tennis Association" border="0"></a>-->
-
-
-
-<!-- DEFAULT BANNER BEGINS -->
-<script language="JavaScript">if (flashinstalled==2){document.write("<div style='position:absolute; left:0; top:15; width=728 height=90 visibility:visible; z-index:2;'>");		document.write("<OBJECT classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000'");		document.write("codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0'");		document.write(" WIDTH=728 HEIGHT=90>");		document.write("<PARAM NAME=movie VALUE='http://www.usta.com/flash/USTA.com_RMA_Banner_comp1.01.swf?x'><PARAM NAME=quality VALUE=high><param name='wmode' value='transparent'>   <EMBED src='http://www.usta.com/flash/USTA.com_RMA_Banner_comp1.01.swf?x' quality=high bgcolor=#CCCCCC  wmode='transparent' WIDTH=728 HEIGHT=90 TYPE='application/x-shockwave-flash' PLUGINSPAGE='http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash'></EMBED>");		document.write("</OBJECT>");		document.write("</div>");	}   </script><a href="http://www.usta.com/home/default.sps"><img src="/pix/header/header_usta.gif" width="772" height="90" alt="United States Tennis Association" border="0"></a>
-<!-- DEFAULT BANNER ENDS -->
-
-<!--<SCRIPT Language="JavaScript">if (flashinstalled==2){document.write("<div style='position:absolute; left:0; top:15; width=728 height=90 visibility:visible; z-index:2;'>");		document.write("<OBJECT classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000'");		document.write("codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0'");		document.write(" WIDTH=728 HEIGHT=90>");		document.write("<PARAM NAME=movie VALUE='http://www.usta.com/flash/wimbledon_05_masthead_comp1.00.swf?x'><PARAM NAME=quality VALUE=high><param name='wmode' value='transparent'>   <EMBED src='http://www.usta.com/flash/wimbledon_05_masthead_comp1.00.swf?x' quality=high bgcolor=#CCCCCC  wmode='transparent' WIDTH=728 HEIGHT=90 TYPE='application/x-shockwave-flash' PLUGINSPAGE='http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash'></EMBED>");		document.write("</OBJECT>");		document.write("</div>");	}   </SCRIPT><a href="http://www.usta.com/home/default.sps"><img src="/pix/header/wimbledon_05_masthead_comp1.00.gif" width="772" height="90" alt="United States Tennis Association" border="0"></a>-->
-
-
-
-</td>
-
-
-
-
-
-
-
-</tr>
-</tbody></table>
-
-<table width="772" cellspacing="0" cellpadding="0" border="0">
-	<tbody><tr>
-		<td width="171" valign="top">
-<img src="/pix/menu/header-leftlip.gif" width="171" height="15" alt="" border="0"><br>
-
- 
-<table width="100%" cellspacing="0" cellpadding="0" border="0">
-	<tbody><tr>
-		<td class="tdGreyDark"><img src="/pix/1.gif" width="1" height="1" alt="" border="0"></td>
-	</tr>
-</tbody></table>	
-	
-<table width="171" cellspacing="0" cellpadding="0" border="0" valign="top">
-	<tbody><tr>
-		<td width="1" class="tdGreyDark"><img src="/pix/1.gif" width="1" height="610" alt="" border="0"></td>
-		<td width="170" class="tdDiagBkgd" valign="top">
-	
-<img src="/pix/menu/navhead-ustaorg.gif" width="170" height="31" alt="[USTA Organization]" border="0"><br>
-
-<a href="/ustanews/home.sps?iType=953"><img src="/pix/menu/nav-ustanews.gif" width="170" height="15" alt=" - [USTA News]" border="0"></a><br>
-
-
-<!--<a href="/membership/fullstory.sps?iNewsid=14006&itype=942&icategoryid=0">-->
-<a href="/membership/custom.sps?iType=1927&amp;icustompageid=11058"><img src="/pix/menu/nav-ustamembership.gif" width="170" height="15" alt=" - [USTA Membership]" border="0"></a><br>
-
-	
-
-<a href="http://www.usta.com/store/" target="_blank"><img src="/pix/menu/nav-shop.gif" width="170" height="15" alt=" - [USTA Shop]" border="0"></a><br>
-<a href="/misc_pages/custom.sps?iType=1927&amp;icustompageid=6258"><img src="/pix/menu/nav-auctions.gif" width="170" height="15" alt=" - [USTA Auctions]" border="0"></a><br>
-<a href="/nationaltenniscenternews/home.sps?iType=951"><img src="/pix/menu/nav-ntc.gif" width="170" height="15" alt=" - [National Tennis Center]" border="0"></a><br>
-
-
-<a href="http://www.highperformance.usta.com/home/default.sps" target="_blank"><img src="/pix/menu/player_development.gif" width="170" height="15" alt=" - [USTA High Performance]" border="0"></a><br>
-<a href="/site_services/custom.sps?iType=961&amp;icustompageid=6107"><img src="/pix/menu/nav-ustasections.gif" width="170" height="15" alt=" - [USTA Sections]" border="0"></a><br>
-
-<a href="/communitytennis/home.sps?iType=960"><img src="/pix/menu/nav-communitytennis.gif" width="170" height="15" alt=" - [Community Tennis]" border="0"></a><br>
-
-
-<!--<img src="/pix/1.gif" width="15" height="1" alt="" border="0"><a class="navLink" href="/communitytennis/custom.sps?iType=950&icustompageid=2520">Adopt-A-Court</a><br><img src="/pix/1.gif" width="15" height="1" alt="" border="0"><a class="navLink" href="/communitytennis/fullstory.sps?iNewsid=40741&icategoryid=437">Volunteers</a><br>		<img src="/pix/1.gif" width="15" height="1" alt="" border="0"><a class="navLink" href="/communitytennis/fullstory.sps?iNewsid=54334&icategoryid=166">Tennis Innovations</a><br>	<img src="/pix/1.gif" width="15" height="1" alt="" border="0"><a class="navLink"  href="http://www.tennisawards.com/program_support_materials.aspx" target="_blank">Community Tennis Tools</a><br>	<img src="/pix/1.gif" width="15" height="1" alt="" border="0"><a class="navLink" href="http://www.usta.com/news/fullstory.sps?iNewsid=164661">Tennis In The Parks</a><br>	<img src="/pix/1.gif" width="15" height="5" alt="" border="0"><br>	-->
-
-<a href="/aboutus/default.sps?iType=920&amp;icustompageid=1139"><img src="/pix/menu/nav-aboutusta.gif" width="170" height="15" alt=" - [About USTA]" border="0"></a><br>
-
-
-
-
-<a href="/diversity/fullstory.sps?iNewsid=132501"><img src="/pix/menu/nav-diversity.gif" width="170" height="15" alt=" - [Diversity]" border="0"></a><br>
-
-
-
-
-<a href="http://espanol.usta.com" target="_blank"><img src="/pix/menu/nav-espanol.gif" width="170" height="15" alt=" - [Espanol]" border="0"></a><br>
-
-
-
-<!--<a href="/usatennismonth/home.sps?iType=4028"><img src="/pix/menu/nav-usatennismonth.gif" width="170" height="15" alt=" - [USA Tennis Month]" border="0"></a><br><img src="/pix/1.gif" width="15" height="1" alt="" border="0"><a class="navLinkSelect" href="/usatennismonth/fullstory.sps?iNewsid=34002">Trivia Contest</a><br>	<img src="/pix/1.gif" width="15" height="1" alt="" border="0"><a class="navLink" href="http://www.usta.com/application/find_facility/select_state.asp">Find a Location to Play Tennis</a><br>	<img src="/pix/1.gif" width="15" height="1" alt="" border="0"><a class="navLinkSelect" href="/usatennismonth/fullstory.sps?iNewsid=34781">2003 Photo Gallery</a><br>	<img src="/pix/1.gif" width="15" height="1" alt="" border="0"><a class="navLinkSelect" href="/usatennismonth/fullstory.sps?iNewsid=34297&itype=4027&icategoryid=0">Rock & Rally Events Schedule</a><br>	-->
-
-<img src="/pix/menu/navhead-protennis.gif" width="170" height="31" alt="[Professional Tennis]" border="0"><br>
-<a href="/protennis/home.sps?iType=952"><img src="/pix/menu/nav-news.gif" width="170" height="15" alt=" - [News]" border="0"></a><br>
-
-<a href="http://www.usopenseries.com" target="_blank"><img src="/pix/menu/nav-uso_series.gif" width="170" height="15" alt=" - [USOPEN Series]" border="0"></a><br>
-<a href="http://www.usopen.org" target="_blank"><img src="/pix/menu/nav-usopen.gif" width="170" height="15" alt=" - [US OPEN]" border="0"></a><br>
-<a class="navLink" href="/protennis/home.sps?iType=957"><img src="/pix/menu/nav-ustaprocircuit.gif" width="170" height="15" alt=" - [USTA Pro Circuit]" border="0"></a><br>
-<a class="navLink" href="/protennis/home.sps?iType=954"><img src="/pix/menu/nav-daviscup.gif" width="170" height="15" alt=" - [Davis Cup]" border="0"></a><br>
-<a class="navLink" href="/protennis/home.sps?iType=955"><img src="/pix/menu/nav-fedcup.gif" width="170" height="15" alt=" - [Fed Cup]" border="0"></a><br>
-
-<!--<img src="/pix/menu/navhead-rectennis.gif" width="170" height="31" alt="[Recreational Tennis]" border="0"></a><br>-->
-
-<!--href="/recreationaltennis/home.sps?iType=8314"><img src="/pix/menu/nav-existpl.gif" width="170" border="0"></a><br>-->
- 
-<!--<a href="/recreationaltennis/home.sps?iType=8315"><img src="/pix/menu/nav-newpl.gif" width="170" border="0"></a><br> -->
-
-<!--<a href="/recreationaltennis/home.sps?iType=8316"><img src="/pix/menu/nav-coachesteachprogram.gif" width="170" border="0"></a><br>-->
-
-<!--<a href="http://www.ushsta.org" target="_blank"><img src="/pix/menu/nav_highschool.gif" width="170" border="0"></a><br><a href="/recreationaltennis/fullstory.sps?iNewsid=195206"><img src="/pix/menu/nav_collegiate.gif" width="170" border="0"></a><br>-->
-
-<!--<a href="/recreationaltennis/home.sps?iType=8317"><img src="/pix/menu/nav-locltenorg.gif" width="170" border="0"></a><br>-->
-
-
-<!--<a href="http://www.backcourt.usta.com" target="_blank"><img src="/pix/menu/nav-forkids.gif" width="170" border="0"></a><br>-->
-<!--<a href="/recreationaltennis/home.sps?iType=8319"><img src="/pix/menu/nav-twc.gif" width="170" border="0"></a><br>-->
-<!--<a href="http://www.tenniswelcomecenter.com" target="_blank"><img src="/pix/menu/nav-twc.gif" width="170" border="0"></a><br>-->
-
-
-
-<img src="/pix/menu/navhead-tennislink.gif" width="170" height="31" alt="[TennisLink]" border="0"><br>
-
-<a href="/tennislink/default.sps"><img src="/pix/menu/nav-leagues.gif" width="170" height="15" alt=" - [Leagues]" border="0"></a><br>
-<a href="/tennislink/default.sps"><img src="/pix/menu/nav-tournaments.gif" width="170" height="15" alt=" - [Tournaments]" border="0"></a><br>
-<a href="/tennislink/default.sps"><img src="/pix/menu/nav-teamtennis.gif" width="170" height="15" alt=" - [Team Tennis]" border="0"></a><br>
-<a href="http://cta.usta.com" target="_blank"><img src="/pix/menu/nav-registercta.gif" width="170" height="15" alt=" - [Register A CTA]" border="0"></a><br>
-
-
-
-<img src="/pix/menu/navhead-tennislifest.gif" width="170" height="31" alt="[Tennis Lifestyle]" border="0"><br>
-<!--<a class="navLink" href="/play_tennis/custom.sps?iType=1021&icustompageid=1559"><img src="/pix/menu/nav-ustaprograms.gif" width="170" height="15" alt=" - [USTA Programs]" border="0"></a><br>-->
-<a class="navLink" href="http://www.tenniswelcomecenter.com" target="_blank"><img src="/pix/menu/nav-twc.gif" width="170" height="15" alt=" - [USTA Programs]" border="0"></a><br>
-
-
-<a href="/lessonsandtips/home.sps?iType=935"><img src="/pix/menu/nav-lessons.gif" width="170" height="15" alt=" - [Lessons]" border="0"></a><br>
-
-
-<a href="/healthandfitness/home.sps?iType=6836"><img src="/pix/menu/nav-healthfitness.gif" width="170" height="15" alt=" - [Lessons]" border="0"></a><br>
-
-
-<a href="/travel/home.sps?iType=3801"><img src="/pix/menu/nav-travelequipment.gif" width="170" height="15" alt=" - [Travel/Equipment]" border="0"></a><br>
-
-<!--<a class="navLink" href="javascript:openRMA(1);"><img src="/pix/menu/nav-photogallery.gif" width="170" height="15" alt=" - [Photo Gallery]" border="0"></a><br>-->
-<a class="navLink" href="http://www.backcourt.usta.com/" target="_new"><img src="/pix/menu/nav-backcourt.gif" width="170" height="15" alt=" - [Backcourt (Kids Zone)]" border="0"></a><br>
-
-<img src="/pix/menu/navhead-competitivetennis.gif" width="170" height="31" alt="[Competitive Tennis]" border="0"><br>
-
-<a href="/rules/default.sps?iType=923"><img src="/pix/menu/nav-rulesofficials.gif" width="170" height="15" alt=" - [Rules/Officials]" border="0"></a><br>
-
-
-<a href="/team_tennis/home.sps?iType=3494"><img src="/pix/menu/nav-teamtennis.gif" width="170" height="15" alt=" - [Team Tennis]" border="0"></a><br>
-
-
-<a href="/juniors/home.sps?iType=958"><img src="/pix/left_nav/nav-jr-coll.gif" alt=" - [Juniors]" border="0"></a><br>
-
-
-<a href="/adultsseniors/home.sps?iType=959"><img src="/pix/menu/nav-adultseniors.gif" width="170" height="15" alt=" - [Adults/Seniors]" border="0"></a><br>
-
-
-<a href="/leagues/custom.sps?iType=930&amp;icustompageid=1145"><img src="/pix/menu/nav-usaleaguetennis.gif" width="170" height="15" alt=" - [Leagues]" border="0"></a><br>
-
-
-<a href="/usatenniswheelchair/custom.sps?iType=6251&amp;icustompageid=8934"><img src="/pix/menu/nav-wheelchair.gif" width="170" height="15" alt=" - [USA Tennis Wheelchair]" border="0"></a><br>
-
-
-
-<img src="/pix/menu/navhead-search.gif" width="170" height="32" alt="[Search]" border="0">
-<table width="170" cellspacing="0" cellpadding="0" border="0">
-<form name="seek1" accept-charset="iso-8859-1" action="/search/query.sps" method="get"></form>
-<input type="hidden" value="ustaall" name="col">
-<input type="hidden" value="0" name="ht">
-<input type="hidden" name="qp" value="url:www.usta.com">
-<input type="hidden" name="qs" value="">
-<input type="hidden" name="qc" value="">
-<input type="hidden" value="100%" name="pw">
-<input type="hidden" value="0" name="ws">
-<input type="hidden" value="en" name="la">
-<input type="hidden" value="0" name="qm">
-<input type="hidden" value="1" name="st">
-<input type="hidden" value="10" name="nh">
-<input type="hidden" value="1" name="lk">
-<input type="hidden" value="0" name="rf">
-<input type="hidden" name="oq" value="">
-<input type="hidden" value="0" name="rq">
-<input type="hidden" value="1" name="si">
-<input type="hidden" value="12" name="siteid">	
-
-	<tbody><tr>
-		<td width="10"><img src="/pix/1.gif" width="10" height="1" alt="" border="0"></td>
-		<td width="110" valign="top"><input class="searchInput" name="qt" size="10" value=""></td>
-		<td width="60"><a href="javascript:void(document.seek1.submit());"><img src="/pix/menu/button-searchgo.gif" width="30" height="25" alt="" border="0" align="top"></a></td>
-	</tr>
-
-</tbody></table>
-
-
-
-
-
-		</td>
-	</tr>
-</tbody></table>
-<table width="100%" cellspacing="0" cellpadding="0" border="0">
-	<tbody><tr>
-		<td class="tdGreyDark"><img src="/pix/1.gif" width="1" height="1" alt="" border="0"></td>
-	</tr>
-</tbody></table>
-
-<!-- End Left Column - Navigation -->
-
-
-</td>
-<td width="30" valign="top" class="tableCentralTable">
-<table cellpadding="0" cellspacing="0" border="0" width="430" style="{table-layout:fixed;}">
-
-<tbody><tr valign="TOP">
-<td>
-	
-	<table cellpadding="0" cellspacing="0" border="0" width="430">
-	<tbody><tr>
-	<td class="tableHeaderRowSectionHeader"><img src="/pix/SPSLEPix/site_services/title_privacy.gif" width="430" height="15"></td>
-	</tr>
-	</tbody></table>
-	<img src="/pix/1.gif" width="1" height="1"><br>
+			<table width="750" cellspacing="0" cellpadding="0" border="0">
+				<tbody><tr>
+					<td align="left" colspan="2" width="588" valign="top">
+		
+		<!--main content -->
+			<table width="588" cellspacing="1" cellpadding="0" border="0" bgcolor="ffffff">
+				<tbody><tr>
+					<td align="left" valign="top">
+					
   	  
   	<meta name="SPSTitle" content="Privacy Statement">
   	<meta name="SPSDate" content="2002-03-14T13:49:00Z">    
@@ -436,51 +856,35 @@ function launchLS() {
 	</tr>
 	</tbody></table>
 	
-</td>
-</tr>
-<tr>
-	<td align="center"><img src="/pix/1.GIF" width="1" height="25"><br></td>
-</tr>
+					</td>
+					<td width="135" bgcolor="#2e5b89">
+					
+						<table cellspacing="0" cellpadding="0" border="0" bgcolor="#e5eaf0" height="121" width="100%"><tbody><tr><td valign="top" align="left">
+							<img src="/pix/1.gif" height="42" width="1"><br>
+							<a href="/news/printstory_custompage.sps?iType=961&amp;icustompageid=1658"><img src="/pix/newassets/print.gif" border="0"></a>
+							<br><img src="/pix/1.gif" height="5" width="1"><br>
+							<!--<a href=""><img src="/pix/newassets/email.gif" border="0"></a>-->
+						</td></tr></tbody></table>
+						<table cellspacing="0" cellpadding="0" border="0" width="100%" height="1" bgcolor="#FFFFFF"><tbody><tr><td width="100%" height="1" bgcolor="#FFFFFF"><img src="/pix/1.gif" widht="1" height="1"></td></tr></tbody></table>
+						
+						<br><img src="/pix/1.gif" height="17" width="1"><br>
+						
+						
+						
+					</td>
+				</tr>
+				<tr>
+						<td bgcolor="#FFFFFF" height="1" colspan="4"><img src="/pix/1.gif" height="1" width="1"></td>
+					</tr>
+				        
+			</tbody></table>			
+						
+				
+					</td>	
 
-</tbody></table>
-</td>
-<td width="171" valign="top" align="left"> 
-		<table cellpadding="0" cellspacing="0" border="0" width="171">
-			<tbody><tr><td>
-
-</td><td width="171" valign="top"><!-- Begin Right Column - Sponsors -->
-<meta http-equiv="Content-Type" content="text/html; charset=unicode">
-
-
-<meta content="MSHTML 6.00.2800.1491" name="GENERATOR">
-
-<img id="IMG1" height="15" alt="" src="/pix/menu/header-rightlip.gif" width="171" border="0"><br>
-
-<!--<img src="/pix/header/right_tip_bottom.gif" width="171" height="15" alt="" border="0"><br>-->
-
-
-<script language="javascript">
-if (navigator.appName.indexOf("Netscape") != -1 && parseInt(navigator.appVersion) == 4)
-{document.write("");
-}
-else{
-//document.write('<img src="http://www.usta.com/pix/1.gif" width="171" height="15" alt="" border="0"><br>');
-}
-</script>
-
-<table width="100%" cellspacing="0" cellpadding="0" border="0">
-	<tbody><tr>
-		<td class="tdGreyDark"><img src="/pix/1.gif" width="1" height="1" alt="" border="0"></td>
-	</tr>
-</tbody></table>
-
-<table width="171" cellspacing="0" cellpadding="0" border="0" height="610">
-	<tbody><tr>
-		<td width="170" class="tdDiagBkgd" align="middle">
-	<img src="/pix/1.gif" width="1" height="5" alt="" border="0" id="IMG3"><br>
-<img height="10" alt="" src="/pix/1.gif" width="3" border="0"> <a href="http://shop.usopen.org" target="_blank"><img id="IMG2" src="/pix/adverts/usta-shop-graphic.gif" border="0" width="160" height="55"></a>
-<img src="/pix/1.gif" width="1" height="5" alt="" border="0" id="IMG3"><br><!--USTA.com Charter Partners<br><img src="/pix/1.gif" width="1" height="12" alt="" border="0"><br>--><!--<img src="/pix/1.gif" width="1" height="10" alt="" border="0"><br>-->
-<img height="10" alt="" src="/pix/1.gif" width="2" border="0"> 
+		<td width="160" bgcolor="#B0C0D1" align="left" valign="top"><!-- right side -->
+			
+			<a href="/newsletter/signup.sps"><img src="/pix/newassets/devices/emailupdates.gif" width="161" height="21" border="0"></a><br>
 <!-- VC active -->
 <script language="JavaScript">
 <!--
@@ -508,34 +912,18 @@ if (ValueLoaded) ValueShowAd();
 
 <noscript>
 
-<A HREF="http://ads.usta.valueclick.net/redirect?host=hs0002011&size=160x600&t=std&b=indexpage&noscript=1&v=0" TARGET="_top"><IMG BORDER="0" WIDTH="160" HEIGHT="600" ALT="Click here to visit our sponsor"
-SRC="http://ads.usta.valueclick.net/cycle?host=hs0002011&size=160x600&t=std&b=indexpage&noscript=1"></A>
+<a HREF="http://ads.usta.valueclick.net/redirect?host=hs0002011&amp;size=160x600&amp;t=std&amp;b=indexpage&amp;noscript=1&amp;v=0" TARGET="_top"><img BORDER="0" WIDTH="160" HEIGHT="600" ALT="Click here to visit our sponsor" SRC="http://ads.usta.valueclick.net/cycle?host=hs0002011&amp;size=160x600&amp;t=std&amp;b=indexpage&amp;noscript=1"></a>
 
 </noscript>
 <!-- vc active -->
 
 
-<img height="5" alt="" src="/pix/1.gif" width="1" border="0"><br>
 
 </td>
-
-<td width="1" class="tdGreyDark"><img height="610" alt="" src="/pix/1.gif" width="1" border="0"></td>
-</tr>
-</tbody></table>
-
-<table width="100%" cellspacing="0" cellpadding="0" border="0">
-	<tbody><tr>
-		<td class="tdGreyDark"><img height="1" alt="" src="/pix/1.gif" width="1" border="0"></td>
+				</tr>
+			</tbody></table>		</td>
 	</tr>
 </tbody></table>
-
-				</td>
-			</tr>
-		</tbody></table>
-		</td>
-		</tr>
-	</tbody></table>
-
 <table cellpadding="0" cellspacing="0" border="0" width="773" height="10">
 <tbody><tr>
 <td width="160" valign="top"> 
@@ -575,16 +963,17 @@ document.write("<COMMENT>");
 </comment>
 <!-- END RedMeasure V4 -->
 </div>
-</td>
-<td width="430"><img src="/pix/1.gif" width="430" height="1">
-		<table cellpadding="0" cellspacing="0" border="0" width="100%">
+
+<table cellpadding="0" cellspacing="0" border="0" width="950" align="center">
+<tbody><tr><td>
+		<table cellpadding="0" cellspacing="0" border="0" width="420" align="center">
 			<tbody><tr>
-				<td colspan="3" class="copyright" align="center">Copyright © 2005 by United States Tennis Association. All Rights Reserved.</td>
+				<td colspan="3" class="copyright" align="center" style="padding-left:15px;">Copyright © 2006 by United States Tennis Association. All Rights Reserved.</td>
 			</tr>
 			<tr>
 				<td class="copyright" align="center"><a href="/onlinesales/index.html" target="_blank" class="copyright">Online Advertising</a></td>	
 				<td class="copyright" align="center"><a href="http://www.ustapr.com" target="_blank" class="copyright">Media Only</a></td>	
-				<td class="copyright" align="center"><a href="/sitemap/default.sps" class="copyright">Site Map</a></td>	
+				<td class="copyright" align="center"><a href="/site_services/custom.sps?iType=961&amp;icustompageid=1660" class="copyright">Site Map</a></td>	
 			</tr>
 			<tr>			
 				<td class="copyright" align="center"><a href="/site_services/custom.sps?iType=961&amp;icustompageid=1659" class="copyright">Terms of Use </a></td>
@@ -596,7 +985,9 @@ document.write("<COMMENT>");
 			</tr>			
 		</tbody></table>
 </td>
-<td width="143" valign="top" align="center"><img src="/pix/1.gif" width="143" height="1"><br></td></tr></tbody></table>
+</tr>
+</tbody></table>
+
 
 
 <!-- begin InterceptInteractive pop tag for INT285 -->
@@ -609,4 +1000,4 @@ document.write("<COMMENT>");
 
 
 
-</body></html>
+</td></tr></tbody></table></body></html>
