@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freedom2surf.net privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220205812id_/http%3A//www.freedom2surf.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedom2surf.net privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615023249id_/http%3A//www.freedom2surf.net/privacypolicy) for the most accurate reproduction.*
 
 # Freedom2surf - Privacy Policy
 
@@ -29,4 +29,4 @@ This policy sets out how we will use and protect your personal data. Freedom2sur
   * If you have any queries or requests relating to this Privacy Policy or the use of your personal data you may write to: dpo@freedom2surf.net or to: The Data Protection Officer, Freedom2surf, at the address below. 
   * We may amend this Privacy Policy from time to time. 
 
-"freedom2surf" is the trading name of Freedom To Surf ltd, a company incorporated in England and Wales (Company No 3380801). Registered Office: Abbey View, 38/40 The Maltings, St Albans, Hertfordshire, AL1 3HL, England. Tel: +44 (0)870 2423758. VAT registration number: 697 4012 14.
+"freedom2surf" is the trading name of Freedom To Surf ltd, a company incorporated in England and Wales (Company No 3380801).i Registered Office: Triangle Business Park, Stoke Mandeville, Buckinghamshire, HP22 5BL, England. Tel: +44 (0)870 2423758. VAT registration number: 697 4012 14.
