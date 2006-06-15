@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifesitenews.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211212110id_/http%3A//www.lifesite.net/aboutlifesite/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifesitenews.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615020301id_/http%3A//www.lifesite.net/aboutlifesite/privacy.html) for the most accurate reproduction.*
 
 # LifeSite - Your Life, Family and Culture Outpost
 
@@ -43,73 +43,41 @@ If you have any additional questions or concerns about our privacy policy, pleas
 
 | 
 
-### Breaking News
+### NewsBytes
 
 Last Updated  
-2005-12-10 09:55:20 ET
+2006-06-14 05:32:29 ET
 
-[Peggy Noonan - What does it mean that your first act on entering a country is breaking its laws? ](http://www.opinionjournal.com/columnists/pnoonan/?id=110007648)
+[Sidewalk Counselor Helped an Abortionist Find a New Path ](http://www.sdnewsnotes.com/ed/articles/2006/0606rk.htm)
 
-[UK police warn woman author over comments she did not believe homosexuals should be allowed to adopt ](http://news.telegraph.co.uk/news/main.jhtml?xml=/news/2005/12/10/ngay10.xml)
+[Priests persecuted for revealing abuse by confreres: A growing problem in US ](http://catholiccitizens.org/press/pressview.asp?c=33823)
 
-[Christmas-prayer rebuke ignites community uproar - Supervisor who denounced mention of Jesus forced to apologize ](http://www.worldnetdaily.com/news/article.asp?ARTICLE_ID=47846)
+[Feminized 'Schools are letting boys down' ](http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2006/06/13/uboys.xml&sSheet=/news/2006/06/13/ixnews.html)
 
-['Evil' abortion marketing exposed on MSNBC ](http://www.worldnetdaily.com/news/article.asp?ARTICLE_ID=47844)
+[Belgian bishops oppose assisted-procreation law ](http://www.cwnews.com/news/viewstory.cfm?recnum=44725)
 
-[Hear Him Roar! I Did! - A Review of The Lion, the Witch, and the Wardrobe ](http://headlines.agapepress.org/archive/12/afa/92005a.asp)
+[Morning-after pill spreading out of control in Spanish schools ](http://www.catholicnewsagency.com/new.php?n=6935)
 
-[Hollywood Revival? Christians keep Hollywood profitable. ](http://www.ncregister.com/articulo2.php?artkod=MTU0)
+[President-elect of Peru pledges “devotion to the Church and service to the people” ](http://www.catholicnewsagency.com/new.php?n=6937)
 
-['Merry Christmas' Wristbands Find Faithful Audience ](http://www.newsmax.com/archives/ic/2005/12/9/124303.shtml)
+[Drive to give 'human' rights to apes leaves Spanish divided ](http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2006/06/10/wapes10.xml&sSheet=/news/2006/06/10/ixnews.html)
 
-[In a mid-season turnabout, Target stores have pledged to re-introduce Christmas themes into marketing efforts, ](http://www.worldnetdaily.com/news/article.asp?ARTICLE_ID=47838)
+[Western Standard Publisher Ezra Levant advocates Scrapping Hate Crimes Law ](http://calsun.canoe.ca/News/Columnists/Levant_Ezra/2006/06/12/1626504.html)
 
-[CWA Mobilizes Support for Alito ](http://www.cwalac.org/article_289.shtml)
+[Gov. Bush signs bill allowing stillborn children birth certificates ](http://www.orlandosentinel.com/news/local/state/orl-bk-bushbill060906,0,4374979.story?coll=orl-home-headlines)
 
-[Congressional report calls for investigation of Maurice Strong's role in Oil-for-Food scandal ](http://www.canadafreepress.com/2005/cover120905.htm)
+[Corpse-harvesting case drips horror ](http://www.thenewstribune.com/news/nationworld/story/5806637p-5186049c.html)
 
-[Belinda: Come clean on the gag law ](http://morefreedom.org/cgi-bin/news.cgi?rm=display&articleID=1134134922&search=&category=1&order=&page=1)
+[The New York Times calls the Polish Government “Bigoted” and Homophobic for upholding life, family and Catholic radio station. ](http://www.nytimes.com/2006/06/11/opinion/11sun2.html?_r=2&oref=slogin&oref=slogin)
 
-[Washington furious over Martin's climate change comments ](http://www.cbc.ca/story/canadavotes2006/national/2005/12/09/katrina-global-warming-bush-martin.html)
+[6.06.06 | Is the End At Hand? | An Interview with Michael O’Brien by Valerie Schmalz ](http://www.ignatiusinsight.com/features2006/vschmalz_theend_jun06.asp)
 
-[AP’s Report on its Own Political Corruption Poll Focuses Problem on GOP ](http://newsbusters.org/node/3145)
+[Quebec scrambles to save its churches - Politicians call for funds to support the province's religious heritage ](http://www.theglobeandmail.com/servlet/story/RTGAM.20060608.wxchurches08/BNStory/National/home)
 
-[Narnia & Its Enemies - Sexist, racist, intolerant Lewis? ](http://www.nationalreview.com/seipp/seipp200512090859.asp)
+[Movie Rated PG - for Christianity, Group Says ](http://www.cnsnews.com/ViewCulture.asp?Page=/Culture/archive/200606/CUL20060609a.html)
 
-[Who’s Afraid of C. S. Lewis? - Narnia critics should relax. ](http://www.nationalreview.com/lowry/lowry200512090858.asp)
+[Vocations to religious life and priesthood begin with parents ](http://www.sentinel.org/articles/2006-23/14761.html)
 
-[Canada has culture of violence surrounding its premiere sport - hockey has become national embarrassment ](http://www.canada.com/ottawacitizen/news/editorials/story.html?id=bdaf73f3-e7ff-4004-a313-98a4552473ad)
+[SUMMARY: What senators said during (marriage) debate Monday ](http://www.bpnews.net/bpnews.asp?ID=23400)
 
-[Specter: Tough on Alito but No Filibuster ](http://www.newsmax.com/archives/ic/2005/12/8/154409.shtml)
-
-[Planned Parenthood is calling South Dakota residents in an effort to pressure Senator Tim Johnson (D-SD) to vote against the nomination of Judge Samuel A. Alito. ](http://www.earnedmedia.org/fidelis1208.htm)
-
-[Republicans Urge Mel Gibson to Replace Arnold ](http://www.humaneventsonline.com/article.php?print=yes&id=10742)
-
-[Don't you miss Chretien?? He could always be relied upon for comic relief... (requires Realplayer) ](http://www.airfarce.com/video/031114ch.ram)
-
-[The Real Saint Nick - The man behind the legend should be remembered for much more than gifts for children ](http://www.cwfa.org/articles/9635/CWA/misc/index.htm)
-
-[Pro-Family Pressure Prompts Retailers to Reconsider PC 'Holiday' Policies ](http://headlines.agapepress.org/archive/12/72005b.asp)
-
-[Anti-Christian Hostility Driving 'War on Christmas,' Attorney Says ](http://headlines.agapepress.org/archive/12/72005e.asp)
-
-[Tree in the Purdue Memorial Union's Great Hall is once again named in honor of Christmas. ](http://www.purdueexponent.org/index.php/module/Issue/action/Article/article_id/2201)
-
-[In Light of the Lionization of John Lennon ](http://www.bpnews.net/bpnews.asp?ID=22231)
-
-[Plan exempts Catholic hospitals from offering morning-after pills ](http://www.catholicnewsagency.com/new.php?n=5600)
-
-[Israelis to be allowed euthanasia by machine ](http://news.telegraph.co.uk/news/main.jhtml?xml=/news/2005/12/08/weuth08.xml)
-
-[Dutch 'suicide consultant' jailed ](http://news.bbc.co.uk/2/hi/europe/4509582.stm)
-
-[Catholics and 'no-fault' divorce ](http://www.renewamerica.us/columns/abbott/051207)
-
-[Poll: Political Corruption Seen as Widespread in US ](http://www.newsmax.com/archives/ic/2005/12/8/213701.shtml)
-
-[Germany backs bigger brothels to fight World Cup sex explosion ](http://news.independent.co.uk/europe/article331954.ece)
-
-[Reviewers Call 'Brokeback Mountain' Twisted - Gay love story carries a high "ick" factor ](http://www.family.org/cforum/news/a0038874.cfm)
-
-[Love homosexuals as Jesus would, ex-gays urge at conference ](http://www.bpnews.net/bpnews.asp?ID=22229)
+[Coulter: Abortion is Dems' Version of 'Virgin Sacrifice' ](http://www.cnsnews.com/ViewSpecialReports.asp?Page=/SpecialReports/archive/200606/SPE20060606a.html)
