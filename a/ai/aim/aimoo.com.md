@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aimoo.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210053025id_/http%3A//aimoo.com/Privacy_message_board.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aimoo.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615211823id_/http%3A//aimoo.com/Privacy_message_board.cfm) for the most accurate reproduction.*
 
 # Aimoo Messageboards - Free Message Boards for webmasters
 
@@ -29,10 +29,10 @@ This site gives users the following options for removing their information from 
 
 **Correct/Update**  
 This site gives users the following options for changing and modifying information previously provided.   
-You can send email to support@aimoo.com  
+You can send email to support-ticket@aimoo.com  
 You can visit the following URL: http://www.aimoo.com/myaimoocontrol.cfm
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact   
 Aimoo administrator  
-Aimoo INC  
-support@aimoo.com
+Aimoo.com  
+support-ticket@aimoo.com
