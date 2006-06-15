@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the actionnetwork.org privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210070408id_/http%3A//www.environmentaldefense.org/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actionnetwork.org privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616003944id_/http%3A//www.environmentaldefense.org/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -44,7 +44,6 @@ If you ask for one of our many personalized or enhanced services, we will ask yo
 We are Environmental Defense, a non-profit, tax-deductible environmental advocacy and research organization, and Environmental Defense Action Fund, a non-profit, non-tax-deductible environmental advocacy and research organization. Environmental Defense and Environmental Defense Action Fund are affiliated organizations. We are responsible for any information collected on our web sites. Our organizational site is [www.environmentaldefense.org](http://www.environmentaldefense.org/). In addition, we sponsor: 
 
   * **[Scorecard](http://www.scorecard.org/)** , a comprehensive online tool for monitoring and taking action on chemical releases and other forms of pollution nationwide; 
-  * [**Hog Watch**](http://www.hogwatch.org/), a clearinghouse and advocacy site focused on environmental threats from factory farming in the U.S.; 
   * **[Environmental Defense's Action Network](http://www.actionnetwork.org/), **an online activist tool to influence policy (parts of which are operated by **other organizations** ); 
   * **[GetGreen](http://www.getgreen.org/)** , which features tips on how to save money while saving the environment; 
   * [**Alliance for Environmental Innovation**](http://www.environmentaldefense.org/alliance), the web site for our joint project with The Pew Charitable Trusts that works with private companies to create environmental change; 
