@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the denverbroncos.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212153740id_/http%3A//www.denverbroncos.com/page.php%3Fid%3D101) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the denverbroncos.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615205624id_/http%3A//www.denverbroncos.com/page.php%3Fid%3D101) for the most accurate reproduction.*
 
 # DenverBroncos.com – Official Web Site of the Denver Broncos
 
@@ -97,7 +97,7 @@ By using this Site, you signify your agreement to the terms of this privacy poli
 
 **CORRECTION/UPDATING PERSONAL INFORMATION**
 
-If your personally identifiable information (such as your address) changes, or if you no longer desire to access our Site, you may correct, update or remove the personal data you have provided to us by making changes to your profile, by using an opt out message in an e-mail, or by e-mailing the Site manager at [harbulas@broncos.nfl.com](mailto:harbulas@broncos.nfl.com) with your request. If you have any questions about this privacy policy or the privacy practices of this Site, you can contact:
+If your personally identifiable information (such as your address) changes, or if you no longer desire to access our Site, you may correct, update or remove the personal data you have provided to us by making changes to your profile, by using an opt out message in an e-mail, or by e-mailing the Site manager at [steve.harbula@broncos.nfl.net](mailto:steve.harbula@broncos.nfl.net) with your request. If you have any questions about this privacy policy or the privacy practices of this Site, you can contact:
 
 Steve Harbula  
 Denver Broncos Football Club  
