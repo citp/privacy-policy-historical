@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the baekdal.com privacy policy that was archived on 2005-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051129115904id_/http%3A//www.baekdal.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baekdal.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615030715id_/http%3A//baekdal.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Baekdal.com
+# Privacy Policy - Baekdal.com
 
-_We are currently testing Google Analytics on this site. This means that you IP-address, screen resolution, type browser and operating systems are sent to Google (all the normal statistics stuff). See Google's[Privacy Policy](http://www.google.com/intl/en/privacy.html) _
+\- by Thomas Baekdal - May. 8, 2004
+
+We are currently testing Google Analytics on this site. This means that you IP-address, screen resolution, type browser and operating systems are sent to Google (all the normal statistics stuff). See Google's [Privacy Policy](http://www.google.com/intl/en/privacy.html)
 
 Baekdal.com fully respects your privacy. That is why we have created this privacy policy to explain what information we collect, why we do it, and how we use it. 
 
@@ -58,7 +60,7 @@ Please use the contact information below - or visit our [contact page](https://w
 
 At any time you can tell us to stop collecting more information about your person.
 
-_Notice: This will cause certain parts of this site to become unavailable to you - such as commenting, tailored pages and other parts of this site that rely on personal information in order to work. You will also not be able to enter the password protected areas._
+Notice: This will cause certain parts of this site to become unavailable to you - such as commenting, tailored pages and other parts of this site that rely on personal information in order to work. You will also not be able to enter the password protected areas. 
 
 ## Policy Changes
 
@@ -66,8 +68,8 @@ Baekdal.com is constantly in a state of change thus this privacy policy may also
 
 ## Contact Baekdal.com - Privacy Information
 
-  * By email: [privacy@baekdal.com](mailto:privacy@baekdal.com?subject=\(tbvalid\))   
-_Please include "(tbvalid)" in the subject line to bypass the spam filter_
-  * By mail: Baekdal.com, Svanholmsgade 9, 7100 Vejle, Denmark
+  * By email: [privacy@baekdal.com](mailto:privacy@baekdal.com?subject=\(tbvalid\))  
+ _Please include "(tbvalid)" in the subject line to bypass the spam filter_
+  * By mail: Baekdal.com, Odinsgade 51, 7100 Vejle, Denmark
 
 
