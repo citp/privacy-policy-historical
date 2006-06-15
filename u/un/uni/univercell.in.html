@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the univercell.in privacy policy that was archived on 2005-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051218081557id_/http%3A//www.univercell.in/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the univercell.in privacy policy that was archived on 2006-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615212732id_/http%3A//univercell.in/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <meta http-equiv="Content-Language" content="en-us">
@@ -13,14 +13,28 @@
 //-->
 </script>
 </head>
-<body topmargin="0" leftmargin="0" bgcolor="#EEEEEE">
+<body topmargin="0" leftmargin="0" bgcolor="#EEEEEE" onresize="changePos();">
 
 <script language="javascript">
 <!--
-var xtraPixels = 0
+if (document.all){
+	xtraPixels = 0
+	if (document.body.offsetWidth > 800) xtraPixels = (document.body.offsetWidth - 800)/2;
+}
+else{
+	xtraPixels = 0
+	if (window.innerWidth > 800) xtraPixels = (window.innerWidth - 800)/2;
+}
 
-if (screen.availWidth > 850){
-	xtraPixels = 112;
+function changePos(){
+	if (document.all){
+		if (document.body.offsetWidth > 800){
+			document.all.topMobile.style.left = (document.body.offsetWidth - 800)/2 + 367;
+		}
+		else{
+			document.all.topMobile.style.left = 367;
+		}
+	}
 }
 
 function loadModels(){
@@ -37,9 +51,12 @@ function gotoMobile(){
 		alert("Please Select your Model.");
 		eval("quickFinder.mno"+quickFinder.brandNo.value+".focus()");
 	}
+	else if (eval("quickFinder.mno"+quickFinder.brandNo.value+".value == -1")){
+		document.location = "listMobiles.asp?bno="+quickFinder.brandNo.value+"&qf=true";
+	}
 	else{
 		mno = eval("quickFinder.mno"+quickFinder.brandNo.value+".value");
-		document.location = "showMobile.asp?mno="+mno;
+		document.location = "showMobile.asp?mno="+mno+"&qf=true";
 	}
 }
 
@@ -56,44 +73,16 @@ function emiCalc(mno){
   <center>
   <table border="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="780" id="AutoNumber1" cellpadding="0" bgcolor="#FFFFFF">
     <tbody><tr>
-      <td width="516" height="8"><img border="0" src="images/dot.gif"></td>
-      <td width="274" bgcolor="#9CCCEE" height="8">
-      <img border="0" src="images/dot.gif"></td>
-    </tr>
-    <tr>
-      <td valign="top">
+      <td valign="top" width="516">
       <table border="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber3" cellpadding="0">
         <tbody><tr>
-          <td colspan="5" height="54" valign="bottom">
-          <table border="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" id="AutoNumber21" cellpadding="0">
-            <tbody><tr>
-              <td>
-              <p style="margin-left: 11; margin-bottom: 5"><a href="home.asp">
-              <img border="0" src="images/hyp_home.gif" alt="Home"></a></p></td>
-              <td>
-              <p style="margin-left: 15; margin-bottom: 5">
-              <a href="aboutus.asp">
-              <img border="0" src="images/hyp_aboutus.gif" alt="About Us"></a></p></td>
-              <td>
-              <p style="margin-left: 15; margin-bottom: 5"><a href="press.asp">
-              <img border="0" src="images/hyp_press.gif" alt="Press Centre"></a></p></td>
-              <td>
-              <p style="margin-left: 15; margin-bottom: 5">
-              <a href="branches.asp">
-              <img border="0" src="images/hyp_branches.gif" alt="Branches"></a></p></td>
-              <td>
-              <p style="margin-left: 15; margin-bottom: 5">
-              <a href="contact.asp">
-              <img border="0" src="images/hyp_contact.gif" alt="Contact"></a></p></td>
-            </tr>
-          </tbody></table>
-          </td>
+          <td colspan="5" height="40" width="100%"><p style="margin-left: 10"><a href="compare.asp?thru=topBanner"><img border="0" src="images/topBanners/2.gif"></a></p></td>
         </tr>
         <tr>
-          <td width="6" height="89" bgcolor="#9CCCEE">
+          <td width="6" bgcolor="#9CCCEE">
           <img border="0" src="images/dot.gif"></td>
-          <td width="5" height="89"><img border="0" src="images/bar_top.gif"></td>
-          <td width="186" height="89" bgcolor="#208BBD">
+          <td width="5"><img border="0" src="images/bar_top.gif"></td>
+          <td width="186" bgcolor="#208BBD">
           <table border="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber4" cellpadding="0">
             <tbody><tr>
               <td>
@@ -137,6 +126,7 @@ function emiCalc(mno){
                  <div id="brand1" style="display:none"><p style="margin-left: 20; margin-top:3; margin-bottom:2">
                         <select name="mno1" style="width:145px">
 						<option value="0">Select your Model</option>
+						<option value="-1">Show all Models</option>
 
 						<option value="1">Nokia 1100</option>
 
@@ -150,43 +140,35 @@ function emiCalc(mno){
 
 						<option value="4">Nokia 2600</option>
 
-						<option value="5">Nokia 2650</option>
-
-						<option value="6">Nokia 3100</option>
-
 						<option value="7">Nokia 3120</option>
-
-						<option value="8">Nokia 3200</option>
 
 						<option value="9">Nokia 3220</option>
 
 						<option value="110">Nokia 3230</option>
 
-						<option value="11">Nokia 6020</option>
+						<option value="214">Nokia 3250</option>
 
-						<option value="139">Nokia 6021</option>
+						<option value="11">Nokia 6020</option>
 
 						<option value="151">Nokia 6030</option>
 
 						<option value="180">Nokia 6060</option>
 
-						<option value="12">Nokia 6100</option>
-
 						<option value="150">Nokia 6101</option>
 
 						<option value="181">Nokia 6111</option>
 
-						<option value="13">Nokia 6170</option>
+						<option value="232">Nokia 6131</option>
 
-						<option value="14">Nokia 6220</option>
+						<option value="13">Nokia 6170</option>
 
 						<option value="128">Nokia 6230i</option>
 
-						<option value="16">Nokia 6260</option>
+						<option value="195">Nokia 6270</option>
+
+						<option value="213">Nokia 6280</option>
 
 						<option value="17">Nokia 6600</option>
-
-						<option value="19">Nokia 6610i</option>
 
 						<option value="20">Nokia 6630</option>
 
@@ -196,29 +178,39 @@ function emiCalc(mno){
 
 						<option value="135">Nokia 6681</option>
 
+						<option value="233">Nokia 6708</option>
+
 						<option value="160">Nokia 7250i</option>
 
-						<option value="25">Nokia 7260</option>
-
-						<option value="26">Nokia 7270</option>
-
 						<option value="27">Nokia 7280</option>
+
+						<option value="199">Nokia 7360</option>
+
+						<option value="205">Nokia 7370</option>
 
 						<option value="28">Nokia 7610</option>
 
 						<option value="29">Nokia 7710</option>
 
-						<option value="149">Nokia 8800</option>
-
 						<option value="30">Nokia 9300</option>
+
+						<option value="209">Nokia 9300i</option>
 
 						<option value="31">Nokia 9500</option>
 
-						<option value="98">Nokia N-Gage QD</option>
+						<option value="230">Nokia E60</option>
+
+						<option value="231">Nokia E61</option>
 
 						<option value="172">Nokia N70</option>
 
+						<option value="228">Nokia N71</option>
+
+						<option value="227">Nokia N80</option>
+
 						<option value="156">Nokia N90</option>
+
+						<option value="218">Nokia N91</option>
 
                         </select>
                  </p></div>
@@ -226,6 +218,9 @@ function emiCalc(mno){
                  <div id="brand2" style="display:none"><p style="margin-left: 20; margin-top:3; margin-bottom:2">
                         <select name="mno2" style="width:145px">
 						<option value="0">Select your Model</option>
+						<option value="-1">Show all Models</option>
+
+						<option value="235">Samsung C130</option>
 
 						<option value="35">Samsung C200</option>
 
@@ -237,9 +232,9 @@ function emiCalc(mno){
 
 						<option value="179">Samsung D600</option>
 
-						<option value="111">Samsung E330</option>
+						<option value="217">Samsung D820</option>
 
-						<option value="162">Samsung E530</option>
+						<option value="111">Samsung E330</option>
 
 						<option value="165">Samsung E730</option>
 
@@ -247,21 +242,23 @@ function emiCalc(mno){
 
 						<option value="171">Samsung E880</option>
 
-						<option value="113">Samsung N700</option>
+						<option value="197">Samsung N710</option>
+
+						<option value="234">Samsung X160</option>
 
 						<option value="174">Samsung X200</option>
-
-						<option value="36">Samsung X430</option>
-
-						<option value="37">Samsung X460</option>
-
-						<option value="123">Samsung X480</option>
 
 						<option value="168">Samsung X620</option>
 
 						<option value="141">Samsung X640</option>
 
+						<option value="226">Samsung X650</option>
+
 						<option value="182">Samsung X660</option>
+
+						<option value="223">Samsung X670</option>
+
+						<option value="194">Samsung X700</option>
 
                         </select>
                  </p></div>
@@ -269,36 +266,33 @@ function emiCalc(mno){
                  <div id="brand3" style="display:none"><p style="margin-left: 20; margin-top:3; margin-bottom:2">
                         <select name="mno3" style="width:145px">
 						<option value="0">Select your Model</option>
+						<option value="-1">Show all Models</option>
 
-						<option value="173">Sony Ericsson  W550</option>
+						<option value="224">Sony Ericsson J100i</option>
 
 						<option value="170">Sony Ericsson J210i</option>
+
+						<option value="220">Sony Ericsson J220i</option>
+
+						<option value="221">Sony Ericsson J230i</option>
 
 						<option value="146">Sony Ericsson J300i</option>
 
 						<option value="114">Sony Ericsson K300i</option>
 
-						<option value="49">Sony Ericsson K500i</option>
-
-						<option value="99">Sony Ericsson K508</option>
-
-						<option value="51">Sony Ericsson K700i</option>
-
 						<option value="136">Sony Ericsson K750i</option>
 
-						<option value="53">Sony Ericsson P910i</option>
+						<option value="173">Sony Ericsson W550</option>
 
-						<option value="52">Sony Ericsson S700i</option>
+						<option value="229">Sony Ericsson W700i</option>
 
-						<option value="124">Sony Ericsson T290i</option>
+						<option value="212">Sony Ericsson W810i</option>
 
-						<option value="48">Sony Ericsson T630</option>
-
-						<option value="154">Sony Ericsson W800</option>
+						<option value="187">Sony Ericsson Z300i</option>
 
 						<option value="169">Sony Ericsson Z520i</option>
 
-						<option value="155">Sony Ericsson Z800</option>
+						<option value="219">Sony Ericsson Z530i</option>
 
                         </select>
                  </p></div>
@@ -306,24 +300,39 @@ function emiCalc(mno){
                  <div id="brand4" style="display:none"><p style="margin-left: 20; margin-top:3; margin-bottom:2">
                         <select name="mno4" style="width:145px">
 						<option value="0">Select your Model</option>
-
-						<option value="61">Motorola A768i</option>
+						<option value="-1">Show all Models</option>
 
 						<option value="117">Motorola A780</option>
 
-						<option value="157">Motorola C138</option>
+						<option value="203">Motorola C117</option>
 
-						<option value="58">Motorola C155</option>
+						<option value="184">Motorola C118</option>
 
-						<option value="59">Motorola C650</option>
+						<option value="183">Motorola C139</option>
 
-						<option value="60">Motorola E398</option>
+						<option value="202">Motorola C168</option>
 
-						<option value="137">Motorola V171</option>
+						<option value="191">Motorola C257</option>
 
-						<option value="118">Motorola V220</option>
+						<option value="192">Motorola C261</option>
 
-						<option value="158">Motorola V3</option>
+						<option value="225">Motorola L2</option>
+
+						<option value="185">Motorola L6</option>
+
+						<option value="216">Motorola PEBL</option>
+
+						<option value="204">Motorola RAZR V3i</option>
+
+						<option value="193">Motorola SLVR L7</option>
+
+						<option value="158">Motorola V3  Silver</option>
+
+						<option value="188">Motorola V3 Black</option>
+
+						<option value="211">Motorola V3 blue</option>
+
+						<option value="189">Motorola V3 Pink</option>
 
                         </select>
                  </p></div>
@@ -331,30 +340,27 @@ function emiCalc(mno){
                  <div id="brand5" style="display:none"><p style="margin-left: 20; margin-top:3; margin-bottom:2">
                         <select name="mno5" style="width:145px">
 						<option value="0">Select your Model</option>
-
-						<option value="142">LG 1610</option>
-
-						<option value="134">LG 5600 Yuva</option>
-
-						<option value="109">LG B2000</option>
+						<option value="-1">Show all Models</option>
 
 						<option value="177">LG B2050</option>
 
-						<option value="143">LG B2100</option>
+						<option value="208">LG B2070</option>
 
-						<option value="129">LG C2100</option>
+						<option value="206">LG C2500</option>
+
+						<option value="215">LG C3380</option>
 
 						<option value="144">LG C3400</option>
 
-						<option value="133">LG F7100</option>
-
-						<option value="75">LG G1600</option>
-
-						<option value="119">LG G1800</option>
-
-						<option value="77">LG G3100</option>
-
 						<option value="163">LG M4410</option>
+
+						<option value="222">LG M6100</option>
+
+						<option value="198">LG P7200</option>
+
+						<option value="200">LG S5000</option>
+
+						<option value="201">LG S5200</option>
 
                         </select>
                  </p></div>
@@ -362,12 +368,9 @@ function emiCalc(mno){
                  <div id="brand6" style="display:none"><p style="margin-left: 20; margin-top:3; margin-bottom:2">
                         <select name="mno6" style="width:145px">
 						<option value="0">Select your Model</option>
-
-						<option value="81">Panasonic A102</option>
+						<option value="-1">Show all Models</option>
 
 						<option value="130">Panasonic A210</option>
-
-						<option value="140">Panasonic A500</option>
 
 						<option value="166">Panasonic MX6</option>
 
@@ -381,12 +384,6 @@ function emiCalc(mno){
 
 						<option value="175">Panasonic VS6</option>
 
-						<option value="84">Panasonic X200</option>
-
-						<option value="85">Panasonic X500</option>
-
-						<option value="164">Panasonic X700</option>
-
 						<option value="131">Panasonic X800</option>
 
                         </select>
@@ -395,12 +392,11 @@ function emiCalc(mno){
                  <div id="brand7" style="display:none"><p style="margin-left: 20; margin-top:3; margin-bottom:2">
                         <select name="mno7" style="width:145px">
 						<option value="0">Select your Model</option>
+						<option value="-1">Show all Models</option>
 
 						<option value="116">Philips 162</option>
 
 						<option value="94">Philips 330</option>
-
-						<option value="88">Philips 355</option>
 
 						<option value="97">Philips 630</option>
 
@@ -414,12 +410,13 @@ function emiCalc(mno){
                  <div id="brand8" style="display:none"><p style="margin-left: 20; margin-top:3; margin-bottom:2">
                         <select name="mno8" style="width:145px">
 						<option value="0">Select your Model</option>
+						<option value="-1">Show all Models</option>
 
 						<option value="145">BlackBerry 7100g</option>
 
 						<option value="178">BlackBerry 7290</option>
 
-						<option value="71">BlackBerry 7730</option>
+						<option value="210">BlackBerry 8700g</option>
 
                         </select>
                  </p></div>
@@ -427,14 +424,11 @@ function emiCalc(mno){
                  <div id="brand9" style="display:none"><p style="margin-left: 20; margin-top:3; margin-bottom:2">
                         <select name="mno9" style="width:145px">
 						<option value="0">Select your Model</option>
+						<option value="-1">Show all Models</option>
 
-						<option value="68">O2 XDA II mini</option>
+						<option value="190">O2 Xda Atom</option>
 
 						<option value="127">O2 XDA IIi</option>
-
-						<option value="107">O2 XDA IIs</option>
-
-						<option value="67">O2 Xphone II</option>
 
                         </select>
                  </p></div>
@@ -449,26 +443,23 @@ function emiCalc(mno){
 
             </tbody></table>
           </td>
-          <td width="3" height="89"><img border="0" src="images/dot.gif"></td>
-          <td width="306" height="89" bgcolor="#9CCCEE">
+          <td width="3"><img border="0" src="images/dot.gif"></td>
+          <td width="316" background="images/bg_top.jpg">
           &nbsp;</td>
         </tr>
       </tbody></table>
       </td>
-      <td valign="top">
-      <table border="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber2" cellpadding="0">
+      <td valign="bottom" width="264">
+      <table border="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber2" cellpadding="0" height="122">
         <tbody><tr>
-          <td>
-          <p align="right" style="margin-right: 15; margin-top:5">
-          <font color="#000000" style="font-size: 10px">Sunday, December 18, 2005</font></p></td>
-        </tr>
-        <tr>
-          <td>
-          <p align="right" style="margin-top:16; ">
+          <td align="center" height="92">
+          <p style="margin-bottom:20; margin-top:10">
           <a href="home.asp"><img border="0" src="images/logo.jpg"></a></p></td>
         </tr>
         <tr>
-          <td bgcolor="#9CCCEE" height="15">&nbsp;</td>
+          <td align="center" height="18">
+              <p style="margin-bottom: 10">
+              <img border="0" src="images/txt_india.gif"></p></td>
         </tr>
       </tbody></table>
       </td>
@@ -480,42 +471,47 @@ function emiCalc(mno){
       <td colspan="2" bgcolor="#9CCCEE"><img border="0" src="images/dot.gif"></td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td colspan="2" background="images/bg_top.gif">
+      <div align="center">
+        <center>
       <table border="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" id="AutoNumber6" cellpadding="0" height="38">
         <tbody><tr>
-          <td width="200" background="images/bg_txtiso.jpg">
-          <p style="margin-left: 10"><font color="#4F4F4F">India's First Mobile Retailer to Receive</font><br>
-          <font color="#000000"><span style="font-size: 12px; font-weight: 700">
-          ISO 9001:2000</span></font></p></td>
+          <td align="center">
+          <p style="margin-left: 12; margin-right: 13"><a href="home.asp" title="Home"><img border="0" src="images/hyp_home1.gif"></a></p></td>
           <td width="1"><img border="0" src="images/separator_topicons.gif"></td>
           <td align="center">
-          <p style="margin-left: 10; margin-right: 9"><a href="mobiles.asp" title="Mobiles"><img border="0" src="images/hyp_mobiles.gif"></a></p></td>
+          <p style="margin-left: 12; margin-right: 12"><a href="mobiles.asp" title="Mobiles"><img border="0" src="images/hyp_mobiles.gif"></a></p></td>
           <td width="1"><img border="0" src="images/separator_topicons.gif"></td>
           <td align="center">
-          <p style="margin-left: 10; margin-right: 9"><a href="search.asp" title="Search"><img border="0" src="images/hyp_search.gif"></a></p></td>
+          <p style="margin-left: 12; margin-right: 12"><a href="mcs.asp" title="Ringtones"><img border="0" src="images/hyp_ringtone.gif"></a></p></td>
           <td width="1"><img border="0" src="images/separator_topicons.gif"></td>
           <td align="center">
-          <p style="margin-left: 9; margin-right: 9"><a href="compare.asp" title="Compare"><img border="0" src="images/hyp_compare.gif"></a></p></td>
+          <p style="margin-left: 12; margin-right: 12"><a href="recharge.asp" title="e-Recharge"><img border="0" src="images/hyp_eRecharge.gif"></a></p></td>
           <td width="1"><img border="0" src="images/separator_topicons.gif"></td>
           <td align="center">
-          <p style="margin-left: 9; margin-right: 9"><a href="exchange.asp" title="Exchange"><img border="0" src="images/hyp_exchange.gif"></a></p></td>
+          <p style="margin-left: 12; margin-right: 12"><a href="search.asp" title="Search"><img border="0" src="images/hyp_search.gif"></a></p></td>
           <td width="1"><img border="0" src="images/separator_topicons.gif"></td>
           <td align="center">
-          <p style="margin-left: 9; margin-right: 9"><a href="hirePurchase.asp" title="Hire Purchase"><img border="0" src="images/hyp_hp.gif"></a></p></td>
+          <p style="margin-left: 12; margin-right: 12"><a href="compare.asp" title="Compare"><img border="0" src="images/hyp_compare.gif"></a></p></td>
           <td width="1"><img border="0" src="images/separator_topicons.gif"></td>
           <td align="center">
-          <p style="margin-left: 9; margin-right: 9"><a href="service.asp" title="Service"><img border="0" src="images/hyp_service.gif"></a></p></td>
+          <p style="margin-left: 12; margin-right: 12"><a href="exchange.asp" title="Exchange"><img border="0" src="images/hyp_exchange.gif"></a></p></td>
           <td width="1"><img border="0" src="images/separator_topicons.gif"></td>
           <td align="center">
-          <p style="margin-left: 9; margin-right: 9"><a href="accessories.asp" title="Accessories"><img border="0" src="images/hyp_accessories.gif"></a></p></td>
+          <p style="margin-left: 12; margin-right: 12"><a href="hirePurchase.asp" title="Hire Purchase"><img border="0" src="images/hyp_hp.gif"></a></p></td>
           <td width="1"><img border="0" src="images/separator_topicons.gif"></td>
           <td align="center">
-          <p style="margin-left: 9; margin-right: 9"><a href="connections.asp" title="Connections"><img border="0" src="images/hyp_connections.gif"></a></p></td>
+          <p style="margin-left: 12; margin-right: 12"><a href="accessories.asp" title="Accessories"><img border="0" src="images/hyp_accessories.gif"></a></p></td>
           <td width="1"><img border="0" src="images/separator_topicons.gif"></td>
           <td align="center">
-          <p style="margin-left: 9; margin-right: 9"><a href="register.asp" title="Register"><img border="0" src="images/hyp_register.gif"></a></p></td>
+          <p style="margin-left: 12; margin-right: 12"><a href="connections.asp" title="Connections"><img border="0" src="images/hyp_connections.gif"></a></p></td>
+          <td width="1"><img border="0" src="images/separator_topicons.gif"></td>
+          <td align="center">
+          <p style="margin-left: 13; margin-right: 12"><a href="register.asp" title="Register"><img border="0" src="images/hyp_register.gif"></a></p></td>
         </tr>
       </tbody></table>
+        </center>
+      </div>
       </td>
     </tr>
     <tr>
@@ -525,21 +521,22 @@ function emiCalc(mno){
       <td colspan="2"><img border="0" src="images/dot.gif"></td>
     </tr>
     <tr>
-      <td height="23" bgcolor="#6AB2D3" background="images/bg_top.gif">
+      <td height="23" bgcolor="#208BBD">
       <table border="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" id="AutoNumber20" cellpadding="0">
         <tbody><tr>
           <td>
           	<p style="margin-left: 10; margin-bottom: 5; margin-top:5"><a href="viewCart.asp" title="View Cart"><font color="#FFFFFF" style="font-size: 10px"><img border="0" src="images/topicon_cart.gif" align="left">&nbsp;Now in your cart <b>0 items</b></font></a>
 			</p></td>
           <td>
-          <p style="margin-left: 10; margin-top:5; margin-bottom:5"><a href="checkOut.asp" title="Check Out"><font color="#FFFFFF" style="font-size: 10px"><img border="0" src="images/topicon_checkout.gif" align="left"> Check Out</font></a>
-          </p></td>
+          <p style="margin-left: 10; margin-top:5; margin-bottom:5"><a href="checkOut.asp" title="Check Out"><font color="#FFFFFF" style="font-size: 10px"><img border="0" src="images/topicon_checkout.gif" align="left"> Check Out</font></a></p></td>
         </tr>
-      </tbody></table>
-      </td>
-      <td height="23" bgcolor="#6AB2D3" background="images/bg_top.gif">
-      <p align="right" style="margin-right: 117">
-      <img border="0" src="images/img_topbar.jpg"></p></td>
+      </tbody></table></td>
+      <td height="23" bgcolor="#208BBD" align="right">
+      <p style="margin-right: 12"><font color="#FFFFFF" style="font-size: 10px">India's First 
+      Mobile Retailer to Receive <b>ISO 9001:2000</b></font></p></td>
+    </tr>
+    <tr>
+      <td colspan="2"><a href="mcs.asp"><img border="0" src="images/mcBanners/mc_1.jpg"></a></td>
     </tr>
   </tbody></table>
   </center>
@@ -547,9 +544,9 @@ function emiCalc(mno){
 
 <script language"javascript"="">
 <!--
-	document.write("<div style=\"position: absolute; left: "+(335+xtraPixels)+"; top: 0; display:block\"><a href=\"showMobile.asp?mno=173\"><img border=\"0\" src=\"images/topMobiles/173.jpg\" width=\"182\" height=\"151\" alt=\"Sony Ericsson  W550\"></a></div>");
+	document.write("<div id=\"topMobile\" style=\"position: absolute; left: "+(367+xtraPixels)+"; top: 4; display:block\"><a href=\"showMobile.asp?mno=221&thru=topMobile\"><img border=\"0\" src=\"images/topMobiles/221.jpg\" width=\"150\" height=\"125\" alt=\"Sony Ericsson J230i\"></a></div>");
 //-->
-</script><div style="position: absolute; left: 335; top: 0; display:block"><a href="showMobile.asp?mno=173"><img border="0" src="images/topMobiles/173.jpg" width="182" height="151" alt="Sony Ericsson  W550"></a></div>
+</script><div id="topMobile" style="position: absolute; left: 650; top: 4; display:block"><a href="showMobile.asp?mno=221&amp;thru=topMobile"><img border="0" src="images/topMobiles/221.jpg" width="150" height="125" alt="Sony Ericsson J230i"></a></div>
 
 <div align="center">
   <center>
@@ -581,7 +578,7 @@ function emiCalc(mno){
                     <tr>
                       <td width="100%" colspan="2">
                       <p align="justify" style="margin-top: 10; ">
-          <img border="0" src="source/Backups/28112005/images/navimg_privacy.jpg" style="margin-left: 15; margin-bottom: 10" align="right">This Privacy Policy is applicable to <u>www.univercell.in</u> When 
+          <img border="0" src="images/navimg_privacy.jpg" style="margin-left: 15; margin-bottom: 10" align="right">This Privacy Policy is applicable to <u>www.univercell.in</u> When 
           leaving this Site, please read the privacy policy applicable to the 
           site you are visiting. If you do not agree with this Privacy Policy, 
           please do not use this Site. <br>
@@ -664,10 +661,12 @@ function emiCalc(mno){
                       <p align="right" style="margin-top: 5; margin-bottom: 5"><a title="Return to Top" href="#top"><img border="0" src="images/up_arrow.gif"><b> Top</b></a></p></td>
                     </tr>
                     <tr>
-                      <td width="100%" bgcolor="#D2E8F2">
-                      <img border="0" src="images/dot.gif"></td>
-                    </tr>
-                    <tr>
+                      <td width="100%">
+                      <table border="2" cellpadding="5" cellspacing="0" style="border-collapse: collapse" bordercolor="#000000" width="100%" id="AutoNumber11">
+                        <tbody><tr>
+                          <td width="100%">
+                  <table border="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="95%" id="AutoNumber10" cellpadding="0">
+                    <tbody><tr>
                       <td width="100%">
                       <p style="margin-left: 10; margin-top: 5; margin-bottom: 5">
                       <b>A Choice from the Univer<font color="#00AEEF">Cell</font> 
@@ -687,7 +686,7 @@ function emiCalc(mno){
                   <td width="112" height="112" align="center">
                   <table border="1" cellspacing="0" style="border-collapse: collapse" bordercolor="#626262" width="100" id="AutoNumber12" cellpadding="0" height="100">
                     <tbody><tr>
-                      <td width="100%" align="center"><a href="showMobile.asp?mno=6" title="Nokia 3100"><img alt="Nokia 3100" border="0" src="../images/mobiles/3100.jpg"></a></td>
+                      <td width="100%" align="center"><a href="showMobile.asp?mno=20" title="Nokia 6630"><img alt="Nokia 6630" border="0" src="../images/mobiles/6630.jpg"></a></td>
                     </tr>
                   </tbody></table>
                   </td>
@@ -705,23 +704,25 @@ function emiCalc(mno){
                       <td width="100%" height="27" bgcolor="#EEEEEE">
                       <p align="right" style="margin-right: 10"><a href="listMobiles.asp?bno=1"><b><font color="#959595">Nokia</font></b></a></p></td>
                     </tr>
+
                     <tr>
                       <td width="100%">
-                      <p style="line-height: 150%; margin-left: 10; margin-top: 4; margin-bottom: 4">Nokia 3100<br><b>Rs.4,299/-</b></p></td>
+                      <p style="line-height: 150%; margin-left: 10; margin-top: 4; margin-bottom: 4">Nokia 6630<br><b>Rs.12,399/-</b></p></td>
                     </tr>
+
                     <tr>
                       <td>
-                      <p style="margin-left: 10; margin-bottom: 5"><a href="javascript:zoomIt(6);" title="Zoom"><font color="#208BBD">
+                      <p style="margin-left: 10; margin-bottom: 5"><a href="javascript:zoomIt(20);" title="Zoom"><font color="#208BBD">
                       (+) Zoom</font></a></p></td>
                       </tr>
                     <tr>
                       <td>
                       <p style="margin-right: 10" align="right">
-                      <a href="addCart.asp?mno=6" title="Add to Shopping Cart">
+                      <a href="addCart.asp?mno=20" title="Add to Shopping Cart">
                       <img border="0" src="images/icon_addCart.gif"></a>&nbsp;
-                      <a href="javascript:emiCalc(6);" title="Calculate EMI">
+                      <a href="javascript:emiCalc(20);" title="Calculate EMI">
                       <img border="0" src="images/icon_calc.gif"></a>&nbsp;
-                      <a href="showMobile.asp?mno=6" title="More Information">
+                      <a href="showMobile.asp?mno=20" title="More Information">
                       <img border="0" src="images/icon_info.gif"></a></p></td>
                     </tr>
                   </tbody></table>
@@ -742,7 +743,7 @@ function emiCalc(mno){
                   <td width="112" height="112" align="center">
                   <table border="1" cellspacing="0" style="border-collapse: collapse" bordercolor="#626262" width="100" id="AutoNumber12" cellpadding="0" height="100">
                     <tbody><tr>
-                      <td width="100%" align="center"><a href="showMobile.asp?mno=77" title="LG G3100"><img alt="LG G3100" border="0" src="../images/mobiles/g3100.jpg"></a></td>
+                      <td width="100%" align="center"><a href="showMobile.asp?mno=192" title="Motorola C261"><img alt="Motorola C261" border="0" src="../images/mobiles/c261.jpg"></a></td>
                     </tr>
                   </tbody></table>
                   </td>
@@ -758,25 +759,27 @@ function emiCalc(mno){
                     </tr>
                     <tr>
                       <td width="100%" height="27" bgcolor="#EEEEEE">
-                      <p align="right" style="margin-right: 10"><a href="listMobiles.asp?bno=5"><b><font color="#959595">LG</font></b></a></p></td>
+                      <p align="right" style="margin-right: 10"><a href="listMobiles.asp?bno=4"><b><font color="#959595">Motorola</font></b></a></p></td>
                     </tr>
+
                     <tr>
                       <td width="100%">
-                      <p style="line-height: 150%; margin-left: 10; margin-top: 4; margin-bottom: 4">LG G3100<br><b>Rs.3,499/-</b></p></td>
+                      <p style="line-height: 150%; margin-left: 10; margin-top: 4; margin-bottom: 4">Motorola C261<br><b>Rs.4,799/-</b></p></td>
                     </tr>
+
                     <tr>
                       <td>
-                      <p style="margin-left: 10; margin-bottom: 5"><a href="javascript:zoomIt(77);" title="Zoom"><font color="#208BBD">
+                      <p style="margin-left: 10; margin-bottom: 5"><a href="javascript:zoomIt(192);" title="Zoom"><font color="#208BBD">
                       (+) Zoom</font></a></p></td>
                       </tr>
                     <tr>
                       <td>
                       <p style="margin-right: 10" align="right">
-                      <a href="addCart.asp?mno=77" title="Add to Shopping Cart">
+                      <a href="addCart.asp?mno=192" title="Add to Shopping Cart">
                       <img border="0" src="images/icon_addCart.gif"></a>&nbsp;
-                      <a href="javascript:emiCalc(77);" title="Calculate EMI">
+                      <a href="javascript:emiCalc(192);" title="Calculate EMI">
                       <img border="0" src="images/icon_calc.gif"></a>&nbsp;
-                      <a href="showMobile.asp?mno=77" title="More Information">
+                      <a href="showMobile.asp?mno=192" title="More Information">
                       <img border="0" src="images/icon_info.gif"></a></p></td>
                     </tr>
                   </tbody></table>
@@ -797,7 +800,7 @@ function emiCalc(mno){
                   <td width="112" height="112" align="center">
                   <table border="1" cellspacing="0" style="border-collapse: collapse" bordercolor="#626262" width="100" id="AutoNumber12" cellpadding="0" height="100">
                     <tbody><tr>
-                      <td width="100%" align="center"><a href="showMobile.asp?mno=147" title="Panasonic SC3"><img alt="Panasonic SC3" border="0" src="../images/mobiles/sc3.jpg"></a></td>
+                      <td width="100%" align="center"><a href="showMobile.asp?mno=212" title="Sony Ericsson W810i"><img alt="Sony Ericsson W810i" border="0" src="../images/mobiles/w810i.jpg"></a></td>
                     </tr>
                   </tbody></table>
                   </td>
@@ -813,25 +816,27 @@ function emiCalc(mno){
                     </tr>
                     <tr>
                       <td width="100%" height="27" bgcolor="#EEEEEE">
-                      <p align="right" style="margin-right: 10"><a href="listMobiles.asp?bno=6"><b><font color="#959595">Panasonic</font></b></a></p></td>
+                      <p align="right" style="margin-right: 10"><a href="listMobiles.asp?bno=3"><b><font color="#959595">Sony Ericsson</font></b></a></p></td>
                     </tr>
+
                     <tr>
                       <td width="100%">
-                      <p style="line-height: 150%; margin-left: 10; margin-top: 4; margin-bottom: 4">Panasonic SC3<br><b>Rs.5,899/-</b></p></td>
+                      <p style="line-height: 150%; margin-left: 10; margin-top: 4; margin-bottom: 4">Sony Ericsson W810i<br><b>Rs.20,499/-</b></p></td>
                     </tr>
+
                     <tr>
                       <td>
-                      <p style="margin-left: 10; margin-bottom: 5"><a href="javascript:zoomIt(147);" title="Zoom"><font color="#208BBD">
+                      <p style="margin-left: 10; margin-bottom: 5"><a href="javascript:zoomIt(212);" title="Zoom"><font color="#208BBD">
                       (+) Zoom</font></a></p></td>
                       </tr>
                     <tr>
                       <td>
                       <p style="margin-right: 10" align="right">
-                      <a href="addCart.asp?mno=147" title="Add to Shopping Cart">
+                      <a href="addCart.asp?mno=212" title="Add to Shopping Cart">
                       <img border="0" src="images/icon_addCart.gif"></a>&nbsp;
-                      <a href="javascript:emiCalc(147);" title="Calculate EMI">
+                      <a href="javascript:emiCalc(212);" title="Calculate EMI">
                       <img border="0" src="images/icon_calc.gif"></a>&nbsp;
-                      <a href="showMobile.asp?mno=147" title="More Information">
+                      <a href="showMobile.asp?mno=212" title="More Information">
                       <img border="0" src="images/icon_info.gif"></a></p></td>
                     </tr>
                   </tbody></table>
@@ -847,7 +852,12 @@ function emiCalc(mno){
       </tbody></table>
   </td>
   </tr>
-</tbody></table>
+</tbody></table></td>
+                        </tr>
+                      </tbody></table>
+                      </td>
+                    </tr>
+                    </tbody></table>
                     &nbsp;
                   </center>
                 </div>
@@ -879,33 +889,35 @@ function emiCalc(mno){
   <center>
   <table border="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="780" id="AutoNumber18" cellpadding="0" bgcolor="#FFFFFF">
     <tbody><tr>
-      <td width="100%" height="10" colspan="2">
+      <td width="100%" height="10">
       <img border="0" src="images/dot.gif"></td>
     </tr>
     <tr>
-      <td width="100%" bgcolor="#9CCCEE" height="1" colspan="2">
+      <td width="100%" bgcolor="#9CCCEE" height="1">
       <img border="0" src="images/dot.gif"></td>
     </tr>
     <tr>
-      <td width="100%" height="1" colspan="2">
+      <td width="100%" height="1">
       <img border="0" src="images/dot.gif"></td>
     </tr>
     <tr>
       <td bgcolor="#9CCCEE" height="42" valign="bottom">
-      <p style="margin-left: 10; margin-bottom: 8">Design 
-      <a target="_blank" href="http://www.globaltrendztech.com" onfocus="blur();" class="footer">Global Trendz Technologies</a></p></td>
-      <td bgcolor="#9CCCEE" height="42" valign="bottom">
-      <p align="right" style="margin-right: 10; margin-bottom: 8">
+      <p align="center" style="margin-right: 10; margin-bottom: 5; line-height:150%; margin-top:5">
       <a href="home.asp" onfocus="blur();" class="footer">Home</a> | 
-      <a href="privacy.asp" onfocus="blur();" class="footer">Privacy 
-      Policy</a> | 
-      <a href="terms.asp" onfocus="blur();" class="footer">Terms of Use</a> | 
-      <a href="careers.asp" onfocus="blur();" class="footer">Careers</a> | 
+      <a href="aboutus.asp" onfocus="blur();" class="footer">About Us</a> | 
+      <a href="press.asp" onfocus="blur();" class="footer">Press Center</a> | 
       <a href="glossary.asp" onfocus="blur();" class="footer">Glossary</a> | 
-      <a href="faq.asp" onfocus="blur();" class="footer">FAQ</a> | <a href="enquiry.asp" onfocus="blur();" class="footer">Enquiry</a><br>© 2005 UniverCell Telecommunications India Private Limited. All rights reserved.</p></td>
+      <a href="faq.asp" onfocus="blur();" class="footer">FAQ</a> | 
+      <a href="privacy.asp" onfocus="blur();" class="footer">Privacy Policy</a> 
+      | 
+      <a href="terms.asp" onfocus="blur();" class="footer">Terms of Use</a> | 
+      <a href="careers.asp" onfocus="blur();" class="footer">Careers</a> | <a href="enquiry.asp" onfocus="blur();" class="footer">Enquiry</a> | <a href="contact.asp" onfocus="blur();" class="footer">Contact</a><br>
+      © 2006 UniverCell Telecommunications India Private Limited. All rights reserved.<br>
+      Design 
+      <a target="_blank" href="http://www.globaltrendztech.com" onfocus="blur();" class="footer">Global Trendz Technologies</a></p></td>
     </tr>
     <tr>
-      <td width="100%" height="1" colspan="2">
+      <td width="100%" height="1">
       <img border="0" src="images/dot.gif"></td>
     </tr>
   </tbody></table>
