@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartoonnetwork.com.au privacy policy that was archived on 2005-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050626014231id_/http%3A//www.cartoonnetwork.com.au/asp/parents/parent.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoonnetwork.com.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615193007id_/http%3A//www.cartoonnetwork.com.au/asp/parents/parent.asp) for the most accurate reproduction.*
 
 # Cartoon Network - Parents Pages
 
@@ -36,4 +36,4 @@ At _CartoonNetwork.com.au_ , we use cookies to help make your experience better 
 
 As we have taken special precautions to aid in the safety of your child's World Wide Web experience, we ask parents to monitor closely the Internet activities of their children and become educated on the various Internet and software tools available so as to ensure that their child has a fun and satisfying on-line experience. 
 
-© 2002 Turner Entertainment Networks Asia, Inc. 
+© 2006 Turner Entertainment Networks Asia, Inc.
