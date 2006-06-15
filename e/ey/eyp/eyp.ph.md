@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the eyp.ph privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210045603id_/http%3A//www.eyp.ph/complete.jsp%3Fpage%3D98) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyp.ph privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615211504id_/http%3A//eyp.ph/complete.jsp%3Fpage%3D98) for the most accurate reproduction.*
 
-# EYP. Let your mouse do the walking.
+# e-yellowpages. The Electronic Yellow Pages of DPC.
 
-EYP.ph Corporation ("EYP.ph") is the owner of the site EYP.ph (the "Site"). EYP.ph is committed in giving businesses in the Philippines, registered with us or not, our advertisers and site visitors excellent service. To meet this high grade of service, we collect and in some instances disclose certain information about you.
+Directories Philippines Corporation is the owner of the site EYP.ph (the "Site"). EYP.ph is committed in giving businesses in the Philippines, registered with us or not, our advertisers and site visitors excellent service. To meet this high grade of service, we collect and in some instances disclose certain information about you.
 
 We would like to stress that EYP.ph respects your right to privacy. We would like to inform you that when you visit the Site, you may be giving information to us knowingly or as an unidentified statistic recorded by our system as you surf within our Site.
 
@@ -41,3 +41,5 @@ EYP.ph will always value your right to privacy. If you have inquiries about our 
 
   
  
+
+| 
