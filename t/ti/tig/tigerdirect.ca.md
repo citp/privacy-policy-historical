@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tigerdirect.ca privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231204526id_/http%3A//www.tigerdirect.ca/sectors/aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigerdirect.ca privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615185757id_/http%3A//www.tigerdirect.ca/sectors/aboutus/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy at TigerDirect.ca
 
@@ -34,7 +34,7 @@ TigerDirect.ca uses information that we collect from our visitors to personalize
 
 **Independent Contractors:** We may employ other companies or individuals to provide certain services to us such as analyzing customer lists and data, providing marketing assistance, or consulting services. These third parties will have access to the information needed to perform their functions but cannot use that information for any other purpose. Any 3rd parties who use our data will be fully bound by this privacy policy. In no event will the data being used by any unrelated third party include your email address.
 
-**Orders:** We will never share any telephone number(s), e-mail addresses, or credit card information which you have given us with any marketing partner(s) or any unrelated 3rd party. We may, however, share your name and postal mailing address with a few carefully selected marketing partners. You may opt-out of sharing this information at any time by calling our customer service department at 800-800-8300 . 
+**Orders:** We will never share any telephone number(s), e-mail addresses, or credit card information which you have given us with any marketing partner(s) or any unrelated 3rd party. Effective February 9th, 2006, we will no longer share your name or postal mailing address with any marketing partners 
 
 **Aggregate information:** We provide aggregate information to some of our business partners. This information does not allow them to identify you individually in any way. 
 
