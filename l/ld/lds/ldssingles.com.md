@@ -1,13 +1,11 @@
-> *The following text is extracted and transformed from the ldssingles.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221042857id_/http%3A//www.ldssingles.com/PrivacyPolicy.singles) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ldssingles.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615043620id_/http%3A//www.ldssingles.com/PrivacyPolicy.singles) for the most accurate reproduction.*
 
-# LDS Singles Online® - Online LDS Dating Personals for LDS Singles - Dec 20, 2005
+# LDS Singles Online® - Online LDS Dating Personals for LDS Singles - Jun 14, 2006
 
 | 
 
-|  |  |  |   LdsSingles.com Privacy Policy  
----|---  
-  | 
-
+|  |   |  | LdsSingles.com Privacy Policy   
+---  
 This Privacy Policy was last updated Sept. 1, 2004,
 
 LdsSingles.com Privacy Policy
@@ -68,6 +66,6 @@ Updating Your Personal, Financial and/or Public Information
 
 To change your personal, financial, and/or public information on LdsSingles.com, simply login to the Site, go to the "My Profile" tab and select the area you wish to change.   
 Changing or deleting your information will only change or delete the data in our database for purposes of future communications and other activities on the Site. These changes will not effect emails or information that we may have already forwarded to other users, credit card companies, or any other third parties, all as provided above in this Privacy Policy.   
-If you have any questions or concerns about this Privacy Policy, or other issues on the Site, you may contact us at talk2us@LdsSingles.com. You can also send mail to: LdsSingles.com, P.O. Box 945, Springville, UT 84663.   
+If you have any questions or concerns about this Privacy Policy, or other issues on the Site, you may contact us at talk2us@LdsSingles.com. You can also send mail to: LdsSingles.com, P.O. Box 739, Orem, Utah 84059.   
   
 Back to top
