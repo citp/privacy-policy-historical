@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spawn.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228113039id_/http%3A//spawn.com/info/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spawn.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615030343id_/http%3A//spawn.com/info/privacy.aspx) for the most accurate reproduction.*
 
 # SPAWN.COM >> INFO >> PRIVACY POLICY
 
@@ -12,7 +12,7 @@ We are committed to protecting your online privacy. In addition to the product d
 
 If you are under 18 years old, you must have a parent's permission before purchasing products from the Spawn Store. If you are under 13 years old, please read the Notice to Parents, Child Information, and Parental Rights sections of this policy with your parents before you visit our site. These sections may be accessed by clicking on the links below. Please ask questions about things you do not understand. If you are under age 13, you should get a parent's permission before submitting any information about yourself on this Web site.
 
-**Notice to Parents** | **Child Information** | **Parental Rights**
+**Notice to Parents** |  **Child Information** | **Parental Rights**
 
 **CUSTOMER INFORMATION**  
 Information is collected at the time of a sale at the Spawn Store in order to complete the sale and deliver the products. Customer lists are not sold or distributed to third parties.
@@ -35,7 +35,7 @@ Registration is required in order to shop at the Spawn Store, to join the McFarl
 **PARENTAL RIGHTS**  
 You may review any personal information we have collected about your child, request that we delete some or all of the information, and/or prohibit us from further collecting or using any information from your child by submitting a Parental Access Request to us. The Parental Access Request form may be downloaded by clicking on the following link.
 
-[**Parental Access Request form**](https://web.archive.org/web/20051228113039id_/http%3A//spawn.com/info/parentalaccess.pdf) (Adobe PDF, 306kb)
+[**Parental Access Request form**](https://web.archive.org/web/20060615030343id_/http%3A//spawn.com/info/parentalaccess.pdf) (Adobe PDF, 306kb)
 
 Information that we collect from our users is maintained by the Web Department. Parental Access Request forms may be submitted to us at the following address.
 
@@ -44,7 +44,7 @@ Attn: Web Department
 P.O. Box 12230  
 Tempe, AZ 85284-0038
 
-Additional questions pertaining to COPPA compliance may be sent to our customer service department by e-mailing [**customerservice@mcfarlane.com**](mailto:customerservice@mcfarlane.com?Subject=COPPA), or by calling (480) 491-7070.
+Additional questions pertaining to COPPA compliance may be sent to our customer service department by e-mailing [ **customerservice@mcfarlane.com**](mailto:customerservice@mcfarlane.com?Subject=COPPA), or by calling (480) 491-7070.
 
 **WEB SITE LOG FILES**  
 Web site log files are generated that collect the information about your computer hardware and software may also be collected which may include IP address of the visitor, date, time and pages visited, browser type and referring Web site addresses. Aggregate reports for Web site visitors are generated that do not contain personally identifiable information other than the IP address. Log files are only used to generate internal reports about various areas of spawn.com and to maintain quality of service.
@@ -63,7 +63,7 @@ Spawn.com maintains mailing lists for the McFarlane Update e-mail. Subscribers m
 **USER REGISTRATION**  
 Spawn.com does not require user registration to access content at this site, except for those wishing to interact with other fans on the spawn.com message boards or for those who wish to join the McFarlane Toys Collector's Club and purchase items at the online Spawn Store.
 
-If you have any questions about the privacy policy at spawn.com, please e-mail [**customerservice@mcfarlane.com**](mailto:customerservice@mcfarlane.com). If you desire to submit a Parental Access Request form, please see the **Parental Rights** section of this page.
+If you have any questions about the privacy policy at spawn.com, please e-mail [ **customerservice@mcfarlane.com**](mailto:customerservice@mcfarlane.com). If you desire to submit a Parental Access Request form, please see the  **Parental Rights** section of this page.
 
 From time to time, this Privacy Policy may be updated. We encourage you to periodically review this Policy to be informed of how we are protecting your information.
 
