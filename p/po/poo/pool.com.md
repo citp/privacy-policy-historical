@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the pool.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218121916id_/http%3A//www.pool.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pool.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615033806id_/http%3A//www.pool.com/privacy.aspx) for the most accurate reproduction.*
 
 # privacy
 
-**Why A Privacy Statement?**
+## Why A Privacy Statement?
 
 We respect your individual privacy. That is why we have adopted this Privacy Statement, which embodies our commitment to the protection of your privacy through adherence to fair electronic information practices. This Privacy Statement puts you, the individual, in control of how your personal information is processed, and you have our promise that we will not electronically process your personal information in any way that is incompatible with this Privacy Statement. This Privacy Statement protects your privacy by:
 
-**_informing_ you about:**
+### _informing_ you about:
 
   * the types of personal information Pool.com collects about you through its website; 
   * how it collects that information; 
@@ -16,14 +16,14 @@ We respect your individual privacy. That is why we have adopted this Privacy Sta
 
 
 
-**_empowering_ you to choose:**
+### _empowering_ you to choose:
 
   * whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and 
   * whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it). 
 
 
 
-**_assuring_ you that Pool.com: **
+### _assuring_ you that Pool.com: 
 
   * takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction; 
   * implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered; 
@@ -32,11 +32,11 @@ We respect your individual privacy. That is why we have adopted this Privacy Sta
 
 
 
-**_ensuring_ accountability** to individuals who believe that Pool.com has not complied with these privacy principles. 
+### _ensuring_ accountability to individuals who believe that Pool.com has not complied with these privacy principles. 
 
 If you have any questions regarding this Privacy Statement, please contact [ privacy@pool.com](mailto:privacy@pool.com).
 
-**Getting To Know Our Customers**
+## Getting To Know Our Customers
 
 Pool.com is in the business of providing compelling, tailored services to our customers. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs.
 
@@ -50,11 +50,11 @@ The information we receive from or about you is stored on systems designed to pr
 
 By providing a domain backorder service, we gather and transmit to partner registrars information about you that is required to complete a domain name registration on your behalf. This information includes basic information about each domain acquired through us, including the names, telephone numbers and email addresses of individuals designated as the owners of a given domain name. Please see the Pool.com Terms and Conditions for additional information that we require in order to complete a domain registration on your behalf, and your obligations with respect to that information.
 
-**Information Corrections Or Changes**
+## Information Corrections Or Changes
 
-You have the ability to correct or change certain information in our records, such as your address and contact information. All aspects of your account can be managed and changed through the [ Preferences](https://web.archive.org/web/20051218121916id_/http%3A//www.pool.com/MyAccount/Preferences.aspx) page located within your account. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via email at [ service@pool.com](mailto:service@pool.com). 
+You have the ability to correct or change certain information in our records, such as your address and contact information. All aspects of your account can be managed and changed through the [ Preferences](https://web.archive.org/web/20060615033806id_/http%3A//www.pool.com/MyAccount/Preferences.aspx) page located within your account. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via email at [ service@pool.com](mailto:service@pool.com).
 
-**How We Put Information To Good Use**
+## How We Put Information To Good Use
 
 We use information about you for purposes of monitoring and improving our internal operations, as well as to ensure that we: (i) bill you properly, (ii) administer your account in accordance with your agreements with us and (iii) properly perform the services you have requested.
 
@@ -66,27 +66,27 @@ If you've set your browser to warn you before accepting cookies, you will receiv
 
 Finally, we use the information we collect to direct important notices and information affecting your account or services such as explicitly identified email notifications regarding the status of backordered domains, keyword alerts, auctions/bid statuses as well as confirmations of domain purchases. We may also from time to time provide general information that may be of interest to you, including surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business partners and affiliates. You may opt out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services. 
 
-**With Whom We May Share Information**
+## With Whom We May Share Information
 
-When you acquire a backordered domain through us, we must disclose information about your domain name and your contact details with a partner registrar who will be registering the domain for you. Our partner registrars, in turn, are required to share such information with the domain registry. Our partner registrars also currently make certain information about you available to the general public via their domain name registration database look-up and directory services. These services give users access to such data on a query-by-query basis. Qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to enable or otherwise support the transmission of mass unsolicited commercial advertising or solicitations via email; or (ii) sell or redistribute the data to third parties. Please see the [Pool.com Terms and Conditions](https://web.archive.org/web/20051218121916id_/http%3A//www.pool.com/terms.aspx) for additional information that we require in order to complete a domain registration on your behalf, and your obligations with respect to that information. Please note, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
+When you acquire a backordered domain through us, we must disclose information about your domain name and your contact details with a partner registrar who will be registering the domain for you. Our partner registrars, in turn, are required to share such information with the domain registry. Our partner registrars also currently make certain information about you available to the general public via their domain name registration database look-up and directory services. These services give users access to such data on a query-by-query basis. Qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to enable or otherwise support the transmission of mass unsolicited commercial advertising or solicitations via email; or (ii) sell or redistribute the data to third parties. Please see the [Pool.com Terms and Conditions](https://web.archive.org/web/20060615033806id_/http%3A//www.pool.com/terms.aspx) for additional information that we require in order to complete a domain registration on your behalf, and your obligations with respect to that information. Please note, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
 
 We may share certain information about you with those of our vendors who are responsible for handling your account or performing other necessary services that you require. Although we may share sensitive financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal email messages or message board postings) with such vendors where necessary and appropriate, we will not share such information with other third parties, except in response to formal requests (e.g., subpoena or court order) made in connection with reasonable dispute resolution mechanisms, litigation or arbitration proceedings directly relating to a domain name registration or other services we provide. In the event that certain services provided to you by or through Pool.com or one of its business partners, are to be provided to you by a substitute service provider, your information may be transferred to the substitute service provider provided that such substitute entity agrees to be bound by the terms of this privacy statement in effect at the time of performance of the services.
 
 Additionally, we may share your information, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. We may collect your information and aggregate it with other data for statistical purposes, and share such aggregated data with other business partners. 
 
-**Our Accountability To You**
+## Our Accountability To You
 
 By purchasing our services, you obtain the protections of, and consent to the data processing practices described in, this Privacy Statement. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
 
 In addition to the privacy protections that we provide, our employees, agents, business partners and affiliates are independently responsible for ensuring compliance with this Privacy Statement, as described below.
 
-**Employee Accountability**
+## Employee Accountability
 
 Only those Pool.com employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by a Pool.com employee is prohibited and constitutes grounds for disciplinary action.
 
 Additionally, our information management systems are configured in such a way as to block or inhibit employees from accessing information that they have no authority to access.
 
-**The Accountability of Pool.com's Agents and Business Partners**
+## The Accountability of Pool.com's Agents and Business Partners
 
 Our trusted vendors, business partners and affiliates are responsible for processing or handling some of the information that we receive. These vendors, business partners and affiliates are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
 
