@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the democrats.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228122054id_/http%3A//democrats.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the democrats.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615094837id_/http%3A//democrats.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Democrats.com
 
 ## Privacy Policy
 
-Our e-mail list is opt-in: to get on our e-mail list, you must take the action of [joining our community](http://www.democrats.com/user/register), [subscribing to our mailings](http://archive.democrats.com/popup.cfm), or [signing our petitions](http://democrats.com/organize). If someone adds your e-mail address to our list without your permission, we apologize. 
+Our e-mail list is opt-in: to get on our e-mail list, you must take the action of [joining our community](https://web.archive.org/user/register), [subscribing to our mailings](http://archive.democrats.com/popup.cfm), or [signing our petitions](http://democrats.com/organize). If someone adds your e-mail address to our list without your permission, we apologize. 
 
 You can unsubscribe at any time by following the instructions at the bottom of every mailing. If the link does not work for any reason, [contact us](http://democrats.com/contact) and we will remove you promptly. 
 
