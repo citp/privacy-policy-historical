@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trex.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229131319id_/http%3A//trex.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trex.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615032020id_/http%3A//trex.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -39,4 +39,4 @@
 > 
 > CONTACTING US
 > 
-> If you have any questions about this privacy policy, the practices of this site, or your dealings with the Trex Web site, you can contact us at [ webmaster@trex.com](mailto:webmaster@trex.com?subject=Attention:%20Privacy%20Policy). The Terms of Use of the Trex Web site can be found at [www.trex.com/terms.asp](https://web.archive.org/web/20051229131319id_/http%3A//trex.com/terms.asp). 
+> If you have any questions about this privacy policy, the practices of this site, or your dealings with the Trex Web site, you can contact us at [ webmaster@trex.com](mailto:webmaster@trex.com?subject=Attention:%20Privacy%20Policy). The Terms of Use of the Trex Web site can be found at [www.trex.com/terms.asp](https://web.archive.org/web/20060615032020id_/http%3A//trex.com/terms.asp). 
