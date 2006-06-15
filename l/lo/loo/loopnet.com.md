@@ -1,22 +1,20 @@
-> *The following text is extracted and transformed from the loopnet.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220025244id_/http%3A//www.loopnet.com/privacy.asp%3FLinkCode%3D830) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loopnet.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615060320id_/http%3A//www.loopnet.com/xNet/MainSite/Marketing/About/Privacy.aspx%3FLinkCode%3D830) for the most accurate reproduction.*
 
-# LoopNet - PRIVACY POLICY
+# LoopNet - Privacy Policy
 
-PRIVACY POLICY
+Last Updated: March 22, 2006
 
-Last Updated: December 16, 2004
+LoopNet, Inc., and its website located at [http://www.loopnet.com](http://www.loopnet.com/), is a licensee of the TRUSTe Privacy Program. This statement discloses the privacy practices for the LoopNet web site. When you visit a web site displaying the TRUSTe trustmark, you can expect to be notified of the following information: 
 
-LoopNet, Inc. is a licensee of the TRUSTe Privacy Program. This statement discloses the privacy practices for the LoopNet web site. When you visit a web site displaying the TRUSTe trustmark, you can expect to be notified of the following information: 
-
-  * The personally identifiable information collected and which organization is collecting the information
-  * How the information is used and with whom the information may be shared
-  * Choices available to you regarding collection, use and distribution of the information
-  * Types of security procedures in place to protect the loss, misuse or alteration of information under the company's control
+  * The personally identifiable information collected and which organization is collecting the information 
+  * How the information is used and with whom the information may be shared 
+  * Choices available to you regarding collection, use and distribution of the information 
+  * Types of security procedures in place to protect the loss, misuse or alteration of information under the company's control 
   * How you can correct any inaccuracies in the information
 
 
 
-Questions regarding this statement should be directed to [privacy@loopnet.com](mailto:privacy@loopnet.com). Alternatively, please contact us by mail at LoopNet Administration -- Privacy Statement, 222 E. Huntington Drive, Suite 118, Monrovia, CA 91016, or by telephone at (626) 803-5000.
+Questions regarding this statement should be directed to [privacy@loopnet.com](mailto:privacy@loopnet.com). Alternatively, please contact us by mail at LoopNet Administration -- Privacy Statement, 181 W. Huntington Drive, Suite 208, Monrovia, CA 91016, or by telephone at (626) 803-5000.
 
 If the web site has not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. For more information on TRUSTe, please go to [http://www.truste.org](http://www.truste.org/).
 
@@ -26,7 +24,7 @@ LoopNet provides a variety of online services for commercial real estate profess
 
 **Information Collected by LoopNet:**
 
-LoopNet collects user information from several areas of the LoopNet site including the 'New Member Registration' area; products; business services; the adding and editing of property listings; the adding and editing of Professional Profiles; email forms; and any surveys or contests that LoopNet may sponsor. LoopNet collects individual user search activity for statistical, archival, and business purposes. LoopNet collects financial information (such as billing address, credit card number, expiration date) for billing payment and credit card authorization purposes. LoopNet may track the IP address of a user's computer or place a "cookie" in the browser files of a user's computer. This is required by LoopNet services to provide automated features.
+LoopNet collects user information from several areas of the LoopNet site including the 'New Member Registration' area (where LoopNet collects each user's name, street address, telephone number, email address, and self-selected primary role in real estate); products; business services; the adding and editing of property listings; the adding and editing of Professional Profiles; email forms; and any surveys or contests that LoopNet may sponsor. LoopNet collects individual user search activity for statistical, archival, and business purposes. LoopNet collects financial information (such as billing address, credit card number, expiration date) for billing payment and credit card authorization purposes. LoopNet may track the IP address of a user's computer or place a "cookie" in the browser files of a user's computer. This is required by LoopNet services to provide automated features.
 
 **Use of Information Collected:**
 
@@ -34,7 +32,7 @@ Collected information helps LoopNet better understand its users' needs in order 
 
 **Use of Email Tools:**
 
-You may NOT use the Email The Broker, Email a Friend service or other email services that we offer to send spam (i.e. unsolicited commercial email) or otherwise send content that would violate LoopNet's Terms and Conditions. We may monitor, track or save the use of this feature, but will be under no obligation to monitor, track or save these email messages sent from these tools. If you send and email using the Email This Item to a Friend service to an email address that is not registered in our system, we do not use that email address for any purpose other than to send your email. We also do not rent or sell these email addresses of un-registered users. 
+You may NOT use the Email The Broker, Email a Listing service or other email services that we offer to send spam (i.e. unsolicited commercial email) or otherwise send content that would violate LoopNet's Terms and Conditions. We may monitor, track or save the use of this feature, but will be under no obligation to monitor, track or save these email messages sent from these tools. If you send and email using the Email This Item to a Friend service to an email address that is not registered in our system, we do not use that email address for any purpose other than to send your email. We also do not rent or sell these email addresses of un-registered users. 
 
 **Shared information:**
 
@@ -52,11 +50,17 @@ Please be aware that in the event LoopNet merges with a third party, or in the e
 
 LoopNet's clients and their personal information are considered to be LoopNet's greatest asset and thus their privacy is treated with the utmost regard and respect. LoopNet takes every reasonable precaution to secure personal information within both its computers and its physical premises.
 
+The security of your personal information is important to LoopNet. When you enter sensitive information (such as a credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). [To learn more about SSL, follow this link [http://www.verisign.com](http://www.verisign.com/)].
+
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+
+If you have any questions about security on our Web site, you can email us at [privacy@loopnet.com](mailto:privacy@loopnet.com).
+
 **Opting-out, editing, updating or deleting personal information:**
 
 LoopNet utilizes email as a vital and primary communication channel with registered users and customers. As a registered user/customer, you hereby acknowledge and grant LoopNet the permission to communicate with you via email (as well as other communication channel such as phone and fax) for any purposes LoopNet determines to be relevant including, but not limited to, system messages, product updates, service announcements and other marketing messages. LoopNet will use best efforts to honor customers request to opt out of marketing messages, but under no circumstances will LoopNet have any liability for sending any email to its registered users/customers.
 
-Users who do not wish to receive marketing emails including LoopNews, LoopNet Promotional Emails, or Sponsor Emails are requested to contact [LoopNet Client Services](https://web.archive.org/contact.asp) via email, or select the opt-out option by deselecting the email option from their member profile. We also send our users site and service announcement updates. Members are not able to un-subscribe from service announcements, which contain important information about service notices and responsibilities. LoopNet occasionally communicates with its users via email and phone to provide information about requested services and regarding issues related to their account. It is important to note that this communication is not used for marketing or promotional purposes. Requesting the deletion of certain types of user information may prevent users from accessing some web site features.
+Users who do not wish to receive marketing emails including LoopNews, LoopNet Promotional Emails, or Sponsor Emails are requested to contact [LoopNet Client Services](https://web.archive.org/xNet/MainSite/Marketing/Contact/default.aspx) via email, or select the opt-out option by deselecting the email option from their member profile. We also send our users site and service announcement updates. Members are not able to un-subscribe from service announcements, which contain important information about service notices and responsibilities. LoopNet occasionally communicates with its users via email and phone to provide information about requested services and regarding issues related to their account. It is important to note that this communication is not used for marketing or promotional purposes. Requesting the deletion of certain types of user information may prevent users from accessing some web site features.
 
 You may correct or update your personally identifiable information by making the change on your member profile page. If you no longer desire our service, you may deactivate your membership by sending an email to [cancellations@loopnet.com](mailto:cancellations@loopnet.com), or by contacting us by telephone at (888) 849-5667 or by postal mail at LoopNet, Inc., 185 Berry Street, Suite 4000, San Francisco, CA 94107.
 
@@ -65,5 +69,3 @@ You may correct or update your personally identifiable information by making the
 If LoopNet decides to change its privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
 LoopNet reserves the right to modify this privacy statement at any time, so please review it frequently. If LoopNet makes material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
-
-| 
