@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the webdate.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218013012id_/http%3A//www.webdate.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webdate.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615030629id_/http%3A//webdate.com/privacy.php) for the most accurate reproduction.*
 
-# Online Dating Personals at Webdate.com
+# Online Dating Service & Personals at Webdate.com
 
-| [](https://web.archive.org/index.php) | [](https://web.archive.org/index.php) | [](http://www.webdatemobile.com/) | [](https://web.archive.org/tour.php) | [](https://web.archive.org/success.php) | [](https://web.archive.org/press.php) | [](https://web.archive.org/events.php) | [](https://web.archive.org/register.php)  
----|---|---|---|---|---|---|---  
+| [](https://web.archive.org/index.php) | [](https://web.archive.org/index.php) | [](http://www.webdatemobile.com/) |  | [](https://web.archive.org/success.php) | [](https://web.archive.org/press.php) | [](https://web.archive.org/register.php)  
+---|---|---|---|---|---|---  
 |    
 |  |   
 ---|---  
@@ -44,7 +44,7 @@ On the Service websites, we may place links to other Websites operated by other 
   
 **How We Use Personal Information**
 
-We use your email address and your other personal information to help us efficiently operate the Service, to contact you in connection with your transactions and other activities on the Service (including, but not limited to, confirmation emails or important news that could affect your relationship with Webdate.com), and to forward messages to you from other Webdate.com users. These types of communications are known as "Operational Communications." In some cases, Operational Communications may also contain commercial messages, such as banner ads and special offers. 
+Webdate is committed to treating your personal information with the highest degree of care. Your email address and personal information is not shared with any third parties and is solely used to send email communication from Webdate. Your personal information will not be resold to any third party. We use your email address and your other personal information to help us efficiently operate the Service, to contact you in connection with your transactions and other activities on the Service (including, but not limited to, confirmation emails or important news that could affect your relationship with Webdate.com), and to forward messages to you from other Webdate.com users. These types of communications are known as "Operational Communications." In some cases, Operational Communications may also contain commercial messages, such as banner ads and special offers. 
 
 We also use personal information to send you newsletters, information, offers and other promotional materials for Webdate.com�s or third parties� goods or services. We attempt to send you offers that are of value to you, such as discounts, exclusive offers or special event information. The Service provides you with options to decline to receive communications from Webdate.com (other than those contained in Operational Communications). Some of these options may only be for a certain category of communications; others may be more general. By posting a profile on the Service, you are opting in to receive messages from other Webdate.com members by email or text message. To stop receiving messages from other Webdate.com members, change your account settings on Webdate.com.
 
