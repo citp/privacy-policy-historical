@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the missingkids.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230030239id_/http%3A//www.missingkids.com/missingkids/servlet/PageServlet%3FLanguageCountry%3Den_US%26PageId%3D1360) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the missingkids.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615185441id_/http%3A//www.missingkids.com/missingkids/servlet/PageServlet%3FLanguageCountry%3Den_US%26PageId%3D1360) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,6 +30,11 @@ Occasionally we will share aggregate information about our visitors with certain
 
 Except as described in this section, we will not sell, rent, share, or otherwise disclose your personal information to any party for any reason.
 
+**Accurate Personal Information**
+
+If you are a donor and would like to update or review the personal information we have on file for you, please e-mail your request to [development@ncmec.org](mailto:development@ncmec.org). Be sure to include both your old and your new personal information in your request so we can properly update our records.  
+
+
 **Cookies**
 
 A cookie is a piece of data that is deposited on your hard drive by some web sites. When you return to that site the cookie will tell the site that you have been there before. The site can then offer you products or ads that are tailored to your interests. We do not use cookies to track your use of our site, although we employ cookies to make your search of our missing children posters more efficient.
@@ -43,5 +48,5 @@ Our web site contains links to other web sites. This privacy policy does not app
 NCMEC may change this privacy policy from time to time. We will notify you of any such changes by posting notice of the changes on our start-up screen. If you use NCMEC's site following notice of any changes, your use will indicate that you acknowledge such changes and agree to be bound by them.
 
   
-This Privacy Policy was last updated on June 30, 2003.  
+This Privacy Policy was last updated on April 10, 2006.  
 
