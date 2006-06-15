@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the usgs.gov privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218133253id_/http%3A//www.usgs.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usgs.gov privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615200341id_/http%3A//www.usgs.gov/privacy.html) for the most accurate reproduction.*
 
 # USGS Privacy Policy and Disclaimers
+
+U.S. Geological Survey
 
   
 
@@ -33,7 +35,7 @@ Cookies \- Some applications may save a “cookie” on your computer's hard dis
 
 E-Mail or Web Forms \- When you send us personal identifying information by contacting us via e-mail (that is, in a message containing a question or comment) or by filling out a form that e-mails us this information, we use it to respond to your requests. We may forward your e-mail or information to other Government employees or contract personnel who are better able to answer your questions.
 
-We do not retain or distribute lists of e-mail addresses to any parties outside the USGS, except as necessary to conduct official U.S. Government business, and we do not distribute lists of e-mail addresses to non-Government entities. Information collected via e-mail or Web form will be retained at our discretion in a readable form for as long as necessary to complete our response. The e-mail or information may be retained in an archival form as required by Federal laws and regulations governing the retention of historical records of Government agencies. For more information, please refer to the [National Archives and Records Administration's Records Management Program](http://www.nara.gov/records/).
+We do not retain or distribute lists of e-mail addresses to any parties outside the USGS, except as necessary to conduct official U.S. Government business, and we do not distribute lists of e-mail addresses to non-Government entities. Information collected via e-mail or Web form will be retained at our discretion in a readable form for as long as necessary to complete our response. The e-mail or information may be retained in an archival form as required by Federal laws and regulations governing the retention of historical records of Government agencies. For more information, please refer to the [National Archives and Records Administration's Records Management Program](http://www.archives.gov/records-mgmt/).
 
 File Transfer Protocol (FTP) \- Many USGS sites using the file transfer protocol may also store your e-mail address if your Web browser is configured to provide it. By default, most Web browser software does not send your e-mail address; this option is configured through your browser preferences. 
 
