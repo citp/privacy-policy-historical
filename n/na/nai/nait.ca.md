@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nait.ca privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220074725id_/http%3A//www.nait.ca/portal/server.pt/gateway/PTARGS_0_0_241_0_0_43/http%3B/www/pthosted/naithelp/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nait.ca privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615113620id_/http%3A//www.nait.ca/portal/server.pt/gateway/PTARGS_0_0_241_0_0_43/http%3B/www/pthosted/naithelp/privacypolicy.htm) for the most accurate reproduction.*
 
 # NAIT Privacy Policy
 
