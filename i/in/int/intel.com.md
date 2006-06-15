@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intel.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219141917id_/http%3A//intel.com/sites/corporate/privacy.htm%3Fiid%3DHPAGE%2Bfooter_privacy%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intel.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616013318id_/http%3A//intel.com/sites/corporate/privacy.htm%3Fiid%3DHMPAGE%2BFooter_privacy) for the most accurate reproduction.*
 
 # Intel Privacy Policy
 
@@ -49,7 +49,7 @@ We will only use your personal information in the way we specified when it was c
   * To provide customer feedback and support. 
   * To provide contests, sweepstakes or other marketing promotional activities on the intel.com or affiliate websites. Personal information may be collected to administer those programs 
   * To conduct questionnaires and surveys in order to provide better products and services to our customers and end users. Your completion of any questionnaires is voluntary. 
-  * To support recruitment enquiries. For more information, please see the worldwide [Candidate Privacy Policy](https://web.archive.org/web/20051219141917id_/http%3A//intel.com/sites/corporate/privacy3.htm)
+  * To support recruitment enquiries. For more information, please see the worldwide [Candidate Privacy Policy](https://web.archive.org/web/20060616013318id_/http%3A//intel.com/sites/corporate/privacy3.htm)
   * To understand more about you, so we can personalize newsletters and websites to your preferences. For example, allow you the opportunity to request specific information on products and services that may be of interest. 
   * To allow you to forward information to another individual such as a friend or co-worker. Intel does not store the personal information of the third party. We collect the information for the sole purpose of sending a one-time email. If you choose to use our referral service to inform a colleague or friend, we will only ask for a contact name and email address. 
   * To meet contract obligations. 
@@ -59,7 +59,7 @@ We will only use your personal information in the way we specified when it was c
 Accessing and updating your personal information  
 ---  
 ---  
-We need your help in keeping the personal information you have shared with us accurate and up to date. Please notify us of any changes to your personal information. Most of our sites allow you to make these updates yourself online via a particular program’s member pages or the [Intel Profile Center](http://newsletters.intel.com/login/login.asp). 
+We need your help in keeping the personal information you have shared with us accurate and up to date. Please notify us of any changes to your personal information. Most of our sites allow you to make these updates yourself online via a particular program’s member pages or the [Intel Profile Center](https://ssl.intel.com/ipc-app/default.aspx). 
 
 | Back to top |  
   
@@ -201,16 +201,19 @@ Please contact us by using [this form](https://web.archive.org/intel/writeusp.ht
 
   
 ---  
+Supplement for Intel® Viiv™ Technology  
+---  
+---  
+We have a supplement which describes our privacy-related information handling practices for the Windows* Media* Digital Rights Management (WM-DRM) Software Premium Content Module (SPCM) for Intel® Viiv™ technology. We encourage you to review the information contained in [this supplement](https://web.archive.org/web/20060616013318id_/http%3A//intel.com/sites/corporate/privacy4.htm) to ensure you understand how the SPCM operates to help you enjoy specific types of premium content with your Intel® Viiv™ technology-based home network.   
+---  
 Questions or Comments?  
 ---  
 ---  
 Policy Updates  
 ---  
 ---  
-The Intel Privacy Policy has been recently updated. For more details on the changes to the policy, please [visit our FAQs](https://web.archive.org/sites/corporate/privacy_faq.htm). Last update: **Sep. 21, 2004**
+The Intel Privacy Policy has been recently updated. For more details on the changes to the policy, please [visit our FAQs](https://web.archive.org/sites/corporate/privacy_faq.htm). Last update: **April 21, 2006**
 
-(1) These links take you away from Intel.com. Intel is not responsible for third party content
-
-| Back to top |  
+(1) These links take you away from Intel.com. Intel is not responsible for third party content  
   
 | 
