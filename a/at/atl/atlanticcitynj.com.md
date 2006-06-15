@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlanticcitynj.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220093344id_/http%3A//www.atlanticcitynj.com/terms.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlanticcitynj.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615213140id_/http%3A//www.atlanticcitynj.com/terms.asp) for the most accurate reproduction.*
 
 # Privacy - Terms of Use
 
@@ -34,6 +34,9 @@ On occasion, the ACCVA will conduct online contests, giveaways, or sweepstakes, 
 **Links to Third Party Web Sites**  
 There are a few sections on the the ACCVA web site that are hosted by various partners of the ACCVA. Some of these partners maintain the look and feel of our web site or a segment of our web site, and sometimes it may not be evident when a user is on one of these sections. These pages are governed by the partner's privacy policy and terms and conditions of use. 
 
+**Electronic Newsletters**  
+We offer free, electronic newsletters, updates and e-mail reminders as a service to our registrants, based upon your voluntary subscription. You will only receive an electronic newsletter if you have requested it (opted-in). We do not share our mailing lists with any third parties, including advertisers or partners. 
+
 **Disclaimer and Release With Respect to Any Linked Site or Other Third Party**  
 Any transaction that you enter into with any linked site or other third party via or as a result of viewing our web site is solely between you and such linked site or other third party. By using this web site, you understand and agree that the ACCVA has no responsibility for any other sites or third party content or transactions. You further agree that you will hold the ACCVA harmless and not liable, and release the ACCVA from any all suits and/or claims, should you have any dispute over or problem with any such sites, site content or transactions. 
 
@@ -56,7 +59,7 @@ It is your responsibility to check our site frequently to see the current Privac
 If you have any questions about our Privacy Policy and conditions of use, any concern about privacy at the ACCVA or the use of this web site in general, please contact us via one of the following methods: 
 
 **E-mail:**  
-[webmaster@accva.com](mailto:webmaster@accva.com)
+[webmaster@accva.com](mailto:fzanes@accva.com)
 
 **Mail:**  
 Atlantic City Convention & Visitors Authority  
