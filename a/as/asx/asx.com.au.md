@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asx.com.au privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214114853id_/http%3A//www.asx.com.au/legal/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asx.com.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615204028id_/http%3A//asx.com.au/legal/privacy_statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement for the ASX website
 
@@ -6,7 +6,7 @@ This Privacy Statement applies to your use of the web site of ASX at [www.asx.co
 
 ASX recognises that your privacy is important to you. ASX is committed to protecting your personal information.
 
-The following Privacy Statement has been published to provide a clear and concise outline of how and when personal information is collected, stored and distributed by ASX through use by you of www.asx.com.au. For more detailed Privacy information on ASX's information handling practices, please refer to the [ASX Privacy Policy](https://web.archive.org/web/20051214114853id_/http%3A//www.asx.com.au/legal/privacy_summary.htm) or you can contact us on: 131 279.
+The following Privacy Statement has been published to provide a clear and concise outline of how and when personal information is collected, stored and distributed by ASX through use by you of www.asx.com.au. For more detailed Privacy information on ASX's information handling practices, please refer to the [ASX Privacy Policy](https://web.archive.org/web/20060615204028id_/http%3A//asx.com.au/legal/privacy_summary.htm) or you can contact us on: 131 279.
 
 ### **Collection of Click Stream and other information**
 
