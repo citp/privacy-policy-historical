@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the pocruises.com.au privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231203522id_/http%3A//www.pocruises.com.au/html/web_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pocruises.com.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615231824id_/http%3A//www.pocruises.com.au/html/web_policy.cfm) for the most accurate reproduction.*
 
 # P&O Cruises Australia - Privacy Policy
-
-## P&O Cruises Website Privacy Statement 
 
 Carnival plc is a publicly listed company in the United Kingdom. Carnival plc, trading as P&O Cruises, has registered branches in Australia (ABN 23 107 998 443 2TA 5580), and New Zealand.
 
@@ -10,7 +8,7 @@ These branches (collectively referred to as “we”, “us”, “our” or “
 
 All of our websites (including [www.pocruises.com.au](http://www.pocruises.com.au/) and [www.pocruises.co.nz](http://www.pocruises.co.nz/)) are maintained by our Australian branch and are subject to our Website Terms & Conditions.
 
-Our WEBSITE PRIVACY STATEMENT details the privacy protection you are afforded when your personal information is collected through one of our websites. If you would like to view our [GENERAL PRIVACY STATEMENT](https://web.archive.org/web/20051231203522id_/http%3A//www.pocruises.com.au/html/general_policy.cfm), which governs how both of these branches manage personal information in general, please visit [GENERAL PRIVACY](https://web.archive.org/web/20051231203522id_/http%3A//www.pocruises.com.au/html/general_policy.cfm) page.
+Our WEBSITE PRIVACY STATEMENT details the privacy protection you are afforded when your personal information is collected through one of our websites. If you would like to view our [GENERAL PRIVACY STATEMENT](https://web.archive.org/web/20060615231824id_/http%3A//www.pocruises.com.au/html/general_policy.cfm), which governs how both of these branches manage personal information in general, please visit [GENERAL PRIVACY](https://web.archive.org/web/20060615231824id_/http%3A//www.pocruises.com.au/html/general_policy.cfm) page.
 
 We are committed to protecting the privacy of all persons we have contact with online to the same extent and standards as contact made by other means of communication. However, contact through our website has slightly different implications due to the nature of the technology. 
 
@@ -58,4 +56,4 @@ You acknowledge and accept that your use of our websites indicates your acceptan
 
 **Further Information**
 
-If you have any queries concerning our privacy policies, you can contact our Privacy Officer by sending an email to [privacy@pocruises.com.au](mailto:privacy@pocruises.com.au). For further contact information, please refer to our [GENERAL PRIVACY STATEMENT](https://web.archive.org/web/20051231203522id_/http%3A//www.pocruises.com.au/html/general_policy.cfm). For more general information about privacy, please visit the website for your respective Privacy Commissioner in Australia ([www.privacy.gov.au](http://www.privacy.gov.au/)) or New Zealand ([www.privacy.org.nz](http://www.privacy.org.nz/)). 
+If you have any queries concerning our privacy policies, you can contact our Privacy Officer by sending an email to [privacy@pocruises.com.au](mailto:privacy@pocruises.com.au). For further contact information, please refer to our [GENERAL PRIVACY STATEMENT](https://web.archive.org/web/20060615231824id_/http%3A//www.pocruises.com.au/html/general_policy.cfm). For more general information about privacy, please visit the website for your respective Privacy Commissioner in Australia ([www.privacy.gov.au](http://www.privacy.gov.au/)) or New Zealand ([www.privacy.org.nz](http://www.privacy.org.nz/)). 
