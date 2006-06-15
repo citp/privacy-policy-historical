@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the smartertravel.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218013541id_/http%3A//smartertravel.com/us/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartertravel.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615203428id_/http%3A//www.smartertravel.com/us/policy.html) for the most accurate reproduction.*
 
 # SmarterTravel.com Privacy Policy
 
 ###### SmarterTravel.com Privacy Policy
 
- _This Privacy Policy was last changed April 28, 2005._
+ _This Privacy Policy was last changed March 3, 2006._
 
 **Overview**
 
@@ -24,7 +24,7 @@ In order to customize your experience with our email newsletters we may receive 
 
 If you enter SmarterTravel.com via a reward or incentive program, SmarterTravel.com may share your email address with the program through which you entered SmarterTravel.com to ensure you are credited with your incentive.
 
-You may also register for SmarterTravel.com and/or specific SmarterTravel.com newsletters at web sites operated by third parties. These third parties may share contact, demographic, or profile data that you voluntarily provide during the registration process with SmarterTravel.com. SmarterTravel.com does or may in the future use this information in the same manner as information collected directly by SmarterTravel.com. This Privacy Policy does not bind sites that collect information on behalf of SmarterTravel.com, and SmarterTravel.com is not responsible for the privacy practices or the content of such websites.
+You may also register for SmarterTravel.com and/or specific SmarterTravel.com newsletters at web sites operated by third parties. These third parties may share contact, demographic, or profile data that you voluntarily provide during the registration process with SmarterTravel.com. You also may provide personal information to third parties when you register at a third party web site and specifically request that your information be forwarded to us so that we can send you information about our product and service offerings. SmarterTravel.com does or may in the future use this information in the same manner as information collected directly by SmarterTravel.com. This Privacy Policy does not bind sites that collect information on behalf of SmarterTravel.com, and SmarterTravel.com is not responsible for the privacy practices or the content of such websites.
 
 To better serve you, we may also store information you present to us via email or telephone communications with SmarterTravel.com’s Customer Service Department. This information is or may be used in the same manner as information directly collected using SmarterTravel.com's registration form. We may also use information you provide us via email or telephone to pursue the matter for which you contacted us. SmarterTravel.com also may obtain information from you in our online forums. This information may not be disclosed except as consistent with Terms of Use.
 
@@ -60,7 +60,7 @@ SmarterTravel.com offers services to allow our users to send information about o
 
 **Children Under 13 Years Old**
 
-We do not use our website to knowingly solicit data from or market to children under the age of 13. Children under 13 may not participate in any online activities on the SmarterTravel.com site.
+SmarterTravel.com and its affiliated sites do not knowingly collect, maintain or use personal information from our websites about children under age 13. Children under the age of 13 may not participate in any online activites on Smarter Living, Inc.'s web sites. If a child whom we know to be under age 13 sends personal information to us online, we will only use that information to respond directly to that child, notify parents, or seek parental consent.
 
 **IP Addresses**
 
