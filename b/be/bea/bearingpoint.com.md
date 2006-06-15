@@ -1,9 +1,13 @@
-> *The following text is extracted and transformed from the bearingpoint.com privacy policy that was archived on 2004-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040811124853id_/http%3A//www.bearingpoint.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bearingpoint.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210600id_/http%3A//www.bearingpoint.com/portal/site/bearingpoint/menuitem.05c5a3df5e7e1b521dba0624826106a0/channel/published/About%2520us/privacy_policy.html) for the most accurate reproduction.*
 
-# BearingPoint - Privacy Policy
+# 
 
-| 
+  | 
 
+  
+
+
+  
 BearingPoint Inc. and its affiliates (“BearingPoint”) are committed to protecting your privacy. This Privacy Policy applies to activities directly related to your visit of the BearingPoint websites. It does not apply to third parties’ websites linked through BearingPoint website. We strongly recommend that you read these third parties’ privacy policies prior to providing any information to such sites. BearingPoint has no responsibility or liability in connection with any third parties’ websites.
 
 **Collection, Use and Transfer of Your Information**  
@@ -28,9 +32,9 @@ Please be aware that it is possible that personal data you provide to BearingPoi
 BearingPoint will not generally collect, process or transfer sensitive personal data through its site, unless you expressly consent with such collection, processing or transfer. “Sensitive personal data” for the purposes of this BearingPoint Privacy Policy shall mean data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, trade-union membership, and data concerning health or sex life. By providing us with unsolicited sensitive personal data, you explicitly consent to such data being collected, processed and transferred by BearingPoint. 
 
 **Correction, Update and Deletion of the personal data**  
-BearingPoint will provide you with a possibility to ensure that the personal data you provided to us is accurate and up to date. You can request correction, update and deletion of your personal information via e-mail sent to [consultingweb@bearingpoint.net](mailto:consultingweb@bearingpoint.net), and we will use reasonable efforts to contact you regarding your request. 
+BearingPoint will provide you with a possibility to ensure that the personal data you provided to us is accurate and up to date. You can request correction, update and deletion of your personal information via e-mail sent to [BPt-FMConsultingWebS@BearingPoint.com](mailto:BPt-FMConsultingWebS@BearingPoint.com), and we will use reasonable efforts to contact you regarding your request. 
 
-In case you chose to be on a mailing list for periodic email updates regarding BearingPoint services and events, you also can use this e-mail address [consultingweb@bearingpoint.net](mailto:consultingweb@bearingpoint.net) to send us a notification that you no longer want to receive such information. We will honor your choice and refrain from sending you such announcements. You may change your choice at any time. 
+In case you chose to be on a mailing list for periodic email updates regarding BearingPoint services and events, you also can use this e-mail address [BPt-FMConsultingWebS@BearingPoint.com](mailto:BPt-FMConsultingWebS@BearingPoint.com) to send us a notification that you no longer want to receive such information. We will honor your choice and refrain from sending you such announcements. You may change your choice at any time. 
 
 To update or delete your data or correct an inaccuracy, we may ask you to verify your identity and cooperate with us in our effort.
 
@@ -40,4 +44,7 @@ BearingPoint uses various organizational and technical measures to protect your 
 **Children’s Personal Information**  
 BearingPoint.com is a site not targeted to children and is not intended to collect personal data from children under age of 13. 
 
-If you have questions regarding privacy of your personal information you submit to us through our website, please send an e-mail to [consultingweb@bearingpoint.net](mailto:consultingweb@bearingpoint.net).
+If you have questions regarding privacy of your personal information you submit to us through our website, please send an e-mail to [BPt-FMConsultingWebS@BearingPoint.com](mailto:BPt-FMConsultingWebS@BearingPoint.com).
+
+|    
+---|---|---
