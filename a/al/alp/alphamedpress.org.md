@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alphamedpress.org privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223104939id_/http%3A//www.alphamedpress.org/misc/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alphamedpress.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615033842id_/http%3A//www.alphamedpress.org/misc/privacypolicy.shtml) for the most accurate reproduction.*
 
 # AlphaMed Press -- Privacy Policy
 
@@ -32,8 +32,8 @@ We **do not release** any information about your use of our site, including your
 **How to Stop Receiving Information from Us**  
 You may choose at any time to stop receiving offer information from us about content or services. To stop receiving information, please contact:
 
-Mike Bittenbender  
-e-mail: [MikeBittenbender@alphamedpress.com](mailto:MikeBittenbender@alphamedpress.com)  
+Editorial Office  
+e-mail: [EditorialOffice@AlphaMedPress.com](mailto:EditorialOffice@AlphaMedPress.com)  
 318 Blackwell St., Suite 260  
 Durham, NC 27701-2884 USA  
 Telephone: 919-680-0011
@@ -47,8 +47,8 @@ Cookies are small files that are created to store information on your computer. 
 We may conduct occasional online surveys. These surveys are entirely voluntary, and you may easily decline to participate.
 
  **Policy Modification**  
-We may change this Privacy Policy from time to time. If you have any questions, comments, or concerns about our Privacy Policy, you may contact Mike Bittenbender at [MikeBittenbender@alphamedpress.com](mailto:MikeBittenbender@alphamedpress.com).   
-Last updated: March 31, 2005
+We may change this Privacy Policy from time to time. If you have any questions, comments, or concerns about our Privacy Policy, you may contact the Editorial Office at [EditorialOffice@AlphaMedPress.com](mailto:EditorialOffice@AlphaMedPress.com).   
+Last updated: December 23, 2005
 
  **REFUND/RETURN POLICY**
 
@@ -58,12 +58,12 @@ If you are not happy with your subscription and wish to cancel, we will issue a 
 **Books**  
 For book purchases, you may receive a full refund on the book purchase price within 30 days of delivery. You will be responsible for the return shipping costs. For returns, please contact:
 
-Sarah Buchanan  
-e-mail: [SarahBuchanan@alphamedpress.com](mailto:SarahBuchanan@alphamedpress.com)  
+Editorial Office  
+e-mail: [EditorialOffice@AlphaMedPress.com](mailto:EditorialOffice@AlphaMedPress.com)  
 318 Blackwell St., Suite 260  
 Durham, NC 27701-2884 USA  
-Telephone: 919-680-0011, ext. 225
+Telephone: 919-680-0011
 
 * * *
 
-**[Copyright © 2005 by AlphaMed Press.](https://web.archive.org/misc/terms.shtml)**
+**[Copyright © 2006 by AlphaMed Press.](https://web.archive.org/misc/terms.shtml)**
