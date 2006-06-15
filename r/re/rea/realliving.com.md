@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realliving.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230120626id_/http%3A//www.realliving.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realliving.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615131712id_/http%3A//realliving.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Real Living - Buy a home. Sell your house. Find an agent and a mortgage.
 
