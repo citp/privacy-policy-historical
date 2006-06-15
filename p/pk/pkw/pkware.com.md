@@ -1,12 +1,24 @@
-> *The following text is extracted and transformed from the pkware.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220211418id_/http%3A//www.pkware.com/business_and_developers/about_pkware/legal/index.php%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pkware.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615234236id_/http%3A//pkware.com/business_and_developers/about_pkware/legal/index.php%23privacy) for the most accurate reproduction.*
 
 # PKWARE - Legal Information
 
+|  |  | [Background](https://web.archive.org/business_and_developers/about_pkware/background/)  
+---|---  
+| [Events](https://web.archive.org/business_and_developers/about_pkware/events/)  
+| [Online Events](https://web.archive.org/business_and_developers/about_pkware/online_events/)  
+| [Milestones](https://web.archive.org/business_and_developers/about_pkware/milestones/)  
+| [Management](https://web.archive.org/business_and_developers/about_pkware/management/)  
+| [Standards](https://web.archive.org/business_and_developers/about_pkware/standards/)  
+| [Careers](https://web.archive.org/business_and_developers/about_pkware/careers/)  
+| **Legal**  
+| [Contact Us](https://web.archive.org/business_and_developers/about_pkware/contact_us/)  
+| 
+
 ###  Trademarks & Copyrights 
 
-PKWARE®, PKZIP®, and SecureZIP™ are trademarks of PKWARE, Inc. Trademarks of other companies mentioned in this documentation appear for identification purposes only and are property of their respective companies. Use of various PKWARE corporate identity assets is subject to the Branding Guidelines & Terms of PKWARE, Inc. 
+The PKWARE title and logo are registered trademarks of PKWARE, Inc. Trademarks of other companies mentioned appear for identification purposes only and are property of their respective companies. PKZIP, PKUNZIP, PKSFX, PKLITE, PKUNZIP JR, PKWARE SDK, PKZIP EXPLORER, PKZIP FIX, ZIP2EXE and PKWARE Data Compression Library are registered trademarks of PKWARE, Inc. SECUREZIP, ZIP READER, PKZIP Explorer, PKZIP Command Line, PKZIP Attachments, PKZFIND, PKZOOM, Deflate64, EasySFX, AutoSFX, RegularSFX and ZIP2EXE are trademarks of PKWARE, Inc. Use of various PKWARE corporate identity assets is subject to the Branding Guidelines & Terms of PKWARE, Inc. 
 
-Copyright 1985 - 2005 PKWARE, Inc. All rights reserved. Except where noted otherwise, all content published via pkware.com, pkzipreader.com, pkzipstore.com and other PKWARE domains is the property of PKWARE, Inc. Any reproduction or distribution of this content without explicit written permission of PKWARE is prohibited. INFORMATION AND CONTENT ON THIS SITE ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. CONTENT ON THIS SITE MAY CONTAIN INACCURATE OR TYPOGRAPHICAL ERRORS AND PKWARE MAY MAKE IMPROVEMENTS OR CHANGES TO THE CONTENT AT ANY TIME. 
+Copyright 1985 - 2006 PKWARE, Inc. All rights reserved. Except where noted otherwise, all content published via pkware.com, pkzipreader.com, pkzipstore.com and other PKWARE domains is the property of PKWARE, Inc. Any reproduction or distribution of this content without explicit written permission of PKWARE is prohibited. INFORMATION AND CONTENT ON THIS SITE ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. CONTENT ON THIS SITE MAY CONTAIN INACCURATE OR TYPOGRAPHICAL ERRORS AND PKWARE MAY MAKE IMPROVEMENTS OR CHANGES TO THE CONTENT AT ANY TIME. 
 
 [Updated 02.15.2005] 
 
@@ -58,3 +70,5 @@ Milwaukee, WI 53203**
 ### Software Licensing
 
 Software Licenses vary per installation and package. If a current user, please refer to the information embedded within your licensed product(s) and associated documentation as provided at your point of purchase. 
+
+|  | 
