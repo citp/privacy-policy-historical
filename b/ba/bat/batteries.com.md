@@ -1,15 +1,14 @@
-> *The following text is extracted and transformed from the batteries.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228174023id_/http%3A//www.batteries.com/help/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batteries.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615201746id_/http%3A//www.batteries.com/help/privacy_policy.asp) for the most accurate reproduction.*
 
 # Batteries.com for computer laptop, cellular phone, watch, hearing aid, camera battery savings!
 
-## Privacy Policy
-
-|  [](http://www.truste.org/ivalidate.php?url=www.batteries.com&sealid=101)  
+  
+Privacy Policy |  [](http://www.truste.org/ivalidate.php?url=www.batteries.com&sealid=101)  
 ---|---  
   
 batteries.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
-If you have questions or concerns regarding this statement, you should first contact our privacy manager at [privacy@batteries.com](mailto:privacy@batteries.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe [http://www.truste.org/consumer.watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first contact our privacy manager at [privacy@batteries.com](mailto:privacy@batteries.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
 
 Information Collection and Use  
 Signing up for My Power  
