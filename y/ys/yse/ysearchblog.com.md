@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ysearchblog.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231051040id_/http%3A//privacy.yahoo.com/privacy/us/ysearch) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ysearchblog.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615195350id_/http%3A//privacy.yahoo.com/privacy/us/ysearch) for the most accurate reproduction.*
 
 # Yahoo! Privacy
 
 |   | 
 
-[](https://www.truste.org/ivalidate.php?url=www.yahoo.com) Yahoo! takes your privacy seriously. Please read the following to learn more about our privacy policy.
+[](http://www.truste.org/ivalidate.php?url=www.yahoo.com&sealid=101) Yahoo! takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
 **NOTICE:[Click here](http://www.ftc.gov/bcp/conline/pubs/online/sitesee.htm) for important information about safe surfing from the Federal Trade Commission. **
 
@@ -84,7 +84,7 @@
 **Questions and Suggestions**  
 
 
-  * [Yahoo! is TRUSTe-certified](https://www.truste.org/ivalidate.php?url=www.yahoo.com). This certification applies to all English-language sites under the Yahoo.com domain. If you feel that your inquiry has not been satisfactorily addressed, you should contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php), an independent privacy organization. TRUSTe serves as a liaison with Yahoo! to resolve your concern. 
+  * [Yahoo! is TRUSTe-certified](http://www.truste.org/ivalidate.php?url=www.yahoo.com&sealid=101). This certification applies to all English-language sites under the Yahoo.com domain. If you feel that your inquiry has not been satisfactorily addressed, you should contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php), an independent privacy organization. TRUSTe serves as a liaison with Yahoo! to resolve your concern. 
   * If you have questions or suggestions, please complete a [feedback form](http://add.yahoo.com/fast/help/us/privacy/cgi_feedback?radio30=radio305) or you can contact us at: 
 
 Yahoo! Inc.  
