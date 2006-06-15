@@ -1,25 +1,24 @@
-> *The following text is extracted and transformed from the getpaidmail.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217020509id_/http%3A//www.getpaidmail.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getpaidmail.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615220908id_/http%3A//www.getpaidmail.com/pages/privacy.php) for the most accurate reproduction.*
 
 # GetPaidMail.com
 
-|   
-
-
-[](http://www.getpaidmail.com/scripts/runner.php?BA=1468&hash=d8397a07d8df5e614a94d95f80e50fa8&url=http%3A%2F%2Fwww.usafis.org%2Findex.asp%3Faf%3Dmyf_nl_pass_468_en)
-
+|    
+  
 **Information Collected** getpaidmail.com has created this privacy statement in order to demonstrate our firm commitment to privacy. getpaidmail.com uses your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information. getpaidmail.com uses cookies to deliver content specific to your interests, to save your password so you don't have to re-enter it each time you visit our site, and for other purposes. getpaidmail.com's registration form requires users to give us contact information (like their name, address, and email address). getpaidmail.com uses member contact information from the registration form to send the member information about our company and email advertisements. Members may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. We collect personal offline information for the sole purpose of paying members for earnings from our program. This site contains links to other sites. getpaidmail.com is not responsible for the privacy practices or the content of such Web sites. getpaidmail.com uses a signup form for new members and advertisers. We collect visitor's contact information (like their email address, address, and name). The member's contact information is used to get in touch with the member when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.   
 **Public Forums** getpaidmail.com, in the future, may make chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.   
 **Security** getpaidmail.com has security measures in place to protect the loss, misuse and alteration of the information under our control.   
 **Children's Guidelines:** We do not collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent. We do not collect personally identifiable offline contact information without prior parental consent. We do not distribute to third parties any personally identifiable information. We do not give the ability to publicly post or otherwise distribute personally identifiable contact information. We do not entice by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity.   
-**Choice/Opt-Out:** getpaidmail.com provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. getpaidmail.com gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. You can [Contact Us](https://web.archive.org/pages/contact.php?PHPSESSID=4a5257014381ca32ef1062bef0f3d3c1wnmqgjrbhgytwufdcpgcmpmjzq020508) and request your membership to be cancelled at anytime.   
-**Correct/Update:** getpaidmail.com gives users the following options for changing and modifying information previously provided. Members Area - login and change your personal information. Contacting the Web Site If you have any questions about this privacy statement, the practices of this site, or your dealings with getpaidmail.com, you can [Contact Us](https://web.archive.org/pages/contact.php?PHPSESSID=4a5257014381ca32ef1062bef0f3d3c1wnmqgjrbhgytwufdcpgcmpmjzq020508)
+**Choice/Opt-Out:** getpaidmail.com provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. getpaidmail.com gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. You can [Contact Us](https://web.archive.org/pages/contact.php) and request your membership to be cancelled at anytime.   
+**Correct/Update:** getpaidmail.com gives users the following options for changing and modifying information previously provided. Members Area - login and change your personal information. Contacting the Web Site If you have any questions about this privacy statement, the practices of this site, or your dealings with getpaidmail.com, you can [Contact Us](https://web.archive.org/pages/contact.php)
 
 [](http://www.getpaidmail.com/scripts/runner.php?BA=1264&hash=96d67edbe5b5f5f601495450b957a978&url=http%3A%2F%2Fwww.surveyclub.com%2Fgo%2F13163%2Fbottomall)
 
 | 
 
-[](http://www.getpaidmail.com/scripts/runner.php?BA=1474&hash=0093d501658eeb52bccfa166f047c6a7&url=http%3A%2F%2Fwww.play65.com%2FEN%2Findex.html%3Fdid%3D11690%26tag1%3D1%26tag2%3D1%26cid%3D1)  
+[](http://www.getpaidmail.com/scripts/runner.php?BA=1862&hash=56a54afef1133960fdf82c95f1359067&url=http%3A%2F%2Fwww.myfreeshares.com%2Findex.php%3Fref%3Dsmsasad)  
   
 ---  
 ** 2002-2003 GetPaidMail© All Rights Reserved  
-**
+**  
+  
+**This site is part of the[multimoneygroup.com](http://www.multimoneygroup.com/) our sites are:**
