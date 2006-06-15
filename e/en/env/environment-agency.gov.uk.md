@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the environment-agency.gov.uk privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219145921id_/http%3A//environment-agency.gov.uk/other/help/196646) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the environment-agency.gov.uk privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616012234id_/http%3A//environment-agency.gov.uk/other/help/196646) for the most accurate reproduction.*
 
 # Environment Agency - Privacy policy
 
@@ -24,7 +24,8 @@ We will only hold personal data on our systems for a strictly limited period of 
 
 Access to your personal information
 
-You have the right to request a copy of the personal information the Environment Agency holds about you and to have any inaccuracies in that personal information corrected. Please address requests to the National Data Protection Manager or use the on-line enquiry form.
+You have the right to request a copy of the personal information the Environment Agency holds about you and to have any inaccuracies in that personal information corrected. Please address requests to the National Data Protection Manager or use the on-line enquiry form.  
+[Click here to request a copy of your personal information.](http://www.environment-agency.gov.uk/aboutus/1105530/310151/319911/319954/1340536/)
 
 Direct marketing
 
@@ -48,4 +49,4 @@ We also use an external agent to analyse usage behaviour on our behalf. To enabl
 
 This information allows us to more effectively tailor our site to make its use easier. Their privacy policy can be found at:[Nielsen//Netratings](http://www.netratings.com/privacy.jsp?section=leg_scs)
 
-Through modification of browser preferences, you can elect to accept all cookies, receive notification when a cookie is set, or decline all cookies. You can find further information regarding the deletion of cookies can be found at: <http://www.aboutcookies.org/deletecookies.asp>[ ](http://www.aboutcookies.org/deletecookies.asp)
+Through modification of browser preferences, you can elect to accept all cookies, receive notification when a cookie is set, or decline all cookies. You can find further information regarding the deletion of cookies can be found at: <http://www.aboutcookies.org/Default.aspx?page=2>[ ](http://www.aboutcookies.org/deletecookies.asp)
