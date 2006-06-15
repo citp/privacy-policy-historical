@@ -1,15 +1,6 @@
-> *The following text is extracted and transformed from the metwashairports.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228024504id_/http%3A//metwashairports.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metwashairports.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615020257id_/http%3A//www.metwashairports.com/mwaa/about_the_authority/privacy_policy) for the most accurate reproduction.*
 
-# Metropolitan Washington Airports Authority Privacy Statement and Website Policy for www.mwaa.com
-
-| 
-
-Here is how we handle information about your visit to our web site.  
-  
-
-
-|  |   
-
+# Privacy Policy
 
 **Disclaimer** : The material on this website is historical and has been posted for the convenience and general information of persons interested in such historical material, speaks only as of its date, and has not been updated to reflect subsequent developments.  
 
@@ -55,7 +46,7 @@ All photographs contained on this web site are protected by United States copyri
 
 Send questions or requests for permission to:
 
-[Webmaster](https://web.archive.org/web/20051228024504id_/http%3A//metwashairports.com/email/webmaster.htm)  
+[Webmaster](http://www.metwashairports.com/mwaa/about_the_authority/privacy_policy/EmailForm?to=Webmaster&toaddress=webmaster)  
 MWAA MA-610  
 1 Aviation Circle  
 Washington, DC 20001-6000
@@ -64,10 +55,7 @@ Washington, DC 20001-6000
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact
 
-[Webmaster](https://web.archive.org/web/20051228024504id_/http%3A//metwashairports.com/email/webmaster.htm)  
+[Webmaster](http://www.metwashairports.com/mwaa/about_the_authority/privacy_policy/EmailForm?to=Webmaster&toaddress=webmaster)  
 MWAA MA-610  
 1 Aviation Circle  
-Washington, DC 20001-6000  
-
-
-| 
+Washington, DC 20001-6000
