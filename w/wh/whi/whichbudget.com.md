@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the whichbudget.com privacy policy that was archived on 2005-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051110131051id_/http%3A//www.whichbudget.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whichbudget.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615072343id_/http%3A//whichbudget.com/privacy.php) for the most accurate reproduction.*
 
 # Terms and Conditions : WhichBudget Limited
 
-All definitions shall be construed the same as the ones contained within the [Terms of Use](https://web.archive.org/web/20051110131051id_/http%3A//www.whichbudget.com/tandc.php).
+All definitions shall be construed the same as the ones contained within the [Terms of Use](https://web.archive.org/web/20060615072343id_/http%3A//whichbudget.com/tandc.php).
 
 WhichBudget.com is committed to ensuring that Your privacy is protected. This privacy policy explains how We use the information We collect about You, how You can instruct Us if You prefer to limit the use of that information and procedures that We have in place to safeguard Your privacy.
 
@@ -16,11 +16,11 @@ We may also use aggregate information and statistics for the purposes of monitor
 
 From time to time We may use Your information for research and analysis purposes so that We can monitor and improve the Service We provide. We or our agents and sub-contractors may contact You by e-mail to ask You for Your feedback and comments on our service.
 
-We may also wish to provide You with information about special features of our website or any other service or products We think may be of interest to You. If You would not like to receive this information, please [contact us](https://web.archive.org/web/20051110131051id_/http%3A//www.whichbudget.com/contact.php).
+We may also wish to provide You with information about special features of our website or any other service or products We think may be of interest to You. If You would not like to receive this information, please [contact us](https://web.archive.org/web/20060615072343id_/http%3A//whichbudget.com/contact.php).
 
-We may also want to provide You with related information from third parties We think may be of interest to You. If You would like to receive this information, please [contact us](https://web.archive.org/web/20051110131051id_/http%3A//www.whichbudget.com/contact.php).
+We may also want to provide You with related information from third parties We think may be of interest to You. If You would like to receive this information, please [contact us](https://web.archive.org/web/20060615072343id_/http%3A//whichbudget.com/contact.php).
 
-We may also provide Your information to carefully selected third parties whose products or services We believe may be of interest to You. If You wish Us to disclose Your information in this way, please [contact us](https://web.archive.org/web/20051110131051id_/http%3A//www.whichbudget.com/contact.php).
+We may also provide Your information to carefully selected third parties whose products or services We believe may be of interest to You. If You wish Us to disclose Your information in this way, please [contact us](https://web.archive.org/web/20060615072343id_/http%3A//whichbudget.com/contact.php).
 
 * Our use of cookies and other information gathering technologies
 
@@ -44,7 +44,7 @@ If this business is sold or integrated with another business Your details may be
 
 * Updating Your details
 
-If any of the information that You have provided to Us changes, for example if You change Your e-mail address, name or if You wish to cancel Your registration, please let Us know the correct details by [contacting us](https://web.archive.org/web/20051110131051id_/http%3A//www.whichbudget.com/contact.php).
+If any of the information that You have provided to Us changes, for example if You change Your e-mail address, name or if You wish to cancel Your registration, please let Us know the correct details by [contacting us](https://web.archive.org/web/20060615072343id_/http%3A//whichbudget.com/contact.php).
 
 * Your consent
 
@@ -52,4 +52,4 @@ By submitting Your information You consent to the use of that information as set
 
 * How to contact Us
 
-We welcome Your views about our website and our privacy policy. If You would like to contact Us with any queries or comments please use the [contact us](https://web.archive.org/web/20051110131051id_/http%3A//www.whichbudget.com/contact.php) form. 
+We welcome Your views about our website and our privacy policy. If You would like to contact Us with any queries or comments please use the [contact us](https://web.archive.org/web/20060615072343id_/http%3A//whichbudget.com/contact.php) form. 
