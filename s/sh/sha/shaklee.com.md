@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shaklee.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230185812id_/http%3A//www.shaklee.com/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shaklee.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615105020id_/http%3A//shaklee.com/main/privacy) for the most accurate reproduction.*
 
-# 
+# Shaklee.com - Privacy
 
 Shaklee Corporation recognizes the importance of protecting the privacy of information we may collect from you. To this end, we are committed to using our best efforts to respect your privacy. Here is how we handle information we learn about you from your visit to the Shaklee Websites.
 
@@ -29,7 +29,7 @@ We may use and disclose such personal information about distributors only for th
 Distributors have the option to opt-out of any published listing or directory of Shaklee Membership.
 
 **Financial Information**  
-We use your financial information, such as account or credit card number, ONLY for billing purposes.
+We use and store your financial information, such as account or credit card number, ONLY for billing purposes.
 
 **Cookies**  
 Some Shaklee Websites deposit certain bits of information called "cookies" in a visitor's web browser software. Cookies are sent back only to the Shaklee Websites that deposited them when a visitor returns to that site. Cookies can tell us how and when pages in a Shaklee Website are visited and by how many people. Cookies are not used to store personal information, such as social security and credit card numbers. Shaklee uses cookies:
@@ -50,7 +50,7 @@ We do not solicit personal information from or market to children under the age 
 We make public forums, such as chat rooms, message boards, and/or news groups ("Public Forums"), available to distributors. Please exercise appropriate caution in disclosing personal information in Public Forums since information disclosed in these areas becomes public information. The privacy provisions herein shall not apply to any personal information submitted via any of the Public Forums.
 
 **Security**  
-We have security measures in place to protect against the loss, misuse and alteration of the information you provide. When you place an order or give us personal information, such as name, address, telephone numbers, credit card or social security number, you are automatically on our secure server. Our secure server software encrypts the information you input before it is sent to us to protect your data against unauthorized access.
+When you place an order or give us personal information, such as name, address, telephone numbers, credit card or social security number, the data upon submittal is encrypted during transmission to protect against any unauthorized access.
 
 **Links to Other Websites**  
 As a resource to our visitors we provide links to other websites which we believe are useful and meet our high standards. However, Shaklee Corporation is not responsible for the contents of such linked websites. In particular, Shaklee Corporation is not responsible for the privacy notices or practices provided in such linked websites.
