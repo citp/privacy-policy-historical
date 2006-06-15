@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mxtabs.net privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211182408id_/http%3A//www.mxtabs.net/content.php%3Ffile%3DPrivacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mxtabs.net privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615062743id_/http%3A//mxtabs.net/content.php%3Ffile%3DPrivacy_Policy) for the most accurate reproduction.*
 
 # Mxtabs - Privacy Policy
 
