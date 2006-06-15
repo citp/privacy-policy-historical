@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valleyadvocate.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220115449id_/http%3A//www.newmassmedia.com/directory/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valleyadvocate.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615200454id_/http%3A//www.newmassmedia.com/directory/privacy.html) for the most accurate reproduction.*
 
 # New Mass. Media - Advocate*Weekly Newspapers - Privacy Policy
 
