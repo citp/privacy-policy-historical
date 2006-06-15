@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windowsmarketplace.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222015739id_/http%3A//g.msn.com/WMHFUSEN/101016) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windowsmarketplace.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615110436id_/http%3A//g.msn.com/WMHFUSEN/101831) for the most accurate reproduction.*
 
 # Windows Marketplace: Privacy Statement
 
@@ -69,5 +69,4 @@ Microsoft welcomes your comments regarding this privacy statement. Please contac
 **Windows Marketplace**  
 Microsoft Corporation  
 One Microsoft Way  
-Redmond, WA 98052-6399  
-
+Redmond, WA 98052-6399 
