@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the burningman.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231111600id_/http%3A//www.burningman.com/index/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burningman.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615204056id_/http%3A//www.burningman.com/index/privacy_policy.html) for the most accurate reproduction.*
 
 # Burning Man :: Privacy Policy
 
@@ -24,7 +24,8 @@ We use the personal information that we receive to operate the web site and prod
   * We have your permission; or
   * We respond to subpoenas, court orders, or other legal process; or when we must exercise our legal rights, protect our property, defend against legal claims, or otherwise comply with the law, or
   * We believe it is appropriate in order to investigate, prevent, or take action regarding suspected illegal activities, fraud, threats to personal safety, or violation of this web site's terms of use.
-  * When you order tickets to the Burning Man event and other items on line at this web site, your order is processed in collaboration with Inhouse Ticketing, a separate company. The information you submit in connection with your online ticket order is governed by Inhouse Ticketing's [privacy policy](https://web.archive.org/web/20051231111600id_/http%3A//www.burningman.com/index/tickets.burningman.com/privacy.php).
+  * When you order tickets to the Burning Man event and other items on line at this web site, your order is processed in collaboration with In Ticketing, a separate company. The information you submit in connection with your online ticket order is governed by [In Ticketing's privacy policy](http://tickets.burningman.com/info.php?i=910).
+  * Burning Man and/ or the Black Rock Arts Foundation may at times contact you at your email address to keep you informed about their local events and other Burning Man related opportunities. Should you not want to receive such information, you will find details about how to opt out the first time you are contacted.
 
 
 
