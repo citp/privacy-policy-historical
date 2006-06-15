@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the my-calorie-counter.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211124357id_/http%3A//my-calorie-counter.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my-calorie-counter.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615185519id_/http%3A//my-calorie-counter.com/Privacy.asp) for the most accurate reproduction.*
 
 # my-calorie-counter Privacy Policy
 
@@ -46,15 +46,5 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 **How To Contact Us**  
 Should you have other questions or concerns about these privacy policies, please call us at 1-800-507-2557 or send us an email at info@my-calorie-counter.com. 
-
-* * *
-
-User ID  
-Password  
-  
- Remember me  
-[Help](https://web.archive.org/web/20051211124357id_/http%3A//my-calorie-counter.com/help.asp)
-
-The holidays are here, and that means temptation is all around us! Be sure to plan what you will eat before heading off to the party. Fill up on fruits and veggies before you go. Before picking up that food on the appetizer table that was _not_ on your list, ask yourself _why_ you are wanting to eat it. Is it because everyone else is eating, or maybe to make your best friend happy because she went to so much trouble making the appetizers? If you drink alcohol, be sure to alternate your alcoholic drinks and water or favorite low-calorie soft drink. This will minimize your empty calorie intake. And last but not least, don’t punish yourself if you went overboard. Tomorrow is a brand new day. Just don’t throw in the towel! 
 
 * * *
