@@ -1,13 +1,14 @@
-> *The following text is extracted and transformed from the undercovercondoms.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212151346id_/http%3A//www.undercovercondoms.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the undercovercondoms.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615035257id_/http%3A//www.undercovercondoms.com/privacy.asp) for the most accurate reproduction.*
 
 # Undercover Condoms - Privacy Policy
 
-|  |   
+|  |  |   
   
-
-
+|  | [](http://www.truste.org/ivalidate.php?url=www.undercovercondoms.com&sealid=101)  
+---|---  
+  
 Our Products Protect You, We Protect Your Privacy.  
-| From the moment you place your order, you can rely on the following:
+From the moment you place your order, you can rely on the following:
 
   * Your order will be shipped in a plain envelope or box. The name on the return address label will say "PCPD, LLC" only. No reference to condoms or any other safe-sex related product will be visible on the outside of the package
   * You credit card bill will simply have an entry for "PCPD, LLC", again no reference to condoms or other contraceptive related items.
