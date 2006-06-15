@@ -1,7 +1,20 @@
-<!--The following is the downloaded HTML source of the mtvu.com privacy policy that was archived on 2005-04-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050403171341id_/http%3A//www.mtvu.com/about/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mtvu.com privacy policy that was archived on 2006-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615030655id_/http%3A//www.mtvu.com/about/privacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html><head><script language="JavaScript" src="/sitewide/scripts/detect_flash.js"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html><head>
+
+<title>mtvU.com</title>
+<meta name="description" content="mtvU">
+<meta name="keywords" content="mtvU, mtvu">
+<meta name="URL" content="www.mtvu.com">
+<meta name="author" content="mtvU / www.mtvu.com">
+<meta name="copyright" content="Copyright (c) 2006 MTV Networks On Campus Inc."> 
+<meta name="robots" content="index,follow">
+<meta name="revisit-after" content="2 days">
+<meta name="distribution" content="global">
+<!-- END SEO Tags -->
+
+<script language="JavaScript" src="/sitewide/scripts/detect_flash.js"></script>
 
 <script language="JavaScript">var sections="&gateway=about&section_1=privacy_policy";</script>
 
@@ -66,10 +79,19 @@ omniCall.dynCharts = chartsCall;
 }
 parseDynCharts();
 
-</script>
+var ocp = omniCall.pageName?omniCall.pageName:"";
+var ogt = omniCall.gateway?omniCall.gateway:"";
 
+if ( (ogt == "uber") && (ocp == "index.jhtml")){
+omniCall.channel = null; 
+}
+
+if ( (ogt == "uber") && (ocp == "player.jhtml")){
+omniCall.channel = null; 
+}
+
+</script>	
 <script language="JavaScript" src="/sitewide/scripts/omni_config.js"></script>
-
 <script type="text/JavaScript" language="JavaScript" src="/global/reporting/scripts/omni_functions.js"></script>
 
 <!--- flash write files --->
@@ -77,7 +99,6 @@ parseDynCharts();
 <script language="javascript" src="/shared/scripts/Media.js"></script>
 <!-- flash write files -->
 
-<title>mtvU.com</title>
 <script>window.name="mtvu";</script>
 <script type="text/javascript" src="/sitewide/scripts/gen.js"></script>
 <script type="text/javascript" src="/sitewide/scripts/genoutsourcedev.js"></script>
@@ -86,8 +107,26 @@ parseDynCharts();
 <!-- droplet src="/sitewide/scripts/flipbooks.js"></droplet -->
 <link rel="stylesheet" href="/sitewide/styles/site.css" type="text/css">
 <script src="/sitewide/scripts/common.js" type="text/javascript"></script>
+<script type="text/javascript" language="javascript" src="/sitewide/scripts/broadband_detect_config.js"></script>
+<script type="text/javascript" language="javascript" src="/global/apps/broadband/scripts/broadband_detect.js"></script>
 
-<script language="javascript">
+<script type="text/javascript" language="javascript">
+
+function broadbandWindowPopped(win, path) {
+try {
+win.focus();
+} catch (e) {
+window.location.replace(path);
+}
+}
+
+</script>
+
+<script language="javascript" src="/global/apps/mediaplayer/scripts/os_detect.js"></script> 
+<script language="javascript" src="/shared/scripts/flash_detect.js"></script>
+<script type="text/JavaScript" src="/sitewide/scripts/gen.js"></script>
+
+<script type="text/javascript" language="javascript">
 
 if (typeof additionalVals == "undefined") {
 additionalVals="";
@@ -99,13 +138,7 @@ prependDomain = "";
 
 players = new Array();
 player = "defaultPlayer";
-players['defaultPlayer'] = new Array("mtvmediaplayer","720","540");	
-players['moviePlayer'] = new Array("vh1MovieMediaPlayer","776","556");
-
-qsKeys = clipy.split("&");
-for (i=0; i<qsKeys.length; i++) {
-if (qsKeys[i].split("=")[0] == "player") player = (qsKeys[i].split("=")[1]);
-}
+players['defaultPlayer'] = new Array("mtvmediaplayer","720","540");
 
 clipyNew = clipy
 clipy = clipyNew
@@ -144,6 +177,9 @@ clipy = clipy.replace(/'/g,'\\\'')
 
 attSw = 'no';
 
+if(document.referrer.indexOf("yahoo")>=0)
+additionalVals += '&partner=yahoo';
+
 sUrl = prependDomain + "/sitewide/apps/mediaplayer/index.jhtml?" + clipy + ss + ap + additionalVals;
 
 attrs = 'width=' + players[player][1] + ',';
@@ -165,262 +201,401 @@ pWin.focus();
 
 }
 
+{
+function launchTrailer(stuff){
+launchVideo(stuff)
+}
+}
+
 </script>
 
 </head>
 
-<body marginwidth="0" marginheight="0" topmargin="0" leftmargin="0" bgcolor="#291929"><div style="position:relative;">
+<body marginwidth="0" marginheight="0" topmargin="0" leftmargin="0" bgcolor="#291929">
+
 <!-- body_element.jhtml -->
 
 <!-- Omniture Call -->
 <div style="display:none;">
-<script type="text/javascript" language="javascript" src="/global/reporting/scripts/s_code_remote.js"></script><img name="s_i_mtvu" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/mtvu/1/G.7-PD-R/s73033205751345?[AQB]&amp;ndh=1&amp;t=31/0/2020%204%3A2%3A54%205%200&amp;pageName=/undefined&amp;g=https%3A//web.archive.org/web/20050403171341id_/http%3A//www.mtvu.com/about/privacy_policy/&amp;cc=USD&amp;c4=not_logged_in&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+
+<script type="text/javascript" language="javascript" src="/global/reporting/scripts/s_code_remote.js"></script><img name="s_i_mtvu" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/mtvu/1/G.7-PD-R/s7201557973974?[AQB]&amp;ndh=1&amp;t=31/0/2020%204%3A2%3A56%205%200&amp;pageName=/undefined&amp;g=https%3A//web.archive.org/web/20060615030655id_/http%3A//www.mtvu.com/about/privacy_policy/&amp;cc=USD&amp;c4=not_logged_in&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+
 </div>	
 
 <!-- /body_element.jhtml -->
+
 <img src="/images/spacer.gif" width="1" height="15" alt="" border="0" vspace="0"><br>
 
-<div align="center">
+<div width="100%">
 
 <script src="/sitewide/templates/nav_and_menus/menu_js.jhtml" type="text/javascript"></script>
 
 <style>
-#navHolder {position:relative;z-index:100; width:766px; top:110px; align:center; margin: 0px auto 0px auto;}
-#nav2Holder {position:absolute; right:12px; top:0px; text-align:left; z-index:125;}
 
-.tx {background-color:#232E47; width:126px; padding:1px; margin:0px; text-align:center; margin: 0px auto 0px auto;}
-#menu0 {position:absolute; right:438px; top:60px; visibility:hidden; z-index:126;}
-#menu1 {position:absolute; right:342px; top:60px; visibility:hidden; z-index:127;}
-#menu2 {position:absolute; right:245px; top:60px; visibility:hidden; z-index:128;}
-#menu3 {position:absolute; right:148px; top:60px; visibility:hidden; z-index:129;}
-#menu4 {position:absolute; right:51px; top:60px; visibility:hidden; z-index:130;}
-#menu5 {position:absolute; right:-46px; top:60px; visibility:hidden; z-index:131;}
+#navHolder {position:relative;z-index:100; width:766px; top:110px; align:center; margin: 0px auto 0px auto;}	
 
-.menuInsides {background-color:#FEFCBD; text-align:left; border:1px #ffffff solid;padding: 5px 5px 7px 7px; margin:0px;}
-.menuInsides a, .menuInsides a:visited {font: bold 11px helvetica,verdana; color:#384045;}
-.menuInsides a:hover, .menuInsides a:visited:hover {color:#0099ff;}
+#nav2Holder { position:absolute; width:766px; margin:0px auto 0px auto; align:center; z-index:125; background:url(/sitewide/templates/images/nav_bg_174px.jpg) top center no-repeat;}
+
+.logo {padding:3px;}
+.tx {background-color:#d9f7ff; width:175px; padding:2px; margin:0px; text-align:center; margin: 0px 0px 0px 0px;}
+.tx_jobs {background-color:#d9f7ff; width:126px; padding:2px; margin:0px; text-align:center; margin: 0px 0px 0px 0px;}
+#menu0 {position:absolute; left:12px; top:134px; visibility:hidden; z-index:1026;}
+#menu1 {position:absolute; left:130px; top:134px; visibility:hidden; z-index:1027;}
+#menu2 {position:absolute; left:206px; top:134px; visibility:hidden; z-index:1028;}
+#menu3 {position:absolute; left:286px; top:134px; visibility:hidden; z-index:1029;}
+#menu4 {position:absolute; left:400px; top:134px; visibility:hidden; z-index:1030;}
+#menu5 {position:absolute; left:458px; top:134px; visibility:hidden; z-index:1031;}
+#menu6 {position:absolute; left:539px; top:134px; visibility:hidden; z-index:1032;}
+#menu7 {position:absolute; left:635px; top:134px; visibility:hidden; z-index:1033;}
+#menu8 {position:absolute; left:702px; top:134px; visibility:hidden; z-index:1034;}
+
+.menuInsides {background-color:#b69d5b; text-align:left; margin:0px; height:17px;}
+.menuInsides a, .menuInsides a:visited {display: block; font: 11px helvetica,verdana; color:#ffffff; padding: 3px 8px 3px 8px;}
+.menuInsides a:hover, .menuInsides a:visited:hover {display: block; color:#ffffff; background-color:#826d3e; padding: 3px 8px 3px 8px;}
 
 .arrow {margin-right:4px; vertical-align:middle;}
-.sep {display:block; margin:1px; padding:0px;}
+.sep {height:1px; padding:0px; background-color: #ffffff; width:112}
 </style>
 
 &nbsp;<br>
 <div id="navHolder">
 <div id="nav2Holder">
-<table width="677" border="0" cellspacing="0" cellpadding="2">
+<table width="766" align="left" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
-<td valign="top" rowspan="2" width="94">
+<td valign="top">
+<!--td valign="top" width="bean:/mtvi/util/RequestParamBucket.height" class="logo"-->
+
 <script language="javascript">
-var color= 'FFFFFF';
-var flash= '/sitewide/templates/nav_and_menus/topLogo_white.swf';
-var width = '94';
-var height = '81';
-var alternative = '<a href="/"><img src="/sitewide/templates/images/" width="140" height="73" border="0" alt="mtvU.com"></a>';
-</script>
-<script language="JavaScript" type="text/javascript">
-<!--
-
-var detectedIE = detectedIE = false;
-var gotWin = (navigator.appVersion.indexOf("Win") != -1) ? true : false;
-var gotIE = (navigator.appVersion.indexOf("MSIE") != -1) ? true : false;
-var apV = navigator.appVersion;
-// write vbscript detection if we're not on mac.
-var fixer = '</';
-if(gotIE && gotWin){
-document.writeln('<script language="VBscript">');
-document.writeln('on error resume next');
-document.writeln('detectedIE = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.6")))');
-document.writeln(fixer + 'script>');
-}
-var flash,color,width,height,alternative;
-if(!color) color = 'ffffff'; //default flash bgcolor
-if(!width) width = '100%'; //default width
-if(!height) height = '100%'; //default height
-if(!alternative) alternative = '<H1>YOU NEED FLASH</H1>' //default alternative html
-// -->
+var flash= '/sitewide/templates/nav_and_menus/topLogo_90px.swf';
+var width = '111';
+var height = '90';
+var alternative = '<a href="/"><img src="/sitewide/templates/images/mtvu_logo.gif" width="123" height="110" border="0" alt="mtvU.com"></a>';
 </script>
 
-<script language="JavaScript" type="text/javascript">
-<!--
-function flashCheck(){
+<script language="javascript">
+var if_nt_userName_flash = "null";
+</script>
+<script language="javascript" src="/shared/scripts/flash_detect.js"></script>
+<script language="javascript" src="/shared/scripts/Media.js"></script>
 
-if (navigator.plugins){
-if (navigator.plugins["Shockwave Flash"]){
+<script language="javascript">
+if(typeof Media == "undefined"){
+document.write("useSetup");
+}
+else{	
+m = new Media("swf");
+m.movieLoc = "/home/flash/news_switcher.swf";
+m.name = "false";
+m.width = 766;
+m.height = 106;
+m.bgcolor = "nobg";
+m.minVersion = 7;
+m.wmode = "transparent";
+// this parameter only embeds wmode for Flash plug-in 7 and up to avoid CSS Flash 6 conflicts
+m.wmode7 = false;
+m.altImage = "/sitewide/templates/images/home/mtvu_logo.gif";
+m.altHref = "javascript:alert(altText)";
+m.altText = "Flash Required to View this page.";
+m.altPage = "";
+m.usemap = "false";
+m.vars = "isIE="+isIE+"&"+"config=/home/includes/news_switcher.jhtml&styleLoc=/home/includes/news_styles.css&logo=/sitewide/templates/nav_and_menus/topLogo_90px.swf";
+m.userName = if_nt_userName_flash;
+m.isLayer = false;
+m.ieOnlyDhtml = false;
+m.textAlt = false;
+m.menu = false;
+m.useAdvals = false;
+m.useCustom = false;
+m.usePopup = false;
+m.showMedia();
 
-var descript = navigator.plugins["Shockwave Flash"].description;
-var detectedNN = parseInt(descript.charAt(descript.indexOf(".") - 1)) >= 6 ? true : false;
 }
-}
+</script><a href="javascript:alert(altText)"><img src="/sitewide/templates/images/home/mtvu_logo.gif" width="766" height="106" border="0"></a>
 
-if(detectedIE){
-//This is IE specific code for the Flash plugin
-document.write('<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" ID=movies_anim WIDTH="'+width+'" HEIGHT="'+height+'">')
-document.write('<param name=movie value="'+flash+'">')
-document.write('<param name=quality value=high>')
-document.write('<param name=menu value=false>')
-document.write('<param name=scale value=exactfit>')
-if(gotWin) document.write('<param name=wmode value=opaque>')
-document.write('<param name=bgcolor value=#'+color+'>')
-//This is the NS check for the Flash plugin
-document.write('<\/object>')
+<!--droplet src="/sitewide/scripts/flashChecker_6.jhtml"></droplet--></td>
+</tr>
+<tr><td align="left" height="36"><a href="/uber/index.jhtml?name=live" onmouseover="menu(0);" onmouseout="headerOut(0);" onclick="headerDown(0);
 
-}
-else if ((!gotIE && detectedNN) || (!gotWin && gotIE && detectedNN)) {
-document.write('<EMBED SRC="'+flash+'"');
-document.write(' swLiveConnect=FALSE WIDTH="'+width+'" HEIGHT="'+height+'"');
-document.write(' QUALITY=high BGCOLOR=#' + color);
-document.write(' SCALE=exactfit MENU=false TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer">');
-document.write('<\/EMBED>');
-}
-else{document.write(alternative)
-}
-}
-
-flashCheck();
-
-// -->
-</script><a href="/"><img src="/sitewide/templates/images/" width="140" height="73" border="0" alt="mtvU.com"></a></td>
-<td align="right" height="61"><a href="/" onmouseover="headerOver(0);" onmouseout="headerOut(0);" onclick="headerDown(0);"><img src="/sitewide/templates/images/nav0.gif" width="87" height="61" name="nav0" alt="" border="0"></a><img src="/images/spacer.gif" width="10" height="1" alt="" border="0"><a href="/on_mtvu/" onmouseover="menu(1)" onmouseout="headerOutX(1)" onclick="headerDown(1)"><img src="/sitewide/templates/images/nav1.gif" width="87" height="61" name="nav1" alt="" border="0"></a><img src="/images/spacer.gif" width="10" height="1" alt="" border="0"><a href="/music/" onmouseover="menu(2)" onmouseout="headerOutX(2)" onclick="headerDown(2)"><img src="/sitewide/templates/images/nav2.gif" width="87" height="61" name="nav2" alt="" border="0"></a><img src="/images/spacer.gif" width="10" height="1" alt="" border="0"><a href="/news/" onmouseover="menu(3)" onmouseout="headerOutX(3)" onclick="headerDown(3)"><img src="/sitewide/templates/images/nav3.gif" width="87" height="61" name="nav3" alt="" border="0"></a><img src="/images/spacer.gif" width="10" height="1" alt="" border="0"><a href="/contests/" onmouseover="menu(4);" onmouseout="headerOutX(4);" onclick="headerDown(4)"><img src="/sitewide/templates/images/nav4.gif" width="87" height="61" name="nav4" alt="" border="0"></a><img src="/images/spacer.gif" width="10" height="1" alt="" border="0"><a href="/uconnect/" onmouseover="menu(5)" onmouseout="headerOutX(5)" onclick="headerDown(5)"><img src="/sitewide/templates/images/nav5.gif" width="87" height="61" name="nav5" alt="" border="0"></a></td>
+launchBroadbandVideo('name=live'); return false; ">
+<img src="/sitewide/templates/images/nav0.gif" width="120" height="36" name="nav0" alt="Watch Now" border="0"></a><a href="/music/" onmouseover="menu(1)" onmouseout="headerOut(1)" onclick="headerDown(1)"><img src="/sitewide/templates/images/nav1.gif" width="74" height="36" name="nav1" alt="Music" border="0"></a><a href="/on_mtvu/" onmouseover="menu(2)" onmouseout="headerOut(2)" onclick="headerDown(2)"><img src="/sitewide/templates/images/nav2.gif" width="81" height="36" name="nav2" alt="Shows" border="0"></a><a href="/uconnect/" onmouseover="menu(3)" onmouseout="headerOut(3)" onclick="headerDown(3)"><img src="/sitewide/templates/images/nav3.gif" width="116" height="36" name="nav3" alt="On Campus" border="0"></a><a href="/contests/" onmouseover="menu(4);" onmouseout="headerOut(4);" onclick="headerDown(4)"><img src="/sitewide/templates/images/nav4.gif" width="55" height="36" name="nav4" alt="Win" border="0"></a><a href="/on_mtvu/video_submissions/" onmouseover="menu(5)" onmouseout="headerOut(5)" onclick="headerDown(5)"><img src="/sitewide/templates/images/nav5.gif" width="83" height="36" name="nav5" alt="Submit" border="0"></a><a href="/on_mtvu/activism/" onmouseover="menu(6);" onmouseout="headerOut(6);" onclick="headerDown(6);"><img src="/sitewide/templates/images/nav6.gif" width="95" height="36" name="nav6" alt="Activism" border="0"></a><a href="/jobs/" onmouseover="menu(7);" onmouseout="headerOut(7);" onclick="headerDown(7);"><img src="/sitewide/templates/images/nav7.gif" width="67" height="36" name="nav7" alt="Jobs" border="0"></a><a href="/" onmouseover="menu(8);" onmouseout="headerOut(8);" onclick="headerDown(8);"><img src="/sitewide/templates/images/nav8.gif" width="75" height="36" name="nav8" alt="Index" border="0"></a></td>
 </tr>
 <tr>
-<td align="right" valign="top"><br>&nbsp;</td>
+<td align="right" valign="top"><img src="/images/spacer.gif" alt="" border="0" width="1" height="10">
+<!-- <droplet bean="/atg/dynamo/droplet/Switch">
+<param name="value" value="param:page">
+<oparam name = "home">
+
+<droplet src="/home/timecheck.jhtml">
+
+<oparam name="timeDisplay">
+<java>
+String month = request.getParameter("month");
+String day = request.getParameter("day");
+String year = request.getParameter("year");
+</java>
+
+| <valueof param="hour"></valueof> | <valueof param="day"></valueof>, 20<valueof param="year"></valueof> &#160; 
+</oparam></droplet>	
+
+</oparam>
+</droplet><br>&#160;//--></td>
 
 </tr>
 
 </tbody></table>
+
+<div id="menu0" class="tx">
+<div class="menuInsides">
+
+<table cellspacing="0" cellpadding="0" border="0">
+<tbody><tr>
+<td align="left" bgcolor="#b69d5b" height="6" width="91"><img src="/images/spacer.gif" width="91" height="6"></td>
+<td bgcolor="#d9f7ff"><img src="/images/spacer.gif" width="86" height="6"></td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="2" width="100%"><a href="/uber/index.jhtml?name=live" onclick="launchBroadbandVideo('name=live'); return false;">
+
+Watch mtvU Über</a></td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>	
+
+<tr>
+<td valign="top" align="left" colspan="2" width="100%"><a href="/uber/index.jhtml?name=today" onclick="launchBroadbandVideo('name=today'); return false;">
+Watch mtvU Über On Demand</a></td>
+</tr>
+<!--
+<tr height=1>
+<td valign="top" align="left" colspan="2"><img src="bean:RequestParamBucket.separator" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+
+<tr>
+<td valign="top" align="left" colspan="2" width="100%"><a href="">Find Music Videos</a></td>
+</tr>
+-->
+
+</tbody></table>
+
+</div>
+</div>
 
 <div id="menu1" class="tx">
 <div class="menuInsides">
 
 <table cellspacing="0" cellpadding="0" border="0">
 <tbody><tr>
-<td valign="top" align="left" width="5%"><img src="/images/nav_arrow.gif" alt="" border="0" class="arrow"></td>
-<td valign="top" align="left" width="95%"><a href="/on_mtvu/">On mtvU Main</a></td>
-</tr>
-<tr>
-<td valign="top" align="left" colspan="2"><img src="/images/separator.gif" alt="" border="0" class="sep"></td>
-</tr>	
-
-<tr>
-<td valign="top" align="left"><img src="/images/nav_arrow.gif" alt="" border="0" class="arrow"></td>
-<td valign="top" align="left"><a href="/on_mtvu/schedule/">Schedule</a></td>
-</tr>
-<tr>
-<td valign="top" align="left" colspan="2"><img src="/images/separator.gif" alt="" border="0" class="sep"></td>
-</tr>	
-<tr>
-<td valign="top" align="left"><img src="/images/nav_arrow.gif" alt="" border="0" class="arrow"></td>
-<td valign="top" align="left"><a href="/on_mtvu/feature_guide/">TV Feature Guide</a></td>
-</tr>
-<tr>
-<td valign="top" align="left" colspan="2"><img src="/images/separator.gif" alt="" border="0" class="sep"></td>
-</tr>	
-<tr>
-<td valign="top" align="left"><img src="/images/nav_arrow.gif" alt="" border="0" class="arrow"></td>
-<td valign="top" align="left"><a href="/on_mtvu/activism/">Activism</a></td>
-</tr>
-<tr>
-<td valign="top" align="left" colspan="2"><img src="/images/separator.gif" alt="" border="0" class="sep"></td>
-</tr>	
-<tr>
-<td valign="top" align="left"><img src="/images/nav_arrow.gif" alt="" border="0" class="arrow"></td>
-<td valign="top" align="left"><a href="/on_mtvu/activism/stand/">STANDFast</a></td>
-</tr>
-<tr>
-<td valign="top" align="left" colspan="2"><img src="/images/separator.gif" alt="" border="0" class="sep"></td>
-</tr>	
-<tr>
-<td valign="top" align="left"><img src="/images/nav_arrow.gif" alt="" border="0" class="arrow"></td>
-<td valign="top" align="left"><a href="/on_mtvu/activism/tsunami/tsunami.jhtml">Tsunami Relief</a></td>
-</tr>
-<tr>
-<td valign="top" align="left" colspan="2"><img src="/images/separator.gif" alt="" border="0" class="sep"></td>
-</tr>
-<tr>
-<td valign="top" align="left"><img src="/images/nav_arrow.gif" alt="" border="0" class="arrow"></td>
-<td valign="top" align="left"><a href="/on_mtvu/the_feed/">The Feed</a></td>
-</tr>	
-<tr>
-<td valign="top" align="left" colspan="2"><img src="/images/separator.gif" alt="" border="0" class="sep"></td>
-</tr>	
-<tr>
-<td valign="top" align="left"><img src="/images/nav_arrow.gif" alt="" border="0" class="arrow"></td>
-<td valign="top" align="left"><a href="/jobs/">Jobs</a></td>
-</tr>
-<tr><td valign="top" align="left" colspan="2"><img src="/images/separator.gif" alt="" border="0" class="sep"></td>
-</tr>	
-<tr>
-<td valign="top" align="left"><img src="/images/nav_arrow.gif" alt="" border="0" class="arrow"></td>
-<td valign="top" align="left"><a href="/on_mtvu/stand_in/">Stand-In</a></td>
-</tr>	
-<tr>
-<td valign="top" align="left" colspan="2"><img src="/images/separator.gif" alt="" border="0" class="sep"></td>
-</tr>	
-<tr>
-<td valign="top" align="left"><img src="/images/nav_arrow.gif" alt="" border="0" class="arrow"></td>
-<td valign="top" align="left"><a href="/on_mtvu/college_basketball/">College Basketball</a></td>
-</tr>
-<tr>
-<td valign="top" align="left" colspan="2"><img src="/images/separator.gif" alt="" border="0" class="sep"></td>
-</tr>	
-<tr>
-<td valign="top" align="left"><img src="/images/nav_arrow.gif" alt="" border="0" class="arrow"></td>
-<td valign="top" align="left"><a href="/on_mtvu/student_bodies/">Student Bodies</a></td>
-</tr>
-<tr>
-<td valign="top" align="left" colspan="2"><img src="/images/separator.gif" alt="" border="0" class="sep"></td>
-</tr>	
-<tr>
-<td valign="top" align="left"><img src="/images/nav_arrow.gif" alt="" border="0" class="arrow"></td>
-<td valign="top" align="left"><a href="/on_mtvu/black_history/2005/">Thurgood Marshall Scholarships</a></td>
-</tr>
-<tr>
-<td valign="top" align="left" colspan="2"><img src="/images/separator.gif" alt="" border="0" class="sep"></td>
-</tr>	
-<tr>
-<td valign="top" align="left"><img src="/images/nav_arrow.gif" alt="" border="0" class="arrow"></td>
-<td valign="top" align="left"><a href="/on_mtvu/spring_break/2005/">Spring Break '05</a></td>
-</tr>
-<tr>
-<td valign="top" align="left" colspan="2"><img src="/images/separator.gif" alt="" border="0" class="sep"></td>
-</tr>	
-<tr>
-<td valign="top" align="left"><img src="/images/nav_arrow.gif" alt="" border="0" class="arrow"></td>
-<td valign="top" align="left"><a href="/on_mtvu/out_on_campus/">Out On Campus</a></td>
-</tr>
-<tr>
-<td valign="top" align="left" colspan="2"><img src="/images/separator.gif" alt="" border="0" class="sep"></td>
-</tr>	
-
-<tr>
-<td valign="top" align="left"><img src="/images/nav_arrow.gif" alt="" border="0" class="arrow"></td>
-<td valign="top" align="left"><a href="/partners/chat_the_planet/">Chat the Planet</a></td>
-</tr>
-<tr>
-<td valign="top" align="left" colspan="2"><img src="/images/separator.gif" alt="" border="0" class="sep"></td>
-</tr>
-<tr>
-<td valign="top" align="left"><img src="/images/nav_arrow.gif" alt="" border="0" class="arrow"></td>
-<td valign="top" align="left"><a href="/on_mtvu/promos/">On-Air Promos</a></td>
+<td align="left" bgcolor="#b69d5b" height="6" width="75"><img src="/images/spacer.gif" width="91" height="6"></td>
+<td bgcolor="#d9f7ff"><img src="/images/spacer.gif" width="100" height="6"></td>
 </tr>
 
 <tr>
-<td valign="top" align="left" colspan="2"><img src="/images/separator.gif" alt="" border="0" class="sep"></td>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/music/">Music Main</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
 </tr>	
 <tr>
-<td valign="top" align="left"><img src="/images/nav_arrow.gif" alt="" border="0" class="arrow"></td>
-<td valign="top" align="left"><a href="/on_mtvu/casting_call/">Casting Call</a></td>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/music/playlist/">Music Videos</a>
+</td>
+</tr>
+
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>	
+
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="http://www.bestmusiconcampus.com/">Best Music On Campus</a>
+</td>
+</tr>
+
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
 </tr>
 <tr>
-<td valign="top" align="left" colspan="2"><img src="/images/separator.gif" alt="" border="0" class="sep"></td>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/music/jonny_lives/">Jonny Lives! free download</a>
+</td>
+</tr>
+
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
 </tr>	
 <tr>
-<td valign="top" align="left"><img src="/images/nav_arrow.gif" alt="" border="0" class="arrow"></td>
-<td valign="top" align="left"><a href="/on_mtvu/vjs/">VJs</a></td>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/music/deans_list/">Dean's List</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>	
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/music/discover_and_download/">Discover &amp; Download</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>	
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/music/house_band/">House Band</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
 </tr>
 <tr>
-<td valign="top" align="left" colspan="2"><img src="/images/separator.gif" alt="" border="0" class="sep"></td>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/music/dave_melillo/">Dave Melillo on mtvU</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
 </tr>	
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/music/the_leak/matisyahu/">Live Leak: Matisyahu</a>
+</td>
+</tr>
+
+<!--	
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="javascript:launchBroadbandVideo('id=1507860');">Live Leak: Death Cab For Cutie</a>
+</td>
+</tr>	
+<tr height=1>
+<td valign="top" align="left" colspan="2"><img src="bean:RequestParamBucket.separator" alt="" border="0" class="sep" width="100%"></td>
+</tr>	
+//-->
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>	
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/music/artists/death_cab_for_cutie/dvd/">Death Cab For Cutie DVD</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>	
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/music/breaking_the_video/">Breaking the Video</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>	
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/music/freshmen_five/">Freshmen Five</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>	
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/music/video_blog/matchbook_romance/">Video Log: Matchbook Romance</a>
+</td>
+</tr>	
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>	
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/music/video_blog/nightmare_of_you/">Video Log: Nightmare of You</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>	
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/music/the_hot_seat/">The Hot Seat</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>	
+<tr>
+<td valign="top" align="left" colspan="2">
+<a href="/music/backstage_pass/">Backstage Pass</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="2">
+<a href="/music/backstage_pass/questions.jhtml">Ask The Band</a>
+</td>
+</tr>
+
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>	
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/music/radio/">mtvU College Radio</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>	
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/music/playlist/">Playlist</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>	
+
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/music/freshmen/">The Freshmen Videos</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>	
+
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/music/south_by_southwest/">Photos from South by Southwest</a>
+</td>
+</tr>
+
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>	
+
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/uconnect/campus_invasion_tour/">Campus Invasion Tour 2006</a>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/music/take_action_tour/">Take Action Tour</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>	
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/music/woodie_awards/2005/">Woodie Awards 2005</a>
+</td>
+</tr>
+
 </tbody></table>
 
 </div>
@@ -431,96 +606,252 @@ flashCheck();
 
 <table cellspacing="0" cellpadding="0" border="0">
 <tbody><tr>
-<td valign="top" align="left" width="5%"><img src="/images/nav_arrow.gif" alt="" border="0" class="arrow"></td>
-<td valign="top" align="left" width="95%"><a href="/music/">Music Main</a></td>
+<td align="left" bgcolor="#b69d5b" height="6" width="53"><img src="/images/spacer.gif" width="53" height="6"></td>
+<td bgcolor="#d9f7ff"><img src="/images/spacer.gif" width="128" height="6"></td>
 </tr>
 <tr>
-<td valign="top" align="left" colspan="2"><img src="/images/separator.gif" alt="" border="0" class="sep"></td>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/on_mtvu/">Shows Main</a>
+</td>
 </tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>	
 <tr>
-<td valign="top" align="left"><img src="/images/nav_arrow.gif" alt="" border="0" class="arrow"></td>
-<td valign="top" align="left"><a href="/music/deans_list/">Dean's List</a></td>
+<td valign="top" align="left" colspan="2">
+<a href="http://www.meetordelete.com/">Meet or Delete</a>
+</td>
 </tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>	
 <tr>
-<td valign="top" align="left" colspan="2"><img src="/images/separator.gif" alt="" border="0" class="sep"></td>
+<td valign="top" align="left" colspan="2">
+<a href="/on_mtvu/graduation/">Graduation '06</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>	
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/on_mtvu/movie_awards/">mtvU Student Filmmaker Award</a>
+</td>
+</tr>	
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>	
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/contests/student_bodies/">Student Bodies</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>	
+<tr>
+<td valign="top" align="left" colspan="2">
+<a href="http://www.darfurisdying.com/">Sudan: Darfur Digital Activist</a>
+</td>
+</tr>	
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>	
+<tr>
+<td valign="top" align="left" colspan="2">
+<a href="/on_mtvu/stand_in/">Stand In</a>
+</td>
+</tr>	
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>	
+<tr>
+<td valign="top" align="left" colspan="2">
+<a href="/on_mtvu/joey_cheek/">Joey Cheek Goes to College</a>
+</td>
+</tr>	
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>	
+<tr>
+<td valign="top" align="left" colspan="2">
+<a href="/on_mtvu/does_this_look_infected/">Does This Look Infected?</a>
+</td>
+</tr>
+
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>	
+<tr>
+<td valign="top" align="left" colspan="2">
+<a href="/on_mtvu/15_minutes_with/">15 Minutes With...</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>	
+<tr>
+<td valign="top" align="left" colspan="2">
+<a href="/on_mtvu/quad_squads/">Quad Squads</a>
+</td>
+</tr>	
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>	
+<tr>
+<td valign="top" align="left" colspan="2">
+<a href="javascript:launchBroadbandVideo('type=1042');">Soundtrack</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>	
+<tr>
+<td valign="top" align="left" colspan="2">
+<a href="/on_mtvu/fresh_produce/archive.jhtml">Fresh Produce</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>	
+<tr>
+<td valign="top" align="left" colspan="2">
+<a href="/on_mtvu/f_minus/">The Best of F Minus</a>
+</td>
+</tr>	
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>	
+<tr>
+<td valign="top" align="left" colspan="2">
+<a href="/on_mtvu/student_shorts/">Student Shorts</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>	
+<tr>
+<td valign="top" align="left" colspan="2">
+<a href="/on_mtvu/college_television_awards/">Academy of Television Arts &amp; Sciences Foundation 27th Annual College Television Awards</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>	
+<tr>
+<td valign="top" align="left" colspan="2">
+<a href="/music/backstage_pass/">Backstage Pass</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>	
+<tr>
+<td valign="top" align="left" colspan="2">
+<a href="/on_mtvu/f_minus/">The Best of F Minus</a>
+</td>
+</tr>	
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>	
+<tr>
+<td valign="top" align="left" colspan="2">
+<a href="/on_mtvu/bu_sitcom/">Boston University Sitcom</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>	
+<tr>
+<td valign="top" align="left" colspan="2">
+<a href="/music/deans_list/">Dean's List</a>
+</td>
+</tr>
+
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>	
+<tr>
+<td valign="top" align="left" colspan="2">
+<a href="/music/freshmen/">The Freshmen Videos</a>
+</td>
+</tr>	
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>	
+<tr>
+<td valign="top" align="left" colspan="2">
+<a href="/on_mtvu/casting_call/">Casting Call </a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+
+<tr>
+<td valign="top" align="left" colspan="2">
+<a href="/on_mtvu/video_submissions/">Video Submissions</a>
+</td>
+</tr>	
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
 </tr>	
 
 <tr>
-<td valign="top" align="left"><img src="/images/nav_arrow.gif" alt="" border="0" class="arrow"></td>
-<td valign="top" align="left"><a href="/music/freshmen/">Freshmen Videos</a></td>
+<td valign="top" align="left" colspan="2">
+<a href="/on_mtvu/schedule/">TV Schedule</a>
+</td>
 </tr>
-<tr>
-<td valign="top" align="left" colspan="2"><img src="/images/separator.gif" alt="" border="0" class="sep"></td>
-</tr>	
 
-<tr>
-<td valign="top" align="left"><img src="/images/nav_arrow.gif" alt="" border="0" class="arrow"></td>
-<td valign="top" align="left"><a href="/music/the_cut/">The Cut Downloads</a></td>
-</tr>
-<tr>
-<td valign="top" align="left" colspan="2"><img src="/images/separator.gif" alt="" border="0" class="sep"></td>
-</tr>	
-
-<tr>
-<td valign="top" align="left"><img src="/images/nav_arrow.gif" alt="" border="0" class="arrow"></td>
-<td valign="top" align="left"><a href="/music/the_hot_seat/">The Hot Seat</a></td>
-</tr>
-<tr>
-<td valign="top" align="left" colspan="2"><img src="/images/separator.gif" alt="" border="0" class="sep"></td>
-</tr>	
-<tr>
-<td valign="top" align="left"><img src="/images/nav_arrow.gif" alt="" border="0" class="arrow"></td>
-<td valign="top" align="left"><a href="/music/album_premiere/reggie_and_the_full_effect/songs_not_to_get_married_to/">Album Premiere: Reggie and the Full Effect</a></td>
-</tr>
-<tr>
-<td valign="top" align="left" colspan="2"><img src="/images/separator.gif" alt="" border="0" class="sep"></td>
-</tr>
-<tr>
-<td valign="top" align="left"><img src="/images/nav_arrow.gif" alt="" border="0" class="arrow"></td>
-<td valign="top" align="left"><a href="/music/subconscious/">Subconscious</a></td>
-</tr>
-<tr>
-<td valign="top" align="left" colspan="2"><img src="/images/separator.gif" alt="" border="0" class="sep"></td>
-</tr>
-<tr>
-<td valign="top" align="left"><img src="/images/nav_arrow.gif" alt="" border="0" class="arrow"></td>
-<td valign="top" align="left"><a href="/music/take_action_tour/">Take Action! Tour</a></td>
-</tr>
-<tr>
-<td valign="top" align="left" colspan="2"><img src="/images/separator.gif" alt="" border="0" class="sep"></td>
-</tr>
-<tr>
-<td valign="top" align="left"><img src="/images/nav_arrow.gif" alt="" border="0" class="arrow"></td>
-<td valign="top" align="left"><a href="/music/woodie_awards/">Woodie Awards</a></td>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
 </tr>
 
 <tr>
-<td valign="top" align="left" colspan="2"><img src="/images/separator.gif" alt="" border="0" class="sep"></td>
+<td valign="top" align="left" colspan="2">
+<a href="/on_mtvu/vjs/">VJs</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
 </tr>	
 <tr>
-<td valign="top" align="left"><img src="/images/nav_arrow.gif" alt="" border="0" class="arrow"></td>
-<td valign="top" align="left"><a href="/music/road_trip/">Road Trip/Campus VJ Search</a></td>
+<td valign="top" align="left" colspan="2">
+<a href="/news/index.jhtml#mtvNews">MTV News Headlines</a>
+</td>
 </tr>
-<tr>
-<td valign="top" align="left" colspan="2"><img src="/images/separator.gif" alt="" border="0" class="sep"></td>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
 </tr>	
-
-<!--<tr>
-<td valign="top" align="left"><img src="bean:RequestParamBucket.arrow" alt="" border="0" class="arrow"></td>
-<td valign="top" align="left"><a href="/music/voodoo_tour/">Voodoo Tour</a></td>
+<tr>
+<td valign="top" align="left" colspan="2">
+<a href="/on_mtvu/spring_break/">Spring Break '06</a>
+</td>
 </tr>
-<tr>
-<td valign="top" align="left" colspan="2"><img src="bean:RequestParamBucket.separator" alt="" border="0" class="sep"></td>
-</tr>	-->
-
-<tr>
-<td valign="top" align="left"><img src="/images/nav_arrow.gif" alt="" border="0" class="arrow"></td>
-<td valign="top" align="left"><a href="/music/playlist/">Playlist</a></td>
-</tr>
-<tr>
-<td valign="top" align="left" colspan="2"><img src="/images/separator.gif" alt="" border="0" class="sep"></td>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
 </tr>	
-
+<tr>
+<td valign="top" align="left" colspan="2">
+<a href="/news/index.jhtml#cbsNews">CBS News Headlines</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>	
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/music/woodie_awards/2005/">Woodie Awards 2005</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>	
+<tr>
+<td valign="top" align="left" colspan="2">
+<a href="/on_mtvu/">More Shows</a>
+</td>
+</tr>
 </tbody></table>
 
 </div>
@@ -531,28 +862,132 @@ flashCheck();
 
 <table cellspacing="0" cellpadding="0" border="0">
 <tbody><tr>
-<td valign="top" align="left" width="5%"><img src="/images/nav_arrow.gif" alt="" border="0" class="arrow"></td>
-<td valign="top" align="left" width="95%"><a href="/news/">News Main</a></td>
+<td align="left" bgcolor="#b69d5b" height="6" width="88"><img src="/images/spacer.gif" width="88" height="6"></td>
+<td bgcolor="#d9f7ff"><img src="/images/spacer.gif" width="86" height="6"></td>
 </tr>
+
 <tr>
-<td valign="top" align="left" colspan="2"><img src="/images/separator.gif" alt="" border="0" class="sep"></td>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/uconnect/">On Campus Main</a>
+</td>
+</tr>
+
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>	
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/contests/meet_or_delete/">mtvU Campus VJ Search</a>
+</td>
+</tr>
+
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>	
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="http://www.bestmusiconcampus.com/">Best Music On Campus</a>
+</td>
+</tr>
+
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>	
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="http://www.YourTicket2Drive.com">Your Ticket 2 Drive</a>
+</td>
+</tr>
+
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>	
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/uconnect/mustang/">Video Game Week: My Mustang</a>
+</td>
+</tr>
+
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>	
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/uconnect/campus_movie_fest/2005/">Campus MovieFest 2006</a>
+</td>
+</tr>
+
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>	
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/uconnect/campus_invasion_tour/">Campus Invasion Tour 2006</a>
+</td>
+</tr>
+
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>	
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/uconnect/the_forum/">The Forum</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/uconnect/what_is_mtvu/">What is mtvU?</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
 </tr>	
 
 <tr>
-<td valign="top" align="left"><img src="/images/nav_arrow.gif" alt="" border="0" class="arrow"></td>
-<td valign="top" align="left"><a href="/news/index.jhtml#mtvNews">MTV News Stories</a></td>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/uconnect/on_campus/">Filming Near You</a>
+</td>
 </tr>
-<tr>
-<td valign="top" align="left" colspan="2"><img src="/images/separator.gif" alt="" border="0" class="sep"></td>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+
+</tr><tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/uconnect/where_to_watch/">Where To Watch</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
 </tr>	
 
 <tr>
-<td valign="top" align="left"><img src="/images/nav_arrow.gif" alt="" border="0" class="arrow"></td>
-<td valign="top" align="left"><a href="/news/index.jhtml#cbsNews">CBS News Stories</a></td>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/uconnect/request_mtvu/">Get mtvU on Campus</a>
+</td>
 </tr>
-<tr>
-<td valign="top" align="left" colspan="2"><img src="/images/separator.gif" alt="" border="0" class="sep"></td>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
 </tr>	
+
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/uconnect/newsletter/">Newsletter Sign-Up</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>	
+
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/creditcard/">Citi mtvU Card for College<br>Students</a>
+</td>
+</tr>
+
 </tbody></table>
 
 </div>
@@ -561,66 +996,119 @@ flashCheck();
 <div id="menu4" class="tx">
 <div class="menuInsides">
 
+<style>
+.sep { height:1px; padding:0px; background-color: #d9f7ff; width:175}
+</style>
 <table cellspacing="0" cellpadding="0" border="0">
 <tbody><tr>
-<td valign="top" align="left" width="5%"><img src="/images/nav_arrow.gif" alt="" border="0" class="arrow"></td>
-<td valign="top" align="left" width="95%"><a href="/contests/">Contests Main</a></td>
+<td align="left" bgcolor="#b69d5b" height="6" width="34"><img src="/images/spacer.gif" width="28" height="6"></td>
+<td bgcolor="#d9f7ff"><img src="/images/spacer.gif" width="143" height="6"></td>
 </tr>
 <tr>
-<td valign="top" align="left" colspan="2"><img src="/images/separator.gif" alt="" border="0" class="sep"></td>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/contests/">Win Main</a>
+</td>
 </tr>
-<tr>
-<td valign="top" align="left"><img src="/images/nav_arrow.gif" alt="" border="0" class="arrow"></td>
-<td valign="top" align="left"><a href="/contests/best_gamer_on_campus/2005/">Best Gamer on Campus</a></td>
-</tr>
-<tr>
-<td valign="top" align="left" colspan="2"><img src="/images/separator.gif" alt="" border="0" class="sep"></td>
-</tr>	
-<tr>
-<td valign="top" align="left"><img src="/images/nav_arrow.gif" alt="" border="0" class="arrow"></td>
-<td valign="top" align="left"><a href="/contests/best_music_on_campus/2005/spring/">Best Music on Campus</a></td>
-</tr>
-<tr>
-<td valign="top" align="left" colspan="2"><img src="/images/separator.gif" alt="" border="0" class="sep"></td>
-</tr>	
-<tr>
-<td valign="top" align="left"><img src="/images/nav_arrow.gif" alt="" border="0" class="arrow"></td>
-<td valign="top" align="left"><a href="/contests/mtvu_strips/">mtvU Strips</a></td>
-</tr>
-<tr>
-<td valign="top" align="left" colspan="2"><img src="/images/separator.gif" alt="" border="0" class="sep"></td>
-</tr>	
-<tr>
-<td valign="top" align="left"><img src="/images/nav_arrow.gif" alt="" border="0" class="arrow"></td>
-<td valign="top" align="left"><a href="/contests/best_film/">Best Film on Campus</a></td>
-</tr>
-<tr>
-<td valign="top" align="left" colspan="2"><img src="/images/separator.gif" alt="" border="0" class="sep"></td>
-</tr>	
-<tr>
-<td valign="top" align="left"><img src="/images/nav_arrow.gif" alt="" border="0" class="arrow"></td>
-<td valign="top" align="left"><a href="/contests/mtvu_animation/vote2.jhtml">Best Animation on Campus</a></td>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
 </tr>
 
 <tr>
-<td valign="top" align="left" colspan="2"><img src="/images/separator.gif" alt="" border="0" class="sep"></td>
-</tr>	
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/contests/contest_winners/">Contest Winners</a>
+</td>
+</tr>
+
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
 
 <tr>
-<td valign="top" align="left"><img src="/images/nav_arrow.gif" alt="" border="0" class="arrow"></td>
-<td valign="top" align="left"><a href="/contests/mtvu_grants/">mtvU Grants</a></td>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/contests/meet_or_delete/form.jhtml">Meet or Delete Get Personal Sweepstakes</a>
+</td>
+
+</tr><tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
 </tr>
-<tr>
-<td valign="top" align="left" colspan="2"><img src="/images/separator.gif" alt="" border="0" class="sep"></td>
-</tr>	
 
 <tr>
-<td valign="top" align="left"><img src="/images/nav_arrow.gif" alt="" border="0" class="arrow"></td>
-<td valign="top" align="left"><a href="/contests/contest_winners/">Contest Winners</a></td>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="http://www.bestmusiconcampus.com/">Best Music On Campus</a>
+</td>
+
+</tr><tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/contests/guitar_giveaway/">Campus Invasion Guitar Giveaway</a>
+</td>
+
+</tr><tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/on_mtvu/movie_awards/">mtvU Student Filmmaker Award</a>
+</td>
+</tr><tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
 </tr>
 <tr>
-<td valign="top" align="left" colspan="2"><img src="/images/separator.gif" alt="" border="0" class="sep"></td>
-</tr>	
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/games/">Game0RZ Ball: Developers Tournament</a>
+</td>
+<!--
+<tr height=1>
+<td valign="top" align="left" colspan="2"><img src="bean:RequestParamBucket.separator" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/submit/calling_all_poets/">Calling All Poets!</a>
+</td>
+-->
+</tr><tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="http://www.YourTicket2Drive.com">Your Ticket 2 Drive</a>
+</td>
+
+</tr><tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+<!--
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="http://www.bestmusiconcampus.com/">Best Music on Campus</a>
+</td>
+
+</tr>
+<tr height=1>
+<td valign="top" align="left" colspan="2"><img src="bean:RequestParamBucket.separator" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+//-->
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/contests/student_eye/2005/">Student Voice Contest</a>
+</td>
+</tr>
+
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/contests/mtvu_grants/">mtvU Grants</a>
+</td>
+</tr>
+
 </tbody></table>
 
 </div>
@@ -631,72 +1119,676 @@ flashCheck();
 
 <table cellspacing="0" cellpadding="0" border="0">
 <tbody><tr>
-<td valign="top" align="left" width="5%"><img src="/images/nav_arrow.gif" alt="" border="0" class="arrow"></td>
-<td valign="top" align="left" width="95%"><a href="/uconnect/">UConnect Main</a></td>
+<td align="left" bgcolor="#b69d5b" height="6" width="60"><img src="/images/spacer.gif" width="57" height="6"></td>
+<td bgcolor="#d9f7ff"><img src="/images/spacer.gif" width="114" height="6"></td>
 </tr>
 <tr>
-<td valign="top" align="left" colspan="2"><img src="/images/separator.gif" alt="" border="0" class="sep"></td>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/on_mtvu/video_submissions/">Submit Main</a>
+</td>
+</tr>
+
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td></tr>
+
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/on_mtvu/casting_call/">Casting Calls</a>
+</td>
+</tr>
+
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="2">
+<a href="/music/backstage_pass/questions.jhtml">Ask The Band</a>
+</td>
+</tr>
+
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/on_mtvu/fresh_produce/">Video Submissions</a>
+</td>
+</tr>
+
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/games/">Game0RZ Ball: Developers Tournament</a>
+</td>
+<!--
+<tr height=1>
+<td valign="top" align="left" colspan="2"><img src="bean:RequestParamBucket.separator" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/submit/calling_all_poets/">Calling All Poets!</a>
+</td>
+-->
+<!--	
+<tr height=1>
+<td valign="top" align="left" colspan="2"><img src="bean:RequestParamBucket.separator" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/music/rough_cut/">Rough Cut</a>
+</td>
+</tr>
+-->
+
+</tr><tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/on_mtvu/fresh_produce/">Fresh Produce</a>
+</td>
+</tr>
+
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/on_mtvu/fresh_produce/">Student Shorts</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/on_mtvu/fresh_produce/">Global Trips</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
 </tr>	
 
 <tr>
-<td valign="top" align="left"><img src="/images/nav_arrow.gif" alt="" border="0" class="arrow"></td>
-<td valign="top" align="left"><a href="/uconnect/what_is_mtvu/">What is mtvU?</a></td>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/uconnect/what_is_mtvu/">Feedback</a>
+</td>
+</tr>
+
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
 </tr>
 <tr>
-<td valign="top" align="left" colspan="2"><img src="/images/separator.gif" alt="" border="0" class="sep"></td>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/on_mtvu/digital_incubator/">Digital Incubator</a>
+</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div id="menu6" class="tx">
+<div class="menuInsides">
+
+<table cellspacing="0" cellpadding="0" border="0">
+<tbody><tr>
+<td align="left" bgcolor="#b69d5b" height="6" width="70"><img src="/images/spacer.gif" width="74" height="6"></td>
+<td bgcolor="#d9f7ff"><img src="/images/spacer.gif" width="101" height="6"></td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/on_mtvu/activism/">Activism Main</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/on_mtvu/activism/film_your_issue/">Film Your Issue</a>
+</td>
+</tr>
+
+
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="http://www.darfurisdying.com/">Sudan: Darfur Is Dying</a>
+</td>
+</tr>
+<!--
+<tr height=1>
+<td valign="top" align="left" colspan="2"><img src="bean:RequestParamBucket.separator" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="http://www.darfurisdying.com/background.html">Sudan: Background</a>
+</td>
+</tr>
+<tr height=1>
+<td valign="top" align="left" colspan="2"><img src="bean:RequestParamBucket.separator" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="http://www.darfurisdying.com/takeaction.html">Sudan: Take Action</a>
+</td>
+</tr>
+<tr height=1>
+<td valign="top" align="left" colspan="2"><img src="bean:RequestParamBucket.separator" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="http://www.darfurisdying.com/translating.html">Sudan: <i>Translating Genocide</i> </a>
+</td>
+</tr>
+<tr height=1>
+<td valign="top" align="left" colspan="2"><img src="bean:RequestParamBucket.separator" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/on_mtvu/activism/resources.jhtml">Sudan: Resources</a>
+</td>
+</tr> //-->
+
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/on_mtvu/activism/sudan.jhtml">Sudan: Background</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/on_mtvu/activism/take_action.jhtml">Sudan: Take Action</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/on_mtvu/activism/divestment.jhtml">Sudan: Divestment</a>
+</td>
+</tr>	
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/on_mtvu/activism/stand/search.jhtml">Sudan: <i>Translating Genocide</i> </a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/on_mtvu/activism/resources.jhtml">Sudan: Resources</a>
+</td>
+</tr>
+
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/on_mtvu/activism/darfur_activism_awards/">Darfur Activism Awards</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/partners/stopglobalwarming/">Curb Global Warming</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/on_mtvu/activism/katrina/">Hurricane Relief</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/contests/mtvu_grants/">mtvU Grants</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/on_mtvu/activism/sexual_health/">Sexual Health Resources</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>	
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/on_mtvu/activism/tsunami/tsunami.jhtml">Tsunami in Asia</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/on_mtvu/out_on_campus/">Out on Campus</a>
+</td>
+</tr>
+
+</tbody></table>	
+
+</div>
+</div>
+<div id="menu7" class="tx_jobs">
+<div class="menuInsides">
+
+<table cellspacing="0" cellpadding="0" border="0">
+<tbody><tr>
+<td align="left" bgcolor="#b69d5b" height="6" width="43"><img src="/images/spacer.gif" width="39" height="6"></td>
+<td bgcolor="#d9f7ff"><img src="/images/spacer.gif" width="83" height="6"></td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/jobs/">Jobs Main</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/jobs/">the opening</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/jobs/frommers/">MTV Travel Guides: Writers Wanted</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/uconnect/work_at_mtvu/">Work at mtvU</a>
+</td>
+</tr>	
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/uconnect/work_at_mtvu/">Internships</a>
+</td>
+</tr>	
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/uconnect/work_at_mtvu/">Campus Reps</a>
+</td>
+</tr>	
+</tbody></table>
+
+</div>
+</div>
+<div id="menu8" class="tx_jobs">
+<div class="menuInsides">
+
+<table cellspacing="0" cellpadding="0" border="0">
+<tbody><tr>
+<td align="left" bgcolor="#b69d5b" height="6" width="60"><img src="/images/spacer.gif" width="39" height="6"></td>
+<td bgcolor="#d9f7ff"><img src="/images/spacer.gif" width="70" height="6"></td>
+</tr>
+
+<tr>
+<td valign="top" align="left" colspan="2" width="100%"><a href="/uber/index.jhtml?name=live">Watch mtvU Über</a></td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
 </tr>	
 
 <tr>
-<td valign="top" align="left"><img src="/images/nav_arrow.gif" alt="" border="0" class="arrow"></td>
-<td valign="top" align="left"><a href="/uconnect/where_to_watch/">Where To Watch</a></td>
+<td valign="top" align="left" colspan="2" width="100%"><a href="/uber/index.jhtml?name=today">Watch mtvU Über On Demand</a></td>
 </tr>
-<tr>
-<td valign="top" align="left" colspan="2"><img src="/images/separator.gif" alt="" border="0" class="sep"></td>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
 </tr>	
 
 <tr>
-<td valign="top" align="left"><img src="/images/nav_arrow.gif" alt="" border="0" class="arrow"></td>
-<td valign="top" align="left"><a href="/uconnect/request_mtvu/">Want mtvU?</a></td>
+<td valign="top" align="left" colspan="2" width="100%"><a href="/music/playlist/">Watch Music Videos</a></td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
 </tr>
 <tr>
-<td valign="top" align="left" colspan="2"><img src="/images/separator.gif" alt="" border="0" class="sep"></td>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/music/woodie_awards/2005/">Woodie Awards 2005</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/on_mtvu/15_minutes_with/">15 Minutes With...</a>
+</td>
+</tr>
+
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="2">
+<a href="javascript:launchBroadbandVideo('type=1005');">Backstage Pass</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
 </tr>	
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/on_mtvu/bu_sitcom/">Boston University Sitcom</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/uconnect/campus_invasion_tour/">Campus Invasion Tour 2005</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/on_mtvu/casting_call/">Casting Call</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/news/index.jhtml#cbsNews">CBS News Headlines</a>
+</td>
+</tr>
+<!--
+<tr height=1>
+<td valign="top" align="left" colspan="2"><img src="bean:RequestParamBucket.separator" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/partners/chat_the_planet/">Chat the Planet</a>
+</td>
+</tr>
+//-->
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/creditcard/">Citi mtvU Card for College Students</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/contests/contest_winners/">Contest Winners</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/on_mtvu/activism/darfur_digital_activist/">Darfur Digital Activists Contest</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/music/deans_list/">Dean's List</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/on_mtvu/digital_incubator/">Digital Incubator</a>
+</td>
+</tr>
+
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/music/freshmen/">The Freshman Videos</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/uconnect/gamers_ball/2005/">Gamer's Ball</a>
+</td>
+</tr><tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/uconnect/on_campus/">Get mtvU on Campus</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/on_mtvu/activism/katrina/">Hurricane Relief</a>
+</td>
+</tr>
+
+<!--
+<tr height=1>
+<td valign="top" align="left" colspan="2"><img src="bean:RequestParamBucket.separator" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/contests/imu_reunited_getaway/">I.M.U.</a>
+</td>
+</tr>
+<tr height=1>
+<td valign="top" align="left" colspan="2"><img src="bean:RequestParamBucket.separator" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+//-->
 
 <tr>
-<td valign="top" align="left"><img src="/images/nav_arrow.gif" alt="" border="0" class="arrow"></td>
-<td valign="top" align="left"><a href="/uconnect/newsletter/">Newsletter Sign-Up</a></td>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/news/index.jhtml#mtvNews">MTV News Headlines</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
 </tr>
 <tr>
-<td valign="top" align="left" colspan="2"><img src="/images/separator.gif" alt="" border="0" class="sep"></td>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/music/radio/">mtvU College Radio</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/contests/mtvu_grants/">mtvU Grants</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/music/playlist/">Music Videos</a>
+</td>
+</tr>
+
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
 </tr>	
 <tr>
-<td valign="top" align="left"><img src="/images/nav_arrow.gif" alt="" border="0" class="arrow"></td>
-<td valign="top" align="left"><a href="/creditcard/">Citi mtvU Card for College Students</a></td>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/uconnect/newsletter/">Newsletter Sign-Up</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/music/road_trip/">Road Trip/Campus VJ Search 2004</a>
+</td>
+</tr>
+
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
 </tr>
 <tr>
-<td valign="top" align="left" colspan="2"><img src="/images/separator.gif" alt="" border="0" class="sep"></td>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/on_mtvu/stand_in/">Stand-In</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/on_mtvu/spring_break/2005/">Spring Break</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/uconnect/tailgate_tour/2005/">Tailgate Tour 2005</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/on_mtvu/the_feed/">The Feed</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/music/the_hot_seat/">The Hot Seat</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/on_mtvu/schedule/">TV Schedule</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/on_mtvu/video_submissions/">Video Submissions</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/on_mtvu/vjs/">VJs</a>
+</td>
+</tr>
+
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/uconnect/what_is_mtvu/">What is mtvU?</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/uconnect/where_to_watch/">Where to Watch</a>
+</td>
+</tr>
+<tr height="1">
+<td valign="top" align="left" colspan="2"><img src="/images/spacer.gif" alt="" border="0" class="sep" width="100%"></td>
+</tr>
+<tr>
+<td valign="top" align="left" colspan="2" width="100%">
+<a href="/uconnect/work_at_mtvu/">Work at mtvU</a>
+</td>
 </tr>	
-<tr>
-<td valign="top" align="left"><img src="/images/nav_arrow.gif" alt="" border="0" class="arrow"></td>
-<td valign="top" align="left"><a href="/uconnect/campus_invasion_tour/">Campus Invasion Tour</a></td>
-</tr>
-<tr>
-<td valign="top" align="left" colspan="2"><img src="/images/separator.gif" alt="" border="0" class="sep"></td>
-</tr>	
-<tr>
-<td valign="top" align="left"><img src="/images/nav_arrow.gif" alt="" border="0" class="arrow"></td>
-<td valign="top" align="left"><a href="/uconnect/on_campus/">On Campus</a></td>
-</tr>
-<tr>
-<td valign="top" align="left" colspan="2"><img src="/images/separator.gif" alt="" border="0" class="sep"></td>
-</tr>	
-<tr>
-<td valign="top" align="left"><img src="/images/nav_arrow.gif" alt="" border="0" class="arrow"></td>
-<td valign="top" align="left"><a href="/uconnect/work_at_mtvu/">Work at mtvU</a></td>
-</tr>
-<tr>
-<td valign="top" align="left" colspan="2"><img src="/images/separator.gif" alt="" border="0" class="sep"></td>
-</tr>
 </tbody></table>
 
 </div>
@@ -705,7 +1797,7 @@ flashCheck();
 
 </div> 
 
-</div>
+</div> 
 
 <div style="position:absolute; top:25px; width:100%;">
 <table width="766" border="0" cellspacing="0" cellpadding="0" align="center">
@@ -726,19 +1818,16 @@ flashCheck();
 
 <div id="topad">
 <script language="JavaScript">if (isNaN(document.axel)) {document.axel = Math.random() + ""; ord = document.axel * 1000000000000000000;}
-var ad = '<SCRIPT language="JavaScript1.1" src="http://ad.doubleclick.net/adj/ctn.mtvi/privacy_policy;gateway=about;section_1=privacy_policy;pageName=index;dcopt=ist;sz=728x90;tile=1;ord=' + ord + '?"><\/SCRIPT>';
+var ad = '<SCR' + 'IPT language="JavaScript1.1" src="http://ad.doubleclick.net/adj/ctn.mtvi/privacy_policy;gateway=about;section_1=privacy_policy;pageName=index;dcopt=ist;u=|gateway-about|section_1-privacy_policy|pageName-index|dcopt-ist;sz=728x90;tile=1;ord=' + ord + '?"><\/SCR' + 'IPT>';
 document.write(ad);
-</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/ctn.mtvi/privacy_policy;gateway=about;section_1=privacy_policy;pageName=index;dcopt=ist;sz=728x90;tile=1;ord=173030959837223500?"></script>
+</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/ctn.mtvi/privacy_policy;gateway=about;section_1=privacy_policy;pageName=index;dcopt=ist;u=|gateway-about|section_1-privacy_policy|pageName-index|dcopt-ist;sz=728x90;tile=1;ord=237550765309483700?"></script>
 </div>
 
 </div>
 </div>
-<img src="/images/spacer.gif" width="1" height="91" alt="" border="0"></td>
-
+<img src="/images/spacer.gif" width="1" height="177" alt="" border="0">
+</td>
 </tr>
-<tr>
-<td colspan="7" background="/images/dashedFF66CC.gif" bgcolor="#ffffff"><img src="/images/spacer.gif" width="1" height="1"></td>
-</tr>	
 
 <tr>
 <td colspan="7" bgcolor="#ffffff" valign="middle"><div class="pageTitle">About mtvU</div></td>
@@ -756,11 +1845,15 @@ document.write(ad);
 </tr>	
 
 <tr>
-<!-- left column -->
+<!-- left column //-->
 <td valign="top" align="left" colspan="2" bgcolor="#ffffff">
 <div id="leftColumn">
 <div class="sideNav">
 <img src="/images/spacer.gif" width="1" height="180" align="right" border="0">
+
+<style>
+.sep {height:1px; padding:0px; background-color: #ffffff; width:112}
+</style>
 
 <img src="/images/arrow.gif" alt="" border="0" class="arrow"><a href="/about/">About mtvU</a>
 <img src="/images/spacer.gif" alt="" border="0" class="sep">
@@ -770,20 +1863,20 @@ document.write(ad);
 
 </div><br clear="all">
 
-<a href="http://mtvureps.com/CDA5240F87574D8387EBDE8FEC733210/page/page.asp?id=1774" target="new"><img src="/images/newsbubble.gif" width="176" height="271" alt="" border="0"></a>
+<a href="/games/"><img src="/sitewide/promoimages/home/gameORZ_ball_bubble_v2.gif" width="176" height="271" alt="" border="0"></a>
 
 </div>
 <br>&nbsp;	
 </td>
 <td width="15" valign="top" bgcolor="#ffffff"><img src="/images/spacer.gif" width="15" height="1" alt="" border="0"></td>	
-<!-- center column -->
+<!-- center column //-->
 <td width="384" valign="top" bgcolor="#ffffff">
 
 <div class="itemFFFFFF">
 <div class="title" style="padding:10px 15px 0px 15px; margin-bottom:0px;">Privacy Policy <br>
 </div>
 <p>
-Updated August 4, 2004
+Updated June 9, 2005
 </p>
 <br>
 <div class="sepDot3F2F1F" style="margin-bottom:1px;"><img src="/images/spacer.gif" width="1" height="1"></div>
@@ -795,9 +1888,31 @@ We are committed to protecting our users' privacy. Keeping the information you s
 </p><p>
 Because of its importance and to make it easier for you to find and review it, we have made this Privacy Statement into a separate document on the Site. However, bear in mind it is a part of our agreement with you and the terms and conditions contained in our <a href="/about/terms_of_use/index.jhtml"><b>Terms of Use</b></a> describe how and when we may make changes to these statements and terms, and how they become binding upon you. mtvU reserves the right to modify this policy. Any changes to the policy will be posted on this page. Users are encouraged to check the page regularly as they will be bound by the changes once posted on the site.
 </p><p>
-Disclosure (General): Although your privacy is very important to us, in this legal and technical environment, we cannot fully ensure that your personally identifiable information will not be disclosed to third parties. Please see "Disclosure to Third Parties", below, for more information.
+<strong>Disclosure (General)</strong>: Although your privacy is very important to us, in this legal and technical environment, we cannot fully ensure that your personally identifiable information will not be disclosed to third parties. Please see "Disclosure to Third Parties", below, for more information.
 </p><p>
-Overview: This Privacy Statement is intended to explain our privacy practices and inform you as to: </p><p>
+<strong>YOUR CALIFORNIA PRIVACY RIGHTS</strong>: Residents of the State of California, under a new provision of the California Civil Code, have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed personally identifiable information during the preceding year for direct marketing purposes. Alternatively, the law provides that if the company has a privacy policy that gives either an Opt-out or Opt-in choice for use of your Personal Information by third parties (such as advertisers or affiliated companies) for marketing purposes, the company may instead provide you with information on how to exercise your disclosure choice options. </p><p>
+
+mtvU.com qualifies for the alternative option; it has a comprehensive privacy policy and provides you with details on how you may Opt-out or Opt-in to the use of your Personal Information by third parties for direct marketing purposes. Therefore, we are not required to maintain or disclose a list of the third parties that received your Personal Information for marketing purposes during the preceding year. 
+</p><p>
+If you are a California resident and request information about how to exercise your third party disclosure choices you must send a request to the following email address with a preference on how our response to your request should be sent (email or postal mail). Send email to Privacy Administrator at <a href="mailto:mtvi-admin@mtvn.com"><strong>mtvi-admin@mtvn.com</strong></a> or you may contact us via postal mail at: 
+</p><p>
+mtvU.com<br>
+1515 Broadway<br>
+New York, NY 10036<br>
+Attn: Your California Privacy Rights<br>
+c/o Privacy Administrator
+</p><p>
+All requests sent via postal mail must be labeled "Your California Privacy Rights" on the envelope or post card and clearly stated on the actual request. For all requests, please include your name, street address, city, state, and zip code. (Your street address is optional if you wish to receive a response to your request via email. Please include your zip code for our own recordkeeping.) We will not accept requests via the telephone or by facsimile. We are not responsible for notices that are not labeled or sent properly, or do not have complete information. 
+</p><p>
+To all other users of this Site, if you have other questions about this Privacy Policy, please contact our Privacy Administrator at <a href="mailto:mtvi-admin@mtvn.com"><strong>mtvi-admin@mtvn.com</strong></a>: 
+</p><p>
+mtvU.com<br>
+1515 Broadway<br>
+New York, NY 10036<br>
+c/o Privacy Administrator
+
+</p><p>
+<strong>Overview</strong>: This Privacy Statement is intended to explain our privacy practices and inform you as to: </p><p>
 ·the kinds of information we collect from users of the Site and how that information is collected; </p><p>
 ·how we use the information; </p><p>
 ·the circumstances under which we disclose information to third parties; </p><p>
@@ -805,7 +1920,7 @@ Overview: This Privacy Statement is intended to explain our privacy practices an
 ·the mechanisms we have implemented to protect your personally identifiable information. </p><p>
 You can visit the Site and learn about our company and its Products, as well as certain goods and services available from our advertisers and suppliers.
 </p><p>
-Personally Identifiable Information: When we use the term "personally identifiable information" we mean information such as your full name, street address, town or city, state, zip code, telephone number, instant-messenger nickname, blog or other personal website URL, date of birth, e-mail address and any other information that would allow someone to identify you or contact you. Personally identifiable information also includes information about your transactions or relationship with us, if you have been a customer or you have provided this type of information to any of the mtvU family of companies. For example, if you order any of our Products, in addition to your name and contact information, we will also collect and maintain your billing address, shipping address, Product selections, your credit card or other payment instrument information, your order number, and information about your computer's internet address and web site which may have referred or directed you to the Site (e.g., the referring URL). We collect this and other information to fill your order, to communicate with you about your order and to send you promotional materials.
+<strong>Personally Identifiable Information</strong>: When we use the term "personally identifiable information" we mean information such as your full name, street address, town or city, state, zip code, telephone number, instant-messenger nickname, blog or other personal website URL, date of birth, e-mail address and any other information that would allow someone to identify you or contact you. Personally identifiable information also includes information about your transactions or relationship with us, if you have been a customer or you have provided this type of information to any of the mtvU family of companies. For example, if you order any of our Products, in addition to your name and contact information, we will also collect and maintain your billing address, shipping address, Product selections, your credit card or other payment instrument information, your order number, and information about your computer's internet address and web site which may have referred or directed you to the Site (e.g., the referring URL). We collect this and other information to fill your order, to communicate with you about your order and to send you promotional materials.
 </p><p>
 Although we may track the numbers of visitors to inform us on how best to update the Site and enhance the experience for all visitors, personally identifiable information is not extracted in this process. We use tracking information on an aggregated basis to help us operate the Site, enhance and improve our service, improve the look of the Site and display advertising and marketing information.
 </p><p>
@@ -813,15 +1928,15 @@ We collect personally identifiable information about you when you visit the Site
 </p><p>
 The personally identifiable information you provide to us, as well as any information, personal or otherwise, that you create and which may be saved on or in association with the Site, is used to provide you with better service. It allows us to save you time and money and better understand your needs. It also helps us help you learn more about your preferences and those goods and services that may be of interest to you. For example, we track your information to assist us in confirming and filling orders, producing reports, maintaining quality control, administering and managing the Site and our business, and, whenever it may become necessary or appropriate, to contact you concerning your orders, your transactions or any other activities associated with the Site. We may use your personally identifiable information to advise you of goods or services, including Products, which may be available from mtvU, its suppliers and advertisers. You acknowledge, understand and hereby agree that you are giving us your consent to track your activities and your use of the Site and its functions and features, in connection with your use of the Site.
 </p><p>
-Cookies: We use 'cookie' technology to collect data regarding your visits to the Site. This data is stored in aggregate form and is not used to identify any particular user or individual. We use cookies and similar tracking technologies in a variety of ways, including: <br>
+<strong>Cookies</strong>: We use 'cookie' technology to collect data regarding your visits to the Site. This data is stored in aggregate form and is not used to identify any particular user or individual. We use cookies and similar tracking technologies in a variety of ways, including: <br>
 ·keeping count of your return visits to the Site or our advertisers' or partners' sites; </p><p>
 ·accumulating and reporting aggregate, statistical information in connection with the Site; </p><p>
 ·determining which features users like best; and </p><p>
 ·saving your user ID, your password or other information so you don't have to re-enter it each time you visit the Site. </p><p>
 
-Third Parties on our Site: Our Site may contain advertisements, references and links to other web sites and organizations. We may also use third parties to display or serve advertising on the Site and our web-based newsletters. Often these third party advertising companies employ cookie and web bug technologies to measure advertising effectiveness. You should be aware that different rules may apply to the collection, use or disclosure of your information by third parties in connection with their advertisements, promotions and other web sites you encounter on the Internet. The use of such technology by these third parties is within their control and not ours, and even if we have a relationship with the third party, we do not control those sites or their policies and practices regarding your information and we encourage you to investigate and ask questions directly of them in this regard.
+<strong>Third Parties on our Site</strong>: Our Site may contain advertisements, references and links to other web sites and organizations. We may also use third parties to display or serve advertising on the Site and our web-based newsletters. Often these third party advertising companies employ cookie and web bug technologies to measure advertising effectiveness. You should be aware that different rules may apply to the collection, use or disclosure of your information by third parties in connection with their advertisements, promotions and other web sites you encounter on the Internet. The use of such technology by these third parties is within their control and not ours, and even if we have a relationship with the third party, we do not control those sites or their policies and practices regarding your information and we encourage you to investigate and ask questions directly of them in this regard.
 </p><p>
-Disclosure to Third Parties: Except as described in this Privacy Statement, mtvU uses good faith efforts not to provide third parties with access to your personally identifiable information. We will, however, make your personally identifiable information available to others: <br>
+<strong>Disclosure to Third Parties</strong>: Except as described in this Privacy Statement, mtvU uses good faith efforts not to provide third parties with access to your personally identifiable information. We will, however, make your personally identifiable information available to others: <br>
 ·When we have your consent (you "opt in") to do so, in which case their use of your information is subject to their own privacy policies; 
 </p><p>
 ·When we have retained companies to work with or on behalf of mtvU to provide Products, goods or services that you have requested; 
@@ -841,9 +1956,9 @@ We do not sell or market your personally identifiable information to unaffiliate
 </p><p>
 Some of the aggregate customer data we collect may be shared with advertising companies, multiple system operators and other business partners of MTVN, but we do not give any personally identifiable information to them as part of the relationship except as described above. Use of their tracking technology is subject to their own privacy policies. For more information about these third party servers and how to "opt out" of the ad serving cookie, please <a href="http://www.doubleclick.com/us/corporate/privacy/privacy/default.asp?asp_object_1=&amp;" target="new">click here.</a>
 </p><p>
-Communications from Us: If you provide us with your e-mail address, we may occasionally send you an e-mail. You may "opt out" of receiving e-mails from us by replying to one of our e-mails with the word "unsubscribe" in the subject line.
+<strong>Communications from Us</strong>: If you provide us with your e-mail address, we may occasionally send you an e-mail. You may "opt out" of receiving e-mails from us by replying to one of our e-mails with the word "unsubscribe" in the subject line.
 </p><p>
-Summary: Our privacy guidelines are designed to ensure that we: <br>
+<strong>Summary</strong>: Our privacy guidelines are designed to ensure that we: <br>
 ·collect and use your personally identifiable information only as necessary to deliver high quality service, to administer our business and to let you know of goods and services that are available from our family of companies; 
 </p><p>
 ·protect the personally identifiable information the Site's users share with us, maintaining strict standards of security and confidentiality. In this regard we even limit access by our own employees to those individuals who are trained and advised in the proper handling of such information and any employee found violating our standards of security and confidentiality will be subject to our disciplinary processes; 
@@ -856,9 +1971,9 @@ Summary: Our privacy guidelines are designed to ensure that we: <br>
 </p><p>
 ·make every effort to keep your personally identifiable information complete, up to date, and accurate based on the information you provide us. 
 </p><p>
-Sole Statement: This privacy statement is the sole statement of mtvU's privacy policy with respect to the Site, and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, without limitation, machine-generated, is valid.
+<strong>Sole Statement</strong>: This privacy statement is the sole statement of mtvU's privacy policy with respect to the Site, and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, without limitation, machine-generated, is valid.
 </p><p>
-Copyright 2004 © MTV Networks On Campus Inc., a division of Viacom International, Inc. All Rights Reserved.
+Copyright 2005 © MTV Networks On Campus Inc., a division of Viacom International, Inc. All Rights Reserved.
 
 <br><br>
 
@@ -867,30 +1982,44 @@ Copyright 2004 © MTV Networks On Campus Inc., a division of Viacom Internationa
 <br>&nbsp;
 </div></td>
 <td width="15" valign="top" align="center" bgcolor="#ffffff"><img src="/images/spacer.gif" width="15" height="1" alt="" border="0"></td>	
-<!-- right column -->
+<!-- right column //-->
 <td valign="top" align="left" colspan="2" bgcolor="#ffffff">
 
 <script language="JavaScript">if (isNaN(document.axel)) {document.axel = Math.random() + ""; ord = document.axel * 1000000000000000000;}
-var ad = '<SCRIPT language="JavaScript1.1" src="http://ad.doubleclick.net/adj/ctn.mtvi/privacy_policy;gateway=about;section_1=privacy_policy;pageName=index;sz=160x600;tile=2;ord=' + ord + '?"><\/SCRIPT>';
+var ad = '<SCR' + 'IPT language="JavaScript1.1" src="http://ad.doubleclick.net/adj/ctn.mtvi/privacy_policy;gateway=about;section_1=privacy_policy;pageName=index;u=|gateway-about|section_1-privacy_policy|pageName-index;sz=160x600;tile=2;ord=' + ord + '?"><\/SCR' + 'IPT>';
 document.write(ad);
-</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/ctn.mtvi/privacy_policy;gateway=about;section_1=privacy_policy;pageName=index;sz=160x600;tile=2;ord=173030959837223500?"></script>
+</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/ctn.mtvi/privacy_policy;gateway=about;section_1=privacy_policy;pageName=index;u=|gateway-about|section_1-privacy_policy|pageName-index;sz=160x600;tile=2;ord=237550765309483700?"></script>
 
 <br>&nbsp;
 </td>	
 </tr>
 
 <tr>
-<td valign="top" align="left"><img src="/images/cornerLB.gif" width="16" height="16" alt="" border="0"></td>
-<td colspan="5" align="center" valign="middle" bgcolor="#FFFFFF">
+<td valign="top" align="center" bgcolor="#ffffff" colspan="7">
 
 <div class="footer">
-<table align="center" width="500" cellpadding="0" cellspacing="0" border="0">
+<table align="center" width="500" cellpadding="0" cellspacing="0" border="0" valign="top">
 <tbody><tr>
-<td>© 2005 MTV Networks On Campus Inc.</td> 
-<td><a href="/about/">About mtvU</a></td>
-<td><a href="/about/terms_of_use/">Terms of Use</a></td>
-<td><a href="/about/privacy_policy/" class="strongLink">Privacy Policy</a></td>
+<td valign="top" align="center">
+<a href="/about/">About mtvU</a>&nbsp;&nbsp;
+<a href="/about/terms_of_use/">Terms of Use</a>&nbsp;&nbsp;
+<a href="/about/privacy_policy/" class="strongLink">Privacy Policy/Your CA Privacy Policy</a>
+</td>
 </tr>
+<tr>
+<td valign="top" align="center">© 2006 MTV Networks On Campus Inc.</td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td>
+
+<div id="topad">
+<script language="JavaScript">if (isNaN(document.axel)) {document.axel = Math.random() + ""; ord = document.axel * 1000000000000000000;}
+var ad = '<SCR' + 'IPT language="JavaScript1.1" src="http://ad.doubleclick.net/adj/ctn.mtvi/privacy_policy;gateway=about;section_1=privacy_policy;pageName=index;u=|gateway-about|section_1-privacy_policy|pageName-index;sz=728x90;tile=3;ord=' + ord + '?"><\/SCR' + 'IPT>';
+document.write(ad);
+</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/ctn.mtvi/privacy_policy;gateway=about;section_1=privacy_policy;pageName=index;u=|gateway-about|section_1-privacy_policy|pageName-index;sz=728x90;tile=3;ord=237550765309483700?"></script>
+</div>
+
+</td></tr>
 </tbody></table>
 </div>
 
@@ -901,12 +2030,16 @@ var gateway="about"
 </script>
 
 </td>
+</tr>	
+<tr>
+<td valign="top" align="left"><img src="/images/cornerLB.gif" width="16" height="16" alt="" border="0"></td>
+<td colspan="5" align="center" valign="middle" bgcolor="#FFFFFF">&nbsp;</td>
 <td valign="top" align="left"><img src="/images/cornerRB.gif" width="16" height="16" alt="" border="0"></td>	
 </tr>	
 </tbody></table>
 
 &nbsp;<br>&nbsp;<br>&nbsp;
-</div>
+
 </div>
 
 
