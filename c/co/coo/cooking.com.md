@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cooking.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228141308id_/http%3A//www.cooking.com/products/shourplg.asp%3FHome%3Dfoot2.priv.HP) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cooking.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615045835id_/http%3A//www.cooking.com/products/shourplg.asp%3FHome%3Dfoot2.priv.HP) for the most accurate reproduction.*
 
 # Cooking.com - Pledge
 
