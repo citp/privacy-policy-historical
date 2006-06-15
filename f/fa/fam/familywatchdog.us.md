@@ -1,6 +1,19 @@
-> *The following text is extracted and transformed from the familywatchdog.us privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231170234id_/http%3A//familywatchdog.us/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familywatchdog.us privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615220338id_/http%3A//familywatchdog.us/privacy.asp) for the most accurate reproduction.*
 
 # Family Watchdog Terms of Service
+
+|  | A message from John Walsh and Julie Clark  
+---  
+[ ](https://web.archive.org/web/20060615220338id_/http%3A//familywatchdog.us/redirector.asp?page=http://www.thesafeside.com/familywatchdog/default.asp?CartSourceID=13&LocationID=2) | [Click for information to protect your children](https://web.archive.org/web/20060615220338id_/http%3A//familywatchdog.us/redirector.asp?page=http://www.thesafeside.com/familywatchdog/default.asp?CartSourceID=13&LocationID=2)  
+   
+Attention is the Key to Prevention™  
+[ ](https://web.archive.org/web/20060615220338id_/http%3A//familywatchdog.us/redirector.asp?page=http://ads.infomercial.tv/trackLink.asp?linkId=1207)  
+   
+Test your child's safety knowledge  
+[ ](https://web.archive.org/web/20060615220338id_/http%3A//familywatchdog.us/redirector.asp?page=http://kindervision.org/quiz_portal.html) | [Take the "Greatest Save" safety test online](https://web.archive.org/web/20060615220338id_/http%3A//familywatchdog.us/redirector.asp?page=http://kindervision.org/quiz_portal.html)  
+   
+  
+
 
 ### Privacy Statement
 
@@ -38,4 +51,18 @@ We will only contact you under the following circumstances:
   * Announce a new feature of this site.
 
 If you have questions or believe this policy has been breached, contact us at c.s@FamilyWatchdog.US. We will investigate every report of suspected violation of this privacy policy.   
-| 
+|  | Friends of the Family  
+---  
+**[The Safe Side Video](https://web.archive.org/web/20060615220338id_/http%3A//familywatchdog.us/redirector.asp?page=http://www.thesafeside.com/familywatchdog/default.asp?CartSourceID=13&LocationID=3)**  
+A MUST HAVE for any family with young children  
+**[Intelius](https://web.archive.org/web/20060615220338id_/http%3A//familywatchdog.us/redirector.asp?page=http://find.intelius.com/redir.php?refer=1535&adwords=160x600)**  
+Background and  
+Criminal Record checks  
+**[the AmberWatch®](https://web.archive.org/web/20060615220338id_/http%3A//familywatchdog.us/redirector.asp?page=http://ads.infomercial.tv/trackLink.asp?linkId=1205)**  
+Protection from Predators  
+Super-Loud Safety Alarm  
+**[Neighbors Connecting](https://web.archive.org/web/20060615220338id_/http%3A//familywatchdog.us/redirector.asp?page=http://www.NeighborsConnecting.Com)**  
+Neighborhood Watch management software  
+   
+[](https://web.archive.org/web/20060615220338id_/http%3A//familywatchdog.us/redirector.asp?page=http://find.intelius.com/redir.php?refer=1533&adword=160x600)   
+
