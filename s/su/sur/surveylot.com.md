@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveylot.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222192832id_/http%3A//surveylot.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveylot.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615040739id_/http%3A//surveylot.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
