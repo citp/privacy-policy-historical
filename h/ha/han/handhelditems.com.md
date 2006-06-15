@@ -1,52 +1,6 @@
-> *The following text is extracted and transformed from the handhelditems.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212141050id_/http%3A//www.handhelditems.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handhelditems.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615165914id_/http%3A//www.handhelditems.com/privacy.php) for the most accurate reproduction.*
 
 # Handheld Toys & Accessories
-
-**Contact Info**  
-General Email:   
-[ sales@handhelditems.com](mailto:sales@handhelditems.com)  
-Toll-Free: (800) 944-4322  
-Support: (909) 595-3326 **  
-** Company Address: **  
-** 336 South Lemon Ave  
-Walnut, CA 91789 **  
-****Hours of Operation:** **  
-** Monday - Friday, 9:00AM - 5:00PM PST  
-Saturdays, Sundays + Evenings: Email  
-Wholesale inquiry:  
-[ wholesale@handhelditems.com](mailto:wholesale@handhelditems.com)  
-Affiliates inquiry:  
-[ affiliate@handhelditems.com](mailto:affiliate@handhelditems.com)  
-RMA inquiry:  
-[rma@handhelditems.com](mailto:rma@handhelditems.com)  
-**  
-****Privacy & Security**  
-[ Privacy Policy](http://www.handhelditems.com/privacy.php)  
-[ Security](http://www.handhelditems.com/security.php)  
-[ Cookies](http://www.handhelditems.com/cookies.php)
-
-**Shipping & Return Info**  
-[ Shipping Policy & Rates](http://www.handhelditems.com/shipping.php)  
-[ 15 Day Money Back Guarantee](http://www.handhelditems.com/15day.php)  
-[ Return & Exchange Policy](http://www.handhelditems.com/shipping.php)  
-[ Shipping International](http://www.handhelditems.com/shipping.php)  
-[ Shipping Military](http://www.handhelditems.com/shipping.php)
-
-**Affiliate Info**  
-[ Affiliate Terms](http://www.handhelditems.com/affiliate_info.php)
-
-**Policies**  
-[ Terms & Conditions](http://www.handhelditems.com/conditions.php)  
-[ Product Availability](http://www.handhelditems.com/product_ava.php)  
-[ Back Orders](http://www.handhelditems.com/product_ava.php)  
-[ Sales Tax](http://www.handhelditems.com/tax.php)  
-[ Discounts](http://www.handhelditems.com/discounts.php)  
-[ Credits & Refunds](http://www.handhelditems.com/credit_refund.php)
-
-**Shopping at HandHelditems and FunFunFactory  
-**[ shop for cellular accessories](http://www.handhelditems.com/cellular-c-3524.html)  
-[ shop iPod accessories](http://www.handhelditems.com/mp3-c-4.html)  
-[ shop fun toys and gifts](http://www.handhelditems.com/funfunfactory-gifts-toys-c-4631.html)
 
 |  **This privacy statement covers the site HandHelditems.com and FunFunFactory.com by IGg Factory Inc. Because this Web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices.   
 **  
