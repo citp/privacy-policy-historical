@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the apa.org privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215080149id_/http%3A//www.apa.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apa.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615200252id_/http%3A//www.apa.org/about/privacy.html) for the most accurate reproduction.*
 
 # APA Privacy Statement
+
+  
+
 
 APA Privacy Policy
 
