@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinevegas.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218195526id_/http%3A//onlinevegas.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinevegas.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615173940id_/http%3A//onlinevegas.com/privacy.php) for the most accurate reproduction.*
 
 # Online Vegas Casino
 
