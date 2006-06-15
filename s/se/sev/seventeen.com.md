@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seventeen.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211222127id_/http%3A//www.seventeen.com/about/spc/0%2C%2C625917_627722%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seventeen.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615220622id_/http%3A//www.seventeen.com/about/spc/0%2C%2C625917_627722%2C00.html) for the most accurate reproduction.*
 
 # Seventeen.com Privacy Policy
 
