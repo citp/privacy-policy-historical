@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firetrust.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212155422id_/http%3A//www.firetrust.com/firetrustprivacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firetrust.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616000546id_/http%3A//firetrust.com/firetrustprivacypolicy.html) for the most accurate reproduction.*
 
 # Email Security, Anti-spam, Anti Virus Software, MailWasher creators:
 
@@ -14,17 +14,21 @@ Firetrust is the sole owner of the information collected on this site. We will n
 
 By using this site or any services provided through the site, you expressly consent to the use and disclosure of information as described in this Privacy Statement. 
 
+**Your email address**
+
+We collect your email address to either generate a registration code for your purchased product and/or to contact you regarding your purchase and/or to keep you informed of updates and product announcements. Your email address is never passed to 3rd parties except in the event of product announcements for which we use a 3rd party email sending service provided by one of our ecommerce payment providers, element5.com 
+
+We honour all unsubscribe requests and you can unsubscribe at any time to the emails we send you by clicking the unsubscribe link in our announcement emails or by proceeding to http://www.firetrust.com/user and amending your profile there. 
+
 |  | 
 
 **Order and Credit Card Information**
 
-Firetrust uses "element5", a third-party provider of e-commerce solutions, to power the Firetrust.com store and in doing so, collects information about users, including credit card information. When a user purchases a product from the Firetrust.com store, element5 provides information about the customer, including name, address and email address, to Firetrust. Firetrust uses this information as set out in the end user agreement, agreed to by purchasers at the time of purchase. In particular, Firetrust uses the information to license the software to you, support the software and send you information about updates, upgrades and new works or services provided by Firetrust. 
+Firetrust uses Element5, PayPal and Worldpay as third-party payment providers of e-commerce solutions, to power the Firetrust.com store and in doing so, collects information about users, including credit card information. When a user purchases a product from the Firetrust.com store, 'Payment provider' provides information about the customer, including name, address and email address, to Firetrust. Firetrust uses this information as set out in the end user agreement, agreed to by purchasers at the time of purchase. In particular, Firetrust uses the information to license the software to you, support the software and send you information about updates, upgrades and new works or services provided by Firetrust. 
 
-element5 requests information from the user on the order form, viewed by the user as a page hosted on their element5 web server. Here a user must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used as explained above. For example, if we have trouble processing an order, contact information is used to get in touch with the user. 
+'Payment provider' requests information from the user on the order form, viewed by the user as a page hosted on their 'payment provider' web server. Here a user must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used as explained above. For example, if we have trouble processing an order, contact information is used to get in touch with the user. 
 
-Your credit card information does not pass through the element5 site under the terms of Firetrust's agreement with element5. element5 does not share credit card information with Firetrust. element5 keeps your credit card information confidential and protects your credit card information through the use of industry-standard Secure Sockets (SSL) encryption technology. 
-
-We also use PayPal as a third-party payment provider. 
+Your credit card information does not pass through the 'payment provider' site under the terms of Firetrust's agreement with 'payment provider'. 'Payment provider' does not share credit card information with Firetrust. 'Payment provider' keeps your credit card information confidential and protects your credit card information through the use of industry-standard Secure Sockets (SSL) encryption technology. 
 
 |  | 
 
@@ -40,7 +44,7 @@ element5's cookies are used only to identify the customer, not to identify any s
 
 **Log files**
 
-DeepMetrix is used to analyze traffic to this website. DeepMetrix does not create individual profiles for visitors. Unlike some tracking services, DeepMetrix does not have a database of individual profiles for each visitor. DeepMetrix only collects aggregate data. 
+Google Analytics is used to analyze traffic to this website. Google Analytics does not create individual profiles for visitors. Unlike some tracking services, Google Analytics does not have a database of individual profiles for each visitor. Google Analytics only collects aggregate data. 
 
 **Changes to this Policy**
 
