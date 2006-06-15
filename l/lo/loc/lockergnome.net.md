@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lockergnome.net privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212150814id_/http%3A//www.lockergnome.com/about/privacy-policy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lockergnome.net privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615200636id_/http%3A//www.lockergnome.com/about/privacy-policy.phtml) for the most accurate reproduction.*
 
 # Lockergnome's Privacy Policy - Your Top Technology Resource
 
@@ -68,4 +68,4 @@ Lockergnome
 Encino, CA 91316-3516   
 1.888.472.0483 
 
-e-motional Greeting Card Creator v1.20: E-mail personalized greeting cards using your photos, recorded voice message, sound effects, and text. Import images directly from your scanner or digital camera. Ideal for birthdays, wedding invitations, baby showers, or keeping in touch with loved ones. You may create an unlimited number of cards. e-motional Greeting Cards never expire or include unwanted ads, and can be e-mailed directly to your loved ones. The recipient can save the card and extract the image for... [[Click Here to Download](http://windows.fileoftheday.com/archives/email_emotional_greeting_card_creator_v120.html)] 
+Lockergnome's Top 50 Windows XP Tips - MP3 Format: "For Windows XP Experts and Novices." Written by Chris Pirillo and voiced by David Lawrence of Online Tonight, these tips offer you helpful advice for tweaking your Windows XP system. Whether you've been using it for a while or are planning to upgrade to the new OS soon, this GnomeTome is right up your alley. These tips have been verified on Windows XP Professional only. [ 50 Tips in MP3 format for $5.00 /... [[Click Here to Download](http://tutorials.lockergnome.com/library/20030423_lockergnomes_top_50_windows_xp_tips_mp3_format.phtml)] 
