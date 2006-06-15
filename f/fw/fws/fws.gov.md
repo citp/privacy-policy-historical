@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fws.gov privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231140627id_/http%3A//www.fws.gov/help/policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fws.gov privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615202326id_/http%3A//www.fws.gov/help/policies.html) for the most accurate reproduction.*
 
 # Privacy, Disclaimer, Copyrights and Logo Use
 
@@ -38,7 +38,7 @@ Per-session cookies serve technical purposes like providing seamless navigation 
 For Kids!  
 Please don't send us e-mail ** _, Especially if you are under 13_**. Instead, have an adult send the message. Have your parents, teachers and school librarian **[contact us](http://www.pueblo.gsa.gov/fws/contactus.htm)** if you need further assistance. 
 
-For more information: Check out the Federal Trade Commission's **[KIDZ Privacy](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/kidz.htm)** Web Site.
+For more information: See the [Department of the Interior's Children's Privacy statement](http://www.doi.gov/chprivacy.html).
 
 * * *
 
