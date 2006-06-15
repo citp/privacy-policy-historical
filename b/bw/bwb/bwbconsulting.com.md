@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bwbconsulting.com privacy policy that was archived on 2005-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051104085049id_/http%3A//www.bwbconsulting.com/tep.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bwbconsulting.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616012428id_/http%3A//bwbconsulting.com/tep.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -42,4 +42,4 @@ Any changes to our privacy policy in the future will be posted to the Website an
 
 ##### CONTACT
 
-All comments, queries and requests relating to our use of your information are welcomed and should be addressed to[Head Office](mailto:webmaster@bwb-consulting.com)
+All comments, queries and requests relating to our use of your information are welcomed and should be addressed to [Head Office](mailto:webmaster@bwb-consulting.com)
