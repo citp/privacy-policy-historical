@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grangehotels.com privacy policy that was archived on 2005-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051226060521id_/http%3A//www.grangehotels.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grangehotels.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615191620id_/http%3A//grangehotels.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # London Hotels,hotels in london,Welcome to Grange Hotels, a collection of private luxury hotels in central London.
 
