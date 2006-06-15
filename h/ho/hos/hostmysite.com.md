@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostmysite.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216213651id_/http%3A//www.hostmysite.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostmysite.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615211557id_/http%3A//hostmysite.com/privacypolicy) for the most accurate reproduction.*
 
 # HostMySite.com -- Web Hosting Services from $8.95/mo
 
@@ -25,4 +25,4 @@ HostMySite will not disclose information about customers or users without expres
 
 ## Questions
 
-Please contact us with any questions regarding the HostMySite privacy policy by calling 1-877-215-4678 or email [support@HostMySite.com](mailto:support@hostmysite.com).
+Please contact us with any questions regarding the HostMySite privacy policy by calling 1-877-215-4678 or email [support@hostmysite.com](mailto:support@hostmysite.com).
