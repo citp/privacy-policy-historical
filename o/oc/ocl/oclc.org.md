@@ -1,72 +1,111 @@
-> *The following text is extracted and transformed from the oclc.org privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228143743id_/http%3A//www.oclc.org/policies/privacy/default.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oclc.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615230348id_/http%3A//www.oclc.org/policies/privacy/default.htm) for the most accurate reproduction.*
 
 # OCLC Privacy policy [OCLC]
 
-|  | 
-
 **OCLC Privacy policy**
 
-## End-User Privacy Policy
+## PRIVACY POLICY
 
-OCLC Online Computer Library Center, Inc., is committed to protecting end-user privacy online. Except as provided in this policy, we will not disclose personally identifiable information about an end-user to any third party without the end-user's consent or unless required by law. If a user submitting their E-mail address, postal address or telephone number is suspected of being younger than 13 years of age, OCLC will delete this information from its records in accordance with the Children's Online Privacy Protection Act (15 U.S. Code, 6501 et seq)
+### About OCLC
 
-  1. **Information We Collect**
-    1. IP Address 
+OCLC Online Computer Library Center, Inc. ("OCLC") is a nonprofit, membership, computer library service and research organization dedicated to the public purposes of furthering access to the world's information and reducing information costs. The following policy describes how we collect and use information we receive from visitors to our site. OCLC is committed to protecting end-user privacy online. If a user submitting personal information is suspected of being younger than 13 years of age, OCLC will delete this information from its records in accordance with the Children's Online Privacy Protection Act (15 U.S. Code, 6501 et seq). Some products may contain additional privacy provisions in their terms and conditions.
 
-The OCLC web site logs IP addresses for system administration purposes. Your IP address can help us diagnose problems with our server and track an end-user's session to give us an idea of which parts of our site end-users are visiting.
+### How and What Information is Collected
 
-    2. Cookies 
+> (1) Personally identifiable information 
+> 
+>   1. Personally identifiable information may be collected in conjunction with necessary processes. This information may include, but are not limited to: (1) First and last name, (2) Address, (3) ZIP/Postal Code, (4) Email address, (5) Telephone number, (6) Affiliated library information, or (7) Credit card numbers and other billing information.
+> 
 
-OCLC uses a feature of your browser called a cookie to store your member ID and state information about where you are in the site. OCLC uses cookies to keep track of where you are in the site what pages you visit, and past activity at a site. OCLC does not store any of your personal information in cookies. A cookie is simply a small data file that the web site writes to your hard drive. A cookie can't read any other data off your hard drive, pass on a virus, or read cookie files created by other sites. You can refuse cookies by turning them off in your browser. The OCLC web site will not operate properly without cookies enabled.
+> 
+> (2) IP Address
+> 
+>   1. The OCLC web site logs IP addresses for system administration purposes. Your IP address can help us diagnose service problems and provide session statistics.
+> 
 
-    3. Registration 
+> 
+> (3) Cookies
+> 
+>   1. OCLC uses a common feature of Web sites known as a cookie to store your member ID and state information about where you are in the site, as well as to track current and past activity. OCLC does not store any of your personal information in cookies. A cookie is simply a small data file that the Web site writes to your browser. A cookie can't read any other data off your hard drive, pass on a virus, or read cookie files created by other sites. You can refuse cookies by turning them off in your browser, however, the OCLC web site's functionality may be affected.
+> 
 
-A significant amount of the site is available without registration, but in order to take advantage of some features of the site, you must register and create a member account. The OCLC online registration form requires you to provide your full name, email address, a User Name, and a password.
+> 
+> (4) Registration
+> 
+>   1. In order to take advantage of some features of the site, you must register and create a member account. An OCLC online registration form may require you to provide information such as your name, email address, a User Name, and a password.
+> 
 
-    4. Use of E-Mail Addresses and other information 
+> 
+> (5) Usage and Circulation Records
+> 
+>   1. Any information collected may be used to analyze usage, evaluate service effectiveness and provide training material, and to facilitate library research.
+> 
 
-At your request, OCLC will use an e-mail address or other information that you supply to send a one-time e-mail inviting a friend to visit the site.
+> 
+> (6) Questions, Comments, and Entries to Open Forums and Reviews
+> 
+>   1. We encourage you to provide personal information ONLY in fields specifically designed for such information such as riegstration and log-on.
+>   2. Comments and entries to forums and reviews are posted in real time. Consequently, your entire submission may appear in an open forum or review. Please be aware that any personal information you include within this entry field will be available to the public. OCLC will make reasonable attempts to remove personal information included in submissions.
+> 
 
-    5. Links 
 
-This web site contains links to other sites. Please be aware that OCLC is not responsible for the privacy practices of such other sites. We encourage our end-users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site.
+### Why Information is Collected
 
-    6. Usage and Circulation Records 
+The majority of the information we collect is analyzed so that we can improve your OCLC experience. This information is not shared outside of OCLC except as described in this policy. If necessary, we will use your information to contact you. Except as permitted by this policy, OCLC does not send unsolicited e-mails
 
-As you interact with OCLC, your usage patterns are logged. This tells us if you searched to find information and what searches you used. We also log whether your searches were successful and what subject areas you visited. Unless you have violated the Terms of Use or another applicable Agreement or we are required to do so by law; we only view, analyze, and disclose usage records in aggregated form.
+The purposes for collecting information and contacting you are:
 
-  2. **Our Use of Your Information**
+> > (1) Registration  
+>  (2) Fulfilling requests and orders for OCLC products, programs and services  
+>  (3) Customer service and support  
+>  (4) Providing information and answering questions related to the use and purchase of services.  
+>  (5) Providing updates on goods and services and notification of special offers  
+>  (6) Delivering newsletters  
+>  (7) Providing notification of service expiration dates.  
+>  (8) Facilitating participation in an OCLC Open Forum or Review  
+>  (9) Compiling aggregate statistical and academic analysis 
+> 
+> (1) Sometimes OCLC may identify a new purpose outside of the stated purposes listed above and it will provide notification or, if the purpose involves the use of sensitive information, it will seek your consent to use and disclose personal information for that purpose.
+> 
+> (2) Your information will not be used for reasons beyond the scope of the stated purposes and OCLC will never willfully disclose personally identifiable information to a third party outside of the stated purposes unless:
+> 
+>   1. You have violated the Terms of Use or another applicable Agreement, or
+>   2. We are required to do so by law, or
+>   3. We provide notification to you
+> 
 
-The majority of the information we collect is analyzed so that we can improve your OCLC experience. This information is held in strictest confidence and is not shared outside of OCLC except as specifically described in this statement. If necessary, we will use your information to contact you.
 
-    1. Information Distribution 
+### Third Parties
 
-OCLC will never willfully disclose personally identifiable information to a third party unless: 
+At times, OCLC partners with third parties to complete the stated purposes, and the third parties may require use of personally identifiable information. For instance, information must be disclosed to process orders through the online store, interact with Regional Service Providers, and to market products or services to you. We have taken reasonable steps to ensure the protection of your information, and to prevent the loss, misuse, or alteration of that information.
 
-      * you have violated the Terms of Use or another applicable Agreement
-      * we are required to do so by law,
-      * you give us your permission, or
-    2. Opt-Out Features 
+OCLC uses a third party service for the management and delivery of its opt-in e-mail communication. Their privacy policy can be found at <http://www.whatcounts.com/company/privacy.html>. Information related to the delivery and effectiveness of e-mail communications, such as aggregate open and click-through rates, are provided to and used by OCLC to help deliver the best content to the subscriber. 
 
-It is important to OCLC that you control how we use the information you provide. 
+This web site contains links to other sites.  Such links do not imply OCLC's endorsement or guarantee of the products, information or recommendations provided by any third party site. Please be aware that OCLC is not responsible for the privacy practices of such other sites. We encourage our end-users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site.
 
-      * To tell us you don't want to receive communication from OCLC, such as email newsletters announcing new features, contests, or new content, opt out at registration or send an email to [privacy@oclc.org](mailto:privacy@oclc.org)
-      * You can decline to provide personal information to us. Please note that in some cases this will limit your interaction with OCLC.
-    3. Security 
+### Opt-Out Features
+
+> (1) To tell us you don't want to receive communication from OCLC, such as email newsletter announcing new features or content, opt out at registration, if available, or send an email to [privacy@oclc.org](mailto:privacy@oclc.org)
+> 
+> (2) You can decline to provide personal information to us or opt out at anytime. However, this may limit your ability to utilize the services on the web site.
+
+### Security
+
+We have put in place reasonable measures to protect the personal information contained in our databases. Measures are in place to prevent unauthorized access and maintain appropriate use and accuracy. Furthermore, data that is transmitted in association with our online store is encrypted and is secured by SSL.
 
 Your password is a component of our security system. As such, it is your responsibility to protect it. Do not share your password with any third parties. If your password has been compromised for any reason, you should change it immediately.
 
-    4. Third Party Collectors of Information 
+### Access to Information
 
-OCLC's Privacy Statement only addresses the use and disclosure of information we collect from you. Any information you disclose to a third party, such as other end-users, is subject to that party's Privacy Statement. We encourage you to ask questions before you disclose your personal information to others.
+OCLC provides links in their e-mail communications and web pages for managing the information that is sent. If you have questions about the information collected about yourself, would like to update or make changes to your information, or are concerned that your information is inaccurate or incomplete please contact [privacy@oclc.org](mailto:privacy@oclc.org). We make a reasonable effort to ensure that information contained in our database is accurate and, when necessary, current.
 
-    5. Notification of Changes 
+### Contact and Notice
 
-If we decide to change our privacy policy we will give notice of the change so our end-users are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. This notice may be given by any means, including, without limitation, by posting the changes on our web site; or by notifying end-users via email or conventional mail; or by some other reasonable means. Users always have the ability to opt-out of receiving communications from OCLC by editing their account or sending an email to [privacy@oclc.org](mailto:privacy@oclc.org).
+From time to time, we may update this privacy policy. We will notify you about material changes in the way we treat personal information by placing notice on our site. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it and to whom we disclose it.
 
+If you have any questions regarding our policies, please contact [privacy@oclc.org](mailto:privacy@oclc.org) or write to:
 
-
-
-**OCLC Privacy policy** [ISO-9001 and quality](https://web.archive.org/web/20051228143743id_/http%3A//www.oclc.org/policies/iso/default.htm) [Copyright policy](https://web.archive.org/web/20051228143743id_/http%3A//www.oclc.org/policies/copyright/default.htm) [OCLC human-computer interaction](https://web.archive.org/web/20051228143743id_/http%3A//www.oclc.org/policies/usability/default.htm)  
-  
----|---
+> > OCLC Online Computer Library Center, Incorporated  
+>  Customer Service, ATTN: Privacy  
+>  6565 Frantz Road  
+>  Dublin, Ohio 43017-3395 
