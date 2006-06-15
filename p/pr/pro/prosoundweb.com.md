@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prosoundweb.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231191522id_/http%3A//www.prosoundweb.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prosoundweb.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615034605id_/http%3A//www.prosoundweb.com/about/privacy.php) for the most accurate reproduction.*
 
 # Huge Universe, Inc./ProSoundWeb.com Privacy Policy
 
@@ -36,8 +36,6 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
 
-1\. You can send email regarding this policy to [privacy@prosoundweb.com](mailto:privacy@prosoundweb.com?subject=About%20Huge%20Universe%20privacy%20policy). 
-
 ### Correct/Update
 
 Our site gives users the following options for changing and modifying information previously provided. 
@@ -47,3 +45,10 @@ Our site gives users the following options for changing and modifying informatio
 ### Contacting the Web Site
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
+
+Privacy Administrator  
+Huge Universe, Inc   
+169 Beulah Street  
+San Francisco, CA 94117  
+USA  
+Send e-mail to [the Webmaster.](mailto:webmaster@hugeuniverse.com?subject=About%20Huge%20Universe%20privacy%20policy)
