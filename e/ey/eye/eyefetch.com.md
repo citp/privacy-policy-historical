@@ -1,26 +1,12 @@
-> *The following text is extracted and transformed from the eyefetch.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230125220id_/http%3A//www.eyefetch.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyefetch.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615033546id_/http%3A//www.eyefetch.com/privacy.aspx) for the most accurate reproduction.*
 
 # EyeFetch.com Privacy Policy
 
-| Site Stats  
----  
-| 12/30/2005 7:52:15 AM  
----  
-Active Users:| 281  
-Registered Members:| 1462  
-Images:| 9842  
   
   
   
-Site Announcements  
----  
-| 7/3/2005 5:59:34 AM  
----  
-Today we have released our new PhotoBlog feature! Create your [own PhotoBlog](http://www.eyefetch.com/blogcreate.aspx) here for free...  
-6/26/2005 9:04:09 PM  
-Welcome to the public Beta of Eyefetch!  
   
-  
+|    
 **Last Update: 21 June, 2005**
 
 **_Information collected about you_**
@@ -68,4 +54,4 @@ Eyefetch may update this policy at any time for any reason. If there are any sig
 
 **_Questions?_**
 
-If you have any questions regarding this Privacy Statement, the practices of Eyefetch, or your dealings on our web site, please [contact us](https://web.archive.org/web/20051230125220id_/http%3A//www.eyefetch.com/contact.aspx).
+If you have any questions regarding this Privacy Statement, the practices of Eyefetch, or your dealings on our web site, please [contact us](https://web.archive.org/web/20060615033546id_/http%3A//www.eyefetch.com/contact.aspx).
