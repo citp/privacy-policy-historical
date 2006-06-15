@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gametz.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218113753id_/http%3A//gametz.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gametz.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615023200id_/http%3A//gametz.com/Privacy.html) for the most accurate reproduction.*
 
 # Game Trading Zone - Privacy
 
@@ -30,12 +30,12 @@ Our site provides users the opportunity to opt out of receiving communications f
 
 Users may freeze or request deletion of their account if they wish to no longer receive communication from GameTZ and no longer use our service. 
 
-  * You can send email to [moderators@gametz.com](mailto:moderators@gametz.com)
+  * You can send email to [Moderators](mailto:moderators22406@gametz.com)
   * You can visit the following URL: <http://gametz.com/?A=My+Account>
 
 In either case, any GameTZ user has the option of removing their personal information from the GameTZ database by direct request. 
 
-GameTZ may use your information for on-site promotion and explanations. If you wish to opt-out of this, please contact [moderators@gametz.com](mailto:moderators@gametz.com). 
+GameTZ may use your information for on-site promotion and explanations. If you wish to opt-out of this, please contact [Moderators](mailto:moderators22406@gametz.com). 
 
 ### Correct/Update
 
@@ -48,4 +48,4 @@ This site gives users the following options for changing and modifying informati
 
 ### Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact William Marrs Game Trading Zone moderators@gametz.com
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact William Marrs Game Trading Zone
