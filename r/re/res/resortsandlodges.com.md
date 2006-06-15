@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resortsandlodges.com privacy policy that was archived on 2005-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051204020043id_/http%3A//www.resortsandlodges.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resortsandlodges.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615040606id_/http%3A//resortsandlodges.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Resorts and Lodges
 
