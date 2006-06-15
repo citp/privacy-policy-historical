@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the infobanc.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231232821id_/http%3A//www.infobanc.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infobanc.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615231847id_/http%3A//infobanc.com/privacy.htm) for the most accurate reproduction.*
 
-# Site Map - The Great Indian Bazaar
+# Privacy Policy - The Great Indian Bazaar
 
 Information for Business and Commerce (Infobanc) has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.infobanc.com. 
 
@@ -29,12 +29,13 @@ This site contains links to many other sites. www.infobanc.com is not responsibl
 **Contacting the Web Site** If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 
 **Customer Service  
-Information for Business and Commerce   
-16 Qutab View Apartments   
-(Opp. Qutab Hotel)   
+Information for Business and Commerce (InfoBanc.com)  
+124-A/7, 3rd Floor   
+Main Road, Katwaria Sarai   
+(Opp. Indian Statistical Institute)   
 New Delhi - 110 016   
 India   
 Tel: 91-11-26961886   
-E-Mail: editor@infobanc.com **
+E-Mail: info@infobanc.com **
 
 **BACK**
