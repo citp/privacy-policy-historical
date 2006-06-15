@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the otel.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231230337id_/http%3A//www.otel.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the otel.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615053510id_/http%3A//www.otel.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Otel.com | Cheap Hotels | Discount Hotels | Budget Hotels | Cheap Hotel | Discount Hotel | Budget Hotel | Hotel Finder
 
@@ -9,7 +9,7 @@ This site requires that customers share personal and/or financial information to
 
 1. Telephone numbers may be used to contact customers in case of an urgent need relating to an existing reservation or request for services. 
 
-2. E-mail addresses may be used to inform clients of services and offers which are most likely to be of interest to them. With respect to this use of personal information, customers may at any time indicate their preference not to receive such information by [contacting us](https://web.archive.org/web/20051231230337id_/http%3A//www.otel.com/contactus.php).  
+2. E-mail addresses may be used to inform clients of services and offers which are most likely to be of interest to them. With respect to this use of personal information, customers may at any time indicate their preference not to receive such information by [contacting us](https://web.archive.org/web/20060615053510id_/http%3A//www.otel.com/contactus.php).  
   
 | 
 
