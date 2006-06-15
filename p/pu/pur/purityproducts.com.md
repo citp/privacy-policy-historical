@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purityproducts.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229214612id_/http%3A//www.purityproducts.com/privacy.asp%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purityproducts.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615223238id_/http%3A//www.purityproducts.com/privacy.asp%3F) for the most accurate reproduction.*
 
 # Purity Products
 
@@ -12,17 +12,17 @@
 ---|---  
    
 [](http://www.purityproducts.com/specialty.asp?)  
-|  | **[Ultimate HA Formula(Hyaluronic Acid)](http://www.purityproducts.com/ultimate-ha.asp?)**  
+|  | [**Ultimate HA Formula**](http://www.purityproducts.com/ultimate-ha.asp?) [**(Hyaluronic Acid)**](http://www.purityproducts.com/ultimate-ha.asp?)  
 ---|---  
 | **[HA Joint Formula (Hyaluronic Acid)](http://www.purityproducts.com/product.asp?sku=355)**  
-| **[Vital HA Formula (Hyaluronic Acid)](http://www.purityproducts.com/product.asp?sku=172)**  
+| **[Ultra Pure Omega 3 Fish Oil](http://www.purityproducts.com/product.asp?sku=195)**  
+| **[Omega Berry Fish Oil](http://www.purityproducts.com/product.asp?sku=381)**  
 | **[Perfect Multi - Super Greens](http://www.purityproducts.com/supergreens.asp?)**  
 | **[Perfect Multi](http://www.purityproducts.com/multivitamin.asp?)**  
+| **[Super Reds](http://www.purityproducts.com/product.asp?sku=380)[](http://www.purityproducts.com/Oil-of-oregano.asp?)**  
+| **[Triple Greens](http://www.purityproducts.com/Supergreens-Green-Drink.asp?) or [Perfect Purples](http://www.purityproducts.com/product.asp?sku=384)**  
 | **[Oregano Kit](http://www.purityproducts.com/Oil-of-oregano.asp?)**  
-| **[Brain Vitality](http://www.purityproducts.com/L-Carnitine.asp?)**  
-| **[Triple Greens](http://www.purityproducts.com/Supergreens-Green-Drink.asp?) or [Super Reds](http://www.purityproducts.com/product.asp?sku=380)**  
-| **[Omega 3](http://www.purityproducts.com/product.asp?sku=195) or [Omega Berry](http://www.purityproducts.com/product.asp?sku=381) **  
-| **[Joint Formula Supreme](http://www.purityproducts.com/product.asp?sku=258)**  
+| **[GC Flex](http://www.purityproducts.com/product.asp?sku=393)**  
   |   
 [](http://www.purityproducts.com/pr_index.asp?)  
   |    
@@ -43,7 +43,7 @@
   |  |  |   
 ---|---  
 ****| **We Value your Privacy**  
-| [](http://www.purityproducts.com/specialty.asp?)[](http://www.purityproducts.com/dollar.asp?)[](http://www.purityproducts.com/health.asp?)[](http://www.purityproducts.com/Customercare.asp?)[](http://www.purityproducts.com/autoship.asp?)[](https://www.purityproducts.com/account.asp?)[](http://www.purityproducts.com/basket.asp?)  
+| [](http://www.purityproducts.com/specialty.asp?)[](http://www.purityproducts.com/specialty.asp?)[](http://www.purityproducts.com/health.asp?)[](http://www.purityproducts.com/Customercare.asp?)[](http://www.purityproducts.com/autoship.asp?)[](https://www.purityproducts.com/account.asp?)[](http://www.purityproducts.com/basket.asp?)  
 ---  
 | [](http://www.purityproducts.com/aboutus.asp?)[](http://www.purityproducts.com/specialty.asp?) |   
 ---|---  
