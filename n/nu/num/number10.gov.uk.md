@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the number10.gov.uk privacy policy that was archived on 2005-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051102234901id_/http%3A//www.number10.gov.uk/output/Page52.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the number10.gov.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615082807id_/http%3A//www.number10.gov.uk/output/Page52.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
 This statement covers the services provided by the No 10 website at: 
 
   * [http://www.pm.gov.uk](http://www.pm.gov.uk/)
-  * [http://www.pmo.gov.uk](http://www.pmo.gov.uk/)
   * [http://www.number10.gov.uk](http://www.number10.gov.uk/)
   * [http://www.number-10.gov.uk](http://www.number-10.gov.uk/)
   * [http://www.tendowningstreet.gov.uk](http://www.tendowningstreet.gov.uk/)
@@ -43,6 +42,10 @@ If you provide feedback on the No 10 website through our on-line form at [http:/
 
 If you send an enquiry by e-mail it may not always be possible for the No 10 Web Team to provide the information requested directly. In such circumstances we may pass your enquiry to another government department so that they can fulfil your information request.
 
+### E-mail the PM
+
+If you wish to e-mail the Prime Minister you will need to provide certain personal details including your name and email address. This material will be used to verify the email address and confirm the mailer is content with us to proceed with processing the email. While all reasonable precautions have been taken to ensure the security of this website and the transmission of these emails, this website assumes no responsibility for the timeliness, deletion, mis-delivery or interception when emails are transmitted from this website to the Prime Minister's email system.
+
 ### E-mail alert services sign up
 
 If you sign up to receive e-mail alerts we will use the information you give us to provide the service(s) you have requested. We may occasionally contact e-mail alert subscribers to help us evaluate and improve the service that we offer.  
@@ -74,4 +77,4 @@ Our website contains links to other sites, mainly those of other government depa
 
 If this privacy policy changes in any way, we will place an updated version on this page. Regularly reviewing this page ensures that you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with other parties.
 
-Last updated June 2005
+Last updated November 2005
