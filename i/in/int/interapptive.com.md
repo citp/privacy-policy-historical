@@ -1,13 +1,33 @@
-> *The following text is extracted and transformed from the interapptive.com privacy policy that was archived on 2005-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050407011748id_/http%3A//www.interapptive.com/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interapptive.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616003710id_/http%3A//www.interapptive.com/privacystatement.html) for the most accurate reproduction.*
 
 # Powerful UPS and USPS Shipping Software for Miva Merchant
 
-When you visit our Internet e-commerce site, our server automatically collects the following non-personally identifiable information: your Internet service provider's address; and information on the pages you access on our site. This information is used to measure the number of visitors to our site and which areas of the site appear to be most useful, as well as to generate statistical reports.
+**Interapptive.com Privacy and Security Policy  
+**  
+Interapptive takes your privacy seriously, and has created this Privacy Policy in order to demonstrate our firm commitment to online privacy. Keep reading to learn more about our information gathering and dissemination practices, and our use of personally identifiable information.
 
-Our server also collects personally identifiable information that you voluntarily submit, such as when you purchase a product or products at our online storefront. This information is used by us solely for the purpose for which it was intended and it is not shared with third parties for any reason.
+**Email Addresses** We will never give your email address to anyone for any reason.
 
-Interapptive uses industry-standard encryption technologies when transferring and receiving your information on our site. Our secure certificate is managed by Thawte, a leading provider of Internet security solutions. When you are entering personal information, look for either a solid key icon or a locked padlock icon at the lower portion of your browser. This indicates that your site is secured through the Secure Sockets Layer (SSL) protocol.
+**IP Addresses**
 
-Interapptive has appropriate security measures in place to protect against the loss, misuse or alteration of information that we have gathered from you or from our site so you can feel comfortable and secure.
+We use IP addresses to analyze trends, administer the site and gather broad demographic information for aggregated used. IP addresses are not linked to personally identifiable information.
 
-If you have any questions regarding this policy, please [contact us](https://web.archive.org/web/20050407011748id_/http%3A//www.interapptive.com/company/contact.html).
+**Cookies**
+
+A cookie is a tiny file that stores personal preferences and user data, but in no way does this tell us who you are. 
+
+We use cookies as part of our authenticaton system when you login to your account. If you select the "remember me" option when logging in, our site will set a cookie so that you do not have to login again the next time you visit the Interapptive website.
+
+While both of these activities depend on the use of a "cookie," visitors to this site always have the option of disabling cookies in their web browser. Most browsers are initially set to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent.
+
+ **Information Dissemination**
+
+None of the information that is collected by this web site is rented, sold, or shared with any 3rd parties for any purpose.  The only exception to this is the disclosing to Marketworks of each Marketworks username that has registered to use ShipWorks.
+
+ **Links to Other Sites**
+
+Interapptive expects its partners and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners and affiliates and other content providers accessible through our site may have their own privacy and data collection policies and practices.
+
+ **Security**
+
+This web site has security measures in place to protect against loss, misuse and/or alteration of the information that you provide. Furthermore, we have taken every precaution technically possible to prevent any unauthorized access to the contents of this web server.
