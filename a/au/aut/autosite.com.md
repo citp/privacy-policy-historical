@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the autosite.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218132000id_/http%3A//www.autosite.com/content/home/help/index.cfm%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autosite.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615021736id_/http%3A//www.autosite.com/content/home/help/index.cfm/action/privacy) for the most accurate reproduction.*
 
 # Privacy and Security
 
 **AUTOSITE.COM CONSUMER PRIVACY AND SECURITY POLICY**
 
-**Date Last Revised: 09/13/2005**
+**Date Last Revised: 1/10/2006**
 
 AutoSite.com understands your concern with privacy and the use of your personal information. Whether you submit a purchase request for a vehicle or simply browse through our website, we assure you that we are committed to protecting your personal privacy. 
 
@@ -46,7 +46,7 @@ Similarly, Purchase Request or Finance Information transmitted to a dealer, manu
 
 **Other Uses**
 
-We also share your personal information with our affiliated companies in order to identify products or services in which you may have interest, to improve our user experience and generally to engage in market research and for other internal business purposes. We also may aggregate your personal information with others' information and prepare reports on site usage, purchase history or other factors for sale or distribution to others. Those reports are aggregated and include no personally identifying information. Finally, we may use your personal information to send you email or postal communications regarding products or services offered by us or by third parties with whom we have relationships in which we think you may be interested. 
+We also share your personal information with our affiliated companies in order to identify products or services in which you may have interest, to improve our user experience and generally to engage in market research and for other internal business purposes. We also may aggregate your personal information with others' information and prepare reports on site usage, purchase history or other factors for sale or distribution to others. Those reports are aggregated and include no personally identifying information. Finally, we may use your personal information to send you email or postal communications regarding products or services offered by us or by third parties with whom we have relationships in which we think you may be interested. We do not share, sell, trade, or rent your personal information to third parties for unknown reasons. 
 
 **Special Sections of Our Site**
 
@@ -112,4 +112,4 @@ If you have any questions or concerns regarding privacy, security, opting-out of
 
 For any other issues, please contact our customer service department at AutoSiteConsumerCare@autobytel.com. Our mailing address is: 18872 MacArthur Boulevard, Irvine, CA 92612-1400. 
 
-For the AutoSite.com Usage Terms and Conditions please [click here](https://web.archive.org/content/home/help/index.cfm?id10714;ASITE&action=terms).
+For the AutoSite.com Usage Terms and Disclaimers please [click here](https://web.archive.org/content/home/help/index.cfm?id10714;ASITE&action=terms).
