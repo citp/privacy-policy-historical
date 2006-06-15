@@ -1,26 +1,28 @@
-<!--The following is the downloaded HTML source of the education-portal.com privacy policy that was archived on 2005-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051224211650id_/http%3A//education-portal.com/pages/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the education-portal.com privacy policy that was archived on 2006-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615202224id_/http%3A//education-portal.com/pages/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<link rel="stylesheet" type="text/css" href="/css/mainStyle.css">
 	
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	
+			
+		
 	<meta name="robots" content="index,follow">
 	<meta name="keywords" content="">
 	<meta name="description" content="">
 	<title> -- Education-Portal.com --</title>
 
    <script type="text/javascript" language="Javascript">
-			<!-- Hide script from old browers
+			<!--
 			//if you pick a state
 			function resetZipAndOnlineOnlyAndSubmit(formToSubmit) {
 				formToSubmit.online.checked = false;
 				formToSubmit.zip.value='';
-				formToSubmit.radius.value = '';
 
-				document.zipcodeSearchForm.zip.value='';
+				/*document.zipcodeSearchForm.zip.value='';
 				document.zipcodeSearchForm.radius.value = '';
-				document.zipcodeSearchForm.radius.selectedIndex = 0;
+				document.zipcodeSearchForm.radius.selectedIndex = 0;*/
 				formToSubmit.submit();
 			}
 
@@ -29,15 +31,14 @@
 				formToSubmit.state.value = 'ALL';
 				formToSubmit.state.selectedIndex = 0;
 				formToSubmit.zip.value='';
-				formToSubmit.radius.value = '';
 
-				document.zipcodeSearchForm.zip.value='';
-				document.zipcodeSearchForm.radius.selectedIndex = 0;
+				/*document.zipcodeSearchForm.zip.value='';
+				document.zipcodeSearchForm.radius.selectedIndex = 0;*/
 				formToSubmit.submit();
 			}
 
 			//if you enter a zip and click submit
-			function resetStateAndOnlineAndSubmit(formToSubmit) {
+			function resetStateAndOnlineIfZipAndSubmit(formToSubmit) {
 				if (formToSubmit.zip.value != '') {
 					formToSubmit.state.value = 'ALL';
 					formToSubmit.state.selectedIndex = 0;
@@ -47,7 +48,27 @@
 				formToSubmit.submit();
 			}
 
-			function clearbottomlevelandSubmit(formToSubmit, level) {
+			function clearbottomlevelandSubmit(formToSubmit, level, dropDownPrefix) {
+				var total_level;
+				var drop_down_option;
+				for(total_level = level+1; total_level <= 3; total_level = total_level+1) {
+				 drop_down_option = document.getElementById(dropDownPrefix + "C" + total_level);
+
+					if (drop_down_option != null && typeof(drop_down_option) != "undefined") {
+						drop_down_option.selectedIndex = 0;
+						drop_down_option.options[0].value = 0;
+					}
+				}
+				formToSubmit.submit();
+			}
+
+			function clearZipIfNotEntered(formToClear) {
+				if (formToClear.zip.value == 'zip') {
+					formToClear.zip.value = '';
+				}
+			}
+
+			/*function clearbottomlevelandSubmit(formToSubmit, level) {
 				var total_level;
 				var drop_down_option;
 				for(total_level = level+1; total_level <= 3; total_level = total_level+1) {
@@ -59,7 +80,7 @@
 					}
 				}
 				formToSubmit.submit();
-			}
+			}*/
 			// end hiding script from old browsers -->
 	</script>
 
@@ -76,29 +97,38 @@
 		
 
 	<div id="mainNav">
-		<div id="tabs">
-			<ul>
-				
-				
-				
-				
-				
-				
+		
 				
 
-            <li class="spacer">&nbsp;</li>
-				<li class="firstTab"><a href="/index.html">Home</a></li>
-				<li><a href="/article_directory/index.html">Articles</a></li>
-				<li><a href="/directory/category/index.html">Subject Categories</a></li>
-				<li><a href="/directory/degree_type/index.html">Degree Levels</a></li>
-				<li><a href="/online_degrees.html">Online Education</a></li>
-				<li><a href="/helpful_links/index.html">Resource Directory</a></li>
-				<li><a href="/search/find.html">Search</a></li>
-			</ul>
-		</div>
+
+
+
+
+<div id="tabs">
+	<ul>
+		
+		
+		
+		
+		
+		
+		
+
+		<li class="spacer">&nbsp;</li>
+		<li class="firstTab"><a href="/index.html">Home</a></li>
+		<li><a href="/article_directory/index.html">Articles</a></li>
+		<li><a href="/directory/category/index.html">Subject Categories</a></li>
+		<li><a href="/directory/degree_type/index.html">Degree Levels</a></li>
+		<li><a href="/online_degrees.html">Online Education</a></li>
+		<li><a href="/pages/Online_High_Schools.html">High School Diploma</a></li>
+		<li><a href="/search/find.html">Search</a></li>
+	</ul>
+</div>
+			
+
 		<div id="underTabContainer">
 			<div id="timestamp">
-				December 24, 2005
+				June 15, 2006
 			</div>
 			<div id="breadCrumb">
 				
@@ -112,6 +142,479 @@
 	<div id="main2">
 		<h1 id="headerTagline">800+ Colleges and Schools Independently Researched and Categorized</h1>
 
+		
+			<div id="headerChickletContainer">
+				<div id="topLeftHeaderChicklet">
+					
+							
+
+
+
+
+
+<div class="chicklet">
+	<h1>Top Online Schools</h1>
+	<div class="chickletBody">
+		<table>
+			<tbody><tr>
+				<td>
+					<h3><a href="/directory/campus/University_of_Phoenix_Online.html">University of Phoenix Online</a></h3>
+					<h3><a href="/directory/campus/DeVry_University_Online.html">DeVry University Online</a></h3>
+					<h3><a href="/directory/campus/Capella_University.html">Capella University</a></h3>
+					<!--<h3><a href="/directory/campus/FMU_Online.html">FMU Online</a></h3>-->
+					<h3><a href="/directory/campus/Walden_University_Online.html">Walden University Online</a></h3>
+				</td>
+				<td>
+					<h3><a href="/directory/campus/ECPI_-_Online.html">ECPI College of Technology</a></h3>
+					<h3><a href="/directory/school/Jones_International_University.html">Jones International University</a></h3>
+					
+						<h3><a href="/directory/school/AIU_Online.html">AIU Online</a></h3>
+					
+					<h3><a href="/directory/school/Kaplan_University.html">Kaplan University</a></h3>
+				</td>
+			</tr>
+		</tbody></table>
+	</div>
+</div>
+						
+				</div>
+
+				<div id="topRightHeaderChicklet">
+					
+							
+
+
+
+
+
+
+		
+	
+
+<div class="chicklet">
+	<h1>Search For Schools</h1>
+	<div class="chickletBody">
+		<form action="/search/find.html" method="get" id="topSearchForm" name="topSearchForm" onsubmit="javascript:resetStateAndOnlineIfZipAndSubmit(document.topSearchForm);">
+			<table>
+				<tbody><tr>
+					<td valign="top">
+
+						<select name="c1" id="topC1" onchange="javascript:clearbottomlevelandSubmit(document.topSearchForm, 1, 'top');" class="largeDropDown">
+							<option value="ALL">Subject - General:</option>
+							
+								<option value="26">
+									Agriculture
+								</option>
+							
+								<option value="35">
+									Architecture
+								</option>
+							
+								<option value="224">
+									Basic Skills
+								</option>
+							
+								<option value="463">
+									Biological and Biomedical Sciences
+								</option>
+							
+								<option value="388">
+									Business
+								</option>
+							
+								<option value="50">
+									Communication Technologies
+								</option>
+							
+								<option value="41">
+									Communications and Journalism
+								</option>
+							
+								<option value="58">
+									Computer Sciences
+								</option>
+							
+								<option value="273">
+									Construction
+								</option>
+							
+								<option value="83">
+									Culinary Arts and Personal Services
+								</option>
+							
+								<option value="38">
+									Cultural Studies
+								</option>
+							
+								<option value="94">
+									Education
+								</option>
+							
+								<option value="129">
+									Engineering
+								</option>
+							
+								<option value="149">
+									Engineering Technologies
+								</option>
+							
+								<option value="195">
+									English Language
+								</option>
+							
+								<option value="179">
+									Foreign Languages
+								</option>
+							
+								<option value="449">
+									High School Diploma
+								</option>
+							
+								<option value="2054">
+									History
+								</option>
+							
+								<option value="182">
+									Human Sciences
+								</option>
+							
+								<option value="212">
+									Interdisciplinary Studies
+								</option>
+							
+								<option value="187">
+									Legal
+								</option>
+							
+								<option value="200">
+									Liberal Arts and Humanities
+								</option>
+							
+								<option value="207">
+									Math and Statistics
+								</option>
+							
+								<option value="282">
+									Mechanic and Repair Technologies
+								</option>
+							
+								<option value="312">
+									Medical and Health Professions
+								</option>
+							
+								<option value="31">
+									Natural Resource Management
+								</option>
+							
+								<option value="219">
+									Physical Education
+								</option>
+							
+								<option value="237">
+									Physical Sciences
+								</option>
+							
+								<option value="292">
+									Precision Production
+								</option>
+							
+								<option value="240">
+									Psychology
+								</option>
+							
+								<option value="253">
+									Public Safety and Law Enforcement
+								</option>
+							
+								<option value="227">
+									Recreation Studies
+								</option>
+							
+								<option value="230">
+									Religion and Philosophy
+								</option>
+							
+								<option value="233">
+									Religious Vocations
+								</option>
+							
+								<option value="452">
+									Residency Programs
+								</option>
+							
+								<option value="270">
+									Social Sciences
+								</option>
+							
+								<option value="263">
+									Social Services and Public Admin.
+								</option>
+							
+								<option value="295">
+									Transportation and Distribution
+								</option>
+							
+								<option value="298">
+									Visual and Performing Arts
+								</option>
+							
+						</select>
+
+						
+
+
+						
+
+					</td>
+					<td>
+
+						<select name="q1" id="topQ1" class="smallDropDown" onchange="javascript:submit();">
+							<option value="ALL">Degree Level:</option>
+							
+								<option value="1">
+									Graduate
+								</option>
+							
+								<option value="9">
+									Non-Degree
+								</option>
+							
+								<option value="21">
+									Undergraduate
+								</option>
+							
+						</select>
+
+						<select name="state" id="topState" onchange="javascript:resetZipAndOnlineOnlyAndSubmit(document.topSearchForm);" class="smallDropDown">
+							<option value="ALL">State:</option>
+							
+								<option value="AL">
+									Alabama
+								</option>
+							
+								<option value="AK">
+									Alaska
+								</option>
+							
+								<option value="AZ">
+									Arizona
+								</option>
+							
+								<option value="AR">
+									Arkansas
+								</option>
+							
+								<option value="CA">
+									California
+								</option>
+							
+								<option value="CO">
+									Colorado
+								</option>
+							
+								<option value="DC">
+									Columbia (D.C.)
+								</option>
+							
+								<option value="CT">
+									Connecticut
+								</option>
+							
+								<option value="DE">
+									Delaware
+								</option>
+							
+								<option value="FL">
+									Florida
+								</option>
+							
+								<option value="GA">
+									Georgia
+								</option>
+							
+								<option value="HI">
+									Hawaii
+								</option>
+							
+								<option value="ID">
+									Idaho
+								</option>
+							
+								<option value="IL">
+									Illinois
+								</option>
+							
+								<option value="IN">
+									Indiana
+								</option>
+							
+								<option value="IA">
+									Iowa
+								</option>
+							
+								<option value="KS">
+									Kansas
+								</option>
+							
+								<option value="KY">
+									Kentucky
+								</option>
+							
+								<option value="LA">
+									Louisiana
+								</option>
+							
+								<option value="ME">
+									Maine
+								</option>
+							
+								<option value="MD">
+									Maryland
+								</option>
+							
+								<option value="MA">
+									Massachusetts
+								</option>
+							
+								<option value="MI">
+									Michigan
+								</option>
+							
+								<option value="MN">
+									Minnesota
+								</option>
+							
+								<option value="MS">
+									Mississippi
+								</option>
+							
+								<option value="MO">
+									Missouri
+								</option>
+							
+								<option value="MT">
+									Montana
+								</option>
+							
+								<option value="NE">
+									Nebraska
+								</option>
+							
+								<option value="NV">
+									Nevada
+								</option>
+							
+								<option value="NH">
+									New Hampshire
+								</option>
+							
+								<option value="NJ">
+									New Jersey
+								</option>
+							
+								<option value="NM">
+									New Mexico
+								</option>
+							
+								<option value="NY">
+									New York
+								</option>
+							
+								<option value="NC">
+									North Carolina
+								</option>
+							
+								<option value="ND">
+									North Dakota
+								</option>
+							
+								<option value="OH">
+									Ohio
+								</option>
+							
+								<option value="OK">
+									Oklahoma
+								</option>
+							
+								<option value="OR">
+									Oregon
+								</option>
+							
+								<option value="PA">
+									Pennsylvania
+								</option>
+							
+								<option value="PR">
+									Puerto Rico
+								</option>
+							
+								<option value="RI">
+									Rhode Island
+								</option>
+							
+								<option value="SC">
+									South Carolina
+								</option>
+							
+								<option value="SD">
+									South Dakota
+								</option>
+							
+								<option value="TN">
+									Tennessee
+								</option>
+							
+								<option value="TX">
+									Texas
+								</option>
+							
+								<option value="UT">
+									Utah
+								</option>
+							
+								<option value="VT">
+									Vermont
+								</option>
+							
+								<option value="VA">
+									Virginia
+								</option>
+							
+								<option value="WA">
+									Washington
+								</option>
+							
+								<option value="WV">
+									West Virginia
+								</option>
+							
+								<option value="WI">
+									Wisconsin
+								</option>
+							
+								<option value="WY">
+									Wyoming
+								</option>
+							
+						</select>
+
+						
+								
+							
+						<input type="text" class="searchZip" name="zip" id="topZip" maxlength="5" size="5" value="zip" onclick="javascript:clearZipIfNotEntered(document.topSearchForm)">
+						<input type="submit" class="search" name="searchButton" value="Go">
+						<input type="checkbox" class="checkbox" name="online" id="topOnline" value="true" onclick="javascript:resetStateAndZipAndSubmit(document.topSearchForm);"> <span class="small">Online Schools</span>
+					</td>
+				</tr>
+			</tbody></table>
+		</form>
+	</div>
+</div>
+						
+				</div>
+			</div>
+		
+
 		<div id="left">
 			
 					
@@ -122,103 +625,7 @@
 
 
 
-			<div class="chicklet">
-				<h1>Find Schools by Zip</h1>
-				<form action="/search/find.html" method="get" name="zipcodeSearchForm">
-					<input type="hidden" name="c1" id="c1Zip" value="">
-					<input type="hidden" name="c2" id="c2Zip" value="">
-					<input type="hidden" name="c3" id="c3Zip" value="">
-					<input type="hidden" name="q1" id="q1Zip" value="">
-					<input type="hidden" name="online" value="false">
-					<input type="hidden" name="state" value="ALL">
-					<div class="chickletBody">
-						<div class="searchFieldLabel">
-							Zip Code:
-							<input type="text" name="zip" maxlength="5" size="5" value="">
-						</div>
-
-						<div class="searchFieldLabel">
-							Radius:
-							<select name="radius">
-								
-
-							      
-
-									<option value="100">
-										100 Miles
-									</option>
-								
-
-							      
-
-									<option value="90">
-										90 Miles
-									</option>
-								
-
-							      
-
-									<option value="80">
-										80 Miles
-									</option>
-								
-
-							      
-
-									<option value="70">
-										70 Miles
-									</option>
-								
-
-							      
-
-									<option value="60">
-										60 Miles
-									</option>
-								
-
-							      
-
-									<option value="50">
-										50 Miles
-									</option>
-								
-
-							      
-
-									<option value="40">
-										40 Miles
-									</option>
-								
-
-							      
-
-									<option value="30">
-										30 Miles
-									</option>
-								
-
-							      
-
-									<option value="20">
-										20 Miles
-									</option>
-								
-
-							      
-
-									<option value="10">
-										10 Miles
-									</option>
-								
-							</select>
-						</div>
-						<div class="zipSubmit">
-							<input type="submit" name="submit" value="Search" onclick="javascript:submit();">
-						</div>
-					</div>
-				</form>
-			</div>
+			
 
 			<div class="chicklet">
 				<h1>Browse by State</h1>
@@ -350,80 +757,21 @@
 			</div>
 
 			<div class="chicklet">
-				<h1>Resource Directory</h1>
-				<div class="chickletBody">
-					<ul>
-						
-							<li><a href="/helpful_links/Admissions_Resources.html">Admissions Resources</a></li>
-						
-							<li><a href="/helpful_links/Books_and_Learning_Materials.html">Books and Learning Materials</a></li>
-						
-							<li><a href="/helpful_links/Career_Resources.html">Career Resources</a></li>
-						
-							<li><a href="/helpful_links/Children%27s_Learning.html">Children's Learning</a></li>
-						
-							<li><a href="/helpful_links/Children%27s_Resources.html">Children's Resources</a></li>
-						
-							<li><a href="/helpful_links/College_Student_Resources.html">College Student Resources</a></li>
-						
-							<li><a href="/helpful_links/English_as_a_Second_Language.html">English as a Second Language</a></li>
-						
-							<li><a href="/helpful_links/Essay_and_Resume_Help.html">Essay and Resume Help</a></li>
-						
-							<li><a href="/helpful_links/General_Resources.html">General Resources</a></li>
-						
-							<li><a href="/helpful_links/Guidance_Counseling.html">Guidance Counseling</a></li>
-						
-							<li><a href="/helpful_links/Homeschooling_Resources.html">Homeschooling Resources</a></li>
-						
-							<li><a href="/helpful_links/Learning_Tools.html">Learning Tools</a></li>
-						
-							<li><a href="/helpful_links/Math_Resources.html">Math Resources</a></li>
-						
-							<li><a href="/helpful_links/Other_Education_Directories.html">Other Education Directories</a></li>
-						
-							<li><a href="/helpful_links/Other_Student_Resources.html">Other Student Resources</a></li>
-						
-							<li><a href="/helpful_links/Parent_Resources.html">Parent Resources</a></li>
-						
-							<li><a href="/helpful_links/Reading_Resources.html">Reading Resources</a></li>
-						
-							<li><a href="/helpful_links/Spelling_Resources.html">Spelling Resources</a></li>
-						
-							<li><a href="/helpful_links/Student_Insurance.html">Student Insurance</a></li>
-						
-							<li><a href="/helpful_links/Student_Loans_and_Financial_Aid.html">Student Loans and Financial Aid</a></li>
-						
-							<li><a href="/helpful_links/Student_Travel_and_Entertainment.html">Student Travel and Entertainment</a></li>
-						
-							<li><a href="/helpful_links/Teacher%27s_Resources.html">Teacher's Resources</a></li>
-						
-							<li><a href="/helpful_links/Test_Preparation_and_Tutoring.html">Test Preparation and Tutoring</a></li>
-						
-							<li><a href="/helpful_links/Writing_Resources.html">Writing Resources</a></li>
-						
-					</ul>
-				</div>
+				<h1><a href="/helpful_links/index.html">Resource Directory</a></h1>
+				
 			</div>
 
 				
 		</div>
 
 		<div id="right">
-			<div class="chicklet">
-				<h1>Top Online Schools</h1>
-				<div class="chickletBody">
-					<h3><a href="/directory/campus/University_of_Phoenix_Online.html">University of Phoenix Online</a></h3>
-					<h3><a href="/directory/campus/DeVry_University_Online.html">DeVry University Online</a></h3>
-					<h3><a href="/directory/campus/Capella_University.html">Capella University</a></h3>
-					<h3><a href="/directory/campus/FMU_Online.html">FMU Online</a></h3>
-					<h3><a href="/directory/campus/Walden_University_Online.html">Walden University Online</a></h3>
-					<h3><a href="/directory/campus/ECPI_-_Online.html">ECPI College of Technology</a></h3>
-					<h3><a href="/directory/school/Jones_International_University.html">Jones International University</a></h3>
-					<h3><a href="/directory/school/American_InterContinental_University_Online.html">AIU Online</a></h3>
-					<h3><a href="/directory/school/Kaplan_University.html">Kaplan University</a></h3>
-				</div>
-			</div>
+			
+					
+
+
+
+
+
 
 			
 			
@@ -431,7 +779,7 @@
 			
 
 			<div class="chicklet">
-				<h1>Browse by Subject</h1>
+				<h1><a href="/directory/category/index.html">Browse by Subject</a></h1>
 				<div class="chickletBody">
 					<ul>
 						
@@ -466,6 +814,10 @@
 							<li><a href="/directory/category/English_Language.html">English Language Programs</a></li>
 						
 							<li><a href="/directory/category/Foreign_Languages.html">Foreign Languages Programs</a></li>
+						
+							<li><a href="/directory/category/High_School_Diploma.html">High School Diploma Programs</a></li>
+						
+							<li><a href="/directory/category/History.html">History Programs</a></li>
 						
 							<li><a href="/directory/category/Human_Sciences.html">Human Sciences Programs</a></li>
 						
@@ -522,34 +874,34 @@
 
 						
 							
-							<li><a href="/paramedic_school_massachusetts.html">paramedic school massachusetts</a></li>
+							<li><a href="/athletic_trainer_degree.html">athletic trainer degree</a></li>
 						
 							
-							<li><a href="/colleges_in_baltimore_md.html">colleges in baltimore md</a></li>
+							<li><a href="/montclair_university_nj.html">montclair university nj</a></li>
 						
 							
-							<li><a href="/schools_in_illinois.html">schools in illinois</a></li>
+							<li><a href="/paralegal_studies.html">paralegal studies</a></li>
 						
 							
-							<li><a href="/music_schools_in_new_york_city.html">music schools in new york city</a></li>
+							<li><a href="/becoming_a_psychiatrist.html">becoming a psychiatrist</a></li>
 						
 							
-							<li><a href="/alternative_medicine_colleges.html">alternative medicine colleges</a></li>
+							<li><a href="/masters_of_information_security.html">masters of information security</a></li>
 						
 							
-							<li><a href="/dental_schools_in_arizona.html">dental schools in arizona</a></li>
+							<li><a href="/herbalist_degrees.html">herbalist degrees</a></li>
 						
 							
-							<li><a href="/architect_university.html">architect university</a></li>
+							<li><a href="/how_to_become_an_architect.html">how to become an architect</a></li>
 						
 							
-							<li><a href="/public_relations_schooling.html">public relations schooling</a></li>
+							<li><a href="/colleges_in_nyc.html">colleges in nyc</a></li>
 						
 							
-							<li><a href="/telecommunication_certifications.html">telecommunication certifications</a></li>
+							<li><a href="/animal_degrees.html">animal degrees</a></li>
 						
 							
-							<li><a href="/classes_massachusetts_lexington.html">classes massachusetts lexington</a></li>
+							<li><a href="/online_courses.html">online courses</a></li>
 						
 						
 					</ul>
@@ -557,7 +909,7 @@
 			</div>
 
 			<div class="chicklet">
-				<h1>Browse by Degree</h1>
+				<h1><a href="/directory/degree_type/index.html">Browse by Degree</a></h1>
 				<div class="chickletBody">
 					<ul>
 						
@@ -567,12 +919,15 @@
 						
 							<li><a href="/directory/degree_type/Undergraduate.html">Undergraduate</a></li>
 						
+						<li><a href="/pages/Online_High_Schools.html">High School Diploma</a></li>
 					</ul>
 				</div>
 			</div>
+				
 		</div>
 
 		<div id="middle">
+			
 			<div id="mainContent">
 				
 						
@@ -655,18 +1010,22 @@
 			</div>
 		</div>
 
+		<div class="cleaner">&nbsp;</div>
+
 	</div>
 </div>
 
 <div id="footer">
 	<div class="">
-		<p>
-			<a href="/index.html">Home</a>
-			<a href="/article_directory/index.html">Articles</a>
-			<a href="/directory/category/index.html">Categories</a>
-			<a href="/directory/degree_type/index.html">Degree Types</a>
-			<a href="/helpful_links/index.html">Resource Directory</a>
-		</p>
+		
+			<p>
+				<a href="/index.html">Home</a>
+				<a href="/article_directory/index.html">Articles</a>
+				<a href="/directory/category/index.html">Categories</a>
+				<a href="/directory/degree_type/index.html">Degree Types</a>
+				<a href="/helpful_links/index.html">Resource Directory</a>
+			</p>
+		
 		
 
 
