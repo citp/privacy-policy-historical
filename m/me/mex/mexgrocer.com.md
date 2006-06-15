@@ -1,16 +1,8 @@
-> *The following text is extracted and transformed from the mexgrocer.com privacy policy that was archived on 2005-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051119070543id_/http%3A//mexgrocer.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mexgrocer.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615235918id_/http%3A//www.mexgrocer.com/privacy-policy.html) for the most accurate reproduction.*
 
 # MexGrocer.com - Privacy Policy
 
-Privacy Policy Overview (Effective Date: 10/19/2005) 
-
-[](http://www.truste.org/ivalidate.php?url=www.mexgrocer.com&sealid=101)
-
-MexGrocer.com is strongly committed to protecting the privacy of its customers. We have written this privacy policy to inform you of the specific information that we collect from you, how we use this information, and what options you have in sharing this information with us when you visit our site. Protecting your privacy is a significant part of MexGrocer.com's commitment to providing you with a high quality shopping experience.
-
-MexGrocer.com is a licensee of the TRUSTe Privacy Program. TRUSTe certifies this website’s online gathering and dissemination of information and privacy practices. TRUSTe is an independent, non-profit organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices.  Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-If you have questions or concerns regarding this statement, you should first contact our Customer Service Department through any method desired at the end of this policy. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php) directly. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+Privacy Policy Overview (Effective Date: 01/12/2006)  MexGrocer.com is strongly committed to protecting the privacy of its customers. We have written this privacy policy to inform you of the specific information that we collect from you, how we use this information, and what options you have in sharing this information with us when you visit our site. Protecting your privacy is a significant part of MexGrocer.com's commitment to providing you with a high quality shopping experience.
 
 Information Collection and Use ** **
 
@@ -32,7 +24,7 @@ MexGrocer will store a persistent cookie so that you may retrieve the products i
 
 Affiliate Programs
 
-We use Commission Junction to run our affiliate program ~~s~~ for advertising purposes to increase MexGrocer’s brand awareness and the store’s existence to larger communities of websites. When a company signs up for an Affiliate Program (apply ONLY to corporations) within the MexGrocer website, the information is collected and stored  by Commission Junction. The usage of this cookie is in no way linked to any personally identifiable information. Even though the page has the look and the feel of the mexgrocer website.
+We use Commission Junction to run our affiliate program ~~s~~ for advertising purposes to increase MexGrocer’s brand awareness and the store’s existence to larger communities of websites. When a company signs up for an Affiliate Program (apply ONLY to corporations) within the MexGrocer website, the information is collected and stored by Commission Junction. The usage of this cookie is in no way linked to any personally identifiable information. Even though the page has the look and the feel of the mexgrocer website.
 
 Log Files ** **
 
