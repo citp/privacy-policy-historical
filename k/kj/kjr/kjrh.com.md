@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kjrh.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231071022id_/http%3A//2worksforyou.com/help2/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kjrh.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615025953id_/http%3A//2worksforyou.com/help2/privacy.shtml) for the most accurate reproduction.*
 
 # 2 WORKS FOR YOU--Homepage of KJRH-TV, CHANNEL 2--Tulsa, OK
 
@@ -33,7 +33,7 @@ We do not share personal identifying information with any third party without yo
 
 **IV. Accuracy of User Information**
 
-In order to ensure the accuracy of personal information provided for registration, you may return to the registration form online in order to change information you have provided at any time. Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to [rmills@2worksforyou.com](mailto:rmills@2worksforyou.com), or you can reach us by telephone at (918)748-1560. You can also write us at:
+In order to ensure the accuracy of personal information provided for registration, you may return to the registration form online in order to change information you have provided at any time. Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to [mills@kjrh.com](mailto:rmills@2worksforyou.com), or you can reach us by telephone at (918)748-1560. You can also write us at:
 
 2 Works For You  
 3701 S. Peoria Ave.  
