@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the multiplestreammktg.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219025752id_/http%3A//www.multiplestreammktg.com/n/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multiplestreammktg.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615191835id_/http%3A//www.multiplestreammktg.com/n/privacy.html) for the most accurate reproduction.*
 
 # Multiple Stream Media - buy leads, internet marketing, web site promotion, co registration leads, online advertising, lead generation, co registration
 
