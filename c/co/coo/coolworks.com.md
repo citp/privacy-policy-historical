@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolworks.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217220603id_/http%3A//www.coolworks.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolworks.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615073542id_/http%3A//www.coolworks.com/privacy.asp) for the most accurate reproduction.*
 
 # Cool Works.com®- Jobs in Great Places®
 
