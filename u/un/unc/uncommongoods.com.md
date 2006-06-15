@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uncommongoods.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212125339id_/http%3A//www.uncommongoods.com/help/help.jsp%3Ftopic%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uncommongoods.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615055306id_/http%3A//www.uncommongoods.com/help/help.jsp%3Ftopic%3Dprivacy) for the most accurate reproduction.*
 
 # UncommonGoods: Help
 
@@ -53,7 +53,7 @@ If you decide you no longer wish to receive communications from us, you can opt 
 At the bottom of every e-mail we send out is a line that reads: If you prefer not to receive e-mails from us, please e-mail us at [remove@uncommongoods.com.](mailto:remove@uncommongoods.com) Clicking on the link displays a mail form that has 'please remove' in the subject line. If you hit the send button, your name will be automatically removed from our e-mail list. 
   * **Calling customer service**
   
-If you prefer to speak to us live, please call us at 888-365-0056. UncommonGoods is open 7am to 3am ET Monday through Friday, 9am to 12am ET Saturday and 9am to 1am Sunday. If you don't reach us, please leave us a message with your name and telephone number. We will respond to e-mail and voice mail promptly. 
+If you prefer to speak to us live, please call us at 888-365-0056. UncommonGoods is open 8am to 1am ET Monday through Friday and 9am to 12am ET Saturday and Sunday. If you don't reach us, please leave us a message with your name and telephone number. We will respond to e-mail and voice mail promptly. 
   * **Sending a note to:**  
 UncommonGoods  
 Customer Service  
