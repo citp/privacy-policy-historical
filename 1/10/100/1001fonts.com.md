@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1001fonts.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220035842id_/http%3A//www.1001fonts.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1001fonts.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615143421id_/http%3A//www.1001fonts.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy @ 1001 Fonts .com
 
@@ -78,23 +78,23 @@ If you have any additional questions about 1001fonts.com's dedication to consume
 **Partner Sites**  
    
 [FontFinder.ws](http://www.fontfinder.ws/)  
-[1001 Winamp Skins](http://www1.1001skins.com/)  
-[1001 ICQ Skins](http://www2.1001skins.com/)
+[1001 Winamp Skins](http://www1.1001skins.com/)
 
 [**Pay Fonts**](https://web.archive.org/font_paylinks.html)  
    
-[Linotype.com](http://www.linotype.com/redirect/32889/73/312/)  
-[MyFonts.com](http://www.myfonts.com/?refby=bloch)  
 [Fonts.com](http://www.qksrv.net/click-797593-5765012)  
+[MyFonts.com](http://www.myfonts.com/?refby=bloch)  
+[Linotype.com](http://www.linotype.com/redirect/32889/73/312/)  
 [ITCFonts.com](http://www.qksrv.net/click-797593-5529320)
 
 **Free Fonts**  
    
 [PCfonts.com](http://www.pcfonts.com/in.php?id=giotto)  
 [TopFreeFonts.com](http://www.topfreefonts.com/cgi-bin/autorank/rankem.cgi?id=1001f2)  
-[AbstractFonts.com](http://www.abstractfonts.com/fonts/partners/in.htm?id=1001fonts)  
-[Best100Free.com](http://www.best100free.com/in.asp?id=1001fonts)  
-[HighFonts.com](http://www.highfonts.com/in.asp?id=1001fonts)
+[Top20Free.com](http://1001font.top20free.com/)  
+[UrbanFonts.com](http://www.urbanfonts.com/)  
+[HighFonts.com](http://www.highfonts.com/in.asp?id=1001fonts)  
+[Best100Free.com](http://www.best100free.com/in.asp?id=1001fonts)
 
 **Font Designers**  
    
