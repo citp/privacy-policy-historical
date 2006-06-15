@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the webcrawler.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212152112id_/http%3A//www.webcrawler.com/info.wbcrwl/search/help/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcrawler.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615203428id_/http%3A//www.webcrawler.com/info.wbcrwl/search/help/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - WebCrawler
 
  | |   
-[](http://www.webcrawler.com/info.wbcrwl/)  
+  
 ---  
 |   
 ---  
