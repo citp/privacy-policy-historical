@@ -1,58 +1,57 @@
-> *The following text is extracted and transformed from the justfreestuff.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224113511id_/http%3A//www.justfreestuff.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justfreestuff.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615055849id_/http%3A//justfreestuff.com/Privacy.htm) for the most accurate reproduction.*
 
-# Privacy Statement for Just Free Stuff
+# Privacy Policy
 
-## Privacy Statement for Just Free Stuff
+**PRIVACY POLICY**
 
-Just Free Stuff has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Just Free Stuff.
+Just Free Stuff is committed to user privacy. This policy outlines our personal information handling practices. If you give us personal information, we will treat it according to this policy.
 
-Our site's registration form requires users to give us contact information (like their name and email address). We use customer contact information from the registration form to send the user promotional material from some of our partners. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+This policy covers justfreestuff.com, Please be advised that our advertisers all have their own, possibly different, policies. Should you click through one of our links and travel to one of our advertisers, we encourage you to read the privacy policies provided on the advertisers sites, and those of all web sites you visit.
 
-This site contains links to other sites. **Just Free Stuff** is not responsible for the privacy practices or the content of such Web sites.
+Below is a summary of justfreestuff.com's online privacy policy.
 
-We use an outside ad company to display ads on our site. Ads may contain cookies, and appear to be coming from our site, but in reality they are coming from our partners who are serving ads on our site. Our site does not use cookies. We do not have access to any information about you from cookies you might receive while visiting our site.
+Types and uses of personal information.
 
-## Security
+Your personal information is used in the following ways:
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. (*Please elaborate on the security measures that you have in place.)
+Email address: Our newsletter (s) which goes out an average of once per day.
 
-## Supplementation Information
+Should you provide us with your email address, we are committed to preserving your confidentiality. We will never share your email address with other sites, nor will we provide you with any emailed information other than what you requested in these newsletters.
 
-This site supplements the information that you provide with information that is received from third parties.
+**Email Correspondence**
 
-## Children's Guidelines
+Used to raise and respond to issues and inquiries of all types. Also used to distribute our daily newsletters on an opt in basis only. This means you will not get any newsletters unless you specifically subscribe to them. We will only use your email address to send you requested newsletters and to reply to your questions or comments.
 
-According to the answers that you have chosen, your Web site meets the guidelines of TRUSTe's Children's program. 
+**Linked web sites**
 
-  1. NOT collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent
-  2. NOT collect personally identifiable offline contact information without prior parental consent
-  3. NOT distribute to third parties any personally identifiable information with out prior parental consent
-  4. NOT give the ability to publicly post or otherwise distribute personally identifiable contact information without prior parental consent
-  5. NOT entice by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity
+We provide links to third party sites. Since we do not control these Web sites, we encourage you to review the privacy policies posted on these (and all) third party sites.
 
+**Children's privacy**
 
+We do not knowingly collect personal information from children under the age of 18. If we learn that we have personal information on a child under the age of 18, we will delete that information from our systems. JustFreeStuff encourages parents to go online with their kids. Here are a few tips to help make a child's online experience safer:
 
-## Choice/Opt-Out
+Teach kids never to give personal information, unless supervised by a parent or responsible adult. Includes name, address, phone, school, etc.  
+Know the sites your kids are visiting and which sites are appropriate.  
+Look for Web site privacy policies. Know how your child's information is treated.  
+Check out the FTC's site(1) for more tips on protecting children's privacy online.
 
-Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor.
+**Cookies**
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
+JustFreeStuff does not use cookies.
 
-  1. You can send email to [james@justfreestuff.com](mailto:james@justfreestuff.com)
-  2. You can send a BLANK email to the following address: [mailto:justfreestuff-unsubscribe@topica.email-publisher.com](mailto:justfreestuff-unsubscribe@topica.email-publisher.com)  
+**Updating your subscription information**
 
+We need your help in making sure your personal information is correct in our systems. If you have joined one of our free emailed updates, please notify us of changes to your email address. Either log into your account, or send us a mail at: james@justfreestuff.com and let us know which address to remove and which address to replace it with.
 
+**Unsubscribing**
 
-## Correct/Update
+Each email newsletter has instructions on how to unsubscribe.
 
-This site gives users the following options for changing and modifying information previously provided. 
+Any other questions? Please contact us directly at: james@justfreestuff.com
 
-  1. email [james@justfreestuff.com](mailto:james@justfreestuff.com)
-
-
-
-## Contacting the Web Site
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
-
-James Barton  6351 W. Montrose #241  Chicago, IL. 60634-1563  c/o: Just Free Stuff  james@justfreestuff.com 
+James Barton  
+Webmaster/Administrator  
+JFSNetwork  
+6351 W. Montrose, #241  
+Chicago, Illinois. 60634-1563  
+JustFreeStuff.com
