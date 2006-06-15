@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the deakin.edu.au privacy policy that was archived on 2005-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051214134938id_/http%3A//www.deakin.edu.au/disclaimer/index.php%23privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the deakin.edu.au privacy policy that was archived on 2006-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615185453id_/http%3A//www.deakin.edu.au/disclaimer/index.php%23privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en-AU"><head>
 
@@ -24,6 +24,8 @@
 
 <link rel="schema.DC" href="http://dublincore.org/2003/03/24/dces#">
 <link rel="schema.DCTERMS" href="http://dublincore.org/2005/06/13/dcq#">
+
+<script type="text/javascript" src="/template_code/js/fontSize.js"></script>
 
 <script type="text/javascript">
 <!--
@@ -54,49 +56,64 @@ function toggle_display(id, img) {
 // that hides clamshell items, and hence will display all items
 document.write('<style type="text/css">');
 document.write('.hidden_menu { display: none; }');
+
+if(document.all) { //for IE browsers only
+    document.write('html div#container_div { width:expression(document.body.clientWidth < 784? "780px": "auto" ) }');
+}
+
 // Need to separate the close tag into two commands so it will be valid HTML4.01
 document.write('<');
 document.write('/style>');
+
 //-->
 </script><style type="text/css">.hidden_menu { display: none; }</style>
+
+
 
 <!-- InstanceBeginEditable name="head" -->
 <!-- Add extra CSS, JavaScript, etc in here -->
 <!-- InstanceEndEditable -->
 </head>
-<body>
-<a class="hidden" href="#content">Skip to content</a>
-
+<body onload="fontCookie();">
+	
 <div id="topbar">
 	<ul id="permanentmenu"> 
 		<li id="home">
-			<a href="/" title="Return to the Deakin home page">Deakin home</a>
+			<a href="#content" style="float:right;"><img src="/template_code/images/hidden.gif" height="1" border="0" width="1" alt="Skip to content"></a>
+			<a href="/" title="Return to the Deakin home page" accesskey="1">Deakin home</a>
 		</li>
 		<li id="contact-us">
-			<a href="/contact/" title="Provide feedback or submit an enquiry about Deakin University">Contact us</a>
-		</li>
-		<li id="directory" title="Directory of Deakin University staff">
-			<a href="/directory/">Directory of staff</a>
+							<a href="/contact/" title="Provide feedback or submit an enquiry about Deakin University" accesskey="2">Contact us</a>
+						</li>
+		<li id="directory">
+							<a href="/directory/" title="Directory of Deakin University staff" accesskey="3">Directory of staff</a>
+							
 		</li>
 		<li id="sitemap" title="">
-			<a href="/sitemap/">Site map</a>
+							<a href="/sitemap/" title="Site map" accesskey="4">Site map</a>
+							
 		</li>
 		<li id="index" title="Alphabetical listing of sites">
-			<a href="/a-z/">A-Z index</a>
+							<a href="/a-z/" accesskey="5">A-Z index</a>
+							
 		</li>
-		<li id="help">
-			<a href="/deakin-help/">Help</a>
-		</li>
+		<li id="help" title="Deakin University Help">
+							<a href="/deakin-help/" accesskey="6">Help</a>
+						</li>
 		<li id="portal" title="Deakin University portal for staff and students">
-			<a href="http://www.deakin.edu.au/deakinonline/portal/">Portal</a>
+							<a href="http://www.deakin.edu.au/deakinonline/portal/" accesskey="7">Portal</a>
+						</li>
+		<li>
+			<form id="search" action="http://www.google.com/u/deakin" method="GET">
+				<input type="hidden" name="sitesearch" value="deakin.edu.au">
+				<label for="searchbox" id="deakin_search_label" title="Search the Deakin University website">Search:</label>
+				<input id="searchbox" type="text" alt="search text" name="q" value=" " accesskey="8">
+				<input id="searchbutton" type="submit" value="Go">
+			</form>
 		</li>
 	</ul>
-	<form id="search" action="http://www.google.com/u/deakin" method="GET">
-		<input type="hidden" name="sitesearch" value="deakin.edu.au">
-		<label for="searchbox" style="display: none;">Search:</label>
-		<input id="searchbox" type="text" alt="search text" name="q" value=" ">
-		<input id="searchbutton" type="submit" value="Search">
-	</form>
+
+
 </div>
 
 <div id="topsection">
@@ -110,24 +127,31 @@ document.write('/style>');
 				<td>
 					<a href="/about/" title="Deakin">Deakin</a>
 				</td>
+				
 				<td>
 					<a href="/courses/" title="Courses">Courses</a>
 				</td>
+				
 				<td>
-					<a href="http://www.deakin.edu.au/teachlearn/" title="Teaching">Teaching</a>
+					<a href="http://www.deakin.edu.au/itl/" title="Teaching">Teaching</a>
 				</td>
+				
 				<td>
 					<a href="/research/" title="Research">Research</a>
 				</td>
+				
 				<td>
 					<a href="/campuses/" title="Campuses">Campuses</a>
 				</td>
+				
 				<td>
 					<a href="/educationtraining/" title="Deakin Prime">Deakin Prime</a>
 				</td>
+				
 				<td>
 					<a href="/online-offcampus/" title="Online and off-campus learning">Online and off-campus learning</a>
 				</td>
+				
 			</tr>
 		</tbody></table>
 	</div>
@@ -136,7 +160,7 @@ document.write('/style>');
 	<div id="verticalmenu">
 		<ul>
 			<li class="unindent">
-				<span class="heading"><a href='Javascript: toggle_display("menu", document.getElementById("image"));'>Information for</a></span>
+				<span class="heading">Information for</span>
 			</li>
 			<li class="unindent">
 				<a href="/visitors/" title="Visitors">Visitors</a>
@@ -181,8 +205,23 @@ document.write('/style>');
 	</div>
 	<div id="content">
 		<div id="pre_heading">
-			<a id="print_friendly" href="?print_friendly=true" title="Printer friendly view"><img src="/template_code/images/printer_friendly.gif" alt="Printer friendly view" title="Printer friendly view"> Printer friendly view</a>
+			<div id="tool_bar">
+				<script type="text/javascript">
+				<!--
+				document.write("<a href='javascript:fontSize(1)' title='Increase text size'>");
+				document.write("<img src='/template_code/images/text_increase.gif' alt='Increase text size' title='Increase text size' />");
+				// Need to separate the close tag into two commands so it will be valid HTML4.01
+				document.write("<");
+				document.write("/a>");
+				document.write("<a href='javascript:fontSize(0)' title='Decrease text size'>");
+				document.write("<img src='/template_code/images/text_decrease.gif' alt='Decrease text size' title='Decrease text size' />");
+				// Need to separate the close tag into two commands so it will be valid HTML4.01
+				document.write("<");
+				document.write("/a>");
+				-->
+				</script><a href="javascript:fontSize(1)" title="Increase text size"><img src="/template_code/images/text_increase.gif" alt="Increase text size" title="Increase text size"></a><a href="javascript:fontSize(0)" title="Decrease text size"><img src="/template_code/images/text_decrease.gif" alt="Decrease text size" title="Decrease text size"></a><a id="print_friendly" href="?print_friendly=true" title="Printer friendly view" accesskey="9"><img src="/template_code/images/printer_friendly.gif" alt="Printer friendly view" title="Printer friendly view"></a><a id="email_page" href="?email_page=true" title="Email this page"><img src="/template_code/images/email.gif" alt="Email this page" title="Email this page"></a>					
 			</div>
+		</div>
 <!-- ***********  C o n t e n t s   S t a r t  ************************ -->
 <!-- InstanceBeginEditable name="Page Content" -->
 <h1>Disclaimer</h1>
@@ -215,7 +254,7 @@ document.write('/style>');
 	an electronic copy, or print out a copy, of parts of this website solely
 	for your own information, research or study, but only if you: do not modify
 	the copy; and include the copyright notice "© Deakin University
-	2005" on the copy. You must not otherwise exercise the copyright in
+	2006" on the copy. You must not otherwise exercise the copyright in
 	the whole or any part of this website for any other purpose except as expressly
 	permitted by statute or with Deakin University's prior consent.
 </p> 
@@ -391,17 +430,18 @@ Privacy Act 2000 (VIC)</a></p>
 <!-- InstanceEndEditable --> 
 <!-- *************  C o n t e n t s   E n d  *************************** -->
 	</div>
-</div>
+</div> <!-- <div id="content" style="margin-left: 0;"> -->
 <div id="footer">
 	<span id="disclaimer">
-	<a href="/disclaimer/index.php#copyright" title="Copyright information">Copyright</a> 
+	<a href="/disclaimer/index.php#copyright" title="Copyright information" accesskey="0">Copyright</a> 
 	| <a href="/disclaimer/index.php" title="Disclaimer">Disclaimer</a> 
 	| <a href="/disclaimer/index.php#privacy" title="Information about Deakin University's privacy policy">Privacy</a> 
+	| <a href="/accessibility/index.php" title="Accessibility">Accessibility</a> 
+	| <a href="/glossary/index.php" title="Glossary">Glossary</a> 
 	| CRICOS Provider Code: 00113B (Vic)
 	</span>
-
-	<span id="date">
-		Page last updated: Wednesday 06 July 2005	</span>
+		<span id="date">
+			Page last updated: Wednesday 06 July 2005		</span>
 </div>
 
 
