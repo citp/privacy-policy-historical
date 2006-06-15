@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the axill.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230100740id_/http%3A//www.axill.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axill.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615032116id_/http%3A//www.axill.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Welcome to Axill.com
 
