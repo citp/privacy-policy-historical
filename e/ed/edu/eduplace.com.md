@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eduplace.com privacy policy that was archived on 2005-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051207032022id_/http%3A//www.hmco.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eduplace.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615205056id_/http%3A//www.hmco.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Houghton Mifflin Privacy Policy
 
@@ -46,9 +46,9 @@ Evanston, IL 60201
 Telephone Number: 847-869-2300 ext. 3929  
 E-mail Address: [annmarie_mcnamara@hmco.com](mailto:annmarie_mcnamara@hmco.com)
 
-Division: The Riverside Publishing Company  
+Division: Riverside Publishing Company  
 Name: Tracey Barrett  
-Title: Marketing Communications Manager  
+Title: Senior Director, Strategic Marketing  
 Address: 425 Spring Lake Drive  
 Itasca, IL 60143  
 Telephone Number: 630-467-7130  
@@ -76,13 +76,4 @@ Address: 222 Berkeley Street
 Boston, MA 02116  
 E-mail Address: [college_webmaster@hmco.com](mailto:college_webmaster@hmco.com)
 
-Division: Edusoft  
-Name: Brian K. Fawkes  
-Title: Marketing Communications Director  
-Address: 208 Utah Street  
-San Francisco, CA 94103  
-E-mail Address: [brian.fawkes@edusoft.com](mailto:brian.fawkes@edusoft.com)
-
-Riverside Publishing Company, Promissor, Inc., Cognitive Concepts, Inc., and Edusoft are wholly owned subsidiaries of Houghton Mifflin Company.  
-  
-
+Riverside Publishing Company and Cognitive Concepts, Inc. are wholly owned subsidiaries of Houghton Mifflin Company.
