@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the vocabulary.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211002011id_/http%3A//www.vocabulary.com/VUprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vocabulary.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615164551id_/http%3A//vocabulary.com/VUprivacy.html) for the most accurate reproduction.*
 
 # Vocabulary University Privacy Policy
 
-**Vocabulary University - Information & Privacy Policy **
+  
+  
+**Vocabulary University® - Information & Privacy Policy **
 
-Vocabulary University is committed to preserving the privacy and security of its participants. Information about visitors will not be sold or provided to third parties. Participants information is collected only to enhance the experience of the participant and subsequent participants. 
+Vocabulary University® is committed to preserving the privacy and security of its participants. Information about visitors will not be sold or provided to third parties. Participants information is collected only to enhance the experience of the participant and subsequent participants. 
 
 * **Information:**  
 Vocabulary University is strongly committed to preserving the privacy and security of its participants in our interactive products and services. In general, our service automatically gathers certain usage information like the numbers and frequency of visitors to WWW.VOCABULARY.COM and its areas, very much like television ratings that tell the networks how many people tuned in to a program. We only use such data in the aggregate. This collective data helps us determine how much our customers use parts of the site, so we can improve our site to assure that it is appealing as we can make it for as many of you as possible. 
@@ -28,6 +30,10 @@ Questions regarding the above statement should be directed to [Carey Cook](mailt
 
 * * *
 
-[[Home Page]](https://web.archive.org/web/20051211002011id_/http%3A//www.vocabulary.com/index.html) [[Word City]](https://web.archive.org/web/20051211002011id_/http%3A//www.vocabulary.com/wordcity.html) [[Content Matrix]](https://web.archive.org/web/20051211002011id_/http%3A//www.vocabulary.com/content.html) [[Lesson Plan Puzzles]](https://web.archive.org/web/20051211002011id_/http%3A//www.vocabulary.com/rsvp.html) [[Participating Schools]](https://web.archive.org/web/20051211002011id_/http%3A//www.vocabulary.com/VU_50states.html) [[Links to us]](https://web.archive.org/web/20051211002011id_/http%3A//www.vocabulary.com/VUlinks1298.html) [[About us]](https://web.archive.org/web/20051211002011id_/http%3A//www.vocabulary.com/VUaboutus.html)
+[[Home Page]](https://web.archive.org/web/20060615164551id_/http%3A//vocabulary.com/index.html) [[Root-a-Week]](https://web.archive.org/web/20060615164551id_/http%3A//vocabulary.com/weeklyroots.html) [[Word City]](https://web.archive.org/web/20060615164551id_/http%3A//vocabulary.com/wordcity.html) [[Mini-Lesson Plan Puzzles]](https://web.archive.org/web/20060615164551id_/http%3A//vocabulary.com/rsvp.html) [[Participating Schools]***](https://web.archive.org/web/20060615164551id_/http%3A//vocabulary.com/VU_50states.html)  
+[[39 Week Lesson Plan]](https://web.archive.org/web/20060615164551id_/http%3A//vocabulary.com/myvocabulary.html) [[Content Matrix]](https://web.archive.org/web/20060615164551id_/http%3A//vocabulary.com/content.html) [[Tell-a-Friend]](https://web.archive.org/web/20060615164551id_/http%3A//vocabulary.com/tell_friends.html) [[Links to us]](https://web.archive.org/web/20060615164551id_/http%3A//vocabulary.com/VUlinks1298.html) [[About us]](https://web.archive.org/web/20060615164551id_/http%3A//vocabulary.com/VUaboutus.html) [[Free Registration]](https://web.archive.org/web/20060615164551id_/http%3A//vocabulary.com/VUregistration.html)   
+*** If your school is not listed in our "Participating Schools" above, please give us your school's name, city and state/country. Thanks! 
 
-©2000 Vocabulary University®. All Rights Reserved.
+* * *
+
+******© 2006 Vocabulary University®. All Rights Reserved.**
