@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the entertainmentwise.com privacy policy that was archived on 2005-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051229232241id_/http%3A//www.entertainmentwise.com/info%3Fid%3D69) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the entertainmentwise.com privacy policy that was archived on 2006-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615032020id_/http%3A//entertainmentwise.com/info%3Fid%3D69) for the most accurate reproduction.-->
 
 <html><head>
 <title>Privacy Policy - Entertainment News, Reviews, Competitions - Entertainmentwise</title>
@@ -8,7 +8,7 @@
 <meta name="robots" content="index, follow">
 <meta name="revisit-after" content="1 days">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<link rel="stylesheet" href="style/stylesheet2005.css" type="text/css">
+<link rel="stylesheet" href="/style/stylesheet2005.css" type="text/css">
 <link rel="alternate" type="application/rss+xml" title="All Entertainmentwise News RSS" href="/rss/news.rss">
 <link rel="alternate" type="application/rss+xml" title="Celebrity News RSS" href="/rss/celebrity.rss">
 <link rel="alternate" type="application/rss+xml" title="Film News RSS" href="/rss/film.rss">
@@ -43,7 +43,68 @@ function MM_swapImage() { //v3.0
 //-->
 </script>
 </head>
-<body leftmargin="0" topmargin="0" marginheight="0" marginwidth="0" onload="MM_preloadImages('images/menu_frontpage02.gif','images/menu_news02.gif','images/menu_reviews02.gif','images/menu_comps02.gif','images/menu_shop02.gif')"><table border="0" cellspacing="0" cellpadding="0" width="750"> 
+<body leftmargin="0" topmargin="0" marginheight="0" marginwidth="0" onload="MM_preloadImages('/images/menu_frontpage02.gif','/images/menu_news02.gif','/images/menu_reviews02.gif','/images/menu_comps02.gif','/images/menu_shop02.gif')">
+
+<script type="text/javascript">
+var MarqueeString = "<a href='/news?id=18427'>Well it looks like for once, Renegabe actually had....</a><span style='font-size : 6pt; color: #666;'><em>-MIMI, ENGLAND&nbsp;&nbsp;&nbsp;&nbsp;</em></span><a href='/news?id=18332'>Actually, Marylin had a ton of problems, both phys....</a><span style='font-size : 6pt; color: #666;'><em>-MIMI, ENGLAND&nbsp;&nbsp;&nbsp;&nbsp;</em></span><a href='/news?id=17862'>Dearie me, for once I agree with Renegabe! Joe & J....</a><span style='font-size : 6pt; color: #666;'><em>-MIMI, ENGLAND&nbsp;&nbsp;&nbsp;&nbsp;</em></span><a href='/news?id=18427'>Team Hannah Forever!....</a><span style='font-size : 6pt; color: #666;'><em>-MICHAEL BASILE, NEW YORK&nbsp;&nbsp;&nbsp;&nbsp;</em></span><a href='/news?id=18410'>The Priory is like Butlins for these people.  If h....</a><span style='font-size : 6pt; color: #666;'><em>-DEVILS ADVOCATE, UK&nbsp;&nbsp;&nbsp;&nbsp;</em></span><a href='/news?id=18332'>If I was a 75 year old gnarly movie studio bosswit....</a><span style='font-size : 6pt; color: #666;'><em>-RENEGABE , WASHINGTON, DC&nbsp;&nbsp;&nbsp;&nbsp;</em></span><a href='/news?id=18382'>I’d be f**king depressed as well if I was Robbie W....</a><span style='font-size : 6pt; color: #666;'><em>-DEVILS ADVOCATE, UK&nbsp;&nbsp;&nbsp;&nbsp;</em></span><a href='/news?id=18347'>Charlotte Church is a pig who can sing. I met her ....</a><span style='font-size : 6pt; color: #666;'><em>-RENEGABE , WASHINGTON, DC&nbsp;&nbsp;&nbsp;&nbsp;</em></span><a href='/news?id=18368'>Once again, Renegabe misses the mark completely an....</a><span style='font-size : 6pt; color: #666;'><em>-MIMI, ENGLAND&nbsp;&nbsp;&nbsp;&nbsp;</em></span><a href='/news?id=18399'>Yeah the golden ticket loterry ticket was defnitel....</a><span style='font-size : 6pt; color: #666;'><em>-ALI HASSAN, BIRMINGHAM&nbsp;&nbsp;&nbsp;&nbsp;</em></span>";
+
+var TickerType = 'news';
+
+function regenerate(){
+	window.location.reload();
+}
+
+function regenerate2(){
+	if (document.layers){
+		setTimeout("window.onresize=regenerate",450);
+		intializemarquee();
+		}
+}
+function intializemarquee(){
+	document.ticker.document.cmarquee01.document.cmarquee02.document.write('<nobr>' + marqueecontents + '</nobr>');
+	document.ticker.document.cmarquee01.document.cmarquee02.document.close();
+	thelength=document.ticker.document.cmarquee01.document.cmarquee02.document.width;
+	scrollit();
+}
+function scrollit(){
+	if (document.ticker.document.cmarquee01.document.cmarquee02.left>=thelength*(-1)){
+		document.ticker.document.cmarquee01.document.cmarquee02.left-=speed;
+		setTimeout("scrollit()",100);
+	}else{
+		document.ticker.document.cmarquee01.document.cmarquee02.left=marqueewidth;
+		scrollit();
+	}
+}
+function stopit() {
+	document.all.tickerMarquee.stop();
+}
+
+function playit() {
+	document.all.tickerMarquee.start();
+}
+
+
+var marqueewidth = 250;
+
+var marqueeheight = 20;
+
+var speed = 3;
+IE4 = (document.all);
+if (IE4) {
+	var TickerString = '<span style=\"text-decoration: none; color: white; font-size: 8pt; font-weight: bold; font-family: Arial;\">';
+} else {
+	var TickerString = '<span style=\"font-size: 9pt; font-weight: bold; font-family: Arial;\">';
+}
+var marqueecontents = TickerString + MarqueeString + '</span>';
+if (document.all) {
+	document.write('<strong><font color="#000000" size=1 face="Geneva, Arial, Helvetica, san-serif">YOUR SHOUTS:</font></strong><marquee WIDTH="800" onmouseover="stopit()" onmouseout="playit()" id="tickerMarquee" scrollAmount=' + speed + '>' + marqueecontents + '</marquee>');
+}
+
+</script>
+<ilayer width="250" height="20" name="shoutouts1">
+<layer name="shoutouts2" top="2"></layer>
+</ilayer>
+<table border="0" cellspacing="0" cellpadding="0" width="750"> 
 <tbody><tr bgcolor="#FFFFFF">
   <td valign="top"> 
     <!-- ============================ HEADER ============================= -->
@@ -56,36 +117,36 @@ function MM_swapImage() { //v3.0
 			  <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
                     <td width="118"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="113" height="68">
-                        <param name="movie" value="entlogo_xmas.swf">
+                        <param name="movie" value="/entlogo.swf">
                         <param name="quality" value="high">
-                        <embed src="entlogo_xmas.swf" quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="113" height="68">
+                        <embed src="/entlogo.swf" quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="113" height="68">
                          
-                      </object><img src="images/blank.gif" width="5" height="1"></td>
+                      </object><img src="/images/blank.gif" width="5" height="1"></td>
                     <td> 
                       <!-- ================ MAILING LIST /SEARCH TABLE ============= -->
                       <div align="center">
                       <table width="100%" border="0" cellspacing="0" cellpadding="0">
                         <tbody><tr>
-                          <td colspan="2"><img src="images/blank.gif" width="5" height="3"><br>
-                              <img src="images/mailing_list.gif" width="113" height="11" alt="Join our mailing list"></td>
+                          <td colspan="2"><img src="/images/blank.gif" width="5" height="3"><br>
+                              <img src="/images/mailing_list.gif" width="113" height="11" alt="Join our mailing list"></td>
                         </tr>
                         <tr>
-                        <form name="frmSignUp" action="signup" method="get"></form>
+                        <form name="frmSignUp" action="/signup" method="get"></form>
               <td>
 				<input type="text" style="background-color: #EEEEEE; border: 1; border-style: solid; border-color: black; font-size: 7pt; font-family: verdana; color: #000000;" name="email" size="15" maxlength="50" value="Email address" onfocus="if(this.value=='Email address')this.value=''">
               </td>
-              <td width="100">&nbsp;<input type="image" src="images/butt_join.gif" name="Submit" value="Enter email address to get newsletter!" width="36" height="16">
+              <td width="100">&nbsp;<input type="image" src="/images/butt_join.gif" name="Submit" value="Enter email address to get newsletter!" width="36" height="16">
 		
           </td>
                         </tr>
 				<tr>
-                            <td colspan="2"><img src="images/search.gif" width="113" height="11" alt="Search the site!"></td>
+                            <td colspan="2"><img src="/images/search.gif" width="113" height="11" alt="Search the site!"></td>
                         </tr>
                         <tr>
-                        <form name="frmSearch" action="search" method="get"></form>
+                        <form name="frmSearch" action="/search" method="get"></form>
       <td>
           <input type="text" style="background-color: #EEEEEE; border: 1; border-style: solid; border-color: black; font-size: 7pt; font-family: verdana; color: #000000;" name="p" size="15" maxlength="50" value="">
-		  </td><td width="100%">&nbsp;<input name="search" type="image" class="cmd" src="images/butt_go.gif" align="middle" width="36" height="16">
+		  </td><td width="100%">&nbsp;<input name="search" type="image" class="cmd" src="/images/butt_go.gif" align="middle" width="36" height="16">
       </td>
      
   		<input type="hidden" name="c" value="All">
@@ -103,7 +164,7 @@ function MM_swapImage() { //v3.0
                   <!-- ========= BANNER TABLE ================== -->
                   <table width="100%" border="0" cellspacing="0" cellpadding="0">
                     <tbody><tr> 
-                      <td><img src="images/blank.gif" width="473" height="5"></td>
+                      <td><img src="/images/blank.gif" width="473" height="5"></td>
                     </tr>
                     <tr> 
                       <td> 
@@ -111,28 +172,28 @@ function MM_swapImage() { //v3.0
                           <script language="javascript"><!--
 document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|338|1030333|0|1|ADTECH;loc=100;target=_blank;grp=[group];misc='+new Date().getTime()+'"></scri'+'pt>');
 //-->
-</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|338|1030333|0|1|ADTECH;loc=100;target=_blank;grp=[group];misc=1582142845939"></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|338|1030333|0|1|ADTECH;loc=300;grp=[group]" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|338|1030333|0|1|ADTECH;loc=300;grp=[group]" border="0" width="468" height="60"/></a></noscript>
+</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|338|1030333|0|1|ADTECH;loc=100;target=_blank;grp=[group];misc=1582142844615"></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|338|1030333|0|1|ADTECH;loc=300;grp=[group]" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|338|1030333|0|1|ADTECH;loc=300;grp=[group]" border="0" width="468" height="60"/></a></noscript>
                         </div>
                       </td>
                     </tr>
                     <tr> 
-                      <td><img src="images/blank.gif" width="5" height="5"></td>
+                      <td><img src="/images/blank.gif" width="5" height="5"></td>
                     </tr>
                   </tbody></table>
                   <!-- ========= END BANNER TABLE ================== -->
                 </div></td>
             </tr>
             <tr bgcolor="#FFFFFF"> 
-              <td colspan="2"><img src="images/blank.gif" width="5" height="2"></td>
+              <td colspan="2"><img src="/images/blank.gif" width="5" height="2"></td>
             </tr>
           </tbody></table></td>
       </tr>
     </tbody></table>
     <!-- ============================ END HEADER ============================= -->   <!-- ============================ MENU ============================= -->
-    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr>
           
-    <td background="images/menu_end.gif"><a href="/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('frontpage','','images/menu_frontpage02.gif',1)"><img src="images/menu_frontpage01.gif" width="83" height="17" alt="FRONT PAGE" name="frontpage" border="0"></a><a href="news" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('news','','images/menu_news02.gif',1)"><img src="images/menu_news01.gif" width="44" height="17" alt="NEWS" name="news" border="0"></a><a href="reviews" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('reviews','','images/menu_reviews02.gif',1)"><img src="images/menu_reviews01.gif" width="61" height="17" alt="REVIEWS" name="reviews" border="0"></a><a href="competition" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('comps','','images/menu_comps02.gif',1)"><img src="images/menu_comps01.gif" width="50" height="17" alt="COMPETITIONS" name="comps" border="0"></a><a href="http://www.entertainmentwise.com/forum/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('forum','','/images/menu_forum02.gif',0)" target="_blank"><img src="/images/menu_forum01.gif" width="51" height="17" name="forum" border="0" alt="FORUM"></a><a href="shopping" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('shops','','images/menu_shop02.gif',1)"><img src="images/menu_shop01.gif" width="40" height="17" alt="SHOP" name="shops" border="0"></a></td>
+    <td background="/images/menu_end.gif"><a href="/index" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('frontpage','','/images/menu_frontpage02.gif',1)"><img src="/images/menu_frontpage01.gif" width="83" height="17" alt="FRONT PAGE" name="frontpage" border="0"></a><a href="/news" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('news','','/images/menu_news02.gif',1)"><img src="/images/menu_news01.gif" width="44" height="17" alt="NEWS" name="news" border="0"></a><a href="/films" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('film','','../images/menu_fim02.gif',1)"><img src="/images/menu_fim01.gif" width="38" height="17" name="film" alt="FILM" border="0"></a><a href="/music" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('music','','../images/menu_music02.gif',1)"><img src="/images/menu_music01.gif" width="46" height="17" name="music" alt="MUSIC" border="0"></a><a href="/galleries" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('galleries','','../images/menu_galleries02.gif',1)"><img src="/images/menu_galleries01.gif" width="70" height="17" name="galleries" alt="GALLERIES" border="0"></a><a href="/horoscopes" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('horoscopes','','../images/menu_horoscopes02.gif',1)"><img src="/images/menu_horoscopes01.gif" width="85" height="17" name="horoscopes" alt="HOROSCOPES" border="0"></a><a href="/competition" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('comps','','../images/menu_comps02.gif',1)"><img src="/images/menu_comps01.gif" width="51" height="17" name="comps" alt="COMPETITIONS" border="0"></a><a href="/community" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('community','','../images/menu_community02.gif',1)"><img src="/images/menu_community01.gif" width="80" height="17" name="community" alt="COMMUNITY" border="0"></a><a href="/shopping" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('shop','','../images/menu_shop02.gif',1)"><img src="/images/menu_shop01.gif" width="42" height="17" name="shop" alt="SHOP" border="0"></a><img src="../images/menu_end_new.gif" width="211" height="17"></td>
         </tr></tbody></table>
    <!-- ============================ END MENU ============================= -->	
   <!-- ============================ MID TABLE ============================= -->
@@ -174,15 +235,15 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
           </td>
           <td valign="top" background="images/bg_fade_right.gif"><img src="images/blank.gif" width="1" height="5"><br>
 					 <!-- ======================== ROLLOVERS ========================= -->
-         <!--   <script language="Javascript" src="js/rollover.js"></script> -->
+         <!--   <script language="Javascript" src="/js/rollover.js"></script> -->
 	<table width="275" border="0" cellspacing="0" cellpadding="0" align="center">
               <tbody><tr>
-                <td><img id="imgnews1" onmouseover="ShowDiv('news',1,2);" src="images/tab_latest_in.gif" width="90" height="14"></td>
-                <td><img id="imgnews2" onmouseover="ShowDiv('news',2,2);" src="images/tab_related_out.gif" width="115" height="14"></td>
-                <td><img src="images/blank.gif" width="70" height="14"></td>
+                <td><img id="imgnews1" onmouseover="ShowDiv('news',1,2);" src="/images/tab_latest_in.gif" width="90" height="14"></td>
+                <td><img id="imgnews2" onmouseover="ShowDiv('news',2,2);" src="/images/tab_related_out.gif" width="115" height="14"></td>
+                <td><img src="/images/blank.gif" width="70" height="14"></td>
   </tr>
   <tr>
-                <td colspan="3"><img src="images/tab_bott.gif" width="275" height="3"></td>
+                <td colspan="3"><img src="/images/tab_bott.gif" width="275" height="3"></td>
   </tr>
 </tbody></table>
 			  
@@ -190,46 +251,45 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
 		      <tbody><tr>
                 <td valign="top"> 
                   <!-- ============ LAYER 1 LATEST ==================== -->
- <img src="images/blank.gif" width="1" height="5"><br>
+ <img src="/images/blank.gif" width="1" height="5"><br>
       <div id="newsdrawdiv" style="visibility: visible; position: relative; top: 0px; z-index: 1;"> 
         <table width="280" border="0" cellspacing="0" cellpadding="2" align="center">
           
           <tbody><tr> 
-            <td valign="top"><img src="images/bullet_news.gif" width="8" height="7" vspace="2" hspace="3"></td>
-            <td><a href="news?id=12024">Tom Cruise Voted Most Irritating Actor<br>
-              <font size="1">Of all time...</font> </a><br> <img src="images/blank.gif" width="1" height="2"></td>
+            <td valign="top"><img src="/images/bullet_news.gif" width="8" height="7" vspace="2" hspace="3"></td>
+            <td><a href="/news?id=18441">The Mrs Robinson Girls Are Coming To Entertainmentwise!<br>
+              <font size="1">To answer your questions...</font> </a><br> <img src="/images/blank.gif" width="1" height="2"></td>
           </tr>
           
           <tr> 
-            <td valign="top"><img src="images/bullet_news.gif" width="8" height="7" vspace="2" hspace="3"></td>
-            <td><a href="news?id=12023">Jennifer Lopez Gets Back Wedding Video<br>
-              <font size="1">After extortionists are arrested...</font> </a><br> <img src="images/blank.gif" width="1" height="2"></td>
+            <td valign="top"><img src="/images/bullet_news.gif" width="8" height="7" vspace="2" hspace="3"></td>
+            <td><a href="/news?id=18439">Big Brother's Lea Admits She Fancies Pete<br>
+              <font size="1">Is she kidding?...</font> </a><br> <img src="/images/blank.gif" width="1" height="2"></td>
           </tr>
           
           <tr> 
-            <td valign="top"><img src="images/bullet_news.gif" width="8" height="7" vspace="2" hspace="3"></td>
-            <td><a href="news?id=12022">Steven Spielberg To Remake 'Mary Poppins'<br>
-              <font size="1">After stage version goes down well...</font> </a><br> <img src="images/blank.gif" width="1" height="2"></td>
+            <td valign="top"><img src="/images/bullet_news.gif" width="8" height="7" vspace="2" hspace="3"></td>
+            <td><a href="/news?id=18436">Dem Franchize Boys Arrested In Drugs Raid<br>
+              <font size="1">In an Atlanta studio...</font> </a><br> <img src="/images/blank.gif" width="1" height="2"></td>
           </tr>
           
           <tr> 
-            <td valign="top"><img src="images/bullet_news.gif" width="8" height="7" vspace="2" hspace="3"></td>
-            <td><a href="news?id=12021">Jessica Simpson Buys New £3million Home<br>
-              <font size="1">Away from Nick Lachey...</font> </a><br> <img src="images/blank.gif" width="1" height="2"></td>
+            <td valign="top"><img src="/images/bullet_news.gif" width="8" height="7" vspace="2" hspace="3"></td>
+            <td><a href="/news?id=18435">Chris Pine Talks Lindsay Lohan, Movies and Luck<br>
+              <font size="1">In a new interview...</font> </a><br> <img src="/images/blank.gif" width="1" height="2"></td>
           </tr>
           
           <tr> 
-            <td valign="top"><img src="images/bullet_news.gif" width="8" height="7" vspace="2" hspace="3"></td>
-            <td><a href="news?id=12015">Victoria Beckham Turns Down The X Factor<br>
-              <font size="1">She ain't interested...</font> </a><br> <img src="images/blank.gif" width="1" height="2"></td>
+            <td valign="top"><img src="/images/bullet_news.gif" width="8" height="7" vspace="2" hspace="3"></td>
+            <td><a href="/news?id=18433">Big Brother's Nikki And Richard Quite Like Each Other<br>
+              <font size="1">They have discovered...</font> </a><br> <img src="/images/blank.gif" width="1" height="2"></td>
           </tr>
           
           <tr> 
-            <td valign="top" colspan="2"><b><a href="news">ALL NEWS</a></b><img src="images/bullet_news.gif" width="8" height="7" vspace="1" hspace="3"> 
+            <td valign="top" colspan="2"><b><a href="/news">ALL NEWS</a></b><img src="/images/bullet_news.gif" width="8" height="7" vspace="1" hspace="3"> 
               <!-- ALL RELATED ARTICLES only show when there are more than 5 related news -->
-               <br> <b><a href="/info?ct=14">ALL 
-              SITE INFO</a></b><img src="images/bullet_news.gif" width="8" height="7" vspace="1" hspace="3"> 
-               </td>
+               <br> <b><a href="http://www.entertainmentwise.com/info?ct=14">ALL 
+              SITE INFO</a></b><img src="/images/bullet_news.gif" width="8" height="7" vspace="1" hspace="3">  </td>
           </tr>
         </tbody></table>
       </div>
@@ -238,40 +298,40 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
         <table width="280" border="0" cellspacing="0" cellpadding="2" align="center">
 
           <tbody><tr> 
-            <td valign="top"><img src="images/bullet_news.gif" width="8" height="7" vspace="2" hspace="3"></td>
-            <td><a href="news?id=12024">Tom Cruise Voted Most Irritating Actor<br>
-              <font size="1">Of all time...</font> </a><br> <img src="images/blank.gif" width="1" height="2"></td>
+            <td valign="top"><img src="/images/bullet_news.gif" width="8" height="7" vspace="2" hspace="3"></td>
+            <td><a href="/news?id=18441">The Mrs Robinson Girls Are Coming To Entertainmentwise!<br>
+              <font size="1">To answer your questions...</font> </a><br> <img src="/images/blank.gif" width="1" height="2"></td>
           </tr>
 
           <tr> 
-            <td valign="top"><img src="images/bullet_news.gif" width="8" height="7" vspace="2" hspace="3"></td>
-            <td><a href="news?id=12023">Jennifer Lopez Gets Back Wedding Video<br>
-              <font size="1">After extortionists are arrested...</font> </a><br> <img src="images/blank.gif" width="1" height="2"></td>
+            <td valign="top"><img src="/images/bullet_news.gif" width="8" height="7" vspace="2" hspace="3"></td>
+            <td><a href="/news?id=18439">Big Brother's Lea Admits She Fancies Pete<br>
+              <font size="1">Is she kidding?...</font> </a><br> <img src="/images/blank.gif" width="1" height="2"></td>
           </tr>
 
           <tr> 
-            <td valign="top"><img src="images/bullet_news.gif" width="8" height="7" vspace="2" hspace="3"></td>
-            <td><a href="news?id=12022">Steven Spielberg To Remake 'Mary Poppins'<br>
-              <font size="1">After stage version goes down well...</font> </a><br> <img src="images/blank.gif" width="1" height="2"></td>
+            <td valign="top"><img src="/images/bullet_news.gif" width="8" height="7" vspace="2" hspace="3"></td>
+            <td><a href="/news?id=18436">Dem Franchize Boys Arrested In Drugs Raid<br>
+              <font size="1">In an Atlanta studio...</font> </a><br> <img src="/images/blank.gif" width="1" height="2"></td>
           </tr>
 
           <tr> 
-            <td valign="top"><img src="images/bullet_news.gif" width="8" height="7" vspace="2" hspace="3"></td>
-            <td><a href="news?id=12021">Jessica Simpson Buys New £3million Home<br>
-              <font size="1">Away from Nick Lachey...</font> </a><br> <img src="images/blank.gif" width="1" height="2"></td>
+            <td valign="top"><img src="/images/bullet_news.gif" width="8" height="7" vspace="2" hspace="3"></td>
+            <td><a href="/news?id=18435">Chris Pine Talks Lindsay Lohan, Movies and Luck<br>
+              <font size="1">In a new interview...</font> </a><br> <img src="/images/blank.gif" width="1" height="2"></td>
           </tr>
 
           <tr> 
-            <td valign="top"><img src="images/bullet_news.gif" width="8" height="7" vspace="2" hspace="3"></td>
-            <td><a href="news?id=12015">Victoria Beckham Turns Down The X Factor<br>
-              <font size="1">She ain't interested...</font> </a><br> <img src="images/blank.gif" width="1" height="2"></td>
+            <td valign="top"><img src="/images/bullet_news.gif" width="8" height="7" vspace="2" hspace="3"></td>
+            <td><a href="/news?id=18433">Big Brother's Nikki And Richard Quite Like Each Other<br>
+              <font size="1">They have discovered...</font> </a><br> <img src="/images/blank.gif" width="1" height="2"></td>
           </tr>
 
           <tr> 
-            <td valign="top" colspan="2"><b><a href="news">ALL NEWS</a></b><img src="images/bullet_news.gif" width="8" height="7" vspace="1" hspace="3"> 
+            <td valign="top" colspan="2"><b><a href="/news">ALL NEWS</a></b><img src="/images/bullet_news.gif" width="8" height="7" vspace="1" hspace="3"> 
               <!-- ALL RELATED ARTICLES only show when there are more than 5 related news -->
-               <br> <b><a href="/info?ct=14">ALL 
-              SITE INFO</a></b><img src="images/bullet_news.gif" width="8" height="7" vspace="1" hspace="3"> 
+               <br> <b><a href="http://www.entertainmentwise.com/info?ct=14">ALL 
+              SITE INFO</a></b><img src="/images/bullet_news.gif" width="8" height="7" vspace="1" hspace="3"> 
                </td>
           </tr>
         </tbody></table>
@@ -281,28 +341,27 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
       <table width="280" border="0" cellspacing="0" cellpadding="2" align="center">
 
 			  <tbody><tr> 
-                <td valign="top"><img src="images/bullet_news.gif" width="8" height="7" vspace="2" hspace="3"></td>
-                <td><b>NO RELATED STORIES</b><br><img src="images/blank.gif" width="1" height="2"></td>
+                <td valign="top"><img src="/images/bullet_news.gif" width="8" height="7" vspace="2" hspace="3"></td>
+                <td><b>NO RELATED STORIES</b><br><img src="/images/blank.gif" width="1" height="2"></td>
               </tr>
 
               <tr> 
                 <td valign="top" colspan="2">
-			  <b><a href="search?p=&amp;c=All&amp;t=Both">MORE  ARTICLES</a></b><img src="images/bullet_news.gif" width="8" height="7" vspace="1" hspace="3"> 
-               <br> <b><a href="/info?ct=14">ALL 
-              SITE INFO</a></b><img src="images/bullet_news.gif" width="8" height="7" vspace="1" hspace="3"> 
-              
+			  <b><a href="/search?p=&amp;c=All&amp;t=Both">MORE  ARTICLES</a></b><img src="/images/bullet_news.gif" width="8" height="7" vspace="1" hspace="3"> 
+               <br> <b><a href="http://www.entertainmentwise.com/info?ct=14">ALL 
+              SITE INFO</a></b><img src="/images/bullet_news.gif" width="8" height="7" vspace="1" hspace="3"> 
                 </td>
               </tr>
-            </tbody></table>
+          </tbody></table>
 		</div>
 
-                  </td></tr></tbody></table>
+                </td></tr></tbody></table>
             <!-- ========================= END ROLLOVERS ========================== --><br><br>
 					<table width="100%" border="0" cellspacing="0" cellpadding="2"><tbody><tr><td> 
 <script language="javascript"><!--
 document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|338|1030332|0|170|ADTECH;loc=100;target=_blank;grp=[group];misc='+new Date().getTime()+'"></scri'+'pt>');
 //-->
-</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|338|1030332|0|170|ADTECH;loc=100;target=_blank;grp=[group];misc=1582142845995"></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|338|1030332|0|170|ADTECH;loc=300;grp=[group]" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|338|1030332|0|170|ADTECH;loc=300;grp=[group]" border="0" width="300" height="250"></a></noscript>
+</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|338|1030332|0|170|ADTECH;loc=100;target=_blank;grp=[group];misc=1582142844658"></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|338|1030332|0|170|ADTECH;loc=300;grp=[group]" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|338|1030332|0|170|ADTECH;loc=300;grp=[group]" border="0" width="300" height="250"></a></noscript>
 </td></tr></tbody></table>
 
 <br><br>
@@ -315,44 +374,39 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
           <td width="446" valign="top" background="images/bg_bottrow.gif"> 
              <!-- ======================== ROLLOVERS ========================= -->
             <br>
-            <script language="Javascript" src="js/rollover.js"></script>
+            <script language="Javascript" src="../js/rollover.js"></script>
             <table border="0" cellpadding="0" cellspacing="0" align="center">
               <tbody> 
               <tr> 
                 
-    <td><a href="news?ct=8"><img id="imggalleries1" onmouseover="ShowDiv('galleries',1,6);" src="images/front_tab_celebs_in.gif" width="71" height="18" border="0"></a></td>
+    <td><a href="/news?ct=8"><img id="imggalleries1" onmouseover="ShowDiv('galleries',1,5);" src="/images/front_tab_celebs2_in.gif" width="94" height="18" border="0"></a></td>
                 
-    <td><img src="images/front_tab_spacer.gif" width="1" height="18"><a href="news?ct=9"><img id="imggalleries2" onmouseover="ShowDiv('galleries',2,6);" src="images/front_tab_tv_out.gif" border="0" width="39" height="18"></a></td>
+    <td><a href="/news?ct=9"><img id="imggalleries2" onmouseover="ShowDiv('galleries',2,5);" src="/images/front_tab_tv2_out.gif" border="0" width="64" height="18"></a></td>
                 
-    <td><img src="images/front_tab_spacer.gif" width="1" height="18"><a href="news?ct=7"><img id="imggalleries3" onmouseover="ShowDiv('galleries',3,6);" src="images/front_tab_film_out.gif" width="50" height="18" border="0"></a></td>
-                
-    <td><img src="images/front_tab_spacer.gif" width="1" height="18"><a href="news?ct=20"><img id="imggalleries4" onmouseover="ShowDiv('galleries',4,6);" src="images/front_tab_games_out.gif" width="134" height="18" border="0"></a></td>
-                
-    <td><img src="images/front_tab_spacer.gif" width="1" height="18"><a href="news?ct=11"><img id="imggalleries5" onmouseover="ShowDiv('galleries',5,6);" src="images/front_tab_sport_out.gif" width="60" height="18" border="0"></a></td>
-                
-    <td><img src="images/front_tab_spacer.gif" width="1" height="18"><a href="news?ct=3"><img id="imggalleries6" onmouseover="ShowDiv('galleries',6,6);" src="images/front_tab_music_out.gif" width="66" height="18" border="0"></a></td>
-              </tr><tr bgcolor="#009900"> 
-                
-      <td colspan="6"><img src="images/front_tab_base.gif" width="425" height="4"></td>
+    <td><a href="/news?ct=7"><img id="imggalleries3" onmouseover="ShowDiv('galleries',3,5);" src="/images/front_tab_film2_out.gif" width="74" height="18" border="0"></a></td>
+    <td><a href="/news?ct=3"><img id="imggalleries4" onmouseover="ShowDiv('galleries',4,5);" src="/images/front_tab_music2_out.gif" width="85" height="18" border="0"></a></td>           
+    <td><a href="/news?ct=20"><img id="imggalleries5" onmouseover="ShowDiv('galleries',5,5);" src="/images/front_tab_otherstuff2_out.gif" width="109" height="18" border="0"></a></td>         
+              </tr><tr>       
+      <td colspan="5"><img src="/images/front_tab_base.gif" width="426" height="4"></td>
               </tr>
               <tr> 
-                <td colspan="6"><img src="images/blank.gif" height="10" width="1"></td>
+                <td colspan="5"><img src="/images/blank.gif" height="10" width="1"></td>
               </tr>
               <tr>
-                <td colspan="6" valign="top"> 
+                <td colspan="5" valign="top"> 
                   <!-- ============ LAYER 1 CELEBS ==================== -->
 
 				  <div id="galleriesdrawdiv" style="visibility: visible; position: relative; top: 0px; z-index: 1;"> 
                     <table border="0" cellpadding="5" cellspacing="0" width="415">
                         <tbody><tr> 
                           
-            <td valign="top" width="54"><a href="news?id=12023"><img src="/artists/00004774_B00005UV6K.cropped02.LZZZZZ.jpg" width="50" height="50" border="0"></a></td>
-                          <td valign="top"><a href="news?id=12023"><b><font size="3">Jennifer Lopez Gets Back Wedding Video</font></b><br>
-                            <font size="1">After extortionists are arrested...</font></a></td>
+            <td valign="top" width="54"><a href="/news?id=18427"><img src="artists/00009851_daryl_hannah01_800.jpg" width="50" height="50" border="0"></a></td>
+                          <td valign="top"><a href="/news?id=18427"><b><font size="3">Daryl Hannah Speaks Out From Jail Cell</font></b><br>
+                            <font size="1">After her environmentally charged arrest....</font></a></td>
                         </tr>
                       <tr> 
-                        <td colspan="2"><b><a href="news?ct=8">ALL CELEB NEWS</a></b> 
-                          <img src="images/bullet_reviews.gif" width="8" height="7" vspace="1" hspace="2"></td>
+                        <td colspan="2"><b><a href="/news?ct=8">ALL CELEB NEWS</a></b> 
+                          <img src="/images/bullet_reviews.gif" width="8" height="7" vspace="1" hspace="2"></td>
                       </tr>
                     </tbody></table>
                   </div>
@@ -361,13 +415,13 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
                   <div style="visibility: hidden; position: absolute; top: 0px; z-index: 1;" id="galleries1"> 
                     <table border="0" cellpadding="5" cellspacing="0" width="415">
                         <tbody><tr> 
-                          <td valign="top" width="54"><a href="news?id=12023"><img src="/artists/00004774_B00005UV6K.cropped02.LZZZZZ.jpg" width="50" height="50"></a></td>
-                          <td valign="top"><a href="news?id=12023"><b><font size="3">Jennifer Lopez Gets Back Wedding Video</font></b><br>
-                            <font size="1">After extortionists are arrested...</font></a></td>
+                          <td valign="top" width="54"><a href="/news?id=18427"><img src="artists/00009851_daryl_hannah01_800.jpg" width="50" height="50"></a></td>
+                          <td valign="top"><a href="/news?id=18427"><b><font size="3">Daryl Hannah Speaks Out From Jail Cell</font></b><br>
+                            <font size="1">After her environmentally charged arrest....</font></a></td>
                         </tr>
                       <tr> 
-                        <td colspan="2"><b><a href="news?ct=8">ALL CELEB NEWS</a></b> 
-                          <img src="images/bullet_reviews.gif" width="8" height="7" vspace="1" hspace="2"></td>
+                        <td colspan="2"><b><a href="/news?ct=8">ALL CELEB NEWS</a></b> 
+                          <img src="/images/bullet_reviews.gif" width="8" height="7" vspace="1" hspace="2"></td>
                       </tr>
                     </tbody></table>
                   </div>
@@ -376,12 +430,12 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
                   <div style="visibility: hidden; position: absolute; top: 0px; z-index: 2;" id="galleries2"> 
                     <table border="0" cellpadding="5" cellspacing="0" width="415">
                         <tbody><tr> 
-                          <td valign="top" width="54"><a href="news?id=12015"><img src="/artists/00004769_victoria beckham.jpg" width="50" height="50"></a></td>
-                          <td valign="top"><a href="news?id=12015"><b><font size="3">Victoria Beckham Turns Down The X Factor</font></b><br>
-                            <font size="1">She ain't interested...</font></a></td>
+                          <td valign="top" width="54"><a href="/news?id=18439"><img src="/artists/00009881_BB7-eye-logo-large.jpg" width="50" height="50"></a></td>
+                          <td valign="top"><a href="/news?id=18439"><b><font size="3">Big Brother's Lea Admits She Fancies Pete</font></b><br>
+                            <font size="1">Is she kidding?...</font></a></td>
                         </tr>
                       <tr> 
-                        <td colspan="2"><b><a href="news?ct=9">ALL TV NEWS</a></b> <img src="images/bullet_reviews.gif" width="8" height="7" vspace="1" hspace="2"></td>
+                        <td colspan="2"><b><a href="/news?ct=9">ALL TV NEWS</a></b> <img src="/images/bullet_reviews.gif" width="8" height="7" vspace="1" hspace="2"></td>
                       </tr>
                     </tbody></table>
                   </div>
@@ -391,58 +445,43 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
                   <div style="visibility: hidden; position: absolute; top: 0px; z-index: 3;" id="galleries3"> 
                     <table border="0" cellpadding="5" cellspacing="0" width="415">
                         <tbody><tr> 
-                          <td valign="top" width="54"><a href="news?id=12024"><img src="/artists/00004775_tom cruise.jpg" width="50" height="50"></a></td>
-                          <td valign="top"><a href="news?id=12024"><b><font size="3">Tom Cruise Voted Most Irritating Actor</font></b><br>
-                            <font size="1">Of all time...</font></a></td>
+                          <td valign="top" width="54"><a href="/news?id=18435"><img src="/artists/00009876_justmyluck.jpg" width="50" height="50"></a></td>
+                          <td valign="top"><a href="news?id=18435"><b><font size="3">Chris Pine Talks Lindsay Lohan, Movies and Luck</font></b><br>
+                            <font size="1">In a new interview...</font></a></td>
                         </tr>
                       <tr> 
-                        <td colspan="2"><b><a href="news?ct=7">ALL FILM NEWS</a></b> <img src="images/bullet_reviews.gif" width="8" height="7" vspace="1" hspace="2"></td>
+                        <td colspan="2"><b><a href="/news?ct=7">ALL FILM NEWS</a></b> <img src="/images/bullet_reviews.gif" width="8" height="7" vspace="1" hspace="2"></td>
                       </tr>
                     </tbody></table>
                   </div>
 
-                  <!-- ============ LAYER 4 GAMES ==================== -->
-
-                  <div style="visibility: hidden; position: absolute; top: 0px; z-index: 4;" id="galleries4"> 
-                    <table border="0" cellpadding="5" cellspacing="0" width="415">
-                        <tbody><tr> 
-                          <td valign="top" width="54"><a href="news?id=11921"><img src="/artists/00004728_king kong.jpg" width="50" height="50"></a></td>
-                          <td valign="top"><a href="news?id=11921"><b><font size="3">King Kong - The Game With Two Endings</font></b><br>
-                            <font size="1">Happy and sad...</font></a></td>
-                        </tr>
-                      <tr> 
-                        <td colspan="2"><b><a href="news?ct=20">ALL GAME &amp; GADGET NEWS</a></b> <img src="images/bullet_reviews.gif" width="8" height="7" vspace="1" hspace="2"></td>
-                      </tr>
-                    </tbody></table>
-                  </div>
- 
-                  <!-- ============ LAYER 5 SPORT ==================== -->
+                  <!-- ============ LAYER 5 OTHERSTUFF ==================== -->
 
                   <div style="visibility: hidden; position: absolute; top: 0px; z-index: 5;" id="galleries5"> 
                     <table border="0" cellpadding="5" cellspacing="0" width="415">
                         <tbody><tr> 
-                          <td valign="top" width="54"><a href="news?id=11877"><img src="/artists/00004627_mourino.jpg" width="50" height="50"></a></td>
-                          <td valign="top"><a href="news?id=11877"><b><font size="3">Arsene Wenger Snubs Jose Mourinho</font></b><br>
-                            <font size="1">And his Christmas card...</font></a></td>
+                          <td valign="top" width="54"><a href="/news?id=18397"><img src="/artists/00009846_beckhams2-Rui-M-Leal.jpg" width="50" height="50"></a></td>
+                          <td valign="top"><a href="news?id=18397"><b><font size="3">David Beckham Responds To German Newspaper Attack</font></b><br>
+                            <font size="1">On his family...</font></a></td>
                         </tr>
                       <tr> 
-                        <td colspan="2"><b><a href="news?ct=11">ALL SPORT NEWS</a></b> 
-                          <img src="images/bullet_reviews.gif" width="8" height="7" vspace="1" hspace="2"></td>
+                        <td colspan="2"><b><a href="/news?ct=20">OTHER NEWS</a></b> <img src="/images/bullet_reviews.gif" width="8" height="7" vspace="1" hspace="2"></td>
                       </tr>
                     </tbody></table>
                   </div>
+ 
 
-                  <!-- ============ LAYER 6 MUSIC ==================== -->
+                  <!-- ============ LAYER 4 MUSIC ==================== -->
   
-        <div style="visibility: hidden; position: absolute; top: 0px; z-index: 5;" id="galleries6"> 
+        <div style="visibility: hidden; position: absolute; top: 0px; z-index: 4;" id="galleries4"> 
           <table border="0" cellpadding="5" cellspacing="0" width="415">
             <tbody><tr> 
-              <td valign="top" width="54"><a href="news?id=12014"><img src="/artists/00004768_Oasis-fp.jpg" width="50" height="50"></a></td>
-              <td valign="top"><a href="news?id=12014"><b><font size="3">Oasis To Spend January Working On New Material</font></b><br>
-                <font size="1">Axing their winter break...</font></a></td>
+              <td valign="top" width="54"><a href="/news?id=18441"><img src="/artists/00009836_mrsrobinson.jpg" width="50" height="50"></a></td>
+              <td valign="top"><a href="/news?id=18441"><b><font size="3">The Mrs Robinson Girls Are Coming To Entertainmentwise!</font></b><br>
+                <font size="1">To answer your questions...</font></a></td>
             </tr>
             <tr> 
-              <td colspan="2"><b><a href="news?ct=3">ALL MUSIC NEWS</a></b> <img src="images/bullet_reviews.gif" width="8" height="7" vspace="1" hspace="2"></td>
+              <td colspan="2"><b><a href="/news?ct=3">ALL MUSIC NEWS</a></b> <img src="/images/bullet_reviews.gif" width="8" height="7" vspace="1" hspace="2"></td>
             </tr>
           </tbody></table>
         </div>
@@ -459,17 +498,17 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
                 <td background="images/bg_dotted.gif"> 
                   <table width="95%" border="0" cellspacing="0" cellpadding="5" align="center">
 <tbody><tr> 
-                <td valign="top" width="60"><a href="competition?id=11451"><img src="/artists/00004320_499.jpg" width="50" height="50"></a></td>
-                <td valign="top"><a href="competition?id=11451"><font size="2"><b>Do You Want A Free Subscription For OK! Magazine??</b></font><br>
-                  <font size="1">Who wouldn't...</font></a></td></tr>
+                <td valign="top" width="60"><a href="competition?id=18127"><img src="/artists/00009626_Suga-new-Shot-04B--001.jpg" width="50" height="50"></a></td>
+                <td valign="top"><a href="competition?id=18127"><font size="2"><b>Win Loadsa Sugababes Goodies!!!!</b></font><br>
+                  <font size="1"></font></a></td></tr>
 <tr> 
-                <td valign="top" width="60"><a href="competition?id=11285"><img src="/artists/00004192_worms4_pack_p2_eu_rgb.jpg" width="50" height="50"></a></td>
-                <td valign="top"><a href="competition?id=11285"><font size="2"><b>Win Some Amazing Games For Your PlayStation 2!!!!!</b></font><br>
+                <td valign="top" width="60"><a href="competition?id=18087"><img src="/artists/00009623_queenlatifah.jpg" width="50" height="50"></a></td>
+                <td valign="top"><a href="competition?id=18087"><font size="2"><b>Win A Queen Latifah DVD!!!!</b></font><br>
                   <font size="1"></font></a></td></tr>
 
                     <tr> 
                       
-          <td colspan="2">&nbsp;<strong><a href="competition">ALL COMPS</a></strong><img src="images/bullet_reviews.gif" width="8" height="7" vspace="1" hspace="3"></td>
+          <td colspan="2">&nbsp;<strong><a href="/competition">ALL COMPS</a></strong><img src="images/bullet_reviews.gif" width="8" height="7" vspace="1" hspace="3"></td>
                     </tr>
                   </tbody></table>
                 </td>
@@ -482,25 +521,13 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
    <!-- ============================ END MID TABLE ============================= -->
 <table width="100%" border="0" cellspacing="0" cellpadding="2" bgcolor="#FF0066">
 	<tbody><tr> 
-		<td>&nbsp;&nbsp;<font color="#FFFFFF"><b>© 2005 Entertainmentwise.com 
+		<td>&nbsp;&nbsp;<font color="#FFFFFF"><b>© 2005-2006 Entertainmentwise.com 
             <script language="javascript"><!--
 document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|338|1030331|0|16|ADTECH;loc=100;target=_blank;grp=[group];misc='+new Date().getTime()+'"></scri'+'pt>');
 //-->
-</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|338|1030331|0|16|ADTECH;loc=100;target=_blank;grp=[group];misc=1582142846122"></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|338|1030331|0|16|ADTECH;loc=300;grp=[group]" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|338|1030331|0|16|ADTECH;loc=300;grp=[group]" border="0" width="1" height="1"></a></noscript>
-      <!-- FASTCLICK.COM POP-UNDER CODE v1.8 for entertainmentwise.com (12 hour) -->
-<script language="javascript"><!--                                 
-var dc=document; var date_ob=new Date();
-dc.cookie='h2=o; path=/;';var bust=date_ob.getSeconds();
-if(dc.cookie.indexOf('e=llo') <= 0 && dc.cookie.indexOf('2=o') > 0){
-dc.write('<scr'+'ipt language="javascript" src="http://media.fastclick.net');
-dc.write('/w/pop.cgi?sid=23225&m=2&tp=2&v=1.8&c='+bust+'"></scr'+'ipt>');
-date_ob.setTime(date_ob.getTime()+43200000);
-dc.cookie='he=llo; path=/; expires='+ date_ob.toGMTString();} // -->
-</script>                                                          
-<!-- FASTCLICK.COM POP-UNDER CODE v1.8 for entertainmentwise.com -->
-      
+</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|338|1030331|0|16|ADTECH;loc=100;target=_blank;grp=[group];misc=1582142844725"></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|338|1030331|0|16|ADTECH;loc=300;grp=[group]" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|338|1030331|0|16|ADTECH;loc=300;grp=[group]" border="0" width="1" height="1"></a></noscript>   
 			<br>
-            <div id="TEXTLINK3">&nbsp;&nbsp;<a href="info?id=70">Terms and Conditions</a> | <a href="info?id=69">Privacy</a><br>&nbsp;&nbsp;<a href="info?id=9153">Contact us</a> | <a href="info?id=9157">RSS Feeds</a></div></b></font>
+            <div id="TEXTLINK3">&nbsp;&nbsp;<a href="info?id=70">Terms and Conditions</a> | <a href="info?id=69">Privacy</a><br>&nbsp;&nbsp;<a href="info?id=9153">Contact us</a> | <a href="vacancies">Work For Us!</a> | <a href="info?id=9157">RSS Feeds</a></div></b></font>
 		</td><td width="472">
       <div align="right">	
  <script type="text/javascript"><!--
@@ -522,6 +549,17 @@ google_color_text = "333333";
     </td>
 	</tr>
 </tbody></table>
+<!-- FASTCLICK.COM POP-UNDER CODE v1.8 for entertainmentwise.com (12 hour) -->
+<script language="javascript"><!--                                 
+var dc=document; var date_ob=new Date();
+dc.cookie='h2=o; path=/;';var bust=date_ob.getSeconds();
+if(dc.cookie.indexOf('e=llo') <= 0 && dc.cookie.indexOf('2=o') > 0){
+dc.write('<scr'+'ipt language="javascript" src="http://media.fastclick.net');
+dc.write('/w/pop.cgi?sid=23225&m=2&tp=2&v=1.8&c='+bust+'"></scr'+'ipt>');
+date_ob.setTime(date_ob.getTime()+43200000);
+dc.cookie='he=llo; path=/; expires='+ date_ob.toGMTString();} // -->
+</script>                                                          
+<!-- FASTCLICK.COM POP-UNDER CODE v1.8 for entertainmentwise.com -->
 </td>
     <td valign="top"><table border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
@@ -551,11 +589,11 @@ if(!document.all){ window.onload=dT; }else{ dT(); }
 	<script language="javascript"><!--
 document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|338|1030330|0|168|ADTECH;loc=100;target=_blank;grp=[group];misc='+new Date().getTime()+'"></scri'+'pt>');
 //-->
-</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|338|1030330|0|168|ADTECH;loc=100;target=_blank;grp=[group];misc=1582142846129"></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|338|1030330|0|168|ADTECH;loc=300;grp=[group]" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|338|1030330|0|168|ADTECH;loc=300;grp=[group]" border="0" width="120" height="600"></a></noscript>
-
+</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|338|1030330|0|168|ADTECH;loc=100;target=_blank;grp=[group];misc=1582142844733"></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|338|1030330|0|168|ADTECH;loc=300;grp=[group]" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|338|1030330|0|168|ADTECH;loc=300;grp=[group]" border="0" width="120" height="600"></a></noscript>
 	</td>
   </tr>
-</tbody></table></td>
+</tbody></table>
+</td>
   </tr></tbody></table>
 
 </body></html>
