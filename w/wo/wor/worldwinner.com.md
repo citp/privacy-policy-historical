@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the worldwinner.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231002229id_/http%3A//www.worldwinner.com/cgi/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwinner.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615054018id_/http%3A//www.worldwinner.com/cgi/legal/privacy.html) for the most accurate reproduction.*
 
 # Worldwinner Tournament Games
 
-[](https://www.truste.org/ivalidate.php?url=www.worldwinner.com)**WorldWinner Privacy Commitment**
+[](http://www.truste.org/ivalidate.php?url=www.worldwinner.com&sealid=102)**WorldWinner Privacy Commitment**
 
-Effective Date: February 5, 2004
+Effective Date: February 2, 2006
 
 WorldWinner has become the world's #1 destination for competing in skill-based tournaments by gaining the trust of our users. This not only means keeping the games fair, it also means that WorldWinner is committed to protecting your privacy. You should know how your personal information is used so that you can make informed choices. This Privacy Policy explains which information we collect, how we use that information and what choices you have concerning this information.
 
@@ -16,7 +16,7 @@ Worldwinner, Inc. abides by the principles set forth in the Safe Harbor framewor
 
 Worldwinner, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site, www.worldwinner.com, wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site. 
 
-If you have questions or concerns regarding this statement, you should first contact [playerservices@worldwinner.com](mailto:playerservices@worldwinner.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe http://www.truste.org/users/watchdog.html. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first contact [playerservices@worldwinner.com](mailto:playerservices@worldwinner.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
 
 **PRIVACY POLICY FAQ**
 
@@ -24,12 +24,12 @@ If you have questions or concerns regarding this statement, you should first con
 
 **A:** Users must set up an account to play games, enter tournaments, win cash prizes and receive account information via e-mail. Personal information collected for these various purposes - and how it is utilized - is listed below:
 
-  * When you participate in Guest tournaments, WorldWinner asks only for your e-mail address, though you also need to create a Player Name that can be displayed on tournament winner lists. Collecting your e-mail allows WorldWinner to send you announcements if you win the tournaments that you participate in and to invite you to participate in invitation-only tournaments. You may choose to receive messages only to your WorldWinner mailbox or to both your personal email address and your WorldWinner mailbox. You may also choose to not to receive messages in either your email or WorldWinner mailbox. Please note that WorldWinner reserves the right to contact players via email regarding financial and administrative matters associated with their account, such as deposit confirmations, password reminders, and technical support. 
+  * When you participate in Guest tournaments, WorldWinner asks only for your e-mail address, though you also need to create a Username that can be displayed on tournament winner lists. Collecting your e-mail allows WorldWinner to send you announcements if you win the tournaments that you participate in and to invite you to participate in invitation-only tournaments. You may choose to receive messages only to your WorldWinner mailbox or to both your personal email address and your WorldWinner mailbox. You may also choose to not to receive messages in either your email or WorldWinner mailbox. Please note that WorldWinner reserves the right to contact players via email regarding financial and administrative matters associated with their account, such as deposit confirmations, password reminders, and technical support. 
   * When you participate in our Money tournaments, WorldWinner needs your real name, e-mail address, credit card number, expiration date and billing address. This allows WorldWinner to process tournaments, reward prizes or money and track funds that you withdraw from your WorldWinner account. 
   * WorldWinner works with other companies to offer its content and services to users of their Web sites ("Partner Sites"). Even if you enter WorldWinner from a Partner Site, you will register through WorldWinner, and this privacy policy applies to WorldWinner's collection of your information. 
   * When you submit a bug, suggestion, complaint, question, request, or any other e-mail correspondence, WorldWinner asks for your e-mail address so that you can receive a response. This information will only be used to notify you of receipt of your submission and of a resolution to the inquiry. 
   * If you win a prize or other promotional feature, WorldWinner may ask for your real name, mailing address, and e-mail address so that you can be notified and arrange for delivery. 
-  * By signing up for an account, you agree that WorldWinner may display your player name and competition results. From time to time, (and usually when you win a prize), WorldWinner may ask you to voluntarily provide general demographic and other personal information for inclusion on the WorldWinner "Winners" page. See section 2.5 of the [Terms and Conditions](https://web.archive.org/cgi/legal/terms.html#2.5) for details about this. 
+  * By signing up for an account, you agree that WorldWinner may display your username and competition results. From time to time, (and usually when you win a prize), WorldWinner may ask you to voluntarily provide general demographic and other personal information for inclusion on the WorldWinner "Winners" page. See section 2.5 of the [Terms and Conditions](https://web.archive.org/cgi/legal/terms.html#2.5) for details about this. 
   * In addition, WorldWinner also reserves the right to use the information collected to occasionally notify you about important functionality changes to the Web site, as well as new services and special offers you may find valuable. Users that do not want to receive these notifications may opt-out during the registration progress. If you have opted to receive these notifications but no longer wish to receive this information, you can unsubscribe from promotional e-mails by modifying your e-mail preferences on the "Manage Account" page. 
   * If you are a USA taxpayer and your total winnings on WorldWinner in any given calendar year reach a total of $600, WorldWinner will request that you submit your social security number in order to send you a Form 1099, as required by Internal Revenue Service regulations. Failure to provide your social security number at that time will prevent you from participating in game tournaments. 
   * We also collect non-personal information that we use to customize your experience on WorldWinner, including: IP address, Internet service provider, geographic location, browser type, operating system, pages viewed on WorldWinner, player rating information, cash and prize winnings and game statistics. Although this information is related to your preferences and activity, it is not associated with your personally identifiable information and cannot be linked to you personally. 
@@ -58,6 +58,10 @@ If you have questions or concerns regarding this statement, you should first con
 **Q: How can I review and update my personal information?**
 
 **A:** You may review your personal information at your "Manage Account" page. There you can modify information that is incorrect or delete information. Information that can be modified includes your password, email address, and credit card. You can also delete your credit card information.
+
+**Q: How long will it take if I request WorldWinner to forward me all of my personal information?**
+
+**A:** In the event you request that WorldWinner forward you all of your personal information on record please allow 7-10 business days to receive the information via email and 10-15 business days via postal mail.
 
 **Q: What types of E-mails will I receive from WorldWinner?**
 
