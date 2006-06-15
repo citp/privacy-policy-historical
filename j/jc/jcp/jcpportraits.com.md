@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the jcpportraits.com privacy policy that was archived on 2005-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051123061317id_/http%3A//www.jcpportraits.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jcpportraits.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615092848id_/http%3A//www.jcpportraits.com/privacy.shtml) for the most accurate reproduction.*
 
 # JCPenney Portrait Studios - Terms of Use and Privacy Policy
 
 ## JCPenney Portraits Privacy Policy
 
-[Terms and Conditions](https://web.archive.org/web/20051123061317id_/http%3A//www.jcpportraits.com/terms.shtml#Terms) | [Security](https://web.archive.org/web/20051123061317id_/http%3A//www.jcpportraits.com/terms.shtml#Security) | [ Copyright Notice](https://web.archive.org/web/20051123061317id_/http%3A//www.jcpportraits.com/terms2.shtml#Copyright) |   
-[ Disclaimers](https://web.archive.org/web/20051123061317id_/http%3A//www.jcpportraits.com/terms2.shtml#DISCLAIMERS) | [ Limitation of Liability](https://web.archive.org/web/20051123061317id_/http%3A//www.jcpportraits.com/terms3.shtml#LIMITATION) | [Privacy](https://web.archive.org/web/20051123061317id_/http%3A//www.jcpportraits.com/privacy.shtml)
+[Terms and Conditions](https://web.archive.org/web/20060615092848id_/http%3A//www.jcpportraits.com/terms.shtml) | [Security](https://web.archive.org/web/20060615092848id_/http%3A//www.jcpportraits.com/terms.shtml#Security) | [ Copyright Notice](https://web.archive.org/web/20060615092848id_/http%3A//www.jcpportraits.com/terms2.shtml) |   
+[ Disclaimers](https://web.archive.org/web/20060615092848id_/http%3A//www.jcpportraits.com/terms2.shtml#DISCLAIMERS) | [ Limitation of Liability](https://web.archive.org/web/20060615092848id_/http%3A//www.jcpportraits.com/terms3.shtml) | [Privacy](https://web.archive.org/web/20060615092848id_/http%3A//www.jcpportraits.com/privacy.shtml)
 
 [Return to previous page](javascript:window.history.go\(-1\);)
 
@@ -65,4 +65,4 @@ Please be aware that web sites that link to this Web site may collect personally
 By using the jcpenneyportraits.com Website, you consent to our use of guest information as described in this Online Privacy Policy. As we implement new technology and introduce new services, we will update our Online Privacy Policy, so we encourage you to review it often. We reserve the right to change our Privacy Policy at any time without advance notice. Should any new policy go into effect, we will post it on this site, and the policy will apply to all information collected.  
 
 
-Revised January 2003
+Revised January 2003 
