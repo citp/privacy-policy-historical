@@ -1,25 +1,24 @@
-> *The following text is extracted and transformed from the therichjerk.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231041050id_/http%3A//therichjerk.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therichjerk.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615072452id_/http%3A//www.therichjerk.com/site/privacy) for the most accurate reproduction.*
 
 # The Rich Jerk - Privacy Policy
 
-**Privacy Policy** **  
-** Last updated: October 8, 2005 
+Last updated: October 8, 2005
 
 [ ](http://www.truste.org/ivalidate.php?url=www.therichjerk.com&sealid=101) We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how our company collects information from all end users of our Internet services (the "Services")-those who access some of our Services but do not have accounts ("Visitors") as well as those who may purchase Products and/or pay a monthly service fee to subscribe to the Service ("Members")-what we do with the information we collect, and the choices Visitors and Members have concerning the collection and use of such info. We request that you read this Privacy Policy carefully.
 
 The Rich Jerk is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site http://www.therichjerk.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
-If you have questions or concerns regarding this statement, you should first contact Cameron at [info@therichjerk.com](mailto:info@therichjerk.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first contact Cameron through our ['Contact the Jerk' page](http://www.therichjerk.com/support.php). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
-_Personal Information Our Company Collects and How It Is Used_
+## Personal Information Our Company Collects and How It Is Used
 
-Service Providers: We use Clickbank.com (KEYNETICS, Inc.) to provide payment processing on our site. When you purchase our ebook, we will share your name, address, and credit card information as necessary for Clickbank to provide that service. Clickbank is prohibited from using your personally identifiable information for any other purpose. 
+Service Providers: We use Clickbank.com (KEYNETICS, Inc.) to provide payment processing on our site. When you purchase our ebook, we will share your name, address, and credit card information as necessary for Clickbank to provide that service. Clickbank is prohibited from using your personally identifiable information for any other purpose.
 
 Online Shopping: At some Web sites described within our ebook, you can purchase products and services or register to receive materials, such as a newsletter. You can decide whether or not to use these sites or services at your own discretion. 
 
-Order Confirmation: If you order services or products directly from our company, we may share the personal information you provide on our confirmation page with a select group of 3rd party partners that offer similar products/services you may be interested in. We only work with partners that offer you the ability to opt-out of receiving future offers, and do not share your information with their partners. Our 3rd party partners are separate from therichjerk.com and we are not responsible for their content or offers. If you do not wish your information to be shared with our partners, please do not order our products. 
+Order Confirmation: If you order services or products directly from our company, we may share the personal information you provide on our confirmation page with a select group of 3rd party partners that offer similar products/services you may be interested in. We only work with partners that offer you the ability to opt-out of receiving future offers, and do not share your information with their partners. Our 3rd party partners are separate from therichjerk.com and we are not responsible for their content or offers. If you do not wish your information to be shared with our partners, please do not order our products.
 
-Responses to Email Inquiries: When Visitors or Members send email inquiries to our company, the return email address is used to answer the email inquiry we receive. Our company does not use the return email address for any other purpose and does not share the return email address with any third party. We may retain these emails for our records, only for use as a reference. 
+Responses to Email Inquiries: When Visitors or Members send email inquiries to our company, the return email address is used to answer the email inquiry we receive. Our company does not use the return email address for any other purpose and does not share the return email address with any third party. We may retain these emails for our records, only for use as a reference.
 
 Testimonials: If you submit a testimonial, you should be aware that any personally identifiable information you submit, such as your name, website, city and/or country of residence may be displayed on our site, where it could potentially be used by third parties to contact you, or send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in a testimonial. 
 
@@ -29,7 +28,8 @@ Legal: We reserve the right to disclose your personally identifiable information
 
 If you are a Visitor or Member we may use a cookie to save your settings and to provide customizable and personalized services. These cookies do not enable third parties to access any of your customer information. Additionally, be aware that if you visit other Web sites where you are prompted to log in or that are customizable, you may be required to accept cookies. 
 
-Advertisers and partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them. 
+Advertisers and partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them.   
+
 
 Newsletters: If you wish to subscribe to our newsletter(s), we will use your email address to send the newsletter to you. We require that you "Double Opt-in" in order to receive our newsletter. 
 
