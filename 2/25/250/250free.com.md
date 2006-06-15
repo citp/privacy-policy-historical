@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the 250free.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219164500id_/http%3A//www.250free.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 250free.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615020031id_/http%3A//www.250free.com/privacy.php) for the most accurate reproduction.*
 
 # 250Free.com - Get your 250 Megabyte homepage free! Build your website free!
 
 **Mailing Address:**
 
-iSight, Inc.  
-469 Liberator St.  
-Gwinn, MI  49841
+250Free.com  
+848 N. Rainbow Blvd. #1585  
+Las Vegas, NV 89107
 
 **Collection of Personal Information**
 
@@ -34,4 +34,4 @@ We use MaxWorldwide and other third-party advertising companies to serve ads whe
 
 **Questions or Concerns**
 
-If you have any questions or concerns regarding our privacy statement, please feel free to email us at [Privacy@250Free.com](mailto:Privacy@250Free.com).
+If you have any questions or concerns regarding our privacy statement, please feel free to [contact us](http://support.250free.com/index.php?_m=tickets&_a=submit).
