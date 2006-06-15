@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the londonexternal.ac.uk privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215071935id_/http%3A//www.londonexternal.ac.uk/web/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londonexternal.ac.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615194451id_/http%3A//www.londonexternal.ac.uk/web/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Privacy policy - External Programme website - University of London
 
@@ -14,7 +14,7 @@ On occasion summary statistics may be disclosed to third parties, however, it is
 
 ## Cookies
 
-Cookies are small data structures used by a website to 'request' information from a client (user), return the information to the web site and then store the information; cookies can be used to obtain personal information e.g. email addresses. There are very few instances where the External Programme's website requires the use of Cookies. 
+Cookies are small data structures used by a website to 'request' information from a client (user), return the information to the web site and then store the information; cookies can be used to obtain personal information e.g. email addresses. There are a few instances where the External Programme's website requires the use of Cookies, however, personal information isn't stored. 
 
 ##  Web Forms
 
