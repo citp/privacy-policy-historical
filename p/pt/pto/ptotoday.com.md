@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ptotoday.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230215347id_/http%3A//ptotoday.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ptotoday.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615074040id_/http%3A//www.ptotoday.com/privacy.html) for the most accurate reproduction.*
 
 # Our Privacy Policy | PTO Today
 
@@ -68,10 +68,10 @@ Wrentham, MA 02093
 
 | 
 
-"I love your magazine and Website! You have helped educate me on issues I never thought of. Keep up all of the great work!!!"
+"I'm looking forward to a challenging new year as chairman and I'm so excited about all my new ideas. Thanks a bunch!"
 
-Melisa Taylor, PTO President  
-Kaneland South Elementary  
-Sugar Grove, IL  
+Mary Smith, PTO President  
+Meredith Nicholson Elementary  
+Crawfordsville, IN  
   
 ---
