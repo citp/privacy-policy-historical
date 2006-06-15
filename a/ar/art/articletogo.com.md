@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articletogo.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220060512id_/http%3A//articletogo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articletogo.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615061438id_/http%3A//articletogo.com/privacy.php) for the most accurate reproduction.*
 
 # Content for Publishers and Authors- Article To Go Articles Directory
 
