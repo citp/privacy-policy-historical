@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mbayaq.org privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225011539id_/http%3A//mbayaq.org/sg/sg_policies.asp%23children) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbayaq.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615041352id_/http%3A//www.mbayaq.org/sg/sg_policies.asp%23children) for the most accurate reproduction.*
 
 # Monterey Bay Aquarium: Web Site Info/Help - Privacy Policy
 
@@ -67,4 +67,4 @@ If you have any questions about this privacy policy or your dealings with this s
 |   
   
 Monterey Bay Aquarium, 886 Cannery Row, Monterey, CA 93940 Tel: (831) 648-4800  
-© 1999-2005, [Monterey Bay Aquarium Foundation](https://web.archive.org/sg/sg_copyright.asp "Monterey Bay Aquarium Foundation") | [Privacy Policy](https://web.archive.org/sg/sg_policies.asp "Privacy Policy") | [Site Map](https://web.archive.org/sg/sg_help.asp "Site Map") | [Home](https://web.archive.org/default.asp "Home")
+© 1999-2006, [Monterey Bay Aquarium Foundation](https://web.archive.org/sg/sg_copyright.asp "Monterey Bay Aquarium Foundation") | [Privacy Policy](https://web.archive.org/sg/sg_policies.asp "Privacy Policy") | [Site Map](https://web.archive.org/sg/sg_help.asp "Site Map") | [Home](https://web.archive.org/default.asp "Home")
