@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cellphones.ca privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228092502id_/http%3A//www.cellphones.ca/about-cellphones/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellphones.ca privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615060213id_/http%3A//www.cellphones.ca/about-cellphones/privacy) for the most accurate reproduction.*
 
-# Cell Phones etc. » Privacy
+# Privacy
 
 **cell phones etc.** recognizes that our users have legitimate concerns about privacy and is committed to protecting your privacy. This privacy policy sets forth our practices regarding the use of “personal information” we gather from you. “Personal information” is information that personally identifies you, including, for example, your name, address, and email address. This policy only addresses our activities from our servers. Other sites (including those that we link to and third party sites or services which we co-brand, such as content partners) may have their own policies, which we do not control, and thus are not addressed by this policy.
 
@@ -26,4 +26,4 @@ We use industry-standard efforts to safeguard the confidentiality of your person
 
 To date, **cell phones etc.** has not received any reports of security or privacy problems. 
 
-You can send an [email to us](http://www.cellphones.ca/bottom-legal-nav/about-cellphones.cfm) with any further questions.
+You can send an [email to us](http://www.cellphones.ca/about-cellphones/contact-us/) with any further questions.
