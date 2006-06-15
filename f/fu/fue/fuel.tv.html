@@ -1,0 +1,523 @@
+<!--The following is the downloaded HTML source of the fuel.tv privacy policy that was archived on 2006-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615181716id_/http%3A//www.fuel.tv/%3Fp%3DPP) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>FUEL TV </title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="SHORTCUT ICON" href="http://www.fuel.tv/favicon.ico">
+<link rel="shortcut icon" href="favicon.ico">
+
+<!-- Preload Script  -->
+<script type="text/javascript" src="http://www.fuel.tv/js/preload.js">
+</script>
+<script type="text/javascript">
+<!--
+var preloadFlag = false;
+function preloadImages() {
+	if (document.images) {
+		nav_programs_over = newImage("http://www.fuel.tv/images/nav_programs-over.gif");
+		nav_news_over = newImage("http://www.fuel.tv/images/nav_news-over.gif");
+		nav_video_over = newImage("http://www.fuel.tv/images/nav_video-over.gif");
+		nav_mobile_over = newImage("http://www.fuel.tv/images/nav_mobile-over.gif");
+		nav_community_over = newImage("http://www.fuel.tv/images/nav_community-over.gif");
+		nav_public_over = newImage("http://www.fuel.tv/images/nav_public-over.gif");
+		news_d_staf_button_over = newImage("http://www.fuel.tv/images/news_d_staf_button_over.gif");
+		more_tab_over = newImage("http://www.fuel.tv/images/more_tab_over.gif");
+        
+		// preload sub-menu links
+        for(var i = 1; i <=7; i++) {
+            for(var j = 0; j <= 6; j++) {
+                if(subMenuImages[i][j] != null) {
+                    newImage("http://www.fuel.tv/images/" + subMenuImages[i][j][0]);
+					newImage("http://www.fuel.tv/images/" + subMenuImages[i][j][1]);
+                }
+            }
+        }
+		preloadFlag = true;
+	}
+}
+
+var subMenuImages = new Array();
+
+subMenuImages[1] = new Array(null, null, null, null, null, null, null); // Home
+subMenuImages[2] = new Array(null, ["sub_list.gif","sub_list-over.gif"], ["sub_schedule.gif","sub_schedule-over.gif"], null, null, null, null); // Programs
+subMenuImages[3] = new Array(null, null, null, null, null, null, null); // News
+subMenuImages[4] = new Array(["sub_surf.gif","sub_surf-over.gif"], ["sub_skate.gif","sub_skate-over.gif"], ["sub_snow.gif","sub_snow-over.gif"], ["sub_bmx.gif","sub_bmx-over.gif"], ["sub_fmx.gif","sub_fmx-over.gif"], ["sub_wake.gif","sub_wake-over.gif"], ["sub_promo.gif","sub_promo-over.gif"]); // Video
+subMenuImages[5] = new Array(null, null, null, null, ["sub_wallpapers.gif","sub_wallpapers-over.gif"], null, null); // Mobile
+subMenuImages[6] = new Array( null,  ["sub_join_only.gif","sub_join_only-over.gif"], ["sub_challenges.gif","sub_challenges-over.gif"], 
+["sub_messageboard.gif","sub_messageboard-over.gif"], 
+["sub_downloads.gif","sub_downloads-over.gif"], ["sub_prize.gif","sub_prize-over.gif"], ["sub_contact.gif","sub_contact-over.gif"]);  // Community
+subMenuImages[7] = new Array(null, null, null, null, null, null, null); // Culture
+
+var subMenuLinks = new Array(8);
+
+subMenuLinks[1] = new Array( // Home
+	null, 
+	null, 
+	null, 
+	null, 
+	null, 
+	null, 
+	null
+); 
+subMenuLinks[2] = new Array( // Programs
+	null, 
+	"http://www.fuel.tv/?p=PA", 
+	"http://www.fuel.tv/?p=S", 
+	"", 
+	null, 
+	null, 
+	null
+); 
+subMenuLinks[3] = new Array( // News
+	null, 
+	null, 
+	null, 
+	null, 
+	null, 
+	null, 
+	null
+); 
+subMenuLinks[4] = new Array( // Video
+	"http://www.fuel.tv/?p=VA&id=1", 
+	"http://www.fuel.tv/?p=VA&id=2", 
+	"http://www.fuel.tv/?p=VA&id=3", 
+	"http://www.fuel.tv/?p=VA&id=4", 
+	"http://www.fuel.tv/?p=VA&id=5", 
+	"http://www.fuel.tv/?p=VA&id=6", 
+	"http://www.fuel.tv/?p=VA&id=7"
+); 
+subMenuLinks[5] = new Array( // Mobile
+	null, 
+	null, 
+	null, 
+	null, 
+	"http://www.fuel.tv/?p=M", 
+	null, 
+	null
+); 
+subMenuLinks[6] = new Array( // Community
+	null, 
+	
+	"http://www.fuel.tv/?p=CP", 
+	"http://www.fuel.tv/?p=CC",
+	"http://community.fuel.tv/phpBB2/",
+		"http://www.fuel.tv/?p=CD", 
+	"http://www.fuel.tv/?p=CPG",
+	"http://www.fuel.tv/?p=CH"
+);  
+subMenuLinks[7] = new Array( // Culture
+	null, 
+	null,
+	null,
+	"http://www.fuel.tv/?p=LM",
+	"http://www.fuel.tv/?p=LG",
+	"http://www.fuel.tv/?p=LF",
+	"http://www.fuel.tv/?p=LA"
+); 
+
+
+var activeMenu = 1;  
+  
+function swapMenuImages(index) {  
+    for (var i=0; i <= 6; i++) {          
+        elementIndex = 'sub_' + (i + 1);  
+		if(subMenuImages[index][i] == null) {  
+            document[elementIndex].src = "http://www.fuel.tv/images/" + elementIndex + ".gif";  
+            document[elementIndex].onclick=new Function("");     
+			document[elementIndex].onmouseover=new Function(""); 
+			document[elementIndex].onmouseout=new Function("");              
+            document[elementIndex].style.cursor="default";         
+        } else { 
+			document[elementIndex].rolloversrc = 'http://www.fuel.tv/images/' + subMenuImages[index][i][1]; 
+			document[elementIndex].rolloutsrc = 'http://www.fuel.tv/images/' + subMenuImages[index][i][0];
+            document[elementIndex].src = document[elementIndex].rolloutsrc 
+            document[elementIndex].onclick=new Function("window.open('" + subMenuLinks[index][i] + "', '_self');");              
+			document[elementIndex].onmouseover=new Function("this.src=this.rolloversrc; ");
+			document[elementIndex].onmouseout=new Function("this.src=this.rolloutsrc;");
+			document[elementIndex].style.cursor="pointer";  
+        }  
+    }  
+    return true;  
+}  
+  
+function showMenu(index) {        
+    activeMenu=index;  
+    return swapMenuImages(index);  
+}  
+  
+
+function clearMenu(e) {  
+    if (!e)   
+        var e = window.event;     
+    var relatedTargetId = String(((e.relatedTarget) ? e.relatedTarget : e.toElement).id);  
+     
+    if(!relatedTargetId.indexOf("sub_") == 0 && !relatedTargetId.indexOf("nav_") == 0) { 
+        showMenu(1); 
+    } 
+}  
+-->
+</script><script type="text/javascript" src="http://www.fuel.tv/js/general.js">
+</script>
+<!-- End Preload Script -->
+<link href="http://www.fuel.tv/css/styles.css" rel="stylesheet" type="text/css">
+</head>
+<body background="http://www.fuel.tv/content/files/themes/default_page_bgnd.gif" onload="preloadImages();MM_preloadImages('http://www.fuel.tv/images/nav_getfuel-over.gif')">
+
+<table width="780" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tbody><tr>
+    <td width="780"><table width="780" height="75" border="0" cellpadding="0" cellspacing="0">
+      <tbody><tr bgcolor="#2589D6">
+        <td width="646" height="75" rowspan="2" id="top-banner"><a href="http://www.fuel.tv/"><img id="top_banner" src="http://www.fuel.tv/content/files/themes/topbar_art3.gif" width="646" height="75" alt="FUEL" border="0"></a></td>
+        <td bgcolor="#2589D6"><table bgcolor="#2589D6" width="134" border="0" cellpadding="0" cellspacing="0" background="http://www.fuel.tv/content/files/themes/bgnd_3.jpg"><form id="login" name="login" method="post" action="http://www.fuel.tv/?a=L&amp;r=PP&amp;id="></form><tbody><tr>
+	                <td width="134" height="21" colspan="3" bgcolor="#2589D6"><label><input type="text" name="uname" value="USERNAME" maxlength="150" class="login" onfocus="if(this.value=='USERNAME')this.value='';">
+	                  <input type="password" name="upassword" value="PASSWORD" maxlength="150" class="login" onfocus="if(this.value=='PASSWORD')this.value='';"></label></td>
+	              </tr>
+	              <tr bgcolor="#2589D6">
+	                <td width="87" height="31" rowspan="4" valign="top" style="background-color: #2589D6;">
+					
+					<table cellpadding="0" cellspacing="0" width="87" border="0"><tbody><tr><td colspan="2"><a href="http://www.fuel.tv/?p=CPW"><img src="http://www.fuel.tv/images/lg_forget.gif" hspace="2" width="40" height="8" border="0"></a></td></tr><tr><td valign="middle" align="right"><input style="margin-left: 4px; padding:0px; font-size:9px;width: 10px; height: 10px;" type="checkbox" name="save_cookie" value="1" checked="checked"></td><td valign="middle"><img src="http://www.fuel.tv/images/lg_remember-me.gif" width="56" height="11" border="0"></td></tr><tr><td colspan="2" align="right"><img src="http://www.fuel.tv/images/lg_notmember.gif" width="75" height="7" border="0"></td></tr></tbody></table></td>
+	                <td width="41" bgcolor="#2589D6"><input type="image" src="http://www.fuel.tv/images/login.gif" alt="login" name="submit" width="41" height="11" border="0" id="login"></td>
+	                <td rowspan="4"></td>
+	              </tr>
+	              <tr bgcolor="#2589D6">
+	                <td><img src="http://www.fuel.tv/images/spacer.gif" width="41" height="6" border="0"></td>
+	              </tr>
+	              <tr bgcolor="#2589D6">
+	                <td bgcolor="#2589D6"><a href="http://www.fuel.tv/?p=CP"><img src="http://www.fuel.tv/images/joiin.gif" name="joiin" width="41" height="11" border="0" id="joiin"></a></td>
+	              </tr>
+	              <tr bgcolor="#2589D6">
+	                <td><img src="http://www.fuel.tv/images/spacer.gif" width="41" height="3" alt=""></td>
+	              </tr></tbody></table>
+				  </td>
+      </tr>
+      <tr bgcolor="#2589D6">
+	  
+
+        <td><a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('get_fuel','','http://www.fuel.tv/images/nav_getfuel-over.gif',1)" onclick="openWin('http://fuel.cablesource.net','get_fuel','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=500,height=600');"><img src="http://www.fuel.tv/images/nav_getfuel.gif" name="get_fuel" width="134" height="23" border="0" id="get_fuel"></a></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td width="780"><table width="780" border="0" cellspacing="0" cellpadding="0" align="center" onmouseout="clearMenu(event);" xonmouseover="showMenu(activeMenu);">
+      <tbody><tr>
+		<td><a href="http://www.fuel.tv/?p=H" onmouseover="changeImages('nav_home', 'http://www.fuel.tv/images/nav_home-over.gif'); return showMenu(1);" onmouseout="changeImages('nav_home', 'http://www.fuel.tv/images/nav_home.gif'); return true;"><img src="http://www.fuel.tv/images/nav_home.gif" alt="" name="nav_home" width="112" height="21" border="0" id="nav_home"></a></td>
+		
+		<td><a href="http://www.fuel.tv/?p=PA" onmouseover="changeImages('nav_programs', 'http://www.fuel.tv/images/nav_programs-over.gif'); return showMenu(2);" onmouseout="changeImages('nav_programs', 'http://www.fuel.tv/images/nav_programs.gif'); return true;"><img src="http://www.fuel.tv/images/nav_programs.gif" alt="" name="nav_programs" width="111" height="21" border="0" id="nav_programs"></a></td>
+	
+		<td><a href="http://www.fuel.tv/?p=NA" onmouseover="changeImages('nav_news', 'http://www.fuel.tv/images/nav_news-over.gif'); return showMenu(3);" onmouseout="changeImages('nav_news', 'http://www.fuel.tv/images/nav_news.gif'); return true;"><img src="http://www.fuel.tv/images/nav_news.gif" alt="" name="nav_news" width="112" height="21" border="0" id="nav_news"></a></td>
+	
+        <td><a href="http://www.fuel.tv/?p=VA" onmouseover="changeImages('nav_video', 'http://www.fuel.tv/images/nav_video-over.gif'); return showMenu(4);" onmouseout="changeImages('nav_video', 'http://www.fuel.tv/images/nav_video.gif'); return true;"><img src="http://www.fuel.tv/images/nav_video.gif" alt="" name="nav_video" width="111" height="21" border="0" id="nav_video"></a></td>
+
+        <td><a href="http://www.fuel.tv/?p=M" onmouseover="changeImages('nav_mobile', 'http://www.fuel.tv/images/nav_mobile-over.gif'); return showMenu(5);" onmouseout="changeImages('nav_mobile', 'http://www.fuel.tv/images/nav_mobile.gif'); return true;"><img src="http://www.fuel.tv/images/nav_mobile.gif" alt="" name="nav_mobile" width="112" height="21" border="0" id="nav_mobile"></a></td>
+
+		<td><a href="http://www.fuel.tv/?p=C" onmouseover="changeImages('nav_community', 'http://www.fuel.tv/images/nav_community-over.gif'); return showMenu(6);" onmouseout="changeImages('nav_community', 'http://www.fuel.tv/images/nav_community.gif'); return true;"><img src="http://www.fuel.tv/images/nav_community.gif" alt="" name="nav_community" width="111" height="21" border="0" id="nav_community"></a></td>
+
+        <td>
+		<a href="http://www.fuel.tv/?p=H" onmouseover="changeImages('nav_public', 'http://www.fuel.tv/images/nav_public-over.gif'); return showMenu(7);" onmouseout="changeImages('nav_public', 'http://www.fuel.tv/images/nav_public.gif'); return true;"><img src="http://www.fuel.tv/images/nav_public.gif" alt="" name="nav_public" width="111" height="21" border="0" id="nav_public"></a></td>
+      </tr>
+      <tr>
+        <td><img id="sub_1" name="sub_1" src="http://www.fuel.tv/images/sub_1.gif" width="112" height="21" alt=""></td>
+        <td><img id="sub_2" name="sub_2" src="http://www.fuel.tv/images/sub_2.gif" width="111" height="21" alt=""></td>
+        <td><img id="sub_3" name="sub_3" src="http://www.fuel.tv/images/sub_3.gif" width="112" height="21" alt=""></td>
+        <td><img id="sub_4" name="sub_4" src="http://www.fuel.tv/images/sub_4.gif" width="111" height="21" alt=""></td>
+        <td><img id="sub_5" name="sub_5" src="http://www.fuel.tv/images/sub_5.gif" width="112" height="21" alt=""></td>
+        <td><img id="sub_6" name="sub_6" src="http://www.fuel.tv/images/sub_6.gif" width="111" height="21" alt=""></td>
+        <td><img id="sub_7" name="sub_7" src="http://www.fuel.tv/images/sub_7.gif" width="111" height="21" alt=""></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td width="780"><img src="http://www.fuel.tv/images/spacer.gif" width="780" height="3" alt=""></td>
+  </tr>
+  <tr>
+  		    <td width="212">
+		<table width="212" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+  <td valign="top"><table width="212" border="0" cellpadding="0" cellspacing="0" background="http://www.fuel.tv/images/left_side_bg.gif">
+    <tbody><tr>
+      <td>
+	  <!--############### PROGRAM SCHEDULE ##################-->
+	  
+	<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="212" height="180" id="schedule" align="middle">
+<param name="allowScriptAccess" value="sameDomain">
+<param name="movie" value="http://www.fuel.tv/content/flash/schedule.swf?et_now=Jun.+15,+2006+02:17+PM"><param name="quality" value="high"><param name="bgcolor" value="#ffffff"><embed src="http://www.fuel.tv/content/flash/schedule.swf?et_now=Jun.+15,+2006+02:17+PM" quality="high" bgcolor="#ffffff" width="212" height="180" name="schedule" align="middle" allowscriptaccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
+</object>
+	  <!--############### /PROGRAM SCHEDULE ##################-->
+	  </td>
+    </tr>
+    <tr>
+      <td>
+	  <!--############### PROMO ID:1 ##################-->
+									<a href="http://www.fuel.tv/?p=H" target="">
+						<img id="promo1" src="http://www.fuel.tv/content/files/promos/pinto_01.gif" width="212" height="41" alt="" border="0">
+							</a>
+						  <!--############### /PROMO ID: 1 ##################-->
+	  </td>
+    </tr>
+    <tr>
+      <td>
+	  <!--############### FLASH VIDEO PROMO ##################-->
+	  <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="212" height="200" align="middle">
+        <param name="allowScriptAccess" value="sameDomain">
+        <param name="movie" value="http://www.fuel.tv/content/flash/video_promos.swf?autoplay=0&amp;start_promo=1">
+        <param name="quality" value="high">
+        <param name="bgcolor" value="#ffffff"><embed src="http://www.fuel.tv/content/flash/video_promos.swf?autoplay=0&amp;start_promo=1" quality="high" bgcolor="#ffffff" width="212" height="200" align="middle" allowscriptaccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"></object>
+		<br>
+	  </td>
+    </tr>
+    <tr>
+      <td>
+		
+		<!--############### EVENTS ##################-->
+		<table cellpadding="0" cellspacing="0">
+		  <tbody><tr><td colspan="2"><a href="http://www.fuel.tv/?p=EA"><img src="http://www.fuel.tv/images/whats_goin.gif" width="212" height="30" border="0"></a></td>
+		  </tr><tr>
+		  
+		  <td>
+			
+				<table width="204" cellpadding="0" cellspacing="0" border="0" style="margin-left:4px;">
+				  <tbody><tr>
+									<td width="50" valign="top" bgcolor="#b3dbf1">
+								  <div style="padding: 5px; color: #000;"><strong>6/15</strong></div></td>
+									<td width="150" valign="top" bgcolor="#b3dbf1">
+								  <div style="padding:5px;"><a href="http://www.fuel.tv/?p=ED&amp;id=55" class="left"><strong>Billabong Jack McCoy Surf Film Festival</strong></a><br>
+				<strong></strong></div></td>
+				</tr>
+				
+								
+				<tr>
+					<td width="200" valign="top" bgcolor="#99CCFF" colspan="2"><img src="http://www.fuel.tv/images/whats_goin_lower.gif" alt="" width="204" height="8" hspace="0" vspace="0" border="0" align="right"></td>
+					</tr>
+								
+				</tbody></table>
+			
+				<table width="204" cellpadding="0" cellspacing="0" border="0" style="margin-left:4px;">
+				  <tbody><tr>
+									<td valign="top" width="50">
+								  <div style="padding: 5px; color: #000;"><strong>6/16</strong></div></td>
+									<td width="150" valign="top">
+								  <div style="padding:5px;"><a href="http://www.fuel.tv/?p=ED&amp;id=57" class="left"><strong>Mick Fanning Movie Premiere</strong></a><br>
+				<strong></strong></div></td>
+				</tr>
+				
+									<tr>
+					<td width="200" valign="top" bgcolor="#ffffff" colspan="2"><img src="http://www.fuel.tv/images/spacer.gif" width="204" height="8" hspace="0" vspace="0" border="0" align="right"></td>
+					</tr>
+			
+								
+				</tbody></table>
+			
+				<table width="204" cellpadding="0" cellspacing="0" border="0" style="margin-left:4px;">
+				  <tbody><tr>
+									<td width="50" valign="top" bgcolor="#b3dbf1">
+								  <div style="padding: 5px; color: #000;"><strong>6/16</strong></div></td>
+									<td width="150" valign="top" bgcolor="#b3dbf1">
+								  <div style="padding:5px;"><a href="http://www.fuel.tv/?p=ED&amp;id=56" class="left"><strong>Billabong John McCoy Surf Film Festival</strong></a><br>
+				<strong></strong></div></td>
+				</tr>
+				
+								
+				<tr>
+					<td width="200" valign="top" bgcolor="#99CCFF" colspan="2"><img src="http://www.fuel.tv/images/whats_goin_lower.gif" alt="" width="204" height="8" hspace="0" vspace="0" border="0" align="right"></td>
+					</tr>
+								
+				</tbody></table>
+		</td></tr>
+		<tr>
+		</tr>
+		<tr>
+		  <td colspan="2"><a href="mailto:events@fuel.tv"><img src="http://www.fuel.tv/images/what_goin_got.gif" width="161" height="28" border="0"></a><a href="http://www.fuel.tv/?p=EA" onmouseover="changeImages('whatgoon', 'http://www.fuel.tv/images/what_goin_more_over.gif'); return true;" onmousedown="changeImages('whatgoon', 'http://www.fuel.tv/images/what_goin_more.gif'); return true;" onmouseout="changeImages('whatgoon', 'http://www.fuel.tv/images/what_goin_more.gif'); return true;" onmouseup="changeImages('whatgoon', 'http://www.fuel.tv/images/what_goin_more_over.gif'); return true;"><img src="http://www.fuel.tv/images/what_goin_more.gif" width="51" height="28" name="whatgoon" border="0" alt=""></a></td>
+		  </tr>
+		</tbody></table>
+		<!--############### /EVENTS ##################--></td>
+    </tr>
+  </tbody></table>		</td>
+		<td width="3"><img src="http://www.fuel.tv/images/spacer.gif" width="3" height="600" alt=""></td>
+	
+        <td width="565" valign="top">
+		<!-- CONTENT AREA CLIP FOR THIRD PARTY -->
+		<table width="565" border="0" cellpadding="0" cellspacing="0" bordercolor="#119FE9">
+          <tbody><tr>
+							<td width="421" valign="top">
+				
+<!--WEBSIDESTORY CODE HBX1.0 (Universal)-->
+<!--COPYRIGHT 1997-2004 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
+<script language="javascript">
+  var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
+  var hbx=_hbEvent("pv");hbx.vpc="HBX0100u";hbx.gn="ehg-foxsports.hitbox.com";
+  hbx.pndef="title";
+  hbx.ctdef="full";
+  hbx.fv="";
+  hbx.lt="none";
+  hbx.dlf="n";
+  hbx.dft="n";
+  hbx.elf="n";
+  hbx.seg="";
+  hbx.fnl="";
+  hbx.cmp="";
+  hbx.cmpn="CMP";
+  hbx.dcmp="";
+  hbx.dcmpn="DCMP";
+  hbx.dcmpe="";
+  hbx.dcmpre="";
+  hbx.hra="";
+  hbx.hqsr="";
+  hbx.hqsp="ATT";
+  hbx.hlt="";
+  hbx.hla="";
+  hbx.gp="";
+  hbx.gpn="GP";
+  hbx.hcn="";
+  hbx.hcv="";
+  hbx.cp="null";
+  hbx.cpd="";
+  hbx.ci="";
+  hbx.hc1="";
+  hbx.hc2="";
+  hbx.hc3="";
+  hbx.hc4="";
+  hbx.hrf="";
+  hbx.pec="";
+  hbx.acct='DM520329A1SZ95EN3';
+  hbx.pn='privacy_policy+privacy_policy'
+  hbx.mlc='/Media/Television/FUEL/Station';
+</script>
+<script language="javascript1.1" defer="" src="http://msn.foxsports.com/fe/js/hbx.js"></script>
+<!--END WEBSIDESTORY CODE-->
+<table cellspacing="0" cellpadding="0" border="0" background="images/bg_content1_rpt.gif" style="background-repeat:repeat-y">
+<tbody><tr><td>
+
+<img src="images/pp_top.gif" width="420" height="68">
+
+<table width="420" cellspacing="10">
+	<tbody><tr><td><div class="bodyText">
+	  Effective March 01, 2006<br><br>
+
+Fuel TV, Inc ("Fuel TV") is part of the News America Group, which has adopted a set of Privacy Principles applicable to all its U.S.-based companies (available at <a href="http://www.newscorp.com/privacy.html">http://www.newscorp.com/privacy.html</a>). Fuel TV has implemented those Principles in this Privacy Policy, which describes how we collect, use and share personally identifiable information ("PII") we obtain from and about individuals located in the U.S.<p>
+
+From time to time Fuel TV may revise this Privacy Policy to reflect industry initiatives or changes in the law, our PII collection and use practices, the features of our Web sites or technology. Therefore, you should review it periodically so that you are up to date on our most current policies and practices.</p><p>
+
+COLLECTION: COLLECTION OF PERSONALLY IDENTIFIABLE INFORMATION ("PII") BY Fuel TV.</p><p>
+
+General. Fuel TV collects personally identifiable information ("PII" -- that is, information such as your full name, email address, mailing address or telephone number) only in order to create or enhance our relationship with you. When we collect PII from you it is because you are voluntarily submitting the information to us in order to participate in activities like sweepstakes, contests, games, surveys, forums, subscription registrations, in connection with content or suggestions you submit to us, chats or bulletin boards, or because you want us to furnish you with products, services or information. On those occasions when we obtain PII from a third party, we use only reputable sources of such information.</p><p>
+
+Cookies. Cookies are small bits of information that the Internet sites operated by Fuel TV place on the hard drive of your computer. Cookies remember information about your activities on our site(s) and enable Fuel TV to make your visits to our site(s) more enjoyable. For example, cookies can store your password for easy logon to a site you have previously visited, can save your preferences for a personalized home page or can track the items you have placed in your "shopping cart" during a visit to our online store. The cookie itself does not contain PII, and Fuel TV does not combine cookies or similar tools with PII.</p><p>
+
+Third party advertisements displayed on Internet site(s) operated by Fuel TV may also contain cookies. Fuel TV does not control these advertiser cookies and visitors to our Web site(s) should check the privacy policy of the advertiser to see whether and how it uses cookies. See the "Notice" section below for more information on third party advertisements.</p><p>
+
+On occasion, Fuel TV may use cookies or similar tools to relate your use of our Web site(s) to personally identifiable information obtained from you or a reputable third party. For example, if you've asked us to send you information about our upcoming products or promotions, cookie and/or other information about your online activities may allow us to limit the materials we send you to items we know you will find interesting, based on your prior online activities and preferences. However, if Fuel TV wishes to coordinate your personal and Web site activity information in this manner, we will obtain your express prior consent (i.e., "opt in").</p><p>
+
+You can program your computer to warn you each time a cookie is being sent or to refuse cookies completely. However, without cookies you may not have access to certain features on Fuel TV's Web site(s).</p><p>
+
+NOTICE: FUEL TV WILL PROVIDE YOU WITH NOTICE ABOUT ITS PII COLLECTION PRACTICES</p><p>
+
+When Fuel TV collects PII from you, we will make sure you are informed about who is collecting the information, how and why the information is being collected and the types of uses Fuel TV will make of the information.</p><p>
+
+This Policy describes the types of other companies that may want to send you information about their products and services and therefore may want to share your personal information (See "Use" below). However, Fuel TV will notify you of your options regarding our use of your personally identifiable information, including whether we can share it with outside companies, before we use it for a purpose other than the one for which it was originally collected or disclose it to third parties, typically at the time of collection (See "Choice" below).</p><p>
+
+Sometimes we collect personally identifiable information from consumers in manual format, such as a post card or subscription form. Providing detailed notice in those situations often proves impractical, so consumers will instead be provided with a short notice that describes how to obtain the full text of this Policy and other relevant information from us.</p><p>
+
+Fuel TV 's Web site(s) may be linked to Internet sites operated by other companies. Some of these third party sites may be co-branded with a Fuel TV logo, even though they are not operated or maintained by Fuel TV (for example, the co-sponsored chat pages, or advertising sponsor pages). Fuel TV's Web site(s) also carry advertisements from other companies as well as advertisements placed by national Internet ad agencies. Although we choose our business partners and advertisers carefully, Fuel TV is not responsible for the privacy practices of Web sites operated by third parties that are linked to our site[s] or for the privacy practices of third party or so-called national internet advertising companies. Once you've left a Fuel TV site via such a link or by clicking on an advertisement, you should check the applicable privacy policy of the third party or advertiser site to determine how they will handle any PII they collect from you.</p><p>
+
+Some of the advertisements that appear on Fuel TV's Web site(s) are delivered to you by national Internet advertising companies such as Doubleclick or 24/7Real Media. These companies may utilize certain technologies to deliver advertisements and marketing messages and to collect anonymous information about your visit to our site[s], including information about the banner ads they display, any cookie they place on your computer and your IP address. To opt out of information collection by these companies, or to obtain information about the technologies they use or their own privacy policies, please visit their Web sites by clicking on their respective banners.</p><p>
+
+Fuel TV's Web site(s) may also be linked to sites operated by companies affiliated with Fuel TV. Visitors to those affiliated sites should still refer to their separate privacy policies and practices, which may differ in some respects from this Policy.</p><p> 
+
+CHOICE: FUEL TV WILL PROVIDE YOU WITH CHOICES ABOUT THE USE OF YOUR PII</p><p>
+
+Fuel TV will provide you with the opportunity to choose whether your PII may be used for purposes different from the purpose for which it was submitted. You will also be able to choose whether your information is shared with companies that are not affiliated with Fuel TV (i.e., not part of the News America Group). 
+To Log in, users can enter their username and password here 
+Logged-in users can here view and set preferences.</p><p>
+
+USE: FUEL TV'S USE OF PII</p><p>
+
+Fuel TV will use your PII in a manner that is consistent with this Policy and only for the purpose for which it is submitted, unless other uses are disclosed and you allow us to use your information in these other ways.</p><p>
+
+Fuel TV may share your PII with companies that are affiliated with us, that is, are part of the News America Group of companies. Fuel TV may also share your PII with companies that are not affiliated with Fuel TV, but would like to send you information about their products and services. For example, some of the companies who supply prizes for Fuel TV's contests may have special offers or promotions that might be of interest to Fuel TV viewers. However, you will always have the opportunity to instruct us not to share your information with third parties.</p><p>
+
+Fuel TV employees, agents and contractors must have a legitimate business reason to obtain access to your PII. Outside contractors or agents who help us manage our information activities (i.e., sweepstakes administration, order fulfillment, statistical analyses) may only use PII to provide Fuel TV with a specific service and not for any other purpose.</p><p>
+
+If Fuel TV obtains PII from a third party, such as a business partner, our use of this information is governed by this Policy.</p><p>
+
+There may be instances when Fuel TV may disclose PII without providing you with a choice in order to protect the legal rights of Fuel TV, other companies within the News America Group or their employees, agents and contractors; to protect the safety and security of visitors to our Web sites; to protect against fraud or for risk management purposes; or to comply with the law or legal process. In addition, if Fuel TV sells all or part of its business or makes a sale or transfer of assets or is otherwise involved in a merger or business transfer, Fuel TV may transfer your PII to a third party as part of that transaction.</p><p>
+
+SECURITY: FUEL TV PROTECTS THE SECURITY OF PII</p><p>
+
+Fuel TV uses reasonable administrative, technical, personnel and physical measures to safeguard PII in its possession against loss, theft and unauthorized use, disclosure or modification. In addition, Fuel TV uses reasonable methods to make sure that PII is accurate, up-to-date and appropriately complete.</p><p>
+
+ACCESS: HOW TO ACCESS, CORRECT OR DELETE YOUR PII</p><p>
+
+In most cases, Fuel TV will retain PII for ninety (90) days or less. In the event PII is retained for longer, Fuel TV has implemented a procedure for you to access, correct or delete your PII.</p><p>
+
+To access your PII, send an e-mail with the word "Privacy" in the subject line to <a href="mailto:privacy@foxcable.com">Privacy@FoxCable.com</a>, or write to Mr. Robert Carrasco, the Fuel TV Internet Privacy Officer, at Fuel TV, Inc. Business &amp; Legal Affairs, 10201 West Pico Boulevard, Los Angeles, California 90035, requesting a listing of the PII that is on file for you. Fuel TV will respond no later than fifteen (15) business days from receipt of your request with a list of the PII on file. There may be certain instances when Fuel TV may not be able to provide the PII, such as when access would violate the privacy of another individual, when access is prohibited by law, or when the PII has been lawfully obtained from third party sources.</p><p>
+
+In the event the PII on file is incorrect, you may correct the PII by sending a written request for correction to Mr. Robert Carrasco, the Fuel TV Internet Privacy Officer, at Fuel TV, Inc. Business &amp; Legal Affairs, 10201 West Pico Boulevard, Los Angeles, California 90035, including all of the incorrect PII, the PII that you wish to change, and your signature authorizing such changes. Fuel TV will then correct the PII in its database and send a written confirmation to you within fifteen (15) business days.</p><p>
+
+If for any reason you wish to stop all future communications from Fuel TV, you may send an e-mail with the word "Privacy" in the subject line to <a href="mailto:privacy@foxcable.com">Privacy@FoxCable.com</a>, or write to Mr. Robert Carrasco, the Fuel TV Internet Privacy Officer, at Fuel TV, Inc. Business &amp; Legal Affairs, 10201 West Pico Boulevard, Los Angeles, California 90035, requesting that your PII be permanently removed form any Fuel TV database. Fuel TV will send a written confirmation of such removal to you within fifteen (15) business days of receipt of your request. E-mails sent to Privacy@FoxCable.com for purposes other than communication about PII may not be acknowledged or responded to.</p><p>
+
+REMEDIES AND COMPLIANCE: HOW TO CONTACT FUEL ABOUT PRIVACY CONCERNS.</p><p>
+
+If you have concerns regarding privacy, your use of the Fuel TV Web sites, or the collection and use of PII, you may contact the following Fuel TV representative.:</p><p>
+
+Mr. Robert B. Carrasco<br>
+Manager, Business &amp; Legal Affairs<br>
+Fuel TV, Inc.<br>
+10201 West Pico Boulevard<br>
+Los Angeles, California 90035<br>
+
+Telephone: (310) 369-2362<br>
+e-mail: <a href="mailto:privacy@foxcable.com">Privacy@FoxCable.com</a></p><p>
+
+You may also request a written response to your concerns, which will be made no later than thirty (30) days after you contact Fuel TV.
+	</p></div>  </td></tr>
+
+</tbody></table>
+
+<img src="images/pp_footer.gif" width="420" height="47"></td>
+</tr>
+</tbody></table>
+
+
+				</td>
+       			<td width="3"><img src="http://www.fuel.tv/images/spacer.gif" width="3" height="691" alt=""></td>
+       			<td valign="top" width="141">
+							<a href="http://www.fuel.tv/unsponsored" target="_top">
+		<img id="promo2" src="http://www.fuel.tv/content/files/promos/ussh_143x50.jpg" alt="" border="0">
+			</a>
+		<br><img src="images/spacer.gif" alt="" width="1" height="3" border="0"><br>
+			<a href="https://www.kintera.org/site/apps/ka/sd/donor.asp?c=ekLPK4MOIsG&amp;b=1096797&amp;en=fmKYIbOQLeJWJaOQIgKXI9MPJdK1IrP5KiLUIfN2KpJ7JgM0IAI" target="_new">
+		<img id="promo3" src="http://www.fuel.tv/content/files/promos/surfaid_143x50.gif" alt="" border="0">
+			</a>
+		<br><img src="images/spacer.gif" alt="" width="1" height="3" border="0"><br>
+			<a href="http://www.goskateboardingday.org" target="_new">
+		<img id="promo5" src="http://www.fuel.tv/content/files/promos/iasc_143x143.gif" alt="" border="0">
+			</a>
+		<br><img src="images/spacer.gif" alt="" width="1" height="3" border="0"><br>
+			<a href="http://www.dewtour.com/" target="_top">
+		<img id="promo6" src="http://www.fuel.tv/content/files/promos/143x500dastTicketsTune.jpg" alt="" border="0">
+			</a>
+					</td>
+			          </tr>
+        </tbody></table>
+		<!-- /CONTENT AREA CLIP FOR THIRD PARTY  -->
+		</td>
+  </tr>  
+</tbody></table></td>
+  </tr>
+  
+ </tbody></table><br>
+  <table width="780" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tbody><tr>
+      <td><div style="text-align:center" class="baseLinks"><a href="http://www.fuel.tv/?">HOME</a> • <a href="http://www.fuel.tv/?p=CP">JOIN FUEL TV</a> • <a href="http://www.fuel.tv/?p=S">TV SCHEDULE</a> • <a href="http://www.fuel.tv/?p=VA">VIDEO</a> • <a href="#" onclick="openWin('http://fuel.cablesource.net','get_fuel','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=500,height=600');">GET FUEL TV</a> • <a href="http://www.fuel.tv/?p=AF">ABOUT FUEL TV</a><br>
+        <a href="http://www.controlyourtv.org/" target="_blank">CONTROL YOUR TV</a> •<a href="http://www.fueltv.com.au/" target="_blank">AUSTRALIA</a> • <a href="http://www.fuel.tv/?p=TOS">TERMS OF SERVICE</a> • <a href="http://www.foxcareers.com/" target="_blank">JOBS</a> • <a href="http://www.fuel.tv/?p=PP">PRIVACY POLICY</a> • <a href="mailto:hookup@fuel.tv">CONTACT</a></div><br>
+<div style="text-align:center" class="baseCopyright">© 2006 Fuel TV, Inc. All rights reserved.</div></td>
+  </tr>
+</tbody></table>
+
+
+
+
+
+
+</body></html>
