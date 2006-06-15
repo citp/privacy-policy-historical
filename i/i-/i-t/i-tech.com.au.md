@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the i-tech.com.au privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219100653id_/http%3A//i-tech.com.au/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-tech.com.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615201934id_/http%3A//www.i-tech.com.au/privacy.asp) for the most accurate reproduction.*
 
 # Computer Hardware and Software Australia
 
@@ -48,7 +48,6 @@ We use cookies as a way to give you better service. They personalize your shoppi
 
 [ _Click here_](mailto:%22info@i-tech.com.au%22) to contact us.  |  |  |  |  |   
 ---  
----  
   
 [](http://compatible.corsairmemory.com/partner/default.aspx?partnerid=53)  
   
@@ -58,7 +57,7 @@ We use cookies as a way to give you better service. They personalize your shoppi
   
 [](http://www.i-tech.com.au/products/253_Asus_Notebook__Laptop.asp)
 
-[](http://www.dlink.com.au/)
+[](http://www.i-tech.com.au/adslpeopletelecom.asp)
 
 [**I-Tech ADSL**](http://www.i-tech.com.au/adsl.asp)  
 ADSL Plans available from as little as $29/month.
