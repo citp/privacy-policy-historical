@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ni.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211190605id_/http%3A//www.ni.com/legal/privacy/unitedstates/us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ni.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615202715id_/http%3A//www.ni.com/legal/privacy/unitedstates/us) for the most accurate reproduction.*
 
 # National Instruments Privacy Statement - Legal Information - National Instruments
 
@@ -85,4 +85,4 @@ E-mail: [webmaster@ni.com](mailto:webmaster@ni.com)
 
 Back to previous page 
 
-|  | 
+| 
