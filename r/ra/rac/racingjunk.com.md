@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the racingjunk.com privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227081400id_/http%3A//racingjunk.com/policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racingjunk.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615054603id_/http%3A//racingjunk.com/s/site_policy) for the most accurate reproduction.*
 
-# RacingJunk.com Privacy Policy
+# Privacy Policy on RacingJunk.com - Free Racing Classifieds Powered By RacingJunk.com
+
+##  RacingJunk.com Privacy Policy 
 
 **_GENERAL STATEMENT_**
 
@@ -60,7 +62,7 @@ RacingJunk.com does not rent, sell or share personal information about you with 
   1. Raceway may share aggregated demographic information with its partners and advertisers. This is not linked to any personal information that can identify any individual person. 
   2. Raceway may partner with another party to provide specific services. When the user signs up for these services, Raceway will share names, or other contact information that is necessary for the third party to provide these services. Per Raceway's contractual arrangements with partners, these partners are not allowed to use personally identifiable information except for the explicit purpose of providing these services. 
   3. RacingJunk.com shall respond to subpoenas, court orders, or legal process, or to establish or exercise its legal rights or defend against legal claims. 
-  4. RacingJunk.com believes it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to physical safety of any persons, violations of RacingJunk.com's Privacy Policy, [Terms of Use](https://web.archive.org/terms.jsp) and [Guidelines](https://web.archive.org/guidelines.jsp), incorporated herein by this reference, or as otherwise required by law. 
+  4. RacingJunk.com believes it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to physical safety of any persons, violations of RacingJunk.com's Privacy Policy, [Terms of Use](https://web.archive.org/site_terms) and [Guidelines](https://web.archive.org/site_guidelines), incorporated herein by this reference, or as otherwise required by law. 
   5. RacingJunk.com shall transfer information about you if RacingJunk.com is acquired by or merged with another company. In this event, RacingJunk.com will notify you before information about you is transferred and becomes subject to a different privacy policy. 
 
 
@@ -114,21 +116,3 @@ Raceway will notify you of any significant changes to the RacingJunk.com Privacy
 If a user elects to use RacingJunk.com's referral service called "Recommend Ad" to tell a friend about the RacingJunk.com site, Raceway asks for the friend's name and e-mail address. Raceway will automatically send the friend a one-time e-mail inviting the friend to visit the site. Raceway stores this information for the sole purpose of sending this one-time e-mail. The friend may contact Raceway at info@RacingJunk.com to request the removal of this information from Raceway's database. 
 
 Copyright ©2005 Raceway Media, LLC. All rights reserved. 
-
-| 
-
-[](http://www.carsponsorships.com/scout/sponsor.php?id=628)
-
-* * *
-
-[](http://hop.clickbank.net/?racingjunk/sponsorkit)
-
-| 
-
-  **TESTIMONIAL**  
-  
----  
-  
-Thank you so very much for letting us advertise our 2002 Trailer for sale on your web site!!! Our trailer was sold within 48 hours!!! Thank you very much!!!  
-  
-John Danford
