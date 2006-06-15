@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smcvt.edu privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220160252id_/http%3A//www.smcvt.edu/web/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smcvt.edu privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615044639id_/http%3A//www.smcvt.edu/web/privacypolicy.asp) for the most accurate reproduction.*
 
 # Saint Michael's College - Privacy Policy
 
