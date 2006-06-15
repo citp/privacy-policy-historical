@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babyworld.co.uk privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218092109id_/http%3A//www.babyworld.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babyworld.co.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615200251id_/http%3A//www.babyworld.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # babyworld - Privacy Policy
 
@@ -8,9 +8,9 @@
 
 [](http://shop.babyworld.co.uk/)
 
-Meet the babyworld team at The B
+Parenting classes should be 'nat
 
-Do you think dads should help with night-time feeds during weekdays? Vote now! Do you have a joint bank account with your partner? Vote now!
+Have you ever accidentally shoplifted? Vote now!
 
 babyworld.com Ltd ("babyworld"), takes your privacy seriously. In general, we use the personal information that we collect from you to identify personal preferences and match your needs with relevant products, and process any orders that you may make through our website.
 
