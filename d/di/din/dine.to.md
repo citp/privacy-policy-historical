@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dine.to privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212155127id_/http%3A//www.dine.to/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dine.to privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615202006id_/http%3A//dine.to/privacy.php) for the most accurate reproduction.*
 
 # Dine.TO Privacy Policy
 
