@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jrox.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220194546id_/http%3A//www.jrox.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jrox.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615115633id_/http%3A//www.jrox.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,5 +27,4 @@ Cookies For Banner Rewards Program
 To offer our customers continued savings, JROX Technologies, Inc. uses cookies to help monitor the traffic generated from JROX Technologies, Inc. banners and logo buttons displayed on our customers' websites. For every new JROX Technologies, Inc. customer that was introduced to JROX Technologies, Inc. through a customer's website, our client receives a credited discount!
 
 Cookies For Customer Account Management  
-For our customers, JROX Technologies, Inc. uses cookies to store user names for added convenience to the Webmaster. As part of our web hosting package, JROX Technologies, Inc. offers password-protected web-based management tools. By storing the customers' Usernames in a cookie, the Webmaster will not have to keep filling out form fields when they desire to manage their account. (The cookie does not store Passwords.) JROX Technologies, Inc. is dedicated to using the newest technologies in order to simplify our customers' lives.  
-
+For our customers, JROX Technologies, Inc. uses cookies to store user names for added convenience to the Webmaster. As part of our web hosting package, JROX Technologies, Inc. offers password-protected web-based management tools. By storing the customers' Usernames in a cookie, the Webmaster will not have to keep filling out form fields when they desire to manage their account. (The cookie does not store Passwords.) JROX Technologies, Inc. is dedicated to using the newest technologies in order to simplify our customers' lives.
