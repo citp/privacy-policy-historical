@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the brint.com privacy policy that was archived on 2005-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050830200853id_/http%3A//www.brint.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brint.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615202114id_/http%3A//www.brint.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for BRINT Institute, LLC
 
-[](http://www.brint.com/press/)  
+[](http://www.brint.org/)  
 **The Knowledge Creating Company** tm
 
 Privacy Statement for BRINT Institute, LLC   
-[About BRINT Institute](http://www.brint.com/press/)
+[About BRINT Institute](http://www.brint.org/)
 
 BRINT Institute, LLC (herafter referred as BRINT Institute) has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the web portals of BRINT Institute (herafter referred as BRINT web portals).
 
@@ -22,7 +22,7 @@ It is our policy to take reasonable measures to respect the privacy of our users
 
 Commercial uses of the services offered on BRINT web portals are strictly prohibited unless prior written consent from BRINT Institute has been granted or BRINT Institute has authorized use of such services for its members and users. Any use by you of any other user's information, personal or otherwise, for any commercial purpose or to obtain direct financial gain (e.g. mass marketing) is prohibited. Any such use shall be deemed to be a violation of these terms and conditions. BRINT Institute and its services are to be used by you for your personal use only. You agree that you will not use them for chain letters, junk mail, 'spamming,' solicitations (commercial or non-commercial) or bulk communications of any kind including but not limited to distribution lists to any person who has not given specific permission to be included in such a list. 
 
-BRINT Institute has been actively contributing to the definition and implementation of the privacy standards for Internet Commerce through top executive involvement at the highest level in global standard definitions such as [The Standard for Internet Commerce](http://www.gii.com/standard/index.html) being developed collaboratively by leading global thinkers and practitioners including Internet merchants, IT vendors, consumer and community advocates, analysts, journalists and academics. BRINT Institute has been serving some of the most prominent blue-chip companies that have emphasized the practice of privacy disclosures and has been enforcing the highest standards specified by these blue-chip clients. Besides serving most of the high-profile clients on a direct basis and in collaboration with the top-notch advertising agencies, BRINT Institute also works with several third parties and major high-profile organizations. 
+BRINT Institute has been actively contributing to the definition and implementation of the privacy standards for Internet Commerce through top executive involvement at the highest level in global standard definitions such as [The Standard for Internet Commerce](http://www.brint.com/whoswho.pdf) being developed collaboratively by leading global thinkers and practitioners including Internet merchants, IT vendors, consumer and community advocates, analysts, journalists and academics. BRINT Institute has been serving some of the most prominent blue-chip companies that have emphasized the practice of privacy disclosures and has been enforcing the highest standards specified by these blue-chip clients. Besides serving most of the high-profile clients on a direct basis and in collaboration with the top-notch advertising agencies, BRINT Institute also works with several third parties and major high-profile organizations. 
 
 **Public Forums** This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
