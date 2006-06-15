@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madsci.org privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212132644id_/http%3A//www.madsci.org/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madsci.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615035214id_/http%3A//madsci.org/info/privacy.html) for the most accurate reproduction.*
 
 # MadSci Privacy Policy
 
@@ -59,8 +59,10 @@ If you have further questions concerning this policy, please contact us at [weba
 * * *
 
 _Last modified 9/21/2005_  
-Previous versions: [7.11.2005](https://web.archive.org/web/20051212132644id_/http%3A//www.madsci.org/info/privacy.7.11.2005.html), [10.31.2001](https://web.archive.org/web/20051212132644id_/http%3A//www.madsci.org/info/privacy.10.2001.html). 
+Previous versions: [7.11.2005](https://web.archive.org/web/20060615035214id_/http%3A//madsci.org/info/privacy.7.11.2005.html), [10.31.2001](https://web.archive.org/web/20060615035214id_/http%3A//madsci.org/info/privacy.10.2001.html). 
 
 * * *
 
-[MadSci Home](https://web.archive.org/index.html) | [Info](https://web.archive.org/info.html) | [MadSci Archives](https://web.archive.org/circumnav) | [Search MadSci](https://web.archive.org/MS_search.html) | [MAD Library](https://web.archive.org/libs/libs.html) | [MAD Labs](https://web.archive.org/labs/MAD_labs.html) | [Ask A ?](https://web.archive.org/submit.html) | [Join Us!](https://web.archive.org/join/join.html)
+* * *
+
+**[MadSci Home](https://web.archive.org/) | [Information](https://web.archive.org/info/) | [Search](https://web.archive.org/MS_search.html) | [Random Knowledge Generator](https://web.archive.org/random/) | [MadSci Archives](https://web.archive.org/circumnav/) | [Mad Library](https://web.archive.org/libs/) | [MAD Labs](https://web.archive.org/labs/) | [MAD FAQs](https://web.archive.org/FAQs/) | [Ask a ?](https://web.archive.org/submit.html) | [Join Us!](https://web.archive.org/join/) | [Help Support MadSci](https://web.archive.org/donate/) **
