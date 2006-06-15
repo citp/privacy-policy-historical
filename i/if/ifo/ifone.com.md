@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ifone.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231120159id_/http%3A//www.ifone.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifone.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615034630id_/http%3A//www.ifone.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - iFone
+# Privacy Policy - glu mobile | Download mobile java games | Download cell phone games
 
 **Please read this Privacy Policy carefully. If you are visiting this Website, you indicate your agreement to our use of your personal information as set out in this Privacy Policy. The term 'personal information' refers to information which identifies, or is capable of identifying, you as an individual.**
 
