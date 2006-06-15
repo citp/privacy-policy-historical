@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soccermilfs.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231210352id_/http%3A//hotelheiress.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soccermilfs.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615143241id_/http%3A//hotelheiress.com/privacy.html) for the most accurate reproduction.*
 
 # HOTELHEIRESS.COM
 
