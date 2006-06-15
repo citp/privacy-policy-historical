@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exporters.sg privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210063214id_/http%3A//www.exporters.sg/info/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exporters.sg privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615205256id_/http%3A//exporters.sg/info/privacy_statement.asp) for the most accurate reproduction.*
 
 # Exporters.com.sg - Privacy Statement
 
@@ -6,32 +6,6 @@ Exporters.SG is committed to protect your privacy. These following information t
 
 Our Privacy Statement covers the following areas:
 
-| 
-
-> **1\. Information Collection & Use**
-> 
-> **2\. Information Sharing & Disclosures**
-> 
-> **3\. How You Can Choose To Opt Out**
-> 
-> **4\. How We Use Log Files**
-> 
-> **5\. What Is Cookies And How We Use It**
-
-| 
-
-> **6\. About Links to Other Sites**
-> 
-> **7\. About Discussion Boards/Chat Rooms**
-> 
-> **8\. Security Of Your Personal Information**
-> 
-> **9\. Business Transitions**
-> 
-> **10\. Changes in this Privacy Statement**  
-  
----|---  
-  
 **1\. Information Collection & Use**
 
 > **Membership Application  
@@ -63,6 +37,8 @@ Our Privacy Statement covers the following areas:
 > 
 > **Profile**  
 >  We store information that we collect through cookies, log files to create a “profile” of your preferences. We tie your personally identifiable information to information in the profile, in order to improve the content of the Exporters.SG for you.
+> 
+> Back to Top
 
 **2\. Information Sharing & Disclosures**
 
@@ -90,10 +66,14 @@ Our Privacy Statement covers the following areas:
 > 
 > **Legal Disclaimer  
 > ** We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on Exporters.SG.
+> 
+> Back to Top
 
 **3\. How You Can Choose To Opt Out**
 
 If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter communication or [contact us](https://web.archive.org/info/contact_form.asp?subject=Questions%20on%20Privacy%20Statement).
+
+> Back to Top
 
 **4\. How We Use Log Files**
 
@@ -103,6 +83,8 @@ We use this information, which does not identify individual users, to analyze tr
 
 IP addresses are tied to personally identifiable information so that we can provide this information to third-parties in case of fraud and crime.
 
+> Back to Top
+
 **5\. What Is Cookies And How We Use It**
 
 A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do link the information we store in cookies to any personally identifiable information you submit while on our site.
@@ -110,6 +92,8 @@ A cookie is a small text file that is stored on a user’s computer for record-k
 We use both session ID cookies and/or persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. 
 
 We use persistent cookie when you want Exporters.SG to remember your email address for your log in. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.
+
+> Back to Top
 
 **6\. About Links to Other Sites**
 
@@ -119,9 +103,13 @@ We encourage you to be aware when you leave our site and to read the privacy sta
 
 This privacy statement applies only to information collected by Exporters.SG. 
 
+> Back to Top
+
 **7\. About Discussion Boards/Chat Rooms**
 
 If you use a discussion board or chat room on Exporters.SG, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
+
+> Back to Top
 
 **8\. Security Of Your Personal Information**
 
@@ -131,9 +119,13 @@ We follow generally accepted industry standards to protect the personal informat
 
 If you have any questions about security on our Web site, you can [contact us](https://web.archive.org/info/contact_form.asp?subject=Questions%20on%20Privacy%20Statement).
 
+> Back to Top
+
 **9\. Business Transitions**
 
 In the event UNET Global Solutions Pte Ltd goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via prominent notice on Exporters.SG of any such change in ownership or control of your personal information.
+
+> Back to Top
 
 **10\. Changes in this Privacy Statement**
 
@@ -141,7 +133,11 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
-**Contact Us**  
+> Back to Top
+
+**11\. Contact Us**  
 If you have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/info/contact_form.asp?subject=Questions%20on%20Privacy%20Statement).
+
+> Back to Top
 
 **Updated on 4th October 2005**
