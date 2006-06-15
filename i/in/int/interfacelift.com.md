@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the interfacelift.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212110238id_/http%3A//interfacelift.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interfacelift.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615191317id_/http%3A//interfacelift.com/site/privacy.html) for the most accurate reproduction.*
 
-# InterfaceLIFT - Free GUI Enhancements for Mac OS X and Windows XP
+# 
 
 InterfaceLIFT takes your privacy seriously. Please read the following to learn more about how we protect and respect your personal privacy while logged into our web server.
 
