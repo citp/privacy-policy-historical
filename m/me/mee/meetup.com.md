@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meetup.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218102948id_/http%3A//www.meetup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meetup.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615204155id_/http%3A//www.meetup.com/privacy) for the most accurate reproduction.*
 
 # Meetup Privacy Policy Statement - Meetup.com
 
