@@ -1,214 +1,312 @@
-<!--The following is the downloaded HTML source of the venturacountystar.com privacy policy that was archived on 2005-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051228053146id_/http%3A//web.venturacountystar.com/info/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the venturacountystar.com privacy policy that was archived on 2006-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615212609id_/http%3A//web.venturacountystar.com/info/privacy.shtml) for the most accurate reproduction.-->
 
 <html><head>
-<title>VenturaCountyStar.com</title>
+		<title>Ventura County Star- Personal Finance</title>
+		
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<meta http-equiv="Refresh" content="1800">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<link rel="stylesheet" href="http://www.VenturaCountyStar.com/vcs/cda/styles/mainCSS">
 
-<script language="JavaScript">
-<!-- Original:  Eric King (eric_andrew_king@hotmail.com) -->
-<!-- Web Site:  http://redrival.com/eak/ -->
+		<link rel="stylesheet" href="http://www.venturacountystar.com/vcs/cda/styles/mainCSS">
 
-<!-- This script and many more are available free online at -->
-<!-- The JavaScript Source!! http://javascript.internet.com -->
+		<link rel="shortcut icon" href="http://www.venturacountystar.com/vcs/images/icons/favicon.ico">
+		<script language="JavaScript">
 
-<!-- Begin
-function NewWindow(mypage, myname, w, h, scroll) {
-var winl = (screen.width - w) / 2;
-var wint = (screen.height - h) / 2;
-winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable'
-win = window.open(mypage, myname, winprops)
-if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+function popup(url,w,h,menu) {
+	x = Math.floor((screen.width - w) / 2);
+	y = Math.floor((screen.height - h) / 2);        
+	now = new Date();
+	features = "screenx="+x+",screeny="+y+",left="+x+",top="+y+",width="+w+",height="+h+",location=no,resizable=yes"+",directories=no,status=no,scrollbars=yes";
+
+	if (menu != null) {
+		//features += ",menubar=yes,toolbar=yes,scrollbars=yes";
+		features += ",menubar=yes,toolbar=yes";
+	} else {
+		//features += ",menubar=no,toolbar=no,scrollbars=no"; 
+		features += ",menubar=no,toolbar=no"; 
+	}
+	window.open(url,"newwin",features);
 }
-//  End -->
+
+
+function MM_reloadPage(init) {  
+  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {
+    if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+     document.MM_pgW=innerWidth; 
+	 document.MM_pgH=innerHeight;
+	 onresize=MM_reloadPage; 
+    }
+  } else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH)
+    location.reload();
+}
+
+// for Netscape thisdomain = www.scripps.com
+// for other browser thisdomain = scripps.com
+
+thisdomain = document.location + "";
+thisdomain = thisdomain.substring(thisdomain.indexOf('//')+2,thisdomain.length);
+thisdomain = thisdomain.substring(0,thisdomain.indexOf('/'));
+thisdomain = (navigator.appName != "Netscape")? thisdomain.substring(thisdomain.indexOf('.')+1,thisdomain.length): thisdomain;
+
+
+
+function getCookieVal (offset) {
+	var endstr = document.cookie.indexOf(';',offset);
+	if (endstr == -1) {
+		endstr = document.cookie.length;
+	}
+	return unescape(document.cookie.substring(offset,endstr))
+}
+
+
+function SetCookie (name, value, expires, path, domain, secure) {
+	document.cookie = name + "=" + escape (value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+} 
+
+
+function GetCookie (name) {
+	var arg = name + "=";
+	var alen = arg.length;
+	var clen = document.cookie.length;
+	var i = 0;
+
+	while (i < clen) {
+		var j = i + alen;
+		if (document.cookie.substring(i,j) == arg) {
+			return getCookieVal(j);
+		}
+		i = document.cookie.indexOf(" ", i) + 1;
+		if (i==0) break;
+	}
+	return null;  
+}
+
+
+function DeleteCookie (name, path, domain) {
+   if (GetCookie(name)) {
+    document.cookie = name + "=" + ((path) ? "; path=" + path : "") +  ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+   }
+}
+
+
+function FixCookieDate (date) { 
+	var base = new Date(0); 
+	var skew = base.getTime();
+	if(skew > 0)
+		date.setTime (date.getTime() - skew);     
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function vod (url,streamtitle,customfeatures) {
+	windowFeatures = 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,width=210,height=480';
+
+	//Browser Detection
+	var browser = "";
+	var browsername = navigator.appName;
+	var browserversion = parseInt(navigator.appVersion);
+	var browserplatform = navigator.userAgent;
+	if (browsername == "Netscape") {
+		browser = "ns" + browserversion;
+	} else {
+		if (browsername == "Microsoft Internet Explorer") {
+			if (browserversion >= 4) {
+				browser = "ie" + browserversion;
+			} else {
+				browser = "ie3";
+			}
+		}
+	}
+
+	if ((customfeatures) && customfeatures != '') {
+		windowFeatures = customfeatures;
+	}
+
+	if (url.indexOf(".rm",(url.length-10)) != -1) {
+		if (browser != 'ie3') {
+			hasplugin = 'false';
+			// Mac Browser (Not Netscape)
+			if ( (browserplatform.indexOf('Mac') !=-1) && ( browsername != "Netscape")) {
+				numPlugins = 0;
+				// Real Strange never goes into the followinf loop
+				// because numPlugins is 0
+				for (i = 0; i < numPlugins; i++) {
+					plugin = navigator.embeds[i];
+					if (plugin.name.substring(0,10)=="RealPlayer") {
+						hasplugin = 'true';
+					}
+				}
+			} else {
+				numPlugins = navigator.plugins.length;
+				for (i = 0; i < numPlugins; i++) {
+					plugin = navigator.plugins[i];
+					if (plugin.name.substring(0,10)=="RealPlayer") {
+						hasplugin = 'true';
+					}
+				}
+			}
+			if (browser.substring(0,2) == 'ie') {
+				hasplugin = 'true';
+			}
+			if (hasplugin == 'true') {
+				videoWin = window.open (url , 'video', windowFeatures);
+				if (streamtitle != '') {
+					videoWin.streamtitle=streamtitle;
+				}
+				videoWin.document.close();              
+			} else {
+				stream = url.substring(0,(url.length-5));
+				location.href=stream + '.ram';
+			}
+		} else {
+			videoWin = window.open (url , 'video', windowFeatures);
+			if (document.images) {
+				if (streamtitle != '') {
+					videoWin.streamtitle=streamtitle;
+				}
+			}
+			videoWin.document.close();                      
+		}               
+	} else {
+		videoWin = window.open (url , 'video', windowFeatures);
+		if (document.images) {
+			if (streamtitle != '') {
+				videoWin.streamtitle=streamtitle;
+			}
+		}
+		videoWin.document.close();
+	}
+}
 </script>
 
-</head>
+		
+		<script type="text/javascript" src="http://www.venturacountystar.com/vcs/jslib/0,2312,,00.js"></script>
+		
+		
+		
+		
+		<script type="text/javascript">
+		<!--
+		// Prevent others from including this site
+		var preview = 'no'
+		if (preview != 'yes') {
+			if (top != self) {
+				top.location = location;
+			}
+		}
 
-<body bgcolor="#FFFFFF" link="#336600" vlink="#336600" alink="#336600">
-<script src="http://apptap.venturacountystar.com/apptap3?site=VCS&amp;app=webdot"></script>
-   	<script>apptap();</script>
+		MM_reloadPage(true);
+
+		if (GetCookie('cookieChk') == null) { 
+			var expdate = new Date ();
+
+			// Correct for Mac date bug - call only once for given Date object!
+			FixCookieDate (expdate); 
+
+			// expires 30 days from now
+			expdate.setTime (expdate.getTime() + (30 * 24 * 60 * 60 * 1000)); 
+			SetCookie ('cookieChk', 'OK', expdate, '/', thisdomain, null);
+		}
+		// -->
+		</script>
+		
+		</head><body bgcolor="#FFFFFF" link="#336600" vlink="#336600" alink="#336600">
+
+<!-- APPTAP CALL START -->
+
+<script src="http://apptap.venturacountystar.com/apptap3?site=VCS&amp;app=FF&amp;path=http://www.venturacountystar.com/vcs/WEATHER"></script>
+<script>apptap();</script> <!-- APPTAP CALL END -->
 <table width="760" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
-<td width="610" valign="top"> 
-
-		<!-- BEGIN TABLE FOR TOP AD -->
-			<table width="600" border="0" cellspacing="0" cellpadding="4" bgcolor="#000000" height="60">
-			<tbody><tr><td valign="top">
-			<!-- AdSpace vgncontent=SPORTS adsize=115x60 pos.1 -->
-			<iframe width="115" height="60" marginwidth="0" marginheight="0" frameborder="0" bordercolor="000000" scrolling="no" src="http://adsremote.scripps.com/html.ng/site=VCS&amp;vgncontent=SPORTS&amp;pagetype=article-detail&amp;adsize=115x60&amp;PagePos=1&amp;transactionID=$gmt$">
-			<script language='JavaScript1.1' src='http://adsremote.scripps.com/js.ng/params.richmedia=yes&site=VCS&vgncontent=SPORTS&pagetype=article-detail&adsize=115x60&PagePos=1&transactionID=$gmt$'>
-			</script>
-			<noscript>
-			<a href='http://adsremote.scripps.com/click.ng/params.richmedia=yes&site=VCS&vgncontent=SPORTS&pagetype=article-detail&adsize=115x60&PagePos=1&transactionID=$gmt$'>
-			<img src='http://adsremote.scripps.com/image.ng/params.richmedia=yes&site=VCS&vgncontent=SPORTS&pagetype=article-detail&adsize=115x60&PagePos=1&transactionID=$gmt$' border=0></a>
-			</noscript>
-			</iframe>
-			<!-- /AdSpace -->
-		</td><td valign="top">
-			<!-- AdSpace vgncontent=SPORTS adsize=468x60 pos.1 -->
-			<iframe width="468" height="60" marginwidth="0" marginheight="0" frameborder="0" bordercolor="000000" scrolling="no" src="http://adsremote.scripps.com/html.ng/site=VCS&amp;vgncontent=SPORTS&amp;pagetype=article-detail&amp;adsize=468x60&amp;PagePos=1&amp;transactionID=$gmt$">
-			<script language='JavaScript1.1' src='http://adsremote.scripps.com/js.ng/params.richmedia=yes&site=VCS&vgncontent=SPORTS&pagetype=article-detail&adsize=468x60&PagePos=1&transactionID=$gmt$'>
-			</script>
-			<noscript>
-			<a href='http://adsremote.scripps.com/click.ng/params.richmedia=yes&site=VCS&vgncontent=SPORTS&pagetype=article-detail&adsize=468x60&PagePos=1&transactionID=$gmt$'>
-			<img src='http://adsremote.scripps.com/image.ng/params.richmedia=yes&site=VCS&vgncontent=SPORTS&pagetype=article-detail&adsize=468x60&PagePos=1&transactionID=$gmt$' border=0></a>
-			</noscript>
-			</iframe>
-			<!-- /AdSpace -->
-		</td>
-			</tr>
-			</tbody></table><br>
-		<!-- END TABLE FOR TOP AD -->
-
-		<p>
-
-
-<!-- AppTap Nov. 19, 2004 -->
-<script src="http://apptap.venturacountystar.com/apptap3?site=VCS&amp;app=webdot"></script>
-   	<script>apptap();</script>
-
-		<!-- BEGIN TABLE FOR VERTICALS LINKS -->
+<td width="600" valign="top">
 	
-		<!---------------------BEGIN TABLE FOR VERTICAL TABS------------------ --> 
-		<table delv="HEADER_VERTICAL_TAB" width="600" border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr>
-				<td height="15" rowspan="2"><b><span class="smalltext">&nbsp;The Ventura County Star Network:&nbsp;&nbsp;</span><a href="http://www.venturacountystar.com/wheels/" class="verticaltext">Autos</a>&nbsp;&nbsp;<a href="http://www.venturacountystar.com/realestate/" class="verticaltext">Real Estate</a>&nbsp;&nbsp;<a href="http://www.venturacountystar.com/classifieds/" class="verticaltext">Classifieds</a>&nbsp;&nbsp;<a href="http://www.venturacountystar.com/jobs/" class="verticaltext">Jobs</a>&nbsp;&nbsp;<img src="/mca/images/spacers/spacer.gif" width="105" height="1"><a href="http://reg.venturacountystar.com/vcs/web/registrationForm" class="verticaltext">Registration</a><!-- MaxSize (5) --></b></td>
-			</tr>
-		</tbody></table>
+	
+		<!-- Vignette V6 Wed Jan 18 09:45:41 2006 -->
 
-		<!-- ------------------END TABLE FOR VERTICAL TABS------------------ -->
+	
+			<img src="http://www.venturacountystar.com/vcs/images/spacers/spacer.gif" width="600" height="220" birder="0"><br>
+			<div style="position:absolute; top:0px; left:0px; width:760px; height:100px; z-index:10; background-image:url(http://web.venturacountystar.com/sitegraphics/digital/headers/header_main_760.jpg); ">
+		<img border="0" src="http://www.venturacountystar.com/vcs/images/spacers/spacer.gif" alt="" width="760" height="80"><br>
 
-		<!-- END TABLE FOR VERTICALS LINKS -->
+				<table width="760" border="0" cellspacing="0" cellpadding="0" height="22">
+		<tbody><tr bgcolor="#000000">
+			<td width="760" valign="top"><span class="navbartext">&nbsp;&nbsp;&nbsp;</span>
+			<img src="http://www.venturacountystar.com/vcs/images/spacers/spacer.gif" width="1" height="10" border="0" hspace="0" vspace="0"><a href="http://www.venturacountystar.com/vcs/WEATHER/0,1375,VCS_236,00.html" class="navbartext">Get Local</a><span class="navbartext">&nbsp;</span>
 
+<img src="http://www.venturacountystar.com/vcs/images/spacers/spacer.gif" width="8" height="10" border="0" hspace="0" vspace="0"><a href="http://www.venturacountystar.com/vcs/news/0,1375,VCS_121,00.html" class="navbartext">News</a><span class="navbartext">&nbsp;</span>
 
+<img src="http://www.venturacountystar.com/vcs/images/spacers/spacer.gif" width="8" height="10" border="0" hspace="0" vspace="0"><a href="http://www.venturacountystar.com/vcs/sports/0,1375,VCS_134,00.html" class="navbartext">Sports</a><span class="navbartext">&nbsp;</span>
 
+<img src="http://www.venturacountystar.com/vcs/images/spacers/spacer.gif" width="8" height="10" border="0" hspace="0" vspace="0"><a href="http://www.venturacountystar.com/vcs/entertainment/0,1375,VCS_232,00.html" class="navbartext">Entertainment</a><span class="navbartext">&nbsp;</span>
 
+<img src="http://www.venturacountystar.com/vcs/images/spacers/spacer.gif" width="8" height="10" border="0" hspace="0" vspace="0"><a href="http://www.venturacountystar.com/vcs/lifestyle/0,1375,VCS_230,00.html" class="navbartext">Lifestyle</a><span class="navbartext">&nbsp;</span>
 
-<!-- --------------------BEGIN TABLE WITH MAIN LOGO IN IT-------------------- -->
-<table width="600" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td width="600">
-<a href="http://www.insidevc.com"><img src="/static/logos/header_news_left.gif" width="160" height="100" border="0" alt="InsideVC.com"></a><a href="/news/index.shtml"><img src="/static/logos/header_news_rt.gif" width="440" height="100" border="0" alt="InsideVC Sports"></a></td>
-</tr>
-</tbody></table>
-<!-- -----------------------END TABLE WITH MAIN LOGO IN IT-------------------- -->
+<img src="http://www.venturacountystar.com/vcs/images/spacers/spacer.gif" width="8" height="10" border="0" hspace="0" vspace="0"><a href="http://www.venturacountystar.com/vcs/business/0,1375,VCS_128,00.html" class="navbartext">Business</a><span class="navbartext">&nbsp;</span>
 
+<img src="http://www.venturacountystar.com/vcs/images/spacers/spacer.gif" width="8" height="10" border="0" hspace="0" vspace="0"><a href="http://www.venturacountystar.com/vcs/opinion/0,1375,VCS_125,00.html" class="navbartext">Opinion</a><span class="navbartext">&nbsp;</span>
 
+<img src="http://www.venturacountystar.com/vcs/images/spacers/spacer.gif" width="9" height="10" border="0" hspace="0" vspace="0"><a href="http://marketplace.venturacountystar.com/mach2/ven/home/Home.action" class="navbartext">|</a>
+<img src="http://www.venturacountystar.com/vcs/images/spacers/spacer.gif" width="9" height="10" border="0" hspace="0" vspace="0"><a href="http://marketplace.venturacountystar.com/mach2/ven/home/Home.action" class="navbartext">Classifieds</a><span class="navbartext">&nbsp;</span>
 
-<!-- -----------------------bEGIN TABLE WITH MAIN SITE NAVIGATION IN IT------------------- -->
+<img src="http://www.venturacountystar.com/vcs/images/spacers/spacer.gif" width="9" height="10" border="0" hspace="0" vspace="0"><a href="http://forums.venturacountystar.com/" class="navbartext">|</a>
 
-<!-- ------------------ BEGIN TABLE FOR HORIZONTAL SITE NAV ------------------ -->
-		<table width="600" border="0" cellspacing="0" cellpadding="4" height="20">	
-		<tbody><tr>
-		<td bgcolor="#000000" class="navbartext">
-		&nbsp;<img src="http://www.venturacountystar.com/vcs/images/bullets/blue_bullet.gif" width="7" height="10" border="0" hspace="0" vspace="0"><a href="http://www.venturacountystar.com" class="navbartext">HOME&nbsp;</a><img src="http://www.venturacountystar.com/vcs/images/bullets/blue_bullet.gif" width="7" height="10" border="0" hspace="0" vspace="0"><a href="http://www.venturacountystar.com/vcs/get_local/" class="navbartext">GET LOCAL&nbsp;</a><img src="http://www.venturacountystar.com/vcs/images/bullets/blue_bullet.gif" width="7" height="10" border="0" hspace="0" vspace="0"><a href="http://www.venturacountystar.com/vcs/news/" class="navbartext">NEWS&nbsp;</a><img src="http://www.venturacountystar.com/vcs/images/bullets/blue_bullet.gif" width="7" height="10" border="0" hspace="0" vspace="0"><a href="http://www.venturacountystar.com/vcs/opinion/" class="navbartext">OPINION&nbsp;</a><img src="http://www.venturacountystar.com/vcs/images/bullets/blue_bullet.gif" width="7" height="10" border="0" hspace="0" vspace="0"><a href="http://www.venturacountystar.com/vcs/business/" class="navbartext">BUSINESS&nbsp;</a><img src="http://www.venturacountystar.com/vcs/images/bullets/blue_bullet.gif" width="7" height="10" border="0" hspace="0" vspace="0"><a href="http://www.venturacountystar.com/vcs/sports/" class="navbartext">SPORTS&nbsp;</a><img src="http://www.venturacountystar.com/vcs/images/bullets/blue_bullet.gif" width="7" height="10" border="0" hspace="0" vspace="0"><a href="http://web.venturacountystar.com/weather/index.htm" class="navbartext">WEATHER&nbsp;</a><img src="http://www.venturacountystar.com/vcs/images/bullets/blue_bullet.gif" width="7" height="10" border="0" hspace="0" vspace="0"><a href="http://www.venturacountystar.com/vcs/lifestyle/" class="navbartext">LIFESTYLE</a> <img src="http://www.venturacountystar.com/vcs/images/bullets/blue_bullet.gif" width="7" height="10" border="0" hspace="0" vspace="0"><a href="http://www.venturacountystar.com/vcs/entertainment/" class="navbartext">ENTERTAINMENT</a></td>
-		</tr>
-		</tbody></table>
-		<!-- ------------------ END TABLE FOR HORIZONTAL SITE NAV ------------------ -->
+<img src="http://www.venturacountystar.com/vcs/images/spacers/spacer.gif" width="9" height="10" border="0" hspace="0" vspace="0"><a href="http://forums.venturacountystar.com/" class="navbartext">Forums</a><span class="navbartext">&nbsp;</span>
 
+<img src="http://www.venturacountystar.com/vcs/images/spacers/spacer.gif" width="8" height="10" border="0" hspace="0" vspace="0"><a href="http://web.venturacountystar.com/blogs/" class="navbartext">Blogs</a><span class="navbartext">&nbsp;</span>
 
+<img src="http://www.venturacountystar.com/vcs/images/spacers/spacer.gif" width="9" height="10" border="0" hspace="0" vspace="0"><a href="http://www.localannouncement.com/" class="navbartext">|</a>
+<!--- <IMG src='http://www.venturacountystar.com/vcs/images/spacers/spacer.gif' width='3' height='10' border='0' hspace='0' vspace='0'><A href='http://www.localannouncement.com/' class='navbartext'>Announcements</A><span class='navbartext'>&nbsp;</span> --->
 
-<!-- -------------------------END TABLE WITH MAIN SITE NAVIGATION IN IT----------------------- -->
+<img src="http://www.venturacountystar.com/vcs/images/spacers/spacer.gif" width="9" height="10" border="0" hspace="0" vspace="0"><a href="http://www.legacy.com/venturacountystar/LegacyHome.asp" class="navbartext">Obits</a><span class="navbartext">&nbsp;</span>
 
+           </td>
+        </tr>
 
-<!-- ----------------------------BEGIN MAIN CONTENT TABLE FOR PAGE--------------------------- -->
-<table width="600" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<!-- don't remove this cell or spacer ... it's a black page border -->
-<td bgcolor="#000000" width="5"><img src="/static/wheels/spacer.gif" width="1" height="1" alt="" border="0"></td>
-
-
-<!-- --------------BEGIN LEFT COLORED CELL FOR LEFT PART OF PAGE-------------- -->
-<td bgcolor="#669966" width="145" valign="top" align="center">
-<img src="/static/wheels/spacer.gif" width="1" height="10" alt="" border="0"><br>
-
-
-
-
-
-
-
-
-<!-- INCLUDE FOR SECTION NAVIGATION GOES HERE -->
-
-<table cellspacing="0" cellpadding="0" width="130" align="center" border="0">
-<tbody>
-<tr>
-<td>
-<table cellspacing="2" cellpadding="0" width="130" align="center" border="0">
-<tbody>
-<tr>
-<td class="sectionheader"><a class="sectionheader" href="http://www.insidevc.com/vcs/news/0,1375,VCS_121,00.html">NEWS</a><br></td></tr></tbody></table><!--DelvFrmt (LNB_SUBSECTIONS)-->
-<table cellspacing="0" cellpadding="0" width="130" align="center" border="0">
-<tbody>
-<tr>
-<td valign="top" width="5"><img height="3" hspace="3" src="http://www.insidevc.com/vcs/images/nav/bullet_sq.gif" width="3" vspace="8" border="0"></td>
-<td width="125"><a class="subnavtext" href="http://www.insidevc.com/vcs/county_news/0,1375,VCS_226,00.html">County News</a></td></tr>
-<tr>
-<td valign="top" width="5"><img height="3" hspace="3" src="http://www.insidevc.com/vcs/images/nav/bullet_sq.gif" width="3" vspace="8" border="0"></td>
-<td width="125"><a class="subnavtext" href="http://www.insidevc.com/vcs/state/0,1375,VCS_122,00.html">State</a></td></tr>
-<tr>
-<td valign="top" width="5"><img height="3" hspace="3" src="http://www.insidevc.com/vcs/images/nav/bullet_sq.gif" width="3" vspace="8" border="0"></td>
-<td width="125"><a class="subnavtext" href="http://www.insidevc.com/vcs/national/0,1375,VCS_123,00.html">National</a></td></tr>
-<tr>
-<td valign="top" width="5"><img height="3" hspace="3" src="http://www.insidevc.com/vcs/images/nav/bullet_sq.gif" width="3" vspace="8" border="0"></td>
-<td width="125"><a class="subnavtext" href="http://www.insidevc.com/vcs/international/0,1375,VCS_124,00.html">International</a></td></tr>
-<tr>
-<td valign="top" width="5"><img height="3" hspace="3" src="http://www.insidevc.com/vcs/images/nav/bullet_sq.gif" width="3" vspace="8" border="0"></td>
-<td width="125"><a class="subnavtext" href="http://wire.ap.org/">AP 
-Wire</a></td></tr>
-<tr>
-<td valign="top" width="5"><img height="3" hspace="3" src="http://www.insidevc.com/vcs/images/nav/bullet_sq.gif" width="3" vspace="8" border="0"></td>
-<td width="125"><a class="subnavtext" href="http://www.insidevc.com/vcs/obituaries/0,1375,VCS_227,00.html">Obituaries</a></td></tr>
-<tr>
-<td valign="top" width="5"><img height="3" hspace="3" src="http://www.insidevc.com/vcs/images/nav/bullet_sq.gif" width="3" vspace="8" border="0"></td>
-<td width="125"><a class="subnavtext" href="http://www.insidevc.com/vcs/coleen_cason/0,1375,VCS_221,00.html">Coleen 
-Cason</a></td></tr></tbody></table>
-<hr align="center" width="130" noshade="" size="1">
-</td></tr></tbody></table>
-
-
-
-
-
-
-
-<p>
-<table class="calendarbg" cellspacing="0" cellpadding="3" width="130" align="center" border="0">
-<tbody>
-<tr valign="top">
-<td class="smalltext">
-<p><span class="bodytext"><b>Local News:</b></span><br>• <a class="deeplinks2" href="http://www.insidevc.com/vcs/ca/">Camarillo</a><br>• <a class="deeplinks2" href="http://www.insidevc.com/vcs/co_valley/">Conejo Valley</a><br>• <a class="deeplinks2" href="http://www.insidevc.com/vcs/fi/">Fillmore<br></a>• <a class="deeplinks2" href="http://www.insidevc.com/vcs/mo/">Moorpark</a><br>• <a class="deeplinks2" href="http://www.insidevc.com/vcs/oj/">Ojai</a><br>• <a class="deeplinks2" href="http://www.insidevc.com/vcs/ox/">Oxnard</a><br>• <a class="deeplinks2" href="http://www.insidevc.com/vcs/ph/">Port 
-Hueneme</a><br>• <a class="deeplinks2" href="http://www.insidevc.com/vcs/sp/">Santa Paula</a><br>• <a class="deeplinks2" href="http://www.insidevc.com/vcs/sv/">Simi Valley</a><br>• <a class="deeplinks2" href="http://www.insidevc.com/vcs/ve/">Ventura</a> 
-</p></td></tr></tbody></table>
-
-
-
-
-
-</p></td>
-<!-- ---------------END LEFT COLORED CELL FOR LEFT PART OF PAGE----------------- -->
-
-<!-- don't remove this cell or spacer ... it's a black page border -->
-<td bgcolor="#000000" width="5"><img src="/static/wheels/spacer.gif" width="1" height="1" border="0" alt=""></td>
-
-
-<!-- --------------BEGIN MAIN CELL FOR CONTENT PART OF PAGE-------------- -->
-<td bgcolor="#FFFFF5" width="440" valign="top" align="center">
-<img src="/static/wheels/spacer.gif" width="1" height="10" border="0" alt=""><br>
-
-
-		<!-- ----------------BEGIN TABLE THAT HOLDS MAIN CONTENT----------------- -->
-		<table width="410" border="0" cellspacing="2" cellpadding="0" align="center">
-		<tbody><tr>
-		<td width="410" valign="top">
-
-
-
-<!-- ---------------MAIN CONTENT GOES IN HERE---------------- -->
-<span class="headline1"><b>Privacy policy</b></span><p>
+     </tbody></table><!-- MaxSize (1) --></div>
+		
+			<div style="position:absolute; top:102px; left:0px; width:760px; height:118px; border-bottom-style:solid; border-bottom-color:#000000; border-bottom-width:2px; background-color:#c7c7c7; z-index:10; text-align:center;">
+				<img src="http://www.venturacountystar.com/vcs/images/spacers/spacer.gif" width="760" height="12" border="0"><br>
+				<script language="JavaScript1.1" src="http://adsremote.scripps.com/js.ng/site=VCS&amp;vgncontent=FINANCE&amp;adsize=728x90&amp;PagePos=1&amp;adtype=LEADERBOARD">
+				</script></div>
+			<!-- MaxSize (3) -->   <!-----------------------BEGIN TABLE FOR MAIN CONTENT AREA--------------------->
+    <table width="600" border="0" cellspacing="0" cellpadding="0" height="800">
+    <tbody><tr>
+        <td width="1" class="wireframe"><img src="http://www.venturacountystar.com/vcs/images/spacers/spacer.gif" width="1" height="1"></td>
+<!-- BEGIN CELL FOR LEFT SIDE CONTENT-->
+			
+				
+		  <td width="758" height="621" valign="top" bgcolor="#FFFFFF">
+			  <table width="758" border="0" cellpadding="10" cellspacing="0" bgcolor="#FFFFFF">
+			    <tbody><tr valign="top"><td class="bodytext">
+					
+        <!-- CONTENT STARTS HERE ACCUWEATHER -->
+    				
+     
+	   <span class="headline1"><b>Privacy policy</b></span><p>
 
 <span class="bodytext">VenturaCountyStar.com is committed to protecting consumer privacy
     online. We believe that greater protection of personal privacy
@@ -231,7 +329,7 @@ Hueneme</a><br>• <a class="deeplinks2" href="http://www.insidevc.com/vcs/sp/">
     links from our sites. You should check the applicable privacy
     policy of the web site sponsor when linking to other web sites.</p>
 
-    <p>I. Information Which We Collect</p>
+    <b><p>I. Information Which We Collect</p></b>
 
     <p>We may request that you voluntarily supply us with
     personal information, including your e-mail address, postal address,
@@ -287,7 +385,7 @@ Hueneme</a><br>• <a class="deeplinks2" href="http://www.insidevc.com/vcs/sp/">
     users must submit personal information in order for us to send
     the newspaper to you.</p>
 
-    <p>II. Use of User Information</p>
+    <b><p>II. Use of User Information</p></b>
 
     <p>We may perform statistical analyses of aggregate user
     behavior. This allows us to measure relative consumer interest
@@ -308,7 +406,7 @@ Hueneme</a><br>• <a class="deeplinks2" href="http://www.insidevc.com/vcs/sp/">
 	
 
 
-    <p>III. Disclosure to Third Parties</p>
+    <b><p>III. Disclosure to Third Parties</p></b>
 
     <p>We do not share personal identifying information with
     any third party without your permission. We disclose only in
@@ -324,7 +422,7 @@ Hueneme</a><br>• <a class="deeplinks2" href="http://www.insidevc.com/vcs/sp/">
     be collected by others outside the control of us and may result
     in unsolicited messages from others.</p>
 
-    <p>IV. Accuracy of User Information</p>
+    <b><p>IV. Accuracy of User Information</p></b>
 
     <p>In order to ensure the accuracy of personal information
     provided for registration, you may return to the registration
@@ -344,7 +442,7 @@ Hueneme</a><br>• <a class="deeplinks2" href="http://www.insidevc.com/vcs/sp/">
     and will post any changes to this policy as soon as they go into
     effect.</p>
 
-    <p>V. Security of Information</p>
+    <b><p>V. Security of Information</p></b>
 
     <p>We use our best efforts to ensure the security of
     personal information submitted by users. When collecting credit
@@ -354,7 +452,7 @@ Hueneme</a><br>• <a class="deeplinks2" href="http://www.insidevc.com/vcs/sp/">
     other information from our users, it is stored in an area where
     the general public does not have access to it.</p>
 
-    <p>VI. Opting-out</p>
+    <b><p>VI. Opting-out</p></b>
 
     <p>At any time while assessing our site(s), any user
     while online may "opt-out" of further e-mail contact
@@ -362,7 +460,7 @@ Hueneme</a><br>• <a class="deeplinks2" href="http://www.insidevc.com/vcs/sp/">
     information about opting-out, contact us at the e-mail address,
     postal address or telephone number stated above.</p>
 
-    <p>VII. Use of Materials</p>
+    <b><p>VII. Use of Materials</p></b>
 
     <p>The right to download and store or output the materials
     in our site(s) is granted for the user's personal use only, and
@@ -378,343 +476,230 @@ Hueneme</a><br>• <a class="deeplinks2" href="http://www.insidevc.com/vcs/sp/">
 
 
 
-		
-			
+	   
+	   
+	   
+	   
+	   
+	   
+	   
+	   </td>
+				</tr>
+       	  </tbody></table>       	  
+			  
+	   
+	   
+	   
+	   
+	   
+        </td>
+         <td width="1" class="wireframe"><img src="http://www.venturacountystar.com/vcs/images/spacers/spacer.gif" width="1" height="1"></td>
 
-<!-- --------------------END HEADLINE AREA------------------ -->
-
-
-</td>
-</tr>
-</tbody></table>
-<!-- ***********END TABLE THAT HOLDS MAIN CONTENT*********** -->
-
-<p>
-
-
-<!-- ----------------END TABLE THAT HOLDS MAIN CONTENT----------------- -->
-
-
-
-
-
-<!--- EDIT end Main Section Here --->				
-	<!-- MaxSize (8) -->    </p></td>
-            </tr>
-            </tbody></table>
-        </p></td>
-         <td width="2" class="wireframe"><img src="http://www.venturacountystar.com/vcs/images/spacers/spacer.gif" width="1" height="1"></td>
     </tr>
     </tbody></table>
 
-    <!-- ----------------------------------END OF TABLE FOR CONTENT AREA------------------------------------ -->
-			     
-    	
-    <!-- ----------------------BEGIN SITE FOOTER LIBRARY ----------------------- -->	 
-        <!-- Vignette V6 Thu Jan 13 14:19:14 2005 -->
-
-  
-			
-					<!-- ------------------BEGIN SEPARATOR TABLE------------------------- --> 
-					<table width="600" border="0" cellspacing="0" cellpadding="0" height="">
-						<tbody><tr bgcolor="#000000">
-							<td><img src="http://www.venturacountystar.com/vcs/images/spacers/spacer.gif" width="1" height="1" border="0" alt=""></td>
-						</tr>
-					</tbody></table>
-
-					<!-- ------------------END SEPARATOR TABLE------------------------- -->
-			<table width="600" border="0" cellspacing="0" cellpadding="5">
-<tbody><tr>
-<td width="545" bgcolor="#000000" align="right" class="railtext">
+<!-- ------------------BEGIN SEPARATOR TABLE------------------------- --> 
+     <table width="760" border="0" cellspacing="0" cellpadding="0" height="">
+      <tbody><tr bgcolor="#000000">
+       <td><img src="http://www.venturacountystar.com/vcs/images/spacers/spacer.gif" width="1" height="1" border="0" alt=""></td>
  
-<b>2005 © The E.W. Scripps Co. </b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ventura County Star <a href="https://secure.venturacountystar.com/circulation/index.cfm" class="railtext"><b>subscription services</b></a><br>
+      </tr>
+     </tbody></table>
+
+<!-- ------------------END SEPARATOR TABLE------------------------- -->
+   <table width="760" border="0" cellspacing="0" cellpadding="5"> <tbody><tr>
+    <td bgcolor="000000" align="center" colspan="4" class="railtext"> <!--- <div align="left">&nbsp;&nbsp;Advertisement</div> --->
+
+    </td>
+   </tr>
+<tr>
+<td bgcolor="000000" align="center" colspan="2" class="railtext"><img src="http://www.venturacountystar.com/vcs/images/spacers/spacer.gif" width="60" height="1"></td>
+<td width="705" bgcolor="#000000" align="right" class="railtext">
+ 
+<b>2006 © The E.W. Scripps Co. </b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ventura County Star <a href="https://secure.venturacountystar.com/circulation/index.cfm" class="railtext"><b>subscription services</b></a><br>
+ 
  
 Users of this site are subject to our <a href="http://web.venturacountystar.com/info/privacy.shtml" class="railtext"><b>Privacy Policy</b></a> and <a href="http://web.venturacountystar.com/info/user.shtml" class="railtext"><b>User Agreement</b></a><br>
+ 
+Contact VenturaCountyStar.com at <a href="mailto:feedback@venturacountystar.com" class="railtext"><b>Feedback@venturacountystar.com</b></a> | <a href="http://web.venturacountystar.com/onlineadvertise/" class="railtext"><b>Advertising</b></a>
 
  
-Contact VenturaCountyStar.com at <a href="mailto:feedback@venturacountystar.com" class="railtext"><b>Feedback@venturacountystar.com</b></a> | <a href="http://web.venturacountystar.com/onlineadvertise/" class="railtext"><b>Advertising</b></a></td>
+<p>
+Comparison Shop for <a href="http://www.shopzilla.com/7R--Sports_Outdoors_-_cat_id--12000000__rf--vcs001" target="_new" title="Sports Equipment" class="railtext"><b>Sports Equipment</b></a> and <a href="hhttp://www.shopzilla.com/10J--Television_TV__-_cat_id--11520000__rf--vcs001" target="_new" title="Plasma Television" class="railtext"><b>Plasma Televisions</b></a> at <a href="http://www.shopzilla.com/index.xpml?rf=vcs001" target="_new" title="Shopzilla.com" class="railtext"><b>Shopzilla</b></a> &amp; 
  
-<td width="45" bgcolor="#000000"><a href="http://www.scripps.com/"><img src="http://www.venturacountystar.com/vcs/images/logos/lighthouse.gif" width="40" height="40" align="right" hspace="3" border="0" alt="E.W. Scripps Co."></a></td>
-</tr>
-</tbody></table>
+<script type="text/javascript">
+<!-- 
+document.write('<a href="http://' + 'www.bizrate' + '.com/index__rf--vcs001.html" target="_new" title="BizRate.com" rel="nofollow" class="railtext"><b>BizRate</b></a>'); 
+//--> 
+</script><a href="http://www.bizrate.com/index__rf--vcs001.html" target="_new" title="BizRate.com" rel="nofollow" class="railtext"><b>BizRate</b></a> 
+</p>
+ 
+</td>
 
  
-<!-- MaxSize (1) -->  <!-- ----------------------END SITE FOOTER LIBRARY ----------------------- -->
-    
-
-<!-- ----------------------BEGIN CELL THAT HOLDS RIGHT GUTTER INFO ----------------------- -->
-
-
-  	
-    <!-- --------------------BEGIN ADVERTISER INDEX--------------- -->					   
-    <!-- Vignette V6 Mon Jan 24 15:20:13 2005 -->
-
-   
-		<!-- VCS,236,7498,GUTTER_AD_2_120X240_CSS_FORMAT,no,GET_LOCAL -->
-		<!-- --------------------BEGIN ADVERTISER INDEX--------------- --> 
-			<div class="gutter_ad_bucket">
-				
-						Advertisement<br> 
-			<!-- AdSpace vgncontent=GET_LOCAL adsize=120x240 pos.1  pagetype=SECTION -->
-
-			<iframe width="120" height="240" marginwidth="0" marginheight="0" frameborder="0" bordercolor="000000" scrolling="no" src="http://adsremote.scripps.com/html.ng/site=VCS&amp;vgncontent=GET_LOCAL&amp;pagetype=SECTION&amp;adsize=120x240&amp;PagePos=1">
-			<script language='JavaScript1.1' src='http://adsremote.scripps.com/js.ng/params.richmedia=yes&site=VCS&vgncontent=GET_LOCAL&pagetype=SECTION&adsize=120x240&PagePos=1'>
-			</script>
-			<noscript>
-			<a href='http://adsremote.scripps.com/click.ng/params.richmedia=yes&site=VCS&vgncontent=GET_LOCAL&pagetype=SECTION&adsize=120x240&PagePos=1'>
-			<img src='http://adsremote.scripps.com/image.ng/params.richmedia=yes&site=VCS&vgncontent=GET_LOCAL&pagetype=SECTION&adsize=120x240&PagePos=1' border=0></a>
-			</noscript>
-			</iframe>
-			<!-- /AdSpace -->
-
-		 
-						<br><br>
-						Advertisement<br> 
-			<!-- AdSpace vgncontent=GET_LOCAL adsize=120x240 pos.2  pagetype=SECTION -->
-			<iframe width="120" height="240" marginwidth="0" marginheight="0" frameborder="0" bordercolor="000000" scrolling="no" src="http://adsremote.scripps.com/html.ng/site=VCS&amp;vgncontent=GET_LOCAL&amp;pagetype=SECTION&amp;adsize=120x240&amp;PagePos=2">
-			<script language='JavaScript1.1' src='http://adsremote.scripps.com/js.ng/params.richmedia=yes&site=VCS&vgncontent=GET_LOCAL&pagetype=SECTION&adsize=120x240&PagePos=2'>
-			</script>
-			<noscript>
-			<a href='http://adsremote.scripps.com/click.ng/params.richmedia=yes&site=VCS&vgncontent=GET_LOCAL&pagetype=SECTION&adsize=120x240&PagePos=2'>
-			<img src='http://adsremote.scripps.com/image.ng/params.richmedia=yes&site=VCS&vgncontent=GET_LOCAL&pagetype=SECTION&adsize=120x240&PagePos=2' border=0></a>
-
-			</noscript>
-			</iframe>
-			<!-- /AdSpace -->
-		 
-						
-			</div><p>
-			<table width="160" border="0" cellspacing="0" cellpadding="0">
+<td width="45" bgcolor="#000000"><a href="http://www.scripps.com/"><img src="http://www.venturacountystar.com/vcs/images/logos/lighthouse.gif" width="40" height="40" align="right" hspace="3" border="0" alt="E.W. Scripps Co."></a><br>
+			<table width="10" border="0" cellspacing="0" cellpadding="0">
 			<tbody><tr>
 				<td>
-				<div id="search" style="position: absolute; height:58px; z-index:1; left: 465px; width: 141px; top: 125px;" class="searchtext">
-	<form name="searchForm" action="http://websearch.venturacountystar.com/vcs/web/searchResults" method="get">
+				<style>
+.navbartext {
+text-transform: none;
+font-size: 10px;
+}
 
-Search site for:<br>
-<input type="hidden" value="VCS" name="site"> <input type="hidden" value="site" name="searchType"><input size="12" name="searchString"> 
-<input name="GoSearch" type="image" src="http://www.venturacountystar.com/vcs/images/nav/go_search.gif" alt="Go!" align="absmiddle" width="19" height="19" border="0"> <br>
+.searchtext{
+text-transform: none;
+font-size: 12px;
+}
 
-<a href="http://www.venturacountystar.com/vcs/get_local/0,1375,VCS_236,00.html" target="_blank" class="searchtext">Search Help »	</a>
+.searchtext2{
+font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; 
+font-size: 10px; 
+font-style: normal; 
+font-size-adjust: none; 
+outline: none; 
+font-variant: normal; 
+text-decoration: none;
+text-transform: none;
+}
+
+a.searchtext2{
+font-variant: normal; 
+text-decoration: none;
+text-transform: none;
+
+}
+
+</style>	
+			<div style="position:absolute; height:58px; z-index:15; left: 623px; top: 0px; width: 141px;" class="searchtext">
+			<a href="http://www.venturacountystar.com" class="searchtext"><img src="http://www.venturacountystar.com/vcs/images/spacers/spacer.gif" width="141" height="58" border="0" hspace="0" vspace="0" alt="Ventura County Star"></a><br>
+
+			
+			<a href="https://secure.venturacountystar.com/circulation/index.cfm" target="_blank" class="searchtext">Subscribe</a> | <a href="http://web.venturacountystar.com/onlineadvertise/" target="_blank" class="searchtext">Print Ads</a></div>
+			
+			<div style="position:absolute; height:58px; z-index:15; left: 0px; top: 0px; width: 341px;" class="searchtext">
+			<a href="http://www.venturacountystar.com" class="searchtext"><img src="http://www.venturacountystar.com/vcs/images/spacers/spacer.gif" width="341" height="58" border="0" hspace="0" vspace="0" alt="Ventura County Star"></a></div>
+			
+			<div id="search" style="position:absolute; height:58px; z-index:15; left: 780px; top: 10px; width: 180px;" class="searchtext2">
+
+	<form name="searchForm" action="http://search.venturacountystar.com/sp" method="get">
+Search entire site for:<br>
+<input type="hidden" value="VCS" name="site"> 
+<input type="hidden" value="site" name="searchType">
+<input size="22" name="keywords" style="font-size: 10px; font-family: Verdana, Arial, Geneva, Helvetica, sans-serif;" height="12">&nbsp;
+<input name="GoSearch" type="image" src="http://www.venturacountystar.com/vcs/images/nav/go_search.gif" alt="Go!" align="absmiddle" width="19" height="19" border="0">
+
+<a href="http://www.venturacountystar.com/vcs/WEATHER/0,1375,VCS_236,00.html" target="_blank" class="searchtext2" style="color: #0E1131;"><!--- Search Help &raquo;	 ---></a>
 	</form></div>
+
+		<div id="rsslink" style="position: absolute; z-index:1; left: 878px; top: 64px; width: 30px; height:10px; " class="searchtext">
+
+	<a href="http://web.venturacountystar.com/pages/rss/index.html" title="Click here to see a list of VCStar RSS feeds.">
+		<img src="http://web.venturacountystar.com/special/rss/click_rss_logo.gif" border="0"></a>
+
+	</div>
+	
+	<div id="reglink" style="position: absolute; z-index:1; left: 780px; top: 64px; width: 30px; height:10px; " class="searchtext">
+	<a href="http://reg.venturacountystar.com/vcs/web/loginForm" title="Click here to register, sign in, or edit your registration.">
+		<img src="http://web.venturacountystar.com/sitegraphics/blue/mini_reg.gif" border="0"></a>
+	</div>		</td>
+</tr>
+</tbody></table></td>
+</tr>
+</tbody></table><!-- MaxSize (1) -->  <!-- ----------------------END SITE FOOTER LIBRARY ----------------------- -->
+
+
+
+
 	
 
-<div class="gutter_title">STAR Front Page</div>
-	<div class="gutter_promo">
 
-        <a href="http://web.venturacountystar.com/banners/frontpage/frontpage.htm" class="deeplinks2" target="frontpage" onclick="window.open('','frontpage','width=960,height=700,scrollbars=yes,resizable=auto');">
-			<img src="http://web.venturacountystar.com/banners/frontpage/frontpage_sm.jpg" width="120" border="0"></a></div>
-<br><br>
-<div class="gutter_title">STAR Site Specials</div>
-<div class="gutter_promo">
-	<table width="120" border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr><td width="120" valign="top" border="0" cellspacing="0" cellpadding="0">
-
-				<table border="0" cellpadding="0" cellspacing="0" width="120" align="center" valign="middle">
-					<tbody><tr><td bgcolor="#FFFFFF">
-
-							<table border="0" cellpadding="0" cellspacing="0">
-								<tbody><tr><td colspan="2">
-										<a class="relatedlink" href="http://web.venturacountystar.com/special/weekinphotos/thisweek/index.cfm?PhotoCount=1" target="week" onclick="window.open('','week','width=850,height=620,scrollbars=no,resizable=auto');">
-											<img src="http://web.venturacountystar.com/sitegraphics/blue/gutter_potw_01.gif" width="120" height="35" border="0"></a></td></tr>
-								<tr><td><a class="relatedlink" href="http://web.venturacountystar.com/special/weekinphotos/thisweek/index.cfm?PhotoCount=1" target="week" onclick="window.open('','week','width=850,height=620,scrollbars=no,resizable=auto');">
-											<img src="http://web.venturacountystar.com/sitegraphics/blue/gutter_potw_02.jpg" width="80" height="52" border="0"></a></td>
-									<td rowspan="2"><a href="http://www.venturacountystar.com/vcs/county_news/article/0,1375,VCS_226_1038579,00.html">
-											<img src="http://web.venturacountystar.com/sitegraphics/blue/gutter_potw_03.gif" width="40" height="71" border="0"></a></td></tr>
-								<tr><td><a href="http://www.venturacountystar.com/vcs/vcpreps_photo_gallery/0,1375,VCS_644,00.html">
-
-											<img src="http://web.venturacountystar.com/sitegraphics/blue/gutter_potw_04.gif" width="80" height="19" border="0"></a></td></tr>
-							</tbody></table></td></tr>
-					
-					
-				</tbody></table>
-
-				
-			</td>
-		</tr>
-	</tbody></table>
-</div>
 <!-- DO NOT REMOVE MARKETRAIL DIV -- EVER!!!!! -->
 <div id="marketrail">
+<img src="http://www.venturacountystar.com/vcs/images/spacers/spacer.gif" width="100" height="86" border="0"><br>
 <!-- Marketplace Slices (marketplace_rail_top.psd) -->
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td colspan="4" bgcolor="#6394C9">
-			<img src="http://web.venturacountystar.com/sitegraphics/blue/spacer.gif" width="200" height="18"></td></tr><tr><td colspan="4">
-			<img src="http://web.venturacountystar.com/sitegraphics/blue/m_rail-1_02.gif" width="200" height="39"></td></tr><tr><td colspan="4" bgcolor="#6394C9">
-			<img src="http://web.venturacountystar.com/sitegraphics/blue/spacer.gif" width="200" height="9"></td></tr><tr><td>
-			<a href="http://www.venturacountystar.com/vcs/homes"><img src="http://web.venturacountystar.com/sitegraphics/blue/m_rail-1_04.gif" width="52" height="40" border="0"></a></td><td>
-			<a href="http://rentals.venturacountystar.com/"><img src="http://web.venturacountystar.com/sitegraphics/blue/m_rail-1_05.gif" width="48" height="40" border="0"></a></td><td>
+			<img src="http://web.venturacountystar.com/sitegraphics/blue/spacer.gif" width="200" height="8"></td></tr><tr><td colspan="4">
+			<a href="http://marketplace.venturacountystar.com/mach2/ven/home/Home.action"><img src="http://web.venturacountystar.com/sitegraphics/blue/m_rail-1_02.gif" border="0" width="200" height="39"></a></td></tr><tr><td colspan="4" bgcolor="#6394C9">
+			<img src="http://web.venturacountystar.com/sitegraphics/blue/spacer.gif" width="200" height="4"></td></tr><tr><td>
+			<a href="http://web.venturacountystar.com/realestate/index.html"><img src="http://web.venturacountystar.com/sitegraphics/blue/m_rail-1_04.gif" width="52" height="40" border="0"></a></td><td>
+			<a href="http://realestate.venturacountystar.com/RealEstate/rentals/Search.asp"><img src="http://web.venturacountystar.com/sitegraphics/blue/m_rail-1_05.gif" width="48" height="40" border="0"></a></td><td>
+
 			<a href="http://jobs.venturacountystar.com/"><img src="http://web.venturacountystar.com/sitegraphics/blue/m_rail-1_06.gif" width="48" height="40" border="0"></a></td><td>
-			<a href="http://wheels.venturacountystar.com/"><img src="http://web.venturacountystar.com/sitegraphics/blue/m_rail-1_07.gif" width="52" height="40" border="0"></a></td></tr><tr><td colspan="4" bgcolor="#6394C9">
-			<img src="http://web.venturacountystar.com/sitegraphics/blue/spacer.gif" width="200" height="26"></td></tr></tbody></table>
+			<a href="http://web.venturacountystar.com/cars/"><img src="http://web.venturacountystar.com/sitegraphics/blue/m_rail-1_07.gif" width="52" height="40" border="0"></a></td></tr><tr><td colspan="2"><a href="http://agents.venturacountystar.com/index.cfm?action=hm_dsp"><img src="http://web.venturacountystar.com/sitegraphics/blue/m-rail_2-1.gif" width="100" height="14" border="0"></a></td><td colspan="2"><a href="http://www.digitalmediaclassifieds.com/Ventura/Employment/Ventura_Employment.htm"><img src="http://web.venturacountystar.com/sitegraphics/blue/m-rail_2-2.gif" width="100" height="14" border="0"></a></td></tr><tr><td colspan="4" bgcolor="#6394C9">
+			<img src="http://web.venturacountystar.com/sitegraphics/blue/spacer.gif" width="200" height="20"></td></tr></tbody></table>
 <!-- End Marketplace Slices -->
 
-<img src="http://web.venturacountystar.com/sitegraphics/blue/marketplace_newspaperads.gif" width="200" height="39">
+
+<a href="http://marketplace.venturacountystar.com/mach2/ven/home/Home.action">
+<img src="http://web.venturacountystar.com/sitegraphics/blue/marketplace_classifiedads.gif" border="0" width="200" height="39"></a>
 <div class="marketrail_search">
 
+
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
-<form name="formcatsearch" action="http://standard.newspaperads.com/scripps_ventura/proc_ext_search.asp" method="get"></form>
   <tbody><tr>
-	<td class="searchtext" valign="top">
-	
-	<select id="interface" style="WIDTH: 173px" name="getInterfaceId" class="searchtext"> 
-	<option selected="">Select a category</option>
-	<option value="global">All</option> 
-	<option value="515_Apparel">Apparel</option> 
-	<option value="516_Auto">Auto</option> 
-	<option value="517_Business to Business">Business to Business </option> 
-	<option value="518_Community Notices">Community Notices</option> 
-	<option value="519_Community Services">Community Services</option> 
-	<option value="520_Employment">Employment</option> 
-	<option value="521_Entertainment">Entertainment</option> 
-	<option value="522_Furniture">Furniture</option> 
-	<option value="523_Health">Health </option> 
-	<option value="524_Home Improvement">Home Improvement </option> 
-	<option value="525_Leisure Living">Leisure Living </option> 
-	<option value="526_Merchandise">Merchandise</option> 
-	<option value="527_Public Notices">Public Notices</option>
-	<option value="528_Real Estate">Real Estate</option> 
-	<option value="529_Rentals">Rentals</option>
-	<option value="530_Services">Services</option>
-	<option value="7767_Electronics">Electronics</option>
-	</select></td>
-  </tr>
-  <tr>
-	<td class="searchtext_rail" valign="top">
-	Enter optional keywords below<br>
-	  <input id="searchtext" name="searchtext" style="WIDTH: 100px">  
-	<input type="submit" value="Find" name="whatever">
-	<input id="subcatdd" type="hidden" value="all_All" name="subcatdd"> 
-	<input id="pubid" type="hidden" value="23" name="localgroupid"></td>
-	</tr>
+	<td class="searchtext_rail" valign="top"><a class="railtext" href="http://www.advertise123.com/vcs/" target="_blank">Place a classified ad here » </a>
+<br> <a class="railtext" href="http://web.venturacountystar.com/advertise/splash/clickandbuy/clickandbuy.html" target="_blank">Click &amp; Buy info » </a>
+<br><a class="railtext" href="http://secure.adpay.com/search.aspx?pid=34656552542B2F676F78626953377A504E6D4B7644413D3D" target="_blank">View Click &amp; Buy ads » </a>
+<br><a href="http://display.venturacountystar.com/ROP/categories.aspx" target="_blank" class="railtext">Browse newspaper ads » </a>
+<br><br><a href="http://www.localannouncement.com/" target="_blank" class="railtext">Engagements &amp; weddings » </a>
+<br><a href="http://WEATHER.venturacountystar.com/" target="_blank" class="railtext">Obituaries » </a>
+</td>
+</tr>
 
 </tbody></table>
-<a href="http://standard.newspaperads.com/scripps_ventura/index.asp" target="_blank" class="railtext">Browse newspaper ads » </a><br>
-<a href="http://customcoupon.com/cgi-bin/valuecenter.cgi?config=VCSTAR" target="_blank" class="railtext">Manufacturers' coupons » </a><br>
-</div><br>
-
-<img src="http://web.venturacountystar.com/sitegraphics/blue/marketplace_classifiedads.gif" width="200" height="39">
-<div class="marketrail_search">
-
-
-<script language="JavaScript">
-					function changeAction() {
-						return changeAction("Search All");
-					}
-					function changeAction(displayName) {
-						if ( document.quickSearch.alias.selectedIndex < 0 ) {
-							alert( 'Please select a category from the list.' );
-							return false;
-						}
-						if (document.quickSearch.alias.value == "allcat" && document.quickSearch.elements["se.category.kq"].value == "") {
-						        alert("Keyword required for " + displayName + ", please enter a Keyword and try again");
-						        return false;
-						}
-						document.quickSearch.action='http://countystar.abracat.com/c2/'+document.quickSearch.alias.options[document.quickSearch.alias.selectedIndex].value +'/results/index.xml'; 
-						return true;
-					}
-				</script>
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-<form name="quickSearch" onsubmit="return changeAction('Search All');" action="#" method="post"></form>
-  <tbody><tr>
-	<td class="searchtext" valign="top">
-	<select class="searchtext" style="WIDTH: 170px" name="alias">
- <option selected="">Select a category...</option>
- <option value="allcat">Search All</option><option value="announcements">Announcements</option><option value="boats">Boats</option><option value="cars">Cars</option><option value="employment">Employment</option><option value="bizops">Financial</option><option value="gsale">Garage Sales</option><option value="house">Houses</option><option value="legal">Legal Notices</option><option value="buyselltrade">Merchandise</option><option value="mobilehomes">Mobile 
-Homes</option><option value="motorcycles">Motorcycles</option><option value="openhouse">Open House Directory</option><option value="othercars">Other 
-Cars</option><option value="animals">Pets &amp; Supplies</option><option value="recommercial">Real Estate Commercial</option><option value="reforsale">Real 
-Estate Residential</option><option value="recreation">Recreation</option><option value="services">Services</option><option value="suvs">SUVs</option><option value="transportation">Transportation</option><option value="truck">Trucks</option>
- 
- </select></td>
-  </tr>
-  <tr>
-	<td class="searchtext_rail" valign="top">
-	Enter optional keywords below<br>
-	  <input class="searchbox" style="WIDTH: 100px" name="se.category.kq">
-<input type="submit" value="Find" name="search">
-<br>
-<br>
-<a href="http://www.advertise123.com/vcs/" target="_blank" class="railtext">Place a classified ad here » </a>
-<br>
-<br>
-</td>
-	</tr>
-
-</tbody></table></div>
-<img src="http://web.venturacountystar.com/sitegraphics/blue/marketplace_s_announcements.gif" width="200">
-<div class="marketrail_search">
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="searchtext" valign="top">
-<a href="http://www.localannouncement.com/" target="_blank" class="railtext">Engagements &amp; weddings » </a><br></td></tr>
-</tbody></table></div>
-<a href="http://obits.venturacountystar.com/" target="_blank" class="railtext"><img src="http://web.venturacountystar.com/sitegraphics/blue/marketplace_s_obits.gif" width="200" height="39" border="0"></a>
-<br><br>
-
-
-<nolayer>
-<iframe width="200" height="600" marginwidth="0" marginheight="0" frameborder="0" bordercolor="000000" scrolling="no" src="http://adsremote.scripps.com/html.ng/site=VCS&amp;vgncontent=BUSINESS&amp;Section=top_jobs&amp;PagePos=1&amp;transactionID=$gmt$">
-</iframe>
-</nolayer>
-<ilayer id="ventura" visibility="hidden" height="600" width="200"></ilayer><!-- MaxSize (5) -->
-<br><br>
-
-<!-- IMPORTANT PUBLICATIONS - This section should contain 4 or 5 elements, the rest should be updated only on
-http://web.venturacountystar.com/special/publications/index.html -->
-<a target="new" href="http://web.venturacountystar.com/special/publications/index.html" onclick="window.open('','new','width=245,height=500,scrollbars=yes,resizable=auto');">
-	<img src="http://web.venturacountystar.com/sitegraphics/blue/marketplace_publications.gif" width="200" height="39" border="0"></a>
-<div class="marketrail_search">
-	<a href="http://www.venturacountystar.com/vcs/living_here/0,1375,VCS_15196,00.html" target="_blank" class="railtext">Living Here » </a><br>
-	<a href="http://adserver1.harvestadsdepot.com/scrippsvcs/ss/015705/" target="_blank" class="railtext">Readers Choice » </a><br>
-	<a href="http://adserver1.harvestadsdepot.com/scrippsvcs/ss/017563/" target="_blank" class="railtext">Shop, Dine, Play » </a><br>
-	<a href="http://adserver1.harvestadsdepot.com/scrippsvcs/ss/017814/" target="_blank" class="railtext">HGTV Magazine » </a><br>
-	<a href="http://adserver1.harvestadsdepot.com/scrippsvcs/ss/014997/" target="_blank" class="railtext">Bridal Section » </a><br>
-	<table align="right"><tbody><tr><td align="right"><a href="http://web.venturacountystar.com/special/publications/index.html" target="_blank" class="railtext" align="right">« View all current</a></td></tr></tbody></table>
-	<br>
 </div>
-<br>
-
-<div class="marketrail_promo">
-<div class="marketrail_pad">
-» <a href="http://www.hgtv.com/hgtv/pac_ctnt_nobanner/text/0,1783,HGTV_10680_19148,FF.html" target="_blank">Designed to Sell</a><br>
-  » <a href="http://www.hgtv.com/hgtv/pac_ctnt_nobanner/text/0,1783,HGTV_10680_9706,FF.html" target="_blank">Adding Curl Appeal</a><br>
-  » <a href="http://www.hgtv.com/hgtv/ah_real_estate_basics/0,1800,HGTV_3157,00.html" target="_blank">Real Estate Basics</a>  </div></div>
 
 
- <table width="200" border="0" cellpadding="0" cellspacing="0" valign="bottom">
- 					<tbody><tr><td height="200"></td></tr>
-					<tr><td class="searchtext" valign="bottom">
+<table width="200" border="0" cellpadding="0" cellspacing="0" valign="bottom">
+					<tbody><tr><td class="searchtext" valign="bottom">
 							<img src="http://web.venturacountystar.com/sitegraphics/blue/marketplace_site_services.gif" width="200" height="39">
 							<div class="marketrail_search">
 								<table width="200" border="0" cellpadding="0" cellspacing="0" align="left">
 									<tbody><tr><td class="searchtext" width="180" align="left">
 										<a class="railtext" href="https://secure.venturacountystar.com/circulation/index.cfm">Subscription services » </a><br>
+
 										<a class="railtext" href="https://secure.venturacountystar.com/orderphotos/index.cfm">Photo reprints » </a><br>
 										<a class="railtext" href="http://secure.venturacountystar.com/circulation/star_card/index.cfm">Star Card » </a><br>
 										<hr size="1" noshade="" width="170" color="FFFFFF">
 										<a class="railtext" href="http://web.venturacountystar.com/onlineadvertise/">Advertise with the Star » </a><br>
 										<a class="railtext" href="http://www.starineducation.org">Star in Education » </a><br>
+
 										<hr size="1" noshade="" width="170" color="FFFFFF">
 										<a class="railtext" href="http://web.venturacountystar.com/policy.html">Site policies » </a><br>
 										<a class="railtext" href="http://staff.venturacountystar.com/">Staff contacts » </a><br>
 										<a class="railtext" href="http://web.venturacountystar.com/sitegraphics/sitemap3.shtml">Site map » </a> 
 									</td></tr>
-								</tbody></table>
+								</tbody></table></div></td></tr>
+								</tbody></table><br>
+								
+					
+<nolayer>
+<iframe width="200" height="680" marginwidth="0" marginheight="0" frameborder="0" bordercolor="000000" scrolling="no" src="http://adsremote.scripps.com/html.ng/site=VCS&amp;vgncontent=BUSINESS&amp;Section=top_jobs&amp;PagePos=1&amp;transactionID=$gmt$">
+</iframe>
+</nolayer>
+<ilayer id="ventura" visibility="hidden" height="680" width="200"></ilayer><!-- MaxSize (5) -->
+<br>
+
 
 <!-- Everything between MarketRail Warning and here is for the fourth column! --></div>
-<!-- MaxSize (3) -->
+<!-- MaxSize (2) -->
 				</td>
 			</tr>
-			</tbody></table><!-- MaxSize (2) -->  <!-- --------------------END ADVERTISER INDEX--------------- -->
+			</tbody></table><!-- MaxSize (4) -->  <!-- --------------------END ADVERTISER INDEX--------------- -->
 
-</div></td>
 <!-- ---------------------- END CELL THAT HOLDS RIGHT GUTTER INFO ----------------------- -->
-</tr>
-</tbody></table>
+
+
 <!-- ------------------END 800 PX TABLE TO HOLD CONTENT AND RIGHT RAIL ITEMS------------------ -->
 
+<!-- Layer tag to support Netscape 4.x for HTML included job ads in gutter -->
+
+<iframe width="1" height="1" marginwidth="0" marginheight="0" frameborder="0" bordercolor="000000" scrolling="no" src="http://adsremote.scripps.com/html.ng/site=VCS&amp;vgncontent=TOP_JOBS&amp;Section=top_jobs&amp;PagePos=2">
+<script language="JavaScript1.1" src="http://adsremote.scripps.com/js.ng/params.richmedia=yes&site=VCS&vgncontent=TOP_JOBS&Section=top_jobs&PagePos=2">
+</script>
+</iframe>
 
 
 
-
-
-
-</p></body></html>
+</body></html>
