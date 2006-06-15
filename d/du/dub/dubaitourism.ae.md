@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dubaitourism.ae privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231225422id_/http%3A//www.dubaitourism.ae/Privacy/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dubaitourism.ae privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615114718id_/http%3A//dubaitourism.ae/Privacy/default.asp) for the most accurate reproduction.*
 
-# Dubai, Department of Tourism and Commerce Marketing : Privacy Statement
+# Department of Tourism and Commerce Marketing, Government of Dubai : Privacy Statement
 
   
 **Internet Privacy Policy**
