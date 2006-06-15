@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailytelegraph.com.au privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218212400id_/http%3A//www.dailytelegraph.news.com.au/story2/0%2C20283%2C16368724-5001038%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailytelegraph.com.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615220805id_/http%3A//www.dailytelegraph.news.com.au/story2/0%2C20283%2C16368724-5001038%2C00.html) for the most accurate reproduction.*
 
 # The Daily Telegraph | Privacy statement
 
