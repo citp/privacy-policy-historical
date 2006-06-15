@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puresight.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210164918id_/http%3A//www.puresight.com/company/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puresight.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615110437id_/http%3A//puresight.com/company/privacy.shtml) for the most accurate reproduction.*
 
 # PureSight - Intelligent Content Recognition for wired and mobile networks
 
