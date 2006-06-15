@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the amegybank.com privacy policy that was archived on 2005-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051231075429id_/http%3A//www.amegybank.com/privacypolicy/index.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the amegybank.com privacy policy that was archived on 2006-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615213315id_/http%3A//www.amegybank.com/privacypolicy/index.aspx) for the most accurate reproduction.-->
 
 <html><head></head><body bgcolor="#ffffff" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0"><form name="_ctl0" method="post" action="index.aspx" id="_ctl0">
 <input type="hidden" name="__EVENTTARGET" value="">
@@ -104,7 +104,7 @@
 						<td align="right" valign="bottom" width="100%"><span class="corp_nav"><nobr>
 						<a href="http://www.amegybank.com/aboutus/index.aspx" class="corp_nav">About Amegy Bank</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 						<a href="http://www.amegybank.com/aboutus/locations.aspx" class="corp_nav">Locations</a>&nbsp;&nbsp;|&nbsp;&nbsp;					
-						<a href="http://www.amegybank.com/aboutus/careers.aspx" class="corp_nav">Career Opportunities</a></nobr>
+						<a href="http://www.amegybank.com/aboutus/companyprofile.aspx" class="corp_nav">Careers</a></nobr>
 						</span>
 				</td>
 					</tr>
@@ -122,44 +122,213 @@
 					<tbody><tr valign="top">
 						<td align="left" width="164">
 						<!-- LEFT NAV AND ACCOUNT LOGIN -->
-								<table width="100%" border="0" cellpadding="0" cellspacing="0" id="Table8">
-								<tbody><tr><td colspan="3" bgcolor="#194775"><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td></tr>
-								<tr>
-									<td width="1" bgcolor="#194775"><img src="http://www.amegybank.com/images/spacer.gif" width="1" height="1" hspace="0" vspace="0"></td>
-									<td height="18" class="login_int_header" width="162">&nbsp;&nbsp;&nbsp;Online Account Log In</td>
-									<td width="1" bgcolor="#194775"><img src="http://www.amegybank.com/images/spacer.gif" width="1" height="1" hspace="0" vspace="0"></td>						
+								<script language="javascript">
+function switchBus(){
+   document.getElementById('rwSignDemo').style.display="none";
+   document.getElementById('lnkSignUp').style.display="inline";
+   document.getElementById('lnkDemo').style.display="inline";
+   document.getElementById('lnkReset').style.display="none";
+   try
+   {
+      document.getElementById('rwCompanyID').style.display="table-row";
+   }
+   catch(e)
+   { 
+      document.getElementById('rwCompanyID').style.display="inline";
+   }
+   document.getElementById('rwSpacer').style.display="none";
+   document.getElementById('cellDiv1').style.backgroundColor="#063868";
+   document.getElementById('cellTab1').style.backgroundColor="#FFFFFF";
+   document.getElementById('cellDiv2').style.backgroundColor="#C5CFD9";
+   document.getElementById('cellTab2').style.backgroundColor="";
+   document.getElementById('companyID').value="";
+   document.getElementById('j_username').value="";
+   document.getElementById('j_password').value="";
+   document.getElementById('imgBusiness').src = "http://www.amegybank.com/images/business_sel2.gif";
+   document.getElementById('imgPersonal').src = "http://www.amegybank.com/images/Personal.gif";
+   document.getElementById('imgDiv1').src = "http://www.amegybank.com/images/tab_div_beg_w2.gif";
+   document.getElementById('imgDiv2').src = "http://www.amegybank.com/images/tab_div_wb2.gif";
+   document.getElementById('imgDiv3').src = "http://www.amegybank.com/images/tab_div_bw2.gif"	
+}
+	
+function switchPer(){
+   try
+   {
+      document.getElementById('rwSignDemo').style.display="table-row";
+   }
+   catch(e)
+   { 
+      document.getElementById('rwSignDemo').style.display="inline";
+   }
+   document.getElementById('lnkSignUp').style.display="none";
+   document.getElementById('lnkDemo').style.display="none";
+   document.getElementById('rwCompanyID').style.display="none";
+   document.getElementById('lnkReset').style.display="inline";
+   try
+   {
+      document.getElementById('rwSpacer').style.display="table-row";
+   }
+   catch(e)
+   { 
+      document.getElementById('rwSpacer').style.display="inline";
+   }
+   document.getElementById('cellDiv1').style.backgroundColor="#C5CFD9";
+   document.getElementById('cellTab1').style.backgroundColor="";
+   document.getElementById('cellDiv2').style.backgroundColor="#063868";
+   document.getElementById('cellTab2').style.backgroundColor="FFFFFF";
+   document.getElementById('companyID').value="";
+   document.getElementById('j_username').value="";
+   document.getElementById('j_password').value="";
+   document.getElementById('imgBusiness').src = "http://www.amegybank.com/images/business2.gif";
+   document.getElementById('imgPersonal').src = "http://www.amegybank.com/images/Personal_sel.gif";
+   document.getElementById('imgDiv1').src = "http://www.amegybank.com/images/tab_div_beg_b2.gif";
+   document.getElementById('imgDiv2').src = "http://www.amegybank.com/images/tab_div_bw2.gif";
+   document.getElementById('imgDiv3').src = "http://www.amegybank.com/images/tab_div_ww2.gif"
+}
+
+function submit () {
+   if (document.getElementById('rwCompanyID').style.display=="none")
+      document.forms['_ctl0'].action = 'https://banking.amegybank.com/abt/logon/user';
+   else
+      document.forms['_ctl0'].action = 'https://banking.amegybank.com/abt/logon/sbuser';
+   document.forms['_ctl0'].submit();
+}
+
+function updateCompanyId(){
+   var companyId = document.getElementById('companyID').value;
+
+   if (companyId.length < 12 && companyId.length > 0 ) {
+      companyId=lpadString(companyId,'0',12);
+      companyId=lpadString(companyId,'1750',16);
+      document.getElementById('companyID').style.color="#FFFFFF";
+      document.getElementById('companyID').value = companyId;
+   }
+
+   submit();
+}
+
+// This is a utility function to left pad a string with another string upto a certain length
+function lpadString(str, padstr, len) {
+   while (str.length < len) {
+      str=padstr+str;
+   }
+   return str;
+}
+
+function checkButtonPress(evt) 
+{
+	var keynum;
+	try	
+	{
+		keynum = evt.keyCode;
+	}
+	catch(e)
+	{
+		keynum = evt.which;
+	}
+	if (keynum==13)
+	{
+		document.getElementById('lnkGo').click();
+	}
+}
+</script>
+<table id="Table8" cellspacing="0" cellpadding="0" width="170" border="0">
+<tbody>
+					<tr>
+						<td bgcolor="#063868" colspan="3"><img height="1" src="/images/spacer.gif" width="1"></td>
+					</tr>
+					<tr>
+						<td valign="middle" align="center" width="170" bgcolor="#063868" height="20"><img src="/images/loginTitle.gif"></td>
+					</tr>
+					<tr>
+						<td bgcolor="#063868" colspan="3"><img height="1" src="/images/spacer.gif" width="1"></td>
+					</tr>
+					<tr>
+						<td width="100%">
+							<table id="Table9" cellspacing="0" cellpadding="0" width="170" bgcolor="#c5cfd9" border="0">
+								<tbody><tr>
+									<td width="2" bgcolor="#063868" rowspan="2"><img height="1" src="/images/spacer.gif" width="2"></td>
+									<td colspan="2"><img height="4" src="/images/spacer.gif" width="1"></td>
+									<td width="1" bgcolor="#063868" rowspan="4"><img src="/images/spacer.gif" width="1"></td>
 								</tr>
-								<tr><td colspan="3" bgcolor="#194775"><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td></tr>					
 								<tr>
-									<td width="1" bgcolor="#194775"><img src="http://www.amegybank.com/images/spacer.gif" width="1" hspace="0" vspace="0" height="130"></td>					
-									<td width="100%">
-										<table width="164" cellpadding="0" cellspacing="0" border="0" id="Table9">
-											<tbody><tr><td colspan="2"><img src="http://www.amegybank.com/images/spacer.gif" height="4" width="1"></td></tr>
+									<td colspan="2">
+										<table cellspacing="0" cellpadding="0" width="100%" border="0">
+											<tbody><tr id="rwCompanyID" style="DISPLAY: none">
+												<td nowrap=""><span style="PADDING-LEFT: 7px; FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Arial, Verdana">Company 
+														ID:&nbsp; </span>
+												</td>
+												<td><input id="companyID" style="WIDTH: 85px" maxlength="32" size="9" name="companyID" onkeydown="checkButtonPress(event);"></td>
+											</tr>
 											<tr>
-												<td colspan="2" style="padding-left:3px"><span class="login_int">Log in to:</span></td>
+												<td><span style="PADDING-LEFT: 7px; FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Arial, Verdana">Login 
+														ID: </span>
+												</td>
+												<td><input id="j_username" style="WIDTH: 85px" maxlength="32" size="9" name="j_username" onkeydown="checkButtonPress(event);">
+												</td>
 											</tr>
-											<tr><td colspan="2"><img src="http://www.amegybank.com/images/spacer.gif" height="4" width="1"></td></tr>
-											<tr valign="top"><td class="login_int_arrow" width="10" style="padding-left:3px"><span class="raquo">»</span></td>
-												<td width="154" style="padding-left:3px"> <a href="http://www.amegybank.com/bahbillpay.html" class="login_int"> Bank-at-Home</a><br><a href="http://www.amegybank.com/bahbillpay.html" target="new" class="login_int"> with Bill Pay</a></td>
+											<tr>
+												<td><span style="PADDING-LEFT: 7px; FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Arial, Verdana">Password:
+													</span>
+												</td>
+												<td><input id="j_password" style="WIDTH: 85px" type="password" maxlength="32" size="11" name="j_password" onkeydown="checkButtonPress(event);"></td>
 											</tr>
-											<tr valign="top"><td class="login_int_arrow" width="10" style="padding-left:3px"><span class="raquo">»</span></td>
-												<td width="154" style="padding-left:3px"> <a href="http://www.amegybank.com/sbob.html" class="login_int">Small Business Online</a><br><a href="http://www.amegybank.com/sbob.html" class="login_int">Banking</a></td>
+											<tr>
+												<td colspan="2">
+													<table cellspacing="0" cellpadding="0" width="100%" border="0">
+														<tbody><tr>
+															<td><a href="http://www.amegybank.com/security.aspx"><img src="http://www.amegybank.com/images/hp_icon_lock.gif" border="0" name="security"></a></td>
+															<td align="center" nowrap="" valign="bottom" style="padding-bottom:5px"><span id="lnkSignUp" style="DISPLAY: none"><a style="PADDING-LEFT: 7px; FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Arial, Verdana" href="http://www.amegybank.com/sb_enroll.aspx">Sign Up Now</a></span><span id="lnkReset"><a style="PADDING-LEFT:7px;FONT-WEIGHT:bold;FONT-SIZE:11px;COLOR:#000000;FONT-FAMILY:Arial, Verdana" href="https://banking.amegybank.com/passwordreset/praction/PasswordReset" target="_blank">Reset Password</a></span>
+															</td>
+															<td align="center" nowrap="" valign="bottom" style="padding-bottom:5px"><span id="lnkDemo" style="DISPLAY: none"><a style="PADDING-LEFT: 7px; FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Arial, Verdana" href="http://www.amegybank.com/sb_demo.aspx">Demo</a></span></td>
+															<td align="right"><img src="http://www.amegybank.com/images/spacer.gif" width="5"><input id="lnkGo" type="image" height="21" alt="Go" src="http://www.amegybank.com/images/go_dk.gif" width="27" onclick="javascript:updateCompanyId();">
+															</td>
+														</tr>
+													</tbody></table>
+												</td>
 											</tr>
-											<tr><td class="login_int_arrow" width="10" style="padding-left:3px"><span class="raquo">»</span></td>
-												<td width="154" style="padding-left:3px"> <a href="http://www.amegybank.com/commercial_banking/tm/login-netstar.aspx" class="login_int">NetST@R</a><span class="disclaimer"><sup><font color="#537598">sm</font></sup></span></td>
-											</tr>
-<tr><td class="login_int_arrow" width="10" style="padding-left:3px"><br></td>
-												<td width="154" style="padding-left:3px"><br></td>
-											</tr>
-							
-										<!--	<tr><td colspan=2><img src="http://www.amegybank.com/images/spacer.gif" height=10 width=161></td></tr>-->
-											
-											<tr><td colspan="2"><img src="http://www.amegybank.com/images/spacer.gif" height="8" width="163"></td></tr>										</tbody></table>
+										</tbody></table>
 									</td>
-									<td width="1" bgcolor="#194775"><img src="http://www.amegybank.com/images/spacer.gif" width="1" hspace="0" vspace="0"></td>
 								</tr>
-								<tr><td colspan="3" bgcolor="#194775"><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td></tr>					
-								<tr><td colspan="3" bgcolor="#ffffff"><img src="http://www.amegybank.com/images/spacer.gif" height="4" width="1"></td></tr>	
+								<tr id="rwSignDemo">
+									<td width="2" bgcolor="#063868"><img height="1" src="/images/spacer.gif" width="2"></td>
+									<td align="center" colspan="2"><a style="PADDING-LEFT: 7px; FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Arial, Verdana" href="http://www.amegybank.com/bah_enroll.aspx">Sign Up Now</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a style="PADDING-LEFT: 7px; FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Arial, Verdana" href="http://www.amegybank.com/bah_demo.aspx">Demo</a>&nbsp;&nbsp;&nbsp;</td>
+								</tr>
+								<tr id="rwSpacer">
+									<td width="2" bgcolor="#063868"><img height="1" src="/images/spacer.gif" width="2"></td>
+									<td colspan="2"><img height="9" src="/images/spacer.gif" width="163"></td>
+								</tr>
+								<tr>
+									<td colspan="4">
+										<table cellspacing="0" cellpadding="0" width="100%">
+											<tbody><tr height="1">
+												<td valign="bottom" rowspan="3"><img id="imgDiv1" src="/images/tab_div_beg_b2.gif"></td>
+												<td id="cellDiv1" style="BACKGROUND-COLOR: #c5cfd9" height="1"><img height="2" src="/images/spacer.gif"></td>
+												<td valign="bottom" rowspan="3"><img id="imgDiv2" src="/images/tab_div_bw2.gif"></td>
+												<td id="cellDiv2" style="BACKGROUND-COLOR: #063868" height="1"><img height="1" src="/images/spacer.gif"></td>
+												<td valign="bottom" rowspan="3"><img id="imgDiv3" src="/images/tab_div_ww2.gif"></td>
+												<td bgcolor="#063868" height="1"><img height="1" src="/images/spacer.gif"></td>
+												<td valign="bottom" rowspan="3"><img src="/images/tab_div_end_w2.gif"></td>
+											</tr>
+											<tr height="15">
+												<td id="cellTab1" valign="middle" nowrap="" align="center" width="33%"><a href="javascript:switchPer()"><img id="imgPersonal" alt="Bank-at-Home" src="/images/Personal_sel.gif" border="0"></a></td>
+												<td id="cellTab2" style="BACKGROUND-COLOR: #ffffff" valign="middle" align="center" width="33%"><a href="javascript:switchBus()"><img id="imgBusiness" alt="Small Business Online Banking" src="/images/business2.gif" border="0"></a></td>
+												<td style="BACKGROUND-COLOR: #ffffff" valign="middle" align="center" width="34%"><a href="http://www.amegybank.com/commercial_banking/tm/login-netstar.aspx"><img alt="NetST@R(sm)" src="/images/corporate.gif" border="0"></a></td>
+											</tr>
+											<tr>
+												<td bgcolor="#063868" height="1"><img height="1" src="/images/spacer.gif"></td>
+												<td bgcolor="#063868" height="1"><img height="1" src="/images/spacer.gif"></td>
+												<td bgcolor="#063868" height="1"><img height="1" src="/images/spacer.gif"></td>
+											</tr>
+										</tbody></table>
+									</td>
+								</tr>
+								</tbody></table><table>
+						
+					
+			</table>
+			<input type="hidden" name="submit_logon">					
+								</td></tr><tr><td colspan="3" bgcolor="#ffffff"><img src="http://www.amegybank.com/images/spacer.gif" height="4" width="1"></td></tr>	
 								<tr>
 									<td colspan="3">
 										<!-- LEFT NAV -->
@@ -200,7 +369,7 @@
 												<td colspan="2"><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="164"></td>
 											</tr>
 											<tr height="21" align="right" valign="middle">
-												<td class="investments_style" height="21" width="164"><a href="http://www.amegybank.com/investment/index.aspx" class="main_nav">Investments &gt;&nbsp;</a></td>
+												<td class="investments_style" height="21" width="164"><a href="http://www.amegybank.com/investment/index.aspx" class="main_nav">Investment Services &gt;&nbsp;</a></td>
 												<td class="investments_style" height="21"><img src="http://www.amegybank.com/images/spacer.gif" height="21" width="1"></td>
 											</tr>
 											<tr>
@@ -224,7 +393,7 @@
 									<tbody><tr>
 									   <td class="sub_nav_border">
 <!--BUSINESS LINE NAVIGATION BEGINS -->
-<table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td colspan="3"><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="162"></td></tr><tr><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td><td class="sub_nav_title_cell"><a href="http://www.amegybank.com/aboutus/index.aspx" class="sub_nav_title_link">About Us</a></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td></tr><tr class="CategoriesTableRow"><td class="CategoriesTableCell"><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td><td colspan="1" bgcolor="#ffffff"><img src="images/spacer.gif" height="1" width="162"></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td></tr><tr><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td><td class="subnav_cell"><a href="http://www.amegybank.com/aboutus/careers.aspx" class="sub_nav_text">Careers</a></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td></tr><tr class="CategoriesTableRow"><td class="CategoriesTableCell"><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td><td colspan="1" bgcolor="#ffffff"><img src="images/spacer.gif" height="1" width="162"></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td></tr><tr><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td><td class="subnav_cell"><a href="http://www.amegybank.com/aboutus/contact.aspx" class="sub_nav_text">Contact Us</a></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td></tr><tr class="CategoriesTableRow"><td class="CategoriesTableCell"><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td><td colspan="1" bgcolor="#ffffff"><img src="images/spacer.gif" height="1" width="162"></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td></tr><tr><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td><td class="subnav_cell"><a href="http://www.amegybank.com/corporategovernance/index.aspx" class="sub_nav_text">Corporate Governance</a></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td></tr><tr class="CategoriesTableRow"><td class="CategoriesTableCell"><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td><td colspan="1" bgcolor="#ffffff"><img src="images/spacer.gif" height="1" width="162"></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td></tr><tr><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td><td class="subnav_cell"><a href="http://www.amegybank.com/aboutus/community.aspx" class="sub_nav_text">In the Community</a></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td></tr><tr class="CategoriesTableRow"><td class="CategoriesTableCell"><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td><td colspan="1" bgcolor="#ffffff"><img src="images/spacer.gif" height="1" width="162"></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td></tr><tr><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td><td class="subnav_cell"><a href="http://www.snl.com/irweblinkx/corporateprofile.aspx?IID=1025190" class="sub_nav_text" target="new">Investor Relations</a></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td></tr><tr class="CategoriesTableRow"><td class="CategoriesTableCell"><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td><td colspan="1" bgcolor="#ffffff"><img src="images/spacer.gif" height="1" width="162"></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td></tr><tr><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td><td class="subnav_cell"><a href="http://www.amegybank.com/aboutus/locations.aspx" class="sub_nav_text">Locations</a></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td></tr><tr class="CategoriesTableRow"><td class="CategoriesTableCell"><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td><td colspan="1" bgcolor="#ffffff"><img src="images/spacer.gif" height="1" width="162"></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td></tr><tr><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td><td class="subnav_cell"><a href="http://www.amegybank.com/aboutus/odp.aspx" class="sub_nav_text">Officer Development Program</a></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td></tr><tr class="CategoriesTableRow"><td class="CategoriesTableCell"><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td><td colspan="1" bgcolor="#ffffff"><img src="images/spacer.gif" height="1" width="162"></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td></tr><tr><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td><td class="subnav_cell"><a href="http://www.amegybank.com/press_release/index.aspx" class="sub_nav_text">Press Releases</a></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td></tr></tbody></table>
+<table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td colspan="3"><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="162"></td></tr><tr><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td><td class="sub_nav_title_cell"><a href="http://www.amegybank.com/aboutus/index.aspx" class="sub_nav_title_link">About Us</a></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td></tr><tr class="CategoriesTableRow"><td class="CategoriesTableCell"><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td><td colspan="1" bgcolor="#ffffff"><img src="images/spacer.gif" height="1" width="162"></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td></tr><tr><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td><td class="subnav_cell"><a href="http://www.amegybank.com/aboutus/companyprofile.aspx" class="sub_nav_text">Careers</a></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td></tr><tr class="CategoriesTableRow"><td class="CategoriesTableCell"><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td><td colspan="1" bgcolor="#ffffff"><img src="images/spacer.gif" height="1" width="162"></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td></tr><tr><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td><td class="subnav_cell"><a href="http://www.amegybank.com/aboutus/contact.aspx" class="sub_nav_text">Contact Us</a></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td></tr><tr class="CategoriesTableRow"><td class="CategoriesTableCell"><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td><td colspan="1" bgcolor="#ffffff"><img src="images/spacer.gif" height="1" width="162"></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td></tr><tr><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td><td class="subnav_cell"><a href="http://www.amegybank.com/corporategovernance/index.aspx" class="sub_nav_text">Corporate Governance</a></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td></tr><tr class="CategoriesTableRow"><td class="CategoriesTableCell"><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td><td colspan="1" bgcolor="#ffffff"><img src="images/spacer.gif" height="1" width="162"></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td></tr><tr><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td><td class="subnav_cell"><a href="http://www.amegybank.com/aboutus/community.aspx" class="sub_nav_text">In the Community</a></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td></tr><tr class="CategoriesTableRow"><td class="CategoriesTableCell"><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td><td colspan="1" bgcolor="#ffffff"><img src="images/spacer.gif" height="1" width="162"></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td></tr><tr><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td><td class="subnav_cell"><a href="http://www.amegybank.com/aboutus/locations.aspx" class="sub_nav_text">Locations</a></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td></tr><tr class="CategoriesTableRow"><td class="CategoriesTableCell"><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td><td colspan="1" bgcolor="#ffffff"><img src="images/spacer.gif" height="1" width="162"></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td></tr><tr><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td><td class="subnav_cell"><a href="http://www.amegybank.com/aboutus/odp.aspx" class="sub_nav_text">Officer Development Program</a></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td></tr><tr class="CategoriesTableRow"><td class="CategoriesTableCell"><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td><td colspan="1" bgcolor="#ffffff"><img src="images/spacer.gif" height="1" width="162"></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="1" width="1"></td></tr><tr><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td><td class="subnav_cell"><a href="http://www.amegybank.com/press_release/index.aspx" class="sub_nav_text">Press Releases</a></td><td><img src="http://www.amegybank.com/images/spacer.gif" height="18" width="1"></td></tr></tbody></table>
 										<!-- END BUSINESS LINE NAVIGATION HEADER END-->
 									</td></tr></tbody></table>										<!-- ADS ABOVE HERE -->										
 									</td>
@@ -252,7 +421,7 @@
 						<tbody><tr valign="top"><td style="padding-left:15px; padding-top:8px; padding-right: 70px" width="100%">
 					<!--HEADER ENDS-->
 <span id="privacypolicy_body"><table cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td>
-	<span class="main_heading">Privacy Policy</span><br><br>At Amegy Bank National Association (Amegy Bank N.A. or Amegy Bank), we take seriously the trust you place in us to provide both superior financial services and to protect the privacy of your records. We understand how important the issues of privacy are to you. We pledge to continue maintaining all records in a confidential and discreet manner.<br><br>Please review this brochure to learn more about how we protect your privacy – even when we occasionally share information with third parties who offer a service that complements the financial products and services we offer. When we share information, we take steps to ensure that those companies, when acting on our behalf, keep your information confidential.<br><br>We also recognize that it is possible you may not value the benefits from sharing such information. We respect that, and would like you to have a choice. That is why you can “opt out” of these opportunities with the enclosed brochure.<br><br>Remember: If you previously exercised your opt out rights, you do not need to make another election; we are required by law to continue mailing you our Privacy Policy annually. Your opt out election remains in effect until revoked in writing. Opt out requests cannot be accepted over the phone. <br><br>The Amegy Bank&nbsp;Privacy Policy is our pledge that you can count on us to protect the privacy and security of your information, while continuing to supply you with the finest financial products and services.<br><br>We appreciate your business and thank you for your continued confidence and trust. For more information on our Privacy Policy and security practices, please call one of our customer service representatives at 713-235-8810, 281-238-7770 or 214-754-9500 and press 10 (or call toll free at 888-GO-AMEGY/888-462-6349). <br><br><a href="../documents/privacy_policy_b.htm">Printer Friendly Version</a><br><br>
+	<span class="main_heading">Privacy Policy</span><br><br>At Amegy Bank National Association (Amegy Bank N.A. or Amegy Bank), we take seriously the trust you place in us to provide both superior financial services and to protect the privacy of your records. We understand how important the issues of privacy are to you. We pledge to continue maintaining all records in a confidential and discreet manner.<br><br>Please review this brochure to learn more about how we protect your privacy – even when we occasionally share information with third parties who offer a service that complements the financial products and services we offer. When we share information, we take steps to ensure that those companies, when acting on our behalf, keep your information confidential.<br><br>We also recognize that it is possible you may not value the benefits from sharing such information. We respect that, and would like you to have a choice. That is why you can “opt out” of these opportunities with the enclosed brochure.<br><br>Remember: If you previously exercised your opt out rights, you do not need to make another election; we are required by law to continue mailing you our Privacy Policy annually. Your opt out election remains in effect until revoked in writing. Opt out requests cannot be accepted over the phone. <br><br>The Amegy Bank&nbsp;Privacy Policy is our pledge that you can count on us to protect the privacy and security of your information, while continuing to supply you with the finest financial products and services.<br><br>We appreciate your business and thank you for your continued confidence and trust. For more information on our Privacy Policy and security practices, please call one of our Customer Service Representatives at 713-235-8800,&nbsp;214-754-9400 or&nbsp;888-GO-AMEGY/888-462-6349.<br><br><a href="../documents/privacy_policy_c.htm">Printer Friendly Version</a><br><br>
 <p align="left"><span class="sub_heading">Respecting &amp; Protecting Customer Privacy.</span></p>
 <p>At Amegy Bank, we know your privacy is important to you and we recognize our obligation to keep information about you secure and confidential. This document has been designed to outline and explain our Privacy Policy. In this document, we tell you:</p>
 <ul>
@@ -273,7 +442,7 @@
 <li><b>Amegy Bank N.A.</b> 
 </li><li><b>Amegy Mortgage Company, L.L.C.</b> 
 </li><li><b>Amegy Investments, Inc.</b></li></ul>
-<p>For more information on our Privacy Policy and Security practices, please call one of our customer service representatives at 713-235-8810, 281-238-7770 or 214-754-9500 and press 10 (or call toll free at 888-GO-AMEGY/888-462-6349). <br><br><span class="sub_heading">Protecting The Security And Confidentiality Of Customer Information</span> </p>
+<p>For more information on our Privacy Policy and Security practices, please call one of our Customer Service Representatives at 713-235-8800,&nbsp;214-754-9400 or 888-GO-AMEGY/888-462-6349. <br><br><span class="sub_heading">Protecting The Security And Confidentiality Of Customer Information</span> </p>
 <p>Keeping customer financial information secure is one of our most important responsibilities. Only employees who need to know information to provide and/or service our products or services to you have access to your information. We maintain physical, electronic and procedural safeguards that comply with federal standards to guard your customer information.</p><span class="sub_heading">What Customer Information Do We Collect?</span> 
 <p>Amegy Bank collects customer information for lawful business purposes, to provide superior service, to administer your customer relationships with us and to offer opportunities we think will be of interest to you.</p>
 <p></p>
@@ -321,7 +490,7 @@
 </li><li>Memorize personal identification numbers (PIN) - don't carry them in your wallet. 
 </li><li>Promptly review monthly financial statements and immediately report any descrepancies. 
 </li><li>Retain receipts from all ATM, debit and credit card transactions. When you're ready to dispose of them, make sure your account is not readable. 
-</li><li>If you suspect someone has unauthorized access to your account or to any PIN or credit card information, notify us immediately at 713-235-8810 or 214-754-9500and press 10 to speak with a customer service representative (or toll free at 888-GO-AMEGY/888-462-6349). 
+</li><li>If you suspect someone has unauthorized access to your account or to any PIN or credit card information, notify us immediately at 713-235-8800, 214-754-9400 or 888-GO-AMEGY/888-462-6349 to speak with a Customer Service Representative. 
 </li><li>Report crimes regarding your customer information to your local law enforcement agency and the Federal Trade Commission (FTC) toll free at 877-ID THEFT (877-438-4338) or online at http://www.consumer.gov/idtheft. </li></ul><span class="sub_heading">Glossary</span> 
 <p>Please refer to this Glossary for the definitions of some important terms we use in our privacy notice:</p>
 <p>"We", "us", and "our" mean Amegy Bank&nbsp;N.A.,&nbsp;Amegy Investments, Inc., and&nbsp;Amegy Mortgage Company,&nbsp;L.L.C.</p>
@@ -369,7 +538,7 @@
 														Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.amegybank.com/aboutus/index.aspx" class="corp_nav">
 														About Amegy Bank</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.amegybank.com/privacypolicy/index.aspx" class="corp_nav">
 														Privacy Policy</a></span><br>
-												<span class="footer">Copyright 2005 Amegy Bank N.A. Member FDIC, M/FD/V, and an 
+												<span class="footer">Copyright 2006 Amegy Bank N.A. Member FDIC, M/FD/V, and an 
 													Equal Housing Lender</span> <img src="http://www.amegybank.com/images/ehl.gif" hspace="0" vspace="0">
 											</td>
 											<td align="right"><img src="http://www.amegybank.com/images/dig_secure.jpg" width="89" height="23" vspace="0" hspace="0"></td>
