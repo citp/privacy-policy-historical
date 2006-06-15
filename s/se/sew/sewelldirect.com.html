@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sewelldirect.com privacy policy that was archived on 2005-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051231141813id_/http%3A//sewelldirect.com/PrivacyPolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sewelldirect.com privacy policy that was archived on 2006-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615095049id_/http%3A//sewelldirect.com/PrivacyPolicy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//IETF//DTD HTML//EN"><html><head>
 	<title>Privacy Policy</title>
@@ -24,7 +24,42 @@
 	urchinTracker();
 	</script>
 
-</head>
+<script language="JavaScript">
+
+function Quantity_Validator(priceForm)
+{
+	// only allow 0-9 to be entered
+    var checkOK = "0123456789";
+    var checkStr = priceForm.Quantity.value;
+    var allValid = true;
+    var allNum = "";
+    for (i = 0;  i < checkStr.length;  i++)
+    {
+    ch = checkStr.charAt(i);
+    for (j = 0;  j < checkOK.length;  j++)
+    if (ch == checkOK.charAt(j))
+    break;
+    if (j == checkOK.length)
+    {
+        allValid = false;
+        break;
+    }
+    if (ch != ",")
+        allNum += ch;
+    }
+    if (!allValid)
+    {
+        alert("Please enter only digit characters in the quantity field.");
+        priceForm.Quantity.focus();
+        return (false);
+    } else {
+        return true;
+    }
+   
+}
+</script></head>
+
+
 
 <body leftmargin="0" rightmargin="0" marginwidth="0" marginheight="0" topmargin="0">
 
@@ -85,6 +120,10 @@ announcements about special sales, new products, etc., select the "Order,
 upgrade, and general" option in the E-mail Usage field of your customer
 record.</p>
 
+<h3>Address</h3>
+
+<p>We will not rent, sell, or otherwise distribute your physical or billing address to anyone.</p>
+
 <h3>Authentication</h3>
 
 <p>We use a digital ID from VeriSign on our web server.&nbsp; Your browser
@@ -125,7 +164,7 @@ card information is deleted from our system.&nbsp;  </p>
             
             <p align="center"><font size="2"></font><br></p><p align="center" class="tiny"><b>For questions or problems, or to order by phone, call
 (800) 709-1345.</b><br><i>Good service, fast delivery, low shipping rates.</i><br>
-<small>Copyright © 2005 &nbsp; 
+<small>Copyright © 2006 &nbsp; 
 Sewell Development Corporation&nbsp;
 <a href="PrivacyPolicy.asp">Privacy Policy</a></small></p>
 
@@ -142,7 +181,6 @@ Sewell Development Corporation&nbsp;
 </form>
 
 
-
 <script language="javascript">
 function openMenuURL(url)
 {
@@ -152,16 +190,17 @@ function openMenuURL(url)
 }
 function openURLVariableWindow(url,width,height)
 {
-    var stdOptions = "resizable=no,directories=no,left=400,top=300,toolbar=yes";
-    var options = stdOptions + ",width=" + width + ",height=" + height + ",scrollbars=yes" ;
-    window.open(url,"url",options);
+    //var stdOptions = "resizable=yes,directories=yes,left=400,top=300,toolbar=yes";
+    //var options = stdOptions + ",width=" + width + ",height=" + height + ",scrollbars=yes" ;
+    //window.open(url,"url",options);
+    window.open(url, "print_friendly");
 }
 function clearSearchField()
 {
-	var fieldVal = document.MiniSearch.qy.value;
+	var fieldVal = document.MiniSearchTop.qy.value;
 	if (fieldVal == "search site")
 	{
-		document.MiniSearch.qy.value = "";
+		document.MiniSearchTop.qy.value = "";
 	}
 }
 </script>
@@ -231,11 +270,10 @@ function clearSearchField()
 <div style="position:absolute;top:6;left:620;z-index:3">
 
 <!-- Search My Google Search Appliance -->
-<form method="get" action="SearchSite.asp" name="MiniSearch">
+<form method="get" action="SearchSite.asp" name="MiniSearchTop">
         <input type="text" name="qy" size="18" maxlength="255" value="search site" class="tiny" onclick="clearSearchField()">
-        <input type="image" name="btnG" align="middle" src="images/smallSearch.gif" onclick="clearSearchField();document.MiniSearch.submit()">
-        <input type="hidden" name="restrict" value="">
-        <input type="hidden" name="next" value="">
+        <input type="image" name="btnG" align="middle" src="images/smallSearch.gif" onclick="clearSearchField()">
+        <input type="hidden" name="restrict" value="Products">
 </form>
 <!-- Search My Google Search Appliance-->
 
@@ -298,8 +336,8 @@ function clearSearchField()
 
 	<table border="0" align="left" cellpadding="0" cellspacing="0" width="770" style="background-image:url('images/greyBackDrop_aluminum.gif');background-repeat:no-repeat" bgcolor="white" height="66">
 	  <tbody><tr>
-	    <td width="190" height="47" align="center">
-	        	<a href="default.asp"><img src="images/blanklogo.gif" border="0" z-index="100"></a>
+	    <td width="190" height="47" style="text-align: left">
+	        	<a href="default.asp"><img src="images/blanklogo.gif" style="z-index:100" border="0"></a>
 	    </td>
 	    <td height="66" valign="top">
 		</td>
@@ -309,6 +347,106 @@ function clearSearchField()
 </div>
 
 
+
+<div class="expansionSideBar">
+
+	<script language="javascript">
+		function openwizard(url)
+		{
+		    var stdOptions = "resizable=yes,directories=no,left=200,top=300,toolbar=no";
+		    var options = stdOptions + ",width=600,height=500,scrollbars=no";
+		    window.open(url,"wizard",options);
+		}
+	</script>
+
+	<table>
+		<tbody><tr>
+			<td>
+				<img src="images/FreeShippingBanner.jpg" border="0"><br><br>
+			</td>
+		</tr>
+
+		<tr>
+			<td>
+			
+				<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;width:160px;float:left" align="left" bgcolor="#FFFFFF">
+				  <tbody><tr>
+				    <td width="8"><img src="images/UpLeftCorner.jpg"></td>
+				    <td style="background-image:url('images/TopLine.jpg');background-repeat:repeat-x;color:#AAAAAA" valign="bottom" align="right" class="tiny"></td>
+				    <td width="8"><img src="images/UpRightCorner.jpg"></td>
+				  </tr>
+			
+				  <tr>
+				    <td style="background-image:url('images/LeftLine.jpg');background-repeat:repeat-y" width="7"></td>
+				    <td align="center">
+			
+						<a href="javascript:openwizard('/images/connectors.swf')"><img src="images/videowiz.jpg" border="0"></a>
+			
+			
+					</td>
+				    <td style="background-image:url('images/RightLine.jpg');background-repeat:repeat-y" width="7"></td>
+				  </tr>
+			
+				  <tr>
+				    <td width="8"><img src="images/DownLeftCorner.jpg"></td>
+				    <td style="background-image:url('images/BottomLine.jpg');background-repeat:repeat-x"></td>
+				    <td width="8"><img src="images/DownRightCorner.jpg"></td>
+				  </tr>
+			
+				</tbody></table>    
+
+			</td>
+		</tr>
+
+
+		<tr>
+			<td>
+			
+				<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;width:160px;float:left" align="left" bgcolor="#FFFFFF">
+				  <tbody><tr>
+				    <td width="8"><img src="images/UpLeftCorner.jpg"></td>
+				    <td style="background-image:url('images/TopLine.jpg');background-repeat:repeat-x;color:#AAAAAA" valign="bottom" align="right" class="tiny"></td>
+				    <td width="8"><img src="images/UpRightCorner.jpg"></td>
+				  </tr>
+				  <tr>
+				    <td style="background-image:url('images/LeftLine.jpg');background-repeat:repeat-y" width="7"></td>
+				    <td align="center">
+			
+						<a href="Monster"><img src="images/MonsterCableBanner.jpg" border="0"></a>
+			
+			
+					</td>
+				    <td style="background-image:url('images/RightLine.jpg');background-repeat:repeat-y" width="7"></td>
+				  </tr>
+			
+				  <tr>
+				    <td width="8"><img src="images/DownLeftCorner.jpg"></td>
+				    <td style="background-image:url('images/BottomLine.jpg');background-repeat:repeat-x"></td>
+				    <td width="8"><img src="images/DownRightCorner.jpg"></td>
+				  </tr>
+			
+				</tbody></table>    
+			
+			</td>
+		</tr>
+
+
+	</tbody></table>
+
+
+
+
+
+	
+</div>
+
+
+
+
+
+
+
+<!-- END MENU TEST CODE -->
 
 
 
@@ -332,6 +470,10 @@ function clearSearchField()
 
 <a href="Audio" class="sidenav_grey" style="font-weight:bold">Audio</a><br>
 
+<a href="Baluns" class="sidenav_grey" style="font-weight:bold">Baluns</a><br>
+
+<a href="Bluetooth" class="sidenav_grey" style="font-weight:bold">Bluetooth</a><br>
+
 <a href="DVI" class="sidenav_grey" style="font-weight:bold">DVI</a><br>
 
 <a href="FiberOptics" class="sidenav_grey" style="font-weight:bold">Fiber Optics</a><br>
@@ -339,6 +481,8 @@ function clearSearchField()
 <a href="FileTransfer" class="sidenav_grey" style="font-weight:bold">File Transfer</a><br>
 
 <a href="FireWire" class="sidenav_grey" style="font-weight:bold">FireWire</a><br>
+
+<a href="GPIB" class="sidenav_grey" style="font-weight:bold">GPIB</a><br>
 
 <a href="HDMI" class="sidenav_grey" style="font-weight:bold">HDMI</a><br>
 
@@ -354,7 +498,13 @@ function clearSearchField()
 
 <a href="Parallel" class="sidenav_grey" style="font-weight:bold">Parallel</a><br>
 
+<a href="PCI/PCMCIA" class="sidenav_grey" style="font-weight:bold">PCI/PCMCIA</a><br>
+
 <a href="Power" class="sidenav_grey" style="font-weight:bold">Power</a><br>
+
+<a href="ProAudio" class="sidenav_grey" style="font-weight:bold">Pro Audio</a><br>
+
+<a href="SCSI" class="sidenav_grey" style="font-weight:bold">SCSI</a><br>
 
 <a href="Serial" class="sidenav_grey" style="font-weight:bold">Serial</a><br>
 
@@ -370,6 +520,40 @@ function clearSearchField()
 
 <a href="Video" class="sidenav_grey" style="font-weight:bold">Video</a><br>
 
+<a href="VideoCards" class="sidenav_grey" style="font-weight:bold">Video Cards</a><br>
+
+<a href="VoIP" class="sidenav_grey" style="font-weight:bold">VoIP</a><br>
+
+
+
+<hr noshade="" size="1" color="#AAAAAA">
+<div style="background-color:#eeeeee;font-weight:bold;padding:2px;margin-bottom:2px">MANUFACTURERS</div>
+
+<a href="AuzenTechInc" class="sidenav_grey" style="font-weight:bold">AuzenTech Inc</a><br>
+
+<a href="DVDO" class="sidenav_grey" style="font-weight:bold">DVDO</a><br>
+
+<a href="Gefen" class="sidenav_grey" style="font-weight:bold">Gefen</a><br>
+
+<a href="HIS" class="sidenav_grey" style="font-weight:bold">HIS</a><br>
+
+<a href="Intelix" class="sidenav_grey" style="font-weight:bold">Intelix</a><br>
+
+<a href="KeyDigital" class="sidenav_grey" style="font-weight:bold">Key Digital</a><br>
+
+<a href="M-Audio" class="sidenav_grey" style="font-weight:bold">M-Audio</a><br>
+
+<a href="Manhattan/Intellinet" class="sidenav_grey" style="font-weight:bold">Manhattan/Intellinet</a><br>
+
+<a href="Monster" class="sidenav_grey" style="font-weight:bold">Monster</a><br>
+
+<a href="PureLink" class="sidenav_grey" style="font-weight:bold">PureLink</a><br>
+
+<a href="Quatech" class="sidenav_grey" style="font-weight:bold">Quatech</a><br>
+
+<a href="TARALabs" class="sidenav_grey" style="font-weight:bold">TARA Labs</a><br>
+
+<a href="VideoStorm" class="sidenav_grey" style="font-weight:bold">Video Storm</a><br>
 
 
 
@@ -408,7 +592,5 @@ function clearSearchField()
 	
 
 </div>
-
-<!-- END MENU TEST CODE -->
 
 </body></html>
