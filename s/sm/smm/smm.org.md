@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the smm.org privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220050842id_/http%3A//www.smm.org/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smm.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615041944id_/http%3A//www.smm.org/info/privacy.php) for the most accurate reproduction.*
 
 # Science Museum of Minnesota Information Privacy Statement
 
 [](http://www.smm.org/)   
   
 |  |    
-**Information Privacy Statement** **[General Information](https://web.archive.org/web/20051220050842id_/http%3A//www.smm.org/info/) | [Contact Us](https://web.archive.org/web/20051220050842id_/http%3A//www.smm.org/info/contact.php) | [Legal Notice](https://web.archive.org/web/20051220050842id_/http%3A//www.smm.org/info/legal.php) | [Privacy Statement](https://web.archive.org/web/20051220050842id_/http%3A//www.smm.org/info/privacy.php)  
-[Museum Accessibility](https://web.archive.org/web/20051220050842id_/http%3A//www.smm.org/info/accessibility.php) | [Linking to Our Web Site](https://web.archive.org/web/20051220050842id_/http%3A//www.smm.org/info/linking.php)**
+**Information Privacy Statement** **[General Information](https://web.archive.org/web/20060615041944id_/http%3A//www.smm.org/info/) | [Contact Us](https://web.archive.org/web/20060615041944id_/http%3A//www.smm.org/info/contact.php) | [Legal Notice](https://web.archive.org/web/20060615041944id_/http%3A//www.smm.org/info/legal.php) | [Privacy Statement](https://web.archive.org/web/20060615041944id_/http%3A//www.smm.org/info/privacy.php)  
+[Museum Accessibility](https://web.archive.org/web/20060615041944id_/http%3A//www.smm.org/info/accessibility.php) | [Linking to Our Web Site](https://web.archive.org/web/20060615041944id_/http%3A//www.smm.org/info/linking.php)**
 
-Last updated February 12, 2003
+Last updated June 2, 2006 
 
-[Contact Information](https://web.archive.org/web/20051220050842id_/http%3A//www.smm.org/info/contact.php)
+[Contact Information](https://web.archive.org/web/20060615041944id_/http%3A//www.smm.org/info/contact.php)
 
 **Contents**
 
@@ -22,7 +22,7 @@ Last updated February 12, 2003
   * Other Information Collected by the Museum Online
   * The Science Museum Adult Computer Education Center
   * Cookies
-  * Web Ticketing Services Provided by TM Vista
+  * Web Ticketing Services
   * SSL Encryption
   * Children's Privacy on the Web
   * Use of Information
@@ -79,8 +79,8 @@ Cookies are alphanumeric identifiers that are transferred to your computer's har
 
 back to top
 
-**Web Ticketing Services Provided by TM Vista**  
-Advanced reservation services on the World Wide Web are provided by VISTA Ticketing/museumtix.com. When a web user chooses this option for ticket reservations, his or her Web browser is linked to the museumtix.com site. Users on the museumtix.com site are subject to that site's privacy policies. Please refer to the [museumtix.com](http://www.museumtix.com/) site for detailed information.
+**Web Ticketing Services Provided by ExtremeTix**  
+Advanced reservation services on the World Wide Web are provided by [ExtremeTix/ClicknPrint](http://www.clicknprinttickets.com/). When a web user chooses this option for ticket reservations, his or her Web browser is linked to the ExtremeTix site. Information entered by users on the ExtremeTix site is transmitted securely to the Science Museum and is subject to the terms of our Privacy Policy. Please refer to the [ExtremeTix](https://tix.extremetix.com/tix/SilverStream/Pages/pgPrivacyPolicy.html) privacy page for detailed information.
 
 back to top
 
