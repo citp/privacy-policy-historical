@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trustlogo.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217094332id_/http%3A//www.trustlogo.com/ssl-certificate-corporate/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustlogo.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615032353id_/http%3A//www.trustlogo.com/ssl-certificate-corporate/privacy.html) for the most accurate reproduction.*
 
 # Trusted SSL Certificate Free SSL Secure Server Certificate Branded SSL Certificate
 
