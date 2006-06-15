@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the misco.co.uk privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219054327id_/http%3A//www.misco.co.uk/about/privacystatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the misco.co.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615202722id_/http%3A//misco.co.uk/about/privacystatement.htm) for the most accurate reproduction.*
 
 # Misco.co.uk - Security and Privacy
 
-**Welcome to Misco** , [Click here to Register](https://web.archive.org/myaccount/register.htm "Click here to Register") or [Click here to login](https://web.archive.org/myaccount/login.aspx?returnurl=%2fabout%2fprivacy.aspx "Click here to login").
-
-[](https://web.archive.org/about/delivery.aspx?affiliate=9007 "Order in time for christmas delivery - click here for details")
+**Welcome to Misco** , [Click here](https://web.archive.org/microsites/sony?affiliate=4053 "Click here") for the latest Sony offers, [Click here to Register](https://web.archive.org/myaccount/register.htm "Click here to Register") or [Click here to login](https://web.archive.org/myaccount/login.aspx?returnurl=%2fabout%2fprivacy.aspx "Click here to login").
 
 Security and Privacy
 
@@ -15,7 +13,7 @@ Misco has created this privacy statement in order to demonstrate our firm commit
 We take the security issue very seriously. Our retail system is based on the SSL (Secure Socket Layer) encryption standard. Provided you are using an SSL-compliant browser such as Netscape's Navigator or Microsoft's Internet Explorer, you'll be able to conduct end-to-end encrypted transactions without fear of an intermediary obtaining your credit card information. 
 
 **Data Protection & Data Security**  
-Misco, Global Equipment are reseller brands of Systemax Europe Ltd., which is the consolidated Data Controller as specified in the Data Protection Act (1998) and as such data is shared across all our brands and with our data processing operations. Data is maintained under the provisions of the Data Protection Act (1998), our registration number is Z629048. We may contact you from time to time to verify and update the data we hold on your records. 
+Misco is the reseller brand of Systemax Europe Ltd., which is the consolidated Data Controller as specified in the Data Protection Act (1998) and as such data is shared across all our brands and with our data processing operations. Data is maintained under the provisions of the Data Protection Act (1998), our registration number is Z6290748. We may contact you from time to time to verify and update the data we hold on your records. 
 
 **Information Automatically Logged**  
 We use your IP (Internet Protocol) address to help diagnose problems with our server and to administer our website. Your IP address is also used to help identify you and your shopping basket, and to gather broad demographic information. 
