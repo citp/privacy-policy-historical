@@ -1,12 +1,7 @@
-> *The following text is extracted and transformed from the usatoday.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225024346id_/http%3A//www.usatoday.com/marketing/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usatoday.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615203105id_/http%3A//www.usatoday.com/marketing/privacy-policy.htm) for the most accurate reproduction.*
 
 # USATODAY.com
 
-|   
----  
-  
-  
-  
 Effective Date: July 12, 2005
 
 The following Privacy Policy governs USATODAY.com's online information collection practices.  Specifically, it outlines the types of information that USATODAY.com gathers about you while you are using the USATODAY.com website (the "Service"), and the ways in which USATODAY.com uses and doesn't use this information.  This Privacy Policy, including the children's privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means (for example, at a live event, via telephone, or through the mail).  In addition, this Privacy Policy does not apply to any activities (online or otherwise) of the 
