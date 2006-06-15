@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wwe.com privacy policy that was archived on 2005-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051230185058id_/http%3A//www.wwe.com/help/generalfaq/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wwe.com privacy policy that was archived on 2006-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615212811id_/http%3A//www.wwe.com/help/generalfaq/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	
@@ -22,7 +22,7 @@
 	
 	function schedule(ids, func, params) {
 		var str=''; var array = ids.split(",");
-		for(i in array) str += "(document.getElementById('" + array[i] + "')) && ";
+		for(var i = 0 ; i < array.length ; i++) str += "(document.getElementById('" + array[i] + "')) && ";
 		str +=  "(typeof(eval(func)) == 'function')";
 		if (eval(str)) {
 			eval(func + params);
@@ -37,13 +37,15 @@
 <link rel="stylesheet" href="/css/screen.css?1" type="text/css" media="screen">
 
 <style type="text/css" media="all">
-	@import url("/css/layout.css?15");
-	@import url("/css/touts.css?4");
-	@import url("/css/sections/help.css?6");
+	@import url("/css/layout.css?22");
+	@import url("/css/touts.css?7");
+	@import url("/css/sections/help.css?10");
 </style>
 
-<script type="text/javascript" src="/js/global.js?13"></script>
+<script type="text/javascript" src="/js/global.js?18"></script>
+<script type="text/javascript" src="/js/lib/swfobject.js?1"></script>
 <script type="text/javascript" src="/js/sifr.js?3"></script>
+
 
 
 	<script type="text/javascript">schedule('content', 'wwefixvideos', '("content")');</script>
@@ -59,7 +61,6 @@
 				
 				var OAS_listpos = 'x01,Top,TopRight';
 			
-		
 			var OAS_sitepage = 'www.wwe.com/help/generalfaq/privacypolicy';
 			var OAS_url = 'http://oascentral.wwe.com/RealMedia/ads/';
 			var OAS_rn = new String (Math.random()); var OAS_rns = OAS_rn.substring (2, 11);
@@ -97,7 +98,7 @@
 					return false;
 				}
 			}
-		</script><script type="text/javascript" src="http://oascentral.wwe.com/RealMedia/ads/adstream_mjx.ads/www.wwe.com/help/generalfaq/privacypolicy/1500026530@x01,Top,TopRight?"></script>
+		</script><script type="text/javascript" src="http://oascentral.wwe.com/RealMedia/ads/adstream_mjx.ads/www.wwe.com/help/generalfaq/privacypolicy/1689054111@x01,Top,TopRight?"></script>
 	
 	
 
@@ -105,7 +106,9 @@
 <link rel="icon" href="http://www.wwe.com/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="http://www.wwe.com/favicon.ico" type="image/x-icon">
 
-<title>WWE: General &gt; Privacy Policy</title>
+
+<title>WWE: General F.A.Q. &gt; Privacy Policy</title>
+
 
 </head>
 
@@ -114,26 +117,30 @@
 	
 	<div id="sitecatalyst" class="hidden">
 		<!-- SiteCatalyst code version: G.6. Copyright 1997-2004 Omniture, Inc. More info available at http://www.omniture.com -->
-		<script type="text/javascript">
-			var s_pageName = document.title;
-			var s_channel="www.wwe.com";
-		</script>
-		<script type="text/javascript" src="/js/s_code_consumer.js?2"></script><img name="s_i_wweconsumer" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/wweconsumer/1/G.6-PD-R/s08393828628302?[AQB]&amp;ndh=1&amp;t=31/0/2020%2013%3A16%3A9%205%200&amp;pageName=WWE%3A%20General%20%3E%20Privacy%20Policy&amp;ch=www.wwe.com&amp;cc=USD&amp;c3=web&amp;c4=20051230185058id_&amp;c5=http%253A&amp;g=https%3A//web.archive.org/web/20051230185058id_/http%253A//www.wwe.com/help/generalfaq/privacypolicy&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+		
+			
+			
+				<script type="text/javascript">
+					var s_pageName = document.title;
+					var s_channel="www.wwe.com";
+				</script>
+			
+		
+		<script type="text/javascript" src="/js/s_code_consumer.js?4"></script>
 		<!-- End SiteCatalyst code version: G.6. -->
 	</div>
+
+
+
+
 	
+		<div id="interstitial-ad"><script type="text/javascript">DisplayAd("Interstitial");</script></div>
+
 	
-
-<div id="interstitial-ad"><script type="text/javascript">DisplayAd("Interstitial");</script></div>
-
-
-
 
 	<div id="outer">
 
-		
-
-<div id="topbanner-ad"><script type="text/javascript">DisplayAd("TopBanner");</script></div>
+		<div id="topbanner-ad"><script type="text/javascript">DisplayAd("TopBanner");</script></div>
 
 
 		<ul id="menu-main">
@@ -151,35 +158,35 @@
 
 		
 <div id="header">
-	<a id="homepage-link" href="/"><span>World Wrestling Entertainment</span></a>
+	
+		
+		
+			<a id="homepage-link" href="/"><span>World Wrestling Entertainment</span></a>
+		
+	
 	<div id="header-news">
-		<div id="logo-flash">
-			<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="338" height="68">
-				<param name="allowScriptAccess" value="sameDomain">
-				<param name="movie" value="/swf/logoflash.swf">
-				<param name="quality" value="high">
-				<param name="bgcolor" value="#000000">
-				<param name="wmode" value="transparent">
-				<embed type="application/x-shockwave-flash" src="/swf/logoflash.swf" quality="high" bgcolor="#000000" wmode="transparent" width="338" height="68" allowscriptaccess="sameDomain" pluginspage="http://www.macromedia.com/go/getflashplayer">
-			</object>
-		</div>
-		<div id="ticker">
-			<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="279" height="48">
-				<param name="allowScriptAccess" value="sameDomain">
-				<param name="movie" value="/swf/ticker2.swf">
-				<param name="quality" value="high">
-				<param name="bgcolor" value="#3B3B3B">
-				<param name="wmode" value="transparent">
-				<embed type="application/x-shockwave-flash" src="/swf/ticker2.swf" quality="high" bgcolor="#3B3B3B" wmode="transparent" width="279" height="48" allowscriptaccess="sameDomain" pluginspage="http://www.macromedia.com/go/getflashplayer">
-			</object>
-		</div>
+		<div id="logo-flash"></div>
+		<script type="text/javascript">
+			var so = new SWFObject("/swf/logoflash.swf", "mymovie", "338", "68", "7", "#000000");
+			so.addParam("quality", "high");
+			so.addParam("wmode", "transparent");
+			so.write("logo-flash");
+		</script>
+		<div id="ticker"></div>
+		<script type="text/javascript">
+			var so = new SWFObject("/swf/ticker2.swf", "mymovie", "279", "48", "7", "#000000");
+			so.addParam("quality", "high");
+			so.addParam("wmode", "transparent");
+			so.write("ticker");
+		</script>
 	</div>
 	
-<div id="breadcrumb">
-	<div id="breadcrumb-text"><span id="bread-home"><a href="/">Home</a></span> &gt; <span id="sub-section"><a href="/help/generalfaq/">General</a></span> &gt; <span id="sub-section">Privacy Policy</span></div>
-	
 
-<div id="breadcrumb-ad"><script type="text/javascript">DisplayAd("BreadCrumb");</script></div>
+<div id="breadcrumb">
+	
+	<div id="breadcrumb-text"><span id="bread-home"><a href="/">Home</a></span> <span id="sub-section">&gt; <a href="/help/generalfaq/">General F.A.Q.</a></span> </div>
+	
+	<div id="breadcrumb-ad"><script type="text/javascript">DisplayAd("BreadCrumb");</script></div>
 
 </div>
 
@@ -242,7 +249,7 @@
 	
 
 
-				<div class="content-body full">
+				<div id="content-body" class="doc full">
 					<h2 dir="ltr" style="MARGIN-RIGHT: 0px">WORLD WRESTLING ENTERTAINMENT, INC. PRIVACY POLICY</h2>
 <h3 dir="ltr" style="MARGIN-RIGHT: 0px">The web site you have entered is operated by, or on behalf of, WWE, Inc. or its subsidiaries (“WWE”).</h3>
 <p dir="ltr" style="MARGIN-RIGHT: 0px">Updated&nbsp;August 1,&nbsp;2005</p>
@@ -309,7 +316,7 @@
 </div>
 
 <div id="footer-copyright">
-	<p>The names of all World Wrestling Entertainment televised and live programming, talent names, images, likenesses, slogans and wrestling moves and all World Wrestling Entertainment logos are trademarks which are the exclusive property of World Wrestling Entertainment, Inc. All other trademarks are the property of their respective owners.  © 2005 World Wrestling Entertainment, Inc. All Rights Reserved.</p>
+	<p>The names of all World Wrestling Entertainment televised and live programming, talent names, images, likenesses, slogans and wrestling moves and all World Wrestling Entertainment logos are trademarks which are the exclusive property of World Wrestling Entertainment, Inc. All other trademarks are the property of their respective owners.  © 2006 World Wrestling Entertainment, Inc. All Rights Reserved.</p>
 	<p>This website is based in the United States.  By submitting personal information to this website you consent to your information being maintained in the United States, subject to applicable U.S. laws.  U.S. law may be different than the law of your home country. </p>
 	
 	<ul>
