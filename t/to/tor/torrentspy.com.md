@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the torrentspy.com privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227040300id_/http%3A//torrentspy.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torrentspy.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615020221id_/http%3A//www.torrentspy.com/privacy.asp) for the most accurate reproduction.*
 
 # Torrentspy.com - The Largest BitTorrent Search Engine
 
