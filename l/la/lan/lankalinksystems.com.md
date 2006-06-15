@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lankalinksystems.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213201724id_/http%3A//www.lankalinksystems.com/main/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lankalinksystems.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615062000id_/http%3A//www.lankalinksystems.com/main/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy :: Lanka Link
 
