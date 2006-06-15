@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldenpalace.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215073948id_/http%3A//goldenpalace.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldenpalace.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615201212id_/http%3A//goldenpalace.com/privacy.php) for the most accurate reproduction.*
 
 # GoldenPalace.com :: #1 Online Casino
 
