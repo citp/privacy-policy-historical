@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the remax.com privacy policy that was archived on 2005-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051217042440id_/http%3A//remax.com/misc/privacy_policy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the remax.com privacy policy that was archived on 2006-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615060006id_/http%3A//www.remax.com/misc/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- InstanceBegin template="/Templates/inside_remax_page.dwt" codeOutsideHTMLIsLocked="false" --><head>
 	<!-- InstanceBeginEditable name="title" -->
@@ -15,75 +15,151 @@
 	<!-- InstanceEndEditable -->
 </head>
 <body>
-<script src="/__utm.js" type="text/javascript"></script>
-<div id="logo_line"><a href="/index.htm"><img src="/images/main/remax_logo.gif" alt="RE/MAX logo" width="154" height="45" id="logo"></a></div>
+<form name="Form1" method="post" action="index.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDw0MjcxNDU5MjQ7Oz4=">
+
+<script language="JavaScript">
+<!--
+var arrElementsNotToHide = new Array();
+var blnHideElements = false;
+var blnHideInputTags = false;
+
+function ShowHideDropdowns(strShowHide){
+	var strSELECTTag = document.body.all.tags('SELECT');
+	
+	if (blnHideElements) {
+		// loop throug all the drop downs and either hide or show them
+		for (var ii = strSELECTTag.length - 1; ii >= 0; ii--) {
+			var blnHide = true;
+			
+			objSELECT = strSELECTTag[ii];
+			
+			for (var i=0; i < arrElementsNotToHide.length; i++) {
+				if (objSELECT.id == arrElementsNotToHide[i]) {
+					blnHide = false;
+				}
+			}
+			
+			if (blnHide) {
+				objSELECT.style.visibility = strShowHide;
+			}
+		}
+	
+		if (blnHideInputTags) {
+			var strINPUTTag = document.body.all.tags('INPUT');
+	  
+			// loop throug all the drop downs and either hide or show them
+			for (var ii = strINPUTTag.length - 1; ii >= 0; ii--) {
+				var blnHide = true;
+				var objINPUT = strINPUTTag[ii];
+				
+				for (var i=0; i < arrElementsNotToHide.length; i++) {
+					if (objINPUT.id == arrElementsNotToHide[i]) {
+						blnHide = false;
+					}
+				}
+				
+				if (blnHide) {
+					objINPUT.style.visibility = strShowHide;
+				}
+			}
+		}
+	}	
+}
+
+function SuppressHide() {
+	blnHideElements = false;
+}
+
+function EnableHide() {
+	blnHideElements = true;
+}
+
+function EnableHideInputTags(){
+	blnHideInputTags = true;
+}
+
+function ExcludeElementFromHide(strElementID) {
+	arrElementsNotToHide[arrElementsNotToHide.length] = strElementID  
+}
+
+//-->
+</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"> 
+</script>
+<script type="text/javascript">
+_uacct = "UA-30723-1";
+urchinTracker();
+</script>
+<div id="logo_line"><a href="/index.aspx"><img src="/images/main/remax_logo.gif" alt="RE/MAX logo" width="154" height="45" id="logo"></a></div>
 <div id="tag_line"><img src="/images/main/tagline.png" alt="Nobody sells more real estate than RE/MAX!"></div>
 <div id="skip_navigation"><a href="#start_content"><img src="/images/main/spacer.gif" alt="Skip Navigation" width="1" height="1"></a></div>
 
 		<div id="map_line5"></div>
-		<div id="nav_line2"><a href="/residential/index.htm"><img src="/images/main/topmenu_residential.png" alt="Residential real estate" width="164" height="29" id="residential" onmouseover="MM_showHideLayers('residential_menu','','show');MM_swapImage('residential','','/images/main/topmenu_residential_over.png',1)" onmouseout="MM_showHideLayers('residential_menu','','hide');MM_swapImgRestore()"></a></div>
-		<div id="nav_line3"><a href="/commercial/index.htm"><img src="/images/main/topmenu_commercial.png" alt="Commercial real estate" width="151" height="29" id="commercial" onmouseover="MM_showHideLayers('commercial_menu','','show');MM_swapImage('commercial','','/images/main/topmenu_commercial_over.png',1)" onmouseout="MM_showHideLayers('commercial_menu','','hide');MM_swapImgRestore()"></a></div>
-		<div id="nav_line4"><a href="/inside_remax/index.htm"><img src="/images/main/topmenu_inside.png" alt="Inside RE/MAX" width="162" height="29" id="inside" onmouseover="MM_showHideLayers('inside_menu','','show');MM_swapImage('inside','','/images/main/topmenu_inside_over.png',1)" onmouseout="MM_showHideLayers('inside_menu','','hide');MM_swapImgRestore()"></a></div>
+		<div id="nav_line2"><a href="/residential/index.aspx"><img src="/images/main/topmenu_residential.png" alt="Residential real estate" width="164" height="29" id="residential" onmouseover="MM_showHideLayers('residential_menu','','show');MM_swapImage('residential','','/images/main/topmenu_residential_over.png',1);ShowHideDropdowns('hidden')" onmouseout="MM_showHideLayers('residential_menu','','hide');MM_swapImgRestore();ShowHideDropdowns('visible')"></a></div>
+		<div id="nav_line3"><a href="/commercial/index.aspx"><img src="/images/main/topmenu_commercial.png" alt="Commercial real estate" width="151" height="29" id="commercial" onmouseover="MM_showHideLayers('commercial_menu','','show');MM_swapImage('commercial','','/images/main/topmenu_commercial_over.png',1);ShowHideDropdowns('hidden')" onmouseout="MM_showHideLayers('commercial_menu','','hide');MM_swapImgRestore();ShowHideDropdowns('visible')"></a></div>
+		<div id="nav_line4"><a href="/inside_remax/index.aspx"><img src="/images/main/topmenu_inside.png" alt="Inside RE/MAX" width="162" height="29" id="inside" onmouseover="MM_showHideLayers('inside_menu','','show');MM_swapImage('inside','','/images/main/topmenu_inside_over.png',1);ShowHideDropdowns('hidden')" onmouseout="MM_showHideLayers('inside_menu','','hide');MM_swapImgRestore();ShowHideDropdowns('visible')"></a></div>
 		<div id="nav_line5"></div>
 
-		<div id="residential_menu" onmouseover="MM_showHideLayers('residential_menu','','show');MM_swapImage('residential','','/images/main/topmenu_residential_over.png',1)" onmouseout="MM_showHideLayers('residential_menu','','hide');MM_swapImgRestore()">
+		<div id="residential_menu" onmouseover="MM_showHideLayers('residential_menu','','show');MM_swapImage('residential','','/images/main/topmenu_residential_over.png',1);ShowHideDropdowns('hidden')" onmouseout="MM_showHideLayers('residential_menu','','hide');MM_swapImgRestore();ShowHideDropdowns('visible')">
 		  <ul class="top_nav">
-		  	<li class="top_li"><a href="/residential/index.htm">Residential Home Page</a></li>
-			<li><a href="/residential/property_search/index.htm">Property Search</a></li>
+		  	<li class="top_li"><a href="/residential/index.aspx">Residential Home Page</a></li>
+			<li><a href="/residential/property_search/index.aspx">Property Search</a></li>
 			<li><a href="http://www.remax-renownedproperties.com" target="_blank" onclick="javascript:urchinTracker('/propertySearch/Renowned_Properties');">Luxury Home Search</a></li>
-			<li><a href="/remaxApps/agentsearch/agentSearchForm.do">Find an Agent</a></li>
-			<li><a href="/remaxApps/agentsearch/officeSearchForm.do">Find an Office</a></li>
-			<li><a href="/residential/real_estate_101/index.htm">Real Estate 101</a></li>
-			<li><a href="/residential/mortgage_tools/index.htm">Mortgage Tools</a></li>
-			<li><a href="/residential/moving_assistance/index.htm">Moving Assistance</a></li>
+			<li><a href="/residential/find_an_agent/index.aspx">Find an Agent</a></li>
+			<li><a href="/residential/find_an_office/index.aspx">Find an Office</a></li>
+			<li><a href="/residential/real_estate_101/index.aspx">Real Estate 101</a></li>
+			<li><a href="/residential/mortgage_tools/index.aspx">Mortgage Tools</a></li>
+			<li><a href="/residential/moving_assistance/index.aspx">Moving Assistance</a></li>
 		  </ul>
 		</div>
-		<div id="commercial_menu" onmouseover="MM_showHideLayers('commercial_menu','','show');MM_swapImage('commercial','','/images/main/topmenu_commercial_over.png',1)" onmouseout="MM_showHideLayers('commercial_menu','','hide');MM_swapImgRestore()">
+		<div id="commercial_menu" onmouseover="MM_showHideLayers('commercial_menu','','show');MM_swapImage('commercial','','/images/main/topmenu_commercial_over.png',1);ShowHideDropdowns('hidden')" onmouseout="MM_showHideLayers('commercial_menu','','hide');MM_swapImgRestore();ShowHideDropdowns('visible')">
 		  <ul class="top_nav">
-			<li class="top_li"><a href="/commercial/index.htm">Commercial Home Page</a></li>
-			<li><a href="/commercial/property_search/index.htm">Commercial Property Search</a></li>
-			<li><a href="/remaxApps/agentsearch/commercialAgentSearchForm.do">Find a Commercial Agent</a></li>
-			<li><a href="/remaxApps/agentsearch/commercialOfficeSearchForm.do">Find a Commercial Office</a></li>
-			<li><a href="/commercial/commercial_wants/index.htm">Commercial Wants</a></li>
-			<li><a href="/commercial/why_remax_commercial/index.htm">Why RE/MAX Commercial</a></li>
+			<li class="top_li"><a href="/commercial/index.aspx">Commercial Home Page</a></li>
+			<li><a href="/commercial/property_search/index.aspx">Commercial Property Search</a></li>
+			<li><a href="/commercial/find_a_commercial_agent/index.aspx">Find a Commercial Agent</a></li>
+			<li><a href="/commercial/find_a_commercial_office/index.aspx">Find a Commercial Office</a></li>
+			<li><a href="/commercial/commercial_wants/index.aspx">Commercial Wants</a></li>
+			<li><a href="/commercial/why_remax_commercial/index.aspx">Why RE/MAX Commercial</a></li>
 		  </ul>
 		</div>
-		<div id="inside_menu" onmouseover="MM_showHideLayers('inside_menu','','show');MM_swapImage('inside','','/images/main/topmenu_inside_over.png',1)" onmouseout="MM_showHideLayers('inside_menu','','hide');MM_swapImgRestore()">
+		<div id="inside_menu" onmouseover="MM_showHideLayers('inside_menu','','show');MM_swapImage('inside','','/images/main/topmenu_inside_over.png',1);ShowHideDropdowns('hidden')" onmouseout="MM_showHideLayers('inside_menu','','hide');MM_swapImgRestore();ShowHideDropdowns('visible')">
 		  <ul class="top_nav">
-			<li class="top_li"><a href="/inside_remax/index.htm">Inside RE/MAX Home</a></li>
-			<li><a href="/inside_remax/franchise_opportunities/index.htm">Franchise Opportunities</a></li>
-			<li><a href="/inside_remax/become_an_agent/index.htm">Become an Agent</a></li>
-			<li><a href="/inside_remax/news_and_events/index.htm">News &amp; Events</a></li>
-			<li><a href="/inside_remax/corporate_relocation/index.htm">Corporate Relocation</a></li>
-			<li><a href="/inside_remax/corporate_information/index.htm">Corporate Information</a></li>
+			<li class="top_li"><a href="/inside_remax/index.aspx">Inside RE/MAX Home</a></li>
+			<li><a href="/inside_remax/franchise_opportunities/index.aspx">Franchise Opportunities</a></li>
+			<li><a href="/inside_remax/become_an_agent/index.aspx">Become an Agent</a></li>
+			<li><a href="/inside_remax/news_and_events/index.aspx">News &amp; Events</a></li>
+			<li><a href="/inside_remax/corporate_relocation/index.aspx">Corporate Relocation</a></li>
+			<li><a href="/inside_remax/corporate_information/index.aspx">Corporate Information</a></li>
 		  </ul>
 		</div>
 
-<div id="main_image"><a href="/inside_remax/index.htm"><img src="/images/main/header_main_inside.gif" alt="RE/MAX Balloons in Flight"></a></div>
+
+<div id="main_image"><a href="/inside_remax/index.aspx"><img src="/images/main/header_main_inside.gif" alt="RE/MAX Balloons in Flight"></a></div>
 <div id="content_container">
 	<div id="outer_wrap">
 		<div id="centercontent">
 			<div id="main_content">
 				<div id="bread_crumbs">
-					<!-- InstanceBeginEditable name="bread_crumbs_inside" --><a href="/index.htm">Home</a> » <a href="/inside_remax/index.htm">Inside <nobr>RE/MAX</nobr></a> » Privacy Policy
+					<!-- InstanceBeginEditable name="bread_crumbs_inside" --><a href="/index.aspx">Home</a> » <a href="/inside_remax/index.aspx">Inside <nobr>RE/MAX</nobr></a> » Privacy Policy
 		  <!-- InstanceEndEditable -->
 				</div>
 				<a name="start_content"></a>
 				<!-- InstanceBeginEditable name="body_content" -->
 <h1>Privacy Policy</h1>
-At <nobr>RE/MAX</nobr> International, Inc., your privacy is very important to us.  The purpose of this privacy policy is to provide you with a description of the types of information we collect about you when you visit our site at <a href="http://www.remax.com">www.remax.com</a> (the “Site”), and how we use that information.  By visiting or using our Site, you agree to the provisions of this privacy policy.  If you do not agree to the terms of this Policy, please do not use this Site.<br><br>
+At <nobr>RE/MAX</nobr> International, Inc., your privacy is very important to us.  The purpose of this privacy policy is to provide you with a description of the types of information we collect about you when you visit our site at <a href="http://www.remax.com">www.remax.com</a> (the Site), and how we use that information.  By visiting or using our Site, you agree to the provisions of this privacy policy.  If you do not agree to the terms of this Policy, please do not use this Site.<br><br>
 
 This policy only applies to information collected while you are on our Site pages.  These pages may contain links to other Web sites, including sites of third parties who have a relationship with <nobr>RE/MAX</nobr> International or our franchise network of independently owned offices and their affiliated real estate professionals.  These third party sites may include sites of service providers who are permitted to display a <nobr>RE/MAX</nobr> logo pursuant to a co-branding agreement.  Please be aware that when you click on a link that takes you to another Web site, any information you provide, including financial information, is subject to the privacy policy of that site.  <nobr>RE/MAX</nobr> International does not control and is not responsible for the practices of such sites.<br><br>
 
 <b>Information We Collect</b><br>
 We collect and store information that you voluntarily provide to us as well as data related to your Site visit and usage.<br><br>  
 
-We collect personally identifiable information (including, but not limited to, name, address and phone number) that is voluntarily provided to us by you.  For example, you voluntarily provide personally identifiable information when you send us an email, use certain features of the Site such as the “Contact a <nobr>RE/MAX</nobr> Agent” feature, participate in a survey or sweepstakes, or register with our Site.<br><br>
+We collect personally identifiable information (including, but not limited to, name, address and phone number) that is voluntarily provided to us by you.  For example, you voluntarily provide personally identifiable information when you send us an email, use certain features of the Site such as the Contact a <nobr>RE/MAX</nobr> Agent feature, participate in a survey or sweepstakes, or register with our Site.<br><br>
 
 In addition, during your visit we automatically collect certain aggregate information related to your Site visit.  Aggregate information is non-personally identifiable or anonymous information about you, including the date and time of your visit, your IP address, your computer browser information, the Internet address that you visited prior to and after reaching our site, the name of the domain and host you used to access the Internet, and the features of our Site which you accessed.<br><br>
 
 <b>Use of Cookies</b><br>
-“Cookies” are simple text files stored on your computer for use by a browser.  Certain Site features may only be available through the placement of a cookie.  We may use “cookies” to assist in data collection and to track visitor Site usage and trends to help us better serve you.  The use of cookies is a standard practice among Internet Web sites; most Internet browsers permit a user to accept, decline or delete cookies.  This Web site works with a first party cookie that collects anonymous traffic data at this Web site.<br><br>
+Cookies are simple text files stored on your computer for use by a browser.  Certain Site features may only be available through the placement of a cookie.  We may use cookies to assist in data collection and to track visitor Site usage and trends to help us better serve you.  The use of cookies is a standard practice among Internet Web sites; most Internet browsers permit a user to accept, decline or delete cookies.  This Web site works with a first party cookie that collects anonymous traffic data at this Web site.<br><br>
 
 <b>How We Use Information</b><br>
 
@@ -92,7 +168,7 @@ We use collected information to make available and to improve our high standard 
 <b>Disclosure of Information</b><br>
 We do not sell or rent personally identifiable information to third parties who are not affiliates of <nobr>RE/MAX</nobr> International.  We may disclose personally identifiable information to appropriate affiliates of <nobr>RE/MAX</nobr> International, including strategic alliance affiliates, to respond to a request for service or the provide information about available products or services, and to third party service providers.  We may share aggregate information with certain third parties such as advertisers, national industry organizations, and prospective affiliates.  In addition, we reserve the right to disclose aggregate information and personally identifiable information to third parties as required or permitted by law and when we believe that disclosure is necessary to protect our rights.<br><br>
 
-<b>Children’s Privacy</b><br>
+<b>Childrens Privacy</b><br>
 This Web site is not directed toward children, and we do not knowingly collect information from children.<br><br>
 
 <b>Effective Date; Policy Changes</b><br>
@@ -107,72 +183,74 @@ This policy is governed by the laws of the State of Colorado without giving effe
 <b>Contact Us</b><br>
 To contact us with your questions or comments regarding this policy or the information collection and dissemination practices of this Site, please email us at <a href="mailto:admin@remax.net">admin@remax.net</a>.<br><br>
 
-<center>To see the Terms and Conditions that apply to this Site, click <a href="/misc/terms_of_use.htm">here</a>.<br>  
+<center>To see the Terms and Conditions that apply to this Site, click <a href="/misc/terms_of_use/">here</a>.<br>  
 All trademarks, service marks, and other proprietary materials herein are the property of <nobr>RE/MAX</nobr> International, Inc.
-© 2005.  All rights reserved.</center><p></p>
+ 2005.  All rights reserved.</center><p></p>
       <!-- InstanceEndEditable -->
 			</div>
 		</div>
 		<div id="left_column">
-					<div id="vertical_left_nav">
+			
+		<div id="vertical_left_nav">
 			
   <ul class="left_nav">
-    <li><a href="/inside_remax/index.htm">Inside RE/MAX Home</a></li>
-    <li><a href="/inside_remax/franchise_opportunities/index.htm">Franchise Opportunities</a> 
+    <li><a href="/inside_remax/index.aspx">Inside RE/MAX Home</a></li>
+    <li><a href="/inside_remax/franchise_opportunities/index.aspx">Franchise Opportunities</a> 
       <ul id="franchise_opps" class="subnav">
-        <li><a href="/inside_remax/franchise_opportunities/contact_us.htm">Contact 
+        <li><a href="/inside_remax/franchise_opportunities/contact_us.aspx">Contact 
           Us</a></li>
-        <li><a href="/inside_remax/franchise_opportunities/what_others_are_saying.htm">What 
+        <li><a href="/inside_remax/franchise_opportunities/what_others_are_saying.aspx">What 
           Others Are Saying</a></li>
-        <li><a href="/inside_remax/franchise_opportunities/training_coaching/index.htm">Training/Coaching</a></li>
-        <li><a href="/inside_remax/franchise_opportunities/market_share/atlanta_georgia.htm">Market 
+        <li><a href="/inside_remax/franchise_opportunities/training_coaching/index.aspx">Training/Coaching</a></li>
+        <li><a href="/inside_remax/franchise_opportunities/market_share/atlanta_georgia.aspx">Market 
           Share</a></li>
-        <li><a href="/inside_remax/franchise_opportunities/commercial.htm">Commercial</a></li>
-        <li><a href="/inside_remax/franchise_opportunities/top_10_reasons/index.htm">Top 
+        <li><a href="/inside_remax/franchise_opportunities/commercial.aspx">Commercial</a></li>
+        <li><a href="/inside_remax/franchise_opportunities/top_10_reasons/index.aspx">Top 
           10 Reasons Why RE/MAX</a></li>
       </ul>
     </li>
-    <li><a href="/inside_remax/become_an_agent/index.htm">Become An Agent</a> 
+    <li><a href="/inside_remax/become_an_agent/index.aspx">Become An Agent</a> 
       <ul id="become_agent" class="subnav">
-        <li><a href="/inside_remax/become_an_agent/new_to_real_estate/index.htm">New 
+        <li><a href="/inside_remax/become_an_agent/new_to_real_estate/index.aspx">New 
           to Real Estate</a></li>
-        <li><a href="/inside_remax/become_an_agent/how_to_join/index.htm">How 
+        <li><a href="/inside_remax/become_an_agent/how_to_join/index.aspx">How 
           to Join</a></li>
-        <li><a href="/inside_remax/become_an_agent/remax_growth/index.htm">RE/MAX 
+        <li><a href="/inside_remax/become_an_agent/remax_growth/index.aspx">RE/MAX 
           Growth</a></li>
-        <li><a href="/inside_remax/become_an_agent/training/index.htm">Training 
+        <li><a href="/inside_remax/become_an_agent/training/index.aspx">Training 
           / Coaching</a></li>
-        <li><a href="/inside_remax/become_an_agent/about_remax_agents/index.htm">About 
+        <li><a href="/inside_remax/become_an_agent/about_remax_agents/index.aspx">About 
           RE/MAX Agents</a></li>
-        <li><a href="/inside_remax/become_an_agent/benefits_advantages/index.htm">Benefits 
+        <li><a href="/inside_remax/become_an_agent/benefits_advantages/index.aspx">Benefits 
           &amp; Advantages</a></li>
       </ul>
     </li>
-    <li><a href="/inside_remax/news_and_events/index.htm">News &amp; Events</a> 
+    <li><a href="/inside_remax/news_and_events/index.aspx">News &amp; Events</a> 
       <ul id="news_events" class="subnav">
-        <li><a href="/inside_remax/news_and_events/press_releases/index.htm">Press 
+        <li><a href="/inside_remax/news_and_events/press_releases/index.aspx">Press 
           Releases</a></li>
-        <li><a href="/inside_remax/news_and_events/world_long_drive/index.htm">RE/MAX 
+        <li><a href="/inside_remax/news_and_events/world_long_drive/index.aspx">RE/MAX 
           World Long Drive Championship</a></li>
-        <li><a href="/inside_remax/news_and_events/motorsports/index.htm">RE/MAX 
+        <li><a href="/inside_remax/news_and_events/motorsports/index.aspx">RE/MAX 
           in Motorsports</a></li>
-        <li><a href="/inside_remax/news_and_events/soaring_home/index.htm">Soaring 
+        <li><a href="/inside_remax/news_and_events/soaring_home/index.aspx">Soaring 
           Home Balloon Appearances</a></li>
-        <li><a href="/inside_remax/franchise_opportunities/what_others_are_saying.htm">What Others Are Saying</a></li>
+        <li><a href="/inside_remax/franchise_opportunities/what_others_are_saying.aspx">What Others Are Saying</a></li>
       </ul>
     </li>
-    <li><a href="/inside_remax/corporate_relocation/index.htm">Corporate Relocation</a></li>
-				<li><a href="/inside_remax/corporate_information/index.htm">Corporate Information</a>
+    <li><a href="/inside_remax/corporate_relocation/index.aspx">Corporate Relocation</a></li>
+				<li><a href="/inside_remax/corporate_information/index.aspx">Corporate Information</a>
 					<ul id="corporate_information" class="subnav">
-					    <li><a href="/inside_remax/corporate_information/history.htm">History of RE/MAX</a></li>
-					    <li><a href="/inside_remax/corporate_information/officer_bios/index.htm">Officer Bios</a></li>
-					    <li><a href="/inside_remax/corporate_information/remax_regions/index.htm">RE/MAX Regions</a></li>
-					    <li><a href="/inside_remax/corporate_information/the_balloon/index.htm">The Balloon</a></li>
-					    <li><a href="/inside_remax/corporate_information/community_involvement/index.htm">Community Involvement</a></li>
+					    <li><a href="/inside_remax/corporate_information/history.aspx">History of RE/MAX</a></li>
+					    <li><a href="/inside_remax/corporate_information/officer_bios/index.aspx">Officer Bios</a></li>
+					    <li><a href="/inside_remax/corporate_information/remax_regions/index.aspx">RE/MAX Regions</a></li>
+					    <li><a href="/inside_remax/corporate_information/the_balloon/index.aspx">The Balloon</a></li>
+					    <li><a href="/inside_remax/corporate_information/community_involvement/index.aspx">Community Involvement</a></li>
 					</ul>
 				</li>
 			</ul>
 		</div>
+
 			<div id="left_content">
 				<!-- InstanceBeginEditable name="left_column" -->
 			<!-- InstanceEndEditable -->
@@ -181,19 +259,20 @@ All trademarks, service marks, and other proprietary materials herein are the pr
 	</div>
 	<div id="clearfooter"></div>
 </div>		
+</form>
 <div id="worldwide">
 
-		<div id="cmn"><img src="/images/main/cmn.gif" alt="Children's Miracle Network"> <a href="/inside_remax/corporate_information/community_involvement/childrens_miracle_network.htm" class="white">Children's Miracle Network</a>	<img src="/images/main/komen.gif" alt="Susan G. Komen Foundation"> <a href="/inside_remax/corporate_information/community_involvement/racing_for_life.htm" class="white">Susan G. Komen Foundation</a></div>
+		<div id="cmn"><img src="/images/main/cmn.gif" alt="Children's Miracle Network"> <a href="/inside_remax/corporate_information/community_involvement/childrens_miracle_network/" class="white">Children's Miracle Network</a>	<img src="/images/main/komen.gif" alt="Susan G. Komen Foundation"> <a href="/inside_remax/corporate_information/community_involvement/racing_for_life/" class="white">Susan G. Komen Foundation</a></div>
 	 	<div id="country">
 			<form name="country_select" id="country_select" action="#">
 				<label for="your_country"><strong>RE/MAX Worldwide</strong></label><br>
 				<select name="your_country" class="form_style2" id="your_country" onchange="country_jump()">
 				<option selected="selected">Select your Country</option>
-				<option value="/residential/index.htm">United States</option>
+				<option value="/residential/index.aspx">United States</option>
 				<option value="http://www.remax.ca">Canada</option>
 				<option value="http://www.remax-caribbeanislands.com">Antigua / Barbuda</option>
 				<option value="http://www.remax-caribbeanislands.com">Anguilla</option>
-				<option value="http://www.remaxargentina.com.ar/">Argentina</option>
+				<option value="http://www.remax.com.ar/">Argentina</option>
 				<option value="http://www.remax-caribbeanislands.com">Aruba</option>
 				<option value="http://www.remax.com.au">Australia</option>
 				<option value="http://www.remax-austria.com">Austria</option>
@@ -203,19 +282,22 @@ All trademarks, service marks, and other proprietary materials herein are the pr
 				<option value="http://www.remax-caribbeanislands.com"> Belize</option>
 				<option value="http://www.remax-caribbeanislands.com">Bonaire</option>
 				<option value="http://www.remax.co.za">Botswana</option>
-				<option value="/inside_remax/corporate_information/remax_regions/region_pages/bulgaria.htm">Bulgaria</option>
+				<option value="http://www.remax.bg/">Bulgaria</option>
 				<option value="http://www.remax-caribbeanislands.com">Caribbean</option>
 				<option value="http://www.remax-caribbeanislands.com">Cayman Islands</option>
 				<option value="http://www.remax-caribbeanislands.com">Central America</option>
 				<option value="http://www.remax.cl">Chile</option>
-				<option value="/inside_remax/corporate_information/remax_regions/region_pages/croatia.htm">Croatia</option>
+				<option value="http://www.remax-croatia.com/">Croatia</option>
 				<option value="http://www.remax-caribbeanislands.com">Costa Rica</option>
-				<option value="http://www.remax.gr">Cyprus</option>
+				<option value="http://www.remax-caribbeanislands.com">Curaçao</option>
+				<!--Removed per TD#1961<option value="http://www.remax.gr">Cyprus</option>-->
 				<option value="http://www.remax-czech.cz">Czech Republic</option>
 				<option value="http://www.remax.dk">Denmark</option>
 				<option value="http://www.remax-caribbeanislands.com">Dominican Republic</option>
-				<option value="/inside_remax/corporate_information/remax_regions/region_pages/estonia.htm">Estonia</option>
+				<option value="/inside_remax/corporate_information/remax_regions/region_pages/estonia.aspx">Estonia</option>
 				<option value="http://www.remax-europe.com">Europe</option>
+				<option value="/inside_remax/corporate_information/remax_regions/region_pages/finland.aspx">Finland</option>
+				<option value="/inside_remax/corporate_information/remax_regions/region_pages/france.aspx">France</option>
 				<option value="http://www.remax.de">Germany Central</option>
 				<option value="http://www.remax.de">Germany East</option>
 				<option value="http://www.remax.de">Germany North/West</option>
@@ -231,9 +313,9 @@ All trademarks, service marks, and other proprietary materials herein are the pr
 				<option value="http://www.remax.it">Italy</option>
 				<option value="http://www.remax-caribbeanislands.com">Jamaica</option>
 				<option value="http://www.remaxarabia.com">Kuwait</option>
-				<option value="/inside_remax/corporate_information/remax_regions/region_pages/latvia.htm">Latvia</option>
+				<option value="/inside_remax/corporate_information/remax_regions/region_pages/latvia.aspx">Latvia</option>
 				<option value="http://www.remaxarabia.com">Lebanon</option>
-				<option value="/inside_remax/corporate_information/remax_regions/region_pages/lithuania.htm">Lithuania</option>
+				<option value="http://www.remax.lt/">Lithuania</option>
 				<option value="http://www.remax.lu">Luxembourg</option>
 				<option value="http://www.remax.co.za">Mauritius</option>
 				<option value="http://www.remax-malta.com">Malta</option>
@@ -251,8 +333,8 @@ All trademarks, service marks, and other proprietary materials herein are the pr
 				<option value="http://www.remaxarabia.com">Qatar</option>
 				<option value="http://www.remaxarabia.com">Saudi Arabia</option>
 				<option value="http://www.remax-scotland.com/">Scotland</option>
-				<option value="/inside_remax/corporate_information/remax_regions/region_pages/singapore.htm">Singapore</option>
-				<option value="/inside_remax/corporate_information/remax_regions/region_pages/slovakia.htm">Slovakia</option>
+				<option value="/inside_remax/corporate_information/remax_regions/region_pages/singapore.aspx">Singapore</option>
+				<option value="http://www.remax-slovakia.sk/">Slovakia</option>
 				<option value="http://www.remax.co.za">Southern Africa</option>
 				<option value="http://www.remax.es">Spain</option>
 				<option value="http://www.remax-caribbeanislands.com">St. Barth</option>
@@ -262,7 +344,7 @@ All trademarks, service marks, and other proprietary materials herein are the pr
 				<option value="http://www.remax-caribbeanislands.com">St. Thomas</option>
 				<option value="http://www.remax-sverige.com">Sweden</option>
 				<option value="http://www.remax.ch">Switzerland</option>
-				<option value="/misc/redirect_turkey.htm">Turkey</option>
+				<option value="/misc/redirect_turkey.aspx">Turkey</option>
 				<option value="http://www.remax-caribbeanislands.com">Turks &amp; Caicos</option>
 				<option value="http://www.remax-unlimited-dubai.ae">United Arab Emirates</option>
 				<option value="http://www.remax-properties.co.uk">UK Midlands</option>
@@ -274,18 +356,21 @@ All trademarks, service marks, and other proprietary materials herein are the pr
 				<option value="http://www.remax-wales.co.uk">Wales</option>
 				<option value="http://www.remax.co.za">Zambia</option>
 				</select>
-		  	&nbsp; <a href="/spa/index.htm" target="_blank" class="white"><strong>remax.com en español</strong></a>
+		  	&nbsp; <a href="/spa/index.aspx" target="_blank" class="white"><strong>remax.com en español</strong></a>
 			</form>
 	 </div>
 
 
 </div>
 <div id="footer">
-  	<div id="footer_links"><a href="/mainstreet.htm" target="_blank">RE/MAX Mainstreet</a> | <a href="/misc/help/index.htm">Help</a> | <a href="/misc/terms_of_use.htm">Terms
-       of Use</a> | <a href="/misc/privacy_policy.htm">Privacy Policy</a> | <a href="/misc/contact_us.htm">Contact
-       RE/MAX</a></div>
-	<div id="copyright">© 2005 RE/MAX International, Inc. All Rights Reserved.</div>
-	<div id="legal">The <nobr>RE/MAX</nobr> franchise network is a global real estate system of franchisee owned and operated offices and their affiliated independent professionals. <nobr>RE/MAX</nobr> affiliates lead the industry in professional designations, experience and production. <nobr>RE/MAX</nobr> International is an Equal Opportunity Employer and supports the Fair Housing Act.</div>
+  	<div id="footer_links"><a href="/sitemap.aspx">Sitemap</a> | <a href="http://www.remax.net" target="_blank"><span class="nobreak">RE/MAX</span> Mainstreet</a> | <a href="/misc/help/">Help</a> | <a href="/misc/terms_of_use/">Terms of Use</a> | <a href="/misc/privacy_policy/">Privacy Policy</a> | <a href="/misc/contact_us/">Contact <span class="nobreak">RE/MAX</span></a></div>
+	<div id="copyright">© 2006 <span class="nobreak">RE/MAX</span> International, Inc. All Rights Reserved.</div>
+	<div id="legal">
+	  <p>The <span class="nobreak">RE/MAX</span> franchise network is a global real estate system of franchisee owned and operated offices and their affiliated independent professionals. <span class="nobreak">RE/MAX</span> affiliates lead the industry in professional designations, experience and production. <span class="nobreak">RE/MAX</span> International is an Equal Opportunity Employer and supports the Fair Housing Act.</p>
+	  <p><a href="http://www.eneighborhoods.com" target="_blank"><img src="/images/poweredbyEN.gif" alt="powered by: eNeighborhoods" width="285" height="18" border="0"></a><br>
+      </p>
+	</div>
 </div>
 
-<!-- InstanceEnd --></body></html>
+<!-- InstanceEnd -->
+</body></html>
