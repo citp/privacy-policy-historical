@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truveo.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217071826id_/http%3A//www.truveo.com/about.php%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truveo.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615024714id_/http%3A//truveo.com/about.php%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # Truveo Privacy Policy
 
@@ -23,5 +23,15 @@ Children
 Truveo's policies adhere to the Children's Online Privacy Protection Act (COPPA), which defines a set of rules for the collection of information from minors. For more information, please visit the [FTC website](http://www.ftc.gov/privacy/privacyinitiatives/childrens.html).   
 Changes to this Policy   
 From time to time, we may make changes to our privacy policy to better reflect our business and the marketplace, and we will keep you informed of these changes on our website.   
-For any questions about our privacy policy, please email us at [privacy@truveo.com](mailto:privacy@truveo.com).   
-| 
+For any questions about our privacy policy, please email us at  with the word 'privacy' in the subject line.   
+|  |   
+---  
+[](https://web.archive.org/web/20060615024714id_/http%3A//truveo.com/index.php)  
+[](https://web.archive.org/web/20060615024714id_/http%3A//truveo.com/about.php)  
+[](https://web.archive.org/web/20060615024714id_/http%3A//truveo.com/about.php?p=team)  
+[](https://web.archive.org/web/20060615024714id_/http%3A//truveo.com/about.php?p=contact)  
+[](https://web.archive.org/web/20060615024714id_/http%3A//truveo.com/about.php?p=jobs)  
+[](https://web.archive.org/web/20060615024714id_/http%3A//truveo.com/about.php?p=privacy)  
+[](https://web.archive.org/web/20060615024714id_/http%3A//truveo.com/about.php?p=terms)  
+[](https://web.archive.org/web/20060615024714id_/http%3A//truveo.com/about.php?p=adult)  
+[](https://web.archive.org/web/20060615024714id_/http%3A//truveo.com/about.php?p=press)
