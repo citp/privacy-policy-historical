@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the batelco.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224215325id_/http%3A//www.batelco.com/preview.asp%3FArticleId%3D366) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batelco.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615100406id_/http%3A//www.batelco.com/preview.asp%3FArticleId%3D366) for the most accurate reproduction.*
 
 # :: Batelco.com ::
 
