@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the improvenet.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225013145id_/http%3A//www.servicemagic.com/servlet/RedirectServlet%3FD%3DPRIVACYSTATEMENT%26m%3Dimprovenet2005%26entry_point_id%3D617718) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the improvenet.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615034805id_/http%3A//www.servicemagic.com/servlet/RedirectServlet%3FD%3DPRIVACYSTATEMENT%26m%3Dimprovenet2005%26entry_point_id%3D617718) for the most accurate reproduction.*
 
 # ServiceMagic - Privacy Statement
 
