@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iwebtrack.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221160014id_/http%3A//iwebtrack.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwebtrack.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615021633id_/http%3A//www.iwebtrack.com/privacy.asp) for the most accurate reproduction.*
 
 # IWEBTRACK: Privacy Policy
 
