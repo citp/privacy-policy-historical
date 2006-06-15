@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csx.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228124735id_/http%3A//www.csx.com/%3Ffuseaction%3Dhome.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csx.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615140238id_/http%3A//www.csx.com/%3Ffuseaction%3Dhome.privacy) for the most accurate reproduction.*
 
 # Welcome to CSX.com - Privacy Policy
 
@@ -16,7 +16,7 @@ We do not send unsolicited e-mail. After you provide us with personal informatio
 
 You may easily unsubscribe to future e-mailings by using any of the following methods:
 
-  * Via our web site, by visiting the [Unsubscribe Page](https://web.archive.org/web/20051228124735id_/http%3A//www.csx.com/%3Ffuseaction%3Dhome.privacy?fuseaction=media.news).
+  * Via our web site, by visiting the [Unsubscribe Page](https://web.archive.org/web/20060615140238id_/http%3A//www.csx.com/%3Ffuseaction%3Dhome.privacy?fuseaction=media.news).
 
 
 
