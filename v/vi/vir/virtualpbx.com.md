@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the virtualpbx.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230061818id_/http%3A//www.virtualpbx.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualpbx.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615052109id_/http%3A//virtualpbx.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy For a Wireless Business Phone System, Wireless PBX, and 1 800 Phone Numbers
 
-VirtualPBX.com, Inc. respects the privacy of visitors to our site. Please read this Online Privacy Policy carefully so that you understand our privacy practices relating to information we gather through this Web site. 
+VirtualPBX.com, Inc.® respects the privacy of visitors to our site. Please read this Online Privacy Policy carefully so that you understand our privacy practices relating to information we gather through this Web site. 
 
 ## The Information We Collect
 
@@ -10,7 +10,7 @@ The information gathered by VirtualPBX.com generally falls into two categories: 
 
 The information you provide us during a visit to VirtualPBX.com helps us to improve the quality and utility of our site. The more information you share with us, the better we can serve your needs.
 
-When you purchase Virtual PBX™ services, we request the following types of information on our order form:
+When you purchase Virtual PBX® services, we request the following types of information on our order form:
 
   * Name 
   * Shipping and/or billing address 
@@ -37,7 +37,7 @@ For new accounts, we may request a Social Security Number, which we use to order
 
 To take advantage of personalized services available on VirtualPBX.com, you may need to supply additional information, such as: 
 
-  * Virtual PBX™ Number 
+  * Virtual PBX® Number 
   * Level of responsibility for account administration 
 
 
@@ -78,4 +78,4 @@ We may occasionally release information about our visitors when release is appro
 
 This privacy policy is subject to change. The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we'll post the new policy promptly. If at any point we decide to use personally identifiable information in a manner different from what was stated at the time it was collected, we will notify you and give you an opportunity to opt out of the proposed use. By using VirtualPBX.com, you agree that your visit to our site, and any dispute over privacy, is governed by the then-current version of the Online Privacy Policy. 
 
-_This Online Privacy Policy was last revised on July 20, 2004._
+_This Online Privacy Policy was last revised on February 8, 2006._
