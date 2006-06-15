@@ -1,25 +1,8 @@
-> *The following text is extracted and transformed from the shipwire.com privacy policy that was archived on 2005-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051120100818id_/http%3A//www.shipwire.com/exec/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shipwire.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615192200id_/http%3A//www.shipwire.com/exec/privacy.php) for the most accurate reproduction.*
 
 # Shipwire.com
 
-|    |    |    
----|---|---  
-  
-[ ](http://www.shipwire.com/exec/index.php?osCsid=7d07b9ba482a88e8433da1af24e98fbf)
-
-| 
-
-** ** | **** ** [ Help](http://www.shipwire.com/exec/service.php)**  
- 
-
-| 
-
-Your On-Demand Shipping and Receiving Department  
-  
----  
-   
-   
-  
+|   
 ---  
   
 New Page 1 We know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting Shipwire.com, you are accepting the practices described in this Privacy Notice. 
