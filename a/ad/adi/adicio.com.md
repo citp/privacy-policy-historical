@@ -1,56 +1,8 @@
-> *The following text is extracted and transformed from the adicio.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210055147id_/http%3A//adicio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adicio.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615024846id_/http%3A//www.adicio.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Adicio Privacy Policy
 
-  * 01[Home](https://web.archive.org/home/)
-  * 02[Products](https://web.archive.org/products/)
-    * [Employment](https://web.archive.org/employment_platform/)
-    * [Motors](https://web.archive.org/automotive_platform/)
-    * [Real Estate](https://web.archive.org/real_estate_platform/)
-    * [Site Administration](https://web.archive.org/site_administration/)
-    * [UI Customization](https://web.archive.org/ui_customization/)
-  * 03[Services](https://web.archive.org/services/)
-    * [Custom Databases](https://web.archive.org/custom_databases/)
-    * [Ad Wrapping](https://web.archive.org/ad_wrapping/)
-    * [Technical Support](https://web.archive.org/technical_support/)
-    * [National Jobs &  
-Resumes Network](https://web.archive.org/national_network/)
-    * [Hosting](https://web.archive.org/hosting/)
-  * 04[News](https://web.archive.org/news/)
-  * 05[Clients](https://web.archive.org/clients/)
-  * 06[About Us](https://web.archive.org/about_us/)
-    * [About Adicio](https://web.archive.org/about_us/)
-    * [Partners](https://web.archive.org/partners/)
-    * [Careers](http://www.careercast.com/texis/jobsearch/search.html?q=adicio)
-    * [Contact Sales](https://web.archive.org/contact_sales/)
-    * [Technical Support](http://www.careercast.com/texis/feedback?lookid=careercast)
-    * [Search Site](https://web.archive.org/search_site/)
-
-
-
-[](https://web.archive.org/automotive_platform/)
-
-|  |  |   |  [](http://www.truste.org/ivalidate.php?url=www.adicio.com&sealid=102)
-
-* * *
-
-## Adicio, Inc. Privacy Policy
-
-## October 2004
-
-### Introduction
-
-Adicio, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.adicio.com. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
-
-The following sets forth Adicio, Inc.'s privacy policy, which contains two separate sections as follows: 
-
-### [I. Adicio, Inc. Online Privacy Policy, which addresses the privacy practices applicable to usage of the Adicio, Inc. website;](https://web.archive.org/privacy/#sect1)
-
-### [II. Adicio, Inc.'s ASP Privacy Policy, which addresses the privacy practices applicable to information processed by Adicio, Inc. in its role as an ASP provider;](https://web.archive.org/privacy/#sect2)
-
-Adicio, Inc. respects individual privacy. Adicio, Inc. strives to collect and use personal information in a manner consistent with the laws of the countries in which it does business. Adicio, Inc. abides by the Safe Harbor Principles developed by the U.S. Department of Commerce and the European Commission.
-
-### ADICIO, INC. ONLINE PRIVACY POLICY
+  |  | 
 
 #### Overview
 
@@ -87,7 +39,7 @@ We do not disclose to third parties your personal information, combined personal
 
   1. We may disclose such information to third parties if you consent to such disclosure. For example, if you indicate that you would like to receive information about the products or services of third parties at the time you register for a Adicio account, we may supply your contact information to third parties such as employers, recruiters, data aggregators, marketers or others for the purpose of sending you e-mail or otherwise communicating with you.
   2. We may disclose such information to companies and individuals we employ to perform functions on our behalf. Examples may include hosting our Web servers, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. These companies and individuals will have access to your personal information as necessary to perform their functions, but they may not share that information with any other third party. 
-  3. We may disclose such information if legally required to do so, if requested to do so by a governmental entity or if we believe in good faith that such action is necessary to: (a) conform to legal requirements or comply with legal process; (b) protect the rights or property of Adicio or its affiliated companies; (c) prevent a crime or protect national security; or (d) protect the personal safety of users or the public. 
+  3. We may disclose such information if legally required to do so, if requested to do so by a governmental entity or if we believe in good faith that such action is necessary to: (a) conform to legal requirements or comply with legal process; (b) protect the rights or property of Adicio or its affiliated companies; (c) prevent a crime or protect national security; or (d) protect the personal safety of users or the public.
   4. We may disclose and transfer such information to a third party who acquires all or a substantial portion of Adicio's business, whether such acquisition is by way of merger, consolidation or purchase of all or a substantial portion of our assets. In addition, in the event Adicio becomes the subject of a bankruptcy proceeding, whether voluntary or involuntary, Adicio or its trustee in bankruptcy may sell, license or otherwise dispose of such information in a transaction approved by the bankruptcy court if such even occurs we will display a prominent notice on our web site.
 
 
@@ -161,39 +113,39 @@ We welcome your comments concerning this Privacy Statement. If you believe that 
 
 ### II. Adicio, Inc.'s ASP Privacy Policy
 
-This ASP Privacy Policy applies only to all transfers of personally identifiable information ("Personal Information") received by Adicio, Inc. in any format through its hosted recruitment software, Career Server, whether supplied directly by Adicio, Inc. customers or by candidates for employment at Adicio, Inc. customers anywhere in the world, including transfers from the European Economic Area (EEA) to the United States. Any other visitors to Adicio.com should refer to the On-Line Privacy Policy which covers non-ASP Adicio, Inc.com website use. [http://www.adicio.com/privacy_non_asp](http://www.adicio.com/privacy_non_asp/)
+This ASP Privacy Policy applies only to all transfers of personally identifiable information ("Personal Information") received by Adicio, Inc. in any format through its hosted recruitment software, Career Server, whether supplied directly by Adicio, Inc. customers or by candidates for employment at Adicio, Inc. customers anywhere in the world, including transfers from the European Economic Area (EEA) to the United States. Any other visitors to Adicio.com should refer to the On-Line Privacy Policy which covers non-ASP Adicio, Inc.com website use. 
 
 Adicio, Inc. abides by the EU Safe Harbor framework as set forth by the Department of Commerce regarding collection, use, and retention of data from the European Union. As such we operate as a data processor for our hosted recruitment software customers. Our hosted recruitment software customers fill the role of data controller. Individual users involved in recruitment activities usually interact directly with Adicio, Inc.'s customers rather than with Adicio, Inc. Adicio, Inc. provides its customers the option of disclosing their relationship with us by providing notice to individual employees and candidates of the customer about the Adicio, Inc. technology that they use. Adicio, Inc. maintains only that information related to the candidate recruitment process, which our customers' have asked us to process. This ASP Privacy Policy does not reflect the privacy practices of Adicio, Inc.'s customers and Adicio, Inc. is not responsible for its customers' privacy policies or practices. Adicio, Inc. does not review, comment upon or monitor its customers' compliance with their respective privacy policies, nor does Adicio, Inc. review its customer instructions to determine whether they are in compliance with or conflict with the terms of a customer's published privacy policy. 
 
-**1.** Notice/Use of Information
+**1\. Notice/Use of Information**
 
  Because it supplies a hosted system, Adicio, Inc. operates as a data processor for our recruitment software customers. Our hosted recruitment software customers fill the role of data collector. Individual users involved in recruitment activities usually interact directly with Adicio, Inc.'s customers rather than with Adicio, Inc. Adicio, Inc. provides its customers with the option of disclosing their relationship with us by providing notice to individual employees and candidates of the customer about the Adicio, Inc. technology that they use. Adicio, Inc. maintains only that information related to the candidate recruitment process, which our customers have asked us to process. It is the Adicio, Inc. customer's responsibility to ensure that the data the customer collects can be legally collected in the country of origin. The Adicio, Inc. customer is responsible to give its employees and candidates for employment the appropriate level of notification that Personal Information is being collected and maintained. Adicio, Inc. does collect aggregate and demographic data, which is not associated with an individual candidate's Personal Information, and that may be used for statistical analysis and training purposes. 
 
-**2.** Notification of Changes/Choice
+**2\. Notification of Changes/Choice**
 
- We will maintain information in accordance with this ASP Privacy Policy. If we decide to change this Policy, we will post the changes on this page so that our recruitment software customers or their candidates for employment are always aware of what information we process, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use Personal Information in a different manner, we will notify our recruitment process customers by way of email or by posting a notice on our website for at least 30 days prior to the change in use. Customers, in turn, are responsible for notifying candidates and providing them a choice as to whether or not we use their information in this different manner. 
+We will maintain information in accordance with this ASP Privacy Policy. If we decide to change this Policy, we will post the changes on this page so that our recruitment software customers or their candidates for employment are always aware of what information we process, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use Personal Information in a different manner, we will notify our recruitment process customers by way of email or by posting a notice on our website for at least 30 days prior to the change in use. Customers, in turn, are responsible for notifying candidates and providing them a choice as to whether or not we use their information in this different manner. 
 
-**3.** Onward Transfer
+**3\. Onward Transfer**
 
- We employ other companies and individuals to perform functions on our behalf. Examples may include customer service; resume processing, and data storage. If we disclose information of our customers or job candidates to a third party that is acting as our agent or on our behalf, we will ensure that the third party has agreed to abide by the Safe Harbor principles or is subject to the Data Directive, or can otherwise assure adequate protection of such information. We may seek to assure adequate protection, for example, by entering into written agreements with third parties requiring such parties to provide at least the same level of privacy protection as is required by the Safe Harbor and/or the Data Directive. 
+We employ other companies and individuals to perform functions on our behalf. Examples may include customer service; resume processing, and data storage. If we disclose information of our customers or job candidates to a third party that is acting as our agent or on our behalf, we will ensure that the third party has agreed to abide by the Safe Harbor principles or is subject to the Data Directive, or can otherwise assure adequate protection of such information. We may seek to assure adequate protection, for example, by entering into written agreements with third parties requiring such parties to provide at least the same level of privacy protection as is required by the Safe Harbor and/or the Data Directive. 
 
-**4.** Data Integrity
+**4\. Data Integrity**
 
  Adicio, Inc. will use Personal Information only in ways compatible with the purpose for which it was collected or subsequently authorized by our customers. Adicio, Inc. will take reasonable steps to ensure that Personal Information is relevant for its intended use, accurate and complete. 
 
-**5.** Security
+**5\. Security**
 
- Adicio, Inc. is committed to ensuring the security of the information it processes. To prevent unauthorized access or disclosure, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we process. Adicio, Inc. strives to protect the privacy of the information we process, and inadvertent disclosure is extremely unlikely. In the event of such an inadvertent disclosure, Adicio, Inc. will take all commercially reasonable steps to limit and remedy the disclosure. However, we cannot guarantee that unauthorized third parties will never be able to defeat those procedures or use your personal information for improper purposes. 
+Adicio, Inc. is committed to ensuring the security of the information it processes. To prevent unauthorized access or disclosure, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we process. Adicio, Inc. strives to protect the privacy of the information we process, and inadvertent disclosure is extremely unlikely. In the event of such an inadvertent disclosure, Adicio, Inc. will take all commercially reasonable steps to limit and remedy the disclosure. However, we cannot guarantee that unauthorized third parties will never be able to defeat those procedures or use your personal information for improper purposes. 
 
-**6.** Access/Correction
+**6\. Access/Correction**
 
- In most cases, when Adicio, Inc. collects Personal Information we do so on behalf of another company (as an agent or data processor). To request access to or correction of this information, please contact the company to which you provided it. Adicio, Inc. technology allows its recruitment software customer's access to all of the information processed on their behalf and allows for the processing of any requested corrections to such information. You can also access your account information 24 hours a day, 7 days a week, to make corrections to your account information. If you have forgotten your password you can use the "Forgot my password" link. If you do not have your account information, you can contact the company/site where you set up your account and request assistance. 
+In most cases, when Adicio, Inc. collects Personal Information we do so on behalf of another company (as an agent or data processor). To request access to or correction of this information, please contact the company to which you provided it. Adicio, Inc. technology allows its recruitment software customer's access to all of the information processed on their behalf and allows for the processing of any requested corrections to such information. You can also access your account information 24 hours a day, 7 days a week, to make corrections to your account information. If you have forgotten your password you can use the "Forgot my password" link. If you do not have your account information, you can contact the company/site where you set up your account and request assistance. 
 
-**7.** Oversight/Enforcement
+**7\. Oversight/Enforcement**
 
- Adicio, Inc. has a Privacy Officer who is responsible for Adicio, Inc.'s compliance with and enforcement of this Policy. Adicio, Inc.'s Privacy Officer, Michael Cavallo, is available to any of its employees, customers, vendors, business partners, or others who may have questions concerning this Policy or data security practices. Adicio, Inc.'s Privacy Officer may be contacted by email at [privacy@adicio.com](mailto:mike@adicio.com), by telephone at 760-692-4151 or by mail at Adicio, Inc., 5963 La Place Court, Suite 100, Carlsbad, CA 92008. If users have questions or concerns regarding this statement, they should first contact Michael Cavallo. 
+Adicio, Inc. has a Privacy Officer who is responsible for Adicio, Inc.'s compliance with and enforcement of this Policy. Adicio, Inc.'s Privacy Officer, Michael Cavallo, is available to any of its employees, customers, vendors, business partners, or others who may have questions concerning this Policy or data security practices. Adicio, Inc.'s Privacy Officer may be contacted by email at [privacy@adicio.com](mailto:mike@adicio.com), by telephone at 760-692-4151 or by mail at Adicio, Inc., 5963 La Place Court, Suite 100, Carlsbad, CA 92008. If users have questions or concerns regarding this statement, they should first contact Michael Cavallo. 
 
- We participate in the EU Safe Harbor Privacy Framework as set forth by the United States Department of Commerce. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). For human resources data we have agreed to cooperate with Data Protection Authorities. Any questions, comments or complaints about the data practices (including without limitation compliance with data privacy principles of notice, choice, onward transfer, access, security, data integrity, or enforcement) of a hosted recruitment software customer for whom Adicio, Inc. processes data should be addressed to that customer. 
+We participate in the EU Safe Harbor Privacy Framework as set forth by the United States Department of Commerce. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). For human resources data we have agreed to cooperate with Data Protection Authorities. Any questions, comments or complaints about the data practices (including without limitation compliance with data privacy principles of notice, choice, onward transfer, access, security, data integrity, or enforcement) of a hosted recruitment software customer for whom Adicio, Inc. processes data should be addressed to that customer. 
 
 ### Adicio, Inc. TERMS OF USE  
 For Adicio, Inc. World Wide Web Sites
@@ -278,7 +230,10 @@ Adicio, Inc. reserves the right to seek all remedies available at law and in equ
 
 You agree to submit to the laws of the State of California and applicable federal law. Any claim relating to Content on the Site shall be governed by the substantive laws of the State of California, excluding its principals as to conflicts of laws. Any dispute arising out of or in connection with the use or access or otherwise related to the Site may be settled by a court of competent jurisdiction, except for a claim of violation of data privacy covered by the Privacy Policy dispute resolution terms. 
 
-(c) 2004 Adicio, Inc. All Rights Reserved   
-Revised 10/04 
+(c) 2005 Adicio, Inc. All Rights Reserved   
+Revised 10/05 
 
-|  | 
+* * *
+
+  
+
