@@ -1,9 +1,13 @@
-> *The following text is extracted and transformed from the vandyke.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218023505id_/http%3A//vandyke.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vandyke.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615021638id_/http%3A//vandyke.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
-**Last updated:** May 4, 2005  
+| 
 
+**Last updated:** May 4, 2005    
+  
+---|---  
+  
 VanDyke Software® is committed to protecting your privacy. The following discloses our information collection and use practices. We collect industry-standard information to help us provide you with better software and services as described below. VanDyke Software does not sell, trade, or give out customer information gathered from its web site.
 
 When you contact us, place an order, download an evaluation, or join a discussion list, we ask for your contact/billing information. This information is used for internal operations, possibly to send surveys, and to provide you with updated information on our products on an "opt-in" basis. Opt-in means you must request a subscription. 
@@ -24,7 +28,7 @@ In European Union (EU) countries, all online transactions are handled by Digital
 
 **User Surveys:** Your participation in surveys is optional. We, or an authorized agent, may ask you for information regarding your experience with our software or web sites, or to provide demographic information such as age, gender, or areas of interest. We use this information to help us improve our software, plan marketing initiatives, and develop new products that may interest you.
 
-**Downloading Secure Products:** Download of VShell® Server, SecureCRT®, SecureFX®, and Entunnel™ require a street address, phone number, and e-mail address. This is done to verify location as required by U.S. export control regulations. Information submitted is checked in real time by CyberSource, a third party service that monitors order acceptance against a continually changing list of denied countries or persons, and electronically verifies the customer's location. Names or company names and addresses of customers purchasing licenses for VShell Server, SecureCRT, SecureFX, and Entunnel outside the U.S. and Canada must be reported to the Bureau of Industry and Security. No other personal information is reported.
+**Downloading Secure Products:** Download of VShell® Server, SecureCRT® and SecureFX® require a street address, phone number, and e-mail address. This is done to verify location as required by U.S. export control regulations. Information submitted is checked in real time by CyberSource, a third party service that monitors order acceptance against a continually changing list of denied countries or persons, and electronically verifies the customer's location. Names or company names and addresses of customers purchasing licenses for VShell Server, SecureCRT and SecureFX outside the U.S. and Canada must be reported to the Bureau of Industry and Security. No other personal information is reported.
 
 **Cookies:** VanDyke uses "cookies" to help create a more effective and convenient web site experience. By showing us how and when visitors use the site, cookies help us determine which areas are popular and which are not. Many improvements and updates to the site are based on data such as total number of visitors and pages viewed. Vandyke.com does not store any sensitive information in the cookie.
 
