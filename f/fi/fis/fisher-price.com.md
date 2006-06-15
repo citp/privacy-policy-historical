@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fisher-price.com privacy policy that was archived on 2005-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050414074820id_/http%3A//www.fisher-price.com/us/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fisher-price.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616010632id_/http%3A//www.fisher-price.com/us/privacy.asp) for the most accurate reproduction.*
 
 # Welcome to Fisher-Price.com!
 
@@ -48,5 +48,5 @@ You always have the right to request that contact information regarding you or y
 
 We reserve the right to change this policy at any time by posting it on our web site. 
 
-© 2005 Mattel, Inc. All Rights Reserved.  
+© 2006 Mattel, Inc. All Rights Reserved.  
 Updated March 8th, 2005
