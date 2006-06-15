@@ -1,10 +1,31 @@
-> *The following text is extracted and transformed from the staugustine.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220035534id_/http%3A//staugustine.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the staugustine.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615163808id_/http%3A//www.staugustine.com/privacy.shtml) for the most accurate reproduction.*
 
-# staugustine.com - Privacy Policy
+# staugustine.com: the oldest city's home on the Net
 
-**staugustine.com Privacy Policy and Terms of Use**
+This channel contains visitor and tourist information for St. Johns County.  
+ 
 
-staugustine.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number and other information) subject to the terms of this privacy policy. Please note this policy applies only to information collected by staugustine.com online and does not impact information collected or used by staugustine.com or its affiliates through other means. 
+This channel has features on videos on the area's history.  
+ 
+
+This channel has all the entertaining things to do.  
+ 
+
+This channel is all about hobbies and leisure.  
+ 
+
+This channel has the classifieds, JobFinder, HomeFinder and other commerce.  
+ 
+
+This channel has information about your neighborhood.  
+ 
+
+  
+
+
+staugustine.com Privacy Policy and Terms of Use
+
+staugustine.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number and other information) subject to the terms of this privacy policy. Please note this policy applies only to information collected by staugustine.com online and does not impact information collected or used by staugustine.com or its affiliates through other means.
 
 staugustine.com is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the Web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At staugustine.com, we intend to give you as much control as possible over your personal information. 
 
@@ -39,8 +60,7 @@ Corporate Content Development
 Morris Communications Corporation  
 PO Box 936  
 Augusta, GA  
-30903  
-
+30903
 
 \---or--- 
 
@@ -48,8 +68,7 @@ staugustine.com c/o
 The St. Augustine Record  
 P.O. Box 1630  
 St. Augustine, FL 32085-1630  
-904-829-6562  
-
+904-829-6562
 
 These privacy policies are effective as of Dec. 1, 1999. We reserve the right to change this policy at any time, and will post any changes to this policy as soon as they go into effect. 
 
@@ -71,7 +90,9 @@ staugustine.com strives to maintain story accuracy by making corrections to arch
 
 Though efforts are made to assure the correctness of information on linked websites, staugustine.com is not responsible for correcting information on other websites. 
 
-**IX. Membership and Registration** If you become a Member of staugustine.com, you accept responsibility for all activities that occur under your account or password, and agree not to sell, transfer or assign your Membership or any Membership rights. We reserve the right to terminate your Membership at any time for any reason. You are responsible for maintaining the confidentiality of your password and for restricting access to your computer so others outside your household may not access staugustine.com using your name in whole or in part without our permission. If you believe someone has accessed staugustine.com using your member name and password without your authorization, e-mail us immediately at director@staugustine.com. 
+**IX. Membership and Registration**
+
+If you become a Member of staugustine.com, you accept responsibility for all activities that occur under your account or password, and agree not to sell, transfer or assign your Membership or any Membership rights. We reserve the right to terminate your Membership at any time for any reason. You are responsible for maintaining the confidentiality of your password and for restricting access to your computer so others outside your household may not access staugustine.com using your name in whole or in part without our permission. If you believe someone has accessed staugustine.com using your member name and password without your authorization, e-mail us immediately at director@staugustine.com. 
 
 Some areas within our network of sites may require a credit card payment before access is granted. If you sign up for these services, you agree to pay all subscription fees and any other charges incurred in connection with your member name and password (including any applicable taxes) at the rates in effect when the charges were incurred. We may bill charges automatically to your credit card. All fees will be billed at the beginning of your subscription or any renewal (or as soon thereafter as fees or charges are incurred) and are nonrefundable. You are responsible for all fees and charges incurred to access staugustine.com through an Internet access provider or other third party service. Your subscription will renew automatically, unless we terminate it or you notify us by e-mail of your decision to terminate your subscription. You must cancel your subscription before it renews in order to avoid billing of fees for the renewal term to your credit card. 
 
@@ -111,4 +132,11 @@ staugustine.com may modify, suspend, discontinue or restrict the use of any port
 
 These Terms of Service will be governed by and construed in accordance with the laws of the State of Florida, without regard to its conflicts of law provisions. You hereby agree that any cause of action you may have with respect to staugustine.com must be filed in a federal or state court located in St. Augustine, Florida, within two months of the time in which the events giving rise to such claim began, or you agree to waive such claim. You agree no such claim may be brought as a class action. If for any reason any provision of this Agreement is found unenforceable, that provision shall be enforced to the maximum extent permissible so as to affect the intent of the parties as reflected in that provision, and the remainder of the Agreement shall continue in full force and effect. Any failure of staugustine.com to enforce or exercise any provision of this Agreement or related right shall not constitute a waiver of that right or provision. The section titles used in this Agreement are purely for convenience and carry with them no legal or contractual effect. In the event of termination of this Agreement for any reason, you agree the following provisions will survive: the provisions regarding limitations on your use of Content, the license(s) you have granted to staugustine.com, and all other provisions for which survival is equitable or appropriate. 
 
-In the case of a conflict between these terms and the terms of any electronic or machine readable statement or policy (for example, a P3P electronic privacy policy), these Terms of Service shall control. Similarly, in case of a conflict between these terms and our Privacy Policy stated below, these Terms of Service control. 
+In the case of a conflict between these terms and the terms of any electronic or machine readable statement or policy (for example, a P3P electronic privacy policy), these Terms of Service shall control. Similarly, in case of a conflict between these terms and our Privacy Policy stated below, these Terms of Service control.
+
+* * *
+
+» Get 60% off the news delivered to your home. That's just 24¢ per day. [Click here to subscribe to The St. Augustine Record.](https://secure.staugustine.com/ecart/catalog/New_Subscriber_Special.html)
+
+|  Find More Great Deals **Featured Advertisers**  
+
