@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the habbo.ca privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207115953id_/http%3A//www.habbo.ca/habbo/en/help/safety/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the habbo.ca privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615053112id_/http%3A//www.habbo.ca/footer_pages/privacy_policy.html) for the most accurate reproduction.*
 
-# Habbo Hotel - Help & Safety - Safety - Privacy policy
-
-| 
+# Habbo ~
 
 Here at Habbo Hotel we want everyone to have a good time, and we promise to try to keep your hotel as secure and as private as we can. The hotel is a place for you to hang out in and meet new people. We have a few rules that you do need to accept before you can become a member, and you need to read this Privacy Policy and the rest of our Terms and Conditions all the way through before you can join. Terms not defined here are defined in our Terms and Conditions. The owners of Habbo Hotel, Sulake Canada Inc. (“Habbo Canada” or “we” or “us”), and its parent company and affiliated companies (collectively, “Habbo Affiliates”) are committed to protecting your privacy in accordance with this Privacy Policy. **By clicking the 'accept' button when you register you are agreeing to our collection, use and disclosure of your personal information as described in this Privacy Policy.**
 
@@ -18,67 +16,56 @@ A cookie is a small piece of information sent by web server to a web browser, wh
 **PURPOSES OF COLLECTION**  
 We may collect, use and disclose your personal information for the purposes of:
 
-* Understanding your needs and improving our offering of information, products and services to you, such as special discounts and deals.  
+  * Understanding your needs and improving our offering of information, products and services to you, such as special discounts and deals.  
+
+  * Enabling you to send your Habbo Friends emails and SMS without them knowing your contact details..  
+
+  * Administering your account with us, such as collecting payments and monitoring your credit status, and managing invoicing, accounting and information security services related to our relationship with you.  
+
+  * Managing the provision of goods, services and privileges to you.  
+
+  * Upon your request, to distribute newsletters and other information about the Website, Habbo Canada and Habbo Affiliates, in any format or media, including via third parties.  
+
+  * Informing you about changes or new information that might affect you or your account (e.g. changes to Habbo Canada's procedures, changes to the [Terms and Conditions,](https://web.archive.org/footer_pages/terms_and_conditions.html) etc).  
+
+  * Maintaining information as a reference tool or general resource to help us to understand trends and visitor needs.  
+
+  * Providing you with personalised information about products and services of Habbo Canada, Habbo Affiliates, and third parties with whom we do business.   
+
+  * Detecting and protecting Habbo Canada and Habbo Affiliates and other third parties against error, negligence, breach of contract, theft, fraud and other illegal activity, to comply with Habbo audit requirements, and to audit compliance with Habbo corporate policies, the Terms and Conditions, this Privacy Policy, laws and contractual obligations.  
+
+  * As permitted by, and to comply with, applicable laws and regulations.   
+
+  * Any other purposes to which you consent. 
 
 
-* Enabling you to send your Habbo Friends emails and SMS without them knowing your contact details..  
-
-
-* Administering your account with us, such as collecting payments and monitoring your credit status, and managing invoicing, accounting and information security services related to our relationship with you.  
-
-
-* Managing the provision of goods, services and privileges to you.  
-
-
-* Upon your request, to distribute newsletters and other information about the Website, Habbo Canada and Habbo Affiliates, in any format or media, including via third parties.  
-
-
-* Informing you about changes or new information that might affect you or your account (e.g. changes to Habbo Canada's procedures, changes to the Terms and Conditions, etc).  
-
-
-* Conducting research, surveys, contests and promotions.  
-
-
-* Maintaining information as a reference tool or general resource to help us to understand trends and visitor needs.  
-
-
-* Providing you with personalised information about products and services of Habbo Canada, Habbo Affiliates, and third parties with whom we do business.   
-
-
-* Detecting and protecting Habbo Canada and Habbo Affiliates and other third parties against error, negligence, breach of contract, theft, fraud and other illegal activity, to comply with Habbo audit requirements, and to audit compliance with Habbo corporate policies, the Terms and Conditions, this Privacy Policy, laws and contractual obligations.  
-
-
-* As permitted by, and to comply with, applicable laws and regulations.  
-* Any other purposes to which you consent. 
 
 **DISCLOSURES**  
 We will not disclose, sell, share, or rent your information to others except as set out in this Privacy Policy. Personal information we collect may be shared with Habbo Affiliates, business partners, purchasers of our business, suppliers and service providers we engage, but only for the purposes described in this Privacy Policy or to which you otherwise consent. When we provide personal information to a third party, we use contractual or other means to provide a comparable level of protection and limit their use of such information to the purposes set out in this Privacy Policy. 
 
 In addition to the purposes described above in “Purposes of Collection and Use”, from time to time, Habbo Canada may disclose your personal information to:
 
-* prospective purchasers, investors, professional advisors, and other third parties engaged in a prospective or actual sale, merger, acquisition, financing or other corporate business transaction involving Habbo Canada (or a Habbo Affiliate) or its assets.  
+  * prospective purchasers, investors, professional advisors, and other third parties engaged in a prospective or actual sale, merger, acquisition, financing or other corporate business transaction involving Habbo Canada (or a Habbo Affiliate) or its assets.  
+
+  * service providers retained by Habbo Canada or a Habbo Affiliate to perform functions on its behalf or to provide services to Habbo Canada or a Habbo Affiliate, such as Website hosting, data processing and storage, software development and support, advertising and marketing, research, delivery, payment processing, office services, in each case provided that such service provider does not use or disclose your personal information for purposes other than those described in this Privacy Policy or with your consent.  
+
+  * credit bureaus and credit reporting agencies.  
+
+  * a person who, in the reasonable judgment of Habbo Canada, is providing or seeking information as your agent (such as your parent or guardian).  
+
+  * Habbo Canada’s and Habbo Affiliates’ insurers and professional advisors.
 
 
-* service providers retained by Habbo Canada or a Habbo Affiliate to perform functions on its behalf or to provide services to Habbo Canada or a Habbo Affiliate, such as Website hosting, data processing and storage, software development and support, advertising and marketing, research, delivery, payment processing, office services, in each case provided that such service provider does not use or disclose your personal information for purposes other than those described in this Privacy Policy or with your consent.  
-
-
-* credit bureaus and credit reporting agencies.  
-
-
-* a person who, in the reasonable judgment of Habbo Canada, is providing or seeking information as your agent (such as your parent or guardian).  
-
-
-* Habbo Canada’s and Habbo Affiliates’ insurers and professional advisors.
 
 **CHAT SERVICES AND MESSAGE BOARDS**  
-We make chat facilities and message boards available to you. Please remember that any information you choose to disclose in these areas may become public information. We would encourage you to exercise caution when deciding to disclose information, and be careful what you reveal to people you don't yet know. Please refer to our [Terms and Conditions](https://web.archive.org/habbo/en/help/safety/terms/).
+We make chat facilities and message boards available to you. Please remember that any information you choose to disclose in these areas may become public information. We would encourage you to exercise caution when deciding to disclose information, and be careful what you reveal to people you don't yet know. Please refer to our [Terms and Conditions](https://web.archive.org/footer_pages/terms_and_conditions.html).
 
 **OPTING-OUT – WITHDRAWING YOUR CONSENT**
 
 While there is certain personal information that we require from you in order to provide you with all of the features, products and services of the Website, under most circumstances you may withdraw your consent to our use and disclosure of information for certain purposes. For example, if you do not wish to receive the hotel's newsletter, or information about products and services supplied by Habbo Canada or Habbo Affiliates or third parties, do not check the boxes at the bottom of the registration form. You may change these options anytime by selecting the 'Update your Habbo ID' link on our home page. Alternatively, you may opt-out by emailing us or contacting our Privacy Officer at the contact information at the bottom of this Privacy Policy.
 
 **UPDATE OR CORRECT YOUR INFORMATION**  
-To ensure that the personal information that you provided to us is accurate, complete and up to date as is necessary for the purposes for which it is to be used, we rely on you to provide us with updates and to inform us of any errors by [emailing us](). 
+To ensure that the personal information that you provided to us is accurate, complete and up to date as is necessary for the purposes for which it is to be used, we rely on you to provide us with updates and to inform us of any errors by [emailing us](http://www.habbohotel.ca/iot/go?lang=en&country=ca). 
 
 **SECURITY**  
 We protect your personal information with appropriate security safeguards, including physical, organizational and technological measures designed to protect against loss, theft and unauthorized access, disclosure, copying, use or modification. All personal information you provide us with on the Website, and all personal information contained in your account, is encrypted. This coding lets your browser automatically encrypt or scramble data before you send it to us. Transactions will not be permitted if your browser does not accept the encryption. Only authorised personnel of Habbo Canada and Habbo Affiliates or their partners can decode this information and such personnel will only do so in accordance with our, or their, privacy policy. 
@@ -88,7 +75,7 @@ Please note that unlike your communications with the Website, we have no control
 **CHILDREN**  
 Habbo Hotel is not intended for use by children, especially those under the age of 13. No one under the age of 13 is allowed to provide any personal information or to use our public discussion areas without parental consent.
 
-If your children disclose information about themselves to our Website or in our public discussion areas, they may get unsolicited messages from other parties. Accordingly, it is up to you to ensure they abide by our [Terms and Conditions](https://web.archive.org/habbo/en/help/safety/terms/), caution them not to share personal information, and to monitor their use of the Website. If you're worried about your children's activities or their privacy on our Website, we encourage you to [email us.]()
+If your children disclose information about themselves to our Website or in our public discussion areas, they may get unsolicited messages from other parties. Accordingly, it is up to you to ensure they abide by our [Terms and Conditions](https://web.archive.org/footer_pages/terms_and_conditions.html), caution them not to share personal information, and to monitor their use of the Website. If you're worried about your children's activities or their privacy on our Website, we encourage you to [email us.](http://www.habbo.ca/iot/go?lang=en_CA&country=ca)
 
 **CHANGES TO THIS PRIVACY POLICY**
 
@@ -104,4 +91,11 @@ This Privacy Policy applies to Habbo Canada. Nothing in this Privacy Policy will
 
 **QUESTIONS AND CONCERNS**
 
-We have appointed a Privacy Officer to oversee compliance with this Privacy Policy and applicable privacy laws. If you have any questions or concerns about this Privacy Policy, or our collection, use or disclosure of your personal information, or if you simply want to know whether we have any of your personal information on file, please contact our Privacy Officer at Sulake Canada Inc., 96 Spadina Ave, Suite 403, Toronto, Ontario, Canada, M5V 2J6. Except in limited circumstances as permitted or required by applicable privacy laws and regulations, Habbo Canada will inform you whether we hold personal information about you and give you access to your personal information.
+We have appointed a Privacy Officer to oversee compliance with this Privacy Policy and applicable privacy laws. If you have any questions or concerns about this Privacy Policy, or our collection, use or disclosure of your personal information, or if you simply want to know whether we have any of your personal information on file, please contact our Privacy Officer at:  
+Sulake Canada Inc.  
+P.O. Box 70, Toronto-A   
+119 Spadina Ave  
+Toronto, Ontario  
+Canada M5T 2T2
+
+Except in limited circumstances as permitted or required by applicable privacy laws and regulations, Habbo Canada will inform you whether we hold personal information about you and give you access to your personal information.
