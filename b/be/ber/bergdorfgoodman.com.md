@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bergdorfgoodman.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231140143id_/http%3A//www.bergdorfgoodman.com/category/assistance/service/security.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bergdorfgoodman.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615232808id_/http%3A//www.bergdorfgoodman.com/category/assistance/service/security.jhtml) for the most accurate reproduction.*
 
 # BergdorfGoodman.com
 
@@ -113,9 +113,9 @@ Dallas, TX 75265-0589
 
 
 
-Macintosh users must have Internet Explorer version 5.0 or greater to place an order at NeimanMarcus.com. Earlier versions of Internet Explorer prevent Mac users from viewing secure pages in the checkout process. NeimanMarcus.com cannot remedy this situation without compromising the high level of security we provide for online transactions. 
+Macintosh users must place their online orders using Safari or Firefox. These browsers allow us to offer our customers the highest level of security; other browsers prevent users from viewing secure pages during the checkout process. We apologize for any inconvenience. 
 
-To download the latest version of Internet Explorer at no charge, click here.
+Download a free copy of Firefox by clicking here. For the latest version of Safari, from the Apple menu, choose Software Update. 
 
 When you use this Web site, you are automatically agreeing that both your access to the site and your use of it are: 
 
