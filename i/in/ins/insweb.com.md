@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the insweb.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231134735id_/http%3A//www.insweb.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insweb.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616001454id_/http%3A//insweb.com/privacy.shtml) for the most accurate reproduction.*
 
 # InsWeb: Car Insurance - Auto Insurance - Life Insurance - Health Insurance - Home - Rates and Quotes.
 
-[ ](http://www.truste.org/ivalidate.php?url=www.insweb.com&sealid=101)
+[](https://www.truste.org/ivalidate.php?url=www.insweb.com&sealid=101)
 
 InsWeb Takes Your Privacy Seriously
 
-Last update to policy: October 7, 2005 
+Last update to policy: April 6, 2006 
 
   * What types of information does InsWeb collect?
   * How does InsWeb use my personal information?
@@ -28,8 +28,8 @@ Last update to policy: October 7, 2005
   * Does InsWeb use Web beacons? 
   * Does InsWeb log my movements?
   * Does InsWeb collect information from children under the age of 13?
-  * What are the privacy and information sharing practices of InsWeb Insurance Services and Goldrush Insurance Services?
-  * How do InsWeb Insurance Services and Goldrush Insurance Services protect my personal information?
+  * What are the privacy and information sharing practices of InsWeb Insurance Services?
+  * How does InsWeb Insurance Services protect my personal information?
   * Electronic Signatures
   * Changes to InsWeb's Privacy Statement
 
@@ -37,7 +37,7 @@ Last update to policy: October 7, 2005
 
 We believe you should know the privacy policies of the sites you visit. InsWeb Corporation and its Website InsWeb.com (collectively "InsWeb") are committed to data security, and protect your personally identifiable information (name, address, social security number, etc.). For questions about this privacy statement, you may write to us at InsWeb Corporation, 11290 Pyrites Way, Suite 200, Gold River, CA 95670.
 
-This statement covers the privacy and information sharing practices of the InsWeb Website (located at [www.insweb.com](http://www.insweb.com/)), and InsWeb's subsidiaries (InsWeb Insurance Services and Goldrush Insurance Services).
+This statement covers the privacy and information sharing practices of the InsWeb Website (located at [www.insweb.com](https://www.insweb.com/)), and InsWeb's subsidiary, InsWeb Insurance Services.
 
 InsWeb is a licensee of the TRUSTe Privacy Programs. When you visit a Website displaying the TRUSTe Trustmark, expect to be notified regarding:
 
@@ -51,7 +51,7 @@ InsWeb is a licensee of the TRUSTe Privacy Programs. When you visit a Website di
 
 
 
-If you have questions regarding this statement, you can email our customer care department at [privacy@insweb.com](mailto:privacy@insweb.com). If we have not responded to your inquiry regarding our privacy statement within five business days, or you're not satisfied with the answer you received, you can contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. 
+If you have questions regarding this statement, you can email our customer care department at [privacy@insweb.com](mailto:privacy@insweb.com). If we have not responded to your inquiry regarding our privacy statement within five business days, or you're not satisfied with the answer you received, you can contact TRUSTe at [www.truste.org/consumers/watchdog_complaint.php](https://www.truste.org/consumers/watchdog_complaint.php). 
 
 ### Questions and Answers about InsWeb's Privacy Policy
 
@@ -69,7 +69,7 @@ If you have questions regarding this statement, you can email our customer care 
 
 **Insurance Agents**. Personal information submitted through InsWeb’s 
 
-[AgentInsider](http://www.agentinsider.com/) program will be used by InsWeb to qualify certain insurance agents for InsWeb’s insurance lead bidding program. InsWeb may share a participating Captive Agent’s personal information with the Captive Agent’s parent company as permitted by this Privacy Statement and applicable law.
+[AgentInsider](https://www.agentinsider.com/) program will be used by InsWeb to qualify certain insurance agents for InsWeb’s insurance lead bidding program. InsWeb may share a participating Captive Agent’s personal information with the Captive Agent’s parent company as permitted by this Privacy Statement and applicable law.
 
 **Prospective Business Partners**. Personal information submitted through InsWeb’s online lead referral application will be used only by InsWeb to qualify prospective business affiliates for InsWeb’s lead referral program. 
 
@@ -89,7 +89,7 @@ If you have questions regarding this statement, you can email our customer care 
 
 **_How can I opt-out from having my information shared with third-party companies?_**
 
-    You may tell us not to share information about you with companies outside of InsWeb by calling our toll-free number at (800) 871-5075. Please note that your choice will not affect sharing with 1) insurance providers from whom you have requested to be contacted; 2) companies performing services on our behalf; 3) government entities in response to subpoenas or regulatory requirements; and 4) as otherwise permitted by law.
+    You may tell us not to share information about you with companies outside of InsWeb by calling our toll-free number at (866) 697-9085. Please note that your choice will not affect sharing with 1) insurance providers from whom you have requested to be contacted; 2) companies performing services on our behalf; 3) government entities in response to subpoenas or regulatory requirements; and 4) as otherwise permitted by law.
 
 The information sharing practices described above are in accordance with Federal law. However, some states (CA, VT, ND, MN, MT and NM) have placed additional limits on sharing personal information. In accordance with these specific state laws, InsWeb will not share information collected from residents in these states to third-party companies except: 1) with the consumer’s authorization or consent; 2) to companies performing services on our behalf; or 3) as otherwise permitted by law.
 
@@ -107,7 +107,7 @@ The information sharing practices described above are in accordance with Federal
 
 **_After I request quotes at InsWeb, who will contact me?_**
 
-    Representatives of the companies you choose will contact you with information regarding your quotes, coverage, or insurance needs. For more information, refer to the privacy and information sharing practices of InsWeb Insurance Services and Goldrush Insurance Services below.
+    Representatives of the companies you choose will contact you with information regarding your quotes, coverage, or insurance needs. For more information, refer to the privacy and information sharing practices of InsWeb Insurance Services below.
 
 **_What about information for promotions?_**
 
@@ -115,7 +115,7 @@ The information sharing practices described above are in accordance with Federal
 
 **_Does InsWeb store my information?_**
 
-    Yes. All information submitted through our quote request forms is stored on our secured computer servers. For further information, see InsWeb’s Security Policy athttp://www.insweb.com/internetsecurity.htm.
+    Yes. All information submitted through our quote request forms is stored on our secured computer servers. For further information, see InsWeb’s Security Policy at [www.insweb.com/internetsecurity.htm](https://www.insweb.com/internetsecurity.htm).
 
 **_Does InsWeb allow me to correct the information?_**
 
@@ -127,11 +127,11 @@ The information sharing practices described above are in accordance with Federal
 
   * Following the instructions in the email message you receive, 
   * Sending an email to [customercare@insweb.com](mailto:customercare@insweb.com) or 
-  * Calling 1-800-871-5075. 
+  * Calling 1-866-697-9085. 
 
 
 
-**Advertising.** If you would like to unsubscribe from receiving email advertisements from InsWeb, you can either follow the instructions in the advertisement itself, or simply [click here](http://www.insweb.com/unsubscribe.htm). Please note that it will take up to 10 days to process your request.
+**Advertising.** If you would like to unsubscribe from receiving email advertisements from InsWeb, you can either follow the instructions in the advertisement itself, or simply [click here](https://secure1.insweb.com/unsubscribe.htm). Please note that it will take up to 10 days to process your request.
 
 **_What do sites that have links from InsWeb do with my information?_**
 
@@ -166,17 +166,17 @@ Each time you visit our site, we may detect the type of operating system, Intern
 **_Does InsWeb collect information from children under the age of 13?_**
 
     InsWeb does not knowingly solicit data from children, and we do not knowingly market to children.
- **Questions and Answers about the Privacy Statement of InsWeb Insurance Services and Goldrush Insurance Services.**
+ **Questions and Answers about the Privacy Statement of InsWeb Insurance Services.**
 
-**_What are the privacy and information sharing practices of InsWeb Insurance Services and Goldrush Insurance Services?_**
+**_What are the privacy and information sharing practices of InsWeb Insurance Services?_**
 
-    When you submit your information to receive a quote on the InsWeb Website, your information may be sent to one of our subsidiaries (InsWeb Insurance Services and Goldrush Insurance Services). These companies, which are part of the InsWeb family, are authorized to represent certain insurance carriers you may select on the InsWeb quote form. After receiving your submitted information, a representative from InsWeb Insurance Services or Goldrush Insurance Services (on behalf of the carrier you select) will contact you about your quote. The representative will obtain additional information from you (including, with your permission, any consumer reports needed to process your application). After obtaining the required information, the representative will send your information directly to the carrier you selected for additional underwriting and approval. 
+    When you submit your information to receive a quote on the InsWeb Website, your information may be sent to our subsidiary, InsWeb Insurance Services. This company, which is part of the InsWeb family, is authorized to represent certain insurance carriers you may select on the InsWeb quote form. After receiving your submitted information, a representative from InsWeb Insurance Services (on behalf of the carrier you select) will contact you about your quote. The representative will obtain additional information from you (including, with your permission, any consumer reports needed to process your application). After obtaining the required information, the representative will send your information directly to the carrier you selected for additional underwriting and approval. 
 
-InsWeb Insurance Services and Goldrush Insurance Services shall adhere to the same substantive privacy practices governing the InsWeb Website, and will only disclose your information to the carrier you have selected. In some instances, we will disclose your personal information to a trusted third party service provider only to help fulfill your request of an insurance product. InsWeb Insurance Services and Goldrush Insurance Services may contact you about your policy and/or insurance needs.
+InsWeb Insurance Services shall adhere to the same substantive privacy practices governing the InsWeb Website, and will only disclose your information to the carrier you have selected. In some instances, we will disclose your personal information to a trusted third party service provider only to help fulfill your request of an insurance product. InsWeb Insurance Services may contact you about your policy and/or insurance needs.
 
-**_How do InsWeb Insurance Services and Goldrush Insurance Services protect my personal information?_**
+**_How does InsWeb Insurance Services protect my personal information?_**
 
-    With the use of Secure Sockets Layer (SSL) protocol and state-of-the-art Public Key Infrastructure (PKI) technology, InsWeb Insurance Services and Goldrush Insurance Services ensure that your personal information is safe and secure. For more information, please see our Security Statement.
+    With the use of Secure Sockets Layer (SSL) protocol and state-of-the-art Public Key Infrastructure (PKI) technology, InsWeb Insurance Services ensures that your personal information is safe and secure. For more information, please see our Security Statement.
 
 **_Electronic Signatures_**
 
@@ -184,6 +184,6 @@ InsWeb Insurance Services and Goldrush Insurance Services shall adhere to the sa
 
 **_Changes to Our Privacy Statement_**
 
-    _InsWeb and its subsidiaries (InsWeb Insurance Services and Goldrush Insurance Services) may make significant changes to its privacy statement affecting the use of the personal information collected. We will notify you by email of any relevant changes. However, if you have opted out of all communication with the site, or deleted/deactivated your account, then you will not be contacted, nor will your personal information be used in this new manner. When we notify you, you will be able to opt out of this information usage by sending a message to the following email:[customercare@insweb.com](mailto:customercare@insweb.com). You should also check this posted privacy statement for changes._
+    _InsWeb and its subsidiary, InsWeb Insurance Services, may make significant changes to its privacy statement affecting the use of the personal information collected. We will notify you by email of any relevant changes. However, if you have opted out of all communication with the site, or deleted/deactivated your account, then you will not be contacted, nor will your personal information be used in this new manner. When we notify you, you will be able to opt out of this information usage by sending a message to the following email:[customercare@insweb.com](mailto:customercare@insweb.com). You should also check this posted privacy statement for changes._
   
 
