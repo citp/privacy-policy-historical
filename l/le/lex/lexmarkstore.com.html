@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the lexmarkstore.com privacy policy that was archived on 2005-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051231212942id_/http%3A//www.lexmarkstore.com/service.asp%3Fsection%3D1) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lexmarkstore.com privacy policy that was archived on 2006-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615211012id_/http%3A//www.lexmarkstore.com/service.asp%3Fsection%3D1) for the most accurate reproduction.-->
 
 <html><head>
 <title>The Lexmark Online Store - Customer Service</title>
 
 <!--
 $Workfile: body.asp $
-$Revision: 1.11 $ 
+$Revision: 1.15 $ 
 -->
 <link rel="stylesheet" href="/buyLexmark_assets/css/lexmark.css">
 <!--Task #25744 - 'Lexmarkstore.com organic SEO'-->
@@ -47,18 +47,14 @@ function LinkUpmfg() {
       location.href = url;
    }
 }
-</script></head>
-
-
-<body bgcolor="#E2E2E2" topmargin="10" leftmargin="14" marginwidth="14" marginheight="10">
-
-
-<!--
-$Workfile: header.asp $
-$Revision: 1.32 $ 
--->
-
-<script language="JavaScript">
+</script><style>
+BODY
+{
+	margin:0px; padding:0;
+	font-family: verdana,sans-serif;
+	BACKGROUND-IMAGE: url(/buylexmark_assets/images/bkgd-gradient.gif) ;
+}
+</style><script language="JavaScript">
 function showhide(nav,imageName) { //advanced search	
 	if (document.getElementById(nav).style.display == "none") {		
 		document.getElementById(nav).style.display = "";
@@ -66,723 +62,686 @@ function showhide(nav,imageName) { //advanced search
 		document.getElementById(nav).style.display = "none";
 	}	
 }	
-</script>	
+</script><script language="JavaScript">
+	function checkSearch() {
+		if (document.frmSearch.search_criteria.value == "") {
+			alert("Please enter your cartridge part number.");
+		}
+		else {
+			document.frmSearch.submit();
+		}
+	}
+	
+	function doSearch() {
+		if (document.frmSearch.search_criteria.value == "") {
+			alert("Please enter your cartridge part number.");
+		}
+		else {
+			//Task #31361 - 'Lexmark: HitBox code needs to be added to "enhanced" Cartridge Finder'
+			searchstring = "searchresults.asp?partordesc=" + document.frmSearch.search_criteria.value + escape("**") + "&search=keyword&search_field=description&search_id=" + document.frmSearch.search_id.value + "&cartridgefinder=" + document.frmSearch.cartridgefinder.value;
+			//Task #31361
+			self.location = searchstring;
+		}
+	}
+</script></head>
 
-<table border="0" width="752" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" align="center">
+
+
+
+
+<!--
+$Workfile: header.asp $
+$Revision: 1.60 $ 
+-->
+
+
+	
+
+
+
+
+
+<body><table cellpadding="0" cellspacing="0" width="100%" border="0">
 	<tbody><tr>
-		<td colspan="5" height="10" bgcolor="#E2E2E2"><img src="/buyLexmark_assets/images/space.gif" alt="spacer" width="1" height="10" border="0"></td>
-	</tr>
-	<tr>
-		<td width="1" height="1" bgcolor="#000000"><img src="/buyLexmark_assets/images/space.gif" alt="spacer" width="1" height="1" border="0"></td>
-		<td width="182" bgcolor="#000000"><img src="/buyLexmark_assets/images/space.gif" alt="spacer" width="1" height="1" border="0"></td>
-		<td width="1" bgcolor="#000000"><img src="/buyLexmark_assets/images/space.gif" alt="spacer" width="1" height="1" border="0"></td>
-		<td bgcolor="#000000"><img src="/buyLexmark_assets/images/space.gif" alt="spacer" width="1" height="1" border="0"></td>
-		<td width="1" bgcolor="#000000"><img src="/buyLexmark_assets/images/space.gif" alt="spacer" width="1" height="1" border="0"></td>
-	</tr>
-	<tr>
-		<td bgcolor="#000000"><img src="/buyLexmark_assets/images/space.gif" alt="spacer" width="1" height="1" border="0"></td>
-		<td colspan="3">
-			
-			<table cellpadding="0" cellspacing="0" width="750" border="0">
+		<td>
+
+<table border="0" width="900" cellspacing="0" cellpadding="0">
+
+	
+	<tbody><tr>
+		<td>
+			<table cellpadding="0" cellspacing="0" width="890" border="0">
+				<form action="http://www.lexmarkstore.com/searchresults.asp" method="get"></form>
+				<input type="hidden" name="search" value="keyword">
+				<input type="hidden" name="search_field" value="description">
+				
 				<tbody><tr>
-					<td colspan="9">
-						<table cellpadding="0" cellspacing="0" width="100%" border="0">
+					<td height="50" colspan="3"><img src="/buyLexmark_assets/images/space.gif" alt="spacer" width="890" height="50" border="0"></td>
+				</tr>		
+				<tr>
+					<td colspan="3" height="45">
+						<table cellpadding="0" cellspacing="0" width="890" border="0">
 							<tbody><tr>
-								<td class="link1" style="padding-left:7px;">
-									<b>Contact us &nbsp; 1-800-539-6275 Monday-Friday 6am-6pm PST</b>
+								<td width="14">
+									<img src="/buyLexmark_assets/images/space.gif" alt="spacer" width="14" height="5" border="0"></td>
+								<!--Task #31609 - 'Lexmark: HBX active viewer code on Lxk'-->
+								<td height="35" width="128">
+									<a href="http://www.lexmark.com" name="&amp;lid=Lexmark Logo"><img src="/buyLexmark_assets/images/logo_onBlack.gif" alt="Lexmark" border="0"></a>							
 								</td>
-								<td height="28" align="right">
-									<table cellpadding="0" cellspacing="0" border="0">
-										<tbody><tr>
-											<td style="padding-right:10px;">
+								<!--/ Task #31609 -->
+								<td width="30"><img src="/buyLexmark_assets/images/space.gif" alt="" width="30" height="10" border="0"></td>
+								<td wudth="126"><img src="/buyLexmark_assets/images/country_us.gif" alt="United States" border="0"></td>				
+								<td width="100"><img src="/buyLexmark_assets/images/space.gif" alt="" width="100" height="5" border="0"></td>
+								<td width="84"><img src="/buyLexmark_assets/images/store_search.gif" alt="Store search" border="0"></td>					
+								<td width="15"><img src="/buyLexmark_assets/images/space.gif" alt="" width="15" height="5" border="0"></td>
+								<td>
+								<!--Task #26674 - 'Lexmark HBX code upgrade (Active Viewer)'-->
+									<input type="text" size="23" name="search_criteria" style="font-size:11px;" class="newinput">								
+								<!--/Task #26674-->					
+								</td>
+								<td width="2"><img src="/buyLexmark_assets/images/space.gif" alt="spacer" width="2" height="2" border="0"></td>
+								<td width="30">
+									<a href="" name="&amp;lid=SEARCH"></a>
+									<input type="image" border="0" src="/buyLexmark_assets/images/button_go.gif" alt="Store Search" onclick="_hbLink('SEARCH')"></td>
+								<td width="100"><img src="/buyLexmark_assets/images/space.gif" alt="spacer" width="100" height="2" border="0"></td>
+								<td width="180" align="right" style="padding-right:10px;padding-left:10px">
+									<img src="/buyLexmark_assets/images/contactus.gif" alt="Contact Us" border="0">
+								</td>
+							</tr>
+						</tbody></table>	
+
+					</td>						
+				</tr>
+				
+				<tr>
+					<td height="58">
+						<table cellpadding="0" cellspacing="0" width="780" border="0">
+							<tbody><tr>
+							<!--Task #31228 - 'Lexmark: Change Top Navigation to Match Lexmark Corporate Site'-->
+							<script language="javascript" type="text/javascript">
+
+								normal_image = new Image();
+								normal_image.src = "/buyLexmark_assets/images/storehome_off.gif";
+
+								mouseover_image = new Image();
+								mouseover_image.src = "/buyLexmark_assets/images/storehome_on.gif";
+								
+								normal_image1 = new Image();
+								normal_image1.src = "/buyLexmark_assets/images/cartridgefinder_off.gif";
+
+								mouseover_image1 = new Image();
+								mouseover_image1.src = "/buyLexmark_assets/images/cartridgefinder_on.gif";
+								
+								normal_image2 = new Image();
+								normal_image2.src = "/buyLexmark_assets/images/myaccount_off.gif";
+
+								mouseover_image2 = new Image();
+								mouseover_image2.src = "/buyLexmark_assets/images/myaccount_on.gif";
+								
+								normal_image3 = new Image();
+								normal_image3.src = "/buyLexmark_assets/images/orderstatus_off.gif";
+
+								mouseover_image3 = new Image();
+								mouseover_image3.src = "/buyLexmark_assets/images/orderstatus_on.gif";
+								
+								normal_image4 = new Image();
+								normal_image4.src = "/buyLexmark_assets/images/customerservice_off.gif";
+
+								mouseover_image4 = new Image();
+								mouseover_image4.src = "/buyLexmark_assets/images/customerservice_on.gif";
+
+
+								function swap(){
+									if (document.images){
+									for (var x=0;
+										x<swap.arguments.length;
+										x+=2) {
+											document[swap.arguments[x]].src = eval(swap.arguments[x+1] + ".src");
+										}
+									}
+								}
+							</script>														
+								<!--Task #31609 - 'Lexmark: HBX active viewer code on Lxk'-->													
+								<td>
+									<a href="http://www.lexmarkstore.com/default.asp" title="The Lexmark Store" onmouseover="swap('storehome','mouseover_image')" onmouseout="swap('storehome','normal_image')" name="&amp;lid=Store Home"><img name="storehome" src="/buyLexmark_assets/images/storehome_off.gif" alt="HOME" border="0"></a><a href="http://www.lexmarkstore.com/getmodel.asp" title="Cartridge Finder" onmouseover="swap('cartridge','mouseover_image1')" onmouseout="swap('cartridge','normal_image1')" name="&amp;lid=Cartridge Finder"><img name="cartridge" src="/buyLexmark_assets/images/cartridgefinder_off.gif" alt="CARTRIDGE FINDER" border="0"></a><a href="https://www.lexmarkstore.com/editaccountlogin.asp" title="My Account" onmouseover="swap('myaccount','mouseover_image2')" onmouseout="swap('myaccount','normal_image2')" name="&amp;lid=myaccount"><img name="myaccount" src="/buyLexmark_assets/images/myaccount_off.gif" alt="MY ACCOUNT" border="0"></a><a href="https://www.lexmarkstore.com/tracking.asp" title="Order Status" onmouseover="swap('orderstatus','mouseover_image3')" onmouseout="swap('orderstatus','normal_image3')" name="&amp;lid=orderstatus"><img name="orderstatus" src="/buyLexmark_assets/images/orderstatus_off.gif" alt="ORDER STATUS" border="0"></a><a href="http://www.lexmarkstore.com/service.asp" title="Customer Service" onmouseover="swap('customerservice','mouseover_image4')" onmouseout="swap('customerservice','normal_image4')" name="&amp;lid=Customer Service"><img name="customerservice" src="/buyLexmark_assets/images/customerservice_off.gif" alt="CUSTOMER SERVICE" border="0"></a></td>								
+								
+							<!--/Task #31609-->
+								<!--/Task #31228-->
+							</tr>
+						</tbody></table>
+					</td>			
+					<td width="170" align="center">
+						
 <script>
 <!--
 function submititCart() { document.frmMiniCart.submit(); }		
 -->
 </script>
-<table border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr><form name="frmMiniCart" action="https://www.lexmarkstore.com/checkoutnew.asp" method="post"></form>
-		<input type="hidden" name="section" value="BASKET">
-		<td class="minicart" height="28" style="padding-right:15px;">&nbsp;&nbsp;Items in your cart: 0 | Total: $0.00</td>
-		<td><a href="javascript:submititCart();"><u>Checkout</u></a> <img src="/buyLexmark_assets/images/arrow_rt_red_white.gif" alt=""></td>
+
+<table cellpadding="0" cellspacing="0" width="170" border="0" height="40">
+		<tbody><tr>
+		<!--Task #23125 - 'Netgear Mini Cart Not Formatted Properly When Cart Value Exceeds $10K'-->
+			<td colspan="5" height="1" background="/buyLexmark_assets/images/minicart_top1.gif" nowrap=""></td>
+		</tr>
+		<tr>
+			<td width="1" rowspan="2" background="/buyLexmark_assets/images/minicart_left.gif"><img src="/buyLexmark_assets/images/space.gif" border="0" alt=""></td>
+			<td class="minicart" width="7"><img src="/buyLexmark_assets/images/space.gif" width="7" height="17" border="0" alt=""></td>
+			<td class="minicart" colspan="2" valign="middle"><a href="http://www.lexmarkstore.com/basket.asp"><img src="/buyLexmark_assets/images/minicart.gif" border="0" alt="">Shopping Cart</a></td>
+			<td width="1" background="/buyLexmark_assets/images/minicart_right.gif" nowrap=""><img src="/buyLexmark_assets/images/minicart_right.gif" border="0" alt=""></td>
+		</tr>	
+		<tr>
+			<td colspan="4" height="1" background="/buyLexmark_assets/images/minicart_center1.gif" nowrap=""></td>
+		</tr>	
+		<tr>
+			<td background="/buyLexmark_assets/images/minicart_left.gif"><img src="/buyLexmark_assets/images/space.gif" border="0" alt=""></td>
+			<td class="minicart"><img src="/buyLexmark_assets/images/space.gif" width="7" height="25" border="0" alt=""></td>
+			<td class="minicart" width="62">0&nbsp;Items:</td>
+			<td class="minicart" width="62" nowrap="">$0.00</td>
+			<td width="1" background="/buyLexmark_assets/images/minicart_right.gif"><img src="/buyLexmark_assets/images/minicart_right.gif" border="0" alt=""></td>
+		</tr>	
+		<tr>
+			<td colspan="5" height="1" background="/buyLexmark_assets/images/minicart_bottom1.gif"></td>
+		</tr>	
+		<!--/Task #23125-->
+	</tbody></table>	
 	
-	</tr>
-</tbody></table>	
-	</td>
-										</tr>
-									</tbody></table>
-								</td>
-							</tr>
-						</tbody></table>									
 					</td>
-				</tr>
-				<tr>
-					<td height="1" bgcolor="#9A9A9A" colspan="9"><img src="/buyLexmark_assets/images/space.gif" alt="spacer" width="750" height="1" border="0"></td>
-				</tr>
-				<tr bgcolor="#E2E2E2">
-					<td width="25%" height="22" align="center" class="topMenu"><a href="http://www.lexmarkstore.com/default.asp" class="topNav">Store Home</a></td>
-					<td width="1" background="/buylexmark_assets/images/dots_vert.gif"><img src="/buyLexmark_assets/images/space.gif" alt="spacer" width="1" height="22" border="0"></td>
-					<td width="25%" height="22" align="center" class="topMenu"><a href="getmodel.asp" class="topNav">Cartridge Finder</a></td>
-					<td width="1" background="/buylexmark_assets/images/dots_vert.gif"><img src="/buyLexmark_assets/images/space.gif" alt="spacer" width="1" height="22" border="0"></td>
-					<td width="25%" height="22" align="center" class="topMenu"><a href="http://www.lexmark.com/uncomplicate/sequentialem/home/0,7070,204816596_237452712_0_en,00.html" class="topNav">Home Printing</a></td>
-					<td width="1" background="/buylexmark_assets/images/dots_vert.gif"><img src="/buyLexmark_assets/images/space.gif" alt="spacer" width="1" height="22" border="0"></td>
-					<td width="25%" height="22" align="center" class="topMenu"><a href="http://www.lexmark.com/uncomplicate/sequentialem/home/0,7070,204816596_326421382_0_en,00.html" class="topNav">Office Printing</a></td>
-				</tr>
-				<tr>
-					<td colspan="9" height="35" bgcolor="#000000"><a href="http://www.lexmark.com"><img src="/buyLexmark_assets/images/logo_onBlack.gif" alt="Lexmark" border="0"></a></td>
-				</tr>
-				<tr>
-					<td background="/buylexmark_assets/images/topNav_bg.gif" colspan="9" height="36">
-						<table cellpadding="0" cellspacing="0" width="750" border="0">
-							<tbody><tr>
-								<td width="25%" class="mainMenu"><a href="https://www.lexmarkstore.com/editaccountlogin.asp" class="mainNav" title="My Account" name="&amp;lid=My+Account">My Account</a></td>
-								<td width="1" background="/buylexmark_assets/images/dots_vert.gif"><img src="/buyLexmark_assets/images/space.gif" alt="spacer" width="1" height="27" border="0"></td>
-								<td width="25%" class="mainMenu"><a href="https://www.lexmarkstore.com/tracking.asp" class="mainNav" title="Order Status" name="&amp;lid=Order+Staus">Order Status</a></td>
-								<td width="1" background="/buylexmark_assets/images/dots_vert.gif"><img src="/buyLexmark_assets/images/space.gif" alt="spacer" width="1" height="27" border="0"></td>
-								<td width="25%" class="mainMenu"><a href="http://www.lexmarkstore.com/service.asp" class="mainNav" title="Order Status" name="&amp;lid=Order+Staus">Customer Service</a></td>
-								<td width="1" background="/buylexmark_assets/images/dots_vert.gif"><img src="/buyLexmark_assets/images/space.gif" alt="spacer" width="1" height="27" border="0"></td>
-								<td width="25%" class="mainMenu"><a href="http://www.lexmarkstore.com/basket.asp" class="mainNav" title="Order Status" name="&amp;lid=Order+Staus">Shopping Cart</a></td>
-							</tr>
-						</tbody></table>
-					</td>
-				</tr>
+				</tr>				
 			</tbody></table>	
-				
 		</td>
-		<td bgcolor="#000000"><img src="/buyLexmark_assets/images/space.gif" alt="spacer" width="1" height="1" border="0"></td>
+	</tr>
+</tbody></table>
+
+<table border="0" width="890" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+	<tbody><tr>
+		<td colspan="8" bgcolor="#000000">
+			<img src="/buyLexmark_assets/images/mainbody_top.gif" border="0"></td>
 	</tr>
 	<tr>
-		<td width="1" bgcolor="#000000"></td>
-		<td valign="top" bgcolor="E2E2E2">
-			
-			<table cellpadding="0" cellspacing="0" width="182" border="0">
+		<td class="left_body" width="1" valign="top"><img src="/buyLexmark_assets/images/left_leftNav.gif" border="0"></td>
+		<td class="leftinside_body" width="1" valign="top"><img src="/buyLexmark_assets/images/leftinside_leftNav.gif" border="0"></td>
+		<td width="194" valign="top" bgcolor="#646464">
+			<table cellpadding="0" cellspacing="0" width="194" border="0" class="leftNav_body">
 				<tbody><tr>
-					<td width="10" height="33" bgcolor="#DDDBD1" rowspan="2"><img src="/buyLexmark_assets/images/space.gif" alt="spacer" width="10" height="33" border="0"></td>
-					<td colspan="2" bgcolor="#DDDBD1" valign="top" style="padding-top:12px" class="SmallContent"><b>Search Lexmark Store</b></td>
-				</tr>
-				<form action="http://www.lexmarkstore.com/searchresults.asp" method="get"></form>
-					<input type="hidden" name="search" value="keyword">
-					<input type="hidden" name="search_field" value="description">
-					<input type="hidden" name="promo" value="0">
-				<tr>
-					<td bgcolor="#DDDBD1" width="122"><input type="text" size="18" name="search_criteria" style="font-size:11px;"></td>
-					<td bgcolor="#DDDBD1"><img src="/buyLexmark_assets/images/space.gif" alt="spacer" width="10" height="5" border="0"><br>
-						<!--Task #26674 - 'Lexmark HBX code upgrade (Active Viewer)'-->
-						<a href="" name="&amp;lid=SEARCH"></a>
-						<input type="image" border="0" src="/buyLexmark_assets/images/b_search.gif" alt="search" onclick="_hbLink('SEARCH')"></td>
-						<!--/Task #26674-->	
-				</tr>
-				
-				<tr>
-					<td colspan="3" height="1" bgcolor="#FFFFFF"><img src="/buyLexmark_assets/images/space.gif" alt="spacer" width="182" height="1" border="0"></td>
-				</tr>
-
-				<form name="formpartno" action="http://www.lexmarkstore.com/searchresults.asp"></form>
-				<tr>
-					<td width="10" height="33" bgcolor="#DDDBD1"><img src="/buyLexmark_assets/images/space.gif" alt="spacer" width="10" height="33" border="0"></td>
-					<td bgcolor="#DDDBD1" colspan="2">
-						<select name="myurl" onchange="LinkUpmfg()" style="width:150px;">
-							<option selected="" value="">Select Printer</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=4019001">IBM 4019, 4029, 4028 Laser Printers </option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=1321440">IBM 4029</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=403900R">Lexmark 4039</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=403900D">Lexmark 4039 Plus</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=10S0100">Lexmark E210</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=22S0200             ">Lexmark E232</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=22S0270             ">Lexmark E232t</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=28S0200             ">Lexmark E240</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=28S0400             ">Lexmark E240n</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=28S0270             ">Lexmark E240t</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=08A0150">Lexmark E320</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=21S0150             ">Lexmark E321</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=08A0200">Lexmark E322</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=08A0300">Lexmark E322n</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=21S0200             ">Lexmark E323</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=21S0300             ">Lexmark E323n</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=22S0500             ">Lexmark E330</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=22S0600             ">Lexmark E332n</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=22S0700             ">Lexmark E332tn</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=28S0500             ">Lexmark E340</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=28S0600             ">Lexmark E342n</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=11A7530">Lexmark Optra E, Ep, Es, E+</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=12A2100">Lexmark Optra E310</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=13T0000">Lexmark Optra E312</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=13E0000">Lexmark Optra E312L</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=11A4006">Lexmark Optra K 1220</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=4K00252">Lexmark Optra M410</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=4K00300">Lexmark Optra M410n</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=17G0000">Lexmark Optra M412</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=17G0090">Lexmark Optra M412n</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=11A9000">Lexmark Optra N 240, 245</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=11A9109">Lexmark Optra N 245</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=43J1000">Lexmark Optra S 1250</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=43J1200">Lexmark Optra S 1255</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=43J2200">Lexmark Optra S 1620</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=43J2600">Lexmark Optra S 1625</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=43J2000">Lexmark Optra S 1650</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=43J2400">Lexmark Optra S 1855</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=43J3200">Lexmark Optra S 2420</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=43J3000">Lexmark Optra S 2450</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=43J3400">Lexmark Optra S 2455</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=43J0000">Lexmark Optra Se 3455</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=20T1000">Lexmark Optra T610</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=20T1040">Lexmark Optra T610n</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=20T2000">Lexmark Optra T612</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=20T3200">Lexmark Optra T614</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=20T3280">Lexmark Optra T614n</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=20T3240">Lexmark Optra T614nl</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=20T4000">Lexmark Optra T616</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=20T4040">Lexmark Optra T616n</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=12L0102">Lexmark Optra W810</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=12L0105">Lexmark Optra W810dn</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=12L0103">Lexmark Optra W810n</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=16H0150             ">Lexmark T420d</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=26H0400             ">Lexmark T430</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=26H0100             ">Lexmark T430d</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=26H0200             ">Lexmark T430dn</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=09H0000">Lexmark T520</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=09H0200">Lexmark T522</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=20T3600">Lexmark T620</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=20T4400">Lexmark T622</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=10G0100             ">Lexmark T630</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=10G1200             ">Lexmark T630dn</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=10G1430             ">Lexmark T632dtn</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=10G0400             ">Lexmark T632n</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=10G1630             ">Lexmark T634dtn</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=20G0100             ">Lexmark T640</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=20G0130-KIT         ">Lexmark T640dn</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=20G0150             ">Lexmark T640n</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=20G0400-KIT         ">Lexmark T640tn</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=20G0200             ">Lexmark T642</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=20G0530-KIT         ">Lexmark T642dtn</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=20G0250             ">Lexmark T642n</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=20G0430-KIT         ">Lexmark T642tn</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=20G0300             ">Lexmark T644</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=20G0560-KIT         ">Lexmark T644dtn</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=20G0350             ">Lexmark T644n</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=20G0460-KIT         ">Lexmark T644tn</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=14K0100             ">Lexmark W812</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=14K0200             ">Lexmark W812dtn</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=14K0101             ">Lexmark W812tn</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=12B0101             ">Lexmark W820n</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=25A0075             ">Lexmark W840</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=25A0076             ">Lexmark W840dn</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=25A0001             ">Lexmark W840n</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=20K1100             ">Lexmark C510</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=20K1300             ">Lexmark C510dtn</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=20K1200             ">Lexmark C510n</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=22H0050             ">Lexmark C522n</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=22B0150             ">Lexmark C524dn</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=22B0200             ">Lexmark C524dtn</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=22B0050             ">Lexmark C524n</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=13P0000">Lexmark C750</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=13P0250">Lexmark C750dn</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=13P0150">Lexmark C750dtn</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=13P0200">Lexmark C750fn</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=13P0100">Lexmark C750in</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=13P0050">Lexmark C750n</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=17J0000             ">Lexmark C752</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=17S0000             ">Lexmark C760</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=17S0150             ">Lexmark C760dn</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=17S0200             ">Lexmark C760dtn</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=17S0050             ">Lexmark C760n</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=23B0000             ">Lexmark C762</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=23B0150             ">Lexmark C762dn</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=23B0200             ">Lexmark C762dtn</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=23B0050             ">Lexmark C762n</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=12N0003">Lexmark C910</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=12N0006">Lexmark C910dn</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=12N0007">Lexmark C910fn</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=12N0004">Lexmark C910n</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=12N1200">Lexmark C912</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=12N1400">Lexmark C912dn</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=12N1300">Lexmark C912n</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=13N1000             ">Lexmark C920</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=13N1200             ">Lexmark C920dn</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=13N1300             ">Lexmark C920dtn</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=13N1100             ">Lexmark C920n</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=10E0100">Lexmark Optra C710</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=10E0101">Lexmark Optra C710n</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=11F0000">Lexmark Optra Color 1200</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=11F0001">Lexmark Optra Color 1200n</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=11C0200">Lexmark Optra SC 1275</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=11C0201">Lexmark Optra SC 1275n</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=22D0000             ">Lexmark P4350</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=21B0000             ">Lexmark P6250</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=17M0000">Lexmark X1150 PrintTrio</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=21T0000             ">Lexmark X2250</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=19M0000             ">Lexmark X2350</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=23A0000             ">Lexmark X3350</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=21C0000             ">Lexmark X4250</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=21C2000             ">Lexmark X4270</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=17K0000">Lexmark X5150</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=21D5700             ">Lexmark X5270</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=15K0360             ">Lexmark X6150</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=13H0000">Lexmark X63</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=21H0000             ">Lexmark X7170</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=10J0285">Lexmark X73</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=10K0000">Lexmark X83</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=10K0500">Lexmark X85</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=13N0000">Lexmark Z82</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=21M0000             ">X8350 ALL IN ONE PLUS PHOTO                                       </option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=11A3020">Forms Printers 2380, 2381, 2390, 2391</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=11A6000">Forms Printers 4227</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=12T0050             ">Lexmark Forms Printer 2480</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=12T0100             ">Lexmark Forms Printer 2481</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=12T0350             ">Lexmark Forms Printer 2490</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=12T0400             ">Lexmark Forms Printer 2491</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=13L0001             ">Lexmark Forms Printer 4227 plus</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=1373120">4079 Color Jetprinter</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=4077001">ExecJet IIc, Winwriter 150c, Medley</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=11B5200">Lexmark 2030, 2050, 2055, 3000</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=70G0500">Lexmark 2070 Color Jetprinter</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=17D0000">Lexmark 3200, 5000, 5700, 5770, 7000, 7200</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=44J0000">Lexmark J110</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=43J6000">Lexmark Optra Color 40</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=43J8000             ">Lexmark Optra Color 45</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=20C0000             ">Lexmark P315</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=23C0000             ">Lexmark P450 Photo Printer with CD Burner</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=21B0800             ">Lexmark P915</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=70D0000">Lexmark Z11 and Z31</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=17E0285">Lexmark Z12</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=16E0000">Lexmark Z13</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=17F0070">Lexmark Z22</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=14D0070">Lexmark Z23</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=17F0285">Lexmark Z32</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=14D0000">Lexmark Z33</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=15J0000             ">Lexmark Z35</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=11P0000">Lexmark Z42</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=11P0800">Lexmark Z43</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=18H0000">Lexmark Z45</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=18H0770">Lexmark Z45se</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=14R0062">Lexmark Z51</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=14V0000">Lexmark Z52</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=14V0800">Lexmark Z53</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=16M0000">Lexmark Z55</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=16M0490">Lexmark Z55se</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=18K0000             ">Lexmark Z605</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=13D0000">Lexmark Z65</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=13D0360">Lexmark Z65n</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=19D0800">Lexmark Z65p</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=15L7500             ">Lexmark Z715</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=20M0000             ">Lexmark Z735</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=14B5430">Lexmark OptraImage W810s</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=18S0100             ">Lexmark X215 MFP</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=16L0000             ">Lexmark X422 MFP</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=16C0000">Lexmark X520 MFP</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=16C0030">Lexmark X522 MFP</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=16C0201">Lexmark X620e MFP</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=20R0120             ">Lexmark X632 MFP</option>
-							
-							<option value="searchresults.asp?partnosearch=keyword&amp;search_field=mfg_partno&amp;search_criteria=16C0060">Lexmark X720 Color MFP</option>
-							
-						</select>
-					</td>
-				</tr>
-				
-				<!--<tr>
-					<td colspan="3" height="1" bgcolor="#FFFFFF"><img src="/buyLexmark_assets/images/space.gif" alt="spacer" width="182" height="1" border="0"></td>
+					<td height="45" class="leftNav_title">Lexmark Online Store</td>
 				</tr>
 				<tr>
-					<td bgcolor="#DDDBD1" colspan="3" align="center" style="padding-bottom:6px;">
-						
-					</td>
-				</tr>-->
-				<tr>
-					<td colspan="3" height="1" bgcolor="#FFFFFF"><img src="/buyLexmark_assets/images/space.gif" alt="spacer" width="182" height="1" border="0"></td>
+					<td><img src="/buyLexmark_assets/images/space.gif" alt="spacer" width="182" height="2" border="0"></td>
 				</tr>
 			
-				<tr>
+				<tr>				
 					<td colspan="3" class="leftNav"><div class="menu"><a href="javascript:showhide('deptnavPR')" class="leftNav">Printers</a></div></td>
-				</tr>				
+				</tr>
 				<tr>
 					<td colspan="3">
 						<div id="deptnavPR" name="deptnavPR" style="display:none;">									
 						<table cellpadding="0" cellspacing="0" border="0" width="100%">
+							<!--Task #30881 - 'Lexmark: Change Default Search display order'-->
 							<tbody><tr>
-								<td colspan="2" height="1" bgcolor="#000000"><img src="/buyLexmark_assets/images/space.gif" alt="spacer" width="182" height="1" border="0"></td>
+								<td width="10" height="19"><img src="/buyLexmark_assets/images/space.gif" width="10" height="16" border="0"></td>
+								<td><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=17&amp;rank_on=price&amp;rank_dir=asc" class="link1">Color Inkjet</a></td>	
 							</tr>
 							<tr>
-								<td width="1" height="19" bgcolor="#FFFFFF"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
-								<td bgcolor="#FFFFFF"><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=17" class="link1">Color Inkjet</a></td>	
+								<td width="10" height="19"><img src="/buyLexmark_assets/images/space.gif" width="10" height="16" border="0"></td>
+								<td><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=12&amp;rank_on=price&amp;rank_dir=asc" class="link1">All-in-One</a></td>	
 							</tr>
 							<tr>
-								<td width="1" height="19" bgcolor="#FFFFFF"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
-								<td bgcolor="#FFFFFF"><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=12" class="link1">All-in-One</a></td>	
+								<td width="1" height="19"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
+								<td><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=1&amp;rank_on=price&amp;rank_dir=asc" class="link1">Mono Laser</a></td>	
 							</tr>
 							<tr>
-								<td width="1" height="19" bgcolor="#FFFFFF"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
-								<td bgcolor="#FFFFFF"><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=1" class="link1">Mono Laser</a></td>	
+								<td width="1" height="19"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
+								<td><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=9&amp;rank_on=price&amp;rank_dir=asc" class="link1">Color Laser</a></td>	
 							</tr>
 							<tr>
-								<td width="1" height="19" bgcolor="#FFFFFF"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
-								<td bgcolor="#FFFFFF"><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=9" class="link1">Color Laser</a></td>	
+								<td width="1" height="19"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
+								<td><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=20&amp;rank_on=price&amp;rank_dir=asc" class="link1">Multifunction</a></td>	
 							</tr>
 							<tr>
-								<td width="1" height="19" bgcolor="#FFFFFF"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
-								<td bgcolor="#FFFFFF"><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=20" class="link1">Multifunction</a></td>	
+								<td width="1" height="19"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
+								<td><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=15&amp;rank_on=price&amp;rank_dir=asc" class="link1">Dot Matrix</a></td>	
 							</tr>
-							<tr>
-								<td width="1" height="19" bgcolor="#FFFFFF"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
-								<td bgcolor="#FFFFFF"><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=15" class="link1">Dot Matrix</a></td>	
-							</tr>
-							<tr>
-								<td colspan="2" height="1" bgcolor="#000000"><img src="/buyLexmark_assets/images/space.gif" alt="spacer" width="182" height="1" border="0"></td>
-							</tr>
+							<!--/Task #30881 -->
 						</tbody></table>
 						</div>										
 					</td>		
-				</tr>					
+				</tr>
 				<tr>
-					<td height="1" colspan="3" bgcolor="#FFFFFF"><img src="/buyLexmark_assets/images/space.gif" width="182" height="1" border="0"></td>
+					<td height="1" colspan="3" align="center"><img src="/buylexmark_assets/images/leftNav_divider.gif" border="0"></td>
 				</tr>	
-				<tr>
+				<tr>					
 					<td colspan="3" class="leftNav"><div class="menu"><a href="javascript:showhide('deptnavSU')" class="leftNav">Supplies</a></div></td>
 				</tr>
 				<tr>
 					<td colspan="3">
 						<div id="deptnavSU" name="deptnavSU" style="display:none;">									
 						<table cellpadding="0" cellspacing="0" border="0" width="100%">
+							<!--Task #30881 - 'Lexmark: Change Default Search display order'-->
 							<tbody><tr>
-								<td colspan="2" height="1" bgcolor="#000000"><img src="/buyLexmark_assets/images/space.gif" alt="spacer" width="182" height="1" border="0"></td>
+								<td width="10" height="19"><img src="/buyLexmark_assets/images/space.gif" width="10" height="16" border="0"></td>
+								<td><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=13&amp;rank_on=price&amp;rank_dir=asc" class="link1">Inkjet Ink/Print Cartridge</a></td>	
 							</tr>
 							<tr>
-								<td width="1" height="19" bgcolor="#FFFFFF"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
-								<td bgcolor="#FFFFFF"><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=13" class="link1">Inkjet Ink/Print Cartridge</a></td>	
+								<td height="19"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
+								<td><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=3&amp;rank_on=price&amp;rank_dir=asc" class="link1">Laser Toner/Print Cartridge</a></td>	
 							</tr>
 							<tr>
-								<td width="1" height="19" bgcolor="#FFFFFF"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
-								<td bgcolor="#FFFFFF"><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=3" class="link1">Laser Toner/Print Cartridge</a></td>	
+								<td height="19"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
+								<td><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=19&amp;rank_on=price&amp;rank_dir=asc" class="link1">Lexmark Linea Print Cartridges</a></td>	
 							</tr>
 							<tr>
-								<td width="1" height="19" bgcolor="#FFFFFF"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
-								<td bgcolor="#FFFFFF"><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=19" class="link1">Lexmark Linea Print Cartridges</a></td>	
+								<td height="19"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
+								<td><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=5&amp;rank_on=price&amp;rank_dir=asc" class="link1">IBM Supplies</a></td>	
 							</tr>
 							<tr>
-								<td width="1" height="19" bgcolor="#FFFFFF"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
-								<td bgcolor="#FFFFFF"><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=5" class="link1">IBM Supplies</a></td>	
+								<td height="19"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
+								<td><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=2&amp;rank_on=price&amp;rank_dir=asc" class="link1">Paper Handling</a></td>	
 							</tr>
 							<tr>
-								<td width="1" height="19" bgcolor="#FFFFFF"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
-								<td bgcolor="#FFFFFF"><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=2" class="link1">Paper Handling</a></td>	
+								<td height="19"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
+								<td><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=6&amp;rank_on=price&amp;rank_dir=asc" class="link1">Paper &amp; Transparencies</a></td>	
 							</tr>
 							<tr>
-								<td width="1" height="19" bgcolor="#FFFFFF"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
-								<td bgcolor="#FFFFFF"><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=6" class="link1">Paper &amp; Transparencies</a></td>	
+								<td width="1" height="19"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
+								<td><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=4&amp;rank_on=price&amp;rank_dir=asc" class="link1">Connectivity</a></td>	
 							</tr>
 							<tr>
-								<td width="1" height="19" bgcolor="#FFFFFF"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
-								<td bgcolor="#FFFFFF"><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=4" class="link1">Connectivity</a></td>	
+								<td height="19"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
+								<td><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=16&amp;rank_on=price&amp;rank_dir=asc" class="link1">Ribbons</a></td>	
 							</tr>
 							<tr>
-								<td width="1" height="19" bgcolor="#FFFFFF"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
-								<td bgcolor="#FFFFFF"><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=16" class="link1">Ribbons</a></td>	
+								<td height="19"><img src="/buyLexmark_assets/images/space.gif" width="10" height="16" border="0"></td>
+								<td><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=14&amp;rank_on=price&amp;rank_dir=asc" class="link1">Typewriter Supplies</a></td>	
 							</tr>
-							<tr>
-								<td width="1" height="19" bgcolor="#FFFFFF"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
-								<td bgcolor="#FFFFFF"><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=14" class="link1">Typewriter Supplies</a></td>	
-							</tr>
-							<tr>
-								<td colspan="2" height="1" bgcolor="#000000"><img src="/buyLexmark_assets/images/space.gif" alt="spacer" width="182" height="1" border="0"></td>
-							</tr>
+							<!--/Task #30881 -->						
 						</tbody></table>
 						</div>										
 					</td>		
-				</tr>					
-				<tr>
-					<td height="1" colspan="3" bgcolor="#FFFFFF"><img src="/buyLexmark_assets/images/space.gif" width="182" height="1" border="0"></td>
 				</tr>
 				<tr>
+					<td height="1" colspan="3" align="center"><img src="/buylexmark_assets/images/leftNav_divider.gif" border="0"></td>
+				</tr>
+				<tr>					
 					<td colspan="3" class="leftNav"><div class="menu"><a href="javascript:showhide('deptnavOP')" class="leftNav">Accessories</a></div></td>
 				</tr>
 				<tr>
 					<td colspan="3">
 						<div id="deptnavOP" name="deptnavOP" style="display:none;">									
-						<table cellpadding="0" cellspacing="0" border="0" width="100%">
+						<table cellpadding="0" cellspacing="0" border="0" width="100%" id="Table9">
+							<!--Task #30881 - 'Lexmark: Change Default Search display order'-->
 							<tbody><tr>
-								<td colspan="2" height="1" bgcolor="#000000"><img src="/buyLexmark_assets/images/space.gif" alt="spacer" width="182" height="1" border="0"></td>
+								<td width="10" height="19"><img src="/buyLexmark_assets/images/space.gif" width="10" height="16" border="0"></td>
+								<td><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=7&amp;rank_on=price&amp;rank_dir=asc" class="link1">Hard disk</a></td>	
 							</tr>
 							<tr>
-								<td width="1" height="19" bgcolor="#FFFFFF"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
-								<td bgcolor="#FFFFFF"><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=7" class="link1">Hard disk</a></td>	
+								<td height="19"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
+								<td><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=10&amp;rank_on=price&amp;rank_dir=asc" class="link1">Application Cards / SIMMs</a></td>	
 							</tr>
 							<tr>
-								<td width="1" height="19" bgcolor="#FFFFFF"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
-								<td bgcolor="#FFFFFF"><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=10" class="link1">Application Cards / SIMMs</a></td>	
+								<td height="19"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
+								<td><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=11&amp;rank_on=price&amp;rank_dir=asc" class="link1">Flash, SDRAM Memory</a></td>	
 							</tr>
 							<tr>
-								<td width="1" height="19" bgcolor="#FFFFFF"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
-								<td bgcolor="#FFFFFF"><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=11" class="link1">Flash, SDRAM Memory</a></td>	
+								<td height="19"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
+								<td><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=18&amp;rank_on=price&amp;rank_dir=asc" class="link1">Software</a></td>	
 							</tr>
 							<tr>
-								<td width="1" height="19" bgcolor="#FFFFFF"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
-								<td bgcolor="#FFFFFF"><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=18" class="link1">Software</a></td>	
+								<td height="19"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
+								<td><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=8&amp;rank_on=price&amp;rank_dir=asc" class="link1">Furniture</a></td>	
 							</tr>
 							<tr>
-								<td width="1" height="19" bgcolor="#FFFFFF"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
-								<td bgcolor="#FFFFFF"><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=8" class="link1">Furniture</a></td>	
+								<td height="19"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
+								<td><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=21&amp;rank_on=price&amp;rank_dir=asc" class="link1">User Replaceable Parts</a></td>	
 							</tr>
 							<tr>
-								<td width="1" height="19" bgcolor="#FFFFFF"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
-								<td bgcolor="#FFFFFF"><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=21" class="link1">User Replaceable Parts</a></td>	
+								<td height="19"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
+								<td><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=24&amp;rank_on=price&amp;rank_dir=asc" class="link1">MFP Options</a></td>	
 							</tr>
-							<tr>
-								<td width="1" height="19" bgcolor="#FFFFFF"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
-								<td bgcolor="#FFFFFF"><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=24" class="link1">MFP Options</a></td>	
-							</tr>
-							<tr>
-								<td colspan="2" height="1" bgcolor="#000000"><img src="/buyLexmark_assets/images/space.gif" alt="spacer" width="182" height="1" border="0"></td>
-							</tr>
+							<!--/Task #30881 -->
 						</tbody></table>
 						</div>										
 					</td>		
-				</tr>					
+				</tr>
 				<tr>
-					<td height="1" colspan="3" bgcolor="#FFFFFF"><img src="/buyLexmark_assets/images/space.gif" width="182" height="1" border="0"></td>
-				</tr>	
-
-							<tr>
-								<td colspan="3" class="leftNav"><div class="menu"><a href="warranty.asp" class="leftNav">Warranties &amp; Services</a></div></td>
-							</tr>
-							<tr>
-								<td height="1" colspan="3" bgcolor="#FFFFFF"><img src="/buyLexmark_assets/images/space.gif" width="182" height="1" border="0"></td>
-							</tr>	
-							<tr>
-								<td colspan="3" class="leftNav"><div class="menu"><a href="http://www.lexmark.com/uncomplicate/sequentialem/home/0,7070,204816596_238255842_0_en,00.html" class="leftNav">Rebates</a></div></td>
-							</tr>
-	<!--							<tr>
-								<td colspan="3"><img src="/buyLexmark_assets/images/rpp_banner.gif" alt="Repeat Purchase Program" border="0"></td>
-							</tr>
-						<tr>
-								<td height="26" bgcolor="#DDDBD1"><img src="/buyLexmark_assets/images/space.gif" width="10" height="26" border="0"></td>
-								<td bgcolor="#DDDBD1" colspan="2"><a href="rpp.asp" class="link1"><b>Repeat Purchase Program</b></a></td>
-							</tr>-->
-							<tr>
-								<td height="1" colspan="3" bgcolor="#FFFFFF"><img src="/buyLexmark_assets/images/space.gif" width="182" height="1" border="0"></td>
-							</tr>	
-							<tr>
-								<td height="3" colspan="3" class="menu"><img src="/buyLexmark_assets/images/space.gif" width="182" height="3" border="0"></td>
-							</tr>	
-							<tr>
-								<td colspan="3" bgcolor="#FFFFFF">
-									<table border="0" cellpadding="0" cellspacing="0" width="182"><tbody><tr><td height="76" align="center"><a href="http://www.lexmarkstore.com/vbvlearn.asp" target="_new" onclick="window.open(&quot;http://www.lexmarkstore.com/vbvlearn.asp&quot;, &quot;_new&quot;, &quot;menubar=no,scrollbars=yes,status=no,toolbar=no,location=no,directories=no,resizable=yes,width=550,height=420&quot;);"><img src="/buyLexmark_assets/images/vbv_info.gif" width="87" height="66" alt="Verified by Visa" border="0"></a></td></tr></tbody></table>
-								</td>
-							</tr>
-							<tr>
-								<!--- Task #25184 - 'C5: All Clients -ADD "Powered by Commerce5" to footer on ALL SITES'  ---->
-								<td colspan="3" bgcolor="#E2E2E2" align="center"><img src="/buyLexmark_assets/images/space.gif" width="10" height="30" border="0"><br>
-								<a href="http://www.bbbonline.com/consumer/profile.asp?ID=392000091" target="new"><img src="/buyLexmark_assets/images/bbb_online.gif" border="0"></a><br>
-								<img src="/buyLexmark_assets/images/space.gif" width="10" height="30" border="0"><br>
-								<a href="http://www.commerce5.com" target="_New"><img src="/buyLexmark_assets/images/c5_hosted.gif" border="0"><br>
-								<img src="/buyLexmark_assets/images/space.gif" width="10" height="30" border="0"></a></td>
-								<!--- Task #25184 -->
-							</tr>
-				
+					<td height="1" colspan="3" align="center"><img src="/buylexmark_assets/images/leftNav_divider.gif" border="0"></td>
+				</tr>
+				<tr>								
+					<td colspan="3" class="leftNav"><div class="menu"><a href="warranty.asp" class="leftNav">Warranties &amp; Services</a></div></td>
+				</tr>
+				<tr>
+					<td height="1" colspan="3" align="center"><img src="/buylexmark_assets/images/leftNav_divider.gif" border="0"></td>
+				</tr>
+				<tr>								
+					<td colspan="3" class="leftNav"><div class="menu"><a href="http://www.lexmarkstore.com/lexmarkredirect.asp?link=rebates" class="leftNav">Rebates</a></div></td>
+				</tr>
+				<tr>
+					<td height="1" colspan="3" align="center"><img src="/buylexmark_assets/images/leftNav_divider.gif" border="0"></td>
+				</tr>
+				<!--Task #31985 - 'Lexmark: Modify the look and feel of the Clearance store link on Lexmark Store'-->
+				<tr>
+					<td height="1" colspan="3"><img src="/buyLexmark_assets/images/space.gif" width="182" height="15" border="0"></td>
+				</tr>
+				<tr>								
+					<td colspan="3" height="25"><a href="clearance.asp"><img src="/buyLexmark_assets/images/space.gif" width="4" height="15" border="0"><img src="/buylexmark_assets/images/clearance.gif" border="0" alt="Clearance - Find Great Deals on Lexmark Products"></a></td>
+				</tr>
+				<tr>
+					<td height="1" colspan="3"><img src="/buyLexmark_assets/images/space.gif" width="182" height="15" border="0"></td>
+				</tr>
+				<!--Task #31582 - 'Lexmark: Sign up for specials banner should open a new smaller window'-->
+				<!--Task #31609 - 'Lexmark: HBX active viewer code on Lxk'-->
+				<tr>
+					<td colspan="3"><a href="http://www.lexmarkstore.com/register.asp" target="register" name="&amp;lid=Sign Up" onclick="window.open(&quot;register.asp&quot;, &quot;register&quot;, &quot;menubar=no,scrollbars=no,status=no,toolbar=no,location=no,directories=no,resizable=yes,width=500,height=450&quot;);"><img src="/buyLexmark_assets/images/space.gif" width="4" height="15" border="0"><img src="/buyLexmark_assets/images/signup.gif" alt="Sign Up for Specials &amp; Promotions" border="0"></a></td>
+				</tr>
+				<!--/Task #31985-->
+				<!--/Task #31609 -->
+				<!--/Task #31582 -->
+				<tr>
+					<td colspan="3" bgcolor="#656565"><img src="/buyLexmark_assets/images/space.gif" alt="spacer" width="180" height="300" border="0"></td>
+				</tr>
+				<!-- Task #31604 - 'Lexmark: Please remove BBB Banner from Left Nav'-->
+				<!--<tr>
+					<td colspan="3" align="center" bgcolor="#656565">
+						<a href="http://www.bbbonline.com/consumer/profile.asp?ID=392000091" target="new"><img src="/buyLexmark_assets/images/bbb_online.gif" border="0"></a><br>
+						<img src="/buyLexmark_assets/images/space.gif" width="10" height="30" border="0"><br></td>							
+				</tr>-->
+				<!--Task #31609 - 'Lexmark: HBX active viewer code on Lxk'-->
+				<tr bgcolor="#656565">
+					<td colspan="3" align="center" bgcolor="#656565"><a href="http://www.commerce5.com" target="_New" name="&amp;lid=Commerce5 Logo"><img src="/buyLexmark_assets/images/c5_hosted.gif" border="0"></a><br>
+				</td></tr>
+				<!--/ Task #31609 -->
+				<!-- /Task #31604 -->
 			</tbody></table>
 			
 		</td>
-		<td bgcolor="#000000"></td>
-		<td valign="top" style="padding:10px">
+		<td width="5" valign="top" class="leftbody_divider"><img src="/buyLexmark_assets/images/leftBody_dividerTop.gif" alt="spacer" border="0"></td>
+		
+		
+		
+		
+		<td valign="top" width="550">
+			
+			<img src="/buyLexmark_assets/images/space.gif" alt="spacer" width="550" height="0" border="0">
+		
+			<table border="0" cellpadding="0" cellspacing="0" width="536" bgcolor="#CE0000">
+				<tbody><tr>
+					<td height="5" width="1" colspan="3"><img src="/buyLexmark_assets/images/space.gif" alt="spacer" width="1" height="5" border="0"></td>
+				</tr>
+				<tr>
+					<td width="100" valign="middle" height="20">
+						<img src="/buylexmark_assets/images/cartridge_title.gif" border="0" align="absmiddle">
+					</td>
+					<form action="searchresults.asp" method="get" name="frmSearch" onsubmit="return false;" style="display:inline"></form>
+					<input type="hidden" name="search_id" value="3,13,19">
+					<input type="hidden" name="cartridgefinder" value="yes">
+					<td width="150" valign="middle">				
+						<input type="text" style="width:150px;" name="search_criteria" size="20" class="searchBox" value="Enter your part number" onfocus="this.value=''">					
+					</td>
+					<!--Task #31609 - 'Lexmark: HBX active viewer code on Lxk'-->
+					<td width="20">
+						<a href="javascript:doSearch();" name="&amp;lid=Cartridge Finder"><img src="/buylexmark_assets/images/cartridge_button.gif" border="0" align="absmiddle"></a>						
+					</td>
+					<!--/Task #31609 -->
+					
+					
+<style>
+.wizard {font-family:arial;font-size:10px;}
+.wizardinput { font-family:arial; font-size:10px;}
+</style>
+	
+					<td width="205" align="center" valign="top">
+<table cellpadding="2" cellspacing="1" border="0" class="wizard">
+<form name="wizard0" action="/service.asp" method="post"></form>
+<input type="hidden" name="id" value="CARTRIDGES">
+<input type="hidden" name="view_state" value="">
+<tbody><tr><td align="right" valign="top"></td>
+<td align="left" valign="top">
+<select name="action_id" class="wizardinput" onchange="document.wizard0.submit();">
+<option value="">Select Printer</option><option value="0,1470682">4079 Color Jetprinter</option>
+<option value="0,1470683">ExecJet IIc, Winwriter 150c, Medley</option>
+<option value="0,1470684">IBM 4019, 4029, 4028 Laser Printers</option>
+<option value="0,1470685">IBM 4037 5E Page Printer</option>
+<option value="0,1470686">Lexmark 2030, 2050, 2055, 3000</option>
+<option value="0,1470687">Lexmark 2070 Color Jetprinter</option>
+<option value="0,1470688">Lexmark 3200, 5000, 5700, 5770, 7000, 7200</option>
+<option value="0,1470689">Lexmark 4039</option>
+<option value="0,1470690">Lexmark 4039 10plus Laser Printer</option>
+<option value="0,1470691">Lexmark 4039 Laser Printers</option>
+<option value="0,1470692">Lexmark 4039 Plus</option>
+<option value="0,1470693">Lexmark C510</option>
+<option value="0,1470694">Lexmark C510dtn</option>
+<option value="0,1470695">Lexmark C510n</option>
+<option value="0,1470696">Lexmark C520n</option>
+<option value="0,1470697">Lexmark C522n</option>
+<option value="0,1470698">Lexmark C524dn</option>
+<option value="0,1470699">Lexmark C524dtn</option>
+<option value="0,1470700">Lexmark C524N</option>
+<option value="0,1470701">Lexmark C720</option>
+<option value="0,1470702">Lexmark C720dn</option>
+<option value="0,1470703">Lexmark C720n</option>
+<option value="0,1470704">Lexmark C750</option>
+<option value="0,1470705">Lexmark C750dn</option>
+<option value="0,1470706">Lexmark C750dtn</option>
+<option value="0,1470707">Lexmark C750fn</option>
+<option value="0,1470708">Lexmark C750in</option>
+<option value="0,1470709">Lexmark C750n</option>
+<option value="0,1470710">Lexmark C752</option>
+<option value="0,1470711">Lexmark C752dn</option>
+<option value="0,1470712">Lexmark C752dtn</option>
+<option value="0,1470713">Lexmark C752fn</option>
+<option value="0,1470714">Lexmark C752ldn</option>
+<option value="0,1470715">Lexmark C752ldtn</option>
+<option value="0,1470716">Lexmark C752ln</option>
+<option value="0,1470717">Lexmark C752n</option>
+<option value="0,1470718">Lexmark C760</option>
+<option value="0,1470719">Lexmark C760dn</option>
+<option value="0,1470720">Lexmark C760dtn</option>
+<option value="0,1470721">Lexmark C760n</option>
+<option value="0,1470722">Lexmark C762</option>
+<option value="0,1470723">Lexmark C762dn</option>
+<option value="0,1470724">Lexmark C762dtn</option>
+<option value="0,1470725">Lexmark C762n</option>
+<option value="0,1470726">Lexmark C910</option>
+<option value="0,1470727">Lexmark C910dn</option>
+<option value="0,1470728">Lexmark C910fn</option>
+<option value="0,1470729">Lexmark C910n</option>
+<option value="0,1470730">Lexmark C912</option>
+<option value="0,1470731">Lexmark C912dn</option>
+<option value="0,1470732">Lexmark C912n</option>
+<option value="0,1470733">Lexmark E120n</option>
+<option value="0,1470734">Lexmark E210</option>
+<option value="0,1470735">Lexmark E230</option>
+<option value="0,1470736">Lexmark E232</option>
+<option value="0,1470737">Lexmark E232t</option>
+<option value="0,1470738">Lexmark E234</option>
+<option value="0,1470739">Lexmark E238</option>
+<option value="0,1470740">Lexmark E320</option>
+<option value="0,1470741">Lexmark E321</option>
+<option value="0,1470742">Lexmark E322</option>
+<option value="0,1470743">Lexmark E322n</option>
+<option value="0,1470744">Lexmark E323n</option>
+<option value="0,1470745">Lexmark E330</option>
+<option value="0,1470746">Lexmark E332n</option>
+<option value="0,1470747">Lexmark E332tn</option>
+<option value="0,1470748">Lexmark J110</option>
+<option value="0,1470749">Lexmark Optra C710</option>
+<option value="0,1470750">Lexmark Optra C710n</option>
+<option value="0,1470751">Lexmark Optra Color 1200</option>
+<option value="0,1470752">Lexmark Optra Color 1200n</option>
+<option value="0,1470753">Lexmark Optra Color 40</option>
+<option value="0,1470754">Lexmark Optra Color 45</option>
+<option value="0,1470755">Lexmark Optra E, Ep, Es, E+</option>
+<option value="0,1470756">Lexmark Optra E310</option>
+<option value="0,1470757">Lexmark Optra E312</option>
+<option value="0,1470758">Lexmark Optra E312L</option>
+<option value="0,1470759">Lexmark Optra K 1220</option>
+<option value="0,1470760">Lexmark Optra M410</option>
+<option value="0,1470761">Lexmark Optra M410n</option>
+<option value="0,1470762">Lexmark Optra M412</option>
+<option value="0,1470763">Lexmark Optra M412n</option>
+<option value="0,1470764">Lexmark Optra N 240, 245</option>
+<option value="0,1470765">Lexmark Optra S 1250</option>
+<option value="0,1470766">Lexmark Optra S 1255</option>
+<option value="0,1470767">Lexmark Optra S 1620</option>
+<option value="0,1470768">Lexmark Optra S 1625</option>
+<option value="0,1470769">Lexmark Optra S 1650</option>
+<option value="0,1470770">Lexmark Optra S 1855</option>
+<option value="0,1470771">Lexmark Optra S 2420</option>
+<option value="0,1470772">Lexmark Optra S 2450</option>
+<option value="0,1470773">Lexmark Optra S 2455</option>
+<option value="0,1470774">Lexmark Optra SC 1275</option>
+<option value="0,1470775">Lexmark Optra SC 1275n</option>
+<option value="0,1470776">Lexmark Optra Se 3455</option>
+<option value="0,1470777">Lexmark Optra T610</option>
+<option value="0,1470778">Lexmark Optra T610n</option>
+<option value="0,1470779">Lexmark Optra T612</option>
+<option value="0,1470780">Lexmark Optra T614</option>
+<option value="0,1470781">Lexmark Optra T614n</option>
+<option value="0,1470782">Lexmark Optra T614nl</option>
+<option value="0,1470783">Lexmark Optra T616</option>
+<option value="0,1470784">Lexmark Optra T616n</option>
+<option value="0,1470785">Lexmark Optra W810</option>
+<option value="0,1470786">Lexmark Optra W810dn</option>
+<option value="0,1470787">Lexmark Optra W810n</option>
+<option value="0,1470788">Lexmark OptraImage W810s</option>
+<option value="0,1470789">Lexmark P315</option>
+<option value="0,1470790">Lexmark P3150</option>
+<option value="0,1470791">Lexmark P4350</option>
+<option value="0,1470792">Lexmark P450</option>
+<option value="0,1470793">Lexmark P6250</option>
+<option value="0,1470794">Lexmark P6350</option>
+<option value="0,1470795">Lexmark P707</option>
+<option value="0,1470796">Lexmark P915</option>
+<option value="0,1470797">Lexmark T420d</option>
+<option value="0,1470798">Lexmark T430</option>
+<option value="0,1470799">Lexmark T430d</option>
+<option value="0,1470800">Lexmark T430dn</option>
+<option value="0,1470801">Lexmark T520</option>
+<option value="0,1470802">Lexmark T520 SBE</option>
+<option value="0,1470803">Lexmark T520d</option>
+<option value="0,1470804">Lexmark T520dn</option>
+<option value="0,1470805">Lexmark T520n</option>
+<option value="0,1470806">Lexmark T520n sbe</option>
+<option value="0,1470807">Lexmark T522</option>
+<option value="0,1470808">Lexmark T522dn</option>
+<option value="0,1470809">Lexmark T522n</option>
+<option value="0,1470810">Lexmark T620</option>
+<option value="0,1470811">Lexmark T620n</option>
+<option value="0,1470812">Lexmark T622</option>
+<option value="0,1470813">Lexmark T622dn</option>
+<option value="0,1470814">Lexmark T622in</option>
+<option value="0,1470815">Lexmark T622n</option>
+<option value="0,1470816">Lexmark T630</option>
+<option value="0,1470817">Lexmark T630 VE</option>
+<option value="0,1470818">Lexmark T630dn</option>
+<option value="0,1470819">Lexmark T630n</option>
+<option value="0,1470820">Lexmark T630n VE</option>
+<option value="0,1470821">Lexmark T630ve</option>
+<option value="0,1470822">Lexmark T632</option>
+<option value="0,1470823">Lexmark T632dtn</option>
+<option value="0,1470824">Lexmark T632dtnf</option>
+<option value="0,1470825">Lexmark T632n</option>
+<option value="0,1470826">Lexmark T632tn</option>
+<option value="0,1470827">Lexmark T634</option>
+<option value="0,1470828">Lexmark T634dtn</option>
+<option value="0,1470829">Lexmark T634dtnf</option>
+<option value="0,1470830">Lexmark T634n</option>
+<option value="0,1470831">Lexmark T634tn</option>
+<option value="0,1470832">Lexmark W812</option>
+<option value="0,1470833">Lexmark W812dtn</option>
+<option value="0,1470834">Lexmark W812tn</option>
+<option value="0,1470835">Lexmark W820</option>
+<option value="0,1470836">Lexmark W820dn</option>
+<option value="0,1470837">Lexmark W820n</option>
+<option value="0,1470838">Lexmark X1150 PrintTrio</option>
+<option value="0,1470839">Lexmark X1185</option>
+<option value="0,1470840">Lexmark X125</option>
+<option value="0,1470841">Lexmark X215 MFP</option>
+<option value="0,1470842">Lexmark X2250</option>
+<option value="0,1470843">Lexmark X3350</option>
+<option value="0,1470844">Lexmark X422 MFP</option>
+<option value="0,1470845">Lexmark X4250</option>
+<option value="0,1470846">Lexmark X4270</option>
+<option value="0,1470847">Lexmark X5150</option>
+<option value="0,1470848">Lexmark X520 MFP</option>
+<option value="0,1470849">Lexmark X522 MFP</option>
+<option value="0,1470850">Lexmark X5250</option>
+<option value="0,1470851">Lexmark X5270</option>
+<option value="0,1470852">Lexmark X6150</option>
+<option value="0,1470853">Lexmark X6170</option>
+<option value="0,1470854">Lexmark X620e MFP</option>
+<option value="0,1470855">Lexmark X63</option>
+<option value="0,1470856">Lexmark X630 MFP</option>
+<option value="0,1470857">Lexmark X632 MFP</option>
+<option value="0,1470858">Lexmark X632e MFP</option>
+<option value="0,1470859">Lexmark X644e MFP</option>
+<option value="0,1470860">Lexmark X646dte MFP</option>
+<option value="0,1470861">Lexmark X646e MFP</option>
+<option value="0,1470862">Lexmark X7170</option>
+<option value="0,1470863">Lexmark X720 Color MFP</option>
+<option value="0,1470864">Lexmark X73</option>
+<option value="0,1470865">Lexmark X7350</option>
+<option value="0,1470866">Lexmark X75</option>
+<option value="0,1470867">Lexmark X750e MFP</option>
+<option value="0,1470868">Lexmark X83</option>
+<option value="0,1470869">Lexmark X8350</option>
+<option value="0,1470870">Lexmark X85</option>
+<option value="0,1470871">Lexmark Z11 and Z31</option>
+<option value="0,1470872">Lexmark Z12</option>
+<option value="0,1470873">Lexmark Z13</option>
+<option value="0,1470874">Lexmark Z22</option>
+<option value="0,1470875">Lexmark Z23</option>
+<option value="0,1470876">Lexmark Z25</option>
+<option value="0,1470877">Lexmark Z32</option>
+<option value="0,1470878">Lexmark Z33</option>
+<option value="0,1470879">Lexmark Z35</option>
+<option value="0,1470880">Lexmark Z42</option>
+<option value="0,1470881">Lexmark Z43</option>
+<option value="0,1470882">Lexmark Z45</option>
+<option value="0,1470883">Lexmark Z45se</option>
+<option value="0,1470884">Lexmark Z51</option>
+<option value="0,1470885">Lexmark Z515</option>
+<option value="0,1470886">Lexmark Z52</option>
+<option value="0,1470887">Lexmark Z53</option>
+<option value="0,1470888">Lexmark Z55</option>
+<option value="0,1470889">Lexmark Z55se</option>
+<option value="0,1470890">Lexmark Z605</option>
+<option value="0,1470891">Lexmark Z611</option>
+<option value="0,1470892">Lexmark Z615</option>
+<option value="0,1470893">Lexmark Z65</option>
+<option value="0,1470894">Lexmark Z65n</option>
+<option value="0,1470895">Lexmark Z65p</option>
+<option value="0,1470896">Lexmark Z705</option>
+<option value="0,1470897">Lexmark Z715</option>
+<option value="0,1470898">Lexmark Z735</option>
+<option value="0,1470899">Lexmark Z816</option>
+<option value="0,1470900">Lexmark Z82</option>
+</select>
+</td></tr>
 
-<b>Customer Service</b>
-<hr class="red">
-<br>
-<table border="0" cellpadding="0" cellspacing="0" width="537">
-<tbody><tr>
+</tbody></table>
+			
+							<!--/Task #30881 -->
+					</td>					
+			 </tr>	
+			 <tr>
+					<td height="5" width="1" colspan="3"><img src="/buyLexmark_assets/images/space.gif" alt="spacer" width="1" height="5" border="0"></td>
+			 </tr>	
+		</tbody></table>
+		
+			<script language="javascript">
+			var promo
+			promo = window.open("http://www.lexmarkstore.com/promopopup.asp","promo","menubar=no,scrollbars=yes,status=no,toolbar=no,location=no,directories=no,resizable=yes,width=350,height=285")
+			</script>
+
+<table border="0" cellpadding="0" cellspacing="0" width="500">
+<tbody><tr><td><img src="/buyLexmark_assets/images/space.gif" width="1" height="10" alt=""></td></tr>
+<tr><td><b>Customer Service</b></td></tr>
+<tr><td colspan="3"><hr></td></tr>
+<tr>
 <td>
 
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<table border="0" cellpadding="0" cellspacing="0" width="500">
 	<tbody><tr>
 		<td valign="top">
 <ul>
@@ -802,8 +761,8 @@ function submititCart() { document.frmMiniCart.submit(); }
 </ul>
 		</td>
 	</tr>
-</tbody></table><hr size="1" color="#dadada"><br>
-
+<tr><td colspan="3"><hr></td></tr>		
+</tbody></table>
 
 <b>Privacy Policy</b><p>
 </p><div style="padding:1px;">
@@ -1097,36 +1056,64 @@ before proceeding to use the Site.
 			<tr>
 				<td colspan="5" align="center" class="footer">
 					All prices are in US Dollars. Products are available for purchase by U.S. customers who take<br>
-					delivery in the U.S. All sales are subject to The Online Store's <a href="copyright.asp">Terms and Conditions</a>.
-					<p class="footer"><a href="http://www.lexmark.com/US/services/offerings/index.html">Warranty Information</a> | <a href="http://support.lexmark.com/">Technical Support</a></p>
+					delivery in the U.S. All sales are subject to The Online Store's <a href="http://www.lexmarkstore.com/copyright.asp">Terms and Conditions</a>.
+					<!--Task #29786 - 'Edit URL paths on Lxk store'-->
+					<p class="footer"><a href="http://www.lexmarkstore.com/warranty.asp">Warranty Information</a> | <a href="http://www.lexmarkstore.com/lexmarkredirect.asp?link=TechSupport">Technical Support</a></p>
+					<!--/ Task #29786 -->
 					<br><img src="/buyLexmark_assets/images/space.gif" width="1" height="5" alt=""><br>
-					Want to know how we use your personal information? Click here for our <a href="service.asp?section=1">Privacy Policy</a>.<br>
-					Copyright © 1997 - 2005 Lexmark International, Inc. All rights reserved. Used with permission.
+					Want to know how we use your personal information? Click here for our <a href="http://www.lexmarkstore.com/service.asp?section=1">Privacy Policy</a>.<br>
+					Copyright © 1997 - 2006 Lexmark International, Inc. All rights reserved. Used with permission.
 				</td>
 			</tr>
 		</tbody></table>
-			</td>
-		<td bgcolor="#000000"></td>
+
+</td>
+<td width="213" valign="top">
+
+	<table cellpadding="0" cellspacing="0" width="213" border="0">
+
+
+	<tbody><tr>
+			<td valign="top"><a href="getmodel.asp"><img src="/buyLexmark_assets/images/find_it.gif" alt="Find It" border="0"></a><br>
+			<img src="/buyLexmark_assets/images/space.gif" alt="" width="1" height="6" border="0"><br></td>
 	</tr>
+
 	<tr>
-		<td colspan="5" height="1" bgcolor="#000000"><img src="/buyLexmark_assets/images/space.gif" alt="spacer" width="752" height="1" border="0"></td>
+			<td valign="top"><a href="referrer.asp?r=inkship06"><img src="/buyLexmark_assets/banners/free_shipping_pop.gif" alt="Free shipping on Ink!" border="0"></a><br>
+			<img src="/buyLexmark_assets/images/space.gif" alt="" width="1" height="6" border="0"><br></td>
 	</tr>
+
 	<tr>
-		<td colspan="5" height="50" bgcolor="#E2E2E2">
-			<table cellpadding="0" cellspacing="0" width="100%" border="0">
-				<tbody><tr>
-					<td class="footer">© 1997 - 2005 Lexmark International, Inc. All rights reserved.</td>
-					<td class="footer" align="right"><a href="http://www.lexmarkstore.com/service.asp?section=1">privacy policy</a><!-- | site map--></td>
-				</tr>
-			</tbody></table>			
+			<td valign="top"><a href="product.asp?sku=2785374"><img src="/buyLexmark_assets/images/free_shipping.gif" alt="Free Shipping" border="0"></a><br>
+			<img src="/buyLexmark_assets/images/space.gif" alt="" width="1" height="6" border="0"><br></td>
+	</tr>
+
+	<tr>
+			<td valign="top"><a href="referrer.asp?r=X7350ship"><img src="/buyLexmark_assets/images/free_shipping_x7350.gif" alt="Free Shipping" border="0"></a><br>
+			<img src="/buyLexmark_assets/images/space.gif" alt="" width="1" height="6" border="0"><br></td>
+	</tr>
+
+	</tbody></table>
+	
+</td>
+<td valign="top" class="right_body"><img src="/buyLexmark_assets/images/right_bodyTop.gif" alt="" border="0"></td>
+</tr>
+	<tr>
+		<td colspan="8" height="1"><img src="/buyLexmark_assets/images/mainbody_bottom.gif" alt="spacer" border="0"></td>
+	</tr>
+	
+</tbody></table>
+
 		</td>
 	</tr>
 </tbody></table>
+<!--Task #31624 - 'Lexmark: ROI Trackers for Lexmark'-->
+
+<!--/Task #31624-->
 <!--
 $Workfile: footer.asp $
-$Revision: 1.12 $
+$Revision: 1.23 $
 -->
-
 
 
 
