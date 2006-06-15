@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the revenue.net privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404142448id_/http%3A//revenue.net/privacy_policy.mas) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revenue.net privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615095929id_/http%3A//www.revenue.net/privacy_policy.mas) for the most accurate reproduction.*
 
-# Revenue.net - It's All About Your Revenue
+# :: Revenue.net :: An Internet Advertising Agency :: It's All About Your Revenue ::
 
-  
 At Oversee.net, we recognize that privacy is an important issue, so we design and operate our services with the protection of your privacy in mind. This privacy policy ("Privacy Policy") outlines the types of personal information we gather when you use Oversee.net, as well as some of the steps we take to safeguard it. 
 
 **Data collection**
@@ -33,4 +32,4 @@ We provide mechanisms for updating and correcting your personally identifying in
 
 **Changes to this Policy**
 
-Please note this Privacy Policy will change from time to time. We expect most such changes to be minor, but there may be changes that are more significant. Regardless, we will post those changes on this page and, if the changes are significant, we will also provide a more prominent notice. We archive each version of our Policy Policy and each version will be noted at the top of the page. If you have any additional questions, please feel free to [contact us](https://web.archive.org/web/20050404142448id_/http%3A//revenue.net/contact.mas) any time at [privacy@oversee.net](mailto:privacy@oversee.net).
+Please note this Privacy Policy will change from time to time. We expect most such changes to be minor, but there may be changes that are more significant. Regardless, we will post those changes on this page and, if the changes are significant, we will also provide a more prominent notice. We archive each version of our Policy and each version will be noted at the top of the page. If you have any additional questions, please feel free to [contact us](https://web.archive.org/web/20060615095929id_/http%3A//www.revenue.net/contact.mas) any time at privacy@oversee.net. 
