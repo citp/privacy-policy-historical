@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the upmystreet.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220125318id_/http%3A//www.upmystreet.com/about-us/privacy-policy/l) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upmystreet.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615033211id_/http%3A//www.upmystreet.com/about-us/privacy-policy/l) for the most accurate reproduction.*
 
 # UpMyStreet - Privacy policy
 
 ## Your privacy is important to us
 
-UpMyStreet believes your right to privacy is important. To run an efficient, effective service, however, we need to collect and use certain information about our users.
+This privacy policy forms part of UpMyStreet’s terms and conditions. Once you have registered on this website you will be deemed to have read and accepted this privacy policy. 
+
+UpMyStreet believes your right to privacy is important. To run an efficient, effective service, however, we need to collect and use certain information about our users. 
 
   * What information do we collect and why?
   * Registering with UpMyStreet
@@ -24,7 +26,7 @@ UpMyStreet believes your right to privacy is important. To run an efficient, eff
 
 In general, you can browse the UpMyStreet.com website without disclosing any information about yourself.
 
-Registering on our site is optional. Doing so lets you receive our monthly newsletter, access premium services and post on the Conversations service. If you choose not to register or provide personal information, you can still use the majority of the website.
+Registering on our site is optional. Doing so lets you receive our monthly newsletter, access premium services and post on the Conversations service. If you choose not to register or provide personal information, you can still use the majority of the website. 
 
 Back to top
 
@@ -36,13 +38,13 @@ By entering your details in the fields requested, you enable us to provide you w
 
 By registering with us you’ll be opting in to receive:
 
-The UpMyStreet monthly newsletter. You can opt-out of receiving the newsletter through the [Edit your profile](https://web.archive.org/news-views/my-profile/edit/l/ "Click here to edit your profile") option or by unsubscribing through the newsletter.
+The UpMyStreet monthly newsletter. You can opt-out of receiving the newsletter through the Edit your profile option or by unsubscribing through the newsletter.
 
 USwitch.com’s Insight newsletter. uSwitch.com is UpMyStreet’s parent company, and is the UK’s leading home services and personal finance comparison and switching service. It’s free to use and impartial.
 
-[About uSwitch](http://www.uswitch.com/Popups/about_uswitch.asp?ref= "Learn more about uSwitch")
+[About uSwitch](http://www.uswitch.com/Popups/about_uswitch.asp)
 
-[uSwitch’s privacy and cookie policy](http://www.uswitch.com/Popups/privacy_policy.asp?ref= "Read uSwitch's privacy and cookie policy")
+[uSwitch’s privacy and cookie policy](http://www.uswitch.com/Popups/privacy_policy.asp?ref=)
 
 You can opt-out of receiving the uSwitch newsletter by unsubscribing via the newsletter or by contacting help@uswitch.com.
 
@@ -85,14 +87,6 @@ If you use this service, you can be sure that UpMyStreet will not collect the em
 Back to top
 
 #### Use of cookies
-
-UpMyStreet.com collects information about your preferences in relation to this site by analysing site traffic, which includes the use of cookies. Cookies are pieces of computer code which are stored on your computer and which allow us to recognise the fact that you have visited our site previously.
-
-However, if you would prefer not to let your computer accept cookies, most internet browsers can be altered to do this. But this may mean some of the features of the site will not work properly.
-
-Back to top
-
-#### Using information on visits to improve our services
 
 During the course of any visit to UpMyStreet.com, the pages you see, along with a cookie, are downloaded onto your computer. Most websites do this, because cookies allow the website publisher to do useful things like find out whether the computer (and so probably its user) has visited the site before. This is done on a repeat visit by checking to see, and finding, the cookie left there on the last visit.
 
@@ -148,7 +142,7 @@ Back to top
 
 #### Do you have any other questions about privacy?
 
-We want you to feel happy about any information you give us and know that you have control over the way it is used. If you have any questions about our Privacy policy, please contact us using our [feedback form](https://web.archive.org/about-us/feedback/l/ "Contact us using our feedback form").
+We want you to feel happy about any information you give us and know that you have control over the way it is used. If you have any questions about our Privacy policy, please contact us using our [feedback form](https://web.archive.org/about-us/feedback/l/).
 
 Back to top
 
