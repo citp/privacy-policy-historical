@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the travelmole.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213194602id_/http%3A//travelmole.com/privacy.php%3Fref%3Dnolog) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelmole.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615052741id_/http%3A//travelmole.com/privacy.php%3Fref%3Dnolog) for the most accurate reproduction.*
 
-# TravelMole - The News and Resource Centre for the Travel Industry
+# TravelMole - The Online Community for the Travel and Tourism Industry
 
 TravelMole takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
