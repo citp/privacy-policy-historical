@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2ksports.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212145152id_/http%3A//www.take2games.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2ksports.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615203030id_/http%3A//www.take2games.com/pp.php) for the most accurate reproduction.*
 
 # TAKE TWO INTERACTIVE’S ONLINE PRIVACY STATEMENT
 
@@ -28,6 +28,8 @@ This Privacy Policy currently applies to the following websites operated by Take
   * www.take2games.com
   * www.rockstargames.com 
   * www.2kgames.com
+  * www.2ksports.com
+  * www.firaxis.com
   * www.globalstarsoftware.com
   * www.gathering.com
 
@@ -131,6 +133,13 @@ To protect your personal information, Take Two Interactive maintains appropriate
 
 Any questions or complaints about this Online Privacy Statement can be resolved by contacting our Privacy Policy Administrator at 646-536-2842; via email at [privacypolicy@take2games.com](mailto:privacypolicy@take2games.com); or, by regular mail at Take Two Interactive Software, Inc., Attn: Privacy Policy Administrator, 622 Broadway, New York, New York 10012. 
 
-For complaints, you can also contact ESRB Privacy Online directly at 212-759-0700 or by regular mail at 317 Madison Avenue, New York, NY 10017. 
+Take Two is a licensee of the ESRB's Privacy Online Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB at <http://www.esrb.org/privacy_wc_hotline.asp>
 
-_As of January 26, 2005._
+ESRB   
+Attn.: Privacy Online Program   
+317 Madison Avenue, 22nd Floor   
+New York, NY 10017   
+212-759-0700   
+[privacyinfo@esrb.org](mailto:privacyinfo@esrb.org)
+
+_Last updated on March 31, 2006_
