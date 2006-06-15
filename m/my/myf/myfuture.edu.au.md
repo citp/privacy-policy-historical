@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfuture.edu.au privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224013554id_/http%3A//www.myfuture.edu.au/articles/Redirect.asp%3FArticleID%3D197%26Location%3DHome%2520%5C%2520Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfuture.edu.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615103526id_/http%3A//www.myfuture.edu.au/articles/Redirect.asp%3FArticleID%3D197%26Location%3DHome%2520%5C%2520Privacy) for the most accurate reproduction.*
 
 # myfuture Privacy Statement
 
@@ -133,7 +133,7 @@ We want to develop a long and trusted relationship with you. If at any time you:
 > 
 > (b) Career Services Manager   
 >        _ **education.au limited  
->        **_178 Fullarton Road  
+>        **_182 Fullarton Road  
 >       DULWICH  SA  5065; or
 > 
 > (c) Department of Education, Science and Training  
