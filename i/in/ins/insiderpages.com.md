@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the insiderpages.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214134334id_/http%3A//www.insiderpages.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insiderpages.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615204151id_/http%3A//www.insiderpages.com/legal/privacy.html) for the most accurate reproduction.*
 
-# Insider Pages - Join Today to see Find Customer Reviews of Local Businesses on Insider Pages
+# Insider Pages Privacy Policy
 
 We are committed to protecting online user privacy. In order to ensure your privacy, information we collect is used only in the manner and for the purposes described below. This "Privacy Statement" discloses the privacy practices governing our knowing collection, use, and disclosure of information. Capitalized terms shall have the meaning designated in the Insider Pages Terms of Service unless specifically defined in this Privacy Statement. All references herein to "we" or "us" refer to Insider Pages. 
 
