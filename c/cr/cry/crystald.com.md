@@ -1,206 +1,173 @@
-> *The following text is extracted and transformed from the crystald.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230023305id_/http%3A//www.eidosinteractive.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crystald.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615204209id_/http%3A//www.eidosinteractive.com/privacy.html) for the most accurate reproduction.*
 
 # EidosInteractive.com
 
-| [](https://web.archive.org/web/20051230023305id_/http%3A//www.eidosinteractive.com/whatsnew.html)  
----  
-|  |   
-| 
+**EIDOS, Inc ONLINE PRIVACY STATEMENT**
 
-[Commandos Strike Force Website Launched!](http://www.commandosstrikeforce.com/)
-
-[Hitman: Blood Money Website Update! New Trailer!](http://www.hitmanbloodmoney.com/)
-
-[All New 25 To Life Website Update. Check it out!](http://www.25tolife.com/)
-
-[The New Tomb Raider: Legend Website has Launched. View it now!](http://www.tombraider.com/)
-
-[Check out the Total Overdose Demo Now!](http://www.eidosinteractive.com/downloads/search.html?gmid=160)
-
-|   
-|  |   
----  
-|  |   
-| 
-
-Register your new Eidos game to win.  
-click here
-
-|   
-|  |   
----  
-|  |   
-| 
-
-[Go here](https://web.archive.org/web/20051230023305id_/http%3A//www.eidosinteractive.com/forums/index.html) to talk about the games! 
-
-|   
-|  |   
-|  |  |  | 
-
-**
-
-EIDOS INTERACTIVE.S ONLINE
-
-** PRIVACY POLICY
+Last updated April 7, 2006
 
 [](https://www.esrb.org/confirm/eidos-confirmation.htm)
 
-Eidos Interactive of the United States ("Eidos Interactive") respects the privacy rights of our online visitors and is committed to protecting the personal information collected about you. To further this commitment, we have adopted this Online Privacy Policy ("Privacy Policy") to guide how we collect, store, and use the information you provide us online. 
+Welcome to Eidos!
 
-If you are a parent or guardian and are interested in knowing more about Eidos Interactive.s policy regarding the collection of information from children under 13, please see our special  childrens section below.
+**OUR PRIVACY COMMITMENT**
 
-This Privacy Statement and the certification seal located on this page confirm that Eidos Interactive is a valid licensee and participating member in the [ Entertainment Software Rating Board's Privacy Online Program: ESRB Privacy Online.](http://www.esrb.com/) To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of this privacy program, we are subject to frequent audits of our sites and other enforcement and accountability mechanisms administered independently by ESRB Privacy Online. 
+Eidos, Inc., and its subsidiaries and affiliates (collectively, "Eidos") respect the privacy rights of our online visitors and recognizes the importance of protecting all information that you may choose to share with us. To further this commitment, we have adopted this Online Privacy Policy ("Privacy Policy") to guide how we collect, store, and use the information you provide us.
 
-Because the website you are currently visiting displays the ESRB Privacy Online certification seal, you can expect to be notified of the following.
+This Privacy Statement and the certification seal shown on this page confirms that Eidos, Inc. is a member in good standing of [ESRB's Privacy Online Program](http://www.esrb.org/privacy.asp). ESRB's Privacy Online Program is designed to ensure that our website's information disclosure practices are responsible and appropriate. To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of this privacy program, we are subject to frequent audits of our websites and other enforcement and accountability mechanisms administered independently by the ESRB.
 
-  * The scope of this Privacy Policy
+**TABLE OF CONTENTS**
 
-  * Exactly what information Eidos Interactive may collect from you through its website(s) 
+Q1. What information does this Privacy Statement cover?  
+Q2. What types of personally identifiable information do we collect about our guests?  
+Q3. How is your personally identifiable information used and shared?  
+Q4. What choices do you have about the collection, use, and sharing of your personally identifiable information?  
+Q5. What kinds of security measures do we take to safeguard your personally identifiable information?  
+Q6. How can you update your personal information and profile?  
+Q7. How can you ask questions, or send us comments, about this Privacy Policy?  
+Q8. How will you know if we amend this Privacy Policy?
 
-  * How Eidos Interactive will use the information it collects 
+**Q1. What information does this Privacy Statement cover?**
 
-  * What are the consequences if you refuse to divulge your personal information
+This Privacy Policy applies only to personal information collected on the websites where this Privacy Policy is posted, and does not apply to any other information collected by Eidos, Inc. through any other means.
 
-  * Whether Eidos Interactive uses cookies or other passive collection tools on its website(s)
+This Privacy Policy applies to use and sharing of personal information collected on and after the date that this Privacy Policy is posted.
 
-  * Who collects the information that you disclose on an Eidos Interactive website
+Please note that this Privacy Policy applies only to information submitted and collected online, and does not apply to information that may be collected by Eidos, Inc. offline. This Privacy Policy applies only to websites maintained by Eidos, Inc., and not to our international affiliates, or any websites maintained by other companies or organizations to which we link. Eidos, Inc. is therefore not responsible for the content or activities provided on those websites.
 
-  * With whom, if anyone, does Eidos Interactive share your personal information
+Finally, the terms of this Privacy Policy are subject to all applicable laws.
 
-  * What choices you can make regarding how your personal information is used
+back to top
 
-  * How you can change or delete the information Eidos Interactive has collected about you
+**Q2. What types of personally identifiable information do we collect about our guests?**
 
-  * What is Eidos Interactive's policy regarding collecting information from children under 13
+We don't require personal information to access our website. However, if you prefer not to disclose personal information, you will not be able to enjoy certain features of our website. Personal information is information that identifies you and may be used to contact you. To offer our guests certain features on our website, we collect several types of personal information.
 
-  * How Eidos Interactive ensures the security, quality, and integrity of your information 
+**_Children_**
 
-  * How you can ask a question or file a complaint regarding this Privacy Policy
+We don't knowingly collect personal information from children under 13. We take children's privacy seriously, and encourage parents to play an active role in their children's online experience at all times.
 
+**_Information You Provide to Us_**
 
+All of the personal information we receive comes directly from our guests. We collect personal information from our guests to:
 
-
-**What does this Privacy Policy apply to?**  
-The website you are currently visiting is operated by Eidos Interactive from its offices in the State of California, United States of America, located at 651 Brannan Street, Suite 400, San Francisco, CA 94107. This Privacy Policy currently applies to the following website(s) operated by Eidos Interactive (collectively referred to as the "Eidos Websites" or "our Websites"):  
-
-
-[www.eidosinteractive.com](http://www.eidosinteractive.com/) [  
-www.timesplittersgame.com](http://www.timesplittersgame.com/) [  
-www.puppiestotherescue.com](http://www.puppiestotherescue.com/) [  
-www.panzerclawsgame.com](http://www.panzerclawsgame.com/) [  
-www.tombraider.com](http://www.tombraider.com/) [  
-www.feareffect.com](http://www.feareffect.com/) [  
-www.legacyofkain.com](http://www.legacyofkain.com/) [  
-www.praetoriansgame.com](http://www.praetoriansgame.com/)   
-[www.maddashracing.com](http://www.maddashracing.com/) [  
-www.waverally.com](http://www.waverally.com/) [  
-www.playfresh.com](http://www.playfresh.com/) [  
-www.swingerzgolfgame.com](http://www.swingerzgolfgame.com/) [  
-www.legaia2.com](http://www.legaia2.com/) [  
-www.bywgame.com](http://www.bywgame.com/)   
-[www.whiplashgame.com](http://www.whiplashgame.com/)[  
-www.italianjobgame.com](http://www.italianjobgame.com/)[  
-www.springbreakgame.net](http://www.springbreakgame.net/)[  
-www.thiefgame.com](http://www.thiefgame.com/)
-
-In the future, if we wish to include additional websites under this Privacy Policy, we will take reasonable steps to list them above and ensure that they provide a link to this Privacy Policy.
-
-Please note that this Privacy Policy applies only to information submitted and collected online through the Eidos Websites (as listed above), and does not apply to information that may be collected by Eidos Interactive offline. In addition, this Privacy Policy does not extend to websites maintained by our international affiliates (e.g., Eidos UK, Eidos France, etc.) or to other companies or organizations to which we link. Because we cannot guarantee that the privacy policies of such sites meet our high standards and the requirements of the ESRB Privacy Online Program, we encourage you to read the privacy policy of the website to which you link before you submit any personal information to that site.
-
-_Please note that by using our Websites, you signify your assent to Eidos Interactive.s Online Privacy Policy. If you do not agree to this Privacy Policy, please do not use our Websites. We reserve the right to make changes to this Privacy Policy. Please check back from time to time to ensure that you are aware of these changes. Your continued use of our Websites will signify your acceptance of these changes.  _
-
-**What types of information does Eidos Interactive collect?  **  
-In order to give you the best experience on our Websites, Eidos Interactive may collect information about you, but only if you voluntarily provide it to us. Typically, we may ask you to submit personal and/or demographic information in connection with any one of the following features or services. 
-
-Website registration   
-Game-specific registration   
-Newsletter subscription  
-Online store  
-Message boards  
-Technical support  
-Contests, sweepstakes, and other promotions  
-Polls, surveys, or questionnaires  
-Other features such as e-cards and tell-a-friend
-
-The types and amount of personal information collected for these activities will vary depending on the activity. The requested personal information may include: your name, home address, telephone number, e-mail address and (for those purchasing products online) credit card information including billing and shipping addresses. For some activities, we may ask you to create a username and password and to provide other non-personal information such as your age or date of birth, gender, game and platform preferences (including information about the games and hardware you own), hobbies and interests, and other information (also known as "demographic information"). If demographic information is collected for an activity that also requires personal information, we may combine the demographic information with your personal information. Combining data allows us to customize the notices we send you and the content we provide you according to your interests and preferences. For more on how we use your information, please read the section on use below.   
-No matter what method we use to collect information and no matter how we use that information, we will only collect the information deemed reasonably necessary to fulfill your online requests and our legitimate business objectives.   
+  1. register for our general and title specific website
+  2. subscribe to our newsletters
+  3. join our message boards and forums
+  4. participate in polls, surveys, and questionnaires
+  5. participate in contests, sweepstakes, or other promotions
+  6. use e-cards, wish lists, and tell-a-friend features
+  7. purchase a product at one of our online stores
+  8. receive customer or technical support
 
 
-**How does Eidos Interactive use the information it collects?**  
-Generally, information that we collect for a particular purpose is used for that purpose only. For example, if you sign up for our newsletter, the email address that you provide will only be used to send you notices about special promotions, new products, or other events of interest and to otherwise keep you updated about our company. Information collected from those who register on our Websites is used to provide registrants the benefits associated with such registration (e.g., free tech support or access to the latest game news and exclusive store promotions). And, of course, any credit card information is used solely to fulfill and process purchase orders. In some instances, however, you may also be given the option to have your information used for an activity or service different from the activity or service that you were meaning to request (e.g., to have your name entered into a contest when subscribing to our newsletter or vice versa). If you choose to participate in these additional activities/services, Eidos Interactive will use your information to provide them to you.  
-We may use your email address to send you service-related announcements that tell you about updates to our Privacy Policy, new areas or features on our Websites, changes to our online service or technical support policies, and other related changes. 
 
-_**A Special Note about our Community Features**_
+Typically, this information includes:
 
-Please note that whenever you give out personal information in public areas such as community forums or bulletin boards, that information can be collected and used by people you don't know. While we strive to protect those who wish to participate in these activities, we cannot guarantee the security of, and are not responsible for, any information posted in these areas.  
-What happens if I refuse to provide my personal information to Eidos Interactive?  
-If you choose not to submit personal information when requested, you may not be able to participate in certain activities on our Websites and may limit the services we can provide you. For example, if you refuse to share your email address, you will not be able to receive our newsletter or otherwise register on our Websites. To simply browse our Websites, however, you do not need to give us any personal information.
+  1. name
+  2. email address
+  3. telephone number
+  4. shipping and billing address, and
+  5. for those purchasing products online, credit card information.
 
-**Does Eidos use cookies, track IP addresses, or use other passive means to collect information?  **
+
+
+Additionally, we may also collect other types of non-personal information (known as demographic information) such as your age or date of birth, gender, hobbies, occupation, platform preferences, and other game ownership and preferences. This demographic information may be associated with your personal information.
+
+**_Information Collected Through Technology_**
+
+We collect information through technology to make our websites more interesting and useful to you. For example, when you come to one of our websites, we collect your IP address. An IP address is often associated with the portal through which you enter the Internet, like your ISP (Internet service provider), your company, or your university. Standing alone, your IP address is not personally identifiable. At times, we also use IP addresses to collect information regarding the frequency with which our guests visit various parts of our websites. We may combine this information with personally identifiable information.
 
 **_Cookies_**
 
-We may use cookies to improve the use and functionality of our Websites. A "cookie" is a small file or record-keeping device that websites often store on a user's computer. Storage of cookies on your system provides an easy and convenient method for us to personalize your experience on our Websites. For example, cookies will remember your username and password and the products in your shopping cart, tell us that you have visited one of our Websites before, and may contain other information that will make your next visit to our Websites more enjoyable. We do not use cookies to collect personal information such as your name or to link your browsing habits to personal information already collected about you. You can always disable cookies or set your browser to alert you when cookies are being sent to your computer.   
-**  
-_IP Addresses_**  
-Eidos Interactive may keep track of Internet Protocol (IP) addresses to maintain website security and safety and to troubleshoot technical problems. An IP address is a number that is used by computers on the network to identify your computer every time you log on to the Internet.  
-**  
-_Log Files_**  
-Eidos Interactive may collect information in the form of logs - files that record website activity and gather statistics about web users' browsing habits. These entries are generated anonymously, and help Eidos Interactive determine (among other things) how many and how often users have visited our Websites, which pages they've visited, and other similar data (a.k.a., navigational data). We also use the log file entries for our internal marketing and demographic studies, so we can constantly improve the online services we provide you. Log files are used internally only, and are not associated with any particular user, computer, or browser.  
-**  
-_Web Beacons_**  
-We may use web beacons (or clear GIFs) on our Websites or include them in the e-mail messages we send you. Web beacons (also known as "web bugs") are small strings of code that provide a method of delivering a graphic image on a web page or in an email message for the purpose of transferring data. We use web beacons for many purposes, including site traffic reporting, unique visitor counts, advertising and email auditing and reporting, and personalization. We do not use web beacons to collect personal information such as your name or to link your browsing habits to personal information already collected about you.
+Our websites also use cookies. Cookies are pieces of information that a Website sends to your computer while you are viewing the Website. We and other companies use cookies for a variety of purposes. For example, when you return to one of our websites after logging in, cookies provide information to the website so that the website will remember who you are. You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You can do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your web experience smoother, like the features mentioned above, and some of our services may not function properly.
 
-**Who is collecting my personal information and is it shared with anyone?**  
-The information that you disclose on the Eidos Websites is collected by Eidos Interactive or by a vendor on Eidos Interactive.s behalf; and, is used in accordance with the practices set forth above. Vendors (or agents) are entities that provide support for the internal operations of our Websites and who only use the information we share with them (or that they collect on our behalf) for purposes of internal fulfillment (e.g., online product fulfillment). Vendors are required to handle such information in accordance with this Privacy Policy.  
-We may disclose personal information in the good faith belief that we are required to do so by law, including but not limited to disclosure to law enforcement or other government officials in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose you or us to legal liability. In addition, in the event of a merger, acquisition, reorganization, bankruptcy, or other similar event, Eidos Interactive.s customer information may be transferred to our successor or assign, if permitted by and done in accordance with applicable law.
+_**Web Beacons**_
 
-We do not sell, rent, or otherwise disclose your personal information to any other third parties.
+Our websites use a variety of technical methods for tracking purposes, including web beacons. Web beacons are small pieces of data that are embedded in images on the pages of websites. We also use these technical methods to analyze the traffic patterns on our websites, such as the frequency with which our users visit various parts of our websites. These technical methods may involve the transmission of information either directly to us or to another party authorized by us to collect information on our behalf. We also use these technical methods in HTML e-mails that we send our guests to determine whether our guests have opened those e-mails or clicked on links in those e-mails. The information from use of these technical methods may be collected in a form that is personally identifiable. 
 
-**Can I choose how my personal information is used?  **  
-If you do not want to receive our newsletter, service related announcements, or any other communications and/or services from Eidos Interactive, please opt-out from these communications or services at the time of registration or information collection. If you have opted-in and, at a later time, wish to opt-out, please contact us using the information provided below.  
-In addition, along with many of the communications sent to you, Eidos Interactive provides you the opportunity to discontinue receiving future communications (i.e., unsubscribe).
+Finally, once you've clicked on an advertisement and have left our Websites, our Privacy Policy no longer applies and you must read the privacy policy of the advertiser to see how your personal information will be handled on their website.
 
-**How can I access my personal information?  **  
-If you wish to review, update, or delete any personal information that we may have collected about you, please contact us using the contact information provided below.
+back to top
 
-**What is Eidos Interactive's policy regarding children under 13?**  
-Generally, Eidos Interactive does not knowingly collect personal information such as name and email address from children under 13 years old (.children.) on the Eidos Websites. However, from time to time, certain registrations on our Websites will allow children to sign up and disclose personal information, provided that Eidos has obtained prior and verifiable consent from the child.s parent or legal guardian (.parent.). To determine who is younger than 13 years old and whether parental consent is required for such registrations, we ask all users who wish to register to submit their date of birth. If a user indicates they are under 13 and the registration involved is available to children under 13, the child is then taken through our parental consent process. 
+**Q3. How is your personally identifiable information used and shared?**
 
-If given verifiable permission from a parent, Eidos Interactive will collect and store some or all of the following types of personal information about the child and his/her parent: child.s name, child.s email address, child.s mailing address, parent's name, and parent.s email address. We may also collect the child.s date of birth and link it to the child's personal information. Eidos will only collect this information if it is voluntarily submitted to us by the child or parent and with the parent.s approval. We do not collect personal information about a child through the use of passive collection mechanisms such as cookies; however, we may link a child.s profile to a cookie so that a parent can come back to our site and view or modify their child.s profile. For more information on how we use cookies and other information collection tools, please see our section on  cookies above.
+We don't share, sell, or rent your personal information to third parties without your consent. We will only collect information to the extent reasonably necessary to fulfill your requests and our legitimate business objectives.
 
-  Once collected, a child's registration information will be used to provide the child the benefits that come along with the particular registration. These benefits typically include a free newsletter, free game play, and (in some instances) a free giveaway. We may also use children.s information for our internal marketing and demographic studies, so we can constantly improve and customize the products and services we provide to our website visitors.
+**_Eidos, Inc. Tools and Updates_**
 
-  Please note that we are prohibited from conditioning a child's participation in an activity - like registration - on the child's disclosure of more personal information than is reasonably necessary to participate in the activity. This means that if we don't need a specific piece of information (like the child's phone number) to allow the child to register, we simply won't ask for it. We also take steps to protect the confidentiality, security, and integrity of children's personal information. To learn more about these steps, please see our section on  security below.
+Information collected from those who voluntarily submit it to us is used to provide services like newsletter subscription, updates on special events, game news, and email announcements of interest to our users. If you register for access to our forums or message boards, we will use your personal information to enable you to view and post messages on the boards. However, you should understand that community forums, blogs, and message boards are tools that allow you to communicate with members of the online community. As such, whenever you give out personal information in public areas, that information can be collected and used by people you don't know.
 
-From time to time, certain portions of the Eidos Websites may allow children under 13 to disclose a limited amount of personal information without first telling us their age or getting their parent.s permission. Such portions of our Websites operate activities or provide services in a way that does not require prior parental consent.
+**_Operational Uses_**
 
-Contact Information   
-Any personal information that a child discloses on our Websites is collected by Eidos Interactive or by a vendor on Eidos Interactive.s behalf. Eidos Interactive.s complete  contact information is available below.
+We may also use your personal information for other purposes such as "Operational Uses." For example, we may use your information to send you administrative communications either about your account with us or about features of our websites, including any future changes to this Privacy Policy.
 
-Disclosure of Children's Personal Information  
-Please read our section titled " Who is collecting my personal information and is it shared with anyone?"  (above) for our policy on the disclosure of personal information collected from children under 13.
+We occasionally use other companies, agents, or contractors to perform services necessary to our operations. For example, we have partnered with other companies for our sales sites both physical product and digital downloads to process sales transactions including the processing of credit cards. We also provide postal addresses to the U.S. Post Office for delivery purposes. In the course of providing such services, these companies may have contact with your personally identifying information. These entities have agreed to securely store and maintain the personal information received from us.
 
-Parental Access  
-A parent who has given Eidos Interactive permission to collect and use their child's personal information for a specific registration can, at any time, do the following: (1) view, modify, or have deleted the child's personal information; (2) discontinue further use or online collection of the child's personal information; and/or, (3) revoke his/her earlier consent to collect and use the child.s personal information. To do so, please visit the appropriate online profile area (provided during the consent process) and we will be happy to honor your request. To revoke your consent, simply deactivate your child.s account using the online profile area. As an alternative, you may contact us using the contact information below. 
+**_Aggregate Information_**
 
-**What safeguards does Eidos Interactive use to protect my personal information? **  
-Eidos Interactive maintains reasonable procedures to protect the confidentiality, security, and integrity of the personal information collected from our website visitors, including children under 13. Personal information collected by Eidos Interactive is stored behind a firewall. We also have security measures in place to protect the loss, misuse, and alteration of the information under our control. For example, before we allow web users to access their personal information or their children's information, we verify their identity by requesting information such as their username and password.
+Finally, we may take your personally identifiable information and make it non-personally identifiable, either by combining it with information about other individuals (aggregating your information with information about other individuals), or by removing characteristics (such as your name) that make the information personally identifiable to you (de-personalizing your information). Given the nature of this information, no restrictions apply under this Privacy Policy on our right to aggregate or de-personalize your personal information, and we may use and share in any way with third parties the resulting non-personally identifiable information.
 
-**How do I ask a question or file a complaint? (Contact Information)**
+**_Business Information_**
 
-If you have any questions, complaints, or comments regarding this Privacy Policy or our information collection practices, please contact our Privacy Policy Administrator at: 
+For practical reasons, we treat personal information submitted to us in a business capacity different from information we receive in a non-business capacity. Personal information submitted to us in a business capacity (e.g. resumes, event sponsorship, etc.) may be shared with third parties, depending on the nature of the inquiry.
 
-Eidos Interactive  
-Attn: Privacy Policy Administrator  
-651 Brannan Street, Suite 400  
-San Francisco, CA 94107  
-[webmaster@eidos.com](mailto:webmaster@eidos.com)  
-(415) 547-1200
+**_Purchase or Sale of Businesses_**
 
-For complaints, you can also contact ESRB Privacy Online directly at [ www.esrb.org](http://www.esrb.com/) or by regular mail at 317 Madison Avenue, 22nd Floor, New York, NY 10017.  
-This Privacy Policy was last updated on **December 23, 2004.**
+From time to time, we may purchase a business or sell one or more of our businesses and your personally identifiable information may be transferred as a part of the purchase or sale. If we purchase a business, the personally identifiable information received with that business would be treated in accordance with this Privacy Policy, if it is practicable and permissible to do so. If we sell a business, we will include provisions in the selling contract requiring the purchaser to treat your personally identifiable information in the same manner required by this Privacy Policy (including any amendments to this Privacy Policy). The provisions of this paragraph will also apply if we are sold as part of bankruptcy proceedings.
 
- ****  
----|---|---|---
+**_Disclosures Required By Law and Disclosures to Help Protect the Security and Safety of Our Websites and Others_**
+
+We will disclose personal information when we believe in good faith that such disclosures (a) are required by law, including, for example, to comply with a court order or subpoena, or (b) will help to: enforce our Terms of Use; enforce contest, sweepstakes, promotions, and/or game rules; protect your safety or security, including the safety and security of property that belongs to you; and/or, protect the safety and security of our websites or third parties.
+
+back to top
+
+**Q4. What choices do you have about the collection, use, and sharing of your personally identifiable information?**
+
+As mentioned above, you have control over the personal information you submit to us. If at any time you decide to remove your personal information from our database, you may do so by emailing us at [privacy@eidos.com](mailto:privacy@eidos.com), or contacting us.
+
+back to top
+
+**Q5. What kinds of security measures do we take to safeguard your personally identifiable information?**
+
+The security and confidentiality of your information is extremely important to us. We have implemented technical, administrative, and physical security measures to protect your personal information from unauthorized access and improper use. From time to time, we review our security procedures to consider appropriate new technology and methods. However, please understand that, despite our best efforts, no security measure is perfect or impenetrable.
+
+back to top
+
+**Q6. How can you update your personal information and profile?**
+
+You can access and update the contact information you gave us during registration (that is, your e-mail address or any other information that would directly enable us to contact you), by accessing your online profile or emailing us at [privacy@eidos.com](mailto:privacy@eidos.com)
+
+back to top
+
+**Q7. How can you ask questions, or send us comments, about this Privacy Policy?**
+
+If you have questions or wish to send us comments about this Privacy Policy, please send us an e-mail us with your questions or comments to call or write us at:
+
+> Eidos, Inc.  
+>  Attn.: Privacy Policy Administrator  
+>  651 Brannan Street, Suite 400  
+>  San Francisco, CA 94107  
+>  (415) 547-1200  
+>  [privacy@eidos.com](mailto:privacy@eidos.com)
+
+Please be assured that any personal information that you provide in communications to the above email and postal mail addresses will not be used to send you promotional materials, unless you request it.
+
+Eidos, Inc. is a licensee of the ESRB’s Privacy Online Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB at
+
+> ESRB  
+>  Attn.: Privacy Online Program  
+>  317 Madison Avenue, 22nd Floor  
+>  New York, NY 10017  
+>  212-759-0700  
+>  [privacy@esrb.org](mailto:privacy@esrb.org)
+
+back to top
+
+**Q8. How will you know if we amend this Privacy Policy?**
+
+We may amend this Privacy Policy at any time. If we make any material changes in the way we collect, use, or share your personal information, we will notify you by sending you an email at the last email address that you provided us, or by prominently posting notice of the changes on the websites covered by this Privacy Policy. Any material changes to this Privacy Policy will be effective 30 days following our dispatch of an email notice to you or 30 days following our posting of notice of the changes on the Websites covered by this Privacy Policy.
+
+Please note that, at all times, you are responsible for updating your personal information to provide us your current email address. If the last email address that you have provided us is not valid, or for any other reason is not capable of delivering to you the notice described above, our dispatch of the email containing such notice will nonetheless constitute effective notice of the changes described in the notice.
+
+back to top
