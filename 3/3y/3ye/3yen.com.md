@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 3yen.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221121730id_/http%3A//www.3yen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3yen.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615023125id_/http%3A//www.3yen.com/privacy) for the most accurate reproduction.*
 
-# 3Yen.com - Japan Info
+# News on Japan - Privacy Policy
 
-**PRIVACY POLICY**
+PRIVACY POLICY
 
 Your privacy is important to us. This notice explains our online information practices and the choices you can make about the way your information is collected and used. This notice is available on our homepage.
 
@@ -32,7 +32,7 @@ All online credit card transactions are performed only on secure servers through
 
 We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information.
 
-3Yen.com reserves the right to reveal registration information pursuant to a valid subpoena or court order. We reserve the right to use or share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of 3Yen.com's terms of use, or as otherwise required by law.
+3Yen.com reserves the right to reveal registration information pursuant to a valid subpoena or court order. We reserve the right to use or share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of 3Yen.com’s terms of use, or as otherwise required by law.
 
 We will transfer information about you if 3Yen.com is acquired by or merged with another company. In this event, we will notify you before information about you is transferred and becomes subject to a different privacy policy.
 
