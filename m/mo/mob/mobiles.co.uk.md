@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mobiles.co.uk privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231191111id_/http%3A//www.mobiles.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobiles.co.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615153753id_/http%3A//mobiles.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # Orange Mobile Phones 01923-804444 Mobiles.co.uk - Privacy Statement - Mobiles.co.uk 0870 0804444
-
-Merry Christmas & Happy New Year: We'd like to thank all our customers, old and new, a very Merry Christmas & a Happy New Year and a huge thank you for making 2005 yet another record breaking year for Mobiles.co.uk. 
 
 ## Mobiles.co.uk
 
@@ -41,4 +39,4 @@ The information we hold will be accurate and up to date. You can check the infor
 > 
 > If you have any questions about privacy, please e-mail [Ben Godber](mailto:ben.godber@mobiles.co.uk?subject=Privacy%20Policy). 
 
-[ Last updated on 31 Dec 2005 ]
+[ Last updated on 15 Jun 2006 ]
