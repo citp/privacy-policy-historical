@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activewin.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212145350id_/http%3A//www.activewin.com/terms/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activewin.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615202244id_/http%3A//www.activewin.com/terms/privacy.shtml) for the most accurate reproduction.*
 
 # ActiveWin: Privacy Policy
 
@@ -164,27 +164,21 @@ Drivers
   
 ** Latest Reviews**  
   
-**Games**  
+**Xbox/Games**  
   
-Halo (PC)  
+Football Manager 2006   
   
-**Xbox**  
-  
-Mafia   
-  
-Rainbow 6: 3  
+Top Spin 2  
   
 **Applications**  
   
-JBuilder X Enterprise Edition  
-  
-Office 2003  
+Vista Feb CTP  
   
 **Hardware**  
   
-AMD Athlon 64 4000+  
+ATI X1900 Graphics  
   
-Microsoft Fingerprint Reader  
+Xbox 360  
   
 ** Latest Interviews**  
   
@@ -197,8 +191,6 @@ Jim Allchin
 About This Site  
   
 Affiliates  
-  
-ANet Forums  
   
 Contact Us  
   
@@ -217,7 +209,7 @@ Site Search
 Awards  
   
 ** Credits**  
-©1997/2005, Active Network, Inc. All Rights Reserved.  
+©1997/2006, Active Network, Inc. All Rights Reserved.  
 Layout, & Design by Byron Hinson. Content written by the Active Network team. Please click [here](http://www.activewin.com/terms/index.shtml) for full terms of use and restrictions or read our [Privacy Statement](http://www.activewin.com/terms/privacy.shtml).  
   
 [ ](http://www.amazon.com/exec/obidos/redirect-home/activedvd-20)
