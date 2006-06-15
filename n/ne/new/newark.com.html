@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the newark.com privacy policy that was archived on 2005-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051221084917id_/http%3A//www.newark.com/NewarkWebCommerce/newark/en_US/support/help/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the newark.com privacy policy that was archived on 2006-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060616004231id_/http%3A//www.newark.com/NewarkWebCommerce/newark/en_US/support/help/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 	<title>Privacy Policy and Terms of Use - Newark InOne</title>
@@ -18,7 +18,10 @@
 		
 
 
- 
+
+
+
+
 
 
 
@@ -63,14 +66,14 @@
 
 <script type="text/javascript"><!--//--><![CDATA[//><!--
 
-// recursively scans the node for TDs and LIs; if those nodes contain a UL, the node's 
-// mouseover function is set to make the UL a dropdown menu. 
+// recursively scans the node for TDs and LIs; if those nodes contain a UL, the node's
+// mouseover function is set to make the UL a dropdown menu.
 //
 // current limitations:
 //   only the first UL inside a node is considered a mouseover
 //   ULs intended as popups must be a direct descendant of a TD or LI
 //   recursively traverses the given node, so I'm not expecting an overly complex
-//      structure here -- not sure what the processing effects would be if the 
+//      structure here -- not sure what the processing effects would be if the
 //      root structure contains a lot of nodes
 
 check = 0;
@@ -83,29 +86,48 @@ function nwk_setNodeMouseovers(nodelist, ref) {
 
 		// ignore the "topnav-nolink" class
 		if (nodelist[i].className != "topnav-nolink") {
-			
+
 			nodelist[i].onmouseover = function() {
 				this.className += " hover";
 				// if this item contains a UL, turn on its hover style as well (take the first only; there should be only one anyway)
 				if (this.getElementsByTagName("UL").length > 0)
 					this.getElementsByTagName("UL")[0].className += " hover"; // this part picks the first UL
+
+//				menus_active++;
+//				if (menus_active == 1) select_elements_visibility('hidden');
 			}
-			
-	
+
+
 			nodelist[i].onmouseout = function() {
 				this.className=this.className.replace(" hover", "");
 				// if this item contains a UL, turn off its hover style as well (take the first only)
 				if (this.getElementsByTagName("UL").length > 0)
-					this.getElementsByTagName("UL")[0].className = this.getElementsByTagName("UL")[0].className.replace(" hover", ""); 
+					this.getElementsByTagName("UL")[0].className = this.getElementsByTagName("UL")[0].className.replace(" hover", "");
+//				menus_active--;
+//				if (menus_active == 0) select_elements_visibility('visible');
+
 			}
-			
-			// if this node contains a UL, also check each of its LIs	
+
+			// if this node contains a UL, also check each of its LIs
 			if (nodelist[i].getElementsByTagName("UL").length > 0)
 				nwk_setNodeMouseovers(nodelist[i].getElementsByTagName("UL")[0].getElementsByTagName("LI"), ref+1);
-				
+
 		}
 	}
 }
+
+// for IE: makes select form elements hidden when menus are active, due to the ugly overlap effect
+// but ignore class "menu-ignore" (for the int'l dropdown in this header)
+// currently disabled in functions above
+function select_elements_visibility(vis) {
+	select_objects = document.getElementsByTagName("SELECT");
+	for (var i=0; i < select_objects.length; i++) {
+		if (select_objects[i].className != "menu-ignore") {
+			select_objects[i].style.visibility = vis;
+		}
+	}
+}
+
 
 IEInitMenus = function() {
 	if (document.all&&document.getElementById) { //it's IE
@@ -114,26 +136,27 @@ IEInitMenus = function() {
 		}
 	}
 
+var menus_active = 0;
 window.onload = IEInitMenus;
 
 //--><!]]></script>
 
 	<div id="topbanner-holder">
-	
+
 		<div id="topbanner-searchbox">
 		<form name="quicksearch_topnav" action="/NewarkWebCommerce/newark/en_US/endecaSearch/redirectPage.jsp" method="GET" onsubmit="return search_form_check(this);">
-			Search by: 		
-			
+			Search by:
+
 		 	<input type="hidden" value="gensearch" name="Ntk">
 			<input type="hidden" value="1" name="Nty">
 			<input type="hidden" name="N" value="1000123">
-			
+
 			<input type="radio" name="searchtype" value="mfg" checked=""> Part Number &nbsp; <input type="radio" name="searchtype" value="keyword"> Keyword
 			<br>
 			
 			<input type="text" name="Ntt" maxlength="255" size="35" class="topbanner-textfield" value="">  &nbsp; <input type="submit" value=" FIND " class="topbanner-submit">
 			<br>
-			<a href="/NewarkWebCommerce/newark/en_US/endecaSearch/advancedSearch.jsp" class="top-adv-link">Advanced Search</a>
+			<a href="/NewarkWebCommerce/newark/en_US/endecaSearch/advancedSearch.jsp" class="top-adv-link">Advanced Search</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.newark.com/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp;?&amp;Ne=600&amp;N=601" class="top-adv-link">View all RoHS compliant items</a>
 		</form>
 		</div>
 
@@ -142,39 +165,44 @@ window.onload = IEInitMenus;
 		set_search_form_searchtype(document.quicksearch_topnav,search_form_searchtype_default());
 		</script>
 
-	
-		<a href="/NewarkWebCommerce/newark/en_US/content/index.jsp;jsessionid=TNIS4L2IVOXTOCXDUY0CFFYK2OTCIIV1"><img src="http://www.newark.com/images/topnav_logo.gif" width="135" height="55" border="0" alt="Newark InOne" style="position:absolute;top:6px;left:26px;"></a>
-	
+
+		<a href="/NewarkWebCommerce/newark/en_US/content/index.jsp;jsessionid=0M51L2TQYBCKSCXDUY2SFGAK2OTCIIV1"><img src="http://www.newark.com/images/topnav_logo.gif" width="135" height="55" border="0" alt="Newark InOne" style="position:absolute;top:6px;left:26px;"></a>
+
 		<span id="topbanner-linksbox">
 			<img src="http://www.newark.com/images/topnav_slant.gif" width="24" height="24" align="middle">
-			
+
 			 	
 				
 				
-									
+				
 			 	
 				
-							
-					<a href="/NewarkWebCommerce/newark/en_US/support/login/login.jsp;jsessionid=TNIS4L2IVOXTOCXDUY0CFFYK2OTCIIV1">Login</a> | 
 				
-									
+					<a href="/NewarkWebCommerce/newark/en_US/support/login/login.jsp;jsessionid=0M51L2TQYBCKSCXDUY2SFGAK2OTCIIV1">Login</a> |
+				
+				
 			
-			<a href="/NewarkWebCommerce/newark/en_US/support/registration/register.jsp">Register</a> | 
+			<a href="/NewarkWebCommerce/newark/en_US/support/registration/register.jsp">Register</a> |
 			<a href="/NewarkWebCommerce/newark/en_US/support/login/loginSuccess.jsp">My Account</a> |
 			<a href="/NewarkWebCommerce/newark/en_US/support/checkout/shoppingCart.jsp">Shopping Cart</a>
 		</span>
-		
-	
+
+
 	</div>
-	
+
 	<div id="topnav-holder">
-	
+
 	<table cellpadding="0" cellspacing="0" border="0" style="background-color:#99cc33;position:absolute;margin:4px 0px 0px 235px;">
 	<tbody><tr id="topnavRow">
-		<td><a href="/NewarkWebCommerce/newark/en_US/content/index.jsp;jsessionid=TNIS4L2IVOXTOCXDUY0CFFYK2OTCIIV1">Home</a></td>
-		
+
+	
+
+		<td><a href="/NewarkWebCommerce/newark/en_US/content/index.jsp;jsessionid=0M51L2TQYBCKSCXDUY2SFGAK2OTCIIV1">Home</a></td>
+
+	
+
 		<td class="topnav-nolink">|</td>
-		
+
 		<td>
 		<a href="#">Products</a>
 			<ul>
@@ -191,22 +219,21 @@ window.onload = IEInitMenus;
 				<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp">All Categories</a></li>
 			</ul>
 		</td>
-		
+
 		<td class="topnav-nolink">|</td>
-		
+
 		<td>
 		<a href="#">Services</a>
-	
+
 		<ul>
 			<li><a href="/services/rohs/index.html">RoHS Express</a></li>
 			<li><a href="/services/TimesavingServices.html">Timesaving Services</a></li>
-			<li><a href="/services/fedgov/">Federal Government <img class="topnav-arrow" alt=">" src="http://www.newark.com/images/topnav_arrow.gif"></a> 
+			<li><a href="/services/fedgov/">Federal Government <img class="topnav-arrow" alt=">" src="http://www.newark.com/images/topnav_arrow.gif"></a>
 				<ul>
 					<li><a href="/services/fedgov/easy_ordering.html">Ordering Options </a></li>
 					<li><a href="/services/fedgov/easy_e_commerce.html">eCommerce</a></li>
 					<li><a href="/services/fedgov/gsa_approved.html">GSA Contract Terms </a></li>
-					<li><a href="/services/fedgov/contact_us.html">Contact Team Gov </a></li>
-				</ul>	
+				</ul>
 			</li>
 			<li><a href="/services/design/">Design Engineer</a></li>
 			<li><a href="/services/eprocurement/">eProcurement <img class="topnav-arrow" alt=">" src="http://www.newark.com/images/topnav_arrow.gif"></a>
@@ -216,26 +243,27 @@ window.onload = IEInitMenus;
 					<li><a href="/services/eprocurement/partner.html">Partnerships</a></li>
 					<li><a href="/services/eprocurement/faq.html">FAQ</a></li>
 					<li><a href="/services/eprocurement/news.html">News &amp; Events</a></li>
-				</ul>	
+				</ul>
 			</li>
 			<li><a href="/services/nios/">Calibration</a></li>
 			<li><a href="/services/nios/panel_meters.html">Panel Meters</a></li>
 
 		</ul></td>
-		
+
 		<td class="topnav-nolink">|</td>
-		
+
 		<td>
 		<a href="#">Order</a>
 		<ul>
 			<li><a href="/NewarkWebCommerce/newark/en_US/support/checkout/shoppingCart.jsp">Shopping Cart</a></li>
 			<li><a href="/NewarkWebCommerce/newark/en_US/support/checkout/buyBulk.jsp">Bulk Order Form</a></li>
 			<li><a href="/order/bom.html">Submit BOM</a></li>
+			<li><a href="/NewarkWebCommerce/newark/en_US/support/checkout/billOfMaterials.jsp">Web BOM</a></li>
 		</ul>
 		</td>
-		
+
 		<td class="topnav-nolink">|</td>
-		
+
 		<td>
 		<a href="#">About</a>
 		<ul>
@@ -249,14 +277,14 @@ window.onload = IEInitMenus;
 			<li><a href="http://newark.kenexa.com/newarkv36/external/" target_blank="">Careers</a></li>
 		</ul>
 		</td>
-		
+
 		<td class="topnav-nolink">|</td>
-		
+
 		<td>
 		<a href="#">Contact</a>
 		<ul>
 			<li><a href="/custsrv/contact.html">Contact Information</a></li>
-			<li><a href="/custsrv/addressmanager.html">Address Manager</a></li>
+			<li><a href="/NewarkWebCommerce/newark/en_US/support/profile/addressManagerUpdate.jsp">Address Manager</a></li>
 			<li><a href="/custsrv/locations.html">US Sales Offices</a></li>
 			<li><a href="/custsrv/nwkintl.html">Worldwide Sales Offices</a></li>
 			<li><a href="/custsrv/sendmail.html">Submit a Question</a></li>
@@ -271,9 +299,9 @@ window.onload = IEInitMenus;
 		    </li>
 		</ul>
 		</td>
-		
+
 		<td class="topnav-nolink">|</td>
-		
+
 		<td>
 		<a href="/NewarkWebCommerce/newark/en_US/support/help/">Help</a>
 		<ul>
@@ -285,40 +313,46 @@ window.onload = IEInitMenus;
 			<li><a href="/NewarkWebCommerce/newark/en_US/support/help/billing.jsp">Billing</a></li>
 			<li><a href="/NewarkWebCommerce/newark/en_US/support/help/shipping.jsp">Shipping</a></li>
 			<li><a href="/NewarkWebCommerce/newark/en_US/support/help/security.jsp">Security</a></li>
-		
-		</ul>		
-		
+
+		</ul>
+
 		</td>
 		<td class="topnav-nolink">|</td>
-		
+
 		<td>
 		<a href="null" target="chat70921224" onclick="window.open('https://server.iad.liveperson.net/hc/70921224/?cmd=file&amp;file=visitorWantsToChat&amp;site=70921224&amp;referrer='+document.location,'chat70921224','width=472,height=320');return false;">Live Technical Support</a>
-		</td>	
-		
+		</td>
+
 	</tr>
 	</tbody></table>
 
 
 	<div id="int-dropdown" style="position:absolute;margin:2px 0px 0px 42px">
-	
+
 	<form>
-	
-	<select name="int_dropdown" style="width:160px;font-size:7pt;" onchange="if (this[this.selectedIndex].value != '') {document.location = this[this.selectedIndex].value; this.selectedIndex = 0;}">
+
+	<select name="int_dropdown" style="width:160px;font-size:7pt;" class="menu-ignore" onchange="if (this[this.selectedIndex].value != '') {document.location = this[this.selectedIndex].value; this.selectedIndex = 0;}">
 	        <option value="">International Sites</option>
-	        <option value="/NewarkWebCommerce/newark/en_US/content/index.jsp">United States</option>
-			<option value="http://canada.newark.com/">Canada</option>						
+			<option value="http://www.farnell-newarkinone.com.br/">Brazil</option>
+			<option value="http://canada.newark.com/">Canada</option>
 			<option value="http://mexico.newark.com/">Mexico</option>
-			<option value="http://www.farnell-newarkinone.com.br/">Brazil</option>	        
-			<option value="http://mcm.newark.com/">MCM, an InOne Company </option>
+	        <option value="/NewarkWebCommerce/newark/en_US/content/index.jsp">United States</option>
+			<option value="">----------------------------</option>
+			<option value="http://www.farnell-newarkinone.com/distributors/china.htm">China</option>
+			<option value="http://hk.farnell.com/">Hong Kong</option>
+			<option value="http://my.farnell.com/">Malaysia</option>
+			<option value="http://sg.farnell.com/">Singapore</option>
+			<option value="http://www.farnell-newarkinone.com/">Rest of Asia</option>
+			<option value="">----------------------------</option>
 			<option value="http://uk.farnell.com/jsp/home/homepage.jsp">Farnell InOne</option>
-			<option value="http://www.premierfarnell.com/">Premier Farnell</option>										
+			<option value="http://www.mcminone.com/">MCM, an InOne Company </option>
+			<option value="http://www.premierfarnell.com/">Premier Farnell</option>
 	</select>
 	</form>
-		
 	</div>
-	
-	<img src="http://www.newark.com/images/topnav_flag.gif" width="30" height="19" alt="US" style="position:absolute;margin:2px 0px 0px 6px"> 
-	
+
+	<img src="http://www.newark.com/images/topnav_flag.gif" width="30" height="19" alt="US" style="position:absolute;margin:2px 0px 0px 6px">
+
 
 	</div>
 
@@ -333,12 +367,15 @@ window.onload = IEInitMenus;
 <table width="760" cellpadding="0" cellspacing="0" border="0">
 <tbody><tr valign="top">
 	<td>
+
 <!-- leftnav -->
 
 
 
 
- 
+
+
+
 
 <script language="Javascript">
 function leftnav_toggleVis(id_of_obj)
@@ -353,12 +390,12 @@ function leftnav_toggleVis(id_of_obj)
 		{
 		obj.style.display = "block";
 		document[id_of_obj + '-arrow'].src = "http://www.newark.com/images/leftnav-arrowdown.gif";
-		
+
 		}
-		
+
 	}
-	
-	
+
+
 </script>
 
 <div id="leftnav">
@@ -368,7 +405,7 @@ function leftnav_toggleVis(id_of_obj)
 </div>
 
 <div class="lev0block">
-<span class="lev0link-arrows">»</span> <a href="/products/mfr/list.html" class="lev0link-ul">View Manufacturer List</a>
+<span class="lev0link-arrows">»</span> <a href="/NewarkWebCommerce/newark/en_US/mfr/index.jsp" class="lev0link-ul">View Manufacturer List</a>
 </div>
 <div class="lev0block">
 <span class="lev0link-arrows">»</span> <a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp" class="lev0link-ul">View All Product Categories</a>
@@ -377,380 +414,154 @@ function leftnav_toggleVis(id_of_obj)
 
 
 
+			<div class="lev0block"><a href="#" onclick="leftnav_toggleVis('list11');return false;" class="arrow"><img name="list11-arrow" src="http://www.newark.com/images/leftnav-arrowright.gif" width="10" height="16" border="0"></a><a href="#" onclick="leftnav_toggleVis('list11');return false;" class="lev0link"><b>Semiconductors &amp; Prototyping</b></a></div><div style="width:150px;"><ul id="list11" style="ul-style"><li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1002435" class="lev0link">Analog and Mixed Signal ICs</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1002437" class="lev0link">Clock and Timing Management ICs</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000181" class="lev0link">Discretes</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1002436" class="lev0link">Interface and I/O Controller ICs</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1002440" class="lev0link">LED/LCD Display and Video Controller ICs</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1001817" class="lev0link">Logic, Programmable</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1002439" class="lev0link">Logic, Standard</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000209" class="lev0link">Memory</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000191" class="lev0link">Microcontrollers</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1002438" class="lev0link">Microprocessors and DSPs</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000208" class="lev0link">Power Management ICs</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000184" class="lev0link">Prototyping Boards</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1002515" class="lev0link">RF ICs</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000180" class="lev0link">Semiconductor Design Kits &amp; Development Tools</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000182" class="lev0link">Semiconductor Heatsinks &amp; Accessories</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000214" class="lev0link">Special Function Circuits</a></li>
+</ul></div>
 
-
-<div class="lev0block">
-<a href="#" onclick="leftnav_toggleVis('list11');return false;" class="arrow"><img name="list11-arrow" src="http://www.newark.com/images/leftnav-arrowright.gif" width="10" height="16" border="0"></a>
-<a href="#" onclick="leftnav_toggleVis('list11');return false;" class="lev0link-no-ul">
-	<b>
-		Semiconductors &amp; Prototyping
-	</b>
-</a>
-</div>
-
-<div style="width:150px;">
-<ul id="list11" style="ul-style">
-<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000180" class="lev0link">Design Kits and Accessories</a></li>
-<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000181" class="lev0link">Discrete Semis</a></li>
-<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000186" class="lev0link">Electron Tubes</a></li>
-<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000182" class="lev0link">Heatsinks and Accessories</a></li>
-<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000014" class="lev0link">Show All</a></li>
-
-				
-</ul>
-</div>
-
-
-
-
-<div class="lev0block">
-<a href="#" onclick="leftnav_toggleVis('list8');return false;" class="arrow"><img name="list8-arrow" src="http://www.newark.com/images/leftnav-arrowright.gif" width="10" height="16" border="0"></a>
-
-<a href="#" onclick="leftnav_toggleVis('list8');return false;" class="lev0link-no-ul">
-	<b>
-		Passives
-	</b>
-</a>
-</div>
-
-<div style="width:150px;">
-<ul id="list8" style="ul-style">
-<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000126" class="lev0link">Capacitors</a></li>
+			<div class="lev0block"><a href="#" onclick="leftnav_toggleVis('list8');return false;" class="arrow"><img name="list8-arrow" src="http://www.newark.com/images/leftnav-arrowright.gif" width="10" height="16" border="0"></a><a href="#" onclick="leftnav_toggleVis('list8');return false;" class="lev0link"><b>Passives</b></a></div><div style="width:150px;"><ul id="list8" style="ul-style"><li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000126" class="lev0link">Capacitors</a></li>
 <li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000176" class="lev0link">Crystals/Oscillators/<br> Resonators</a></li>
-
 <li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1001758" class="lev0link">Ferrites</a></li>
 <li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000230" class="lev0link">Filters</a></li>
-<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000012" class="lev0link">Show All</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000128" class="lev0link">Inductors, Chokes, Coils</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000129" class="lev0link">Other</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000130" class="lev0link">Potentiometers</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000131" class="lev0link">Resistors</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000132" class="lev0link">Switch Encoders</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000177" class="lev0link">Thermistors</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1001933" class="lev0link">Transducers/Signal Devices</a></li>
+</ul></div>
 
-				
-</ul>
-</div>
-
-
-
-
-<div class="lev0block">
-<a href="#" onclick="leftnav_toggleVis('list4');return false;" class="arrow"><img name="list4-arrow" src="http://www.newark.com/images/leftnav-arrowright.gif" width="10" height="16" border="0"></a>
-<a href="#" onclick="leftnav_toggleVis('list4');return false;" class="lev0link-no-ul">
-	<b>
-		Interconnect  Products, Wire &amp; Cable
-	</b>
-</a>
-</div>
-
-<div style="width:150px;">
-<ul id="list4" style="ul-style">
-<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000068" class="lev0link">Cable &amp; Wire</a></li>
+			<div class="lev0block"><a href="#" onclick="leftnav_toggleVis('list4');return false;" class="arrow"><img name="list4-arrow" src="http://www.newark.com/images/leftnav-arrowright.gif" width="10" height="16" border="0"></a><a href="#" onclick="leftnav_toggleVis('list4');return false;" class="lev0link"><b>Interconnect  Products, Wire &amp; Cable</b></a></div><div style="width:150px;"><ul id="list4" style="ul-style"><li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000068" class="lev0link">Cable &amp; Wire</a></li>
 <li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000069" class="lev0link">Cable Assemblies</a></li>
 <li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000070" class="lev0link">Connectors and Accessories</a></li>
 <li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000071" class="lev0link">Fiber Optic Products</a></li>
+</ul></div>
 
-				
-</ul>
-</div>
-
-
-
-
-<div class="lev0block">
-<a href="#" onclick="leftnav_toggleVis('list6');return false;" class="arrow"><img name="list6-arrow" src="http://www.newark.com/images/leftnav-arrowright.gif" width="10" height="16" border="0"></a>
-<a href="#" onclick="leftnav_toggleVis('list6');return false;" class="lev0link-no-ul">
-	<b>
-		Optoelectronics, Lamps &amp; Displays
-	</b>
-</a>
-</div>
-
-<div style="width:150px;">
-<ul id="list6" style="ul-style">
-<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1002254" class="lev0link">Bar Graphs, LED</a></li>
-
+			<div class="lev0block"><a href="#" onclick="leftnav_toggleVis('list6');return false;" class="arrow"><img name="list6-arrow" src="http://www.newark.com/images/leftnav-arrowright.gif" width="10" height="16" border="0"></a><a href="#" onclick="leftnav_toggleVis('list6');return false;" class="lev0link"><b>Optoelectronics, Lamps &amp; Displays</b></a></div><div style="width:150px;"><ul id="list6" style="ul-style"><li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1002254" class="lev0link">Bar Graphs, LED</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1002483" class="lev0link">Infrared Emitters</a></li>
 <li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1001932" class="lev0link">Lamp Sockets</a></li>
-<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1002035" class="lev0link">Lamps, Argon</a></li>
-<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000109" class="lev0link">Lamps, Filament</a></li>
-<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000010" class="lev0link">Show All</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1002417" class="lev0link">Lamps</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000110" class="lev0link">Laser Diodes</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000111" class="lev0link">LED Segment Displays</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000112" class="lev0link">LEDs</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000113" class="lev0link">Light Pipes</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1002033" class="lev0link">Opto Transceivers</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000114" class="lev0link">Optocouplers</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000108" class="lev0link">Other</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1002030" class="lev0link">Visual Signal Lights</a></li>
+</ul></div>
 
-				
-</ul>
-</div>
-
-
-
-
-<div class="lev0block">
-<a href="#" onclick="leftnav_toggleVis('list1');return false;" class="arrow"><img name="list1-arrow" src="http://www.newark.com/images/leftnav-arrowright.gif" width="10" height="16" border="0"></a>
-<a href="#" onclick="leftnav_toggleVis('list1');return false;" class="lev0link-no-ul">
-	<b>
-		Electrical &amp; Circuit Protection
-	</b>
-</a>
-</div>
-
-<div style="width:150px;">
-
-<ul id="list1" style="ul-style">
-<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000017" class="lev0link">Circuit Breakers</a></li>
+			<div class="lev0block"><a href="#" onclick="leftnav_toggleVis('list1');return false;" class="arrow"><img name="list1-arrow" src="http://www.newark.com/images/leftnav-arrowright.gif" width="10" height="16" border="0"></a><a href="#" onclick="leftnav_toggleVis('list1');return false;" class="lev0link"><b>Electrical &amp; Circuit Protection</b></a></div><div style="width:150px;"><ul id="list1" style="ul-style"><li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000017" class="lev0link">Circuit Breakers</a></li>
 <li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1001753" class="lev0link">Circuit Interrupters</a></li>
 <li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1001752" class="lev0link">Conduit &amp; Fittings</a></li>
 <li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000018" class="lev0link">Fuses &amp; Accessories</a></li>
-<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000008" class="lev0link">Show All</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000019" class="lev0link">Miscellaneous Electrical</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1001773" class="lev0link">Raceway, Duct &amp; Fittings</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1001774" class="lev0link">Socket Outlet Strips</a></li>
+</ul></div>
 
-				
-</ul>
-</div>
-
-
-
-
-<div class="lev0block">
-<a href="#" onclick="leftnav_toggleVis('list9');return false;" class="arrow"><img name="list9-arrow" src="http://www.newark.com/images/leftnav-arrowright.gif" width="10" height="16" border="0"></a>
-<a href="#" onclick="leftnav_toggleVis('list9');return false;" class="lev0link-no-ul">
-
-	<b>
-		Power Products
-	</b>
-</a>
-</div>
-
-<div style="width:150px;">
-<ul id="list9" style="ul-style">
-<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000153" class="lev0link">Batteries &amp; Accessories</a></li>
+			<div class="lev0block"><a href="#" onclick="leftnav_toggleVis('list9');return false;" class="arrow"><img name="list9-arrow" src="http://www.newark.com/images/leftnav-arrowright.gif" width="10" height="16" border="0"></a><a href="#" onclick="leftnav_toggleVis('list9');return false;" class="lev0link"><b>Power Products</b></a></div><div style="width:150px;"><ul id="list9" style="ul-style"><li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000153" class="lev0link">Batteries &amp; Accessories</a></li>
 <li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000154" class="lev0link">Power Supplies</a></li>
 <li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1001785" class="lev0link">Surge Protection</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000156" class="lev0link">Transformers</a></li>
+</ul></div>
 
-<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000155" class="lev0link">Transformers</a></li>
-
-				
-</ul>
-</div>
-
-
-
-
-<div class="lev0block">
-<a href="#" onclick="leftnav_toggleVis('list2');return false;" class="arrow"><img name="list2-arrow" src="http://www.newark.com/images/leftnav-arrowright.gif" width="10" height="16" border="0"></a>
-<a href="#" onclick="leftnav_toggleVis('list2');return false;" class="lev0link-no-ul">
-	<b>
-		Electromechanical &amp; Industrial Control
-	</b>
-</a>
-</div>
-
-<div style="width:150px;">
-
-<ul id="list2" style="ul-style">
-<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1001989" class="lev0link">Controllers</a></li>
+			<div class="lev0block"><a href="#" onclick="leftnav_toggleVis('list2');return false;" class="arrow"><img name="list2-arrow" src="http://www.newark.com/images/leftnav-arrowright.gif" width="10" height="16" border="0"></a><a href="#" onclick="leftnav_toggleVis('list2');return false;" class="lev0link"><b>Electromechanical &amp; Industrial Control</b></a></div><div style="width:150px;"><ul id="list2" style="ul-style"><li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1001989" class="lev0link">Controllers</a></li>
 <li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000026" class="lev0link">Fans &amp; Accessories</a></li>
 <li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000027" class="lev0link">Knobs &amp; Dials</a></li>
 <li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1002256" class="lev0link">Light Curtains</a></li>
-<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000005" class="lev0link">Show All</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1001994" class="lev0link">Motors</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000006" class="lev0link">Panel Displays</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000029" class="lev0link">Relays &amp; Accessories</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000030" class="lev0link">Sensors</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000232" class="lev0link">Signal Conditioning</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000031" class="lev0link">Solenoids</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000032" class="lev0link">Switches</a></li>
+</ul></div>
 
-				
-</ul>
-</div>
-
-
-
-
-<div class="lev0block">
-<a href="#" onclick="leftnav_toggleVis('list15');return false;" class="arrow"><img name="list15-arrow" src="http://www.newark.com/images/leftnav-arrowright.gif" width="10" height="16" border="0"></a>
-<a href="#" onclick="leftnav_toggleVis('list15');return false;" class="lev0link-no-ul">
-	<b>
-		Tools &amp; Production Supplies
-	</b>
-
-</a>
-</div>
-
-<div style="width:150px;">
-<ul id="list15" style="ul-style">
-<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1002308" class="lev0link">Abrasives</a></li>
+			<div class="lev0block"><a href="#" onclick="leftnav_toggleVis('list14');return false;" class="arrow"><img name="list14-arrow" src="http://www.newark.com/images/leftnav-arrowright.gif" width="10" height="16" border="0"></a><a href="#" onclick="leftnav_toggleVis('list14');return false;" class="lev0link"><b>Tools &amp; Production Supplies</b></a></div><div style="width:150px;"><ul id="list14" style="ul-style"><li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1002308" class="lev0link">Abrasives</a></li>
 <li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000217" class="lev0link">Chemicals</a></li>
 <li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1002375" class="lev0link">DIN Mounting Rail</a></li>
 <li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000218" class="lev0link">Engineering Materials</a></li>
-<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000016" class="lev0link">Show All</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1002376" class="lev0link">Gaskets</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000219" class="lev0link">Hardware &amp; Fasteners</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1002309" class="lev0link">Materials handling</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1002377" class="lev0link">Mounting Brackets</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000220" class="lev0link">Other</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1002041" class="lev0link">Solder &amp; Fluxes</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1002079" class="lev0link">Static Protection Products</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1002044" class="lev0link">Tape</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1002055" class="lev0link">Tools</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1002380" class="lev0link">Trucks &amp; Utility Carts</a></li>
+</ul></div>
 
-				
-
-</ul>
-</div>
-
-
-
-
-<div class="lev0block">
-<a href="#" onclick="leftnav_toggleVis('list14');return false;" class="arrow"><img name="list14-arrow" src="http://www.newark.com/images/leftnav-arrowright.gif" width="10" height="16" border="0"></a>
-
-<a href="#" onclick="leftnav_toggleVis('list14');return false;" class="lev0link-no-ul">
-	<b>
-		Test &amp; Measurement Equipment
-	</b>
-</a>
-</div>
-
-<div style="width:150px;">
-<ul id="list14" style="ul-style">
-<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1001742" class="lev0link">Laboratory Equipment</a></li>
+			<div class="lev0block"><a href="#" onclick="leftnav_toggleVis('list13');return false;" class="arrow"><img name="list13-arrow" src="http://www.newark.com/images/leftnav-arrowright.gif" width="10" height="16" border="0"></a><a href="#" onclick="leftnav_toggleVis('list13');return false;" class="lev0link"><b>Test &amp; Measurement Equipment</b></a></div><div style="width:150px;"><ul id="list13" style="ul-style"><li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1001742" class="lev0link">Laboratory Equipment</a></li>
 <li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1001683" class="lev0link">Measuring Instruments</a></li>
 <li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1001682" class="lev0link">Test Equipment</a></li>
+</ul></div>
 
-				
-</ul>
-</div>
-
-
-
-
-<div class="lev0block">
-<a href="#" onclick="leftnav_toggleVis('list3');return false;" class="arrow"><img name="list3-arrow" src="http://www.newark.com/images/leftnav-arrowright.gif" width="10" height="16" border="0"></a>
-<a href="#" onclick="leftnav_toggleVis('list3');return false;" class="lev0link-no-ul">
-	<b>
-		Enclosures, Computers &amp; Telecom
-	</b>
-</a>
-</div>
-
-<div style="width:150px;">
-
-<ul id="list3" style="ul-style">
-<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1001754" class="lev0link">Cabinet Racks &amp; Accessories</a></li>
+			<div class="lev0block"><a href="#" onclick="leftnav_toggleVis('list3');return false;" class="arrow"><img name="list3-arrow" src="http://www.newark.com/images/leftnav-arrowright.gif" width="10" height="16" border="0"></a><a href="#" onclick="leftnav_toggleVis('list3');return false;" class="lev0link"><b>Enclosures, Computers &amp; Telecom</b></a></div><div style="width:150px;"><ul id="list3" style="ul-style"><li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1001754" class="lev0link">Cabinet Racks &amp; Accessories</a></li>
 <li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000059" class="lev0link">Computers &amp; Accessories</a></li>
 <li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000060" class="lev0link">Enclosures &amp; Accessories</a></li>
 <li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000063" class="lev0link">Storage Products &amp; Accessories</a></li>
-<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000007" class="lev0link">Show All</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000064" class="lev0link">Telephone Equipment &amp; Accessories</a></li>
+</ul></div>
 
-				
-
-</ul>
-</div>
-
-
-<div class="lev0block">
-<a href="#" onclick="leftnav_toggleVis('list0');return false;" class="arrow"><img name="list0-arrow" src="http://www.newark.com/images/leftnav-arrowright.gif" width="10" height="16" border="0"></a>
-<a href="#" onclick="leftnav_toggleVis('list0');return false;" class="lev0link-no-ul">
-	<b>
-		Audio Visual, CCTV &amp; Aerial/Antennas
-	</b>
-</a>
-
-</div>
-
-<div style="width:150px;">
-<ul id="list0" style="ul-style">
-<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1002283" class="lev0link">Aerial/Antennas &amp; Accessories</a></li>
+			<div class="lev0block"><a href="#" onclick="leftnav_toggleVis('list0');return false;" class="arrow"><img name="list0-arrow" src="http://www.newark.com/images/leftnav-arrowright.gif" width="10" height="16" border="0"></a><a href="#" onclick="leftnav_toggleVis('list0');return false;" class="lev0link"><b>Audio Visual, CCTV &amp; Aerial/Antennas</b></a></div><div style="width:150px;"><ul id="list0" style="ul-style"><li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1002283" class="lev0link">Aerial/Antennas &amp; Accessories</a></li>
 <li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1002260" class="lev0link">Audio-Visual &amp; Accessories</a></li>
 <li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1002274" class="lev0link">Closed Circuit TVs &amp; Accessories</a></li>
+</ul></div>
 
-				
-</ul>
-</div>
-
-
-
-<div class="lev0block">
-<a href="#" onclick="leftnav_toggleVis('list5');return false;" class="arrow"><img name="list5-arrow" src="http://www.newark.com/images/leftnav-arrowright.gif" width="10" height="16" border="0"></a>
-<a href="#" onclick="leftnav_toggleVis('list5');return false;" class="lev0link-no-ul">
-	<b>
-		Offices Supplies &amp; Equipment
-	</b>
-</a>
-</div>
-
-<div style="width:150px;">
-<ul id="list5" style="ul-style">
-
-<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1002053" class="lev0link">Label Printer Accessories</a></li>
+			<div class="lev0block"><a href="#" onclick="leftnav_toggleVis('list5');return false;" class="arrow"><img name="list5-arrow" src="http://www.newark.com/images/leftnav-arrowright.gif" width="10" height="16" border="0"></a><a href="#" onclick="leftnav_toggleVis('list5');return false;" class="lev0link"><b>Office Supplies &amp; Equipment</b></a></div><div style="width:150px;"><ul id="list5" style="ul-style"><li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1002053" class="lev0link">Label Printer Accessories</a></li>
 <li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1002149" class="lev0link">Label Printer Tape</a></li>
 <li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1002051" class="lev0link">Label Printers</a></li>
 <li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1002052" class="lev0link">Labels</a></li>
-<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000123" class="lev0link">Show All</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1002360" class="lev0link">Other</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1002379" class="lev0link">Work Stations</a></li>
+</ul></div>
 
-				
-</ul>
-</div>
-
-
-
-
-<div class="lev0block">
-
-<a href="#" onclick="leftnav_toggleVis('list7');return false;" class="arrow"><img name="list7-arrow" src="http://www.newark.com/images/leftnav-arrowright.gif" width="10" height="16" border="0"></a>
-<a href="#" onclick="leftnav_toggleVis('list7');return false;" class="lev0link-no-ul">
-	<b>
-		Other
-	</b>
-</a>
-</div>
-
-<div style="width:150px;">
-<ul id="list7" style="ul-style">
-<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000118" class="lev0link">First Aid &amp; Medical Supplies</a></li>
-<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1002313" class="lev0link">Handles</a></li>
-
-<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000119" class="lev0link">Heaters &amp; Accessories</a></li>
-<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1001766" class="lev0link">Legend Plates/Dial Plates</a></li>
-<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000011" class="lev0link">Show All</a></li>
-
-				
-</ul>
-</div>
-
-
-
-
-<div class="lev0block">
-<a href="#" onclick="leftnav_toggleVis('list10');return false;" class="arrow"><img name="list10-arrow" src="http://www.newark.com/images/leftnav-arrowright.gif" width="10" height="16" border="0"></a>
-<a href="#" onclick="leftnav_toggleVis('list10');return false;" class="lev0link-no-ul">
-	<b>
-		Security/Personal Protection Products
-	</b>
-
-</a>
-</div>
-
-<div style="width:150px;">
-<ul id="list10" style="ul-style">
-<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1002287" class="lev0link">Ear Protection</a></li>
+			<div class="lev0block"><a href="#" onclick="leftnav_toggleVis('list10');return false;" class="arrow"><img name="list10-arrow" src="http://www.newark.com/images/leftnav-arrowright.gif" width="10" height="16" border="0"></a><a href="#" onclick="leftnav_toggleVis('list10');return false;" class="lev0link"><b>Security/Personal Protection Products</b></a></div><div style="width:150px;"><ul id="list10" style="ul-style"><li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1002287" class="lev0link">Ear Protection</a></li>
 <li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1002305" class="lev0link">Eye Protection</a></li>
 <li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1002288" class="lev0link">Face Masks</a></li>
 <li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1002326" class="lev0link">Gloves</a></li>
-<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000122" class="lev0link">Show All</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1002289" class="lev0link">Lockout Devices</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1002290" class="lev0link">Locks</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1002423" class="lev0link">Other</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1002347" class="lev0link">Protective Clothing</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1002291" class="lev0link">Signs</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1002327" class="lev0link">Smart Card Readers</a></li>
+</ul></div>
 
-				
+			<div class="lev0block"><a href="#" onclick="leftnav_toggleVis('list12');return false;" class="arrow"><img name="list12-arrow" src="http://www.newark.com/images/leftnav-arrowright.gif" width="10" height="16" border="0"></a><a href="#" onclick="leftnav_toggleVis('list12');return false;" class="lev0link"><b>Service Parts, Kits and Switches</b></a></div><div style="width:150px;"><ul id="list12" style="ul-style"><li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000277" class="lev0link">Parts</a></li>
+</ul></div>
 
-</ul>
-</div>
-
-
-
-
-<div class="lev0block">
-<a href="#" onclick="leftnav_toggleVis('list12');return false;" class="arrow"><img name="list12-arrow" src="http://www.newark.com/images/leftnav-arrowright.gif" width="10" height="16" border="0"></a>
-<a href="#" onclick="leftnav_toggleVis('list12');return false;" class="lev0link-no-ul">
-	<b>
-		Service Parts, Kits and Switches
-	</b>
-</a>
-</div>
-
-<div style="width:150px;">
-<ul id="list12" style="ul-style">
-
-<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000277" class="lev0link">Parts</a></li>
-
-				
-</ul>
-</div>
-
-
-
-
-</div>
+			<div class="lev0block"><a href="#" onclick="leftnav_toggleVis('list7');return false;" class="arrow"><img name="list7-arrow" src="http://www.newark.com/images/leftnav-arrowright.gif" width="10" height="16" border="0"></a><a href="#" onclick="leftnav_toggleVis('list7');return false;" class="lev0link"><b>Other</b></a></div><div style="width:150px;"><ul id="list7" style="ul-style"><li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000118" class="lev0link">First Aid &amp; Medical Supplies</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1002313" class="lev0link">Handles</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000119" class="lev0link">Heaters &amp; Accessories</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1001766" class="lev0link">Legend Plates/Dial Plates</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000120" class="lev0link">Magnets</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000121" class="lev0link">Miscellaneous</a></li>
+<li><a href="/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=1000124" class="lev0link">Publications &amp; Software</a></li>
+</ul></div>
 
 
 <!-- /leftnav -->
 
-</td>
+</div></td>
 	<td>
 
 
@@ -761,7 +572,7 @@ function leftnav_toggleVis(id_of_obj)
 
 <p class="page-title">Privacy Policy &amp; Terms of Use</p>
 
-<a name="top"></a><br><a href="index.jsp;jsessionid=TNIS4L2IVOXTOCXDUY0CFFYK2OTCIIV1" class="std"><b>Go to Help Center Index</b></a><br><br>
+<a name="top"></a><br><a href="index.jsp;jsessionid=0M51L2TQYBCKSCXDUY2SFGAK2OTCIIV1" class="std"><b>Go to Help Center Index</b></a><br><br>
 
 <p class="stdbig"><b>We Are Committed to Your Right to Privacy</b></p>
       <p class="std">Newark InOne respects your right to privacy. We developed this 
@@ -829,7 +640,7 @@ function leftnav_toggleVis(id_of_obj)
         to improve our customer service and product offerings.
       </p><p class="stdbig"><b>Security</b><br>
         <br>
-      </p><p span="" class="std"> Find out how we maintain a high level of <a href="security.jsp;jsessionid=TNIS4L2IVOXTOCXDUY0CFFYK2OTCIIV1">security</a> on our site.
+      </p><p span="" class="std"> Find out how we maintain a high level of <a href="security.jsp;jsessionid=0M51L2TQYBCKSCXDUY2SFGAK2OTCIIV1">security</a> on our site.
        <a name="1"></a>
       </p><p class="stdbig"><b>Terms of Use</b><br>
         <br>
@@ -840,7 +651,7 @@ function leftnav_toggleVis(id_of_obj)
       </p><p span="" class="std">Newark InOne grants you a limited license to access and make personal use of this site and not to download (other than page caching) or modify it, or any portion of it, except with express written consent of Newark InOne. This license does not include any resale or commercial use of this site or its contents; any collection and use of any product listings, descriptions, or prices; any derivative use of this site or its contents; any downloading or copying of account information for the benefit of another merchant; or any use of data mining, robots, or similar data gathering and extraction tools. This site or any portion of this site may not be reproduced, duplicated, copied, sold, resold, visited, or otherwise exploited for any commercial purpose without express written consent of Newark InOne. <br><br>
 	You are granted a limited, revocable, and nonexclusive right to create a hyperlink to the home page of newarkinone.com so long as the link does not portray Newark InOne, its parent company, or their products or services in a false, misleading, derogatory, or otherwise offensive matter. You may not use any Newark InOne logo or other proprietary graphic or trademark as part of the link without express written permission. 
 
-	</p><p span="" class="std"><a href="copyright.jsp;jsessionid=TNIS4L2IVOXTOCXDUY0CFFYK2OTCIIV1">Click here for Copyright and Trademark information</a>
+	</p><p span="" class="std"><a href="copyright.jsp;jsessionid=0M51L2TQYBCKSCXDUY2SFGAK2OTCIIV1">Click here for Copyright and Trademark information</a>
 
 
       </p><p align="center">&nbsp;</p>
@@ -876,9 +687,10 @@ function leftnav_toggleVis(id_of_obj)
 
 
 
+
 	
 	
-	
+
 
 
 
@@ -895,7 +707,7 @@ function leftnav_toggleVis(id_of_obj)
     <td width="160" align="center" class="footer-content"><a target="_blank" href="//www.scanalert.com/RatingVerify?ref=www.newark.com"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/12-www.newark.com.gif" alt="HACKER SAFE certified sites prevent over 99% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a> </td>
     <td valign="top" class="footer-content"><table width="680" border="0" cellspacing="4" cellpadding="0">
         <tbody><tr>
-          <td><a href="/products/mfr/list.html" class="footer-link2">Manufacturer List</a>&nbsp;|&nbsp;<a href="http://server.iad.liveperson.net/hc/70921224/?cmd=file&amp;file=visitorWantsToChat&amp;site=70921224&amp;byhref=1" target="chat70921224" onclick="javascript:window.open('http://server.iad.liveperson.net/hc/70921224/?cmd=file&amp;file=visitorWantsToChat&amp;site=70921224&amp;referrer='+escape(document.location),'chat70921224','width=472,height=320');return false;" class="footer-link2">Live Technical Support</a>&nbsp;|&nbsp;<a href="/NewarkWebCommerce/newark/en_US/support/help/" class="footer-link2">Help&nbsp;Center</a>&nbsp;|&nbsp;<a href="/NewarkWebCommerce/newark/en_US/support/help/privacy.jsp" class="footer-link2">Privacy Policy</a>&nbsp;|&nbsp;<a href="/sitemap.html" class="footer-link2">Site Map</a>&nbsp;|&nbsp;<a href="/NewarkWebCommerce/newark/en_US/support/help/terms.jsp" class="footer-link2">Terms &amp; Conditions</a>&nbsp;|&nbsp;<a href="/NewarkWebCommerce/newark/en_US/support/help/privacy.jsp" class="footer-link2">Terms of Use</a><img src="http://www.newark.com/r2a_base/images/spacer.gif" width="30" height="8"> <a href="/NewarkWebCommerce/newark/en_US/support/help/copyright.jsp" class="footer-link2">© 2005 Newark InOne</a></td>
+          <td><a href="/NewarkWebCommerce/newark/en_US/mfr/index.jsp" class="footer-link2">Manufacturer List</a>&nbsp;|&nbsp;<a href="http://server.iad.liveperson.net/hc/70921224/?cmd=file&amp;file=visitorWantsToChat&amp;site=70921224&amp;byhref=1" target="chat70921224" onclick="javascript:window.open('http://server.iad.liveperson.net/hc/70921224/?cmd=file&amp;file=visitorWantsToChat&amp;site=70921224&amp;referrer='+escape(document.location),'chat70921224','width=472,height=320');return false;" class="footer-link2">Live Technical Support</a>&nbsp;|&nbsp;<a href="/NewarkWebCommerce/newark/en_US/support/help/" class="footer-link2">Help&nbsp;Center</a>&nbsp;|&nbsp;<a href="/NewarkWebCommerce/newark/en_US/support/help/privacy.jsp" class="footer-link2">Privacy Policy</a>&nbsp;|&nbsp;<a href="http://www.newark.com/sitemap.html" class="footer-link2">Site Map</a>&nbsp;|&nbsp;<a href="/NewarkWebCommerce/newark/en_US/support/help/terms.jsp" class="footer-link2">Terms &amp; Conditions</a>&nbsp;|&nbsp;<a href="/NewarkWebCommerce/newark/en_US/support/help/privacy.jsp" class="footer-link2">Terms of Use</a><img src="http://www.newark.com/r2a_base/images/spacer.gif" width="30" height="8"> <a href="/NewarkWebCommerce/newark/en_US/support/help/copyright.jsp" class="footer-link2">© 2006 Newark InOne</a></td>
         </tr>
         <tr>
           <td><img src="http://www.newark.com/r2a_base/images/spacer.gif" width="100" height="4"></td>
@@ -930,6 +742,7 @@ function leftnav_toggleVis(id_of_obj)
 
 
 
+
  
 
 
@@ -954,7 +767,7 @@ hbx.ctdef="full";//DEFAULT CONTENT CATEGORY
 //OPTIONAL PAGE VARIABLES
 //ACTION SETTINGS
 hbx.fv="";//FORM VALIDATION MINIMUM ELEMENTS OR SUBMIT FUNCTION NAME
-hbx.lt="none";//LINK TRACKING
+hbx.lt="auto";//LINK TRACKING
 hbx.dlf="n";//DOWNLOAD FILTER
 hbx.dft="n";//DOWNLOAD FILE NAMING
 hbx.elf="n";//EXIT LINK FILTER
@@ -1015,24 +828,19 @@ hbx.pn="PUT+PAGE+NAME+HERE";
 
 
 
-	
 
 
 
 
 
 
-<script language="javascript" src="http://newarkinone.trk.sodoit.com/rts.js"></script>		
-		
 
 
-<!-- BEGIN HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
-<!-- script language='javascript' src='https://server.iad.liveperson.net/hc/70921224/x.js?cmd=file&file=chatScript3&site=70921224&&category=en;woman;3'
--->
-<!--
-/script
--->
-<!-- END HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
+
+
+
+
+<!-- BEGIN HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG --><script language="javascript" src="https://server.iad.liveperson.net/hc/70921224/x.js?cmd=file&amp;file=chatScript3&amp;site=70921224&amp;&amp;category=en;woman;1"> </script><!-- END HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
 
 
 
