@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the multiplan.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216195929id_/http%3A//multiplan.com/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multiplan.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615180306id_/http%3A//www.multiplan.com/about/privacy.cfm) for the most accurate reproduction.*
 
 # MultiPlan, Inc: Privacy Policy
 
