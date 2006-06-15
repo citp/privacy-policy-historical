@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the gftforex.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217080210id_/http%3A//www.gftforex.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gftforex.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615040239id_/http%3A//www.gftforex.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Global Forex Trading :: Privacy Policy
-
-  
-
 
 ### Privacy Policy
 
