@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the niit.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218001604id_/http%3A//niitnew.pugmarks.net/admin/asp/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niit.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615045709id_/http%3A//niitnew.pugmarks.net/admin/asp/privacy.asp) for the most accurate reproduction.*
 
 # NIIT
 
