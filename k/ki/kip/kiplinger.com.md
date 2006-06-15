@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kiplinger.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210163556id_/http%3A//www.kiplinger.com/gateway/about/privacypolicy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiplinger.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615203659id_/http%3A//kiplinger.com/gateway/about/privacypolicy/index.html) for the most accurate reproduction.*
 
 # About Kiplinger
 
@@ -6,7 +6,7 @@
 
 Kiplinger.com respects your privacy. We do not share your e-mail address with anyone or any company. Following are the specifics of how we protect your privacy.
 
-**WHEN YOU VISIT KIPLINGER.COM.** Our server automatically recognizes the domain name of visitors. We collect domain namesonly to keep statistics on whichof our Webpages are being accessed and how often. We share them with no one.
+**WHEN YOU VISIT KIPLINGER.COM.** Our server automatically recognizes the domain name of visitors. We collect domain names only to keep statistics on which of our Webpages are being accessed and how often. We share them with no one.
 
 **WHEN YOU FILL OUT A FORM ON KIPLINGER.COM.** When information is provided via feedback forms, we capture all of the information you provide, including your e-mail address and the type of browser being used. However, this information is not compiled or used for any purpose other than to communicate with you.
 
