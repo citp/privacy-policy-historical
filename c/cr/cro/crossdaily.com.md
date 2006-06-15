@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the crossdaily.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216190826id_/http%3A//info.crossdaily.com/privacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crossdaily.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615204057id_/http%3A//info.crossdaily.com/privacy.php3) for the most accurate reproduction.*
 
 # CrossDaily.com - Privacy Policy
 
 ## CrossDaily.com's Privacy Policy
 
-M Koehler Enterprises Inc. has created this privacy statement in order to demonstrate our commitment to privacy.  The following discloses our information gathering and dissemination practices for our Sites (includes CrossDaily.com, ChristianAdvertising.com and ChristianClick.com).
+Salem Web Network has created this privacy statement in order to demonstrate our commitment to privacy.  The following discloses our information gathering and dissemination practices for our Sites (includes CrossDaily.com, ChristianAdvertising.com and ChristianClick.com).
 
 **Membership Information**
 
