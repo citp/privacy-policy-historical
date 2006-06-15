@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the sonyclassics.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230112840id_/http%3A//www.sonypictures.com/corp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonyclassics.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210518id_/http%3A//www.sonypictures.com/corp/privacy.html) for the most accurate reproduction.*
 
 # Sony Pictures - Privacy Policy
 
-PRIVACY POLICY 
+  
 
-PLEASE READ. YOUR USE OF THIS SITE IS SUBJECT TO THE FOLLOWING PRIVACY POLICY STATEMENT AND THE WEB SITE [TERMS OF SERVICE](http://www.sonypictures.com/corp/tos.html).
+
+PLEASE READ. YOUR USE OF THIS SITE IS SUBJECT TO THE FOLLOWING PRIVACY POLICY STATEMENT AND THE WEB SITE [TERMS OF SERVICE](https://web.archive.org/web/20060615210518id_/http%3A//www.sonypictures.com/corp/tos.html).
 
 **_Notice_**
 
@@ -119,3 +120,5 @@ SPE is dedicated to protecting your personally identifiable information and welc
 SPE reserves the right to change this Privacy Policy and its Terms of Service at any time. In case of any material change to the Privacy Policy, we will replace the "Privacy Policy" link on the home page of our sites with a link entitled "Updated Privacy Policy" for no less than 30 days. All changes to the Privacy Policy and/or Terms of Service will be effective when posted, and your continued use of any SPE site or Service after the posting will constitute acceptance of, and agreement to be bound by, those changes.
 
 **Effective Date: January 1, 2005**
+
+| 
