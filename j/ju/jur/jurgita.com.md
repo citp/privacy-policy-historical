@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the jurgita.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215053219id_/http%3A//jurgita.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jurgita.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615084802id_/http%3A//www.jurgita.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy
 
+  
 |    
 
 
