@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the mentor.com privacy policy that was archived on 2005-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051230113119id_/http%3A//mentor.com/terms_conditions/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mentor.com privacy policy that was archived on 2006-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615033659id_/http%3A//www.mentor.com/terms_conditions/privacy.cfm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- Content Copyright Mentor Graphics Corporation --><!-- Page generated 2005-12-07 16:18:20 by CommonSpot Version 4.5.1 (2005-06-07 09:30:00) --><!-- JavaScript & DHTML Code Copyright 1998-2005 PaperThin, Inc.  All rights reserved --><head> <title>Privacy Policy</title> <meta name="Description" id="Description" content="Privacy Policy">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- Content Copyright Mentor Graphics Corporation --><!-- Page generated 2006-06-14 18:13:57 by CommonSpot Version 4.5.1 (2005-06-07 09:30:00) --><!-- JavaScript & DHTML Code Copyright 1998-2005 PaperThin, Inc.  All rights reserved --><head> <title>Privacy Policy</title> <meta name="Description" id="Description" content="Privacy Policy">
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <meta name="Keywords" id="Keywords" content="">
 <meta name="Generator" id="Generator" content="CommonSpot Content Server Version 4.5.1">
@@ -141,37 +141,9 @@
 	<link rel="stylesheet" href="/common/css/screen-edge.css" type="text/css" media="screen">
 	<link rel="stylesheet" href="/common/css/print.css" type="text/css" media="print">
 	<link rel="stylesheet" href="/common/css/progress.css" type="text/css" media="screen">
-	<link rel="stylesheet" href="/commonspot/commonspot.css" type="text/css"> 
-<script type="text/javascript" language="JavaScript">
-<!-- //
-
-var gShowKeywords = 0;
-var gHaveKeywords = 0;
-
-var js_userID=0;
-
-function showState(dispClass,imgObject,state)
-{
-	var thisMenu = document.getElementById("DisplayOptionsMenu");
-	if (state)
-	{
-		document.getElementById(imgObject).src = "/commonspot/images/menu-check.gif";
-		if (dispClass != "")
-			document.styleSheets[0].addRule(dispClass,"display:block;");
-	}
-	else
-	{
-		document.getElementById(imgObject).src = "/commonspot/images/menu-uncheck.gif";
-		if (dispClass != "")
-			document.styleSheets[0].addRule(dispClass,"display:none;");
-	}
-}
-
-// -->
-</script>
-<!-- --> </head><body onload="onLoadFinished();" lang="en" bgcolor="#FFFFFF" style="margin-top:0;margin-bottom:0;margin-left:0;margin-right:0;"><script type="text/javascript" language="JavaScript">
-document.CS_StaticURL = "http://mentorauth.wv.mentorg.com/";
-document.CS_DynamicURL = "http://mentorauth.wv.mentorg.com/";
+	<link rel="stylesheet" href="/commonspot/commonspot.css" type="text/css"> </head><body onload="rolloverInit();" lang="en" bgcolor="#FFFFFF" style="margin-top:0;margin-bottom:0;margin-left:0;margin-right:0;"><script type="text/javascript" language="JavaScript">
+document.CS_StaticURL = "http://failover1-www.mentor.com/";
+document.CS_DynamicURL = "http://failover1-www.mentor.com/";
 </script><a name="__topdoc__"></a>
 	<script type="text/javascript" language="JavaScript">
 		function newWindow (name,url)
@@ -289,12 +261,178 @@ document.CS_DynamicURL = "http://mentorauth.wv.mentorg.com/";
 				return winWindow;
 		}
 	</script>
-	<script src="/commonspot/pagemode/always-include-common.js" type="text/javascript" language="JavaScript"></script><script src="/commonspot/pagemode/always-include-ie.js" type="text/javascript" language="JavaScript"></script>
+	<script src="/commonspot/pagemode/always-include-common.js" type="text/javascript" language="JavaScript"></script><script type="text/javascript" language="JavaScript">
+		// always-include-ie.js  Copyright 1998-2005 PaperThin, Inc. All rights reserved.
+bName = navigator.appName;
+bVer = parseInt(navigator.appVersion);
+var bCanRollover=0
+if (bName == "Netscape")
+{
+	if(bVer >= 3)
+		bCanRollover=1;
+}
+else if (bName == "Microsoft Internet Explorer")
+{
+	if(bVer >= 4)
+		bCanRollover=1;
+}
+function ImageSet(imgID,newTarget)
+{
+	if (bCanRollover)
+		document[imgID].src=newTarget;
+}
+function clearStatus()
+{
+	window.status = "";
+}
+function setStatbar(statbar)
+{
+	var strStatbar=unescape(statbar);
+	window.status=strStatbar;
+}
+function onLoadComplete()
+{
+	if( menus_included == 1 )
+		document.onmouseover = document_mouseover;	// defined in menu_ie.js
+}
+function HandleLink(parentID,link,displaylink) 
+{
+	// links are in one of the following formats:
+	// 		cpe_60_0,CP___PAGEID=100
+	// 		CPNEWWIN:WindowName^params@CP___
+	// 			CPNEWWIN:child^top=110:left=130:ww=140:hh=150:tb=1:loc=1:dir=0:stat=1:mb=1:sb=1:rs=1@CP___PAGEID=3811,Adv-Search-2.cfm,1
+	// displaylink is the server relative URL or fully qualified URL
+	if( jsPageAuthorMode == 0 )
+	{
+		windowname = "";
+		windowparams = "";
+		// "CPNEWWIN:" & NewWindowName & "^" & params & "@" & linkStruct.LinkURL; 
+		pos = link.indexOf("CPNEWWIN:");
+		if (pos != -1)
+		{
+			pos1 = link.indexOf ("^");
+			windowname = link.substring (pos+9, pos1);
+			pos2 = link.indexOf ("@");
+			windowparams = link.substring (pos1 + 1, pos2);
+			link = link.substring (pos2 + 1, link.length);
+		}
+		
+		if( displaylink && displaylink != "" )
+		{		
+			if (windowname == "")
+				window.location = displaylink;
+			else
+			{
+				windowparams = FormatWindowParams(windowparams);
+				window.open (displaylink, windowname, windowparams);
+			}
+		}
+		else
+		{
+			targetLink = link;
+			if (link.indexOf ("CP___") != -1)
+			{
+				httpPos = -1;
+				commaPos = link.indexOf(",");
+				if (commaPos != -1)
+				{
+					targetUrl = link.substr(commaPos + 1);
+					if (targetUrl.indexOf("://") != -1 || targetUrl.indexOf("/") == 0)
+					{
+							httpPos = commaPos + 1;
+					}		
+				}
+					
+				if (httpPos != -1)
+				{
+					targetLink = link.substr(httpPos);
+					commaPos = targetLink.indexOf(",");
+					if (commaPos != -1)
+						targetLink = targetLink.substr(0, commaPos);
+				}
+				else
+					targetLink = jsDlgLoader + "?url=/commonspot/utilities/handle-link.cfm&thelink=" + link;
+				
+				if (windowname == "")
+					window.location = targetLink;
+				else
+				{
+					windowparams = FormatWindowParams(windowparams);
+					window.open (targetLink, windowname, windowparams);
+				}
+			}
+			else
+			{
+				commaPos = link.indexOf(",");
+				if (commaPos != -1)
+					link = link.substr(0, commaPos);
+				if (windowname == "")
+					window.location = link;
+				else
+				{
+					windowparams = FormatWindowParams(windowparams);
+					window.open (link, windowname, windowparams);
+				}
+			}
+		}
+	}
+	else if( jsSessionPreviewON == 1 )
+	{
+		previewLink(link);
+	}
+	else
+	{
+		if( document.all[parentID] )
+			document.all[parentID].click();
+	}
+}
+function doWindowOpen(href,name,params)
+{
+	window.open (href, name, params);
+}
+// 	CPNEWWIN:child^top=110:left=130:ww=140:hh=150:tb=1:loc=1:dir=0:stat=1:mb=1:sb=1:rs=1@CP___PAGEID=3811,Adv-Search-2.cfm,1
+function FormatWindowParams(windowparams)
+{
+	if( windowparams.indexOf(":loc=") != -1 || windowparams.indexOf(":ww=") != -1 || windowparams.indexOf(":hh=") != -1 || 
+	    windowparams.indexOf(":left=") != -1 || windowparams.indexOf(":top=") != -1 )
+	{
+		windowparams = substringReplace(windowparams,':left=',',left=');
+		windowparams = substringReplace(windowparams,'left=','left=');
+		windowparams = substringReplace(windowparams,':ww=',',width=');
+		windowparams = substringReplace(windowparams,'ww=','width=');		
+		windowparams = substringReplace(windowparams,':hh=',',height=');
+		windowparams = substringReplace(windowparams,'hh=','height=');
+		windowparams = substringReplace(windowparams,':loc=',',location=');
+		windowparams = substringReplace(windowparams,'loc=','location=');
+		windowparams = substringReplace(windowparams,':dir=',',directories=');
+		windowparams = substringReplace(windowparams,'dir=','directories=');
+		windowparams = substringReplace(windowparams,':tb=',',toolbar=');
+		windowparams = substringReplace(windowparams,'tb=','toolbar=');
+		windowparams = substringReplace(windowparams,':stat=',',status=');
+		windowparams = substringReplace(windowparams,':mb=',',menubar=');
+		windowparams = substringReplace(windowparams,':sb=',',scrollbars=');
+		windowparams = substringReplace(windowparams,':rs=',',resizable=');
+	}
+	return windowparams;
+}
+function substringReplace(source,pattern,replacement)
+{
+	var pos = 0;
+	var target="";
+	while ((pos = source.indexOf(pattern)) != (-1))
+	{
+		target = target + source.substring(0,pos) + replacement;
+		source = source.substring(pos+pattern.length);
+		pos = source.indexOf(pattern);
+	}
+	return (target + source);
+}
+		</script>
 	<script type="text/javascript" language="JavaScript">
 	function glblLinkHandler(lobj, attr, val)
 	{
 	
-		lobj.style[attr] = val;
+		return;
 	
 	}
 	function onLoadFinished()
@@ -311,7 +449,7 @@ document.CS_DynamicURL = "http://mentorauth.wv.mentorg.com/";
 <!--/pageElement:HEADER-->
 <!--pageElement:HEADERCOMMONSPOT-->
 	
-	<!-- --> 
+	
 	
 <!--/pageElement:HEADERCOMMONSPOT-->
 	
@@ -371,7 +509,7 @@ document.CS_DynamicURL = "http://mentorauth.wv.mentorg.com/";
 					<div class="hr"></div>
 				</div>
 			</div>     <!--/pageElement:LOCALNAV--></div>
-				  <div id="content" class="cols"><!--pageElement:BREADCRUMB--><div id="breadcrumb"><a href="/"><span>Home</span></a>&nbsp;&gt;&nbsp;<a href="/terms_conditions/"><span>Terms &amp; Conditions</span></a></div><!--/pageElement:BREADCRUMB--><!--pageElement:PAGETITLE--><h1>Privacy Policy</h1><!--/pageElement:PAGETITLE--><!--pageElement:MAINCONTENT--><a name="top"></a> <div class="CS_Element_Layout"> <table id="idLayout3854" cellpadding="0" cellspacing="0" border="0" width="100%" summary=""> <tbody><tr><td id="idCell3854x1x1" style="text-align: left;" valign="top"> <div class="CS_Element_Textblock"> <strong>Mentor Graphics Web Site Privacy Policy</strong> <p><strong>Purpose</strong></p><p>The purpose of this document is to describe Mentor Graphics' policy regarding the collection and usage of personal data from our external web site www.mentor.com.</p><p>Mentor Graphics and its agents will protect the information that is gathered on this site as stated in our "Privacy Policy". It will not be shared with, bartered, or sold to any third party. If you have any comments or questions regarding our privacy policy, please contact us at <a href="mailto:Web_Privacy@mentor.com">Web_Privacy@mentor.com</a>.</p><p><strong>Policy</strong></p><p><strong>How We Treat Your Personal Information</strong><br>Mentor Graphics considers all information collected on this site to be our information. It will be collected from you via the forms in various locations on Mentor Graphics Web sites, but will not be shared with, bartered, or sold to any third party. At times, we disclose relevant information about our customers to our contractors in order for them to provide specific services for Mentor Graphics or to distributors to fulfill a customer order. Our contractors and distributors are bound by strict contractual requirements to keep all information they receive confidential and to use such information solely on behalf of Mentor Graphics. We take reasonable measures to protect the information you share with us from unauthorized access or disclosure.</p><p>We collect information from you for the purposes of fulfilling your requests, improving your experience on the Mentor Graphics Web sites, and improving our ability to create individually relevant communications to you about our products and services. You may choose to not supply any personal information to us; however, doing so will limit your access to certain content on our site, such as product demonstrations, technical papers, and the like.</p><p><strong>How We Treat E-mail Lists</strong></p><p>Mentor Graphics maintains several e-mail lists to keep interested persons informed about events and other items of interest. Individuals can sign up to join our mailing lists in several ways, for example; in response to an e-mail message or by using a form on our web site. Other than disclosing to contractors as required for them to perform specific services for Mentor Graphics, we do not sell, trade, lease, rent, loan or otherwise disclose the addresses on these lists to any third party.</p><p><strong>How We Treat Your Browser Information</strong><br>Mentor Graphics analyzes the log files of our Website to better understand the volume of traffic to particular areas of our site. This information helps us to better understand and serve your information needs. The individual user remains anonymous in our Web site log files unless they have logged in to one of our password-protected sites. For example, when accessing SupportNet, our technical support web site, individual registration and browser information may be correlated to your personal and company information stored in our business databases. These databases contain support contract expiration dates and other information relevant to delivering and improving support.</p><p><strong>Our Use of Cookies</strong><br>A "cookie" is a marker or an identifier that is entered into the memory of a visitor's browser and is saved to a file for future reference. Mentor Graphics uses cookies on selected areas of our Website as a tool to "remember" information about our visitors so that they do not have to repeatedly enter their personal information onto numerous forms on the site. In the future, cookies will help us tailor our Website to the visitor's individual interests. You can set your browser to notify you when you are sent a cookie so that you can decide whether or not to accept it. Even without a cookie, you can access most information on our web site.</p><p><strong>How We Handle Changing Information</strong><br>We realize that your personal information, including name, company, and e-mail address, is subject to change over time. In the effort to keep your information current and accurate, we are working on tools that, once deployed, will allow you to review your information and update it as needed. In the mean time, if you need to update your information in our records, please send email to <a href="mailto:Web_Privacy@mentor.com">Web_Privacy@mentor.com</a>.</p><p><strong>Consent</strong><br>By using our web site, you consent to the collection and use of your personal information by Mentor Graphics as described in this policy. We reserve the right to change our privacy policy at any time. If we decide to change our policy, we will post those changes on this page.</p> </div> </td> </tr>
+				  <div id="content" class="cols"><!--pageElement:BREADCRUMB--><div id="breadcrumb"><a href="/"><span>Home</span></a>&nbsp;&gt;&nbsp;<a href="/terms_conditions/"><span>Terms &amp; Conditions</span></a></div><!--/pageElement:BREADCRUMB--><!--pageElement:PAGETITLE--><h1>Privacy Policy</h1><!--/pageElement:PAGETITLE--><!--pageElement:MAINCONTENT--><a name="top"></a> <div class="CS_Element_Layout"> <table id="idLayout3854" cellpadding="0" cellspacing="0" border="0" width="100%" summary=""> <tbody><tr><td id="idCell3854x1x1" style="text-align: left;" valign="top"> <div class="CS_Element_Textblock"> <strong>Mentor Graphics Web Site Privacy Policy</strong>  <p><strong>Purpose</strong></p> <p>The purpose of this document is to describe Mentor Graphics' policy regarding the collection and usage of personal data from our external web site www.mentor.com.</p> <p>Mentor Graphics and its agents will protect the information that is gathered on this site as stated in our "Privacy Policy". It will not be shared with, bartered, or sold to any third party. If you have any comments or questions regarding our privacy policy, please contact us at <a href="mailto:web_info@mentor.com">mailto:Web_Privacy@mentor.com</a>.</p> <p><strong>Policy</strong></p> <p><strong>How We Treat Your Personal Information</strong><br> Mentor Graphics considers all information collected on this site to be our information. It will be collected from you via the forms in various locations on Mentor Graphics Web sites, but will not be shared with, bartered, or sold to any third party. At times, we disclose relevant information about our customers to our contractors in order for them to provide specific services for Mentor Graphics or to distributors to fulfill a customer order. Our contractors and distributors are bound by strict contractual requirements to keep all information they receive confidential and to use such information solely on behalf of Mentor Graphics. We take reasonable measures to protect the information you share with us from unauthorized access or disclosure.</p> <p>We collect information from you for the purposes of fulfilling your requests, improving your experience on the Mentor Graphics Web sites, and improving our ability to create individually relevant communications to you about our products and services. You may choose to not supply any personal information to us; however, doing so will limit your access to certain content on our site, such as product demonstrations, technical papers, and the like.</p> <p><strong>How We Treat E-mail Lists</strong></p> <p>Mentor Graphics maintains several e-mail lists to keep interested persons informed about events and other items of interest. Individuals can sign up to join our mailing lists in several ways, for example; in response to an e-mail message or by using a form on our web site. Other than disclosing to contractors as required for them to perform specific services for Mentor Graphics, we do not sell, trade, lease, rent, loan or otherwise disclose the addresses on these lists to any third party.</p> <p><strong>How We Treat Your Browser Information</strong><br> Mentor Graphics analyzes the log files of our Website to better understand the volume of traffic to particular areas of our site. This information helps us to better understand and serve your information needs. The individual user remains anonymous in our Web site log files unless they have logged in to one of our password-protected sites. For example, when accessing SupportNet, our technical support web site, individual registration and browser information may be correlated to your personal and company information stored in our business databases. These databases contain support contract expiration dates and other information relevant to delivering and improving support.</p> <p><strong>Our Use of Cookies</strong><br> A "cookie" is a marker or an identifier that is entered into the memory of a visitor's browser and is saved to a file for future reference. Mentor Graphics uses cookies on selected areas of our Website as a tool to "remember" information about our visitors so that they do not have to repeatedly enter their personal information onto numerous forms on the site. In the future, cookies will help us tailor our Website to the visitor's individual interests. You can set your browser to notify you when you are sent a cookie so that you can decide whether or not to accept it. Even without a cookie, you can access most information on our web site.</p> <p><strong>How We Handle Changing Information</strong><br> We realize that your personal information, including name, company, and e-mail address, is subject to change over time. In the effort to keep your information current and accurate, we are working on tools that, once deployed, will allow you to review your information and update it as needed. In the mean time, if you need to update your information in our records, please send email to <a href="mailto:web_info@mentor.com">mailto:Web_Privacy@mentor.com</a>.</p> <p><strong>Consent</strong><br> By using our web site, you consent to the collection and use of your personal information by Mentor Graphics as described in this policy. We reserve the right to change our privacy policy at any time. If we decide to change our policy, we will post those changes on this page.</p> </div> </td> </tr>
 	</tbody></table>	</div> <!--/pageElement:MAINCONTENT--> </div>	
 				  <div class="clear"></div>
 				</div>
@@ -390,29 +528,34 @@ document.CS_DynamicURL = "http://mentorauth.wv.mentorg.com/";
 	<!-- SiteCatalyst code version: H.2.
 	Copyright 1997-2005 Omniture, Inc. More info available at
 	http://www.omniture.com -->
-	<script language="JavaScript" src="/common/includes/s_code.js"></script><img name="s_i_mentorcom2" height="1" width="1" border="0" alt="" src="https://mentorgraphics.122.2O7.net/b/ss/mentorcom2/1/H.2-Pdv-2/s74560028294179?[AQB]&amp;ndh=1&amp;t=31/0/2020%204%3A17%3A32%205%200&amp;ns=mentorgraphics&amp;pageName=Terms%20%26%20Conditions%3APrivacy%20Policy&amp;g=https%3A//web.archive.org/web/20051230113119id_/http%253A//mentor.com/terms_conditions/privacy.cfm&amp;cc=USD&amp;ch=company&amp;c1=Terms%20%26%20Conditions&amp;v1=Terms%20%26%20Conditions&amp;h1=Terms%20%26%20Conditions%2CPrivacy%20Policy&amp;h2=Terms%20%26%20Conditions%2CPrivacy%20Policy&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+	<script language="JavaScript" src="/common/includes/s_code.js"></script><img name="s_i_mentorcom2" height="1" width="1" border="0" alt="" src="https://mentorgraphics.122.2O7.net/b/ss/mentorcom2/1/H.2-Pdv-2/s73692349015246?[AQB]&amp;ndh=1&amp;t=31/0/2020%204%3A17%3A33%205%200&amp;ns=mentorgraphics&amp;pageName=Terms%20%26%20Conditions%3APrivacy%20Policy&amp;g=https%3A//web.archive.org/web/20060615033659id_/http%253A//www.mentor.com/terms_conditions/privacy.cfm&amp;cc=USD&amp;ch=company&amp;h1=Terms%20%26%20Conditions%2CPrivacy%20Policy&amp;c5=Company&amp;v5=Company&amp;c9=16219&amp;v9=16219&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
 	<script language="JavaScript">
 	s.pageName="Terms & Conditions:Privacy Policy";
 	s.channel="company";
-	s.prop1="Terms & Conditions";
+	s.prop1="";
 	s.prop2="";
 	s.prop3="";
 	s.prop4="";
-	s.prop5="";
+	s.prop5="Company";
 	s.prop6="";
+	s.prop7="";
+	s.prop8="";
+	s.prop9="16219";
+	s.prop10="";
 	/* E-commerce Variables */
 	s.events="";
-	s.products="";
-	s.eVar1="Terms & Conditions";
+	s.eVar1="";
 	s.eVar2="";
 	s.eVar3="";
 	s.eVar4="";
-	s.eVar5="";
+	s.eVar5="Company";
 	s.eVar6="";
 	/* s.eVar7 reserved for internal search term */
+	/* s.eVar8 campaign id */
 	/* Hierarchy Variables */
+	s.eVar9="16219";
+	s.eVar10="";
 	s.hier1="Terms & Conditions,Privacy Policy";
-	s.hier2="Terms & Conditions,Privacy Policy";
 	
 	
 	/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
@@ -423,4 +566,4 @@ document.CS_DynamicURL = "http://mentorauth.wv.mentorg.com/";
 	src="http://mentor.122.2O7.net/b/ss/mentor/1/H.2--NS/0"
 	height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 	<!-- End SiteCatalyst code version: H.2. -->
-	<!-- --></body></html>
+<div style="display:block; clear:left; padding:10px; font-family:Verdana,Arial; font-size:10px; color:gray;"></div></body></html>
