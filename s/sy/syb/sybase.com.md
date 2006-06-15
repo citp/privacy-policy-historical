@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the sybase.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215073017id_/http%3A//www.sybase.com/detail%3Fid%3D1003649) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sybase.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615200217id_/http%3A//www.sybase.com/detail%3Fid%3D1003649) for the most accurate reproduction.*
 
-# Sybase Inc - Sybase Inc. Privacy Policy
-
-| 
+# Sybase Inc. Privacy Policy - Sybase Inc
 
 **Effective August 1, 2005**
 
@@ -155,5 +153,3 @@ Fax No.: 001 925 236 4198
 At any time, Sybase provides you with an opportunity to correct or change the information collected during registration for MySybase. This can be done in the 'My Account' area of MySybase. Users may change this information at any time and as often as necessary.
 
 Also, you can contact [portal_helpdesk@sybase.com](mailto:portal_helpdesk@sybase.com) to access or edit your information if you have trouble accessing your account, or request to have your MySybase account deactivated. If you do not have a MySybase account, you can still contact [portal_helpdesk@sybase.com](mailto:portal_helpdesk@sybase.com) with questions on your online registrations. It may take up to 10 business days to respond to your request for access or obtain complete deactivation of your MySybase account.
-
-| 
