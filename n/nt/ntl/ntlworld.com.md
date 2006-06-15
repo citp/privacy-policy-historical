@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ntlworld.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228150010id_/http%3A//www.ntlworld.com/termsconditions/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntlworld.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615234041id_/http%3A//ntlworld.com/termsconditions/privacypolicy.php) for the most accurate reproduction.*
 
 # ntl.com | Privacy Policy
 
@@ -81,7 +81,7 @@ We also allow third parties to serve cookies via this site. These are used for t
 
 
 **_Advertising_**  
-Internet advertisements on the ntl web sites are served through 24/7 Real Media Open AdStream technology. 24/7 Real Media does not collect personal identifiable information (such as name, address, phone number and email address) that may be used to identify ntl users. Only anonymous information about your Internet browser and Web surfing is collected and used to better determine which ads to show you and to prevent repetitive ads being delivered to the same user. 24/7 Real Media and ntl are firmly committed to protecting the privacy of Internet users and fostering consumer confidence in the Internet, Internet advertising and direct marketing.
+ntl does not collect personal identifiable information (such as name, address, phone number and email address) that may be used to identify ntl users. Only anonymous information about your Internet browser and Web surfing is collected and used to better determine which ads to show you and to prevent repetitive ads being delivered to the same user. We may also allow third party ad networks to serve ads on our sites, and these networks can also send cookies to your cookie file. If you wish to prevent a third party ad network from doing this, you must visit each ad network’s website and opt out from there, if available. Currently 24/7 Real Media UK Limited [www.247realmedia.com/privacy](http://www.247realmedia.com/privacy) provides ad network services to ntl.
 
 **_Web Beacons_**  
 Some of our Web pages may contain electronic images known as Web beacons (sometimes known as clear gifs) that allow us to count users who have visited these pages. Web beacons collect only limited information which usually includes a cookie number, time and date of a page view, and a description of the page on which the Web beacon resides. We may also carry web beacons placed by third party advertisers. These beacons do not carry any personally identifiable information and are only used to track the effectiveness of a particular campaign.
@@ -152,20 +152,19 @@ If you place any of your personal details on any services we might develop for c
 
 ## 9\. Contacting Us
 
-If you have any questions or concerns about our use of your personal information you should write in the first instance to ntl's Group Compliance Officer at the address below or email us at [privacy@ **ntl**.com](mailto:privacy@ntl.com). Please use this address to let us know of any experience with privacy problems you may have with any of the sites to which our services link.
+If you have any questions or concerns about our use of your personal information you should write to ntl's Group Compliance Department at the address below.
 
-Group Compliance Officer  
-**ntl**  
-Bartley Wood Business Park  
-Hook  
-Hampshire  
-RG27 9XA
+Group Compliance  
+**ntl:Telewest**  
+160 Great Portland Street  
+London  
+W1W 5QA
 
 ## Information Commissioner
 
 If you want to learn more about your rights regarding personal data you should contact the Information Commissioner's office information line on 01625 545745 or visit their web site at [www.informationcommissioner.gov.uk](http://www.informationcommissioner.gov.uk/).
 
-(Version: July 2005)
+(Version: May 2006)
 
 * This is a Microsoft Word document. To download the document, right-click on the link and select 'Save Target As'. You will need a compatible application to view this document. [Visit the Microsoft website for more information.](http://www.microsoft.com/)
 
