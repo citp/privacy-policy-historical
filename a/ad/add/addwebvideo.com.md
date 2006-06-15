@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the addwebvideo.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218141718id_/http%3A//www.playstream.com/tc/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addwebvideo.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615050911id_/http%3A//www.playstream.com/tc/privacy.aspx) for the most accurate reproduction.*
 
-# PlayStream: Terms & Conditions
+# VitalStream Small Business Services: Terms & Conditions
 
 Date Last Modified: October 26, 2005
 
