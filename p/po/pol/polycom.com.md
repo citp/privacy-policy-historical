@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the polycom.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211201440id_/http%3A//polycom.com/footer/1%2C1428%2Cpw-133%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polycom.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615025306id_/http%3A//www.polycom.com/footer/1%2C1428%2Cpw-133%2C00.html) for the most accurate reproduction.*
 
-# footer: Polycom Worldwide
+# Privacy Statement - footer: Polycom Worldwide
 
 **Policies**
 
