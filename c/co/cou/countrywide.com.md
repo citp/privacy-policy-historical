@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the countrywide.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228080524id_/http%3A//my.countrywide.com/Privacy.aspx%3Flinkid%3DPCFT014) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the countrywide.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615223455id_/http%3A//my.countrywide.com/Privacy.aspx%3Flinkid%3DPCFT014) for the most accurate reproduction.*
 
 # Countrywide Privacy
 
@@ -10,7 +10,7 @@
 | cookies, web beacons  
 | shared secrets  
 | identity theft   
-| [site tour](https://web.archive.org/web/20051228080524id_/http%3A//my.countrywide.com/site_tour.aspx)  
+| [site tour](https://web.archive.org/web/20060615223455id_/http%3A//my.countrywide.com/site_tour.aspx)  
 |  |  | Privacy and Security in The Countrywide family  
 ---|---  
 |  | Your Privacy  
@@ -29,10 +29,15 @@ We strive to safeguard your data. We do this by:
   * protecting against unauthorized access to customer data using data encryption, authentication, and virus detection technology; 
   * requiring service providers who do business with Countrywide to comply with privacy laws; 
   * auditing company security practices; 
-  * monitoring our websites through recognized online privacy and security organizations such as TruSecure Corporation; and 
+  * monitoring our websites through recognized online privacy and security organizations such as Cybertrust Corporation; and 
   * conducting background checks on all employees and providing privacy training. 
 
   
+  
+
+
+click here to verify
+
   
   
 About our websites | Back to top  
@@ -63,10 +68,10 @@ To offer and recommend valuable products and services, we may share customer and
 
   * New Home Loans \- Countrywide Home Loans offers new home loans, home equity loans and lines of credit, and many refinancing options. 
   * Home Loan Servicing \- Countrywide Home Loan Servicing LP provides industry-leading customer service and easy access to your home loan account information. 
-  * Insurance \- Countrywide Insurance Services and Balboa Life & Casualty* offer homeowners, life, auto, disability, home warranty and other insurance products. 
+  * Insurance \- Countrywide Insurance Service Group of companies* offer homeowners, life, auto, disability, home warranty and other insurance products. 
   * Loan Closing Services \- The LandSafe family of companies offers title and escrow services, title insurance, credit reporting, property appraisals and flood zone determinations. 
-  * Investments \- Countrywide Investment Services offers financial planning, mutual funds, IRAs, Roth IRAs, IRA and 401(K) rollovers, stocks, bonds, and fixed and variable annuities. 
-  * Banking \- Countrywide Bank, N.A. offers checking, savings, CDs, money market accounts, new home loans, home equity loans and lines of credit, and many refinancing options. 
+  * Investments \- Countrywide Investment Services, Inc. offers investment planning, mutual funds, IRAs, Roth IRAs, IRA and 401(k) rollovers, stocks, bonds, and fixed and variable annuities. 
+  * Banking \- Countrywide Bank, N.A. offers savings, CDs, money market accounts, new home loans, home equity loans and lines of credit, and many refinancing options. 
   * New Products and Services \- We may expand to offer you new products and services by forming, acquiring or merging with a new company.
 
   
@@ -118,7 +123,7 @@ Please review the website privacy notices of the companies listed below for stat
 
 [Countrywide Home Loans](http://www.countrywide.com/global/privacy.asp?linkid=&SourceID=por)  
 [Countrywide Insurance Services](http://www.cwinsurance.com/About/privacy.aspx)  
-[Balboa Life & Casualty](http://www.balboainsurance.com/blcbi/privacypolicy.jsp)  
+[Balboa Insurance Group](http://www.balboainsurance.com/Privacyandsecurity.aspx)  
 [Countrywide Investments](http://www.countrywideinvestments.com/scontent.aspx?cmtag=Content-privacy_security)  
 [Countrywide Bank](http://www.countrywidebank.com/scontent.aspx?cmtag=Content-privacy_policy&from=17557)  
    
@@ -139,6 +144,9 @@ We commit to maintain accurate and up-to-date information on all of our customer
 Notification of changes | Back to top  
 The policies and practices in this section replace all previous notices or statements about your privacy rights at Countrywide. If we make any significant changes, we will notify you and only apply those new changes to future use of your information. If we make such changes, we will also revise the policy effective date, so that you can keep track of when those changes occur.   
 Policy Effective Date: December 15, 2004.  
+  
+* Countrywide Insurance Group consists of Balboa Insurance Company, Meritplan Insurance Company, Newport Insurance Company, Newport E & S Insurance Company, Balboa Life Insurance Company, Balboa Life Insurance Company of New York and Balboa Warranty Services Corporation.  
+  
    
 | About Internet Security  
 |  | How Does Browser Security Work? | Back to top  
@@ -180,11 +188,6 @@ Third party advertisers are subject to their own privacy policies. Currently, we
 Similar Devices | Back to top  
 For example, we include URLs in e-mail marketing materials sent directly to you (such as special offers) so that we can identify that it is you responding to the campaign and provide details on the offer available to you.   
    
-  
-*Balboa Life & Casualty consists of Balboa Insurance Company, Balboa Lloyds Insurance Company, Meritplan Insurance Company, Newport Insurance Company, Balboa Life Insurance Company, Balboa Life Insurance Company of New York, and Balboa Warranty Services Corporation.
-
-TruSecure is a registered trademark of TruSecure Corporation.  
-  
    
 | shared secrets  
 |  | What are Shared Secrets? | Back to top  
@@ -227,7 +230,7 @@ Identity theft requires someone to gain access to your personal information. You
   * Guard your PINs. Never give out your Personal Identification Number (PIN). Memorize your PINs and never write them on your cards or carry them in your wallet. 
   * Report lost or stolen credit cards, checks or identification immediately.
   * Store your personal information securely. Keep it where it is not easily available in the event of a burglary or other unauthorized access. 
-  * Be cautious online. Make sure it is safe when you are asked to provide information at websites or with online merchants you do not have an existing relationship with. Always confirm that you are in a secure session before entering personal information online (see [How Do I Know if Security is Operating?](https://web.archive.org/web/20051228080524id_/http%3A//my.countrywide.com/Privacy.aspx?linkid=PCFT014#about_internet_security)). 
+  * Be cautious online. Make sure it is safe when you are asked to provide information at websites or with online merchants you do not have an existing relationship with. Always confirm that you are in a secure session before entering personal information online (see [How Do I Know if Security is Operating?](https://web.archive.org/web/20060615223455id_/http%3A//my.countrywide.com/Privacy.aspx?linkid=PCFT014#about_internet_security)). 
   * Check your credit reports. Review your credit report regularly to identify any inquiries or accounts that you are not aware of and did not apply for. 
   * Protect your mailbox. If your residential mailbox is not secure, don’t put outgoing mail in the box and promptly pick up incoming mail or obtain a secure postal mailbox. 
   * Safeguard your checks. Never print your personal information such as a Social Security Number or driver’s license number on your checks.
@@ -250,7 +253,7 @@ Identity Theft Resources | Back to top
 [US Postal Inspection Service](http://www.usps.gov/postalinspectors/idthft_ncpw.htm) | 1-800-372-8347 | [Identity Theft Laws (by state)](http://www.ncvc.org/policy/issues/identitytheft/statetable.html) |    
    
 What is Countrywide Doing to Assist in the Battle Against Identity Theft? | Back to top  
-Protecting the confidentiality and security of our customers’ personal information is a priority for Countrywide and its family of companies. You can find more information in our [ Privacy and Security Policy](https://web.archive.org/web/20051228080524id_/http%3A//my.countrywide.com/Privacy.aspx?linkid=PCFT014). We understand the implications identity theft can have and take very specific steps to reduce the chance that identity thieves can damage the credit reputations of our customers. As a result, Countrywide has put multiple safety measures in place to combat identity theft.  
+Protecting the confidentiality and security of our customers’ personal information is a priority for Countrywide and its family of companies. You can find more information in our [ Privacy and Security Policy](https://web.archive.org/web/20060615223455id_/http%3A//my.countrywide.com/Privacy.aspx?linkid=PCFT014). We understand the implications identity theft can have and take very specific steps to reduce the chance that identity thieves can damage the credit reputations of our customers. As a result, Countrywide has put multiple safety measures in place to combat identity theft.  
    
 | Training  
 ---  
