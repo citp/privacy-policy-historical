@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the aplus.net privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229082534id_/http%3A//www.aplus.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aplus.net privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615185942id_/http%3A//www.aplus.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
-| 
-
 Privacy Statement
 
-| [](http://www.aplus.net/en/static/docs/Privacy.pdf) | Click here to download a PDF version of this document.  
+| [](http://www.aplus.net/en/static/docs/Privacy.pdf) |  Click here to download a PDF version of this document.  
 ---|---  
 _Note: Adobe Reader is required to view this file. If you do not have this plugin, please download Adobe Reader[ _here_](http://www.adobe.com/products/acrobat/readstep.html)._  
   
@@ -39,10 +37,6 @@ San Diego, CA. 92121
 **Sales:** 877-275-8763 or 858-410-6929 [sales@aplus.net](mailto:sales@aplus.net)  
 **Tech. Support:** (858) 410-6900 [support@aplus.net](mailto:support@aplus.net)
 
-[](http://www.aplus.net/en/static/docs/Privacy.pdf) | Click here to download a PDF version of this document.  
+[](http://www.aplus.net/en/static/docs/Privacy.pdf) |  Click here to download a PDF version of this document.  
 ---|---  
-_Note: Adobe Reader is required to view this file. If you do not have this plugin, please download Adobe Reader[ _here_](http://www.adobe.com/products/acrobat/readstep.html)._  
-|   
----  
-  
-Web hosting. Domain hosting. Web design. Low prices. Best value. Aplus.Net has it all! We offer award-winning and affordable web hosting, dedicated server web hosting, web design, e-commerce hosting and other Internet presence solutions. Our cheap yet powerful Internet web hosting services make Aplus.Net the best web host for your web site. With any web hosting account Aplus.Net provides quality web services. So if you want affordable web hosts, cheap yet powerful servers, get your website hosted with Aplus.Net! 
+_Note: Adobe Reader is required to view this file. If you do not have this plugin, please download Adobe Reader[ _here_](http://www.adobe.com/products/acrobat/readstep.html)._
