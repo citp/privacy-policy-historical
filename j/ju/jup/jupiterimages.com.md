@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jupiterimages.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231184427id_/http%3A//www.jupiterimages.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jupiterimages.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615023421id_/http%3A//www.jupiterimages.com/privacy.aspx) for the most accurate reproduction.*
 
 # Jupiterimages - Privacy Policy
 
@@ -8,11 +8,11 @@ We respect and are committed to protecting your privacy. That is why we have ado
 
 #### What information are you collecting and how are you collecting it?
 
-Every computer connected to the Internet is given a domain name and a set of numbers, that serve as that computer's "Internet Protocol" IP address. When a visitor requests a page from any Web site within the JUPM Network, our Web servers automatically recognize that visitor's domain name and IP address. The domain name and IP address reveal nothing personal about you other than the IP address from which you have accessed our site. We use this information to examine our traffic in aggregate, and to investigate misuse of the JUPM Network, its users, or to cooperate with law enforcement. See also Will you disclose the information you collect to outside third parties? We do not collect and evaluate this information for specific individuals. Our Web servers do not automatically record e-mail addresses of the visitors.
+Every computer connected to the Internet is given a domain name and a set of numbers that serves as that computer's "Internet Protocol" IP address. When a visitor requests a page from any Web site within the JUPM Network, our Web servers automatically recognize that visitor's domain name and IP address. The domain name and IP address reveal nothing personal about you other than the IP address from which you have accessed our site. We use this information to examine our traffic in aggregate, and to investigate misuse of the JUPM Network, its users, or to cooperate with law enforcement. See also: "Will you disclose the information you collect to outside third parties?" We do not collect and evaluate this information for specific individuals. Our Web servers do not automatically record e-mail addresses of the visitors.
 
 #### What are cookies?
 
-From time to time, JUPM or its advertisers may send a "cookie" to your computer. A cookie is a small piece of data that is sent to your Internet browser from a Web server and stored on your computer's hard drive. A cookie can't read data off of your computer hard disk or read cookie files created by other Web sites. Cookies do not damage your system. We use cookies to identify which areas of JUPM's Network you have visited or customized, so the next time you visit, those pages may be readily accessible. Our advertisers may also use cookies to ascertain how many times you've seen an advertisement. Our advertisers and we may use this information to better personalize the content, banners, and promotions that you see on our site. You can choose whether to accept cookies by changing the settings of your Internet browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our Site and other Web sites may be diminished and some features may not work as intended.
+From time to time, JUPM or its advertisers may send a "cookie" to your computer. A cookie is a small piece of data that is sent to your Internet browser from a Web server and stored on your computer's hard drive. A cookie can't read data off your computer hard disk or read cookie files created by other Web sites. Cookies do not damage your system. We use cookies to identify which areas of JUPM's Network you have visited or customized, so the next time you visit, those pages may be readily accessible. Our advertisers may also use cookies to ascertain how many times you've seen an advertisement. Our advertisers and we may use this information to better personalize the content, banners, and promotions that you see on our site. You can choose whether to accept cookies by changing the settings of your Internet browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our Site and other Web sites may be diminished and some features may not work as intended.
 
 #### How do you use single-pixel gifs?
 
@@ -20,7 +20,7 @@ JUPM and its advertisers may use single-pixel gif images, sometimes referred to 
 
 #### What information do you collect when I register for something?
 
-JUPM offers access to some services that require registration. We may use your registration contact information to send notification to you of JUPM products and services by e-mail and/or postal mail. We also may share that information with our clients. Our clients may send you promotional material that is related to the topic of the service for which you registered. We may also use your IP address internally and share it with third parties. See Will you disclose the information that you collect to outside third parties?
+JUPM offers access to some services that require registration. We may use your registration contact information to send notification to you of JUPM products and services by e-mail and/or postal mail. We also may share that information with our clients. Our clients may send you promotional material that is related to the topic of the service for which you registered. We may also use your IP address internally and share it with third parties. See: "Will you disclose the information that you collect to outside third parties?"
 
 #### What other information do you request?
 
@@ -28,7 +28,7 @@ We may also request your e-mail address or mailing address for the purposes of c
 
 We may from time to time send e-mail announcing new JUPM products and services. Except as stated above, JUPM will not send you e-mail that you have not agreed to receive. If you choose to supply your postal address in an online form, you may receive postal mailings from other third-party companies.
 
-When you sign up for an JUPM discussion forum, your name or alias is recorded solely for purposes of maintaining your own account within the forums. This information is not used to monitor your activity within a forum, nor is it used to identify you outside the JUPM network.
+When you sign up for a JUPM discussion forum, your name or alias is recorded solely for purposes of maintaining your own account within the forums. This information is not used to monitor your activity within a forum, nor is it used to identify you outside the JUPM network.
 
 When you register for a contest or other promotion, we may ask for your name, address, and e-mail address so we can administer the contest and notify winners.
 
@@ -36,7 +36,7 @@ When you use co-branded services, or those provided by a third-party, within the
 
 #### What information do you collect when I purchase something?
 
-If you are purchasing something from an JUPM media property, we and any third-party provider, need to know your name, e-mail address, mailing address, credit card number and expiration date. This allows us, or third-party providers, to process and fulfill your order and to notify you of your order status. This information may also be used by us to notify you of related products and services. Credit card and e-mail information will not be shared or sold to third parties for any purpose except as provided in this Privacy Policy without your express permission.
+If you are purchasing something from a JUPM media property, we and any third-party provider, need to know your name, e-mail address, mailing address, credit card number and expiration date. This allows us, or third-party providers, to process and fulfill your order and to notify you of your order status. This information may also be used by us to notify you of related products and services. Credit card and e-mail information will not be shared or sold to third parties for any purpose except as provided in this Privacy Policy without your express permission.
 
 Certain JUPM media properties use a shopping cart feature that safeguards this information by using industry standard SSL (Secure Socket Layer) encrypted servers. SSL codes the information transferred between you and the server, rendering it unreadable to anyone trying to intercept the information. Other JUPM media properties do not use SSL and thereby do not offer a secure coded way to transfer information.
 
@@ -53,11 +53,11 @@ JUPM will disclose personal information and/or an IP address, when required by l
 
 
 
-JUPM uses reasonable precautions to keep the information disclosed to us secure. JUPM reserves the right to transfer all such information in connection with the sale of all or part of JUPM's capital stock or assets. Furthermore, we are not responsible for any breach of security or for any actions of any third parties that receive the information. We are not responsible for such third-party privacy policies or how they treat information about their users See below, What else should I know about my privacy when online? See What information do you collect when I register for something.
+JUPM uses reasonable precautions to keep the information disclosed to us secure. JUPM reserves the right to transfer all such information in connection with the sale of all or part of JUPM's capital stock or assets. Furthermore, we are not responsible for any breach of security or for any actions of any third parties that receive the information. We are not responsible for such third-party privacy policies or how they treat information about their users. See below: "What else should I know about my privacy when online?" See: "What information do you collect when I register for something?"
 
 #### Opt-in announcement List Privacy Policy
 
-When you sign up for an JUPM e-mail newsletter, you are given the opportunity to sign up for targeted third-party mailings. Whether you want to receive these announcement is your choice; you should only receive mailings pertaining to distribution lists you select. If you choose to receive an announcement from a specific distribution list, you will receive commercial messages that are related to the topic of the list from independent third parties that have contracted with JUPM to send messages to the list. Personally identifiable information will not be used by JUPM for any purposes other than to deliver the e-mail announcements. You may stop the arrival of these announcement lists at any time by removing your e-mail address from the list by forwarding the announcement list to [announcementlist@jupitermedia.com](mailto:announcementlist@jupitermedia.com) or by following the instructions on the e-mails you receive.
+When you sign up for a JUPM e-mail newsletter, you are given the opportunity to sign up for targeted third-party mailings. Whether you want to receive these announcement is your choice; you should only receive mailings pertaining to distribution lists you select. If you choose to receive an announcement from a specific distribution list, you will receive commercial messages that are related to the topic of the list from independent third parties that have contracted with JUPM to send messages to the list. Personally identifiable information will not be used by JUPM for any purposes other than to deliver the e-mail announcements. You may stop the arrival of these announcement lists at any time by removing your e-mail address from the list by forwarding the announcement list to [announcementlist@jupitermedia.com](mailto:announcementlist@jupitermedia.com) or by following the instructions on the e-mails you receive.
 
 #### What else should I know about my privacy when online?
 
