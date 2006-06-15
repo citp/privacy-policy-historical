@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mindef.gov.sg privacy policy that was archived on 2005-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051215013744id_/http%3A//www.mindef.gov.sg/imindef/footer/privacy_statement.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mindef.gov.sg privacy policy that was archived on 2006-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615215808id_/http%3A//www.mindef.gov.sg/imindef/footer/privacy_statement.html) for the most accurate reproduction.-->
 
 <html><head><link rel="stylesheet" type="text/css" href="/etc/design/imindef_style.Css.l2fWChmVAw1PBMrLzI90zw1WBgf0zxmVyMfZzq--.css">
 <title>Privacy Statement</title>
@@ -255,16 +255,41 @@ a.footerfontLink:hover
      
 
 	
-<table width="100%" height="89px" border="0" cellpadding="0" cellspacing="0">
+<table width="100%" height="124px" border="0" cellpadding="0" cellspacing="0">
   
+ 
+  <!--<br>g_agencyMastHead == /content/imindef/site_profile/imindef.-Par0003-Single-TextImage.Par0003ImageRef.gif
+-->
+  <!--Display Government MastHead-->
+  <tbody><tr>
+     <!-- //Joey++, 2 Feb 2005 -->
+     <!-- //Add Imindef logo --> 
+     <td width="380px" align="left">	
+ 	
+     </td>  	
+     <td width="380px" align="right">		
+	<a href="javascript:popupOtherSite('http://www.gov.sg/', '__govMH__')">
+	    <!--<img height="35px" alt="Singapore Government" src="/content/imindef/site_profile/imindef.-Par0001-Single-TextImage.Par0001ImageRef.gif.gif?direct=1" border="0">-->
+	    <img height="35px" border="0" src="/imindef/site_profile/imindef.-Par0001-Single-TextImage.Par0001ImageRef.gif" alt="Singapore Government">
+	</a>
+     </td>  
+     <!-- //++Joey, 2 Feb 2005 -->     
+  </tr>	
    
   <!--Display Agency MastHead-->
-  <tbody><tr>
+  <tr>
      <td colspan="2" align="left" width="100%" height="70px">
         <!--Display Search Engine-->
 	<!--<table width="100%" height="100%" cellspacing="0" cellpadding="0" border="0" background="/content/imindef/site_profile/imindef.-Par0003-Single-TextImage.Par0003ImageRef.gif.jpg?direct=1" class="active-image-checkbox">-->
 	<table cellpadding="0" width="100%" height="100%" class="active-image-checkbox" background="/imindef/site_profile/imindef.-Par0003-Single-TextImage.Par0003ImageRef.gif" border="0" cellspacing="0">
-	<form id="miw_Search" name="miw_Search" action="http://search.miw.com.sg/query.html" method="get" target="search"></form>
+	<!--Joey++, 20060403-->
+	<!--Implement NS Portal Search-->
+	<!--
+	<form id="miw_Search" name="miw_Search" action="miwsearch_url" method="get" target="search">
+	-->
+	<form name="SearchForm" target="_blank" method="get" action="http://www.ns.sg/nsPortal/portlets/Search/SearchController.jpf"></form>
+	<input type="hidden" name="searchType" value="MINDEF"> 
+	<!--++Joey, 20060403-->
 	  <tbody><tr>
 	    <!-- //Joey++, 2 Feb 2005 -->
 	    <!-- Clicking on Agency Masthead always goes back to Home page-->
@@ -295,16 +320,17 @@ a.footerfontLink:hover
 		    Search&nbsp;
 		  </td>
                   <td align="right" valign="bottom">
-	            <input type="text" name="qt" size="15" value="">
+		    <!--<input type="text" name="qt" size="15" value="">-->
+		    <input type="text" name="searchTextField" size="15"> 
 	            <img src="/images/0.gif" width="5" height="1">
 	          </td>
-                  <td align="right" valign="bottom"><input type="submit" name="Go" value="Go">&nbsp;</td>
+                  <td align="right" valign="bottom"><!--<input type="submit" name="Go" value="Go">--><input class="search-btn" type="submit" value="Go"> &nbsp;</td>
                 </tr>
 		<!--Advanced Search-->
                 <tr>
                   <td align="right" colspan="4">
-		    <!--<a href="http://search.miw.com.sg/searchmiw.asp?advanced=yes">-->
-		    <a href="http://search.miw.com.sg/searchmiw.asp?advanced=yes" class="headerfontLink">
+		    <a href="http://www.ns.sg/nsPortal/portlets/Search/advResult.jsp" class="headerfontLink">
+		    <!--<a href="miwadvsearch_url"  class="headerfontLink">-->
 		      <!--<font face="Arial" size="13px" color="#FFFFFF">-->
 		        Advanced Search&nbsp;
 		      <!--</font>-->
@@ -355,7 +381,7 @@ a.footerfontLink:hover
 				<tr id="Biographies" bgcolor="#FFFFFF"><td nowrap="" onclick="doRedirect('/imindef/about_us/biographies.html')" onmouseover="this.style.backgroundColor = '#E6E6E6';this.style.cursor='pointer'" onmouseout="this.style.backgroundColor = '#FFFFFF';" width="100%" class="MenuBox"><a href="/imindef/about_us/biographies.html" class="MenuItem" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');">Biographies</a></td></tr>
 				<tr id="Legislation" bgcolor="#FFFFFF"><td nowrap="" onclick="doRedirect('/imindef/about_us/legislation.html')" onmouseover="this.style.backgroundColor = '#E6E6E6';this.style.cursor='pointer'" onmouseout="this.style.backgroundColor = '#FFFFFF';" width="100%" class="MenuBox"><a href="/imindef/about_us/legislation.html" class="MenuItem" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');">Legislation</a></td></tr>
 				<tr id="History Snippets" bgcolor="#FFFFFF"><td nowrap="" onclick="doRedirect('/imindef/about_us/history.html')" onmouseover="this.style.backgroundColor = '#E6E6E6';this.style.cursor='pointer'" onmouseout="this.style.backgroundColor = '#FFFFFF';" width="100%" class="MenuBox"><a href="/imindef/about_us/history.html" class="MenuItem" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');">History Snippets</a></td></tr>
-				<tr id="Press Contacts" bgcolor="#FFFFFF"><td nowrap="" onclick="doRedirect('/imindef/about_us/press_room.html')" onmouseover="this.style.backgroundColor = '#E6E6E6';this.style.cursor='pointer'" onmouseout="this.style.backgroundColor = '#FFFFFF';" width="100%" class="LastMenuBox"><a href="/imindef/about_us/press_room.html" class="MenuItem" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');">Press Contacts</a></td></tr>
+				<tr id="Media Contacts" bgcolor="#FFFFFF"><td nowrap="" onclick="doRedirect('/imindef/about_us/press_room.html')" onmouseover="this.style.backgroundColor = '#E6E6E6';this.style.cursor='pointer'" onmouseout="this.style.backgroundColor = '#FFFFFF';" width="100%" class="LastMenuBox"><a href="/imindef/about_us/press_room.html" class="MenuItem" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');">Media Contacts</a></td></tr>
 			</tbody></table>
 	</div>
 		</td>
@@ -578,7 +604,7 @@ a.footerfontLink:hover
 </tbody></table>
 
 <!-- Printing of date and time 
-sDate = 15-Dec-2005 01:13:04
+sDate = 21-Apr-2006 09:05:16
 end of printing of date and time -->
 
     
@@ -601,7 +627,7 @@ end of printing of date and time -->
 	</td>	
 	<td align="right">
 	    <!--<font face="Arial" size="13px">-->
-	    <font class="footerfont">© 2005 Government of Singapore</font>&nbsp;
+	    <font class="footerfont">© 2006 Government of Singapore</font>&nbsp;
 	</td>
    </tr>
 </tbody></table>
