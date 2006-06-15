@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the mals-e.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217214424id_/http%3A//www.mals-e.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mals-e.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615020010id_/http%3A//mals-e.com/privacy.php) for the most accurate reproduction.*
 
 # Mal's e-commerce
 
 ### **PRIVACY STATEMENT**
 
 **WHAT DATA DO I KEEP ABOUT USERS?  
-**Not much, is the answer! The only personal data I ask for from users is their name, country, telephone, fax and e-mail address. It's the stuff you see on the join form, [**see it here**](https://www.mals-e.com/admin/create.htm). Of that only the Contact e-mail address is really absolutely essential, I don't mind if people don't want to provide the other stuff. All this data can be updated at any time in Admin (go to _Your details_ ). 
+**Not much, is the answer! The only personal data I ask for from users is their name, country, telephone, fax and e-mail address. It's the stuff you see on the join form, [**see it here**](https://www.mals-e.com/join.php). Of that only the Contact e-mail address is really absolutely essential, I don't mind if people don't want to provide the other stuff. All this data can be updated at any time in Admin (go to _Your details_ ). 
 
-If you have a Premium account, or you buy some other service from me, then I will have your payment details stored in a **myMal** payment account. This will include your name, address, e-mail address and possibly your card details (if that is how you have elected to pay). European businesses will be required to provide a their tax number too (VAT number). All communications between you and your myMal account is over SSL, the financial data is stored encrypted. You may view and update any part of it by logging into your myMal account the details of which are e-mailed to you when you first create it. 
+If you have a Premium account then I will have your payment details stored in a **Billing account**. This will include your name, address, e-mail address and possibly your card details (if that is how you have elected to pay). European businesses will be required to provide a their tax number too (VAT number). All communications between you and your myMal account is over SSL, the financial data is stored encrypted. You may view and update any part of it by logging into your Billing account the details of which are e-mailed to you when you first create it. 
 
-From the moment you enter Admin your activities may be logged. Tracking is via cookie and IP address. This information may be used proactively develop a profile of your behaviour. It is collected purely for the purpose ensuring your own security. For example, if you try to login too many times with the wrong password then you may be blocked from further attempts. You cannot enter Admin without cookies enabled.
+From the moment you enter Admin your activities may be logged. Tracking is via cookie and IP address. This information may be used proactively to develop a profile of your behaviour. It is collected purely for the purpose of ensuring your own security. For example, if you try to login too many times with the wrong password then you may be blocked from further attempts. You cannot enter Admin without cookies enabled.
 
 For information about cookies see the Help file that comes with your browser. As a general rule I only every use session (memory resident) cookies, they "die" when you close down your browser.
 
 **  
 USE OF THIS DATA  
-**I don't have a mailing list, I don't make any sort of mass mailings to users. I use the Contact e-mail address only when I need to contact a user about an operational matter. If you have a Premium account holder you will receive a renewal notice when you paid up period is over. It is sent to the e-mail address in your myMal account. 
+**I don't have a mailing list, I don't make any sort of mass mailings to users. I use the Contact e-mail address only when I need to contact a user about an operational matter. If you have a Premium account holder you will receive a renewal notice when you paid up period is over. It is sent to the e-mail address in your Billing account. 
 
 Data such as a users country and business type is purely for statistical analysis. I keep it so that I can make sure I'm targeting my resources in the right places. I don't have any advertising on this site, I don't sell data to anyone else. It's just for me.
 
