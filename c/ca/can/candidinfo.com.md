@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the candidinfo.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231162736id_/http%3A//candidinfo.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the candidinfo.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615221123id_/http%3A//www.candidinfo.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy of Candidinfo an Indian website - Your Information Powerhouse
 
@@ -52,10 +52,9 @@ If you have any questions about this privacy statement, the practices of this si
 _Admin:  
 [info@candidinfo.com](mailto:%20info@candidinfo.com)
 
-Postal Address:  
-21, New Mohan Puri  
-Meerut - 250001  
-Uttar Pradesh  
+E 47/7 Second Floor,  
+Okhla Phase II  
+New Delhi  
 INDIA  
 Ph: +91-9810178155
 
