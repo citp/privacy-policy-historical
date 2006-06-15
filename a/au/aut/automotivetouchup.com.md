@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the automotivetouchup.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402054206id_/http%3A//www.automotivetouchup.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automotivetouchup.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615224920id_/http%3A//www.automotivetouchup.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -36,7 +36,4 @@ Consumers can have this information corrected by sending us e-mail at the above 
 
 With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.  
- 
-
-This website is property of and maintained by [Automotivetouchup.com](http://www.automotivetouchup.com/),  a Microfinish LLC Company © 2002-2004. Any questions or comments  email [web@automotivetouchup.com](mailto:web@automotivetouchup.com) Call Toll Free 1-888-710-5192
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
