@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unimelb.edu.au privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217133923id_/http%3A//www.unimelb.edu.au/disclaimer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unimelb.edu.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210910id_/http%3A//www.unimelb.edu.au/disclaimer/privacy.html) for the most accurate reproduction.*
 
-# Privacy : University of Melbourne
+# Privacy and FOI : About the University : The University of Melbourne
 
 As a user of the University of Melbourne web site, your privacy is protected by the _Information Privacy Act_ 2000 and the _Health Records Act_ 2001.
 
@@ -8,18 +8,16 @@ All information collected by the University is governed by the [University's Pri
 
 ## Privacy Officer
 
-Here is a link to the [Privacy Officer Page](http://www.unimelb.edu.au/unisec/privacy/)
+Here is a link to the [Privacy Officer Page](http://www.unimelb.edu.au/unisec/privacy/). 
 
-For specification information relating to staff and students at the University, please see the following web pages or alternatively, contact the [University Privacy Officer](mailto:privacy-officer@unimelb.edu.au).
+For specific information relating to staff and students at the University, please see the following web pages or contact the [University Privacy Officer](mailto:privacy-officer@unimelb.edu.au).
 
 ## 
 
 For details about the types of student information we collect:
 
   * go to the [student privacy](http://www.unimelb.edu.au/unisec/privacy/studentinfo.html) web page
-
   * or e-mail the privacy officer at [privacy-officer@unimelb.edu.au](mailto:privacy-officer@unimelb.edu.au)
-
 
 
 
@@ -28,9 +26,7 @@ For details about the types of student information we collect:
 For details about the types of personal information we collect about staff:
 
   * go to the [staff privacy](http://www.unimelb.edu.au/unisec/privacy/staffinfo.html) web page
-
   * or e-mail the privacy officer at [privacy-officer@unimelb.edu.au](mailto:privacy-officer@unimelb.edu.au)
-
 
 
 
