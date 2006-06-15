@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anotherfriend.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219021328id_/http%3A//www.anotherfriend.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anotherfriend.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615215103id_/http%3A//www.anotherfriend.com/privacy.cfm) for the most accurate reproduction.*
 
 # AnotherFriend.Com - Irelands free dating and Irish personals Service for Irish Singles
 
