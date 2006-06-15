@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the ancestry.co.uk privacy policy that was archived on 2005-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051031010411id_/http%3A//www.ancestry.co.uk/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ancestry.co.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210513id_/http%3A//www.ancestry.co.uk/legal/Privacy.aspx) for the most accurate reproduction.*
 
-# Ancestry.co.uk - Privacy Statement
+# 
 
 **This Privacy Statement was last updated on July 21, 2004.  
 If you have not reviewed it since that date, please do so.  
 You will not receive any other notice of changes to this statement.**
 
-Privacy Information for Ancestry.co.uk   
+Privacy Information for Ancestry.co.uk  
 MyFamily.com, Inc., operator of this site, recognizes the confidentiality of information that may be disclosed by members in registering or making purchases from our Website and we are firmly committed to protecting your privacy. The following discloses our information gathering and dissemination practices for this site. 
 
 **Overview:**  
-The personal, private information that is provided to Ancestry by individual members is not provided to unrelated third parties except in rare cases involving possible violations of our use policies or legal statutes. We do collect some data, always with your knowledge and consent, that is used to fulfill orders and otherwise enhance content to better meet the needs of our users.
+The personal, private information that is provided to Ancestry by individual members is not provided to unrelated third parties except in rare cases involving possible violations of our use policies or legal statutes. We do collect some data, always with your knowledge and consent, that is used to fulfill orders and otherwise enhance content to better meet the needs of our users. 
 
 Information submitted by you online (such as products you purchase from Ancestry, your name, address, e-mail address) may be shared with companies with which Ancestry has a commerce relationship and through which you reached this site, for marketing purposes. In such circumstances you will be considered their customer as well. If you object to such use, you may opt-out by e-mail request. Under no circumstances will Ancestry share with any other party your password or other personal information it may acquire about children, family, etc.
 
@@ -68,5 +68,4 @@ Ancestry may occasionally run contests or other special promotions on our site i
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you can contact:
 
 MyFamily.com, Inc.  
-360 W 4800 N Provo, UT 84604   
-[Online Knowledge Base](http://ancestry.custhelp.com/)
+360 W 4800 N Provo, UT 84604 
