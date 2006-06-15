@@ -1,13 +1,6 @@
-> *The following text is extracted and transformed from the automobilemag.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212131552id_/http%3A//automobilemag.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automobilemag.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615020500id_/http%3A//www.automobilemag.com/corporate/privacy) for the most accurate reproduction.*
 
 # Automobile Magazine Privacy Policy
-
-|  | 
-
-Automobile Magazine Privacy Policy
-
-  
-
 
 **PRIMEDIA CONSUMER PRIVACY POLICY**
 
@@ -163,8 +156,4 @@ _
 Updated July 30, 2002 
 
   
-  
-  | 
-
-  
-
+ 
