@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the habbo.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219201720id_/http%3A//habbo.com/habbo/en/help/safety/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the habbo.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615084441id_/http%3A//www.habbo.com/footer_pages/privacy_policy.html) for the most accurate reproduction.*
 
-# Habbo Hotel - Help & Safety - Safety - Privacy policy
-
-|  | ****
+# Habbo ~
 
 **Privacy Policy**
 
@@ -73,5 +71,3 @@ Effective Date This privacy policy is effective as of September 1, 2004
 
 Privacy Policy Changes:  
 If we make changes to any terms or conditions of this Privacy Policy, the changes will be posted on this website in order to keep you better informed. We may change, add or remove portions of this Privacy Policy at any time, and any changes will become effective immediately upon being posted; provided, however, that your Personal Information will be governed by the last Privacy Policy accepted by you unless we send you notice of the changes and you affirmatively opt-in to the new policy. 
-
-|  | 
