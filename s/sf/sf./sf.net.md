@@ -1,18 +1,6 @@
-> *The following text is extracted and transformed from the sf.net privacy policy that was archived on 2005-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050920090652id_/http%3A//sourceforge.net/docman/display_doc.php%3Fdocid%3D6049%26group_id%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sf.net privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615204300id_/http%3A//sourceforge.net/tos/privacy.php) for the most accurate reproduction.*
 
-# SourceForge.net: H02. Privacy Policy (en)
-
-|    
-
-
-* * *
-
-[Summary](https://web.archive.org/projects/alexandria/) |  [Admin](https://web.archive.org/project/admin/?group_id=1) |  [Home Page](http://sourceforge.net/) |  [Forums](https://web.archive.org/forum/?group_id=1) |  [Tracker](https://web.archive.org/tracker/?group_id=1) |  [Support](https://web.archive.org/tracker/?group_id=1&atid=200001) |  [RFE](https://web.archive.org/tracker/?group_id=1&atid=350001) |  [Lists](https://web.archive.org/mail/?group_id=1) |  [Docs](https://web.archive.org/docman/?group_id=1) |  [News](https://web.archive.org/news/?group_id=1) |  [Files](https://web.archive.org/project/showfiles.php?group_id=1) | 
-
-* * *
-
-  
-
+# SourceForge.net: SourceForge.net Privacy Policy
 
 **SOURCEFORGE.NET PRIVACY STATEMENT**
 
@@ -71,5 +59,3 @@ Text last modified on February 12, 2002. Formatting updated on August 17, 2004 (
 **NO GUARANTEES**
 
 While this Privacy Statement expresses SourceForge.net's standards for maintenance of private data, SourceForge.net is not in a position to guarantee that the standards will always be met. There may be factors beyond our control that may result in disclosure of data. As a consequence, SourceForge.net disclaims any warranties or representations relating to maintenance or nondisclosure of private information.
-
-| 
