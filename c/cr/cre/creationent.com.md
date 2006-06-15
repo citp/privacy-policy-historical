@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creationent.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212151114id_/http%3A//www.creationent.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creationent.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615031728id_/http%3A//creationent.com/privacy.htm) for the most accurate reproduction.*
 
 # Creation Entertainment - Star Trek - Stargate SG-1 - Xena - LOTR - Conventions & Merchandise
 
@@ -40,7 +40,7 @@ By using our Web site, you consent to the collection and use of this information
 
 **Contact Us**
 
-Creation Entertainment welcomes your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to this, or any other issue, at [webmaster@www.creationent.com](mailto:webmaster@www.creationent.com?Subject=Contact%20Creation%20Entertainment). Or you can reach us by posted mail at:
+Creation Entertainment welcomes your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to this, or any other issue, at [webmaster@creationent.com](mailto:webmaster@creationent.com). Or you can reach us by posted mail at:
 
 Creation Entertainment  
 217 S. Kenwood Street  
