@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amarillo.com privacy policy that was archived on 2004-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040813025855id_/http%3A//www.amarillo.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amarillo.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615215456id_/http%3A//www.amarillo.com/privacypolicy) for the most accurate reproduction.*
 
 # amarillo.com | Your Guide to Amarillo, Texas
 
@@ -28,9 +28,9 @@ We do not share personal identifying information with any third party without yo
 
 **IV. Accuracy of User Information**
 
-Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to [Justin Shumaker](mailto:webmaster@amarillo.com), or you can reach us by telephone at 806-345-3467. You can also write us at: 
+Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to [Steven Metzinger](mailto:webmaster@amarillo.com), or you can reach us by telephone at 806-345-3287. You can also write us at: 
 
-New Media Department,  
+amarillo.com,  
 Amarillo Globe-News  
 900 S. Harrison  
 Amarillo TX  
@@ -48,4 +48,4 @@ At any time while assessing our site(s), any user while online may "opt-out" of 
 
 **VII. Use of Materials**
 
-The right to download and store or output the materials in our site(s) is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at [webmaster@amarillonet.com](mailto:webmaster@amarillonet.com). 
+The right to download and store or output the materials in our site(s) is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at [newmedia@amarillo.com](mailto:newmedia@amarillo.com). 
