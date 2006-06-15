@@ -1,14 +1,15 @@
-> *The following text is extracted and transformed from the montgomerycountymd.gov privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216232043id_/http%3A//www.montgomerycountymd.gov/mcgtmpl.asp%3Furl%3D/content/mcginfo/siteFiles/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the montgomerycountymd.gov privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615213248id_/http%3A//montgomerycountymd.gov/mcgtmpl.asp%3Furl%3D/content/mcginfo/siteFiles/privacy.asp) for the most accurate reproduction.*
 
 # Welcome to the Montgomery County Maryland Website
 
 Thank you for using the Montgomery County, Maryland Government (hereafter, the County) web portal. We hope that you find our web portal to be a convenient and valuable resource for interacting with County Governmental organizations. In order to be of value, we know that you must be able to trust that any information you provide while interacting with the County will be kept private and secure. This document represents our Privacy Policy and it is intended to serve two purposes:
 
   * To provide guidance to County employees regarding how to develop, secure and maintain the County portal and 
-  * To assure you that your information will be kept private and secure.  
+  * To assure you that your information will be kept private and secure.
+
+
+
 It is our statement concerning how your information will be protected. If you have questions or doubts concerning the privacy of your information, you should consult this document. If, after consulting this document you still have questions or doubts, you should contact: 
-
-
 
 Montgomery County, Maryland Government   
 ATTN: Chris Daniel  
@@ -42,7 +43,7 @@ Fostering and maintaining the public's trust is a cornerstone of the County's we
 
 What organization(s) in the County is/are collecting the your information:
 
-The County consists of those organizations and agencies identified in the [County Organization Chart](https://web.archive.org/Content/government/aboutgovt/OrgChart.asp) found on the web site. Only County organization(s) are permitted to collect information from you when you visit the County web site. These organizations most often collect information by asking you to fill out forms. The data you enter into the forms is stored in data bases. By completing forms you are electing to authorize the use of information that you provide. If you do not wish the County to use your information, you should not complete web forms. However, by electing not to complete web forms you, will be unable to receive the web services that you otherwise would have received.  
+The County consists of those organizations and agencies identified in the [County Organization Chart](https://web.archive.org/Content/government/aboutgovt/OrgChart.asp) found on the web site. Only County organization(s) are permitted to collect information from you when you visit the County web site. These organizations most often collect information by asking you to fill out forms. The data you enter into the forms is stored in data bases. By completing forms you are electing to authorize the use of information that you provide. If you do not wish the County to use your information, you should not complete web forms. However, by electing not to complete web forms you will be unable to receive the web services that you otherwise would have received.  
 
 
 What personally identifiable information of yours is collected:
