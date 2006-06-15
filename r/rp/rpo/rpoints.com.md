@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rpoints.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217130527id_/http%3A//www.rpoints.com/page.php%3Fp%3D122525) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rpoints.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615190738id_/http%3A//www.rpoints.com/faq/answer.php%3Fid%3D310%26popup%3Dy) for the most accurate reproduction.*
 
-# Rpoints : Privacy Policy
+# Rpoints : What is this site's Privacy Policy?
 
 What do we do with the information you provide?
 
