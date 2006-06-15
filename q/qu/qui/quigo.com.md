@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quigo.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214042935id_/http%3A//quigo.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quigo.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615151326id_/http%3A//quigo.com/privacy.htm) for the most accurate reproduction.*
 
 # Quigo Technologies, Inc. - Content-Targeted Ad Serving and Search Engine Marketing Solutions
 
@@ -6,7 +6,7 @@ Quigo, Inc. places the utmost importance on the privacy of our clients and their
 
 ### What information does Quigo collect?
 
-We collect and store the information you provide us through your online account. As our partners are aware, our services can involve periodic crawls of their sites, to maintain relevancy, current data, etc. All information collected, including information collected directly from the performance of your account is securely stored and if shared, it only shared on an aggregate basis. Unless otherwise required by law, personally identifiable information is never shared. Quigo notes and saves information such as time of day, browser type and language, and IP address with each query, That information is used to verify our records and to provide more relevant services for users.
+We collect and store the information you provide us through your online account. As our partners are aware, our services can involve periodic crawls of their sites, to maintain relevancy, current data, etc. All information collected, including information collected directly from the performance of your account is securely stored and if shared, is only shared on an aggregate basis. Unless otherwise required by law, personally identifiable information is never shared. Quigo notes and saves information such as time of day, browser type and language, and IP address with each query. That information is used to verify our records and to provide more relevant services for users.
 
 ### What does Quigo do with my personal information?
 
@@ -22,7 +22,7 @@ A cookie is a piece of data placed on your computer when you visit a Website tha
 
 ### What is Quigo's cookie policy?
 
-Currently, Quigo does not cookie our users or visitors as a regular course of our business. However, we may from time to time cookie visitors in order to gather data. We may use cookies to improve the quality of our service and to understand our user base more. Quigo does this by storing user preferences in cookies and by tracking user trends and patterns of how people use the services. Quigo will not disclose its cookies to third parties nor will we expose any personally identifiable information except as required by a valid legal process such as a search warrant, subpoena, statute, or court order.
+We may cookie visitors in order to gather data. We may use cookies to improve the quality of our service and to understand our user base more. Quigo does this by storing user preferences in cookies and by tracking user trends and patterns of how people use the services. Quigo will not disclose its cookies to third parties nor will we expose any personally identifiable information except as required by a valid legal process such as a search warrant, subpoena, statute, or court order.
 
 Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. This should not affect your use of Quigo. Be aware, however, that some parts of the Internet may not function properly if you refuse cookies.
 
@@ -36,8 +36,10 @@ Quigo does not share information that is of a personally identifiable nature. We
 
 ### Your consent and changes to the Privacy Policy
 
-By using any of the Quigo services and our Web site, you consent to the collection and use of your information as we have outlined in this policy and to our [Terms of Service](https://web.archive.org/web/20051214042935id_/http%3A//quigo.com/terms.htm). Quigo may decide to change this Privacy Policy from time to time. When we do, we will post those changes on this page so that you are aware of the information we collect, how we use it, and under what circumstances we disclose it.
+By using any of the Quigo services and our Web site, you consent to the collection and use of your information as we have outlined in this policy and to our [Terms of Service](https://web.archive.org/web/20060615151326id_/http%3A//quigo.com/terms.htm). Quigo may decide to change this Privacy Policy from time to time. When we do, we will post those changes on this page so that you are aware of the information we collect, how we use it, and under what circumstances we disclose it.
 
 ### Questions?
 
 Feel free to contact us any time and we'll answer any additional questions you may have. Our email address is [support@quigo.com](mailto:support@quigo.com).
+
+_Last updated: June 14, 2006_
