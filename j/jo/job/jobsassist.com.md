@@ -1,11 +1,17 @@
-> *The following text is extracted and transformed from the jobsassist.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219042922id_/http%3A//www.vyomworld.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsassist.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615203350id_/http%3A//www.vyomworld.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
   
 
 
-> **Privacy Policy:** VyomWorld.com respects your privacy and strives to ensure that any personal information you provide is protected. The following describes our commitment to the privacy of your information, the information we gather, and how that information is used. 
+> **Privacy Policy:**
+> 
+> * * *
+> 
+> * * *
+> 
+> VyomWorld.com respects your privacy and strives to ensure that any personal information you provide is protected. The following describes our commitment to the privacy of your information, the information we gather, and how that information is used. 
 > 
 > This site has security measures in place to help protect the loss, misuse, and alteration of the information under our control. The information is stored in a secure operating environment. 
 > 
@@ -20,6 +26,18 @@
 > If you have any questions about this privacy statement, the practices of this site, or your dealings with the Webmaster-Affiliates.net Web site, please contact us at [support@vyomworld.com](mailto:support@vyomworld.com). 
 
   
-**[ Get a Fantastic Email Address. Free! Better than Gmail.](http://www.affiliatecurry.com/affiliate/trackingcode.php?aid=578&linkid=T39)**   
+
+
+| **Download Cool Waterfall Screensaver to your Desktop**  
+---  
   
-| 
+| **Tranquil Falls - Peaceful Waterfall ScreenSaver for your Desktop  
+  
+**Bring peace to your desktop. Waterfalls don't get more zen than this - as the waters descend, a ladybug wanders and a leaf drifts.Includes soundtrack of nature's own music.Only available at Screensavers.com - and yours free for download!  
+  
+**[Part Time Jobs - For Students, Freshers, Experienced & Housewives!](http://www.jobsassist.com/hyip.html)**
+
+  
+  
+  
+
