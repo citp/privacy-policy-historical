@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketwire.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217130008id_/http%3A//www.marketwire.com/mw/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketwire.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615022807id_/http%3A//www.marketwire.com/mw/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -81,8 +81,8 @@ We provide subscribers to our email newsletters with the opportunity to opt-out 
 If you have any questions about this Privacy Statement, the practices of Market Wire, or your dealings with this Web site, you can contact us at the postal address, phone number, fax number, or email address listed below. 
 
   * **Market Wire, Inc.**  
-5757 West Century Blvd., Second Floor  
-Los Angeles, CA 90045  
+200 N. Sepulveda Blvd., Suite 1050  
+El Segundo, CA 90245  
 Phone: 310.846.3600  
 Fax: 310.846.3700  
 Email: [info@marketwire.com](mailto:info@marketwire.com)
