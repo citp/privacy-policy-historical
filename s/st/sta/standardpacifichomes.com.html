@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the standardpacifichomes.com privacy policy that was archived on 2005-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051211013939id_/http%3A//standardpacifichomes.com/includes/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the standardpacifichomes.com privacy policy that was archived on 2006-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615114245id_/http%3A//standardpacifichomes.com/includes/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 		<title>Standard Pacific Homes Privacy Policy</title>
@@ -20,413 +20,160 @@
 
 <div id="TopNavBarDiv" class="NavTopLogo" style="PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 100%; BORDER-TOP-STYLE: none; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none">
 
-<script language="JavaScript" type="text/javascript">
-<!--
-// moock fpi [f.lash p.layer i.nspector]
-// version: 1.3.7
-// written by colin moock
-// code maintained at: http://www.moock.org/webdesign/flash/detection/moockfpi/
-// terms of use posted at: http://www.moock.org/terms/
-
-
-
-// =============================================================================
-// These are the user defined globals.
-// Modify the following variables to customize the inspection behaviour.
-
-var requiredVersion = 5;   // Version the user needs to view site (max 9, min 2)
-var useRedirect = false;    // Flag indicating whether or not to load a separate
-                           // page based on detection results. Set to true to
-                           // load a separate page. Set to false to embed the
-                           // movie or alternate html directly into this page.
-                           
-// Only set next three vars if useRedirect is true...
-var flashPage   = "movie.html"    // The location of the flash movie page
-var noFlashPage = "noflash.html"  // Page displayed if the user doesn't have the
-                                  // plugin or we can't detect it.
-var upgradePage = "upgrade.html"  // Page displayed if we detect an old plugin
-// =============================================================================
-
-
-
-// *************
-// Everything below this point is internal until after the BODY tag.
-// Do not modify! Proceed to the BODY tag for further instructions.
-// *************
-
-// System globals
-var flash2Installed = false;    // boolean. true if flash 2 is installed
-var flash3Installed = false;    // boolean. true if flash 3 is installed
-var flash4Installed = false;    // boolean. true if flash 4 is installed
-var flash5Installed = false;    // boolean. true if flash 5 is installed
-var flash6Installed = false;    // boolean. true if flash 6 is installed
-var flash7Installed = false;    // boolean. true if flash 7 is installed
-var flash8Installed = false;    // boolean. true if flash 8 is installed
-var flash9Installed = false;    // boolean. true if flash 9 is installed
-var maxVersion = 9;             // highest version we can actually detect
-var actualVersion = 0;          // version the user really has
-var hasRightVersion = false;    // boolean. true if it's safe to embed the flash movie in the page
-var jsVersion = 1.0;            // the version of javascript supported
-
-// -->
+<script type="text/javascript">
+	var FO = { movie:"/top_nav.swf?page=includesdevsetting=/", width:"940", height:"160", majorversion:"6", build:"0"};
+	UFO.create(FO, "TopNav");
 </script>
-
-<script language="JavaScript1.1" type="text/javascript">
-<!--
-
-// Check the browser...we're looking for ie/win
-var isIE  = (navigator.appVersion.indexOf("MSIE") != -1) ? true : false;    // true if we're on ie
-var isWin = (navigator.appVersion.toLowerCase().indexOf("win") != -1) ? true : false; // true if we're on windows
-
-
-// This is a js1.1 code block, so make note that js1.1 is supported.
-jsVersion = 1.1;
-
-// Write vbscript detection on ie win. IE on Windows doesn't support regular
-// JavaScript plugins array detection.
-if(isIE && isWin){
-  document.write('<SCR' + 'IPT LANGUAGE=VBScript\> \n');
-  document.write('on error resume next \n');
-  document.write('flash2Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.2"))) \n');
-  document.write('flash3Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.3"))) \n');
-  document.write('flash4Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.4"))) \n');
-  document.write('flash5Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.5"))) \n');  
-  document.write('flash6Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.6"))) \n');  
-  document.write('flash7Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.7"))) \n');
-  document.write('flash8Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.8"))) \n');
-  document.write('flash9Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.9"))) \n');
-  document.write('<\/SCR' + 'IPT\> \n'); // break up end tag so it doesn't end our script
-}
-// -->
-</script>
-
-<script language="JavaScript" type="text/javascript">
-<!--
-
-// Next comes the standard javascript detection that uses the 
-// navigator.plugins array. We pack the detector into a function so that 
-// it preloads before being run.
-
-function detectFlash() {  
-  // If navigator.plugins exists...
-  if (navigator.plugins) {
-    // ...then check for flash 2 or flash 3+.
-    if (navigator.plugins["Shockwave Flash 2.0"]
-        || navigator.plugins["Shockwave Flash"]) {
-
-      // Some version of Flash was found. Time to figure out which.
-      
-      // Set convenient references to flash 2 and the plugin description.
-      var isVersion2 = navigator.plugins["Shockwave Flash 2.0"] ? " 2.0" : "";
-      var flashDescription = navigator.plugins["Shockwave Flash" + isVersion2].description;
-
-      // DEBUGGING: uncomment next line to see the actual description.
-      // alert("Flash plugin description: " + flashDescription);
-      
-      // A flash plugin-description looks like this: Shockwave Flash 4.0 r5
-      // We can get the major version by grabbing the character before the period
-      // note that we don't bother with minor version detection. 
-      // Do that in your movie with $version or getVersion().
-      var flashVersion = parseInt(flashDescription.substring(16));
-
-      // We found the version, now set appropriate version flags. Make sure
-      // to use >= on the highest version so we don't prevent future version
-      // users from entering the site.
-      flash2Installed = flashVersion == 2;    
-      flash3Installed = flashVersion == 3;
-      flash4Installed = flashVersion == 4;
-      flash5Installed = flashVersion == 5;
-      flash6Installed = flashVersion == 6;
-      flash7Installed = flashVersion == 7;
-      flash8Installed = flashVersion == 8;
-      flash9Installed = flashVersion >= 9;
-    }
-  }
-  
-  // Loop through all versions we're checking, and
-  // set actualVersion to highest detected version.
-  for (var i = 2; i <= maxVersion; i++) {  
-    if (eval("flash" + i + "Installed") == true) actualVersion = i;
-  }
-  
-  // If we're on msntv (formerly webtv), the version supported is 4 (as of
-  // January 1, 2004). Note that we don't bother sniffing varieties
-  // of msntv. You could if you were sadistic...
-  if(navigator.userAgent.indexOf("WebTV") != -1) actualVersion = 4;  
-  
-  // DEBUGGING: uncomment next line to display flash version
-  // alert("version detected: " + actualVersion);
-
-
-  // We're finished getting the version on all browsers that support detection.
-  // Time to take the appropriate action.
-
-  // If the user has a new enough version...
-  if (actualVersion >= requiredVersion) {
-    // ...then we'll redirect them to the flash page, unless we've
-    // been told not to redirect.
-    if (useRedirect) {
-      // Need javascript1.1 to do location.replace
-      if(jsVersion > 1.0) {
-        // It's safe to use replace(). Good...we won't break the back button.
-        window.location.replace(flashPage);  
-      } else {
-        // JavaScript version is too old, so use .location to load
-        // the flash page.
-        window.location = flashPage;
-      }
-    }
-    
-    // If we got here, we didn't redirect. So we make a note that we should
-    // write out the object/embed tags later.
-    hasRightVersion = true;                
-  } else {  
-    // The user doesn't have a new enough version.
-    // If the redirection option is on, load the appropriate alternate page.
-    if (useRedirect) {
-      // Do the same .replace() call only if js1.1+ is available.
-      if(jsVersion > 1.0) {
-        window.location.replace((actualVersion >= 2) ? upgradePage : noFlashPage);
-      } else {
-        window.location = (actualVersion >= 2) ? upgradePage : noFlashPage;
-      }
-    }
-  }
-}
-
-detectFlash();
-
-  
-// -->
-</script>
-<script language="JavaScript" type="text/javascript">
-<!--
-// In this section we set up the content to be placed dynamically on the page.
-// Customize movie tags and alternate html content below.
-
-if (!useRedirect) {    // if dynamic embedding is turned on
-  if(hasRightVersion) {  // if we've detected an acceptable version
-    var oeTags = '<OBJECT CLASSID="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"'
-    + 'WIDTH="940" HEIGHT="140"'
-    + 'CODEBASE="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab">'
-    + '<PARAM NAME="_cx" VALUE="24871">'
-    + '<PARAM NAME="_cy" VALUE="3704">'
-    + '<PARAM NAME="FlashVars" VALUE="">'
-    + '<PARAM NAME="Movie" VALUE="/top_nav_en.swf'+ '?page=includes' + '">'
-    + '<PARAM NAME="Src" VALUE="/top_nav_en.swf'+ '?page=includes' + '">'
-    + '<PARAM NAME="WMode" VALUE="Window">'
-    + '<PARAM NAME="Play" VALUE="-1">'
-    + '<PARAM NAME="Loop" VALUE="0">'
-    + '<PARAM NAME="Quality" VALUE="High">'
-    + '<PARAM NAME="SAlign" VALUE="">'
-    + '<PARAM NAME="Menu" VALUE="-1">'
-    + '<PARAM NAME="Base" VALUE="">'
-    + '<PARAM NAME="AllowScriptAccess" VALUE="always">'
-    + '<PARAM NAME="Scale" VALUE="ShowAll">'
-    + '<PARAM NAME="DeviceFont" VALUE="0">'
-    + '<PARAM NAME="EmbedMovie" VALUE="0">'
-    + '<PARAM NAME="BGColor" VALUE="">'
-    + '<PARAM NAME="SWRemote" VALUE="">'
-    + '<PARAM NAME="MovieData" VALUE="">'
-    + '<PARAM NAME="SeamlessTabbing" VALUE="1">'
-    + '<embed src="/top_nav_en.swf'+ '?page=includes' + '"'
-    + 'pluginspace="http://www.macromedia.com/shockwave/download/index.cgi?p1_prod_version=shockwaveflash"'
-    + 'width="940"'
-    + 'height="140"'
-    + '<\/EMBED>'
-    + '<\/OBJECT>';
-
-    document.write(oeTags);   // embed the flash movie
-  } else {  // flash is too old or we can't detect the plugin
-    // NOTE: height, width are required!
-    var LanguageID = 1;
+  <div id="TopNav" align="center">
+	<script language="javascript">
+		var LanguageID = 1;
     
     if (LanguageID != 2)
     {
-		var alternateContent = '<div align="center">'
-		+ '<table width="940" border="0" cellpadding="0" cellspacing="0">'
-		+	'<tr><td valign="top" bgcolor="#ffffff">'
-		+	'<table width="940" height="135" border="0" cellpadding="0" cellspacing="0">'
-		+	'<tr><td valign="top" class="headerTable">'
-		+	'<table width="940" border="0" cellpadding="0" cellspacing="0">'
-		+	'<tr><td width="220" align="left" valign="top">'
-		+	'<table width="171" border="0" cellspacing="0" cellpadding="0">'
-		+	'<tr><td width="60" height="53">&nbsp;</td>'
-		+	'<td width="1" valign="bottom"><img src="/images/spacer.gif" width="1" height="53"></td>'
-		+	'<td width="110" align="center" valign="top" class="homeLink">'
-		+	'<table width="100%" border="0" cellspacing="0" cellpadding="0">'
-		+	'<tr><td><img src="/images/spacer.gif" width="100" height="27"></td></tr>'
-		+	'<tr><td align="right"><a href="#" class="homeLink">Home&nbsp;&nbsp;</a></td></tr>'
-		+	'</table></td></tr>'
-		+	'<tr align="center">'
-		+	'<td height="25" class="headerTopNav"><a href="/aboutus/AboutUsMain.aspx" class="headerTopNav">About Us</a></td>'
-		+	'<td rowspan="3" valign="top"><img src="/images/spacer.gif" width="1" height="50"></td>'
-		+	'<td class="headerTopNav"><a href="/contactus/ContactUsMain.aspx" class="headerTopNav">Contact Us</a></td>'
-		+	'</tr><tr>'
-		+	'<td><img src="/images/spacer.gif" width="60" height="1"></td>'
-		+	'<td><img src="/images/spacer.gif" width="110" height="1"></td>'
-		+	'</tr><tr>'
-		+	'<td height="25" align="center" class="headerTopNav"><a href="/careers/CareersMain.aspx" class="headerTopNav">Careers</a></td>'
-		+	'<td align="center" class="headerTopNav"><a href="http://phx.corporate-ir.net/phoenix.zhtml?c=95153&p=irol-irhome" class="headerTopNav">Investor Relations</a></td>'
-		+	'</tr></table></td>'
-		+	'<td width="220"><img src="/images/default_swap.jpg" width="220" height="104"></td>'
-		+	'<td width="500">&nbsp;</td></tr>'
-		+	'<tr><td colspan="3">'
-		+	'<table width="100%" border="0" cellspacing="0" cellpadding="0">'
-		+	'<tr><td colspan="11"><img src="/images/spacer.gif" width="940" height="3"></td></tr>'
-		+	'<tr align="center">'
-		+	'<td height="25" nowrap class="mainNav" align="center"><a href="/findhome/FindHomeNationalSearch.aspx" class="mainRed">FIND</a> <a href="/findhome/FindHomeNationalSearch.aspx" class="mainNav">Your New Home</a></td>'
-		+	'<td width="1"><img src="/images/spacer.gif" width="1" height="25"></td>'
-		+	'<td nowrap class="mainNav" align="center"><a href="/financehome/FinanceHomeMain.aspx" class="mainRed">FINANCE</a> <a href="/financehome/FinanceHomeMain.aspx" class="mainNav">Your New Home</a></td>'
-		+	'<td width="1"><img src="/images/spacer.gif" width="1" height="25"></td>'
-		+	'<td nowrap class="mainNav" align="center"><a href="/buyhome/BuyHomeMain.aspx" class="mainRed">BUYING</a> <a href="/buyhome/BuyHomeMain.aspx" class="mainNav">Your New Home</a></td>'	
-		+	'<td width="1"><img src="/images/spacer.gif" width="1" height="25"></td>'
-		+	'<td nowrap class="mainNav" align="center"><a href="/personalizehome/PersonalizeHomeMain.aspx" class="mainRed">PERSONALIZE</a> <a href="/personalizehome/PersonalizeHomeMain.aspx" class="mainNav">Your New Home</a></td>'
-		+	'<td width="1"><img src="/images/spacer.gif" width="1" height="25"></td>'
-		+	'<td nowrap class="mainNav" align="center"><a href="/customercare/CustomerCareMain.aspx" class="mainNav">Customer Care</a></td>'
-		+	'<td width="1"><img src="/images/spacer.gif" width="1" height="25"></td>'
-		+	'<td nowrap class="mainNav" align="center"><a href="/myfavorites/MyFavoritesMain.aspx" class="mainNav">My Favorites</a></td>'
-		+	'</tr></table></td></tr></table></td></tr></table></td></tr></table></div>';
+		var alternateContent = '<table width="940" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff" ID="Table1"	align="center">'
+		+ '<tr>'
+		+ '<td>'
+		+ '<table border="0" cellpadding="0" cellspacing="0" height="100%">'
+		+ '<tr>'
+		+ '<td width="175" height="45" colspan="3" class="HeaderHome">'
+		+ '<a href="http://www.standardpacifichomes.com" class="HeaderHome">Home</a>&nbsp;&nbsp;&nbsp;'
+		+ '</td>'
+		+ '</tr>'
+		+ '<tr>'
+		+ '<td colspan="3" height="4" class="HeaderSpacerCell"></td>'
+		+ '</tr>'
+		+ '<tr>'
+		+ '<td align="center" height="33" class="HeaderMenuCell">'
+		+ '<a href="http://www.standardpacifichomes.com/aboutus/AboutUsMain.aspx" class="HeaderMenuLink">About Us</a>'
+		+ '</td>'
+		+ '<td width="2" class="HeaderSpacerCell"></td>'
+		+ '<td align="center" height="33" class="HeaderMenuCell">'
+		+ '<a href="http://www.standardpacifichomes.com/contactus/ContactUsMain.aspx" class="HeaderMenuLink">'
+		+ 'Contact Us</a>'
+		+ '</td>'
+		+ '</tr>'
+		+ '<tr>'
+		+ '<td colspan="3" height="2" class="HeaderSpacerCell"></td>'
+		+ '</tr>'
+		+ '<tr>'
+		+ '<td align="center" height="33" class="HeaderMenuCell">'
+		+ '<a href="http://www.standardpacifichomes.com/careers/CareersMain.aspx" class="HeaderMenuLink">Careers</a>'
+		+ '</td>'
+		+ '<td width="2" class="HeaderSpacerCell"></td>'
+		+ '<td align="center" height="33" class="HeaderMenuCell">'
+		+ '<a href="http://phx.corporate-ir.net/phoenix.zhtml?c=95153&amp;p=irol-irhome" class="HeaderMenuLink">Investor Relations</a>'
+		+ '</td>'
+		+ '</tr>'
+		+ '</table>'
+		+ '</td>'
+		+ '<td width="2" class="HeaderSpacerCell"></td>'
+		+ '<td width="257" class="HeaderImage" valign=top>'
+		+ '<img src="../images/top_nav_img1.jpg" border="0">'
+		+ '</td>'
+		+ '<td align="center" width="506" class="HeaderLogo">'
+		+ '<img src="../images/sph_logo.jpg" border="0">'
+		+ '</td>'
+		+ '</tr>'
+		+ '<tr>'
+		+ '<td colspan="4">'
+		+ '<table width="100%" border="0" cellspacing="0" cellpadding="0" ID="Table2">'
+		+ '<tr align="center">'
+		+ '<td height="25" nowrap class="HeaderNav" align="center">'
+		+ '<a href="http://www.standardpacifichomes.com/findhome/FindHomeNationalSearch.aspx" class="mainBlue">FIND</a> <a href="http://www.standardpacifichomes.com/findhome/FindHomeNationalSearch.aspx" class="HeaderLink">Your New Home</a></td>'
+		+ '<td width="2"><img src="images/spacer.gif" width="1" height="25"></td>'
+		+ '<td nowrap class="HeaderNav" align="center"><a href="http://www.standardpacifichomes.com/financehome/FinanceHomeMain.aspx" class="mainBlue">FINANCE</a>'
+		+ '<a href="http://www.standardpacifichomes.com/financehome/FinanceHomeMain.aspx" class="HeaderLink">Your New Home</a></td>'
+		+ '<td width="2"><img src="images/spacer.gif" width="1" height="25"></td>'
+		+ '<td nowrap class="HeaderNav" align="center"><a href="http://www.standardpacifichomes.com/buyhome/BuyHomeMain.aspx" class="mainBlue">BUYING</a>'
+		+ '<a href="http://www.standardpacifichomes.com/buyhome/BuyHomeMain.aspx" class="HeaderLink">Your New Home</a></td>'
+		+ '<td width="2"><img src="images/spacer.gif" width="1" height="25"></td>'
+		+ '<td nowrap class="HeaderNav" align="center"><a href="http://www.standardpacifichomes.com/personalizehome/PersonalizeHomeMain.aspx" class="mainBlue">PERSONALIZE</a> <a href="http://www.standardpacifichomes.com/personalizehome/PersonalizeHomeMain.aspx" class="HeaderLink">Your New Home</a></td>'
+		+ '<td width="2"><img src="images/spacer.gif" width="1" height="25"></td>'
+		+ '<td nowrap class="HeaderNav" align="center"><a href="http://www.standardpacifichomes.com/customercare/CustomerCareMain.aspx" class="HeaderLink">Customer Care</a></td>'
+		+ '<td width="2"><img src="images/spacer.gif" width="1" height="25"></td>'
+		+ '<td nowrap class="HeaderNav" align="center"><a href="http://www.standardpacifichomes.com/myfavorites/MyFavoritesMain.aspx" class="HeaderLink">My Favorites</a>'
+		+ '</td>'
+		+ '</tr>'
+		+ '</table>'
+		+ '</td>'
+		+ '</tr>'
+		+ '</table>'
     }
     else
     {
-		var alternateContent = '<div align="center">'
-		+ '<table width="940" border="0" cellpadding="0" cellspacing="0">'
-		+	'<tr><td valign="top" bgcolor="#ffffff">'
-		+	'<table width="940" height="135" border="0" cellpadding="0" cellspacing="0">'
-		+	'<tr><td valign="top" class="headerTable">'
-		+	'<table width="940" border="0" cellpadding="0" cellspacing="0">'
-		+	'<tr><td width="220" align="left" valign="top">'
-		+	'<table width="171" border="0" cellspacing="0" cellpadding="0">'
-		+	'<tr><td width="60" height="53">&nbsp;</td>'
-		+	'<td width="1" valign="bottom"><img src="/images/spacer.gif" width="1" height="53"></td>'
-		+	'<td width="110" align="center" valign="top" class="homeLink">'
-		+	'<table width="100%" border="0" cellspacing="0" cellpadding="0">'
-		+	'<tr><td><img src="/images/spacer.gif" width="100" height="27"></td></tr>'
-		+	'<tr><td align="right"><a href="#" class="homeLink">Inicio&nbsp;&nbsp;</a></td></tr>'
-		+	'</table></td></tr>'
-		+	'<tr align="center">'
-		+	'<td height="25" class="headerTopNav"><a href="/aboutus/AboutUsMain.aspx" class="headerTopNav">Acerca De</a></td>'
-		+	'<td rowspan="3" valign="top"><img src="/images/spacer.gif" width="1" height="50"></td>'
-		+	'<td class="headerTopNav"><a href="/contactus/ContactUsMain.aspx" class="headerTopNav">Contactos</a></td>'
-		+	'</tr><tr>'
-		+	'<td><img src="/images/spacer.gif" width="60" height="1"></td>'
-		+	'<td><img src="/images/spacer.gif" width="110" height="1"></td>'
-		+	'</tr><tr>'
-		+	'<td height="25" align="center" class="headerTopNav"><a href="/careers/CareersMain.aspx" class="headerTopNav">Empleo</a></td>'
-		+	'<td align="center" class="headerTopNav"><a href="http://phx.corporate-ir.net/phoenix.zhtml?c=95153&p=irol-irhome" class="headerTopNav">Inversionistas</a></td>'
-		+	'</tr></table></td>'
-		+	'<td width="220"><img src="/images/default_swap.jpg" width="220" height="104"></td>'
-		+	'<td width="500">&nbsp;</td></tr>'
-		+	'<tr><td colspan="3">'
-		+	'<table width="100%" border="0" cellspacing="0" cellpadding="0">'
-		+	'<tr><td colspan="11"><img src="/images/spacer.gif" width="940" height="3"></td></tr>'
-		+	'<tr align="center">'
-		+	'<td nowrap class="mainNav" align="center"><a href="/findhome/FindHomeNationalSearch.aspx" class="mainRed">ENCUENTRE</a> <a href="/findhome/FindHomeNationalSearch.aspx" class="mainNav">Su Nuevo Hogar</a></td>'
-		+	'<td width="1"><img src="/images/spacer.gif" width="1" height="25"></td>'
-		+	'<td nowrap class="mainNav" align="center"><a href="/financehome/FinanceHomeMain.aspx" class="mainRed">FINANCIE</a> <a href="/financehome/FinanceHomeMain.aspx" class="mainNav">Su Nuevo Hogar</a></td>'
-		+	'<td width="1"><img src="/images/spacer.gif" width="1" height="25"></td>'
-		+	'<td nowrap class="mainNav" align="center"><a href="/buyhome/BuyHomeMain.aspx" class="mainRed">ADQUIRIENDO</a> <a href="/buyhome/BuyHomeMain.aspx" class="mainNav">Su Nuevo Hogar</a></td>'	
-		+	'<td width="1"><img src="/images/spacer.gif" width="1" height="25"></td>'
-		+	'<td nowrap class="mainNav" align="center"><a href="/personalizehome/PersonalizeHomeMain.aspx" class="mainRed">PERSONALICE</a> <a href="/personalizehome/PersonalizeHomeMain.aspx" class="mainNav">Su Nuevo Hogar</a></td>'
-		+	'<td width="1"><img src="/images/spacer.gif" width="1" height="25"></td>'
-		+	'<td nowrap class="mainNav" align="center"><a href="/customercare/CustomerCareMain.aspx" class="mainNav">Serv. a Clientes</a></td>'
-		+	'<td width="1"><img src="/images/spacer.gif" width="1" height="25"></td>'
-		+	'<td nowrap class="mainNav" align="center"><a href="/myfavorites/MyFavoritesMain.aspx" class="mainNav">Mis Favoritos</a></td>'
-		+	'</tr></table></td></tr></table></td></tr></table></td></tr></table></div>';
-    }
-    
-    
-
-    document.write(alternateContent);  // insert non-flash content
-  }
-}
-
-// -->
-</script><div align="center"><table width="940" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top" bgcolor="#ffffff"><table width="940" height="135" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top" class="headerTable"><table width="940" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="220" align="left" valign="top"><table width="171" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="60" height="53">&nbsp;</td><td width="1" valign="bottom"><img src="/images/spacer.gif" width="1" height="53"></td><td width="110" align="center" valign="top" class="homeLink"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><img src="/images/spacer.gif" width="100" height="27"></td></tr><tr><td align="right"><a href="#" class="homeLink">Home&nbsp;&nbsp;</a></td></tr></tbody></table></td></tr><tr align="center"><td height="25" class="headerTopNav"><a href="/aboutus/AboutUsMain.aspx" class="headerTopNav">About Us</a></td><td rowspan="3" valign="top"><img src="/images/spacer.gif" width="1" height="50"></td><td class="headerTopNav"><a href="/contactus/ContactUsMain.aspx" class="headerTopNav">Contact Us</a></td></tr><tr><td><img src="/images/spacer.gif" width="60" height="1"></td><td><img src="/images/spacer.gif" width="110" height="1"></td></tr><tr><td height="25" align="center" class="headerTopNav"><a href="/careers/CareersMain.aspx" class="headerTopNav">Careers</a></td><td align="center" class="headerTopNav"><a href="http://phx.corporate-ir.net/phoenix.zhtml?c=95153&amp;p=irol-irhome" class="headerTopNav">Investor Relations</a></td></tr></tbody></table></td><td width="220"><img src="/images/default_swap.jpg" width="220" height="104"></td><td width="500">&nbsp;</td></tr><tr><td colspan="3"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td colspan="11"><img src="/images/spacer.gif" width="940" height="3"></td></tr><tr align="center"><td height="25" nowrap="" class="mainNav" align="center"><a href="/findhome/FindHomeNationalSearch.aspx" class="mainRed">FIND</a> <a href="/findhome/FindHomeNationalSearch.aspx" class="mainNav">Your New Home</a></td><td width="1"><img src="/images/spacer.gif" width="1" height="25"></td><td nowrap="" class="mainNav" align="center"><a href="/financehome/FinanceHomeMain.aspx" class="mainRed">FINANCE</a> <a href="/financehome/FinanceHomeMain.aspx" class="mainNav">Your New Home</a></td><td width="1"><img src="/images/spacer.gif" width="1" height="25"></td><td nowrap="" class="mainNav" align="center"><a href="/buyhome/BuyHomeMain.aspx" class="mainRed">BUYING</a> <a href="/buyhome/BuyHomeMain.aspx" class="mainNav">Your New Home</a></td><td width="1"><img src="/images/spacer.gif" width="1" height="25"></td><td nowrap="" class="mainNav" align="center"><a href="/personalizehome/PersonalizeHomeMain.aspx" class="mainRed">PERSONALIZE</a> <a href="/personalizehome/PersonalizeHomeMain.aspx" class="mainNav">Your New Home</a></td><td width="1"><img src="/images/spacer.gif" width="1" height="25"></td><td nowrap="" class="mainNav" align="center"><a href="/customercare/CustomerCareMain.aspx" class="mainNav">Customer Care</a></td><td width="1"><img src="/images/spacer.gif" width="1" height="25"></td><td nowrap="" class="mainNav" align="center"><a href="/myfavorites/MyFavoritesMain.aspx" class="mainNav">My Favorites</a></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></div>
-
-<noscript>
-  <div align="center">
-		<table width="940" border="0" cellpadding="0" cellspacing="0">
-			<tr>
-				<td valign="top" bgcolor="#ffffff">
-					<table width="940" height="135" border="0" cellpadding="0" cellspacing="0">
-						<tr>
-							<td valign="top" class="headerTable">
-								<table width="940" border="0" cellpadding="0" cellspacing="0">
-									<tr>
-										<td width="220" align="left" valign="top">
-											<table width="171" border="0" cellspacing="0" cellpadding="0">
-												<tr>
-													<td width="60" height="53">&nbsp;</td>
-													<td width="1" valign="bottom"><img src="/images/spacer.gif" width="1" height="53"></td>
-													<td width="110" align="center" valign="top" class="homeLink"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-															<tr>
-																<td><img src="/images/spacer.gif" width="100" height="27"></td>
-															</tr>
-															<tr>
-																<td align="right"><a href="#" class="homeLink">Home&nbsp;&nbsp;</a></td>
-															</tr>
-														</table>
-													</td>
-												</tr>
-												<tr align="center">
-													<td height="25" class="headerTopNav"><a href="/aboutus/AboutUsMain.aspx" class="headerTopNav">About Us</a></td>
-													<td rowspan="3" valign="top"><img src="/images/spacer.gif" width="1" height="50"></td>
-													<td class="headerTopNav"><a href="/contactus/ContactUsMain.aspx" class="headerTopNav">Contact Us</a></td>
-												</tr>
-												<tr>
-													<td><img src="/images/spacer.gif" width="60" height="1"></td>
-													<td><img src="/images/spacer.gif" width="110" height="1"></td>
-												</tr>
-												<tr>
-													<td height="25" align="center" class="headerTopNav"><a href="/careers/CareersMain.aspx" class="headerTopNav">Careers</a></td>
-													<td align="center" class="headerTopNav"><a href="http://phx.corporate-ir.net/phoenix.zhtml?c=95153&p=irol-irhome" class="headerTopNav">Investor 
-															Relations</a></td>
-												</tr>
-											</table>
-										</td>
-										<td width="220"><img src="/images/default_swap.jpg" width="220" height="104"></td>
-										<td width="500">&nbsp;</td>
-									</tr>
-									<tr>
-										<td colspan="3"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-												<tr>
-													<td colspan="13"><img src="/images/spacer.gif" width="940" height="3"></td>
-												</tr>
-												<tr align="center">
-													<td height="25" nowrap class="mainNav" align="center"><a href="/findhome/FindHomeNationalSearch.aspx" class="mainRed">FIND</a>
-														<a href="/findhome/FindHomeNationalSearch.aspx" class="mainNav">Your New Home</a></td>
-													<td width="1"><img src="/images/spacer.gif" width="1" height="25"></td>
-													<td nowrap class="mainNav" align="center"><a href="/financehome/FinanceHomeMain.aspx" class="mainRed">FINANCE</a> <a href="/financehome/FinanceHomeMain.aspx" class="mainNav">
-															Your New Home</a></td>
-													<td width="1"><img src="/images/spacer.gif" width="1" height="25"></td>
-													<td nowrap class="mainNav" align="center"><a href="/buyhome/BuyHomeMain.aspx" class="mainRed">BUYING</a> <a href="/buyhome/BuyHomeMain.aspx" class="mainNav">
-															Your New Home</a></td>
-													<td width="1"><img src="/images/spacer.gif" width="1" height="25"></td>
-													<td nowrap class="mainNav" align="center"><a href="/personalizehome/PersonalizeHomeMain.aspx" class="mainRed">PERSONALIZE</a>
-														<a href="/personalizehome/PersonalizeHomeMain.aspx" class="mainNav">Your New Home</a></td>
-													<td width="1"><img src="/images/spacer.gif" width="1" height="25"></td>
-													<td nowrap class="mainNav" align="center"><a href="/livehome/LiveHomeMain.aspx" class="mainRed">LIVE</a> <a href="/livehome/LiveHomeMain.aspx" class="mainNav">
-															In Your New Home</a></td>
-													<td width="1"><img src="/images/spacer.gif" width="1" height="25"></td>
-													<td nowrap class="mainNav" align="center"><a href="/customercare/CustomerCareMain.aspx" class="mainNav">Customer Care</a></td>
-													<td width="1"><img src="/images/spacer.gif" width="1" height="25"></td>
-													<td nowrap class="mainNav" align="center"><a href="/myfavorites/MyFavoritesMain.aspx" class="mainNav">My Favorites</a></td>
-												</tr>
-											</table>
-										</td>
-									</tr>
-								</table>
-							</td>
-						</tr>
-					</table>
-				</td>
-			</tr>
-		</table>
+    var alternateContent = '<table width="940" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff" ID="Table1"	align="center">'
+		+ '<tr>'
+		+ '<td>'
+		+ '<table border="0" cellpadding="0" cellspacing="0" height="100%">'
+		+ '<tr>'
+		+ '<td width="175" height="45" colspan="3" class="HeaderHome">'
+		+ '<a href="http://www.standardpacifichomes.com" class="HeaderHome">Inicio</a>&nbsp;&nbsp;&nbsp;'
+		+ '</td>'
+		+ '</tr>'
+		+ '<tr>'
+		+ '<td colspan="3" height="4" class="HeaderSpacerCell"></td>'
+		+ '</tr>'
+		+ '<tr>'
+		+ '<td align="center" height="33" class="HeaderMenuCell">'
+		+ '<a href="http://www.standardpacifichomes.com/aboutus/AboutUsMain.aspx" class="HeaderMenuLink">Acerca De</a>'
+		+ '</td>'
+		+ '<td width="2" class="HeaderSpacerCell"></td>'
+		+ '<td align="center" height="33" class="HeaderMenuCell">'
+		+ '<a href="http://www.standardpacifichomes.com/contactus/ContactUsMain.aspx" class="HeaderMenuLink">'
+		+ 'Contactos</a>'
+		+ '</td>'
+		+ '</tr>'
+		+ '<tr>'
+		+ '<td colspan="3" height="2" class="HeaderSpacerCell"></td>'
+		+ '</tr>'
+		+ '<tr>'
+		+ '<td align="center" height="33" class="HeaderMenuCell">'
+		+ '<a href="http://www.standardpacifichomes.com/careers/CareersMain.aspx" class="HeaderMenuLink">Empleo</a>'
+		+ '</td>'
+		+ '<td width="2" class="HeaderSpacerCell"></td>'
+		+ '<td align="center" height="33" class="HeaderMenuCell">'
+		+ '<a href="http://phx.corporate-ir.net/phoenix.zhtml?c=95153&amp;p=irol-irhome" class="HeaderMenuLink">Inversionistas</a>'
+		+ '</td>'
+		+ '</tr>'
+		+ '</table>'
+		+ '</td>'
+		+ '<td width="2" class="HeaderSpacerCell"></td>'
+		+ '<td width="257" class="HeaderImage" valign=top>'
+		+ '<img src="../images/top_nav_img1.jpg" border="0">'
+		+ '</td>'
+		+ '<td align="center" width="506" class="HeaderLogo">'
+		+ '<img src="../images/sph_logo.jpg" border="0">'
+		+ '</td>'
+		+ '</tr>'
+		+ '<tr>'
+		+ '<td colspan="4">'
+		+ '<table width="100%" border="0" cellspacing="0" cellpadding="0" ID="Table2">'
+		+ '<tr align="center">'
+		+ '<td height="25" nowrap class="HeaderNav" align="center">'
+		+ '<a href="http://www.standardpacifichomes.com/findhome/FindHomeNationalSearch.aspx" class="mainBlue">ENCUENTRE</a> <a href="/findhome/FindHomeNationalSearch.aspx" class="HeaderLink">Su Nuevo Hogar</a></td>'
+		+ '<td width="2"><img src="images/spacer.gif" width="1" height="25"></td>'
+		+ '<td nowrap class="HeaderNav" align="center"><a href="http://www.standardpacifichomes.com/financehome/FinanceHomeMain.aspx" class="mainBlue">FINANCIE</a>'
+		+ '<a href="http://www.standardpacifichomes.com/financehome/FinanceHomeMain.aspx" class="HeaderLink">Su Nuevo Hogar</a></td>'
+		+ '<td width="2"><img src="images/spacer.gif" width="1" height="25"></td>'
+		+ '<td nowrap class="HeaderNav" align="center"><a href="http://www.standardpacifichomes.com/buyhome/BuyHomeMain.aspx" class="mainBlue">ADQUIRIENDO</a>'
+		+ '<a href="http://www.standardpacifichomes.com/buyhome/BuyHomeMain.aspx" class="HeaderLink">Su Nuevo Hogar</a></td>'
+		+ '<td width="2"><img src="images/spacer.gif" width="1" height="25"></td>'
+		+ '<td nowrap class="HeaderNav" align="center"><a href="http://www.standardpacifichomes.com/personalizehome/PersonalizeHomeMain.aspx" class="mainBlue">PERSONALICE</a> <a href="http://www.standardpacifichomes.com/personalizehome/PersonalizeHomeMain.aspx" class="HeaderLink">Su Nuevo Hogar</a></td>'
+		+ '<td width="2"><img src="images/spacer.gif" width="1" height="25"></td>'
+		+ '<td nowrap class="HeaderNav" align="center"><a href="http://www.standardpacifichomes.com/customercare/CustomerCareMain.aspx" class="HeaderLink">Serv. a Clientes</a></td>'
+		+ '<td width="2"><img src="images/spacer.gif" width="1" height="25"></td>'
+		+ '<td nowrap class="HeaderNav" align="center"><a href="http://www.standardpacifichomes.com/myfavorites/MyFavoritesMain.aspx" class="HeaderLink">Mi Casa</a>'
+		+ '</td>'
+		+ '</tr>'
+		+ '</table>'
+		+ '</td>'
+		+ '</tr>'
+		+ '</table>'
+		}
+		
+    document.write(alternateContent); 
+	</script><table width="940" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff" id="Table1" align="center"><tbody><tr><td><table border="0" cellpadding="0" cellspacing="0" height="100%"><tbody><tr><td width="175" height="45" colspan="3" class="HeaderHome"><a href="http://www.standardpacifichomes.com" class="HeaderHome">Home</a>&nbsp;&nbsp;&nbsp;</td></tr><tr><td colspan="3" height="4" class="HeaderSpacerCell"></td></tr><tr><td align="center" height="33" class="HeaderMenuCell"><a href="http://www.standardpacifichomes.com/aboutus/AboutUsMain.aspx" class="HeaderMenuLink">About Us</a></td><td width="2" class="HeaderSpacerCell"></td><td align="center" height="33" class="HeaderMenuCell"><a href="http://www.standardpacifichomes.com/contactus/ContactUsMain.aspx" class="HeaderMenuLink">Contact Us</a></td></tr><tr><td colspan="3" height="2" class="HeaderSpacerCell"></td></tr><tr><td align="center" height="33" class="HeaderMenuCell"><a href="http://www.standardpacifichomes.com/careers/CareersMain.aspx" class="HeaderMenuLink">Careers</a></td><td width="2" class="HeaderSpacerCell"></td><td align="center" height="33" class="HeaderMenuCell"><a href="http://phx.corporate-ir.net/phoenix.zhtml?c=95153&amp;p=irol-irhome" class="HeaderMenuLink">Investor Relations</a></td></tr></tbody></table></td><td width="2" class="HeaderSpacerCell"></td><td width="257" class="HeaderImage" valign="top"><img src="../images/top_nav_img1.jpg" border="0"></td><td align="center" width="506" class="HeaderLogo"><img src="../images/sph_logo.jpg" border="0"></td></tr><tr><td colspan="4"><table width="100%" border="0" cellspacing="0" cellpadding="0" id="Table2"><tbody><tr align="center"><td height="25" nowrap="" class="HeaderNav" align="center"><a href="http://www.standardpacifichomes.com/findhome/FindHomeNationalSearch.aspx" class="mainBlue">FIND</a> <a href="http://www.standardpacifichomes.com/findhome/FindHomeNationalSearch.aspx" class="HeaderLink">Your New Home</a></td><td width="2"><img src="images/spacer.gif" width="1" height="25"></td><td nowrap="" class="HeaderNav" align="center"><a href="http://www.standardpacifichomes.com/financehome/FinanceHomeMain.aspx" class="mainBlue">FINANCE</a><a href="http://www.standardpacifichomes.com/financehome/FinanceHomeMain.aspx" class="HeaderLink">Your New Home</a></td><td width="2"><img src="images/spacer.gif" width="1" height="25"></td><td nowrap="" class="HeaderNav" align="center"><a href="http://www.standardpacifichomes.com/buyhome/BuyHomeMain.aspx" class="mainBlue">BUYING</a><a href="http://www.standardpacifichomes.com/buyhome/BuyHomeMain.aspx" class="HeaderLink">Your New Home</a></td><td width="2"><img src="images/spacer.gif" width="1" height="25"></td><td nowrap="" class="HeaderNav" align="center"><a href="http://www.standardpacifichomes.com/personalizehome/PersonalizeHomeMain.aspx" class="mainBlue">PERSONALIZE</a> <a href="http://www.standardpacifichomes.com/personalizehome/PersonalizeHomeMain.aspx" class="HeaderLink">Your New Home</a></td><td width="2"><img src="images/spacer.gif" width="1" height="25"></td><td nowrap="" class="HeaderNav" align="center"><a href="http://www.standardpacifichomes.com/customercare/CustomerCareMain.aspx" class="HeaderLink">Customer Care</a></td><td width="2"><img src="images/spacer.gif" width="1" height="25"></td><td nowrap="" class="HeaderNav" align="center"><a href="http://www.standardpacifichomes.com/myfavorites/MyFavoritesMain.aspx" class="HeaderLink">My Favorites</a></td></tr></tbody></table></td></tr></tbody></table>
 	</div>
-</noscript>
-
 </div> 
 </td>
 				</tr>
@@ -437,14 +184,14 @@ if (!useRedirect) {    // if dynamic embedding is turned on
 								<td style="WIDTH: 175px" width="175" class="NavLeftColumn">
 <link href="/styles.css" type="text/css" rel="stylesheet">
 <div class="NavLeftColumn" id="LeftNavBarDiv" style="PADDING-RIGHT: 0px; BORDER-TOP: white 5px solid; DISPLAY: inline; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 175px; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none">
-	<table cellspacing="0" cellpadding="0" width="174" border="0">
+	<br><table cellspacing="0" cellpadding="0" width="174" border="0">
 		
 		
 		
 		
 		<tbody><tr id="LeftNavBar_MainRow">
 	<td width="15">&nbsp;</td>
-	<td valign="top" align="center" bgcolor="#ffffcc"><table cellspacing="1" cellpadding="2" align="Center" rules="rows" border="0" id="LeftNavBar_dgdLeftNav" width="160">
+	<td valign="top" align="center" bgcolor="#ffffff"><br><table cellspacing="1" cellpadding="2" align="Center" rules="rows" border="0" id="LeftNavBar_dgdLeftNav" width="160">
 
 	</table></td>
 </tr>
@@ -703,11 +450,11 @@ if (!useRedirect) {    // if dynamic embedding is turned on
 	<table width="940" border="0" class="PrivacyLabel" bordercolor="black" id="Table1" cellpadding="0" cellspacing="0" align="center">
 		<tbody><tr>
 			<td align="center" height="21" width="95%" class="PrivacyLabel">
-				<span id="FOOTER_lblCopyright" class="PrivacyLabel">Copyright © 2004 Standard Pacific Homes.  All Rights Reserved.</span>
+				<span id="FOOTER_lblCopyright" class="PrivacyLabel">Copyright © 2006 Standard Pacific Homes.  All Rights Reserved.</span>
 				<a id="FOOTER_Privacy" class="PrivacyLabel" href="/includes/PrivacyPolicy.aspx">Privacy Policy.</a>
 				<a id="FOOTER_Terms" class="PrivacyLabel" href="/includes/Terms.aspx">Terms and Conditions.</a>
 				</td>
-			<td align="right" height="21" width="5%" valign="middle" style="PADDING-RIGHT: 15px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px"><img src="/images/hud_wht.gif" width="25" height="21" align="middle" border="0"></td>
+			<td align="right" height="21" width="5%" valign="middle" style="PADDING-RIGHT: 15px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px"><img src="/images/equal_housing.gif" align="middle" border="0"></td>
 		</tr>
 	</tbody></table>
 </div>
