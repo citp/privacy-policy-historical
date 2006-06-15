@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kolotv.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228125022id_/http%3A//www.kolotv.com/unclassified/647.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kolotv.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615050747id_/http%3A//www.kolotv.com/unclassified/647.html) for the most accurate reproduction.*
 
 # KOLO | GRAY TELEVISION GROUP, INC. PRIVACY POLICY AND YOUR PRIVACY RIGHTS
 
@@ -134,9 +134,13 @@ We will use reasonable efforts to promptly investigate any complaint you may hav
   * [www.wtap.com](http://www.wtap.com/)
   * [www.wtok.com](http://www.wtok.com/)
   * [www.wtvynews4.com](http://www.wtvynews4.com/)
+  * [nbc15.madison.com](http://nbc15.madison.com/)
+  * [www.wsaz.com](http://www.wsaz.com/)
+  * [www.nbc11news.com](http://www.nbc11news.com/)
+  * [www.wrdw.com](http://www.wrdw.com/)
 
 
 
-This Privacy Policy was last updated on Dec. 20, 2004 and is effective immediately.
+This Privacy Policy was last updated on Jan. 1, 2006 and is effective immediately.
 
-Copyright © 2005 Gray Television Group, Inc. All rights reserved.
+Copyright © 2006 Gray Television Group, Inc. All rights reserved.
