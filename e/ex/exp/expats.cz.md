@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the expats.cz privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306211836id_/http%3A//www.expats.cz/content/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expats.cz privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615055246id_/http%3A//www.expats.cz/content/privacy.php) for the most accurate reproduction.*
 
-# None
-
-We have established this privacy policy to explain to you how your information is protected, collected and used, which may be updated from time to time. We will provide notice of materially significant changes to this privacy policy by posting notice on the site.
+# Privacy Policy
 
 **Protecting your privacy  
 **We don't share your information with third parties for marketing purposes. Account information is password-protected. Keep your password safe. Forums use basic webserver authentication. ALWAYS log out after you are done.
@@ -25,6 +23,8 @@ We may collect personal information if you provide it in feedback or comments, p
 
 Our web logs collect standard web log entries for each page served, including your IP address, page URL, and timestamp. Web logs help us to diagnose problems with our server, to administer the site, and to otherwise provide our service to you.  
 
+
+| 
 
 **Data we store  
 **All classified and forum postings are stored in our database, even after "deletion," and may be archived elsewhere. Our web logs and other records are stored indefinitely. Subscribers can manage their profiles by selecting the "edit profile" link.
