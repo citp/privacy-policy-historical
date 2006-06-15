@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the weei.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220032403id_/http%3A//www.weei.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weei.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615195523id_/http%3A//weei.com/article.asp%3Fid%3D93584) for the most accurate reproduction.*
 
-# WEEI 850 AM
+# WEEI-AM
 
 **A Privacy Policy Statement from Entercom Communications**
 
@@ -61,3 +61,6 @@ Cookies were originally designed to help a Web site distinguish a user's browser
 If you are just browsing an Entercom Communications radio station Web site, a cookie identifies only your browser. If you become a registered user on an Entercom Communications radio station Web site (with a designated user ID and password), we may use cookies so that we can provide personalized information that we believe will be of value to you based on preferences you have stated while visiting the site. It is possible to set your browser to inform you when a cookie is being placed -- this way, you have the opportunity to decide whether to accept the cookie. If you are just browsing one of our sites and are not a registered user, you do not have to accept a cookie and you may still continue utilizing the site, though you might not be able to experience the site to the fullest extent. 
 
 You can find out to set your cookie preferences by visiting the site of the browser software you use, such as Netscape, Microsoft Internet Explorer or AOL. 
+
+  
+
