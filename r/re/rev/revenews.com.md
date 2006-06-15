@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revenews.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228145918id_/http%3A//revenews.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revenews.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615205122id_/http%3A//revenews.com/privacy.html) for the most accurate reproduction.*
 
 # ReveNews Privacy Policy, Online Revenue News & Opinions Since 1998
 
@@ -33,4 +33,4 @@ If we decide to change our privacy policy, we will post those changes on our hom
 Contact Us  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at: feedback@revenews.com 
 
-Read ReveNews [Terms Of Use](https://web.archive.org/web/20051228145918id_/http%3A//revenews.com/terms.html). 
+Read ReveNews [Terms Of Use](https://web.archive.org/web/20060615205122id_/http%3A//revenews.com/terms.html). 
