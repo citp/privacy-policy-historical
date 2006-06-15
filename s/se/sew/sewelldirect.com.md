@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sewelldirect.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231141813id_/http%3A//sewelldirect.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sewelldirect.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615095049id_/http%3A//sewelldirect.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,6 +11,10 @@
 > If you wish to receive e-mail notices of upgrades or bug fixes for any products you have purchased, select the "Order and upgrade/bug fix" option in the E-mail Usage field of your customer record (shown on the Registration page and when placing an order).
 > 
 > If, in addition to upgrade/bug fix notices, you also wish to receive general announcements about special sales, new products, etc., select the "Order, upgrade, and general" option in the E-mail Usage field of your customer record.
+> 
+> ### Address
+> 
+> We will not rent, sell, or otherwise distribute your physical or billing address to anyone.
 > 
 > ### Authentication
 > 
