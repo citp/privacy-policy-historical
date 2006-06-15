@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the mochacity.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221114953id_/http%3A//members.mochacity.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mochacity.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615215229id_/http%3A//www.mochacity.com/privacy.htm) for the most accurate reproduction.*
 
-# MochaCity Urban Online Community Directory - Privacy
+# Privacy Statement - MochaCity
 
-Privacy Statement
+[](http://members.mochacity.com/registration/registration.htm)  
+| 
+
+MochaCity Privacy Statement
 
 We at Mocha Entertainment Group, Inc., the operators of MochaCity and related services, ("we" or "MochaCity") have created this privacy policy to demonstrate our firm commitment to protecting your personal information and informing you about how we handle it. This privacy policy only applies to transactions and activities in which you engage, and data gathered, on MochaCity (MochaLounge.com), MochaCity Chat and double blind email communications between MochaCity members (collectively, the "Site") but does not apply to any other Website or offline point of contact between MochaCity, or any other company, and consumers. Please review this privacy policy periodically as we may modify it from time to time. This privacy policy was last revised on June 17th, 2004. Each time you visit the Site or provide us with information, by doing so you are accepting the practices described in this privacy policy at that time. 
 
@@ -38,5 +41,7 @@ We may review all demographic information. We may use public information to enab
 The Site has security measures in place to protect against the loss, misuse and alteration of the information under our control. Our secure server software (SSL) is the industry standard and among the best software available today for secure commerce transactions. We encrypt all of your personal and financial information as it travels over the Internet Your information may be transferred to and maintained on computer networks which may be located outside of the state, province, country or other governmental jurisdiction in which you reside, and the country or jurisdiction in which these computer networks are located may not have privacy laws as protective as the laws in your country or jurisdiction. 
   9. **Changes to Our Privacy Policy**  
 If at any point we decide to use particular personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email or by providing 30 days notice on the Site. Please note that we will continue to have the right to change our privacy policy and practices, and how we use your personally identifiable information, without notice, as described in the first paragraph of this Privacy Policy, provided that such changes shall only apply to information gathered on or after the date of the change. 
+
+
 
 If you have any questions or concerns about this privacy policy, the practices of the Site, or your dealings with the Site, you can contact us at info@MochaLounge.com. You can also send us mail to: MochaCity, c/o Legal Department, P.O. Box 570149, Tarzana CA, 91357. 
