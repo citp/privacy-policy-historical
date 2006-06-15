@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freewareppc.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221204008id_/http%3A//www.freewareppc.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewareppc.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616013953id_/http%3A//freewareppc.com/privacy.shtml) for the most accurate reproduction.*
 
 # FreewarePPC.com - Freeware Pocket PC: Privacy Statement
 
@@ -23,4 +23,4 @@ FreewarePPC.com works with some third party that serves ads to the site. To find
 By using our Website, you consent to the collection and use of your personal information by FreewarePPC.com as outlined in this Privacy Policy. 
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [privacy@freewareppc.com](mailto:privacy@freewareppc.com).   
-For other questions regarding the practices of this site, or your dealings with this website, contact [webmaster@freewareppc.com](mailto:webmaster@freewareppc.com).
+For other questions regarding the practices of this site, or your dealings with this website, contact [webmaster@freewareppc.com](mailto:webmaster@freewareppc.com). 
