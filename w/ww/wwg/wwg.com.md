@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wwg.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214103725id_/http%3A//www.intellisync.com/pages/_utility/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wwg.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210736id_/http%3A//www.intellisync.com/pages/_utility/privacy) for the most accurate reproduction.*
 
 # 
 
