@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sydneyoperahouse.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231125920id_/http%3A//www.sydneyoperahouse.com/sections/home/customer_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sydneyoperahouse.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615193654id_/http%3A//www.sydneyoperahouse.com/sections/home/customer_privacy) for the most accurate reproduction.*
 
 # Sydney Opera House
 
@@ -77,9 +77,9 @@ The Organisations are able to view your name and contact details (address, email
 
 When you book your ticket(s), or otherwise provide us with personal information, you consent to your name and contact details, which are entered on the database, being disclosed to the Organisations.
 
-The current Organisations are Opera Australia, the Australian Chamber Orchestra, and the Seymour Theatre Centre. Other similar arts entities may become Organisations in future, and they will also be able to view your name and contact details in the database.
+The current Organisations are Opera Australia, the Australian Chamber Orchestra, the Seymour Theatre Centre and the Australian Brandenburg Orchestra. Other similar arts entities may become Organisations in future, and they will also be able to view your name and contact details in the database.
 
-Unless you tell us otherwise you also consent to your name and address (but not your email or SMS address) and other personal information (such as performance and seating preferences, history of attendances and any other information collected for marketing purposes -) being shared with and used by the Organisations or by promoters and performing companies of those events you attend. This enables Sydney Opera House and the Organisations, promoters and performing companies to keep you informed, by mail, of upcoming events that may be of interest.
+Unless you tell us otherwise you also consent to your name and contact details and other personal information (such as performance and seating preferences, history of attendances and any other information collected for marketing purposes -) being shared with and used by the Organisations or by promoters and performing companies of those events you attend. This enables Sydney Opera House and the Organisations, promoters and performing companies to keep you informed, by mail, of upcoming events that may be of interest.
 
 If Sydney Opera House provides your personal information to promoters or performing companies we require these organisations to agree to comply with our Privacy Statement and with strict conditions governing how personal information is to be handled.
 
@@ -93,7 +93,7 @@ If you wish only to receive information about your ticket purchase or as legally
 
 Sydney Opera House takes reasonable steps to protect all the personal information it receives. Information collected is stored in an appropriately secure format retained in accordance with Sydney Opera House records management policy. 
 
-Only select personnel in the Marketing, Box Office and IT areas have access to our customer’s personal information, and only under strict controls and procedures. 
+Only select personnel have access to our customer’s personal information, and only under strict controls and procedures. 
 
   6. Are there other circumstances where personal information will be given to anyone else?
 
@@ -121,7 +121,7 @@ A session cookie lets us know that you are the same person wherever you are on t
 
 This Privacy Statement may change from time to time, particularly as new industry codes are introduced.
 
-This statement was last updated in September 2005.
+This statement was last updated in May 2006.
 
   10. What if I am concerned about a breach of privacy by Sydney Opera House?
 
