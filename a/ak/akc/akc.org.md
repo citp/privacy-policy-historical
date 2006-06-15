@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the akc.org privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214001112id_/http%3A//www.akc.org/about/site/privacystatement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akc.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615205421id_/http%3A//www.akc.org/about/site/privacystatement.cfm) for the most accurate reproduction.*
 
 # American Kennel Club - AKC Web Site Privacy Statement
 
@@ -12,11 +12,11 @@ At The American Kennel Club, we are committed to protecting your privacy. We use
 
 An account is required for you to utilize certain services on our Web site, such as making purchases in our Online Store, using Your AKC, and donating to the AKC CAR Canine Support and Relief Fund. When you create an account, we ask for personally identifiable information, that is, information which tells us specifically who you are. We need to know your name, mailing address, phone number, email address, credit card number and expiration date so that we can process and fulfill your purchase orders and notify you of your order status. We also ask for other non-personally identifiable information, such as whether you own an AKC registered dog. We use the information we collect to customize your experience and provide services and features that most likely meet your needs so that your use of our Web site is more enjoyable. 
 
-In addition to creating an account with us, we may ask you for personally identifiable information at other times, including when you sign up for email message groups and newsletters. We use this information to send you the email newsletters you request, to notify you of changes to our Web site, of new products in our Online Store and of other promotions. 
+In addition to creating an account with us, we may ask you for personally identifiable information at other times, including when you register a dog or litter through our online system. We use this information to process your application. We also may ask you for personally identifiable information when you sign up for email message groups and newsletters. We use this information to send you the email newsletters you request, to notify you of changes to our Web site, of new products in our Online Store and of other promotions. 
 
 We will ask you for personally identifiable information when you take out a subscription to our magazines. AKC uses a reputable third party service provider to collect your personally identifiable information to process and fulfill your subscription request. This third party service provider collects and stores this information in a secure, password-protected database. Your personally identifiable information will only be used by the third party service provider to process and fulfill your subscription request and other uses only as directed by AKC. 
 
-If you send us email, we may collect and store such information. We use the information to reply to your email communication. If you register a litter or dog using our online system, we may collect and store this information. We use this information to process your application. 
+If you send us email, we may collect and store such information. We use the information to reply to your email communication. If you register a litter or dog using our online system, we may ask you for your email address, collect and store this information. We use this information to process your application. AKC rules and procedures do not allow a minor to sign an AKC registration application. If a dog or litter is to be registered in the name of a minor, the procedures outlined by AKC should be followed. You should not supply email addresses for minors. 
 
 We may also use the information we collect to occasionally notify you about important functionality changes to the Web site, new AKC services, and special offers we think you'll find valuable. If you would rather not receive this information, you may indicate your preference by [updating your AKC account](https://web.archive.org/account/). 
 
@@ -34,7 +34,7 @@ Most Web browsers automatically accept cookies, but you can usually change your 
 
 **Will AKC disclose the information it collects on its Web site to outside parties?**
 
-We may share your personally identifiable information collected on our Web site to reputable third parties for use by third parties and by us. If you prefer that AKC not release this information, you may indicate your preference by [updating your AKC account](https://web.archive.org/account/). If you register a dog or litter using the AKC's online systems, you must contact AKC customer service at [info@akc.org](mailto:info@akc.org) or 919-233-9767 to request that your name and address not be released to our third party partners.
+We may share your personally identifiable information collected on our Web site to reputable third parties for use by third parties and by us. If you prefer that AKC not release this information, you may indicate your preference by [updating your AKC account](https://web.archive.org/account/). If you register a dog or litter using the AKC's online systems, you must contact AKC customer service at [info@akc.org](mailto:info@akc.org) or 919-233-9767 to request that your name and address not be released to third parties.
 
 In addition, some of your personally identifiable information is disclosed to third party service providers, vendors or manufacturers when you order certain products or merchandise from our Online Store or subscribe to our magazines. Your personally identifiable information is disclosed so that these third parties can process and fulfill your orders. Therefore, by ordering certain products or merchandise from our Online Store, you are indicating your consent to the release of your personally identifiable information to third parties. 
 
@@ -54,7 +54,7 @@ By using our Web site, you consent to the collection and use of this information
 
 **Kids Privacy Policy**
 
-The AKC Web site is a general audience Web site. This policy applies only to information collected at AKC's Web site and not to information collected by the AKC through other means. The only instances in which the AKC knowingly collects information from children under thirteen are email to �Dear Bailey� and a request to receive the AKC Junior e-newsletter.
+The AKC Web site is a general audience Web site. This policy applies only to information collected at AKC's Web site and not to information collected by the AKC through other means. The only instances in which the AKC knowingly collects information from children under thirteen are email to "Dear Bailey" and a request to receive the AKC Junior e-newsletter.
 
 **Junior e-newsletter**
 
