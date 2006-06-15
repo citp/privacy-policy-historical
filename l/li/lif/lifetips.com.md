@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the lifetips.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216085749id_/http%3A//www.lifetips.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifetips.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615195313id_/http%3A//www.lifetips.com/Privacy.asp) for the most accurate reproduction.*
 
 # lifetips.com - Privacy Statement
 
-  
-
+#### LifeTips.com Privacy Statement: In a Nutshell
 
   * We care about protecting your privacy, especially the privacy of children under the age of 13. 
   * We will not rent, sell or give away your e-mail address to any marketer or spammer. You will not wind up on any spam list by signing-up for a lifetips.com newsletter. **Guaranteed**. 
