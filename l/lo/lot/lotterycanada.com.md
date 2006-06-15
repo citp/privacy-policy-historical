@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the lotterycanada.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219055535id_/http%3A//www.lotterycanada.com/lottery/%3Fjob%3Dprivacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lotterycanada.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615095714id_/http%3A//www.lotterycanada.com/lottery/%3Fjob%3Dprivacy_statement) for the most accurate reproduction.*
 
-# Privacy Statement - Lottery Canada
+# Privacy Statement on Lottery Canada
 
 [](http://feeds.feedburner.com/LotteryCanada "Subscribe to Results Feed") [](http://feeds.feedburner.com/LotteryCanadaNews "Subscribe to News Feed")   
 <[more info](http://www.lotterycanada.com/lottery/?job=site_news#RSS)>  
   
   
-|  | 
+[](http://www.digitalpoint.com/tools/geovisitors/) |  | 
 
 Privacy Statement
 
@@ -44,10 +44,9 @@ If you have any questions about this privacy policy, the practices of this site,
 
 Lottery Canada Email: [privacy@lotterycanada.com](mailto:privacy@lotterycanada.com) |  | 
 
-[ ](http://www.lotterycanada.com/freelongdistance)   
-  
+[ ](http://www.dpbolvw.net/click-589657-10416371)  
   
 All lottery results are unofficial. Please check with your local lottery retailer for confirmation.  
-Application & Design by Q9 Media. Copyright © 2000-2005 LotteryCanada.com. All rights reserved.  
+Application & Design by Q9 Media. Copyright © 2000-2006 LotteryCanada.com. All rights reserved.  
 Read our [Privacy Statement](http://www.lotterycanada.com/lottery/?job=privacy_statement) or [Disclaimer](http://www.lotterycanada.com/lottery/?job=disclaimer).   
 
