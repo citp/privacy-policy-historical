@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unum.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228072752id_/http%3A//www.unum.com/aboutus/legalprivacy/text_security-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unum.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615222932id_/http%3A//unum.com/aboutus/legalprivacy/text_security-privacy.aspx) for the most accurate reproduction.*
 
-# About Us - UnumProvident Corporation
+# About Us - UnumProvident, Unum, Provident, disability, disability insurance, supplemental insurance, life insurance, insurance, cancer insurance, accident insurance, Paul Revere, long term disability, LTD, long term care, short term disability, group disability, benefits administration, income protection, individual coverage, group coverage
 
 **UnumProvident’s Commitment to Privacy**
 
