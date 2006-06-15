@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bet.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403154139id_/http%3A//www.bet.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bet.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615195034id_/http%3A//www.bet.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 [Printer version](http://www.bet.com/WebApplications/betRoot/Templates/Posting_ArticlePrintFriendly.aspx?{8E7B23AC-4DD6-4E3C-B037-137AC4CF6E31})
 
-Effective Date January 4, 2005
+Updated July 1, 2005
 
 Your Privacy Rights
 
@@ -16,13 +16,13 @@ Your California Privacy Rights.
 
 Users who reside in California can prevent future disclosures of his or her personally identifiable information, at no charge, by exercising his or her “opt out” rights by using the “opt out” procedures described below:
 
-1\. You can send email to: [californiacontactus@bet.com](mailto:californiacontactus@bet.com), or  
-2\. You can send mail to the following postal address:  
-      BET Interactive, LLC  
-      2000 M Street, NW  
-      Suite 602  
-      Washington, DC  20036  
-      Attn: General Counsel
+1. You can send email to: [californiacontactus@bet.com](mailto:californiacontactus@bet.com), or  
+2. You can send mail to the following postal address:  
+BET Interactive, LLC  
+2000 M Street, NW  
+Suite 602  
+Washington, DC  20036  
+Attn: General Counsel
 
 Additionally, upon receipt of any communication from BET.com, to unsubscribe from future communications, you can click on the link that says “If you do not wish to receive these emails in the future, You can click here to unsubscribe.”
 
@@ -50,6 +50,14 @@ We may use cookies in a number of ways, including keeping track of user return v
 
 Advertisements displayed on BET.com, and links to other websites may also contain cookies. We may also use third parties to display or serve advertising on BET.com and to distribute our emails or newsletters.  These third party companies may employ cookie and other technologies to measure advertising effectiveness. You should be aware that different rules may apply to the collection, or use of the personally identifiable information you disclosure to these third parties. 
 
+Additionally, BET.com uses a third party ad serving company, 24/7 Real Media, Inc. (“24/7 Real Media”) to serve certain advertisements to you when you visit BET.com.  24/7 Real Media may use anonymous information related to your visit to BET.com to better provide advertisements to you about goods and services that may be of interest to you.
+
+As always, we only authorize our third party ad serving companies to employ anonymous cookies for ad delivery and anonymous targeting.  Additionally, we do not give our third party ad serving companies any personally identifying information about you.
+
+If you would like more information about your ability to opt-out of the use of cookies, or to prevent 24/7 Real Media from setting and/or reading cookies on your computer, or to know more about the information gathering practices and procedures of 24/7 Real Media, please click here: [www.247realmedia.com/privacy.html](http://www.247realmedia.com/privacy.html). 
+
+BET.com’s privacy policy covers the use of cookies by BET.com only and does not cover the use of cookies by our third party ad serving companies, such as 24/7 Real Media.
+
 BET.com may use users IP address (the number assigned to your computer while it is on the Internet) for our internal purposes to help diagnose problems with our server, and to administer our site. If users shop on BET.com, their IP address is used to help identify their computer and their online “shopping cart” (if any) and to gather broad demographic information. In addition, your IP address is transmitted with each message sent from your account.
 
 Demographic and profile data from online forms or cookies may be used to tailor your experience at our site, showing you content that we think you might be interested in, and displaying the content according to your preferences. This information may be shared with our third party advertisers, business partners, or other companies only on an aggregate basis, unless you expressly agree through an opt-in that personally identifiable information about you may be disclosed.
@@ -75,26 +83,29 @@ BET.com is a general audience site. We do not direct any of our content specific
   
 Choice/Opt-Out.
 
-BET.com gives you (or your parent(s) if you are under 18 years of age) the following options for removing your personal information from our database in order to stop receiving future communications from BET.com. (Please note: BET.com is not responsible for removing information from third-party lists or entities with which you have previously authorized us to share your information.)
+BET.com gives you (or your parent(s) if you are under 18 years of age) the following options for removing your personal information from our database in order to stop receiving future communications from BET.com. 
 
-1\. You can send email to: [contactus@bet.com](mailto:contactus@bet.com).  
-2\. You can send mail to the following postal address:  
-      BET Interactive, LLC  
+1. You can send email to: [contactus@bet.com](mailto:contactus@bet.com).  
+2. You can send mail to the following postal address:  
+BET Interactive, LLC  
 2000 M Street, NW  
-      Suite 602  
-      Washington, DC  20036  
-3\. Upon receipt of any communication from BET.com, to unsubscribe from future communications, you can click on the link that says “If you do not wish to receive these emails in the future, You can click here to unsubscribe.”
+Suite 602  
+Washington, DC  20036  
+3. Upon receipt of any communication from BET.com, to unsubscribe from future communications, you can click on the link that says “If you do not wish to receive these emails in the future, You can click here to unsubscribe.”
+
+Please note: BET.com is not responsible for removing information from third-party lists or entities with which you have previously authorized us to share your information.)  
+Additionally, you may opt-out of sharing your information with third-party lists or entities by either clearing the appropriate checkboxes at the point of initial collection or by following the procedures of third-party lists or entities.
 
 Correct/Update.
 
 BET.com gives you the following options for informing us of changes to information you have previously provided:
 
-1\. Email [contactus@bet.com](mailto:contactus@bet.com).  
-2\. Send mail to the following postal address:  
-      BET Interactive, LLC  
-      2000 M Street, NW  
-      Suite 602  
-      Washington, DC  20036
+1. Email [contactus@bet.com](mailto:contactus@bet.com).  
+2. Send mail to the following postal address:  
+BET Interactive, LLC  
+2000 M Street, NW  
+Suite 602  
+Washington, DC  20036
 
 Contacting BET.com.
 
@@ -106,7 +117,6 @@ Suite 602
 Washington, DC  20036  
 (202) 533-1990
 
-BET.com reserves the right to revise this Privacy Policy at any time and for any reason and reserves the right to make changes at any time to any of the information contained in this Privacy Policy.  By entering and using the services provided by BET.com, you acknowledge and agree that you shall be bound by this Privacy Policy and any such revisions.  We suggest users periodically review this Privacy Policy to be aware of any modifications to these terms and conditions.   
-
+BET.com reserves the right to revise this Privacy Policy at any time and for any reason and reserves the right to make changes at any time to any of the information contained in this Privacy Policy.  By entering and using the services provided by BET.com, you acknowledge and agree that you shall be bound by this Privacy Policy and any such revisions.  We suggest users periodically review this Privacy Policy to be aware of any modifications to these terms and conditions. 
 
 [Printer version](http://www.bet.com/WebApplications/betRoot/Templates/Posting_ArticlePrintFriendly.aspx?{8E7B23AC-4DD6-4E3C-B037-137AC4CF6E31})
