@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ps2pdf.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219162111id_/http%3A//ps2pdf.com/convert/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ps2pdf.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615044820id_/http%3A//www.ps2pdf.com/convert/privacy.htm) for the most accurate reproduction.*
 
 # www.ps2pdf.com
 
@@ -21,7 +21,7 @@ Our automatic processes are designed to delete files converted on our site withi
 
 We use return e-mail addresses to answer e-mails we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
 
-We use cookies to provide additional security for downloading of converted documents.  Some of our advertisers use cookies.  The Cookies themselves tell us nothing about you personally.
+We use cookies to provide additional security for downloading of converted documents and to track unique visits.  Some of our advertisers use cookies.  The Cookies themselves tell us nothing about you personally.
 
 We use non-identifying and aggregate information to better design our website and to modify our marketing efforts.
 
@@ -31,4 +31,6 @@ At times we may share statistical data and conversion error messages with outsid
 
 Should you have other questions or concerns about these privacy policies, please send us an e-mail.
 
-Last update: May 1, 2002
+We may update this policy from time to time.
+
+Last update: May 31, 2006
