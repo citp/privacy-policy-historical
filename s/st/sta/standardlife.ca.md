@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the standardlife.ca privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220050238id_/http%3A//standardlife.ca/en/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standardlife.ca privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615060546id_/http%3A//standardlife.ca/en/about/privacy.html) for the most accurate reproduction.*
 
-# Standard Life - Your privacy
+# Standard Life Canada - About Standard Life
 
 Your privacy
 
@@ -89,6 +89,3 @@ You may register a Privacy related complaint by contacting
 We will explain our complaints handling procedure and inform you of other complaint procedures that may be available to you. 
 
 If a complaint is justified, we will take appropriate action to resolve the situation and if necessary change our Policies, Procedures or Practices. 
-
-  
-
