@@ -1,19 +1,56 @@
-> *The following text is extracted and transformed from the artinfo.com privacy policy that was archived on 2005-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051023230639id_/http%3A//www.artinfo.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artinfo.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615200157id_/http%3A//www.artinfo.com/Privacy.aspx) for the most accurate reproduction.*
 
-# ArtInfo.com : ONLINE PRIVACY STATEMENT
+# ARTINFO :: The Premier Art & Culture Site
 
+| 
+
+| | About ArtInfo  
+---|---  
+  
+| | [Advertising](https://web.archive.org/web/20060615200157id_/http%3A//www.artinfo.com/Advertising.aspx)  
+---|---|---  
+  
+| | [Press Releases](https://web.archive.org/web/20060615200157id_/http%3A//www.artinfo.com/PressRelease.aspx)  
+---|---|---  
+  
+| | [Contact List](https://web.archive.org/web/20060615200157id_/http%3A//www.artinfo.com/ContactUs.aspx)  
+---|---|---  
+  
+| | [Request More Info](https://web.archive.org/web/20060615200157id_/http%3A//www.artinfo.com/MC/RequestInfo.aspx)  
+---|---|---  
+  
+| | [Meet Our Team](https://web.archive.org/web/20060615200157id_/http%3A//www.artinfo.com/MeetOurTeam.aspx)  
+---|---|---  
+  
+| | [LTB Media](http://www.ltbholding.com/)  
+---|---|---  
+  
+| | [LTB Foundation](http://www.ltbfoundation.org/)  
+---|---|---  
+  
+| | [LTB Publications](https://web.archive.org/web/20060615200157id_/http%3A//www.artinfo.com/Publications.aspx)  
+---|---|---  
+  
+| | Legal Disclosures  
+---|---|---  
+  
+|  |  ONLINE PRIVACY STATEMENT  |   
+---|---  
+   
+|  |   
+---  
 (Last updated on March 30, 2005) 
 
 This Online Privacy Statement sets forth guidelines concerning how ArtInfo.com Inc. gathers and uses information about your interaction with this website and your use of our paid subscription services. This Online Privacy Statement concerns only this website, and does not concern any website to which this site may link. 
 
-Please read this Online Privacy Statement carefully, and consult our[ Terms of Use](https://web.archive.org/web/20051023230639id_/http%3A//www.artinfo.com/termsofuse.htm) for more information about the general terms and conditions regarding your use of this website. Subscribers should also review our Subscription Agreement, which contains additional terms and conditions relevant to use of our paid subscription services. 
+Please read this Online Privacy Statement carefully, and consult our[ Terms of Use](https://web.archive.org/web/20060615200157id_/http%3A//www.artinfo.com/TermsOfUse.aspx) for more information about the general terms and conditions regarding your use of this website. Subscribers should also review our Subscription Agreement, which contains additional terms and conditions relevant to use of our paid subscription services. 
 
 In the event that you have any questions or concerns about the guidelines set forth in this Online Privacy Statement or how we use information about your interaction with this website or your use of our paid subscription services, please contact us at [privacy@artinfo.com](mailto:privacy@artinfo.com). 
 
   1. _The Types of Information We Collect About You_  
 When you visit and browse our website, we may collect two different types of information about you: information you provide to us, and information we collect through technology. 
     1. _Information You Provide to Us_  
-In order to obtain access to certain products or services provided via this website, you may be required to provide personally identifiable information such as your name, postal address, e-mail address, telephone number. In order to obtain access to our paid subscription services, you may also be required to provide certain credit card information. You can chose not to provide this information, but then you might not be able to gain access to such products and services. 
+In order to obtain access to certain products or services provided via this website, you may be required to provide personally identifiable information such as your name, postal address, e-mail address, telephone number. In order to obtain access to our paid subscription services, you may also be required to provide certain credit card information. You can choose not to provide this information, but then you might not be able to gain access to such products and services. 
     2. _Information We Collect Through Technology_  
 We may collect information about you through technology. For example, when you visit this site, we may collect your IP address. (An IP address is often associated with the portal through which you enter the Internet, like your ISP (Internet service provider), your company, or your university.) Standing alone, your IP address is not personally identifiable. At times, we may also use IP addresses to collect information regarding the frequency with which visitors browse various parts of our site. We may combine this information with personally identifiable information. Our website may also use cookies. (Cookies are pieces of information that a website sends to your computer while you are viewing the website.) We and other companies use cookies for a variety of purposes. For instance, when you return to one of our sites after logging in, cookies provide information to the site so that the site will remember who you are. You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your web browser settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that may make your browsing of our website smoother, like the features mentioned above, and some of our services may not function properly. Our website may also use other technical methods to track visitor usage, including web beacons. (“Web beacons” are small pieces of data that are embedded in images on the pages of a website.) We may also use these technical methods to analyze the traffic patterns on our website, such as the frequency with which our users visit various parts of our website. These technical methods may involve the transmission of information either directly to us or to another party authorized by us to collect information on our behalf. We may also use these technical methods in HTML e-mails that we send visitors to our website to determine whether such visitors have opened those e-mails and/or clicked on links in those e-mails. We may collect the information from use of these technical methods in a form that is personally identifiable. Advertisements appearing on our website may be managed and placed on our website by third parties. Third parties who place advertisements on our website may also use cookies and web beacons to collect non-personally identifiable information when you click on or move your cursor over one of their banner advertisements. You may not realize this information is being collected. In some cases, we may have access to information from web beacons and cookies used by these third parties on our sites and this information may permit us to identify other sites that you have visited that are also associated with the third party advertiser. 
   2. _How Personally Identifiable Information We Collect About You is Used_  
@@ -23,7 +60,7 @@ We may use personally identifiable information we collect about you when you vis
 We may use personally identifiable information we collect about you when you visit and browse our website to complete transactions requested by you (such as your purchase of a product or service offered on our websites), or to send you administrative communications either about your interactions with us or about features of our website, including any future changes to this Online Privacy Statement. 
     2. _Use in Connection with Promotional Materials_  
 We may use personally identifiable information we collect about you when you visit and browse our website to send you promotional materials about goods and services (including special offers and promotions) either offered by us or by third parties. (By “promotional materials,” we mean communications that directly promote the use of our website, or the purchase of products or services.) We may also share your information with third parties so that these third parties can send you such promotional materials directly. These promotional materials may be sent to you by postal mail, e-mail or other means.  
-We may also share your personally identifiable information with third parties so that they can send you promotional materials about goods and services (including special offers and promotions) offered by them. If we share your personally identifiable information with a third party for this purpose, your personal information will become permanently subject to the information use and sharing practices of the third party, and the third party will not be restricted by this Online Privacy Statement with respect to its use and further sharing of your personal information.   
+We may also share your personally identifiable information with third parties so that they can send you promotional materials about goods and services (including special offers and promotions) offered by them. If we share your personally identifiable information with a third party for this purpose, your personal information will become permanently subject to the information use and sharing practices of the third party, and the third party will not be restricted by this Online Privacy Statement with respect to its use and further sharing of your personal information.  
 
     3. _Use in Connection with Third Party Offers_  
 We may also share your information with third parties when you engage in certain activities on our website that are sponsored by third parties, such as purchasing products or services offered by a third party, electing to receive information or communications from a third party, or electing to participate in contests, sweepstakes, games or other programs sponsored in whole or in part by a third party. We may also share your personal information when you respond to promotional materials from us and authorize a third party to use your personal information for purposes such as, for example, sending you additional promotional materials, providing you a product or service, or entering you in a contest, sweepstakes or game. When you participate in such, you will either be required or requested to agree that the sponsor or business associate may use your personal information (including, in some cases, your e-mail address) in accordance with the sponsor or business associate’s privacy practices.  
