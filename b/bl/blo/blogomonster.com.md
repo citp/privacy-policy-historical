@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogomonster.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219132505id_/http%3A//www.blogomonster.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogomonster.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615191441id_/http%3A//www.blogomonster.com/privacy) for the most accurate reproduction.*
 
 # BLOGOMONSTER.COM: Create Your Free Blog Account
 
