@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the bitrock.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221102641id_/http%3A//bitrock.com/about_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitrock.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615052146id_/http%3A//www.bitrock.com/about_privacy.html) for the most accurate reproduction.*
 
 # Bitrock :: Company :: Privacy
 
 |  | 
 
-We hate spam as much as you do. At BitRock Inc, we will never share your information with any third party. Read below for the details.
+We hate spam as much as you do. At BitRock, we will never share your information with any third party. Read below for the details.
 
 ### BitRock Privacy Policy
 
-This page explains BitRock.s policy (the "Privacy Policy") regarding the collection and use of information that can personally identify you whether you are a first-time or repeat visitor to our website. 
+This page explains BitRock's policy (the "Privacy Policy") regarding the collection and use of information that can personally identify you whether you are a first-time or repeat visitor to our website. 
 
 ### Information Collection and Use
 
