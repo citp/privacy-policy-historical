@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the belfasttelegraph.co.uk privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210052630id_/http%3A//www.belfasttelegraph.co.uk/story.jsp%3Fstory%3D55090) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belfasttelegraph.co.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615024348id_/http%3A//www.belfasttelegraph.co.uk/story.jsp%3Fstory%3D55090) for the most accurate reproduction.*
 
 # Belfast Telegraph
 
@@ -11,7 +11,7 @@ Before using the Website (that is, any site operated by **Independent News & Med
 
 **The basic principles**
 
-By accessing and using the Website you are agreeing to be legally bound by the [**Terms of Use**](https://web.archive.org/web/20051210052630id_/http%3A//www.belfasttelegraph.co.uk/story.jsp?story=55087) and this Privacy Policy. You should therefore also read the Terms of Use before using the Website. 
+By accessing and using the Website you are agreeing to be legally bound by the [**Terms of Use**](https://web.archive.org/web/20060615024348id_/http%3A//www.belfasttelegraph.co.uk/story.jsp?story=55087) and this Privacy Policy. You should therefore also read the Terms of Use before using the Website. 
 
 ID is determined to protect your privacy. It is very important to us that you should be able to use and enjoy the Website without having to compromise your privacy unacceptably. 
 
