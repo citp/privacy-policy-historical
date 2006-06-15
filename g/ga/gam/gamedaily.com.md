@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamedaily.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218035240id_/http%3A//www.gamedaily.com/company/comp_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamedaily.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615195721id_/http%3A//www.gamedaily.com/privacy.html) for the most accurate reproduction.*
 
-# GameDAILY: Free video games, cheats, game downloads, video game news and reviews
+# GameDaily: video games, cheats, game downloads, game news & reviews
 
 GameDAILY, Inc. has created this privacy policy in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for our website, GameDAILY.com. Please read the following policy to understand how your personal information will be treated as you make full use of our various offerings. This policy may change from time to time, so please check back periodically. Currently, our policy will let you know:
 
@@ -12,7 +12,7 @@ GameDAILY, Inc. has created this privacy policy in order to demonstrate our firm
 
 
 
-Questions regarding this statement should be directed to: [info@GameDAILY.com](mailto:info@GameDAILY.com). 
+Questions regarding this statement should be directed to: [info@gamedaily.com](mailto:info@GameDAILY.com). 
 
 ### Information Collection and Use
 
@@ -64,4 +64,4 @@ For those users outside the United States - by using this website, you may be co
 
 ### Questions or Comments
 
-We welcome your questions or comments on this privacy policy. If you have any questions regarding this privacy policy or feel that we are not abiding by this posted privacy statement, please contact us at: [info@GameDAILY.com](mailto:info@GameDAILY.com).
+We welcome your questions or comments on this privacy policy. If you have any questions regarding this privacy policy or feel that we are not abiding by this posted privacy statement, please contact us at: [info@gamedaily.com](mailto:info@GameDAILY.com).
