@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the questrade.com privacy policy that was archived on 2005-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051123212640id_/http%3A//www.questrade.com/disclaimers/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the questrade.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615170310id_/http%3A//questrade.com/disclaimers/privacy.html) for the most accurate reproduction.*
 
 # QUESTRADE - Privacy Pledge
 
@@ -78,4 +78,4 @@ Throughout the policy, we refer to information that personally identifies you or
 
 > **•** If, at any time in the future, it is necessary to disclose any of your personal information in a way that is inconsistent with this policy, we will give you advance notice of the proposed change so that you will have the opportunity to opt-out of such disclosure.
 
-If you have any questions or concerns, please contact us by e-mail at [**info@questrade.com**](mailto:info@questrade.com).  |  
+If you have any questions or concerns, please [**contact us by e-mail**](http://server.iad.liveperson.net/hc/s-82013505/cmd/kbresource/escalate!PAGETYPE). |  
