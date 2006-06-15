@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the microtelinn.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222022224id_/http%3A//microtelinn.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microtelinn.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615022957id_/http%3A//microtelinn.com/privacy.asp) for the most accurate reproduction.*
 
 # Microtel Inns & Suites - Groups & Tours
 
 ## Introduction
 
-USFSI and its franchised properties has a strong commitment to providing excellent service to all of our customers, including respecting their concerns about privacy. We understand that visitors to our website may have questions about whether and how this website collects and uses information. Accordingly, we have prepared this statement to inform you of the privacy principles that govern usfsi.com (including bestinn.com, hawthorn.com, and microtelinn.com and use herein of the term "this site" or "this website" or the like shall include any of such sites). Use of this website by you will be deemed as your acknowledgment and acceptance of this privacy statement.
+U.S. Franchise Systems, Inc. ("USFS") and its franchised properties have a strong commitment to providing excellent service to all of our customers, including respecting their concerns about privacy. We understand that visitors to our website may have questions about whether and how this website collects and uses information. Accordingly, we have prepared this statement to inform you of the privacy principles that govern usfsi.com (including hawthorn.com and microtelinn.com and use herein of the term "this site" or "this website" or the like shall include any of such sites). Use of this website by you will be deemed as your acknowledgment and acceptance of this privacy statement.
 
 ## Browsing
 
@@ -24,17 +24,17 @@ We may also ask you to fill out an online customer survey, to obtain your sugges
 
 Like many companies, from time to time we may use "cookie" technology on our Site. When you visit our site, the cookie tells us whether you've visited us before or are a new visitor, where you were referred from and also tells us if you booked. The cookie does not track any personal information about you or provide us with any way to contact you, and the cookie does not extract any information from your computer.
 
-## USFSI Use of Information
+## USFS Use of Information
 
-We treat the information you provide to us as confidential information; it is, accordingly, subject to our company's security procedures and strict corporate policies regarding protection and use of confidential information. Because laws applicable to personal information vary by country, our hotels or other business operations may put in place additional measures that vary depending on the applicable legal requirements. Information is generally processed and stored in the United States, in which data protection laws are not as comprehensive as in the European Union. Information gathered is used only for the purpose for which the information was collected and is not used or shared with other companies not affiliated with USFSI. The personal information you provide to us for making a reservation is made available to the applicable hotel for the purpose of meeting your reservation request. If you cancel your reservation, the information is stored for recordkeeping purposes only and is not accessed again. After completing your stay at a Best Inn, Hawthorn, or Microtel hotel, the information you provide may be used for direct marketing by a Best Inn, Hawthorn, or Microtel hotel. USFSI may use the services of a third party for the sole purpose of sending communications to you and other users of our site.
+We treat the information you provide to us as confidential information; it is, accordingly, subject to our company's security procedures and strict corporate policies regarding protection and use of confidential information. Because laws applicable to personal information vary by country, our hotels or other business operations may put in place additional measures that vary depending on the applicable legal requirements. Information is generally processed and stored in the United States, in which data protection laws are not as comprehensive as in the European Union. Information gathered is used only for the purpose for which the information was collected and is not used or shared with other companies not affiliated with USFS. The personal information you provide to us for making a reservation is made available to the applicable hotel for the purpose of meeting your reservation request. If you cancel your reservation, the information is stored for recordkeeping purposes only and is not accessed again. After completing your stay at a, Hawthorn Suites or Microtel Inn & Suites hotel, the information you provide may be used for direct marketing by a Hawthorn Suites or Microtel Inn & Suites hotel. USFS may use the services of a third party for the sole purpose of sending communications to you and other users of our site.
 
 ## Disclosure of Information & Opt-Out
 
-USFSI will not sell, trade, rent or release information you provide through our site to entities outside of the USFSI family of companies and hotels, for use by such non-USFI related-entities without your approval and giving you the opportunity to opt-out.
+USFS will not sell, trade, rent or release information you provide through our site to entities outside of the USFS family of companies and hotels, for use by such non-USFS related-entities without your approval and giving you the opportunity to opt-out.
 
 ## Links to Other Sites
 
-If you choose to leave this site via links to other non-USFSI, Best Inn, Hawthorn, or Microtel hotel sites, including those of advertisers, we are not responsible for the privacy policies or content of those sites, nor are we responsible for the cookies those sites might deposit on your hard drive.
+If you choose to leave this site via links to other non-USFS, Hawthorn Suites or Microtel Inn & Suites hotel sites, including those of advertisers, we are not responsible for the privacy policies or content of those sites, nor are we responsible for the cookies those sites might deposit on your hard drive.
 
 ## Minors 
 
@@ -42,12 +42,12 @@ Our web sites do not sell products for purchase by children. If you are under 18
 
 ## Legal Issues
 
-USFSI and its franchises will disclose personal information when required by law or in good faith belief if such action is necessary or desirable to comply with the law, protect or defend the rights or property of USFSI, the site or its users.
+USFS and its franchises will disclose personal information when required by law or in good faith belief if such action is necessary or desirable to comply with the law, protect or defend the rights or property of USFS, the site or its users.
 
 ## Privacy Statement Changes
 
-In the future, we may need to change the privacy statement for usfsi.com (including americasbestinns.com, hawthorn.com, and microtelinn.com) and our franchised properties. All changes will be made here (or by such other means as we believe will result in your being made aware of such changes) so that you may readily know what information we gather, how we might use that information and whether we will disclose it to anyone. Changes in the privacy statement will only affect our treatment of information supplied by you to us following the effective date of such changes, i.e., for information supplied by you prior to the change in the privacy statement, we will continue to honor the obligations of the privacy statement, for such information, in effect when the information was originally supplied by you. Information entered or re-entered following a change in the privacy statement will be governed by the new privacy statement.
+In the future, we may need to change the privacy statement for usfsi.com (including hawthorn.com and microtelinn.com) and our franchised properties. All changes will be made here (or by such other means as we believe will result in your being made aware of such changes) so that you may readily know what information we gather, how we might use that information and whether we will disclose it to anyone. Changes in the privacy statement will only affect our treatment of information supplied by you to us following the effective date of such changes, i.e., for information supplied by you prior to the change in the privacy statement, we will continue to honor the obligations of the privacy statement, for such information, in effect when the information was originally supplied by you. Information entered or re-entered following a change in the privacy statement will be governed by the new privacy statement.
 
 ## Conclusion
 
-Your privacy concerns are important to us. We hope this privacy statement has been helpful to you. If you have any questions about this privacy statement or privacy concerns send an e-mail to webmaster@usfsi.com.
+Your privacy concerns are important to us. We hope this privacy statement has been helpful to you. If you have any questions about this privacy statement or privacy concerns send an e-mail to [webmaster@usfsi.com](mailto:webmaster@usfsi.com).
