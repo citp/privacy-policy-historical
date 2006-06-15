@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the keywordmax.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203093421id_/http%3A//www.keywordmax.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keywordmax.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615220700id_/http%3A//www.keywordmax.com/privacy) for the most accurate reproduction.*
 
-# KEYWORD RANKING | Keyword Bid Management | Keyword Optimization | KeywordMax
+# KeywordMax
 
 ##### Privacy Statement for Direct Response Technologies, Inc.
 
@@ -58,10 +58,13 @@ _DirectCoupons Newsletter:_ DirectCoupons™ Weekly Newsletter is sent to subscr
 Direct Response Technologies, Inc., holds all data gathered in strict confidence. Under no circumstances will your e-mail address, mailing address, phone number, SS#, be sold to, supplied to, or otherwise made available to any third party. 
 
 **The Site Opt-Out Policy**   
-Affiliate Partners, Subscribers, or Customers can opt-out at any time. You can email office@directstuff.com and ask to have the account removed immediately - we will remove you for our system within 24 hours after request.
+Affiliate Partners, Subscribers, or Customers can opt-out at any time. You can email office@directstuff.com and ask to have the account removed immediately - we will remove you from our system within 24 hours after request.
 
 **Links to other sites:**   
 We link to many other sites from our Properties. Please check with the sites that we link to for their Privacy Policies. 
 
 **Cookie Policy:**   
 We actively use cookies to place on users computers to track leads and clicks to advertisers programs. The only purposes of placing cookies is to enable us to track a user through the links to track clicks or leads in real time, as well as to remember you when you return to our sites to make log in easier. 
+
+  
+
