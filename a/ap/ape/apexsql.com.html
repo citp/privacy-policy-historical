@@ -1,448 +1,322 @@
-<!--The following is the downloaded HTML source of the apexsql.com privacy policy that was archived on 2005-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051228144957id_/http%3A//www.apexsql.com/comp_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the apexsql.com privacy policy that was archived on 2006-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615113049id_/http%3A//www.apexsql.com/comp_privacy.asp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- InstanceBegin template="/Templates/company.dwt" codeOutsideHTMLIsLocked="false" --><head>
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<style type="text/css"><!-- 
-			@import url(apex.css); 
-		--></style>
+<html><head>
+  <title>Apex SQL Tools - SQL Tools for Auditing, Comparison, Recovery and more</title>
+<meta name="description" content="SQL Tools for Auditing, Code Generation, Scripting, Reporting and more.">
+<meta name="keywords" content="sql tools, Auditing, Reporting, Comparison, Synchronization, Code generation, RAD, ApexSQL">
+  <link href="include/apexsql.css" rel="stylesheet" type="text/css">
+<script>
+  function subMenuShow(param) {
+    oItem=getDivObj(param);
+    oItem.style.display="block";
 
-	<!-- InstanceBeginEditable name="doctitle" -->
-		<title>Apex SQL Tools : Apex SQL Tools Privacy</title>
-	<!-- InstanceEndEditable --><script type="text/javascript" language="javascript" src="m.js"></script>
-	<!-- InstanceBeginEditable name="head" -->
-<meta name="Keywords" content="ql tools, Database scripting, data, sql server, sql server tool, sql server shareware, sql shareware">
-<meta name="Description" content="SQL tools for Microsoft SQL Server data scripting">
-<script language="JavaScript" type="text/javascript">
+		var ua = navigator.userAgent.toLowerCase(); 
+		this.ua = ua;
+
+		// browser name
+		this.isOpera     = (ua.indexOf("opera") != -1); 
+
+		if (!this.isOpera) {
+			c_param = 'c_'+ param;
+			oItem=getDivObj(c_param);
+			oItem.className='top_menu_rollover';
+		}
+	}
+
+	function subMenuHide(param, flag) {
+		arr=new Array('products','downloads','purchase', 'company', 'members');
+
+		n=0;
+		while(n!=arr.length)
+		{
+			objname=arr[n];
+			getDivObj(objname).style.display="none";
+			n++;	
+		}
+
+		var ua = navigator.userAgent.toLowerCase(); 
+		this.ua = ua;
+
+		// browser name
+		this.isOpera     = (ua.indexOf("opera") != -1); 
+
+		if (!this.isOpera && flag != 1) {
+			c_param = 'c_'+ param;
+			oItem=getDivObj(c_param);
+			oItem.className='top_menu_inactive';
+		}
+  }
+  function getDivObj(name) {
+    obj=document.getElementById(name);
+  
+    return obj; 
+  }  
+
 function popUp(vrr) {
-props=window.open(vrr, 'poppage', 'toolbars=0, scrollbars=1, location=0, statusbars=0, menubars=0, resizable=1, width=800, height=500, left = 20, top = -10');
+props=window.open(vrr, 'poppage', 'toolbars=0, scrollbars=1, location=0, statusbars=0, menubars=0, resizable=1, width=1250, height=900, left = 20, top = -10');
 }
-// End -->
-</script>
 
-<script language="JavaScript" type="text/javascript">
 function popUpSm(vrr) {
 props=window.open(vrr, 'poppage', 'toolbars=0, scrollbars=1, location=0, statusbars=0, menubars=0, resizable=0, width=400, height=200, left = 200, top = 200');
 }
-// End -->
 </script>
-	<!-- InstanceEndEditable -->
-	</head>
-	<body>
-		<!-- <div id="leftBack"></div> -->
-		<div id="pageWrapper">
-			<div id="masthead">
+</head>
+<body bgcolor="#ffffff">
+<a name="top"></a>  
 
-<!-- masthead content begin -->
-<div id="logo"><a href="http://www.apexsql.com/" title="ApexSQL home page"><img src="other_images/apexSQL_logo_4.gif" width="191" height="54"></a></div>
-<div id="flash"> 
-	<script type="text/javascript">
-			function getFlash()
-			{
-				var randomnumber=Math.floor(Math.random()*7)
-										
-				var sFlashFiles = "diff.swf,aspr.swf,edit.swf,log.swf,doc.swf,code_wv.swf,RADSQLtoolsr.swf"
-				var arFlashFiles = sFlashFiles.split(',')
-					
-				var sFlash = '<object id="objFlash" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"  codebase="http://active.macromedia.com/flash2/cabs/swflash.cab#version=4,0,0,0" ID="banner1" WIDTH="468" HEIGHT="60" VIEWASTEXT>'
-				sFlash += '<param NAME="movie" VALUE="flash/' + arFlashFiles[randomnumber] + '">'
-				sFlash += '<param NAME="loop" VALUE="false">'
-				sFlash += '<param NAME="menu" VALUE="false">'
-				sFlash += '<param NAME="quality" VALUE="best">'
-				sFlash += '<param NAME="bgcolor" VALUE="white">'
-				sFlash += '<embed id="objFlash" src="flash/' + arFlashFiles[randomnumber] + '" quality="best" bgcolor="#639ECE" loop="false" menu="false" WIDTH="468" HEIGHT="60" TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">'		    
-				sFlash += '</object>'
-				return sFlash
-			}
-			document.write(getFlash())
-		</script><object id="objFlash" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://active.macromedia.com/flash2/cabs/swflash.cab#version=4,0,0,0" width="468" height="60" viewastext=""><param name="movie" value="flash/RADSQLtoolsr.swf"><param name="loop" value="false"><param name="menu" value="false"><param name="quality" value="best"><param name="bgcolor" value="white"><embed id="objFlash" src="flash/RADSQLtoolsr.swf" quality="best" bgcolor="#639ECE" loop="false" menu="false" width="468" height="60" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object>
+<!-- header -->
+<div class="header">
+  <a href="default.asp"><img src="images/empty.gif" width="260" height="75" border="0" align="left"></a>
+  <div class="header_banner">
+  <script type="text/javascript">
+      function getFlash()
+      {
+        var randomnumber=Math.floor(Math.random()*7)
+                    
+        var sFlashFiles = "diff.swf,aspr.swf,edit.swf,log.swf,doc.swf,code_wv.swf,RADSQLtoolsr.swf"
+        var arFlashFiles = sFlashFiles.split(',')
+          
+        var sFlash = '<object id="objFlash" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"  codebase="http://active.macromedia.com/flash2/cabs/swflash.cab#version=4,0,0,0" ID="banner1" WIDTH="468" HEIGHT="60" VIEWASTEXT>'
+        sFlash += '<param NAME="movie" VALUE="flash/' + arFlashFiles[randomnumber] + '">'
+        sFlash += '<param NAME="loop" VALUE="false">'
+        sFlash += '<param NAME="menu" VALUE="false">'
+        sFlash += '<param NAME="quality" VALUE="best">'
+        sFlash += '<param NAME="bgcolor" VALUE="white">'
+        sFlash += '<embed id="objFlash" src="flash/' + arFlashFiles[randomnumber] + '" quality="best" bgcolor="#639ECE" loop="false" menu="false" WIDTH="468" HEIGHT="60" TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">'
+        sFlash += '</object>'
+        return sFlash
+      }
+      document.write(getFlash())
+    </script><object id="objFlash" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://active.macromedia.com/flash2/cabs/swflash.cab#version=4,0,0,0" width="468" height="60" viewastext=""><param name="movie" value="flash/code_wv.swf"><param name="loop" value="false"><param name="menu" value="false"><param name="quality" value="best"><param name="bgcolor" value="white"><embed id="objFlash" src="flash/code_wv.swf" quality="best" bgcolor="#639ECE" loop="false" menu="false" width="468" height="60" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object>        
+  </div>
 </div>
-<div id="logins">
-<ul><li class="strong"><!--Toll Free: 866-665-5500--></li></ul>
+<!-- /header --><!-- top menu -->
+<div class="top_menu">
+  <table width="97%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+  <td class="top_menu_inactive">&nbsp;</td>
+  <td class="top_menu_inactive" onmouseover="javascript:this.className='top_menu_rollover';" onmouseout="javascript:this.className='top_menu_inactive';"><a class="top_menu_inactive" href="default.asp">Home</a></td>
+  <td id="c_products" class="top_menu_inactive" onmouseover="javascript:subMenuShow('products');" onmouseout="javascript:subMenuHide('products', 0);">
+  <div id="products" class="drop" onmouseover="javascript:subMenuShow('products');" onmouseout="javascript:subMenuHide('products', 0);">
+    <table class="table_drop_in" cellspacing="0">
+    <tbody><tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="sql_tools_audit.asp">ApexSQL Audit</a></td></tr>
+    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="sql_tools_clean.asp">ApexSQL Clean</a></td></tr>
+    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="sql_tools_code.asp">ApexSQL Code</a></td></tr>
+    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="sql_tools_diff.asp">ApexSQL Diff</a></td></tr>
+    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="sql_tools_doc.asp">ApexSQL Doc</a></td></tr>
+    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="sql_tools_edit.asp">ApexSQL Edit</a></td></tr>
+    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="sql_tools_log.asp">ApexSQL Log</a></td></tr>
+    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="sql_tools_report.asp">ApexSQL Report</a></td></tr>
+    <tr><td class="td_drop_in" style="border-bottom: none;" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="sql_tools_script.asp">ApexSQL Script</a></td></tr>
+    </tbody></table>
+    </div>
+    <a href="products.asp">Products</a>
+  </td>
+  <td id="c_downloads" class="top_menu_inactive" onmouseover="javascript:subMenuShow('downloads');" onmouseout="javascript:subMenuHide('downloads', 0);">
+    <div id="downloads" class="drop" onmouseover="javascript:subMenuShow('downloads');" onmouseout="javascript:subMenuHide('downloads', 0);">
+    <table class="table_drop_in" cellspacing="0">
+    <tbody><tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="downloads.asp#audit">ApexSQL Audit</a></td></tr>
+    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="downloads.asp#clean">ApexSQL Clean</a></td></tr>
+    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="downloads.asp#code">ApexSQL Code</a></td></tr>
+    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="downloads.asp#diff">ApexSQL Diff</a></td></tr>
+    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="downloads.asp#doc">ApexSQL Doc</a></td></tr>
+    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="downloads.asp#edit">ApexSQL Edit</a></td></tr>
+    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="downloads.asp#log">ApexSQL Log</a></td></tr>
+    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="downloads.asp#report">ApexSQL Report</a></td></tr>
+    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="downloads.asp#script">ApexSQL Script</a></td></tr>
+    <tr><td class="td_drop_in">&nbsp;</td></tr>
+    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="downloads.asp#studios">ApexSQL Studio</a></td></tr>
+    <tr><td class="td_drop_in">&nbsp;</td></tr>
+    <tr><td class="td_drop_in" style="border-bottom: none;" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="requirements.asp">Sys Requirements</a></td></tr>
+    </tbody></table>
+    </div>
+    <a href="downloads.asp">Downloads</a>
+  </td>
+  
+  <td id="c_purchase" class="top_menu_inactive" onmouseover="javascript:subMenuShow('purchase');" onmouseout="javascript:subMenuHide('purchase', 0);">
+    <div id="purchase" class="drop" onmouseover="javascript:subMenuShow('purchase');" onmouseout="javascript:subMenuHide('purchase', 0);">
+    <table class="table_drop_in" cellspacing="0">
+    <tbody><tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="purchase.asp#audit">ApexSQL Audit</a></td></tr>
+    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="purchase.asp#clean">ApexSQL Clean</a></td></tr>
+    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="purchase.asp#code">ApexSQL Code</a></td></tr>
+    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="purchase.asp#diff">ApexSQL Diff</a></td></tr>
+    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="purchase.asp#doc">ApexSQL Doc</a></td></tr>
+    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="purchase.asp#edit">ApexSQL Edit</a></td></tr>
+    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="purchase.asp#log">ApexSQL Log</a></td></tr>
+    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="purchase.asp#report">ApexSQL Report</a></td></tr>
+    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="purchase.asp#script">ApexSQL Script</a></td></tr>
+    <tr><td class="td_drop_in">&nbsp;</td></tr>
+    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="sales_faq.asp">Sales FAQ</a></td></tr>
+    <tr><td class="td_drop_in" style="border-bottom: none;" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="faqs_activation.asp">Activation Guide</a></td></tr>
+    </tbody></table>
+    </div>
+    <a href="purchase.asp">Purchase</a>
+  </td>
+  <td class="top_menu_inactive" onmouseover="javascript:this.className='top_menu_rollover';" onmouseout="javascript:this.className='top_menu_inactive';"><a class="top_menu_inactive" href="forum/default.asp">Support</a></td>
+  <td class="top_menu_inactive" onmouseover="javascript:this.className='top_menu_rollover';" onmouseout="javascript:this.className='top_menu_inactive';"><a class="top_menu_inactive" href="training.asp">Training</a></td>
+  <td class="top_menu_inactive" onmouseover="javascript:this.className='top_menu_rollover';" onmouseout="javascript:this.className='top_menu_inactive';"><a class="top_menu_inactive" href="blog/index.htm">News</a></td>
+  <td id="c_company" class="top_menu_active" onmouseover="javascript:subMenuShow('company');" onmouseout="javascript:subMenuHide('company', 1);">
+    <div id="company" class="drop" onmouseover="javascript:subMenuShow('company');" onmouseout="javascript:subMenuHide('company', 1);">
+    <table class="table_drop_in" cellspacing="0">
+    <tbody><tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="comp_about.asp">About</a></td></tr>
+    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="comp_contact.asp">Contact Info</a></td></tr>
+    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="comp_location.asp">Location</a></td></tr>
+    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="testimonials.asp">Testimonials</a></td></tr>
+    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="comp_privacy.asp">Privacy Policy</a></td></tr>
+    <tr><td class="td_drop_in">&nbsp;</td></tr>
+    <tr><td class="td_drop_in" style="border-bottom: none;" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="comp_employment.asp">Jobs at ApexSQL</a></td></tr>
+    </tbody></table>
+    </div>
+    Company
+  </td>
+  <td width="100%" align="center" valign="bottom"><img src="images/m_pic.png" width="95" height="28"></td>
+  <td id="c_members" class="top_menu_inactive" onmouseover="javascript:subMenuShow('members');" onmouseout="javascript:subMenuHide('members', 0);">
+    <div id="members" class="drop_members" onmouseover="javascript:subMenuShow('members');" onmouseout="javascript:subMenuHide('members', 0);">
+    <table class="table_drop_in" cellspacing="0">
+    <tbody><tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="forum/login_user.asp">Login Page</a></td></tr>
+    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="forum/register.asp">Edit Profile</a></td></tr>
+    <tr><td class="td_drop_in" style="border-bottom: none;" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="faq_login.asp">Registration FAQ</a></td></tr>
+    </tbody></table>
+    </div>
+    <a href="memberarea.asp">Members</a>
+  </td>
+  </tr>
+  </tbody></table>
 </div>
-<div id="topmenu">
-<ul>
-  <li><a class="cledge" href="http://www.apexsql.com">Home</a> | </li>
-  <li><a href="products.asp" onmouseover="setHoverState(subProducts, true)" onmouseout="setHoverState(subProducts, false)">Products</a> | </li>
-  <li><a href="downloads.asp" onmouseover="setHoverState(subDownloads, true)" onmouseout="setHoverState(subDownloads, false)">Downloads</a></li>
-	<li><a href="purchase.asp" onmouseover="setHoverState(subPurchase, true)" onmouseout="setHoverState(subPurchase, false)">Purchase</a></li>
-  <li><a href="memberarea.asp">Register</a></li>
-  <li><a href="forum_redesign/default.asp">Support</a></li>
-  <li><a href="training.asp">Training</a></li>
-  <li><a href="blog/index.htm">News</a></li>
-  <li><a class="active" name="company" onmouseover="setHoverState(subCompany, true)" onmouseout="setHoverState(subCompany, false)">Company</a></li>
-</ul>
-<script type="text/javascript">
-//	var left = screen.width-124;
-	var left = 676;
-  document.writeln("<div style='margin-left: " + left + "px'>");
-</script><div style="margin-left: 676px">
+<!-- /top menu -->
 
-<ul>
-	<li><a href="member_myprofile_home.asp" onmouseover="setHoverState(subSupport, true)" onmouseout="setHoverState(subSupport, false)">Member Area</a></li>
-</ul>
-</div>
-<div class="clear"></div>
-</div>
-
-<!-- masthead content end -->
-			</div>
-			<div id="outerColumnContainer">
-				<div id="innerColumnContainer">
-
-			<div id="leftColumn"> 
-				<div class="insidel"> 
-					<!-- left column content begin -->
-					<ul>
-						<li><a class="leftlink" href="comp_about.asp">About</a></li>
-						<li><a class="leftlink" href="comp_contact.asp">Contact Info</a></li>
-						<li><a class="leftlink" href="comp_location.asp">Location</a></li>
-						<li><a class="leftlink" href="testimonials.asp">Testimonials</a></li>
-						<li><a class="leftlink" href="comp_mgt_team.asp">Management Team</a></li>
-						<li><a class="leftlink" href="comp_privacy.asp">Privacy Policy</a></li>
-						<li>&nbsp;</li>
-						<li><a class="leftlink" href="comp_employment.asp">Jobs at ApexSQL</a></li>
-					</ul>
-					<p>&nbsp;</p>
-					<p>&nbsp;</p>
-					<p>&nbsp;</p>
-					<p>&nbsp;</p>
-					<p>&nbsp;</p>
-					<p>&nbsp;</p>
-					<p>&nbsp;</p>
-					<p>&nbsp;</p>
-					<p>&nbsp;</p>
-					<p>&nbsp;</p>
-					<p>&nbsp;</p>
-					<!-- left column content end -->
-				</div>
-			</div>
-					
-			<div id="rightColumn"> 
-				<div class="inside"> 
-					<!-- right column content begin -->
-					<div id="box">
-						<div class="boxhead">Top Reasons To Buy</div>
-						<p>To See the Top 10 Reasons to 
-      Buy Apex SQL Software tools: Click <a href="10reasons2buy.asp">Here</a></p>
-						<div class="boxhead">Pre&nbsp;Sales&nbsp;Question?</div>
-						<p>Please call <span class="phone">866-665-5500 </span>(U.S. &amp; Canada) or <br><span class="phone">+1 508-528-3493</span> (International) or email <a href="mailto:sales@apexsql.com">sales@apexsql.com</a></p>
-      <div class="boxhead">Success Stories</div>
-			<p>"[Apex SQL Audit] 
-      has been a life saver for me.&nbsp; No longer can our business clients
-      blame the system or my IT staff when errors appear in our data.&nbsp;
-      Thanks to [Apex SQL Audit], we can now track 'when' and 'who' made the change
-      and if needed restore old data.&nbsp; [Apex SQL Audit] has paid for itself in
-      it's first week of use."</p>
-			<p class="right"><strong>Andy Zecha</strong><br>
-      Director of Database Operations<br>HubX.net</p>
-      <p>"[Apex SQL Audit] 
-      has saved us hours of programming. It produces reliable code, and
-      addresses important auditing requirements of our point of sale
-      applications."</p>
-      <p class="right"><strong>Gary Low</strong><br>
-      President<br>Remington Stevens</p>
-      <p>"...By the
-      way, the more I use your product [Apex SQL Code], the more I really think your product is
-      excellent and a real timesaver."</p>
-      <p class="right"><strong>Michael Bunger</strong><br>
-      Vice President<br>
-      Raecom, Inc.</p>
-					</div>
-					<!-- right column content end -->
-				</div>
-			</div>
-					
-			<div id="contentColumn"> 
-				<div class="inside"> 
-					<!-- middle column content begin -->
-          <!-- InstanceBeginEditable name="content" -->
-<table width="99%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" height="1"><tbody><tr>
-    <td width="718" valign="top" height="1" align="left" rowspan="4">
-      <h1>Apex SQL Privacy Policy</h1>
-            
-            &nbsp;<h6><span style="font-size: 110%">Non-</span><span style="font-size: ``0%">Personal</span><span style="font-size: 110%"> information</span></h6>
-		<p><span>Y</span>ou can visit Apex<span>S</span>QL&nbsp;on the
-World Wide Web without telling us who you are or revealing any information about
-yourself. Our web servers collect the domain names, not the e-mail addresses, of
-visitors. Also, we may collect and store other information about your visit on
-an anonymous, aggregate basis. This information may include the time and length
-of your visit, the pages you look at on our sites, and the site you visited just
-before coming to ours. We may also record the name of your Internet service
-provider, browser type, and country of origin. We use this information only to
-measure site activity and to develop ideas for improving our sites.</p>
-
-<h6><span>Personal information collected during web site sign-up</span></h6>
-
-<p>
-Apex<span>S</span>QL&nbsp;may ask you to register and
-provide information that personally identifies you, such as name, e-mail
-address, mailing address or phone number ("Personal Information").<span> 
-*</span> This will occur <span>when you sign-up as a member of
-</span>Apex<span>S</span>QL<span>&nbsp;website</span>. We use your Personal Information <span>to </span>allow us to inform you of
-    product updates and upgrades, special offers, new services and products, as
-    well as updated information that may be especially pertinent to you.</p>
-		<p>
-  		<span>As of 2/20/2004 we request only Email address, First 
-		Name, Last Name, Phone and Registration for site registration.&nbsp; Of 
-		these only email address is required.</span></p>
-<p>
-Apex<span>S</span>QL<span>
-</span>will not provide <span>any </span>
-personal Information to any third parties.&nbsp; </p>
-<p>Similarly, if you don't want Apex<span>S</span>QL&nbsp;to send you 
-e-mail regarding Apex<span>S</span>QL&nbsp;products, services, or
-special offers<span> you will have the opportunity to unsubscribe 
-with each mailing 
-and be permanently removed from our mailing list.</span></p>
-		<h6><span>Personal information collected during Online purchase</span></h6>
-		<p><span>Online 
-		purchases are handled by shareit.com which collects a variety of 
-		information required to process your order.&nbsp; Such information is 
-		available to </span>Apex<span>S</span>QL<span>&nbsp;but 
-		is not stored on any ApexSQL web server.</span></p>
-		<p><span>Please 
-		click
-		<a target="_blank" href="http://www.shareit.com/privacy_statement.html?sessionid=97825978&amp;random=d9d3f0244df95cc348cf6d60ba2c98a8">
-		Here</a> for more information Shareit's Privacy Policy</span></p>
-		<h6>
-		<span><a name="Product_Update_Newsletter_and_Alerts">Product 
-		update newsletter and alerts</a></span></h6>
-		<p><span>You 
-		will be Automatically subscribed to the </span>Apex<span>S</span>QL<span>&nbsp;Product 
-		Update Newsletter when you sign-up as a member on the site.&nbsp; 
-		Product Update Alerts and Newsletters keep you informed of new releases 
-		and other product news.&nbsp; You  
-		will have the opportunity to unsubscribe and be permanently removed from 
-		our mailing list after the first mailing.&nbsp; Click
-		<a href="#How_Do_I_unsubscribe_from_ApexSQL_Emails">Here</a> for 
-		instructions</span></p>
-		<h6>
-		<span><a name="Post_Download_Email">Post download email</a></span></h6>
-		<p><span>You may receive an email after downloading 
-		software - confirming download and offering other product specific 
-		information.&nbsp; Users who have purchased and successfully registered 
-		the particular ApexSQL product will not receive a post download email.&nbsp;
-		</span></p>
-		<h6><span>
-		Why did I get email from 
-		ApexSQL?</span></h6>
-		<p><span>You 
-		have either:</span></p>
-		<ul>
-			<li><span>Signed-up as a member on </span>Apex<span>S</span>QL<span>&nbsp;website 
-			(<a href="#Product_Update_Newsletter_and_Alerts">Newsletter</a>)</span></li>
-			<li><span>Signed-up as a member on </span>Apex<span>S</span>QL<span>&nbsp;website 
-			and downloaded software (<a href="#Post_Download_Email">Post 
-			Download Email</a>)</span></li>
-			<li><span>Purchased </span>Apex<span>S</span>QL<span>&nbsp;software 
-			(<a href="#Product_Update_Newsletter_and_Alerts">Newsletter</a>)</span></li>
-			<li><span>Subscribed to our E-Newsletter via ApexSQL 
-			Website (<a href="#Product_Update_Newsletter_and_Alerts">Newsletter</a>)</span></li>
-		</ul>
-		<p><span>We don't purchase or sell lists of email addresses</span></p>
-		<h6><span>
-		<a name="How_Do_I_unsubscribe_from_ApexSQL_Emails">How do I unsubscribe 
-		from ApexSQL emails?</a></span></h6>
-		<blockquote>
-			<h6><span>
-			<a href="#Product_Update_Newsletter_and_Alerts">
-			<span style="font-size: 100%">Newsletters and 
-			Product Update Alerts</span></a></span></h6>
-			<p><span>You can unsubscribe permanently from ApexSQL
-			<a href="#Product_Update_Newsletter_and_Alerts">Newsletter</a> by 
-			clicking on the link at the bottom of any newsletter you receive.</span></p>
-			<p><span>Note:&nbsp; </span></p>
-			<ul>
-				<li><span>ApexSQL is not able to unsubscribe you 
-				from this third party service - the recipient must unsubscribe 
-				directly.&nbsp; </span></li>
-				<li><span>Replying with "unsubscribe", emailing in 
-				or calling in request to ApexSQL will not result in unsubscribe 
-				for reason above.</span></li>
-				<li><span>If you sign-up again with different email 
-				then you will resume getting email at the new email address</span></li>
-			</ul>
-			<h6><a href="#Post_Download_Email">
-			<span style="font-size: 100%">Post Download 
-			Email</span></a></h6>
-			<p>We currently don't offer ability to 
-			unsubscribe to <a href="#Post_Download_Email">Post Download Email</a>.</p>
-			<p>But we may offer alternative download link 
-			that will not result in <a href="#Post_Download_Email">Post Download 
-			Email</a> - such alternate link, if it exists, will be located next 
-			to primary download link.&nbsp; We can also delete you from our 
-			database after request to <a href="mailto:webmaster@apexsql.com">
-			webmaster@apexsql.com</a> but this will also preclude future use of 
-			website including login, forum posting and downloading software.</p>
-		</blockquote>
-		<h6><span style="font-size: 110%">How do I remove myself from ApexSQL lists and/or 
-		avoid getting anymore emails?</span></h6>
-		<blockquote>
-			<p><span>Unsubscribe to newsletter. Click
-			<a href="#How_Do_I_unsubscribe_from_ApexSQL_Emails">Here</a> for 
-			instructions</span></p>
-			<p><span>Desist from downloading ApexSQL software 
-			and/or use alternate link to download software (if it exists)</span></p>
-			<p><span>Do not sign-up with new email addresses as you 
-			will get back into our lists</span></p>
-		</blockquote>
-<h6><span>Cookies</span></h6>
-
-<p>"Cookies" are small pieces of
-information that are stored by your browser on your computer's hard drive. Our
-cookies do not contain any personally identifying information. They only contain
-a secure identifying code that we use to match you to your Personal Information
-whenever you return to our site. Your Personal Information is never directly
-connected to nor stored on your computer, but is accessed when we identify your
-cookie to provide you with a more personalized experience when visiting our
-site.</p>
-
-		<h6><span>Does ApexSQL store credit card information?</span></h6>
-		<p>Apex<span>S</span>QL does NOT store Credit Card 
-		information<span>.&nbsp; N</span>either does ShareIt which 
-		processes all of our online payments. So your credit card information 
-		can not be stolen by means of persons illegally gaining access to 
-		customer information stored on a web server nor will you ever be 
-		re-billed automatically for any service or product.<span>
-		</span></p>
-
-<p>&nbsp;</p>
-
-    </td>
-    <td width="36" valign="top" height="1" rowspan="4">&nbsp;
-      
-    </td>
-</tr>
-
-
-</tbody></table>
-          <!-- InstanceEndEditable -->
-          <!-- middle column content end -->
-				</div>
-			</div>
-			<div class="clear mozclear"></div>
+<!-- content -->
+<div class="main">
+<!-- right column -->
+  <div class="rightblock">
+        <div class="right_title">
+      <img src="images/right_title_bullet.png" width="8" height="8"> TOP REASONS TO BUY
+    </div>
+    <div class="right_text">
+      To See the Top Reasons to Buy Apex SQL Software tools: <a href="10reasons2buy.asp">Click Here</a>
+    </div>    <div class="right_title">
+      <img src="images/right_title_bullet.png" width="8" height="8"> PRE SALES QUESTION?
+    </div>
+    <div class="right_text">
+      Please call <nobr>866-665-5500</nobr> (U.S. &amp; Canada) or <nobr>+1 919-968-8444</nobr> or email <a href="mailto:sales@apexsql.com">sales@apexsql.com</a>
+    </div>		<div class="right_title">
+			<img src="images/right_title_bullet.png" width="8" height="8"> SUCCESS STORIES	
 		</div>
-	</div>
-			
-	<div id="footer" class="inside"> 
-		<!-- footer content begin -->
-		<p class="center"><span class="copyright">© 2005</span>
-<a class="copyright" title="http://www.apexsql.com/" target="_top" href="http://www.apexsql.com/">Apex SQL Tools</a>
-<span class="copyright">&nbsp; All Rights Reserved | 1.508.528.3493 | </span>
-<a class="copyright" target="_parent" href="http://www.apexsql.com/comp_contact.asp"> Contact Us</a>
-<span class="copyright"> | </span>
-<a class="copyright" target="_self" href="http://www.apexsql.com/TermsOfUse.asp">Terms of Use</a></p><p></p>
-		<!-- footer content end -->
-	</div>
-</div>
-
-<div id="menu">
-	<!-- menu content begin -->
-<div id="subProducts" style="position:absolute; width:120px; height:18px; left: 45px; top: 91px; visibility: hidden; z-index: 999;" onmouseover="setHoverState(subProducts, true)" onmouseout="setHoverState(subProducts, false)">
-	<table width="120" border="0" cellpadding="0" cellspacing="0" bgcolor="#eaeaea" style="border-width: 0 1px 1px 1px; border-color:#999; border-style: solid;">
-		<tbody><tr>
-			<td nowrap="nowrap">
-				<p><a class="dropdown" href="http://www.apexsql.com/sql_tools_audit.asp">» ApexSQL Audit</a></p>
-				<p><a class="dropdown" href="http://www.apexsql.com/sql_tools_clean.asp">» ApexSQL Clean</a></p>
-				<p><a class="dropdown" href="http://www.apexsql.com/sql_tools_code.asp">» ApexSQL Code</a></p>
-				<p><a class="dropdown" href="http://www.apexsql.com/sql_tools_diff.asp">» ApexSQL Diff</a></p>
-				<p><a class="dropdown" href="http://www.apexsql.com/sql_tools_doc.asp">» ApexSQL Doc</a></p>
-				<p><a class="dropdown" href="http://www.apexsql.com/sql_tools_edit.asp">» ApexSQL Edit</a></p>
-				<p><a class="dropdown" href="http://www.apexsql.com/sql_tools_log.asp">» ApexSQL Log</a></p>
-				<p><a class="dropdown" href="http://www.apexsql.com/sql_tools_report.asp">» ApexSQL Report</a></p>
-				<p><a class="dropdown" href="http://www.apexsql.com/sql_tools_script.asp">» ApexSQL Script</a></p>
-			</td>
-		</tr>
-	</tbody></table>
-</div>
-
-<div id="subDownloads" style="position:absolute; width:120px; height:18px; left: 107px; top: 91px; visibility: hidden; z-index: 999;" onmouseover="setHoverState(subDownloads, true)" onmouseout="setHoverState(subDownloads, false)">
-	<table width="180" border="0" cellpadding="0" cellspacing="0" bgcolor="#eaeaea" style="border-width: 0 1px 1px 1px; border-color:#999; border-style: solid;">
-		<tbody><tr>
-			<td nowrap="nowrap">
-				<p><a class="dropdown" href="http://www.apexsql.com/downloads.asp#audit">» ApexSQL Audit</a></p>
-				<p><a class="dropdown" href="http://www.apexsql.com/downloads.asp#clean">» ApexSQL Clean</a></p>
-				<p><a class="dropdown" href="http://www.apexsql.com/downloads.asp#code">» ApexSQL Code</a></p>
-				<p><a class="dropdown" href="http://www.apexsql.com/downloads.asp#diff">» ApexSQL Diff</a></p>
-				<p><a class="dropdown" href="http://www.apexsql.com/downloads.asp#doc">» ApexSQL Doc</a></p>
-				<p><a class="dropdown" href="http://www.apexsql.com/downloads.asp#edit">» ApexSQL Edit</a></p>
-				<p><a class="dropdown" href="http://www.apexsql.com/downloads.asp#log">» ApexSQL Log</a></p>
-				<p><a class="dropdown" href="http://www.apexsql.com/downloads.asp#report">» ApexSQL Report</a></p>
-				<p><a class="dropdown" href="http://www.apexsql.com/downloads.asp#script">» ApexSQL Script</a></p>
-				<p class="menutext">&nbsp;</p>
-				<p><a class="dropdown" href="http://www.apexsql.com/downloads.asp#studio">» ApexSQL Studio</a></p>
-				<p class="menutext">&nbsp;</p>
-				<p><a class="dropdown" href="http://www.apexsql.com/downloads.asp#Pre-requisites">» Prerequisites</a></p>
-				<p><a class="dropdown" href="http://www.apexsql.com/Requirements.asp">» Sys Requirements</a></p>
-			</td>
-		</tr>
-	</tbody></table>
-</div>
-
-<div id="subPurchase" style="position:absolute; width:100px; height:18px; left:180px; top: 91px; visibility: hidden; z-index: 999;" onmouseover="setHoverState(subPurchase, true)" onmouseout="setHoverState(subPurchase, false)">
-	<table width="100" border="0" cellpadding="0" cellspacing="0" bgcolor="#eaeaea" style="border-width: 0 1px 1px 1px; border-color:#999; border-style: solid;">
-		<tbody><tr>
-			<td nowrap="nowrap">
-				<p><a class="dropdown" href="http://www.apexsql.com/purchase.asp#audit">» ApexSQL Audit</a></p>
-				<p><a class="dropdown" href="http://www.apexsql.com/purchase.asp#clean">» ApexSQL Clean</a></p>
-				<p><a class="dropdown" href="http://www.apexsql.com/purchase.asp#code">» ApexSQL Code</a></p>
-				<p><a class="dropdown" href="http://www.apexsql.com/purchase.asp#diff">» ApexSQL Diff</a></p>
-				<p><a class="dropdown" href="http://www.apexsql.com/purchase.asp#doc">» ApexSQL Doc</a></p>
-				<p><a class="dropdown" href="http://www.apexsql.com/purchase.asp#edit">» ApexSQL Edit</a></p>
-				<p><a class="dropdown" href="http://www.apexsql.com/purchase.asp#log">» ApexSQL Log</a></p>
-				<p><a class="dropdown" href="http://www.apexsql.com/purchase.asp#report">» ApexSQL Report</a></p>
-				<p><a class="dropdown" href="http://www.apexsql.com/purchase.asp#script">» ApexSQL Script</a></p>
-				<p class="menutext">&nbsp;</p>
-				<p><a class="dropdown" href="http://www.apexsql.com/purchase.asp#studio">» ApexSQL Studio Standard</a></p>
-				<p><a class="dropdown" href="http://www.apexsql.com/purchase.asp#universal">» ApexSQL Studio Universal</a></p>
-				<p class="menutext">&nbsp;</p>
-				<p><a class="dropdown" href="http://www.apexsql.com/purchase.asp#Custom Order">» Custom Order</a></p>
-				<p class="menutext">&nbsp;</p>
-				<p><a class="dropdown" href="http://www.apexsql.com/sales_faq.asp">» Sales FAQ</a></p>
-				<p><a class="dropdown" href="http://www.apexsql.com/faqs_activation.asp">» Activation Guide</a></p>
-				<p><a class="dropdown" href="http://shareit1.element5.com/ccc/index.html?publisherid=19982">» Customer Care Page</a></p>
-				<p class="menutext">&nbsp;</p>
-				<p><a class="dropdown" href="http://www.apexsql.com/affiliate.asp">» Affiliate Program</a></p>
-			</td>
-		</tr>
-	</tbody></table>
-</div>
-
-<div id="subCompany" style="position:absolute; width:132px; height:18px; left:460px; top: 91px; visibility: hidden; z-index: 999;" onmouseover="setHoverState(subCompany, true)" onmouseout="setHoverState(subCompany, false)">
-	<table width="132" border="0" cellpadding="0" cellspacing="0" bgcolor="#eaeaea" style="border-width: 0 1px 1px 1px; border-color:#999; border-style: solid;">
-		<tbody><tr>
-			<td nowrap="nowrap">
-				<p><a class="dropdown" href="http://www.apexsql.com/comp_about.asp">» About</a></p>
-				<p><a class="dropdown" href="http://www.apexsql.com/comp_contact.asp">» Contact Info</a></p>
-				<p><a class="dropdown" href="http://www.apexsql.com/comp_location.asp">» Location</a></p>
-				<p><a class="dropdown" href="http://www.apexsql.com/testimonials.asp">» Testimonials</a></p>
-				<p><a class="dropdown" href="http://www.apexsql.com/comp_mgt_team.asp">» Management Team</a></p>
-				<p><a class="dropdown" href="http://www.apexsql.com/comp_privacy.asp">» Privacy Policy</a></p>
-				<p><class="menutext">&nbsp;</class="menutext"></p>
-				<p><a class="dropdown" href="http://www.apexsql.com/comp_employment.asp">» Jobs at ApexSQL</a></p>
-			</td>
-		</tr>
-	</tbody></table>
-</div>
-
-<script type="text/javascript">
-//	var left = screen.width-208; //816px
-//  document.write("<div id='subSupport' style='position:absolute; width:132px; height:18px; left: " + left + "px; top: 91px; visibility: hidden; z-index: 999;' onmouseover='setHoverState(subSupport, true)' onmouseout='setHoverState(subSupport, false)'>");
-</script>
-<div id="subSupport" style="position:absolute; width:132px; height:18px; left: 592px; top: 91px; visibility: hidden; z-index: 999;" onmouseover="setHoverState(subSupport, true)" onmouseout="setHoverState(subSupport, false)" --="">
-	<table width="132" border="0" cellpadding="0" cellspacing="0" bgcolor="#eaeaea" style="border-width: 0 1px 1px 1px; border-color:#999; border-style: solid;">
-		<tbody><tr>
-			<td nowrap="nowrap">
-				<p><a class="dropdown" href="http://www.apexsql.com/forum_redesign/register.asp">» Edit Profile</a></p>
-				<p><a class="dropdown" href="http://www.apexsql.com/member_product_registration.asp">» Product Registration</a></p>
-				<p><a class="dropdown" href="http://www.apexsql.com/member_myprofile_home.asp">» My Profile Home</a></p>
-				<p><a class="dropdown" href="http://www.apexsql.com/faq_login.asp">» Registration FAQ</a></p>
-			</td>
-		</tr>
-	</tbody></table>
-</div>
-	<!-- menu content end -->
-</div>
+		<div class="right_text">
+			"[Apex SQL Audit] has been a life saver for me.  No longer can our business clients blame the system or my IT staff when errors appear in our data.  Thanks to [Apex SQL Audit], we can now track 'when' and 'who' made the change and if needed restore old data.  [Apex SQL Audit] has paid for itself in it's first week of use."
 	
-<!-- InstanceEnd --></body></html>
+			<p class="gray">
+			Andy Zecha
+			<br>Director of Database Operations
+			<br>HubX.net
+			</p>
+
+			"[Apex SQL Audit] has saved us hours of programming. It produces reliable code, and addresses important auditing requirements of our point of sale applications."
+			<p class="gray">
+			Gary Low
+			<br>President
+			<br>Remington Stevens
+			</p>
+		
+			"...By the way, the more I use your product [Apex SQL Code], the more I really think your product is excellent and a real timesaver."
+			<p class="gray">
+			Michael Bunger
+			<br>Vice President
+			<br>Raecom, Inc.
+			</p>
+		</div>
+
+  </div>
+<!-- /right column -->
+
+<!-- left column -->
+  <div class="leftblock">
+    <!-- About header -->
+    <div class="part">
+      <p class="title_in">Apex SQL Privacy Policy</p><p>
+      <!-- /About header -->
+      </p><div class="partw">
+        <p class="announce_title">Non-Personal information
+        </p><p class="announce_text">You can visit ApexSQL on the World Wide Web without telling us who you are or revealing any information about yourself. Our web servers collect the domain names, not the e-mail addresses, of visitors. Also, we may collect and store other information about your visit on an anonymous, aggregate basis. This information may include the time and length of your visit, the pages you look at on our sites, and the site you visited just before coming to ours. We may also record the name of your Internet service provider, browser type, and country of origin. We use this information only to measure site activity and to develop ideas for improving our sites.
+      </p></div>
+      <div class="partw">
+        <p class="announce_title">Personal information collected during web site sign-up
+        </p><p class="announce_text">ApexSQL may ask you to register and provide information that personally identifies you, such as name, e-mail address, mailing address or phone number ("Personal Information"). * This will occur when you sign-up as a member of ApexSQL website. We use your Personal Information to allow us to inform you of product updates and upgrades, special offers, new services and products, as well as updated information that may be especially pertinent to you.
+
+        </p><p class="announce_text">As of 2/20/2004 we request only Email address, First Name, Last Name, Phone and Registration for site registration.  Of these only email address is required.
+
+        </p><p class="announce_text">ApexSQL will not provide any personal Information to any third parties.  
+
+        </p><p class="announce_text">Similarly, if you don't want ApexSQL to send you e-mail regarding ApexSQL products, services, or special offers you will have the opportunity to unsubscribe with each mailing and be permanently removed from our mailing list.
+      </p></div>
+      <div class="partw">
+        <p class="announce_title">Personal information collected during Online purchase
+        </p><p class="announce_text">Online purchases are handled by shareit.com which collects a variety of information required to process your order.  Such information is available to ApexSQL but is not stored on any ApexSQL web server.
+
+        </p><p class="announce_text">Please click <a href="http://www.shareit.com/privacy_statement.html?sessionid=97825978&amp;random=d9d3f0244df95cc348cf6d60ba2c98a8">Here</a> for more information Shareit's Privacy Policy
+      </p></div>
+      <div class="partw"><a name="newsletter"></a>
+        <p class="announce_title">Product update newsletter and alerts
+        </p><p class="announce_text">You will be Automatically subscribed to the ApexSQL Product Update Newsletter when you sign-up as a member on the site.  Product Update Alerts and Newsletters keep you informed of new releases and other product news.  You will have the opportunity to unsubscribe and be permanently removed from our mailing list after the first mailing.  Click <a href="#unsubscribe">Here</a> for instructions
+      </p></div>
+      <div class="partw"><a name="post_download_email"></a>
+        <p class="announce_title">Post download email
+        </p><p class="announce_text">You may receive an email after downloading software - confirming download and offering other product specific information.  Users who have purchased and successfully registered the particular ApexSQL product will not receive a post download email.
+      </p></div>
+      <div class="partw">
+        <p class="announce_title">Why did I get email from ApexSQL?
+        </p><p class="announce_text">You have either:
+        </p><ul>
+        <li>Signed-up as a member on ApexSQL website (<a href="#newsletter">Newsletter</a>)</li> 
+        <li>Signed-up as a member on ApexSQL website and downloaded software (<a href="#post_download_email">Post Download Email) </a></li><a href="#post_download_email">
+        </a><li><a href="#post_download_email">Purchased ApexSQL software (</a><a href="#newsletter">Newsletter</a>) </li>
+        <li>Subscribed to our E-Newsletter via ApexSQL Website (<a href="#newsletter">Newsletter</a>) </li>
+        </ul>
+        <p class="announce_text">We don't purchase or sell lists of email addresses
+      </p></div>
+      <div class="partw"><a name="unsubscribe"></a>
+        <p class="announce_title">How do I unsubscribe from ApexSQL emails?
+        </p><p class="announce_text"><u><b>Newsletters and Product Update Alerts</b></u>
+        </p><p class="announce_text">You can unsubscribe permanently from ApexSQL <a href="#newsletter">Newsletter</a> by clicking on the link at the bottom of any newsletter you receive.
+        </p><p class="announce_text">Note:
+        </p><ul>  
+        <li>ApexSQL is not able to unsubscribe you from this third party service - the recipient must unsubscribe directly.  
+        </li><li>Replying with "unsubscribe", emailing in or calling in request to ApexSQL will not result in unsubscribe for reason above. 
+        </li><li>If you sign-up again with different email then you will resume getting email at the new email address 
+        </li></ul>
+
+        <p class="announce_text"><u><b>Post Download Email</b></u>
+        </p><p class="announce_text">We currently don't offer ability to unsubscribe to <a href="#post_download_email">Post Download Email</a>.
+
+        </p><p class="announce_text">But we may offer alternative download link that will not result in <a href="#post_download_email">Post Download Email</a> - such alternate link, if it exists, will be located next to primary download link.  We can also delete you from our database after request to <a href="mailto:webmaster@apexsql.com">webmaster@apexsql.com</a> but this will also preclude future use of website including login, forum posting and downloading software.
+      </p></div>
+      <div class="partw">
+        <p class="announce_title">How do I remove myself from ApexSQL lists and/or avoid getting anymore emails?
+        </p><p class="announce_text">Unsubscribe to newsletter. Click <a href="#unsubscribe">Here</a> for instructions
+
+        </p><p class="announce_text">Desist from downloading ApexSQL software and/or use alternate link to download software (if it exists)
+
+        </p><p class="announce_text">Do not sign-up with new email addresses as you will get back into our lists
+      </p></div>
+      <div class="partw">
+        <p class="announce_title">Cookies
+        </p><p class="announce_text">"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Our cookies do not contain any personally identifying information. They only contain a secure identifying code that we use to match you to your Personal Information whenever you return to our site. Your Personal Information is never directly connected to nor stored on your computer, but is accessed when we identify your cookie to provide you with a more personalized experience when visiting our site.
+      </p></div>
+      <div class="partw">
+        <p class="announce_title">Does ApexSQL store credit card information?
+        </p><p class="announce_text">ApexSQL does NOT store Credit Card information.  Neither does ShareIt which processes all of our online payments. So your credit card information can not be stolen by means of persons illegally gaining access to customer information stored on a web server nor will you ever be re-billed automatically for any service or product.
+      </p></div>
+    </div>
+  </div>
+<!-- /left column -->
+</div>
+<!-- /content -->
+
+<!-- bot -->
+<p align="center" class="bot">
+© 2006 <a href="#">Apex SQL Tools</a> All Rights Reserved | 1.919.968.8444 | <a href="comp_contact.asp">Contact Us</a> | <a href="terms_of_use.asp">Terms of Use</a>
+</p>
+<!-- /bot -->
+
+</body></html>
