@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seoimage.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231065212id_/http%3A//www.seoimage.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoimage.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615043458id_/http%3A//www.seoimage.com/privacy-policy.html) for the most accurate reproduction.*
 
-# SEO-Image™ Search Engine Optimization Search Engine Marketing company SEO
+# SEO-Image™ Search Engine Optimization Search Engine Marketing company Privacy Policy
 
 **Privacy Policy**
 
