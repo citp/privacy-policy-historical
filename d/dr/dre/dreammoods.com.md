@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreammoods.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219142222id_/http%3A//www.dreammoods.com/privacystatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreammoods.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615203701id_/http%3A//www.dreammoods.com/privacystatement.htm) for the most accurate reproduction.*
 
 # Dream Moods: Privacy Statement
 
@@ -8,7 +8,7 @@
 
 * * *
 
-We, at [Dream Moods](https://web.archive.org/web/20051219142222id_/http%3A//www.dreammoods.com/index.html), recognize your right to confidentiality and has created this privacy statement in order to demonstrate our firm commitment to protecting your privacy. The following discloses the information gathering and dissemination practices for [Dream Moods.](https://web.archive.org/web/20051219142222id_/http%3A//www.dreammoods.com/index.html)
+We, at [Dream Moods](https://web.archive.org/web/20060615203701id_/http%3A//www.dreammoods.com/index.html), recognize your right to confidentiality and has created this privacy statement in order to demonstrate our firm commitment to protecting your privacy. The following discloses the information gathering and dissemination practices for [Dream Moods.](https://web.archive.org/web/20060615203701id_/http%3A//www.dreammoods.com/index.html)
 
 **Information Automatically Logged** : We use your IP address to gather broad demographic information and  as a way of diagnosing problems with our server and to administer and monitor our site.
 
