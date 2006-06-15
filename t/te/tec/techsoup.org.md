@@ -1,58 +1,151 @@
-> *The following text is extracted and transformed from the techsoup.org privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211003938id_/http%3A//www.techsoup.org/about/privacy.cfm%3Fcg%3Dhome%26sg%3Dfooter_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsoup.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615205614id_/http%3A//techsoup.org/about/privacy.cfm%3Fcg%3Dhome%26sg%3Dfooter_privacy) for the most accurate reproduction.*
 
-# TechSoup - About TechSoup - Privacy Statement
+# TechSoup - About TechSoup - Privacy Policy
 
-**Privacy Statement**  
-This privacy statement discloses the privacy practices for TechSoup.org. TechSoup.org is a project of [CompuMentor](http://www.compumentor.org/). To learn how TechSoup Stock maintains your privacy and security, please refer to the [TechSoup Stock Privacy Statement](https://web.archive.org/stock/privacy.asp). 
+**COMPUMENTOR PRIVACY POLICY**  
+This statement discloses the privacy policy of CompuMentor, Inc. ("CompuMentor") and its subsidiaries, TechSoup.org and TechSoup Stock. CompuMentor reserves the right to collect Personal Information from visitors to the domains CompuMentor.org, TechSoup.org, and TechSoup.org/Stock ("Web Sites"). "Personal Information" is any information that allows one person to be identified or contacted by another, including -- but not limited to -- information about or relating to that person's name, mailing address, telephone number, and email address. 
 
-**Information Collection and Use**  
-TechSoup.org is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. TechSoup.org collects information from our users at several different points on our Web site. 
+A "My TechSoup Account Holder" is anyone who has created or currently has a My TechSoup Profile. 
 
-**My TechSoup Registration**  
-In order to use some features of this Web site (My TechSoup), users must first complete the registration form. During registration, users are required to give their contact information (name and e-mail address). This information is used to contact users about the topics on our site for which they have expressed interest and to enable users to retrieve lost passwords. It is optional for the user to provide demographic information (mailing address, position, technical skill, etc.). 
+VISITOR CONSENT   
+GENERAL SECURITY   
+INFORMATION WE COLLECT   
+COOKIES   
+WHEN WE MAY CONTACT YOU   
+HOW TO OPT OUT   
+SEND TO A FRIEND & REFER A NONPROFIT   
+UPDATING YOUR INFORMATION   
+SURVEYS & CASE STUDIES   
+DISCLOSING INFORMATION TO THIRD PARTIES   
+LINKS TO OUTSIDE WEB SITES   
+REGARDING MINORS   
+NET PASSPORT ACCOUNTS   
+QUESTIONS AND COMMENTS   
+PRIVACY POLICY UPDATES
 
-**Cookies**  
-TechSoup.org uses cookies to remember if users have logged in while on our site. This allows My TechSoup users to avoid logging in more than once, thereby saving time. Users have the option of disabling or not accepting cookies by changing the preferences on their browsers*. If users opt to disable cookies, they will still be able to use our Web site. However, they will not be able to use the My TechSoup functionality or post to the TechSoup message boards. No personally identifiable information (e-mail address, name, etc.) is collected with the cookies that we set. Accepting cookies while on the TechSoup.org site will not put the user at risk for marketing to other sites. 
+**VISITOR CONSENT**
 
-*Different browsers have different cookie settings. With Netscape, you can ask the browser to allow, warn you, or completely disable cookies. Internet Explorer has an additional feature where you can specify different settings for different security zones. You can choose to allow Web sites to create cookies for you in your "trusted sites" (like TechSoup.org), to warn you before you create them in your local Intranet zone, and to give you an option to never allow them in a "restricted zone." See the "Help" section of your particular browser for more information on working with cookies. 
+By visiting our Web Sites, you give CompuMentor permission to process your Personal Information according to this Privacy Policy. Personal Information may be processed in the country where it was collected, as well as in countries where privacy laws may be less stringent, including the United States. 
 
-**Web Statistics**  
-We use IP addresses to analyze trends, administer the site, track user movement, and gather broad demographic information for aggregate use for reporting and sponsorship purposes. IP addresses are not linked to personally identifiable information. 
+**GENERAL SECURITY**
 
-**Sharing**  
-We will share aggregated demographic information with our partners, sponsors, and donors. This is not linked to any personal information that can identify any individual person. We only share this information so that we can secure funding to continue providing this site free of charge. 
+CompuMentor takes reasonable precautions to prevent the loss, misuse, and unauthorized alteration of Personal Information under our control. Any Personal Information submitted to the Web Sites is protected during transmission by a Secure Socket Layer (SSL) 128-bit encrypted certificate from VeriSign. (One exception: email addresses submitted by users to subscribe to one or more of TechSoup.org's newsletters are not protected during transmission.) In addition, CompuMentor servers are protected by a firewall. Yet technical mistakes are possible, and CompuMentor cannot fully eliminate every security risk associated with gathering Personal Information on our Web Sites. (Please see our Terms of Use for more information.) 
 
-**Links**  
-This Web site contains links to other sites. Please be aware that TechSoup.org does not claim any responsibility for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+**INFORMATION WE COLLECT**
 
-**Security**  
-This Web site takes every precaution to protect our users' information, and we have security measures in place to protect the loss, misuse, and alteration of the information under our control. 
+When you access any part of our Web Sites, our Web server software automatically logs information provided by your network connection and Web browser software, including the Internet Protocol (IP) address of your network connection and the type of Web browser and operating system that you are using. Our Web server may also log the URL of the file that you are requesting, the current date and time, and the URL of the last Web page requested by your Web browser. 
 
-**Newsletter - By The Cup**  
-If a user wishes to subscribe to our newsletter (By The Cup), we ask for an email address only. We do not keep track of names or other personal information. 
+CompuMentor analyzes this aggregated information to learn more about how visitors use our Web Sites, to analyze trends, to administer the site, to track visitor movement, and to gather general demographic information for reporting and sponsorship purposes. We do not attempt to match the Personal Information of individual visitors to information logged by our server. 
 
-You can subscribe or unsubscribe from By The Cup online at: [http://www.techsoup.org/tools/newsletters.cfm ](https://web.archive.org/tools/newsletters.cfm)
+To participate in TechSoup's forums or to order software from TechSoup Stock, a visitor must be a My TechSoup Account Holder with a My TechSoup Profile. To create a My TechSoup Profile, visitors must submit their name and email address; additional demographic information -- including mailing address, job title, and level of technical skill -- is optional. CompuMentor retains My TechSoup Profile information to enable Account Holders to retrieve lost passwords, and so that we can contact users about site-related topics in which they have expressed interest, or which we believe may be of interest to them. We also analyze this My TechSoup Profile information and use it to guide our business goals and to better serve our audience. 
 
-**Surveys**  
-Occasionally, our site requests information from users via Web surveys. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include demographic data (such as zip code and age), but nothing that can identify any individual person will be collected. Survey results will be used for purposes of monitoring or improving the use and satisfaction of this site. 
+In addition to their name, title, and email address, visitors who place an order with TechSoup Stock ("TechSoup Stock Customers") are also required to provide CompuMentor with their organization's name, type, mission, budget, and contact information. CompuMentor retains this information so that we can track orders to completion, facilitate customer-service requests, and inform customers of important changes to our program that may affect them. 
 
-**Send This to a Friend**  
-If users elect to use our "Send This to a Friend" function, we ask them for the friend's name and e-mail address. TechSoup.org will automatically send friends a one-time e-mail message inviting them to visit the site. TechSoup.org stores this information temporarily for the sole purpose of sending this one-time message. 
+CompuMentor's TechCommons program (formerly CompuMentor's Consulting Services) retains information about registered organizations and volunteers in order to set up projects between them. For TechCommons clients, this information includes their organization's name, mailing address, mission, and budget; the name and email address of the organization's contact person; and any additional, voluntary information provided during the registration process. For TechCommons volunteers, this information includes contact information (name, phone number, email address, Web site, and home and work addresses), technical skills, areas of interest, and availability. 
 
-**Updates**  
-We may also send the user site and service announcement updates. Members are not able to unsubscribe from service announcements that contain important information about the service. We communicate with users to provide requested services and to discuss issues relating to their accounts via e-mail or phone. 
+When a visitor subscribes to one or more of TechSoup.org's newsletters, we ask only for an email address, which we retain so that we can send the newsletter automatically. We do not retain other Personal Information, except in cases when the visitor has used the same email address to create a My TechSoup Profile. 
 
-**Correction/Updating Personal Information**  
-If a user's personally identifiable information changes (such as zip code or e-mail address), or if a user no longer desires our service, we will endeavor to provide a way to correct, update, or remove that the personal data that was provided to us. Users can use the "Edit My Profile" link from their My TechSoup homepage or they can e-mail our Help Desk ([help@techsoup.org](mailto:help@techsoup.org)) to change, correct, or remove information. 
+From time to time, CompuMentor receives Personal Information about visitors of its Web Sites via offline sources like telephone or fax. We may use this in combination with visitor information collected online in order to improve the services we provide. 
 
-**Choice/Opt-in**  
-Our users are given the opportunity to "opt in" to newsletters and site update e-mail messages. Likewise, By The Cup is an "opt-in" newsletter. Originally, we sent By The Cup to CompuMentor's mentor and organization mailing list, but we no longer will subscribe anyone automatically. To unsubscribe from By The Cup, please see that section above. To unsubscribe from any updates, users can use the "edit my profile" link from their My TechSoup homepage. To avoid receiving certain topic updates, the user can simply deselect the topics and select the "modify" button. 
+**COOKIES**
 
-**Notification of Changes**  
-If we decide to change our privacy policy, we will post those changes on our home page so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by e-mail. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
+CompuMentor utilizes [cookies](http://techsoup.org/tools/glossary.cfm?relationshiptagid=3&cg=searchterms&sg=cookies) on our Web Sites to record when visitors have logged in, thus preventing My TechSoup Account Holders from having to log in more than once during a single visit. We employ cookies to monitor overall site activity and trends as well. 
 
-**Questions or Comments**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
-T. Lynn Stott  
-Director, TechSoup.org   
-[lynn@techsoup.org](mailto:lynn@techsoup.org)
+TechSoup Stock also uses cookies to retain information on what products Registered My TechSoup Visitors have placed in their shopping carts so they need not start from scratch if they are unable to complete an order in one session. 
+
+Visitors to our Web Sites have the option of disabling or not accepting cookies by changing the preferences in their Web browsers. If visitors opt to disable cookies, they will still be able to access our Web Sites. However, they will not be able to use the My TechSoup functionality, post to the TechSoup message boards (Community Discussions), or place orders for products on TechSoup Stock. 
+
+[More information on managing cookies](http://techsoup.org/howto/articles/internet/page3419.cfm) is available in TechSoup's How-To section. 
+
+**WHEN WE MAY CONTACT YOU**
+
+TechSoup Stock regularly sends email alerts to let visitors know about new donated and discounted products to its online catalog. Registered TechSoup Stock Customers are automatically signed up to receive these new product announcements, along with quarterly print catalogs from TechSoup Stock and notices about special promotions, events, and surveys. We may also email Registered TechSoup Stock Customers about services offered by outside partner organizations. These emails will always originate from TechSoup Stock, not from the partner organization. We may also send these email announcements to our TechCommons clients and volunteers. 
+
+My TechSoup Account Holders and TechCommons clients and volunteers may also occasionally receive site and service announcement updates via email, and we may contact TechCommons clients by phone. Registered My TechSoup Visitors, TechCommons clients, and volunteers may not unsubscribe from these announcements, as they contain important information about changes to our services. If Registered My TechSoup Visitors and TechCommons clients and volunteers want to unsubscribe from these announcements, they have to cancel their My TechSoup accounts or TechCommons accounts, respectively. 
+
+**HOW TO OPT OUT**
+
+To unsubscribe from topic-specific email updates from TechSoup, My TechSoup Account Holders should adjust their account settings. To do this, log in from the TechSoup home page. Once you have logged in, click the Profile link to edit your my TechSoup profile. Once in [Edit My Profile](http://www.techsoup.org/tools/mts_edit.cfm), select the topics you are no longer interested in, and then click the Update button. 
+
+If you prefer not to receive other email communications from us, you can remove your name from the mailing list(s) by following the instructions at the bottom of the email message. 
+
+If you would prefer not to receive the quarterly TechSoup Stock print catalog, please send an email to [privacy@compumentor.org](mailto:privacy@compumentor.org) with the subject line, "Print Catalog -- Opt Out." Please make sure to include your name and organization's in the body of your message. 
+
+**SEND TO A FRIEND & REFER A NONPROFIT**
+
+When a visitor uses the "Send to a Friend" function on TechSoup.org, we retain the friend's name and email address. TechSoup.org will send the friend an email message inviting him or her to visit the Web Sites. CompuMentor stores this information temporarily for the sole purpose of sending this one-time message. 
+
+When a visitor refers a nonprofit through TechSoup Stock's online notification service, that nonprofit will receive one email invitation to visit TechSoup Stock. We may retain the contact information the visitor provided for our own internal analysis. 
+
+**UPDATING YOUR INFORMATION**
+
+If a Registered My TechSoup Visitor's Personal Information changes, or if a visitor no longer wishes to be a My TechSoup Account Holder, CompuMentor will endeavor to correct, update, or remove the personal data that was provided to us. Visitors can use the "Edit My Profile" link from their My TechSoup homepage or they can send a request to change, correct, or remove information to [privacy@compumentor.org](mailto:privacy@compumentor.org). 
+
+If a Registered My TechSoup Visitor wishes to update information in his or her organization record on TechSoup Stock, he or she may do so by following the instructions at [Edit Organization Profile](http://www.techsoup.org/stock/ts_intermediate_login.asp?returnToURL=%2Fstock%2Fsecure%2Fresults%5Fmodify%5Fprofile%2Easp) on TechSoup.org/Stock. He or she will first be required to log in to My TechSoup, and will then be taken to the organization profile page to make all desired changes. If a visitor experiences difficulty altering his/her organization profile, she or he should contact TechSoup Stock Customer Service via email at [privacy@compumentor.org](mailto:privacy@compumentor.org). 
+
+TechCommons clients and volunteers who wish to correct their personal or organization records may contact us by email at [techcommons@compumentor.org](mailto:techcommons@compumentor.org). 
+
+**SURVEYS & CASE STUDIES**
+
+We may request information from visitors via surveys on our Web Sites. We may also email surveys to Registered My TechSoup Visitor and our TechCommons clients. Participation in these surveys or contests is completely voluntary. This information may include demographic data (such as zip code and age), and/or information about a respondent's role in the new organization. This information is intended for analytical use and will not be used to identify individuals. 
+
+We may ask for the voluntary contribution of Personal Information to enable us to contact individuals for follow-up interviews. Provision of such information is completely voluntary. We may also request permission of selected survey respondents to publish information about them on our Web Sites. Provision of such information is also completely voluntary and survey respondents are not obligated to grant permission to us to publish information about them. 
+
+Survey results may be publicized in the aggregate and may be used for assessing and improving the experience and satisfaction of our visitors. 
+
+Occasionally, TechSoup Stock or one of our donating partners may ask TechSoup customers who have received product donations to participate in a case study, provide a testimonial, or complete a survey. If the partner that has provided the donation requires the customer's willingness to participate in any such study as a prerequisite for receiving a donation, this will be explicitly stated in the guidelines for that donation program. 
+
+**DISCLOSING INFORMATION TO THIRD PARTIES**
+
+We share aggregated information about our Registered My TechSoup Visitors, registered TechSoup Stock customers, and TechCommons clients (and potential clients) with our partners, sponsors, and donors. 
+
+We may share information about individual organizations and individuals affiliated with TechCommons where it is necessary to secure funding to ensure the continued availability of our services or to develop outreach programs with our partners. 
+
+CompuMentor shares the individual records of TechSoup Stock Customers who order products from TechSoup Stock with the company that donated the ordered product. These individual records include the organization and contact information provided by the TechSoup Stock Customer. After requesting a product, our customers are considered clients of the companies that have provided the donations, and are subject to the privacy policies of those companies. We encourage our visitors to review the privacy statements on our partners' Web sites, as policies may vary. 
+
+CompuMentor may also share your organization's information with selected vendors, business partners, and other organizations that provide certain services on TechSoup's behalf -- particularly in connection with services provided via TechSoup Stock and the Microsoft Authorized Refurbisher (MAR) Donation Program. 
+
+Examples of services that may require the dissemination of Personal Information to outside parties include but are not limited to: fulfilling orders and delivering packages of donated and discounted technology products; sending email and postal mail; processing credit card payments; mailing and delivering prizes; and answering customer questions about products and services. We will only share with outside parties the Personal Information they need to deliver the specific service that they are contracted to provide. 
+
+Except as otherwise stated in this document at this time, or as revised in the future, we will not license, transmit, sell, rent or otherwise distribute email addresses or any other information to third parties, except as provided otherwise in this privacy statement. We share this kind of information with partners of TechSoup Stock who require that information in order to provide customer service, to complete orders that have been submitted, or to track donation activity. 
+
+Although we currently do not have a parent company, any subsidiaries, joint ventures, or other companies under a common control (collectively, "affiliates"), we may in the future. If so, we may share some or all of Personal Information we collect with these affiliates, in which case we will require our affiliates to honor this Privacy Policy. If our company or our assets are acquired by another company, that company will then own the Personal Information collected by us and it will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy. 
+
+We may disclose Personal Information we collect if we believe in good faith that such disclosure is necessary to comply with relevant laws or to protect and defend the rights or property of CompuMentor or visitors of the Web Sites. 
+
+**LINKS TO AND FROM OUTSIDE WEB SITES**
+
+CompuMentor.org, TechSoup.org, and TechSoup.org/Stock all contain links to outside Web sites. CompuMentor is not accountable for the privacy practices of other sites. We encourage our visitors to be aware when they leave our sites, and to read the privacy policies of each and every web site that collects Personally Information. 
+
+TechSoup sometimes contracts with advertising companies in order to promote our services on other Web sites and in email newsletters. If a visitor clicks on one of our banner ads or text ads that are placed on another Web site, he or she is directed to a TechSoup Web page. We track this click-through data to help us gauge the level of interest in particular services or site content and to measure the effectiveness of our visitor communications. The Web sites that deliver these advertisements may deposit cookies on your computer that allow us to track your response to our advertisements. These cookies do not identify visitors personally, but we may associate these cookies internally with Personal Information. 
+
+This privacy statement applies solely to information collected through the Web Sites. 
+
+**REGARDING MINORS**
+
+The Web Sites are not designed for minors under the age of 13. We do not intentionally gather Personal Information about visitors who are under the age of 13. 
+
+**.NET PASSPORT ACCOUNTS**
+
+Each organization participating in one of TechSoup Stock's Microsoft Software Donation Programs needs to establish a .NET Passport account (if they do not already have one) in order to receive their Microsoft Open Licenses. 
+
+When registering for a .NET Passport, the amount and type of information requested is determined by the registering site. If a visitor registers through Microsoft's [eOpen Web site](https://eopen.microsoft.com/), the information required to create a new account is an email address and password, country, state/province/territory and zip/postal code. 
+
+For information on how .NET Passport uses and protects your Personal Information, please read the [.NET Passport Privacy Policy](https://accountservices.passport.net/PPPrivacyStatement.srf?x=3.200.4105.0&cbalt=www&vv=330&lc=1033). 
+
+**QUESTIONS AND COMMENTS**
+
+At CompuMentor, we understand the importance of exercising caution when sharing Personal Information about yourself or information your organization via the Internet. Please be assured that we are committed to maintaining your privacy and protecting the information that you submit on our Web site. 
+
+If you have any questions regarding this privacy policy or CompuMentor's site practices, please do not hesitate to contact us: 
+
+CompuMentor   
+435 Brannan Street, Suite 100   
+San Francisco, CA 94107   
+[privacy@compumentor.org](mailto:privacy@compumentor.org)
+
+**PRIVACY STATEMENT UPDATES**
+
+This Privacy Policy is subject to occasional revision, and any substantial changes in the way Personal Information is used will be posted on the Web Sites. Any visitor who objects to any such changes must cease using the Web Sites. Continued use of the Web Sites following notice of any such changes shall indicate acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes. 
+
+This statement was last updated in March, 2006. 
