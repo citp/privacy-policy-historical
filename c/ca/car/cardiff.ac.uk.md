@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardiff.ac.uk privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222120000id_/http%3A//www.cardiff.ac.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardiff.ac.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615050911id_/http%3A//www.cardiff.ac.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Cardiff University
 
