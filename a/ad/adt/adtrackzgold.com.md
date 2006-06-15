@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adtrackzgold.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220013734id_/http%3A//www.adtrackzgold.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adtrackzgold.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615230221id_/http%3A//adtrackzgold.com/privacy.html) for the most accurate reproduction.*
 
 # AdTrackz Gold - AD Tracking Software - Easily track which of your traffic sources are effective.
 
