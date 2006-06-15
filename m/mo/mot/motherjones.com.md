@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motherjones.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228125603id_/http%3A//www.motherjones.com/about/admin/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motherjones.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615201303id_/http%3A//www.motherjones.com/about/admin/privacy.html) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
@@ -8,31 +8,18 @@
 
 * * *
 
-[](http://motherjones.meetup.com/a/?PID=mu_motherjones)
-
-* * *
-
 * * *
 
 | 
 
   
-| 
 
-[](http://www.motherjones.com/news/feature/2005/12/unembedded.html) [Unembedded](http://www.motherjones.com/news/feature/2005/12/unembedded.html)  
-An unflinching look at the human faces of war-ravaged Iraq   
-  
----  
-  
-\----Advertisements----  
-  
-\----Advertisements----  
-  
+
 The following policy is applicable to: 
 
 Foundation For National Progress  
-731 Market St. Suite 600  
-San Francisco, CA 94103 
+222 Sutter Street Suite 600  
+San Francisco, CA 94108 
 
 Questions about our policy? E-mail us at [privacy@motherjones.com](mailto:privacy@motherjones.com)
 
@@ -67,7 +54,7 @@ Additional questions about how these philanthropic partnerships work can be addr
 
 **MoJournal:** When you sign up for our weekly newsletter about new we do not share your e-mail address, or any information about yourself which you may volunteer, with any third parties. 
 
-**E-mail:** If you provide us with your e-mail address while filling out a form on our Web site, we may use it to inform you of new features on our site and periodically to send mailings to you about new Mother Jones and partner products and services. If you wish to be removed from such lists, e-mail us at [privacy@motherjones.com](mailto:privacy@motherjones.com) or write to the above postal address with your request, along with your name and e-mail address.  
+**E-mail:** If you provide us with your e-mail address while filling out a form on our Web site, we may use it to inform you of new features on our site and periodically to send mailings to you about new Mother Jones and partner products, services and other information. If you wish to be removed from such lists, e-mail us at [privacy@motherjones.com](mailto:privacy@motherjones.com) or write to the above postal address with your request, along with your name and e-mail address.  
 Please note that this does not apply to e-mail addresses collected in our discussion forums. 
 
 **Discussion Forums:** In order to register for participation in our forums, you must provide us with an e-mail address. These addresses are not shared with anyone nor are they used for any promotional purposes. Please keep in mind, however, that the e-mail address you use to register, and any personal information you post to the forum, is available to any person with a Web browser and Internet access. If you would like to register but remain anonymous, feel free to use an anonymous e-mail address, such as one from Yahoo! or Hotmail. 
@@ -84,3 +71,25 @@ If you believe our site is not adhering to the privacy policy outlined above, pl
 
   
 
+
+\----Advertisement----
+
+[ Freedom and Responsibility ](http://www.n4bz.org/freedom.htm?lid=ad_20060614_freedom)   
+Do you understand the awesome trust that evolution placed on the shoulders of man the moment it made man free? LOOK 
+
+[ Peter White Cycle ](http://www.peterwhitecycles.com/?lid=ad_20060614_peterwhite)   
+Bicycles aren't toys. With our bright, safe, no-battery bicycle lights, fenders, racks, bags and clothing, you may not need a car. 
+
+[ Progressive Poll: Win an iPod! ](http://alternet.org/voteprogressive?lid=ad_20060614_alternet)   
+AlterNet needs your vote for Best Progressive Website & Best Progressive Pundit! Enter to win $500 cash or an iPod! 
+
+[ Vanguard Fiction! ](http://www.starchiefpress.com/?lid=ad_20060614_starchief)   
+CASTLING "The Story of the Power of Hemp" TIMING "9-11 Truth and Chief Joseph's Return" 
+
+[ Alonovo.com ](http://www.motherjones.com/cgi-bin/alonovo.pl?lid=ad_20060615_alonovo)   
+Tired of Neocon Businesses Ruining Society? Lets stop supporting them with our purchases - visit alonovo.com. 
+
+[ DIAMONDS WITH A CONSCIENCE ](http://securityjewelers.com/canadia.html?lid=ad_20060614_diamonds)   
+100% NATURAL DIAMONDS MINED CUT AND POLISHED IN CANADAS NORTHWEST TERITORY. 1 800 251 2222 
+
+\----Advertisement----
