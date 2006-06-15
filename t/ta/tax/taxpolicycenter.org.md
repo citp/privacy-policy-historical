@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taxpolicycenter.org privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218005259id_/http%3A//taxpolicycenter.org/aboutus/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxpolicycenter.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615035342id_/http%3A//taxpolicycenter.org/aboutus/privacy.cfm) for the most accurate reproduction.*
 
 # Tax Policy Center | About Us
 
@@ -48,4 +48,4 @@ Brookings Institution
 Washington, DC 20036   
 (202) 797-6000
 
-[Comments / Feedback](https://web.archive.org/web/20051218005259id_/http%3A//taxpolicycenter.org/aboutus/contact.cfm)
+[Comments / Feedback](https://web.archive.org/web/20060615035342id_/http%3A//taxpolicycenter.org/aboutus/contact.cfm)
