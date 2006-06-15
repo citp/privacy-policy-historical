@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sparepartswarehouse.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220103006id_/http%3A//www.sparepartswarehouse.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparepartswarehouse.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615101004id_/http%3A//www.sparepartswarehouse.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # SparePartsWarehouse.com's Privacy Policy Statement
 
