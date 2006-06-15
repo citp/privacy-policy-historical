@@ -1,8 +1,23 @@
-> *The following text is extracted and transformed from the viamichelin.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228133432id_/http%3A//www.viamichelin.com/viamichelin/gbr/tpl/psg/divers/htm/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viamichelin.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615021605id_/http%3A//www.viamichelin.com/viamichelin/gbr/tpl/psg/divers/htm/privacypolicy.htm) for the most accurate reproduction.*
 
 # ViaMichelin - Privacy Policy
 
-When exchanging e-mails  
+ViaMichelin is committed to protecting the privacy of the visitors to its website. Therefore, we have drawn up a privacy policy which is applied meticulously. 
+
+Any personal information supplied is always the result of a deliberate decision taken by you. We do not use any hidden means of obtaining personal information without your consent. 
+
+We will only ask for personal information from you in the following cases:
+
+ When registering for a free My ViaMichelin account
+
+ Registering for a free My ViaMichelin account allows you to benefit from the following personalised ViaMichelin services:   
+· save your searches and favourite maps, route plans, hotels, restaurants  
+· insert links to previously saved maps onto your own website or into your e-mails  
+· access the online Michelin Guides section to search for detailed descriptions of hotels, restaurants and tourist sights   
+· receive the twice-monthly ViaMichelin newsletter
+
+ When exchanging e-mails
+
 The information supplied by you when you send us an e-mail is only used to ensure the best response to your question or to act in line with your instructions (for example, sending a printed catalogue of Michelin publications to your postal address). 
 
 You will not be sent any unsolicited e-mail advertising without your prior consent. In this respect, if you wish to receive promotional offers and information on ViaMichelin products and services by e-mail, you can tick the box intended for this purpose on the My ViaMichelin registration form.
@@ -13,22 +28,26 @@ In accordance with current French legislation (Art. 40 of the Data Protection an
 
 To exercise this right, please write to:
 
-|   
-**  ViaMichelin  
+| 
+
+  
+**  ViaMichelin  
  Customer Service  
  110 Avenue Victor Hugo  
  92514 Boulogne-Billancourt Cedex  
  France**  
+  
 ---|---  
   
 Our website has been designed to meet your needs. It uses cookies. Cookies are small chunks of data sent to your browser by a web server which then installs it on your computer hard drive. Generally speaking, it records data about your computer's navigation within our website (pages viewed, date and time of your visit, etc.), which are read during your next visits. For example, this means that you will not have to fill out a My ViaMichelin registration form again during subsequent visits in order to benefit from our personalised services.
 
 If your internet browser is configured to not accept cookies, we cannot guarantee that the services available to you on our website will work correctly. 
 
-Our website uses the AdLINK ad server to display the advertisements seen on our website pages. This partner uses cookies to help target the advertisements shown. To find out more about the use of cookies and the information-gathering practices and opt-out procedures of AdLINK, please [click here](http://www.doubleclick.net/privacy_policy). 
+Our website uses the AdLINK ad server to display the advertisements seen on our website pages. This partner uses cookies to help target the advertisements shown. To find out more about the use of cookies and the information-gathering practices and opt-out procedures of AdLINK, please [click here](http://www.doubleclick.net/privacy_policy). 
 
 As this privacy policy is designed to become more comprehensive over time, we will ensure that it develops in line with your requirements and expectations.
 
-We are therefore open to all questions and suggestions related to our privacy policy. Please feel free to send us your comments in the [Contact us](https://web.archive.org/web/20051228133432id_/http%3A//www.viamichelin.com/viamichelin/gbr/dyn/controller/contact) section. 
+We are therefore open to all questions and suggestions related to our privacy policy. Please feel free to send us your comments in the [Contact us](http://www.viamichelin.co.uk/viamichelin/gbr/dyn/controller/contact) section. 
 
-If you have any other questions, please check with our online Help-FAQ section as we may have already answered them.
+  
+If you have any other questions, please check with our online Help-FAQ section as we may have already answered them
