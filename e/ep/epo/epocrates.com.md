@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epocrates.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230025338id_/http%3A//www2.epocrates.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epocrates.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615064548id_/http%3A//www2.epocrates.com/company/privacy.html) for the most accurate reproduction.*
 
 # Epocrates Privacy Policy
 
@@ -56,7 +56,7 @@ top
 
 ### 3\. Does Epocrates track your use of its products?
 
-**Epocrates collects usage information about our products on an aggregate basis, such as which clinical messages have been read or what screens are viewed. We use this data to improve our subscriber experience and to prioritize new product development.**
+**Epocrates collects usage information about our products, such as which clinical messages have been read or what screens are viewed. We use this data to improve our subscriber experience and to prioritize new product development.**
 
 For example, if such tracking data were to show that a significant number of our subscribers are accessing dosing information, we may decide to add additional or more extensive dosing calculators in future product updates.
 
@@ -102,13 +102,13 @@ Epocrates also aims to provide you with relevant information on a variety of top
 
 How to update your profile:
 
-Please visit the the home page of our website at [www.epocrates.com](https://web.archive.org/web/20051230025338id_/http%3A//www2.epocrates.com/), click on "My Account", and then sign in using your Epocrates username and password. To opt in or out of email communications, go to the bottom of the form and make the selection of your choices. If you select a box, you will **NOT** receive emails of the type listed. You may also request profile changes by sending an email to [support@epocrates.com](mailto:support@epocrates.com).
+Please visit the home page of our website at [www.epocrates.com](https://web.archive.org/web/20060615064548id_/http%3A//www2.epocrates.com/), click on "My Account", and then sign in using your Epocrates username and password. To opt in or out of email communications, go to the bottom of the form and make the selection of your choices. If you select a box, you will **NOT** receive emails of the type listed. You may also request profile changes by sending an email to [support@epocrates.com](mailto:support@epocrates.com).
 
 top
 
 ### 7\. How does Epocrates use "cookies" and log files?
 
-"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. **We use both cookies session and persistent cookies on our website to help us provide you with more personalized service.** Most web browsers automatically accept cookies, but you can usually change your browser to prevent that if you would rather not store the information for future use. Disabling cookies in your browser may prevent access to some parts of our website.
+"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. **We use both session cookies and persistent cookies on our website to help us provide you with more personalized service.** Most web browsers automatically accept cookies, but you can usually change your browser to prevent that if you would rather not store the information for future use. Disabling cookies in your browser may prevent access to some parts of our website.
 
 **As is true of most websites, we gather and use certain information automatically and store it in log files.** This information includes Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp. We use this information to analyze trends, to administer the website, to track users’ movements around the website and to gather demographic information about our user base as a whole. **We do not link the information we store in cookies to any personally identifiable information you submit while on our website.**
 
@@ -147,4 +147,4 @@ Epocrates, Inc.
 Suite 300   
 San Mateo, CA. 94404
 
-Privacy policy last updated August 26, 2005
+Privacy policy last updated May 15, 2006
