@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dvdtalk.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210114221id_/http%3A//www.dvdtalk.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvdtalk.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615201232id_/http%3A//www.dvdtalk.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for DVD Talk/ Kleinman.com Inc.
 
@@ -120,8 +120,7 @@ If you have any questions about this privacy statement, the practices of this si
 
 Columns
 
-[](http://www.dvdtalk.com/dvdsavant/spec.html) [](http://www.dvdtalk.com/cineschlock/index.html) [](http://www.dvdtalk.com/silentdvd/index.html) [](http://www.dvdtalk.com/eggs/) [](http://www.dvdtalk.com/adult/index.html) [](http://www.dvdtalkradio.com/)
+[](http://www.dvdtalk.com/dvdsavant/index.html) [](http://www.videogametalk.com/) [](http://www.dvdtalk.com/silentdvd/index.html) [](http://www.dvdtalk.com/anime/) [](http://www.dvdtalk.com/adult/index.html) [](http://www.dvdtalkradio.com/)
 
   
-|    
-
+| 
