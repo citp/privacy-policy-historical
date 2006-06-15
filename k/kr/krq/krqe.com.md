@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the krqe.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231224509id_/http%3A//www.krqe.com/expandedfeature.asp%3FRECORD_KEY%5BFeature%5D%3DID%26ID%255BFeature%255D%3D347) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krqe.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615204002id_/http%3A//www.krqe.com/expandedfeature.asp%3FRECORD_KEY%5BFeature%5D%3DID%26ID%255BFeature%255D%3D347) for the most accurate reproduction.*
 
 # KRQE News 13 - KRQE's Privacy Policy
 
