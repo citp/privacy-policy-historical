@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hawesandcurtis.com privacy policy that was archived on 2005-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051124032245id_/http%3A//www.hawesandcurtis.com/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hawesandcurtis.com privacy policy that was archived on 2006-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615195814id_/http%3A//www.hawesandcurtis.com/shirts_and_site_privacy_policy.asp) for the most accurate reproduction.-->
 
 <html><head><script language="JavaScript" type="text/javascript">
 
@@ -31,15 +31,15 @@ function popzoom(pid)
  privacy.focus();
 }
 
-function popterms()
-{
- terms = window.open('pop_terms.asp','termsframe','top=20,left=50,scrollbars=yes,statusbar=no,toolbar=no,width=381,height=381');
- terms.focus();
-}
+//function popterms()
+//{
+// terms = window.open('pop_terms.asp','termsframe','top=20,left=50,scrollbars=yes,statusbar=no,toolbar=no,width=381,height=381');
+// terms.focus();
+//}
 
 function emailfriend(pid)
 {
- terms = window.open('email_friend.asp?pid='+pid,'emailfriend','top=20,left=50,scrollbars=yes,statusbar=no,toolbar=no,resizable=yes,width=515,height=340');
+ terms = window.open('email_friend.asp?pid='+pid,'emailfriend','top=20,left=50,scrollbars=no,statusbar=no,toolbar=no,resizable=no,width=515,height=475');
  terms.focus();
 }
 
@@ -51,13 +51,13 @@ function forgotpassword()
 
 function garmentcare()
 {
- terms = window.open('product_garment_care.asp','garmentcare','top=20,left=50,scrollbars=yes,statusbar=no,toolbar=no,resizable=yes,width=515,height=250');
+ terms = window.open('product_garment_care.asp','garmentcare','top=20,left=50,scrollbars=no,statusbar=no,toolbar=no,resizable=yes,width=515,height=585');
  terms.focus();
 }
 
 function guarantee()
 {
- terms = window.open('product_guarantee.asp','guarantee','top=20,left=50,scrollbars=yes,statusbar=no,toolbar=no,resizable=yes,width=515,height=250');
+ terms = window.open('product_guarantee.asp','guarantee','top=20,left=50,scrollbars=yes,statusbar=no,toolbar=no,resizable=yes,width=515,height=335');
  terms.focus();
 }
 
@@ -73,11 +73,74 @@ function sizing(pid)
  terms.focus();
 }
 
-function compterms()
+//function compterms()
+//{
+// terms = window.open('competition_rules.asp','comprules','top=20,left=50,scrollbars=yes,statusbar=no,toolbar=no,width=381,height=381');
+// terms.focus();
+//}
+
+
+function CopyToBilling()
 {
- terms = window.open('competition_rules.asp','comprules','top=20,left=50,scrollbars=yes,statusbar=no,toolbar=no,width=381,height=381');
- terms.focus();
+	MkSame = 0
+	//var max = document.shipbillform.samebill.length;
+	//for (var idx = 0; idx < max; idx++) {
+		//if (document.shipbillform.samebill[idx].checked == true) 
+		//{
+			//if (document.shipbillform.samebill[idx].value == "YES") 
+			//{
+			//	MkSame = 1
+			//}
+			
+	//	}
+	//}
+	
+	
+	//if (MkSame == 1) {
+
+		document.shipbillform.billcountry.value = document.shipbillform.shipcountry.value
+		document.shipbillform.billtitle.value = document.shipbillform.shiptitle.value
+		document.shipbillform.billfirstname.value = document.shipbillform.shipfirstname.value
+		document.shipbillform.billfirstname.value = document.shipbillform.shipfirstname.value
+		
+		document.shipbillform.billlastname.value = document.shipbillform.shiplastname.value
+		document.shipbillform.billtelephone.value = document.shipbillform.shiptelephone.value
+		document.shipbillform.billpostcode.value = document.shipbillform.shippostcode.value
+		document.shipbillform.billaddress1.value = document.shipbillform.shipaddress1.value
+		document.shipbillform.billaddress2.value = document.shipbillform.shipaddress2.value
+		document.shipbillform.billtown.value = document.shipbillform.shiptown.value
+		document.shipbillform.billregion.value = document.shipbillform.shipregion.value
+
+		
+	//}
+
 }
+
+
+
+function ClearBilling() {
+
+		document.shipbillform.billcountry.selectedIndex = 0
+		document.shipbillform.billtitle.selectedIndex = 0
+		document.shipbillform.billfirstname.value = ''
+		document.shipbillform.billfirstname.value = ''
+		
+		document.shipbillform.billlastname.value = ''
+		document.shipbillform.billtelephone.value = ''
+		document.shipbillform.billpostcode.value = ''
+		document.shipbillform.billaddress1.value = ''
+		document.shipbillform.billaddress2.value = ''
+		document.shipbillform.billtown.value = ''
+		document.shipbillform.billregion.value = ''
+
+}
+
+
+
+
+
+
+
 
 
 </script>
@@ -86,9 +149,9 @@ function compterms()
 
 <title>Hawes &amp; Curtis | Privacy policy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="title" content="Hawes and Curtis">
-<meta name="keywords" content="shirts, jermyn, ties, cufflinks, menswear, ladieswear, tailoring, london">
-<meta name="description" content="Hawes and Curtis | Fine shirtmakers since 1913">
+<meta name="title" content="Hawes and Curtis - Perfecting The Art of Making Shirts for Gentlemen, Ladies, Men and Women Since 1913">
+<meta name="Keywords" content="Men's &amp; Gentlemen's Formal Classic and Fitted fashion 100% Cotton 2 two ply 100's Cotton stretch ladies shirts Jermyn Street Kings Road Victoria Regent Street Oxford Street Men's and women's wear Formal dress light blue navy striped hipster checked shirts Silk ties and accessories High quality products affordable price Silk neckties Silver cufflinks Bow ties Sterling silver cufflinks White shirts Top quality Fitted cotton shirts for woman women ladies Finest royal luxury shirts for men and women London England Shirt Office wear Man shirt British web store online tailored shirt Made in United Kingdom English shirts British shirt Made in Britain Made in England German Street Made in UK British checked  Business shirts Quality shirts Double 2 button collar cuff Well-dressed Gentlemen's outfitter Finest quality Special occasion Best of British Mens mans man's apparel Silk knots Neckties Classic stripes Cutaway collar Accessories for men Stylish shirts Web store, Boutique shirtmakers Luxurious fabrics Luxury fabrics Shop online Buy online shirts menswear Single double French cuff">
+<meta name="Description" content="Buy shirts, ties, cuff links and suits direct from Jermyn Street, London. Hawes and Curtis specialise in men's and women's wear for business and fashion occasions, silk ties and accessories. Buy the finest quality shirts and clothes at the best prices online at HawesAndCurtis.com.">
 <meta name="author" content="GURUS:">
 <meta name="copyright" content="Copyright Hawes and Curtis 2004">
 <meta name="reply-to" content="info@gurus.co.uk">
@@ -96,7 +159,35 @@ function compterms()
 <meta name="document-type" content="Public">
 <meta name="document-rating" content="Safe for Kids">
 <meta name="document-distribution" content="Global">
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-112455-1";
+urchinTracker();
+</script>
 
+<!-- Google Code for Default Conversion Page -->
+<script language="JavaScript" type="text/javascript">
+
+<!--
+var google_conversion_type = 'landing';
+var google_conversion_id = 1068316294;
+var google_conversion_language = "en_GB";
+var google_conversion_format = "1";
+var google_conversion_color = "666666";
+
+//-->
+
+</script>
+
+<script language="JavaScript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+
+<noscript>
+
+<img height=1 width=1 border=0 src="http://www.googleadservices.com/pagead/conversion/1068316294/extclk?script=0">
+
+</noscript> 
 
 <link href="style.css" rel="stylesheet" type="text/css">
 </head>
@@ -163,7 +254,7 @@ else
   document.write("<di"+"v id=\"DMStats\" STYLE=\"position:absolute;visibility:hidden;\"><img src=\""+dmnetURL+"\" height=1 width=1></di"+"v>");
 }
 
-</script><div id="DMStats" style="position:absolute;visibility:hidden;"><img src="https://collector.gurus.co.uk/dm.gif?v=86&amp;vst=1&amp;id=&amp;url= https%3A//web.archive.org/web/20051124032245id_/http%253A//www.hawesandcurtis.com/privacy_policy.asp&amp;ref=&amp;lng=en-US&amp;tz=0&amp;scr=800x600%2024bpp&amp;rnd=1582140797268" height="1" width="1"></div>
+</script><div id="DMStats" style="position:absolute;visibility:hidden;"><img src="https://collector.gurus.co.uk/dm.gif?v=86&amp;vst=1&amp;id=&amp;url= https%3A//web.archive.org/web/20060615195814id_/http%253A//www.hawesandcurtis.com/shirts_and_site_privacy_policy.asp&amp;ref=&amp;lng=en-US&amp;tz=0&amp;scr=800x600%2024bpp&amp;rnd=1582140797495" height="1" width="1"></div>
 <!-- End of DeepMetrix (.NET) StatScript -->
 <table width="741" border="0" align="center" cellpadding="0" cellspacing="0">
   <tbody><tr bgcolor="#ffffff"> 
@@ -182,7 +273,7 @@ else
   <tbody><tr> 
     <td width="110" class="mainsidepadding"><a href="account.asp" class="navtext">| My Account</a></td>
     <td width="139">  
-      <table width="134" border="0" cellpadding="0" cellspacing="0"><form name="searchform" method="post" action="search_results.asp"></form>
+      <table width="134" border="0" cellpadding="0" cellspacing="0"><form name="searchform" method="get" action="search_shirts_results.asp"></form>
         <tbody><tr> 
          <td width="97"><input name="search" type="text" class="formsearchbox" value="Search Products" size="15" onfocus="javascript:this.value=''"></td>
           <td width="36" class="sidepadding"><input type="image" src="assets/_global/form_button_wht.gif" alt="Button | Search" width="19" height="18" border="0"></td>
@@ -302,14 +393,41 @@ As a result we may disclose your information to:</p>
       </tbody></table></td>
   </tr>
   <tr> 
-    <td><table width="100%" border="0" summary="A table of footer links">
+    <td><style type="text/css">
+<!--
+a:link {
+	color: #CCCCCC;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+a:active {
+	text-decoration: none;
+}
+.style1 {color: #FFFFFF}
+body,td,th {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.style2 {color: #CCCCCC}
+-->
+</style><table width="100%" border="0" summary="A table of footer links">
   <tbody><tr>
-    <td align="center" class="footerstyle footercolor"><a href="about_us.asp" class="footerblue">About us</a> | <a href="hc_shops.asp" class="footerblue">H&amp;C shops</a> | <a href="newsletter.asp" class="footerblue">Newsletter</a> | <a href="catalogue.asp" class="footerblue">Request a catalogue</a> | <a href="contact.asp" class="footerblue">Contact</a> | <a href="careers.asp" class="footerblue">Careers</a> | <a href="corporate_card.asp" class="footerblue">Corporate card</a> | <a href="refund_policy.asp" class="footerblue">Refund policy</a> </td>
+    <td align="center" class="footerstyle footercolor style1"><span class="style2">| <a href="http://www.hawesandcurtis.com/search_shirts_results.asp?search=ms" class="footerblue">Men's Shirts</a> | <a href="http://www.hawesandcurtis.com/search_shirts_results.asp?search=formal&amp;x=0&amp;y=0" class="footerblue">Men's Formal Shirts</a> | <a href="http://www.hawesandcurtis.com/search_shirts_results.asp?search=formal&amp;x=0&amp;y=0" class="footerblue">Men's Business Shirts</a> | <a href="http://www.hawesandcurtis.com/search_shirts_results.asp?search=ms" class="footerblue">Mens's Cotton Shirts</a> | <a href="http://www.hawesandcurtis.com/search_shirts_results.asp?search=ms" class="footerblue">Mens' Double Cuff Shirts</a> | <a href="http://www.hawesandcurtis.com/search_shirts_results.asp?search=ms" class="footerblue">Men's French Cuff Shirts</a> | <a href="http://www.hawesandcurtis.com/search_shirts_results.asp?search=ms" class="footerblue">Men's Single Cuff Shirts</a> | <a href="http://www.hawesandcurtis.com/search_shirts_results.asp?search=curtis&amp;x=0&amp;y=0" class="footerblue">Button Cuff Shirts</a> | <a href="http://www.hawesandcurtis.com/choose.asp?typeid=183" class="footerblue">Men's Cutaway Shirts</a> | <a href="http://www.hawesandcurtis.com/search_shirts_results.asp?search=ms&amp;gad=CILnyY0CEgjbWiogYmWN0hiG7bT9AyDe89IW" class="footerblue">Men's Semi Cutaway Shirts</a> | <a href="http://www.hawesandcurtis.com/search_shirts_results.asp?search=curtis&amp;x=0&amp;y=0" class="footerblue">2 Button Collar Shirts</a> | <a href="http://www.hawesandcurtis.com/search_shirts_results.asp?search=curtis&amp;x=0&amp;y=0" class="footerblue">Big Collar Shirts</a> | <a href="http://www.hawesandcurtis.com/search_shirts_results.asp?search=curtis&amp;x=0&amp;y=0" class="footerblue">Slim Fit Shirts</a> | <a href="http://www.hawesandcurtis.com/search_shirts_results.asp?search=curtis&amp;x=0&amp;y=0" class="footerblue">Fashion Shirts</a> | <a href="http://www.hawesandcurtis.com/search_shirts_results.asp?search=ls" class="footerblue">Women's Shirts</a> | <a href="http://www.hawesandcurtis.com/choose.asp?typeid=184&amp;gad=CMrBn4MCEghd61zIj6drIhiG7bT9AyDS_IcW" class="footerblue">Women's Hipster Shirts</a> | <a href="http://www.hawesandcurtis.com/choose.asp?typeid=184&amp;gad=CMrBn4MCEghd61zIj6drIhiG7bT9AyDS_IcW" class="footerblue">Women's 3/4 Sleeve Shirts</a> | <a href="http://www.hawesandcurtis.com/choose.asp?typeid=185&amp;gad=CO7En4MCEgiNTfpeGMBS3xiG7bT9AyCO_YcW" class="footerblue">Women's Semi Fit Shirts</a> | <a href="http://www.hawesandcurtis.com/search_shirts_results.asp?search=ls" class="footerblue">Women's Cotton Shirts</a> | <a href="http://www.hawesandcurtis.com/choose.asp?typeid=192&amp;gad=CNa9v5gCEgiYp5Cs7TrUIRiG7bT9AyCukOEW" class="footerblue">Ties for Shirts </a> | <a href="http://www.hawesandcurtis.com/choose.asp?typeid=193" class="footerblue">Cufflinks for Shirts </a> | <a href="http://www.hawesandcurtis.com/choose.asp?typeid=195" class="footerblue">Boxer Shorts</a> | <a href="http://www.hawesandcurtis.com/choose.asp?typeid=196" class="footerblue">Silk Knots | </a></span></td>
   </tr>
   <tr>
-    <td align="center" class="footerstyle">© Copyright 2004 Hawes &amp; Curtis| <a href="terms_use.asp" class="footergrey">Terms of use</a> | <a href="privacy_policy.asp" class="footergrey">Privacy Policy</a> | <a href="site_map.asp" class="footergrey">Site map</a> | <a href="security.asp" class="footergrey">Security</a> <div align="right"><a href="http://www.gurus.co.uk" target="_blank"><img src="assets/_global/site_design.gif" alt="Site created by GURUS" width="74" height="27" border="0"></a></div></td>
+    <td align="center" class="footerstyle footercolor style1"><p><a href="about_us_and_shirts.asp" class="footerblue">About us</a> | <a href="hc_shops_to_find_shirts.asp" class="footerblue">H&amp;C shops</a> | 
+        <!--<a href="shirts_newsletter.asp" class="footerblue">Newsletter</a> | <a href="shirts_catalogue.asp" class="footerblue">Request a catalogue</a> |--> 
+        <a href="contact_about_shirts.asp" class="footerblue">Contact</a> | <a href="careers_with_shirts.asp" class="footerblue">Careers</a> | <a href="corporate_card_for_shirts.asp" class="footerblue">Corporate card</a> | <a href="shirts_refund_policy.asp" class="footerblue">Refund policy</a> </p>      </td>
   </tr>
-</tbody></table></td>
+  <tr>
+    <td align="center" class="footerstyle">© Copyright 2004 Hawes &amp; Curtis | <a href="shirts_site_terms_use.asp" class="footergrey">Terms of use</a> | <a href="shirts_and_site_privacy_policy.asp" class="footergrey">Privacy Policy</a> | <a href="shirts_site_map.asp" class="footergrey">Site map</a> | <a href="shirts_and_security.asp" class="footergrey">Security</a> <div align="right"><a href="http://www.gurus.co.uk" target="_blank"><img src="assets/_global/site_design.gif" alt="Site created by GURUS" width="74" height="27" border="0"></a></div></td>
+  </tr>
+</tbody></table>
+</td>
   </tr>
 </tbody></table>
 
