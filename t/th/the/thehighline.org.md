@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehighline.org privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223072904id_/http%3A//www.thehighline.org/other/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehighline.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615103111id_/http%3A//thehighline.org/other/privacypolicy.html) for the most accurate reproduction.*
 
 # FHL - Privacy policy
 
