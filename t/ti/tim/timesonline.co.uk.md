@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timesonline.co.uk privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231221229id_/http%3A//www.nidp.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timesonline.co.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615202416id_/http%3A//www.nidp.com) for the most accurate reproduction.*
 
 # News International Data Protection
 
@@ -6,13 +6,17 @@ Data Protection Notice
 
 This notice explains how we will process your personal information.
 
-When you provide personal information to The Sun or News of the World, the data controller is News Group Newspapers Limited.
+When you provide personal information to The Sun, Sun Online, News of the World or Page3.com, the data controller is News Group Newspapers Limited.
 
-When you provide personal information to The Times or The Sunday Times, the data controller is Times Newspapers Limited.
+When you provide personal information to The Times, Times Online, Funday Times Online or The Sunday Times, the data controller is Times Newspapers Limited.
+
+When you provide personal information to Love It, the data controller is News Magazines Limited
+
+When you provide personal information to the Times Literary Supplement they are the data controller.
 
 If another company is the data controller, this will be made clear when you provide your personal information.
 
-News Group Newspapers Limited and Times Newspapers Limited are part of the News International Limited group of companies whose registered address is 1 Virginia Street London E98 1XY. 
+News Group Newspapers Limited, Times Newspapers Limited, News Magazines Limited and The Times Literary Supplement are part of the News International Limited Group of companies whose registered address is 1 Virginia Street London E98 1XY.
 
 The data controller will use your information together with other information for administration (including providing any goods, services or information you have requested), marketing, credit scoring, customer services and profiling your purchasing preferences. We will disclose your information to our service providers and agents for these purposes. We may keep your information for a reasonable period.
 
@@ -32,7 +36,7 @@ You are not obliged to accept cookies and may modify your browser so that it wil
 
 If you apply for credit then to help us to make credit decisions about you, to prevent fraud, to check your identity and to prevent money laundering, we may search the files of credit reference agencies who will record any credit searches on your file. We may also disclose details of how you conduct your account to such agencies. The information will be used by other credit grantors for making credit decisions about you and the people with whom you are financially associated for fraud prevention, money laundering prevention and occasionally for tracing debtors.
 
-We would like to share your information with organisations who are our business partners. We or they may contact you by mail, telephone, SMS or e-mail to let you know about any goods, services or promotions which may be of interest to you. When you give us your personal information, we will give you the opportunity to opt out of receiving such information by post or telephone from us but remember that this will preclude you from receiving any of our special offers or promotions in future. We will also give you the oppportunity to opt in to receive such information by e-mail or SMS and will only send it to you if you do opt in or if you are an existing customer and the information relates to similar goods or services to those which you have previously purchased from us. You will also have the opportunity to opt [out of receiving]/[in to receive] information from our business partners and other third parties.
+We would like to share your information with organisations who are our business partners. We or they may contact you by mail, telephone, SMS or e-mail to let you know about any goods, services or promotions which may be of interest to you. When you give us your personal information, we will give you the opportunity to opt out of receiving such information by post or telephone from us but remember that this will preclude you from receiving any of our special offers or promotions in future. We will also give you the oppportunity to opt in to receive such information by e-mail or SMS and will only send it to you if you do opt in or if you are an existing customer and the information relates to similar goods or services to those which you have previously purchased from us. 
 
 You may also exercise your right to opt out of the use of your information for marketing purposes at any time by contacting us by the methods explained at the end of this notice. 
 
