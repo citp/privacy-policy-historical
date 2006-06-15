@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dwp.gov.uk privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228093550id_/http%3A//dwp.gov.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dwp.gov.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615202901id_/http%3A//dwp.gov.uk/privacy.asp) for the most accurate reproduction.*
 
 # DWP - Privacy policy
 
 ## Information about you
 
-How we collect and use information 
+### How we collect and use information 
 
 The Department for Work and Pensions collects information for the purposes of dealing with social security, child support, vaccine-damage issues, employment and training, private pensions policy and retirement planning. The information we collect about you depends on the reason for your business with us, but we may use the information for any of these purposes.
 
@@ -25,9 +25,9 @@ The Department for Work and Pensions is the Data Controller for the purposes of 
 
 Our website does not enable our visitors to communicate with other visitors or for them to post information to be accessed by others.
 
-If you want to know more about what information we have about you, or the way we use your information see [Data Protection Act 1998 – It affects you](https://web.archive.org/web/20051228093550id_/http%3A//dwp.gov.uk/publications/dwp/2005/gl33_june05.pdf) (89.3KB). This information will shortly be available in leaflet GL33 Data Protection Act 1998 – It affects you. We will publish the leaflet on this site as soon as it is available. 
+If you want to know more about what information we have about you, or the way we use your information see [Data Protection Act 1998](https://web.archive.org/publications/dwp/2006/cat1/DPAA5JP%20-DataProtectionAct1998.pdf) (87KB). 
 
-[](http://www.adobe.co.uk/products/acrobat/readstep2.html "This links to an external site.")You can download documents marked with a  using [Adobe Reader](http://www.adobe.co.uk/products/acrobat/readstep.html "This links to an external site.") \- available free of charge.  
+[](http://www.adobe.co.uk/products/acrobat/readstep2.html "This links to an external site.")You can download documents marked with a  using [Adobe Reader](http://www.adobe.co.uk/products/acrobat/readstep2.html "This links to an external site.") \- available free of charge.  
 If you have problems accessing PDF documents, Adobe provide an [online tool to convert PDFs to text](http://www.adobe.com/products/acrobat/access_onlinetools.html).
 
 ### Cookies
