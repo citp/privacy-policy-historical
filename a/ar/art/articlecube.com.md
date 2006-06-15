@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the articlecube.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231105631id_/http%3A//www.articlecube.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlecube.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615194606id_/http%3A//www.articlecube.com/privacy.php) for the most accurate reproduction.*
 
-# ArticleCube.com | Submit Articles | Search & Find Free Content Articles
+# ArticleCube.com Article Directory | Submit Articles | Search & Find Free Articles
 
 Your Article Directory Privacy Policy
 
@@ -39,11 +39,3 @@ We can be reached by emailing us.
 Changes to this Policy 
 
 ArticleCube.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
-
-Governing law
-
-This policy and the use of this Site are governed by Texas law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Austin. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us.
-
-If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Austin, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
-
-This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
