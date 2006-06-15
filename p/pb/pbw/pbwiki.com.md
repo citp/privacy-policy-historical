@@ -1,12 +1,23 @@
-> *The following text is extracted and transformed from the pbwiki.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219173142id_/http%3A//www.pbwiki.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pbwiki.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615205037id_/http%3A//pbwiki.com/privacy.php) for the most accurate reproduction.*
 
 # PBWiki :: Privacy
 
-We at Coceve, Inc. have created this privacy policy to describe our information gathering and dissemination practices with respect to information we collect through our website. This privacy policy does not govern our use of any information you provide to us when you call us, write to us, or communicate with us in any manner other than through our website. Because the Internet is global, information about you that we collect or that you submit may be transferred to, processed in, and held in countries (including the United States) other than the one in which you reside. By using our website, you explicitly consent to such use of your information and agree to the terms of this privacy policy. This privacy policy is effective as of July 13, 2005. 
+_A non-binding English summary of the below:_  
+
+
+  * If you mark your wiki private, we'll keep it private.
+  * We don't share personally identifiable information with others.
+  * We hate spammers, too. We'll try not to bug you with email.
+
+
+
+* * *
+
+We at Coceve, Inc. (d/b/a PBwiki) have created this privacy policy to describe our information gathering and dissemination practices with respect to information we collect through our website. This privacy policy does not govern our use of any information you provide to us when you call us, write to us, or communicate with us in any manner other than through our website. Because the Internet is global, information about you that we collect or that you submit may be transferred to, processed in, and held in countries (including the United States) other than the one in which you reside. By using our website, you explicitly consent to such use of your information and agree to the terms of this privacy policy. This privacy policy is effective as of July 13, 2005. 
 
 ### Information You Choose to Submit
 
-You can visit our website without telling us who you are or revealing any personal information (which we will refer to in this privacy policy as "Personal Data") about yourself. To obtain access to certain areas of our website, however, or to receive certain services we provide (e.g., creating a website), you may be required to register with us and, in connection with such registration, to provide certain Personal Data (e.g., your e-mail address). We use such information to provide the service your requested, to monitor internally usage of our website, and to contact you from time to time about us, our website, and our products and services. In addition, if you wish to make a purchase from our website, you are required to register with us and, in connection with such registration, to provide certain Personal Data (e.g., your full name, email address, and billing information). We use such information to fulfill your order and to contact you from time to time about us, our website, and our products and services. 
+You can visit our website without telling us who you are or revealing any personal information (which we will refer to in this privacy policy as "Personal Data") about yourself. To obtain access to certain areas of our website, however, or to receive certain services we provide (e.g., creating a website), you may be required to register with us and, in connection with such registration, to provide certain Personal Data (e.g., your email address). We use such information to provide the service you requested, to monitor internally usage of our website, and to contact you from time to time about us, our website, and our products and services. In addition, if you wish to make a purchase from our website, you are required to register with us and, in connection with such registration, to provide certain Personal Data (e.g., your full name, email address, and billing information). We use such information to fulfill your order and to contact you from time to time about us, our website, and our products and services. 
 
 ### Your Intellectual Property Rights
 
@@ -20,7 +31,7 @@ We automatically collect certain information to help us understand how visitors 
 
 Generally, except as otherwise described in this section of our privacy policy, we will not share your Personal Data or Usage Data with any third party without your permission. 
 
-**Aggregated Data.** From time to time, we may share aggregated Personal Data (excluding any credit card information) and Usage Data with third parties. We will not share any aggregated data, however, in manner that would enable the recipient to personally identify you. In addition, we may combine Usage Data with Personal Data in a manner that enables us to trace Usage Data to an individual user. We do so, however, only for our own internal business purposes and will not share such combined data with third parties without your permission. 
+**Aggregated Data.** From time to time, we may share aggregated Personal Data (excluding any credit card information) and Usage Data with third parties. We will not share any aggregated data, however, in a manner that would enable the recipient to personally identify you. In addition, we may combine Usage Data with Personal Data in a manner that enables us to trace Usage Data to an individual user. We do so, however, only for our own internal business purposes and will not share such combined data with third parties without your permission. 
 
 **Service Providers.** From time to time, we may enter into relationships with third parties who provide services to us (e.g., credit card processing services, shipping services, or data management and storage services). In those circumstances, we disclose information about you that is necessary for such service providers to perform those services, but only if such service providers agree not to disclose your information except as necessary to perform such services. 
 
@@ -48,7 +59,7 @@ Our website may contain links to other websites. We are not responsible for the 
 
 ### Changes
 
-We may update this privacy policy from time to time. If under any such update we make any material change to the way in which we treat your Personal Data or Usage Data, we will inform you of such change via e mail or by posting a notice on relevant areas of our website. Any updated version of this privacy policy will be effective as of the date set forth therein. 
+We may update this privacy policy from time to time. If under any such update we make any material change to the way in which we treat your Personal Data or Usage Data, we will inform you of such change via email or by posting a notice on relevant areas of our website. Any updated version of this privacy policy will be effective as of the date set forth therein. 
 
 ### Questions
 
