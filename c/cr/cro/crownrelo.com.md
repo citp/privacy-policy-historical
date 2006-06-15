@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crownrelo.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230163911id_/http%3A//crownrelo.com/web/relo.nsf/privacy.policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crownrelo.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615205615id_/http%3A//crownrelo.com/web/relo.nsf/privacy.policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ The CROWN WORLDWIDE GROUP (including all of its subsidiaries) has created this p
 
 www.crownrelo.com  
 www.crownrms.com  
-www.crownlog.com  
+www.crown-logistics.com  
 www.crownworldwide.com   
 www.crownwinecellars.com  
 www.crownfineart.com
@@ -55,14 +55,14 @@ MassMutual Tower
 38 Gloucester Road  
 Wanchai  
 Hong Kong  | Crown Relocations  
-Suite 301  
-The Bay Pointe Building  
-618 U.S. Highway One  
-North Palm Beach, FL 33408  
+Suite 201  
+New Images Building  
+5827 Corporate Way  
+West Palm Beach, FL 33407  
 U.S.A.  
 **Phone Number:** | (852) 2876-2623 | (561) 491-0940  
 **Fax Number:** | (852) 2528-0177 | (561) 491-0941  
-**Email address:** | cdavispipe@crownworldwide.com | nakinrinade@crownrelo.com  
+**Email address:** | [cdavispipe@crownworldwide.com](mailto:cdavispipe@crownworldwide.com) | [nakinrinade@crownrelo.com](mailto:nakinrinade@crownrelo.com)  
 **URL:** | www.crownworldwide.com | www.crownrelo.com  
   
 The foregoing polices are effective as of October 1, 2004. CROWN WORLDWIDE GROUP reserves the right to change this policy at any time by notifying users of the existence of a new privacy statement. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
