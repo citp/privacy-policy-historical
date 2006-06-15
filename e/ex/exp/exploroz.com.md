@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the exploroz.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219154538id_/http%3A//www.exploroz.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exploroz.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615223638id_/http%3A//www.exploroz.com/Privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy @ ExplorOz
-
-| 
 
 ## Introduction
 
 ExplorOz ("ExplorOz") is a registered business and product of I.T. Beyond Pty Ltd. ("I.T. Beyond") As the operator of Australia's leading 4WD resource, ExplorOz delivers content drawn from I.T. Beyond's research and related resources. 
 
-This statement sets out the ExplorOz policies relating to the collection and use of your personal information. It applies to your conduct on the ExplorOz web site (the "Site"). These policies are in addition to the ExplorOz general [ Terms of Use](https://web.archive.org/web/20051219154538id_/http%3A//www.exploroz.com/TermsofUse.asp) governing the Site and should be read in conjunction with such Terms of Use.
+This statement sets out the ExplorOz policies relating to the collection and use of your personal information. It applies to your conduct on the ExplorOz web site (the "Site"). These policies are in addition to the ExplorOz general [ Terms of Use](https://web.archive.org/TermsofUse.asp) governing the Site and should be read in conjunction with such Terms of Use.
 
 Please note that separate privacy policies apply to the use of sites that are available through the Site but are not operated by ExplorOz directly ("third party sites"). Before disclosing your personal information to any third party site you should read the relevant policy or terms of use. 
 
@@ -47,7 +45,7 @@ Before you can interact with the site you must be registered as a Visitor. The p
 
 The Membership system provides enhanced viewing facilities and provides interfaces that identify Site changes since your last visit. Also ExplorOz through it's advertising customers ("Advertisers") has a membership reward system. The rewards are provided by the Advertisers and ExplorOz will accept no responsibility for any misrepresentation whatsoever made by the Advertisers on the Site.
 
-You can learn more about enhancing your online experience through Membership by clicking [here](https://web.archive.org/web/20051219154538id_/http%3A//www.exploroz.com/Rewards/Default.asp).  
+You can learn more about enhancing your online experience through Membership by [clicking here](https://web.archive.org/web/20060615223638id_/http%3A//www.exploroz.com/Rewards/Default.asp).  
   
 * * *
 
@@ -59,7 +57,7 @@ There are two main ways we collect information about you:
 
 Whenever you visit our site, our servers automatically record information about your usage of the Site such as the time of the visit, its duration and the pages which you visit. This is intended to help us to understand what parts of our Site our users enjoy the most, and to help us to ensure that any advertising is most directly relevant to your interests. The information we collect about you remains anonymous, and we do not link it to any other personal information. 
 
-If you do not want us to retain any information at all, even in an anonymous form, you can use the Preferences on your browser program to remove all cookies and set the browser not to accept cookies in the future. For more information on disabling cookies, [click here](http://www.microsoft.com/info/cookies.htm)
+If you do not want us to retain any information at all, even in an anonymous form, you can use the Preferences on your browser program to remove all cookies and set the browser not to accept cookies in the future. For more information on disabling cookies, [ click here](http://www.microsoft.com/info/cookies.htm)
 
 ####  ii. If you log in as a ExplorOz visitor or member
 
@@ -81,7 +79,7 @@ ExplorOz understands that even with our privacy policy, some people still will n
 
 ### 5\. Our use of cookies and applets  
   
-Cookies are pieces of information that a website transfers to your computer's hard disk for record-keeping purposes. Most Web browsers are set to accept cookies. However, if you do not wish to receive any cookies you may set your browser to refuse cookies (for more information on disabling cookies, [click here](http://www.microsoft.com/info/cookies.htm). In some instances this may mean you will not be able to take full advantage of parts of the Site. For instance, you may not be able to login as a Visitor or Member. 
+Cookies are pieces of information that a website transfers to your computer's hard disk for record-keeping purposes. Most Web browsers are set to accept cookies. However, if you do not wish to receive any cookies you may set your browser to refuse cookies (for more information on disabling cookies, [ click here](http://www.microsoft.com/info/cookies.htm). In some instances this may mean you will not be able to take full advantage of parts of the Site. For instance, you may not be able to login as a Visitor or Member. 
 
 The use of cookies can enhance your enjoyment of what is offered by ExplorOz, because they can help personalise your experience of our website. They can make it easier for you to shop online and can ensure that information provided to you is most relevant to your interests. Cookies can provide us with aggregated information on how people use our websites, and which advertisements are effective, which helps us to keep improving our Site. We also use cookies to operate the Visitor & Membership systems, as they help us to identify visitors to the site who have previously registered. 
 
@@ -99,7 +97,7 @@ ExplorOz will not use or disclose any information about you without your consent
   * We believe it necessary to provide you with a service which you have requested. 
   * To implement our terms of use. 
   * To protect the rights or property of ExplorOz, any ExplorOz user, or any member of the public. 
-  * To lessen a serious threat to a person's health or safety. 
+  * To lessen a serious threat to a person's health or safety.
 
 We will not give any of your personal information to Advertisers or any other organisation without your express consent.   
   
@@ -107,7 +105,7 @@ We will not give any of your personal information to Advertisers or any other or
 
 ### 7\. "Spam" (promotional email)  
   
-We will not send you "spam" (advertising information) without first asking you whether you wish to have promotional information sent to you. If you are receiving promotional information about ExplorOz or its affiliates and do not wish to receive this information any longer, you may remove your name from our list either by visiting the website from which the communication was sent and following the instructions on how to withdraw your information from that site (where that facility is available), or emailing us at [Privacy@ExplorOz.com](mailto:privacy@ExplorOz.com) and asking to be removed from our mailing list. Please allow two days for this request to be processed.   
+We will not send you "spam" (advertising information) without first asking you whether you wish to have promotional information sent to you. If you are receiving promotional information about ExplorOz or its affiliates and do not wish to receive this information any longer, you may remove your name from our list either by visiting the website from which the communication was sent and following the instructions on how to withdraw your information from that site (where that facility is available), or emailing us at [ Privacy@ExplorOz.com](mailto:privacy@ExplorOz.com) and asking to be removed from our mailing list. Please allow two days for this request to be processed.   
   
   
 * * *
@@ -136,7 +134,7 @@ ExplorOz provides links to websites outside of the Site. These linked sites are 
 
 ### 11\. What to do if you have a problem or question  
   
-If ExplorOz becomes aware of any ongoing concerns or problems with our Site, we will take these issues seriously and work to address these concerns. If you have any further queries relating to our privacy policy, or you have a problem or complaint, please contact us at [Privacy@ExplorOz.com](mailto:Privacy@ExplorOz.com)  
+If ExplorOz becomes aware of any ongoing concerns or problems with our Site, we will take these issues seriously and work to address these concerns. If you have any further queries relating to our privacy policy, or you have a problem or complaint, please contact us at [ Privacy@ExplorOz.com](mailto:Privacy@ExplorOz.com)  
   
 * * *
 
@@ -148,4 +146,4 @@ Our commitment to make ExplorOz Australia's leading 4WD Web Site means that we a
 
 ### 13\. Further information on privacy  
   
-For more information about privacy issues in Australia and protecting your privacy, visit the [Australian Federal Privacy Commissioner's](http://www.privacy.gov.au/) website.
+For more information about privacy issues in Australia and protecting your privacy, visit the [ Australian Federal Privacy Commissioner's](http://www.privacy.gov.au/) website.
