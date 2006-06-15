@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the curezone.org privacy policy that was archived on 2005-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051226062709id_/http%3A//curezone.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curezone.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615213822id_/http%3A//curezone.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy Statement,CureZone.com
 
 **Privacy Policy**
 
-CureZone.com takes your privacy seriously. Please read the following to learn more about our privacy policy.
+CureZone takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
   * CureZone respects and protects the privacy of the individuals that use CureZone  services. Individually identifiable information about you is never disclosed to any third party!
 
@@ -153,15 +153,17 @@ USA**
 
     * **[Privacy Policy Statement](https://web.archive.org/privacy.asp)**
 
-    * **[Forums](https://web.archive.org/web/20051226062709id_/http%3A//curezone.com/forums/default.asp) **
+    * **[Universal Spam Policy](https://web.archive.org/spam.asp)**
 
-      * **[What makes a great health educator?](https://web.archive.org/web/20051226062709id_/http%3A//curezone.com/forums/educator.asp)**
+    * **[Security at CureZone](https://web.archive.org/web/20060615213822id_/http%3A//curezone.com/security.asp)**
 
-      * [ **Posting Guidelines**](https://web.archive.org/web/20051226062709id_/http%3A//curezone.com/forums/guidelines.asp) ****
+    * **[Forums](https://web.archive.org/web/20060615213822id_/http%3A//curezone.com/forums/default.asp) **
 
-      * **[About Forums](https://web.archive.org/web/20051226062709id_/http%3A//curezone.com/forums/descriptionall.asp)**
+      * [ **Posting Guidelines**](https://web.archive.org/web/20060615213822id_/http%3A//curezone.com/forums/guidelines.asp) ****
 
-      * **[Disclaimer](https://web.archive.org/web/20051226062709id_/http%3A//curezone.com/forums/disclaimer.asp)**
+      * **[About Forums](https://web.archive.org/web/20060615213822id_/http%3A//curezone.com/forums/descriptionall.asp)**
+
+      * **[Disclaimer](https://web.archive.org/web/20060615213822id_/http%3A//curezone.com/forums/disclaimer.asp)**
 
 
 
