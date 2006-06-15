@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsfilter.org privacy policy that was archived on 2005-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051226164908id_/http%3A//newsfilter.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsfilter.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615020038id_/http%3A//www.newsfilter.org/privacy.php) for the most accurate reproduction.*
 
 # 
 
