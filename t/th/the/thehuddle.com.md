@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehuddle.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215132648id_/http%3A//thehuddle.com/site/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehuddle.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615062907id_/http%3A//thehuddle.com/site/privacy.php) for the most accurate reproduction.*
 
 # Fantasy Football in The Huddle - Privacy Policy
 
@@ -9,8 +9,7 @@ By using InterSport web sites (hereafter "Our Sites") you agree to this privacy 
 If you have questions or concerns regarding this statement, you may contact InterSport via postal mail at: 
 
 InterSport, Inc.  
-237 Tramway Drive  
-Suite B, Box 4470  
+P.O. Box 4470  
 Lake Tahoe, NV 89449
 
 **Traffic Data**  
