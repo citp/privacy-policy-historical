@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vodafone.ie privacy policy that was archived on 2005-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051124050106id_/http%3A//www.vodafone.ie/terms/privacy/index.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodafone.ie privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615091329id_/http%3A//vodafone.ie/terms/privacy/index.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - Vodafone Ireland
 
@@ -72,7 +72,7 @@ For legal purposes call records will be retained for a period of 3 years to comp
 For legal purposes usage records will be retained for a period of 3 years to comply with State requirements. This retention will take place in a restricted access secure system and will not be used for Vodafone’s commercial purposes. 
 
 |   
-|  Cookies |  |  |  |  Cookies are stored on a per session basis only to aid your navigation of our web-sites. Depending on your browser you may also be able to control cookie use by altering your browser settings.  |   
+|  Cookies |  |  |  |  Cookies are stored on a per session basis only to aid your navigation of our web-sites. Persistent cookies may be set to store display related preferences. Depending on your browser you may also be able to control cookie use by altering your browser settings.  |   
 |  Invoices & Statements |  |  |  |  6 years plus current year for invoices and statements. 
 
 The call detail element of your standard bill will be severed and deleted after 6 months, as described above. 
@@ -83,7 +83,7 @@ The call detail element of your standard bill will be severed and deleted after 
   
 Cookies
 
-16\. We will make limited use of cookies for certain online services (e.g. My Vodafone) where your account details are accessible. For security purposes cookies are used to maintain current session details (e.g. user name, site preferences). These cookies reside in the temporary internet file of your PC and are set to expire 30 minutes after your last action or when you elect to log off. 
+16\. We will make limited use of cookies for certain online services (e.g. My Vodafone) where your account details are accessible. For security purposes cookies are used to maintain current session details (e.g. user name, site preferences). These cookies reside in the temporary internet file of your PC and are set to expire 30 minutes after your last action or when you elect to log off. Cookies with longer expiry dates may occasionally be used to store your display preferences. These cookies do not contain any user-specific details (such as user names or passwords). 
 
 17\. Depending on the type of browser you are using, you may be able to configure your browser so that: (i) you are prompted to accept or reject cookies on an individual basis or (ii) to prevent your browser from accepting any cookies at all. You should refer to the supplier or manufacturer of the web browser for specific details about cookie security. 
 
