@@ -1,13 +1,7 @@
-> *The following text is extracted and transformed from the ncbuy.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210174856id_/http%3A//www.ncbuy.com/servicecenter/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncbuy.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615204441id_/http%3A//www.ncbuy.com/servicecenter/privacy.html) for the most accurate reproduction.*
 
 # NCBuy: Service Center - Privacy Policy
 
-|  | 
-
-Your privacy is important to both of us, and we keep your details confidential. Mum's the Word!   
-  
----|---  
-  
 NetCent Communications has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: NCBuy. Prior to disclosing how specific information is used, there are some terms that should be defined: 
 
 TERMINOLOGY:
@@ -81,36 +75,3 @@ NetCent Communications
 74 MacDermott Drive  
 Ajax, Ontario, L1T 3T9  
 
-
-  
-| | |   
----|---|---  
-  |  **Learn more about NCBuy, contact representatives, or review the terms of service.**
-
-**General Center Links:**  
-• [Site Map](https://web.archive.org/servicecenter/sitemap.html)  
-• [Site Contacts](https://web.archive.org/servicecenter/contacts.html)  
-• [Linking to Us](https://web.archive.org/servicecenter/link2us.html)
-
-• [Affiliate Program](http://affiliate.ncbuy.com/)  
-• [Onsite Contests](https://web.archive.org/servicecenter/contests.html)
-
-**Abuse Notices:**  
-• [May 24th, 2003: WebProWeird Newsletter Complaints](https://web.archive.org/servicecenter/abuse_email.html)
-
-**Abuse Logs & Policy:**  
-• [Email Spam](https://web.archive.org/servicecenter/abuse_email.html)  
-• [Spyware Bundling](https://web.archive.org/servicecenter/abuse_spyware.html)
-
-• [Responsible Email](https://web.archive.org/servicecenter/emailuse.html)
-
-**Contracts and legal documents for ...**
-
-**End Users & Visitors:**  
-• [Enetwork Users](https://web.archive.org/servicecenter/enet_user.html)  
-• [Your Privacy](https://web.archive.org/servicecenter/privacy.html)  
-• [Terms of Service](https://web.archive.org/servicecenter/termsofservice.html)  
- 
-
-|    
-[Service Center](http://www.ncbuy.com/servicecenter/) »  
