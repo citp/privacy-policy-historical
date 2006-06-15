@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the badpuppy.com privacy policy that was archived on 2002-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020204122811id_/http%3A//www.badpuppy.com/copyright/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badpuppy.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615214033id_/http%3A//www.badpuppy.com/copyright/privacystatement.asp) for the most accurate reproduction.*
 
 # Are you a Badpuppy? -=- Welcome to Badpuppy.com
 
