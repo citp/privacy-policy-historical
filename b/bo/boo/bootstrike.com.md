@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the bootstrike.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225030643id_/http%3A//www.bootstrike.com/Home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bootstrike.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615193039id_/http%3A//www.bootstrike.com/Home/privacy.html) for the most accurate reproduction.*
 
-# Bootstrike.Com: Privacy Policy
+# Privacy Policy
 
 ## Privacy Policy Statement
 
 This is the web site of Bootstrike.Com.
 
-We can be reached via e-mail via this page [http://www.bootstrike.com/Home/contact.html?regarding=Privacy%20Policy](https://web.archive.org/web/20051225030643id_/http%3A//www.bootstrike.com/Home/contact.html?regarding=Privacy%20Policy)
+We can be reached via e-mail via this page [http://www.bootstrike.com/Home/contact.html?regarding=Privacy%20Policy](https://web.archive.org/web/20060615193039id_/http%3A//www.bootstrike.com/Home/contact.html?regarding=Privacy%20Policy)
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
