@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the largeanimal.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213200842id_/http%3A//largeanimal.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the largeanimal.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615032932id_/http%3A//www.largeanimal.com/privacy.php) for the most accurate reproduction.*
 
-# 
+# Large Animal Games
 
 Large Animal respects your right to enjoy our games without interference or intrusion. We never install pop-up ads or spyware along with any of our games, we never send you email if you are not signed up for our email club, and we will not share any contact information you give us with anyone. 
 
