@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the firstcitizens.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220023518id_/http%3A//firstcitizens.com/privacy_security/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstcitizens.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615222949id_/http%3A//firstcitizens.com/privacy_security/privacy_statement) for the most accurate reproduction.*
 
 # First Citizens Bank | Privacy and Security | Privacy Statement
 
 Privacy Statement
 
-Revised June 2004
+Revised June 2005
 
 IMPORTANT INFORMATION ABOUT PRIVACY
 
@@ -15,8 +15,6 @@ IronStone Bank
 First Citizens Bank, National Association  
 First Citizens Investor Services, Inc.  
 IronStone Securities, Inc.  
-Triangle Life Insurance Company  
-American Guaranty Insurance Company  
 Neuse Financial Services, Inc. 
 
 We Value Your Trust. Trust is the foundation of our relationship with you. You have selected us to provide financial products and services because you trust us to act with integrity, to process your financial transactions and administer your accounts accurately, to handle information about you responsibly and to preserve the confidentiality of your financial affairs. We strive every day to earn your trust and confidence.
@@ -72,7 +70,7 @@ We are permitted by federal law to share certain types of information about you 
 
 How to Tell Us Not to Share Eligibility Information with Our Affiliates 
 
-If you prefer that we refrain from sharing eligibility information about you with our affiliates, you may direct us not to by calling us toll free at 877-654-2320 or by writing to us at: Compliance Department-RWN21, P.O. Box 27131, Raleigh, NC 27611-7131. When two or more customers jointly obtain a financial product or service from us, we will treat a request not to share eligibility information made by one of the joint customers as applying only to that person unless that customer tells us that he or she is acting on behalf of other joint customers. We will process your request as quickly as we reasonably can. 
+If you prefer that we refrain from sharing eligibility information about you with our affiliates, you may direct us not to by calling us toll free at 1.877.654.2320 or by writing to us at: Compliance Department-RWN21, P.O. Box 27131, Raleigh, NC 27611-7131. When two or more customers jointly obtain a financial product or service from us, we will treat a request not to share eligibility information made by one of the joint customers as applying only to that person unless that customer tells us that he or she is acting on behalf of other joint customers. We will process your request as quickly as we reasonably can. 
 
 Note: We are required by law to send a summary of our consumer privacy policies and practices to you each year for as long as you remain our customer. If you tell us not to share eligibility information about you with our affiliates, we will honor your instructions until we receive instructions from you to the contrary. You do not need to notify us each time you receive a copy of our privacy notice.
 
@@ -92,7 +90,7 @@ Other Privacy Protections. You may have additional privacy rights under the laws
 
 Reporting Information to Credit Bureaus. We may report information about your account or accounts to credit bureaus. Late payments, missed payments, or other defaults on your account may be reflected in your credit report.
 
-Questions. If you have any questions regarding our privacy policies and practices, please call us toll free at 877-654-2320 or write to us at: Compliance Department-RWN21, P.O. Box 27131, Raleigh, NC 27611-7131. If you prefer, you may send us an e-mail through our websites. Please indicate “Privacy” as the subject of your communication. Thank you for doing business with us. 
+Questions. If you have any questions regarding our privacy policies and practices, please call us toll free at 1.877.654.2320 or write to us at: Compliance Department-RWN21, P.O. Box 27131, Raleigh, NC 27611-7131. If you prefer, you may send us an e-mail through our websites. Please indicate “Privacy” as the subject of your communication. Thank you for doing business with us. 
 
 Because we want to be sure all of our consumer customers receive this notice, we provide it in a variety of forms and with many of our account statements. As a result, you may receive multiple notices from us.
 
