@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casa.gov.au privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229060819id_/http%3A//www.casa.gov.au/tools/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casa.gov.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615021640id_/http%3A//casa.gov.au/tools/privacy/index.htm) for the most accurate reproduction.*
 
 # CASA web site - Privacy statement
 
