@@ -1,32 +1,23 @@
-> *The following text is extracted and transformed from the frommers.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604131037id_/http%3A//frommers.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frommers.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615215347id_/http%3A//frommers.com/about/about_privacy.html) for the most accurate reproduction.*
 
-# Arthur Frommer's Budget Travel Online : About Us
+# Frommer's About Us
 
-**Privacy Policy**
+|  |  | 
 
-**General Information About the Privacy Policy of This Web Site**
+## Privacy Policy
 
-Arthur Frommer's Budget Travel Online is maintained by Hungry Minds located at 909 3rd Avenue, New York, New York 10022. We can be reached by e-mail at [support@frommers.com](mailto:support@frommers.com).
+John Wiley & Sons, Inc. and its related companies (collectively, "Wiley") recognize the importance of protecting the information collected from Users in the operation of this Web site, and take reasonable steps to maintain the security, integrity and privacy of any information in accordance with this Privacy and Data Protection Policy. By submitting your information to Wiley you consent to the practices described herein. 
 
-Our company recognizes the importance of protecting the privacy of Personal Identifying Information about you as a user of our Web site. We consider the following to be Personal Identifying Information: your name, address, phone number, date of birth, job, personal interests, credit card information. This Web site does not collect Personal Identifying Information about a user except for information that is voluntarily provided to our Company so that we can serve the user's needs and our legitimate business purposes. (For example, when the user posts a message to a bulletin board or makes an online purchase, we need to retain certain Personal Identifying Information on the Web site in order to respond to the order.) A user's Personal Identifying Information may be used by our company to help us improve the Web site, and also for our company's marketing and promotional purposes. It will be treated confidentially within our company. Our policy is not to share this information with third parties, but we may share this information with other companies within Hungry Minds.
+Wiley will ensure that any identifiable personal information it collects during the registration and purchasing processes will be adequate, relevant and not excessive for purposes of operating this Web site or any of the services operated hereunder, it will be kept accurate and up-to-date based on information provided and it will be deleted when no longer needed. Except where necessary in connection with services provided by appropriate intermediaries, who will be required to comply with the confidentiality provisions of this policy, Wiley will not disclose any personal information identifying Users to any third party, unless required by law or otherwise needed in connection with legal proceedings or unless we have received your consent. 
 
-In addition, users should be reminded that any Personal Identifying Information that is voluntarily posted by a user to a public area of this Web site (for example, a posting to a bulletin board or chat room) may always be collected and used by others and that there is nothing our company can do to prevent that.
+If use of an electronic product, feature or service offered by Wiley on this Web site requires a User to provide a name and password or other personally identifiable information, the User will have the option to opt in or out of providing such information and using the product, feature or service. Any private communications or information supplied to Wiley by a User may be used by Wiley for internal business and research purposes and to help enhance and develop our Web sites but will not be shared with third parties unless we receive your consent. 
 
-**Special Notice to Parents**
+Wiley may disclose to carefully chosen third parties navigational and transactional information in the form of anonymous, aggregate usage statistics (including "page views" on this Web site and the products herein) and demographics but only in forms that do not reveal a User's identity or confidential information, except as required by law, as needed in connection with legal proceedings, or unless we have received your consent. 
 
-We have no intention of seeking Personal Identifying Information about minors who visit this Web site. The same privacy policies will apply to that information. In addition, if we can identify a user as a minor, the Personal Identifying Information will not be used for further marketing and promotion. We encourage you to ask your children to seek your permission before providing information about themselves or their family over the Internet.
+Links may be provided from this Web site to other third party Web sites. In using such links, Users should be aware that each third party Web site will vary in terms of its privacy and data protection policies, and Wiley does not take responsibility for the privacy policies of, and usage of, personal information collected by others including, without limitation, those of any partner or affiliate. 
 
-**Special Notice to Kids**
+You should be aware that identifiable personal information--such as your name or e-mail address--that you voluntarily disclose that are accessible to other Users (e.g. on bulletin boards or in chat areas) could be collected and disclosed by others. Wiley cannot take any responsibility for such collection and disclosure. 
 
-Ask your parent or guardian for permission before you send any personal information over the Internet.
+Please note that Wiley's Privacy and Data Protection Policy is reviewed periodically. Wiley reserves the right to modify its Privacy and Data Protection Policy at any time without notice. Any changes to the policy will be posted on this page. Your continued use of this Web site will be deemed conclusive acceptance of such modification. Any comments or questions concerning this policy should be addressed by entering your comments through our Contact Us page. If at any point you wish to access your personal information to (1) change your preferences, (2) review the accuracy, or (3) correct, supplement or modify your information, you may either select the [Contact Us](https://web.archive.org/contact_us) page as set forth above, or make in a written request to John Wiley & Sons, Inc., 111 River Street, Hoboken, NJ 07030-5774. If you wish to modify your shopping account, you can do it directly in the [My Account](http://catalog.frommers.com/marketbasket.cgi?viewaccount) section. 
 
-Our privacy policies are under frequent review. If you have questions or comments about our privacy policy, you may contact us by e-mail at [support@frommers.com](mailto:support@frommers.com).
-
-**[BACK TO TOP]**
-
-[**[Home]**](https://web.archive.org/index.html) [**[Search]**](https://web.archive.org/search/) [**[Hot Spot]**](https://web.archive.org/hotspot/) [**[Destinations]**](https://web.archive.org/destinations/) [**[Newsletter]**](https://web.archive.org/newsletters/today/contents.html) [**[Budget Travel Magazine]**](https://web.archive.org/features/) [**[Message Boards]**](https://web.archive.org/cgi-bin/WebX) [**[Deals]**](https://web.archive.org/deals/) [**[Vacation Ideas]**](https://web.archive.org/vacations/) [**[Tips & Resources]**](https://web.archive.org/tips/) [**[Arthur's Soap Box]**](https://web.archive.org/soap_box/) [**[Book Travel]**](https://web.archive.org/booktravelnow/) [**[Bookstore]**](https://web.archive.org/bookstore/)
-
-[[About Us]](https://web.archive.org/about/)    [[Advertise with Us]](https://web.archive.org/about/advertise.html)    [[Terms of Use]](https://web.archive.org/about/disclaimer.html)    [[Talk to Us]](https://web.archive.org/talktous/)
-
-_Arthur Frommer's Budget Travel is a trademark owned and operated by Newsweek Budget Travel, Inc.  
-Copyright © 2001 Newsweek Budget Travel, Inc._
+|  | 
