@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mp3-center.org privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211101133id_/http%3A//www.mp3-center.org/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3-center.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615162941id_/http%3A//www.mp3-center.org/privacy_policy.php) for the most accurate reproduction.*
 
-# Mp3-center.org Free Mp3 Downloads
+# Privacy Policy | MP3-center.org
 
 Privacy is becoming a major concern on the Internet now, because of the popularity of the Internet some businesses have taken advantage of the huge amounts of data they have collected through their web sites by 'spamming' or by adding you to annoying mailing lists which you don't even remember signing up to. 
 
