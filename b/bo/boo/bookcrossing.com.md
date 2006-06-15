@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bookcrossing.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217130930id_/http%3A//www.bookcrossing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookcrossing.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210231id_/http%3A//bookcrossing.com/privacy) for the most accurate reproduction.*
 
-# BookCrossing - privacy - FREE YOUR BOOKS!
+# BookCrossing - privacy
 
 BookCrossing respects and protects the privacy of the individuals that use the BookCrossing.com site. Individually identifiable information about you is not willfully disclosed to any third party without first receiving your permission, as explained in this privacy policy. 
 
@@ -25,4 +25,28 @@ By using the BookCrossing site, you consent to the collection and use of your in
 **What can I do if I have additional questions?**  
 Feel free to [contact us](https://web.archive.org/contact) any time and we'll answer any additional questions you may have. 
 
-©2001-2005 BookCrossing.com  All Rights Reserved 
+©2001-2006 BookCrossing.com  All Rights Reserved 
+
+* * *
+
+## Menu
+
+[](https://secure.bookcrossing.com/store)  
+
+
+Shop online at our secure [Supply Store](https://secure.bookcrossing.com/store) to buy Bookplate Labels, Bookmarks, Sticky-notes, Release Kits, Stampers, Logo Merchandise, and much more. Every purchase directly supports the BookCrossing website, and will earn your [Wings](https://web.archive.org/wings)!
+
+[](https://web.archive.org/link/mentalfloss)  
+
+
+The Chicago Tribune says "For the discerning intellect, **mental** _floss cleans out the cobwebs." The Washington Post calls it "a delightfully eccentric and eclectic new magazine." If you like books, we know you'll like it. [Learn more](https://web.archive.org/link/mentalfloss) and [subscribe](https://web.archive.org/link/mentalflosssubscribe).
+
+[](http://www.bookcrossing.com/newscontent/137)  
+
+
+BookCrossing [wins](http://www.bookcrossing.com/newscontent/137) two 2005 Webby's People's Voice awards for the Community and the Social/Networking categories. 
+
+[](https://web.archive.org/mybookshelf/reno "Ron Hornbaker")  
+
+
+Hi, I'm [Ron Hornbaker](https://web.archive.org/mybookshelf/reno "Ron Hornbaker"). BookCrossing is my software company's labor-of-love. I hope you enjoy it.
