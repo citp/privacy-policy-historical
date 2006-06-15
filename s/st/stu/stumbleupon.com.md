@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the stumbleupon.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225083531id_/http%3A//www.stumbleupon.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stumbleupon.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615180207id_/http%3A//www.stumbleupon.com/privacy.html) for the most accurate reproduction.*
 
 # StumbleUpon Privacy Policy
 
-  
-  
-StumbleUpon  
-
-
-#### Privacy Policy
+**Privacy Policy**
 
 StumbleUpon respects and protects the privacy of the individuals that use StumbleUpon's toolbar ("StumbleUpon Toolbar"). Individually identifiable information about you is not willfully disclosed to anyone without first receiving your permission, as explained in this privacy policy ("Privacy Policy").
 
@@ -39,7 +34,7 @@ No. We do not share any personally identifiable information that is not already 
 
 **Your consent and changes to the Privacy Policy**
 
-By using the StumbleUpon Toolbar and our web site, you consent to the collection and use of your information as we have outlined in this policy and to our [Terms & Conditions](https://web.archive.org/web/20051225083531id_/http%3A//www.stumbleupon.com/terms.html). StumbleUpon may decide to change this Privacy Policy from time to time. When we do, we will post those changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it.
+By using the StumbleUpon Toolbar and our web site, you consent to the collection and use of your information as we have outlined in this policy and to our [Terms & Conditions](https://web.archive.org/web/20060615180207id_/http%3A//www.stumbleupon.com/terms.html). StumbleUpon may decide to change this Privacy Policy from time to time. When we do, we will post those changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it.
 
 **Who can I ask if I have additional questions?**
 
