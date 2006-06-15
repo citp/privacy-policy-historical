@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the biography.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204225600id_/http%3A//www.aetv.com/feedback/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biography.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615204953id_/http%3A//www.biography.com/privacy_statement.jsp) for the most accurate reproduction.*
 
-# A&E - CORPORATE PRIVACY POLICY
+# Privacy Statement
 
-CORPORATE PRIVACY POLICY  
-
+**CORPORATE PRIVACY POLICY  
+**
 
 **A &E Privacy Policy**
 
@@ -12,9 +12,9 @@ Last updated on June 12, 2003
 **A &E Television Networks ("AETN")**
 
 We can be reached via fax at (212) 907-9497  
-Attn: Interactive Media-Privacy Policy Feedback 
+Attn: Interactive Media-Privacy Policy Feedback
 
-We can be reached via email at [feedback@AETV.com](mailto:feedback@AETV.com). 
+We can be reached via email at [feedback@AETV.com](mailto:feedback@AETV.com).
 
 AETN supports a general policy of openness about personal data collection and use. We have adopted and implemented this Privacy Policy as part of our commitment to protecting your personal information from misuse.
 
@@ -124,5 +124,3 @@ New York, NY 10017
 
 **Revisions to Privacy Policy**  
 Any of the policies or procedures above may be changed at any time without prior notice. You can determine if this Privacy Policy has been revised by referring to the "Last Updated" date at the top of this page. Use of our Websites constitutes your acceptance of the terms of this Privacy Policy then in effect. We encourage you to bookmark this page and to periodically review it to ensure familiarity with the most current version of our Privacy Policy.
-
-| 
