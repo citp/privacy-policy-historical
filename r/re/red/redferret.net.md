@@ -1,0 +1,9 @@
+> *The following text is extracted and transformed from the redferret.net privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615065136id_/http%3A//www.redferret.net/%3Fpage_id%3D6142) for the most accurate reproduction.*
+
+# Our Privacy Policy - The Red Ferret Journal
+
+The Red Ferret Journal is absolutely committed to protecting your privacy. We hate anything underhand or dishonest, so we will not sell, rent or otherwise dispose of your personal information to anyone else, ever. The only personal information we collect about you comes from stuff you expressly give us (like your email address or website address) and we use things like browser cookies which help us track visitor traffic every day. The reason we need this stuff is to try and make The Ferret a better and more enjoyable site, so we take it that you automatically consent to this kind of general data gathering through your use of our site. 
+
+If we need to alter our privacy policy, we will post the changes to this page to keep you updated as to what information we are collecting, how we are using it and if and why we may disclose it to a third party. That’s kind of weasly talk to say that sometime in the future we may need to supply aggregate data to third parties about our traffic levels, patterns, and other relevant site wide information in order to obtain services or products we need. We’ll never disclose personal identifying information in any case, just generalised statistics. 
+
+Bottom line? We really hate spammers, unsolicited marketing attacks and other nasty stuff which can arise from the indiscriminate disclosure of people’s information. So we’re going to stand side by side with you and fight off the hordes with our bare hands if needs be. We will fight them on the beaches…. _[Enough! - Ed]_
