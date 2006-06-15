@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videoeta.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215105216id_/http%3A//videoeta.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videoeta.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615090808id_/http%3A//videoeta.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -18,3 +18,16 @@ If you do not want the benefit of cookies, there is a simple procedure to manual
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses, we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at VideoETA periodically.
 
 If you have any additional questions about VideoETA's dedication to visitor privacy, please contact us at mail@videoeta.com.
+
+|  [](https://web.archive.org/movie.html?id=81914&ad=367)
+
+[**Minotaur**](https://web.archive.org/movie.html?id=81914&ad=367)   
+Coming Jun 20  
+[Remind me when it's released!](https://web.archive.org/reminder.html?id=81914)  
+ 
+
+[ **Put VideoETA release dates on your web site!**](https://web.archive.org/link.html)  
+ 
+
+[ ](http://affiliates.allposters.com/link/redirect.asp?AID=304601&PSTID=1&LTID=13&LID=15)   
+
