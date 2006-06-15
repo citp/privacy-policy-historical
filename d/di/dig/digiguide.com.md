@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digiguide.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218001849id_/http%3A//www.digiguide.com/general/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digiguide.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615211137id_/http%3A//www.digiguide.com/general/privacy.shtml) for the most accurate reproduction.*
 
 # DigiGuide: The Best TV Guide - Privacy Statement
 
@@ -64,7 +64,7 @@ If you've set your browser to warn you before accepting cookies, you will receiv
 
 ### Questions
 
-If you have any questions regarding our privacy statement, we are only too happy to answer them. In this regard, please contact [privacy@gipsymedia.com](mailto:privacy@gipsymedia.com).
+Miranda Wood is our appointed data controller. If you have any questions regarding our privacy statement, we are only too happy to answer them. In this regard, please contact [mirandaw@gipsymedia.com](mailto:mirandaw@gipsymedia.com).
 
   
 
