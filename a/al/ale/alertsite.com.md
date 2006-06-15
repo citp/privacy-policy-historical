@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alertsite.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218001017id_/http%3A//alertsite.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alertsite.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615222753id_/http%3A//www.alertsite.com/privacy.shtml) for the most accurate reproduction.*
 
 # AlertSite: The Web Site Monitoring Company
 
@@ -11,7 +11,7 @@ AlertSite designed its business practices to safeguard your privacy and responsi
 
 Alertsite is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [www.AlertSite.com](http://www.alertsite.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
-If you have questions or concerns regarding this statement, you should first contact a member of our management team at [admin@alertsite.com](mailto:admin@alertsite.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watch_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first contact a member of our management team at [admin@alertsite.com](mailto:admin@alertsite.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
 The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloadable from this site. 
 
