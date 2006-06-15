@@ -1,7 +1,10 @@
-> *The following text is extracted and transformed from the logomaker.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217101649id_/http%3A//logomaker.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logomaker.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615050757id_/http%3A//www.logomaker.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Logo Maker - Logo Creator - Online Logo Design - Privacy Policy
 
+|   
+---  
+  
   
 
 
