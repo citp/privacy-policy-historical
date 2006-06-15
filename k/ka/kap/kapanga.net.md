@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kapanga.net privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221132848id_/http%3A//www.kapanga.net/IP/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kapanga.net privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615043955id_/http%3A//www.kapanga.net/IP/privacy.cfm) for the most accurate reproduction.*
 
 # Kapanga Softphone, the premier SIP client integrating Voice, Video and Fax
 
