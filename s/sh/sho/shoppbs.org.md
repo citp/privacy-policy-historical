@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoppbs.org privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220053600id_/http%3A//www.shoppbs.org/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dfooter_privacyPolicy_img) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoppbs.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615070642id_/http%3A//www.shoppbs.org/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dfooter_privacyPolicy_img) for the most accurate reproduction.*
 
 # Shop PBS Helpdesk
 
@@ -57,4 +57,4 @@ Your family's use of this site is conditioned on your having accepted these term
 
 We want to make this site a place where families can surf together, and where parents and caregivers are happy to have their children interact, learn and play. If you have any comments or questions, we're happy to hear them. This is, after all, your site. 
 
-If you have any questions or concerns regarding this policy, send us an e-mail at kids@pbs.org. You may also contact us at 1320 Braddock Place, Alexandria, VA 22314 (703 739-5127). Please read the Rules of the Road for Terms and Conditions for using this site. Read the PBS Online Privacy Policy for the sites hosted on pbs.org. 
+If you have any questions or concerns regarding this policy, send us an e-mail at [kids@pbs.org](mailto:kids@pbs.org?subject=Privacy%20Policy%20Questions). You may also contact us at 1320 Braddock Place, Alexandria, VA 22314 (703 739-5127). Please read the Rules of the Road for Terms and Conditions for using this site. Read the PBS Online Privacy Policy for the sites hosted on pbs.org. 
