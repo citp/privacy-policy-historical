@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christianchildrensfund.org privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231094222id_/http%3A//www.christianchildrensfund.org/content.aspx%3Fid%3D741) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianchildrensfund.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615052849id_/http%3A//www.christianchildrensfund.org/content.aspx%3Fid%3D741) for the most accurate reproduction.*
 
 # None
 
@@ -92,4 +92,4 @@ PRIVACY NOTICE EFFECTIVE DATE:  8/17/04
 
 Return to [_Terms and Conditions_](https://web.archive.org/content.aspx?id=740)
 
-| 
+     | 
