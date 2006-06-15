@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manchester.gov.uk privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215085805id_/http%3A//www.manchester.gov.uk/site/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manchester.gov.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615091149id_/http%3A//www.manchester.gov.uk/site/privacy.htm) for the most accurate reproduction.*
 
 # Manchester City Council: Website privacy statement
 
@@ -9,6 +9,18 @@ Manchester City Council does not capture and store any personal information abou
 #### Statistical data
 
 We automatically collect statistical data about usage patterns on our website. This information is not used to identify any individual. It is only collected to provide us with an understanding of the areas of interest on our site and kept only for as long as required for this purpose.
+
+#### Use of cookies
+
+Manchester City Council uses cookies on its site.
+
+A cookie is a text file that identifies your computer to our server. Cookies in themselves do not identify the individual user, just the computer used.
+
+We do not use cookies to collect any personal information about you.
+
+We conduct web visitor exit surveys which deposit a cookie on web visitors’ computers. The cookie is used to identify web visitors’ computers which activated the prompt inviting the visitor to complete the exit survey so that the prompt is not activated a second time within any three month period. The survey is run for the council by Nielsen/Net Ratings.
+
+You have the opportunity to set your computer to accept all cookies, to notify you when a cookie is issued, or not to receive cookies at any time. If you accept cookies, they remain on your computer for up to five years, unless you delete them. Please note that turning off cookies may limit your use of our website and website services.
 
 #### Other Manchester City Council websites
 
