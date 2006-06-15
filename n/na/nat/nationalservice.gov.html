@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nationalservice.gov privacy policy that was archived on 2005-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051214123453id_/http%3A//www.nationalservice.gov/home/privacy_policy/index.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nationalservice.gov privacy policy that was archived on 2006-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615032159id_/http%3A//www.nationalservice.gov/home/privacy_policy/index.asp) for the most accurate reproduction.-->
 
 <html><head>
 <meta name="description" content="Created in 1993, the Corporation for National Service is a public-private partnership that engages Americans of all ages in service through three national service initiatives - AmeriCorps, which includes more than 600 local and national programs, AmeriCorps*VISTA, and AmeriCorps*NCCC; the National Senior Service Corps, which includes Foster Grandparents, Senior Companions, and the Retired and Senior Volunteer Program; and Learn and Serve America, which provides models and resources for teachers integrating service into classrooms from kindergarten through college.">
@@ -116,7 +116,7 @@
 // Write the image tag with a random array element
 document.write("<img alt=\"Corporation for National and Community Service\" src=\"" + image[random_num] + "\">");
 -->
-</script><img alt="Corporation for National and Community Service" src="../../assets/img/sub/dynamic/ac_07.jpg">
+</script><img alt="Corporation for National and Community Service" src="../../assets/img/sub/dynamic/ac_02.jpg">
            <!--End Dynamic IMG -------------------------------------------------------->
            </td>
            <td width="5"><img src="../../assets/img/spacer.gif" width="5" height="100"></td>
@@ -247,6 +247,71 @@ Help / Site Information&nbsp; </td>
         <td>
 		<!--LEFT TOOL LOCATION --------------------------------------------------->
 		
+
+<script language="Javascript">
+
+function echeck(str) {
+
+		var at="@"
+		var dot="."
+		var lat=str.indexOf(at)
+		var lstr=str.length
+		var ldot=str.indexOf(dot)
+		if (str.indexOf(at)==-1){
+		   alert("Invalid E-mail Address")
+		   return false
+		}
+
+		if (str.indexOf(at)==-1 || str.indexOf(at)==0 || str.indexOf(at)==lstr){
+		   alert("Invalid E-mail Address")
+		   return false
+		}
+
+		if (str.indexOf(dot)==-1 || str.indexOf(dot)==0 || str.indexOf(dot)==lstr){
+		    alert("Invalid E-mail Address")
+		    return false
+		}
+
+		 if (str.indexOf(at,(lat+1))!=-1){
+		    alert("Invalid E-mail Address")
+		    return false
+		 }
+
+		 if (str.substring(lat-1,lat)==dot || str.substring(lat+1,lat+2)==dot){
+		    alert("Invalid E-mail Address")
+		    return false
+		 }
+
+		 if (str.indexOf(dot,(lat+2))==-1){
+		    alert("Invalid E-mail Address")
+		    return false
+		 }
+		
+		 if (str.indexOf(" ")!=-1){
+		    alert("Invalid E-mail Address")
+		    return false
+		 }
+
+ 		 return true					
+	}
+
+function ValidateForm(){
+	var emailID=document.SUBSCRIBE.email
+	
+	if ((emailID.value==null)||(emailID.value=="")){
+		alert("Please Enter your Email Address")
+		emailID.focus()
+		return false
+	}
+	if (echeck(emailID.value)==false){
+		emailID.value=""
+		emailID.focus()
+		return false
+	}
+	return true
+ }
+</script>
+
 	   <table width="192" border="0" cellspacing="0" cellpadding="0">
          <tbody><tr>
            <td>
@@ -525,21 +590,22 @@ Help / Site Information&nbsp; </td>
                  </tr>
                  <tr>
                    <td>
-				   <form name="optin" action="index.asp" method="POST" onsubmit="return CNCSDirect(this)" webbot-action="--WEBBOT-SELF--">
+				   <form name="SUBSCRIBE" action="index.asp" method="POST" onsubmit="return ValidateForm()" webbot-action="--WEBBOT-SELF--">
 				   <input type="hidden" name="VTI-GROUP" value="0">
 				   <table border="0" align="right" cellpadding="1" cellspacing="2">
                      <tbody><tr>
                        <td><div align="right">
-                         <input id="emailFieldID" type="text" size="25" name="u_e" class="emailField" title="Enter Email" maxlength="128" value="Enter Email Address" onfocus="if(document.optin.u_e.value=='Enter Email Address'){document.optin.u_e.value='';}">
+                         <input id="emailFieldID" type="text" size="25" name="email" class="emailField" title="Enter Email" maxlength="128" value="Enter Email Address" onfocus="if(document.optin.email.value=='Enter Email Address'){document.optin.email.value='';}">
                        </div></td>
                        <td width="55"><div align="left"><input type="image" src="../../assets/img/opt_in_bot.gif" alt="Subscribe" width="55" height="19" hspace="0" vspace="0" border="0" value="submit"></div></td>
                      </tr>
                    </tbody></table>
-				<input type="hidden" name="newsletter" value="on">
-				<input type="hidden" name="opt_ref" value="nationalservice.org">
-				<input type="hidden" name="opt_r" value="pfxbtjqhazd">
-				<input type="hidden" name="opt_d" value="Date">
-				<input type="hidden" name="opt_h" value="Time">
+					<input type="hidden" name="tbl_subscriptions_ac" value="off">
+					<input type="hidden" name="tbl_subscriptions_lsa" value="off">
+					<input type="hidden" name="tbl_subscriptions_usafc" value="off">
+					<input type="hidden" name="tbl_subscriptions_viewed" value="NO">
+					<input type="hidden" name="tbl_subscriptions_sc" value="off">
+					<input type="hidden" name="tbl_subscriptions_ns" value="on">
 				   </form>
 				   </td>
                  </tr>
@@ -739,7 +805,7 @@ Help / Site Information&nbsp; </td>
 				<a title="No Fear Act" onmouseover="MM_displayStatusMsg('No Fear Act');return document.MM_returnValue" class="header" href="../no_fear_act/index.asp">No Fear Act</a> | 
 				<a title="Federal Register Notices" onmouseover="MM_displayStatusMsg('Federal Register Notices');return document.MM_returnValue" class="header" href="../register_notices/index.asp">Federal Register Notices</a> | 
 				<a title="Site Notices" class="header" onmouseover="MM_displayStatusMsg('Site Notices');return document.MM_returnValue" href="../site_information/index.asp">Site Notices</a><br>
-        		Last updated: Wednesday, December 14, 2005</p></div></td>
+        		<a title="This is an official website of the U.S. Government and subject to Federal law" class="header" onmouseover="MM_displayStatusMsg('This is an official website of the U.S. Government and subject to Federal law');return document.MM_returnValue" href="../site_information/security.asp">This is an official website of the U.S. Government</a>&nbsp;|&nbsp;Last updated: Wednesday, June 14, 2006</p></div></td>
             <td width="15" valign="top">&nbsp;</td>
             <td width="43" valign="top" bgcolor="#000000">
 			<a href="../../Default.asp"><img src="../../assets/img/icon_flag.gif" alt="HOME" width="43" height="13" border="0"></a></td>
