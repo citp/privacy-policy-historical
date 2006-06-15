@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schoolmessenger.com privacy policy that was archived on 2005-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051105030010id_/http%3A//www.schoolmessenger.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoolmessenger.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615072053id_/http%3A//schoolmessenger.com/privacy_policy.html) for the most accurate reproduction.*
 
 # SchoolMessenger -- Empowering educators with parent-notification solutions and services
 
@@ -43,9 +43,9 @@ Fax: 831-477-0211
 
 |  | **Offices**  
 ---  
-Call 800-477-1940 or email [**sales@schoolmessenger.com**](mailto:sales@schoolmessenger.com) today. For further _[**contact information, Click here**](https://web.archive.org/web/20051105030010id_/http%3A//www.schoolmessenger.com/contact_us.html)_[ ****](https://web.archive.org/web/20051105030010id_/http%3A//www.schoolmessenger.com/contact_us.html)  
+Call 800-477-1940 or email [**sales@schoolmessenger.com**](mailto:sales@schoolmessenger.com) today. For further _[**contact information, Click here**](https://web.archive.org/web/20060615072053id_/http%3A//schoolmessenger.com/contact_us.html)_[ ****](https://web.archive.org/web/20060615072053id_/http%3A//schoolmessenger.com/contact_us.html)  
 **Partners**  
-SchoolMessenger values the relationships it has formed with leading technology companies and education associations. [**Read more** ****](https://web.archive.org/web/20051105030010id_/http%3A//www.schoolmessenger.com/partners.html)  
+SchoolMessenger values the relationships it has formed with leading technology companies and education associations. [**Read more** ****](https://web.archive.org/web/20060615072053id_/http%3A//schoolmessenger.com/partners.html)  
 **Urban Success Story**  
 Learn how SchoolMessenger became the standard for parent notification in the nation's largest school system.  
-[**Read more**](https://web.archive.org/web/20051105030010id_/http%3A//www.schoolmessenger.com/urban_success_story.html)
+[**Read more**](https://web.archive.org/web/20060615072053id_/http%3A//schoolmessenger.com/urban_success_story.html)
