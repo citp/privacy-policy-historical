@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the papyrusonline.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229210500id_/http%3A//www.papyrusonline.com/legal/security.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papyrusonline.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615061548id_/http%3A//www.papyrusonline.com/legal/security.cfm) for the most accurate reproduction.*
 
 # PapyrusOnline Home Page
 
+#### Security and Privacy
+
 ## Customer Account
 
-When you create a new user account at papyrusonline.com, we collect your name and e-mail address. If you place an order for a product that required payment, we also collect your billing address, credit card information, and in some cases, telephone number. This information will be used to process orders and if necessary, to contact you regarding the status of your orders. With your permission, this information may be used by Schurman Fine Papers (hereinafter, "SFP") and/or PAPYRUS Franchise Corporation (hereinafter "PFC"), (collectively, "Companies") to contact you for promotional purposes. We do not currently share your customer contact information with third parties for promotional purposes, and we will only do so in the future with your prior approval.
+When you create a new user account at papyrusonline.com, we collect your name and e-mail address. If you place an order for a product that required payment, we also collect your billing address, credit card information, and in some cases, telephone number. This information will be used to process orders and if necessary, to contact you regarding the status of your orders. With your permission, this information may be used by Schurman Fine Papers (hereinafter, "SFP") and/or Papyrus Franchise Corporation (hereinafter "PFC"), (collectively, "Companies") to contact you for promotional purposes. We do not currently share your customer contact information with third parties for promotional purposes, and we will only do so in the future with your prior approval.
 
 ## Secure and Private Purchases
 
@@ -44,7 +46,7 @@ Our privacy policy is regularly reviewed to make sure we continue to serve the p
 
 If you have any questions at any time regarding our privacy policy, you may contact papyrusonline.com by using the Contact Us link in the navigation bar or by sending a note to the following address:
 
-PAPYRUS Franchise Corporation  
+Papyrus Franchise Corporation  
 Marketing Department  
 500 Chadbourne Road  
 Fairfield, CA 94533 
