@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the googlecash.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216114439id_/http%3A//www.googlecash.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the googlecash.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615073115id_/http%3A//www.googlecash.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Google Cash Privacy Policy
 
