@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diversityinc.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229234500id_/http%3A//www.diversityinc.com/public/department26.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diversityinc.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615223144id_/http%3A//www.diversityinc.com/public/department26.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -35,4 +35,4 @@ Our site gives users the opportunity to opt-in to receive communications from us
 DiversityInc will share information with the government when required by law. DiversityInc will not share information unless it has been given a valid court order or subpoena. DiversityInc will not disclose whether or not law enforcement agencies have sought or obtained information under the Patriot Act.
 
  **Other**  
-If you have questions regarding our privacy policy, feel free to [contact us](https://web.archive.org/web/20051229234500id_/http%3A//www.diversityinc.com/public/main.cfm?page=7).
+If you have questions regarding our privacy policy, feel free to [contact us](https://web.archive.org/web/20060615223144id_/http%3A//www.diversityinc.com/public/main.cfm?page=7).
