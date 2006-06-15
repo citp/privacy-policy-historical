@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the grantcardone.com privacy policy that was archived on 2005-10-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051028091540id_/http%3A//www.grantcardone.com/privacy_policy.php4) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the grantcardone.com privacy policy that was archived on 2006-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615045229id_/http%3A//www.grantcardone.com/privacy_policy.php4) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html lang="en-US"><head><title>Grant Cardone, GrantCardone.com Motivational Speaking, Automotive Sales Tools, Real Estate</title>
 
@@ -15,13 +15,13 @@
 
 </head>
 
-<body background="images/bg1.gif" leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0" marginwidth="0">
+<body bgcolor="#1F6BDB" leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0" marginwidth="0">
 
 <!-- Top Table -->
-<table width="780" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="780" colspan="3" valign="top"><img src="images/grant_int.jpg" alt="" width="89" height="73" border="0"><a href="http://www.grantcardone.com"><img src="images/top_int.gif" alt="Return To GrantCardone.com" width="691" height="73" border="0"></a></td></tr>
-<tr><td width="780" valign="top"><map name="menu"><area alt="About Grant" coords="0,1,122,25" href="about_grant.php4"><area alt="Automotive Sales Products" coords="124,1,230,25" href="automotive.php4"><area alt="Motivational Tools" coords="231,1,351,25" href="motivation.php4"><area alt="Real Estate" coords="352,1,455,25" href="real_estate.php4"><area alt="Newsletter" coords="457,2,561,25" href="newsletter_signup.php4"><area alt="Seminars" coords="563,2,654,25" href="seminars.php4"><area alt="Testimonials" coords="655,1,778,24" href="testimonials.php4"></map><img src="images/menu_bar.gif" alt="" width="780" height="25" border="0" usemap="#menu"></td></tr><tr><td width="780" valign="top"><img src="images/int_div.gif" alt="" width="780" height="35" border="0"></td></tr></tbody></table><!-- End Top Table -->
+<table width="780" border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="#FFFFFF"><tbody><tr><td width="780" colspan="3" valign="top"><img src="images/grant_int.jpg" alt="" width="89" height="73" border="0"><a href="http://www.grantcardone.com"><img src="images/top_int.gif" alt="Return To GrantCardone.com" width="691" height="73" border="0"></a></td></tr>
+<tr><td width="780" valign="top"><map name="menu"><area alt="About Grant" coords="0,1,117,25" href="about_grant.php4"><area alt="Automotive Sales Products" coords="119,1,225,25" href="automotive.php4"><area alt="Motivational Tools" coords="228,0,337,24" href="motivation.php4"><area alt="Real Estate" coords="339,0,442,24" href="real_estate.php4"><area alt="Tip of the Week" coords="444,0,560,23" href="newsletter_signup.php4"><area alt="Seminars" coords="563,2,654,25" href="seminars.php4"><area alt="Testimonials" coords="655,1,778,24" href="testimonials.php4"></map><img src="images/menu_bar.gif" alt="" width="780" height="25" border="0" usemap="#menu"></td></tr><tr><td width="780" valign="top"><img src="images/int_div.gif" alt="" width="780" height="35" border="0"></td></tr></tbody></table><!-- End Top Table -->
 
-<table width="780" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="540" valign="top">
+<table width="780" border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="#FFFFFF"><tbody><tr><td width="540" valign="top">
 <img src="images/clear.gif" alt="" width="540" height="1" border="0">
 <!-- Welcome Text -->
 
@@ -75,21 +75,21 @@ function chk_id() {
 	var retVal = false;
 
 	while(true) {
-		if (document.newsletter.submitemail.value != deleteBlanks(document.newsletter.submitemail.value)) {
+		if (document.subscribeform.email.value != deleteBlanks(document.subscribeform.email.value)) {
 			if (confirm("The spaces in Email-ID will be removed")) {
-				document.newsletter.submitemail.value = deleteBlanks(document.newsletter.submitemail.value);
+				document.subscribeform.email.value = deleteBlanks(document.subscribeform.email.value);
 			}
-			document.newsletter.submitemail.focus();
-			document.newsletter.submitemail.select();
+			document.subscribeform.email.focus();
+			document.subscribeform.email.select();
 			break;
 		}
 
-		if(!isEmpty(document.newsletter.submitemail,"Email-ID")) {
+		if(!isEmpty(document.subscribeform.email,"Email-ID")) {
 			break;
 		}
 		else {		
-			if (deleteBlanks(document.newsletter.submitemail.value)) {
-				if(!emailCheck(document.newsletter.submitemail)) {
+			if (deleteBlanks(document.subscribeform.email.value)) {
+				if(!emailCheck(document.subscribeform.email)) {
 					break;
 				}
 			}
@@ -105,21 +105,24 @@ function chk_id() {
 <img src="images/success_tools2.gif" alt="" width="120" height="240" border="0"></a></div><br>
 <img src="images/newsletter2.gif" alt="" width="160" height="35" border="0"><br><br>
 
-<strong class="title2">Sign up now for Grant’s free monthly email newsletter!</strong>
+<strong class="title2">Sign up now for Grant’s Tip of The Week!</strong>
 <br>
-<form name="newsletter" action="newsletter.php4" method="post" onsubmit="return chk_id();">
-<input type="text" name="submitemail" value="Enter Your Email" size="15" maxlength="50" class="menu" onclick="if(this.value=='Enter Your Email') {this.value='';}" onmouseover="window.status='Enter Your Email'; return true;" onmouseout="window.status='Welcome to GrantCardone.com'; return true;">
+<form name="subscribeform" action="newsletter.php4" method="post" onsubmit="return chk_id();">
+<input type="text" name="email" value="Enter Your Email" size="15" maxlength="50" class="menu" onclick="if(this.value=='Enter Your Email') {this.value='';}" onmouseover="window.status='Enter Your Email'; return true;" onmouseout="window.status='Welcome to GrantCardone.com'; return true;">
 <br>
 <!-- <img src="images/submit.gif" alt="" width="88" height="26" border="0"> -->
 <input type="Image" src="images/submit.gif" width="88" height="26" border="0" alt="">
 <input type="hidden" name="submit1" value="Subscribe">
+<input type="hidden" name="subscribe" value="Subscribe">
+<input type="hidden" name="htmlemail" value="1">
+<input type="hidden" name="list[1]" value="signup">
 </form>
 <br><br>
 </td></tr></tbody></table></td></tr></tbody></table>
 <!-- End Body table -->
 
 <!-- Footer -->
-<table width="780" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="780" valign="top"><img src="images/footer.gif" alt="" width="780" height="35" border="0">
+<table width="780" border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="#FFFFFF"><tbody><tr><td width="780" valign="top"><img src="images/footer.gif" alt="" width="780" height="35" border="0">
 <br><br>
 <div align="center">
 <a href="http://www.grantcardone.com/shop/commerce.php">Shop Online</a> | <a href="http://www.grantcardone.com">Home</a> <br>
