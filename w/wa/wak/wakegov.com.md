@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wakegov.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223221142id_/http%3A//www.wakegov.com/web/privacy/default.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wakegov.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615040909id_/http%3A//www.wakegov.com/web/privacy/default.htm) for the most accurate reproduction.*
 
-# WakeGov.com - Privacy Statement
+# WakeGOV.com - Privacy Statement
 
   
 
