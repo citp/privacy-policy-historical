@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quizyourfriends.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229190421id_/http%3A//www03.quizyourfriends.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizyourfriends.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615194807id_/http%3A//www02.quizyourfriends.com/privacy.html) for the most accurate reproduction.*
 
 # QuizYourFriends - Privacy Policy
 
@@ -8,8 +8,8 @@ If you feel that QuizYourFriends is not abiding by its posted Privacy Policy, pl
 
       QuizYourFriends.com Policy Dept.  
       QuizYourFriends, Inc.  
-      PO Box 40138  
-      Cincinnati, OH 45246
+      PO Box 62666  
+      Cincinnati, OH 45262
 
 **I. THIRD PARTY ADVERTISING:**  
 QuizYourFriends.com uses DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here <<http://www.networkadvertising.org/optout_nonppii.asp>>. Neither QuizYourFriends.com nor third-party advertisers are responsible for the user-added portion contained within QuizYourFriends.com e-mails, quiz content, quiz scoreboard, or any other content associated with the QuizYourFriends.com service.
@@ -33,8 +33,8 @@ All information collected through QuizYourFriends.com is owned by QuizYourFriend
 
 QuizYourFriends.com invites users to submit question and answer content about themselves with which to quiz their friends. QuizYourFriends.com is not responsible for any content on QuizYourFriends.com that may be deemed offensive, in any way, to others.
 
-If a user elects to create a quiz on QuizYourFriends.com, he or she is asked for their name and e-mail address as well as the e-mail addresses of their friends to whom invitations to take this quiz will be sent. Once a user creates a quiz on QuizYourFriends.com, an invitation to take this quiz will be sent to their provided list of friends' e-mail addresses. A confirmation e-mail will be sent to the user who created a quiz in order to inform this user that their quiz was successfully created and invitations to take their quiz have been sent to their friends. Also, after a user takes a quiz through QuizYourFriends.com, an e-mail will be sent to this user with their quiz score along with the correct quiz answers. This information will also be sent to the user who created the quiz. QuizYourFriends is not responsible for the accuracy or currency of the content contained within quiz results e-mails or any other e-mails sent from QuizYourFriends.com. 
-
+If a user elects to create a quiz on QuizYourFriends.com, he or she is asked for their name and e-mail address as well as the e-mail addresses of their friends to whom invitations to take this quiz will be sent. Once a user creates a quiz on QuizYourFriends.com, an invitation to take this quiz will be sent to their provided list of friends' e-mail addresses. A confirmation e-mail will be sent to the user who created a quiz in order to inform this user that their quiz was successfully created and invitations to take their quiz have been sent to their friends. Also, after a user takes a quiz through QuizYourFriends.com, an e-mail will be sent to this user with their quiz score along with the correct quiz answers. This information will also be sent to the user who created the quiz. QuizYourFriends is not responsible for the accuracy or currency of the content contained within quiz results e-mails or any other e-mails sent from QuizYourFriends.com.   
+  
 **QuizYourFriends does not sign users up to any email lists.** There is no need to unsubscribe from QuizYourFriends.com, when you stop using the site for quizzes, you will no longer get any emails from QuizYourFriends.com. All quiz invitations are sent from your friends and not QuizYourFriends.com.
 
 If you use QuizYourFriends.com to create or take a quiz, you will receive e-mails with quiz results. If you do not want to receive these e-mails, do not use QuizYourFriends.com.
