@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realtytrac.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228152552id_/http%3A//www.realtytrac.com/pub/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtytrac.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615021143id_/http%3A//www.realtytrac.com/pub/privacy.html) for the most accurate reproduction.*
 
 # RealtyTrac - Privacy Policy
 
@@ -6,7 +6,7 @@ PLEASE NOTE: OUR PRIVACY POLICY CHANGES FROM TIME TO TIME. PLEASE CHECK BACK FOR
 
 Use of this website is not intended by persons under 18 years of age. You acknowledge that by registering to use this site and through the submission of information requested, you agree and approve of the terms and conditions of this Privacy Policy and subsequent amendments to this Privacy Policy by your continued use of this website. This Privacy Policy shall govern our use and disclosure of your personal information. If you do not agree and approve of the terms and conditions of this Privacy Policy, you are advised and instructed not to continue and not to complete the registration process (i.e. do not register) or otherwise use or access this site. [Please Opt Out by clicking on this link to be forwarded to our opt-out process](http://www.realtytrac.com/pub/optout.asp).
 
-This Privacy Policy will provide details and describe how and what information about you is gathered, used and distributed as a function of this website.
+This Privacy Policy will provide details and describe how and what information about you is gathered, used, and distributed as a function of this website.
 
 We appreciate that the information you provide to us and that we gather may be personal and private. Some of this information is used to facilitate improvements to our website and to enhance your RealtyTrac experience. We will/may share information about you with our business affiliates who have provided or may provide goods or services in connection with this site.
 
@@ -44,3 +44,5 @@ From time to time, we may use your information for new, unanticipated uses not p
 **Special Notification for California Residents**
 
 Individual customers who reside in California and have provided their personal information may request information regarding disclosures of this information to third parties for direct marketing purposes. Such requests must be submitted to us at the following mailing address: CA Privacy Request, One Venture Plaza, Suite 300, Irvine, California, 92618. This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted other than to the address specified in this paragraph. 
+
+This Privacy Policy is effective beginning April 28, 2006.
