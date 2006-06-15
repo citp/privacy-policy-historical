@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secretaffiliateweapon.com privacy policy that was archived on 2005-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051127015720id_/http%3A//www.secretaffiliateweapon.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secretaffiliateweapon.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615052027id_/http%3A//www.secretaffiliateweapon.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -44,3 +44,5 @@ I will only disclose your personal information, without notice, if required to d
 
 Ewen Chia  
 www.secretaffiliateweapon.com
+
+ **Copyright © Midas Touch Marketing. All Rights Reserved.**
