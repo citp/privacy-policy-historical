@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rew.ca privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221225732id_/http%3A//www.rew.ca/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rew.ca privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615142448id_/http%3A//www.rew.ca/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
