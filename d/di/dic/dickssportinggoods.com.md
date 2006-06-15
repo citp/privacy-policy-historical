@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dickssportinggoods.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219222718id_/http%3A//dickssportinggoods.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav_privacy_txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dickssportinggoods.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615201053id_/http%3A//www.dickssportinggoods.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav_privacy_txt) for the most accurate reproduction.*
 
 # Dick's Sporting Goods Helpdesk
 
@@ -16,7 +16,7 @@ GSI Commerce Solutions, Inc. has created this privacy policy to inform you of th
 
 
 
-If you have questions or concerns regarding this statement, you should contact our Customer Service Department by email at customersupport@dickssportinggoods.com or by phone at 1.877.846.9997.
+If you have questions or concerns regarding this statement, you should contact our Customer Service Department by email at [customersupport@dickssportinggoods.com](mailto:customersupport@dickssportinggoods.com%20?%20subject=Privacy%20Policy%20Questions) or by phone at 1.877.846.9997.
 
 **  Visiting www.dickssportinggoods.com**
 
@@ -41,13 +41,13 @@ We require your name, billing address, shipping address, email address and telep
 
 From time to time, we may contact you about sales, special offers and new site features if you agreed to be included in our email lists when you completed a purchase transaction with us. To customize the information you want to receive from us, simply sign on and select the specific information you wish to receive. To cancel our free emails, you can unclick the "I would like to receive emails about special promotions" box each time you make a purchase. You can also respond to any promotional email we send you, placing "REMOVE" in your subject line to discontinue email service. You can also send an email to www.dickssportinggoods.com or call us toll-free at1.877.846.9997 and inform us that you want to unsubscribe to our email list. 
 
-In addition to being able to call our customer service department, you may also email us at customersupport@dickssportinggoods.com. When you email us, your emails are stored within our system so that we may refer to previous emails from you as needed so that we may properly address your questions and concerns. Except as provided in this privacy policy, the information you provide to our customer service department is not shared with anyone without your consent.
+In addition to being able to call our customer service department, you may also email us at [customersupport@dickssportinggoods.com](mailto:customersupport@dickssportinggoods.com%20?%20subject=Privacy%20Policy%20Questions). When you email us, your emails are stored within our system so that we may refer to previous emails from you as needed so that we may properly address your questions and concerns. Except as provided in this privacy policy, the information you provide to our customer service department is not shared with anyone without your consent.
 
 **  Entering contests/sweepstakes**
 
 Whenever we run a contest or sweepstakes relating to our site, it will be accompanied with the rules of the contest/sweepstakes. We will also detail how the information gathered from you for entry into the contest/sweepstakes will be used. Additionally, we will post if this information will be shared with anyone in addition to those persons and entities provided for in this privacy policy, such as a third party sponsoring or managing the contest/sweepstakes.
 
-We may also contact you with promotional offers if you have entered one of our contests or sweepstakes. If you choose not to receive this free service when you enter a contest or sweepstakes, it will not affect your chances of winning. You can also opt out of this free service by unclicking the "I would like to receive emails about special promotions" box associated with each contest or sweepstakes, replying to any email and placing "REMOVE" in your subject line or notifying us that you want to unsubscribe to our free email services via email customersupport@dickssportinggoods.com or telephone 1.877.846.9997.
+We may also contact you with promotional offers if you have entered one of our contests or sweepstakes. If you choose not to receive this free service when you enter a contest or sweepstakes, it will not affect your chances of winning. You can also opt out of this free service by unclicking the "I would like to receive emails about special promotions" box associated with each contest or sweepstakes, replying to any email and placing "REMOVE" in your subject line or notifying us that you want to unsubscribe to our free email services via email [customersupport@dickssportinggoods.com](mailto:customersupport@dickssportinggoods.com%20?%20subject=Privacy%20Policy%20Questions) or telephone 1.877.846.9997.
 
 You can use this form to give us any input which we will use to improve our site. The only required data is your name and email address. The remainder of the data is optional. We only use this data to make improvements on our site. Except as provided in this privacy policy, this data is not shared with anyone in any way.
 
@@ -76,4 +76,4 @@ If we are going to use your personally identifiable information in a manner diff
 
 **  Questions about our Policies**
 
-If you have any questions regarding your privacy or any of our policies, please contact our Customer Service Department by email at customersupport@dickssportinggoods.com or by phone at 1.877.846.9997.
+If you have any questions regarding your privacy or any of our policies, please contact our Customer Service Department by email at [customersupport@dickssportinggoods.com](mailto:customersupport@dickssportinggoods.com%20?%20subject=Privacy%20Policy%20Questions) or by phone at 1.877.846.9997.
