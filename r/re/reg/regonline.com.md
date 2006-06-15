@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the regonline.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224211252id_/http%3A//regonline.com/Marketing/Privacy.aspx%3Fproduct%3DEvent) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regonline.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616012901id_/http%3A//regonline.com/Marketing/Privacy.aspx%3Fproduct%3DEvent) for the most accurate reproduction.*
 
-# RegOnline :: Easy Online Event Registration
+# Secure Online Event Registration - TRUSTe Certified Privacy Policy
 
 | 
 
 **RegOnline Privacy Policy  
-**Effective on: (5/15/05) 
+**Effective on: 5/15/05  
+Last Updated on: 5/23/2006 
 
 |   
 ---|---  
@@ -113,6 +114,10 @@ We do not link this automatically-collected data to personally identifiable info
 A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site, however we do not link the information stored in cookies to any personally identifiable information you submit while on our site. We only use session ID cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. 
 
 We also use Google Site Stats. This is a tracking feature offered by Google that works for Google’s ad subscribers. To measure performance, Google uses small strings of text (known as a cookie) that is placed on your computer when you click on ads. Cookies typically remain active on your computer for about 30 days. If you visit certain pages of the RegOnline’s website during that period, Google and the RegOnline will be able to tell that you saw the ad delivered by Google. We only use this type of cookie to see how effective our advertising is on Google’s website and will not link any information stored in the cookies to any personally identifiable information you submit while on our website. 
+
+Some of our business partners (e.g., advertisers, service providers, tracking utility companies) use cookies on our site. We have no access to or control over these cookies. 
+
+This privacy statement covers the use of cookies by this site only and does not cover the use of cookies by any third parties.
 
 **Links to Other Sites**
 
