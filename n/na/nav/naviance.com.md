@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naviance.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215082351id_/http%3A//www.naviance.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naviance.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615162210id_/http%3A//naviance.com/privacy.html) for the most accurate reproduction.*
 
 # Naviance | Manage. Communicate. Analyze. | CONTACT
 
@@ -28,4 +28,4 @@ Clients and users may update or change their information by contacting us, or in
 
 ## Additional Information
 
-For general questions or comments regarding this Privacy Statement, please contact Naviance at [privacy@naviance.com](mailto:privacy@naviance.com) or +1 202.349.2700.
+For general questions or comments regarding this Privacy Statement, please contact Naviance at [privacy@naviance.com](mailto:privacy@naviance.com).
