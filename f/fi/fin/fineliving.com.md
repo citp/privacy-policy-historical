@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fineliving.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213223007id_/http%3A//fineliving.com/fine/about_the_site/article/0%2C1663%2CFINE_1459_974467%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fineliving.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615203107id_/http%3A//fineliving.com/fine/about_the_site/article/0%2C1663%2CFINE_1459_974467%2C00.html) for the most accurate reproduction.*
 
 # About Us : About This Site : Privacy Policy : Fine Living
 
