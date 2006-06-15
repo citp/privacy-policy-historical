@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the powerarchiver.com privacy policy that was archived on 2005-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051211115130id_/http%3A//www.powerarchiver.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the powerarchiver.com privacy policy that was archived on 2006-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615212231id_/http%3A//www.powerarchiver.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>PowerArchiver 2006 - Privacy Policy</title>
@@ -10,6 +10,21 @@
   @import "/include/resources/markup.css";
 </style>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<script type="text/javascript">
+
+function switchToLanguage(lang) {
+	var url = document.location.href;
+	// remove current lang=?? part, if it's there
+	url = url.replace(/lang=../, '');
+	if(!url.match(/\?$/)) url = url + '?';
+	url = url + '&lang=' + lang;
+	url = url.replace(/\?\&/, '?');
+	
+	document.location.href = url;
+}
+
+</script>
 </head>
 
 <body>
@@ -21,89 +36,99 @@
 			<a href="http://www.powerarchiver.com" id="pahome"><i>PowerArchiver Home</i></a>
 		</div>
 		
-		<div class="header_logos">
-			<ul>
-				<li><a href="/download/"><img src="/images/download.gif" width="45" height="46" alt="Download"></a></li>
-				<li><a href="/skins/"><img src="/images/skins.gif" width="45" height="46" alt="Skins"></a></li>
-				<li><a href="/support/"><img src="/images/support.gif" width="45" height="46" alt="Support"></a></li>
-				<li><a href="/forums/"><img src="/images/forums.gif" width="45" height="46" alt="Forums"></a></li>
-				<li><a href="/order/"><img src="/images/pabox.gif" width="45" height="53" alt="Buy Now!"></a></li>
-			</ul>
-		</div>
-	</div>
-	
-	<div class="topbar">
-		
-		<div class="topbar_buttons">
-				<ul>
-					<li><a href="/download/">Download</a></li>
-					<li><a href="/skins/">Skins</a></li>
-					<li><a href="/support/">Support</a></li>
-					<li><a href="/forums/">Forums</a></li>
-					<li><a href="/order/"><span class="buynow">Buy Now!</span></a></li>
-				</ul>
-		</div>
-		
-	</div>
+                <div class="header_logos">
+                        <ul>	
+                                <li><a href="/download/"><img src="/images/download.gif" width="45" height="46" alt="Download"></a></li>
+                                <li><a href="/skins/"><img src="/images/skins.gif" width="45" height="46" alt="Skins"></a></li>
+                                <li><a href="/support/"><img src="/images/support.gif" width="45" height="46" alt="Support"></a></li>
+                                <li><a href="/forums/"><img src="/images/forums.gif" width="45" height="46" alt="Forums"></a></li>
+                                <li><a href="/order/"><img src="/images/pabox.gif" width="45" height="53" alt="Buy Now!"></a></li>
+                        </ul>
+                </div>
+        </div>
 
-	<div class="main">
-		
-	<div class="content">
-		
-		<div class="leftbar">
-			
-			<div class="myaccount">
-				<a href="https://www.conexware.com/shop"><img src="/images/myaccount.gif" width="120" height="29" alt="My Account"></a>
-			</div>
-			
-			<ul>
-				<li><a href="/order/">Order Now</a></li>
-				<li><a href="/pacl/">PACL 4</a></li>
-				<li><a href="/paop/">PA for Outlook</a></li>
-			</ul>
-			
-			<div class="newsbox">
-				<div class="newsbox_text">
-					<h1>Latest News</h1>
-					<p><strong>PowerArchiver 2006 9.51</strong> has been released. Check out the new skins plus ISO support!
-</p>
-					<h2><a href="/news/">More news...</a></h2>
+        <div class="topbar">
+				<div id="language_dropdown">
+					<div id="dropdown_label">
+						View site in: 
+					</div>
+					<form method="GET">
+						<select name="lang"><!-- onchange="switchToLanguage(this.value);"> -->
+							<option value="en" selected="selected">English</option>
+							<option value="de">German</option>
+							<option value="cn">Chinese</option>
+						</select>
+						<input type="submit" value="Go">
+					</form>
 				</div>
-			</div>
-			
-			<ul>
-				<li><a href="/features/">Features</a></li>
-				<li><a href="/history/">What's New</a></li>
-				<li><a href="/screenshots/">Screenshots</a></li>
-				<li><a href="/awards/">Awards</a></li>
-				<li><a href="/translations/">Translations</a></li>
-			</ul>
-			
-			<div class="newsletter">
-				<form method="get" action="http://www.powerarchiver.com/newsletters/">
-				Join the PowerArchiver Release Newsletter
-				<input type="text" name="email" maxlength="100" value="insert your e-mail" onfocus="if(this.value=='insert your e-mail') {this.value='';}" onblur="if(this.value=='') {this.value='insert your e-mail';}">
-				<input type="submit" value="Subscribe!">
-				</form>
-			</div>
 
-			<ul>
-				<li><a href="/newsletters/">Newsletters</a></li>
-				<li><a href="/privacy/">Privacy Policy</a></li>
-				<li><a href="/contact/">Contact Us</a></li>
-			</ul>
+                <div class="topbar_buttons">
+                                <ul>
+                                        <li><a href="/download/">Download</a></li>
+                                        <li><a href="/skins/">Skins</a></li>
+                                        <li><a href="/support/">Support</a></li>
+                                        <li><a href="/forums/">Forums</a></li>
+                                        <li><a href="/order/"><span class="buynow">Buy Now!</span></a></li>
+                                </ul>
+                </div>
+        </div>
 
-			<div class="bbbseal">
-				<a href="http://www.bbbonline.org/cks.asp?id=1050413111234" target="_blank"><img src="/images/bbb_seal.gif" alt="BBB Seal" width="120" height="43"></a>
-			</div>
-			<div class="bbbseal">
-				<a href="http://www.bbbonline.org/cks.asp?id=2051107200162308" target="_blank"><img src="/images/bbb_privacy.gif" width="120" height="43" alt="BBB Privacy Seal"></a>
-			</div>
+        <div class="main">
 
-		</div>
+        <div class="content">
 
-		<div class="rightside">
+                <div class="leftbar">
 
+                        <div class="myaccount">
+                                <a href="https://www.conexware.com/shop?lang=en"><img src="/images/myaccount.gif" width="120" height="29" alt="My Account"></a>
+                        </div>
+
+                        <ul>
+                                <li><a href="/order/">Order Now</a></li>
+                                <li><a href="/pacl/">PACL 4</a></li>
+                                <li><a href="/paop/">PA for Outlook</a></li>
+                        </ul>
+
+                        <div class="newsbox">
+                                <div class="newsbox_text">
+                                        <h1>Latest News</h1>
+                                        <p><strong>PowerArchiver 2006 9.62</strong> is now available with a new skinning engine and better compression!</p>
+                                        <h2><a href="/news/">More news...</a></h2>
+                                </div>
+                        </div>
+
+                        <ul>
+                                <li><a href="/features/">Features</a></li>
+                                <li><a href="/history/">What's New</a></li>
+                                <li><a href="/screenshots/">Screenshots</a></li>
+                                <li><a href="/awards/">Awards</a></li>
+                                <li><a href="/translations/">Translations</a></li>
+                        </ul>
+
+                        <div class="newsletter">
+                                <form method="get" action="http://www.powerarchiver.com/newsletters/">
+                                Join the PowerArchiver Release Newsletter
+                                <input type="text" name="email" maxlength="100" value="insert your e-mail" onfocus="if(this.value=='insert your e-mail') {this.value='';}" onblur="if(this.value=='') {this.value='insert your e-mail';}">
+                                <input type="submit" value="Subscribe!">
+                                </form>
+                        </div>
+
+                        <ul>
+                                <li><a href="/newsletters/">Newsletters</a></li>
+                                <li><a href="/privacy/">Privacy Policy</a></li>
+                                <li><a href="/contact/">Contact Us</a></li>
+                        </ul>
+
+                        <div class="bbbseal">
+                                <a href="http://www.bbbonline.org/cks.asp?id=1050413111234" target="_blank"><img src="/images/bbb_seal.gif" alt="BBB Seal" width="120" height="43"></a>
+                        </div>
+                        <div class="bbbseal">
+                                <a href="http://www.bbbonline.org/cks.asp?id=2051107200162308" target="_blank"><img src="/images/bbb_privacy.gif" width="120" height="43" alt="BBB Privacy Seal"></a>
+                        </div>
+
+                </div>
+
+                <div class="rightside">
 			<div class="default_content">
 		<h1>ConeXware Privacy Policy</h1>
 		<p>We at ConeXware, Inc. are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us.</p>
@@ -156,9 +181,7 @@
 	</div>
 </div>
 </div>
-	<div class="copyright">Copyright © 1998-2005 <a href="/contact/">ConeXware, Inc.</a> All Rights Reserved. <a href="/privacy/">Privacy Policy</a></div>
-
-
+	<div class="copyright">Copyright © 1998-2006 <a href="/contact/">ConeXware, Inc.</a> All Rights Reserved. <a href="/privacy/">Privacy Policy</a></div>
 
 
 </body></html>
