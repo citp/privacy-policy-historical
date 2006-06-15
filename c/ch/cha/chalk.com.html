@@ -1,33 +1,22 @@
-<!--The following is the downloaded HTML source of the chalk.com privacy policy that was archived on 2005-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051222175539id_/http%3A//chalk.com/PrivacyPolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chalk.com privacy policy that was archived on 2006-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615232658id_/http%3A//chalk.com/PrivacyPolicy.asp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-<title>Privacy Policy - Chalk Media</title>
-<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+<title>Privacy Policy - Chalk</title>
+<meta name="description" content="Privacy Policy and guidelines for use of site for Chalk, leading eLearning &amp; LCMS provider in Washington, Vancouver &amp; Toronto"> 
+<meta name="keywords" content="chalk, privacy policy, use of site, guidelines, security">
+
+ <link rel="shortcut icon" href="/favicon.ico">
+ <link rel="icon" href="/favicon.ico">
+
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
 _uacct = "UA-93276-1";
 urchinTracker();
 </script>
-<script language="JavaScript1.2" src="/_include/HM_Loader.js" type="text/javascript"></script><script language="JavaScript1.2" src="/_include/HM_Arrays.js" type="text/javascript"></script><script language="JavaScript1.2" src="/_include/HM_ScriptDOM.js" type="text/javascript"></script>
-<script language="JavaScript" src="/_include/SwapImages.js"></script>
 
-<script language="Javascript">
-	function OpenWin(url, width, height){
-		gSubWindow = open(url, "win", "toolbar=no,location=no,directories=no,status=no,menubar=no,resizable=yes,scrollbars=no,width=" + width + ",height=" + height);
-		gSubWindow.focus();
-	}
-</script>
-
-<script language="Javascript">
-	function OpenWinScroll(url, width, height){
-		gSubWindow = open(url, "win", "toolbar=no,location=no,directories=no,status=no,menubar=no,resizable=yes,scrollbars=yes,width=" + width + ",height=" + height);
-		gSubWindow.focus();
-	}
-</script>
-
-
+<script language="javascript" src="_include/chkSlideOutMenus.js" type="text/javascript"></script>
 
 <script language="Javascript">
 	<!--
@@ -53,297 +42,500 @@ urchinTracker();
 	if (browser_os.indexOf("HP-UX")!=-1) {yourOS='Win'}
 	if (browser_os.indexOf("AIX")!=-1) {yourOS='Win'; }
 
-	//alert (browser_type);
 	if (browser_type == "Microsoft Internet Explorer" && (browser_version >= 4)) {
-	document.write("<link REL='stylesheet' HREF='http://www.chalk.com/_include/" + yourOS + "_ie.css' TYPE='text/css'>");
+	document.write("<link REL='stylesheet' HREF='_include/" + yourOS + "_ie.css' TYPE='text/css'>");
+
+	   	  	 //                          ID       Dir   left top width  height
+      	   	 //                           |        |     |     |   |    |
+      		 //                           V        V      V    V   V    V		
+	var chalkMenu1 = new ypSlideOutMenu("menu1", "down", -17, -3, 153, 300);
+	var chalkMenu2 = new ypSlideOutMenu("menu2", "down", -19, -3, 174, 200);
+	var chalkMenu3 = new ypSlideOutMenu("menu3", "down", -18, -3, 174, 200);
+	var chalkMenu4 = new ypSlideOutMenu("menu4", "down", -9, -3, 138, 120);
+	
+	ypSlideOutMenu.writeCSS();	
+ 
+	function resetNav()
+	{
+	ypSlideOutMenu.hideAll();
+	}
+ 
+	var g_curAtState = "";
+
 	} 
 	else if (browser_type == "Netscape" && (browser_version >= 5)) {
-	document.write("<link REL='stylesheet' HREF='http://www.chalk.com/_include/" + yourOS + "_ns.css' TYPE='text/css'>");
+	document.write("<link REL='stylesheet' HREF='_include/" + yourOS + "_ns.css' TYPE='text/css'>");
+	
+	   	  	 //                          ID       Dir   left top width  height
+      	   	 //                           |        |     |     |   |    |
+      		 //                           V        V      V    V   V    V				
+	var chalkMenu1 = new ypSlideOutMenu("menu1", "down", -18, 0, 153, 310);
+	var chalkMenu2 = new ypSlideOutMenu("menu2", "down", -19, 0, 174, 300);
+	var chalkMenu3 = new ypSlideOutMenu("menu3", "down", -18, 0, 174, 300);
+	var chalkMenu4 = new ypSlideOutMenu("menu4", "down", -9, 0, 138, 120);
+	
+	ypSlideOutMenu.writeCSS();	
+ 
+	function resetNav()
+	{
+	ypSlideOutMenu.hideAll();
+	}
+ 
+	var g_curAtState = "";
+
 	}
 	else {
-	document.write("<link REL='stylesheet' HREF='http://www.chalk.com/_include/" + yourOS + "_old.css' TYPE='text/css'>");
+	document.write("<link REL='stylesheet' HREF='_include/" + yourOS + "_old.css' TYPE='text/css'>");
 	}
 	
 	// -->
-</script><link rel="stylesheet" href="http://www.chalk.com/_include/Win_ns.css" type="text/css">
+</script><link rel="stylesheet" href="_include/Win_ns.css" type="text/css"><style type="text/css">
+#menu1Container { visibility:hidden;  left:-18px; top:0px; overflow:visible; z-index:10000; }#menu1Container, #menu1Content { position:absolute; width:153px; display: block; background:transparent;clip:rect(0 153 310 0); }
+#menu2Container { visibility:hidden;  left:-19px; top:0px; overflow:visible; z-index:10000; }#menu2Container, #menu2Content { position:absolute; width:174px; display: block; background:transparent;clip:rect(0 174 300 0); }
+#menu3Container { visibility:hidden;  left:-18px; top:0px; overflow:visible; z-index:10000; }#menu3Container, #menu3Content { position:absolute; width:174px; display: block; background:transparent;clip:rect(0 174 300 0); }
+#menu4Container { visibility:hidden;  left:-9px; top:0px; overflow:visible; z-index:10000; }#menu4Container, #menu4Content { position:absolute; width:138px; display: block; background:transparent;clip:rect(0 138 120 0); }
+</style>
 
 
+ 
+<script language="JavaScript">
+
+homeMenu = new Image()
+homeMenu.src = "Images/hmpg_menu_Home.gif"
+homeMenu2 = new Image()
+homeMenu2.src = "Images/hmpg_menu_Home_over.gif"
+
+about = new Image()
+about.src = "Images/hmpg_menu_AboutChk.gif"
+about2 = new Image()
+about2.src = "Images/hmpg_menu_AboutChk_over.gif"
+ 
+learn = new Image()
+learn.src = "Images/hmpg_menu_chklearning.gif"
+learn2 = new Image()
+learn2.src = "Images/hmpg_menu_chklearning_over.gif"
+
+lcms = new Image()
+lcms.src = "Images/hmpg_menu_ChkLCMS.gif"
+lcms2 = new Image()
+lcms2.src = "Images/hmpg_menu_ChkLCMS_over.gif"
+
+solution = new Image()
+solution.src = "Images/hmpg_menu_cSolution.gif"
+solution2 = new Image()
+solution2.src = "Images/hmpg_menu_cSolution_over.gif"
+
+howCanHelp = new Image()
+howCanHelp.src = "Images/ab_ck_howcanhelp.gif"
+howCanHelp2 = new Image()
+howCanHelp2.src = "Images/ab_ck_howcanhelp_over.gif"
+
+</script>
 
 
-</head>
+ 
+      <script language="Javascript" type="text/javascript">
+ 
+ 
+function initIframeCovers()
+{
+ 
 
-<body marginwidth="0" marginheight="0" topmargin="0" leftmargin="0" bgcolor="#999999">
-<br>
+		try
+		{
+			var aCalcIframeMenus = ["menu1","menu2","menu3","menu5","menu5_Business","menu5_Entertainment","menu5_Accessories"];
 
+			for(i = 0; i < aCalcIframeMenus.length; i++)
+			{
+				var sTitle = aCalcIframeMenus[i];
 
+				try
+				{
+					///***Menu cover IFRAME
+					var menu_content = getObject(sTitle+ "Content");
+					var ifMenu = getStyleObject("if_" + sTitle);
+					var ifMenuObj = getObject("if_" + sTitle);
+					var tbl_menu_footer_height = 0;
 
+					try
+					{
+						var tbl_menu_footer = getObject("tbl_" + sTitle + "Footer");
+						tbl_menu_footer_height = tbl_menu_footer.offsetHeight;
+					}
+					catch(e){}
 
-<!-- This is table encloses all the table with a gray border. -->
-<table align="center" border="0" cellspacing="0" cellpadding="0" id="Table1">
-	<tbody><tr valign="top">
-		<td class="Outline">
-			<!-- Header logo and holds the flash navigation.-->
-			<table width="748" border="0" cellpadding="0" cellspacing="0" align="center">
-				<tbody><tr>
-					<td width="747" height="100">
-						<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="748" height="100" id="nav" align="" viewastext="">
-							<param name="movie" value="/multimedia/mainNav.swf?SubNav=">
-							<param name="quality" value="high">
-							<embed src="/multimedia/mainNav.swf?SubNav=" quality="high" bgcolor="#FFFFFF" width="748" height="100" name="nav" align="" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
-							
-						</object>
-					</td>
-				</tr>
-			</tbody></table>
-<table width="748" cellpadding="0" cellspacing="0" border="0" align="center">
-<tbody><tr><td bgcolor="white" valign="top">
+					ifMenu.height = menu_content.offsetHeight - tbl_menu_footer_height;
+					var tbl_menu = getObject("tbl_" + sTitle);
 
-<table cellspacing="0" border="0" width="748" height="434">
-				<tbody><tr height="54">
-					<td width="19"><img src="/images/spacer.gif" width="19" height="54"></td>
-					<td valign="top" height="54"><img src="/images/PrivacyPolicy_Title.gif" width="132" height="53"></td>
-				</tr>
-				<tr><td width="19" rowspan="50"><img src="/images/spacer.gif" width="19" height="1"></td>
-<td>
-	<table cellpadding="0" cellspacing="0" border="0" width="700">
-	<tbody><tr>
-	<td class="mediumbodyTextGray" width="100%">
-	<strong>PLEASE READ THESE TERMS AND CONDITIONS CAREFULLY BEFORE USING THIS WEB SITE.</strong><p>
+					ifMenu.width = tbl_menu.offsetWidth;
+					ifMenu.left = tbl_menu.offsetLeft;
 
-	Your use of the Chalk.com web site is expressly conditioned on your acceptance without modification of the following
-	terms and conditions (the "Terms and Conditions"). By using the Chalk.com website, you signify your acceptance of these
-	Terms and Conditions.</p><p>
+				} catch(e){
+ 
+				}
+			}
 
-	<strong>OWNERSHIP</strong>
-	</p><ol>
-
-	<li><strong>Ownership.</strong>  The Chalk.com website, its design, all text, graphics, content, video, audio and the
-	selection and arrangement thereof are the property of Chalk Media Service&nbsp;Corp., and/or its various
-	subsidiaries (collectively "Chalk"), and is protected under the copyright laws of Canada and other countries.
-
-	<p></p></li><li><strong>Trademarks.</strong>  The "Chalk" mark and name and all other "Chalk" related trademarks and design marks
-	displayed on Chalk.com (collectively, the "Trademarks") are registered and common law trademarks owned by Chalk. The
-	trademarks of any third parties are used under a license granted from these third parties. Nothing contained on the
-	Chalk.com website should be construed as granting, by implication or otherwise, any license or right to use any trademarks,
-	including the Trademarks, except with the express written permission of Chalk or such other party that may own the applicable
-	trademarks. </li>
-	</ol>
-
-	<strong>USE OF SITE</strong><p>
-	</p><ol start="3">
-	<p></p><li><strong>Use.</strong>  The Chalk.com website may not, in whole or in part, be copied, reproduced, republished,
-	uploaded, posted, transmitted or distributed without the written permission of Chalk, except that you may download, display
-	and print the materials presented on Chalk.com for your personal, non-commercial use only. Unauthorized use of Chalk.com
-	and/or the materials contained on Chalk.com may violate applicable copyright, trademark or other intellectual property laws
-	or other laws. You must retain all copyright and trademark notices, including any other proprietary notices, contained in
-	the materials. The use of such materials on any other website or in any environment of networked computers is prohibited.
-
-	<p></p></li><li><strong>Prohibited Use.</strong>  While visiting the Chalk.com web site, you may not do any of the following: (i) post,
-	transmit or otherwise distribute information constituting or encouraging conduct that would constitute a criminal offense or
-	give rise to civil liability; (ii) use the Chalk.com website in a manner which is contrary to law or would serve to restrict
-	or inhibit any other user from using or enjoying the Chalk.com website; (iii) post or transmit any information or software
-	which contains a virus, cancelbot, Trojan horse, worm or other harmful or disruptive component; or (iv) upload, post,
-	publish, transmit, reproduce, or distribute in any way information, software or other material obtained through the Chalk.com
-	website which is protected by copyright, or other intellectual property right, or derivative works with respect thereto,
-	without obtaining permission of the copyright owner or rightholder.
-
-	<p></p></li><li><strong>Monitor.</strong>  Chalk has no obligation to monitor the Chalk.com website.  However, you agree that Chalk
-	has the right to monitor the Chalk.com website electronically from to time and to disclose any information as necessary to
-	satisfy any law, regulation or other governmental request, to operate the Chalk.com website properly, or to protect itself
-	or other users.  Chalk.com will not intentionally monitor or disclose any private electronic-mail message unless required
-	by law.  Chalk reserves the right to refuse to post or to remove any information or materials, in whole or in part, that,
-	in its sole discretion, are unacceptable, undesirable, or in violation of this Agreement.
-
-	<p></p></li><li><strong>Privacy.</strong>  Chalk cannot ensure or guarantee privacy for Chalk.com web siteusers.  It is therefore
-	recommended that this service not be used for the transmission of confidential information.  Any such use shall be at the
-	sole risk of the user, and Chalk and its affiliate and related companies shall be relieved of all liability in connection
-	therewith.
-
-	<p></p></li><li><strong>Limitation of Liability.</strong>  Chalk takes no responsibility for the accuracy of or validity of any
-	claims or statements contained in the documents and related graphics, demonstrations or videos on the Chalk.com website.
-	Further, Chalk makes no representations about the suitability of any of the information contained in any documents,
-	graphics or videos on the Chalk.com website.  In no event shall Chalk be liable for any damages whatsoever, including
-	special, indirect or consequential damages, arising out of or in connection with the use or performance of information
-	available on our service.
-
-	<p></p></li><li><strong>Recourse.</strong>  If you are dissatisfied with the Chalk.com website or with any terms, conditions, rules,
-	policies, guidelines or practices of Chalk in operating the Chalk.com website, your sole and exclusive remedy is to
-	discontinue using the Chalk.com website.
-	<p></p></li><li><strong>Confidential Information.</strong> You authorize Chalk to collect and to retain all relevant information
-	relating to your use of the Chalk.com website. You understand and agree that unless you notify Chalk to the contrary by
-	e-mailing us, you further authorize Chalk to disclose, on a confidential basis, to any party with whom Chalk has business
-	relations all relevant information relating to your dealings with us and the Chalk.com website in accordance with our
-	privacy and security statements as set out below.
-	<p></p></li><li><strong>Indemnity.</strong> You agree to defend, indemnify and hold Chalk and its affiliate and related companies
-	harmless from any and all liabilities, costs and expenses, including reasonable attorneys' fees, related to any violation
-	or breach of this Agreement by you or users authorized to use the Chalk.com website on your behalf, or in connection with
-	the use of the Chalk.com website or the Internet or the placement or transmission of any message, information, software or
-	other materials on the Chalk.com website or on the Internet by you or users authorized by you.
-	</li>
-	</ol>
-
-	<strong>PRIVACY AND SECURITY STATEMENT</strong><p>
-	</p><ol start="11">
-	<p></p><li><strong>Privacy statement.</strong>  In order to demonstrate our firm commitment to protecting your privacy, Chalk
-	conducts all of its Internet related operations according to a strict Privacy Policy. The following Privacy and Security
-	Statement sets forth Chalk's policies and guidelines for the collection of your information, its use and dissemination by
-	Chalk.
-
-	<p></p></li><li><strong>Other sites.</strong>  Our site contains links to other sites on the Internet. You may also have accessed
-	this site over a corporate intranet or through another side. Chalk is not responsible for the content or privacy policies
-	and practices of companies maintaining other websites or intranets. If you want to know more about the privacy policies of
-	these other websites or intranets, please refer directly to the organization sponsoring the particular website or intranet
-	in question.</li>
-	</ol>
-	<strong>What Information does Chalk Collect?</strong><p>
-	</p><ol start="13">
-	<p></p><li><strong>General Information.</strong>  Chalk's primary goal in collecting information is to provide you with the
-	best and most useful content and services possible over the Internet.  Chalk only collects information that you provide
-	to us.  For example, when you use certain products or services that we provide or when you visit the Chalk website and
-	view a video players we may collect information about which services or players that you have used.
-
-	<p></p></li><li><strong>Surveys.</strong>  Occasionally, Chalk may conduct voluntary customer surveys to understand consumer
-	opinions about our content and product inventory on the Chalk.com website. We sometimes share the aggregated demographic
-	information in these surveys with our advertisers and partners. Except as noted herein, we never share any information
-	about specific individuals with any third party.
-
-	<p></p></li><li><strong>Contests and sweepstakes.</strong>  From time to time, Chalk offers contests and sweepstakes in which we
-	request certain personal information. These contests and sweepstakes are conducted in full accordance with United States
-	and Canadian federal and state laws. The full rules and all information about such contests are clearly posted during
-	such events. Information gathered is used only to verify user identity and to contact winners and/or prize recipients,
-	except when specifically noted otherwise. Again, we do not share information about specific individuals with any third
-	party, except as noted herein.
-
-	<p></p></li><li><strong>Newsletters.</strong>  Chalk may offer free electronic newsletters or video content to users. In such
-	circumstances, Chalk will gather the e-mail addresses of users who voluntarily subscribe. Customers may remove themselves
-	from any mailing list by following the instructions contained in the newsletter or on the Chalk.com website.
-
-	<p></p></li><li><strong>Usage tracking.</strong>   Chalk tracks user traffic patterns throughout Chalk.com and this information is
-	correlated with data about individual users. Overall usage statistics, according to a user's domain name, browser type
-	and MIME type are developed by reading this information from the browser string (information contained in every user's
-	browser). Chalk also tracks and catalogs the search terms that customers enter into our search tools, but this tracking
-	is never associated with individual users.
-
-	<p></p></li><li><strong>"Cookies".</strong>  In some circumstances Chalk may uses "cookies".  A "cookie" is a small piece of
-	information that a web server can store temporarily with your web browser when you visit a site. The only personal
-	information that a cookie can contain is information that you supply yourself.  A cookie cannot read any data off your
-	hard disk or read cookie files created by any other site. Chalk only uses cookies to remember information that you give
-	us so that you may use our site more effectively.  Cookies also help us to understand which areas of our service are
-	more popular by showing us how our web site is used.  This allows us to continually improve the Chalk.com website.  If
-	you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie.
-	Alternatively, you can refuse cookies by turning them off in your browser.</li>
-	</ol>
-	<strong>How is personal information used?</strong><p>
-	</p><ol start="19">
-	<p></p><li><strong>Any personal information collected may be used to:</strong>
-
-		<ul>
-		<li>To create statistics about Chalk.com that we use to measure our performance or the performance of the services that
-		we offer. These statistics do not contain any information that could identify you personally.  Further, Chalk does not
-		sell your personal information to any organization, for any purpose.
-
-		</li><li>To customize the advertising and content you see on our website.
-
-		</li><li>To enhance the user experience in our network of sites. We use tracking information to determine how well each page
-		performs overall based on aggregate user demographics and traffic patterns to those pages. This helps us continue to build
-		a better service for you.
-
-		</li><li>To fulfill your requests for certain products and services, such as sending out electronic newsletters and enabling
-		users to participate in polls, contests, message boards, and auctions.
-
-		</li><li>To send you information you agreed to receive about topics we think will be of interest to you.
-		</li></ul>
-
-	<p></p></li><li><strong>Controlled Access.</strong>  Strict controls are maintained over access to personal information you share
-	with Chalk. Chalk strictly controls access to your personal information to employees who need this information to serve
-	you or to the employees who analyse our performance to measure and improve Chalk.com. </li>
-	</ol>
-	<strong>Why we collect information?</strong><p>
-	</p><ol start="21">
-	<p></p><li><strong>Goal.</strong>  Chalk's primary goal in collecting personal information is to provide you with the best
-	and most useful content and services.
-	</li></ol>
-	<strong>Miscellaneous</strong><p>
-	</p><ol start="22">
-	<p></p><li><strong>Changes to this Privacy Policy.</strong>  All changes will be posted on Chalk.com promptly to inform
-	visitors of what information is collected, how it is used, and under what circumstances it may be disclosed.
-
-	<p></p></li><li><strong>Entire Agreement/Governing law.</strong>  This Agreement, including any and all documents referenced
-	herein, constitute the entire agreement between Chalk and you pertaining to the subject matter hereof. Chalk's failure
-	to insist upon or enforce strict performance of any provision of this Agreement shall not be construed as a waiver of
-	any provisions or right. If any of the provisions contained in this Agreement be determined to be void, invalid or
-	otherwise unenforceable by a court of competent jurisdiction, such determination shall not affect the remaining
-	provisions contained herein. This Agreement shall be governed by and construed in accordance with the laws of the
-	province of British Columbia and the federal laws of Canada applicable therein.
-	<p></p></li><li><strong>Questions or Comments.</strong>  Chalk welcomes your feedback regarding Chalk.com and/or this policy.
-	If you have any comments or suggestions please contact us by email at hr@chalk.com
-
-	<p><strong>By using the Chalk.com website, you are consenting to the above stated Terms and Conditions of use as well as
-	the collection and use of personal information by Chalk, in accordance with the Privacy and Security Statement.</strong>
-	<br><br>
-	</p></li></ol></td></tr>
-	</tbody></table>
-</td>
+		}
+		catch(e)
+		{
+ 
+		}
+}
+ 
+</script>
+ 
+ </head>
+<body>
+<center>
+<!-- Top Banner Table Starts here -->
+<table cellspacing="0" cellpadding="0" border="0" width="720">
+<tbody><tr><td colspan="3" width="720" height="24" background="Images/hmpg_bannerTop.gif" valign="top" align="right"><a href="ContactUs.asp" class="linkWhite">Contact Us</a></td>
 </tr>
+<tr><td width="56" height="40"><img src="Images/hmpg_bannerLeft.gif" alt="Chalk - eLearning &amp; Interactive Marketing Provider"></td>
+<td width="128" height="40"><a href="http://www.chalk.com"><img src="Images/hmpg_bannerLogo.gif" border="0" alt="Chalk - eLearning &amp; Interactive Marketing Provider"></a></td>
+<td width="536" height="40"><img src="Images/hmpg_bannerRight.gif" alt="Chalk - eLearning &amp; Interactive Marketing Provider"></td>
+</tr>
+<tr><td colspan="3" width="720" height="19" background="Images/hmpg_bannerBottom.gif" alt="Chalk - eLearning &amp; Interactive Marketing Provider"></td></tr>
 </tbody></table>
+<!-- Top Banner Table Ends here -->
+<table cellspacing="0" cellpadding="0" border="0" width="720">
+<tbody><tr>
+<td class="BMr" width="57" height="22">
+		    
+            <table cellspacing="0" cellpadding="0" width="57" height="22" border="0">
+              <tbody>
+              <tr>
+                <td width="57" height="22">
+                 <div class="menuActuator0" id="business_menu0"><a class="mainNavBusiness" id="but_business0" onmouseover="temp_homeMenu.src=homeMenu2.src" onmouseout="temp_homeMenu.src=homeMenu.src" href="http://www.chalk.com"><img border="0" name="temp_homeMenu" width="57" height="22" src="Images/hmpg_menu_Home.gif">
+                  </a>
+                  <div>
+                  <div id="menu1Container0">
+                  <div class="menu0" id="menu1Content0"><iframe class="menu_coverer0" id="if_menu0" style="LEFT: 0px; WIDTH: 57px; POSITION: relative; HEIGHT: 0px" src="about:blank" frameborder="0"></iframe>
+                  
+                   </div></div></div></div>
+                  </td> 
+						
+						
+			</tr></tbody></table>   
+</td>
+  <td width="151" height="22" align="left" valign="middle" class="mainNavLeft"></td>
+  <!-- Menu ABOUT CHALK STARTS HERE -->
+  <td class="BMr" width="114" height="22">
+		    
+            <table cellspacing="0" cellpadding="0" width="114" height="22" border="0">
+              <tbody>
+              <tr>
+                <td width="114" height="22">
+                 <div class="menuActuator" id="business_menu" onmouseover="ypSlideOutMenu.showMenu('menu1')" onmouseout="ypSlideOutMenu.hideMenu('menu1')"><a class="mainNavBusiness " id="but_business" onmouseover="temp_about.src=about2.src" onmouseout="temp_about.src=about.src" onfocus="resetNav(); ypSlideOutMenu.showMenu('menu1');" href="About/WhyChalk.asp"><img border="0" name="temp_about" width="114" height="22" src="Images/hmpg_menu_AboutChk.gif">
+                  </a>
+                  <div>
+                  <div id="menu1Container" style="visibility: hidden;">
+                  <div class="menu" id="menu1Content" style="top: -310px;"><iframe class="menu_coverer" id="if_menu1" style="LEFT: 0px; WIDTH: 150px; POSITION: relative; HEIGHT: 0px" src="about:blank" frameborder="0"></iframe>
+                 
+                  <table id="tbl_menu1" cellspacing="0" cellpadding="0" width="152" border="0">
+				   <tbody><tr>
+				   <td width="1" class="BM"><img src="Images/ab_ck_menu_line.jpg"></td>
+				   <td>
+				  <div id="CWSmenu"><ul>
+		<li><a href="About/WhyChalk.asp" onmouseover="temp_about.src=about2.src" onmouseout="temp_about.src=about.src">Why Chalk</a></li>
+		<li><a href="About/MeetTheTeam.asp" onmouseover="temp_about.src=about2.src" onmouseout="temp_about.src=about.src">Meet the Team</a></li>
+		<li><a href="About/OurClient.asp" onmouseover="temp_about.src=about2.src" onmouseout="temp_about.src=about.src">Our Clients</a></li>
+		<li><a href="About/OurPartners.asp" onmouseover="temp_about.src=about2.src" onmouseout="temp_about.src=about.src">Our Partners</a></li>
+		<li><a href="About/OurFounder.asp" onmouseover="temp_about.src=about2.src" onmouseout="temp_about.src=about.src">Our Founder</a></li>
+		<li><a href="About/NewsEvents.asp" onmouseover="temp_about.src=about2.src" onmouseout="temp_about.src=about.src">News &amp; Events</a></li>
+		<li><a href="About/CorporateFacts.asp" onmouseover="temp_about.src=about2.src" onmouseout="temp_about.src=about.src">Corporate Facts</a></li>
+		<li><a href="About/GvrntExperience.asp" onmouseover="temp_about.src=about2.src" onmouseout="temp_about.src=about.src">Government Experience</a></li>
+		<li><a href="About/InvestorRelations.asp" onmouseover="temp_about.src=about2.src" onmouseout="temp_about.src=about.src">Investor Relations</a></li>
+		<li><a href="About/Careers.asp" onmouseover="temp_about.src=about2.src" onmouseout="temp_about.src=about.src">Careers</a></li>
+		<li><a href="About/CummunityCitizen.asp" onmouseover="temp_about.src=about2.src" onmouseout="temp_about.src=about.src">Community Citizenship</a></li>
+		<li><a href="ContactUs.asp" onmouseover="temp_about.src=about2.src" onmouseout="temp_about.src=about.src">Contact Us</a></li>
+	</ul>
+	</div>				  </td>
+				  <td width="1" class="BM"><img src="Images/ab_ck_menu_line.jpg"></td>
+				  </tr>
+				  <tr><td colspan="3" width="152"><img src="Images/ab_ck_menu_bottom_line.jpg" width="152" onmouseover="temp_about.src=about2.src" onmouseout="temp_about.src=about.src"></td></tr>
+				  </tbody></table>
+                   </div></div></div></div>
+                  </td> 
+						
+						
+			</tr></tbody></table>   
+</td>
+<!-- Menu ABOUT CHALK ENDS HERE -->	
 
+<!-- Menu CHALK LEARNING STARTS HERE -->
+<td width="134" height="22" class="BMr">
+ 
+            <table cellspacing="0" cellpadding="0" width="134" height="0" border="0">
+              <tbody>
+              <tr>
+                <td width="134" height="22" valign="top">
+                  <div class="menuActuator" id="business_menu2" onmouseover="ypSlideOutMenu.showMenu('menu2')" onmouseout="ypSlideOutMenu.hideMenu('menu2')"><a class="mainNavBusiness " id="but_business2" onmouseover="temp_learn.src=learn2.src" onmouseout="temp_learn.src=learn.src" onfocus="resetNav(); ypSlideOutMenu.showMenu('menu2');" href="ChalkLearning/AboutChalkLearning.asp"><img border="0" name="temp_learn" hspace="0" src="Images/hmpg_menu_chklearning.gif">
+                  </a>
+                  <div>
+                  <div id="menu2Container" style="visibility: hidden;">
+                  <div class="menu" id="menu2Content" style="top: -300px;"><iframe class="menu_coverer" id="if_menu2" style="LEFT: 0px; WIDTH: 135px; POSITION: relative; HEIGHT: 0px" src="about:blank" frameborder="0"></iframe>
+                 
+                  <table id="tbl_menu2" cellspacing="0" cellpadding="0" width="170" border="0">
+				   <tbody><tr>
+				   <td width="1" class="BM"><img src="Images/ab_ck_menu_line.jpg"></td>
+				   <td>
+				  <div id="CWSWmenu"><ul>
+		<li><a href="ChalkLearning/AboutChalkLearning.asp" onmouseover="temp_learn.src=learn2.src" onmouseout="temp_learn.src=learn.src">About Chalk Learning</a></li>
+		<li><a href="ChalkLearning/CustomeLearningCourses.asp" onmouseover="temp_learn.src=learn2.src" onmouseout="temp_learn.src=learn.src">Custom eLearning Courses</a></li>
+		<li><a href="ChalkLearning/RichMediaContent.asp" onmouseover="temp_learn.src=learn2.src" onmouseout="temp_learn.src=learn.src">Rich Media Content</a></li>
+		<li><a href="ChalkLearning/ConsultingServices.asp" onmouseover="temp_learn.src=learn2.src" onmouseout="temp_learn.src=learn.src">Consulting Services</a></li>
+		<li><a href="ChalkLearning/ContentPartnerships.asp" onmouseover="temp_learn.src=learn2.src" onmouseout="temp_learn.src=learn.src">Content Partnerships</a></li>
+	</ul>
+	</div>				  </td>
+				  <td width="1" class="BM"><img src="Images/ab_ck_menu_line.jpg"></td>
+				  </tr>
+				  <tr><td colspan="3"><img src="Images/ab_ck_menu_bottom_line_long.jpg"></td></tr>
+				  </tbody></table>
+                   </div></div></div></div>
+                  </td> 
+			</tr></tbody></table>    
+			
+</td>
+<!-- Menu CHALK LEARNING ENDS HERE -->
 
+<!-- Menu CHALKBOARD LCMS STARTS HERE -->
+<td width="135" height="22" class="BMr">
 
-	<!--</td>
-	</tr>
-	</table></td>-->
+            <table cellspacing="0" cellpadding="0" width="135" border="0">
+              <tbody>
+              <tr>
+                <td width="135" height="22" valign="top">
+                  <div class="menuActuator" id="lcms_menu" onmouseover="ypSlideOutMenu.showMenu('menu3')" onmouseout="ypSlideOutMenu.hideMenu('menu3')"><a class="mainNavBusiness " id="but_lcms2" onmouseover="temp_lcms.src=lcms2.src" onmouseout="temp_lcms.src=lcms.src" onfocus="resetNav(); ypSlideOutMenu.showMenu('menu3');" href="chalkboardLCMS/OverView.asp"><img border="0" name="temp_lcms" hspace="0" src="Images/hmpg_menu_ChkLCMS.gif">
+                  </a>
+                  <div>
+                  <div id="menu3Container" style="visibility: hidden;">
+                  <div class="menu" id="menu3Content" style="top: -300px;"><iframe class="menu_coverer" id="if_menu3" style="LEFT: 0px; WIDTH: 135px; POSITION: relative; HEIGHT: 0px" src="about:blank" frameborder="0"></iframe>
+                 
+                  <table id="tbl_menu3" cellspacing="0" cellpadding="0" width="170" border="0">
+				   <tbody><tr>
+				   <td width="1" class="BM"><img src="Images/ab_ck_menu_line.jpg"></td>
+				   <td>
+				  <div id="CWSWmenu"><ul>
+		<li><a href="chalkboardLCMS/OverView.asp" onmouseover="temp_lcms.src=lcms2.src" onmouseout="temp_lcms.src=lcms.src">Overview</a></li>
+		<li><a href="chalkboardLCMS/Advantages.asp" onmouseover="temp_lcms.src=lcms2.src" onmouseout="temp_lcms.src=lcms.src">Advantages</a></li>
+		<li><a href="chalkboardLCMS/AuthoringAdministration.asp" onmouseover="temp_lcms.src=lcms2.src" onmouseout="temp_lcms.src=lcms.src">Authoring &amp; Administration</a></li>
+		<li><a href="chalkboardLCMS/LearningManagement.asp" onmouseover="temp_lcms.src=lcms2.src" onmouseout="temp_lcms.src=lcms.src">Learning Management</a></li>
+		<li><a href="chalkboardLCMS/FAQs.asp" onmouseover="temp_lcms.src=lcms2.src" onmouseout="temp_lcms.src=lcms.src">FAQs</a></li>
+	</ul>
+	</div>				  </td>
+				  <td width="1" class="BM"><img src="Images/ab_ck_menu_line.jpg"></td>
+				  </tr>
+				  <tr><td colspan="3"><img src="Images/ab_ck_menu_bottom_line_long.jpg" onmouseover="temp_lcms.src=lcms2.src" onmouseout="temp_lcms.src=lcms.src"></td></tr>
+				  </tbody></table>
+                   </div></div></div></div>
+                  </td> 
+			</tr></tbody></table>    
 
-			</td>
-		</tr>
-		</tbody></table>
+</td>
+<!-- Menu CHALKBOARD LCMS ENDS HERE -->
 
-<!-- The text in the bottom part of the webpage goes here-->
-			<table width="748" border="0" cellpadding="0" cellspacing="0" align="center" bgcolor="#F04A11">
-				<tbody><tr>
-					<td height="5" colspan="3">
-					</td>
-				</tr>
-				<tr>
-					<td valign="bottom" align=" left" class="FooterLink"><img src="/images/spacer.gif" width="12" alt="" border="0"></td>
-					<td valign="middle" align="center" class="FooterLink" nowrap="">
-						<span class="FooterLink">© Copyright 2005 Chalk Media Service Corp.</span>
-						&nbsp;|&nbsp;
-						<a href="/PrivacyPolicy.asp" class="FooterLink" onmouseover="self.status='Privacy Policy'; return true" onmouseout="self.status=' '; return true">Privacy Policy</a>
-						&nbsp;|&nbsp;
-						<a href="/SiteMap.asp" class="FooterLink">Site Map</a>
-						&nbsp;|&nbsp;
-						<a href="/Company/ContactUs.asp" class="FooterLink">Contact Us</a>
-						&nbsp;|&nbsp;
-					</td>
-					<td valign="bottom" align="right" class="FooterLink" nowrap="">
-						<a href="javascript: void window.open('/misc/OptInPopUp.asp', 'OptIn', 'WIDTH=327,HEIGHT=500');"><img src="/images/btnSubscribe.gif" width="92" height="15" alt="Subscribe" name="subscribe" onmouseover="swapImageSrc(subscribe);" onmouseout="swapImageSrc(subscribe);" border="0"></a>
-						<img src="/images/spacer.gif" width="17" height="5" alt="" border="0">
-					</td>
-				</tr>
-				<tr>
-					<td height="2" colspan="3">
-					</td>
-				</tr>
-			</tbody></table>			
-		</td> <!-- End of the outer table that provides the gray border-->
-		<td height="100%" rowspan="2">
-			<table cellpadding="0" cellspacing="0" border="0" height="100%">
-				<tbody><tr valign="top">
-					<td background="/images/Shell_shadow.gif"><img src="/images/Shell_shadow_top.gif"></td>
-				</tr>
-				<tr valign="bottom">
-					<td background="/images/Shell_shadow.gif"><img src="/images/Shell_shadow_bottom.gif"></td>
-				</tr>				
+<!-- Menu CLIENT SOLUTIONS STARTS HERE -->
+<td width="129" height="22" class="BMr">
+
+            <table cellspacing="0" cellpadding="0" width="129" border="0">
+              <tbody>
+              <tr>
+                <td width="129" height="22" valign="top">
+                  <div class="menuActuator" id="csolution_menu" onmouseover="ypSlideOutMenu.showMenu('menu4')" onmouseout="ypSlideOutMenu.hideMenu('menu4')"><a class="mainNavBusiness " id="but_esolution2" onmouseover="temp_solution.src=solution2.src" onmouseout="temp_solution.src=solution.src" onfocus="resetNav(); ypSlideOutMenu.showMenu('menu4');" href="ClientsSolutions/ClientSolution.asp"><img border="0" name="temp_solution" hspace="0" src="Images/hmpg_menu_cSolution.gif">
+                  </a>
+                  <div>
+                  <div id="menu4Container" style="visibility: hidden;">
+                  <div class="menu" id="menu4Content" style="top: -120px;"><iframe class="menu_coverer" id="if_menu4" style="LEFT: 0px; WIDTH: 135px; POSITION: relative; HEIGHT: 0px" src="about:blank" frameborder="0"></iframe>
+                 
+                  <table id="tbl_menu4" cellspacing="0" cellpadding="0" width="137" border="0">
+				   <tbody><tr>
+				   <td width="1" class="BM"><img src="Images/ab_ck_menu_line.jpg"></td>
+				   <td>
+				  <div id="CWSmenu"><ul>
+		<li><a href="ClientsSolutions/ClientSolution.asp" onmouseover="temp_solution.src=solution2.src" onmouseout="temp_solution.src=solution.src">Sort by Client</a></li>
+		<li><a href="ClientsSolutions/ClientSolution.asp?OrderList=Industry" onmouseover="temp_solution.src=solution2.src" onmouseout="temp_solution.src=solution.src">Sort by Industry</a></li>
+		<li><a href="ClientsSolutions/ClientSolution.asp?OrderList=Solution" onmouseover="temp_solution.src=solution2.src" onmouseout="temp_solution.src=solution.src">Sort by Solution</a></li>
+	</ul>
+	</div>				  </td>
+				  <td width="1" class="BM"><img src="Images/ab_ck_menu_line.jpg"></td>
+				  </tr>
+				  <tr><td colspan="3"><img src="Images/ab_ck_menu_bottom_line.jpg"></td></tr>
+				  </tbody></table>
+                   </div></div></div></div>
+                  </td> 
+			</tr></tbody></table>   
+
+</td>
+<!-- Menu CLIENT SOLUTIONS ENDS HERE -->
+</tr>
+</tbody></table>	
+<!-- MAIN BODY TABLE STARTS HERE -->
+<table width="720" cellspacing="0" cellpadding="0" border="0">
+<tbody><tr><td colspan="2" width="720" height="6" class="BMr"></td></tr>
+<tr><td colspan="2" width="720" valign="top" align="left" bgcolor="ffffff" class="BMr"><img src="Images/privacyPolicy.jpg"></td></tr>
+<tr><td width="200" class="BMr" valign="top">
+	<!-- LEFT SECONDARY NAVIGATION TABLE STARTS HERE -->
+	<table width="200" cellspacing="0" cellpadding="0" class="BMr" border="0">
+	<tbody><tr><td width="200" height="20" colspan="2" align="left" class="BMr"></td></tr>
+	<tr><td colspan="2" align="right" class="BMr"><a href="ContactUs.asp" onmouseover="temp_howCanHelp.src=howCanHelp2.src" onmouseout="temp_howCanHelp.src=howCanHelp.src"><img src="Images/ab_ck_howcanhelp.gif" name="temp_howCanHelp" border="0"></a></td></tr>
+	<tr><td colspan="2" height="10" align="right" class="BMr"></td></tr>
+ 
+	<tr><td colspan="2" align="right" class="BMr">
+		<!-- Subscribe table starts here -->
+	<table width="189" cellpadding="0" cellspacing="0" border="0">
+		<tbody><tr><td colspan="4" width="189"><img src="Images/sub_nl_top.gif" alt="Subscribe to Chalk's newsletter for quarterly updates" width="189"></td></tr>
+		<tr>
+		<td width="9" background="Images/sub_nl_left.gif"></td>
+		<td width="1"></td>
+		<td width="170" background="Images/sub_nl_tbg.gif">
+			<table width="170" height="50" cellpadding="0" cellspacing="0" border="0">
+			<form name="formOptIn" action="misc/OptInPopUp.asp" method="post"></form>
+			<input type="hidden" name="Action" value="OPTIN_SAVE">
+			<input type="hidden" name="Source" value="Subscribe">
+			<tbody><tr>
+			<td width="170" align="left">
+		<input type="text" name="EmailAddress" maxlength="60" value="enter email address here" onfocus="this.value='';" no-repeat="" 3px="" 3px;="" background-color:#ffffff;"="" tabindex="5" class="input_L">
+			</td></tr>
+			<tr>
+			<td width="170" align="right">
+<input type="Image" src="Images/sub_nl_submit.gif" onmouseover="this.src='Images/sub_nl_submit_over.gif'" onmouseout="this.src='Images/sub_nl_submit.gif'" alt="Subscribe to Chalks newsletter for quarterly updates" class="input_D">
+			</td></tr>
+			
 			</tbody></table>
 		</td>
-	</tr>
-	<tr>
-		<td><img src="/images/Shell_09.gif"></td>
-	</tr>
+		<td width="9" background="Images/sub_nl_right.gif"></td>
+		</tr>
+		<tr><td colspan="4" width="189"><img src="Images/sub_nl_bottom.gif" width="189" alt="Subscribe to Chalks newsletter for quarterly updates"></td></tr>
+		<tr>
+		</tr></tbody></table>
+	<!-- Subscribe table ends here -->
+	</td></tr>
+ 
+
+	 <tr><td colspan="2" height="10" align="right" class="BMr"></td></tr>
+
+	 <!-- <tr><td colspan=2 align="left" class="BMr"><img src="../Images/ab_ck_rlinks.jpg" /></td></tr> -->
+ 
+	</tbody></table>
+	
+	<!-- LEFT SECONDARY NAVIGATION TABLE ENDS HERE -->
+</td>
+<td width="520" valign="top" class="BMr">
+	<!-- RIGHT CONTENTS TABLE STARTS HERE -->
+	
+	<!--<TABLE width="520" cellpadding="0" cellpadding="0" border="1">-->
+	<table width="520" cellpadding="0" border="0">
+	<tbody><tr><td width="40"></td>
+	<td width="460" colspan="3" align="left" class="BMr">
+		
+		
+		<table cellpadding="0" cellspacing="0" width="460" border="0">
+		<tbody><tr><td colspan="0" align="left" width="450" height="20"></td></tr>
+		<tr><td colspan="0" align="left" width="450"><span class="contentBody">  
+<p> 
+
+ <b>PLEASE READ THESE TERMS AND CONDITIONS CAREFULLY BEFORE USING THIS WEBSITE. </b>
+</p><p> 
+Your use of the Chalk.com website is expressly conditioned on your acceptance without modification of the following terms and conditions (the "Terms and Conditions"). By using the Chalk.com website, you signify your acceptance of these Terms and Conditions.
+</p><p> 
+ <b>OWNERSHIP </b>
+</p><ol>
+<li> <b>Ownership</b>. The Chalk.com website, its design, all text, graphics, content, video, audio and the selection and arrangement thereof are the property of Chalk Media Service Corp., and/or its various subsidiaries (collectively "Chalk"), and is protected under the copyright laws of Canada and other countries. 
+<p></p></li><li> <b>Trademarks</b>. The "Chalk" mark and name and all other "Chalk" related trademarks and design marks displayed on Chalk.com (collectively, the "Trademarks") are registered and common law trademarks owned by Chalk. The trademarks of any third parties are used under a license granted from these third parties. Nothing contained on the Chalk.com website should be construed as granting, by implication or otherwise, any license or right to use any trademarks, including the Trademarks, except with the express written permission of Chalk or such other party that may own the applicable trademarks. 
+</li></ol> 
+ <b>USE OF SITE</b> 
+<ol start="3"> 
+<li> <b>Use</b>. The Chalk.com website may not, in whole or in part, be copied, reproduced, republished, uploaded, posted, transmitted or distributed without the written permission of Chalk, except that you may download, display and print the materials presented on Chalk.com for your personal, non-commercial use only. Unauthorized use of Chalk.com and/or the materials contained on Chalk.com may violate applicable copyright, trademark or other intellectual property laws or other laws. You must retain all copyright and trademark notices, including any other proprietary notices, contained in the materials. The use of such materials on any other website or in any environment of networked computers is prohibited.
+<p></p></li><li> <b>Prohibited Use</b>. While visiting the Chalk.com website, you may not do any of the following: (i) post, transmit or otherwise distribute information constituting or encouraging conduct that would constitute a criminal offense or give rise to civil liability; (ii) use the Chalk.com website in a manner which is contrary to law or would serve to restrict or inhibit any other user from using or enjoying the Chalk.com website; (iii) post or transmit any information or software which contains a virus, cancelbot, Trojan horse, worm or other harmful or disruptive component; or (iv) upload, post, publish, transmit, reproduce, or distribute in any way information, software or other material obtained through the Chalk.com website which is protected by copyright, or other intellectual property right, or derivative works with respect thereto, without obtaining permission of the copyright owner or rightholder. 
+<p></p></li><li> <b>Monitor</b>. Chalk has no obligation to monitor the Chalk.com website. However, you agree that Chalk has the right to monitor the Chalk.com website electronically from to time and to disclose any information as necessary to satisfy any law, regulation or other governmental request, to operate the Chalk.com website properly, or to protect itself or other users. Chalk.com will not intentionally monitor or disclose any private electronic-mail message unless required by law. Chalk reserves the right to refuse to post or to remove any information or materials, in whole or in part, that, in its sole discretion, are unacceptable, undesirable, or in violation of this Agreement. 
+<p></p></li><li> <b>Privacy</b>. Chalk cannot ensure or guarantee privacy for Chalk.com web siteusers. It is therefore recommended that this service not be used for the transmission of confidential information. Any such use shall be at the sole risk of the user, and Chalk and its affiliate and related companies shall be relieved of all liability in connection therewith. 
+<p></p></li><li>
+<b>Limitation of Liability</b>. Chalk takes no responsibility for the accuracy of or validity of any claims or statements contained in the documents and related graphics, demonstrations or videos on the Chalk.com website. Further, Chalk makes no representations about the suitability of any of the information contained in any documents, graphics or videos on the Chalk.com website. In no event shall Chalk be liable for any damages whatsoever, including special, indirect or consequential damages, arising out of or in connection with the use or performance of information available on our service. 
+<p></p></li><li> 
+<b>Recourse</b>. If you are dissatisfied with the Chalk.com website or with any terms, conditions, rules, policies, guidelines or practices of Chalk in operating the Chalk.com website, your sole and exclusive remedy is to discontinue using the Chalk.com website. 
+<p></p></li><li>
+<b>Confidential Information</b>. You authorize Chalk to collect and to retain all relevant information relating to your use of the Chalk.com website. You understand and agree that unless you notify Chalk to the contrary by emailing us, you further authorize Chalk to disclose, on a confidential basis, to any party with whom Chalk has business relations all relevant information relating to your dealings with us and the Chalk.com website in accordance with our privacy and security statements as set out below. 
+<p></p></li><li>
+<b>Indemnity</b>. You agree to defend, indemnify and hold Chalk and its affiliate and related companies harmless from any and all liabilities, costs and expenses, including reasonable attorneys' fees, related to any violation or breach of this Agreement by you or users authorized to use the Chalk.com website on your behalf, or in connection with the use of the Chalk.com website or the Internet or the placement or transmission of any message, information, software or other materials on the Chalk.com website or on the Internet by you or users authorized by you. 
+</li></ol>
+<b>PRIVACY AND SECURITY STATEMENT</b>
+<ol start="11"> 
+<p></p><li>
+<b>Privacy statement</b>. In order to demonstrate our firm commitment to protecting your privacy, Chalk conducts all of its Internet related operations according to a strict Privacy Policy. The following Privacy and Security Statement sets forth Chalk's policies and guidelines for the collection of your information, its use and dissemination by Chalk. 
+<p></p></li><li> 
+<b>Other sites</b>. Our site contains links to other sites on the Internet. You may also have accessed this site over a corporate intranet or through another side. Chalk is not responsible for the content or privacy policies and practices of companies maintaining other websites or intranets. If you want to know more about the privacy policies of these other websites or intranets, please refer directly to the organization sponsoring the particular website or intranet in question. 
+</li></ol>
+<b>What Information does Chalk Collect?</b>
+<ol start="13"> 
+<li>  
+<b>General Information</b>. Chalk's primary goal in collecting information is to provide you with the best and most useful content and services possible over the Internet. Chalk only collects information that you provide to us. For example, when you use certain products or services that we provide or when you visit the Chalk website and view a video players we may collect information about which services or players that you have used. 
+<p></p></li><li>  
+<b>Surveys</b>. Occasionally, Chalk may conduct voluntary customer surveys to understand consumer opinions about our content and product inventory on the Chalk.com website. We sometimes share the aggregated demographic information in these surveys with our advertisers and partners. Except as noted herein, we never share any information about specific individuals with any third party. 
+<p></p></li><li>
+<b>Contests and sweepstakes</b>. From time to time, Chalk offers contests and sweepstakes in which we request certain personal information. These contests and sweepstakes are conducted in full accordance with United States and Canadian federal and state laws. The full rules and all information about such contests are clearly posted during such events. Information gathered is used only to verify user identity and to contact winners and/or prize recipients, except when specifically noted otherwise. Again, we do not share information about specific individuals with any third party, except as noted herein. 
+<p></p></li><li>
+<b>Newsletters</b>. Chalk may offer free electronic newsletters or video content to users. In such circumstances, Chalk will gather the e-mail addresses of users who voluntarily subscribe. Customers may remove themselves from any mailing list by following the instructions contained in the newsletter or on the Chalk.com website. 
+<p></p></li><li>  
+<b>Usage tracking</b>. Chalk tracks user traffic patterns throughout Chalk.com and this information is correlated with data about individual users. Overall usage statistics, according to a user's domain name, browser type and MIME type are developed by reading this information from the browser string (information contained in every user's browser). Chalk also tracks and catalogs the search terms that customers enter into our search tools, but this tracking is never associated with individual users. 
+<p></p></li><li>
+<b>"Cookies"</b>. In some circumstances Chalk may uses "cookies". A "cookie" is a small piece of information that a web server can store temporarily with your web browser when you visit a site. The only personal information that a cookie can contain is information that you supply yourself. A cookie cannot read any data off your hard disk or read cookie files created by any other site. Chalk only uses cookies to remember information that you give us so that you may use our site more effectively. Cookies also help us to understand which areas of our service are more popular by showing us how our website is used. This allows us to continually improve the Chalk.com website. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. Alternatively, you can refuse cookies by turning them off in your browser. 
+</li></ol>
+<b>How is personal information used?</b>
+<ol start="19"> 
+<li> <b>Any personal information collected may be used to: </b>
+<ul>
+<li> To create statistics about Chalk.com that we use to measure our performance or the performance of the services that we offer. These statistics do not contain any information that could identify you personally. Further, Chalk does not sell your personal information to any organization, for any purpose. 
+</li><li> To customize the advertising and content you see on our website. 
+</li><li> To enhance the user experience in our network of sites. We use tracking information to determine how well each page performs overall based on aggregate user demographics and traffic patterns to those pages. This helps us continue to build a better service for you. 
+</li><li> To fulfill your requests for certain products and services, such as sending out electronic newsletters and enabling users to participate in polls, contests, message boards, and auctions. 
+</li><li> To send you information you agreed to receive about topics we think will be of interest to you. 
+</li></ul>
+</li><li> 
+<b>Controlled Access</b>. Strict controls are maintained over access to personal information you share with Chalk. Chalk strictly controls access to your personal information to em
+ployees who need this information to serve you or to the employees who analyse our performance to measure and improve Chalk.com. 
+</li></ol>
+<b>Why do we collect information?</b>
+<ol start="21"> 
+<li> <b>Goal</b>. Chalk's primary goal in collecting personal information is to provide you with the best and most useful content and services. 
+</li></ol>
+<b>Miscellaneous</b>
+<ol start="22"> 
+<li> 
+<b>Changes to this Privacy Policy</b>. All changes will be posted on Chalk.com promptly to inform visitors of what information is collected, how it is used, and under what circumstances it may be disclosed. 
+</li><li>
+<b>Entire Agreement/Governing law</b>. This Agreement, including any and all documents referenced herein, constitute the entire agreement between Chalk and you pertaining to the subject matter hereof. Chalk's failure to insist upon or enforce strict performance of any provision of this Agreement shall not be construed as a waiver of any provisions or right. If any of the provisions contained in this Agreement be determined to be void, invalid or otherwise unenforceable by a court of competent jurisdiction, such determination shall not affect the remaining provisions contained herein. This Agreement shall be governed by and construed in accordance with the laws of the province of British Columbia and the federal laws of Canada applicable therein. 
+</li><li>  
+<b>Questions or Comments</b>. Chalk welcomes your feedback regarding Chalk.com and/or this policy. If you have any comments or suggestions please contact us by email at <a href="mailto:hr@chalk.com" class="linkOrangeHome">hr@chalk.com</a> 
+<b>By using the Chalk.com website, you are consenting to the above stated Terms and Conditions of use as well as the collection and use of personal information by Chalk, in accordance with the Privacy and Security Statement. </b>
+
+</li></ol>
+ 
+ 
+<p>
+		</p></span></td></tr>
+		</tbody></table>
+		 
+		 
+		
+	</td>
+	<td width="20"></td></tr>
+	</tbody></table>
+	<!-- RIGHT CONTENTS TABLE ENDS HERE -->
+	
+</td>
+</tr>
+<!-- Bottom Copyright, Site map, Contact -->
+<tr><td colspan="2" class="BMf" width="720" height="23" align="right">
+	<table width="720" cellpadding="0" cellspacing="0">
+	<tbody><tr><td width="400" align="left"><span class="about_CopyRight">&nbsp;&nbsp;&nbsp;&nbsp;© Copyright 2006 Chalk Media Corp.</span></td>
+	<td width="320" align="right"><span class="about_CopyRight"> <a href="PrivacyPolicy.asp" class="linkCopyRight">Privacy Policy</a> | <a href="SiteMap.asp" class="linkCopyRight">Site Map</a> | <a href="ContactUs.asp" class="linkCopyRight">Contact Us</a> &nbsp;&nbsp;&nbsp;</span></td></tr>
+	</tbody></table>
+	
+	</td></tr>
 </tbody></table>
-<br>
-<br>
 
-
-
-</body></html>
+<!-- MAIN BODY TABLE ENDS HERE -->
+</center>
+ 
+ </body></html>
