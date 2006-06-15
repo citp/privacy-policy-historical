@@ -1,7 +1,9 @@
-> *The following text is extracted and transformed from the nus.edu.sg privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603123933id_/http%3A//nus.edu.sg/corporate/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nus.edu.sg privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615215307id_/http%3A//nus.edu.sg/corporate/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement: NUS
 
+|  |  |  |  |  |  |  |   
+---|---|---|---|---|---|---  
   |  |  |  |  | 
 
 Privacy Statement
@@ -21,4 +23,331 @@ National University of Singapore Privacy Statement
   11. The current version of this privacy statement can be found at <http://www.nus.edu.sg/corporate/privacy.htm>.  
 
 
-|  
+
+
+back to top
+
+|    
+|  |   
+|  |   
+|   
+  
+About NUS
+
+Campus Map
+
+Job Opportunities
+
+NUS Identity
+
+NUS Structure
+
+Publications
+
+NUS Vision
+
+NUS Mission
+
+Facts and Figures
+
+Milestones
+
+Act, Constitution, Statutes & Regulations
+
+NUS Memorabilia
+
+NUS Council
+
+University Administration
+
+Faculties and Schools
+
+Research Centres/Institutes
+
+Affiliated Organisations
+
+Annual Reports
+
+Breakthrough
+
+Knowledge Enterprise
+
+Newshub
+
+NUS Video
+
+The AlumNUS
+
+Global Alumni
+
+Global Networking
+
+Global Partnerships
+
+Overseas Colleges
+
+Related Offices
+
+Student Exchange Programme
+
+APRU
+
+Asean University Network
+
+Universitas 21
+
+U21 Summer School and Symposium
+
+in Research and Teaching
+
+for Graduate Studies
+
+Silicon Valley
+
+Bio Valley
+
+Shanghai
+
+International Relations
+
+NUS Enterprise
+
+NUS Overseas Colleges
+
+APRU Secretariat
+
+for NUS students
+
+for overseas students
+
+Academic Calendar
+
+Faculties and Schools
+
+Global Education
+
+Graduate Studies
+
+Language and Communication
+
+NUS Learning Environment
+
+Undergraduate Studies
+
+Student Exchange Programme
+
+For Overseas Students
+
+NUS College in Silicon Valley
+
+NUS College in Bio Valley
+
+NUS College in Shanghai
+
+Centre for English Language Communication
+
+Promotion of Standard English
+
+Ctr for Dev of Teaching & Learning
+
+Ctr for Instructional Technology
+
+NUS Library
+
+NUS Extension
+
+Online Learning (IVLE)
+
+Self-Access English Learning Facility
+
+University Requirements
+
+General Education
+
+Singapore Studies
+
+Research Centres and Institutes
+
+Research Gallery
+
+Research Annual
+
+NUS-affiliated National-level
+
+University-level
+
+Faculty-level
+
+Enterprise Cluster
+
+Related Organisations
+
+NUS Enterprise
+
+NUS Consulting
+
+NUS Entrepreneurship Centre
+
+NUS Extension
+
+NUS INTRO
+
+NUS Overseas Colleges
+
+NUS Publishing
+
+NUS Venture Support
+
+U21 Summer School and Symposium
+
+NUS Entrepreneur's Association
+
+NUS Entrepreneurship Society
+
+Arts and Culture
+
+Accommodation
+
+On Campus
+
+Transportation
+
+Student Activities
+
+NUS Communities
+
+Centre for the Arts
+
+NUS Museums
+
+University Cultural Centre
+
+Yong Siew Toh Conservatory
+
+Guest Rooms
+
+Student Accommodation
+
+Visitors' Lodge
+
+Co-operatives
+
+Dining
+
+Health and Wellness
+
+Security
+
+Sports and Recreation
+
+Internal Shuttle Bus
+
+Parking in NUS
+
+Clubs and Societies
+
+NUS Student Union
+
+AlumNet
+
+Campus Green Committee
+
+Clubs and Societies
+
+Halls of Residences Web
+
+NUS Students' Union
+
+NUS Staff Club
+
+Campus Networking
+
+IT Resources
+
+Student Support
+
+Teaching & Learning
+
+Dial-up Access
+
+Global Roaming Services
+
+NUSNET IV
+
+Virtual Private Network (VPN)
+
+Wireless Computing (WinZone)
+
+IT Security
+
+Multimedia Development Labs
+
+Network TV
+
+Webcasting
+
+Notebook & PDA Purchases
+
+Supercomputing
+
+Video Conferencing
+
+NUS IT Care
+
+Careers and Employment
+
+International Student Services
+
+Guidance & Counselling
+
+PC Clusters
+
+Student Affairs
+
+Courseware Development
+
+Ctr for Dev of Teaching & Learning
+
+Ctr for Instructional Technology
+
+English Language and Comms
+
+Integrated Virtual Learning
+
+NUS Learning Portal
+
+NUS Libraries
+
+NUS Extension
+
+NUS Teaching Facilities
+
+NUS Publishing
+
+Promotion of Standard English
+
+Self-Access English Learning Facility
+
+Academic Calendar
+
+Course and Programmes
+
+For Overseas Students
+
+Graduate Studies
+
+Undergraduate Admissions
+
+Student Exchange Programme
+
+Undergraduate Admission
+
+Courses
+
+Financial Aid
+
+How to Apply
+
+Scholarships
+
+Application status enquiry
