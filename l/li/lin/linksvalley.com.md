@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linksvalley.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222073641id_/http%3A//linksvalley.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linksvalley.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615030011id_/http%3A//linksvalley.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # 
 
