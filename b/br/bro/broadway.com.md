@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadway.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210104009id_/http%3A//www.broadway.com/gen/general.aspx%3Fci%3D500727) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadway.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615020346id_/http%3A//www.broadway.com/gen/general.aspx%3Fci%3D500727) for the most accurate reproduction.*
 
 # Broadway.com: New York & London Theater Tickets, News, Interviews, Broadway Show Information, Photos & Video, Musicals & Plays
 
@@ -32,7 +32,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-1.Users can send email to [feedback@broadway.com ](mailto:feedback@broadway.com)  
+1.Users can send email to [info@broadway.com ](mailto:info@broadway.com)  
 2.Users can send mail to the following postal address:   
 1650 Broadway, Ninth Floor, New York , NY 10019   
 3.Users can call the following telephone numbers: (212) 541-8457 
@@ -44,7 +44,7 @@ This site gives users the following options for removing their information from 
 **Correct/Update**
 
 This site gives users the following options for changing and modifying information previously provided.   
-1.Users can email [feedback@broadway.com ](mailto:feedback@broadway.com)  
+1.Users can email [info@broadway.com](mailto:info@broadway.com)  
 2.Users can send mail to the following postal address:   
 1650 Broadway, Ninth Floor, New York, NY 10019   
 3.Users can call the following telephone numbers: (212) 541-8457   
@@ -59,4 +59,4 @@ Broadway.com, Inc.
 1650 Broadway   
 Ninth Floor   
 New York, NY 10019   
-or email us at [feedback@broadway.com ](mailto:feedback@broadway.com)
+or email us at [info@broadway.com](mailto:info@broadway.com)
