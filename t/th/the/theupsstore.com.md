@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theupsstore.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212130839id_/http%3A//www.theupsstore.com/pripol.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theupsstore.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615031352id_/http%3A//theupsstore.com/pripol.html) for the most accurate reproduction.*
 
 # The UPS Store: Privacy Policy
 
@@ -70,7 +70,7 @@ Mail Boxes Etc.
 Attention: Legal Editor  
 6060 Cornerstone Ct. West, Dept. 800  
 San Diego, CA 92121-3795  
-(888) 346-3623 in USA  
+(800) 789-4623 in USA  
 (858) 455-8800  
 [editor@mbe.com](mailto:editor@mbe.com)
 
