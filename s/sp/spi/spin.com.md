@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the spin.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218142117id_/http%3A//www.spin.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spin.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615043352id_/http%3A//www.spin.com/about/privacy) for the most accurate reproduction.*
 
 # SPIN.com: Privacy Policy
 
-The policies below are applicable to the Authors of this site which include Vibe/Spin Ventures, LLC, and other sites on the World Wide Web portion of the Internet.
+The policies below are applicable to the Authors of this site which include Spin Media, LLC, and other sites on the World Wide Web portion of the Internet.
 
 We respect your privacy. Any information you give us is held with the utmost care and security and is only used in the ways that are described in this policy.
 
