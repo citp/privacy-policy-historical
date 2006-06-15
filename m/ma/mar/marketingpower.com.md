@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingpower.com privacy policy that was archived on 2005-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051124114105id_/http%3A//www.marketingpower.com/content4740.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingpower.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615185627id_/http%3A//www.marketingpower.com/content4740.php) for the most accurate reproduction.*
 
 # Privacy Policy - American Marketing Association - www.marketingpower.com
 
@@ -112,9 +112,3 @@ You may opt-out of receiving communications from the AMA, and MarketingPower,  
 Updating Your User Profile**
 
 The AMA and MarketingPower allow users the ability to correct or update online information previously provided by the users. Unfortunately, to the extent that such information is also stored in other databases, we cannot always ensure that such corrections or deletions will reach the other databases. We will use all reasonable efforts to ensure that your information is removed from or corrected in our records. 
-
-**  
-Contact Us**
-
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, you can contact us at [info@marketingpower.com](mailto:info@marketingpower.com) or call (312) 542-9070 and speak to a site representative.   
-
