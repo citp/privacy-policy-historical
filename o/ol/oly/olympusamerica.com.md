@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the olympusamerica.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218213302id_/http%3A//www.olympusamerica.com/oai_privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olympusamerica.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615025807id_/http%3A//www.olympusamerica.com/oai_privacypolicy.asp) for the most accurate reproduction.*
 
 # 
 
@@ -26,6 +26,6 @@ When you submit personal information to us, you also may choose to be notified b
 **Disclosure policy**  
 Information collected at OLYMPUSAMERICA.COM will not be sold, rented, lent or otherwise disclosed to anyone other than to Olympus' retailers (for purposes of a product sale initiated by the customer), Olympus' affiliated companies - which include Olympus Corporation (Olympus' parent company) - and direct and indirect subsidiaries of Olympus Corporation and/or Olympus. Any personal information you may choose to give us is used only to fulfill the service you have requested, such as ordering a document or subscribing to a mailing list. 
 
-If you have any questions that are not answered here, please don't hesitate to [_ask us directly_](https://web.archive.org/cpg_section/cpg_webmasterfeedback.asp?ftype=11) or refer to our [_Terms of Use_](https://web.archive.org/cpg_section/cpg_termsofuse.asp). ****
+If you have any questions that are not answered here, please don't hesitate to [_ask us directly_](https://web.archive.org/oai_contactus.asp) or refer to our [_Terms of Use_](https://web.archive.org/cpg_section/cpg_termsofuse.asp). ****
 
 *** * ***
