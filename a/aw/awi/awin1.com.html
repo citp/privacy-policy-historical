@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the awin1.com privacy policy that was archived on 2005-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051215135315id_/http%3A//www.affiliatewindow.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the awin1.com privacy policy that was archived on 2006-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615203903id_/http%3A//www.affiliatewindow.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 	<title>Affiliate Network - Affiliate Window Ltd</title>
@@ -12,6 +12,241 @@ var productsEnabled;
 productsEnabled = ""
 </script>
 <script language="javascript" type="text/javascript">
+
+
+//Clear categories multiselect
+function DeselectAllList(CONTROL)
+{
+	for(var i = 0;i < CONTROL.length;i++)
+	{
+		CONTROL.options[i].selected = false;
+	}
+}
+
+
+
+function unselectCategories(flag)
+{
+	for (var i = 0; i<document.getElementById('categories[]').length; i++)
+	{
+		if 	(document.getElementById('categories[]').options[i].selected)
+		{
+			document.getElementById('categories[]').options[i].selected=false;
+		}
+		if (flag=='select')
+		{
+			document.getElementById('categories[]').options[i].selected=true;
+		}
+	}
+
+}
+
+
+
+function unselectMerchants(flag)
+{
+	for (var i = 0; i<document.getElementById('merchants[]').length; i++)
+	{
+		if 	(document.getElementById('merchants[]').options[i].selected)
+		{
+			document.getElementById('merchants[]').options[i].selected=false;
+		}
+		if (flag=='select')
+		{
+			document.getElementById('merchants[]').options[i].selected=true;
+		}
+	}
+
+}
+
+
+
+
+
+//Used by affiliate report pages via print preview pages.
+function printPage()
+{
+    document.getElementById('print').style.visibility = 'hidden';
+    // Do print the page
+    if (typeof(window.print) != 'undefined') {
+        window.print();
+    }
+    document.getElementById('print').style.visibility = '';
+}
+
+
+/**
+ *	Accepts a TR (row) as input, script then changes the color of it's TDs (cells)
+ *	depending on the action that called the function.
+ *	The colors are taken from the relevant CSS styles
+ */
+function colorRow(theRow, action)
+{
+	var td1= 'reportdata';
+	var td1h= 'reportdatahover';
+	var td1hs= 'reportdatahighlight';
+	
+	var td2= 'reportdataconfirmed';
+	var td2h= 'reportdataconfirmedhover';
+	var td2hs= 'reportdataconfirmedhighlight';
+	
+	var td3= 'reportdatapending';
+	var td3h= 'reportdatapendinghover';
+	var td3hs= 'reportdatapendinghighlight';
+	
+	var td4= 'reportdatadecline';
+	var td4h= 'reportdatadeclinehover';
+	var td4hs= 'reportdatadeclinehighlight';
+	
+	var td5= 'reportdatatotal';
+	var td5h= 'reportdatatotalhover';
+	var td5hs= 'reportdatatotalhighlight';	
+
+
+	
+		if (typeof(document.getElementsByTagName) != 'undefined') 
+		{
+        theCells = theRow.getElementsByTagName('td');
+    }
+    else if (typeof(theRow.cells) != 'undefined') 
+    {
+       theCells = theRow.cells;
+    }
+    else 
+    {
+			return false;
+    }
+	
+	cellsCnt= theCells.length;
+	
+	orgClassName= theCells[0].className;
+	
+	// mouseOver
+	if ( action=='in' && orgClassName!= td1hs && orgClassName!= td2hs && orgClassName!= td3hs && orgClassName!= td4hs && orgClassName!= td5hs) // mouseOver
+	{	
+		
+		for (i= 0; i< cellsCnt; i++) 
+		{		
+			orgClassName= theCells[i].className;
+			
+			if(orgClassName== td1)
+			{
+				hClass= td1h;
+			}
+			else if(orgClassName== td2)
+			{
+				hClass= td2h;
+			}
+			else if(orgClassName== td3)
+			{
+				hClass= td3h;
+			}
+			else if(orgClassName== td4)
+			{
+				hClass= td4h;
+			}
+			else if(orgClassName== td5)
+			{
+				hClass= td5h;
+			}
+									
+			theCells[i].className= hClass;	
+		}
+	}
+	// mouseOut
+	else if ( action=='out' && orgClassName!= td1hs && orgClassName!= td2hs && orgClassName!= td3hs && orgClassName!= td4hs && orgClassName!= td5hs && orgClassName!= td1 && orgClassName!= td2 && orgClassName!= td3 && orgClassName!= td4 && orgClassName!= td5 )
+	{
+		for (i= 0; i< cellsCnt; i++) 
+		{
+			orgClassName= theCells[i].className;
+			
+			if(orgClassName== td1h)
+			{
+				hClass= td1;
+			}
+			else if(orgClassName== td2h)
+			{
+				hClass= td2;
+			}
+			else if(orgClassName== td3h)
+			{
+				hClass= td3;
+			}
+
+			else if(orgClassName== td4h)
+			{
+				hClass= td4;
+			}
+
+			else if(orgClassName== td5h)
+			{
+				hClass= td5;
+			}			
+		
+			theCells[i].className= hClass;
+		}	
+	}
+	// onClick
+	else if (action=='click') 
+	{
+		
+		for (i= 0; i< cellsCnt; i++)
+		{
+			orgClassName= theCells[i].className;
+			
+			// select
+			if(orgClassName== td1 || orgClassName== td1h)
+			{
+				hClass= td1hs;
+			}
+			else if(orgClassName== td2 || orgClassName== td2h)
+			{
+				hClass= td2hs;
+			}
+			else if(orgClassName== td3 || orgClassName== td3h)
+			{
+				hClass= td3hs;
+			}
+			else if(orgClassName== td4 || orgClassName== td4h)
+			{
+				hClass= td4hs;
+			}
+			else if(orgClassName== td5 || orgClassName== td5h)
+			{
+				hClass= td5hs;
+			}
+
+			
+			// unselect
+			if(orgClassName== td1hs)
+			{
+				hClass= td1;
+			}
+			else if(orgClassName== td2hs)
+			{
+				hClass= td2;
+			}
+			else if(orgClassName== td3hs)
+			{
+				hClass= td3;
+			}
+			else if(orgClassName== td4hs)
+			{
+				hClass= td4;
+			}			
+			else if(orgClassName== td5hs)
+			{
+				hClass= td5;
+			}
+			theCells[i].className= hClass;
+		}
+		
+	}
+	
+} // end colorRow()
+
+
+
 var copytoclip=1
 var _T="locked";
 var _F="unlocked";
@@ -98,103 +333,164 @@ function loadset(numval)
 		}
 	}
 }
+
+
+function highlightPage() {
+  if (!document.getElementsByTagName) return false;
+  if (!document.getElementById) return false;
+  if (!document.getElementById("mainmenu")) return false;
+  var nav = document.getElementById("mainmenu");
+  var links = nav.getElementsByTagName("a");
+  for (var i=0; i<links.length; i++) {
+    var linkurl = links[i].getAttribute("href");
+    var currenturl = window.location.href;
+    if (currenturl.indexOf(linkurl) != -1) {
+      links[i].className = "currentPage";
+    }
+  }
+}
+
+window.onload =highlightPage;
+
 </script><style type="text/css">.plain {height:20px; border:1px solid gray; font:9pt arial; text-align:center;  vertical-align:middle;}.vbtn {height:20px; width:18px; font:bold 10pt arial; border:2px solid silver;  vertical-align:middle;}.vsel {height:18px; width:60px; border:1px solid gray; font:9pt arial; text-align:center; vertical-align:middle;}</style>
+<script language="JavaScript">
+var toggle=0;
+function showGlobal(lname,showMyNum,hideMyNum) 
+{
+	var name;	
+	var incnum=0;
+	for(var ii=showMyNum,incnum=0; ii>0; ii--,incnum++) 
+	{
+		if(lname=="")
+		{
+		  name = "show"+ii;
+		}
+		else
+		{
+		  name = "show"+(lname+incnum);
+		}
+		//alert(name);
+		myObject = findObj(name);
+		if(myObject)
+		{
+			if(toggle ==0) myObject.style.display = '';
+			else  myObject.style.display = 'none';
+		}
+	}
+	for(var ii=hideMyNum,incnum=0; ii>0; ii--,incnum++) 
+	{
+		if(lname=="")
+		{
+		  name = "hide"+ii;
+		}
+		else
+		{
+		  name = "hide"+(lname+incnum);
+		}
+		
+		//alert(name);
+		myObject = findObj(name);
+		if(myObject)
+		{
+			if(toggle == 0) myObject.style.display = 'none';
+			else  myObject.style.display = '';
+		}
+	}
+	if(toggle == 0) toggle=1;
+	else toggle=0;
+}
 
-<link rel="stylesheet" href="/awin_styles.css" type="text/css">
+</script>
+<link rel="stylesheet" href="/css/brochure.css" type="text/css">
 </head>
-<body bgcolor="#ffffff" style="background: url(/images/affiliate_window_stripes_bckgrd.gif) repeat-x; background-color: #FFFFFF;" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0">
-<!-- start main header -->
-	<table width="760" height="76" border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr>
-			<td width="196" height="59" bgcolor="#FFFFFF"><a href="/"><img src="/images/affiliate_window_logo.gif" alt="Affiliate Network - Affiliate Window Ltd" width="196" height="59" border="0"></a></td>
-			<td width="344" height="59" bgcolor="#FFFFFF"><img src="/images/affiliate_window_stripes01.gif" alt="Affiliate Network - Affiliate Window Ltd" width="344" height="59" border="0"></td>
-			<td width="220" height="59"><img src="/images/pixel.gif" width="220" height="59" border="0"></td>
-		</tr>
-		<tr>
-			<td width="196" height="17"><img src="/images/affiliate_window_stripes02.gif" alt="Affiliate Network - Affiliate Window Ltd" width="196" height="17" border="0"></td>
-			<td width="344" height="17"><img src="/images/affiliate_window_stripes03.gif" alt="Affiliate Network - Affiliate Window Ltd" width="344" height="17" border="0"></td>
-			<td width="220" height="17"><img src="/images/pixel.gif" width="220" height="17" border="0"></td>
-		</tr>
-	</tbody></table>
-<!-- end main header --><!-- start panel-->
-	<table width="760" height="10" border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr>
-			<td width="391" height="10" align="center" rowspan="2" colspan"2"="" bgcolor="#ffffff"><img src="images/pixel.gif" height="10" width="391" border="0"></td>
-			<td width="60" height="30" bgcolor="#FFFFFF"><img src="images/affiliate_window_stripes04.gif" alt="Affiliate Network - Affiliate Window Ltd" width="60" height="30" border="0"></td>
-			<td width="309" height="30" align="right" class="text333333"><b><a href="/" class="text333333">Home</a>&nbsp;|&nbsp;<a href="/services.php" class="text333333">Services</a>&nbsp;|&nbsp;<a href="/our_merchants.php" class="text333333">Our merchants</a>&nbsp;|&nbsp;<a href="/about_us.php" class="text333333">About us</a>&nbsp;|&nbsp;<a href="/contact_us.php" class="text333333">Contact</a></b></td>
-		</tr>
-	</tbody></table>
-<!-- end panel-->
-<!-- start content -->
-<table width="100%" border="0" cellspacing="0" cellpadding="0">		
-		<tbody><tr>
-			<td width="10" height="1"><img src="images/pixel.gif" height="10" width="10" border="0"></td>
-			<td width="750" height="1"><img src="images/arrow_000.gif" alt="Solutions" width="4" height="7" border="0">&nbsp;<a href="/">Home</a>&nbsp;|&nbsp;<b>Privacy</b></td>
-			<td width="100%" height="1"><img src="images/pixel.gif" height="10" width="1" border="0"></td>
-		</tr>
-		<tr>
-			<td width="10" height="1"><img src="images/pixel.gif" height="10" width="10" border="0"></td>
-			<td width="750" height="1"><img src="images/pixel.gif" height="10" width="750" border="0"></td>
-			<td width="100%" height="1"><img src="images/pixel.gif" height="10" width="1" border="0"></td>
-		</tr>
-		<tr>
-			<td width="10" height="1"><img src="images/pixel.gif" height="1" width="10" border="0"></td>
-			<td width="750" height="1" valign="top"><b>Privacy on this site</b><br>
-			<br><b>What personally identifiable information is collected on this site?</b><br>
-			Visitors may supply personally identifiable information (such as name, address or telephone numbers) for various purposes on this site. These purposes include registering to receive e-mail newsletters, requesting further information about our products, or simply asking a question about Affiliate Window. Affiliate Window does not collect personal information from you unless you provide it to us. This means that you can visit our site without telling us who you are or revealing any personally identifiable information about yourself.<br><br>
-			<b>How is it used?</b><br>
-			When you supply information about yourself for a specific purpose, we use the information for only that purpose (such as to provide the service or information you have requested). For example, you may be asked to give us individual information to receive information, manage online services, or apply for a job.<br><br>
-			Should any material changes be made to the ways in which we use personally identifiable information, Affiliate Window will take commercially reasonable measures to obtain e-mail consent from you. We will also post the changes to our use of personally identifiable information on our site at least 30 days prior to a change.<br><br>
-			<b>Security</b><br>
-			Personally identifiable information is stored on our Web server and is not publicly accessible. Further, personally identifiable information is only accessed by Affiliate Window employees on a "need to know" basis. All Affiliate Window employees must go through privacy training upon starting with Affiliate Window. Affiliate Window meets or exceeds all industry standards for the protection of personally identifiable information.<br><br>
-			<b>Choice/Opt-out</b><br>
-			If you have registered to receive e-mail communications from us and later change your mind, you may contact us to have your name removed from our distribution lists. You have the following options to do this:<br>
-			<img src="/images/privacy_email.gif" width="550" height="12" border="0" <br=""><br><br>    
-			You can send mail to the following address:<br>
-			Affiliate Window Ltd<br>279 - 283 Greenwich High Road<br>London<br>SE10 8NL<br>United Kingdom<br><br>
-			<b>Correct/Update</b><br>
-			If you would like to verify the data we have received from you or to make corrections to it, you may contact us directly at the e-mail and mail addresses provided above.<br><br>
-			<b>What anonymous information is collected on this site?</b><br>
-			Anonymous numeric information is collected for every visitor to this site. This includes pages viewed, date and time, and browser type. IP numbers are not stored, but are temporarily used to determine domain type and in some cases, geographic region. We do not make any association between this information and a visitor's identity.<br><br>
-			<b>How is it used?</b><br>
-			The information is used by Affiliate Window to build anonymous behavioral profiles, which are written to the Affiliate Window database -- securely housed at the Affiliate Window data centre. These profiles are accessed by Affiliate Window-enabled Web sites to offer you personalized content and promotions, and to target relevant, more interesting ads -- all without knowing your identity. Again, there is no association between an Affiliate Window profile and a visitor's identity.<br><br>
-			<b>How does this site use cookies?</b><br>
-			Affiliate Window uses cookies to identify your browser as you visit pages on the Affiliate Window site or sites in the Affiliate Window media network. Cookies allow Affiliate Window to gather anonymous numeric information, track clicks, sales and lead commissions.<br><br>
-			<b>Links</b><br>
-			This site may contain links to other Web sites. Please note that when you click on one of these links, you are entering another site. We encourage you to read the privacy statements of these linked sites as their privacy policy may differ from ours.<br><br>
-			<b>E-mail Links</b><br>
-			We use e-mail links located on this site to allow you to contact us directly via e-mail. We use the information provided in your e-mail to respond to your questions or comments. We may also store your comments for future reference. Your personal information is only shared with third parties with your explicit permission.<br><br>
-			<b>Legal Disclaimer</b><br>
-			We may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with legal process served on Affiliate Window.<br><br>
-			<img src="/images/privacy_email1.gif" width="550" height="22" border="0"></td>
-			<td width="100%" height="1"><img src="images/pixel.gif" height="10" width="1" border="0"></td>
-		</tr>			
-	</tbody></table>
-<!-- end content -->
-<!-- start footer -->
-	<table width="100%" height="20" border="0" cellspacing="0" cellpadding="0" valign="bottom">
-		<tbody><tr>
-			<td height="10" align="left"><img src="/images/pixel.gif" height="1" width="200" border="0"></td>
-			<td height="10" align="right"><img src="/images/pixel.gif" height="1" width="560" border="0"></td>
-			<td width="100%" height="10"><img src="/images/pixel.gif" height="1" width="1" border="0"></td>
-		</tr>
-		<tr bgcolor="#3333333">
-			<td height="1"><img src="/images/pixel.gif" height="1" width="200" border="0"></td>
-			<td height="1"><img src="/images/pixel.gif" height="1" width="560" border="0"></td>
-			<td width="100%" height="1"><img src="/images/pixel.gif" height="1" width="1" border="0"></td>			
-		</tr>
-		<tr bgcolor="#FF9900">
-			<td height="20" width="200" align="left" class="text333333"><img src="/images/pixel.gif" height="1" width="10" border="0"><b>©1999-2005&nbsp;Affiliate Window Ltd</b></td>
-			<td height="20" align="right" class="text333333"><b><a href="/privacy.php" class="text333333">Privacy</a>&nbsp;|&nbsp;<a href="/site_map.php" class="text333333">Site map</a></b></td>
-			<td width="100%" height="1">&nbsp;<img src="/images/pixel.gif" height="1" width="1" border="0"></td>
-		</tr>
-		<tr bgcolor="#3333333">
-			<td height="1"><img src="/images/pixel.gif" height="1" width="200" border="0"></td>
-			<td height="1"><img src="/images/pixel.gif" height="1" width="560" border="0"></td>
-			<td width="100%" height="1"><img src="/images/pixel.gif" height="1" width="1" border="0"></td>			
-		</tr>
-	</tbody></table>
-<!-- end footer -->
+<body>
+<div id="frame">
+	<div id="contentheader"><a href="/"><img src="/images/logo_brochure.gif" alt="Affiliate Window" title="Affiliate Window"></a>
+				</div>
 
+<div id="content">
+	<img src="/images/bar_top.jpg">
+	<h1>Privacy on this site</h1>
+	
+	<h2>What personally identifiable information is collected on this site?</h2>
+
+	<p>Visitors may supply personally identifiable information (such as name, address or telephone numbers) for various purposes on this site. These purposes include registering to receive e-mail newsletters, requesting further information about our products, or simply asking a question about Affiliate Window. Affiliate Window does not collect personal information from you unless you provide it to us. This means that you can visit our site without telling us who you are or revealing any personally identifiable information about yourself.</p>
+
+	<h2>How is it used?</h2>
+	<p>When you supply information about yourself for a specific purpose, we use the information for only that purpose (such as to provide the service or information you have requested). For example, you may be asked to give us individual information to receive information, manage online services, or apply for a job.</p>
+
+	<p>Should any material changes be made to the ways in which we use personally identifiable information, Affiliate Window will take commercially reasonable measures to obtain e-mail consent from you. We will also post the changes to our use of personally identifiable information on our site at least 30 days prior to a change.</p>
+
+	<h2>Security</h2>
+	<p>Personally identifiable information is stored on our Web server and is not publicly accessible. Further, personally identifiable information is only accessed by Affiliate Window employees on a "need to know" basis. All Affiliate Window employees must go through privacy training upon starting with Affiliate Window. Affiliate Window meets or exceeds all industry standards for the protection of personally identifiable information.</p>
+
+	<h2>Choice/Opt-out</h2>
+	<p>If you have registered to receive e-mail communications from us and later change your mind, you may <a href="/contact_us.php">contact us</a> to have your name removed from our distribution lists.</p>
+
+	<h2>Correct/Update</h2>
+	<p>If you would like to verify the data we have received from you or to make corrections to it, you may contact us directly at the e-mail and mail addresses provided above.</p>
+
+	<h2>What anonymous information is collected on this site?</h2>
+	<p>Anonymous numeric information is collected for every visitor to this site. This includes pages viewed, date and time, and browser type. IP numbers are not stored, but are temporarily used to determine domain type and in some cases, geographic region. We do not make any association between this information and a visitor's identity.</p>
+
+	<h2>How is it used?</h2>
+	<p>The information is used by Affiliate Window to build anonymous behavioral profiles, which are written to the Affiliate Window database -- securely housed at the Affiliate Window data centre. These profiles are accessed by Affiliate Window-enabled Web sites to offer you personalized content and promotions, and to target relevant, more interesting ads -- all without knowing your identity. Again, there is no association between an Affiliate Window profile and a visitor's identity.</p>
+
+	<h2>How does this site use cookies?</h2>
+	<p>Affiliate Window uses cookies to identify your browser as you visit pages on the Affiliate Window site or sites in the Affiliate Window media network. Cookies allow Affiliate Window to gather anonymous numeric information, track clicks, sales and lead commissions.</p>
+
+	<h2>Links</h2>
+	<p>This site may contain links to other Web sites. Please note that when you click on one of these links, you are entering another site. We encourage you to read the privacy statements of these linked sites as their privacy policy may differ from ours.</p>
+
+	<h2>E-mail Links</h2>
+	<p>We use e-mail links located on this site to allow you to contact us directly via e-mail. We use the information provided in your e-mail to respond to your questions or comments. We may also store your comments for future reference. Your personal information is only shared with third parties with your explicit permission.</p>
+
+	<h2>Legal Disclaimer</h2>
+	<p>We may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with legal process served on Affiliate Window.</p>
+				
+	<img src="/images/bar_bottom.jpg">
+	
+	</div>
+	
+	<div id="mainmenu">
+	<ul>
+		<li>+ <a href="/index.php">Home</a></li>
+		<li>+ <a href="/explore.php">Explore</a></li>
+		<ul>
+				<li><a href="/new_frontier.php">The New Frontier</a></li>
+				<li><a href="/natural_performer.php">Natural Performer</a></li>
+				<li><a href="/affiliate_marketing.php">Affiliate Marketing</a></li>
+				<li><a href="/how_it_works.php">How does it work?</a></li>
+				<li><a href="/network.php">The network</a></li>
+			</ul>
+	
+		<li>+ <a href="/our_merchants.php">Our clients</a></li>
+		<li>+ Testimonials</li>
+			<ul>
+				<li><a href="/testimonials_responsive.php">Responsive</a></li>
+				<li><a href="/testimonials_performer.php">Natural Performer</a></li>
+				<li><a href="/testimonials_flexible.php">Flexible</a></li>
+				<li><a href="/testimonials_protection.php">Protection</a></li>
+			</ul>
+		<li>+ Technology for Winners</li>
+			<ul>
+				<li><a href="technology_reporting.php">Reporting</a></li>
+				<li><a href="technology_innovation.php">Innovation</a></li>
+			</ul>
+		
+		<li>+ <a href="/merchants.php">Become a merchant</a></li>
+		<li>+ <a href="/affiliates.php">Become an affiliate</a></li>
+		<li>+ <a href="/about_us.php">The Team</a></li>
+		<li>+ <a href="/jobs.php">Employment</a></li>
+		<li>+ <a href="/contact_us.php">Contact us</a></li>
+	</ul>
+</div>	
+				<div id="contentfooter">
+				<span id="copyright">©1999 - 2006&nbsp;Affiliate Window Ltd </span>
+				<span id="privacy"><a href="/privacy.php">Privacy</a>&nbsp;|&nbsp;<a href="/site_map.php">Site map</a></span>
+			</div>
+		</div>
+
+	
 
 </body></html>
