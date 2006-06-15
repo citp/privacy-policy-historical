@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stubhub.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217075828id_/http%3A//stubhub.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stubhub.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615033925id_/http%3A//www.stubhub.com/privacy_policy) for the most accurate reproduction.*
 
 # StubHub! Where Fans Buy & Sell Tickets
 
@@ -17,7 +17,7 @@ Privacy Policy  [](https://www.truste.org/ivalidate.php?url=www.stubhub.com "TRU
 
 
 _Please Note:  
-As of 06/01/05 we have made changes to our Privacy Policy _
+As of 03/28/06 we have made changes to our Privacy Policy _
 
 **Overview**
 
@@ -62,7 +62,9 @@ Co-branded sites are sites that appear labeled with another company's logos or t
 **Profile** We store information that we collect through cookies and log files to create a profile of our users. A profile is stored information that we keep on individual users that details their preferences. Consequently, collected information is tied to the users personally identifiable information to provide offers and improve the content of the site for the user. This profile is used to tailor a user's visit to our Web site, and to direct pertinent marketing promotions to them. This information may also be used to help improve our services overall. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
 
 Cookies:  
-A cookie is a piece of data stored on the user's computer tied to information about the user. Usage of a cookie is not linked to any personally identifiable information while a user is visiting our site. We use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies enable us to track and target the interests of our users to enhance their experience on our site. By setting a cookie on our site, users would not have to log in a password more than once, thereby saving time while on our site. If users reject the cookie, they may still browse our site, however they will not be able to buy or sell tickets. Persistent cookies can be removed by following Internet browser help file directions.
+A cookie is a piece of data stored on the user's computer tied to information about the user. Usage of a cookie is not linked to any personally identifiable information while a user is visiting our site. We use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies enable us to track and target the interests of our users to enhance their experience on our site. By setting a cookie on our site, users would not have to log in a password more than once, thereby saving time while on our site. If users reject the cookie, they may still browse our site, however they will not be able to buy or sell tickets. Persistent cookies can be removed by following Internet browser help file directions. 
+
+StubHub is currently using and has contracted with Omniture, a third party, to track and analyze non-personally identifiable usage and volume statistical information from our visitors and customers. We use the information to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use Web beacons and cookies provided by Omniture on this site. By supplementing our records, this information helps us learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see. StubHub owns this data and controls how it may and may not be used. If you do not want to help us learn how to improve our site, products, offers and marketing strategy, you can "opt-out" of this website analysis tool by clicking here <http://www.omniture.com/privacy#optout>. 
 
 Log Files:  
 Like most standard Web site servers, we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring pages, platform type, date/time stamp. IP addresses, etc. are linked to personally identifiable information. We use Log Files in error diagnostics, session management and determining our advertising efficacy. 
@@ -110,5 +112,5 @@ When our registration/order form asks users to enter sensitive information (such
 **External Links** The Site contains links to other web sites maintained by third parties. Please be aware that StubHub exercises no control over linked sites and is not responsible for the privacy practices or the content of such sites. Each linked site maintains its own independent privacy and data collection policies and procedures, and you are encouraged to view the privacy policies of these other sites before providing any personal information.    
 **Changes to this Statement** If we decide to change our privacy policy, we will post those changes to this privacy statement so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. Material changes to this policy will be posted on this website 30 days prior to execution.    
 **Children** Children (persons under the age of 18) are not eligible to use this Web site unsupervised and we ask that children do not submit any personal information to us. If you are under the age of 18, you may only use this site in conjunction with and under the supervision of your parents or guardians.   
-Effective [06/01/05] 
+Effective [03/28/06] 
 | 
