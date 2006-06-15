@@ -1,0 +1,40 @@
+> *The following text is extracted and transformed from the onmilwaukee.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615092553id_/http%3A//onmilwaukee.com/about/privacystatement.html) for the most accurate reproduction.*
+
+# OnMilwaukee.com - Milwaukee's Daily Magazine
+
+**OnMilwaukee.com Privacy Statement**
+
+This statement discloses the privacy practices for OnMilwaukee.com. When you visit our site, you can expect to be notified of: what personally identifiable information of yours is collected; the organization collecting the information; how the information is used; with whom the information may be shared; what choices are available to you regarding collection, use and distribution of the information; the kind of security procedures that are in place to protect the loss, misuse or alteration of information under the licensee's control; and how you can correct any inaccuracies in the information.
+
+Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. We won't knowingly allow anyone under 13 to register with any of our sites or to access those features that require registration.
+
+The information gathered by OnMilwaukee falls into two categories: (1) information voluntarily supplied by visitors to our Web sites through optional registration and (2) tracking information gathered as visitors navigate through our sites. 
+
+To make use of certain features on our Websites (such as the OnMilwaukee.com Weekend Preview e-mail newsletter, the online forums and contests) visitors may need to register and to provide certain information as part of the registration process. (We may ask, for example, for your name, email address, age range, and address). The information you supply will help us to offer you more personalized features, to tailor our sites to your interests and make them more useful to you.
+
+The more you tell us about yourself, the more value we can offer you. Supplying such information is entirely voluntary. But if you don't supply the information we need, we may be unable to provide you with services we make available to other visitors to our sites. For example, we can't mail your prize if you win a contest without your address. And we can't send you email alerting you to a new service we're offering, or breaking news that may interest you if you don't tell us what you're interested in and give us your email address. 
+
+Of course, even if you want to remain completely anonymous, you can still visit OnMilwaukee.com and use many of the features we offer.
+
+To help make our sites more responsive to the needs of our visitors, we invoke a standard feature of browser software, called a "cookie," to assign each visitor a unique, random number, a sort of user ID, if you will, that resides on your computer. The cookie doesn't actually identify the visitor, just the computer that a visitor uses to access our site. Unless you voluntarily identify yourself (through registration, for example), we won't know who you are, even if we assign a cookie to your computer. The only personal information a cookie can contain is information you supply. A cookie can't read data off your hard drive. Our advertisers may also assign their own cookies to your browser, a process that we don't control.
+
+**Third Party Advertising**  
+We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.maxonline.com/privacy_policy/index.php).
+
+ **Third Party Cookies**  
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique ÒcookieÓ on your browser.
+
+We use cookies to help us tailor our site to your needs, to deliver a better, more personalized service. It is a cookie, for example, that allows us to make one user doesn't vote in a weekly poll over and over again, even if you've been away for awhile. And we use cookies to avoid showing you the same ad, repeatedly, on a single page. In addition, we may use cookies to track the pages on our sites visited by our users. We can build a better site if we know which pages our users are visiting and how often. Of course, you can set your browser not to accept cookies, but if you do, you may not be able to take advantage of the personalized features enjoyed by other visitors to our sites.
+
+Our Web servers automatically collect limited information about your computer's connection to the Internet, including your IP address, when you visit our sites. (Your IP address is a number that lets computers attached to the Internet know where to send you data -- such as the Web pages you view.) Your IP address does not identify you personally. We use this information to deliver our Web pages to you upon request, to tailor our sites to the interests of our users, and to measure traffic within our sites.
+
+To make our sites more valuable to our visitors, we offer some features in conjunction with other providers. Our job database and specialty shopping services, for example, are made available through cooperative arrangements with providers that specialize in operating such services. And, of course, our sites include links to plenty of other Web sites whose privacy policies we don't control. Once you leave our servers (you can tell where you are by checking the URL in the location bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the site you're visiting. That policy may differ from ours. If you can't find the privacy policy of any of these sites via a link from the site's homepage, you should contact the site directly for more information. 
+
+When we present information to our advertisers -- to help them understand our audience and confirm the value of advertising on our Web site -- it is usually in the form of aggregated statistics on traffic to various pages within our sites. All information gathered on any OnMilwaukee.com Web site is stored within a OnMilwaukee.com-controlled database accessible only to OnMilwaukee.com. However, as effective as any security measure implemented by OnMilwaukee.com may be, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a message you post to any chat room, forum or other public posting area is available to anyone with Internet access. If you don't want people to know your email address, for example, don't include it in any message you post publicly.
+
+A final note: The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we'll post the changes before they take effect.
+
+If you have any questions regarding this statement, please [click here](https://web.archive.org/feedback/index.html).
+
+  
+
