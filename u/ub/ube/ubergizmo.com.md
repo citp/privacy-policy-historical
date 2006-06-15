@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the ubergizmo.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231211739id_/http%3A//www.ubergizmo.com/15/archives/2004/08/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubergizmo.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615022225id_/http%3A//www.ubergizmo.com/15/archives/2004/08/privacy.html) for the most accurate reproduction.*
 
 # privacy
-
-### privacy
-
-Story posted on: August 01, 2004
 
 **UberGizmo.com Privacy Statement**  
 This statement covers the site www.ubergizmo.com ("UberGizmo"). Please read this statement carefully before using proceeding to access UberGizmo. Your use of UberGizmo indicates your agreement to abide by the Terms in effect.
@@ -33,13 +29,15 @@ In the event UberGizmo goes through a business transition, such as a merger, acq
 **Links**  
 The UberGizmo web site contains links to other sites. Please be aware that we, UberGizmo, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by UberGizmo.
 
+**Third Party Advertising**  
+We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.maxonline.com/privacy_policy/index.php).
+
+ **Third Party Cookies**  
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
+
 **Notification of Changes**  
 Whenever UberGizmo changes our privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
 **Contact Information**  
 If you have any questions or suggestions regarding our privacy policy, please contact us at contact@ubergizmo.com  
-
-
-  
-  
 
