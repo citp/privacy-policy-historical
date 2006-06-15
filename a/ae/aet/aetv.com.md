@@ -1,12 +1,13 @@
-> *The following text is extracted and transformed from the aetv.com privacy policy that was archived on 2003-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030411091931id_/http%3A//aetv.com/feedback/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aetv.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615204712id_/http%3A//www.aetv.com/corporate_privacy_policy.jsp) for the most accurate reproduction.*
 
-# AETV.com Contact Us
+# CORPORATE PRIVACY POLICY
 
-    | 
+CORPORATE PRIVACY POLICY  
+
 
 **A &E Privacy Policy**
 
-Last updated on January 28, 2003
+Last updated on June 12, 2003
 
 **A &E Television Networks ("AETN")**
 
@@ -17,7 +18,7 @@ We can be reached via email at [feedback@AETV.com](mailto:feedback@AETV.com).
 
 AETN supports a general policy of openness about personal data collection and use. We have adopted and implemented this Privacy Policy as part of our commitment to protecting your personal information from misuse.
 
-This Privacy Policy applies to our information-gathering and dissemination practices for the following sites: [www.aetv.com](http://www.aetv.com/); [www.historychannel.com](http://www.historychannel.com/); [www.biography.com](http://www.biography.com/); [www.mysteries.com](http://www.mysteries.com/); [www.historyinternational.com](http://www.historyinternational.com/); [www.pythonshop.com](http://www.pythonshop.com/); and [www.originalavengers.com](http://www.originalavengers.com/) (collectively, the "Websites"). This Privacy Policy also applies to AETN services contained on other sites, so long as such services contain AETN's branding, and AETN has provided a link to this Privacy Policy in connection with such services.
+This Privacy Policy applies to our information-gathering and dissemination practices for the following sites: [www.aetn.com](http://www.aetn.com/), [www.aetv.com](http://www.aetv.com/), [www.historychannel.com](http://www.historychannel.com/), [www.biography.com](http://www.biography.com/), [www.biographyclub.com](http://www.biographyclub.com/), [www.biographychannel.com](http://www.biographychannel.com/), [www.mysteries.com](http://www.mysteries.com/), [www.historyinternational.com](http://www.historyinternational.com/), [www.pythonshop.com](http://www.pythonshop.com/), and [www.originalavengers.com](http://www.originalavengers.com/) (collectively, the "Websites"). This Privacy Policy also applies to AETN services contained on other sites, so long as such services contain AETN's branding, and AETN has provided a link to this Privacy Policy in connection with such services.
 
 **The Websites are not directed at children under the age of 13. If you are under 13, please do not provide any personal information on the Websites.**
 
@@ -75,9 +76,7 @@ On all other public forums on our Websites, information that you provide as part
 Our Websites are general audience sites. We do not direct any of our content specifically at children under thirteen (13) years of age. We run classroom sites as educational tools for teachers, where contests encouraging submissions of children's essays are occasionally announced. We announce and post personal information (such as name and home town) of contest winners after receiving consent from the children's parents. We will not knowingly collect information from children under the age of 13 without first gaining consent from a parent or guardian. We will not use this information to contact the child for other purposes, distribute this information to third parties, or give the child the ability to post publicly or otherwise distribute personally identifiable information without a parent's or guardian's consent.
 
 **Third-Party Ad Serving**  
-We currently contract with Maxworldwide to sell and manage the advertisements that you see on the Websites. The use of advertising cookies sent by third-party servers is standard in the Internet industry, and Maxworldwide or our advertisers may assign their own cookies to your browser. Through cookie and other technology, Maxworldwide and/or other advertisers may collect certain non-personally identifiable information about you from your visits to our Websites and to other sites where ads are served by Maxworldwide or such other advertisers. This information may be used to deliver tailored ads to you. We do not control this process, and these cookies are subject to Maxworldwide's and/or other advertisers' policies. However, Maxworldwide does not obtain, through use of cookies or otherwise, any personally identifiable information from us or from any of our Websites. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp).
-
-Maxworldwide makes available both its policies and information practices at [Maxworldwide](http://www.maxworldwide.com/). [Click here](http://maxworldwide.com/privacy_policy/index.php) to read Maxworldwide's privacy statement or email Maxworldwide at [customerservice@MaxWorldwide.com](mailto:customerservice@MaxWorldwide.com) if you have any additional questions.
+We currently contract with Falk North America to serve the advertisements that you see on the Websites. The use of advertising cookies sent by third-party servers is standard in the Internet industry, and Falk North America or our advertisers may assign their own cookies to your browser. Through cookie and other technology, Falk North America and/or other advertisers may collect certain non-personally identifiable information about you from your visits to our Websites and to other sites where ads are served by Falk North America or such other advertisers. This information may be used to deliver tailored ads to you. We do not control this process, and these cookies are subject to Falk North America's and/or other advertisers' policies. However, Falk North America does not obtain, through use of cookies or otherwise, any personally identifiable information from us or from any of our Websites. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp).
 
 **Security**  
 We have security measures in place to protect against the loss, misuse, and alteration of the information under our control. Any time we ask for a credit card number we transmit that credit card number in an encrypted format. We use industry-standard, SSL (secure socket layer) encryption. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, we cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make reasonable efforts to ensure its security on our systems.
@@ -125,3 +124,5 @@ New York, NY 10017
 
 **Revisions to Privacy Policy**  
 Any of the policies or procedures above may be changed at any time without prior notice. You can determine if this Privacy Policy has been revised by referring to the "Last Updated" date at the top of this page. Use of our Websites constitutes your acceptance of the terms of this Privacy Policy then in effect. We encourage you to bookmark this page and to periodically review it to ensure familiarity with the most current version of our Privacy Policy.
+
+| 
