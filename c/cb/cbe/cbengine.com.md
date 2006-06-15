@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cbengine.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217090005id_/http%3A//www.cbengine.com/clickbank/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbengine.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615211920id_/http%3A//cbengine.com/help/cbengine_privacy.cfm) for the most accurate reproduction.*
 
-# CBengine ClickBank Pro
-
-[](http://www.cbengine.com/)    [](http://www.cbengine.com/)   
+# ClickBank Program, ClickBank Research, ClickBank Marketplace, ClickBank Malls
 
 Last Updated January 12, 2005 
 
@@ -70,5 +68,3 @@ If you have any questions about this Privacy Policy or the practices described h
 
 **Revisions to This Policy:**  
 Our company reserves the right to revise, amend, or modify this policy, our Terms Of Use & Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting. 
-
-[www.cbengine.com](http://www.cbengine.com/)
