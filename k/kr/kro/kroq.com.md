@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kroq.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224210732id_/http%3A//www.kroq.com/privacy/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kroq.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615183203id_/http%3A//kroq.com/privacy/privacypolicy.htm) for the most accurate reproduction.*
 
 # Untitled Document
 
@@ -28,7 +28,7 @@ This Privacy Policy does not cover the Infinity Broadcasting/Monster.com micro-s
 
 WWW.KROQ.COM PRIVACY POLICY  
 AND YOUR CALIFORNIA PRIVACY RIGHTS  
-WWW.KROQ.COM (“Site,” “us,” or “we”) is the official website for Radio Station KROQ-FM, Los Angeles, California. (“Station”). This Site is owned and operated by Infinity Broadcasting Corporation of Los Angeles, (“Owner and Operator”). 
+WWW.KROQ.COM (“Site,” “us,” or “we”) is the official website for Radio Station KROQ-FM, Los Angeles, California. (“Station”). This site is owned and operated by CBS Radio Inc. of Los Angeles (“Owner and Operator”), a subsidiary of CBS Radio Inc. (“CBS Radio”).
 
 Your privacy is very important to us. Because we gather certain types of personally identifiable information (“Personal Information”) from users of our website and for various Station activities, operational and business purposes, we feel you should know how we collect, use, disclose, manage, and store the Personal Information that you may voluntarily provide us and the Personal Information that is collected passively through the use of cookies or image tags on our website. This Privacy Policy is a part of the Site’s [Terms of Use Agreement](https://web.archive.org/privacy/termsofuse.htm), which is binding on all Site users. This Policy applies only to the Personal Information collected by this Station and does not cover any such information collected by its corporate parent(s), affiliates, or any other company, unless specifically stated. 
 
@@ -155,7 +155,7 @@ Generally, you may review, update or delete your Personal Information or Sensiti
 
 To review, update or delete your Personal Information or Sensitive Personal Information collected by the Site, please email the Site’s Privacy Administrator at [privacy@kroq.com](mailto:privacy@kroq.com) or [click here](mailto:privacy@kroq.com). To have access to your Personal Information or Sensitive Personal Information, you must provide proof of identification such as full name, street address, city/state and zip code, user ID and password, and/or information about your recent activity on the website. We reserve the right to deny access to any user if we believe there is a question about your identity. And if the burden or expense of providing access to your Personal Information is disproportionate to the risks to your privacy, or if the legitimate rights of others would be violated, we may decide not to provide access to such information. In such cases, we will provide to you an explanation of why access cannot be provided and a contact person for further inquiries. 
 
-This Privacy Policy was last updated on August 29th 2005, and is effective immediately. 
+This Privacy Policy was last updated on March 21st, 2006, and is effective immediately. 
 
   
 Copyright © 2004 Infinity Broadcasting Corporation of Los Angeles. All rights reserved.
