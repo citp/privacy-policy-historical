@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doubleknot.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403134436id_/http%3A//www.doubleknot.com/securityandprivacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doubleknot.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615092136id_/http%3A//doubleknot.com/securityandprivacypolicy.htm) for the most accurate reproduction.*
 
 # Doubleknot
 
