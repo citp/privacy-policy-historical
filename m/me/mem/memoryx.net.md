@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the memoryx.net privacy policy that was archived on 2005-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051101111708id_/http%3A//memoryx.net/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memoryx.net privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615053846id_/http%3A//www.memoryx.net/privacypolicy.html) for the most accurate reproduction.*
 
 # MemoryTen - Computer Memory Privacy Policy
 
