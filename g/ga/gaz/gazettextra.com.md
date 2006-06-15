@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gazettextra.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219110518id_/http%3A//www.gazetteextra.com/terms.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gazettextra.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615194401id_/http%3A//www.gazetteextra.com/terms.asp) for the most accurate reproduction.*
 
 # Terms of Use and Privacy Policy| The Janesville Gazette | Janesville, Wisconsin, USA
 
@@ -22,7 +22,7 @@ To use certain features and services on our web sites, you are asked to provide 
 
 **How we use information you supply voluntarily**
 
-We use the information you voluntarily supply to develop and offer content that best suits your interests, to complete transactions, or to communicate with you. For example, if you purchase a print subscription, we use your information to process your order. If you contact us for help, we use the information to contact you with a resolution to your problem or answer to your question. If you enter a contest, we use the information to determine eligibility and to contact winners.
+We use the information you voluntarily supply to develop and offer content that best suits your interests, to complete transactions, or to communicate with you. For example, if you purchase a print subscription, we use your information to process your order. If you contact us for help, we use the information to contact you with a resolution to your problem or answer to your question. If you enter a contest, we use the information to determine eligibility and to contact winners. If you are a registered user of GazetteExtra, we use the information to make you aware of special offers made available to registered users.
 
 **Information gathered through technology**
 
