@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pgp.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211195135id_/http%3A//www.pgp.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pgp.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615034021id_/http%3A//www.pgp.com/privacy.html) for the most accurate reproduction.*
 
 # PGP Corporation - Privacy
 
@@ -54,11 +54,7 @@ PGP Corporation occasionally reviews and modifies this Privacy Statement. Theref
 **Further Information**  
 If you have questions regarding our Privacy Statement, please contact us at [customersupport@pgp.com](mailto:customersupport@pgp.com). For other general questions, please go to our Contact Us page [http://www.pgp.com/company/contact.html](https://web.archive.org/company/contact.html).
 
-|  | 
+| 
 
 PGP Corporation respects your privacy and is committed to protecting all personal information that you provide.  
-  
-  
----  
-   
-|  
+
