@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topweddingsites.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217130433id_/http%3A//www.topweddingsites.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topweddingsites.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615205031id_/http%3A//topweddingsites.com/privacy.htm) for the most accurate reproduction.*
 
 # Top Wedding Sites - Privacy Policy
 
