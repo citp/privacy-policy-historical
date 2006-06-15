@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the mochacity.com privacy policy that was archived on 2005-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051221114953id_/http%3A//members.mochacity.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mochacity.com privacy policy that was archived on 2006-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615215229id_/http%3A//www.mochacity.com/privacy.htm) for the most accurate reproduction.-->
 
-<html><head>
-<title>MochaCity Urban Online Community Directory - Privacy</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+<title>Privacy Statement - MochaCity</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="description" content="The realest only community for urban individuals around the world. Your online source for news, community, technology, culture, music, entertainment, politics, business, family, sports and romance for blacks, african americans and anyone else living and urban lifestyle">
-<meta name="keywords" content="Mocha Lounge, MochaCity, Mocha Radio, Mocha Ringtones, Mocha Mobile Chat, An Urban Image, African American,African,Caribbean American,African Diaspora,diaspora,Affirmative Action,African Americans online,Community sites,Black,Urban,Black Family,Black music,entertainment,Sorority,Fraternity,unity,culture,heritage,slavery,soul food, BlackPlanet.com,black girls, bet, blackvoices, netnoir, black men,black colleges,HBCU,Delta Sigma Theta Sorority,Alpha Kappa Alpha Sorority,Omega Psi Phi Fraternity,Alpha Phi Alpha Fraternity,Kappa Alpha Psi Fraternity,Zeta Phi Beta Sorority,Sigma Gamma Rho Sorority,Phi Beta Sigma Fraternity">
+<meta name="keywords" content="Community,urban,Mocha Lounge, MochaCity, Mocha Radio, Mocha Ringtones, Mocha Mobile Chat, An Urban Image, African American,African,Caribbean American,African Diaspora,diaspora,Affirmative Action,African Americans online,Community sites,Black,Urban,Black Family,Black music,entertainment,Sorority,Fraternity,unity,culture,heritage,slavery,soul food, BlackPlanet.com,black girls, bet, blackvoices, netnoir, black men,black colleges,HBCU,Delta Sigma Theta Sorority,Alpha Kappa Alpha Sorority,Omega Psi Phi Fraternity,Alpha Phi Alpha Fraternity,Kappa Alpha Psi Fraternity,Zeta Phi Beta Sorority,Sigma Gamma Rho Sorority,Phi Beta Sigma Fraternity">
 
 <script language="JavaScript">
 function newImage(arg) {
@@ -24,206 +24,459 @@ function changeImages() {
         }
 }
 
-var preloadFlag = false;
 function preloadImages() {
         if (document.images) {
-
-			but1	= newImage("http://www.mochacity.com/images/hp2/hp2_home_but_on.jpg");
-			but2	= newImage("http://www.mochacity.com/images/hp2/hp2_home_but_off.jpg");
-			
-			but3	= newImage("http://www.mochacity.com/images/hp2/hp2_about_but_on.jpg");
-			but4	= newImage("http://www.mochacity.com/images/hp2/hp2_about_but_off.jpg");
-			
-			but5	= newImage("http://www.mochacity.com/images/hp2/hp2_services_but_on.jpg");
-			but6	= newImage("http://www.mochacity.com/images/hp2/hp2_services_but_off.jpg");
-			
-			but7	= newImage("http://www.mochacity.com/images/hp2/hp2_faq_but_on.jpg");
-			but8	= newImage("http://www.mochacity.com/images/hp2/hp2_faq_but_off.jpg");
-			
-			but9	= newImage("http://www.mochacity.com/images/hp2/hp2_create_but_on.jpg");
-			but10	= newImage("http://www.mochacity.com/images/hp2/hp2_create_but_off.jpg");
-			
-			but11	= newImage("http://www.mochacity.com/images/hp2/hp2_signin_but_on.jpg");
-			but22	= newImage("http://www.mochacity.com/images/hp2/hp2_signin_but_off.jpg");
-			
-			but33	= newImage("http://www.mochacity.com/images/hp2/hp2_support_but_on.jpg");
-			but44	= newImage("http://www.mochacity.com/images/hp2/hp2_support_but_off.jpg");
-
-			but55	= newImage("http://www.mochacity.com/images/hp2/hp2_contact_but_on.jpg");
-			but66	= newImage("http://www.mochacity.com/images/hp2/hp2_contact_but_off.jpg");	
             preloadFlag = true;
-
+			but1	= newImage("http://www.mochacity.com/images/hp3/hp3_toolsnavbuts_mt_off");
+			but2	= newImage("http://www.mochacity.com/images/hp3/hp3_toolsnavbuts_mt_on");
+			but3    = newImage("http://www.mochacity.com/images/hp3/hp3_toolsnavbuts_mm_off");
+                        but4    = newImage("http://www.mochacity.com/images/hp3/hp3_toolsnavbuts_mm_on");
         }
 }
-</script>
-<script language="JavaScript" src="http://www.mochacity.com/common.js"></script>
 
-<link href="http://www.mochacity.com/style.css" rel="stylesheet" type="text/css">
+function tnb_on(but)
+{
+       // var tnb = window.document.getElementById(but);
+       // tnb.style.backgroundImage = "url('http://www.mochacity.com/images/hp3/hp3_mainnav_but_on.gif')";
+        return;
+}
+
+function tnb_off(but)
+{
+       // var tnb = window.document.getElementById(but);
+       // tnb.style.backgroundImage = "url('http://www.mochacity.com/images/hp3/hp3_mainnav_but_off.gif')";
+        return;
+}
+function showProviderMenu(menu_idx)
+{
+        var p_menu = window.document.getElementById(menu_idx);
+        p_menu.style.visibility = 'visible';
+        p_menu.style.height = '';
+
+}
+
+
+function hideProviderMenu(menu_idx)
+{
+        var p_menu = window.document.getElementById(menu_idx);
+        p_menu.style.visibility = 'hidden';
+        p_menu.style.height = '0';
+}
+
+function toolTabSwap( tab_focus )
+{
+	var mmobj = window.document.getElementById('MMCANVAS');
+	var mtobj = window.document.getElementById('MTCANVAS');
+
+	if( tab_focus == 'mt')
+	{
+		document.images['mttab'].src = "http://www.mochacity.com/images/hp3/hp3_toolsnavbuts_mt_on.jpg";
+		document.images['mmtab'].src = "http://www.mochacity.com/images/hp3/hp3_toolsnavbuts_mm_off.jpg";
+		
+		mmobj.style.visibility = 'hidden';
+		mmobj.style.height = '0px';
+
+		mtobj.style.visibility = 'visible';
+		mtobj.style.height = '';
+	}
+	else if( tab_focus == 'mm')
+	{
+		document.images['mttab'].src = "http://www.mochacity.com/images/hp3/hp3_toolsnavbuts_mt_off.jpg";
+		document.images['mmtab'].src = "http://www.mochacity.com/images/hp3/hp3_toolsnavbuts_mm_on.jpg";
+
+		mtobj.style.visibility = 'hidden';
+		mtobj.style.height = '0px';
+
+		mmobj.style.visibility = 'visible';
+		mmobj.style.height = '';
+	}
+}
+var preloadFlag = true;
+
+</script>
+<script language="JavaScript" src="http://www.mochacity.com/js/prototype.js"></script>
+<script language="JavaScript" src="http://www.mochacity.com/js/rico.js"></script>
+<script language="JavaScript" src="http://www.mochacity.com/common.js"></script>
+<link href="http://www.mochacity.com/hp3style.css" rel="stylesheet" type="text/css">
 </head>
-<body bgcolor="#1A1100" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="preloadImages(); ">
-<script src="/userplane/functions.js" type="text/javascript" language="javascript"></script><style type="text/css">.up_mbox { background: #ffffff url(/userplane/images/fbox.gif) repeat-y top right; border: 0; margin: 2px 0 6px 0; padding: 0; }.up_mbox1 { background: url(/userplane/images/fbox1.gif) no-repeat top right; height: 8px; font: normal 0px/0px Sans-serif; margin: 0; padding: 0; }.up_mbox2 { display: block; background: url(/userplane/images/fbox2.gif) no-repeat top left; height: 8px; width: 8px; font: normal 0px/0px Sans-serif; margin: 0; padding: 0; }.up_mbox3 { background: url(/userplane/images/fbox3.gif) no-repeat bottom right; height: 8px; font: normal 0px/0px Sans-serif; margin: 0; padding: 0; }.up_mbox4 { display: block; background: url(/userplane/images/fbox4.gif) no-repeat bottom left; height: 8px; width: 8px; font: normal 0px/0px Sans-serif; margin: 0; padding: 0; }.up_mboxgut { background: url(/userplane/images/fboxgut.gif) repeat-y top left; font: 11px/18px Verdana, Geneva, Arial, Helvetica, Helve, Sans-serif; margin: 0; padding: 0 10px 0 10px; word-wrap: break-word; }</style><iframe name="up_wmLauncher" id="up_wmLauncher" style="width:0px; height:0px; border: 0px" src=""></iframe><div id="up_wmNotifications" style="position:absolute; width:250px; z-index:9999; left: 30px; top: -200px;"></div>
-<div id="mem_tools" style="background-color:#2f1c00; width:180px; z-index:1000000; visibility:hidden; position:absolute; top:137px; left:590" onmouseover="setMemToolVis('1');" onmouseout="setMemToolVis('0');">
-&nbsp;
-<table id="Table_01" width="180" border="0" cellpadding="5" cellspacing="0">
-<tbody><tr><td>&nbsp;&nbsp;<a name="View Your MochaCity Notes" id="Your MochaCity Homepage" href="javascript:void(0);" onclick="popNoteWindow();" class="small_txt_bwhite" title="View Your MochaCity Notes">View Your Notes</a></td></tr>
-<tr><td><img src="http://www.mochacity.com/images/hp2/hp2_tooldots.gif" width="169" height="11" alt=""></td></tr>
-<tr><td>&nbsp;&nbsp;<a name="Your MochaCity Contact List" id="Your MochaCity Homepage" href="http://www.mochacity.com/usertools/contact_list.htm" class="small_txt_bwhite" title="Your MochaCity Contact List">Your Contact List</a></td></tr>
-<tr><td><img src="http://www.mochacity.com/images/hp2/hp2_tooldots.gif" width="169" height="11" alt=""></td></tr>
-<tr><td>&nbsp;&nbsp;<a name="Your MochaCity Block List" id="Your MochaCity Homepage" href="http://www.mochacity.com/usertools/block_list.htm" class="small_txt_bwhite" title="Your MochaCity Block List">Your Block List</a></td></tr>
-<tr><td><img src="http://www.mochacity.com/images/hp2/hp2_tooldots.gif" width="169" height="11" alt=""></td></tr>
-<tr><td>&nbsp;&nbsp;<a name="Change Your MochaCity Password" id="Your MochaCity Homepage" href="http://www.mochacity.com/usertools/change_password.htm" class="small_txt_bwhite" title="Change Your MochaCity Password">Change Your Password</a></td></tr>
-<tr><td><img src="http://www.mochacity.com/images/hp2/hp2_tooldots.gif" width="169" height="11" alt=""></td></tr>
-<tr><td>&nbsp;&nbsp;<a name="Edit Your MochaCity Profile" id="Your MochaCity Homepage" href="http://www.mochacity.com/usertools/edit_profile.htm" class="small_txt_bwhite" title="Edit Your MochaCity Profile">Edit Your Profile</a></td></tr>
-<tr><td><img src="http://www.mochacity.com/images/hp2/hp2_tooldots.gif" width="169" height="11" alt=""></td></tr>
-<tr><td>&nbsp;&nbsp;<a name="Edit Your MochaCity Settings" id="Your MochaCity Homepage" href="http://www.mochacity.com/usertools/settings.htm" class="small_txt_bwhite" title="Edit Your MochaCity Settings">Edit Your Settings</a></td></tr>
-</tbody></table>
-&nbsp;
+<body bgcolor="#1A1100" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0&quot;" onload="preloadImages();">
+<div align="center">
+<table cellpadding="0" cellspacing="0" border="0" style="width:780px;">
+<tbody><tr><td colspan="3">
+<div style="padding:4px; text-align:center;">
+
+<!-- INCLUDE 728x90 -->
+<!--  -->
+<script type="text/javascript"><!--
+google_ad_client = "pub-8755026009003842";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text_image";
+google_ad_channel ="";
+google_color_border = "332109";
+google_color_bg = "FFFFFF";
+google_color_link = "332109";
+google_color_url = "918150";
+google_color_text = "332109";
+google_kw_type = "broad";
+google_kw = "urban, black, african amercian, sports, xbox, ps2, games, DSL, mp3, videos, cellphones, conserts, movies";
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+<!--  -->
 </div>
-<table id="Table_01" width="770" height="139" border="0" cellpadding="0" cellspacing="0">
+<img src="http://www.mochacity.com/images/hp3/hp3_top_border.gif" width="780" height="5" alt=""></td></tr>
+<tr>
+<td background="http://www.mochacity.com/images/hp3/hp3_rl_borders.gif"><img src="http://www.mochacity.com/images/hp3/blank.gif" width="5" height="5" alt="" border="0"></td>
+<td>
+
+
+
+<!-- INCLUDE GLOBAL NAVBAR -->
+<style>
+
+/* SMALL TXT DARK */
+.dyn_link_bdark {
+        color: #332100;
+        font-family: arial;
+        font-size: 8pt;
+        font-weight: bold;
+        text-decoration: none;
+}
+.dyn_link_bdark:hover {
+        color: #957D51;
+        font-family: arial;
+        font-weight: bold;
+        font-size: 8pt;
+        text-decoration: none;
+}
+
+</style>
+<div style="background-image:url('http://www.mochacity.com/images/hp3/hp3_mainnav_bg.jpg');  width:770px; height:99px;">
+<table cellpadding="0" cellspacing="0" border="0" style="width:770px; height:99px;">
+<tbody><tr>
+	<td><a href="http://www.mochacity.com"><img src="http://www.mochacity.com/images/hp3/hp3_mainnav_logo.gif" width="280" height="73" alt="" border="0"></a></td>
+	<td align="right" valign="top" style="padding-right:5px; padding-top:5px;"><img src="http://www.mochacity.com/images/hp3/hp3TopNavIcons.gif" width="386" height="12" border="0" alt="" usemap="#hp3TopNavIcons_Map"></td>
+</tr>
+<tr>
+	<td colspan="2">
+		<table cellpadding="0" cellspacing="0" border="0">
+		<tbody><tr>
+			<td width="1" height="1"><img src="http://www.mochacity.com/images/hp3/blank.gif" width="1" height="1" alt="" border="0"></td>
+			<td id="tnb1" onmouseout="tnb_off('tnb1');" onmouseover="tnb_on('tnb1');" style="text-align:center; background-image:url('http://www.mochacity.com/images/hp3/hp3_mainnav_but_off.gif');  width:76px; height:26px;">
+			<a href="http://members.mochacity.com/" onmouseout="hideProviderMenu('tnb_community');" onmouseover="showProviderMenu('tnb_community');"><img src="http://www.mochacity.com/images/hp3/hp3_but_community.gif" width="76" height="26" alt="" border="0"></a></td>
+			
+			<td width="1" height="1"><img src="http://www.mochacity.com/images/hp3/blank.gif" width="1" height="1" alt="" border="0"></td>
+			<td id="tnb2" onmouseout="tnb_off('tnb2');" onmouseover="tnb_on('tnb2');" style="text-align:center; background-image:url('http://www.mochacity.com/images/hp3/hp3_mainnav_but_off.gif');  width:76px; height:26px;">
+			<a href="http://radio.mochacity.com/" onmouseout="hideProviderMenu('tnb_music');" onmouseover="showProviderMenu('tnb_music');"><img src="http://www.mochacity.com/images/hp3/hp3_but_music.gif" width="76" height="26" alt="" border="0"></a></td>	
+			
+			<td width="1" height="1"><img src="http://www.mochacity.com/images/hp3/blank.gif" width="1" height="1" alt="" border="0"></td>
+			<td id="tnb3" onmouseout="tnb_off('tnb3');" onmouseover="tnb_on('tnb3');" style="text-align:center; background-image:url('http://www.mochacity.com/images/hp3/hp3_mainnav_but_off.gif');  width:76px; height:26px;">
+			<a href="http://movies.mochacity.com/" onmouseout="hideProviderMenu('tnb_movies');" onmouseover="showProviderMenu('tnb_movies');"><img src="http://www.mochacity.com/images/hp3/hp3_but_movies.gif" width="76" height="26" alt="" border="0"></a></td>
+		
+			<td width="1" height="1"><img src="http://www.mochacity.com/images/hp3/blank.gif" width="1" height="1" alt="" border="0"></td>
+			<td id="tnb4" onmouseout="tnb_off('tnb4');" onmouseover="tnb_on('tnb4');" style="text-align:center; background-image:url('http://www.mochacity.com/images/hp3/hp3_mainnav_but_off.gif');  width:76px; height:26px;">
+			<a href="http://vibe.mochacity.com" onmouseout="hideProviderMenu('tnb_events');" onmouseover="showProviderMenu('tnb_events');"><img src="http://www.mochacity.com/images/hp3/hp3_but_events.gif" width="76" height="26" alt="" border="0"></a></td>
+			
+			<td width="1" height="1"><img src="http://www.mochacity.com/images/hp3/blank.gif" width="1" height="1" alt="" border="0"></td>
+			<td id="tnb5" onmouseout="tnb_off('tnb5');" onmouseover="tnb_on('tnb5');" style="text-align:center; background-image:url('http://www.mochacity.com/images/hp3/hp3_mainnav_but_off.gif');  width:76px; height:26px;">
+			<a href="#" onmouseout="hideProviderMenu('tnb_fun');" onmouseover="showProviderMenu('tnb_fun');"><img src="http://www.mochacity.com/images/hp3/hp3_but_fun.gif" width="76" height="26" alt="" border="0"></a></td>
+			
+			<td width="1" height="1"><img src="http://www.mochacity.com/images/hp3/blank.gif" width="1" height="1" alt="" border="0"></td>
+			<td id="tnb6" onmouseout="tnb_off('tnb6');" onmouseover="tnb_on('tnb6');" style="text-align:center; background-image:url('http://www.mochacity.com/images/hp3/hp3_mainnav_but_off.gif');  width:76px; height:26px;">
+			<a href="#" onmouseout="hideProviderMenu('tnb_mvideo');" onmouseover="showProviderMenu('tnb_mvideo');"><img src="http://www.mochacity.com/images/hp3/hp3_but_mvideo.gif" width="76" height="26" alt="" border="0"></a></td>
+			
+			<td width="1" height="1"><img src="http://www.mochacity.com/images/hp3/blank.gif" width="1" height="1" alt="" border="0"></td>
+			<td id="tnb7" onmouseout="tnb_off('tnb7');" onmouseover="tnb_on('tnb7');" style="text-align:center; background-image:url('http://www.mochacity.com/images/hp3/hp3_mainnav_but_off.gif');  width:76px; height:26px;">
+			<a href="http://style.mochacity.com/" onmouseout="hideProviderMenu('tnb_style');" onmouseover="showProviderMenu('tnb_style');"><img src="http://www.mochacity.com/images/hp3/hp3_but_style.gif" width="76" height="26" alt="" border="0"></a></td>
+			
+			<td width="1" height="1"><img src="http://www.mochacity.com/images/hp3/blank.gif" width="1" height="1" alt="" border="0"></td>
+			<td id="tnb8" onmouseout="tnb_off('tnb8');" onmouseover="tnb_on('tnb8');" style="text-align:center; background-image:url('http://www.mochacity.com/images/hp3/hp3_mainnav_but_off.gif');  width:76px; height:26px;">
+			<a href="http://store.mochacity.com/" onmouseout="hideProviderMenu('tnb_shopping');" onmouseover="showProviderMenu('tnb_shopping');"><img src="http://www.mochacity.com/images/hp3/hp3_but_shopping.gif" width="76" height="26" alt="" border="0"></a></td>
+			
+			<td width="1" height="1"><img src="http://www.mochacity.com/images/hp3/blank.gif" width="1" height="1" alt="" border="0"></td>
+			<td id="tnb9" onmouseout="tnb_off('tnb9');" onmouseover="tnb_on('tnb9');" style="text-align:center; background-image:url('http://www.mochacity.com/images/hp3/hp3_mainnav_but_off.gif');  width:76px; height:26px;">
+			<a href="http://editorial.mochacity.com/" onmouseout="hideProviderMenu('tnb_news');" onmouseover="showProviderMenu('tnb_news');"><img src="http://www.mochacity.com/images/hp3/hp3_but_news.gif" width="76" height="26" alt="" border="0"></a></td>
+			
+			<td width="1" height="1"><img src="http://www.mochacity.com/images/hp3/blank.gif" width="1" height="1" alt="" border="0"></td>
+			<td id="tnb10" onmouseout="tnb_off('tnb10');" onmouseover="tnb_on('tnb10');" style="text-align:center; background-image:url('http://www.mochacity.com/images/hp3/hp3_mainnav_but_off.gif');  width:76px; height:26px;">
+			<a href="http://www.mochacity.com/services.htm"><img src="http://www.mochacity.com/images/hp3/hp3_but_more.gif" width="76" height="26" alt="" border="0"></a></td>
+		</tr>
+		<tr bgcolor="#857a6c">
+			<td></td>
+			<td>
+				<div onmouseout="hideProviderMenu('tnb_community'); tnb_off('tnb1');" onmouseover="showProviderMenu('tnb_community'); tnb_on('tnb1');" id="tnb_community" style="	position:absolute; height:0px; z-index:1000000; visibility:hidden; border:1px solid #1A1100; background-color:#1A1100;">
+				<table cellpadding="8" cellspacing="1" border="0" width="150">
+
+								<tbody><tr><td bgcolor="#FFFFFF" style=" padding-top:5px; padding-bottom:5px;"><a href="http://members.mochacity.com/registration/registration.htm" class="dyn_link_bdark"><font color="#00cc00">CREATE AN ACCOUNT</font></a></td></tr>
+				
+				<tr><td bgcolor="#FFFFFF" style=" padding-top:5px; padding-bottom:5px;"><a href="http://lounge.mochacity.com/" class="dyn_link_bdark">Dating &amp; Love</a></td></tr>
+				<tr><td bgcolor="#FFFFFF" style=" padding-top:5px; padding-bottom:5px;"><a href="http://members.mochacity.com/" class="dyn_link_bdark">Member Directory</a></td></tr>
+				<tr><td bgcolor="#FFFFFF" style=" padding-top:5px; padding-bottom:5px;"><a href="http://mb.mochacity.com/" class="dyn_link_bdark">Message Boards</a></td></tr>
+				<tr><td bgcolor="#FFFFFF" style=" padding-top:5px; padding-bottom:5px;"><a href="http://members.mochacity.com/chat2.htm" class="dyn_link_bdark">Audio/Video Chat</a></td></tr>
+				<tr><td bgcolor="#FFFFFF" style=" padding-top:5px; padding-bottom:5px;"><a href="http://books.mochacity.com/" class="dyn_link_bdark">Books &amp; Suggested Reading</a></td></tr>
+				<tr><td bgcolor="#FFFFFF" style=" padding-top:5px; padding-bottom:5px;"><a href="http://careers.mochacity.com/" class="dyn_link_bdark">Career Center</a></td></tr>
+				</tbody></table>
+				</div>
+			</td>
+			
+			
+			<td></td>
+			<td>
+				<div onmouseout="hideProviderMenu('tnb_music'); tnb_off('tnb2');" onmouseover="showProviderMenu('tnb_music'); tnb_on('tnb2');" id="tnb_music" style="position:absolute; height:0px; z-index:1000000; visibility:hidden; border:1px solid #1A1100; background-color:#1A1100;">
+				<table cellpadding="8" cellspacing="1" border="0" width="150">
+				<tbody><tr><td bgcolor="#FFFFFF" style=" padding-top:5px; padding-bottom:5px;"><a href="http://radio.mochacity.com/" class="dyn_link_bdark">Mocha Radio</a></td></tr>
+				<!-- <tr><td bgcolor="#FFFFFF" style=" padding-top:5px; padding-bottom:5px;"><a href="http://radio.mochacity.com/new_releases.htm" class="dyn_link_bdark">New Releases</a></td></tr>
+				<tr><td bgcolor="#FFFFFF" style=" padding-top:5px; padding-bottom:5px;"><a href="http://radio.mochacity.com/new_music.htm" class="dyn_link_bdark">Hot New Tracks</a></td></tr>
+				<tr><td bgcolor="#FFFFFF" style=" padding-top:5px; padding-bottom:5px;"><a href="http://radio.mochacity.com/news.htm" class="dyn_link_bdark">Music News</a></td></tr>
+				 -->
+				<tr><td bgcolor="#FFFFFF" style=" padding-top:5px; padding-bottom:5px;"><a href="http://mb.mochacity.com/boards.htm?ds=1&amp;ns=1&amp;ForumID=1012" class="dyn_link_bdark">Music Discussions</a></td></tr>
+				</tbody></table>
+				</div>
+			</td>
+			
+			
+			<td></td>
+			<td>
+				<div onmouseout="hideProviderMenu('tnb_movies'); tnb_off('tnb3');" onmouseover="showProviderMenu('tnb_movies'); tnb_on('tnb3');" id="tnb_movies" style="position:absolute; height:0px; z-index:1000000; visibility:hidden; border:1px solid #1A1100; background-color:#1A1100;">
+				<table cellpadding="8" cellspacing="1" border="0" width="150">
+				<tbody><tr><td bgcolor="#FFFFFF" style=" padding-top:5px; padding-bottom:5px;"><a href="http://movies.mochacity.com/" class="dyn_link_bdark">Mocha At The Movies</a></td></tr>
+				<tr><td bgcolor="#FFFFFF" style=" padding-top:5px; padding-bottom:5px;"><a href="http://movies.mochacity.com/showtimes.htm" class="dyn_link_bdark">Showtimes &amp; Tickets</a></td></tr>
+				<tr><td bgcolor="#FFFFFF" style=" padding-top:5px; padding-bottom:5px;"><a href="http://movies.mochacity.com/comingsoon.htm" class="dyn_link_bdark">Coming Soon</a></td></tr>
+				<tr><td bgcolor="#FFFFFF" style=" padding-top:5px; padding-bottom:5px;"><a href="http://mb.mochacity.com/boards.htm?ds=1&amp;ns=1&amp;ForumID=1027" class="dyn_link_bdark">Movie Discussions</a></td></tr>
+				</tbody></table>
+				</div>
+			</td>
+			
+			
+			<td></td>
+			<td>
+				<div onmouseout="hideProviderMenu('tnb_events'); tnb_off('tnb4');" onmouseover="showProviderMenu('tnb_events'); tnb_on('tnb4');" id="tnb_events" style="position:absolute; height:0px; z-index:1000000; visibility:hidden; border:1px solid #1A1100; background-color:#1A1100;">
+				<table cellpadding="8" cellspacing="1" border="0" width="150">
+				<tbody><tr><td bgcolor="#FFFFFF" style=" padding-top:5px; padding-bottom:5px;"><a href="http://vibe.mochacity.com" class="dyn_link_bdark">MochaVibe</a></td></tr>
+				<tr><td bgcolor="#FFFFFF" style=" padding-top:5px; padding-bottom:5px;"><a href="http://vibe.mochacity.com/events/event_list.htm?ns=1&amp;ds=1" class="dyn_link_bdark">Local Parties &amp; Events</a></td></tr>
+				<tr><td bgcolor="#FFFFFF" style=" padding-top:5px; padding-bottom:5px;"><a href="http://vibe.mochacity.com/events/photo_galleries.htm?ns=1&amp;ds=1" class="dyn_link_bdark">Event Photos</a></td></tr>
+				<tr><td bgcolor="#FFFFFF" style=" padding-top:5px; padding-bottom:5px;"><a href="http://atl.mochacity.com" class="dyn_link_bdark">ATL Meet &amp; Greet</a></td></tr>
+				<tr><td bgcolor="#FFFFFF" style=" padding-top:5px; padding-bottom:5px;"><a href="http://mb.mochacity.com/boards.htm?ds=1&amp;ns=1&amp;ForumID=1030" class="dyn_link_bdark">Event Discussions</a></td></tr>
+				<tr><td bgcolor="#FFFFFF" style=" padding-top:5px; padding-bottom:5px;"><a href="http://vibe.mochacity.com/events/event_post.htm" class="dyn_link_bdark">SUBMIT AN EVENT</a></td></tr>
+				<tr><td bgcolor="#FFFFFF" style=" padding-top:5px; padding-bottom:5px;"><a href="http://vibe.mochacity.com/venues/venue_post.htm" class="dyn_link_bdark">SUBMIT A BAR / CLUB</a></td></tr>
+				</tbody></table>
+				</div>
+			</td>
+			
+			
+			<td></td>
+			<td>
+				<div onmouseout="hideProviderMenu('tnb_fun'); tnb_off('tnb5');" onmouseover="showProviderMenu('tnb_fun'); tnb_on('tnb5');" id="tnb_fun" style="position:absolute; height:0px; z-index:1000000; visibility:hidden; border:1px solid #1A1100; background-color:#1A1100;">
+				<table cellpadding="8" cellspacing="1" border="0" width="150">
+				<tbody><tr><td bgcolor="#FFFFFF" style=" padding-top:5px; padding-bottom:5px;"><a href="http://comedy.mochacity.com/" class="dyn_link_bdark">Comedy Closet</a></td></tr>
+				<tr><td bgcolor="#FFFFFF" style=" padding-top:5px; padding-bottom:5px;"><a href="http://games.mochacity.com/" class="dyn_link_bdark">The Game Room</a></td></tr>
+				<tr><td bgcolor="#FFFFFF" style=" padding-top:5px; padding-bottom:5px;"><a href="http://models.mochacity.com/" class="dyn_link_bdark">Mocha Models</a></td></tr>
+				<tr><td bgcolor="#FFFFFF" style=" padding-top:5px; padding-bottom:5px;"><a href="http://members.mochacity.com/chat2.htm" class="dyn_link_bdark">Audio/Video Chat</a></td></tr>
+				<tr><td bgcolor="#FFFFFF" style=" padding-top:5px; padding-bottom:5px;"><a href="http://books.mochacity.com/" class="dyn_link_bdark">Books &amp; Suggested Reading</a></td></tr>
+				<tr><td bgcolor="#FFFFFF" style=" padding-top:5px; padding-bottom:5px;"><a href="http://mobilechat.mochacity.com" class="dyn_link_bdark">SMS Mobile Chat</a></td></tr>
+				<tr><td bgcolor="#FFFFFF" style=" padding-top:5px; padding-bottom:5px;"><a href="http://www.mochacity.com/slides/" class="dyn_link_bdark">Sexy Slides For Your Homepage</a></td></tr>
+				<tr><td bgcolor="#FFFFFF" style=" padding-top:5px; padding-bottom:5px;"><a href="http://www.mochacity.com/banners/" class="dyn_link_bdark">MochaCity Banners</a></td></tr>
+				</tbody></table>
+				</div>
+			</td>
+			
+			
+			<td></td>
+			<td>
+				<div onmouseout="hideProviderMenu('tnb_mvideo'); tnb_off('tnb6');" onmouseover="showProviderMenu('tnb_mvideo'); tnb_on('tnb6');" id="tnb_mvideo" style="position:absolute; height:0px; z-index:1000000; visibility:hidden; border:1px solid #1A1100; background-color:#1A1100;">
+				<table cellpadding="8" cellspacing="1" border="0" width="150">
+				<!-- <tr><td bgcolor="#FFFFFF" style=" padding-top:5px; padding-bottom:5px;"><a href="http://video.mochacity.com" class="dyn_link_bdark">YouTube Videos</a></td></tr> -->
+				<tbody><tr><td bgcolor="#FFFFFF" style=" padding-top:5px; padding-bottom:5px;"><a href="#" class="dyn_link_bdark">COMING SOON</a></td></tr>
+				</tbody></table>
+				</div>
+			</td>
+			
+			
+			<td></td>
+			<td>
+				<div onmouseout="hideProviderMenu('tnb_style'); tnb_off('tnb7');" onmouseover="showProviderMenu('tnb_style'); tnb_on('tnb7');" id="tnb_style" style="position:absolute; height:0px; z-index:1000000; visibility:hidden; border:1px solid #1A1100; background-color:#1A1100;">
+				<table cellpadding="8" cellspacing="1" border="0" width="150">
+				<tbody><tr><td bgcolor="#FFFFFF" style=" padding-top:5px; padding-bottom:5px;"><a href="http://style.mochacity.com/" class="dyn_link_bdark">Beauty &amp; Style</a></td></tr>
+				<!-- <tr><td bgcolor="#FFFFFF" style=" padding-top:5px; padding-bottom:5px;"><a href="http://style.mochacity.com/fellas/" class="dyn_link_bdark">For Da Fellas</a></td></tr> -->
+				<tr><td bgcolor="#FFFFFF" style=" padding-top:5px; padding-bottom:5px;"><a href="http://models.mochacity.com/" class="dyn_link_bdark">Mocha Models</a></td></tr>
+				<tr><td bgcolor="#FFFFFF" style=" padding-top:5px; padding-bottom:5px;"><a href="http://mb.mochacity.com/boards.htm?ds=1&amp;ns=1&amp;ForumID=1014" class="dyn_link_bdark">Style Discussions</a></td></tr>
+				</tbody></table>
+				</div>
+			</td>
+			
+			
+			<td></td>
+			<td>
+				<div onmouseout="hideProviderMenu('tnb_shopping'); tnb_off('tnb8');" onmouseover="showProviderMenu('tnb_shopping'); tnb_on('tnb8');" id="tnb_shopping" style="position:absolute; height:0px; z-index:1000000; visibility:hidden; border:1px solid #1A1100; background-color:#1A1100;">
+				<table cellpadding="8" cellspacing="1" border="0" width="150">
+				<tbody><tr><td bgcolor="#FFFFFF" style=" padding-top:5px; padding-bottom:5px;"><a href="http://store.mochacity.com" class="dyn_link_bdark">The Mocha Store</a></td></tr>
+				</tbody></table>
+				</div>
+			</td>
+			
+			
+			<td></td>
+			<td>
+				<div onmouseout="hideProviderMenu('tnb_news'); tnb_off('tnb9');" onmouseover="showProviderMenu('tnb_news'); tnb_on('tnb9');" id="tnb_news" style="position:absolute; height:0px; z-index:1000000; visibility:hidden; border:1px solid #1A1100; background-color:#1A1100;">
+				<table cellpadding="8" cellspacing="1" border="0" width="150">
+				<tbody><tr><td bgcolor="#FFFFFF" style=" padding-top:5px; padding-bottom:5px;"><a href="http://editorial.mochacity.com" class="dyn_link_bdark">New &amp; Editorials</a></td></tr>
+				<tr><td bgcolor="#FFFFFF" style=" padding-top:5px; padding-bottom:5px;"><a href="http://editorial.mochacity.com/writers/" class="dyn_link_bdark">Writers</a></td></tr>
+				<tr><td bgcolor="#FFFFFF" style=" padding-top:5px; padding-bottom:5px;"><a href="http://editorial.mochacity.com/article_submit.htm" class="dyn_link_bdark">Sumbit an Editorial</a></td></tr>
+				</tbody></table>
+				</div>
+			</td>
+		</tr>
+		</tbody></table></td>
+</tr>
+</tbody></table>
+</div>
+<table cellpadding="0" cellspacing="0" border="0" style="width:770px;">
+<tbody><tr>
+	<td><img src="http://www.mochacity.com/images/hp3/member_nav.jpg" width="548" height="37" border="0" alt="" usemap="#member_nav_Map"></td>
+	<td><table id="Table_01" width="222" border="0" cellpadding="0" cellspacing="0">
+		<form method="get" action="http://www.google.com/custom" target="_top"></form>
+		<tbody><tr>
+			<td>
+				<img id="hp3_ext_search_logo" src="http://www.mochacity.com/images/hp3/hp3_ext_search_logo.jpg" width="72" height="37" alt=""></td>
+				<td background="http://www.mochacity.com/images/hp3/hp3_ext_search_boxbg.gif" width="126" height="37" alt="" align="center">
+                        <input type="hidden" name="client" value="pub-8755026009003842">
+                        <input type="hidden" name="forid" value="1">
+                        <input type="hidden" name="ie" value="ISO-8859-1">
+                        <input type="hidden" name="oe" value="ISO-8859-1">
+                        <input type="hidden" name="cof" value="GALT:#332100;GL:1;DIV:#336699;VLC:C9C0A1;AH:center;BGC:FFFFFF;LBGC:FFFFFF;ALC:332100;LC:332100;T:957D51;GFNT:0000FF;GIMP:0000FF;LH:50;LW:237;L:http://www.mochacity.com/images/mochacitylogo.gif;S:http://www.mochacity.com;LP:1;FORID:1;">
+                        <input type="hidden" name="hl" value="en">	
+						<input type="text" name="q" maxlength="255" style="width:120px; border:1px solid #9a8257;">
+			</td>
+			<td><input type="image" src="http://www.mochacity.com/images/hp3/hp3_ext_search_button.gif" width="24" height="37" alt=""></td>
+		</tr>
+		
+		</tbody></table></td>
+
+</tr></tbody></table>
+<table cellpadding="0" cellspacing="0" border="0" style="width:770px;" bgcolor="#FFFFFF">
+<tbody><tr>
+	<td valign="top" bgcolor="#1A1100">
+
+			
+
+
+<!-- USERPLANE IM INCLUDE... SIGNED IN USERS ONLY -->
+<a href="http://members.mochacity.com/registration/registration.htm"><img src="http://www.mochacity.com/images/hp3_create_account_but.jpg" alt="Create A MochaCity.com Account" border="0"></a><br>
+
+
+		<table id="Table_01" width="170" border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr>
+		<td><a href="javascript:void(0);" onclick="toolTabSwap('mt');"><img id="hp3_toolsnav_buts_01" src="http://www.mochacity.com/images/hp3/hp3_toolsnavbuts_mt_off.jpg" name="mttab" width="85" height="21" alt="" border="0"></a></td>
+		<td><a href="javascript:void(0);" onclick="toolTabSwap('mm');"><img id="hp3_toolsnav_buts_02" src="http://www.mochacity.com/images/hp3/hp3_toolsnavbuts_mm_on.jpg" name="mmtab" width="85" height="21" alt="" border="0"></a></td>
+		</tr>
+		</tbody></table>
+
+	<table border="0" cellpadding="0" cellspacing="0" width="170" bgcolor="#1A1100">
+        <tbody><tr><td align="left" valign="top" width="170" bgcolor="#1A1100" height="180">
+        <div id="MMCANVAS" style="position: absolute; visibility: visible; background-color: rgb(26, 17, 0); width: 170px; text-align: center;">
+        <div style="padding:5px; text-align:center; width:160px;"><br>         
+			                <table border="0" cellpadding="3" cellspacing="0" bgcolor="#1A1100" width="150">
+	        	<form target="_top" action="http://members.mochacity.com/signin/signin.htm" method="POST"></form>
+       			<input type="HIDDEN" name="jumpback" value="http://www.mochacity.com/privacy.htm">
+        		<input type="HIDDEN" name="SERVICE_ID" value="3">
+        		<input type="HIDDEN" name="VerifyLogin" value="1">
+                <tbody><tr><td colspan="2"><font class="txt_bwhite">MEMBER SIGN IN</font></td></tr>
+                <tr><td colspan="2"><img src="http://www.mochacity.com/images/hp2/spacer.gif" width="20" height="10" alt=""></td></tr>
+                <tr><td colspan="2"><font class="small_txt_dark2">MochaID</font></td></tr>
+                <tr><td colspan="2"><input type="text" name="Username" value="" style="width:150px; height=22" maxlength="26"></td></tr>
+                <tr><td colspan="2"><img src="http://www.mochacity.com/images/hp2/spacer.gif" width="20" height="10" alt=""></td></tr>
+                <tr><td colspan="2"><font class="small_txt_dark2">Password</font></td></tr>
+                <tr><td colspan="2"><input type="password" name="Password" value="" style="width:150px; height=22" maxlength="16"></td></tr>
+                <tr><td colspan="2"><img src="http://www.mochacity.com/images/hp2/spacer.gif" width="20" height="10" alt=""></td></tr>
+                <tr>
+			<td align="right" valign="top" width="60"><a href="http://members.mochacity.com/signin/signin_help.htm" class="small_txt_white">[need&nbsp;help?]</a></td>
+	<td align="right" valign="top"><input type="image" src="http://www.mochacity.com/images/hp2/hp2_signin_submit.jpg" width="66" height="23" alt="" border="0" valign="top"></td></tr>
+                <tr><td colspan="2"><img src="http://www.mochacity.com/images/hp2/spacer.gif" width="20" height="10" alt=""></td></tr>
+        		
+                </tbody></table>
+			    
+		</div>
+        </div>
+
+
+       	<div id="MTCANVAS" style=" visibility:hidden; position:absolute; height:0px; background-color:#1A1100; width:170px;">
+        <div style="padding:5px;">
+		<img src="http://www.mochacity.com/images/blank.gif" width="5" height="5"><br>
+
+					<div align="center">
+			<img src="http://www.mochacity.com/images/blank.gif" width="5" height="5"><br>
+			<a href="http://members.mochacity.com/registration/registration.htm" class="txt_bwhite">
+			CLICK HERE<br>
+			TO CREATE YOUR<br>
+			MOCHACITY PROFILE
+			</a>
+			</div>
+		<img src="http://www.mochacity.com/images/hp3/hp3_toolsnavbuts_mt_off.jpg" style="height:0px; width:0px;">
+<img src="http://www.mochacity.com/images/hp3/hp3_toolsnavbuts_mm_off.jpg" style="height:0px; width:0px;">
+<img src="http://www.mochacity.com/images/hp3/hp3_toolsnavbuts_mt_on.jpg" style="height:0px; width:0px;">
+<img src="http://www.mochacity.com/images/hp3/hp3_toolsnavbuts_mm_on.jpg" style="height:0px; width:0px;">
+        </div>
+        </div>
+        </td></tr>
+        </tbody></table>
+
+
+
+<!-- BEGIN EBONYFLY SEARCHBOX  -->
+<div style="border:1px solid #013445;">
+<table width="168" border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
-		<td colspan="3">
-			<img src="http://www.mochacity.com/images/hp2/hp2_header_01.gif" width="770" height="19" alt=""></td>
+		<td><a href="http://www.ebonyfly.com/">
+			<img id="ebonyfly_srch_header" src="http://books.mochacity.com/images/ebonyfly_srch_header.jpg" width="168" height="60" alt="ebonyfly.com for African-American Books" border="0"></a></td>
 	</tr>
 	<tr>
-		<td><a title="MochaCity" href="http://www.mochacity.com">
-			<img src="http://www.mochacity.com/images/hp2/hp2_logo1.jpg" width="373" height="23" alt="MochaCity" border="0"></a></td>
-		<td colspan="2">
-			<img src="http://www.mochacity.com/images/hp2/hp2_topnav_icons.jpg" width="397" height="23" alt="" usemap="#hp2TopNavIcons" border="0"></td>
-	</tr>
-	<tr>
-		<td><a title="MochaCity" href="http://www.mochacity.com">
-			<img src="http://www.mochacity.com/images/hp2/hp2_logo2.jpg" width="373" height="45" alt="MochaCity" border="0"></a></td>
-		<td colspan="2" background="http://www.mochacity.com/images/hp2/hp2_header_05.jpg" width="397" height="45" align="right" valign="top">
-		<img width="12" height="9" src="http://www.mochacity.com/images/arrow_bullet.gif"><a href="javascript:void(0);" onclick="this.style.behavior ='url(#default#homepage)'; this.setHomePage('http://www.mochacity.com');" class="rl_small_txt_bdark">Make MochaCity Your Home Page!</a>&nbsp;&nbsp;&nbsp;
-		</td>
-	</tr>
-	<tr>
-		<td colspan="2" rowspan="2" background="http://www.mochacity.com/images/hp2/hp2_header_bg.jpg" width="591" height="51">
-			<table cellspacing="0" cellpadding="0" border="0">
-			<form method="get" action="http://www.google.com/custom" target="_top"></form>
-			<tbody><tr><td nowrap="nowrap" valign="top">
-			<a href="http://www.google.com/">
-			<img src="http://www.google.com/logos/Logo_25wht.gif" border="0" alt="Google" align="middle"></a></td>
-			<td nowrap="nowrap">
-			<input type="text" name="q" size="31" maxlength="255" value="" style="height:21px; font-size:13px">
-			<input type="submit" name="sa" value="Search" style="height:22px;">
-			<input type="hidden" name="client" value="pub-8755026009003842">
-			<input type="hidden" name="forid" value="1">
-			<input type="hidden" name="ie" value="ISO-8859-1">
-			<input type="hidden" name="oe" value="ISO-8859-1">
-			<input type="hidden" name="cof" value="GALT:#332100;GL:1;DIV:#336699;VLC:C9C0A1;AH:center;BGC:FFFFFF;LBGC:FFFFFF;ALC:332100;LC:332100;T:957D51;GFNT:0000FF;GIMP:0000FF;LH:50;LW:237;L:http://www.mochacity.com/images/mochacitylogo.gif;S:http://www.mochacity.com;LP:1;FORID:1;">
-			<input type="hidden" name="hl" value="en">
-			</td></tr>
+		<td bgcolor="#016889" height="38">
+			<table>
+			<form name="search" type="get" action="http://www.ebonyfly.com/cgi-bin/browse_catalog.cgi"></form>
+			<input type="hidden" name="index" value="t">
+			<input type="hidden" name="page" value="1">
+			<tbody><tr>
+			<td><input type="text" name="s" value="" style="border:1px solid #013445; width:110px; font-size:10pt;" maxlength="50"></td>
+			<td><input type="submit" name="" value=" GO " style="background-color:#ea7f07; font-size:9pt; height:20;  font-weight:bold; color:#FFFFFF; border:1px solid #9a5201; width:40px;"></td>
+			</tr>
 			
 			</tbody></table>
 		</td>
-		<td>
-			<img src="http://www.mochacity.com/images/hp2/hp2_header_07.jpg" width="179" height="20" alt=""></td>
-	</tr>
-	<tr>
-		<td>
-			<img src="http://www.mochacity.com/images/hp2/hp2_membertools_button.jpg" width="179" height="31" alt="" onmouseover="setMemToolVis('1');" onmouseout="setMemToolVis('0');"></td>
-	</tr>
-	<tr>
-		<td bgcolor="#140c00">
-			<img src="http://www.mochacity.com/images/hp2/spacer.gif" width="373" height="0" alt=""></td>
-		<td bgcolor="#140c00">
-			<img src="http://www.mochacity.com/images/hp2/spacer.gif" width="218" height="0" alt=""></td>
-		<td bgcolor="#140c00">
-			<img src="http://www.mochacity.com/images/hp2/spacer.gif" width="179" height="0" alt=""></td>
 	</tr>
 </tbody></table>
-<table id="Table_02" width="770" height="30" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td><a title="MochaCity.com" href="http://www.mochacity.com" onmouseover="changeImages('hp2_home', 'http://www.mochacity.com/images/hp2/hp2_home_but_on.jpg'); return true;" onmouseout="changeImages('hp2_home', 'http://www.mochacity.com/images/hp2/hp2_home_but_off.jpg'); return true;">
-			<img src="http://www.mochacity.com/images/hp2/hp2_home_but_off.jpg" width="69" height="30" alt="" name="hp2_home" border=""></a></td>
-		<td><a title="About MochaCity" href="http://www.mochacity.com/about_us.htm" onmouseover="changeImages('hp2_about', 'http://www.mochacity.com/images/hp2/hp2_about_but_on.jpg'); return true;" onmouseout="changeImages('hp2_about', 'http://www.mochacity.com/images/hp2/hp2_about_but_off.jpg'); return true;">
-			<img src="http://www.mochacity.com/images/hp2/hp2_about_but_off.jpg" width="142" height="30" alt="" name="hp2_about" border=""></a><a></a></td>
-		<td><a title="MochaCity Services" href="http://www.mochacity.com/services.htm" onmouseover="changeImages('hp2_services', 'http://www.mochacity.com/images/hp2/hp2_services_but_on.jpg'); return true;" onmouseout="changeImages('hp2_services', 'http://www.mochacity.com/images/hp2/hp2_services_but_off.jpg'); return true;">
-			<img src="http://www.mochacity.com/images/hp2/hp2_services_but_off.jpg" width="87" height="30" alt="" name="hp2_services" border=""></a></td>
-		<td><a title="Frequently Asked Questions" href="http://www.mochacity.com/faq.htm" onmouseover="changeImages('hp2_faq', 'http://www.mochacity.com/images/hp2/hp2_faq_but_on.jpg'); return true;" onmouseout="changeImages('hp2_faq', 'http://www.mochacity.com/images/hp2/hp2_faq_but_off.jpg'); return true;">
-			<img src="http://www.mochacity.com/images/hp2/hp2_faq_but_off.jpg" width="59" height="30" alt="" name="hp2_faq" border=""></a></td>
-		<td><a title="MochaCity Registration Form" href="http://members.mochacity.com/registration/registration.htm" onmouseover="changeImages('hp2_create', 'http://www.mochacity.com/images/hp2/hp2_create_but_on.jpg'); return true;" onmouseout="changeImages('hp2_create', 'http://www.mochacity.com/images/hp2/hp2_create_but_off.jpg'); return true;">
-			<img src="http://www.mochacity.com/images/hp2/hp2_create_but_off.jpg" width="145" height="30" alt="" name="hp2_create" border=""></a></td>
-
-		<td><a title="MochaCity SignIn" href="http://members.mochacity.com/signin/signin.htm" onmouseover="changeImages('hp2_signin', 'http://www.mochacity.com/images/hp2/hp2_signin_but_on.jpg'); return true;" onmouseout="changeImages('hp2_signin', 'http://www.mochacity.com/images/hp2/hp2_signin_but_off.jpg'); return true;">
-			<img src="http://www.mochacity.com/images/hp2/hp2_signin_but_off.jpg" width="80" height="30" alt="" name="hp2_signin" border="0"></a></td>
-
-		<td><a title="MochaCity Customer Support" href="http://www.mochacity.com/support.htm" onmouseover="changeImages('hp2_support', 'http://www.mochacity.com/images/hp2/hp2_support_but_on.jpg'); return true;" onmouseout="changeImages('hp2_support', 'http://www.mochacity.com/images/hp2/hp2_support_but_off.jpg'); return true;">
-			<img src="http://www.mochacity.com/images/hp2/hp2_support_but_off.jpg" width="86" height="30" alt="" name="hp2_support" border=""></a></td>
-		<td><a title="MochaCity - Contact Us" href="http://www.mochacity.com/contact_us.htm" onmouseover="changeImages('hp2_contact', 'http://www.mochacity.com/images/hp2/hp2_contact_but_on.jpg'); return true;" onmouseout="changeImages('hp2_contact', 'http://www.mochacity.com/images/hp2/hp2_contact_but_off.jpg'); return true;">
-			<img src="http://www.mochacity.com/images/hp2/hp2_contact_but_off.jpg" width="102" height="30" alt="" name="hp2_contact" border=""></a></td>
-	</tr>
-</tbody></table>
-<table cellpadding="0" cellspacing="1" border="0" bgcolor="#957d52" width="770">
-<tbody><tr><td bgcolor="#ffffff" style="padding-top:3px">
-        <a href="http://members.mochacity.com/signin/signin.htm" title="Your Homepage"><img src="http://www.mochacity.com/images/hpicons/hp2_icon_homepage.gif" border="0"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="http://www.mochacity.com/online2.htm?ns=1&amp;ds=1"><img src="http://www.mochacity.com/images/hpicons/hp2_icon_whosonline.gif" width="99" height="18" title="MochaCity - Who's Online" alt="Who's Online" border="0"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="http://members.mochacity.com/member_search.htm?ns=1&amp;ds=1&amp;NewMembers=1"><img src="http://www.mochacity.com/images/hpicons/hp2_icon_newmembers.gif" width="113" height="18" title="MochaCity - New Members" alt="New Members" border="0"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="http://members.mochacity.com/member_search.htm"><img src="http://www.mochacity.com/images/hpicons/hp2_icon_membersearch.gif" width="124" height="18" title="MochaCity - Member Search" alt="Member Search" border="0"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="http://directory.mochacity.com/"><img src="http://www.mochacity.com/images/hpicons/hp2_icon_links.gif" width="89" height="18" title="MochaCity - Urban Link Directory" alt="Urban Link Directory" border="0"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="http://games.mochacity.com/"><img src="http://www.mochacity.com/images/hpicons/hp2_icon_games.gif" width="76" height="18" title="MochaCity - Games" alt="Games" border="0"></a>
-</td></tr></tbody></table>
-<table id="Table_03" width="770" border="0" cellpadding="0" cellspacing="0" height="700">
-<tbody><tr>
-	<td valign="top" width="">
-	<!-- COLUMN 1 START -->
-		<iframe src="http://mm.mochacity.com/mm2.htm?t=6e5c7def2c41af732528836d94aa1668&amp;jumpback=http://members.mochacity.com%2Fprivacy.htm" scrolling="no" style="width:170px;height:180px;" border="0" frameborder="0"></iframe>
-		<table id="Table_04" border="0" cellpadding="0" cellspacing="0">
-		<tbody><tr><td valign="top" width="170"><a title="MochaCity Member Directory" href="http://members.mochacity.com"><img src="http://www.mochacity.com/images/hp2/hp2_mochamembers_but.jpg" width="170" height="35" alt="" border="0"></a></td></tr>
-		<tr>
-			<td valign="top" background="http://www.mochacity.com/images/hp2/hp2_subnav_bg.jpg">
-			<img src="http://www.mochacity.com/images/hp2/spacer.gif" width="170" height="6" alt=""><br>
-			<div style="padding-left:10px"><img width="12" height="9" src="http://www.mochacity.com/images/arrow2_bullet.gif"><a href="http://members.mochacity.com/profiles.htm?" class="small_txt_bdark">Your Home Page</a></div><img src="http://www.mochacity.com/images/hp2/hp2_subnav_dots.gif" alt=""><br>
-			<div style="padding-left:10px"><img width="12" height="9" src="http://www.mochacity.com/images/arrow2_bullet.gif"><a href="http://members.mochacity.com/member_search.htm?ns=1&amp;ds=1&amp;NewMembers=1" class="small_txt_bdark">New Members</a></div><img src="http://www.mochacity.com/images/hp2/hp2_subnav_dots.gif" alt=""><br>
-			<div style="padding-left:10px"><img width="12" height="9" src="http://www.mochacity.com/images/arrow2_bullet.gif"><a href="http://members.mochacity.com/recent_blogs.htm" class="small_txt_bdark">Recent Blogs</a></div><img src="http://www.mochacity.com/images/hp2/hp2_subnav_dots.gif" alt=""><br>
-			<div style="padding-left:10px"><img width="12" height="9" src="http://www.mochacity.com/images/arrow2_bullet.gif"><a href="http://members.mochacity.com/member_search.htm" class="small_txt_bdark">Advanced Member Search</a></div><img src="http://www.mochacity.com/images/hp2/hp2_subnav_dots.gif" alt=""><br>			
-			<div style="padding-left:10px"><img width="12" height="9" src="http://www.mochacity.com/images/arrow2_bullet.gif"><a href="http://members.mochacity.com/service_overview.htm" class="small_txt_bdark">About This Service</a></div>
-
-			<img src="http://www.mochacity.com/images/hp2/spacer.gif" width="170" height="6" alt=""><br>
-			</td>
-		</tr>
-		<tr><td valign="top" width="170"><a title="MochaCity Urban Link Directory" href="http://directory.mochacity.com"><img src="http://www.mochacity.com/images/hp2/hp2_linkdirectory_but.jpg" width="170" height="35" alt="" border="0"></a></td></tr>
-		<tr><td valign="top" width="170"><a title="MochaCity News &amp; Editorials" href="http://editorial.mochacity.com"><img src="http://www.mochacity.com/images/hp2/hp2_mochaeditorial_but.jpg" width="170" height="35" alt="" border="0"></a></td></tr>
-		<tr><td valign="top" width="170"><a title="The Mocha Lounge - Dating &amp; Love" href="http://lounge.mochacity.com"><img src="http://www.mochacity.com/images/hp2/hp2_mochalounge_but.jpg" width="170" height="35" alt="" border="0"></a></td></tr>
-		<tr><td valign="top" width="170"><a title="MochaCity Message Boards" href="http://mb.mochacity.com"><img src="http://www.mochacity.com/images/hp2/hp2_mochamb_but.jpg" width="170" height="35" alt="" border="0"></a></td></tr>
-		<tr><td valign="top" width="170"><a title="The MochaStore - Mocha Gifts &amp; Apparel" href="http://store.mochacity.com"><img src="http://www.mochacity.com/images/hp2/hp2_mochastore_but.jpg" width="170" height="35" alt="" border="0"></a></td></tr>
-		<tr><td valign="top" width="170"><a title="MochaVibe - Nightlife &amp; Events" href="http://vibe.mochacity.com"><img src="http://www.mochacity.com/images/hp2/hp2_mochavibe_but.jpg" width="170" height="35" alt="" border="0"></a></td></tr>
-		<tr><td valign="top" width="170"><a title="MochaRadio - Streaming Hiphop and R&amp;B" target="_blank" href="http://radio.mochacity.com"><img src="http://www.mochacity.com/images/hp2/hp2_mocharadio_but.jpg" width="170" height="35" alt="" border="0"></a></td></tr>
-		<tr><td valign="top" width="170"><a title="Mocha Ringtones - Mobile Ringtones, Wallpapers &amp; Games" target="_blank" href="http://www.mocharingtones.com"><img src="http://www.mochacity.com/images/hp2/hp2_mocharingtones_but.jpg" width="170" height="35" alt="" border="0"></a></td></tr>
-		<tr><td valign="top" width="170"><a title="Mocha Mobile Chat - SMS Chat" target="_blank" href="http://mobilechat.mochacity.com"><img src="http://www.mochacity.com/images/hp2/hp2_mochamobilechat_but.jpg" width="170" height="35" alt="" border="0"></a></td></tr>
-		</tbody></table>
-
-<div style="width:170px; text-align:center;">
-		<img src="/images/blank.gif" width="35" height="40" border=""><br><a href="http://adserve.mochacity.com/adengine/adclick.php?n=ab7d30e0" target="_blank"><img src="http://adserve.mochacity.com/adengine/adview.php?what=zone:16&amp;n=ab7d30e0" border="0" alt=""></a><br><img src="/images/blank.gif" width="35" height="40" border=""><br><a href="http://adserve.mochacity.com/adengine/adclick.php?n=ae033c8e" target="_blank"><img src="http://adserve.mochacity.com/adengine/adview.php?what=zone:17&amp;n=ae033c8e" border="0" alt=""></a><br><img src="/images/blank.gif" width="35" height="40" border=""><br><a href="http://adserve.mochacity.com/adengine/adclick.php?n=a00fd5e3" target="_blank"><img src="http://adserve.mochacity.com/adengine/adview.php?what=zone:18&amp;n=a00fd5e3" border="0" alt=""></a>
 </div>
-	</td>
-	
-	
-	<!-- ###################################################################################  -->
+<!-- END EBONYFLY SEARCHBOX --><br><br>
 
-	
-	<td valign="top" width="600" bgcolor="#FFFFFF" align="center">
-	<img src="http://members.mochacity.com/images/hp2_mochamembers_header.jpg" alt=""><br>
-	<img src="http://lounge.mochacity.com/images/blank.gif" height="1" width="600" alt=""><br>
-	<!-- COLUMN 2 START -->
-	
-	
-	
-	
-	
-	
-	
-<table width="770" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr><td valign="top" width="770" height="5" colspan="3"><img src="/images/blank.gif" width="770" height="5" alt="" border=""></td></tr>
-<tr>
-<td valign="top" height="500">
-<font class="large_txt_bdark">Privacy Statement</font>
-<br><br><br><br><br>
+<div align="center">
+<script type="text/javascript"><!--
+google_ad_client = "pub-8755026009003842";
+google_ad_width = 160;
+google_ad_height = 600;
+google_ad_format = "160x600_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "1A1100";
+google_color_bg = "1A1100";
+google_color_link = "957D51";
+google_color_url = "957D51";
+google_color_text = "FFFFFF";
+google_kw_type = "broad";
+google_kw = "urban, black, free, music, fashion, mp3, credit";
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+
+</td>
+<td valign="top" height="400" width="600" bgcolor="#FFFFFF" align="center"><div style="text-align:justify; padding:4px;" ;="">
+<font class="large_txt_bdark">MochaCity Privacy Statement</font>
+<br><br><br>
 
 
-
+<div style="text-align:justify; padding:4px;" ;="">
 We at Mocha Entertainment Group, Inc., the operators of MochaCity and related services, ("we" or "MochaCity") have created this privacy 
 policy to demonstrate our firm commitment to protecting your personal information and informing you about how we handle it. 
 This privacy policy only applies to transactions and activities in which you engage, and data gathered, on MochaCity (MochaLounge.com), 
@@ -405,59 +658,12 @@ If you have any questions or concerns about this privacy policy, the practices o
 can contact us at info@MochaLounge.com. You can also send us mail to: MochaCity, c/o Legal Department, P.O. Box 570149, 
 Tarzana CA, 91357.
 <br><br><br>
-
+</div>
+</div>
 </td>
 </tr>
 </tbody></table>
 
-	<br><img src-"="" mages="" blank.gif"="" height="1" width="600">
-	</td>
-	<td valign="TOP">
-
-<script>
-if( screen.width > 800)
-{
-document.write('<script language="javascript" src="http:\/\/media.fastclick.net/w/get.media?sid=23258&m=3&tp=7&d=j&t=n"><\/script>');
-
-
-google_ad_client = "pub-8755026009003842";
-google_ad_width = 160;
-google_ad_height = 600;
-google_ad_format = "160x600_as";
-google_ad_type = "text_image";
-google_ad_channel ="";
-google_color_border = "332109";
-google_color_bg = "FFFFF";
-google_color_link = "FFD200";
-google_color_url = "FFD200";
-google_color_text = "332109";
-
-
-document.write('<div style="width:180px; z-index:1000000; position:absolute; top:0px; left:770">');
-document.write('<a href="http://www.blackmeninamerica.com/" title="Black Men In America">');
-document.write('<img src="http://www.mochacity.com/partners/bmia.gif" width="160" height="195" alt="Black Men In America" BORDER="0">');
-document.write('</a></div>');
-
-// GOOGLE ADS FOR RIGHT NAV
-google_ad_client = "pub-8755026009003842";
-google_ad_width = 160;
-google_ad_height = 600;
-google_ad_format = "160x600_as";
-google_ad_type = "text";
-google_ad_channel ="";
-google_color_border = "332109";
-google_color_bg = "FFFFF";
-google_color_link = "FFD200";
-google_color_url = "FFD200";
-google_color_text = "332109";
-
-
-document.write('<script type="text/javascript" src="http:\/\/pagead2.googlesyndication.com/pagead/show_ads.js"><\/script>');
-}
-</script>
-
-	</td></tr>
-</tbody></table>
 <!-- COLUMN BOTTOM NAV START -->
 <table id="Table_05" width="770" border="0" cellpadding="0" cellspacing="0">
 <tbody><tr><td valign="top" width="770" height="8"><img src="http://www.mochacity.com/images/hp2/hp2_mainbottom1.gif" width="770" height="8" alt=""></td></tr>
@@ -482,25 +688,110 @@ document.write('<script type="text/javascript" src="http:\/\/pagead2.googlesyndi
 <a href="http://vibe.mochacity.com" class="small_txt_dark">Nightlife &amp; Events</a> &nbsp;·&nbsp;
 <a href="http://members.mochacity.com" class="small_txt_dark">Member Directory</a>
 <br>
+<a href="mailto:Press Releases &lt;press@mochacity.com&gt;&amp;Subject=Press%20Release" class="small_txt_dark">Press Releases</a> &nbsp;·&nbsp;
 <a href="http://radio.mochacity.com" class="small_txt_dark">Mocha Radio</a> &nbsp;·&nbsp;
+<a href="http://style.mochacity.com" class="small_txt_dark">Beauty &amp; Style</a> &nbsp;·&nbsp;
+<a href="http://models.mochacity.com" class="small_txt_dark">Models</a> &nbsp;·&nbsp;
+<a href="http://movies.mochacity.com" class="small_txt_dark">Mocha Movies</a> &nbsp;·&nbsp;
 <a href="" class="small_txt_dark">Mobile SMS Chat</a> &nbsp;·&nbsp;
 <a href="http://store.mochacity.com" class="small_txt_dark">The Mocha Store</a> &nbsp;·&nbsp;
-<a href="http://www.mocharingtones.com" class="small_txt_dark">Ringtones</a>
+<a href="http://www.mochacity.com/slides/" class="small_txt_dark">Mocha Slides</a> &nbsp;·&nbsp;
+<a href="http://www.mochacity.com/rss.htm" alt="rss syndication" class="small_txt_dark"><img src="http://www.mochacity.com/images/rss.gif" border="0"></a>
 </div>
 <br>
 <div align="center">
 <a href="http://www.mochacity.com"><img src="http://www.mochacity.com/images/mochacity_logo_trans.gif" width="180" height="31" alt="Mocha City" border="0"></a><br>
-<font class="rl_small_txt_bdark">© 2004-2005 <a href="http://www.mochaent.com" target="_blank" class="rl_small_txt_bdark2">Mocha Entertainment Group, Inc</a>. All Rights Reserved.</font>
+<font class="rl_small_txt_bdark">© 2004-2006 <a href="http://www.mochaent.com" target="_blank" class="rl_small_txt_bdark2">Mocha Entertainment Group, Inc</a>. All Rights Reserved.</font>
 </div>
 <br>
-</td></tr>
+</td>
+</tr>
 <tr><td valign="top" width="770" height="1"><img src="http://www.mochacity.com/images/hp2/hp2_mainbottom2.gif" width="770" height="1" alt=""></td></tr>
 </tbody></table>
 <map name="hp2TopNavIcons">
-<area shape="rect" alt="Mocha Member Support" coords="333,0,396,23" href="http://lounge.mochacity.com/support.htm">
-	<area shape="rect" alt="Mocha Radio" coords="119,0,210,22" href="http://radio.mochacity.com" target="_top">
-	<area shape="rect" alt="Mocha Audio/Video Chat" coords="237,0,302,23" href="http://members.mochacity.com/chat.htm" target="_top">
-<area shape="rect" alt="The Mocha Lounge - Dating &amp; Love" coords="0,0,92,23" href="http://lounge.mochacity.com" target="_top">
+<area shape="rect" alt="Mocha Member Support" coords="496,0,566,31" href="http://lounge.mochacity.com/support.htm">
+<area shape="rect" alt="Mocha Audio/Video Chat" coords="405,0,477,31" href="http://members.mochacity.com/chat.htm">
+<area shape="rect" alt="Mocha Radio" coords="285,0,388,31" href="http://radio.mochacity.com">
+<area shape="rect" alt="The Mocha Lounge - Dating &amp; Love" coords="165,0,270,31" href="http://lounge.mochacity.com">
 </map>
+<!-- END BOTTOM NAV START -->
+</td>
+<td background="http://www.mochacity.com/images/hp3/hp3_rl_borders.gif"><img src="http://www.mochacity.com/images/hp3/blank.gif" width="5" height="5" alt="" border="0"></td>
+
+
+<td valign="top" width="160" style="padding-left:3px;">
+<img src="http://www.mochacity.com/images/hp3/blank.gif" width="160" height="1" alt="" border="0"><br>
+
+
+<!-- Begin -  Site: MochaEnt Zone: WIDESKY - Mocha -->
+<script language="javascript" type="text/javascript">
+<!--
+var browName = navigator.appName;
+var SiteID = 2;
+var ZoneID = 7;
+var browDateTime = (new Date()).getTime();
+if (browName=='Netscape')
+{
+document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://www.adgroups.net/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=98579&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime + '">'); document.write('</'+'scr'+'ipt>');
+}
+if (browName!='Netscape')
+{
+document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://www.adgroups.net/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;PageID=98579&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime + '">'); document.write('</'+'scr'+'ipt>');
+}
+// --> 
+</script><script language="javascript" src="http://www.adgroups.net/a.aspx?ZoneID=7&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=98579&amp;SiteID=2&amp;Random=1580377439570"></script>
+<noscript>
+    <a href="http://www.adgroups.net/a.aspx?ZoneID=7&amp;Task=Click&amp;Mode=HTML&amp;SiteID=2&amp;PageID=98579" target="_blank">
+    <img src="http://www.adgroups.net/a.aspx?ZoneID=7&amp;Task=Get&amp;Mode=HTML&amp;SiteID=2&amp;PageID=98579" width="160" height="600" border="0"  alt=""></a>
+</noscript>
+<!-- End -  Site: MochaEnt Zone: WIDESKY - Mocha -->
+
+<script language="javascript">
+toolTabSwap( 'mm' );
+</script>
+
+
+</td> 
+
+
+
+
+</tr>
+<tr><td colspan="3"><img src="http://www.mochacity.com/images/hp3/hp3_bottom_border.gif" width="780" height="5" alt=""></td></tr>
+</tbody></table>
+</div>
+
+
+<map name="member_nav_Map">
+<area shape="rect" alt="Message Boards &amp; Forums" coords="437,6,547,33" href="http://mb.mochacity.com">
+<area shape="rect" alt="Advanced Member Searching" coords="328,6,432,33" href="http://members.mochacity.com/member_search.htm">
+<area shape="rect" alt="New MochaCity Members" coords="223,6,321,33" href="http://members.mochacity.com/member_search.htm?ns=1&amp;ds=1&amp;NewMembers=1">
+<area shape="rect" alt="Who's Online Now" coords="125,6,216,33" href="http://online.mochacity.com/online2.htm?ns=1&amp;ds=1">
+		<area shape="rect" alt="Visit Your MochaCity Home Page" coords="0,6,118,33" href="http://members.mochacity.com/">
+	
+</map>
+
+
+
+
+<map name="hp3TopNavIcons_Map">
+<area shape="rect" alt="" coords="333,0,386,11" href="http://www.mochacity.com/support.htm">
+	<area shape="rect" alt="" coords="237,0,301,12" href="http://members.mochacity.com/chat.htm">
+<area shape="rect" alt="" coords="120,0,208,12" href="javascript:void(0);" onclick="popPlayer();">
+<area shape="rect" alt="The Mocha Lounge - Dating &amp; Love" coords="0,0,92,12" href="http://lounge.mochacity.com">
+</map>
+
+
+
+<!-- Start of StatCounter Code -->
+<script type="text/javascript" language="javascript">
+var sc_project=1164961; 
+var sc_invisible=1; 
+var sc_partition=10; 
+var sc_security="970f9e78"; 
+</script>
+
+<script type="text/javascript" language="javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="http://c11.statcounter.com/counter.php?sc_project=1164961&amp;java=0&amp;security=970f9e78&amp;invisible=1" alt="free web hit counter" border="0"></a> </noscript>
+<!-- End of StatCounter Code -->
 
 </body></html>
