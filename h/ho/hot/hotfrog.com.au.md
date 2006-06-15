@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hotfrog.com.au privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211155337id_/http%3A//www.hotfrog.com.au/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotfrog.com.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615204839id_/http%3A//www.hotfrog.com.au/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Hotfrog Privacy
 
 Reed Elsevier Australia Pty Limited and its related companies (“the Reed Group”) have a firm commitment to privacy in accordance with the Privacy Amendment (Private Sector) Act 2000, which took effect in December 2001.
 
