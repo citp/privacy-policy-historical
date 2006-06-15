@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepcmanwebsite.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216080421id_/http%3A//thepcmanwebsite.com/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepcmanwebsite.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615031040id_/http%3A//thepcmanwebsite.com/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Subscribe to our Mailing List - The PCman Website
 
