@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starfieldtech.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213010701id_/http%3A//www.starfieldtech.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starfieldtech.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615041025id_/http%3A//starfieldtech.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Starfield Technologies, Inc. - STARFIELD TECHNOLOGIES, INC. PRIVACY POLICY
 
@@ -9,7 +9,7 @@ Starfield Technologies is a licensee of the TRUSTe Privacy Program. If you have 
 I. What information is collected?
 
 **Personal Information:**  
-In order to make suggestions or request product or partnership information, we require personal information from you, including your name, address, phone number, and e-mail address. If you are enrolling for a Starfield SSL Certificate, we will use your personal information for authenticating your identify in order to create and issue to you a Certificate, and to provide the accompanying Certificate Service. We do not provide your personal information from the Certificate to any third parties that are not part of the Certificate Service. For more information on our SSL Certificates, please visit [Starfield’s Certificate Repository](https://web.archive.org/repository/).
+In order to make suggestions or request product or partnership information, we require personal information from you, including your name, address, phone number, and e-mail address. If you are enrolling for a Starfield SSL Certificate, we will use your personal information for authenticating your identify in order to create and issue to you a Certificate, and to provide the accompanying Certificate Service. We do not provide your personal information from the Certificate to any third parties that are not part of the Certificate Service. For more information on our SSL Certificates, please visit [Starfield's Certificate Repository](https://web.archive.org/repository/).
 
 **Clear GIFs (Web beacons/Web bugs)**  
 Our site does not use clear GIFs.
