@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crateandbarrel.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228191236id_/http%3A//www.crateandbarrel.com/assistance/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crateandbarrel.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615202210id_/http%3A//www.crateandbarrel.com/assistance/privacyPolicy.aspx) for the most accurate reproduction.*
 
 # Crate and Barrel: Assistance
 
@@ -33,9 +33,7 @@ Partnerships
 Links To Sites And Services  
 A Privacy Promise  
 Privacy Policy Updates  
-Questions Anyone?
-
-  
+Questions Anyone?  
 
 
  **Getting To Know You**  
@@ -99,11 +97,11 @@ Back to top
  **Partnerships**  
 We currently contract with several online partners to help manage and optimize our Internet business and communications. 
 
-We use Doubleclick to send emails that you have agreed to receive. Web cookies are used in those email messages and at our Web site to help us measure the effectiveness of those emails. You can "opt out" of this email cookie at any time by clicking here: <http://optout.crateandbarrel.rpts.net/rpts/optout-success.html>. 
+We use CheetahMail to send emails that you have agreed to receive. Web cookies are used in those email messages and at our Web site to help us measure the effectiveness of those emails. You can "opt out" of this email cookie at any time by [deleting your name](http://www.crateandbarrel.com/assistance/optout.aspx) from the Crate and Barrel email mailing list. 
 
 We also contract with Omniture to help us assess visitation to our Crate and Barrel site. To do this, we place small pixel tags and cookies on our site. While these do allow Omniture to track your visits, the data retrieved cannot be used for any reason without our authorization. To review their privacy policy, please go to [http://www.omniture.com/s2/privacy_policy.html.](http://www.omniture.com/s2/privacy_policy.html) Although Omniture logs the information about your visit, we control how that data may and may not be used. You can "opt out" of this Web site analysis tool by clicking here: <http://www.omniture.com/s2/privacy_policy.html#optout>. 
 
-Many registry customers appreciate our partnership with WeddingChannel.com. Couples find it a convenient way for their guest sto purchase from their gift registry at Crate and Barrel and other companies. Please see the Privacy Policy posted at [http://www.weddingchannel.com](http://www.weddingchannel.com/).
+Many registry customers appreciate our partnership with sites like WeddingChannel.com, which list multiple registries (Crate and Barrel and others) in one place.
 
   
 Back to top
@@ -145,7 +143,7 @@ Naperville, IL 60540-3918
 
 * * *
 
-_Last Updated: May 24th, 2005_
+_Last Updated: April 11th, 2006_
 
 Back to top
 
