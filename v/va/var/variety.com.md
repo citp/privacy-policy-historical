@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the variety.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231210258id_/http%3A//www.variety.com/index.asp%3Flayout%3Dabout_privacy_layout) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the variety.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615195826id_/http%3A//www.variety.com/index.asp%3Flayout%3Dabout_privacy_layout) for the most accurate reproduction.*
 
 # Variety.com - About Variety Privacy Policy
-
-advertisement 
-
-  
-
 
 #### Privacy Policy
 
