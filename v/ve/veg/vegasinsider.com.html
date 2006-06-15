@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vegasinsider.com privacy policy that was archived on 2005-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051212121052id_/http%3A//www.vegasinsider.com/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vegasinsider.com privacy policy that was archived on 2006-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615190144id_/http%3A//www.vegasinsider.com/privacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 
@@ -19,7 +19,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 	<link rel="Stylesheet" type="TEXT/CSS" href="/include/default.css">
 
-<script language="JavaScript" src="http://www.vegasinsider.com/visports/popups/homepagepopup.js"></script><script language="JavaScript1.2" type="text/javascript" src="http://www.vegasinsider.com/include/menu_items.js"></script><script language="JavaScript1.2" type="text/javascript" src="http://www.vegasinsider.com/include/pd.js"></script><script language="JavaScript" type="text/javascript">
+<script language="JavaScript" type="text/javascript" src="http://www.vegasinsider.com/include/menu_items.js"></script><script language="JavaScript" type="text/javascript" src="http://www.vegasinsider.com/include/pd.js"></script><script language="JavaScript" type="text/javascript">
 var IE = (document.all) ? 1 : 0;
 var DOM = (document.getElementById) ? 1 : 0;
 var NS4 = (document.layers) ? 1 : 0;
@@ -51,12 +51,159 @@ mywin = window.open(url,"win",'toolbar=0,location=0,directories=0,status=0,menub
 
 
 
+<body topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" link="000080" alink="000080" vlink="purple">
 
 
 
-<body topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" link="000080" alink="000080" vlink="purple" onload="checkCount()">
+<div style="position:absolute; width:0; height:0; left:-49; top:-49; z-index:4;">
 
 
+
+
+
+<script language="Javascript">
+	function SpaceReplacer2(str){
+		if (str.match("%20")) str = str.replace(/%20/, ' '); //Decoding cookie's ISO-Latin space value
+		if (str.match("%27")) str = str.replace(/%27/, "'"); //Decoding cookie's ISO-Latin apostrophe value
+		if (str.match("%2C")) str = str.replace(/%2C/, ','); //Decoding cookie's ISO-Latin comma value
+		if (str.match("%2D")) str = str.replace(/%2D/, '-'); //Decoding cookie's ISO-Latin dash value
+		if (str.match("%2E")) str = str.replace(/%2E/, '.'); //Decoding cookie's ISO-Latin period value
+		if (str.match("%5F")) str = str.replace(/%5F/, '_'); //Decoding cookie's ISO-Latin undescore value
+		 
+		return str;
+	}
+</script>
+
+<script language="Javascript">
+    function readcookie2(cname) {
+        cname = cname.toUpperCase() + "=";
+        var cookiearr = document.cookie.split(";");
+        for(var i=0;i<cookiearr.length;i++) {
+            c = cookiearr[i];
+            while (c.charAt(0) == " ") c = c.substring(1, c.length);
+            if (c.indexOf(cname) == 0) return c.substring(cname.length, c.length);
+        }
+        return null;
+    }
+</script>
+
+
+
+<script language="Javascript">
+function getProp5(){
+	username = readcookie2("user_name");
+	if(username){
+		username = SpaceReplacer2(username);
+		if ('' != '')
+			insert_prop5 = "logged in - ";
+		else	
+			insert_prop5 = "logged in - free";
+	} else {	
+		insert_prop5 = "anonymous";
+	}
+	return insert_prop5;
+}
+</script> 
+
+
+
+<script type="text/javascript">
+function getProp6(){
+	var d=new Date()
+	var weekday=new Array(7)
+	weekday[0]="sunday"
+	weekday[1]="monday"
+	weekday[2]="tuesday"
+	weekday[3]="wednesday"
+	weekday[4]="thursday"
+	weekday[5]="friday"
+	weekday[6]="saturday"
+	return weekday[d.getDay()];
+}
+function getProp7(){
+	var currentTime = new Date()
+	var hours = currentTime.getHours(); 
+	if(hours > 11){
+		type = "pm";
+	} else {
+		type = "am";
+	}
+	if (hours == 0){
+		hours = 12;
+	} else if (hours > 12){	
+		hours = hours-12;
+	}
+	var myTime = hours + type;
+	return myTime;
+}
+</script>
+
+
+
+
+<!-- SiteCatalyst code version: H.4. Copyright 1997-2006 Omniture, Inc. More info available at http://www.omniture.com -->
+<script language="JavaScript"><!--
+var s_account="vivegasinsidercom"  //accout changes depending on site
+//--></script>
+<script language="JavaScript" src="http://www.vegasinsider.com/include/s_code.js"></script>
+<script language="JavaScript"><!--
+/* You may give each page an identifying name, server, and channel on the next lines. */
+if (s_account == 'vivegasdrf'){ 
+	s.linkInternalFilters="javascript:,drf.vegasinsider.com, sports.drf.com"
+} else {
+	s.linkInternalFilters="javascript:,.,/"
+}
+if (0 == 1){
+	page_url='http%3A//www.vegasinsider.com'
+} else {
+	if (location.pathname.match("my-insider/index.cfm")){
+		path = location.pathname.replace(/index.cfm/, '');
+	} else {
+		path = location.pathname; 
+	}	 
+	page_url=location.protocol+"//"+location.host+path  // add +location.search for pages with query strings
+}	
+if (page_url.match("%3A")) page_url = page_url.replace(/%3A/, ':'); 
+if (page_url.match("%2D")) page_url = page_url.replace(/%2D/, '-'); 
+s.pageName=page_url
+s.server="63.251.153.135"
+s.channel=""
+s.pageType="" //on error pages only, set to "errorPage"
+s.prop1="unknown"
+s.prop2=""
+s.prop3=""
+s.prop4=""
+s.prop5=getProp5();
+s.prop6=getProp6();
+s.prop7=getProp7();
+s.prop8=""
+s.prop9=""
+s.prop10=""
+/* E-commerce Variables */
+s.campaign=""
+s.state=""
+s.zip=""
+if ('' != ''){
+	s.events=""
+}
+if ('' != ''){
+	s.products=""
+}
+s.purchaseID=""
+s.eVar1=""
+s.eVar2=""
+s.eVar3=""
+s.eVar4=""
+s.eVar5=""
+/* Hierarchy Variables */
+s.hier1="unknown,"+s.pageName
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><img src="http://vegasinsider.com.122.2O7.net/b/ss/vivegasinsidercom/1/H.4--NS/7555640?pageName=http%3A//www.vegasinsider.com&ch=&c1=unknown&c5=anonymous&h1=unknown%2Chttp%3A//www.vegasinsider.com&server=63.251.153.135" height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.4. -->
+</div>
 <table class="gnsbtxt" cellpadding="0" cellspacing="12" border="0" width="900">
 	<tbody><tr align="center">
 		<td valign="middle">
@@ -67,7 +214,7 @@ mywin = window.open(url,"win",'toolbar=0,location=0,directories=0,status=0,menub
 		var dclkTracker='http://ad.doubleclick.net/adj/trackers.vegasinsider.com/'+vTag+';sz=1x1;tile=9;ord='+random+'?';
 		if (location.search.substring(1).indexOf('DCLK')>-1) document.write('<input type="text" value="'+dclkTracker+'" style="width:900px"><br>');
 		document.write('<script src="'+dclkTracker+'"><\/script>');
-		// --></script><script src="http://ad.doubleclick.net/adj/trackers.vegasinsider.com/user_services;feat=user_services;type=ros;page=lower;sz=1x1;tile=9;ord=4449001615809125?"></script><noscript><a href="http://ad.doubleclick.net/jump/trackers.vegasinsider.com/noscript;arena=other;sz=1x1;tile=9;ord=122333?" target="_blank"><img src="http://ad.doubleclick.net/ad/trackers.vegasinsider.com/noscript;arena=other;sz=1x1;tile=9;ord=122333?" width="1" height="1" border="0"></a></noscript>
+		// --></script><script src="http://ad.doubleclick.net/adj/trackers.vegasinsider.com/user_services;feat=user_services;type=ros;page=lower;sz=1x1;tile=9;ord=533553899832903?"></script><noscript><a href="http://ad.doubleclick.net/jump/trackers.vegasinsider.com/noscript;arena=other;sz=1x1;tile=9;ord=122333?" target="_blank"><img src="http://ad.doubleclick.net/ad/trackers.vegasinsider.com/noscript;arena=other;sz=1x1;tile=9;ord=122333?" width="1" height="1" border="0"></a></noscript>
 		<script language="JavaScript"><!--//
 		/*top-page banner*/
 		if (!vTag) {var vTag="ros;type=ros";}
@@ -75,7 +222,7 @@ mywin = window.open(url,"win",'toolbar=0,location=0,directories=0,status=0,menub
 		var dclkBannerTop='http://ad.doubleclick.net/adj/banners.vegasinsider.com/top/'+vTag+';pos=top;sz=728x90;tile=5;ord='+random+'?';
 		if (location.search.substring(1).indexOf('DCLK')>-1) document.write('<input type="text" value="'+dclkBannerTop+'" style="width:728px"><br>');
 		document.write('<script src="'+dclkBannerTop+'"><\/script>');
-		// --></script><script src="http://ad.doubleclick.net/adj/banners.vegasinsider.com/top/user_services;feat=user_services;type=ros;page=lower;pos=top;sz=728x90;tile=5;ord=4449001615809125?"></script><noscript><a href="http://ad.doubleclick.net/jump/banners.vegasinsider.com/top/noscript;arena=other;pos=top;sz=728x90;tile=1;ord=122333?" target="_blank"><img src="http://ad.doubleclick.net/ad/banners.vegasinsider.com/top/noscript;arena=other;pos=top;sz=728x90;tile=1;ord=122333?" width="728" height="90" border="0"></a></noscript>
+		// --></script><script src="http://ad.doubleclick.net/adj/banners.vegasinsider.com/top/user_services;feat=user_services;type=ros;page=lower;pos=top;sz=728x90;tile=5;ord=533553899832903?"></script><noscript><a href="http://ad.doubleclick.net/jump/banners.vegasinsider.com/top/noscript;arena=other;pos=top;sz=728x90;tile=1;ord=122333?" target="_blank"><img src="http://ad.doubleclick.net/ad/banners.vegasinsider.com/top/noscript;arena=other;pos=top;sz=728x90;tile=1;ord=122333?" width="728" height="90" border="0"></a></noscript>
 		</td>
 	</tr>
 </tbody></table>
@@ -92,19 +239,14 @@ mywin = window.open(url,"win",'toolbar=0,location=0,directories=0,status=0,menub
 
 <script language="Javascript">
 	function SpaceReplacer(str){
-		var j = str.length;
-		var newstr = new Array();
-		
-		for(var i = 0; i < j; i++){
-			ex = str.substring(i,i+1);
-			if(ex == '+' || ex == '%20'){
-				ex = ' ';
-			}
-			newstr[i] = ex;
-		}
-	
-		finalstr = newstr.join("");
-		return finalstr;
+		if (str.match("%20")) str = str.replace(/%20/, ' '); //Decoding cookie's ISO-Latin space value
+		if (str.match("%27")) str = str.replace(/%27/, "'"); //Decoding cookie's ISO-Latin apostrophe value
+		if (str.match("%2C")) str = str.replace(/%2C/, ','); //Decoding cookie's ISO-Latin comma value
+		if (str.match("%2D")) str = str.replace(/%2D/, '-'); //Decoding cookie's ISO-Latin dash value
+		if (str.match("%2E")) str = str.replace(/%2E/, '.'); //Decoding cookie's ISO-Latin period value
+		if (str.match("%5F")) str = str.replace(/%5F/, '_'); //Decoding cookie's ISO-Latin undescore value
+		 
+		return str;
 	}
 </script>
 
@@ -195,16 +337,28 @@ mywin = window.open(url,"win",'toolbar=0,location=0,directories=0,status=0,menub
 						<td nowrap=""><a href="http://www.vegasinsider.com/nfl/" name="gndd2A" id="gndd2A" onmouseover="ShowLayer('gndd2', event)" onmouseout="OutLayer();">NFL </a></td>
 						
 						<td class="seperator">&nbsp;<b>·</b>&nbsp;</td>
-						<td nowrap=""><a href="http://www.vegasinsider.com/college-football/" name="gndd50A" id="gndd50A" onmouseover="ShowLayer('gndd50', event)" onmouseout="OutLayer();">College Football</a></td>
-						
-						<td class="seperator">&nbsp;<b>·</b>&nbsp;</td>
 						<td nowrap=""><a href="http://www.vegasinsider.com/nba/" name="gndd3A" id="gndd3A" onmouseover="ShowLayer('gndd3', event)" onmouseout="OutLayer();">NBA</a></td>
 						
 						<td class="seperator">&nbsp;<b>·</b>&nbsp;</td>
 						<td nowrap=""><a href="http://www.vegasinsider.com/nhl/" name="gndd5A" id="gndd5A" onmouseover="ShowLayer('gndd5', event)" onmouseout="OutLayer();">NHL</a></td>
 						
 						<td class="seperator">&nbsp;<b>·</b>&nbsp;</td>
-						<td nowrap=""><a href="http://www.vegasinsider.com/college-basketball/" name="gndd51A" id="gndd51A" onmouseover="ShowLayer('gndd51', event)" onmouseout="OutLayer();">College Basketball</a></td>
+						<td nowrap=""><a href="http://www.vegasinsider.com/mlb/" name="gndd4A" id="gndd4A" onmouseover="ShowLayer('gndd4', event)" onmouseout="OutLayer();">MLB</a></td>
+						
+						<td class="seperator">&nbsp;<b>·</b>&nbsp;</td>
+						<td nowrap=""><a href="http://www.vegasinsider.com/college-football/" name="gndd50A" id="gndd50A" onmouseover="ShowLayer('gndd50', event)" onmouseout="OutLayer();">NCAA FB</a></td>
+						
+						<td class="seperator">&nbsp;<b>·</b>&nbsp;</td>
+						<td nowrap=""><a href="http://www.vegasinsider.com/college-basketball/" name="gndd51A" id="gndd51A" onmouseover="ShowLayer('gndd51', event)" onmouseout="OutLayer();">NCAA BK</a></td>
+						
+						<td class="seperator">&nbsp;<b>·</b>&nbsp;</td>
+						<td nowrap=""><a href="http://www.vegasinsider.com/soccer/" name="gndd126A" id="gndd126A" onmouseover="ShowLayer('gndd126', event)" onmouseout="OutLayer();">Soccer</a></td>
+						
+						<td class="seperator">&nbsp;<b>·</b>&nbsp;</td>
+						<td nowrap=""><a href="http://www.vegasinsider.com/golf/" name="gndd45A" id="gndd45A" onmouseover="ShowLayer('gndd45', event)" onmouseout="OutLayer();">Golf</a></td>
+						
+						<td class="seperator">&nbsp;<b>·</b>&nbsp;</td>
+						<td nowrap=""><a href="http://www.vegasinsider.com/auto-racing/" name="gndd47A" id="gndd47A" onmouseover="ShowLayer('gndd47', event)" onmouseout="OutLayer();">Auto</a></td>
 						
 						<td class="seperator">&nbsp;<b>·</b>&nbsp;</td>
 						<td><a href="/more-sports/" name="gnddmoreA" id="gnddmoreA" onmouseover="ShowLayer('gnddmore', event)" onmouseout="OutLayer();">More</a></td>
@@ -218,22 +372,21 @@ mywin = window.open(url,"win",'toolbar=0,location=0,directories=0,status=0,menub
 </tbody></table>
 <!-- END:Gnav ***This COMMENT used at ../scheduled/scrape_look_feel.cfm***	-->
 <table width="900" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
+	<tbody><tr valign="top">
 		<td width="100%">
 		<table width="100%" border="0" cellspacing="0" cellpadding="0" class="bnav">
-			<tbody><tr>
+			<tbody><tr valign="top">
 			
-				<td width="640">
+				<td width="640" valign="top">
 					<map name="navigation">
 						<area shape="rect" coords="0,0,190,75" href="http://www.vegasinsider.com" alt="Vegasinsider.com">
 						
 						<area shape="rect" coords="190,0,640,75" href="http://www.vegasinsider.com/privacy.cfm" alt="Privacy Policy">
 						
 					</map>
-					<a href="http://www.vegasinsider.com/"><img usemap="#navigation" src="http://www.vegasinsider.com/graphics/headers/640x75_privacy.gif" width="640" height="75" border="0" alt=""></a>
-				</td>
+					<a href="http://www.vegasinsider.com/"><img usemap="#navigation" src="http://www.vegasinsider.com/graphics/headers/640x75_privacy.gif" width="640" height="75" border="0" alt=""></a></td>
 				
-				<td width="260"><img src="http://www.vegasinsider.com/images/sponsors/ACF365.gif" width="260" height="75" border="0"></td>
+				<td width="260" valign="top"><img src="http://www.vegasinsider.com/images/sponsors/ACF365.gif" width="260" height="75" border="0"></td>
 			
 			</tr>
 		</tbody></table>
@@ -241,16 +394,17 @@ mywin = window.open(url,"win",'toolbar=0,location=0,directories=0,status=0,menub
 	</tr>
 </tbody></table>
 
+
 <!-- start content table -->
 <table width="900" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
+	<tbody><tr valign="top">
 	
-
+		
 		<td width="136" valign="top" class="ln">
 		<table class="lntxt" cellspacing="0" cellpadding="0" width="100%" border="0">
 
 <tbody><tr>
-<td class="lntxt" height="20"><spacer type="block" height="5"></spacer></td></tr>
+<td class="lntxt" height="20"><spacer height="5" type="block"></spacer></td></tr>
 <tr>
 <td class="lntxt" align="middle" height="60">
 <script language="JavaScript"><!--//
@@ -258,47 +412,36 @@ mywin = window.open(url,"win",'toolbar=0,location=0,directories=0,status=0,menub
  if (!vTag) {var vTag="ros;type=ros";}
  if (!random) {var abc=Math.random() + ""; var random=abc.substring(2,abc.length);}
  var dclkButton='http://ad.doubleclick.net/adj/buttons.mkt.vegasinsider.com/'+vTag+';sz=120x60;tile=2;ord='+random+'?';
- if (location.search.substring(1).indexOf('DCLK')>-1) document.write('<input type="text" value="'+dclkButton+'" style="width:120px">');
+ if (location.search.substring(1).indexOf('DCLK')>-1) document.write('<input type="text" value="'+dclkButton+'" style="width:120px"><p></p>');
  document.write('<script src="'+dclkButton+'"><\/script>');
- // --></script><script src="http://ad.doubleclick.net/adj/buttons.mkt.vegasinsider.com/user_services;feat=user_services;type=ros;page=lower;sz=120x60;tile=2;ord=4449001615809125?"></script>
+ // --></script><script src="http://ad.doubleclick.net/adj/buttons.mkt.vegasinsider.com/user_services;feat=user_services;type=ros;page=lower;sz=120x60;tile=2;ord=533553899832903?"></script>
 <noscript><A href="http://ad.doubleclick.net/jump/buttons.mkt.vegasinsider.com/noscript;arena=other;sz=120x60;tile=2;ord=122333?" target=_blank><IMG height=60 src="http://ad.doubleclick.net/ad/buttons.mkt.vegasinsider.com/noscript;arena=other;sz=120x60;tile=2;ord=122333?" width=120 border=0></A></noscript> </td></tr>
 <tr>
-<td class="lntxt" height="20"><spacer type="block" height="5"></spacer></td></tr>
+<td class="lntxt" height="20"><spacer height="5" type="block"></spacer></td></tr>
 <tr>
 <td class="lntxt" align="middle" height="60">
 <script language="JavaScript"><!--//
  /* start random 120x60 image */
- if (!randomNumber) {var randomNumber = Math.floor(Math.random() * 3);}  
-     imageArray = new Array(3); 
-     imageArray[0] = '<a href="http://www.vegasinsider.com/live-odds/signup/"><img src="http://www.vegasinsider.com/visports/images/marketingads/liveodds_120x60.gif" width="120" height="60" border="0"></A>';
-     imageArray[1] = '<a href="http://www.vegasinsider.com/poker/poker-art/"><img src="http://www.vegasinsider.com/visports/images/marketingads/pokerart_120x60.gif" width="120" height="60" border="0"></A>';
-     imageArray[2] = '<a href="http://www.vegasinsider.com/visports/nfl/playbook/magazine.html"><img src="http://www.vegasinsider.com/visports/images/marketingads/playbook_sbcom_120x60.gif" width="120" height="60" border="0"></A>';
+ if (!randomNumber) {var randomNumber = Math.floor(Math.random() * 2);}  
+     imageArray = new Array(2); 
+     imageArray[0] = '<a href="http://www.vegasinsider.com/link_hitcount.cfm?LTid=5743" target="_blank"><img src="http://www.vegasinsider.com/visports/images/poker/vi_wsop_120x60.gif" width="120" height="60" border="0"></A>';
+     imageArray[1] = '<a href="http://www.vegasinsider.com/playbook-magazine/signup/"><img src="http://www.vegasinsider.com/visports/images/marketingads/playbook_sbcom_120x60.gif" width="120" height="60" border="0"></A>';
      document.write('<table width="120" height="60" cellpadding="0" cellspacing="0" border="0"><tr><td>' + imageArray[randomNumber] + '</td></tr></table>');
- // --></script><table width="120" height="60" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><a href="http://www.vegasinsider.com/live-odds/signup/"><img src="http://www.vegasinsider.com/visports/images/marketingads/liveodds_120x60.gif" width="120" height="60" border="0"></a></td></tr></tbody></table>
+ // --></script><table width="120" height="60" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><a href="http://www.vegasinsider.com/playbook-magazine/signup/"><img src="http://www.vegasinsider.com/visports/images/marketingads/playbook_sbcom_120x60.gif" width="120" height="60" border="0"></a></td></tr></tbody></table>
 </td></tr></tbody></table> <img src="http://www.vegasinsider.com/graphics/spacer.gif" border="0" height="1" width="136"><spacer type="block" width="2">
 		<!-- FLAT LEFT NAV STARTS	 -->
 		<table width="100%" border="0" cellspacing="0" cellpadding="4"><tbody><tr align="center"><td class="bnav">MORE COVERAGE</td></tr></tbody></table><table cellspacing="1" cellpadding="2" width="100%" border="0">
 
-
+<tbody><tr>
+<td class="lntxt"><br>&nbsp; <a href="http://www.vegasinsider.com/picks/">Expert Sports Picks</a><br>&nbsp; <a href="http://www.vegasinsider.com/link_hitcount.cfm?ltid=124" target="_blank">Bookie Banter</a><br>&nbsp; <a href="http://www.vegasinsider.com/link_hitcount.cfm?LTid=3728">Bodog's Frontlines</a><br>&nbsp; <a href="http://www.vegasinsider.com/by-the-book/">By the Book</a><br>&nbsp; <a href="http://www.vegasinsider.com/link_hitcount.cfm?ltid=123" target="_blank">Bet Asia</a><br></td></tr></tbody></table><p></p><table width="100%" border="0" cellspacing="0" cellpadding="4"><tbody><tr align="center"><td class="bnav">HANDICAPPING <br>TOOLS</td></tr></tbody></table><table cellspacing="1" cellpadding="2" width="100%" border="0">
 
 <tbody><tr>
-
-<td class="lntxt"><br>&nbsp; <a href="http://www.vegasinsider.com/picks/">Expert Daily Picks</a><br>&nbsp; <a href="http://www.vegasinsider.com/link_hitcount.cfm?ltid=124" target="_blank">Bookie Banter</a><br>&nbsp; <a href="http://www.vegasinsider.com/bodog.cfm">Bodog's Frontlines</a><br>&nbsp; <a href="http://www.vegasinsider.com/by-the-book/">By the Book</a><br>&nbsp; <a href="http://www.vegasinsider.com/link_hitcount.cfm?ltid=123" target="_blank">Bet Asia</a><br></td></tr></tbody></table><p></p><table width="100%" border="0" cellspacing="0" cellpadding="4"><tbody><tr align="center"><td class="bnav">HANDICAPPING <br>TOOLS</td></tr></tbody></table><table cellspacing="1" cellpadding="2" width="100%" border="0">
-
-
+<td class="lntxt"><br>&nbsp; <a href="http://www.vegasinsider.com/handicappers/">Handicappers</a><br>&nbsp; <a href="http://www.vegasinsider.com/membership/signup/">VIP Memberships</a><br>&nbsp; <a href="http://www.vegasinsider.com/live-odds/signup/">Live Odds</a><br>&nbsp; <a href="http://www.vegasinsider.com/picks/free-pick/signup/">FREE Pick</a><br>&nbsp; <a href="http://www.vegasinsider.com/u/picks/records.cfm">Expert Pick Records</a><br>&nbsp; <a href="http://www.vegasinsider.com/parlay-calculator/">Parlay Calculator</a><br>&nbsp; <a href="http://www.vegasinsider.com/link_hitcount.cfm?LTid=781" target="_blank">Betting Charts</a><br>&nbsp; <a href="http://www.vegasinsider.com/gaming-resources/package.cfm/type/daily/hc/64/prod/2884">Money Mgt. Book</a><br>&nbsp; <a href="http://www.vegasinsider.com/visports/csw/vistats.html">VI Stats Database</a><br>&nbsp; <a href="http://www.vegasinsider.com/rotowire.cfm">Player News</a><br>&nbsp; <a href="http://www.vegasinsider.com/tv-listing/">TV Listings</a><br>&nbsp; <a href="http://www.vegasinsider.com/u/gamingterms.cfm">Gaming Terms</a><br></td></tr></tbody></table><p></p><table width="100%" border="0" cellspacing="0" cellpadding="4"><tbody><tr align="center"><td class="bnav">FEATURES</td></tr></tbody></table><table cellspacing="1" cellpadding="2" width="100%" border="0">
 
 <tbody><tr>
-
-<td class="lntxt"><br>&nbsp; <a href="http://www.vegasinsider.com/handicappers/">Handicappers</a><br>&nbsp; <a href="http://www.vegasinsider.com/membership/signup/">VIP Memberships</a><br>&nbsp; <a href="http://www.vegasinsider.com/live-odds/signup/">Live Odds</a><br>&nbsp; <a href="http://www.vegasinsider.com/picks/free-pick/signup/">FREE Pick</a><br>&nbsp; <a href="http://www.vegasinsider.com/u/picks/records.cfm">Expert Pick Records</a><br>&nbsp; <a href="http://www.vegasinsider.com/visports/parlaycalc/parlaycalc.html">Parlay Calculator</a><br>&nbsp; <a href="http://www.vegasinsider.com/link_hitcount.cfm?LTid=781" target="_blank">Betting Charts</a><br>&nbsp; <a href="link_hitcount.cfm?ltid=360">Money Mgt. Book</a><br>&nbsp; <a href="http://www.vegasinsider.com/visports/csw/vistats.html">VI Stats Database</a><br>&nbsp; <a href="http://www.vegasinsider.com/rotowire.cfm">Player News</a><br>&nbsp; <a href="http://www.vegasinsider.com/tv-listing/">TV Listings</a><br>&nbsp; <a href="http://www.vegasinsider.com/u/gamingterms.cfm">Gaming Terms</a><br></td></tr></tbody></table><p></p><table width="100%" border="0" cellspacing="0" cellpadding="4"><tbody><tr align="center"><td class="bnav">FEATURES</td></tr></tbody></table><table cellspacing="1" cellpadding="2" width="100%" border="0">
-
-
-
-<tbody><tr>
-
-<td class="lntxt"><br>&nbsp; <a href="http://www.vegasinsider.com/visports/stardust/vi-stardust-handicapping-contest.html">Stardust Invitational</a><br>&nbsp; <a href="http://www.vegasinsider.com/poker">Poker Room</a> <img alt="Get inside Las Vegas.  Get inside poker at VegasInsider.com!  The latest poker news, poker rules, poker events, and more.  We have everything you need to know about all of the most popular poker games.  Whether it's Texas Hold 'Em, 5 Card Stud, 7 Card Stud, 3 Card Poker, Deuces Wild, Jacks or Better, Caribbean Poker, Joker's Wild, Omaha Poker, or Pai Gow Poker, we have everything you need to be on top of all of the hottest games.  We also have all the latest from the World Series of Poker, the World Poker Tour schedule, and other major events.  Stick with Vegas Insider for all of your poker needs." src="http://www.vegasinsider.com/visports/images/marketingads/newhotbutton042404.gif" border="0"><br>&nbsp; <a href="http://www.vegasinsider.com/poker/poker-art/">Poker Artwork</a> <img alt="Orginal poker paintings, lithographs, limited edition artwork, and posters of poker scenes, including the World Series of Poker (WSOP) greats like Doyle Brunson and Stuey The Kid Ungar." src="http://www.vegasinsider.com/visports/images/marketingads/newhotbutton042404.gif" border="0"><br>&nbsp; <a href="http://www.vegasinsider.com/link_hitcount.cfm?LTid=1185">Vegas Golf Courses</a><br>&nbsp; <a href="http://www.vegasinsider.com/u/contests/contests.cfm">Contests</a><br>&nbsp; <a href="http://www.vegasinsider.com/link_hitcount.cfm?ltid=125" target="_blank">Live Chats</a><br>&nbsp; <a href="http://www.vegasinsider.com/u/newsletter/">Newsletters</a><br>&nbsp; <a href="http://www.vegasinsider.com/u/radio/index.cfm">VI Radio</a><br>&nbsp; <a href="http://www.vegasinsider.com/models/">Models</a> <img alt="Hottest models from around the world. Swimsuit models, lingerie models, fashion models, Vegas Hotties... we have them all right here at Vegas Insider." src="http://www.vegasinsider.com/visports/images/marketingads/newhotbutton042404.gif" border="0"><br>&nbsp; <a href="http://www.vegasinsider.com/u/iv/">Las Vegas Travel</a><br>&nbsp; <a href="http://www.vegasinsider.com/u/pagers/pagers.cfm">Sports Pager</a><br>&nbsp; <a href="http://www.vegasinsider.com/wireless/">Wireless</a><br></td></tr></tbody></table>
-
+<td class="lntxt"><br><!--&nbsp; <A href="http://www.vegasinsider.com/visports/stardust/vi-stardust-handicapping-contest.html">Stardust Invitational</A><BR>
+-->&nbsp; <a href="http://www.vegasinsider.com/poker/">Poker Room</a><br>&nbsp; <a href="http://www.vegasinsider.com/poker/poker-art/">Poker Artwork</a> <img alt="Orginal poker paintings, lithographs, limited edition artwork, and posters of poker scenes, including the World Series of Poker (WSOP) greats like Doyle Brunson and Stuey The Kid Ungar." src="http://www.vegasinsider.com/visports/images/marketingads/newhotbutton042404.gif" border="0"><br>&nbsp; <a href="http://www.vegasinsider.com/link_hitcount.cfm?LTid=1185">Vegas Golf Courses</a><br>&nbsp; <a href="http://www.vegasinsider.com/u/contests/contests.cfm">Contests</a><br>&nbsp; <a href="http://www.vegasinsider.com/link_hitcount.cfm?ltid=125" target="_blank">Live Chats</a><br>&nbsp; <a href="http://www.vegasinsider.com/u/newsletter/">Newsletters</a><br>&nbsp; <a href="http://www.vegasinsider.com/u/radio/index.cfm">VI Radio</a><br>&nbsp; <a href="http://www.vegasinsider.com/models/">Models</a><br>&nbsp; <a href="http://www.vegasinsider.com/u/iv/">Las Vegas Travel</a><br>&nbsp; <a href="http://www.vegasinsider.com/wireless/">Wireless</a><br></td></tr></tbody></table>
 <p></p>
-
 <p></p><p></p>
 
 		<p>&nbsp;</p>
@@ -365,9 +508,10 @@ mywin = window.open(url,"win",'toolbar=0,location=0,directories=0,status=0,menub
 </tr>
 </tbody></table>
 
+
 		
 		<!-- look_feel_here -->
-			</td>
+			</td> 
 		
 			<td width="10"><spacer type="block" width="10"></spacer></td>
 			
@@ -375,64 +519,8 @@ mywin = window.open(url,"win",'toolbar=0,location=0,directories=0,status=0,menub
 			<td valign="top" class="rtnav" align="right">
 			<table cellspacing="0" cellpadding="0" width="250" border="0"><tbody><tr><td height="240">
 			<!-- FLAT RIGHT NAV STARTS	 -->	
-			<table cellspacing="0" cellpadding="0" width="240" border="0"><tbody><tr><td height="20" colspan="3" class="component_head"><center>Daily College Bowl Picks</center></td></tr></tbody></table><table cellspacing="0" cellpadding="1" width="240" border="0">
-
-
-
-<tbody><tr>
-
-<td class="rt_railbox_border">
-
-<table class="rt_railbox_bg" cellspacing="0" cellpadding="0" width="100%" border="0">
-
-
-
-<tbody><tr>
-
-<td>&nbsp;</td></tr>
-
-<tr>
-
-<td width="10">&nbsp;</td>
-
-<td class="component_head2">
-
-<center><img height="110" alt="Get Daily Expert College Football Bowl Picks" src="http://www.vegasinsider.com/visports/images/marketingads/products/thmb_prod_bowls_dailypackage.gif" width="118" border="0"></center></td></tr>
-
-<tr>
-
-<td>&nbsp;</td></tr>
-
-<tr>
-
-<td width="10"></td>
-
-<td class="specialoffer_txt"><strong>C. Alexander:</strong> 7-3, 70% L10!<br><a href="http://www.vegasinsider.com/college-football/picks/handicapper.cfm/hc/68/name/Christian_Alexander">Daily Bowl Picks</a> | <a href="http://www.vegasinsider.com/college-football/picks/package.cfm/type/season/hc/68/prod/4536">Full Bowl Pack</a> 
-
-<div class="spacer5">&nbsp;</div><strong>A. Dinero:</strong> +1,390 yr-#1 VI Units!<br><a href="http://www.vegasinsider.com/college-football/picks/handicapper.cfm/hc/109/name/Antony_Dinero">Daily Bowl Picks</a> | <a href="http://www.vegasinsider.com/college-football/picks/package.cfm/type/season/hc/109/prod/4528">Full Bowl Pack</a> 
-
-<div class="spacer5">&nbsp;</div><strong>Bullseye</strong>: 60%, L10 run!<br><a href="http://www.vegasinsider.com/college-football/picks/handicapper.cfm/hc/93/name/Bullseye">Daily Bowl Picks</a> | <a href="http://www.vegasinsider.com/college-football/picks/package.cfm/type/season/hc/93/prod/4533">Full Bowl Pack</a> 
-
-<div class="spacer5">&nbsp;</div><strong>J. Tursini:</strong> 12-3 Bowls LY!<br><a href="http://www.vegasinsider.com/college-football/picks/handicapper.cfm/hc/81/name/Jamie_Tursini">Daily Bowl Picks</a> | <a href="http://www.vegasinsider.com/college-football/picks/package.cfm/type/season/hc/81/prod/4541">Full Bowl Pack</a> 
-
-<div class="spacer5">&nbsp;</div><strong>P. Hawkins:</strong> 3-1 LW, 7-2 L9!<br><a href="http://www.vegasinsider.com/college-football/picks/handicapper.cfm/hc/171/name/Pat_Hawkins">Daily Bowl Picks</a> | <a href="http://www.vegasinsider.com/college-football/picks/package.cfm/type/season/hc/171/prod/4562">Full Bowl Pack</a> 
-
-<div class="spacer5">&nbsp;</div><strong>T. Stoffo</strong>: 3-1, 75% L4!<br><a href="http://www.vegasinsider.com/college-football/picks/handicapper.cfm/hc/64/name/Tony_Stoffo">Daily Bowl Picks</a> | <a href="http://www.vegasinsider.com/college-football/picks/package.cfm/type/season/hc/64/prod/4560">Full Bowl Pack</a> 
-
-<div class="spacer5">&nbsp;</div><strong>W. Cashmen:</strong> 4-0 Final week!<br><a href="http://www.vegasinsider.com/college-football/picks/handicapper.cfm/hc/160/name/Will_Cashmen">Daily Bowl Picks</a> | <a href="http://www.vegasinsider.com/college-football/picks/package.cfm/type/season/hc/160/prod/4564">Full Bowl Pack</a> 
-
-<div class="spacer5">&nbsp;</div><strong>M. Fox:</strong> 6-1 L7, 4-0 L4 GOY!<br><a href="http://www.vegasinsider.com/college-football/picks/handicapper.cfm/hc/23/name/Mark_Fox">Daily Bowl Picks</a> | <a href="http://www.vegasinsider.com/college-football/picks/package.cfm/type/season/hc/23/prod/4524">Full Bowl Pack</a> 
-
-<div class="spacer5">&nbsp;</div><strong>A. Musketa:</strong> +1,040 overall!<br><a href="http://www.vegasinsider.com/college-football/picks/handicapper.cfm/hc/12/name/Alf_Musketa">Daily Bowl Picks</a> | <a href="http://www.vegasinsider.com/college-football/picks/package.cfm/type/season/hc/12/prod/4525">Full Bowl Pack</a> 
-
-<div class="spacer5">&nbsp;</div>For <a href="http://www.vegasinsider.com/college-football/picks/">More Expert Picks</a> on all the College Football Bowl Games, <a href="http://www.vegasinsider.com/college-football/picks/">Click Here!</a> 
-
-<div class="spacer5">&nbsp;</div></td>
-
-<td width="10"></td></tr></tbody></table></td></tr></tbody></table><p></p>
 			
-			
-				
+	
 			</td></tr></tbody></table>
 			</td>
 			<td width="10" valign="top" class="sky_rail_bg">
@@ -460,14 +548,14 @@ mywin = window.open(url,"win",'toolbar=0,location=0,directories=0,status=0,menub
 				var dclkBanner='http://ad.doubleclick.net/adj/banners.vegasinsider.com/bottom/'+vTag+';pos=bot;!category=top;sz=728x90;tile=5;ord='+random+'?';
 				if (location.search.substring(1).indexOf('DCLK')>-1) document.write('<input type="text" value="'+dclkBanner+'" style="width:728px"><br>');
     			document.write('<script src="'+dclkBanner+'"><\/script>');
-				// --></script><script src="http://ad.doubleclick.net/adj/banners.vegasinsider.com/bottom/user_services;feat=user_services;type=ros;page=lower;pos=bot;!category=top;sz=728x90;tile=5;ord=4449001615809125?"></script><noscript><a href="http://ad.doubleclick.net/jump/banners.vegasinsider.com/bottom/noscript;arena=other;pos=bot;!category=top;sz=728x90;tile=1;ord=122333?" target="_blank"><img src="http://ad.doubleclick.net/ad/banners.vegasinsider.com/bottom/noscript;arena=other;pos=bot;!category=top;sz=728x90;tile=1;ord=122333?" width="728" height="90" border="0"></a></noscript></td>
+				// --></script><script src="http://ad.doubleclick.net/adj/banners.vegasinsider.com/bottom/user_services;feat=user_services;type=ros;page=lower;pos=bot;!category=top;sz=728x90;tile=5;ord=533553899832903?"></script><noscript><a href="http://ad.doubleclick.net/jump/banners.vegasinsider.com/bottom/noscript;arena=other;pos=bot;!category=top;sz=728x90;tile=1;ord=122333?" target="_blank"><img src="http://ad.doubleclick.net/ad/banners.vegasinsider.com/bottom/noscript;arena=other;pos=bot;!category=top;sz=728x90;tile=1;ord=122333?" width="728" height="90" border="0"></a></noscript></td>
 			</tr>
 		</tbody></table>
 		</td>
 	</tr>
 	<tr>
 		<td height="100%" width="100%" colspan="3" class="fttxt1" align="center">
-		Copyright © 2005, VegasInsider.com, The Global Leader In Sports Gaming Information. All rights reserved.<br> 
+		Copyright © 2006, VegasInsider.com, The Global Leader In Sports Gaming Information. All rights reserved.<br> 
 		For questions, comments, or to report a problem, please contact us using our <a href="http://www.vegasinsider.com/member-services/" target="_blank">Feedback Form</a>,<br> 
 		or call us at 1-800-211-4759.
 		<p>
@@ -476,36 +564,26 @@ mywin = window.open(url,"win",'toolbar=0,location=0,directories=0,status=0,menub
 		 is not liable for any losses or damages incurred either directly or indirectly. Users must be the older of 21 years of age or	the legal age of majority; minors are prohibited.<br>
 		All data and information contained	on or within the VegasInsider.com website and its related newsletters cannot be rebroadcast, reproduced or retransmitted in whole or in part in<br>
 		any manner - either in print form or electronically via the Internet, including but not limited to other Internet sites, newsgroups, posting boards,and forums, etc., - without the<br>
-		written prior consent of VegasInsider.com, Inc.	<script src="http://www.websourcedtraffic.com/semws_tfc.js" defer="true"></script><noscript><img src="http://www.websourcedtraffic.com/image.tfc"></noscript></p><p>
+		written prior consent of VegasInsider.com, Inc.	</p><p>
 		</p></td>
 	</tr>
 	<tr>
 		<td height="1" width="100%" colspan="3" class="fttxt1" align="center">
 		Sportsbooks we recommend: 
-		<a href="http://www.sportsbook.com" target="_blank">Sportsbook.com</a> - 
+		<a href="http://www.sportsbook.com" target="_blank">Online Sports Betting</a> - 
 		<a href="http://www.bodog.com" target="_blank">Bodog.com</a> - 
 		<a href="http://www.sports.com" target="_blank">Sports.com</a> - 
 		<a href="http://www.nine.com" target="_blank">Nine.com</a> -
 		<a href="http://www.playersonly.com" target="_blank">PlayersOnly.com</a> - 
-		<a href="http://www.betusa.com" target="_blank">BetUSA.com</a> - 
-		<a href="http://www.sportbet.com" target="_blank">Sportbet.com</a>
+		<a href="http://www.betusa.com" target="_blank">BetUSA.com</a> 
+		
 		<br>
+		<a href="http://www.sportbet.com" target="_blank">Sportbet.com</a> -
 		<a href="http://www.betwwts.com" target="_blank">BetWWTS.com</a> - 
 		<a href="http://www.sportsbetting.com" target="_blank">SPORTSBETTING.COM</a> -
 		<a href="http://www.racebook.com" target="_blank">RaceBook.com</a> - 
-		<a href="http://www.pinnaclesports.com/?refer=xvginsider" target="_blank">PinnacleSports.com</a> - 
 		<a href="http://www.gambling.net" target="_blank">Gambling.net</a>
 		<br><br>
-	</td>
-	</tr>
-	<tr>
-		<td height="1" width="100%" colspan="3" class="fttxt1" align="center">
-		Other sites we recommend: 
-		<a href="http://www.sportsbettingreviews.com" target="_blank">Sports Betting Reviews</a> - 
-		<a href="http://www.carbuyingedge.com" target="_blank">Car Buying Tips</a> - 
-		<a href="http://www.debt-consolidation-advisor.com" target="_blank">Debt Consolidation</a> - 
-		<a href="http://www.sports-betting-sportsbook-reviews.com" target="_blank">Sportsbook Reviews</a> -
-		<a href="http://www.webirectory.com" target="_blank">Web Directories</a>
 	</td>
 	</tr>
 	<tr>
@@ -521,7 +599,7 @@ mywin = window.open(url,"win",'toolbar=0,location=0,directories=0,status=0,menub
 			&nbsp;<b>·</b>&nbsp;
 			<a href="http://www.vegasinsider.com/privacy.cfm">Privacy Policy</a>
 			&nbsp;<b>·</b>&nbsp;
-			<a href="http://www.vegasinsider.com/u/userservices/contact_us.cfm">Contact Us</a>
+			<a href="http://www.vegasinsider.com/member-services/contacts/">Contact Us</a>
 		</td>
 	</tr>
 	<tr>
