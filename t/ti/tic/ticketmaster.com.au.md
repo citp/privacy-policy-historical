@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticketmaster.com.au privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214094849id_/http%3A//www.ticketmaster.com.au/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketmaster.com.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615041005id_/http%3A//www.ticketmaster.com.au/help/privacy.asp) for the most accurate reproduction.*
 
 # ticketmaster.com.au
 
@@ -14,7 +14,7 @@
 ---|---|---  
 |  |   
   
-[](http://www.ticketmaster.com.au/cgi/outsider.plx?CAMEFROM=advantagead&GOTO=https://ticketing.ticketmaster.com.au/cgi/myaccount/regmyaccount.asp)  
+  
 |  |  |   
 ---|---|---  
 | 
