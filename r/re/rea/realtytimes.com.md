@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realtytimes.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215084647id_/http%3A//realtytimes.com/rtcpages/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtytimes.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210345id_/http%3A//realtytimes.com/rtcpages/privacy.htm) for the most accurate reproduction.*
 
 # Realty Times - Real Estate News and Advice
 
@@ -44,5 +44,5 @@ If you have any questions about this privacy statement, the practices of this si
 
 Jody Lane Realty Times 5949 Sherry Lane Suite 700 Dallas, TX 75225 [jlane@realtytimes.com](mailto:jlane@realtytimes.com "Send E-mail to Jody Lane")
 
-Copyright © 2005 [Realty Times](http://realtytimes.com/rtcpages/contactus4.htm)®. All Rights Reserved.   
+Copyright © 2006 [Realty Times](http://realtytimes.com/rtcpages/contactus4.htm)®. All Rights Reserved.   
 
