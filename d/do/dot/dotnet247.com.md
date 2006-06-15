@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dotnet247.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230095609id_/http%3A//www.dotnet247.com/247reference/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotnet247.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615201102id_/http%3A//www.dotnet247.com/247reference/privacy.aspx) for the most accurate reproduction.*
 
-# .NET 247
+# MBR IT/.NET 247
 
 **.NET 247/WinFX 247 is owned and operated by Matthew Reynolds**
 
