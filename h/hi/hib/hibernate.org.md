@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hibernate.org privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230063155id_/http%3A//www.jboss.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hibernate.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615203024id_/http%3A//www.jboss.com/privacy_policy) for the most accurate reproduction.*
 
-# JBoss.com - JBoss Inc. Privacy Policy
+# JBoss.com - JBoss - A Division of Red Hat, Privacy Policy
 
 Please read the following policy to understand how your personal information will be treated as you make use of the online product catalog at this site. This policy may change from time to time so please re-visit this page periodically. Web sites, which are linked to this site may have different policies and JBoss is not responsible for the privacy practices of such other sites. 
 
