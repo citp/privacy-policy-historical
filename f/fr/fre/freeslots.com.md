@@ -1,34 +1,20 @@
-> *The following text is extracted and transformed from the freeslots.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228150752id_/http%3A//www.freeslots.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeslots.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615224410id_/http%3A//www.freeslots.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # FreeSlots.com - Privacy Policy
 
 [](http://www.freeslots.com/)  
   
 [Slots Home](http://www.freeslots.com/)  
-[Free Slots 1](https://web.archive.org/web/20051228150752id_/http%3A//www.freeslots.com/slots-1.htm)  
-[Free Slots 2](https://web.archive.org/web/20051228150752id_/http%3A//www.freeslots.com/slots-2.htm)  
-[Free Slots 3](https://web.archive.org/web/20051228150752id_/http%3A//www.freeslots.com/slots-3.htm)  
-[Free Slots 4](https://web.archive.org/web/20051228150752id_/http%3A//www.freeslots.com/slots-4.htm)  
-[Free Slots 5](https://web.archive.org/web/20051228150752id_/http%3A//www.freeslots.com/ClassicSlots.htm)  
-[Multi-Payline Slots](https://web.archive.org/web/20051228150752id_/http%3A//www.freeslots.com/MultiPayline1.htm)  
+[Free Slots 1](https://web.archive.org/web/20060615224410id_/http%3A//www.freeslots.com/slots-1.htm)  
+[Free Slots 2](https://web.archive.org/web/20060615224410id_/http%3A//www.freeslots.com/slots-2.htm)  
+[Free Slots 3](https://web.archive.org/web/20060615224410id_/http%3A//www.freeslots.com/slots-3.htm)  
+[Free Slots 4](https://web.archive.org/web/20060615224410id_/http%3A//www.freeslots.com/slots-4.htm)  
+[Free Slots 5](https://web.archive.org/web/20060615224410id_/http%3A//www.freeslots.com/ClassicSlots.htm)  
+[Multi-Payline Slots](https://web.archive.org/web/20060615224410id_/http%3A//www.freeslots.com/MultiPayline1.htm)  
 [Video Poker](http://www.freevideopoker.com/)  
-[Winners List](https://web.archive.org/web/20051228150752id_/http%3A//www.freeslots.com/Winners.htm)  
-[FAQ](https://web.archive.org/web/20051228150752id_/http%3A//www.freeslots.com/FAQ.htm)
-
-**Play more slots:**  
-  
-[Slotland](http://www.slotland.com/?p=560048)  
-[Lucky Nugget Casino](http://www.luckynugget.com/index.asp?s=aff51051&a=128)  
-[Jackpot City Casino](http://www.jackpotcity.com/index.asp?s=aff51051&a=129)  
-[PlanetLuck Casino](http://www.planetluck.com/planetluck/links/9117.html)  
-[English Harbour Casino](http://www.englishharbour.com/index.html?ID=simslots)  
-[SuperSlots](http://www.superslots.com/index.html?ID=simslots)
-
-|  [](http://www.freeslots.com/banman/banman.asp?Task=Click&ZoneID=1&CampaignID=3&AdvertiserID=2&BannerID=241&SiteID=0)
-
-[Back to FreeSlots Home](http://www.freeslots.com/)
-
- **Privacy Policy**
+[Winners List](https://web.archive.org/web/20060615224410id_/http%3A//www.freeslots.com/Winners.htm)  
+[FAQ](https://web.archive.org/web/20060615224410id_/http%3A//www.freeslots.com/FAQ.htm) |    
+[Back to FreeSlots Home](http://www.freeslots.com/) **Privacy Policy**
 
 **General Information**  
 At SimSlots, we respect the privacy of our users. "SimSlots" herein refers to all websites offered by SimSlots, Inc., including www.freeslots.com, www.simslots.com, and www.freevideopoker.com.
