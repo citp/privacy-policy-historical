@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingtips.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230180842id_/http%3A//www.marketingtips.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingtips.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615232928id_/http%3A//www.marketingtips.com/privacy.html) for the most accurate reproduction.*
 
 # Internet Marketing Center, Inc. -- Privacy Policy
 
@@ -26,7 +26,7 @@ IMC collects, at the time of your registration and your sign-on to its web site,
 
 IMC has implemented this Privacy Policy to protect personal information received from its customers, and to respond to any inquiries.  The Privacy Policy also provides that IMC will use appropriate contractual means to establish a comparable level of protection for personal information which is sent for processing by third parties on IMC’s behalf. 
 
-IMC has designated responsibility for your personal information to its [Privacy Officer](mailto:privacy@marketingtips.com), who ensures compliance with the principles in this Privacy Policy.  Other IMC individuals may be delegated to act on behalf of the [Privacy Officer](mailto:privacy@marketingtips.com). ****
+IMC has designated responsibility for your personal information to its [Privacy Officer](http://www.marketingtips.com/cgi-bin/webform-specific.cgi), who ensures compliance with the principles in this Privacy Policy.  Other IMC individuals may be delegated to act on behalf of the [Privacy Officer](http://www.marketingtips.com/cgi-bin/webform-specific.cgi). ****
 
 **3.**
 
@@ -192,7 +192,7 @@ After your account becomes inactive (that is, if you request to be removed from 
   
 ---|---  
   
-IMC will use reasonable efforts to keep customer personal information accurate for the Identified Purposes, and for minimizing the possibility of making inappropriate customer decisions based on such information.  Customers are responsible for informing IMC about changes to their personal information.  You can do this by calling 604-730-2833 or sending an email to [privacy@marketingtips.com](mailto:privacy@marketingtips.com). IMC will use new or updated personal information it receives from customers to update its own records.  ****
+IMC will use reasonable efforts to keep customer personal information accurate for the Identified Purposes, and for minimizing the possibility of making inappropriate customer decisions based on such information.  Customers are responsible for informing IMC about changes to their personal information.  You can do this by calling 604-730-2833 or sending an email to [our privacy department](http://www.marketingtips.com/cgi-bin/webform-specific.cgi). IMC will use new or updated personal information it receives from customers to update its own records.  ****
 
 IMC will use reasonable efforts to protect customers’ personal information. ****
 
@@ -211,7 +211,7 @@ The Internet Marketing Center
 Vancouver, BC, Canada  
 V6E 2P4
 
-... or upon request to the Privacy Officer at [privacy@marketingtips.com](mailto:privacy@marketingtips.com). 
+... or upon request to the [Privacy Officer](http://www.marketingtips.com/cgi-bin/webform-specific.cgi). 
 
 If IMC is not able to provide access to some aspect of a customer’s personal information, it will provide reasons for denying access such as; that by doing so would likely reveal personal information about a third party, or that it is confidential commercial information or attorney–client privileged communications, or that the information relates to a breach of an agreement or a contravention of law, or that its disclosure could reasonably be expected to threaten the life or security of another individual.
 
