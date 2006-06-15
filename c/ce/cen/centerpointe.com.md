@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centerpointe.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231215600id_/http%3A//www.centerpointe.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centerpointe.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615212252id_/http%3A//www.centerpointe.com/about/privacy.php) for the most accurate reproduction.*
 
 # Centerpointe Research Institute: Privacy Policy
 
@@ -157,4 +157,4 @@ This privacy policy does not apply to information that we may collect from you b
 
 
 ###### [Home](https://web.archive.org/) | [Newsletter](https://web.archive.org/newsletter/) | [Free Demo](https://www.centerpointe.com/demo/?x=btmnav_about_privacy) | [Participants](https://www.centerpointe.com/participants) | [About Us](https://web.archive.org/about/) | [Retreats](https://web.archive.org/retreats/) | [Support](https://web.archive.org/support/) | [Products](https://www.centerpointe.com/products/?x=btmnav_about_privacy)   
-© 2005 Centerpointe Research Institute. All Rights Reserved. [Privacy Policy](https://web.archive.org/about/privacy.php) | [Contact Us](https://web.archive.org/about/contact.php)
+© 2006 Centerpointe Research Institute. All Rights Reserved. [Privacy Policy](https://web.archive.org/about/privacy.php) | [Contact Us](https://web.archive.org/about/contact.php)
