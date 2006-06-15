@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the abdn.ac.uk privacy policy that was archived on 2005-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051214132032id_/http%3A//www.abdn.ac.uk/diss/docu/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the abdn.ac.uk privacy policy that was archived on 2006-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615211719id_/http%3A//www.abdn.ac.uk/diss/docu/privacy.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy Policy for the University of Aberdeen Web
@@ -36,26 +36,39 @@ Site</title>
 </td>
 </tr>
 </tbody></table>
-<!-- Begin Sitestat4 code -->
+<!-- Begin SitestatIX code -->
 <script type="text/javascript">
 <!--
-function sitestat(ns_l){ns_l+='&amp;ns__t='+(new
-Date()).getTime();ns_pixelUrl=ns_l;
+function sitestat(ns_l){ns_l+='&amp;ns__t='+(new Date()).getTime();ns_pixelUrl=ns_l;
 ns_0=document.referrer;
 ns_0=(ns_0.lastIndexOf('/')==ns_0.length-1)?ns_0.substring(ns_0.lastIndexOf('/'),0):ns_0;
-
 if(ns_0.length>0)ns_l+='&amp;ns_referrer='+escape(ns_0);
 if(document.images){ns_1=new Image();ns_1.src=ns_l;}else
 document.write('<img src="'+ns_l+'" width="1" height="1" alt="">');}
 
-//Code for abdn
-host=document.location.hostname;
+// get the HTTP_HOST name i.e www.abdn.ac.uk
+ host=document.location.hostname;
+
+//if http then protocol = 4
+//if https then protocol = 5
+//checking for location of :
+
+protocol = document.URL.indexOf(":");
+
 //remove http://
 results=document.URL.replace('http://', "");
 //remove https://
 results=results.replace('https://', "");
-//counter_name is now everything after /
-counter_name=results.replace(host,"");
+
+//remove www from hostname
+results=results.replace('www', "");
+//remove .abdn.ac.uk from hostname
+results=results.replace('.abdn.ac.uk', "");
+
+//left with page directoy i.e. /central/students.shtml
+//or if virtual host left with hostname and page
+counter_name=results;
+
 //global find / and change to .
     counter_name = counter_name.replace(/\//g, ".");
 //global find + and change to _
@@ -70,24 +83,31 @@ counter_name=results.replace(host,"");
  counter_name = counter_name.replace(/%20/g, "_");
 //global find # and change to _
  counter_name = counter_name.replace(/\#/g, "_");
-sitestat("http://uk.sitestat.com/abdn/abdn/s?" + counter_name);
+if (protocol==4){
+//accessing via http
+sitestat("http://uk.sitestat.com/abdn/ext/s?" + counter_name);
+}
+else
+{
+//accessing via https
+sitestat("https://uk.sitestat.com/abdn/ext/s?" + counter_name);
+}
 //-->
 </script>
 <noscript>
 <div>
-<img src="http://uk.sitestat.com/abdn/abdn/s?javascriptoff" width="1" height="1" alt="" />
+<img src='https://uk.sitestat.com/abdn/ext/s?javascriptoff' width='1' height='1' alt='' />
 </div>
 </noscript>
-<!-- End Sitestat4 code -->
-
-<!-- Start of Google code -->
+<!-- End SitestatIX code -->
+<!-- Begin Google code -->
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
 _uacct = "UA-209114-1";
 urchinTracker();
 </script>
-<!-- End of Google code -->
+<!-- End Google code -->
 <br>
 
 <table align="center" width="90%" border="0" cellspacing="0" cellpadding="0">
@@ -105,11 +125,10 @@ urchinTracker();
 
   <tr> 
     <td valign="top"> 
-<h1>Privacy Policy for the University of Aberdeen Web Site</h1>
+<h1>Privacy Policy &amp; Disclaimer for the University of Aberdeen Web Site</h1>
 
 <ul>
-  <li>You can also download this policy <a href="privacy_policy.doc">as Word</a> 
-    or as <a href="privacy_policy.pdf">Adobe PDF</a></li>
+  <li>You can also download this policy <a href="privacy_policy.doc">as Word</a></li>
 </ul>
 <p>This policy explains what information is gathered from web clients visiting 
   the University of Aberdeen's central web server, and how that information is 
@@ -204,7 +223,10 @@ first instance to the University's Data Protection Officer, Mr
 David Jones:</p>
 <p>Telephone: 01224 27 2039<br>
   Email: <a href="mailto:d.jones@abdn.ac.uk">d.jones@abdn.ac.uk</a></p>
-      <h2><a name="one" id="one"></a><a name="two" id="two"></a>Footnotes</h2>
+<h2>Disclaimer </h2>
+<p>The University of Aberdeen takes reasonable efforts to ensure that the contents of its website(s) are accurate; however, it cannot give any warranty that this is the case. The University may change web content at any time without notice. </p>
+<p>The University of Aberdeen website includes links to third party websites. These links are used to provide further information and are not intended as an endorsement  of such websites and/or their content. </p>
+<h2><a name="one" id="one"></a><a name="two" id="two"></a>Footnotes</h2>
 
 
 
@@ -262,7 +284,7 @@ David Jones:</p>
               tel: +44 (0)1224 273636 · fax: +44 (0)1224 273282 · email: 
               <a href="mailto:helpdesk@abdn.ac.uk">helpdesk@abdn.ac.uk</a><br>
               Last modified: 
-              Friday, 21-Oct-2005 14:03:41 BST
+              Tuesday, 28-Mar-2006 17:03:02 BST
               </font></p>
           </td>
         </tr>
@@ -273,17 +295,17 @@ David Jones:</p>
 <!-- END OF LEVEL THREE FOOTER -->
 
 <p align="center" style="font-family: Verdana, Arial, Helvetica, sans-serif; 
-font-size: 80%;"><a href="http://www.abdn.ac.uk/cgi-bin/betsie" accesskey="6">View 
+font-size: 80%;"><a href="/cgi-bin/betsie.cgi" accesskey="6">View 
   this page as text only</a></p>
 <p align="center" style="font-family: Verdana, Arial, Helvetica, sans-serif; 
-font-size: 70%;"><a href="http://www.abdn.ac.uk/" accesskey="1">University 
-  Home</a> · <a href="http://www.abdn.ac.uk/sras/" accesskey="2">Prospective students</a> 
-  · <a href="http://www.abdn.ac.uk/prospectus/" accesskey="8">Prospectuses</a> · <a href="http://www.abdn.ac.uk/central/depts/atoz.shtml" accesskey="3">A 
-  to Z Index</a> · <a href="http://www.abdn.ac.uk/central/search/" accesskey="4">Search</a><br>
-  <a href="http://www.abdn.ac.uk/directory/" accesskey="7">
-  Email &amp; Telephone Directories</a> · <a href="http://www.abdn.ac.uk/central/contacts/" accesskey="9">Contacts/Help</a> 
-  · <a href="http://www.abdn.ac.uk/central/vcampus/" accesskey="5">Maps</a> · <a href="http://www.abdn.ac.uk/diss/docu/privacy.shtml">Privacy 
-  Policy</a> · <a href="http://www.abdn.ac.uk/diss/docu/accessibility.shtml" accesskey="0">Accessibility 
+font-size: 70%;"><a href="/" accesskey="1">University 
+  Home</a> · <a href="/sras/" accesskey="2">Prospective students</a> 
+  · <a href="/prospectus/" accesskey="8">Prospectuses</a> · <a href="/central/depts/atoz.shtml" accesskey="3">A 
+  to Z Index</a> · <a href="/central/search/" accesskey="4">Search</a><br>
+  <a href="/central/contacts/stafflists.shtml" accesskey="7">
+  Email &amp; Telephone Directories</a> · <a href="/central/contacts/" accesskey="9">Contacts/Help</a> 
+  · <a href="/central/vcampus/" accesskey="5">Maps</a> · <a href="/diss/docu/privacy.shtml">Privacy 
+  Policy &amp; Disclaimer</a> · <a href="/diss/docu/accessibility.shtml" accesskey="0">Accessibility 
   Policy</a></p>
 
 
