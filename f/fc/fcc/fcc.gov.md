@@ -1,99 +1,85 @@
-> *The following text is extracted and transformed from the fcc.gov privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215081652id_/http%3A//www.fcc.gov/webpolicies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fcc.gov privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615204626id_/http%3A//www.fcc.gov/fccprivacypolicy.html) for the most accurate reproduction.*
 
-# Website Policies, Important Notices and Links
-
-  
-
-
-  
-[](http://www.fcc.gov/fcc-bin/bye?http://www.regulations.gov/)   
-Find, review, & submit comments on Federal documents  
-[www.Regulations.gov](http://www.fcc.gov/fcc-bin/bye?http://www.regulations.gov/)   
-[](http://www.fcc.gov/fcc-bin/bye?http://www.firstgov.gov/)   
-Easy, one-stop access to all online U.S. Federal Government resources  
-[www.FirstGov.gov](http://www.fcc.gov/fcc-bin/bye?http://www.firstgov.gov/) |  |   
-
-
-Website Policies, Important Notices & Links
+# FCC Privacy Policy
 
   
 
 
-Access for People with Disabilities 
+FCC Privacy Policy
 
-The FCC is committed to making the electronic technologies we deploy accessible to individuals with disabilities. In this effort, we work with the Access Board, an independent Federal agency devoted to accessibility for people with disabilities. The Access Board established Federal standards for electronic and information technology under Section 508 of the Rehabilitation Act. We incorporate Section 508 compliance testing in the design, development and maintenance of our website. The Commission's work on accessible design is continuous, and we welcome [feedback](mailto:webmaster@fcc.gov) on improving the accessibility features of our site. To learn more about actions the FCC is taking to ensure that new technologies are accessible, visit our [Disability Rights Office web page](http://www.fcc.gov/cgb/dro/).
+We respect your right to privacy and will protect it when you visit our website. This page explains how we handle information about you when you visit and use our site. The FCC provides this website as a public service — you do not have to provide any personal information in order to enter and browse. The extent and type of information we receive depends on what you do while you are visiting our website.
 
-  
-
-
-Customer Service Standards 
-
-You will always be treated with courtesy and can expect these [Standards of Customer Service](https://web.archive.org/web/20051215081652id_/http%3A//www.fcc.gov/css.html) when interacting with us.
+The FCC collects no personal information about you when you visit our website unless you specifically and knowingly choose to provide such information to us. If you choose to provide information to us, we use it only to fulfill your request for information or services.
 
   
 
 
-Freedom of Information Act 
+Statistical Information Collected and Stored Automatically 
 
-The Freedom of Information Act, commonly known as the FOIA, ([5 U.S.C. § 552](https://web.archive.org/fcc-bin/bye?http://www.usdoj.gov/04foia/foiastat.htm)), was enacted by Congress in 1966 to give the American public greater access to the Federal Government's records. Congress has since expanded the scope of the FOIA to encompass electronic records. However, you do not have to file a FOIA request to obtain information which is routinely available for public inspection, including records from docketed cases, broadcast applications and related files, petitions for rulemakings, various legal and technical publications, legislative history compilations, etc. _See_ 47 C.F.R. §§ 0.453 and 0.455. Much of this information is available on our website. Visit the [FCC FOIA Home Page](http://www.fcc.gov/foia/) for an informal explanation of the FOIA process at the FCC.
+Our website automatically records website usage information that we analyze statistically to track operational problems, to prevent fraud and to improve the effectiveness, security and integrity of the site. This information does not identify you personally and we do not use this information to track or record information about individuals. We will disclose this information to third parties only in aggregate form or as may be required by law. For each page that you visit, we collect and store only the following technical information in what is called a web server log file:
 
-  
-
-
-Information Quality Guidelines & Notice 
-
-The FCC is dedicated to ensuring that all data it disseminates reflect a level of quality commensurate with the nature and timeliness of the information. Futher, the FCC seeks to disseminate all its data as broadly and promptly as possible so that the public can benefit from the FCC's work of ensuring vital and innovative communication services are available to all Americans at reasonable prices. In keeping with this commitment, and in accordance with OMB requirements, the FCC has developed [Information Quality Guidelines](http://www.fcc.gov/omd/dataquality/) and provides the public the opportunity to [comment](http://www.fcc.gov/omd/dataquality/complaint/) if those guidelines are not followed."
-
-The FCC makes every effort to insure that the information on this website is accurate. There may, however, be recent rule changes that have not yet been posted to the website or inadvertent errors in the content. The FCC will promptly modify the website information to ensure that the information posted is current, or to correct errors in content brought to the Commission's attention. In the event there is any conflict between information posted on this website and the Commission's rules, the rules shall prevail.
-
-  
-
-
-Linking Policy & Disclaimer of Endorsement 
-
-This Internet site contains hypertext links to information created and maintained by other public and private organizations. These links are provided for your convenience. The Federal Communications Commission does not control or guarantee the accuracy, relevance, timeliness or completeness of this outside information. Further, the inclusion of links to particular items in hypertext are not intended to reflect their importance, nor is it intended to endorse any views expressed or products or service offered on these outside sites, or the organizations sponsoring the sites.
+  * Date and time of access
+  * URL address of the FCC webpage visited
+  * Internet domain and IP address from which our website was accessed
+  * Type of browser and operating system used to access our site (if provided by the browser)
+  * URL address of the referring page (if provided by the browser) 
+  * Completion or success status of the request for a web page or other on-line item
+  * File size of the webpage visited
 
   
 
 
-On May 15, 2002, President Bush signed into law the Notification and Federal Employee Anti-Discrimination and Retaliation (No Fear) Act, which increases federal agency accountability for acts of discrimination or reprisal against employees. Visit our [No Fear Act Web Page](http://www.fcc.gov/owd/no-fear-act.html) to view the Equal Employment Opportunity Data that the FCC posts pursuant to the No Fear Act.
+Information That You Voluntarily Provide 
+
+If you voluntarily provide us with personal information, for example by sending an e-mail or by filling out a form and submitting it through our Website, you are indicating voluntary consent for us to use the information you are submitting to respond to your message and to help us provide you with the information and services that you have requested. We make every effort to disclose clearly how information is used at the point where it is collected so that our users can determine for themselves whether they wish to provide the information.
+
+Sharing and Disclosure of Information. Your submission, including personal information, may be shared within the FCC as well as with other Federal or State agencies, or others if necessary to address matters raised in your submission as allowed by the Commission's systems of records or as otherwise required or authorized by statute, including requests from Congress, Freedom of Information Act requests from private individuals or companies, for law enforcement purposes, for routine agency uses subject to the Privacy Act, or under our access and public record rules.
+
+If any personal information you provide will be maintained in an FCC Privacy Act system of records, you will be notified at the point of collection through a Privacy Act statement, as to whether providing information is mandatory or voluntary, and the effects of not providing all or any part of the requested information. The Commission ensures that it has and implements procedures to regulate the collection, maintenance, use, and dissemination of Privacy Act-protected information. Visit our [Privacy Act Web Page](http://www.fcc.gov/omd/privacyact/) for complete information about our compliance with the Privacy Act of 1974, and information on how to file a Privacy Act request.
+
+Under the Freedom of Information Act (FOIA) and the Privacy Act of 1974, to the extent applicable, you have certain rights to obtain information about you or your company that may be in our records. For more information about the circumstances under which you can get and correct this information, visit our [FOIA Web Page](http://www.fcc.gov/foia/). You will get access to any information that the FOIA and Privacy Act require us to disclose to you.
+
+Any comments that you submit to the FCC on a proposed rulemaking, petition, or other document for which public comment is requested will be made public, including any personally identifiable information you include in your submission. We may share non-personally identifiable information with others, including the public, in aggregated form, in partial or edited form, or verbatim.
+
+We do not collect, give, sell or rent any personal information to third parties for commercial marketing.
+
+Retention of Information. We may retain electronically submitted information as long as necessary to respond to your request, depending on the subject matter and according to the principles of the Federal Records Act and the regulations and records schedules approved by the National Archives and Records Administration (NARA). Computer web server logs may be preserved as long as administratively necessary and are scheduled for destruction in accordance with guidelines approved by NARA. The information in the logs may be used at any time as necessary to prevent security breaches and to insure the integrity of the data on our servers.
+
+If you use an on-line form to receive filing software or to register for informational e-mail updates, or for other purposes, information you provide may be retained so that we can notify you about changes or upgrades, where appropriate.
 
   
 
 
-Paperwork Reduction Act & FCC Information Collections 
+Security of Personal Information 
 
-The FCC collects many different kinds of information from the public. The Paperwork Reduction Act of 1995 (44 U.S.C. Part 35) requires the Commission, as well as other federal agencies, to get Office of Management and Budget (OMB) approval before collecting most kinds of information. The FCC currently has over 500 approved information collections. Once OMB approves a collection the FCC must ask OMB to renew its approval at least once every three years for as long as the collection is needed. These renewals are known as extensions. The Commission must also request OMB approval whenever it makes a significant change to a collection. Read more about [FCC Information Collections and the Paperwork Reduction Act](http://www.fcc.gov/omd/pra/).
+We use commercial encryption techniques to protect the transmission and storage of the information you submit to us when you use one of our secure online forms. E-mail that you send to us is not necessarily secure against third-party interception or misdirection. For your own protection, you may wish to communicate sensitive information using a method other than e-mail.
 
-  
-
-
-Plug-ins, Players & Readers 
-
-The FCC provides information on its web site in a variety of file formats that best match the transmittal and display requirements of the information, while taking into account the level of resources typically available to its visitors. Most of these file formats are easily read and displayed by standard web browsers or word processing programs, but some files whose formats have been specifically developed for transmitting and displaying special content, such as multimedia or very precisely defined documents, may require the use of additional software to be presented correctly. Visit our [Plug-ins, Players and Readers Web Page](http://www.fcc.gov/plug-ins.html) for more information and links for downloading the required software.
+For website security purposes and to ensure that our website remains available to all users, FCC computer systems that support the website use industry-standard methods and software to monitor and audit network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. Anyone visiting our website expressly consents to such monitoring and auditing.
 
   
 
 
-We respect your right to privacy and will protect it when you visit our website. The FCC collects no personal information about you when you visit our website unless you specifically and knowingly choose to provide such information to us. If you choose to provide information to us, we use it only to fulfill your request for information or services. [Visit our Privacy Policy Web Page for more information.](https://web.archive.org/web/20051215081652id_/http%3A//www.fcc.gov/fccprivacypolicy.html)
+Our website contains links to the websites of other government, public and private organizations that are outside of our control. When you follow a link to another site, you leave the FCC site and your website interactions are no longer protected by our privacy policy. Before leaving the FCC website, a page will be displayed informing you that you are leaving our website. The FCC is not responsible for, and does not endorse the privacy or security practices and content of non-FCC websites.
 
   
 
 
-The FCC website is an official United States Government System, which may be used only for authorized purposes. Unauthorized attempts to upload information or change information on FCC servers are strictly prohibited and may be punishable by law, including the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act. The Government may monitor or audit the usage of this system, and all persons are hereby notified that use of this system constitutes consent to such monitoring and auditing.
+Websites may send small pieces of text called cookies along with some of the web pages that you visit. Cookies are typically used on transactional pages as place-holders to retain context and content during individual user sessions, making it easier for you to use the dynamic features of these web pages without having to provide the same information repeatedly as you move from one page to another during your visit.
 
-E-Authentication. Confidence in the security of information exchanged over the Internet plays a vital role in E-Government. E-Authentication supports E-Government by helping to enable trust in online exchanges between entities and government. E-Authentication at FCC focuses on confirming a person’s identity, based on the reliability of his or her credential when using an FCC web-based system. The FCC conducted an E-Authentication assessment of its web-based systems. The results of the 2005 and 2004 E-Authentication assessments are summarized and may be obtained by request via email: [E-Authentication@fcc.gov](mailto:E-Authentication@fcc.gov). This notice is presented in compliance with Office of Management and Budget's "[E-Authentication Guidance for Federal Agencies](http://www.fcc.gov/fcc-bin/bye?http://www.whitehouse.gov/omb/memoranda/fy04/m04-04.pdf)".
+There are three types of cookies. A session cookie is a line of text that is stored temporarily in your computer’s random access memory (RAM) and is only available for the duration of an active browsing session. A session cookie is not placed on any hard drive, and it is destroyed as soon as you close your browser. A persistent cookie from a website is saved to a file on your hard drive and is accessed whenever you re-visit the website that put it there. This lets that website remember what you were interested in the last time you visited. A third-party cookie is a persistent cookie that is set by or sent to a website different than the one you’re currently viewing.
 
-  
-
-
-Website Inventory, Priorities & Schedules 
-
-The FCC maintains an inventory of FCC website content and associated on-line publication schedules and priorities, as required by Section 207(f)(2) of the E-Government Act of 2002. See our complete [Website Inventory, Priorities & Schedules page](http://www.fcc.gov/webinventory/) for more information.
+The FCC website does not use persistent or third-party cookies, but sometimes uses session cookies. Some of the interactive sections of our website may set session cookies in temporary memory in order to provide streamlined navigation. These session cookies are not stored on your computer's hard drive and are automatically erased as soon as you close your browser. Information from these session cookies is not collected or saved.
 
   
 
 
-Web Site Maintenance Policy & Schedule 
+Interaction With Children 
 
-We strive to make the FCC’s network and on-line systems highly reliable and available. Toward this end, we must periodically bring down systems for service, software updates, repairs, routine maintenance and performance tuning. Accordingly, we have established a weekly network maintenance window - Sunday 10:00pm to Monday 6:00am (Eastern Time) – when some or all FCC systems might be brought down for maintenance work. While this work is essential, we also recognize that it presents an inconvenience for those of you who use our on-line systems. If at any given time maintenance is not required for that week, the Sunday maintenance window will be cancelled and a notification will be posted under the [FCC Network Infrastructure Status](http://www.fcc.gov/cgi-bin/EFBoards/systemstatus.cgi?index_t=../../pub/e-file/messages/ITC.html). On those occasions when it is necessary to bring down all systems, the appropriate notification will be posted in the same place.
+Our Website contains some pages that offer educational content to children. It is FCC policy, in compliance with the requirements of the Children's Online Privacy Protection Act (COPPA), not to collect information online about or from children age 13 and under, except when it is needed to identify a submission or to answer a question. Under no circumstances will any of this information be used for another purpose or shared with third parties, nor will personally identifying information be published on the FCC website.
+
+  
+
+
+Personalization & Registration 
+
+Some FCC electronic filing systems allow you to customize how you interact with them in order to enhance customer service and add personalized functionality. In order to use these systems and make use of this functionality, entities doing business with the FCC must obtain an FCC Registration Number (FRN). This unique number is used to identify the entity’s business dealings with the FCC. Visit the [Commission Registration System Web Page](https://svartifoss2.fcc.gov/coresWeb/publicHome.do) to learn more about FRNs.
