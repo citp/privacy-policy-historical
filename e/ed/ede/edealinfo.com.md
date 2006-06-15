@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the edealinfo.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230102426id_/http%3A//www.edealinfo.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edealinfo.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615201135id_/http%3A//edealinfo.com/privacy.shtml) for the most accurate reproduction.*
 
 # eDealinfo.com Privacy Policy
 
-[Dell System Deals page](https://web.archive.org/dell/) has deals with upto _$750 off_ Laptop coupons and _30% off_ Desktop coupons! (New Coupons released on 12/22/2005)
+[Dell System Deals page](https://web.archive.org/dell/) has deals with upto _$750 off_ & _30% off_ Laptop coupons and _35% off_ Desktop coupons! (New Coupons released on 06/15/2006)
 
 eDealinfo.com is committed to the security and privacy of our visitors.
 
@@ -30,6 +30,6 @@ eDealinfo.com welcomes comments and questions on this policy. We are dedicated t
 ---|---|---|---|---  
 [](https://web.archive.org/cgi-bin/cjr.cgi?10395492) | [](https://web.archive.org/cgi-bin/cjr.cgi?1490092) | [](https://web.archive.org/Companies/stamps.htm) | [](https://web.archive.org/Companies/sbc.htm) | [](https://web.archive.org/Companies/myfico.htm)  
   
-© Copyright 2000-2005 eDealinfo.com Inc. All Rights Reserved. Other product and company names mentioned here in may be the trademarks of their respective owners. This site is best experienced at 1024x768 (or higher) with Internet Explorer 4.0+.
+© Copyright 2000-2006 eDealinfo.com Inc. All Rights Reserved. Other product and company names mentioned here in may be the trademarks of their respective owners. This site is best experienced at 1024x768 (or higher) with Internet Explorer 4.0+.
 
 General Disclaimer (in addition to [this disclaimer](https://web.archive.org/disclaimer.shtml)): 1. eDealinfo.com does NOT sell anything. We just show you the best online deals and you would make your purchase directly through other vendors. Please direct all your product/order related questions directly to the vendor. 2. We cannot guarantee that the price of the product will remain the same when you are ready to place the order. Vendors change the product prices very frequently and we would have no control over that. Be sure to verify the prices that you were expecting before you place the order. 3. We cannot guarantee that you will receive the coupon discount (as stated in the deal) when you are ready to place your order. Coupon could have expired or the vendor could have discontinued the coupon or changed the coupon value by that time and we would have no control over it. Be sure to verify that you have received the coupon discount that you were expecting before you place the order. 4. We cannot guarantee that the product will be in stock with the vendor in all areas. 5. Be sure to verify all the rebate details yourself. We would NOT be responsible for any errors.
