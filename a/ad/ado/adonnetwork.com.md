@@ -1,10 +1,15 @@
-> *The following text is extracted and transformed from the adonnetwork.com privacy policy that was archived on 2004-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041017033857id_/http%3A//mygeek.com/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adonnetwork.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615051219id_/http%3A//www.mygeek.com/public/privacy_policy.jsp) for the most accurate reproduction.*
 
-# MyGeek.com - Privacy Policy
+# myGeek - Privacy Policy
 
-Please note that the Privacy Policy has changed as of 1/06/2004. 
+|  | 
 
-| [](https://www.truste.org/validate.php?invnum=4227&fromcgi=1) | myGeek.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of:  
+  
+myGeek Privacy Policy
+
+Please note that the Privacy Policy has changed as of 5/12/2006.
+
+| [](http://www.truste.org/ivalidate.php?url=www.mygeek.com&sealid=101) | myGeek.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the sites www.mygeek.com and www.adonnetwork.com Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of:   
 ---|---  
   
   1. What personally identifiable information of yours or third party personally identification is collected from you through the web site 
@@ -17,11 +22,11 @@ Please note that the Privacy Policy has changed as of 1/06/2004.
 
 
 
-If you have questions or concerns regarding this statement, you should first contact customerservice@mygeek.com by e-mail. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe http://www.truste.org/users/users_watchdog.html. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first contact customerservice@mygeek.com by e-mail. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
 
-Our Commitment 
+Our Commitment
 
-myGeek.com understands how important it is to keep your personal information confidential, especially online. Our commitment to protecting your privacy is outlined in the policies below. Because our privacy policy may be updated periodically, we encourage you to review these pages on a regular basis. 
+myGeek.com understands how important it is to keep your personal information confidential, especially online. Our commitment to protecting your privacy is outlined in the policies below. Because our privacy policy may be updated periodically, we encourage you to review these pages on a regular basis.
 
 Information Collected and How It's Used 
 
@@ -29,12 +34,12 @@ Your IP Address
 An IP (Internet Protocol) address is automatically assigned to your computer every time you establish a connection on the Internet. myGeek.com uses your IP address to help diagnose problems with our server and to administer our web site. myGeek.com does not link your IP address to any identifiable personal information. 
 
 Cookies  
-In computer language, a cookie is used to store data on your computer's hard drive. We use cookies to store your e-mail ID on your computer so that you don't have to re-enter it each time you visit myGeek.com. We never use cookies to capture or contain personal information from your computer. The only personal information myGeek.com has is what you give to us. 
+In computer language, a cookie is used to store data on your computer's hard drive. We use cookies to store your e-mail ID on your computer so that you don't have to re-enter it each time you visit myGeek.com. We never use cookies to capture or contain personal information from your computer. Some of our business partners use cookies on our site. We have no access to or control over these cookies. The only personal information myGeek.com has is the information you have provided. 
 
 Your Account  
-myGeek.com can obtain access to your name, e-mail address and other contact information only (1) when you become an advertiser with myGeek.com, provide comments, submit a problem, or request information from myGeek.com and provide your name or return contact information, or (2) in connection with special offers or contests. Contact information provided in connection with problems, comments or requests is used only to respond to those problems, comments or requests. You may choose to provide contact information, other personally identifying information, and demographic information in order to participate in optional surveys or contests, which are run for promotional purposes. MyGeek.com uses such information to send you information about its products and to notify you if you win the contest. 
+myGeek.com can obtain access to your name, e-mail address and other contact information only (1) when you become an advertiser with myGeek.com, provide comments, submit a problem, or request information from myGeek.com and provide your name or return contact information, or (2) in connection with special offers or contests. Contact information provided in connection with problems, comments or requests is used only to respond to those problems, comments or requests. You may choose to provide contact information, other personally identifying information, and demographic information in order to participate in optional surveys or contests, which are run for promotional purposes. myGeek.com uses such information to send you information about its products and to notify you if you win the contest. 
 
-Upon registration in the myGeek.com Private Label Account Management system, advertisers are requested to provide company, contact and credit card information. This information is primarily used to identify the account and correspond to the account holder in regard to payments, credits, problems and questions. Credit Card information is provided to credit card processors for the sole purpose of verifying that the credit card is valid and to authorize purchases or to administer refunds to cancelled accounts. Secondary uses of the information provided are to assist myGeek.com staff in detecting and tracking any potential fraud. If the advertiser registers with myGeek.com through one of its private label partners, myGeek.com may provide certain of its advertisers' contact information to selected private label partners who wish to participate in conjunction with myGeek.com com and who are responsible for the acquisition or sign-up of the advertiser account. Only contact information is shared with the private label partners, no credit card information is used or shared beyond it's sole purpose of payments/purchases. Advertisers may opt-out of receiving such communications at any time by contacting myGeek.com. myGeek.com Web site includes links to independent, third party Web sites. myGeek.com is not responsible for the privacy practices or the content of such Web sites. 
+Upon registration in the myGeek.com Private Label Account Management system, advertisers are requested to provide company, contact and credit card information. This information is primarily used to identify the account and correspond to the account holder in regard to payments, credits, problems and questions. Credit Card information is provided to credit card processors for the sole purpose of verifying that the credit card is valid and to authorize purchases or to administer refunds to cancelled accounts. Secondary uses of the information provided are to assist myGeek.com staff in detecting and tracking any potential fraud. If the advertiser registers with myGeek.com through one of its private label partners, myGeek.com may provide certain of its advertisers' contact information to selected private label partners who wish to participate in conjunction with myGeek.com com and who are responsible for the acquisition or sign-up of the advertiser account. Only contact information is shared with the private label partners, no credit card information is used or shared beyond it's sole purpose of payments/purchases. Advertisers may opt-out of receiving such communications at any time by contacting myGeek.com. myGeek.com Web site includes links to independent, third party Web sites. myGeek.com is not responsible for the privacy practices or the content of such Web sites. Live Chat is a 3rd party application from Liveperson that is operated by myGeek. All information submitted via Live Chat is only used to facilitate help/customer services issues and not used for any secondary purposes. Live Chat is covered under the myGeek privacy policy.
 
 Additional Information Collected  
 Any personal correspondence you send to us, including e-mail and letters, as well as correspondence from other customers or third parties about your activities or postings pertaining to myGeek.com, and all entries made by you onto our site may be collected and stored. Any notes, ideas, suggestions, or other material submitted by Users becomes the property of myGeek.com. 
@@ -45,7 +50,7 @@ Unsupervised Children
 Children 18 and under are not eligible to use myGeek.com services without the participation and supervision of a legal parent or guardian. myGeek.com is not a site meant for children, and we do not provide privacy measures designed to protect children when using the Internet unsupervised.
 
 Expunging Your Information From Our Records  
-You may e-mail CustomerService at myGeek.com or use one of the alternate contact methods listed below to remove your contact information from our database provided we have completed all your pending transactions. Please note, however, that information is never completely removed from our history and disaster recovery archives. 
+You may e-mail CustomerService at myGeek.com or use one of the alternate contact methods listed below to remove your contact information from our database provided we have completed all your pending transactions. Please note, however, that information is never completely removed from our history and disaster recovery archives. You may access and edit your account information by logging into your account online and clicking on the "Edit Profile" link.
 
 Disclosure of Information to Third Parties 
 
@@ -79,21 +84,37 @@ While we use SSL encryption to protect sensitive information online, protect all
 Your Consent & Contacting Us 
 
 Your Consent  
-By using the myGeek.com Web site, you consent to the collection, storage, and dissemination of personal data as described above. We will post any changes to our privacy policy on this page so you can readily review the most current policy. myGeek.com reserves the right to e-mail you regarding changes to our privacy policy or any other matters myGeek.com considers necessary for the administration of the site. 
+By using the myGeek.com Web site, you consent to the collection, storage, and dissemination of personal data as described above. If we decide to change our privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email or by means of a notice on our homepage.
 
 How To Contact Us  
 If you have any questions regarding our privacy policy please contact CustomerService at myGeek.com. You can also use this e-mail address to: 
 
-  * Opt-out of receiving promotional offers and updates about the site. 
-  * Opt-out of allowing your information to be disclosed to third parties. 
+  * Opt-out of receiving promotional offers and updates about the site. Service related emails sent by myGeek to notify the user cannot be opted-out of unless the user cancels membership or use of the service.
   * Notify us of updates to any of your personal account information. 
 
 
 
-U.S. Mail: myGeek.com  
+U.S. Mail: myGeek  
 Attn: Customer Service  
-2375 E Camelback Road  
-Suite 500  
-Phoenix, AZ 85016
+4130 E Van Buren St.  
+Suite 250  
+Phoenix, AZ 85008
 
-Phone: 1-602-387-5042
+Phone: 602.387.5042
+
+  
+|   
+  
+  
+
+
+Did You  
+Know?
+
+  
+  
+...In Chinese, the words for crisis and opportunity are the same.
+
+...In ancient Egyptian, the words for genius and socially awkward are the same: Geek.
+
+| 
