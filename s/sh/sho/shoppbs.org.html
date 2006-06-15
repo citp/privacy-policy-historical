@@ -1,14 +1,25 @@
-<!--The following is the downloaded HTML source of the shoppbs.org privacy policy that was archived on 2005-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051220053600id_/http%3A//www.shoppbs.org/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dfooter_privacyPolicy_img) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shoppbs.org privacy policy that was archived on 2006-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615070642id_/http%3A//www.shoppbs.org/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dfooter_privacyPolicy_img) for the most accurate reproduction.-->
 
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 
 
 	<title>Shop PBS Helpdesk</title>
 	<script language="Javascript">
+function trimString (str) {
+  while (str.charAt(0) == ' ')
+    str = str.substring(1);
+  while (str.charAt(str.length - 1) == ' ')
+    str = str.substring(0, str.length - 1);
+  return str;
+}
+
+
 function emailCheck(type) // not sure if anybody uses this, but just in case i'm leaving it functional
 {
-    if (!validateEmail(document.emailForm.emailAddress.value))
+ var email = trimString(document.emailForm.emailAddress.value);
+
+    if (!validEmail(email))
 	{
         alert('Please enter a valid e-mail address.');
         return false;
@@ -72,6 +83,7 @@ function jump(url)
 <body bgcolor="#F2F2F2" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" rightmargin="0">
 <a name="pageTop()"><!-- --></a>
 
+
 <script language="JavaScript">
 //
 // Rollover
@@ -87,6 +99,250 @@ function Hilite(name,over)
   }
 }
 </script>
+
+<script type="text/javascript">
+	var currentSlider = "";
+	var showEmail = 0;
+	var showEmail2 = 0;
+	var slideDelay = 0;
+	var domStyle = null;
+	var timer1 = "";
+	var timer2 = "";
+
+
+	function emailOpen(emailSlider)
+	{
+		domStyle = findMDOM(emailSlider,1);
+	    if (showEmail){
+		    fX = -270; cX = 140; showEmail = 0; 
+	    }else{
+	            fX = 140; cX = -250; showEmail = 1; 
+	    }
+	    slideEmail(cX,fX);
+		
+	}
+
+	function emailClose(emailSlider){
+	    if (showEmail){
+	        fX = -270; cX = 140; showEmail = 0;
+	        slideEmail(cX,fX);
+	    }
+		
+	}
+
+	function slideEmail(cX,fX){
+	    if (cX != fX){
+	        if (navigator.appName == "Microsoft Internet Explorer"){
+	            if (navigator.appVersion.lastIndexOf('Mac') != -1){
+	                if (cX > fX){
+	                    cX -= 10;
+	                }else{
+	                    cX += 10;
+	                }
+	            }else{
+	                if (cX > fX){
+	                    cX -= 10;
+	                }else{
+	                    cX += 10;
+	                }
+	            }
+	        }else if (navigator.appName == "Safari"){
+	            if (cX > fX){
+	                cX -= 20;
+	            }else{
+	                cX += 20;
+	            }
+	        }else{
+	            if (cX > fX){
+	                cX -= 20;
+	            }else{
+	                cX += 20;
+	            }
+	        }
+	               domStyle.top = cX;
+	               timer1 = setTimeout('slideEmail(' + cX + ',' + fX + ')', slideDelay);
+	            }
+	            return;
+	}
+
+	function emailOpen2(emailSlider)
+	{
+		if (showEmail == 1)
+		{
+			document.getElementById("emailSlider1").style.zIndex = 97;
+			document.getElementById("emailSlider2").style.zIndex = 98;
+		}
+		else if (showEmail == 0)
+		{
+			document.getElementById("emailSlider1").style.zIndex = 98;
+			document.getElementById("emailSlider2").style.zIndex = 97;
+		}
+		domStyle = findMDOM(emailSlider,1);
+	    if (showEmail2){
+		   fX2 = -370; cX2 = 140; showEmail2 = 0; 
+	    }else{
+	            fX2= 140; cX2 = -250; showEmail2 = 1; 
+	    }
+	    slideEmail2(cX2,fX2);
+		
+	}
+
+	function emailClose2(emailSlider){
+	    if (showEmail2){
+	        fX2 = -770; cX2 = 140; showEmail2 = 0;
+	        slideEmail2(cX2,fX2);
+	    }
+		
+	}
+
+	function slideEmail2(cX,fX){
+	    if (cX2 != fX2){
+	        if (navigator.appName == "Microsoft Internet Explorer"){
+	            if (navigator.appVersion.lastIndexOf('Mac') != -1){
+	                if (cX2 > fX2){
+	                    cX2 -= 10;
+	                }else{
+	                    cX2 += 10;
+	                }
+	            }else{
+	                if (cX2 > fX2){
+	                    cX2 -= 10;
+	                }else{
+	                    cX2 += 10;
+	                }
+	            }
+	        }else if (navigator.appName == "Safari"){
+	            if (cX2 > fX2){
+	                cX2 -= 20;
+	            }else{
+	                cX2 += 20;
+	            }
+	        }else{
+	            if (cX2 > fX2){
+	                cX2 -= 20;
+	            }else{
+	                cX2 += 20;
+	            }
+	        }
+	               domStyle.top = cX2;
+	               timer2 = setTimeout('slideEmail2(' + cX2 + ',' + fX2 + ')', slideDelay);
+	            }
+	            return;
+	}
+
+	function findMDOM(emailSlider,withStyle){
+	    if (withStyle == 1){
+	        return (document.getElementById(emailSlider).style);
+	    }
+	}
+	
+	function toggleVisibility(id, NNtype, IEtype, WC3type) 
+	{
+		if (currentSlider != "")
+		{
+			//toggleVisibility(currentSlider,'hidden','hidden','hidden');
+			//currentSlider = "";
+		    if (document.getElementById)
+			{
+		        eval("document.getElementById(currentSlider).style.visibility = \"hidden\"");
+		    }
+			else
+			{
+		        if (document.layers)
+				{
+		            document.layers[currentSlider].visibility = "hidden";
+		        }
+				else
+				{
+		            if (document.all)
+					{
+		                eval("document.all." + currentSlider + ".style.visibility = \"hidden\"");
+		            }
+		        }
+		    }
+			currentSlider = "";
+		}
+		if (currentSlider == "")
+		{
+		    if (document.getElementById)
+			{
+		        eval("document.getElementById(id).style.visibility = \"" + WC3type + "\"");
+		    }
+			else
+			{
+		        if (document.layers)
+				{
+		            document.layers[id].visibility = NNtype;
+		        }
+				else
+				{
+		            if (document.all)
+					{
+		                eval("document.all." + id + ".style.visibility = \"" + IEtype + "\"");
+		            }
+		        }
+		    }
+			currentSlider = id;
+		}
+	}
+</script>
+
+<style>
+
+body {
+	text-align: center;
+	}
+
+#frame {
+	position:relative;
+	width:780px;
+	margin: 0 auto;
+	padding:0px;
+	text-align:left;
+	}
+
+#header {
+	position:absolute;
+	top:0;
+	left:0;
+	z-index: 100;
+	width:780px;
+	height:143px;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	}
+
+#hideSelects {
+	position: absolute;
+	z-index: 99;
+	left: 521px;
+	width: 259px;
+	top: -245px;
+	background-color: #FFFFFF;
+	}
+
+#emailSlider1 {
+	position: absolute;
+	z-index: 98;
+	left: 521px;
+	width: 259px;
+	top: -260px;
+	background-color: #FFFFFF;
+	}
+
+#emailSlider2 {
+	position: absolute;
+	z-index: 97;
+	left: 521px;
+	width: 259px;
+	top: -360px;
+	background-color: #FFFFFF;
+	}
+</style>
+
+<div id="frame">
+<div id="header">
 <table cellpadding="0" cellspacing="0" border="0" width="780" align="center">
 <tbody><tr bgcolor="#E5E5E5">
 	<td height="24" bgcolor="#CCCCCC" valign="center" width="195">&nbsp;&nbsp;<a href="http://www.pbs.org" class="headlink" target="_blank">PBS.org</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://teacher.shop.pbs.org/home/index.jsp?clickid=topnav_teachershop_txt" class="headlink" target="_blank">Shop for Teachers</a></td>
@@ -108,275 +364,37 @@ function Hilite(name,over)
 </tbody></table>
 <table cellpadding="0" cellspacing="0" border="0" width="780" align="center">
 <tbody><tr>
-	<td height="96" rowspan="2"><a href="/home/index.jsp?clickid=mainnav_home_img"><img src="http://QPBS.imageg.net/graphics/category_images/PBS_header_animated_cobrand_new3.gif" border="0" align="absmiddle"></a></td>
-	<td bgcolor="8E1919" height="15"><img src="http://QPBS.imageg.net/images/pixel.gif" width="1" height="15"></td>
+	<td height="96" rowspan="2"><a href="/home/index.jsp?clickid=mainnav_home_img"><img src="http://QPBS.imageg.net/graphics/category_images/PBS_header_animated_cobrand.gif" border="0" align="absmiddle"></a></td>
+	<td bgcolor="3A71E5" height="15"><img src="http://QPBS.imageg.net/images/pixel.gif" width="1" height="15"></td>
 </tr>
 <tr>
-	<td height="81" bgcolor="#666666" width="186" valign="top" align="right" class="finder"><img src="http://QPBS.imageg.net/images/finder.jpg"><br><script language="JavaScript">
-
-function combineMenus(frm, media, genre) {
-with (frm) {
-str = media.options[media.selectedIndex].value;
-str += genre.options[genre.selectedIndex].value;
-getCat = str;
-
-if (getCat == 'BKarts') {
-	window.location.href = "/family/index.jsp?categoryId=1377876&cp=1377864&clickid=mainnav_quickFinder_img";
-	}	
-	
-else if (getCat == 'BKbusiness') {
-	window.location.href = "/family/index.jsp?categoryId=1377887&cp=1377880&clickid=mainnav_quickFinder_img";
-	}	
-	
-else if (getCat == 'BKhealth') {
-	window.location.href = "/family/index.jsp?categoryId=1377899&cp=1377891&clickid=mainnav_quickFinder_img";
-	}	
-
-else if (getCat == 'BKhistory') {
-	window.location.href = "/home/index.jsp?cp=1377903&clickid=mainnav_quickFinder_img";
-	}
-	
-else if (getCat == 'BKhowto') {
-	window.location.href = "/family/index.jsp?categoryId=1377927&cp=1377917&clickid=mainnav_quickFinder_img";
-	}
-	
-else if (getCat == 'BKlearning') {
-	window.location.href = "/home/index.jsp?cp=1377931&clickid=mainnav_quickFinder_img";
-	}	
-	
-else if (getCat == 'BKkids') {
-	window.location.href = "/family/index.jsp?categoryId=1377970&cp=1377960&clickid=mainnav_quickFinder_img";
-	}	
-
-else if (getCat == 'BKnature') {
-	window.location.href = "/family/index.jsp?categoryId=1377940&cp=1377932&clickid=mainnav_quickFinder_img";
-	}	
-	
-else if (getCat == 'BKnews') {
-	window.location.href = "/family/index.jsp?categoryId=1377956&cp=1377944&clickid=mainnav_quickFinder_img";
-	}	
-
-else if (getCat == 'BKreligion') {
-	window.location.href = "/family/index.jsp?categoryId=1377979&cp=1377974&clickid=mainnav_quickFinder_img";
-	}
-
-else if (getCat == 'BKscience') {
-	window.location.href = "/family/index.jsp?categoryId=1377995&cp=1377983&clickid=mainnav_quickFinder_img";
-	}	
-	
-else if (getCat == 'BKtravel') {
-	window.location.href = "/family/index.jsp?categoryId=1383327&cp=1377999&clickid=mainnav_quickFinder_img";
-	}	
-	
-	
-	
-	
-else if (getCat == 'DVDarts') {
-	window.location.href = "/family/index.jsp?categoryId=1377877&cp=1377864&clickid=mainnav_quickFinder_img";
-	}	
-	
-else if (getCat == 'DVDbusiness') {
-	window.location.href = "/family/index.jsp?categoryId=1377888&cp=1377880&clickid=mainnav_quickFinder_img";
-	}	
-	
-else if (getCat == 'DVDhealth') {
-	window.location.href = "/family/index.jsp?categoryId=1377900&cp=1377891&clickid=mainnav_quickFinder_img";
-	}	
-
-else if (getCat == 'DVDhistory') {
-	window.location.href = "/home/index.jsp?cp=1377903&clickid=mainnav_quickFinder_img";
-	}
-	
-else if (getCat == 'DVDhowto') {
-	window.location.href = "/family/index.jsp?categoryId=1377929&cp=1377917&clickid=mainnav_quickFinder_img";
-	}
-
-else if (getCat == 'DVDlearning') {
-	window.location.href = "/home/index.jsp?cp=1377931&clickid=mainnav_quickFinder_img";
-	}	
-	
-else if (getCat == 'DVDkids') {
-	window.location.href = "/family/index.jsp?categoryId=1377971&cp=1377960&clickid=mainnav_quickFinder_img";
-	}	
-	
-else if (getCat == 'DVDnature') {
-	window.location.href = "/family/index.jsp?categoryId=1377941&cp=1377932&clickid=mainnav_quickFinder_img";
-	}	
-	
-else if (getCat == 'DVDnews') {
-	window.location.href = "/family/index.jsp?categoryId=1377957&cp=1377944&clickid=mainnav_quickFinder_img";
-	}	
-
-else if (getCat == 'DVDreligion') {
-	window.location.href = "/family/index.jsp?categoryId=1377980&cp=1377974&clickid=mainnav_quickFinder_img";
-	}
-
-else if (getCat == 'DVDscience') {
-	window.location.href = "/family/index.jsp?categoryId=1377996&cp=1377983&clickid=mainnav_quickFinder_img";
-	}	
-	
-else if (getCat == 'DVDtravel') {
-	window.location.href = "/family/index.jsp?categoryId=1383328&cp=1377999&clickid=mainnav_quickFinder_img";
-	}	
-	
-
-else if (getCat == 'CDarts') {
-	window.location.href = "/family/index.jsp?categoryId=1377878&cp=1377864&clickid=mainnav_quickFinder_img";
-	}
-
-else if (getCat == 'CDbusiness') {
-	window.location.href = "/home/index.jsp?cp=1377880&clickid=mainnav_quickFinder_img";
-	}	
-	
-else if (getCat == 'CDhealth') {
-	window.location.href = "/home/index.jsp?cp=1377891&clickid=mainnav_quickFinder_img";
-	}	
-
-else if (getCat == 'CDhistory') {
-	window.location.href = "/home/index.jsp?cp=1377903&clickid=mainnav_quickFinder_img";
-	}
-
-else if (getCat == 'CDhowto') {
-	window.location.href = "/home/index.jsp?cp=1377917&clickid=mainnav_quickFinder_img";
-	}
-	
-else if (getCat == 'CDlearning') {
-	window.location.href = "/home/index.jsp?cp=1377931&clickid=mainnav_quickFinder_img";
-	}
-	
-else if (getCat == 'CDkids') {
-	window.location.href = "/home/index.jsp?cp=1377960&clickid=mainnav_quickFinder_img";
-	}	
-	
-else if (getCat == 'CDnature') {
-	window.location.href = "/family/index.jsp?categoryId=1377942&cp=1377932&clickid=mainnav_quickFinder_img";
-	}	
-	
-else if (getCat == 'CDnews') {
-	window.location.href = "/family/index.jsp?categoryId=1377958&cp=1377944&clickid=mainnav_quickFinder_img";
-	}	
-
-else if (getCat == 'CDreligion') {
-	window.location.href = "/family/index.jsp?categoryId=1377981&cp=1377974&clickid=mainnav_quickFinder_img";
-	}
-
-else if (getCat == 'CDscience') {
-	window.location.href = "/family/index.jsp?categoryId=1377997&cp=1377983&clickid=mainnav_quickFinder_img";
-	}	
-	
-else if (getCat == 'CDtravel') {
-	window.location.href = "/family/index.jsp?categoryId=1383329&cp=1377999&clickid=mainnav_quickFinder_img";
-	}	
-	
-	
-else if (getCat == 'VDarts') {
-	window.location.href = "/family/index.jsp?categoryId=1377879&cp=1377864&clickid=mainnav_quickFinder_img";
-	}	
-	
-else if (getCat == 'VDbusiness') {
-	window.location.href = "/family/index.jsp?categoryId=1377890&cp=1377880&clickid=mainnav_quickFinder_img";
-	}	
-	
-else if (getCat == 'VDhealth') {
-	window.location.href = "/family/index.jsp?categoryId=1377902&cp=1377891&clickid=mainnav_quickFinder_img";
-	}	
-
-else if (getCat == 'VDhistory') {
-	window.location.href = "/home/index.jsp?cp=1377903&clickid=mainnav_quickFinder_img";
-	}
-	
-else if (getCat == 'VDhowto') {
-	window.location.href = "/family/index.jsp?categoryId=1377930&cp=1377917&clickid=mainnav_quickFinder_img";
-	}
-	
-else if (getCat == 'VDlearning') {
-	window.location.href = "/family/index.jsp?categoryId=1378323&cp=1377931&clickid=mainnav_quickFinder_img";
-	}	
-	
-else if (getCat == 'VDkids') {
-	window.location.href = "/family/index.jsp?categoryId=1377973&cp=1377960&clickid=mainnav_quickFinder_img";
-	}	
-
-else if (getCat == 'VDnature') {
-	window.location.href = "/family/index.jsp?categoryId=1377943&cp=1377932&clickid=mainnav_quickFinder_img";
-	}	
-	
-else if (getCat == 'VDnews') {
-	window.location.href = "/family/index.jsp?categoryId=1377959&cp=1377944&clickid=mainnav_quickFinder_img";
-	}	
-
-else if (getCat == 'VDreligion') {
-	window.location.href = "/family/index.jsp?categoryId=1377982&cp=1377974&clickid=mainnav_quickFinder_img";
-	}
-
-else if (getCat == 'VDscience') {
-	window.location.href = "/family/index.jsp?categoryId=1377998&cp=1377983&clickid=mainnav_quickFinder_img";
-	}	
-	
-else if (getCat == 'VDtravel') {
-	window.location.href = "/family/index.jsp?categoryId=1383331&cp=1377999&clickid=mainnav_quickFinder_img";
-	}
-	
-	
-	
-else if (getCat == 'VDag') {
-	window.location.href = "/family/index.jsp?categoryId=1412628&clickid=mainnav_quickFinder_img";
-	}	
-	
-else if (getCat == 'CDag') {
-	window.location.href = "/family/index.jsp?categoryId=1412627&clickid=mainnav_quickFinder_img";
-	}	
-	
-else if (getCat == 'DVDag') {
-	window.location.href = "/family/index.jsp?categoryId=1412626&clickid=mainnav_quickFinder_img";
-	}	
-
-else if (getCat == 'BKag') {
-	window.location.href = "/family/index.jsp?categoryId=1412625&clickid=mainnav_quickFinder_img";
-	}
-   }
-
-}
-//  End -->
-</script>
-<form name="menufrm" style="margin:0px;display:inline;">
-media:<select name="media" style="style:verdana,genevafont-size:9px;color:#000000;background:#ECECEC;width:90px;Height:17px;font-family:verdana;font-weight:normal;"><option value="">choose format</option>
-<option value="">--------</option>
-<option value="BK">Books</option>
-<option value="DVD">DVD</option>
-<option value="CD">Music</option>
-<option value="VD">VHS</option>
-</select><img src="http://QPBS.imageg.net/images/pixel.gif" width="41" height="1"><br><img src="http://QPBS.imageg.net/images/pixel.gif" width="1" height="1"><br>
-genre:<select name="genre" style="style:verdana,genevafont-size:9px;color:#000000;background:#ECECEC;width:90px;Height:17px;font-family:verdana;font-weight:normal;"><option value="ag">all genres</option>
-<option value="">--------</option>
-<option value="arts">Arts</option>
-<option value="business">Business</option>
-<option value="health">Health</option>
-<option value="history">History</option>
-<option value="howto">Home &amp; How To</option>
-<option value="kids">Kids</option>
-<option value="learning">Learning</option>
-<option value="nature">Nature</option>
-<option value="news">News</option>
-<option value="religion">Religion</option>
-<option value="science">Science</option>
-<option value="travel">Travel</option>
-</select>
-<a href="javascript:combineMenus(document.menufrm, document.menufrm.media, document.menufrm.genre)"><img src="http://QPBS.imageg.net/images/go.jpg" border="0"></a>
-</form>
-
- 
-
-
-
-
-	</td>
+	<td height="81" bgcolor="#666666" width="186" valign="top" align="right" class="finder"><img src="http://QPBS.imageg.net/images/qpbs_email_cat_signup.gif" width="186" height="81" alt="" border="0" usemap="#signup"></td>
 </tr>
 <tr>
 	<td height="23" colspan="2"><a href="/category/index.jsp?categoryId=1377864&amp;clickid=mainnav_arts_img"><img src="http://QPBS.imageg.net/images/arts.jpg" border="0" name="arts" onmouseover="Hilite('arts',true)" onmouseout="Hilite('arts',false)"></a><a href="/category/index.jsp?categoryId=1377891&amp;clickid=mainnav_health_img"><img src="http://QPBS.imageg.net/images/health.jpg" border="0" name="health" onmouseover="Hilite('health',true)" onmouseout="Hilite('health',false)"></a><a href="/category/index.jsp?categoryId=1377903&amp;clickid=mainnav_history_img"><img src="http://QPBS.imageg.net/images/history.jpg" border="0" name="history" onmouseover="Hilite('history',true)" onmouseout="Hilite('history',false)"></a><a href="/category/index.jsp?categoryId=1377932&amp;clickid=mainnav_nature_img"><img src="http://QPBS.imageg.net/images/nature.jpg" border="0" name="nature" onmouseover="Hilite('nature',true)" onmouseout="Hilite('nature',false)"></a><a href="/category/index.jsp?categoryId=1377944&amp;clickid=mainnav_news_img"><img src="http://QPBS.imageg.net/images/news.jpg" border="0" name="news" onmouseover="Hilite('news',true)" onmouseout="Hilite('news',false)"></a><a href="/category/index.jsp?categoryId=1377983&amp;clickid=mainnav_science_img"><img src="http://QPBS.imageg.net/images/science.jpg" border="0" name="science" onmouseover="Hilite('science',true)" onmouseout="Hilite('science',false)"></a><a href="/category/index.jsp?categoryId=1429976&amp;clickid=mainnav_kids_img"><img src="http://QPBS.imageg.net/images/kids.jpg" border="0" name="kids" onmouseover="Hilite('kids',true)" onmouseout="Hilite('kids',false)"></a><a href="/category/index.jsp?categoryId=1377999&amp;clickid=mainnav_travel_img"><img src="http://QPBS.imageg.net/images/travel.jpg" border="0" name="travel" onmouseover="Hilite('travel',true)" onmouseout="Hilite('travel',false)"></a><a href="../seeAll/index.jsp?clickid=mainnav_seeAllGenres_img"><img src="http://QPBS.imageg.net/images/see_all.jpg" border="0" name="see_all" onmouseover="Hilite('see_all',true)" onmouseout="Hilite('see_all',false)"></a></td>
 </tr>
-
 </tbody></table>
+</div>
+
+<span id="emailSlider1" height="402" width="259">
+<iframe id="sliderFrame1" name="sliderFrame1" height="402" width="259" frameborder="0" src="../include/email_popin.jsp" scrolling="No"></iframe>
+</span>
+
+<span id="emailSlider2" height="402" width="259">
+<iframe id="sliderFrame" name="sliderFrame" height="500" width="259" frameborder="0" src="../include/catalog_popin.jsp" scrolling="No"></iframe>
+</span>
+
+<span id="hideSelects" height="387" width="259">
+<iframe height="387" width="259" frameborder="0" src="../include/blank_popin.jsp" scrolling="No"></iframe>
+</span>
+
+</div>
+
+<map name="signup">
+	<area alt="" coords="8,11,128,27" href="javascript:emailOpen('emailSlider1');">
+	<area alt="" coords="6,54,132,73" href="javascript:emailOpen2('emailSlider2');">
+</map>
+<div style="padding-top:143px;"></div>
 
 <table border="0" width="780" cellpadding="0" cellspacing="0" align="center" bgcolor="#FFFFFF">
 <tbody><tr>
@@ -511,7 +529,7 @@ genre:<select name="genre" style="style:verdana,genevafont-size:9px;color:#00000
 						<!--here is panelId::2016964-->
 <!--here is pd::null-->
 <!--STOREMAN GENERATION - 1 panel(s) found for slot: HelpSlot entryId: 2016964 with pd:null-->
-<!--STOREMAN PANEL: helpdesk/QPBS_safetySecurityAndPrivacy_9-3.13541.jsp-->
+<!--STOREMAN PANEL: helpdesk/QPBS_safetySecurityAndPrivacy_9-3.21134.jsp-->
 
 								<!--?xml version="1.0" encoding="ISO-8859-1" standalone="no"?-->
 
@@ -577,14 +595,14 @@ Your family's use of this site is conditioned on your having accepted these term
 </p><p>
 We want to make this site a place where families can surf together, and where parents and caregivers are happy to have their children interact, learn and play. If you have any comments or questions, we're happy to hear them. This is, after all, your site. 
 </p><p>
-If you have any questions or concerns regarding this policy, send us an e-mail at kids@pbs.org. You may also contact us at 1320 Braddock Place, Alexandria, VA 22314 (703 739-5127). Please read the Rules of the Road for Terms and Conditions for using this site. Read the PBS Online Privacy Policy for the sites hosted on pbs.org. 
+If you have any questions or concerns regarding this policy, send us an e-mail at <a href="mailto:kids@pbs.org?subject=Privacy Policy Questions">kids@pbs.org</a>. You may also contact us at 1320 Braddock Place, Alexandria, VA 22314 (703 739-5127). Please read the Rules of the Road for Terms and Conditions for using this site. Read the PBS Online Privacy Policy for the sites hosted on pbs.org. 
 
 <br><br>
         </p></td>
     </tr>
 </tbody></table>
 </smpanel>
-<!--END STOREMAN PANEL helpdesk/QPBS_safetySecurityAndPrivacy_9-3.13541.jsp-->
+<!--END STOREMAN PANEL helpdesk/QPBS_safetySecurityAndPrivacy_9-3.21134.jsp-->
 <!--END STOREMAN GENERATION-->
 
 							
@@ -606,10 +624,10 @@ If you have any questions or concerns regarding this policy, send us an e-mail a
          <td width="186" height="59" bgcolor="#666666" valign="top" cellspacing="0" cellpadding="0" border="1">
 			<table width="186">
 				<tbody><tr>
-					<td style="background-image: url(../images/footer_left.gif); background-repeat: no-repeat;">
+					<td>
 						<br>&nbsp;<a href="/affiliate/index.jsp" class="footerlink"><font color="#FFFFFF">Affiliate Program</font></a><br>
 						
-						<br>&nbsp;<font color="#FFFFFF">©2005.</font>
+						<br>&nbsp;<font color="#FFFFFF">©2006.</font>
 					</td>
 					<td>
 						<!-- START SCANALERT CODE -->
@@ -620,10 +638,10 @@ If you have any questions or concerns regarding this policy, send us an e-mail a
 			</tbody></table>
 		</td>
 		 <td width="9" bgcolor="#CCCCCC"><img src="http://QPBS.imageg.net/images/pixel.gif" width="9" height="1"></td>
-		 <td width="399" height="59" bgcolor="#CCCCCC" valign="top" style="background-image: url(../images/footer_cntr.gif); background-repeat: no-repeat;"><br>Receive e-mails about shopPBS.org news and special offers.<br><img src="http://QPBS.imageg.net/images/pixel.gif" width="1" height="2"><br><span class="email">Enter your email address:</span><form method="post" style="margin:0px;display:inline;" action="/emailHandler/index.jsp?clickid=footer_emailSignUp_img" name="emailForm" onsubmit="return emailCheck(0);"><input type="hidden" name="contest" value="QPBS_nocontest"><input type="text" name="emailAddress" size="11" id="formitems" class="pagetext"><input type="image" src="http://QPBS.imageg.net/images/sign_up.jpg" border="0" align="absmiddle"> &nbsp;<a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy&amp;clickid=footer_privacyPolicy_img" class="footerlink">Privacy Policy</a><br>
+		 <td width="399" height="59" bgcolor="#CCCCCC" valign="top"><br>Receive e-mails about shopPBS.org news and special offers.<br><img src="http://QPBS.imageg.net/images/pixel.gif" width="1" height="2"><br><span class="email">Enter your email address:</span><form method="post" style="margin:0px;display:inline;" action="/emailHandler/index.jsp?clickid=footer_emailSignUp_img" name="emailForm" onsubmit="return emailCheck(0);"><input type="hidden" name="contest" value="QPBS_nocontest"><input type="text" name="emailAddress" size="11" id="formitems" class="pagetext"><input type="image" src="http://QPBS.imageg.net/images/sign_up.jpg" border="0" align="absmiddle"> &nbsp;<a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy&amp;clickid=footer_privacyPolicy_img" class="footerlink">Privacy Policy</a><br>
 <input type="hidden" checked="" name="emailPref" value="Y"></form></td>
 		 <td width="11" bgcolor="#666666"><img src="http://QPBS.imageg.net/images/pixel.gif" width="11" height="1"></td>
-		 <td width="175" height="59" bgcolor="#cccccc" valign="top" style="background-image: url(../images/footer_right.gif); background-repeat: no-repeat;"><br>&nbsp;<img src="http://QPBS.imageg.net/images/holly_2.gif" width="24" height="20" align="absmiddle"><a href="../giftCenter/index.jsp?clickid=footer_giftCenter_txt" class="footerlink">Gift Center</a><br><img src="http://QPBS.imageg.net/images/pixel.gif" width="1" height="5"><br>&nbsp;<a href="../catalog/requestForm.jsp?clickid=footer_requestCatalog_txt" class="footerlink">Request a Catalog</a></td>
+		 <td width="175" height="59" bgcolor="#cccccc" valign="top"><br>&nbsp;<a href="../giftCenter/index.jsp?clickid=footer_giftCenter_txt" class="footerlink">Gift Center</a><br><img src="http://QPBS.imageg.net/images/pixel.gif" width="1" height="5"><br>&nbsp;<a href="../catalog/requestForm.jsp?clickid=footer_requestCatalog_txt" class="footerlink">Request a Catalog</a></td>
      </tr>
 	 <tr>
 	 
@@ -635,6 +653,12 @@ If you have any questions or concerns regarding this policy, send us an e-mail a
 	 	<td colspan="5" bgcolor="#FFFFFF" align="right" height="22" valign="center"><font color="#999999">*List price is for reference only. No sales may have occurred at this price. **See product page for details.</font></td>
 	 </tr>
 </tbody></table>
+
+
+
+
+
+
 
 
 
