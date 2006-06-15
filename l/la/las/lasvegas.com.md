@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lasvegas.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228140216id_/http%3A//lasvegas.com/about/privacy.html%3Fvc1%3D1%26vc2%3Dftr_txt_prv_3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lasvegas.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615211914id_/http%3A//lasvegas.com/about/privacy.html%3Fvc1%3D1%26vc2%3Dftr_txt_prv_3) for the most accurate reproduction.*
 
 # LasVegas.com: Privacy Policy
 
@@ -184,6 +184,10 @@ The LasVegas.com privacy policy was posted June 10, 2005. LasVegas.com reserves 
 **Special note:** _Other sites that LasVegas.com links to may collect your personally identifiable information. The privacy policies and information sharing practices of these websites is not covered within the LasVegas.com privacy policy._
 
 **_Accessing and updating your information_**
+
+LasVegas.com members may view and make changes to their personally identifiable information. The information is located in their password-protected profile in the 'My Account' section of LasVegas.com. This section can be accessed by clicking on the following link: [https://www.LasVegas.com/myaccount/](https://www.lasvegas.com/myaccount/)
+
+LasVegas.com site users or members who wish to subscribe or unsubscribe to our marketing and promotional e-mail products can do so by using the subscribe/unsubscribe options at [http://www.LasVegas.com/newsletters/](http://www.lasvegas.com/newsletters/) ** __**
 
 **_If you have questions_**
 
