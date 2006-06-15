@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sheercover.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219132742id_/http%3A//www.sheercover.com/privacy.php%3Fprdln%3DYB) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheercover.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615064853id_/http%3A//www.sheercover.com/privacy.php%3Fprdln%3DYB) for the most accurate reproduction.*
 
 # Sheer Cover
 
@@ -34,12 +34,12 @@ Our website may offer links to and from other third party sites. Other sites hav
 We may revise this Privacy Policy from time to time. If we decide to change our Privacy Policy, we will post the revised policy here. As we may make changes at any time without notifying you, we suggest that you periodically consult this Privacy Policy. 
 
 **7\. Email Marketing**  
-We want to communicate with you via email correspondence only if you want to hear from us. When you purchase a Guthy-Renker product, we may from time to time send you email messages describing new products, special offers, and great values. If for any reason you would no longer like to receive email messages from the Guthy-Renker brand you purchased, you can [click here](http://www.guthy-renker-store.com/optout/optout.php?prdln=YB&src=st) to remove yourself. Please allow up to 10 days for us to process your request.
+We want to communicate with you via email correspondence only if you want to hear from us. When you purchase a Guthy-Renker product, we may from time to time send you email messages describing new products, special offers, and great values. If for any reason you would no longer like to receive email messages from the Guthy-Renker brand you purchased, you can [click here](http://www.guthyrenkerstore.com/optout/optout.php?prdln=YB&src=st) to remove yourself. Please allow up to 10 days for us to process your request.
 
 Your privacy is important to us, and for this reason we will never share or sell your email address with any third parties for direct marketing purposes. Please note, if you decide not to receive marketing emails from a Guthy-Renker brand, you may still receive “Transactional” email messages regarding your order (i.e. order confirmation, shipping information, customer service notifications, etc.) If you have questions or concerns regarding this statement, please contact us at [privacy@guthy-renker.com](mailto:privacy@guthy-renker.com).
 
 **8\. Information Sharing Preferences**  
 We may share information with carefully selected vendors, business partners and other organizations that are not part of the Guthy-Renker family (as mentioned, your e-mail address is not shared). These companies and organizations may use the information we share to provide special opportunities and offers to you.
 
-If you do not want us to share information you provide with vendors, business partners and other organizations that are not part of the Guthy-Renker family, please [click here](http://www.guthy-renker-store.com/optout/form-optout.php?prdln=YB&src=st) or send a fax including your name, complete address and email address to 866-291-3889. Please note that these requests may take up to six to eight weeks to become effective.  
+If you do not want us to share information you provide with vendors, business partners and other organizations that are not part of the Guthy-Renker family, please [click here](http://www.guthyrenkerstore.com/optout/form-optout.php?prdln=YB&src=st) or send a fax including your name, complete address and email address to 866-291-3889. Please note that these requests may take up to six to eight weeks to become effective.  
 
