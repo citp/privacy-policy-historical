@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the architecturaldepot.com privacy policy that was archived on 2005-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051125173604id_/http%3A//www.architecturaldepot.com/Merchant2/merchant.mvc%3FScreen%3DPRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the architecturaldepot.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615202736id_/http%3A//www.architecturaldepot.com/c/help-privacy) for the most accurate reproduction.*
 
-# ArchitecturalDepot.com We Protect Your Privacy
+# ArchitecturalDepot.com: Privacy Policy
+
+ 
 
 **We Protect Your Privacy  
 **  
@@ -43,3 +45,6 @@ By using our web site, you acknowledge your consent to the collection and use of
 Thank you for your consideration in these matters.
 
 ArchitecturalDepot.com
+
+  
+
