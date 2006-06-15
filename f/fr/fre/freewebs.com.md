@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freewebs.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214175215id_/http%3A//members.freewebs.com/page.jsp%3Fpage%3DprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewebs.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615205550id_/http%3A//members.freewebs.com/page.jsp%3Fpage%3DprivacyPolicy) for the most accurate reproduction.*
 
 # Freewebs Privacy Policy
 
@@ -54,6 +54,10 @@ When we use tracking information to determine which areas of our sites users lik
 
 Freewebs.com creates aggregate reports on user demographics and traffic patterns. This allows our advertisers us to more effectively tailer our pay services to our users. We will not disclose any information about any individual user except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public. 
 
+## Third Party Advertising and Cookies
+
+Ads appearing on this Web site and Freewebs sites are delivered to you by DoubleClick, our Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad (but not your name, address, or other personal in-formation), is used to serve ads to you. For more information about DoubleClick, cookies, and how to "opt-out", please [click here.](http://www.doubleclick.net/us/corporate/privacy) In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
+
 ## Sharing of the Information
 
 Freewebs.com uses the above-described information to tailor our content to suit your needs and help us better understand our audience's demographics. This is essential to keeping our service free. We will not share information about individual users with any third party, except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public. 
@@ -64,7 +68,7 @@ All payment procedures of Freewebs.com operate on secure data networks protected
 
 ## No Spyware / Adware
 
-We have a [strict policy against spyware and adware](https://web.archive.org/web/20051214175215id_/http%3A//members.freewebs.com/page.jsp?page=spywarePolicy) and apply this to all Freewebs users as well. 
+We have a [strict policy against spyware and adware](https://web.archive.org/web/20060615205550id_/http%3A//members.freewebs.com/page.jsp?page=spywarePolicy) and apply this to all Freewebs users as well. 
 
 ### Opt-Out Policy
 
@@ -78,5 +82,5 @@ Opting to delete and close their Freewebs account at any time for any reason.
 
 By using this site, you consent to the collection and use of this information by Freewebs.com. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
 
-© 2005 Freewebs Corporation. All Rights Reserved.
+© 2002-2006 Freewebs Corporation. All Rights Reserved.
   *[MIME]: Multipurpose Internet Mail Extensions
