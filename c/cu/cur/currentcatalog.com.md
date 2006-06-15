@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the currentcatalog.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212113730id_/http%3A//currentcatalog.com/privacypolicy.asp%3FOUID%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the currentcatalog.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615222635id_/http%3A//currentcatalog.com/privacypolicy%7EOUID%7E.asp) for the most accurate reproduction.*
 
 # Current Privacy Policy
 
