@@ -1,13 +1,19 @@
-> *The following text is extracted and transformed from the watchguard.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212152425id_/http%3A//www.watchguard.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchguard.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615122625id_/http%3A//watchguard.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement | WatchGuard Technologies, Inc.
 
-|  |  |  |   
----|---|---|---  
-[Terms of Use](https://web.archive.org/legal.asp)  
-[Privacy Statement](https://web.archive.org/about/privacy.asp) | [](https://web.archive.org/about/privacy.asp)  
-[Environmental Information](https://web.archive.org/corporate/weee.asp)  
-  
+[Terms of Use](https://web.archive.org/legal.asp)
+
+[](https://web.archive.org/about/privacy.asp)
+
+[Privacy Statement](https://web.archive.org/about/privacy.asp)
+
+[Export Compliance](https://web.archive.org/corporate/export_compliance.asp)
+
+[Environmental Information](https://web.archive.org/corporate/weee.asp)
+
+| 
+
 This Privacy Statement discloses the privacy practices for the entire WatchGuard Technologies, Inc. Web site.
 
 Because WatchGuard wants to demonstrate its commitment to your privacy, WatchGuard Technologies, Inc. has agreed to disclose the following information practices:
@@ -37,7 +43,7 @@ The personal information collected on watchguard.com is used to deliver requeste
 Where we deem appropriate, contact information will be shared with WatchGuard Authorized Channel Partners to assist customers with their WatchGuard purchase decisions. Otherwise, information collected on this site is not distributed outside of WatchGuard. WatchGuard might also share information with parties with whom we contract to provide certain services such as broadcasting security alerts or updates. These contractors are also required to keep the information confidential and to not use it for any purpose other than to carry out the services they are performing for WatchGuard.
 
 **WatchGuard third party opt-out policy**  
-If you would like to opt-out of WatchGuard sharing contact information with Channel Partners that assist customers with their WatchGuard purchase decision, please provide your information using WatchGuard's [Third Party Opt Out form](https://web.archive.org/web/20051212152425id_/http%3A//www.watchguard.com/about/thirdpartycomm.asp), or email [WatchGuard Customer Care](mailto:supportid@watchguard.com)
+If you would like to opt-out of WatchGuard sharing contact information with Channel Partners that assist customers with their WatchGuard purchase decision, please provide your information using WatchGuard's [Third Party Opt Out form](https://web.archive.org/web/20060615122625id_/http%3A//watchguard.com/about/thirdpartycomm.asp), or email [WatchGuard Customer Care](mailto:supportid@watchguard.com)
 
 **WatchGuard opt-out policy**  
 If you would like to opt-out of being contacted by WatchGuard, please contact [WatchGuard Customer Care](mailto:supportid@watchguard.com)
