@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the overclockersclub.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214114732id_/http%3A//www.overclockersclub.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the overclockersclub.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615055047id_/http%3A//www.overclockersclub.com/privacy.php) for the most accurate reproduction.*
 
 # Overclockers Club - Technology News & Hardware Reviews
 
@@ -30,7 +30,7 @@ This web site takes every precaution to protect our users' information. When use
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. 
 
 **Contact Information**  
-If you have any questions or suggestions regarding our privacy policy, please go to our [contact page](https://web.archive.org/web/20051214114732id_/http%3A//www.overclockersclub.com/contact.php).
+If you have any questions or suggestions regarding our privacy policy, please go to our [contact page](https://web.archive.org/web/20060615055047id_/http%3A//www.overclockersclub.com/contact.php).
 
 -
 
