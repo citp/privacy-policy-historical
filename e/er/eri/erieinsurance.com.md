@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the erieinsurance.com privacy policy that was archived on 2005-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050828221836id_/http%3A//www.erieinsurance.com/AboutUs/PrivacyNotice.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erieinsurance.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615031200id_/http%3A//erieinsurance.com/AboutUs/PrivacyNotice.htm) for the most accurate reproduction.*
 
 # Erie Insurance Group Privacy Notice
 
@@ -32,7 +32,7 @@ The privacy and security of your personal information is important to us. This n
   
 **Information We May Provide to Others**  
 ---  
-|  We only disclose information about our applicants, customers and former customers as permitted or required by law in conjunction with our normal insurance operations. Here are some examples: 
+|  We only disclose non-public personal information about our applicants, customers and former customers as permitted or required by law in conjunction with our normal insurance operations. Here are some examples: 
 
   * We may disclose information to others such as our claims adjusters and our attorneys in the processing of an insurance claim; 
   * We may be required by a court of law to provide information in connection with a legal proceeding; 
@@ -47,6 +47,8 @@ The privacy and security of your personal information is important to us. This n
   
 **Further Information**  
 ---  
-|  For additional information concerning our privacy policy you may write to us at Customer Service Department, 100 Erie Insurance Place, Erie, PA 16530.  
+| 
+
+Questions concerning our privacy policy may be sent to us at Customer Service Department, 100 Erie Insurance Place, Erie, PA 16530. You may also contact us through our Website at [www.erieinsurance.com](http://www.erieinsurance.com/).  
   
  
