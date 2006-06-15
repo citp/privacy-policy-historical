@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mindmyhouse.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308131041id_/http%3A//www.mindmyhouse.com/advice/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindmyhouse.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615181023id_/http%3A//mindmyhouse.com/advice/privacy_policy.php) for the most accurate reproduction.*
 
-# MindMyHouse - Privacy policy
+# Privacy policy
 
 ## Introduction
 
