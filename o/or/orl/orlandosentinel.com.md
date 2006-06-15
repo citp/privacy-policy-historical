@@ -1,13 +1,18 @@
-> *The following text is extracted and transformed from the orlandosentinel.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230003916id_/http%3A//www.orlandosentinel.com/about/orl-privacy%2C0%2C5707103.htmlstory) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orlandosentinel.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615220012id_/http%3A//www.orlandosentinel.com/about/orl-privacy%2C0%2C5707103.htmlstory) for the most accurate reproduction.*
 
-# Privacy Policy - OrlandoSentinel.com: Site Services
+# Privacy Policy - Orlando Sentinel : Site Services
 
 Privacy Policy
 
   
+|   
+---  
+  
+  
+  
 
 
-Last Updated: July, 2003
+Last Updated: May, 2006
 
 OrlandoSentinel.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. Please note this policy applies only to information collected by **OrlandoSentinel.com** online and does not impact information collected or used by **OrlandoSentinel.com** or its affiliates through other means. 
 
@@ -31,23 +36,17 @@ As we continue to develop our business, we may sell, buy, merge or partner with 
 
 The quality news and information on **OrlandoSentinel.com** is supported by advertising revenue and a controlled program of e-mail marketing is an important element of our online publishing business. Like other Web publishers, we sometimes permit our advertising and promotional partners to e-mail you about services, features, products, special offers and unique content we believe might interest you. If you prefer not to receive e-mail communications sent directly from our advertisers or promotional partners, you will be given an opportunity to decline before you provide us information we might use for this purpose. If you decline at the time you provide us such information, we will not share the Personally Identifiable Information you provide with non-Affiliated advertisers for such purposes, though we may on occasion send you information on their behalf. 
 
-**
-
-Affiliated sites, linked sites and advertisements.
-
-**
+**Affiliated sites, linked sites and advertisements.**
 
 **OrlandoSentinel.com** expects its partners, advertisers and third-party affiliates to respect the privacy of our users. However, third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a **OrlandoSentinel.com** page, certain content that is actually created or hosted by a third party. Also, through **OrlandoSentinel.com** you may be introduced to, or be able to access, information, Web sites, advertisements, features, contests or sweepstakes offered by other parties. **OrlandoSentinel.com** is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
 
 While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Through features available on our site, third parties may use cookies or other technology to gather information. **OrlandoSentinel.com** does not control the use of this technology or the resulting information and is not responsible for any actions or policies of such third parties.
 
+A cookie gets entered by your Web browser into the "Cookies" folder on your hard drive after you close your browser, and may be used by your browser on subsequent visits to the Site. We use persistent and session cookies to analyze and enhance your experience on the Site, and use third party ad technology to serve ads. The data that is collected is the property of **OrlandoSentinel.com** , not the third party. We also allow third parties called ad networks or ad servers to serve ads to you on **OrlandoSentinel.com**. Cookies enable them to compile information about where you, or others who have used your computer, saw their advertisements and determine which ads are clicked on. This information makes it possible for the ad technology, ad servers and ad networks to deliver targeted advertisements to you on **OrlandoSentinel.com**. **OrlandoSentinel.com** does not have access to the cookies that may be placed on your computer by third-party ad technology, ad servers or ad networks. **OrlandoSentinel.com** maintains relationships with a number of third-party networks, including Doubleclick, Unicast, and Pointroll. Those parties that use cookies may offer you a way to opt out of ad targeting. You may find more information at the Web site of the individual ad network or the [ Network Advertising Initiative.](http://www.networkadvertising.org/consumer/opt_out.asp)
+
 Please be careful and responsible whenever you are online. Should you choose to voluntarily disclose Personally Identifiable Information on our site, such as in message boards, chat areas or in advertising or notices you post, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of **OrlandoSentinel.com** and this policy.
 
-**
-
-Children.
-
-**
+**Children.**
 
 **OrlandoSentinel.com** does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe **OrlandoSentinel.com** has any information from or about anyone under 13, please contact us at the address listed below.
 
@@ -55,16 +54,12 @@ Children.
 
 We can be reached by contacting:
 
-**
-
-OrlandoSentinel.com  
+**OrlandoSentinel.com  
 633 N. Orange Ave.  
 Orlando, FL 32801  
-Email: [feedback@orlandosentinel.com](mailto:feedback@orlandosentinel.com)
+Email: [feedback@orlandosentinel.com](mailto:feedback@orlandosentinel.com) **
 
 Changes to this policy.
-
-**
 
 **OrlandoSentinel.com** reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
 
@@ -77,8 +72,4 @@ In the event case of any conflict between the terms of this policy and the terms
   
 
 
-|  |  |   
----  
-[](http://brt.trb.com/event.ng/Type=click&FlightID=519039&AdID=192089&Custom=subscriber&TargetID=55601&Segments=82,85,165,166,171,175,570,673,692,755,1427,1600,2167,3356,3391,3753,3907,4709,5041,6105,6693,6764,6787,51262,52005,52725,52800,53154,53158,53275,53560,53651,54400,54453,54569,54719,54893,54956&Targets=56684,56909,32,14,121,56529,57772,10694,5447,2812,55601,54171,54574,54950&Values=34,46,51,63,77,84,92,100,110,131,150,289,301,328,333,356,381,388,591,903,1016,1065,1066,1122,1136,1191,1263,1282,1436,1606,1617,1654,1656,1664,1681,1725,1745,1754,1758,1816,1836,1863,1870,1871,1872,1887,1888,1892,1917,1946,1977,1986,2036,2044,2061,2091,2192,2281,2283,2297,2380,2384,2482,2511,2548,2748,2765,2782,2795,2804,2805,2823,2856,2861,2863,2915,2948,2972,3023,3051,3055,3061,3062,3067,3070,3086,3101,3103,3113,3117,3133&RawValues=USERAGENTID%2Cia_archiver&Redirect=http:%2F%2F216.122.58.13%2Fpromos%2F2005%2Fgascard%2F)  
-[](http://brt.trb.com/event.ng/Type=click&FlightID=518531&AdID=187807&Custom=familyfund&TargetID=55601&Segments=82,85,165,166,175,201,231,570,673,692,755,1427,1600,2167,3356,3391,3753,3907,4709,5041,6670,6693,6708,6764,6787,7125,51262,52006,52725,52800,53154,53158,53275,53560,53651,54013,54400,54454,54569,54719,54893,54956&Targets=56684,56909,32,14,121,56529,57772,10694,5447,2812,55601,10161,10244,54171,54574,54950&Values=34,46,51,63,77,84,92,100,110,131,150,289,301,328,334,356,381,388,591,903,1016,1065,1066,1122,1136,1191,1263,1282,1436,1606,1617,1654,1656,1664,1681,1725,1745,1754,1758,1816,1836,1863,1870,1871,1872,1887,1888,1892,1917,1946,1977,1986,2036,2044,2061,2091,2192,2281,2283,2297,2380,2384,2482,2511,2548,2748,2765,2782,2795,2804,2805,2823,2856,2861,2863,2915,2948,2972,3023,3051,3055,3061,3062,3067,3070,3086,3101,3103,3113,3117,3133&RawValues=USERAGENTID%2Cia_archiver&Redirect=http:%2F%2Fvps.tribuneinteractive.net%2Ffamilyfund%2F%20)  
-[](http://brt.trb.com/event.ng/Type=click&FlightID=518843&AdID=189859&Custom=dashforcash&TargetID=55601&Segments=82,85,165,166,170,175,570,673,692,755,1427,1600,2167,2850,3356,3391,3753,3907,4709,5041,6105,6693,6764,6787,51262,52725,52800,53154,53158,53275,53560,53651,53872,54400,54455,54569,54719,54893,54956&Targets=56684,37,56909,32,14,121,56529,57772,10694,55462,50638,611,5447,2812,5448,55601,54171,54574,54950&Values=34,46,51,63,77,84,92,100,110,131,150,289,301,328,335,356,381,388,591,903,1016,1065,1066,1122,1136,1191,1263,1282,1436,1606,1617,1654,1656,1664,1681,1725,1745,1754,1758,1816,1836,1863,1870,1871,1872,1887,1888,1892,1917,1946,1977,1986,2036,2044,2061,2091,2192,2281,2283,2297,2380,2384,2482,2511,2548,2748,2765,2782,2795,2804,2805,2823,2856,2861,2863,2915,2948,2972,3023,3051,3055,3061,3062,3067,3070,3086,3101,3103,3113,3117,3133&RawValues=USERAGENTID%2Cia_archiver&Redirect=) [](http://brt.trb.com/event.ng/Type=click&FlightID=518843&AdID=189859&Custom=dashforcash&TargetID=55601&Segments=82,85,165,166,170,175,570,673,692,755,1427,1600,2167,2850,3356,3391,3753,3907,4709,5041,6105,6693,6764,6787,51262,52725,52800,53154,53158,53275,53560,53651,53872,54400,54455,54569,54719,54893,54956&Targets=56684,37,56909,32,14,121,56529,57772,10694,55462,50638,611,5447,2812,5448,55601,54171,54574,54950&Values=34,46,51,63,77,84,92,100,110,131,150,289,301,328,335,356,381,388,591,903,1016,1065,1066,1122,1136,1191,1263,1282,1436,1606,1617,1654,1656,1664,1681,1725,1745,1754,1758,1816,1836,1863,1870,1871,1872,1887,1888,1892,1917,1946,1977,1986,2036,2044,2061,2091,2192,2281,2283,2297,2380,2384,2482,2511,2548,2748,2765,2782,2795,2804,2805,2823,2856,2861,2863,2915,2948,2972,3023,3051,3055,3061,3062,3067,3070,3086,3101,3103,3113,3117,3133&RawValues=USERAGENTID%2Cia_archiver&Redirect=)
+| 
