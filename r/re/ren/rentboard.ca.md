@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the rentboard.ca privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230024902id_/http%3A//rentboard.ca/company/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentboard.ca privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615063701id_/http%3A//rentboard.ca/company/privacy_policy.aspx) for the most accurate reproduction.*
 
-# RentBoard.ca Privacy Policy, apartments and houses for rent
+# RentBoard.ca Privacy Policy apartments and houses for rent
 
-  
-|   |  RentBoard.ca respects the privacy of its users. In this document we explain how we use information you supply us via the RentBoard.ca Web site. This privacy policy may be modified in the future. If it is, a new policy will be posted on this web site. 
+RentBoard.ca respects the privacy of its users. In this document we explain how we use information you supply us via the RentBoard.ca Web site. This privacy policy may be modified in the future. If it is, a new policy will be posted on this web site. 
 
 This statement is used to identify: 
 
@@ -24,6 +23,4 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 This site may contain links to other sites. Please note that when you click on one of these links, you are 'clicking' to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policy may differ from ours. We are not responsible for the privacy practices or the content of such web sites. 
 
-If you have questions or concerns regarding this statement, please contact us at: [info@rentboard.ca](mailto:info@rentboard.ca)  
-  
----|---|---
+If you have questions or concerns regarding this statement, please contact us at: [info@rentboard.ca](mailto:info@rentboard.ca)
