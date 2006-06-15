@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schrodinger.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214115718id_/http%3A//www.schrodinger.com/Legal.php%3FmID%3D10%26sID%3D14%26cID%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schrodinger.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615181417id_/http%3A//www.schrodinger.com/Legal.php%3FmID%3D10%26sID%3D14%26cID%3D0) for the most accurate reproduction.*
 
 # Schrödinger -> Legal -> Privacy Policy
 
@@ -14,7 +14,7 @@ By using our Web site, you consent to the collection and use of your information
 
 Schrödinger collects personally identifiable information, including name, title, company, address, e-mail address, phone numbers, etc. when a visitor places an order with us.
 
-We may ask you for personal information at times other than when you order, including, by way of example, when you complete surveys or other questionnaires, when you send an e-mail to Schrödinger, or when you request a login account for our website. Wherever Schrödinger collects personal information we try to include a link to this Privacy Policy on that page.
+We may ask you for personal information at times other than when you order, including, by way of example, when you complete surveys or other questionnaires, when you send an e-mail to Schrödinger, or when you request a logon account for our website. Wherever Schrödinger collects personal information we try to include a link to this Privacy Policy on that page.
 
 There is also information about your computer that may be automatically collected by our web server. This could include your IP address, browser type, domain names, access times and referring Web site addresses. This information is aggregated to measure number of visits, average time spent on a Schrödinger Web site, pages viewed, etc. We use this information to measure the use of our sites and to improve the content of our sites.
 
@@ -22,9 +22,9 @@ There is also information about your computer that may be automatically collecte
 
 **What about cookies?**
 
-Our website uses cookies. Cookies store information on the hard drive or in the memory of a visitor's computer. Our website uses cookies to, among other uses, identify registered users in order to allow them to log into our website.
+Our website uses cookies. Cookies store information on the hard drive or in the memory of a visitor's computer. Our website uses cookies to, among other uses, identify registered users in order to allow them to log on to our website.
 
-You have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is sent, or to reject all cookies. If you choose to reject all cookies you will be unable to use those services or engage in activities that require cookies in order to participate. For example, you must login to our website in order to access certain content, and in order to login you must accept cookies from our website. 
+You have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is sent, or to reject all cookies. If you choose to reject all cookies you will be unable to use those services or engage in activities that require cookies in order to participate. For example, you must log on to our website in order to access certain content, and in order to log on you must accept cookies from our website. 
 
 ****
 
