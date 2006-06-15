@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magazineline.com privacy policy that was archived on 2005-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051226014622id_/http%3A//www.magazineline.com/Magazineline/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magazineline.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616013925id_/http%3A//www.magazineline.com/Magazineline/privacypolicy.htm) for the most accurate reproduction.*
 
 # Magazineline - America's First Choice Magazine Store Since 1974
 
@@ -8,35 +8,35 @@
   
   
  Quick Forms:  
-  [Address Change](https://web.archive.org/web/20051226014622id_/http%3A//www.magazineline.com/Magazineline/addresschange.htm)  
-  [Back Issue Problem](https://web.archive.org/web/20051226014622id_/http%3A//www.magazineline.com/Magazineline/backissue.htm)  
-  [Billing Question](https://web.archive.org/web/20051226014622id_/http%3A//www.magazineline.com/Magazineline/billingquestion.htm)  
-  [Cancel Subscription](https://web.archive.org/web/20051226014622id_/http%3A//www.magazineline.com/Magazineline/cancelsubscription.htm)  
-  [Damaged Issue](https://web.archive.org/web/20051226014622id_/http%3A//www.magazineline.com/Magazineline/damagedissue.htm)  
-  [Duplicate Issue](https://web.archive.org/web/20051226014622id_/http%3A//www.magazineline.com/Magazineline/duplicateissue.htm)  
-  [Magazine Request](https://web.archive.org/web/20051226014622id_/http%3A//www.magazineline.com/Magazineline/titlerequest.htm)  
-  [Missing Issues](https://web.archive.org/web/20051226014622id_/http%3A//www.magazineline.com/Magazineline/missingissues.htm)  
-  [Submit a Payment](https://web.archive.org/web/20051226014622id_/http%3A//www.magazineline.com/Magazineline/Search.asp?WCI=SecureRedirect&WCE=MyAccount/ACMMyAccount.asp)  
-  [Technical Problems](https://web.archive.org/web/20051226014622id_/http%3A//www.magazineline.com/Magazineline/technicalproblems.htm)  
-  [Temporary Suspension](https://web.archive.org/web/20051226014622id_/http%3A//www.magazineline.com/Magazineline/temporarysuspension.htm)  
-  [Wrong Expiration Date](https://web.archive.org/web/20051226014622id_/http%3A//www.magazineline.com/Magazineline/wrongexpiration.htm)
+  [Address Change](https://web.archive.org/web/20060616013925id_/http%3A//www.magazineline.com/Magazineline/addresschange.htm)  
+  [Back Issue Problem](https://web.archive.org/web/20060616013925id_/http%3A//www.magazineline.com/Magazineline/backissue.htm)  
+  [Billing Question](https://web.archive.org/web/20060616013925id_/http%3A//www.magazineline.com/Magazineline/billingquestion.htm)  
+  [Cancel Subscription](https://web.archive.org/web/20060616013925id_/http%3A//www.magazineline.com/Magazineline/cancelsubscription.htm)  
+  [Damaged Issue](https://web.archive.org/web/20060616013925id_/http%3A//www.magazineline.com/Magazineline/damagedissue.htm)  
+  [Duplicate Issue](https://web.archive.org/web/20060616013925id_/http%3A//www.magazineline.com/Magazineline/duplicateissue.htm)  
+  [Magazine Request](https://web.archive.org/web/20060616013925id_/http%3A//www.magazineline.com/Magazineline/titlerequest.htm)  
+  [Missing Issues](https://web.archive.org/web/20060616013925id_/http%3A//www.magazineline.com/Magazineline/missingissues.htm)  
+  [Submit a Payment](https://web.archive.org/web/20060616013925id_/http%3A//www.magazineline.com/Magazineline/Search.asp?WCI=SecureRedirect&WCE=MyAccount/ACMMyAccount.asp)  
+  [Technical Problems](https://web.archive.org/web/20060616013925id_/http%3A//www.magazineline.com/Magazineline/technicalproblems.htm)  
+  [Temporary Suspension](https://web.archive.org/web/20060616013925id_/http%3A//www.magazineline.com/Magazineline/temporarysuspension.htm)  
+  [Wrong Expiration Date](https://web.archive.org/web/20060616013925id_/http%3A//www.magazineline.com/Magazineline/wrongexpiration.htm)
 
- [Frequently Asked Questions](https://web.archive.org/web/20051226014622id_/http%3A//www.magazineline.com/Magazineline/customerservice.htm)  
+ [Frequently Asked Questions](https://web.archive.org/web/20060616013925id_/http%3A//www.magazineline.com/Magazineline/customerservice.htm)  
    
  Magazineline  
  4440 Hagadorn Road  
  Okemos, MI 48864
 
- 1-800-968-7323  
+ 1-800-959-1676  
    
  Exclusive Triple Guarantee
 
   **Savings**  
   If you find a lower publisher-  
   authorized price for any  
-  magazine purchased from us,  
-  we will cheerfully refund the  
-  difference.
+  magazine you've purchased  
+  from us, we'll cheerfully  
+  refund the difference.
 
   **Quality**  
   If you’re ever dissatisfied with  
@@ -72,11 +72,11 @@
 
  To read more about our  
  Privacy and Security policies,  
- [click here](https://web.archive.org/web/20051226014622id_/http%3A//www.magazineline.com/Magazineline/privacypolicy.htm).  
+ [click here](https://web.archive.org/web/20060616013925id_/http%3A//www.magazineline.com/Magazineline/privacypolicy.htm).  
   
   
-[](https://web.archive.org/web/20051226014622id_/http%3A//www.magazineline.com/Magazineline/giftideas.htm)  
-[](https://web.archive.org/web/20051226014622id_/http%3A//www.magazineline.com/Magazineline/premiums.htm)  
+[](https://web.archive.org/web/20060616013925id_/http%3A//www.magazineline.com/Magazineline/specialoffers.htm)  
+[](https://web.archive.org/web/20060616013925id_/http%3A//www.magazineline.com/Magazineline/giftideas.htm)  
   | 
 
 ###    
@@ -109,7 +109,7 @@
 >  · Credit card information is used for billing purposes only  
 >  · Some data may out of necessity be provided to attorneys or auditors who are evaluating Magazineline's finances and adherence to state and federal laws and regulations
 > 
-> Using your information in such a manner ensures you do not experience a frustrating lapse in service or otherwise encounter any account difficulties. If you would like to discuss our customer contact programs or specify a preference for how you are contacted, please call our customer service department at (800) 968-7323 (M-F, 8am-9pm, EST) or email [service@magazineline.com](mailto:service@magazineline.com).
+> Using your information in such a manner ensures you do not experience a frustrating lapse in service or otherwise encounter any account difficulties. If you would like to discuss our customer contact programs or specify a preference for how you are contacted, please call our customer service department at (800) 959-1676 (M-F, 8am-11pm, EST) or [email us](http://server.iad.liveperson.net/hc/s-59889743/web/ticketpub/msgcontroller.jsp?surveyname=General%20ML).
 > 
 > **With Whom Do We Share Information?**  
 >  When you place an order, your name and address, and the name and address of any gift recipients, is sent to each of the publishers of the magazines you ordered so that they can fulfill your subscriptions. We do not pass along your phone number or billing information, however we may pass along your email address. You can contact the publishers directly for information on how they use their data.
@@ -142,8 +142,8 @@ Our Security Pledge
 >  **Federal laws ensure that you will not be liable for more than $50 of fraudulent charges to your credit card. It is very unlikely that you would encounter fraud as a result of buying subscriptions through Magazineline.com, but if you do, make sure to notify your card provider in accordance with their rules and policies. If for some reason you are held responsible for this amount, Magazineline.com will cover the entire liability, up to $50, provided the fraudulent use of your credit card resulted through no fault of your own and occurred while purchasing through Magazineline.com's secure server.  
 >    
 >  **Prefer to Order Via Phone?  
->  **Of course, it is no problem if you prefer to place your subscription order by phone, mail, or fax. To order by phone simply call our toll-free sales number: (800) 968-7323. Someone will be there to answer your call twenty-four hours a day, seven days a week. 
+>  **Of course, it is no problem if you prefer to place your subscription order by phone, mail, or fax. To order by phone simply call our toll-free sales number: (800) 959-1676. Someone will be there to answer your call twenty-four hours a day, seven days a week. 
 > 
-> You may also contact us by mail or fax. [Click here](https://web.archive.org/web/20051226014622id_/http%3A//www.magazineline.com/Magazineline/contactus.htm) to view our address and other relevant contact information.
+> You may also contact us by mail or fax. [Click here](https://web.archive.org/web/20060616013925id_/http%3A//www.magazineline.com/Magazineline/contactus.htm) to view our address and other relevant contact information.
 > 
 > Back to Top
