@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the imnewswatch.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222101659id_/http%3A//www.imnewswatch.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imnewswatch.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615020730id_/http%3A//imnewswatch.com/Privacy.html) for the most accurate reproduction.*
 
-# Internet Marketing NewsWatch
+# Internet Marketing NewsWatch - PRIVACY POLICY
 
 ## Tell Your Friend
-
-## Affiliates
 
 ## Free Newsletter
 
@@ -14,7 +12,7 @@
   
 |  | 
 
-Last Updated: July 2005 
+Last Updated: May 2006
 
 Executive Marketing & Communications, Inc. strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy.  "We will never sell, barter, or rent your email address to any unauthorized third party. Period." 
 
@@ -46,11 +44,9 @@ Executive Marketing & Communications, Inc. does not knowingly collect or solicit
 
 Contacting Us. 
 
-We can be reached by contacting: 
+We can be reached by contacting us via the form provided on the following page:
 
-Executive Marketing & Communications, Inc. 
-
-**Email:** Mike AT IMNewswatch DOT com 
+[ http://www.imnewswatch.com/contact.html](http://www.imnewswatch.com/contact.html)
 
 Changes to this Policy 
 
@@ -58,10 +54,12 @@ Executive Marketing & Communications, Inc. reserves the right to change this pol
 
 **Governing law**
 
-This policy and the use of this Site are governed by Florida, U.S.A. law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Tallahassee, Florida U.S.A. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us. 
+This policy and the use of this Site are governed by Florida, U.S.A. law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: TN, U.S.A. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us. 
 
-If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Tallahassee, Florida U.S.A., under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so. 
+If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: TN, U.S.A., under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so. 
 
-This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.   
+This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
+
+May 2006 Executive Marketing & Communications, Inc.  
   
 ---|---|---
