@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the bleepingcomputer.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230005917id_/http%3A//www.bleepingcomputer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bleepingcomputer.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615193714id_/http%3A//www.bleepingcomputer.com/privacy.php) for the most accurate reproduction.*
 
-# Computer Help and Spyware Removal
+# Bleeping Computer: Computer Help and Discussion
 
-**Updated March 15, 2004**
+**Updated January 25, 2006**
 
 **Overview**
 
 Bleeping Computer is strongly committed to protecting the privacy of consumers of its services and of visitors to its site. We want to contribute to providing a safe and secure environment for our members and, in particular, ensure that children's information is protected. 
 
-BleepingComputer is dedicated to protecting your persional information and due to the rapidly evolving nature of the technologies BleepingComputer uses, we will sometimes update our privacy policy to accomodate this. Any comments or questions regarding our privacy practices should be submitted using this [feedback form](https://web.archive.org/contactus.php). 
+BleepingComputer is dedicated to protecting your persional information and due to the rapidly evolving nature of the technologies BleepingComputer uses, we will sometimes update our privacy policy to accomodate this. Any comments or questions regarding our privacy practices should be submitted using this [feedback form](http://www.bleepingcomputer.com/contactus.php). 
 
 **Overview of the information we collect.**
 
@@ -28,9 +28,9 @@ In addition, BleepingComputer has the right to disclose personally identifying i
 
 Our third party partners, which advertise on our site or provide promotions, may collect information about you. BleepingComputer does not control the collection or use of this information and you should contact our partners directly if you have any issues on how they use this information. 
 
-At times with the permission of a visitor who is 13 years of age or over, information submitted at the time of registration or submission, which can include but not be limited to, age, genders, phone number, address and income level, may be used for marketting and promotion purposes by BleepingComputer. This information will never be provided to third-party companies or organizations without the direct consent from the visitor. If a visitor objects to such use of their information, they will have the option to now allowing the sharing of this information on submission or they may contact using this [feedback form](https://web.archive.org/contactus.php). 
+At times with the permission of a visitor who is 13 years of age or over, information submitted at the time of registration or submission, which can include but not be limited to, age, genders, phone number, address and income level, may be used for marketting and promotion purposes by BleepingComputer. This information will never be provided to third-party companies or organizations without the direct consent from the visitor. If a visitor objects to such use of their information, they will have the option to not allow the sharing of this information on submission or they may contact using this [feedback form](http://www.bleepingcomputer.com/contactus.php). 
 
-If a postal address is supplied to us during registration or future promotion or sweepstake, you may receive periodic mailings from us with information on new products, services, and upcoming events. If you do not wish to receive these mailings, you will have the ability to specifiy this at submission or you can mail us using this [feedback form](https://web.archive.org/contactus.php) with your contact information. 
+If a postal address is supplied to us during registration or future promotion or sweepstake, you may receive periodic mailings from us with information on new products, services, and upcoming events. If you do not wish to receive these mailings, you will have the ability to specifiy this at submission or you can mail us using this [feedback form](http://www.bleepingcomputer.com/contactus.php) with your contact information. 
 
 As was stated above, from time to time Bleeping Computer will present to its visitors surveys, sweepstakes, and promotions. At the beginning of such survey, sweepstake, and promotion a user will be notified as to whether the information they submit can be passed on to third-party organizations. By completing the submission you acknowledge that Bleeping Computer has notified you and that you expressly agreed to the passing of your submitted information to a third-party. If you choose not to participate in these surveys, sweepstakes, or promotions your information will never be given out. 
 
@@ -40,7 +40,7 @@ BleepingComputer will make all means necessary to protect your sensitive informa
 
 **How can I update my personal information?**
 
-You can update almost all information about your account by logging in and clicking on My Control Panel. From the control panel you can Edit your profile. If there is information that you can not change with this method, please send an email to us using this [feedback form](https://web.archive.org/contactus.php) with all relavant information. 
+You can update almost all information about your account by logging in and clicking on My Control Panel. From the control panel you can Edit your profile. If there is information that you can not change with this method, please send an email to us using this [feedback form](http://www.bleepingcomputer.com/contactus.php) with all relavant information. 
 
 **Policies for individuals under 13 (COPPA)**
 
@@ -70,4 +70,4 @@ Certain web pages may contain images, sometimes called web beacons, that allow a
 
 By using this website, you signify your assent to the BleepingComputer Privacy Policy. If you do not agree to this policy, please d o not use this site. We reserve the right, at our discretion, to change, modify, add, or remove portions of this policy at any time . Please check this page periodically for changes that may have occurred. You continued use of this website following the posting of these changes signifies that you accept those changes. 
 
-If at any time you would like to communicate with us about your privacy concerns, please email us using this [feedback form](https://web.archive.org/contactus.php). 
+If at any time you would like to communicate with us about your privacy concerns, please email us using this [feedback form](http://www.bleepingcomputer.com/contactus.php). 
