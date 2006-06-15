@@ -1,0 +1,312 @@
+<!--The following is the downloaded HTML source of the fora.tv privacy policy that was archived on 2006-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615154812id_/http%3A//fora.tv/about.php%3Fabpage%3Dprivacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>ForaTv</title>
+<link rel="shortcut icon" href="http://fora.tv/favicon.ico" type="image/x-icon">
+<style type="text/css">@import url(foraindex.css);</style>
+<script language="JavaScript" type="text/javascript">
+<!--
+      var panels = new Array('panel1', 'panel2', 'panel3', 'panel4', 'panel5', 'panel6', 'panel7', 'panel8');
+	  var colors = new Array('#7B6D59', '#988972', '#C5BCAF', '#DBD6CE');
+
+function display(name)
+{
+if(document.getElementById(name).style.display == 'none')
+{document.getElementById(name).style.display = 'block';}
+else{document.getElementById(name).style.display = 'none';}
+}
+
+      function showPanel(name)
+      {
+        for(i = 0; i < panels.length; i++)
+        {
+          if(document.getElementById(panels[i])) document.getElementById(panels[i]).style.display = (name == panels[i]) ? 'block':'none';
+        }
+      }
+function opacity(id, opacStart, opacEnd, millisec, id_2, opacStart2, opacEnd2, mill_2)
+	  {
+    	//speed for each frame
+	    var speed = Math.round(millisec / 100);
+		var speed_2 = Math.round(mill_2 / 100);
+    	var timer = 0;
+
+	    //determine the direction for the blending, if start and end are the same nothing happens
+	    if(opacStart > opacEnd) 
+		{
+        	for(i = opacStart; i >= opacEnd; i--) 
+			{
+    	        setTimeout("changeOpac(" + i + ",'" + id + "')",(timer * speed));
+        	    timer++;
+	        }
+    	}
+		else if(opacStart < opacEnd)
+		{
+        	for(i = opacStart; i <= opacEnd; i++)
+            {
+	            setTimeout("changeOpac(" + i + ",'" + id + "')",(timer * speed));
+    	        timer++;
+        	}
+	    }
+		
+		//next page id_2, opacStart2, opacEnd2, mill_2
+		timer = 0;
+		document.getElementById(id).style.display = 'none';
+		document.getElementById(id_2).style.display = 'block';
+		if(opacStart2 > opacEnd2) 
+		{
+        	for(i = opacStart2; i >= opacEnd2; i--) 
+			{
+    	        setTimeout("changeOpac(" + i + ",'" + id_2 + "')",(timer * speed_2));
+        	    timer++;
+	        }
+    	}
+		else if(opacStart2 < opacEnd2)
+		{
+        	for(i = opacStart2; i <= opacEnd2; i++)
+            {
+	            setTimeout("changeOpac(" + i + ",'" + id_2 + "')",(timer * speed_2));
+    	        timer++;
+        	}
+	    }
+	}
+
+	//change the opacity for different browsers
+	function changeOpac(opacity, id)
+	{
+    	var object = document.getElementById(id).style;
+	    object.opacity = (opacity / 100);
+	    object.MozOpacity = (opacity / 100);
+	    object.KhtmlOpacity = (opacity / 100);
+	    object.filter = "alpha(opacity=" + opacity + ")";
+	}
+function doState (state)
+{
+  for (stndx=0; stndx < document.SMsearch.c.options.length; stndx++)
+  {
+     if (document.SMsearch.c.options[stndx].text == state)
+     {
+         document.SMsearch.c.options[stndx].selected =
+            !(document.SMsearch.c.options[stndx].selected);
+     }
+
+
+  }
+}
+function doProvider (state)
+{
+  for (stndx=0; stndx < document.SMsearch.p.options.length; stndx++)
+  {
+     if (document.SMsearch.p.options[stndx].text == state)
+     {
+         document.SMsearch.p.options[stndx].selected =
+            !(document.SMsearch.p.options[stndx].selected);
+     }
+
+  }
+} 
+-->
+</script>
+<script type="text/javascript" src="http://fora.tv/fora/clientscript/vbulletin_global.js"></script>
+<script type="text/javascript" src="http://fora.tv/fora/clientscript/vbulletin_menu.js"></script>
+
+<script type="text/javascript">
+<!--
+var SESSIONURL = "";
+var IMGDIR_MISC = "http://fora.tv/fora/images/misc";
+var vb_disable_ajax = parseInt("0", 10);
+// -->
+
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="ForaTv RSS Feed" href="/fora/external.php?type=RSS"></head>
+<body onload="showPanel('panel1');">
+
+	<div class="vbmenu_popup" id="navbar_search_menu" style="display:none">
+		<table cellpadding="4" cellspacing="1" border="0">
+		<tbody><tr>
+			<td class="thead">Search Fora</td>
+
+		</tr>
+		<tr>
+			<td class="vbmenu_option" title="nohilite">
+			<form action="http://fora.tv/fora/search.php" method="post">
+				<input type="hidden" name="do" value="process">
+				<input type="hidden" name="showposts" value="0">
+				<input type="hidden" name="quicksearch" value="1">
+				<input type="hidden" name="s" value="">
+				<input type="text" class="bginput" name="query" size="20">&nbsp;<input type="submit" class="button" value="Go"><br>
+
+			</form>
+			</td>
+		</tr>
+		<tr>
+			<td class="vbmenu_option"><a href="http://fora.tv/fora/search.php" accesskey="4" rel="nofollow">Advanced Search</a></td>
+		</tr>
+		</tbody></table>
+	</div>
+
+	<!-- / header quick search form -->
+
+<div align="center">
+ <div id="body" align="left">
+    <div id="header" align="right"><div style="position: relative; padding: 0px;"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr><td align="left" valign="top">
+
+<iframe height="84" width="331" border="0" frameborder="0" scrolling="no" src="http://fora.tv/fora/header.php"></iframe>
+
+</td><td align="right" width="575"><span class="release">Thursday, June 15 2006</span><br><span class="release"><a href="/fora/fora_press.php?r=6">Link TV and ForaTv to Televise...</a></span><br><span class="release"><a href="/fora/fora_press.php?r=5">ForaTv Channel To Launch on...</a></span><br><span class="release"><a href="/fora/fora_press.php?r=4">Books Inc. Announces Partnership...</a></span><br></td><td align="right" class="smallfont" width="235" nowrap="" style="padding-right:10px;">
+
+<script type="text/javascript">
+<!--
+function log_out()
+{
+	ht = document.getElementsByTagName("html");
+	ht[0].style.filter = "progid:DXImageTransform.Microsoft.BasicImage(grayscale=1)";
+	if (confirm('Are you sure you want to log out?'))
+	{
+		return true;
+	}
+	else
+	{
+		ht[0].style.filter = "";
+		return false;
+	}
+}
+//-->
+</script>
+<form action="/fora/login.php" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
+		<script type="text/javascript" src="fora/clientscript/vbulletin_md5.js"></script>
+Username: <input type="text" class="bginput" name="vb_login_username" id="navbar_username" size="10" accesskey="u" tabindex="101" style="font-size: 11px;"><br>Password: <input type="password" class="bginput" name="vb_login_password" size="10" accesskey="p" tabindex="102" style="font-size: 11px;"><br>
+<input type="checkbox" name="cookieuser" value="1" tabindex="103" id="cb_cookieuser_navbar" accesskey="c">Remember Me?
+<input type="submit" class="button" value="Log in" tabindex="104" title="Enter your username and password in the boxes provided to login, or click the 'register' button to create a profile for yourself." accesskey="s">
+		<input type="hidden" name="s" value="3460432e5028871f59cebfd2c9dbd089">
+		<input type="hidden" name="do" value="login">		
+		<input type="hidden" name="vb_login_md5password">
+		<input type="hidden" name="vb_login_md5password_utf">
+		</form>
+		<!-- / login form -->
+
+</td></tr></tbody></table></div></div>
+	<div id="topnav"><!-- nav buttons bar -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%" align="center" style="border-top-width:0px">
+	<tbody><tr align="center">
+		<td><table cellpadding="3" cellspacing="0" border="0" width="719px" align="center" style="border-width:0px">
+			<tbody><tr align="center">
+				<td></td>
+				<td class="vbmenu_control"><nobr><a href="/about.php">ABOUT</a></nobr></td>
+				<td></td>
+				<td class="vbmenu_control"><nobr><a href="/about.php?abpage=how">HOW IT WORKS</a></nobr></td>
+				<td></td>
+				<td class="vbmenu_control"><nobr><a href="/fora/">FORUM</a></nobr></td>
+				<td></td>
+				<td class="vbmenu_control"><nobr><a href="/fora/faq.php?s=3460432e5028871f59cebfd2c9dbd089" accesskey="5">FAQ</a></nobr></td>
+				<td></td>
+<td id="navbar_search" class="vbmenu_control"><a href="http://fora.tv/fora/search.php" accesskey="4" rel="nofollow">SEARCH</a> <script type="text/javascript"> vbmenu_register("navbar_search");</script></td>
+				<td></td>
+				<td class="vbmenu_control"><nobr><a href="/fora/sendmessage.php?s=3460432e5028871f59cebfd2c9dbd089">CONTACT</a></nobr></td>
+				<td></td>
+			</tr>
+		</tbody></table></td>
+		<td><table cellpadding="3" cellspacing="0" border="0" width="236px" align="center" style="border-width:0px">
+			<tbody><tr align="center">
+				<td></td>
+				
+					<td class="vbmenu_control"><nobr><a href="http://fora.tv/fora/reg_pass.php">REGISTER</a></nobr></td>
+				
+				<td></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	</tbody></table>
+<!-- / nav buttons bar --></div>
+	
+<table width="955" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td><table width="955" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td width="718" valign="top"><table width="718" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr>
+                <td valign="top">
+		<div id="contentbox" style="background-image: url(fora/images/misc/privacyhead.jpg);">
+	    <div style="position: relative; padding: 35px 5px 5px 10px;"><p><strong>ForaTv Privacy Policy </strong><br>
+    <br>
+Thank you for visiting ForaTv. Your privacy—and your trust--are important to  us. To better protect your privacy, we provide this notice explaining our  online information practices and the choices you can make about the way your  information is collected and used at this site. </p>
+<p>At the same time that <em>ForaTv </em>is committed to bringing  you information tailored to your individual needs, we recognize the importance  of protecting the privacy of personally identifiable information collected about  you. In adopting this customer privacy policy, our intent is to balance our  legitimate interests in collecting and using information to enhance your ForaTv  experience with your reasonable expectations of privacy. <br>
+    <br>
+    <em>ForaTv </em>does not collect personally identifying information about  individuals, except when specifically and knowingly provided by such  individuals. <br>
+    <br>
+  Web servers serving <em>ForaTv </em>automatically collect information about which  pages each user visits and the domain name of visitors. This is used for  internal review, to tailor information to individual visitors and for traffic  audits. We may provide information about our users, from time to time, on an  aggregated, anonymous basis to our sponsors. <br>
+  <br>
+  <em>ForaTv </em>may place a "cookie" on the browser of a user's  computer. The cookie itself does not contain any personally identifying  information. A cookie can be used to tell when your computer has contacted a  Web site; we use the information for editorial purposes, so that we can  customize delivery of information without compromising privacy.&nbsp; <br>
+  <br>
+  A user's personally identifiable information will not be transferred to a party  outside <em>ForaTv</em>. <br>
+  If you have any questions or  concerns about our privacy policy for this site or its implementation you may  contact though our <a href="/fora/sendmessage.php">contact us form &gt;&gt;</a> <br>
+</p><p>  From time to time, we may update  this privacy notice. We will notify you about material changes in the way we  treat personally identifiable information by placing a notice on our site. We  encourage you to periodically check back and review this policy so that you  always will know what information we collect, how we use it, and to whom we  disclose it. </p></div>
+	  </div>
+	  
+	  </td>
+              </tr>
+            </tbody></table></td>
+	    	  
+          <td width="237" valign="top" style="background: #C4BBAE url(fora/images/misc/rightnavback.jpg) no-repeat top left;">
+		  <table id="Table_01" width="236" border="0" cellpadding="0" cellspacing="0" style="padding-right: 13px; padding-left: 13px;">
+	<tbody><tr>
+		<td width="100%" height="19"><img src="/fora/images/misc/spacer.gif" width="209" height="19" alt=""></td>
+	</tr>
+	<tr>
+		<td><a href="http://fora.tv/fora/reg_pass.php"><img border="0" id="index_explore" src="/fora/images/misc/index_explore.jpg" alt=""></a></td>
+	</tr>
+	<tr>
+		<td><a href="/fora/forumdisplay.php?f=1"><img border="0" id="index_interact" src="/fora/images/misc/index_interact.jpg" alt=""></a></td>
+	</tr>
+	<tr>
+		<td><a href="/fora/sendmessage.php?subject=2"><img border="0" id="index_engage" src="/fora/images/misc/index_engage.jpg" alt=""></a></td>
+	</tr>
+	<tr>
+		<td width="100%" height="34"><img src="/fora/images/misc/spacer.gif" width="209" height="34" alt=""></td>
+	</tr>
+	<tr>
+		<td style="padding-left: 15px;"><img id="index_feature" src="/fora/images/misc/index_feature.jpg" width="184" height="29" alt=""></td>
+	</tr>
+	<tr>
+		<td width="184" class="smallfont" style="padding-left: 30px;"><a href="http://itsyourworld.org" target="_blank"><img border="0" id="buttons_10" src="/fora/images/misc/buttons_10.jpg" width="104" height="50" alt=""></a></td>
+	</tr>
+	<tr>
+		<td style="padding-left: 15px;"><img id="index_sponsor" src="/fora/images/misc/index_sponsor.jpg" width="184" height="28" alt=""></td>
+	</tr>
+	<tr>
+		<td width="184" class="smallfont" style="padding-left: 30px;">For information on sponsoring ForaTv program series or features, contact us <a href="/fora/sendmessage.php?subject=3">here&gt;&gt;</a>.</td>
+	</tr>
+	<tr>
+		<td style="padding-left: 15px;"><img id="index_content_providers" src="/fora/images/misc/index_content_providers.jpg" width="184" height="33" alt=""></td>
+	</tr>
+	<tr>
+		<td width="184" height="62" class="smallfont" style="padding-left: 30px;" valign="top">Interested in a wider audience for your public forum? <a href="/fora/sendmessage.php?subject=4">More&gt;&gt;</a></td>
+	</tr>
+</tbody></table>		  
+	    		  </td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr>
+    <td><div id="footer"><div align="center" style="position: relative; vertical-align: bottom; padding: 5px 2px 5px 2px; font: 10px verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif; color: #666666"><a href="/fora/fora_press.php">News</a> | <a href="/about.php">About</a> | <a href="/fora/sendmessage.php">Contact</a> | <a href="/fora/faq.php">FAQ</a>  | <a href="/about.php?abpage=privacy">Privacy</a> | <a href="/about.php?abpage=tos">Terms of Service</a> | <a href="/fora/search.php">Search</a> | 
+
+ 
+
+<a href="/">Home</a></div></div></td>
+  </tr>
+</tbody></table>
+</div>
+</div>
+
+<script type="text/javascript">
+<!--
+	// Main vBulletin Javascript Initialization
+	vBulletin_init();
+//-->
+</script>
+
+
+</body></html>
