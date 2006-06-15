@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drgreene.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212145645id_/http%3A//www.drgreene.com/6.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drgreene.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210019id_/http%3A//www.drgreene.com/6.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,4 +22,5 @@ This Privacy Policy should be read in conjunction with the [Terms of Service Agr
 ---|---  
   
 [](http://www.drgreene.com/113.html)  
-
+  
+---
