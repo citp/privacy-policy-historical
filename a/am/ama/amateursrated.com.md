@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the amateursrated.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228135134id_/http%3A//www.poseparty.com/user/statements/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amateursrated.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616000513id_/http%3A//www.poseparty.com/user/statements/privacy.php) for the most accurate reproduction.*
 
-# PoseParty - The Sexiest Party On Earth
+# Amateur, Voyeur & Exhibitionist PoseParty - The Sexiest Party On Earth
 
 We will not collect any personal or business information, nor store or share that information with any third party without your express permission. 
 
