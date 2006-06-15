@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashiongates.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218010009id_/http%3A//www.fashiongates.com/siteinfo/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashiongates.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615221145id_/http%3A//www.fashiongates.com/siteinfo/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy FashionGates.com
 
@@ -50,12 +50,12 @@ In the course of serving advertisements to this site, our third-party advertiser
 ---  
 | 
 
-[ ](http://www.fashiongates.com/magazine/FashionGates-Registration-Procedure-Explained-02-07-05-95071.html)
+[ ](http://www.fashiongates.com/magazine/internet-promotion-tools-25-05-05-72011.html)
 
-The [registration procedure](http://www.fashiongates.com/UserManagement/Register.aspx) on FashionGates.com is now explained in an animated flash tutorial, which give a model, an agency or customer a clue to all the necessary steps to obtain FashionGates membership and benefits that come along with it.  [»](http://www.fashiongates.com/magazine/FashionGates-Registration-Procedure-Explained-02-07-05-95071.html)  
+(May, 23, 2005) FashionGates.com, the ultimate directory and advanced interaction space provider for modeling industry insiders and fashion lovers, presents its services as an effective asset in one’s name advancement.  [»](http://www.fashiongates.com/magazine/internet-promotion-tools-25-05-05-72011.html)  
   
 ---  
   
-[ ](http://www.fashiongates.com/magazine/fashiongates-introduces-new-booking-service-21-06-05-85091.html)
+[ ](http://www.fashiongates.com/magazine/pretty-faces-wanted-18-05-05-76001.html)
 
-FashionGates.com is happy to announce that is has introduced the new BOOKING service for its Users and Clients.  [»](http://www.fashiongates.com/magazine/fashiongates-introduces-new-booking-service-21-06-05-85091.html)
+(May 18, 2005) FashionGates.com, the ultimate directory and advanced interaction space provider for modeling industry insiders and fashion lovers, announces the beginning of the search for the Face of the Portal! Starting today every model submitting his/her portfolio by December 1, 2005 gets the unique opportunity to take part in the Face of FashionGates.com contest. One automatically takes part in the contest upon the portfolio upload. Models’ portfolios will be scrutinized carefully by a group of qualified professionals in order to determine the best photos. The top 100 will be defined by the end of the year 2005.  [»](http://www.fashiongates.com/magazine/pretty-faces-wanted-18-05-05-76001.html)
