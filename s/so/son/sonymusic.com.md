@@ -1,13 +1,15 @@
-> *The following text is extracted and transformed from the sonymusic.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212053934id_/http%3A//www.sonymusic.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonymusic.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615203631id_/http%3A//www.sonymusic.com/privacy/index.html) for the most accurate reproduction.*
 
 # Sony Music USA
 
   
 Your privacy is important to us. That is why we want you to be informed about how we protect the privacy of visitors to our site. Please take a moment to read the following policy, which describes our practices for the collection and use of personally identifiable information on this site. Sites that are linked to our site may have different policies; please review the privacy policy notices on those sites for details. 
 
-  We do not collect personally identifiable information about you on this site without your knowledge, and all such information is collected directly from you. For example, we may ask you to provide your e-mail address, name, mailing address, or other information about yourself in order to participate in contests, chat rooms, or on bulletin boards, to be added to the list to receive e-mail updates on particular artists or types of music, to send so-called "postcards" or to conduct transactions elsewhere on the site. You are not required to provide us with this information, but if you choose not to, you may not be able to participate in some of the activities on this site. 
+  We do not collect personally identifiable information about you on this site without your knowledge, and all such information is collected directly from you. For example, we may ask you to provide your e-mail address, name, mailing address, cell phone number and carrier service provider or other information about yourself in order to participate in contests, chat rooms, or on bulletin boards, to be added to the list to receive e-mail or SMS (text message) updates on particular artists or types of music, to send so-called "postcards" or to conduct transactions elsewhere on the site. You are not required to provide us with this information, but if you choose not to, you may not be able to participate in some of the activities on this site. 
 
   We use the information we collect from you to allow you to participate in the site activities for which the information is collected. For example, when you give us your e-mail address in order to receive updates on a particular artist or type of music, that address is added to the e-mail list for that artist or type of music. On each e-mail you receive, you are given the opportunity to unsubscribe; once you unsubscribe, you will no longer receive such e-mails. 
+
+  A cell phone number and carrier service provider is only required if you want to receive updates on a particular artist or type of music via SMS (text messages) sent to your mobile phone. There can be costs associated with receiving SMS (text) messages depending on your wireless carrier and plan. 
 
   For contests conducted on this site, we use the personal information you provide only for the purpose of contacting you if you win a prize and sending the prize to you. We do not use contact information contained in contest entries to create mailing lists or for any other purpose, unless you have simultaneously subscribed to a mailing list. For further information about how we handle entries to a particular contest, please consult the contest rules. 
 
@@ -31,4 +33,4 @@ Your privacy is important to us. That is why we want you to be informed about ho
 
   By using our site you consent to our collection and use of your personal information as described in this policy. We reserve the right to modify this privacy statement and related business practices at any time by posting updated text on this site, and your continued use constitutes acceptance of those changes. Thank you for visiting our site, and for taking the time to read this policy. 
 
-    Last Revised: July, 2004 
+    Last Revised: January, 2006 
