@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commercepc.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212145924id_/http%3A//www.commercepc.com/inside_commerce/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commercepc.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615070922id_/http%3A//www.commercepc.com/inside_commerce/privacy_policy.cfm) for the most accurate reproduction.*
 
 # Commerce Bank Serving Central PA - Privacy Policy
 
@@ -44,11 +44,11 @@ If you believe we have reported inaccurate information about your account to any
 
 Commerce Bank  
 Attn: Customer Service Department  
-100 Senate Avenue  
-Camp Hill, PA 17011 
+3801 Paxton Street  
+Harrisburg, PA 17111 
 
 
 **Avoid Identity Theft and Online Fraud**  
-[Click here](https://web.archive.org/web/20051212145924id_/http%3A//www.commercepc.com/inside_commerce/consumerAlert.cfm) to read about how to avoid identity theft and online fraud. 
+[Click here](https://web.archive.org/web/20060615070922id_/http%3A//www.commercepc.com/inside_commerce/consumerAlert.cfm) to read about how to avoid identity theft and online fraud. 
 
 * * *
