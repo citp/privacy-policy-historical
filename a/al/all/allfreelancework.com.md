@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the allfreelancework.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207060652id_/http%3A//allfreelancework.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allfreelancework.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615202857id_/http%3A//www.allfreelancework.com/privacy.php) for the most accurate reproduction.*
 
 # All Freelance Work : Self-Employed jobs: Contractors : Consultants : Independent Professionals
 
-|   | 
+**[](http://www.allgraphicdesign.com/whyusefirefox.html) **
 
-[**Home**](https://web.archive.org/web/20050207060652id_/http%3A//allfreelancework.com/indexx.html) **PRIVACY POLICY**
+## AllFreelanceWork.com is a 6 year old Freelance Projects Board offering freelancers Freelance Jobs Search, Free Portfolios,& articles. AllFreelanceWork is also a great small business resource for starting a home business & looking for home business opportunities (no scams). AllFreelanceWork is filled with freelance resources, including small business startup tips, self-employment articles, how to start a freelance or small home business, articles about self-employed health insurance offers, promoting & marketing your small business, finding small business & freelance business opportunites for graphic designers, web designers, writers, screenwriters, programmers,artists, editors, & other careers & professions. 
+
+| 
+
+[**Home**](https://web.archive.org/web/20060615202857id_/http%3A//www.allfreelancework.com/indexx.html) **PRIVACY POLICY**
 
 This is the web site of **AllFreelance**.  
 
@@ -36,46 +40,49 @@ With respect to security: We always use industry-standard encryption technologie
 
 If you feel that this site is not following its stated information policy, you may **[contact us](mailto:allfreelance@comcast.net)**.
 
+| 
+
+[](http://www.allfreelancework.com/portfoliofr.php?id=89002)
+
+[](http://www.allfreelancework.com/portfoliofr.php?id=130550)
+
+   
+
+
+[](http://www.allfreelancework.com/portfoliofr.php?id=24469)
+
+[](http://www.allfreelancework.com/portfoliofr.php?id=134824)
+
+[](http://www.allfreelancework.com/afwtour.php)
+
 |  |  |  |  |  |   
 ---|---|---|---|---  
-|  |  |  |  |   
----|---|---|---|---|---  
-|  |  |  |  |   
 | 
 
 | 
 
-**THE WEB DESIGN BUSINESS KIT  
   
-  
-**Everything you need to start a Web Design Business [**Download FREE Sample Chapters**](http://www.sitepoint.com/launch/cc41c7/3/4)
+Please suggest a site [here](http://www.allfreelancework.com/submit.php)-
 
-**[Art Institute Online](http://quinst.com/c.jsp?area=longfangtaimucheng)**  
-Learn Graphic Design or Web Design with Art Institute Online.
+[](http://www.contractedwork.com/)
 
-****[](http://www.allfreelancework.com/click.php?action=go&to=contract)****
+[  
+Freelance Billing Help](http://allfreelance.billingorchard.com/)
 
-[](http://www.tkqlhce.com/4m115vpyvpxCIGJKHJCEEHGJMD)
+[](http://www.allgraphicdesign.com/)  
+[**Graphic Design Portal**](http://www.allgraphicdesign.com/)
 
-[](http://allfreelance.tradepub.com/) 
+[](http://www.good-tutorials.com/)  
+[**Adobe Photoshop Tutorials**](http://www.good-tutorials.com/)
 
-[](http://www.elance.com/c/cats/main/sellers.pl?&rid=12BN)
+[](http://quinst.com/c.jsp?area=longfangtaimucheng)  
+**[Art Institute Online](http://quinst.com/c.jsp?area=longfangtaimucheng)**
 
-[ ](http://www.freetrademagazinesource.com/referralsin.aspx?AffiliateID=84798074)[](http://allfreelance.tradepub.com/) 
+**sister sites :** **** ** **[Free Tutorials Portal](http://www.tutorialselect.com/)**** ****
 
-[](http://hop.clickbank.net/hop.cgi?afwork2%20/howtopub)
-
-**[](http://allfreelance.billingorchard.com/)******
-
-**[Designer's Contracts and Pricing Guides](http://www.creativepublic.com/)** Quality contracts, pricing guides, and articles for designers.
-
-[**Resume Writing Services**](http://allfreelance.employment911.com/?a=50&b=5000)
-
-**sister sites / partners:** **  
-[AllFreelance.com](http://www.allfreelance.com/indexx.html)  
-[Design Resources  
-](http://www.deezin.com/)****[Blue Gecko](http://www.bluegeckonetwork.com/) **
+**[Freelance Self-Employed Jobs Directory](http://www.allfreelance.com/indexx.html)** **** **[Graphics Software Information](http://www.allgraphicdesign.com/)** ****[**All Work At Home Ideas**](http://www.allworkathomeideas.com/) **  
+**
 
 |  |  |   
-   
+---|---|---|---|---|---  
  
