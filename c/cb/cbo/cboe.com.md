@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cboe.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228070641id_/http%3A//www.cboe.com/UserAdmin/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cboe.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615202147id_/http%3A//www.cboe.com/UserAdmin/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # CBOE - Privacy Statement
 
@@ -44,7 +44,7 @@ If you choose to update or delete personal information previously provided, CBOE
 
 If you prefer not to receive traditional mail or other off-line promotions from CBOE or from organizations with which CBOE has a direct or indirect business relationship, please e-mail [remove@cboe.com](mailto:remove@cboe.com). Please include your full name and mailing address. 
 
-To remove yourself from any CBOE e-mail lists, please e-mail [remove@cboe.com](mailto:remove@cboe.com) or visit [http://www.cboe.com](https://web.archive.org/) and click E-mail Alerts from your personalized home page. Please note: if you are not already signed in to your MyCBOE service, you will need to do so using your user name and password. To unsubscribe by postal mail, please write to CBOE.com Internet Marketing, 400 S. LaSalle Street, Chicago, IL 60605. If you have any questions, please e-mail [help@cboe.com](https://web.archive.org/web/20051228070641id_/http%3A//www.cboe.com/UserAdmin/help@cboe.com). 
+To remove yourself from any CBOE e-mail lists, please e-mail [remove@cboe.com](mailto:remove@cboe.com) or visit [http://www.cboe.com](https://web.archive.org/) and click E-mail Alerts from your personalized home page. Please note: if you are not already signed in to your MyCBOE service, you will need to do so using your user name and password. To unsubscribe by postal mail, please write to CBOE.com Internet Marketing, 400 S. LaSalle Street, Chicago, IL 60605. If you have any questions, please e-mail [help@cboe.com](https://web.archive.org/web/20060615202147id_/http%3A//www.cboe.com/UserAdmin/help@cboe.com). 
 
 ### Special Cases
 
