@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlegeek.com privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227053038id_/http%3A//www.articlegeek.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlegeek.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615223237id_/http%3A//www.articlegeek.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # ArticleGeek Privacy Policy
 
@@ -57,4 +57,4 @@ This web site contains links to other web sites. Please note that when you click
 
 * * *
 
-©2005 ArticleGeek.com - All Rights Reserved
+©2006 [ArticleGeek.com: Free Website Content](http://www.articlegeek.com/) \- All Rights Reserved
