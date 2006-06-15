@@ -1,49 +1,63 @@
-> *The following text is extracted and transformed from the imtservices.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202231226id_/http%3A//insuremytrip.com/p/gen%3Fpage%3Dprivacy%26pid%3D1000%26rid%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imtservices.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615091357id_/http%3A//www.insuremytrip.com/privacy-1000-0-0-43.html) for the most accurate reproduction.*
 
 # InsureMyTrip.com Privacy Policy
 
 Introduction
 
-This statement discloses the privacy practices of the InsureMyTrip.com web site and its other owned and operated sites. When you visit a web site, you expect to know what personal information is collected; how the information is used; with whom the information may be shared; what choices are available to you regarding collection, use and distribution of the information; the kind of security procedures that are in place to protect the loss, misuse or alteration of this information under the web site's control. Questions regarding this statement or inaccuracies in the information should be directed to [service@insuremytrip.com](mailto:service@insuremytrip.com)
+This statement discloses the privacy practices of IMT SERVICES CORPORATION (IMT) and its owned and operated web sites which are located at URLs: InsureMyTrip.com, InsureMyGroup.com, InsureMyTraveler.com, InsureMyVisa.com, InsureMyTrip.ca. When you visit a web site, you expect to know what personal information is collected; how the information is used; with whom the information may be shared; what choices are available to you regarding collection, use, distribution and disclosure of the information; the kind of security procedures that are in place to protect the loss, misuse or alteration of this information under the web site's control and the method for accessing the personal information that we have collected about you and request that such information be rectified or deleted. Questions regarding this statement, access requests or inaccuracies in the information should be directed to [service@insuremytrip.com](mailto:service@insuremytrip.com). We will respond to your inquiry or request within thirty (30) days. 
+
+This privacy statement is an **Agreement**. If you choose to provide personal information to us, the handling of your personal information **will** be governed by the terms and conditions contained herein. **If you do not agree to the terms and conditions contained herein, please do not provide IMT with any personal information.**
 
 Overview
 
-InsureMyTrip.com encourages you to visit our web site knowing that you have complete control over your personal information. You can browse our pages without having to tell us who you are or revealing any personal information whatsoever. However, if you decide to purchase travel insurance, the applications will require you to input more information such as name and address, travel arrangements and credit card information in order for us to service you appropriately. We do indicate on these pages of the web site that we are collecting this information from you.
+IMT encourages you to visit our web sites knowing that you have complete control over your personal information. You can browse our pages without having to tell us who you are or revealing any personal information whatsoever. However, if you communicate with our customer service department via online chat, email or phone, you might supply us with personal information such as your name, email address and other contact information. Also, if you decide to purchase travel insurance, the applications will require you to input more information such as name and address, travel arrangements and credit card information in order for us to service you appropriately. We do indicate on these pages of the web site that we are collecting this information from you and the purposes for doing so, except where it is obvious. We will not use your personal information for other purposes without notifying you of our intention to do so and obtaining your consent. 
 
-It is your choice whether to input this personal information. If you choose to give us the information via our web site, refer to this privacy statement for an understanding of how that information will be used. If you prefer, we can take your information over the phone during normal business hours.
-
-InsureMyTrip.com is not responsible for the privacy practices or the content of any other web sites on the Internet that are hyper-linked to or from our site.
+IMT is not responsible for the privacy practices or the content of any other web sites on the Internet that are hyper-linked to or from our site. 
 
 Information Gathering
 
-The InsureMyTrip.com web site collects the following information only if you choose to provide it: 
+The IMT web sites collect the following information only if you choose to provide it:
 
-  * For a quote:
-    * Coverage limits, dates of travel, age of travelers.
-  * For a travel policy, the insurance carriers require the quote information plus:
-    * Name, mailing address, telephone number, Email Address, social security number and date of birth for all travelers, trip deposit date, trip destination, tour operator, airline and/or cruise line and trip departure hour.
-    * Credit Card Information
+  * For a question or request ("Contact Us", "Service" and the "Live Chat" areas): 
+    * Name, e-mail address and any comments you make. 
+  * For a quote: 
+    * Coverage limits, dates of travel, age(s) or date(s) of birth for each traveller, destination, trip type, and residency. 
+  * For a travel policy, on behalf of the insurance carriers, we collect from you and disclose to them the following information: 
+    * Name, mailing address, telephone number(s), Email Address, trip deposit date, tour operator, airline and/or cruise line and trip departure hour. 
+    * Credit Card Information. 
 
 
 
 Using Information Gathered
 
-The information collected is used to provide policy quotes and to issue your policy. The information is in turn sent encrypted, only to the insurance company underwriting the policy and the producing agent if applicable. The insurance companies employ standard encryption practices receiving such information.
+The information collected when you contact us with a question or a suggestion will only be used to respond to and/or resolve your question.
 
-InsureMyTrip.com archives information provided by you for policy quoting and policy issuance on our servers. This information is kept electronically, but is internal to InsureMyTrip.com and not maintained on the web site.
+The information collected for a quote or for a travel policy is used to provide policy quotes and to issue your policy. The information is in turn sent encrypted, only to the insurance company underwriting the policy and the producing agent if applicable. The insurance companies employ standard encryption practices receiving such information. 
 
-Sharing Information Gathered
+IMT archives information provided by you for policy quoting and policy issuance on our servers located in the United States. This information is kept electronically, but is internal to IMT and not maintained on the web site. We collect and retain this information in accordance with all applicable laws, including without limitation insurance laws/laws governing insurance carriers. 
 
-In general, our site will only collect data from you that will be used to provide accurate quotes and issue policies.
+Sharing and Disclosing Information Gathered
 
-We do track the domain name, IP address, browser type, and referring IP address of our site visitors through a site-reporting tool that runs on our server and cookies. This information is used internally only to show activity and trends of our site usage.
+In general, our sites will only collect data from you that will be used to respond to and/or resolve your question, to provide accurate quotes, and to issue policies.
 
-We do not provide information to mailing lists nor do we sell the information to others for any purpose.
+We do track the domain name, IP address, browser type, and referring IP address of our site visitors through a site-reporting tool that runs on our servers and uses cookies. This information is used internally only to show activity and trends of our site usage. 
+
+We do not provide your personal information to mailing lists nor do we sell, share or trade your information to others for any purpose. 
+
+From time to time, we may be required to provide your personal information in response to a court order, subpoena, government investigation, or as otherwise required by law. 
 
 Protecting Information Gathered
 
-InsureMyTrip.com uses Secure Socket Layer encryption (SSL) for our policy Quoting and issuance. This measure was taken to protect the privacy of your information.
+IMT uses Secure Socket Layer encryption (SSL) to protect the privacy of your information.
 
-InsureMyTrip.com does not control the privacy practices of the companies which we represent; however, all the companies use the information you provide for the purpose of issuing an accurate insurance policy. Quote information is not shared with any of the insurance companies.
+IMT does not control the privacy practices of the companies which we represent; however, all the companies use the information you provide for the purpose of issuing an accurate insurance policy. Quote information is not shared with any of the insurance companies. It is your choice whether to provide personal information to IMT. If you choose to give us the personal information, refer to this privacy statement for an understanding of how that information will be collected, used and/or disclosed or distributed. 
 
-Please refer to the privacy policy statements of the individual insurance companies for their use of your policy information.
+You are entitled to access the personal information which we have gathered about you and to request corrections of that information. In order to do so, please direct your request to [service@insuremytrip.com](mailto:service@insuremytrip.com) and describe out your request or correction. 
+
+Please refer to the privacy policy statements of the individual insurance companies for their use of your personal information. 
+
+Updates to the Privacy Policy Statement
+
+We may amend this policy from time to time to keep up with changes in the law or corporate policies. If we make any substantive changes we will notify you by sending a notice to the primary email address you have provided us or by posting a prominent announcement on our webpage.
+
+This privacy policy statement was last updated on May 18th, 2006. 
