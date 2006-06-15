@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the syndetics.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228135250id_/http%3A//www.bowker.com/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syndetics.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615022209id_/http%3A//www.bowker.com/company/privacy.htm) for the most accurate reproduction.*
 
-# Bowker - Privacy Policy Statement
+# Privacy Policy Statement - Bowker
 
 R.R. Bowker, LLC ("Bowker") owns and operates this website.
 
