@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the exchangerate.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215190802id_/http%3A//www.exchangerate.com/privacy_security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exchangerate.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615060849id_/http%3A//exchangerate.com/privacy_security.html) for the most accurate reproduction.*
 
 # Privacy & Security
 
-  |  Wednesday, February 19, 2005    
+  |  Wednesday, February 19, 2006    
 ---|---  
   
 **[Home](https://web.archive.org/) >> Privacy & Security **
