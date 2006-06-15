@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the basenotes.net privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231193004id_/http%3A//www.basenotes.net/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basenotes.net privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615195650id_/http%3A//basenotes.net/info/privacy.html) for the most accurate reproduction.*
 
 # Basenotes: Privacy Policy
 
