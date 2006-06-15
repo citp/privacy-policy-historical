@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liquidation.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215074720id_/http%3A//www.liquidation.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liquidation.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615121138id_/http%3A//www.liquidation.com/privacy.html) for the most accurate reproduction.*
 
 # Surplus items auction, discount surplus inventories marketplace, wholesale closeouts
 
@@ -76,7 +76,7 @@ If you have any questions about this privacy policy, the practices of this site,
 
 Webmaster  
 Liquidity Services, Inc.  
-2131 K Street NW  
-4th Floor  
-Washington D.C. 20037  
+1920 L Street NW  
+6th Floor  
+Washington D.C. 20036  
 [webmaster@liquidation.com](mailto:webmaster@liquidation.com)
