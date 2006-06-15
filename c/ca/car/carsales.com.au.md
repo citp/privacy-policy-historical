@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carsales.com.au privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219094722id_/http%3A//carsales.com.au/pls/carsales/%21cs_content.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carsales.com.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615205248id_/http%3A//www.carsales.com.au/pls/carsales/%21cs_content.privacy) for the most accurate reproduction.*
 
 # Privacy Policy : carsales.com.au
 
@@ -78,7 +78,7 @@ Location: | Level 2, 810 Whitehorse Road, Box Hill VIC 3128
 Postal Address:    | PO Box 643, Box Hill VIC 3128  
 Phone: | +61 (03) 8803 3000 (Business Hours EST)  
 Contact: | Patricia Chalmers  
-Email: | [Click](https://web.archive.org/web/20051219094722id_/http%3A//carsales.com.au/pls/carsales/!cs_content.contact) on the "contact us" link at the bottom of this page  
+Email: | [Click](https://web.archive.org/web/20060615205248id_/http%3A//www.carsales.com.au/pls/carsales/!cs_content.contact) on the "contact us" link at the bottom of this page  
   
 We will try our best to answer any queries as quickly as possible.
 
