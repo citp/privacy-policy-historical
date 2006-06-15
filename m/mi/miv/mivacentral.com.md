@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mivacentral.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225072751id_/http%3A//www.miva.com/us/content/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mivacentral.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615194721id_/http%3A//www.miva.com/us/content/about/privacy.asp) for the most accurate reproduction.*
 
 # MIVA Company Information
 
