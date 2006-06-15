@@ -1,16 +1,16 @@
-<!--The following is the downloaded HTML source of the protrade.com privacy policy that was archived on 2005-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051210184446id_/http%3A//www.protrade.com/Privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the protrade.com privacy policy that was archived on 2006-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615043730id_/http%3A//www.protrade.com/Privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
-<meta name="generator" content="Tapestry Application Framework, version 4.0-beta-9">
+<meta name="generator" content="Tapestry Application Framework, version 4.0">
 <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 <base href="http://www.protrade.com/">
 <title>PROTRADE: Terms and Conditions</title>
 <link rel="stylesheet" type="text/css" href="/css/pt_v03.css">
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script><script type="text/javascript">
-  _uacct="UA-31470-1";
-  urchinTracker();
+_uacct="UA-31470-1";
+urchinTracker();
 </script><style type="text/css"><!--
 #flashTicker {
         /* IE 5.0/Win and other lesser browsers will use this */
@@ -24,9 +24,9 @@ body > div#flashTicker {
 </style></head>
 
 
- <!-- TODO: Quick fix for new urchin, will componentize later -->    
 
- 
+
+
 
 
 
@@ -45,79 +45,33 @@ div#flashTicker {
 
 
 
-
 <body>
-<script type="text/javascript" src="/assets/b4909c59529064c46eb8843b65911500/org/apache/tapestry/form/Form.js"></script>
-<script type="text/javascript"><!--
+<script type="text/javascript" src="/assets/1f7008d3e65882519740d925d6c5a813/org/apache/tapestry/form/Form.js"></script>
+<script type="text/javascript" src="/assets/e11024a41c5fbd35e6fe0501dc4be590/com/protrade/basesite/cse.js"></script>
+<script type="text/javascript" src="/assets/b5bdbb692e9379cc08a4625ddbcc9066/com/protrade/basesite/csi.js"></script>
+<script type="text/javascript" src="/assets/f6a007211cd9e2f36d814e07310f635d/com/protrade/basesite/events.js"></script>
+<script type="text/javascript" src="/assets/d6f213960533141bc12720119dbcc1d4/com/protrade/basesite/css.js"></script>
+<script type="text/javascript" src="/assets/bc8d30ecb513e7fb9d9c70f606527345/com/protrade/basesite/zebra.js"></script>
+<script type="text/javascript" src="/assets/a96c6607289fdb1000201d6d76059fcf/com/protrade/basesite/sorttable.js"></script>
+<script type="text/javascript" src="/assets/5c87b92ff2a21c5791a6649b5ffdd063/com/protrade/basesite/pagetable.js"></script>
+<script type="text/javascript" src="/assets/9d834b03d537e40791b05151ebca08c1/com/protrade/basesite/cookies.js"></script>
+<script type="text/javascript" src="/assets/2386f296f8dd9da6e823c821d056c293/com/protrade/basesite/watchlist.js"></script>
 
-
-function onclick_LinkSubmit()
-{
-  var form = Tapestry.find('searchForm');
-  
-  if (form.events.onsubmit_handler())
-  {
-    Tapestry.find('LinkSubmit').value = "T";
-    form.onsubmit = null;
-    form.submit();
-  }
-}
-
-
-function onclick_LinkSubmit_0()
-{
-  var form = Tapestry.find('loginForm');
-  
-  if (form.events.onsubmit_handler())
-  {
-    Tapestry.find('LinkSubmit_0').value = "T";
-    form.onsubmit = null;
-    form.submit();
-  }
-}
-
-
-
-// --></script>
-    
-<script type="text/javascript">  
-  var ol_cap='<img src="/img/obj_minibuysell_topdots.gif" style="margin-right: -18px; margin-left: 10px;"/>';
-  var ol_close='<img src="/img/obj_minibuysell_close.gif"/>';  
-</script>
     
 <script type="text/javascript">
-var newwindow = '';    
-    
-function pt_GAMEDAY(theURL,winName,features) { //v2.0
-
-	if (!newwindow.closed && newwindow.location)
-	{
-		newwindow.location.href = theURL;
-	}
-	else
-	{
-		newwindow=window.open(theURL,winName,features);
-		if (!newwindow.opener) newwindow.opener = self;
-	}
-	if (window.focus) {newwindow.focus()}
-	
-}
-function entsub(myform) {
-  if (window.event && window.event.keyCode == 13)
-  {
-    
-    if(myform.name =="loginForm")
-    {
-    	if(myform.inputUsername.value != "" && myform.inputPassword.value != "")
-        	myform.submit();
+function entsub( myform, event ) {
+  if ( event && event.keyCode == 13 ) {
+    if ( myform.name =="loginForm" ) {
+      if ( myform.inputUsername.value != "" && myform.inputPassword.value != "" ) {
+        myform.submit();
+      }
+    } else {
+      myform.submit();
     }
-    else myform.submit();
-   
-  }
-  else
+  } else {
     return true;
+  }
 }
-
 </script>
 
 <div id="logo"><a href="/Home.html"><img src="/img/logo_narrow.gif" style="border:0;" alt="PROTRADE"></a></div>
@@ -136,9 +90,9 @@ function entsub(myform) {
       
         <li id="liInsight" class="insight off"><a href="/Insight.html"><span>Insight</span></a></li>
       
-        <li id="liHelp" class="help off"><a href="/Help.html"><span>Help</span></a></li>
+        <li id="liCommunity" class="community off"><a href="/Community.html"><span>Community</span></a></li>
       
-        <li id="liAbout" class="about off"><a href="/About.html"><span>About</span></a></li>
+        <li id="liHelp" class="help off"><a href="/Help.html"><span>Help</span></a></li>
       
     </ul>
   </div>
@@ -152,8 +106,6 @@ function entsub(myform) {
 
 
  
-
-<div id="overDiv" style="position:absolute; visibility:hidden; z-index:1000; border: 2px solid #ccc; padding:4px 2px 0 0; background: #fff;"></div>
 
 <div class="clear" id="content">
 
@@ -170,12 +122,12 @@ function entsub(myform) {
     <div style="position: relative;background-color: #FFFFFF;height:18px;"><img src="/img/hdr_leftcol_searchathletes.gif" border="0" alt="Search Athletes"></div>
     <div style="padding:4px 0px 4px 5px;">
         <form method="post" action="/Privacy,$Layout.searchForm.direct" name="searchForm" id="searchForm">
-<div><input type="hidden" name="formids" value="inputSearch,LinkSubmit">
+<div style="display:none;"><input type="hidden" name="formids" value="inputSearch,LinkSubmit">
 <input type="hidden" name="submitmode" value="">
-<input type="hidden" name="LinkSubmit" id="LinkSubmit" value="">
+<input type="hidden" name="submitname" value="">
 </div>
             
-			<input type="text" name="inputSearch" value="" id="inputSearch" style="width:160px;height:16px;border:solid 2px #aaa;background:#fff;padding:3px 2px 0px 2px;margin:0px;font:normal 11px verdana,arial,sans-serif; color:#444;" maxlength="25" onkeypress="return entsub(document.searchForm)"><a href="javascript:onclick_LinkSubmit();"><img src="/img/obj_leftcolsearch_go.gif" style="border:0px;margin-bottom:-10px!important;margin-bottom:-7px;" alt="Search"></a>
+			<input type="text" name="inputSearch" value="" id="inputSearch" style="width:160px;height:16px;border:solid 2px #aaa;background:#fff;padding:3px 2px 0px 2px;margin:0px;font:normal 11px verdana,arial,sans-serif; color:#444;" maxlength="25" onkeydown="return entsub(document.searchForm,event)"><a href="javascript:Tapestry.submit_form('searchForm', 'LinkSubmit');" id="LinkSubmit"><img src="/img/obj_leftcolsearch_go.gif" style="border:0px;margin-bottom:-10px!important;margin-bottom:-7px;" alt="Search"></a>
 	        
 	        
 	        
@@ -189,23 +141,23 @@ function entsub(myform) {
     <div style="position: relative;background-color: #FFFFFF;height:18px;"><img src="/img/hdr_leftcol_login.gif" border="0" alt="Login"></div>
   <div style="padding:0px 0px 4px 0px;">
     <form method="post" action="/Privacy,$Layout.loginForm.direct" name="loginForm" id="loginForm">
-<div><input type="hidden" name="formids" value="If_2,inputUsername,inputPassword,LinkSubmit_0,Checkbox">
+<div style="display:none;"><input type="hidden" name="formids" value="If_2,inputUsername,inputPassword,LinkSubmit_0,Checkbox">
 <input type="hidden" name="submitmode" value="">
+<input type="hidden" name="submitname" value="">
 <input type="hidden" name="If_2" value="F">
-<input type="hidden" name="LinkSubmit_0" id="LinkSubmit_0" value="">
 </div>
 	<table border="0" cellpadding="0" cellspacing="0" style="margin-top:3px;">
 		
 		<tbody><tr>
-			<td align="right" width="73">Name:<img src="/img/px_cl.gif" border="0" width="2" height="1"></td>
+			<td align="right" width="73">Member Name:<img src="/img/px_cl.gif" border="0" width="2" height="1"></td>
 			<td width="150" colspan="2">
-			    <input type="text" name="inputUsername" value="" id="inputUsername" onkeypress="return entsub(document.loginForm)" style="width:143px;height:14px;border:solid 2px #aaa;background:#fff;padding:3px 2px 0px 2px;margin:0px;font:normal 10px verdana,arial,sans-serif; color:#444;">
+			    <input type="text" name="inputUsername" value="" id="inputUsername" style="width:143px;height:14px;border:solid 2px #aaa;background:#fff;padding:3px 2px 0px 2px;margin:0px;font:normal 10px verdana,arial,sans-serif; color:#444;" onkeydown="return entsub(document.loginForm,event)">
 			</td>
 		</tr>
 		<tr>
 			<td align="right" width="73">Password:<img src="/img/px_cl.gif" border="0" width="2" height="1"></td>
-			<td><input type="password" name="inputPassword" value="" id="inputPassword" onkeypress="return entsub(document.loginForm)" style="width:83px;height:14px;border:solid 2px #aaa;background:#fff;padding:3px 2px 0px 2px;margin:3px 1px 0px 0px;font:normal 10px verdana,arial,sans-serif; color:#444;"></td>
-			<td><a href="javascript:onclick_LinkSubmit_0();"><img src="/img/btn_login2.gif" style="border:0px;margin-top:5px!important;margin-top:4px;" alt="Login"></a></td>
+			<td><input type="password" name="inputPassword" value="" id="inputPassword" style="width:83px;height:14px;border:solid 2px #aaa;background:#fff;padding:3px 2px 0px 2px;margin:3px 1px 0px 0px;font:normal 10px verdana,arial,sans-serif; color:#444;" onkeydown="return entsub(document.loginForm,event)"></td>
+			<td><a href="javascript:Tapestry.submit_form('loginForm', 'LinkSubmit_0');" id="LinkSubmit_0"><img src="/img/btn_login2.gif" style="border:0px;margin-top:5px!important;margin-top:4px;" alt="Login"></a></td>
 		</tr>
 		<tr>
 			<td>&nbsp;</td>
@@ -224,7 +176,7 @@ function entsub(myform) {
     	<a href="/ForgotPassword.html" target="_parent" class="leftcollinka">Forgot Password</a>
 	</div>
 	<div style="float:right;">
-    	<a href="/Register.html" target="_parent" class="leftcollinka">Join Now It's Free!</a>
+    	<a href="/Login.html" target="_parent" class="leftcollinka">Join Now It's Free!</a>
         &nbsp;
     </div>
     <div>&nbsp;</div>
@@ -244,6 +196,9 @@ function entsub(myform) {
 
 
 
+	 
+
+
 
 
 
@@ -252,18 +207,20 @@ function entsub(myform) {
 			<table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
 <td width="29%" valign="top">
-<img src="content.image?contentId=520512" border="0" align="left" class="leftcoltestimonialimg">
+<img src="content.image?contentId=2338812" border="0" align="left" class="leftcoltestimonialimg">
 </td>
 <td width="4%">&nbsp;</td>
 <td width="67%" valign="top" class="text">
-"We don't play football to build our statistics - we play to win. 
-PROTRADE's athlete valuation system is the only one that measures 
-the real thing."<br>
-<b>Ben Roethlisberger</b><br><span style="font-size:10px;color:#666;">- Pittsburgh Steelers Rookie of the Year QB</span><br style="clear:both;">
+"PROTRADE is building a community that gives the power to the fans. This market is unlike anything I've seen."<br>
+<b>Derrek Lee</b><br><span style="font-size:10px;color:#666;">- Chicago Cubs</span><br style="clear:both;">
 </td>
 </tr>
 </tbody></table>
 		</span>
+		
+
+
+
 
 
 
@@ -281,122 +238,31 @@ the real thing."<br>
 
 
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   SIDEBAR: WATCHLIST   XXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
-
+<div id="$ClientSideInclude"></div><script type="text/javascript">ptcse_register( '$ClientSideInclude', 'hasCookie(\'credential1\')', function(){ ptcsi( '$ClientSideInclude', '/fragment/WatchlistLeft.html' ) }, null );ptcse_alias( '$ClientSideInclude', 'watchlist' );ptcse( '$ClientSideInclude' );</script>
 
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   SIDEBAR: JEFF MA'S BLOG   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
-
-	<div class="leftcolgeneric">
-		<div style="position: relative;background-color: #FFF;height:18px;"><img src="/img/hdr_leftcol_blog.gif" border="0" alt="Jeff Ma's Blog"></div>
-		<div style="padding:6px 4px 4px 5px;">
-		
-
-
-
-
-	
-	
-	        <!--should parameterize image size-->
-	    	<a href="/insight/InsightArticleDetail.html?sp=KRC553366&amp;sp=S%2Fprotrade%2Fstories%2Fanalyst%2Fjeff+ma%2F&amp;x=x" style="font-weight:bold;" class="textlink">
-            
-	              
-	              
-                    
-	                
-	                	<img width="56" height="69" align="left" style="margin-right:6px;" src="content.image?contentId=520609" border="0">
-	                
-	              
-            
-            
-       		</a>
-       
-
-        <a href="/insight/InsightArticleDetail.html?sp=KRC553366&amp;sp=S%2Fprotrade%2Fstories%2Fanalyst%2Fjeff+ma%2F&amp;x=x" style="font-weight:bold;" class="textlink">
-            Touchdowns aren't all they're cracked up to be
-        </a><br>
-        <span class="timestamp">Dec 06 2005 05:32 AM PST</span><br>
-        <span class="textsmall">
-            You're a first down away from a comeback win in your first NFL start.
-It's third-and-long-- can you ....
-        </span>
-        <a href="/insight/InsightArticleDetail.html?sp=KRC553366&amp;sp=S%2Fprotrade%2Fstories%2Fanalyst%2Fjeff+ma%2F&amp;x=x" class="linkj">more</a><br style="clear:both;">
-
-
-
-
-
-
-
-
-
-
-		</div>
-		
-	</div>
-
+<div id="$ClientSideInclude_0"></div><script type="text/javascript">ptcse_register( '$ClientSideInclude_0', null, function(){ ptcsi( '$ClientSideInclude_0', '/fragment/BlogLeft.html' ) }, null );ptcse( '$ClientSideInclude_0' );</script>
 
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   SIDEBAR: NEWS   XXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
+<div id="$ClientSideInclude_1"></div><script type="text/javascript">ptcse_register( '$ClientSideInclude_1', null, function(){ ptcsi( '$ClientSideInclude_1', '/fragment/News.html' ) }, null );ptcse( '$ClientSideInclude_1' );</script>
 
-<div id="leftcolnews">
-    <div style="position: relative;background-color: #FFFFFF;height:18px;"><img src="/img/hdr_leftcol_sportsnews.gif" border="0" alt="Sports News"><div style="position: absolute; top:0px; right:0px;">
-          <span class="leftcolhdrlink">
-              <a href="/insight/InsightNews.html">more news &gt;&gt;</a>
-              &nbsp;
-          </span>
-      </div></div>
-    
-    <table width="96%" border="0" cellspacing="0" cellpadding="2">
-	       
-	        
-		        
-		        <tbody><tr>
-			    <td width="10" valign="top"><img src="/img/bullet_mini2.gif" border="0" color="#FFFFFF;" width="10" height="9"></td>
-			    <td><a href="/insight/InsightNewsDetail.html?sp=Kcom.protrade.feeds.data.news.NewsArticle-569500&amp;x=x" class="textlinksmall">Jaguars RB Taylor to return Sunday against Colts, Meester out at center</a> <span style="color:#788274;">- 17 hours 17 mins&nbsp;ago</span></td>
-                </tr>
-               
-            
-		        
-		        <tr>
-			    <td width="10" valign="top"><img src="/img/bullet_mini2.gif" border="0" color="#FFFFFF;" width="10" height="9"></td>
-			    <td><a href="/insight/InsightNewsDetail.html?sp=Kcom.protrade.feeds.data.news.NewsArticle-568602&amp;x=x" class="textlinksmall">Seahawks place LB Jamie Sharper on injured reserve with staph infection in right knee</a> <span style="color:#788274;">- 18 hours 5 mins&nbsp;ago</span></td>
-                </tr>
-               
-            
-		        
-		        <tr>
-			    <td width="10" valign="top"><img src="/img/bullet_mini2.gif" border="0" color="#FFFFFF;" width="10" height="9"></td>
-			    <td><a href="/insight/InsightNewsDetail.html?sp=Kcom.protrade.feeds.data.news.NewsArticle-572172&amp;x=x" class="textlinksmall">Tomlinson practices Friday for first time this week as Chargers prepare for Dolphins</a> <span style="color:#788274;">- 19 hours 58 mins&nbsp;ago</span></td>
-                </tr>
-               
-            
-		        
-		        <tr>
-			    <td width="10" valign="top"><img src="/img/bullet_mini2.gif" border="0" color="#FFFFFF;" width="10" height="9"></td>
-			    <td><a href="/insight/InsightNewsDetail.html?sp=Kcom.protrade.feeds.data.news.NewsArticle-566921&amp;x=x" class="textlinksmall">Bears linemen Kreutz, Miller fined $50,000 each for fight</a> <span style="color:#788274;">- 22 hours 4 mins&nbsp;ago</span></td>
-                </tr>
-               
-            
-		        
-		        <tr>
-			    <td width="10" valign="top"><img src="/img/bullet_mini2.gif" border="0" color="#FFFFFF;" width="10" height="9"></td>
-			    <td><a href="/insight/InsightNewsDetail.html?sp=Kcom.protrade.feeds.data.news.NewsArticle-566807&amp;x=x" class="textlinksmall">Mularkley admits Moulds was suspended for conduct detrimental to team</a> <span style="color:#788274;">- 23 hours 25 mins&nbsp;ago</span></td>
-                </tr>
-               
-            
-        <!--    <div class="leftcolhdrlink"><a jwcid="@PageLink" page="insight/InsightNews">more news &gt;&gt;</a>&nbsp;</div><br/>-->
-	  </tbody></table>      
-	  
-</div>
-
-
-<!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   SIDEBAR: NFL PLAYERS ASSOC LOGO   XXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
-
-    <br>
-    <div>
-    	<img src="/img/logo_NFLPA.gif" width="134" height="52">
+<!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   SIDEBAR: NFL PLAYERS ASSOC LOGO, NBA LOGO, VERISIGN  XXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
+<div>
+	<span class="text9" style="color:rgb(213,213,213);">In association with:</span><br>
+	<div style="border: 1px solid rgb(213,213,213);text-align:center;">
+		
+			<a href="http://www.nba.com/" target="_blank"><img src="/img/left_logoNBA.gif" border="0" width="48" height="64"></a>
+		
+		<a href="http://www.mlb.com/" target="_blank"><img src="/img/left_logoMLB.gif" border="0" width="102" height="64"></a>
+		
+			<img src="/img/left_logoPlayersInc.gif" width="61" height="64">
+		
 	</div>
 
-
-
+	
+ 		<script src="https://seal.verisign.com/getseal?host_name=www.protrade.com&amp;size=S&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script>
+	
+</div>	
 
 <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   SIDEBAR: TICKER BUFFER   XXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 
@@ -547,14 +413,24 @@ It's third-and-long-- can you ....
     
 
     <div id="footer" style="clear:both; margin-top:5px;">
-      *All times listed are in Pacific Time unless otherwise specified <br>
+      <a href="/Help.html" class="footerlink">Help</a>
+      &nbsp;&nbsp;
+      <a href="/About.html" class="footerlink">About Us</a>
+      &nbsp;&nbsp;
+      <a href="/AboutAffiliates.html" class="footerlink">Affiliate Program</a>
+      &nbsp;&nbsp;
       <a href="/TermsCondition.html" class="footerlink">Terms of Use</a>
       &nbsp;&nbsp;
       <a href="/Privacy.html" class="footerlink">Privacy Policy</a>
       &nbsp;&nbsp;
-      ©2005 PROTRADE <br>						           
+      ©2006 PROTRADE <br>						           
       
-       
+      <br>*All times listed are in Pacific Time unless otherwise specified <br>
+      
+      
+      
+      <br>Athlete Photos: Getty Images (unless otherwise specified)
+      <br>MLB logos provided by MLB.com. © MLB.com. All rights reserved.
     </div>
     
     
@@ -579,9 +455,11 @@ It's third-and-long-- can you ....
 
     window.location = athleteURL;
   }
-  function tickerGameDataClicked(tickerData){
-    pt_GAMEDAY('/gameday/GameDay.jsp?game='+tickerData,'','scrollbars=no,noresize,width=770,height=640');
-  }  
+  function tickerGameDataClicked( tickerData ) {
+    var url = '/gameday/GameDay.jsp?game='+tickerData;
+    var newWindow = window.open( url, 'ProtradeGameDay', 'scrollbars=no,noresize,width=770,height=640');
+    newWindow.focus();
+  }
   </script>
 
   <div id="flashTicker">
@@ -594,7 +472,7 @@ It's third-and-long-- can you ....
   </div>
 
 
-<!-- SVN[ 14040 ] -->
+<!-- SVN[ releases/p10-svn17431 : 84:17899 ] -->
 <!-- handledBy[10.65.64.26] -->
 <script language="JavaScript" type="text/javascript"><!--
 Tapestry.register_form('searchForm');
@@ -603,7 +481,6 @@ Tapestry.register_form('loginForm');
 
 // --></script>
 
-<!-- Render time: ~ 43 ms -->
-
+<!-- Render time: ~ 4 ms -->
 
 </body></html>
