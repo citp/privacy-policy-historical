@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the minyanville.com privacy policy that was archived on 2005-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051217133615id_/http%3A//www.minyanville.com/company/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the minyanville.com privacy policy that was archived on 2006-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615173312id_/http%3A//www.minyanville.com/company/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-<title>Minyanville : Company : Privacy Statement </title>
+<title>Minyanville </title>
 
-
+<script src="/_scrollie.js" language="JavaScript"></script>
 <script src="/_script.js" language="JavaScript"></script>
 <script>
 detectFlash();
@@ -20,321 +20,673 @@ function bOff(obj){
 	if(!obj.style)return;
 	obj.style.borderColor="#333333";
 	obj.style.background="#ffffff";
-	obj.style.color="#333333";	
+	obj.style.color="#333333";
 }
+
+
+function popupViewer(index) {
+	if (index==1) {
+		window.open("http://image.minyanville.com/flash/ourtown/index.html","Book","width=800,height=600,resizable=yes,toolbar=no,scrollbars=no");
+	} else if(index==2) {
+		window.open("http://image.minyanville.com/flash/ourtown/scenicPopup.html","Viewer","width=640,height=400,resizable=yes,toolbar=no,scrollbars=no");
+	}
+}
+
+function print(articleid) {
+	window.open("../articles/print.php?a="+articleid,"print","width=600,height=550,resizable=yes,toolbar=no,scrollbars=yes");
+}
+
+function printBuzz(date) {
+	if (date != "") {
+		window.open("/gazette/buzzbanter/print.php?date="+date,"print","width=600,height=550,resizable=yes,toolbar=no,scrollbars=yes");
+	} else {
+		window.open("/gazette/buzzbanter/print.php","print","width=600,height=550,resizable=yes,toolbar=no,scrollbars=yes");
+	}
+}
+
+function textboxToEmail(element) {
+	if(element.value=='email') {
+		element.value='';
+		var loginbutton = document.getElementById("loginbutton");
+		//alert(loginbutton.disabled);
+		loginbutton.disabled=false;
+		loginbutton.removeAttribute("style");
+		//alert(loginbutton.disabled);
+
+	}
+}
+
+
+function textboxToPassword(element) {
+	// this function is to fix the problem with IE's inability to change form element types on the fly. but firefox can. go firefox.
+	var oldP = document.getElementById(element.id);	//get the existing password textbox
+
+	var oNewP = document.createElement("input"); //create a temp new password box
+	oNewP.setAttribute("name","password");
+	oNewP.setAttribute("id","password");
+	oNewP.setAttribute("type","password"); //mask the input *****
+	oNewP.setAttribute("size","15");
+	oNewP.setAttribute("style","text-align:left;");
+
+	//overwrite existing password textbox with new password box.
+	oldP.parentNode.replaceChild(oNewP,oldP);
+
+	//grab focus of the new password box.
+	//var pbox = document.getElementById("password");
+	document.signinform.password.focus();
+	document.signinform.password.focus();
+}
+
+function showhidediv(id) {
+	var item = document.getElementById(id);  //select the element on the web page
+	if (item.style.display!="none") {
+		item.style.display="none";
+	} else {
+		item.style.display="block";
+	}
+}
+
 </script>
-<link rel="stylesheet" href="/_style.htm?fsize=0&amp;mvpopup=&amp;pfx=" title="fontSize0">
-<link rel="alternate stylesheet" href="/_style.htm?fsize=1&amp;mvpopup=&amp;pfx=" title="fontSize1">
-<link rel="alternate stylesheet" href="/_style.htm?fsize=2&amp;mvpopup=&amp;pfx=" title="fontSize2">
-<link rel="alternate stylesheet" href="/_style.htm?fsize=3&amp;mvpopup=&amp;pfx=" title="fontSize3">
-<link rel="alternate stylesheet" href="/_style.htm?fsize=4&amp;mvpopup=&amp;pfx=" title="fontSize4">
+
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/rss/minyanfeed.php">
+<link rel="stylesheet" href="/_style.htm?fsize=0&amp;mvpopup=&amp;pfx=&amp;title=" fontsize0"="">
+
+<!--<link rel="stylesheet" href="/_style.htm?fsize=0&mvpopup=&pfx=" title="fontSize0">-->
+<!--<link rel="alternate stylesheet" href="/_style.htm?fsize=1&mvpopup=&pfx=" title="fontSize1">-->
+<!--<link rel="alternate stylesheet" href="/_style.htm?fsize=2&mvpopup=&pfx=" title="fontSize2">-->
+<!--<link rel="alternate stylesheet" href="/_style.htm?fsize=3&mvpopup=&pfx=" title="fontSize3">-->
+<!--<link rel="alternate stylesheet" href="/_style.htm?fsize=4&mvpopup=&pfx=" title="fontSize4">-->
+
+
+
+<!--  class to hide certain content from NN4 -->
+<style type="text/css">
+.hide {
+	display: none;
+}
+
+TD.bond{
+	width:10px;
+	text-align:right;
+	vertical-align:middle;
+	}
+
+TD.menu-blue{
+	width:133;
+	height:23;
+	padding:4px 0px 4px 8px;
+	text-align:left;
+	vertical-align:middle;
+	background: url(http://image.minyanville.com/images/blue_bg.gif) left center no-repeat;
+	}
+
+TD.menu-brown{
+	width:133;
+	height:23;
+	padding:4px 0px 4px 8px;
+	text-align:left;
+	vertical-align:middle;
+	background: url(http://image.minyanville.com/images/brown_bg.gif) left center no-repeat;
+	}
+
+.menu-link{
+	font:12px Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	color: #fff;
+	text-decoration: none;
+	display: block;
+
+}
+
+
+a.menu-link:visited{
+	color:#fff;
+	}
+a.menu-link:hover{
+	color:#fff;
+	}
+
+TD.menu-spacer{
+	height:8px;
+	}
+
+TD.menu-spacer-small{
+	height:2px;
+	}
+
+
+</style>
+
+<link rel="stylesheet" href="/css/main.css" type="text/css">
+<style type="text/css">
+
+</style>
+
 </head>
-<body topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0" marginheight="0" marginwidth="0" onload="preload('http://64.41.72.234/space.gif','http://64.41.72.234/assets/nav/main-town_hall-on.gif','http://64.41.72.234/assets/nav/main-gazette-on.gif','http://64.41.72.234/assets/nav/main-university-on.gif','http://64.41.72.234/assets/nav/main-schoolhouse-on.gif','http://64.41.72.234/assets/nav/main-library-on.gif','http://64.41.72.234/assets/nav/main-minyanwood-on.gif','http://64.41.72.234/assets/nav/main-shops-on.gif','http://64.41.72.234/assets/nav/main-mpm-over.gif','http://64.41.72.234/assets/nav/sub-hall_of_records-over.gif','http://64.41.72.234/assets/nav/sub-story_of_mv-over.gif','http://64.41.72.234/assets/nav/sub-character_bios-over.gif','http://64.41.72.234/assets/nav/sub-news_and_views-over.gif','http://64.41.72.234/assets/nav/sub-buzz_and_banter-over.gif','http://64.41.72.234/assets/nav/sub-trading-over.gif','http://64.41.72.234/assets/nav/sub-derivatives-over.gif','http://64.41.72.234/assets/nav/sub-fix_income-over.gif','http://64.41.72.234/assets/nav/sub-technicals-over.gif','http://64.41.72.234/assets/nav/sub-fundamentals-over.gif','http://64.41.72.234/assets/nav/sub-commodities-over.gif','http://64.41.72.234/assets/nav/sub-search_archive-over.gif','http://64.41.72.234/assets/nav/sub-dictionary-over.gif','http://64.41.72.234/assets/nav/sub-rp_foundation-over.gif','http://64.41.72.234/assets/nav/sub-spirited_sweets-over.gif','http://64.41.72.234/assets/nav/sub-toddos_toys-over.gif','http://64.41.72.234/assets/nav/sub-harrisons-over.gif','http://64.41.72.234/assets/nav/sub-gallery_of_art-over.gif');" background="http://64.41.72.234/assets/bgtile.gif" onbeforecopy="copyHandler()">
-	<script>
-	function clickIE4(){
-		if (event.button==2 || event.button==3){
-			return false;
-		}
-	}
+<body style="padding-right:0px; margin-right:0px;" onload="initScroll(9,470);" onunload="stopScroll();">
+
+
+
+<div id="main-container"><!-- main container that ends in _footer.html -->
+
+<!-- BEGIN LOGO/BANNER area -->
+	<table id="header" cellspacing="0" cellpadding="0" border="0">
+	<tbody><tr>
+	<td width="30">&nbsp;</td>
+	<td width="188"><a href="/"><img src="http://image.minyanville.com/images/logo.gif" width="188" height="65" border="0" alt=""></a></td>
+	<td rowspan="2" class="banner">
 	
-	function clickNS4(e){
-		if (document.layers||document.getElementById&&!document.all){
-			if (e.which==2||e.which==3){
-				return false;
+		  	<a href="http://www.thomson.com/financial" target="blank"><img src="/images/Thomson_728x90_white.gif" border="0" alt=""></a>
+
+		  	<!--<a href="http://www.thomson.com/financial" target="blank"><img src="/images/Thomson_728x90_white.gif" border="0" alt="" /></a> -->
+	</td>
+	</tr>
+	<tr>
+	<td><img src="http://image.minyanville.com/images/left_menu_top.gif" width="12" height="31" border="0" alt=""></td>
+	<td><img src="http://image.minyanville.com/images/slogan.gif" width="188" height="30" border="0" alt=""></td>
+	</tr>
+	</tbody></table>
+
+
+<!-- END LOGO/BANNER area -->
+
+
+<!-- BEGIN LEFT COLUMN ---------------------------- -->
+
+	<table id="content-container" cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+	<!-- begin left area/menu -->
+	<td id="content-l">
+	    <img src="http://image.minyanville.com/images/left_menu_top1.gif" width="12" height="23" border="0" alt=""><br>
+				  	<table width="141" cellpadding="0" cellspacing="0" border="0">
+		  	<tbody><tr>
+				<td class="bond"><img src="http://image.minyanville.com/images/bond.gif"></td>
+				<td class="menu-blue"><a href="/register/" class="menu-link">JOIN US</a></td>
+			</tr>
+			<tr>
+				<td colspan="2" class="menu-spacer-small"></td>
+			</tr>
+			<tr>
+				<td class="bond"><img src="http://image.minyanville.com/images/bond.gif"></td>
+				<!-- <td class="menu-blue"><a href="#" class="menu-link" onClick=window.open("/gazette/buzzbanter/home.htm","Banter","width=300,height=500,resizable=yes,toolbar=no,scrollbars=no")>BUZZ &amp; BANTER</a></td> -->
+
+				<td class="menu-blue"><a href="#" class="menu-link" onclick="window.open(&quot;/gazette/buzzbanter/home.htm&quot;,&quot;Banter&quot;,&quot;width=300,height=500,resizable=yes,toolbar=no,scrollbars=no&quot;)">BUZZ &amp; BANTER</a></td>
+
+
+			</tr>
+			<tr>
+				<td colspan="2" class="menu-spacer"></td>
+			</tr>
+
+		  	<tr>
+				<td class="bond"><img src="http://image.minyanville.com/images/bond.gif"></td>
+				<td class="menu-blue"><a href="/news_views/" class="menu-link">NEWS &amp; VIEWS</a></td>
+			</tr>
+		  </tbody></table>
+		<ul id="left-nav">
+		  <li class="submenu-blue">
+		    <ul class="ul-submenu">
+			  <li class="submenu"><p><a href="/personalfinance/">Personal Finance</a><img class="separator" src="http://image.minyanville.com/images/white_line.gif" width="116" height="1" alt=""></p></li>
+			  <li class="submenu"><p><a href="/technicals/">Technicals</a><img class="separator" src="http://image.minyanville.com/images/white_line.gif" width="116" height="1" alt=""></p></li>
+			  <li class="submenu"><p><a href="/economy/">Economy</a><img class="separator" src="http://image.minyanville.com/images/white_line.gif" width="116" height="1" alt=""></p></li>
+			  <li class="submenu"><p><a href="/derivatives/">Derivatives</a><img class="separator" src="http://image.minyanville.com/images/white_line.gif" width="116" height="1" alt=""></p></li>
+			  <li class="submenu"><p><a href="/fundamentals/">Fundamentals</a><img class="separator" src="http://image.minyanville.com/images/white_line.gif" width="116" height="1" alt=""></p></li>
+			  <li class="submenu"><p><a href="/tradingradar/">Trading Radar</a><img class="separator" src="http://image.minyanville.com/images/white_line.gif" width="116" height="1" alt=""></p></li>
+			  <li class="submenu"><p><a href="/pointfigure/">Point &amp; Go Figure</a><img class="separator" src="http://image.minyanville.com/images/white_line.gif" width="116" height="1" alt=""></p></li>
+			  <li class="submenu"><p><a href="/retailroundup/">Retail Roundup</a></p></li>
+			</ul>
+		 </li>
+		  </ul>
+
+
+		  	<table width="141" cellpadding="0" cellspacing="0" border="0">
+		  	<tbody><tr>
+				<td class="bond"><img src="http://image.minyanville.com/images/bond.gif"></td>
+				<td class="menu-blue"><a href="/gazette/bios.htm" class="menu-link">PROFESSORS</a></td>
+			</tr>
+			<tr>
+				<td colspan="2" class="menu-spacer"></td>
+			</tr>
+
+			<tr>
+				<td class="bond"><img src="http://image.minyanville.com/images/bond.gif"></td>
+				<td class="menu-brown"><a href="/university/" class="menu-link">UNIVERSITY OF MV</a></td>
+			</tr>
+			<tr>
+				<td colspan="2" class="menu-spacer"></td>
+			</tr>
+
+		  	<tr>
+				<td class="bond"><img src="http://image.minyanville.com/images/bond.gif"></td>
+				<td class="menu-brown"><a href="/library/search.htm" class="menu-link">ARCHIVE</a></td>
+			</tr>
+			<tr>
+				<td colspan="2" class="menu-spacer"></td>
+			</tr>
+
+			<tr>
+				<td class="bond"><img src="http://image.minyanville.com/images/bond.gif"></td>
+				<td class="menu-brown"><a href="/library/dictionary.htm" class="menu-link">DICTIONARY</a></td>
+			</tr>
+		  </tbody></table>
+
+
+
+
+
+        <ul id="left-nav">
+
+
+		  <li class="mail"><p><a href="/mailbag/">Minyan <br>Mailbag</a></p></li>
+		  </ul>
+
+		  <div id="town-area">
+		  <ul id="left-nav">
+		  <li class="main-slate"><a href="#" class="menu-link" onclick="window.open(&quot;http://image.minyanville.com/flash/ourtown/index.html&quot;,&quot;ourTown&quot;,&quot;width=800,height=600,resizable=yes,toolbar=no,scrollbars=no&quot;)"><p style="text-decoration:none;">OUR <br>TOWN</p></a></li>
+		  <li class="slate"><p><a href="/company/events.php">EVENTS</a></p></li>
+		  <li class="chain">&nbsp;</li>
+		  <li class="slate"><p><a href="/company/press.htm">PRESS</a></p></li>
+		  <li class="chain">&nbsp;</li>
+		  <li class="slate"><p><a href="/shops/">SHOPPING</a></p></li>
+		  <li class="cart">0 items in cart</li>
+
+		  <li class="adv">
+		  
+		  	<img class="dma" src="http://image.minyanville.com/images/mv_town_tall_sign.gif" alt=""></li>
+
+		  
+		  </ul>
+		  </div>
+
+	</td>
+	<!-- end left area/menu -->
+
+
+
+<!-- END LEFT COLUMN  -->
+
+
+<!-- center area/main content -->
+	<td id="content-c">
+
+		<!-- begin LOGIN AND SEARCH AREA -->
+		<div id="util">
+
+		  <script>
+			var minimized = false;
+			function collapse(id) {
+				var item = document.getElementById(id);  //select the element on the web page
+				if (item.style.display!="none") {
+					item.style.display="none";
+					document.getElementById("controllerLink").innerHTML = "Show Movie";
+				} else {
+					item.style.display="block";
+					document.getElementById("controllerLink").innerHTML = "Hide Movie";
+				}
 			}
-		}
-	}
-		document.onselectstart=new Function("return false");
-	if(document.layers){
-		document.captureEvents(Event.MOUSEDOWN);
-		document.onmousedown=clickNS4;
-	}else if(document.all&&!document.getElementById){
-		document.onmousedown=clickIE4;
-		document.oncontextmenu=clickIE4;
-	}else if(window.sidebar){//ns6
-		void(0);
-	}
-		</script>
-<table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+			</script>
 
-<tbody><tr valign="top" class="pageheader" id="topheader" height="100">
-<td colspan="100">
-	<table cellpadding="0" cellspacing="0" border="0" width="878">
-	<tbody><tr>
-	<td width="4"><img src="http://64.41.72.234/space.gif" height="1" width="4" border="0"></td>
-	<td width="166" valign="top"><a href="/"><img src="http://64.41.72.234/assets/logo_spring.gif" border="0"></a></td>
-	
-	<td width="708" align="center" height="100">
-				<div id="bannerholder"><!-- this is different than banneradholder on purpose! -->
-		<img src="/assets/Companybanner.jpg">
+			<table cellspacing="0" cellpadding="5" summary="login" border="0" id="util-forms">
+			<tbody><tr><td class="login" width="100%">
+
+		  	<form method="post" action="/auth-2.htm" name="signinform">
+					<table cellspacing="0" cellpadding="0" border="0" summary="login"><tbody><tr>
+										<td class="lt"><input type="text" size="15" maxlength="255" style="text-align:left;" name="email" onfocus="javascript:textboxToEmail(this)" value="email" id="email" title''=""></td>
+					<td class="lt"><input type="text" size="15" name="password" maxlength="255" style="text-align:left;" onfocus="javascript:textboxToPassword(this)" value="password" id="password"></td>
+					<td class="lt"><input type="image" id="loginbutton" src="http://image.minyanville.com/images/btn_login.gif" alt="" disabled="true"></td>
+										</tr></tbody></table>
+		  </form>
+		  </td><td class="search">
+
+		  <form method="post" name="searchFrm" action="/library/search.htm?search=Article&amp;advanced=1&amp;mo=&amp;day=&amp;year=&amp;contrib_id=&amp;category_id=">
+		    <table cellspacing="2" cellpadding="0" border="0" summary="login"><tbody><tr>
+			<td class="lm"><p>SEARCH</p></td>
+
+			<td class="lt"><input type="text" size="15" style="text-align:left" name="q"></td>
+			<td class="lt"><input type="image" src="http://image.minyanville.com/images/btn_go.gif" width="42" height="19" alt="">
+
+			</td>
+			</tr></tbody></table>
+		  </form>
+		  </td></tr>
+		  <tr>
+		  
+
+		  <td>
+		  	<input type="checkbox" style="border:none;" name="setcookie" id="autologinbox"><img src="http://image.minyanville.com/space.gif" height="1" width="5" border="0">		  	<label style="font-size:xx-small" for="autologinbox">Remember my Member ID and password on this computer.</label>
+
+		  	<a href="/register">REGISTER</a>&nbsp;&nbsp;&nbsp;<a href="/register/forgotpass.htm">FORGOT PASSWORD?</a>
+		  </td>
+
+
+		  		  <td valign="bottom"><br>
+		 		 </td>
+		 </tr>
+
+		  </tbody></table>
+
 		</div>
-		
-	</td>
+
+	<!-- END LOGIN AND SEARCH area -->
 	
-	<td>&nbsp;</td>
-	</tr>
-	</tbody></table>
-</td>
-</tr>
-
-
-<tr class="pageheader" height="1">
-<td width="4"><img src="http://64.41.72.234/space.gif" height="1" width="4" border="0"></td>
-<td width="138"><img src="http://64.41.72.234/space.gif" height="1" width="138" border="0"></td>
-<td width="4"><img src="http://64.41.72.234/space.gif" height="1" width="4" border="0"></td>
-<td width="24"><img src="http://64.41.72.234/space.gif" height="1" width="24" border="0"></td><td width="708"><img src="http://64.41.72.234/space.gif" height="1" width="708" border="0"></td>
-<td width="100%"><img src="http://64.41.72.234/space.gif" height="1" width="1" border="0"></td>
-</tr>
-
-<!--very important to page's layout-->
-
-<!--very important to page's layout-->
-<tr valign="top" height="1">
-
-<!--left column-->
-<td class="leftnavpinleft" valign="top" width="3"><img src="http://64.41.72.234/assets/leftcorner.gif" border="0" width="3" height="4"></td>
-<td align="center" class="leftnavbg2" style="background-image:url('http://64.41.72.234/assets/bgtiletop.gif');background-repeat:repeat-x;">
-<div class="leftnavpintop" style="width:101%"><img src="http://64.41.72.234/space.gif" height="4" width="1" border="0"></div>
-<!--left navigation-->
-
-
-<!--search box-->
-
-	
-	<table width="135" border="0" cellpadding="0" cellspacing="0" style="margin-top:4px">
-	<tbody><tr>
-	<td><img src="http://64.41.72.234/assets/nav/box-blue-top.gif" border="0"></td>
-	</tr>
-	<tr>
-	<td style="background-image:url('http://64.41.72.234/assets/nav/box-blue-tile.gif');background-repeat:repeat-y">
-		<div class="leftnavboxpad">
-	<img src="http://64.41.72.234/assets/nav/label-blue-search_keyword.gif" border="0">
-	<table cellpadding="0" cellspacing="0" border="0">
-	<form moethod="get" action="/library/search.htm" name="lnavsearch"></form>
-	<tbody><tr>
-	<td><input class="textinput" type="text" size="15" maxlength="30" name="q" value="" style="width:80px" id="q" title="" onmouseover="void(this.title=this.value)"></td>
-	<td valign="middle"><a href="javascript:validateLnavSearch()" onmouseover="rollOver('i1043515801','http://64.41.72.234/assets/nav/button-blue-go-over.gif')" onmouseout="rollOut()"><img name="i1043515801" src="http://64.41.72.234/assets/nav/button-blue-go.gif" border="0" width="28" height="17"></a></td>
-	</tr>
-	
-	</tbody></table>
-	</div>
-	
-	</td>
-	</tr>
-	<tr>
-	<td><img src="http://64.41.72.234/assets/nav/box-blue-bottom.gif" border="0"></td>
-	</tr>
-	</tbody></table>
-	
-	
-	
-<!--/end search box-->
-
-
-
-<img src="http://64.41.72.234/space.gif" height="7" width="1" border="0"><br>
-
-<table width="129" border="0" cellspacing="0" cellpadding="0">
-
-<tbody><tr>	
-<td><a href="/gazette/" onmouseover="rollOver('i2009285556','http://64.41.72.234/assets/nav/main-gazette-on.gif')" onmouseout="rollOut()"><img name="i2009285556" src="http://64.41.72.234/assets/nav/main-gazette.gif" border="0" width="140" height="26"></a></td>
-</tr>
-
-<tr><td><img src="http://64.41.72.234/space.gif" height="3" width="1" border="0"></td></tr>
-
-
-
-
-<tr>	
-<td><a href="/university/" onmouseover="rollOver('i359669591','http://64.41.72.234/assets/nav/main-university-on.gif')" onmouseout="rollOut()"><img name="i359669591" src="http://64.41.72.234/assets/nav/main-university.gif" border="0" width="140" height="26"></a></td>
-</tr>
-
-<tr><td><img src="http://64.41.72.234/space.gif" height="3" width="1" border="0"></td></tr>
-
-
-<tr>
-<td><a href="/library/" onmouseover="rollOver('i1170607864','http://64.41.72.234/assets/nav/main-library-on.gif')" onmouseout="rollOut()"><img name="i1170607864" src="http://64.41.72.234/assets/nav/main-library.gif" border="0" width="140" height="26"></a></td>
-</tr>
-
-<tr><td><img src="http://64.41.72.234/space.gif" height="3" width="1" border="0"></td></tr>
-
-
-
-<tr>	
-<td><a href="/schoolhouse/" onmouseover="rollOver('i1666838735','http://64.41.72.234/assets/nav/main-schoolhouse-on.gif')" onmouseout="rollOut()"><img name="i1666838735" src="http://64.41.72.234/assets/nav/main-schoolhouse.gif" border="0" width="140" height="26"></a></td>
-</tr>
-<tr><td><img src="http://64.41.72.234/space.gif" height="3" width="1" border="0"></td></tr>
-
-
-
-
-<tr><td><a href="/shops/" onmouseover="rollOver('i1393013889','http://64.41.72.234/assets/nav/main-shops-over.gif')" onmouseout="rollOut()"><img name="i1393013889" src="http://64.41.72.234/assets/nav/main-shops.gif" border="0" width="140" height="26"></a></td>
-</tr>
-<tr>
-
-
-
-</tr><tr>	
-<td><a href="/ourtown.htm" onmouseover="rollOver('i1008500351','http://64.41.72.234/assets/nav/main-our_town-on.gif')" onmouseout="rollOut()"><img name="i1008500351" src="http://64.41.72.234/assets/nav/main-our_town.gif" border="0" width="140" height="26"></a></td>
-</tr>
-<tr><td><img src="http://64.41.72.234/space.gif" height="3" width="1" border="0"></td></tr>
-
-
-
-<!-- <tr>	
-<td><a href="/townhall/" onmouseover="rollOver('i1503933490','http://64.41.72.234/assets/nav/main-town_hall-on.gif')" onmouseout="rollOut()"><img name="i1503933490" src="http://64.41.72.234/assets/nav/main-town_hall.gif" border=0   width=140 height=26></a></td>
-</tr>
-	
-<TR><TD><img src="http://64.41.72.234/space.gif" height="3" width="1" border=0></TD></TR> -->
-	
-
-
-
-
-
-
-<!-- 
-<tr>	
-<td><a href="/reporter/" onmouseover="rollOver('i164420267','http://64.41.72.234/assets/nav/main-minyanwood-on.gif')" onmouseout="rollOut()"><img name="i164420267" src="http://64.41.72.234/assets/nav/main-minyanwood.gif" border=0   width=140 height=26></a></td>
-</tr>
-
-<TR><TD><img src="http://64.41.72.234/space.gif" height="3" width="1" border=0></TD></TR> -->
-
-
-
-<!-- <TR><TD><img src="http://64.41.72.234/space.gif" height="3" width="1" border=0></TD></TR>
-
-<td><a href="/company/" onmouseover="rollOver('i1446480464','http://64.41.72.234/assets/nav/main-mpm-on.gif')" onmouseout="rollOut()"><img name="i1446480464" src="http://64.41.72.234/assets/nav/main-mpm-on.gif" border=0   width=140 height=26></a></td>
-</tr>
-	<TR valign=top>
-	<TD>
-	<div class=subnavcontent>
-	<a href="/company/help.htm" onmouseover="rollOver('i1787092543','http://64.41.72.234/assets/nav/sub-faqs-over.gif')" onmouseout="rollOut()"><img name="i1787092543" src="http://64.41.72.234/assets/nav/sub-faqs.gif" border=0   width=140 height=18></a><br>
-	<a href="/company/contact.htm?subject=Strategic Alliance Information" onmouseover="rollOver('i1059524423','http://64.41.72.234/assets/nav/sub-strategic_alliance-over.gif')" onmouseout="rollOut()"><img name="i1059524423" src="http://64.41.72.234/assets/nav/sub-strategic_alliance.gif" border=0   width=140 height=18></a><br>
-	<a href="/company/contact.htm?subject=Advertiser Information" onmouseover="rollOver('i1397535497','http://64.41.72.234/assets/nav/sub-advertising-over.gif')" onmouseout="rollOut()"><img name="i1397535497" src="http://64.41.72.234/assets/nav/sub-advertising.gif" border=0   width=140 height=18></a><br>
-	<a href="/company/press.htm" onmouseover="rollOver('i1732305773','http://64.41.72.234/assets/nav/sub-press_release-over.gif')" onmouseout="rollOut()"><img name="i1732305773" src="http://64.41.72.234/assets/nav/sub-press_release.gif" border=0   width=140 height=18></a><br>
-	</div>
-	</TD>
-	</TR>
-<TR> -->
-
-
-</tbody></table>
-<!--/end left navigation-->	
-
-<img src="http://64.41.72.234/space.gif" height="7" width="1" border="0"><br>
-
-<!--login box-->
-	<table width="135" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-	<td><img src="http://64.41.72.234/assets/nav/box-pink-top.gif" border="0"></td>
-	</tr>
-	<tr>
-	<td style="background-image:url('http://64.41.72.234/assets/nav/box-pink-tile.gif');background-repeat:repeat-y">
-		<div class="leftnavboxpad">
-					<a href="/register/" onmouseover="rollOver('i1770872687','http://64.41.72.234/assets/nav/button-pink-login-over.gif')" onmouseout="rollOut()"><img name="i1770872687" src="http://64.41.72.234/assets/nav/button-pink-login.gif" border="0" width="46" height="16"></a>
-			<br><br>
-			<a href="/register/"><img src="http://64.41.72.234/assets/nav/label-pink-register_now.gif" border="0"></a><br><img src="http://64.41.72.234/space.gif" height="3" width="1" border="0"><br>
-			<a class="small" href="/register/forgotpass.htm">Forget your password?</a>			
-					</div>
-	</td>
-	</tr>
-	<tr>
-	<td><img src="http://64.41.72.234/assets/nav/box-pink-bottom.gif" border="0"></td>
-	</tr>
-	</tbody></table>
-	
-<!--/end login box-->
-
-	<img src="http://64.41.72.234/space.gif" height="7" width="1" border="0"><br>
-
-
-<!-- shopping box -->
-	<table width="135" cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>
-	<td><img src="http://64.41.72.234/assets/nav/box-peach-top.gif" border="0"></td>
-	</tr>
-	<tr>
-	<td style="background-image:url('http://64.41.72.234/assets/nav/box-peach-tile.gif');background-repeat:repeat-y">
-	<div class="leftnavboxpad">
-		<img src="http://64.41.72.234/assets/nav/label-peach-shopping_cart.gif" border="0"><br>
-		<a href="/shops/harrisons.htm"><img src="http://64.41.72.234/assets/shirts_anim.gif" border="0" style="margin-top:2px;margin-bottom:2px"></a>
-		Your cart is empty		</div>
-	</td>
-	</tr>
+<table id="home-news" cellpadding="0" cellspacing="0" width="100%"><tbody><tr>
+		<td width="10"><img src="../images/lc.gif" width="10" alt=""></td>
+		<td class="top"><img src="/images/10x1.gif"></td>
+		<td width="13"><img src="../images/cr.gif" width="13" alt=""></td>
+		</tr>
 		<tr>
-	<td><img src="http://64.41.72.234/assets/nav/box-peach-bottom.gif" border="0"></td>
+		<td class="left-border">&nbsp;</td>
+		<td>
+		  <div id="home-news-main">
+		    <div id="home-news-content">
+			  
+				<div>
+					
+					  <h1>PRIVACY POLICY</h1>
+			  <p class="simple-separator">&nbsp;</p>
+			  <h3>Sunday February 5, 2006</h3>
+			  <p class="double-separator">&nbsp;</p>
+
+			  <br>
+	<strong>MINYANVILLE.COM PRIVACY STATEMENT</strong> <br><br>The Privacy
+Statement was last updated January 14th, 2006.<br><br> Minyanville.com is
+committed to safeguarding your privacy online. Please read the
+following statement to understand how your personal information will
+be treated as you make full use of the Minyanville.com Web site. The
+Minyanville.com Web site is owned and operated by Minyanville
+Publishing and Multimedia, LLC. <br><br><strong>Gathering of
+Information</strong> <br><br><strong>Personal Information</strong>
+<br><br>Minyanville.com collects personally identifying information
+from two categories of Minyanville.com Web site users. Personal
+information about paying subscribers is collected as well as from
+non-paying subscribers (for example, students are $10.00 with an .edu
+address). In addition, we may ask you for additional information when
+you register to receive a newsletter or so we can better understand
+our user base to constantly upgrade and improve the Minyanville
+service. You always have the option not to provide the additional
+information we request. If you choose not to provide the additional
+information we request, you can still visit most of the
+Minyanville.com Web site, but you may be unable to access certain
+options and services. <br><br><strong>Cookies</strong> <br><br>A
+cookie is a data file that certain Web sites write to your computer's
+hard drive when you visit such sites. A cookie file can contain
+information, such as a user identification code, that the site uses to
+track the pages you have visited. Minyanville.com uses cookies solely
+to track user traffic patterns throughout the Minyanville.com Web
+site. We use this data on an anonymous basis and we do not correlate
+this information with personal data of any user. The acceptance of
+cookies allows the subscriber to experience a more streamlined and/or
+enhanced navigation to the content on the site.<br><br>Most Web site
+browsers automatically accept cookies, but you can usually change your
+browser settings to display a warning before accepting a cookie, or to
+refuse all cookies. However, if you choose to disable the receipt of
+cookies from our Web site, you may not be able to use certain features
+of the site.  <br><br><strong>Browser Level Information</strong>
+
+<br><br>Minyanville.com Web servers automatically collect information
+about a site user's IP address, browser type and referrer by reading
+this information from the user's browser (information provided by
+every user's browser). This information is collected in a database and
+used--in an aggregated, anonymous manner--in our internal analysis of
+traffic patterns within our Web site. This information is
+automatically logged by most Web sites.<br><br><strong>Use of
+Information</strong> <br><br>All information collected is for the
+building of a subscriber database to validate used id's and passwords
+as well as to solicit sales or offerings of additional Minyanville
+products. Generally, the Minyanville database of paying or non-paying
+subscribers will not be sold or shared with third parties except when
+we believe that the law requires it or a regulatory entity requests
+it, to protect other users of the Minyanville.com site or in emergency
+or extenuating circumstances. <br><br>One of our goals in collecting
+user information is to enhance your experience on our Web site. We
+achieve this goal by, among other things, providing interactive
+communications such as our electronic newsletters to the e-mail
+address that you provide to us, and developing future editorial
+content based on your interests. You are always entitled to
+unsubscribe to certain email communications though the ÒManage
+AccountÓ link. To develop content targeted to your interests, we use
+aggregated user information to determine which areas of our Web site
+users prefer based upon traffic to those areas. We do not track what
+individual users read, but instead how well each page or content area
+performs overall. <br><br>Minyanville.com may derive revenue from
+advertising. In order to attract and retain advertisers we may use the
+aggregated, anonymous information that we gather (as well as
+information from third-party market researchers) to describe our
+services to partners and to assist our advertisers and sponsors to
+better understand our audience. <strong>We do not disclose personally
+identifying information about our users.</strong>
+<br><br>Minyanville.com may also disclose information about our users
+when we believe, in good faith, that the disclosure is required by
+law. <br><br>When you are on an area of Minyanville.com and are asked
+for personal information, you are sharing that information with
+Minyanville.com as well as business partners and vendors providing
+hosting and other services for Minyanville.com. If you do not want
+your information to be shared, you can choose not to allow the
+transfer of your information by not using that particular service.
+These parties, as well as advertisers who contract directly with a
+third-party service to serve their advertisements, may set their own
+cookies.<br><br>In addition, any personally identifiable information
+provided by our users as part of an advertiser promotion online may be
+provided directly to advertisers. <br><br>Please be aware that
+advertisers or Web sites that have links on our site may collect
+personally identifiable information about you. The information
+practices of those parties and Web sites linked to Minyanville.com are
+not covered by this privacy statement. Minyanville.com users should
+also be aware that, when you voluntarily disclose personal information
+in chat areas or bulletin boards, that information may be collected by
+others and may result in unsolicited messages from others.
+<br><br>This statement may change from time to time, so please check
+back periodically. <br><br>© 2006 Minyanville Publishing and
+Multimedia, LLC. All Rights Reserved.
+<br><br><strong>DEFINITIONS</strong>: <br><br><strong>IP
+address</strong>: Every computer connected to the Internet has a
+numeric address called an “IP address." This may or may not correspond
+uniquely to a particular computer. In some cases, IP addresses can be
+resolved to domain names, which may indicate a site visitor's Internet
+service provider, employer, university, etc. As part of its database
+analysis Minyanville.com resolves IP addresses to domain names.
+
+<br><br><strong>Browser type</strong>: A user’s browser is a software
+program running on a computer that allows users to access documents on
+the World Wide Web. Browsers can be either text or graphic. They read
+HTML coded pages that reside on a server and interpret the coding into
+what the user sees as Web pages. Netscape Navigator and Microsoft
+Internet Explorer are examples of Web browsers. Browser type typically
+discloses hardware platform, operating system, and browser software
+and version. <br><br><strong>Referrer</strong>: The referrer is the
+URI of the Internet resource or page that causes a browser to request
+a page or image from Minyanville.com servers. <br><br>	<br>
+
+				</div>
+
+							</div>
+		  </div> 
+		</td>
+		<td class="right-border">&nbsp;</td></tr>
+		<tr>
+		<td><img src="../images/lr_corner.gif" width="10" alt=""></td>
+		<td class="bottom"><img src="/images/10x1.gif"></td>
+		<td><img src="../images/rb_corner.gif" width="13" alt=""></td>
+		</tr></tbody></table>
+
+	<!-- begin footer area -->
+		<div id="footer">
+		
+		  <p><a href="/company/">About us</a> <img src="http://image.minyanville.com/images/footer_square.gif" alt=""> <a href="/company/contact.htm">Contact Us</a> 
+		  <img src="http://image.minyanville.com/images/footer_square.gif" alt=""> <a href="/company/help.htm">Help</a> <img src="http://image.minyanville.com/images/footer_square.gif" alt=""> <a href="/company/privacy.htm">Privacy Policy</a> 
+		  <img src="http://image.minyanville.com/images/footer_square.gif" alt=""> <a href="/company/substerms.htm">Subscription and Terms of Use</a> <img src="http://image.minyanville.com/images/footer_square.gif" alt=""> <a href="/company/disclaimers.htm">Disclaimers</a></p>
+		  <p>©2006 Minyanville Publishing and Multimedia, LLC.  All Rights Reserved</p> <a href="/rss/"><img src="/rss/rss-logo.gif" border="0"></a>
+			
+		</div>
+		<!-- end begin footer area -->
+	
+	</td>
+	
+	<!-- right area/portlets -->
+	<td id="content-r">
+	<img src="http://image.minyanville.com/images/portlet_realtime_top.gif" width="220" border="0" height="75" alt=""><div style="width:220px;"><div id="portlet-realtime">
+	    <div id="portlet-realtime-main">
+			<div id="BANTER">
+				 <div id="BUZZ0" onmouseover="stopScroll();DisplayMsg('headline 1');return document.ReturnValue" onmouseout="startScroll();DisplayMsg(' ');return document.ReturnValue">
+				
+				 </div>
+				
+									<div id="BUZZ1">
+						<h5>Kevin Depew</h5>
+						<h6>1:32 pm</h6>
+						<p>
+						Mini-Minyan Mailbag
+...						
+						</p>
+					</div>
+					
+									<div id="BUZZ2">
+						<h5>Kevin Depew</h5>
+						<h6>1:21 pm</h6>
+						<p>
+						Mini-Minyan Mailbag
+...						
+						</p>
+					</div>
+					
+									<div id="BUZZ3">
+						<h5>Todd Harrison</h5>
+						<h6>1:13 pm</h6>
+						<p>
+						Apocalypse Now?
+Tha...						
+						</p>
+					</div>
+					
+									<div id="BUZZ4">
+						<h5>MV News</h5>
+						<h6>1:08 pm</h6>
+						<p>
+						Duuuude, pass the ch...						
+						</p>
+					</div>
+					
+									<div id="BUZZ5">
+						<h5>Kevin Depew</h5>
+						<h6>12:58 pm</h6>
+						<p>
+						Mini-Minyan Mailbag
+...						
+						</p>
+					</div>
+					
+									<div id="BUZZ6">
+						<h5>Todd Harrison</h5>
+						<h6>12:48 pm</h6>
+						<p>
+						I've got no place le...						
+						</p>
+					</div>
+					
+									<div id="BUZZ7">
+						<h5>MV News</h5>
+						<h6>12:39 pm</h6>
+						<p>
+						A Ford...aww thanks ...						
+						</p>
+					</div>
+					
+									<div id="BUZZ8">
+						<h5>Jason Roney</h5>
+						<h6>12:34 pm</h6>
+						<p>
+						Some quick numbers.....						
+						</p>
+					</div>
+					
+									<div id="BUZZ9">
+						<h5>Kevin Depew</h5>
+						<h6>12:13 pm</h6>
+						<p>
+						Dress Rehearsal
+Min...						
+						</p>
+					</div>
+					
+								
+			 </div>
+		</div>
+		<div id="portlet-realtime-footer"><a href="/register/" class="whiteLink">SUBSCRIBE TO GET THE BUZZ &amp; DOWNLOAD THE APPLICATION</a></div>
+	  </div></div>
+	  
+	   <div id="thePortlets">
+		  					<a href="/gazette/bios.htm" style="padding:0px;margin:0px;"><img style="padding:0px;margin:0px;" src="/images/portlet_profiles_top.gif" alt=""></a><br>
+						  		<div id="portlet-profiles">
+				<div id="portlet-profiles-main">
+									<div id="portlet-profiles-main">
+<table cellspacing="3" cellpadding="3">
+    <tbody>
+        <tr>
+            <td>
+            <div class="profiles-frame"><img width="78" height="78" border="0" src="/assets/bios/Bernie_Schaeffer.jpg" alt=""></div>
+            </td>
+            <td class="title">
+            <p class="lines">&nbsp;</p>
+            <p class="name">Bernie Schaeffer<br></p>
+            <p class="lines">&nbsp;</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<div>Bernie Schaeffer is Chairman and CEO of Schaeffer's Investment Research, Inc. and author of <em><font size="2" color="#333333">The Option Advisor: Wealth-Building Techniques Using Equity and Index Options</font></em>. Mr. Schaeffer has edited the <em><font size="2" color="#333333">Option Advisor</font></em> newsletter since its inception in 1981, and it has since grown to be the nation's leading options newsletter. He also contributed a chapter on sentiment analysis to the Bloomberg Press book, <em><font size="2" color="#333333">New Thinking in Technical Analysis: Trading Models from the Masters</font></em>. In 2003 Bernie penned a chapter on Technical and Sentiment Trading for the Bloomberg Press book, <em><font size="2" color="#333333">Investing Under Fire: Winning Strategies from the Masters for the Bulls, Bears, and the Bewildered.<br><br></font></em>Mr. Schaeffer's award-winning website, <a href="http://www.schaeffersresearch.com/" target="_blank"><font size="2" color="#04517a">SchaeffersResearch.com</font></a>, provides daily market analysis and commentary, sentiment research and education, and trading tools for stock and option investors. Both Forbes magazine and Barron's have accredited the site as the top options website.<br><br>Mr. Schaeffer often contributes option columns and market commentaries to various magazines and websites such as CBSMarketWatch.com. He is a CNBC Market Maven and regularly appears on CNN, The Nightly Business Report, Bloomberg Television, Fox News Channel and has also been interviewed on <em><font size="2" color="#333333">Wall Street Week</font></em> with <em><font size="2" color="#333333">Fortune</font></em> and <em><font size="2" color="#333333">ABC's World News Now</font></em>. His views on the stock market and the economy are regularly quoted in <em><font size="2" color="#333333">The Wall Street Journal, The New York Times, Business Week, Investor's Business Daily, </font></em>and <em><font size="2" color="#333333">USA TODAY.</font></em> Additionally, he has been the subject of "Q&amp;A" interviews in <em><font size="2" color="#333333">Barron's</font></em> and <em><font size="2" color="#333333">The New York Times</font></em>. <br><br>He welcomes your feedback at <a href="mailto:Bernie@minyanville.com"><font size="2" color="#04517a">Bernie@minyanville.com</font></a><br><br></div>
+<br> <a href="http://minyanville.com/library/search.htm?search=Article&amp;advanced=1&amp;q=&amp;mo=&amp;day=&amp;year=&amp;contrib_id=47&amp;category_id=">Check out Bernie Schaeffer's content</a>. <br><a href="http://www.minyanville.com/gazette/bios.htm"><br>Meet more Professors</a>.<br><br></div><br>
+
+								</div>
+				</div>
+									<a href="/university/" style="padding:0px;margin:0px;"><img style="padding:0px;margin:0px;" src="/images/portlet_univ_top.gif" alt=""></a><br>
+						  		<div id="portlet-univ">
+				<div id="portlet-univ-main">
+									<div align="center"><strong><font size="3"><font size="3" color="#772700">Learning &amp; Earning</font></font></strong><br></div>
+<br>At the new <a href="http://www.minyanville.com/university">University of Minyanville</a> you'll find<font face="georgia, times new roman, times"><span style="font-size: 9pt; font-family: Arial; color: rgb(51, 51, 51);"> educational programs grounded in the daily commentary of our       professors and the Minyanville Body of Knowledge. </span><span style="font-size: 9pt; font-family: Arial; color: rgb(51, 51, 51);">       <br>       <br>       Also find out how you can link your institution to the UMV syndicate of       schools.<br><br></span></font><br>
+
+								</div>
+				</div>
+									<a href="/library/search.htm" style="padding:0px;margin:0px;"><img style="padding:0px;margin:0px;" src="/images/portlet_archive_top.gif" alt=""></a><br>
+						  		<div id="portlet-archive">
+				<div id="portlet-archive-main">
+									<div align="center"><font size="2">Search nearly 10,000 articles and over 45,000 real-time Buzz and Banter posts </font><a href="http://www.minyanville.com/library/search.htm"><font size="2">in the Minyanville Archive</font></a><font size="2">.</font><br></div>
+<font size="3"><br></font><br>
+
+								</div>
+				</div>
+									<img src="/images/portlet_partners_top.gif" alt=""><br>
+						  		<div id="portlet-partners">
+				<div id="portlet-partners-main">
+									<p> </p>
+<div align="center"><a href="http://www.sentimentrader.com">Sentimentrader</a><br></div>
+<div align="center"><a href="http://www.erlanger.com">Erlanger Research</a><br></div>
+<div align="center"><a href="http://www.marketwatch.com/commerce/RealityCheck.asp?siteid=mktw&amp;dist=LAtabstore">Reality Check</a><br></div>
+<div align="center"><a href="http://www.biotechmonthly.com">Biotech Monthly</a><br></div>
+<div align="center"><a href="http://www.insideoptions.com">Inside Options</a><br></div>
+<div align="center"><a href="http://www.bullseyeresearch.com">Bulls Eye Research</a><br></div>
+<div align="center"><a href="http://www.schaeffersresearch.com/">Schaeffer Investment Research</a> <br></div>
+<div align="center"><a href="http://www.globaltechstocks.com">Global Tech Stocks</a><br></div>
+<div align="center"><a href="http://www.mshowells.com ">M.S. Howell's Co.<br></a><a href="http://weldononline.com/">Weldon Financial</a><br><br></div><br>
+
+								</div>
+				</div>
+					  </div>
+	</td>
+	
+	
 	</tr>
 	</tbody></table>
-	
-<!--/end shopping box-->
-	
-	<img src="http://64.41.72.234/space.gif" height="7" width="1" border="0"><br>
 
 
 
 
-<br><br>
-
-
-
-
-</td>
-<!--/end left column-->
-<td class="leftnavpinright" valign="top" width="3"><img src="http://64.41.72.234/assets/rightcorner.gif" border="0" width="3" height="4"></td>
-<td>&nbsp;</td><td class="pageheader"><a name="top"></a>
-<!--center column-->
-	<img src="http://64.41.72.234/space.gif" height="16" width="1" border="0">	
-<div class="journalday">Privacy Statement</div>
-<br>
-<div class="compseparator"><div class="slimpadding">&nbsp;</div></div>
-	<div class="padding">
-
-	<strong>MINYANVILLE.COM PRIVACY STATEMENT</strong> <br><br>Minyanville.com is committed to safeguarding your privacy online. Please read the following statement to understand how your personal information will be treated as you make full use of the Minyanville.com Web site. The Minyanville.com Web site is owned and operated by Minyanville Publishing and Multimedia, Inc. <br><br><strong>Gathering of Information</strong> <br><br><strong>Personal Information</strong> <br><br>Minyanville.com collects personally identifying information from two categories of Minyanville.com Web site users. Personal information about paying subscribers is collected as well as from non-paying subscribers (for example, students are free with an .edu address). In addition, we may ask you for additional information when you register for a contest or survey or to receive a newsletter. You always have the option not to provide the additional information we request. If you choose not to provide the additional information we request, you can still visit most of the Minyanville.com Web site, but you may be unable to access certain options and services. <br><br><strong>Cookies</strong> <br><br>A cookie is a data file that certain Web sites write to your computer's hard drive when you visit such sites. A cookie file can contain information, such as a user identification code, that the site uses to track the pages you have visited. Minyanville.com uses cookies solely to track user traffic patterns throughout the Minyanville.com Web site. We use this data on an anonymous basis and we do not correlate this information with personal data of any user. The acceptance of cookies allows the subscriber to experience a more streamlined and/or enhanced navigation to the content on the site. <br><br>Most Web site browsers automatically accept cookies, but you can usually change your browser settings to display a warning before accepting a cookie, or to refuse all cookies. However, if you choose to disable the receipt of cookies from our Web site, you may not be able to use certain features of the site. <br><br><strong>Browser Level Information</strong> <br><br>Minyanville.com Web servers automatically collect information about a site user's IP address, browser type and referrer by reading this information from the user's browser (information provided by every user's browser). This information is collected in a database and used--in an aggregated, anonymous manner--in our internal analysis of traffic patterns within our Web site. This information is automatically logged by most Web sites. <br><br><strong>Use of Information</strong> <br><br>All information collected is for the building of a subscriber database to validate used id's and passwords as well as to solicit sales or offerings of additional Minyanville products. Generally, the Minyanville database of paying or non-paying subscribers will not be sold or shared with third parties except when we believe that the law requires it or a regulatory entity requests it, to protect other users of the Minyanville.com site or in emergency or extenuating circumstances. <br><br>One of our goals in collecting user information is to enhance your experience on our Web site. We achieve this goal by, among other things, providing interactive communications such as our electronic newsletters to the e-mail address that you provide to us, and developing future editorial content based on your interests. To develop content targeted to your interests, we use aggregated user information to determine which areas of our Web site users prefer based upon traffic to those areas. We do not track what individual users read, but instead how well each page or content area performs overall. <br><br>Minyanville.com may derive revenue from advertising. In order to attract and retain advertisers we may use the aggregated, anonymous information that we gather (as well as information from third-party market researchers) to describe our services to partners and to assist our advertisers and sponsors to better understand our audience. We do not disclose personally identifying information about our users to these parties. <br><br>Minyanville.com may also disclose information about our users when we believe, in good faith, that the disclosure is required by law. <br><br>When you are on an area of Minyanville.com and are asked for personal information, you are sharing that information with Minyanville.com as well as business partners and vendors providing hosting and other services for Minyanville.com. If you do not want your information to be shared, you can choose not to allow the transfer of your information by not using that particular service. These parties, as well as advertisers who contract directly with a third-party service to serve their advertisements, may set their own cookies. <br><br>In addition, any personally identifiable information provided by our users as part of an advertiser promotion online may be provided directly to advertisers. <br><br>Please be aware that advertisers or Web sites that have links on our site may collect personally identifiable information about you. The information practices of those parties and Web sites linked to Minyanville.com are not covered by this privacy statement. Minyanville.com users should also be aware that, when you voluntarily disclose personal information in chat areas or bulletin boards, that information may be collected by others and may result in unsolicited messages from others. <br><br>This statement may change from time to time, so please check back periodically. <br><br>© 2005 Minyanville Publishing and Multimedia, LLC. All Rights Reserved. <br><br><strong>DEFINITIONS</strong>: <br><br><strong>IP address</strong>: Every computer connected to the Internet has a numeric address called an “IP address." This may or may not correspond uniquely to a particular computer. In some cases, IP addresses can be resolved to domain names, which may indicate a site visitor's Internet service provider, employer, university, etc. As part of its database analysis Minyanville.com resolves IP addresses to domain names. <br><br><strong>Browser type</strong>: A user’s browser is a software program running on a computer that allows users to access documents on the World Wide Web. Browsers can be either text or graphic. They read HTML coded pages that reside on a server and interpret the coding into what the user sees as Web pages. Netscape Navigator and Microsoft Internet Explorer are examples of Web browsers. Browser type typically discloses hardware platform, operating system, and browser software and version. <br><br><strong>Referrer</strong>: The referrer is the URI of the Internet resource or page that causes a browser to request a page or image from Minyanville.com servers. <br><br>	
-	
-	</div>
-
-	<div class="compseparator"><div class="slimpadding"><div class="buttons"><div class="topbutton"><a href="#" onmouseover="rollOver('i2008800360','/assets/topover.gif')" onmouseout="rollOut()"><img name="i2008800360" src="/assets/topup.gif" border="0" width="43" height="16"></a></div></div></div></div>
-
-
-<!-- footer -->
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </td>
-<!--/end center column-->
-<td class="pageheader rightside">&nbsp;</td>
-</tr>
-
-<tr>
-<td class="leftnavpinleft"><img src="http://64.41.72.234/space.gif" height="1" width="4" border="0"></td>
-<td class="leftnavbg2">&nbsp;</td>
-<td class="leftnavpinright"><img src="http://64.41.72.234/space.gif" height="1" width="4" border="0"></td>
-<td>&nbsp;</td><td class="pageheader"><br>
-<div class="footer">
-Font Size: 
-	· <a href="javascript:setActiveStyleSheet('fontSize0')" id="fontSize0">1</a>	· <a href="javascript:setActiveStyleSheet('fontSize1')" id="fontSize1">2</a>	· <a href="javascript:setActiveStyleSheet('fontSize2')" id="fontSize2">3</a>	· <a href="javascript:setActiveStyleSheet('fontSize3')" id="fontSize3">4</a>	· <a href="javascript:setActiveStyleSheet('fontSize4')" id="fontSize4">5</a><br>
-<br>
-<a href="/company/">About Us</a> ||
-<a href="/company/help.htm">Help</a> || <a href="/company/privacy.htm">Privacy Policy</a> || <a href="/company/substerms.htm">Subscription Agreement and Terms of Use</a> || <a href="/company/disclaimers.htm">Disclaimers</a>  
-
-<br>
-<br>
-<span class="small">© 2005 Minyanville Publishing and Multimedia, LLC. All Rights Reserved.<br>
-<br>
-<div class="ntfooter" style="font-size:8px">
-Developed and Maintained by <a href="http://www.n-tonic.com/" target="_blank" style="font-size:8px;text-decoration:underline">N-Tonic</a>
-</div>
-</span>
-<br><br>
-</div>
-<br>&nbsp;
-</td>
-<td class="pageheader">&nbsp;</td>
-</tr>
-
-
-</tbody></table>
 
 
 <script src="/__utm.js" languge="JavaScript" type="text/javascript"></script>
+<script src="/_externalLinks.js" languge="JavaScript" type="text/javascript"></script>
+</div> <!-- end main container that began on _header.html) -->
+
 
 
 
