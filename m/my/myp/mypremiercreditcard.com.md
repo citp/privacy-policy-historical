@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mypremiercreditcard.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211122626id_/http%3A//www.mypremiercreditcard.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypremiercreditcard.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615030352id_/http%3A//mypremiercreditcard.com/privacy.aspx) for the most accurate reproduction.*
 
 # PREMIER Bankcard Privacy Statement
 
@@ -18,6 +18,6 @@ We do not knowingly solicit data from children and we do not knowingly market to
 
 We take appropriate steps to keep your account information accurate and up to date. If you ever notice your information is not complete, accurate or current, please call us at the telephone number on your account statement. We will correct the information as quickly as possible.
 
-If you believe we have not complied with our Information Practices, you may contact us at the telephone number on your account statement. Please ask for the Quality Review Department. We will investigate and respond to your concern. 
+If you believe we have not complied with our Information Practices, you may contact us at the telephone number on your account statement. Please ask for the Risk Management Department. We will investigate and respond to your concern. 
 
 First PREMIER Bank and PREMIER Bankcard, Inc. are committed to providing you with quality products and services with a high level of integrity regarding your personal privacy.
