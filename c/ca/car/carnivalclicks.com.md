@@ -1,14 +1,13 @@
-> *The following text is extracted and transformed from the carnivalclicks.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225211211id_/http%3A//carnivalclicks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carnivalclicks.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615225220id_/http%3A//carnivalclicks.com/privacy.php) for the most accurate reproduction.*
 
-# Carnival Clicks
-
-  
-
+# Website Traffic
 
   
 
 
   
+
+
 |    
 
 
@@ -20,6 +19,6 @@ We will contact you with updates offers and relevent information as well as a ne
 
 Newsletters will contain advertising from third parties along with relevent updates and news.
 
-Any financial information will be used only for purchases from this site and by the relevent payment processors (paypal/stormpay) we do not store sensitive information on our servers.
+Any financial information will be used only for purchases from this site and by the relevent payment processor (paypal) we do not store sensitive information on our servers.
 
 **
