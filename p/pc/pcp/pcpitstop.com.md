@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcpitstop.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217110332id_/http%3A//www.pcpitstop.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcpitstop.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615022446id_/http%3A//pcpitstop.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -64,7 +64,7 @@ To prevent unauthorized access, maintain data accuracy and ensure the correct us
 
 ## How You Can Access Or Correct Your Information
 
-**Account information:** When you have created an account, you can access to review all your personally identifiable information that we collect at any time. Browse to [http://www.pcpitstop.com/pcpitstop/default.asp](https://web.archive.org/pcpitstop/default.asp) and log in with your e-mail address and password. You may then change your login information by selecting the Change Login link. For instructions on changing your forums profile, see the PC Pitstop Support Forums section above. 
+**Account information:** When you have created an account, you can access to review all your personally identifiable information that we collect at any time. Browse to [http://www.pcpitstop.com/pcpitstop/default.asp](https://web.archive.org/pcpitstop/default.asp) and log in with your e-mail address and password. You may then change your login information by selecting the Change Login link. [Click here](https://web.archive.org/offsite.asp?{newschg|privacy}) to update your newsletter profile or opt-out of our newsletter. For instructions on changing your forums profile, see the PC Pitstop Support Forums section above. 
 
 If you have forgotten your password, we provide a mechanism that e-mails your password to you. Since the "forgot my password" feature sends your password to the email address that you used for registration, do not use an email address that can be accessed by others that you would not want to see or change your PC Pitstop account information. 
 
