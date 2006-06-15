@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the verian.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219121341id_/http%3A//verian.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verian.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615194612id_/http%3A//verian.com/Privacy.htm) for the most accurate reproduction.*
 
-# Verian Technologies - Spend Management for Your Enterprise
+# Verian Technologies - Purchasing & Invoice Automation Solutions
 
 At Verian Technologies, we are committed to protecting your privacy. You can travel through most of our site without giving us any information about yourself. But sometimes we do need information to provide services that you request, and this statement of privacy explains data collection and use in those situations. Please read this complete privacy statement. 
 
