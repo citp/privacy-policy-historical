@@ -1,30 +1,17 @@
-> *The following text is extracted and transformed from the accuradio.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219014935id_/http%3A//accuradio.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accuradio.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615073041id_/http%3A//accuradio.com/privacypolicy) for the most accurate reproduction.*
 
-# AccuRadio Help
+# AccuRadio - The Next Generation of Radio
 
-**AccuRadio is committed to protecting your privacy.**
+Like most sites, AccuRadio.com and its affiliate sites will automatically receive and store certain types of **non-personally identifiable** information whenever you visit. This information includes your IP address, browser type, etc. Also, like most sites, we use cookies to store certain information such as your artist deselects. Again, the information we collect automatically cannot be used to identify you personally, nor can it be used to send you spam or target you for viruses or other types of malware.
 
-The information we learn from you helps us continually improve your experience at AccuRadio.com. 
+We sometimes use this non-personally identifiable information to improve the design and content of our site. We may also use this information in the aggregate to analyze site usage, and that information may be shared with our advertisers and clients.
 
-We may store any information you enter on our Web site or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing your listening experience, improving our site and services, and communicating with you.   
+We will often link to sites who privacy policies differ from ours. Visitors should consult the other site's privacy notices, as we have no control over information that is submitted to or collected by these third parties.
 
+If you have any questions or concerns about the AccuRadio privacy policy for this site or any of it's implementations, you may contact us using our [feedback system](https://web.archive.org/feedback/index.aspx). 
 
-We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses AccuRadio.com.
+Third party advertising
 
-If you choose to submit content for publication (e.g., "feedback"), we may publish your screen name and other information you have provided to us. 
+AccuRadio.com utilizes several advertising services such as Google AdSense, Fastclick, and Advertising.com. These companies may use cookies and automatically collected information about your visits to this and other web sites in order to provide advertisements that may be of interest to you. The information they use is not personally identifiable, and does not contain your name, email address, physical address, or phone number. 
 
-We sometimes use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage, as well as to offer you products, programs, or services. 
-
-Some of our sites contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties. 
-
-If you have any questions or concerns about the AccuRadio online policy for this site or its implementation you may contact us at [feedback@accuradio.com](mailto:feedback@accuradio.com). 
-
-| 
-
-**Third Party Advertising**  
-We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.maxonline.com/privacy_policy/index.php).
-
-**Third Party Cookies**  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
-
-This site uses the services of The Fifth Network, Inc. for the serving and / or targeting of ads, promotions and other marketing messages. To do this, The Fifth Network, Inc. collects anonymous data typically through the use of cookies. 
+In addition, AccuRadio.com does not condone advertisers who attempt to install spyware or other kinds of malware onto your system, advertisers who make false claims to collect personal information, or advertisers who utilise sound or "browser takeover" methods in the advertisements themselves. Though they will occasionally slip through, rest assured that we do our best to prevent these kinds of advertisements from being displayed on our site. 
