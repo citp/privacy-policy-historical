@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the doc.govt.nz privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230012721id_/http%3A//doc.govt.nz/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doc.govt.nz privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615192914id_/http%3A//www.doc.govt.nz/privacy.asp) for the most accurate reproduction.*
 
 # Privacy
 
- 
+  
+
 
 This site does not collect any information that identifies individual users.
 
