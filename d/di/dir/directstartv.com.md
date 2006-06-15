@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the directstartv.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216230214id_/http%3A//www.directstartv.com/directv_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directstartv.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615214218id_/http%3A//www.directstartv.com/directv/directv_privacy.html) for the most accurate reproduction.*
 
-# DIRECTV Privacy Policy
+# DIRECT TV at DirectStarTV - DIRECTV, DIRECTV DVR, Satellite - DIRECTV Privacy Policy
 
 _This site is controlled and operated by DirectStarTV. Our priority is to ensure that your privacy is respected, that your transaction is secure, and that any data you provide to us is protected._
 
@@ -10,11 +10,11 @@ Personal information is collected only when users voluntarily register at a Dire
 
 **Online Security**
 
-DirectStarTV's method of collecting information from users is secure and all information collected is protected from unauthorized access. 
+DirectStarTV's method of collecting information from users is secure and all information collected is protected from unauthorized access.
 
 **Sharing Data**
 
-In order to process your order or request, it may be necessary to share your information with DirectStarTV affiliates. Additionally, DirectStarTV works closely with reputable businesses to provide you with quality products and services. Occasionally, these companies make special offers available to DirectStarTV customers. At any time, you may request that DirectStarTV not share any of your personally identifiable information with third parties. Please contact us at comments@directstartv.com to make that request. 
+In order to process your order or request, it may be necessary to share your information with DirectStarTV affiliates. Additionally, DirectStarTV works closely with reputable businesses to provide you with quality products and services. Occasionally, these companies make special offers available to DirectStarTV customers. At any time, you may request that DirectStarTV not share any of your personally identifiable information with third parties. Please contact us at comments@DirectStarTV.com to make that request.
 
 **Aggregate Data**
 
@@ -26,8 +26,9 @@ DirectStarTV encourages parents to spend time with their children online. Under 
 
 DirectStarTV reserves the right to change these terms and conditions at any time, at its sole discretion. Please revisit our privacy policy when you revisit our site. 
 
-USE OF COOKIES:  
-This website uses a browser feature known as a cookie, which is placed on your computer to make our site more responsive to your needs, by delivering a better and more personalized experience to you. The cookies are stored on your computer's hard drive and are used by us to help track your clicks and pass information as you go through the pages within our website. Cookies can allow us to associate navigational information from browsing visits with personal information you provide at our site.   
+**USE OF COOKIES:**  
+This website uses a browser feature known as a cookie, which is placed on your computer to make our site more responsive to your needs, by delivering a better and more personalized experience to you. The cookies are stored on your computer's hard drive and are used by us to help track your clicks and pass information as you go through the pages within our website. Cookies can allow us to associate navigational information from browsing visits with personal information you provide at our site.
+
 In addition, we carefully select third party advertising companies and allow them to collect non-personally identifiable information by placing cookies when you choose to visit them and when you visit our site. These selected companies may use information (but not including your name, address, credit card information, e-mail address, or telephone number) about your choice to visit and your visits to our site and other Web sites to provide advertisements about our products and services on this and other web sites. 
 
-To contact our webmaster: [comments@directstartv.com](mailto:comments@directstartv.com)
+To contact our webmaster: [comments@DirectStarTV.com](mailto:comments@DirectStarTV.com)
