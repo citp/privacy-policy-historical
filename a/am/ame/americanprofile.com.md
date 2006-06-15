@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanprofile.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230094044id_/http%3A//www.americanprofile.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanprofile.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615203255id_/http%3A//www.americanprofile.com/privacy.asp) for the most accurate reproduction.*
 
 # American Profile: Email a Page
 
@@ -77,4 +77,6 @@ In the event that you have given us Personally Identifiable Information in the p
 _Last Updated: February 10, 2004._
 
 |    
-[](https://web.archive.org/wrangler/) [](https://web.archive.org/dodge/)
+
+
+[](https://web.archive.org/bullseye/)
