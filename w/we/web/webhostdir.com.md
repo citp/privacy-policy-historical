@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the webhostdir.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213194419id_/http%3A//webhostdir.com/aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhostdir.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615215848id_/http%3A//webhostdir.com/aboutus/privacy.asp) for the most accurate reproduction.*
 
 # Web Host Directory: The best free source of web hosting services in a searchable web host directory. Powerful web host search engines, reviewed web hosts, awards, news and much more!
 
-|  |  |  |   
----  
-|  **What is the purpose of this Privacy Policy?**
+| 
+
+**What is the purpose of this Privacy Policy?**
 
 Web Host Directory has created this privacy policy in order to demonstrate our firm commitment to our users. The following discloses our information gathering and dissemination practices for this website: [www.webhostdir.com.](http://www.webhostdir.com/) Please continue reading for complete details on the Web Host Directory privacy policy. If you have any questions about the policy, you can request more information by filling in the [contact us](https://web.archive.org/contact/general.asp) form. 
 
@@ -48,49 +48,4 @@ Web Host Directory reserves the right to update this privacy policy from time to
 
 If you have any questions about this privacy policy or the practices of this website, you may request more information by submitting the [contact us](https://web.archive.org/contact/general.asp) form. 
 
-|   
-  
-
-
-|  |   
----|---  
-  
 | 
-
-[ValueWeb:](http://www.webhostdir.com/banners/banman.asp?ZoneID=12&Task=Click&Mode=HTML&SiteID=1&PageID=4527) Award Winning Hosting! FREE Setup + FREE Web Design software & tools for small to mid-size businesses. Call 1-800-WE-HOST-U. 
-
-[WebIntellects:](http://www.webhostdir.com/banners/banman.asp?ZoneID=21&Task=Click&Mode=HTML&SiteID=1&PageID=4527) Tired of bait and switch hosting? Low cost gimmicks? So are we. See why we are the provider of choice in over 80 countries world-wide! 
-
-[Ace-Host.net:](http://www.webhostdir.com/banners/banman.asp?ZoneID=22&Task=Click&Mode=HTML&SiteID=1&PageID=4527) $3.95 Web Hosting Special, 5000 MB Space, 100 GB Bandwidth, Free Templates, Unlimited Email & FREE DOMAIN NAME! 
-
-[BlueWaveHosting.com:](http://www.webhostdir.com/banners/banman.asp?ZoneID=23&Task=Click&Mode=HTML&SiteID=1&PageID=4527) 24x7x365 Live Chat, Phone Support And Email Support. $250 To Help Market Your Site. 46 Auto Install Scripts. Starting At $4.99. Instant Account Activation 
-
-[I X Web Hosting.com:](http://www.webhostdir.com/banners/banman.asp?ZoneID=24&Task=Click&Mode=HTML&SiteID=1&PageID=4527) As low as $1.99/mo per hosted domain name! FREE Domain Registration, 500mb to UNLIMITED Web Space & Website Builder! 
-
-[AIT.com:](http://www.webhostdir.com/banners/banman.asp?ZoneID=25&Task=Click&Mode=HTML&SiteID=1&PageID=4527) 191,448 happy customers. Free shopping cart, free domain reg. 24/7 live toll-free support. Plans for any size business. 
-
-[SuperbHosting.Net:](http://www.webhostdir.com/banners/banman.asp?ZoneID=26&Task=Click&Mode=HTML&SiteID=1&PageID=4527) Free Set-up, Free Domain, 50GB/m traffic, 1GB web space, 10 Domains, 250 Email accounts & 5 mySQL. Awarding-winning 24x7 service. 
-
-[Bluehost.com:](http://www.webhostdir.com/banners/banman.asp?ZoneID=55&Task=Click&Mode=HTML&SiteID=1&PageID=4527) $6.95/Month - Free Domain, Host 6 Domains on 1 Account, 10000 MB Space, 250 GB Traffic, 2500 Emails, Perl, PHP, MySQL, Imap! Call Today - (888) 401-HOST 
-
-[$5 Web Hosting::](http://www.webhostdir.com/banners/banman.asp?ZoneID=56&Task=Click&Mode=HTML&SiteID=1&PageID=4527) 750mb Webspace - Free Domain Name, Free Set up, 24/7 Support, 50GB transfer, 99.9% Uptime. Call us at 1-866-301-5699 
-
-[Lunarpages:](http://www.webhostdir.com/banners/banman.asp?ZoneID=57&Task=Click&Mode=HTML&SiteID=1&PageID=4527) Lunarpages: #1 in Uptime, Customer Support & Features. Host Multiple sites on 1 Account. $7.95/mo; 3GB Space, 400 GB bandwidth. FREE DOMAIN, Blogs, eCommerce & More! 
-
-[$5.95/mo – 6 MONTHS FREE:](http://www.webhostdir.com/banners/banman.asp?ZoneID=58&Task=Click&Mode=HTML&SiteID=1&PageID=4527) FREE DOMAIN NAME + FREE SETUP. 15,000 MB WEBSPACE!!!!!!, UNLIMITED BANDWIDTH, FREE Site Builder + Money Back Guarantee! 
-
-[NetPivotal Web Hosting:](http://www.webhostdir.com/banners/banman.asp?ZoneID=59&Task=Click&Mode=HTML&SiteID=1&PageID=4527) 4000MB Webspace @ $7.49/mo - Free Domain Name, Free Setup - No Hidden Charges - DOUBLE DISKSPACE NOW 4000MB - OFFER ENDS THIS MONTH 
-
-[Unlimited sites >$10>>:](http://www.webhostdir.com/banners/banman.asp?ZoneID=17&Task=Click&Mode=HTML&SiteID=1&PageID=4527) UNLIMITED SITES FOR $9.95 A MONTH! >> CALL NOW 1-866-96-GATOR >> 24/7PHONE AND CHAT SUPPORT >> FREE SETUP >> TONS OF SPACE!! 
-
-[IPower.com:](http://www.webhostdir.com/banners/banman.asp?ZoneID=18&Task=Click&Mode=HTML&SiteID=1&PageID=4527) $7.95 Hosting Package - 10,000MB Storage, 250GB Transfer, 2500 Email accounts. Host 6 domains in 1. Free domain and setup, web builder, Google and Yahoo Search credits. 
-
-[ApolloHosting.com:](http://www.webhostdir.com/banners/banman.asp?ZoneID=20&Task=Click&Mode=HTML&SiteID=1&PageID=4527) CNET & Web Host Magazine Editor's Choice ---- $6.95/mo ---- Multiple websites on 1 account ---- Free site builder ---- 24/7 support ---- Call 877-525-HOST(4678) 
-
-|   
----|---|---  
-    
-  
-  
-  
-  | 
