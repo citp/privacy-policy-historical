@@ -1,61 +1,88 @@
-> *The following text is extracted and transformed from the europeregistry.com privacy policy that was archived on 2005-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050420063257id_/http%3A//www.europeregistry.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the europeregistry.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210843id_/http%3A//europeregistry.com/policies/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy : Europe Registry
+# Italy Domain Names | Europe Registry
 
-1\. BACKGROUND 
+## Introduction
 
-1.1 This document sets out Europe Registry's privacy policy, to codify Europe Registry's commitment to the responsible collection and use of personal information by Europe Registry. 
+This Privacy Policy applies to all personal information collected by Instra Corporation Pty Ltd. ACN 110 054 610.
 
-1.2 Europe Registry strongly advocates the protection of all personal information, and believes that the adoption and implementation of this policy represents good business practice. Europe Registry's commitment to this policy ensures that individuals are made aware of: 
+In this policy we explain how and why we collect your personal information, how we use it, and what controls you have over our use of it.
 
-a) when information about them is being collected; 
+Instra is committed to complying with Commonwealth legislation governing privacy of personal information by businesses and to protecting and safeguarding your privacy when you deal with us.
 
-b) the purpose for which it is being collected; 
+## Collection of Information
 
-c) whether the information may be passed on to third parties; and 
+Some information provided to us by clients, customers, contractors and other third parties might be considered private or personal. Without these details we would not be able to carry on our business and provide our services to you. We will only collect such personal information if it is necessary for one of our functions or activities.
 
-d) the rights of individuals to have some control over the way any information about them is handled and maintained. 
+Domain Directors Pty Ltd collects personal information in the following situations:
 
-1.4 This policy applies only to the collection and use of personal information by Europe Registry. 
+  1. If you contact us, we may keep a record of that correspondence.
+  2. When you establish or access an account or order product.
+  3. When you submit your e-mail address to our web site mailing list.
+  4. When you place an order via our web-site, telephone, or fax.
 
-2\. COLLECTION OF PERSONAL INFORMATION 
 
-2.1 The personal information held by Europe Registry is collected for the purpose of meeting its objectives as a provider of domain name services. 
 
-2.3 Europe Registry limits the collection of personal information to that which is required to perform the functions listed above. Europe Registry may also collect personal information in order to process applications for membership of, or employment with, Europe Registry. 
+This information includes your full name, mailing address, contact telephone and fax numbers, and your email address. We will also collect payment details from you such as your credit card number when you order an email or website hosting package, or apply to register, renew, or transfer a domain name.
 
-2.4 Europe Registry does not require or collect personal information which would be considered "sensitive" under the Act. 
+Financial Information collected via our web site is used by us to bill you for products and services. Any financial information that is collected is for the purpose of transaction approval and funds transfer. The financial information we collect from you is strictly confidential and held on secure servers in controlled facilities.
 
-2.5 Europe Registry's website uses cookies to store information about users when they log in to manage domain names, in order to make the domain management process more intuitive. Europe Registry's website may feature links to other websites. Europe Registry is not responsible for the content and privacy practices of other such websites. 
+## Use of information collected and disclosure of personal information to others
 
-3\. USE OF PERSONAL INFORMATION 
+We may use personal information held about an individual for the primary purpose for which it is collected (eg. provision of our services, including administration of our services, notification to you about changes to our services, record-keeping following termination of our services to you and technical maintenance).
 
-3.1 The way in which Europe Registry uses personal information is dictated by the purpose for which the information was collected. As most information is collected directly from the relevant individual, that individual will normally be aware of the purpose of the collection. 
+As domain name and ENUM Registrars, Instra and its subsidiaries are required to pass on your full name, mailing address, telephone and fax numbers, and email address to the relevant registry when you apply to register, renew, or transfer a domain name to us. This function is required to facilitate registration and to ensure registry records are correct and current.
 
-3.2 Europe Registry will only use personal information for a purpose other than the primary purpose (ie. a secondary purpose) where: 
+We may also use such information for a purpose related to the primary purpose of collection and where you would reasonably expect that we would use the information in such a way. This information is only disclosed to persons outside our business in the circumstances set out in this policy or as otherwise notified to you at the time of collection of the information.
 
-a) that individual has consented; 
+In addition we are permitted to use or disclose personal information held about you:
 
-b) the secondary purpose is directly related to the primary purpose and the individual would reasonably expect Europe Registry to use or disclose the information in such a way; or 
+  1. Where you have consented to the use or disclosure.
+  2. Where we reasonably believe that the use or disclosure is necessary to lessen or prevent a serious, immediate threat to someone's health or safety or the public's health or safety.
+  3. Where we reasonably suspect that unlawful activity has been, is being or may be engaged in and the use or disclosure is a necessary part of our investigation or in reporting the matter to the relevant authorities.
+  4. Where such use or disclosure is required under or authorised by law (for example, to comply with a subpoena, a warrant or other order of a court or legal process).
+  5. Where we reasonably believe that the use or disclosure is reasonably necessary for prevention, investigation, prosecution and punishment of crimes or wrongdoings or the preparation for, conduct of, proceedings before any court or tribunal or the implementation of the orders of a court or tribunal by or on behalf of an enforcement body.
 
-c) we are permitted or required by law, or it is in the interests of public safety to do so. 
 
-3.3 People who subscribe to one of Europe Registry's mailing lists may decide at any time to unsubscribe from the list. Instructions for unsubscribing will appear in the footer of all list emails, as well as on the Europe Registry website. 
 
-4\. PROTECTION OF PERSONAL INFORMATION 
+## Links
 
-4.1 Access to personal information held by Europe Registry is limited to those employees who specifically require it to carry out their work responsibilities. This extends to protecting personal information from misuse and loss, as well as from modification and disclosure. 
+Our web site may contain links to third party web sites who may collect personal information about you. We are not responsible for the privacy practices of other businesses or the content of web sites that are linked to our web site. Instra encourages users to be aware when they leave the site and to read the privacy statements of each and every web site that collects personally identifiable information.
 
-4.2 Commercially sensitive information will held by Europe Registry staff and will not be disclosed to any director of the Europe Registry Board. 
+## Security and Storage 
 
-4.3 All personal information will only be retained for a reasonable period of time. Europe Registry endeavours to maintain the security and integrity of all facilities by which personal information is stored. 
+Instra places a great importance on the security of all information associated with our customers, clients and contractors. We have security measures in place to attempt to protect against the loss, misuse and alteration of personal information under our control.
 
-5\. ACCESS TO PERSONAL INFORMATION 
+Personal information is de-identified or destroyed securely when no longer required by us.
 
-5.1 Europe Registry is committed to processing personal information promptly and accurately. As part of this commitment, individuals who have provided personal information to Europe Registry may request access to their information in order to verify that it is accurate, complete and up-to-date. 
+Instra retains the information you provide to us including your contact and credit card details to enable us to verify transactions and customer details and to retain adequate records for legal and accounting purposes. This information is held on secure servers in controlled facilities.
 
-5.2 Requests for access or correction to personal information should be directed to Europe Registry's Chief Policy Officer. Europe Registry reserves the right to refuse a request if it is vexatious or frivolous, or if we are legally entitled to do so. 
+Our website site uses a process called Secure Sockets Layer (SSL) technology. SSL locks all critical information passed from you to us, such as payment information, in an encrypted envelope, making it extremely difficult for this information to be intercepted. The transfer of information across any media may involve a certain degree of risk, and the internet is no exception. As a result, while we take all reasonable steps to protect users' personal information, we cannot ensure or warrant the security of any information transmitted to us or from our website.
 
-6\. REVIEW OF POLICY 
+You should be careful and responsible whenever you are online. Ultimately, you are solely responsible for keeping your passwords and/or account information secure and should take all reasonable steps to do so.
 
-6.1 Europe Registry reserves the right to revise this policy at any time and those people who volunteer their personal details to Europe Registry are deemed to acknowledge and be bound by this policy and any changes made to it. This is no way affects the protection afforded under the relevant laws, according to which this policy was developed. 
+## Access to and correction of personal information
+
+We are committed to maintaining accurate, timely, relevant and appropriate information about our customers, clients and web-site users. For the purposes of receiving timely renewal notices, consumer alerts, and other related correspondence, it is imperative that the contact details we hold for you are always current. If you would like to access or advise us of a change to your personal information, please [contact us](https://web.archive.org/about/contact.htm "Contact Our Customer Support Team").
+
+Inaccurate information will be corrected upon receiving advice to this effect from you. To ensure confidentiality, details of your personal information will be passed on to you only if we are satisfied that the information relates to you.
+
+If we refuse to provide you with access or correct the personal information held about you by us, then we will provide reasons for such refusal.
+
+## Transfer of information overseas
+
+Pursuant to the National Privacy Principles we may transfer personal information we have collected about you to someone other than you in a foreign country only if such transfer is permitted by the National Privacy Principles.
+
+## Changes to Privacy Policy
+
+From time to time and in line with customer expectations and legislative changes, our privacy policies and procedures will be reviewed and, if appropriate, updated. Changes will be posted on this Privacy Policy page so that users are always aware of what information is collected, how it is used and the way in which information may be disclosed. As a result, please remember to refer back to this Privacy Policy regularly to review any amendments.
+
+## Contacting us
+
+If you require further information regarding our Privacy Policy, please [contact us](https://web.archive.org/about/contact.htm "Contact Our Customer Support Team").
+
+Should you wish to read more information on privacy legislation or the National Privacy Principles in Australia - our primary place of business - we recommend that you visit the Federal Privacy Commissioner's web-site at www.privacy.gov.au.
+
+## Acceptance
+
+You accept that your use of this site includes your acceptance of this Privacy Policy and the Terms of Service.
