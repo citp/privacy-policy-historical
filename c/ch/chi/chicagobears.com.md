@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chicagobears.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219101108id_/http%3A//www.chicagobears.com/about/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicagobears.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615105427id_/http%3A//www.chicagobears.com/about/privacy.jsp) for the most accurate reproduction.*
 
 # Chicago Bears
 
@@ -9,29 +9,28 @@
   
 | PreSeason  
 ---  
-8/8 |  vs. **Dolphins***  
-8/12 |  @ **Rams**  
-8/20 |  @ **Colts**  
-8/26 |  vs. **Bills**  
-9/1 |  vs. **Browns**  
-* Hall of Fame Game  
+8/11 | @  | 9 pm  
+8/18 | vs.  | 7 pm  
+8/25 | vs.  | 7 pm  
+8/31 | @  | 7 pm  
 Regular Season  
-9/11 |  @ **Redskins**  
-9/18 |  vs. **Lions**  
-9/25 |  vs. **Bengals**  
-10/9 |  @ **Browns**  
-10/16 |  vs. **Vikings**  
-10/23 |  vs. **Ravens**  
-10/30 |  @ **Lions**  
-11/6 |  @ **Saints**  
-11/13 |  vs. **49ers**  
-11/20 |  vs. **Panthers**  
-11/27 |  @ **Buccaneers**  
-12/4 |  vs. **Packers**  
-12/11 |  @ **Steelers**  
-12/18 |  vs. **Falcons**  
-12/25 |  @ **Packers**  
-1/1 |  @ **Vikings**  
+9/10 | @  | 3:15 pm  
+9/17 | vs.  | Noon  
+9/24 | @  | Noon  
+10/1 | vs.  | 7:15 pm  
+10/8 | vs.  | Noon  
+10/16 | @  | 7:30 pm  
+10/29 | vs.  | Noon  
+11/5 | vs.  | Noon  
+11/12 | @  | Noon*  
+11/19 | @  | Noon*  
+11/26 | @  | Noon*  
+12/3 | vs.  | Noon*  
+12/11 | @  | 7:30 pm  
+12/17 | vs.  | Noon*  
+12/24 | @  | Noon  
+12/31 | vs.  | Noon*  
+* - Game time subject to flexible schedule  
   
 |    
 
