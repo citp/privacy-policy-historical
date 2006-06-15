@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the aclens.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213225742id_/http%3A//www.aclens.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aclens.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615094301id_/http%3A//www.aclens.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
-Privacy Statement
-
+|  | [](http://www.truste.org/ivalidate.php?url=www.aclens.com&sealid=101)  
+---|---  
+  
 AC Lens collects information about its customers both during the order process and as customers navigate the http://www.aclens.com/ web site. The information provided by customers during the ordering process such as their name, physical addres, email addres, and payment information is considered private, and AC Lens will not sell this personal information to third parties. This information will be used to process your order and deliver it to you in a timely fashion. In addition, AC Lens reserves the right to contact existing customers regarding store specials and other significant events. Information submitted to the "Ask the Doctor" area will be used to respond to your questions and/or concerns and will not be used for promotional purposes.
 
 Opt-Out Provided   
@@ -16,7 +17,7 @@ Third Party Service Providers
 AC Lens may share your information provided with your order with third-party service providers who provide services related to your order. Examples of these third-party service providers include a credit card processing company, a contact lens supplier, or a shipping service. Your personal information will not be used by any third party for purposes other than providing these services in relation to your order.
 
 Prescription Verification   
-AC Lens may verify your prescription information provided with your order with your doctor or eyecare provider as required by Federal Law. For more information about how your Personal Health Information is protected, please see our [Notice of Privacy Practices](https://web.archive.org/web/20051213225742id_/http%3A//www.aclens.com/npp.asp).
+AC Lens may verify your prescription information provided with your order with your doctor or eyecare provider as required by Federal Law. For more information about how your Personal Health Information is protected, please see our [Notice of Privacy Practices](https://web.archive.org/web/20060615094301id_/http%3A//www.aclens.com/npp.asp).
 
 Legal Disclosure of Your Information  
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
