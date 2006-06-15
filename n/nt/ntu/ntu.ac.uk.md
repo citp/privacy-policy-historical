@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ntu.ac.uk privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212092850id_/http%3A//www.ntu.ac.uk/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntu.ac.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615035818id_/http%3A//www.ntu.ac.uk/privacy_statement) for the most accurate reproduction.*
 
 # Privacy statement
 
@@ -72,6 +72,10 @@ By continuing to use the Website you agree that you have read the [Access Agreem
 
 **Code of practice on the operation of CCTV  
 **[Download CCTV policy](https://web.archive.org/privacy_statement/8053.pdf)
+
+Responsibilities
+
+The Director of Information Systems is assigned as the responsible person/compliance officer for this policy and any related procedures or guidelines. 
 
 |    |   
 ---|---|---|---|---
