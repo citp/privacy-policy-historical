@@ -1,15 +1,7 @@
-> *The following text is extracted and transformed from the ballyfitness.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231191223id_/http%3A//ballyfitness.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ballyfitness.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210130id_/http%3A//ballyfitness.com/privacy.asp) for the most accurate reproduction.*
 
 # Bally Total Fitness | Privacy Policy
 
-|    
-|  | 
-
-|   
-**  Privacy Policy **  
----  
-|  **Canadian residents: Please click here to see the[Privacy Policy](https://web.archive.org/web/20051231191223id_/http%3A//ballyfitness.com/privacycanada.asp) applying to you.**  
----  
   
 **Bally respects your privacy.**  
 At Bally Total Fitness we are committed to protecting your privacy. We use the information we collect about our site visitors to provide a more personalized and relevant experience. Please read the following details about our privacy policy.  
@@ -23,15 +15,4 @@ Bally Total Fitness collects the domain name of each visitor to our site. Aggreg
 **How is this information used?**  
 The information we collect is used to improve the content and layout of our web site. It may be used to customize the content and/or layout of our page for each individual user, to notify consumers about updates to our web site, and used by us to contact consumers for marketing purposes.
 
-If you wish to be removed from our database, proceed below. This is not a registration page, to have Fitness Tips and exciting Bally news e-mailed directly to you, complete our simple [online registration form.](https://web.archive.org/join/email_registrationPr/index.asp)  
-  
-  
-|  | Check here if you do not want to receive e-mail from us in the future.  
----|---  
-| From time to time, we may make the e-mail addresses of those who have provided such information to Bally Total Fitness available to other reputable organizations whose products or services we think you may find interesting. If you do not want us to share your e-mail address with other companies or organizations, please check here.  
-  
-Email Address:      
-  
-  
-  
-|  | 
+If you wish to be removed from our database, proceed below. This is not a registration page, to have Fitness Tips and exciting Bally news e-mailed directly to you, complete our simple [online registration form.](https://web.archive.org/join/email_registrationPr/index.asp)
