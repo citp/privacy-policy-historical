@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designpublic.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216022301id_/http%3A//www.designpublic.com/content/privacy-policy-%26-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designpublic.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615182832id_/http%3A//www.designpublic.com/content/privacy-policy-%26-security) for the most accurate reproduction.*
 
 # 
 
