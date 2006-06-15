@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ski.com.au privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216193452id_/http%3A//ski.com.au/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ski.com.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615214611id_/http%3A//ski.com.au/about/privacy.html) for the most accurate reproduction.*
 
-# Your Privacy (ski.com.au)
+# Your Privacy - generic - ski.com.au
 
 Privacy Policy
 
