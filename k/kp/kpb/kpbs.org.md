@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kpbs.org privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230010630id_/http%3A//www.kpbs.org/Other/DynPage.php%3Fid%3D107) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kpbs.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615142815id_/http%3A//www.kpbs.org/Other/DynPage.php%3Fid%3D107) for the most accurate reproduction.*
 
 # KPBS - KPBS Internet Privacy Policy
 
@@ -21,14 +21,14 @@ Gathering and Use of Information
 
 **Tracking and Use of Cookies**
 
-KPBS’ Web site currently does not utilize “cookies” - special computer codes used to track user activity . 
+KPBS� Web site currently does not utilize �cookies� - special computer codes used to track user activity . 
 
-1.      Cookies contain no information about you – only a unique number with no meaning whatsoever outside of the tracking system. Cookies help to target sponsorship information and measure effectiveness.  Cookies can enhance the Internet user’s experience on the Web by ensuring that you do not see the same sponsor information repeatedly.
+1.      Cookies contain no information about you � only a unique number with no meaning whatsoever outside of the tracking system. Cookies help to target sponsorship information and measure effectiveness.  Cookies can enhance the Internet user�s experience on the Web by ensuring that you do not see the same sponsor information repeatedly.
 
-2.      Cookies cannot be used to personally identify you in any way.  All users who receive a sponsor message remain completely anonymous. If you do not want the benefits of cookies, there is a simple procedure that allows you to deny or accept this feature. In order to “opt out” of the benefits of cookies, you may delete your cookies by following the instructions contained in the Help section of your browser.
+2.      Cookies cannot be used to personally identify you in any way.  All users who receive a sponsor message remain completely anonymous. If you do not want the benefits of cookies, there is a simple procedure that allows you to deny or accept this feature. In order to �opt out� of the benefits of cookies, you may delete your cookies by following the instructions contained in the Help section of your browser.
 
 Some of our affiliated Web sites, such as PBS Online and Public Interactive modules, use cookie technology to offer special features such as localization options, sponsorship banners and badges on certain non-kids related Web pages. 
 
-**Acceptance of KPBS’ Online Privacy Policy Terms and Conditions**
+**Acceptance of KPBS� Online Privacy Policy Terms and Conditions**
 
 By using this site, you signify your agreement to the terms and conditions of this KPBS Privacy Policy. If you do not agree to these terms and conditions, please do not use the site. We reserve the right, at our sole discretion, to change, modify, add, or remove portions of this policy at any time. Please check this page periodically for any changes. Your continued use of kpbs.org following the posting of any changes to these terms shall mean that you have accepted those changes. If you have any questions or concerns, please e-mail us at letters@kpbs.org.
