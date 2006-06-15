@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the gamebanshee.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212051248id_/http%3A//gamebanshee.com/sitefeatures/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamebanshee.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615202521id_/http%3A//gamebanshee.com/sitefeatures/privacy.php) for the most accurate reproduction.*
 
 # Site Features @ GameBanshee
 
-  
 We have created this policy for each visitor to our web page, GameBanshee, in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this website: 
 
 **Collected Information**
