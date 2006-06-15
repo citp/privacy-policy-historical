@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the travelocity.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212112816id_/http%3A//travelocity.com/info/info_window/0%2C2766%2CTRAVELOCITY%257CPRIVACY_WINDOW%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelocity.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615195305id_/http%3A//svc.travelocity.com/info/info_window/0%2C2766%2CTRAVELOCITY%257CPRIVACY_WINDOW%2C00.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-As a Travelocity.com user, you are in control of all your travel-planning. We know you want to remain in control of your personal information as well. As one of the pioneers in online travel, we realize that earning and retaining your trust is of paramount importance and it's a responsibility we take very seriously, every day. 
+As a Travelocity user, you are in control of all your travel-planning. We know you want to remain in control of your personal information as well. As one of the pioneers in online travel, we realize that earning and retaining your trust is of paramount importance and it's a responsibility we take very seriously, every day. 
 
-That's why we've provided this Privacy Policy, which sets forth our policies regarding the collection, use and protection of the personal information of those using the Travelocity.com website. Personal information means information that can be linked to a specific individual, such as name, address, telephone number, e-mail address and credit card number. 
+That's why we've provided this Privacy Policy, which sets forth our policies regarding the collection, use and protection of the personal information of those using the Travelocity website. Personal information means information that can be linked to a specific individual, such as name, address, telephone number, e-mail address and credit card number. 
 
 We encourage you to review our Privacy Policy, and become familiar with it, but you should know that **we do not sell or rent our customers' personal information to third parties**. 
 
@@ -42,7 +42,7 @@ _Online Surveys_
 Travelocity values opinions and comments from members, so we frequently conduct online surveys. Participation in these surveys is entirely optional. Typically, the information is aggregated and used to make improvements to Travelocity and to develop appealing content, features and promotions for members. Survey participants are anonymous unless otherwise stated in the survey. 
 
 _Promotions & Sweepstakes_  
-Travelocity frequently sponsors promotions and sweepstakes to give members the opportunity to win great travel and travel-related prizes. Information collected by us for such activities can include contact information and survey questions. We use contact information to notify contest winners and survey information to develop promotions and product improvements to the Travelocity.com web site. 
+Travelocity frequently sponsors promotions and sweepstakes to give members the opportunity to win great travel and travel-related prizes. Information collected by us for such activities can include contact information and survey questions. We use contact information to notify contest winners and survey information to develop promotions and product improvements to the Travelocity web site. 
 
 _Automatic Logging of Session Data_  
 We automatically log generic information about your computer's connection to the Internet, which we call "session data", that is anonymous and not linked to any personal information. Session data consists of things such as IP address, operating system and type of browser software being used and the activities conducted by the user while on our site. An IP address is a number that lets computers attached to the Internet, such as our web servers, know where to send data back to the user, such as the pages of the site the user wishes to view. We collect session data because it helps us analyze such things as what items visitors are likely to click on most, the way visitors are clicking through the site, how many visitors are surfing to various pages on the site, how long visitors to the site are staying and how often they are visiting. It also helps us diagnose problems with our servers and lets us better administer our systems. Although such information does not identify any visitor personally, it is possible to determine from an IP address a visitor's Internet Service Provider (ISP) and the approximate geographic location of his or her point of connectivity. 
@@ -50,7 +50,7 @@ We automatically log generic information about your computer's connection to the
 _Cookies_  
 "Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. There are many myths circulating about cookies, but you should know that cookies are only read by the server that placed them, and are unable to do such things as run programs on your computer, plant viruses or harvest your personal information. The use of cookies is very common on the Internet and Travelocity's use of cookies is similar to that of such sites as Expedia and Orbitz, as well as Yahoo!, CNN.com and other reputable online companies.
 
-First and foremost, you can rest assured that **no** personal information about you is gathered or stored in the cookies placed by the Travelocity.com web site and, as a result, none can be passed on to any third parties.
+First and foremost, you can rest assured that **no** personal information about you is gathered or stored in the cookies placed by the Travelocity web site and, as a result, none can be passed on to any third parties.
 
 Cookies allow us to serve you better and more efficiently, and to personalize your experience at our site. Travelocity uses cookies to personalize your experience on our site and with respect to advertisements. As to the former, these types of cookies allow you to log in without having to type your log-in name each time (only your password is needed), let us know if you are a FareWatcher participant or a Travelocity VIP, your preferred language and departure city, and so forth. We may also use such cookies to display an advertisement to you while you are on our website or to send you a "Best Day to Buy" email (or similar emails -- assuming you have not opted out of receiving such emails) focusing on destinations in which we think you might be interested. None of this information is passed to any third party and is used solely by us to provide you with a better user experience on our web site. **No** personal information about you is gathered through the use of these types of cookies.
 
@@ -82,7 +82,7 @@ At any time, you can view and/or update your Real Deals or other newsletter or o
 What safeguards are in place to protect the loss, misuse or alteration of your information?  
 
 
-All personal information you provide to Travelocity is transmitted using SSL (Secure Socket Layer) encryption. SSL is a proven coding system that lets your browser automatically encrypt, or scramble, data before you send it to us. In addition, when you make travel purchases on Travelocity, you are protected by [Travelocity's Shop Safe Guarantee](http://www.travelocity.com/info/info_popup/0,,TRAVELOCITY%7CGUARANTEE_WINDOW,00.html). 
+All personal information you provide to Travelocity is transmitted using SSL (Secure Socket Layer) encryption. SSL is a proven coding system that lets your browser automatically encrypt, or scramble, data before you send it to us. In addition, when you make travel purchases on Travelocity, you are protected by [Travelocity's Shop Safe Guarantee](http://www.travelocity.com/info/info_popup/0,,Travelocity%7CGUARANTEE_WINDOW,00.html). 
 
 What other information should I know about my privacy?  
 
