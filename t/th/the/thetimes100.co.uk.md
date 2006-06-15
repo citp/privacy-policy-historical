@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thetimes100.co.uk privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221235355id_/http%3A//www.thetimes100.co.uk/additional/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetimes100.co.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615130007id_/http%3A//www.thetimes100.co.uk/additional/privacy.php) for the most accurate reproduction.*
 
-# The Times 100 - Edition 9 - Privacy Policy
+# The Times 100 - Edition 11 - Privacy Policy
 
 The following statement explains our policy regarding the personal information we collect about you.
 
@@ -31,4 +31,4 @@ MBA Publishing Ltd
 Tadcaster  
 LS24 9AJ
 
-Copyright ©2005. MBA Publishing Ltd. All Rights Reserved
+Copyright ©2006. MBA Publishing Ltd. All Rights Reserved
