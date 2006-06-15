@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eteamz.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404144133id_/http%3A//eteamz.active.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eteamz.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615203523id_/http%3A//eteamz.active.com/company/privacy) for the most accurate reproduction.*
 
-# eteamz: Privacy Policy
+# eteamz.com - The Team Sports Web Site Leader
 
 [Click here to review the Children's Privacy Policy](https://web.archive.org/company/privacy/children/)   
 eteamz is committed to safeguarding your privacy online. We have posted this privacy policy to help you understand how your personal information will be treated as you use and enjoy our web Site. This policy may change from time to time, so please check back periodically.
