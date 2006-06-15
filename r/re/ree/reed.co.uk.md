@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reed.co.uk privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231214423id_/http%3A//reed.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reed.co.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615195058id_/http%3A//www.reed.co.uk/privacy.aspx) for the most accurate reproduction.*
 
 # reed.co.uk : Privacy Policy
 
@@ -24,7 +24,7 @@ The security of your data is extremely important to us. Access to your personal 
 Any policy changes, either due to business reasons or future changes in legislation, will be posted on this page and, if substantial, may be promoted on the website or through e-mail notification.
 
 **What are 'cookies' and why do we use them?**   
-'Cookies' are ways of saving a small amount of personal information. We use cookies to save your user name and details about what type of job you are looking for. This allows easy access to our site, with recommendations that are relevant to you. If your computer is shared by other people, we advise that you select the 'Don't remember my details' option when you sign out of your account. This will remove all details from the cookie. If you would like [more information on 'cookies'](http://www.aboutcookies.org/cookiefaq.asp) please follow the link.
+'Cookies' are ways of saving a small amount of personal information. We use cookies to save your user name and details about what type of job you are looking for. This allows easy access to our site, with recommendations that are relevant to you. If your computer is shared by other people, we advise that you select the 'Don't remember my details' option when you sign out of your account. This will remove all details from the cookie. If you would like [more information on 'cookies'](http://www.aboutcookies.org/Default.aspx?page=5) please follow the link.
 
 **How do you remove your name from the database?**   
 Under the Employment Agencies Act, reed.co.uk is obliged to hold your data for 12 months after it was last used. After 12 months of non-usage we will contact you and ask you if you want to keep your details on our database. If you do not indicate by signing in to reed.co.uk that you wish your details to be retained on our database, we will archive your account.
