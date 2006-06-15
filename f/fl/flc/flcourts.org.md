@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flcourts.org privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230042331id_/http%3A//www.flcourts.org/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flcourts.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615054447id_/http%3A//www.flcourts.org/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,4 +13,4 @@ In addition, information is only gathered regarding the volume and timing of acc
 
 If you choose to share personal information, such as by sending a message or filling out an electronic form with personal information, the information will be saved for a designated period of time in order to comply with Judicial Branch public records retention policies. However, information will not be disclosed to third parties or other government agencies, unless required by state or federal law. Please note that Florida's public records law requires that information received in connection with court business must be made available to anyone upon request, unless the information is subject to a specific exemption. 
 
-If you have other questions about this privacy policy, or have suggestions on how it may be improved, please feel free to [contact us](https://web.archive.org/web/20051230042331id_/http%3A//www.flcourts.org/courts/crtadmin/contact.shtml).
+If you have other questions about this privacy policy, or have suggestions on how it may be improved, please feel free to [contact us](https://web.archive.org/web/20060615054447id_/http%3A//www.flcourts.org/courts/crtadmin/contact.shtml).
