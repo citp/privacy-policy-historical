@@ -1,17 +1,12 @@
-> *The following text is extracted and transformed from the thecoolhunter.net privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215004210id_/http%3A//www.thecoolhunter.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecoolhunter.net privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615024547id_/http%3A//www.thecoolhunter.net/Privacy-Statement) for the most accurate reproduction.*
 
 # the cool hunter - Privacy Statement
 
   | 
 
-[](http://www.thecoolhunter.net/featureartists/)
+[home](http://www.thecoolhunter.net/index.php) Privacy 
 
-| Thursday 15th December 2005 |  |   
----|---|---  
-  
-[Home](http://www.thecoolhunter.net/index.php) Privacy Statement 
-
-Privacy Statement   
+|  Privacy Statement   
 ---  
   
 **What personal information is collected?**  
