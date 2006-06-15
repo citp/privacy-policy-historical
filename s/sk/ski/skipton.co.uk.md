@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the skipton.co.uk privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210174604id_/http%3A//www.skipton.co.uk/security_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skipton.co.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615161952id_/http%3A//www.skipton.co.uk/security_privacy.asp) for the most accurate reproduction.*
 
-# Security and privacy policy - Skipton Building Society
+# Legal notice - Skipton Building Society
 
-Skipton Building Society is committed to protecting your privacy and keeping your personal information secure. This policy does not extend to external websites accessed from this site –including those of other members of the Skipton Building Society Group. Please read the terms and conditions of any other sites separately.
+Skipton Building Society is committed to protecting your privacy and keeping your personal information secure. This policy does not extend to external websites accessed from this site —including those of other members of the Skipton Building Society Group. Please read the terms and conditions of any other sites separately.
 
 ## Security
 
@@ -12,6 +12,8 @@ Open emails are not secure and third parties may be able to intercept, access or
 
 If you make an enquiry via email, we will take steps to check your identity before giving out any personal information.
 
+Emails, alleging to be from UK banks and building societies, have been sent encouraging people to visit fraudulent websites, to invest money and reveal personal details. Skipton Building Society, or companies within the Skipton Building Society group, will never send emails asking for confidential information or security details and you should not respond to emails asking you to reveal such information. We wish to remind customers to be vigilant and if you are unsure or concerned about any communication that seems to be from Skipton Building Society, please call our helpline on 0845 850 1700* 
+
 We regularly review our security procedures.
 
 ## Privacy
@@ -20,7 +22,15 @@ The Data Protection Act 1998 (see [www.dataprotection.gov.uk](http://www.datapro
 
 The principle purpose of collecting personal data from you via this web site is to assist in the efficient running of your accounts or to provide information or services specifically requested by you. When you complete our online enquiry forms, we ask for your contact details and other selected information so that we can deal with your request as efficiently and effectively as possible.
 
-The Act also allows you to find out what information the Society holds about you in return for a small fee. This is known as a "subject access request." If you wish to know what information the Society holds about you, please write to the Data Protection Officer, The Bailey, Skipton Building Society, North Yorkshire, BD23 1DN. If any information is inaccurate or incorrect, please inform us and we will correct it.
+The Act also allows you to find out what information the Society holds about you in return for a small fee. This is known as a "subject access request." If you wish to know what information the Society holds about you, please write to the
+
+Data Protection Officer   
+The Bailey   
+Skipton Building Society   
+North Yorkshire   
+BD23 1DN 
+
+If any information is inaccurate or incorrect, please inform us and we will correct it.
 
 We provide training for our employees and emphasise the need to keep data confidential.
 
