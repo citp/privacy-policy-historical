@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the britainexpress.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210072309id_/http%3A//www.britainexpress.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britainexpress.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615072428id_/http%3A//www.britainexpress.com/Privacy.htm) for the most accurate reproduction.*
 
 # Britain Express Privacy Policy
 
@@ -59,21 +59,13 @@ GL54 2ND
   
 Untitled Document
 
-| **Free Contest Draw**  
----  
-  
-Win Ordnance Survey maps in our User Survey contest
-
-[**CLICK HERE**](https://web.archive.org/survey.htm)  
-  
-  
-  
-
+| 
 
  UK Ordnance Survey Maps  
+  
 ---  
 [](https://web.archive.org/Ordnance-Survey-maps.htm)[**Every OS map**](https://web.archive.org/Ordnance-Survey-maps.htm) including  
-Landranger, Explorer, and new Right to Roam. Free UK post and **10% off retail!**  
+Landranger, Explorer, and new Right to Roam. Free UK post and **10% off waterproof or paper OS maps!**  
   
   
 
