@@ -1,236 +1,121 @@
-> *The following text is extracted and transformed from the 1800mobiles.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800mobiles.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616005552id_/http%3A//www.1800mobiles.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Security and Privacy Statement for 1800Mobiles.com
 
-| | [**Cell Phone Accessories**](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/headsets.html)  
   
-[Nokia](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/nokia.html), [Sony Ericsson](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/ericsson.html), [LG](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/luckygoldstar1.html), [Motorola](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/motorola.html), [Samsung](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/samsung.html), [BlackBerry](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/blackberryacc.html), [Audiovox](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/audiovox.html), [Siemens](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/siemcelac.html), [Kyocera](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/kyoccelphona.html), ...  
-  
----|---  
-| [ **AT &T Wireless**](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/witac.html)  
-  
-Current Promos, [All Plans](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/attplanstdmagsm.html), [Free Cell Phone](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/a56iattwirelesswithservice.html), [LG G4011](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/att-wireless-lg-g4011.html), [Siemens M56](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/siemensm56.html), [Family Cell Phones](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/m56family.html), [V600](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/att-wireless-v600-cell-phone.html), [BlackBerry](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/blackberry6710activ.html), ...  
-  
-| [ **T-Mobile**](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/tmobile.html)  
-  
-Current Promos, [All Plans](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/tmobilerateplans.html), [Sidekick](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/sidekick.html), [Motorola V300](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/tmobilev300.html), [Samsung E715](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/tmobilee715.html), [Free Phone](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/tmobilemotorolav66.html), [Family Cell Phones](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/tmobilefamily3595.html), ...  
-  
-| [ **Cingular Wireless**](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/cingular.html)  
-  
-Current Promos, [All Plans](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/cingularplans.html), [Siemens A56](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/cingulara561.html), [Nokia 3595](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/cingular3595.html), [Motorola T720](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/cingulart720.html), [Samsung X427](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/cingularx427.html), [Treo 600](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/cingular-treo-600-cell-phone.html), ...  
-  
-| [ **NEXTEL Phones**](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/nextel.html)  
-  
-[Nextel i60c ](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/ideni60c.html), [Nextel i730](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/ideni730.html), [Nextel i90](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/ideni90c.html), Free Incoming Plans, [DirectConnect Walkie Talkie ](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/nexteldirectconnect.html), ...  
-  
-| [ **Sprint PCS**](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/sprintbusiness.html)  
-  
-[Samsung VGA 1000](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/sprintlg1200.html), [Nokia 3588i](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/nokia3588isprint.html), [Sanyo 8100](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/sprintsanyo8100.html), [Treo 600](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/sprinttreo600.html), [All Plans](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/sprintplans.html), Promos, ...  
-  
-| [ **Free Cell Phones**](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/freecellphones.html)  
-  
-[Free Motorola Phone](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/tmobilec332.html), [Free Ericsson Phone](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/ericssont226.html), [Free Flip Cell Phone](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/palmtungstenwactiv.html), [Free LG Phone](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/cingularlg4010.html), ...  
-  
-| [ **Family Cell Phones**](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/familyphones.html)  
-  
-[AT&T Wireless Family Phones](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/nokia3200family.html), [T-Mobile Family Phones](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/715family.html), [Sprint PCS Family Cell Phones](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/sprint3588family.html), ...  
-  
-| [ **Upgrade Your AT &T Wireless Phone**](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/alhavattplan.html)  
-  
-[Samsung X426](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/tunstenwreplacemnt.html), [Free Phone!](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/t226replacement.html), [Nokia 6820](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/nec525.html), [LG G4011](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/att-wireless-lg-g4011.html), [Nokia 3200](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/attnokia3200.html), ...  
-  
-| [ **Upgrade Your Verizon Wireless Phone**](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/revverwircur.html)  
-  
-[Motorola V60ci](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/v60i.html), [Nokia 3589i](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/nokia3589i.html), [Motorola T730](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/t730.html), [LG VX-6000](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/vx-6000.html), [LG VX4000](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/verzvx4400.html), ...  
-  
-| [ **AT &T Wireless Prepaid**](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/newnatprepph.html)  
-  
-[Prepaid Cell Phone](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/gophone3590blue.html), [Nokia 2260](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/att-wireless-prepaid-nokia-2260-cell-phone.html), [AT&T Wireless Go Phone](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/lg4011gophone.html), [Prepaid Phone Card](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/clichertopur6.html), ...  
-  
-| [ **Liberty Wireless: No Credit Check, No Contract !**](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/libertywireless.html)  
-  
-  
-| [ **Laptop Battery Catalog: find your laptop battery, charger, memory and more ...**](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/lapac.html)  
-  
-[Batteries & Chargers](http://mobilebatteries.biz/?cat=7), [IBM](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/ibmthinserno.html), [Apple](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/apnotac.html), [Compaq](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/compaq.html), [Dell](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/dell.html), [Toshiba](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/toshiba.html), [SONY](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/sonlapbat.html), ...  
-  
-| [ **World Cell Phones Network Unlocked**](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/incelsolclic.html)  
-  
-[P900](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/p900unlocked.html), [Treo 600](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/treo600unlocked.html), [Nokia 6600](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/nokia6600.html), [Nokia 6820](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/6820unlocked.html), ...  
-  
-| [ **Gorilla Mobile: free trial on international cellular calls !**](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/gorilla-mobile.html)  
-  
-  
-| [ **Ringtones, Wallpapers & Games**](http://www.nreach.com/static/1800mobiles/docs/index.html)  
-  
-  
-| [ **Camcorder Accessories**](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/camac.html)  
-  
-[Batteries & Chargers](http://mobilebatteries.biz/?cat=1), [Canon](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/canoncamcorderbatts.html), [JVC](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/jvccamcorderbatts.html), [Panasonic](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/panasoniccamcorderbatts.html), [SONY](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/sonycamcorderbatts.html), ...  
-  
-| [ **Digital Camera Accessories**](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/digcamac.html)  
-  
-[Batteries](http://mobilebatteries.biz/?cat=5), [Fuji](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/fujidigicam.html), [JVC](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/jvcdigicam.html), [Kodak ](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/kodakdigicam.html), ...  
-  
-| [ **PDAs: Palm, Sony Compaq and Blackberry**](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/pda.html)  
-  
-  
-| [ **Palm Pilots & PDA Accessories**](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/hanor.html)  
-  
-  
-| [ **Cordless Phone Accessories**](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/corphonrepba.html)  
-  
-[Batteries](http://mobilebatteries.biz/?cat=3), [AT&T](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/at-tcordlessphonebatts.html), [Audio Sonic ](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/audiosoniccordlessphonebatts.html), [Audiovox](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/audiovoxcordlessphonebatts.html), ...  
-  
-| [ **Cordless Phones**](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/cordlessphoneshandsets.html)  
-  
-  
-| [ **Desktop Accessories**](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/desktopaccessories.html)  
-  
-[Mouse Pads](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/mousepads.html), [Mics](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/desktopmics.html), [Mouse](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/desktopmouse.html), [Keyboards](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/desktopkeyboard.html), ...  
-  
-| [ **Best Handsfree Kits**](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/hansolforcel.html)  
-  
-[Navigators](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/ccmnavhankit.html), [Plantronics](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/headforcelan.html), [Jabra](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/celphonearby.html), ...  
-  
-| [ **Gift Ideas For Mobile Professionals**](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/besgifidforh.html)  
-  
-  
-| [ **Beyond Mobiles**](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/beyond.html)  
-  
-  
-| [ **Wireless Data Solutions (Laptop-Cellphones Software and Cables)**](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/wirinconcen.html)  
-  
-  
-| [ **Wireless University**](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/wireless101.html)  
-  
-  
-| [ **Boost Your Cell Phone Reception**](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/recbluestryo.html)  
-  
-  
-| [ **iPod Accessories by Belkin**](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/ipodaccessories.html)  
-  
-[iPod FM Tuner](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/f8v367-apl.html), [iPod Car Holder](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/f8e467.html), [iPod Holster](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/f8e535-apl.html), [iPod Case](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/f8e533-apl.html), [iPod Sport Case](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/f8e534-apl.html), ...  
-  
-| [ **Dell DJ MP3 Accessories**](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/dell-digital-jukebox-mp3-accessories.html)  
-  
-[Dell DJ Car Charger](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/f8d0001-dl.html), [Car Holder](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/f8e469-dl.html), [Car Kit](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/f8e469-kit-dl.html), [FM Tuner](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/f8e469-kit2-dl.html), [Sport Case](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/f8e538-dl.html), ...  
-  
-  
-  
-|   
-[ **Sign up & Save!** Join the 1800Mobiles.com Newsletter!](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/list.html)  
-| | Security and Privacy Statement for 1800Mobiles.com1-800 MOBILES Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.1800mobiles.com. 
+[](http://www.truste.org/ivalidate.php?url=www.1800mobiles.com&sealid=101)   
+[_**Click here to start shopping at 1800mobiles.com for cell phones and accessories !**_](http://www.1800mobiles.com/)
 
-Our site's shopping cart requires users to give us contact information (like your name and email address) and financial information (like your credit card number). We use customer contact information from the shopping cart to process your orders and collect the due payment. 
+Effective June 30, 2005.
 
-**PRIVACY POLICY FOR CELLULAR PHONE ACTIVATIONS WITH SERVICE:** When customers buy a phone, they are also making a commitment with a specific carrier for a minimum of 12 months. Carriers require credit history checks when activating new service. These credit checks are not required when 1800mobiles customers are purchasing accessories, electronics or any other product that does not involve a contract with a wireless carrier. 
+1-800 MOBILES Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.1800mobiles.com and pages within our store hosted by our third party hosting provider.
 
-1800Mobiles.com only uses personal information such as social security number or date of birth, to run a credit history check for wireless service activation. We perform a standard industry credit check by inputting your data into the wireless carrier system. Once the carrier runs the check, it informs us of your approval status so that we can either process the order where the credit is approved or notify if you have not matched the carrier's credit requirements. **Aside from approval status information, we do not have access to any applicantâ€™s credit-history information and we do not use it or re-sell it in any other way.**
+Our site's shopping cart requires users to give us contact information (like your name and email address) and financial information (like your credit card number). We use customer contact information from the shopping cart to process your orders and collect the due payment.
 
-1800Mobiles has an opt-in newsletter. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services only.
+1800mobiles.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.1800mobiles.com. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
- **Security**  
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
+If you have questions or concerns regarding this statement, you should first contact our Privacy Office at privacy@1800mobiles.com. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe http://www.truste.org/consumers/watchdog_complaint.php . TRUSTe will then serve as a liaison with the Web site to resolve your concerns. PRIVACY POLICY FOR CELLULAR PHONE ACTIVATIONS WITH SERVICE:
 
- **Children's Guidelines**   
-Our Web site meets the guidelines of TRUSTe.org's Children's program.
+When customers buy a phone, they are also making a commitment with a specific carrier for a minimum of 12 months. Carriers require credit history checks when activating new service. These credit checks are not required when 1800mobiles customers are purchasing accessories, electronics or any other product that does not involve a contract with a wireless carrier.
 
-  1. NOT collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent
-  2. NOT collect personally identifiable offline contact information without prior parental consent
-  3. NOT distribute to third parties any personally identifiable information with out prior parental consent
-  4. NOT give the ability to publicly post or otherwise distribute personally identifiable contact information without prior parental consent
-  5. NOT entice by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity
+1800Mobiles.com only uses personal information such as social security number or date of birth, to run a credit history check for wireless service activation. We perform a standard industry credit check by inputting your data into the wireless carrier system. Once the carrier runs the check, it informs us of your approval status so that we can either process the order where the credit is approved or notify if you have not matched the carrier's credit requirements. Aside from approval status information, we do not have access to any credit-history information and we do not use it or re-sell it in any other way.
 
- **Choice/Opt-Out**  
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.
+1800Mobiles has an opt-in email newsletter containing marketing and promotional offers. These email newsletters are from 1800mobiles.com only and it is entirely your choice whether you want to receive them or not. Newsletter broadcasting infrastructure may be powered by a third-party provider. We will ask for your email address when signing up for this service. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services only.
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
+ **Security**
 
-  1. You can send email to [optout@1800mobiles.com](mailto:optout@1800mobiles.com)
-  2. You can send mail to the following postal address:  1800mobiles 264 W 40th #1402 New York NY 10018 
-  3. You can call the following telephone number: (800) 662-4537
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. The security of your personal information is important to us. When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).
 
- **Correct/Update**  
-This site gives users the following options for changing and modifying information previously provided. 
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-  1. email [customerservice@1800mobiles.com](mailto:optout@1800mobiles.com)
-  2. send mail to the following postal address:  1800mobiles 264 W 40th #1402 New York NY 10018 
+If you have any questions about security on our Web site, you can send email us at privacy@1800mobiles.com Children's Guidelines
 
-**Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Webmaster 1800mobiles Inc. 264 W 40th #1402 New York, NY 10018 customerservice@1800mobiles.com
+1-800-mobiles is not for use by children under the age of 13. Any child wishing to make a purchase from the site must do so through their parent or guardian. 1800mobiles.com does not knowingly collect or store information about children under the age of 13, nor does it market to these individuals. Anyone using the site must be old enough to qualify for a credit card account to make purchases.
+
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. 1800mobiles.com stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
+
+Your friend may contact us at optout@1800mobiles.com to request that we remove this information from our database.
+
+ **Co-Branded Websites**
+
+We may at times direct you to co-branded sites for the purpose of purchasing products and services. Please note than, once exited 1800mobiles.com, the applicable privacy policy is the one posted by the co-branded sites. Co-branded sites are operating independently from 1800mobiles.com. 1800mobiles.com is not responsible for the effectiveness of their privacy policies.
+
+ **Agents**
+
+We use an outside shipping company to fulfill orders, and a credit card processing company to bill you for goods and services. These companies do not retain, share, store or use personally identifiable information for any other purposes.
+
+ **Service Providers**
+
+We use other third parties to provide wireless service activation on our site. When you sign up for service with all wireless carriers incuding but not limited to AT&T Wireless,T-Mobile, Cingular Wireless, Sprint PCS, Liberty Wireless, Verizon Wireless we will share your personal information such as Social Security number, date of birth, driver’s license number, physical and billing address and credit card for the third party to provide that service.
+
+These third parties are prohibited from using your personally identifiable information for purpose other than verifying your credit history and activate services as per your request.
+
+ **Other Third Parties**
+
+Credit card information is shared with our credit card merchant bank partner First Data corporation. After screening for fraud prevention purpose, your card is only used for the transaction you authorize. Card information is not shared with other parties and destroyed as soon as possible after receipt.
+
+ **Legal Disclaimer**
+
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site
+
+ **Cookies**
+
+A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We do use cookies on this site. We do link the information we store in cookies to any personally identifiable information you submit while on our site.
+
+We use session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.
+
+We set a persistent cookie to store your passwords, so you don’t have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.
+
+If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited.
+
+Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies.
+
+This privacy statement covers the use of cookies by 1800mobiles.com only and does not cover the use of cookies by any advertisers.
+
+ **Log Files**
+
+As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
+
+We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole.
+
+We do link this automatically-collected data to personally identifiable information. IP addresses are tied to personally identifiable information mainly for fraud prevention purpose.
+
+We use a third-party tracking service [powered by Yahoo Inc.] that uses cookies and log files to track non-personally identifiable information about visitors to our site in the aggregate usage and volume statistics to better optimize the functionality of our site.
+
+**Choice/Opt-Out**
+
+Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
+
+1\. You can send email to optout@1800mobiles.com
+
+2\. You can send mail to the following postal address: 1800mobiles 264 W 40th- 14th floor New York NY 10018
+
+3\. You can call the following telephone number: (800) 662-4537
+
+ **Correct/Update**
+
+This site gives users the following options for changing and modifying information previously provided.
+
+1\. email customerservice@1800mobiles.com
+
+2\. send mail to the following postal address: 1800mobiles 264 W 40th -14th floor, New York NY 10018
+
+3\. access our site in the “my account section” so you can update/edit your information.
+
+ **Changes to Our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.]
+
+ **Contacting the Web Site**
+
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
+
+Webmaster 1800mobiles Inc. 264 W 40th -14th floor New York, NY 10018 customerservice@1800mobiles.com
+
+This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the Yahoo! Privacy Policy for more information about how Yahoo! uses this information.
 
 * * *
 
- _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._  
----|---  
-  
-[](https://web.archive.org/web/20040602185824id_/http%3A//1800mobiles.com/privacypolicy.html#top)
-
-|   
-
-
-BOOKMARK 1800Mobiles.com! (CTRL-D)
-
-  
-  
-
-
-|   
----  
-  
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-* * *
+ _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._
