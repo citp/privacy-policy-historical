@@ -1,38 +1,173 @@
-<!--The following is the downloaded HTML source of the realage.com privacy policy that was archived on 2005-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051218050456id_/http%3A//www.realage.com/company_info/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the realage.com privacy policy that was archived on 2006-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615031921id_/http%3A//www.realage.com/company_info/privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-		<title>About RealAge - RealAge Privacy Statement</title>
-		<meta name="vs_showGrid" content="True">
+<html><head>
+		<meta http-equiv="Pragma" content="no-cache">	<!-- this one is for firefox-->
+		<meta http-equiv="Expires" content="-1">		<!-- this one is for IE-->
+		<title>About RealAge — RealAge Privacy Statement</title>
+		<link rel="stylesheet" type="text/css" href="http://www.realage.com/App_Styles/GlobalStyles.css">
 		<link rel="stylesheet" type="text/css" href="inc/aboutRA_Styles.css">
-			<script language="javascript" src="../inc/MouseOver.js"></script>
 	</head>
-	<body topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" bgcolor="#ffffff">
-		<table border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="#ffcc33">
+	<body>
+		<table width="100%" height="100%" cellpadding="0" cellspacing="0">
 			<tbody><tr>
-				<td>
-					
+				<td valign="top">
+
+<script language="javascript">		
+	//EMERGENCY SHUT-OFF FOR TRACKING - WARNING: setting to false 
+    //will deactivate all calls to updatemembertracking on the header
+    var TrackingEnabled = true;
+
+	// Attempts to create an instance of XmlHttp.  If successful, the 
+	// instance is returned.  If not successful (i.e. if the browser 
+	// doesn't support AJAX) the function returns null - THE RETURN VALUE
+	// MUST BE CHECKED BEFORE USING!
+	function CreateXmlHttp() {
+		var XmlHttp = null;
+		try {
+			XmlHttp = new ActiveXObject('Msxml2.XMLHTTP');
+		} 
+		catch (e) {
+			try {
+				XmlHttp = new ActiveXObject('Microsoft.XMLHTTP');
+			} 
+			catch (e) {
+            	try {
+            		XmlHttp = new XMLHttpRequest();
+            	}
+            	catch (e) {
+            		return null;
+            	}
+			}
+		}
+		return XmlHttp;
+	}
+	
+	function Call_AJAX_Tracking(clientId, itemId) {
+		if (TrackingEnabled) {		
+			//alert(itemId);
+			var XmlHttp = CreateXmlHttp();
+			if (XmlHttp) {	
+				XmlHttp.open('GET', 
+					'http://www.realage.com/App_Pages/AJAX_Tracking.aspx?m=0&c=' + 
+					clientId + '&i=' + itemId, true);
+				XmlHttp.onreadystatechange = function(){}//Do nothing for tracking				
+				XmlHttp.send(null);				
+			}
+		}
+	}
+	
+	var SSXmlHttp = CreateXmlHttp();
+	function Call_AJAX_SetSearchTabState() {		
+		if (SSXmlHttp) {						
+			SSXmlHttp.open('GET', 'http://www.realage.com/App_Pages/AJAX_UtilityServices.asmx/SetSearchState' , true);
+			SSXmlHttp.onreadystatechange = SearchTabResponse
+			SSXmlHttp.send(null);
+		}		
+	}
+	
+	function SearchTabResponse() {
+		if (SSXmlHttp.readyState == 4) {			
+			//Switch display, and send request to synchronize shared property
+			switchSearchTabDisplay(document.getElementById('CurrentSearchState').value);
+		}
+	}		
+	
+	var searchResTrackingId;
+	function switchSearchTabDisplay(showIndex, autoLoad) {
+		// showIndex = 1 --> All Results (default)
+		// showIndex = 2 --> RealAge Only
+		if (showIndex == 2) {
+			document.getElementById('AllResultsState').style.display = 'none';
+			document.getElementById('RealAgeOnlyState').style.display = '';
+			document.getElementById('CurrentSearchState').value = 1;
+			searchResTrackingId = '217';		
+			// Set hidden field for search resutls	
+			document.getElementById('Catno').value = '1';
+			// Netscape bug fix - image needs to be set manually
+			document.getElementById('RATab').src='http://www.realage.com/App_Images/Header/hd_srch_tab_RealAgeOnly.gif';
+		}
+		else {
+			document.getElementById('AllResultsState').style.display = '';
+			document.getElementById('RealAgeOnlyState').style.display = 'none';
+			document.getElementById('CurrentSearchState').value = 2;
+			searchResTrackingId = '216';
+			// Set hidden field for search resutls
+			document.getElementById('Catno').value = '-1';
+			// Netscape bug fix - image needs to be set manually
+			document.getElementById('AllTab').src='http://www.realage.com/App_Images/Header/hd_srch_tab_AllResults2.gif';						
+		}
+				
+		// If already on the search page, then automatically trigger a search when tabs are toggled
+		if ((document.getElementById('SearchTextBox').value != '') && ('privacy.aspx' == 'rasearch.aspx') && !autoLoad) {
+			document.getElementById('SearchForm').submit();
+		}
+		else if (!autoLoad) {//Don't focus on initial load, only if the user manually clicks a tab
+			document.getElementById('SearchTextBox').focus(); //Focus search if switched manually
+		}				
+	}
+	
+	function Call_AJAX_SignOut() {		
+		var XmlHttp = CreateXmlHttp();	
+		
+		if (XmlHttp) {					
+			ChangeWelcomeMessage("", "FontVerySmallLightGray");		
+			XmlHttp.open('GET', 
+				'http://www.realage.com/App_Pages/AJAX_SignOut.aspx', true);
+
+			XmlHttp.onreadystatechange = function () {
+				if (XmlHttp.readyState == 4) {
+					if (eval('false')) {
+						//Head to homepage after signing out on reg-required pages
+						window.location.href = 'http://www.realage.com/Index.aspx';
+					}
+					else {			
+						// Show sign in Text
+						ChangeWelcomeMessage("Welcome to RealAge! <a href='http://www.realage.com/Reg/Regassess.aspx?mod=DEFAULT&dest=http%3a%2f%2fwww.realage.com%2fcompany_info%2fprivacy.aspx'>Please sign in</a> to view personalized health information.", "FontVerySmall");								
+					}
+				}
+			}
+			
+			//Send the request
+			XmlHttp.send(null);		
+		}
+		else { 
+			//Sign-out processing for non-AJAX compliant browsers - redirect is handled by AJAX_SignOut.aspx
+			window.location.href = 'http://www.realage.com/App_Pages/AJAX_SignOut.aspx?na=1';
+		}				
+	}	
+		
+	function ChangeWelcomeMessage(welcomeText, className) {
+		var welcomeSpan = document.getElementById('WelcomeTextSpan');		
+		var classAtt = welcomeSpan.getAttributeNode('class');
+		welcomeSpan.innerHTML = welcomeText;								
+		classAtt.value = className;	
+	}				
+</script>
+
+<input type="hidden" id="CurrentSearchState" value="2">
+<table width="100%" cellpadding="0" cellspacing="0">	
+	<tbody><tr id="Header2_OldNavigation">
+	<td>
 <!--style sheet-->
 <link rel="stylesheet" type="text/css" href="http://www.realage.com/uc/inc/ddl.css">
 <input type="hidden" id="logOutUserFlag" name="logOutUserFlag" value="0">
 <!-- Menu UI -->
 <table width="100%" cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr id="DropDown_trMenu">
-	<td bgcolor="#073887" valign="bottom">			
+	<tbody><tr id="Header2_DropDown1_trMenu">
+		<td bgcolor="#073887" valign="bottom">			
 			<table border="0" cellpadding="0" cellspacing="0">
 				<tbody><tr>
 					<td valign="bottom"><img src="http://www.realage.com/uc/img/clear.gif" border="0" width="132" height="21"></td>			
 					<td bgcolor="#073887" valign="bottom"><a href="http://www.realage.com/health_guides/hg_entry.aspx" onmouseover="swapImage('m1','http://www.realage.com/uc/img/health_tools_on.gif');" onmouseout="swapImage('m1','http://www.realage.com/uc/img/health_tools_off.gif');"><img src="http://www.realage.com/uc/img/health_tools_off.gif" name="m1" border="0" onmouseout="delayedHideSubMenu('sm0');" onmouseover="showSubMenu('sm0');"></a></td>
 					<td bgcolor="#073887" valign="bottom"><a href="http://www.realage.com/company_info/company_entry.aspx" onmouseover="swapImage('m2','http://www.realage.com/uc/img/about_ra_on.gif');" onmouseout="swapImage('m2','http://www.realage.com/uc/img/about_ra_off.gif');"><img src="http://www.realage.com/uc/img/about_ra_off.gif" name="m2" border="0" onmouseout="delayedHideSubMenu('sm1');" onmouseover="showSubMenu('sm1');"></a></td>
 					<td bgcolor="#073887" valign="bottom"><a href="http://www.realage.com/help_desk/site_faqs.aspx" onmouseover="swapImage('m3','http://www.realage.com/uc/img/help_desk_on.gif');" onmouseout="swapImage('m3','http://www.realage.com/uc/img/help_desk_off.gif');"><img src="http://www.realage.com/uc/img/help_desk_off.gif" name="m3" border="0" onmouseout="delayedHideSubMenu('sm2');" onmouseover="showSubMenu('sm2');"></a></td>
-					<td bgcolor="#073887" valign="bottom"><a href="http://www.realage.com/reg/MyAcntTC.aspx" onmouseover="swapImage('m4','http://www.realage.com/uc/img/my_acct_on.gif');" onmouseout="swapImage('m4','http://www.realage.com/uc/img/my_acct_off.gif');"><img src="http://www.realage.com/uc/img/my_acct_off.gif" name="m4" border="0" onmouseout="delayedHideSubMenu('sm3');" onmouseover="showSubMenu('sm3');"></a></td>
-					<!--REMOVED 5.18.05 - AT <td bgcolor="#073887" valign="bottom"><a href="" onMouseOver="swapImage('m5','uc/img/');" onMouseOut="swapImage('m5','uc/img/');"><img src="uc/img/" name="m5" border="0" onmouseout=delayedHideSubMenu('sm4'); onmouseover=showSubMenu('sm4');></a></td>-->
-					<td bgcolor="#073887" valign="bottom"><a href="https://www.realage.com/reg/peb/pesub.aspx?mod=PEREPORT" onmouseover="swapImage('m5','http://www.realage.com/uc/img/RAMag_MenuTabRO_v1.gif');" onmouseout="swapImage('m5','http://www.realage.com/uc/img/RAMag_MenuTab_v1.gif');"><img src="http://www.realage.com/uc/img/RAMag_MenuTab_v1.gif" name="m5" border="0"></a></td>
+					<td bgcolor="#073887" valign="bottom"><a href="http://www.realage.com/reg/MyAcntTC.aspx" onmouseover="swapImage('m4','http://www.realage.com/uc/img/my_acct_on.gif');" onmouseout="swapImage('m4','http://www.realage.com/uc/img/my_acct_off.gif');"><img src="http://www.realage.com/uc/img/my_acct_off.gif" name="m4" border="0" onmouseout="delayedHideSubMenu('sm3');" onmouseover="showSubMenu('sm3');"></a></td>					
 				</tr>
 			</tbody></table>			
 		</td>
-</tr>
-
+	</tr>
+	
 	
 </tbody></table>
 
@@ -59,6 +194,7 @@
 			img7.src = "http://www.realage.com/UC/img/my_acct_off.gif";
 			img8 = new Image();
 			img8.src = "http://www.realage.com/UC/img/my_acct_on.gif";
+			/*
 			img9 = new Image();
 			img9.src = "http://www.realage.com/UC/img/RAMag_MenuTab_v1.gif";
 			img10 = new Image();
@@ -67,6 +203,7 @@
 			img11.src = "http://www.realage.com/UC/img/RAMag_MenuTab_v2.gif";
 			img12 = new Image();
 			img12.src = "http://www.realage.com/UC/img/RAMag_MenuTabRO_v2.gif";
+			*/
 		}
 			
 		/////////////////////////////////////////////	
@@ -80,14 +217,14 @@
 		var menuSpaceTop		= 21;
 		var hideDelay			= 300;
 		var topMenu				= new Menu(menuSpaceLeft, menuLeftMargin, menuTopMargin);
-		var isPremiumMember		= 0;	
-		var isUserSignedIn		= 0;	
+		//var isPremiumMember		= 0;	
+		//var isUserSignedIn		= 0;	
 		
 		// Build SubMenu 1 MenuItems
 		var sm0_item0 = new MenuItem('The RealAge<br>Test', 'http://www.realage.com/reg/regassess.aspx?mod=LONGFORM', 'http://www.realage.com/uc/img/bullet_fullsize.gif', linkStyle, 'sm0_i0', false);
 		var sm0_item1 = new MenuItem('Tip of the Day', 'http://www.realage.com/news_features/tip.aspx', 'http://www.realage.com/uc/img/bullet_fullsize.gif', linkStyle, 'sm0_i1', false);
 		var sm0_item2 = new MenuItem('Health Centers', 'http://www.realage.com/health_guides/hg_entry.aspx', 'http://www.realage.com/uc/img/bullet_fullsize.gif', linkStyle, 'sm0_i2', false);
-		var sm0_item3 = new MenuItem('Diet and Fitness', 'http://www.realage.com/racafe/racafeEntry.aspx', 'http://www.realage.com/uc/img/bullet_fullsize.gif', linkStyle, 'sm0_i3', false);
+		var sm0_item3 = new MenuItem('Diet and Fitness', 'http://www.realage.com/racafe/fitnessPlan/fpEntry.aspx', 'http://www.realage.com/uc/img/bullet_fullsize.gif', linkStyle, 'sm0_i3', false);
 		var sm0_item4 = new MenuItem('Health News', 'http://www.realage.com/news_features/news_entry.aspx', 'http://www.realage.com/uc/img/bullet_fullsize.gif', linkStyle, 'sm0_i4', false);
 		var sm0_item5 = new MenuItem('LIFE Challenge', 'http://www.realage.com/LIFE/jmplife.aspx?hp=1&lid=LfeChlg', 'http://www.realage.com/uc/img/bullet_fullsize.gif', linkStyle, 'sm0_i5', false);
 		var sm0_item6 = new MenuItem('Encyclopedia', 'http://www.realage.com/research_library/library.aspx', 'http://www.realage.com/uc/img/bullet_fullsize.gif', linkStyle, 'sm0_i6', false);		
@@ -344,499 +481,464 @@
 		else		
 			newWin = window.open(path, '', 'location,status,scrollbars,resizable,menubar,toolbar,width=750,height=550');
 	}		
-</script><div style="LEFT:133px;z-index:1;display:none;POSITION:absolute;TOP:21px;" id="sm0" onmouseout="delayedHideSubMenu('sm0');" onmouseover="showSubMenu('sm0');"><table width="113" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td width="1" bgcolor="#FFFFFF"><img src="http://www.realage.com/uc/img/clear.gif" width="1" height="1"></td><td bgcolor="#CEE7E7" width="100%"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td colspan="2"><img src="http://www.realage.com/uc/img/clear.gif" width="1" height="4"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm0_i0"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/reg/regassess.aspx?mod=LONGFORM" onmouseover="swapImage('sm0_i0','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm0_i0','http://www.realage.com/uc/img/clear.gif');">The RealAge<br>Test</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm0_i1"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/news_features/tip.aspx" onmouseover="swapImage('sm0_i1','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm0_i1','http://www.realage.com/uc/img/clear.gif');">Tip of the Day</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm0_i2"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/health_guides/hg_entry.aspx" onmouseover="swapImage('sm0_i2','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm0_i2','http://www.realage.com/uc/img/clear.gif');">Health Centers</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm0_i3"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/racafe/racafeEntry.aspx" onmouseover="swapImage('sm0_i3','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm0_i3','http://www.realage.com/uc/img/clear.gif');">Diet and Fitness</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm0_i4"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/news_features/news_entry.aspx" onmouseover="swapImage('sm0_i4','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm0_i4','http://www.realage.com/uc/img/clear.gif');">Health News</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm0_i5"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/LIFE/jmplife.aspx?hp=1&amp;lid=LfeChlg" onmouseover="swapImage('sm0_i5','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm0_i5','http://www.realage.com/uc/img/clear.gif');">LIFE Challenge</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm0_i6"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/research_library/library.aspx" onmouseover="swapImage('sm0_i6','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm0_i6','http://www.realage.com/uc/img/clear.gif');">Encyclopedia</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm0_i7"></td><td valign="top" width="109"><span class="ddlink"><a href="http://realage.healthology.com" onmouseover="swapImage('sm0_i7','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm0_i7','http://www.realage.com/uc/img/clear.gif');">Multimedia</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm0_i8"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/research_library/12ways.aspx" onmouseover="swapImage('sm0_i8','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm0_i8','http://www.realage.com/uc/img/clear.gif');">12 Ways to Be Younger</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm0_i9"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/research_library/rec_reading.aspx" onmouseover="swapImage('sm0_i9','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm0_i9','http://www.realage.com/uc/img/clear.gif');">RealAge Books</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/clear.gif" height="4"></td></tr></tbody></table></td><td width="1" bgcolor="#FFFFFF"><img src="http://www.realage.com/uc/img/clear.gif" width="1" height="1"></td></tr><tr><td colspan="3" bgcolor="#FFFFFF" height="1"></td></tr></tbody></table></div><div style="LEFT:248px;z-index:1;display:none;POSITION:absolute;TOP:21px;" id="sm1" onmouseout="delayedHideSubMenu('sm1');" onmouseover="showSubMenu('sm1');"><table width="113" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td width="1" bgcolor="#FFFFFF"><img src="http://www.realage.com/uc/img/clear.gif" width="1" height="1"></td><td bgcolor="#CEE7E7" width="100%"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td colspan="2"><img src="http://www.realage.com/uc/img/clear.gif" width="1" height="4"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm1_i0"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/company_info/company_entry.aspx" onmouseover="swapImage('sm1_i0','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm1_i0','http://www.realage.com/uc/img/clear.gif');">The Company</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm1_i1"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/company_info/advertising.aspx" onmouseover="swapImage('sm1_i1','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm1_i1','http://www.realage.com/uc/img/clear.gif');">Advertise with Us</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm1_i2"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/company_info/oursponsors.aspx" onmouseover="swapImage('sm1_i2','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm1_i2','http://www.realage.com/uc/img/clear.gif');">Our Sponsors</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm1_i3"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/company_info/licensing.aspx" onmouseover="swapImage('sm1_i3','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm1_i3','http://www.realage.com/uc/img/clear.gif');">License the Brand</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm1_i4"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/company_info/RA_faqs.aspx" onmouseover="swapImage('sm1_i4','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm1_i4','http://www.realage.com/uc/img/clear.gif');">Our Science</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm1_i5"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/help_desk/link2RA.aspx" onmouseover="swapImage('sm1_i5','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm1_i5','http://www.realage.com/uc/img/clear.gif');">Link to Us</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm1_i6"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/company_info/contactra.aspx" onmouseover="swapImage('sm1_i6','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm1_i6','http://www.realage.com/uc/img/clear.gif');">Contact Us</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm1_i7"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/company_info/company_entry.aspx" onmouseover="swapImage('sm1_i7','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm1_i7','http://www.realage.com/uc/img/clear.gif');">More Options</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/clear.gif" height="4"></td></tr></tbody></table></td><td width="1" bgcolor="#FFFFFF"><img src="http://www.realage.com/uc/img/clear.gif" width="1" height="1"></td></tr><tr><td colspan="3" bgcolor="#FFFFFF" height="1"></td></tr></tbody></table></div><div style="LEFT:363px;z-index:1;display:none;POSITION:absolute;TOP:21px;" id="sm2" onmouseout="delayedHideSubMenu('sm2');" onmouseover="showSubMenu('sm2');"><table width="113" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td width="1" bgcolor="#FFFFFF"><img src="http://www.realage.com/uc/img/clear.gif" width="1" height="1"></td><td bgcolor="#CEE7E7" width="100%"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td colspan="2"><img src="http://www.realage.com/uc/img/clear.gif" width="1" height="4"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm2_i0"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/help_desk/site_faqs.aspx" onmouseover="swapImage('sm2_i0','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm2_i0','http://www.realage.com/uc/img/clear.gif');">Password</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm2_i1"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/help_desk/cust_request.aspx" onmouseover="swapImage('sm2_i1','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm2_i1','http://www.realage.com/uc/img/clear.gif');">Technical</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm2_i2"></td><td valign="top" width="109"><span class="ddlink"><a href="mailto:feedback@realage.com" onmouseover="swapImage('sm2_i2','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm2_i2','http://www.realage.com/uc/img/clear.gif');">E-mail Us</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm2_i3"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/help_desk/site_faqs.aspx" onmouseover="swapImage('sm2_i3','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm2_i3','http://www.realage.com/uc/img/clear.gif');">More Options</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/clear.gif" height="4"></td></tr></tbody></table></td><td width="1" bgcolor="#FFFFFF"><img src="http://www.realage.com/uc/img/clear.gif" width="1" height="1"></td></tr><tr><td colspan="3" bgcolor="#FFFFFF" height="1"></td></tr></tbody></table></div><div style="LEFT:478px;z-index:1;display:none;POSITION:absolute;TOP:21px;" id="sm3" onmouseout="delayedHideSubMenu('sm3');" onmouseover="showSubMenu('sm3');"><table width="113" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td width="1" bgcolor="#FFFFFF"><img src="http://www.realage.com/uc/img/clear.gif" width="1" height="1"></td><td bgcolor="#CEE7E7" width="100%"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td colspan="2"><img src="http://www.realage.com/uc/img/clear.gif" width="1" height="4"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm3_i0"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/reg/MyAcntTC.aspx?mat=100" onmouseover="swapImage('sm3_i0','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm3_i0','http://www.realage.com/uc/img/clear.gif');">Change E-mail</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm3_i1"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/reg/MyAcntTC.aspx" onmouseover="swapImage('sm3_i1','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm3_i1','http://www.realage.com/uc/img/clear.gif');">Update Personal Info</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm3_i2"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/reg/MyAcntTC.aspx?mat=107" onmouseover="swapImage('sm3_i2','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm3_i2','http://www.realage.com/uc/img/clear.gif');">Change Subscriptions</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm3_i3"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/reg/MyAcntTC.aspx" onmouseover="swapImage('sm3_i3','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm3_i3','http://www.realage.com/uc/img/clear.gif');">More Options</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/clear.gif" height="4"></td></tr></tbody></table></td><td width="1" bgcolor="#FFFFFF"><img src="http://www.realage.com/uc/img/clear.gif" width="1" height="1"></td></tr><tr><td colspan="3" bgcolor="#FFFFFF" height="1"></td></tr></tbody></table></div>
-					
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>
-		<td bgcolor="#FFCC33" nowrap=""><a href="http://www.realage.com/index.aspx" onmouseover="MM_swapImage('document.logo', 'document.logo', 'http://www.realage.com/company_info/images/ra_logo_over.gif')" onmouseout="MM_swapImage('document.logo', 'document.logo', 'http://www.realage.com/company_info/images/ra_logo_off.gif')"><img src="http://www.realage.com/company_info/images/ra_logo_off.gif" border="0" name="logo"></a><img src="http://www.realage.com/company_info/img/AboutRealAge_hdr.gif"></td>
-	</tr>
-	<tr>
-		<td bgcolor="#FFCC00"><img src="http://www.realage.com/company_info/images/clear_dot.gif" width="1" height="1"></td>
-	</tr>
-</tbody></table>
-				</td>
-			</tr>
-		</tbody></table>
-		<table border="0" cellpadding="0" cellspacing="0">
-			<tbody><tr>
-				<td rowspan="15" valign="top" width="130" bgcolor="#ffffcc">
+</script><div style="LEFT:133px;z-index:1;display:none;POSITION:absolute;TOP:21px;" id="sm0" onmouseout="delayedHideSubMenu('sm0');" onmouseover="showSubMenu('sm0');"><table width="113" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td width="1" bgcolor="#FFFFFF"><img src="http://www.realage.com/uc/img/clear.gif" width="1" height="1"></td><td bgcolor="#CEE7E7" width="100%"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td colspan="2"><img src="http://www.realage.com/uc/img/clear.gif" width="1" height="4"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm0_i0"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/reg/regassess.aspx?mod=LONGFORM" onmouseover="swapImage('sm0_i0','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm0_i0','http://www.realage.com/uc/img/clear.gif');">The RealAge<br>Test</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm0_i1"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/news_features/tip.aspx" onmouseover="swapImage('sm0_i1','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm0_i1','http://www.realage.com/uc/img/clear.gif');">Tip of the Day</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm0_i2"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/health_guides/hg_entry.aspx" onmouseover="swapImage('sm0_i2','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm0_i2','http://www.realage.com/uc/img/clear.gif');">Health Centers</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm0_i3"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/racafe/fitnessPlan/fpEntry.aspx" onmouseover="swapImage('sm0_i3','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm0_i3','http://www.realage.com/uc/img/clear.gif');">Diet and Fitness</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm0_i4"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/news_features/news_entry.aspx" onmouseover="swapImage('sm0_i4','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm0_i4','http://www.realage.com/uc/img/clear.gif');">Health News</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm0_i5"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/LIFE/jmplife.aspx?hp=1&amp;lid=LfeChlg" onmouseover="swapImage('sm0_i5','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm0_i5','http://www.realage.com/uc/img/clear.gif');">LIFE Challenge</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm0_i6"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/research_library/library.aspx" onmouseover="swapImage('sm0_i6','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm0_i6','http://www.realage.com/uc/img/clear.gif');">Encyclopedia</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm0_i7"></td><td valign="top" width="109"><span class="ddlink"><a href="http://realage.healthology.com" onmouseover="swapImage('sm0_i7','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm0_i7','http://www.realage.com/uc/img/clear.gif');">Multimedia</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm0_i8"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/research_library/12ways.aspx" onmouseover="swapImage('sm0_i8','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm0_i8','http://www.realage.com/uc/img/clear.gif');">12 Ways to Be Younger</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm0_i9"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/research_library/rec_reading.aspx" onmouseover="swapImage('sm0_i9','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm0_i9','http://www.realage.com/uc/img/clear.gif');">RealAge Books</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/clear.gif" height="4"></td></tr></tbody></table></td><td width="1" bgcolor="#FFFFFF"><img src="http://www.realage.com/uc/img/clear.gif" width="1" height="1"></td></tr><tr><td colspan="3" bgcolor="#FFFFFF" height="1"></td></tr></tbody></table></div><div style="LEFT:248px;z-index:1;display:none;POSITION:absolute;TOP:21px;" id="sm1" onmouseout="delayedHideSubMenu('sm1');" onmouseover="showSubMenu('sm1');"><table width="113" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td width="1" bgcolor="#FFFFFF"><img src="http://www.realage.com/uc/img/clear.gif" width="1" height="1"></td><td bgcolor="#CEE7E7" width="100%"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td colspan="2"><img src="http://www.realage.com/uc/img/clear.gif" width="1" height="4"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm1_i0"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/company_info/company_entry.aspx" onmouseover="swapImage('sm1_i0','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm1_i0','http://www.realage.com/uc/img/clear.gif');">The Company</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm1_i1"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/company_info/advertising.aspx" onmouseover="swapImage('sm1_i1','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm1_i1','http://www.realage.com/uc/img/clear.gif');">Advertise with Us</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm1_i2"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/company_info/oursponsors.aspx" onmouseover="swapImage('sm1_i2','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm1_i2','http://www.realage.com/uc/img/clear.gif');">Our Sponsors</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm1_i3"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/company_info/licensing.aspx" onmouseover="swapImage('sm1_i3','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm1_i3','http://www.realage.com/uc/img/clear.gif');">License the Brand</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm1_i4"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/company_info/RA_faqs.aspx" onmouseover="swapImage('sm1_i4','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm1_i4','http://www.realage.com/uc/img/clear.gif');">Our Science</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm1_i5"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/help_desk/link2RA.aspx" onmouseover="swapImage('sm1_i5','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm1_i5','http://www.realage.com/uc/img/clear.gif');">Link to Us</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm1_i6"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/company_info/contactra.aspx" onmouseover="swapImage('sm1_i6','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm1_i6','http://www.realage.com/uc/img/clear.gif');">Contact Us</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm1_i7"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/company_info/company_entry.aspx" onmouseover="swapImage('sm1_i7','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm1_i7','http://www.realage.com/uc/img/clear.gif');">More Options</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/clear.gif" height="4"></td></tr></tbody></table></td><td width="1" bgcolor="#FFFFFF"><img src="http://www.realage.com/uc/img/clear.gif" width="1" height="1"></td></tr><tr><td colspan="3" bgcolor="#FFFFFF" height="1"></td></tr></tbody></table></div><div style="LEFT:363px;z-index:1;display:none;POSITION:absolute;TOP:21px;" id="sm2" onmouseout="delayedHideSubMenu('sm2');" onmouseover="showSubMenu('sm2');"><table width="113" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td width="1" bgcolor="#FFFFFF"><img src="http://www.realage.com/uc/img/clear.gif" width="1" height="1"></td><td bgcolor="#CEE7E7" width="100%"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td colspan="2"><img src="http://www.realage.com/uc/img/clear.gif" width="1" height="4"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm2_i0"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/help_desk/site_faqs.aspx" onmouseover="swapImage('sm2_i0','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm2_i0','http://www.realage.com/uc/img/clear.gif');">Password</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm2_i1"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/help_desk/cust_request.aspx" onmouseover="swapImage('sm2_i1','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm2_i1','http://www.realage.com/uc/img/clear.gif');">Technical</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm2_i2"></td><td valign="top" width="109"><span class="ddlink"><a href="mailto:feedback@realage.com" onmouseover="swapImage('sm2_i2','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm2_i2','http://www.realage.com/uc/img/clear.gif');">E-mail Us</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm2_i3"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/help_desk/site_faqs.aspx" onmouseover="swapImage('sm2_i3','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm2_i3','http://www.realage.com/uc/img/clear.gif');">More Options</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/clear.gif" height="4"></td></tr></tbody></table></td><td width="1" bgcolor="#FFFFFF"><img src="http://www.realage.com/uc/img/clear.gif" width="1" height="1"></td></tr><tr><td colspan="3" bgcolor="#FFFFFF" height="1"></td></tr></tbody></table></div><div style="LEFT:478px;z-index:1;display:none;POSITION:absolute;TOP:21px;" id="sm3" onmouseout="delayedHideSubMenu('sm3');" onmouseover="showSubMenu('sm3');"><table width="113" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td width="1" bgcolor="#FFFFFF"><img src="http://www.realage.com/uc/img/clear.gif" width="1" height="1"></td><td bgcolor="#CEE7E7" width="100%"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td colspan="2"><img src="http://www.realage.com/uc/img/clear.gif" width="1" height="4"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm3_i0"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/reg/MyAcntTC.aspx?mat=100" onmouseover="swapImage('sm3_i0','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm3_i0','http://www.realage.com/uc/img/clear.gif');">Change E-mail</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm3_i1"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/reg/MyAcntTC.aspx" onmouseover="swapImage('sm3_i1','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm3_i1','http://www.realage.com/uc/img/clear.gif');">Update Personal Info</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm3_i2"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/reg/MyAcntTC.aspx?mat=107" onmouseover="swapImage('sm3_i2','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm3_i2','http://www.realage.com/uc/img/clear.gif');">Change Subscriptions</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/dotted_line.gif" height="3"></td></tr><tr><td valign="top"><img src="http://www.realage.com/uc/img/clear.gif" width="12" height="16" name="sm3_i3"></td><td valign="top" width="109"><span class="ddlink"><a href="http://www.realage.com/reg/MyAcntTC.aspx" onmouseover="swapImage('sm3_i3','http://www.realage.com/uc/img/bullet_fullsize.gif');" onmouseout="swapImage('sm3_i3','http://www.realage.com/uc/img/clear.gif');">More Options</a></span></td></tr><tr><td colspan="2"><img src="http://www.realage.com/uc/img/clear.gif" height="4"></td></tr></tbody></table></td><td width="1" bgcolor="#FFFFFF"><img src="http://www.realage.com/uc/img/clear.gif" width="1" height="1"></td></tr><tr><td colspan="3" bgcolor="#FFFFFF" height="1"></td></tr></tbody></table></div></td>
+</tr>
 
-<style type="text/css">
-<!--
-	.font { font-family:arial, helvetica, sans-serif; font-size:10pt; color: #003366; }
-//-->
-</style>
-
-<table width="120" border="0" cellspacing="0" cellpadding="3">
-	<tbody><tr>
-		<td colspan="3" height="20"><img src="http://www.realage.com/company_info/img/clear_dot.gif"></td>
-	</tr>
-	<tr>
-		<td rowspan="100" width="2"><img src="http://www.realage.com/company_info/img/clear_dot.gif"></td>
-		<td class="font" colspan="2"><b>About RealAge</b></td>
-	</tr>
 	<tr> 
-		<td rowspan="100" width="4"><img src="http://www.realage.com/company_info/img/clear_dot.gif"></td>
-		<td><a href="http://www.realage.com/company_info/company_entry.aspx" class="font"><b>The Company</b></a></td>
-	</tr>
-	<tr>
-		<td> 
-			<table border="0" cellspacing="0" cellpadding="3">
-				<tbody><tr> 
-					<td width="3" rowspan="8"><img src="http://www.realage.com/company_info/img/clear_dot.gif"></td>
-					<td><a href="http://www.realage.com/company_info/rapromise.aspx" class="font">The RealAge Promise</a></td>
+		<td nowrap="">
+			<table width="770" cellpadding="0" cellspacing="0" border="0">
+				<tbody><tr>
+					<td rowspan="3"><div class="HeaderContentLogoV2"><a href="http://www.realage.com/index.aspx" onclick="Call_AJAX_Tracking('2','209');"><img src="http://www.realage.com/App_Images/Header/hd_ra-logo2.gif"></a></div></td>					
+					<td><img src="http://www.realage.com/App_Images/Miscellaneous/clear.gif" height="16" width="1"></td>				
+					<td width="100%" align="right" valign="bottom"><span id="Header2_WelcomeText"><span class="FontVerySmall" id="WelcomeTextSpan">Welcome to RealAge! <a href="http://www.realage.com/Reg/Regassess.aspx?mod=DEFAULT&amp;dest=http%3a%2f%2fwww.realage.com%2fcompany_info%2fprivacy.aspx">Please sign in</a> to view personalized health information.</span></span></td>
 				</tr>
-				<tr> 
-					<td><a href="http://www.realage.com/company_info/raexecstaff.aspx" class="font">Executive Team</a></td>
+				<tr>	
+					<td><img src="http://www.realage.com/App_Images/Miscellaneous/clear.gif" height="38" width="1"></td>				
+					<td width="100%" valign="middle" nowrap=""><div class="HeaderTitleImgContainer"><span class="FontMedium"><img src="http://www.realage.com/App_Images/Header/hd_about.gif" border="0"><br>Read about our company, our science and executive teams, our policies, and more</span></div></td>
 				</tr>
-				<tr> 
-					<td><a href="http://www.realage.com/company_info/directors.aspx" class="font">Board of Directors</a></td>
-				</tr>
-				<tr> 
-					<td><a href="http://www.realage.com/company_info/scienceteam.aspx" class="font">Scientific Advisory Board</a></td>
-				</tr>
-				<tr> 
-					<td><a href="http://www.realage.com/company_info/privacy.aspx" class="font">Privacy Policy</a></td>
-				</tr>
-				<tr> 
-					<td><a href="http://www.realage.com/company_info/copyright.aspx" class="font">Patents</a></td>
-				</tr>
-				<tr> 
-					<td><a href="http://www.realage.com/company_info/advertisingpolicy.aspx" class="font">Marketing and Editorial Standards</a></td>
-				</tr>
-				<tr> 
-					<td><a href="http://www.realage.com/company_info/RA_faqs.aspx" class="font">Our Science</a></td>
-				</tr>				
-			</tbody></table>
-		</td>
-	</tr>
-	<tr> 
-		<td><a href="http://www.realage.com/company_info/press/pressreleases.aspx" class="font"><b>Press Room</b></a></td>
-	</tr>
-	<tr>
-		<td>
-			<table border="0" cellspacing="0" cellpadding="3">
-				<tbody><tr> 
-					<td width="3" rowspan="5"><img src="http://www.realage.com/company_info/img/clear_dot.gif"></td>
-					<td><a href="http://www.realage.com/company_info/press/pressreleases.aspx" class="font">Press Releases</a></td>
-				</tr>	
-				<tr> 
-					<td><a href="http://www.realage.com/company_info/press/prarticles.aspx" class="font">Media Activity</a></td>
-				</tr>	
-				<tr> 
-					<td><a href="http://www.realage.com/company_info/press/mediaspotlight.aspx" class="font">Speaking Engagements</a></td>
-				</tr>
-				<tr> 
-					<td><a href="http://www.realage.com/company_info/press/prbooks.aspx" class="font">Books</a></td>
+				<tr>	
+					<td colspan="2"><img src="http://www.realage.com/App_Images/Miscellaneous/clear.gif" height="11" width="1"></td>
 				</tr>
 			</tbody></table>
 		</td>
 	</tr>
-	<tr> 
-		<td><a href="http://www.realage.com/company_info/bus_overview.aspx" class="font"><b>Business Overview</b></a></td>
-	</tr>	
-	<tr> 
-		<td><a href="http://www.realage.com/company_info/advertising.aspx" class="font"><b>Advertise with Us</b></a></td>
-	</tr>
-	<tr> 
-		<td><img src="http://www.realage.com/company_info/img/clear_dot.gif" width="6" height="1"><a href="http://www.realage.com/company_info/oursponsors.aspx" class="font">Our Sponsors</a></td>
-	</tr>
-	<tr> 
-		<td><a href="http://www.realage.com/company_info/licensing.aspx" class="font"><b>License the Brand</b></a></td>
-	</tr>
 	
-	<!--
 	<tr>
-		<td>
-			<table border="0" cellspacing="0" cellpadding="3">
-				<tr> 
-					<td width="4" rowspan="2"><img src="http://www.realage.com/company_info/img/clear_dot.gif"></td>
-					<td><a href="http://www.realage.com/help_desk/link2RA.aspx" class="font">Link to RealAge</a></td>
+		<td bgcolor="#43698E"><img src="http://www.realage.com/App_Images/Miscellaneous/clear.gif" height="2"></td>
+	</tr>
+	<tr>
+		<td bgcolor="#003366"><img src="http://www.realage.com/App_Images/Miscellaneous/clear.gif" height="1"></td>
+	</tr>
+	<tr id="Header2_Search">
+	<td class="HeaderSearchContainer" valign="bottom">
+			<table cellpadding="0" cellspacing="0" border="0">
+				<tbody><tr>
+					<td valign="bottom" rowspan="2"><img src="http://www.realage.com/App_Images/Header/hd_searchbox_left.gif"></td>
+					<td valign="bottom"><div class="HeaderSearchBlueBorderFillLeft"></div></td>
+					<td valign="bottom">
+						<div id="AllResultsState" style=""><img src="http://www.realage.com/App_Images/Header/hd_srch_tab_AllResults.gif"><a href="javascript:Call_AJAX_SetSearchTabState();Call_AJAX_Tracking('2','215');" onmouseover="document.getElementById('RATab').src='http://www.realage.com/App_Images/Header/hd_srch_tab_RealAgeOnly2.gif';" onmouseout="document.getElementById('RATab').src='http://www.realage.com/App_Images/Header/hd_srch_tab_RealAgeOnly.gif';"><img src="http://www.realage.com/App_Images/Header/hd_srch_tab_RealAgeOnly.gif" id="RATab"></a></div>
+						<div id="RealAgeOnlyState" style="display:none;"><a href="javascript:Call_AJAX_SetSearchTabState();" onmouseover="document.getElementById('AllTab').src='http://www.realage.com/App_Images/Header/hd_srch_tab_AllResults.gif';" onmouseout="document.getElementById('AllTab').src='http://www.realage.com/App_Images/Header/hd_srch_tab_AllResults2.gif';"><img src="http://www.realage.com/App_Images/Header/hd_srch_tab_AllResults2.gif" id="AllTab"></a><img src="http://www.realage.com/App_Images/Header/hd_srch_tab_RealAgeOnly2.gif"></div>
+					</td>
+					<td valign="bottom"><div class="HeaderSearchBlueBorderFillRight"></div></td>
+					<td valign="bottom" rowspan="2"><img src="http://www.realage.com/App_Images/Header/hd_searchbox_right.gif"></td>
 				</tr>
-				<tr> 
-					<td><a href="http://www.realage.com/company_info/permissions.aspx" class="font">Publish RealAge Content</a></td>
+				<tr>							
+					<td colspan="3" class="HeaderSearchBoxContainer" valign="top">						
+						<table cellpadding="0" cellspacing="0">
+							<form id="SearchForm" action="http://www.realage.com/srch/RASearch.aspx" method="get"></form>
+							<input type="hidden" id="Catno" name="Catno" value="-1">
+							<input type="hidden" name="m" value="1">
+							<tbody><tr>
+								<td valign="top"><input name="query" type="text" size="70" style="margin-left:122px;margin-top:10px;" id="SearchTextBox"></td>
+								<td valign="top"><a href="javascript:document.getElementById('SearchForm').submit();" onclick="Call_AJAX_Tracking('2',searchResTrackingId);"><img src="http://www.realage.com/App_Images/Buttons/bt_Search.gif" style="margin-left:5px;margin-top:10px;"></a></td>
+							</tr>
+							<tr>
+								<td valign="top" colspan="2"><div class="FontSmall" style="margin-left:123px;margin-top:2px;">RealAge Smart Search (BETA), the leading expert-driven health search. <a href="http://www.realage.com/srch/RASearch.aspx" onclick="Call_AJAX_Tracking('2','219');">Learn More</a></div></td>
+							</tr>
+							
+						</tbody></table>						
+					</td>
 				</tr>
-			</table>
+			</tbody></table>
 		</td>
-	</tr>
-	-->
-	<tr> 
-		<td><a href="http://www.realage.com/company_info/raTV.aspx" class="font"><b>RealAge Television</b></a></td>
-	</tr>
-	
-	<tr> 
-		<td><a href="http://www.realage.com/company_info/permission_request.aspx" class="font"><b>Permissions</b></a></td>
-	</tr>
-	
-	<tr> 
-		<td><a href="http://www.realage.com/company_info/contactra.aspx" class="font"><b>Contact Us</b></a></td>
-	</tr>
-</tbody></table>
-<br><br>
-</td>
+</tr>
+
+	<tr>
+		<td class="HeaderSearchBottom">
+	</td></tr>	
+</tbody></table>	</td>
 			</tr>
+			<form name="Form1" method="post" action="privacy.aspx" id="Form1"></form>
+<input type="hidden" name="__VIEWSTATE" value="dDwtODQyNjg3NDkwO3Q8O2w8aTwwPjs+O2w8dDw7bDxpPDA+O2k8Mz47PjtsPHQ8cDxsPFZpc2libGU7PjtsPG88dD47Pj47bDxpPDA+Oz47bDx0PDtsPGk8MD47PjtsPHQ8O2w8aTwxPjs+O2w8dDxwPGw8VmlzaWJsZTs+O2w8bzxmPjs+Pjs7Pjs+Pjs+Pjs+Pjt0PHA8bDxWaXNpYmxlOz47bDxvPGY+Oz4+Ozs+Oz4+Oz4+Oz4DhmqucMlEs1VAgzc2hnuXiQPszQ==">
+
 			<tr>
-				<td width="490">
-					<table cellpadding="0" cellspacing="0" border="0" class="marginTop">
+				<td valign="top" height="100%" class="MainContainer">										
+					<table border="0" width="100%" cellpadding="0" cellspacing="0">
 						<tbody><tr>
-							<td class="bodyText">
-								<img src="img/PrivPol_hdr.gif">
-								<br>
-								<br>
-								<p align="left"><span class="subHeaders"><b>RealAge Privacy Statement</b></span></p>
-								RealAge is committed to protecting your privacy. We have prepared this Privacy 
-								Statement to describe to you our practices regarding the Personal Data we 
-								collect from users of our services.
-								<br>
-								<br>
-								<b>A Note to European Union Users</b>
-								<br>
-								We adhere to the United States / European Union Data Protection Safe Harbor 
-								Arrangement, which can be located at <a href="http://www.export.gov/safeharbor" target="_blank">
-									http://www.export.gov/safeharbor</a> (the "Safe Harbor").
-								<br>
-								YOU EXPRESSLY CONSENT TO THE PROCESSING OF YOUR PERSONAL DATA IN ACCORDANCE 
-								WITH THIS PRIVACY STATEMENT. YOUR PERSONAL DATA MAY BE PROCESSED IN THE COUNTRY 
-								IN WHICH IT WAS COLLECTED AND IN THE UNITED STATES. UNITED STATES LAWS 
-								REGARDING PROCESSING OF PERSONAL DATA MAY BE LESS STRINGENT THAN THE LAWS IN 
-								YOUR COUNTRY.
-								<br>
-								<br>
-								<b>Types of Data We Collect</b>
-								<br>
-								RealAge collects Personal Data and Anonymous Data from you when you visit our 
-								site or when you send us information or communications. "Personal Data" means 
-								data that allows someone to identify or contact you, including, for example, 
-								your name, address, telephone number, e-mail address, as well as any 
-								information about you that is associated with or linked to any of the foregoing 
-								data. "Anonymous Data" means data that is not associated with or linked to your 
-								Personal Data; Anonymous Data does not permit the identification of individual 
-								persons. We collect Personal Data and Anonymous Data, as described below.
-								<br>
-								<br>
-								<b>Personal Data You Provide to Us</b>
-								<br>
-								We collect Personal Data from you, such as your name, e-mail address, country 
-								of residence, zip code or mail code, gender, and/or birth date when you 
-								register for a membership with us or when you choose to use the various 
-								services we provide on our site (e.g., Tip of the Day, Health Assessments, 
-								etc.). We also collect other types of Personal Data that you provide to us 
-								voluntarily, such as your health-related information, when you respond to 
-								surveys, health assessments, and questionnaires. If you choose to sign up for 
-								our pay services, such as <i>RealAge Magazine</i>, we may collect additional 
-								financial data from you, including your credit card number, billing address 
-								(including street address, city, state, country, and zip code), and phone 
-								number. If you provide us feedback regarding our site or services via e-mail, 
-								we will collect your name and e-mail address in order to send you a reply.
-								<br>
-								<br>
-								In order to improve our services to you, we may ask you to voluntarily complete 
-								confidential surveys. We do not ask you to provide us any personally 
-								identifiable data in association with these surveys although we do associate 
-								your responses with Personal Data. If you do not wish to participate in a 
-								survey, however, simply decline to participate when asked.
-								<br>
-								<br>
-								<b>Personal Data Collected via Technology</b>
-								<br>
-								To make our services more useful to you, we use technological means to collect 
-								Personal Data from you, including the Uniform Resource Locator (URL) you just 
-								came from, the URL you go to next, your browser type, and your Internet 
-								Protocol (IP) address. We also use cookies or clear GIFs to collect Personal 
-								Data from you about your use of our site or e-mails we send you. You expressly 
-								consent to our use of cookies and clear GIFs when you use our services.
-								<br>
-								<br>
-								An "IP Address" is a number that is automatically assigned to your computer 
-								when you use the Internet. In some cases your IP address stays the same from 
-								browser session to browser session; but if you use a consumer Internet access 
-								provider, your IP address probably varies from session to session. We track IP 
-								addresses solely in conjunction with session cookies to analyze our Web page 
-								flow.
-								<br>
-								<br>
-								"Cookies" are small pieces of information that a Web site sends to your 
-								computer’s hard drive while you are viewing a Web site. RealAge uses both 
-								session cookies (which expire once you close your Web browser) and persistent 
-								cookies (which stay on your computer until you delete them) to provide you with 
-								a more personal and interactive experience on our site. You have the ability to 
-								accept or decline cookies. Most Web browsers automatically accept cookies, but 
-								you can disable this function by changing the cookie profile on your computer’s 
-								Web browser. If you disable your cookies, however, you will not have access to 
-								certain features of our site such as "Remember My Password" or interactive 
-								quizzes. RealAge does not store any Personal Data in cookies on your computer 
-								(other than the cookie itself).
-								<br>
-								<br>
-								"Clear GIFs" are clear electronic images that are used to track your movements 
-								on our site. They help us to determine whether content on our site is 
-								effective. We also use clear GIFs in HTML-based e-mails to let us know which 
-								e-mails have been opened and acted upon by recipients (including any persons to 
-								which the e-mails have been forwarded). Clear GIFs on our sites collect only a 
-								limited set of information including a cookie number, time and date of a page 
-								view, and a description of the page on which the clear GIF resides. This 
-								information helps us assess the effectiveness of certain communications and 
-								marketing campaigns.
-								<br>
-								<br>
-								<b>Personal Data That We Collect from You About Others</b>
-								<br>
-								If you decide to invite a friend or family member to join RealAge via a Tip of 
-								the Day, Health Assessment invitation, or other means in the future, we will 
-								collect your name and e-mail address as well as your friend’s or family 
-								member’s e-mail address in order to send this e-mail. This information is used 
-								once only and is not saved in our database, with the exception of the RealAge 
-								Challenge, in which case the friend's e-mail address is stored only for 
-								Challenge participation purposes. If you decide to invite a friend or family 
-								member to take the RealAge test, we will collect and save the friend’s or 
-								family member’s e-mail address into our database, as we would for anyone who 
-								registers on the RealAge site.
-								<br>
-								<br>
-								<b>Personal Data Collected by Third Parties</b>
-								<br>
-								Except as otherwise expressly provided in this Privacy Statement, only RealAge 
-								collects Personal Data through the services provided solely by RealAge; this 
-								Privacy Statement applies only to the use and disclosure of Personal Data that 
-								we collect while you use our services.
-								<br>
-								<br>
-								We do not use third party advertising services to display advertisements or 
-								links on our sites. However, when you click on such advertisements or links, 
-								you will leave our site and go to another site. During this process, a third 
-								party (including a third party advertising service that may provide services to 
-								an advertiser) may collect Personal Data or Anonymous Data from you, such as 
-								the URL you just came from, the URL you go to next, your browser type, and your 
-								IP address. Our display of advertisements or links to any other company or site 
-								is for your convenience and does not signify our endorsement of such company or 
-								site (or the contents of the site). We have no control over, we do not review, 
-								and our Privacy Statement does not apply to these other companies, sites, or 
-								content, or to any collection of data after you click on an advertisement of or 
-								link to a third party.
-								<br>
-								<br>
-								<b>Use of Your Data</b>
-								<br>
-								RealAge uses your Personal Data to provide you with a customized Web experience 
-								and to provide services to you. Such services include calculating your RealAge, 
-								sending RealAge Magazine should you request it (and processing your payment 
-								for this Magazine), processing your answers to quizzes to provide you with 
-								tailored information regarding your health, and sending electronic newsletters 
-								and promotional e-mails to you if you have requested to receive such 
-								communications from us (as described below). We also use Personal Data to 
-								notify you about updates to our services and to respond to your requests.
-								<br>
-								<br>
-								We may create Anonymous Data records from Personal Data by excluding 
-								information (such as your name) that make the data personally identifiable to 
-								you. We use this Anonymous Data to perform statistical analyses of users’ 
-								aggregate behavior so that we may enhance the content of our services and 
-								improve site navigation. RealAge reserves the right to use and disclose 
-								Anonymous Data to third parties in its discretion.
-								<br>
-								<br>
-								If you elect to receive communications from us (as described below), we will 
-								periodically send you free newsletters and e-mails that directly promote the 
-								use of our site(s) or the purchase of our products or services and may contain 
-								advertisements for third parties. As a benefit of becoming a member, you may 
-								receive promotional e-mail from RealAge divisions such as DogAge, CatAge, Years 
-								Ahead, RealBeauty, MyLifestyleInterests, and others. If you would like to cease 
-								receiving these communications from us, you may unsubscribe by visiting those 
-								Web pages.
-								<br>
-								<br>
-								<b>Disclosure of Your Personal Data</b>
-								<br>
-								Except as otherwise stated in this policy, we do not sell, trade, or rent the 
-								Personal Data collected from our services to third parties. However, we will 
-								share your Personal Data with third parties to charge your credit card (if 
-								authorized by you), fill your order, and deliver promotional e-mails. These 
-								third parties are required not to use your Personal Data other than to provide 
-								the services requested by RealAge. You expressly consent to the sharing of your 
-								Personal Data with our contractors and third party service providers for the 
-								sole purpose of providing services to you.
-								<br>
-								<br>
-								If you send a testimonial or comment to us, we may post it on our site or use 
-								it in advertising materials. We will attribute your testimonial to you by 
-								posting your first and last initial or your first name and last initial next to 
-								your testimonial on our site or advertising materials, if provided.
-								<br>
-								<br>
-								Regardless of any choices you make regarding your Personal Data (as described 
-								below), RealAge may disclose Personal Data if it believes in good faith that 
-								such disclosure is necessary to (a) comply with relevant laws or to respond to 
-								subpoenas or warrants served on RealAge; or (b) protect or defend the rights or 
-								property of RealAge or users of RealAge services.
-								<br>
-								<br>
-								RealAge is a company with either subsidiaries, joint ventures, or other 
-								companies under a common control (collectively, “affiliates”). These affiliates 
-								include, but are not limited to, DogAge, CatAge, Years Ahead, RealBeauty, and 
-								MyLifestyleInterests. We may share some or all of your Personal Data with these 
-								affiliates, in which case we will require our affiliates to honor this Privacy 
-								Statement. If another company acquires our company or our assets, that company 
-								will possess the Personal Data collected by it and us and will assume the 
-								rights and obligations regarding your Personal Data as described in this 
-								Privacy Statement.
-								<br>
-								<br>
-								<b>Control of Your Personal Data</b>
-								<br>
-								<br>
-								<b>Your Choices Regarding Your Personal Data</b>
-								<br>
-								We offer you choices regarding the collection, use, and sharing of your 
-								Personal Data. You may proactively make such choices by visiting <a href="http://www.realage.com/reg/MyAcntTC.aspx">
-									My Account</a>.
-								<br>
-								<br>
-								When you become a member of RealAge by registering on our site, we will ask you 
-								if you want to receive future communications from us. You may indicate consent 
-								to receipt of these communications by checking the box located on the 
-								registration form. Should you decide to stop receiving further communications 
-								from us, you will have the opportunity to “opt-out” by following the 
-								unsubscribe instructions provided in the e-mail you receive, or by going to <a href="http://www.realage.com/reg/MyAcntTC.aspx">
-									My Account</a>. If at any time you wish to subscribe to any communications 
-								from us, you may visit <a href="http://www.realage.com/reg/MyAcntTC.aspx">My 
-									Account</a>. Despite your indicated e-mail preferences, we may send you 
-								notices of any updates to our Terms of Use or Privacy Statement.
-								<br>
-								<br>
-								<b>Accessing, Reviewing, and Changing Your Personal Data</b>
-								<br>
-								You may change any of your contact information in your account online by 
-								visiting <a href="http://www.realage.com/reg/MyAcntTC.aspx">My Account</a>. 
-								Note that we may retain changed or deleted information in our archives.
-								<br>
-								<br>
-								<b>Security of Your Personal Data</b>
-								<br>
-								RealAge is committed to protecting the security of your Personal Data. We use a 
-								variety of industry-standard security technologies and procedures to help 
-								protect your Personal Data from unauthorized access, use, or disclosure.
-								<br>
-								<br>
-								On most of our sites, RealAge enables the use of Secure Sockets Layer (SSL) 
-								technology and Verisign Site ID, the industry leaders in providing secure 
-								communication over the Internet. SSL can be engaged by choosing to switch to 
-								SSL during any interaction in which you enter Personal Data. We also offer 
-								industry-standard secured-server transactions that encrypt your Personal Data 
-								when collecting your credit card information for online purchases. To verify 
-								that you have a secure server connection, look for the locked padlock symbol at 
-								the bottom of your browser window or the HTMLS-code in the site 
-								connection-identifier.
-								<br>
-								<br>
-								RealAge has implemented other industry-standard electronic means of protecting 
-								your Personal Data. We store Personal Data behind a computer firewall, a 
-								barrier designed to prevent outsiders from accessing our servers. We also 
-								require you to enter a password to access your account information. In 
-								addition, RealAge protects your Personal Data from unauthorized physical access 
-								by storing your Personal Data in a controlled facility. Except as provided 
-								elsewhere in this Privacy Statement, RealAge limits access to Personal Data in 
-								electronic databases to those persons (including employees and contractors) in 
-								RealAge’s organization who have a business need for such access.
-								<br>
-								<br>
-								Even though RealAge has taken significant steps to ensure that your Personal 
-								Data is not intercepted, accessed, used, or disclosed by unauthorized persons, 
-								you should know that RealAge cannot eliminate security risks associated with 
-								Personal Data.
-								<br>
-								<br>
-								<b>Questions Regarding This Privacy Statement</b>
-								<br>
-								<br>
-								<b>Contact Information</b> RealAge welcomes your comments or questions 
-								regarding this Privacy Statement. Please e-mail us at: <a href="mailto:info@RealAge.com">
-									info@RealAge.com</a>.
-								<br>
-								<br>
-								For your information, RealAge is located at:
-								<br>
-								RealAge, Inc.
-								<br>
-								10675 Sorrento Valley Road, Suite 200
-								<br>
-								San Diego, CA 92121
-								<br>
-								(858) 812-3800
-								<br>
-								<br>
-								<b>Dispute Resolution</b>
-								<br>
-								If you believe that RealAge has not adhered to this Statement, please contact 
-								RealAge by e-mail at <a href="mailto:info@RealAge.com">info@realage.com</a>. We 
-								will do our best to address your concerns. If you feel that your complaint has 
-								been addressed incompletely, we invite you to let us know for further 
-								investigation. If you and RealAge are unable to reach a resolution to the 
-								dispute, you and RealAge will settle the dispute exclusively under the rules of 
-								the American Arbitration Association (<a href="http://www.adr.org" target="_blank">www.adr.org</a>).
-								<br>
-								<br>
-								<b>Changes to This Privacy Statement</b>
-								<br>
-								We may amend this Privacy Statement from time to time. If we make material 
-								changes in the way we collect, use, and/or share your Personal Data, we will 
-								notify you by sending you an e-mail to the last e-mail address you provided to 
-								us and/or by prominently posting notice of the changes on our site. Any 
-								material changes to this Privacy Statement will be effective upon [the earlier 
-								of] thirty (30) calendar days following our dispatch of an e-mail notice to you 
-								or thirty (30) calendar days following our posting of notice of the changes on 
-								our site. These changes will be effective immediately for new users of our 
-								services. Please note that at all times you are responsible for updating your 
-								Personal Data to provide us with your most current e-mail address. In the event 
-								that the last e-mail address that you have provided us is not valid, or for any 
-								reason is not capable of delivering to you the notice described above, our 
-								dispatch of the e-mail containing such notice will nonetheless constitute 
-								effective notice of the changes described in the notice. In any event, changes 
-								to this Privacy Statement may affect our use of Personal Data that you provided 
-								us prior to our notification to you of the changes. If you do not wish to 
-								permit changes in our use of your Personal Data, you must notify us prior to 
-								the effective date of the changes that you wish to deactivate your account with 
-								us.
-								<br>
-								<br>
-								This Privacy Statement was last revised in February 2005.
-								<br>
-								<br>
-								<a href="http://www.realage.com/company_info/copyright.aspx" target="_top">View our Copyright, Patents, and Trademarks</a>.
-								<br>
-								<br>
+							<td rowspan="2" valign="top">
+								<!-- ********************* -->
+								<!-- Start Left Navigation -->
+								<!-- ********************* -->
 								
+								<div class="LeftNavigationContainer"><img src="http://www.realage.com/App_Images/LeftNavigation/nav_top-corners.gif"><div class="LeftNavigationHeadingOuterBox"><div class="LeftNavigationHeadingInnerBox"><div class="LeftNavigationHeadingContentBox">ABOUT REALAGE</div></div></div><div class="LeftNavigationSectionOuterBox"><div class="LeftNavigationSectionInnerBox"><div class="LeftNavigationSectionContentBox"><a href="http://www.realage.com/company_info/company_entry.aspx">THE COMPANY</a></div></div></div><div class="LeftNavigationItemBox"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td valign="top"><img src="http://www.realage.com/App_Images/LeftNavigation/nav_gnarw.gif" vspace="4" hspace="5"></td><td valign="top" width="100%"><a href="http://www.realage.com/company_info/rapromise.aspx">The RealAge Promise</a></td></tr></tbody></table></div><img src="http://www.realage.com/App_Images/LeftNavigation/nav_dot_spacer.gif" border="0"><div class="LeftNavigationItemBox"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td valign="top"><img src="http://www.realage.com/App_Images/LeftNavigation/nav_gnarw.gif" vspace="4" hspace="5"></td><td valign="top" width="100%"><a href="http://www.realage.com/company_info/raexecstaff.aspx">Executive Team</a></td></tr></tbody></table></div><img src="http://www.realage.com/App_Images/LeftNavigation/nav_dot_spacer.gif" border="0"><div class="LeftNavigationItemBox"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td valign="top"><img src="http://www.realage.com/App_Images/LeftNavigation/nav_gnarw.gif" vspace="4" hspace="5"></td><td valign="top" width="100%"><a href="http://www.realage.com/company_info/directors.aspx">Board of Directors</a></td></tr></tbody></table></div><img src="http://www.realage.com/App_Images/LeftNavigation/nav_dot_spacer.gif" border="0"><div class="LeftNavigationItemBox"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td valign="top"><img src="http://www.realage.com/App_Images/LeftNavigation/nav_gnarw.gif" vspace="4" hspace="5"></td><td valign="top" width="100%"><a href="http://www.realage.com/company_info/scienceteam.aspx">Scientific Advisory Board</a></td></tr></tbody></table></div><img src="http://www.realage.com/App_Images/LeftNavigation/nav_dot_spacer.gif" border="0"><div class="LeftNavigationItemBox"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td valign="top"><img src="http://www.realage.com/App_Images/LeftNavigation/nav_gnarw.gif" vspace="4" hspace="5"></td><td valign="top" width="100%"><a href="http://www.realage.com/company_info/privacy.aspx">Privacy Policy</a></td></tr></tbody></table></div><img src="http://www.realage.com/App_Images/LeftNavigation/nav_dot_spacer.gif" border="0"><div class="LeftNavigationItemBox"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td valign="top"><img src="http://www.realage.com/App_Images/LeftNavigation/nav_gnarw.gif" vspace="4" hspace="5"></td><td valign="top" width="100%"><a href="http://www.realage.com/company_info/copyright.aspx">Patents</a></td></tr></tbody></table></div><img src="http://www.realage.com/App_Images/LeftNavigation/nav_dot_spacer.gif" border="0"><div class="LeftNavigationItemBox"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td valign="top"><img src="http://www.realage.com/App_Images/LeftNavigation/nav_gnarw.gif" vspace="4" hspace="5"></td><td valign="top" width="100%"><a href="http://www.realage.com/company_info/advertisingpolicy.aspx">Marketing and Editorial Standards</a></td></tr></tbody></table></div><img src="http://www.realage.com/App_Images/LeftNavigation/nav_dot_spacer.gif" border="0"><div class="LeftNavigationItemBox"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td valign="top"><img src="http://www.realage.com/App_Images/LeftNavigation/nav_gnarw.gif" vspace="4" hspace="5"></td><td valign="top" width="100%"><a href="http://www.realage.com/company_info/RA_faqs.aspx">Our Science</a></td></tr></tbody></table></div><img src="http://www.realage.com/App_Images/LeftNavigation/nav_dot_spacer.gif" border="0"><div class="LeftNavigationItemBox"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td valign="top"><img src="http://www.realage.com/App_Images/LeftNavigation/nav_gnarw.gif" vspace="4" hspace="5"></td><td valign="top" width="100%"><a href="http://www.realage.com/company_info/press/prbooks.aspx">Our Books</a></td></tr></tbody></table></div><img src="http://www.realage.com/App_Images/LeftNavigation/nav_solid_spacer.gif" border="0"><div class="LeftNavigationSectionOuterBox"><div class="LeftNavigationSectionInnerBox"><div class="LeftNavigationSectionContentBox"><a href="http://www.realage.com/company_info/press/pressreleases.aspx">PRESS ROOM</a></div></div></div><div class="LeftNavigationItemBox"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td valign="top"><img src="http://www.realage.com/App_Images/LeftNavigation/nav_gnarw.gif" vspace="4" hspace="5"></td><td valign="top" width="100%"><a href="http://www.realage.com/company_info/press/pressreleases.aspx">Press Releases</a></td></tr></tbody></table></div><img src="http://www.realage.com/App_Images/LeftNavigation/nav_dot_spacer.gif" border="0"><div class="LeftNavigationItemBox"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td valign="top"><img src="http://www.realage.com/App_Images/LeftNavigation/nav_gnarw.gif" vspace="4" hspace="5"></td><td valign="top" width="100%"><a href="http://www.realage.com/company_info/press/prarticles.aspx">Media Activity</a></td></tr></tbody></table></div><img src="http://www.realage.com/App_Images/LeftNavigation/nav_dot_spacer.gif" border="0"><div class="LeftNavigationItemBox"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td valign="top"><img src="http://www.realage.com/App_Images/LeftNavigation/nav_gnarw.gif" vspace="4" hspace="5"></td><td valign="top" width="100%"><a href="http://www.realage.com/company_info/press/mediaspotlight.aspx">Speaking Engagements</a></td></tr></tbody></table></div><img src="http://www.realage.com/App_Images/LeftNavigation/nav_solid_spacer.gif" border="0"><div class="LeftNavigationSectionOuterBox"><div class="LeftNavigationSectionInnerBox"><div class="LeftNavigationSectionContentBox"><a href="http://www.realage.com/company_info/bus_overview.aspx">BUSINESS OVERVIEW</a></div></div></div><div class="LeftNavigationSectionOuterBox"><div class="LeftNavigationSectionInnerBox"><div class="LeftNavigationSectionContentBox"><a href="http://www.realage.com/company_info/advertising.aspx">ADVERTISE WITH US</a></div></div></div><div class="LeftNavigationItemBox"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td valign="top"><img src="http://www.realage.com/App_Images/LeftNavigation/nav_gnarw.gif" vspace="4" hspace="5"></td><td valign="top" width="100%"><a href="http://www.realage.com/company_info/oursponsors.aspx">Our Sponsors</a></td></tr></tbody></table></div><img src="http://www.realage.com/App_Images/LeftNavigation/nav_solid_spacer.gif" border="0"><div class="LeftNavigationSectionOuterBox"><div class="LeftNavigationSectionInnerBox"><div class="LeftNavigationSectionContentBox"><a href="http://www.realage.com/company_info/licensing.aspx">LICENSE THE BRAND</a></div></div></div><div class="LeftNavigationSectionOuterBox"><div class="LeftNavigationSectionInnerBox"><div class="LeftNavigationSectionContentBox"><a href="http://www.realage.com/company_info/raTV.aspx">REALAGE TELEVISION</a></div></div></div><div class="LeftNavigationSectionOuterBox"><div class="LeftNavigationSectionInnerBox"><div class="LeftNavigationSectionContentBox"><a href="http://www.realage.com/company_info/permission_request.aspx">PERMISSIONS</a></div></div></div><div class="LeftNavigationSectionOuterBox"><div class="LeftNavigationSectionInnerBox"><div class="LeftNavigationSectionContentBox"><a href="http://www.realage.com/company_info/contactra.aspx">CONTACT US</a></div></div></div><div class="LeftNavigationSectionOuterBox"><div class="LeftNavigationSectionInnerBox"><div class="LeftNavigationSectionContentBox"><a href="http://www.realage.com/company_info/careers.aspx">CAREERS</a></div></div></div></div><p>
 
-<style type="text/css">
-	.ftrMedDisclaim{font-family: arial, helvetica, sans-serif; font-weight: normal; color: #000000; font-size:8pt;}
-</style>
+								
+								<!-- ******************* -->										
+								<!-- End Left Navigation -->
+								<!-- ******************* -->
+							</p></td>
+							<td valign="top">
+								<table cellpadding="0" cellspacing="0" border="0">
+									<tbody><tr>
+										<td colspan="3"><img src="http://www.realage.com/App_Images/Miscellaneous/bkgd_3ctp.gif"></td>
+									</tr>
+									<tr>
+										<td valign="top"><img src="http://www.realage.com/App_Images/Miscellaneous/bkgd_lfsd.gif"></td>
+										<td valign="top" bgcolor="FFFFFF">
+											<div class="Template1Container">
+												<table width="100%" cellpadding="0" cellspacing="0">
+													<tbody><tr>
+														<td valign="top">															
+															<!-- ****************** -->
+															<!-- Start Main Content -->
+															<!-- ****************** -->	
+															
+															<div class="Template1Content">
+																
 
-<table width="0" border="0" height="0">
-	<tbody><tr id="Header1_trImgLine">
-	<td align="center"><img border="0" name="Image1" src="http://www.realage.com/images/glbRULlightteal490x1.gif" width="490" height="1"></td>
-</tr>
-
-	<tr id="Header1_trFootLinks">
-	<td> 
-			<p align="center"><font face="Arial" size="1"><a href="http://www.realage.com/?memberId=&amp;cbr="><font face="Arial" size="1">Home</font></a><font face="Arial" color="#000000" size="1"> | </font></font><font face="Arial" size="1">
-			<a href="http://www.realage.com/help_desk/sitemap.aspx"><font face="Arial" size="1">Health Site Map</font></a><font face="Arial" color="#000000" size="1"> | </font></font><font face="Arial" size="1">
-			<a href="http://www.realage.com/company_info/privacy.aspx">Privacy</a></font><font face="Arial" color="#000000" size="1"> |</font><font face="Arial" size="1">
-			<a href="http://www.realage.com/company_info/copyright.aspx">Copyright, Patents, and Trademarks</a></font><font face="Arial" color="#000000" size="1"> |</font><font face="Arial" size="1">
-						<a href="http://www.realage.com/company_info/termsofuse.aspx">Terms of Use</a></font><font face="Arial" color="#000000" size="1"></font>
-
-			</p>
-		</td>
-</tr>
-
-	
-	
-</tbody></table>
-
+																<img src="http://www.realage.com/App_Images/SubHeader/sub_privacy-policy.jpg"><br><br>
+																
+																<div class="fontMedium" "="">
+																	<span class="subHeaders"><b>RealAge Privacy Statement</b></span><br><br>
+																	RealAge is committed to protecting your privacy. We have prepared this Privacy 
+																	Statement to describe to you our practices regarding the Personal Data we 
+																	collect from users of our services.
+																	<br><br>
+																	<b>A Note to European Union Users</b>
+																	<br>
+																	We adhere to the United States / European Union Data Protection Safe Harbor 
+																	Arrangement, which can be located at <a href="http://www.export.gov/safeharbor" target="_blank">
+																		http://www.export.gov/safeharbor</a> (the "Safe Harbor").
+																	<br>
+																	YOU EXPRESSLY CONSENT TO THE PROCESSING OF YOUR PERSONAL DATA IN ACCORDANCE 
+																	WITH THIS PRIVACY STATEMENT. YOUR PERSONAL DATA MAY BE PROCESSED IN THE COUNTRY 
+																	IN WHICH IT WAS COLLECTED AND IN THE UNITED STATES. UNITED STATES LAWS 
+																	REGARDING PROCESSING OF PERSONAL DATA MAY BE LESS STRINGENT THAN THE LAWS IN 
+																	YOUR COUNTRY.
+																	<br><br>
+																	<b>Types of Data We Collect</b>
+																	<br>
+																	RealAge collects Personal Data and Anonymous Data from you when you visit our 
+																	site or when you send us information or communications. "Personal Data" means 
+																	data that allows someone to identify or contact you, including, for example, 
+																	your name, address, telephone number, e-mail address, as well as any 
+																	information about you that is associated with or linked to any of the foregoing 
+																	data. "Anonymous Data" means data that is not associated with or linked to your 
+																	Personal Data; Anonymous Data does not permit the identification of individual 
+																	persons. We collect Personal Data and Anonymous Data, as described below.
+																	<br><br>
+																	<b>Personal Data You Provide to Us</b>
+																	<br>
+																	We collect Personal Data from you, such as your name, e-mail address, country 
+																	of residence, zip code or mail code, gender, and/or birth date when you 
+																	register for a membership with us or when you choose to use the various 
+																	services we provide on our site (e.g., Tip of the Day, Health Assessments, 
+																	etc.). We also collect other types of Personal Data that you provide to us 
+																	voluntarily, such as your health-related information, when you respond to 
+																	surveys, health assessments, and questionnaires. If you provide us feedback regarding our site or services via e-mail, 
+																	we will collect your name and e-mail address in order to send you a reply.
+																	<br><br>
+																	In order to improve our services to you, we may ask you to voluntarily complete 
+																	confidential surveys. We do not ask you to provide us any personally 
+																	identifiable data in association with these surveys although we do associate 
+																	your responses with Personal Data. If you do not wish to participate in a 
+																	survey, however, simply decline to participate when asked.
+																	<br><br>
+																	<b>Personal Data Collected via Technology</b>
+																	<br>
+																	To make our services more useful to you, we use technological means to collect 
+																	Personal Data from you, including the Uniform Resource Locator (URL) you just 
+																	came from, the URL you go to next, your browser type, and your Internet 
+																	Protocol (IP) address. We also use cookies or clear GIFs to collect Personal 
+																	Data from you about your use of our site or e-mails we send you. You expressly 
+																	consent to our use of cookies and clear GIFs when you use our services.
+																	<br><br>
+																	An "IP Address" is a number that is automatically assigned to your computer 
+																	when you use the Internet. In some cases your IP address stays the same from 
+																	browser session to browser session; but if you use a consumer Internet access 
+																	provider, your IP address probably varies from session to session. We track IP 
+																	addresses solely in conjunction with session cookies to analyze our Web page 
+																	flow.
+																	<br><br>
+																	"Cookies" are small pieces of information that a Web site sends to your 
+																	computer’s hard drive while you are viewing a Web site. RealAge uses both 
+																	session cookies (which expire once you close your Web browser) and persistent 
+																	cookies (which stay on your computer until you delete them) to provide you with 
+																	a more personal and interactive experience on our site. You have the ability to 
+																	accept or decline cookies. Most Web browsers automatically accept cookies, but 
+																	you can disable this function by changing the cookie profile on your computer’s 
+																	Web browser. If you disable your cookies, however, you will not have access to 
+																	certain features of our site such as "Remember My Password" or interactive 
+																	quizzes. RealAge does not store any Personal Data in cookies on your computer 
+																	(other than the cookie itself).
+																	<br><br>
+																	"Clear GIFs" are clear electronic images that are used to track your movements 
+																	on our site. They help us to determine whether content on our site is 
+																	effective. We also use clear GIFs in HTML-based e-mails to let us know which 
+																	e-mails have been opened and acted upon by recipients (including any persons to 
+																	which the e-mails have been forwarded). Clear GIFs on our sites collect only a 
+																	limited set of information including a cookie number, time and date of a page 
+																	view, and a description of the page on which the clear GIF resides. This 
+																	information helps us assess the effectiveness of certain communications and 
+																	marketing campaigns.
+																	<br><br>
+																	<b>Personal Data That We Collect from You About Others</b>
+																	<br>
+																	If you decide to invite a friend or family member to join RealAge via a Tip of 
+																	the Day, Health Assessment invitation, or other means in the future, we will 
+																	collect your name and e-mail address as well as your friend’s or family 
+																	member’s e-mail address in order to send this e-mail. This information is used 
+																	once only and is not saved in our database, with the exception of the RealAge 
+																	Challenge, in which case the friend's e-mail address is stored only for 
+																	Challenge participation purposes. If you decide to invite a friend or family 
+																	member to take the RealAge test, we will collect and save the friend’s or 
+																	family member’s e-mail address into our database, as we would for anyone who 
+																	registers on the RealAge site.
+																	<br><br>
+																	<b>Personal Data Collected by Third Parties</b>
+																	<br>
+																	Except as otherwise expressly provided in this Privacy Statement, only RealAge 
+																	collects Personal Data through the services provided solely by RealAge; this 
+																	Privacy Statement applies only to the use and disclosure of Personal Data that 
+																	we collect while you use our services.
+																	<p>
+																	We do not use third party advertising services to display advertisements or 
+																	links on our sites. However, when you click on such advertisements or links, 
+																	you will leave our site and go to another site. During this process, a third 
+																	party (including a third party advertising service that may provide services to 
+																	an advertiser) may collect Personal Data or Anonymous Data from you, such as 
+																	the URL you just came from, the URL you go to next, your browser type, and your 
+																	IP address. Our display of advertisements or links to any other company or site 
+																	is for your convenience and does not signify our endorsement of such company or 
+																	site (or the contents of the site). We have no control over, we do not review, 
+																	and our Privacy Statement does not apply to these other companies, sites, or 
+																	content, or to any collection of data after you click on an advertisement of or 
+																	link to a third party.
+																	<br><br>
+																	<b>Use of Your Data</b>
+																	<br>
+																	RealAge uses your Personal Data to provide you with a customized Web experience 
+																	and to provide services to you. Such services include calculating your RealAge, 
+																	processing your answers to quizzes to provide you with 
+																	tailored information regarding your health, and sending electronic newsletters 
+																	and promotional e-mails to you if you have requested to receive such 
+																	communications from us (as described below). We also use Personal Data to 
+																	notify you about updates to our services and to respond to your requests.
+																	<br><br>
+																	We may create Anonymous Data records from Personal Data by excluding 
+																	information (such as your name) that make the data personally identifiable to 
+																	you. We use this Anonymous Data to perform statistical analyses of users’ 
+																	aggregate behavior so that we may enhance the content of our services and 
+																	improve site navigation. RealAge reserves the right to use and disclose 
+																	Anonymous Data to third parties in its discretion.
+																	<br><br>
+																	If you elect to receive communications from us (as described below), we will 
+																	periodically send you free newsletters and e-mails that directly promote the 
+																	use of our site(s) or the purchase of our products or services and may contain 
+																	advertisements for third parties. As a benefit of becoming a member, you may 
+																	receive promotional e-mail from RealAge divisions such as DogAge, CatAge, Years 
+																	Ahead, RealBeauty, MyLifestyleInterests, and others. If you would like to cease 
+																	receiving these communications from us, you may unsubscribe by visiting those 
+																	Web pages.
+																	<br><br>
+																	<b>Disclosure of Your Personal Data</b>
+																	<br>
+																	Except as otherwise stated in this policy, we do not sell, trade, or rent the 
+																	Personal Data collected from our services to third parties. However, we will 
+																	share your Personal Data with third parties to charge your credit card (if 
+																	authorized by you), fill your order, and deliver promotional e-mails. These 
+																	third parties are required not to use your Personal Data other than to provide 
+																	the services requested by RealAge. You expressly consent to the sharing of your 
+																	Personal Data with our contractors and third party service providers for the 
+																	sole purpose of providing services to you.
+																	<br><br>
+																	If you send a testimonial or comment to us, we may post it on our site or use 
+																	it in advertising materials. We will attribute your testimonial to you by 
+																	posting your first and last initial or your first name and last initial next to 
+																	your testimonial on our site or advertising materials, if provided.
+																	<br><br>
+																	Regardless of any choices you make regarding your Personal Data (as described 
+																	below), RealAge may disclose Personal Data if it believes in good faith that 
+																	such disclosure is necessary to (a) comply with relevant laws or to respond to 
+																	subpoenas or warrants served on RealAge; or (b) protect or defend the rights or 
+																	property of RealAge or users of RealAge services.
+																	<br><br>
+																	RealAge is a company with either subsidiaries, joint ventures, or other 
+																	companies under a common control (collectively, “affiliates”). These affiliates 
+																	include, but are not limited to, DogAge, CatAge, Years Ahead, RealBeauty, and 
+																	MyLifestyleInterests. We may share some or all of your Personal Data with these 
+																	affiliates, in which case we will require our affiliates to honor this Privacy 
+																	Statement. If another company acquires our company or our assets, that company 
+																	will possess the Personal Data collected by it and us and will assume the 
+																	rights and obligations regarding your Personal Data as described in this 
+																	Privacy Statement.
+																	<br><br>
+																	<b>Control of Your Personal Data</b>
+																	<br><br>
+																	<b>Your Choices Regarding Your Personal Data</b>
+																	<br>
+																	We offer you choices regarding the collection, use, and sharing of your 
+																	Personal Data. 
+																	
+																		You may proactively make such choices by visiting <a href="../reg/MyAcntTC.aspx">My Account</a>.
+																	
+																	<br><br>
+																	When you become a member of RealAge by registering on our site, we will ask you 
+																	if you want to receive future communications from us. You may indicate consent 
+																	to receipt of these communications by checking the box located on the 
+																	registration form. Should you decide to stop receiving further communications 
+																	from us, you will have the opportunity to “opt-out” by following the 
+																	unsubscribe instructions provided in the e-mail you receive,
+																	
+																		or by going to <a href="../reg/MyAcntTC.aspx">My Account</a>. 
+																		If at any time you wish to subscribe to any communications 
+																		from us, you may visit <a href="../reg/MyAcntTC.aspx">My Account</a>.
+																	
+																	Despite your indicated e-mail preferences, we may send you 
+																	notices of any updates to our Terms of Use or Privacy Statement.
+																	<br><br>
+																	
+																		<b>Accessing, Reviewing, and Changing Your Personal Data</b>
+																		<br>
+																		You may change any of your contact information in your account online by 
+																		visiting <a href="../reg/MyAcntTC.aspx">My Account</a>. 
+																		Note that we may retain changed or deleted information in our archives.
+																		<br><br>
+																	
+																	<b>Security of Your Personal Data</b>
+																	<br>
+																	RealAge is committed to protecting the security of your Personal Data. We use a 
+																	variety of industry-standard security technologies and procedures to help 
+																	protect your Personal Data from unauthorized access, use, or disclosure.
+																	<br><br>
+																	On most of our sites, RealAge enables the use of Secure Sockets Layer (SSL) 
+																	technology and Verisign Site ID, the industry leaders in providing secure 
+																	communication over the Internet. SSL can be engaged by choosing to switch to 
+																	SSL during any interaction in which you enter Personal Data. We also offer 
+																	industry-standard secured-server transactions that encrypt your Personal Data 
+																	when collecting your credit card information for online purchases. To verify 
+																	that you have a secure server connection, look for the locked padlock symbol at 
+																	the bottom of your browser window or the HTMLS-code in the site 
+																	connection-identifier.
+																	<br><br>
+																	RealAge has implemented other industry-standard electronic means of protecting 
+																	your Personal Data. We store Personal Data behind a computer firewall, a 
+																	barrier designed to prevent outsiders from accessing our servers. We also 
+																	require you to enter a password to access your account information. In 
+																	addition, RealAge protects your Personal Data from unauthorized physical access 
+																	by storing your Personal Data in a controlled facility. Except as provided 
+																	elsewhere in this Privacy Statement, RealAge limits access to Personal Data in 
+																	electronic databases to those persons (including employees and contractors) in 
+																	RealAge’s organization who have a business need for such access.
+																	<br><br>
+																	Even though RealAge has taken significant steps to ensure that your Personal 
+																	Data is not intercepted, accessed, used, or disclosed by unauthorized persons, 
+																	you should know that RealAge cannot eliminate security risks associated with 
+																	Personal Data.
+																	<br><br>
+																	<b>Questions Regarding This Privacy Statement</b>
+																	<br><br>
+																	<b>Contact Information</b> RealAge welcomes your comments or questions 
+																	regarding this Privacy Statement. Please e-mail us at: <a href="mailto:info@RealAge.com">
+																		info@RealAge.com</a>.
+																	<br><br>
+																	For your information, RealAge is located at:
+																	<br>
+																	RealAge, Inc.
+																	<br>
+																	10675 Sorrento Valley Road, Suite 200
+																	<br>
+																	San Diego, CA 92121
+																	<br>
+																	(858) 812-3800
+																	<br><br>
+																	<b>Dispute Resolution</b>
+																	<br>
+																	If you believe that RealAge has not adhered to this Statement, please contact 
+																	RealAge by e-mail at <a href="mailto:info@RealAge.com">info@realage.com</a>. We 
+																	will do our best to address your concerns. If you feel that your complaint has 
+																	been addressed incompletely, we invite you to let us know for further 
+																	investigation. If you and RealAge are unable to reach a resolution to the 
+																	dispute, you and RealAge will settle the dispute exclusively under the rules of 
+																	the American Arbitration Association (<a href="http://www.adr.org" target="_blank">www.adr.org</a>).
+																	<br><br>
+																	<b>Changes to This Privacy Statement</b>
+																	<br>
+																	We may amend this Privacy Statement from time to time. If we make material 
+																	changes in the way we collect, use, and/or share your Personal Data, we will 
+																	notify you by sending you an e-mail to the last e-mail address you provided to 
+																	us and/or by prominently posting notice of the changes on our site. Any 
+																	material changes to this Privacy Statement will be effective upon [the earlier 
+																	of] thirty (30) calendar days following our dispatch of an e-mail notice to you 
+																	or thirty (30) calendar days following our posting of notice of the changes on 
+																	our site. These changes will be effective immediately for new users of our 
+																	services. Please note that at all times you are responsible for updating your 
+																	Personal Data to provide us with your most current e-mail address. In the event 
+																	that the last e-mail address that you have provided us is not valid, or for any 
+																	reason is not capable of delivering to you the notice described above, our 
+																	dispatch of the e-mail containing such notice will nonetheless constitute 
+																	effective notice of the changes described in the notice. In any event, changes 
+																	to this Privacy Statement may affect our use of Personal Data that you provided 
+																	us prior to our notification to you of the changes. If you do not wish to 
+																	permit changes in our use of your Personal Data, you must notify us prior to 
+																	the effective date of the changes that you wish to deactivate your account with 
+																	us.
+																	<br><br>
+																	This Privacy Statement was last revised in February 2005.
+																	<br><br>
+																	
+																		<a href="copyright.aspx" target="_top">View our Copyright, Patents, and Trademarks</a>.
+																		<br><br>
+																	
+																
+															</p></div>
+															
+															<!-- **************** -->
+															<!-- End Main Content -->
+															<!-- **************** -->															
+														</div></td>											
+													</tr>
+												</tbody></table>												
+											</div>
+										</td>
+										<td valign="top"><img src="http://www.realage.com/App_Images/Miscellaneous/bkgd_rtsd.gif"></td>
+									</tr>
+								</tbody></table>								
+							</td>
+							<td valign="top" width="100%">								
+								<div class="Template1AdContent">									
+									<!-- ********************** -->
+									<!-- Start Right Ad Content -->
+									<!-- ********************** -->												
+									
+									&nbsp;<!-- can be removed-->
+									
+									<!-- ******************** -->
+									<!-- End Right Ad Content -->
+									<!-- ******************** -->	
+								</div>																		
 							</td>
 						</tr>
-					</tbody></table>
-				</td>
+					</tbody></table>							
+				</td>				
+			</tr>		
+				
+			<tr>
+				<td valign="bottom">
+<div class="FooterBackground">
+	<div class="FooterContainer">
+		<a href="http://www.realage.com/index.aspx">Home</a>&nbsp;|&nbsp;
+		<a href="http://www.realage.com/help_desk/sitemap.aspx">Site Map</a>&nbsp;|&nbsp;
+		<a href="http://www.realage.com/company_info/privacy.aspx">Privacy</a>&nbsp;|&nbsp;
+		<a href="http://www.realage.com/company_info/copyright.aspx">Copyright, Patents and Trademarks</a>&nbsp;|&nbsp;
+		<a href="http://www.realage.com/company_info/termsofuse.aspx">Terms of Use</a>
+		<br>
+		<a href="http://www.realage.com/index.aspx">www.RealAge.com</a>&nbsp;Copyright© 2006, RealAge, Inc.
+		<br><br>		
+		Medical Disclaimer:  All information on this site is of a general nature and is furnished for your knowledge and understanding only.  This information is<br>
+		not to be taken as medical or other health advice pertaining to your specific health and medical condition.		
+		<br>
+		
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-224406-2";
+urchinTracker();
+</script>
+	</div>
+</div></td>
 			</tr>
 		</tbody></table>
+		
 	
-
-</body></html>
+<script type="text/javascript">document.getElementById('WelcomeTextSpan').innerHTML="Welcome to RealAge! <a href='http://www.realage.com/Reg/Regassess.aspx?mod=DEFAULT&dest=http%3a%2f%2fwww.realage.com%2fcompany_info%2fprivacy.aspx'>Please sign in</a> to view personalized health information.";document.getElementById('CurrentSearchState').value = 1;switchSearchTabDisplay(1, true);document.getElementById('SearchTextBox').value = '';Call_AJAX_Tracking('2','208');</script><script type="text/javascript">function CreateXmlHttp() {   var XmlHttp = null;   try {	    XmlHttp = new ActiveXObject('Msxml2.XMLHTTP');   }    catch (e) {	    try {		    XmlHttp = new ActiveXObject('Microsoft.XMLHTTP');	    } 	    catch (e) {		    try {			    XmlHttp = new XMLHttpRequest();		    }		    catch (e) {			    return null;		    }	    }   }   return XmlHttp;}var xmlTest = CreateXmlHttp();if (xmlTest == null || !(document.getElementById)) {	alert('For the best experience using RealAge, we recommend that you upgrade to the latest version of Safari, Mozilla, Firefox, or Netscape (Mac or PC), or Internet Explorer for PC.');}</script></body></html>
