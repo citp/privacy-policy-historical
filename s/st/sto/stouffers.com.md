@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stouffers.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228073809id_/http%3A//privacy.nestleusa.com/privacypolicy.aspx%3Fsitename%3DStouffers.com%26header%3Dwww.Stouffers.com/images/pp_header.gif) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stouffers.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615195313id_/http%3A//privacy.nestleusa.com/privacypolicy.aspx%3Fsitename%3DStouffers.com%26header%3Dwww.Stouffers.com/images/pp_header.gif) for the most accurate reproduction.*
 
 # Nestlé Privacy Policy
 
@@ -56,7 +56,7 @@ We may ask for demographic or profile (age, gender, household, interests, etc.) 
 
 Nestlé uses commercially reasonable efforts to keep personally identifiable information secure. Only authorized Nestlé employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information and only to help Nestlé administer its promotional programs and the site. Personally identifiable information is also password protected at the web site.
 
-All emails and newsletters from this site allow you to opt out of further mailings.  Many Nestlé web sites have an update information feature that allows visitors to access (via password) the registration information they submitted to the site, for review/update and opt out purposes.  If this feature is not available at a site or if you have questions about this policy you may contact us ( [Click Here](http://www.nestleusa.com/Public/ContactUs.aspx) ) or call us at 1-800-225-2270.
+All emails and newsletters from this site allow you to opt out of further mailings.  Many Nestlé web sites have an update information feature that allows visitors to access (via password) the registration information they submitted to the site, for review/update and opt out purposes.  If this feature is not available at a site or if you have questions about this policy you may contact us ( [Click Here](https://web.archive.org/Public/ContactUs.aspx) ) or call us at 1-800-225-2270.
 
 **Career Opportunities at Nestlé**
 
