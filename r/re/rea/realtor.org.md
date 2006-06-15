@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realtor.org privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214223807id_/http%3A//www.realtor.org/realtororg.nsf/pages/PrivacyPolicy%3FOpenDocument) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtor.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615204821id_/http%3A//realtor.org/realtororg.nsf/pages/PrivacyPolicy%3FOpenDocument) for the most accurate reproduction.*
 
 # NAR's Privacy Policy Statement
 
