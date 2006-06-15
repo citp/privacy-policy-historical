@@ -1,44 +1,80 @@
-> *The following text is extracted and transformed from the accurint.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230011744id_/http%3A//accurint.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accurint.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615205419id_/http%3A//www.lexisnexis.com/terms/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# LexisNexis Privacy Statement
 
-Thank you for visiting the **Accurint** web site. In furtherance of our commitment to the privacy of our customers, we have implemented and abide by the following Privacy Policy in order to protect the privacy of all visitors to our web site. 
+Privacy Statement  
+---  
+Your Privacy is Important to Us  
+  
+**Effective March 6, 2006  
+**(March changes added the following Web sites to this policy: accurint.com, expscreening.lexisnexis.com, and accurintbusiness.com) **  
+**
 
-**Scope  
-**This Privacy Policy applies only to information you provide to us online while visiting or using our web site. It does not apply to information we have obtained offline, or through other traditional means. If you have questions concerning our policies with respect to information we receive or collect other than through this web site, please contact us at the address below. 
+**Our Commitment To Privacy**  
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our home page and at every point where personally identifiable information may be requested.
 
-**The Data that this Policy Covers  
-**Information you may provide in visiting our site falls into two broad categories: personally identifiable information and aggregate information. "Personally Identifiable Information" is information that can be used to identify or contact you, such as your name, email address, mailing address, or credit card information. "Aggregate Information" is information that does not identify you, and may include, for example, statistical information concerning the web pages on our site that users most frequent.
+This notice applies to all information collected from or submitted to the following LexisNexis Group ("LNG") Web sites, but to make this notice easier to read we will use the term "our Web site", which means lexisnexis.com, _lexis.com_ ®, nexis.comSM, lexisONE.com®, martindale.comSM, lawyers.comSM, accurint.com, expscreening.lexisnexis.com, and accurintbusiness.com. Other LNG Web sites may operate under their own privacy notices.
 
-**Personally Identifiable Information  
-**Accurint does not use Personally Identifiable Information collected from our customers through this web site, whether order information or client information, for any purpose other than for conducting the Accurint Services. We do not share with third parties any Personally Identifiable Information, except as needed to carry out the services you have requested. Accurint will at all times abide by federal and state laws and regulations in regard to Personally Identifiable Information collected from our web site. In addition, we have put in place security systems designed to prevent unauthorized disclosure or use of information you provide to us. These systems are structured to deter and prevent hackers and others from accessing this information. Due to the nature of Internet communications and evolving technologies, however, we cannot provide, and disclaim, assurance that the information you provide us will remain free from loss, misuse, or alteration through third parties who, despite our efforts, obtain unauthorized access.
+Our Web site contains links to other Web sites operated by third parties. LNG is not responsible for the privacy practices or policies of such third party web sites and this Notice does not apply to those Web sites. 
 
-**Aggregate Information  
-**We may collect Aggregate Information from our web site. This Information does not identify you. We may collect this type of Information through cookies and similar Internet technologies. "Cookies" are small text files that a web site can use to recognize repeat users, to facilitate the user’s ongoing access to and use of the site, and to compile aggregate data to improve the site and focus advertising. If we use cookies, they do not collect or retain your name or other Personally Identifiable Information. In addition, no third parties are permitted to use cookies we may create at our site for their own purposes.
+Back to top >>
 
-**Changes to your Information  
-**We allow you to update, correct, or delete Personally Identifiable Information you have provided us. Accordingly, upon your reasonable request, and to the extent your request does not compromise our privacy policies, we will provide you with access to Personally Identifiable Information you have previously provided to us, and allow you to update and correct this Information. In addition, we provide you with the ability to decline — or “opt-out of” — certain online mailings and other online materials we may offer to our web site users. Finally, if you request, we will remove from our marketing databases your name and other Personally Identifiable Information which you have provided via this web site. Please understand, however, that it may be impossible to remove this information completely, due to backups and records of deletions. If you wish to change or delete the Personally Identifiable Information you have provided us via this web site, please contact us at the address listed below. Please further understand, as stated above, that this Privacy Policy does not govern use of the databases we employ to provide our services, and this Policy does not cover a data subject's request to remove or alter identifying information which is contained in these services-related databases, and which we have obtained by means other than through this web site. 
+**Application of This Notice**  
+This Notice applies only to the information collected by LNG from the users of our Web site. It does not apply to information collected by LNG in any other way, including offline. 
 
-**Data from Children  
-**Our site is not directed at children, and we will not accept or request personal information from individuals we know to be under 13. In accordance with the Children’s Online Privacy Protection Act of 1998, if we learn that a child under 13 has provided us with Personally Identifiable Information, we will delete this information from our databases, in accordance with our deletion policy, set out above. For more information regarding a child under the age of 13 providing personal information to a Web site, see the Federal Trade Commission’s Web site explaining the Children’s Online Privacy Protection Act of 1998 at <http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/>.
+Back to top >>
 
-**Exceptions  
-**There are two exceptions to this Privacy Policy. First, we may disclose Personally Identifiable Information as may be required in legal proceedings, or in response to a subpoena, court order, or administrative order compelling disclosure. Second, in cases involving a threat of imminent harm to you or others, we may release such Information to prevent or mitigate the threat. In any such case, we will seek to limit the scope of disclosure, and will disclose only such Information as is reasonably required to fulfill the purpose of the disclosure. 
+**The Information We Collect**  
+Our Web site is not set up to automatically collect personally identifiable information from each visitor to our Web site. It does recognize the home server of visitors, but not email addresses. For example, we can tell which Internet Service Provider our visitors use, but not the names, addresses or other information about our visitors that would allow us to identify the particular visitors to our Web site. This information is used only for internal purposes by our technical support staff.
 
-**Changes  
-**Please note this Privacy Policy will change from time to time. We expect most such changes to be minor, but there may be changes that are more significant. Any changes will be posted on this page and if the changes are, in our interpretation, significant we will also provide a more prominent notice. Each version will be noted at the top of the page. Prior versions of this Privacy Policy will be kept in an archive and are available by contacting the Compliance Office below. 
+Our Web site does track certain information about the visits to our Web site. For example, we compile statistics that show the numbers and frequency of visitors to our Web site and its individual pages. These aggregated statistics are used internally to improve our Web site and for product development and marketing purposes generally. Those aggregated statistics may also be provided to advertisers and other third parties, but again, the statistics contain no personal information and cannot be used to gather such information.
 
-  **Your Consent  
-**By using our web site, you consent to our collection and use of information in accordance with this Privacy Policy. If you do not agree with some, or all, of the terms of this Privacy Policy, please refrain from submitting such Information through our web site or from visiting our site. Additionally, you may be asked to install ActiveX components in order to access certain functions of the Accurint system such as Relavint™ Visual Link Analysis, or this site may, in limited circumstances, direct you to third-party sites that may be connected to third-party information.
+In a few areas on our Web site, we ask you to provide information that will enable us to verify whether you are entitled to access and use certain information, materials and services available from our Web site, or to enable us to enhance your site visit, to assist you with customer service or technical support issues, or to follow up with you after your visit, or to otherwise support your customer relationship with LNG. It is completely optional for you to participate. However, failure to participate may mean that you cannot access and use certain information, materials and services.
 
-If you have any questions or suggestions regarding Accurint’s privacy policy, please contact us at:
+For example, we request information from you when you: 
 
-Accurint  
-Privacy Compliance Office  
-6601 Park of Commerce Boulevard  
-Boca Raton, Florida 33487  
-Telephone: 561-999-4400  
-Fax: 561-999-4496  
-Email: [accurintcompliance@seisint.com](mailto:accurintcompliance@seisint.com?subject=Privacy%20Compliance%20Office)
+  1. Log on to certain areas of our Web site, such as the _lexis.com_ ® Research System, where you may be prompted to provide us with your LexisNexis® ID number and password as a condition to gaining access to certain information, materials or services 
+  2. Register or sign up to use a service such as _lexisONE.com_ ® 
+  3. Subscribe to a newsletter or desire to be added to our mailing lists for other products or services 
+  4. Place an order 
+  5. Participate in a sweepstakes or other promotional offer 
+  6. Provide feedback in an online survey. 
 
-Thank you for visiting the Accurint Web Site.
+
+
+In each of the instances above, we typically ask for your name, email address, phone number, address, law practice information, product preference information, LexisNexis ID number and password, as well as other similar personal information that is needed to register or subscribe you to services or offers. On occasion, we may ask for additional information to enable us to provide you with access to and use of certain information, materials and services. In the case of newsletters or mailing lists, you will be able to "unsubscribe" to these mailings at any time. 
+
+Back to top >>
+
+**How We Use Information: LNG Only Uses Your Personal Information for Specific Purposes  
+**The personal information you provide to us when using our Web site, such as your name, postal or email address or telephone number will be kept confidential and used to support your customer relationship with LNG, and to notify you of special offers, updated information and new products and services from LNG, offers from third parties that we think may be of interest to you, or used by LNG or third parties for the purpose of conducting market research or surveys on behalf of LNG. Agents or contractors of LNG who are given access to your personal information will be required to keep the information confidential and not use it for any other purpose than to carry out the services they are performing for LNG.
+
+LNG may enhance or merge your information collected at its Web site with data from third parties for purposes of marketing products or services to you.
+
+With respect to network advertising companies (companies that manage and provide advertising for numerous unrelated companies), to the extent that LNG utilizes such advertising companies to provide advertisements on our Web site, LNG may provide them with your log-in name and any demographic information about you that we collect. Those advertising companies may combine that data with non-personally identifiable data collected by the advertising company from your computer solely for the purpose of delivering on our Web site advertisements that are targeted to you.
+
+Circumstances may arise where we are required to disclose your personal information to third parties for purposes other than to support your customer relationship with LNG, such as in connection with a corporate divestiture or dissolution where we sell all or a portion of our business or assets (including our associated customer lists containing your personal information), or if disclosure is required by law or is pertinent to judicial or governmental investigations or proceedings. 
+
+Back to top >>
+
+**You Can Opt Out of Receiving Further Marketing from LNG at Any Time**  
+We will send you information about our various products and services, or other products and services we feel may be of interest to you. Only LNG (or agents or contractors working on behalf of LNG and under confidentiality agreements) will send you these direct mailings. If you do not want to receive such mailings, simply tell us when you give us your personal information. Or, at any time you can easily opt out of receiving further marketing from LNG by emailing us at [ legalnotices@LexisNexis.com](mailto:legalnotices@LexisNexis.com). 
+
+Back to top >>
+
+**Our Commitment to Data Security**  
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+
+Back to top >>
+
+**How You Can Access or Correct Your Information  
+**You can request a copy of the personally-identifiable information that LNG has collected about you via the Internet by contacting our Information Privacy Manager at the address below. You can also have factual inaccuracies in this information corrected by contacting this same person. 
+
+Back to top >>
+
+**How to Contact Us**  
+If you would like to contact us for any reason regarding our privacy practices, please write us at the following address:
+
+Privacy Information Manager, c/o LexisNexis, P.O. Box 933 Dayton, OH 45401, or call us at 1-800-831-2578.
+
+Back to top >>
