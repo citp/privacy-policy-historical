@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ytmag.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212150104id_/http%3A//www.ytmag.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ytmag.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615054133id_/http%3A//www.ytmag.com/privacy.htm) for the most accurate reproduction.*
 
 # Yesterday's Tractor Co. - Privacy Policy
 
@@ -14,4 +14,6 @@ If you would like additional information about the types of non-personally ident
 
 In some cases, you may voluntarily provide personal information when filling out our [Feedback Form](http://www.ytmag.com/rdrform.htm) or participating in the discussion forums or other areas of our site. This is voluntary on your part. Yesterday's Tractors does not sell or redistribute any of this information. 
 
-**[[ Home ]](http://www.ytmag.com/index.htm)**
+**[[ Home ]](http://www.ytmag.com/index.htm)**  
+  
+About this site - Yesterday's Tractors is your one-stop source for antique tractors. If you use antique tractors, collect antique tractors, or just enjoy looking at antique tractors, welcome to our site! Join more than 275,000 other classic tractor enthusiasts from all over the globe. We have many resources for antique tractor enthusiasts available including photos, classified ads, more than 24 antique tractor forums, show guide, values, specs and much more. Bookmark this site and come back often. Thanks for stopping by! Feel free to use our feedback form to send us your comments, suggestions and ideas.
