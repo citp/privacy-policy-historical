@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morebusiness.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228175257id_/http%3A//www.morebusiness.com/brc/about/privacy.brc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morebusiness.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615194338id_/http%3A//morebusiness.com/brc/about/privacy.brc) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -35,15 +35,7 @@ If you supply us with your postal address on-line you will only receive the info
 We, and some of our partners who provide some of the services and products on our site, use cookies to record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, record past activity at a site in order to provide better service when visitors return to our site , customize Web page content based on visitors' browser type or other information that the visitor sends, and to enable access to specific areas on the web site such as but not limited to our Intranet and other registered users sections.
 
 **Ad Servers and Other Partners**  
-To try and bring you offers that may be of interest to you, we have relationships with other companies that we allow to place ads or provide other services or products on our Web pages and e-mail newsletter(s) and other services. As a result of your visit to our site, these companies may collect non-personally-identifiable information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:  
-
-
-[Engage Technologies](http://www.engage.com/privacy/privacy.htm)  
-[Flycast](http://www.flycast.com/about_us/index.cfm?sub=pri&content=privacy)  
-[NetCreations/PostMaster Direct](http://w3.netcreations.com/main?page=privacy)  
-[Avenue A](http://www.avenuea.com/info/privacy.asp)  
-[DoubleClick](http://www.sonar.com/content/privacy.htm)   
-[AdKnowledge](http://www.adknowledge.com/privacy/index.html)   
+To try and bring you offers that may be of interest to you, we have relationships with other companies that we allow to place ads or provide other services or products on our Web pages and e-mail newsletter(s) and other services. As a result of your visit to our site, these companies may collect non-personally-identifiable information such as your domain type, your IP address and clickstream information.   
 
 
 **Children's Guidelines**  
