@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the concur.com privacy policy that was archived on 2005-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051224012226id_/http%3A//www.concur.com/corporate/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the concur.com privacy policy that was archived on 2006-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615134423id_/http%3A//concur.com/corporate/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -99,45 +99,7 @@ var topLink='default.asp';
 		<td width="215" align="left" valign="top">
 		
  <script language="JavaScript" src="../scripts/jsmenu.js"></script>
-<table width="100%" border="0" cellspacing="0" cellpadding="1">
-	<tbody><tr>
-		<td width="20"><img height="1" src="../images/spacer.gif" width="20"></td>
-		<td nowrap=""><a href="../solutions/exp/default.asp" class="content_menu" target="_self">Expense Reporting</a>
-		</td>
-		
-	</tr>
-	
-	<tr>
-		<td nowrap=""></td>
-		<td nowrap=""><a href="/forms/expensetour/default.asp" class="content_menu" target="_self">Take a Tour</a>
-		</td>
-		
-	</tr>
-	
-	<tr>
-	<td nowrap=""></td>
-		<td nowrap=""><a href="../solutions/value/compliance/default.asp" class="content_menu" target="_self">Control and Compliance</a>
-		</td>
-	
-	</tr>
-	<tr>
-	</tr><tr>
-	<td nowrap=""></td>
-		<td nowrap=""><a href="../solutions/exp/moreinfo.asp" class="content_menu" target="_self">More Information</a>
-		</td>
-	
-	</tr>
-	<tr>
-	<td nowrap="" class="borderbase" colspan="2">&nbsp;
-		</td>
 
-	</tr>
-	<tr>
-	<td nowrap="" colspan="2">&nbsp;
-		</td>
-
-	</tr>
-	</tbody></table>
 
 <script language="JavaScript">
 var path="../";
@@ -179,153 +141,298 @@ var path="../";
 //
 // opens menu section - do not alter
 function openMenu(cat) {
+	//alert(cat);
+	this.cat = cat;
+	var path='../'
+	var i=0;
+	var sec_fix = section;
+	if (section=='solutions'){
+		sec_fix='solutions/exp';
+	}
+	var sec='corporate'
+	var subsec='';
+	//alert(section);
+	//alert(subsec);
+	//var sec='solutions'
+	//var subsec='pay';
+	var slash='/';
+	var oldSection = section;
+	var oldThisPath = thisPath;
+	//alert(cat);
+	document.write('<TABLE WIDTH=100% BORDER=0 CELLSPACING=0 CELLPADDING=1>');
+		document.write('<TR>');
+			document.write('<td class="level1_selected" nowrap valign="top" align="right" width=24>');
+			//alert('thisPage = ' + thisPage);
+			//alert('topLink = ' + topLink);
+			//alert('subsec = ' + subsec);
+			//alert('subsub = ' + subsub);
+			if (((subsec=='exp')&&((subsub=='')||(subsub=='expensetour')))&&(thisPage==topLink))
+			{
+				document.write('>>&nbsp;');
+				document.write('</td><td class = "level1_selected" nowrap>');
+				document.write('Expense Reporting');
+				OpenSubMenu(subsec);
+				getSubMenu();
 
-this.cat = cat;
-    var i=0;
-    var sec_fix = section;
-    if (section=='solutions'){sec_fix='solutions/exp';}
-var sec='corporate'
-var subsec='';
-//var sec='solutions'
-//var subsec='pay';
-var slash='/';
-//alert(cat);
-document.write('<TABLE WIDTH=100% BORDER=0 CELLSPACING=0 CELLPADDING=1>');
-document.write('<tr><td class = "level1_selected" valign="top" width=20>');
-if (((subsec=='')&&(thisPage==topLink)) || ((subsec=='exp')&&(subsub=='')&&(thisPage==topLink))){
-document.write('>>&nbsp;');
-document.write('</td><td class = "level1_selected" nowrap>');
-document.write(cat + '</td><td></tr>');
- }else{
- document.write('<font color="white">>>&nbsp;</font>');
-document.write('</td><td nowrap>');
-document.write('<a class = "level1" href = "/' + sec_fix + '/' + topLink + '" target="_self">');
-document.write(cat + '</a></td><td></tr>');
-}
+			}
+			else
+			{
+				document.write('<b><font color="white">>></font>&nbsp;</b>');
+				document.write('</td><TD NOWRAP><a class="level1" href="'+ path + 'solutions/exp/default.asp" class="content_menu" target="_self">Expense Reporting</a>');
+				if (((subsec=='exp')&&(thisPage!=topLink)&&(thisPage!='industry.asp')) || (subsec=='roi'))
+				{
+					section = 'solutions';
+					thisPath = 'solutions/exp/'
+					OpenSubMenu('exp');
+					section = oldSection;
+					thisPath = oldThisPath;
+					getSubMenu();	
+				}
+			}
+			document.write('</TD>');
 
-document.write('<tr><td><img height="10" src="' + path + '"images/spacer.gif" width="1"></td></tr>');
+		document.write('</TR>');
 
-for (x=0;x<thisMenu.length;x++){
-//alert('corporate');
-//alert('1: '+'/' + thisPath + thisPage+' 2:'+thisMenu[x].linkb);
-document.write('<tr><td class = "level2_selected" nowrap valign="top" align="right">');
- if (('/' + thisPath + thisPage==thisMenu[x].linkb) || (('/' + thisPath == '/corporate/customers/') && (thisMenu[x].name=='Expense Management <br>Customers'))){
- document.write('>>&nbsp;');
- //document.write('11');
- document.write('</td><td class = "level2_selected" nowrap>');
-document.write(thisMenu[x].name + '</td><td></tr>');
- }else{
-  document.write('<b><font color="white">>></font>&nbsp;</b>');
-  document.write('</td><td nowrap class = "level2_selected">');  
- if(cat=='Customer Services'){
- document.write('<a class = "level2" target="_blank" href="' + linka + thisMenu[x].linkb + '">' + thisMenu[x].name + '</a></td><td></tr>');
-}else{
- document.write('<a class = "level2" target="_self" href="' + linka + thisMenu[x].linkb + '">' + thisMenu[x].name + '</a></td><td></tr>');
-}}
-subsec=thisMenu[x].subsection;
-//alert(subsec);
-if(thisMenu[x].sub2){
-//alert('1:'+subsec);
-OpenSubMenu(subsec);
-subsection='';
-//alert(thisMenuSub);
-if(thisMenuSub){
-if(thisMenuSub.length > 0){
-document.write('<tr><td valign="top"></td><td><TABLE WIDTH=100% BORDER=0 CELLSPACING=0 CELLPADDING=0>');
-document.write('<tr><td colspan=2><img height="10" src="' + path + '"images/spacer.gif" width="1"></td></tr>');
-//alert('1: '+thisPage);
-for (n=0;n<thisMenuSub.length;n++){
-document.write('<tr><td class = "level2_selected" valign="top" nowrap width=10 align="center">');
- if ('/' + thisPath + thisPage==thisMenuSub[n].linkb) {
- document.write('>>&nbsp;');
- //document.write('22');
- document.write('</td><td class = "level2_selected" nowrap align="left">');
-document.write(thisMenuSub[n].name + '</td><td></tr>');
- }else{
-  document.write('<b><font color="white">>></font>&nbsp;</b>');
-  document.write('</td><td class = "level2_selected" align="left" nowrap>');
- document.write('<a class = "level2" target="_self" href="' + linka + thisMenuSub[n].linkb + '">' + thisMenuSub[n].name + '</a></td></tr>');
-}
+		document.write('<TR>');
+			document.write('<td class="level1_selected" nowrap valign="top" align="right">');
+			if (((subsec=='travelbooking')&&(subsub=='')&&(thisPage==topLink)))
+			{
+				document.write('>>&nbsp;');
+				document.write('</td><td class = "level1_selected" nowrap>');
+				document.write('Travel Management');
+				OpenSubMenu(subsec);
+				getSubMenu();
+			}
+			else
+			{
+				document.write('<b><font color="white">>></font>&nbsp;</b>');
+				document.write('</td><TD NOWRAP><a class="level1" href="'+ path + 'solutions/travelbooking/default.asp" class="content_menu" target="_self">Travel Management</a>');
+				if ((subsec=='travelbooking')&&(thisPage!=topLink))
+				{
+					OpenSubMenu(subsec);
+					getSubMenu();
+				}
+			}
+			document.write('</TD>');
 
-subsection=thisMenuSub[n].subsection;
+		document.write('</TR>');
+		document.write('<TR>');
+			document.write('<td class="level1_selected" nowrap valign="top" align="right">');
+			if (((subsec=='meeting')&&(subsub=='')&&(thisPage==topLink)))
+			{
+				document.write('>>&nbsp;');
+				document.write('</td><td class = "level1_selected" nowrap>');
+				document.write('Meeting Management');
+				OpenSubMenu(subsec);
+				getSubMenu();
 
-if(thisMenuSub[n].sub2){
-//alert('ss? '+subsection);
-OpenSubMenu2(subsection);
-subsection='';
-if(thisMenuSub2){
+			}
+			else
+			{
+				document.write('<b><font color="white">>></font>&nbsp;</b>');
+				document.write('</td><TD NOWRAP><a class="level1" href="'+ path + 'solutions/meeting/default.asp" class="content_menu" target="_self">Meeting Management</a>');
+				if ((subsec=='meeting')&&(thisPage!=topLink))
+				{
+					OpenSubMenu(subsec);
+					getSubMenu();		
+				}
+			}
+			document.write('</TD>');
 
-if(thisMenuSub2.length > 0){
-document.write('<tr><td valign="top"></td><td><TABLE WIDTH=100% BORDER=0 CELLSPACING=0 CELLPADDING=0>');
-document.write('<tr><td colspan=2><img height="10" src="' + path + '"images/spacer.gif" width="1"></td></tr>');
+		document.write('</TR>');
+//				document.write('<TR>');
+//			document.write('<td class="level1_selected" nowrap valign="top" align="right">');
+//			if (((subsec=='paymentrequests')&&(subsub=='')&&(thisPage==topLink)))
+//			{
+//				document.write('>>&nbsp;');
+//				document.write('</td><td class = "level1_selected" nowrap>');
+//				document.write('Vendor Payment');
+//				OpenSubMenu(subsec);
+//				getSubMenu();
+//  
+//			}
+//			else
+//			{
+//				document.write('<b><font color="white">>></font>&nbsp;</b>');
+//				document.write('</td><TD NOWRAP><a class="level1" href="'+ path + 'solutions/paymentrequests/default.asp" class="content_menu" target="_self">Vendor Payment</a>');
+//				if ((subsec=='paymentrequests')&&(thisPage!=topLink))
+//				{
+//					OpenSubMenu(subsec);
+//					getSubMenu();		
+//				}
+//			}
+//			document.write('</TD>');
+//  	document.write('</TR>');
+//		document.write('<TR>');
+			document.write('<td class="level1_selected" nowrap valign="top" align="right">');
+			if (((subsec=='')&&(subsub=='')&&(thisPage=='moreinfo.asp')))
+			{
+				document.write('>>&nbsp;');
+				document.write('</td><td class = "level1_selected" nowrap>');
+				document.write('More Information');
+			}
+			else
+			{
+				document.write('<b><font color="white">>></font>&nbsp;</b>');
+				document.write('</td><TD NOWRAP><a class="level1" href="'+ path + 'solutions/moreinfo.asp" class="content_menu" target="_self">More Information</a>');
+			}
+			document.write('</TD>');
 
-for (i=0;i<thisMenuSub2.length;i++){
-document.write('<tr><td class = "level2_selected" nowrap valign="top">');
-//alert('here again /' + thisPath + thisPage+' '+thisMenuSub2[i].linkb);
-document.write('<tr><td class = "level2_selected" width=10 valign="top">');
-if ('/'+thisPath+thisPage==thisMenuSub2[i].linkb) {
- document.write('>>');
- //document.write('33');
- document.write('</td><td class = "level2_selected" valign="top" nowrap>');
-document.write(thisMenuSub2[i].name + '</td><td></tr>');
- }else{
- document.write('<b><font color="white">>></font></b>');;
- document.write('</td><td  valign="top" nowrap>');
- document.write('<a class = "level2" target="_self" href="' + linka + thisMenuSub2[i].linkb + '">' + thisMenuSub2[i].name + '</a></td></tr>');
-}
-//here
+		document.write('</TR>');
+		document.write('<TR>');
+		document.write('<TD NOWRAP class="borderbase" colspan=2>&nbsp;');
+			document.write('</TD>');
 
-subsection=thisMenuSub2[i].subsec2;
-if(thisMenuSub2[i].subsec2){
-//alert('ss? '+subsection);
-OpenSubMenu3(subsection);
-subsection='';
-if(thisMenuSub3){
-//alert('ss2? '+subsection);
-if(thisMenuSub3.length > 0){
-document.write('<tr><td valign="top"></td><td><TABLE WIDTH=100% BORDER=0 CELLSPACING=0 CELLPADDING=0>');
-document.write('<tr><td colspan=2><img height="10" src="' + path + '"images/spacer.gif" width="1"></td></tr>');
+		document.write('</TR>	<TR>');
+		document.write('<TD NOWRAP colspan=2>&nbsp;');
+			document.write('</TD>');
 
-for (z=0;z<thisMenuSub3.length;z++){
-document.write('<tr><td class = "level2_selected" nowrap valign="top">');
-//alert('here again /' + thisPath + thisPage+' '+thisMenuSub3[z].linkb);
-document.write('<tr><td class = "level2_selected" width=10 valign="top">');
-if ('/'+thisPath+thisPage==thisMenuSub3[z].linkb) {
- document.write('>>');
- //document.write('33');
- document.write('</td><td class = "level2_selected" valign="top" nowrap>');
-document.write(thisMenuSub3[z].name + '</td><td></tr>');
- }else{
- document.write('<b><font color="white">>></font></b>');;
- document.write('</td><td  valign="top" nowrap>');
- document.write('<a class = "level2" target="_self" href="' + linka + thisMenuSub3[z].linkb + '">' + thisMenuSub3[z].name + '</a></td></tr>');
-}
-}
-document.write('</td></tr></table></td></tr>');
-document.write('<tr><td colspan=2><img height="10" src="../images/spacer.gif" width="1"></td></tr>');
-}
-}
-}
-//end here
-}
-document.write('</td></tr></table></td></tr>');
-document.write('<tr><td colspan=2><img height="10" src="../images/spacer.gif" width="1"></td></tr>');
-}
-}
-}
+		document.write('</TR>');
+	document.write('</TABLE>');
+	document.write('<TABLE WIDTH=100% BORDER=0 CELLSPACING=0 CELLPADDING=1>');
+	
+	document.write('<tr><td class = "level1_selected" valign="top" width=24>');
+	//alert('cat = ' + cat);
+	var oldCat = cat;
+	var oldSecFix = sec_fix;
+	var oldSubsec = subsec;
+	if(cat=='Expense Reporting'){
+		cat='Corporate Expense<br>Management Solutions';
+		sec_fix='solutions';
+		subsec='dontshow';
+		//alert(topLink);
+		//alert(thisPage);	
+	}
+	if (((subsec=='')&&(thisPage==topLink)) || ((subsec=='exp')&&(subsub=='')&&(thisPage==topLink)) || ((thisPath=='solutions/')&&(thisPage==topLink))){
+		document.write('>>&nbsp;');
+		document.write('</td><td class = "level1_selected" nowrap>');
+			
+		document.write(cat + '</td><td></tr>'); 
+	}
+	else{
+		document.write('<font color="white">>>&nbsp;</font>');
+		document.write('</td><td nowrap>');
+		document.write('<a class = "level1" href = "/' + sec_fix + '/' + topLink + '" target="_self">');
+		document.write(cat + '</a></td><td></tr>');
+	}
+	cat=oldCat;
+	sec_fix = oldSecFix;
+	subsec = oldSubsec;
+	document.write('<tr><td><img height="10" src="' + path + '"images/spacer.gif" width="1"></td></tr>');
 
-
-
+	for (x=0;x<thisMenu.length;x++){
+		//alert('corporate');
+		//alert('1: '+'/' + thisPath + thisPage+' 2:'+thisMenu[x].linkb);
+		document.write('<tr><td class = "level2_selected" nowrap valign="top" align="right" width=24>');
+		if (('/' + thisPath + thisPage==thisMenu[x].linkb) || (('/' + thisPath == '/corporate/customers/') && (thisMenu[x].name=='Expense Management <br>Customers'))){
+		 	document.write('>>&nbsp;'); //document.write('11');
+		 	document.write('</td><td class = "level2_selected" nowrap>');
+			document.write(thisMenu[x].name + '</td><td></tr>');
+		}
+		else{
+			document.write('<b><font color="white">>></font>&nbsp;</b>');
+            document.write('</td><td nowrap class = "level2_selected">');
+		 	if(cat=='Customer Services'){
+		 		document.write('<a class = "level2" target="_blank" href="' + linka + thisMenu[x].linkb + '">' + thisMenu[x].name + '</a></td><td></tr>');
+			}
+			else{
+		 		document.write('<a class = "level2" target="_self" href="' + linka + thisMenu[x].linkb + '">' + thisMenu[x].name + '</a></td><td></tr>');
+			}
+		}
+		subsec=thisMenu[x].subsection;
+		//alert(subsec);
+		if(thisMenu[x].sub2){
+			//alert('1:'+subsec);
+			OpenSubMenu(subsec);
+			getSubMenu();
+		}
+	}
 }
-document.write('</td></tr></table></td></tr>');
-document.write('<tr><td colspan=2><img height="10" src="../images/spacer.gif" width="1"></td></tr>');
+function getSubMenu(){
+    subsection='';//alert(thisMenuSub);
+    if(thisMenuSub){
+        if(thisMenuSub.length > 0){
+            document.write('<tr><td valign="top"></td><td><TABLE WIDTH=100% BORDER=0 CELLSPACING=0 CELLPADDING=0>');
+            document.write('<tr><td colspan=2><img height="10" src="' + path + '"images/spacer.gif" width="1"></td></tr>');
+            //alert('1: '+thisPage);
+            for (n=0;n<thisMenuSub.length;n++){
+                document.write('<tr><td class = "level2_selected" valign="top" nowrap width=10 align="center">');
+                if ('/' + thisPath + thisPage==thisMenuSub[n].linkb) {
+                    document.write('>>&nbsp;');
+                    //document.write('22');
+                    document.write('</td><td class = "level2_selected" nowrap align="left">');
+                    document.write(thisMenuSub[n].name + '</td><td></tr>');
+                }
+                else{
+                    document.write('<b><font color="white">>></font>&nbsp;</b>');
+                    document.write('</td><td class = "level2_selected" align="left" nowrap>');
+                    document.write('<a class = "level2" target="_self" href="' + linka + thisMenuSub[n].linkb + '">' + thisMenuSub[n].name + '</a></td></tr>');
+                }
+                subsection=thisMenuSub[n].subsection;
+                if(thisMenuSub[n].sub2){
+                    //alert('ss? '+subsection);
+                    OpenSubMenu2(subsection);
+                    subsection='';
+                    if(thisMenuSub2){
+                        if(thisMenuSub2.length > 0){
+                            document.write('<tr><td valign="top"></td><td><TABLE WIDTH=100% BORDER=0 CELLSPACING=0 CELLPADDING=0>');
+                            document.write('<tr><td colspan=2><img height="10" src="' + path + '"images/spacer.gif" width="1"></td></tr>');
+                            for (i=0;i<thisMenuSub2.length;i++){
+                                document.write('<tr><td class = "level2_selected" nowrap valign="top">');
+                                //alert('here again /' + thisPath + thisPage+' '+thisMenuSub2[i].linkb);
+                                document.write('<tr><td class = "level2_selected" width=10 valign="top">');
+                                if ('/'+thisPath+thisPage==thisMenuSub2[i].linkb) {
+                                    document.write('>>'); //document.write('33');
+                                    document.write('</td><td class = "level2_selected" valign="top" nowrap>');
+                                    document.write(thisMenuSub2[i].name + '</td><td></tr>');
+                                }
+                                else{
+                                    document.write('<b><font color="white">>></font></b>');
+                                    document.write('</td><td  valign="top" nowrap>');
+                                    document.write('<a class = "level2" target="_self" href="' + linka + thisMenuSub2[i].linkb + '">' + thisMenuSub2[i].name + '</a></td></tr>');
+                                }//here
+                                subsection=thisMenuSub2[i].subsec2;
+                                if(thisMenuSub2[i].subsec2){
+                                    //alert('ss? '+subsection);
+                                    OpenSubMenu3(subsection);
+                                    subsection='';
+                                    if(thisMenuSub3){
+                                        //alert('ss2? '+subsection);
+                                        if(thisMenuSub3.length > 0){
+                                            document.write('<tr><td valign="top"></td><td><TABLE WIDTH=100% BORDER=0 CELLSPACING=0 CELLPADDING=0>');
+                                            document.write('<tr><td colspan=2><img height="10" src="' + path + '"images/spacer.gif" width="1"></td></tr>');
+                                            for (z=0;z<thisMenuSub3.length;z++){
+                                                document.write('<tr><td class = "level2_selected" nowrap valign="top">');
+                                                //alert('here again /' + thisPath + thisPage+' '+thisMenuSub3[z].linkb);
+                                                document.write('<tr><td class = "level2_selected" width=10 valign="top">');
+                                                if ('/'+thisPath+thisPage==thisMenuSub3[z].linkb) {
+                                                    document.write('>>'); //document.write('33');
+                                                    document.write('</td><td class = "level2_selected" valign="top" nowrap>');
+                                                    document.write(thisMenuSub3[z].name + '</td><td></tr>');
+                                                }
+                                                else{
+                                                    document.write('<b><font color="white">>></font></b>');
+                                                    document.write('</td><td  valign="top" nowrap>');
+                                                    document.write('<a class = "level2" target="_self" href="' + linka + thisMenuSub3[z].linkb + '">' + thisMenuSub3[z].name + '</a></td></tr>');
+                                                }
+                                            }
+                                            document.write('</td></tr></table></td></tr>');
+                                            document.write('<tr><td colspan=2><img height="10" src="../images/spacer.gif" width="1"></td></tr>');
+                                        }
+                                    }
+                                }//end here
+                            }
+                            document.write('</td></tr></table></td></tr>');
+                            document.write('<tr><td colspan=2><img height="10" src="../images/spacer.gif" width="1"></td></tr>');
+                        }
+                    }
+                }
+            }
+            document.write('</td></tr></table></td></tr>');
+            document.write('<tr><td colspan=2><img height="10" src="../images/spacer.gif" width="1"></td></tr>');
+        }
+    }
 }
-}
-}
-}
-
-}
-
 // closes menu section - do not alter
 function closeMenu(cat,pass) {
 //alert("close "+cat+" "+pass);
@@ -368,7 +475,7 @@ closeMenu('Corporate Information','corporate');
 //} else {
 //closeMenu('SEO','seo');
 //}
-</script><table width="100%" border="0" cellspacing="0" cellpadding="1"><tbody><tr><td class="level1_selected" valign="top" width="20"><font color="white">&gt;&gt;&nbsp;</font></td><td nowrap=""><a class="level1" href="/corporate/default.asp" target="_self">Corporate Information</a></td><td></td></tr><tr><td><img height="10" src="../" images="" spacer.gif"="" width="1"></td></tr><tr><td class="level2_selected" nowrap="" valign="top" align="right"><b><font color="white">&gt;&gt;</font>&nbsp;</b></td><td nowrap="" class="level2_selected"><a class="level2" target="_self" href="/corporate/about/default.asp">About Concur</a></td><td></td></tr><tr><td class="level2_selected" nowrap="" valign="top" align="right"><b><font color="white">&gt;&gt;</font>&nbsp;</b></td><td nowrap="" class="level2_selected"><a class="level2" target="_self" href="/corporate/press.asp">Press Releases</a></td><td></td></tr><tr><td class="level2_selected" nowrap="" valign="top" align="right"><b><font color="white">&gt;&gt;</font>&nbsp;</b></td><td nowrap="" class="level2_selected"><a class="level2" target="_self" href="/corporate/careers/default.asp">Careers@Concur</a></td><td></td></tr><tr><td class="level2_selected" nowrap="" valign="top" align="right"><b><font color="white">&gt;&gt;</font>&nbsp;</b></td><td nowrap="" class="level2_selected"><a class="level2" target="_self" href="/corporate/community.asp">Community</a></td><td></td></tr><tr><td class="level2_selected" nowrap="" valign="top" align="right"><b><font color="white">&gt;&gt;</font>&nbsp;</b></td><td nowrap="" class="level2_selected"><a class="level2" target="_self" href="/corporate/customers/default.asp">Expense Management Customers</a></td><td></td></tr><tr><td class="level2_selected" nowrap="" valign="top" align="right"><b><font color="white">&gt;&gt;</font>&nbsp;</b></td><td nowrap="" class="level2_selected"><a class="level2" target="_self" href="/corporate/events.asp">Events </a></td><td></td></tr><tr><td class="level2_selected" nowrap="" valign="top" align="right"><b><font color="white">&gt;&gt;</font>&nbsp;</b></td><td nowrap="" class="level2_selected"><a class="level2" target="_self" href="http://investors.concur.com/phoenix.zhtml?c=71089&amp;p=irol-irhome">Investor Relations</a></td><td></td></tr><tr><td class="level2_selected" nowrap="" valign="top" align="right"><b><font color="white">&gt;&gt;</font>&nbsp;</b></td><td nowrap="" class="level2_selected"><a class="level2" target="_self" href="/corporate/governance/default.asp">Corporate Governance</a></td><td></td></tr><tr><td class="level2_selected" nowrap="" valign="top" align="right"><b><font color="white">&gt;&gt;</font>&nbsp;</b></td><td nowrap="" class="level2_selected"><a class="level2" target="_self" href="/corporate/news.asp">In the News</a></td><td></td></tr><tr><td class="level2_selected" nowrap="" valign="top" align="right"><b><font color="white">&gt;&gt;</font>&nbsp;</b></td><td nowrap="" class="level2_selected"><a class="level2" target="_self" href="/corporate/partners/partners.asp">Expense Management Partners</a></td><td></td></tr><tr><td class="level2_selected" nowrap="" valign="top" align="right">&gt;&gt;&nbsp;</td><td class="level2_selected" nowrap="">Privacy Policy</td><td></td></tr><tr><td class="level2_selected" nowrap="" valign="top" align="right"><b><font color="white">&gt;&gt;</font>&nbsp;</b></td><td nowrap="" class="level2_selected"><a class="level2" target="_self" href="/corporate/contactusmail.asp">Contact Us</a></td><td></td></tr>
+</script><table width="100%" border="0" cellspacing="0" cellpadding="1"><tbody><tr><td class="level1_selected" nowrap="" valign="top" align="right" width="24"><b><font color="white">&gt;&gt;</font>&nbsp;</b></td><td nowrap=""><a class="level1" href="../solutions/exp/default.asp" target="_self">Expense Reporting</a></td></tr><tr><td class="level1_selected" nowrap="" valign="top" align="right"><b><font color="white">&gt;&gt;</font>&nbsp;</b></td><td nowrap=""><a class="level1" href="../solutions/travelbooking/default.asp" target="_self">Travel Management</a></td></tr><tr><td class="level1_selected" nowrap="" valign="top" align="right"><b><font color="white">&gt;&gt;</font>&nbsp;</b></td><td nowrap=""><a class="level1" href="../solutions/meeting/default.asp" target="_self">Meeting Management</a></td></tr><tr><td class="level1_selected" nowrap="" valign="top" align="right"><b><font color="white">&gt;&gt;</font>&nbsp;</b></td><td nowrap=""><a class="level1" href="../solutions/moreinfo.asp" target="_self">More Information</a></td></tr><tr><td nowrap="" class="borderbase" colspan="2">&nbsp;</td></tr>	<tr><td nowrap="" colspan="2">&nbsp;</td></tr></tbody></table><table width="100%" border="0" cellspacing="0" cellpadding="1"><tbody><tr><td class="level1_selected" valign="top" width="24"><font color="white">&gt;&gt;&nbsp;</font></td><td nowrap=""><a class="level1" href="/corporate/default.asp" target="_self">Corporate Information</a></td><td></td></tr><tr><td><img height="10" src="../" images="" spacer.gif"="" width="1"></td></tr><tr><td class="level2_selected" nowrap="" valign="top" align="right" width="24"><b><font color="white">&gt;&gt;</font>&nbsp;</b></td><td nowrap="" class="level2_selected"><a class="level2" target="_self" href="/corporate/about/default.asp">About Concur</a></td><td></td></tr><tr><td class="level2_selected" nowrap="" valign="top" align="right" width="24"><b><font color="white">&gt;&gt;</font>&nbsp;</b></td><td nowrap="" class="level2_selected"><a class="level2" target="_self" href="/corporate/press.asp">Press Releases</a></td><td></td></tr><tr><td class="level2_selected" nowrap="" valign="top" align="right" width="24"><b><font color="white">&gt;&gt;</font>&nbsp;</b></td><td nowrap="" class="level2_selected"><a class="level2" target="_self" href="/corporate/careers/default.asp">Careers@Concur</a></td><td></td></tr><tr><td class="level2_selected" nowrap="" valign="top" align="right" width="24"><b><font color="white">&gt;&gt;</font>&nbsp;</b></td><td nowrap="" class="level2_selected"><a class="level2" target="_self" href="/corporate/community.asp">Community</a></td><td></td></tr><tr><td class="level2_selected" nowrap="" valign="top" align="right" width="24"><b><font color="white">&gt;&gt;</font>&nbsp;</b></td><td nowrap="" class="level2_selected"><a class="level2" target="_self" href="/corporate/customers/default.asp">Expense Management Customers</a></td><td></td></tr><tr><td class="level2_selected" nowrap="" valign="top" align="right" width="24"><b><font color="white">&gt;&gt;</font>&nbsp;</b></td><td nowrap="" class="level2_selected"><a class="level2" target="_self" href="/corporate/events.asp">Events </a></td><td></td></tr><tr><td class="level2_selected" nowrap="" valign="top" align="right" width="24"><b><font color="white">&gt;&gt;</font>&nbsp;</b></td><td nowrap="" class="level2_selected"><a class="level2" target="_self" href="http://investors.concur.com/phoenix.zhtml?c=71089&amp;p=irol-irhome">Investor Relations</a></td><td></td></tr><tr><td class="level2_selected" nowrap="" valign="top" align="right" width="24"><b><font color="white">&gt;&gt;</font>&nbsp;</b></td><td nowrap="" class="level2_selected"><a class="level2" target="_self" href="/corporate/governance/default.asp">Corporate Governance</a></td><td></td></tr><tr><td class="level2_selected" nowrap="" valign="top" align="right" width="24"><b><font color="white">&gt;&gt;</font>&nbsp;</b></td><td nowrap="" class="level2_selected"><a class="level2" target="_self" href="/corporate/news.asp">In the News</a></td><td></td></tr><tr><td class="level2_selected" nowrap="" valign="top" align="right" width="24"><b><font color="white">&gt;&gt;</font>&nbsp;</b></td><td nowrap="" class="level2_selected"><a class="level2" target="_self" href="/corporate/partners/partners.asp">Expense Management Partners</a></td><td></td></tr><tr><td class="level2_selected" nowrap="" valign="top" align="right" width="24">&gt;&gt;&nbsp;</td><td class="level2_selected" nowrap="">Privacy Policy</td><td></td></tr><tr><td class="level2_selected" nowrap="" valign="top" align="right" width="24"><b><font color="white">&gt;&gt;</font>&nbsp;</b></td><td nowrap="" class="level2_selected"><a class="level2" target="_self" href="/corporate/contactusmail.asp">Contact Us</a></td><td></td></tr>
 
 
 </tbody></table>
@@ -401,7 +508,7 @@ We have created this privacy statement in order to demonstrate our commitment to
 <p>
 
 <b>Collection and Use of Your Information</b><br>
-On certain pages, we may give you the option of providing us with names, addresses, phone numbers, fax numbers, email addresses, demographic data, preference information, and various other kinds of details. This information is not gathered by us without your knowledge and active participation. We may use this information to contact you via email or postal mail (e.g., to send newsletters, product description, company information, etc.). You may choose not to receive future communications at any time by following the instructions in the communication on how to unsubscribe. Alternatively, if you would like to remove your information from our database and not receive future communications from us, please send your request to <a href="mailto:marketing@concur.com">marketing@concur.com</a>
+On certain pages, we may give you the option of providing us with names, addresses, phone numbers, fax numbers, email addresses, demographic data, preference information, and various other kinds of details. This information is not gathered by us without your knowledge and active participation. We may use this information to contact you via email or postal mail (e.g., to send newsletters, product description, company information, etc.). You may choose not to receive future communications at any time by following the instructions in the communication on how to unsubscribe. Alternatively, if you would like to remove your information from our database and not receive future communications from us, please send your request to <a href="mailto:concurnews@concur.com?subject=Unsubscribe">concurnews@concur.com</a>
 </p><p>
 
 In certain circumstances, we may give you the option of providing us with personal information necessary for billing, such as name, address, telephone number, and credit card number. Generally, this information is requested when you are registering for an event or training.
@@ -476,12 +583,22 @@ We reserve the right to update this privacy statement without notice.
      
 <table border="0" cellspacing="0" cellpadding="0" class="borderbase">
                 <tbody><tr>
-                <td width="500"><form name="find" action="/search/results.asp" method="post"></form></td>
+                <td width="500"><form name="find" action="javascript: doSearchSubmit();" method="post"></form></td>
                 	<td class="content_small" valign="middle" width="248" height="24" style="BACKGROUND-IMAGE: url(/images/SearchBkg.jpg); BACKGROUND-REPEAT: no-repeat">&nbsp;Search: 
-<input id="CiRestriction" class="text_box" name="CiRestriction" align="top">&nbsp;&nbsp;<a style="text-decoration: none;" href="javascript: void searchrt();">
+<input id="CiRestriction" class="text_box" name="CiRestriction" align="top">&nbsp;&nbsp;<a style="text-decoration: none;" href="javascript: doSearchSubmit();">
 <img height="11" align="absmiddle" src="/images/Icon-Rt.gif" width="11" border="0"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/search/default.asp" target="_self" class="content_small">Sitemap</a>
   </td></tr> 
    </tbody></table>
+<script language="JavaScript">
+function doSearchSubmit()
+{
+	var searchVal = document.find.CiRestriction.value;
+	//alert(searchVal);
+	document.find.action = "/search/results.asp?searched=" + searchVal;
+	//alert(document.searchAgain.action);
+	void searchrt();
+}
+</script>   
 
   </td>
   </tr>
@@ -496,33 +613,21 @@ We reserve the right to update this privacy statement without notice.
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
                 <tbody><tr>
                 <td align="left" width="24"><img height="24" src="../images/Corner-Bottom.gif" width="24"></td>
-                <td class="content_small" nowrap="" bgcolor="white" align="left">&nbsp;<a class="second_nav" target="_self" href="/solutions/exp/default.asp">Expense Reporting</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a target="_self" class="second_nav" href="/services/default.asp">Customer Services</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a target="_self" class="second_nav" href="/corporate/default.asp">Corporate Information</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a target="_self" class="second_nav" href="/corporate/careers/default.asp">Careers</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a target="_self" class="second_nav" href="/default.asp">Home</a>&nbsp;</td>
+                <td class="content_small" nowrap="" bgcolor="white" align="left">&nbsp;<a class="second_nav" target="_self" href="/solutions/default.asp">Corporate Expense Management Solutions</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a target="_self" class="second_nav" href="/services/default.asp">Customer Services</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a target="_self" class="second_nav" href="/corporate/default.asp">Corporate Information</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a target="_self" class="second_nav" href="/corporate/careers/default.asp">Careers</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a target="_self" class="second_nav" href="/default.asp">Home</a>&nbsp;</td>
                 <td class="footer" align="right" nowrap="" bgcolor="white">&nbsp;</td>
                  <td bgcolor="white" width="10">&nbsp;</td>
                 </tr>
                 <tr>
                 <td></td>
-                <td class="footer" align="left" height="16" valign="bottom" nowrap="">&nbsp;<a target="_self" class="footer" href="../corporate/about/copyright.asp">©Copyright</a> 2005 Concur Technologies, Inc. All rights reserved.&nbsp;|&nbsp;&nbsp;<a target="_self" href="/corporate/privacy.asp" class="footer">Privacy Policy</a></td>
+                <td class="footer" align="left" height="16" valign="bottom" nowrap="">&nbsp;<a target="_self" class="footer" href="../corporate/about/copyright.asp">©Copyright</a> 2006 Concur Technologies, Inc. All rights reserved.&nbsp;|&nbsp;&nbsp;<a target="_self" href="/corporate/privacy.asp" class="footer">Privacy Policy</a></td>
                 <td></td>
                 <td></td></tr>  
    </tbody></table>
    
 
-<!-- ConversionRuler.com ROI Performance Tracking begin -->
-<script language="JavaScript" type="text/javascript" src="http://www.conversionruler.com/bin/clienttrack1.php"></script>
-<script language="JavaScript" type="text/javascript">
-<!--
-var siteid = 447; var proto = 'http';
-if (typeof(valid) + '' != 'undefined') {tlitrack();}
-//-->
-</script>
-<!-- ConversionRuler.com end -->
 
-
-   <!-- START OF SmartSource Data Collector TAG -->
-<!-- WebTrends SmartSource Data Collector                  -->
-<!-- © 1996-2004 NetIQ Corporation.  All rights reserved.  -->
-<!-- $DateTime: 2004/05/03 13:43:43 $ -->
+                <script type="text/javascript" language="javascript">i=10317</script>
+				<script type="text/javascript" language="javascript" src="http://t2.trackalyzer.com/trackalyze.js"></script>
 <script language="Javascript"><!--
 gVersion="1.0";
 //-->
