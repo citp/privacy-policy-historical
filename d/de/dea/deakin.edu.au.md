@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deakin.edu.au privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214134938id_/http%3A//www.deakin.edu.au/disclaimer/index.php%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deakin.edu.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615185453id_/http%3A//www.deakin.edu.au/disclaimer/index.php%23privacy) for the most accurate reproduction.*
 
 # Disclaimer
 
@@ -9,7 +9,7 @@ The University provides external links as a service to users of its website. In 
 
 ## Copyright notice
 
-This website and its contents are subject to copyright under the laws of Australia and, through international treaties, other countries. The copyright in materials in this website as a whole is owned by Deakin University. Third parties own the copyright in some materials incorporated within this website. You may view this website and its contents using your web browser and save an electronic copy, or print out a copy, of parts of this website solely for your own information, research or study, but only if you: do not modify the copy; and include the copyright notice "© Deakin University 2005" on the copy. You must not otherwise exercise the copyright in the whole or any part of this website for any other purpose except as expressly permitted by statute or with Deakin University's prior consent. 
+This website and its contents are subject to copyright under the laws of Australia and, through international treaties, other countries. The copyright in materials in this website as a whole is owned by Deakin University. Third parties own the copyright in some materials incorporated within this website. You may view this website and its contents using your web browser and save an electronic copy, or print out a copy, of parts of this website solely for your own information, research or study, but only if you: do not modify the copy; and include the copyright notice "© Deakin University 2006" on the copy. You must not otherwise exercise the copyright in the whole or any part of this website for any other purpose except as expressly permitted by statute or with Deakin University's prior consent. 
 
 See the [Deakin University Copyright Guidelines and Requirements](http://www.deakin.edu.au/learningservices/copyright/) website.
 
