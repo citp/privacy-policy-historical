@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itex.com privacy policy that was archived on 2005-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051001120625id_/http%3A//www.itex.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itex.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615064050id_/http%3A//www.itex.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # ITEX Payment Systems
 
@@ -6,7 +6,7 @@
 
 Help Center >> Privacy Policy
 
-[Print Format](https://web.archive.org/web/20051001120625id_/http%3A//www.itex.com/privacy_policy.asp?print=1 "Print Format")
+[Print Format](https://web.archive.org/web/20060615064050id_/http%3A//www.itex.com/privacy_policy.asp?print=1 "Print Format")
 
 ## Privacy Policy and Online Data Collection Notice
 
@@ -93,4 +93,4 @@ Should you have other questions or concerns about these privacy practices, pleas
   
   
 ITEX and ITEX Payment Systems are registered service marks of ITEX Corporation.  
-© 2005 ITEX Corporation. All rights reserved. 
+© 2006 ITEX Corporation. All rights reserved. 
