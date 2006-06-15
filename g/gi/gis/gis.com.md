@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gis.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210063250id_/http%3A//www.esri.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gis.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615202435id_/http%3A//www.esri.com/company/privacy.html) for the most accurate reproduction.*
 
 # ESRI Web Site Privacy Policy
 
