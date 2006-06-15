@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yachtworld.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228122141id_/http%3A//www.yachtworld.com/globalnav/privacy.cgi.en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yachtworld.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615021755id_/http%3A//yachtworld.com/core/globalnav/privacy.jsp) for the most accurate reproduction.*
 
-# YachtWorld.com
+# YachtWorld.com Boats and Yachts for Sale
 
 The YachtWorld.com Web site ("Web site") is owned and operated by Trader Publishing Company ("Trader", "YachtWorld.com", "We", "us", "our"). This Web site offers services to (i) marine professionals such as vessel brokers and dealers (and their employees) that have signed a service agreement ("Member"), and (ii) a consumer or an individual who visits the Web site but is not a Member of the Web site ("Site Visitor").
 
