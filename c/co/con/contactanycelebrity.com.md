@@ -1,53 +1,83 @@
-> *The following text is extracted and transformed from the contactanycelebrity.com privacy policy that was archived on 2005-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050407052351id_/http%3A//contactanycelebrity.com/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contactanycelebrity.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615114309id_/http%3A//contactanycelebrity.com/privacy/index.htm) for the most accurate reproduction.*
 
-# Privacy Policy - Celebrity Addresses Online
+# Privacy Policy | Contact Any Celebrity - Now you can contact any celebrity!
 
-This is the web site of Contact Any Celebrity at [http://contactanycelebrity.com](http://contactanycelebrity.com/).
+**Welcome to the Contact Any Celebrity Privacy. This page was last updated on January 1, 2006.**  
+Contact Any Celebrity is an Mega Niche Media property.
 
-Our postal address is:
+Contact Any Celebrity is very sensitive to the privacy and security concerns that individuals have expressed regarding personal information and it's use. The following pages, presented in a Question and Answer format, outline general information about Contact Any Celebrity, our customers, and the information we distribute.
 
+**Our mailing address is:**  
 Contact Any Celebrity  
-8721 Santa Monica Boulevard, #431  
+8721 Santa Monica Boulevard #431  
 Los Angeles, CA 90069-4507
 
-You may [contact us](https://web.archive.org/web/20050407052351id_/http%3A//contactanycelebrity.com/contact/index.htm) or you call us 24x7 toll-free at (866) 4-A-CELEB or (310) 228-3654.
+For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address. We collect only the domain name (but not the e-mail address of visitors to our Web page), the e-mail addresses of those who communicate with us via e-mail, information volunteered by the consumer, such as survey information and/or site registrations.
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
+The information we collect is used to improve the content of our Web page and used to notify consumers about updates to our Web site. It is not shared with other organizations for commercial purposes.
 
-We collect only the domain name, but not the e-mail address of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail, information volunteered by the consumer, such as survey information and/or site registrations.
+With respect to cookies: We only use cookies to allow access to our database once you have joined.
 
-The information we collect is used to improve the content of our Web page, used to notify consumers about updates to our Web site, shared with other reputable organizations to help them contact consumers for marketing purposes, not shared with other organizations for commercial purposes.
+If you do not want to receive e-mail from us in the future, please contact us.
 
-With respect to cookies: We only use cookies to allow access to our database.
+If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please contact us.
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address.
+If you supply us with your telephone number online you will only receive telephone contact from us regarding orders you have placed.
 
-From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above, e-mailing us at the above address, writing to us at the above address.
+With respect to Ad Servers: we do not partner with or have special relationships with any ad server companies. 
 
-From time to time, we make our _customer_ e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above, e-mailing us at the above address, writing to us at the above address.
+Upon request we will provide you with access to all information (including proprietary information) that we maintain about you including financial information (credit card account information), unique identifier information (customer number or password), transaction information (dates on which customers made purchases, amounts and types of purchases), and contact information (name, address, phone number). You can access this information by contacting us.
 
-If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided above, e-mailing us at the above address, writing to us at the above address.
+With respect to security: we always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. We also have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
-Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations 
+If you feel that we are not following this stated information policy, please contact us, the state or local chapters of the Better Business Bureau, the state or local consumer protection office, or the Federal Trade Commission by phone at 202-FTC-HELP (202-382-4357) or electronically at [ http://www.ftc.gov/ftc/complaint.htm](http://www.ftc.gov/ftc/complaint.htm).
 
-Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
+**What is Contact Any Celebrity?**  
+Contact Any Celebrity is an individual reference service, a company that provides information used to help identify and locate public figures.
 
-Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations 
+Contact Any Celebrity provides information solutions for consumers and small businesses using public records and publicly-available information. Our products help people market their products to celebrities, solicit autographed memorabilia, get testimonials and endorsements, and send fan mail.
 
-With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. 
+How do customers use the data they obtain from Contact Any Celebrity?  
+Our customers are individuals and small businesses that use our data for to locate public people for personal and professional reasons.
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
+**Are their any restrictions on how customers can use Contact Any Celebrity's data?**  
+Our customers do have restrictions on how they can use our information. Every customer enters into an agreement with Contact Any Celebrity that restricts the customer's use of our data. Our customers agree to use our data only for legal purposes, and they also agree not to use our information in ways that might be harmful to others or intrusive.
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by calling us at the number provided above, e-mailing us at the above address, writing us at the above address.
+Contact Any Celebrity takes these restrictions very seriously. In the event we believe a customer has misused our information, we will address the matter and terminate the subscriber. Additionally, if a customer uses our information in a criminal or harmful manner, we will contact appropriate law enforcement agencies. Our customers agree we can disclose information about them and their searches to law enforcement agencies in the event we suspect they have misused our information. 
 
-Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them, financial information (e.g., credit card account information) that we maintain about them, unique identifier information (e.g., customer number or password) that we maintain about them, transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, contact information (e.g., name, address, phone number) that we maintain about them , a description of information that we maintain about them.
+How can I remove my information from Contact Any Celebrity's database?  
+In order for Contact Any Celebrity to ‘opt out’ your public information from being viewable on the Contact Any Celebrity Web site we do require **faxed proof of identity**. Proof of identity can be a state issued ID card or driver’s license. If you are faxing a copy of your driver’s license, cross out the photo and the driver’s license number. We only need to see the name, address and date of birth. **Please fax information to our customer service department at 310-362-8771.**
 
-Consumers can access this information by e-mail us at the above address, write to us at the above address, writing to us at the above address, or visiting us at [ http://contactanycelebrity.com/help.](http://contactanycelebrity.com/support)
+If you are not comfortable doing this you can send us a notarized form proving your identity and we will be glad to remove this public information.
 
-With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site, When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+** Please note removing the data here does not prevent public records from sending us new information in the future. To permanently have your records sealed you will need to contact your county’s record department. If you have a compelling privacy or security issue, you may wish to contact the official custodians of those public records that contain sensitive information about you, such as your county's land records office, to determine how to remove your information from the public record. (The process of having public records sealed typically requires a court order.) This process will ensure that the information is not available from the public records custodian, Contact Any Celebrity, or any other information provider.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, state or local chapters of the Better Business Bureau, state or local consumer protection office, or The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at [ http://www.ftc.gov/ftc/complaint.htm](http://www.ftc.gov/ftc/complaint.htm).
+Who do I contact if I have questions about Contact Any Celebrity?  
+If you have questions about Contact Any Celebrity's information policies, privacy or related questions, please contact Jordan McAuley, CEO. Jordan's address is:
 
-**[Click](https://web.archive.org/web/20050407052351id_/http%3A//contactanycelebrity.com/join/index.htm)**[ ** here now to subscribe!**](https://web.archive.org/web/20050407052351id_/http%3A//contactanycelebrity.com/join/index.htm)
+Jordan McAuley, CEO  
+Contact Any Celebrity  
+8721 Santa Monica Blvd. #431  
+Los Angeles, CA 90069-4507
 
-[Main Page](https://web.archive.org/web/20050407052351id_/http%3A//contactanycelebrity.com/index.htm)
+Safe & Secure Online Transactions  
+Contact Any Celebrity is concerned about the safety and security of our customers. We have put a number of technological protections in place to ensure that our transaction process is safe and that our customers' information is secure.
+
+Safety and Security Tips:
+
+* If using a public computer or terminal, always log out when you complete an online session.
+* Keep your login information private, do not share it with anyone, and store it in a safe place.
+
+**[Join Now!](https://web.archive.org/web/20060615114309id_/http%3A//contactanycelebrity.com/join/index.htm)  |  [Member Login](https://web.archive.org/web/20060615114309id_/http%3A//contactanycelebrity.com/members/index.htm)  |  [Help Desk](https://web.archive.org/web/20060615114309id_/http%3A//contactanycelebrity.com/help/index.htm) | [Testimonials](https://web.archive.org/web/20060615114309id_/http%3A//contactanycelebrity.com/testimonials/index.htm)**
+
+[Affiliate Program](https://web.archive.org/web/20060615114309id_/http%3A//contactanycelebrity.com/affiliates/index.htm) | [Article Archives](https://web.archive.org/web/20060615114309id_/http%3A//contactanycelebrity.com/articles/index.htm) | [Privacy Policy](https://web.archive.org/web/20060615114309id_/http%3A//contactanycelebrity.com/privacy/index.htm) | [Terms & Conditions](https://web.archive.org/web/20060615114309id_/http%3A//contactanycelebrity.com/terms/index.htm) \- [ Visit Our Blog!](http://contactanycelebrity.blogspot.com/)
+
+[ ](http://www.labbb.org/BBBWeb/Forms/Business/CompanyReportPage_Expository.aspx?CompanyID=13166376)
+
+**[Contact Any Celebrity](https://web.archive.org/web/20060615114309id_/http%3A//contactanycelebrity.com/index.htm)  
+**8721 Santa Monica Blvd. #431  
+Los Angeles, CA 90069-4507  
+[Contact Us](https://web.archive.org/web/20060615114309id_/http%3A//contactanycelebrity.com/help/index.htm)
+
+Copyright © Mega Niche Media.  
+All rights reserved..
