@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the glu.com privacy policy that was archived on 2005-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051119111645id_/http%3A//www.glu.com/about/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glu.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615052759id_/http%3A//glu.com/about/privacy_policy.php) for the most accurate reproduction.*
 
-# glu | about | privacy policy
+# glu mobile | about | privacy policy
 
 This Glu Privacy Policy ("Policy") governs our recruitment of information we collect from you through our Web site at www.glu.com and our mobile site (collectively, the "Site"). We have adopted this Policy to demonstrate our commitment to protecting your private information.
 
