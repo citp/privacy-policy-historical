@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cemex.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212140112id_/http%3A//www.cemex.com/gl/gl_pp.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cemex.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615023533id_/http%3A//www.cemex.com/gl/gl_pp.asp) for the most accurate reproduction.*
 
 # CEMEX | PRIVACY POLICY
 
