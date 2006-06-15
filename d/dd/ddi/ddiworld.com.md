@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ddiworld.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230015559id_/http%3A//www.ddiworld.com/utilities/privacy_en.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ddiworld.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615123838id_/http%3A//ddiworld.com/utilities/privacy_en.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -7,7 +7,7 @@
 ##  _Development Dimensions International's Privacy Statement_
 
 This Privacy Statement is effective as of September 25, 2004.  
-([Click here to download a PDF version of this policy](https://web.archive.org/web/20051230015559id_/http%3A//www.ddiworld.com/pdf/privacystatement_ddiworld_09_21.pdf "DDIWorld Privacy Statement").  )  
+([Click here to download a PDF version of this policy](https://web.archive.org/web/20060615123838id_/http%3A//ddiworld.com/pdf/privacystatement_ddiworld_09_21.pdf "DDIWorld Privacy Statement").  (PDF) )  
 
 
 Development Dimensions International (DDI) designed and manages the site you are viewing. DDI provides a range of Internet-based tools to support the corporate Human Resources function. Development Dimensions International (DDI) is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the sites (www.ddiworld.com and www.ddi.com). 
@@ -18,16 +18,16 @@ DDI's sites (www.ddiworld.com and www.ddi.com) comply with EU Safe Harbor framew
 
 This Privacy Statement covers DDI's Internet site www.ddiworld.com and www.ddi.com. Because DDI wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices and have its privacy practices periodically reviewed for compliance. This Privacy Statement addresses the following privacy issues:
 
-  * _[See Information Collection and Use.](https://web.archive.org/web/20051230015559id_/http%3A//www.ddiworld.com/utilities/privacy_en.asp#26468)_
-  * [See Correcting/Updating/Deleting/Deactivating Personal Information.](https://web.archive.org/web/20051230015559id_/http%3A//www.ddiworld.com/utilities/privacy_en.asp#10985)
-  * _[See Communications from the Site.](https://web.archive.org/web/20051230015559id_/http%3A//www.ddiworld.com/utilities/privacy_en.asp#93036)_
-  * _[See Sharing.](https://web.archive.org/web/20051230015559id_/http%3A//www.ddiworld.com/utilities/privacy_en.asp#69124)_
-  * _[See Security.](https://web.archive.org/web/20051230015559id_/http%3A//www.ddiworld.com/utilities/privacy_en.asp#61799)_
-  * [See Enhancement of Marketing Profile for DDI Internet site only.](https://web.archive.org/web/20051230015559id_/http%3A//www.ddiworld.com/utilities/privacy_en.asp#43478)
-  * _[See Changes to the Privacy Statement.](https://web.archive.org/web/20051230015559id_/http%3A//www.ddiworld.com/utilities/privacy_en.asp#92283)_
-  * _[See Protection of Children's Information.](https://web.archive.org/web/20051230015559id_/http%3A//www.ddiworld.com/utilities/privacy_en.asp#52359)_
-  * [See Complaints Resolution.](https://web.archive.org/web/20051230015559id_/http%3A//www.ddiworld.com/utilities/privacy_en.asp#42449)
-  * [See Contact Information.](https://web.archive.org/web/20051230015559id_/http%3A//www.ddiworld.com/utilities/privacy_en.asp#72227)
+  * _[See Information Collection and Use.](https://web.archive.org/web/20060615123838id_/http%3A//ddiworld.com/utilities/privacy_en.asp#26468)_
+  * [See Correcting/Updating/Deleting/Deactivating Personal Information.](https://web.archive.org/web/20060615123838id_/http%3A//ddiworld.com/utilities/privacy_en.asp#10985)
+  * _[See Communications from the Site.](https://web.archive.org/web/20060615123838id_/http%3A//ddiworld.com/utilities/privacy_en.asp#93036)_
+  * _[See Sharing.](https://web.archive.org/web/20060615123838id_/http%3A//ddiworld.com/utilities/privacy_en.asp#69124)_
+  * _[See Security.](https://web.archive.org/web/20060615123838id_/http%3A//ddiworld.com/utilities/privacy_en.asp#61799)_
+  * [See Enhancement of Marketing Profile for DDI Internet site only.](https://web.archive.org/web/20060615123838id_/http%3A//ddiworld.com/utilities/privacy_en.asp#43478)
+  * _[See Changes to the Privacy Statement.](https://web.archive.org/web/20060615123838id_/http%3A//ddiworld.com/utilities/privacy_en.asp#92283)_
+  * _[See Protection of Children's Information.](https://web.archive.org/web/20060615123838id_/http%3A//ddiworld.com/utilities/privacy_en.asp#52359)_
+  * [See Complaints Resolution.](https://web.archive.org/web/20060615123838id_/http%3A//ddiworld.com/utilities/privacy_en.asp#42449)
+  * [See Contact Information.](https://web.archive.org/web/20060615123838id_/http%3A//ddiworld.com/utilities/privacy_en.asp#72227)
 
 
 
@@ -41,7 +41,7 @@ In order to use full functionality offered by the Sites, a user may be required 
 
 #####  Email A Colleague
 
-If you choose to use our referral service to tell a colleague about our site, we will ask you for your colleaque's name and email address. We will automatically send your colleague a one-time email inviting him or her to visit the site. DDI stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. 
+If you choose to use our referral service to tell a colleague about our site, we will ask you for your colleague's name and email address. We will automatically send your colleague a one-time email inviting him or her to visit the site. DDI stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. 
 
 Your colleague can contact us at webmaster@ddiworld.com to request that we remove this information from our database.
 
@@ -226,16 +226,3 @@ Bridgeville, PA 15017
 (412) 257-0600
 
 webmaster@ddiworld.com
-
-  
-|   
-| [Printer friendly](https://web.archive.org/web/20051230015559id_/http%3A//www.ddiworld.com/utilities/privacy_en.asp?format=print)  
-  
-| Add My DDI Favorite  
-  
-|   
-|   
-  
----|---|---|---|---  
-  
-
