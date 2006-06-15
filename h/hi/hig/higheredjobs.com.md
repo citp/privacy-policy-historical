@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the higheredjobs.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212160149id_/http%3A//www.higheredjobs.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the higheredjobs.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616014424id_/http%3A//www.higheredjobs.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - HigherEdJobs.com
 
@@ -6,7 +6,7 @@ Internet Employment Linkage, Inc. is a licensee of the TRUSTe Privacy Program.
 
 This Privacy Policy governs the collection and use of user data from those portions of [ ](http://www.truste.org/ivalidate.php?url=www.higheredjobs.com&sealid=101) the HigherEdJobs.com website that are available to the public without a login ID or password (the "Public Site") and those portions, such as the Employer Section and My HigherEdJobs, that we restrict to users with a login ID and password (the "Restricted Site"). The Public Site and the Restricted Site are, collectively, called the "Web Site." Except where specified otherwise, the provisions in this Privacy Policy apply to the Web Site as a whole.
 
-If users have questions or concerns regarding this statement, they should first contact the Operations Department at [privacy@higheredjobs.com](mailto:privacy@higheredjobs.com) or by postal mail at 1010 Lake Street, Suite 106, Oak Park, IL 60301. If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the _TRUSTe Watchdog Dispute Resolution Process_ (<http://www.truste.org/consumers/watchdog_complaint.php>). TRUSTe will serve as a liaison with the Web site to resolve users concerns.
+If users have questions or concerns regarding this statement, they should first contact the Operations Department at [privacy@higheredjobs.com](mailto:privacy@higheredjobs.com) or by postal mail at 1010 Lake Street, Suite 611, Oak Park, IL 60301. If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the _TRUSTe Watchdog Dispute Resolution Process_ (<http://www.truste.org/consumers/watchdog_complaint.php>). TRUSTe will serve as a liaison with the Web site to resolve users concerns.
 
 ## PRIVACY PHILOSOPHY
 
