@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the benjerry.com privacy policy that was archived on 2005-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051215074154id_/http%3A//www.benjerry.com/our_company/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the benjerry.com privacy policy that was archived on 2006-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615202158id_/http%3A//www.benjerry.com/our_company/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -9,180 +9,73 @@
 <link rel="stylesheet" href="/assets/css/our_company/our_company.css" type="text/css" media="screen">
 <link rel="stylesheet" href="/assets/css/our_company/privacy/privacy.css" type="text/css" media="screen">
 
-
-<script language="JavaScript" type="text/javascript">
-<!--
-var requiredVersion = 5;   // Version the user needs to view site (max 8, min 2)
-var useRedirect = false;    // Flag indicating whether or not to load a separate
-                           // page based on detection results. Set to true to
-                           // load a separate page. Set to false to embed the
-                           // movie or alternate html directly into this page.
-                           
-// System globals
-var flash2Installed = false;    // boolean. true if flash 2 is installed
-var flash3Installed = false;    // boolean. true if flash 3 is installed
-var flash4Installed = false;    // boolean. true if flash 4 is installed
-var flash5Installed = false;    // boolean. true if flash 5 is installed
-var flash6Installed = false;    // boolean. true if flash 6 is installed
-var flash7Installed = false;    // boolean. true if flash 7 is installed
-var flash8Installed = false;    // boolean. true if flash 8 is installed
-var flash9Installed = false;    // boolean. true if flash 9 is installed
-var maxVersion = 9;             // highest version we can actually detect
-var actualVersion = 0;          // version the user really has
-var hasRightVersion = false;    // boolean. true if it's safe to embed the flash movie in the page
-var jsVersion = 1.0;            // the version of javascript supported
-
-// -->
-</script>
-
-<script language="JavaScript1.1" type="text/javascript">
-<!--
-
-// Check the browser...we're looking for ie/win
-var isIE = (navigator.appVersion.indexOf("MSIE") != -1) ? true : false;    // true if we're on ie
-var isWin = (navigator.appVersion.indexOf("Windows") != -1) ? true : false; // true if we're on windows
-
-// This is a js1.1 code block, so make note that js1.1 is supported.
-jsVersion = 1.1;
-
-// Write vbscript detection on ie win. IE on Windows doesn't support regular
-// JavaScript plugins array detection.
-if(isIE && isWin){
-  document.write('<SCR' + 'IPT LANGUAGE=VBScript\> \n');
-  document.write('on error resume next \n');
-  document.write('flash2Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.2"))) \n');
-  document.write('flash3Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.3"))) \n');
-  document.write('flash4Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.4"))) \n');
-  document.write('flash5Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.5"))) \n');  
-  document.write('flash6Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.6"))) \n');
-  document.write('flash7Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.7"))) \n');
-  document.write('flash8Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.8"))) \n');
-  document.write('flash9Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.9"))) \n');     
-  document.write('</SCR' + 'IPT\> \n'); // break up end tag so it doesn't end our script
-}
-// -->
-</script>
-
-<script language="JavaScript" type="text/javascript">
-<!--
-
-function detectFlash() {  
-
-  if (navigator.plugins) {
-
-    if (navigator.plugins["Shockwave Flash 2.0"]
-        || navigator.plugins["Shockwave Flash"]) {
-
-      var isVersion2 = navigator.plugins["Shockwave Flash 2.0"] ? " 2.0" : "";
-      var flashDescription = navigator.plugins["Shockwave Flash" + isVersion2].description;
-
-      var flashVersion = parseInt(flashDescription.charAt(flashDescription.indexOf(".") - 1));
-     
-	  flash2Installed = flashVersion == 2;    
-      flash3Installed = flashVersion == 3;
-      flash4Installed = flashVersion == 4;
-      flash5Installed = flashVersion == 5;
-      flash6Installed = flashVersion == 6;
-	  flash7Installed = flashVersion == 7;
-	  flash8Installed = flashVersion == 8;
-	  flash9Installed = flashVersion >= 9;
-    }
-  }
-
-  for (var i = 2; i <= maxVersion; i++) {  
-    if (eval("flash" + i + "Installed") == true) actualVersion = i;
-  }
-  
-  if(navigator.userAgent.indexOf("WebTV") != -1) actualVersion = 3; 
-   // DEBUGGING: uncomment next line to display flash version
-  //alert("version detected: " + actualVersion);
-
-  if (actualVersion >= requiredVersion) {
-	hasRightVersion = true;
-	}
- //alert("Has high enough version? " + hasRightVersion);
-
-}
-
-detectFlash();  // call our detector now that it's safely loaded.  
-
-// -->
-</script>
-
-
+<script type="text/javascript" src="/assets/js/flashDetect/swfobject.js"></script>
 </head>
 
 <body bgcolor="#ffffff">
 
 <table width="760" border="0" align="center" cellpadding="3" cellspacing="0" height="100%">
   
-  <tbody><tr><td colspan="3" height="126"> 
+  <tbody><tr><td colspan="3" height="126">
 
-<script language="JavaScript" type="text/javascript">
-<!--
-// In this section we set up the content to be placed dynamically on the page.
-// Customize movie tags and alternate html content below.
 
-if (!useRedirect) {    // if dynamic embedding is turned on
-  if(hasRightVersion) {  // if we've detected an acceptable version of Flash
-    var oeTags = '<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"'
-	+ 'codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0"' 
-    + 'width="760" height="126">'
-    + '<param name="movie" value="/assets/flash/header_sub.swf?category=three"'
-    + '<param name="quality" value="high" />'
-    + '<param name="play" value="true">'
-	+ '<param name="bgcolor" value="#ffffff" />'
-    + '<param name="loop" value="false">'
-    + '<param name="menu" value="false">'
-    + '<embed src="/assets/flash/header_sub.swf?category=three"'
-    + 'quality="high"'
-    + 'bgcolor="#ffffff"'
-    + 'width="760" height="126"'
-	+ 'bgcolor="#99ccff"'
-    + 'name="header"'
-    + 'menu="false"'
-    + 'align=""'	
-    + 'type="application/x-shockwave-flash"'
-    + 'pluginspage="http://www.macromedia.com/go/getflashplayer">'
-    + '</embed>'
-    + '</object>';
+		
+		
+	
 
-    document.write(oeTags);   // embed the flash movie
-  } else {  // flash is too old or we can't detect the plugin
-    // NOTE: height, width are required!
-    var alternateContent = '<table width="767" border="0" cellpadding="0" cellspacing="0"><tr><td rowspan="2"><a href="/"><img src="/assets/images/nav/html_nav/html_header_01.gif" width="208" height="109" border="0" /></a></td><td><a href="http://www.macromedia.com/go/getflashplayer" target="_blank"><img src="/assets/images/nav/html_nav/html_header_02.gif" width="559" height="32" border="0" /></a></td></tr><tr><td><img src="/assets/images/nav/html_nav/html_header_03.gif" width="559" height="77" /></td></tr><tr><td colspan="2"><img src="/assets/images/nav/html_nav/html_header_04.gif" width="46" height="45" border="0" /><a href="/"><img src="/assets/images/nav/html_nav/html_header_05.gif" width="113" height="45" border="0" /></a><a href="/our_company/"><img src="/assets/images/nav/html_nav/html_header_06.gif" width="114" height="45" border="0" /></a><a href="/our_products/"><img src="/assets/images/nav/html_nav/html_header_07.gif" width="114" height="45" border="0" /></a><a href="/scoop_shops/"><img src="/assets/images/nav/html_nav/html_header_08.gif" width="111" height="45" border="0" /></a><a href="/fun_stuff/"><img src="/assets/images/nav/html_nav/html_header_09.gif" width="115" height="45" border="0" /></a><a href="http://store.benjerry.com"><img src="/assets/images/nav/html_nav/html_header_10.gif" width="115" height="45" border="0" /></a><a href="/"><img src="/assets/images/nav/html_nav/html_header_11.gif" width="39" height="45" border="0" /></a></td></tr></table>';
-
-    document.write(alternateContent);  // insert non-flash content
-
-  }
-  
-  // set cookie so we know on each page request if they have Flash support
-  // if they do, then we can skip all of the detection script and immediately
-  // serve them the appropriate format
-  
-	expireDate= new Date
-	expireDate.setYear(expireDate.getYear()+1) 
-	document.cookie = "flashVersionSupported=" + actualVersion + ";expires=" + expireDate.toGMTString()
-  
-}
-
-// -->
-</script><table width="767" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="2"><a href="/"><img src="/assets/images/nav/html_nav/html_header_01.gif" width="208" height="109" border="0"></a></td><td><a href="http://www.macromedia.com/go/getflashplayer" target="_blank"><img src="/assets/images/nav/html_nav/html_header_02.gif" width="559" height="32" border="0"></a></td></tr><tr><td><img src="/assets/images/nav/html_nav/html_header_03.gif" width="559" height="77"></td></tr><tr><td colspan="2"><img src="/assets/images/nav/html_nav/html_header_04.gif" width="46" height="45" border="0"><a href="/"><img src="/assets/images/nav/html_nav/html_header_05.gif" width="113" height="45" border="0"></a><a href="/our_company/"><img src="/assets/images/nav/html_nav/html_header_06.gif" width="114" height="45" border="0"></a><a href="/our_products/"><img src="/assets/images/nav/html_nav/html_header_07.gif" width="114" height="45" border="0"></a><a href="/scoop_shops/"><img src="/assets/images/nav/html_nav/html_header_08.gif" width="111" height="45" border="0"></a><a href="/fun_stuff/"><img src="/assets/images/nav/html_nav/html_header_09.gif" width="115" height="45" border="0"></a><a href="http://store.benjerry.com"><img src="/assets/images/nav/html_nav/html_header_10.gif" width="115" height="45" border="0"></a><a href="/"><img src="/assets/images/nav/html_nav/html_header_11.gif" width="39" height="45" border="0"></a></td></tr></tbody></table>
-
-<noscript>
-<table width="767" border="0" cellpadding="0" cellspacing="0"><tr><td rowspan="2"><a href="/"><img src="/assets/images/nav/html_nav/html_header_01.gif" width="208" height="109" border="0" /></a></td><td><a href="http://www.macromedia.com/go/getflashplayer" target="_blank"><img src="/assets/images/nav/html_nav/html_header_02.gif" width="559" height="32" border="0" /></a></td></tr><tr><td><img src="/assets/images/nav/html_nav/html_header_03.gif" width="559" height="77" /></td></tr><tr><td colspan="2"><img src="/assets/images/nav/html_nav/html_header_04.gif" width="46" height="45" border="0" /><a href="/"><img src="/assets/images/nav/html_nav/html_header_05.gif" width="113" height="45" border="0" /></a><a href="/our_company/"><img src="/assets/images/nav/html_nav/html_header_06.gif" width="114" height="45" border="0" /></a><a href="/our_products/"><img src="/assets/images/nav/html_nav/html_header_07.gif" width="114" height="45" border="0" /></a><a href="/scoop_shops/"><img src="/assets/images/nav/html_nav/html_header_08.gif" width="111" height="45" border="0" /></a><a href="/fun_stuff/"><img src="/assets/images/nav/html_nav/html_header_09.gif" width="115" height="45" border="0" /></a><a href="http://store.benjerry.com"><img src="/assets/images/nav/html_nav/html_header_10.gif" width="115" height="45" border="0" /></a><a href="/"><img src="/assets/images/nav/html_nav/html_header_11.gif" width="39" height="45" border="0" /></a></td></tr></table>
-</noscript>
-
+<div id="topnav">
+	<table width="760" height="274" border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr><td><a href="/index.cfm"><img src="/assets/images/nav/html_nav/cow.gif" width="224" height="220" border="0" alt=""></a><a href="http://www.macromedia.com/go/getflashplayer/"><img src="/assets/images/nav/html_nav/getFlash.gif" width="536" height="220" border="0" alt="Get Flash Player!"></a></td></tr>
+		<tr><td><a href="/index.cfm"><img src="/assets/images/nav/html_nav/home.gif" width="140" height="53" border="0" alt="Home"></a><a href="/our_company/"><img src="/assets/images/nav/html_nav/our_company.gif" width="121" height="53" border="0" alt="Our Company"></a><a href="/our_products/"><img src="/assets/images/nav/html_nav/our_products.gif" width="120" height="53" border="0" alt="Our Products"></a><a href="/scoop_shops/"><img src="/assets/images/nav/html_nav/scoop_shops.gif" width="118" height="53" border="0" alt="Scoop Shops"></a><a href="/fun_stuff/"><img src="/assets/images/nav/html_nav/fun_stuff.gif" width="120" height="53" border="0" alt="Fun Stuff"></a><a href="http://store.benjerry.com"><img src="/assets/images/nav/html_nav/gift_shop.gif" width="141" height="53" border="0" alt="Gift Shop"></a></td></tr>
+	</tbody></table>
+	
+	
+</div>
+		
+			
+<script type="text/javascript">
+	var so = new SWFObject("/assets/flash/header_sub.swf?category=three", "siteHeader", "760", "126", "5.0.0", "#ffffff");
+	so.write("topnav");
+</script>
 </td></tr>
   
 	<tr>
-    	<td valign="top" class="sidebar" width="140"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="140" height="260" id="sidebar_ss" align="middle">
-<param name="allowScriptAccess" value="sameDomain">
-<param name="movie" value="/assets/flash/nav/sidebar_oc.swf">
-<param name="quality" value="high">
-<param name="bgcolor" value="#ffffff">
-<embed src="/assets/flash/nav/sidebar_oc.swf" quality="high" bgcolor="#ffffff" width="140" height="260" name="/assets/flash/nav/sidebar_oc.swf" align="middle" allowscriptaccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
-</object>
+    	<td valign="top" class="sidebar" width="140">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="sidebar">
+This content requires a <a href="http://www.adobe.com/go/getflashplayer/">more recent version of Macromedia Flash Player.</a><br><br>
+
+Please click the button below to install. It should only take a few seconds.<br><br><a href="http://www.adobe.com/go/getflashplayer/"><img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" width="88" height="31" alt="Get Flash" border="0"></a><br><br>
+
+
+
+</div>
+
+<script type="text/javascript">
+	var so = new SWFObject("/assets/flash/nav/sidebar_oc.swf", "sidebar", "140", "260", "5.0.0", "#ffffff", false);
+	
+		so.addParam("align", "middle");
+	
+	
+	
+	
+	so.write("sidebar");
+</script>
+
+
 <p>&nbsp;</p></td>
 	
 		<td width="1">&nbsp;</td>
