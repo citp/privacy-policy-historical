@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloomingdales.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231223745id_/http%3A//www1.bloomingdales.com/service/policies/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloomingdales.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615214018id_/http%3A//www1.bloomingdales.com/service/policies/privacy.jsp) for the most accurate reproduction.*
 
 # Bloomingdale's - Privacy Policy
 
@@ -32,7 +32,7 @@
   
 At Bloomingdale's, we respect our customers and understand that you are concerned about privacy, so we've instituted policies intended to ensure that your personal information is handled safely and responsibly. We also have posted this privacy policy to let you know what kind of information we collect, how it is handled, with whom it may be shared, what choices you have regarding our use of your information and how you may access some of the data you provide to us. 
 
-As we continue to develop our web site and take advantage of technologies to improve the services we provide, this policy likely will change. We therefore encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. This policy last was updated on January 8, 2004. 
+As we continue to develop our web site and take advantage of technologies to improve the services we provide, this policy likely will change. We therefore encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. This policy last was updated on August 1, 2005. 
 
 If you have any questions about this policy you can [click here](http://www1.bloomingdales.com/customerservice/index.jsp), contact us by phone at 1-888-529-2254 or write to:
 
@@ -65,9 +65,6 @@ We collect various types of information depending upon how you use our site.
   * At Checkout, we collect the above information, as well as a credit card number and a billing and shipping address. If you are a registered user and have signed in before entering that information, it will be automatically saved in your Wallet.
   * When you register with us we also may ask for additional information (e.g., about your favorite brands and interests) in the section called My Profile, but you have the option not to provide it. We gather this information in order to offer services and promotions that may be of interest to you.
 
-
-
-When you register with us we also may ask for additional information (e.g., about your favorite brands and interests) in the section called My Profile, but you have the option not to provide it. We gather this information in order to offer services and promotions that may be of interest to you.
 
   * When you enter a sweepstakes or contest on-line, we usually collect your name, address, e-mail address and phone number. We also may ask you for additional information, such as your age, interests, product preferences or zip code.
   * When you submit a question to customer service, we need your e-mail address to respond, and you also may provide us with various types of information to allow us to answer your question.
