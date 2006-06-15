@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurekalert.org privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217134317id_/http%3A//www.eurekalert.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurekalert.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210843id_/http%3A//www.eurekalert.org/privacy.php) for the most accurate reproduction.*
 
 # EurekAlert! Disclaimer
 
@@ -46,6 +46,12 @@ Press Releases
 [Grants, Awards, Books](http://www.eurekalert.org/bga.php)
 
 [Meetings](http://www.eurekalert.org/meetings.php)
+
+|   
+|  |   
+| 
+
+[Multimedia Gallery](http://www.eurekalert.org/multimedia)
 
 |   
 |  |   
