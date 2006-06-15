@@ -1,80 +1,116 @@
-> *The following text is extracted and transformed from the gardenweb.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214055624id_/http%3A//www.vmirror.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gardenweb.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615200250id_/http%3A//www.gardenweb.com/legal/privacy.cgi) for the most accurate reproduction.*
 
-# Privacy Policy for The Virtual Mirror
+# GardenWeb - Privacy Policy
 
-[](https://web.archive.org/)  
+### PRIVACY POLICY FOR GARDENWEB.COM WEBSITE
 
-Privacy Policy for The Virtual Mirror, Inc.   
+_EFFECTIVE DATE: As of January 24, 2006_
+
+The GardenWeb Network is operated by iVillage Inc. ("iVillage"). Your privacy is important to iVillage. "GardenWeb Network" is defined as those websites controlled and/or operated by iVillage that include a link to this Privacy Policy, and includes but is not limited to, the websites located at the following URLs (including all content, services, products, features or tools appearing on such websites): [www.gardenweb.com](http://www.gardenweb.com/), [www.nygardener.com](http://www.nygardener.com/), [www.nature.net](http://www.nature.net/), [www.thsgardenweb.com](http://www.thsgardenweb.com/), [www.gardenbazaar.com](http://www.gardenbazaar.com/), [www.gardencalendar.com](http://www.gardencalendar.com/), [www.rosarian.com](http://www.rosarian.com/), [www.wild-flowers.com](http://www.wild-flowers.com/), and [www.kitchengardener.com](http://www.kitchengardener.com/). This Privacy Policy outlines the types of personally identifiable information we may collect from you when you are visiting the GardenWeb Network, as well as ways in which we use such information. You are, of course, free to use much of the GardenWeb Network without providing any personally identifiable information to us. 
+
+Please note that we review our privacy practices from time to time, and that those practices (and this Privacy Policy) are, therefore, subject to change. We ask that you bookmark and periodically review this page to ensure continuing familiarity with the most current version of our Privacy Policy. At the top of this page, we will indicate the "Effective Date" of the most recent version of the Privacy Policy; this will allow you to determine whether the Privacy Policy has been revised since your previous visit to the GardenWeb Network. To learn more about our use of personally identifiable information previously collected through the GardenWeb Network, please see the section of this Privacy Policy entitled, "Personal Information Gathered Under Previous Versions of This Privacy Policy." Please note that this Privacy Policy is also incorporated into gardenweb.com's [Terms of Service](http://www.gardenweb.com/legal/tos.cgi). To contact iVillage about privacy issues related to the GardenWeb Network, to report a violation of this Privacy Policy or to raise any other issue, please e-mail us at gwfeedback@mail.iVillage.com. 
+
+Please note that other websites controlled, owned or operated by iVillage or its affiliates - websites such as iVillage.com and gURL.com, among others . may be governed by a different privacy policy; please see the privacy policy linked to from the home page of any such site for more information. Also, this Privacy Policy does not govern information collected through offline means in connection with the gardenweb.com business. 
+
+**THE INFORMATION WE GATHER**
+
+We gather two types of information about users via the GardenWeb Network: 
+
+(1) Non-personally identifiable information: When visitors come to gardenweb.com, and at times after leaving the GardenWeb Network to visit a gardenweb.com co-branded site, we collect and aggregate information indicating, among other things, which pages of the website were visited, the order in which they were visited and which hyperlinks were "clicked." Collecting such information involves the logging of the IP addresses, operating system and browser software used by each gardenweb.com visitor. Although such information is not personally identifiable on its own, we can determine from an IP address information such as a visitor's Internet service provider and the geographic location of his or her point of connectivity, and, as noted below under "How We Use (and Do Not Use) the Information We Gather", we may match such non-personally identifiable information to your personally identifiable information. When we match non-personally identifiable information to your personally identifiable information, the component of the matched information that consists of your personally identifiable information will continue to be governed in accordance with the applicable provisions of this Privacy Policy. We and our agents also use "cookies" - that is, small text files placed on a user's browser or computer hard drive - to help us determine, among other things, the type of content and sites to which a gardenweb.com visitor links, the length of time each visitor spends at any particular area of the GardenWeb Network and the services a gardenweb.com visitor chooses to use. Cookies also tell us what advertisements a visitor has viewed on the site. Cookies are only read by the computers or servers that placed them, and are unable to execute any code or virus. Cookies allow iVillage to serve you better and more efficiently, and to personalize your experience on the GardenWeb Network. 
+
+In addition to cookies, iVillage and its agents may use "pixel tags" (electronic images also known as "web beacons" or "single-pixel GIFS") or similar technological tools to monitor visitor or subscriber activity on the GardenWeb Network, on a gardenweb.com co-branded site, or in newsletters or promotional e-mail messages. These tools are typically used to collect non-personally identifiable information; if any personally identifiable information that is gathered by iVillage via the GardenWeb Network or a gardenweb.com co-branded site using such tools, our use of such personally identifiable information will be subject to this Privacy Policy. 
+
+If you use a standard web browser, you should be able to modify your browser preference to provide you with choices relating to cookies; for example, you should have the choice to accept all cookies, to be notified when a cookie is set or to reject all cookies. If you choose to reject cookies, you may be unable to use certain gardenweb.com services (for example, those services that require you to log on to the GardenWeb Network in order to participate). We note that "pixel tags" typically rely on cookies, so choosing to reject cookies (as discussed above) may also limit the tracking abilities of such technology). 
+
+For more information on modifying your browser preference, please refer to the documentation accompanying your browser. 
+
+We note that our advertisers and commerce partners may be using cookies and other technological tools to monitor visitor activity. The privacy policies of such advertisers and commerce partners . not this Privacy Policy . will govern such activities. With respect to third-party advertising companies in particular, please see the section of this Privacy Policy entitled "Advertising Companies" to learn more about their information gathering practices. 
+
+(2) Personally identifiable information: In certain areas of the GardenWeb Network, such as when you register to become a member or request a newsletter, we may require that you provide us with personally identifiable information (including, but not limited to, your name, e-mail address, birthday, state, country, zip code and gender). Additionally, iVillage affiliates or unaffiliated third parties (such as our gardenweb.com advertisers and commerce partners) may provide iVillage with personally identifiable information about you, which was not collected on the GardenWeb Network, and we may add such data to your membership information. Gardenweb.com may also combine information you submit in connection with certain features of the GardenWeb Network (such as newsletters, polls or contests) with membership information you provided. 
+
+Please note that iVillage does not control the acts of gardenweb.com members or visitors. You should be aware that, when you disclose personally identifiable information in a Forum, Exchange, or other online message board or social networking feature on the GardenWeb Network, the information may become public and accessible to all or a part of the gardenweb.com community, so it is important for you to exercise discretion and appropriate caution when deciding to reveal personal information in these areas. For example, your e-mail address may be available to other gardenweb.com members, who may send unsolicited e-mail to you. In the event that you encounter any gardenweb.com user who you believe is improperly collecting or using information about you or other users, please contact gweedback@mail.iVillage.com. 
+
+**HOW WE USE (AND DO NOT USE) THE INFORMATION WE GATHER**
+
+Please take some time to get to know the different ways iVillage uses the information that it collects via the GardenWeb Network. Please keep in mind that we cannot be responsible for the privacy practices or the content of third-party websites, and we do not control the practices of any of our advertisers or commerce partners to whom we are linked. We cannot and do not assume any responsibility for any actions or omissions of third parties, including the manner in which they use information received either from iVillage or independently. 
+
+(1) Non-personally identifiable information: iVillage reserves the right to use non-personally identifiable information to the greatest extent permitted by applicable law, including, but not limited to, using information in aggregated form to perform statistical analyses of the collective characteristics and behavior of our customers and to provide such aggregated data and statistical analyses to our affiliates and unaffiliated third parties. 
+
+Please note that we also may match non-personally identifiable information, such as your IP address, to your personally identifiable information in order to augment our ability to administer the site and create a more enjoyable experience for you. 
+
+The GardenWeb Network contains links to other Internet websites, which may or may not be owned or operated by iVillage. We are not responsible for the privacy practices or the content of websites that are not owned and operated by iVillage, including such sites' use of any information (such as IP number, browser type or operating system) collected when visitors to our site click through links to those sites. Even though such information might not identify you personally, we strongly encourage you to become familiar with the privacy practices of those sites. 
+
+(2) Personally identifiable information: iVillage uses personally identifiable information as set forth herein. 
+
+a. Websites Controlled, Owned or Operated by iVillage or iVillage Affiliates: We may share personally identifiable information collected from you through the GardenWeb Network with other websites that are controlled, owned or operated by iVillage or iVillage affiliates. For example, when you visit the astrology.com site, which is also operated by iVillage, iVillage may use information provided by you through the GardenWeb Network to "pre-populate" forms on the astrology.com site, to determine what advertising you see while visiting that site, or simply to better accommodate your likes and dislikes. (Disclosures of your personally identifiable information to our affiliates for their direct marketing purposes are subject to the opt-out right set forth in subsection (c) below.) 
+
+b. No Intentional Sale or Lease: Except as set forth within this Privacy Policy and the GardenWeb Terms of Service and other published guidelines, iVillage does not intentionally sell, lease or otherwise share personally identifiable information collected from gardenweb.com members and visitors to unaffiliated third parties for their marketing purposes without the permission of such members and visitors. 
+
+c. Marketing Uses and Opt-In/Opt-Out Policy: When you become a GardenWeb Network member or otherwise supply iVillage with personally identifiable information in connection with the GardenWeb Network, or from time-to-time in iVillage's discretion, you may be asked to indicate whether you are interested in receiving marketing offers from us (which, for these purposes, will include our affiliates). You may also be provided with the opportunity to opt-in to receive offers directly from our third party advertisers and commerce partners. If you do choose to opt-in, you will receive such communications in accordance with your "opt-in" consent. You may subsequently elect not to receive offers or other communications from us, our affiliates or our third-party advertisers and commerce partners as follows: 
+
+    * Upon becoming a gardenweb.com member, you can choose to receive no marketing communications from us. Please be aware, however, that, even under this option, you will still receive non-marketing communications from us, such as initial member welcome messages and communications as appropriate to inform you of changes to the GardenWeb Network, or other matters described below under "Administrative Uses and Other Non-Marketing Uses."
+    * At any time, you can follow a link provided in every newsletter or email message (except for e-commerce confirmations and other administrative emails) received from us to unsubscribe from that particular mailing list or email service.
+    * At any time, you can contact us through gwfeedback@mail.iVillage.com to have your contact preference changed to "Do Not Contact Me."
+    * At any time, you can contact us through [GWfeedback@mail.ivillage.com](mailto:GWfeedback@mail.ivillage.com) to opt out of having your personally identifiable information disclosed by us to our affiliates for their direct marketing purposes.
+    * If you opt-in to the disclosure of your personally identifiable information to third parties, and you subsequently decide that you would like to discontinue receiving offers and other promotional materials from such third parties, you will need to contact those third parties directly in order to opt-out of further communications.
+
+If you decide to contact us to change your contact preference to "Do Not Contact Me," iVillage will implement this change to your gardenweb.com profile within ten (10) business days of your request. Please be aware that your requested change will not be effective until iVillage implements such change and that such request will be implemented only in connection with your gardenweb.com profile, and will not impact any preferences you may have made to any other site controlled, owned or operated by iVillage or its affiliates. In addition, please keep in mind that even if you opt-out from receiving communications from gardenweb.com, residual information about you will remain within iVillage databases, access logs and other records, which may or may not contain such personally identifiable information. The residual information will not be used for purposes of marketing to you; however, iVillage reserves the right, from time to time, to recontact former customers or users of gardenweb.com for administrative purposes, as discussed below under "Administrative Matters", or in order to comply with applicable law, as discussed below under "Compliance With Applicable Law". 
+
+Please note that iVillage reserves the right to change its opt-in/opt-out practices by modifying or updating this Privacy Policy as set forth above. d. Administrative Uses and Other Non-Marketing Uses: iVillage reserves the right to contact you in connection with administrative and other non-marketing matters in connection with the GardenWeb Network and/or the iVillage network (for example, contacting you to facilitate, complete or confirm a transaction). 
+
+e. Targeted Advertising: iVillage sometimes uses individual data collected via gardenweb.com to "target" advertising - that is, to decide which advertisements and sponsor messages to show to which members. For example, if Sponsor Co. wishes to display its advertising only to gardenweb.com members aged 30 to 40, iVillage uses member registration data to ensure that Sponsor Co.'s ads are displayed only to such members. 
+
+f. Transactions With Vendors, Advertisers and Commerce Partners: When you provide personally identifiable financial information and other personally identifiable information to one of our gardenweb.com vendors, advertisers or commerce partners, this transaction will occur in connection with the site of the vendor, advertiser or commerce partner, not on the GardenWeb Network, and, as such, the financial and other personally identifiable information you provide is collected pursuant to and controlled by the privacy policy of such vendor, advertiser or commerce partner. iVillage is not responsible for such parties' privacy policies and we encourage you to familiarize yourself with the applicable privacy policy of the website with which you transact business or to contact the operator of such site for more information. 
+
+Please be aware that at times, at the request of or on behalf of our gardenweb.com vendors, advertisers or commerce partners, iVillage may "pre-populate" forms with your personally identifiable data for your review, and, if you so choose, for submission to such gardenweb.com vendors, advertisers or commerce partners; at other times, forms are pre-populated with your personally identifiable information in order to facilitate a transaction between you and iVillage with no such personally identifiable information being transmitted to iVillage vendors, advertisers or commerce partners upon submission of such form. Accordingly, we encourage you to review each pre-populated form carefully before agreeing to submit your information to determine who is seeking to collect your information, and to familiarize yourself with the applicable privacy policy governing use of any personally identifiable information collected about you. g. Credit Card Companies and Other Vendors: We may provide to credit card companies and other vendors all personally identifiable information necessary to process and complete your online purchases and other transactions. 
+
+h. iVillage Employees, Contractors and Agents: iVillage may employ other companies and individuals to perform functions on our behalf, such as processing of payments, operating features of the GardenWeb Network, or hosting or maintaining our servers. These other companies may have access to your personally identifiable information as necessary to carry out their functions; although we seek to prohibit them from using such information for their marketing purposes, we cannot guarantee that this will be the case. 
+
+i. Contests, Promotions or Sweepstakes: If and when iVillage sponsors contests, promotions or sweepstakes, or third parties sponsor contests, promotions or sweepstakes in conjunction with the GardenWeb Network, either iVillage or the third party will post relevant privacy information in the official rules and/or registration area for the contest, promotion or sweepstakes. That privacy information, to the extent it conflicts with this Privacy Policy, will govern that particular contest, promotion or sweepstakes. 
+
+j. Surveys and Polls: The GardenWeb Network may, from time to time, conduct surveys and polls, which ask for your opinions on various issues, and very often these surveys and polls are sponsored by or associated with iVillage advertisers and commerce partners. Occasionally, we may request demographic information (like zip code, age or gender). Most information obtained through surveys and polls is aggregated and used internally or shared with advertisers and commerce partners only in the aggregated form. In the event iVillage seeks your opinion in a survey or poll conducted by iVillage without any association with or sponsorship by a third party, and we request personally identifiable information about you as part of such survey or poll, the use of your personally identifiable information will be governed by this Privacy Policy. In the event a poll or survey is sponsored by or associated with an iVillage advertiser or commerce partner, such advertiser or commerce partner may seek to collect and use your information. Please review each poll and survey carefully before submitting your information to determine whether you are submitting your information to iVillage or to an iVillage advertiser or commerce partner. In the event that you are submitting your information to an iVillage advertiser or commerce partner, the use of your information will not be governed by this Privacy Policy. In any event, iVillage reserves the right to add your survey answers to your member portrait (so that we can provide you with content, ads and offers that we feel will be of greatest interest to you). 
+
+k. "Email This to a Friend": The GardenWeb Network may allow you to forward certain items posted on gardenweb.com or links to other gardenweb.com features by email or Instant Messenger to other parties who you believe may be interested. While, due to technical restrictions, the recipient's email address or Instant Messenger screen names may be retained in our log files, we do not share this information with third parties for their marketing purposes (unless the recipient has already consented to such use of her personally identifiable information). 
+
+l. Forums, Exchanges and Other Interactive Features: Because iVillage reserves the right to use content created or provided by you in connection with our Forums, Exchanges, and other interactive features, to the extent that you include personally identifiable information in such content, iVillage may republish such personally identifiable information, as part of the content, in connection with the GardenWeb Network and promotion thereof. If we republish your content, we may (but are not obligated to) provide authorship credit by listing your member name as well. 
+
+m. Compliance With Applicable Law: iVillage may also access and disclose personally identifiable information in the event that we believe, in iVillage's discretion, that such action is reasonably necessary to comply with government requests; to enforce the Terms of Service or other published guidelines; to protect iVillage, its users or others; to respond to circumstances that we feel constitute an emergency; or as otherwise required or permitted by applicable law. Please be aware that, in connection with the foregoing, iVillage may provide information about you gathered through other sites controlled, owned or operated by iVillage or its affiliates to the extent permitted under the applicable privacy policy governing collection and use of such information. 
+
+n. Business Transfers. We may sell or transfer assets or portions of our business as we continue to improve our product and service offerings. In such transactions, user or visitor information (whether non-personally identifiable or personally identifiable) may constitute one of the transferred business assets. 
 
 
-* * *
-
-This policy covers all sites owned and/or operated by The Virtual Mirror, Inc., including:
-
-* * *
-
-Email Lists
-
->   * All email lists are "opt in", meaning users must explicitly subscribe themselves. No email addresses are added through any other means. 
->   * Email lists are not sold or shared with any other companies or entities. 
->   * Users may unsubscribe at any time. 
-> 
 
 
-* * *
+**ADVERTISING COMPANIES**
 
-Forums
+Advertising that appears in connection with the GardenWeb Network and services is currently served by third-party advertising companies. These ads may contain cookies, pixel tags or other tracking technologies that collect information about our visitors to which we do not have access and the use of which is not governed by this Privacy Policy. These companies may use information about your visits to gardenweb.com to assist with serving ads about goods and services of interest to you. 
 
->   * Information provided by users in forum messages, though publicly available, is not recorded anywhere at our site except in the actual forum message. Nor is this information shared with any other companies or entities. 
->   * Once they have posted a message, users names and email addresses may be recorded in "cookies" that reside on users' own computers. This is solely to facilitate posting to the forums and this information is not available to any other site. Registered members may choose to keep their email address hidden from other users. 
->   * The IP address of a user is recorded with the forum message as a matter of record. Users should not consider postings to our forums as being anonymous. 
-> 
+**CHANGING PERSONAL INFORMATION**
 
+If you would like to correct or update your contact or membership information, please contact us at gwfeedback@mail.iVillage.com, and iVillage will seek to implement this change to your gardenweb.com profile within ten (10) business days of your request. You may also change your personal information by changing your membership record. Please be aware that any such requests will be implemented only in connection with your gardenweb.com profile, and will not impact any preferences you may have made to any other site controlled, owned or operated by iVillage or its affiliates. 
 
-* * *
+**PERSONAL INFORMATION GATHERED UNDER PREVIOUS VERSIONS OF THIS PRIVACY POLICY**
 
-Tracking
+Personally identifiable information collected by iVillage via the GardenWeb Network will generally be governed by the version of the Privacy Policy in effect at the time the information was gathered. We will not retroactively make material changes to the way we use personally identifiable information collected under previous versions of this Privacy Policy without obtaining your consent, except as permitted under applicable law. 
 
->   * Information on usage patterns is collected in ways that do not involve users' personal information. 
->   * Use is made of anonymous, numeric "cookies" in evaluating usage patterns. 
-> 
+**GUIDELINES REGARDING CHILDREN**
 
+iVillage takes the protection of children's privacy very seriously. iVillage does not encourage children to participate in or visit the gardenweb.com website. Visitors who are known to be under the age of 13 are prohibited from becoming a member. 
 
-* * *
+**A NOTE REGARDING DATA SECURITY ON THE INTERNET**
 
-Cookies
+We seek to use reasonable security measures to protect the data that resides on our servers from loss, misuse or alteration. Unfortunately, no security system, or system of transmitting data over the Internet, can be guaranteed to be 100% secure. As a result, while we strive to protect your personal data, we cannot guarantee the security of our servers, the means by which data is transmitted between your computer and our servers, or any data provided to us. Please note that if, for reasons of ease and convenience, you choose to contact us through our website or by e-mail, the information you send to us may not be encrypted as it is transmitted over the Internet. If you have reason to believe that there has been any breach of the security of your personally identifiable information, please contact us at gwfeedback@mail.ivillage.com. 
 
-> Cookies are used to track general usage patterns and to make the forums easier to use. For instance, after you have posted a message, your name and email address will be "remembered" in a cookie so the next time you post, you won't have to enter this information again. We could save this information in a central file on our server, but in the interest of privacy, we save it to a cookie, which resides on _your_ computer. Cookies are also necessary for members to log in. Cookies are used both by ourselves and the various ad networks with which we are associated (see: Third Parties.) 
-> 
-> There are many misconceptions about cookies. Here are some facts: 
-> 
->   * The cookie is assigned by the Web site. It can only contain information known to that site. 
->   * When a Web site reads a cookie, it can only read the information that the Web site itself had assigned to the cookie earlier. 
->   * Only the site assigning a cookie can read it later. 
->   * Drinking milk with your cookies will make them go down easier. 
-> 
+Please remember that security of the username and password you create when you register with the GardenWeb Network, is your responsibility; we recommend that you do not share them with anyone. If you share your username and password, you are providing access to your personal information. You will be responsible for all uses of your registration, whether or not authorized by you. You agree to immediately notify iVillage of any unauthorized use of your username or password. 
 
+**SOLE AUTHORIZED STATEMENT**
 
-* * *
+This Privacy Policy is the sole authorized statement of iVillage's practices with respect to the online collection of personally identifiable information via the GardenWeb Network and the usage of such collected information. Any summaries of this Privacy Policy generated by third-party software or otherwise (for example, in connection with the "Platform for Privacy Preferences" or "P3P") will have no legal effect, are in no way binding upon iVillage, will not be relied upon in substitute for this Privacy Policy, and neither supersede nor modify this Privacy Policy. 
 
-Third Parties
+**VISITORS FROM OUTSIDE THE UNITED STATES**
 
-> Some of our sites, including gardenweb.com, thathomesite.com and nature.net, work with third parties that serve ads to these sites. Our third-party advertising companies also separately place or recognize a cookie file on your browser in the course of delivering advertisements to this Site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about how these networks gather information and to know your choices about not having this information used by these companies, please visit the following pages: 
-> 
->   * <http://www.maxonline.com/privacy_policy/index.php>
-> 
+iVillage and its gardenweb.com-related servers are located in the United States. Any information you provide in registering with, or otherwise using, the GardenWeb Network will be transferred to the United States. By visiting gardenweb.com, you authorize this processing and use. 
 
+**QUESTIONS?**
 
-* * *
-
-Disclosures
-
-> The Virtual Mirror, Inc., may disclose user information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) The Virtual Mirror, Inc.'s rights or property, other users, or anyone else that could be harmed by such activities. The Virtual Mirror, Inc., may disclose user information when we believe in good faith that the law requires it. 
-
-* * *
-
-[](https://web.archive.org/) [Mirror Home Page](http:/)
-
-[Letters and Comments](http://letters/mailed.html) **|** [Technical Problems](http://letters/mailwebm.html)
-
-[Copyright © The Virtual Mirror, Inc.](http://copyrght.html/)
+Questions regarding this Privacy Policy should be directed to us at [gwfeedback@mail.iVillage.com](mailto:gwfeedback@mail.iVillage.com). 
