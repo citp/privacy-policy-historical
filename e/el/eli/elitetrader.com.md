@@ -1,20 +1,14 @@
-> *The following text is extracted and transformed from the elitetrader.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215122634id_/http%3A//elitetrader.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitetrader.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615203756id_/http%3A//elitetrader.com/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
 | 
 
-8-13-2001
-
-This online privacy policy tells you about the information Elite Trader collects through the services available on our web site, EliteTrader.com (the "Site"), how we use that information and how you can opt out of certain uses of information we may collect. By using our services and accessing our Site, you are consenting to the information collection and use practices described in this policy, as modified from time to time by us. If we decide to change our privacy policy, we will post a new policy on our Site and change the date at the top of the policy. Therefore, we encourage you to check the date of our privacy policy whenever you visit this Site for any updates or changes. Please see our [Terms of Use](http://www.elitetrader.com/legal.cfm) for a more detailed legal explanation of our general online policies.
-
-If you have any questions about our privacy policy or our use of your information, or if you need help changing or deleting your EliteTrader.com account you can e-mail us at [support@elitetrader.com](mailto:support@elitetrader.com).
-
 Information About You   
 We collect several types of information on our Site. We collect "Personal Information", which generally speaking is information that can be used to identify you individually, such as your name and address. We also collect "Non-personal Information", which is information about you that does not itself identify you individually. Examples of Non-personal Information include age range and gender. We also collect "Aggregate Information", which is information about use of our site, such as pages visited on our Site. The information we collect depends on what services you use on our Site. The following is a more detailed explanation of these types of information as well as when and how we collect and use it.
 
 Personal and Non-Personal Information   
-Registration and Transactional Data. When you register on our Site, we may collect various kinds of Personal Information including your name, e-mail address, home address, and home phone number. We also collect and store access information related to your account including guest name and user password. When you make purchases from our Site, we may collect purchasing information such as product orders, shipping address(es), and credit card information.
+Registration and Transactional Data. When you register on our Site, we may collect and store information related to your account including user name and user password. When you make purchases from our Site, we may collect purchasing information such as product orders, shipping address(es), and credit card information.
 
 Surveys   
 From time-to-time we may post surveys on our Site. The surveys may request demographic information (such as age range, gender, areas of interest, and familiarity with Elite Trader content, products and services) and customer feedback. Participation in these requests is completely voluntary and with each request you will have the choice of whether or not to disclose information. Such survey information will be used to improve the overall experience on EliteTrader.com.
@@ -23,11 +17,14 @@ Customer Service Correspondence
 We may collect information that identifies you personally when you submit comments, questions or suggestions to our Customer Service department.
 
 Interactivity   
-Our Site may have chat rooms, discussion boards, rating systems and other interactive technologies that allow individual comments and messages to be tied to a guest's name or e-mail address. Any information you post in such forums is public information and Elite Trader cannot control what uses third parties may make of personal information you share in such forums.
+Our Site may have chat rooms, discussion boards, rating systems and other interactive technologies that allow individual comments and messages to be tied to a guest's name or e-mail address. Any information you post in such forums is public information and Elite Trader cannot control what uses third parties may make of personal information you share in such forums. 
+
+Private Messaging   
+Your account will allow you to access our "Private Messaging" system. Although this system allows you to contact other members directly without your messages being publicly viewable by all site visitors, your private messages are openly accessible to Administrators of our site. Your private messages may be accessed at any time for the purposes of site administration, legal inquiries, or investigating your account for violations of our [member conduct rules](https://web.archive.org/conduct_rules.cfm). 
 
 Resumes If you are interested in applying for a job with Elite Trader, we may collect your resume. Resumes you submit for job applications will not be used for marketing purposes.
 
-Use of Your Personal and Non-Personal Information Except as disclosed in this policy, we do not sell or disclose information that identifies our guests personally or makes it possible for other parties to contact them directly without our guests' consent. We may use, sell, disclose, or otherwise dispose of Personal Information we collect in the following circumstances:
+Use of Your Personal and Non-Personal Information Except as disclosed in this policy, we do not sell information that identifies our guests personally or makes it possible for other parties to contact them directly without our guests' consent. We may use, sell, disclose, or otherwise dispose of Personal Information we collect in the following circumstances:
 
   * **Internal Analysis and Promotions.** We may use information about you for our own internal statistical, design, operational purposes such as to estimate our audience size; measure aggregate traffic patterns; and understand demographic, customer interest, purchasing and other trends among our guests and customers. We may also use your Personal Information for the marketing and/or promotion of our products or services. We may outsource all of these tasks to third parties on a confidential basis. If you do not want to receive our promotional materials, [click here](http://www.elitetrader.com/vb/member.php?action=editprofile) to change your preference settings.
   *  **Transaction Processing.** We may use your Personal Information to create a convenient and easy-to-use shopping process that includes an online "shopping cart" that allows you to track selected products and proceed through purchase.
@@ -68,7 +65,7 @@ We use commercially reasonable efforts to store and maintain Personal Informatio
 
 
 Access   
-You may view, change or delete information in your EliteTrader.com account. Once you close your account, you will not receive any promotional or marketing materials from us based on Personal Information you have provided to use through the Site.
+You may view, change or delete information in your EliteTrader.com account. 
 
 Opting-Out   
 If you do not want us to use your email address for our own marketing or promotional purposes, you can remove yourself from our e-mail list at any time:
