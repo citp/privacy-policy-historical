@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uei.com privacy policy that was archived on 2005-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051025120646id_/http%3A//www.uei.com/html.php%3Fpage_id%3D175) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uei.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615192434id_/http%3A//www.uei.com/html.php%3Fpage_id%3D175) for the most accurate reproduction.*
 
 # Universal Electronics | About Us - Privacy Policy
 
