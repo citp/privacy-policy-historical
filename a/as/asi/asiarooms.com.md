@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the asiarooms.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217164359id_/http%3A//asiarooms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiarooms.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210305id_/http%3A//www.asiarooms.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Asiarooms_new.com - Hotel reservation online
 
 We use order forms that allow you to book a hotel room. We collect your name, e-mail address, postal address, and credit card information. This information is used to process and check orders. We also use this information to contact you in case there is a question or problem with a reservation. 
 
-We also use data collected when you register, enter a contest, and make purchases to enhance and personalize your booking experience. We strongly value your privacy. Your personal information provided to our web will NOT be passed along for secondary use without your explicit permission.
+We also use data collected when you register, enter a contest, and make purchases to enhance and personalize your booking experience. We strongly value your privacy. Your personal information provided to our website will NOT be passed along for secondary use without your explicit permission.
 
-We use your IP address to help diagnose problems with our server and to administer this website. We log IP addresses for the purposes of system administration, to track a user"s specific session, or to investigate cases of fraud or other security violations on our site. Any personally identifiable information contained in our IP address logs will be treated with the same respect for your privacy that order and registration information is treated.
+We use your IP address to help diagnose problems with our server and to administer this website. We log IP addresses for the purposes of system administration, to track a user's specific session, or to investigate cases of fraud or other security violations on our site. Any personally identifiable information contained in our IP address logs will be treated with the same respect for your privacy as order and registration information is treated.
 
 **What are cookies and should I worry about them?**
 
-Cookies are small pieces of information that many web sites use to make online navigation easier. This data is contained on your hard drive in a file which your web browser provides for the purpose. A cookie can contain information such as a user ID. Our site can"t read other data on your hard drive or read cookies created by other sites.
+Cookies are small pieces of information that many web sites use to make online navigation easier. This data is contained on your hard drive in a file which your web browser provides for the purpose. A cookie can contain information such as a user ID. Our site can't read other data on your hard drive or read cookies created by other sites.
 
-Our site uses cookies to keep track of your travel cart. You do not need to have cookies turned on to view our site, but you will need to accept cookies to fill the online reservation form.
+Our site uses cookies to keep track of your travel cart. You do not need to have cookies turned on to view our site, but you will need to accept cookies to fill in the online reservation form.
 
 **Links**
 
@@ -24,7 +24,7 @@ AsiaRooms.com does not sell, rent, or give away your personal information to any
 
 **What about my credit card number?**
 
-When it comes to fill the online reservation form, you might be worried about your credit card. All transaction related information will be passed on to the trusted financial institution, and we do NOT maintain in our server all or part of your financial information, including but not limited to credit card"s name, number and expiry date.
+When it comes to filling in the online reservation form, you might be worried about your credit card. All transaction related information will be passed on to the trusted financial institution, and we do NOT maintain in our server all or part of your financial information, including but not limited to, your credit card name, number and expiry date.
 
 **What is AsiaRooms.com doing to protect my privacy?**
 
