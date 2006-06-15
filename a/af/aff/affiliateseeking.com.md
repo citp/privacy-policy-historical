@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the affiliateseeking.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218221702id_/http%3A//www.affiliateseeking.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliateseeking.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615034234id_/http%3A//www.affiliateseeking.com/privacy.php) for the most accurate reproduction.*
 
 # AffiliateSeeking.com Privacy Policy!
 
-**Privacy Policy**
+## About Us
 
-**Privacy Policy Last Updated:** 17 November 2004
+  
+**Privacy Policy Last Updated:** 18 February 2006
 
 **Why we collect and use your personal information**  
 AffiliateSeeking.com collects personal information from you so that we can reply to any site submissions that you do within different parts of our site. This could be anything from affiliate program submissions to link exchange submissions. The information that we collect from you also enables us to contact you from time to time about new offers, features and updates that we have on our site. The personal information that we collect from you may include, but is not limited to your name, email address and your websites details/information. 
