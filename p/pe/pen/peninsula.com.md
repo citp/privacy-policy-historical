@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the peninsula.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210160755id_/http%3A//www.peninsula.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peninsula.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615214007id_/http%3A//www.peninsula.com/privacy.html) for the most accurate reproduction.*
 
-# The Peninsula Hotels: Privacy Statement
+# Privacy Statement: The Peninsula Hotels, Luxury Hotels in Asia and USA
 
 | [The Peninsula Hotels Home](https://web.archive.org/index.html)|   
 ---|---  
