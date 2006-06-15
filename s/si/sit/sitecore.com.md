@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the sitecore.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207132522id_/http%3A//sitecore.com/menu/privacy%2520policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitecore.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615053617id_/http%3A//sitecore.com/Footer%2520menu/Privacy%2520policy/PrivacyText.aspx) for the most accurate reproduction.*
 
-# SiteCore .Net CMS - Internet Development and Content Management System
+# Sitecore Content Management System (CMS) - Privacy policy
+
+Privacy policy
 
 The following statement outlines the privacy policy of  Sitecore A/S. This policy is based on our fundamental goal to provide our visitors with quality information and resources while maintaining individual anonymity and personal privacy. Please forward any comments you may have regarding this policy to [webmaster@sitecore.net](mailto:webmaster@sitecore.net). 
 
