@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-ebooks.net privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214062738id_/http%3A//www.ebooksnbytes.com/yourprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-ebooks.net privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616011956id_/http%3A//www.ebooksnbytes.com/yourprivacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for eBooks N' Bytes
 
@@ -14,7 +14,7 @@ We use your IP address to help diagnose problems with our server, and to adminis
 ###   
 Information Collection 
 
-Eva Almeida is the sole owner of the information collected on ebooksnbytes.com. eBooks N' Bytes collects information from our users at several different points on our Web site, i.e. for membership registration, paid subscription publications and products or services. 
+Paradise Publishers Inc is the sole owner of the information collected on ebooksnbytes.com. eBooks N' Bytes collects information from our users at several different points on our Web site, i.e. for membership registration, paid subscription publications and products or services. 
 
 We run contests on our site in which we ask visitors for contact information (like their email address). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
 
@@ -70,8 +70,8 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-  1. You can send email to [admin@ebooksnbytes.com](mailto:admin@ebooksnbytes.com)
-  2. You can send mail to the following postal address:  Eva Almeida, 31 Dunn St., Kitimat, BC, V8C 1C6, CANADA
+  1. You can send email to [info@paradisepublishers.com](mailto:info@paradisepublishers.com)
+  2. You can send mail to the following postal address:  Paradise Publishers Inc, 232 South Jefferson, Sheridan, WY, 82801 TELEPHONE: 604.628.7898
 
 
 
@@ -87,14 +87,17 @@ eBooks N' Bytes is controlled, operated and administered entirely within British
 
 This site gives users the following options for changing and modifying information previously provided. 
 
-  1. email [admin@ebooksnbytes.com](mailto:admin@ebooksnbytes.com)
-  2. send mail to the following postal address:  Eva Almeida, 31 Dunn St., Kitimat, BC, V8C 1C6, CANADA 
+  1. email [info@paradisepublishers.com](mailto:info@paradisepublishers.com)
+  2. send mail to the following postal address:  Paradise Publishers Inc, 232 South Jefferson, Sheridan, WY, 82801 TELEPHONE: 604.628.7898 
 
 
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact  Eva Almeida 31 Dunn St. Kitimat, BC V8C 1C6 CANADA admin@ebooksbytes.com 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact  Paradise Publishers Inc,  
+232 South Jefferson,  
+Sheridan, WY, 82801.  
+TELEPHONE: 604.628.7898  [info@paradisepublishers.com](mailto:info@paradisepublishers.com)
 
 eBooks N' Bytes reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected. 
 
@@ -120,6 +123,7 @@ eBooks N' Bytes reserves the right to change this policy at any time. Please che
 
 * * *
 
-Site Network Maintained By [Marketing Edge Designs](http://www.marketingedgedesigns.com/)  
-Eva Almeida, 31 Dunn St, Kitimat, BC, V8C 1C6, Canada  
-Contact us at [admin@ebooksnbytes.com](mailto:admin@ebooksnbytes.com)
+Site Network Maintained By Paradise Publishers Inc.   
+Paradise Publishers Inc, 232 South Jefferson, Sheridan, WY, 82801 TELEPHONE: 604.628.7898  
+Contact us at [info@paradisepublishers.com  
+](mailto:info@paradisepublishers.com)
