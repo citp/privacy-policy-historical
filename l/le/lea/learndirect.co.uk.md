@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learndirect.co.uk privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230084153id_/http%3A//www.learndirect.co.uk/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learndirect.co.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615223947id_/http%3A//learndirect.co.uk/privacystatement) for the most accurate reproduction.*
 
 # learndirect - Privacy Statement
 
@@ -24,28 +24,6 @@ When you send information for someone else, you are confirming that you have tol
   * how they can access and, if necessary, correct the data we hold about them.
 
 
-
-### Paying for a course online
-
-When you pay for a course online, you will be asked for :
-
-  * details of a credit or debit card;
-  * an e-mail address; and
-  * a mobile phone number (You don't have to give your mobile phone number).
-
-
-
-These details are collected by :
-
-[Netbanx Ltd](http://www.netinvest.co.uk/ncr/netbanx/information.html)  
-Netbanx House  
-Station Court  
-Station Road  
-Great Shelford  
-Cambridge  
-CB2 5NE
-
-They collect credit or debit card details over a secure link. We do not collect them and they are not made available to us or our approved learning providers. [Netbanx Ltd](http://www.netinvest.co.uk/ncr/netbanx/information.html) will use the personal information you provide to process your online payment and to refund any monies due to you if you cancel your enrolment in line with the terms and conditions on this website. When you make a payment online, Netbanx will use industry standard software, which encrypts your information. For further details about the security of this information, please refer to [Netbanx Ltd](http://www.netinvest.co.uk/ncr/netbanx/information.html).
 
 ### The information we collect during registration or enrolment
 
@@ -99,21 +77,19 @@ If you require a free information pack, we ask you to provide us with the inform
 
 You can also decide to give us your home and mobile telephone numbers and your email address but you only need to do this if you want us and/or our approved learning providers to contact you about **learndirect** developments and offers. 
 
-If you are looking for information about **learndirect** in other countries, we ask you to provide an email address. 
-
 If you do not register as a member but use one of our online tests to test your skills, we ask you to provide your full name. This information is not retained by us but is used only when sending you your test results. 
 
-You may also provide personal data through : 
+You may also provide personal data through:
 
-  * calls to our helplines; 
-  * letters and e-mails; 
-  * customer feedback forms; 
-  * our messaging system; or 
+  * calls to our helplines;
+  * letters and e-mails;
+  * customer feedback forms;
+  * our messaging system; or
   * any conference, chatroom, message board, *Paging, web space or other learning or communications facility operated by us. 
 
 
 
-*Please be aware that ‘Paging’ is where others using **learndirect** forums and chat can send a message direct to your computer whilst you are also in the **learndirect** forums and chat area. 
+*Please be aware that 'Paging' is where others using **learndirect** forums and chat can send a message direct to your computer whilst you are also in the **learndirect** forums and chat area.
 
 We may record calls to helplines for quality and training purposes only. We will store calls for about three months and we will keep them confidential. In general, if you contact us, we may keep a record of your query or complaint for a reasonable time in case you contact us again. 
 
@@ -204,7 +180,7 @@ Please look at the terms and conditions on this website for our policy on purgin
 
 We keep personal data :
 
-  * for as long as is necessary to fulfill the purposes we collected it for;
+  * for as long as is necessary to fulfil the purposes we collected it for;
   * as required by law; or
   * to enforce or defend legal claims.
 
@@ -217,7 +193,6 @@ Sometimes we will keep information that you have deleted, for example messages s
 Cookies are small text files which are sent to your browser by a web server and stored on your personal computer's hard disk. We use cookies on our site to :
 
   * cut down the number of times you have to type in data;
-  * record the answers that you give to the online questionnaire about your funding support; This cookie collects and stores the data you enter in response to our questions. The cookie expires on your computer after 30 minutes and we do not keep the data unless you proceed to buy a course at the reduced price.
   * record the success of advertising, to target advertising and to track visitor usage; and
   * track responses to regular customer surveys and to make sure you don't see the same survey more than once.
 
@@ -251,6 +226,6 @@ You have the right to ask for a copy of all the information we hold about you (w
 
 Our website contains links to other websites. We are not responsible for the privacy policies of other sites and we advise you to read the privacy statement of every website that collects personal information from you.
 
-### Last updated : 20th December 2005
+### Last updated : 28th April 2006
 
 Back to top
