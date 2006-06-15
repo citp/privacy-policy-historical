@@ -1,48 +1,22 @@
-> *The following text is extracted and transformed from the payloadz.com privacy policy that was archived on 2005-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050119094232id_/http%3A//payloadz.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payloadz.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615211926id_/http%3A//payloadz.com/privacy.asp) for the most accurate reproduction.*
 
-# PayLoadz - Sell Digital Goods with PayPal
+# PayLoadz :: Sell Downloads with PayPal
 
-  
-| "www.gmanvideo.com has been a great success thanks to your services. It's allowed my Customers to purchase individual Video Backgrounds and download them instantly while protecting the files from theft. It really is Awesome how everything is automatic. Once the item's Buy Now Button is added to the page all I have to do is watch the money come in. It's turned my Website into a virtual Cash Machine."  
-  
----  
-From: [**Gmanvideo**](http://www.gmanvideo.com/)  
-  
-  
-
-
-Take a moment to tell us how we can make this service better.
-
-**EMail**  
-  
-**Comments or Suggestions:**  
-  
-
-
-  
-
-
- Digital Goods Presentation
-
-Watch our founder, Shannon Sofield, speak about selling digital goods online. 
-
-  |  **Privacy**
-
-This site is owned and operated by Superfreaker Studios, LLC . At Superfreaker Studios, LLC, we want to make your experience online satisfying and safe.
+This site is owned and operated by PayLoadz, Inc . We want to make your experience online satisfying and safe.
 
 Because we gather certain types of information about our users, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
 
-INFORMATION Superfreaker Studios, LLC GATHERS AND TRACKS  
-Superfreaker Studios, LLC gathers two types of information about users:  
+INFORMATION PayLoadz, Inc GATHERS AND TRACKS  
+PayLoadz, Inc gathers two types of information about users:  
 · Information that users provide through optional, voluntary submissions. These are voluntary submissions to receive our electronic newsletters, to participate in our message boards or forums, to email a friend, and from participation in polls and surveys:  
-· Information Superfreaker Studios, LLC gathers through aggregated tracking information derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to readers' needs and to help our advertisers and sponsors better understand the demographics of our audience. Because Superfreaker Studios, LLC derives its revenue mainly from sponsorships and advertising, providing such aggregated demographic data is essential to keeping our service in operation. 
+· Information PayLoadz, Inc gathers through aggregated tracking information derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to readers' needs and to help our advertisers and sponsors better understand the demographics of our audience. Because PayLoadz, Inc derives its revenue mainly from sponsorships and advertising, providing such aggregated demographic data is essential to keeping our service in operation. 
 
-Superfreaker Studios, LLC Gathers User Information In The Following Processes:  
+PayLoadz, Inc Gathers User Information In The Following Processes:  
 Optional Voluntary Information  
 We offer the following free services, which require some type of voluntary submission of personal information by users:
 
 1\. Electronic newsletters (Dispatches)  
-We will offer a electronic newsletter to users. Superfreaker Studios, LLC gathers the email addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management page. Users can also subscribe to the newsletters at the time of registration.
+We will offer a electronic newsletter to users. PayLoadz, Inc gathers the email addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management page. Users can also subscribe to the newsletters at the time of registration.
 
 2\. Message boards/forums  
 Users of the site’s Message Boards and Forums must register separately for these services (both are free of charge) in order to post messages, although they needn't register to visit the site. During registration the user is required to supply a username, password, and email address.
@@ -51,41 +25,34 @@ Users of the site’s Message Boards and Forums must register separately for the
 Our site users can choose to electronically forward a link, page, or documents to someone else by clicking “e-mail this to a friend”. The user must provide their email address, as well as that of the recipient. This information is used only in the case of transmission errors and, of course, to let the recipient know who sent the email. The information is not used for any other purpose.
 
 4\. Polling  
-We may offer interactive polls to users so they can easily share their opinions with other users and see what our audience thinks about important issues. Opinions or other responses to polls are aggregated and are not identifiable to any particular user. Superfreaker Studios, LLC may use a system to "tag" users after they have voted, so they can vote only once on a particular question. This tag is not correlated with information about individual users.
+We may offer interactive polls to users so they can easily share their opinions with other users and see what our audience thinks about important issues. Opinions or other responses to polls are aggregated and are not identifiable to any particular user. PayLoadz, Inc may use a system to "tag" users after they have voted, so they can vote only once on a particular question. This tag is not correlated with information about individual users.
 
 5\. Surveys  
-Superfreaker Studios, LLC may occasionally conduct user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our sponsors, advertisers and partners.   
+PayLoadz, Inc may occasionally conduct user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our sponsors, advertisers and partners.   
 Children  
 Consistent with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of 13 without requesting parental consent.  
 Usage tracking  
-Superfreaker Studios, LLC tracks user traffic patterns throughout all of our sites. However, we do not correlate this information with data about individual users. Superfreaker Studios, LLC does break down overall usage statistics according to a user's domain name, browser type, and MIME type by reading this information from the browser string (information contained in every user's browser).  
-Superfreaker Studios, LLC sometimes tracks and catalogs the search terms that users enter in our Search function, but this tracking is never associated with individual users. We use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you.  
+PayLoadz, Inc tracks user traffic patterns throughout all of our sites. However, we do not correlate this information with data about individual users. PayLoadz, Inc does break down overall usage statistics according to a user's domain name, browser type, and MIME type by reading this information from the browser string (information contained in every user's browser).  
+PayLoadz, Inc sometimes tracks and catalogs the search terms that users enter in our Search function, but this tracking is never associated with individual users. We use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you.  
 Cookies  
 We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. Superfreaker Studios, LLC uses cookies to track user traffic patterns (as described above). Our advertising system delivers a one-time cookie to better track ad impressions and click rates.  
 You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site. However, you do need cookies to participate actively in message boards, forums, polling and surveys.
 
 USE OF INFORMATION  
-Superfreaker Studios, LLC uses any information voluntarily given by our users to enhance their experience in our network of sites, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the interests of our users.  
+PayLoadz, Inc uses any information voluntarily given by our users to enhance their experience in our network of sites, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the interests of our users.  
 As stated above, we use information that users voluntarily provide in order to send out electronic newsletters and to enable users to participate in polls, surveys, message boards, and forums. We send out newsletters to subscribers on a regular schedule (depending on the newsletter), and occasionally send out special editions when we think subscribers might be particularly interested in something we are doing. When we use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you. We track search terms entered in Search function as one of many measures of what interests our users. But we don't track which terms a particular user enters.  
-Superfreaker Studios, LLC creates aggregate reports on user demographics and traffic patterns for advertisers, sponsors and partners. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their needs. Because we don't track the usage patterns of individual users, an advertiser or sponsor will never know that a specific user clicked their ad. We will not disclose any information about any individual user except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public.
+PayLoadz, Inc creates aggregate reports on user demographics and traffic patterns for advertisers, sponsors and partners. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their needs. Because we don't track the usage patterns of individual users, an advertiser or sponsor will never know that a specific user clicked their ad. We will not disclose any information about any individual user except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public.
 
 SHARING OF THE INFORMATION  
-Superfreaker Studios, LLC uses the above-described information to tailor our content to suit your needs and help our advertisers better understand our audience's demographics.
+PayLoadz, Inc uses the above-described information to tailor our content to suit your needs and help our advertisers better understand our audience's demographics.
 
 SECURITY  
-Superfreaker Studios, LLC operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by our customers.
+PayLoadz, Inc operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by our customers.
 
 OPT-OUT POLICY  
 We give users options wherever necessary and practical. Such choices include:  
 · Opting not to participate in certain interactive areas, which completely alleviates the need to gather any personally identifiable information from our users 
 
 YOUR CONSENT   
-By using this site, you consent to the collection and use of this information by Superfreaker Studios, LLC. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. **  
+By using this site, you consent to the collection and use of this information by PayLoadz, Inc. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. **  
 **
-
-|   | 
-
-[](http://store.payloadz.com/detail.asp?c=13&s=58&i=7666)  
-| **[Tsunami Relief](http://store.payloadz.com/detail.asp?c=13&s=58&i=7666)**  
----  
-We are helping one of our merchants raise money for the disaster relief effort. Click the image to learn more.
