@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the turner.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221080212id_/http%3A//www.turner.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turner.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615054148id_/http%3A//www.turner.com/privacy.html) for the most accurate reproduction.*
 
 # Turner - Privacy Policy
 
-Thank you for visiting turner.com, a Time Warner site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this Time Warner site. [Click here](https://web.archive.org/web/20051221080212id_/http%3A//www.turner.com/privacy.html#add1) for a list of the Time Warner businesses whose sites are governed by this Privacy Notice.
+Thank you for visiting turner.com, a Time Warner site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this Time Warner site. [Click here](https://web.archive.org/web/20060615054148id_/http%3A//www.turner.com/privacy.html#add1) for a list of the Time Warner businesses whose sites are governed by this Privacy Notice.
 
 ## The Information We Collect 
 
@@ -34,9 +34,9 @@ Agents and contractors of Time Warner who have access to personally identifiable
 
 Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice.
 
-Certain Time Warner sites may disclose personally identifiable information to companies whose practices are not covered by this privacy notice (e.g., other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that want to market products or services to you. If a site shares personally identifiable information, it will provide you with an opportunity to opt out or block such uses. For instructions on how to opt out from such disclosures, please [click here](https://web.archive.org/web/20051221080212id_/http%3A//www.turner.com/privacy.html#add2).
+Certain Time Warner sites may disclose personally identifiable information to companies whose practices are not covered by this privacy notice (e.g., other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that want to market products or services to you. If a site shares personally identifiable information, it will provide you with an opportunity to opt out or block such uses. For instructions on how to opt out from such disclosures, please [click here](https://web.archive.org/web/20060615054148id_/http%3A//www.turner.com/privacy.html#add2).
 
-We may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive marketing information from this site, [click here](https://web.archive.org/web/20051221080212id_/http%3A//www.turner.com/privacy.html#add3) for instructions on how to make your request.
+We may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive marketing information from this site, [click here](https://web.archive.org/web/20060615054148id_/http%3A//www.turner.com/privacy.html#add3) for instructions on how to make your request.
 
 Finally, the Time Warner sites covered by this Privacy Notice will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
 
@@ -54,7 +54,7 @@ Some of our sites contain links to other sites whose information practices may b
 
 The Time Warner sites covered by this Privacy Notice sometimes may offer content (e.g., contests, sweepstakes, or promotions) that is sponsored by or cobranded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. Time Warner has no control over these third parties' use of this information. The Time Warner site will notify you at the time of requesting personally identifiable information if these third parties will obtain such information.
 
-Some of the Time Warner sites covered by this Privacy Notice may use a reputable third party to present or serve the advertisements that you may see at its Web pages. These third party ad servers may use cookies, web beacons, clear .gifs or similar technologies to help present such advertisements, and to help measure and research the advertisementsf effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies and is not covered by our privacy policy. For more information on this site's use of such third-party ad servers, please [click here](https://web.archive.org/web/20051221080212id_/http%3A//www.turner.com/privacy.html#add4).
+Some of the Time Warner sites covered by this Privacy Notice may use a reputable third party to present or serve the advertisements that you may see at its Web pages. These third party ad servers may use cookies, web beacons, clear .gifs or similar technologies to help present such advertisements, and to help measure and research the advertisementsf effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies and is not covered by our privacy policy. For more information on this site's use of such third-party ad servers, please [click here](https://web.archive.org/web/20060615054148id_/http%3A//www.turner.com/privacy.html#add4).
 
 ##  Our Commitment to Security 
 
@@ -62,7 +62,7 @@ We have put in place appropriate physical, electronic, and managerial procedures
 
 ## How You can Access or Correct Information 
 
-For instructions on how you can access the personally identifiable information that this Time Warner site has collected about you online, or how to correct factual errors in such information, please [click here](https://web.archive.org/web/20051221080212id_/http%3A//www.turner.com/privacy.html#add5).
+For instructions on how you can access the personally identifiable information that this Time Warner site has collected about you online, or how to correct factual errors in such information, please [click here](https://web.archive.org/web/20060615054148id_/http%3A//www.turner.com/privacy.html#add5).
 
 To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
 
@@ -88,7 +88,6 @@ This Privacy Notice applies to general audience sites on the World Wide Web oper
   * [www.TBSsuperstation.com](http://www.tbssuperstation.com/)
   * [www.tbs17.com](http://www.tbs17.com/)
   * [www.tnt.tv](http://www.tnt.tv/)
-  * [www.TurnerSouth.com](http://www.turnersouth.com/)
   * [www.TurnerClassicMovies.com](http://www.turnerclassicmovies.com/)
   * [www.turnerlearning.com](http://www.turnerlearning.com/)
 
