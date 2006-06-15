@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the independent.co.uk privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231194438id_/http%3A//news.independent.co.uk/article294422.ece) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the independent.co.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210447id_/http%3A//news.independent.co.uk/article294422.ece) for the most accurate reproduction.*
 
 # Independent Online Edition > News
 
@@ -42,11 +42,11 @@ Apart from other companies in the Independent News & Media group, we only share 
 
 If you tell us that you do not want us to use your details, then data about your use of the Web Site would then only form part of aggregated statistics and would not be related to you as an individual. 
 
-You can ask to see the information we have about you by e-mailing a request to [@ ](mailto:customerservice@independent.co.uk). 
+You can ask to see the information we have about you by e-mailing a request to [ customerservices@ independent.co.uk](mailto:customerservices@independent.co.uk). 
 
 _"What do I do if I am not happy for you to share information about me with others?"_
 
-You may not wish us to share personal details about you with third parties outside the Group, or to use your information in the other ways we have described in this Privacy Policy. You can e-mail [@ ](mailto:customerservice@independent.co.uk) at any time to let us know of any objections you may have to how we use or disclose your data in the ways set out in this Privacy Policy. Your personal details may in any event be shared with third party organisations we have contracted to provide services to us, on an agency basis, which include processing data. We may also have to release information (which could include the contents of e-mail communications between any persons) because of a legal requirement on us or pursuant to a court order. 
+You may not wish us to share personal details about you with third parties outside the Group, or to use your information in the other ways we have described in this Privacy Policy. You can e-mail [ customerservices@ independent.co.uk](mailto:customerservices@independent.co.uk) at any time to let us know of any objections you may have to how we use or disclose your data in the ways set out in this Privacy Policy. Your personal details may in any event be shared with third party organisations we have contracted to provide services to us, on an agency basis, which include processing data. We may also have to release information (which could include the contents of e-mail communications between any persons) because of a legal requirement on us or pursuant to a court order. 
 
 **Use of cookies on a website**
 
@@ -54,9 +54,7 @@ _The basic principles_
 
 A cookie is a text-only string of information that a website transfers to the cookie file of the browser of your computer's hard disk so that the website can remember who you are. A cookie will typically contain the name of the domain from which the cookie has come, the "lifetime" of the cookie, and a value, usually a randomly generated unique number. 
 
-Two types of cookies are used on the Website: **Session Cookies** which are temporary cookies that remain in the cookie file of your browser until you leave the Website. 
-
-**Persistent Cookies** which remain in the cookie file of your browser for much longer (though how long will depend on the lifetime of each specific cookie). Cookies can help a website to arrange content to match your preferred interests more quickly. Most major websites use cookies. Cookies cannot be used by themselves to identify you. 
+Two types of cookies are used on the Website: **Session Cookies** which are temporary cookies that remain in the cookie file of your browser until you leave the Website. **Persistent Cookies** which remain in the cookie file of your browser for much longer (though how long will depend on the lifetime of each specific cookie). Cookies can help a website to arrange content to match your preferred interests more quickly. Most major websites use cookies. Cookies cannot be used by themselves to identify you. 
 
 _How we collect cookies on the Website and what information we collect_
 
@@ -78,7 +76,7 @@ You have the ability to accept or decline cookies by modifying the settings in y
 
 As you will know, the Internet does not recognise national boundaries. Services on the net are accessible globally so collection and transmission of personal data is not always confined to one country. You should be aware that by using the Website and those of our partners or any site we link through to, your personal data may be processed in or transferred to other countries, the USA for example, and you agree to your personal data being transferred or processed in this way. 
 
-**Further information** If you want further information, or wish to communicate with us about this Privacy Policy and your wishes about your personal information, please e-mail [@ ](mailto:customerservice@independent.co.uk). 
+**Further information** If you want further information, or wish to communicate with us about this Privacy Policy and your wishes about your personal information, please e-mail [ customerservices@ independent.co.uk](mailto:customerservices@independent.co.uk). 
 
 **Company information**
 
