@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kgw.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230193846id_/http%3A//www.kgw.com/registration/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kgw.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615094247id_/http%3A//www.kgw.com/registration/privacy.html) for the most accurate reproduction.*
 
 # kgw.com | News for Oregon and SW Washington | Privacy Policy
 
@@ -131,8 +131,8 @@ This text is invisible on the page, but this text is affected by the invisible i
 
 Advertising 
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/web.archive.org/aboutus/1071901725/Position1/default/empty.gif/7a2f486932313479786b734142443865?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/web.archive.org/aboutus/306911839/Position1/default/empty.gif/7a2f4868346c3479786b734143484c56?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/web.archive.org/aboutus/2121012140/Position4/default/empty.gif/7a2f486932313479786b734142443865?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/web.archive.org/aboutus/1853013158/Position4/default/empty.gif/7a2f4868346c3479786b734143484c56?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/web.archive.org/aboutus/1259517883/Position5/default/empty.gif/7a2f486932313479786b734142443865?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/web.archive.org/aboutus/1634626416/Position5/default/empty.gif/7a2f4868346c3479786b734143484c56?x)
