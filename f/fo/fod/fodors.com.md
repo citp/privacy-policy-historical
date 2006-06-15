@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the fodors.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215072112id_/http%3A//www.fodors.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fodors.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615205427id_/http%3A//fodors.com/about/privacy) for the most accurate reproduction.*
 
 # Fodor's Travel Guides | Contact Information
 
 Privacy Policy
 
   
-The Fodors.com Web site (the "Site") is operated by Fodors LLC, a wholly-owned subsidiary of [Random House Inc.](http://www.bertelsmann.com/divisions/random_house/facts/facts.cfm), located at 1745 Broadway, New York, New York 10019 ("Fodors"). We can be reached by e-mail at [registration@fodors.com](mailto:registration@fodors.com). 
+The Fodors.com Web site (the "Site") is operated by Fodor's Travel, a division of Random House, Inc., located at 1745 Broadway, New York, New York 10019 ("Fodor's"). We can be reached by e-mail at [registration@fodors.com](mailto:registration@fodors.com). 
 
 **HOW FODOR'S USES INFORMATION PROVIDED BY YOU:** This Site does not collect personally identifying information about individuals except when specifically and knowingly provided by such individuals. Fodors.com only collects personal information from our online visitors during (1) contests and sweepstakes; (2) registration for specific activities (for example, bulletin boards or e-mail newsletters) or membership on our Site; (3) marketing surveys; and/or (4) during customer support or technical service requests. We do not require personal information to gain access to the Site, however you will not be able to access areas that require registration without disclosing personally identifiable information. 
 
@@ -13,7 +13,7 @@ Information collected may include your name, address, phone number, and email ad
 
 A user's personally identifying information will not be sold or rented to any other party without prior consent. 
 
-Fodors.com provides its users the opportunity to receive promotional information from it, its parent companies, subsidiaries and affiliates, as well as third party vendors. Such vendors include businesses offering special travel services and discounts. In such instances, Fodors will always provide an opt-in function when users submit personally identifiable information for such site activities as bulletin boards, newsletters, surveys, contests, sweepstakes, etc. You will not receive unsolicited emails from us or from third parties unless you specifically give us permission to do so via the opt-in function. You can tell us not to share this information at any time by clicking [here](mailto:registration@fodors.com). 
+Fodors.com provides its users the opportunity to receive promotional information from it, its parent companies, subsidiaries and affiliates, as well as third party vendors. Such vendors include businesses offering special travel services and discounts. In such instances, Fodor's will always provide an opt-in function when users submit personally identifiable information for such site activities as bulletin boards, newsletters, surveys, contests, sweepstakes, etc. You will not receive unsolicited emails from us or from third parties unless you specifically give us permission to do so via the opt-in function. You can tell us not to share this information at any time by clicking [here](mailto:registration@fodors.com). 
 
 In addition to the uses described above, a user's personally identifying information may be used by Fodor's, its parent companies, subsidiaries, and affiliates for editorial or quality control purposes. Fodors.com may also disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to (a) conform to applicable law or comply with legal process served on Fodors.com or the Site; (b) protect and defend the rights or property of Fodors.com, the Site or the users of Fodors.com, and (c) act under exigent circumstances to protect the personal safety or users of Fodors.com, the Site or the public. 
 
@@ -41,7 +41,7 @@ If you have any concerns, do not hesitate to contact us at the above e-mail addr
 
 **SECURITY POLICY:** The importance of security for all personal information associated with you is of utmost concern to us. We exercise care in providing secure transmission of your information from your PC to our servers. Personal information collected by the Site is stored in secure operating environments that are not available to the public. Only those employees who need access to your information in order to do their jobs are allowed access. Any employee who violates our privacy and/or security policies is subject to disciplinary action, including possible termination.
 
-**ASSIGNMENT:** Fodors may change its ownership or corporate organization while providing the Site and services. As a result, please be aware that Fodors may transfer your information to another company that is affiliated with Fodors or with which Fodors has merged.
+**ASSIGNMENT:** Fodor's may change its ownership or corporate organization while providing the Site and services. As a result, please be aware that Fodor's may transfer your information to another company that is affiliated with Fodor's or with which Fodor's has merged.
 
 **CHANGES:** As our Site continues to develop, we may add new services and features to our Site. In the event that these additions affect our Security and Privacy Policy, this document will be updated appropriately. We recommend that you read this Security and Privacy Policy each time you use the Site in case you missed our notice of changes to the Security and Privacy Policy.
 
