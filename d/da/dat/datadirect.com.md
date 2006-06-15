@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the datadirect.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218170637id_/http%3A//www.datadirect.com/legal/privacy/index.ssp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datadirect.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615091759id_/http%3A//www.datadirect.com/legal/privacy/index.ssp) for the most accurate reproduction.*
 
 # DataDirect Technologies Privacy Policy: Legal: Home
 
 Last update: Monday, October 4, 2004
 
-DataDirect Technologies is a division of Progress Software Corporation (“PSC”).
+DataDirect Technologies is a division of Progress Software Corporation ("PSC").
 
-We at Progress Software Corporation (“Progress Software”) are constantly striving to provide excellent service to you, our customers and business partners, while building a long-lasting relationship with you. To achieve these goals, we occasionally need information about you when you visit our site.
+We at Progress Software Corporation ("Progress Software") are constantly striving to provide excellent service to you, our customers and business partners, while building a long-lasting relationship with you. To achieve these goals, we occasionally need information about you when you visit our site.
 
 When you visit our Web sites, you may be providing Progress Software with information about your visit on two levels:
 
@@ -40,7 +40,7 @@ Progress Software has always valued your privacy, and we reinforce this belief t
 
 **Statistics Collected as You Browse Our Web Sites**
 
-As you browse our Web sites, Progress Software’s Web servers collect information about your visit, not about you personally. Via Web server logs, we monitor statistics such as:
+As you browse our Web sites, Progress Software's Web servers collect information about your visit, not about you personally. Via Web server logs, we monitor statistics such as:
 
   * How many people visit our Web sites.
   * Which pages people visit on our Web sites.
@@ -59,7 +59,7 @@ Within our Web sites, you may be asked to give us personal or organizational inf
 
 **Your IP Address and Host Name**
 
-Progress Software’s Web sites log Host Names (or IP addresses when the Host Name is not available) for systems administration and security purposes. These logs are monitored and analyzed to maintain systems and information security and allow us to constantly improve the value and the availability of the Web content.
+Progress Software's Web sites log Host Names (or IP addresses when the Host Name is not available) for systems administration and security purposes. These logs are monitored and analyzed to maintain systems and information security and allow us to constantly improve the value and the availability of the Web content.
 
 **Registration Forms**
 
@@ -101,4 +101,4 @@ If you have comments or questions about our privacy policy, please [Contact Us](
 
 ## Changes to Policy
 
-Progress Software will occasionally update this privacy policy. When we do, we will also revise the “last updated” date at the top of the privacy policy.
+Progress Software will occasionally update this privacy policy. When we do, we will also revise the "last updated" date at the top of the privacy policy.
