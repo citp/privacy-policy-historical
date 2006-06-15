@@ -1,167 +1,62 @@
-> *The following text is extracted and transformed from the lcsun-news.com privacy policy that was archived on 2003-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030407102757id_/http%3A//www.lcsun-news.com/Stories/0%2C1413%2C115%25257E7494%25257E%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lcsun-news.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615074806id_/http%3A//www.lcsun-news.com/portlet/layout/html/privacypolicy/privacypolicy.jsp%3FsiteId%3D557) for the most accurate reproduction.*
 
-# Las Cruces Sun~News
+# Privacy Policy
 
-| [News](https://web.archive.org/Stories/0,1413,115%257E7444%257E,00.html)  
----  
-[Art and Entertainment](https://web.archive.org/Stories/0,1413,115%257E11547%257E,00.html)  
-[Business](https://web.archive.org/Stories/0,1413,115%257E7436%257E,00.html)  
-[Editorial](https://web.archive.org/Stories/0,1413,115%257E7439%257E,00.html)  
-[Headline Stories](https://web.archive.org/Stories/0,1413,115%257E7442%257E,00.html)  
-[Local News](https://web.archive.org/Stories/0,1413,115%257E7444%257E,00.html)  
-[Obituaries](https://web.archive.org/Stories/0,1413,115%257E7445%257E,00.html)  
-[Sports](https://web.archive.org/Stories/0,1413,115%257E7449%257E,00.html)  
-[Weather](https://web.archive.org/Stories/0,1413,115%257E7453%257E,00.html)  
-    
-[New Mexico Cars](http://newmexico.autochooser.com/publisher_files/index.html)  
-    
-[Classifieds](http://lascruces.abracat.com/)  
-[Health Care     Employment     Opportunities](http://adserver1.harvestadsdepot.com/mednmlcsn/ss/HealthCare/)  
-    
-[MoreCities-Choices](http://www.abracat.com/abracat/index.jsp)  
-    
-[Entertainment](https://web.archive.org/Stories/0,1413,115%257E7459%257E,00.html)  
-[Book Reviews](https://web.archive.org/Stories/0,1413,115%257E10006%257E,00.html)  
-[Connections](http://www.datefinder.com/lascruces)  
-[Movies](https://web.archive.org/Stories/0,1413,115%257E11553%257E,00.html)  
-    
-[Services](https://web.archive.org/Stories/0,1413,115%257E7467%257E,00.html)  
-[News Search](https://web.archive.org/Stories/0,1413,115%257E23649%257E,00.html)  
-[Info/Feedback](https://web.archive.org/Stories/0,1413,115%257E7469%257E,00.html)  
-[Search Archives](http://search.newschoice.com/)  
-[Subscriptions](https://web.archive.org/Stories/0,1413,115%257E7474%257E,00.html)  
-    
-[Privacy Policy](https://web.archive.org/Stories/0,1413,115%257E7494%257E,00.html)  
-  
-[](http://www.pictopia.com/lcsn.html)
+PRIVACY POLICY 
 
-| 
+/ 
 
-|    
-|  | **General Privacy Policy**  
----  
-  
-**The newspaper is committed to protecting the privacy of our customers. The following statement discloses our information gathering and dissemination practices for the Web site.**
+strives to offer our site visitors a high quality, interactive and personalized experience. The following sets forth the web site information gathering and dissemination practices of . This statement does not apply to third party web sites, or to companies and persons that are not controlled, affiliated with or managed by . By using this site, you consent to the collection and use of your information as indicated in this policy and to the other terms of this policy. If you do not agree to the terms of this privacy policy, please do not use this site. It is important to note that this policy applies only to information collected by and does not apply to information obtained or used by or its affiliates through other means. 
 
-  
-  
-  
-**What personally identifiable information does the website collect from me?**  
-Information is collected in several ways. Some personal information is gathered through server log files. Personal information is also gathered when you enter a contest or promotion, request vacation delivery stop, or when you post an online ad. During these instances, our paper asks for information such as your name, e-mail address, street address, zip code, phone number, subscriber status, and credit card number. We may also ask you for other information at other times. Whenever we collect information about you, we will make an effort to link to our privacy policy.   
-  
-**How is my information used?**  
-Our primary goal in collecting personal information is to provide you with a customized experience. Our paper uses information collected from server log files, such as IP addresses, to help diagnose problems with our services, to administer our Web site, and to report and gather aggregate information about site usage and user demographics. The aggregated data may be shared with advertisers or business partners. 
+collects information in several ways. Some personal information is automatically collected through server log files, cookies and page requests, including, but not limited to the domain and host from which you access the Internet, the Internet Protocol address of your computer, the browser software and operating system you are using, your geographic location, the time and date you accessed the site and the Internet address you visited prior to visiting the site. 
 
-Cookies are used to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a Web service and stored on your computer's hard drive. Cookies are used to deliver targeted advertising based on your behavior or demographics and to track your number of entries in some of our promotions and contests. You can set your browser to refuse to accept cookies, but if you do we will not be able to customize the Web site's features according to your preferences. Advertising networks that serve ads into our site, such as Real Media or DoubleClick, may also use their own cookies. For more information about Real Media's use of cookies, visit <http://www.realmedia.com/privacy.html>. For more information about DoubleClick's use of cookies, visit [http://www.privacychoices.org](http://www.privacychoices.org/). 
+Personally identifiable information is collected when you submit such information to , when you download or use software, use services or purchase products or services from our web site. For example, personally identifiable information is gathered when you enter a contest or promotion, request vacation delivery stop, or post an online ad. The personally identifiable information collected includes, but is not limited to, name, company, e-mail address, street address, zip code, phone numbers and social security numbers and other information that permits contacting of an individual. 
 
-  
-  
-  
-**With whom is my information shared?**  
-When you are on an area of the Web site and are asked for personal information, you are sharing that information with the newspaper and its related companies. If data is being collected and/or maintained by any other company, you will be notified prior to the time of the data collection or transfer. If you do not want your data to be shared, you can choose not to allow the transfer by not using that particular service. 
+Access to the majority of content, services and features on requires users to become registered members. Member registration requires you to provide certain Personally identifiable information, such as your name, e-mail address, street address, gender, and date of birth. You will be asked to select a member name and password so that you have access to this information and can revise it in the future. To complete the registration process, we will send you a validation e-mail message. You must click the link in the e-mail to fully activate your membership account. You will also have the opportunity to subscribe to e-mail newsletters and alerts and elect to receive e-mail offers sent to you on behalf of advertisers. Some features and services may require additional Personally identifiable information or other demographic information. We may collect other personal information when you provide feedback, comments, engage in chat, message boards, interactive forums or participate in surveys, or if you contact us offline. For example, when you enter contests you will be asked to also provide your phone number so that we can reach you in the event you've won a prize. All users may decline to share such information with us by choosing not to register on the Web site or use our services. Only registered members, however, may access certain content, services and features. 
 
-Promotions and contests that run on the newspaper Web site may be sponsored by companies other than the newspaper Web site or may be co-sponsored by the newspaper Web site and another company. Some or all data collected during a promotion or contest may be shared with the sponsor. If data will be shared, you will be notified prior to the time of data collection or transfer. You can decide not to participate in the promotion or contest if you don't want your data to be shared. 
+If you wish to forward an article to a friend, we will ask that you provide your friend's name and e-mail address. While we collect statistics on which articles are forwarded, we do not sell, rent, or market your friend's personal information, and retain the information only as long as necessary to provide this service. 
 
-The newspaper may make chat rooms, forums, message boards, and/or news groups available to our Web site users. Some of these forums require registration. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+Aggregate information may be used to help diagnose problems with our services and site, to administer our web site and to study and report site usage and user demographics. Aggregate data may be used by and its affiliated companies and may be shared with advertisers and business partners. Aggregate information is not linked to personally identifiable information. 
 
-Aggregate information compiled by the newspaper Web site may be shared with advertisers and business partners as well as used by the newspaper and its related companies. 
+Cookies are used to store and track information about you. A cookie is a small amount of data that is sent to your browser from a web service and stored on your computer's hard drive. Cookies are used to deliver targeted advertising based on your behavior and demographics and to track your entries in promotions and contests. Advertising networks that serve ads into our sites may also use cookies. 
 
-  
-  
-  
-**Linked Sites**  
-Please be aware that the newspaper Web site's promotional partners, advertisers, sponsors, third-party Internet sites, and content providers accessible through our paper may have their own privacy and data collection policies and practices. The newspaper and Web site are not responsible for any actions or policies of such third party parties. Users should check the applicable privacy policies of those third parties when providing personally identifiable information through co-sponsored, affiliated or linked sites. 
+When you provide personally identifiable information, you are sharing that information with and its affiliated companies. If you do not want to share your personally identifiable information, do not provide it or use the service that requires it. For example, promotions and contests require the collection of personally identifiable information that may be shared with third party sponsors and others. Collected information may be used for marketing and promotional purposes as well as account and web site management. may make chat rooms, forums, message boards, and/or news groups available to web site users. Some of these forums involve registration and the sharing of personally identifiable information. Any information that is disclosed in chat rooms, forums, message boards, and/or news groups becomes public information. You should exercise caution when deciding to disclose any personal information. 
 
-  
-  
-  
-**Children's Guidelines**  
-The Newspaper in Education program is a free service the newspaper may offer for teachers which promotes the use of newspapers in the classroom. The information requested on these pages is used solely for participation in the particular activity, and is not stored or sold to third parties. If a question, comment, story, joke, idea or opinion is published, only the student's first name, grade and state/country appear on the site. Students are advised to consult with their parents before giving personal information online. 
+A user may indicate that he or she would like to "opt out" of receiving promotional and/or marketing information about other products, services and offerings from and/or any third parties by notifying at [](mailto:). Notwithstanding any "opt-out" of promotional information by the user, reserves the right to contact a user regarding account status, changes to this policy, the terms of use, license agreements and other matters relevant to the use of the web site, services or software provided through the web site, and/or the information collected. 
 
-  
-  
-**Children's Privacy Policy**  
-  
-The newspaper is committed to complying with the Children's Online Privacy Protection Act of 1998. Because many visitors to this site are children, we employ special measures to help children protect their privacy while online. The newspaper does not ask children to disclose more personal information than is necessary for them to participate in a particular activity. We urge children to check with their parents before entering information on any website and we urge parents to discuss with their children restrictions regarding the online release of personal information to anyone they don't know. 
+While makes reasonable efforts to preserve user privacy, we may disclose personal information when required by law or when we have a reasonable belief that such action is necessary to comply with court orders, subpoenas or the legal process. We may disclose or share personal information, including, but not limited to personally identifiable information, if it is reasonably necessary for to protect its legal rights or defend legal claims, or if we reasonably believe that disclosure or sharing or such personal information is necessary in order to investigate, prevent or take action regarding illegal activities, breach of our terms of use or of license agreements. 
 
-To help ensure a rewarding online experience for parents and children, we provide this summary of our information practices. As we continue to offer our visitors new and different types of content and services, we may modify our practices from time to time. However, we will treat all personal information we collect in accordance with the privacy notice in effect at the time the information is collected. 
+This statement and the policies outlined here are not intended to and do not create any contractual or other legal rights in or on behalf of any party. This privacy policy applies only to web sites owned or controlled by . Users should check the applicable privacy policies for any linked or other web sites. 
 
-  
-  
-  
-**Information Collected**  
-The newspaper does not collect personal information online from children under 13 without their parent's consent, except in special limited circumstances. Generally, the newspaper limits its collection of information from children to what is known as nonpersonally identifiable information (e.g. screen names, birthday, gender, city, state, zip code and country of residence). This information is collected so children can participate in activities (e.g. completing polls or online surveys, posting jokes, book reviews, movie reviews, toy reviews, video reviews, concert reviews, game reviews, artwork or questions/comments online, or playing online games) without giving unnecessary personal information. From time to time, however, we may request limited personally identifiable information (e.g. child's email address and/or parent's or guardian's email address), as explained below, in order to conduct online contests or sweepstakes or offer other online activities. The newspaper does not condition a child's participation in any of our online activities on the disclosure of more information than is reasonably necessary to participate in the activity. 
+Upon request, will take reasonable efforts to delete or correct a user's personally identifiable information from its database. It may be impossible to delete a user's entry without retaining some residual information because of backups and records of deletions. Also, upon request, will provide to a user a copy of that user's personal information that was collected though its web site. To request such action, send an email to at [](mailto:). 
 
-  
-  
-  
-**Contest and Sweepstakes**  
-The newspaper occasionally offers contest and sweepstakes, which may be entered online. When a child under thirteen enters a contest or sweepstakes, or participates in another activity that requires the use of personal information, we will ask for a parent's email address so that we can notify the parent of the child's entry and give the parent the option to have the child's entry deleted. All personally identifiable information collected by the newspaper is securely maintained and used only for the purpose of conducting the contest or sweepstakes. Once the contest or sweepstakes is finished, the newspaper will delete any personal information collected. 
+This privacy policy is effective as of December, 2004. reserves the right to change this policy at any time. 
 
-  
-  
-  
-**Use of Information**  
-The newspaper uses personally identifiable information provided by children for conducting contests or sweepstakes. The newspaper uses parents' email addresses to notify them when we have received information from their children and to give parents the option to remove their child's information. The newspaper does not keep any personal information obtained through a contest or sweepstakes after the particular event is completed. Sometimes, we use agents or contractors to provide services, such as helping us conduct a sweepstakes or sending prizes to winners. In these cases, we require the agent or contractor to keep the information confidential and to use it only for the specific services they are performing. 
+may change this privacy policy from time to time. When we do, we will post the revised policy on the web site. Please check this page periodically for changes. 
 
-The newspaper may disclose information maintained as required by law, for example, in response to a court order or a subpoena. The newspaper may also disclose such information in response to a specific law enforcement agency's request. 
+Please feel free to contact us at at [](mailto:) with questions or comments regarding our privacy policy. 
 
-  
-  
-  
-**Cookies**  
-The newspaper uses a software technology called "cookies." Cookies are small files that we place in visitors' computer browsers to store their preferences. Cookies themselves do not contain any personally identifiable information. Although cookies could enable the newspaper to relate a visitor's use of this website to personal information that the visitor has provided, such as an email address, we do not use cookies for this purpose. We do use cookies to determine how many visitors we have and how often they visit various sections of our site. You can, of course, disable cookies on your computer by indicating this in the preferences or options menus in your browser. 
+CHILDREN'S PRIVACY POLICY 
 
-  
-  
-  
-**Parental Access**  
-Parents, please send a letter or postcard to our Privacy Coordinator at the mailing address provided below if you would like to do any of the following: 
+The following sets forth the web site information gathering and dissemination practices of relating to information collected from children. This statement does not apply to third party web sites, or to companies and persons that are not controlled, affiliated with or managed by . This privacy policy is effective as of December, 2004. may change this privacy policy from time to time. The revised policy will be posted on the web site. Please check this page periodically for changes. 
 
-  * Access personally identifiable information that the newspaper has collected online from your child,
-  * Correct factual errors in such information,
-  * Request to have this information deleted, or
-  * Request that we no longer collect or maintain such information.
+does not ask children to disclose more personal information than is necessary for them to participate in a particular activity. We urge children to check with their parents before entering information on any web site and we urge parents to discuss with their children restrictions regarding the online release of personal information. limits its collection of information from children to what is known as non-personally identifiable information (e.g. first name, screen names, age, gender, city, state, zip code and country of residence). This information is collected so children can participate in activities (e.g. completing polls or online surveys, posting jokes, book reviews, movie reviews, toy reviews, video reviews, concert reviews, game reviews, artwork or questions/comments online, or playing online games) without giving unnecessary personal information. From time to time, however, we may request personally identifiable information (e.g. child's email address and/or parent's or guardian's email address), as explained below, in order to conduct online contests or sweepstakes or offer other online activities. does not and cannot condition a child's participation in any of our online activities on the disclosure of more information than is reasonably necessary to participate in the activity. Information is collected actively, such as through registration forms, and passively, such as through cookies. 
 
-Please include your email address and telephone number where we can reach you. The newspaper takes steps to verify the identity of anyone requesting information about a child and to ensure that the person is in fact the child's parent or legal guardian.   
-  
-  
-**Contact Us**  
-If you have any questions, comments or concerns regarding our privacy policy and/or practices, please visit our contact us page or feedback form and contact the webmaster.
+occasionally offers contest and sweepstakes, which may be entered online. When a child under thirteen 13 enters a contest or sweepstakes, or participates in another activity that requires the use of personal information, we will ask for a parent's email address so that we can notify the parent of the child's entry and give the parent the option to have the child's entry deleted. All personally identifiable information collected by is securely maintained and used only for the purpose of conducting the contest or sweepstakes and awarding prizes. does not keep any personal information obtained through a contest or sweepstakes after the particular event is completed. Sometimes, we use agents or contractors to provide services that support the internal operations of the site, such as helping us conduct a sweepstakes or sending prizes to winners. In these cases, we require the agent or contractor to maintain the confidentiality, security and integrity of the information and limit use to the specific services they are performing on our behalf. 
 
-  
-  
-**DoubleClick's Privacy Disclosure**  
-  
-We use a third-party advertising company to serve ads when you visit our Web site. This company may use information (not including your name, address, email address or telephone number) about your visit to this Web site in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. If you would like more information about this practice and to know your choices about not having this information used by this company, please visit <http://www.doubleclick.net/us/corporate/privacy>. 
+may disclose information maintained as required by law, for example, in response to a court order or a subpoena. may also disclose such information in response to a specific law enforcement agency's request. Personal information is not disclosed to third parties except those who provide support for the internal operations of the site. Parents can consent to the collection and use of their child's personal information without consenting to the disclosure of the information to third parties. 
 
-  
-  
-  
-* * *
+, MediaNews Group, Inc., and MediaNews Group Interactive, Inc. are the operators collecting information at this web site. Please send an email or letter to our Privacy Coordinator at the email or mailing address provided below if you would like to do any of the following: 
 
-**© 1999-2003 MediaNews Group, Inc. and Mid-States Newspapers, Inc.** |  Monday, April 07, 2003   
-4:27 AM MST
+* Access personally identifiable information that has collected from your child, 
+* Correct factual errors in such information, 
+* Request to have this information deleted, or 
+* Request that we no longer collect or maintain such information from your child. 
 
-[](http://www.pictopia.com/lcsn.html)
+Please include your email address and telephone number where we can reach you. takes steps to verify the identity of anyone requesting information about a child to ensure that the person is in fact the child's parent or legal guardian. 
 
-| [Lifestyles](https://web.archive.org/Stories/0,1413,115%257E7461%257E,00.html)  
----  
-[Health & Nutrition](https://web.archive.org/Stories/0,1413,115%257E7461%257E,00.html)  
-[Horoscopes](https://web.archive.org/Stories/0,1413,115%257E7462%257E,00.html)  
-[Lottery Results](https://web.archive.org/Stories/0,1413,115%257E7463%257E,00.html)  
-[Soap Opera Recaps](https://web.archive.org/Stories/0,1413,115%257E7464%257E,00.html)  
-[Featured Channels](http://www.newschoice.com/)  
-[Mapquest](http://www.mapquest.com/)  
-[Headbone Zone](http://www.headbone.com/home/home.new.html)  
-[NewsChoice](http://www.newschoice.com/)  
-[Travel](https://web.archive.org/Stories/0,1413,115%257E7490%257E,00.html)  
-[New Mexico Newspapers](https://web.archive.org/Stories/0,1413,115%257E7443%257E,00.html)  
-[Alamogordo Daily    News](http://www.alamogordonews.com/)  
-[Carlsbad Current-  Argus](http://www.currentargus.com/)  
-[Deming Headlight](http://www.demingheadlight.com/)  
-[Farmington Daily   Times](http://www.daily-times.com/)  
-[Ruidoso News](http://www.ruidosonews.com/)  
-[Silver City Sun-News](http://www.scsun-news.com/)  
-[New Mexico Travel](http://travel.lcsun-news.com/)  
-  
+If you have any questions, comments or concerns regarding our privacy policy and/or practices, please contact the Privacy Coordinator using the contact information provided below. 
+
+,     
+\--  
+Email: [](mailto:)
