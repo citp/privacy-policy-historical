@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gerber.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219004501id_/http%3A//gerber.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gerber.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615204558id_/http%3A//gerber.com/privacy) for the most accurate reproduction.*
 
 # Gerber
 
