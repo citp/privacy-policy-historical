@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the netsuite.com privacy policy that was archived on 2004-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040803050327id_/http%3A//www.netsuite.com/portal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netsuite.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615200810id_/http%3A//www.netsuite.com/portal/privacy.shtml) for the most accurate reproduction.*
 
-# NetSuite | NetSuite Software | Business Software for Growing and Mid-Sized Companies
+# Privacy Policy - NetSuite Small / Mid-Sized Business ERP and CRM Software Application
 
 NetSuite Privacy Policy  
-NetSuite respects the privacy of anyone who uses a NetSuite Web site (www.netsuite.com, www.netcrm.com, or www.oraclesmallbusiness.com) and a NetSuite online applications (NetSuite, NetCRM, NetSuite, or the Oracle Small Business Suite). 
+NetSuite respects the privacy of anyone who uses a NetSuite Web site (www.netsuite.com, www.netcrm.com) and a NetSuite online applications (NetSuite, NetSuite CRM, NetSuite CRM+, and NetSuite Small Business). 
 
 NetSuite gathers important information from our visitors and customers. We publish this Privacy Policy to communicate how we gather and use information about you, how we protect it, and how you can participate in its protection.
 
