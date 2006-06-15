@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commonsensemedia.org privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220022520id_/http%3A//www.commonsensemedia.org/about_us/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commonsensemedia.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615075211id_/http%3A//www.commonsensemedia.org/about_us/privacy.php) for the most accurate reproduction.*
 
 # Common Sense Media - Family Friendly Reviews
 
