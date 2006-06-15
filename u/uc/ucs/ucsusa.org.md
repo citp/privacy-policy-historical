@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucsusa.org privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213210526id_/http%3A//ucsusa.org/ucs/about/ucs-privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucsusa.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615081956id_/http%3A//ucsusa.org/ucs/about/ucs-privacy-statement.html) for the most accurate reproduction.*
 
 # UCS privacy statement
 
