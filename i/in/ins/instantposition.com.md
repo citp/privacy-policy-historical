@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the instantposition.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216083027id_/http%3A//www.instantposition.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantposition.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615180900id_/http%3A//instantposition.com/privacy.html) for the most accurate reproduction.*
 
-# Instant Position - Privacy Policy
-
-[Home](https://web.archive.org/web/20051216083027id_/http%3A//www.instantposition.com/index.html) | Privacy Policy 
+# Instant Position Privacy Policy
 
 ## Members and General Public 
 
@@ -34,5 +32,4 @@ Policy Modifications
 We may change this Privacy Policy from time to time. If/when Instant Position makes changes to this privacy statement, we will email users who have given us permission to do so. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
 
 Contacting Instant Position about Privacy and Instant Position.com  
-If you have any questions about our privacy statement, the information we have collected from you online, the practices of this site, or your dealings with this Web site, please contact:  
-[info@InstantPosition.com](mailto:privacy@Targetware.com)
+If you have any questions about our privacy statement, the information we have collected from you online, the practices of this site, or your dealings with this Web site, please contact: [customersupport@instantposition.com](mailto:customersupport@instantposition.com?subject=Instant%20Position%20Privacy%20Inquiry)
