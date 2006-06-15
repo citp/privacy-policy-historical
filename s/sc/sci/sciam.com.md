@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sciam.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230072205id_/http%3A//sciam.com/page.cfm%3Fsection%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciam.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615064842id_/http%3A//www.sciam.com/page.cfm%3Fsection%3Dprivacy) for the most accurate reproduction.*
 
 # Science & Technology at Scientific American.com: Privacy Policy
 
