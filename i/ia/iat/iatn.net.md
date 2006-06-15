@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iatn.net privacy policy that was archived on 2005-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051121094418id_/http%3A//www.iatn.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iatn.net privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615233924id_/http%3A//www.iatn.net/privacy.html) for the most accurate reproduction.*
 
 # iATN - Privacy Policy
 
@@ -14,7 +14,7 @@ iATN**](http://www.iatn.net/sitemap.asp)
 [Membership  
 Overview](http://www.iatn.net/overviews/tab_basicmembership.asp?navBar=basic)
 
-[Join iATN](http://www.iatn.net/join.asp)
+[Join iATN](http://www.iatn.net/join/)
 
 [Shop Finder](http://www.iatn.net/shopfinder/)
 
@@ -120,7 +120,7 @@ In addition, this same personal information is displayed, to some extent, with a
   * **Business Transfers** : In the unlikely event that iATN (or substantially all of its assets) are acquired, member information will most likely be one of the transferred assets. However, before such a transfer takes place, we would require that the acquiring company abide by this privacy policy when dealing with member information, and/or we will give members the opportunity to "opt out," at which point their information would NOT be transferred. 
   * **Third-Party Web Sites** : iATN does not control the privacy practices of its advertisers, sponsors, and other third-party sites that it promotes or links to. If you click through a banner ad or link and submit your information to a third-party, you will be subject to their privacy policies.
   * **Private Email from Members** : As explained in this policy, iATN does not reveal your email address to other members (although you may have decided to release that information in Interactive Content submitted on our network, which we cannot control). However, we DO make it possible for other members to contact you on iATN through the use of a form on our website. Your email address is never revealed to the member in this case. They would see only your non-private personal information, such as your name, company name, position, and general location (city, state, country, zipcode). We may also allow the general public to send private email to members in the same fashion.
-  * **Breach of Terms of Use, Guidelines, Etc.** : In the event that a registered member breaches our [Terms of Use](http://www.iatn.net/disclaim.html), [our guidelines](http://www.iatn.net/guide.html), the [member agreement](http://www.iatn.net/join.asp), or the laws governing iATN and its members, we reserve the right to use any information we have obtained from said member -- personal, or otherwise -- to (among other things) protect the property, safety, and rights of iATN. Under these circumstances, said information is not governed by this privacy policy.
+  * **Breach of Terms of Use, Guidelines, Etc.** : In the event that a registered member breaches our [Terms of Use](http://www.iatn.net/disclaim.html), [our guidelines](http://www.iatn.net/guide.html), the [member agreement](http://www.iatn.net/join/), or the laws governing iATN and its members, we reserve the right to use any information we have obtained from said member -- personal, or otherwise -- to (among other things) protect the property, safety, and rights of iATN. Under these circumstances, said information is not governed by this privacy policy.
   * **With Your Consent** : Other than as set out above, you will receive notice in the unlikely event that information about you might go to third parties, and you will have an opportunity to choose not to share the information. 
   * **Unforeseen Circumstances** : Due to the existing regulatory environment, we cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this privacy policy. For example: third parties may unlawfully intercept or access transmissions or private communications; authorities may supply search warrants for our premises; a program error, hardware glitch, network problem, or other technical issue may inadvertantly reveal personal information; we may need to disclose personal information to enforce our [Terms of Use](http://www.iatn.net/disclaim.html), or to protect the property, safety, and rights of iATN. Therefore, although we constantly strive to protect your privacy, we do not promise, and you should not expect, that your personally identifiable information or private communications will always remain private.  
 
@@ -139,7 +139,7 @@ In addition, this same personal information is displayed, to some extent, with a
 
 ### **What Information Can I Access?**
 
-We provide an [Account Settings](http://members.iatn.net/config/) page where registered members can view their personal information stored on iATN. Most of this information can be updated by members from that same location. (Note that when you update information, we usually keep a copy of the prior version for our records.) If there is any personal information listed in that area which you cannot change directly, such as your name, please contact [iATN Support](mailto:support@iatn.net). 
+We provide an [Account Settings](http://members.iatn.net/config/) page where registered members can view their personal information stored on iATN. Most of this information can be updated by members from that same location. (Note that when you update information, we usually keep a copy of the prior version for our records.) If there is any personal information listed in that area which you cannot change directly, such as your name, please contact iATN Support ([]()). 
 
 ### **What Choices Do I Have?**
 
@@ -167,7 +167,7 @@ iATN does not currently offer any services to children, and therefore does not k
 
 ### **Terms of Use, Notices, and Revisions**
 
-If you choose to visit iATN, your visit and any dispute over privacy is subject to this policy and our [Terms of Use](http://www.iatn.net/disclaim.html), including limitations on damages, arbitration of disputes, and application of the law of the state of California. If you have any concern about privacy at iATN, please email us at [support@iatn.net](mailto:support@iatn.net). 
+If you choose to visit iATN, your visit and any dispute over privacy is subject to this policy and our [Terms of Use](http://www.iatn.net/disclaim.html), including limitations on damages, arbitration of disputes, and application of the law of the state of California. If you have any concern about privacy at iATN, please email us at [](). 
 
 This policy and the [Terms of Use](http://www.iatn.net/disclaim.html) will most likely change in the future, and use of information that we gather now is subject to the privacy policy in effect at the time of our use of said information. You should check our web site frequently to see recent changes. We provide the current version number and last date of change for help identifying updated policies.
 
@@ -176,7 +176,7 @@ This policy and the [Terms of Use](http://www.iatn.net/disclaim.html) will most 
   * [Terms of Use](http://www.iatn.net/disclaim.html)
   * [The Email iATN Sends](http://www.iatn.net/nospam.html)  
 
-  * [Member Agreement (Made When Registering)](http://www.iatn.net/join.asp)
+  * [Member Agreement (Made When Registering)](http://www.iatn.net/join/)
   * [iATN Guidelines](http://www.iatn.net/guide.html)
   * [iATN Membership Overview](http://www.iatn.net/overviews/tab_basicmembership.asp?navBar=basic)
 
@@ -189,12 +189,12 @@ This policy and the [Terms of Use](http://www.iatn.net/disclaim.html) will most 
 >  Brea, California, USA 92822
 > 
 >   Phone: (714) 257-1335  
->  Email: [support@iatn.net](mailto:support@iatn.net)
+>  Email: []()
 
 ### **Privacy Policy - History**
 
-  * **Revision 1.0.4 (July 22, 2005)** Updated our mailing address.
-  * **Revision 1.0.3 (March 8, 2004)** Removed our FAX number from the contact information to avoid FAX harvesting by spammers. (Please email [support@iatn.net](mailto:support@iatn.net) if you need our FAX number.)
+  * **Revision 1.0.4 (July 22, 2006)** Updated our mailing address.
+  * **Revision 1.0.3 (March 8, 2004)** Removed our FAX number from the contact information to avoid FAX harvesting by spammers. (Please email []() if you need our FAX number.)
   * **Revision 1.0.2 (December 29, 2003)** We added this revision history section to track changes to our privacy policy. We added links to [our page discussing the email we send](http://www.iatn.net/nospam.html) to this privacy policy.
 
 
