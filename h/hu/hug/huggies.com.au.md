@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the huggies.com.au privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223193408id_/http%3A//www.huggies.com/au/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huggies.com.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615113013id_/http%3A//huggies.com.au/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Policy - Huggies
+# Privacy - Huggies
 
-## Introduction
+## Privacy
+
+### Introduction
 
 Kimberly-Clark Australia Pty Limited ("KCA") respects and upholds your rights to privacy protection under the Privacy Act 1988 (Cth) and is required to comply with the National Privacy Principles in respect of the collection, use, disclosure and handling of personal information. This Policy details the practices we have adopted to protect your privacy, so that you can feel confident about how we manage the personal information you entrust to us.
 
-## When and how do we collect personal information?
+### When and how do we collect personal information?
 
 Personal information is any information that can be used to identify you. KCA may collect information from you including your personal information (such as name, e-mail, phone number, date of birth and postal address) in the following ways:
 
@@ -17,7 +19,7 @@ Personal information is any information that can be used to identify you. KCA ma
 
 
 
-## What do we do with the personal information?
+### What do we do with the personal information?
 
 KCA's primary goal in collecting personal information is to ensure that our consumers are satisfied with our products and to provide our consumers with the best possible quality of customer service. Your personal information is never shared, sold, rented or otherwise disclosed outside the company (except as required for any statutory or legal requirements) in ways different from what is described in this Privacy Policy. We will take all reasonable steps to maintain the security and integrity of your personal information including the use of computer access passwords, lock-up cabinets, personnel policies and firewalls.
 
@@ -65,7 +67,7 @@ Resumes sent to KCA as part of an application for an advertised position, or sen
 
 If your application is not suitable to our requirements, we will inform you and destroy or de-identify your application. If your application is not suitable to our current requirements, but we feel that there may be a position in the future for you with us, we will send you a letter informing you that we will keep a record of your application and may contact you again if a suitable position becomes available.
 
-## Can you access personal information that you have submitted to us?
+### Can you access personal information that you have submitted to us?
 
 If your personal information changes (such as your address), or if you no longer wish us to keep your personal information on file, we will endeavour to provide a way to correct, update or remove your records. We may charge you a small fee to cover any administrative costs that we may incur in providing personal information to you. If you believe for any reason that we are holding inaccurate or incomplete information about you, you may ask us to correct it. If you wish to access your personal information or if you have any questions about our Privacy Policy, or any complaint regarding treatment of your privacy by us, please contact: 
 
@@ -79,13 +81,8 @@ Phone Australia: 1 800 028 334
 Fax Australia: +61 (0) 2 9963 8009  
 Phone New Zealand: 0 800 733 703
 
-E-mail: Please use our [Contact Us feedback form](http://www.kca.com.au/askus/feedback_win.asp "pop-up window to use the Kimberly-Clark Australia feedback form.").
+E-mail: Please use our [Contact Us feedback form](https://web.archive.org/web/20060615113013id_/http%3A//huggies.com.au/AboutUs/ContactUs/).
 
-## What if our Privacy Policy Changes?
+### What if our Privacy Policy Changes?
 
 We will use information in accordance with the Privacy Policy under which the information was collected. If we decide to change our Privacy Policy, we will post those changes on our websites so you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-* * *
-
-|   
----|---
