@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the videocure.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214151511id_/http%3A//videocure.com/page.php%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videocure.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615020123id_/http%3A//videocure.com/page.php%3Fprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[0-9](https://web.archive.org/music-videos/0-9/)   [A](https://web.archive.org/music-videos/a/)   [B](https://web.archive.org/music-videos/b/)   [C](https://web.archive.org/music-videos/c/)   [D](https://web.archive.org/music-videos/d/)   [E](https://web.archive.org/music-videos/e/)   [F](https://web.archive.org/music-videos/f/)   [G](https://web.archive.org/music-videos/g/)   [H](https://web.archive.org/music-videos/h/)   [I](https://web.archive.org/music-videos/i/)   [J](https://web.archive.org/music-videos/j/)   [K](https://web.archive.org/music-videos/k/)   [L](https://web.archive.org/music-videos/l/)   [M](https://web.archive.org/music-videos/m/)   [N](https://web.archive.org/music-videos/n/)   [O](https://web.archive.org/music-videos/o/)   [P](https://web.archive.org/music-videos/p/)   [Q](https://web.archive.org/music-videos/q/)   [R](https://web.archive.org/music-videos/r/)   [S](https://web.archive.org/music-videos/s/)   [T](https://web.archive.org/music-videos/t/)   [U](https://web.archive.org/music-videos/u/)   [V](https://web.archive.org/music-videos/v/)   [W](https://web.archive.org/music-videos/w/)   [X](https://web.archive.org/music-videos/x/)   [Y](https://web.archive.org/music-videos/y/)   [Z](https://web.archive.org/music-videos/z/)     
+[0-9](https://web.archive.org/music-videos/0-9/)   [A](https://web.archive.org/music-videos/a/)   [B](https://web.archive.org/music-videos/b/)   [C](https://web.archive.org/music-videos/c/)   [D](https://web.archive.org/music-videos/d/)   [E](https://web.archive.org/music-videos/e/)   [F](https://web.archive.org/music-videos/f/)   [G](https://web.archive.org/music-videos/g/)   [H](https://web.archive.org/music-videos/h/)   [I](https://web.archive.org/music-videos/i/)   [J](https://web.archive.org/music-videos/j/)   [K](https://web.archive.org/music-videos/k/)   [L](https://web.archive.org/music-videos/l/)   [M](https://web.archive.org/music-videos/m/)   [N](https://web.archive.org/music-videos/n/)   [O](https://web.archive.org/music-videos/o/)   [P](https://web.archive.org/music-videos/p/)   [Q](https://web.archive.org/music-videos/q/)   [R](https://web.archive.org/music-videos/r/)   [S](https://web.archive.org/music-videos/s/)   [T](https://web.archive.org/music-videos/t/)   [U](https://web.archive.org/music-videos/u/)   [V](https://web.archive.org/music-videos/v/)   [W](https://web.archive.org/music-videos/w/)   [X](https://web.archive.org/music-videos/x/)   [Y](https://web.archive.org/music-videos/y/)   [Z](https://web.archive.org/music-videos/z/)    
   
   
   
@@ -35,12 +35,21 @@ VideoCure.com does not represent or warrant that the Service or the server that 
     VideoCure.com realizes that there are thousands of illegally distributed copyrighted material on the Internet. All the music videos listed on this site are property of their respective owners and are strictly for educational or personal use only. Commercial use is prohibited without the owners' consent. VideoCure.com is a not-for-profit resource. All advertising proceeds are used to maintain its servers. VideoCure.com does NOT endorse the distribution of copyrighted content. When you view music videos from VideoCure.com web site you do so with the understanding that VideoCure.com and its operators will not be held accountable or responsible for violations of copyright or intellectual property laws that may occur as a result of your action.   
 **Liability**  
 
-    It is VideoCure.com's policy to respond quickly to claims of intellectual property violation. Upon receiving notification in accordance with any related copyright organization or owner, VideoCure.com will immediately disable and remove lyrics in question. 
+    It is VideoCure.com's policy to respond quickly to claims of intellectual property violation. Upon receiving notification in accordance with any related copyright organization or owner, VideoCure.com will immediately disable and remove materials in question. 
 
 To report illegal content please: 
 
 [**Click Here**](https://web.archive.org/page.php?contact)
 
-|    
+| 
+
+**Member Panel**
+
   
----|---
+  
+  
+
+
+| **Last Update** :|  June 13, 2006  
+---|---  
+**Total Videos** :|  25.951
