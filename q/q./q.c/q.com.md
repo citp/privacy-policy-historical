@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the q.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231204430id_/http%3A//www.qwest.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the q.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615170103id_/http%3A//www.qwest.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Qwest | Legal Notices
 
@@ -10,7 +10,7 @@
 
 **_ONLINE PRIVACY POLICY_**
 
-Qwest values your business and respects your privacy. This policy summarizes what information we collect from you online and how we use and disclose that information. Qwest also collects personal information from customers offline. To learn more about our privacy practices you should also review the Qwest [Privacy Policy](https://web.archive.org/web/20051231204430id_/http%3A//www.qwest.com/legal/privacyGeneral.html) and the [Qwest ChoiceTM TV & OnLine Services Customer Privacy Policy](http://www.qwest.com/legal/choice_privacy.html).
+Qwest values your business and respects your privacy. This policy summarizes what information we collect from you online and how we use and disclose that information. Qwest also collects personal information from customers offline. To learn more about our privacy practices you should also review the Qwest [Privacy Policy](https://web.archive.org/web/20060615170103id_/http%3A//www.qwest.com/legal/privacyGeneral.html) and the [Qwest ChoiceTM TV & OnLine Services Customer Privacy Policy](http://www.qwest.com/legal/choice_privacy.html).
 
 **Table of Contents**
 
@@ -92,7 +92,7 @@ Choose **View Stored Cookies** from the submenu to open the Cookie Manager windo
     * **Safari Example:**   
 Choose **Preferences** from the Safari menu and click **Security**. Select **Never** , **Always** , or **Only from sites you navigate to** , to set your preferences at the level you desire. To see the cookies stored on your computer, click **Show Cookies**. From here you have the option to remove one or two cookies or all cookies. 
   * Most browsers have instructions on how to disable cookies in their "Help" sections. Or you can reference your specific browser's Internet-based support sections below for cookie disabling instructions. 
-    * [**Microsoft ® Internet Explorer**](http://www.microsoft.com/resources/documentation/windows/xp/all/proddocs/en-us/sec_cook.msp)
+    * [**Microsoft ® Internet Explorer**](http://www.microsoft.com/windows/ie/support/)
     * [**Netscape ®**](http://browser.netscape.com/ns8/help/default.jsp)
     * [**Mozilla Firefox ™ **](http://www.mozilla.org/projects/security/pki/psm/help_21/using_priv_help.html)
     * [**Macintosh ® Safari** ](http://www.apple.com/support/safari)
