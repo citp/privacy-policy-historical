@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nikonians.org privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230050014id_/http%3A//www.nikonians.org/html/about/privacy_policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikonians.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615231912id_/http%3A//nikonians.org/html/about/privacy_policies.html) for the most accurate reproduction.*
 
 # Privacy policies at Nikonians
 
@@ -15,7 +15,7 @@ This information is automatically stored by the http server in its log files and
 
 4\. We do not sell or give away user information to any other party.
 
-5\. As a registered user, you will receive email information from our community from time to time, but this is then information pertaining directly to the community. We do not send out emails often, but when we do we feel that the information is important and that all registered users should be informed about that specific issue. Typically, these emails are not sent out more than twice a month and are very short. If you don't want to receive any emails from our community, you may send us an email and we will remove your account. This also means that your registration at Nikonians is cancelled completely.
+5\. As a registered user, you will receive email information from our community from time to time, but this is then information pertaining directly to the community. We do not send out emails often, but when we do we feel that the information is important and that all registered users should be informed about that specific issue. Typically, these emails are not sent out more than twice a month and are very short. If you don't want to receive any emails from our community, you may send us an email and we will remove your account. This also means that your registration at **Nikonians** is cancelled completely.
 
 6\. If you subscribe to message threads, these messages will automatically be sent to you via email.
 
