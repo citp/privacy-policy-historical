@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the activediner.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230081945id_/http%3A//www.activediner.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activediner.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615204747id_/http%3A//activediner.com/privacy.cfm) for the most accurate reproduction.*
 
-# ActiveDinerŽ - Privacy Statement
+# ActiveDiner© - Privacy Statement
 
   
 
@@ -42,8 +42,8 @@
 > 
 > ####  Choice/Opt-Out 
 > 
-> Our site provides users the opportunity to opt-out of receiving promotional/marketing information from our partners.  You can contact us [here](https://web.archive.org/web/20051230081945id_/http%3A//www.activediner.com/contactform.cfm). 
+> Our site provides users the opportunity to opt-out of receiving promotional/marketing information from our partners.  You can contact us [here](https://web.archive.org/web/20060615204747id_/http%3A//activediner.com/contactform.cfm). 
 > 
 > ##  Contacting the Web Site 
 > 
-> If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us [here](https://web.archive.org/web/20051230081945id_/http%3A//www.activediner.com/contactform.cfm). 
+> If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us [here](https://web.archive.org/web/20060615204747id_/http%3A//activediner.com/contactform.cfm). 
