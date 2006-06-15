@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the htmlcodetutorial.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214125849id_/http%3A//htmlcodetutorial.com/acustom/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the htmlcodetutorial.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615050051id_/http%3A//htmlcodetutorial.com/acustom/privacy.html) for the most accurate reproduction.*
 
 # Contact Us - HTML Code Tutorial
 
@@ -21,4 +21,5 @@ By using our Website, you give HTML Code Tutorial permission to collect informat
 
 * * *
 
-  Copyright 1997-2002. Content in this guide is offered freely to the public under the terms of [Open Content License](https://web.archive.org/web/20051214125849id_/http%3A//htmlcodetutorial.com/oclicense.html) and [Open Publication License](https://web.archive.org/web/20051214125849id_/http%3A//htmlcodetutorial.com/oplicense.html). Contents may be redistributed or republished freely under these terms so long as credit to the original creator and contributers is maintained.
+  
+Copyright 1997-2002. Content in this guide is offered freely to the public under the terms of [Open Content License](https://web.archive.org/web/20060615050051id_/http%3A//htmlcodetutorial.com/oclicense.html) and [Open Publication License](https://web.archive.org/web/20060615050051id_/http%3A//htmlcodetutorial.com/oplicense.html). Contents may be redistributed or republished freely under these terms so long as credit to the original creator and contributers is maintained.
