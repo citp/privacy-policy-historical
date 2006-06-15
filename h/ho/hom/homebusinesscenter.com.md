@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homebusinesscenter.com privacy policy that was archived on 2005-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051130231011id_/http%3A//www.homebusinesscenter.com/disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homebusinesscenter.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615213747id_/http%3A//www.homebusinesscenter.com/disclaimer.html) for the most accurate reproduction.*
 
 # Home Business Center disclaimer and privacy policy.
 
@@ -18,4 +18,4 @@ HomeBusinessCenter.com provides links to other remote websites. Therefore, we ar
 
 HomeBusinessCenter.com cannot guarantee any amount of income from a business opportunity or profits from a marketing service since each individual and every home business is different. Your participation in these business opportunities and services is solely at your own risk. 
 
-If you have any questions, please do not hesitate to contact us directly at [**HomeBusinessCenter.com**](mailto:support@homebusinesscenter.com)
+If you have any questions, please do not hesitate to contact us directly at [**HomeBusinessCenter.com**](http://www.homebusinesscenter.com/support.html)
