@@ -1,15 +1,24 @@
-> *The following text is extracted and transformed from the chaptercheats.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210061521id_/http%3A//chaptercheats.com/main/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chaptercheats.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615205803id_/http%3A//chaptercheats.com/main/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement
 
-|   
+| 
 
+MEMBER AREA
 
 CHAPTER CHEATS
 
+  
+
+
 MAIN MENU
 
-[](http://join1.winhundred.com/affiliate/link.php?ref=12949&productid=118&cid=1495&sid=chap) |  | 
+SUB MENU
+
+  
+  
+  
+|  | 
 
 **PRIVACY STATEMENT**
 
@@ -24,7 +33,9 @@ As a result of entering your details, you will never receive so-called "junkmail
 The details you will be asked for are simply required to ensure people do not register for facilities on our website with no intention of using them.
 
 **Copyright:**  
-The website design is our property - therefore graphics can not be taken from here and reproduced in any way whatsoever without written permission from one of our administrators. Email: [admin@chaptercheats.com](mailto:admin@chaptercheats.com)
+The website design is our property - therefore graphics can not be taken from here and reproduced in any way whatsoever without written permission from one of our administrators. 
+
+Email: admin[at]chaptercheats[dot]com
 
 Also note that we are in no way affiliated or associated with [Microsoft Coporation](http://www.microsoft.com/).
 
@@ -45,43 +56,41 @@ In the course of serving advertisements to this site, our third-party advertiser
   
 Visit Adtegrity's privacy policy HERE: <http://www.adtegrity.com/privacy.asp>
 
-© 1999-2005, Chaptercheats.com
+© 1999-2006,   
+[www.chaptercheats.com](http://www.chaptercheats.com/)  
+[www.chaptercheats.eu](http://www.chaptercheats.eu/)  
+[www.chaptercheats.org](http://www.chaptercheats.org/)  
+[www.chaptercheats-diamond.com](http://www.chaptercheats-diamond.com/)  
+[www.chaptercheats-diamond.eu](http://www.chaptercheats-diamond.eu/)  
 
-  
-|   |   
+
+**Contact Form**
+
+**About Us**
+
+Chaptercheats.com is the web's number one destination for video game console cheats...and much, much more!
+
+Chaptercheats launched in November 1999, with the goal of becoming the world's best online cheatsite. Chaptercheats is owned by a company called EDF Sitestreet that is stored in the Netherlands and founded by E.A de Frankrijker. Chaptercheats is the official home of cheat system and enhancements for all the latest games, whether you own a PlayStation2, GameCube, Xbox, PSone, Game Boy Advance or older platforms, we've got it covered.
+
+We hope that you've enjoyed what Chaptercheats has delivered thus far, and we hope that the best is yet to come. 
+
+Thanks for reading.
+
+|   | 
+
+**[Gamers Brain.com](http://www.gamersbrain.com/)**  
+brings you the latest game news, reviews, previews, screenshots and much more...   
 
 
-**[GamersBrain.com](http://www.gamersbrain.com/)**  
-brings you the latest game news, reviews, previews, screenshots and much more...
+**[Chapter Cheats.com](http://www.chaptercheats.com/)**  
+web's number one destination for video game console cheats, hints and much more!  
 
-**[ChapterCheats.com](http://www.chaptercheats.com/)**  
-web's number one destination for video game console cheats, hints and much more!
 
-**[ChapterCheats.com Forums](http://forums.chaptercheats.com/)**  
+**[Messageboard](http://forums.chaptercheats.com/)**  
 post questions or share secrets that you've found with others on this very popular forum  
 
 
-**AFFILIATES**  
-»[ Cheat Attic](http://www.cheatattic.com/)  
-»[ Cheat Desk](http://www.cheatdesk.com/)  
-»[ CheatFactory](http://www.thecheatfactory.com/)  
-»[ Cheat Platform](http://www.cheatplatform.com/)  
-»[ GameZone](http://www.gamezone.com/)  
-»[ Cheat Solution](http://www.cheatsolution.com/)  
-»[ Starpulse](http://www.starpulse.com/)  
-»[ CaptianCode](http://www.captaincode.com/)  
-»[ Cheat Arsenal](http://www.cheatarsenal.com/)  
-»[ CaptianCode](http://www.captaincode.com/)  
-»[ CheatingDome](http://www.cheatingdome.com/)  
-»[ Cheat Happens](http://www.cheathappens.com/)  
-»[ CheatMasters](http://www.cheatmasters.com/)  
-»[ Activegamer](http://www.activegamer.com/)  
-»[ Cheat Brain](http://www.cheatbrain.com/)  
-»[ Cheats.it](http://www.cheats.it/)  
-»[ ABC Cheats](http://www.abccheats.com/)  
-»[ Abby Cheat](http://www.abby-cheat.com/)  
-»[ Ringtone Desk](http://www.ringtonedesk.com/)  
-»[ CheatSearcher](http://www.cheatsearcher.com/)  
-
-
+  
+  
+  
 |  
