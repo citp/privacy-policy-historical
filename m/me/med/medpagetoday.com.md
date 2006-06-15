@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medpagetoday.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218130520id_/http%3A//www.medpagetoday.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medpagetoday.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615032901id_/http%3A//www.medpagetoday.com/privacy.cfm) for the most accurate reproduction.*
 
 # MedPage Today
 
@@ -39,7 +39,7 @@ Your Web browser can be set to allow you to control whether you will accept cook
 
 Although cookies do not normally contain personally identifiable information, if you are a registered user we may associate your registration information with cookies our Web site places on your computer's hard drive. Associating a cookie with your registration data allows us to offer increased personalization and functionality. For example, you can elect to have our Web site "remember" you. Without cookies, this functionality would not be possible. 
 
-We may use your personal information to provide to you advertisements, promotions and information relevant to your use of the Web site. If you do not want to receive email communications, you should [update your profile](https://web.archive.org/web/20051218130520id_/http%3A//www.medpagetoday.com/updprof.cfm). 
+We may use your personal information to provide to you advertisements, promotions and information relevant to your use of the Web site. If you do not want to receive email communications, you should [update your profile](https://web.archive.org/web/20060615032901id_/http%3A//www.medpagetoday.com/updprof.cfm). 
 
 **We do not control the use of cookies by third parties with respect to certain pages of our Web site that are placed by third parties.**   
 
