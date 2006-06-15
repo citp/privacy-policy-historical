@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the napster.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230154322id_/http%3A//www.napster.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the napster.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615050928id_/http%3A//www.napster.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Napster - Privacy Policy
 
@@ -101,6 +101,6 @@ We may display links to other sites within the Napster service. We are not respo
 
 If you have any questions about this privacy policy, or the privacy practices of Napster, you can email [privacy@napster.com](mailto:privacy@napster.com) or write to: Napster, 28 West 44th Street, 6th Floor, New York, 10036, Attn: PRIVACY OFFICER. 
 
-© 2004 Napster, LLC. 
+© 2003-2006 Napster, LLC. 
 
 |  | 
