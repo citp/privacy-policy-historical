@@ -1,14 +1,7 @@
-> *The following text is extracted and transformed from the hostelworld.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210173149id_/http%3A//www.hostelworld.com/privacy.php%3Fnopopup%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostelworld.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615203910id_/http%3A//www.hostelworld.com/privacy.php%3Fnopopup%3D1) for the most accurate reproduction.*
 
 # Hostelworld.com - Secure Online Bookings at Hostels Worldwide
 
-|  |   
----  
-|  |  | 
-
-### Hostelworld.com Privacy Policy
-
-|  |   
 |   |  |   
 ---|---|---  
   
