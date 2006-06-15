@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tophosts.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212085103id_/http%3A//www.tophosts.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tophosts.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615023216id_/http%3A//www.tophosts.com/privacy.html) for the most accurate reproduction.*
 
 # Web Hosting Resource and Directory since 1997 - Tophosts.com
 
@@ -45,7 +45,7 @@ VerticalScope Inc. (hereafter referred to as VerticalScope) has created this pri
 
 **Consent**
 
-  * If you do not consent to the collection, use or disclosure of your personal information as outlined in this statement, please do not provide any personal information to VerticalScope. If you have provided personal information to VerticalScope and no longer consent to its use or disclosure as outlined herein, please notify VerticalScope at [privacy@verticalscope.com](mailto:privacy@verticalscope.com). 
+  * If you do not consent to the collection, use or disclosure of your personal information as outlined in this statement, please do not provide any personal information to VerticalScope. If you have provided personal information to VerticalScope and no longer consent to its use or disclosure as outlined herein, please notify VerticalScope at [privacypolicy@verticalscope.com](mailto:privacypolicy@verticalscope.com). 
 
 
 
@@ -72,33 +72,6 @@ VerticalScope Inc. (hereafter referred to as VerticalScope) has created this pri
 
 **Questions or Suggestions**
 
-  * If you have questions or suggestions about this privacy statement, or your own personal information, please e-mail us at [privacy@verticalscope.com.](mailto:privacy@verticalscope.com)
+  * If you have questions or suggestions about this privacy statement, or your own personal information, please e-mail us at [privacypolicy@verticalscope.com.](mailto:privacypolicy@verticalscope.com)
 
-|  |  |   
----  
-[ ](https://web.archive.org/pages/top25/)  
-  
-[ ](https://www.tophosts.com/store/THS/order.step0.php)  
-  
-[](https://web.archive.org/RealMedia/ads/click_lx.ads/www.tophosts.com/pages/privacy.html/887691962/Right/gate-sky-th/gate_160x600_final.gif/64316564656561643433396433396630)  
-  
-[**Aplus.Net**](http://www.tophosts.com/RealMedia/ads/click_lx.ads/www.tophosts.com/pages/privacy.html/830140159/Middle1/aplus-sponsorlink-th/roslink.html/64316564656561643433396433396630)  
-•Hosting from $5.95. Ranked in the TOP 5 by Tophost. Take their word not ours.
 
-[ **Hostmysite**](http://www.tophosts.com/RealMedia/ads/click_lx.ads/www.tophosts.com/pages/privacy.html/1553815136/Middle2/hostmysite-sponsor-th/host_link.html/64316564656561643433396433396630)  
-•Hostmysite.com Dedicated Servers - 100% uptime guarantee CALL 1-888-894-4678
-
-[**Earthlink Web Hosting**](http://www.tophosts.com/RealMedia/ads/click_lx.ads/www.tophosts.com/pages/privacy.html/1271457965/Middle3/earthlink-sponsorlinknew-th/link.html/64316564656561643433396433396630)  
-• **EarthLink® Web Hosting** \- 6 months half price & FREE Setup - **1-800-863-6400**.
-
-[**Start Logic**](http://www.tophosts.com/RealMedia/ads/click_lx.ads/www.tophosts.com/pages/privacy.html/477604214/Frame1/startlogic-sponsorlink-th/startlogic-sponsorlink-textlink-160304.html/64316564656561643433396433396630)  
-•StartLogic Web Site Hosting for 6.50/mo  
-FREE DOMAIN & FREE SETUP - Learn More!  
-  
-TopHosts Poll | What frustrates you most about your Web host?  
----  
-Customer Service  
-Price  
-Website Downtime  
-All of the above  
-[Click here to view previous polls](http://www.tophosts.com/pages/pastpolls.html)
