@@ -1,35 +1,64 @@
-> *The following text is extracted and transformed from the certainteed.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231211109id_/http%3A//certainteed.com/certainteed/corporate/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the certainteed.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615220810id_/http%3A//www.certainteed.com/certainteed/undefined/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy
 
-CertainTeed Corporation (the "Company") respects your privacy. We have adopted the following policies and procedures to ensure that any information you provide to us on the CertainTeed Web Site (the "Site") is treated appropriately and with your full knowledge and consent. The purpose of this Privacy Statement is to explain what information we may collect from you and how this information may be used. **WHAT TYPE OF PERSONAL INFORMATION IS COLLECTED ON THIS SITE AND HOW IS IT USED?**  
-Certain areas of the Site may request that you voluntarily supply us with personal information. These requests are limited to specific activities on the Site where the use of such information is necessary such as to process an online transaction or respond to a request for product literature. Your participation in these activities is completely optional. |  | **Requests for Literature or Other Information.** In many cases we offer additional information about the products and services described on the Site. To request this information, you must supply us with certain contact information such as your name, mailing address and email address. **Ordering Information,** Certain transactional information must be supplied to the Company to place an order such as your name, your company name, shipping address, email address and certain financial information (e.g., credit card number, expiration date). This information is used solely for billing and collection purposes. The contact information may also be used by us in connection with certain marketing activities such as a promotion or new product announcements. The Company will refrain from making these types of communications to customers who have opted out of these programs as described further below. **Warranty Registration.** In some cases, you may be able to submit your product warranty registration to us through this Site. Our warranty registration process requires you to supply us with certain information about you (such as your name and mailing address) and the products being registered. We may also ask you to supply us with additional information in connection with marketing surveys. **Sweepstakes and Contests.** When you enter a contest or other promotional event offered at this Site, we may ask for your name, address, telephone number and e-mail address. This information is used to administer the contest and notify winners. **Site Use Data.** The Company may also collect other information from customers and visitors to the Site such as the user’s IP address, domain name, length of time spent on the Site, and the pages accessed during each visit to the Site. The Company uses this information to analyze trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.  
-Back to Top   
+|       | | [ROOFING](https://web.archive.org/CertainTeed/Undefined/Roofing/)| [INSULATION](https://web.archive.org/CertainTeed/Undefined/Insulation/)| [SIDING](https://web.archive.org/CertainTeed/Undefined/Siding/)| [WINDOWS](https://web.archive.org/CertainTeed/Undefined/Windows/)| [FOUNDATIONS](https://web.archive.org/CertainTeed/Undefined/Foundations/)| [FENCE/RAILING/DECK](https://web.archive.org/CertainTeed/Undefined/FenceDeckRail/)| [PIPE](https://web.archive.org/CertainTeed/Undefined/Pipe/)|         
+---|---|---|---|---|---|---|---|---|---  
+|  |  |    
+  
+---  
+  
+[](http://team.certainteed.com/)  
+  
+|   
+---  
+  
+  
+  
+CertainTeed Corporation (the "Company") respects your privacy. We have adopted the following policies and procedures to ensure that any information you provide to us on the CertainTeed Web Site (the "Site") is treated appropriately and with your full knowledge and consent. The purpose of this Privacy Statement is to explain what information we may collect from you and how this information may be used.
+
+  
+Certain areas of the Site may request that you voluntarily supply us with personal information. These requests are limited to specific activities on the Site where the use of such information is necessary such as to process an online transaction or respond to a request for product literature. Your participation in these activities is completely optional.  
+Back to Top
+
+|  | 
+
+• **Requests for Literature or Other Information**. In many cases we offer additional information about the products and services described on the Site. To request this information, you must supply us with certain contact information such as your name, mailing address and email address.
+
+• **Ordering Information,** Certain transactional information must be supplied to the Company to place an order such as your name, your company name, shipping address, email address and certain financial information (e.g., credit card number, expiration date). This information is used solely for billing and collection purposes. The contact information may also be used by us in connection with certain marketing activities such as a promotion or new product announcements. The Company will refrain from making these types of communications to customers who have opted out of these programs as described further below.
+
+• **Warranty Registration.** In some cases, you may be able to submit your product warranty registration to us through this Site. Our warranty registration process requires you to supply us with certain information about you (such as your name and mailing address) and the products being registered. We may also ask you to supply us with additional information in connection with marketing surveys.  
+Back to Top
+
+• **Sweepstakes and Contests.** When you enter a contest or other promotional event offered at this Site, we may ask for your name, address, telephone number and e-mail address. This information is used to administer the contest and notify winners.
+
+• **Site Use Data.** The Company may also collect other information from customers and visitors to the Site such as the user’s IP address, domain name, length of time spent on the Site, and the pages accessed during each visit to the Site. The Company uses this information to analyze trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.  
+Back to Top  
   
 ---|---  
   
-**HOW WILL THE COMPANY PROTECT MY PERSONAL INFORMATION?**  
+  
 We will not share your personal information with third parties (aside from entities that perform services for us, such as fulfilling orders, that either are bound to comply with our Privacy Statement or have privacy policies that protect your information) without your permission.
 
 Certain information supplied by you to our Site may be password-protected, and you should take appropriate measures to protect the secrecy of your password. If you use a computer in a public place or share a computer with others, remember to sign out and close your browser window when you finish accessing our Site in order to prevent others from accessing your personal information. You are solely responsible for the control and use of each password you create.
 
-The Company may disclose information you have provided to us if we have a good faith belief that such disclosure is necessary to (1) comply with the law or with legal process served on the Company; or (2) protect and defend the rights or property of the Company.
-
-If we gather demographic information from you (for example, your age, education level or household income), we will not share that information in a manner that identifies you as an individual with any other entity, unless we let you know that at the time of collection. When we share demographic information with third parties, we will give them aggregate information only.  
+The Company may disclose information you have provided to us if we have a good faith belief that such disclosure is necessary to (1) comply with the law or with legal process served on the Company; or (2) protect and defend the rights or property of the Company.  
 Back to Top
 
- **WHAT ARE "COOKIES" AND DOES THIS SITE USE THEM?**  
-"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Most web browsers automatically accept cookies, but you can usually change your browser to prevent that if you would rather not store the information for future use. Our cookies enable us to provide you with more personal service. The Company uses cookies to facilitate the administration of the Site and enhance the content of the Site for our users. **WHAT SECURITY MEASURES ARE EMPLOYED BY YOUR SITE?**  
-The Company has security measures in place to protect the loss, misuse and alteration of the information under our control. These include a firewall to prevent unauthorized access to our systems and maintenance of registration information in a separate database. Although we will exercise reasonable care in providing secure transmission of information between your computer and our servers, we cannot ensure or warrant the security of any information transmitted to us over the Internet. We will protect the transmission of credit card and other transactional information through industry standard, SSL (secure socket layer) encryption.   
-Back to Top **WHAT ABOUT YOUR LINKS TO OTHER WEB SITES? IS MY INFORMATION PROTECTED BY THESE SITES?  
-**This Site may contain links to other web sites. Please be aware that the Company is not responsible for the privacy practices of such other sites. The Company encourages our users to be aware when they leave this Site and to read the privacy statements of each and every web site that collects personally identifiable information. This Privacy Statement applies solely to information collected by this Site. Additionally, the existence of any external link does not suggest that we are endorsing the linked company or its products or services. **A SPECIAL NOTE ABOUT CHILDREN**  
-This Site is not intended for use by children under the age of 13. The Company does not intend to collect any personal information or data from individuals that identify themselves as children under the age of 13. 
+If we gather demographic information from you (for example, your age, education level or household income), we will not share that information in a manner that identifies you as an individual with any other entity, unless we let you know that at the time of collection. When we share demographic information with third parties, we will give them aggregate information only.
 
-We believe parents should supervise their children's online activities and consider using parental control tools available from online services and software manufacturers that help provide a kid-friendly online environment. These tools can also prevent children from otherwise disclosing online their name, address, and other personal information without parental permission. 
+" Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Most web browsers automatically accept cookies,but you can usually change your browser to prevent that if you would rather notstore the information for future use. Our cookies enable us to provide you withmore personal service. The Company uses cookies to facilitate the administrationof the Site and enhance the content of the Site for our users.
 
-**CHANGES TO OUR POLICY**  
-The Company will notify you of changes to its user privacy and information usage practices by posting the changes on this page. Please check the revision date at the bottom of this Privacy Policy to determine if the policy has been modified since you last reviewed it. **CONDITIONS OF USE**  
-Your use of the Site, including any dispute concerning privacy, is subject to this Privacy Statement and the Company’s Terms and Conditions of Use . By using this Site, you are accepting the practices set out in this Statement and those Terms.
+  
+The Company has security measures in place to protect the loss, misuse and alteration of the information under our control. These include a firewall to prevent unauthorized access to our systems and maintenance of registration information in a separate database. Although we will exercise reasonable care in providing secure transmission of information between your computer and our servers, we cannot ensure or warrant the security of any information transmitted to us over the Internet. We will protect the transmission of credit card and other transactional information through industry standard, SSL (secure socket layer) encryption.  
+Back to TopThis Site may contain links to other web sites. Please be aware that the Company is not responsible for the privacy practices of such other sites. The Company encourages our users to be aware when they leave this Site and to read the privacy statements of each and every web site that collects personally identifiable information. This Privacy Statement applies solely to information collected by this Site. Additionally, the existence of any external link does not suggest that we are endorsing the linked company or its products or services.This Site is not intended for use by children under the age of 13. The Company does not intend to collect any personal information or data from individuals that identify themselves as children under the age of 13.
 
-**REVISION DATE**  
+We believe parents should supervise their children's online activities and consider using parental control tools available from online services and software manufacturers that help provide a kid-friendly online environment. These tools can also prevent children from otherwise disclosing online their name, address, and other personal information without parental permission.  
+Back to Top
+
+  
+The Company will notify you of changes to its user privacy and information usage practices by posting the changes on this page. Please check the revision date at the bottom of this Privacy Policy to determine if the policy has been modified since you last reviewed it.Your use of the Site, including any dispute concerning privacy, is subject to this Privacy Statement and the Company’s Terms and Conditions of Use. By using this Site, you are accepting the practices set out in this Statement and those Terms.
+
 02/11/04
+
+Back to Top
