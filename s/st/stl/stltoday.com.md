@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the stltoday.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212140316id_/http%3A//www.stltoday.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stltoday.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210119id_/http%3A//www.stltoday.com/help/privacy-policy) for the most accurate reproduction.*
 
 # STLtoday - Help Center - Privacy Policy
 
 Privacy Policy
 
-07/01/2004
+  
+
 
 STLtoday.com believes in keeping your confidential information just that...confidential. Subject to the terms below, we will not sell to or share with anyone your personally identifiable information. We will share with potential advertisers only aggregate visitor information. 
 
@@ -99,6 +100,3 @@ Your registered account is protected with a password. You must take care not to 
 We may change this Privacy Policy from time to time and will post notices on this site at the time of any material changes to this Privacy Policy. Your continued use of the STLtoday.com site following the posting of changes to these terms will mean you accept those changes. 
 
 If you have questions or concerns regarding STLtoday.com’s Privacy Policy, please e-mail STLtoday.com at sitehelp@STLtoday.com. 
-
-  
-
