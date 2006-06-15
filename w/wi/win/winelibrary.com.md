@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the winelibrary.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210162124id_/http%3A//winelibrary.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winelibrary.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615132040id_/http%3A//winelibrary.com/privacy.asp) for the most accurate reproduction.*
 
-# Our Privacy Policy - Winelibrary
+# Our Privacy Policy - Wine Library
 
 **Our Commitment to Privacy**
 
