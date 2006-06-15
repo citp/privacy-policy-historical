@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogware.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215081028id_/http%3A//www.tucows.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogware.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615202642id_/http%3A//www.tucows.com/privacy.html) for the most accurate reproduction.*
 
 # Tucows Privacy Statement Information
 
@@ -37,6 +37,8 @@ Tucows.com occasionally conducts customer surveys to better target our content a
 ## Contests and sweepstakes
 
 Tucows.com offers contests and sweepstakes in which we request certain personal information. These contests and sweepstakes are conducted in full accordance with United States and Canadian federal and state laws. The full rules and all information about such contests are clearly posted during such events. Information gathered is used only to verify user identity and to contact winners and/or prize recipients, except when specifically noted otherwise. Again, we do not share information about specific individuals with any third party, except as noted previously. 
+
+## Usage tracking
 
 Tucows.com tracks user traffic patterns throughout Tucows.com and this information is correlated with data about individual users. Overall usage statistics, according to a user's domain name, browser type and MIME type gotten by reading this information from the browser string (information contained in every user's browser), are also broken down. 
 
