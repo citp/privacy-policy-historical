@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boingo.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210075253id_/http%3A//www.boingo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boingo.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615211448id_/http%3A//boingo.com/privacy.html) for the most accurate reproduction.*
 
 # Boingo Wireless - Privacy Policy
 
@@ -59,7 +59,7 @@ Boingo has instituted internal safeguards to reduce the likelihood of accidental
   
 This privacy policy is effective as of November 15, 2001. Boingo reserves the right to change this policy at any time. By using the Boingo service, you are acknowledging and accepting all terms and conditions outlined in this Boingo Wireless, Inc. privacy policy. 
 
-If you have any questions regarding this policy statement, please e-mail us or [info@boingo.com](mailto:info@boingo.com). 
+If you have any questions regarding this policy statement, please e-mail us at [info@boingo.com](mailto:info@boingo.com). 
 
 This privacy and security pledge is part of our contract with you. Thank you for choosing Boingo Wireless, Inc. 
 
