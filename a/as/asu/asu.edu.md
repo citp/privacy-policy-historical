@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the asu.edu privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212141159id_/http%3A//www.asu.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asu.edu privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615203033id_/http%3A//www.asu.edu/privacy) for the most accurate reproduction.*
 
-# Arizona State University | Privacy Statement
-
-[Home](https://web.archive.org/) > **Privacy Statement**
+# ASU's Privacy Statement
 
 ASU provides online information and services to students, employees and the public to supplement services provided on campus. This privacy statement provides information required by Arizona law about privacy, confidentiality and related policies for individuals who use our websites and online services. Individual websites may provide additional information about privacy. [ACD 125](http://www.asu.edu/aad/manuals/acd/acd125.html) (ASU Computer, Internet and Electronic Communications Policy) provides additional information about the use of computing and communications systems at ASU and is available at <http://www.asu.edu/aad/manuals/acd/acd125.html>.
 
