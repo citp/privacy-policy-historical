@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utexas.edu privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224030704id_/http%3A//www.utexas.edu/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utexas.edu privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615204835id_/http%3A//www.utexas.edu/policies/privacy) for the most accurate reproduction.*
 
 # The University of Texas at Austin Web Privacy Policy
 
@@ -11,7 +11,7 @@ As part of our commitment to maintain the privacy of our Web users, The Universi
 
 
 
-The University of Texas at Austin also complies with the Family Educational Rights and Privacy Act (FERPA), which prohibits the release of education records without student permission. For more details on FERPA, currently enrolled students should see the [University's General Information Catalog](http://www.utexas.edu/student/registrar/catalogs/gi01-02/app/appc09.html). Although FERPA regulations apply only to UT Austin students, The University of Texas is equally commited to protecting the privacy of all visitors to our Web site. 
+The University of Texas at Austin also complies with the Family Educational Rights and Privacy Act (FERPA), which prohibits the release of education records without student permission. For more details on FERPA, currently enrolled students should see the [University's General Information Catalog](http://www.utexas.edu/student/registrar/catalogs/gi05-06/app/appc09.html). Although FERPA regulations apply only to UT Austin students, The University of Texas is equally commited to protecting the privacy of all visitors to our Web site. 
 
 * * *
 
@@ -62,7 +62,7 @@ Several sites within The University of Texas at Austin enable you to pay for pro
 
 The University of Texas at Austin does, upon explicit request of users, share information with other parties and gather information from other private data providers. For example, the University receives test scores from testing agencies and will send transcripts to other schools. This is done only at the request of users (persons to whom the information applies). Unless specifically required under public information requests filed under the Texas Public Information Act, it is against University policy to release confidential information gathered through the Web, such as pages visited, or personalized preferences. For example, the University's portal, UT Direct, enables users to customize the content they see on their personal page. This information cannot be shared with external third parties.
 
-Consistent with FERPA, we do not release personal student information, other than public directory information, to other parties unless we receive explicit written authorization to do so. UT Austin students can read more about directory information in the [University's General Information Catalog](http://www.utexas.edu/student/registrar/catalogs/gi00-01/app/appc09.html). Examples of directory information include first and last name, address, and date of birth. Enrolled students can restrict release of their directory information by contacting the Office of the Registrar.
+Consistent with FERPA, we do not release personal student information, other than public directory information, to other parties unless we receive explicit written authorization to do so. UT Austin students can read more about directory information in the [University's General Information Catalog](http://www.utexas.edu/student/registrar/catalogs/gi05-06/app/appc09.html). Examples of directory information include first and last name, address, and date of birth. Enrolled students can restrict release of their directory information by contacting the Office of the Registrar.
 
 ### Public Forums 
 
