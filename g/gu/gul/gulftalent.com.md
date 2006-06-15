@@ -1,8 +1,15 @@
-> *The following text is extracted and transformed from the gulftalent.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305011211id_/http%3A//www.gulftalent.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gulftalent.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615205639id_/http%3A//www.gulftalent.com/home/cntPrivacy.php) for the most accurate reproduction.*
 
-# Gulf Talent.com: Middle East Jobs
+# GulfTalent.com Privacy Policy
 
-|  | **Privacy Policy**  
+|   
+---  
+  
+[](http://www.khaleejtimes.com/)  
+  
+   
+  
+| **Privacy Policy**  
 ---  
 **Introduction**  
 GulfTalent is committed to protecting the privacy of your personal data collected at this website. This statement summarizes the policies of this website regarding the collection, use, and transfer of your personal data, and the security measures GulfTalent employs to protect such data.  
@@ -34,6 +41,28 @@ GulfTalent will periodically send you website update information and service ann
 Please be aware that this website may contain links to third-party websites. This Privacy Policy applies solely to information collected by this website. This Privacy Policy does not apply to, nor is GulfTalent responsible for, any content, privacy practices, or conduct of such websites. We encourage our users to be aware when they leave our site and to read the privacy policies of each and every website including those that collect personally identifiable information.  
 **Cookies**  
 Cookies are packets of information that are stored on your computer's hard drive. At www.gulftalent.com, cookies allow us to keep track of the areas of the site you visit and thereby offer you easy access to the information you find most relevant. They also allow us to greet you by name when you visit and to remember that you have already registered. No secure information or information about your personal identity is ever contained within our cookies. Your web browser is most likely set to automatically accept cookies, but you can consult your browser help file if you wish to change these settings. If you elect not to receive cookies, registered users will not be able to view a personalized home page, and will view the default homepage instead.  
+**Resume Privacy Options**  
+When you post your resume, GulfTalent automatically creates a registration for you using the email address and password that you supply. When you return to the site in the future you will use that same email address and password to access and edit your existing resume. 
+
+GulfTalent recognises that job seekers have different levels of comfort in posting their resume on the internet. To accommodate the needs of all users, GulfTalent offers three levels of privacy from which to choose from. 
+
+Standard Posting gives job seekers the most visibility to the broadest employer and/or recruiter audience possible, making the resume including full name and contact details searchable by all third-parties who have subscribed to GulfTalent’s database search service. 
+
+Private Posting will allow the resume to be searched, without the name or contact information being displayed. In this case, interested parties can only contact the candidate through GulfTalent. 
+
+Hidden Posting allows the user to post his/her resume on GulfTalent without permitting it to be searched by third parties. In this case, the resume can only be viewed by a third-party if the candidate applies for a vacancy advertised by that third-party. 
+
+In addition, GulfTalent distinguishes between ‘Employers’ and ‘Recruitment Agencies’ and allows users to specify their desired privacy and visibility options vis-à-vis each group separately.   
+  
 **Changes To The Privacy Policy**  
 GulfTalent reserves the right to modify or amend the Privacy Policy at any time and for any reason. Please check back to this Privacy Policy from time to time to stay informed.  
-Nothing contained in this Privacy Policy is intended to create a contract or agreement between GulfTalent and any user visiting the site or providing identifying information in any form. If you have any questions about your personal information, please email GulfTalent at [info@gulftalent.com](mailto:info@gulftalent.com?)
+Nothing contained in this Privacy Policy is intended to create a contract or agreement between GulfTalent and any user visiting the site or providing identifying information in any form. If you have any questions about your personal information, please email GulfTalent at [info@gulftalent.com](mailto:info@gulftalent.com?)  
+|    
+
+
+  **Latest Research**        
+
+
+  
+  
+---
