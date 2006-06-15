@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the daviscup.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228202100id_/http%3A//www.daviscup.com/about/legal.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daviscup.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615204844id_/http%3A//www.daviscup.com/about/legal.asp) for the most accurate reproduction.*
 
 # Davis Cup - Legal Information
 
-The following provides detail about our Privacy Policy.   
+The following provides detail about our Privacy Policy. 
+
 We treat your privacy seriously.
 
-_Notice: This policy only applies to web sites run by ITF and not to the companies, individuals, organisations or other web sites to which there are links._
+_Notice: This policy only applies to websites run by the ITF and not to the companies, individuals, organisations or other websites to which there are links._
 
 **Consent**
 
@@ -21,7 +22,7 @@ You may provide data in connection with tournaments and rankings which may be pu
 
 If you enter a competition or promotion we will ask for your name, address and Email address.
 
-We will collect information about your tastes and preferences both when you tell us what these are and by analysis of customer traffic, including by using cookies (see below).
+We will collect information about your tastes and preferences both when you tell us what these are and by analysis of customer traffic. 
 
 It may be that some of the personal information you give us (for instance about your lifestyle or health) is sensitive personal data within the meaning of the Data Protection Act 1998. Any such information ("sensitive information") will only be disclosed with your express consent.
 
@@ -45,8 +46,4 @@ We reserve the right to access and disclose individually identifiable informatio
 
 We have strict security procedures covering the storage and disclosure of your information in order to prevent unauthorised access and to comply with the Data Protection Act 1998. This means that sometimes we may ask you for proof of identity before disclosing any personal information to you.
 
-**Cookies**
-
-A cookie is a piece of information that is stored on your computer's hard drive by your web browser. We may use cookies to identify returning visitors to our websites and obtain information about your last visit. Most browsers accept cookies automatically, but usually you can alter the settings of your browser to prevent automatic acceptance. If you choose not to receive cookies, you may still use most of the features of our web site, including purchasing items. 
-
-^ [Back to Top](http://www.daviscup.com/about/legal.asp#top)
+^ [Back to Top](http://www.daviscup.com/about/legal.asp#top)
