@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fertilethoughts.com privacy policy that was archived on 2005-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051123173217id_/http%3A//www.fertilethoughts.net/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fertilethoughts.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615211220id_/http%3A//www.fertilethoughts.net/privacystatement.html) for the most accurate reproduction.*
 
 # Fertile Thoughts
 
@@ -85,7 +85,7 @@ We have business relationships that can be viewed under our [Partners and Affili
 
 \- To change or remove a chat you have scheduled on the [Calendar](http://www.fertilethoughts.net/chat/calendar.html), please write to [Dave@FertileThoughts.com](mailto:dave@fertilethoughts.com). Please write Feedback in the subject line of the email sent otherwise it will not be addresses.
 
-\- To have your picture removed from the [Picture Album](http://www.fertilethoughts.net/album/pictures/main.htm), or your entry removed from the [Guest Book](http://www.fertilethoughts.net/infertility/interact/guestbook/index.html), please write to [Dave@FertileThoughts.com](mailto:dave@fertilethoughts.com). Please write Feedback in the subject line of the email sent otherwise it will not be addresses.
+\- To have your picture removed from the [Picture Album](http://www.fertilethoughts.net/album/pictures/main.htm), or your entry removed from the [Guest Book](http://www3.fertilethoughts.com/forums/guestbook.php), please write to [Dave@FertileThoughts.com](mailto:dave@fertilethoughts.com). Please write Feedback in the subject line of the email sent otherwise it will not be addresses.
 
 \- To have your [Java Chat Room](http://www3.fertilethoughts.com/RealChat/index.php?s=) registration removed from our records, please write to [Dave@FertileThoughts.com](mailto:dave@fertilethoughts.com). Please write Feedback in the subject line of the email sent otherwise it will not be addresses.
 
