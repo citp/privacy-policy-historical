@@ -1,8 +1,13 @@
-> *The following text is extracted and transformed from the physioroom.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210180448id_/http%3A//www.physioroom.com/shop/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the physioroom.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615213433id_/http%3A//physioroom.com/shop/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
-# Our Privacy Policy < PhysioRoom.com: Sports Injury Shop, News & Advice
+# Our Privacy Policy | PhysioRoom.com: Sports Injury Shop, News & Advice
 
-|  |  | Our Privacy Policy  
+| 
+
+  
+[](https://web.archive.org/fantasyleague/thegame.php)
+
+|  | Our Privacy Policy  
 ---  
   
 At PhysioRoom.com we respect the privacy of everyone who visits our Website. To this end, we fully comply with United Kingdom Data Protection legislation. 
@@ -40,7 +45,7 @@ When you view our Website, we may store some information on your computer in the
   
 We use 128 bit encryption technology to keep your order and payment details safe.  
   
-  | © Copyright PhysioRoom.com 2001-2005. All rights reserved. |    
+  | © Copyright PhysioRoom.com 2001-2006. All rights reserved. |    
 ---|---|---  
   
 PhysioRoom.com Limited, Unit 1 & 2 Dawson Court, Billington Road, Burnley, Lancashire BB11 5UB, England 
