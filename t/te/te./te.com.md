@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the te.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215121731id_/http%3A//customersupport.networksolutions.com/article.php%3Fid%3D306) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the te.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615201255id_/http%3A//customersupport.networksolutions.com/article.php%3Fid%3D306) for the most accurate reproduction.*
 
 # Domain name and e-mail account questions answered here
 
@@ -85,7 +85,7 @@ If you have set your browser to warn you before accepting cookies, you will rece
 
 Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services.
 
-**With Whom We May Share Information** **  
+ **With Whom We May Share Information** **  
 **  
 Pursuant to arrangements with Internet Corporation for Assigned Names and Numbers ('ICANN'), we compile and maintain a publicly accessible registration database that includes basic information about each domain name registered with us, including the names, telephone numbers and e-mail addresses of individuals designated as points of contact for a given domain name. Whether or not applicable domain name registration fees have been paid is also publicly accessible. With the gradual continued privatization of the Domain Name System, and consistent with the rules or policies applicable to that system, or to comply with any changes in law or regulation, we may, if appropriate, take steps to restrict the accessibility and amount of personally identifying information available in the registration database
 
@@ -144,8 +144,10 @@ If you feel that Network Solutions, or any of our agents, representatives or emp
 
 Network Solutions, LLC  
 Attention: General Counsel  
-13200 Woodland Park Drive  
-Herndon, VA 20171  
+13861 Sunrise Valley Dr   
+Suite 300   
+Herndon  VA  20171   
+United States  
 (703) 668-4600 
 
 **Notification of Changes** **  
