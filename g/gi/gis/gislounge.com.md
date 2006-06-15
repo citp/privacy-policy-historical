@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gislounge.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216212414id_/http%3A//gislounge.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gislounge.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615224446id_/http%3A//gislounge.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy Statement - GIS Lounge
 
@@ -26,7 +26,8 @@ With respect to Ad Servers:
 To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:  
 
 
-> <https://www.burstmedia.com/release/privacy.asp> <http://www.cj.com/privacy.asp>
+> <https://www.burstmedia.com/release/privacy.asp>  
+>  <http://www.google.com/privacy.html>
 
 The ad policy of the site can be accessed by clicking [here](https://web.archive.org/freisin/aboutads.shtml). 
 
