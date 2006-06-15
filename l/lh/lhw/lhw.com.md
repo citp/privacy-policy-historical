@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lhw.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217123432id_/http%3A//www.lhw.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lhw.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615040202id_/http%3A//lhw.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Luxury Hotels Of The World at The Leading Hotels of the World, Ltd: Online Hotel Reservations, Leading Hotel Resort, Leading Small Hotels
 
