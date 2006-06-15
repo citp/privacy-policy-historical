@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citysearch.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222211749id_/http%3A//national.citysearch.com/templates/profile/policy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citysearch.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615203535id_/http%3A//national.citysearch.com/templates/profile/policy.html%3F) for the most accurate reproduction.*
 
 # 
 
@@ -63,6 +63,6 @@ After you submit personal information in connection with purchasing or reserving
 
 Please note that changing or deleting your information through Edit My Profile, or otherwise opting-out of receipt of email communications from Citysearch.com will only change or delete the data in our My Profile database for purposes of future Transactions on the Site and for managing future communications from Citysearch.com. These changes and deletions will not change or delete information that we may have already forwarded to credit card companies or any other third parties, all as provided above in this privacy policy. 
 
-If you have any questions or concerns about this privacy policy, the practices of the Site, or your dealings with the Site, you can contact us at [legal@citysearch.com](mailto:legal@citysearch.com). You can also send us mail to: Privacy Officer, Legal Department, Citysearch.com, 3731 Wilshire Boulevard, Los Angeles, CA 90010. 
+If you have any questions or concerns about this privacy policy, the practices of the Site, or your dealings with the Site, you can contact us at [legal@citysearch.com](mailto:legal@citysearch.com). You can also send us mail to: Privacy Officer, Legal Department, Citysearch.com, 8833 W. Sunset Blvd., West Hollywood, CA 90069. 
 
 | 
