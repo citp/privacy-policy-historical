@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the counterpath.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210231128id_/http%3A//www.counterpath.com/index.php%3Fmenu%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the counterpath.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615072402id_/http%3A//counterpath.com/index.php%3Fmenu%3Dprivacy) for the most accurate reproduction.*
 
 # CounterPath
-
-| 
 
 CounterPath Solutions, Inc. is sensitive to the private nature of information you provide to us over the Internet. Our privacy practices are designed to maximize your ability to control the use of your personal, private information while at the same time giving you the opportunity to obtain interesting and useful information, products and services. This privacy policy describes how we treat information received about you when you visit our Web site and register on-line for CounterPath Solutions, Inc. products or services. This privacy policy only applies to data collected on-line by CounterPath Solutions, Inc.. Please read our privacy policy carefully. By using this Web site and submitting any personal information, you consent to the collection and use of this information by CounterPath Solutions, Inc., Inc., its subsidiaries and affiliates consistent with this privacy policy. Also, please be aware that CounterPath Solutions, Inc. may change this Privacy Policy from time to time. If we do, we will prominently post any notification of changes. If we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users by posting a notice on our Web site for 30 days, so be sure to check back here periodically for any changes. 
 
@@ -37,5 +35,3 @@ This Web site contains links to other Web sites. CounterPath Solutions, Inc. is 
 **Questions/Concerns**  
 If, after reading our Privacy Policy, you have questions or concerns about any of the statements herein, we welcome your feedback. You may contact our Customer Service Department at [support@counterpath.com](mailto:support@counterpath.com).  
 
-
-| 
