@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raileurope.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228045729id_/http%3A//www.raileurope.com/us/about_us/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raileurope.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615022740id_/http%3A//www.raileurope.com/us/about_us/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ Privacy Policy
 
 Orders
 
-We request information from the user on our order form. Here a user must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill customer’s orders. If we have trouble processing an order, this contact information is used to get in touch with the user. Financial information that is collected is used to bill the user for products and services. 
+We request information from the user on our order form. Here a user must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date.) This information is used for billing purposes and to fill customer’s orders. If we have trouble processing an order, this contact information is used to get in touch with the user. Financial information that is collected is used to bill the user for products and services. 
 
 Cookies 
 
@@ -28,7 +28,7 @@ Security
 
 This website takes every precaution to protect our users’ information. When users submit sensitive information via the website, your information is protected both online and off-line. 
 
-When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry, SSL (Secure Sockets Layer). While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just ‘surfing’. 
+When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry, SSL (Secure Sockets Layer.) While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just ‘surfing’. 
 
 [](https://digitalid.verisign.com/cgi-bin/Xquery.exe?Template=authCertByIssuer&form_file=../fdf/authCertByIssuer.fdf&issuerSerial=55b9653d74bd75049b0a2b28d463b715)All information you provide to RailEurope.com is transmitted using SSL encryption. The site employs SSL via a digital certificate issued by Verisign. You may view our certificate here .
 
@@ -44,7 +44,7 @@ Choice/Opt-out
 
 Our users are given the opportunity to ‘opt-out’ of having their information used for purposes not directly related to our site at the point where we ask for the information. Users who no longer wish to receive our newsletter or promotional materials may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at [unsubscribe@raileurope.com](mailto:unsubscribe@raileurope.com).
 
-You may also opt-out of any email communications through our website by going to: [http://www.raileurope.com/us/about_us/opt_out.htm](https://web.archive.org/web/20051228045729id_/http%3A//www.raileurope.com/us/about_us/opt_out.htm)
+You may also opt-out of any email communications through our website by going to: [http://www.raileurope.com/us/about_us/opt_out.htm](https://web.archive.org/web/20060615022740id_/http%3A//www.raileurope.com/us/about_us/opt_out.htm)
 
 Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not. 
 
