@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the news-miner.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218203438id_/http%3A//www.news-miner.com/Stories/0%2C1413%2C113%25257E7496%25257E%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news-miner.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615043857id_/http%3A//news-miner.com/Stories/0%2C1413%2C113%25257E7496%25257E%2C00.html) for the most accurate reproduction.*
 
 # News-Miner - Privacy policy
 
@@ -10,7 +10,7 @@
 [Opinion](https://web.archive.org/Stories/0,1413,113%257E7252%257E,00.html)  
 [Obituaries](https://web.archive.org/Stories/0,1413,113%257E7251%257E,00.html)  
 [Special sections](https://web.archive.org/Stories/0,1413,113%257E27660%257E,00.html)  
-[ArcticCam](http://www.arcticcam.com/cam.html)  
+[ArcticCam](http://arcticcam.com/)  
 [Classifieds](http://classifieds.newsminer.com/)  
 [Subscription](https://web.archive.org/Stories/0,1413,113%257E7281%257E,00.html)  
 [Contact us](https://web.archive.org/Stories/0,1413,113%257E26933%257E,00.html)  
