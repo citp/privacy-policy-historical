@@ -1,41 +1,54 @@
-> *The following text is extracted and transformed from the psd2html.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231170207id_/http%3A//www.psd2html.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psd2html.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615090417id_/http%3A//psd2html.com/privacy-policy.html) for the most accurate reproduction.*
 
-# privacy policy
+# Privacy Policy -- PSD to HTML service, PSD2HTML.com
 
-[**2Checkout.com**](http://2checkout.com/), Inc. is an authorized retailer of PSD2HTML.  
+**put your order online**
+
+[ **2Checkout.com**](http://2checkout.com/), Inc. is an authorized retailer of PSD2HTML.  
 We accept VISA, MasterCard, American Express, Discover/Novus, Diners Club, JCB. 
 
-Don't hesitate to contact us; we will be happy to help with your project. Our sales department will reply to you shortly.
+**have a question?**
 
-Please make sure to provide a valid e-mail address. It will be used to communicate with you about your request.
+Don't hesitate to contact us; we will be happy to help with your project. Our sales department will reply to shortly.
 
-  
+You can use either phone or instant messaging or contact form.
 
+Email
 
-  * Our Commitment to Privacy 
-  * The Information We Collect 
-  * How We Use Information 
-  * Our Commitment to Data Security 
-  * Our Commitment to Children's Privacy 
-  * How to Access or Correct Your Information 
-  * How to Contact Us 
+MSN
 
+info@psd2html.com
 
+Yahoo!
+
+psd2html
+
+AIM
+
+psd2html
+
+Please make sure to provide a valid e-mail address or phone number. It will be used to communicate with you about your request.
+
+## Our Commitment to Privacy
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
+## The Information We Collect
+
 This notice applies to all information collected or submitted on the PSD2HTML website. On some pages, you can order products, and make requests. The types of personal information collected at these pages are:
 
-  * Name 
-  * Address 
-  * Email address 
-  * Phone number 
-  * Credit/Debit Card Information 
-  * (etc.) 
+  * Name
+  * Address
+  * Email address
+  * Phone number
+  * Credit/Debit Card Information
+  * (etc.)
 
 
 
 When ordering our slicing service we request an archive containing your graphic design. We respect your professional artwork and will only use your artwork to assist you in your goals. Your copyrights will remain yours. We will not take your artwork for use on any other site, resell it, or give it to anyone under any circumstance.
+
+## The Way We Use Information
 
 We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.
 
@@ -45,12 +58,20 @@ We use non-identifying and aggregate information to better design our website an
 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
+## Our Commitment to Data Security
+
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
+## Our Commitment to Children's Privacy
+
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+
+## How You Can Access or Correct Your Information
 
 You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
+
+## How to Contact Us
 
 Should you have other questions or concerns about these privacy policies, please send us an email at [info@psd2html.com](mailto:info@psd2html.com).
