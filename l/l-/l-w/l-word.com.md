@@ -1,13 +1,15 @@
-> *The following text is extracted and transformed from the l-word.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231152904id_/http%3A//www.l-word.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the l-word.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615203921id_/http%3A//www.l-word.com/privacy.php) for the most accurate reproduction.*
 
 # the L word Fan Site
+
+_Last updated: July, 2 2005 2:12pm_
 
 Our Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.
 
 **Third Party Advertising**  
 We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information _**(not including your name, address, email address or telephone number)**_ about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.maxonline.com/privacy_policy/index.php).
 
- **Third Party Cookies**  
+**Third Party Cookies**  
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
 
 **What Information Do We Collect?**
