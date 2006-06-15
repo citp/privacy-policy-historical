@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phanfare.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219154602id_/http%3A//www.phanfare.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phanfare.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615071836id_/http%3A//www.phanfare.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Phanfare Photo and Video Sharing
 
