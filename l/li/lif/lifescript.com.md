@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the lifescript.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230212512id_/http%3A//lifescript.com/vitamins/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifescript.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615171000id_/http%3A//lifescript.com/channels/channel.asp%3FGOTO%3Dprivacy_policy) for the most accurate reproduction.*
 
-# LifeScript - Privacy Policy
+# Lifescript
+
+Privacy Policy
 
 LifeScript truly believes in keeping your confidential information just that, confidential! We will only use your personal information for the purposes of enhancing your LifeScript experience. Welcome to your personal health community!
 
