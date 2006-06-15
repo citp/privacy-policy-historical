@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the isohunt.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213220748id_/http%3A//isohunt.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isohunt.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615124739id_/http%3A//isohunt.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy | isoHunt - the P2P search engine
-
-Online torrents seen from websites and trackers over the last 5 days, with seeds or leeches
+# Privacy Policy || isoHunt - search torrents
 
 Privacy Policy
 
@@ -18,17 +16,22 @@ We use MaxOnline and other third-party advertising companies to serve ads when y
 
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
 
-|    
+| 
+
+[](http://a.isohunt.com/adclick.php?bannerid=88&zoneid=1&source=others&dest=http%3A%2F%2Fwww.jinx.com%2Fisohunt)
+
   
 | Shout Box  
 ---  
   
 You have to login to post. Use your common sense.  
 For debates, go to the forum.  
-Thank you.
+For real-time chat, come to irc.isohunt.com, #isoHunt
 
 READ! | [Smileys](https://web.archive.org/privacy.php?smiley)  
   
+  
+[or chat with others **live** on IRC](irc://irc.isohunt.com/isoHunt "#isoHunt on P2P-IRC, SSL on port 7000. You need a client like mIRC")  
   
   
   
