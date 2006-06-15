@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the realage.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218050456id_/http%3A//www.realage.com/company_info/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realage.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615031921id_/http%3A//www.realage.com/company_info/privacy.aspx) for the most accurate reproduction.*
 
-# About RealAge - RealAge Privacy Statement
+# About RealAge — RealAge Privacy Statement
 
 RealAge is committed to protecting your privacy. We have prepared this Privacy Statement to describe to you our practices regarding the Personal Data we collect from users of our services. 
 
@@ -12,7 +12,7 @@ YOU EXPRESSLY CONSENT TO THE PROCESSING OF YOUR PERSONAL DATA IN ACCORDANCE WITH
 RealAge collects Personal Data and Anonymous Data from you when you visit our site or when you send us information or communications. "Personal Data" means data that allows someone to identify or contact you, including, for example, your name, address, telephone number, e-mail address, as well as any information about you that is associated with or linked to any of the foregoing data. "Anonymous Data" means data that is not associated with or linked to your Personal Data; Anonymous Data does not permit the identification of individual persons. We collect Personal Data and Anonymous Data, as described below. 
 
 **Personal Data You Provide to Us**   
-We collect Personal Data from you, such as your name, e-mail address, country of residence, zip code or mail code, gender, and/or birth date when you register for a membership with us or when you choose to use the various services we provide on our site (e.g., Tip of the Day, Health Assessments, etc.). We also collect other types of Personal Data that you provide to us voluntarily, such as your health-related information, when you respond to surveys, health assessments, and questionnaires. If you choose to sign up for our pay services, such as _RealAge Magazine_ , we may collect additional financial data from you, including your credit card number, billing address (including street address, city, state, country, and zip code), and phone number. If you provide us feedback regarding our site or services via e-mail, we will collect your name and e-mail address in order to send you a reply. 
+We collect Personal Data from you, such as your name, e-mail address, country of residence, zip code or mail code, gender, and/or birth date when you register for a membership with us or when you choose to use the various services we provide on our site (e.g., Tip of the Day, Health Assessments, etc.). We also collect other types of Personal Data that you provide to us voluntarily, such as your health-related information, when you respond to surveys, health assessments, and questionnaires. If you provide us feedback regarding our site or services via e-mail, we will collect your name and e-mail address in order to send you a reply. 
 
 In order to improve our services to you, we may ask you to voluntarily complete confidential surveys. We do not ask you to provide us any personally identifiable data in association with these surveys although we do associate your responses with Personal Data. If you do not wish to participate in a survey, however, simply decline to participate when asked. 
 
@@ -34,7 +34,7 @@ Except as otherwise expressly provided in this Privacy Statement, only RealAge c
 We do not use third party advertising services to display advertisements or links on our sites. However, when you click on such advertisements or links, you will leave our site and go to another site. During this process, a third party (including a third party advertising service that may provide services to an advertiser) may collect Personal Data or Anonymous Data from you, such as the URL you just came from, the URL you go to next, your browser type, and your IP address. Our display of advertisements or links to any other company or site is for your convenience and does not signify our endorsement of such company or site (or the contents of the site). We have no control over, we do not review, and our Privacy Statement does not apply to these other companies, sites, or content, or to any collection of data after you click on an advertisement of or link to a third party. 
 
 **Use of Your Data**   
-RealAge uses your Personal Data to provide you with a customized Web experience and to provide services to you. Such services include calculating your RealAge, sending RealAge Magazine should you request it (and processing your payment for this Magazine), processing your answers to quizzes to provide you with tailored information regarding your health, and sending electronic newsletters and promotional e-mails to you if you have requested to receive such communications from us (as described below). We also use Personal Data to notify you about updates to our services and to respond to your requests. 
+RealAge uses your Personal Data to provide you with a customized Web experience and to provide services to you. Such services include calculating your RealAge, processing your answers to quizzes to provide you with tailored information regarding your health, and sending electronic newsletters and promotional e-mails to you if you have requested to receive such communications from us (as described below). We also use Personal Data to notify you about updates to our services and to respond to your requests. 
 
 We may create Anonymous Data records from Personal Data by excluding information (such as your name) that make the data personally identifiable to you. We use this Anonymous Data to perform statistical analyses of users’ aggregate behavior so that we may enhance the content of our services and improve site navigation. RealAge reserves the right to use and disclose Anonymous Data to third parties in its discretion. 
 
@@ -52,12 +52,12 @@ RealAge is a company with either subsidiaries, joint ventures, or other companie
 **Control of Your Personal Data**
 
 **Your Choices Regarding Your Personal Data**   
-We offer you choices regarding the collection, use, and sharing of your Personal Data. You may proactively make such choices by visiting [ My Account](http://www.realage.com/reg/MyAcntTC.aspx). 
+We offer you choices regarding the collection, use, and sharing of your Personal Data. You may proactively make such choices by visiting [My Account](https://web.archive.org/web/20060615031921id_/http%3A//www.realage.com/reg/MyAcntTC.aspx). 
 
-When you become a member of RealAge by registering on our site, we will ask you if you want to receive future communications from us. You may indicate consent to receipt of these communications by checking the box located on the registration form. Should you decide to stop receiving further communications from us, you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the e-mail you receive, or by going to [ My Account](http://www.realage.com/reg/MyAcntTC.aspx). If at any time you wish to subscribe to any communications from us, you may visit [My Account](http://www.realage.com/reg/MyAcntTC.aspx). Despite your indicated e-mail preferences, we may send you notices of any updates to our Terms of Use or Privacy Statement. 
+When you become a member of RealAge by registering on our site, we will ask you if you want to receive future communications from us. You may indicate consent to receipt of these communications by checking the box located on the registration form. Should you decide to stop receiving further communications from us, you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the e-mail you receive, or by going to [My Account](https://web.archive.org/web/20060615031921id_/http%3A//www.realage.com/reg/MyAcntTC.aspx). If at any time you wish to subscribe to any communications from us, you may visit [My Account](https://web.archive.org/web/20060615031921id_/http%3A//www.realage.com/reg/MyAcntTC.aspx). Despite your indicated e-mail preferences, we may send you notices of any updates to our Terms of Use or Privacy Statement. 
 
 **Accessing, Reviewing, and Changing Your Personal Data**   
-You may change any of your contact information in your account online by visiting [My Account](http://www.realage.com/reg/MyAcntTC.aspx). Note that we may retain changed or deleted information in our archives. 
+You may change any of your contact information in your account online by visiting [My Account](https://web.archive.org/web/20060615031921id_/http%3A//www.realage.com/reg/MyAcntTC.aspx). Note that we may retain changed or deleted information in our archives. 
 
 **Security of Your Personal Data**   
 RealAge is committed to protecting the security of your Personal Data. We use a variety of industry-standard security technologies and procedures to help protect your Personal Data from unauthorized access, use, or disclosure. 
@@ -86,4 +86,4 @@ We may amend this Privacy Statement from time to time. If we make material chang
 
 This Privacy Statement was last revised in February 2005. 
 
-[View our Copyright, Patents, and Trademarks](http://www.realage.com/company_info/copyright.aspx). 
+[View our Copyright, Patents, and Trademarks](https://web.archive.org/web/20060615031921id_/http%3A//www.realage.com/company_info/copyright.aspx). 
