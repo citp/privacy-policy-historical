@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the experts-exchange.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215192907id_/http%3A//www.experts-exchange.com/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experts-exchange.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615040322id_/http%3A//www.experts-exchange.com/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy for Experts Exchange
 
@@ -9,7 +9,7 @@
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and to gather broad demographic information. 
 
 **Use of Cookies**  
-Our site uses cookies to keep track of your member session. We use cookies to save your password so you do not have to re-enter it each time you visit our site. 
+Our site uses cookies to keep track of your member session. We use cookies to save your encrypted password so you do not have to re-enter it each time you visit our site. 
 
 **Registration**  
 Our site's registration form requires members to give us contact information (like their name and email address) and demographic information (like their zip code, age, or income level). The member's contact information is also used to contact the member when necessary. Members may opt-out of receiving future mailings, such as the Experts Exchange newsletter, by clicking the unsubscribe link at the bottom of such mailings. Demographic and profile data is also collected at our site. We use this data for developing marketing programs. In addition, we use this data to tailor the member's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis. 
