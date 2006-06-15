@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guess.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216014805id_/http%3A//www.guess.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guess.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615103754id_/http%3A//www.guess.com/Privacy.aspx) for the most accurate reproduction.*
 
 # GUESS? Privacy Policy
 
