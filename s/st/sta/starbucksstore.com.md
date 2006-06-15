@@ -1,46 +1,7 @@
-> *The following text is extracted and transformed from the starbucksstore.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230042355id_/http%3A//www.starbucksstore.com/products/shourplg.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starbucksstore.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615090327id_/http%3A//www.starbucksstore.com/products/shourplg.asp) for the most accurate reproduction.*
 
 # Prvacy Policy - StarbucksStore.com
 
-  
-  
-  
-|    
-|   
----  
-|  Featured Items  
-[Gift Boxes](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=0023&SubClassNo=0086)  
-[Black Apron](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=8100&MaterialNo=8101)  
-[Exclusives™](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=8100&MaterialNo=8101)  
-[Holiday/Seasonal](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=8100&MaterialNo=8102)All Coffees  
-[Starbucks® Coffees](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=8100&StyleNo=8101)  
-[Starbucks® Decaf](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=8100&StyleNo=8102)  
-[Coffees](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=8100&MaterialNo=8101)Origin  
-[Latin America](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=8100&SubClassNo=8750)  
-[Africa Arabia](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=8100&SubClassNo=8751)  
-[Asia Pacific](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=8100&SubClassNo=8752)
-
-[Blends](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=8100&SubClassNo=8753)
-
-Bean Preference  
-[Whole](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=8100&ColorNo=8101)  
-[Ground](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=8100&ColorNo=8102)  
-[Pods](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=8100&ColorNo=8103)Conservation & Certified  
-[Organic](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=8100&SurfaceNo=8101)  
-[Fair Trade](http://www.starbucksstore.com/products/shprodli.asp?DeptNo=8100&ClassNo=8100&SurfaceNo=8102) |   
-|  |   
-|   
-About Our Coffees  
-[Coffee Origins](http://www.starbucksstore.com/products/origins.asp)  
-[The 4 Fundamentals](http://www.starbucksstore.com/products/sb_cf.asp) |   
-  
-  
-  
-  
-| 
-
-|  |  |   
----|---|---  
 | 
 
 Our Pledge  
@@ -77,16 +38,17 @@ Whether you are using the Shopping Cart for the first time or not, if you later 
   *  **When you create a My Account** , we collect your name, address, telephone number and e-mail address. You can use your My Account to update your account information, save addresses where you have sent products and track orders. We also use the information you provide to:
     * **automatically place you on our e-mail lists** to receive special offers and updates about products and services; and
     *  **automatically place you on our direct mail/ catalog list** to receive from us direct mail and printed catalogs with special offers and updates about products and services.
+  * **When you enter a sweepstakes** sponsored by Cooking.com through StarbucksStore.com, we may ask for any or all of the following information: your name, postal address, e-mail address and telephone number. Check the official rules or the actual sweepstakes for what information is requested and may be shared for any individual sweepstakes. Unless the official rules for a particular sweepstakes provide otherwise, when you provide your e-mail address you will be signed up to receive StarbucksStore.com e-mail newsletters and, if you provide us with your postal address, you will be added to our direct mail/catalog list. You can unsubscribe from the e-mail newsletters and/or direct mail/catalog list at any time by following the instructions in the section below "Reviewing, Changing Your Information or Unsubscribing."
 
 If you want to be removed from a list, simply follow the instructions in the section "Reviewing, Changing Your Information or Unsubscribing" below.
 
 **Information about customers and visitors shared with third parties**
 
   * As described in the section "When you enter personal information into the Shopping Cart at StarbucksStore.com”, in addition to being placed on our e-mail newsletter list and direct mail/catalog list, we may make your name and postal address available to pre-screened companies who have specific direct mail (e.g. catalog) product or service offers that we think may be of interest to you. We only share with these pre-screened companies the individual names and postal address of customers who have actually purchased products from us (as opposed to those individuals who have provided information to us as part of some other registration or sign-up process). If you do not want us to share your name and postal address information, simply follow the instructions in the section below "Reviewing, Changing Your Information or Unsubscribing."
-  * We also share informationabout our customers and visitors with trusted service providers who provide Cooking.com Companies with specific services and/or administer activities offered on the StarbucksStore.com site. (For example, we may provide customer information to companies that analyze our clickstream data in order to help us better design our site.)
+  * We also share information about our customers and visitors with trusted service providers who provide Cooking.com Companies with specific services and/or administer activities offered on the StarbucksStore.com site. (For example, we may provide customer information to companies that analyze our clickstream data in order to help us better design our site.)
   * We also may use non-identifying and aggregate information (as opposed to identifiable individual information) about our customers and/or visitors to better design our website and we may provide it to advertisers and other third parties.
   * We use Burst! Ad Desktop and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here [ ThirdParty Advertising](http://www.networkadvertising.org/optout_nonppii.asp).
-  * Upon completing yourpurchase, we may present offers on behalf of third party partners on the order confirmation page. If you click on some of these promotional links and accept the offer(s), we will send your personal information to this party to complete the transaction. We do not share this information without your consent.
+  * Upon completing your purchase, we may present offers on behalf of third party partners on the order confirmation page. If you click on some of these promotional links and accept the offer(s), we will send your personal information to this party to complete the transaction. We do not share this information without your consent.
   * On rare occasions, we may disclose specific information upon governmental request, in response to a court order, when required by law to do so, or to protect the rights, property, or safety of Cooking.com, our users, or others. We may also share information with companies assisting in fraud protection or investigation. We do not provide information to these agencies or companies for marketing or commercial purposes.
 
 **Reviewing, Changing Your Information or Unsubscribing**
@@ -128,11 +90,4 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 Cooking.com’s Privacy Policy for StarbucksStore.com is subject to change without notice. At any time, you may visit our website to view the current policy. 
 
-|   
-|   
-  
-  
-  
-  
-  
-
+| 
