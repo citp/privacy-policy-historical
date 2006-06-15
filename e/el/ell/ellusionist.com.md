@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ellusionist.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215123502id_/http%3A//www.ellusionist.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ellusionist.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615202124id_/http%3A//www.ellusionist.com/Privacy-Policy.htm) for the most accurate reproduction.*
 
-# Ellusionist Privacy and Protection Policy
+# Ellusionist.com Privacy Policy
 
   
 We value your privacy, and promise never to sell or rent your email address or personal information for your lifetime.
@@ -47,4 +47,4 @@ ellusionist® reserves the right to change this privacy policy, and will post an
 
 Questions?
 
-If you have any questions about our privacy practices, please feel free to contact us at[ http:www.ellusionist.com](http://www.ellusionist.com/), [team@ellusionist.com](mailto:team@ellusionist.com) …. 415.459.4945.
+If you have any questions about our privacy practices, please feel free to contact us at[ http://www.ellusionist.com](http://www.ellusionist.com/), [team@ellusionist.com](mailto:team@ellusionist.com) …. 415.459.4945.
