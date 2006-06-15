@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the indextools.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212053307id_/http%3A//www.indextools.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indextools.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615212918id_/http%3A//indextools.com/privacy.html) for the most accurate reproduction.*
 
 # IndexTools: Privacy Policy
+
+[Home](https://web.archive.org/web/20060615212918id_/http%3A//indextools.com/index.html) > Legal Information > Privacy Policy
 
 Privacy Policy
 
@@ -105,4 +107,4 @@ USA
 Headquarters & Development Center   
 Reitter F. u. 132.   
 H-1131 Budapest   
-Hungary, Europe
+Hungary, Europe 
