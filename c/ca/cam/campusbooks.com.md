@@ -1,60 +1,149 @@
-> *The following text is extracted and transformed from the campusbooks.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203051925id_/http%3A//campusbooks.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campusbooks.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615174134id_/http%3A//campusbooks.com/legal/privacy.php) for the most accurate reproduction.*
 
-# Cheap Used Textbooks: Textbook Buyback, Used Textbooks, Cheap Textbooks
+# Used Textbooks, College & Cheap Textbooks, Textbook Buyback
 
-**Our privacy policy is very simple. We do not sell or rent your personal information to anyone. See below for details.**
+## CampusBooks Privacy Statement
 
-**Information Collection and Use**   
-At CampusBooks.com, we are committed to protecting your privacy. CampusBooks.com is the sole owner of the information collected on this site and we do not sell or rent this information to other companies. CampusBooks.com collects information from our users at several different points on our Web site:   
+**Our privacy policy is very simple: we do not sell, rent, or otherwise disclose any personally identifiable information to third parties.**
 
+**Information Collection and Use**
 
-**Registration**   
-In order to use value-added features of this Web site, a user must first complete the registration form. During registration a user is required to give their contact information (such as name and email address). We never sell or rent this personally identifiable information to third party companies. We use this information to make your online textbook buying experience as easy and efficient as possible. For example, by enrolling with us you can create and save a personalized booklist that compares prices on all of your books simultaneously. In order for us to provide you with this service, we need for you to have password protected access to your booklist information in our database. This is only possible if you enroll and create an account with a user name and password.   
+At CampusBooks.com, we are committed to protecting your privacy. CampusBooks.com is the sole owner of the information collected on this site and we do not sell or rent this information to third parties. CampusBooks.com collects personally identifiable information from our users at several different points on our Web site: 
 
+**Registration**
 
-**Cookies**  
-A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site.   
+Registration is required only to use the CampusBooks Marketplace. All Buyers and Sellers on the Marketplace must read carefully and agree to the terms of our [Membership Agreement](https://web.archive.org/legal/membership_agreement.php) in order to participate in the Marketplace. During registration, you are required to give contact information (such as name and email address). We use this information to contact you about your CampusBooks Marketplace orders. 
 
+**Orders**
 
-**Log Files**  
-We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.   
+If you buy or sell a book on the CampusBooks Marketplace, we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). 
 
+We use this information for billing purposes, seller payment purposes, and to fill your orders.  For Marketplace orders, we provide the Buyer’s email address and shipping address to the Seller, and we provide the Seller’s email address to the Buyer. If we have trouble processing an order or issuing seller payment, we will use this information to contact you. 
 
-**Sharing**  
-CampusBooks.com may occasionally provide other companies with broad, aggregated demographic information about our user base. This is not linked to any personal information that can identify any individual person. 
+**Newsletter**
 
-**Links **  
-This Web site contains links to other sites. Please be aware that CampusBooks.com is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.   
+Users may opt in for the optional CampusBooks.com newsletter to receive specials and promotions from our merchant partners. During registration a user is required to give their contact information (such as name and email address). We never sell or rent this personally identifiable information to third party companies. We use this information to provide you with valuable offers and discounts from our merchant partners. You may opt out at any time simply by contacting us at [help@campusbooks.com](mailto:help@campusbooks.com "Email help@campusbooks.com") with REMOVE in the subject line. 
 
+**Surveys & Contests **
 
-**Newsletter**   
-Registered users have the option of subscribing to our (infrequent) newsletter. You may opt out at any time simply by logging on to your account and unsubscribing. Your email address will remain strictly confidential and is not shared with any other company.   
+From time-to-time we may provide you the opportunity to participate in contests or surveys on our site.  If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information.  The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code).  We use this information to notify contest winners and award prizes. 
 
+We use may use a third party service provider to conduct these surveys or contests; that company will be prohibited from using our users’ personally identifiable information for any other purpose. 
 
-**Surveys & Contests **  
-From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.   
+**Tell-A-Friend**
 
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address.  We will automatically send your friend a one-time email inviting him or her to visit the site.  CampusBooks.com stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. 
 
-**Tell-A-Friend**  
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. CampusBooks.com will automatically send the friend a one-time email inviting them to visit the site. CampusBooks.com stores this information for the sole purpose of sending this one-time email. The friend may remove the information from our database at any time by notifying us at info@campusbooks.com. CampusBooks.com does not sell or rent our customer email list to other companies.   
+Your friend may contact us at [help@campusbooks.com](mailto:help@campusbooks.com "Email help@campusbooks.com") to request that we remove this information from our database. 
 
+**Uses of Information**
 
-**Security**  
-This Web site takes every precaution to protect our users' information. When users submit sensitive information via the Web site, your information is protected both online and off-line. If you have any questions about the security at our Web site, you can send an email to [info@campusbooks.com](mailto:info@campusbooks.com).   
+We use the information you provide to process orders and to contact you regarding any potential problems with buying or selling book on the CampusBooks Marketplace. We never disclose personally identifiable information to any third party. We use non-personally identifying information to monitor our site traffic and improve our services. 
 
+**Communications from the Site**
 
-**Special Offers**  
-We send all new members a welcoming email to verify password and username. Established members will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see our choice and opt-out below.   
+**Special Offers and Updates**
 
+We will occasionally send you information on special deals and promotions. You can sign up for these emails from us on our registration page. 
 
-**Correction/Updating Personal Information**  
-If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, you can adjust your personal settings by logging on to your campusbooks.com account or by emailing our Customer Support.   
+Out of respect for your privacy, we present the option not to receive these types of communications.  Please see the “Choice and Opt-out.” 
 
+**Newsletters**
 
-**Choice/Opt-out**   
-Our users are given the opportunity to 'opt-out' of receiving our newsletter by emailing us at [unsubscribe@campusbooks.com](mailto:unsubscribe@campusbooks.com).   
+If you wish to subscribe to our newsletter, we will use your name and email address to send the newsletter to you.  Out of respect for your privacy, we provide you a way to unsubscribe.  Please see the “Choice and Opt-out” section. 
 
+**Service-related Announcements**
 
-**Notification of Changes**   
-If we change our privacy policy, we will post those changes here on the privacy page so our users are always aware of what information, if any, we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.  
+We will send you strictly service-related announcements on rare occasions when it is necessary to do so.  For instance, if our service is temporarily suspended for maintenance, we might send you an email. 
 
+Generally, you may not opt-out of these communications, which are not promotional in nature.  If you do not wish to receive them, you have the option to deactivate your account. 
+
+**Customer Service**
+
+Based upon the personally identifiable information you provide us, we will send you a welcoming email to verify your username and password.  We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes. You may also receive communications from the Buyer or Seller of a Marketplace order. 
+
+**Information Sharing and Disclosure**
+
+**Aggregate Information (non-personally identifiable)**
+
+We share aggregated demographic information about our user base with our partners and subsidiary.  This information does not identify individual users.  
+
+We do not link aggregate user data with personally identifiable information. 
+
+**Personally identifiable information**
+
+We DO NOT Share Personally Identifiable Information with Third Parties, with the exception of our Agents as described below. 
+
+**Agents   **
+
+We use an outside credit card processing company to bill you for goods and services. These companies do not retain, share, store or use personally identifiable information for any other purposes. 
+
+**Legal Disclaimer**
+
+ _We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site._
+
+**Choice/Opt-out**
+
+We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information.  For example, if you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [help@campusbooks.com](mailto:help@campusbooks.com "help@campusbooks.com").
+
+You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.
+
+**Log Files**
+
+As is true of most Web sites, we gather certain information automatically and store it in log files.  This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. 
+
+We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole.  We do not link this automatically-collected data to personally identifiable information. 
+
+We use a third-party tracking service called Webtrends that uses cookies [log files] to track non-personally identifiable information about visitors to our site in the aggregate information on usage and volume statistics to manage our website more effectively.
+
+**Cookies**
+
+A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
+
+We use both session ID cookies and persistent cookies.  We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.
+
+We set a persistent cookie to store your passwords, so you don’t have to enter it more than once.  Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. 
+
+If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited. We use cookies when you are logged into the site to manage your shopping cart and bookbag items.
+
+This privacy statement covers the use of cookies by CampusBooks.com Inc. only and does not cover the use of cookies by any of our bookstore partners or advertisers.  
+
+**Links to Other Sites**
+
+This Web site contains links to other sites that are not owned or controlled by CampusBooks.com Inc. Please be aware that we, CampusBooks.com Inc, are not responsible for the privacy practices of such other sites. 
+
+We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. 
+
+This privacy statement applies only to information collected by this Web site.
+
+**Access to Personally Identifiable Information**
+
+If your personally identifiable information changes, or if you no longer desire our service, you may update your information by logging into your account and making the change on your account management page.
+
+**Security**
+
+The security of your personal information is very important to us.  When you enter sensitive information (such as credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). 
+
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+
+If you have any questions about security on our Web site, you can send an email to us at [help@campusbooks.com](mailto:help@campusbooks.com "help@campusbooks.com").
+
+**Business Transitions**
+
+In the event CampusBooks.com Inc. goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred.  You will be notified via a prominent notice on our Web site for 30 days of any such change in ownership or control of your personal information. 
+
+**Changes in this Privacy Statement**
+
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+
+We reserve the right to modify this privacy statement at any time, so please review it frequently.  If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+
+**Contact Us**
+
+If you have any questions or suggestions regarding our privacy policy, please contact us at the following address:
+
+CampusBooks.com Inc.   
+7905-B Engineer Rd   
+San Diego , CA 92111   
+858-569-5009  
+[help@campusbooks.com](mailto:help@campusbooks.com)
