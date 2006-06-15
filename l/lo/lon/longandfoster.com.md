@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the longandfoster.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214113042id_/http%3A//www.longandfoster.com/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the longandfoster.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615211234id_/http%3A//www.longandfoster.com/Privacy_Policy.aspx) for the most accurate reproduction.*
 
-# Long & Foster - Privacy Policy
+# Privacy Policy
+
+##  Privacy Policy
 
 Your Privacy is Very Important to Us
 
-Long & Foster places the highest importance upon maintaining your privacy when you use our Web site. Please read the following to learn more about our privacy policy. This privacy policy applies to the use of longandfoster.com by consumers. We review this privacy policy on an annual basis and we welcome any suggestions you might have about additional ideas regarding our privacy policy at  [privacy@longandfoster.com](mailto:privacy@longandfoster.com).
+Long & Foster places the highest importance upon maintaining your privacy when you use our Web site. Please read the following to learn more about our privacy policy. This privacy policy applies to the use of longandfoster.com by consumers. We review this privacy policy on an annual basis and we welcome any suggestions you might have about additional ideas regarding our privacy policy at  [ privacy@longandfoster.com](mailto:privacy@longandfoster.com).
 
-About our site 
+About our Site 
 
 This is the Web site of the Long & Foster® Companies. Our postal address is: 11351 Random Hills Road, Fairfax, Virginia, 22030. 
 
@@ -28,7 +30,7 @@ The information we collect is used only to improve the content of our Web site a
 
 Cookies
 
-We use Cookies to: 
+We use cookies to: 
 
   * Store visitors’ preferences. 
   * Record session information, such as items that consumers add to their user profile. 
@@ -36,14 +38,14 @@ We use Cookies to:
 
 
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us an e-mail at [privacy@longandfoster.com](mailto:privacy@longandfoster.com).   
+If you do not want to receive e-mail from us in the future, please let us know by sending us an email at [privacy@longandfoster.com](mailto:privacy@longandfoster.com).   
 
 
 We do not partner with or have special relationships with any ad server companies. 
 
 Changes & Corrections
 
-From time to time, we make our customer e-mail list available to Long & Foster's Prestige Partners® (such as Prosperity Mortgage and Long & Foster Insurance) whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other Long & Foster Real Estate, Inc, simply choose to "opt out" of these mailing by unchecking the appropriate box when providing your email address to us. If you already submitted our email address and did not opt-out of further mailing you may do so by letting us know by sending us an e-mail at [ privacy@longandfoster.com](mailto:privacy@longandfoster.com). 
+From time to time, we make our customer e-mail list available to Long & Foster's Prestige Partners® (such as Prosperity Mortgage and Long & Foster Insurance) whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other Long & Foster Real Estate, Inc, simply choose to "opt out" of these mailing by unchecking the appropriate box when providing your email address to us. If you already submitted our email address and did not opt-out of further mailing you may do so by letting us know by sending us an e-mail at [privacy@longandfoster.com](mailto:privacy@longandfoster.com). 
 
 If you supply us with your postal address online you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by sending us an e-mail at the address listed above. Please provide us with your exact name and address. We will be sure your name is removed from the list we share with our partners. 
 
