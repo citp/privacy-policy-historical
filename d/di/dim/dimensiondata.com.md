@@ -1,63 +1,55 @@
-> *The following text is extracted and transformed from the dimensiondata.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206230533id_/http%3A//www.dimensiondata.com/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dimensiondata.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615022217id_/http%3A//www.dimensiondata.com/Legalities/PrivacyPolicy.htm) for the most accurate reproduction.*
 
-# Spreadsheet Software for Budgeting, Forecasting and Management Reporting: A3 Solutions
+# Dimension Data :: Privacy Policy
 
-Your privacy is important to A3 Solutions. This statement describes and explains our policies and procedures. This privacy statement covers the www.a3si.com site, not third party sites that are linked off of www.a3si.com. If users have questions or concerns regarding this statement, they should send an email, with the subject heading "Privacy Question" to [webmaster@a3si.com](mailto:webmaster@a3si.com). 
+**DIMENSION DATA PRIVACY POLICY**
 
-On the www.a3si.com website we collect the following information: personal information (when volunteered by you) and log files, and cookies if you accept them. All is described below. 
+For purposes of these terms and conditions, "Dimension Data" shall mean Dimension Data Holdings plc, and all of its direct and indirect subsidiaries.
 
-## Personal Information
+1          Dimension Data is sensitive to the private nature of information you provide to it over the Internet and is committed to protecting your privacy.  This Privacy Policy explains the data collection and use practices of the Dimension Data website ("the website").  By accessing the website, you are deemed to have accepted and agreed to the information collection and use practices described in this Privacy Policy.
 
-You can access a3si.com without providing us with any personal information. However, A3 Solutions does collect information from our users at different points on our web site, in which you volunteer your personal information in response to registrations. During registration a user is required to give contact information (such as name, email, address, etc.). We use this information to contact the user about services on our site for which he/she has expressed interest. 
+2          **Information Collected**  
 
-## Cookies
+When you use the website, and at other times, Dimension Data may require you to provide it with personally identifiable information.  The personally identifiable information you provide may include your name, company, job title, address and e-mail address and facts about your business, profession and product preferences.  In addition, Dimension Data's web servers may automatically collect website usage information from you when you visit the website.  Website usage information informs Dimension Data about how visitors and subscribers use and navigate the websites, including the number and frequency of users to each web page, their IP address, and the length of their stays. 
 
-A cookie is a piece of data stored on the user's computer tied to information about the user. A cookie is a small text file stored on the user's hard drive for an extended period of time. Cookies can be removed by following Internet browser help file directions. By setting a cookie on our site, users will not have to register more than once, thereby saving time while on our site. If users reject the cookie, they may still use our site. The only drawback to this is that the user will have to complete a registration page more than once. 
+3          **Use of Information Collected**  
 
-## Log Files
+3.1        The personal information collected on the website will be used to operate the website and to provide the services or carry out the transactions you have requested.  In support of these uses, Dimension Data may combine the personally identifiable information you have provided to it on the website with other information about you that is available to it, including website usage information and information from other sources.  Dimension Data may use this information to enable it to process, validate and verify requests for products and services and for the purposes for which you specifically provided the information; to improve your experience on the website; to improve and develop new products, features and services; to alert you to new products and services and special offers; to provide marketing with aggregate information about the user base and usage patterns; to allow Dimension Data to personalise the advertising users see based on their personal characteristics or preferences, and for other purposes.
 
-Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. 
+3.2        Personal information collected from you may be stored and processed in England, or any other country in which Dimension Data operates or maintains facilities, in order to help Dimension Data to improve the content of the website, provide you with the products or services requested, and to help service providers to perform services on its behalf. By using the website, you consent to any such transfer of information outside of your country.
 
-## Legal Disclaimer
+3.3        Dimension Data may disclose any information about you to law enforcement agencies, government officials or other authorities, as Dimension Data, in its sole discretion, believes necessary or appropriate in the circumstances.
 
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. 
+4          **Cookies   **
 
-We DO NOT Share Personal Information with third parties. 
+Like most websites, Dimension Data automatically collects information and data through the use of "cookies".  A "Cookie" is a small text file that is placed on your hard disk by a web page server which enables a website to recognise repeat users, facilitate the user's ongoing access to and use of the website and allows a website to track usage behaviour and compile aggregate data that will allow content improvements and targeted advertising.  A cookie will not provide Dimension Data with personal information, therefore, if you have not supplied Dimension Data with any personal information, you can still browse the website anonymously.  You have the ability to accept or decline cookies.  Most web browsers automatically accept cookies, however you can modify your browser setting to decline cookies if you prefer.  If you choose to decline cookies, you may not be able to fully experience the interactive features of this or other websites which you visit.
 
-## Choice/Opt-out
+5          **Security   **
 
-Users who no longer wish to receive our newsletter and informational communications may opt-out of receiving these communications by replying to unsubscribe in the subject line in the original email or by emailing us at [webmaster@a3si.com ](mailto:webmaster@a3si.com) and requesting that you choose to opt-out. Please be sure to include a message communicating the vehicle in which you choose to opt-out in the subject line and body of the email. 
+The personally identifiable information we collect about you is stored in limited access servers. Dimension Data maintains safeguards to protect the security, integrity, and privacy of these servers and your personally identifiable information.
 
-## Links
+6          **IP Address   **
 
-This Web site contains links to other sites. Please be aware that we, A3 Solutions, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+If you are connected to the internet you will have an IP Address. This may take the form of a figure, such as 333.333.22.1. The address will be automatically collected and logged as part of the connection of your computer to Dimension Data's web server and may be used to determine the total number of visits to each part of the website. If there is a security breach the relevant IP Address will be identified by the Internet Service Provider and the user may be contacted. 
 
-## Security
+7          **Links to Other Web Sites   **
 
-This Web site takes precautions to protect our users' information. When users submit sensitive information via the Web site, their information is protected both online and off-line. We have implemented appropriate technical and organizational measures to help us keep your information secure. 
+Should you make use of the external links which may be provided for your convenience, you should be aware that those websites are not subject to this Privacy Policy. Dimension Data recommends that you review the privacy policy at each such website to determine how that website protects your privacy. 
 
-## Correcting/Updating/Deleting/Deactivating Personal Information
+8          **Policy Modifications**
 
-If a user's personally identifiable information changes (such as zip code, phone, or email), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can be done by returning the original message to the sender with details of the correction requested or by emailing us at [webmaster@a3si.com ](mailto:webmaster@a3si.com) and requesting a correction/update or deletion of your personal information. Please be sure to include a message communicating the change you would like made in the subject line and body of the email. 
+ Dimension Data may amend this Privacy Policy from time to time, and will post any changes here, so that you are familiar with the Privacy Policy adopted by Dimension Data.  Notwithstanding the right to amend the Privacy Policy as aforesaid, Dimension Data will not use your personal information in a manner materially different from this Privacy Policy without your prior consent.
 
-## Notification of Changes
+9          **Comments and Questions**
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, on our website and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+If you have any questions or comments about this Privacy Policy, please contact Dimension Data by filling in the Contact Us form which can be found here: http://www.dimensiondata.com/contactus.htm. Dimension Data reserves the right to contact you at any time regarding any problems or questions as well as to notify you of changes to the Privacy Policy, or to other policies or terms that affect you and your use of the website, but it is not obliged to do so.
 
-## Contact Information
+10         **Terms and conditions**
 
-If users have any questions or suggestions regarding our privacy policy, please contact us at: [webmaster@a3si.com](mailto:webmaster@a3si.com)
+ This Privacy Policy is subject in all respects to the terms and conditions of use of the Dimension Data website.
 
-|  |  | 
+This privacy policy was last updated on 29 October, 2004.
 
-"We searched for more than a year and evaluated every planning package on the market. Until A3, nothing addressed our need for flexibility, sophisticated modeling, and enterprise integration. The A3 Solution is nothing short of a strategic competitive weapon for us."   
-— _**AVON**_
+Copyright © 2004 Dimension Data Holdings plc
 
-  
-
-
-**A3 Modeling** helps you automate your enterprise spreadsheet budgeting, planning & forecasting processes.  
-Find out more >>
-
-  
-
+All Rights Reserved
