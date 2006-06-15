@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zeeks.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223154508id_/http%3A//www.kaboose.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeeks.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615191339id_/http%3A//www.kaboose.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Kaboose, Inc - Privacy Policy
 
@@ -53,11 +53,11 @@ This site uses cookie and tracking technology. A cookie is a small amount of dat
 
 Third Party Advertising
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp).
+The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad (but not your name, address, or other personal in-formation), is used to serve ads to you. For more information about DoubleClick, cookies, and how to "opt-out", please [click here.](http://www.doubleclick.net/us/corporate/privacy)
 
 Third Party Cookies
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
 
 SHARING INFORMATION
 
@@ -99,11 +99,11 @@ To contact Kaboose by e-mail please [click here](javascript:openContactUs\(\);).
 
 Kaboose hopes this document answers your questions and concerns about our privacy policies. Protecting the privacy of our visitors is vitally important to us. When Kaboose makes any changes to its Privacy Statement, the updated Privacy Statement will be posted on this page. We encourage you to periodically review this Privacy Statement.
 
-© 2004 Kaboose Inc., All Rights Reserved
+© 2006 Kaboose Inc., All Rights Reserved
 
 Thanks for stopping by! We hope your visit to the Kaboose Network is fun, safe and enjoyable!
 
-Last updated: 12 July 2004
+Last updated: 18 January 2006
 
   
 
