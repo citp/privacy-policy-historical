@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitrixsoft.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220114123id_/http%3A//www.bitrixsoft.com/about/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitrixsoft.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616015203id_/http%3A//www.bitrixsoft.com/about/policy.php) for the most accurate reproduction.*
 
 # Bitrix Site Manager - Privacy Policy
 
@@ -41,9 +41,9 @@ This Privacy Policy statement was last updated on Mach 30, 2004. Bitrix has crea
 
 7.   How you can access and correct any inaccuracies in the information collected about you. 
 
-Questions regarding this statement should be directed to the Bitrix Website coordinator by emailing [privacy@bitrixsoft.com](mailto:privacy@bitrixsoft.com)  or writing to us at the following address: P.O. Box 5966, Vernon Hills, IL 60061-5966 USA.
+Questions regarding this statement should be directed to the Bitrix Website coordinator by emailing [privacy@bitrixsoft.com](mailto:privacy@bitrixsoft.com)   or writing to us at the following address: P.O. Box 5966, Vernon Hills, IL 60061-5966 USA.
 
-If you feel that Bitrix has not complied with the policies outlined in this privacy statement please submit a report at [privacy@bitrixsoft.com](mailto:privacy@bitrixsoft.com).
+If you feel that Bitrix has not complied with the policies outlined in this privacy statement please submit a report at [privacy@bitrixsoft.com](mailto:privacy@bitrixsoft.com) .
 
 **A. INTRODUCTION**
 
@@ -53,7 +53,7 @@ OOO Bitrix (“Bitrix”) has a strong commitment to providing superior service 
 
 This Privacy Policy contains numerous general and technical details about the steps we take to respect your privacy concerns.  We have organized this Privacy Policy by major processes and areas so that you can quickly link to the information of most interest to you.  The bottom line is that meeting your needs and expectations form the foundation of everything we do - including protecting your privacy.
 
-Personal information on this Website is collected by Bitrix and if after reviewing this Privacy Policy you have any questions or privacy concerns please send an e-mail to [privacy@bitrixsoft.com](mailto:privacy@bitrixsoft.com). 
+Personal information on this Website is collected by Bitrix and if after reviewing this Privacy Policy you have any questions or privacy concerns please send an e-mail to [privacy@bitrixsoft.com](mailto:privacy@bitrixsoft.com) . 
 
 **Changes in Privacy Policy**
 
@@ -97,7 +97,7 @@ At your choice, you may create a personal account containing information such as
 
 You can access and review or update your personal account information on-line or you may deactivate your account by writing to privacy@bitrixsoft.com.  If you deactivate your personal account, the information you submitted to create the account will be deleted providedthat we may retain some data, to the extent necessary, for purposes of legal compliance and in connection with your use of the Website and licensing of our products.
 
-You may access and correct your personal information and privacy preferences (such as whether you wish to receive promotional communications from Bitrix or third parties) by writing Bitrix at [privacy@bitrixsoft.com](mailto:privacy@bitrixsoft.com).
+You may access and correct your personal information and privacy preferences (such as whether you wish to receive promotional communications from Bitrix or third parties) by writing Bitrix at [privacy@bitrixsoft.com](mailto:privacy@bitrixsoft.com) .
 
 **Securing the Transmission and Storage of Information**
 
@@ -121,7 +121,7 @@ Bitrix recognizes and appreciates the importance of responsible use of informati
 
 **Public Announcements**
 
-With you prior consent, Bitrix may identify you to the public as its customer and describe in a customer case study the services and solutions delivered by Bitrix to you.  Bitrix may also issue one or more press releases, containing an announcement relating to of the execution and delivery of the agreements between you and Bitrix and/or the implementation of the product by you.  Nothing contained in this section shall be construed as an obligation by you to disclose any of your proprietary or confidential information to any third party.  In addition, you may opt-out from this Section by writing an opt-out request to Bitrix at [privacy@bitrixsoft.com](mailto:privacy@bitrixsoft.com).
+With you prior consent, Bitrix may identify you to the public as its customer and describe in a customer case study the services and solutions delivered by Bitrix to you.  Bitrix may also issue one or more press releases, containing an announcement relating to of the execution and delivery of the agreements between you and Bitrix and/or the implementation of the product by you.  Nothing contained in this section shall be construed as an obligation by you to disclose any of your proprietary or confidential information to any third party.  In addition, you may opt-out from this Section by writing an opt-out request to Bitrix at [privacy@bitrixsoft.com](mailto:privacy@bitrixsoft.com) .
 
 **Disclosure of Information to Third Parties**
 
@@ -159,7 +159,7 @@ You may set your browser to block cookies (consult the instructions for your par
 
 **D.   PRIVACY-RELATED INQUIRIES AND COMPLAINTS**
 
-Bitrix takes and addresses its users’ privacy concerns with utmost respect and attention.  If you believe that there was an instance of non-compliance with this Online Privacy Policy with regard to your personal information or you have other related inquiries or concerns, you may write or contact Bitrix at [privacy@bitrixsoft.com](mailto:privacy@bitrixsoft.com).
+Bitrix takes and addresses its users’ privacy concerns with utmost respect and attention.  If you believe that there was an instance of non-compliance with this Online Privacy Policy with regard to your personal information or you have other related inquiries or concerns, you may write or contact Bitrix at [privacy@bitrixsoft.com](mailto:privacy@bitrixsoft.com) .
 
 In your message, please describe in as much detail as possible the nature of your inquiry or the ways in which you believe that the Bitrix Online Privacy Policy has not been complied with.  We will investigate your inquiry or complaint promptly. 
 
