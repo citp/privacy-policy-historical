@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the manufacturers.com.tw privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217170338id_/http%3A//www.manufacturers.com.tw/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manufacturers.com.tw privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615030951id_/http%3A//manufacturers.com.tw/privacy.php) for the most accurate reproduction.*
 
-# Manufacturers Directory On B2BManufactures.Com-All Products Made In China Manufacturers & Taiwan Manufacturers,Suppliers& Exporters,China Suppliers
+# Manufacturers Directory On B2BManufactures.Com from Taiwan,China Products Made In China Manufacturers & Taiwan Manufacturers,Suppliers & Exporters,China Suppliers,China Sources
 
 | [](http://www.manufacture.com.tw/manufacturers-org/manufacturer.htm)  
 ---  
-|   |  | [**Shang Yung Co., Ltd.**](https://web.archive.org/showroom_f.php?a=4527-3-3-0-0 "Shang Yung Co., Ltd.")  
-Neoprene manufacturer for neoprene sheets, neoprene fabric and neoprene product. |   
----|---|---|---  
-  |  | [**Ever Jun Eagle International Co., Ltd.**](https://web.archive.org/showroom_f.php?a=5678-3-3-0-0 "Ever Jun Eagle International Co., Ltd.")  
+|   |  | [**Ever Jun Eagle International Co., Ltd.**](https://web.archive.org/showroom_f.php?a=5678-3-3-0-0 "Ever Jun Eagle International Co., Ltd.")  
 Manufacturer of leather goods for organizer, briefcase, portfolio, computer bag, luggage etc. |   
 ---|---|---|---  
-  |  | [**Sdec Technology Corp.**](https://web.archive.org/showroom_f.php?a=6732-3-3-0-0 "Sdec Technology Corp.")  
-LCD manufacturer & supplier for LCD module, LCM, LCD display module. |   
+  |  | [**Chiah Chyun Machinery Co., Ltd.**](https://web.archive.org/showroom_f.php?a=6769-3-3-0-0 "Chiah Chyun Machinery Co., Ltd.")  
+Lathe machine manufacturer for cnc lathe, auto lathe and bench lathe. |   
+---|---|---|---  
+  |  | [**South Sea Terminal Co., Ltd.**](https://web.archive.org/showroom_f.php?a=6670-3-3-0-0 "South Sea Terminal Co., Ltd.")  
+Manufacturer of connectors, such as wire to board connectors, wire to wire connecters, board to board connectors, box header connectors, chain terminal connectors, DVI cables, flat cables, PC cables, etc. |   
 ---|---|---|---  
   |  | [**CVC Technologies Inc.**](https://web.archive.org/showroom_f.php?a=1323-3-3-0-0 "CVC Technologies Inc.")  
 offering varied pharmaceutical packaging equipment, including labeling machine, tablet / capsule counter etc. |   
@@ -19,20 +19,21 @@ offering varied pharmaceutical packaging equipment, including labeling machine, 
   
 Popular Categories
 
-  * [Electronic Gifts](https://web.archive.org/company-categories/electronic-gifts.htm "Electronic Gifts")
-  * [Emergency Lighting](https://web.archive.org/lighting/Emergency-Lighting.htm "Emergency Lighting")
-  * [Engraving Machine](https://web.archive.org/machinetools/Engraving-Machines.htm "Engraving Machine")
-  * [Fabrics](https://web.archive.org/textile/Fabric-Manufacturers.htm "Fabrics")
-  * [Fire Fighting Equipments](https://web.archive.org/security/Fire-Fighting-Equipments.htm "Fire Fighting Equipments")
-  * [Food Equip.](https://web.archive.org/machinery/food-processing-equipment.htm "Food Equip.")
-  * [Food Machinery](https://web.archive.org/machinery/Food-Machinery.htm "Food Machinery")
-  * [Food Products](https://web.archive.org/agriculture-food/Food-Products.htm "Food Products")
-  * [Furnace](https://web.archive.org/industrial-supply/furnaces.htm "Furnace")
-  * [Garden Tool](https://web.archive.org/handtool/Garden-Tools.htm "Garden Tool")
-  * [Gasket & Seal](https://web.archive.org/industrial-supply/gaskets-seals.htm "Gasket & Seal")
-  * [General Packaging Material](https://web.archive.org/packaging/Packaging-Manufacturers.htm "General Packaging Material")
-  * [Generators](https://web.archive.org/industrial-supply/Generator-Manufacturers.htm "Generators")
-  * [Gifts & Novelties](https://web.archive.org/gifts/gifts-novelties.htm "Gifts & Novelties")
+  * [LED Lamps](https://web.archive.org/electronics/LED-Lamps.htm "LED Lamps")
+  * [LED Lightings](https://web.archive.org/lighting/LED-Lightings.htm "LED Lightings")
+  * [LED Lights](https://web.archive.org/electronics/LED-Lights.htm "LED Lights")
+  * [LED Manufacturers](https://web.archive.org/electronics/LED-Manufacturers.htm "LED Manufacturers")
+  * [LED Modules](https://web.archive.org/electronics/LED-Modules.htm "LED Modules")
+  * [Leisure Products](https://web.archive.org/sports/leisure-products.htm "Leisure Products")
+  * [Light Emitting Diodes](https://web.archive.org/electronics/Light-Emitting-Diodes.htm "Light Emitting Diodes")
+  * [Lighting Manufacturers](https://web.archive.org/lighting/Lighting-Manufacturers.htm "Lighting Manufacturers")
+  * [Lock & Accessory](https://web.archive.org/security/Locks-Manufacturers.htm "Lock & Accessory")
+  * [Luggage & Travel Bag](https://web.archive.org/bag/Luggage-Travel-Bag.htm "Luggage & Travel Bag")
+  * [Machine Parts](https://web.archive.org/machinery/machineparts.htm "Machine Parts")
+  * [Machine Tools](https://web.archive.org/machinetools/Machine-Tools.htm "Machine Tools")
+  * [Machine Tools](https://web.archive.org/machinetools/Machine_Tools.htm "Machine Tools")
+  * [Machinery Equipment Manufacturers](https://web.archive.org/Machinery%20Equipments/Machinery-Equipments-Manufacturers.htm "Machinery Equipment Manufacturers")
+  * [Hot Products](http://www.manufacture.com.tw/hot-products.htm)
   * [Led Lights](http://www.b2bchinasources.com/China-Manufacturers-13829/LED-Lights.htm)
   * [Chinese Gifts](http://www.b2bchinasources.com/China-Manufacturers-13830/Chinese-Gifts.htm)
   * [Mp3 Players](http://www.b2bchinasources.com/China-Manufacturers-18106/Mp3-Player.htm)
@@ -45,10 +46,10 @@ Popular Categories
 
 Featured Companies  
 ---  
-|  | [**Stars Navigation Technologies Ltd.**](https://web.archive.org/showroom_f.php?a=6507-3-3-0-0 "Stars Navigation Technologies Ltd.")  
-Mfr. GPS system for gps tracking system, car gps system and vehicle tracking system. |   
-|  | [**Kai Harng Enterprises Co., Ltd.**](https://web.archive.org/showroom_f.php?a=4374-3-3-0-0 "Kai Harng Enterprises Co., Ltd.")  
-Distributor of CCTV Camera, CCD camera and IR camera. |   
+|  | [**Maxway Cycles Co., Ltd.**](https://web.archive.org/showroom_f.php?a=5712-3-3-0-0 "Maxway Cycles Co., Ltd.")  
+Bicycle frame manufacturer for steel bicycle frame & steel bike frame. |   
+|  | [**Weiyang Technology Co., Ltd**](https://web.archive.org/showroom_f.php?a=6870-3-3-0-0 "Weiyang Technology Co., Ltd")  
+Manufacturer of custom cable assembly, RF cable, coaxial cable, cable assemblies, USB/PDA, cellphone data cable, home security alarm system, wireless security system, GPS antenna, GPS receiver, GPS bluetooth. |   
 |  | [**Yih Chuan Machinery Industry Co., Ltd.**](https://web.archive.org/showroom_f.php?a=6484-3-3-0-0 "Yih Chuan Machinery Industry Co., Ltd.")  
 specializing in machining center, CNC milling machine and CNC lathe. |   
 |  | [**Hsiang Teh Art & Craft Works Co., Ltd.**](https://web.archive.org/showroom_f.php?a=3287-3-3-0-0 "Hsiang Teh Art & Craft Works Co., Ltd.")  
@@ -89,12 +90,17 @@ Fax : | \+ 886 (0)4 22361191
   
 | Corporate  
 ---  
-| [](https://web.archive.org/gt-group/ir.htm)  
-| [](https://web.archive.org/gt-group/news/news.htm)  
-| [](https://web.archive.org/gt-group/products/products.htm)  
+| [](http://www.gt-group.com.tw/ir.htm)  
+| [](http://www.gt-group.com.tw/news/news.htm)  
+| [](http://www.gt-group.com.tw/products/service05.htm)  
 | [](https://web.archive.org/inquiry-c.php)  
-| [](https://web.archive.org/gt-group/index.htm)  
+| [](http://www.gt-group.com.tw/aboutus/history.htm)  
 | [](https://web.archive.org/contact-c.php)  
-[](https://web.archive.org/ctd_adclicks.php?click_adid=246&url=http://www.b2bchinasources.com/)  
+[](https://web.archive.org/ctd_adclicks.php?click_adid=1547&url=http://www.surgical-medical-product.com/product.htm)  
 ---  
+[](https://web.archive.org/ctd_adclicks.php?click_adid=902&url=http://led-manufacturer.chi-ming.com/product.htm)  
+[](https://web.archive.org/ctd_adclicks.php?click_adid=2147&url=http://www.sunlit-expo.com/computer.htm)  
+[](https://web.archive.org/ctd_adclicks.php?click_adid=2148&url=http://www.sunlit-expo.com/leisure.htm)  
+[](https://web.archive.org/ctd_adclicks.php?click_adid=246&url=http://www.b2bchinasources.com/)  
+[](https://web.archive.org/ctd_adclicks.php?click_adid=347&url=http://air-fresheners.house-ware.com.tw/Air-Fresheners-Category.htm)  
 [](https://web.archive.org/ctd_adclicks.php?click_adid=242&url=http://www.telepeak.com/)
