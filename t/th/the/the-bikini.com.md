@@ -1,7 +1,9 @@
-> *The following text is extracted and transformed from the the-bikini.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212134631id_/http%3A//www.the-bikini.com/information/%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-bikini.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615045245id_/http%3A//the-bikini.com/information/%3Faction%3Dprivacy) for the most accurate reproduction.*
 
-# the- bikini .com: extreme bikinis for sexy women. Brazilian, thongs, sheer, mini and tiny bikinis
+# the- bikini .com: extreme bikinis for sexy women. Thongs, mini, brazilian, sheer, tiny bikini
 
+  
+  
   
   
   
@@ -18,6 +20,7 @@ Intimate Shaver
 
 The ultimate pubic area shaving tool!  
   
+[ ](http://www.personalshavers-affiliates.com/b.asp?id=1005&img=hk.gif&p=bodybare)  
 
 
 The [Body Bare](http://www.personalshavers-affiliates.com/b.asp?ID=1005) will shave your pubic area closer, easier and most importantly safer than anything else on the market...period! .
@@ -36,8 +39,16 @@ If you have a website, you can sell our bikinis. Sign up on our affiliate sales 
 [Log In!](http://www.the-bikini.com/cmd.php?cmd=login)
 
   
-  
+
+
+Paypal
+
 |   
+---  
+  
+  
+  
+  
 
 
 P R I V A C Y   S T A T E M E N T
@@ -95,4 +106,4 @@ If you have any questions about this privacy statement, the practices of this si
   United States of America  
 
 
-Alternatively, you can [contact us by email](https://web.archive.org/web/20051212134631id_/http%3A//www.the-bikini.com/contact/). 
+Alternatively, you can [contact us by email](https://web.archive.org/web/20060615045245id_/http%3A//the-bikini.com/contact/). 
