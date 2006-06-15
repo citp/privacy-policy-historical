@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advocate.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230095749id_/http%3A//www.advocate.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advocate.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615094151id_/http%3A//advocate.com/privacy.asp) for the most accurate reproduction.*
 
 # Advocate.com | Privacy Policy
 
@@ -52,8 +52,8 @@ You can manage your print subscription account information at:
 For all other print subscription concerns, please contact us by calling (800) 827-0561, or by writing to us at:
 
 The Advocate  
-P.O. Box 311  
-Newburgh, NY 12551-9922
+P.O. Box 410  
+Montvale, NJ 07645
 
 **Cookies**
 
