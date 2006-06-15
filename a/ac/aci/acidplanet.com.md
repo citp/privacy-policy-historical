@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acidplanet.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214111144id_/http%3A//www.sonymediasoftware.com/corporate/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acidplanet.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615220633id_/http%3A//www.sonymediasoftware.com/corporate/privacy.asp) for the most accurate reproduction.*
 
 # Sony Media Software - Corporate - Privacy Policy Statement
 
