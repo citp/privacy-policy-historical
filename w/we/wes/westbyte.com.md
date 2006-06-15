@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westbyte.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218045108id_/http%3A//www.westbyte.com/index.phtml%3Fpage%3Dprivacy%26tmp%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westbyte.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615022029id_/http%3A//www.westbyte.com/index.phtml%3Fpage%3Dprivacy%26tmp%3D1) for the most accurate reproduction.*
 
 # WestByte | Privacy
 
