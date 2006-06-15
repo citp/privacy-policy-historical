@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ozfreeonline.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204102559id_/http%3A//www.ozfreeonline.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozfreeonline.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615113701id_/http%3A//www.ozfreeonline.com/privacy.php) for the most accurate reproduction.*
 
-# Oz Free Online - Free Fonts
+# Oz Free Online - Free Sales, Cars, Realestate, Auctions, Classifieds, Employment
 
 Oz Free Online Privacy Policy
 
@@ -37,3 +37,5 @@ When you send us e-mail, we will use your name and e-mail address only to respon
 **Changes To This Policy**
 
 From time to time, we may introduce new products and services to its users and members. We reserve the right to modify this policy at any time by notifying customers, via our site, of a new privacy policy. You can send e-mail to support with any further questions.
+
+[OzFreeOnline.com General Privacy Policy](http://www.ozfreeonline.com/privacy.html)
