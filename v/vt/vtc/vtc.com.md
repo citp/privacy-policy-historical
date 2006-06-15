@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the vtc.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230191419id_/http%3A//www.vtc.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vtc.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615025857id_/http%3A//www.vtc.com/modules/content/privacy.php) for the most accurate reproduction.*
 
 # Online software tutorials, training CDs from vtc.com
 
 Privacy Policy Statement
 
-This is the web site of The virtual Company Inc..
+This is the web site of The Virtual Company Inc.
 
 Our USA postal address is:  
-46 South Loudoun Street  
-Winchester VA 22601
+5395 Main Street  
+Stephens City, VA 22655
 
 We can be reached via e-mail at info@vtc.com  
-or you can reach us by telephone at 540.545.8060 
+or by telephone at (540) 869 8686.
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible). 
 
@@ -29,7 +29,7 @@ Please provide us with your exact name and address. We will be sure your name is
 
 Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line. 
 
-Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations 
+Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations.
 
 With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. 
 
@@ -39,7 +39,7 @@ Customers may prevent their information from being used for purposes other than 
 
 Upon request we provide site visitors with access to a description of information that we maintain about them. 
 
-Consumers can access this information by e-mail us at the above address. 
+Consumers can access this information by e-mailing us at the above address. 
 
 Upon request we offer visitors the ability to have inaccuracies corrected in contact information. 
 
