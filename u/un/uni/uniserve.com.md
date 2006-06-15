@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the uniserve.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219170503id_/http%3A//www.uniserve.com%3Fpage%3Dabout/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniserve.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615070658id_/http%3A//www.uniserve.com%3Fpage%3Dabout/privacy) for the most accurate reproduction.*
 
-# Uniserve - About - Privacy Policy
+# Uniserve - About Us - Privacy Policy
 
-Personal Information Protection and Electronic Documents Act (Statutes of Canada 2000, Chapter 5)    
+Personal Information Protection and Electronic Documents Act  
+(Statutes of Canada 2000, Chapter 5)   
 Includes: CSA Model Code for the Protection of Personal Information (CAN/CSA-Q830-96) 
 
 **The Uniserve Privacy Code has been published to reflect the changes associated with the implementation of the new legislation referred to above.**
