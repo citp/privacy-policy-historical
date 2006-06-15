@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groupee.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210053408id_/http%3A//www.groupee.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groupee.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616003507id_/http%3A//www.groupee.com/privacy.php) for the most accurate reproduction.*
 
 # Groupee: Privacy Statement
 
@@ -82,7 +82,7 @@ To unsubscribe to our Groupee newsletter, please follow the specific unsubscribe
 
 To update the information on your registered UBB.classic or UBB.threads license, visit the [UBB Member Area](http://infopop.com/members/members.php). 
 
-To update your Groupee Community billing information, log into your [Groupee Community Account](https://admin.groupee.com/customer.php). 
+To update your Groupee Community billing information, log into your [Groupee Community Customer Account](https://admin.groupee.com/customer.php). 
 
 If you have questions regarding your information, you can contact our Privacy Administrator at the address listed above. 
 
