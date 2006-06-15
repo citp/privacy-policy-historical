@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ediblearrangements.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219062028id_/http%3A//www.ediblearrangements.com/Legal/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ediblearrangements.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615230904id_/http%3A//www.ediblearrangements.com/Legal/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Edible Arrangements® - Website Privacy Policy
 
 **_ Website Privacy Policy_**
 
-## Edible Arrangements Franchise Group, Inc. (" ** _Edible Arrangements_** ," " ** _we_** ," " ** _us_** " or " ** _our_** ") respects your privacy!  We know you care how information about you is used and shared.  This Website Privacy Policy (the " ** _Policy_** ") describes our privacy practices with respect to information collected by or submitted to us on our <www.ediblearrangements.com>, <www.eafg.net> and other websites (each a " ** _Website_** ").  **This Policy is made a part of theEdible Arrangements [ Terms of Use](https://web.archive.org/Legal/Terms_Of_Use.aspx) (**" ** _Terms_** " **).   **
+## Edible Arrangements Franchise Group, Inc. (" ** _Edible Arrangements_** ," " ** _we_** ," " ** _us_** " or " ** _our_** ") respects your privacy!  We know you care how information about you is used and shared.  This Website Privacy Policy (the " ** _Policy_** ") describes our privacy practices with respect to information collected by or submitted to us on our <www.EdibleArrangements.com>, <www.eafg.net> and other websites (each a " ** _Website_** ").  **This Policy is made a part of theEdible Arrangements [ Terms of Use](https://web.archive.org/Legal/Terms_Of_Use.aspx) (**" ** _Terms_** " **).   **
 
 ## By visiting our Website, you acknowledge and agree that you have read this Policy and agree to the collection, use and other processing of your information in accordance with the practices described in this Policy.  If you do not agree to all of the terms, conditions and practices set forth herein, do not access the Website or any of its pages. 
 
@@ -82,7 +82,7 @@ This Privacy Policy became effective on June 06, 2005.  We reserve the right to
 
 If you have any questions regarding this Policy, please contact us at:
 
-Edible Arrangements Franchise Group, Inc 
+Edible Arrangements International, Inc. 
 
 1952 Whitney Ave.
 
@@ -94,4 +94,4 @@ Facsimile: 203-230-0792
 
 E-mail:  mail@eafg.net
 
-© 2005  Edible Arrangements Franchise Group, Inc.  All rights reserved. 
+© 2005  Edible Arrangements International, Inc.  All rights reserved. 
