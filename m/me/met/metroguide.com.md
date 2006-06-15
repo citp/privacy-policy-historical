@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metroguide.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231230455id_/http%3A//metroguide-inc.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metroguide.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615204827id_/http%3A//metroguide-inc.com/privacy.html) for the most accurate reproduction.*
 
 # MetroGuide: Privacy Policy
 
@@ -44,9 +44,9 @@
 
 
 
-  * [Dining Channel](http://diningchannel.com/)
-  * [Hotel Channel](http://hotelchannel.com/)
-  * [Romance Channel](http://romancechannel.com/)
+  * [DiningChannel](http://diningchannel.com/)
+  * [HotelChannel](http://hotelchannel.com/)
+  * [RomanceChannel](http://romancechannel.com/)
 
 | 
 
@@ -77,11 +77,11 @@ MetroGuide.com, Inc., c/o Legal Department, 3990 Sheridan Street, Suite 107, Hol
 
 |   | 
 
-_© 1996-2005,[MetroGuide.com, Inc.](http://metroguide.com/)_ | [Privacy Policy](http://metroguide-inc.com/privacy.html) | [Terms and Conditions](http://metroguide-inc.com/terms.html)
+_© 1996-2006,[MetroGuide.com, Inc.](http://metroguide.com/)_ | [Privacy Policy](http://metroguide-inc.com/privacy.html) | [Terms and Conditions](http://metroguide-inc.com/terms.html)
 
 MetroGuide, LodgingGuide, HotelGuide, CondominiumGuide, DiningGuide, EventGuide, NightGuide, RetailGuide, FareGuide, CruiseGuide, AttractionGuide, CarRentalGuide, VenueGuide, TheaterGuide and "Your Guide for Life" are service marks of MetroGuide.com, Inc. TouchGuide, HotelGuide Network and Metropolitan Networks are registered trademarks of MetroGuide.com, Inc.  
 All other trademarks are the property of their respective owners. 
 
-To Contact Us at MetroGuide : [Click Here](http://forms.metromanager.com/asp/ContactMG.asp?s=mg|privacy&p=f1). 
+To Contact Us At MetroGuide: [Click Here](http://forms.metromanager.com/asp/ContactMG.asp?s=mg|privacy&p=f1). 
 
 | 
