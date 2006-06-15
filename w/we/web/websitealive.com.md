@@ -1,6 +1,28 @@
-> *The following text is extracted and transformed from the websitealive.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212152650id_/http%3A//www.websitealive.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitealive.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615042039id_/http%3A//websitealive.com/privacypolicy.asp) for the most accurate reproduction.*
 
-# WebsiteAlive - Privacy Policy
+# Live help, Live chat software, Live support, Chat software, Live chat by WebsiteAlive
+
+Our Privacy Policy was developed as an extension of our commitment to combine the highest-quality products and services with the highest level of integrity in dealing with our clients and partners. The Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. This statement will be continuously assessed against new technologies, business practices and our customers' needs.
+
+What Information Do We Collect? When you visit our Web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site.
+
+1\. Personal Information You Choose to Provide
+
+Credit Card Information. If you choose to purchase products or services from us or our partners, you may need to give personal information and authorization to obtain information from various credit services. For example, you may need to provide the following information: 
+
+  * Name
+  * Mailing Address 
+  * E-Mail Address 
+  * Credit Card Number 
+  * Home and Busines Phone Number 
+  * Other Personal Information (i.e. Mother's Maiden Name) 
+  * E-Mail Information. In addition to providing the foregoing information to our partners, if you choose to correspond further with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received by mail and telephone. 
+
+
+
+WebsiteAlive does not currently store your submitted credit card information when you place an order. The information submitted is only used for credit card verification and processing and discarded immediately thereafter.
+
+2\. Web Site Use Information
 
 Similar to other commercial Web sites, our Web site utilizes a standard technology called "cookies" (see explanation below, "What Are Cookies?") and Web server logs to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site. This information is collected on an aggregate basis. None of this information is associated with you as an individual.
 
@@ -34,3 +56,27 @@ What About Other Web Sites Linked to Our Web Site? We are not responsible for th
 Please remember that when you use a link to go from our Web site to another Web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other Web site, including Web sites which have a link on our Web site, is subject to that Web site's own rules and policies. Please read over those rules and policies before proceeding.
 
 Your Consent. By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on our Web site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.
+
+3\. Our Policy on Data Collection
+
+In order to access certain subscriber services and restricted areas (the "Restricted Services") within the WebsiteAlive site (the "Site"), AYU Technology Solutions LLC ("WebsiteAlive") requires that you provide certain identifying information (the "Registration Data") listed in the online registration form. This information may include your legal name, address, telephone number(s), e-mail address, subscriber name or "screen name," areas of interest, password used to access Pay services, method of payment, and, if applicable, credit card number. WebsiteAlive reserves the right to request any additional information necessary to establish and maintain your account for use of the Pay Services.
+
+Confidentiality. Registration Data is the property of WebsiteAlive, subject to and protected by the Electronic Communications Privacy Act. WebsiteAlive will not sell, rent, swap, or otherwise disclose your Registration Data to any third party. WebsiteAlive maintains a secured area on the Site for transmission of Registration Data, and stores all Registration Data in a private database which is not connected to the Internet.
+
+Uses of Registration Data. Unless you select the "Opt-Out" option as described below, WebsiteAlive reserves the right to use your Registration Data to send you information about WebsiteAlive, the Site, WebsiteAlive products and services, and other topics in which you have indicated an interest.
+
+Opt-Out Right. If you do not wish to receive any special offers or other communications from WebsiteAlive, you have the right to select the "opt out" option during the registration process or at any time afterwards. You may "opt out" by clicking on the box marked "I DO NOT WISH TO RECEIVE SPECIAL COMMUNICATIONS FROM WebsiteAlive" when you register for an account or at any time afterwards by going to the "Special Offers" area of the Site.
+
+User Access to Information Collected. You may access your Registration Data at any time through the Subscriber services section of the Site. This area is password-restricted for your protection.
+
+Lost or Stolen Information. If your credit card or password is stolen or used without your permission, immediately notify WebsiteAlive. Upon notification WebsiteAlive will cancel your credit card number and/or password and update its records. You may be unable to access certain services while WebsiteAlive processes the credit card and/or password change.
+
+Cancellation. You may cancel your account at any time by sending an e-mail to newaccounts@websitealive.com. Once WebsiteAlive has finished processing the cancellation, WebsiteAlive will delete all your Registration Data from its database. 
+
+No Liability for Acts of Third Parties. Although WebsiteAlive will use all reasonable efforts to safeguard the confidentiality of the Registration Data, transmissions made by means of the Internet cannot be made absolutely secure. WebsiteAlive will have no liability for disclosure of Registration Data due to errors in transmission or unauthorized acts of third parties.
+
+Use of Aggregated Information. WebsiteAlive reserves the right to disclose to third parties information about Subscriber usage of the WebsiteAlive Web site and any related services, including information gathered during your use of the Site. Any information disclosed will be in the form of aggregate data (such as overall patterns or demographic reports) that does not describe or identify any individual user.
+
+Updates. WebsiteAlive reserves the right to change or update this Privacy Policy, or any other company policy or practice, at any time with reasonable notice to users of the Site. Any changes or updates will be effective immediately upon posting to the Site. 
+
+**Last Updated: 2/01/2006**
