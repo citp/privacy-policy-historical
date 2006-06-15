@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everyonedoesit.com privacy policy that was archived on 2005-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051226102439id_/http%3A//www.everyonedoesit.com/about_EDIT/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everyonedoesit.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615224313id_/http%3A//everyonedoesit.com/about_EDIT/privacy_statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -32,3 +32,23 @@ We do not share any personal data with any 3rd part organisation or institution,
 
 External websites   
 This privacy policy covers the usage of EveryoneDoesIT.com only. Where we have linked to external sites, a different privacy policiy may apply.
+
+| 
+
+Shopping Cart
+
+Go to the [**online store**](https://web.archive.org/online_headshop/) to start shopping!
+
+* * *
+
+**Currency Display**
+
+[](https://web.archive.org/members/login/setDisplayCurrency.cfm?sCurrencyCode=GBP)[](https://web.archive.org/members/login/setDisplayCurrency.cfm?sCurrencyCode=EUR)[](https://web.archive.org/members/login/setDisplayCurrency.cfm?sCurrencyCode=USD)[](https://web.archive.org/members/login/setDisplayCurrency.cfm?sCurrencyCode=CAD)[](https://web.archive.org/members/login/setDisplayCurrency.cfm?sCurrencyCode=JPY)  
+ More Currencies:
+
+Member Login
+
+About EveryoneDoesIT
+
+[](https://web.archive.org/about_EDIT/shipping_information/packaging.cfm) [](https://web.archive.org/cannabis_videos/product_information_videos.cfm)  
+[](https://web.archive.org/online_headshop/productCategory.cfm?iProductCategoryID=710) [](http://www.bodyjewelleryshop.com/)
