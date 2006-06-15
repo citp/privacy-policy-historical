@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the imsa.edu privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212055443id_/http%3A//www.imsa.edu/site/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imsa.edu privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615112226id_/http%3A//imsa.edu/site/privacy.php) for the most accurate reproduction.*
 
-# IMSA®: Privacy Policy for Websites Under Domain imsa.edu -- Draft
-
-_This document, an adaptation of the[Illinois Board of Higher Education](http://www.ibhe.org/)'s comparable policies, is a draft and is subject to change in accord with pending review by IMSA's legal counsel. _
-
-* * *
+# IMSA®: Privacy Policy for Websites Under Domain imsa.edu
 
 ## Preamble
 
