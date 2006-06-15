@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the routesonline.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228003426id_/http%3A//www.routesonline.com/lang/english/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the routesonline.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615135443id_/http%3A//www.routesonline.com/lang/english/privacy/privacy.html) for the most accurate reproduction.*
 
 # Routes : Privacy
 
@@ -18,9 +18,9 @@ Copyright
 
 No part of this website may be reproduced or transmitted by any means or stored in any information storage and retrieval system without the organisers written permission.
 
-Copyright © The Route Development Centre Limited. January 2004.
+Copyright © Routes Ltd. January 2006.
 
-'Routes' is the trading name of The Route Development Centre Ltd and is a registered trademark.
+'Routes' is a registered trademark.
 
 Dispute Resolution & Privacy Seals  
 **   
