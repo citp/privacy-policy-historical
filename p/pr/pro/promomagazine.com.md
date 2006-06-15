@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the promomagazine.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228165855id_/http%3A//www.primediabusiness.com/company/privacy.asp%3Fpage%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promomagazine.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615201838id_/http%3A//www.prismb2b.com/company/privacy.asp%3Fpage%3DPrivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
