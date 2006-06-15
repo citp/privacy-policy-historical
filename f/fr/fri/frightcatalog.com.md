@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frightcatalog.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215095824id_/http%3A//www.frightcatalog.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frightcatalog.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615191719id_/http%3A//www.frightcatalog.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Fright Catalog
 
@@ -17,7 +17,7 @@ Credit / Debit Card Information
 
 ## How do we use this information?
 
-We use information you provide about yourself when placing an order only to complete that order. We do not share this billing information with outside parties, except to the extent necessary to complete that order. We use return email addresses to reply to the email that we receive. You can signup online to receive our newsletter that contains updates regarding new products, special offers or services. We may use names in conjunction with an address to send notices and catalogs and to rent to qualified third parties for their use. Anyone may remove themselves from receiving Fright Catalog and third party advertisements in the mail simply by emailing [service@frightcatalog.com](https://web.archive.org/ContactUs.aspx) or calling 1-888-437-4448.
+We use information you provide about yourself when placing an order only to complete that order. We do not share this billing information with outside parties, except to the extent necessary to complete that order. We use return email addresses to reply to the email that we receive. You can signup online to receive our newsletter that contains updates regarding new products, special offers or services. We may use names and email addresses in conjunction with an address to send notices and catalogs and to rent to qualified third parties for their use. Anyone may remove themselves from receiving Fright Catalog and third party advertisements in the mail simply by emailing [service@frightcatalog.com](https://web.archive.org/ContactUs.aspx) or calling 1-888-437-4448.
 
 ## Corrections and Removal
 
