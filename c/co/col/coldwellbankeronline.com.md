@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the coldwellbankeronline.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212141407id_/http%3A//www.coldwellbankeronline.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coldwellbankeronline.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615051225id_/http%3A//coldwellbankeronline.com/custommodules/content/privacy.aspx) for the most accurate reproduction.*
 
-# Coldwell Banker Real Estate - Privacy Policy
+# Coldwell Banker Real Estate in Illinois, Wisconsin, Indiana, Michigan (Chicago real estate, Milwaukee (Wisconsin) real estate, Indiana real estate, Michigan real estate)
 
 Privacy Policy Statement
-
-PRIVACY POLICY
 
 We at **Coldwell Banker Residential Brokerage** (referred to as " **Coldwell Banker** ," " **We** ," " **Us** ," or " **Our** ") recognize the importance of protecting the privacy of certain information collected about the **users and visitors** of Our Web Site (referred to as " **User** ," " **You** " or " **Your** "). This Privacy Policy discloses what information We gather, how We use it, and how to correct or change it. At Coldwell Banker, it is Our intention to give You an understanding about how We collect Your information and the use We make of it in the course of Our business. 
 
@@ -12,9 +10,9 @@ To that end, Coldwell Banker gathers two types of information about You: 1) data
 
 However, be assured that Coldwell Banker will not disclose Personal Information (as defined herein) to third parties without Your consent, except as may be noted in this Privacy Policy or disclosed to You when the information is submitted.
 
-_How Does Coldwell Banker Collect Information?_
+How Does Coldwell Banker Collect Information?
 
-Optional Registration  We collect information by specifically requesting it from You. Generally this occurs when You register at the Web Site or request information or a service. Usually, We and Our business partners use Your information to operate the Web Site and to deliver services. Coldwell Banker also uses Your information to inform You about other products and/or services available from Coldwell Banker and Coldwell Banker-affiliates.
+_Optional Registration_ :  We collect information by specifically requesting it from You. Generally this occurs when You register at the Web Site or request information or a service. Usually, We and Our business partners use Your information to operate the Web Site and to deliver services. Coldwell Banker also uses Your information to inform You about other products and/or services available from Coldwell Banker and Coldwell Banker-affiliates.
 
 Use of Tracking Use of Internet Protocol (“IP”) Addresses:
 
@@ -24,7 +22,7 @@ Coldwell Banker collects IP addresses for the purposes of: helping Us diagnose p
 
 We can, and will, use IP addresses to identify You when We feel it is necessary to enforce compliance with Our Web Site Terms of Use or to protect Our service, site, Users, or others. 
 
-_Use Of Cookies_ What are cookies? Cookies are small pieces of information that a Web site sends to Your computer for record-keeping purposes, which information is stored in a file on Your computer's hard drive. Cookies make Web?surfing easier for You by saving Your preferences so that We can use the saved information to facilitate Your use of Our Web Site when You return to the Web Site. Cookies do not tell Us Your individual identity unless You have chosen to provide it to Us. We never save passwords or credit card information in cookies. The use of cookies is an industry standard, and as such, You will find that most major Web sites use them.
+_Use Of Cookies_ : What are cookies? Cookies are small pieces of information that a Web site sends to Your computer for record-keeping purposes, which information is stored in a file on Your computer's hard drive. Cookies make Web?surfing easier for You by saving Your preferences so that We can use the saved information to facilitate Your use of Our Web Site when You return to the Web Site. Cookies do not tell Us Your individual identity unless You have chosen to provide it to Us. We never save passwords or credit card information in cookies. The use of cookies is an industry standard, and as such, You will find that most major Web sites use them.
 
 By showing how and when Users use the Web Site, cookies help Us see which areas of the Web Site are popular and which are not. Many improvements and updates to the Web Site are based on such data as total number of visitors and pages viewed. This information is most easily tracked with cookies.
 
@@ -38,17 +36,17 @@ With Whom Does Coldwell Banker Share Information?
 
 As a general rule, Coldwell Banker will not disclose any specific personal information that You submit to Us about You (" **Personal Information** ") in a manner that connects You with the Personal Information, except when We have Your permission or under special circumstances, such as when We believe in good faith that the law requires it or under the circumstances described below. The following describes some of the ways that Your Personal Information may be disclosed. 
 
-_Business Partners & Sponsors_:Coldwell Banker may disclose some or all of Your Personal Information to business partners or sponsors, but this use will be specifically described to You prior to data collection or prior to transferring the data. Many promotions offer opportunities to request additional information from sponsors. By requesting more information, You give Coldwell Banker permission to transfer Your Personal Information to the sponsor so they can fulfill Your request. In many instances, only Your e-mail address will be shared. If more Personal Information will be shared with the sponsor, You will be notified prior to the transfer. 
+_Business Partners & Sponsors_: Coldwell Banker may disclose some or all of Your Personal Information to business partners or sponsors, but this use will be specifically described to You prior to data collection or prior to transferring the data. Many promotions offer opportunities to request additional information from sponsors. By requesting more information, You give Coldwell Banker permission to transfer Your Personal Information to the sponsor so they can fulfill Your request. In many instances, only Your e-mail address will be shared. If more Personal Information will be shared with the sponsor, You will be notified prior to the transfer. 
 
-_Third Party & Aggregate Data_:From time to time, You may be offered the opportunity to receive materials or special offers from third parties. If You opt to receive information from these third parties, Coldwell Banker will (with Your permission) share Your name and e-mail address with such third parties. Under confidentiality agreements, Coldwell Banker may match Personal Information with third party data. Also, Coldwell Banker may keep track of what portions of the Web Site Users are visiting and other User statistics, and aggregate this information to help Us create a better experience for Users of Our Web Site. This is all done without knowing Your name or other Personal Information in order to describe Our viewers and services to prospective partners, advertisers, and other third parties, and for other lawful purposes. 
+_Third Party & Aggregate Data_: From time to time, You may be offered the opportunity to receive materials or special offers from third parties. If You opt to receive information from these third parties, Coldwell Banker will (with Your permission) share Your name and e-mail address with such third parties. Under confidentiality agreements, Coldwell Banker may match Personal Information with third party data. Also, Coldwell Banker may keep track of what portions of the Web Site Users are visiting and other User statistics, and aggregate this information to help Us create a better experience for Users of Our Web Site. This is all done without knowing Your name or other Personal Information in order to describe Our viewers and services to prospective partners, advertisers, and other third parties, and for other lawful purposes. 
 
-_Other:_ Coldwell Banker may also disclose account information in special cases when We have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating Our Terms of Use, or may be causing injury to or interference (either intentionally or unintentionally) with any of Coldwell Banker's rights or property, other Users, or anyone else. Coldwell Banker may disclose or access account information when We believe in good faith that the law requires it and for administrative and other purposes that We deem necessary to maintain, service, and improve Our products and services. 
+_Other_ : Coldwell Banker may also disclose account information in special cases when We have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating Our Terms of Use, or may be causing injury to or interference (either intentionally or unintentionally) with any of Coldwell Banker's rights or property, other Users, or anyone else. Coldwell Banker may disclose or access account information when We believe in good faith that the law requires it and for administrative and other purposes that We deem necessary to maintain, service, and improve Our products and services. 
 
-_How Can You Control The Usage Of Information?_
+How Can You Control The Usage Of Information?
 
 In case You change Your mind or some Personal Information changes (such as Your zip code or e-mail address), We will try to provide a way to correct, update or remove the Personal Information that You give us. We also give You the opportunity to control the communications We direct to You. If a User wishes to update Personal Information or objects to any usage provided herein for any reason, he/she may e-mail the requested change to: **[[Coldwell Banker Online Webmaster](mailto:webmaster@cbexchange.com)].**
 
-_What Happens When You Link To A Third Party Site?_
+What Happens When You Link To A Third Party Site?
 
 You should be aware that when You are on Coldwell Banker's and/or Coldwell Banker-affiliates' Web site You can hyperlink, or be directed to, other Web sites that are beyond Our control and/or outside Our service. For example, if You "click" on a banner advertisement or a Coldwell Banker search result, the "click" may transfer You off Our Web Site. These other Web sites may include sites of advertisers, sponsors, and partners that may use Our and/or Coldwell Banker-affiliates' logo as part of a co-branding agreement. These other Web sites may send their own cookies to Users, collect data, or solicit Information. 
 
@@ -56,7 +54,7 @@ Coldwell Banker and Coldwell Banker-affiliates do not control such Web sites, an
 
 Please keep in mind that whenever You give out information on-line (for example, via message boards or forums) that information can be collected and used by people You do not know. While Coldwell Banker and Coldwell Banker-affiliates strive to protect Users' information and privacy, We cannot guarantee the security of any information You disclose on-line, and You disclose such information at Your own risk. 
 
-_Is Information Secure From Others Using The Coldwell Banker Web Site?_
+Is Information Secure From Others Using The Coldwell Banker Web Site?
 
 The security of all information associated with Our Users is an important concern to Us. We exercise care in providing secure transmission of Your information from Your computer to Our servers. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while We strive to protect Your information, Coldwell Banker and Coldwell Banker-affiliates can't ensure or warrant the security of any information You transmit to Us or from Our on-line products or services, and You do so at Your own risk. Once We receive Your transmission, Coldwell Banker uses industry standard efforts to safeguard the confidentiality of Your information, such as firewalls and Secure Socket Layers (SSL). However, "perfect security" does not exist on the Internet.
 
@@ -64,4 +62,4 @@ YOUR ACCEPTANCE OF THE TERMS OF THIS PRIVACY POLICY
 
 By using Our Web Site, You signify Your agreement to Coldwell Banker's Privacy Policy. **IF YOU DO NOT AGREE WITH THIS PRIVACY POLICY, PLEASE DO NOT USE THIS WEB SITE.** Your continued use of Coldwell Banker's and/or Coldwell Banker-affiliates' Web sites following the posting of changes to these terms will mean You accept those changes.
 
-**> > Back to Top**
+Back to Top
