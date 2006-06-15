@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itsyourtimes.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210193325id_/http%3A//www.sptimes.com/INCLUDE/specials/privacypolicy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsyourtimes.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615211443id_/http%3A//www.sptimes.com/INCLUDE/specials/privacypolicy/index.html) for the most accurate reproduction.*
 
 # St. Petersburg Times Online - Privacy Policy
 
