@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the timeout.com privacy policy that was archived on 2005-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051231102457id_/http%3A//www.timeout.com/about/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the timeout.com privacy policy that was archived on 2006-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615041648id_/http%3A//www.timeout.com/about/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
@@ -13,26 +13,31 @@
 	<link href="/inc/css/common.css" rel="stylesheet" type="text/css" media="all">
 		<link href="/inc/css/menu.css" rel="stylesheet" type="text/css" media="all">
 		<meta http-equiv="imagetoolbar" content="no">
+	<style>
+	<!-- 
+	.topnavItem	-->
+	</style>
 </head>
 <body>
 <div id="logo">
-	<a onclick="rc('logo', this.href);" href="/"><img src="/img/logo_small.gif" alt="Time Out Logo" border="0"></a>	
+	<a onclick="rc('logo', this.href);" href="/"><img src="/img/logo_small.gif" alt="Time Out Logo" border="0"></a>
 </div>
 
 <!--ignore_perlfect_search-->
-<div id="topNav"> 
+<div id="topNav">
 	<table width="747" border="0" cellspacing="0" cellpadding="0">
 		<tbody><tr>
 			<td width="9">&nbsp;</td>
             <td><span class="topnavItem"><a onclick="rc('nav', this.href);" href="/" title="Time Out Group homepage">Home</a></span><span class="topnavItem"><a onclick="rc('nav', this.href);" href="/travel/" title="Travel homepage">Travel</a></span><span class="topnavItem"><a onclick="rc('nav', this.href);" href="/london/" title="London city guide">London</a></span><span class="topnavItem"><a onclick="rc('nav', this.href);" href="/film/" title="Time Out Film">Film</a></span><span class="topnavItem"><a onclick="rc('nav', this.href);" href="/london/restaurants/" title="Restaurants, Bars &amp; Pubs">Restaurants</a> &amp; <a onclick="rc('nav', this.href);" href="/london/bars/" title="Bars &amp; Pubs">Bars</a></span><span class="topnavItem"><a onclick="rc('nav', this.href);" href="/shop/" title="Time Out Online Shop">Shop</a></span><span class="topnavItem"><a onclick="rc('nav', this.href);" href="/newyork/" title="New York city guide">New York</a></span></td>
             <td width="52"><span class="topnavItemSearch">Search</span></td>
-            <td width="142">
-				<form id="searchForm" name="searchForm" action="/search/" method="get">
-					<input type="hidden" name="proximity" value="line">
-					<input type="hidden" name="suffixproc" value="exact">
+            <td width="217" valign="middle">
+				<form id="searchForm" name="searchForm" action="http://www.google.com/custom" method="get" onsubmit="return gs();">
+					<input type="hidden" name="sitesearch" value="www.timeout.com">
+					<input type="hidden" name="cof" value="GALT:#888888;S:http://www.timeout.com;GL:0;AH:left;LH:77;LC:#4080d0;GFNT:grey;L:http://www.timeout.com/img/googlebannerlogo.jpg;LW:821;T:black;GIMP:#888888;AWFID:47d93fe285122d9b;">
 
-					<input class="navSearchBox" type="text" name="arg" size="15">
-					<input type="image" value="SEARCH" name="cmd" src="/img/nav/go.gif" title="Go!" height="14" width="14" border="0" class="navSearchButton">
+					<input class="navSearchBox" type="text" name="q" size="15" maxlength="255">
+					<input type="image" value="SEARCH" name="sa" src="/img/nav/go.gif" title="Go!" height="14" width="14" border="0" class="navSearchButton">
+					<a href="http://www.google.com/search"><img src="/img/ads/google_logo.gif" height="32" width="75" hspace="5" border="0" alt="Google" align="middle"></a>
 				</form>
 			</td>
 		</tr>
@@ -47,6 +52,29 @@ function rc( id, path )
     if( document.images ) {
         ( new Image() ).src="/rc.php?id=" + id + "&path=" + path + "\"";
     }
+}
+// Get the search request and page we are on
+
+function gs()
+{	
+	//
+	// set all vars using a mixture of PHP and the DOM
+	var query, i, u;
+	query = document.searchForm.q.value;
+	i     = '209.237.238.228';
+	u     = '/about/privacy.php';
+	
+	// make sure the virtual image is loaded!
+	function mY(){ document.searchForm.submit(); }
+	
+	// lets now call the 'image'
+	
+	if( document.images ) {
+		clearImage = new Image();
+		clearImage.src="/recordgooglequery.php?q=" + query + "&i=" + i + "&u=" + u ;
+		clearImage.onload = mY;
+	}
+    return false;
 }
 -->
 </script>
@@ -138,9 +166,45 @@ You can contact TOL regarding this policy by mail, at Time Out London, 251 Totte
 <tbody><tr><td valign="middle" width="244"><img src="/img/v2/register_email.gif" width="244" height="12" alt="Register for our weekly newsletter" style="padding: 2px 3px 0px 0px;"></td><td valign="middle"><input name="email" value="e-mail address" onclick="this.value='';" size="25" type="text" style="border: 1px solid #aaaaaa; font-size: 10px;"> <input src="/img/v2/symbols/go_small_red_gb.gif" value="Sign-up" alt="Sign-up" class="searchButton" style="margin: 0px 0px -2px 5px;" height="15" type="image" width="15"></td></tr></tbody></table></center></form>
 </div></center>
 
-© 2005 Time Out Group Ltd. All rights reserved.<br>
-<a href="/about/">About the site</a> | <a href="/contact/">Contact Us</a> | <a href="/about/privacy.php">Privacy policy</a> | <a href="/about/vacancies.php">Jobs at Time Out</a> | <a href="/about/advertising.php">Advertising</a>  <!-- | <a href="#">Corporate</a> -->
+© 2006 Time Out Group Ltd. All rights reserved.<br>
+<a href="/about/">About the site</a> | <a href="/contact/">Contact Us</a> | <a href="/about/privacy.php">Privacy policy</a> | <a href="/about/vacancies.php">Jobs at Time Out</a> | <a href="/about/advertising.php">Advertising</a>
 </div>
+
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript">
+_uacct = "UA-230644-1";
+urchinTracker();
+</script>
+
+
+<script language="javascript">
+var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
+var hbx=_hbEvent("pv");hbx.vpc="HBX0200u";hbx.gn="ww0.timeout.com";
+
+//CONFIGURATION VARIABLES
+hbx.acct="DM5605191HED;DM56051694AW";// ACCOUNT NUMBER(S)
+hbx.pn="/Privacy";//PAGE NAME(S)
+hbx.mlc="/about";//MULTI-LEVEL CONTENT CATEGORY
+hbx.pndef="title";//DEFAULT PAGE NAME
+hbx.ctdef="full";//DEFAULT CONTENT CATEGORY
+
+//OPTIONAL PAGE VARIABLES
+//ACTION SETTINGS
+hbx.fv="";//FORM VALIDATION MINIMUM ELEMENTS OR SUBMIT FUNCTION NAME
+hbx.lt="auto";//LINK TRACKING
+hbx.dlf="!.do";//DOWNLOAD FILTER
+hbx.dft="n";//DOWNLOAD FILE NAMING
+hbx.elf="n";//EXIT LINK FILTER
+
+//SEGMENTS AND FUNNELS
+hbx.seg="";//VISITOR SEGMENTATION
+hbx.fnl="";//FUNNELS
+
+hbx.hc1="0"; // logedin
+</script><script language="javascript1.1" src="http://www.timeout.com/inc/js/util.js"></script>
+<!--END WEBSIDESTORY CODE-->
+
 	</div>
 </div>	
 
@@ -148,43 +212,42 @@ You can contact TOL regarding this policy by mail, at Time Out London, 251 Totte
 		<div id="pos0e">
 			<div id="sideAds">
 <div class="adWrapper">
-	<div><a href="/external_link/?http://www.expedia.co.uk/daily/common/redir.asp?eapid=194-3&amp;url=http://www.expedia.co.uk/" target="_blank"><img src="/img/ads/logo_expedia.gif" width="118" height="30" alt="Expedia.co.uk logo" border="0"></a></div>
-	<div class="adExpedia">
-		<div><a href="/external_link/?http://www.expedia.co.uk/daily/common/redir.asp?eapid=194-3&amp;url=http://www.expedia.co.uk/daily/promos/seatsale/flights.asp" class="submenu" style="font-weight: normal;" target="_blank">flights</a></div>
-		<div><a href="/external_link/?http://www.expedia.co.uk/daily/common/redir.asp?eapid=194-3&amp;url=http://www.expedia.co.uk/daily/deals/hotel/default.asp" class="submenu" style="font-weight: normal;" target="_blank">hotels</a></div>
-		<div><a href="/external_link/?http://www.expedia.co.uk/daily/common/redir.asp?eapid=194-3&amp;url=http://www.expedia.co.uk/daily/promos/seatsale/car_deals.asp" class="submenu" style="font-weight: normal;" target="_blank">car hire</a></div>
-		<div><a href="/external_link/?http://www.expedia.co.uk/daily/common/redir.asp?eapid=194-3&amp;url=http://www.expedia.co.uk/daily/edit/store/citybreaks/" class="submenu" style="font-weight: normal;" target="_blank">city breaks</a></div>
-		<div><a href="/external_link/?http://www.expedia.co.uk/daily/common/redir.asp?eapid=194-3&amp;url=http://www.expedia.co.uk/daily/edit/store/lastminute/" class="submenu" style="font-weight: normal;" target="_blank">last minute breaks</a></div>
-	</div>
+    
 
-	<div class="adDivider"></div>
-
-	<div><a href="/external_link/?http://www.octopustravel.com/Enter.jsp?siteid=timeoutweb" target="_blank"><img src="/img/ads/logo_octopus.gif" width="118" height="24" alt="OctopusTravel.com logo" border="0"></a></div>
-	<div class="adOctopus">
-		<div><a href="/external_link/?http://www.octopustravel.com/Enter.jsp?siteid=timeoutweb&amp;start=SearchHotels.jsp?&amp;dest=&amp;country=GB&amp;currency=GBP" class="submenu" style="font-weight: normal;" target="_blank">huge hotel savings</a></div>
-		<div><a href="/external_link/?http://www.octopustravel.com/Enter.jsp?siteid=timeoutweb&amp;start=SearchSeeDo.jsp?&amp;country=GB&amp;currency=GBP" class="submenu" style="font-weight: normal;" target="_blank">sightseeing tours</a></div>
-		<div><a href="/external_link/?http://www.octopustravel.com/enter.jsp?siteid=timeoutweb&amp;start=HotDealCountryList.jsp" class="submenu" style="font-weight: normal;" target="_blank">hot hotel deals</a></div>
-		<div><a href="/external_link/?http://www.octopustravel.com/enter.jsp?siteid=timeoutweb&amp;start=ApartmentCountrySelection.jsp&amp;country=GB&amp;currency=GBP" class="submenu" style="font-weight: normal;" target="_blank">apartments &amp; villas</a></div>
-	</div>
-
-	<div class="adDivider"></div>
-
-	<div><a href="/external_link/?http://www.lastminute.com?source=pnr00000tmo0000but000000" class="submenu" target="_blank"><img src="/img/ads/logo_lastminute.gif" width="118" height="24" alt="lasminute.com logo" border="0"></a></div>
-	<div class="adLastMinute">
-		<div><a href="/external_link/?http://www.lastminute.com/site/travel/holidays/citybreaks?source=pnrpac00tmo0000but000000" class="submenu" style="font-weight: normal;" target="_blank">city breaks</a></div>
-		<div><a href="/external_link/?http://www.lastminute.com/site/travel/hotels?source=pnrhot00tmo0000but000000" class="submenu" style="font-weight: normal;" target="_blank">up to 70% off hotels</a></div>
-	</div>
-
-
-		<div class="adDivider"></div>
-	<div><a href="/external_link/?http://uk.hotels.com/hotel-htdocs/uk/timeout.htm" target="_blank"><img src="/img/ads/logo_hotels.com.gif" width="118" height="24" alt="Hotels.com" border="0"></a></div>
-	<div class="adHotelscom">
-		<div><a href="/external_link/?http://uk.hotels.com/hotel-htdocs/uk/timeout.htm" class="submenu" style="font-weight: normal;" target="_blank">hotels big discounts</a></div>
-	</div>
-
+<div><a target="_blank" href="http://www.timeout.com/ads/adclick.php?bannerid=143&amp;zoneid=40&amp;source=&amp;dest=http%3A%2F%2Fwww.timeout.com%2Fexternal_link%2F%3Fhttp%3A%2F%2Fad.uk.doubleclick.net%2Fclk%3B29664271%3B12990751%3Bo%3Fhttp%3A%2F%2Fuk.hotels.com%2Fhotel-htdocs%2Fuk%2Ftimeout.htm&amp;ismap="><img src="http://www.timeout.com/img/ads/logo_hotels.com.gif" width="118" height="24" alt="Hotels.com" border="0"></a></div>
+<div class="adHotelscom">
+<div><a target="_blank" href="http://www.timeout.com/ads/adclick.php?bannerid=143&amp;zoneid=40&amp;source=&amp;dest=http%3A%2F%2Fwww.timeout.com%2Fexternal_link%2F%3Fhttp%3A%2F%2Fad.uk.doubleclick.net%2Fclk%3B29664271%3B12990751%3Bo%3Fhttp%3A%2F%2Fuk.hotels.com%2Fhotel-htdocs%2Fuk%2Ftimeout.htm&amp;ismap=" class="submenu" style="font-weight: normal;">hotels big discounts</a></div>
+</div><div id="beacon_143" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.timeout.com/ads/adlog.php?bannerid=143&amp;clientid=60&amp;zoneid=40&amp;source=&amp;block=0&amp;capping=0&amp;cb=98cb86fd0527122cd1e1b3dad24570c6" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div><div class="adDivider"></div><div><a target="_blank" href="http://www.timeout.com/ads/adclick.php?bannerid=165&amp;zoneid=40&amp;source=&amp;dest=http%3A%2F%2Fwww.timeout.com%2Fexternal_link%2F%3Fhttp%3A%2F%2Fen.venere.com%2Fhotels_london%2F%3Fref%3D40610&amp;ismap=" title="london hotel deals"><img src="/img/ads/logo_venere.gif" width="118" height="24" alt="Venere.com" border="0"></a></div>
+<div class="adVenere">
+<div><a target="_blank" href="http://www.timeout.com/ads/adclick.php?bannerid=165&amp;zoneid=40&amp;source=&amp;dest=http%3A%2F%2Fwww.timeout.com%2Fexternal_link%2F%3Fhttp%3A%2F%2Fen.venere.com%2Fhotels_london%2F%3Fref%3D40610&amp;ismap=" class="submenu" style="font-weight: normal;" title="hotel deals">hotel deals</a></div>
+</div><div id="beacon_165" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.timeout.com/ads/adlog.php?bannerid=165&amp;clientid=48&amp;zoneid=40&amp;source=&amp;block=0&amp;capping=0&amp;cb=21e35485ff6dae66b3a8cecfc88d32a1" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div><div class="adDivider"></div><div><a target="_blank" href="http://www.timeout.com/ads/adclick.php?bannerid=135&amp;zoneid=40&amp;source=&amp;dest=http%3A%2F%2Fwww.timeout.com%2Fexternal_link%2F%3Fhttp%3A%2F%2Fwww.raileurope.co.uk%3Fsource%3Dtime_out%26campaign%3Drail_europe%26type%3Dservices_button_logo%26affiliate%3DRELADV011&amp;ismap="><img src="http://www.timeout.com/img/ads/logo_raileurope.gif" width="118" height="24" alt="europeanrail.co.uk" border="0"></a></div>
+<div class="adTopTable" style="background-color: #CCCCFF">
+<div><a target="_blank" href="http://www.timeout.com/ads/adclick.php?bannerid=135&amp;zoneid=40&amp;source=&amp;dest=http%3A%2F%2Fwww.timeout.com%2Fexternal_link%2F%3Fhttp%3A%2F%2Fwww.raileurope.co.uk%2Feuropeantickets%3Fsource%3Dtime_out%26campaign%3Deuropean_rail%26type%3Dservices_button_link_1%26affiliate%3DRELADV011&amp;ismap=" class="submenu" style="font-weight: normal;">European Rail</a></div>
+<div><a target="_blank" href="http://www.timeout.com/ads/adclick.php?bannerid=135&amp;zoneid=40&amp;source=&amp;dest=http%3A%2F%2Fwww.timeout.com%2Fexternal_link%2F%3Fhttp%3A%2F%2Fwww.raileurope.co.uk%2Finterrail%2Findex.asp%3Fsource%3Dtime_out%26campaign%3Dinter-rail%26type%3Dservices_button_link_2%26affiliate%3DRELADV011&amp;ismap=" class="submenu" style="font-weight: normal;">Inter-Rail</a></div>
+</div><div id="beacon_135" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.timeout.com/ads/adlog.php?bannerid=135&amp;clientid=56&amp;zoneid=40&amp;source=&amp;block=0&amp;capping=0&amp;cb=9deca80ac497b4d695ea44c982829d4c" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div><div class="adDivider"></div><div><a target="_blank" href="http://www.timeout.com/ads/adclick.php?bannerid=2&amp;zoneid=40&amp;source=&amp;dest=http%3A%2F%2Fwww.timeout.com%2Fexternal_link%2F%3Fhttp%3A%2F%2Fwww.octopustravel.com%2FEnter.jsp%3Fsiteid%3Dtimeoutweb&amp;ismap="><img src="/img/ads/logo_octopus.gif" width="118" height="24" alt="OctopusTravel.com logo" border="0"></a></div>
+<div class="adOctopus">
+<div><a target="_blank" href="http://www.timeout.com/ads/adclick.php?bannerid=2&amp;zoneid=40&amp;source=&amp;dest=http%3A%2F%2Fwww.timeout.com%2Fexternal_link%2F%3Fhttp%3A%2F%2Fwww.octopustravel.com%2FEnter.jsp%3Fsiteid%3Dtimeweb2%26start%3DSearchHotels.jsp%26Country%3DGB%26Currency%3DGBP&amp;ismap=" class="submenu" style="font-weight: normal;">best hotel web rates</a></div>
+<div><a target="_blank" href="http://www.timeout.com/ads/adclick.php?bannerid=2&amp;zoneid=40&amp;source=&amp;dest=http%3A%2F%2Fwww.timeout.com%2Fexternal_link%2F%3Fhttp%3A%2F%2Fwww.octopustravel.com%2FEnter.jsp%3Fsiteid%3Dtimeweb2%26start%3DSearchSeeDo.jsp%26Country%3DE%26Currency%3DGBP%26tourlang%3DE&amp;ismap=" class="submenu" style="font-weight: normal;">sightseeing tours</a></div>
+</div><div id="beacon_2" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.timeout.com/ads/adlog.php?bannerid=2&amp;clientid=41&amp;zoneid=40&amp;source=&amp;block=0&amp;capping=0&amp;cb=f83355a863aba7ee4e357165aa325b83" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div><div class="adDivider"></div><div><a target="_blank" href="http://www.timeout.com/ads/adclick.php?bannerid=133&amp;zoneid=40&amp;source=&amp;dest=http%3A%2F%2Fwww.timeout.com%2Fexternal_link%2F%3Fhttp%3A%2F%2Fwww.hotelclub.com%2Fenter.asp%3Fid%3D2085%26ismap%3D&amp;ismap="><img src="http://www.timeout.com/img/ads/logo_hotelclub.gif" width="118" height="24" alt="hotelclub.com" border="0"></a></div>
+<div class="adHotelclub" style="margin: 0px">
+<div><a target="_blank" href="http://www.timeout.com/ads/adclick.php?bannerid=133&amp;zoneid=40&amp;source=&amp;dest=http%3A%2F%2Fwww.timeout.com%2Fexternal_link%2F%3Fhttp%3A%2F%2Fwww.hotelclub.com%2Fenter.asp%3Fid%3D2085%26ismap%3D&amp;ismap=" class="submenu" style="font-weight: normal;">20000 hotels worldwide</a></div>
+</div><div id="beacon_133" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.timeout.com/ads/adlog.php?bannerid=133&amp;clientid=52&amp;zoneid=40&amp;source=&amp;block=0&amp;capping=0&amp;cb=fce2369893fa1b0f08e380dfc8bfaa17" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div><div class="adDivider"></div><div><a target="_blank" href="http://www.timeout.com/ads/adclick.php?bannerid=122&amp;zoneid=40&amp;source=&amp;dest=http%3A%2F%2Fwww.timeout.com%2Fexternal_link%2F%3Fhttp%3A%2F%2Fwww.expedia.co.uk%2Fpubspec%2Fscripts%2Feap.asp%3Feapid%3D194-3%26INTRO%3Dhttp%3A%2F%2Fwww.expedia.co.uk%2Fdaily%2Fdeals%2Fdefault.aspx+&amp;ismap="><img src="http://www.timeout.com/img/ads/logo_expedia.gif" width="118" height="30" alt="Expedia.co.uk logo" border="0"></a></div>
+<div class="adExpedia">
+<div><a target="_blank" href="http://www.timeout.com/ads/adclick.php?bannerid=122&amp;zoneid=40&amp;source=&amp;dest=http%3A%2F%2Fwww.timeout.com%2Fexternal_link%2F%3Fhttp%3A%2F%2Fwww.expedia.co.uk%2Fpubspec%2Fscripts%2Feap.asp%3Feapid%3D194-3%26INTRO%3Dhttp%3A%2F%2Fwww.expedia.co.uk%2Fdaily%2Fdeals%2Fdefault.aspx+&amp;ismap=" class="submenu" style="font-weight: normal;">great travel deals</a></div>
+<div><a target="_blank" href="http://www.timeout.com/ads/adclick.php?bannerid=122&amp;zoneid=40&amp;source=&amp;dest=http%3A%2F%2Fwww.timeout.com%2Fexternal_link%2F%3Fhttp%3A%2F%2Fwww.expedia.co.uk%2Fpubspec%2Fscripts%2Feap.asp%3Feapid%3D194-3%26INTRO%3Dhttp%3A%2F%2Fwww.expedia.co.uk%2Fdaily%2Fholidays%2Fweekend-breaks.aspx+&amp;ismap=" class="submenu" style="font-weight: normal;">great weekend breaks</a></div>
+</div><div id="beacon_122" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.timeout.com/ads/adlog.php?bannerid=122&amp;clientid=37&amp;zoneid=40&amp;source=&amp;block=0&amp;capping=0&amp;cb=c4047ff58f297f9623437514b3ad619d" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div><div class="adDivider"></div><div><a target="_blank" href="http://www.timeout.com/ads/adclick.php?bannerid=138&amp;zoneid=40&amp;source=&amp;dest=http%3A%2F%2Fwww.timeout.com%2Fexternal_link%2F%3Fhttp%3A%2F%2Fwww.ebookers.com%2Fflights%2Findex.html%2FGCID%3DC11291x060%26keyword%3Dtimehome&amp;ismap=" title="ebookers"><img src="/img/ads/logo_ebookers.gif" width="118" height="24" alt="ebookers" border="0"></a></div>
+<div class="adEbookers">
+<div><a target="_blank" href="http://www.timeout.com/ads/adclick.php?bannerid=138&amp;zoneid=40&amp;source=&amp;dest=http%3A%2F%2Fwww.timeout.com%2Fexternal_link%2F%3Fhttp%3A%2F%2Fwww.ebookers.com%2Fflights%2Findex.html%2FGCID%3DC11291x060%26keyword%3Dtimehome&amp;ismap=" class="submenu" style="font-weight: normal;" title="great flight deals">great flight deals</a></div>
+<div><a target="_blank" href="http://www.timeout.com/ads/adclick.php?bannerid=138&amp;zoneid=40&amp;source=&amp;dest=http%3A%2F%2Fwww.timeout.com%2Fexternal_link%2F%3Fhttp%3A%2F%2Fwww.ebookers.com%2Fcar_hire%2Findex.html%3FGCID%3DC11291x060%26keyword%3Dtimehome&amp;ismap=" class="submenu" style="font-weight: normal;" title="cheap car hire">cheap car hire</a></div>
+</div>
+<div id="beacon_138" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.timeout.com/ads/adlog.php?bannerid=138&amp;clientid=50&amp;zoneid=40&amp;source=&amp;block=0&amp;capping=0&amp;cb=8753f6a7ab7a7b1a08ad337b0e9341ba" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div><div class="adDivider"></div><div><a target="_blank" href="http://www.timeout.com/ads/adclick.php?bannerid=3&amp;zoneid=40&amp;source=&amp;dest=http%3A%2F%2Fwww.timeout.com%2Fexternal_link%2F%3Fhttp%3A%2F%2Fwww.lastminute.com%3Fsource%3Dpnr00000tmo0000but000000&amp;ismap=" class="submenu"><img src="/img/ads/logo_lastminute.gif" width="118" height="24" alt="lasminute.com logo" border="0"></a></div>
+<div class="adLastMinute">
+<div><a target="_blank" href="http://www.timeout.com/ads/adclick.php?bannerid=3&amp;zoneid=40&amp;source=&amp;dest=http%3A%2F%2Fwww.timeout.com%2Fexternal_link%2F%3Fhttp%3A%2F%2Fwww.lastminute.com%2Fsite%2Ftravel%2Fholidays%2Fcitybreaks%3Fsource%3Dpnrpac00tmo0000but000000&amp;ismap=" class="submenu" style="font-weight: normal;">city breaks</a></div>
+<div><a target="_blank" href="http://www.timeout.com/ads/adclick.php?bannerid=3&amp;zoneid=40&amp;source=&amp;dest=http%3A%2F%2Fwww.timeout.com%2Fexternal_link%2F%3Fhttp%3A%2F%2Fwww.lastminute.com%2Fsite%2Ftravel%2Fhotels%3Fsource%3Dpnrhot00tmo0000but000000&amp;ismap=" class="submenu" style="font-weight: normal;">up to 70% off hotels</a></div>
+</div>
+<div id="beacon_3" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.timeout.com/ads/adlog.php?bannerid=3&amp;clientid=6&amp;zoneid=40&amp;source=&amp;block=0&amp;capping=0&amp;cb=3238ce08e9c36b9613eb434d97fe5fd8" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div><div class="adDivider"></div><div class="adDivider"></div><div class="adDivider"></div>
 	<div class="adBottom"></div>
 </div>
-
 <br>
 
 
@@ -203,7 +266,9 @@ You can contact TOL regarding this policy by mail, at Time Out London, 251 Totte
 								<p>[<a onclick="rc('as', this.href);" href="/shop/" title="Buy more guide books in the Time Out shop">Visit the shop</a>]</p>
 				</div>
 			</div>
-		</div>		</div>		
+		
+
+</div>		</div>		
 	
 		
 		        <!-- Top adverts -->
@@ -215,13 +280,17 @@ You can contact TOL regarding this policy by mail, at Time Out London, 251 Totte
 		<!------- Start of Ad'LINK ADJ Tag - Javascript Format , size : 468x60 ------>
 		<table cellspacing="0" cellpadding="0" border="0" width="468" height="60"><tbody><tr>
 		<td valign="top" border="0" width="468" height="60">
+		
 		<script language="JavaScript">
 		   if(typeof(adlink_randomnumber)=="undefined"){var adlink_randomnumber=Math.floor(Math.random()*10000000000)}
 		   document.write('<scr'+'ipt language="JavaScript" src="http://ad.uk.doubleclick.net/adj/uktimeout.co.uk/ros;dcopt=ist;sz=468x60;ord='+adlink_randomnumber+'?"><\/scr'+'ipt>');
-		</script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/uktimeout.co.uk/ros;dcopt=ist;sz=468x60;ord=7043113654?"></script><noscript>
+		</script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/uktimeout.co.uk/ros;dcopt=ist;sz=468x60;ord=3140836569?"></script><noscript>
 		<a href="http://ad.uk.doubleclick.net/jump/uktimeout.co.uk/ros;sz=468x60;ord=1234567890?" target="_blank">
 		<img src="http://ad.uk.doubleclick.net/ad/uktimeout.co.uk/ros;sz=468x60;ord=1234567890?" border="0" width="468" height="60">
-		</a></noscript></td></tr></tbody></table>
+		</a></noscript></td>
+		
+		</tr>
+		</tbody></table>
 		<!------- End of Ad'LINK ADJ Tag - Javascript Format, size : 468x60  ------>
 	</div>
 	<div id="ad120x60">
