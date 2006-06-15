@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crazyshit.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210083253id_/http%3A//crazyshit.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazyshit.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615193215id_/http%3A//crazyshit.com/privacy.php) for the most accurate reproduction.*
 
-# Crazyshit.com's Privacy Statement.:
+# Crazyshit.com's Privacy Statement.
 
 **Crazyshit.com's Privacy Statement:**  
 Thank you for visiting Crazyshit.com, a C.S. Networks Inc. site. C.S. Networks Inc. has created this statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for the CrazyShit.com website. 
