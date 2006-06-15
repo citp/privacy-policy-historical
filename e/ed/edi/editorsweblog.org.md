@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the editorsweblog.org privacy policy that was archived on 2005-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051123211507id_/http%3A//www.wan-press.org/editorweblog.policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the editorsweblog.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615054146id_/http%3A//www.editorsweblog.org/2005/07/privacy_policy.php) for the most accurate reproduction.*
 
-# World Editors Forum Privacy Policy
-
-**World Editors Forum Privacy Policy**
+# Editors Weblog - all postings
 
 The World Editors Forum is the organisation for Editors within the World Association of Newspapers ([www.wan-press.org](http://www.wan-press.org/)).
 
