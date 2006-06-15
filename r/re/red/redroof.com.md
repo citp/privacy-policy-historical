@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redroof.com privacy policy that was archived on 2005-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051123204322id_/http%3A//www.redroof.com/about_the_roof/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redroof.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615125944id_/http%3A//www.redroof.com/about_the_roof/privacy.asp) for the most accurate reproduction.*
 
 # Red Roof Inns | Privacy Protection Policy
 
@@ -29,7 +29,7 @@ What we will and will not do with Guest Information:
 
 2\. We may use Guest Information to offer goods and services we believe may be of interest to you on behalf of ourselves, our affiliates and our franchisees. We may use Guest Information to contact you to inquire or survey about the guest experience at the location(s) visited and the prospect of future stays or improvements needed to attract additional business. We may also create and use aggregate Guest Information that is not personally identifiable to understand more about the common traits and interests of our Guests. 
 
-3\. We may utilize one or more third-party service providers to send email or other communications to you on our behalf. These service providers are prohibited from using your email address or other contact information for any purpose other than to send communications on our behalf. 
+3\. We may utilize one or more third-party service providers to send email or other communications to you on our behalf, including guest satisfaction survey. These service providers are prohibited from using your email address or other contact information for any purpose other than to send communications on our behalf. 
 
 Emails about Special Offers and Promotions and Opt-Out
 
@@ -66,4 +66,4 @@ All contents of this website are protected by United States and International Co
 
 Privacy Protection Policy Changes
 
-In the future, we may need to change this Policy. All changes will be included on this web site so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone. This Policy was last updated on September 20, 2005. 
+In the future, we may need to change this Policy. All changes will be included on this web site so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone. This Policy was last updated on December 20, 2005. 
