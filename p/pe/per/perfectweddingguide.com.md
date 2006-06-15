@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the perfectweddingguide.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229034755id_/http%3A//www.perfectweddingguide.com/home_legal_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectweddingguide.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615050445id_/http%3A//perfectweddingguide.com/home_legal_privacy.asp) for the most accurate reproduction.*
 
-# Weddings - Perfect Wedding Guide
+# Orlando Weddings
 
 **Privacy Policy**
 
@@ -60,7 +60,7 @@ OPT-OUT **
 
 _(1) Send an e-mail requesting that you be opted out to[ unsubscribe@pwg.com](mailto:unsubscribe@pwg.com).  Please use the phrase Privacy Page/Opt Out in the subject line._
 
-_(2) Click the following link if you no longer wish to let us collect or use identifiable information about you (you must exist in our database in order to opt out): **[Unsubscribe](https://web.archive.org/web/20051229034755id_/http%3A//remove.asp)**_
+_(2) Click the following link if you no longer wish to let us collect or use identifiable information about you (you must exist in our database in order to opt out): **[Unsubscribe](https://web.archive.org/web/20060615050445id_/http%3A//remove.asp)**_
 
 _(3) Click the appropriate link in any update e-mails you receive_[  
 ](mailto:corp@thepwg.com) 
