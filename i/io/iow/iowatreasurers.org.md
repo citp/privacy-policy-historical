@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iowatreasurers.org privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219015509id_/http%3A//www.iowatreasurers.org/citizen.cfm%3FID%3D1%26ParentPage%3D107) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iowatreasurers.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615060229id_/http%3A//iowatreasurers.org/citizen.cfm%3FID%3D1%26ParentPage%3D107) for the most accurate reproduction.*
 
 # Iowa State County Treasurers Association
 
