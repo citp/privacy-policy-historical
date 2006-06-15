@@ -1,7 +1,15 @@
-<!--The following is the downloaded HTML source of the bigfitness.com privacy policy that was archived on 2005-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051214170830id_/http%3A//bigfitness.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bigfitness.com privacy policy that was archived on 2006-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615072628id_/http%3A//bigfitness.com/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><script language="JavaScript">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><script language="javascript"> 
+ <!-- 
+if (document.referrer && (document.referrer!='') && window.Image) 
+{ 
+ (new Image).src="http://store.yahoo.net/cgi-bin/refsd?e=http://www.bigfitness.com/privacy-policy.html&r=&v=1.0&dr=" + escape(document.referrer); 
+}
+// --> 
+ </script>
+<script language="JavaScript">
 // Begin Y! Store Generated Code
 
 pm_tagname = null;pm_tagversion = null;pm_accountid = null;</script>
@@ -19,7 +27,8 @@ if (pm_tagname == null) pm_tagname = "universalTag.txt";if (pm_tagversion == nul
 <script language="JavaScript">
 ystore_overture_mc_universal_tag();
 </script><script language="JavaScript" src="//srv.perf.overture.com/collweb/ScriptServlet?ver=1.4&amp;aid=LRJD4L1HLF8UAM2B78CVG78KJ4"></script>
-<title>BigFitness.com Privacy Policy </title><meta name="robots" content="ALL"><meta name="Keywords" content="exercise equipment, fitness equipment, fitness, exercise,fitness,equipment,exercise,fitness,equipment,exercis,tread,mill,heart,rate,monitor,ball,balls,yoga,aerobic,cardiopilates,strength,inversion, elliptical,treadmill, treadmills,bench,benches,strollers,medicine,climber,abdominal,caliper,precor,dumb,bell,bells,dumbbell,dumbbells,stamina,polar,acumen,tanita,gloves,boxing,ead,ediet,measure,accumeasure,accu,measure,jump,rope,ropes,torso,fat,cycles,mat,scale,scales,belt,belts,power,orbitrek,gym,home,spri,jogger"><meta name="Description" content="Exercise equipment and fitness equipment for sale. New and used at Big Fitness"><link href="http://site.bigfitness.com/main.css" rel="stylesheet" type="text/css"><script src="http://site.bigfitness.com/cookie.js" type="text/javascript"></script><script src="http://site.bigfitness.com/main0.js" type="text/javascript"></script><script language="JavaScript">var pid='privacy-policy';</script><script language="JavaScript">var calltoorderval='Call to order: 1-888-292-1807';</script></head><body leftmargin="0" rightmargin="0" topmargin="0" bottommargin="0" marginheight="0" marginwidth="0" background="http://site.bigfitness.com/images/bg.gif">
+<title>BigFitness.com Privacy Policy </title><meta name="robots" content="ALL"><meta name="Keywords" content="exercise equipment, fitness equipment, fitness, exercise,fitness,equipment,exercise,fitness,equipment,exercis,tread,mill,heart,rate,monitor,ball,balls,yoga,aerobic,cardiopilates,strength,inversion, elliptical,treadmill, treadmills,bench,benches,strollers,medicine,climber,abdominal,caliper,precor,dumb,bell,bells,dumbbell,dumbbells,stamina,polar,acumen,tanita,gloves,boxing,ead,ediet,measure,accumeasure,accu,measure,jump,rope,ropes,torso,fat,cycles,mat,scale,scales,belt,belts,power,orbitrek,gym,home,spri,jogger"><meta name="Description" content="Exercise equipment and fitness equipment for sale. New and used at Big Fitness"><link href="http://site.bigfitness.com/main.css" rel="stylesheet" type="text/css"><script src="http://site.bigfitness.com/cookie.js" type="text/javascript"></script><script src="http://site.bigfitness.com/main0.js" type="text/javascript"></script><script language="JavaScript">var pid='privacy-policy';</script><script language="JavaScript">var calltoorderval='Call to order: 1-800-731-0098&nbsp;&nbsp;&nbsp;';</script></head><body leftmargin="0" rightmargin="0" topmargin="0" bottommargin="0" marginheight="0" marginwidth="0" background="http://site.bigfitness.com/images/bg.gif">
+<div id="overDiv" style="position:absolute; visibility:hidden; z-index:1000;"></div>
 <table cellpadding="0" cellspacing="0" border="0" align="center" width="768" bgcolor="#ffffff">
 <tbody><tr>
 	<td>
@@ -31,11 +40,63 @@ ystore_overture_mc_universal_tag();
         	<td>
 <!-- Scripty's scripts -->
 <script language="JavaScript">
-function popper(popurl,w,h)
+function MakeCreditLink(){
+
+//var saleprice = '$1,300';
+var financeNode = document.getElementById('FIN');
+
+var price = (saleprice.slice(1)).replace(',','');
+numprice = Number(price);
+
+//format to 2 decimal places
+var payments = String((numprice*.03));
+payments = payments.slice(0,payments.indexOf('.')+3)
+var paymentstext = 'Payments as low as $'+payments+' a month.'
+
+
+var creditlink = document.createElement('a');
+var br = document.createElement('BR');
+var paymentstextNode = document.createTextNode(paymentstext);
+var nitextNode = document.createTextNode('12 Months No Interest');
+var applytextNode = document.createTextNode('Apply Now!');
+
+creditlink.setAttribute('href', 'https://bigfitness.secureserverdot.com/secure/credtiapp-test.html');
+creditlink.setAttribute('target', 'blank');
+creditlink.setAttribute('style', 'font-weight: bold; color: blue; font-size: 10pt');
+
+if (numprice > 995){
+	financeNode.appendChild(nitextNode);
+	financeNode.appendChild(br);
+	financeNode.appendChild(creditlink);
+	financeNode.lastChild.appendChild(applytextNode);
+	}
+else if (numprice > 100) {
+	financeNode.appendChild(paymentstextNode);
+	financeNode.appendChild(br);
+	financeNode.appendChild(creditlink);
+	financeNode.lastChild.appendChild(applytextNode);
+	}
+else {
+	financeNode.appendChild(creditlink);
+	financeNode.lastChild.appendChild(applytextNode);
+	}
+}
+
+function popper(popurl,w,h,flag)
 {
-var winpops=window.open(popurl,"","width="+w+",height="+h+",status,scrollbars,resizable")
+
+if (arguments.length != 4) flag=0;
+
+var winpops=window.open(popurl,"","width="+w+",height="+h+",status=1,scrollbars=1,resizable=1,menubar="+flag+",toolbar="+flag+",location="+flag)
+}
+
+function FlexPayForm(){
+var intprice = (saleprice.slice(1)).replace(',','');
+window.open('https://s.hostingprod.com/@bigfitness.com/ssl/3payform.php?price='+intprice+'&pid='+pid+'&productname='+document.title,'','width=800,height=600,status=1,scrollbars=1,resizable=1,menubar=0,toolbar=0,location=0');
 }
 </script>
+
+<script type="text/javascript" src="http://site.bigfitness.com/scripts/overLIB/overlib.js"><!-- overLIB (c) Erik Bosrup --></script>
 <!-- end Scripty's scripts -->
 
 <!-- Google Analytics -->
@@ -48,54 +109,56 @@ urchinTracker();
 <!-- End Google Analytics -->
 			<table cellpadding="0" cellspacing="0" border="0" width="100%">
             <tbody><tr>
-            	<td background="http://site.bigfitness.com/images/bg-header-big.gif"><a href="index.html"><img src="http://site.bigfitness.com/images/logo.gif" width="224" height="41" alt="" border="0"></a></td>
-				<td background="http://site.bigfitness.com/images/bg_header.gif" width="526" height="41" nowrap="" align="right" valign="top">
-				<table cellpadding="0" cellspacing="0" border="0">
-				<tbody><tr>
-                	<td height="6"></td>
-					<td></td>
-                </tr>
-				<tr>
-                	<td><p class="calltoorder">Call to order: 1-888-292-1807</p></td>
-					<td width="12" nowrap=""></td>
-                </tr>
-                </tbody></table>
+            	<td background="http://site.bigfitness.com/images/bg-header-big.gif"><a href="index.html"><img src="http://site.bigfitness.com/images/logo.gif" alt="" border="0"></a></td>
+				<td background="http://site.bigfitness.com/images/bg_header.gif" style="background-repeat:repeat-x;" bgcolor="#115ab6" width="100%" height="41" nowrap="" align="right" valign="top">
+				<table border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr valign="top">
+
+					<!-- <td width="13" nowrap=""><td> -->
+<td></td>
+					<td>
+					<table cellpadding="0" cellspacing="0" border="0">
+					<tbody><tr>
+	                	<td height="6"></td>
+						<td></td>
+	                </tr>
+					<tr>
+	                	<td><p class="calltoorder">Call to order: 1-800-731-0098&nbsp;&nbsp;&nbsp;						</p></td>
+						<td width="12" nowrap=""></td>
+	                </tr>
+	                </tbody></table>
+					</td>
+				</tr>
+				</tbody></table>					
 				</td>
             </tr>
             </tbody></table>
 			</td>
-        </tr><tr>
-        	<td>
-			<table cellpadding="0" cellspacing="0" border="0" width="100%">
-            <tbody><tr>
-            	<td valign="top" width="579" style="background-repeat:no-repeat;" background="http://site.bigfitness.com/images/bg_content_f.gif">
-				<table cellpadding="0" cellspacing="0" border="0" width="100%">
-                <tbody><tr>
+        </tr>                <tr>
                 	<td><table cellpadding="0" cellspacing="0" border="0" width="100%">
 				<tbody><tr>
-					<td><a href="index.html"><img src="http://site.bigfitness.com/images/bg_header_bottom.gif" width="222" height="25" alt="" border="0"></a></td>
+					<td><a href="index.html"><img src="http://site.bigfitness.com/images/bg_header_bottom.gif" alt="" border="0"></a></td>
 					<td bgcolor="#125BB6" align="right" valign="top">
 					<table cellpadding="0" cellspacing="0" border="0">
                     <tbody><tr>
-                      	<td colspan="4"><img src="http://site.bigfitness.com/images/pix.gif" border="0" width="166" height="1"></td>
+                      	<td colspan="4"><img src="http://site.bigfitness.com/images/pix.gif" border="0" width="176" height="1"></td>
                     </tr>
                     </tbody></table>
 					<table cellpadding="0" cellspacing="0" border="0">
 				    <form></form>
 					<tbody><tr>
-				      	<td><img src="http://site.bigfitness.com/images/txt_shopby.gif" width="42" height="18" alt=""></td>
-						<td><img src="http://site.bigfitness.com/images/pix.gif" border="0" width="8" height="1"></td>
-						<td valign="top"><select class="formSelect" style="width:90px;" onchange="if (this.value!=-1) document.location=this.value"><option value="-1">Brand...</option><option value="http://www.bigfitness.com/allprobrand.html">All Pro</option><option value="http://www.bigfitness.com/babyjoggerbrand.html">Baby Jogger</option><option value="http://www.bigfitness.com/bellsportsbrand.html">Bell Sports</option><option value="http://www.bigfitness.com/bodybarbrand.html">Body Bar</option><option value="http://www.bigfitness.com/bodycraftbrand.html">Bodycraft</option><option value="http://www.bigfitness.com/bodysolidbrand.html">Body Solid Equipment</option><option value="http://www.bigfitness.com/capbrand.html">Cap Barbell</option><option value="http://www.bigfitness.com/cybexbrand.html">Cybex</option><option value="http://www.bigfitness.com/danskinbrand.html">Danskin</option><option value="http://www.bigfitness.com/diamondbackbrand.html">Diamondback</option><option value="http://www.bigfitness.com/dynamaxprobrand.html">DynamaxPro</option><option value="http://www.bigfitness.com/eclipsebrand.html">Eclipse</option><option value="http://www.bigfitness.com/fitnusbrand.html">Fitnus Charts</option><option value="http://www.bigfitness.com/hang-upsbrand.html">Hang-Ups</option><option value="http://www.bigfitness.com/harbingerbrand.html">Harbinger</option><option value="http://www.bigfitness.com/heavyhandsbrand.html">Heavy Hands</option><option value="http://www.bigfitness.com/joliebrand.html">Jolie</option><option value="http://www.bigfitness.com/landicebrand.html">Landice</option><option value="http://www.bigfitness.com/lifefitnessbrand.html">Life Fitness</option><option value="http://www.bigfitness.com/mioshapebrand.html">Mioshape</option><option value="http://www.bigfitness.com/monarkbrand.html">Monark</option><option value="http://www.bigfitness.com/multisportsbrand.html">MultiSports</option><option value="http://www.bigfitness.com/nautilusbrand.html">Nautilus / Bowflex Equipment</option><option value="http://www.bigfitness.com/pioneerbrand.html">Pioneer Belts</option><option value="http://www.bigfitness.com/powerblockbrand.html">PowerBlock</option><option value="http://www.bigfitness.com/powertecbrand.html">Powertec Equipment</option><option value="http://www.bigfitness.com/precor1.html">Precor</option><option value="http://www.bigfitness.com/rbrubberbrand.html">RB Rubber</option><option value="http://www.bigfitness.com/reebokbrand.html">Reebok</option><option value="http://www.bigfitness.com/solotrainerbrand.html">SoloTrainer</option><option value="http://www.bigfitness.com/spiritbrand.html">Spirit</option><option value="http://www.bigfitness.com/sportsbeatbrand.html">SportsBeat</option><option value="http://www.bigfitness.com/spribrand.html">SPRI</option><option value="http://www.bigfitness.com/stairmasterbrand.html">Stairmaster</option><option value="http://www.bigfitness.com/staminabrand.html">Stamina</option><option value="http://www.bigfitness.com/startracbrand.html">StarTrac</option><option value="http://www.bigfitness.com/thestepbrand.html">The Step</option><option value="http://www.bigfitness.com/tkobrand.html">TKO</option><option value="http://www.bigfitness.com/yukonbrand.html">Yukon</option><option value="http://www.bigfitness.com/waterrowerbrand.html">Water Rower</option></select></td>
+						<td width="36" nowrap=""></td>
+				      	<td><img src="http://site.bigfitness.com/images/txt_shopby.gif" width="42" height="18" alt=""></td><td width="8" nowrap=""></td>
+						<td valign="top"><select class="formSelect" style="width:90px;" onchange="if (this.value!=-1) document.location=this.value"><option value="-1">Brand...</option><option value="http://www.bigfitness.com/allprobrand.html">All Pro</option><option value="http://www.bigfitness.com/babyjoggerbrand.html">Baby Jogger</option><option value="http://www.bigfitness.com/batcabrand.html">Batca</option><option value="http://www.bigfitness.com/bellsportsbrand.html">Bell Sports</option><option value="http://www.bigfitness.com/bodybarbrand.html">Body Bar</option><option value="http://www.bigfitness.com/bodycraftbrand.html">Bodycraft</option><option value="http://www.bigfitness.com/bodysolidbrand.html">Body Solid Equipment</option><option value="http://www.bigfitness.com/capbrand.html">Cap Barbell</option><option value="http://www.bigfitness.com/centurybrand.html">Century</option><option value="http://www.bigfitness.com/cybexbrand.html">Cybex</option><option value="http://www.bigfitness.com/danskinbrand.html">Danskin</option><option value="http://www.bigfitness.com/diamondbackbrand.html">Diamondback</option><option value="http://www.bigfitness.com/dynamaxprobrand.html">DynamaxPro</option><option value="http://www.bigfitness.com/eclipsebrand.html">Eclipse</option><option value="http://www.bigfitness.com/empower-brand.html">Empower</option><option value="http://www.bigfitness.com/fitnusbrand.html">Fitnus Charts</option><option value="http://www.bigfitness.com/hang-upsbrand.html">Hang-Ups</option><option value="http://www.bigfitness.com/harbingerbrand.html">Harbinger</option><option value="http://www.bigfitness.com/heavyhandsbrand.html">Heavy Hands</option><option value="http://www.bigfitness.com/joliebrand.html">Jolie</option><option value="http://www.bigfitness.com/landicebrand.html">Landice</option><option value="http://www.bigfitness.com/lifefitnessbrand.html">Life Fitness</option><option value="http://www.bigfitness.com/mioshapebrand.html">Mioshape</option><option value="http://www.bigfitness.com/monarkbrand.html">Monark</option><option value="http://www.bigfitness.com/multisportsbrand.html">MultiSports</option><option value="http://www.bigfitness.com/nautilusbrand.html">Nautilus / Bowflex Equipment</option><option value="http://www.bigfitness.com/pioneerbrand.html">Pioneer Belts</option><option value="http://www.bigfitness.com/powerblockbrand.html">PowerBlock</option><option value="http://www.bigfitness.com/powertecbrand.html">Powertec Equipment</option><option value="http://www.bigfitness.com/precor1.html">Precor</option><option value="http://www.bigfitness.com/rbrubberbrand.html">RB Rubber</option><option value="http://www.bigfitness.com/reebokbrand.html">Reebok</option><option value="http://www.bigfitness.com/solotrainerbrand.html">SoloTrainer</option><option value="http://www.bigfitness.com/spiritbrand.html">Spirit</option><option value="http://www.bigfitness.com/sportsbeatbrand.html">SportsBeat</option><option value="http://www.bigfitness.com/spribrand.html">SPRI</option><option value="http://www.bigfitness.com/stairmasterbrand.html">Stairmaster</option><option value="http://www.bigfitness.com/staminabrand.html">Stamina</option><option value="http://www.bigfitness.com/startracbrand.html">StarTrac</option><option value="http://www.bigfitness.com/thestepbrand.html">The Step</option><option value="http://www.bigfitness.com/tkobrand.html">TKO</option><option value="http://www.bigfitness.com/xvestbrand.html">XVests</option><option value="http://www.bigfitness.com/yukonbrand.html">Yukon</option></select></td>
 						<td><img src="http://site.bigfitness.com/images/pix.gif" border="0" width="8" height="1"></td>
 			        </tr>
 					
 			        </tbody></table>
 					</td>
-					<td bgcolor="#ffffff" width="1" nowrap=""><img src="http://site.bigfitness.com/images/pix.gif" border="0" width="1" height="25"></td>
 					<td bgcolor="#125BB6" width="100%" valign="top">
 					<table cellpadding="0" cellspacing="0" border="0">
 				    <tbody><tr>
-				    	<td><img src="http://site.bigfitness.com/images/pix.gif" border="0" width="12" height="1"></td>
+				    	<td width="41" nowrap=""></td>
 						<td>
 							<table cellpadding="0" cellspacing="0" border="0">
 				            <form action="http://search.store.yahoo.com/cgi-bin/nsearch" method="get"></form>
@@ -117,7 +180,7 @@ urchinTracker();
 				</td>
                 </tr>
 				<tr>
-                	<td bgcolor="#125BB6"><img src="http://site.bigfitness.com/images/header_arrow.gif" width="579" height="9" alt=""></td>
+                	<td bgcolor="#125BB6"><img src="http://site.bigfitness.com/images/header_arrow-.gif" alt=""></td>
                 </tr>
 				<tr>
                 	<td>
@@ -129,7 +192,7 @@ urchinTracker();
 						<table cellpadding="0" cellspacing="0" border="0">
                         <tbody><tr>
                         	<td><img src="http://site.bigfitness.com/images/pix.gif" border="0" width="3" height="1"></td>
-							<td><p class="menu"><a href="index.html" class="menu">Home</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://order.store.yahoo.com/cgi-bin/wg-order?bigfit" class="menu">View Cart</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="trackingpage.html" class="menu">Track a Package</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://bigfitness.com/return-policy.html" class="menu">Return Policy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="aboutus.html" class="menu">About Us</a></p></td>
+							<td><p class="menu"><a href="index.html" class="menu">Home</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://order.store.yahoo.net/cgi-bin/wg-order?bigfit" class="menu"><img src="http://files.bigfitness.com/ico-cart.gif" border="0" align="absmiddle"> View Cart</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="trackingpage.html" class="menu">Track a Package</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://bigfitness.com/return-policy.html" class="menu">Return Policy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="aboutus.html" class="menu">About Us</a></p></td>
                         </tr>
                         </tbody></table>
 						</td>
@@ -138,7 +201,12 @@ urchinTracker();
                     </tbody></table>
 <!-- TUT -->
 					</td>
-                </tr>				<tr>
+                </tr><tr>
+        	<td>
+			<table cellpadding="0" cellspacing="0" border="0" width="100%">
+            <tbody><tr>
+            	<td valign="top" width="100%" style="background-repeat:no-repeat;" background="http://site.bigfitness.com/images/bg_content_f.gif">
+				<table cellpadding="0" cellspacing="0" border="0" width="100%">				<tbody><tr>
                 	<td height="26">
 					<table cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff">
                  	<tbody><tr>
@@ -238,7 +306,15 @@ urchinTracker();
 						<!-- /one catalogue item -->		                <!-- one catalogue item -->
 						<tr valign="top">
 		                	<td height="20"><img src="http://site.bigfitness.com/images/pix.gif" width="1" height="7" alt=""><br><img src="http://site.bigfitness.com/images/catalogue_dot.gif" width="7" height="7" alt="" hspace="10"></td>
-							<td width="100%"><p class="catalogue"><img src="http://site.bigfitness.com/images/pix.gif" width="1" height="3" alt=""><br><a href="yogapilates.html" class="catalogue hov">Yoga / Pilates / Aerobics</a><br><img src="http://site.bigfitness.com/images/pix.gif" width="1" height="3" alt=""></p></td>
+							<td width="100%"><p class="catalogue"><img src="http://site.bigfitness.com/images/pix.gif" width="1" height="3" alt=""><br><a href="ablowbacmac.html" class="catalogue hov">Abdominals  &amp; Low Back</a><br><img src="http://site.bigfitness.com/images/pix.gif" width="1" height="3" alt=""></p></td>
+		                </tr>
+						<tr>
+		                	<td height="1" bgcolor="#E8AD95" colspan="2"><img src="http://site.bigfitness.com/images/pix.gif" border="0" width="1" height="1"></td>
+		                </tr>
+						<!-- /one catalogue item -->		                <!-- one catalogue item -->
+						<tr valign="top">
+		                	<td height="20"><img src="http://site.bigfitness.com/images/pix.gif" width="1" height="7" alt=""><br><img src="http://site.bigfitness.com/images/catalogue_dot.gif" width="7" height="7" alt="" hspace="10"></td>
+							<td width="100%"><p class="catalogue"><img src="http://site.bigfitness.com/images/pix.gif" width="1" height="3" alt=""><br><a href="yogapilates.html" class="catalogue hov">Aerobics / Pilates / Yoga</a><br><img src="http://site.bigfitness.com/images/pix.gif" width="1" height="3" alt=""></p></td>
 		                </tr>
 						<tr>
 		                	<td height="1" bgcolor="#E8AD95" colspan="2"><img src="http://site.bigfitness.com/images/pix.gif" border="0" width="1" height="1"></td>
@@ -247,30 +323,6 @@ urchinTracker();
 						<tr valign="top">
 		                	<td height="20"><img src="http://site.bigfitness.com/images/pix.gif" width="1" height="7" alt=""><br><img src="http://site.bigfitness.com/images/catalogue_dot.gif" width="7" height="7" alt="" hspace="10"></td>
 							<td width="100%"><p class="catalogue"><img src="http://site.bigfitness.com/images/pix.gif" width="1" height="3" alt=""><br><a href="rebaba.html" class="catalogue hov">Balls / Bands / Ropes</a><br><img src="http://site.bigfitness.com/images/pix.gif" width="1" height="3" alt=""></p></td>
-		                </tr>
-						<tr>
-		                	<td height="1" bgcolor="#E8AD95" colspan="2"><img src="http://site.bigfitness.com/images/pix.gif" border="0" width="1" height="1"></td>
-		                </tr>
-						<!-- /one catalogue item -->		                <!-- one catalogue item -->
-						<tr valign="top">
-		                	<td height="20"><img src="http://site.bigfitness.com/images/pix.gif" width="1" height="7" alt=""><br><img src="http://site.bigfitness.com/images/catalogue_dot.gif" width="7" height="7" alt="" hspace="10"></td>
-							<td width="100%"><p class="catalogue"><img src="http://site.bigfitness.com/images/pix.gif" width="1" height="3" alt=""><br><a href="bomaar.html" class="catalogue hov">Boxing / Martial Arts</a><br><img src="http://site.bigfitness.com/images/pix.gif" width="1" height="3" alt=""></p></td>
-		                </tr>
-						<tr>
-		                	<td height="1" bgcolor="#E8AD95" colspan="2"><img src="http://site.bigfitness.com/images/pix.gif" border="0" width="1" height="1"></td>
-		                </tr>
-						<!-- /one catalogue item -->		                <!-- one catalogue item -->
-						<tr valign="top">
-		                	<td height="20"><img src="http://site.bigfitness.com/images/pix.gif" width="1" height="7" alt=""><br><img src="http://site.bigfitness.com/images/catalogue_dot.gif" width="7" height="7" alt="" hspace="10"></td>
-							<td width="100%"><p class="catalogue"><img src="http://site.bigfitness.com/images/pix.gif" width="1" height="3" alt=""><br><a href="glstbe.html" class="catalogue hov">Gloves / Straps / Belts</a><br><img src="http://site.bigfitness.com/images/pix.gif" width="1" height="3" alt=""></p></td>
-		                </tr>
-						<tr>
-		                	<td height="1" bgcolor="#E8AD95" colspan="2"><img src="http://site.bigfitness.com/images/pix.gif" border="0" width="1" height="1"></td>
-		                </tr>
-						<!-- /one catalogue item -->		                <!-- one catalogue item -->
-						<tr valign="top">
-		                	<td height="20"><img src="http://site.bigfitness.com/images/pix.gif" width="1" height="7" alt=""><br><img src="http://site.bigfitness.com/images/catalogue_dot.gif" width="7" height="7" alt="" hspace="10"></td>
-							<td width="100%"><p class="catalogue"><img src="http://site.bigfitness.com/images/pix.gif" width="1" height="3" alt=""><br><a href="ablowbacmac.html" class="catalogue hov">Abdominals  &amp; Low Back</a><br><img src="http://site.bigfitness.com/images/pix.gif" width="1" height="3" alt=""></p></td>
 		                </tr>
 						<tr>
 		                	<td height="1" bgcolor="#E8AD95" colspan="2"><img src="http://site.bigfitness.com/images/pix.gif" border="0" width="1" height="1"></td>
@@ -287,6 +339,14 @@ urchinTracker();
 						<tr valign="top">
 		                	<td height="20"><img src="http://site.bigfitness.com/images/pix.gif" width="1" height="7" alt=""><br><img src="http://site.bigfitness.com/images/catalogue_dot.gif" width="7" height="7" alt="" hspace="10"></td>
 							<td width="100%"><p class="catalogue"><img src="http://site.bigfitness.com/images/pix.gif" width="1" height="3" alt=""><br><a href="fitcharbook.html" class="catalogue hov">Books /  Charts /  Videos</a><br><img src="http://site.bigfitness.com/images/pix.gif" width="1" height="3" alt=""></p></td>
+		                </tr>
+						<tr>
+		                	<td height="1" bgcolor="#E8AD95" colspan="2"><img src="http://site.bigfitness.com/images/pix.gif" border="0" width="1" height="1"></td>
+		                </tr>
+						<!-- /one catalogue item -->		                <!-- one catalogue item -->
+						<tr valign="top">
+		                	<td height="20"><img src="http://site.bigfitness.com/images/pix.gif" width="1" height="7" alt=""><br><img src="http://site.bigfitness.com/images/catalogue_dot.gif" width="7" height="7" alt="" hspace="10"></td>
+							<td width="100%"><p class="catalogue"><img src="http://site.bigfitness.com/images/pix.gif" width="1" height="3" alt=""><br><a href="bomaar.html" class="catalogue hov">Boxing / Martial Arts</a><br><img src="http://site.bigfitness.com/images/pix.gif" width="1" height="3" alt=""></p></td>
 		                </tr>
 						<tr>
 		                	<td height="1" bgcolor="#E8AD95" colspan="2"><img src="http://site.bigfitness.com/images/pix.gif" border="0" width="1" height="1"></td>
@@ -382,7 +442,7 @@ urchinTracker();
 						<!-- /one catalogue item -->		                <!-- one catalogue item -->
 						<tr valign="top">
 		                	<td height="20"><img src="http://site.bigfitness.com/images/pix.gif" width="1" height="7" alt=""><br><img src="http://site.bigfitness.com/images/catalogue_dot.gif" width="7" height="7" alt="" hspace="10"></td>
-							<td width="100%"><p class="catalogue"><img src="http://site.bigfitness.com/images/pix.gif" width="1" height="3" alt=""><br><a href="weightmachines.html" class="catalogue hov">Weight Machines</a><br><img src="http://site.bigfitness.com/images/pix.gif" width="1" height="3" alt=""></p></td>
+							<td width="100%"><p class="catalogue"><img src="http://site.bigfitness.com/images/pix.gif" width="1" height="3" alt=""><br><a href="weightmachines.html" class="catalogue hov">Weight Machines / Smith Machines</a><br><img src="http://site.bigfitness.com/images/pix.gif" width="1" height="3" alt=""></p></td>
 		                </tr>
 						<tr>
 		                	<td height="1" bgcolor="#E8AD95" colspan="2"><img src="http://site.bigfitness.com/images/pix.gif" border="0" width="1" height="1"></td>
@@ -391,6 +451,14 @@ urchinTracker();
 						<tr valign="top">
 		                	<td height="20"><img src="http://site.bigfitness.com/images/pix.gif" width="1" height="7" alt=""><br><img src="http://site.bigfitness.com/images/catalogue_dot.gif" width="7" height="7" alt="" hspace="10"></td>
 							<td width="100%"><p class="catalogue"><img src="http://site.bigfitness.com/images/pix.gif" width="1" height="3" alt=""><br><a href="weigdum.html" class="catalogue hov">Weights &amp; Dumbbells</a><br><img src="http://site.bigfitness.com/images/pix.gif" width="1" height="3" alt=""></p></td>
+		                </tr>
+						<tr>
+		                	<td height="1" bgcolor="#E8AD95" colspan="2"><img src="http://site.bigfitness.com/images/pix.gif" border="0" width="1" height="1"></td>
+		                </tr>
+						<!-- /one catalogue item -->		                <!-- one catalogue item -->
+						<tr valign="top">
+		                	<td height="20"><img src="http://site.bigfitness.com/images/pix.gif" width="1" height="7" alt=""><br><img src="http://site.bigfitness.com/images/catalogue_dot.gif" width="7" height="7" alt="" hspace="10"></td>
+							<td width="100%"><p class="catalogue"><img src="http://site.bigfitness.com/images/pix.gif" width="1" height="3" alt=""><br><a href="glstbe.html" class="catalogue hov">Workout Gloves / Belts</a><br><img src="http://site.bigfitness.com/images/pix.gif" width="1" height="3" alt=""></p></td>
 		                </tr>
 						<tr>
 		                	<td height="1" bgcolor="#E8AD95" colspan="2"><img src="http://site.bigfitness.com/images/pix.gif" border="0" width="1" height="1"></td>
@@ -412,28 +480,19 @@ urchinTracker();
 		        </td></tr>
 <tr>
 <td width="100%" align="center" valign="center">
-<p class="catalogue">
-<a href="http://bigfitness.com/exwa1.html.html">
-<img src="http://files.bigfitness.com/doublewarranty.png" border="0" vspace="10"></a></p></td></tr>
-<tr>
-<td width="100%" align="center" valign="center">
-<p class="catalogue">
-<a href="http://bigfitness.com/usfieqcofieq.html">
-<img src="http://files.bigfitness.com/usedsale.gif" border="0"></a></p><br></td></tr>
-<tr>
-<td width="100%" align="center" valign="center">
+<br>
 <a href="#" onclick="TellToFriend();return false;"><img src="http://site.bigfitness.com/images/fecemail.png" width="118" height="20" alt="" border="0"></a></td></tr>
-<tr><td height="10px" width="100%" align="center" valign="center"></td></tr>
-<tr><td width="100%" align="center" valign="center">
-<a href="http://bigfitness.com/zonpernutbar.html">
-<img src="http://site.bigfitness.com/images/fecorder.png" border="0"></a>
-</td></tr>
 <tr><td width="100%" align="center" valign="center" height="10px"></td></tr>
 <tr><td width="100%" align="center" valign="center"><a href="http://bigfitness.com/trackingpage.html">
 <img src="http://site.bigfitness.com/images/track.png" border="0"></a></td></tr>
+<tr><td height="10px" width="100%" align="center" valign="center"></td></tr>
+<tr><td width="100%" align="center" valign="center">
+<a href="javascript:void(0);" onclick="return overlib(ol_texts[0], TEXTSIZE,2, CAPTIONSIZE,2, PADX,7,0, PADY,60,0, WIDTH,250, HEIGHT,250, STICKY, MOUSEOFF, VAUTO);" onmouseout="return nd();">
+<img src="http://files.bigfitness.com/whyus-button.gif" border="0"></a>
+</td></tr>
 <tr><td width="100%" align="center" valign="center">
 <br><br>
-<a href="javascript:openpopup('http://fitnesstraffic.com')">
+<a href="javascript:popper('http://fitnesstraffic.com',800,600,1)">
 <img src="http://lib.store.yahoo.net/lib/bigfit/fitnesstrafficbutton.png" border="0" alt="Free Fitness Traffic" title="Free Fitness Traffic"></a>
 <br>
 </td></tr>
@@ -452,15 +511,23 @@ urchinTracker();
 					<table cellpadding="0" cellspacing="0" border="0">
 					<tbody><tr>
 						<td><img src="images/pix.gif" border="0" width="3" height="1"></td><td style="text-align: center">
-<p class="botMenu"><a href="index.html" class="botMenu">Home</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://order.store.yahoo.com/cgi-bin/wg-order?bigfit" class="botMenu">View Cart</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="trackingpage.html" class="botMenu">Track a Package</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="privacy-policy.html" class="botMenu">Privacy Policy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="sitemap.html" class="botMenu">Site Map</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://bigfitness.com/return-policy.html" class="botMenu">Return Policy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="aboutus.html" class="botMenu">About Us</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="contactus.html" class="botMenu"><b>Contact Us</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.bigfitness.com/helpwanted.html" class="botMenu">Help Wanted</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://bigfitness.com/afpr.html" class="botMenu">Affiliate Program</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.bfwse.com" class="botMenu">Supplements</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="linkpartners.html" class="botMenu">Business Partners</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://bigfitness.com/relo.html" class="botMenu">Locations</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="orderingoptions.html" class="botMenu">Fax / Mail Orders</a></p></td>					</tr>
+<p class="botMenu"><a href="index.html" class="botMenu">Home</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://order.store.yahoo.net/cgi-bin/wg-order?bigfit" class="botMenu">View Cart</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="trackingpage.html" class="botMenu">Track a Package</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="privacy-policy.html" class="botMenu">Privacy Policy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="sitemap.html" class="botMenu">Site Map</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://bigfitness.com/return-policy.html" class="botMenu">Return Policy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="aboutus.html" class="botMenu">About Us</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="contactus.html" class="botMenu"><b>Contact Us</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.bigfitness.com/helpwanted.html" class="botMenu">Help Wanted</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://bigfitness.com/afpr.html" class="botMenu">Affiliate Program</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.bfwse.com" class="botMenu">Supplements</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="linkpartners.html" class="botMenu"><b>Business Partners</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://bigfitness.com/relo.html" class="botMenu">Retail Locations</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="orderingoptions.html" class="botMenu">Ordering Options</a></p></td>					</tr>
 					</tbody></table>
 					<!-- /bottom menu -->
 					</td>
 		        </tr>
-				<tr><td height="60" align="right" valign="bottom"><font size="1" face="Arial" color="#cccccc">Design and System Improvements by <a href="http://www.ystoredesign.com" target="_blank"><font size="1" face="Arial" color="#cccccc">Y!StoreDesign Studio</font></a></font><br><br></td></tr>
+
+<tr><td align="center">
+<a href="http://www.fitness.com/" target="_blank" style="font-weight: bold; text-decoration: none; color: #f07f00">Fitness and Weight Loss Community</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://healthtips.bigfitness.com/fitness-equipment" target="_blank" style="font-weight: bold; text-decoration: none; color: #f07f00">Big Fitness Health Tips</a></td>
+</tr>
+
+				<tr><td height="50" align="right" valign="bottom"><font size="1" face="Arial" color="#cccccc">Design and System Improvements by <a href="http://www.alphastoredesign.com" target="_blank"><font size="1" face="Arial" color="#cccccc">A-StoreDesign Studio</font></a></font><br><br></td></tr>
+
                 </tbody></table>
+
 			</td>
-		</tr></tbody></table>
+		</tr>
+</tbody></table>
 		</td>
 		<td><img src="http://site.bigfitness.com/images/pix.gif" border="0" width="1" height="1"></td>
     </tr>
@@ -468,21 +535,19 @@ urchinTracker();
 	</td>
 </tr>
 </tbody></table>
-<!-- BEGIN Invitation Positioning  -->
-<script language="javascript">
-var lpPosY = 100;
-var lpPosX = 100;
-</script>
-<!-- END Invitation Positioning  -->
-
-<!-- BEGIN HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG --><script language="javascript" src="http://server.iad.liveperson.net/hc/12813111/x.js?cmd=file&amp;file=chatScript3&amp;site=12813111&amp;&amp;category=en;liveperson;1"> </script><!-- END HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
-
+            
 
 
 <script language="javascript"> 
  <!-- 
  if (document.referrer && (document.referrer!='') && window.Image) 
  { 
- (new Image).src="http://redirect1.vip.store.yahoo.com/cgi-bin/referadd?spcl=1&et=43a052ba&catalog=bigfit&r=" + escape(document.referrer); }
+ (new Image).src="http://redirect1.vip.store.yahoo.com/cgi-bin/referadd?spcl=1&et=44910cce&catalog=bigfit&r=" + escape(document.referrer) + "&v=1"; }
+ // --> 
+ </script><script language="javascript"> 
+ <!-- 
+ if (document.referrer && (document.referrer!='') && window.Image) 
+ { 
+ (new Image).src="http://redirect1.vip.store.yahoo.net/cgi-bin/referadd?spcl=1&et=44910cce&catalog=bigfit&r=" + escape(document.referrer) + "&v=3"; }
  // --> 
  </script></body></html>
