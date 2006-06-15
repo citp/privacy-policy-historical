@@ -1,12 +1,28 @@
-> *The following text is extracted and transformed from the startribune.com privacy policy that was archived on 2005-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050913183553id_/http%3A//www.startribune.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startribune.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615205209id_/http%3A//www.startribune.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy for startribune.com
 
-[](http://www.startribune.com/stories/776) | 
+[](https://web.archive.org/)
 
-Last update: June 4, 2004 at 4:32 PM
+MINNEAPOLIS - ST. PAUL, MINNESOTA
 
-April 25, 2003  PRIVACYPOLICY 
+  * [**Home**](https://web.archive.org/)
+  * [News](https://web.archive.org/)
+  * [Sports](https://web.archive.org/sports)
+  * [Lifestyle](https://web.archive.org/stories/389)
+  * [Entertainment](https://web.archive.org/stories/1526)
+  * [Opinion](https://web.archive.org/opinion)
+  * [Cars](https://web.archive.org/cars)
+  * [Homes](https://web.archive.org/homes)
+  * [Jobs](https://web.archive.org/jobs)
+  * [Shopping](http://pd.startribune.com/shoppingportal/index.jsp)
+  * [Customer Service](https://web.archive.org/redesign)
+
+
+
+PRIVACYPOLICY
+
+[Home](https://web.archive.org/)|[Member Center - Help](https://web.archive.org/stories/776)
 
 Startribune.com has a firm commitment to privacy. We take your privacy concerns seriously and want to make every effort to address them as we strive to offer our site visitors a high quality, interactive and personalized experience. That is why we have adopted the following policy, which explains our position on information gathering and how we intend to use and share any information we collect. It is important to note that this policy applies only to information collected by startribune.com and does not apply to information obtained or used by Star Tribune or its affiliates through other means.
 
@@ -19,4 +35,5 @@ Access to the majority of content, services and features on startribune.com requ
 
 You may also be asked to create a separate registration account with some of the services provided by partners and other providers on startribune.com. Examples include the Personals, the StribMail e-mail service, MyCast personalized weather service, and Golden Gavel Auction events. Be aware that the information collected by these providers may be subject to the privacy policy and terms of use of that provider, and we recommend reviewing these prior to submitting your registration.  [ **More...**](https://web.archive.org/stories/776/3847453-2.html)
 
-|  | 
+  
+
