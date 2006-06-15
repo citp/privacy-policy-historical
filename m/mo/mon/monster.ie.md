@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the monster.ie privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231155708id_/http%3A//www.monster.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monster.ie privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615204659id_/http%3A//www.monster.ie/privacy) for the most accurate reproduction.*
 
-# Monster: Privacy Commitment
+# Privacy Commitment: Monster
 
 Privacy Policy and Cookies
 
