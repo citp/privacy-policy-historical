@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gnmagazine.org privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230030028id_/http%3A//gnmagazine.org/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gnmagazine.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615104825id_/http%3A//gnmagazine.org/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy: gnmagazine.org
 
