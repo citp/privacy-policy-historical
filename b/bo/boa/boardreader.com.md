@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boardreader.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219034032id_/http%3A//www.boardreader.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boardreader.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615221542id_/http%3A//www.boardreader.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,9 +34,9 @@ By using BoardReader.com and the Search Services, you consent to the collection 
 If you have questions regarding our Privacy Policy, please email them to [legal@boardreader.com](mailto:legal@boardreader.com) or contact us by mail or telephone:
 
 **BoardReader.com  
-884 Railroad Street  
-Ypsilanti, Michigan 48197   
-734.495.3706**
+1083 Maya Court  
+Troy, Michigan 48085   
+734-260-0410**
 
 |   
 ---|---|---
