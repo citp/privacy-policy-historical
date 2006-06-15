@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the heinle.com privacy policy that was archived on 2005-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051210215852id_/http%3A//www.thomson.com/corp/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the heinle.com privacy policy that was archived on 2006-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615191102id_/http%3A//www.thomson.com/corp/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 	<title>Thomson - Privacy Statement</title>
@@ -25,6 +25,7 @@
 	var selectedOption = formObj.search_area[formObj.search_area.selectedIndex].value;
 	//if thomson.com is selected search the entire site
 	if(selectedOption == "thomson"){
+		formObj.allAreas.value="on";
 		formObj.aboutUs.value="on";
 		formObj.pressRoom.value="on";
 		formObj.pressReleases.value="on";
@@ -245,7 +246,7 @@ function changeNavImage()
         <td width="388" align="right" valign="middle">	
 	<!--CR 282 - Anand 09/14/2005 -->
 	<!--<form action="/search/executeSearchQuery.do" method="GET" onSubmit="searchSubmit(this);">-->	
-	<form action="/search/executeSearchQuery.do" method="GET" onsubmit="return searchSubmit(this);">
+	<form name="smplSearchForm" action="/search/executeSearchQuery.do" method="GET" onsubmit="return searchSubmit(this);">
 	<!--CR 282 - Anand 09/14/2005 -->
 	<input type="text" name="queryText" value="Search" onfocus="if(this.value=='Search')this.value='';">
 			 in 
@@ -273,14 +274,14 @@ function changeNavImage()
  			
 
 			
-			
-	    <input type="hidden" name="aboutUs" value="off">
+			<input type="hidden" name="allAreas" value="off">
+		    <input type="hidden" name="aboutUs" value="off">
             <input type="hidden" name="legal" value="off">
             <input type="hidden" name="pressRoom" value="off">
             <input type="hidden" name="taxAndAccounting" value="off">
             <input type="hidden" name="pressReleases" value="off">
             <input type="hidden" name="investorRelations" value="off">
-	    <input type="hidden" name="careers" value="off">
+			<input type="hidden" name="careers" value="off">
             <input type="hidden" name="learning" value="off">
             <input type="hidden" name="financial" value="off">
             <input type="hidden" name="healthcare" value="off">
@@ -562,7 +563,6 @@ http://www.omniture.com -->
 
 <script language="JavaScript"><!--
 /* You may give each page an identifying name, server, and channel on the next lines. */
-
 var s_pageName=""
 var s_server=""
 var s_channel=""
@@ -570,7 +570,6 @@ var s_pageType=""
 var s_prop1=""
 var s_prop2=""
 var s_prop3=""
-var s_prop4=""
 //var s_prop5=""
 //var s_prop6=""
 //var s_prop7=""
@@ -581,7 +580,8 @@ var s_prop10=""
 var s_campaign=""
 var s_state=""
 var s_zip=""
-var s_events=""
+//var s_events=""
+var s_events="event2";
 var s_products=""
 var s_purchaseID=""
 var s_eVar1=""
