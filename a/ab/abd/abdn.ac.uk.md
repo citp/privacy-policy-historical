@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the abdn.ac.uk privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214132032id_/http%3A//www.abdn.ac.uk/diss/docu/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abdn.ac.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615211719id_/http%3A//www.abdn.ac.uk/diss/docu/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy for the University of Aberdeen Web Site
 
-  * You can also download this policy [as Word](https://web.archive.org/web/20051214132032id_/http%3A//www.abdn.ac.uk/diss/docu/privacy_policy.doc) or as [Adobe PDF](https://web.archive.org/web/20051214132032id_/http%3A//www.abdn.ac.uk/diss/docu/privacy_policy.pdf)
+  * You can also download this policy [as Word](https://web.archive.org/web/20060615211719id_/http%3A//www.abdn.ac.uk/diss/docu/privacy_policy.doc)
 
 
 
@@ -77,6 +77,12 @@ Queries regarding data protection should be addressed in the first instance to t
 
 Telephone: 01224 27 2039  
 Email: [d.jones@abdn.ac.uk](mailto:d.jones@abdn.ac.uk)
+
+## Disclaimer 
+
+The University of Aberdeen takes reasonable efforts to ensure that the contents of its website(s) are accurate; however, it cannot give any warranty that this is the case. The University may change web content at any time without notice. 
+
+The University of Aberdeen website includes links to third party websites. These links are used to provide further information and are not intended as an endorsement of such websites and/or their content. 
 
 ## Footnotes
 
