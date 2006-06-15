@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalgiving.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210230210id_/http%3A//www.globalgiving.com/privacypol.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalgiving.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615050633id_/http%3A//globalgiving.com/privacypol.html) for the most accurate reproduction.*
 
 # Privacy Policy | GlobalGiving
 
@@ -72,7 +72,8 @@ You may contact us by using the "Contact Us" links on the footer of our site. We
 
 If you still have questions or concerns regarding our privacy policy, please email us at or write us at: 
 
-GlobalGiving  
-7121 Wisconsin Ave,   
-Bethesda, Maryland 20814  
-Tel: 301.652.8455
+GlobalGiving   
+1816 12th Street NW - 3rd Floor   
+Washington, DC 20009   
+Phone: (202) 232-5784   
+Fax: (202) 232-0534 
