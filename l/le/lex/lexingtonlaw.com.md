@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the lexingtonlaw.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214102101id_/http%3A//www.lexingtonlaw.com/APC.php%3Fsid%3D%26c%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexingtonlaw.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616002534id_/http%3A//www.lexingtonlaw.com/APC.php%3Fsid%3D%26c%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Lexington Law
 
-Lexington Client Privacy Policy
+Lexington Privacy Policy
 
-**Last updated December 2002  
+**Last updated February 2006  
 © Lexington Law Firm**
 
-Protecting your privacy is extremely important to Lexington. We strive to keep your personal information confidential. By ensuring that you are aware of and understand the Lexington Client Privacy Policy, we can provide you with better service. Please take a moment to read the following policy to learn how we handle your personal information.  
+Protecting your privacy is extremely important to Lexington. We strive to keep your personal information confidential. Please take a moment to read the Privacy Policy to ensure that you are aware of and understand how we handle your personal information.  
 
 
   
@@ -15,7 +15,7 @@ Protecting your privacy is extremely important to Lexington. We strive to keep y
 
 Why we collect personal information
 
-We collect personal information to enroll you in our service. The information we require is the absolute minimum necessary. Lexington uses your personal information to provide you with superior customer service, and to communicate with you regarding your case. In addition, we use your personal information to keep you up to date on the latest service announcements, feature updates, special offers, and other information we think you would like to hear about. From time to time, we may also use your personal information to contact you to participate in a market research survey, so that we can gauge client satisfaction and improve our service further.  
+We collect personal information to enroll you in our service. The information we require is the absolute minimum necessary. Lexington uses your personal information to provide you with superior client services, and to communicate with you regarding your case. In addition, we use your personal information to keep you up to date on the latest service announcements, feature updates, special offers, and other information we think you would like to hear about. From time to time, we may also use your personal information in order to contact you regarding participation in a market research survey, so that we can gauge client satisfaction and improve our services further. Should you begin, but not complete, the sign up process, Lexington may use your personal information to contact you regarding your experience at the web site, and may talk to you about enrolling in our service.  
 
 
   
@@ -23,9 +23,9 @@ We collect personal information to enroll you in our service. The information we
 
 How we collect personal information
 
-We collect information about you at the time you sign up for our service, and any time we enter information from your credit report into our database. The latter is necessary to make that information available to you via Dispute Valet™. In addition, when you sign up for a new Lexington service, or ask to be included in an email mailing list, we collect and store the information you provide in a secure database.
+We collect information about you: (i) that you submit during the sign up process for our service, and (ii) any time we enter information from your credit report into our database. The latter is necessary to make that information available to you via Dispute Valet™. In addition, when you sign up for a new Lexington service, or ask to be included in an email mailing list, we collect and store the information you provide in a secure database.
 
-To save you time and make our web services even easier to use, some areas of the Lexington web site allow you to create an "Client ID" using your personal information. The system saves your information and assigns you a unique Lexington Client ID. Next time you log into the client section of our web site you can simply enter your Client ID and password — the system will automatically look up the information it needs.
+To save you time and make our web services even easier to use, some areas of the Lexington web site allow you to create a "Client ID" using your personal information. The system saves your information and assigns you a unique Lexington Client ID. Next time you log into the client section of our web site you can simply enter your Client ID and password — the system will automatically look up the information it needs.
 
   
 
@@ -54,9 +54,7 @@ When you browse Lexington’s web site, you are able to do so anonymously. Gener
 
 Like many web sites, the Lexington web site uses “cookie” technology. When you first connect to our site, the cookie identifies your browser with a unique, random number. The cookies we use do not reveal any personal information about you, except perhaps your first name so we can welcome you on your next visit. Cookies help us understand which parts of our web sites are the most popular, where our visitors are going, and how long they spend there. We use cookies to study traffic patterns on our site so we can make the site even better.
 
-We may use third-party advertising companies to serve ads on our site. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, [click here.](http://www.networkadvertising.org/optout_nonppii.asp)
-
-In some of our email to you, we use a “click-through URL.” When you click one of these URLs, you pass through our web server before arriving at the web site that is your destination. We track click-throughs to help us determine your interest in particular topics and measure the effectiveness of our customer communications.
+In some of our email to you, we use a “click-through URL.” When you click one of these URLs, you pass through our web server before arriving at the web site that is your destination. We track “click-throughs” to help us determine your interest in particular topics and measure the effectiveness of our customer communications.
 
 We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, [click here](http://www.networkadvertising.org/optout_nonppii.asp).
 
@@ -73,4 +71,4 @@ To make sure your personal information remains confidential, we communicate thes
 
 
 
-The Lexington Customer Privacy Policy is subject to change at any time. We encourage you to review the privacy policy regularly for any changes.
+Lexington's Privacy Policy is subject to change at any time. We encourage you to review the Privacy Policy regularly for any changes.
