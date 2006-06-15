@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hide-ip-soft.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218090555id_/http%3A//hide-ip-soft.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hide-ip-soft.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615032132id_/http%3A//www.hide-ip-soft.com/privacy.htm) for the most accurate reproduction.*
 
 # Hide IP - Hide your IP address and protect your privacy - Hide-IP-Soft.com
 
