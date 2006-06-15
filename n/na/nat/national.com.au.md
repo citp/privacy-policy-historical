@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the national.com.au privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212120422id_/http%3A//national.com.au/About_Us/0%2C%2C2692%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the national.com.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210630id_/http%3A//national.com.au/About_Us/0%2C%2C2692%2C00.html%3FncID%3DZBA) for the most accurate reproduction.*
 
-# National Australia Bank - National Privacy Policy
+# National Australia Bank - National Australia Bank Privacy Policy
 
 **Respecting your privacy and the law**
 
@@ -196,6 +196,6 @@ Hearing impaired customers with telephone typewriters can contact us on 1300 36
 
 For more information about privacy in general, you can visit the Federal Privacy Commissioner's website
 
-To download a copy of the National's Privacy Policy [click here](https://web.archive.org/vgnmedia/downld/NAB_Privacy_Policy.pdf)
+To download a copy of NAB's Privacy Policy [click here](https://web.archive.org/vgnmedia/downld/NAB_Privacy_Policy.pdf)
 
 1 For example, those contained in the Health Records Act 2001 (Vic), Health Records and Information Privacy Act 2002 (NSW) or the privacy provisions contained in Part 2 of the Health Records (Privacy and Access) Act 1997 (ACT).
