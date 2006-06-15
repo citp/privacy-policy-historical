@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activestate.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210062003id_/http%3A//www.activestate.com/privacy.plex%3Fft%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activestate.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615023604id_/http%3A//www.activestate.com/privacy.plex%3Fft%3D1) for the most accurate reproduction.*
 
 # ActiveState - Privacy Policy - Dynamic Tools for Dynamic Languages
 
@@ -24,13 +24,7 @@ Our website servers generate standard traffic log files. We use these files to p
 
 ## Requested Services and Product Evaluations
 
-We communicate with the user to provide requested services and in regards to issues relating to their account via email or phone. Two expiration reminder notices are sent by email to users who have obtained a trial license for one of our products. 
-
-## Webcast Registration
-
-When you register to attend or view an ActiveState webcast, a third party provider will request personally identifiable information such as: email address, first name, last name, company, title, etc. By registering for a webcast, you agree to be contacted by an ActiveState representative regarding the product or service featured in the webcast. 
-
-ActiveState does not control or own the data collected from the webcast registration process. For information regarding the data collection practices of the third party provider site, please contact them directly. 
+We communicate with the user to provide requested services and in regards to issues relating to their account via email or phone. Two expiration reminder notices will be sent by email for all Pro Studio bundle subscriptions. Two expiration reminder notices will be sent by email to users who have obtained an evaluation license for any of our products. 
 
 ## Language Downloads
 
