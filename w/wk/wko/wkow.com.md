@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wkow.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224171414id_/http%3A//www.wkowtv.com/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wkow.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615032746id_/http%3A//www.wkowtv.com/index.php/privacy) for the most accurate reproduction.*
 
 # Welcome to WKOW 27 - Madison, Wisconsin
 
