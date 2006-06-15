@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ydr.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230185443id_/http%3A//www.ydr.com/portlet/layout/html/privacypolicy/privacypolicy.jsp%3FsiteId%3D515) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ydr.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615161029id_/http%3A//www.ydr.com/portlet/layout/html/privacypolicy/privacypolicy.jsp%3FsiteId%3D515) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -57,6 +57,6 @@ Please include your email address and telephone number where we can reach you. t
 
 If you have any questions, comments or concerns regarding our privacy policy and/or practices, please contact the Privacy Coordinator using the contact information provided below. 
 
-,      
-\--   
+,     
+\--  
 Email: [](mailto:)
