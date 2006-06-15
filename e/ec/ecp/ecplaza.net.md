@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecplaza.net privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305225914id_/http%3A//www.ecplaza.net/fwd.to/help/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecplaza.net privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615201110id_/http%3A//www.ecplaza.net/fwd.to/help/privacy_policy) for the most accurate reproduction.*
 
 # EC Plaza Premier B2B Marketplace - Manufacturer, Buyer, Supplier, Importer, Exporter, Manufacturers, Buyers, Suppliers, Importers & Exporters Directory
 
