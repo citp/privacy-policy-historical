@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlesender.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229211951id_/http%3A//articlesender.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesender.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615061118id_/http%3A//www.articlesender.com/privacy.html) for the most accurate reproduction.*
 
 # Article Submission
 
@@ -21,17 +21,17 @@ OTHER SERVICES
 
 TESTIMONIAL
 
-What a substantial, time saving service this is. There are so many publishers out there, and reaching them all is so time consuming that it has almost become a days work just to submit to them. I recommend that you give these guys a try. 
+Thanks alot, ArticleSender. My site is blown away! I am really excited about the results from this service 
 
-Pete Lauder   
-[Start a Home Based Business](http://www.homebizassistant.com/)
+Esteban Richmond   
+[Autos Usados](http://www.quierouncarro.com/)
 
 TESTIMONIAL
 
-I'm amazed by how user friendly and efficient this site is. I had just submitted my articles and within a few hours could find it online and rated already. great idea, great job, a service like this was badly needed over the internet. 
+I have to say that I am a bit biased being one of the owners brother, but this service kicks ass! 
 
-Guglielmo Parasporo   
-[vacation rental apartments in rome](http://www.romanreference.com/)
+Chris D   
+[Guitar Lessons](http://www.guitarcoach.biz/)
 
   [Read All Testimonials](https://web.archive.org/testimonials.html)
 
