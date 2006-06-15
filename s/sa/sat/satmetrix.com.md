@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the satmetrix.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222105846id_/http%3A//satmetrix.com/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the satmetrix.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615201112id_/http%3A//satmetrix.com/company/privacy.htm) for the most accurate reproduction.*
 
 # Satmetrix Systems - Customer Experience Management Solutions
 
