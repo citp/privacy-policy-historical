@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medlineplus.gov privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214080607id_/http%3A//www.nlm.nih.gov/medlineplus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medlineplus.gov privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615212549id_/http%3A//www.nlm.nih.gov/medlineplus/privacy.html) for the most accurate reproduction.*
 
 # MedlinePlus: Privacy Policy
 
@@ -6,7 +6,7 @@ Skip navigation
 ---  
 [](http://medlineplus.gov/) |  |   
   
-[](http://www.nlm.nih.gov/cgi/medlineplus/feedback.pl?from=http%3A%2F%2Fwww%2Enlm%2Enih%2Egov%2Fmedlineplus%2Fprivacy%2Ehtml&lang=EN) [](http://www.nlm.nih.gov/medlineplus/faq/faq.html) [](http://www.nlm.nih.gov/medlineplus/sitemap.html) [](http://www.nlm.nih.gov/medlineplus/aboutmedlineplus.html)  
+[](http://apps.nlm.nih.gov/medlineplus/contact/index.cfm?lang=en&from=http%3A%2F%2Fwww%2Enlm%2Enih%2Egov%2Fmedlineplus%2Fprivacy%2Ehtml) [](http://www.nlm.nih.gov/medlineplus/faq/faq.html) [](http://www.nlm.nih.gov/medlineplus/sitemap.html) [](http://www.nlm.nih.gov/medlineplus/aboutmedlineplus.html)  
   
 [](http://www.nlm.nih.gov/medlineplus/spanish/privacy.html) [ ](http://medlineplus.gov/) [](http://www.nlm.nih.gov/medlineplus/healthtopics.html) [](http://www.nlm.nih.gov/medlineplus/druginformation.html) [](http://www.nlm.nih.gov/medlineplus/encyclopedia.html) [](http://www.nlm.nih.gov/medlineplus/mplusdictionary.html) [](http://www.nlm.nih.gov/medlineplus/newsbydate.html) [](http://www.nlm.nih.gov/medlineplus/directories.html) [](http://www.nlm.nih.gov/medlineplus/otherresources.html)  
   
