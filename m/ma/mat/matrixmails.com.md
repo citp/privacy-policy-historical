@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the matrixmails.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231162104id_/http%3A//www.matrixmails.com/%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matrixmails.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615055730id_/http%3A//www.matrixmails.com/%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # Matrixmails - Paid emails, paid to click and paid to signup offers to earn money online!
 
 |  |  | 
+
+  
+
 
 **Privacy Policy:**  
 
