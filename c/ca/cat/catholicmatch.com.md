@@ -1,11 +1,7 @@
-> *The following text is extracted and transformed from the catholicmatch.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231195657id_/http%3A//www.catholicmatch.com/pl/pages/info/privacy_security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catholicmatch.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615233558id_/http%3A//www.catholicmatch.com/pl/pages/info/privacy_security) for the most accurate reproduction.*
 
 # privacy & security
 
-|  In order to use this feature you must sign up or sign in.   
-  
----|---  
-  
 **The Information We Collect**  
 CatholicMatch.com is an online singles service designed to provide an easy way for our members to meet each other on the Web. To accomplish this, our members create their own unique profiles which are viewable by other members. In order to do this, we must ask for certain personal information. None of the information we gather can be used by the public (visitors, other members, or anyone not employed by Acolyte, LLC or the financial institutions used to process membership charges) to identify specific individuals.
 
