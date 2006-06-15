@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interactivebrokers.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214135102id_/http%3A//www.interactivebrokers.com/en/accounts/legalDocuments/privacy.php%3Fib_entity%3Dllc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interactivebrokers.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615173727id_/http%3A//interactivebrokers.com/en/accounts/legalDocuments/privacy.php%3Fib_entity%3Dllc) for the most accurate reproduction.*
 
 # Interactive Brokers Group Privacy Statement
 
