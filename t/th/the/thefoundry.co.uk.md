@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefoundry.co.uk privacy policy that was archived on 2005-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051111090744id_/http%3A//www.thefoundry.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefoundry.co.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615081248id_/http%3A//www.thefoundry.co.uk/privacy.aspx) for the most accurate reproduction.*
 
 # The Foundry - Privacy Policy
 
@@ -47,7 +47,7 @@ We ensure that your personal data will not be disclosed to state institutions an
 
 ### Access to the personal data we may hold about you 
 
-You are entitled by law to request a copy of any personal data we hold about you. If you would like to know whether we hold personal information about you, or to request a copy, you can ask us by emailing info@chameleonnet.com
+You are entitled by law to request a copy of any personal data we hold about you. If you would like to know whether we hold personal information about you, or to request a copy, you can ask us by emailing info@thefoundry.co.uk
 
 We will provide you with a readable copy of the personal data that we keep about you within a week. To enable us to release any data, we may require proof of your identity. We will provide the information without any charge. 
 
@@ -78,10 +78,10 @@ We reserve the right to make amendments to our privacy policy in the future so t
 If you have any other queries relating to your privacy and the use of your personal data, please contact:
 
 Jonathan Barson   
-General Manager,   
-The Foundry Visionmongers Ltd,   
-35-36 Great Marlborough Street,   
-London,   
-W1F 7JE,   
+Managing Director   
+The Foundry Visionmongers Ltd   
+1 Wardour Street   
+London   
+W1D 6PA   
 England   
 [info@thefoundry.co.uk](mailto:info@chameleonnet.com)
