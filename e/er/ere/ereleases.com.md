@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ereleases.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230011347id_/http%3A//www.ereleases.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ereleases.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615050128id_/http%3A//ereleases.com/privacy.html) for the most accurate reproduction.*
 
 # eReleases :: Privacy Statement
 
@@ -24,8 +24,8 @@ MEK Enterprises LLC (dba "eReleases") abides by the safe harbor framework as set
 
 Questions regarding this statement should be directed to the MEK Enterprises LLC (dba eReleases) site coordinator by sending an email message to sales@ereleases.com or writing to us at the following address: 
 
-9403 Good Spring Drive  
-Perry Hall, MD 21128 
+10640 Jones Road  
+Kingsville, Maryland 21087 
 
 To return to the MEK Enterprises LLC (dba eReleases) home page, please click here: [http://www.ereleases.com](http://www.ereleases.com/). 
 
