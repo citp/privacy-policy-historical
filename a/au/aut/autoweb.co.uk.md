@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoweb.co.uk privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214114941id_/http%3A//www.autoweb.co.uk/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoweb.co.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615065023id_/http%3A//www.autoweb.co.uk/legal/privacy.asp) for the most accurate reproduction.*
 
 # Untitled Document
 
@@ -70,15 +70,13 @@ If you have any enquiries about this Privacy Policy, please e-mail us at [contac
 
 Autoweb 
 
-Corunna House 
-
-42-44 Ousegate 
+New Street 
 
 Selby 
 
 North Yorkshire 
 
-YO8 4NH 
+YO8 4PT
 
 Customer Services at 01757 701010 (Monday to Friday between 9.00am and 5.30pm) 
 
