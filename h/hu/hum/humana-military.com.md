@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the humana-military.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230035914id_/http%3A//humana-military.com/South/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humana-military.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615023816id_/http%3A//humana-military.com/South/privacy_statement.htm) for the most accurate reproduction.*
 
 # 
 
@@ -94,4 +94,4 @@ The HMHS Web site is maintained by HMHS, 500 West Main Street, Louisville, KY 40
 | 
 
 [Home](http://www.humana-military.com/home.htm) | [DoD Resources](http://www.humana-military.com/south/dod/dodresources.htm) | [Beneficiary Resources](http://www.humana-military.com/south/bene/beneresources.htm) | [Provider Resources](http://www.humana-military.com/south/provider/provresources.htm) | [Search](http://www.humana-military.com/South/search.htm)  
-© Copyright 2005, Humana Military Healthcare Services [Legal Disclaimer](https://web.archive.org/web/20051230035914id_/http%3A//humana-military.com/South/Legal.htm)
+© Copyright 2005, Humana Military Healthcare Services [Legal Disclaimer](https://web.archive.org/web/20060615023816id_/http%3A//humana-military.com/South/Legal.htm)
