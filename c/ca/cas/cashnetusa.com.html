@@ -1,25 +1,125 @@
-<!--The following is the downloaded HTML source of the cashnetusa.com privacy policy that was archived on 2005-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051213201117id_/http%3A//www.cashnetusa.com/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cashnetusa.com privacy policy that was archived on 2006-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615022043id_/http%3A//www.cashnetusa.com/privacy_policy.html) for the most accurate reproduction.-->
 
-<html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+    <title>CashNetUsa - Fast Payday Loans</title>
+    <meta content="CashNetUSA national online cash advance store" name="description">
+    <meta content="payday loans paycheck faxless cash advance quick online cashadvance fast" name="keywords">
     <script language="JavaScript" type="text/javascript">
-    <!--
-    function breakout_of_frame(){
-      // see http://www.thesitewizard.com/archive/framebreak.shtml
-      // for an explanation of this script and how to use it on your
-      // own website
-      if (top.location != location) {
-        top.location.href = document.location.href ;
-      }
-    }
-    -->
-    </script>
-		<link href="/stylesheets/default.css" media="screen" rel="Stylesheet" type="text/css">
-    <title>CashNetUSA.com - Fast Payday Loans</title>
-	</head>
-<body onload="breakout_of_frame()">
-	<script src="/javascripts/CalendarPopup.js" type="text/javascript"></script>
-<script>var cal = new CalendarPopup('cdiv'); cal.showYearNavigation(); cal.showYearNavigationInput();document.write(getCalendarStyles());</script><style>
+<!--
+function breakout_of_frame(){
+  // see http://www.thesitewizard.com/archive/framebreak.shtml
+  // for an explanation of this script and how to use it on your
+  // own website
+  if (top.location != location) {
+    top.location.href = document.location.href ;
+  }
+}
+-->
+</script>
+
+    <script src="/javascripts/prototype.js" type="text/javascript"></script>
+    <script src="/javascripts/scriptaculous.js?load=effects,slider" type="text/javascript"></script>
+    <script src="/javascripts/windows/window.js" type="text/javascript"></script>
+<script src="/javascripts/windows/cnu_window.js" type="text/javascript"></script>
+    <link href="/javascripts/windows/themes/default.css" media="screen" rel="Stylesheet" type="text/css">
+<link href="/javascripts/windows/themes/cnu1.css" media="screen" rel="Stylesheet" type="text/css">
+    <link href="/stylesheets/default.css" media="screen" rel="Stylesheet" type="text/css">
+    
+    <!--[if lt IE 7]>
+    <link href="/stylesheets/default_ie_only.css" media="screen" rel="Stylesheet" type="text/css" />
+        <script src="/javascripts/ie7/ie7-standard-p.js" type="text/javascript"></script>
+    <script src="/javascripts/swfobject.js" type="text/javascript"></script>
+    <![endif]-->
+
+    <script language="JavaScript">
+<!--
+
+/*
+   name - name of the cookie
+   value - value of the cookie
+   [expires] - expiration date of the cookie
+     (defaults to end of current session)
+   [path] - path for which the cookie is valid
+     (defaults to path of calling document)
+   [domain] - domain for which the cookie is valid
+     (defaults to domain of calling document)
+   [secure] - Boolean value indicating if the cookie transmission requires
+     a secure transmission
+   * an argument defaults when it is assigned null as a placeholder
+   * a null placeholder is not required for trailing omitted arguments
+*/
+
+function setCookie(name, value, expires, path, domain, secure) {
+  var curCookie = name + "=" + escape(value) +
+      ((expires) ? "; expires=" + expires.toGMTString() : "") +
+      ((path) ? "; path=" + path : "") +
+      ((domain) ? "; domain=" + domain : "") +
+      ((secure) ? "; secure" : "");
+  document.cookie = curCookie;
+}
+
+
+/*
+  name - name of the desired cookie
+  return string containing value of specified cookie or null
+  if cookie does not exist
+*/
+
+function getCookie(name) {
+  var dc = document.cookie;
+  var prefix = name + "=";
+  var begin = dc.indexOf("; " + prefix);
+  if (begin == -1) {
+    begin = dc.indexOf(prefix);
+    if (begin != 0) return null;
+  } else
+    begin += 2;
+  var end = document.cookie.indexOf(";", begin);
+  if (end == -1)
+    end = dc.length;
+  return unescape(dc.substring(begin + prefix.length, end));
+}
+
+
+/*
+   name - name of the cookie
+   [path] - path of the cookie (must be same as path used to create cookie)
+   [domain] - domain of the cookie (must be same as domain used to
+     create cookie)
+   path and domain default if assigned null or omitted if no explicit
+     argument proceeds
+*/
+
+function deleteCookie(name, path, domain) {
+  if (getCookie(name)) {
+    document.cookie = name + "=" +
+    ((path) ? "; path=" + path : "") +
+    ((domain) ? "; domain=" + domain : "") +
+    "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+  }
+}
+
+// date - any instance of the Date object
+// * hand all instances of the Date object to this function for "repairs"
+
+function fixDate(date) {
+  var base = new Date(0);
+  var skew = base.getTime();
+  if (skew > 0)
+    date.setTime(date.getTime() - skew);
+}
+
+// -->
+</script>
+
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+
+</head>
+<body class="static" id="dispatcher">
+<script src="/javascripts/CalendarPopup.js" type="text/javascript"></script>
+<script type="text/javascript">var cal = new CalendarPopup('cdiv'); cal.showYearNavigation(); cal.showYearNavigationInput();document.write(getCalendarStyles());</script><style>
 .cpYearNavigation,.cpMonthNavigation { background-color:#C0C0C0; text-align:center; vertical-align:center; text-decoration:none; color:#000000; font-weight:bold; }
 .cpDayColumnHeader, .cpYearNavigation,.cpMonthNavigation,.cpCurrentMonthDate,.cpCurrentMonthDateDisabled,.cpOtherMonthDate,.cpOtherMonthDateDisabled,.cpCurrentDate,.cpCurrentDateDisabled,.cpTodayText,.cpTodayTextDisabled,.cpText { font-family:arial; font-size:8pt; }
 TD.cpDayColumnHeader { text-align:right; border:solid thin #C0C0C0;border-width:0px 0px 1px 0px; }
@@ -35,161 +135,193 @@ A.cpTodayText { color:black; }
 .cpTodayTextDisabled { color:#D0D0D0; }
 .cpBorder { border:solid thin #808080; }
 </style>
-<div id="cdiv" style="position:absolute;visibility:hidden;background-color:white;layer-background-color:white;"></div>
-	<table width="100%" border="0" cellpadding="15" cellspacing="0">
-		<tbody><tr>
-			<td colspan="3">
-				<table width="100%" height="46%" border="0" align="center" cellpadding="0" cellspacing="0">
-					<tbody><tr> 
-						<td height="56%" colspan="2">
-							<table width="100%" height="120" border="0" cellpadding="0" cellspacing="0">
-<!--	<tr><td valign="middle" align="left"><a href="/"><img border="0" src="/images/index01.jpg" alt="CASHNETUSA"></a></td></tr>-->					
-	<tbody><tr><td valign="top" align="left" height="120" background="/images/index07_new.jpg"><img border="0" src="/images/index01.jpg" alt="CASHNETUSA"></td></tr>
-							</tbody></table>
-						</td>
-					</tr>
-					<tr align="left" valign="top"> 
-	<td height="6%" colspan="3">
-		<!-- start menu HTML -->
+<div id="cdiv" style="z-index:100;position:absolute;visibility:hidden;background-color:white;"></div>    <div id="avkmoney" class="money" style="visibility: hidden; position: absolute;">
+    <table class="money">
+    <tbody><tr>
+    <td class="tablo" align="center">&nbsp;</td>
+    <td class="tablo" align="center" onclick="Backspace()">del</td>
+    <td class="tablo" align="center" onclick="CECalc()">CE</td>
+    <td class="tablo" align="center" onclick="ClearCalc()">C</td>
+    <td class="closew" onclick="hd()" valign="middle">X</td></tr>
 
-<script src="/javascripts/stm31.js" type="text/javascript"></script><style>
-.st_tbcss,.st_tdcss,.st_divcss,.st_ftcss{border:none;padding:0px;margin:0px}
-A.st_acss,A.st_acss:link,A.st_acss:visited,A.st_acss:active,A.st_acss:hover{background-color:transparent;font-style:normal;border:none}
-</style><font id="st_gl0"></font><font id="st_gl1"></font><font id="st_gl2"></font><font id="st_gl3"></font><font id="st_gl4"></font><font id="st_gl5"></font><font id="st_gl6"></font><font id="st_gl7"></font><font id="st_gl8"></font><font id="st_gl9"></font>
-		<div id="menu"> 
-			<ul>
-				<li> 
-					<h2>Home</h2>
-					<ul>
-						<li><a href="/" title="Payday Loans Home">CashNetUSA 
-								Home</a></li>
-					</ul>
-				</li>
-			</ul>
-			<ul>
-				<li> 
-					<h2>Payday Loans</h2>
-					<ul>
-            <li><a href="/cash-payday-loan.html" title="What is Payday Loan?">What 
-								is a Payday Loan?</a></li>
-								<li><a href="/states_serviced.html" title="States We Service">States 
-										We Service</a></li>
-										<li><a href="/coming_soon.html" title="States Coming Soon">States 
-												Coming Soon</a></li>
-					</ul>
-				</li>
-			</ul>
-			<ul>
-				<li> 
-					<h2>Need a Loan?</h2>
-					<ul>
-						<li><a href="/how-it-works.html" title="How it Works">How it 
-								Works</a></li>
-								<li><a href="/fee-schedule.html" title="Rules and Fees">Rules 
-										and Fees</a></li>
-										 <li><a href="/need_a_loan.html">Apply Now</a></li>
-					</ul>
-				</li>
-			</ul>
-			<ul>
-				<li> 
-					<h2>Financial Tips</h2>
-					<ul>
-            <li><a href="/financial-tips.html" title="General Financial Tips">General 
-								Financial Tips</a></li>
-            <li><a href="/resources.html" title="Financial Services Directory">Financial Services Directory</a></li> 
-					</ul>
-				</li>
-			</ul>
-			<ul>
-				<li> 
-					<h2>My Account</h2>
-					<ul>
-						
-										<li><a href="/need_a_loan.html">Apply Now</a></li>
-					</ul>
-				</li>
-			</ul>
-			<ul>
-				<li> 
-					<h2>FAQ</h2>
-						<ul>
-							<li><a href="/faq.html" title="Frequently Asked Questions">Frequently 
-									Asked Questions</a></li>
-						</ul>
-</li>
-</ul>
-<ul>
-	<li> 
-		<h2>About Us</h2>
-		<ul>
-      <li><a href="/about-us.html" title="About us">About CashNetUSA</a></li>
-      <li><a href="/contact-us.html" title="Contact Information">Contact Information</a></li>
-      <li><a href="/privacy_policy.html">Privacy Policy</a></li>
-      <li><a href="/debt_management.html">Debt Management</a></li>
-		</ul>
-	</li>
-</ul>
+    <tr>
+    <td onclick="CheckNumber('7')" class="money" onmouseover="msOver(this);" onmouseout="msOut(this);">7</td>
+    <td onclick="CheckNumber('8')" class="money" onmouseover="msOver(this);" onmouseout="msOut(this);">8</td>
+    <td onclick="CheckNumber('9')" class="money" onmouseover="msOver(this);" onmouseout="msOut(this);">9</td>
+    <td onclick="DivButton()" class="money" onmouseover="msOver(this);" onmouseout="msOut(this);">/</td>
+    <td onclick="SqrtButton()" class="money" onmouseover="msOver(this);" onmouseout="msOut(this);">√</td>
+    </tr>
+
+    <tr>
+    <td onclick="CheckNumber('4')" class="money" onmouseover="msOver(this);" onmouseout="msOut(this);">4</td>
+    <td onclick="CheckNumber('5')" class="money" onmouseover="msOver(this);" onmouseout="msOut(this);">5</td>
+
+    <td onclick="CheckNumber('6')" class="money" onmouseover="msOver(this);" onmouseout="msOut(this);">6</td>
+    <td onclick="MultButton()" class="money" onmouseover="msOver(this);" onmouseout="msOut(this);">*</td>
+    <td onclick="PercentButton()" class="money" onmouseover="msOver(this);" onmouseout="msOut(this);">%</td>
+    </tr>
+
+    <tr>
+    <td onclick="CheckNumber('1')" class="money" onmouseover="msOver(this);" onmouseout="msOut(this);">1</td>
+    <td onclick="CheckNumber('2')" class="money" onmouseover="msOver(this);" onmouseout="msOut(this);">2</td>
+    <td onclick="CheckNumber('3')" class="money" onmouseover="msOver(this);" onmouseout="msOut(this);">3</td>
+    <td onclick="SubButton(1)" class="money" onmouseover="msOver(this);" onmouseout="msOut(this);">-</td>
+
+    <td onclick="RecipButton()" class="money" onmouseover="msOver(this);" onmouseout="msOut(this);">¼</td>
+    </tr>
+
+    <tr>
+    <td onclick="CheckNumber('0')" class="money" onmouseover="msOver(this);" onmouseout="msOut(this);">0</td>
+    <td onclick="NegateButton()" class="money" onmouseover="msOver(this);" onmouseout="msOut(this);">±</td>
+    <td onclick="CheckNumber('.')" class="money" onmouseover="msOver(this);" onmouseout="msOut(this);">·</td>
+    <td onclick="AddButton(1)" class="money" onmouseover="msOver(this);" onmouseout="msOut(this);">+</td>
+    <td onclick="EqualButton()" class="money" onmouseover="msOver(this);" onmouseout="msOut(this);">=</td>
+    </tr>
+
+    </tbody></table>
+
+    </div>
+<script src="/javascripts/calculator.js" type="text/javascript"></script>
+<div class="content_bg"></div>
+<!--................. 1 ...............-->
+<!-- start menu HTML -->
+
+<div class="left_box">
+  <a href="/" title=" Return to the homepage for CashNetUSA: A higher standard payday loan provider. "><span class="logo_box"></span></a>
+
+  <a href="/need_a_loan.html"><span class="apply_box"></span></a>
+
+  <ul class="menu">
+  
+
+    <li><a href="/cash-payday-loan.html" title=" What is a Payday Loan? ">What is a Payday Loan?</a></li>
+    <li><a href="/how-it-works.html" title=" How It Works ">How It Works</a></li>
+    <li><a href="/fee-schedule.html" title=" Rates and Terms ">Rates and Terms</a></li>
+    <li><a href="/faq.html" title=" FAQ ">FAQ</a></li>
+    <li><a href="/about-us.html" title=" About CashNetUSA ">About CashNetUSA</a></li>
+  </ul>
+    
+  <div class="live_support">
+  <!-- live support image -->
+
+<!-- BEGIN PHP Live! code, copyright OSI Codes Inc. -->
+  <script language="JavaScript" type="text/javascript" src="//phplive.cashnetusa.com/web/cashnetusa/surveys.php?base_url=//phplive.cashnetusa.com/"></script>
+  <script language="JavaScript" type="text/javascript" src="//phplive.cashnetusa.com/js/status_image.php?base_url=//phplive.cashnetusa.com/&amp;l=cashnetusa&amp;x=1&amp;deptid=1&amp;btn=1"></script>
+  <div id="surveyDiv" style="visibility:hidden"></div>
+<!-- END PHP Live! code, copyright OSI Codes Inc. -->	   
+  </div>
+  <a href="/rewards.html" title=" Find out more about our Preferred Member Program. "><span class="b_prefmember"></span></a>
+  <a href="/rewards.html" title=" Refer a friend! "><span class="b_referfriend"></span></a>
 </div>
 
-						            </td>
-					</tr>
-					<tr align="left" valign="top"> 
-						<td height="6%" colspan="2">&nbsp;</td>
-					</tr>
-				</tbody></table>
-			</td>
-		</tr>
-		<tr>
-			<td width="17%" valign="top" align="left">
-        
+<!-- end menu HTML -->
 
-<!--[form:login]-->
+<!--................. 2 ...............-->
+<div class="center_box">
+  <div class="topbar_box"></div>
+  
     
-  <div id="login_div">
-	
-	<form action="https://www.cashnetusa.com/secure/dispatcher/login" method="post">
-       
-	   <fieldset id="login"><legend>Customer Login</legend>
-        <label for="login">Email: </label><br>
-          <input id="user_login" name="user[login]" size="15" type="text"><br>
-        <label for="password">Password: </label><br>
-          <input id="user_password" name="user[password]" size="15" type="password"><br>
-            <br><input name="commit" type="submit" value="Login"> <input name="commit" type="submit" value="Forgot Password?">
-		</fieldset>
-		</form>
-	</div>
-	
+  
+		
+  <div class="content_box">
+    
+
+    <h1>Privacy Policy</h1>
+
+<p><b>CashNetUSA</b> is serious about protecting your online privacy. This Privacy Statement explains our views and practices concerning privacy, and how they may pertain to you as a user of our website.</p>
+
+<p>"You" or "Your" means you as a participant in or as a user of the <b>CashNetUSA</b> program. "We" or "Our" or "Us" means <b>CashNetUSA</b>. "Our site" means <b>CashNetUSA</b>.  All information transmitted, printed or otherwise submitted to <b>CashNetUSA</b> via this website shall be deemed to be the property of <b>CashNetUSA</b> and <b>CashNetUSA</b> shall be free to use such information for any lawful purpose as detailed herein.  We reserve the right to release such information to law enforcement or other governmental officials as we, in our sole and absolute discretion, deem necessary to comply with the law.</p>
+
+<h2>What Information We Collect</h2>
+
+<p>We automatically collect and/or track the following:</p>
+<ul>
+  <li>web page http headers (home server domain names, IP address, type of client computer, and type of Web browser)</li>
+  <li>information knowingly provided by you through on-line forms, registration forms, surveys, and/or other entries, such as email addresses, personal, financial or demographic information</li>
+  <li>information, user specific or aggregate, on what pages our visitors access</li>
+  <li>the e-mail addresses of visitors that communicate with <b>CashNetUSA</b> via e-mail</li>
+</ul>
+
+<h2>How We Use That Information</h2>
+
+<p>We use your personal, demographic and profile data to enhance your experience at our site and to enable us to present content we think you might be interested in. We use your contact information to send you information about our company and promotional material from our partners. We may also use your personal, demographic and profile data to improve our site, for statistical analysis, for marketing and promotional purposes, and for editorial or feedback purposes for our advertisers. Information collected by us may be added to our databases and used for future e-mails or postal mailings regarding site updates, new products and services, upcoming events, and/or status of orders placed online.</p>
+
+<h2>Disclosure of Data to Third Parties</h2>
+
+<p>If you choose to provide personal information, it will be used for the following purposes:</p>
+<ul>
+  <li>considering you for a payday loan, and</li>
+  <li>for marketing products and services which we determine, in our sole judgment, that you might find of interest.</li>
+</ul>
+
+<p>We reserve the right to share, rent, sell, or otherwise disclose data we collect to third parties. Any third party we share, rent, sell, or otherwise disclose data to will be carefully prescreened by us, determined by us to be reputable, and will use the personal data for marketing products and services which we determine, in our sole judgment, that you might find of interest.</p>
+
+<h2>Your Opt-Out Rights</h2>
+
+<p>You may opt-out of receiving communications from us and/or our partners by not submitting your information. We also allow you to remove your information from our database by responding to any of our e-mail communications with "remove" in the subject line. If you remove your information from our database it will no longer be used by us for secondary purposes, disclosed to third parties, or used by us or by third parties to send promotional correspondences to you. <b>CashNetUSA</b> takes your privacy seriously and does not tolerate spam.</p>
+
+<h2>Our Right To Contact You</h2>
+
+<p>We reserve the right to contact you regarding your account status and changes to subscriber agreements, privacy policy, or any other policies or agreements relevant to you.</p>
+
+<h2>Our Right To Change</h2>
+
+<p>We reserve the right to change this policy at any time by notifying you of the existence and location of the new or revised privacy policy or by posting the changes online at our site.</p>
+
+<h2>We Do Not Intend To Collect Data From Children</h2>
+
+<p>The information and services provided by us or by our affiliates, sponsors, and advertisers, are not intended to be viewed by children (under 18 years old). No information collected from children is knowingly used for any marketing or promotional purposes whatsoever, either inside or outside <b>CashNetUSA</b>.</p>
+
+  </div>		   
+</div>
+<!--................. 3 ...............-->
+<div class="right_box">
+    
+<!--[form:login]-->
+
+
+<div id="login_div">
+  <form action="https://cashnetusa.com/secure/dispatcher/login" method="post" id="login" name="login">
+    <div class="login_box">
+      <div class="box">
+        <div><label for="user_login">E-mail:</label><input class="input_login_form" id="user_login" name="user[login]" size="15" type="text"></div>
+        <div><label for="user_password">Password:</label><input class="input_login_form" id="user_password" name="user[password]" size="15" type="password"></div>
+        <div class="spacer"><!-- spacer --></div>
+        <div align="center"><span class="submit" onclick="Element.show('login_secure_login_spinner');$('login_secure_login_spinner').style.visibility='visible';setTimeout(&quot;$('login_secure_login_spinner').src='/images/spinner-4176BA-FED205-20px.gif';&quot;,10);Element.hide('login_secure_login_submit');$(document.forms.login).submit"><img alt="Spinner-4176ba-fed205-20px" id="login_secure_login_spinner" src="/images/spinner-4176BA-FED205-20px.gif" style=" display:none;"><input id="login_secure_login_submit" name="commit" type="submit" value="Secure Login"></span></div>
+        <div align="center"><span class="submit" onclick="Element.show('login_forgot_password_spinner');$('login_forgot_password_spinner').style.visibility='visible';setTimeout(&quot;$('login_forgot_password_spinner').src='/images/spinner-4176BA-FED205-20px.gif';&quot;,10);Element.hide('login_forgot_password_submit');$(document.forms.login).submit"><img alt="Spinner-4176ba-fed205-20px" id="login_forgot_password_spinner" src="/images/spinner-4176BA-FED205-20px.gif" style=" display:none;"><input id="login_forgot_password_submit" name="commit" type="submit" value="Forgot Password?"></span></div>
+      </div>
+    </div>
+  </form>
+</div>
+<div class="spacer"><!-- spacer --></div>
+
 <!--[form:login] -->
 
-				<!-- [form:applynow.rhtml] -->
-<div id="apply_now_div">
-<fieldset id="apply_now"><legend>Apply For A Loan</legend>
+    <!-- [form:applynow.rhtml] -->
 
-<form action="https://www.cashnetusa.com/secure/dispatcher/newloan" method="post">
-
- 
-	<label for="name_first_name">First Name: </label>
-		<input id="name_first_name" name="name[first_name]" size="20" type="text"><br>
-	<label for="name_last_name">Last Name: </label>
-		<input id="name_last_name" name="name[last_name]" size="20" type="text"><br>
-	<label for="email_email">Email: </label>
-		<input id="email_email" name="email[email]" size="20" type="text"><br>
-	<label for="salary_salary">Paycheck Amount: </label>
-		<input id="salary_salary" name="salary[salary]" size="20" type="text"><br>
-	<label for="payment_type">Payment Type: </label>
-		<select id="incomepay_incomepay" name="incomepay[incomepay]"><option value="">Select...</option>
+  <div class="applyloan_box">
+    <form action="https://cashnetusa.com/secure/dispatcher/newloan" method="post" id="short_form" name="short_form">
+  
+      <div class="box">
+        <div class="input_item"><label for="short_form_first_name">First Name: </label><input class="input_login_form" id="short_form_first_name" name="short_form[first_name]" size="20" type="text"></div>
+        <div class="input_item"><label for="short_form_last_name">Last Name: </label><input class="input_login_form" id="short_form_last_name" name="short_form[last_name]" size="20" type="text"></div>
+        <div class="input_item"><label for="short_form_email">Email: </label><input class="input_login_form" id="short_form_email" name="short_form[email]" size="20" type="text"></div>
+        <div class="input_item"><label for="short_form_salary">Paycheck Amount: </label><input class="input_login_form" id="short_form_salary" name="short_form[salary]" size="20" type="text"></div>
+        <div class="input_item"><label for="short_form_incomepay">Payment Type: </label>
+          <select id="short_form_incomepay" name="short_form[incomepay]"><option value="">Select...</option>
 <option value="direct_deposit">Direct Deposit</option>
 <option value="paper_check">Paper Check</option>
-<option value="cash">Cash</option></select><br>
-	<label for="salary_period">Payment Period: </label>
-		<select id="payperiod_payperiod" name="payperiod[payperiod]"><option value="">Select...</option>
+<option value="cash">Cash</option></select>
+        </div>
+        <div class="input_item"><label for="short_form_payperiod">Payment Period: </label>
+          <select id="short_form_payperiod" name="short_form[payperiod]"><option value="">Select...</option>
 <option value="weekly">Weekly</option>
 <option value="biweekly">Bi-weekly</option>
 <option value="monthly">Monthly</option>
-<option value="twice_monthly">Twice Monthly</option></select><br>
-	<label for="state_state_cd">State: </label>
-		<select id="state_state_cd" name="state[state_cd]"><option value="">Select...</option>
+<option value="twice_monthly">Twice Monthly</option></select>
+        </div>
+        <div class="input_item"><label for="short_form_state_cd">State: </label>
+          <select id="short_form_state_cd" name="short_form[state_cd]"><option value="">Select...</option>
 <option value="AL">Alabama</option>
 <option value="AK">Alaska</option>
 <option value="AZ">Arizona</option>
@@ -240,136 +372,55 @@ A.st_acss,A.st_acss:link,A.st_acss:visited,A.st_acss:active,A.st_acss:hover{back
 <option value="WA">Washington</option>
 <option value="WV">West Virginia</option>
 <option value="WI">Wisconsin</option>
-<option value="WY">Wyoming</option></select><br>
-    
-	<br><input name="commit" type="submit" value="Apply Now">
- 
-</form>
-	</fieldset>
-	</div>
+<option value="WY">Wyoming</option></select>
+        </div>
+        <div align="center"><span class="submit" onclick="Element.show('short_form_apply_now_spinner');$('short_form_apply_now_spinner').style.visibility='visible';setTimeout(&quot;$('short_form_apply_now_spinner').src='/images/spinner-4176BA-DFEBFA-20px.gif';&quot;,10);Element.hide('short_form_apply_now_submit');$(document.forms.short_form).submit"><img alt="Spinner-4176ba-dfebfa-20px" id="short_form_apply_now_spinner" src="/images/spinner-4176BA-DFEBFA-20px.gif" style=" display:none;"><input id="short_form_apply_now_submit" name="commit" type="submit" value="Apply Now"></span></div>
+      </div>
+  
+    </form>
+  </div>
+  
 <!-- [eoform:applynow.rhtml] -->
 
-
-
- 
-
-        
-				
-					<div>
-						Register for a new <a href="/registration-step1.html">account</a>.
-					</div>
-				
-				<p>
-<!-- BEGIN PHP Live! code, copyright OSI Codes Inc. -->
-  <style type="text/css">
-    <!-- #surveyDiv {position:absolute; height:1; width:1; top:0; left:0;} -->
-  </style>
-  <script language="JavaScript" src="//phplive.cashnetusa.com/web/cashnetusa/surveys.php?base_url=//phplive.cashnetusa.com/"></script>
-  <script language="JavaScript" src="//phplive.cashnetusa.com/js/status_image.php?base_url=//phplive.cashnetusa.com/&amp;l=cashnetusa&amp;x=1&amp;deptid=1&amp;btn=1">
-  </script>
-  </p><div id="surveyDiv" style="visibility:hidden"></div>
-<!-- END PHP Live! code, copyright OSI Codes Inc. -->	   
-<p></p>
-
-        <p><br>
-	<a href="http://www.bbbonline.org/cks.asp?id=1050816142859">
-		<img src="/images/ReliabilitySeal3.gif" border="0" alt="BBBOnline">
-	</a></p>
-
-			</td>
-			<td valign="top" align="justify">
-			
-      
-<div style="border: #26a solid 1px;width: 690px;color: #ffa800;font-weight: bold;">
-<p align="left" style="padding-left: 10px;padding-right:
-    10px;">Season's greeting from CashNetUSA.  Look for special holiday offers coming in the near future.
-
-
     
+      <div class="regnewaccount_box">
+        <p>Register for a new <a href="/registration-step1.html" title=" Click to register for a new account. ">account</a></p>
+      </div>
+      <div class="spacer"><!-- spacer --></div>
+    
+    <div class="badges">
 
+  <a href="http://www.bbbonline.org/cks.asp?id=1050816142859" onclick="window.open(this.href);return false;" title=" BBBOnLine Reliability Program "><img alt="Image: BBBOnLine Reliability Program" class="bbbonline" src="/images/bbbonline.gif" style=" border:none;"></a><br>
 
-</p>
+</div>
 </div>
 
-
-			<h1>Privacy Policy</h1>
-
-<p><b>CashNetUSA</b> is serious about protecting your online privacy. This Privacy Statement explains our views and practices concerning privacy, and how they may pertain to you as a user of our website.</p>
-
-<p>"You" or "Your" means you as a participant in or as a user of the <b>CashNetUSA</b> program. "We" or "Our" or "Us" means <b>CashNetUSA</b>. "Our site" means <b>CashNetUSA</b>.  All information transmitted, printed or otherwise submitted to <b>CashNetUSA</b> via this website shall be deemed to be the property of <b>CashNetUSA</b> and <b>CashNetUSA</b> shall be free to use such information for any lawful purpose as detailed herein.  We reserve the right to release such information to law enforcement or other governmental officials as we, in our sole and absolute discretion, deem necessary to comply with the law.</p>
-
-
-<p><b>What Information We Collect</b></p>
-
-<p>We automatically collect and/or track the following:</p>
-<ul>
-  <li>web page http headers (home server domain names, IP address, type of client computer, and type of Web browser);
-    </li><li>information knowingly provided by you through on-line forms, registration forms, surveys, and or other entries, such as email addresses, personal, financial or demographic information;
-      </li><li>information, user specific or aggregate, on what pages our visitors access and
-        </li><li>the e-mail addresses of visitors that communicate with <b>CashNetUSA</b> via e-mail
-        </li></ul>
-
-
-        <p><b>How We Use That Information</b></p>
-
-        <p>We use your personal, demographic and profile data to enhance your experience at our site and to enable us to present content we think you might be interested in. We use your contact information to send you information about our company and promotional material from our partners. We may also use your personal, demographic and profile data to improve our site, for statistical analysis, for marketing and promotional purposes, and for editorial or feedback purposes for our advertisers. Information collected by us may be added to our databases and used for future e-mails or postal mailings regarding site updates, new products and services, upcoming events, and/or status of orders placed online.</p>
-
-
-        <p><b>Disclosure of Data to Third Parties</b></p>
-
-        <p>If you choose to provide personal information, it will be used for the following purposes:</p>
-        <ul>
-          <li>considering you for a payday loan, and
-            </li><li>for marketing products and services which we determine, in our sole judgment, that you might find of interest.
-            </li></ul>
-
-            <p>We reserve the right to share, rent, sell, or otherwise disclose data we collect to third parties. Any third party we share, rent, sell, or otherwise disclose data to will be carefully prescreened by us, determined by us to be reputable, and will use the personal data for marketing products and services which we determine, in our sole judgment, that you might find of interest.</p>
-
-
-            <p><b>Your Opt-Out Rights</b></p>
-
-            <p>You may opt-out of receiving communications from us and or our partners by not submitting your information. We also allow you to remove your information from our database by responding to any of our e-mail communications with "remove" in the subject line. If you remove your information from our database it will no longer be used by us for secondary purposes, disclosed to third parties, or used by us or third parties to send promotional correspondences to you. <b>CashNetUSA</b> takes your privacy seriously and does not tolerate spam.</p>
-
-
-            <p><b>Our Right To Contact You</b></p>
-
-            <p>We reserve the right to contact you regarding your account status and changes to subscriber agreements, privacy policy, or any other policies or agreements relevant to you.</p>
-
-
-            <p><b>Our Right To Change</b></p>
-
-            <p>We reserve the right to change this policy at any time by notifying you of the existence and location of the new or revised privacy policy or by posting the changes online at our site.</p>
-
-            <p><b>We Do Not Intend To Collect Data From Children</b></p>
-            <p>The information and services provided us or our affiliates, sponsors, and advertisers are not intended to be viewed by children (under 18 years old). No information collected from children is knowingly used for any marketing or promotional purposes whatsoever, either inside or outside <b>CashNetUSA</b>.</p>
-
-			</td>
-		</tr>
-    
-		<tr align="right"> 
-			<td height="20" colspan="3" align="right">
-					 <div align="center">
-  <a href="/" target="_self" class="link1">Home</a>&nbsp;|&nbsp;<a href="/cash-payday-loan.html" target="_self" class="link1">Payday&nbsp;Loans</a>&nbsp;|&nbsp;<a href="/need_a_loan.html" target="_self" class="link1">Need&nbsp;a&nbsp;Loan?</a>&nbsp;|&nbsp;<a href="/financial-tips.html" target="_self" class="link1">Financial&nbsp;Tips</a>&nbsp;|&nbsp;<a href="/faq.html" target="_self" class="link1">FAQ</a>&nbsp;|&nbsp;<a href="/about-us.html" target="_self" class="link1">About&nbsp;Us</a>&nbsp;|&nbsp;<a href="/contact-us.html" target="_self" class="link1">Contact</a>&nbsp;|&nbsp;1-888-801-9075&nbsp;|&nbsp;
+<!-- FOOTER -->
+<div class="footer">
+  <a href="#top" title=" Back to the top of the page. "><span id="topbutton"></span></a>
+  <p><a href="/" title=" Home ">Home</a>&nbsp;|
+    <a href="/financial-tips.html" title=" Financial Tips ">Financial&nbsp;Tips</a>&nbsp;|
+    <a href="/privacy_policy.html" title=" Privacy Policy ">Privacy&nbsp;Policy</a>&nbsp;|
+    <a href="/sitemap.html" title=" Site Map ">Site&nbsp;Map</a>&nbsp;|
+    <a href="/contact-us.html" title=" Contact Us ">Contact Us</a>&nbsp;|&nbsp;<span class="phone_number">1·888·801·9075</span></p>
+  <div class="footer_right_bg"><!-- spacer --></div>
 </div>
- 
+<!-- /FOOTER -->
 
-			</td>
-		</tr>
-<tr> 
-	<td height="8%" colspan="2" align="center" valign="top"> <div align="left"></div></td>
-</tr>
-<tr> 
-	<td height="8%" colspan="2" align="center" valign="top"><div align="left"><font size="1">Copyright 
-				CashNetUSA.com 2004, 2005<br>
-				All rights reserved. CashNetUSA is a licensed or registered loan company
-				under the statutes of the states where we operate. More details
-				are in the "<font color="#626f77"><a href="/about_us.html" target="_self" class="link1">About Us</a></font>" page. </font></div></td>
-</tr>
-<tr> 
-	<td height="9%" colspan="2" align="center" valign="top">&nbsp;</td>
-</tr>
-</tbody></table>
+<div class="seo_links"></div>
 
+<div class="copyright_box">
+<p>Copyright CashNetUSA.com 2004, 2005, 2006<br>
+All rights reserved. CashNetUSA is a licensed or registered loan company under the statutes of the states where we operate. More details are in the "About Us" page.</p>
+</div>
+
+<script src="/javascripts/awstats_misc_tracker.js" type="text/javascript"></script>
+
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript">
+_uacct = "UA-335449-1";
+urchinTracker();
+</script>
 
 
 
