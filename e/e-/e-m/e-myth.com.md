@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the e-myth.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222082638id_/http%3A//www.e-myth.com/pub/htdocs/20) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-myth.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615063046id_/http%3A//www.e-myth.com/pub/htdocs/20) for the most accurate reproduction.*
 
 # E-Myth Worldwide
 
-We have created this privacy policy to demonstrate our firm commitment to your privacy and the protection of your information. 
+Small business owners, you’ve come to the right place . . .  
+E-Myth Privacy Policy  
+_Because running a small business should be easy_ We have created this privacy policy to demonstrate our firm commitment to your privacy and the protection of your information. 
 
 **Why did you receive an email from us?**  
 If you received a mailing from us, (a) your email address is either listed with us as someone who has expressly shared this address for the purpose of receiving information in the future ("opt-in"), or (b) you have registered or purchased or otherwise have an existing relationship with us. We respect your time and attention by controlling the frequency of our mailings.
