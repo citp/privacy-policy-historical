@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pitneyworks.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219155442id_/http%3A//www.pb.com/cgi-bin/pb.dll/jsp/EditorialDetail.do%3Feditorial_id%3Ded_8511%26isPremium%3Dfalse%26isLeft%3Dtrue%26programName%3D/Our%2520Company/About%2520Us/Legal/Privacy%2520Statement%26lang%3Den%26country%3D%26lang%3Den%26country%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitneyworks.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615043642id_/http%3A//www.pb.com/cgi-bin/pb.dll/jsp/EditorialDetail.do%3Feditorial_id%3Ded_8511%26isPremium%3Dfalse%26isLeft%3Dtrue%26programName%3D/Our%2520Company/About%2520Us/Legal/Privacy%2520Statement%26lang%3Den%26country%3D%26lang%3Den%26country%3D) for the most accurate reproduction.*
 
 # Privacy Statement
 
