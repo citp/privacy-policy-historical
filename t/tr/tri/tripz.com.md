@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripz.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218192122id_/http%3A//www.tripz.com/086-privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripz.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615104700id_/http%3A//www.tripz.com/086-privacypolicy.html) for the most accurate reproduction.*
 
 # Tripz.com :: Privacy Policy
 
@@ -70,4 +70,4 @@ California customers may request further information about our compliance with t
 By using our Site, you consent to the collection and use of information by us as specified in this policy. Please also note that your use of the Site is governed by the Terms and Conditions of Use posted on this Site. If you do not agree to the terms of the Privacy Policy or the Terms and Conditions, please do not use the Site or its products and/or services. Please send any questions about this Privacy Policy to privacy@tripz.com. 
 
   
-© 2005 Northstar Travel Media, LLC TRIPZ.COM™ is a registered trademark of Northstar Travel Media, LLC. 
+© 2005 Alliance Reservations Network TRIPZ.COM™ is a registered trademark of Alliance Reservations Network 
