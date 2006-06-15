@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the typepad.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230021104id_/http%3A//www.sixapart.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typepad.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615195328id_/http%3A//www.sixapart.com/privacy) for the most accurate reproduction.*
 
 # Six Apart Privacy Policy
 
@@ -124,6 +124,6 @@ _Effective Date: February 1, 2005_
 
 Copyright 2003, 2005 Six Apart, Ltd. All rights reserved.
 
-  
+[](http://www.sixapart.com/)  
 Makers of weblog software and services for individuals, organizations and businesses.  
 This website is powered by [Movable Type](https://web.archive.org/movabletype/index). 
