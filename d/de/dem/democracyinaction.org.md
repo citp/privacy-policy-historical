@@ -1,8 +1,25 @@
-> *The following text is extracted and transformed from the democracyinaction.org privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206212822id_/http%3A//www.democracyinaction.org/dia/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the democracyinaction.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615212400id_/http%3A//www.democracyinaction.org/www/privacy.jsp) for the most accurate reproduction.*
 
 # Democracy In Action: Technology for the Masses: Affordable Online Campaign Tools and Services
 
- | 
+|  |   
+---|---  
+[]() |   
+[](https://web.archive.org/web/20060615212400id_/http%3A//www.democracyinaction.org/www/about.jsp) |   
+[](https://web.archive.org/web/20060615212400id_/http%3A//www.democracyinaction.org/www/services.jsp) |   
+[](https://web.archive.org/web/20060615212400id_/http%3A//www.democracyinaction.org/www/prices.jsp) |   
+[](https://web.archive.org/www/quickStart.jsp) |   
+[](http://data.demaction.org/wiki/) |   
+[](https://web.archive.org/web/20060615212400id_/http%3A//www.democracyinaction.org/www/training.jsp) |   
+[](https://web.archive.org/web/20060615212400id_/http%3A//www.democracyinaction.org/www/clients.jsp) |   
+[](https://web.archive.org/web/20060615212400id_/http%3A//www.democracyinaction.org/www/contact.jsp) |   
+  
+First Name   
+  
+Last Name   
+  
+Email   
+
 
 ### Introduction
 
@@ -70,4 +87,4 @@ DemocracyInAction.org provides users the opportunity to opt-out of receiving com
   * You can log in to My Causes and remove yourself from the organizations you do not wish to be contacted by. 
 
   
-DemocracyInAction.org reserves its right to modify this privacy policy at any time |  
+DemocracyInAction.org reserves its right to modify this privacy policy at any time 
