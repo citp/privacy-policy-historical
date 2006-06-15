@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchwarp.com privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227084427id_/http%3A//searchwarp.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchwarp.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615200823id_/http%3A//searchwarp.com/Privacy.asp) for the most accurate reproduction.*
 
 # SearchWarp.com Privacy Policy
 
@@ -53,14 +53,6 @@ If you have any questions regarding our privacy statement, please feel free to c
 
 This statement may change from time to time, so please check back periodically. 
 
-© 2005 SearchWarp.com Inc. All Rights Reserved. 
-
-**Definitions:**
-
-**IP address:** Every computer connected to the Internet has a numeric address called an “IP address." This may or may not correspond uniquely to a particular computer. In some cases, IP addresses can be resolved to domain names, which may indicate a site visitor's Internet service provider, employer, university, etc. As part of its database analysis SearchWarp.com resolves IP addresses to domain names. 
-
-**Browser type:** A user’s browser is a software program running on a computer that allows users to access documents on the World Wide Web. Browsers can be either text or graphic. They read HTML coded pages that reside on a server and interpret the coding into what the user sees as Web pages. Netscape Navigator and Microsoft Internet Explorer are examples of Web browsers. Browser type typically discloses hardware platform, operating system, and browser software and version.
-
-**Referrer:** The referrer is the URI of the Internet resource or page that causes a browser to request a page or image from SearchWarp.com servers.
+**Definitions:** **IP address:** Every computer connected to the Internet has a numeric address called an “IP address." This may or may not correspond uniquely to a particular computer. In some cases, IP addresses can be resolved to domain names, which may indicate a site visitor's Internet service provider, employer, university, etc. As part of its database analysis SearchWarp.com resolves IP addresses to domain names.  **Browser type:** A user’s browser is a software program running on a computer that allows users to access documents on the World Wide Web. Browsers can be either text or graphic. They read HTML coded pages that reside on a server and interpret the coding into what the user sees as Web pages. Netscape Navigator and Microsoft Internet Explorer are examples of Web browsers. Browser type typically discloses hardware platform, operating system, and browser software and version. **Referrer:** The referrer is the URI of the Internet resource or page that causes a browser to request a page or image from SearchWarp.com servers.
 
 **Advertiser:** Someone who has submitted a URL or has had their URL submitted to SearchWarp.com.  SearchWarp.com offers some advertiser services for free, and some for a fee.
