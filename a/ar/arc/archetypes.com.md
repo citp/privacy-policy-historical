@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the archetypes.com privacy policy that was archived on 2005-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051127115607id_/http%3A//www.archetypes.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the archetypes.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615174630id_/http%3A//archetypes.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
