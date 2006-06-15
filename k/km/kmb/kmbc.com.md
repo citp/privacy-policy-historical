@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the kmbc.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206214307id_/http%3A//www.thekansascitychannel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kmbc.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615064727id_/http%3A//www.thekansascitychannel.com/privacy) for the most accurate reproduction.*
 
 # TheKansasCityChannel.com - Privacy
-
-  
-
 
 Internet Broadcasting Systems and its affiliates ("IBS") have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.TheKansasCityChannel.com](http://www.thekansascitychannel.com/). This privacy policy applies only to information collected by or through this website. It does not apply to information obtained by other means. 
 
