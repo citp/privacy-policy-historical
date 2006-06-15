@@ -1,26 +1,6 @@
-> *The following text is extracted and transformed from the perfect-optimization.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220163256id_/http%3A//www.perfect-optimization.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfect-optimization.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615051210id_/http%3A//perfect-optimization.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# perfect-optimization.com - privacy policy
-
-**SEO Service Information**
-
-  
-
-
-**SEO Guidelines**
-
-  
-
-
-**Search Engine Submission & Tips**
-
-  
-
-
-**Resources Directory**
-
-  
-| 
+# Privacy Policy - Perfect-Optimization.com
 
   
 
@@ -93,3 +73,8 @@ We will let our Visitors and Authorized Customers know about changes to our priv
 ## Links:
 
 This Website contains links to other Websites. Please note that when you click on one of these links, you are moving to another Website. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
+
+* * *
+
+  
+[Send this page to a friend](https://web.archive.org/web/20060615051210id_/http%3A//perfect-optimization.com/email-friend.php)
