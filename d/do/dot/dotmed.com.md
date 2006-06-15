@@ -1,44 +1,53 @@
-> *The following text is extracted and transformed from the dotmed.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231215504id_/http%3A//www.dotmed.com/legal/privacynotice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotmed.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615202218id_/http%3A//www.dotmed.com/legal/privacynotice.html) for the most accurate reproduction.*
 
-# DOTmed.com - PRIVACY NOTICE
+# DOTmed.com - Legal Information
 
-## DOTMED PRIVACY NOTICE
+## Privacy Notice
 
 **"Privacy Notice"**
 
-Dotmed.com, Inc. ('Company') values and respects your privacy. This Privacy Notice explains the Company.s on-line information practices and the choices you can make with respect to how your personal information is collected and utilized.
+Dotmed.com, Inc. ("DOTmed") values and respects your privacy. This Privacy Notice explains the DOTmed's online information practices and the choices you can make with respect to how your personal information is collected and utilized.
 
-__How is Information Collected__
+_How Information is Collected_
 
-The Company may obtain information about you from the following sources:
+DOTmed may obtain information about you from the following sources:
 
-  * Information you may submit to this site (please do not submit any personal information to us if you are less than 21 years of age).
-  * Information the Company may receive from third parties.
-  * Information the Company may collect through a standard technology known as .cookies. when you interact with this site. You can set your browser to notify you when you receive a cookie and give you the chance to accept or reject it.
-  * Information the Company may customize based upon your visit to this site to improve your experience on this site.
+Information you may submit to this site (please do not submit any personal information to us without parental consent if you are less than 18 years of age). 
 
+Information DOTmed may receive from third parties. 
 
+Information DOTmed may collect through a standard technology known as "cookies" when you interact with this site. You can set your browser to notify you when you receive a cookie and give you the chance to accept or reject it. 
 
-__How is Information Used__
+Information DOTmed may customize based upon your visit to this site to improve your experience on this site. 
 
-The Company may share your personal information with its associates, affiliates and third parties with whom it has business relationship with, for products/services provision, marketing or advertising purposes. However, the Company shall not share your credit card information or your password with any third parties.
+_How Information is Used_
 
-The Company maintains appropriate electronic and managerial procedures to safeguard and secure your credit card information, prevent it from unauthorized access and ensure its correct use and transmission.
+DOTmed may share your personal information with its associates, affiliates and third parties with whom it has a business relationship, for purposes of products/services provision, marketing or advertising. However, DOTmed shall not share your credit card information or your password with any party other than the card carrier. 
 
-__Your Right to Opt-Out__
+DOTmed maintains appropriate electronic and managerial procedures to safeguard and secure your credit card information, prevent it from unauthorized access, and ensure its correct use and transmission.
 
-You may opt-out above by not providing the information, in which case you may not be able to use certain services. In certain cases the Company may enable you to choose how your informaiton may be used, or choose not to receive future communications or services; except that the Company in any event may use such information as permitted or mandated by applicable law.
+We may disclose specific information about you as permitted or mandated by law, or as necessary based on our good faith belief to conform or comply with the law or to protect this site, its users, or the public.
 
-__Disclaimer__
+_Your Right to Opt-Out or Unsubscribe_
 
-While the Company strives to protect your privacy, it will not be responsible for actions under following circumstances in connection with your personal information:
+You may opt-out of all or some of DOTmed's services by clicking on [Subscription](https://web.archive.org/subscription.html) on the DOTmed homepage and unsubscribing as prompted on the site. However, you must contact DOTmed in person in order to delete any of your information from our site, except that DOTmed in any event may retain and use such information as permitted or mandated by applicable law to be retained or used by DOTmed.
 
-  * Clicking on any linked site _(advertising banners)_ appearing on this site will take you to third party web site, which is subject to other privacy practices that may be different from this Privacy Notice.
-  * Any information disclosed in any chat rooms, forums, message boards, and/or news groups available to visitors will become part of public domain and is not subject to privacy protection.
-  * Your account may be accessed and used by unauthorized third parties due to unauthorized disclosure by you of your account ID and/or password.
+_Disclaimer_
 
+While DOTmed strives to protect your privacy, please be aware that we are unable to guarantee complete security. In addition, the following circumstances in connection with your personal information are not subject to this Privacy Notice:
 
+Clicking on any linked site/advertising banners appearing on DOTmed's site will take you to third party web sites, which are subject to other privacy practices that may be different from this Privacy Notice. 
 
-The Company may revise this Privacy Notice from time to time. Any substantantive amendments hereof will be posted on the site for your awearness.
+Any information disclosed in any chat rooms, forums, message boards, and/or news groups available to visitors will become part of the public domain and is not subject to privacy protection. 
 
-Should you have any questions, concerns or requests about our privacy policy, please contact us via e-mail at [info@dotmed.com](mailto:%20info@dotmed.com) with the term "Privacy Policy" in the subject line.
+Your account may be accessed and used by unauthorized third parties due to unauthorized disclosure by you of your account ID and/or password.
+
+DOTmed may revise this Privacy Notice from time to time. Any substantive amendments hereof will be posted on DOTmed's site for your awareness.
+
+Should you have any questions, concerns or requests about our privacy policy, please contact us via e-mail at [info@dotmed.com](mailto:info@dotmed.com) with the term "Privacy Policy" in the subject line.
+
+Last updated February, 2006
+
+Copyright (c) 2003-2006 DOTmed.Com, Inc.
+
+All Rights Reserved
