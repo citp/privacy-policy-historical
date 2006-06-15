@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the freeforums.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604055956id_/http%3A//www2.freeforums.com/aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeforums.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615215848id_/http%3A//www.webhostdir.com/aboutus/privacy.asp) for the most accurate reproduction.*
 
 # Web Host Directory: The best free source of web hosting services in a searchable web host directory. Powerful web host search engines, reviewed web hosts, awards, news and much more!
+
+| 
 
 **What is the purpose of this Privacy Policy?**
 
@@ -45,3 +47,5 @@ Web Host Directory reserves the right to update this privacy policy from time to
 **How to contact us?**
 
 If you have any questions about this privacy policy or the practices of this website, you may request more information by submitting the [contact us](https://web.archive.org/contact/general.asp) form. 
+
+| 
