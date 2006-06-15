@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jewsforjesus.org privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210185316id_/http%3A//www.jewsforjesus.org/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jewsforjesus.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615222849id_/http%3A//www.jewsforjesus.org/about/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policies of Jews for Jesus
 
