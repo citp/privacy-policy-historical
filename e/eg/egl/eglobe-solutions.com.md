@@ -1,37 +1,40 @@
-> *The following text is extracted and transformed from the eglobe-solutions.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206191724id_/http%3A//www.eglobe-hotels.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eglobe-solutions.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615163238id_/http%3A//eglobe-solutions.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy >> EGLOBE TRAVELS
+# eGlobe Solutions | Privacy Policy
 
-eGlobe-hotels.com is committed to safeguarding your privacy online. Your Information will not be sold to anyone. Please read the following policy to understand how your personal information will be treated as you make full use of our many offerings. The policy may change from time to time so please check periodically.
+At EGLOBE SOLUTIONS, we understand that privacy on the Internet is important to you and your guests. We are providing this Privacy Statement to help you understand how we collect and use information. 
 
-1\. **Personal Information**
+Information Automatically Logged   
+We use your guest's IP address to help diagnose problems with our server and to administer our Website. 
 
-During registration, eGlobe-hotels.com asks for your name and email address. Once you register you are no longer anonymous to eGlobe-hotels.com and you are able to take full advantage of eGlobe-hotels offerings. 
+Cookies   
+If you subscribe to our ad-tracking service, we may use cookies to store information related to your ad banner tracking. 
 
-3\. **Collection of information by eGlobe-hotels.com**
+Contact info/Client data   
+We ask your guests for contact information (i.e. e-mail address, mailing address and telephone number) and credit card information to allow completion of the reservation process. We make this information available to you for retrieval from the database. 
 
-When you are on a eGlobe-hotels.com site and are asked for personal information, you are sharing that information with eGlobe-hotels.com alone, unless it is specifically stated otherwise. If data is being collected and/or maintained by any company other than eGlobe-hotels.com, you will be notified prior to the time of the data collection or transfer.
+EGLOBE SOLUTIONS is in no way liable or responsible for your company's handling of your guests' personal information. 
 
-Promotions that run on eGlobe-hotels.com may be sponsored by companies other than eGlobe-hotels.com or may be co-sponsored by eGlobe-hotels.com and another company. Some or all data collected during a promotion may be shared with the sponsor. If data will be shared, you will be notified prior to the time of data collection or transfer. You can decide not to participate in the promotion if you don’t want your data to be shared.
+You are responsible for maintaining and enforcing your own privacy policy in regard to information provided by your guests during the online reservation process. 
 
-4\. **Sharing of Information  
-**  
-As a general rule, eGlobe-hotels.com will not disclose or share any of your personally identifiable information except when eGlobe-hotels.com has your permission or under special circumstances, such as when eGlobe-hotels.com believes in good faith that the law requires it or as permitted in terms of this policy.
+You also are responsible for safeguarding any information such as credit card numbers that you may retrieve from EGLOBE SOLUTIONS and then store on your computers or in printed form. 
 
-5\. **Distribution of Information**
+We do not sell or rent your guests' personal information to anyone. We will disclose individual personal information if we are subpoenaed or ordered by a court of law. 
 
-eGlobe-hotels.com may, from time to time, send you email regarding our products and services. In addition, if you indicate upon registration that you are interested in receiving offers or information from eGlobe-hotels.com and its partners, eGlobe-hotels.com may occasionally send you direct mail about products and services that it feels may be of interest to you. Only eGlobe-hotels.com or agents working on behalf of eGlobe-hotels.com and under confidentiality agreements, will send you these direct mailings and only if you indicate that you do not object to these offers. If you do not want to receive such mailing, simply tell eGlobe-hotels.com when you give your personal information or, at any time you can easily edit your eGlobe-hotels.com Account information to no longer receive such offers and mailings.
+Security   
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. All personal information is transmitted via SSL security encryption. Our site has been authenticated by VeriSign, Inc. which provides our certification and encryption keys. 
 
-6\. **Updation of personal information**
+You are responsible for safeguarding your unique EGLOBE SOLUTIONS User ID and password to prevent unauthorized use of or access to the online reservation system. 
 
-You may edit your eGlobe-hotels.com Account Information and your eGlobe-hotels.com profile by sending a request to [admin@eglobe-hotels.com](mailto:admin@eglobe-hotels.com).
+E-mails to guests   
+EGLOBE SOLUTIONS autosends an e-mail to your guests upon their successful completion of the online reservation process. 
 
-Your eGlobe-hotels account can be deleted or deactivated, but doing so will result in not being able to access any members-only area of the eGlobe-hotels network, including your eGlobe-hotels Mail account (if you have one). Residual information will remain within our archive records.
+This e-mail contains a reservation reference number generated by EGLOBE SOLUTIONS and details of the reservation. It also may contain customized information from you. You are responsible for the contents of the customized portion of the automated e-mail to your guests. 
 
-7\. **Protection of information**
+If you subscribe to our automated Guest Welcome and Thank You E-mail Service, you are responsible for the content of those e-mails. 
 
-As with all information, eGlobe-hotels will never rent or sell your personal, financial or other information, including information kept in your eGlobe-hotels Portfolio. Any user statistics that we may provide to prospective advertisers or partners regarding financial, product or service usage on eGlobe-hotels are provided in the aggregate form only and does not include any personally identifiable information about any individual user.
+EGLOBE SOLUTIONS does not contact your guests via e-mail except in the instances stated above or if the guest contacts us for support. 
 
-Please remember to sign out of your eGlobe-hotels account and close your browser window when you have finished your work. This to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place. Whenever eGlobe-hotels handles personal information as described above regardless of where this occurs, eGlobe-hotels takes steps to ensure that your information is treated securely and in accordance with the relevant Terms of Services and this Privacy Policy.
+Contact   
+If you have any questions about this privacy statement, the practices of our site, or your dealings with our site, you can contact EGLOBE SOLUTIONS.   
 
-Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while eGlobe-hotels strives to protect your personal information, eGlobe-hotels cannot ensure or warrant the security of any information you transmit to eGlobe-hotels and you do so at your own risk. Once eGlobe-hotels receives your transmission, it makes best efforts to ensure its security on its systems. Please keep in mind that whenever you voluntarily disclose personal information online-for example on message boards or through email -that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return.
