@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the locusmag.com privacy policy that was archived on 2005-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051115031514id_/http%3A//locusmag.com/About/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the locusmag.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615110938id_/http%3A//locusmag.com/About/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Locus Online: Privacy Policy
 
