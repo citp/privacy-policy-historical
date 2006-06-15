@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeadvice.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231055242id_/http%3A//law.freeadvice.com/resources/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeadvice.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615200256id_/http%3A//law.freeadvice.com/resources/privacypolicy.htm) for the most accurate reproduction.*
 
 # FreeAdvice.com's Privacy Policy
 
@@ -42,11 +42,11 @@ Certain features of and portions on our site are also the result of special rela
 
 ### Advertising and Cookies
 
-FreeAdvice displays advertising on the Web site and we also work with several unaffiliated companies that serve ads when you visit portions of our website. Among the outside ad companies are Latitude 90, DoubleClick’s Sonar Network, and Engage Media’s Flycast to display ads on our site. These ads may contain cookies. Cookies received with such banner or other ads are collected by our advertisers and/or ad companies, and we do not have access to such information. These companies may use that information (not including your name, address, email address, telephone number, or credit card number) about your visits to this and other websites in order to provide advertisements on this site and about other sites and goods and services that they think may be of interest to you.
+FreeAdvice displays advertising on the Web site and we also work with several unaffiliated companies that serve ads when you visit portions of our website. Among the outside ad companies are Latitude 90, DoubleClick’s Sonar Network, and Engage Media’s Flycast to display ads on our site. These ads may contain cookies. Cookies received with such banner or other ads are collected by our advertisers and/or ad companies, and we do not have access to such information. These companies may use that information (not including your name, address, email address, telephone number, or credit card number) about your visits to this and other websites in order to provide advertisements on this site and about other sites and goods and services that they think may be of interest to you.
 
 To find out more about their practices, how these sites have told us they manage the privacy of information in conjunction with serving ads on our site, and to know your choices about not having this information used by such companies, please go to:
 
-[http://www.sonar.com/content/privacy.htm](http://freeadvice.com/site_frames/template_fa_frames.php?web=http://www.sonar.com/content/privacy.htm) and <http://www.flycast.com/about_us/about-privacy.html> and <http://www.l90.com/external_site/privacy_policy.html> 
+[http://www.sonar.com/content/privacy.htm](http://freeadvice.com/site_frames/template_fa_frames.php?web=http://www.sonar.com/content/privacy.htm) and <http://www.flycast.com/about_us/about-privacy.html> and <http://www.l90.com/external_site/privacy_policy.html>
 
 ### Public Forums
 
@@ -58,11 +58,11 @@ This site has numerous security measures in place to protect the loss, misuse an
 
 ### Children's Guidelines
 
-This Web site is directed at adults, not children, and we do not seek to collect from children online contact information, or distribute to third parties any personally identifiable information from children, or entice children by the prospect of a special game, prize or other activity, to divulge information to us. We won't knowingly allow anyone under 13 to register with any of our sites or to provide any other personally identifying information without written approval of a parent or guardian.
+This Web site is directed at adults, not children, and we do not seek to collect from children online contact information, or distribute to third parties any personally identifiable information from children, or entice children by the prospect of a special game, prize or other activity, to divulge information to us. We won't knowingly allow anyone under 13 to register with any of our sites or to provide any other personally identifying information without written approval of a parent or guardian.
 
 ### Choice/Opt-Out 
 
-Our site provides users the opportunity to opt-out of receiving communications from us and sites associated with us at the point where we request information about the visitor. This site gives users various options for removing postings and other information, and to discontinue receive future communications from us. For example, the Forums have provisions for visitors to edit or remove postings they have made, and our Newsletters have linkages or return addresses for recipients to direct that they unsubscribe. For specifics concerning a matter impacting you, you can send email to [admin@adviceco.com](mailto:admin@adviceco.com) or by mail to the following postal address: _PO Box 1739, Mill Valley, CA 94942-1739_
+Our site provides users the opportunity to opt-out of receiving communications from us and sites associated with us at the point where we request information about the visitor. This site gives users various options for removing postings and other information, and to discontinue receive future communications from us. For example, the Forums have provisions for visitors to edit or remove postings they have made, and our Newsletters have linkages or return addresses for recipients to direct that they unsubscribe. For specifics concerning a matter impacting you, you can send email to [admin@adviceco.com](mailto:admin@adviceco.com) or by mail to the following postal address: _PO Box 1739, Sausalito, CA 94965_
 
 ### Revisions / Corrections / Updates 
 
@@ -77,9 +77,3 @@ FreeAdvice.com / Advice Company
 PO Box 1739   
 Sausalito, CA 94966  
 [admin@adviceco.com ](mailto:admin@adviceco.com)_
-
-|  | 
-
-**Find Legal Forms for Your State**  
-  
----
