@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the franklintempleton.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218151020id_/http%3A//franklintempleton.com/retail/jsp_cm/access/st_agrmt/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the franklintempleton.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616002228id_/http%3A//franklintempleton.com/retail/jsp_cm/access/st_agrmt/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ Web-Related Privacy Issues
   
 How we use information provided on the Web   
   
-Your email address. We collect your email address when you register for account access. If we need to contact you about transactions or account activity on the site, your email address lets us do that quickly. If you sign up for electronic delivery of documents, we'll need your email address for that, too. Both of these services require that you maintain an updated email address with us.   
+Your email address. We collect your email address when you register for account access on our website. If we need to contact you about a website-related issue, your email address lets us do that quickly. If you sign up for electronic delivery of documents, we'll need your email address for that, too. Both of these services require that you maintain an updated email address with us.   
   
 Even if you're not registered for account access, we may need to ask for your email address. For instance, if you ask for a referral to a financial advisor or subscribe to our email newsletter, we'll need your email address to respond to your requests.   
   
