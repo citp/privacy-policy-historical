@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bookingbuddy.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210073321id_/http%3A//www.bookingbuddy.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookingbuddy.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615033802id_/http%3A//www.bookingbuddy.com/privacy.php) for the most accurate reproduction.*
 
 # Booking Buddy - Airfare, Hotel Rate, and Car Rental Rate Comparison Tool
 
-_This Privacy Policy was last changed October 7, 2005._
+_This Privacy Policy was last changed March 8, 2006._
 
 ## Overview 
 
@@ -12,7 +12,7 @@ _Booking Buddy is committed to safeguarding your privacy. We do not rent or sell
 
 If you have any questions or concerns over the Booking Buddy Privacy Policy, please feel free to contact [privacy@bookingbuddy.com](mailto:privacy@bookingbuddy.com).
 
-By accessing a Booking Buddy publication or by subscribing to a Booking Buddy newsletter, you agree to our current [Terms of Use](http://www.bookingbuddy.com/terms.php).
+By accessing a Booking Buddy publication or by subscribing to a Booking Buddy newsletter, you agree to our current [Terms of Use](https://web.archive.org/terms.php).
 
 ## Site Registration
 
@@ -22,7 +22,7 @@ In the future, in order to customize your experience with our email newsletters,
 
 If, in the future, you enter Booking Buddy via a reward or incentive program, Booking Buddy may share your email address with the program through which you entered Booking Buddy to ensure you are credited with your incentive. 
 
-You may, in the future, also register for Booking Buddy and/or specific Booking Buddy newsletters at web sites operated by third parties. These third parties may share contact, demographic or profile data that you voluntarily provide during the registration process with Booking Buddy. You also may provide personal information to third parties when you register at a third party web site and specifically request that your information be forwarded to us so that we can send you information about our product and service offerings. Booking Buddy does or may in the future use this information in the same manner as information collected directly by Booking Buddy. This Privacy Policy does not bind sites that collect information on behalf of Booking Buddy, and Booking Buddy is not responsible for the privacy practices or the content of such web sites. 
+You may also register for Booking Buddy and/or specific Booking Buddy newsletters at web sites operated by third parties. These third parties may share contact, demographic or profile data that you voluntarily provide during the registration process with Booking Buddy. You also may provide personal information to third parties when you register at a third party web site and specifically request that your information be forwarded to us so that we can send you information about our product and service offerings. Booking Buddy does or may in the future use this information in the same manner as information collected directly by Booking Buddy. This Privacy Policy does not bind sites that collect information on behalf of Booking Buddy, and Booking Buddy is not responsible for the privacy practices or the content of such web sites. 
 
 To better serve you, we may also store information you present to us via email or telephone communications with Booking Buddy's Customer Service Department. This information is or may be used in the same manner as information directly collected using Booking Buddy's registration form. We may also use information you provide us via email or telephone to pursue the matter for which you contacted us. Booking Buddy also may obtain information from you in our online forums. This information may not be disclosed except as consistent with Terms of Use. 
 
@@ -86,7 +86,7 @@ Booking Buddy does not ensure or warrant the security of any information transmi
 
 BookingBuddy.com subscribers may opt out of receiving future BookingBuddy.com communications or update their personal information using any of the following methods:
 
-  * Website: <http://www.bookingbuddy.com/sub/changesubscriptions.php>
+  * Website: [http://www.bookingbuddy.com/sub/changesubscriptions.php](https://web.archive.org/sub/changesubscriptions.php "unsubscribe")
   * Email: [help@bookingbuddy.com](mailto:help@bookingbuddy.com)
   * Mail: Smarter Living, Inc., Attn: Booking Buddy Customer Service, 465 Medford Street, Suite 400 Boston, MA 02129
 
