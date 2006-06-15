@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the aspfree.com privacy policy that was archived on 2004-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040617232751id_/http%3A//www.developershed.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aspfree.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615200853id_/http%3A//www.developershed.com/privacy.php) for the most accurate reproduction.*
 
-# Developer Shed, Inc. ::: privacy policy
+# Developer Shed - Privacy Policy
 
 **DEVELOPER SHED INC. PRIVACY STATEMENT**
 
-Developer Shed, Inc. ("DEVELOPER SHED, INC."), comprised of the Internet sites Developer Shed, Inc., devshed.com, aspfree.com, devarticles.com, devhardware.com, seochat.com, webhosters.com, itsallnet.com, and developershed.com (the "DEVELOPER SHED, INC. Sites"), is committed to protecting the privacy of users of the DEVELOPER SHED, INC. Sites. At DEVELOPER SHED, INC., we do our best to provide as much security as possible concerning personal information and registration data. As part of the normal operation of the DEVELOPER SHED, INC. Sites, we collect information from you. This Privacy Statement describes the information we collect and how that information may be used. 
+Developer Shed, Inc. ("DEVELOPER SHED, INC."), comprised of the Internet sites Developer Shed, Inc., developershed.com, devshed.com, aspfree.com, devarticles.com, scripts.com, devhardware.com, devarchives.com, seochat.com, devmechanic.com, and webhosters.com (the "DEVELOPER SHED, INC. Sites"), is committed to protecting the privacy of users of the DEVELOPER SHED, INC. Sites. At DEVELOPER SHED, INC., we do our best to provide as much security as possible concerning personal information and registration data. As part of the normal operation of the DEVELOPER SHED, INC. Sites, we collect information from you. This Privacy Statement describes the information we collect and how that information may be used. 
 
 **INFORMATION GATHERED THROUGH THE DEVELOPER SHED, INC. SITES:**
 
@@ -24,7 +24,7 @@ The DEVELOPER SHED, INC. Sites contain links to other websites, whether owned or
 
 **CHOICE**
 
-"Opt-in" Emails: Users may "opt-in" to receive site notifications, newsletters, or other information via email. Users may remove themselves from such services at their discretion. Any email sent to an "opt-in" list will include directions for how a user may remove himself or herself from the list, or a URL where the user may find such directions. 
+"Opt-in" Emails: Users may "opt-in" to receive site notifications, newsletters, or other information via email. Users may remove themselves from such services at their discretion. Any email sent to an "opt-in" list will include directions for how a user may remove himself or herself from the list, or the URL where the user may remove themselves is [ http://www.developershed.com/optout.php](http://www.developershed.com/optout.php). 
 
 Profile Display: In some cases, users' personal information may be publicly available through a user's profile display such as our forums. In such cases, users have the option to opt out of publicly displaying their personal information, including e-mail addresses. Users may also enlist this technique when posing comments on certain DEVELOPER SHED, INC. Sites. In cases where site profiles allow users to display optional information publicly, such entry and display is at the user's discretion and may be changed at any time by the user. 
 
@@ -42,16 +42,16 @@ If DEVELOPER SHED, INC. becomes aware that a user's personal information provide
 
 **THIRD PARTY ADVERTISING**
 
-We use several third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit [http://www.networkadvertising.org/optout_nonppii.asp. ](http://www.networkadvertising.org/optout_nonppii.asp.%20)
+We use several third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit [http://www.networkadvertising.org/optout_nonppii.asp. ](http://www.networkadvertising.org/optout_nonppii.asp)
 
 **UPDATES TO THE PRIVACY STATEMENT**
 
-To update the Privacy Statement, we will post both the changed version and its effective date at [http://www.DeveloperShed.com/privacy.php. ](http://www.developershed.com/privacy.php.%20)
+To update the Privacy Statement, we will post both the changed version and its effective date at [http://www.DeveloperShed.com/privacy.php. ](http://www.developershed.com/privacy.php)
 
 **NO GUARANTEES FOR FACTORS BEYOND DEVELOPER SHED, INC.'s CONTROL**
 
 While this Privacy Statement expresses DEVELOPER SHED, INC.'s standards for maintenance of private data, it is not in a position to guarantee that the standards will always be met. There may be factors beyond DEVELOPER SHED, INC.'s control that may result in disclosure of data. As a consequence, DEVELOPER SHED, INC. disclaims any warranties or representations relating to maintenance or nondisclosure of private information. 
 
-Last modified: 11/20/03
+Last modified: 12/14/04
 
 |  
