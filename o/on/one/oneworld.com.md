@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oneworld.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220062636id_/http%3A//www.oneworld.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneworld.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615222947id_/http%3A//www.oneworld.com/privacy.cfm) for the most accurate reproduction.*
 
 # oneworld alliance privacy policy
 
@@ -86,7 +86,7 @@ Privacy Officer
 Suite 980 The Marine Building 355 Burrard Street  
 Vancouver BC V6C 2G8 Canada 
 
-[privacyofficer@oneworldmgmt.com](mailto:privacyofficer@oneworldmgmt.com)
+[privacyofficer@oneworld.com](mailto:privacyofficer@oneworld.com)
 
 All inquiries or concerns relating to personal information will receive prompt attention and be acknowledged within five business days.
 
@@ -99,4 +99,4 @@ Privacy Officer
 Suite 980 The Marine Building 355 Burrard Street  
 Vancouver BC V6C 2G8 Canada 
 
-If you have questions about removing your name from any of our subscription lists, you may contact **one** world at [privacyofficer@oneworldmgmt.com](mailto:privacyofficer@oneworldmgmt.com). Please allow five business days for any changes to take effect.
+If you have questions about removing your name from any of our subscription lists, you may contact **one** world at [privacyofficer@oneworld.com](mailto:privacyofficer@oneworld.com). Please allow five business days for any changes to take effect.
