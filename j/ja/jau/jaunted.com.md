@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jaunted.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231171211id_/http%3A//www.jaunted.com/special/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaunted.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615142438id_/http%3A//www.jaunted.com/special/privacy) for the most accurate reproduction.*
 
 # Jaunted Privacy Policy || Jaunted
 
 At Jaunted, it is our goal to protect your privacy when you visit or personalize our site and to make your online experience safe and fun. Because we collect certain types of information about you when you visit our site, we have written this policy to share our practices and use of that information.
 
-If you have questions or concerns regarding this statement, please contact Jaunted Support at [help@jaunted.com](https://web.archive.org/web/20051231171211id_/http%3A//www.jaunted.com/special/help@jaunted.com)
+If you have questions or concerns regarding this statement, please contact Jaunted Support at [help@jaunted.com](https://web.archive.org/web/20060615142438id_/http%3A//www.jaunted.com/special/help@jaunted.com)
 
 **Types of Information We Collect:**
 
@@ -36,4 +36,4 @@ While we dont anticipate any changes in our privacy policy, there is always a po
 
 **Contacting Jaunted**
 
-If you have questions about Jaunteds Privacy Policy, please contact us by e-mail at [help@jaunted.com](https://web.archive.org/web/20051231171211id_/http%3A//www.jaunted.com/special/help@jaunted.com)
+If you have questions about Jaunteds Privacy Policy, please contact us by e-mail at [help@jaunted.com](https://web.archive.org/web/20060615142438id_/http%3A//www.jaunted.com/special/help@jaunted.com)
