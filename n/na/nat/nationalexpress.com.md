@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the nationalexpress.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218004010id_/http%3A//www.nationalexpress.com/utilities/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalexpress.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615053609id_/http%3A//www.nationalexpress.com/utilities/privacy.cfm) for the most accurate reproduction.*
 
 # National Express - National Express - Privacy
 
 #### Privacy
 
   
-This Privacy Policy indicates National Express' procedures regarding the collection and use of your personal information in relation to the website (www.nationalexpress.com), email marketing activities and sms marketing activities. If you have any requests or queries concerning your personal information, or would like to be removed from our mailing list then please [click here to contact us](https://web.archive.org/web/20051218004010id_/http%3A//www.nationalexpress.com/utilities/contact.cfm), or alternatively, write to: Data Protection Officer, 4 Vicarage Road, Edgbaston, Birmingham, B15 3ES.
+This Privacy Policy indicates National Express' procedures regarding the collection and use of your personal information in relation to the website (www.nationalexpress.com), email marketing activities and sms marketing activities. If you have any requests or queries concerning your personal information, or would like to be removed from our mailing list then please [click here to contact us](https://web.archive.org/web/20060615053609id_/http%3A//www.nationalexpress.com/utilities/contact.cfm), or alternatively, write to: Data Protection Officer, 4 Vicarage Road, Edgbaston, Birmingham, B15 3ES.
 
 This Privacy Policy will inform you in respect of the following:
 
