@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the we-energies.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213202626id_/http%3A//we-energies.com/home/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the we-energies.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615115501id_/http%3A//we-energies.com/home/privacy_policy.htm) for the most accurate reproduction.*
 
 # We Energies Business | Water Service
 
 |  | 
 
-  
   
 We Energies delivers excellent customer service every day, and information you provide to us or that we maintain for your account helps us meet that expectation. We realize that it is essential to keep your information protected.
 
