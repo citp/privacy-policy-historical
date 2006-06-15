@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imeem.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217111556id_/http%3A//www.imeem.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imeem.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615203945id_/http%3A//www.imeem.com/privacy.aspx) for the most accurate reproduction.*
 
 # imeem! - Privacy
 
@@ -28,7 +28,7 @@ Meems are topics that can be shared and discussed within the network. In many ca
 
 ## Instant messages
 
-When you communicate with a friend in an instant message we endeavor to authenticate both sides to make sure they are who they say they are. The system is designed to encrypt the messages as they traverse the Internet to your friend, without being cached in the peer network.
+When you communicate with a friend in an instant message we endeavor to authenticate both sides to make sure they are who they say they are. The system is designed to encrypt the messages as they traverse the Internet to your friend, without being cached in the peer network. imeem enables chat participants to store copies of chat transcripts.
 
 ## Search
 
@@ -38,7 +38,7 @@ All search results in imeem are personally generated for you based not only on w
 
 If you invite another person to join imeem, we will ask for that person's name and online contact information. We use this information to contact and inform that person that he or she has been invited to download our software. We will send reminders only with your express consent.
 
-Invitations and notes do not go though our encrypted network, as they are sent via email. These may be monitored for abuse.
+Invitations and notes are sent via email on your behalf by imeem. Emails can not benefit from the encrypted imeem network. Use of email in violation of the user agreement will result in account suspension.
 
 ## imeem's use of information
 
@@ -46,7 +46,7 @@ The information we collect about you in the course of our relationship is used t
 
 We may share personally identifiable information about our users with third parties, including: (1) with your consent or as otherwise stated in this Privacy Policy; (2) when we have a good faith belief it is necessary pursuant to a subpoena or other judicial or administrative order; (3) where required by law; or (4) at our sole discretion, where we deem necessary to respond to claims, to protect the safety of any individual or the public, or to protect the rights or property of imeem or any third party.
 
-In the event of a change of ownership or a direct merger with or acquisition by another entity, your information may be transferred to the acquiring entity. You have the option to request the removal of your account specific information at any time.
+In the event of a change of ownership or a direct merger with or acquisition by another entity, your information may be transferred to the acquiring entity. You have the ability and control to remove or alter your account specific information at any time.
 
 ## Third parties
 
@@ -54,7 +54,7 @@ imeem may provide links to third party websites or allow other companies, called
 
 ## Updating or removing user information
 
-You may choose to correct or update the information you have submitted to us by editing your profile or account information. If you request to have your information removed, imeem will remove it from its active database, though it may continue to persist on back-up media.
+You may choose to correct or update the information you have submitted to us by editing your profile or account information. If you remove your information, it will no longer remain in imeem's active database, though it may continue to persist on back-up media.
 
 ## Use by children prohibited
 
@@ -62,13 +62,13 @@ imeem complies with the Children's Online Privacy Protection Act and will not kn
 
 ## Changes to our policies
 
-imeem's Privacy Policy may change from time to time. If we make any substantive changes to our policies, we will notify registered users by posting bulletins on the imeem service, by email at the address provided by you, or by posting notice of changes at [http://www.imeem.com/privacy.aspx](https://web.archive.org/web/20051217111556id_/http%3A//www.imeem.com/privacy.aspx). Your use of the website or the imeem Software after the changes constitutes your agreement with regard to information collected from you in the past and in the future.
+imeem's Privacy Policy may change from time to time. If we make any substantive changes to our policies, we will notify registered users by posting bulletins on the imeem service, by email at the address provided by you, or by posting notice of changes at [http://www.imeem.com/privacy.aspx](https://web.archive.org/web/20060615203945id_/http%3A//www.imeem.com/privacy.aspx). Your use of the website or the imeem Software after the changes constitutes your agreement with regard to information collected from you in the past and in the future.
 
 ## Information storage and security
 
 imeem's computers store user account information, and may cache user profile information for backup and synchronization purposes. imeem also maintains peer servers that can provide access to cached information when peers that would otherwise provide it are logged off of the network. imeem employs industry standard security measures in place to protect the loss, misuse and alteration of the information under our control.
 
-imeem allows folders to be shared privately with members of the imeem network. Only friends who have been authorized to share a particular folder can see that the folder exists at all, see what objects are inside or access those objects. The objects in the folder remain on your system and are not cached or indexed in any way by the network. The contents of a meem are cached within the network. When photos are shared with friends, they are uploaded to the imeem server, and friends may be able to cache them. 
+imeem allows folders to be shared privately with members of the imeem network. Only friends who have been authorized to share a particular folder can see that the folder exists at all, see what objects are inside or access those objects. The objects in the folder remain on your system and are not cached or indexed in any way by the network. The contents of a meem are cached within the network. When photos are shared with friends, they are not uploaded to imeem servers, unless the sharer grants explicit permission to do so. However, friends will be able to cache them. 
 
 The imeem software is designed so that the content you generate within the network (meems, blogs, forums, photo albums, etc.) will each have an associated privacy setting. If the information being created has its own privacy control (i.e. when creating a blog), it is the users responsibility to select the desired privacy setting upon creation. Other items may inherit an existing privacy setting. In this case, it is the user's responsibility to understand the associated privacy setting before creating content to ensure the handling of their information meets their expectations.
 
@@ -84,4 +84,4 @@ If you have any questions about this Privacy Policy, the practices of imeem, or 
 >  Palo Alto, CA 94302-1275  
 >  [privacy@imeem.com](mailto:privacy@imeem.com)
 
-Revised on December 8th, 2005
+Revised on February 17th, 2006
