@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iia.ie privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230132235id_/http%3A//www.iia.ie/content.asp%3Fid%3D60) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iia.ie privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615161146id_/http%3A//www.iia.ie/content.asp%3Fid%3D60) for the most accurate reproduction.*
 
 # Irish Internet Association -- For the Internet business community in Ireland
 
