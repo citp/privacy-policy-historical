@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the metacafe.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221035813id_/http%3A//www.metacafe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metacafe.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616015220id_/http%3A//www.metacafe.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Metacafe
+# Privacy Policy
 
 The use of this version of the MetaCafe website(s) and/or MetaCafe software and any other related software, upgrades or updates and all related services and special offers (the "Product") provided by MetaCafe inc. ("MetaCafe") are subject to the hereunder provisions of this Privacy Policy. 
 
@@ -55,5 +55,3 @@ Please note that deletion of your personally identifiable information from MetaC
 _Third Parties' Practices._
 
 This Privacy Policy does not cover the information practices exercised by other provides of products or services, advertisers or other web sites, or companies/people that MetaCafe does not own or control, or does not employ or manage. 
-
-Please note: we do NOT do pop-ups, pop unders or any kind of bundling with our application.
