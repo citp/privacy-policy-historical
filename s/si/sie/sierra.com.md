@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sierra.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218092703id_/http%3A//www.sierra.com/corporate_policy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sierra.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615214428id_/http%3A//www.sierra.com/corporate_policy.do) for the most accurate reproduction.*
 
 # Sierra Entertainment - Policy Statements
 
@@ -89,11 +89,18 @@ VUG has taken steps to assure that all information collected will remain secure 
 **What if I have a question or complaint?**  
 If you have any questions or wish to file a complaint, please feel free to e-mail us at [privacy@vuinteractive.com](mailto:privacy@vuiteractive.com) or send a letter addressed to Vivendi Universal Games Privacy Policy, Attention: Privacy Policy Administrator, at 6060 Center Drive, 5th Floor, Los Angeles, California 90045. 
 
-For complaints, you may also contact ESRB Privacy Online directly at [www.esrb.org](http://www.esrb.org/) or by regular mail at 317 Madison Avenue, 22nd Floor, New York, NY 10017. 
+VUG is a licensee of the ESRB's Privacy Online Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB at <http://www.esrb.org/privacy_wc_hotline.asp>
+
+ESRB  
+Attn.: Director, Privacy Online  
+317 Madison Avenue, 22nd Floor  
+New York, NY 10017  
+212-759-0700  
+[privacyinfo@esrb.org](mailto:privacyinfo@esrb.org)
 
 By using this Website, you signify your assent to this Privacy Policy. If you do not agree to this Privacy Policy, please do not use this site. This Privacy Policy may change from time to time, so please check back periodically to ensure that you are aware of any changes. If we make a material change to this Privacy Policy, we will notify you by posting the change on this website or in this Privacy Policy and, if necessary, give you additional choices regarding such change. Your continued use of the Vivendi Universal Games website will signify your acceptance of these changes. 
 
-This Privacy Policy was last updated on July 27, 2005. 
+This Privacy Policy was last updated on March 22, 2006. 
 
 © 2005 Vivendi Universal Games, Inc. 
 
