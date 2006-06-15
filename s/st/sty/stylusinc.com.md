@@ -1,13 +1,10 @@
-> *The following text is extracted and transformed from the stylusinc.com privacy policy that was archived on 2005-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050827205235id_/http%3A//www.stylusinc.com/Common/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylusinc.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615051906id_/http%3A//stylusinc.com/Common/PrivacyPolicy.php) for the most accurate reproduction.*
 
-# Stylusinc.com - Privacy Policy
+# Privacy Policy - Stylus Inc
 
-[](https://web.archive.org/WebEnable/index.php)  
-[](https://web.archive.org/VirtualBusiness/index.php)  
-[](https://web.archive.org/enhance/index.php)   
-|  | 
+Privacy Policy
 
-## Our commitment to privacy
+Our commitment to privacy
 
 To better protect your privacy we would like to explain our online information practices here. We have explained the choices that you can make about how we use the information you give us.
 
@@ -15,18 +12,7 @@ On some of our pages we collect personal information like Name, Address, Email i
 
 Should you have any concerns regarding our privacy policy, please call us at 9180 - 5455070 or send us an email at [marketing@stylusinc.com](mailto:marketing@stylusinc.com)
 
-_**If you are interested in learning more about our services and what we do, please check out the [Services](https://web.archive.org/Common/AboutUs/Services.php) and [Portfolio](https://web.archive.org/Common/AboutUs/Portfolio.php) sections. Would you like to see if we identify your needs well? [Click here to find out more.](https://web.archive.org/index.php)**_
+If you are interested in learning more about our services and what we do, please check out the Services and Portfolio sections. Would you like to see if we identify your needs well? Click here to find out more.
 
-| 
-
-##### **Outsource your Software and Web Development Projects to Stylus**  
-  
----  
-  
-We've been in the business of Internet applications for the past four years and our [services](https://web.archive.org/Common/AboutUs/Services.php) include Internet solutions, custom software development, web design and web application development, web enabling legacy systems, technical support and maintenance of web applications. 
-
-Our Value Proposition - our development methodology, our project management skills and adherence to high- quality and low risk solutions. [Contact us here](https://web.archive.org/Common/ContactUs.php) if you are interested in outsourcing projects to Stylus.  
-  
-  |    
   
 
