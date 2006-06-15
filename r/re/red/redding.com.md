@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redding.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230212703id_/http%3A//redding.com/redd/home/article/0%2C2232%2CREDD_17515_2831805%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redding.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615212057id_/http%3A//redding.com/redd/home/article/0%2C2232%2CREDD_17515_2831805%2C00.html) for the most accurate reproduction.*
 
 # Redding
 
