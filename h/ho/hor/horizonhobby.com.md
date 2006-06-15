@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the horizonhobby.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222200822id_/http%3A//www.horizonhobby.com/Support/Website/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horizonhobby.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615233111id_/http%3A//www.horizonhobby.com/Support/Website/Privacy.aspx) for the most accurate reproduction.*
 
-# Horizon Hobby - Privacy
+# Horizon Hobby
 
 |  |  |   
 ---  
@@ -127,5 +127,8 @@ This Privacy Policy was last changed on June 1, 2002. If HORIZON HOBBY, INC.'s O
    
    
   
-|  |  |   
----|---|---
+|  |   
+---|---|---  
+  
+  
+
