@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audubon.org privacy policy that was archived on 2005-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050527031909id_/http%3A//www.audubon.org/forms/updated/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audubon.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615055828id_/http%3A//www.audubon.org/forms/updated/privacypolicy.html) for the most accurate reproduction.*
 
 # Audubon
 
