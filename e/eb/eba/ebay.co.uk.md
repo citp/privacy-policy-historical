@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebay.co.uk privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214165747id_/http%3A//pages.ebay.co.uk/help/community/png-priv.html%3FssPageName%3Df%3Af%3AUK) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebay.co.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210016id_/http%3A//pages.ebay.co.uk/help/community/png-priv.html%3FssPageName%3Df%3Af%3AUK) for the most accurate reproduction.*
 
 # eBay UK: Help : Topics : Policies and Guidelines : Privacy Policies
 
@@ -125,7 +125,7 @@ You are responsible for all actions taken with your User ID and password, includ
 **6.  ** |  **Accessing, Reviewing and Changing Your Personally Identifiable Information.**  
   | 
 
-We offer you the ability to automatically review and change the information you submit to us by logging into the Site and entering in the new information yourself. Generally, we will not modify your personal information based on your request because it is very difficult to authenticate your account manually. You can change your User ID, password, contact information, financial information, postal address and user preferences by going the "preferences" section in [My eBay](http://my.ebay.co.uk/ws/eBayISAPI.dll?MyeBay). You must promptly update your personal information if it changes or is inaccurate. Once posted, you may not be able to change or remove any public postings made on the Site including our chat rooms or other message areas or the feedback area. 
+We offer you the ability to automatically review and change the information you submit to us by logging into the Site and entering in the new information yourself. Generally, we will not modify your personal information based on your request because it is very difficult to authenticate your account manually. You can change your User ID, password, contact information, financial information, postal address and user preferences by going the "preferences" section in [My eBay](http://cgi1.ebay.co.uk/aw-cgi/eBayISAPI.dll?MyEbayLogin). You must promptly update your personal information if it changes or is inaccurate. Once posted, you may not be able to change or remove any public postings made on the Site including our chat rooms or other message areas or the feedback area. 
 
 Upon your written request, we will deactivate your account, contact information, and financial information from our active databases. To make this request, please contact [Customer Support](http://pages.ebay.co.uk/help/contact_inline/index.html). Such information will be deactivated as soon as reasonably possible in accordance with our deactivation policy and applicable law. 
 
