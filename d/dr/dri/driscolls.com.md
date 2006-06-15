@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driscolls.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214161601id_/http%3A//driscolls.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driscolls.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615093255id_/http%3A//driscolls.com/privacy.html) for the most accurate reproduction.*
 
 # Driscoll's Berries
 
@@ -18,7 +18,7 @@ Driscoll's periodically pushes out information relevant to berry lovers. To rece
 
 #### Sharing Your Information
 
-Driscoll Strawberry Associates will never share your personal information to any third-party, unless compelled to do so by legal order. 
+Driscoll Strawberry Associates will never share your personal information with any third party, unless compelled to do so by legal order. 
 
 #### Children's Privacy
 
@@ -26,7 +26,7 @@ This site is not intended for use by anyone under the age of 13. We operate our 
 
 #### Enforcement of Policies
 
-If you believe Driscoll Strawberry Associates has not adhered to these practices or have any concerns related to the privacy of your personal information, please notify us by email at webmaster@driscolls.com or write us at: 
+If you believe Driscoll Strawberry Associates has not adhered to these practices or have any concerns related to the privacy of your personal information, please notify us by e-mail at webmaster@driscolls.com or write us at: 
 
 Corporate Privacy & Security   
 Driscoll Strawberry Associates   
