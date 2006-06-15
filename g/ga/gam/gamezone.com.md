@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamezone.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217155851id_/http%3A//www.gamezone.com/privacy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamezone.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615203232id_/http%3A//www.gamezone.com/privacy/privacy.htm) for the most accurate reproduction.*
 
 # GameZone.com - Your PC and Video Game Connection!
 
