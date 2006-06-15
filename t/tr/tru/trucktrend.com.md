@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trucktrend.com privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227022650id_/http%3A//www.trucktrend.com/corporate/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trucktrend.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615204237id_/http%3A//trucktrend.com/corporate/privacy/index.html) for the most accurate reproduction.*
 
-# Privacy Policy - Truck
+# 
 
 Primedia Consumer Privacy Policy
 
