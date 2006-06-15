@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optionetics.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231074515id_/http%3A//optionetics.com/legal.asp%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optionetics.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615203907id_/http%3A//www.optionetics.com/legal.asp%23privacy) for the most accurate reproduction.*
 
 # Optionetics
 
@@ -10,13 +10,13 @@ This Web Site is not designed or intended for Hong Kong, United Kingdom, Austral
 
 The information and data contained in this website (Optionetics.com) was obtained from sources believed to be reliable, but accuracy is not guaranteed. Neither the information, nor any opinion expressed, constitutes a recommendation to purchase or sell a security, or to provide investment advice.
 
-The information contained on this site is provided for general informational purposes, as a convenience to the customers of Optionetics. The materials are not a substitute for obtaining professional advice from a qualified person, firm or corporation. Consult the appropriate professional advisor for more complete and current information. Optionetics and Global Investment Research Corp. ("Global") are not engaged in rendering any legal or professional services by placing these general informational materials on this website.
+The information contained on this site is provided for general informational purposes, as a convenience to the customers of Optionetics. The materials are not a substitute for obtaining professional advice from a qualified person, firm or corporation. Consult the appropriate professional advisor for more complete and current information. Optionetics, Inc. ("Optionetics") is not engaged in rendering any legal or professional services by placing these general informational materials on this website.
 
-Global specifically disclaims any liability, whether based in contract, tort, strict liability or otherwise, for any direct, indirect, incidental, consequential, or special damages arising out of or in any way connected with access to or use of the site, even if Global has been advised of the possibility of such damages, including liability in connection with mistakes or omissions in, or delays in transmission of, information to or from the user, interruptions in telecommunications connections to the site or viruses.
+Optionetics specifically disclaims any liability, whether based in contract, tort, strict liability or otherwise, for any direct, indirect, incidental, consequential, or special damages arising out of or in any way connected with access to or use of the site, even if Optionetics has been advised of the possibility of such damages, including liability in connection with mistakes or omissions in, or delays in transmission of, information to or from the user, interruptions in telecommunications connections to the site or viruses.
 
-Global makes no representations or warranties about the accuracy or completeness of the information contained on this website. Any links provided to other server sites are offered as a matter of convenience and in no way are meant to imply that Global endorses, sponsors, promotes or is affiliated with the owners of or participants in those sites, or endorses any information contained on those sites, unless expressly stated.
+Optionetics makes no representations or warranties about the accuracy or completeness of the information contained on this website. Any links provided to other server sites are offered as a matter of convenience and in no way are meant to imply that Optionetics endorses, sponsors, promotes or is affiliated with the owners of or participants in those sites, or endorses any information contained on those sites, unless expressly stated.
 
-Global is the copyright owner of all text and graphics contained on this website, except as otherwise indicated. Other parties' trademarks and service marks that may be referred to herein are the property of their respective owners. You may print a copy of the information contained herein for your personal use only, but you may not reproduce or distribute the text or graphics to others or substantially copy the information on your own server, or link to this website, without prior written permission of Global. Permission to use and reproduce documents and related graphics available from this website is granted, provided that: 1. the below copyright notice appears in all copies and that both the copyright and this permission notice appear; 2. use and reproduction of documents and related graphics available from this website is limited to personal, non-commercial use; 3. no documents or related graphics, including logos, available from this website are modified in any way; and 4. no graphics, including logos, available from this website are used separate from accompanying text. Use or reproduction for any other purpose is expressly prohibited by law, and may result in civil and criminal penalties.
+Optionetics is the copyright owner of all text and graphics contained on this website, except as otherwise indicated. Other parties' trademarks and service marks that may be referred to herein are the property of their respective owners. You may print a copy of the information contained herein for your personal use only, but you may not reproduce or distribute the text or graphics to others or substantially copy the information on your own server, or link to this website, without prior written permission of Optionetics. Permission to use and reproduce documents and related graphics available from this website is granted, provided that: 1. the below copyright notice appears in all copies and that both the copyright and this permission notice appear; 2. use and reproduction of documents and related graphics available from this website is limited to personal, non-commercial use; 3. no documents or related graphics, including logos, available from this website are modified in any way; and 4. no graphics, including logos, available from this website are used separate from accompanying text. Use or reproduction for any other purpose is expressly prohibited by law, and may result in civil and criminal penalties.
 
 Violators will be prosecuted to the maximum extent possible.
 
@@ -28,11 +28,11 @@ If an error is made and a product is listed at an incorrect price, Optionetics s
 
 **PRIVACY POLICY**
 
-Revised and posted as of: October 23, 2000 
+Revised and posted as of: May 11, 2006
 
-Optionetics.com is committed to safeguarding your privacy online. Please read the following statement to understand how your personal information will be treated as you make full use of the Optionetics.com Web site. The Optionetics.com Web site is owned and operated by Global Investment Research Corp. 
+Optionetics.com is committed to safeguarding your privacy online. Please read the following statement to understand how your personal information will be treated as you make full use of the Optionetics.com Web site. The Optionetics.com Web site is owned and operated by Optionetics, Inc. 
 
-If you have any questions regarding our privacy statement, please feel free to contact us by e-mail at privacy@optionetics.com.
+Your privacy is important to us. We do not share your information with non-affiliated companies. If you have any questions regarding our privacy statement, please feel free to contact us by e-mail at privacy@optionetics.com.
 
 **Gathering of Information**
 
@@ -84,4 +84,4 @@ This statement may change from time to time, so please check back periodically.
 
 For more information on general rules concerning the use of customer data, go to [www.networkadvertising.org](http://www.networkadvertising.org/).
 
-_Optionetics is a trade mark (TM) of Global Investment Research Corp. All rights reserved._
+_Optionetics is a trade mark (TM) of Optionetics, Inc. All rights reserved._
