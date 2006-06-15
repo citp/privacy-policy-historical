@@ -1,15 +1,495 @@
-<!--The following is the downloaded HTML source of the christianchildrensfund.org privacy policy that was archived on 2005-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051231094222id_/http%3A//www.christianchildrensfund.org/content.aspx%3Fid%3D741) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the christianchildrensfund.org privacy policy that was archived on 2006-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615052849id_/http%3A//www.christianchildrensfund.org/content.aspx%3Fid%3D741) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 	<link href="/uploadedfiles/public_site/stylesheets/ccf_public_style.css" rel="stylesheet" type="text/css">
+	
+<script language="JavaScript" type="text/javascript">
+<!--
+function CancelWindow() {
+	self.close();
+}
+
+function PopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize) {
+	var cToolBar = 'toolbar=0,location=0,directories=0,status=' + nResize + ',menubar=0,scrollbars=' + nScroll + ',resizable=' + nResize + ',width=' + nWidth + ',height=' + nHeight;
+	var popupwin = window.open(url, hWind, cToolBar);
+	return popupwin;
+}
+
+function openWindow(url){
+	newWindow=window.open(url,'newWin','tollbar=yes,location=yes,scrollbars=yes,width=300,hight=200')
+}
+
+function openWindow2(url){
+	newWindow=window.open(url,'newWin','tollbar=yes,menubar=yes,location=yes,scrollbars=yes,directories=yes')
+}
+
+function closeWindow()
+	{
+	if(newWindow && !newWindow.closed)
+		{
+			newWindow.close()
+		}	
+	}
+	
+function PopUpWindowFull (url, hWind, nWidth, nHeight, nResize)
+	{
+	var cToolBar = "toolbar=yes,location=yes,directories=yes,resizable=1,status=" + nResize + ",menubar=yes,scrollbars=yes,width=" + nWidth + ",height=" + nHeight
+	var popupwin = window.open(url, hWind, cToolBar);
+	return popupwin;
+	}
+
+function QuickLinkSelect(baseFolderID, formName,  titleFormElem, useQLinkCheck, SetBrowserState) {
+	// There are specific requirements for this function. See "QuickLinkSelect.asp" for those.
+	//
+	var sendQString = '?folderid=' + baseFolderID + '&formName=' + formName + '&titleFormElem=' + 
+				titleFormElem + '&useQLinkCheck=' +  useQLinkCheck + '&SetBrowserState=' + SetBrowserState;
+	var cToolBar = 'toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=1,resizable=1,width=450,height=300';
+				
+	window.open('QuickLinkSelect.asp' + sendQString, 'QlinkSelectWin', cToolBar) ;
+	
+	return true ;
+}
+
+function Trim (string) {
+	if (string.length > 0) {
+		string = RemoveLeadingSpaces (string);
+	}
+	if (string.length > 0) {
+		string = RemoveTrailingSpaces(string);
+	}
+	return string;
+}
+	
+function RemoveLeadingSpaces(string) {
+	while(string.substring(0, 1) == " ") {
+		string = string.substring(1, string.length);
+	}
+	return string;
+}
+
+function RemoveTrailingSpaces(string) {
+	while(string.substring((string.length - 1), string.length) == " ") {
+		string = string.substring(0, (string.length - 1));
+	}
+	return string;
+}
+	
+function EnableElement(id, bEnable)
+{
+	var objElem = document.getElementById(id);
+	if (objElem)
+	{
+		// Mozilla FireFox 1.0 does not support .disabled for <label>
+		if (typeof objElem.disabled != "undefined")
+		{
+			objElem.disabled = !bEnable;
+		}
+		// if a label, follow the 'for' attribute as well
+		if (typeof objElem.htmlFor != "undefined")
+		{
+			// don't use recursion to avoid possibility of infinite recursion
+			objElem = document.getElementById(objElem.htmlFor);
+			if (objElem && typeof objElem.disabled != "undefined")
+			{
+				objElem.disabled = !bEnable;
+			}
+		}
+	}
+}
+	
+function ShowElement(id, bShow)
+{
+	var objElem = document.getElementById(id);
+	if (objElem)
+	{
+		objElem.style.display = (bShow ? "" : "none");
+		ShowSelectElements(objElem, bShow);	
+	}
+}
+
+function ShowSelectElements(objElem, bShow)
+// due to a bug in IE, descendent select lists may still be displayed
+// so target each individually
+{
+	if (!objElem) return;
+	if ("undefined" == typeof objElem.children) return;
+	if ("SELECT" == objElem.tagName)
+	{
+		objElem.style.display = (bShow ? "" : "none");
+	}
+	else
+	{
+		for (var i = 0; i < objElem.children.length; i++)
+		{
+			ShowSelectElements(objElem.children[i], bShow);
+		}
+	}
+}
+
+function GetElementValue(oElem)
+{
+	if (!oElem) return;
+	if (typeof oElem.value != "undefined")
+	{
+		if ("INPUT" == oElem.tagName && ("checkbox" == oElem.type || "radio" == oElem.type))
+		{
+			var strValue = oElem.value + "";
+			if (strValue.length > 0 && strValue != "true")
+			{
+				if (oElem.checked)
+				{
+					return strValue;
+				}
+				else
+				{
+					return "";
+				}
+			}
+			else // boolean
+			{
+				if (oElem.checked)
+				{
+					return true;
+				}
+				else
+				{
+					return false;
+				}
+			}
+		}
+		else
+		{
+			return oElem.value;
+		}
+	}
+	else if (typeof oElem.innerHTML != "undefined")
+	{
+		return oElem.innerHTML;
+	}
+	else if (typeof oElem.innerText != "undefined")
+	{
+		return oElem.innerText;
+	}
+	else
+	{
+		return; // no value
+	}
+}
+
+function SetElementValue(oElem, value)
+{
+	if (!oElem) return;
+	if (typeof oElem.value != "undefined")
+	{
+		if ("INPUT" == oElem.tagName && ("checkbox" == oElem.type))
+		{
+			// boolean
+			if ("true" == value || true == value)
+			{
+				oElem.checked = true;
+			}
+			else if ("false" == value || false == value)
+			{
+				oElem.checked = false;
+			}
+			else
+			{
+				oElem.value = value;
+			}
+		}
+		else
+		{
+			oElem.value = value;
+		}
+	}
+	else if (typeof oElem.innerHTML != "undefined")
+	{
+		oElem.innerHTML = value;
+	}
+	else if (typeof oElem.innerText != "undefined")
+	{
+		oElem.innerText = value;
+	}
+}
+
+function numberValidate(field)
+{
+	if (field.value == "")
+	{
+		return true;
+	}
+	if ((! /^\d+$/.test(field.value)) && field.value != "") 
+	{  
+		alert("You must use only numeric characters");
+		field.value = "";
+		field.focus();
+		return false;		
+	} 
+	return true;
+}
+	
+function textareaValidate(field)
+{
+	var strText = GetElementValue(field) + "";
+	var len = strText.length;
+	if(len > 500)
+	{
+		alert("Over limit of characters in text box.");
+		field.focus();
+		return false;	
+	}
+	return true;
+}
+
+function ValidateMeta(formName)
+// CAUTION: do not name this function 'V a l i d a t e M e t a d a t a', 
+// suspect the word 'M e t a d a t a' causes ASP to omit the JavaScript
+{
+
+	var reqfields;
+	var validationfields;
+	var validpair;
+	var objform = document.forms[formName];
+	if(objform.req_fields)
+	{
+		reqfields = objform.req_fields.value.split(",");
+		for(var i = 0; i < reqfields.length; i++)
+		{
+			if(objform.elements[reqfields[i]])
+			{
+				if(objform.elements[reqfields[i]].value == "")
+				{
+					alert('js: alert cannot submit meta incomplete');
+					//objform.elements[reqfields[i]].focus();
+					return false;
+				}
+			}
+		}
+	}
+	if(objform.needed_validation)
+	{
+		validationfields = objform.needed_validation.value.split(":");
+		for(var j = 0; j < validationfields.length; j++)
+		{
+			validpair = validationfields[j].split(",");
+			if(objform.elements[validpair[0]])
+			{
+				if(validpair[1] == "number")
+				{
+					if(!numberValidate(objform.elements[validpair[0]]))
+					{
+						return false;
+					}
+				}
+				else if(validpair[1] == "text")
+				{
+					if(!textareaValidate(objform.elements[validpair[0]]))
+					{
+						return false;
+					}
+				}
+				else if(validpair[1] == "date")
+				{
+					var originalDate;
+					var arrayForNumber = validpair[0].split("_");
+					if(arrayForNumber.length > 0)
+					{
+						if(arrayForNumber[0] = "frm_text")
+						{
+							originalDate = "frm_text_sel" + arrayForNumber[arrayForNumber.length-1];
+							objform.elements[originalDate].value = Trim(objform.elements[originalDate].value);
+						}
+					}
+					else
+					{
+						originalDate = validpair[0];
+					}
+					if(!CheckDate(objform.elements[originalDate].value))
+					{
+						return false;
+					}
+				}
+			}	
+		}
+	}
+	return true;
+}
+
+// -->
+</script>
+<script language="JavaScript" src="java/datejsfunc.js"></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+function OpenCalendarForElement(id, id_data) {
+	var ctrlObj;
+	ctrlObj=document.getElementById(id);
+	if ((null != ctrlObj) && ('object' == (typeof(ctrlObj)).toLowerCase())) {
+		ctrlObj.value = Trim(ctrlObj.value);
+		CallCalendarForElement(ctrlObj.value, '/cms300scripts/calendar.asp', id, id_data, ctrlObj.form.name);
+	}
+}
+function CallCalendarForElement(date, pagename, ctrl, hctrl, formname){	
+	var regexp1 = / /gi;
+	var template;
+	var paremeter;
+	var Url;
+	var items = pagename.split('?');
+	if (items.length == 2 ) {
+		template = items[0].toLowerCase();
+		paremeter = items[1].toLowerCase();
+	}
+	else{
+		template = pagename.toLowerCase();
+		paremeter= '';
+	}
+	if (date.replace(regexp1, '') == '')
+	{
+		Url = template + '?form=' + formname + '&ctrl=' + ctrl + '&hctrl=' + hctrl;
+		if (paremeter.length){
+			Url = Url + '&' + paremeter;
+		} 
+		PopUpWindow (Url, 'Calendar', 325, 280, 0, 1);
+	}
+	else {
+		//if (CheckDate(date)) {
+			date = RemoveLeadingSpaces(date);
+			var date_times = date.split(' ');
+			if (date_times.length < 2) {
+				var times = '';
+				var hours = '';
+			}
+			else {
+				var times = date_times[1].split(':');
+				var hours = times[0].replace(regexp1, '');
+			}
+			if (times.length < 2) {
+				var minutes = '';
+			}
+			else {
+				var minutes = times[1].replace(regexp1, '');
+			}
+			if (times.length < 3) {
+				var seconds = '';
+			}
+			else {
+				var seconds = times[2].replace(regexp1, '');
+			}
+			if (date_times.length < 2) {
+				var ampm = '';
+			}
+			else {
+				var ampm = date_times[2].replace(regexp1, '');
+			}
+			Url = template + '?form=' + formname + '&ctrl=' + ctrl + '&hctrl=' + hctrl + '&startdate=' + date_times[0] + '&showdate=1';
+										+ '&hours=' + hours + '&minutes=' + minutes + '&seconds=' + seconds + '&tt=' + ampm;
+			if (paremeter.length){
+				Url = Url + '&' + paremeter;
+			}
+											
+			PopUpWindow (Url,'Calendar', 325, 280, 0, 1);
+		//}
+	}
+}	
+function UpdateTextCounter(id, maxlimit) {
+	var objText = document.getElementById(id);
+	var objCount = document.getElementById(id + "_len");
+	if (objText && objCount)
+	{
+		var strText = GetElementValue(objText) + "";
+		var len = strText.length;
+		if (len > maxlimit) {
+			objCount.style.color = "red";
+			objCount.style.fontWeight = "bold";
+		}
+		else
+		{
+			objCount.style.color = "";
+			objCount.style.fontWeight = "";
+		}
+		SetElementValue(objCount, len);
+	}
+}
+function SetDefault(id) {
+	var objElem = document.getElementById(id);
+	if (!objElem) return;
+	var objDefault = document.getElementById(id + "default");
+	if (!objDefault) return;
+	if (confirm("js: confirm restore default text"))
+	{
+		objElem.value = objDefault.value;
+		if ("function" == typeof objElem.onchange)
+		{
+			try
+			{
+				objElem.onchange();
+			}
+			catch (e)
+			{
+				// just in case something goes wrong
+			}
+		}
+	}
+}
+function booleanSelected(selfield, textfield, falsevalue, truevalue) {
+	textfield.value = (selfield.checked ? truevalue : falsevalue);
+}
+function outputSelected(selfield,textfield,seperator) {
+	var retValue;
+	var sel = getSelected(selfield);
+    var strSel = "";
+   	for (var item in sel) {       
+		strSel += sel[item].value + seperator + " ";
+    }
+    strSel = strSel.substring(0, strSel.length-2);
+    var ch = strSel.substring(0, 1);
+    if (ch == seperator) {
+		strSel = strSel.substring(1, strSel.length);
+    }
+    if(document.forms[0])
+    {
+		document.forms[0].elements[textfield].value = strSel;
+	}
+}
+				
+function getSelected(opt) {
+   var selected = new Array();
+   var index = 0;
+   for (var intLoop = 0; intLoop < opt.length; intLoop++) {
+      if ((opt[intLoop].selected) ||
+          (opt[intLoop].checked)) {
+         index = selected.length;
+         selected[index] = new Object;
+         selected[index].value = opt[intLoop].value;
+         selected[index].index = intLoop;
+      }
+   }
+   return selected;
+}
+// -->
+</script>
+<meta name="Keywords" content="Children, children, Christian, christian, fund, Fund, CCF, ccf, sponsor, child, Child, children's, Children's, charity, nonprofit, donate, feed, organization, need, hope, help, aid, needy, poverty, disaster, famine, hunger, international, relief">
+
+
+		<script language="javascript">
+			function CCFClickPop(page)
+			{
+				var id = '741';				
+				if (id == "")
+				{
+					return;
+				}
+				page = page + "?id=" + id;
+				window.open(page , 'xxx', 'toolbar=0,scrollbars=yes,location=0,statusbar=0,menubar=0,resizable=1,width=700,height=700,left = 362,top = 234');
+			}
+		</script>
   <script language="JavaScript" src="/uploadedFiles/Public_Site/stylesheets/publicpop_api.js"></script></head>
   
 
   <body>
 	<center>
     <form name="Form1" method="post" action="content.aspx?id=741" id="Form1">
-<input type="hidden" name="__VIEWSTATE" value="dDw3MTY0MjExMjt0PDtsPGk8MT47aTwzPjtpPDU+Oz47bDx0PHA8bDxUZXh0Oz47bDxcPGxpbmsgaHJlZj0nL3VwbG9hZGVkZmlsZXMvcHVibGljX3NpdGUvc3R5bGVzaGVldHMvY2NmX3B1YmxpY19zdHlsZS5jc3MnIHJlbD0nc3R5bGVzaGVldCcgdHlwZT0ndGV4dC9jc3MnXD47Pj47Oz47dDxwPGw8VGV4dDs+O2w8DQpcPHNjcmlwdCBsYW5ndWFnZT0nSmF2YVNjcmlwdCcgc3JjPScvdXBsb2FkZWRGaWxlcy9QdWJsaWNfU2l0ZS9zdHlsZXNoZWV0cy9wdWJsaWNwb3BfYXBpLmpzJ1w+XDwvc2NyaXB0XD47Pj47Oz47dDw7bDxpPDM+Oz47bDx0PDtsPGk8MD47PjtsPHQ8O2w8aTwwPjtpPDE+O2k8Mz47PjtsPHQ8O2w8aTwwPjs+O2w8dDw7bDxpPDA+Oz47bDx0PHA8bDxUZXh0Oz47bDxcPHNjcmlwdCBsYW5ndWFnZT0namF2YXNjcmlwdCdcPg0KdmFyIGJTZWFyY2hGb2N1cyA9IGZhbHNlXDsNCmZ1bmN0aW9uIHp6el9TZWFyY2goKQ0Kewl2YXIgUmlnaHROb3cgPSAnaHR0cDovL2NocmlzdGlhbmNoaWxkcmVuc2Z1bmQuY3VzdGhlbHAuY29tL2NnaS1iaW4vY2hyaXN0aWFuY2hpbGRyZW5zZnVuZC5jZmcvcGhwL2VuZHVzZXIvd2lkeF9hbHAucGhwP3Bfd2lkeD0xJnBfcGFnZT0xJnBfc2VhcmNoX3RleHQ9eHh4JnBfbmV3X3NlYXJjaD0xJnBfc2VhcmNoX3R5cGU9MSZwX3NvcnRfYnk9MSdcOw0KdmFyIHNlYXJjaEZvciA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCd0eHRTaXRlU2VhcmNoJykudmFsdWUNCndpbmRvdy5sb2NhdGlvbiA9IFJpZ2h0Tm93LnJlcGxhY2UoJ3Bfc2VhcmNoX3RleHQ9eHh4JywncF9zZWFyY2hfdGV4dD0nICsgc2VhcmNoRm9yKVw7DQoJCX0NClw8L3NjcmlwdFw+DQo7Pj47Oz47Pj47Pj47dDw7bDxpPDE+Oz47bDx0PDtsPGk8MT47PjtsPHQ8cDxsPGhyZWY7PjtsPC9yZWdpc3Rlci9DV1JlZ2lzdGVyLmFzcHg7Pj47Oz47Pj47Pj47dDw7bDxpPDA+Oz47bDx0PDtsPGk8MT47PjtsPHQ8O2w8aTwwPjtpPDI+Oz47bDx0PDtsPGk8MT47aTwzPjtpPDU+Oz47bDx0PHA8O3A8bDxvbmNsaWNrOz47bDxyZXR1cm4gbm9Qb3N0QmFjaygnaHR0cHM6Ly93d3cuY2hyaXN0aWFuY2hpbGRyZW5zZnVuZC5vcmcvbG9naW4vbG9naW4uYXNweCcpXDs7Pj4+Ozs+O3Q8cDxsPGhyZWY7PjtsPGh0dHBzOi8vd3d3LmNocmlzdGlhbmNoaWxkcmVuc2Z1bmQub3JnL3JlZ2lzdGVyL3JlZ2lzdGVyLmFzcHg7Pj47Oz47dDxwPGw8aHJlZjs+O2w8aHR0cHM6Ly93d3cuY2hyaXN0aWFuY2hpbGRyZW5zZnVuZC5vcmcvbG9naW4vbG9naW4uYXNweD9mb3Jnb3Q9dnB3aWVmbjI7Pj47Oz47Pj47dDxwPGw8VmlzaWJsZTs+O2w8bzxmPjs+Pjs7Pjs+Pjs+Pjs+Pjs+Pjs+Pjs+Pjs+PjtsPF9jdGwwOl9jdGw0OnVjTG9naW46aW1nQnRuR287Pj5Map7RVzG/kLa+d4a8eSd9ZCEgAw==">
+<input type="hidden" name="__VIEWSTATE" value="dDwtNzAwNDU4MzI4O3Q8O2w8aTwxPjtpPDM+O2k8NT47aTw3PjtpPDk+Oz47bDx0PHA8bDxUZXh0Oz47bDxcPGxpbmsgaHJlZj0nL3VwbG9hZGVkZmlsZXMvcHVibGljX3NpdGUvc3R5bGVzaGVldHMvY2NmX3B1YmxpY19zdHlsZS5jc3MnIHJlbD0nc3R5bGVzaGVldCcgdHlwZT0ndGV4dC9jc3MnXD47Pj47Oz47dDxwPGw8VGV4dDs+O2w8DQpcPHNjcmlwdCBsYW5ndWFnZT0iSmF2YVNjcmlwdCIgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ilw+DQpcPCEtLQ0KZnVuY3Rpb24gQ2FuY2VsV2luZG93KCkgew0KCXNlbGYuY2xvc2UoKVw7DQp9DQoNCmZ1bmN0aW9uIFBvcFVwV2luZG93ICh1cmwsIGhXaW5kLCBuV2lkdGgsIG5IZWlnaHQsIG5TY3JvbGwsIG5SZXNpemUpIHsNCgl2YXIgY1Rvb2xCYXIgPSAndG9vbGJhcj0wLGxvY2F0aW9uPTAsZGlyZWN0b3JpZXM9MCxzdGF0dXM9JyArIG5SZXNpemUgKyAnLG1lbnViYXI9MCxzY3JvbGxiYXJzPScgKyBuU2Nyb2xsICsgJyxyZXNpemFibGU9JyArIG5SZXNpemUgKyAnLHdpZHRoPScgKyBuV2lkdGggKyAnLGhlaWdodD0nICsgbkhlaWdodFw7DQoJdmFyIHBvcHVwd2luID0gd2luZG93Lm9wZW4odXJsLCBoV2luZCwgY1Rvb2xCYXIpXDsNCglyZXR1cm4gcG9wdXB3aW5cOw0KfQ0KDQpmdW5jdGlvbiBvcGVuV2luZG93KHVybCl7DQoJbmV3V2luZG93PXdpbmRvdy5vcGVuKHVybCwnbmV3V2luJywndG9sbGJhcj15ZXMsbG9jYXRpb249eWVzLHNjcm9sbGJhcnM9eWVzLHdpZHRoPTMwMCxoaWdodD0yMDAnKQ0KfQ0KDQpmdW5jdGlvbiBvcGVuV2luZG93Mih1cmwpew0KCW5ld1dpbmRvdz13aW5kb3cub3Blbih1cmwsJ25ld1dpbicsJ3RvbGxiYXI9eWVzLG1lbnViYXI9eWVzLGxvY2F0aW9uPXllcyxzY3JvbGxiYXJzPXllcyxkaXJlY3Rvcmllcz15ZXMnKQ0KfQ0KDQpmdW5jdGlvbiBjbG9zZVdpbmRvdygpDQoJew0KCWlmKG5ld1dpbmRvdyAmJiAhbmV3V2luZG93LmNsb3NlZCkNCgkJew0KCQkJbmV3V2luZG93LmNsb3NlKCkNCgkJfQkNCgl9DQoJDQpmdW5jdGlvbiBQb3BVcFdpbmRvd0Z1bGwgKHVybCwgaFdpbmQsIG5XaWR0aCwgbkhlaWdodCwgblJlc2l6ZSkNCgl7DQoJdmFyIGNUb29sQmFyID0gInRvb2xiYXI9eWVzLGxvY2F0aW9uPXllcyxkaXJlY3Rvcmllcz15ZXMscmVzaXphYmxlPTEsc3RhdHVzPSIgKyBuUmVzaXplICsgIixtZW51YmFyPXllcyxzY3JvbGxiYXJzPXllcyx3aWR0aD0iICsgbldpZHRoICsgIixoZWlnaHQ9IiArIG5IZWlnaHQNCgl2YXIgcG9wdXB3aW4gPSB3aW5kb3cub3Blbih1cmwsIGhXaW5kLCBjVG9vbEJhcilcOw0KCXJldHVybiBwb3B1cHdpblw7DQoJfQ0KDQpmdW5jdGlvbiBRdWlja0xpbmtTZWxlY3QoYmFzZUZvbGRlcklELCBmb3JtTmFtZSwgIHRpdGxlRm9ybUVsZW0sIHVzZVFMaW5rQ2hlY2ssIFNldEJyb3dzZXJTdGF0ZSkgew0KCS8vIFRoZXJlIGFyZSBzcGVjaWZpYyByZXF1aXJlbWVudHMgZm9yIHRoaXMgZnVuY3Rpb24uIFNlZSAiUXVpY2tMaW5rU2VsZWN0LmFzcCIgZm9yIHRob3NlLg0KCS8vDQoJdmFyIHNlbmRRU3RyaW5nID0gJz9mb2xkZXJpZD0nICsgYmFzZUZvbGRlcklEICsgJyZmb3JtTmFtZT0nICsgZm9ybU5hbWUgKyAnJnRpdGxlRm9ybUVsZW09JyArIA0KCQkJCXRpdGxlRm9ybUVsZW0gKyAnJnVzZVFMaW5rQ2hlY2s9JyArICB1c2VRTGlua0NoZWNrICsgJyZTZXRCcm93c2VyU3RhdGU9JyArIFNldEJyb3dzZXJTdGF0ZVw7DQoJdmFyIGNUb29sQmFyID0gJ3Rvb2xiYXI9MCxsb2NhdGlvbj0wLGRpcmVjdG9yaWVzPTAsc3RhdHVzPTAsbWVudWJhcj0wLHNjcm9sbGJhcnM9MSxyZXNpemFibGU9MSx3aWR0aD00NTAsaGVpZ2h0PTMwMCdcOw0KCQkJCQ0KCXdpbmRvdy5vcGVuKCdRdWlja0xpbmtTZWxlY3QuYXNwJyArIHNlbmRRU3RyaW5nLCAnUWxpbmtTZWxlY3RXaW4nLCBjVG9vbEJhcikgXDsNCgkNCglyZXR1cm4gdHJ1ZSBcOw0KfQ0KDQpmdW5jdGlvbiBUcmltIChzdHJpbmcpIHsNCglpZiAoc3RyaW5nLmxlbmd0aCBcPiAwKSB7DQoJCXN0cmluZyA9IFJlbW92ZUxlYWRpbmdTcGFjZXMgKHN0cmluZylcOw0KCX0NCglpZiAoc3RyaW5nLmxlbmd0aCBcPiAwKSB7DQoJCXN0cmluZyA9IFJlbW92ZVRyYWlsaW5nU3BhY2VzKHN0cmluZylcOw0KCX0NCglyZXR1cm4gc3RyaW5nXDsNCn0NCgkNCmZ1bmN0aW9uIFJlbW92ZUxlYWRpbmdTcGFjZXMoc3RyaW5nKSB7DQoJd2hpbGUoc3RyaW5nLnN1YnN0cmluZygwLCAxKSA9PSAiICIpIHsNCgkJc3RyaW5nID0gc3RyaW5nLnN1YnN0cmluZygxLCBzdHJpbmcubGVuZ3RoKVw7DQoJfQ0KCXJldHVybiBzdHJpbmdcOw0KfQ0KDQpmdW5jdGlvbiBSZW1vdmVUcmFpbGluZ1NwYWNlcyhzdHJpbmcpIHsNCgl3aGlsZShzdHJpbmcuc3Vic3RyaW5nKChzdHJpbmcubGVuZ3RoIC0gMSksIHN0cmluZy5sZW5ndGgpID09ICIgIikgew0KCQlzdHJpbmcgPSBzdHJpbmcuc3Vic3RyaW5nKDAsIChzdHJpbmcubGVuZ3RoIC0gMSkpXDsNCgl9DQoJcmV0dXJuIHN0cmluZ1w7DQp9DQoJDQpmdW5jdGlvbiBFbmFibGVFbGVtZW50KGlkLCBiRW5hYmxlKQ0Kew0KCXZhciBvYmpFbGVtID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoaWQpXDsNCglpZiAob2JqRWxlbSkNCgl7DQoJCS8vIE1vemlsbGEgRmlyZUZveCAxLjAgZG9lcyBub3Qgc3VwcG9ydCAuZGlzYWJsZWQgZm9yIFw8bGFiZWxcPg0KCQlpZiAodHlwZW9mIG9iakVsZW0uZGlzYWJsZWQgIT0gInVuZGVmaW5lZCIpDQoJCXsNCgkJCW9iakVsZW0uZGlzYWJsZWQgPSAhYkVuYWJsZVw7DQoJCX0NCgkJLy8gaWYgYSBsYWJlbCwgZm9sbG93IHRoZSAnZm9yJyBhdHRyaWJ1dGUgYXMgd2VsbA0KCQlpZiAodHlwZW9mIG9iakVsZW0uaHRtbEZvciAhPSAidW5kZWZpbmVkIikNCgkJew0KCQkJLy8gZG9uJ3QgdXNlIHJlY3Vyc2lvbiB0byBhdm9pZCBwb3NzaWJpbGl0eSBvZiBpbmZpbml0ZSByZWN1cnNpb24NCgkJCW9iakVsZW0gPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZChvYmpFbGVtLmh0bWxGb3IpXDsNCgkJCWlmIChvYmpFbGVtICYmIHR5cGVvZiBvYmpFbGVtLmRpc2FibGVkICE9ICJ1bmRlZmluZWQiKQ0KCQkJew0KCQkJCW9iakVsZW0uZGlzYWJsZWQgPSAhYkVuYWJsZVw7DQoJCQl9DQoJCX0NCgl9DQp9DQoJDQpmdW5jdGlvbiBTaG93RWxlbWVudChpZCwgYlNob3cpDQp7DQoJdmFyIG9iakVsZW0gPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZChpZClcOw0KCWlmIChvYmpFbGVtKQ0KCXsNCgkJb2JqRWxlbS5zdHlsZS5kaXNwbGF5ID0gKGJTaG93ID8gIiIgOiAibm9uZSIpXDsNCgkJU2hvd1NlbGVjdEVsZW1lbnRzKG9iakVsZW0sIGJTaG93KVw7CQ0KCX0NCn0NCg0KZnVuY3Rpb24gU2hvd1NlbGVjdEVsZW1lbnRzKG9iakVsZW0sIGJTaG93KQ0KLy8gZHVlIHRvIGEgYnVnIGluIElFLCBkZXNjZW5kZW50IHNlbGVjdCBsaXN0cyBtYXkgc3RpbGwgYmUgZGlzcGxheWVkDQovLyBzbyB0YXJnZXQgZWFjaCBpbmRpdmlkdWFsbHkNCnsNCglpZiAoIW9iakVsZW0pIHJldHVyblw7DQoJaWYgKCJ1bmRlZmluZWQiID09IHR5cGVvZiBvYmpFbGVtLmNoaWxkcmVuKSByZXR1cm5cOw0KCWlmICgiU0VMRUNUIiA9PSBvYmpFbGVtLnRhZ05hbWUpDQoJew0KCQlvYmpFbGVtLnN0eWxlLmRpc3BsYXkgPSAoYlNob3cgPyAiIiA6ICJub25lIilcOw0KCX0NCgllbHNlDQoJew0KCQlmb3IgKHZhciBpID0gMFw7IGkgXDwgb2JqRWxlbS5jaGlsZHJlbi5sZW5ndGhcOyBpKyspDQoJCXsNCgkJCVNob3dTZWxlY3RFbGVtZW50cyhvYmpFbGVtLmNoaWxkcmVuW2ldLCBiU2hvdylcOw0KCQl9DQoJfQ0KfQ0KDQpmdW5jdGlvbiBHZXRFbGVtZW50VmFsdWUob0VsZW0pDQp7DQoJaWYgKCFvRWxlbSkgcmV0dXJuXDsNCglpZiAodHlwZW9mIG9FbGVtLnZhbHVlICE9ICJ1bmRlZmluZWQiKQ0KCXsNCgkJaWYgKCJJTlBVVCIgPT0gb0VsZW0udGFnTmFtZSAmJiAoImNoZWNrYm94IiA9PSBvRWxlbS50eXBlIHx8ICJyYWRpbyIgPT0gb0VsZW0udHlwZSkpDQoJCXsNCgkJCXZhciBzdHJWYWx1ZSA9IG9FbGVtLnZhbHVlICsgIiJcOw0KCQkJaWYgKHN0clZhbHVlLmxlbmd0aCBcPiAwICYmIHN0clZhbHVlICE9ICJ0cnVlIikNCgkJCXsNCgkJCQlpZiAob0VsZW0uY2hlY2tlZCkNCgkJCQl7DQoJCQkJCXJldHVybiBzdHJWYWx1ZVw7DQoJCQkJfQ0KCQkJCWVsc2UNCgkJCQl7DQoJCQkJCXJldHVybiAiIlw7DQoJCQkJfQ0KCQkJfQ0KCQkJZWxzZSAvLyBib29sZWFuDQoJCQl7DQoJCQkJaWYgKG9FbGVtLmNoZWNrZWQpDQoJCQkJew0KCQkJCQlyZXR1cm4gdHJ1ZVw7DQoJCQkJfQ0KCQkJCWVsc2UNCgkJCQl7DQoJCQkJCXJldHVybiBmYWxzZVw7DQoJCQkJfQ0KCQkJfQ0KCQl9DQoJCWVsc2UNCgkJew0KCQkJcmV0dXJuIG9FbGVtLnZhbHVlXDsNCgkJfQ0KCX0NCgllbHNlIGlmICh0eXBlb2Ygb0VsZW0uaW5uZXJIVE1MICE9ICJ1bmRlZmluZWQiKQ0KCXsNCgkJcmV0dXJuIG9FbGVtLmlubmVySFRNTFw7DQoJfQ0KCWVsc2UgaWYgKHR5cGVvZiBvRWxlbS5pbm5lclRleHQgIT0gInVuZGVmaW5lZCIpDQoJew0KCQlyZXR1cm4gb0VsZW0uaW5uZXJUZXh0XDsNCgl9DQoJZWxzZQ0KCXsNCgkJcmV0dXJuXDsgLy8gbm8gdmFsdWUNCgl9DQp9DQoNCmZ1bmN0aW9uIFNldEVsZW1lbnRWYWx1ZShvRWxlbSwgdmFsdWUpDQp7DQoJaWYgKCFvRWxlbSkgcmV0dXJuXDsNCglpZiAodHlwZW9mIG9FbGVtLnZhbHVlICE9ICJ1bmRlZmluZWQiKQ0KCXsNCgkJaWYgKCJJTlBVVCIgPT0gb0VsZW0udGFnTmFtZSAmJiAoImNoZWNrYm94IiA9PSBvRWxlbS50eXBlKSkNCgkJew0KCQkJLy8gYm9vbGVhbg0KCQkJaWYgKCJ0cnVlIiA9PSB2YWx1ZSB8fCB0cnVlID09IHZhbHVlKQ0KCQkJew0KCQkJCW9FbGVtLmNoZWNrZWQgPSB0cnVlXDsNCgkJCX0NCgkJCWVsc2UgaWYgKCJmYWxzZSIgPT0gdmFsdWUgfHwgZmFsc2UgPT0gdmFsdWUpDQoJCQl7DQoJCQkJb0VsZW0uY2hlY2tlZCA9IGZhbHNlXDsNCgkJCX0NCgkJCWVsc2UNCgkJCXsNCgkJCQlvRWxlbS52YWx1ZSA9IHZhbHVlXDsNCgkJCX0NCgkJfQ0KCQllbHNlDQoJCXsNCgkJCW9FbGVtLnZhbHVlID0gdmFsdWVcOw0KCQl9DQoJfQ0KCWVsc2UgaWYgKHR5cGVvZiBvRWxlbS5pbm5lckhUTUwgIT0gInVuZGVmaW5lZCIpDQoJew0KCQlvRWxlbS5pbm5lckhUTUwgPSB2YWx1ZVw7DQoJfQ0KCWVsc2UgaWYgKHR5cGVvZiBvRWxlbS5pbm5lclRleHQgIT0gInVuZGVmaW5lZCIpDQoJew0KCQlvRWxlbS5pbm5lclRleHQgPSB2YWx1ZVw7DQoJfQ0KfQ0KDQpmdW5jdGlvbiBudW1iZXJWYWxpZGF0ZShmaWVsZCkNCnsNCglpZiAoZmllbGQudmFsdWUgPT0gIiIpDQoJew0KCQlyZXR1cm4gdHJ1ZVw7DQoJfQ0KCWlmICgoISAvXlxcZCskLy50ZXN0KGZpZWxkLnZhbHVlKSkgJiYgZmllbGQudmFsdWUgIT0gIiIpIA0KCXvCoCANCgkJYWxlcnQoIllvdSBtdXN0IHVzZSBvbmx5IG51bWVyaWMgY2hhcmFjdGVycyIpXDsNCgkJZmllbGQudmFsdWUgPSAiIlw7DQoJCWZpZWxkLmZvY3VzKClcOw0KCQlyZXR1cm4gZmFsc2VcOwkJDQoJfSANCglyZXR1cm4gdHJ1ZVw7DQp9DQoJDQpmdW5jdGlvbiB0ZXh0YXJlYVZhbGlkYXRlKGZpZWxkKQ0Kew0KCXZhciBzdHJUZXh0ID0gR2V0RWxlbWVudFZhbHVlKGZpZWxkKSArICIiXDsNCgl2YXIgbGVuID0gc3RyVGV4dC5sZW5ndGhcOw0KCWlmKGxlbiBcPiA1MDApDQoJew0KCQlhbGVydCgiT3ZlciBsaW1pdCBvZiBjaGFyYWN0ZXJzIGluIHRleHQgYm94LiIpXDsNCgkJZmllbGQuZm9jdXMoKVw7DQoJCXJldHVybiBmYWxzZVw7CQ0KCX0NCglyZXR1cm4gdHJ1ZVw7DQp9DQoNCmZ1bmN0aW9uIFZhbGlkYXRlTWV0YShmb3JtTmFtZSkNCi8vIENBVVRJT046IGRvIG5vdCBuYW1lIHRoaXMgZnVuY3Rpb24gJ1YgYSBsIGkgZCBhIHQgZSBNIGUgdCBhIGQgYSB0IGEnLCANCi8vIHN1c3BlY3QgdGhlIHdvcmQgJ00gZSB0IGEgZCBhIHQgYScgY2F1c2VzIEFTUCB0byBvbWl0IHRoZSBKYXZhU2NyaXB0DQp7DQoNCgl2YXIgcmVxZmllbGRzXDsNCgl2YXIgdmFsaWRhdGlvbmZpZWxkc1w7DQoJdmFyIHZhbGlkcGFpclw7DQoJdmFyIG9iamZvcm0gPSBkb2N1bWVudC5mb3Jtc1tmb3JtTmFtZV1cOw0KCWlmKG9iamZvcm0ucmVxX2ZpZWxkcykNCgl7DQoJCXJlcWZpZWxkcyA9IG9iamZvcm0ucmVxX2ZpZWxkcy52YWx1ZS5zcGxpdCgiLCIpXDsNCgkJZm9yKHZhciBpID0gMFw7IGkgXDwgcmVxZmllbGRzLmxlbmd0aFw7IGkrKykNCgkJew0KCQkJaWYob2JqZm9ybS5lbGVtZW50c1tyZXFmaWVsZHNbaV1dKQ0KCQkJew0KCQkJCWlmKG9iamZvcm0uZWxlbWVudHNbcmVxZmllbGRzW2ldXS52YWx1ZSA9PSAiIikNCgkJCQl7DQoJCQkJCWFsZXJ0KCdqczogYWxlcnQgY2Fubm90IHN1Ym1pdCBtZXRhIGluY29tcGxldGUnKVw7DQoJCQkJCS8vb2JqZm9ybS5lbGVtZW50c1tyZXFmaWVsZHNbaV1dLmZvY3VzKClcOw0KCQkJCQlyZXR1cm4gZmFsc2VcOw0KCQkJCX0NCgkJCX0NCgkJfQ0KCX0NCglpZihvYmpmb3JtLm5lZWRlZF92YWxpZGF0aW9uKQ0KCXsNCgkJdmFsaWRhdGlvbmZpZWxkcyA9IG9iamZvcm0ubmVlZGVkX3ZhbGlkYXRpb24udmFsdWUuc3BsaXQoIjoiKVw7DQoJCWZvcih2YXIgaiA9IDBcOyBqIFw8IHZhbGlkYXRpb25maWVsZHMubGVuZ3RoXDsgaisrKQ0KCQl7DQoJCQl2YWxpZHBhaXIgPSB2YWxpZGF0aW9uZmllbGRzW2pdLnNwbGl0KCIsIilcOw0KCQkJaWYob2JqZm9ybS5lbGVtZW50c1t2YWxpZHBhaXJbMF1dKQ0KCQkJew0KCQkJCWlmKHZhbGlkcGFpclsxXSA9PSAibnVtYmVyIikNCgkJCQl7DQoJCQkJCWlmKCFudW1iZXJWYWxpZGF0ZShvYmpmb3JtLmVsZW1lbnRzW3ZhbGlkcGFpclswXV0pKQ0KCQkJCQl7DQoJCQkJCQlyZXR1cm4gZmFsc2VcOw0KCQkJCQl9DQoJCQkJfQ0KCQkJCWVsc2UgaWYodmFsaWRwYWlyWzFdID09ICJ0ZXh0IikNCgkJCQl7DQoJCQkJCWlmKCF0ZXh0YXJlYVZhbGlkYXRlKG9iamZvcm0uZWxlbWVudHNbdmFsaWRwYWlyWzBdXSkpDQoJCQkJCXsNCgkJCQkJCXJldHVybiBmYWxzZVw7DQoJCQkJCX0NCgkJCQl9DQoJCQkJZWxzZSBpZih2YWxpZHBhaXJbMV0gPT0gImRhdGUiKQ0KCQkJCXsNCgkJCQkJdmFyIG9yaWdpbmFsRGF0ZVw7DQoJCQkJCXZhciBhcnJheUZvck51bWJlciA9IHZhbGlkcGFpclswXS5zcGxpdCgiXyIpXDsNCgkJCQkJaWYoYXJyYXlGb3JOdW1iZXIubGVuZ3RoIFw+IDApDQoJCQkJCXsNCgkJCQkJCWlmKGFycmF5Rm9yTnVtYmVyWzBdID0gImZybV90ZXh0IikNCgkJCQkJCXsNCgkJCQkJCQlvcmlnaW5hbERhdGUgPSAiZnJtX3RleHRfc2VsIiArIGFycmF5Rm9yTnVtYmVyW2FycmF5Rm9yTnVtYmVyLmxlbmd0aC0xXVw7DQoJCQkJCQkJb2JqZm9ybS5lbGVtZW50c1tvcmlnaW5hbERhdGVdLnZhbHVlID0gVHJpbShvYmpmb3JtLmVsZW1lbnRzW29yaWdpbmFsRGF0ZV0udmFsdWUpXDsNCgkJCQkJCX0NCgkJCQkJfQ0KCQkJCQllbHNlDQoJCQkJCXsNCgkJCQkJCW9yaWdpbmFsRGF0ZSA9IHZhbGlkcGFpclswXVw7DQoJCQkJCX0NCgkJCQkJaWYoIUNoZWNrRGF0ZShvYmpmb3JtLmVsZW1lbnRzW29yaWdpbmFsRGF0ZV0udmFsdWUpKQ0KCQkJCQl7DQoJCQkJCQlyZXR1cm4gZmFsc2VcOw0KCQkJCQl9DQoJCQkJfQ0KCQkJfQkNCgkJfQ0KCX0NCglyZXR1cm4gdHJ1ZVw7DQp9DQoNCi8vIC0tXD4NClw8L3NjcmlwdFw+DQpcPHNjcmlwdCBsYW5ndWFnZT0iSmF2YVNjcmlwdCIgc3JjPSJqYXZhL2RhdGVqc2Z1bmMuanMiXD5cPC9zY3JpcHRcPg0KXDxzY3JpcHQgbGFuZ3VhZ2U9IkphdmFTY3JpcHQiIHR5cGU9InRleHQvamF2YXNjcmlwdCJcPg0KXDwhLS0NCmZ1bmN0aW9uIE9wZW5DYWxlbmRhckZvckVsZW1lbnQoaWQsIGlkX2RhdGEpIHsNCgl2YXIgY3RybE9ialw7DQoJY3RybE9iaj1kb2N1bWVudC5nZXRFbGVtZW50QnlJZChpZClcOw0KCWlmICgobnVsbCAhPSBjdHJsT2JqKSAmJiAoJ29iamVjdCcgPT0gKHR5cGVvZihjdHJsT2JqKSkudG9Mb3dlckNhc2UoKSkpIHsNCgkJY3RybE9iai52YWx1ZSA9IFRyaW0oY3RybE9iai52YWx1ZSlcOw0KCQlDYWxsQ2FsZW5kYXJGb3JFbGVtZW50KGN0cmxPYmoudmFsdWUsICcvY21zMzAwc2NyaXB0cy9jYWxlbmRhci5hc3AnLCBpZCwgaWRfZGF0YSwgY3RybE9iai5mb3JtLm5hbWUpXDsNCgl9DQp9DQpmdW5jdGlvbiBDYWxsQ2FsZW5kYXJGb3JFbGVtZW50KGRhdGUsIHBhZ2VuYW1lLCBjdHJsLCBoY3RybCwgZm9ybW5hbWUpewkNCgl2YXIgcmVnZXhwMSA9IC8gL2dpXDsNCgl2YXIgdGVtcGxhdGVcOw0KCXZhciBwYXJlbWV0ZXJcOw0KCXZhciBVcmxcOw0KCXZhciBpdGVtcyA9IHBhZ2VuYW1lLnNwbGl0KCc/JylcOw0KCWlmIChpdGVtcy5sZW5ndGggPT0gMiApIHsNCgkJdGVtcGxhdGUgPSBpdGVtc1swXS50b0xvd2VyQ2FzZSgpXDsNCgkJcGFyZW1ldGVyID0gaXRlbXNbMV0udG9Mb3dlckNhc2UoKVw7DQoJfQ0KCWVsc2V7DQoJCXRlbXBsYXRlID0gcGFnZW5hbWUudG9Mb3dlckNhc2UoKVw7DQoJCXBhcmVtZXRlcj0gJydcOw0KCX0NCglpZiAoZGF0ZS5yZXBsYWNlKHJlZ2V4cDEsICcnKSA9PSAnJykNCgl7DQoJCVVybCA9IHRlbXBsYXRlICsgJz9mb3JtPScgKyBmb3JtbmFtZSArICcmY3RybD0nICsgY3RybCArICcmaGN0cmw9JyArIGhjdHJsXDsNCgkJaWYgKHBhcmVtZXRlci5sZW5ndGgpew0KCQkJVXJsID0gVXJsICsgJyYnICsgcGFyZW1ldGVyXDsNCgkJfSANCgkJUG9wVXBXaW5kb3cgKFVybCwgJ0NhbGVuZGFyJywgMzI1LCAyODAsIDAsIDEpXDsNCgl9DQoJZWxzZSB7DQoJCS8vaWYgKENoZWNrRGF0ZShkYXRlKSkgew0KCQkJZGF0ZSA9IFJlbW92ZUxlYWRpbmdTcGFjZXMoZGF0ZSlcOw0KCQkJdmFyIGRhdGVfdGltZXMgPSBkYXRlLnNwbGl0KCcgJylcOw0KCQkJaWYgKGRhdGVfdGltZXMubGVuZ3RoIFw8IDIpIHsNCgkJCQl2YXIgdGltZXMgPSAnJ1w7DQoJCQkJdmFyIGhvdXJzID0gJydcOw0KCQkJfQ0KCQkJZWxzZSB7DQoJCQkJdmFyIHRpbWVzID0gZGF0ZV90aW1lc1sxXS5zcGxpdCgnOicpXDsNCgkJCQl2YXIgaG91cnMgPSB0aW1lc1swXS5yZXBsYWNlKHJlZ2V4cDEsICcnKVw7DQoJCQl9DQoJCQlpZiAodGltZXMubGVuZ3RoIFw8IDIpIHsNCgkJCQl2YXIgbWludXRlcyA9ICcnXDsNCgkJCX0NCgkJCWVsc2Ugew0KCQkJCXZhciBtaW51dGVzID0gdGltZXNbMV0ucmVwbGFjZShyZWdleHAxLCAnJylcOw0KCQkJfQ0KCQkJaWYgKHRpbWVzLmxlbmd0aCBcPCAzKSB7DQoJCQkJdmFyIHNlY29uZHMgPSAnJ1w7DQoJCQl9DQoJCQllbHNlIHsNCgkJCQl2YXIgc2Vjb25kcyA9IHRpbWVzWzJdLnJlcGxhY2UocmVnZXhwMSwgJycpXDsNCgkJCX0NCgkJCWlmIChkYXRlX3RpbWVzLmxlbmd0aCBcPCAyKSB7DQoJCQkJdmFyIGFtcG0gPSAnJ1w7DQoJCQl9DQoJCQllbHNlIHsNCgkJCQl2YXIgYW1wbSA9IGRhdGVfdGltZXNbMl0ucmVwbGFjZShyZWdleHAxLCAnJylcOw0KCQkJfQ0KCQkJVXJsID0gdGVtcGxhdGUgKyAnP2Zvcm09JyArIGZvcm1uYW1lICsgJyZjdHJsPScgKyBjdHJsICsgJyZoY3RybD0nICsgaGN0cmwgKyAnJnN0YXJ0ZGF0ZT0nICsgZGF0ZV90aW1lc1swXSArICcmc2hvd2RhdGU9MSdcOw0KCQkJCQkJCQkJCSsgJyZob3Vycz0nICsgaG91cnMgKyAnJm1pbnV0ZXM9JyArIG1pbnV0ZXMgKyAnJnNlY29uZHM9JyArIHNlY29uZHMgKyAnJnR0PScgKyBhbXBtXDsNCgkJCWlmIChwYXJlbWV0ZXIubGVuZ3RoKXsNCgkJCQlVcmwgPSBVcmwgKyAnJicgKyBwYXJlbWV0ZXJcOw0KCQkJfQ0KCQkJCQkJCQkJCQkNCgkJCVBvcFVwV2luZG93IChVcmwsJ0NhbGVuZGFyJywgMzI1LCAyODAsIDAsIDEpXDsNCgkJLy99DQoJfQ0KfQkNCmZ1bmN0aW9uIFVwZGF0ZVRleHRDb3VudGVyKGlkLCBtYXhsaW1pdCkgew0KCXZhciBvYmpUZXh0ID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoaWQpXDsNCgl2YXIgb2JqQ291bnQgPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZChpZCArICJfbGVuIilcOw0KCWlmIChvYmpUZXh0ICYmIG9iakNvdW50KQ0KCXsNCgkJdmFyIHN0clRleHQgPSBHZXRFbGVtZW50VmFsdWUob2JqVGV4dCkgKyAiIlw7DQoJCXZhciBsZW4gPSBzdHJUZXh0Lmxlbmd0aFw7DQoJCWlmIChsZW4gXD4gbWF4bGltaXQpIHsNCgkJCW9iakNvdW50LnN0eWxlLmNvbG9yID0gInJlZCJcOw0KCQkJb2JqQ291bnQuc3R5bGUuZm9udFdlaWdodCA9ICJib2xkIlw7DQoJCX0NCgkJZWxzZQ0KCQl7DQoJCQlvYmpDb3VudC5zdHlsZS5jb2xvciA9ICIiXDsNCgkJCW9iakNvdW50LnN0eWxlLmZvbnRXZWlnaHQgPSAiIlw7DQoJCX0NCgkJU2V0RWxlbWVudFZhbHVlKG9iakNvdW50LCBsZW4pXDsNCgl9DQp9DQpmdW5jdGlvbiBTZXREZWZhdWx0KGlkKSB7DQoJdmFyIG9iakVsZW0gPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZChpZClcOw0KCWlmICghb2JqRWxlbSkgcmV0dXJuXDsNCgl2YXIgb2JqRGVmYXVsdCA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKGlkICsgImRlZmF1bHQiKVw7DQoJaWYgKCFvYmpEZWZhdWx0KSByZXR1cm5cOw0KCWlmIChjb25maXJtKCJqczogY29uZmlybSByZXN0b3JlIGRlZmF1bHQgdGV4dCIpKQ0KCXsNCgkJb2JqRWxlbS52YWx1ZSA9IG9iakRlZmF1bHQudmFsdWVcOw0KCQlpZiAoImZ1bmN0aW9uIiA9PSB0eXBlb2Ygb2JqRWxlbS5vbmNoYW5nZSkNCgkJew0KCQkJdHJ5DQoJCQl7DQoJCQkJb2JqRWxlbS5vbmNoYW5nZSgpXDsNCgkJCX0NCgkJCWNhdGNoIChlKQ0KCQkJew0KCQkJCS8vIGp1c3QgaW4gY2FzZSBzb21ldGhpbmcgZ29lcyB3cm9uZw0KCQkJfQ0KCQl9DQoJfQ0KfQ0KZnVuY3Rpb24gYm9vbGVhblNlbGVjdGVkKHNlbGZpZWxkLCB0ZXh0ZmllbGQsIGZhbHNldmFsdWUsIHRydWV2YWx1ZSkgew0KCXRleHRmaWVsZC52YWx1ZSA9IChzZWxmaWVsZC5jaGVja2VkID8gdHJ1ZXZhbHVlIDogZmFsc2V2YWx1ZSlcOw0KfQ0KZnVuY3Rpb24gb3V0cHV0U2VsZWN0ZWQoc2VsZmllbGQsdGV4dGZpZWxkLHNlcGVyYXRvcikgew0KCXZhciByZXRWYWx1ZVw7DQoJdmFyIHNlbCA9IGdldFNlbGVjdGVkKHNlbGZpZWxkKVw7DQogICAgdmFyIHN0clNlbCA9ICIiXDsNCiAgIAlmb3IgKHZhciBpdGVtIGluIHNlbCkgeyAgICAgICANCgkJc3RyU2VsICs9IHNlbFtpdGVtXS52YWx1ZSArIHNlcGVyYXRvciArICIgIlw7DQogICAgfQ0KICAgIHN0clNlbCA9IHN0clNlbC5zdWJzdHJpbmcoMCwgc3RyU2VsLmxlbmd0aC0yKVw7DQogICAgdmFyIGNoID0gc3RyU2VsLnN1YnN0cmluZygwLCAxKVw7DQogICAgaWYgKGNoID09IHNlcGVyYXRvcikgew0KCQlzdHJTZWwgPSBzdHJTZWwuc3Vic3RyaW5nKDEsIHN0clNlbC5sZW5ndGgpXDsNCiAgICB9DQogICAgaWYoZG9jdW1lbnQuZm9ybXNbMF0pDQogICAgew0KCQlkb2N1bWVudC5mb3Jtc1swXS5lbGVtZW50c1t0ZXh0ZmllbGRdLnZhbHVlID0gc3RyU2VsXDsNCgl9DQp9DQoJCQkJDQpmdW5jdGlvbiBnZXRTZWxlY3RlZChvcHQpIHsNCiAgIHZhciBzZWxlY3RlZCA9IG5ldyBBcnJheSgpXDsNCiAgIHZhciBpbmRleCA9IDBcOw0KICAgZm9yICh2YXIgaW50TG9vcCA9IDBcOyBpbnRMb29wIFw8IG9wdC5sZW5ndGhcOyBpbnRMb29wKyspIHsNCiAgICAgIGlmICgob3B0W2ludExvb3BdLnNlbGVjdGVkKSB8fA0KICAgICAgICAgIChvcHRbaW50TG9vcF0uY2hlY2tlZCkpIHsNCiAgICAgICAgIGluZGV4ID0gc2VsZWN0ZWQubGVuZ3RoXDsNCiAgICAgICAgIHNlbGVjdGVkW2luZGV4XSA9IG5ldyBPYmplY3RcOw0KICAgICAgICAgc2VsZWN0ZWRbaW5kZXhdLnZhbHVlID0gb3B0W2ludExvb3BdLnZhbHVlXDsNCiAgICAgICAgIHNlbGVjdGVkW2luZGV4XS5pbmRleCA9IGludExvb3BcOw0KICAgICAgfQ0KICAgfQ0KICAgcmV0dXJuIHNlbGVjdGVkXDsNCn0NCi8vIC0tXD4NClw8L3NjcmlwdFw+DQpcPG1ldGEgbmFtZT0iS2V5d29yZHMiIGNvbnRlbnQ9IkNoaWxkcmVuLCBjaGlsZHJlbiwgQ2hyaXN0aWFuLCBjaHJpc3RpYW4sIGZ1bmQsIEZ1bmQsIENDRiwgY2NmLCBzcG9uc29yLCBjaGlsZCwgQ2hpbGQsIGNoaWxkcmVuJ3MsIENoaWxkcmVuJ3MsIGNoYXJpdHksIG5vbnByb2ZpdCwgZG9uYXRlLCBmZWVkLCBvcmdhbml6YXRpb24sIG5lZWQsIGhvcGUsIGhlbHAsIGFpZCwgbmVlZHksIHBvdmVydHksIGRpc2FzdGVyLCBmYW1pbmUsIGh1bmdlciwgaW50ZXJuYXRpb25hbCwgcmVsaWVmIlw+DQoNCjs+Pjs7Pjt0PHA8bDxUZXh0Oz47bDw3NDE7Pj47Oz47dDxwPGw8VGV4dDs+O2w8DQpcPHNjcmlwdCBsYW5ndWFnZT0nSmF2YVNjcmlwdCcgc3JjPScvdXBsb2FkZWRGaWxlcy9QdWJsaWNfU2l0ZS9zdHlsZXNoZWV0cy9wdWJsaWNwb3BfYXBpLmpzJ1w+XDwvc2NyaXB0XD47Pj47Oz47dDw7bDxpPDM+Oz47bDx0PDtsPGk8MD47PjtsPHQ8O2w8aTwwPjtpPDE+O2k8Mz47PjtsPHQ8O2w8aTwwPjs+O2w8dDw7bDxpPDA+Oz47bDx0PHA8bDxUZXh0Oz47bDxcPHNjcmlwdCBsYW5ndWFnZT0namF2YXNjcmlwdCdcPg0KdmFyIGJTZWFyY2hGb2N1cyA9IGZhbHNlXDsNCmZ1bmN0aW9uIHp6el9TZWFyY2goKQ0Kewl2YXIgUmlnaHROb3cgPSAnaHR0cDovL2NocmlzdGlhbmNoaWxkcmVuc2Z1bmQuY3VzdGhlbHAuY29tL2NnaS1iaW4vY2hyaXN0aWFuY2hpbGRyZW5zZnVuZC5jZmcvcGhwL2VuZHVzZXIvd2lkeF9hbHAucGhwP3Bfd2lkeD0xJnBfcGFnZT0xJnBfc2VhcmNoX3RleHQ9eHh4JnBfbmV3X3NlYXJjaD0xJnBfc2VhcmNoX3R5cGU9MSZwX3NvcnRfYnk9MSdcOw0KdmFyIHNlYXJjaEZvciA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCd0eHRTaXRlU2VhcmNoJykudmFsdWUNCndpbmRvdy5sb2NhdGlvbiA9IFJpZ2h0Tm93LnJlcGxhY2UoJ3Bfc2VhcmNoX3RleHQ9eHh4JywncF9zZWFyY2hfdGV4dD0nICsgc2VhcmNoRm9yKVw7DQoJCX0NClw8L3NjcmlwdFw+DQo7Pj47Oz47Pj47Pj47dDw7bDxpPDE+Oz47bDx0PDtsPGk8MT47PjtsPHQ8cDxsPGhyZWY7PjtsPC9yZWdpc3Rlci9DV1JlZ2lzdGVyLmFzcHg7Pj47Oz47Pj47Pj47dDw7bDxpPDA+Oz47bDx0PDtsPGk8MT47PjtsPHQ8O2w8aTwwPjtpPDI+Oz47bDx0PDtsPGk8MT47aTwzPjtpPDU+Oz47bDx0PHA8O3A8bDxvbmNsaWNrOz47bDxyZXR1cm4gbm9Qb3N0QmFjaygnaHR0cHM6Ly93d3cuY2hyaXN0aWFuY2hpbGRyZW5zZnVuZC5vcmcvbG9naW4vbG9naW4uYXNweCcpXDs7Pj4+Ozs+O3Q8cDxsPGhyZWY7PjtsPGh0dHBzOi8vd3d3LmNocmlzdGlhbmNoaWxkcmVuc2Z1bmQub3JnL3JlZ2lzdGVyL3JlZ2lzdGVyLmFzcHg7Pj47Oz47dDxwPGw8aHJlZjs+O2w8aHR0cHM6Ly93d3cuY2hyaXN0aWFuY2hpbGRyZW5zZnVuZC5vcmcvbG9naW4vbG9naW4uYXNweD9mb3Jnb3Q9dnB3aWVmbjI7Pj47Oz47Pj47dDxwPGw8VmlzaWJsZTs+O2w8bzxmPjs+Pjs7Pjs+Pjs+Pjs+Pjs+Pjs+Pjs+Pjs+PjtsPF9jdGwwOl9jdGw0OnVjTG9naW46aW1nQnRuR287Pj7VLGaMAxACa51H1t25tMchAqHe3Q==">
 
 		<!-- Copyright 2001-2005, Clickability, Inc. All rights reserved.--> <script language="javascript1.2" src="http://a449.g.akamai.net/7/449/1776/000/button.clickability.com/90837/button_1/button.js">; </script> 
 		
@@ -35,7 +515,7 @@ window.location = RightNow.replace('p_search_text=xxx','p_search_text=' + search
 
 <table cellpadding="0" cellspacing="0" border="0">
 	<tbody><tr class="header_row" valign="top">
-		<td class="header_logo" align="left" colspan="3"><nobr><img alt="Christian Children's Fund Logo" src="/uploadedImages/public_site/navigation/logotop.gif" border="0"><img alt="Child photo" src="/uploadedImages/public_site/navigation/bannerchildren/img_13_top.jpg" border="0"></nobr></td>
+		<td class="header_logo" align="left" colspan="3"><nobr><img alt="Christian Children's Fund Logo" src="/uploadedImages/public_site/navigation/logotop.gif" border="0"><img alt="Child photo" src="/uploadedImages/public_site/navigation/bannerchildren/img_17_top.jpg" border="0"></nobr></td>
 	</tr>
 	<tr class="header_row" valign="top">
 		<td class="header_tools" align="left">
@@ -115,6 +595,8 @@ window.location = RightNow.replace('p_search_text=xxx','p_search_text=' + search
 			<tbody><tr>
 				<td class="leftnav_header">About CCF</td>
 			</tr><tr>
+				<td class="leftnav_content"><a href="http://www.christianchildrensfund.org:80/content.aspx?id=104" class="">Accountability</a></td>
+			</tr><tr>
 				<td class="leftnav_content"><a href="http://www.christianchildrensfund.org:80/content.aspx?id=555" class="">Mission &amp; ethics</a></td>
 			</tr><tr>
 				<td class="leftnav_content"><a href="http://www.christianchildrensfund.org:80/content.aspx?id=710" class="">Where we work</a></td>
@@ -144,7 +626,480 @@ window.location = RightNow.replace('p_search_text=xxx','p_search_text=' + search
 <!-- End left navigation bar -->
 <!-- Begin content area -->
 <td class="body_cell" width="482" align="left">
-	<!--startclickprintinclude--><h1><span class="Heads">Christian Children's Fund Privacy Policy</span></h1>
+	<!--startclickprintinclude-->
+<script language="JavaScript" type="text/javascript">
+<!--
+function CancelWindow() {
+	self.close();
+}
+
+function PopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize) {
+	var cToolBar = 'toolbar=0,location=0,directories=0,status=' + nResize + ',menubar=0,scrollbars=' + nScroll + ',resizable=' + nResize + ',width=' + nWidth + ',height=' + nHeight;
+	var popupwin = window.open(url, hWind, cToolBar);
+	return popupwin;
+}
+
+function openWindow(url){
+	newWindow=window.open(url,'newWin','tollbar=yes,location=yes,scrollbars=yes,width=300,hight=200')
+}
+
+function openWindow2(url){
+	newWindow=window.open(url,'newWin','tollbar=yes,menubar=yes,location=yes,scrollbars=yes,directories=yes')
+}
+
+function closeWindow()
+	{
+	if(newWindow && !newWindow.closed)
+		{
+			newWindow.close()
+		}	
+	}
+	
+function PopUpWindowFull (url, hWind, nWidth, nHeight, nResize)
+	{
+	var cToolBar = "toolbar=yes,location=yes,directories=yes,resizable=1,status=" + nResize + ",menubar=yes,scrollbars=yes,width=" + nWidth + ",height=" + nHeight
+	var popupwin = window.open(url, hWind, cToolBar);
+	return popupwin;
+	}
+
+function QuickLinkSelect(baseFolderID, formName,  titleFormElem, useQLinkCheck, SetBrowserState) {
+	// There are specific requirements for this function. See "QuickLinkSelect.asp" for those.
+	//
+	var sendQString = '?folderid=' + baseFolderID + '&formName=' + formName + '&titleFormElem=' + 
+				titleFormElem + '&useQLinkCheck=' +  useQLinkCheck + '&SetBrowserState=' + SetBrowserState;
+	var cToolBar = 'toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=1,resizable=1,width=450,height=300';
+				
+	window.open('QuickLinkSelect.asp' + sendQString, 'QlinkSelectWin', cToolBar) ;
+	
+	return true ;
+}
+
+function Trim (string) {
+	if (string.length > 0) {
+		string = RemoveLeadingSpaces (string);
+	}
+	if (string.length > 0) {
+		string = RemoveTrailingSpaces(string);
+	}
+	return string;
+}
+	
+function RemoveLeadingSpaces(string) {
+	while(string.substring(0, 1) == " ") {
+		string = string.substring(1, string.length);
+	}
+	return string;
+}
+
+function RemoveTrailingSpaces(string) {
+	while(string.substring((string.length - 1), string.length) == " ") {
+		string = string.substring(0, (string.length - 1));
+	}
+	return string;
+}
+	
+function EnableElement(id, bEnable)
+{
+	var objElem = document.getElementById(id);
+	if (objElem)
+	{
+		// Mozilla FireFox 1.0 does not support .disabled for <label>
+		if (typeof objElem.disabled != "undefined")
+		{
+			objElem.disabled = !bEnable;
+		}
+		// if a label, follow the 'for' attribute as well
+		if (typeof objElem.htmlFor != "undefined")
+		{
+			// don't use recursion to avoid possibility of infinite recursion
+			objElem = document.getElementById(objElem.htmlFor);
+			if (objElem && typeof objElem.disabled != "undefined")
+			{
+				objElem.disabled = !bEnable;
+			}
+		}
+	}
+}
+	
+function ShowElement(id, bShow)
+{
+	var objElem = document.getElementById(id);
+	if (objElem)
+	{
+		objElem.style.display = (bShow ? "" : "none");
+		ShowSelectElements(objElem, bShow);	
+	}
+}
+
+function ShowSelectElements(objElem, bShow)
+// due to a bug in IE, descendent select lists may still be displayed
+// so target each individually
+{
+	if (!objElem) return;
+	if ("undefined" == typeof objElem.children) return;
+	if ("SELECT" == objElem.tagName)
+	{
+		objElem.style.display = (bShow ? "" : "none");
+	}
+	else
+	{
+		for (var i = 0; i < objElem.children.length; i++)
+		{
+			ShowSelectElements(objElem.children[i], bShow);
+		}
+	}
+}
+
+function GetElementValue(oElem)
+{
+	if (!oElem) return;
+	if (typeof oElem.value != "undefined")
+	{
+		if ("INPUT" == oElem.tagName && ("checkbox" == oElem.type || "radio" == oElem.type))
+		{
+			var strValue = oElem.value + "";
+			if (strValue.length > 0 && strValue != "true")
+			{
+				if (oElem.checked)
+				{
+					return strValue;
+				}
+				else
+				{
+					return "";
+				}
+			}
+			else // boolean
+			{
+				if (oElem.checked)
+				{
+					return true;
+				}
+				else
+				{
+					return false;
+				}
+			}
+		}
+		else
+		{
+			return oElem.value;
+		}
+	}
+	else if (typeof oElem.innerHTML != "undefined")
+	{
+		return oElem.innerHTML;
+	}
+	else if (typeof oElem.innerText != "undefined")
+	{
+		return oElem.innerText;
+	}
+	else
+	{
+		return; // no value
+	}
+}
+
+function SetElementValue(oElem, value)
+{
+	if (!oElem) return;
+	if (typeof oElem.value != "undefined")
+	{
+		if ("INPUT" == oElem.tagName && ("checkbox" == oElem.type))
+		{
+			// boolean
+			if ("true" == value || true == value)
+			{
+				oElem.checked = true;
+			}
+			else if ("false" == value || false == value)
+			{
+				oElem.checked = false;
+			}
+			else
+			{
+				oElem.value = value;
+			}
+		}
+		else
+		{
+			oElem.value = value;
+		}
+	}
+	else if (typeof oElem.innerHTML != "undefined")
+	{
+		oElem.innerHTML = value;
+	}
+	else if (typeof oElem.innerText != "undefined")
+	{
+		oElem.innerText = value;
+	}
+}
+
+function numberValidate(field)
+{
+	if (field.value == "")
+	{
+		return true;
+	}
+	if ((! /^\d+$/.test(field.value)) && field.value != "") 
+	{  
+		alert("You must use only numeric characters");
+		field.value = "";
+		field.focus();
+		return false;		
+	} 
+	return true;
+}
+	
+function textareaValidate(field)
+{
+	var strText = GetElementValue(field) + "";
+	var len = strText.length;
+	if(len > 500)
+	{
+		alert("Over limit of characters in text box.");
+		field.focus();
+		return false;	
+	}
+	return true;
+}
+
+function ValidateMeta(formName)
+// CAUTION: do not name this function 'V a l i d a t e M e t a d a t a', 
+// suspect the word 'M e t a d a t a' causes ASP to omit the JavaScript
+{
+
+	var reqfields;
+	var validationfields;
+	var validpair;
+	var objform = document.forms[formName];
+	if(objform.req_fields)
+	{
+		reqfields = objform.req_fields.value.split(",");
+		for(var i = 0; i < reqfields.length; i++)
+		{
+			if(objform.elements[reqfields[i]])
+			{
+				if(objform.elements[reqfields[i]].value == "")
+				{
+					alert('js: alert cannot submit meta incomplete');
+					//objform.elements[reqfields[i]].focus();
+					return false;
+				}
+			}
+		}
+	}
+	if(objform.needed_validation)
+	{
+		validationfields = objform.needed_validation.value.split(":");
+		for(var j = 0; j < validationfields.length; j++)
+		{
+			validpair = validationfields[j].split(",");
+			if(objform.elements[validpair[0]])
+			{
+				if(validpair[1] == "number")
+				{
+					if(!numberValidate(objform.elements[validpair[0]]))
+					{
+						return false;
+					}
+				}
+				else if(validpair[1] == "text")
+				{
+					if(!textareaValidate(objform.elements[validpair[0]]))
+					{
+						return false;
+					}
+				}
+				else if(validpair[1] == "date")
+				{
+					var originalDate;
+					var arrayForNumber = validpair[0].split("_");
+					if(arrayForNumber.length > 0)
+					{
+						if(arrayForNumber[0] = "frm_text")
+						{
+							originalDate = "frm_text_sel" + arrayForNumber[arrayForNumber.length-1];
+							objform.elements[originalDate].value = Trim(objform.elements[originalDate].value);
+						}
+					}
+					else
+					{
+						originalDate = validpair[0];
+					}
+					if(!CheckDate(objform.elements[originalDate].value))
+					{
+						return false;
+					}
+				}
+			}	
+		}
+	}
+	return true;
+}
+
+// -->
+</script>
+<script language="JavaScript" src="java/datejsfunc.js"></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+function OpenCalendarForElement(id, id_data) {
+	var ctrlObj;
+	ctrlObj=document.getElementById(id);
+	if ((null != ctrlObj) && ('object' == (typeof(ctrlObj)).toLowerCase())) {
+		ctrlObj.value = Trim(ctrlObj.value);
+		CallCalendarForElement(ctrlObj.value, '/cms300scripts/calendar.asp', id, id_data, ctrlObj.form.name);
+	}
+}
+function CallCalendarForElement(date, pagename, ctrl, hctrl, formname){	
+	var regexp1 = / /gi;
+	var template;
+	var paremeter;
+	var Url;
+	var items = pagename.split('?');
+	if (items.length == 2 ) {
+		template = items[0].toLowerCase();
+		paremeter = items[1].toLowerCase();
+	}
+	else{
+		template = pagename.toLowerCase();
+		paremeter= '';
+	}
+	if (date.replace(regexp1, '') == '')
+	{
+		Url = template + '?form=' + formname + '&ctrl=' + ctrl + '&hctrl=' + hctrl;
+		if (paremeter.length){
+			Url = Url + '&' + paremeter;
+		} 
+		PopUpWindow (Url, 'Calendar', 325, 280, 0, 1);
+	}
+	else {
+		//if (CheckDate(date)) {
+			date = RemoveLeadingSpaces(date);
+			var date_times = date.split(' ');
+			if (date_times.length < 2) {
+				var times = '';
+				var hours = '';
+			}
+			else {
+				var times = date_times[1].split(':');
+				var hours = times[0].replace(regexp1, '');
+			}
+			if (times.length < 2) {
+				var minutes = '';
+			}
+			else {
+				var minutes = times[1].replace(regexp1, '');
+			}
+			if (times.length < 3) {
+				var seconds = '';
+			}
+			else {
+				var seconds = times[2].replace(regexp1, '');
+			}
+			if (date_times.length < 2) {
+				var ampm = '';
+			}
+			else {
+				var ampm = date_times[2].replace(regexp1, '');
+			}
+			Url = template + '?form=' + formname + '&ctrl=' + ctrl + '&hctrl=' + hctrl + '&startdate=' + date_times[0] + '&showdate=1';
+										+ '&hours=' + hours + '&minutes=' + minutes + '&seconds=' + seconds + '&tt=' + ampm;
+			if (paremeter.length){
+				Url = Url + '&' + paremeter;
+			}
+											
+			PopUpWindow (Url,'Calendar', 325, 280, 0, 1);
+		//}
+	}
+}	
+function UpdateTextCounter(id, maxlimit) {
+	var objText = document.getElementById(id);
+	var objCount = document.getElementById(id + "_len");
+	if (objText && objCount)
+	{
+		var strText = GetElementValue(objText) + "";
+		var len = strText.length;
+		if (len > maxlimit) {
+			objCount.style.color = "red";
+			objCount.style.fontWeight = "bold";
+		}
+		else
+		{
+			objCount.style.color = "";
+			objCount.style.fontWeight = "";
+		}
+		SetElementValue(objCount, len);
+	}
+}
+function SetDefault(id) {
+	var objElem = document.getElementById(id);
+	if (!objElem) return;
+	var objDefault = document.getElementById(id + "default");
+	if (!objDefault) return;
+	if (confirm("js: confirm restore default text"))
+	{
+		objElem.value = objDefault.value;
+		if ("function" == typeof objElem.onchange)
+		{
+			try
+			{
+				objElem.onchange();
+			}
+			catch (e)
+			{
+				// just in case something goes wrong
+			}
+		}
+	}
+}
+function booleanSelected(selfield, textfield, falsevalue, truevalue) {
+	textfield.value = (selfield.checked ? truevalue : falsevalue);
+}
+function outputSelected(selfield,textfield,seperator) {
+	var retValue;
+	var sel = getSelected(selfield);
+    var strSel = "";
+   	for (var item in sel) {       
+		strSel += sel[item].value + seperator + " ";
+    }
+    strSel = strSel.substring(0, strSel.length-2);
+    var ch = strSel.substring(0, 1);
+    if (ch == seperator) {
+		strSel = strSel.substring(1, strSel.length);
+    }
+    if(document.forms[0])
+    {
+		document.forms[0].elements[textfield].value = strSel;
+	}
+}
+				
+function getSelected(opt) {
+   var selected = new Array();
+   var index = 0;
+   for (var intLoop = 0; intLoop < opt.length; intLoop++) {
+      if ((opt[intLoop].selected) ||
+          (opt[intLoop].checked)) {
+         index = selected.length;
+         selected[index] = new Object;
+         selected[index].value = opt[intLoop].value;
+         selected[index].index = intLoop;
+      }
+   }
+   return selected;
+}
+// -->
+</script>
+<!-- Copyright 2001-2005, Clickability, Inc. All rights reserved.//--><script language="javascript1.2"><!--
+ var clickTitle="Christian Children's Fund Privacy Policy";
+//-->
+</script><script language="javascript1.2" src="http://a449.g.akamai.net/7/449/1776/000/button.clickability.com/90837/button_1/button.js"><!--
+
+//-->
+</script> 
+
+<h1><span class="Heads">Christian Children's Fund Privacy Policy</span></h1>
 
 <p><strong><br>
 </strong><span class="Body">We at the Christian Children’s Fund (“CCF”) respect your concerns about privacy and value the relationship we have with you.&nbsp; This Privacy Notice describes the types of personal information we collect on our website, how we may use that information, and with whom we may share it.&nbsp; Our Privacy Notice also describes the measures we take to protect the security of the information.&nbsp; In addition, we describe the choices you can make about how we use the information you provide to us.&nbsp; We also tell you how you can reach us to update your contact information, remove your name from our mailing lists, or answer any questions you may have about our privacy practices.<br>
@@ -237,6 +1192,9 @@ Richmond, VA&nbsp; 23294&nbsp; USA</span></span></p>
 </span></span></p>
 
 <p><span class="Body"><span class="Body">Return to</span></span> <a href="/content.aspx?id=740"><span class="Body"><span class="Body"><u>Terms and Conditions</u></span></span></a></p>
+
+<a onmouseover="return(STMouseOver());" onclick="return(ST());" onmouseout="return(STMouseOut());" href="#"><img src="/uploadedImages/Public_Site/country_pers_data/single_child/Sample_Folder/save.gif" border="0"></a>&nbsp;&nbsp; <a onmouseover="return(ETMouseOver());" onclick="return(ET());" onmouseout="return(ETMouseOut());" href="#"><img src="/uploadedImages/Public_Site/country_pers_data/single_child/Sample_Folder/email.gif" border="0"></a>&nbsp; <a onmouseover="return(PTMouseOver());" onclick="return(PT());" onmouseout="return(PTMouseOut());" href="#"><img src="/uploadedImages/Public_Site/country_pers_data/single_child/Sample_Folder/print.gif" border="0"></a>
+
 <!--endclickprintinclude--> 
 
 </td>
@@ -293,7 +1251,473 @@ function noPostBack(sNewFormAction)
 	<!--Targetted Appeal-->
 	<tr valign="top">
 		<td align="center">
-			<span id="_ctl0__ctl4_lblContent"></span>
+			<span id="_ctl0__ctl4_lblContent">
+<script language="JavaScript" type="text/javascript">
+<!--
+function CancelWindow() {
+	self.close();
+}
+
+function PopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize) {
+	var cToolBar = 'toolbar=0,location=0,directories=0,status=' + nResize + ',menubar=0,scrollbars=' + nScroll + ',resizable=' + nResize + ',width=' + nWidth + ',height=' + nHeight;
+	var popupwin = window.open(url, hWind, cToolBar);
+	return popupwin;
+}
+
+function openWindow(url){
+	newWindow=window.open(url,'newWin','tollbar=yes,location=yes,scrollbars=yes,width=300,hight=200')
+}
+
+function openWindow2(url){
+	newWindow=window.open(url,'newWin','tollbar=yes,menubar=yes,location=yes,scrollbars=yes,directories=yes')
+}
+
+function closeWindow()
+	{
+	if(newWindow && !newWindow.closed)
+		{
+			newWindow.close()
+		}	
+	}
+	
+function PopUpWindowFull (url, hWind, nWidth, nHeight, nResize)
+	{
+	var cToolBar = "toolbar=yes,location=yes,directories=yes,resizable=1,status=" + nResize + ",menubar=yes,scrollbars=yes,width=" + nWidth + ",height=" + nHeight
+	var popupwin = window.open(url, hWind, cToolBar);
+	return popupwin;
+	}
+
+function QuickLinkSelect(baseFolderID, formName,  titleFormElem, useQLinkCheck, SetBrowserState) {
+	// There are specific requirements for this function. See "QuickLinkSelect.asp" for those.
+	//
+	var sendQString = '?folderid=' + baseFolderID + '&formName=' + formName + '&titleFormElem=' + 
+				titleFormElem + '&useQLinkCheck=' +  useQLinkCheck + '&SetBrowserState=' + SetBrowserState;
+	var cToolBar = 'toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=1,resizable=1,width=450,height=300';
+				
+	window.open('QuickLinkSelect.asp' + sendQString, 'QlinkSelectWin', cToolBar) ;
+	
+	return true ;
+}
+
+function Trim (string) {
+	if (string.length > 0) {
+		string = RemoveLeadingSpaces (string);
+	}
+	if (string.length > 0) {
+		string = RemoveTrailingSpaces(string);
+	}
+	return string;
+}
+	
+function RemoveLeadingSpaces(string) {
+	while(string.substring(0, 1) == " ") {
+		string = string.substring(1, string.length);
+	}
+	return string;
+}
+
+function RemoveTrailingSpaces(string) {
+	while(string.substring((string.length - 1), string.length) == " ") {
+		string = string.substring(0, (string.length - 1));
+	}
+	return string;
+}
+	
+function EnableElement(id, bEnable)
+{
+	var objElem = document.getElementById(id);
+	if (objElem)
+	{
+		// Mozilla FireFox 1.0 does not support .disabled for <label>
+		if (typeof objElem.disabled != "undefined")
+		{
+			objElem.disabled = !bEnable;
+		}
+		// if a label, follow the 'for' attribute as well
+		if (typeof objElem.htmlFor != "undefined")
+		{
+			// don't use recursion to avoid possibility of infinite recursion
+			objElem = document.getElementById(objElem.htmlFor);
+			if (objElem && typeof objElem.disabled != "undefined")
+			{
+				objElem.disabled = !bEnable;
+			}
+		}
+	}
+}
+	
+function ShowElement(id, bShow)
+{
+	var objElem = document.getElementById(id);
+	if (objElem)
+	{
+		objElem.style.display = (bShow ? "" : "none");
+		ShowSelectElements(objElem, bShow);	
+	}
+}
+
+function ShowSelectElements(objElem, bShow)
+// due to a bug in IE, descendent select lists may still be displayed
+// so target each individually
+{
+	if (!objElem) return;
+	if ("undefined" == typeof objElem.children) return;
+	if ("SELECT" == objElem.tagName)
+	{
+		objElem.style.display = (bShow ? "" : "none");
+	}
+	else
+	{
+		for (var i = 0; i < objElem.children.length; i++)
+		{
+			ShowSelectElements(objElem.children[i], bShow);
+		}
+	}
+}
+
+function GetElementValue(oElem)
+{
+	if (!oElem) return;
+	if (typeof oElem.value != "undefined")
+	{
+		if ("INPUT" == oElem.tagName && ("checkbox" == oElem.type || "radio" == oElem.type))
+		{
+			var strValue = oElem.value + "";
+			if (strValue.length > 0 && strValue != "true")
+			{
+				if (oElem.checked)
+				{
+					return strValue;
+				}
+				else
+				{
+					return "";
+				}
+			}
+			else // boolean
+			{
+				if (oElem.checked)
+				{
+					return true;
+				}
+				else
+				{
+					return false;
+				}
+			}
+		}
+		else
+		{
+			return oElem.value;
+		}
+	}
+	else if (typeof oElem.innerHTML != "undefined")
+	{
+		return oElem.innerHTML;
+	}
+	else if (typeof oElem.innerText != "undefined")
+	{
+		return oElem.innerText;
+	}
+	else
+	{
+		return; // no value
+	}
+}
+
+function SetElementValue(oElem, value)
+{
+	if (!oElem) return;
+	if (typeof oElem.value != "undefined")
+	{
+		if ("INPUT" == oElem.tagName && ("checkbox" == oElem.type))
+		{
+			// boolean
+			if ("true" == value || true == value)
+			{
+				oElem.checked = true;
+			}
+			else if ("false" == value || false == value)
+			{
+				oElem.checked = false;
+			}
+			else
+			{
+				oElem.value = value;
+			}
+		}
+		else
+		{
+			oElem.value = value;
+		}
+	}
+	else if (typeof oElem.innerHTML != "undefined")
+	{
+		oElem.innerHTML = value;
+	}
+	else if (typeof oElem.innerText != "undefined")
+	{
+		oElem.innerText = value;
+	}
+}
+
+function numberValidate(field)
+{
+	if (field.value == "")
+	{
+		return true;
+	}
+	if ((! /^\d+$/.test(field.value)) && field.value != "") 
+	{  
+		alert("You must use only numeric characters");
+		field.value = "";
+		field.focus();
+		return false;		
+	} 
+	return true;
+}
+	
+function textareaValidate(field)
+{
+	var strText = GetElementValue(field) + "";
+	var len = strText.length;
+	if(len > 500)
+	{
+		alert("Over limit of characters in text box.");
+		field.focus();
+		return false;	
+	}
+	return true;
+}
+
+function ValidateMeta(formName)
+// CAUTION: do not name this function 'V a l i d a t e M e t a d a t a', 
+// suspect the word 'M e t a d a t a' causes ASP to omit the JavaScript
+{
+
+	var reqfields;
+	var validationfields;
+	var validpair;
+	var objform = document.forms[formName];
+	if(objform.req_fields)
+	{
+		reqfields = objform.req_fields.value.split(",");
+		for(var i = 0; i < reqfields.length; i++)
+		{
+			if(objform.elements[reqfields[i]])
+			{
+				if(objform.elements[reqfields[i]].value == "")
+				{
+					alert('js: alert cannot submit meta incomplete');
+					//objform.elements[reqfields[i]].focus();
+					return false;
+				}
+			}
+		}
+	}
+	if(objform.needed_validation)
+	{
+		validationfields = objform.needed_validation.value.split(":");
+		for(var j = 0; j < validationfields.length; j++)
+		{
+			validpair = validationfields[j].split(",");
+			if(objform.elements[validpair[0]])
+			{
+				if(validpair[1] == "number")
+				{
+					if(!numberValidate(objform.elements[validpair[0]]))
+					{
+						return false;
+					}
+				}
+				else if(validpair[1] == "text")
+				{
+					if(!textareaValidate(objform.elements[validpair[0]]))
+					{
+						return false;
+					}
+				}
+				else if(validpair[1] == "date")
+				{
+					var originalDate;
+					var arrayForNumber = validpair[0].split("_");
+					if(arrayForNumber.length > 0)
+					{
+						if(arrayForNumber[0] = "frm_text")
+						{
+							originalDate = "frm_text_sel" + arrayForNumber[arrayForNumber.length-1];
+							objform.elements[originalDate].value = Trim(objform.elements[originalDate].value);
+						}
+					}
+					else
+					{
+						originalDate = validpair[0];
+					}
+					if(!CheckDate(objform.elements[originalDate].value))
+					{
+						return false;
+					}
+				}
+			}	
+		}
+	}
+	return true;
+}
+
+// -->
+</script>
+<script language="JavaScript" src="java/datejsfunc.js"></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+function OpenCalendarForElement(id, id_data) {
+	var ctrlObj;
+	ctrlObj=document.getElementById(id);
+	if ((null != ctrlObj) && ('object' == (typeof(ctrlObj)).toLowerCase())) {
+		ctrlObj.value = Trim(ctrlObj.value);
+		CallCalendarForElement(ctrlObj.value, '/cms300scripts/calendar.asp', id, id_data, ctrlObj.form.name);
+	}
+}
+function CallCalendarForElement(date, pagename, ctrl, hctrl, formname){	
+	var regexp1 = / /gi;
+	var template;
+	var paremeter;
+	var Url;
+	var items = pagename.split('?');
+	if (items.length == 2 ) {
+		template = items[0].toLowerCase();
+		paremeter = items[1].toLowerCase();
+	}
+	else{
+		template = pagename.toLowerCase();
+		paremeter= '';
+	}
+	if (date.replace(regexp1, '') == '')
+	{
+		Url = template + '?form=' + formname + '&ctrl=' + ctrl + '&hctrl=' + hctrl;
+		if (paremeter.length){
+			Url = Url + '&' + paremeter;
+		} 
+		PopUpWindow (Url, 'Calendar', 325, 280, 0, 1);
+	}
+	else {
+		//if (CheckDate(date)) {
+			date = RemoveLeadingSpaces(date);
+			var date_times = date.split(' ');
+			if (date_times.length < 2) {
+				var times = '';
+				var hours = '';
+			}
+			else {
+				var times = date_times[1].split(':');
+				var hours = times[0].replace(regexp1, '');
+			}
+			if (times.length < 2) {
+				var minutes = '';
+			}
+			else {
+				var minutes = times[1].replace(regexp1, '');
+			}
+			if (times.length < 3) {
+				var seconds = '';
+			}
+			else {
+				var seconds = times[2].replace(regexp1, '');
+			}
+			if (date_times.length < 2) {
+				var ampm = '';
+			}
+			else {
+				var ampm = date_times[2].replace(regexp1, '');
+			}
+			Url = template + '?form=' + formname + '&ctrl=' + ctrl + '&hctrl=' + hctrl + '&startdate=' + date_times[0] + '&showdate=1';
+										+ '&hours=' + hours + '&minutes=' + minutes + '&seconds=' + seconds + '&tt=' + ampm;
+			if (paremeter.length){
+				Url = Url + '&' + paremeter;
+			}
+											
+			PopUpWindow (Url,'Calendar', 325, 280, 0, 1);
+		//}
+	}
+}	
+function UpdateTextCounter(id, maxlimit) {
+	var objText = document.getElementById(id);
+	var objCount = document.getElementById(id + "_len");
+	if (objText && objCount)
+	{
+		var strText = GetElementValue(objText) + "";
+		var len = strText.length;
+		if (len > maxlimit) {
+			objCount.style.color = "red";
+			objCount.style.fontWeight = "bold";
+		}
+		else
+		{
+			objCount.style.color = "";
+			objCount.style.fontWeight = "";
+		}
+		SetElementValue(objCount, len);
+	}
+}
+function SetDefault(id) {
+	var objElem = document.getElementById(id);
+	if (!objElem) return;
+	var objDefault = document.getElementById(id + "default");
+	if (!objDefault) return;
+	if (confirm("js: confirm restore default text"))
+	{
+		objElem.value = objDefault.value;
+		if ("function" == typeof objElem.onchange)
+		{
+			try
+			{
+				objElem.onchange();
+			}
+			catch (e)
+			{
+				// just in case something goes wrong
+			}
+		}
+	}
+}
+function booleanSelected(selfield, textfield, falsevalue, truevalue) {
+	textfield.value = (selfield.checked ? truevalue : falsevalue);
+}
+function outputSelected(selfield,textfield,seperator) {
+	var retValue;
+	var sel = getSelected(selfield);
+    var strSel = "";
+   	for (var item in sel) {       
+		strSel += sel[item].value + seperator + " ";
+    }
+    strSel = strSel.substring(0, strSel.length-2);
+    var ch = strSel.substring(0, 1);
+    if (ch == seperator) {
+		strSel = strSel.substring(1, strSel.length);
+    }
+    if(document.forms[0])
+    {
+		document.forms[0].elements[textfield].value = strSel;
+	}
+}
+				
+function getSelected(opt) {
+   var selected = new Array();
+   var index = 0;
+   for (var intLoop = 0; intLoop < opt.length; intLoop++) {
+      if ((opt[intLoop].selected) ||
+          (opt[intLoop].checked)) {
+         index = selected.length;
+         selected[index] = new Object;
+         selected[index].value = opt[intLoop].value;
+         selected[index].index = intLoop;
+      }
+   }
+   return selected;
+}
+// -->
+</script>
+
+</span>
 		</td>
 	</tr>
 </tbody></table>
@@ -314,31 +1738,505 @@ function noPostBack(sNewFormAction)
 <!--Insert Ektron footer element -->
 <tr>
 <td>
-	<table>
+	
+<script language="JavaScript" type="text/javascript">
+<!--
+function CancelWindow() {
+	self.close();
+}
+
+function PopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize) {
+	var cToolBar = 'toolbar=0,location=0,directories=0,status=' + nResize + ',menubar=0,scrollbars=' + nScroll + ',resizable=' + nResize + ',width=' + nWidth + ',height=' + nHeight;
+	var popupwin = window.open(url, hWind, cToolBar);
+	return popupwin;
+}
+
+function openWindow(url){
+	newWindow=window.open(url,'newWin','tollbar=yes,location=yes,scrollbars=yes,width=300,hight=200')
+}
+
+function openWindow2(url){
+	newWindow=window.open(url,'newWin','tollbar=yes,menubar=yes,location=yes,scrollbars=yes,directories=yes')
+}
+
+function closeWindow()
+	{
+	if(newWindow && !newWindow.closed)
+		{
+			newWindow.close()
+		}	
+	}
+	
+function PopUpWindowFull (url, hWind, nWidth, nHeight, nResize)
+	{
+	var cToolBar = "toolbar=yes,location=yes,directories=yes,resizable=1,status=" + nResize + ",menubar=yes,scrollbars=yes,width=" + nWidth + ",height=" + nHeight
+	var popupwin = window.open(url, hWind, cToolBar);
+	return popupwin;
+	}
+
+function QuickLinkSelect(baseFolderID, formName,  titleFormElem, useQLinkCheck, SetBrowserState) {
+	// There are specific requirements for this function. See "QuickLinkSelect.asp" for those.
+	//
+	var sendQString = '?folderid=' + baseFolderID + '&formName=' + formName + '&titleFormElem=' + 
+				titleFormElem + '&useQLinkCheck=' +  useQLinkCheck + '&SetBrowserState=' + SetBrowserState;
+	var cToolBar = 'toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=1,resizable=1,width=450,height=300';
+				
+	window.open('QuickLinkSelect.asp' + sendQString, 'QlinkSelectWin', cToolBar) ;
+	
+	return true ;
+}
+
+function Trim (string) {
+	if (string.length > 0) {
+		string = RemoveLeadingSpaces (string);
+	}
+	if (string.length > 0) {
+		string = RemoveTrailingSpaces(string);
+	}
+	return string;
+}
+	
+function RemoveLeadingSpaces(string) {
+	while(string.substring(0, 1) == " ") {
+		string = string.substring(1, string.length);
+	}
+	return string;
+}
+
+function RemoveTrailingSpaces(string) {
+	while(string.substring((string.length - 1), string.length) == " ") {
+		string = string.substring(0, (string.length - 1));
+	}
+	return string;
+}
+	
+function EnableElement(id, bEnable)
+{
+	var objElem = document.getElementById(id);
+	if (objElem)
+	{
+		// Mozilla FireFox 1.0 does not support .disabled for <label>
+		if (typeof objElem.disabled != "undefined")
+		{
+			objElem.disabled = !bEnable;
+		}
+		// if a label, follow the 'for' attribute as well
+		if (typeof objElem.htmlFor != "undefined")
+		{
+			// don't use recursion to avoid possibility of infinite recursion
+			objElem = document.getElementById(objElem.htmlFor);
+			if (objElem && typeof objElem.disabled != "undefined")
+			{
+				objElem.disabled = !bEnable;
+			}
+		}
+	}
+}
+	
+function ShowElement(id, bShow)
+{
+	var objElem = document.getElementById(id);
+	if (objElem)
+	{
+		objElem.style.display = (bShow ? "" : "none");
+		ShowSelectElements(objElem, bShow);	
+	}
+}
+
+function ShowSelectElements(objElem, bShow)
+// due to a bug in IE, descendent select lists may still be displayed
+// so target each individually
+{
+	if (!objElem) return;
+	if ("undefined" == typeof objElem.children) return;
+	if ("SELECT" == objElem.tagName)
+	{
+		objElem.style.display = (bShow ? "" : "none");
+	}
+	else
+	{
+		for (var i = 0; i < objElem.children.length; i++)
+		{
+			ShowSelectElements(objElem.children[i], bShow);
+		}
+	}
+}
+
+function GetElementValue(oElem)
+{
+	if (!oElem) return;
+	if (typeof oElem.value != "undefined")
+	{
+		if ("INPUT" == oElem.tagName && ("checkbox" == oElem.type || "radio" == oElem.type))
+		{
+			var strValue = oElem.value + "";
+			if (strValue.length > 0 && strValue != "true")
+			{
+				if (oElem.checked)
+				{
+					return strValue;
+				}
+				else
+				{
+					return "";
+				}
+			}
+			else // boolean
+			{
+				if (oElem.checked)
+				{
+					return true;
+				}
+				else
+				{
+					return false;
+				}
+			}
+		}
+		else
+		{
+			return oElem.value;
+		}
+	}
+	else if (typeof oElem.innerHTML != "undefined")
+	{
+		return oElem.innerHTML;
+	}
+	else if (typeof oElem.innerText != "undefined")
+	{
+		return oElem.innerText;
+	}
+	else
+	{
+		return; // no value
+	}
+}
+
+function SetElementValue(oElem, value)
+{
+	if (!oElem) return;
+	if (typeof oElem.value != "undefined")
+	{
+		if ("INPUT" == oElem.tagName && ("checkbox" == oElem.type))
+		{
+			// boolean
+			if ("true" == value || true == value)
+			{
+				oElem.checked = true;
+			}
+			else if ("false" == value || false == value)
+			{
+				oElem.checked = false;
+			}
+			else
+			{
+				oElem.value = value;
+			}
+		}
+		else
+		{
+			oElem.value = value;
+		}
+	}
+	else if (typeof oElem.innerHTML != "undefined")
+	{
+		oElem.innerHTML = value;
+	}
+	else if (typeof oElem.innerText != "undefined")
+	{
+		oElem.innerText = value;
+	}
+}
+
+function numberValidate(field)
+{
+	if (field.value == "")
+	{
+		return true;
+	}
+	if ((! /^\d+$/.test(field.value)) && field.value != "") 
+	{  
+		alert("You must use only numeric characters");
+		field.value = "";
+		field.focus();
+		return false;		
+	} 
+	return true;
+}
+	
+function textareaValidate(field)
+{
+	var strText = GetElementValue(field) + "";
+	var len = strText.length;
+	if(len > 500)
+	{
+		alert("Over limit of characters in text box.");
+		field.focus();
+		return false;	
+	}
+	return true;
+}
+
+function ValidateMeta(formName)
+// CAUTION: do not name this function 'V a l i d a t e M e t a d a t a', 
+// suspect the word 'M e t a d a t a' causes ASP to omit the JavaScript
+{
+
+	var reqfields;
+	var validationfields;
+	var validpair;
+	var objform = document.forms[formName];
+	if(objform.req_fields)
+	{
+		reqfields = objform.req_fields.value.split(",");
+		for(var i = 0; i < reqfields.length; i++)
+		{
+			if(objform.elements[reqfields[i]])
+			{
+				if(objform.elements[reqfields[i]].value == "")
+				{
+					alert('js: alert cannot submit meta incomplete');
+					//objform.elements[reqfields[i]].focus();
+					return false;
+				}
+			}
+		}
+	}
+	if(objform.needed_validation)
+	{
+		validationfields = objform.needed_validation.value.split(":");
+		for(var j = 0; j < validationfields.length; j++)
+		{
+			validpair = validationfields[j].split(",");
+			if(objform.elements[validpair[0]])
+			{
+				if(validpair[1] == "number")
+				{
+					if(!numberValidate(objform.elements[validpair[0]]))
+					{
+						return false;
+					}
+				}
+				else if(validpair[1] == "text")
+				{
+					if(!textareaValidate(objform.elements[validpair[0]]))
+					{
+						return false;
+					}
+				}
+				else if(validpair[1] == "date")
+				{
+					var originalDate;
+					var arrayForNumber = validpair[0].split("_");
+					if(arrayForNumber.length > 0)
+					{
+						if(arrayForNumber[0] = "frm_text")
+						{
+							originalDate = "frm_text_sel" + arrayForNumber[arrayForNumber.length-1];
+							objform.elements[originalDate].value = Trim(objform.elements[originalDate].value);
+						}
+					}
+					else
+					{
+						originalDate = validpair[0];
+					}
+					if(!CheckDate(objform.elements[originalDate].value))
+					{
+						return false;
+					}
+				}
+			}	
+		}
+	}
+	return true;
+}
+
+// -->
+</script>
+<script language="JavaScript" src="java/datejsfunc.js"></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+function OpenCalendarForElement(id, id_data) {
+	var ctrlObj;
+	ctrlObj=document.getElementById(id);
+	if ((null != ctrlObj) && ('object' == (typeof(ctrlObj)).toLowerCase())) {
+		ctrlObj.value = Trim(ctrlObj.value);
+		CallCalendarForElement(ctrlObj.value, '/cms300scripts/calendar.asp', id, id_data, ctrlObj.form.name);
+	}
+}
+function CallCalendarForElement(date, pagename, ctrl, hctrl, formname){	
+	var regexp1 = / /gi;
+	var template;
+	var paremeter;
+	var Url;
+	var items = pagename.split('?');
+	if (items.length == 2 ) {
+		template = items[0].toLowerCase();
+		paremeter = items[1].toLowerCase();
+	}
+	else{
+		template = pagename.toLowerCase();
+		paremeter= '';
+	}
+	if (date.replace(regexp1, '') == '')
+	{
+		Url = template + '?form=' + formname + '&ctrl=' + ctrl + '&hctrl=' + hctrl;
+		if (paremeter.length){
+			Url = Url + '&' + paremeter;
+		} 
+		PopUpWindow (Url, 'Calendar', 325, 280, 0, 1);
+	}
+	else {
+		//if (CheckDate(date)) {
+			date = RemoveLeadingSpaces(date);
+			var date_times = date.split(' ');
+			if (date_times.length < 2) {
+				var times = '';
+				var hours = '';
+			}
+			else {
+				var times = date_times[1].split(':');
+				var hours = times[0].replace(regexp1, '');
+			}
+			if (times.length < 2) {
+				var minutes = '';
+			}
+			else {
+				var minutes = times[1].replace(regexp1, '');
+			}
+			if (times.length < 3) {
+				var seconds = '';
+			}
+			else {
+				var seconds = times[2].replace(regexp1, '');
+			}
+			if (date_times.length < 2) {
+				var ampm = '';
+			}
+			else {
+				var ampm = date_times[2].replace(regexp1, '');
+			}
+			Url = template + '?form=' + formname + '&ctrl=' + ctrl + '&hctrl=' + hctrl + '&startdate=' + date_times[0] + '&showdate=1';
+										+ '&hours=' + hours + '&minutes=' + minutes + '&seconds=' + seconds + '&tt=' + ampm;
+			if (paremeter.length){
+				Url = Url + '&' + paremeter;
+			}
+											
+			PopUpWindow (Url,'Calendar', 325, 280, 0, 1);
+		//}
+	}
+}	
+function UpdateTextCounter(id, maxlimit) {
+	var objText = document.getElementById(id);
+	var objCount = document.getElementById(id + "_len");
+	if (objText && objCount)
+	{
+		var strText = GetElementValue(objText) + "";
+		var len = strText.length;
+		if (len > maxlimit) {
+			objCount.style.color = "red";
+			objCount.style.fontWeight = "bold";
+		}
+		else
+		{
+			objCount.style.color = "";
+			objCount.style.fontWeight = "";
+		}
+		SetElementValue(objCount, len);
+	}
+}
+function SetDefault(id) {
+	var objElem = document.getElementById(id);
+	if (!objElem) return;
+	var objDefault = document.getElementById(id + "default");
+	if (!objDefault) return;
+	if (confirm("js: confirm restore default text"))
+	{
+		objElem.value = objDefault.value;
+		if ("function" == typeof objElem.onchange)
+		{
+			try
+			{
+				objElem.onchange();
+			}
+			catch (e)
+			{
+				// just in case something goes wrong
+			}
+		}
+	}
+}
+function booleanSelected(selfield, textfield, falsevalue, truevalue) {
+	textfield.value = (selfield.checked ? truevalue : falsevalue);
+}
+function outputSelected(selfield,textfield,seperator) {
+	var retValue;
+	var sel = getSelected(selfield);
+    var strSel = "";
+   	for (var item in sel) {       
+		strSel += sel[item].value + seperator + " ";
+    }
+    strSel = strSel.substring(0, strSel.length-2);
+    var ch = strSel.substring(0, 1);
+    if (ch == seperator) {
+		strSel = strSel.substring(1, strSel.length);
+    }
+    if(document.forms[0])
+    {
+		document.forms[0].elements[textfield].value = strSel;
+	}
+}
+				
+function getSelected(opt) {
+   var selected = new Array();
+   var index = 0;
+   for (var intLoop = 0; intLoop < opt.length; intLoop++) {
+      if ((opt[intLoop].selected) ||
+          (opt[intLoop].checked)) {
+         index = selected.length;
+         selected[index] = new Object;
+         selected[index].value = opt[intLoop].value;
+         selected[index].index = intLoop;
+      }
+   }
+   return selected;
+}
+// -->
+</script>
+<table>
 <tbody>
 <tr class="footer_row" valign="top">
-<td class="footer" width="155"><br>
-<a href="http://www.give.org/seal.asp?ID=491312004" target="_blank"><img alt="BBB" src="/uploadedImages/Public_Site/60x90.gif" border="0"></a>&nbsp;<br>
-<br>
-<a href="/content.aspx?id=741"><strong>Privacy policy<span class="arrow">»</span></strong></a> <br>
-<br>
-<a href="/content.aspx?id=740"><strong>Terms of Use<span class="arrow">»</span></strong></a> </td>
-<td class="footer">
-<p><br>
-©2005 Christian Children's Fund<br>
-<br>
-<a href="http://www.childfundinternational.org/" target="_blank"><img alt="ChildFund" hspace="4" src="/uploadedImages/Public_Site/CF.jpg" align="middle" border="0">A member of ChildFund International</a>&nbsp;</p>
+<td class="footer" align="middle" width="160"><a href="http://www.give.org/seal.asp?ID=491312004" target="_blank"><img alt="BBB" src="/uploadedImages/Public_Site/60x90.gif" align="middle" border="0"></a></td>
+<td class="footer" align="middle">
+<p align="center">©2006 Christian Children's Fund</p>
 
-<p>We value your interest and&nbsp;feedback. You may contact us electronically through the <a href="/register/RNregister.aspx">Ask CCF link</a>.<br>
-<br>
-Or contact us&nbsp;by phone at 1-800-776-6767 Monday - Thursday 9 a.m.&nbsp;—&nbsp;7 p.m. (ET) and Friday 9:30 a.m. to 7 p.m. (Outside the United States, please call 804-756-2700).<br>
-<br>
-Or by mail at Christian Children's Fund, 2821 Emerywood Parkway, Richmond VA 23294 USA.</p>
+<p align="center"><a href="/content.aspx?id=741"><strong>Privacy Policy<span class="arrow">»</span></strong></a></p>
+
+<p align="center"><a href="/content.aspx?id=740"><strong>Terms of Use<span class="arrow">»</span></strong></a></p>
 </td>
-<td class="footer" width="160">&nbsp;</td>
+<td class="footer" align="middle" width="160"><a href="/content.aspx?id=1072"><img alt="Social Accountability International Certification" src="/uploadedImages/Public_Site/sai.gif" align="middle" border="0"></a> </td>
+</tr>
+
+<tr class="footer_row" valign="top">
+<td class="footer" valign="top" colspan="3">
+<p align="center"><a href="http://www.childfundinternational.org/" target="_blank"><img alt="ChildFund" hspace="4" src="/uploadedImages/Public_Site/CF.jpg" align="middle" border="0">A member of ChildFund International</a></p>
+</td>
+</tr>
+
+<tr class="footer_row" valign="top">
+<td class="footer" valign="top" colspan="3">
+<p align="left">We value your interest and feedback. You may contact us electronically through the <a href="/register/RNregister.aspx">Ask CCF link</a>.<br>
+<br>
+Or contact us by phone at 1-800-776-6767 Monday - Thursday 9 a.m. to 7 p.m. (ET) and Friday 9:30 a.m. to 7 p.m. (Outside the United States, please call 804-756-2700).<br>
+<br>
+Or by mail at Christian Children's Fund, 2821 Emerywood Parkway, Richmond VA 23294 USA</p>
+
+<p>&nbsp;</p>
+</td>
 </tr>
 </tbody>
 </table>
+
 
 
 </td>
