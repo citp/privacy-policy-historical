@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funology.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221200309id_/http%3A//www.funology.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funology.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615202558id_/http%3A//funology.com/privacy.htm) for the most accurate reproduction.*
 
 # Funology.com -- Privacy Policy
 
@@ -15,6 +15,16 @@ We want kids to have a good time at Funology.com, learn things, and be safe. We 
 
 
 We do not request any credit card or other financial information. While we screen our partners carefully, we are not responsible for the content or safety and privacy practices at any sites linked from our pages.
+
+**Third Party Advertising**
+
+We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here
+
+<http://www.maxonline.com/privacy_policy/index.php>
+
+**Third Party Cookies**
+
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
 
 Parents, please explore Funology.com with your kids. We think you’ll agree it’s a great place to be. If you have any questions about our privacy policies, or anything else, e-mail us at [webmaster@funology.com](mailto:webmaster@funology.com)
 
