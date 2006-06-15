@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rspb.org.uk privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219202555id_/http%3A//www.rspb.org.uk/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rspb.org.uk privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616004327id_/http%3A//www.rspb.org.uk/help/privacy.asp) for the most accurate reproduction.*
 
 # Privacy - The Royal Society for the Protection of Birds
 
@@ -45,7 +45,3 @@ Telephone: 01767 680551
 E-mail: [questions@rspb.org.uk](mailto:questions@rspb.org.uk)
 
 | 
-
-#### Links
-
-The RSPB is not responsible for the content of external websites.
