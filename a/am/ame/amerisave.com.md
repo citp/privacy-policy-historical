@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amerisave.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210081435id_/http%3A//www.amerisave.com/aboutus/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amerisave.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615235435id_/http%3A//www.amerisave.com/aboutus/privacy.cfm) for the most accurate reproduction.*
 
 # Amerisave Privacy Policy
 
@@ -8,11 +8,9 @@ All personal and financial information acquired by Amerisave is used to process 
 
 From time to time we may use third party advertising companies, to serve ads on our behalf across the Internet. Such advertising companies may collect anonymous information about your visits to our Web site and your interaction with our ads. For instance, it may keep track of how many of our ads you had seen before visiting our site. This is primarily accomplished through ad-serving software, including cookies and Action Tags (commonly referred to as a Web Beacons or GIF tags), which we place on various places within our Web site.
 
-None of Amerisave’s contracted advertising companies collect personally identifiable information through the use of ad-serving software or technologies. From time to time, we may share anonymous information with our advertising companies in an aggregate form, for purposes of analysis and improvement of our site.
+None of Amerisave's contracted advertising companies collect personally identifiable information through the use of ad-serving software or technologies. From time to time, we may share anonymous information with our advertising companies in an aggregate form, for purposes of analysis and improvement of our site.
 
-Amerisave’s contracted advertising companies may use information about your visits to this and other Web sites in order to provide ads about goods and services of interest to you.
-
-One such advertising company uses a program called Atlas, if you would like more information about this practice or the process of opting out of Atlas DMT's cookies, please visit [www.atlasdmt.com/privacy](http://www.atlasdmt.com/privacy).
+Amerisave's contracted advertising companies may use information about your visits to this and other Web sites in order to provide ads about goods and services of interest to you.
 
 Amerisave also partners with other third parties to provide specific services required in the processing of your loan. The information that is shared with our third parties is done so in order to acquire credit reports, appraisals, titles and lending. We share names, or other contact information that is necessary for the third party to provide these services. These third parties are not allowed to use personally identifiable information except for the purpose of providing these services.
 
