@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the delphiforums.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219185936id_/http%3A//www.delphiforums.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delphiforums.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615030859id_/http%3A//www.delphiforums.com/privacy.html) for the most accurate reproduction.*
 
 # Delphi Forums: Privacy Policy
 
@@ -52,7 +52,7 @@ Delphi Forums uses cookies to customize your experience while using the Forums. 
   
 **Advertising**  
   
-Delphi Forums uses third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit our Web site. These companies may use information about your visits to this and other Web sites (not including your name, address, email address or telephone number) in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <http://www.networkadvertising.org/optout_nonppii.asp>.
+Delphi Forums uses third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit our Web site. These companies may use information about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you (if you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <http://www.networkadvertising.org/optout_nonppii.asp>). Personally identifiable information such as your name, address, email address or telephone number are not shared with advertisers without your permission. We may use personally identifiable information in order to fill in forms on third-party sites we use to present advertising offers. But this information will not be shared and will not be stored by any third parties if you decline these offers.
 
  -top-  
   
