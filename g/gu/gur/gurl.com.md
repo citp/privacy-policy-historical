@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gurl.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218121614id_/http%3A//www.gurl.com/about/privacypolicy/pages/0%2C%2C621914%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gurl.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615033744id_/http%3A//www.gurl.com/about/privacypolicy/pages/0%2C%2C621914%2C00.html) for the most accurate reproduction.*
 
 # gURL.com - an interactive web thing for teen girls.
 
@@ -155,7 +155,7 @@ Questions regarding this Privacy Policy should be directed to us at [feedback@ma
   
 
 
-[](http://www.gurl.com/seasonal/holiday/0,,653146,00.html)  
+[](http://www.gurl.com/seasonal/summer/0,,,00.html)  
 |    
   
   
