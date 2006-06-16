@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bowlbrunswick.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219125438id_/http%3A//www.brunswickbowling.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bowlbrunswick.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616192630id_/http%3A//www.brunswickbowling.com/privacy_policy) for the most accurate reproduction.*
 
 # Terms of Use and Privacy Policy - Brunswick Bowling
 
@@ -126,9 +126,42 @@ This privacy policy addresses some types of information, means of collecting inf
 
 Brunswick takes its obligations to your privacy seriously. By completing and submitting web forms on this site or other sites covered by this privacy policy, you consent and authorize Brunswick to collect and disclose this information to its affiliates, dealers, and marketing agencies in order to better maintain its relationship with you, determine your needs, and to contact you regarding offers, programs, discounts, and surveys. Brunswick will not sell, share or rent this information to others except to our designated agents and strictly for our communication to you. If you choose to access, revise, or remove your personal information from Brunswick's database, located at Third Wave Research, 131 W. Wilson St., Ste. M102, Madison, WI 53703, please call the Brunswick Privacy Liaison, at (847)735-4700 or e-mail privacy@brunbowl.com
 
-**Child Online Privacy Protection Act (COPPA) Compliance and Related Information**
+**COPPA Privacy Policy**
 
-The Child Online Privacy and Protection Act (COPPA) regulates online collection of information from persons under the age of 13.  It is our policy to refrain from knowingly collecting or maintaining personally identifiable information relating to any person under the age of 18. If you are under the age of 18, please do not supply any personally identifiable information through the site. If you are under the age of 18 and have already provided personally identifiable information through the site, please contact (or have your parent or guardian contact) us immediately using the information below so that we can remove such information from our files.
+The Child Online Privacy and Protection Act (COPPA) regulates online collection of information from persons under the age of 13 ("COPPA Covered Persons"). The information in this COPPA Privacy Policy outlines our commitment as an operator of the site to protect the privacy and safety online of COPPA Covered Persons. The policies outlined in this COPPA Privacy Policy are intended to supplement the information appearing in the General Privacy Policy. Where the COPPA Privacy Policy conflicts with the General Privacy Policy with regard to information about a COPPA Covered Person, the terms of this COPPA Privacy Policy will prevail over the General Privacy Policy. 
+
+The operators collecting or maintaining personal information about COPPA Covered Persons through the site are Brunswick Bowling & Billiards Corporation and Leiserv, Inc. Any inquiries regarding the site's privacy policies should be directed to: 
+
+Privacy Liaison   
+Brunswick Bowling & Billiards Corporation   
+1 North Field Court   
+Lake Forest, IL 60045   
+Phone: (847) 735-4700   
+Fax: (847) 735-4929   
+privacy@brunbowl.com   
+
+
+This site may collect information both directly from a COPPA Covered Person or passively through cookies and similar devices. Detailed information regarding cookies may be found in the General Privacy Policy. The collected information may be used to fulfill a requested transaction, keep records, and/or market back to the COPPA Covered Person. In particular, we use the collected information to conduct a birthday party program and to mail birthday party reminders and promotional materials to parents of children who may be interested in hosting birthday parties at our bowling centers. The following kinds of information may be collected: parent's name; child's name; parent's address, telephone number and e-mail address; age, birthday and gender of child; and any other information that is reasonably necessary for this program. The operators do not disclose collected information about COPPA Covered Persons to third parties except as necessary to actually operate the site(s). Further, the site(s) do not offer activities that allow the child or the site to disclose the child’s personal information publicly—for example, through chat rooms, message boards or e-mail accounts. 
+
+We believe that the information required by the site(s) is reasonably necessary to participate in the activity described above and we endeavor not to condition a COPPA Covered Person’s participation in an activity on the COPPA Covered Person’s disclosure of more personal information than is reasonably necessary to participate in the activity. Because the collected information is necessary to allow site users to participate in our birthday party program, we may terminate the services provided to a COPPA Covered Person through a site if a parent's consent is revoked, a parent refuses to allow us to further use or collect their COPPA Covered Person's information, or a parent directs us to delete the information in accordance with a parent's rights described below. We are committed to protecting the online privacy of children and making the Internet safe for our users. For this reason, Brunswick does not collect personal information from children under 13. Children 12 years old and younger may visit the Brunswick website under the supervision of a parent or guardian without disclosing any personally identifiable information. However, it is sometimes necessary to collect some personally identifiable information about children in order to allow them to use some features of our site (like joining the birthday program). Only a parent or guardian may register a child 12 or younger for the Brunswick birthday program. We encourage parents of children under 13 to regularly check and monitor their children's use of e-mail and other activities online. 
+
+**Notice to Children Under Age 13:**
+
+If you're under 13 years of age, your parent or legal guardian must register you for the birthday program. Please direct them to our website and we will sign them up for emails about our birthday party program. If you are a COPPA Covered Person, please know that we must contact your parents directly to notify them that you wish to participate as a site user and obtain their consent for the collection, use, and disclosure of your information. 
+
+**Notice to Parents under COPPA:**
+
+If you are a parent of a COPPA Covered Person, please know that you have the option to agree to the collection and use of your COPPA Covered Person’s information without consenting to the disclosure of the information to third parties. However, we may release collected information to others who use it solely to provide support for the internal operations of the site or service, including technical support. You may revoke your consent, review your COPPA Covered Person’s personal information, ask to have it deleted, and/or refuse to allow any further collection or use of your COPPA Covered Person’s information at any time by contacting our Privacy Liaison and requesting the desired action. You can contact our Privacy Liaison using the following information. 
+
+Privacy Liaison   
+Brunswick Bowling & Billiards Corporation   
+1 North Field Court   
+Lake Forest, IL 60045   
+Phone: (847) 735-4700   
+Fax: (847) 735-4929   
+privacy@brunbowl.com 
+
+A direct notice to parents containing the information included on this site will be sent by e-mail or postal mail. The direct notice will further notify the parent that we wish to collect personal information from his or her COPPA Covered Person; that the parent’s consent is required for the collection, use, and disclosure of the information; and that the parent can provide consent by any of the following methods: E-mail; manually-signed postal mail or facsimile; or e-mail accompanied by digital signature. If consent is provided by e-mail without digital signature, the operator will seek confirmation from a parent in a delayed confirmatory e-mail, by letter, or phone call. If there are material changes in the collection, use, or disclosure practices to which a parent has previously consented, the operators will send a new notice and request for consent to the parent.
 
 **Ordering, Event Registration and Related Processes**
 
@@ -248,4 +281,4 @@ Phone: (847) 735-4700
 Fax: (847) 735-4765   
 **[webmaster@brunbowl.com]**
 
-Last Modified 10/28/2005     Effective 10-6-2005
+Last Modified 5/31/2006     Effective 10-6-2005
