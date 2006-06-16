@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afbank.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217082705id_/http%3A//afbank.com/site_help/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afbank.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617003736id_/http%3A//afbank.com/site_help/privacy.cfm) for the most accurate reproduction.*
 
 # Armed Forces Bank || Privacy Policy
 
@@ -88,13 +88,13 @@ THANK YOU FOR BANKING WITH US!
 
 We understand how important your privacy is. We value the trust you place in us and will keep your personal and financial information confidential. 
 
-  [Security Tips](https://web.archive.org/web/20051217082705id_/http%3A//afbank.com/security/tips.cfm)
+  [Security Tips](https://web.archive.org/web/20060617003736id_/http%3A//afbank.com/security/tips.cfm)
 
-|    [Display, Print and Web Browsers](https://web.archive.org/web/20051217082705id_/http%3A//afbank.com/site_help/index.cfm)  
+|    [Display, Print and Web Browsers](https://web.archive.org/web/20060617003736id_/http%3A//afbank.com/site_help/index.cfm)  
   
   [Security](http://afbank.com/security/)  
   
-  [Frequently Asked Questions](https://web.archive.org/web/20051217082705id_/http%3A//afbank.com/site_help/faq.cfm)
+  [Frequently Asked Questions](https://web.archive.org/web/20060617003736id_/http%3A//afbank.com/site_help/faq.cfm)
 
 To contact us about lost or stolen information, or suspected fraudulent activity, you can contact us 7 days a week, 24 hours a day.
 
