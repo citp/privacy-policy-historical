@@ -1,12 +1,9 @@
-> *The following text is extracted and transformed from the outwar.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216085911id_/http%3A//www.outwar.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outwar.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616062810id_/http%3A//outwar.com/privacy.php) for the most accurate reproduction.*
 
 # Outwar.com - Massive online role-playing game (RPG)!
 
 **Privacy Statement  
 **outwar.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: outwar.com
-
-**Information Automatically Logged**  
-We use your IP address for statistical purposes. It allows outwar.com to determine how many users are visiting the site during the course of the day. This is the only use of the IP.
 
 **Cookies**  
 Our Site uses cookies to determine the last time a visitor has logged in and the last time an advertisement was viewed.
