@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the click2houston.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219143731id_/http%3A//www.click2houston.com/news/1014422/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the click2houston.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616204304id_/http%3A//www.click2houston.com/news/1014422/detail.html) for the most accurate reproduction.*
 
 # Click2Houston.com - News
 
