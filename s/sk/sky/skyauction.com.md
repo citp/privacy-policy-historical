@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the skyauction.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228125847id_/http%3A//www.skyauction.com/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyauction.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616115111id_/http%3A//www.skyauction.com/privacy.do) for the most accurate reproduction.*
 
-# SkyAuction.com Travel Auctions: Privacy Policy
-
-Privacy Policy
+# Privacy Policy
 
 SkyAuction.com has created this privacy policy statement in order to demonstrate our commitment to privacy. The following discloses the information gathering and dissemination practice for the SkyAuction.com Web site (www.SkyAuction.com). Using the Internet should be a fun experience and we want to help you make it so.
 
@@ -79,6 +77,3 @@ Attn:Internet Development
 New York, NY 10022
 
 Last Updated Feb. 21, 2002
-
-  
-
