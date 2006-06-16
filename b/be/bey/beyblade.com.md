@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beyblade.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228113559id_/http%3A//www.beyblade.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyblade.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616070248id_/http%3A//www.beyblade.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy
 
@@ -12,7 +12,7 @@ Here's how Nelvana lets you have fun while protecting your privacy:
 * We will not give, trade, sell or otherwise distribute any information you provide us.
 * We will abide by all new laws that take effect in the future.
 * We will collect some non-personal information, like the kind of browser and computer you use, so you can have the most fun possible whether you're at home or at school.
-You also need to know how to protect yourself. For more tips on how to surf safely, visit our [Web Safety](https://web.archive.org/web/20051228113559id_/http%3A//www.beyblade.com/safety.asp) page. 
+You also need to know how to protect yourself. For more tips on how to surf safely, visit our [Web Safety](https://web.archive.org/web/20060616070248id_/http%3A//www.beyblade.com/safety.asp) page. 
 
 **PARENTS:**
 
@@ -81,7 +81,7 @@ Any personal identifiable info collected from our members is for Beyblade.com pu
 
 For more information about Nelvana - our vision and products - visit Nelvana's home page at www.nelvana.com or our each site's FAQ section. Email any questions to [webmaster@nelvana.com](mailto:webmaster@nelvana.com).
 
-Please also make sure to read the [Nelvana Terms and Conditions](https://web.archive.org/web/20051228113559id_/http%3A//www.beyblade.com/terms.asp): They set out the rules for using all Nelvana sites. By using Beyblade.com you are agreeing to our Terms of Use.
+Please also make sure to read the [Nelvana Terms and Conditions](https://web.archive.org/web/20060616070248id_/http%3A//www.beyblade.com/terms.asp): They set out the rules for using all Nelvana sites. By using Beyblade.com you are agreeing to our Terms of Use.
 
 Nelvana Limited  
 Making Great Friends
