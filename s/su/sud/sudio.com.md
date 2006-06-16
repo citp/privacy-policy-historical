@@ -1,0 +1,75 @@
+> *The following text is extracted and transformed from the sudio.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616182544id_/http%3A//www.sudio.com/privacy.php) for the most accurate reproduction.*
+
+# Web Hosting Service by Sudio.com - Affordable Web Hosting
+
+|  | 
+
+This statement discloses the privacy practices of Sudio. By using Sudio or by agreeing to the Terms and Conditions in Sudio's [Terms of Service](https://web.archive.org/web/20060616182544id_/http%3A//www.sudio.com/terms.php), you consent and agree, without limitation or qualification, to the collection, use and disclosure of personal information and to the privacy practices set out in the Privacy Policy and to any other privacy or data collection policy which is displayed or is included as a link in any individual Sudio web site. The following is a list of our current Privacy Policy items. We suggest you check back from time-to-time, to see what has been updated. Questions or concerns regarding our use of your information and this statement should be directed to Sudio's [Privacy Coordinator](mailto:abuse@sudio.com).
+
+Transmission of Personal Data:
+
+When you order from Sudio, all your personal information is protected. We use Secure Sockets Layer (SSL), the industry standard, for encrypting all personal information, including name, address and credit card numbers.
+
+About Cookies and Web Beacons:
+
+Nowadays, cookies are used on most major web sites. Most browsers are initially set up to accept cookies. If you prefer, you can reset your browser either to notify you when you have received a cookie, or to refuse to accept cookies. You should understand that while Sudio does not require you to use cookies, certain pages may not function properly if you set your browser to not accept cookies.
+
+A cookie is a small text file containing a unique identification number that is transferred from a web site to the hard drive of your computer so that the web site may identify you. This unique number identifies your browser, but not you, to Sudio's servers whenever you visit Sudio. A cookie will not let a web site know any personal information about you, such as your real name and address. The coding in the cookies lets us know that you are using a particular computer but nothing more. Since cookies are only text files, they cannot run on your computer, search your computer for other information or transmit any information to anyone.
+
+To help serve you better, Sudio uses cookies to:
+
+  1. Help us remember who you are through your browser settings so that we can offer and provide personalized services. Sudio uses cookies to store and sometimes track information about what is done and seen across Sudio. Cookies also allow us to save passwords and preferences for you so that you will not have to re-enter them the next time you visit.
+  2. Measure traffic patterns. Without cookies, it could be difficult for us to know that certain services are more popular than others are. This information helps us to better understand when to offer new services.
+  3. Estimate audience size. Cookies help us know whether or not users have seen particular displays, including advertisements.
+  4. Displaying advertisements. SUDIO and third party advertising networks used by SUDIO may use cookies when serving advertisements.
+
+
+
+Sudio may contain electronic images known as Web beacons, which are sometimes called single-pixel gifs, that allow Sudio to count users who have visited those pages and to deliver co-branded services. Web beacons are not used to access your personal information on Sudio. They are a technique used to compile statistics about Sudio usage. Web beacons collect only a limited set of information including a cookie number, time and date of a page view, and a description of the page on which the Web beacon resides. Sudio web pages may also contain Web beacons placed there by our advertising partners to help Sudio determine the effectiveness of our Internet advertising campaigns.
+
+How does Sudio Use the Information?
+
+Any personal information you provide to Sudio is maintained and accessible only by Sudio, unless specifically stated otherwise. Sudio requests information from its users so that users can enjoy customized experiences across Sudio. We may use the information collected as follows:
+
+  1. To offer users the ability to customize or personalize content.
+  2. To deliver products and services requested.
+  3. Sudio uses the anonymous, aggregate data collected to inform our sponsors and advertisers as to numbers of people who have certain demographic characteristics and the number of those people who have seen and "clicked" on their advertisement(s). Sudio will also disclose to those third-party sponsors and advertisers the overall demographics available regarding who saw and "clicked" on their advertisement. No personal information will be disclosed to these sponsors and advertisers as part of this process; only information in an anonymous, aggregate form will be disclosed.
+  4. Sudio also uses the anonymous, aggregate data to perform statistical analyses of the collective characteristics and behavior of our registered users and visitors, to measure user demographics and interests regarding specific areas of Sudio, to describe our services to third parties such as prospective business partners and advertisers and to analyze how and where best to use our resources. Without such data, we would not know what the most popular areas of Sudio are, and we would not be able to change and update the content and services appropriately. Sudio also uses such data to monitor and improve the operation of Sudio and to maintain the quality of the Products and Services made available through Sudio. No personal information will be disclosed during these activities.
+  5. Sudio may, from time to time, use your personal information to contact you about changes or enhancements to Products and Services on Sudio. If you indicated that you were interested in receiving offers or information from selected Sudio sponsors and advertisers, Sudio will send you email publications and mailings about products and services that we feel may be of interest to you. For those who elect to receive such materials from Sudio or third parties, and who indicate that they do in their profile, Sudio will release personal information. Personal information released includes name, email address and other necessary information supplied in the Sudio registration process. If at any time you would like to end your subscription to any email materials, follow either the directions posted at the bottom of the email material, or the directions at the email newsletter company's web site.
+  6. If you enter a contest on Sudio, we will use the personal information you provided to contact you in the event you win. All Sudio contest entry forms provide a way for you to opt-out of any communications that is not related to awarding prizes for the promotion. These entry forms also provide users with a choice on whether to receive email marketing materials from third parties. Any information you provide will not be shared with such third parties unless you agree through the appropriate consent box on the entry form. If you enter a contest, you may be asked, under the rules of the promotion, to agree that the promotion sponsor may use your name in relation to announcing and promoting the winners of the promotion.
+  7. Sudio may also use personal information if it has reasonable grounds to believe the information could be useful when investigating a contravention of a federal, provincial or foreign law; for an emergency that threatens an individual's life, health or security; if the use is clearly in the individual's interest and consent is not available in a timely way; or if knowledge and consent would compromise the availability or accuracy of the information and collection is required to investigate a breach of an agreement or contravention of a federal or provincial law.
+  8. Sudio may disclose personal information: (i) to a lawyer who is representing it; (ii) if required to comply with a subpoena or warrant issued or an order made by a court, person or body with jurisdiction to compel the production of information, or to comply with rules of court relating to the production of records; (iii) to a government institution or part of a government institution that has made a request for the information, identified its lawful authority to obtain the information and indicated that: (A) it suspects that the information relates to national security, the defence of Canada or the conduct of international affairs, (B) the disclosure is requested for the purpose of enforcing any law of Canada, a province or a foreign jurisdiction, carrying out an investigation relating to the enforcement of any such law or gathering intelligence for the purpose of enforcing any such law, or (C) the disclosure is requested for the purpose of administering any law of Canada or a province; (iv) to a person who needs the information because of an emergency that threatens the life, health or security of an individual; (v) for purposes related to investigating a breach of an agreement or a contravention of the laws of Canada or a province; or (vi) where otherwise required by law.
+
+
+
+Does Sudio Share the Information that has Collected?
+
+In order to provide you with content and services that match your interests, Sudio may have relationships with services and other companies on the Internet. These also may require registration to make them function properly. You can recognize most of these sites by the joint branding of Sudio and such companies. As well, if you see a logo on the page that says 'Powered by third party"', you are on a co-branded site. Other third-party relationships are "private label" relationships where another entity provides Sudio with technology, services and/or content under Sudio branding. These sites form part of Sudio if pages at the site display Sudio branding bar and a link to the Terms and Conditions or to this Privacy Policy. If you provide, or if Sudio collects, personal information on a co-branded or private label site that forms part of Sudio, that data may be shared with the partners for the purpose of providing the products and services available at the site.
+
+In addition to finding co-branded sites that form part of Sudio, you will find direct links on Sudio to sites offered by third parties that are not part of Sudio. Some of these sites are authorized to use Sudio brands and/or logos. In some cases the operators of such sites may disclose personal information collected by them to Sudio. Such information will be used by Sudio solely in connection with the products and services of such third party. This Privacy Policy does not, however, apply to the privacy practices of such sites
+
+Sudio may disclose personal information to its agents, suppliers and service providers in conjunction with providing you with Products and Services or operating portions of Sudio. Such entities will be required to use personal information provided solely for such purposes. In addition, Sudio may share data with trusted partners to help us perform statistical analysis. All such third parties are prohibited from using your personal information except to provide these services.
+
+Sudio does not sell, rent or lease its customer lists to third parties. Sudio may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your personal information (e-mail, name, address, telephone number) is not disclosed to the third party.
+
+Can you Access, Edit or Delete your Information?
+
+Sudio provides its customers the ability to access and edit the personal information in their user profiles or password-protected web-based management tools. Sudio also offers all users who have volunteered any personal information to Sudio, the opportunity to review the information provided and to rectify any inaccuracies. Please contact the [Privacy Coordinator](mailto:abuse@sudio.com), for more details.
+
+Can you Opt-out?
+
+You can opt-out of providing personal information and from receiving information on Sudio updates and new services, as well as direct email offers from selected Sudio partners and sponsors. This is done either at the point of initial collection of information or during the editing or updating process. The process to opt out of most Sudio email materials is the same as the process for editing user information profiles described above. In addition, all such email materials have easy-to-follow unsubscribe directions posted at the bottom of the email. If you have any questions or concerns, please [contact us](mailto:abuse@sudio.com).
+
+What Security Procedures are in Place?
+
+Sudio has security measures in place to attempt to protect against the loss, misuse and alteration of your user data under our control. Sudio attempts to keep such information in secure facilities, protected from unauthorized access and kept only as long as is reasonably required. Only persons who have a need to know your personal information for the purposes described in this Privacy Policy have access to the user data you choose to provide to us. Sudio has imposed strict rules on Sudio employees who have access to the databases that store user personal information or to the servers that host our services. While Sudio cannot guarantee that loss, misuse or alteration to data will not occur, we make reasonable efforts to prevent such occurrences. Any other particularly sensitive information, such as credit card numbers, is encrypted prior to transmission. Sudio is not liable for any use or disclosure of your personal information that is beyond its reasonable control.
+
+You are responsible for the security of your Sudio login ID and password. Please take care when using and storing them. Sudio recommends that you do not divulge your password to anyone. You should log out of your browser at the end of each computer session to ensure that others cannot access your personal information and correspondence, especially if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe.
+
+Links to Other Sites:
+
+Please note that Sudio's sites may contain links to other sites. We cannot and do not represent or guarantee that their privacy practices will be the same as those set out in our Privacy Policy. So bear in mind that sites that are linked to Sudio sites may have privacy policies which differ from that of Sudio.
+
+Also, be aware that Sudio sponsors and other advertisers have links on our sites that take you to other sites that may collect personal information about you. This Privacy Policy does not cover third party data collection practices and Sudio does not assume any responsibility for the actions of such third parties.  
+  
+---|---
