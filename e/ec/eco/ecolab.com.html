@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ecolab.com privacy policy that was archived on 2005-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051228135434id_/http%3A//www.ecolab.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ecolab.com privacy policy that was archived on 2006-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060616211922id_/http%3A//www.ecolab.com/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -187,6 +187,47 @@ function dcsTag(){
 	dcsCreateImage(P);
 }
 
+function dcsMultiTrack(){
+
+	for (var i=0;i<arguments.length;i++){
+	
+		if (arguments[i].indexOf('WT.')==0){	
+			WT[arguments[i].substring(3)]=arguments[i+1];
+			i++;
+		}
+	
+		if (arguments[i].indexOf('DCS.')==0){	
+			DCS[arguments[i].substring(4)]=arguments[i+1];
+			i++;
+		}
+	
+		if (arguments[i].indexOf('DCSext.')==0){
+			DCSext[arguments[i].substring(7)]=arguments[i+1];
+			i++;
+		}	
+	}
+	
+	var dCurrent=new Date();
+	DCS.dcsdat=dCurrent.getTime();
+	dcsTag();
+}
+// End dcsMultiTrack Function
+
+//Ecolab added: Open downloadable doc and write to Web Trends Log File
+function popUp_WT_Doc(url, docName){ 
+
+	windowprops = 'location=yes,personalbar=yes,directories=yes,status=yes,scrollbars=yes,menubar=yes,toolbar=yes,resizable=yes,height=720,width=800';
+
+	//open a new window 	
+	window.open (url, docName, windowprops); 
+
+	//Write the traffic to the document to Web Trends Script
+	dcsMultiTrack('DCS.dcsuri', url, 'WT.ti', docName, 'WT.pn_sku', '', 'WT.mc_id', '');
+
+}
+
+
+
 dcsVar();
 dcsMeta();
 dcsTag();
@@ -288,7 +329,7 @@ dcsTag();
 		document.write(" > " + document.title);
 	}
 
-	</script><a class="TitleNavTrail" href="https://web.archive.org/web/20030417032116/http://www.ecolab.com/">Home</a>&nbsp;<font class="Faded">&gt;</font>&nbsp;<a href="/web/">web</a>&nbsp;<font class="Faded">&gt;</font>&nbsp;<a href="/web/20051228135434id_/">20051228135434id_</a>&nbsp;<font class="Faded">&gt;</font>&nbsp;<a href="/web/20051228135434id_/http%3A/">http%3A</a>&nbsp;<font class="Faded">&gt;</font>&nbsp;<a href="/web/20051228135434id_/http%3A//"></a>&nbsp;<font class="Faded">&gt;</font>&nbsp;<a href="/web/20051228135434id_/http%3A//www.ecolab.com/">www.ecolab.com</a>&nbsp;<font class="Faded">&gt;</font>&nbsp;Privacy Statement
+	</script><a class="TitleNavTrail" href="https://web.archive.org/web/20030417032116/http://www.ecolab.com/">Home</a>&nbsp;<font class="Faded">&gt;</font>&nbsp;<a href="/web/">web</a>&nbsp;<font class="Faded">&gt;</font>&nbsp;<a href="/web/20060616211922id_/">20060616211922id_</a>&nbsp;<font class="Faded">&gt;</font>&nbsp;<a href="/web/20060616211922id_/http%3A/">http%3A</a>&nbsp;<font class="Faded">&gt;</font>&nbsp;<a href="/web/20060616211922id_/http%3A//"></a>&nbsp;<font class="Faded">&gt;</font>&nbsp;<a href="/web/20060616211922id_/http%3A//www.ecolab.com/">www.ecolab.com</a>&nbsp;<font class="Faded">&gt;</font>&nbsp;Privacy Statement
 
 	<noscript><a href='http://www.ecolab.com/'>Ecolab.com Home</a></noscript>
     </td>
@@ -314,7 +355,7 @@ dcsTag();
       <td width="100" class="midBarNav" style="padding-left: 30px;"><a href="/index.asp">Home</a></td>
       <td width="100" class="midBarNav" onmouseover="showNav(&quot;profile&quot;,100,121)" onmouseout="resetTimer()"><a href="/companyprofile/">Company&nbsp;Profile</a></td>
       <td width="100" class="midBarNav" onmouseover="showNav(&quot;business&quot;,249,121)" onmouseout="resetTimer()"><a href="/businesses/">Businesses</a></td>
-      <td width="100" class="midBarNav" onmouseover="showNav(&quot;publichealth&quot;,367,121)" onmouseout="resetTimer()"><a href="/local/avianinfluenza.asp">Public&nbsp;Health</a></td>
+      <td width="100" class="midBarNav" onmouseover="showNav(&quot;publichealth&quot;,367,121)" onmouseout="resetTimer()"><a href="/local/publichealth.asp">Public&nbsp;Health</a></td>
       <td width="100" class="midBarNav" onmouseover="showNav(&quot;career&quot;,496,121)" onmouseout="resetTimer()"><a href="/careers/">Careers</a></td>
       <td width="100" class="midBarNav" onmouseover="showNav(&quot;investor&quot;,596,121)" onmouseout="resetTimer()"><a href="/investor/">Investor</a></td>
       <td width="100" class="rightBarNav" onmouseover="showNav(&quot;news&quot;,640,121)" onmouseout="resetTimer()"><a href="/newsrelease/">News</a></td>
