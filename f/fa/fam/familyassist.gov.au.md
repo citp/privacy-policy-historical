@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familyassist.gov.au privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219130518id_/http%3A//www.familyassist.gov.au/internet/fao/fao1.nsf/content/about_us-privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familyassist.gov.au privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616220930id_/http%3A//familyassist.gov.au/internet/fao/fao1.nsf/content/about_us-privacy.htm) for the most accurate reproduction.*
 
 # Family Assistance Office | Your privacy
 
@@ -37,7 +37,7 @@ When completing the site's feedback forms, we request your name, e-mail address,
 
 Your personal information is protected under the confidentiality provisions contained within social security and family assistance law. These laws prohibit any person from accessing, using or disclosing any personal information in the possession of the Family Assistance Office except when performing their duties in accordance with these laws or in specific situations permitted by the law. Your personal information will not be made available to any person or agency unless the law permits or your permission is given. Penalties apply to those who fail to observe these provisions.
 
-Before you consider transmitting any confidential information over the internet, you should first [contact us](http://www.familyassist.gov.au/Internet/FAO/FAO1.nsf/content/about_us-contact) to seek its agreement to the application of the 'confidential' classification to the information you wish to provide. When FaCS agrees to treat your personal information as 'confidential' it will receive the appropriate level of security.
+Before you consider transmitting any confidential information over the internet, you should first [contact us](http://www.familyassist.gov.au/internet/FAO/fao1.nsf/content/about_us-contact) to seek its agreement to the application of the 'confidential' classification to the information you wish to provide. When FaCS agrees to treat your personal information as 'confidential' it will receive the appropriate level of security.
 
 While FaCS endeavours to provide a secure Internet environment, please note that the privacy of your personal information cannot be guaranteed if you choose to transmit that information over the Internet.
 
@@ -50,4 +50,4 @@ Box 7788
 Canberra Mail Centre ACT 2610  
 Telephone: (02) 6244 7788
 
-[ [Top](http://www.familyassist.gov.au/Internet/FAO/FAO1.nsf/content/about_us-privacy.htm#top) ]
+[ [Top](http://www.familyassist.gov.au/internet/FAO/fao1.nsf/content/about_us-privacy.htm#top) ]
