@@ -1,7 +1,17 @@
-> *The following text is extracted and transformed from the apexpacific.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210062542id_/http%3A//www.apexpacific.com/agreement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apexpacific.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616140313id_/http%3A//www.apexpacific.com/agreement.html) for the most accurate reproduction.*
 
 # Website Promotion, Web Promotion & Internet Marketing Software
 
+|  |  | 
+
+[  
+](https://web.archive.org/web/20060616140313id_/http%3A//www.apexpacific.com/contactus.html)  |  [](http://www.apexpacific.com/)  
+
+INTERNET MARKETING SOFTWARE & WEB SITE PROMOTION SOLUTIONS   
+  
+---|---  
+| [](http://www.apexpacific.com/)| [](https://web.archive.org/products.html)| [](https://web.archive.org/services.html)| [](https://web.archive.org/order.html)| [](https://web.archive.org/download.html)| [](https://web.archive.org/knowledgebase/)| [](https://web.archive.org/newsletters/index.html)| [](https://web.archive.org/case_studies.html)| [](https://web.archive.org/reseller.html)|   
+---|---|---|---|---|---|---|---|---|---  
 |  |   
 ---|---  
   
@@ -29,20 +39,14 @@ Refund Requirements
 
 The software is updated and supported until the major version number is updated. We post minor version updates on our website and you may download and use them for free during a product's life cycle. When the major version number goes up, the previous version's life cycle is over. You may continue to use the software for as long as you wish, but the software will no longer have software updates posted on our website.
 
-**4\. Dynamic Bid Maximizer Subscriptions**  
-Please note that 1 month subscription accounts are automatically renewed in advance prior the end of each billing period. In case of 12 month subscriptions you will be required to renew your subscription at the end of the term.
+**4\. Dynamic BidMaximizer Subscription**  
+Please note that monthly subscription accounts are automatically renewed in advance, prior the end of each billing period. In the case of a yearly subscription you will be required to renew your subscription at the end of this period (that is 12 months).
 
-You may terminate your subscription before the billing date for any reason only by contacting us through the online support form. Your account will be terminated on the last day of your billing cycle. 
+**Refund Subscription Policy:**  
+**We offer 30-days money back guarantee.** That means, if you cancel within 30 days from the initial sign-up date, your credit card will be refunded 100% of the fee charged for the subscription. If you cancel after 30 days, you are not entitled for a refund. Please refer to the Cancellation Policy to terminate your account after 30 days from the initial sign-up date.
 
-**Refund Subscription Policy:**
-
-  1. If you cancel within 14 days of the billing date, your credit card will be refunded 50% of the fee charged for the subscription.
-
-  2. If you cancel after 14 days of the billing date, you are not entitled for a refund.  
-
-
-
-
+**Cancellation Policy  
+To terminate your subscription you are required to give us notice, at least 5 business days **prior to the billing date. For termination to take effect, you must submit your request through the [online support form](http://www.apexpacific.com/support5.html). Your account will be terminated on the last day of your latest billing cycle.
 
 **5\. Your Personal Information:** Our site uses forms for information requests and orders. Contact information from all forms ( **including** **name, address, email address, payment info, registration info etc**.) is used to process and deliver orders and mail information about our company to our customers. At no time do we share any of this information with any other person or company. Any financial information our customers submit, such as credit card number and expiration date is used only to charge the customer for the products and services they are purchasing.
 
@@ -64,4 +68,6 @@ You may terminate your subscription before the billing date for any reason only 
 
   
 |    
-
+  
+  
+**  Copyright © 1998-2020  Apex Pacific Pty Ltd. All rights reserved.**
