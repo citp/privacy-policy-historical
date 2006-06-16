@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clintonfoundation.org privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210073007id_/http%3A//www.clintonfoundation.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clintonfoundation.org privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616194409id_/https%3A//www.clintonfoundation.org/privacy.htm) for the most accurate reproduction.*
 
 # William J. Clinton Foundation "Privacy Policy"
 
@@ -34,7 +34,7 @@ While there is no such thing as "perfect" security on the Internet, we will take
 The Clinton Foundation site does not seek to collect any information from children under the age of 13. If any child provides us with personally identifiable information, a parent or guardian may notify us and such information will be deleted from our records. 
 
 **Correct/Update**  
-This site gives users the opportunity to change and modify information previously provided information by visiting <http://www.clintonfoundation.org/register.htm>
+This site gives users the opportunity to change and modify information previously provided information by visiting <http://clintonfoundation.kintera.org/newsletter>. 
 
 **Contacting the Web Site**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [send an email message](http://www.clintonfoundation.org/contact.php) through our contacts page. 
