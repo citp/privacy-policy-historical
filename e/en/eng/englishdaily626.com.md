@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the englishdaily626.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221195901id_/http%3A//www.englishdaily626.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the englishdaily626.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616230857id_/http%3A//englishdaily626.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -37,7 +37,7 @@ We do not communicate with users on a regular basis except that they require a s
 
 **_Contents_**
 
-All contents of English Daily are from reliable sources.The contents of English Daily consist of contributions from our users, excerpts from books that are outside the copyright boundary, and material contributed by the English Daily webmaster. Anything that appears here is posted with consent of the author. If any parts of the content are your property, please write in to [whl626@yahoo.com](mailto:whl626@yahoo.com) for deletion. But we strongly believe in reciprocation though such as placing a link to you as a way to promote each other's sites since it is for the mutual benefit of both parties.
+All contents of English Daily are from reliable sources.The contents of English Daily consist of contributions from our users, excerpts from books that are outside the copyright boundary, and material contributed by the English Daily webmaster. Anything that appears here is posted with consent of the author. If any parts of the content are your property, please write in to [whl626@gmail.com](mailto:whl626@yahoo.com) for deletion. But we strongly believe in reciprocation though such as placing a link to you as a way to promote each other's sites since it is for the mutual benefit of both parties.
 
 **_Sharing_ **
 
@@ -50,7 +50,7 @@ This Website contains links to other sites. Please be aware that we, English Dai
 **Security**  
 This Web site takes every precaution to protect our users information. When users submit sensitive information via the Website, their information is protected both online and off-line.
 
-If users have any questions about the security at our Website, users can send an email to [whl626@yahoo.com](mailto:whl626@yahoo.com)
+If users have any questions about the security at our Website, users can send an email to [whl626@gmail.com](mailto:whl626@yahoo.com)
 
 **  
 Notification of Changes**  
