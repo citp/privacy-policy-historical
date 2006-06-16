@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windycitynovelties.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222025749id_/http%3A//www.windycitynovelties.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windycitynovelties.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616192556id_/http%3A//www.windycitynovelties.com/privacy.asp) for the most accurate reproduction.*
 
 # Windy City Novelties - Privacy Policy
 
@@ -23,4 +23,4 @@ Web Site Manager
 Windy City Novelties  
 595 Lakeview Parkway  
 Vernon Hills, IL 60061  
-Telephone: 800.446.3200
+Telephone: 800.442.9722
