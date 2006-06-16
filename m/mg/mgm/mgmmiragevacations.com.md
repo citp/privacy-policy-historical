@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the mgmmiragevacations.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214235657id_/http%3A//www.mgmmiragevacations.com//privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mgmmiragevacations.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616221543id_/http%3A//www.mgmmiragevacations.com//privacy.asp) for the most accurate reproduction.*
 
 # MGM MIRAGE Vacations - Las Vegas vacation travel packages Las Vegas attractions MGM Grand, Bellagio, New York-New York, Treasure Island, Mirage Hotel & Casino, Las Vegas strip hotels special deal wedding package golf package Las Vegas air/hotel package
 
 Introduction  
-MGM MIRAGE Vacations believes in protecting your privacy. We provide this privacy policy to help you better understand the ways in which your personal information is gathered from our [MGM MIRAGE Vacations website](http://www.mgmmiragevacations.com/) and utilized. Be assured that the information you provide to us via the mgmmiragevacation.com site is confidential. We do not rent or sell your personal information to any third party company or agency without your authorization.
+MGM MIRAGE Vacations believes in protecting your privacy. We provide this privacy policy to help you better understand the ways in which your personal information is gathered from our [MGM MIRAGE Vacations website](http://www.mgmmiragevacations.com/) and utilized. Be assured that the information you provide to us via the mgmmiragevacations.com site is confidential. We do not rent or sell your personal information to any third party company or agency without your authorization.
 
 The Mark Travel Corporation and its affiliated technology and marketing agencies, and travel agency distributors, gather, store, and process the information from the [MGM MIRAGE Vacations website](http://www.mgmmiragevacations.com/). They help MGM MIRAGE Vacations use customer information to create and distribute products, specials, promotions, and website features for our customers.
 
@@ -35,15 +35,15 @@ The types of information collected includes: |
 ---|---  
   
 How Your Information Is Used  
-Our website hosts a Guest Book, where you may subscribe to receive our **_"Priority News and Notes"_** service. You will be among the first to receive up-to-the-minute details on limited time price reductions, special value inclusions, and product developments. This service provides you the best opportunity to book our vacation specials and take advantage of limited inventory at reduced prices. You may unsubscribe from the email list at any time by accessing the unsubscribe link at the bottom of any email or by visiting the [unsubscribe page](http://www.mgmmiragevacations.com//unsub.asp) on our website.
+Our website hosts a Guest Book, where you may subscribe to receive our email specials. You will be among the first to receive up-to-the-minute details on limited time price reductions, special value inclusions, and product developments. This service provides you the best opportunity to book our vacation specials and take advantage of limited inventory at reduced prices. You may unsubscribe from the email list at any time by accessing the unsubscribe link at the bottom of any email or by visiting the [unsubscribe page](http://www.mgmmiragevacations.com//unsub.asp) on our website.
 
-The information you supply when booking a vacation online is used to process and complete your reservation. MGM MIRAGE Vacations does not share your information with outside parties except to the extent necessary to process your vacation (for example, credit card authorizations). Information submitted while booking is not used to subscribe you to the **_"Priority News and Notes"_**.
+The information you supply when booking a vacation online is used to process and complete your reservation. MGM MIRAGE Vacations does not share your information with outside parties except to the extent necessary to process your vacation (for example, credit card authorizations). Information submitted while booking is not used to subscribe you to our email specials.
 
 The information you supply when submitting a Customer Service request is used to assist you with your request. It may also be used to help MGM MIRAGE Vacations review and improve its products, promotions, and customer service.
 
 The information you supply when submitting suggestions or comments via the Customer Service or Comments links are used to reply to your comment. Your information may also be forwarded on to the relevant product teams or customer service teams to further process your comment or to help improve MGM MIRAGE Vacations product, promotions, and customer service.
 
-The information you supply when sending a post card or our web page to a friend is used to forward the relevant email or web page information. MGM MIRAGE Vacations will not send additional emails or mailings to your friend. Your friend must subscribe to **_"Priority News and Notes"_** in order to receive emails from MGM MIRAGE Vacations directly. 
+The information you supply when sending a web page to a friend is used to forward the relevant email or web page information. MGM MIRAGE Vacations will not send additional emails or mailings to your friend. Your friend must subscribe to our email service in order to receive emails from MGM MIRAGE Vacations directly. 
 
 Information collected through any of the methods listed above may be used by MGM MIRAGE Vacations to improve products, processes and customer service. MGM MIRAGE Vacations may also use any of the information to create customer mailing lists and may occasionally send promotional pieces or other mailings to our customers. Mailing lists compiled from the information you provide is be used only by MGM MIRAGE Vacations for its own marketing and promotional efforts, and will not be sold or shared with any third parties.
 
