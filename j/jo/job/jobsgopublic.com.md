@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsgopublic.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211110557id_/http%3A//www.jobsgopublic.com/index.cfm%3Ffuseaction%3DSite.Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsgopublic.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616080515id_/http%3A//www.jobsgopublic.com/index.cfm%3Ffuseaction%3DSite.Privacy) for the most accurate reproduction.*
 
 # jobsgopublic - Privacy Statement
 
