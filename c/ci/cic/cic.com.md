@@ -1,25 +1,32 @@
-> *The following text is extracted and transformed from the cic.com privacy policy that was archived on 2000-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000816003345id_/http%3A//www.cic.com/company_overview/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cic.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616222407id_/http%3A//cic.com/policies/privacy) for the most accurate reproduction.*
 
-# Privacy Statement
+# CIC : Policies > Privacy Statement
 
-CIC has established its privacy policies to demonstrate our commitment to keep your personal information confidential and secure.
+**Introduction**  
+CIC recognizes the importance of protecting personally identifiable information that you share with us and has established its privacy policies to demonstrate our commitment to keep your personal information confidential and secure.  Personally identifiable information includes your name, address, and e-mail address.
 
-When you purchase from our site, we ask for your name, mailing address, credit card information, email address and phone and fax number. Secure servers protect this personal information using advanced encryption and firewall technology. Your personal information cannot be read as it passes to our ordering system.
+This policy addresses activities only from our servers.  Third party Web sites (including linked sites and third-party web sites or services which are co-branded with CIC) may have their own policies, over which we exercise no control over, and therefore they are not addressed by this policy and we do not warrant or opine as to the reliability or adequacy thereof.
 
-Credit card transactions are processed by a reputable third-party banking institution. The institution receives information necessary to verify and authorize your credit card transaction. The institution is under strict obligation to keep your personal information private.
+**Personally Identifiable** **Information CIC collects on its web site  
+**You may provide certain personally identifiable information to us in a number of ways such as when you: (a) request support; (b) request information; (c) request access to certain resources on our web site; (d) request access to our download site; (e) sign up for special offers from us or our partners, or (f) enter sweepstakes and contests sponsored by us or one of our partners. CIC may also collect personally identifiable information from you at other points that specifically state that personally identifiable information is being collected. 
 
-We may share aggregate statistics about matters such as buying patterns, sales and other shopping information with third parties. Such information will not include any personal identifying information.
+**Use of Personally Identifiable Information by CIC  
+**CIC may use personally identifiable information for, among other things, to anticipate and resolve problems with and to improve our web site, to personalize our service to you, to investigate misuse of our web site, and to develop and market products and services that may be of interest to you.  We do not sell or otherwise provide your Personally Identifiable Information to any third parties without your express permission. 
 
-If you have given us your electronic authorization, we may provide some customer information to pre-screened and reputable companies with products or services that may be of interest to you. This would be for marketing purposes only and no credit card information would be given.
+**Receiving emails from CIC  
+**If you do not wish to receive e-mail messages from us about our products and services that may interest you please refer to our “contact us” page to phone, fax or email CIC to be removed from our email list. Any of your personally identifiable information disclosed by us to third parties (we disclose such only with your permission) is subject to such third parties’ privacy policies and we cannot control such parties use of that information or the manner or frequency of such parities’ contact with you.
 
-To keep you informed of our latest special offers, promotions, upgrades and new products we may notify you by email. You may unsubscribe from this service by following the unsubscribe instructions in any email you receive from us.
+**Ability to prevent third-party access to your personally identifiable information  
+**CIC cannot guarantee that your private communications and other personally identifiable information will not be disclosed to third parties. For example, but not by way of limitation, CIC may be compelled to disclose information by government regulation or subpoena.  Additionally third parties may unlawfully intercept or access transmissions or private communications. Additionally, we can (and you authorize us to) disclose your personally identifiable information to private entities, law enforcement or other government officials, as we, in our sole and reasonable discretion, believe necessary or appropriate. Therefore, it is possible that under certain circumstances your personally identifiable information or private communications may not remain private.
 
-From time to time we may run contests or drawings. To enter you will be asked for your name, mailing address and email address. Should you win, the prize will be sent to your mailing address and you will be notified by email. Entering a contest or drawing results in you being included in our email list to receive notification of our latest special offers, promotions, upgrades and new products. You may unsubscribe from this service by following the unsubscribe instructions in any email you receive from us.
+**Use of cookies on CIC’s website  
+**CIC like many other sites uses cookies. Cookies are data files, sent by our web site, that are stored on your computer.  They contain identification information that allows us to see how our users are interacting with our web site, if we have repeat visitors and to identify which sites our visitors are linking from.  This information is valuable to us for site development and general marketing purposes. Cookies do not contain any personally identifiable information.
 
-If you purchase a gift certificate from our site, the recipient information which you supply us will be used only to send the gift certificate and for no other purpose.
+**Security measures  
+**CIC uses industry-standard methods to safeguard the confidentiality of personally identifiable information, such as firewalls and secure socket layers where appropriate. However, absolute security does not exist on the Internet.
 
-CIC like many other sites uses cookies. Cookies are data files that are stored on your computer. They contain identification information that allows us to see how our users are interacting with our site, if we have repeat visitors and to identify which sites our visitors are linking from. This information is valuable to us for site development and general marketing purposes. Cookies do not contain any personally identifiable information.
+**Contact us**  
+If you have any questions regarding this policy, please e-mail [privacy@cic.com](mailto:privacy@cic.com).
 
-Other sites accessible through our web site have their own privacy policies and information collection practices. Please consult each sites' privacy policy, CIC is not responsible for the actions of third parties.
-
-CIC fully cooperates with law enforcement agencies in identifying those who may be engaged in illegal activities. We reserve the right to investigate and report to law enforcement agencies any activities that we reasonably believe to be unlawful.
+ **Your acknowledgement  
+**By use of CIC’s web site you acknowledge acceptance of this privacy policy and that it is subject to change at CIC’s sole discretion without notice. Furthermore you agree to be bound by all of its terms and conditions.
