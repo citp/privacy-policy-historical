@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cit.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231200551id_/http%3A//www.cit.com/main/LegalPolicy/CITPrivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cit.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616201937id_/http%3A//www.cit.com/main/LegalPolicy/CITPrivacy.htm) for the most accurate reproduction.*
 
 # CIT Group Inc. - Legal Policy - Privacy Policy
 
@@ -50,7 +50,7 @@ CIT may share data that you provide under the following circumstances:
            **Option for our Consumer Customers:**  If you are a consumer (as opposed to commercial) customer of   
            CIT, you may direct us not to share, except as permitted by law, personal data other than your name,   
            address and information about your transactions and experiences with us with our affiliates by selecting   
-           that choice on the [attached form](https://web.archive.org/NR/rdonlyres/end5zbyuoqdh4aigsnwswnwsfxh36qxi6gdkamx7goxgmin4cud767jczzesketnfood4dqpykfel3z6csvvqhjx4pc/OptionConsumerCustomers.pdf) and submitting it to us.
+           that choice on the [attached form](https://web.archive.org/NR/rdonlyres/efors3sturwvjtu4cu6zhybdpcjdslqyc62x7w6xjzz45dkqzitnzed2bzo7ekc5jvtw5pts5wepwnvaabtiwvyxqea/OptionConsumerCustomers.pdf) and submitting it to us.
 
      **b. Agents and Service Providers** \- In order to establish, administer, and manage our customers' accounts,   
           evaluate credit, provide customer service and benefits, process account transactions and account   
@@ -81,7 +81,7 @@ CIT may share data that you provide under the following circumstances:
 
            **Option for our Consumer Customers:**   If you are a consumer (as opposed to commercial) customer of   
           CIT, you may direct us not to share personal data with other third parties, except as permitted by law, by   
-          selecting that choice on the [attached form](https://web.archive.org/NR/rdonlyres/end5zbyuoqdh4aigsnwswnwsfxh36qxi6gdkamx7goxgmin4cud767jczzesketnfood4dqpykfel3z6csvvqhjx4pc/OptionConsumerCustomers.pdf) and submitting it to us at [US.Privacy@cit.com](mailto:US.Privacy@cit.com). 
+          selecting that choice on the [attached form](https://web.archive.org/NR/rdonlyres/efors3sturwvjtu4cu6zhybdpcjdslqyc62x7w6xjzz45dkqzitnzed2bzo7ekc5jvtw5pts5wepwnvaabtiwvyxqea/OptionConsumerCustomers.pdf) and submitting it to us at [US.Privacy@cit.com](mailto:US.Privacy@cit.com). 
 
 **8\. SECURITY**
 
