@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharpusa.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214225026id_/http%3A//sharpusa.com/global/Privacy/0%2C1804%2C%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharpusa.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616021111id_/http%3A//www.sharpusa.com/global/Privacy/0%2C1804%2C%2C00.html) for the most accurate reproduction.*
 
 # privacy
 
@@ -30,7 +30,7 @@ In conjunction with Cookies, sharpUSA.com uses Web Beacons to monitor web site t
 This privacy policy references the contents of this site only and does not pertain to any other Sharp site. Sharp may change its policies, so please refer back this site from time to time to obtain our most current policies.
 
 Questions or Concerns   
-If you have any comments or concerns regarding this privacy policy, please [Contact Us](https://web.archive.org/global/ContactUs/0,1171,,00.html).
+If you have any comments or concerns regarding this privacy policy, please [Contact Us](https://web.archive.org/global/ContactUs/1,1171,,00.html).
 
 Special Privacy Notification for California Residents   
 Individual customers who reside in California and have provided personal data to Sharp may obtain information about our disclosures of certain categories of personal information to third parties for their "direct marketing" purposes. These requests must be submitted to us at: [californiaprivacy@sharpusa.com](mailto:californiaprivacy@sharpusa.com?subject=California%20Privacy%20Request). Promptly upon receiving such a request, we will provide a list of the types of personal information disclosed to third parties for third-party direct marketing purposes during the immediately preceding calendar year and names and addresses of these parties. This request may be made no more than once per calendar year.
