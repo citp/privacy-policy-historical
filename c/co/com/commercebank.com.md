@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commercebank.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230101203id_/http%3A//www.commercebank.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commercebank.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616193119id_/http%3A//commercebank.com/privacy.asp) for the most accurate reproduction.*
 
 # Commerce Bank | Serving Kansas Missouri and Illinois
 
