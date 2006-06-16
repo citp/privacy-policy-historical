@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the jax.org privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217170829id_/http%3A//www.jax.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jax.org privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616190659id_/http%3A//www.jax.org/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Information at The Jackson Laboratory - The Jackson Laboratory
-
-###    
-Privacy Policy
 
 The Jackson Laboratory is strongly committed to protecting your privacy and providing a safe online experience for all our users.
 
@@ -19,15 +16,11 @@ We collect two types of information during Web visits:
 
 Please be assured that we will not sell or rent information collected during visits to the Web site to any third party. However, we may need to provide such information to a third party if required by third party license agreements, by grant obligations, or by law. 
 
-#### **  **
-
 #### **Information You Submit**
 
 If you choose to provide us with additional information about yourself through an email message, form, survey, etc., we will not provide this information to any third parties. Forms submitted may include some "required information" which is necessary to process the request and to communicate with you. These forms also include "optional" information, which you can provide at your discretion and is used to help us better serve you and your organization. The information you submit is maintained on a confidential basis and used to provide a high level of personalization, value, and customer support to the users of The Jackson Laboratory Web site.
 
-#### **  **
-
-#### **Information Collected Automatically**
+**Information Collected Automatically**
 
 **Aggregate Information**
 
