@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the claxon.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214234210id_/http%3A//claxon.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the claxon.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616201641id_/http%3A//claxon.com/privacy.html) for the most accurate reproduction.*
 
 # Claxon Media
 
