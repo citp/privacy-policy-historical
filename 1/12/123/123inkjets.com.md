@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123inkjets.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218020606id_/http%3A//www.123inkjets.com/cs/policies_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123inkjets.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616194049id_/http%3A//www.123inkjets.com/cs/policies_privacy.html) for the most accurate reproduction.*
 
 # 123inkjets.com - Printer Ink, Toner & More
 
