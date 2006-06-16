@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fotolode.com privacy policy that was archived on 2005-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051016172124id_/http%3A//www.fotolode.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fotolode.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616112905id_/http%3A//fotolode.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Fotolode.com
 
@@ -6,7 +6,7 @@
 
 This is the web site of **Fotolode.com**. 
 
-If you want to contact us, please do so via the form on our [contact page](https://web.archive.org/web/20051016172124id_/http%3A//www.fotolode.com/contact.php). 
+If you want to contact us, please do so via the form on our [contact page](https://web.archive.org/web/20060616112905id_/http%3A//fotolode.com/contact.php). 
 
 For each visitor to our Web page, our Web server automatically recognizes your ip address. 
 
@@ -22,9 +22,13 @@ From time to time, we may use customer information for new, unanticipated uses n
 
 Upon request we provide site visitors with access to all information that we maintain about them, including contact information (e.g., name, address, phone number). 
 
-Consumers can access this information by contacting us through our [contact page](https://web.archive.org/web/20051016172124id_/http%3A//www.fotolode.com/contact.php). 
+Consumers can access this information by contacting us through our [contact page](https://web.archive.org/web/20060616112905id_/http%3A//fotolode.com/contact.php). 
 
-If you feel that this site is not following its stated information policy, or have any other questions regarding the operation of this site, please contact or us via the form on our [contact page](https://web.archive.org/web/20051016172124id_/http%3A//www.fotolode.com/contact.php). 
+If you feel that this site is not following its stated information policy, or have any other questions regarding the operation of this site, please contact or us via the form on our [contact page](https://web.archive.org/web/20060616112905id_/http%3A//fotolode.com/contact.php). 
+
+[   
+](http://www.bulkdomainz.com/)[   
+](http://www.bulkdomainz.com/)[LinkExchange](https://web.archive.org/web/20060616112905id_/http%3A//fotolode.com/phplinks/) [terlinks](https://web.archive.org/terlinks.php)
 
 Joining is FREE. Photo Hosting is FREE. So why not?   
 
