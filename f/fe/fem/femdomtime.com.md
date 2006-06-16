@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the femdomtime.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220065514id_/http%3A//www.risecash.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the femdomtime.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616112025id_/http%3A//www.risecash.com/privacy.html) for the most accurate reproduction.*
 
-# Risecash.com - Privacy Policy
+# Legal Info RiseCash, BDSM, Bondage, Femdom, Fetish sponsor
 
 Our postal address is  
 P.O. Box 56675, 3309 Limassol, Cyprus 
@@ -11,9 +11,9 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 We do not collect any customer information. Please see our payment processor's Privacy Policy concerning collected information. 
 
-[IBILL](http://ibill.com/about/privacy.cfm) : [CCBILL](http://about.ccbill.com/html_forms/privacy_policy-english.html)
+[CCBILL](http://about.ccbill.com/html_forms/privacy_policy-english.html)
 
 Should you have other questions or concerns about these privacy policies, please send us an email at:  
 support( at )risecash.com 
 
-(c) 2003-2005 RiseCash.com . All rights reserved. 
+(c) 2003-2006 [RiseCash.com, Real BDSM Sponsor](http://risecash.com/) . All rights reserved. 
