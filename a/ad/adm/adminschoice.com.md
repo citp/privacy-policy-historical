@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adminschoice.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231163302id_/http%3A//www.adminschoice.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adminschoice.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616092754id_/http%3A//www.adminschoice.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
