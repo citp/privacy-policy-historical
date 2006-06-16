@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapcaribbean.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212141718id_/http%3A//www.cheapcaribbean.com/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapcaribbean.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616222728id_/http%3A//www.cheapcaribbean.com/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # CheapCaribbean.com Privacy Policy
 
@@ -28,3 +28,23 @@ CheapCaribbean.com reserves the right to make changes to this privacy policy at 
 Please direct all questions or comments regarding this privacy policy to CheapCaribbean.com, Inc, PO Box 343, Jamison, PA, 18929.
 
 This Web site may provide links to external Web sites maintained by individuals or organizations external to CheapCaribbean.com, Inc. Once you access information that links you to another Web site, you are subject to the privacy policy of the Web site containing the information you have linked to.
+
+|  |   
+---  
+| 
+
+| 
+
+Departure City: 
+
+|  Leaving:  |  Rooms:   
+---|---|---  
+Destination:  |  Returning:  |   
+| **Room: 1** , Guests: 
+
+  
+|  |   
+|  |   
+|  |   
+  
+---|---|---|---|---|---|---
