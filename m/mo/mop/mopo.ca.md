@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mopo.ca privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219155831id_/http%3A//www.mopo.ca/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mopo.ca privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616022552id_/http%3A//www.mopo.ca/privacy-policy.html) for the most accurate reproduction.*
 
 # MoPo | Privacy Policy
 
@@ -15,7 +15,6 @@ If you register with our site or purchase products from us, from time to time we
 
 ##  Use of Information
 
-  
 When you register, we ask for your e-mail address, a unique nickname selected by you and other information. Once you are a registered user you can update your profile and may be able to provide additional preferential information. 
 
   
@@ -25,7 +24,7 @@ All communication on the Internet takes place between pairs of IP Addresses. Our
 Your browser has options to accept, reject, or provide you with notice when a cookie is sent. A “cookie” is a small line of text that is stored with your Web browser for record-keeping purposes and to help us provide better service to you. We use cookies to save your password (in an encrypted format) on your machine so you don’t have to re-enter it each time you visit our site. We also use cookies to deliver content specific to your interests and track your downloads and purchases from our site. 
 
   
-We use companies such as Commision Junction & Google Adsense to serve the advertisements on some of our pages. These companies and advertisers may place and access their cookies on your computer. Other companies’ use of their cookies is subject to their own privacy policies, not ours. We may use your information or allow advertisers or companies that serve advertisements access to your information to determine which advertisements you will see. This information may include your demographic information, geographic location, what content you access on our site, how you rate various content, language contained in your comments and other information.
+We use companies such as CPX Interactive INC, Commision Junction & Google Adsense and other third-party advertising companies to serve the advertisements on some of our pages. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. These companies and advertisers may place and access their cookies on your computer. Other companies’ use of their cookies is subject to their own privacy policies, not ours. We may use your information or allow advertisers or companies that serve advertisements access to your information to determine which advertisements you will see. This information may include your demographic information, geographic location, what content you access on our site, how you rate various content, language contained in your comments and other information. Third Party Cookies In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser. 
 
   
 Our site contains links, including banner and other ads, to other Websites. We are not responsible for the privacy practices or the content of such Websites.   
@@ -36,21 +35,17 @@ For reasons such as improving member experience and providing customized communi
 
 ##  Information Sharing
 
-  
 We will not share your personally identifiable information with third parties, aside from entities that perform services for us, such as fulfilling orders or processing payment, that either are bound to comply with our privacy policy or have privacy policies that protect your information unless you have “opted-in” to such sharing. If you have previously opted-in to such sharing under a prior privacy policy version, you are still considered to have opted-in under this privacy policy. As stated, and whether or not you have opted-in, we may use third parties to accept and process orders for merchandise and products, including software, and such third parties may get access to your personal information for the purposes of providing services or products to you on our behalf. In addition, if you opt-out, we may share that information with third parties who send e-mails on our behalf so that they do not e-mail you. 
 
   
 However, we may disclose information you provide if required to do so by law or if we have a good faith belief that disclosure is necessary to (1) comply with the law or with legal process served on us; (2) protect and defend our rights or property; or (3) act in an emergency to protect someone’s safety. 
 
   
-We may request demographic information from you (for example, your age, education level or household income) from time to time. We will not share that information in a manner that identifies you as an individual with any other entity, unless we let you know that at the time of collection or we have your permission. When we share demographic information with third parties, we will give them aggregate information only. 
-
-  
 In the event that we acquired by another company, your personal information may be part of the assets transferred to the acquiring party. 
 
 ##  Opt-Out
 
-If you provide us with your e-mail address, and do not opt-out of receiving e-mail from us, we may e-mail you with information, including information about selected third parties. If you do not want to receive information from us, you may decline to receive it (or “Opt-Out”) either when you provide personal information to us or you may update your profile. You may also choose to Opt-Out from certain types of e-mail by following the unsubscribe instructions that appear on each newsletter. You may also contact us as provided below. Please note that there might be a brief delay between when you submit your request to opt-out and when it is processed and reflected in our systems; accordingly you might continue to receive e-mails from us for a few days after you unsubscribe. We maintain records of those users who opt-out of specific e-mail options so that we do not e-mail them with respect to those types of e-mails, and we may share this information with third parties who send e-mails on our behalf so that they do not e-mail you; this information may also be contained in web logs (see above). 
+If you provide us with your e-mail address, and do not opt-out of receiving e-mail from us, we may e-mail you with information, including information about selected third parties. If you do not want to receive information from us, you may decline to receive it (or “Opt-Out”) either when you provide personal information to us or you may update your profile. You may also choose to Opt-Out from certain types of e-mail by following the unsubscribe instructions that appear on each newsletter. You may also contact us as provided below. Please note that there might be a brief delay between when you submit your request to opt-out and when it is processed and reflected in our systems; accordingly you might continue to receive e-mails from us for a few days after you unsubscribe. We maintain records of those users who opt-out of specific e-mail options so that we do not e-mail them with respect to those types of e-mails, and we may share this information with third parties who send e-mails on our behalf so that they do not e-mail you; this information may also be contained in web logs (see above).
 
 ##  Children Under 13
 
@@ -80,13 +75,16 @@ We maintain archives of our web logs, database, and other systems and informatio
 
 ##  Profile
 
-  
 You are responsible for maintaining the accuracy of your profile by notifying us when you change your address, title, phone number, or e-mail address. 
 
 ##  Contact
 
-Please address comments or questions regarding this Privacy Policy to us as follows: You may send us an e-mail at support@mopo.ca. 
+Please address comments or questions regarding this Privacy Policy to us as follows: You may send us an e-mail at support@mopo.ca.
 
 ##  Binding Agreement
 
-Your use of our site, including any dispute concerning privacy, is subject to this Privacy Policy and our Terms of Use. By using our Site, you are accepting the practices set out in this Privacy Policy and our Terms of Use. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Please check the revision date at the bottom of this page to determine if the statement has been modified since you last reviewed it. Your continued use of any portion of our Site following posting of the updated Privacy Policy will constitute your acceptance of the changes. July 3rd 2005  [](http://forum.mopo.ca/)
+Your use of our site, including any dispute concerning privacy, is subject to this Privacy Policy and our Terms of Use. By using our Site, you are accepting the practices set out in this Privacy Policy and our Terms of Use. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Please check the revision date at the bottom of this page to determine if the statement has been modified since you last reviewed it. Your continued use of any portion of our Site following posting of the updated Privacy Policy will constitute your acceptance of the changes.
+
+Apr 23rd 2006 
+
+[News Archives](http://www.mopo.ca/archive.html)
