@@ -1,617 +1,204 @@
-<!--The following is the downloaded HTML source of the homegoods.com privacy policy that was archived on 2005-04-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050403235713id_/http%3A//www.homegoods.com/custserv/custserv.jsp%3FcontentId%3D13) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the homegoods.com privacy policy that was archived on 2006-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060616091113id_/http%3A//www.homegoods.com/privacy.asp) for the most accurate reproduction.-->
 
-<html><head>
-		<link href="/css/default.css" rel="stylesheet">
-		<script src="/js/utility_javascript.jsp" language="JavaScript"></script>
-		<title>Privacy &amp; Security</title>
-
-		
-		
-	</head>
-
-	<body>
-		
-
-		<!-- BEGIN COREMETRICS SUPPORT -->
-		<script src="/js/coremetrics/v40/eluminate.js" language="JavaScript1.1"></script>
-		<script src="/js/coremetrics/v40/techprops.js" language="JavaScript1.1"></script>
-		<script src="/js/coremetrics/cmdatatagutils.js" language="JavaScript1.1"></script>
-		<!-- END COREMETRICS -->
-	<div align="left">
-		<table border="0" cellpadding="0" cellspacing="0" width="761">
-			<tbody><tr>
-				<td valign="TOP" width="761" align="LEFT">
-
-
-
-
-
-
-
-
-<!-- BEGIN OSC FLASH CART -->
-
-
-
-	
-	<div id="detection"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="0" height="0" style="position:absolute; height:0; width:0; left:0; top:0">	<param name="movie" value="/assets/osc/util/bandwidth_detect.swf">	<param name="loop" value="false">	<embed src="/assets/osc/util/bandwidth_detect.swf" loop="false" width="0" height="0" style="position:absolute; height:0; width:0; left:0; top:0" type="application/x-shockwave-flash"></object></div>
-
-	<script language="JavaScript1.2">
-		var bandwidth = -1;
-		var retries = 0;
-		
-		if (bandwidth == -1)
-		{
-		    
-		    if (window.addEventListener)
-		    {
-		        window.addEventListener("load", startBandwidthDetection, false);
-		    }
-		    else
-		    {
-		        window.attachEvent("onload", startBandwidthDetection);
-		    }
-		    
-		}
-
-	
-		function OSC_onFinishBandwidthDetection(bandwidthDetected)
-		{
-			setupBandwidthCookie(bandwidthDetected)
-		}
-		
-		function setupBandwidthCookie(bandwidthDetected)
-		{
-			if (bandwidthDetected)
-			{
-				bandwidth = bandwidthDetected;
-				
-				var			expires = new Date();
-				expires.setTime(expires.getTime()+(6 *60*60*1000));
-
-				document.cookie = "bandwidth = " + bandwidth + "; path=/; expires=" + expires.toGMTString();
-			}
-		}
-		
-		function startBandwidthDetection()
-		{
-			//alert("startBandwidthDetection");
-			
-			var images = document.getElementsByTagName("img");
-			var imagesLoaded = true;
-			
-			for (var imageNo = 0; imageNo < images.length; ++imageNo)
-			{
-				var image = images[imageNo];
-
-				if (!image.complete)
-				{
-					//alert("image not yet loaded: " + image.src);
-					imagesLoaded = false;
-					break;
-				}
-			}
-			
-			if ( imagesLoaded == true )
-			{
-				//alert("images all loaded - loading bandwidth detection swf");
-				
-				var innerHTMLString = "<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' width='0' height='0' style='position:absolute; height:0; width:0; left:0; top:0'>";
-				innerHTMLString += "	<param name='movie' value='/assets/osc/util/bandwidth_detect.swf' />";
-				innerHTMLString += "	<param name='loop' value='false' />";
-				innerHTMLString += "	<embed src='/assets/osc/util/bandwidth_detect.swf' loop='false' width='0' height='0' style='position:absolute; height:0; width:0; left:0; top:0' type='application/x-shockwave-flash' />";
-				innerHTMLString += "</object>";
-				
-				var detectionDiv = document.getElementById("detection");
-				detectionDiv.innerHTML = innerHTMLString;
-				
-
-			}
-			else
-			{
-			    if ( retries <= 40 )
-			    {
-			    	//alert(retries);
-			    	retries++;
-			    	setTimeout("startBandwidthDetection()", 300);
-			    }
-			    else
-			    {
-			    	//alert("hit retry limit - loading bandwidth detection");
-			    	
-			    	var innerHTMLString = "<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' width='0' height='0' style='position:absolute; height:0; width:0; left:0; top:0'>";
-			    	innerHTMLString += "	<param name='movie' value='/assets/osc/util/bandwidth_detect.swf' />";
-			    	innerHTMLString += "	<param name='loop' value='false' />";
-			    	innerHTMLString += "	<embed src='/assets/osc/util/bandwidth_detect.swf' loop='false' width='0' height='0' style='position:absolute; height:0; width:0; left:0; top:0' type='application/x-shockwave-flash' />";
-				innerHTMLString += "</object>";
-				
-				var detectionDiv = document.getElementById("detection");
-				detectionDiv.innerHTML = innerHTMLString;
-			    }
-			}
-		}
-	
-	</script>
-
-
-
-
-
-	<script language="JavaScript1.2" type="text/javascript" src="/js/osc/util/flash_detect.js"></script>
-
-	<script language="JavaScript1.2">
-		var	hasFlash7 = false;
-
-		if (hasFlash7 != detectedFlash7OrGreater)
-		{
-			hasFlash7 = detectedFlash7OrGreater;
-
-			var			expires = new Date();
-			expires.setTime(expires.getTime()+(6 *60*60*1000));
-
-			document.cookie = "hasFlash7 = " + hasFlash7 + "; path=/; expires=" + expires.toGMTString();
-		}
-	</script>
-
-
-
-
-
-
-<script language="JavaScript">
-	  function updateLoginStatus(bLoggedIn) {
-		var	loginImageObj = document.getElementById("login_image");
-		var	loginLinkObj = document.getElementById("login_link");
-		var   registerImageObj = document.getElementById("register_image");
-		var   registerLinkObj = document.getElementById("register_link");
-
-		if (bLoggedIn) {
-			loginImageObj.src = "/assets/images/header_nav/un_hg_logout.gif";
-			loginImageObj.alt = "Log Out";
-			loginLinkObj.href = "/logout.cmd";
-
-			registerImageObj.src = "/assets/images/header_nav/un_hg_myaccount.gif";
-			registerImageObj.alt = "My Account";
-			registerLinkObj.href = "/user/main.jsp";
-			registerImageObj.width="76";
-		}
-		else {
-			loginImageObj.src = "/assets/images/header_nav/un_hg_login.gif";
-			loginImageObj.alt = "Log In";
-			loginLinkObj.href = "/user/login.jsp";
-
-			registerImageObj.src = "/assets/images/header_nav/un_hg_register.gif";
-			registerImageObj.alt = "Register";
-			registerLinkObj.href = "/user/register.jsp";
-         registerImageObj.width=="57";
-		}
-   }
-
-	function updateItemString(nItemsInBasket) {
-		var	noItemsObj = document.getElementById("cart_total");
-		if (noItemsObj) {
-			noItemsObj.innerHTML = getItemString(nItemsInBasket);
-			setItemCountCookie(nItemsInBasket);
-		}
-	}
-
-	function getItemString(nItemsInBasket) {
-		var returnString = "0 Item";
-		switch(nItemsInBasket) {
-			case 1 : returnString = "1 Item"; break;
-			case 0 : break;
-			default: returnString = nItemsInBasket + " Items"; break;
-		}
-		return returnString;
-	}
-</script>
-<!-- END OSC FLASH CART -->
-
-
-
-<!-- Begin Header -->
-<table border="0" cellspacing="0" cellpadding="0" width="761">
-<tbody><tr>
-<td valign="top" width="761">
-	<table border="0" cellspacing="0" cellpadding="0" width="761">
-	<tbody><tr>
-	<td valign="top" width="197" rowspan="2"><a href="http://www.homegoods.com/home.jsp"><img src="/assets/images/header_nav/hg_logo.gif" width="197" height="56" border="0" alt="HomeGoods"></a></td>
-	<td valign="top" width="28"><img src="/assets/images/spacer.gif" width="28" height="1" border="0" alt=""></td>
-	<td valign="top" width="47"><a href="http://www.homegoods.com/home.jsp"><img src="/assets/images/header_nav/un_hg_home.gif" width="47" height="15" border="0" alt="Home"></a>
-	</td>
-	<td valign="top" width="83"><a href="http://www.homegoods.com/storelocator/store_locator.jsp"><img src="/assets/images/header_nav/un_hg_storelocator.gif" width="83" height="15" border="0" alt="Store Locator"></a></td>
-	<td valign="top" width="76" align="center">
-		
-		<a href="/user/register.jsp" name="register_link"><img name="register_image" src="/assets/images/header_nav/un_hg_register.gif" width="53" height="15" border="0" alt="Register"></a>
-		
-		
-	</td>
-	<td valign="top" width="51"><a href="https://www.homegoods.com/user/login.jsp" name="login_link"><img name="login_image" src="/assets/images/header_nav/un_hg_login.gif" width="51" height="15" border="0" alt="Log In"></a></td>
-	<td valign="top" width="12"><img src="/assets/images/spacer.gif" width="12" height="1" border="0" alt=""></td>
-	<td valign="top" width="97"><a href="http://www.homegoods.com/checkout/basket.jsp"><img name="shoppingcart_image" src="/assets/images/header_nav/un_hg_shoppingcart.gif" width="97" height="15" border="0" alt="Shopping Cart"></a><br><b class="text3" id="cart_total">0 Items </b></td>
-	<td valign="top" width="170" rowspan="2">
-		<table border="0" cellspacing="0" cellpadding="0" width="170">
-		<form action="http://www.homegoods.com/" method="get" name="endecaSearchForm" onsubmit="return search()"></form><input type="hidden" name="form_state" value="endecaSearchForm">
-		<tbody><tr>
-		<td valign="top" width="42"><img src="/assets/images/spacer.gif" width="42" height="1" border="0" alt=""></td>
-		<td valign="top" width="128" colspan="4"><img src="/assets/images/header_nav/un_hg_search.gif" width="43" height="15" border="0" alt="Search"></td>
-		</tr>
-		<tr>
-		<td valign="top" width="42"><img src="/assets/images/spacer.gif" width="42" height="1" border="0" alt=""></td>
-		<td valign="top" width="93"><input style="width:93px; height:18px;" class="monospace" onfocus="" name="endecaKeyword" type="text" value="" size="8" maxlength="30"></td>
-		<td valign="top" width="5"><img src="/assets/images/spacer.gif" width="5" height="1" border="0" alt=""></td>
-		<td align="left" valign="middle" width="15"><input type="image" value="go" src="/assets/images/header_nav/hg_arrow.gif" width="15" height="15" border="0" alt=""></td>
-		<td valign="top" width="15"><img src="/assets/images/spacer.gif" width="15" height="1" border="0" alt=""></td>
-		</tr>
-		
-		<tr>
-		<td valign="top" width="155" colspan="4" align="right" class="red"><img src="/assets/images/spacer.gif" width="155" height="5" border="0" alt=""><br>
-		
-		</td>
-		<td valign="top" width="15"><img src="/assets/images/spacer.gif" width="15" height="1" border="0" alt=""></td>
-		</tr>
-		
-		</tbody></table>
-	</td>
-	<td valign="top" width="15"><img src="/assets/images/spacer.gif" width="15" height="1" border="0" alt=""></td>
-	</tr>
-	<tr>
-	<td valign="top" width="410" colspan="7" align="left">&nbsp;&nbsp;&nbsp;&nbsp;<img src="/assets/images/header_nav/hg_slogan.gif" width="260" height="17" border="0" alt="Irresistible Finds. Exceptional Prices."></td>
-	</tr>
-	</tbody></table>
-</td>
-</tr>
-<tr>
-
-<td valign="top" width="761">
-<table border="0" cellspacing="0" cellpadding="0" width="761">
-<tbody><tr>
-<td valign="top" width="761" colspan="15" bgcolor="#AA0011"><img src="/assets/images/spacer.gif" width="761" height="1" border="0" alt=""></td>
-</tr>
-<tr>
-<td valign="top" width="761" colspan="15" bgcolor="#BCBCBC"><img src="/assets/images/spacer.gif" width="761" height="1" border="0" alt=""></td>
-</tr>
-<tr>
-<td valign="top" width="1"><img src="/assets/images/header_nav/tn_hg_dotline.gif" width="1" height="15" border="0" alt=""></td>
-<td valign="top" width="108"><a href="http://www.homegoods.com/catalog/category.jsp?categoryId=7"><img src="/assets/images/header_nav/tn_hg_bath.gif" width="108" height="15" border="0" alt="Discount Bath Accessories"></a></td>
-<td valign="top" width="1"><img src="/assets/images/header_nav/tn_hg_dotline.gif" width="1" height="15" border="0" alt=""></td>
-<td valign="top" width="107"><a href="http://www.homegoods.com/catalog/category.jsp?categoryId=4"><img src="/assets/images/header_nav/tn_hg_walldecor.gif" width="107" height="15" border="0" alt="Wall Decor"></a></td>
-<td valign="top" width="1"><img src="/assets/images/header_nav/tn_hg_dotline.gif" width="1" height="15" border="0" alt=""></td>
-<td valign="top" width="108"><a href="http://www.homegoods.com/catalog/category.jsp?categoryId=8"><img src="/assets/images/header_nav/tn_hg_tabletop.gif" width="108" height="15" border="0" alt="Tabletop"></a></td>
-<td valign="top" width="1"><img src="/assets/images/header_nav/tn_hg_dotline.gif" width="1" height="15" border="0" alt=""></td>
-<td valign="top" width="107"><a href="http://www.homegoods.com/catalog/category.jsp?categoryId=2"><img src="/assets/images/header_nav/tn_hg_rugs.gif" width="107" height="15" border="0" alt="Area Rugs"></a></td>
-<td valign="top" width="1"><img src="/assets/images/header_nav/tn_hg_dotline.gif" width="1" height="15" border="0" alt=""></td>
-<td valign="top" width="108"><a href="http://www.homegoods.com/catalog/category.jsp?categoryId=11"><img src="/assets/images/header_nav/tn_hg_luggage.gif" width="108" height="15" border="0" alt="Discount Luggage"></a></td>
-<td valign="top" width="1"><img src="/assets/images/header_nav/tn_hg_dotline.gif" width="1" height="15" border="0" alt=""></td>
-<td valign="top" width="107"><a href="http://www.homegoods.com/catalog/category.jsp?categoryId=3"><img src="/assets/images/header_nav/tn_hg_lighting.gif" width="107" height="15" border="0" alt="Lamps and Lighting"></a></td>
-<td valign="top" width="1"><img src="/assets/images/header_nav/tn_hg_dotline.gif" width="1" height="15" border="0" alt=""></td>
-<td valign="top" width="108"><a href="http://www.homegoods.com/catalog/category.jsp?categoryId=13"><img src="/assets/images/header_nav/tn_hg_gifts.gif" width="108" height="15" border="0" alt="Gifts"></a></td>
-<td valign="top" width="1"><img src="/assets/images/header_nav/tn_hg_dotline.gif" width="1" height="15" border="0" alt=""></td>
-</tr>
-<tr>
-<td valign="top" width="761" colspan="15" bgcolor="#BCBCBC"><img src="/assets/images/spacer.gif" width="761" height="1" border="0" alt=""></td>
-</tr>
-<tr>
-<td valign="top" width="1"><img src="/assets/images/header_nav/tn_hg_dotline.gif" width="1" height="15" border="0" alt=""></td>
-<td valign="top" width="108"><a href="http://www.homegoods.com/catalog/category.jsp?categoryId=6"><img src="/assets/images/header_nav/tn_hg_bedding.gif" width="108" height="15" border="0" alt="Discount Bedding"></a></td>
-<td valign="top" width="1"><img src="/assets/images/header_nav/tn_hg_dotline.gif" width="1" height="15" border="0" alt=""></td>
-<td valign="top" width="107"><a href="http://www.homegoods.com/catalog/category.jsp?categoryId=5"><img src="/assets/images/header_nav/tn_hg_homeaccents.gif" width="107" height="15" border="0" alt="Home Accents"></a></td>
-<td valign="top" width="1"><img src="/assets/images/header_nav/tn_hg_dotline.gif" width="1" height="15" border="0" alt=""></td>
-<td valign="top" width="108"><a href="http://www.homegoods.com/catalog/category.jsp?categoryId=9"><img src="/assets/images/header_nav/tn_hg_kitchen.gif" width="108" height="15" border="0" alt="Kitchenware"></a></td>
-<td valign="top" width="1"><img src="/assets/images/header_nav/tn_hg_dotline.gif" width="1" height="15" border="0" alt=""></td>
-<td valign="top" width="107"><a href="http://www.homegoods.com/catalog/category.jsp?categoryId=256"><img src="/assets/images/header_nav/tn_hg_furniture.gif" width="107" height="15" border="0" alt="Discount Furniture"></a></td>
-<td valign="top" width="1"><img src="/assets/images/header_nav/tn_hg_dotline.gif" width="1" height="15" border="0" alt=""></td>
-<td valign="top" width="108"><a href="http://www.homegoods.com/catalog/category.jsp?categoryId=10"><img src="/assets/images/header_nav/tn_hg_kidsroom.gif" width="108" height="15" border="0" alt="Kids Furniture"></a></td>
-<td valign="top" width="1"><img src="/assets/images/header_nav/tn_hg_dotline.gif" width="1" height="15" border="0" alt=""></td>
-<td valign="top" width="107"><a href="http://www.homegoods.com/catalog/category.jsp?categoryId=12"><img src="/assets/images/header_nav/tn_hg_seasonal.gif" width="107" height="15" border="0" alt="Holiday Decorations"></a></td>
-<td valign="top" width="1"><img src="/assets/images/header_nav/tn_hg_dotline.gif" width="1" height="15" border="0" alt=""></td>
-<!--clearance link being changed temporarily to no items page - old link was /catalog/thumbnail.jsp?N=1000012&Ne=1000011 -->
-<td valign="top" width="108"><a href="http://www.homegoods.com/catalog/thumbnail.jsp?N=1000012&amp;Ne=1000011"><img src="/assets/images/header_nav/tn_hg_clearance.gif" width="108" height="15" border="0" alt="Clearance Center"></a></td>
-<td valign="top" width="1"><img src="/assets/images/header_nav/tn_hg_dotline.gif" width="1" height="15" border="0" alt=""></td>
-</tr>
-<tr>
-<td valign="top" width="761" colspan="15" bgcolor="#BCBCBC"><img src="/assets/images/spacer.gif" width="761" height="1" border="0" alt=""></td>
-</tr>
-<tr>
-<td valign="top" width="761" colspan="15" bgcolor="#AA0011"><img src="/assets/images/spacer.gif" width="761" height="1" border="0" alt=""></td>
-</tr>
-</tbody></table>
-</td>
-</tr>
-</tbody></table>
-<!-- this code creates the endeca search query string -->
-<script src="/js/endeca_util.jsp" language="JavaScript"></script>
-
-<!-- End Header --></td>
-			</tr>
-			<tr>
-				<!-- Main Body Begins -->
-				<td valign="top" width="761">
-					
-
-
-
-
-
-
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><!--Server T1 --><head>
+<title>HomeGoods</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="style.css" rel="stylesheet" type="text/css">
+</head>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
 <!-- BEGIN COREMETRICS SUPPORT -->
-<script language="JavaScript1.1">
-	<!--
-		cmSetProduction();
-
-		cmCreatePageviewTag("CUSTOMER SERVICE PAGE", null, "CUSTOMERSERVICE");
-	//-->
+<script language="javascript1.1" src="/coremetrics/v40/eluminate.js"></script>
+<script language="javascript1.1" src="/coremetrics/cmdatatagutils.inc"></script>
+<script language="javascript1.1">
+<!--
+	cmSetProduction();
+	if ('privacy.asp' == 'generic_error.asp')
+		cmCreateErrorTag('privacy.asp')
+	else if ('1005' == '')
+		cmCreatePageviewTag('privacy.asp');
+	else
+		cmCreatePageviewTag('privacy.asp',null,'1005');
+//-->
 </script>
 <!-- END COREMETRICS -->
 
-
-
-
-
-<table border="0" cellspacing="0" cellpadding="0" width="760">
-
-	<tbody><tr>
-	<td valign="top" width="760" colspan="5"><img src="/assets/images/spacer.gif" width="760" height="20" border="0" alt=""></td>
-	</tr>
-	<tr>
-	<td valign="top" width="15"><img src="/assets/images/spacer.gif" width="10" height="1" border="0" alt=""></td>
-	<td valign="top" width="460">
-		<table border="0" cellpadding="0" cellspacing="0" width="460">
-		<tbody><tr>
-		<td>
-		<!-- Begin Main Content Area-->
-			<table border="0" cellpadding="0" cellspacing="0" width="460">
-				<tbody><tr>
-					<td valign="middle" width="460">
-					
-						<!--?xml version="1.0" encoding="UTF-8"?--><table cellspacing="0" cellpadding="3" border="0"><tbody><tr><td class="cmsArticleHeader" align="left">Privacy and Security Policy</td></tr><tr><td class="cmsArticleAuthor" align="left"></td></tr><tr><td class="cmsArticleText"><p>Welcome to homegoods.com (the "Web site"), the Web site for HomeGoods, a division of The TJX Companies, Inc. ("TJX"). HomeGoods, TJX and its affiliates are the "TJX Businesses."</p>
-
-<p>This Privacy and Security Policy is a part of the Web site which is also governed by the Web site's Terms of Use.&nbsp;By using the Web site you signify your assent to the conditions stated in the Privacy and Security Policy. If you do not agree with this Privacy and Security Policy and our&nbsp;<a href="/custserv/custserv.jsp?contentId=8">Terms of Use</a> , please do not use our Web site.</p>
-
-<p>HomeGoods wants to make your experience online convenient and safe.&nbsp;We want you to know what information we collect, how we may use that information, how we protect that information, and how we share that information.</p>
-
-<p><strong class="red">What Information We Collect</strong></p>
-
-<p>We collect information that you provide when using our Web site.&nbsp;For example, when you shop online we obtain from you the information related to your purchase transaction, including your name, billing address, email address, telephone number, credit or debit card number and the name and address of gift recipients.&nbsp;All of this information is personal information. Also, when you participate in our surveys, enter sweepstakes or contests, sign up for e mail, send us feedback or submissions, you are providing us your personal information.&nbsp;(When we run a contest or sweepstakes, the rules will specify any additional ways in which the entry information from you will be used and shared.)&nbsp;</p>
-
-<p>In addition, each time you visit our Web site, our servers will automatically collect certain information describing your visit, including your IP address and browser information. This automatically collected information provides us with data regarding the use of the Web site.</p>
-
-<p><strong class="red">How We Use the Information We Collect</strong></p>
-
-<p>When we do collect information from you, we may use it for a number of purposes, including to:</p>
-
-<ul>
-<li>Complete your purchase transactions and keep you informed about the status of your orders or purchases;</li>
-
-<li>&nbsp;Identify your product and service preferences, so that we can notify you of new or additional products, services and promotions that might be of interest to you;</li>
-
-<li>Improve merchandise selections and customer service;</li>
-
-<li>Notify you about new services, features, promotions and special offers relating to the TJX Businesses we think you will find valuable;</li>
-
-<li>Respond to your inquiries;</li>
-
-<li>Administer your participation in promotions, contests and sweepstakes in which you have chosen to participate; and</li>
-
-<li>&nbsp;Understand and improve your use and experience on our Web site.</li>
-</ul>
-
-<p>On rare occasions we may also be required to disclose your information as is required by law pursuant to lawful requests such as subpoenas, court or agency orders, or as we may reasonably determine to be necessary to protect our rights or the rights of others, to deter fraud and credit risk, to avert harm to persons or property, or to enforce our Web site Terms of Use.</p>
-
-<p><strong class="red">Those With Whom We Share Your Information</strong></p>
-
-<p>We may share your personal information among the TJX Businesses (which are affiliates owned by TJX, including Marshalls, TJ Maxx, AJ Wright, Bob's Stores, Winners, HomeSense, and TK Maxx). They may use this information to offer products and services to you consistent with the purposes identified in this statement.&nbsp;Your information may also be transferred as an asset in connection with a merger or sale (including any transfers made as a part of an insolvency or bankruptcy proceeding) involving all or part of the TJX Businesses or as part of a corporate reorganization, stock sale or other change in control.&nbsp;</p>
-
-<p>We also share certain personal information we collect about you with third parties who perform services for us or with whom we contract for the purposes described in this Privacy and Security Policy.&nbsp;For example, we may use third parties to host our Web site, operate certain of its features, send emails, print or send mailings, authorize and process your payments, analyze data and assist in fulfilling your orders. These third party service providers are given the information that they need to perform their designated functions and we do not authorize them to use or disclose your personal information for any other purpose.</p>
-
-<p><strong class="red">Policies for Children</strong></p>
-
-<p>We do not seek nor will we knowingly collect personal information from anyone under the age of 13.</p>
-
-<p><strong class="red">Links to Other Sites</strong></p>
-
-<p>When you use our Web site, you may discover that it contains links to other sites that are not owned or operated by the TJX Businesses. These links are not intended to be referrals or endorsements of the linked sites and the TJX Businesses are providing them only as a convenience.&nbsp;As such, the TJX Businesses do not warrant, represent or assume any responsibility or liability for the accuracy, completeness or operation of any linked site (or any site contained in a linked site), or the practices or privacy and other policies contained in any linked site (or any site contained in a linked site).&nbsp;You should familiarize yourself, therefore, with the specific legal, privacy and security information contained in any such linked sites.</p>
-
-<p>Our Web site also contains links to other sites operated by the TJX Businesses. We advise you to review the legal, privacy and security information for each such site to which you link, as the terms and conditions of use and the personal information you provide may vary from Web site to Web site.</p>
-
-<p><strong class="red">Use of Cookies</strong></p>
-
-<p>A cookie is a small text file which is stored on a computer's hard drive which allows us to recognize and track users on our Web site and assists us in providing our customers with a productive shopping experience.&nbsp;We and some of our third-party service providers use cookies.&nbsp;Most browsers are initially set up to accept cookies and can be reset by using the "Help" portion of the toolbar to refuse all cookies or indicate when a cookie is being sent.&nbsp;Should you choose to disable any cookies associated with the Web site, you will not be able to take full advantage of all the Web site's features, but you should be able to navigate the Web site without difficulty.</p>
-
-<p><strong class="red">Other Types of Data Collection</strong></p>
-
-<p>We use a third party service provider to help us gather information about the areas that you visit on the Web site in order to evaluate and improve the customer experience and the convenience of the Web site.&nbsp;To find out more about our service provider's privacy policy, or if you would like to deactivate our ability to analyze your browsing through the use of this service, please <a href="http://www.coremetrics.com/info_eluminate2.html">click here</a>.</p>
-
-<p><strong class="red">How We Protect Your Information</strong></p>
-
-<p>We employ various security measures designed to help protect the personal information that we collect about you.&nbsp;We have instituted software firewalls to protect our servers and network.&nbsp;When your credit card information is collected through our Web site, it is encrypted using Secure Sockets Layer (SSL) technology.&nbsp;We also use VeriSign technology to help us protect against fraud.&nbsp; Unfortunately, no transmission of information over the Internet can be guaranteed to be 100% secure and therefore we cannot ensure or warrant the security of any such information.</p>
-
-<p><strong class="red">Opt Out From Email</strong></p>
-
-<p>You can opt out of email from us by doing one of the following:</p>
-
-<ul>
-<li>If you originally signed up on the HomeGoods email sign-up page, please return to that page, and click on the "unsubscribe" link.&nbsp;Then enter your email address and click the "Submit" button.&nbsp; Please be sure to use the same email address as that which you originally used to opt in.&nbsp;Otherwise it may not be possible to comply with your request; or</li>
-
-<li>When you have received an email from HomeGoods, you can follow the opt out or "unsubscribe" instructions provided in your HomeGoods email. (We may need to continue to contact you relating to orders you have placed with us.)</li>
-</ul>
-
-<p><strong class="red">Opt Out From Email and/or Postal Mail</strong></p>
-
-<p>You can opt out of email and/or postal mail from us by doing the following:</p>
-
-<ul>
-<li>Contact HomeGood's Customer Service Monday - Friday 9:00 a.m. - 5:00 p.m. (Eastern Time) at 1-800-926-6299 if you do not want to receive email and/or postal mail communications from us in the future.&nbsp;(We may need to continue to contact you relating to orders you have placed with us.)</li>
-</ul>
-
-<p>In addition, please note that any opt out for postal mail may take at least sixty (60) days to become effective.&nbsp;Also, you may still receive email or postal mail from other members of the TJX Businesses if they received your email or postal address from other sources or as a result of their own transactions or experiences with you.</p>
-
-<p><strong class="red">Contact Information</strong></p>
-
-<p>If you have questions regarding our Privacy and Security Policy, or if you wish to make changes to your information, you may contact us at the following address:</p>
-
-<p>HomeGoods<br>
-770 Cochituate Road<br>
-Framingham, MA&nbsp; 01701<br>
-Attn:&nbsp;Customer Service - Privacy and Security Policy</p>
-
-<p><strong class="red">Changes to Our Policy</strong></p>
-
-<p>We reserve the right to modify our Privacy and Security Policy by updating this posting.&nbsp;Your use of our Web site following any change constitutes your agreement to be bound by the changed terms. For this reason, we strongly encourage you to please refer to this statement often for the latest information.</p>
-
-<p>This statement was last updated as of June 1, 2004.</p>
-
-<p>©2004 HomeGoods&nbsp; All rights reserved<br>
-</p>
-</td></tr></tbody></table>
-					
-					</td>
-				</tr>
-			</tbody></table>
-		</td>
-		</tr>
-		</tbody></table>
-	</td>
-	<td valign="top" width="22"><img src="/assets/images/spacer.gif" width="22" height="1" border="0" alt=""></td>
-	<!-- Begin Your Order -->
-	<td valign="top" width="248">
-		
-			
-      
-
-		
-			
-      
-	</td>
-	<td valign="top" width="15"><img src="/assets/images/spacer.gif" width="15" height="1" border="0" alt=""></td>
-	</tr>
-	<tr>
-		<td valign="top" width="760" colspan="5"><img src="/assets/images/spacer.gif" width="760" height="20" border="0" alt=""></td>
-	</tr>
-</tbody></table>
-
-
-<meta name="WT.ti" content="Customer%20Service">
-
-
-				</td>
-				<!-- Main Body Ends -->
-			</tr>
-			<tr>
-				<td valign="TOP" width="761">
-
-
-
-
-
-<script language="JavaScript">
-<!--
-
-function forward_email_address() {
- var user_email_address=document.homepagesignupform.emailAddress.value;
-  var url="http://tjx.ed4.net/homegoods/signup.cfm?l=3539851";
-  url=url+"&email="+user_email_address;
-  window.location.href=url;
-  user_email_address="";
- //alert("user email address is :"+user_email_address);
- return false;
-}
--->
-</script>
-
-<!-- Begin Footer -->
-<table border="0" cellspacing="0" cellpadding="0" width="761">
+<table cellpadding="0" cellspacing="0" width="786" height="80" border="0">
 <tbody><tr>
-	<td valign="top" width="761" bgcolor="#AA0011" align="left"><img src="/assets/images/spacer.gif" width="761" height="2" border="0" alt=""></td>
+	<td><a href="index.asp"><img src="images/homegoods_logo.gif" border="0" height="75" width="204"></a></td>
+	<form method="get" action="search_results.aspx" name="frmZip" onsubmit="javascript:if (isNaN(this.postcode.value)) this.action='locator.asp'; return true;" id="Form2"></form>
+	<td><img src="images/spacer.gif" border="0" height="55" width="20"><a href="locator.asp"><img src="images/locator_nav.gif" border="0" height="12" width="67"></a><input name="postcode" size="8" maxlength="5" id="Text1" value="enter zip code" onfocus="this.select();"><input type="image" src="images/submit_nav.gif" border="0" id="image1" name="image1"></td>
+	
+	<form name="frmEmail" action="email_main.asp" method="post"></form>
+	<td><img src="images/spacer.gif" border="0" height="55" width="20"><a href="email_main.asp"><img src="images/email_nav.gif" border="0" height="12" width="92"></a><input type="text" name="txtEmail" size="9" value="email address" maxlength="64" onfocus="this.select();"><input type="image" src="images/submit_nav.gif" border="0" id="image1" name="image1"></td>
+	
+	<td><img src="images/spacer.gif" border="0" height="40" width="20"><a href="gift_cert.asp"><img src="images/gift_cert_nav.gif" border="0" height="75" width="191"></a></td>
 </tr>
 <tr>
-<td valign="top" width="761">
-	<table border="0" cellspacing="0" cellpadding="0" width="761">
-	<tbody><tr>
-	<td valign="top" width="10"><img src="/assets/images/spacer.gif" width="10" height="1" border="0" alt=""></td>
-	<td valign="top" width="153"><img src="/assets/images/spacer.gif" width="153" height="5" border="0" alt=""><br><a href="http://www.homegoods.com/custserv/custserv.jsp?contentId=24"><b class="text2">Customer Service</b></a><br>
-<a class="footer1" href="http://www.homegoods.com/custserv/custserv.jsp?contentId=20">Why Shop HomeGoods</a><br>
-<a class="footer1" href="http://www.homegoods.com/custserv/custserv.jsp?contentId=19">Tour the Store</a><br>
-<a class="footer1" href="http://www.homegoods.com/custserv/custserv.jsp?contentId=13">Privacy and Security</a><br>
-<a class="footer1" href="http://www.homegoods.com/custserv/custserv.jsp?contentId=24">More &gt;&gt;</a><br></td>
-	<td valign="top" width="10"><img src="/assets/images/spacer.gif" width="10" height="1" border="0" alt=""></td>
-	<td valign="top" width="154"><img src="/assets/images/spacer.gif" width="154" height="5" border="0" alt=""><br><a href="http://www.homegoods.com/custserv/custserv.jsp?contentId=24"><b class="text2">Ease of Shopping</b></a><br>
-<a class="footer1" href="http://www.homegoods.com/custserv/custserv.jsp?contentId=14">Hassle-free Returns</a><br>
-<a class="footer1" href="http://www.homegoods.com/custserv/custserv.jsp?contentId=16">Shipping Information</a><br>
-<a class="footer1" href="http://www.homegoods.com/user/track_order.jsp">Order Status</a><br>
-<a class="footer1" href="http://www.homegoods.com/custserv/custserv.jsp?contentId=24">More &gt;&gt;</a><br></td>
-	<td valign="top" width="217">
-		<table border="0" cellspacing="0" cellpadding="0" width="217">
-		<form action="http://www.homegoods.com/storelocator/findstoreszip.cmd" method="post" name="storelocatorform"></form><input type="hidden" name="form_state" value="storelocatorform">
-		<tbody><tr>
-		<td valign="top" width="10"><img src="/assets/images/spacer.gif" width="10" height="1" border="0" alt=""></td>
-		<td valign="top" width="207" colspan="3" class="text"><img src="/assets/images/footer_nav/h_hg_storelocator.gif" width="105" height="22" border="0" alt="Store Locator"><br>Like what you see? Find a store<br> near you</td>
-		</tr>
-		<tr>
-		<td valign="top" width="10"><img src="/assets/images/spacer.gif" width="10" height="1" border="0" alt=""></td>
-		<td valign="top" width="110"><input type="text" name="zipCode" value="Enter zip code" onfocus="this.value=''" size="8" maxlength="10" style="width:100px; height:18px;" class="monospace"></td>
-		<td align="left" valign="middle" width="15"><input type="image" value="go" src="/assets/images/header_nav/hg_arrow.gif" width="15" height="15" border="0" alt=""></td>
-		<td valign="top" width="82"><img src="/assets/images/spacer.gif" width="82" height="1" border="0" alt=""></td>
-		</tr>
-		
-		</tbody></table>
-	</td>
-	<td valign="top" width="217">
-		<table border="0" cellspacing="0" cellpadding="0" width="217">
-		<form action="http://www.homegoods.com/" method="post" name="homepagesignupform" onsubmit="return forward_email_address()"></form><input type="hidden" name="form_state" value="homepagesignupform">
-		<tbody><tr>
-		<td valign="top" width="10"><img src="/assets/images/spacer.gif" width="10" height="1" border="0" alt=""></td>
-		<td valign="top" width="207" colspan="3" class="text"><img src="/assets/images/footer_nav/h_hg_signup.gif" width="59" height="22" border="0" alt="Sign Up"><br>Be the first to hear about online<br> and in-store specials</td>
-		</tr>
-		<tr>
-		<td valign="top" width="10"><img src="/assets/images/spacer.gif" width="10" height="1" border="0" alt=""></td>
-		<td valign="top" width="140"><input type="text" name="emailAddress" value="Enter e-mail address" onfocus="this.value=''" size="8" maxlength="60" style="width:130px; height:18px;" class="monospace"></td>
-		<td align="left" valign="middle" width="15"><input title="go" type="image" src="/assets/images/header_nav/hg_arrow.gif" width="15" height="15" border="0" alt=""></td>
-		<td valign="top" width="52"><img src="/assets/images/spacer.gif" width="52" height="1" border="0" alt=""></td>
-		</tr>
-		
-		</tbody></table>
-	</td>
-	</tr>
-	<tr>
-	<td valign="top" width="761" colspan="6"><img src="/assets/images/spacer.gif" width="761" height="18" border="0" alt=""></td>
-	</tr>
-	<tr>
-	<td valign="top" width="10"><img src="/assets/images/spacer.gif" width="10" height="1" border="0" alt=""></td>
-	<td valign="middle" width="751" colspan="5" align="left"><a class="footer" href="http://www.homegoods.com/custserv/custserv.jsp?contentId=23"><img src="/assets/images/footer_nav/hg_giftcertificate.gif" width="249" height="25" border="0" alt="Everybody loves a HomeGoods Gift Certificate"></a></td>
-	</tr>
-	<tr>
-	<td valign="top" width="761" colspan="6"><img src="/assets/images/spacer.gif" width="761" height="18" border="0" alt=""></td>
-	</tr>
-	<tr>
-	<td valign="top" width="761" colspan="6" bgcolor="#AA0011"><img src="/assets/images/spacer.gif" width="761" height="1" border="0" alt=""></td>
-	</tr>
-	<tr>
-	<td valign="top" width="761" colspan="6"><img src="/assets/images/spacer.gif" width="761" height="12" border="0" alt=""></td>
-	</tr>
-	<tr>
-	<td valign="top" width="10"><img src="/assets/images/spacer.gif" width="10" height="1" border="0" alt=""></td>
-	<td valign="top" width="751" colspan="5" class="text">Shop our stores for thousands more great, everyday values from around the world. <a href="http://www.homegoods.com/custserv/custserv.jsp?contentId=10">Selections will vary by store</a>.  &gt;&gt;</td>
-	</tr>
-	<tr>
-	<td valign="top" width="761" colspan="6"><img src="/assets/images/spacer.gif" width="761" height="18" border="0" alt=""></td>
-	</tr>
-	<tr>
-	<td valign="top" width="10"><img src="/assets/images/spacer.gif" width="10" height="1" border="0" alt=""></td>
-	<td valign="middle" width="751" colspan="5" class="footer1">©<a class="footer1" href="http://www.homegoods.com/custserv/custserv.jsp?contentId=8">2005 HomeGoods</a> &nbsp;&nbsp; <a class="footer1" href="http://www.homegoods.com/custserv/custserv.jsp?contentId=8">Legal</a> &nbsp;&nbsp; <a class="footer1" href="http://www.homegoods.com/custserv/custserv.jsp?contentId=1">About Us</a> &nbsp;&nbsp; <a href="http://tjxp.tjxcos.com/homegoods/faq.aspx" class="footer1">Contact Us</a><a> &nbsp;&nbsp; </a><a class="footer1" href="http://www.homegoods.com/custserv/custserv.jsp?contentId=24">Site Map</a></td>
-	</tr>
-	</tbody></table>
-</td>
+	<td colspan="4"><img src="images/graybar_nav.gif" border="0" height="5" width="786"></td>
 </tr>
 </tbody></table>
-<!-- End Footer --></td>
-			</tr>
-		</tbody></table>
-	</div>
-	
 
+<!--EditLiveSectionBegin-->
+<table width="786" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+	<td colspan="2"><img height="15" src="images/spacer.gif" width="1" border="0"><a name="top"></a></td>
+</tr>
+<tr valign="top"> 
+	<td><img height="1" src="images/spacer.gif" width="15" border="0"></td>
+	<td><table cellspacing="0" cellpadding="3" border="0">
+      <tbody><tr>
+        <td height="25" align="left"><img src="images/hg_privacy_hdr.gif"></td>
+      </tr>
+     
+      <tr>
+        <td valign="top">
+            <p>              <br>
+               Welcome to homegoods.com (the "Website"), a website for HomeGoods, a division of The TJX Companies, Inc. ("TJX"). TJX, HomeGoods, Marshalls, T.J. Maxx, Bob's Stores, A.J. Wright, and its other affiliates are the "TJX Businesses." This Privacy and Security Policy applies to and is a part of the Website which is also governed by the Website's Terms of Use. If any of the terms of this Privacy and Security Policy directly conflict with the Website Terms of Use, the terms of this Privacy and Security Policy shall apply and control.<br>
+              <br>
+              HomeGoods wants to make your online experience convenient and safe. We want you to know what information we collect, how we may use that information, how we protect that information, and how we share that information. Personal information is information about an identifiable individual, which includes name, address, e-mail address, telephone number, and other information that is identifiable to you, as more particularly defined by privacy legislation. By using the Website, or by providing us with your personal information at our stores, in our promotions and in other ways when you interact with us, you signify your assent to the conditions stated in this Privacy and Security Policy and the Terms of Use. This Privacy and Security Policy does not apply to information about our employees or to information provided to us in connection with employment opportunities.<br>
+              <br>
+              <strong>What Information We Collect</strong><br>
+              <br>
+              When you shop with us, we collect the personal information you provide us in connection with your purchase transaction, such as your name and telephone number. We also collect and maintain records and history about customers' purchases and product preference. If you pay by credit card, debit card or check, you provide us with your account information. If you return merchandise or request a refund or exchange, you provide us with your personal information. Also, when you register or create an online account with us, sign up for e-mail, enroll in any loyalty or other reward program, contact customer service, participate in our surveys, enter our sweepstakes, contests or other promotions, or send us feedback or submissions, you are providing us your personal information.<br>
+              <br>
+              <strong>Other Types of Data Collection</strong><br>
+              <br>
+              When you visit our Website, our servers will automatically collect certain information describing your visit, including your IP address and browser information. This automatically collected information provides us with data regarding the use of the Website.<br>
+              <br>
+              We may also use a third party to help us gather and analyze information about the areas that you visit on the Website in order to evaluate and improve the customer experience and the convenience of the Website, and to help us evaluate some of the specific information that you provide to us. For example, when you choose to sign up for e-mail, our third-party service provider will help us analyze the information you have provided so that we can personalize your experience when you visit the Website in the future by giving you more of the information that you will find useful. To find out more about our service provider's privacy policy, or if you would like to deactivate our ability to analyze your browsing through the use of this service, please <a href="http://www.coremetrics.com/company/privacy.html#services" target="_blank">click here</a>. <br>
+              <br>
+              <strong>Use of Cookies</strong><br>
+              <br>
+              We and some of our third-party service providers use cookies. A cookie is a small text file written by an Internet server to a website user's browser where information is exchanged between them, and which is stored on a computer's hard drive to allow us to recognize and track users on our Website to assist us in providing our customers with a productive online experience. Cookies enable us to store information about your use of our Website such as the areas you visit and the length of your stay. Most browsers are initially set up to accept cookies and can be reset by using the "Help" portion of the toolbar to refuse all cookies or indicate when a cookie is being sent. Should you choose to disable any cookies associated with the Website, you will not be able to take full advantage of all the Website's features, but you should be able to navigate the Website without difficulty.<br>
+              <br>
+              <strong>How We Use the Information We Collect</strong><br>
+              <br>
+              When we do collect information from you, we may use it for a number of purposes, including to:
+            </p><ul><li>process and complete your purchase 
+              transaction; 
+ 
+     </li><li>identify your product and service 
+              preferences so that we can notify you of new or additional 
+              products, services and promotions relating to the TJX Businesses 
+              that might be of interest to you; 
+ 
+      </li><li>improve merchandise selections and 
+              customer service; 
+ 
+          </li><li>notify you about new services, features, 
+              promotions and special offers relating to the TJX Businesses we 
+              think you will find valuable; 
+ 
+          </li><li>respond to your inquiries; 
+ 
+         </li><li>administer your participation in 
+              promotions, contests and sweepstakes in which you have chosen to 
+              participate; 
+ 
+        </li><li>measure the advertising effectiveness of 
+              our online and other advertisements and offers; 
+ 
+        </li><li>help us understand Website activity and 
+              improve your use of our Website; and 
+ 
+        </li><li>help us prevent fraud, and minimize credit risk.</li></ul>
+              In order for us to maintain the accuracy of your personal information and improve our communication with you, we may also combine the information we collect with other public demographic information. On rare occasions we may also be required to disclose your information as is required by law pursuant to lawful requests such as subpoenas, court or agency orders, or as we may reasonably determine to be necessary to protect our rights or the rights of others, to avert harm to persons or property, or to enforce our Website Terms of Use or this Privacy and Security Policy.<br>
+              <br>
+              <strong>Those With Whom We Share Your Information</strong><br>
+              <br>
+              We may share your personal information among the TJX Businesses (which are affiliates owned by TJX, including HomeGoods, T.J. Maxx, Marshalls, A.J. Wright, Bob's Stores, Winners, HomeSense, and T.K. Maxx). They may use this information to offer products and services to you consistent with the purposes identified in this statement. Your information may also be transferred as an asset in connection with a merger or sale (including any transfers made as a part of an insolvency or bankruptcy proceeding) involving all or part of the TJX Businesses or as part of a corporate reorganization, stock sale or other change in corporate control.<br>
+              <br>
+              If a contest, sweepstakes or promotion is jointly sponsored by us and one or more other sponsors, your information may be shared with such sponsors. We do not control other sponsors' use of your personal information, and their use of your information will be in accordance with their own privacy policies. If you do not wish your information to be shared in this manner, you may opt not to participate in such jointly sponsored contests, sweepstakes or promotions. Such promotions may also be subject to additional rules and regulations governing your participation.<br>
+              <br>
+              We may also share certain personal information we collect about you with third parties who perform services for us or with whom we contract for the purposes described in this Privacy and Security Policy. For example, we may use third parties to host our Website, operate certain of its features, send e-mails, print or send mailings, run our sweepstakes, contests or other promotions, authorize and process your payments, and analyze data and our advertising effectiveness. These third-party service providers are given the information that they need to perform their designated functions and we do not authorize them to use or disclose your personal information for their own or any others' marketing purposes.<br>
+              <br>
+              <strong>Policies for Children </strong><br>
+              <br>
+              We do not seek nor will we knowingly collect personal information from anyone under the age of 13.<br>
+              <br>
+              <strong>Links</strong><br>
+              <br>
+              When you use our Website, you may discover that it may contain links to other sites that are not owned or operated by the TJX Businesses. Also, links to our Website may be featured on other websites on which we advertise. These links are not intended to be referrals or endorsements of the linked or host sites, and the TJX Businesses do not warrant, represent or assume any responsibility or liability for the accuracy, security, completeness or operation of any linked site (or any site contained in a linked site) or any host site, or the practices or privacy and other policies contained in any linked site (or any site contained in a linked site) or any host site. We advise you to familiarize yourself, therefore, with the specific legal, privacy and security information contained in any such linked or host sites.<br>
+              <br>
+              Our Website also contains links to other websites operated by the other TJX Businesses. We advise you to review the legal, privacy and security information for each such site to which you link, as the terms and conditions of use and the personal information you provide may vary from website to website. <br>
+              <br>
+              We may use third parties to serve our advertisements on other websites. These companies may use online tools such as pixel tags to report certain information (but not your name, address, e-mail address or telephone number) about your visits to our Website and the websites which advertise and feature links to our Website, in order to measure the advertising effectiveness of our ads. We contractually restrict these companies from using your personally identifiable information for their own or any others' marketing purposes, or from sharing your personal information with anyone other than the TJX Businesses.<br>
+              <br>
+              <strong>How We Protect Your Information</strong><br>
+              <br>
+              We employ various security measures designed to help protect the personal information that we collect from you online. We have instituted software firewalls to protect our servers and network. Unfortunately, no collection or transmission of information over the Internet can be guaranteed to be 100% secure, and therefore, we cannot ensure or warrant the security of any such information.<br>
+              <br>
+             <p><strong>Opt-Out From E-mail</strong>  </p>
+          <p>You can opt-out of receiving promotional e-mail from us by doing one of the following:</p>
+          <ul><li> If you originally signed up for HomeGoods e-mail, please return to the e-mail sign-up page, and click on the "unsubscribe" link. Then enter your e-mail address and <strong>click the "Submit" button.</strong> Please be 
+              sure to use the same e-mail address as that which you used to sign 
+              up with. Otherwise it may not be possible to comply with your 
+              request; or 
+ 
+       </li><li> If you have received an e-mail from HomeGoods, you can <strong>follow the opt-out or "unsubscribe" instructions provided in your e-mail.&nbsp; </strong></li></ul>
+          <p>&nbsp;</p>
+          <p><strong>Opt-Out From E-mail and/or Postal 
+            Mail</strong>     </p>
+          <p>You can opt-out of receiving promotional e-mail and/or postal mail from us by doing the following:</p>
+          <ul><li>Contact <strong>Customer Service, Monday - Friday 9:00 a.m. - 5:00 p.m. (Eastern Time) at the following toll-free number: 1-800-926-6299</strong> if you do not want to receive promotional e-mail and/or postal mail communications from us in the future. Please specify if you would like to be opted-out of e-mail, or postal mail, or both. If you have already received communications from us, it will expedite the opt-out process if you are prepared to provide us with the exact name, and e-mail and/or postal mail addresses under which you have been receiving communications from us.</li></ul>
+          <p>In addition, please note that any opt-out for postal mail may take at least sixty (60) days to become effective. Also, you may still receive e-mail or postal mail from other members of the TJX Businesses if they received your e-mail or postal address from other sources or as a result of their own transactions or experiences with you, or, if you request to hear from us again.</p>
+              <strong>NOTICE TO CALIFORNIA RESIDENTS<br>
+              <br>
+              YOUR CALIFORNIA PRIVACY RIGHTS</strong><br><a name="CA"></a>
+              <br>
+              If you are a California resident, California law provides that you be given the opportunity to opt-out of our sharing your personal information with third parties which would use such personal information for direct marketing. Absent such an opt-out, we may share your information with other TJX Businesses (which are affiliates owned by TJX, including HomeGoods, T.J. Maxx, Marshalls, A.J. Wright, and Bob's Stores), to provide you with information about their products, services or promotions that we think may be of interest to you; or your information could be transferred to a successor to HomeGoods in the event of a merger, sale or corporate reorganization involving HomeGoods. Accordingly, per California law, we provide a way for you to opt-out if you do not want us to share your information in this manner.<br>
+              <br>
+              California residents can opt-out of our sharing your information as described above by contacting Customer Service, Monday - Friday 9:00 a.m. - 5:00 p.m. (Eastern Time) at the following toll-free number: 1-800-888-0776, and requesting that you would like to opt-out from receiving all marketing communications from HomeGoods and all other TJX Businesses. If you have already received communications from us, it will expedite the opt-out process if you are prepared to provide us with the exact name, and e-mail and/or postal mail addresses under which you have been receiving communications from us. Please note that it may take us up to thirty (30) days to fully process your opt-out request.<br>
+              <br>
+              To review our complete Privacy and Security Policy, please <a href="privacy.asp#top">click here</a>. <br>
+              <br>
+              <strong>Contact Information </strong><br>
+              <br>
+              If you have questions regarding our Privacy and Security Policy, or if you wish to make changes to your information maintained by us, you may write to us at the following address:<br>
+              <br>
+              HomeGoods<br>
+              770 Cochituate Road<br>
+              Framingham, MA 01701<br>
+              Attn: Customer Service - Privacy Policy <br>
+              <br>
+              <strong>Changes to Our Policy </strong><br>
+              <br>
+              We reserve the right to modify our Privacy and Security Policy by updating this posting and revising the effective date below. For this reason, we strongly encourage you to please refer to this statement often for the latest information.<br>
+              <br>
+              This statement was last updated as of October 24, 2005.<br>
+              <br>
+              ®2006 HomeGoods. All rights reserved.<br>
+            <p></p>
+          </td>
+      </tr>
+    </tbody></table></td>
+	<td><img height="1" src="images/spacer.gif" width="15" border="0"></td>
+</tr>
+<tr>
+	<td colspan="2"><img height="15" src="images/spacer.gif" width="1" border="0"></td>
+</tr>
+</tbody></table>
+<!--EditLiveSectionEnd-->
+<table border="0" cellspacing="0" cellpadding="0" width="786" height="38">
+    <tbody><tr>
+    <td colspan="4"><img src="images/graybar_nav.gif" width="786" height="5" border="0"></td>
+    </tr>
+
+    <tr>
+    <td><img src="images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+    <td height="22" align="center" class="text" style="padding:5px;">
+    <a class="footer" href="legal.asp">Terms of Use</a><span class="footer">&nbsp;|&nbsp;</span><a class="footer" href="privacy.asp">Privacy</a><span class="footer">&nbsp;|&nbsp;</span><a class="footer" href="privacy.asp#CA">California Privacy</a><span class="footer">&nbsp;|&nbsp;</span><a class="footer" href="http://www.careers-tjx.com/tjx/jobboard/searchjobs.aspx" target="_blank">Jobs</a><span class="footer">&nbsp;|&nbsp;</span><a href="faq.aspx" class="footer">Contact Us</a><span class="footer">&nbsp;|&nbsp;</span><a href="visa.asp" class="footer">TJX Visa Card</a><span class="footer">&nbsp;|&nbsp;</span>
+	<a class="footer" href="press.asp">Press</a><span class="footer">&nbsp;|&nbsp;</span>
+	<a class="footer" href="corporate.asp">Corporate Incentives</a>
+	<br><span class="footer">©2006 HomeGoods</span></td>
+     <td><img src="images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+    </tr>
+
+    <tr>
+    <td colspan="4"><img src="images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+    </tr>
+    </tbody></table>
 
 
 
