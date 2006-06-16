@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qa.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221155436id_/http%3A//www.qa.com/privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qa.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616104928id_/http%3A//qa.com/privacy/default.aspx) for the most accurate reproduction.*
 
 # QA IT Services - Privacy and Security
 
