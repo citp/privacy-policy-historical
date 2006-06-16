@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the officemaxperks.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219083223id_/http%3A//about.officemax.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officemaxperks.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616160934id_/http%3A//about.officemax.com/privacy) for the most accurate reproduction.*
 
 # OfficeMax - Privacy Policy
 
-|  |   | [](https://web.archive.org/web/20051219083223id_/http://about.officemax.com/html/index.shtml) |   
+|  |   | [](https://web.archive.org/web/20060616160934id_/http://about.officemax.com/html/index.shtml) |   
 ---|---|---  
   
-| [](https://web.archive.org/web/20051219083223id_/http://about.officemax.com/html/officemax_who_we_are.shtml) | [](https://web.archive.org/web/20051219083223id_/http://about.officemax.com/html/officemax_market_serve.shtml) | [](https://web.archive.org/web/20051219083223id_/http://about.officemax.com/html/officemax_commitments.shtml) | [](https://web.archive.org/web/20051219083223id_/http://about.officemax.com/html/officemax_news.shtml) | [](https://web.archive.org/web/20051219083223id_/http://about.officemax.com/html/officemax_investors.shtml) | [](https://web.archive.org/web/20051219083223id_/http://about.officemax.com/html/officemax_vendors.shtml) | [](http://jobsearch.officemax.careers.monster.com/)  
+| [](https://web.archive.org/web/20060616160934id_/http://about.officemax.com/html/officemax_who_we_are.shtml) | [](https://web.archive.org/web/20060616160934id_/http://about.officemax.com/html/officemax_market_serve.shtml) | [](https://web.archive.org/web/20060616160934id_/http://about.officemax.com/html/officemax_commitments.shtml) | [](https://web.archive.org/web/20060616160934id_/http://about.officemax.com/html/officemax_news.shtml) | [](https://web.archive.org/web/20060616160934id_/http://about.officemax.com/html/officemax_investors.shtml) | [](https://web.archive.org/web/20060616160934id_/http://about.officemax.com/html/officemax_vendors.shtml) | [](http://jobsearch.officemax.careers.monster.com/)  
 ---|---|---|---|---|---|---  
 |  |  |  |  |  |   
   
@@ -86,5 +86,5 @@ We can also be reached at 1-800-283-7674 or by email at [online@officemax.com](m
   
 Return To Top  
   
-|  | [ legal notices](https://web.archive.org/legal/index.shtml) | [ privacy policy](https://web.archive.org/privacy/index.shtml) | © 2005 OMX, Inc. |    
+|  | [ legal notices](https://web.archive.org/legal/index.shtml) | [ privacy policy](https://web.archive.org/privacy/index.shtml) | © 2006 OMX, Inc. |    
 ---|---|---|---|---
