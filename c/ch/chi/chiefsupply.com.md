@@ -1,44 +1,44 @@
-> *The following text is extracted and transformed from the chiefsupply.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225080012id_/http%3A//chiefsupply.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chiefsupply.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616082753id_/http%3A//www.chiefsupply.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy & Security Policy - CHIEF
 
   
-[**CHIEF HOME**](https://web.archive.org/web/20051225080012id_/http%3A//chiefsupply.com/index.html)  
-[**Meet the new CHIEF!**](https://web.archive.org/web/20051225080012id_/http%3A//chiefsupply.com/newchief.html)
+[**CHIEF HOME**](https://web.archive.org/web/20060616082753id_/http%3A//www.chiefsupply.com/index.html)  
+[**Meet the new CHIEF!**](https://web.archive.org/web/20060616082753id_/http%3A//www.chiefsupply.com/newchief.html)
 
-[**ABOUT CHIEF**](https://web.archive.org/web/20051225080012id_/http%3A//chiefsupply.com/aboutus.html)  
-[**Sitemap**](https://web.archive.org/web/20051225080012id_/http%3A//chiefsupply.com/sitemap.html)  
-[**Why Shop CHIEF?**](https://web.archive.org/web/20051225080012id_/http%3A//chiefsupply.com/why.html)  
-[**Company Profile**](https://web.archive.org/web/20051225080012id_/http%3A//chiefsupply.com/profile.html)  
-[**Testimonials**](https://web.archive.org/web/20051225080012id_/http%3A//chiefsupply.com/whats_new.html)  
-[**In the News**](https://web.archive.org/web/20051225080012id_/http%3A//chiefsupply.com/press.html)  
-[**Career Opportunities**](https://web.archive.org/web/20051225080012id_/http%3A//chiefsupply.com/careers.html)  
-[**Contact Us**](https://web.archive.org/web/20051225080012id_/http%3A//chiefsupply.com/contact_us.html)
+[**ABOUT CHIEF**](https://web.archive.org/web/20060616082753id_/http%3A//www.chiefsupply.com/aboutus.html)  
+[**Sitemap**](https://web.archive.org/web/20060616082753id_/http%3A//www.chiefsupply.com/sitemap.html)  
+[**Why Shop CHIEF?**](https://web.archive.org/web/20060616082753id_/http%3A//www.chiefsupply.com/why.html)  
+[**Company Profile**](https://web.archive.org/web/20060616082753id_/http%3A//www.chiefsupply.com/profile.html)  
+[**Testimonials**](https://web.archive.org/web/20060616082753id_/http%3A//www.chiefsupply.com/whats_new.html)  
+[**In the News**](https://web.archive.org/web/20060616082753id_/http%3A//www.chiefsupply.com/press.html)  
+[**Career Opportunities**](https://web.archive.org/web/20060616082753id_/http%3A//www.chiefsupply.com/careers.html)  
+[**Contact Us**](https://web.archive.org/web/20060616082753id_/http%3A//www.chiefsupply.com/contact_us.html)
 
 * * *
 
   
-[**HELP**](https://web.archive.org/web/20051225080012id_/http%3A//chiefsupply.com/custserve.html)  
-[**FAQ**](https://web.archive.org/web/20051225080012id_/http%3A//chiefsupply.com/faq.html)  
-[**Shipping Charges and Delivery Times**](https://web.archive.org/web/20051225080012id_/http%3A//chiefsupply.com/shipping.html)  
-[**Returns**](https://web.archive.org/web/20051225080012id_/http%3A//chiefsupply.com/returns.html)  
-[**Free Catalog**](https://web.archive.org/web/20051225080012id_/http%3A//chiefsupply.com/mail_list.html)  
-[**Affiliate Program**](https://web.archive.org/web/20051225080012id_/http%3A//chiefsupply.com/affiliates.html)  
+[**HELP**](https://web.archive.org/web/20060616082753id_/http%3A//www.chiefsupply.com/custserve.html)  
+[**FAQ**](https://web.archive.org/web/20060616082753id_/http%3A//www.chiefsupply.com/faq.html)  
+[**Shipping Charges and Delivery Times**](https://web.archive.org/web/20060616082753id_/http%3A//www.chiefsupply.com/shipping.html)  
+[**Returns**](https://web.archive.org/web/20060616082753id_/http%3A//www.chiefsupply.com/returns.html)  
+[**Free Catalog**](https://web.archive.org/web/20060616082753id_/http%3A//www.chiefsupply.com/mail_list.html)  
+[**Affiliate Program**](https://web.archive.org/web/20060616082753id_/http%3A//www.chiefsupply.com/affiliates.html)  
 »» **Privacy Policy**  
 
 
 * * *
 
   
-[**RESOURCES**](https://web.archive.org/web/20051225080012id_/http%3A//chiefsupply.com/resources.html)  
-[**MSDS**](https://web.archive.org/web/20051225080012id_/http%3A//chiefsupply.com/msds.html)  
-[**Fire Glossaries**](https://web.archive.org/web/20051225080012id_/http%3A//chiefsupply.com/glossary.html)  
-[**Industry Links**](https://web.archive.org/web/20051225080012id_/http%3A//chiefsupply.com/links.html)  
-[**Download Catalog**](https://web.archive.org/web/20051225080012id_/http%3A//chiefsupply.com/download.html)  
-[**Newsletter**](https://web.archive.org/web/20051225080012id_/http%3A//chiefsupply.com/chiefstar/)  
-[**CHIEF Grants**](https://web.archive.org/web/20051225080012id_/http%3A//chiefsupply.com/grants/)
+[**RESOURCES**](https://web.archive.org/web/20060616082753id_/http%3A//www.chiefsupply.com/resources.html)  
+[**MSDS**](https://web.archive.org/web/20060616082753id_/http%3A//www.chiefsupply.com/msds.html)  
+[**Fire Glossaries**](https://web.archive.org/web/20060616082753id_/http%3A//www.chiefsupply.com/glossary.html)  
+[**Industry Links**](https://web.archive.org/web/20060616082753id_/http%3A//www.chiefsupply.com/links.html)  
+[**Download Catalog**](https://web.archive.org/web/20060616082753id_/http%3A//www.chiefsupply.com/download.html)  
+[**Newsletter**](https://web.archive.org/web/20060616082753id_/http%3A//www.chiefsupply.com/chiefstar/)  
+[**CHIEF Grants**](https://web.archive.org/web/20060616082753id_/http%3A//www.chiefsupply.com/grants/)
 
-[**Contact Us**](https://web.archive.org/web/20051225080012id_/http%3A//chiefsupply.com/contact_us.html)
+[**Contact Us**](https://web.archive.org/web/20060616082753id_/http%3A//www.chiefsupply.com/contact_us.html)
 
 |    | 
 
@@ -56,7 +56,7 @@
 
 
 
-**If at any time you have a complaint or concern about CHIEF, please[contact us](https://web.archive.org/web/20051225080012id_/http%3A//chiefsupply.com/contact_us.html).**
+**If at any time you have a complaint or concern about CHIEF, please[contact us](https://web.archive.org/web/20060616082753id_/http%3A//www.chiefsupply.com/contact_us.html).**
 
 ### Contact Information
 
@@ -69,7 +69,7 @@ Charlotte, NC 28269**
 **1400 Executive Parkway / Suite 220 / Mailbox 26  
 Eugene, OR 97401**
 
-We can be reached via e-mail at [this address](https://web.archive.org/web/20051225080012id_/http%3A//chiefsupply.com/contact_us.html) or you can reach us by telephone at (800) 824-4338 from 5am - 4pm, PT, Weekdays. 
+We can be reached via e-mail at [this address](https://web.archive.org/web/20060616082753id_/http%3A//www.chiefsupply.com/contact_us.html) or you can reach us by telephone at (800) 824-4338 from 5am - 4pm, PT, Weekdays. 
 
 ### Full Details & Required Legal Speak
 
@@ -95,7 +95,7 @@ If you supply us with your postal address on-line you may receive periodic maili
 Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line. 
 
 **Fax Privacy & Opt-In**  
-In compliance with FCC regulations in effect as of June 30, 2005, CHIEF has a [faxable, downloadable opt-in form](https://web.archive.org/web/20051225080012id_/http%3A//chiefsupply.com/fax-optin.doc "Opt-in/Authorization form for fax promotions from CHIEF") (MS Word format). By filling out and returning this form to CHIEF, you "opt in" to receiving fax promotions from CHIEF. Should you wish to change your fax preferences in the future, all fax promotions from CHIEF include instructions on how to unsubscribe. 
+In compliance with FCC regulations in effect as of June 30, 2005, CHIEF has a [faxable, downloadable opt-in form](https://web.archive.org/web/20060616082753id_/http%3A//www.chiefsupply.com/fax-optin.doc "Opt-in/Authorization form for fax promotions from CHIEF") (MS Word format). By filling out and returning this form to CHIEF, you "opt in" to receiving fax promotions from CHIEF. Should you wish to change your fax preferences in the future, all fax promotions from CHIEF include instructions on how to unsubscribe. 
 
 Whether or not you choose to receive promotions from CHIEF, we protect your privacy and do not sell or rent your information with third parties. 
 
