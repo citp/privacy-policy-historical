@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myway.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224145625id_/http%3A//info.myway.com/index/id/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myway.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616102910id_/http%3A//info.myway.com/index/id/privacy.html) for the most accurate reproduction.*
 
 # My Way - Privacy Policy
 
@@ -37,8 +37,6 @@ To review, revise or delete the personally identifiable information that we have
 **Privacy Policy Updates**  
 We may update this Privacy Policy from time to time by posting an updated Privacy Policy on the Site. We ask that you periodically review this page. You may refer to the "Effective Date" at the top of this document to determine when this Privacy Policy was last updated.
 
-My Way, Inc. is a division of Ask Jeeves, Inc. Internet privacy is an issue that we take very seriously. We provide this Privacy Policy so that our users will know what personally identifiable information is and is not being collected about you through the Site, how that information is and is not being used, and with whom it is and is not being shared.
+My Way, Inc. is a division of IAC Search & Media. Internet privacy is an issue that we take very seriously. We provide this Privacy Policy so that our users will know what personally identifiable information is and is not being collected about you through the Site, how that information is and is not being used, and with whom it is and is not being shared.
 
 Also, although we and our affiliates own or operate other websites, such websites are not governed by this Privacy Policy.
-
-As of July 19, 2005, Ask Jeeves has become a wholly-owned subsidiary of [IAC/InterActiveCorp](http://www.iac.com/) ("IAC"), and, thus, IAC now controls My Way's privacy practices. IAC has informed us that it does not plan to make any immediate changes to My Way's privacy practices. This means that this Privacy Policy will remain in place after we become an IAC company; and IAC will treat users' personal information with the same respect, and subject to the same constraints, as apply under this policy. If in the future IAC decides to revise My Way's privacy practices, those changes will be announced in the manner required by this policy.
