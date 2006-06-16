@@ -1,96 +1,109 @@
-> *The following text is extracted and transformed from the homegoods.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403235713id_/http%3A//www.homegoods.com/custserv/custserv.jsp%3FcontentId%3D13) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homegoods.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616091113id_/http%3A//www.homegoods.com/privacy.asp) for the most accurate reproduction.*
 
-# Privacy & Security
+# HomeGoods
 
-Welcome to homegoods.com (the "Web site"), the Web site for HomeGoods, a division of The TJX Companies, Inc. ("TJX"). HomeGoods, TJX and its affiliates are the "TJX Businesses."
+Welcome to homegoods.com (the "Website"), a website for HomeGoods, a division of The TJX Companies, Inc. ("TJX"). TJX, HomeGoods, Marshalls, T.J. Maxx, Bob's Stores, A.J. Wright, and its other affiliates are the "TJX Businesses." This Privacy and Security Policy applies to and is a part of the Website which is also governed by the Website's Terms of Use. If any of the terms of this Privacy and Security Policy directly conflict with the Website Terms of Use, the terms of this Privacy and Security Policy shall apply and control.
 
-This Privacy and Security Policy is a part of the Web site which is also governed by the Web site's Terms of Use. By using the Web site you signify your assent to the conditions stated in the Privacy and Security Policy. If you do not agree with this Privacy and Security Policy and our [Terms of Use](https://web.archive.org/custserv/custserv.jsp?contentId=8) , please do not use our Web site.
-
-HomeGoods wants to make your experience online convenient and safe. We want you to know what information we collect, how we may use that information, how we protect that information, and how we share that information.
+HomeGoods wants to make your online experience convenient and safe. We want you to know what information we collect, how we may use that information, how we protect that information, and how we share that information. Personal information is information about an identifiable individual, which includes name, address, e-mail address, telephone number, and other information that is identifiable to you, as more particularly defined by privacy legislation. By using the Website, or by providing us with your personal information at our stores, in our promotions and in other ways when you interact with us, you signify your assent to the conditions stated in this Privacy and Security Policy and the Terms of Use. This Privacy and Security Policy does not apply to information about our employees or to information provided to us in connection with employment opportunities.
 
 **What Information We Collect**
 
-We collect information that you provide when using our Web site. For example, when you shop online we obtain from you the information related to your purchase transaction, including your name, billing address, email address, telephone number, credit or debit card number and the name and address of gift recipients. All of this information is personal information. Also, when you participate in our surveys, enter sweepstakes or contests, sign up for e mail, send us feedback or submissions, you are providing us your personal information. (When we run a contest or sweepstakes, the rules will specify any additional ways in which the entry information from you will be used and shared.) 
+When you shop with us, we collect the personal information you provide us in connection with your purchase transaction, such as your name and telephone number. We also collect and maintain records and history about customers' purchases and product preference. If you pay by credit card, debit card or check, you provide us with your account information. If you return merchandise or request a refund or exchange, you provide us with your personal information. Also, when you register or create an online account with us, sign up for e-mail, enroll in any loyalty or other reward program, contact customer service, participate in our surveys, enter our sweepstakes, contests or other promotions, or send us feedback or submissions, you are providing us your personal information.
 
-In addition, each time you visit our Web site, our servers will automatically collect certain information describing your visit, including your IP address and browser information. This automatically collected information provides us with data regarding the use of the Web site.
+**Other Types of Data Collection**
+
+When you visit our Website, our servers will automatically collect certain information describing your visit, including your IP address and browser information. This automatically collected information provides us with data regarding the use of the Website.
+
+We may also use a third party to help us gather and analyze information about the areas that you visit on the Website in order to evaluate and improve the customer experience and the convenience of the Website, and to help us evaluate some of the specific information that you provide to us. For example, when you choose to sign up for e-mail, our third-party service provider will help us analyze the information you have provided so that we can personalize your experience when you visit the Website in the future by giving you more of the information that you will find useful. To find out more about our service provider's privacy policy, or if you would like to deactivate our ability to analyze your browsing through the use of this service, please [click here](http://www.coremetrics.com/company/privacy.html#services). 
+
+**Use of Cookies**
+
+We and some of our third-party service providers use cookies. A cookie is a small text file written by an Internet server to a website user's browser where information is exchanged between them, and which is stored on a computer's hard drive to allow us to recognize and track users on our Website to assist us in providing our customers with a productive online experience. Cookies enable us to store information about your use of our Website such as the areas you visit and the length of your stay. Most browsers are initially set up to accept cookies and can be reset by using the "Help" portion of the toolbar to refuse all cookies or indicate when a cookie is being sent. Should you choose to disable any cookies associated with the Website, you will not be able to take full advantage of all the Website's features, but you should be able to navigate the Website without difficulty.
 
 **How We Use the Information We Collect**
 
-When we do collect information from you, we may use it for a number of purposes, including to:
+When we do collect information from you, we may use it for a number of purposes, including to: 
 
-  * Complete your purchase transactions and keep you informed about the status of your orders or purchases;
-  *  Identify your product and service preferences, so that we can notify you of new or additional products, services and promotions that might be of interest to you;
-  * Improve merchandise selections and customer service;
-  * Notify you about new services, features, promotions and special offers relating to the TJX Businesses we think you will find valuable;
-  * Respond to your inquiries;
-  * Administer your participation in promotions, contests and sweepstakes in which you have chosen to participate; and
-  *  Understand and improve your use and experience on our Web site.
+  * process and complete your purchase transaction; 
+  * identify your product and service preferences so that we can notify you of new or additional products, services and promotions relating to the TJX Businesses that might be of interest to you; 
+  * improve merchandise selections and customer service; 
+  * notify you about new services, features, promotions and special offers relating to the TJX Businesses we think you will find valuable; 
+  * respond to your inquiries; 
+  * administer your participation in promotions, contests and sweepstakes in which you have chosen to participate; 
+  * measure the advertising effectiveness of our online and other advertisements and offers; 
+  * help us understand Website activity and improve your use of our Website; and 
+  * help us prevent fraud, and minimize credit risk.
 
-
-
-On rare occasions we may also be required to disclose your information as is required by law pursuant to lawful requests such as subpoenas, court or agency orders, or as we may reasonably determine to be necessary to protect our rights or the rights of others, to deter fraud and credit risk, to avert harm to persons or property, or to enforce our Web site Terms of Use.
+In order for us to maintain the accuracy of your personal information and improve our communication with you, we may also combine the information we collect with other public demographic information. On rare occasions we may also be required to disclose your information as is required by law pursuant to lawful requests such as subpoenas, court or agency orders, or as we may reasonably determine to be necessary to protect our rights or the rights of others, to avert harm to persons or property, or to enforce our Website Terms of Use or this Privacy and Security Policy.
 
 **Those With Whom We Share Your Information**
 
-We may share your personal information among the TJX Businesses (which are affiliates owned by TJX, including Marshalls, TJ Maxx, AJ Wright, Bob's Stores, Winners, HomeSense, and TK Maxx). They may use this information to offer products and services to you consistent with the purposes identified in this statement. Your information may also be transferred as an asset in connection with a merger or sale (including any transfers made as a part of an insolvency or bankruptcy proceeding) involving all or part of the TJX Businesses or as part of a corporate reorganization, stock sale or other change in control. 
+We may share your personal information among the TJX Businesses (which are affiliates owned by TJX, including HomeGoods, T.J. Maxx, Marshalls, A.J. Wright, Bob's Stores, Winners, HomeSense, and T.K. Maxx). They may use this information to offer products and services to you consistent with the purposes identified in this statement. Your information may also be transferred as an asset in connection with a merger or sale (including any transfers made as a part of an insolvency or bankruptcy proceeding) involving all or part of the TJX Businesses or as part of a corporate reorganization, stock sale or other change in corporate control.
 
-We also share certain personal information we collect about you with third parties who perform services for us or with whom we contract for the purposes described in this Privacy and Security Policy. For example, we may use third parties to host our Web site, operate certain of its features, send emails, print or send mailings, authorize and process your payments, analyze data and assist in fulfilling your orders. These third party service providers are given the information that they need to perform their designated functions and we do not authorize them to use or disclose your personal information for any other purpose.
+If a contest, sweepstakes or promotion is jointly sponsored by us and one or more other sponsors, your information may be shared with such sponsors. We do not control other sponsors' use of your personal information, and their use of your information will be in accordance with their own privacy policies. If you do not wish your information to be shared in this manner, you may opt not to participate in such jointly sponsored contests, sweepstakes or promotions. Such promotions may also be subject to additional rules and regulations governing your participation.
+
+We may also share certain personal information we collect about you with third parties who perform services for us or with whom we contract for the purposes described in this Privacy and Security Policy. For example, we may use third parties to host our Website, operate certain of its features, send e-mails, print or send mailings, run our sweepstakes, contests or other promotions, authorize and process your payments, and analyze data and our advertising effectiveness. These third-party service providers are given the information that they need to perform their designated functions and we do not authorize them to use or disclose your personal information for their own or any others' marketing purposes.
 
 **Policies for Children**
 
 We do not seek nor will we knowingly collect personal information from anyone under the age of 13.
 
-**Links to Other Sites**
+**Links**
 
-When you use our Web site, you may discover that it contains links to other sites that are not owned or operated by the TJX Businesses. These links are not intended to be referrals or endorsements of the linked sites and the TJX Businesses are providing them only as a convenience. As such, the TJX Businesses do not warrant, represent or assume any responsibility or liability for the accuracy, completeness or operation of any linked site (or any site contained in a linked site), or the practices or privacy and other policies contained in any linked site (or any site contained in a linked site). You should familiarize yourself, therefore, with the specific legal, privacy and security information contained in any such linked sites.
+When you use our Website, you may discover that it may contain links to other sites that are not owned or operated by the TJX Businesses. Also, links to our Website may be featured on other websites on which we advertise. These links are not intended to be referrals or endorsements of the linked or host sites, and the TJX Businesses do not warrant, represent or assume any responsibility or liability for the accuracy, security, completeness or operation of any linked site (or any site contained in a linked site) or any host site, or the practices or privacy and other policies contained in any linked site (or any site contained in a linked site) or any host site. We advise you to familiarize yourself, therefore, with the specific legal, privacy and security information contained in any such linked or host sites.
 
-Our Web site also contains links to other sites operated by the TJX Businesses. We advise you to review the legal, privacy and security information for each such site to which you link, as the terms and conditions of use and the personal information you provide may vary from Web site to Web site.
+Our Website also contains links to other websites operated by the other TJX Businesses. We advise you to review the legal, privacy and security information for each such site to which you link, as the terms and conditions of use and the personal information you provide may vary from website to website. 
 
-**Use of Cookies**
-
-A cookie is a small text file which is stored on a computer's hard drive which allows us to recognize and track users on our Web site and assists us in providing our customers with a productive shopping experience. We and some of our third-party service providers use cookies. Most browsers are initially set up to accept cookies and can be reset by using the "Help" portion of the toolbar to refuse all cookies or indicate when a cookie is being sent. Should you choose to disable any cookies associated with the Web site, you will not be able to take full advantage of all the Web site's features, but you should be able to navigate the Web site without difficulty.
-
-**Other Types of Data Collection**
-
-We use a third party service provider to help us gather information about the areas that you visit on the Web site in order to evaluate and improve the customer experience and the convenience of the Web site. To find out more about our service provider's privacy policy, or if you would like to deactivate our ability to analyze your browsing through the use of this service, please [click here](http://www.coremetrics.com/info_eluminate2.html).
+We may use third parties to serve our advertisements on other websites. These companies may use online tools such as pixel tags to report certain information (but not your name, address, e-mail address or telephone number) about your visits to our Website and the websites which advertise and feature links to our Website, in order to measure the advertising effectiveness of our ads. We contractually restrict these companies from using your personally identifiable information for their own or any others' marketing purposes, or from sharing your personal information with anyone other than the TJX Businesses.
 
 **How We Protect Your Information**
 
-We employ various security measures designed to help protect the personal information that we collect about you. We have instituted software firewalls to protect our servers and network. When your credit card information is collected through our Web site, it is encrypted using Secure Sockets Layer (SSL) technology. We also use VeriSign technology to help us protect against fraud.  Unfortunately, no transmission of information over the Internet can be guaranteed to be 100% secure and therefore we cannot ensure or warrant the security of any such information.
+We employ various security measures designed to help protect the personal information that we collect from you online. We have instituted software firewalls to protect our servers and network. Unfortunately, no collection or transmission of information over the Internet can be guaranteed to be 100% secure, and therefore, we cannot ensure or warrant the security of any such information.
 
-**Opt Out From Email**
+ **Opt-Out From E-mail**
 
-You can opt out of email from us by doing one of the following:
+You can opt-out of receiving promotional e-mail from us by doing one of the following:
 
-  * If you originally signed up on the HomeGoods email sign-up page, please return to that page, and click on the "unsubscribe" link. Then enter your email address and click the "Submit" button.  Please be sure to use the same email address as that which you originally used to opt in. Otherwise it may not be possible to comply with your request; or
-  * When you have received an email from HomeGoods, you can follow the opt out or "unsubscribe" instructions provided in your HomeGoods email. (We may need to continue to contact you relating to orders you have placed with us.)
-
-
-
-**Opt Out From Email and/or Postal Mail**
-
-You can opt out of email and/or postal mail from us by doing the following:
-
-  * Contact HomeGood's Customer Service Monday - Friday 9:00 a.m. - 5:00 p.m. (Eastern Time) at 1-800-926-6299 if you do not want to receive email and/or postal mail communications from us in the future. (We may need to continue to contact you relating to orders you have placed with us.)
+  * If you originally signed up for HomeGoods e-mail, please return to the e-mail sign-up page, and click on the "unsubscribe" link. Then enter your e-mail address and **click the "Submit" button.** Please be sure to use the same e-mail address as that which you used to sign up with. Otherwise it may not be possible to comply with your request; or 
+  * If you have received an e-mail from HomeGoods, you can **follow the opt-out or "unsubscribe" instructions provided in your e-mail.   **
 
 
 
-In addition, please note that any opt out for postal mail may take at least sixty (60) days to become effective. Also, you may still receive email or postal mail from other members of the TJX Businesses if they received your email or postal address from other sources or as a result of their own transactions or experiences with you.
+**Opt-Out From E-mail and/or Postal Mail**
+
+You can opt-out of receiving promotional e-mail and/or postal mail from us by doing the following:
+
+  * Contact **Customer Service, Monday - Friday 9:00 a.m. - 5:00 p.m. (Eastern Time) at the following toll-free number: 1-800-926-6299** if you do not want to receive promotional e-mail and/or postal mail communications from us in the future. Please specify if you would like to be opted-out of e-mail, or postal mail, or both. If you have already received communications from us, it will expedite the opt-out process if you are prepared to provide us with the exact name, and e-mail and/or postal mail addresses under which you have been receiving communications from us.
+
+
+
+In addition, please note that any opt-out for postal mail may take at least sixty (60) days to become effective. Also, you may still receive e-mail or postal mail from other members of the TJX Businesses if they received your e-mail or postal address from other sources or as a result of their own transactions or experiences with you, or, if you request to hear from us again.
+
+**NOTICE TO CALIFORNIA RESIDENTS
+
+YOUR CALIFORNIA PRIVACY RIGHTS
+
+**  
+  
+If you are a California resident, California law provides that you be given the opportunity to opt-out of our sharing your personal information with third parties which would use such personal information for direct marketing. Absent such an opt-out, we may share your information with other TJX Businesses (which are affiliates owned by TJX, including HomeGoods, T.J. Maxx, Marshalls, A.J. Wright, and Bob's Stores), to provide you with information about their products, services or promotions that we think may be of interest to you; or your information could be transferred to a successor to HomeGoods in the event of a merger, sale or corporate reorganization involving HomeGoods. Accordingly, per California law, we provide a way for you to opt-out if you do not want us to share your information in this manner.
+
+California residents can opt-out of our sharing your information as described above by contacting Customer Service, Monday - Friday 9:00 a.m. - 5:00 p.m. (Eastern Time) at the following toll-free number: 1-800-888-0776, and requesting that you would like to opt-out from receiving all marketing communications from HomeGoods and all other TJX Businesses. If you have already received communications from us, it will expedite the opt-out process if you are prepared to provide us with the exact name, and e-mail and/or postal mail addresses under which you have been receiving communications from us. Please note that it may take us up to thirty (30) days to fully process your opt-out request.
+
+To review our complete Privacy and Security Policy, please [click here](https://web.archive.org/web/20060616091113id_/http%3A//www.homegoods.com/privacy.asp#top). 
 
 **Contact Information**
 
-If you have questions regarding our Privacy and Security Policy, or if you wish to make changes to your information, you may contact us at the following address:
+If you have questions regarding our Privacy and Security Policy, or if you wish to make changes to your information maintained by us, you may write to us at the following address:
 
 HomeGoods  
 770 Cochituate Road  
-Framingham, MA  01701  
-Attn: Customer Service - Privacy and Security Policy
+Framingham, MA 01701  
+Attn: Customer Service - Privacy Policy 
 
 **Changes to Our Policy**
 
-We reserve the right to modify our Privacy and Security Policy by updating this posting. Your use of our Web site following any change constitutes your agreement to be bound by the changed terms. For this reason, we strongly encourage you to please refer to this statement often for the latest information.
+We reserve the right to modify our Privacy and Security Policy by updating this posting and revising the effective date below. For this reason, we strongly encourage you to please refer to this statement often for the latest information.
 
-This statement was last updated as of June 1, 2004.
+This statement was last updated as of October 24, 2005.
 
-©2004 HomeGoods  All rights reserved  
-
+®2006 HomeGoods. All rights reserved.
