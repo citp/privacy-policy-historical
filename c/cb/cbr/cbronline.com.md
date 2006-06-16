@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbronline.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221163838id_/http%3A//cbronline.com/display_copy.asp%3Fref%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbronline.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616035823id_/http%3A//cbronline.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Computer Business Review
 
@@ -38,7 +38,9 @@
 
   * we and other companies in our group may transfer your personal information to countries outside Europe 
   
-to protect your privacy we will, wherever practicable aggregate your personal information so that it is used by us in anonymised format   
+
+  * to protect your privacy we will, wherever practicable aggregate your personal information so that it is used by us in anonymised format 
+  
 
   * if Datamonitor or a part of the Datamonitor business merges with or is sold to a third party the personal informational data stored in our database may be shared with or transferred to a third party so that they may continue to operate the site - we will take reasonable efforts to notify you of any such changes in advance 
 
