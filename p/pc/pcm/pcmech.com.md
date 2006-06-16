@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the pcmech.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219142201id_/http%3A//www.pcmech.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcmech.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616045348id_/http%3A//pcmech.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Privacy Policy
 
 PC Mechanic, a World Wide Web site owned and operated by PC Media, Inc., recognizes its readers rights to privacy. To keep you informed of our privacy policies, we have provided this document disclosing PC Media's intent, purpose and use of possibly private information, and detailing the methods of gathering of such information. 
 
@@ -31,5 +29,6 @@ Though PC Mechanic will take reasonable measures to ensure that users under the 
 **Privacy Contact Info:**
 
 PC Media, Inc.  
-P.O. Box 1417  
-Riverview, Florida 33568
+1726 E. 7th Ave.  
+Suite 20  
+Tampa, Florida 33605
