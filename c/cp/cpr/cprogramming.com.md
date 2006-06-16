@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cprogramming.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220115752id_/http%3A//www.cprogramming.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cprogramming.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616191616id_/http%3A//www.cprogramming.com/privacy.html) for the most accurate reproduction.*
 
 # Cprogramming.com: Privacy Policy
 
@@ -20,6 +20,10 @@ You are asked but not required to register when you use the message board. You a
 
 You are asked, but not required, to fill out a survey by BURST!Media. The information you give will help us choose more appropriate advertisements for the site, which will benefit visitors in the long run. 
 
+##### Revenue Science
+
+Revenue Science collections information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit http://www.networkadvertising.org/optout_nonppii.asp 
+
 ####  Information Usage
 
-We do not track individual users on the site, except in extreme cases to respond to persistent attacks on the system, such as when a user spams the message board or hacks the site. We use the information obtained from the server logs to improve the layout of the site and to make educated guesses as to what could be improved. We also use demographics data obtained through BURST!Media's voluntary survey to target ads that are appropriate for our visitors. 
+We do not track individual users on the site, except in extreme cases to respond to persistent attacks on the system, such as when a user spams the message board or hacks the site. We use the information obtained from the server logs to improve the layout of the site and to make educated guesses as to what could be improved. We also use demographics data obtained through BURST!Media's voluntary survey to target ads that are appropriate for our visitors. Revenue Science uses information collected to serve ads to you on other websites based on your behavior but not upon any personally identifiable information. 
