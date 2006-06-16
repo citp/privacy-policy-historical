@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumersearch.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228135003id_/http%3A//www.consumersearch.com/www/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumersearch.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616195824id_/http%3A//www.consumersearch.com/www/privacy.html) for the most accurate reproduction.*
 
 # Product Reviews and Reports by Consumer Search - ConsumerSearch.com
 
