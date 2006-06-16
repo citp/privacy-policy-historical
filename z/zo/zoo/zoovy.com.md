@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoovy.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224042804id_/http%3A//zoovy.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoovy.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616071547id_/http%3A//zoovy.com/legal/privacy) for the most accurate reproduction.*
 
 # Zoovy Privacy Policy
 
@@ -76,7 +76,7 @@ This site gives users the following options for changing and modifying informati
 
 #### 14\. CONTACTING ZOOVY
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [click here](http://www.myzoovy.com/contact.php) or contact: 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [click here](http://www.zoovy.net/contact.php) or contact: 
 
 Zoovy, Inc.  
 Customer Care  
