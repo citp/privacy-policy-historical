@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the realbird.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210173758id_/http%3A//realbird.com%3Fp%3Dcontent.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realbird.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616061941id_/http%3A//realbird.com%3Fp%3Dcontent.privacy) for the most accurate reproduction.*
 
-# RealBird - Maps for real estate websites. Aerial photo, street map, topo map and more
+# RealBird.com - Map-based search and publishing for real estate
 
-This page contains the privacy policy of DonationChannel Inc.
+This page contains the privacy policy of RealBird Inc.
 
 Our postal address is:  
 434 Quartz St.,   
