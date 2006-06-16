@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the analystforum.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222175408id_/http%3A//www.analystforum.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the analystforum.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616131608id_/http%3A//www.analystforum.com/privacy.shtml) for the most accurate reproduction.*
 
 # CFA Exam Discussion at AnalystForum for Chartered Financial Analyst candidates
 
