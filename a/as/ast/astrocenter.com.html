@@ -1,14 +1,14 @@
-<!--The following is the downloaded HTML source of the astrocenter.com privacy policy that was archived on 2005-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051210052831id_/http%3A//www.astrocenter.com/us/Privacy.aspx%3FAf%3D0%26VS%3D) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the astrocenter.com privacy policy that was archived on 2006-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060616212700id_/http%3A//www.astrocenter.com/us/Privacy.aspx%3FAf%3D0) for the most accurate reproduction.-->
 
 <html><head>
-<title>Astrocenter.com – Privacy Policy, Astrology, Tarot, Psychics, Free Horoscopes, Free Tarot Readings, Free Psychic Readings</title>
+<title>Astrocenter.com:  Privacy Policy, Astrology, Tarot, Psychics, Free Horoscopes, Free Tarot Readings, Free Psychic Readings</title>
 <meta name="Identifier-URL" content="http://www.astrocenter.com/">
 <meta name="Author" lang="en" content="ASTROCENTER.COM">
 <meta name="Publisher" content="ASTROCENTER.COM">
 <meta http-equiv="content-language" content="en">
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<meta name="Copyright" content="Copyright 1999-2005 Center.com, Inc.">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="Copyright" content="Copyright 1999-2006 Center.com, Inc.">
 <meta name="Revisit-after" content="1 day">
 <meta name="Distribution" content="Global">
 <meta name="Abstract" lang="en" content="ASTROCENTER.COM (Free Horoscopes, Astrology, Marseille Tarot, Numerology, Chinese Horoscopes, FREE Psychic Readings)">
@@ -22,15 +22,190 @@
 
 <!-- Set cobrand specific settings -->
 <!-- set Cobrand Specific Settings -->
-<script type="text/javascript" src="js/center.js"></script><!-- Shared JS -->
+<script type="text/javascript">
+<!--
+var USCookie_src_loaded = false;
+//-->
+</script>
+<script type="text/javascript">
+<!--
+// JS Shared across all co-brands
+var gs_browser=navigator.appName;
+
+function writit(text,id)
+{
+	var x; 
+
+	if (document.getElementById)
+	{
+		x = document.getElementById(id);
+		if ( x != null ) {
+			x.innerHTML = '';
+			x.innerHTML = text;
+		}
+	}
+	else if (document.all)
+	{
+		x = document.all[id];
+		if ( x != null ) {
+			x.innerHTML = text;
+		}
+	}
+}
+
+function movepic(img_name,img_src) {
+document[img_name].src=img_src;
+}
+
+function centeredPopup(page,popWidth,popHeight,options) {
+  var top=(screen.height-popHeight)/2;
+  var left=(screen.width-popWidth)/2;
+  window.open(page,"centerPopup","top="+top+",left="+left+",width="+popWidth+",height="+popHeight+","+options);
+}
+
+function isStringEmpty(StrInput) {
+	var i, taille = StrInput.length;
+
+	if (0 >= taille) return true;
+
+	for (i = 0; i<taille; i++)
+		if (' ' != StrInput.charAt(i)) return false;
+
+	return true;
+}
+
+
+//
+// US Cookies
+/////////////////
+function USGet_Cookie(name) {
+    var start = document.cookie.indexOf(name+"=");
+    var len = start+name.length+1;
+    if ((!start) && (name != document.cookie.substring(0,name.length))) return null;
+    if (start == -1) return null;
+    var end = document.cookie.indexOf(";",len);
+    if (end == -1) end = document.cookie.length;
+    return unescape(document.cookie.substring(len,end));
+}
+
+function USSet_Cookie(name,value,expires,path,domain,secure) {
+    document.cookie = name + "=" +escape(value) +
+        ( (expires) ? ";expires=" + expires.toGMTString() : "") +
+        ( (path) ? ";path=" + path : "") + 
+        ( (domain) ? ";domain=" + domain : "") +
+        ( (secure) ? ";secure" : "");
+}
+
+function USDelete_Cookie(name,path,domain) {
+    if (Get_Cookie(name)) document.cookie = name + "=" +
+       ( (path) ? ";path=" + path : "") +
+       ( (domain) ? ";domain=" + domain : "") +
+       ";expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+var today = new Date();
+var zero_date = new Date(0,0,0);
+today.setTime(today.getTime() - zero_date.getTime());
+
+var todays_date = new Date(today.getYear(),today.getMonth(),today.getDate(),0,0,0);
+var expires_date = new Date(todays_date.getTime() + (8 * 7 * 86400000));
+
+function USstoreMasterCookie() {
+    if (!USGet_Cookie('MasterCookie'))
+        USSet_Cookie('MasterCookie','MasterCookie');
+}
+
+function USstoreIntelligentCookie(name,value) {
+    if (USGet_Cookie('MasterCookie')) {
+        var IntelligentCookie = USGet_Cookie(name);
+        if ((!IntelligentCookie) || (IntelligentCookie != value)) {
+            USSet_Cookie(name,value,expires_date);
+            var IntelligentCookie = USGet_Cookie(name);
+            if ((!IntelligentCookie) || (IntelligentCookie != value))
+                USDelete_Cookie('MasterCookie');
+        }
+    }
+}
+
+var USCookie_src_loaded = true;
+//-->
+</script>
+<!-- Shared JS -->
+<script type="text/javascript">
+<!--
+var cookies = document.cookie;
+var param = "osadcampaign=";
+var trackVal = "";
+var retrievedTrackVal = "nt";
+
+function write_tracking_cookie( cookieNote ) {
+	if ( isStringEmpty( '' ) ) { 
+		trackVal = 'nt'; 
+	} else {
+		trackVal = '';
+	}
+	if (trackVal.length <= 0) return;
+
+	if(USCookie_src_loaded) { 
+		USSet_Cookie('osadcampaign', trackVal); 
+	}
+}
+
+function osadcampaignProcessing() {
+	if ( isStringEmpty( '' ) ) { 
+		retrievedTrackVal = USGet_Cookie( 'osadcampaign' );
+		if ( retrievedTrackVal == null ) { retrievedTrackVal = "nt"; }
+	} else {
+		retrievedTrackVal = '';
+		if ( retrievedTrackVal == null ) { retrievedTrackVal = "nt"; }
+		write_tracking_cookie( retrievedTrackVal );
+	}
+// window.status = retrievedTrackVal;
+}
+function trackClick( trackID, winHref, winTargetType ) {
+
+	if ( trackID == "" || trackID == 0 ) {
+		trackID = USGet_Cookie( 'osadcampaign' );
+	} 
+
+	if ( trackID == null ) { trackID = "nt"; }
+
+	if ( winHref.indexOf("store") == 7 ) {
+//		USDelete_Cookie('osadcampaign', "", "");
+		winHref = winHref + "&osadcampaign=" + trackID;
+	} else {
+		USSet_Cookie('osadcampaign', trackID);
+	}
+
+	window.open( winHref, winTargetType );
+	parent.location.href = winHref;
+	
+	return false;
+}
+
+osadcampaignProcessing();
+//-->
+</script>
+
+
+
+			<!---- us personalized production --->
+			<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+			<script type="text/javascript">
+				_uacct = "UA-338877-1";
+				_udn="astrocenter.com";
+				urchinTracker();
+			</script>
+	
+
 
 <base false_href="./us/">
 
 <style>
-.headerGap { background-color: #7878FF; }
-.leftNavBarBack   { background-color: #D6D6FF; }
+.headerGap { background-color: #003399; }
+.secondaryColor   { background-color: #D6D6FF; }
 
-.privacySubheader{text-decoration: none; color: #000000; font: Bold 15px Copperplate Gothic Bold, Verdana, Helvetica;}
+.privacySubheader{text-decoration: none; color: #000000; font: Bold 15px Times New Roman, serif;}
 </style>
 
 
@@ -38,362 +213,2557 @@
 
 
 
-<body marginwidth="0" marginheight="0" style="margin: 0">
-<script language="javascript">function movepic( img_name,img_src) {document[img_name].src=img_src; }</script>
-<script language="JavaScript" type="text/JavaScript">
-<!--
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
-
-function MM_nbGroup(event, grpName) { //v6.0
-  var i,img,nbArr,args=MM_nbGroup.arguments;
-  if (event == "init" && args.length > 2) {
-    if ((img = MM_findObj(args[2])) != null && !img.MM_init) {
-      img.MM_init = true; img.MM_up = args[3]; img.MM_dn = img.src;
-      if ((nbArr = document[grpName]) == null) nbArr = document[grpName] = new Array();
-      nbArr[nbArr.length] = img;
-      for (i=4; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
-        if (!img.MM_up) img.MM_up = img.src;
-        img.src = img.MM_dn = args[i+1];
-        nbArr[nbArr.length] = img;
-    } }
-  } else if (event == "over") {
-    document.MM_nbOver = nbArr = new Array();
-    for (i=1; i < args.length-1; i+=3) if ((img = MM_findObj(args[i])) != null) {
-      if (!img.MM_up) img.MM_up = img.src;
-      img.src = (img.MM_dn && args[i+2]) ? args[i+2] : ((args[i+1])? args[i+1] : img.MM_up);
-      nbArr[nbArr.length] = img;
-    }
-  } else if (event == "out" ) {
-    for (i=0; i < document.MM_nbOver.length; i++) {
-      img = document.MM_nbOver[i]; img.src = (img.MM_dn) ? img.MM_dn : img.MM_up; }
-  } else if (event == "down") {
-    nbArr = document[grpName];
-    if (nbArr)
-      for (i=0; i < nbArr.length; i++) { img=nbArr[i]; img.src = img.MM_up; img.MM_dn = 0; }
-    document[grpName] = nbArr = new Array();
-    for (i=2; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
-      if (!img.MM_up) img.MM_up = img.src;
-      img.src = img.MM_dn = (args[i+1])? args[i+1] : img.MM_up;
-      nbArr[nbArr.length] = img;
-  } }
-}
-
-function init_topNavbar() {
-	MM_preloadImages('images/navbar/horoscopes_down.gif','images/navbar/horoscopes_over.gif','images/navbar/tarot_down.gif','images/navbar/tarot_over.gif','images/navbar/psychics_down.gif','images/navbar/personality_over.gif','images/navbar/love_down.gif','images/navbar/love_over.gif','images/navbar/career_down.gif','images/navbar/career_over.gif','images/navbar/personality_down.gif','images/navbar/forecasts_down.gif','images/navbar/forecasts_over.gif','images/navbar/emailadvice_down.gif','images/navbar/emailadvice_over.gif','images/navbar/astroemail_down.gif','images/navbar/astroemail_over.gif');
-}
-
-//-->
-</script>
-
-<!-- 2006 FC -->
-<table border="0" cellpadding="0" cellspacing="0" background="images/navbar/header_2006FCs_2.gif" style="background-repeat:no-repeat" bgcolor="FFFFFF">
-    <tbody><tr height="58">
-		<td colspan="9" width="780" height="58">
-
-			<table width="780" cellspacing="0" cellpadding="0" border="0">
-				<tbody><tr height="58">
-					<td width="150"><a href="http://www.astrocenter.com/us/HPAstro.aspx?Af=0&amp;VS=" target="_parent" style="cursor:hand;"><span style="width:150px;height:58px;"><spacer type="block" height="58" width="150"></spacer></span></a></td>
-					<td width="550">
-			
-						<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,2,0" width="550" height="58">
-						<param name="movie" value="images/swf/animfx/importinflash.swf">
-						<param name="quality" value="high">
-						<param name="BGCOLOR" value="#000000">
-						<param name="wmode" value="transparent">
-						<param name="SCALE" value="noborder">
-						<param name="FlashVars" value="flashEffect=images/swf/animfx/shockingsnow.swf" <embed="" src="images/swf/animfx/importinflash.swf" quality="high" wmode="transparent" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="550" height="58" bgcolor="#000000" scale="noborder" flashvars="flashEffect=images/swf/animfx/shockingsnow.swf">
-						
-						</object>
-					
-					</td>
-					<td width="80"><a href="http://www.astrocenter.com/us/HPAstroYearly.aspx?osadcampaign=USHeader&amp;Af=0&amp;VS=" target="_parent" style="cursor:hand;"><span style="width:80px;height:58px;"><spacer type="block" height="58" width="80"></spacer></span></a></td>
-				</tr>
-			</tbody></table>
-		</td>
-
-    </tr>
-    <tr>
-        <td><a href="http://www.astrocenter.com/us/HPAstro.aspx?Af=0&amp;VS=" target="_parent" onclick="MM_nbGroup('down','group1','Horoscopes','images/navbar/horoscopes_down.gif',1)" onmouseover="MM_nbGroup('over','Horoscopes','images/navbar/horoscopes_over.gif','images/horoscopes_down.gif',1)" onmouseout="MM_nbGroup('out')"><img src="images/navbar/horoscopes_up.gif" alt="My horoscopes" name="Horoscopes" width="113" height="22" border="0" onload=""></a></td>
-        <td><a href="http://www.astrocenter.com/us/HPTarot.aspx?Af=0&amp;VS=" target="_parent" onclick="MM_nbGroup('down','group1','Tarot','images/navbar/tarot_down.gif',1)" onmouseover="MM_nbGroup('over','Tarot','images/navbar/tarot_over.gif','images/navbar/tarot_down.gif',1)" onmouseout="MM_nbGroup('out')"><img src="images/navbar/tarot_up.gif" alt="Tarot Readings" name="Tarot" width="56" height="22" border="0" onload=""></a></td>
-        <td><a href="http://store.astrocenter.com/us/Telephony/Welcome.asp?Af=0&amp;VS=" target="_parent" onclick="MM_nbGroup('down','group1','Psychics','images/navbar/psychics_down.gif',1)" onmouseover="MM_nbGroup('over','Psychics','images/navbar/psychics_over.gif','images/psychics_down.gif',1)" onmouseout="MM_nbGroup('out')"><img src="images/navbar/psychics_up.gif" alt="Psychic Readings" name="Psychics" width="73" height="22" border="0" onload=""></a></td>
-        <td><a href="http://www.astrocenter.com/us/HPAstroLove.aspx?Af=0&amp;VS=" target="_parent" onclick="MM_nbGroup('down','group1','Love','images/navbar/love_down.gif',1)" onmouseover="MM_nbGroup('over','Love','images/navbar/love_over.gif','images/navbar/love_down.gif',1)" onmouseout="MM_nbGroup('out')"><img src="images/navbar/love_up.gif" alt="Love &amp; Romance Forecasts" name="Love" width="57" height="22" border="0" onload=""></a></td>
-        <td><a href="http://www.astrocenter.com/us/HPAstroCareer.aspx?Af=0&amp;VS=" target="_parent" onclick="MM_nbGroup('down','group1','Career','images/navbar/career_down.gif',1)" onmouseover="MM_nbGroup('over','Career','images/navbar/career_over.gif','images/navbar/career_down.gif',1)" onmouseout="MM_nbGroup('out')"><img src="images/navbar/career_up.gif" alt="Job and Career Forecasts" name="Career" width="74" height="22" border="0" onload=""></a></td>
-        <td><a href="http://www.astrocenter.com/us/HPAstroPersonality.aspx?Af=0&amp;VS=" target="_parent" onclick="MM_nbGroup('down','group1','Personality','images/navbar/personality_down.gif',1)" onmouseover="MM_nbGroup('over','Personality','images/navbar/personality_over.gif','images/personality_down.gif',1)" onmouseout="MM_nbGroup('out')"><img src="images/navbar/personality_up.gif" alt="Personality and Child Forecasts" name="Personality" width="104" height="22" border="0" onload=""></a></td>
-        <td><a href="http://www.astrocenter.com/us/HPAstroForecasts.aspx?Af=0&amp;VS=" target="_parent" onclick="MM_nbGroup('down','group1','Forecasts','images/navbar/forecasts_down.gif',1)" onmouseover="MM_nbGroup('over','Forecasts','images/navbar/forecasts_over.gif','images/forecasts_down.gif',1)" onmouseout="MM_nbGroup('out')"><img src="images/navbar/forecasts_up.gif" alt="Long and Short term Forecasts" name="Forecasts" width="89" height="22" border="0" onload=""></a></td>
-        <td><a href="http://www.astrocenter.com/us/HPEmailConsultations.aspx?Af=0&amp;VS=" target="_parent" onclick="MM_nbGroup('down','group1','EmailAdvice','images/navbar/emailadvice_down.gif',1)" onmouseover="MM_nbGroup('over','EmailAdvice','images/navbar/emailadvice_over.gif','images/emailadvice_down.gif',1)" onmouseout="MM_nbGroup('out')"><img src="images/navbar/emailadvice_up.gif" alt="Email Advice" name="EmailAdvice" width="111" height="22" border="0" onload=""></a></td>
-        <td><a href="http://www.astrocenter.com/us/Subscriptions.aspx?Af=0&amp;VS=" target="_parent" onclick="MM_nbGroup('down','group1','AstroEmail','images/navbar/astroemail_down.gif',1)" onmouseover="MM_nbGroup('over','AstroEmail','images/navbar/astroemail_over.gif','images/astroemail_down.gif',1)" onmouseout="MM_nbGroup('out')"><img src="images/navbar/astroemail_up.gif" alt="Horoscope E-mail" name="AstroEmail" width="103" height="22" border="0" onload=""></a></td>
+<body marginwidth="0" marginheight="0" style="margin: 0" class="headerGap">
+<div align="center">
+<table width="800" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td colspan="5" height="2" class="headerGap"></td>
+	</tr><tr>
+		<td colspan="5" height="2" bgcolor="333333"></td>
+	</tr><tr>
+		<td width="2" bgcolor="333333"><img src="images/spacer.gif" width="2" hieght="1"></td>
+		<td colspan="3" height="1" bgcolor="FFFFFF"></td>
+		<td width="2" bgcolor="333333"><img src="images/spacer.gif" width="2" hieght="1"></td>
+	</tr><tr valign="top" bgcolor="FFFFFF">
+		<td width="2" bgcolor="333333"><img src="images/spacer.gif" width="2" hieght="1"></td>
+		<td width="8"><img src="images/spacer.gif" width="8" hieght="1"></td>
+		<td width="780">
+			<!-- Std Astroheader -->
+<table width="780" border="0" cellpadding="0" cellspacing="0" background="images/navbar/hdr_astrology.gif" style="background-repeat:no-repeat;background-position:top center;" bgcolor="FFFFFF" class="P-A2">
+    <tbody><tr height="72">
+		<td colspan="18" align="bottom"><a style="cursor: hand;" href="http://www.astrocenter.com/us/HPAstro.aspx?Af=0" target="_parent"><span style="width:190px;height:58px;"><spacer type="block" height="58" width="190"></spacer></span></a></td>
+    </tr><tr height="16">
+    	<td width="131"><a style="cursor: hand;" href="http://www.astrocenter.com/us/HPAstro.aspx?Af=0" target="_parent"><span style="width:110px;height:16px;"><spacer type="block" height="16" width="110"></spacer></span></a></td>
+        <td onmouseover="this.className='TN-A-BG';" onmouseout="this.className='bgTexte';">&nbsp;&nbsp;<a class="TN-A" href="http://www.astrocenter.com/us/HPAstro.aspx?Af=0" target="_parent">Horoscopes</a>&nbsp;&nbsp;</td>
+        <td>|</td>
+        <td onmouseover="this.className='TN-B-BG';" onmouseout="this.className='bgTexte';">&nbsp;&nbsp;<a class="TN-B" href="http://www.astrocenter.com/us/HPTarot.aspx?Af=0" target="_parent">Tarot</a>&nbsp;&nbsp;</td>
+        <td>|</td>
+        <td onmouseover="this.className='TN-C-BG';" onmouseout="this.className='bgTexte';">&nbsp;&nbsp;<a class="TN-C" href="http://store.astrocenter.com/us/Telephony/Welcome.asp?Af=0" target="_parent">Psychics</a>&nbsp;&nbsp;</td>
+        <td>|</td>
+        <td onmouseover="this.className='TN-D-BG';" onmouseout="this.className='bgTexte';">&nbsp;&nbsp;<a class="TN-D" href="http://www.astrocenter.com/us/HPAstroLove.aspx?Af=0" target="_parent">Love</a>&nbsp;&nbsp;</td>
+        <td>|</td>
+        <td onmouseover="this.className='TN-E-BG';" onmouseout="this.className='bgTexte';">&nbsp;&nbsp;<a class="TN-E" href="http://www.astrocenter.com/us/HPAstroCareer.aspx?Af=0" target="_parent">Career</a>&nbsp;&nbsp;</td>
+        <td>|</td>
+        <td onmouseover="this.className='TN-F-BG';" onmouseout="this.className='bgTexte';">&nbsp;&nbsp;<a class="TN-F" href="http://www.astrocenter.com/us/HPAstroPersonality.aspx?Af=0" target="_parent">Personality</a>&nbsp;&nbsp;</td>
+        <td>|</td>
+        <td onmouseover="this.className='TN-G-BG';" onmouseout="this.className='bgTexte';">&nbsp;&nbsp;<a class="TN-G" href="http://www.astrocenter.com/us/HPAstroForecasts.aspx?Af=0" target="_parent">Forecast</a>&nbsp;&nbsp;</td>
+        <td>|</td>
+        <td onmouseover="this.className='TN-H-BG';" onmouseout="this.className='bgTexte';"><nobr>&nbsp;<a class="TN-H" href="http://www.astrocenter.com/us/HPEmailConsultations.aspx?Af=0" target="_parent">E-mail Advice</a>&nbsp;&nbsp;</nobr></td>
+        <td>|</td>
+        <td onmouseover="this.className='TN-I-BG';" onmouseout="this.className='bgTexte';"><nobr>&nbsp;&nbsp;<a class="TN-I" href="http://www.astrocenter.com/us/Subscriptions.aspx?Af=0" target="_parent">Astro E-mail</a>&nbsp;&nbsp;</nobr></td>
+    </tr><tr height="8">
+		<td colspan="18"><font class="P-Trans">&nbsp;</font></td>
     </tr>
 </tbody></table><table class="headerGap" width="780" height="10" border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
+		<td height="1" class="secondaryColor"><img src="images/spacer.gif" height="1" width="1" border="0"></td>
+	</tr><tr>
 		<td><font class="P-Trans">&nbsp;</font></td>
 	</tr>
 </tbody></table>
-<!--init topNavBar -->
+<!-- onload -->
 <script language="JavaScript" type="text/JavaScript">
 <!--
 window.onload = function() {
-	init_topNavbar();
 	
 }
 //-->
 </script>
 
-<table width="780" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr valign="top">
-		<td width="150">
-<!--BlockColLeft -->
+			<table width="780" border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr valign="top">
+					<td width="150">
+<script type="text/javascript">
+<!--
+var gs_lnav_caller = "";
+
+
+var	varhoroscope = 1;
+var vartarot = 1;
+var varconsultations = 1;
+var varyearly = 1;
+var varforecasts = 1;
+var varvideo = 1;
+var varother = 1;
+var varlearn = 1;
+var varphone = 1;
+
+var LNAV_YEARLY = 1;
+var LNAV_HOROSCOPE = 2;
+var LNAV_TAROT = 3;
+var LNAV_CONSULTATIONS = 4;
+var LNAV_FORECASTS = 5;
+var LNAV_VIDEO = 6;
+var LNAV_OTHER = 7;
+var LNAV_LEARN = 8;
+var LNAV_PHONE = 9;
+
+var lnav_hdrs = new Array();
+lnav_hdrs[1]="yearly";
+lnav_hdrs[2]="horoscope";
+lnav_hdrs[3]="tarot";
+lnav_hdrs[4]="consultations";
+lnav_hdrs[5]="forecasts";
+lnav_hdrs[6]="video";
+lnav_hdrs[7]="other";
+lnav_hdrs[8]="learn";
+
+lnav_hdrs[9]="phone";
+
+
+var LNAV_ARRAY_HDR = 0;
+var LNAV_ARRAY_PRODID = 1;
+var LNAV_ARRAY_SPECIAL = 2;
+
+
+// LNAV_(hdr-type), ProdID, always-show
+var lnav_array = new Array( 
+[ LNAV_YEARLY, "",	false ], 
+// [ LNAV_YEARLY, "yearlyTheme",	false ], 
+[ LNAV_YEARLY, "StEdFr2K2",		true ], 
+[ LNAV_YEARLY, "StEdAL",		false ], 
+[ LNAV_YEARLY, "StEdAC",		false ], 
+[ LNAV_YEARLY, "StEdETFrY",		false ], 
+// [ LNAV_YEARLY, "StEdTTY",		false ], 
+// [ LNAV_YEARLY, "StEdTTL",		false ], 
+[ LNAV_YEARLY, "StEdCh2K2", 	true ],
+[ LNAV_YEARLY, "StEdNu",		false ], 
+
+[ LNAV_YEARLY, "YearlyPhone",	false ], 
+
+[ LNAV_YEARLY, "YearlyEmailConsultation",	false ], 
+
+[ LNAV_HOROSCOPE, "myHoroscope",	false ], 
+[ LNAV_HOROSCOPE, "StEdEm",			false ], 
+[ LNAV_HOROSCOPE, "StEdEmTarot",	false ], 
+[ LNAV_HOROSCOPE, "StEdEmPQ",		false ], 
+[ LNAV_HOROSCOPE, "StEdEmPH",		false ], 
+
+[ LNAV_FORECASTS, "forecastTheme",	false ], 
+
+[ LNAV_FORECASTS, "StEdFrPR",		true ], 
+
+[ LNAV_FORECASTS, "StEdAP",			false ],
+[ LNAV_FORECASTS, "StEdKL",			false ],
+[ LNAV_FORECASTS, "StEdKRo",		false ], 
+[ LNAV_FORECASTS, "StEdFrMo",		true ], 
+[ LNAV_FORECASTS, "StEdFrMoRo",		true ], 
+[ LNAV_FORECASTS, "StEdFrY",		false ],
+[ LNAV_FORECASTS, "StEdNa",			false ], 
+[ LNAV_FORECASTS, "StEdCp",			false ], 
+[ LNAV_FORECASTS, "StEdCa",			false ], 
+[ LNAV_FORECASTS, "StEdLCp",		false ], 
+[ LNAV_FORECASTS, "StEdRVA",		false ], 
+[ LNAV_FORECASTS, "StEdRVP",		false ], 
+[ LNAV_FORECASTS, "StEdTe",			false ], 
+[ LNAV_FORECASTS, "StEdMe",			false ], 
+
+[ LNAV_TAROT, "tarotTheme", false ],
+[ LNAV_TAROT, "dailyTarot", false ],
+[ LNAV_TAROT, "dailyTarotEmail", false ],
+[ LNAV_TAROT, "StEdTTH", true ],
+[ LNAV_TAROT, "StEdBaTa0", false ],
+[ LNAV_TAROT, "StEdBaTa1", false ],
+[ LNAV_TAROT, "StEdTTD0", false ],
+[ LNAV_TAROT, "StEdTTD1", false ],
+[ LNAV_TAROT, "StEdTTYB", false ],
+[ LNAV_TAROT, "StEdTTLB", true ],
+[ LNAV_TAROT, "StEdTTW", false ],
+[ LNAV_TAROT, "StEdAT", false ],
+[ LNAV_TAROT, "TarotEmailConsultation", false ],
+
+[ LNAV_CONSULTATIONS, "ConsultationAdviceTarot", false ],
+[ LNAV_CONSULTATIONS, "ConsultationAdviceAstro", false ],
+[ LNAV_CONSULTATIONS, "ConsultationAdviceDream", false ],
+
+
+[ LNAV_PHONE, "PhoneDetails", false ],
+
+[ LNAV_VIDEO, "videoTheme", false ],
+[ LNAV_VIDEO, "FreeWeeklyVideo", false ],
+
+[ LNAV_VIDEO, "vid_daily", false ],
+
+[ LNAV_VIDEO, "vid_compat", false ],
+
+[ LNAV_OTHER, "ChineseAstrology", false ],
+[ LNAV_OTHER, "StEdPc", false ],
+[ LNAV_OTHER, "Dreams", false ],
+[ LNAV_OTHER, "Numerology", false ],
+[ LNAV_OTHER, "StEdNuP",		false ], 
+
+
+[ LNAV_LEARN, "InfoAstro",			false ],
+
+[ LNAV_LEARN, "AstroGlossary",		false ], 
+[ LNAV_LEARN, "AstroArticle",		false ], 
+[ LNAV_LEARN, "HPDream",			false ], 
+[ LNAV_LEARN, "HPDreamFeatured",	false ], 
+[ LNAV_LEARN, "PsychicGlossary",	false ],
+
+[ LNAV_LEARN, "VedicAstrology",		true ],
+[ LNAV_LEARN, "VedicProfile",		true ],
+
+[ LNAV_LEARN, "InfoTarot",			false ],
+
+[ LNAV_LEARN, "TarotGlossary",		false ]
+)
+
+
+function navigateTo( sURL ) {
+	top.location.href=sURL;
+}
+function lnav_trackClick( leftNavTheme, winHref, winTargetType  ) {
+	if(USCookie_src_loaded) { USSet_Cookie('nav_aCategory', leftNavTheme); }
+	if( gs_lnav_caller=="logged" || gs_lnav_caller=="unlogged" || gs_lnav_caller=="store" ) { // don't store cookie, just goto...
+		navigateTo( winHref );
+		return;
+	}
+
+	trackClick( 'leftnav', winHref, winTargetType );
+}
+
+function lnav_setArrowOpen( subheader ) {
+		var arrowName;
+		var xi;
+		for ( xi=1; xi<lnav_hdrs.length; xi++) {
+			arrowName = "arrow_" + lnav_hdrs[xi];
+			if ( arrowName == subheader ) {
+				document.getElementById(arrowName).src="images/navbar/lnav_arrow"+xi+"_OPEN.gif";
+			} else {
+				document.getElementById(arrowName).src="images/navbar/lnav_arrow"+xi+"_norm.gif";
+			}
+		}
+}
+
+function lnav_showSection( sectionId ) {
+	var itemId, lnavSpacer;
+	for ( i=1; i<lnav_array.length; i++) {
+		itemId = "lnavItem_" + lnav_array[i][LNAV_ARRAY_PRODID];
+		lnavSpacer = "lnavItem_" + lnav_hdrs[lnav_array[i][LNAV_ARRAY_HDR]] + "_spacer";
+		if ( lnav_array[i][LNAV_ARRAY_HDR] == sectionId ) {
+			document.getElementById( itemId ).style.display="block";
+			document.getElementById( lnavSpacer ).style.display="block";			
+		} else {
+			document.getElementById( itemId ).style.display="none";	
+			document.getElementById( lnavSpacer ).style.display="none";			
+		}
+	}
+	lnav_showSpecialItems();
+}
+
+function lnav_showSpecialItems() {
+	var itemId, lnavCube, lnavText, lnavSpacer;
+	for ( i=1; i<lnav_array.length; i++) {
+		if ( lnav_array[i][LNAV_ARRAY_SPECIAL] == true ) {
+			itemId = "lnavItem_" + lnav_array[i][LNAV_ARRAY_PRODID];
+			document.getElementById( itemId ).style.display="block";
+
+			lnavCube = "lnavCube_" + lnav_array[i][LNAV_ARRAY_PRODID];
+			if ( lnav_array[i][LNAV_ARRAY_PRODID] == "StEdTTH" ) {
+				document.getElementById( lnavCube ).className="bgHiCubeAlt";
+			} else {
+				document.getElementById( lnavCube ).className="bgHiCube";
+			}
+
+			lnavText = "lnavText_" + lnav_array[i][LNAV_ARRAY_PRODID];
+			if ( lnav_array[i][LNAV_ARRAY_PRODID] == "StEdTTH" ) {
+				document.getElementById( lnavText ).className="navTextBoldAlt";			
+			} else {
+				document.getElementById( lnavText ).className="navTextBold";
+			}
+
+			lnavSpacer = "lnavItem_" + lnav_hdrs[lnav_array[i][LNAV_ARRAY_HDR]] + "_spacer";
+			document.getElementById( lnavSpacer ).style.display="block";			
+		}
+	}
+}
+
+
+function lnav_horoscope(){
+
+	if (varhoroscope == 1) {
+		lnav_setArrowOpen( "arrow_horoscope" );
+		lnav_showSection( LNAV_HOROSCOPE );
+
+		varhoroscope = 2
+		vartarot = 1
+		varconsultations = 1
+		varyearly = 1
+		varforecasts = 1
+		varvideo = 1
+		varother = 1
+		varlearn = 1
+		varphone = 1
+
+		if(USCookie_src_loaded) {
+			if ( !USGet_Cookie("nav_aCategory") ) {
+				USSet_Cookie('nav_aCategory', 'lnav_horoscope');
+			} else if ( USGet_Cookie("nav_aCategory")=="lnav_horoscope" ) {
+
+			} else {
+				USSet_Cookie('nav_aCategory', 'lnav_horoscope');
+				// navigateTo("http://www.astrocenter.com/us/HPAstro.aspx?Af=0");
+			}
+		}
+
+	}else{
+		lnav_showSection( 0 );
+		document.getElementById("arrow_horoscope").src="images/navbar/lnav_arrow2_norm.gif";
+		varhoroscope = 1
+	}
+}
+function lnav_tarot(){
+
+	if (vartarot == 1) {
+		lnav_setArrowOpen( "arrow_tarot" );
+		lnav_showSection( LNAV_TAROT );
+
+		vartarot = 2
+		varhoroscope = 1
+		varconsultations = 1
+		varyearly = 1
+		varforecasts = 1
+		varvideo = 1
+		varother = 1
+		varlearn = 1
+		varphone = 1
+
+		if(USCookie_src_loaded) { 	
+			if ( !USGet_Cookie("nav_aCategory") ) {
+				USSet_Cookie('nav_aCategory', 'lnav_tarot');
+			} else if( USGet_Cookie("nav_aCategory")=="lnav_tarot" ) {
+
+			} else {
+				USSet_Cookie('nav_aCategory', 'lnav_tarot');
+				// navigateTo("http://www.astrocenter.com/us/HPTarot.aspx?Af=0");
+			}
+		}
+
+	}else{
+		lnav_showSection( 0 );
+		document.getElementById("arrow_tarot").src="images/navbar/lnav_arrow3_norm.gif";
+		vartarot = 1
+	}
+}
+function lnav_phone(){
+	if (varphone == 1) {
+		lnav_setArrowOpen( "arrow_phone" );
+		lnav_showSection( LNAV_PHONE );
+
+		// Phone Menu Handling
+		if(USCookie_src_loaded) {
+			if( gs_lnav_caller == "logged" ) {
+				document.getElementById( "lnavItem_PhoneMenu" ).style.display="block";
+				document.getElementById( "lnavItem_PhoneHilight" ).className = "bgPhoneUP"; // force Phone highlight over menu
+				USSet_Cookie('nav_aPhoneStatus', 'logged');
+				USSet_Cookie('nav_aPhoneCust', 'true');
+			} else if( gs_lnav_caller == "unlogged" ) {
+				document.getElementById( "lnavItem_PhoneAd" ).style.display="block";
+				USSet_Cookie('nav_aPhoneStatus', 'unlogged');
+			} else {
+				// unspecified, ask last cookie
+				if( USGet_Cookie("nav_aPhoneStatus")=="unlogged" ) {
+					document.getElementById( "lnavItem_PhoneAd" ).style.display="block";
+				} else if( USGet_Cookie("nav_aPhoneStatus")=="logged" ) {
+					document.getElementById( "lnavItem_PhoneMenu" ).style.display="block";
+					document.getElementById( "lnavItem_PhoneHilight" ).className = "bgPhoneUP"; // force Phone highlight over menu
+				} else {
+					document.getElementById( "lnavItem_PhoneAd" ).style.display="block";
+					document.getElementById( "lnavItem_PhoneMenu" ).style.display="none"; // unlogged, default sale item
+				}
+			}
+		}
+
+		varphone = 2
+		varconsultations = 1
+		varhoroscope = 1
+		vartarot = 1
+		varyearly = 1
+		varforecasts = 1
+		varvideo = 1
+		varother = 1
+		varlearn = 1
+
+		if(USCookie_src_loaded) {
+			if ( !USGet_Cookie("nav_aCategory") ) {
+				USSet_Cookie('nav_aCategory', 'lnav_phone');
+			} else if( USGet_Cookie("nav_aCategory")=="lnav_phone" ) {
+
+			} else {
+				USSet_Cookie('nav_aCategory', 'lnav_phone');
+				navigateTo("http://store.astrocenter.com/us/Telephony/Welcome.asp?Af=0&Theme=" ); //  http://www.astrocenter.com/us/HPPhone.aspx?Af=0&Theme=
+			}
+		}
+
+	}else{
+		lnav_showSection( 0 );
+		document.getElementById("arrow_phone").src="images/navbar/lnav_arrow9_norm.gif";
+		varphone = 1
+	}
+}
+
+function lnav_consultations(){
+	if (varconsultations == 1) {
+		lnav_setArrowOpen( "arrow_consultations" );
+		lnav_showSection( LNAV_CONSULTATIONS );
+
+		varconsultations = 2
+		varhoroscope = 1
+		vartarot = 1
+		varyearly = 1
+		varforecasts = 1
+		varvideo = 1
+		varother = 1
+		varlearn = 1
+		varphone = 1
+
+		if(USCookie_src_loaded) { 	
+			if ( !USGet_Cookie("nav_aCategory") ) {
+				USSet_Cookie('nav_aCategory', 'lnav_consultations');
+			} else if( USGet_Cookie("nav_aCategory")=="lnav_consultations" ) {
+
+			} else {
+				USSet_Cookie('nav_aCategory', 'lnav_consultations');
+				// navigateTo("http://www.astrocenter.com/us/HPEmailConsultations.aspx?Af=0");
+			}
+		}
+
+	}else{
+		lnav_showSection( 0 );
+		document.getElementById("arrow_consultations").src="images/navbar/lnav_arrow4_norm.gif";
+		varconsultations = 1
+	}
+}
+
+function lnav_yearly(){
+
+	if (varyearly == 1) {
+		lnav_setArrowOpen( "arrow_yearly" );
+		lnav_showSection( LNAV_YEARLY );
+
+		varyearly = 2
+		varhoroscope = 1
+		vartarot = 1
+		varconsultations = 1
+		varforecasts = 1
+		varvideo = 1
+		varother = 1
+		varlearn = 1
+		varphone = 1
+
+		if(USCookie_src_loaded) { 	
+			if ( !USGet_Cookie("nav_aCategory") ) {
+				USSet_Cookie('nav_aCategory', 'lnav_yearly');
+			} else if( USGet_Cookie("nav_aCategory")=="lnav_yearly" ) {
+
+			} else {
+				USSet_Cookie('nav_aCategory', 'lnav_yearly');
+				// navigateTo("http://www.astrocenter.com/us/HPAstroYearly.aspx?Af=0");
+			}
+		}
+
+
+	}else{
+		lnav_showSection( 0 );
+		document.getElementById("arrow_yearly").src="images/navbar/lnav_arrow1_norm.gif";
+		varyearly = 1
+	}
+}
+
+
+function lnav_forecasts() {
+	if (varforecasts == 1) {
+		lnav_setArrowOpen( "arrow_forecasts" );
+		lnav_showSection( LNAV_FORECASTS );
+
+		varyearly = 1
+		varhoroscope = 1
+		vartarot = 1
+		varconsultations = 1
+		varforecasts = 2
+		varvideo = 1
+		varother = 1
+		varlearn = 1
+		varphone = 1
+		
+		if(USCookie_src_loaded) { 	
+			if ( !USGet_Cookie("nav_aCategory") ) {
+				USSet_Cookie('nav_aCategory', 'lnav_forecasts');
+			} else if( USGet_Cookie("nav_aCategory")=="lnav_forecasts" ) {
+
+			} else {
+				USSet_Cookie('nav_aCategory', 'lnav_forecasts');
+				// navigateTo("http://www.astrocenter.com/us/HPAstroForecasts.aspx?Af=0");
+			}
+		}
+
+	}else{
+		lnav_showSection( 0 );
+		document.getElementById("arrow_forecasts").src="images/navbar/lnav_arrow5_norm.gif";
+		varforecasts = 1
+	}
+}
+
+function lnav_video() {
+	if (varvideo == 1) {
+		lnav_setArrowOpen( "arrow_video" );
+		lnav_showSection( LNAV_VIDEO );
+
+		varyearly = 1
+		varhoroscope = 1
+		vartarot = 1
+		varconsultations = 1
+		varforecasts = 1
+		varvideo = 2
+		varother = 1
+		varlearn = 1
+		varphone = 1
+		
+		if(USCookie_src_loaded) {
+			if ( !USGet_Cookie("nav_aCategory") ) {
+				USSet_Cookie('nav_aCategory', 'lnav_video');
+			} else if( USGet_Cookie("nav_aCategory")=="lnav_video" ) {
+
+			} else {
+				USSet_Cookie('nav_aCategory', 'lnav_video');
+				// navigateTo("http://www.astrocenter.com/us/HPVideo.aspx?Af=0");
+			}
+		}
+
+	}else{
+		lnav_showSection( 0 );
+		document.getElementById("arrow_video").src="images/navbar/lnav_arrow6_norm.gif";
+		varvideo = 1
+	}
+}
+
+function lnav_other() {
+	if (varother == 1) {
+		lnav_setArrowOpen( "arrow_other" );
+		lnav_showSection( LNAV_OTHER );
+
+		varyearly = 1
+		varhoroscope = 1
+		vartarot = 1
+		varconsultations = 1
+		varforecasts = 1
+		varvideo = 1
+		varother = 2
+		varlearn = 1
+		varphone = 1
+		
+		if(USCookie_src_loaded) {
+			if ( !USGet_Cookie("nav_aCategory") ) {
+				USSet_Cookie('nav_aCategory', 'lnav_other');
+			} else if( USGet_Cookie("nav_aCategory")=="lnav_other" ) {
+
+			} else {
+				USSet_Cookie('nav_aCategory', 'lnav_other');
+				// navigateTo("http://www.astrocenter.com/us/HPAstroChinese.aspx?Af=0");
+			}
+		}
+
+
+	}else{
+		lnav_showSection( 0 );
+		document.getElementById("arrow_other").src="images/navbar/lnav_arrow7_norm.gif";
+		varother = 1
+	}
+}
+
+function lnav_learn() {
+	if (varlearn == 1) {
+		lnav_setArrowOpen( "arrow_learn" );
+		lnav_showSection( LNAV_LEARN );
+
+		varyearly = 1
+		varhoroscope = 1
+		vartarot = 1
+		varconsultations = 1
+		varforecasts = 1
+		varvideo = 1
+		varother = 1
+		varlearn = 2
+		varphone = 1
+
+		if(USCookie_src_loaded) {
+			if ( !USGet_Cookie("nav_aCategory") ) {
+				USSet_Cookie('nav_aCategory', 'lnav_learn');
+			} else if( USGet_Cookie("nav_aCategory")=="lnav_learn" ) {
+
+			} else {
+				USSet_Cookie('nav_aCategory', 'lnav_learn');
+
+				// navigateTo("http://www.astrocenter.com/us/InfoAstro.aspx?Af=0");
+
+			}
+		}
+
+	}else{
+		lnav_showSection( 0 );
+		document.getElementById("arrow_learn").src="images/navbar/lnav_arrow8_norm.gif";
+		varlearn = 1
+	}
+}
+
+//-->
+</script>
+
+<script type="text/javascript">
+<!--
+function runLeftNav() {
+	var nav_is_clicked = false;
+	var nav_aCategory = "";
+	if(USCookie_src_loaded) { nav_aCategory = USGet_Cookie("nav_aCategory"); }
+
+	if( nav_aCategory==null ) { // no cookie, show THIS
+		nav_aCategory = "lnav_horoscope";  // nav_aCategory = "lnav_yearly";
+		varyearly = 2;
+		lnav_yearly();
+	}
+
+	if( ""=="logged" || ""=="unlogged" ) { // force if from Phone Site
+		lnav_phone();
+		lnav_showSpecialItems();
+		return;
+	}
+
+	if( nav_aCategory!=null && nav_aCategory.length > 0 ) {
+		nav_is_clicked = true;
+	
+		if ( nav_aCategory == "lnav_horoscope" ) { lnav_horoscope(); }
+		else if ( nav_aCategory == "lnav_tarot" ) { lnav_tarot(); }
+		else if ( nav_aCategory == "lnav_consultations" ) { lnav_consultations(); }
+
+		else if ( nav_aCategory == "lnav_phone" ) { lnav_phone(); }
+
+		else if ( nav_aCategory == "lnav_yearly" ) { lnav_yearly(); }
+		else if ( nav_aCategory == "lnav_forecasts" ) { lnav_forecasts(); }
+		else if ( nav_aCategory == "lnav_video" ) { lnav_video(); }
+		else if ( nav_aCategory == "lnav_other" ) { lnav_other(); }
+		else if ( nav_aCategory == "lnav_learn" ) { lnav_learn(); }
+	}
+	
+	lnav_showSpecialItems();
+}
+//-->
+</script>
+
 <div style="height:8px;"><spacer type="block" height="1"></spacer></div>
-<table width="150" bgcolor="ffffff" border="0" cellpadding="0" cellspacing="0">
+<table width="150" border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
-		<td colspan="3" height="17" bgcolor="ffffff" style="background-image:url(images/navbar/leftnav_headerbg.gif)" class="navHeaderText">
-			<img src="images/spacer.gif" height="12" width="1">&nbsp;&nbsp;<a href="http://www.astrocenter.com/us/HPAstroYearly.aspx?Af=0&amp;VS=&amp;osadcampaign=leftnav" target="_parent" class="navHeaderText"><font color="CC0033"><b>Yearly Forecasts</b></font></a>
-		</td>
-	</tr><tr>
-		<td colspan="3" height="1" bgcolor="cc0033"><div style="height:1px;"><spacer type="block" height="1"></spacer></div></td>
-	</tr><tr>
-		<td width="1" bgcolor="cc0033"></td>
 		<td>
+<!--Horoscopes Title-->
 			<table width="100%" cellspacing="0" cellpadding="0" border="0">
 				<tbody><tr>
-					<td height="3"><div style="height:3px;"><spacer type="block" height="1"></spacer></div></td>
-				</tr><tr>
-					<td height="14" valign="center" class="navText"><img src="images/spacer.gif" width="7" height="10"><img src="images/navbar/navBarRDBullet.gif" width="2" height="10"><img src="images/spacer.gif" width="7" height="10"><a href="http://www.astrocenter.com/us/HPAstroYearly.aspx?Af=0&amp;VS=&amp;osadcampaign=leftnav" target="_parent" class="navText"><font color="FF0000">2006 Yearly Forecast</font></a></td>
-				</tr><tr>
-					<td height="14" valign="center" class="navText"><img src="images/spacer.gif" width="7" height="10"><img src="images/navbar/navBarBKBullet.gif" width="2" height="10"><img src="images/spacer.gif" width="7" height="10"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=STEDAL&amp;Af=0&amp;VS=&amp;osadcampaign=leftnav" target="_parent" class="navText"><font color="000000">2006 Love Forecast</font></a></td>
-				</tr><tr>
-					<td height="14" valign="center" class="navText"><img src="images/spacer.gif" width="7" height="10"><img src="images/navbar/navBarBKBullet.gif" width="2" height="10"><img src="images/spacer.gif" width="7" height="10"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=STEDAC&amp;Af=0&amp;VS=&amp;osadcampaign=leftnav" target="_parent" class="navText"><font color="000000">2006 Career Forecast</font></a></td>
-				</tr><tr>
-					<td height="14" valign="center" class="navText"><img src="images/spacer.gif" width="7" height="10"><img src="images/navbar/navBarBKBullet.gif" width="2" height="10"><img src="images/spacer.gif" width="7" height="10"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=STEDETFRY&amp;Af=0&amp;VS=&amp;osadcampaign=leftnav" target="_parent" class="navText"><font color="000000">2006 Power Days</font></a></td>
-				</tr><tr>
-					<td height="14" valign="center" class="navText"><img src="images/spacer.gif" width="7" height="10"><img src="images/navbar/navBarBKBullet.gif" width="2" height="10"><img src="images/spacer.gif" width="7" height="10"><a href="http://www.astrocenter.com/us/HPAstroYearly.aspx?Type=tty&amp;Af=0&amp;VS=&amp;osadcampaign=leftnav" target="_parent" class="navText"><font color="000000">2006 Tarot Reading</font></a></td>
-				</tr><tr>
-					<td height="14" valign="center" class="navText"><img src="images/spacer.gif" width="7" height="10"><img src="images/navbar/navBarBKBullet.gif" width="2" height="10"><img src="images/spacer.gif" width="7" height="10"><a href="http://www.astrocenter.com/us/HPAstroYearly.aspx?Type=ttl&amp;Af=0&amp;VS=&amp;osadcampaign=leftnav" target="_parent" class="navText"><font color="000000">2006 Love Tarot</font></a></td>
-				</tr><tr>
-					<td height="14" valign="center" class="navText"><img src="images/spacer.gif" width="7" height="10"><img src="images/navbar/navBarBKBullet.gif" width="2" height="10"><img src="images/spacer.gif" width="7" height="10"><a href="http://www.astrocenter.com/us/HPAstroYearly.aspx?Type=nu&amp;Af=0&amp;VS=&amp;osadcampaign=leftnav" target="_parent" class="navText"><font color="000000">2006 Numerology</font></a></td>
-				</tr><tr>
-					<td height="14" valign="center" class="navText"><img src="images/spacer.gif" width="7" height="10"><img src="images/navbar/navBarBKBullet.gif" width="2" height="10"><img src="images/spacer.gif" width="7" height="10"><a href="http://store.astrocenter.com/us/Telephony/Welcome.asp?Theme=Yearly&amp;Af=0&amp;VS=&amp;osadcampaign=leftnav" target="_parent" class="navText"><font color="000000">2006 Phone Readings</font></a></td>
-				</tr><tr>
-					<td height="14" valign="center" class="navText"><img src="images/spacer.gif" width="7" height="10"><img src="images/navbar/navBarBKBullet.gif" width="2" height="10"><img src="images/spacer.gif" width="7" height="10"><a href="http://www.astrocenter.com/us/HPYearlyEmailConsultations.aspx?Af=0&amp;VS=&amp;osadcampaign=leftnav" target="_parent" class="navText"><font color="000000">2006 E-mail Advice</font></a></td>
-				</tr><tr>
-					<td height="3"><div style="height:1px;"><spacer type="block" height="1"></spacer></div></td>
+					<td width="5"><img src="images/spacer.gif" width="1" height="1" alt=""></td>
+					<td width="21"><img src="images/navbar/lnav_horoscopes.gif" width="21" height="21" alt="My Horoscopes"></td>
+					<td valign="center" onclick="javascript:lnav_horoscope();" onmouseover="this.className='bgHoroscopeUP';" onmouseout="this.className='';" target="_top"><img src="images/navbar/spacer.gif" width="5" height="1"><img id="arrow_horoscope" src="images/navbar/lnav_arrow2_OPEN.gif" width="9" height="9"><font class="TexteNav"><b>My Horoscopes</b></font></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+<!---->
+		</td>
+	</tr>
+	<tr>
+		<td>
+<!--Unfolded menu -  Horoscope-->
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_myHoroscope" style="display: block;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_myHoroscope" width="7" class="bgHoroscope"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgHoroscopeUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/HPAstro.aspx?When=0&amp;Af=0" target="_top" onclick="lnav_trackClick( 'lnav_horoscope', this.href, this.target ); return false;" id="lnavText_myHoroscope" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0"><b>My Horoscopes</b></a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_StEdEm" style="display: block;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_StEdEm" width="7" class="bgHoroscope"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgHoroscopeUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/Subscriptions.aspx?Af=0" target="_top" onclick="lnav_trackClick( 'lnav_horoscope', this.href, this.target ); return false;" id="lnavText_StEdEm" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0"><b>Free E-mail</b></a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_StEdEmTarot" style="display: block;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_StEdEmTarot" width="7" class="bgHoroscope"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgHoroscopeUP';" onmouseout="this.className='';" width="124"><a href="http://store.astrocenter.com/us/store/buy/Default.asp?De=StEdEm&amp;Theme=tarot&amp;Af=0" target="_top" onclick="lnav_trackClick( 'lnav_horoscope', this.href, this.target ); return false;" id="lnavText_StEdEmTarot" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0">Free Tarot E-mail</a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_StEdEmPQ" style="display: block;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_StEdEmPQ" width="7" class="bgHoroscope"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgHoroscopeUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/subscribePremiumDaily.aspx?Af=0" target="_top" onclick="lnav_trackClick( 'lnav_horoscope', this.href, this.target ); return false;" id="lnavText_StEdEmPQ" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0">Daily Star E-mail</a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_StEdEmPH" style="display: block;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_StEdEmPH" width="7" class="bgHoroscope"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgHoroscopeUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/subscribePremiumWeekly.aspx?Af=0" target="_top" onclick="lnav_trackClick( 'lnav_horoscope', this.href, this.target ); return false;" id="lnavText_StEdEmPH" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0">Weekly Sky E-mail</a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_horoscope_spacer" style="display: block;">
+				<tbody><tr>
+					<td><div style="height:8px;"><spacer type="block" height="1"></spacer></div></td>
+				</tr>
+			</tbody></table>
+<!---->
+		</td>
+	</tr>
+	<tr>
+		<td>
+<!--Title Forecasts -->
+			<table width="100%" cellspacing="0" cellpadding="0" border="0">
+				<tbody><tr>
+					<td width="5"><img src="images/spacer.gif" width="5" height="1" alt=""></td>
+					<td width="21"><img src="images/navbar/lnav_forecasts.gif" width="21" height="21" alt="Forcasts"></td>
+					<td valign="center" onclick="javascript:lnav_forecasts();" onmouseover="this.className='bgForecastsUP';" onmouseout="this.className='';"><img src="images/navbar/spacer.gif" width="5" height="1"><img id="arrow_forecasts" src="images/navbar/lnav_arrow5_norm.gif" width="9" height="9"><font class="TexteNav"><b>Forecasts</b></font></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+<!---->
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_forecastTheme" style="display:none;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td width="7" class="bgForecasts"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgForecastsUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/HPAstroForecasts.aspx?Af=0" target="_top" onclick="lnav_trackClick( 'lnav_forecasts', this.href, this.target ); return false;" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0"><b>All Forecasts</b></a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_StEdAP" style="display:none;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_StEdAP" width="7" class="bgForecasts"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgForecastsUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdAP&amp;Af=0" target="_top" onclick="lnav_trackClick( 'lnav_forecasts', this.href, this.target ); return false;" id="lnavText_StEdAP" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0"><b>FREE Astroprofile</b></a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_StEdFrPR" style="display: block;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_StEdFrPR" width="7" class="bgHiCube"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgForecastsUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdFrPR&amp;Af=0" target="_top" onclick="lnav_trackClick( 'lnav_forecasts', this.href, this.target ); return false;" id="lnavText_StEdFrPR" class="navTextBold"><img src="images/spacer.gif" width="5" height="1" border="0">Summer Forecast</a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_StEdKRo" style="display:none;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_StEdKRo" width="7" class="bgForecasts"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgForecastsUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdKRo&amp;Af=0" target="_top" onclick="lnav_trackClick( 'lnav_forecasts', this.href, this.target ); return false;" id="lnavText_StEdKRo" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0">Karma Love Report</a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_StEdKL" style="display:none;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_StEdKL" width="7" class="bgForecasts"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgForecastsUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdKL&amp;Af=0" target="_top" onclick="lnav_trackClick( 'lnav_forecasts', this.href, this.target ); return false;" id="lnavText_StEdKL" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0">Karma Report</a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_StEdFrMo" style="display: block;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_StEdFrMo" width="7" class="bgHiCube"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgForecastsUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdFrMo&amp;Af=0" target="_top" onclick="lnav_trackClick( 'lnav_forecasts', this.href, this.target ); return false;" id="lnavText_StEdFrMo" class="navTextBold"><img src="images/spacer.gif" width="5" height="1" border="0">July Forecast</a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_StEdFrMoRo" style="display: block;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_StEdFrMoRo" width="7" class="bgHiCube"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgForecastsUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdFrMoRo&amp;Af=0" target="_top" onclick="lnav_trackClick( 'lnav_forecasts', this.href, this.target ); return false;" id="lnavText_StEdFrMoRo" class="navTextBold"><img src="images/spacer.gif" width="5" height="1" border="0">July Romance</a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_StEdFrY" style="display:none;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_StEdFrY" width="7" class="bgForecasts"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgForecastsUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdFrY&amp;Af=0" target="_top" onclick="lnav_trackClick( 'lnav_forecasts', this.href, this.target ); return false;" id="lnavText_StEdFrY" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0">12-Month Transits</a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_StEdNa" style="display:none;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_StEdNa" width="7" class="bgForecasts"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgForecastsUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdNa&amp;Af=0" target="_top" onclick="lnav_trackClick( 'lnav_forecasts', this.href, this.target ); return false;" id="lnavText_StEdNa" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0">Birth Horoscope</a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_StEdCp" style="display:none;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_StEdCP" width="7" class="bgForecasts"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgForecastsUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdCp&amp;Af=0" target="_top" onclick="lnav_trackClick( 'lnav_forecasts', this.href, this.target ); return false;" id="lnavText_StEdCp" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0">Compatibility Report</a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_StEdCa" style="display:none;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_StEdCa" width="7" class="bgForecasts"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgForecastsUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdCa&amp;Af=0" target="_top" onclick="lnav_trackClick( 'lnav_forecasts', this.href, this.target ); return false;" id="lnavText_StEdCa" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0">Career Report</a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_StEdLCp" style="display:none;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_StEdLCp" width="7" class="bgForecasts"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgForecastsUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdLCp&amp;Af=0" target="_top" onclick="lnav_trackClick( 'lnav_forecasts', this.href, this.target ); return false;" id="lnavText_StEdLCp" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0">Express<img src="" width="3" height="1" border="0">Compatibility</a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_StEdRVA" style="display:none;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_StEdRVA" width="7" class="bgForecasts"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgForecastsUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdRVA&amp;Af=0" target="_top" onclick="lnav_trackClick( 'lnav_forecasts', this.href, this.target ); return false;" id="lnavText_StEdRVA" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0">AstroDate</a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_StEdRVP" style="display:none;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_StEdRVP" width="7" class="bgForecasts"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgForecastsUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdRVP&amp;Af=0" target="_top" onclick="lnav_trackClick( 'lnav_forecasts', this.href, this.target ); return false;" id="lnavText_StEdRVP" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0">Meeting for Success</a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_StEdTe" style="display:none;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_StEdTe" width="7" class="bgForecasts"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgForecastsUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdTe&amp;Af=0" target="_top" onclick="lnav_trackClick( 'lnav_forecasts', this.href, this.target ); return false;" id="lnavText_StEdTe" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0">Child Report</a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_StEdMe" style="display:none;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_StEdMe" width="7" class="bgForecasts"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgForecastsUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdMe&amp;Af=0" target="_top" onclick="lnav_trackClick( 'lnav_forecasts', this.href, this.target ); return false;" id="lnavText_StEdMe" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0">Mother-Child Report</a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_forecasts_spacer" style="display: block;">
+				<tbody><tr>
+					<td><div style="height:8px;"><spacer type="block" height="1"></spacer></div></td>
+				</tr>
+			</tbody></table>
+
+		</td>
+	</tr>
+	<tr>
+		<td>
+<!--Title Video -->
+			<table width="100%" cellspacing="0" cellpadding="0" border="0">
+
+				<tbody><tr>
+					<td width="5"><img src="images/spacer.gif" width="5" height="1" alt=""></td>
+					<td width="21"><img src="images/navbar/lnav_video.gif" width="21" height="21" alt="Video Forcasts"></td>
+					<td valign="center" onclick="javascript:lnav_video();" onmouseover="this.className='bgVideoUP';" onmouseout="this.className='';" target="_top"><img src="images/navbar/spacer.gif" width="5" height="1"><img id="arrow_video" src="images/navbar/lnav_arrow6_norm.gif" width="9" height="9"><font class="TexteNav"><b>Video Forecasts</b></font></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+
+			</tbody></table>
+<!---->
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_videoTheme" style="display:none;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td width="7" class="bgVideo"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgVideoUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/HPVideo.aspx?Af=0" target="_top" onclick="lnav_trackClick( 'lnav_video', this.href, this.target ); return false;" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0"><b>All Video</b></a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_FreeWeeklyVideo" style="display:none;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_FreeWeeklyVideo" width="7" class="bgVideo"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgVideoUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/HPVideo.aspx?Af=0" target="_top" onclick="lnav_trackClick( 'lnav_video', this.href, this.target ); return false;" id="lnavText_FreeWeeklyVideo" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0"><b>Free Weekly Video</b></a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_vid_daily" style="display:none;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_vid_daily" width="7" class="bgVideo"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgVideoUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/PresentationVideo.aspx?Product=VID_DAILY&amp;Af=0" target="_top" onclick="lnav_trackClick( 'lnav_video', this.href, this.target ); return false;" id="lnavText_vid_daily" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0">Daily Video</a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_vid_compat" style="display:none;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_vid_compat" width="7" class="bgVideo"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgVideoUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=VID_COMPAT&amp;Af=0" target="_top" onclick="lnav_trackClick( 'lnav_video', this.href, this.target ); return false;" id="lnavText_vid_compat" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0">Compatibility Video</a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_video_spacer" style="display:none;">
+				<tbody><tr>
+					<td><div style="height:8px;"><spacer type="block" height="1"></spacer></div></td>
+				</tr>
+			</tbody></table>
+
+		</td>
+	</tr>
+	<tr>
+		<td>
+<!--Title  Tarot-->
+			<table width="100%" cellspacing="0" cellpadding="0" border="0">
+				<tbody><tr>
+					<td width="5"><img src="images/spacer.gif" width="5" height="1" alt=""></td>
+					<td width="21"><img src="images/navbar/lnav_tarot.gif" width="21" height="21" alt="Tarot Readings"></td>
+					<td valign="center" onclick="javascript:lnav_tarot();" onmouseover="this.className='bgTarotUP';" onmouseout="this.className='';" target="_top"><img src="images/navbar/spacer.gif" width="5" height="1"><img id="arrow_tarot" src="images/navbar/lnav_arrow3_norm.gif" width="9" height="9"><font class="TexteNav"><b>Tarot Readings</b></font></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+<!---->
+		</td>
+	</tr>
+	<tr>
+		<td>
+<!--Unfolded under - Tarot-->
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_tarotTheme" style="display:none;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td width="7" class="bgTarot"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgTarotUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/HPTarot.aspx?Af=0" target="_top" onclick="lnav_trackClick( 'lnav_tarot', this.href, this.target ); return false;" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0"><b>All Tarot Readings</b></a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_dailyTarot" style="display:none;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td width="7" class="bgTarot"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgTarotUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/HPTarot.aspx?Af=0" target="_top" onclick="lnav_trackClick( 'lnav_tarot', this.href, this.target ); return false;" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0"><b>Free Daily Tarot</b></a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_dailyTarotEmail" style="display:none;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td width="7" class="bgTarot"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgTarotUP';" onmouseout="this.className='';" width="124"><a href="http://store.astrocenter.com/us/store/buy/Default.asp?De=StEdEm&amp;Theme=tarot&amp;Af=0" target="_top" onclick="lnav_trackClick( 'lnav_tarot', this.href, this.target ); return false;" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0"><b>Free Tarot Email</b></a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_StEdTTH" style="display: block;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_StEdTTH" width="7" class="bgHiCubeAlt"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgTarotUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdTTH&amp;Af=0" target="_top" onclick="lnav_trackClick( 'lnav_tarot', this.href, this.target ); return false;" id="lnavText_StEdTTH" class="navTextBoldAlt"><img src="images/spacer.gif" width="5" height="1" border="0">12-House Tarot</a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_StEdTTYB" style="display:none;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_StEdTTYB" width="7" class="bgTarot"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgTarotUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdTTYB&amp;Af=0" target="_top" onclick="lnav_trackClick( 'lnav_tarot', this.href, this.target ); return false;" id="lnavText_StEdTTYB" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0">12-Month Tarot</a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_StEdTTLB" style="display: block;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_StEdTTLB" width="7" class="bgHiCube"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgTarotUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdTTLB&amp;Af=0" target="_top" onclick="lnav_trackClick( 'lnav_tarot', this.href, this.target ); return false;" id="lnavText_StEdTTLB" class="navTextBold"><img src="images/spacer.gif" width="5" height="1" border="0">12-Month Love Tarot</a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_StEdBaTa0" style="display:none;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_StEdBaTa0" width="7" class="bgTarot"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgTarotUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdBaTa&amp;DomaineTarot=0&amp;Af=0" target="_top" onclick="lnav_trackClick( 'lnav_tarot', this.href, this.target ); return false;" id="lnavText_StEdBaTa0" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0">Love Tarot</a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_StEdBaTa1" style="display:none;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_StEdBaTa1" width="7" class="bgTarot"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgTarotUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdBaTa&amp;DomaineTarot=1&amp;Af=0" target="_top" onclick="lnav_trackClick( 'lnav_tarot', this.href, this.target ); return false;" id="lnavText_StEdBaTa1" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0">Career Tarot</a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_StEdTTD0" style="display:none;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_StEdTTD0" width="7" class="bgTarot"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgTarotUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdTTD&amp;DomaineTarot=0&amp;Af=0" target="_top" onclick="lnav_trackClick( 'lnav_tarot', this.href, this.target ); return false;" id="lnavText_StEdTTD0" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0">Celtic Cross: Love</a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_StEdTTD1" style="display:none;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_StEdTTD1" width="7" class="bgTarot"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgTarotUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdTTD&amp;DomaineTarot=1&amp;Af=0" target="_top" onclick="lnav_trackClick( 'lnav_tarot', this.href, this.target ); return false;" id="lnavText_StEdTTD1" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0">Celtic Cross: Career</a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_StEdTTW" style="display:none;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_StEdTTW" width="7" class="bgTarot"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgTarotUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdTTW&amp;Af=0" target="_top" onclick="lnav_trackClick( 'lnav_tarot', this.href, this.target ); return false;" id="lnavText_StEdTTW" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0">Weekly Tarot</a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_StEdAT" style="display:none;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_StEdAT" width="7" class="bgTarot"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgTarotUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdAT&amp;Af=0" target="_top" onclick="lnav_trackClick( 'lnav_tarot', this.href, this.target ); return false;" id="lnavText_StEdAT" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0">Zodiac Love Cards</a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_TarotEmailConsultation" style="display:none;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_TarotEmailConsultation" width="7" class="bgTarot"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgTarotUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/HPEmailConsultations.aspx?Af=0" target="_top" onclick="lnav_trackClick( 'lnav_tarot', this.href, this.target ); return false;" id="lnavText_TarotEmailConsultation" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0">E-mail Tarot</a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_tarot_spacer" style="display: block;">
+				<tbody><tr>
+					<td><div style="height:8px;"><spacer type="block" height="1"></spacer></div></td>
+				</tr>
+			</tbody></table>
+
+<!---->
+		</td>
+	</tr>
+	<tr>
+		<td>
+<!--Title  Phone -->
+			<table width="100%" cellspacing="0" cellpadding="0" border="0">
+
+				<tbody><tr>
+					<td width="5"><img src="images/spacer.gif" width="5" height="1" alt=""></td>
+					<td width="21"><img src="images/navbar/lnav_phone.gif" width="21" height="21" alt="Phone Psyhics"></td>
+					<td valign="center" id="lnavItem_PhoneHilight" onclick="javascript:lnav_phone();" onmouseover="this.className='bgPhoneUP';" onmouseout="this.className='';" target="_top"><img src="images/navbar/spacer.gif" width="5" height="1"><img id="arrow_phone" src="images/navbar/lnav_arrow9_norm.gif" width="9" height="9"><font class="TexteNav"><b>Phone Psychics</b></font></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+
+			</tbody></table>
+<!---->
+		</td>
+	</tr>
+	<tr>
+		<td>
+
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_PhoneDetails" style="display:none;">
+				<tbody><tr>
+					<td>
+
+						<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_PhoneAd" style="display:none;">
+
+							<tbody><tr>
+								<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+								<td width="11" align="RIGHT" valign="top">
+									<div style="height:3px;"><spacer type="block" height="1"></spacer></div>
+									<table cellspacing="0" cellpadding="0" border="0">
+										<tbody><tr>
+											<td id="lnavCube_PhoneAd" width="7" class="bgPhone"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+										</tr>
+									</tbody></table>
+								</td>
+				
+								<td valign="top" onmouseover="this.className='bgPhoneUP';" onmouseout="this.className='';" width="124"><a href="http://store.astrocenter.com/us/Telephony/Welcome.asp?Af=0&amp;Theme=" target="_top" onclick="lnav_trackClick( 'lnav_phone', this.href, this.target ); return false;" id="lnavText_Phone" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0"><b>Phone Psychics<br><img src="images/spacer.gif" width="4" height="1" border="0">FREE 5 min reading<i>!</i></b></a></td>
+									
+							</tr><tr height="2">
+								<td colspan="3"></td>
+							</tr><tr height="1">
+								<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+							</tr><tr height="1">
+								<td colspan="3"></td>
+							</tr>
+
+						</tbody></table>
+						<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_PhoneMenu" style="display:none;">
+							<tbody><tr>
+								<td>
+
+
+									<table width="100%" border="0" cellpadding="0" cellspacing="0">
+										<tbody><tr>
+											<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+											<td width="11" align="RIGHT" valign="top">
+												<div style="height:3px;"><spacer type="block" height="1"></spacer></div>
+												<table cellspacing="0" cellpadding="0" border="0">
+													<tbody><tr>
+														<td width="7" class="bgPhone"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+													</tr>
+												</tbody></table>
+											</td>
+											<td valign="top" onmouseover="this.className='bgPhoneUP';" onmouseout="this.className='';" width="124"><a href="http://store.astrocenter.com/us/Telephony/Welcome.asp?Af=0" onclick="lnav_trackClick( 'lnav_phone', this.href, this.target ); return false;" target="_top" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0">Main Phone Page</a></td>
+										</tr><tr height="2">
+											<td colspan="3"></td>
+										</tr><tr height="1">
+											<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+										</tr><tr height="1">
+											<td colspan="3"></td>
+										</tr>
+									</tbody></table>
+									<table width="100%" border="0" cellpadding="0" cellspacing="0">
+										<tbody><tr>
+											<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+											<td width="11" align="RIGHT" valign="top">
+												<div style="height:3px;"><spacer type="block" height="1"></spacer></div>
+												<table cellspacing="0" cellpadding="0" border="0">
+													<tbody><tr>
+														<td width="7" class="bgPhone"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+													</tr>
+												</tbody></table>
+											</td>
+											<td width="124"><a href="http://store.astrocenter.com/us/Telephony/AddMinutes.asp?Af=0" onclick="lnav_trackClick( 'lnav_phone', this.href, this.target ); return false;" target="_top" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0"><font color="cc0033"><b>Add Minutes</b></font></a></td>
+										</tr><tr height="2">
+											<td colspan="3"></td>
+										</tr><tr height="1">
+											<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+										</tr><tr height="1">
+											<td colspan="3"></td>
+										</tr>
+									</tbody></table>
+									<table width="100%" border="0" cellpadding="0" cellspacing="0">
+										<tbody><tr>
+											<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+											<td width="11" align="RIGHT" valign="top">
+												<div style="height:3px;"><spacer type="block" height="1"></spacer></div>
+												<table cellspacing="0" cellpadding="0" border="0">
+													<tbody><tr>
+														<td width="7" class="bgPhone"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+													</tr>
+												</tbody></table>
+											</td>
+											<td valign="top" onmouseover="this.className='bgPhoneUP';" onmouseout="this.className='';" width="124"><a href="http://store.astrocenter.com/us/Telephony/AccountHistoryV3.asp?Af=0" onclick="lnav_trackClick( 'lnav_phone', this.href, this.target ); return false;" target="_top" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0">Account History</a></td>
+										</tr><tr height="2">
+											<td colspan="3"></td>
+										</tr><tr height="1">
+											<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+										</tr><tr height="1">
+											<td colspan="3"></td>
+										</tr>
+									</tbody></table>
+									<table width="100%" border="0" cellpadding="0" cellspacing="0">
+										<tbody><tr>
+											<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+											<td width="11" align="RIGHT" valign="top">
+												<div style="height:3px;"><spacer type="block" height="1"></spacer></div>
+												<table cellspacing="0" cellpadding="0" border="0">
+													<tbody><tr>
+														<td width="7" class="bgPhone"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+													</tr>
+												</tbody></table>
+											</td>
+											<td valign="top" onmouseover="this.className='bgPhoneUP';" onmouseout="this.className='';" width="124"><a href="http://store.astrocenter.com/us/Telephony/LostPhoneID.asp?Af=0" onclick="lnav_trackClick( 'lnav_phone', this.href, this.target ); return false;" target="_top" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0">Recover Phone ID</a></td>
+										</tr><tr height="2">
+											<td colspan="3"></td>
+										</tr><tr height="1">
+											<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+										</tr><tr height="1">
+											<td colspan="3"></td>
+										</tr>
+									</tbody></table>
+									<table width="100%" border="0" cellpadding="0" cellspacing="0">
+										<tbody><tr>
+											<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+											<td width="11" align="RIGHT" valign="top">
+												<div style="height:3px;"><spacer type="block" height="1"></spacer></div>
+												<table cellspacing="0" cellpadding="0" border="0">
+													<tbody><tr>
+														<td width="7" class="bgPhone"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+													</tr>
+												</tbody></table>
+											</td>
+											<td valign="top" onmouseover="this.className='bgPhoneUP';" onmouseout="this.className='';" width="124"><a href="http://store.astrocenter.com/us/Telephony/ProfileEdition.asp?Af=0" onclick="lnav_trackClick( 'lnav_phone', this.href, this.target ); return false;" target="_top" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0">Edit Account Info.</a></td>
+										</tr><tr height="2">
+											<td colspan="3"></td>
+										</tr><tr height="1">
+											<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+										</tr><tr height="1">
+											<td colspan="3"></td>
+										</tr>
+									</tbody></table>
+									<table width="100%" border="0" cellpadding="0" cellspacing="0">
+										<tbody><tr>
+											<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+											<td width="11" align="RIGHT" valign="top">
+												<div style="height:3px;"><spacer type="block" height="1"></spacer></div>
+												<table cellspacing="0" cellpadding="0" border="0">
+													<tbody><tr>
+														<td width="7" class="bgPhone"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+													</tr>
+												</tbody></table>
+											</td>
+											<td valign="top" onmouseover="this.className='bgPhoneUP';" onmouseout="this.className='';" width="124"><a href="http://store.astrocenter.com/us/Telephony/UserGuide.asp?Af=0" onclick="lnav_trackClick( 'lnav_phone', this.href, this.target ); return false;" target="_top" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0">Phone User Guide</a></td>
+										</tr><tr height="2">
+											<td colspan="3"></td>
+										</tr><tr height="1">
+											<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+										</tr><tr height="1">
+											<td colspan="3"></td>
+										</tr>
+									</tbody></table>
+									<table width="100%" border="0" cellpadding="0" cellspacing="0">
+										<tbody><tr>
+											<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+											<td width="11" align="RIGHT" valign="top">
+												<div style="height:3px;"><spacer type="block" height="1"></spacer></div>
+												<table cellspacing="0" cellpadding="0" border="0">
+													<tbody><tr>
+														<td width="7" class="bgPhone"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+													</tr>
+												</tbody></table>
+											</td>
+											<td valign="top" onmouseover="this.className='bgPhoneUP';" onmouseout="this.className='';" width="124"><a href="mailto:phoneservices@astrocenter.com" target="_top" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0">Contact Us</a></td>
+										</tr><tr height="2">
+											<td colspan="3"></td>
+										</tr><tr height="1">
+											<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+										</tr><tr height="1">
+											<td colspan="3"></td>
+										</tr>
+									</tbody></table>
+
+
+								</td>
+							</tr>
+						</tbody></table>
+
+
+
+					</td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_phone_spacer" style="display:none;">
+				<tbody><tr>
+					<td><div style="height:8px;"><spacer type="block" height="1"></spacer></div></td>
 				</tr>
 			</tbody></table>
 		</td>
-		<td width="1" bgcolor="cc0033"></td>
-	</tr><tr>
-		<td colspan="3" height="1" bgcolor="cc0033"><div style="height:1px;"><spacer type="block" height="1"></spacer></div></td>
-	</tr>
-</tbody></table>
-
-
-<div style="height:8px;"><spacer type="block" height="1"></spacer></div>
-<table width="150" class="leftNavBarBack" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td height="17" bgcolor="DDDDDD" style="background-image:url(images/navbar/leftnav_headerbg.gif)" class="navHeaderText">&nbsp;&nbsp;<a href="http://www.astrocenter.com/us/HPAstro.aspx?Af=0&amp;VS=&amp;osadcampaign=leftnav" target="_parent" class="navHeaderText">Horoscopes</a></td>
-	</tr><tr>
-		<td height="2" class="headerGap"><div style="height:2px;"><spacer type="block" height="1"></spacer></div></td>
-	</tr><tr>
-		<td height="5"><div style="height:5px;"><spacer type="block" height="1"></spacer></div></td>
-	</tr><tr>
-		<td height="14" class="navText"><img src="images/spacer.gif" width="7" height="10"><img src="images/navbar/navBarBkBullet.gif" width="2" height="10"><img src="images/spacer.gif" width="7" height="10"><a href="http://www.astrocenter.com/us/HPAstro.aspx?Af=0&amp;VS=&amp;osadcampaign=leftnav" target="_parent" class="navText">My Horoscopes</a></td>
-	</tr><tr>
-		<td height="14" class="navText"><img src="images/spacer.gif" width="7" height="10"><img src="images/navbar/navBarBkBullet.gif" width="2" height="10"><img src="images/spacer.gif" width="7" height="10"><a href="http://store.astrocenter.com/us/store/buy/default.asp?De=StEdEm&amp;Af=0&amp;VS=&amp;osadcampaign=leftnav" target="_parent" class="navText"><b>Free Horoscope E-mail</b></a></td>
-	</tr><tr>
-		<td height="14" class="navText"><img src="images/spacer.gif" width="7" height="10"><img src="images/navbar/navBarBkBullet.gif" width="2" height="10"><img src="images/spacer.gif" width="7" height="10"><a href="http://www.astrocenter.com/us/subscribePremiumDaily.aspx?Af=0&amp;VS=&amp;osadcampaign=leftnav" target="_parent" class="navText">Daily Star E-mail</a></td>
-	</tr><tr>
-		<td height="14" class="navText"><img src="images/spacer.gif" width="7" height="10"><img src="images/navbar/navBarBkBullet.gif" width="2" height="10"><img src="images/spacer.gif" width="7" height="10"><a href="http://www.astrocenter.com/us/subscribePremiumWeekly.aspx?Af=0&amp;VS=&amp;osadcampaign=leftnav" target="_parent" class="navText">Weekly Sky E-mail</a></td>
-	</tr><tr>
-		<td height="5"><div style="height:5px;"><spacer type="block" height="1"></spacer></div></td>
-	</tr>
-</tbody></table>
-<div style="height:8px;"><spacer type="block" height="1"></spacer></div>
-<table width="150" class="leftNavBarBack" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td height="17" bgcolor="DDDDDD" style="background-image:url(images/navbar/leftnav_headerbg.gif)" class="navHeaderText">&nbsp;&nbsp;<a href="http://store.astrocenter.com/us/Telephony/WelcomeFREE.asp?Af=0&amp;VS=" target="_parent" class="navHeaderText">Consultations</a></td>
-	</tr><tr>
-		<td height="2" class="headerGap"><div style="height:2px;"><spacer type="block" height="1"></spacer></div></td>
-	</tr><tr>
-		<td height="5"><div style="height:5px;"><spacer type="block" height="1"></spacer></div></td>
 	</tr>
 
 	<tr>
-		<td height="14" class="navText"><img src="images/spacer.gif" width="7" height="10"><img src="images/navbar/navBarBkBullet.gif" width="2" height="10"><img src="images/spacer.gif" width="7" height="10"><a href="http://store.astrocenter.com/us/Telephony/Welcome10.asp?Af=0&amp;VS=" target="_parent" class="navText"><b>Phone Reading<br><img src="images/spacer.gif" width="16" height="10" border="0">10 mins for only $2.99</b></a></td>
-	</tr>
-
-	<tr>
-		<td height="14" class="navText"><img src="images/spacer.gif" width="7" height="10"><img src="images/navbar/navBarBkBullet.gif" width="2" height="10"><img src="images/spacer.gif" width="7" height="10"><a href="http://www.astrocenter.com/us/HPEmailConsultations.aspx?Af=0&amp;VS=&amp;osadcampaign=leftnav" target="_parent" class="navText">E-mail Advice</a></td>
-	</tr><tr>
-		<td height="5"><div style="height:5px;"><spacer type="block" height="1"></spacer></div></td>
-	</tr>
-</tbody></table>
-
-<div style="height:8px;"><spacer type="block" height="1"></spacer></div>
-<table width="150" class="leftNavBarBack" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td height="17" bgcolor="DDDDDD" style="background-image:url(images/navbar/leftnav_headerbg.gif)" class="navHeaderText">&nbsp;&nbsp;<a href="http://www.astrocenter.com/us/HPAstroForecasts.aspx?Af=0&amp;VS=&amp;osadcampaign=leftnav" target="_parent" class="navHeaderText">Forecasts &amp; more...</a></td>
-	</tr><tr>
-		<td height="2" class="headerGap"><div style="height:2px;"><spacer type="block" height="1"></spacer></div></td>
-	</tr><tr>
-		<td height="5"><div style="height:5px;"><spacer type="block" height="1"></spacer></div></td>
-	</tr><tr>
-		<td height="14" class="navText"><img src="images/spacer.gif" width="7" height="10"><img src="images/navbar/navBarRDBullet.gif" width="2" height="10"><img src="images/spacer.gif" width="7" height="10"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdFrPR&amp;Af=0&amp;VS=&amp;osadcampaign=leftnav" target="_parent" class="navText"><font color="cc0033">Winter Forecast</font></a></td>
-	</tr><tr>
-		<td height="14" class="navText"><img src="images/spacer.gif" width="7" height="10"><img src="images/navbar/navBarBKBullet.gif" width="2" height="10"><img src="images/spacer.gif" width="7" height="10"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdKl&amp;Af=0&amp;VS=&amp;osadcampaign=leftnav" target="_parent" class="navText">Karma Report</a></td>
-	</tr><tr>
-		<td height="14" class="navText"><img src="images/spacer.gif" width="7" height="10"><img src="images/navbar/navBarBKBullet.gif" width="2" height="10"><img src="images/spacer.gif" width="7" height="10"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdFrMo&amp;Af=0&amp;VS=&amp;osadcampaign=leftnav" target="_parent" class="navText">December Forecast</a></td>
-	</tr><tr>
-		<td height="14" class="navText"><img src="images/spacer.gif" width="7" height="10"><img src="images/navbar/navBarBKBullet.gif" width="2" height="10"><img src="images/spacer.gif" width="7" height="10"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdFrMoRo&amp;Af=0&amp;VS=&amp;osadcampaign=leftnav" target="_parent" class="navText">December Romance</a></td>
-	</tr><tr>
-		<td height="14" class="navText"><img src="images/spacer.gif" width="7" height="10"><img src="images/navbar/navBarBkBullet.gif" width="2" height="10"><img src="images/spacer.gif" width="7" height="10"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdFrY&amp;Af=0&amp;VS=&amp;osadcampaign=leftnav" target="_parent" class="navText">12-Month Transits</a></td>
-	</tr><tr>
-		<td height="14" class="navText"><img src="images/spacer.gif" width="7" height="10"><img src="images/navbar/navBarBkBullet.gif" width="2" height="10"><img src="images/spacer.gif" width="7" height="10"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdNa&amp;Af=0&amp;VS=&amp;osadcampaign=leftnav" target="_parent" class="navText">Birth Horoscope</a></td>
-	</tr><tr>
-		<td height="14" class="navText"><img src="images/spacer.gif" width="7" height="10"><img src="images/navbar/navBarBkBullet.gif" width="2" height="10"><img src="images/spacer.gif" width="7" height="10"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdCp&amp;Af=0&amp;VS=&amp;osadcampaign=leftnav" target="_parent" class="navText">Compatibility Report</a></td>
-	</tr><tr>
-		<td height="14" class="navText"><img src="images/spacer.gif" width="7" height="10"><img src="images/navbar/navBarBkBullet.gif" width="2" height="10"><img src="images/spacer.gif" width="7" height="10"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdCa&amp;Af=0&amp;VS=&amp;osadcampaign=leftnav" target="_parent" class="navText">Career Report</a></td>
-	</tr><tr>
-		<td height="14" class="navText"><img src="images/spacer.gif" width="7" height="10"><img src="images/navbar/navBarBkBullet.gif" width="2" height="10"><img src="images/spacer.gif" width="7" height="10"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdLCp&amp;Af=0&amp;VS=&amp;osadcampaign=leftnav" target="_parent" class="navText">Express Compatibility</a></td>
-	</tr><tr>
-		<td height="14" class="navText"><img src="images/spacer.gif" width="7" height="10"><img src="images/navbar/navBarRDBullet.gif" width="2" height="10"><img src="images/spacer.gif" width="7" height="10"><a href="http://www.astrocenter.com/us/HPAstroYearly.aspx?Type=ch&amp;Af=0&amp;VS=&amp;osadcampaign=leftnav" target="_parent" class="navText"><font color="cc0033">Chinese Forecast</font></a></td>
-	</tr><tr>
-		<td height="14" class="navText"><img src="images/spacer.gif" width="7" height="10"><img src="images/navbar/navBarBkBullet.gif" width="2" height="10"><img src="images/spacer.gif" width="7" height="10"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdRVA&amp;Af=0&amp;VS=&amp;osadcampaign=leftnav" target="_parent" class="navText">AstroDate</a></td>
-	</tr><tr>
-		<td height="14" class="navText"><img src="images/spacer.gif" width="7" height="10"><img src="images/navbar/navBarBkBullet.gif" width="2" height="10"><img src="images/spacer.gif" width="7" height="10"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdRVP&amp;Af=0&amp;VS=&amp;osadcampaign=leftnav" target="_parent" class="navText">Meeting For Success</a></td>
-	</tr><tr>
-		<td height="14" class="navText"><img src="images/spacer.gif" width="7" height="10"><img src="images/navbar/navBarBkBullet.gif" width="2" height="10"><img src="images/spacer.gif" width="7" height="10"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdTe&amp;Af=0&amp;VS=&amp;osadcampaign=leftnav" target="_parent" class="navText">Child Report</a></td>
-	</tr><tr>
-		<td height="14" class="navText"><img src="images/spacer.gif" width="7" height="10"><img src="images/navbar/navBarBkBullet.gif" width="2" height="10"><img src="images/spacer.gif" width="7" height="10"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdMe&amp;Af=0&amp;VS=&amp;osadcampaign=leftnav" target="_parent" class="navText">Mother-Child Report</a></td>
-	</tr>
-	<!-- 
-	<tr>
-		<td height="14" class="navText"><nobr><img src=images/spacer.gif width=7 height=10><img src=images/navbar/navBarRDBullet.gif width=2 height=10><img src=images/spacer.gif width=7 height=10><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdFrPR&Af=0&VS=&osadcampaign=leftnav" target="_parent" class="navText">Winter Forecast</a></nobr></td>
-	</tr>
-	-->
-	<tr>
-		<td height="5"><div style="height:5px;"><spacer type="block" height="1"></spacer></div></td>
-	</tr>
-</tbody></table>
-<div style="height:8px;"><spacer type="block" height="1"></spacer></div>
-<table width="150" class="leftNavBarBack" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td height="17" bgcolor="DDDDDD" style="background-image:url(images/navbar/leftnav_headerbg.gif)" class="navHeaderText">&nbsp;&nbsp;<a href="http://www.astrocenter.com/us/HPTarot.aspx?Af=0&amp;VS=&amp;osadcampaign=leftnav" target="_parent" class="navHeaderText">Tarot Readings</a></td>
-	</tr><tr>
-		<td height="2" class="headerGap"><div style="height:2px;"><spacer type="block" height="1"></spacer></div></td>
-	</tr><tr>
-		<td height="5"><div style="height:5px;"><spacer type="block" height="1"></spacer></div></td>
-	</tr><tr>
-		<td height="14" class="navText"><img src="images/spacer.gif" width="7" height="10"><img src="images/navbar/navBarBkBullet.gif" width="2" height="10"><img src="images/spacer.gif" width="7" height="10"><a href="http://www.astrocenter.com/us/HPTarot.aspx?Af=0&amp;VS=&amp;osadcampaign=leftnav" target="_parent" class="navText"><b>Free Daily Tarot</b></a></td>
-	</tr><tr>
-		<td height="14" class="navText"><img src="images/spacer.gif" width="7" height="10"><img src="images/navbar/navBarRDBullet.gif" width="2" height="10"><img src="images/spacer.gif" width="7" height="10"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdTTYB&amp;Af=0&amp;VS=&amp;osadcampaign=leftnav" target="_parent" class="navText"><font color="CC0033">12-Month Tarot</font></a></td>
-	</tr><tr>
-		<td height="14" class="navText"><img src="images/spacer.gif" width="7" height="10"><img src="images/navbar/navBarBkBullet.gif" width="2" height="10"><img src="images/spacer.gif" width="7" height="10"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdBaTa%26DomaineTarot%3d0&amp;Af=0&amp;VS=&amp;osadcampaign=leftnav" target="_parent" class="navText">Love Tarot</a></td>
-	</tr><tr>
-		<td height="14" class="navText"><img src="images/spacer.gif" width="7" height="10"><img src="images/navbar/navBarBkBullet.gif" width="2" height="10"><img src="images/spacer.gif" width="7" height="10"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdBaTa%26DomaineTarot%3d1&amp;Af=0&amp;VS=&amp;osadcampaign=leftnav" target="_parent" class="navText">Career Tarot</a></td>
-	</tr><tr>
-		<td height="14" class="navText"><img src="images/spacer.gif" width="7" height="10"><img src="images/navbar/navBarBkBullet.gif" width="2" height="10"><img src="images/spacer.gif" width="7" height="10"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdTTD%26DomaineTarot%3d0&amp;Af=0&amp;VS=&amp;osadcampaign=leftnav" target="_parent" class="navText">Celtic Cross: Love</a></td>
-	</tr><tr>
-		<td height="14" class="navText"><img src="images/spacer.gif" width="7" height="10"><img src="images/navbar/navBarBkBullet.gif" width="2" height="10"><img src="images/spacer.gif" width="7" height="10"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdTTD%26DomaineTarot%3d1&amp;Af=0&amp;VS=&amp;osadcampaign=leftnav" target="_parent" class="navText">Celtic Cross: Career</a></td>
-	</tr><tr>
-		<td height="14" class="navText"><img src="images/spacer.gif" width="7" height="10"><img src="images/navbar/navBarBkBullet.gif" width="2" height="10"><img src="images/spacer.gif" width="7" height="10"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdTTH&amp;Af=0&amp;VS=&amp;osadcampaign=leftnav" target="_parent" class="navText">Astrological Wheel</a></td>
-	</tr><tr>
-		<td height="14" class="navText"><img src="images/spacer.gif" width="7" height="10"><img src="images/navbar/navBarBkBullet.gif" width="2" height="10"><img src="images/spacer.gif" width="7" height="10"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdTTW&amp;Af=0&amp;VS=&amp;osadcampaign=leftnav" target="_parent" class="navText">Weekly Tarot Reading</a></td>
-	</tr><tr>
-		<td height="14" class="navText"><img src="images/spacer.gif" width="7" height="10"><img src="images/navbar/navBarBkBullet.gif" width="2" height="10"><img src="images/spacer.gif" width="7" height="10"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdAT&amp;Af=0&amp;VS=&amp;osadcampaign=leftnav" target="_parent" class="navText">Zodiac Love Cards</a></td>
-	</tr><tr>
-		<td height="14" class="navText"><img src="images/spacer.gif" width="7" height="10"><img src="images/navbar/navBarBkBullet.gif" width="2" height="10"><img src="images/spacer.gif" width="7" height="10"><a href="http://www.astrocenter.com/us/HPEmailConsultations.aspx?Af=0&amp;VS=&amp;osadcampaign=leftnav" target="_parent" class="navText">E-mail Tarot Readings</a></td>
-	</tr><tr>
-		<td height="5"><div style="height:5px;"><spacer type="block" height="1"></spacer></div></td>
-	</tr>
-</tbody></table>
-<div style="height:8px;"><spacer type="block" height="1"></spacer></div>
-<table width="150" class="leftNavBarBack" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td height="17" bgcolor="DDDDDD" style="background-image:url(images/navbar/leftnav_headerbg.gif)" class="navHeaderText">&nbsp;&nbsp;<a href="http://www.astrocenter.com/us/HPVideo.aspx?Af=0&amp;VS=&amp;osadcampaign=leftnav" target="_parent" class="navHeaderText">Video Forecasts</a></td>
-	</tr><tr>
-		<td height="2" class="headerGap"><div style="height:2px;"><spacer type="block" height="1"></spacer></div></td>
-	</tr><tr>
-		<td height="5"><div style="height:5px;"><spacer type="block" height="1"></spacer></div></td>
-	</tr><tr>
-		<td height="14" class="navText"><img src="images/spacer.gif" width="7" height="10"><img src="images/navbar/navBarBkBullet.gif" width="2" height="10"><img src="images/spacer.gif" width="7" height="10"><a href="http://www.astrocenter.com/us/HPVideo.aspx?Af=0&amp;VS=&amp;osadcampaign=leftnav" target="_parent" class="navText"><b>FREE Weekly Video</b></a></td>
-	</tr><tr>
-		<td height="14" class="navText"><img src="images/spacer.gif" width="7" height="10"><img src="images/navbar/navBarBkBullet.gif" width="2" height="10"><img src="images/spacer.gif" width="7" height="10"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=VID_COMPAT&amp;Af=0&amp;VS=&amp;osadcampaign=leftnav" target="_parent" class="navText">Compatibility Video</a></td>
-	</tr><tr>
-		<td height="5"><div style="height:5px;"><spacer type="block" height="1"></spacer></div></td>
-	</tr>
-</tbody></table>
-<div style="height:8px;"><spacer type="block" height="1"></spacer></div>
-<table width="150" class="leftNavBarBack" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td height="17" bgcolor="DDDDDD" style="background-image:url(images/navbar/leftnav_headerbg.gif)" class="navHeaderText">&nbsp;&nbsp;<a href="http://www.astrocenter.com/us/HPNumero.aspx?Af=0&amp;VS=&amp;osadcampaign=leftnav" target="_parent" class="navHeaderText">Other Areas</a></td>
-	</tr><tr>
-		<td height="2" class="headerGap"><div style="height:2px;"><spacer type="block" height="1"></spacer></div></td>
-	</tr><tr>
-		<td height="5"><div style="height:5px;"><spacer type="block" height="1"></spacer></div></td>
-	</tr><tr>
-		<td height="14" class="navText"><img src="images/spacer.gif" width="7" height="10"><img src="images/navbar/navBarBkBullet.gif" width="2" height="10"><img src="images/spacer.gif" width="7" height="10"><a href="http://www.astrocenter.com/us/HPNumero.aspx?Af=0&amp;VS=&amp;osadcampaign=leftnav" target="_parent" class="navText">Numerology</a></td>
-	</tr><tr>
-		<td height="14" class="navText"><img src="images/spacer.gif" width="7" height="10"><img src="images/navbar/navBarBkBullet.gif" width="2" height="10"><img src="images/spacer.gif" width="7" height="10"><a href="http://www.astrocenter.com/us/HPAstroChinese.aspx?Af=0&amp;VS=&amp;osadcampaign=leftnav" target="_parent" class="navText">Chinese Astrology</a></td>
-	</tr><tr>
-		<td height="14" class="navText"><img src="images/spacer.gif" width="7" height="10"><img src="images/navbar/navBarBkBullet.gif" width="2" height="10"><img src="images/spacer.gif" width="7" height="10"><a href="http://www.astrocenter.com/us/HPDream.aspx?Af=0&amp;VS=&amp;osadcampaign=leftnav" target="_parent" class="navText">Dream Interpretations</a></td>
-	</tr><tr>
-		<td height="5"><div style="height:5px;"><spacer type="block" height="1"></spacer></div></td>
-	</tr>
-</tbody></table>
-<div style="height:8px;"><spacer type="block" height="1"></spacer></div>
-<table width="150" class="leftNavBarBack" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td height="17" bgcolor="DDDDDD" style="background-image:url(images/navbar/leftnav_headerbg.gif)" class="navHeaderText">&nbsp;&nbsp;<a href="http://www.astrocenter.com/us/PsychicGlossary.aspx?Af=0&amp;VS=&amp;osadcampaign=leftnav" target="_parent" class="navHeaderText">Learn More...</a></td>
-	</tr><tr>
-		<td height="2" class="headerGap"><div style="height:2px;"><spacer type="block" height="1"></spacer></div></td>
-	</tr><tr>
-		<td height="5"><div style="height:5px;"><spacer type="block" height="1"></spacer></div></td>
-	</tr><tr>
-		<td height="14" class="navText"><img src="images/spacer.gif" width="7" height="10"><img src="images/navbar/navBarBkBullet.gif" width="2" height="10"><img src="images/spacer.gif" width="7" height="10"><a href="http://www.astrocenter.com/us/AstroGlossary.aspx?Af=0&amp;VS=&amp;osadcampaign=leftnav" target="_parent" class="navText">Astrological Glossary</a></td>
-	</tr><tr>
-		<td height="14" class="navText"><img src="images/spacer.gif" width="7" height="10"><img src="images/navbar/navBarBkBullet.gif" width="2" height="10"><img src="images/spacer.gif" width="7" height="10"><a href="http://www.astrocenter.com/us/HPDream.aspx?Af=0&amp;VS=&amp;osadcampaign=leftnav#DreamDict" target="_parent" class="navText">Dream Dictionary</a></td>
-	</tr><tr>
-		<td height="14" class="navText"><img src="images/spacer.gif" width="7" height="10"><img src="images/navbar/navBarBkBullet.gif" width="2" height="10"><img src="images/spacer.gif" width="7" height="10"><a href="http://www.astrocenter.com/us/HPDream.aspx?Af=0&amp;VS=&amp;osadcampaign=leftnav#FeaturedDream" target="_parent" class="navText">Featured Dream</a></td>
-	</tr><tr>
-		<td height="14" class="navText"><img src="images/spacer.gif" width="7" height="10"><img src="images/navbar/navBarBkBullet.gif" width="2" height="10"><img src="images/spacer.gif" width="7" height="10"><a href="http://www.astrocenter.com/us/PsychicGlossary.aspx?Af=0&amp;VS=&amp;osadcampaign=leftnav" target="_parent" class="navText">Psychic Glossary</a></td>
-	</tr><tr>
-		<td height="14" class="navText"><img src="images/spacer.gif" width="7" height="10"><img src="images/navbar/navBarBkBullet.gif" width="2" height="10"><img src="images/spacer.gif" width="7" height="10"><a href="http://www.astrocenter.com/us/TarotGlossary.aspx?Af=0&amp;VS=&amp;osadcampaign=leftnav" target="_parent" class="navText">Tarot Glossary</a></td>
-	</tr><tr>
-		<td height="5"><div style="height:5px;"><spacer type="block" height="1"></spacer></div></td>
-	</tr>
-</tbody></table>
-<div style="height:16px;"><spacer type="block" height="1"></spacer></div>
-
-<!-- Chinese NEW! -->
-<div style="position:relative;left:116px;top:-522px;index:10;">
-<table height="21" cellspacing="0" cellpadding="0" border="0" style="background-image:url(images/sparkle1.gif);background-repeat:no-repeat;background-position: center center;">
-	<tbody><tr>
-		<td height="12" valign="center" class="P-A2"><a href="http://www.astrocenter.com/us/HPAstroYearly.aspx?Type=ch&amp;Af=0&amp;VS=&amp;osadcampaign=leftnav" target="_parent" class="navText"><font color="cc0033"><b>NEW<i>!</i></b></font></a></td>
-	</tr>
-</tbody></table>
-</div>
-<!-- Winter NEW! -->
-<div style="position:relative;left:108px;top:-671px;index:10;">
-<table height="25" width="25" cellspacing="0" cellpadding="0" border="0" style="background-image:url(images/sparkle_snowflake.gif);background-repeat:no-repeat;background-position: center center;">
-	<tbody><tr>
-		<td height="12" valign="center" class="P-A2"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdFrPR&amp;Af=0&amp;VS=&amp;osadcampaign=leftnav" target="_parent" class="navText"><font color="cc0033"><b>NEW<i>!</i></b></font></a></td>
-	</tr>
-</tbody></table>
-</div>
+		<td>
+<!--Title  Consultations -->
+			<table width="100%" cellspacing="0" cellpadding="0" border="0">
+				<tbody><tr>
+					<td width="5"><img src="images/spacer.gif" width="5" height="1" alt=""></td>
+					<td width="21"><img src="images/navbar/lnav_email.gif" width="21" height="21" alt="Email Advice"></td>
+					<td valign="center" onclick="javascript:lnav_consultations();" onmouseover="this.className='bgConsultationsUP';" onmouseout="this.className='';" target="_top"><img src="images/navbar/spacer.gif" width="5" height="1"><img id="arrow_consultations" src="images/navbar/lnav_arrow4_norm.gif" width="9" height="9"><font class="TexteNav"><b>Email Advice</b></font></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+<!---->
 		</td>
-		<td width="13"><div style="width:13px;"><spacer type="block" height="1"></spacer></div></td>
-		<td width="617">
+	</tr>
+	<tr>
+		<td>
+<!--Unfolded menu - Consultations/Live Advice-->
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_ConsultationAdviceTarot" style="display:none;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_ConsultationAdviceTarot" width="7" class="bgConsultations"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgConsultationsUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/HPEmailConsultations.aspx?Theme=Tarot&amp;Af=0" target="_top" onclick="lnav_trackClick( 'lnav_consultations', this.href, this.target ); return false;" id="lnavText_ConsultationAdviceTarot" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0">Tarot E-mail</a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_ConsultationAdviceAstro" style="display:none;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_ConsultationAdviceAstro" width="7" class="bgConsultations"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgConsultationsUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/HPEmailConsultations.aspx?Theme=Astro&amp;Af=0" target="_top" onclick="lnav_trackClick( 'lnav_consultations', this.href, this.target ); return false;" id="lnavText_ConsultationAdviceAstro" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0">Astrology E-mail</a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_ConsultationAdviceDream" style="display:none;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_ConsultationAdviceDream" width="7" class="bgConsultations"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgConsultationsUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/HPEmailConsultations.aspx?Theme=Dream&amp;Af=0" target="_top" onclick="lnav_trackClick( 'lnav_consultations', this.href, this.target ); return false;" id="lnavText_ConsultationAdviceDream" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0">Dream E-mail</a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_consultations_spacer" style="display:none;">
+				<tbody><tr>
+					<td><div style="height:8px;"><spacer type="block" height="1"></spacer></div></td>
+				</tr>
+			</tbody></table>
+
+<!---->
+		</td>
+	</tr>
+	<tr>
+		<td>
+<!--Title Chinese / Other Areas -->
+			<table width="100%" cellspacing="0" cellpadding="0" border="0">
+				<tbody><tr>
+					<td width="5"><img src="images/spacer.gif" width="5" height="1" alt=""></td>
+					<td width="21"><img src="images/navbar/lnav_chinese.gif" width="21" height="21" alt="Chinese and Other Areas"></td>
+					<td valign="center" onclick="javascript:lnav_other();" onmouseover="this.className='bgOtherUP';" onmouseout="this.className='';" target="_top"><img src="images/navbar/spacer.gif" width="5" height="1"><img id="arrow_other" src="images/navbar/lnav_arrow7_norm.gif" width="9" height="9"><font class="TexteNav"><b>Chinese and more</b></font></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+<!---->
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_ChineseAstrology" style="display:none;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_ChineseAstrology" width="7" class="bgOther"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgOtherUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/HPAstroChinese.aspx?Af=0" target="_top" onclick="lnav_trackClick( 'lnav_other', this.href, this.target ); return false;" id="lnavText_ChineseAstrology" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0"><b>All Chinese</b></a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr><tr>
+					<td colspan="3">
+						<table width="100%" border="0" cellpadding="0" cellspacing="0">
+							<tbody><tr>
+								<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+								<td width="11" align="RIGHT" valign="bottom">
+									<table cellspacing="0" cellpadding="0" border="0">
+										<tbody><tr>
+											<td width="7"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+										</tr>
+									</tbody></table>
+								</td>
+								<td width="11" align="RIGHT" valign="bottom">
+									<table cellspacing="0" cellpadding="0" border="0">
+										<tbody><tr>
+											<td id="lnavCube_StEdCh2K2b" width="7" class="bgOther"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+										</tr>
+									</tbody></table>
+									<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+								</td>
+								<td onmouseover="this.className='bgOtherUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdCh2K2&amp;Af=0" target="_top" onclick="lnav_trackClick( 'lnav_other', this.href, this.target ); return false;" id="lnavText_StEdCh2K2b" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0"><font color="FF0000">2006 Chinese</font></a></td>
+							</tr><tr height="2">
+								<td colspan="4"></td>
+							</tr><tr height="1">
+								<td colspan="4" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+							</tr><tr height="1">
+								<td colspan="4"></td>
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_StEdPc" style="display:none;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td width="7"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+					</td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_StEdPc" width="7" class="bgOther"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgOtherUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdPc&amp;Af=0" target="_top" onclick="lnav_trackClick( 'lnav_other', this.href, this.target ); return false;" id="lnavText_StEdPc" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0">Chinese Portrait</a></td>
+				</tr><tr height="2">
+					<td colspan="4"></td>
+				</tr><tr height="1">
+					<td colspan="4" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="4"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_Dreams" style="display:none;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_Dreams" width="7" class="bgOther"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgOtherUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/HPDream.aspx?Af=0" target="_top" onclick="lnav_trackClick( 'lnav_other', this.href, this.target ); return false;" id="lnavText_Dreams" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0"><b>All Dreams</b></a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_Numerology" style="display:none;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_Numerology" width="7" class="bgOther"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgOtherUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/HPNumero.aspx?Af=0" target="_top" onclick="lnav_trackClick( 'lnav_other', this.href, this.target ); return false;" id="lnavText_Numerology" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0"><b>All Numerology</b></a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_StEdNuP" style="display:none;">
+				<tbody><tr>
+					<td colspan="4">
+						<table width="100%" border="0" cellpadding="0" cellspacing="0">
+							<tbody><tr>
+								<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+								<td width="11" align="RIGHT" valign="bottom">
+									<table cellspacing="0" cellpadding="0" border="0">
+										<tbody><tr>
+											<td width="7"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+										</tr>
+									</tbody></table>
+								</td>
+								<td width="11" align="RIGHT" valign="bottom">
+									<table cellspacing="0" cellpadding="0" border="0">
+										<tbody><tr>
+											<td id="lnavCube_StEdNu" width="7" class="bgOther"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+										</tr>
+									</tbody></table>
+									<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+								</td>
+								<td onmouseover="this.className='bgOtherUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdNu&amp;Af=0" target="_top" onclick="lnav_trackClick( 'lnav_other', this.href, this.target ); return false;" id="lnavText_StEdNu" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0">2006 Numerology</a></td>
+							</tr><tr height="2">
+								<td colspan="4"></td>
+							</tr><tr height="1">
+								<td colspan="4" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+							</tr><tr height="1">
+								<td colspan="4"></td>
+							</tr>
+						</tbody></table>
+					</td>
+				</tr><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td width="7"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+					</td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_StEdNuP" width="7" class="bgOther"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgOtherUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdNuP&amp;Af=0" target="_top" onclick="lnav_trackClick( 'lnav_other', this.href, this.target ); return false;" id="lnavText_StEdNuP" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0">Numerology Port.</a></td>
+				</tr><tr height="2">
+					<td colspan="4"></td>
+				</tr><tr height="1">
+					<td colspan="4" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="4"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_other_spacer" style="display:none;">
+				<tbody><tr>
+					<td><div style="height:8px;"><spacer type="block" height="1"></spacer></div></td>
+				</tr>
+			</tbody></table>
+
+		</td>
+	</tr>
+	<tr>
+		<td>
+<!--Title Learn More -->
+			<table width="100%" cellspacing="0" cellpadding="0" border="0">
+				<tbody><tr>
+					<td width="5"><img src="images/spacer.gif" width="5" height="1" alt=""></td>
+					<td width="21"><img src="images/navbar/lnav_learn.gif" width="21" height="21" alt="Learn More"></td>
+					<td valign="center" onclick="javascript:lnav_learn();" onmouseover="this.className='bgLearnUP';" onmouseout="this.className='';" target="_top"><img src="images/navbar/spacer.gif" width="5" height="1"><img id="arrow_learn" src="images/navbar/lnav_arrow8_norm.gif" width="9" height="9"><font class="TexteNav"><b>Learn More</b></font></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+<!---->
+		</td>
+	</tr>
+	<tr>
+		<td>
+
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_InfoAstro" style="display:none;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_InfoAstro" width="7" class="bgLearn"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgLearnUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/InfoAstro.aspx?Af=0" target="_top" onclick="lnav_trackClick( 'lnav_learn', this.href, this.target ); return false;" id="lnavText_InfoTarot" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0">About Astrology</a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_AstroArticle" style="display:none;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_AstroArticle" width="7" class="bgLearn"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgLearnUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/HPArticle.aspx?Af=0" target="_top" onclick="lnav_trackClick( 'lnav_learn', this.href, this.target ); return false;" id="lnavText_AstroArticle" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0">Featured Article</a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_AstroGlossary" style="display:none;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_AstroGlossary" width="7" class="bgLearn"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgLearnUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/AstroGlossary.aspx?Af=0" target="_top" onclick="lnav_trackClick( 'lnav_learn', this.href, this.target ); return false;" id="lnavText_AstroGlossary" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0">Astrological Glossary</a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_HPDreamFeatured" style="display:none;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_HPDreamFeatured" width="7" class="bgLearn"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgLearnUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/HPDream.aspx?Af=0" target="_top" onclick="lnav_trackClick( 'lnav_learn', this.href, this.target ); return false;" id="lnavText_HPDreamFeatured" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0">Featured Dream</a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_HPDream" style="display:none;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_HPDream" width="7" class="bgLearn"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgLearnUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/DreamDictionary.aspx?Af=0" target="_top" onclick="lnav_trackClick( 'lnav_learn', this.href, this.target ); return false;" id="lnavText_HPDream" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0">Dream Dictionary</a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_PsychicGlossary" style="display:none;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_PsychicGlossary" width="7" class="bgLearn"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgLearnUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/PsychicGlossary.aspx?Af=0" target="_top" onclick="lnav_trackClick( 'lnav_learn', this.href, this.target ); return false;" id="lnavText_PsychicGlossary" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0">Psychic Glossary</a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_InfoTarot" style="display:none;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_InfoTarot" width="7" class="bgLearn"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgLearnUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/InfoTarot.aspx?Af=0" target="_top" onclick="lnav_trackClick( 'lnav_learn', this.href, this.target ); return false;" id="lnavText_TarotGlossary" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0">About Tarot</a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_TarotGlossary" style="display:none;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_TarotGlossary" width="7" class="bgLearn"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgLearnUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/TarotGlossary.aspx?Af=0" target="_top" onclick="lnav_trackClick( 'lnav_learn', this.href, this.target ); return false;" id="lnavText_TarotGlossary" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0">Tarot Glossary</a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_VedicAstrology" style="display: block;">
+
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_VedicAstrology" width="7" class="bgHiCube"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgLearnUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/HPVedic.aspx?Af=0" target="_top" onclick="lnav_trackClick( 'lnav_learn', this.href, this.target ); return false;" id="lnavText_VedicAstrology" class="navTextBold"><img src="images/spacer.gif" width="5" height="1" border="0">Vedic Astrology</a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_VedicProfile" style="display: block;">
+
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_VedicProfile" width="7" class="bgHiCube"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgLearnUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/HPVedic.aspx?IM=PC&amp;Af=0" target="_top" onclick="lnav_trackClick( 'lnav_learn', this.href, this.target ); return false;" id="lnavText_VedicProfile" class="navTextBold"><img src="images/spacer.gif" width="5" height="1" border="0">Vedic Profile</a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_learn_spacer" style="display: block;">
+				<tbody><tr>
+					<td><div style="height:8px;"><spacer type="block" height="1"></spacer></div></td>
+				</tr>
+			</tbody></table>
+			
+		</td>
+	</tr>
+	<tr>
+		<td>
+<!--Title Yearly Special -->
+			<table width="100%" cellspacing="0" cellpadding="0" border="0">
+				<tbody><tr>
+					<td width="5"><img src="images/spacer.gif" width="5" height="1" alt=""></td>
+					<td width="21"><img src="images/navbar/lnav_yearly.gif" width="21" height="21" alt="2006 Special"></td>
+					<td valign="center" onclick="javascript:lnav_yearly();" onmouseover="this.className='bgYearlyUP';" onmouseout="this.className='bgTexte';" target="_top"><img src="images/navbar/spacer.gif" width="5" height="1"><img id="arrow_yearly" src="images/navbar/lnav_arrow1_norm.gif" width="9" height="9"><font class="TexteNav"><b>2006 Special</b></font></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>				
+<!---->
+		</td>
+	</tr>
+	<tr>
+		<td>
+<!--Unfolded menu - Yearly -->
+			<table width="150" border="0" cellpadding="0" cellspacing="0" id="lnavItem_yearlyTheme" style="display:none;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table width="7" cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td class="bgYearly"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgYearlyUP';" onmouseout="this.className='';" width="124"><a target="_top" onclick="lnav_trackClick( 'lnav_yearly', this.href, this.target ); return false;" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0"><b>All 2006 Special</b></a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_StEdFr2K2" style="display: block;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_StEdFr2K2" class="bgHiCube"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgYearlyUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdFr2K2&amp;Af=0" target="_top" onclick="lnav_trackClick( 'lnav_yearly', this.href, this.target ); return false;" id="lnavText_StEdFr2K2" class="navTextBold"><img src="images/spacer.gif" width="5" height="1" border="0">2006 Forecast <b>SALE<i>!</i></b></a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_StEdAL" style="display:none;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_StEdAL" width="7" class="bgYearly"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgYearlyUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdAL&amp;Af=0" target="_top" onclick="lnav_trackClick( 'lnav_yearly', this.href, this.target ); return false;" id="lnavText_StEdAL" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0">2006 Love Forecast</a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_StEdAC" style="display:none;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_StEdAC" width="7" class="bgYearly"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgYearlyUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdAC&amp;Af=0" target="_top" onclick="lnav_trackClick( 'lnav_yearly', this.href, this.target ); return false;" id="lnavText_StEdAC" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0">2006 Career Forecast</a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_StEdETFrY" style="display:none;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_StEdETFrY" width="7" class="bgYearly"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgYearlyUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdETFrY&amp;Af=0" target="_top" onclick="lnav_trackClick( 'lnav_yearly', this.href, this.target ); return false;" id="lnavText_StEdETFrY" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0">2006 Power Days</a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+			<!-- 
+			<table width=100% border="0" cellpadding="0" cellspacing="0" id="lnavItem_StEdTTY" style="display:none;">
+				<tr>
+					<td width=15><img src="images/spacer.gif" width=15 height=1 alt=""></td>
+					<td width=11 align=RIGHT valign=bottom>
+						<table cellspacing=0 cellpadding=0 border=0>
+							<tr>
+								<td id="lnavCube_StEdTTY" width=7 class="bgYearly"><img src="images/spacer.gif" width=7 height=7 alt=""></td>
+							</tr>
+						</table>
+						<div style="height:2px;"><spacer type="block" height="1" /></div>
+					</td>
+					<td  onmouseover="this.className='bgYearlyUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/HPAstroYearly.aspx?Type=tty&Af=0" target="_top" onclick="lnav_trackClick( 'lnav_yearly', this.href, this.target ); return false;" id="lnavText_StEdTTY" class="navText"><img src="images/spacer.gif" width="5" height="1" border=0>2006 Tarot <b>SALE<i>!</i></b></a></td>
+				</tr><tr height="2">
+					<td colspan=3></td>
+				</tr><tr height="1">
+					<td colspan=3 class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan=3></td>
+				</tr>
+			</table>
+			-->
+			<!-- 
+			<table width=100% border="0" cellpadding="0" cellspacing="0" id="lnavItem_StEdTTL" style="display:none;">
+				<tr>
+					<td width=15><img src="images/spacer.gif" width=15 height=1 alt=""></td>
+					<td width=11 align=RIGHT valign=bottom>
+						<table cellspacing=0 cellpadding=0 border=0>
+							<tr>
+								<td id="lnavCube_StEdTTL" width=7 class="bgYearly"><img src="images/spacer.gif" width=7 height=7 alt=""></td>
+							</tr>
+						</table>
+						<div style="height:2px;"><spacer type="block" height="1" /></div>
+					</td>
+					<td  onmouseover="this.className='bgYearlyUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdTTL&Af=0" target="_top" onclick="lnav_trackClick( 'lnav_yearly', this.href, this.target ); return false;" id="lnavText_StEdTTL" class="navText"><img src="images/spacer.gif" width="5" height="1" border=0>2006 Love Tarot</a></td>
+				</tr><tr height="2">
+					<td colspan=3></td>
+				</tr><tr height="1">
+					<td colspan=3 class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan=3></td>
+				</tr>
+			</table>
+			-->
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_StEdCh2K2" style="display: block;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_StEdCh2K2" width="7" class="bgHiCube"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgYearlyUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdCh2K2&amp;Af=0" target="_top" onclick="lnav_trackClick( 'lnav_yearly', this.href, this.target ); return false;" id="lnavText_StEdCh2K2" class="navTextBold"><img src="images/spacer.gif" width="5" height="1" border="0">2006 Chinese <b>SALE<i>!</i></b></a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_StEdNu" style="display:none;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_StEdNu" width="7" class="bgYearly"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgYearlyUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/Presentation.aspx?Product=StEdCh&amp;Af=0" target="_top" onclick="lnav_trackClick( 'lnav_yearly', this.href, this.target ); return false;" id="lnavText_StEdNu" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0">2006 Numerology</a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_YearlyPhone" style="display:none;">
+
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_YearlyPhone" width="7" class="bgYearly"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgYearlyUP';" onmouseout="this.className='';" width="124"><a href="http://store.astrocenter.com/us/Telephony/WelcomeFREE.asp?Theme=Yearly&amp;Af=0" target="_top" onclick="lnav_trackClick( 'lnav_yearly', this.href, this.target ); return false;" id="lnavText_YearlyPhone" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0">2006 Phone</a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_YearlyEmailConsultation" style="display:none;">
+				<tbody><tr>
+					<td width="15"><img src="images/spacer.gif" width="15" height="1" alt=""></td>
+					<td width="11" align="RIGHT" valign="bottom">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td id="lnavCube_YearlyEmailConsultation" width="7" class="bgYearly"><img src="images/spacer.gif" width="7" height="7" alt=""></td>
+							</tr>
+						</tbody></table>
+						<div style="height:2px;"><spacer type="block" height="1"></spacer></div>
+					</td>
+					<td onmouseover="this.className='bgYearlyUP';" onmouseout="this.className='';" width="124"><a href="http://www.astrocenter.com/us/HPYearlyEmailConsultations.aspx?Af=0" target="_top" onclick="lnav_trackClick( 'lnav_yearly', this.href, this.target ); return false;" id="lnavText_YearlyEmailConsultation" class="navText"><img src="images/spacer.gif" width="5" height="1" border="0">2006 E-mail Advice</a></td>
+				</tr><tr height="2">
+					<td colspan="3"></td>
+				</tr><tr height="1">
+					<td colspan="3" class="bgBorder"><img src="images/pxTrans.gif" height="1"></td>
+				</tr><tr height="1">
+					<td colspan="3"></td>
+				</tr>
+			</tbody></table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" id="lnavItem_yearly_spacer" style="display: block;">
+				<tbody><tr>
+					<td><div style="height:8px;"><spacer type="block" height="1"></spacer></div></td>
+				</tr>
+			</tbody></table>
+<!---->
+		</td>
+	</tr>
+</tbody></table>
+<!--
+
+<table width=100% cellspacing=0 cellpadding=0 border=0>
+	<tr>
+		<td align=right>
+			<a href="http://www.astrocenter.com/us/HPGift.aspx?Af=0" target=_top><img src="images/navbar/lnav_giftCert.gif" border=0></a>
+		</td>
+	</tr>
+</table>
+
+-->
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+	<tbody><tr>
+		<td align="right">
+			<img src="images/stars_blue1.gif" border="0">
+		</td>
+	</tr>
+</tbody></table>
+<script type="text/javascript">
+<!--
+runLeftNav();
+//-->
+</script>
+					</td>
+					<td width="13"><div style="width:13px;"><spacer type="block" height="1"></spacer></div></td>
+					<td width="617">
 
 			<table class="body" width="100%" border="0" cellpadding="0" cellspacing="0">
 				<tbody><tr>
@@ -456,24 +2826,58 @@ window.onload = function() {
 					<td height="15"><font class="P-Trans">&nbsp;</font></td>
 				</tr>
 			</tbody></table>
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+		<td width="8"></td>
+		<td width="2" bgcolor="333333"><img src="images/spacer.gif" width="2" hieght="1"></td>
+	</tr><tr>
+		<td width="2" bgcolor="333333"><img src="images/spacer.gif" width="2" hieght="1"></td>
+		<td colspan="3" height="2" bgcolor="333333"></td>
+		<td width="2" bgcolor="333333"><img src="images/spacer.gif" width="2" hieght="1"></td>
+	</tr>
+		<tr><td colspan="5" align="center"><table width="100%" border="0" cellpadding="0" cellspacing="0" class="headerGap">
+	<tbody><tr>
+		<td align="center">
+
+			<div style="height:12px;"><spacer type="block" height="1"></spacer></div>
+			<table width="780" border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td width="55"></td>
+					<td height="21" align="center"><font class="P-B2B">&nbsp;<a href="http://www.astrocenter.com/us/Faq.aspx?Af=0" class="P-B2B" target="_parent"><font color="white">FAQ</font></a>&nbsp;-
+							<a href="http://www.astrocenter.com/us/SiteMap.aspx?Af=0" class="P-B2B" target="_parent"><font color="white">Site Map</font></a>&nbsp;-
+							<a href="http://www.astrocenter.com/us/AffiliateForm.aspx?Af=0" class="P-B2B" target="_parent"><font color="white">Affiliates</font></a>&nbsp;-
+							<a href="http://www.astrocenter.com/us/TermsOfService.aspx?Af=0" class="P-B2B" target="_parent"><font color="white">Terms of Service</font></a>&nbsp;-
+							<a href="http://www.astrocenter.com/us/Privacy.aspx?Af=0" target="_parent" class="P-B2B"><font color="white">PRIVACY</font></a>&nbsp;-
+							<a href="http://www.astrocenter.com/us/CustomerServiceForm.aspx?Af=0" target="_parent" class="P-B2B"><font color="white">Feedback</font></a>&nbsp;-
+							<a href="http://www.astrocenter.com/us/AboutUs.aspx?Af=0" class="P-B2B" target="_parent"><font color="white">About Us</font></a>&nbsp;-</font></td>
+					<td width="130" valign="center" align="left"><a href="http://www.astrocenter.com/us/RSS.aspx?Af=0" class="P-B2B" target="_parent"><img src="Feeds/rss.gif" border="0" align="middle"></a>&nbsp;<a href="http://www.astrocenter.com/us/Podcast.aspx?Af=0" class="P-B2B" target="_parent"><img src="Feeds/pod.gif" border="0" align="middle"></a></td>
+					<td width="55"></td>
+				</tr><tr>
+					<td height="21" colspan="4" align="center"><font class="P-B1">Copyright 1999-2006 Center.com, Inc.</font></td>
+				</tr>
+			</tbody></table>
+			<div style="height:100px;"><spacer type="block" height="1"></spacer></div>
+
 		</td>
 	</tr>
 </tbody></table>
-<table width="780" border="0" cellpadding="0" cellspacing="0" bgcolor="9999FF">
-	<tbody><tr>
-		<td width="70%" height="21"><font class="P-B2B">&nbsp;
-				<a href="http://www.astrocenter.com/us/Faq.aspx?Af=0&amp;VS=" class="P-B2B" target="_parent"><font color="white">FAQ</font></a>&nbsp;-
-				<a href="http://www.astrocenter.com/us/SiteMap.aspx?Af=0&amp;VS=" class="P-B2B" target="_parent"><font color="white">Site Map</font></a>&nbsp;-
-				<a href="http://www.astrocenter.com/us/AffiliateForm.aspx?Af=0&amp;VS=" class="P-B2B" target="_parent"><font color="white">Affiliates</font></a>&nbsp;-
-				<a href="http://www.astrocenter.com/us/TermsOfService.aspx?Af=0&amp;VS=" class="P-B2B" target="_parent"><font color="white">Terms of Service</font></a>&nbsp;-
-				<a href="http://www.astrocenter.com/us/Privacy.aspx?Af=0&amp;VS=" target="_parent" class="P-B2B"><font color="white">PRIVACY</font></a>&nbsp;-
-				<a href="http://www.astrocenter.com/us/CustomerServiceForm.aspx?Af=0&amp;VS=" target="_parent" class="P-B2B"><font color="white">Feedback</font></a>&nbsp;-
-				<a href="http://www.astrocenter.com/us/AboutUs.aspx?Af=0&amp;VS=" class="P-B2B" target="_parent"><font color="white">About Us</font></a></font></td>
-		<td width="30%" height="21" align="right"><font class="P-B1">Copyright 1999-2005 Center.com, Inc.&nbsp;&nbsp;</font></td>
+</td>
 	</tr>
 </tbody></table>
-
+</div>
 <script language="javascript" src="js/mailtrack.js"></script>
+
+
+			<!---- us personalized production --->
+			<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+			<script type="text/javascript">
+				_uacct = "UA-338877-1";
+				_udn="astrocenter.com";
+				urchinTracker();
+			</script>
+	
 
 
 <!--//include file="cobrand/OneStatScript.html" -->
@@ -494,7 +2898,7 @@ function OneStat_Pageview()
     var osp_AMOUNT="";
     var osp_PRODUCTCODE="";
     var osp_PRODUCTGROUP="REPORT";
-    var osp_ADCAMPAIGN="";
+    var osp_ADCAMPAIGN=retrievedTrackVal;
     var osp_URL="Privacy.aspx";
     var osp_Title=d.title;
     var t=new Date();
@@ -524,7 +2928,7 @@ function OneStat_Pageview()
 
 OneStat_Pageview();
 //-->
-</script><img id="ONESTAT_TAG" border="0" width="1" height="1" src="https://stat.onestat.com/stat.aspx?tagver=2&amp;sid=240197&amp;url=Privacy.aspx&amp;ti=Astrocenter.com%20%u2013%20Privacy%20Policy%2C%20Astrology%2C%20Tarot%2C%20Psychics%2C%20Free%20Horoscopes%2C%20Free%20Tarot%20Readings%2C%20Free%20Psychic%20Readings&amp;section=&amp;custom=&amp;cma=&amp;cmt=&amp;cmm=&amp;cmp=&amp;cmg=REPORT&amp;cmad=&amp;rf=&amp;tz=0&amp;ch=6&amp;js=1&amp;ul=en-US&amp;ol=https%3A//web.archive.org/web/20051210052831id_/http%253A//www.astrocenter.com/us/Privacy.aspx%253FAf%253D0%2526VS%253D&amp;sr=800x600&amp;cd=24&amp;jo=No">
+</script><img id="ONESTAT_TAG" border="0" width="1" height="1" src="https://stat.onestat.com/stat.aspx?tagver=2&amp;sid=240197&amp;url=Privacy.aspx&amp;ti=Astrocenter.com%3A%20Privacy%20Policy%2C%20Astrology%2C%20Tarot%2C%20Psychics%2C%20Free%20Horoscopes%2C%20Free%20Tarot%20Readings%2C%20Free%20Psychic%20Readings&amp;section=&amp;custom=&amp;cma=&amp;cmt=&amp;cmm=&amp;cmp=&amp;cmg=REPORT&amp;cmad=nt&amp;rf=&amp;tz=0&amp;ch=6&amp;js=1&amp;ul=en-US&amp;ol=https%3A//web.archive.org/web/20060616212700id_/http%253A//www.astrocenter.com/us/Privacy.aspx%253FAf%253D0&amp;sr=800x600&amp;cd=24&amp;jo=No">
 <noscript>
 <a href="http://www.onestat.com"><img border="0" width="1" height="1" src="http://stat.onestat.com/stat.aspx?tagver=2&amp;sid=240197&amp;js=No&amp;" ALT="OneStat Web Analytics"></a>
 </noscript>
