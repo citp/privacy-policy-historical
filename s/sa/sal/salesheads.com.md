@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salesheads.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214074237id_/http%3A//www.salesheads.com/MKT/Content/JS/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salesheads.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616171948id_/http%3A//www.salesheads.com/MKT/Content/JS/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
 # salesheads.com | Sales Careers, Sales Managers, Sales Reps, IT Sales, Sales Jobs, Sales Resumes
 
@@ -23,7 +23,7 @@ Contact
 **Collection and Use of Information**  
 
 
-When you register with this site or one of its affiliated web sites, we ask you for personal information. We use this information to process your requests and to communicate with you about the status of your requests. We may also use your email address to send you newsletters you are subscribed to during registration, as well as messages about any special offers, promotional announcements and consumer surveys. 
+When you register with this site or one of its affiliated web sites, we ask you for personal information. We use this information to process your requests and to communicate with you about the status of your requests. For example, if you request additional information on other services, such as continuing education or student loan consolidation, we will share your information solely as is necessary to process your request. We may also use your email address to send you newsletters you are subscribed to during registration, as well as messages about any special offers, promotional announcements and consumer surveys. 
 
 We are the sole owners of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. We collect information from our users at several different points on our website. When you first register with us, we ask for your email address and a password. At this time, we may subscribe you to various email publications. You can unsubscribe at any time. 
 
@@ -83,7 +83,7 @@ Back to top
 
 We have implemented technology and security features, as well as strict internal guidelines, to safeguard the privacy of your personal information from unauthorized access or improper use. We will continue to enhance our security procedures as new technology becomes available. While we make every effort to ensure that your information is secure on our system, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, we cannot guarantee the security of any information you transmit to us, and you do so at your own risk. 
 
-When you place an order online at Artemis HR, your credit card information is protected through the use of encryption, such as the Secure Socket Layer ("SSL") protocol. SSL makes it difficult for your credit card information to be intercepted or stolen while being transmitted. Artemis HR uses a service company to process its credit card transactions.
+When you place an order online at Beyond.com, your credit card information is protected through the use of encryption, such as the Secure Socket Layer ("SSL") protocol. SSL makes it difficult for your credit card information to be intercepted or stolen while being transmitted. Artemis HR uses a service company to process its credit card transactions.
 
 Users should not post personal information to any site if they are uncomfortable with the security of the site.  If you have any questions, please contact us.  Back to top
 
@@ -99,7 +99,7 @@ Back to top
 
 **Notification of Changes**  
 
-If we decide to change our privacy policy, we will post those changes here so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point you have questions or concerns about Artemis HR's privacy policy, please feel free to contact us. 
+If we decide to change our privacy policy, we will post those changes here so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point you have questions or concerns about Beyond.com's privacy policy, please feel free to contact us. 
 
 Back to top
 
