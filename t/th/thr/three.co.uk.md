@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the three.co.uk privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230021653id_/http%3A//three.co.uk/customer/terms/privacy.omp%3Fcid%3D1124179743355) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the three.co.uk privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616170244id_/http%3A//www.three.co.uk/customer/terms/privacy.omp%3Fcid%3D1124179743355) for the most accurate reproduction.*
 
 # Welcome to 3
 
