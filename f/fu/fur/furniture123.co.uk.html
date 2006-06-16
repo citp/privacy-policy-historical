@@ -1,515 +1,588 @@
-<!--The following is the downloaded HTML source of the furniture123.co.uk privacy policy that was archived on 2004-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040619022655id_/http%3A//furniture123.co.uk/ubik.dll/home/about/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the furniture123.co.uk privacy policy that was archived on 2006-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060616030707id_/http%3A//www.furniture123.co.uk/Layouts/content.asp/storyid/%257BD88F2E63-63AF-4A9C-ADF1-C04B3F6FE4FF%257D) for the most accurate reproduction.-->
 
-<html><head><meta name="generator" content="ubik.script version 3.19.03">
-<title>furniture123.co.uk | privacy policy | information collection, the law and data protection</title>
- <meta name="keywords" content="privacy, privacy policy, customer privacy, information, data protection act, email, address, phone number, mailing lists, information, credit card security, fraud, encryption, swatch samples, terms and conditions, United Kingdom, Great Britain, furniture123, furniture, furniture online, home furnishings, f123, online, buying, ordering, interior designers, home, house, room, cheap, eCommerce, UK, swatches, swatch ordering, direct, free, Britain, England, upholstery, free delivery, beds, sofas.">
- <meta name="description" content="This privacy policy explains furniture123's commitment to protecting a customer's privacy; the law, the data protection act and collection of information are all covered.">
-<style class="text/css">
-    <!--
-    A.link          {text-decoration:"none";}
-    A.link:hover    {text-decoration:"none";}
-    -->
-</style>
-</head>
-<body bgcolor="#FFFFFF" marginwidth="0" marginheight="0" topmargin="0" leftmargin="0" text="#000000" link="#006633" alink="#006633" vlink="#006633">
-<a name="top"></a>
-<!-- SSI -->
-<!-- Cookie code -->
-<script language="javascript">
-<!--
-    function setCookie (name, value, expires)
-    {
-        if (!expires) expires = new Date();
-    	document.cookie = name + "=" + escape (value) + "; expires=" + expires.toGMTString() +  "; path=/";
-    }
-
-    function getCookie (name)
-    {
-    	var dcookie = document.cookie;
-    	var cname = name + "=";
-    	var clen = dcookie.length;
-    	var cbegin = 0;
-    	    while (cbegin < clen)
-    	    {
-    	    var vbegin = cbegin + cname.length;
-    	        if (dcookie.substring(cbegin, vbegin) == cname)
-    	        {
-    	        var vend = dcookie.indexOf (";", vbegin);
-    	            if (vend == -1) vend = clen;
-    	        return unescape(dcookie.substring(vbegin, vend));
-    	        }
-    	    cbegin = dcookie.indexOf(" ", cbegin) + 1;
-    	        if (cbegin == 0) break;
-    	    }
-    	return null;
-    }
-
-
-//SET COOKIE IF NOT ONE
-
-	if (getCookie("Referal_Cookie") == null || getCookie("Referal_Date_Cookie") == null || getCookie("Return_Cookie") == null)
-	{
-		var url = document.location.href
-		var referer
-		var return_count
-
-		url = document.location.href;
-		point=url.lastIndexOf("#");
-		referer = url.substring(point+1,url.length);
-		return_count = 1;
-
-		var expdate = new Date ();
-		expdate.setTime (expdate.getTime() + (1000 * 60 * 60 * 24 * 90));
-
-		var sessionexp = new Date ();
-		sessionexp.setTime (sessionexp.getTime() + (1000 * 60 * 60));
-
-		var newdate = new Date();
-		var rday = newdate.getDate();
-		var rmonth = newdate.getMonth()+1;
-		var ryear = newdate.getFullYear();
-		var rdate =  rday + "/" + rmonth + "/" + ryear;
-
-
-		if (point > 0)
-		{
-			setCookie ("Referal_Cookie", referer, expdate);
-			setCookie ("Referal_Date_Cookie", rdate, expdate);
-			setCookie ("Return_Cookie", return_count, expdate);
-			setCookie ("Session_Cookie", "session", sessionexp);
-		}
-		else
-		{
-			setCookie ("Referal_Cookie", "none", expdate);
-			setCookie ("Referal_Date_Cookie", rdate, expdate);
-			setCookie ("Return_Cookie", return_count, expdate);
-			setCookie ("Session_Cookie", "session", sessionexp);
-		}
-	}
-
-//INCREASE RETURN COUNT IF EXISTS
-
-	else
-	{
-		if (getCookie("Session_Cookie") == null)
-		{
-			var return_count
-
-			var expdate = new Date ();
-			expdate.setTime (expdate.getTime() + (1000 * 60 * 60 * 24 * 90));
-
-			var sessionexp = new Date ();
-			sessionexp.setTime (sessionexp.getTime() + (1000 * 60 * 60));
-
-			return_count = getCookie("Return_Cookie");
-
-			return_count++;
-
-			setCookie ("Return_Cookie", return_count, expdate);
-			setCookie ("Session_Cookie", "session", sessionexp);
-		}
-	}
--->
-</script>
-
-
-<!--Script for Shop by Product -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2//EN"><html><head>
+<script language="javascript" src="/Ubik/SigmaValidation.js"></script>
+<meta name="e-tempest:license" id="CM:2.0.0">
+<title>privacy policy</title>
+<meta name="DESCRIPTION" content="privacy policy">
+<meta name="KEYWORDS" content="privacy policy">
 <script language="JavaScript">
+<!--
+// Load static (i.e. not in DB) nav bar rollover images
+	orange = new Image();
+	orange.src = "Images/Main/orange_dot.gif";
+
+// quick search drop down list
 function goto_URL(object)
 {
     window.location.href = object.options[object.selectedIndex].value;
 }
+
+// email product link
+function mailpage(description, url)
+{
+mail_str = "mailto:?subject=I thought you might be interested in the " + description + " from furniture123.co.uk. ";
+mail_str += "&body=%0D%0AYou can view it at: http://www.furniture123.co.uk"+ url;
+location.href = mail_str;
+}
+
+//-->
+</script>
+<script language="javascript">
+<!--
+
+	function readIt(name)
+	{
+		alert('The value of the cookie is ' + readCookie(name));
+	}
+
+
+	function createCookie(name,value,days)
+	{
+		if (days)
+		{
+			var date = new Date();
+			date.setTime(date.getTime()+(days*24*60*60*1000));
+			var expires = "; expires="+date.toGMTString();
+		}
+		else var expires = "";
+		document.cookie = name+"="+value+expires+"; path=/";
+	}
+
+	function readCookie(name)
+	{
+		var nameEQ = name + "=";
+		var ca = document.cookie.split(';');
+		for(var i=0;i < ca.length;i++)
+		{
+			var c = ca[i];
+			while (c.charAt(0)==' ') c = c.substring(1,c.length);
+			if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+		}
+		return null;
+	}
+
+	function eraseCookie(name)
+	{
+		createCookie(name,"",-1);
+	}
+
+
+
+    //SET COOKIE IF NOT ONE
+
+	var url = document.location.href;
+	var point = 0;
+
+	// look for referrer on the query string
+	var query = location.search.substring(1);
+	var referer = '';
+	var pairs = query.split("-_-");
+	for(var i = 0; i < pairs.length; i++)
+	{
+	    var pos = pairs[i].indexOf('=');
+	    if (pos == -1) continue;
+		var argname = pairs[i].substring(0,pos);
+	    if (argname == "cm_mmc")
+	    {
+		referer = pairs[i].substring(pos+1);
+		point = 1; // hangover from old code
+	    }
+	}
+
+	var newdate = new Date();
+	var rday = newdate.getDate();
+	var rmonth = newdate.getMonth()+1;
+	var ryear = newdate.getFullYear();
+	var rhour = newdate.getHours();
+	var rmin = newdate.getMinutes();
+
+	var rdate =  rday + "/" + rmonth + "/" + ryear + " " + rhour + ":" + rmin;
+	
+	var x = readCookie('Referal_Cookie');
+
+	if (x) // COOKIE EXISTS
+	{	
+		if (point > 0)
+		{
+			createCookie ('Referal_Cookie', referer, 365);
+			createCookie ('Referal_Date_Cookie', rdate, 365);
+		}
+	}
+	else  // NO COOKIE
+	{
+		if (point > 0)
+		{
+			createCookie ('Referal_Cookie', referer, 365);
+			createCookie ('Referal_Date_Cookie', rdate, 365);
+		}
+		else
+		{
+			createCookie ('Referal_Cookie', 'none', 365);
+			createCookie ('Referal_Date_Cookie', rdate, 365);
+		} 		
+	}
+	
+
+//-->
 </script>
 
-<table align="center" bgcolor="#FFFFFF" cellpadding="0" cellspacing="0" border="0" width="710">
-<tbody><tr><td colspan="2"><img src="/images/front/spacer.gif" width="1" height="4" border="0"></td></tr>
-<tr>
-    <td rowspan="2" valign="TOP"><a href="HTTP://www.furniture123.co.uk/ubik.dll/script/category/-Q2F0ZWdvcnk9RnJvbnQmU2Vzc2lvbj0xMTg1NzcyNQ---Mu"><img src="/images/shared/f123_header_strapline2.gif" border="0"></a></td>
-	<td align="right" nowrap="">
-		<form>
-				<select name="ShopbyProduct" onchange="goto_URL(this.form.ShopbyProduct)">
-					<option value="">Quick Search</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9QWNjZW50K3BpZWNlcyZTZXNzaW9uPTExODU3NzI1-f2">Accent Pieces</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9QXJtY2hhaXJzJlNlc3Npb249MTE4NTc3MjU--1y">Armchairs</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9QmF0aHJvb20rY2FiaW5ldHMmU2Vzc2lvbj0xMTg1NzcyNQ---K_">Bathroom Cabinets</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9QmVkcyslMkQrQmVkZnJhbWVzJlNlc3Npb249MTE4NTc3MjU--t_">Beds - Bedframes</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9QmVkcyslMkQrRGl2YW5zJlNlc3Npb249MTE4NTc3MjU--B6">Beds - Divans</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9QmVkc2lkZSt0YWJsZXMmU2Vzc2lvbj0xMTg1NzcyNQ---T6">Bedside Tables</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9QmxhbmtldCtCb3hlcyZTZXNzaW9uPTExODU3NzI1-i2">Blanket Boxes</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9Qm9va2Nhc2VzJlNlc3Npb249MTE4NTc3MjU--Ry">Bookcases</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9QnJlYWtmYXN0K1RhYmxlcyZTZXNzaW9uPTExODU3NzI1-j6">Breakfast Tables</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9Q2FzdWFsK0RpbmluZyZTZXNzaW9uPTExODU3NzI1-p2">Casual Dining</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9Q0QrU3RvcmFnZStVbml0cyZTZXNzaW9uPTExODU3NzI1-I6">CD Storage Units</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9Q2hhaXJzJlNlc3Npb249MTE4NTc3MjU--Gu">Chairs</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9Q2hlc3RzK29mK0RyYXdlcnMmU2Vzc2lvbj0xMTg1NzcyNQ---s_">Chests of Drawers</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9Q2hpbGRyZW5zK0JlZHMmU2Vzc2lvbj0xMTg1NzcyNQ---66">Childrens Beds</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9Q2hpbGRyZW5zK1NvZmFzJlNlc3Npb249MTE4NTc3MjU--s6">Childrens Sofas</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9QmVkcm9vbStDbGVhcmFuY2UmU2Vzc2lvbj0xMTg1NzcyNQ---o_">Clearance Bedroom</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9Q2hpbGRyZW5zK0NsZWFyYW5jZSZTZXNzaW9uPTExODU3NzI1-J_">Clearance Childrens</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9RGluaW5nK1Jvb20rQ2xlYXJhbmNlJlNlc3Npb249MTE4NTc3MjU--QC">Clearance Dining Room</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9R2FyZGVuK0NsZWFyYW5jZSZTZXNzaW9uPTExODU3NzI1-J6">Clearance Garden</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9S2l0Y2hlbitDbGVhcmFuY2UmU2Vzc2lvbj0xMTg1NzcyNQ---A_">Clearance Kitchen</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9TGl2aW5nK1Jvb20rQ2xlYXJhbmNlJlNlc3Npb249MTE4NTc3MjU--PC">Clearance Living Room</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9T2ZmaWNlK0NsZWFyYW5jZSZTZXNzaW9uPTExODU3NzI1-Z6">Clearance Office</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9Q29mZmVlK1RhYmxlcyZTZXNzaW9uPTExODU3NzI1-g2">Coffee Tables</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9Q29tcHV0ZXIrRGVza3MmU2Vzc2lvbj0xMTg1NzcyNQ---D6">Computer Desks</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9Q29uc2VydmF0b3J5K0NoYWlycyZTZXNzaW9uPTExODU3NzI1-L_">Conservatory Chairs</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9Q29uc2VydmF0b3J5K0NvZmZlZStUYWJsZXMmU2Vzc2lvbj0xMTg1NzcyNQ---JK">Conservatory Coffee Tables</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9Q29uc2VydmF0b3J5K1NvZmFzJlNlc3Npb249MTE4NTc3MjU--t_">Conservatory Sofas</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9Q29uc2VydmF0b3J5K1RhYmxlcyZTZXNzaW9uPTExODU3NzI1-e_">Conservatory Tables</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9RGVza3MmU2Vzc2lvbj0xMTg1NzcyNQ---1u">Desks</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9RGluaW5nK1RhYmxlcyZTZXNzaW9uPTExODU3NzI1-D2">Dining Tables</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9RGlzcGxheStDYWJpbmV0cyZTZXNzaW9uPTExODU3NzI1-G6">Display Cabinets</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9RHJlc3NlcnMmU2Vzc2lvbj0xMTg1NzcyNQ---py">Dressers</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9RHJlc3NpbmcrVGFibGVzJlNlc3Npb249MTE4NTc3MjU--D6">Dressing Tables</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9RXhwcmVzcytBY2Nlc3NvcmllcyZTZXNzaW9uPTExODU3NzI1-Q_">Express Accessories</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9RXhwcmVzcytCZWRyb29tJlNlc3Npb249MTE4NTc3MjU--v6">Express Bedroom</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9RXhwcmVzcytDaGlsZHJlbnMmU2Vzc2lvbj0xMTg1NzcyNQ---k_">Express Childrens</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9RXhwcmVzcytDb25zZXJ2YXRvcnkmU2Vzc2lvbj0xMTg1NzcyNQ---OC">Express Conservatory</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9RXhwcmVzcytEaW5pbmcrUm9vbSZTZXNzaW9uPTExODU3NzI1-X_">Express Dining Room</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9RXhwcmVzcytHYXJkZW4mU2Vzc2lvbj0xMTg1NzcyNQ---36">Express Garden</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9RXhwcmVzcytLaXRjaGVuJlNlc3Npb249MTE4NTc3MjU--j6">Express Kitchen</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9RXhwcmVzcytMaXZpbmcrUm9vbSZTZXNzaW9uPTExODU3NzI1-F_">Express Living Room</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9RXhwcmVzcytNdXNpYythbmQrVHYmU2Vzc2lvbj0xMTg1NzcyNQ---jC">Express Music and TV</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9RXhwcmVzcytPZmZpY2UmU2Vzc2lvbj0xMTg1NzcyNQ---l6">Express Office</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9RmlsaW5nK1VuaXRzJlNlc3Npb249MTE4NTc3MjU--72">Filing Units</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9Rm9vdHN0b29scyZTZXNzaW9uPTExODU3NzI1-my">Footstools</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9RnJhbWVkK1ByaW50cyZTZXNzaW9uPTExODU3NzI1-O2">Framed Prints</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9RnV0b25zJlNlc3Npb249MTE4NTc3MjU--.u">Futons</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9R2FyYWdlK1N0b3JhZ2UmU2Vzc2lvbj0xMTg1NzcyNQ---Q6">Garage Storage</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9R2FyZGVuK0FjY2Vzc29yaWVzJlNlc3Npb249MTE4NTc3MjU--6_">Garden Accessories</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9R2FyZGVuK0JlbmNoZXMmU2Vzc2lvbj0xMTg1NzcyNQ---W6">Garden Benches</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9R2FyZGVuK0NoYWlycyZTZXNzaW9uPTExODU3NzI1-K2">Garden Chairs</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9R2FyZGVuK0xvdW5nZXJzJlNlc3Npb249MTE4NTc3MjU--i6">Garden Loungers</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9R2FyZGVuK1RhYmxlcyZTZXNzaW9uPTExODU3NzI1-d2">Garden Tables</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9R3Vlc3QrQmVkcyZTZXNzaW9uPTExODU3NzI1-ty">Guest Beds</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9SGFsbCtUYWJsZXMmU2Vzc2lvbj0xMTg1NzcyNQ---Y2">Hall Tables</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9SGVhZGJvYXJkcyZTZXNzaW9uPTExODU3NzI1-ty">Headboards</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9SGkrRmkrQ2FiaW5ldHMmU2Vzc2lvbj0xMTg1NzcyNQ---C6">Hi Fi Cabinets</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9S2l0Y2hlbitDYXJ0cyZTZXNzaW9uPTExODU3NzI1-82">Kitchen Carts</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9S2l0Y2hlbitUYWJsZXMmU2Vzc2lvbj0xMTg1NzcyNQ---r6">Kitchen Tables</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9TGVhdGhlcitVcGhvbHN0ZXJ5JlNlc3Npb249MTE4NTc3MjU--F_">Leather Upholstery</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9TGluZW4rQmFza2V0cyZTZXNzaW9uPTExODU3NzI1-42">Linen Baskets</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9TWF0dHJlc3NlcyZTZXNzaW9uPTExODU3NzI1-hy">Mattresses</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9TWlycm9ycyZTZXNzaW9uPTExODU3NzI1-gu">Mirrors</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9TW90aW9uK0JlZHMmU2Vzc2lvbj0xMTg1NzcyNQ---F2">Motion Beds</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9T2ZmaWNlK0NoYWlycyZTZXNzaW9uPTExODU3NzI1-a2">Office Chairs</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9T2ZmaWNlK1N0b3JhZ2UmU2Vzc2lvbj0xMTg1NzcyNQ---M6">Office Storage</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9UGFyYXNvbHMmU2Vzc2lvbj0xMTg1NzcyNQ---yy">Parasols</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9UmVjbGluZXJzJlNlc3Npb249MTE4NTc3MjU--4y">Recliners</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9U2lkZStUYWJsZXMmU2Vzc2lvbj0xMTg1NzcyNQ---r2">Side Tables</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9U2lkZWJvYXJkcyZTZXNzaW9uPTExODU3NzI1-Dy">Sideboards</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9U29mYStCZWRzJlNlc3Npb249MTE4NTc3MjU--Dy">Sofa Beds</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9U29mYXMmU2Vzc2lvbj0xMTg1NzcyNQ---Wu">Sofas</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9U3Rvb2xzJlNlc3Npb249MTE4NTc3MjU--Mu">Stools</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9VGhyb3dzJlNlc3Npb249MTE4NTc3MjU--nu">Throws</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9VFYlMkZWaWRlbytDYWJpbmV0cyZTZXNzaW9uPTExODU3NzI1-g_">TV/Video Cabinets</option>
-					<option value="/ubik.dll/script/category/-Q2F0ZWdvcnk9V2FyZHJvYmVzJlNlc3Npb249MTE4NTc3MjU--1y">Wardrobes</option>
-				</select>
-			</form>
-	</td>
-</tr>
 
-<tr>
-	<td align="right">
-
-	<table border="0" cellpadding="0" cellspacing="0">
+<link rel="stylesheet" href="/layouts/styles.css">
+</head>
+<body bgcolor="white" text="black" link="#006633" vlink="#006633" alink="#006633" marginwidth="0" marginheight="0" topmargin="0" leftmargin="0">
+<a name="top"></a>
+<table border="0" cellpadding="0" cellspacing="0" width="710" bgcolor="white" align="center">
+  <tbody><tr>
+    <td>
+        
+	<script language="javascript1.1" src="/coremetrics/v40/eluminate.js" type="text/javascript"></script>
+	<script language="javascript1.1" src="/coremetrics/v40/techprops.js" type="text/javascript"></script>
+	<script language="javascript1.1" src="/coremetrics/cmdatatagutils.js" type="text/javascript"></script>
 	
-
-		<tbody><tr>
-			<td valign="bottom"><img src="/images/shared/basket.gif" border="0" alt="basket"></td>
-			<td valign="bottom"><img align="left" src="/images/shared/items_in_order.gif" border="0" alt="view order"></td>
-			<td><input type="text" size="1" align="left" maxlength="2" name="22" value="0"></td>
-		</tr>
-		<tr>
-			<td>&nbsp;</td>
-			<td colspan="2"><img align="left" src="/images/shared/proceed_to_checkout.gif" border="0" alt="proceed to checkout"><br></td>
-		</tr>
-	
-	</tbody></table>
-
-
-
-
-</td>
-</tr>
-
-
-<tr height="20">
-    <td align="right">&nbsp;&nbsp;<a href="javascript:history.back();"><img src="/images/shared/links/ssi_previous.gif" width="85" height="12" border="0" alt="previous page"></a>&nbsp;&nbsp;<a href="HTTP://www.furniture123.co.uk/ubik.dll/script/category/-Q2F0ZWdvcnk9RnJvbnQmU2Vzc2lvbj0xMTg1NzcyNQ---Mu"><img src="/images/front/ssi_home.gif" width="71" height="12" border="0" alt="home"></a></td>
-	<td colspan="2" align="right" valign="bottom"><a href="/ubik.dll/home/contact/index"><img border="0" src="/images/shared/phoneorder16.gif"></a></td>
-</tr>
-<tr><td colspan="2"><img src="/images/front/spacer.gif" width="1" height="2" border="0"></td></tr>
-</tbody></table>
-<!-- SSI -->
-
-<table align="center" bgcolor="#FFFFFF" cellpadding="0" cellspacing="0" border="0" width="710">
-<form method="POST" action=""></form>
-
-<tbody><tr>
-	<!-- SHOP BY ROOM STARTS HERE -->
-	<td valign="TOP" rowspan="5">
+		<script language="javascript1.1" type="text/javascript">
+		<!--
+		cmSetProduction();
+		//-->
+		</script>
 		
+		<script language="javascript" type="text/javascript">
+		<!--
+	    pageid = "privacy policy";
+	    categoryid = "CONTENT";
 
-<span class="navlink">
-</span><table cellpadding="0" cellspacing="0" border="0" width="160">
-<style type="text/css">
+	    cmCreatePageviewTag(pageid, categoryid);
+	    //-->
+	    </script>
+	    <!-- Standard header panel displayed at the top of each page -->
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="white" align="center">
+  <tbody><tr>
+    <td colspan="3"><img src="/layouts/Images/Header/spacer.gif" width="1" height="4" border="0"></td>
+  </tr>
+  <tr>
+    <td rowspan="2" valign="top">
+      <a href="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Home+page"><img src="/layouts/Images/Header/f123_header_strapline2.gif" border="0" alt="furniture123.co.uk"></a>
+    </td>
+    <td rowspan="2">
+      <script language="JavaScript">
 <!--
-.navlink A{text-decoration:none; font-family:arial; font-size:12; font-weight:none; color=#003333}
-.navlink A:hover{font-weight:bold; color=#003333}
+function saleheader_popup()
+{
+		config='toolbar=no,location=no,directories=no,status=no,menubar=no,width=425,height=128,top=200,left=300'
 
--->
-</style>
-<tbody><tr>
-	<td valign="TOP">
-	<table cellpadding="0" cellspacing="0" border="0" width="100%">
-	<tbody><tr>
-		<td colspan="2"><img src="/images/front/shop_by_room.gif" border="0" alt="shop by room" width="143" height="30"><br></td>
-	</tr>
-	<tr>
-		<td valign="bottom"><img src="/images/front/green_dot.gif" name="living_dot" border="0"></td>
-		<td nowrap="">&nbsp;<a href="/ubik.dll/script/category/-Q2F0ZWdvcnk9bGl2aW5nK3Jvb20rZnVybml0dXJlJlNlc3Npb249MTE4NTc3MjU--AC" onmouseover="document.living_dot.src='/images/front/orange_dot.gif'" onmouseout="document.living_dot.src='/images/front/green_dot.gif'">living room furniture</a></td>
-	</tr>
-	<tr>
-		<td valign="bottom"><img src="/images/front/green_dot.gif" name="bedroom_dot" border="0"></td>
-		<td nowrap="">&nbsp;<a href="/ubik.dll/script/category/-Q2F0ZWdvcnk9YmVkcm9vbStmdXJuaXR1cmUmU2Vzc2lvbj0xMTg1NzcyNQ---j_" onmouseover="document.bedroom_dot.src='/images/front/orange_dot.gif'" onmouseout="document.bedroom_dot.src='/images/front/green_dot.gif'">bedroom furniture</a></td>
-	</tr>
-	<tr>
-		<td valign="bottom"><img src="/images/front/green_dot.gif" name="dining_dot" border="0"></td>
-		<td nowrap="">&nbsp;<a href="/ubik.dll/script/category/-Q2F0ZWdvcnk9ZGluaW5nK3Jvb20rZnVybml0dXJlJlNlc3Npb249MTE4NTc3MjU--7C" onmouseover="document.dining_dot.src='/images/front/orange_dot.gif'" onmouseout="document.dining_dot.src='/images/front/green_dot.gif'">dining room furniture</a></td>
-	</tr>
-	<tr>
-		<td valign="bottom"><img src="/images/front/green_dot.gif" name="music_dot" border="0"></td>
-		<td nowrap="">&nbsp;<a href="/ubik.dll/script/category/-Q2F0ZWdvcnk9bXVzaWMrYW5kK3R2K3VuaXRzJlNlc3Npb249MTE4NTc3MjU--X_" onmouseover="document.music_dot.src='/images/front/orange_dot.gif'" onmouseout="document.music_dot.src='/images/front/green_dot.gif'">music and tv</a></td>
-	</tr>
-	<tr>
-		<td valign="bottom"><img src="/images/front/green_dot.gif" name="office_dot" border="0"></td>
-		<td nowrap="">&nbsp;<a href="/ubik.dll/script/category/-Q2F0ZWdvcnk9b2ZmaWNlK2Z1cm5pdHVyZSZTZXNzaW9uPTExODU3NzI1-k6" onmouseover="document.office_dot.src='/images/front/orange_dot.gif'" onmouseout="document.office_dot.src='/images/front/green_dot.gif'">office furniture</a></td>
-	</tr>
-	<tr>
-		<td valign="bottom"><img src="/images/front/green_dot.gif" name="kitchen_dot" border="0"></td>
-		<td nowrap="">&nbsp;<a href="/ubik.dll/script/category/-Q2F0ZWdvcnk9a2l0Y2hlbitmdXJuaXR1cmUmU2Vzc2lvbj0xMTg1NzcyNQ---B_" onmouseover="document.kitchen_dot.src='/images/front/orange_dot.gif'" onmouseout="document.kitchen_dot.src='/images/front/green_dot.gif'">kitchen furniture</a></td>
-	</tr>
-	<tr>
-		<td valign="bottom"><img src="/images/front/green_dot.gif" name="bathroom_dot" border="0"></td>
-		<td nowrap="">&nbsp;<a href="/ubik.dll/script/category/-Q2F0ZWdvcnk9YmF0aHJvb20rZnVybml0dXJlJlNlc3Npb249MTE4NTc3MjU--F_" onmouseover="document.bathroom_dot.src='/images/front/orange_dot.gif'" onmouseout="document.bathroom_dot.src='/images/front/green_dot.gif'">bathroom furniture</a></td>
-	</tr>
-	<tr>
-		<td valign="bottom"><img src="/images/front/green_dot.gif" name="children_dot" border="0"></td>
-		<td nowrap="">&nbsp;<a href="/ubik.dll/script/category/-Q2F0ZWdvcnk9Y2hpbGRyZW5zK2Z1cm5pdHVyZSZTZXNzaW9uPTExODU3NzI1-O_" onmouseover="document.children_dot.src='/images/front/orange_dot.gif'" onmouseout="document.children_dot.src='/images/front/green_dot.gif'">childrens furniture</a></td>
-	</tr>
-	<tr>
-		<td valign="bottom"><img src="/images/front/green_dot.gif" name="conservatory_dot" border="0"></td>
-		<td nowrap="">&nbsp;<a href="/ubik.dll/script/category/-Q2F0ZWdvcnk9Y29uc2VydmF0b3J5JlNlc3Npb249MTE4NTc3MjU--u2" onmouseover="document.conservatory_dot.src='/images/front/orange_dot.gif'" onmouseout="document.conservatory_dot.src='/images/front/green_dot.gif'">conservatory furniture</a></td>
-	</tr>
-	<tr>
-		<td valign="bottom"><img src="/images/front/green_dot.gif" name="garden_dot" border="0"></td>
-		<td nowrap="">&nbsp;<a href="/ubik.dll/script/category/-Q2F0ZWdvcnk9Z2FyZGVuK2Z1cm5pdHVyZSZTZXNzaW9uPTExODU3NzI1-O6" onmouseover="document.garden_dot.src='/images/front/orange_dot.gif'" onmouseout="document.garden_dot.src='/images/front/green_dot.gif'">garden furniture</a></td>
-	</tr>
-	<tr>
-		<td valign="bottom"><img src="/images/front/green_dot.gif" name="pics_dot" border="0"></td>
-		<td nowrap="">&nbsp;<a href="/ubik.dll/script/category/-Q2F0ZWdvcnk9cGljdHVyZXMrJTI2K2FjY2Vzc29yaWVzJlNlc3Npb249MTE4NTc3MjU--SG" onmouseover="document.pics_dot.src='/images/front/orange_dot.gif'" onmouseout="document.pics_dot.src='/images/front/green_dot.gif'">pictures &amp; accessories</a></td>
-	</tr>
-	<tr>
-		<td valign="bottom"><img src="/images/front/green_dot.gif" name="garage_dot" border="0"></td>
-		<td nowrap="">&nbsp;<a href="/ubik.dll/script/category/-Q2F0ZWdvcnk9Z2FyYWdlK2Z1cm5pdHVyZSZTZXNzaW9uPTExODU3NzI1-i6" onmouseover="document.garage_dot.src='/images/front/orange_dot.gif'" onmouseout="document.garage_dot.src='/images/front/green_dot.gif'">garage furniture</a></td>
-	</tr>
-	<tr>
-		<td valign="bottom"><img src="/images/front/green_dot.gif" name="express_dot" border="0"></td>
-		<td nowrap="">&nbsp;<a href="/ubik.dll/script/category/-Q2F0ZWdvcnk9ZXhwcmVzcytzaG9wJlNlc3Npb249MTE4NTc3MjU--J2" onmouseover="document.express_dot.src='/images/front/orange_dot.gif'" onmouseout="document.express_dot.src='/images/front/green_dot.gif'">express shop</a></td>
-	</tr>
-	<tr>
-		<td valign="bottom"><img src="/images/front/green_dot.gif" name="clearance_dot" border="0"></td>
-		<td nowrap="">&nbsp;<a href="/ubik.dll/script/category/-Q2F0ZWdvcnk9Y2xlYXJhbmNlK3NhbGUmU2Vzc2lvbj0xMTg1NzcyNQ---46" onmouseover="document.clearance_dot.src='/images/front/orange_dot.gif'" onmouseout="document.clearance_dot.src='/images/front/green_dot.gif'"><font color="#CC3333">clearance sale</font></a></td>
-	</tr>
+		config += 'scrollbars=no,resizable=no'
+		pop = window.open ("","pop",config);
 
+		pop.document.write('<body bgcolor=white MARGINWIDTH="5" MARGINHEIGHT="5" TOPMARGIN="5" LEFTMARGIN="5">');
+		pop.document.write('<center><FONT face=Arial color="#008000" size="2">Our 3 Day Spectacular is now on with thousands of bargains across our extensive range of stylish products including <A class="" href="http://www.furniture123.co.uk/Layouts/bedstore_subcategory.asp/catid/34"><b>beds</b></A>, <A href="http://www.furniture123.co.uk/Layouts/bedstore_subcategory.asp/catid/76"><b>mattresses</b></A>, <A href="http://www.furniture123.co.uk/sofastore/sofas/subcat308.html"><b>sofas</b></A>, <A href="http://www.furniture123.co.uk/Layouts/subcategory.asp/catid/271"><b>dining sets</b></A>, <A href="http://www.furniture123.co.uk/Layouts/subcategory.asp/catid/399"><b>computer desks</b></A>, and much more. <p>All sale items are clearly marked but if you want to bag a bargain you&acute;ll have to hurry as the clock is ticking! </FONT></center>');
+		pop.document.write('</body>');
+}
+//-->
+</script>
 
-	<!-- ADVANCED SEARCH STARTS HERE -->
-	<tr>
-		<td colspan="2"><img src="/images/front/search_header.gif" border="0" alt="search" width="140" height="21"><br></td>
-	</tr>
-	<tr>
-		<td valign="bottom"><img src="/images/front/green_dot.gif" name="image12_dot" border="0"></td>
-		<td nowrap="">&nbsp;<a href="/ubik.dll/home/brand_finder/brandfinder" onmouseover="document.image12_dot.src='/images/front/orange_dot.gif'" onmouseout="document.image12_dot.src='/images/front/green_dot.gif'">advanced search</a></td>
-	</tr>
+      <!--<a href="http://www.furniture123.co.uk/Layouts/category.asp/catid/133">-->
+      <a href="javascript:saleheader_popup();">
+      	<img src="/F123Images/Images/header/big sale.gif" border="0" alt="furniture123.co.uk">
+      </a>
+    </td>
+    <td align="right" nowrap="">
+		&nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td align="right">
+      <!-- Running basket panel -->
+      <table border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+          <td valign="bottom"><img src="/layouts/Images/Header/basket.gif" border="0" alt="basket">&nbsp;</td>
+          <td valign="bottom" class="smallGreen">
+          
+            items in order
+          <script language="Ubik">
+<!--  Start of Conditional Text
 
-	<!-- HELP AND INFO STARTS HERE -->
-	<tr>
-		<td colspan="2"><img src="/images/front/help_info.gif" border="0" alt="help and info" width="140" height="21"><br></td>
-	</tr>
-	<tr>
-		<td valign="bottom"><img src="/images/front/green_dot.gif" name="helpInfoImg_dot" border="0"></td>
-		<td nowrap="">&nbsp;<a href="/ubik.dll/home/help/index" onmouseover="document.helpInfoImg_dot.src='/images/front/orange_dot.gif'" onmouseout="document.helpInfoImg_dot.src='/images/front/green_dot.gif'">help and info</a></td>
-	</tr>
-	<tr>
-		<td valign="bottom"><img src="/images/front/green_dot.gif" name="site_mapImg_dot" border="0"></td>
-		<td nowrap="">&nbsp;<a href="/ubik.dll/home/site_map" onmouseover="document.site_mapImg_dot.src='/images/front/orange_dot.gif'" onmouseout="document.site_mapImg_dot.src='/images/front/green_dot.gif'">site map</a></td>
-	</tr>
-	<tr>
-		<td valign="bottom"><img src="/images/front/green_dot.gif" name="buyingTipsImg_dot" border="0"></td>
-		<td nowrap="">&nbsp;<a href="/ubik.dll/home/tips/buying_tips" onmouseover="document.buyingTipsImg_dot.src='/images/front/orange_dot.gif'" onmouseout="document.buyingTipsImg_dot.src='/images/front/green_dot.gif'">buying tips</a></td>
-	</tr>
-	<tr>
-		<td valign="bottom"><img src="/images/front/green_dot.gif" name="faqsImg_dot" border="0"></td>
-		<td nowrap="">&nbsp;<a href="/ubik.dll/home/faqs/index" onmouseover="document.faqsImg_dot.src='/images/front/orange_dot.gif'" onmouseout="document.faqsImg_dot.src='/images/front/green_dot.gif'">faqs</a></td>
-	</tr>
-	<tr>
-		<td valign="bottom"><img src="/images/front/green_dot.gif" name="f123PartImg_dot" border="0"></td>
-		<td nowrap="">&nbsp;<a href="/ubik.dll/home/partners/index" onmouseover="document.f123PartImg_dot.src='/images/front/orange_dot.gif'" onmouseout="document.f123PartImg_dot.src='/images/front/green_dot.gif'">partners</a></td>
-	</tr>
-	<tr>
-		<td valign="bottom"><img src="/images/front/green_dot.gif" name="testiImg_dot" border="0"></td>
-		<td nowrap="">&nbsp;<a href="/ubik.dll/home/testimonials/index" onmouseover="document.testiImg_dot.src='/images/front/orange_dot.gif'" onmouseout="document.testiImg_dot.src='/images/front/green_dot.gif'">testimonials</a></td>
-	</tr>
-	<tr>
-		<td valign="bottom"><img src="/images/front/green_dot.gif" name="contactUsImg_dot" border="0"></td>
-		<td nowrap="">&nbsp;<a href="/ubik.dll/home/contact/index" onmouseover="document.contactUsImg_dot.src='/images/front/orange_dot.gif'" onmouseout="document.contactUsImg_dot.src='/images/front/green_dot.gif'">contact us</a></td>
-	</tr>
-	<tr>
-		<td valign="bottom"><img src="/images/front/green_dot.gif" name="about_us_dot" border="0"></td>
-		<td nowrap="">&nbsp;<a href="/ubik.dll/home/about/index" onmouseover="document.about_us_dot.src='/images/front/orange_dot.gif'" onmouseout="document.about_us_dot.src='/images/front/green_dot.gif'">about us</a></td>
-	</tr>
-	<tr>
-		<td valign="bottom"><img src="/images/front/green_dot.gif" name="affiliate_dot" border="0"></td>
-		<td nowrap="">&nbsp;<a href="http://www.tradedoubler.com/pan/program_info?program_id=3321" target="affiliate" onmouseover="document.affiliate_dot.src='/images/front/orange_dot.gif'" onmouseout="document.affiliate_dot.src='/images/front/green_dot.gif'">affiliate</a></td>
-	</tr>
-	<tr>
-		<td valign="bottom"><img src="/images/front/green_dot.gif" name="feedback_dot" border="0"></td>
-		<td nowrap="">&nbsp;<a href="/ubik.dll/home/feedback/feedback" onmouseover="document.feedback_dot.src='/images/front/orange_dot.gif'" onmouseout="document.feedback_dot.src='/images/front/green_dot.gif'">your feedback</a></td>
-	</tr>
-	</tbody></table>
-	</td>
-	<td><img src="/images/shared/spacer.gif" width="10" height="1" border="0" alt=""></td>
-</tr>
+            <a href="http://www.furniture123.co.uk/Layouts/basket.asp">items in order</a>
+          End of Conditional Text -->
+</script>
+
+          </td>
+          <td><input type="text" name="22" value="0" maxlength="2" size="1" align="left"></td>
+        </tr>
+        <tr>
+          <td>&nbsp;</td>
+          <td colspan="2" class="smallGreen">
+          
+            proceed to checkout<br>
+          <script language="Ubik">
+<!--  Start of Conditional Text
+
+            <a href="https://www.furniture123.co.uk/Layouts/checkout.asp">proceed to checkout</a><br>
+          End of Conditional Text -->
+</script>
+
+            </td>
+         </tr>
+      </tbody></table>
+
+    </td>
+  </tr>
+  <tr>
+    <td align="right" valign="bottom"><a href="javascript:history.back();">
+      <img src="/layouts/Images/Header/ssi_previous.gif" width="85" height="12" border="0" alt="previous page"></a>&nbsp;&nbsp;<a href="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Home+page"><img src="/layouts/Images/Header/ssi_home.gif" width="71" height="12" border="0" alt="home"></a></td>
+    <td colspan="2" align="right" valign="bottom" class="body">
+    			<span class="largeboldRed">sales hotline&nbsp;&nbsp;0845 062 2233</span>
+    			<br>(Mon to Fri 9am to 5pm)
+    			<!--<img src="/layouts/Images/Header/phone.gif" width="24" height="15" border="0" alt="telephone">-->
+    			<!--<a href="http://www.furniture123.co.uk/layouts/content.asp?storyid={42285FD1-5D8D-45E8-B75E-1D857C7DD791}"><span class="sale">xmas opening times</span></a>-->
+		    	<!--<img src="/layouts/Images/Header/email.gif" width="21" height="16" border="0" alt="telephone"> <a href="http://www.furniture123.co.uk/Layouts/content.asp/storyid/%7BDD2236C7%2DB03A%2D459F%2DBC2B%2D01B4D2492EDF%7D">contact us</a>-->
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3"><img src="/layouts/Images/Header/spacer.gif" width="1" height="2" border="0"></td>
+  </tr>
 </tbody></table>
 
-	</td>
-	<td valign="top"><a href="/ubik.dll/home/security/index"><img src="/images/front/tlink_secure_ordering.gif" alt="secure ordering" width="197" height="24" border="0"></a></td>
-	<td valign="top"><a href="/ubik.dll/home/guarantee/index"><img src="/images/front/tlink_money_back.gif" alt="money back guarantee" width="210" height="24" border="0"></a></td>
-	<td valign="top"><a href="/ubik.dll/home/free_delivery/index"><img src="/images/front/tlink_free_delivery.gif" alt="free delivery" width="161" height="24" border="0"></a></td>
-</tr>
-
-<tr>
-	<td colspan="3" valign="top">
-<!-- header -->
-		<table cellpadding="0" cellspacing="0" border="0" width="100%">
-		<tbody><tr>
-			<td width="1" align="left"><img src="/images/shared/006633.gif" width="1" height="60" border="0"></td>
-			<td valign="top" align="right">
-			<img src="/images/ttl_privacy_policy.gif" width="291" height="47" border="0" vspace="0" hspace="0" alt="privacy policy"></td>
-			<td width="1" align="right" valign="TOP"><img src="/images/shared/006633.gif" width="1" height="60" border="0"></td>
-		</tr>
-		</tbody></table>
-<!-- end of header -->
-	</td>
-</tr>
-<tr>
-	<td colspan="3">
-	<table cellpadding="0" cellspacing="0" border="0" width="100%">
-	<tbody><tr>
-		<td>
-<!-- main body copy! -->
-			<table cellpadding="0" cellspacing="0" border="0" width="100%">
+    </td>
+  </tr>
+  <tr valign="top">
+    <td valign="top">
+      <!-- Content page content panel -->
+<table border="0" cellpadding="0" cellspacing="0" width="710" align="center">
+  <tbody><tr valign="top">
+    <td rowspan="3" width="158" valign="top">
+      <table border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+          <td valign="top">
+                        <table border="0" cellpadding="0" cellspacing="0">
+<!-- search boxes -->
 			<tbody><tr>
-				<td bgcolor="#006633" width="1"></td>
-				<td>
-				<table bgcolor="#FFFFFF" cellpadding="0" cellspacing="0" border="0" width="100%">
-					<tbody><tr>
-						<td><img src="/images/shared/spacer.gif" width="14" height="1" border="0"></td>
-						<td><font face="arial, helvetica, sans-serif" size="+2" color="#003333">Privacy Policy
-						<p><font size="2">We are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998).
-						We collect information about you for 2 reasons: firstly, to process your order and second, to provide you with the best possible service.
+				<td valign="top" class="body">      <!-- quick search dropdown panel start -->
+<form style="display: inline" name="quicksearch">
+      <select name="ShopbyProduct">
+        <option value="none">quick search...</option>        
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/accent+pieces">Accent Pieces</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Armchairs+%2D+All">Armchairs</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Barbeques">Barbeques</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Bathroom+Cabinets">Bathroom Cabinets</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/bedframes">Beds - Bedframes</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/beds+%2D+Divans">Beds - Divans</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Bedside+Tables">Bedside Tables</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Blanket+Boxes">Blanket Boxes</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Office+Storage+%2D+All+Bookcases">Bookcases</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Breakfast+Tables">Breakfast Tables</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/CD+Storage+Units">CD &amp; DVD Storage</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Chests+of+Drawers">Chests of Drawers</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Bedframes+%2D+Childrens+Beds">Childrens Beds</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/divans+%2D+Childrens">Childrens Divans</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Sofas+%2D+Childrens">Childrens Sofas</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Clearance+Sale">Clearance Sale</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Coffee+Tables">Coffee Tables</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Office+Desks+%2D+Workstations">Computer Desks</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Conservatory+Chairs">Conservatory Chairs</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Conservatory+Coffee+Tables">Conserv. Coffee Tables</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Conservatory+Sofas">Conservatory Sofas</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Conservatory+Tables">Conservatory Tables</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Design+Classics">Design Classics</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Office+Desks+%2D+all">Desks</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Dining+Chairs+%2D+View+All+Dining+Chairs">Dining Chairs</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Dining+Sets+%2D+View+All+Dining+Sets">Dining Sets</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Dining+Tables+%2D+View+All+Dining+Tables">Dining Tables</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Display+Cabinets">Display Cabinets</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Dressers">Dressers</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Dressing+Tables">Dressing Tables</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/bedframes+%2D+electric+beds">Electric Beds</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Express+Shop">Fast Delivery Store</option>        
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Filing+Units">Filing Units</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Fireplaces">Fireplaces</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Flat+Panel+TV+Stands">Flat Panel TV Stands</option>        
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Footstools">Footstools</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Futons">Futons</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Garden+Accessories">Garden Accessories</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Garden+Benches">Garden Benches</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Garden+Chairs">Garden Chairs</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Garden+Loungers">Garden Loungers</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Garden+Tables">Garden Tables</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Bedframes+%2D+Guest+Beds">Bedframes - Guest Beds</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Hall+Tables">Hall Tables</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Hammocks">Hammocks</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Hat+and+Coat+Stands">Hat and Coat Stands</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Headboards">Headboards</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Hi+Fi+Cabinets">Hi Fi Cabinets</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Kitchen+Storage">Kitchen Storage</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Kitchen+Tables">Kitchen Tables</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Lamps">Lamps</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Sofas+%2D+Leather">Leather Upholstery</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Linen+Baskets">Linen Baskets</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Mattresses">Mattresses</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Massage+Chairs">Massage Chairs</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Mirrors">Mirrors</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Nests+of+Tables">Nests of Tables</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Office+Chairs+%2D+all">Office Chairs</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Office+Desks+%2D+all">Office Desks</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Office+Storage+%2D+all">Office Storage</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Outdoor+Heating">Outdoor Heating</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Parasols">Parasols</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Armchairs+%2D+Recliners">Recliners - Armchairs</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Sofas+%2D+Recliners">Recliners - Sofas</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Rugs">Rugs</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Shoe+Cabinets">Shoe Cabinets</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Side+Tables">Side Tables</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Sideboards">Sideboards</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Sofabeds+%2D+all">Sofa Beds</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Sofas+%2D+All">Sofas</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Stools">Stools</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Throws">Throws and Cushions</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/TV+and+Video+Cabinets">TV and Video Cabinets</option>
+        <option value="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/Wardrobes">Wardrobes</option>        
+      </select>
+</form>
 
-						</font></p><p><font size="2">We will not e-mail you in the future unless you have given us your consent.
+</td></tr>
+<tr><td><img src="/layouts/images/main/spacer.gif" width="1" height="2" border="0"></td></tr>
+<tr><td><a href="javascript:submitqsform()"><img src="/layouts/images/main/search_button.gif" border="0"></a>
+<img src="/layouts/images/main/spacer.gif" width="1" height="2" border="0">
 
-						</font></p><p><font size="2">We will not pass your e-mail address to other trusted traders unless you agree.
 
-						</font></p><p><font size="2">The type of information we will collect about you includes:
-						</font></p><ul type="disc"><font size="2">
-						<li>your name
-						</li><li>address
-						</li><li>phone number
-						</li><li>email address
-						</li><li>credit/debit card details</li></font></ul><font size="2">
-						<p>We will never collect sensitive information about you without your explicit consent.
-						<br>The information we hold will be accurate and up to date. You can check the information that we hold about you by emailing us. If you find any inaccuracies we will delete or correct it promptly.
+<!-- quick search dropdown panel end -->
+<!-- end search box --> 
 
-						</p><p>The personal information which we hold will be held securely in accordance with our internal security policy and the law.
-
-						</p><p>If we intend to transfer your information outside the EEA (European Economic Area) we will always obtain your consent first.
-
-						</p><p>We may use technology to track the patterns of behaviour of visitors to our site. This can include using a "cookie" which would be stored on your browser. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings.
-
-						</p></font></font><p><font face="arial, helvetica, sans-serif" size="+2" color="#003333"><font size="2">If you have any questions/comments about privacy, you should <a href="/ubik.dll/home/contact/index">contact us</a>. </font></font>
-						</p></td>
-						<td><img src="/images/shared/spacer.gif" width="14" height="1" border="0"></td>
-					</tr>
-					<tr>
-						<td> </td>
-						<td nowrap="" valign="BOTTOM"><img src="/images/shared/spacer.gif" width="10" height="10" border="0"></td>
-						<td> </td>
-					</tr>
-					<tr>
-						<td> </td>
-						<td nowrap="" valign="BOTTOM"><font face="ARIAL" size="2" color="#000000"><a href="#top">top of page<img src="/images/shared/navigation/arrow_up.gif" border="0"></a></font>
-						<br><img src="/images/shared/spacer.gif" width="10" height="10" border="0"></td><!--TOP OF PAGE-->
-						<td> </td>
-					</tr>
-				</tbody></table>
-				</td>
-				<td bgcolor="#006633" width="1"></td>
+<script language="JavaScript" type="text/javascript"> 
+<!--
+function submitqsform()
+{
+	if (document.quicksearch.ShopbyProduct.value != 'none')
+	{
+		goto_URL(document.quicksearch.ShopbyProduct);
+	}
+}
+-->
+</script>  <!--ubikCatGroupNoTags('quicksearch', 1, 0)--></td>
 			</tr>
-			</tbody></table>
-<!-- main body end -->
-			</td>
-		</tr>
-		<tr>
-			<td><table align="center" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-	<td align="center">
-		<a href="HTTP://www.furniture123.co.uk/ubik.dll/home/security/index"><img src="/images/front/tlink_secure_ordering.gif" alt="secure ordering" width="197" height="24" border="0"></a>
-	</td>
-	<td align="center">
-		<a href="HTTP://www.furniture123.co.uk/ubik.dll/home/guarantee/index"><img src="/images/front/tlink_money_back.gif" alt="money back guarantee" width="210" height="24" border="0"></a>
-	</td>
-	<td align="center">
-		<a href="HTTP://www.furniture123.co.uk/ubik.dll/home/free_delivery/index"><img src="/images/front/tlink_free_uk_delivery.gif" alt="free uk delivery" width="161" height="24" border="0"></a>
-	</td>
-</tr>
-</tbody></table></td>
-		</tr>
-		<tr><td align="CENTER">
-	<font face="ARIAL" size="1" color="#006633">
-			*Delivery within GB mainland is FREE on all orders, except to PA, IV and KW postcodes where there will
-			be a small additional charge which will be advised prior to order processing.<br>
-			Head office: furniture123 Ltd Sandway Business Centre  Shannon Street  Leeds  LS9 8SS<br>
-			Tel: 0845 062 2233 (local rate) or 0113 248 2233 Fax: 0113 248 2266<br>
-			Customer service department open Mon - Fri 9am - 5.00pm<br>
-			Registered Number: 2696994<br>
-			VAT Number: 734398018<br>
-			Member of the Sleep Council<br>
-			<center>
-			<img src="/images/shared/credit_cards3.gif" border="0" alt="credit cards">
-			<img src="/images/shared/b_able2buy_credit.gif" border="0" alt="credit cards">
-			</center>
-			Copyright furniture123 Ltd 2002(3)<br><br>
+			<tr>
+				<td>
+				
+				<!-- Quick search panel -->
+				<form name="qsearch" method="post" style="display: inline" onsubmit="if (this.srch_keywords.value.length == 0 || this.srch_keywords.value == 'keyword search...') return false; if (this.submitted) return false; this.submitted = true; return true" action="/Layouts/search_results.asp?action=QSearch">
+				<input type="HIDDEN" name="action" value="qsearch">
+				<!-- Quick search panel -->
+<table cellpadding="0" cellspacing="0" border="0">
+<tbody><tr><td><input type="text" name="srch_keywords" size="24" class="QSrchField" value="keyword search..." onfocus="value=''"></td></tr>
+<tr><td><input type="IMAGE" name="Submit" src="/layouts/Images/Main/search_button.gif" alt="search" border="0"></td></tr>
+<input type="hidden" name="srch_type" value="all">
+</tbody></table>
+<!-- to change search to any words change the value of srch_type to 'any'-->
+				</form>
+				</td>
+			</tr>
+<!--			<tr>
+				<td valign="bottom" class="navlink">
+				  <img src="/layouts/Images/Main/green_dot.gif" border="0" name="search"><a href="http://www.furniture123.co.uk/Layouts/asearch.asp"onmouseover="document.search.src='/layouts/Images/Main/orange_dot.gif'" onmouseout="document.search.src='/layouts/Images/Main/green_dot.gif'">advanced search</a>
+				</td>
+			</tr>
+-->
+<!-- sidebar navigation -->
+              <tr>
+                <td valign="top"><img src="/layouts/Images/Main/popular_categories.gif" width="143" height="21" border="0" alt="shop by room"></td>
+              </tr>
+              	<!-- category shop by room navigation panel start -->
+  <!-- display Navigation Panel iterator including tr/td tags -->
+  <tr><td class="navlink">
+<img src="/layouts/images/Main/green_dot.gif" border="0" name="expresspopularcats"><a href="/Layouts/fastdelivery_category.asp/d/express_shop/catid/17" onmouseover="document.expresspopularcats.src='/layouts/Images/Main/orange_dot.gif'" onmouseout="document.expresspopularcats.src='/layouts/Images/Main/green_dot.gif'">fast delivery store</a>
+</td></tr><tr><td class="navlink">
+<img src="/layouts/images/Main/green_dot.gif" border="0" name="bedroompopularcats"><a href="/Layouts/bedstore_category.asp/d/bedroom_furniture/catid/19" onmouseover="document.bedroompopularcats.src='/layouts/Images/Main/orange_dot.gif'" onmouseout="document.bedroompopularcats.src='/layouts/Images/Main/green_dot.gif'">beds and bedroom</a>
+</td></tr><tr><td class="navlink">
+<img src="/layouts/images/Main/green_dot.gif" border="0" name="livingpopularcats"><a href="/Layouts/sofastore_category.asp/d/living_room_furniture/catid/1" onmouseover="document.livingpopularcats.src='/layouts/Images/Main/orange_dot.gif'" onmouseout="document.livingpopularcats.src='/layouts/Images/Main/green_dot.gif'">sofas and living room</a>
+</td></tr><tr><td class="navlink">
+<img src="/layouts/images/Main/green_dot.gif" border="0" name="diningpopularcats"><a href="/Layouts/diningstore_category.asp/d/dining_room_furniture/catid/3" onmouseover="document.diningpopularcats.src='/layouts/Images/Main/orange_dot.gif'" onmouseout="document.diningpopularcats.src='/layouts/Images/Main/green_dot.gif'">dining room furniture</a>
+</td></tr><tr><td class="navlink">
+<img src="/layouts/images/Main/green_dot.gif" border="0" name="officepopularcats"><a href="/Layouts/officestore_category.asp/d/office_furniture/catid/5" onmouseover="document.officepopularcats.src='/layouts/Images/Main/orange_dot.gif'" onmouseout="document.officepopularcats.src='/layouts/Images/Main/green_dot.gif'">office furniture</a>
+</td></tr> 
+<!-- category shop by room navigation panel end -->
 
-		<a href="HTTP://www.furniture123.co.uk/ubik.dll/home/site_map/index">site map</a> |
-		<a href="HTTP://www.furniture123.co.uk/ubik.dll/home/contact/index">contact us</a> |
-		<a href="HTTP://www.furniture123.co.uk/ubik.dll/home/about/privacy_policy">privacy policy</a> |
-		<a href="HTTP://www.furniture123.co.uk/ubik.dll/home/terms/terms_and_conditions">terms and conditions</a> |
-		<a href="HTTP://www.furniture123.co.uk/ubik.dll/home/help/index">help and info</a>
-	</font>
-</td>
+              <tr>
+                <td valign="top"><img src="/layouts/Images/Main/shop_by_department.gif" width="143" height="30" border="0" alt="shop by room"></td>
+              </tr>
+              	<!-- category shop by room navigation panel start -->
+  <!-- display Navigation Panel iterator including tr/td tags -->
+  <tr><td class="navlink">
+<img src="/layouts/images/Main/green_dot.gif" border="0" name="accessoriessidebar"><a href="/Layouts/category.asp/d/accessories/catid/131" onmouseover="document.accessoriessidebar.src='/layouts/Images/Main/orange_dot.gif'" onmouseout="document.accessoriessidebar.src='/layouts/Images/Main/green_dot.gif'">accessories</a>
+</td></tr><tr><td class="navlink">
+<img src="/layouts/images/Main/green_dot.gif" border="0" name="bathroomsidebar"><a href="/Layouts/category.asp/d/bathroom_furniture/catid/12" onmouseover="document.bathroomsidebar.src='/layouts/Images/Main/orange_dot.gif'" onmouseout="document.bathroomsidebar.src='/layouts/Images/Main/green_dot.gif'">bathroom furniture</a>
+</td></tr><tr><td class="navlink">
+<img src="/layouts/images/Main/green_dot.gif" border="0" name="bedroomsidebar"><a href="/Layouts/bedstore_category.asp/d/bedroom_furniture/catid/19" onmouseover="document.bedroomsidebar.src='/layouts/Images/Main/orange_dot.gif'" onmouseout="document.bedroomsidebar.src='/layouts/Images/Main/green_dot.gif'">beds and bedroom</a>
+</td></tr><tr><td class="navlink">
+<img src="/layouts/images/Main/green_dot.gif" border="0" name="childrensidebar"><a href="/Layouts/category.asp/d/childrens_furniture/catid/13" onmouseover="document.childrensidebar.src='/layouts/Images/Main/orange_dot.gif'" onmouseout="document.childrensidebar.src='/layouts/Images/Main/green_dot.gif'">childrens furniture</a>
+</td></tr><tr><td class="navlink">
+<img src="/layouts/images/Main/green_dot.gif" border="0" name="conservatorysidebar"><a href="/Layouts/category.asp/d/conservatory_furniture/catid/14" onmouseover="document.conservatorysidebar.src='/layouts/Images/Main/orange_dot.gif'" onmouseout="document.conservatorysidebar.src='/layouts/Images/Main/green_dot.gif'">conservatory furniture</a>
+</td></tr><tr><td class="navlink">
+<img src="/layouts/images/Main/green_dot.gif" border="0" name="diningsidebar"><a href="/Layouts/diningstore_category.asp/d/dining_room_furniture/catid/3" onmouseover="document.diningsidebar.src='/layouts/Images/Main/orange_dot.gif'" onmouseout="document.diningsidebar.src='/layouts/Images/Main/green_dot.gif'">dining room furniture</a>
+</td></tr><tr><td class="navlink">
+<img src="/layouts/images/Main/green_dot.gif" border="0" name="expresssidebar"><a href="/Layouts/fastdelivery_category.asp/d/express_shop/catid/17" onmouseover="document.expresssidebar.src='/layouts/Images/Main/orange_dot.gif'" onmouseout="document.expresssidebar.src='/layouts/Images/Main/green_dot.gif'">fast delivery store</a>
+</td></tr><tr><td class="navlink">
+<img src="/layouts/images/Main/green_dot.gif" border="0" name="gardensidebar"><a href="/Layouts/category.asp/d/garden_furniture/catid/15" onmouseover="document.gardensidebar.src='/layouts/Images/Main/orange_dot.gif'" onmouseout="document.gardensidebar.src='/layouts/Images/Main/green_dot.gif'">garden furniture</a>
+</td></tr><tr><td class="navlink">
+<img src="/layouts/images/Main/green_dot.gif" border="0" name="hallsidebar"><a href="/Layouts/category.asp/d/hall_furniture/catid/225" onmouseover="document.hallsidebar.src='/layouts/Images/Main/orange_dot.gif'" onmouseout="document.hallsidebar.src='/layouts/Images/Main/green_dot.gif'">hall furniture</a>
+</td></tr><tr><td class="navlink">
+<img src="/layouts/images/Main/green_dot.gif" border="0" name="kitchensidebar"><a href="/Layouts/category.asp/d/kitchen_furniture/catid/11" onmouseover="document.kitchensidebar.src='/layouts/Images/Main/orange_dot.gif'" onmouseout="document.kitchensidebar.src='/layouts/Images/Main/green_dot.gif'">kitchen furniture</a>
+</td></tr><tr><td class="navlink">
+<img src="/layouts/images/Main/green_dot.gif" border="0" name="livingsidebar"><a href="/Layouts/sofastore_category.asp/d/living_room_furniture/catid/1" onmouseover="document.livingsidebar.src='/layouts/Images/Main/orange_dot.gif'" onmouseout="document.livingsidebar.src='/layouts/Images/Main/green_dot.gif'">sofas and living room</a>
+</td></tr><tr><td class="navlink">
+<img src="/layouts/images/Main/green_dot.gif" border="0" name="musicsidebar"><a href="/Layouts/category.asp/d/music__tv_units/catid/4" onmouseover="document.musicsidebar.src='/layouts/Images/Main/orange_dot.gif'" onmouseout="document.musicsidebar.src='/layouts/Images/Main/green_dot.gif'">music &amp; tv units</a>
+</td></tr><tr><td class="navlink">
+<img src="/layouts/images/Main/green_dot.gif" border="0" name="oakstoresidebar"><a href="/Layouts/oakstore_category.asp/d/oak_furniture_store/catid/566" onmouseover="document.oakstoresidebar.src='/layouts/Images/Main/orange_dot.gif'" onmouseout="document.oakstoresidebar.src='/layouts/Images/Main/green_dot.gif'">oak furniture</a>
+</td></tr><tr><td class="navlink">
+<img src="/layouts/images/Main/green_dot.gif" border="0" name="officesidebar"><a href="/Layouts/officestore_category.asp/d/office_furniture/catid/5" onmouseover="document.officesidebar.src='/layouts/Images/Main/orange_dot.gif'" onmouseout="document.officesidebar.src='/layouts/Images/Main/green_dot.gif'">office furniture</a>
+</td></tr><tr><td class="navlink">
+<img src="/layouts/images/Main/green_dot.gif" border="0" name="pinestoresidebar"><a href="/Layouts/pinestore_category.asp/d/pine_furniture/catid/564" onmouseover="document.pinestoresidebar.src='/layouts/Images/Main/orange_dot.gif'" onmouseout="document.pinestoresidebar.src='/layouts/Images/Main/green_dot.gif'">pine furniture</a>
+</td></tr><tr><td class="navlink">
+<img src="/layouts/images/Main/green_dot.gif" border="0" name="relaxationsidebar"><a href="/Layouts/category.asp/d/relaxation_room/catid/223" onmouseover="document.relaxationsidebar.src='/layouts/Images/Main/orange_dot.gif'" onmouseout="document.relaxationsidebar.src='/layouts/Images/Main/green_dot.gif'">relaxation room</a>
+</td></tr> 
+<!-- category shop by room navigation panel end -->
 
+             <tr>
+                <td class="rednavlink">
+                  <img src="/layouts/Images/Main/green_dot.gif" border="0" name="clearance"><a href="http://www.furniture123.co.uk/Ubik/ubikDispatch.asp/action/GotoCat/catname/clearance+sale" onmouseover="document.clearance.src='/layouts/Images/Main/orange_dot.gif'" onmouseout="document.clearance.src='/layouts/Images/Main/green_dot.gif'">clearance sale</a>
+                </td>
+             </tr>
+<!-- ADVANCED SEARCH STARTS HERE -->
+<!--
+			  <tr>
+                <td valign="top"><img src="/layouts/Images/Main/search_header.gif" width="143" height="30" border="0" alt="search"></td>
+              </tr>
+              <tr>
+                <td valign="bottom" class="navlink">
+                  <img src="/layouts/Images/Main/green_dot.gif" border="0" name="search"><a href="http://www.furniture123.co.uk/Layouts/asearch.asp"onmouseover="document.search.src='/layouts/Images/Main/orange_dot.gif'" onmouseout="document.search.src='/layouts/Images/Main/green_dot.gif'">advanced search</a>
+                </td>
+              </tr>
+-->
+              <!-- HELP AND INFO STARTS HERE -->
+              <tr>
+                <td valign="top"><img src="/layouts/Images/Main/help_info.gif" width="143" height="30" border="0" alt="help and info"></td>
+              </tr>
+             <tr>
+                <td class="rednavlink">
+                  <img src="/layouts/Images/Main/green_dot.gif" border="0" name="trade"><a href="http://www.furniture123.co.uk/Layouts/content.asp/storyid/%7B05CC164A%2D264A%2D44C0%2D9E87%2D17CC4ED31571%7D" onmouseover="document.trade.src='/layouts/Images/Main/orange_dot.gif'" onmouseout="document.trade.src='/layouts/Images/Main/green_dot.gif'">trade buyers</a>
+                </td>
+             </tr>
+<!-- category help & info nav panel start -->
+<tr><td class="navlink"><img src="/layouts/Images/Main/green_dot.gif" border="0" name="pressenquiries"><a href="/Layouts/content.asp/storyid/DA80A75AxC38Fx41D3x90B2x195BDE4D18CE" onmouseover="document.pressenquiries.src='/layouts/Images/Main/orange_dot.gif'" onmouseout="document.pressenquiries.src='/layouts/Images/Main/green_dot.gif'">press enquiries</a>
+</td></tr><tr><td class="navlink"><img src="/layouts/Images/Main/green_dot.gif" border="0" name="returns"><a href="/Layouts/content.asp/storyid/04BBBAA4xECF6x4AEDxAEB4x096F2B3A77CD" onmouseover="document.returns.src='/layouts/Images/Main/orange_dot.gif'" onmouseout="document.returns.src='/layouts/Images/Main/green_dot.gif'">returns policy</a>
+</td></tr><tr><td class="navlink"><img src="/layouts/Images/Main/green_dot.gif" border="0" name="help"><a href="/Layouts/contenthelp.asp/storyid/7AE4421DxA333x41CExB4E4xED908923B9AF" onmouseover="document.help.src='/layouts/Images/Main/orange_dot.gif'" onmouseout="document.help.src='/layouts/Images/Main/green_dot.gif'">help and info</a>
+</td></tr><tr><td class="navlink"><img src="/layouts/Images/Main/green_dot.gif" border="0" name="testimonials"><a href="/Layouts/contenttestimonial.asp/storyid/9FDA4766x4E5Fx4699x851Cx089AFB717A74" onmouseover="document.testimonials.src='/layouts/Images/Main/orange_dot.gif'" onmouseout="document.testimonials.src='/layouts/Images/Main/green_dot.gif'">testimonials</a>
+</td></tr> 
+<!-- category help & info nav panel end -->
 
-</tr>
-		</tbody></table>
-	</td>
-</tr>
+            </tbody></table>
 
+          </td>
+          <td><img src="/layouts/images/Main/spacer.gif" width="10" height="1" border="0"></td>
+        </tr>
+      </tbody></table>
+    </td>
+    <td rowspan="2" width="1" bgcolor="#003333"><img src="/layouts/images/Main/spacer.gif" width="1" height="1" border="0" alt="furniture123, online furniture retailers uk, furniture 123, living room furniture uk, beds online uk, furniture uk, sofas online uk, bedroom furniture uk, dining room furniture uk, home office furniture uk"></td>
+    <td width="551" valign="top">
+      <table border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+          <td width="551" valign="top" height="24">
+                <!-- secure ordering/ free delivery etc -->
+      <table summary="" width="571" height="24" cellpadding="0" cellspacing="0" border="0">
+        <tbody><tr height="24" valign="center" class="whiteHLink">
+          <td width="197" bgcolor="006633" align="center">
+          	<a href="http://www.furniture123.co.uk/Layouts/content.asp/storyid/%7B8AE5E5DB%2DB67F%2D4478%2DA324%2D6BDAC794DCE8%7D">over 26000 products</a>
+          </td>
+          <td width="164" bgcolor="339900" align="center"><a href="http://www.furniture123.co.uk/Layouts/content.asp/storyid/%7B7368ABEB%2D4B1C%2D4769%2DB96A%2D2D0B3103569F%7D">free UK delivery*</a></td>
+          <td width="210" bgcolor="99CC99" align="center"><a href="http://www.furniture123.co.uk/Layouts/content.asp/storyid/%7B13CAAA5A%2D7655%2D491F%2D85ED%2DBB7F5717EBA0%7D">money back guarantee</a></td>
+        </tr>
+      </tbody></table>
+
+          </td>
+        </tr>
+        <tr valign="top">
+          <td valign="top">
+            <!-- main story panel start -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr valign="top">
+    <td colspan="3" width="551" align="right">
+    	<h1 class="content">privacy policy</h1>
+    </td>
+  </tr>
+  <tr>
+    <td width="10"><img src="/Layouts/Images/Main/spacer.gif"></td>
+    <td class="bodyDark"><br><h1><font face="Arial" color="#000000" size="2"><b>Privacy Policy</b></font></h1><p><font face="Arial" color="#000000" size="2">We are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998). We collect information about you for 2 reasons: firstly, to process your order and second, to provide you with the best possible service. </font></p><p><font face="Arial" color="#000000" size="2">We will not e-mail you in the future unless you have given us your consent. </font></p><p><font face="Arial" color="#000000" size="2">We will not pass your e-mail address to other trusted traders unless you agree. </font></p><p><font face="Arial" color="#000000" size="2">The type of information we will collect about you includes: </font></p><ul><li><font face="Arial" color="#000000" size="2">your name </font></li><li><font face="Arial" color="#000000" size="2">address </font></li><li><font face="Arial" color="#000000" size="2">phone number </font></li><li><font face="Arial" color="#000000" size="2">email address </font></li><li><font face="Arial" color="#000000" size="2">credit/debit card details </font></li></ul><p><font face="Arial" color="#000000" size="2">We will never collect sensitive information about you without your explicit consent. </font></p><p><font face="Arial" color="#000000" size="2">The information we hold will be accurate and up to date. You can check the information that we hold about you by emailing us. If you find any inaccuracies we will delete or correct it promptly. </font></p><p><font face="Arial" color="#000000" size="2">The personal information which we hold will be held securely in accordance with our internal security policy and the law. </font></p><p><font face="Arial" color="#000000" size="2">If we intend to transfer your information outside the EEA (European Economic Area) we will always obtain your consent first. <br><br></font><font face="Arial" color="#000000" size="2">We store information about you using cookies (files which are sent by us to your computer or other access device) which we can access when you visit our site in future. We do this to track the contents of your shopping basket through the store and for marketing purposes.<br><br>If you want to delete any cookies that are already on your computer, please refer to the instructions for your file management software to locate the file or directory that stores cookies. Our cookies will have ’furniture123’ in the file name.<br><br>Information on deleting or controlling cookies is available at www.AboutCookies.org. Please note that by deleting our cookies or disabling future cookies you will not be able to place an order using the website, please contact us to place your order by telephone.</font></p><p><font face="Arial" color="#000000" size="2">If you have any questions/comments about privacy, you should </font><a href="http://localhost/Furniture123/Layouts/content.asp?PrevPage=Story&amp;FromPage=Story&amp;storyid=%7BDD21BD00%2DF55E%2D4670%2D9525%2D032092AC87D0%7D"><font face="Arial" color="#000000" size="2">contact us</font></a><font face="Arial" color="#000000" size="2">. </font></p></td>
+    <td width="10"><img src="/Layouts/Images/Main/spacer.gif"></td>
+  </tr>
+  <tr height="40" valign="center">
+    <td width="10"><img src="/Layouts/Images/Main/spacer.gif"></td>
+    <td class="body"><a href="#top">top of page<img src="/Layouts/Images/main/arrow_up.gif" alt="top of page" border="0"></a></td>
+    <td width="10"><img src="/Layouts/Images/Main/spacer.gif"></td>
+  </tr>
+</tbody></table>
+<!-- main story panel end -->
+
+          </td>
+        </tr>
+      </tbody></table>
+    </td>
+    <td rowspan="2" width="1" bgcolor="#003333"><img src="/layouts/images/Main/spacer.gif" width="1" height="1" border="0" alt="furniture123, online furniture retailers uk, furniture 123, living room furniture uk, beds online uk, furniture uk, sofas online uk, bedroom furniture uk, dining room furniture uk, home office furniture uk"></td>
+  </tr>
+  <tr>
+    <td colspan="3" width="551" valign="bottom" height="24">
+          <!-- secure ordering/ free delivery etc -->
+      <table summary="" width="571" height="24" cellpadding="0" cellspacing="0" border="0">
+        <tbody><tr height="24" valign="center" class="whiteHLink">
+          <td width="197" bgcolor="006633" align="center">
+          	<a href="http://www.furniture123.co.uk/Layouts/content.asp/storyid/%7B8AE5E5DB%2DB67F%2D4478%2DA324%2D6BDAC794DCE8%7D">over 26000 products</a>
+          </td>
+          <td width="164" bgcolor="339900" align="center"><a href="http://www.furniture123.co.uk/Layouts/content.asp/storyid/%7B7368ABEB%2D4B1C%2D4769%2DB96A%2D2D0B3103569F%7D">free UK delivery*</a></td>
+          <td width="210" bgcolor="99CC99" align="center"><a href="http://www.furniture123.co.uk/Layouts/content.asp/storyid/%7B13CAAA5A%2D7655%2D491F%2D85ED%2DBB7F5717EBA0%7D">money back guarantee</a></td>
+        </tr>
+      </tbody></table>
+
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3">
+        <!-- Standard footer panel at the bottom of each page -->
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%" align="CENTER">
+  <tbody><tr>
+    <td align="center"><img src="/layouts/Images/Footer/spacer.gif" width="10" height="1" border="0" alt="furniture123, online furniture retailers uk, furniture 123, living room furniture uk, beds online uk, furniture uk, sofas online uk, bedroom furniture uk, dining room furniture uk, home office furniture uk"></td>
+    
+    <td align="center" class="small">
+      *Delivery within GB mainland is FREE on all orders, except to PA, IV and KW<br>
+      postcodes where there will be a small additional charge which 
+      <br>will be advised prior to order processing.<br>
+      Head office: furniture123 Ltd Sandway Business Centre Shannon Street Leeds LS9 8SS<br>
+      Tel: 0845 062 2233 (local rate) or 0113 248 2233 Fax: 0113 248 2266<br>
+      Customer service department open Mon - Fri 9am - 5.00pm<br>
+      Registered Number: 2696994<br>
+      VAT Number: 734398018<br>
+      Supporters of the Sleep Council<br>
+      <img src="/layouts/Images/Footer/credit_cards4.gif" border="0" alt="credit cards">
+<!--      <img src="/layouts/Images/Footer/retail_credita2b.jpg" border="0" alt="credit cards">-->
+      <br>Copyright furniture123 Ltd 2006 (21)<br><br>
+      <a href="http://www.furniture123.co.uk/Layouts/sitemap.asp/storyid/%7B0438B30A%2DFF7B%2D4CC1%2DAD22%2D8133F1B3371D%7D">site map</a> | 
+      <a href="http://www.furniture123.co.uk/Layouts/content.asp/storyid/%7BDD2236C7%2DB03A%2D459F%2DBC2B%2D01B4D2492EDF%7D">contact us</a> | 
+      <a href="http://www.furniture123.co.uk/Layouts/content.asp/storyid/%7BD88F2E63%2D63AF%2D4A9C%2DADF1%2DC04B3F6FE4FF%7D">privacy policy</a> | 
+      <a href="http://www.furniture123.co.uk/Layouts/content.asp/storyid/%7B8C78E63F%2D9140%2D4ED1%2DA059%2DAF211ADF9F63%7D">terms &amp; conditions</a> | 
+      <a href="http://www.furniture123.co.uk/Layouts/contentlinks.asp/storyid/%7BDE01DD75%2DF13B%2D48D9%2DAB3F%2DCB59CF97C666%7D">links</a> |       
+      <a href="http://www.furniture123.co.uk/Layouts/contenthelp.asp/storyid/%7B7AE4421D%2DA333%2D41CE%2DB4E4%2DED908923B9AF%7D">help &amp; info</a>
+      <br>&nbsp;
+    </td>
+
+    <td align="center"><img src="/layouts/Images/Footer/spacer.gif" width="10" height="1" border="0" alt="furniture123, online furniture retailers uk, furniture 123, living room furniture uk, beds online uk, furniture uk, sofas online uk, bedroom furniture uk, dining room furniture uk, home office furniture uk"></td>
+  </tr>
 </tbody></table>
 
+    </td>
+  </tr>
+</tbody></table>
+
+
+    </td>
+  </tr>
+</tbody></table>
 
 </body></html>
