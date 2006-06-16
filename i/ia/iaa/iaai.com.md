@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iaai.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231215620id_/http%3A//www.iaai.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iaai.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616044329id_/http%3A//iaai.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # IAAI >> Privacy Policy
 
@@ -54,11 +54,11 @@ IAA complies with the Children's Online Privacy Protection Act (COPPA) which sti
 By using this Site you consent to the collection and use of information by IAA as specified in this Privacy Policy and agree to be bound by the provisions set forth in this policy. If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Specific areas or pages of this Site may include additional or different provisions relating to collection and disclosure of personal information. In the event of a conflict between such provisions and this Privacy Policy, such specific terms shall control.
 
 **Terms of Use**  
-[Please read our Terms of Use carefully before using this Site. ](https://web.archive.org/web/20051231215620id_/http%3A//www.iaai.com/termsofuse.aspx)
+[Please read our Terms of Use carefully before using this Site. ](https://web.archive.org/web/20060616044329id_/http%3A//iaai.com/termsofuse.aspx)
 
 This Website Privacy Policy is effective as of 1 January 2003.
 
 Unless otherwise indicated, all material on this Site Copyright 2003 – Insurance Auto Auctions, Inc. All rights reserved.  
   
-© 2004 Insurance Auto Auctions, Inc. All rights reserved. Use of this Web site signifies your agreement to these [ Terms of Use](https://web.archive.org/web/20051231215620id_/http%3A//www.iaai.com/termsofuse.aspx) and our [Privacy Policy](https://web.archive.org/web/20051231215620id_/http%3A//www.iaai.com/privacypolicy.aspx).  
+© 2004 Insurance Auto Auctions, Inc. All rights reserved. Use of this Web site signifies your agreement to these [ Terms of Use](https://web.archive.org/web/20060616044329id_/http%3A//iaai.com/termsofuse.aspx) and our [Privacy Policy](https://web.archive.org/web/20060616044329id_/http%3A//iaai.com/privacypolicy.aspx).  
 
