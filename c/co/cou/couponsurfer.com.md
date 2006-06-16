@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the couponsurfer.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218134654id_/http%3A//www.couponsurfer.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponsurfer.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616195233id_/http%3A//www.couponsurfer.com/privacy.cfm) for the most accurate reproduction.*
 
 # CouponSurfer Privacy Statement
 
-   [](http://www.couponsurfer.com/) **[278](https://web.archive.org/web/20051218134654id_/http%3A//www.couponsurfer.com/pg_show.cfm?pg_id=41) Free Coupons From Over 100 [Stores](https://web.archive.org/web/20051218134654id_/http%3A//www.couponsurfer.com/browsemerchants.cfm)** CouponSurfer Privacy Statement
+   [](http://www.couponsurfer.com/) **[291](https://web.archive.org/web/20060616195233id_/http%3A//www.couponsurfer.com/pg_show.cfm?pg_id=41) Free Coupons From Over 100 [Stores](https://web.archive.org/web/20060616195233id_/http%3A//www.couponsurfer.com/browsemerchants.cfm)** CouponSurfer Privacy Statement
 
 > The CouponSurfer.com mission is to simplify the shopping experience of on-line consumers by providing a dedicated web site of major brand promotions. Consumers view coupons at their convenience with an interactive easy-to-use format. CouponSurfer.com saves consumers time and money by eliminating the need for searching through newspapers or hundreds of web sites. 
 > 
