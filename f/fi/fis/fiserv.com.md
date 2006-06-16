@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the fiserv.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221230106id_/http%3A//www.fiserv.com/fiserv.cfm%3Ftn%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiserv.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616150743id_/http%3A//fiserv.com/privacypolicy.htm) for the most accurate reproduction.*
 
-# Fiserv - Fiserv -- Privacy Statement
-
-|   | 
+# Fiserv - Privacy Policy
 
 Fiserv, Inc. ("Fiserv") respects your privacy and is committed to protecting the information you provide to us through this Web site. We do not sell or distribute user information to third parties. We gather user information and will distribute this information within Fiserv in order to serve your needs and respond to your information requests. These are the guidelines we use in protecting your privacy. 
 
@@ -13,5 +11,3 @@ Fiserv, Inc. ("Fiserv") respects your privacy and is committed to protecting the
 **3\. Disclosure of User Information.** Fiserv will not sell or distribute user information to third- parties. If you have voluntarily submitted user information to us through an e-mail or contact form, Fiserv maintains your security by ensuring the information is only distributed within Fiserv. This enables us to respond to your request about a product or service. If you subscribe to an e-mail list, you will be given instructions on how to remove yourself from that list. 
 
 **4\. External Links.** The Fiserv Web site provides links to other third party Web sites. Even if the third party is affiliated with Fiserv through a business partnership or otherwise, Fiserv is not responsible for the privacy policies or practices or the content of such external links. These links are provided to you for convenience purposes only, and you access them at your own risk. 
-
-If you have any questions now or during your visit about our Privacy Statement, please send an e-mail to [general_info@fiserv.com](mailto:general_info@fiserv.com). 
