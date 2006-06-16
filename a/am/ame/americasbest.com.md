@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the americasbest.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219131412id_/http%3A//www.americasbest.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americasbest.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616035313id_/http%3A//www.americasbest.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-AmericasBest Industries, Inc. is committed to protecting the privacy of our users. We want to provide a safe, secure, and enjoyable user experience. We will use our best efforts to ensure that the information you submit to us is used only for the purposes as set forth below.
+AmericasBest.com is committed to protecting the privacy of our users. We want to provide a safe, secure, and enjoyable user experience. We will use our best efforts to ensure that the information you submit to us is used only for the purposes as set forth below.
 
 What information does AmericasBest.com collect from me?
 
@@ -28,4 +28,4 @@ What else should I know about my privacy?
 
 Please keep in mind that whenever you voluntarily disclose personal information that information can be collected and used by others. You are solely responsible for maintaining the secrecy of your online information. Please be careful and responsible whenever you're online. 
 
-Thank you for using the AmericasBest Industries, Inc. network of sites.
+Thank you for using AmericasBest.com.
