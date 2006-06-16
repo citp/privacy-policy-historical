@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ctvnews.ca privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212150509id_/http%3A//www.ctv.ca/servlet/ArticleNews/show/CTVShows/1096995711482_92404850) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ctvnews.ca privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616195948id_/http%3A//www.ctv.ca/servlet/ArticleNews/show/CTVShows/1096995711482_92404850) for the most accurate reproduction.*
 
 # CTV.ca | CTV Corporate
 
