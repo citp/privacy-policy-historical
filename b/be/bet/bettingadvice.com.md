@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bettingadvice.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217182710id_/http%3A//www.bettingadvice.com/showInfo.php%3Fid%3D115) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bettingadvice.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616035800id_/http%3A//www.bettingadvice.com/showInfo.php%3Fid%3D115) for the most accurate reproduction.*
 
 # W W W . B E T T I N G A D V I C E . C O M
 
@@ -15,26 +15,26 @@ Get Royal treatment, like personalized professional service, opinionated lines, 
   
 | Last 10 forum topics  
 ---  
-[Livescore thread 17th of December 2005](http://forum.bettingadvice.com/viewtopic.php?p=634983#634983)   
-alpha, 19:19 (1099)   
-[Dutch Eredivisie 17/18 December](http://forum.bettingadvice.com/viewtopic.php?p=634974#634974)   
-fcdg, 19:16 (26)   
-[League Two 17th December 2005](http://forum.bettingadvice.com/viewtopic.php?p=634962#634962)   
-ukpro, 19:13 (2)   
-[NBA 17/12/2005](http://forum.bettingadvice.com/viewtopic.php?p=634950#634950)   
-chignix, 19:11 (9)   
-[The sexiest player (WTA)](http://forum.bettingadvice.com/viewtopic.php?p=634935#634935)   
-Muuki, 19:08 (121)   
-[France - Ligue 1 (16-18 Dec 05)](http://forum.bettingadvice.com/viewtopic.php?p=634932#634932)   
-PdpTeam, 19:06 (38)   
-[Spain Primera 17-18/12](http://forum.bettingadvice.com/viewtopic.php?p=634903#634903)   
-Morfeo, 18:55 (33)   
-[Portuguese 1 and 2 League](http://forum.bettingadvice.com/viewtopic.php?p=634900#634900)   
-canhoto, 18:54 (5)   
-[Portuguese Superliga 16/18-12-05](http://forum.bettingadvice.com/viewtopic.php?p=634895#634895)   
-TEDDIE21, 18:51 (20)   
-[NHL, 17.12](http://forum.bettingadvice.com/viewtopic.php?p=634883#634883)   
-jarnoldo, 18:47 (11)   
+[Livecores 15.06](http://forum.bettingadvice.com/viewtopic.php?p=967824#967824)   
+Maceda, 04:54 (1091)   
+[Summer POD 16/06/2006](http://forum.bettingadvice.com/viewtopic.php?p=967822#967822)   
+Karra, 04:51 (2)   
+[Sweden v Paraguay (15 June 2006)](http://forum.bettingadvice.com/viewtopic.php?p=967810#967810)   
+Karra, 04:22 (59)   
+[Sticky: *The King Moldo 'IF' Club*](http://forum.bettingadvice.com/viewtopic.php?p=967800#967800)   
+Moldoveanu, 04:06 (466)   
+[Mexico vs. Angola (16 June 2006)](http://forum.bettingadvice.com/viewtopic.php?p=967769#967769)   
+TEDDIE21, 03:37 (3)   
+[Pobeda Prilep (fyrom) - Farul Constanza (ROM) 17-18/06/06](http://forum.bettingadvice.com/viewtopic.php?p=967754#967754)   
+hanniball23, 03:21 (6)   
+[Italy v USA (17 June 2006)](http://forum.bettingadvice.com/viewtopic.php?p=967749#967749)   
+GunHo, 03:12 (5)   
+[Holland v Ivory Coast (16 June 2006)](http://forum.bettingadvice.com/viewtopic.php?p=967735#967735)   
+TEDDIE21, 02:53 (11)   
+[World Championship Qualification, Men](http://forum.bettingadvice.com/viewtopic.php?p=967725#967725)   
+mybets_pt, 02:32 (2)   
+[NK Maribor (SLV) - Sant Julia (AND) 17-18/06/06](http://forum.bettingadvice.com/viewtopic.php?p=967723#967723)   
+dr.big, 02:10 (2)   
   
   
   
@@ -87,36 +87,33 @@ and in the Newsletter section remove yourself by typing in your email adress.
 
   
   
-|  **Looking for a bookie? Check out BA's[Recommended bookies](https://web.archive.org/web/20051217182710id_/http%3A//www.bettingadvice.com/showInfo.php?id=320) section and pick up a few tips **  
+[](https://web.archive.org/web/20060616035800id_/http%3A//www.bettingadvice.com/phpadmentor/click.php?mgr=aspcode.net&id=301)  
+|  **Looking for a bookie? Check out BA's[Recommended bookies](https://web.archive.org/web/20060616035800id_/http%3A//www.bettingadvice.com/showInfo.php?id=320) section and pick up a few tips **  
 ---  
   
-**[ ADMIRALBET](http://www.admiralbet.com/)  
-Austrian quality, bookmaking expertise, secure winnings and serious business practices. Founded 1991. Good odds and FAST payouts. A good choice in your bookmaker portefolio.   
-[OK, I'll try Admiral!](http://www.admiralbet.com/) **
+**[ BETFAIR](http://adfarm.mediaplex.com/ad/ck/44441)  
+is the worlds biggest betting exchange. Fantastic odds on offer, because other users are offering them. Low margins, and 25 EUR CASHBACK!!   
+[BETFAIR, here I come!](http://adfarm.mediaplex.com/ad/ck/44441) **
 
 **[ Royal Sports](http://agent.betroyal.com/aff/ref1.asp?j=C34B3B641AF62032&a=2BDDE255C66AEE7E)  
 Paying Winners Since 1995! More Lines on More Sports on More Games with More Props than ALL the rest, and the most Frequent, Creative and Generous Promotions Available. You won’t believe what you are missing!   
 [ Sign Up NOW!](http://agent.betroyal.com/aff/ref1.asp?j=C34B3B641AF62032&a=2BDDE255C66AEE7E) **
 
-**[ MULTIBET](http://www.multibet.com/default.php?aid=50002)  
-specialises in global multiple betting. Got singles on most events now though. FAST payouts, NO bank fees. VERY good odds, if you like betting doubles, this is the place to be!   
-[Multibet, here I come!](http://www.multibet.com/default.php?aid=50002) **
+**[ BET-AT-HOME](http://www.bet-at-home.com/campaign.aspx?cid=1283)  
+Austrian bookie with more than 250000 customers! Established 1999, licenced at Malta. Immediate bet payment after event end. Unrivalled customer service.   
+[Lemme take a look!](http://www.bet-at-home.com/campaign.aspx?cid=1283) **
+
+**[ BETSAFE](http://www.betsafe.com/affiliate/bannerclick.jsp?aid=3488&bid=1)  
+New Nordic bookie. Solid owners, very good odds. Offer unrivalled customer service (pay guarantee of slow service). LARGE betting offer.   
+[I'm curious on BetSafe!](http://www.betsafe.com/affiliate/bannerclick.jsp?aid=3488&bid=1) **
 
 **[ POINTBET](http://www.pointbet.com/partner.asp?id=bettingadvice)  
-offer the most complete coverage of Asianhandicap in the world. Single or multibet. No Bank fees, fast payout. 24/7 customer support. Fair Casino, Games and Poker. Bonus up to USD 500 for new members, loyalty program!!   
+BEST ASIAN HANDICAP for WORLD CUP 2006.Cash Rebate on WC 2006 Live Betting up to USD 2500. Bonus for newbies and existing members. Big BET limit, Fast payout, & great services   
 [Too good to ignore!](http://www.pointbet.com/partner.asp?id=bettingadvice) **
-
-**[ Millenium Sports](http://www.paysports.com/paysportsv1/aspx/storeClick.aspx?AID=928&SBID=13&PID=0)  
-Very good sportsbook, recognised by big-spenders and heavy handicappers. Awesome generous bonuses. Monitored by the OSGA and the ISBC, insured every account up to $100,000 by the IFBG.   
-[You got me convinced](http://www.paysports.com/paysportsv1/aspx/storeClick.aspx?AID=928&SBID=13&PID=0) **
 
 **[ 10BET](http://www.10bet.com/10betClient/default.aspx?r=BID_62)  
 The earliest odds on the net! Offers high limits on the widest selection of sport events. Check out their best odds on Asian Handicaps & Over/Under. Want more- you get 10% bonus on first deposit!   
 [I'll try 10Bet!](http://www.10bet.com/10betClient/default.aspx?r=BID_62) **
-
-**[ MANSION](http://www.mansion.com/?trackid=12688)  
-Very good betting exchange with LOW commission, HIGH odds and HUGE volumes. Excellent pay-out and pay-in routines. Large company behind. Safe and solid   
-[Go MANSION!](http://www.mansion.com/?trackid=12688) **
 
 **[LADBROKES:](http://www.ladbrokes.com/lbr_portal?AFF_ID=576)**  
 Well-known, safe haven for punters. Fast payouts, good odds, never any fuss! Suitable for **big spenders** as well as newbies. Very solid bookie!! Highly recommended !!   
@@ -138,6 +135,12 @@ Another must-have in your portefolio!
   
 Strategic partners  
 ---  
+[PuntersLounge](http://www.punterslounge.com/forum)  
+**Punters Lounge** Big Betting Forum with thousands of members [PuntersLounge](http://www.punterslounge.com/forum)  
+[Betshoot](http://www.betshoot.com/)  
+**BetShoot** FREE Sports Betting Portal with Detailed Previews Analysis, Stats, Picks and Tipsters Competition. [BetShoot](http://www.betshoot.com/)  
+[Betportfolio](http://www.betportfolio.com/)  
+**Betportfolio** focuses on online betting software, professional betting management & record keeping They offer performance overview, discover punter's weaknesses and track bets from many accounts. [Betportfolio](http://www.betportfolio.com/)  
 [Football-Data](http://www.football-data.co.uk/)  
 **Football-Data** is all about results and odds data for betting system development, and a free bets portal. Well run by Joseph Buchdahl. [Football-Data](http://www.football-data.co.uk/)  
 [Bethelp](http://www.bethelp.com/)  
@@ -150,4 +153,6 @@ Strategic partners
 **Goonersguide** : popular betting site, run by Paul Kulhavy, surely we can forgive his Arsenal sympathies :)   
 [Absoluteodds](http://www.absoluteodds.com/)  
 **Absoluteodds** : Run by the great Dane Allan, this site has quality written all over it!   
-[more partners](https://web.archive.org/web/20051217182710id_/http%3A//www.bettingadvice.com/showLinks.php?idlink=149).....
+[Sports-Punter](http://www.sports-punter.com/)  
+**Sports-punter** Unique site where tipster can back or lay, with big cash prizes. [Sports-Punter](http://www.sports-punter.com/)  
+[more partners](https://web.archive.org/web/20060616035800id_/http%3A//www.bettingadvice.com/showLinks.php?idlink=149).....
