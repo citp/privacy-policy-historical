@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bollywoodmovies4u.com privacy policy that was archived on 2005-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051124054215id_/http%3A//www.bollywoodmovies4u.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollywoodmovies4u.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616111756id_/http%3A//www.bollywoodmovies4u.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
