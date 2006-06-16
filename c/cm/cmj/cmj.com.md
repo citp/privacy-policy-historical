@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cmj.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212120058id_/http%3A//www.cmj.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmj.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616200200id_/http%3A//www.cmj.com/company/privacy.php) for the most accurate reproduction.*
 
-# CMJ.com: new music first
-
-|  | 
+# cmj.com | new music first
 
 ### CMJ Network, Inc. Privacy Policy
 
@@ -14,6 +12,13 @@
   6. **Limits Of Confidentiality.** As part of our day-to-day business activities, we may disclose certain information about you to other parties, principally: (1) our Marketing Partners; and (2) other parties who provide services to us. The circumstances under which we may properly disclose information to these parties is outlined below.  
 
     1. **Online Marketing Partners.** Many of the programs and promotions contained in the Sites offer you the opportunity to request additional information from our Marketing Partners. By requesting additional information, you give us permission to transfer your personal information as a means of fulfilling your request. These Marketing Partners have separate data collection and privacy practices and neither CMJ nor any of our third party providers can be held responsible for their data collection or privacy practices. In addition, we may utilize the services of one or more outside parties to facilitate the transmission of emails, advertisements, and/or other information. Such parties, service providers and/or their agents may have access to your personal information, however, these parties may NOT use your information for any purpose other than to facilitate your participation in a program in which you have elected to participate.
+
+**Third Party Advertising**  
+We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.maxonline.com/privacy_policy/index.php).
+
+ **Third Party Cookies**  
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
+
     2. **Marketing Partner Opt-In.** From time to time, you may be offered the opportunity to receive materials or special offers from our Marketing Partners. If you elect to receive such materials or special offers, we will be required to share your information with them. These Marketing Partners have separate data collection and privacy practices. Neither CMJ nor any of our third party providers can be held responsible for the data collection or privacy practices of these parties.
     3. **Message Boards.** CMJ reserves the right to reprint posts and commentary from registered users of CMJ’s message boards in print form in the CMJ New Music Report and/or CMJ New Music Monthly.
     4. **Third-Party Data & Data in the Aggregate.** We may match user information with third party data.  In addition, we may disclose aggregate user demographics (i.e. 45% of our users are female) in order to fully describe our services to prospective clients and marketing partners and for other lawful purposes related to enhancing our business.
@@ -28,5 +33,4 @@
 
 
 
-|    
----|---|---
+| 
