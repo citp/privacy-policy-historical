@@ -1,123 +1,118 @@
-> *The following text is extracted and transformed from the rugby.com privacy policy that was archived on 2000-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001018135320id_/http%3A//en.communicate.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rugby.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616030300id_/http%3A//www.polo.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Drestrictions%23policies) for the most accurate reproduction.*
 
-# PRIVACY STATEMENT | Communicate.com Network
+# Ralph Lauren Polo.com Customer Assistance
 
-Communicate.com is committed to protecting your privacy. We value our visitors and endeavor to create an enjoyable and valuable experience when visiting our network of sites. The following Privacy Statement applies to all visitors to the Communicate.com network of sites, and to all referrals made by our visitors. 
+  
+Last modified: April 7, 2006 
 
-## 1.0 What information we collect and how we use it
+**Privacy Policy**
 
-**1.1 User Registration**
+Polo Ralph Lauren Corporation respects your privacy. Consistent with our commitment to providing you a satisfying and helpful shopping experience, we have found that collecting Personal Information (defined below) through [www.polo.com](http://www.polo.com/) (the "Site") and our stores, including but not limited to Ralph Lauren stores, Polo Ralph Lauren Factory Stores and Polo Jeans Co. Factory Outlets (referred to in this Privacy Policy as the "Stores"), helps us better understand the products and services most helpful to you. Our Privacy Policy describes the types of information we gather online and in our Stores and how we use this information. Please read this information carefully. 
 
-To help recognize you and personalize your experiences on the Communicate.com Network we offer a general registration service. Registration requires that you provide us with your first name, last name, email address, age range, gender and country. You have the option to opt-in to any products or services we may offer. You can change, update, opt-out of services, or terminate your registration altogether at any time. 
+By accessing the Site and shopping in our Stores, you agree to be bound by the Privacy Policy. This Privacy Policy may be updated from time to time. Accordingly, you should check the date of this Policy (which appears at the top of this page) and review any changes since the last version. If at any time you do not agree to the terms of this Privacy Policy, please do not use this Site and refrain from purchasing from us. 
 
-Registering once with our network gives you access to the various services that you may choose to opt-in to, for example receiving marketing materials, free email, and access to forums. Registration also allows you to automatically populate our contest forms should you choose to participate. Your one user name and password will provide you access to all the services you have chosen on any of our web sites. And, we may from time to time also ask general interest questions in a survey questionnaire to help us understand what type of experience you would like to have when you visit a Communicate.com web site. 
+Our products are also available for sale in Polo shops within many department stores. Data collected in these stores is the property of the department stores and is not provided to Polo Ralph Lauren Corporation. If you have questions about department store privacy policies, please contact the applicable department store. 
 
-If you do not wish to register, but would like to participate in a contest we may be offering, we will ask you for your name, email address, age range, gender, country and zip/postal code to qualify your entry, notify winners and deliver prizes related to our contests. If you so choose, we will use this information to notify you of special offers, new services, contests or surveys across our network of sites. 
+Our policies relating to the transfer of Personal Information from the European Union ("EU") to the United States are contained in our European Safe Harbor Policy. 
 
-If you would like to use the services of our network, your cookies must be turned on. You can auto-login, or login manually each time that you visit. 
+**Use of Information Collected by Us**
 
-**1.2 Collection, Use, and Disclosure**
+Polo may collect two types of information about users: "Personal Information" (such as name, email address, mailing address, phone number, credit card number and the items you purchase) and "Aggregate Information" (such as information about how many users log on to our Site on a daily basis or frequency of customer visits to Polo Ralph Lauren Stores). 
 
-We do not share, rent, trade or sell any of the personal information we currently hold with non-related third parties. We may choose to do so in the future.
+We use customer information in an effort to improve your shopping experience and to communicate with you about our products, services, promotions and contests. We may also use this information to make offers to you, to help us target specific products and services to you, and to help us develop and improve our Site and Stores and tailor our Site and Stores to your interests. 
 
-We do, however, collect, and sometimes share with companies we have partnered with, anonymous statistical information about your visit to one or more of our sites. We may also share your personal information with third parties who manage activities on our web site, or market research firms that have been contracted by us. In such instances, we will ensure that they manage the information with appropriate care and due diligence.
+**Personal Information Collected Online by Polo.com and at Our Stores**
 
-Your personal information may be used for personalizing advertising or content. If you registered for a service and expressly asked us to send you information about contests or special offers, then we will use your information for that purpose. 
+Personal Information is collected online by us or our service providers (e.g., such as Epsilon Interactive) on our behalf when users voluntarily register with Polo.com to purchase items, receive electronic newsletters, use community and communication services, answer surveys and enter contests and other promotional opportunities provided on Polo.com, when users make a purchase, and when users utilize the "Email to a Friend" feature. We also maintain a record of your product interests and purchases online. We may receive personal usage and demographic information from our Stores and from third parties we work with including, for example, Epsilon Interactive ([www.epsiloninteractive](http://www.epsiloninteractive.com/)). For information regarding Epsilon Interactives' privacy policy, click here <http://www.epsiloninteractive.com/eisite/privacy/privacy.htm>. 
 
-Your personal information may be disclosed without your consent if Communicate.com has reason to believe that doing so is necessary to identify, contact, or bring legal action against anyone damaging, injuring, or interfering with our rights, property, users, or anyone else who may be harmed by such activities. And, we will also disclose your information without your consent where we are required by law.
+In our Stores, Personal Information is collected from you in a number of ways, including the following: 
 
-**1.3 Disposing of Information**
+  * When you purchase products from our Stores, we may collect your name, address, email address, telephone number(s) and credit card information (with the expiration date). In addition, we collect transaction information related to your purchase (such as what you bought, the price you paid, the payment method you used and if the product was on sale).
+  * When you apply for a credit card account through our Stores, we may also collect income, employment information and credit information, such as credit cards owned by you, in addition to identifying information, such as your name, address, telephone number(s), email address(es), income and employment status. 
+  * When you fill out a tailoring order or instruct us to mail product to another location, we may collect your name, address, email address, telephone number and credit card information. 
+  * When you fill out any in-store promotional surveys, we may gather certain Personal Information, such as your opinions on specific products and/or services, in addition to identifying information, such as your name, address, telephone number(s), email address(es), income and employment status. 
 
-When we no longer need your information, or you have withdrawn your consent to use the information, we will securely erase, destroy, or make the information anonymous. 
+**Aggregate Information Collected Online by Polo.com and at Our Stores**
 
-**1.4 Your consent**
+Aggregate Information is non-personally identifiable/anonymous information about you, such as age, gender, types of products purchased, frequency of Store visits, Site pages you access most frequently or search terms you enter. Aggregate Information is used in a collective manner, and no single person can be identified by that compiled information. For example, the number of people who shopped at Polo.com during a specific time period or the number of people who shopped at our Stores who are 25 years of age is Aggregate Information that does not personally identify a specific user. Both Polo.com and our Stores collect Aggregate Information. 
 
-Consent means that you are aware, understand, and have expressly permitted Communicate.com to collect, use, re-use or disclose your personal information for the purpose(s) identified to you.  And, you understand that in providing us consent, you are permitting use of your personal information to ensure that we meet your reasonable expectations in providing services to you. For example, if you subscribe to a Communicate.com service, we may on occasion have to contact you regarding that service.
+**Order-related and Promotional email**
 
-Where the information you are providing to us is sensitive, your consent must be expressed. For example, clicking on the submit button on a form that includes your personal information is considered expressed consent. Or, sending us an email requesting a product or service is considered consent. The manner in which your consent is granted may vary depending on the sensitivity of the information that you are providing to us. Where the information is less sensitive, implied consent will be considered appropriate. For example, when participating in a discussion forum, your username may be made available to other users. 
+You agree that Polo.com is authorized to transmit email to you for the purpose of informing you about your particular transaction. 
 
-You can withdraw your consent (opt out) at any time by closing your account. To do this, select "modify account", then select "close account" and follow the instructions on the screen. You will receive an email confirmation which you must reply to in order to close your account.
+In addition, Polo.com and its affiliates may offer electronic newsletters and promotional emails to those who have agreed to receive emails during registration or directly from our email sign-up form. Unsubscribe instructions are included in each promotional email. 
 
-If you have entered into an agreement with Communicate.com, withdrawal of your consent may be subject to legal or contractual restrictions. For example, if you enter a contest, you are bound by the rules and regulations associated with that promotion. In cases such as this, we will make a reasonable effort to inform you of any implications associated with withdrawing your consent.
+**Sharing Information with Third Parties**
 
-**1.5 Kids Online & Privacy**
+Polo.com does not share, sell or trade with third parties your Personal Information gathered online, such as email addresses, Personal Information collected as part of an online survey or other specific details about you, except with your consent or as described in this Privacy Policy. Polo.com does not contribute to or participate in cooperative databases, which give other companies access to such Personal Information. 
 
-We do not currently have services for children under 13. If a child wants to use our services, the children's parent or guardian must register for our services and participate with the child.
+The Personal Information and Aggregate Information collected at our Stores may be shared with Polo.com as well as reputable third-party organizations to contact consumers for marketing and promotional purposes. Third party contacts to our customers may be initiated only by postal mail. Except as described in this Privacy Policy, our Stores will not share your telephone number or e-mail address. In addition, in the event that you apply for a credit card account, our Stores may share the Personal Information we have collected with credit card companies and credit agencies. 
 
-**1.6 Accessing your personal information**
+Polo.com and our Stores may divulge Personal Information if such action is required for Polo or any of our service providers or consultants to comply with any valid legal process, such as a subpoena, search warrant, statute or court order, or any valid administrative request from a law enforcement agency. In addition, we may divulge Personal Information if we or any of our service providers or consultants believes that such disclosure is necessary to address any unlawful acts or acts that may endanger the health or safety of another customer or of the general public. 
 
-Where applicable, we will provide the means to update or modify your personal information online. Otherwise, you can request an update or modification of your information by sending us an email detailing the changes. Information regarding the existence, collection, use or disclosure of your personal information can be accessed by sending an email to [privacy_admin@en.communicate.com](mailto:privacy_admin@en.communicate.com).
+**Service Providers, Consultants and Affiliates**
 
-We will provide the information to you within a reasonable period of time in a format that is easily understandable. We will only deny access if the information includes the information of another person, it is cost prohibitive, a security risk or it is proprietary, or where we are prohibited by law. Proof of your identify will be required before any information is disclosed to you, and depending on the nature of the request, you may be asked to incur the costs associated with supplying the information to you. You can also request our policies and procedures regarding the management of personal information. 
+We may share Personal Information and Aggregate Information with our service providers, consultants and affiliates for our internal business purposes. 
 
-## 2.0 Links to external sites
+For example, we use the services of Omniture, Inc ([www.omniture.com](http://www.omniture.com/)) to help us measure the effectiveness of our advertising and how visitors use our Site. Omniture's privacy policy is located at <http://www.omniture.com/web_analytics-privacy.html>. To utilize Omniture's services, Polo.com uses web beacons (also called pixel tags or clear GIFs) and cookies, which are defined below and provided by Omniture on our Site. The type of information we collect includes products viewed and/or purchased, your location (state/zip code if you placed an order) and the Internet Protocol (IP) address of your computer. An IP address is a number that is automatically assigned to your computer whenever you surf the Web. The computers, which deliver the Web pages to you, automatically identify your computer by its IP address. When you request a page from our Site, our servers log your IP address. By supplementing our records, this information helps us learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see. Although Omniture logs the information coming from the Site on our behalf, Polo.com controls how that data may and may not be used. If you do not want to help us learn how to improve our site, products, offers, and marketing strategy by utilizing Omniture's tool, you can "opt-out" of this Web site analysis tool by clicking here <http://www.omniture.com/web_analytics-privacy.html#optout>. 
 
-Our privacy policy only applies to the Communicate.com network. It does not apply to non-network sites that you connect to from our sites. We recommend that you read their privacy policy to understand how they manage personal information. We choose our partners and sponsors carefully. However, we are not responsible for the content or practices of web sites operated by third parties that are linked to our sites. These links are provided as a service to our users. Unless otherwise stated, they do not constitute our endorsement, sponsorship or approval of their content, policies or practices.
+We also share with DoubleClick Site usage information about visitors to our Site who have received a targeted promotional campaign with DoubleClick for the purpose of targeting future campaigns and upgrading visitor information used in reporting statistics. For this purpose, Polo.com and DoubleClick note some of the pages you visit on our Site through the use of web beacons, which are defined below. 
 
-## 3.0 "Cookies"
+Finally, both Polo.com and our Stores, use Acxiom ([www.acxiom.com](http://www.acxiom.com/)) for data processing services relating to the maintenance of our customer marketing database. Acxiom has agreed to maintain our customer information in confidence and to not disclose customer information to any third parties unless required to do so by law or authorized to do so by Polo Ralph Lauren for purposes consistent with this Privacy Policy. 
 
-"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Our cookies do not contain any personally identifying information. We use cookies to reference stored information which may include:
+**Use of Cookies**
 
-  * a visitor's preferences; 
-  * record session information; 
-  * record user-specific information on what pages users access or visit; 
-  * alert visitors to new areas that we think might be of interest to them when they return to the site; 
-  * record past activity at a site in order to provide better service when visitors return to our site; 
-  * ensure that visitors are not repeatedly sent the same banner ads; and 
-  * to customize web page content based on visitors' browser type or other information that the visitor sends. 
+A cookie is a small data file that Web sites, when you visit them, often store on your hard drive. A cookie may contain information (such as unique user ID), which is used to track the pages of the sites you've visited. Polo.com uses cookies to, preserve the contents of your shopping bag between your visits. Polo.com also uses cookies to measure activity on our Site, which allows us to determine which areas and features of our Site are most popular. This information allows us to make improvements and updates to enhance your Polo.com experience. Parts of the Site, such as the members-only areas (for example, shopping) will not function if you do not have cookies enabled. You can set your browser to refuse cookies, or to alert you when cookies are being sent. If you turn off cookies or refuse them, though, you will not be able to make a purchase from the Site, nor will we be able to recognize you as a registered user to allow you access to your account information. 
 
+To enable or disable cookies on your browser, please consult your browser documentation or contact your software provider. 
 
+**Use of Pixel Tags/Clear GIFs/Web Beacons**
 
-## 4.0 Log Files
+A pixel tag, also known as a clear GIF or web beacon, is an invisible tag placed on certain pages of our Site but not on your computer. When you access these pages, pixel tags generate a generic notice of that visit. They usually work in conjunction with cookies, registering when a particular computer visits a particular page. If you turn off cookies the pixel tag will simply detect an anonymous website visit. 
 
-Communicate.com uses IP addresses to identify and analyze trends, track user movements, administer the site, and gather broad demographic information for aggregate use. We do not link your IP address to your personal information.
+**Notice to P3P Users**
 
-## 5.0 Communicate.com Services and Your Privacy
+The Platform for Privacy Preferences Project ("P3P") is a standard developed by the World Wide Web Consortium ("W3C") that provides an automated, machine-readable mechanism for understanding the use of your Personal Information by the Web sites you visit. P3P uses a standardized set of multiple choice questions covering the major elements of a Web site's privacy policy to provide a cross-section of how the particular Web site handles the personally identifiable information of its users. P3P-enabled browsers can automatically read this set of preferences made available by P3P-enabled Web sites and compare this information to the user's own set of privacy preferences. For example, Internet Explorer 6.0 requires third parties to set cookies to deliver P3P "compact" cookie policies with their cookies, and other browsers may use this mechanism soon. To enhance your online experience further, the Site is now P3P enabled. For more information on the W3C and P3P, please visit <http://www.w3.org/P3P/>. Given certain limitations in the parameters chosen by W3C, however, the P3P mechanisms may not describe Polo.com's privacy practices as accurately as this Privacy Policy. Accordingly, where discrepancies exist between this Privacy Policy and the P3P "compact" policies, this Privacy Policy shall control. 
 
-**5.1 Send to a Friend Service**
+**Security and SSL**
 
-If you use our Send-to-a-Friend service, we will use your friend's email address to send them a one time email inviting them to visit our website. 
+Protecting your order information is a priority for us. We use Secure Sockets Layer (SSL) technology to protect the security of your online order information. To check the security of your connection, look at the lower right-hand corner of your browser window after accessing the server. If you see an unbroken key or a closed lock (depending on your browser), then SSL is active and the server is secure. You can also double-check by looking at the URL line of your browser. When accessing a secure server, the first characters of the Site address will change from "http" to "https." Some versions of browsers and some firewalls don't permit communication through secure servers. In that case, you won't be able to connect to the server and therefore won't be able to place an order through a secure connection. If you cannot access the secure server for any reason, please print our shopping page and place your order by phone at 888-475-7674. 
 
-**5.2 Free Email**
+**Information Removal/Opt-Out**
 
-In addition to protecting identifiable personal information, Communicate.com will not monitor, edit, or disclose the contents of your private communications unless we are required to by law or in the good faith believe that such action is necessary to conform to the edicts of the law or comply with legal process, or to protect and defend the rights or property of Communicate.com. 
+If you prefer not to receive marketing emails from Polo.com, please let us know by clicking on the unsubscribe link within any marketing email you receive from us. If you prefer not to receive marketing mail via the mail carrier, please let us know by sending a request to Jeffrey Steinberg, Chief Privacy Officer, Polo Ralph Lauren Corporation, 625 Madison Avenue, 8th Floor, New York, NY 10022. Please be sure to include in any email or postal mail your full name, email address, postal address and any message. 
 
-In using our free email service, you acknowledge and agree that Communicate.com neither endorses, nor assumes responsibility for any threatening, libelous, obscene, harassing or offensive material, any infringement of third party intellectual property rights, or any crime facilitated by the contents of any personal communications. 
+Please note that such requests may take up to ten (10) days to become effective. 
 
-You also acknowledge and understand that certain technical processing of email messages and their content may be required to send and receive messages; conform to connecting networks' technical requirements; conform to the limitations of the Service; or conform to other similar requirements. And, it is important for you to know that in the process of transmitting email messages, it is possible that your message may be lost or intercepted by a party other than Communicate.com.
+If you do not wish to have Personal Information collected in our Stores shared with third-party organizations, you can have your name placed on a "do-not-share" list (in which case, such Personal Information will not be shared with third parties) by sending a request to Jeffrey Steinberg, Chief Privacy Officer, Polo Ralph Lauren Corporation, 625 Madison Avenue, 11th Floor, New York, NY 10022. In addition, you may call us to become part of the "do-not-share" list at 888-475-7674. 
 
-Communicate.com will not send you any unsolicited information, including email, unless it is related to, for example, the maintenance of your account or a service you have selected.
+**Children and Privacy**
 
-**5.3 Chat & Forums**
+Polo.com is concerned about the safety of children when they use the internet, and understands that children may not understand all the provisions of our Privacy Policy or make informed decisions about the choices that are made available to adult users of the Site. We encourage parents and guardians to spend time with their children online and to be familiar with the sites their children visit. 
 
-Please keep in mind that whenever you give out personal information while using our chat or forum services, your information may be collected and used by others. Despite our efforts to protect your personal information, we cannot guarantee the security of any information you choose to disclose online, and you do so at your own risk.
+Our Site is not directed to children under the age of 13, and we will never request personally identifiable information from anyone whom we know to be under the age of 13 without verifiable parental consent. If we become aware that a customer is under the age of 13 and has registered without prior verifiable parental consent, we will remove his or her personally identifiable registration information from our files. 
 
-## 6.0 Security 
+**Links to Other Sites**
 
-We exercise care and due diligence in managing, transmitting and securing personal information once we receive it. Your personal information is protected by safeguards that are appropriate to the sensitivity of the information. This may include restricted access to an office, secure access levels to databases, or the use of passwords and encryption. However, it is important for you to know that data transmission over the Internet is not 100% secure. Despite our efforts, unfortunately, we cannot guarantee the security of any information you transmit to us, and you do so at your own risk. 
+Polo.com may contain links to sites other than our own. Those sites may have their own privacy policy, or no privacy policy at all. Neither we nor any of our service providers have any responsibility for those sites, and we provide these links solely for the convenience of our visitors. Such links may be to advertisers, content providers or other companies who may use our logo and/or style as a result of a co-branding agreement. These sites may send their own cookies to you and may collect information and use it in a way inconsistent with this Privacy Policy. We encourage you to review the privacy policies and terms of use of any third-party sites or services before providing any of them with any of your Personal Information. Neither Polo nor any of our service providers control the content that appears on these sites or take any responsibility for their content, nor should it be implied that Polo.com endorses or otherwise recommends such sites or their products or services offered. 
 
-If you register with any web site on the Communicate.com network, your account is password protected. Only you can access and view the information you have provided. We strongly encourage you not to divulge your password to anyone. Ultimately, you are responsible for maintaining the secrecy of your passwords and any account information. We also recommend that you log-out of the network when you have finished your visit, and close your browser window when you have finished your work. Doing so will ensure that others cannot access your personal information and correspondence if your computer is accessible to others, such as in a library or Internet café.
+**Personal Information Collected By Polo and Correction Requests**
 
-## 7.0 General
+You can ask us by mail for a summary of any Personal Information that Polo.com or the Polo Ralph Lauren Stores have retained about you. Please address your request to Jeffrey Steinberg, Chief Privacy Officer, Polo Ralph Lauren Corporation, 625 Madison Avenue, 11th Floor, New York, NY 10022. We will send such information for review only to the email address or mail address that we have on file for the visitor name that is associated in our database for such information. 
 
-**7.1 Changes to our Privacy Statement**
+If at any time you wish to change, correct or update your Personal Information, please send your request to Jeffrey Steinberg, Chief Privacy Officer, Polo Ralph Lauren Corporation, 625 Madison Avenue, 11th Floor, New York, NY 10022. Please be sure to include your email address, full name and postal address. 
 
-If we decide to change our Privacy Statement, we will post those changes on this page so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it. If you are not comfortable with any of the changes to our Privacy Statement, you will have the opportunity to withdraw your information from our network at any time by selecting "modify account", then select "close account" and follow the instructions on the screen. You will receive an email confirmation, which you must reply to in order to close your account. We will use information in accordance with the privacy policy under which it was collected. 
+**Additional Information**
 
-**7.2 Accountability at Communicate.com**
+No transmission of data over the internet is guaranteed to be completely secure. It may be possible for third parties not under the control of Polo.com to intercept or access transmissions or private communications unlawfully. While we strive to protect your Personal Information, neither Polo.com nor any of our service providers can ensure or warrant the security of any information you transmit to us over the internet. Any such transmission is done at your own risk. 
 
-Accountability for the compliance with our privacy statement is the responsibility of our Privacy Officer, an employee of Communicate.com. 
+**Limitation on Liability**
 
-If you have any questions about this statement, the practices of Communicate.com with respect to personal information, please contact us at [privacy_admin@en.communicate.com](mailto:privacy_admin@en.communicate.com) or write to:
+IN NO EVENT SHALL POLO.COM, THE POLO RALPH LAUREN STORES OR ANY OF THEIR AFFILIATED ENTITIES OR SUPPLIERS BE LIABLE FOR ANY INDIRECT, SPECIAL, PUNITIVE, INCIDENTAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES, EVEN IF THESE ENTITIES HAVE BEEN PREVIOUSLY ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, WHETHER IN AN ACTION, UNDER CONTRACT, NEGLIGENCE OR ANY OTHER THEORY, ARISING OUT OF OR IN CONNECTION WITH THE USE, INABILITY TO USE OR PERFORMANCE OF THE INFORMATION, SERVICES, PRODUCTS AND MATERIALS AVAILABLE FROM THE SITE. These limitations shall apply notwithstanding any failure of essential purpose or the existence of any limited remedy. Because some jurisdictions do not allow limitations on how long an implied warranty lasts, or the exclusion or limitation of liability for consequential or incidental damages, the above limitations may not apply to you. 
 
-Privacy Officer  
-Communicate.com Inc.  
-360-220 Cambie Street  
-Vancouver, B.C.  
-Canada  
-V6B 2M9  
+**Applicable Law**
 
+The laws of the State of New York will govern these disclaimers, terms and conditions without giving effect to any principles of conflict of law. 
 
-**7.3 Your Acceptance of These Terms**
+Back to Top   
 
-Using any site on the Communicate.com network signifies your assent to our Privacy Policy. If you do not agree to this policy, please do not use our sites. And, your continued use of our network sites following the posting of changes to these terms will mean you accept those changes.
