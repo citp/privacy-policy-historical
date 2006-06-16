@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classicdriver.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214235241id_/http%3A//www.classicdriver.com/uk/service/6600.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classicdriver.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616215305id_/http%3A//www.classicdriver.com/uk/service/6600.asp) for the most accurate reproduction.*
 
 # Classic Driver - CONTACT - Privacy Policy
 
