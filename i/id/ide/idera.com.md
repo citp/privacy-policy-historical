@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the idera.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210185401id_/http%3A//www.idera.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idera.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616031655id_/http%3A//idera.com/Legal/Privacy.aspx) for the most accurate reproduction.*
 
-# Idera: Tools for Data Management - Privacy Policy
+# Idera: Tools for Data Management - Downloads
 
-At Idera we are committed to respecting and protecting the privacy of our customers, partners and web site visitors. Specifically, we do not sell, rent or trade email lists with other companies for marketing purposes. In this Privacy Policy we provide information on when and why we collect your personal information, how we use it, the limited conditions under which we may disclose it to others and how we keep it secure.
+Published: January 24, 2004 | Updated: May 4, 2006
+
+BBS Technologies, Inc. ("Idera") is committed to respecting and protecting the privacy of our customers, partners and web site visitors. Specifically, we do not sell, rent or trade email lists with other companies for marketing purposes. In this Privacy Policy we provide information on when and why we collect your personal information, how we use it, the limited conditions under which we may disclose it to others and how we keep it secure.
 
 Collection and Use of Personal Information  
 ---  
@@ -30,7 +32,7 @@ Idera may also disclose your personal information if required to do so by law or
 
 Children and Privacy  
 ---  
-Our web site does not offer information intended to attract children. Idera does not knowingly solicit personal information from children under the age of 13.
+Our web site does not offer information intended to attract children. Idera does not knowingly solicit personal information from children under the age of 16.
 
 Security of Personal Information  
 ---  
@@ -58,4 +60,4 @@ By using our web site, you consent to the collection and use of the information 
 
 If you have any questions or concerns about our collection, use or disclosure of your personal information, please email our Data Privacy Officer at [privacy@idera.com](mailto:privacy@idera.com). For more information about this site or your visit, please email us at [webmaster@idera.com](mailto:webmaster@idera.com).
 
-This document was last updated January 20, 2004.
+This document was last updated March 14, 2006.
