@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ajithfans.com privacy policy that was archived on 2005-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050412213314id_/http%3A//www.ajithfans.com/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ajithfans.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616091434id_/http%3A//www.ajithfans.com/policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Ajithfans.com
 
