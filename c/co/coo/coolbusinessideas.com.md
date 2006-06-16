@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coolbusinessideas.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204073238id_/http%3A//www.coolbusinessideas.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolbusinessideas.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616204322id_/http%3A//www.coolbusinessideas.com/archives/privacy_policy.html) for the most accurate reproduction.*
 
-# CoolBusinessIdeas.com - Privacy Policy
+# CoolBusinessIdeas.com: Privacy Policy
 
 The privacy and security of our site visitors and newsletter subscribers is our highest priority. We will never offer any information about you to any third party unless we receive your prior consent. CoolBusinessIdeas.com has created this privacy statement in order to demonstrate our firm commitment to your privacy. The following discloses our information gathering and dissemination practices for this web site. 
 
@@ -33,7 +33,7 @@ Only those who subscribe to our mailing list receive our newsletter. We will onl
 You may opt-in to our mailing list in this location: 
 
 -On the newsletter subscription page at:  
-[http://www.CoolBusinessIdeas.com/newsletter_signup.html](https://web.archive.org/web/20041204073238id_/http%3A//www.coolbusinessideas.com/newsletter_signup.html)
+[http://www.CoolBusinessIdeas.com/newsletter_signup.html](http://www.coolbusinessideas.com/newsletter_signup.html)
 
 To those who specifically request them, we send the CoolBusinessIdeas.com newsletter at the start of every new month. Special promotional mailings from our partners are emailed to those who have specifically requested for them during the newsletter signup process.
 
@@ -64,6 +64,6 @@ CoolBusinessIdeas.com (a) does not make any warranty, express or implied, with r
 
 Any specific reference by name, trade name, trademark, or otherwise to any party does not necessarily constitute or imply its endorsement of the use of such information by CoolBusinessIdeas.com.
 
-The CoolBusinessIdeas.com website and newsletter are copyright © 2004 CoolBusinessIdeas.com. All rights reserved.
+The CoolBusinessIdeas.com website and newsletter are copyright � 2004 CoolBusinessIdeas.com. All rights reserved.
 
 Other brands or products are trademarks, service marks, registered trademarks or registered service marks of their respective holders. 
