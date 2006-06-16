@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the question.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220210110id_/http%3A//www.question.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the question.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616152845id_/http%3A//question.com/privacy.php) for the most accurate reproduction.*
 
 # Question.com
 
@@ -32,5 +32,5 @@ Please also note that as our business grows, we may buy or sell various assets. 
 If you have questions or concerns about the children's privacy statement, the privacy practices of the Question.com site, or your dealings with Question.com, please contact us.
 
   
-© 2004 Question.com. All Rights Reserved.  
+© 2005 Question.com. All Rights Reserved.  
 0 ms
