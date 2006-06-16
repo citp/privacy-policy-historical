@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamebattles.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215024532id_/http%3A//corp.gamebattles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamebattles.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616204537id_/http%3A//corp.gamebattles.com/privacy.php) for the most accurate reproduction.*
 
-# GameBattles.com
+# GameBattles Privacy Policy
 
 **Our Approach to Privacy.** GameBattles respects your privacy. Our staff, contractors and others who help us operate our web sites follow this policy on privacy and fair information practices for online activities of GameBattles, Inc.
 
