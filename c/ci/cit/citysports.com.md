@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citysports.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220120945id_/http%3A//citysports.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dfooter_privacy_txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citysports.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616194312id_/http%3A//www.citysports.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dfooter_privacy_txt) for the most accurate reproduction.*
 
 # City Sports Helpdesk
 
@@ -16,7 +16,7 @@ GSI Commerce, Inc. has created this privacy policy to inform you of the informat
 
 
 
-If you have questions or concerns regarding this statement, you should contact our Customer Service Department by email at customersupport@citysports.com or by phone at 1-877-262-8980.
+If you have questions or concerns regarding this statement, you should contact our Customer Service Department by email at [customersupport@citysports.com](mailto:customersupport@citysports.com?%20subject=Privacy%20Policy%20Questions) or by phone at 1-877-262-8980.
 
 **  Visiting www.citysports.com**
 
@@ -51,15 +51,15 @@ You can correct account data by clicking on "Manage My Account" within the Help 
 
 **  Receiving Promotions/Opt-Out **
 
-From time to time, we will contact you about sales, special offers and new site features if you agreed to be included in our email lists when you completed a purchase transaction with us. To customize the information you want to receive from us, simply sign on and select the specific information you wish to receive. To cancel our free emails, you can unclick the "I would like to receive emails about special promotions" box each time you make a purchase. You can also respond to any promotional email we send you, placing "REMOVE" in your subject line to discontinue email service. You can also send an email to customersupport@citysports.com or call us toll-free at1-877-262-8980 and inform us that you want to unsubscribe to our email list. 
+From time to time, we will contact you about sales, special offers and new site features if you agreed to be included in our email lists when you completed a purchase transaction with us. To customize the information you want to receive from us, simply sign on and select the specific information you wish to receive. To cancel our free emails, you can unclick the "I would like to receive emails about special promotions" box each time you make a purchase. You can also respond to any promotional email we send you, placing "REMOVE" in your subject line to discontinue email service. You can also send an email to [customersupport@citysports.com](mailto:customersupport@citysports.com?%20subject=Privacy%20Policy%20Questions) or call us toll-free at1-877-262-8980 and inform us that you want to unsubscribe to our email list. 
 
-In addition to being able to call our customer service department, you may also email us at customersupport@citysports.com. When you email us, your emails are stored within our system so that we may refer to previous emails from you as needed so that we may properly address your questions and concerns. Except as provided in this privacy policy, the information you provide to our customer service department is not shared with anyone without your consent.
+In addition to being able to call our customer service department, you may also email us at [customersupport@citysports.com](mailto:customersupport@citysports.com?%20subject=Privacy%20Policy%20Questions). When you email us, your emails are stored within our system so that we may refer to previous emails from you as needed so that we may properly address your questions and concerns. Except as provided in this privacy policy, the information you provide to our customer service department is not shared with anyone without your consent.
 
 **  Entering contests/sweepstakes**
 
 Whenever we run a contest or sweepstakes relating to our site, it will be accompanied with the rules of the contest/sweepstakes. The rules for each contest/sweepstakes will also detail how the information gathered from you for entry into the contest/sweepstakes will be used. You will find the rules for each contest/sweepstakes by clicking the "rules" link accompanying each contest/sweepstakes. Additionally, we will post if this information will be shared with anyone in addition to those persons and entities provided for in this Privacy Policy, such as a third party sponsoring or managing the contest/sweepstakes. 
 
-We may also contact you with promotional offers if you have entered one of our contests or sweepstakes. If you choose not to receive this free service when you enter a contest or sweepstakes, it will not affect your chances of winning. You can also opt out of this free service by unclicking the "I would like to receive emails about special promotions" box associated with each contest or sweepstakes, replying to any email and placing "REMOVE" in your subject line or notifying us that you want to unsubscribe to our free email services via email customersupport@citysports.com or telephone 1-877-262-8980.
+We may also contact you with promotional offers if you have entered one of our contests or sweepstakes. If you choose not to receive this free service when you enter a contest or sweepstakes, it will not affect your chances of winning. You can also opt out of this free service by unclicking the "I would like to receive emails about special promotions" box associated with each contest or sweepstakes, replying to any email and placing "REMOVE" in your subject line or notifying us that you want to unsubscribe to our free email services via email [customersupport@citysports.com](mailto:customersupport@citysports.com?%20subject=Privacy%20Policy%20Questions) or telephone 1-877-262-8980.
 
 Users of this web site have the opportunity to e-mail product pages to their friends. In order to accomplish this, you must provide to us your friend's names and e-mails addresses. We only use your friend's information to send them the product pages you requested that they receive. 
 
@@ -95,4 +95,4 @@ If we are going to use your personally identifiable information in a manner diff
 
 **  Questions about our Policies**
 
-If you have any questions regarding your privacy or any of our policies, please contact our Customer Service Department by email at customersupport@citysports.com or by phone at 1-877-262-8980.
+If you have any questions regarding your privacy or any of our policies, please contact our Customer Service Department by email at [customersupport@citysports.com](mailto:customersupport@citysports.com?%20subject=Privacy%20Policy%20Questions) or by phone at 1-877-262-8980.
