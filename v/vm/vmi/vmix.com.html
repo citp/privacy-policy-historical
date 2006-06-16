@@ -1,0 +1,519 @@
+<!--The following is the downloaded HTML source of the vmix.com privacy policy that was archived on 2006-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060616075758id_/http%3A//www.vmix.com/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="description" content="vMix is a free, video sharing community. Anyone from amateurs to professionals can share their blogs, vlogs, films, home movies, animations or personal stories online.">
+<meta name="keywords" content="video, sharing, community, uploads">
+<meta name="reply-to" content="">
+<meta name="copyright" content="Copyright vMix Media Inc., 2005">
+<meta name="rating" content="General">
+<title>vMix - Privacy Statement</title>
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="js/xmlhelpers.js"></script><script language="javascript" src="js/texthelpers.js"></script>
+</head>
+<body>
+<script language="javascript">
+var sajax_debug_mode = false;
+var sajax_request_type = "POST";
+		
+function sajax_debug(text) {
+if (sajax_debug_mode)
+	alert("RSD: " + text)
+}
+
+function sajax_init_object() {
+	sajax_debug("sajax_init_object() called..")
+		
+	var A;
+	try {
+		A=new ActiveXObject("Msxml2.XMLHTTP");
+	} catch (e) {
+		try {
+			A=new ActiveXObject("Microsoft.XMLHTTP");
+		} catch (oc) {
+			A=null;
+		}
+	}
+
+	if(!A && typeof XMLHttpRequest != "undefined")
+		A = new XMLHttpRequest();
+
+
+	if (!A) {
+		sajax_debug("Could not create connection object.");
+	}
+		return A;
+	}
+
+	function sajax_do_call(func_name, args) {
+		var i, x, n;
+		var uri;
+		var post_data;
+		uri = "/privacy.php";
+		if (sajax_request_type == "GET") {
+		if (uri.indexOf("?") == -1)
+		uri = uri + "?rs=" + escape(func_name);
+		else
+		uri = uri + "&rs=" + escape(func_name);
+		for (i = 0; i < args.length-1; i++)
+		uri = uri + "&rsargs[]=" + escape(args[i]);
+		uri = uri + "&rsrnd=" + new Date().getTime();
+		post_data = null;
+		} else {
+		post_data = "rs=" + escape(func_name);
+		for (i = 0; i < args.length-1; i++)
+		post_data = post_data + "&rsargs[]=" + escape(args[i]);
+		}
+		
+		x = sajax_init_object();
+		x.open(sajax_request_type, uri, true);
+		if (sajax_request_type == "POST") {
+			x.setRequestHeader("Method", "POST " + uri + " HTTP/1.1");
+			x.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+		}
+		//x.overrideMimeType("text/xml");
+		x.onreadystatechange = function() {
+			if (x.readyState != 4) { return };
+			sajax_debug("received " + x.responseText);
+		
+			var status;
+			var data;
+			status = x.responseText.charAt(0);
+			data = x.responseText.substring(2);
+			if (status == "-")
+				alert("Error: " + data);
+			else
+				//args[args.length-1](data);
+				args[args.length-1](x.responseXML);
+		}
+
+		x.send(post_data);
+		sajax_debug(func_name + " uri = " + uri + "/post = " + post_data);
+		sajax_debug(func_name + " waiting..");
+		delete x;
+		}
+function x_get_more() {
+sajax_do_call("get_more",
+x_get_more.arguments);
+}</script><div id="hdr1">
+<div id="hdr1_banner">
+<script language="JavaScript" type="text/javascript" src="http://www.vmix.com/admin/ads/adx.js"></script><script language="JavaScript" type="text/javascript">
+
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://www.vmix.com/admin/ads/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:3");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+
+</script><script language="JavaScript" type="text/javascript" src="http://www.vmix.com/admin/ads/adjs.php?n=165547670&amp;what=zone:3&amp;exclude=,"></script><noscript><a href="http://www.vmix.com/admin/ads/adclick.php?n=a54df323" target="_blank"><img src="http://www.vmix.com/admin/ads/adview.php?what=zone:3&amp;n=a54df323" border="0" alt=""></a></noscript>
+</div>
+<div id="hdr1_ad"><a href="signup.php"><img src="images/ads/upperRightAd.gif" border="0"></a></div>
+<div id="hdr1_img"><img src="images/hdr1_img.gif" border="0"></div>
+</div>
+<div id="hdr2">
+<div id="hdr2_logo"><a href="index.php"><img src="images/hdr2_logo.gif" border="0"></a></div>
+<form action="http://www.vmix.com/login.php" method="post" style="margin:0px" name="loginForm">
+<div style="position:absolute; left:539px; top:13px;" class="white_bold">username:</div>
+<div style="position:absolute; left:612px; top:10px;"><input class="form_log_in" type="text" name="email" value=""></div>
+<div style="position:absolute; left:730px; top:13px;" class="white_bold">password:</div>
+<div style="position:absolute; left:800px; top:10px;"><input class="form_log_in" type="password" name="pass"></div>
+<div style="position:absolute; left:906px; top:10px;">
+<input type="hidden" name="dest" value="/privacy.php"><input type="image" src="images/btn_sign_in.gif" border="0">
+</div>
+</form>
+</div>
+<div id="container">
+<div id="content">
+<script type="text/javascript" src="js/swapimage.js"></script><script>
+window.onload = function() {
+  MM_preloadImages('images/nav_rollover_1.gif','images/nav_rollover_2.gif','images/nav_rollover_3.gif','images/nav_rollover_4.gif');
+}
+
+function goto_search () {
+  	var form_name = document.getElementById('searchForm');
+		var query = form_name.query.value;
+		if (query != '') {
+
+		  	var url = 'search.php?query='+query;
+			window.location = url;
+		}	
+}
+
+</script><div id="nav">
+<a href="index.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('nav1','','images/nav_rollover_1.gif',1);"><img src="images/nav_1.gif" name="nav1" border="0"></a><a href="contests.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('nav2','','images/nav_rollover_2.gif',1);"><img src="images/nav_2.gif" name="nav2" border="0"></a><a href="slideshows.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('nav3','','images/nav_rollover_3.gif',1);"><img src="images/nav_3.gif" name="nav3" border="0"></a><a href="members.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('nav4','','images/nav_rollover_4.gif',1);"><img src="images/nav_4.gif" name="nav4" border="0"></a><div style="height:30px; float:right; width:250px; position:relative; "><form action="#" style="padding:0px; margin:0px; position:relative;" id="searchForm" onsubmit="goto_search(); return false;">
+<input type="text" name="query" style="border:1px solid #a6a6a6; font-size:11px; font-family:verdana,arial; color:#000; width:160px; height:14px; margin:0px; padding:0px; position:absolute; top:7px; left:0px;"><input type="image" name="" src="images/btn_search.gif" style="border:0px; padding:0px; margin:0px; position:absolute; top:7px; left:180px;" border="0"><br>
+</form></div>
+</div>
+<div id="subnav">
+<span class="subnav"><a href="index.php" id="nowplaying">Now Playing</a></span><span class="subnav"><a href="nowplaying-featured.php" id="featured">Featured Videos</a></span><span class="subnav"><a href="nowplaying-popular.php" id="popular">Most Popular</a></span><span class="subnav"><a href="nowplaying-sort.php" id="allvideos">Most Recent</a></span><span class="subnav"><a href="nowplaying-genres.php" id="genres">Genres</a></span>
+</div>
+<script>
+if(document.getElementById('')){
+document.getElementById('').className = 'navLinkOn';
+}
+</script><div class="padded_box">
+<h1>Effective October 28, 2005:</h1>
+<h1>About vMix.com:</h1>
+<p>vMix.com is an online service that allows our members to
+share their personal videos or videos for which they have cleared all copyright
+information.</p>
+<p>Members also set up unique personal profiles that can be
+linked together through networks of friends. vMix members can view each others'
+profiles, communicate with friends and meet new friends on the service, share
+photos, post journals and comments, and describe their interests. To enrich our
+members' experience, we request and display some personal information to other
+members and visitors, which allows our users to identify each other and expand
+their network of friends. vMix members can change their profile information at
+any time and can control how other members and the service communicates with
+them.</p>
+<p>vMix.com cares deeply about online privacy If you have any
+questions concerning this privacy policy, please email us at <a href="mailto:privacy@vmix.com">privacy@vMix.com</a>.</p>
+<h1>Information Collection and Use by vMix.com</h1>
+<p>vMix.com collects user submitted information such as name,
+email address, and age to authenticate users and to send notifications to those
+users relating to the vMix.com service. vMix.com also collects other profile
+data including but not limited to: personal interests, gender, age, education
+and occupation in order to assist users in finding and communicating with each
+other.</p>
+<p>vMix.com also logs non-personally-identifiable information
+including IP address, profile information, aggregate user data, and browser
+type, from users and visitors to the site This data is used to manage the
+website, track usage and improve the website services. This
+non-personally-identifiable information may be shared with third-parties to
+provide more relevant services and advertisements to members. User IP addresses
+are recorded for security and monitoring purposes</p>
+<p>User Profile information including members' pictures and
+first names are displayed to people in order to facilitate user interaction in
+the vMix.com social networking community. Email addresses are used for the
+purposes of inviting new friends to join vMix, to add users to members'
+friends' networks, and to send notifications related to the service. With the
+exception of inviting friends, adding friends, and notifications, a user's
+email address is not shared or displayed to people within a user's personal
+network Users within a personal network communicate on vMix.com with each other
+through the vMix.com service, without disclosing their email addresses. Users'
+may limit access to their full names. To facilitate searching and finding
+friends and acquaintances on the service, vMix.com allows users to search for
+other members using first and last name, email address, and schools and/or
+companies where users may have attended or worked.</p>
+<p>We may also use a user's email address to send updates, a
+newsletter or news regarding the service. Users may choose not to receive email
+of this type by changing their "notification" setting to "Do not
+send me notification emails" in the user "Account Settings"</p>
+<p>From time to time, vMix.com or a partner, may sponsor a
+promotion, sweepstake or contest on vMix.com. Users may be asked to provide
+personal information including name, email address or home address or to answer
+questions in order to participate. We may transfer personal information to
+certain ad partners that you have explicitly requested to receive information
+from. It will be clear at the point of collection who is collecting the
+personal information and whose privacy statement will apply.</p>
+<h1>Invitations and Other Communications to Non-members</h1>
+<p>vMix members can invite friends to join the service by
+sending invitation emails via our automated invitation system. vMix.com stores
+the email addresses that members provide so that the respondents may be added
+to the friend's list of the member sending the invitations, and also to send
+reminders of the invitations vMix.com does not sell these email addresses or
+use them to send any other communication besides invitations, invitation
+reminders (up to three (3) per email address). Recipients of invitations from
+vMix.com may contact vMix.com to request the removal of their information from
+our database.</p>
+<p>vMix members may also store email addresses of people they
+know in their internal vMix address book and may also choose to send
+invitations and other communications to those addresses.</p>
+<h1>Use of Cookies </h1>
+<p>vMix.com uses cookies to store visitors' preferences and
+to record session information, for purposes including ensuring that visitors
+are not repeatedly offered the same advertisements and to customize newsletter,
+advertising, and Web page content based on browser type and user profile
+information. We do not link the information we store in cookies to any
+personally identifiable information you submit while on our site. You may be
+able to configure your browser to accept or reject all or some cookies, or
+notify you when a cookie is set -- each browser is different, so check the
+"Help" menu of your browser to learn how to change your cookie
+preferences -- however, you must enable cookies from vMix.com in order to use
+most functions on the site Please note that vMix allows 3rd party advertisers
+that are presenting advertisements on some of our pages to set and access their
+cookies on your computer. Advertisers' use of cookies is subject to their own
+privacy policies, not the vMix Privacy Policy.</p>
+<h1>Links </h1>
+<p>vMix.com contains links to sites. vMix.com is not
+responsible for the privacy policies and/or practices on other sites. When
+linking to another site a user should read the privacy policy stated on that
+site. Our privacy policy only governs information collected on vMix.com.</p>
+<h1>Chat Rooms, Journals and WebLogs, Message Boards, Classifieds and
+Public Forums</h1>
+<p>Please be aware that whenever you voluntarily post public
+information to Journals, WebLogs, Message Boards, Classifieds or any other
+Public Forums that that information can be accessed by the public and can in
+turn be used by those people to send you unsolicited communications.</p>
+<h1>Correcting/Updating or Removing Information</h1>
+<p>vMix.com users may modify or remove any of their personal
+information at any time by logging into their account and accessing features
+such as Edit Profile and Account Info.</p>
+<h1>Email Choice/Opt-out </h1>
+<p>Members
+who no longer wish to receive updates or notifications may choose not to by
+modifying their member profile.</p>
+<p>By deselecting "Sign up for vMix updates, news, info" in the user profile the
+member will no longer receive updates from vMix.</p>
+<p>Members who do not wish to receive partner e-mails sent by vMix may do so by
+deselecting "vMix partner updates" from their member page. We will never transfer
+their email address without their explicit permission.</p>
+<p>Members may turn off "fan mail" sent by users to their registered e-mail
+address. At that time, all user to user e-mail will be blocked. </p>
+<h1>Third Party Advertising</h1>
+<p>vMix.com
+or one of our Web advertising partners may deliver Ads appearing on this
+Web site to users. Our Web advertising partners may set cookies. These cookies
+allow the ad server to recognize your computer each time they send you an
+online advertisement. In this way, ad servers may compile information about where you, or
+others who are using your computer, saw their advertisements and determine
+which ads are clicked on. This information allows an ad network to deliver
+targeted advertisements that they believe will be of most interest to you. This
+privacy statement covers the use of cookies by vMix.com and does not cover the
+use of cookies by any advertisers.</p>
+<h1>Security </h1>
+<p>vMix.com member accounts are secured by member-created
+passwords vMix.com takes precautions to insure that member account information
+is kept private. We use reasonable measures to protect member information that
+is stored within our database, and we restrict access to member information to
+those employees who need access to perform their job functions, such as our
+customer service personnel and technical staff. Please note that we cannot
+guarantee the security of member account information. Unauthorized entry or
+use, hardware or software failure, and other factors may compromise the
+security of member information at any time For any additional information about
+the security measures we use on vMix.com, please contact us a 
+<a href="mailto:privacy@vmix.com">privacy@vMix.com</a></p>
+<h1>Sharing and Disclosure of Information vMix.com Collects</h1>
+<p>Except as otherwise described in this privacy statement,
+vMix will not disclose personal information to any third party unless we
+believe that disclosure is necessary: (1) to conform to legal requirements or
+to respond to a subpoena, search warrant or other legal process received by
+vMix.com, whether or not a response is required by applicable law; (2) to
+enforce the vMix.com Terms of Use Agreement or to protect our rights; or (3) to
+protect the safety of members of the public and users of the service. vMix
+reserves the right to transfer personal information to a successor in interest
+that acquires rights to that information as a result of the sale of vMix or
+substantially all of its assets to that successor in interest For more
+information see the "Changes in Our Privacy Policy" section below.</p>
+<h1>Changes in Our Privacy Policy </h1>
+<p>From time to time we may make changes to our privacy
+policy If we make changes, we will post them on our site to make users aware of
+what the changes are so users will always be aware of what information we
+collect, how we use it, and when we may disclose it. A User is bound by any
+minor changes to the policy when she or he uses the site after those changes
+have been posted If, however, we are going to use users' personally
+identifiable information in a manner materially different from that stated at
+the time of collection we will notify by posting a notice on our Web site for
+30 days.</p>
+<h1>Contacting the Web Site </h1>
+<p>If you
+have any questions about this privacy statement, the practices of this site, or
+your dealings with this Web site, please contact us at: <a href="mailto:privacy@vmix.com">privacy@vMix.com</a>
+(vMix Media Inc., 12707 High Bluff Drive, Suite 200, San Diego, CA  92130)</p>
+</div>
+</div>
+<div id="side_bar">
+<script language="javascript" src="js/xmlhelpers.js"></script><script language="javascript" src="js/texthelpers.js"></script><script language="javascript">	
+
+
+function get_more(start_row,video_type,artist_id){
+         x_get_more(start_row, video_type, artist_id , get_more_cb); 
+}
+
+function get_more_cb(z) {
+
+	for (i=1; i<=5; i++) {     
+ 	    var j
+ 	    j = i-1;  
+ 	    
+ 	    // get xml data from ajax callback
+		var root = z.getElementsByTagName('more');
+		if (root[j]){
+        var title = getElementTextNS("", "title", root[j], 0);
+        var videoID = getElementTextNS("", "ID", root[j], 0);
+        var thumb = getElementTextNS("", "thumb", root[j], 0);  
+        var artist = getElementTextNS("", "artist", root[j], 0);  
+        var plays = getElementTextNS("", "plays", root[j], 0);  
+		var video_type = getElementTextNS("", "videoType", root[j], 0);    
+        
+        if (video_type == "slideshows") {
+          var page = "viewSlideshow";
+        } else {
+          var page = "viewVideo";
+        }
+          
+        // get thumbnail and info rollover divs
+
+        var div_thumb = document.getElementById('more'+i);
+        
+        // update thumbnails images
+
+		div_thumb.innerHTML = '<a href="'+page+'.php?ID='+videoID+'"><img src="'+thumb+'&y=64&x=86&fill=000000000" border="0"/></a><br/><b>'+title+'</b><br/>by: '+artist+'<br/>'+plays+' plays<br/>';
+		} else {
+		          // get thumbnail and info rollover divs
+         var div_thumb = document.getElementById('more'+i);
+        
+        // update thumbnails images
+		div_thumb.innerHTML = '';
+		}
+	}	  
+}
+	</script><div style="margin:6px;">
+<div style="float:left; width:90px;">
+<div class="small_grey" style="padding:2px; background-color:#000000;"><span id="rightBarTitle">featured</span></div>
+<div id="more1" style="width:86px; background-color:#000000; padding:2px; margin-top:2px; overflow:hidden;" class="small_grey"></div>
+<div id="more2" style="width:86px; background-color:#000000; padding:2px; margin-top:2px; overflow:hidden;" class="small_grey"></div>
+<div id="more3" style="width:86px; background-color:#000000; padding:2px; margin-top:2px; overflow:hidden;" class="small_grey"></div>
+<div id="more4" style="width:86px; background-color:#000000; padding:2px; margin-top:2px; overflow:hidden;" class="small_grey"></div>
+<div id="more5" style="width:86px; background-color:#000000; padding:2px; margin-top:2px; overflow:hidden;" class="small_grey"></div>
+</div>
+<script type="text/javascript">
+		window.onload= function () {
+  			get_more(0,'featured',0);
+		}
+        document.getElementById('rightBarTitle').innerHTML = 'featured';
+	</script><div style="float:right; width:160px; background-color:#000000; padding:2px 2px 1px 2px;">
+<span class="small_grey" style="margin-left:3px; margin-bottom:3px;">advertisement</span><br><script language="JavaScript" type="text/javascript" src="http://www.vmix.com/admin/ads/adx.js"></script><script language="JavaScript" type="text/javascript">
+
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://www.vmix.com/admin/ads/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:5");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+
+</script><script language="JavaScript" type="text/javascript" src="http://www.vmix.com/admin/ads/adjs.php?n=628066747&amp;what=zone:5&amp;exclude=,"></script><noscript><a href="http://www.vmix.com/admin/ads/adclick.php?n=a990ae2e" target="_blank"><img src="http://www.vmix.com/admin/ads/adview.php?what=zone:5&amp;n=a990ae2e" border="0" alt=""></a></noscript>
+</div>
+</div>
+</div>
+</div>
+<div id="footer"><div style="width:730px; text-align:center; font-size:10px;">
+© Copyright 2006 vMix. All rights reserved.<br><a href="aboutUs.php">About Us</a>
+ | 
+<a href="faq.php">FAQ</a>
+ |
+
+<a href="http://www.vmix.com/phpbb">Messageboards</a>
+ |
+<a href="press.php">Press</a>
+ |
+<a href="advertising.php">Advertising</a>
+ |
+<a href="tospage.php">Terms of Use
+</a>
+ | 
+<a href="privacy.php">Privacy Policy</a>
+ |
+<a href="contact.php">Contact Us</a>
+</div></div>
+<script defer="" src="http://server1.opentracker.net/?site=vmix.com"></script><noscript><a href="http://www.opentracker.net" target="_blank"><img src="http://img.opentracker.net/?cmd=nojs&amp;site=vmix.com" alt="website statistics" border="0"></a></noscript>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+_uacct = "UA-98254-2";
+urchinTracker();
+</script><script language="javascript">
+
+function hbxStrip(a) {
+        a = a.split("|").join("");
+        a = a.split("&").join("");
+        a = a.split("'").join("");
+        a = a.split("#").join("");
+        a = a.split("$").join("");
+        a = a.split("%").join("");
+        a = a.split("^").join("");
+        a = a.split("*").join("");
+        a = a.split(":").join("");
+        a = a.split("~").join("");
+        a = a.split(";").join("");
+        a = a.split(" ").join("+");
+        return a;
+}
+
+var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
+var hbx=_hbEvent("pv");hbx.vpc="HBX0200u";hbx.gn="ehg-vmixmediainc.hitbox.com";
+
+
+hbx.pn = hbxStrip(document.title);
+
+//BEGIN EDITABLE SECTION
+//CONFIGURATION VARIABLES
+hbx.acct="DM5604084JFB71EN3";//ACCOUNT NUMBER(S)
+//hbx.pn="PUT+PAGE+NAME+HERE";//PAGE NAME(S)
+hbx.mlc="General";//MULTI-LEVEL CONTENT CATEGORY
+hbx.pndef="title";//DEFAULT PAGE NAME
+hbx.ctdef="full";//DEFAULT CONTENT CATEGORY
+
+//OPTIONAL PAGE VARIABLES
+//ACTION SETTINGS
+hbx.fv="";//FORM VALIDATION MINIMUM ELEMENTS OR SUBMIT FUNCTION NAME
+hbx.lt="none";//LINK TRACKING
+hbx.dlf="n";//DOWNLOAD FILTER
+hbx.dft="n";//DOWNLOAD FILE NAMING
+hbx.elf="n";//EXIT LINK FILTER
+
+//SEGMENTS AND FUNNELS
+hbx.seg="";//VISITOR SEGMENTATION
+hbx.fnl="";//FUNNELS
+
+//CAMPAIGNS
+hbx.cmp="";//CAMPAIGN ID
+hbx.cmpn="";//CAMPAIGN ID IN QUERY
+hbx.dcmp="";//DYNAMIC CAMPAIGN ID
+hbx.dcmpn="";//DYNAMIC CAMPAIGN ID IN QUERY
+hbx.dcmpe="";//DYNAMIC CAMPAIGN EXPIRATION
+hbx.dcmpre="";//DYNAMIC CAMPAIGN RESPONSE EXPIRATION
+hbx.hra="";//RESPONSE ATTRIBUTE
+hbx.hqsr="";//RESPONSE ATTRIBUTE IN REFERRAL QUERY
+hbx.hqsp="";//RESPONSE ATTRIBUTE IN QUERY
+hbx.hlt="";//LEAD TRACKING
+hbx.hla="";//LEAD ATTRIBUTE
+hbx.gp="";//CAMPAIGN GOAL
+hbx.gpn="";//CAMPAIGN GOAL IN QUERY
+hbx.hcn="";//CONVERSION ATTRIBUTE
+hbx.hcv="";//CONVERSION VALUE
+hbx.cp="null";//LEGACY CAMPAIGN
+hbx.cpd="";//CAMPAIGN DOMAIN
+
+//CUSTOM VARIABLES
+hbx.ci="";//CUSTOMER ID
+hbx.hc1="";//CUSTOM 1
+hbx.hc2="";//CUSTOM 2
+hbx.hc3="";//CUSTOM 3
+hbx.hc4="";//CUSTOM 4
+hbx.hrf="";//CUSTOM REFERRER
+hbx.pec="";//ERROR CODES
+
+//INSERT CUSTOM EVENTS
+
+//END EDITABLE SECTION
+
+//REQUIRED SECTION. CHANGE "YOURSERVER" TO VALID LOCATION ON YOUR WEB SERVER (HTTPS IF FROM SECURE SERVER)
+
+</script><script language="javascript1.1" src="http://www.vmix.com/js/hbx.js"></script><script language="JavaScript">
+
+var LSPT="";
+LSPT += "?durl=" + escape(document.URL);
+LSPT += "&hostname=" + location.hostname;
+LSPT += "&url=" + location.pathname;
+LSPT += "&query=" + escape(location.search) + escape(location.hash);
+LSPT += "&referrer=" + escape(document.referrer);
+LSPT += "&browser=" + escape(navigator.appName);
+LSPT += "&version=" + escape(navigator.appVersion);
+LSPT += "&os=" + escape(navigator.platform);
+LSPT += "&xdomain=vmix.com";
+LSPT += "&custid=vmix";
+document.write('<img src=http://'+'content.ipro.com/images/pixel.gif'+LSPT+'height="1" width="1">');
+
+</script><img src="http://content.ipro.com/images/pixel.gif?durl=https%3A//web.archive.org/web/20060616075758id_/http%253A//www.vmix.com/privacy.php&amp;hostname=web.archive.org&amp;url=/web/20060616075758id_/http%3A//www.vmix.com/privacy.php&amp;query=&amp;referrer=&amp;browser=Netscape&amp;version=5.0%20%28X11%3B%20Linux%20x86_64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20HeadlessChrome/69.0.3494.0%20Safari/537.36&amp;os=Linux%20x86_64&amp;xdomain=vmix.com&amp;custid=vmixheight=&quot;1&quot;" width="1"><noscript><img src="http://content.ipro.com/images/pixel?version=nonjava" height="1" width="1"></noscript>
+
+
+</body></html>
