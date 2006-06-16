@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afroporn.biz privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216185338id_/http%3A//www.afroporn.biz/policies/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afroporn.biz privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616064847id_/http%3A//www.afroporn.biz/policies/privacy_policy.htm) for the most accurate reproduction.*
 
 # Afroporn.Biz VHS Video and DVD - Privacy Policy !!
 
