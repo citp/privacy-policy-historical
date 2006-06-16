@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the ralphlauren.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218143830id_/http%3A//www.polo.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Drestrictions%26nav%3Do%23policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ralphlauren.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616030300id_/http%3A//www.polo.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Drestrictions%23policies) for the most accurate reproduction.*
 
 # Ralph Lauren Polo.com Customer Assistance
 
   
-Last modified: August 22, 2005 
+Last modified: April 7, 2006 
 
 **Privacy Policy**
 
@@ -23,7 +23,7 @@ We use customer information in an effort to improve your shopping experience and
 
 **Personal Information Collected Online by Polo.com and at Our Stores**
 
-Personal Information is collected online by us or our service providers (e.g., such as DoubleClick) on our behalf when users voluntarily register with Polo.com to purchase items, receive electronic newsletters, use community and communication services, answer surveys and enter contests and other promotional opportunities provided on Polo.com, when users make a purchase, and when users utilize the "Email to a Friend" feature. We also maintain a record of your product interests and purchases online. We may receive personal usage and demographic information from our Stores and from third parties we work with including, for example, DoubleClick ([www.doubleclick.com](http://www.doubleclick.com/)). For information regarding DoubleClick's privacy policy, click here <http://www.doubleclick.net/us/corporate/privacy/privacy/email/default.asp?asp_object_1>. 
+Personal Information is collected online by us or our service providers (e.g., such as Epsilon Interactive) on our behalf when users voluntarily register with Polo.com to purchase items, receive electronic newsletters, use community and communication services, answer surveys and enter contests and other promotional opportunities provided on Polo.com, when users make a purchase, and when users utilize the "Email to a Friend" feature. We also maintain a record of your product interests and purchases online. We may receive personal usage and demographic information from our Stores and from third parties we work with including, for example, Epsilon Interactive ([www.epsiloninteractive](http://www.epsiloninteractive.com/)). For information regarding Epsilon Interactives' privacy policy, click here <http://www.epsiloninteractive.com/eisite/privacy/privacy.htm>. 
 
 In our Stores, Personal Information is collected from you in a number of ways, including the following: 
 
