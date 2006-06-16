@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connpost.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220063055id_/http%3A//www.connpost.com/portlet/layout/html/privacypolicy/privacypolicy.jsp%3FsiteId%3D96) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connpost.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616211408id_/http%3A//www.connpost.com/portlet/layout/html/privacypolicy/privacypolicy.jsp%3FsiteId%3D96) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -57,6 +57,6 @@ Please include your email address and telephone number where we can reach you. t
 
 If you have any questions, comments or concerns regarding our privacy policy and/or practices, please contact the Privacy Coordinator using the contact information provided below. 
 
-,      
-\--   
+,     
+\--  
 Email: [](mailto:)
