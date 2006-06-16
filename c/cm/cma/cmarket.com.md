@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cmarket.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210062508id_/http%3A//cmarket.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmarket.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616200246id_/http%3A//cmarket.com/privacy.htm) for the most accurate reproduction.*
 
-# cMarket - Privacy Policy
+# cMarket - Online Fundraising Auction Services for Nonprofits
 
 cMarket Privacy Policy
 
