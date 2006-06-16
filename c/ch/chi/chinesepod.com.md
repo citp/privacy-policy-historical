@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the chinesepod.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219212419id_/http%3A//www.chinesepod.com/wp-content/themes/chinesepod/st_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinesepod.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616213439id_/http%3A//www.chinesepod.com/privacy_policy.php) for the most accurate reproduction.*
 
-# ChinesePod.com
-
-## Privacy Policy 
+# Chinese Pod | Learn Mandarin with Free Daily MP3 Podcasts Direct from Shanghai, China
 
 Our Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. 
 
@@ -26,7 +24,7 @@ Similar to other commercial Web sites, our Web site utilizes a standard technolo
 
 **How Do We Use the Information That You Provide to Us?**
 
-Broadly speaking, we use personal information for purposes of administering and expanding our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. You may notify us at any time if you do not wish to receive these offers by emailing us at .
+Broadly speaking, we use personal information for purposes of administering and expanding our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. You may notify us at any time if you do not wish to receive these offers by emailing us at [chinesepod@gmail.com](mailto:chinesepod@gmail.com) .
 
 **What Are Cookies?**
 
@@ -42,4 +40,4 @@ We may enter into alliances, partnerships or other business arrangements with th
 
 **Notice of New Services and Changes**
 
-Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. As our customer, you will be given the opportunity to notify us of your desire not to receive these offers by sending us an email request at .
+Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. As our customer, you will be given the opportunity to notify us of your desire not to receive these offers by sending us an email request at [chinesepod@gmail.com](mailto:chinesepod@gmail.com) .
