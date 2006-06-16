@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dc.gov privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212112418id_/http%3A//dc.gov/privacy.asp%3Fportal_link%3Dfc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dc.gov privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616042204id_/http%3A//dc.gov/privacy.asp%3Fportal_link%3Dfc) for the most accurate reproduction.*
 
 # District of Columbia: Privacy and Security
 
@@ -20,10 +20,10 @@ Please be assured that this site is equipped with security measures to protect t
 
 Protection of Personal Information
 
-Your personal information will not be shared, sold, or transferred to any third party without your prior consent, or unless it is required by law. It is available to District web development employees only for the purpose of maintaining the DC.Gov web portal and improving the site visitor experience. 
+Your individual identifying information will not be shared, sold, or transferred to any third party without your prior consent, or unless it is required by law. It is available to District web development employees only for the purpose of maintaining the DC.Gov web portal and improving the site visitor experience. 
 
 Other Sites
 
 The District of Columbia's privacy policy extends to District government websites only. If you access another organization's website through the www.dc.gov website, you should read that organization's privacy policy to determine its website practices. 
 
-[<< Back to Home](https://web.archive.org/web/20051212112418id_/http%3A//dc.gov/index.asp "back to home")
+[<< Back to Home](https://web.archive.org/web/20060616042204id_/http%3A//dc.gov/index.asp "back to home")
