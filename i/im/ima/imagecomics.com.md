@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the imagecomics.com privacy policy that was archived on 2004-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040625214727id_/http%3A//imagecomics.com/cgi-bin/index.cgi%3Fmain%3Dabout%26sub1%3Dterms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imagecomics.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616031718id_/http%3A//imagecomics.com/termsofservice.php) for the most accurate reproduction.*
 
-# Image Comics > terms
+# Image Comics
 
-  
-**Terms of Service**
+Terms of Service
 
 **Disclaimer and Liability**
 
@@ -51,7 +50,7 @@ Protecting your privacy is a priority at ImageComics.com. Please read our Privac
 
 ImageComics.com cannot and will not prohibit children under 18 from visiting our site. We encourage concerned parents or guardians to peruse ImageComics.com with their children. ImageComics.com does not condone censorship. Comic books and other graphic media, while sometimes intended for mature audiences, should be available for the enjoyment of all. While ImageComics.com makes no claims of compliance with the Children's Online Privacy Protection Act, we do not feel that our content is necessarily inappropriate for minors. If you disagree, or if you find any of our content offensive, feel free to leave ImageComics.com at any time. 
 
-**Privacy Policy**
+Privacy Policy
 
 **Information Collection and Use**
 
@@ -93,13 +92,13 @@ ImageComics.com also sends registered users site and service announcement update
 
 **Correction/Updating Personal Information**
 
-If a registered user's personally identifiable information changes, or if a registered user wants to terminate his or her membership, we will endeavor to provide a way to correct, update, or remove that user's personal information from our database. This can usually be done at the member information page or by e-mailing us at webmaster@imagecomics.com. 
+If a registered user's personally identifiable information changes, or if a registered user wants to terminate his or her membership, we will endeavor to provide a way to correct, update, or remove that user's personal information from our database. This can usually be done at the member information page or by e-mailing us at info@imagecomics.com. 
 
 **Choice/Opt-out**
 
 ImageComics.com's users are given the opportunity to opt-out of having their information used for purposes not directly related to ImageComics.com at the point at which we ask for the information. 
 
-Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by e-mailing us at webmaster@imagecomics.com. 
+Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by e-mailing us at info@imagecomics.com. 
 
 ImageComics.com users are always notified when their information is being collected by outside parties. We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party. 
 
