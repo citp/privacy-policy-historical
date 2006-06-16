@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the devbistro.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231083232id_/http%3A//devbistro.com/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devbistro.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616072719id_/http%3A//www.devbistro.com/privacyPolicy.jsp) for the most accurate reproduction.*
 
-# devBistro | Privacy Policy
+# Privacy Policy
 
 At devbistro.com, protecting your privacy is of utmost importance to us. Our goal is to provide a safe, secure and friendly user experience. Our best efforts are used to ensure your personal information is kept secure and in accordance with the terms outlined in this policy. 
 
