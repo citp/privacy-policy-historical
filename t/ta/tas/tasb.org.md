@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tasb.org privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221064553id_/http%3A//www.tasb.org/copyright/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tasb.org privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616203750id_/http%3A//tasb.org/copyright/privacy.aspx) for the most accurate reproduction.*
 
 # TASB Overview: Privacy Policy
 
@@ -42,9 +42,9 @@ The TASB Web Site contains links to other Web sites. TASB is not responsible for
 
 ### Protection of Information 
 
-Some areas of the TASB Web Site are secured and can only be accessed through the MyTASB log-in. You must have a specific user identifier (user ID) and password to access secured resources through MyTASB from the TASB Web Site. For security reasons, do not share your user ID or password. 
+Some areas of the TASB Web Site are secured and can only be accessed through the myTASB log-in. You must have a specific user identifier (user ID) and password to access secured resources through myTASB from the TASB Web Site. For security reasons, do not share your user ID or password. 
 
-MyTASB protects confidential, personal information from other visitors to the TASB Web Site. MyTASB has security measures in place to protect the loss, misuse, and alteration of information under our control.
+myTASB protects confidential, personal information from other visitors to the TASB Web Site. myTASB has security measures in place to protect the loss, misuse, and alteration of information under our control.
 
 ### Online Purchases 
 
@@ -59,7 +59,7 @@ TASB reserves the right to change this privacy statement at any time. Notificati
 We strive to assure the correctness of member information. If the information we have about you is inaccurate, we will correct the information in a manner as timely as possible. To provide us with corrections, please contact us in any of the following ways: 
 
   * Send an e-mail message with corrections to [webmaster@tasb.org](mailto:webmaster@tasb.org). 
-  * Send mail with corrections to 7703 North Lamar Blvd., Austin, Texas 78752. 
+  * Send mail with corrections to P.O. Box 400, Austin, Texas 78767. 
   * Call us at 512-467-0222. 
 
 
