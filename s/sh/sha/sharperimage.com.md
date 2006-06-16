@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharperimage.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223002634id_/http%3A//www.sharperimage.com/us/en/cust_help/cserv_newcustomers_securityandprivacy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharperimage.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616024840id_/http%3A//www.sharperimage.com/us/en/cust_help/cserv_newcustomers_securityandprivacy.jhtml) for the most accurate reproduction.*
 
 # The Sharper Image - Privacy & Security
 
@@ -18,10 +18,13 @@
        · Access/Correction
 
 This is the Website of Sharper Image Corporation  
-Our postal address is:  
-**650 Davis St.  
-San Francisco, CA, 94111**  
-We can be reached via [**care@web.sharperimage.com**](mailto:care@web.sharperimage.com). Or you can reach us by telephone at **1-800-344-5555** , our customer service line, Monday-Friday 6 am to 6 pm PST and Sunday 8 am to 6 pm PST.
+Our postal address is:
+
+**The Sharper Image  
+350 The Embarcadero, Sixth Floor  
+San Francisco, CA, 94105-1218**
+
+We can be reached via [**care@web.sharperimage.com**](mailto:care@web.sharperimage.com). Or you can reach us by telephone at **1-800-344-5555** , our customer service line, Monday-Friday 7 am to 5 pm PST.
 
 Sharperimage.com is committed to protecting your privacy. In order to complete your order or to satisfy your request for information, you will be asked to provide us with certain personal information. We offer 128-bit SSL encryption, which encrypts your personal and credit card information as it is transferred over the Internet. 
 
@@ -65,7 +68,7 @@ We electronically verify each order with the credit company, returning an order 
 > 
 > Once you've registered, you may click on Account Info (at the top of any page) to edit or delete your personal information. All information relating to our customers is stored in a secure environment separate from our Website.
 > 
-> _The Sharper Image contracts with Coremetrics, a service partner, to provide us with data collection, storage and reporting services in order to help us improve our Website and your shopping experience. When you visit our Website, Coremetrics collects, on our behalf, first name and email address (if you provide them) as well as your navigation path through[www.sharperimage.com]() and [www.auction.sharperimage.com](http://auction.sharperimage.com/os/AuctionHome.jsp). Coremetrics is contractually restricted from using your information in any manner, other than in helping us to make our site more useful to our visitors. For more information, including how to opt out, please click here: <http://www.coremetrics.com/info_eluminate2.html>._
+> _The Sharper Image contracts with Coremetrics, a service partner, to provide us with data collection, storage and reporting services in order to help us improve our Website and your shopping experience. When you visit our Website, Coremetrics collects, on our behalf, first name and email address (if you provide them) as well as your navigation path through[www.sharperimage.com]() Coremetrics is contractually restricted from using your information in any manner, other than in helping us to make our site more useful to our visitors. For more information, including how to opt out, please [click here: http://www.coremetrics.com/info_eluminate2.html](http://www.coremetrics.com/info_eluminate2.html)._
 
 **Data Use** (top)
 
@@ -103,13 +106,13 @@ We electronically verify each order with the credit company, returning an order 
 > 
 > Click on "No thanks. I would like to unsubscribe from your email list" to unsubscribe. If you are signed in, your email address will auto populate for you. Otherwise you must enter your email address and sign in to unsubscribe. You will be taken to the email options page where you may click submit to unsubscribe. 
 > 
-> Please allow one week for your changes to take place. If you have any questions or concerns you may also contact us by email at [care@web.sharperimage.com](mailto:care@web.sharperimage.com) or by telephone at 1-800-344-5555, Monday-Friday 6 am to 6 pm PT, Saturday 8 am to 4 pm PT. 
+> Please allow one week for your changes to take place. If you have any questions or concerns you may also contact us by email at [care@web.sharperimage.com](mailto:care@web.sharperimage.com) or by telephone at 1-800-344-5555, Monday-Friday 7 am to 5 pm PT. 
 > 
 > You may also click the unsubscribe link on any special offer email you receive from us and follow the instructions onscreen. 
 
 **"Cookie" Use** (top)
 
-> "Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Our cookies do not contain any personally identifying information, but they do enable us to provide features such as welcoming you back to our site using your name and storing items in your shopping cart between visits. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that. Even without a cookie, you can still use most of the features in our store, including placing items in your shopping cart and purchasing them. 
+> "Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Our cookies do not contain any personally identifying information, but they do enable us to provide features such as welcoming you back to our site using your name and storing items in your shopping cart between visits. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that. In order to add products to your shopping basket and complete a purchase, sharperimage.com requires that your browser accepts cookies. 
 
 **Access/Correction** (top)
 
