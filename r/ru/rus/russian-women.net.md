@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the russian-women.net privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222141137id_/http%3A//www.russian-women.net/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the russian-women.net privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616063056id_/http%3A//www.russian-women.net/privacy.shtml) for the most accurate reproduction.*
 
 # Russian women - Privacy Statement
 
-[14 new brides](http://www.russian-women.net/new_profiles_today.shtml) added Thursday December 22 2005 at 01:15 GMT: [Click here!](http://www.russian-women.net/new_profiles_today_thumbnailed.shtml)   
-[19 previous personals profiles photos](http://www.russian-women.net/updated_photos_today.shtml) updated today. [Click here for thumbs!](http://www.russian-women.net/updated_photos_today_thumbnailed.shtml)   
+[26 new brides](http://www.russian-women.net/new_profiles_today.shtml) added Friday June 16 2006 at 00:13 GMT: [Click here!](http://www.russian-women.net/new_profiles_today_thumbnailed.shtml)   
+[21 previous personals profiles photos](http://www.russian-women.net/updated_photos_today.shtml) updated today. [Click here for thumbs!](http://www.russian-women.net/updated_photos_today_thumbnailed.shtml)   
 [Photos updated last week - list of profiles](http://www.russian-women.net/updated_photos_weekly.shtml)   
 [Photos updated last week - links with thumbs (may be huge page to load!)](http://www.russian-women.net/updated_photos_thumbnailed_weekly.shtml)   
-Currently there are **25684** Russian personals in [**OUR Dating Album**](http://www.russian-women.net/album/).   And **33913** previously listed women are no longer available.   
+Currently there are **25187** Russian personals in [**OUR Dating Album**](http://www.russian-women.net/album/).   And **37006** previously listed women are no longer available.   
   
 
 
