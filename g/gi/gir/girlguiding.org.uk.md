@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlguiding.org.uk privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404082142id_/http%3A//www.girlguiding.org.uk/xq/asp/sID.135/qx/new/about/article.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlguiding.org.uk privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616152621id_/http%3A//www.girlguiding.org.uk/xq/asp/sID.135/qx/new/about/article.asp) for the most accurate reproduction.*
 
 # Girlguiding UK - About Us - Our Privacy Policy
 
@@ -24,7 +24,10 @@ We currently collect information about your computer in order to tailor the web 
   * Access times (the time spent on the Girlguiding UK web site) 
   * Referring domain (the website you were browsing prior to your visit to the Girlguiding UK website) 
 
+
+
 If you register with us, you also provide us with the following personal information: 
+
   * Name 
   * Date of birth 
   * Email address 
@@ -32,6 +35,14 @@ If you register with us, you also provide us with the following personal informa
 
 
 We collect this information in order to identify you on any subsequent visit to the Girlguiding UK website and to allow us to notify you of any important service announcements or significant website updates. If you do not wish to receive any such contact from us, you can choose not to by editing your personal details on the [My Personal Details](https://web.archive.org/new/members/editDetails.asp) page. 
+
+If you take part in our online [forum pilot](https://web.archive.org/forum) between 1 September and 31 October 2005 you will additionally need to provide us with the following personal information so that we may match your details to our offline Adult Membership Database (AMD):
+
+  * Registration number 
+  * Home address and postcode 
+  * Contact telephone, fax and email details 
+
+
 
 If you apply for more details of Guiding activities in your area, we will also request the following information in order to locate your nearest Girlguiding UK representatives: 
 
@@ -54,7 +65,9 @@ The information about your computer detailed above is written to a text log file
 
 The personal information you provide when you register with us is also stored in a secure database on our own web server at Mistral Internet. This information is only accessible to the Web Manager at Girlguiding UK and the server administrator at Mistral Internet. 
 
-The web server is housed in a secure, monitored hosting environment, protected by Mistral Internet from unauthorised access and there is a confidentiality agreement in place between Girlguiding UK and Mistral Internet to ensure the provisions set out in this policy are upheld. 
+The additional personal information you provide when taking part in our online forum pilot is stored both on our web server and in our offline Adult Membership Database (AMD). Information on the AMD is only accessible to specific staff at Girlguiding UK offices who use the AMD for administrative purposes.
+
+The web server is housed in a secure, monitored hosting environment, protected by Mistral Internet from unauthorised access and there is a confidentiality agreement in place between Girlguiding UK and Mistral Internet to ensure the provisions set out in this policy are upheld. The AMD is securely stored in a locked server room at Girlguiding UK Commonwealth Headquarters.
 
 In the case of our online shopping website, your personal information is temporarily stored on a secure area on our server held by Shopcreator Ltd.
 
@@ -154,7 +167,7 @@ We reserve the right to amend this policy at any time in response to your feedba
 
 If you have registered with us and checked the box 'May we contact you', you will receive an email detailing any changes to this policy when they happen. Regardless of whether you are registered, we encourage you to review this policy periodically to ensure you are aware of the information we collect from you.
 
- **This policy was last updated 9 December 2004.**
+ **This policy was last updated 25 August 2005.**
 
 © The Guide Association,  
 17-19 Buckingham Palace Road,  
