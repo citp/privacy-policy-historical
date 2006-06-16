@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dns2go.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212143727id_/http%3A//www.deerfield.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dns2go.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616024657id_/http%3A//www.deerfield.com/corporate/privacy) for the most accurate reproduction.*
 
 # VisNetic Mail Server, Mail Flow, WinRoute Firewall, DNS2Go - Deerfield.com privacy statement from Deerfield.com
 
