@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the student.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219001757id_/http%3A//www.student.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the student.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616152452id_/http%3A//www.student.com/privacy.php) for the most accurate reproduction.*
 
-# Student Center, The Student Center Network, teens, students, teen, student, college students, high school students, StudentCenter
+# Student Center, Student.com, Student Center Network, teens, students, teen, student, college students, high school students, StudentCenter
 
 | _You are here:   _| [SCN](http://www.studentcenter.org/)| | Privacy Policy  
 ---|---|---|---  
