@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alternativeapparel.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231154136id_/http%3A//www.alternativeapparel.com/default.aspx%3Fid%3D21) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alternativeapparel.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616173810id_/http%3A//www.alternativeapparel.com/default.aspx%3Fid%3D21) for the most accurate reproduction.*
 
-# Alternative Apparel
+# Alternative Apparel - Privacy & Security
 
 ### PRIVACY STATEMENT:   
 We do not share data collected on our web-site. It is for internal purposes only. Users may opt-out of receiving future mailings. Send an email to customerinfo@alternativeapparel.com or call us directly at 1-888-481-4287 if you would like to be removed from our mailing list. 
