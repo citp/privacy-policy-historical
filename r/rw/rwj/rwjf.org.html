@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rwjf.org privacy policy that was archived on 2005-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051220123548id_/http%3A//www.rwjf.org/policies/privacy.jhtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rwjf.org privacy policy that was archived on 2006-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060616034208id_/http%3A//www.rwjf.org/policies/privacy.jhtml) for the most accurate reproduction.-->
 
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- InstanceBegin template="/Templates/basic_interior1.dwt.jsp" codeOutsideHTMLIsLocked="false" --><head>
 <meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
@@ -12,69 +12,31 @@
 		@import url(/common/import.css);
 	/* ]]> */
 	</style>
-	<script src="/common/common.js" type="text/javascript" language="javascript"></script>
 	<script language="javascript" src="/common/ypSlideOutMenusC.js" type="text/javascript"></script>
-	<script language="javascript" type="text/javascript">
-		// <![CDATA[
-		//==================== create rollover menus ====================//
-		var OFFSETLEFT = 0;
-		var OFFSETTOP = 0;
-		var LENGTHOFFSET = 0
-		var WIDTH = 172;
-		var MENU6OFFSET = -87;
+    <script src="/common/common.js" type="text/javascript" language="javascript"></script>
+    <script type="text/javascript">
+        var selected = '';
+var url = new String(window.location);
 
-		//========== trap for NS4 ==========//
-		if (document.layers) {
-			OFFSETTOP += 20;
-			LENGTHOFFSET += 20;
-		}
+if (url.atLocation("/about")) selected = 'topnav_aboutus';
+else if (url.atLocation("/portfolios")) selected = 'topnav_interestareas';
+else if (url.atLocation("/applications")) selected = 'topnav_grantapplications';
+else if (url.atLocation("/research")) selected = 'topnav_researchcenter';
+else if (url.atLocation("/publications")) selected = 'topnav_publicationsandresources';
+else if (url.atLocation("/newsroom")) selected = 'topnav_newsroom';
 
-		//========== trap for Win IE ==========//
-		if (document.all && !window.opera) {
-			OFFSETTOP += 1;
-		}
-
-		//========== trap for Win IE5 ==========//
-		if (document.all && !document.fireEvent && document.mimeType && !window.opera) {
-			LENGTHOFFSET += 30;
-		}
-
-		//========== trap for Win IE5x ==========//
-		if (document.all && !document.createComment) {
-			MENU6OFFSET = -85;
-		}
-
-		//========== trap for Mac IE5 ==========//
-		//if (document.all && !document.mimeType) {
-		//	OFFSETTOP += -1;
-		//	LENGTHOFFSET += 20;
-		//}
-
-		//========== trap for Safari ==========//
-		if (navigator.userAgent.toLowerCase().indexOf('safari') != -1) {
-			LENGTHOFFSET += 25;
-		}
-
-		var myMenu1 = new ypSlideOutMenu('menu1', 'down', OFFSETLEFT, OFFSETTOP, WIDTH, 280 + LENGTHOFFSET, 'topnav_grantmakingportfolios');
-		var myMenu2 = new ypSlideOutMenu('menu2', 'down', OFFSETLEFT, OFFSETTOP, WIDTH, 260 + LENGTHOFFSET, 'topnav_grantapplications');
-		var myMenu3 = new ypSlideOutMenu('menu3', 'down', OFFSETLEFT, OFFSETTOP, WIDTH, 320 + LENGTHOFFSET, 'topnav_researchcenter');
-		var myMenu4 = new ypSlideOutMenu('menu4', 'down', OFFSETLEFT, OFFSETTOP, WIDTH, 200 + LENGTHOFFSET, 'topnav_publicationsandresources');
-		var myMenu5 = new ypSlideOutMenu('menu5', 'down', OFFSETLEFT, OFFSETTOP, WIDTH, 210 + LENGTHOFFSET, 'topnav_newsroom');
-		var myMenu6 = new ypSlideOutMenu('menu6', 'down', MENU6OFFSET, OFFSETTOP, WIDTH, 140 + LENGTHOFFSET, 'topnav_aboutus');
-
-        function openiWindow(url,parameters) {
-            //LeftPosition = (screen.width) ? (screen.width-700)/2 : 0;
-            //TopPosition = (screen.height) ? (screen.height-500)/2 : 0;
-            //settings = 'height='+h+',width='+w+',top='+TopPosition+',left='+LeftPosition+',scrollbars='+scroll;
-            win = window.open(url, "interactives", parameters);
-            if(win.window.focus){
-                win.window.focus();
-            }
-        }
-
-
-		// ]]>
-	</script><style type="text/css">#menu1Container { visibility:hidden; left:0px; top:0px; overflow:hidden; z-index:10000; }#menu1Container, #menu1Content { position:absolute; width:172px; height:305px; clip:rect(0 172 305 0); }</style><style type="text/css">#menu2Container { visibility:hidden; left:0px; top:0px; overflow:hidden; z-index:10000; }#menu2Container, #menu2Content { position:absolute; width:172px; height:285px; clip:rect(0 172 285 0); }</style><style type="text/css">#menu3Container { visibility:hidden; left:0px; top:0px; overflow:hidden; z-index:10000; }#menu3Container, #menu3Content { position:absolute; width:172px; height:345px; clip:rect(0 172 345 0); }</style><style type="text/css">#menu4Container { visibility:hidden; left:0px; top:0px; overflow:hidden; z-index:10000; }#menu4Container, #menu4Content { position:absolute; width:172px; height:225px; clip:rect(0 172 225 0); }</style><style type="text/css">#menu5Container { visibility:hidden; left:0px; top:0px; overflow:hidden; z-index:10000; }#menu5Container, #menu5Content { position:absolute; width:172px; height:235px; clip:rect(0 172 235 0); }</style><style type="text/css">#menu6Container { visibility:hidden; left:0px; top:0px; overflow:hidden; z-index:10000; }#menu6Container, #menu6Content { position:absolute; width:172px; height:165px; clip:rect(0 172 165 0); }</style>
+var myMenu1 = new ypSlideOutMenu('menu1', 'down', OFFSETLEFT, OFFSETTOP, WIDTH, 240 + LENGTHOFFSET, 'topnav_aboutus');
+var myMenu2 = new ypSlideOutMenu('menu2', 'down', OFFSETLEFT, OFFSETTOP, WIDTH, 330 + LENGTHOFFSET, 'topnav_interestareas');
+var myMenu3 = new ypSlideOutMenu('menu3', 'down', OFFSETLEFT, OFFSETTOP, WIDTH, 340 + LENGTHOFFSET, 'topnav_grantapplications');
+var myMenu4 = new ypSlideOutMenu('menu4', 'down', OFFSETLEFT, OFFSETTOP, WIDTH, 390 + LENGTHOFFSET, 'topnav_researchcenter');
+var myMenu5 = new ypSlideOutMenu('menu5', 'down', OFFSETLEFT, OFFSETTOP, WIDTH, 240 + LENGTHOFFSET, 'topnav_publicationsandresources');
+var myMenu6 = new ypSlideOutMenu('menu6', 'down', MENU6OFFSET, OFFSETTOP, WIDTH, 240 + LENGTHOFFSET, 'topnav_newsroom');
+    </script>
+    <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+    <script type="text/javascript">
+    _uacct = "UA-167318-3";
+    urchinTracker();
+    </script>
 <!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
 </head>
 <body>
@@ -83,45 +45,49 @@
 	<table border="0" cellpadding="0" cellspacing="0" width="778" align="center">
 	<tbody><tr>
 		<td class="borderLeft"><img src="/images/common/spacer.gif" width="13" height="1" alt="" title=""></td>
-		<td width="100%"><a href="/"><img src="/images/common/logo_rwjf.gif" alt="Robert Wood Johnson Foundation" width="149" height="80" border="0"></a></td>
-		<td width="100%" align="center" valign="bottom"><img src="/images/common/header_tagline.gif" alt="" width="274" height="49" border="0" hspace="50"></td>
+		<td><a href="/"><img src="/images/common/logo_rwjf.gif" alt="Robert Wood Johnson Foundation" width="229" height="80" border="0"></a></td>
+		<td width="100%" align="right" valign="bottom"><img src="/images/common/header_tagline.gif" alt="" width="301" height="49" border="0"></td>
 		<td align="right" height="41" valign="top" nowrap="nowrap">
-			<p><a href="/">Home</a>&nbsp;&nbsp;&nbsp;<a href="/services/">E-mail Services</a>&nbsp;&nbsp;&nbsp;<a href="/global/contactus.jsp">Contact Us</a></p>
-			<form name="searchForm" action="/search/allresults.jsp">
-            <input type="hidden" name="behaviorType" value="1">
-            <input type="hidden" name="omitCommon" value="true">
-            <input type="text" class="search" name="query"><br>
-			<a href="javascript:document.searchForm.submit();" onmouseover="rollover('btn_search', true)" onmouseout="rollover('btn_search', false)"><img src="/images/common/btn_search_off.gif" name="btn_search" border="0" alt=""></a></form>
-		</td>
+			<p><a href="/">Home</a>&nbsp;&nbsp;&nbsp;<a href="/services/">E-mail Services</a>&nbsp;&nbsp;&nbsp;<a href="/global/contactus.jsp">Contact</a></p>
+            <form class="search" name="searchForm" action="/search/gsa/search.jsp" method="get"><input type="hidden" name="output" value="xml_no_dtd"><input type="hidden" name="client" value="default_frontend"><input type="hidden" name="getfields" value="*">
+                            <input type="hidden" name="filter" value="0">
+                            <input type="hidden" name="stylesheet" value="rwjf.xslt">
+                            <input type="hidden" name="doProcess" value="true">
+                <input type="hidden" name="entireSite" value="default_collection">
+
+            <input type="text" size="12" name="q" onfocus="javascript:if (this.value == 'Search') this.value = '';" onblur="javascript: if (this.value == '') this.value = 'Search'">&nbsp;<a href="javascript:document.searchForm.submit();" onmouseover="rollover('btn_search', true)" onmouseout="rollover('btn_search', false)"><img src="/images/common/btn_search_off.gif" name="btn_search" border="0" alt="" width="13" height="13" align="top" vspace="2"></a></form>
+        </td>
 		<td><img src="/images/common/spacer.gif" alt="" width="9" height="1"></td>
 		<td class="borderRight"><img src="/images/common/spacer.gif" width="13" height="1" alt="" title=""></td>
 	</tr>
 	</tbody></table>
-</div>
-  <div id="topnav">
+</div>           
+  <!--googleoff: all--><div id="topnav">
 	<table border="0" cellpadding="0" cellspacing="0" width="778" align="center">
 	<tbody><tr>
 		<td class="borderLeft"><img src="/images/common/spacer.gif" width="13" height="1" alt="" title=""></td>
-		<td><a href="/portfolios/" onmouseover="ypSlideOutMenu.showMenu('menu1', this)" onmouseout="ypSlideOutMenu.hideMenu('menu1')"><img src="/images/common/topnav_grantmakingportfolios_off.gif" alt="Grantmaking portfolios" name="topnav_grantmakingportfolios" width="154" height="25" border="0"></a></td>
+		<td><a href="/about" onmouseover="ypSlideOutMenu.showMenu('menu1', this)" onmouseout="ypSlideOutMenu.hideMenu('menu1')"><img src="/images/common/topnav_aboutus_off.gif" alt="About Us" name="topnav_aboutus" width="85" height="25" border="0"></a></td>
 		<td bgcolor="#8D837C"><img src="/images/common/spacer.gif" alt="" width="1" height="1"></td>
-		<td><a href="/applications/" onmouseover="ypSlideOutMenu.showMenu('menu2', this);" onmouseout="ypSlideOutMenu.hideMenu('menu2');"><img src="/images/common/topnav_grantapplications_off.gif" alt="Grant Applications" name="topnav_grantapplications" width="135" height="25" border="0"></a></td>
+		<td><a href="/portfolios" onmouseover="ypSlideOutMenu.showMenu('menu2', this)" onmouseout="ypSlideOutMenu.hideMenu('menu2')"><img src="/images/common/topnav_interestareas_off.gif" alt="Interest Areas" name="topnav_interestareas" width="118" height="25" border="0"></a></td>
 		<td bgcolor="#8D837C"><img src="/images/common/spacer.gif" alt="" width="1" height="1"></td>
-		<td><a href="/research" onmouseover="ypSlideOutMenu.showMenu('menu3', this)" onmouseout="ypSlideOutMenu.hideMenu('menu3')"><img src="/images/common/topnav_researchcenter_off.gif" alt="Research Center" name="topnav_researchcenter" width="119" height="25" border="0"></a></td>
+		<td><a href="/applications" onmouseover="ypSlideOutMenu.showMenu('menu3', this);" onmouseout="ypSlideOutMenu.hideMenu('menu3');"><img src="/images/common/topnav_grantapplications_off.gif" alt="Grant Applications" name="topnav_grantapplications" width="143" height="25" border="0"></a></td>
 		<td bgcolor="#8D837C"><img src="/images/common/spacer.gif" alt="" width="1" height="1"></td>
-		<td><a href="/publications/" onmouseover="ypSlideOutMenu.showMenu('menu4', this)" onmouseout="ypSlideOutMenu.hideMenu('menu4')"><img src="/images/common/topnav_publicationsandresources_off.gif" alt="Publications &amp; Resources" name="topnav_publicationsandresources" width="167" height="25" border="0"></a></td>
+		<td><a href="/research" onmouseover="ypSlideOutMenu.showMenu('menu4', this)" onmouseout="ypSlideOutMenu.hideMenu('menu4')"><img src="/images/common/topnav_researchcenter_off.gif" alt="Research Center" name="topnav_researchcenter" width="134" height="25" border="0"></a></td>
 		<td bgcolor="#8D837C"><img src="/images/common/spacer.gif" alt="" width="1" height="1"></td>
-		<td><a href="/newsroom/" onmouseover="ypSlideOutMenu.showMenu('menu5', this)" onmouseout="ypSlideOutMenu.hideMenu('menu5')"><img src="/images/common/topnav_newsroom_off.gif" alt="Newsroom" name="topnav_newsroom" width="87" height="25" border="0"></a></td>
+		<td><a href="/publications" onmouseover="ypSlideOutMenu.showMenu('menu5', this)" onmouseout="ypSlideOutMenu.hideMenu('menu5')"><img src="/images/common/topnav_publicationsandresources_off.gif" alt="Publications &amp; Resources" name="topnav_publicationsandresources" width="181" height="25" border="0"></a></td>
 		<td bgcolor="#8D837C"><img src="/images/common/spacer.gif" alt="" width="1" height="1"></td>
-		<td><a href="/about" onmouseover="ypSlideOutMenu.showMenu('menu6', this)" onmouseout="ypSlideOutMenu.hideMenu('menu6')"><img src="/images/common/topnav_aboutus_off.gif" alt="About Us" name="topnav_aboutus" width="85" height="25" border="0"></a></td>
+		<td><a href="/newsroom" onmouseover="ypSlideOutMenu.showMenu('menu6', this)" onmouseout="ypSlideOutMenu.hideMenu('menu6')"><img src="/images/common/topnav_newsroom_off.gif" alt="Newsroom" name="topnav_newsroom" width="86" height="25" border="0"></a></td>
 		<td class="borderRight"><img src="/images/common/spacer.gif" width="13" height="1" alt="" title=""></td>
-	</tr>
+	</tr>       
 	</tbody></table>
-</div>
+</div><!--googleon: all-->
+
+
   <div id="main">
     <table border="0" cellpadding="0" cellspacing="0" width="778" align="center">
       <tbody><tr valign="top">
         <td class="borderLeft"><img src="/images/common/spacer.gif" width="13" height="1" alt="" title=""></td>
-        <td bgcolor="#FFFFFF">			<div id="sidebar">
+        <td bgcolor="#FFFFFF">			<!--googleoff: all--><div id="sidebar">
 				
 
 
@@ -163,7 +129,7 @@
 					</table>
 				</div>-->
 				<div style="height:100px"><img src="/images/common/spacer.gif" width="1" height="100" alt="" title=""></div>	<!-- FIXME: extra space in sidenav - not needed for final template -->
-			</div>
+			</div><!--googleon: all-->
 
         </td>
         <td class="content" width="100%">          <div id="content">
@@ -424,7 +390,7 @@
       </tr>
     </tbody></table>
   </div>
-  <div id="footer">
+  <!--googleoff: all--><div id="footer">
 	<table border="0" cellpadding="0" cellspacing="0" width="778" align="center">
 	<tbody><tr>
 		<td class="borderLeft"><img src="/images/common/spacer.gif" width="13" height="1" alt="" title=""></td>
@@ -435,10 +401,10 @@
 	<tr>
 		<td class="borderLeft"><br class="spacer"></td>
 		<td height="50" class="bottom" width="50%">
-			<p>© RWJF 2005<br>
-			P.O. Box 2316 College Road East and Route 1<br>
-			Princeton, NJ 08543<br>
-            (888) 631-9989</p>
+			<p>© RWJF 2006<br>
+			<a href="http://www.rwjf.org/about/office.jhtml">P.O. Box 2316 College Road East and Route 1<br>
+			Princeton, NJ 08543</a><br>
+            (888) 631-9989 <a href="http://www.rwjf.org/about/office.jhtml">Directions</a></p>
 		</td>
 		<td class="bottom" width="50%" align="right">
 			<p><a href="/global/contactus.jsp">Contact Us</a><br>
@@ -454,15 +420,44 @@
 		<td><img src="/images/common/border_bottom_right.gif" width="13" height="13" alt="" title=""></td>
 	</tr>
 	</tbody></table>
+</div><!--googleon: all-->
 </div>
+
+
+
+<!--googleoff: all-->
+
+<div id="menu1Container">
+    <div id="menu1Content" class="menuContent">
+    <dl class="nav">
+	<dd>
+	<dl>
+	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="ab_nav_0"><a href="/about/mission.jhtml" onmouseover="rolloverNav('ab_nav_0', true)" onmouseout="rolloverNav('ab_nav_0', false)">Our Mission</a></dd>
+	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="ab_nav_1"><a href="/about/founder.jhtml" onmouseover="rolloverNav('ab_nav_1', true)" onmouseout="rolloverNav('ab_nav_1', false)">Our Founder</a></dd>
+	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="ab_nav_2"><a href="/about/distribution.jhtml" onmouseover="rolloverNav('ab_nav_2', true)" onmouseout="rolloverNav('ab_nav_2', false)">Distribution of Funds</a></dd>
+	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="ab_nav_3"><a href="/about/statistical.jhtml" onmouseover="rolloverNav('ab_nav_3', true)" onmouseout="rolloverNav('ab_nav_3', false)">Statistical Highlights</a></dd>
+	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="ab_nav_4"><a href="/about/president/index.jsp" onmouseover="rolloverNav('ab_nav_4', true)" onmouseout="rolloverNav('ab_nav_4', false)">President's Corner</a></dd>
+
+	<dd>
+	<dl>
+	</dl>
+	</dd>	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="ab_nav_5"><a href="/about/leadership.jsp" onmouseover="rolloverNav('ab_nav_5', true)" onmouseout="rolloverNav('ab_nav_5', false)">Board of Trustees</a></dd>
+	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="ab_nav_6"><a href="/about/staff.jsp" onmouseover="rolloverNav('ab_nav_6', true)" onmouseout="rolloverNav('ab_nav_6', false)">RWJF Staff</a></dd>
+	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="ab_nav_7"><a href="/about/office.jhtml" onmouseover="rolloverNav('ab_nav_7', true)" onmouseout="rolloverNav('ab_nav_7', false)">Our Office</a></dd>
+
+	<dd>
+	<dl>
+	</dl>
+	</dd>	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="ab_nav_8"><a href="/about/logo.jhtml" onmouseover="rolloverNav('ab_nav_8', true)" onmouseout="rolloverNav('ab_nav_8', false)">Our New Logo</a></dd>
+	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="ab_nav_9"><a href="/about/joblisting.jsp" onmouseover="rolloverNav('ab_nav_9', true)" onmouseout="rolloverNav('ab_nav_9', false)">Job Opportunities</a></dd>
+	</dl>
+	</dd>
+    </dl>
+    </div>
 </div>
 
-
-
-
-
-<div id="menu1Container" style="visibility: hidden;">
-    <div id="menu1Content" class="menuContent" style="top: -305px;">
+<div id="menu2Container">
+    <div id="menu2Content" class="menuContent">
     <dl class="nav">
 	<dd>
 	<dl>
@@ -487,34 +482,34 @@
     </div>
 </div>
 
-<div id="menu2Container" style="visibility: hidden;">
-    <div id="menu2Content" class="menuContent" style="top: -285px;">
+<div id="menu3Container">
+    <div id="menu3Content" class="menuContent">
     <dl class="nav">
 	<dd>
 	<dl>
-	<dt class="top">Overview</dt>	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="ap_nav_0"><a href="/applications/interestareas.jhtml" onmouseover="rolloverNav('ap_nav_0', true)" onmouseout="rolloverNav('ap_nav_0', false)">Interest Area Overview</a></dd>
-	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="ap_nav_1"><a href="/applications/projects.jhtml" onmouseover="rolloverNav('ap_nav_1', true)" onmouseout="rolloverNav('ap_nav_1', false)">Types of Projects</a></dd>
-	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="ap_nav_2"><a href="/applications/eligibility.jhtml" onmouseover="rolloverNav('ap_nav_2', true)" onmouseout="rolloverNav('ap_nav_2', false)">Eligibility</a></dd>
-	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="ap_nav_3"><a href="/applications/faqlist.jsp" onmouseover="rolloverNav('ap_nav_3', true)" onmouseout="rolloverNav('ap_nav_3', false)">Grant Applicant FAQs</a></dd>
-	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="ap_nav_4"><a href="/applications/responsibilities.jhtml" onmouseover="rolloverNav('ap_nav_4', true)" onmouseout="rolloverNav('ap_nav_4', false)">Grantee Responsibilities</a></dd>
-	<dt>National Program Grants</dt>	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="ap_nav_5"><a href="/applications/program/overview.jhtml" onmouseover="rolloverNav('ap_nav_5', true)" onmouseout="rolloverNav('ap_nav_5', false)">Overview</a></dd>
-	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="ap_nav_6"><a href="/applications/program/npooverview.jsp" onmouseover="rolloverNav('ap_nav_6', true)" onmouseout="rolloverNav('ap_nav_6', false)">National Program Offices</a></dd>
-	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="ap_nav_7"><a href="/applications/program/cfplist.jsp" onmouseover="rolloverNav('ap_nav_7', true)" onmouseout="rolloverNav('ap_nav_7', false)">Calls for Proposals</a></dd>
-	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="ap_nav_8"><a href="/applications/program/process.jhtml" onmouseover="rolloverNav('ap_nav_8', true)" onmouseout="rolloverNav('ap_nav_8', false)">Application Process</a></dd>
-	<dt>Other Grants</dt>	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="ap_nav_9"><a href="/applications/independent/overview.jhtml" onmouseover="rolloverNav('ap_nav_9', true)" onmouseout="rolloverNav('ap_nav_9', false)">Overview</a></dd>
-	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="ap_nav_10"><a href="/applications/independent/process.jhtml" onmouseover="rolloverNav('ap_nav_10', true)" onmouseout="rolloverNav('ap_nav_10', false)">Application Process</a></dd>
-
-	<dd>
-	<dl>
+	<dt class="top">Overview</dt>	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="ap_nav_0"><a href="/applications/whatwefund.jsp" onmouseover="rolloverNav('ap_nav_0', true)" onmouseout="rolloverNav('ap_nav_0', false)">What We Fund</a></dd>
+	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="ap_nav_1"><a href="/applications/whatwedontfund.jhtml" onmouseover="rolloverNav('ap_nav_1', true)" onmouseout="rolloverNav('ap_nav_1', false)">What We Don't Fund</a></dd>
+	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="ap_nav_2"><a href="/applications/firsttimeapplicants.jhtml" onmouseover="rolloverNav('ap_nav_2', true)" onmouseout="rolloverNav('ap_nav_2', false)">First Time Applicants</a></dd>
+	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="ap_nav_3"><a href="/applications/faqlist.jsp" onmouseover="rolloverNav('ap_nav_3', true)" onmouseout="rolloverNav('ap_nav_3', false)">FAQs</a></dd>
+	<dt>Solicited Grants</dt>	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="ap_nav_4"><a href="/applications/solicited/solicitedgrants.jhtml" onmouseover="rolloverNav('ap_nav_4', true)" onmouseout="rolloverNav('ap_nav_4', false)">What are Solicited Grants?</a></dd>
+	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="ap_nav_5"><a href="/applications/solicited/howtoapply.jhtml" onmouseover="rolloverNav('ap_nav_5', true)" onmouseout="rolloverNav('ap_nav_5', false)">How to Apply</a></dd>
+	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="ap_nav_6"><a href="/applications/solicited/npooverview.jsp" onmouseover="rolloverNav('ap_nav_6', true)" onmouseout="rolloverNav('ap_nav_6', false)">National Programs</a></dd>
+	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="ap_nav_7"><a href="/applications/solicited/cfplist.jsp" onmouseover="rolloverNav('ap_nav_7', true)" onmouseout="rolloverNav('ap_nav_7', false)">Calls for Proposals</a></dd>
+	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="ap_nav_8"><a href="/applications/solicited/responsibilities.jhtml" onmouseover="rolloverNav('ap_nav_8', true)" onmouseout="rolloverNav('ap_nav_8', false)">Responsibilities</a></dd>
+	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="ap_nav_9"><a href="/applications/solicited/faqlist.jsp" onmouseover="rolloverNav('ap_nav_9', true)" onmouseout="rolloverNav('ap_nav_9', false)">FAQs</a></dd>
+	<dt>Unsolicited Grants</dt>	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="ap_nav_10"><a href="/applications/unsolicited/unsolicitedgrants.jhtml" onmouseover="rolloverNav('ap_nav_10', true)" onmouseout="rolloverNav('ap_nav_10', false)">What are Unsolicited Grants?</a></dd>
+	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="ap_nav_11"><a href="/applications/unsolicited/howtoapply.jhtml" onmouseover="rolloverNav('ap_nav_11', true)" onmouseout="rolloverNav('ap_nav_11', false)">How to Apply</a></dd>
+	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="ap_nav_12"><a href="/applications/unsolicited/reviewprocess.jhtml" onmouseover="rolloverNav('ap_nav_12', true)" onmouseout="rolloverNav('ap_nav_12', false)">Review Process</a></dd>
+	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="ap_nav_13"><a href="/applications/unsolicited/responsibilities.jhtml" onmouseover="rolloverNav('ap_nav_13', true)" onmouseout="rolloverNav('ap_nav_13', false)">Responsibilities</a></dd>
+	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="ap_nav_14"><a href="/applications/unsolicited/faqlist.jsp" onmouseover="rolloverNav('ap_nav_14', true)" onmouseout="rolloverNav('ap_nav_14', false)">FAQs</a></dd>
 	</dl>
-	</dd>	</dl>
 	</dd>
     </dl>
     </div>
 </div>
 
-<div id="menu3Container" style="visibility: hidden;">
-    <div id="menu3Content" class="menuContent" style="top: -345px;">
+<div id="menu4Container">
+    <div id="menu4Content" class="menuContent">
     <dl class="nav">
 	<dd>
 	<dl>
@@ -536,18 +531,19 @@
 	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="re_nav_11"><a href="/research/researchlist.jsp?ia=133" onmouseover="rolloverNav('re_nav_11', true)" onmouseout="rolloverNav('re_nav_11', false)">Disparities</a></dd>
 	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="re_nav_12"><a href="/research/researchlist.jsp?ia=132" onmouseover="rolloverNav('re_nav_12', true)" onmouseout="rolloverNav('re_nav_12', false)">Health Insurance Coverage</a></dd>
 	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="re_nav_13"><a href="/research/researchlist.jsp?ia=137" onmouseover="rolloverNav('re_nav_13', true)" onmouseout="rolloverNav('re_nav_13', false)">Nursing</a></dd>
-	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="re_nav_14"><a href="/research/researchlist.jsp?ia=141" onmouseover="rolloverNav('re_nav_14', true)" onmouseout="rolloverNav('re_nav_14', false)">Public Health</a></dd>
-	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="re_nav_15"><a href="/research/researchlist.jsp?ia=142" onmouseover="rolloverNav('re_nav_15', true)" onmouseout="rolloverNav('re_nav_15', false)">Quality Health Care</a></dd>
-	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="re_nav_16"><a href="/research/researchlist.jsp?ia=143" onmouseover="rolloverNav('re_nav_16', true)" onmouseout="rolloverNav('re_nav_16', false)">Tobacco Use &amp; Exposure</a></dd>
-	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="re_nav_17"><a href="/research/researchlist.jsp?ia=144" onmouseover="rolloverNav('re_nav_17', true)" onmouseout="rolloverNav('re_nav_17', false)">Vulnerable Populations</a></dd>
+	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="re_nav_14"><a href="/research/researchlist.jsp?ia=140" onmouseover="rolloverNav('re_nav_14', true)" onmouseout="rolloverNav('re_nav_14', false)">Pioneer</a></dd>
+	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="re_nav_15"><a href="/research/researchlist.jsp?ia=141" onmouseover="rolloverNav('re_nav_15', true)" onmouseout="rolloverNav('re_nav_15', false)">Public Health</a></dd>
+	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="re_nav_16"><a href="/research/researchlist.jsp?ia=142" onmouseover="rolloverNav('re_nav_16', true)" onmouseout="rolloverNav('re_nav_16', false)">Quality Health Care</a></dd>
+	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="re_nav_17"><a href="/research/researchlist.jsp?ia=143" onmouseover="rolloverNav('re_nav_17', true)" onmouseout="rolloverNav('re_nav_17', false)">Tobacco Use &amp; Exposure</a></dd>
+	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="re_nav_18"><a href="/research/researchlist.jsp?ia=144" onmouseover="rolloverNav('re_nav_18', true)" onmouseout="rolloverNav('re_nav_18', false)">Vulnerable Populations</a></dd>
 	</dl>
 	</dd>
     </dl>
     </div>
 </div>
 
-<div id="menu4Container" style="visibility: hidden;">
-    <div id="menu4Content" class="menuContent" style="top: -225px;">
+<div id="menu5Container">
+    <div id="menu5Content" class="menuContent">
     <dl class="nav">
 	<dd>
 	<dl>
@@ -555,7 +551,7 @@
 	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="pu_nav_1"><a href="/publications/newsletterlist.jsp" onmouseover="rolloverNav('pu_nav_1', true)" onmouseout="rolloverNav('pu_nav_1', false)">Newsletter</a></dd>
 	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="pu_nav_2"><a href="/publications/bookslist.jsp" onmouseover="rolloverNav('pu_nav_2', true)" onmouseout="rolloverNav('pu_nav_2', false)">Books</a></dd>
 	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="pu_nav_3"><a href="/publications/otherlist.jsp" onmouseover="rolloverNav('pu_nav_3', true)" onmouseout="rolloverNav('pu_nav_3', false)">Other Publications</a></dd>
-	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="pu_nav_4"><a href="/publications/grantresultsreports.jsp" onmouseover="rolloverNav('pu_nav_4', true)" onmouseout="rolloverNav('pu_nav_4', false)">Grant Results Reports</a></dd>
+	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="pu_nav_4"><a href="/publications/grantresultsreports.jsp" onmouseover="rolloverNav('pu_nav_4', true)" onmouseout="rolloverNav('pu_nav_4', false)">Grant Results</a></dd>
 	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="pu_nav_5"><a href="/publications/synthesis.jhtml" onmouseover="rolloverNav('pu_nav_5', true)" onmouseout="rolloverNav('pu_nav_5', false)">Synthesis Project</a></dd>
 	<dt>Grantee Resources</dt>	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="pu_nav_6"><a href="/publications/grantreporting.jhtml" onmouseover="rolloverNav('pu_nav_6', true)" onmouseout="rolloverNav('pu_nav_6', false)">Grant Reporting</a></dd>
 
@@ -573,14 +569,15 @@
 	<dl>
 	</dl>
 	</dd>	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="pu_nav_9"><a href="/publications/faqlist.jsp" onmouseover="rolloverNav('pu_nav_9', true)" onmouseout="rolloverNav('pu_nav_9', false)">Grantee FAQs</a></dd>
+	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="pu_nav_10"><a href="/publications/formslist.jsp" onmouseover="rolloverNav('pu_nav_10', true)" onmouseout="rolloverNav('pu_nav_10', false)">Forms</a></dd>
 	</dl>
 	</dd>
     </dl>
     </div>
 </div>
 
-<div id="menu5Container" style="visibility: hidden;">
-    <div id="menu5Content" class="menuContent" style="top: -235px;">
+<div id="menu6Container">
+    <div id="menu6Content" class="menuContent">
     <dl class="nav">
 	<dd>
 	<dl>
@@ -590,44 +587,16 @@
 	<dt>Webcasts</dt>	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="ne_nav_3"><a href="/newsroom/activitylist.jsp" onmouseover="rolloverNav('ne_nav_3', true)" onmouseout="rolloverNav('ne_nav_3', false)">Foundation Activities</a></dd>
 	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="ne_nav_4"><a href="/newsroom/tvhslist.jsp" onmouseover="rolloverNav('ne_nav_4', true)" onmouseout="rolloverNav('ne_nav_4', false)">TV Health Series</a></dd>
 	<dt>Features &amp; Perspectives</dt>	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="ne_nav_5"><a href="/newsroom/storieslist.jsp" onmouseover="rolloverNav('ne_nav_5', true)" onmouseout="rolloverNav('ne_nav_5', false)">Features</a></dd>
-	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="ne_nav_6"><a href="/newsroom/perspectiveslist.jsp" onmouseover="rolloverNav('ne_nav_6', true)" onmouseout="rolloverNav('ne_nav_6', false)">Perspectives &amp; Commentary</a></dd>
-	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="ne_nav_7"><a href="/newsroom/interactiveslist.jsp" onmouseover="rolloverNav('ne_nav_7', true)" onmouseout="rolloverNav('ne_nav_7', false)">Interactive Features</a></dd>
+	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="ne_nav_6"><a href="/newsroom/profilelist.jsp" onmouseover="rolloverNav('ne_nav_6', true)" onmouseout="rolloverNav('ne_nav_6', false)">Grantee Profiles</a></dd>
+	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="ne_nav_7"><a href="/newsroom/perspectiveslist.jsp" onmouseover="rolloverNav('ne_nav_7', true)" onmouseout="rolloverNav('ne_nav_7', false)">Speeches &amp; Commentary</a></dd>
+	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="ne_nav_8"><a href="/newsroom/interactiveslist.jsp" onmouseover="rolloverNav('ne_nav_8', true)" onmouseout="rolloverNav('ne_nav_8', false)">Charts &amp; Data</a></dd>
 	</dl>
 	</dd>
     </dl>
     </div>
 </div>
-
-<div id="menu6Container" style="visibility: hidden;">
-    <div id="menu6Content" class="menuContent" style="top: -165px;">
-    <dl class="nav">
-	<dd>
-	<dl>
-	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="ab_nav_0"><a href="/about/mission.jhtml" onmouseover="rolloverNav('ab_nav_0', true)" onmouseout="rolloverNav('ab_nav_0', false)">Our Mission</a></dd>
-	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="ab_nav_1"><a href="/about/founder.jhtml" onmouseover="rolloverNav('ab_nav_1', true)" onmouseout="rolloverNav('ab_nav_1', false)">Our Founder</a></dd>
-	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="ab_nav_2"><a href="/about/distribution.jhtml" onmouseover="rolloverNav('ab_nav_2', true)" onmouseout="rolloverNav('ab_nav_2', false)">Distribution of Funds</a></dd>
-	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="ab_nav_3"><a href="/about/statistical.jhtml" onmouseover="rolloverNav('ab_nav_3', true)" onmouseout="rolloverNav('ab_nav_3', false)">Statistical Highlights</a></dd>
-	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="ab_nav_4"><a href="/about/president/index.jsp" onmouseover="rolloverNav('ab_nav_4', true)" onmouseout="rolloverNav('ab_nav_4', false)">President's Corner</a></dd>
-
-	<dd>
-	<dl>
-	</dl>
-	</dd>	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="ab_nav_5"><a href="/about/leadership.jsp" onmouseover="rolloverNav('ab_nav_5', true)" onmouseout="rolloverNav('ab_nav_5', false)">Board of Trustees</a></dd>
-	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="ab_nav_6"><a href="/about/staff.jsp" onmouseover="rolloverNav('ab_nav_6', true)" onmouseout="rolloverNav('ab_nav_6', false)">RWJF Staff</a></dd>
-	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="ab_nav_7"><a href="/about/office.jhtml" onmouseover="rolloverNav('ab_nav_7', true)" onmouseout="rolloverNav('ab_nav_7', false)">Our Office</a></dd>
-
-	<dd>
-	<dl>
-	</dl>
-	</dd>	<dd><img src="/images/common/topnav_arrow_off.gif" alt="" width="7" height="7" border="0" name="ab_nav_8"><a href="/about/joblisting.jsp" onmouseover="rolloverNav('ab_nav_8', true)" onmouseout="rolloverNav('ab_nav_8', false)">Job Opportunities</a></dd>
-	</dl>
-	</dd>
-    </dl>
-    </div>
-</div>
-
+<!--googleon: all-->
 
 <!-- InstanceEnd -->
-
 
 </body></html>
