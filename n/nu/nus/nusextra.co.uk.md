@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nusextra.co.uk privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224000321id_/http%3A//www.nusextra.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nusextra.co.uk privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616104042id_/http%3A//www.nusextra.co.uk/privacy.aspx) for the most accurate reproduction.*
 
 # NUS Extra - Privacy Policy
 
