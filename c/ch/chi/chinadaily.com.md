@@ -1,38 +1,28 @@
-> *The following text is extracted and transformed from the chinadaily.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220214441id_/http%3A//chinadaily.com/document/policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinadaily.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616115958id_/http%3A//chinadaily.com/about-china-window/china-window-policy/china-window-privacy-policy.php) for the most accurate reproduction.*
 
-# Welcome to China-Window.com
+# Privacy Policy :: Our Policies :: About China Window :: China Window
 
-China-Window.com values your patronage and respects your right to privacy. Because we are committed to protecting your privacy, we employ the highest levels of security to keep your personal information strictly confidential.China-Window.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this web site: China-Window.com. This site contains links to other sites. China-Window.com is not responsible for the privacy practices or the content of such web sites. 
+China Window is committed to respecting your privacy. We have designed our websites and booking engines so that you may visit them without identifying yourself or revealing any personal information, unless you opt to do so. Once you opt to provide personally identifiable information (any information by which you can be identified), it will only be used to support your customer relationship with us and for our own internal purposes, including marketing and research, customization of our websites and improving the content of our websites. 
 
-**The Information you provide China-Window.com**
+This Online Privacy Statement regarding the privacy of the information you provide online covers the following main areas: Awareness, What we Collect, Information Sharing, Choice, Access & Accuracy, Security, and Oversight. 
 
-Our site's registration form requires users to give us contact information (name, email address, etc). We use the contact information from the registration form to send users information needed to maintain their accounts and to notify users of news about China-Window.com. Users may opt-out of receiving mailings (other than those required for account administration) at the time they create their accounts or at any later date. We do not sell mailing lists or give out user names to advertisers, business partners, or anyone else.
+**Awareness** China Window provides this Online Privacy Statement to inform you about our privacy policy and the practices and choices you can make about the way your information is collected and used. This notice may be accessed from any area of China Window's websites and our online booking engines. 
 
-**Use of Cookies**
+**What We Collect** When making a reservation: When you make a reservation online or by phone through our customer support center, you will be asked for your name, address, phone number, e-mail address and credit card information. This information is used to contact you for customer service, to guaranty your reservation with our travel suppliers and/or to bill you for your travel purchase. During the booking process you can choose not to receive our newsletter or travel reminders by unchecking the appropriate boxes on the online form. 
 
-"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. 
+Third-party vendors: Some of China Window's online booking engines are powered by third-party vendors. Our goal is to work only with reputable and reliable vendors. You should note that these vendors may have privacy policies and practices that may differ from those of China Window. Nevertheless, we strongly encourage you to read the privacy policies of these vendors when using their websites. 
 
-We use cookies to save your preferences and to save your password so you don't have to re-enter it each time you visit our site. When you visit our site, we gather information that does not identify individual users. Cookies are used to track your IP address only for the purposes of tracking unique user sessions, to help diagnose problems with our server, and to administer our web site. We merely use aggregate information along with other data to make improvements to and update our site for our visitors. 
+**About Cookies** Many websites, including those owned by China Window, use cookie technology to help users navigate efficiently. The cookie is a small text file that resides on your hard drive. From time to time, our site(s) will request the cookie from your browser so that we can retrieve the stored information. This prevents you from making the same selections over and over again. China Window does not use cookies to store personal information, such as credit-card numbers. An example of how cookies are used is as follows: When you conduct a search using our hotel booking engine for hotels in Shanghai, a cookie will be set recording the city of Shanghai as the parameter of your search. When you return to the search form to narrow or change your search, Shanghai will automatically be entered into the city field in the search form. Please note that with most browsers, a user can set the preferences to show a warning each time a cookie request is received. You can also usually set the browser not to accept cookies at all. However, to make your experience using our hotel booking engine as convenient as possible, we suggest that you allow your browser to accept cookies. 
 
-We do not sell, trade, or rent your personal information to others. We may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors. However, these statistics will not include personal identifying information. Account information may be released when we believe, in good faith, that such release is reasonably necessary to:   
-(1)comply with applicable law,   
-(2)enforce or apply the terms of any of our user agreements, or   
-(3)protect the rights, property or safety of our users, products and/or any third parties. 
+**Information Sharing** China Window will not sell, rent, or lease your personally identifiable information to third parties. Unless we have your permission or are required by law, we will only share the personal data you provide online with other third-party vendors that are acting on our behalf to complete the activities described above. We will cooperate with law enforcement authorities. 
 
-**Email Newsletters**
+**Choice** China Window will not use or share the personally identifiable information provided to us online in ways unrelated to the purposes described above without letting you know and offering you a choice. Please be aware that our website and those of our affiliates may contain links to other websites, and that the privacy practices of these other websites may differ from those of China Window. This Online Privacy Statement does not apply to other websites. We encourage you to read the Privacy Policies of all other websites you visit. 
 
-China-Window.com Email Newsletters are optional benefits for members that keep you up to date with the latest news and information. China-Window.com stores customer email address to mail pertinent information to our clients. These emails are sent to provide you with valuable information on China-Window.com and/or domain name.
+**Access & Accuracy **China Window strive to keep your personally identifiable information accurate. We make every effort to provide you with online access to your registration data so that you may update or correct your information on the hotel booking engine where it was submitted. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting you access or enabling you to make corrections to your user account. 
 
-**Security**
+**Security** China Window is committed to protecting the security of your information. To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. We use encryption when collecting or transferring sensitive data such as credit card information. 
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. In addition to normal server security measures, the use of your password OR confirmed email from the address on record with the account is required to make changes. 
+**Oversight** If you have comments or questions about our privacy policy, pls [contact us](https://web.archive.org/about-china-window/contact-china-window/).   
+**Right to Change** China Window reserve the right to change this policy at any time by notifying users of the existence and location of the new or revised Privacy Policy. 
 
-**Correct/Update**
-
-This site gives users the following options for changing and modifying information previously provided.   
-(1)Visit "Modify My Account" after log in, and edit the profile.   
-(2)If you are unable to make the edit, email info@China-Window.com (include your id) 
-
-**Contacting the Web Site**
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can email info@China-Window.com.
+_Updated on Nov. 14, 2005_
