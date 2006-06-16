@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the utopiapimp.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210144615id_/http%3A//www.utopiapimp.com/%3Fmisc/privacy%26PHPSESSID%3Df57ee969a8a000eebdd151816e304559) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utopiapimp.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616083118id_/http%3A//utopiapimp.com/%3Fmisc/privacy%26PHPSESSID%3Dea86775974920189f5ef38c0e3fec81b) for the most accurate reproduction.*
 
-# Utopiapimp - warforums for the people
+# Utopiapimp - warforums for the popular webpage strategy MMORPG, Utopia
 
 Last Updated: June 30th, 2005
 
@@ -20,7 +20,7 @@ I will never access a kingdom's information unless that kingdom has reported a b
 
 kingdom data may be used for strictly anonymous statistics gathering for Utopiapimp exclusive features. Please see the section 'Old kingdom data' below for more information.
 
-(New: June 30th, 2005) Anonymous 'activity' statistics are collected from all accounts. Specifically, the following examples of data are collected: if a user on Battlefields submits a crystal-ball, the site will write down "on this utopian month, a cb was submitted on bf. It was submitted raw, and was a self-cb". Similiar data will be collected from ops: "On this server and date, a fireball was recored in Pimp. It killed 2,000 peasants". The only level of linking this information to any kind of identifying information is by Utopian server. This data will be publically viewable on a Statistics page that will show summary data based on these collections.
+(New: June 30th, 2005) Anonymous 'activity' statistics are collected from all accounts. Specifically, the following examples of data are collected: if a user on World of Legends submits a crystal-ball, the site will write down "on this utopian month, a cb was submitted on WoL. It was submitted raw, and was a self-cb". Similiar data will be collected from ops: "On this server and date, a fireball was recored in Pimp. It killed 2,000 peasants". The only level of linking this information to any kind of identifying information is by Utopian server. This data will be publically viewable on a Statistics page that will show summary data based on these collections.
 
 A kingdom's account with Utopiapimp will never be revealed by myself or some feature of the site. In other words, there is no way to confirm that a specific kingdom uses Utopiapimp unless a member of that kingdom publicly mentions it. There are no lists of kingdoms that are registered, and kingdom-affiliation and province names are not shown in user profiles at Utopiapimp's [public forums](http://forum.utopiapimp.com/). 
 
