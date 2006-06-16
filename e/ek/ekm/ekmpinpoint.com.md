@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ekmpinpoint.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220032913id_/http%3A//ekmpinpoint.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ekmpinpoint.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616234147id_/http%3A//ekmpinpoint.com/privacy.aspx) for the most accurate reproduction.*
 
 # Invisible Web tracker, Hit Counter and Web Statistics by ekmPinPoint
 
