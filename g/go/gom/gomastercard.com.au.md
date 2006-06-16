@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gomastercard.com.au privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231214228id_/http%3A//www.gomastercard.com.au/PrivacyAndSecurity.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomastercard.com.au privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617002350id_/http%3A//www.gomastercard.com.au/PrivacyAndSecurity.htm) for the most accurate reproduction.*
 
 # Go Mastercard
 
@@ -13,7 +13,7 @@ Web site security
 **Who has provided this site  
 **The informational pages, apply online and service Centre functions are maintained and hosted by GE Capital Finance Australia (ABN 42 008 583 588) trading as GE Money. Any information you submit at this site will be sent directly to GE Money. GE Money is the credit provider for GO MasterCard.   
 GE Money are committed to ensuring the privacy of your personal information.   
-We take the privacy and security of your transactions seriously. Our site contains links to other sites. While we try to link only to sites that share our high standards and respect for privacy, we are not responsible for the privacy practices or the content (or accuracy of content) of other web sites to which you provide your personal information. If you have any questions about this, or the content or practices of this web site, you can contact [Customer Care](https://web.archive.org/web/20051231214228id_/http%3A//www.gomastercard.com.au/ContactUs.htm). 
+We take the privacy and security of your transactions seriously. Our site contains links to other sites. While we try to link only to sites that share our high standards and respect for privacy, we are not responsible for the privacy practices or the content (or accuracy of content) of other web sites to which you provide your personal information. If you have any questions about this, or the content or practices of this web site, you can contact [Customer Care](https://web.archive.org/web/20060617002350id_/http%3A//www.gomastercard.com.au/ContactUs.htm). 
 
 **Your personal information on the web  
 **We do not collect personal information when you visit our site unless you apply for a card online or register for access to the online Service Centre. If you would like to know more about our privacy practices concerning your personal information, please refer to the Important Privacy Notices of GE Money and their related bodies. <http://www.gemoney.com.au/privacy.html>
