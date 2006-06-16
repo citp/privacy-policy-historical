@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heartmath.org privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210175341id_/http%3A//www.heartmath.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartmath.org privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616031129id_/http%3A//www.heartmath.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -62,7 +62,7 @@ If a user wishes to subscribe to any of our mailing lists, we ask for contact in
 From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
 
 **Tell-A-Friend**  
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and e-mail address. Institute of HeartMath will automatically send the friend a one-time e-mail inviting him or her to visit the site. Institute of HeartMath stores this information for the sole purpose of sending this one-time e-mail. The friend may contact Institute of HeartMath at [info@heartmath.org](mailto:info@heartmath.org) to request the removal of this information from their database.
+If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and e-mail address. Institute of HeartMath will automatically send the friend a one-time e-mail inviting him or her to visit the site. Institute of HeartMath stores this information for the sole purpose of sending this one-time e-mail. The friend may contact Institute of HeartMath at [ihminquiry@heartmath.org](mailto:ihminquiry@heartmath.org) to request the removal of this information from their database.
 
 **Security**  
 This web site takes every precaution to protect our users' information. When users submit sensitive information via the web site, your information is protected both on-line and off-line.
@@ -91,4 +91,4 @@ Users of our site are always notified when their information is being collected 
 **Notification of Changes**  
 We will use information in accordance with the privacy policy under which the information was collected. If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an e-mail. Users will have a reasonable time frame to respond with their choice as to whether or not we use their information in this different manner.
 
-[](https://web.archive.org/web/20051210175341id_/http%3A//www.heartmath.org/printer-friendly/print-privacy-policy.html)   [Printer Friendly Version Available](https://web.archive.org/web/20051210175341id_/http%3A//www.heartmath.org/printer-friendly/print-privacy-policy.html)
+[](https://web.archive.org/web/20060616031129id_/http%3A//www.heartmath.org/printer-friendly/print-privacy-policy.html)   [Printer Friendly Version Available](https://web.archive.org/web/20060616031129id_/http%3A//www.heartmath.org/printer-friendly/print-privacy-policy.html)
