@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the outwar.com privacy policy that was archived on 2005-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051216085911id_/http%3A//www.outwar.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the outwar.com privacy policy that was archived on 2006-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060616062810id_/http%3A//outwar.com/privacy.php) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -10,6 +10,36 @@
 <meta name="description" content="Try this really fun, 100% web based role-playing game.  Over 50,000 active registered players and growing. 2,000 or more online at any given time. 100's of quests, magic items, and monsters to kill. Join with crews and take down raid encounters. Chat and messaging systems available.">
 <meta name="keywords" content="online game, online rpg, web based game, web based rpg, online games, magic items, quests, outwar, artifacts, raids, mobs, crews, guilds, chat, instant message, classes, stats, quest armor, monster, gangster, pop star">
 
+<link rel="SHORTCUT ICON" href="favicon.ico">
+	
+<!-- BASE AJAX FUNCTIONS -->	
+<script>
+	var OS = 'FF';
+	
+	// Function to Create XMLHttpRequest Object
+	function createRequester(){
+		if(requester != null && requester.readyState != 0 && requester.readyState != 4){
+			requester.abort();
+		}
+		try{
+ 			var requester = new XMLHttpRequest();
+		}
+		catch (error){
+ 			try{
+ 				//alert("trying IE");
+   			var requester = new ActiveXObject("Microsoft.XMLHTTP");
+   			OS = 'IE';
+ 			}
+ 			catch (error){
+ 				alert(error);
+ 				return false;
+ 			}
+		}
+		//requester.setHeader("Cache-Control", "no-cache");
+		return requester;
+	}
+</script>
+<!-- END BASE AJAX FUNCTIONS -->		
 
 <script language="Javascript">
 	
@@ -331,9 +361,9 @@ function disableForm(theform) {
 // made by: Nicolas - http://www.javascript-page.com
 
 var clockID = 0;
-var srvHour = 03;
-var srvMin = 59;
-var srvSec = 08;
+var srvHour = 02;
+var srvMin = 28;
+var srvSec = 10;
 var tDate = new Date();
 
 tDate.setHours(srvHour);
@@ -553,18 +583,24 @@ function statspopup(thetext, thecolor, thewidth){
 			<td rowspan="2"><a href="index.php"><img src="images/dcilogo.jpg" border="0"></a></td>
 		
     		<td colspan="2" style="padding-top:1px">
-<!--
-<SCRIPT type="text/javascript" src="http://cpae01.com/arc/44.js"></SCRIPT>
-<NOSCRIPT><IFRAME src="http://cpae01.com/arf/?rid=44" frameborder=0 marginheight=0 marginwidth=0 scrolling="no" allowTransparency="true" width="728" height="90"></IFRAME></NOSCRIPT>  
-<iframe id='5' name='2' src='http://ads.rampidads.com/rampidads/showad.php?p=2&t=5' framespacing='0' frameborder='no' scrolling='no' width='728' height='90' allowtransparency='true' target="_top"></iframe>
--->
-
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" id="AutoNumber1">
+  <tbody><tr>
+    <td width="100%">
+    <p align="right"><a href="webgames.php">
+    <img border="0" src="images/freewebgames.gif" width="124" height="14"></a><a href="taf.php"><img border="0" src="images/sendpage.gif" width="143" height="14"></a></p></td>
+  </tr>
+  <tr>
+    <td width="100%">
+<iframe id="5" name="2" src="http://ads.rampidads.com/rampidads/showad.php?p=2&amp;t=5&amp;gdem=" framespacing="0" frameborder="no" scrolling="no" width="728" height="90" allowtransparency="true" target="_top"></iframe>
+	</td>
+  </tr>
+</tbody></table>
 			</td>
   		</tr>
   		<tr>
     		<td width="468" style="padding:1px">
 <!--
-<iframe id='1' name='2' src='http://ads.rampidads.com/rampidads/showad.php?p=2&t=1' framespacing='0' frameborder='no' scrolling='no' width='468' height='60' allowtransparency='true' target="_top"></iframe>
+<iframe id='1' name='2' src='http://ads.rampidads.com/rampidads/showad.php?p=2&t=1&gdem=' framespacing='0' frameborder='no' scrolling='no' width='468' height='60' allowtransparency='true' target="_top"></iframe>
 -->
 
 			</td>
@@ -612,7 +648,13 @@ function statspopup(thetext, thecolor, thewidth){
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tbody><tr>
     <td nowrap=""><font size="2"><b>
-        <div align="center"><img src="images/spacer.gif" width="19" height="1" border="0"><a href="pplayer.php"><img src="images/remove_ads.gif" border="0"></a></div>
+        <div align="center">
+	<img src="images/spacer.gif" width="1" height="1" border="0">
+	<a href="http://www.crownsofpower.com" target="_blank">Crowns of Power - Graphical RPG</a>
+	<!--
+	<a href="pplayer.php"><img src="images/remove_ads.gif" border=0></a>
+	-->
+	</div>
       
     </b></font></td>
     <td width="100%" align="center">    <iframe id="71" name="94" src="pullmb2.php" framespacing="0" frameborder="no" scrolling="no" width="100%" height="20" allowtransparency="true"></iframe>
@@ -640,15 +682,20 @@ function statspopup(thetext, thecolor, thewidth){
 
         <td align="center" width="62">
 
-        <a href="news.php">
+        <a href="bbs.php">
 
-        <img border="0" src="http://www.outwar.com/images/menutop_news.gif"></a></td>
+        <img border="0" src="http://www.outwar.com/images/menutop_forums.gif"></a></td>
+				
+				<td align="center" width="65">
+					<a href="ow_polls.php">
+						<img border="0" src="http://www.outwar.com/images/menutop_polls.gif"></a>
+				</td>
 
         <td align="center" width="95">
 
         <a href="submititems.php">
 
-        <img border="0" src="http://www.outwar.com/images/menutop_idea.gif"></a></td>
+        <img border="0" src="http://www.outwar.com/images/menutop_idea2.gif"></a></td>
 
               </tr>
 
@@ -707,25 +754,41 @@ function statspopup(thetext, thecolor, thewidth){
 <a href="newsignup.php">
 <img border="0" src="http://www.outwar.com/images/signup.gif"></a>
 -->
-								<!--
-<SCRIPT type="text/javascript" src="http://cpae01.com/arc/45.js"></SCRIPT>
-<NOSCRIPT><IFRAME src="http://cpae01.com/arf/?rid=45" frameborder=0 marginheight=0 marginwidth=0 scrolling="no" allowTransparency="true" width="120" height="600"></IFRAME></NOSCRIPT>  
-<iframe id='3' name='2' src='http://ads.rampidads.com/rampidads/showad.php?p=2&t=3' framespacing='0' frameborder='no' scrolling='no' width='120' height='600' allowtransparency='true' target="_top"></iframe>
--->
+								<iframe id="3" name="2" src="http://ads.rampidads.com/rampidads/showad.php?p=2&amp;t=3&amp;gdem=" framespacing="0" frameborder="no" scrolling="no" width="120" height="600" allowtransparency="true" target="_top"></iframe>
   <br><br>
 
-<!-- Start of Button Banners -->
+<!-- START OF BUTTON BANNERS -->
 
+<!-- TAGSALER -->
+<a target="_blank" href="http://click.websitegear.com/track.asp?id=5333">
+<img border="0" src="images/Tagsaler Banner---button-anim.gif"></a><br><br>
+
+<!-- Pmp Wars (stop April 20th) 
+<a target="_blank" href="http://click.websitegear.com/track.asp?id=5414">
+<img border="0" src="images/pmpwars.JPG" width="130" height="30"></a>-->
+
+<!-- BIG FISH GAMES 
 <a target="_blank" href="http://click.websitegear.com/track.asp?id=4500">
-<img border="0" src="images/bigfishgames_130x30.gif" width="130" height="30"></a>
+<img border="0" src="images/bigfishgames_130x30.gif" width="130" height="30"></a>-->
 
-<br><br>
-<a target="_blank" href="http://click.websitegear.com/track.asp?id=4844">
-<img border="0" src="images/intech.gif"></a>
-<br><br>
+<!-- METROFIGHT  (stop end of June)  <br><br>-->
 <a target="_blank" href="http://click.websitegear.com/track.asp?id=4919">
 <img border="0" src="images/metrofightbutton.gif"></a>
+
+<!-- INTECH HOSTING <br><br>
+<a target="_blank" href="http://click.websitegear.com/track.asp?id=4844">
+<img border="0" src="images/intech.gif"></a> -->
+
+<!-- TITAN
+<br><br>
+<a target="_blank" href="http://click.websitegear.com/track.asp?id=5002">
+<img border="0" src="images/titanbutton.gif"></a> 
+
+<br><br>
+<a target="_blank" href="http://click.websitegear.com/track.asp?id=5003">
+<img border="0" src="images/vegasbutton.gif"></a> -->
 <br>
+
 
 	<br><iframe style="margin:1px;border:1px inset #660000;" id="55" name="99" src="marketbanker.php" framespacing="0" frameborder="no" scrolling="no" width="160" height="825" allowtransparency="true"></iframe>
   
@@ -746,11 +809,7 @@ function statspopup(thetext, thecolor, thewidth){
 </b>outwar.com has created this privacy statement in order to demonstrate our 
 firm commitment to privacy. The following discloses the information gathering 
 and dissemination practices for this Web site: outwar.com</p>
-<p><b>Information Automatically Logged </b><br>
-We use your IP address for statistical purposes. It allows outwar.com to 
-determine how many users are visiting the site during the course of the day. 
-This is the only use of the IP.<br>
-<br>
+<p>
 <b>Cookies</b><br>
 Our Site uses cookies to determine the last time a visitor has logged in and the 
 last time an advertisement was viewed.<br>
@@ -827,7 +886,7 @@ site, or your dealings with this Web site, you can contact:
         | </font><b>
         <font size="1"> <a href="outwar_tos.php" target="_blank">Terms of Service</a></font>
         <br>
-srv 132 Page was generated in 0.161778 seconds
+srv 131 Page was generated in 0.003617 seconds
 <br></b></p><div align="center"><b><a href="?lang=english"><img src="images/lang_usa.gif" border="0" hspace="5"></a><a href="?lang=spanish"><img src="images/lang_spain.gif" border="0" hspace="5"></a><a href="?lang=french"><img src="images/lang_france.gif" border="0" hspace="5"></a><a href="?lang=italian"><img src="images/lang_italy.gif" border="0" hspace="5"></a><a href="?lang=portugese"><img src="images/lang_portugal.gif" border="0" hspace="5"></a><a href="?lang=japanese"><img src="images/lang_japan.gif" border="0" hspace="5"></a><a href="?lang=korean"><img src="images/lang_korean.gif" border="0" hspace="5"></a><a href="?lang=chinese"><img src="images/lang_china.gif" border="0" hspace="5"></a></b></div><b>   
 	
   
