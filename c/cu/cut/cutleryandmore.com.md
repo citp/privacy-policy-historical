@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cutleryandmore.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214100926id_/http%3A//www.cutleryandmore.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cutleryandmore.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616215019id_/http%3A//www.cutleryandmore.com/privacy.asp) for the most accurate reproduction.*
 
 # CutleryAndMore.com: Wusthof Knives, All Clad Cookware, Henckels Cutlery, Calphalon, Le Creuset, John Boos & More.
 
@@ -54,4 +54,4 @@ Elk Grove, IL 60007
 |   
 | |   
 | |   
-© 2005 CutleryAndMore.com| | 
+© 2006 CutleryAndMore.com| | 
