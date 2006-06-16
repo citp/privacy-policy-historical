@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whyy.org privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212152700id_/http%3A//www.whyy.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whyy.org privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616223450id_/http%3A//www.whyy.org/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | About | WHYY
 
@@ -25,9 +25,9 @@ WHYY does not sell, exchange, or lend e-mail addresses to outside companies, org
 Our fulfillment agent's e-mail database will never be released by them except in response to a lawful court order or when instructed by WHYY. Their sole use of your e-mail address and other information is to communicate with you about your purchase or to answer questions you may ask, unless you have approved another use. If you have approved another use, each e-mail will include unsubscribe instructions.
 
 **WHYY and Your Postal Address**  
-Like many nonprofits, we occasionally exchange some of our donors' names and postal addresses with carefully selected nonprofit educational, cultural, health, and social service organizations. When you make an online contribution, your name and postal address will be included as eligible for an exchange. Our exchange program provides other nonprofits with only your name and postal address.
+Like many nonprofits, we occasionally exchange some of our donors' names and postal addresses with carefully selected like-minded nonprofit organizations using a process that does not permit the other organizations to review or retain a copy of the membership list. When you make an online contribution, your name and postal address will be included as eligible for an exchange. Exchange of the list allows WHYY to expand its membership base by obtaining the names and addresses of other likely donors, and provides a valuable source of additional funding.
 
-Please note that on every online contribution form, we give you the opportunity to opt out of having your name and address shared. If at any time you would like to check or update our record of your information, please let us know by using the whyy.org [Contact Us](https://web.archive.org/web/20051212152700id_/http%3A//www.whyy.org/about/contact.html) page. If you already have opted out of having your name and address exchanged, rest assured that we will continue to honor your request, except where required by law.
+Please note that on every online contribution form, we give you the opportunity to opt out of having your name and address shared. If at any time you would like to check or update our record of your information, please let us know by using the whyy.org [Contact Us](http://www.whyy.org/about/contact.html) page. If you already have opted out of having your name and address exchanged, rest assured that we will continue to honor your request, except where required by law.
 
   
 
