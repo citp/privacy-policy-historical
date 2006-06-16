@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discovery.com privacy policy that was archived on 2005-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051204231542id_/http%3A//corporate.discovery.com/utilities/about/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discovery.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616202554id_/http%3A//corporate.discovery.com/utilities/about/privacypolicy.html) for the most accurate reproduction.*
 
 # DCI | Privacy Policy
 
