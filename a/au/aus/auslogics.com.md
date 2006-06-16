@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auslogics.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221194402id_/http%3A//www.auslogics.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auslogics.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616034033id_/http%3A//auslogics.com/privacy.php) for the most accurate reproduction.*
 
 # AusLogics Privacy Policy
 
@@ -17,4 +17,4 @@ We need your e-mail address to send you an instant order confirmation, followed 
 
 * * *
 
-[Back to Main Page](https://web.archive.org/web/20051221194402id_/http%3A//www.auslogics.com/index.php)
+[Back to Main Page](https://web.archive.org/web/20060616034033id_/http%3A//auslogics.com/index.php)
