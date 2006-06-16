@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avgfree.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228130710id_/http%3A//www.grisoft.com/doc/PrivacyPolicy/lng/us/tpl/tpl01) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avgfree.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616031744id_/http%3A//www.avgfree.com/doc/PrivacyPolicy/lng/us/tpl/tpl01) for the most accurate reproduction.*
 
 # AVG Anti Virus: Privacy Policy
 
