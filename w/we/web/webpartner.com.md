@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the webpartner.com privacy policy that was archived on 2005-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051023100826id_/http%3A//www.webpartner.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webpartner.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616190800id_/http%3A//webpartner.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Privacy Policy
 
-**Registration & [Purchase](https://web.archive.org/web/20051023100826id_/http%3A//www.webpartner.com/catalog/index.htm)**   
+**Registration & [Purchase](https://web.archive.org/web/20060616190800id_/http%3A//webpartner.com/catalog/index.htm)**   
 WebPartner's customer registration requires users to give us contact information (e.g., name and email address) as well as financial information (e.g. credit card numbers). We use financial information to bill the user. We use customer contact information to contact the user when necessary. We do not share our customer information (including user email addresses) with other companies except where required by law. We do not sell or rent our customer information. We reserve the right to share broad demographic data with third parties.
 
 **Log Files**  
