@@ -1,14 +1,17 @@
-> *The following text is extracted and transformed from the cloncom.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210064350id_/http%3A//cloncom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloncom.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616202042id_/http%3A//cloncom.com/privacy) for the most accurate reproduction.*
 
-# Calling Cards
+# Calling Cards: Your Phone Card & International Calling Cards Source.
 
 |   
 ---  
-Privacy Policy   
+Privacy Policy  
+'Last Updated on January 30th, 2006'  
+  
   | 
 
-Cloncom is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.Cloncom.com . Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.   
-If you have questions or concerns regarding this statement, you should first contact our Customer Support Department here. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
+Cloncom is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.Cloncom.com. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should first contact our Customer Support Department here. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+
+The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from this site. 
 
 Cloncom knows that you care about how your personal information is used and shared. We appreciate your trust that we will do so carefully and sensibly. This notice describes our Privacy Policy and it is company-wide. For questions regarding the Privacy Notice, please contact us by any of the following:   
   
@@ -28,6 +31,7 @@ USA | [](http://www.truste.org/ivalidate.php?url=www.cloncom.com&sealid=101)
 ● |  Online Chat Function  
 ● |  Cookies  
 ● |  Paying Via Paypal  
+● | Agents  
 ● | Log Files  
 ● |  Changes to this Policy  
 ● |  We use appropriate security safeguards  
@@ -62,20 +66,20 @@ Generally, you may not opt-out of these communications, which are not promotiona
 |   Tell-A-Friend   
 | 
 
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend an email inviting him or her to visit the site. Cloncom stores this information and may send further promotions to your firend.
-
-Your friend may [contact us here](https://web.archive.org/support/contact_us_email.jsp) to unsuscribe from future communications, or follow the instructions outlined in each email sent.  
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend an email inviting him or her to visit the site. After this, no further communications will be sent to your friend unless he or she registers on our site.  
   
 |  Back to top  
 |    
 |   Choice/Opt-out   
 | 
 
-If you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form. 
+If you register to our site, we will send your order information (calling card PIN number and dialing instructions) to your email address. We will also send periodic corporate announcements, and may send special promotions to this email. You will receive a Welcome email as soon as you signup. Unsubscribe instructions for all communications are included in this email. You may unsubscribe at any time.
 
 If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by contacting us [here](https://web.archive.org/support/contact_us_email.jsp). 
 
-You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.   
+You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party. 
+
+  
   
 |  Back to top  
 |    
@@ -115,6 +119,13 @@ When paying through PayPal Service, you will be notified that you are being redi
   
 |  Back to top  
 |    
+|   Agents   
+| 
+
+We use outside credit card processing companies to bill you for goods and services. These companies do not retain, share, store or use personally identifiable information for any other purposes.  
+  
+|  Back to top  
+|    
 |   Log Files   
 | 
 
@@ -151,5 +162,6 @@ At **Cloncom** security is important. **Cloncom** employs appropriate measures, 
 | 
 
 If you decide to your account or become an inactive customer, our Privacy Policy will continue to apply. All of your personally identifiable information will be placed in a deactivated status in our database. However, you should know that this deactivation does not mean deletion. We will retain this information, only to be used to resolve dispute or enforce this Policy.   
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.   
   
 |  Back to top
