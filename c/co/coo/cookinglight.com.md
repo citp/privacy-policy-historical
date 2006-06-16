@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cookinglight.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216204928id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/cookinglight%3Fdnp_source%3DE) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cookinglight.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616095813id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/cookinglight%3Fdnp_source%3DE) for the most accurate reproduction.*
 
 # Cooking Light Privacy Policy
 
@@ -14,7 +14,12 @@
 * How You can Access or Correct Information
 * Special Note for Parents
 * How to Contact Us
-|  |    
+| 
+
+[European Union Privacy Information](https://web.archive.org/cgi-bin/mail/dnp/privacy_centralized_eu.cgi/cookinglight?dnp_source=E)   
+[Canada Privacy Information](https://web.archive.org/cgi-bin/mail/dnp/privacy_centralized_caneu.cgi/cookinglight?dnp_source=E)
+
+|    
   
 This is the Privacy Policy for the United States of America. 
 
@@ -111,4 +116,4 @@ Tampa, Florida 33612-6408
 <http://www.cookinglight.com/>
 
 | back to top  
-|  This Privacy Notice was revised 11/05/2005.
+|  This Privacy Notice was revised 12/14/2005.
