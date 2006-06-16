@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolpinoysites.com privacy policy that was archived on 2005-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050311091507id_/http%3A//www.coolpinoysites.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolpinoysites.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616193329id_/http%3A//coolpinoysites.com/privacy.html) for the most accurate reproduction.*
 
 # ::: PRIVACY POLICY ::: COOLPINOYSITES.COM - The Portal of Cool Filipino and International Sites
 
