@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harrietcarter.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220124039id_/http%3A//www.harrietcarter.com/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harrietcarter.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616085639id_/http%3A//www.harrietcarter.com/Privacy.cfm) for the most accurate reproduction.*
 
 # Harriet Carter - Distinctive Gifts Since 1958
 
@@ -9,11 +9,11 @@
   
 
 
-  * [When I visit HarrietCarter, what information is gathered about me and why?](https://web.archive.org/web/20051220124039id_/http%3A//www.harrietcarter.com/Privacy.html#q1)
-  * [What Are Cookies and Should I Worry About Them?](https://web.archive.org/web/20051220124039id_/http%3A//www.harrietcarter.com/Privacy.html#q2)
-  * [Who Else Has Access to the Information I Provide to HarrietCarter.com?](https://web.archive.org/web/20051220124039id_/http%3A//www.harrietcarter.com/Privacy.html#q3)
-  * [How Do I Manage How Much Information I Share or if I Share Any At All?](https://web.archive.org/web/20051220124039id_/http%3A//www.harrietcarter.com/Privacy.html#q4)
-  * [What is HarrietCarter.com Doing to Protect My Privacy?](https://web.archive.org/web/20051220124039id_/http%3A//www.harrietcarter.com/Privacy.html#q5)
+  * [When I visit HarrietCarter, what information is gathered about me and why?](https://web.archive.org/web/20060616085639id_/http%3A//www.harrietcarter.com/Privacy.html#q1)
+  * [What Are Cookies and Should I Worry About Them?](https://web.archive.org/web/20060616085639id_/http%3A//www.harrietcarter.com/Privacy.html#q2)
+  * [Who Else Has Access to the Information I Provide to HarrietCarter.com?](https://web.archive.org/web/20060616085639id_/http%3A//www.harrietcarter.com/Privacy.html#q3)
+  * [How Do I Manage How Much Information I Share or if I Share Any At All?](https://web.archive.org/web/20060616085639id_/http%3A//www.harrietcarter.com/Privacy.html#q4)
+  * [What is HarrietCarter.com Doing to Protect My Privacy?](https://web.archive.org/web/20060616085639id_/http%3A//www.harrietcarter.com/Privacy.html#q5)
 
 HarrietCarter.com has created this privacy statement because we believe you have a right to a safe, secure online shopping experience. We are committed both to protecting your privacy and informing you how information from you will be used. If you still have concerns or questions after reading this policy, please let us know. We'll do all we can to make you feel comfortable at HarrietCarter.com.  
   
@@ -37,9 +37,9 @@ Our site does use cookies to keep track of your shopping cart. We also use cooki
   
 **Who Else Has Access to the Information I Provide to HarrietCarter.com?**  
   
-Once you make a purchase from our online store, your name becomes a part of our customer file. As a valued Harriet Carter customer you may want to receive catalog mailings from us in the future. If you do not wish to receive such mailings, please send an email to our [Customer Service Department](mailto:customerservice@harrietcarter.com) or send the mailing label from the back of your catalog and attach it to a piece of paper with your request. Mail this information to Mail Preference Service, Harriet Carter Gifts, Inc., 425 Stump Road, North Wales, PA 19454.  
+Once you make a purchase from our online store, your name becomes a part of our customer file. As a valued Harriet Carter customer you may want to receive catalog mailings from us in the future. If you do not wish to receive such mailings, please send an email to our [Customer Service Department](http://www.harrietcarter.com/contact_customer_service.cfm) or send the mailing label from the back of your catalog and attach it to a piece of paper with your request. Mail this information to Mail Preference Service, Harriet Carter Gifts, Inc., 425 Stump Road, North Wales, PA 19454.  
   
-You may also receive mailings from other carefully screened companies with whom we sometimes share our valued customer list. If you would prefer not to receive these mailings, please send an email to our [Customer Service Department](mailto:customerservice@harrietcarter.com), or write us at: Mail Preference Service, Harriet Carter Gifts, Inc., 425 Stump Road, North Wales, PA 19454.  
+You may also receive mailings from other carefully screened companies with whom we sometimes share our valued customer list. If you would prefer not to receive these mailings, please send an email to our [Customer Service Department](http://www.harrietcarter.com/contact_customer_service.cfm), or write us at: Mail Preference Service, Harriet Carter Gifts, Inc., 425 Stump Road, North Wales, PA 19454.  
   
 Another form of third party information that may be used is personally identifiable information submitted for another person by you. For instance, if you want to buy a gift for a friend and have it shipped to them. Other than that, HarrietCarter.com does not sell, rent, or give away your personal information to anyone. Also, we may release account information when we believe, in good faith, that such release is reasonably necessary to: 
 
