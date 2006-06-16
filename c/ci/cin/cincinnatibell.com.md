@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cincinnatibell.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210063518id_/http%3A//www.cincinnatibell.com/customerservice/resourcecenter/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cincinnatibell.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616195121id_/http%3A//www.cincinnatibell.com/customerservice/resourcecenter/privacy.asp) for the most accurate reproduction.*
 
 # Cincinnati Bell - Customer Service - Resource Center - Privacy Policy
 
