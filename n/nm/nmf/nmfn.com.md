@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nmfn.com privacy policy that was archived on 2005-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050512074855id_/http%3A//www.nmfn.com/tn/global--privacy_statement_pg) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nmfn.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616120640id_/http%3A//www.nmfn.com/tn/global--privacy_statement_pg) for the most accurate reproduction.*
 
 # NMFN: Online Privacy Statement
 
