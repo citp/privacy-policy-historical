@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the centreforaviation.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206215844id_/http%3A//www.centreforaviation.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centreforaviation.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616140356id_/http%3A//www.centreforaviation.com/aviation/content/view/37/90) for the most accurate reproduction.*
 
-# Privacy Statement - Centre for Asia Pacific Aviation
+# Aviation Market Research - CAPA - Privacy
 
-Privacy
-
-The Centre for Asia Pacific Aviation (The Centre) respects the privacy rights of our users and is strongly committed to protecting your privacy online. This privacy policy applies to this Web site.
+The Centre for Asia Pacific Aviation (The Centre) respects the privacy rights of our users and is strongly committed to protecting your privacy online. This privacy policy applies to this Web site. 
 
 **Collection and Use of Personal Information**   
 The Centre collects personal information that you voluntarily provide on this Web site, which may include your name, address, e-mail address, credit card number, billing information, etc. We use this information to communicate with you and provide you with your requested service or product. You may instruct us at any time not to use your personal information to by contacting us [here](mailto:publications@centreforaviation.com?subject=Privacy%20Policy%20-%20My%20Personal%20Information). Please note that this process may take up to thirty (30) days to complete. This privacy policy does not cover third-party information practices. Credit Card numbers are NOT stored in any form by The Centre on any internal or external databases. These details are not provided to any third parties.
