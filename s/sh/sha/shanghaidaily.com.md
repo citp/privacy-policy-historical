@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shanghaidaily.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220060217id_/http%3A//www.shanghaidaily.com/str_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shanghaidaily.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616032015id_/http%3A//shanghaidaily.com/str_privacy.php) for the most accurate reproduction.*
 
 # Shanghai Daily | 上海日报 -- English Window to China News
 
@@ -9,6 +9,10 @@ OPINION
 FEATURES...
 
 BLOG CHANNELS
+
+[Supplement
+
+](https://web.archive.org/web/20060616032015id_/http%3A//shanghaidaily.com/cat/12/Supplement.htm)
 
 SERVICES
 
