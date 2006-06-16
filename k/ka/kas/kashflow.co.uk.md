@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kashflow.co.uk privacy policy that was archived on 2005-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050807080956id_/http%3A//www.kashflow.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kashflow.co.uk privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616034034id_/http%3A//www.kashflow.co.uk/privacy.asp) for the most accurate reproduction.*
 
-# KashFlow - Privacy
+# KashFlow - Welcome
 
 **Statement of Privacy  
 ** Key One Limited is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Key One Limited Statement of Privacy applies to the KashFlow.co.uk web site and governs data collection and usage at all KashFlow sites and services worldwide. By using KashFlow.co.uk websites, you consent to the data practices described in this statement.
