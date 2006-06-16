@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coldwellbanker.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229234950id_/http%3A//www.coldwellbanker.com/public/policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coldwellbanker.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616194834id_/http%3A//coldwellbanker.com/home/policy.jsp) for the most accurate reproduction.*
 
 # Coldwell Banker Real Estate Corporation
 
