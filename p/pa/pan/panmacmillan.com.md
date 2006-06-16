@@ -1,35 +1,91 @@
-> *The following text is extracted and transformed from the panmacmillan.com privacy policy that was archived on 2005-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051017090817id_/http%3A//www.panmacmillan.com/aboutPan/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panmacmillan.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616165936id_/http%3A//www.panmacmillan.com/displayPage.asp%3FpageTitle%3DPrivacy%2520Policy) for the most accurate reproduction.*
 
-# Pan Macmillan
+# Privacy Policy
 
-Please read these competition rules carefully. If you enter one of our competitions, we will assume that you have read these rules and agree to them.  
----  
-  
-When you enter a Pan Macmillan Competition we ask you to give us some information about yourself from time to time (such as your name, address and e-mail address). We take the privacy of any personal information you give us very seriously, and this policy tells you how we collect information from you, what we use your information for, and your rights in relation to this.
+## Our Views on Privacy
 
-If there is anything in this policy that you do not understand, or you have a question about how we use your personal information, please write to us at the address given at the end of this policy.  
-  
-**What personal information is collected about me?**  
-When you enter a competition, we may ask you to give us information such as your name, address, e-mail address. We call this 'personal information'.  
-**How do you use that personal information?**  
-We may use the information you give us to send you notification of any new titles published by Pan Macmillan Limited that we think might be of interest to you and also to let you know if you have won a competition.  
-You can tell us at any time that you do not wish us to use personal information to send you notification of any books published by Pan Macmillan Limited that we think might be of interest to you by writing to us at the address given at the end of this policy or by e-mailing us at t.moore@macmillan.co.uk. If you write to or e-mail us, please include your full name, address and e-mail address so we can check our records to see who you are. Once you have let us know that you want us to cease using the personal information in this way we will cease to use the information you give us to send you notification of books.  
-**Do you share my information with anyone else?**  
-We will only share your personal information to someone else if the law says that we have to do this or if we believe that we need to do this to protect and defend our or your rights, property or personal safety.  
-**Security**  
-We place great importance on the security of your personal information, and we have taken security measures to try to prevent the loss, misuse and alteration of personal information that we collect and hold. While we cannot ensure or guarantee that loss, misuse or alteration of your personal information will not occur, we will do our best to try to make sure that this does not happen.  
-**Where is the information stored**  
-We keep any personal information you send to us on a computer located in the United Kingdom. We need to do this in order to process the information you send us and to send you text messages as a member of the Club.  
-**Your acceptance of these terms**  
-If you enter into a competition, we will assume that you have read through this policy carefully, and understand and accept it. If you do not wish us to use personal information to send you notification of any books published by Pan Macmillan Limited you should ask us to stop using your personal information for that purpose as mentioned above. If you do not agree to anything in this policy, then you should not enter the competition. If we change our privacy policy we will post these changes on this page. If the change in our privacy policy affects the way in which we may use your personal information, then we will do our best to contact you to make sure you agree to this.  
-**Your rights**  
-  
-****You have a legal right to a copy of all the personal information that we hold about you. You also have a right to ask us to correct any mistakes in that information. As mentioned above, you also have a right to ask us to stop using your personal information to contact you at any time.
+We want to protect the privacy of visitors to our website and that of our customers, and other individuals. Please read the following policy; it will help you to understand how we use your personal data. We may change our privacy policy at any time without giving you notice, so please check it each time you visit this website.
 
-If you have any questions, concerns or comments about this policy, please write to us at:
+ **Whenever you give us personal data, you are consenting to its collection and use in accordance with this privacy policy, including our use of cookies as explained below.** ** **IMPORTANT NOTE: If you are sixteen or under, you must obtain your parent's or guardian's permission** **before you send us any personal data.****
 
-Pan Macmillan Competitions  
-Marketing DTP  
-3rd floor  
-20 New Wharf Road  
-London N1 9RR
+##   
+What personal information do we collect?
+
+We log your Internet Protocol (IP) address in order to receive and send information from and to you over the internet.
+
+When you register on our website, register for our  newsletter, make an enquiry, submit material for inclusion on our website, enter a competition, or order products or services from us, you may be asked to provide some personal data such as your name, address, email address, credit or debit card number and interests.
+
+Bear in mind that if you include any personal data in any material you submit for inclusion on our website, it may be seen by anyone visiting this website anywhere in the world. Please do not submit any personal data that you do not want to be made public in this way, and please do not send us any personal data about anyone else without their permission.
+
+We also automatically collect data about visitors to our website (for example on browsing patterns) by using cookies. We collect data relating to the routing, duration and time of communications (traffic data), such as records of the parts of our website you have visited, services you have used, and your location. We retain traffic data for three years.
+
+## Cookies
+
+A cookie is a small piece of data or message that is sent from a web server to your browser and is stored on your hard drive. A cookie can't read data off your hard disk or read cookie files created by other sites. Cookies do not damage your system. 
+
+You can reset your browser so as to refuse any cookie or to alert you to when a cookie is being sent. If you choose not to accept our cookies, some of the features of our site may not work as well as we intend.
+
+We use cookies for the purposes of system administration of our website, to give us information about the number of visitors to different parts of our website, and to enhance your visit to our site.
+
+## How do we use your personal data?  
+
+
+We use your personal data to: answer your queries, run any competition you may have entered, to process and fulfil your orders, to notify you of your order's status and to contact you if there is a problem with your order.
+
+We use the information you supply about subject interests in order to shape our future publishing and marketing strategy and also so that we may send you targeted information about new products and services from Macmillan Publishers Limited, and to inform you about changes and improvements to our website, and for direct marketing purposes (but we do give you the option to opt out of this).
+
+We may also use your personal data to monitor the use of our website, to record traffic flows and to carry out research about our visitors' and customers' demographics, interests and behaviour. We do this to understand our visitors, customers and potential customers better.
+
+We use traffic data (see above) to help us understand which areas of our website are most popular so that we might better develop the design and structure of our site, and to market our own electronic communications services and to provide you with value added services, such as targeted information about our products, promotions such as competitions, or new author signings. You may withdraw your consent to our use of these data at any time. 
+
+If you wish to do this, please contact: [unsubscribe@macmillan.co.uk](mailto:unsubscribe@macmillan.co.uk)
+
+When you give us personal data, those data may be sent electronically to servers anywhere in the world and may be used, stored and processed anywhere in the world, including countries outside the European Economic Area. (Bear in mind that many countries outside the European Economic Area do not adequately protect your rights as a data subject). 
+
+Whenever and wherever we collect, process or use personal data, we take steps to ensure that it is treated securely and in accordance with our privacy policy.
+
+## To whom might we disclose your personal data?
+
+We may pass your personal data to anyone who needs those data in order to fulfil your requests for our goods and services, or to validate any payment details you give to us. Some of these people may be located outside the European Economic Area.
+
+We may pass your personal data to our group or associated companies and to our data processors. Some of these may be located outside the European Economic Area. 
+
+We may also provide your personal data to businesses (which may or may not be companies in our group) which may be located outside the European Economic Area and who may use the data to send you information about other products or services. However, you may opt out of your personal data being used in this way when we collect your personal data.
+
+We may also provide your personal data to anyone who buys our business or business assets. Except as set out above, we will not disclose your personal information unless we are obliged to do so or allowed to do so by law, or where we need to do so in order to run our business (for instance where we outsource services or other people process data for us).
+
+## Direct Marketing
+
+We may contact you by email to market our goods and services, but you may at any time request us to stop using your personal data for direct marketing purposes.  If you wish to do this please contact: [unsubscribe@macmillan.co.uk](mailto:unsubscribe@macmillan.co.uk)
+
+## Links
+
+Our website contains links to other websites. We are not responsible for the privacy practices of other sites. We encourage our visitors to be aware when they leave our website, and to read the privacy policy of other sites that collect or use personal data. This privacy policy applies only to personal data collected by Macmillan Publishers Limited.
+
+## Security  
+
+
+We give you the option of using a secure server whenever you make payment over the internet or provide details of any credit or debit card.
+
+We use the industry standard, Secure Socket Layer (SSL) encryption, to ensure our online ordering facility is secure for credit and debit card transactions. Your credit or debit card details will be transmitted to us securely ONLY if you are using a secure connection (SSL) aware browser. 
+
+Unfortunately, no data transmission over the internet or any other network is 100 per cent secure, but we take appropriate steps to try to protect the security of your personal data.
+
+## Contacts
+
+This website is operated by Macmillan Publishers Limited, trading as Pan Macmillan. Macmillan Publishing Limited is a company registered in England.  Our registered number is 00785998.
+
+Our registered office is at:
+
+Brunel Road  
+Houndmills  
+Basingstoke  
+Hampshire  
+RG21 6XS
+
+Individuals have certain rights of access to their personal data. If you wish to request any information about your personal data, please contact: [webqueries@macmillan.co.uk](mailto:webqueries@macmillan.co.uk)
+
+## Inaccuracies and Corrections  
+
+
+We would like to keep your personal data accurate and up to date. If you become aware of any errors or inaccuracies please let us know by contacting [webqueries@macmillan.co.uk](mailto:webqueries@macmillan.co.uk)
