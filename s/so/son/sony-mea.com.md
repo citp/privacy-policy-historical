@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sony-mea.com privacy policy that was archived on 2005-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051201024123id_/http%3A//www.sony-mea.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sony-mea.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616190702id_/http%3A//www.sony-mea.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Sony Middle East and Africa
 
