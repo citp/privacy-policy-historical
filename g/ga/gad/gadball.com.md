@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the gadball.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230225122id_/http%3A//www.gadball.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gadball.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616044209id_/http%3A//www.gadball.com/Privacy.aspx) for the most accurate reproduction.*
 
-# GadBall Privacy Statement
-
-### GadBall Privacy Statement 
+# GadBall : Privacy Statement
 
   
-**Effective April 1, 2005:**
+**Effective April 1, 2006:**
 
 **About GadBall.com GadBall.com**   
-(“GadBall”) is an online professional, personal and career community networking service. Users of the GadBall website and service (“Users”) can post resumes on the GadBall website and utilize the GadBall Resume Distribution technologies to distribute their resumes to multiple internet employment sites from GadBall. Users can also create personal profiles and link these to other Users through User established networks. 
+("GadBall") is an online professional, personal and career community networking service. Users of the GadBall website and service ("Users") can post resumes on the GadBall website and utilize the GadBall Resume Distribution technologies to distribute their resumes to multiple internet employment sites from GadBall. Users can also create personal profiles and link these to other Users through User established networks. 
 
 GadBall Users can view the profiles of other Users, communicate with friends (both new and old) on the service, share photos, post messages and comments, and describe their professional, personal, and career interests. To enrich and facilitate the experiences of our Users we request and display some personal information to other Users and visitors of GadBall, which allows Users to identify each other and expand their networks. GadBall Users can edit their User profile information at any time and control which internet employment sites receive their information, and how other GadBall Users and GadBall communicates with them. 
 
@@ -64,4 +62,7 @@ GadBall User accounts are secured by member-created UserID’s and Passwords. Ga
 **From time to time we may make changes to our privacy policy. If we make changes, we will post them on our site to make Users aware of what the changes are so Users will always be aware of what information we collect, how we use it, and when we may disclose it. A User is bound by any minor changes to the policy when she or he uses the site after those changes have been posted. If, however, we are going to use Users' personally identifiable information in a manner materially different from that stated at the time of collection we will notify Users by posting a notice on our Web site for 30 days. 
 
 **Contacting the Web Site  
-**If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at: GadBallUserPrivacy@GadBall.com (2102 Business Center Drive, Irvine, CA 92612). Thank you for your interest in how we address Privacy for our Users; we hope you are comfortable joining us and that you benefit from the service(s) we provide – Welcome to GadBall! 
+**If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at: GadBallUserPrivacy@GadBall.com (1400 Quail Street, Suite 260, Newport Beach, CA 92660). Thank you for your interest in how we address Privacy for our Users; we hope you are comfortable joining us and that you benefit from the service(s) we provide – Welcome to GadBall! 
+
+  
+
