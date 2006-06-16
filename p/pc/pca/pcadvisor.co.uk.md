@@ -1,145 +1,120 @@
-> *The following text is extracted and transformed from the pcadvisor.co.uk privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206162030id_/http%3A//www.pcadvisor.co.uk/index.cfm%3Fgo%3Dabout.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcadvisor.co.uk privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616175904id_/http%3A//www.pcadvisor.co.uk/privacypolicy) for the most accurate reproduction.*
 
-# PC Advisor - Expert Advice in Plain English
+# Site Policy - PC Advisor
 
-  
-| Competitions  
----  
-Great Christmas gadget gifts up for grabs! [Click here](http://www.pcadvisor.co.uk/index.cfm?go=competitions.main) to enter  
-  |   |   
-| **Site Policy**  
----  
-Since its launch at the end of 2000 the PC Advisor forums have grown consistently. We now have over 70,000 registered members, and each week hundreds of computer problems are solved. Those of a technical nature are dealt with in the Helproom; consumer issues are resolved in ConsumerWatch. For those who enjoy discussing games, and gaming problems there's the Gamesroom.
+This web site ("Site") is owned and operated by IDG Communications Ltd, 99 Gray's Inn Rd, London, WC1X 8TY, United Kingdom, Reg. Co. No. 1197840, VAT No. GB-404696446 ("IDG"). 
 
-Any organised gathering must have rules and conventions if it is to operate efficiently, and the PC Advisor forums are no exception. On the whole we function with a minimum of red tape, and we want our visitors to feel welcome and able to express themselves in their own way. We are a family-friendly forum however, and there are inevitably some do's and don'ts that must be observed if we are to get along together. Regular forum users will be familiar with much of what follows. Newcomers, who may be unfamiliar with web-forum procedures, should find it useful. It's your forum, we hope you'll enjoy your time here.
+IDG is committed to maintaining your confidence and trust with respect to the information we collect from you. This privacy policy sets forth what information we collect about you, how we use your information and the choices you have about how we use your information.
 
-**Terminology**
-
-Plain English is the order of the day, but there are some words that you will see being used regularly.
-
-  *  **Thread** \- the word used to describe a forum topic. A thread may be started by any forum member to explain a problem and ask for help - just click on the words 'Start new subject for discussion' that you'll see in blue at the top of the Helproom, ConsumerWatch, or Gamesroom sections. 
-  * **Post** \- a message that is 'posted' to a thread by anyone who wishes to contribute. When you click on a thread title it will open to reveal all the messages that have been posted by other forum members. To add your own comments, use the box that you'll see at the end of each thread. 
-  * **Green tick** \- this is used to indicate that a subject has been satisfactorily resolved, and can only be placed on a thread by the person who starts it. Once there the tick can't be removed, but others may still post comments to it. More on green ticks later. 
-  * **Refresh** \- if your problem isn't receiving any attention it will gradually slip down page 1 and onto page 2 or 3 - it depends on the number of threads being posted at any one time. You can bring your subject back to the top of the list by posting the word 'refresh' in it. Please don't so this more than once - it can irritate other users, and if you get no response the second time around it's possible that nobody in the forum can help on this occasion. It's rare for that to be the case however. 
-  * **Moderator** \- someone who watches the forum for inappropriate thread content. We monitor forum activity, and the forum editor will sometimes remove threads or posts if he believes them to be inappropriate in nature. If you are unhappy about a particular post or thread, or if you want to contact us privately you can do so at any time by clicking on the words 'Contact moderator' which you will see in the yellow bar at the bottom of each thread. Type your message and click the 'Send message' button; we'll contact you as soon as possible. Please don't use this facility to ask for help with computing problems - we can't provide this on a one-to-one basis by email.
-
-
-
-**Best practice**
-
-We have evolved a system of day to day conduct which we believe helps the forum to function smoothly, and we look to our members to abide by the system whenever possible. We are a community, and we expect our members to respect our code of conduct.
-
-  *  **Personal email addresses** \- please do not include your email address when posting a thread or a message in a thread. Personal privacy is something that once compromised is difficult to regain, and posting an address in a web forum is akin to advertising it on TV - it can be read (and used) by thousands of strangers. 
-  * **Forum email links** \- when you post a message in a thread a small envelope icon will appear alongside your username. This enables anyone to send you a personal message by email, but it does NOT disclose your email address to them. This can only happen if you reply to their message - so don't do that if you want to remain anonymous. Please don't use the email contact facility indiscriminately - by and large it's best to do it only when invited to do so by another forum user. 
-  * **Offensive comment** \- forum discussions can sometimes become heated. They often take place more or less in real time, and it can be tempting to respond offensively in the heat of the moment. Personal abuse directed at another forum member is totally unacceptable, and such posts will be removed without warning. Repeated incidents may result in a forum member's registration being invalidated permanently. 
-  * **Thread titles** \- Please try to give your thread a meaningful title - one which will indicate its subject matter to other forum users. A thread entitled "Aaaaaargghhhh!!!!!!!!!!! What's wrong with my computer?" will irritate other users, and will be less likely to attract the right help. Good thread titles indicate the problem's nature "My modem doesn't dial" tells everyone what to expect. 
-  * **Inform us** \- when posting your thread please try to provide as much information as you can. Give details of your operating system, which software or hardware appears to be causing the trouble and the full text of any error message if possible. 
-  * **Green tick protocol** \- when your problem is solved we'll expect you to give the thread a green tick - you'll find the button at the end of your thread. Once you've ticked the thread it will remain 'open' to further posts, but other forum users can see that you're OK - and will not open the thread unnecessarily. Green ticks also help people who are searching the archive. We have an option to search only for problems that are resolved. Please try to remember to tick your thread. 
-  * **Items for sale** \- we don't permit the posting of threads that advertise items for sale. The associated legal and administrative problems mean that this policy will be strictly enforced. 
-  * **Personal contact** \- we do not advise you to arrange personal meetings with other forum users. You would be meeting a total stranger, you cannot verify another member's age or sex, and such arrangements are inherently fraught with risk. 
-  * **Search the archive** \- it's on the cards that your problem has cropped up before, so we maintain a forum archive of previously posted threads. You can search the archive by using the facility at the top of each forum section, and we hope that you'll do so before posting - it could save you a lot of time. 
-  * **Read the reviews** \- many threads ask for advice about new hardware and software. We have an excellent review section in the forum, and we suggest that you refer to it before you post your thread.
-
-
-
-**Forbidden territory**
-
-Some behaviour is unacceptable in the forum, and we will insist on the following rules being observed at all times.
-
-  *  **Bad language** \- it isn't necessary to use bad language to make a point. Although modern usage has seen many previously unacceptable terms become a part of everyday conversation, there are certain words which are universally acknowledged as being inappropriate in normal conversation. We will exercise our right to remove any posts that (in our opinion) contain such language, and the forum editor's decision will be final. 
-  * **'Adult' content** \- references or links of an adult nature will not be tolerated - posts or threads that contain links to 'adult' sites, text, or images will be deleted without warning. 
-  * **Chat threads** \- There are thousands of chat-related sites on the internet, but ours is not one of them. We exist to provide help and advice to people who have computer-related problems, and we will not permit threads to wander off-topic into general chat. 
-  * **Racist or sexist comment** \- we will not tolerate racist or sexist comments in any form. 
-  * **Libellous or defamatory comment** \- please do not exhort others to boycott a company that provided you with bad service or products. Do not make statements that you cannot substantiate, or state as fact, something which is in reality your opinion. "PC Computers Ltd took my money and ran" may well be your opinion, but an action for libel by the company would almost certainly succeed, and PC Advisor may be jointly liable as the publishers of your comment. We aren't prepared to take such risks, and will delete any comment that is, in our opinion, potentially libellous or defamatory. The editor's decision is final in such cases. 
-  * **'Cracks' or copyright infringement** \- we do not permit the posting of information that will enable other people to use pirated software or to evade the copyright laws. Please do not post serial numbers or CD keys, or links to sites that contain file-sharing software or such information.
-
-
-
-**Our editorial policy**
-
-Our membership is representative of all levels of computing, from beginner to expert, and no matter what your problem, there will almost certainly be someone who can help. We intend to maintain this 'mutual-help' atmosphere, we think computer users like it that way, and we will do our best to see that everyone is welcomed - no matter what their level of computer-literacy.
-
-If at any time you are uncertain about how to get help, or if there is anything about forum conduct that you find confusing, please don't hesitate to let us know. Click the 'Contact moderator' button, and send us an email. We'll do our best to respond quickly, but we receive a lot of email - bear with us. We want to hear from you if you have an idea for an improvement, or some extra content. We can't promise to translate your ideas into action, but we'll look into every proposal or suggestion.   
-  
-**Privacy policy**  
----  
-  
-Our postal address is: 
-
-5th Floor, 85 Tottenham Court Road  
-London W1T 4TQ  
-
-
-We can be reached via email at: [pcadvisor_letters@idg.com](mailto:pcadvisor_letters@idg.com)
-
-Or you can contact us by telephone on: 020 7291 5699 
-
-Privacy policy  
-
-
-> At _PC Advisor_ we are committed to protecting your privacy. We use the information we collect about you to process orders, provide a personalised service and to help us to develop the magazine and our website. We share a mailing list with other reputable companies, and from time to time, you may receive mailings about products or services that may be of interest to you. If you do not wish us to share your contact details with such companies please notify us accordingly, and we will remove your name from the shared list.
-> 
-> Our web server will record your access to the site each time you login to the _PC Advisor_ online forum. Your use of the site's pages will be recorded in a server log. This information will not be shared with a third party for commercial purposes.
-> 
-> From time to time we may use the information we collect about you to notify you about changes to our website, about new _PC Advisor_ services or special offers that we think may be of interest to you. We may contact you to ask you to participate in research projects or surveys. If at any time you wish us to delete your information from our records please ask us to do so by writing to us at the address given above or by email to [pcadvisor_letters@idg.com](mailto:pcadvisor_letters@idg.com)
-
-**Subscription orders**  
-
-
-> When you order, we need to know your name, email address, postal address, credit card number and its expiry date. This allows us to process and fulfil your order and to notify you of any details that may affect your subscription. 
-
-**Competitions**  
-
-
-> When you enter a competition or respond to another promotion, we may ask for your name, address and email address so we can administer and notify winners. We may also occasionally use the information we collect to notify you about important changes to the website, new _PC Advisor_ services and special offers we think you'll find valuable. 
-
-**Website**  
-
-
-> Forum registration conditions
-> 
-> By registering for access to our web forum you agree that the copyright in any content you may post to the site passes to _PC Advisor_ upon publication and that we may reproduce any contribution in whole or in part in _PC Advisor_ magazine or in other IDG Group publications without further reference to you. We may use the personal information you provide to notify you about changes to the site or to contact you for marketing purposes.
-> 
-> When registering you must provide us with your name, full address (including postcode) and email address. Provision of your telephone number is optional. The provision of incorrect or fictitious information may result in your access to the forum being denied without reference to you. We reserve the right to verify the information you provide and to exclude you from the forum, should any part of it prove to be false.
-> 
-> We reserve the right to remove your forum contributions without prior reference to you if, in our opinion, the content is inappropriate, may be libellous or is not in accord with our policies from time to time in force. Any such deletions will be made at our discretion and our decision in such matters is final.
-> 
-> The use of obscene or offensive language, sexual references, expressions of racial, religious or cultural intolerance or personal abuse directed towards another forum user is unacceptable, and may result in your further access to the forum being denied without warning.
-> 
-> For further information about forum registration or conduct please contact: [Guy_Dixon@idg.com](mailto:guy_dixon@idg.com) or [Moderator@idg.com](mailto:moderator@idg.com)
-
-**Onsite advertising**  
-
-
-> We use the services of an ad-serving company to manage our online advertising and, in the course of providing this service, the company may harvest information by the use of clear GIFs and pixel tags. This technology allows the company to recognise a browser cookie when you visit the site. The information gathered in this way does not identify you personally, and is used solely for statistical purposes. You may elect to be excluded from this anonymous process. To obtain more information please visit [www.doubleclick.net](http://www.doubleclick.net/)
-
-**Email**  
-
-
-> You may receive occasional emails from _PC Advisor_ containing information on new products and services or special subscription offers. We may also contact you to participate in research projects to help improve the magazine. You may also receive mailings from other reputable companies whose products or services you might find interesting. If you do not want to receive email from us in the future, please let us know by sending an email to us at the above address or by writing to us at the above address and telling us that you do not want to receive email from our company. 
-
-**Mailings**  
-
-
-> If you supply us with your postal address online you may receive periodic mailings from us with information on new products and services or special subscription offers. If you do not wish to receive such mailings, please let us know by sending an email or by writing to us. Also you may receive mailings from other reputable companies whose products or services you might find interesting. You can, however, have your name put on our do-not-share list by sending an email to us or by writing to us at the above address. Please provide us with your exact name and address. We will ensure your name is removed from the list we share with other organisations. 
-
-**Telephone**  
-
-
-> If you supply us with your telephone number, you may receive telephone contact from us with information regarding orders you have placed online. You may also receive telephone contact from _PC Advisor_ with information regarding new products and services or special subscription offers. We may also contact you to participate in research projects to help improve the magazine. If you do not wish to receive such telephone calls, please let us know by sending an email to us or by writing to us at the above address. Please provide us with your correct phone number. We will make sure your name is removed from the list. 
-
-**Your consent**  
-
-
-> If you never want to receive any announcements or special offers from us please either send an email or write to us at the above address. If we change our privacy policy, we will post these changes on this page so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it. 
-
-**Questions and comments?**  
-
-
-> We respect your privacy and are concerned to preserve your right to choice when it comes to the management of your personal details. For more information about the way we protect your personal information or if you have other questions or comments related to any of the above, please contact [vanessa_day@idg.com](mailto:Vanessa_Day@idg.com)  
-  
   
 
 
-  |   |    
+## Collection of Information Through Use of Cookies
+
+This Site collects information regarding your use of the Site through the use of "cookies." Cookies are anonymous, unique alphanumeric identifiers sent to your browser from a web site's computers and stored on your computer. The type of information we collect as a result of a cookie being stored on your computer includes the Internet protocol (IP) address used to connect your computer to the Internet; computer and connection information such as browser type and version, operating system, and platform; and click stream data, including date and time, cookie number and content you viewed or searched for on the Site. 
+
+We use "session" cookies to collect information about your use of the Site and so that you may view articles, post in the forums and browse from page to page. These cookies are temporary and are deleted when you leave the Site. We use "persistent" cookies to allow for automatic login, give you a more personalised browsing experience, and help you navigate the Site more efficiently. 
+
+We collect and use, and may from time to time supply third parties with, this information only as anonymous, aggregated user data for the purposes of usage analysis, quality control and improving the Site. 
+
+You can prevent your browser from accepting new cookies, have the browser notify you when you receive a new cookie, or disable cookies altogether by accessing your browser's preferences menu. If you choose to disable cookies altogether, you can use the Site but will not be able to register, login to the Site with a personal User Name and Password, or make use of the advanced personalisation features of the Site, although the basic features and functionality offered to unregistered users of the Site will be possible to use. 
+
+  
+
+
+## Collection and Registration of Personal Information
+
+We sometimes request users of the Site to provide personal information. The information collected from a user is strictly voluntary and may include contact information such as the user's name, e-mail address, and postal address. 
+
+In order to access certain content and to make use of the full functionality and advanced personalisation features of the Site such as newsletters and to postin the forums, we ask you to register and obtain a personal User Name and Password. You may be prompted to register when you: 
+
+  1. Choose the "Register" link from the home page or login screens
+  2. Post on one of the forums
+  3. Enter a competition
+  4. Subscribe to one of the site newsletters
+
+
+
+The information collected from the registration form that is presented to users when they choose to register may include contact information, such as the user's name, e-mail address, postal address, country, telephone number and work setting ("Registration Information"). The Registration Information is linked directly to a personal User Name and Password chosen by the user and can only be retrieved by supplying the correct User Name and Password that is linked to that profile. 
+
+  
+
+
+## How Personal Information Is Used
+
+We use the personal information that you provide for such purposes as: 
+
+  1. Completion and support of the activity for which the information was provided, such as allowing access to one of the Site services, processing or fulfilling a competition entry, or responding to your requests or enquiries;
+  2. Web site and system administration, such as for the technical support of the Site and its computer system, including processing computer account information, information used in the course of securing and maintaining the Site, and verification of Site activity by the Site or its agents;
+  3. Tailoring or customising content or design of the Site during a single visit to the Site and individualised personalisation of the Site on repeat visits;
+  4. Research and development to enhance, evaluate and improve the Site and our services;
+  5. Pseudonymous analysis to create a profile used to determine the habits, interests or other characteristics of users for purposes of research, analysis and anonymous reporting; and
+  6. Communicating with you about changes or updates to the Site and our services and, with your consent, special offers, promotions or market research surveys.
+
+  
+
+
+## Disclosure of Personal Information to Third Parties
+
+Access to your personal information is restricted to our employees, agents, representatives and service providers, such as our data processing operations, for the purposes set forth above. Your personal information may be transferred to countries outside of the European Economic Area ("EEA"), including to the United States, for processing. These countries may not have similar data protection laws to the EEA. If we transfer your information outside of the EEA in this way, we will take steps to ensure that your privacy rights continue to be protected. In addition, if you access the Site while you are outside of the EEA, your information may be transferred outside of the EEA in order to provide you with such access. 
+
+With your consent, we also may share your personal information with non-affiliated third parties located inside and outside of the EEA who wish to send you information about their products and services that may be of interest to you, and users who have consented to receive such information may receive communications from these third parties. If you wish us to pass your personal information to such third parties, please tick the appropriate check box when you register or amend your preferences by logging in and clicking on the registration "Update your details" link at any time. 
+
+We will not otherwise disclose any personal information without your consent except: in response to subpoenas, court orders, or legal process, or to establish or exercise our rights to defend against legal claims; if we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, safety of person or property, violation of our policies, or as otherwise required by law; and if we are acquired by or merged with another company. 
+
+  
+
+
+## Access and Changes to Your Registration Information and Preferences
+
+Registered users may access their identified contact information and other Registration Information and correct any discrepancies or update information by clicking on the registration "Update your details" link at any time. The accuracy of such information is solely the responsibility of the user. No access is given to other data that may have been collected about users. 
+
+If you wish to receive alerts, newsletters, special offers or promotions from us, please tick the appropriate check box when you register or amend your preferences by logging in and clicking on the registration "Profile" link at any time. If you wish to cease receiving any of this information, amend your preferences either by logging in and clicking on the registration "Update your details" link, or by using the "opt-out" or unsubscribe option or other means provided within the communications you receive. We reserve the right to notify you of changes or updates to the Site whenever necessary. 
+
+  
+
+
+## Retention of Personal Information
+
+We retain the personal information we collect from you for as long as the information is relevant to our business purposes or until you request that we remove the data by contacting us at the address or telephone number detailed below. 
+
+  
+
+
+## Our Commitment to Data Security
+
+We recognise that your privacy is important to you, and therefore we endeavor to keep your personal information confidential. The personal and demographic information about each user is stored on servers that are behind a firewall and physically housed within a secured data center. Furthermore, our internal practices help protect your privacy by limiting employee access to and use of personal information. However, we do not represent, warrant, or guarantee that your personal information will be protected against unauthorised access, loss, misuse, or alterations, and do not accept any liability for the security of the personal information submitted to us nor for your or third parties' use or misuse of personal information. 
+
+  
+
+
+## About This Privacy Policy
+
+The foregoing is the current privacy policy of the Site. We reserve the right to change this policy at any time without notice. Any changes to this policy will be posted on this web page. Our policy does not create a contract or any legal rights. 
+
+This privacy policy applies solely to the information you provide while visiting this Site. The terms of this privacy policy do not govern personal information furnished through any means other than this Site (such as via telephone or postal mail). 
+
+This Site may contain links to other web sites that are beyond our control. Other web sites to which you link may contain privacy policies that are different from this privacy policy. We encourage you to check the privacy policy of each web site you visit before submitting any information to them.
+
+  
+
+
+## Questions, Complaints, and Dispute Resolution
+
+If you have any questions or comments regarding this privacy policy, please contact our Customer Service Department at: 
+
+PC Advisor Website Customer Services  
+99 Gray's Inn Rd  
+London  
+WC1X 8TY  
+UK  
+Tel +44 (0) 20 7071 3664  
+Fax + 44 (0) 20 7405 0262  
+E-mail: webmaster@pcadvisor.co.uk
+
+If at any time you believe that we have not adhered to this privacy policy or you have a complaint regarding the way your personal information is being handled, please contact us on at the details above. Disputes under this privacy policy will be resolved by our Customer Service Department, which will use commercially reasonable efforts to promptly investigate and, if necessary, to correct any problem. 
+
+**Last revised: 07 October 2005**
+
+  
 
