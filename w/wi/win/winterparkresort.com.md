@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the winterparkresort.com privacy policy that was archived on 2005-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051121045257id_/http%3A//www.intrawest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winterparkresort.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616081143id_/http%3A//www.intrawest.com/privacy) for the most accurate reproduction.*
 
-# 
+# Intrawest - Privacy Policy
 
 ## INTRAWEST CORPORATION PRIVACY POLICY 
 
@@ -30,8 +30,6 @@ The scope and application of the Intrawest Privacy Policy are as follows:
   * The Policy does not apply to information about Intrawest's corporate customers; however, such information is protected by other Intrawest policies and practices and through contractual arrangements. 
   * The Policy does not apply to information about Intrawest's employees; however, such information is protected by other Intrawest policies and practices. 
   * This Policy is subject to change, and may be supplemented or modified by additional terms applicable between Intrawest and an individual. 
-
-
 
 **DEFINITIONS**
 
@@ -65,8 +63,6 @@ a) implementing procedures to protect personal information and to oversee Intraw
 b) establishing procedures to receive and respond to inquiries or complaints; 
 c) training and communicating to staff about Intrawest's policies and practices; and 
 d) developing public information to explain Intrawest's policies and practices. 
-
-
 **Principle 2 - Identifying Purposes for Collection of Personal Information**
 
 Intrawest shall identify and document the purposes for which personal information is collected at or before the time the personal information is collected or, when appropriate, at or before the time the personal information is used for a new purpose. 
@@ -79,8 +75,6 @@ c) to meet legal and regulatory requirements;
 d) to understand needs and preferences of individuals; 
 e) to develop, enhance, market and/or provide products and services; 
 f) to manage and develop Intrawest's business and operations, including transfer of data among affiliated entities. 
-
-
 **Further references to "identified purposes" mean the purposes identified in this Principle.**
 
  **2.2** Intrawest shall, as appropriate, specify orally, electronically or in writing the identified purposes to the individual at or before the time personal information is collected. Upon request, persons collecting personal information shall explain these identified purposes or refer the individual to a designated person within Intrawest who shall explain the purposes.
@@ -123,8 +117,6 @@ e) a credit reporting agency;
 f) a public authority or agent of a public authority, if in the reasonable judgment of Intrawest, it appears that there is imminent danger to life or property which could be avoided or minimized by disclosure of the information; 
 g) another entity as part of a merger, a sale of assets or all or part of a business, or any other corporate change or re-organization; 
 h) a third party or parties, where the individual consents to such disclosure or disclosure is required or permitted by law. 
-
-
 **5.2** Only Intrawest employees with a business need to know, or whose duties reasonably so require, are granted access to personal information about individuals.
 
  **5.3** Depending on the circumstances, where personal information has been used to make a decision about an individual, Intrawest shall retain, for a reasonable period of time, either the actual information or the rationale for making the decision. 
@@ -182,10 +174,15 @@ An individual shall be able to address a challenge concerning compliance with th
 
  **10.2** Intrawest shall inform its customers about the existence of these procedures as well as the availability of complaint procedures.
 
- **10.3** The person or persons accountable for compliance with this Policy may seek external advice where appropriate before providing a final response to individual complaints.   
-**  
-Contact:** Ross Meacher, corporate secretary and chief privacy officer
+ **10.3** The person or persons accountable for compliance with this Policy may seek external advice where appropriate before providing a final response to individual complaints. 
 
-[ _yourprivacy@intrawest.com_](mailto:yourprivacy@intrawest.com)
+If you have questions or concerns about our privacy policy or practices, or would like changes to the communications we send you, please contact our Privacy Office.
 
+By email: | [_yourprivacy@intrawest.com_](mailto:yourprivacy@intrawest.com)  
+---|---  
+By phone: | 1 877 477 6777 (North American Toll Free Number)  
+00 800 6777 6777 (International Toll Free Number)  
+By mail: | Ross Meacher, Chief Privacy Officer, Intrawest Corporation  
+#800 - 200 Burrard Street, Vancouver, BC Canada V6C 3L6  
+  
 [**Politique De Confidentialité**](https://web.archive.org/politique.htm)
