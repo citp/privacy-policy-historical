@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the burlingtoncoatfactory.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216215902id_/http%3A//www.burlingtoncoatfactory.com/IWStoreBCF.process%3Ftem%3Dprivacy.tem) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burlingtoncoatfactory.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616205108id_/http%3A//www.burlingtoncoatfactory.com/IWStoreBCF.process%3Ftem%3Dprivacy.tem) for the most accurate reproduction.*
 
 # BurlingtonCoatFactory.com
 
@@ -31,7 +31,7 @@ If you choose to join our mailing list when you place an order, we may periodica
 
 Children Under 13 Years of Age
 
-It is not our intent to collect personal information about children under the age of 13. A child who is 13 but not yet 18 years of age may use this website only if a parent or legal guardian agrees to be bound by the website's [Terms of Use](https://web.archive.org/web/20051216215902id_/http%3A//www.burlingtoncoatfactory.com/IWStoreBCF.process?tem=termsofuse.tem) on the child's behalf. Children under 13 years of age may not use this website.
+It is not our intent to collect personal information about children under the age of 13. A child who is 13 but not yet 18 years of age may use this website only if a parent or legal guardian agrees to be bound by the website's [Terms of Use](https://web.archive.org/web/20060616205108id_/http%3A//www.burlingtoncoatfactory.com/IWStoreBCF.process?tem=termsofuse.tem) on the child's behalf. Children under 13 years of age may not use this website.
 
 Cookies and other Computer Information
 
