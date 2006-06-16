@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cooksrecipes.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214061726id_/http%3A//cooksrecipes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cooksrecipes.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616204626id_/http%3A//cooksrecipes.com/privacy.html) for the most accurate reproduction.*
 
 # Cooks Recipes | Privacy Policy for CooksRecipes.com
 
@@ -26,23 +26,6 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 For further information, please consult the privacy policies of:
 
-    **[AAA Fruit Baskets](http://www.qksrv.net/click-500065-52476)**
-    **[Adagio Tea](http://www.qksrv.net/click-500065-241010)**
-    **[CoffeeForLess.com](http://www.dpbolvw.net/aq115r09608OUPPPVUOQPSUYYQV)**
-    [**Commission Junction**](http://www.cj.com/)
-    **[eHarlequin.com](http://www.qksrv.net/click-500065-534091)**
-    **[Fastclick.com](http://www.fastclick.com/re.f?7609) **
-    **[Flying Noodle](http://www.qksrv.net/click-500065-3483747)**
-    **[GoCollect.com](http://www.qksrv.net/click-500065-487880)**
-    **[JustFlowers.com](http://www.qksrv.net/click-500065-3885639)**
-    **[Kitchen Collection, Inc.](http://www.qksrv.net/click-500065-9940142)**
-    [**MaxOnline.com**](http://www.maxonline.com/)
-    [**Nestlé USA Meals.com**](http://www.meals.com/)
-    [****](http://www.meals.com/)**[Pfaltzgraff](http://www.qksrv.net/click-500065-10297223)**
-    [****](http://www.meals.com/)**[The Home Marketplace](http://www.qksrv.net/click-500065-8234096)**
-    **[WALTER DRAKE®](http://www.qksrv.net/click-500065-4177592)**
-    **[zChocolat.com](http://www.qksrv.net/click-500065-10020803)**
-
 If CooksRecipes.com's policy on information practices change at some time in the future, we will use only the data collected from the time of our policy change forward.
 
 With respect to security: If and when CooksRecipes.com transfer and receive certain types of sensitive information, such as financial information, CooksRecipes.com will redirect visitors to a secure server and will notify visitors through a pop-up screen on our site.
@@ -51,4 +34,4 @@ Regarding Outside Links: This website contains links to other websites. Please b
 
 If you feel that this site is not following its stated information policy, you may contact The DMA's Committee on Ethical Business Practices at mgoldberger@the-dma.org, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>.
 
-[Contact CooksRecipes.com](https://web.archive.org/web/20051214061726id_/http%3A//cooksrecipes.com/contact.htm)
+[Contact CooksRecipes.com](https://web.archive.org/web/20060616204626id_/http%3A//cooksrecipes.com/contact.htm)
