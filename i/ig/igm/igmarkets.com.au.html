@@ -1,17 +1,19 @@
-<!--The following is the downloaded HTML source of the igmarkets.com.au privacy policy that was archived on 2005-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051231141041id_/http%3A//www.igmarkets.com.au/content/privacy_notice.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the igmarkets.com.au privacy policy that was archived on 2006-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060616085002id_/http%3A//www.igmarkets.com.au/content/privacy_notice.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 	<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
 	<title>IG Markets - Privacy Notice</title>
 	<meta name="description" content="IG Markets - CFD trading comes to Australia and New Zealand">
 	<meta name="keywords" content="cfd, cfds, contract for difference, contracts for difference, australia, new zealand, shares, margin, margin trading, ig markets, igmarkets, stock indices, currencies, foreign exchange">
-	<meta name="generated" content="12/21/2005 3:26:26 PM">
+	<meta name="generated" content="6/9/2006 12:05:19 PM">
+	<meta name="locale" id="locale" content="en_GB">
+	<meta name="softid" id="softid" content="##SOFTID##">
 	<style type="text/css">
 		@import url(/css/sitestyle.css);
 	</style>
-	<script type="text/javascript" src="/js/global-1.1.js"></script>
-	<script type="text/javascript" src="/js/local-1.js"></script>
+	<script type="text/javascript" language="javascript" src="/js/global-1.2.js"></script>
+	<script type="text/javascript" language="javascript" src="/js/local-2.js"></script>
 </head>
 <body id="notices">
 
@@ -118,15 +120,15 @@
 		<div class="body">
 			<span class="btn_help_gradient"><a href="/content/sites/aum/en_GB/he_logging_in.html"><span>Help</span></a></span>
 			<h3>Client Login</h3>
-			<form action="/login/dealing/cfd/security?action=authenticate" method="post" name="frmLogin" id="frmLogin" onsubmit="return validateForm(this)">
-				<input type="text" name="account_id" value="Account No." class="b5" size="14" maxlength="20" onkeyup="checkSubmit(event)" onchange="changeCase(this)" onfocus="clearField(this,'Account No.');">
-				<input type="password" name="password" value="........" class="b5" size="14" onkeyup="checkSubmit(event)" onfocus="clearField(this,'........');">
+			<form action="/login/dealing/cfd/security?action=authenticate" method="post" name="frmLogin" id="frmLogin">
+				<input type="text" name="account_id" value="Account No." class="b5" size="14" maxlength="20" onkeyup="checkSubmit(event);" onfocus="clearField(this);">
+				<input type="password" name="password" value="........" class="b5" size="14" onkeyup="checkSubmit(event);" onfocus="clearField(this);">
 				<input type="hidden" name="businessArea" value="F">
 				<input type="hidden" name="webSiteId" value="aum">
 				<input type="hidden" name="language" value="en">
 				<input type="hidden" name="locale" value="en_GB">
 				
-				<p class="btnGo"><a href="/content/sites/aum/en_GB/re_javascript_inactive.html" onclick="return submitLogin(document.forms['frmLogin'])">Go</a></p>
+				<p class="btnGo"><a href="/content/sites/aum/en_GB/re_javascript_inactive.html" onclick="submitLogin(document.frmLogin);return false;">Go</a></p>
 			</form>
 			<div class="spacer">&nbsp;</div>
 		</div>
@@ -138,18 +140,25 @@
 	<div class="tl"><div class="tr"></div>
 		<div class="body">
 			<h3>What's New</h3>
-			<div id="divScroller"></div>
-			<ul id="ulWhatsNew">
+			<div id="divScroller" style="display: none;"></div>
+			<ul id="ulWhatsNew" style="display: block;">
 				<!--#whatsnew#-->
+				<li><a href="/content/ne_sydneyseminar.html"><b>Sydney Seminar</b><p>FREE Seminar: An Introduction to CFDs</p></a></li>
+				<!--#end_whatsnew#--><!--#whatsnew#-->
+				<li><a href="/content/ne_commission.html"><b>$1 Minimum Commission</b><p>Trade Australian Share CFDs from as low as $1!</p></a></li>
+				<!--#end_whatsnew#--><!--#whatsnew#-->
+				<li><a href="/content/asian_indices.html"><b>Asian Indices</b><p>A selection of&nbsp;indices from India and South-East Asia...</p></a></li>
+				<!--#end_whatsnew#--><!--#whatsnew#-->
+				<li><a href="/content/ne_shares_expanded.html"><b>Range of Shares Expanded</b><p>Trade any of the 500 shares in the All Ordinary share index... </p></a></li>
+				<!--#end_whatsnew#--><!--#whatsnew#-->
 				<li><a href="/content/wn_sectors.html"><b>Sectors</b><p>Now you can trade Australian and UK sectors...</p></a></li>
-				<!--#end_whatsnew#--><!--#whatsnew#-->
-				<li><a href="/content/wn_tv.html"><b>New TV Advert!</b><p>Watch our new TV ad here, including shots of our dealing platform...</p></a></li>
-				<!--#end_whatsnew#--><!--#whatsnew#-->
-				<li><a href="/content/ne_binary_ladders.html"><b>Binary FX Ladders</b><p>A new type of Binary Trading on selected currency pairs...</p></a></li>
-				<!--#end_whatsnew#--><!--#whatsnew#-->
-				<li><a href="/content/ne_reduced_margin.html"><b>Reduced Margin Rates</b><p>Trade top Australian stocks with deposits as low as 5%... </p></a></li>
 				<!--#end_whatsnew#-->
 			</ul>
+			
+			<script type="text/javascript" language="javascript">
+			whatsNew("#336666", "#003333");
+			</script>
+			
 			<p class="btnGo"><a href="/content/wn_index.html">View all</a></p>
 		</div>
 	<div class="bl"><div class="br"></div></div></div>
@@ -163,6 +172,8 @@
 						<li><a href="/content/so_refer_a_friend.html">Refer-a-Friend</a></li>
 						<li><a href="/content/so_open_evenings.html">Open Evenings</a></li>
 						<li><a href="/content/md_index.html">Mobile Dealing</a></li>
+						<li><a href="/content/ut_index.html">Dealing Tour</a></li>
+						<li><a href="/content/so_corporate.html">Corporate Services</a></li>
 					</ul>
 			</td>
 		</tr>
