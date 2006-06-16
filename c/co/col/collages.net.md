@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collages.net privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221165728id_/http%3A//www.collages.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collages.net privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616204209id_/http%3A//www.collages.net/privacy.asp) for the most accurate reproduction.*
 
 # Collages.net - Wedding and Event Photography Web Sites
 
@@ -74,7 +74,7 @@ We use information we collect to:
 
   
   
-In addition, we may periodically make such information (except for credit card number and expiration date, unless you consent otherwise), including aggregated information, available to selected third parties including but not limited to, those who trade or rent information for direct marketing purposes. However, without your consent, we do not make your email addresses available to third parties (except to our Affiliates, subcontractors or agents acting on our behalf in compliance with this Privacy Policy) or any Successor (see below) to our business. “Affiliates” are those persons or entities directly or indirectly controlling, controlled by, or under common control with the Company. Any email sent to your gift or message recipients will include a link to our Privacy Policy and a link to unsubscribe if they wish not to receive further emails. You may instruct us not to share personal information about you that you have provided to us with third parties by following the instructions provided below. A Successor to our business is not considered to be a third party for these purposes (see below). 
+In addition, we may periodically make such information (except for credit card number and expiration date, unless you consent otherwise), including aggregated information, personally identifiable information with third party businesses and affiliates  for the purpose of direct mail, email marketing and telemarketing.  “Affiliates” are those persons or entities directly or indirectly controlling, controlled by, or under common control with the Company.  You may instruct us not to share personal information about you that you have provided to us with third parties by following the instructions provided below. A Successor to our business is not considered to be a third party for these purposes (see below). 
 
 In the event of a merger, consolidation, or sale or transfer of all or substantially all of the assets or business of the Company by, with, or into another company (a "Successor"), one of the assets which would generally be transferred is the information we collect from our customers, Members, and users. However, the use of this information by any Successor would still be governed by the terms of this Privacy Policy, as amended from time to time, including any amendment after such transaction, and you will continue to have the right to opt-out of sharing your information with third parties. 
 
@@ -126,5 +126,7 @@ Subject to the above provisions, by using our Web Site, you consent to the colle
 **Your Comments**
 
 Collages.net® welcomes feedback concerning this Privacy Policy. Please send your comments and questions to [ customerservice@Collages.net](mailto:customerservice@Collages.net).  
+  
+This policy was posted on March 20, 2004  
   
  
