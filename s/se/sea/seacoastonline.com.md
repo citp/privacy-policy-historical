@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seacoastonline.com privacy policy that was archived on 2005-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051126195544id_/http%3A//seacoastonline.com/news/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seacoastonline.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616144601id_/http%3A//seacoastonline.com/news/privacy.htm) for the most accurate reproduction.*
 
 # Ottaway Newspapers Privacy Policy
 
