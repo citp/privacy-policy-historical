@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the softforall.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212111026id_/http%3A//www.softforall.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softforall.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616112246id_/http%3A//www.softforall.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
-# Softforall,shareware and freeware download center, MP3, screensaver, flash, game and more...
+# softforall help center
 
   
 Privacy Policy
