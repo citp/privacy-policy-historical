@@ -1,28 +1,22 @@
-> *The following text is extracted and transformed from the whistlerblackcomb.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204101932id_/http%3A//www.whistlerblackcomb.com/email_deals/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whistlerblackcomb.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616081120id_/http%3A//www.whistlerblackcomb.com/privacy/index.htm) for the most accurate reproduction.*
 
-# Whistler Blackcomb - Privacy Policy
+# Whistler - Privacy Policy
 
-[Home](https://web.archive.org/) > Privacy Policy 
+## INTRAWEST CORPORATION PRIVACY POLICY 
 
-whistlerblackcomb.com believes that your personal information deserves protection. While you can visit the site without registering or providing any personal information, you will need to register if you want to make a purchase.
-
-#### What does whistlerblackcomb.com use your personal information for? 
-
-**INTRAWEST CORPORATION PRIVACY POLICY**
-
-  * Scope and Application
-  * Definitions
+  * _Scope and Application_
+  * _Definitions_
   * Intrawest's Ten Privacy Principles 
-    * Principle 1 Accountability
-    * Principle 2 Identifying Purposes for Collection of Personal Information
-    * Principle 3 Consent
-    * Principle 4 Limiting Collection of Personal Information
-    * Principle 5 Limiting Use, Disclosure of Retention of Personal Information
-    * Principle 6 Accuracy
-    * Principle 7 Security Safeguards
-    * Principle 8 Openness
-    * Principle 9 Individual Access
-    * Principle 10 Handling Inquiries and Challenges
+    * _Principle 1 Accountability_
+    * _Principle 2 Identifying Purposes for Collection of Personal Information_
+    * _Principle 3 Consent_
+    * _Principle 4 Limiting Collection of Personal Information_
+    * _Principle 5 Limiting Use, Disclosure of Retention of Personal Information_
+    * _Principle 6 Accuracy_
+    * _Principle 7 Security Safeguards_
+    * _Principle 8 Openness_
+    * _Principle 9 Individual Access_
+    * _Principle 10 Handling Inquiries and Challenges_
 
 
 
@@ -37,42 +31,38 @@ The scope and application of the Intrawest Privacy Policy are as follows:
   * The Policy does not apply to information about Intrawest's employees; however, such information is protected by other Intrawest policies and practices. 
   * This Policy is subject to change, and may be supplemented or modified by additional terms applicable between Intrawest and an individual. 
 
-
-
 **DEFINITIONS**
 
-**Collection** \- the act of gathering, acquiring, recording, or obtaining personal information.
+ **Collection** \- the act of gathering, acquiring, recording, or obtaining personal information.
 
-**Consent** \- voluntary agreement with the collection, use and disclosure of personal information for defined purposes. Consent can be either express, implied or deemed, and can be provided directly by the individual or by an authorized representative. Express consent can be given orally, electronically or in writing. Implied consent is consent that can reasonably be inferred from an individual's action or inaction. Deemed consent is consent that is deemed to be given pursuant to applicable legislation or other regulations.
+ **Consent** \- voluntary agreement with the collection, use and disclosure of personal information for defined purposes. Consent can be either express, implied or deemed, and can be provided directly by the individual or by an authorized representative. Express consent can be given orally, electronically or in writing. Implied consent is consent that can reasonably be inferred from an individual's action or inaction. Deemed consent is consent that is deemed to be given pursuant to applicable legislation or other regulations.
 
-**Disclosure** \- making personal information available to a third party.
+ **Disclosure** \- making personal information available to a third party.
 
-**Personal information** \- information about an identifiable individual, but does not include aggregated information that cannot be associated with a specific individual. Personal information also excludes certain information as is excluded pursuant to applicable legislation or other regulations, such as publicly available information or business contact information, as and when applicable.
+ **Personal information** \- information about an identifiable individual, but does not include aggregated information that cannot be associated with a specific individual. Personal information also excludes certain information as is excluded pursuant to applicable legislation or other regulations, such as publicly available information or business contact information, as and when applicable.
 
-**Intrawest** \- Intrawest Corporation, and its subsidiaries and certain designated affiliates, as they may exist from time to time, including Blackcomb Skiing Enterprises Limited Partnership; Whistler Mountain Resort Limited Partnership; Intrawest/Lodestar Limited Partnership; IW Resorts Limited Partnership; Mont Tremblant Resorts and Company, Limited Partnership; Copper Mountain, Inc.; Intrawest California Holdings, Inc.; Intrawest Golf Holdings, Inc.; Intrawest Resort Ownership Corporation; Intrawest Retail Group, Inc.; Intrawest Sandestin Company, L.L.C.; Intrawest/Winter Park Holdings Corporation; Mountain Creek Resort, Inc.; Mt. Tremblant Reservations Inc.; Playground Real Estate Inc.; Resort Reservations Network Inc.; Snowshoe Mountain, Inc.; Intrawest Golf Management (Canada) Ltd.; The Stratton Corporation; Blue Mountain Resorts Ltd.
+ **Intrawest** \- Intrawest Corporation, and its subsidiaries and certain designated affiliates, as they may exist from time to time, including Blackcomb Skiing Enterprises Limited Partnership; Whistler Mountain Resort Limited Partnership; Intrawest/Lodestar Limited Partnership; IW Resorts Limited Partnership; Mont Tremblant Resorts and Company, Limited Partnership; Copper Mountain, Inc.; Intrawest California Holdings, Inc.; Intrawest Golf Holdings, Inc.; Intrawest Resort Ownership Corporation; Intrawest Retail Group, Inc.; Intrawest Sandestin Company, L.L.C.; Intrawest/Winter Park Holdings Corporation; Mountain Creek Resort, Inc.; Mt. Tremblant Reservations Inc.; Playground Real Estate Inc.; Resort Reservations Network Inc.; Snowshoe Mountain, Inc.; Intrawest Golf Management (Canada) Ltd.; The Stratton Corporation; Blue Mountain Resorts Ltd.
 
-**Third party** \- an individual or organization outside Intrawest.
+ **Third party** \- an individual or organization outside Intrawest.
 
-**Use** \- the treatment, handling and management of personal information by and within an organization.
+ **Use** \- the treatment, handling and management of personal information by and within an organization.
 
-**Principle 1 - Accountability**
+ **Principle 1 - Accountability**
 
 Intrawest is responsible for personal information under its control and shall designate one or more persons who are accountable for Intrawest's compliance with the following principles.
 
-**1.1** Intrawest shall designate one or more persons to be accountable for compliance with the Policy. The Chief Privacy Officer is entitled to delegate day-to-day responsibility for administration of this Privacy Policy and related privacy policies and practices to other employees.
+ **1.1** Intrawest shall designate one or more persons to be accountable for compliance with the Policy. The Chief Privacy Officer is entitled to delegate day-to-day responsibility for administration of this Privacy Policy and related privacy policies and practices to other employees.
 
-**1.2** Intrawest shall make known, upon request, the title of the person or persons designated to oversee Intrawest's compliance with the Policy.
+ **1.2** Intrawest shall make known, upon request, the title of the person or persons designated to oversee Intrawest's compliance with the Policy.
 
-**1.3** Intrawest is responsible for personal information in its possession or under its control. Intrawest shall use appropriate means to protect personal information while information is being processed by a third party on behalf of Intrawest (see Principle 7).
+ **1.3** Intrawest is responsible for personal information in its possession or under its control. Intrawest shall use appropriate means to protect personal information while information is being processed by a third party on behalf of Intrawest (see Principle 7).
 
-**1.4** Intrawest shall implement policies and procedures to give effect to the Policy, including: 
+ **1.4** Intrawest shall implement policies and procedures to give effect to the Policy, including: 
 
 a) implementing procedures to protect personal information and to oversee Intrawest's compliance with the Intrawest Privacy Policy; 
 b) establishing procedures to receive and respond to inquiries or complaints; 
 c) training and communicating to staff about Intrawest's policies and practices; and 
 d) developing public information to explain Intrawest's policies and practices. 
-
-
 **Principle 2 - Identifying Purposes for Collection of Personal Information**
 
 Intrawest shall identify and document the purposes for which personal information is collected at or before the time the personal information is collected or, when appropriate, at or before the time the personal information is used for a new purpose. 
@@ -85,35 +75,33 @@ c) to meet legal and regulatory requirements;
 d) to understand needs and preferences of individuals; 
 e) to develop, enhance, market and/or provide products and services; 
 f) to manage and develop Intrawest's business and operations, including transfer of data among affiliated entities. 
-
-
 **Further references to "identified purposes" mean the purposes identified in this Principle.**
 
-**2.2** Intrawest shall, as appropriate, specify orally, electronically or in writing the identified purposes to the individual at or before the time personal information is collected. Upon request, persons collecting personal information shall explain these identified purposes or refer the individual to a designated person within Intrawest who shall explain the purposes.
+ **2.2** Intrawest shall, as appropriate, specify orally, electronically or in writing the identified purposes to the individual at or before the time personal information is collected. Upon request, persons collecting personal information shall explain these identified purposes or refer the individual to a designated person within Intrawest who shall explain the purposes.
 
-**Principle 3 - Consent**
+ **Principle 3 - Consent**
 
 The knowledge and consent of an individual are generally required for the collection, use or disclosure of personal information. In certain circumstances personal information can be collected, used or disclosed without the knowledge and consent of the individual, such as in the case of an emergency where the life, health or security of an individual is threatened.
 
 Intrawest may disclose personal information without knowledge or consent to a lawyer or other advisor representing Intrawest, to collect a debt, to comply with a subpoena, warrant or other court order, or as may be otherwise required or authorized by law.
 
-**3.1** In obtaining consent, Intrawest shall use reasonable efforts to ensure that an individual is advised of the identified purposes for which personal information will be used or disclosed. Purposes shall be stated in a manner that can be reasonably understood by the individual.
+ **3.1** In obtaining consent, Intrawest shall use reasonable efforts to ensure that an individual is advised of the identified purposes for which personal information will be used or disclosed. Purposes shall be stated in a manner that can be reasonably understood by the individual.
 
-**3.2** Generally, Intrawest shall seek consent to use and disclose personal information at the same time it collects the information. However, Intrawest may seek consent to use and disclose personal information after it has been collected, but before it is used or disclosed for a new purpose.
+ **3.2** Generally, Intrawest shall seek consent to use and disclose personal information at the same time it collects the information. However, Intrawest may seek consent to use and disclose personal information after it has been collected, but before it is used or disclosed for a new purpose.
 
-**3.3** Intrawest will require individuals to consent to the collection, use or disclosure of personal information as a condition of the supply of a product or service only if such collection, use or disclosure is reasonably required to fulfill the identified purposes.
+ **3.3** Intrawest will require individuals to consent to the collection, use or disclosure of personal information as a condition of the supply of a product or service only if such collection, use or disclosure is reasonably required to fulfill the identified purposes.
 
-**3.4** In determining the appropriate form of consent, Intrawest shall take into account the sensitivity of the personal information and the reasonable expectations of the individual.
+ **3.4** In determining the appropriate form of consent, Intrawest shall take into account the sensitivity of the personal information and the reasonable expectations of the individual.
 
-**3.5** Where consent is required for a particular use or disclosure, an individual may withdraw consent at any time, subject to legal or contractual restrictions and reasonable notice. Individuals may contact Intrawest for more information regarding the implications of withdrawing consent.
+ **3.5** Where consent is required for a particular use or disclosure, an individual may withdraw consent at any time, subject to legal or contractual restrictions and reasonable notice. Individuals may contact Intrawest for more information regarding the implications of withdrawing consent.
 
-**Principle 4 - Limiting Collection of Personal Information**
+ **Principle 4 - Limiting Collection of Personal Information**
 
 Intrawest shall limit the collection of personal information to that which is necessary for the purposes identified by Intrawest and as permitted by law. 
 
 **4.1** Intrawest collects personal information primarily from the individual to whom the information relates.
 
-**4.2** Intrawest may also collect personal information from other sources including credit bureaus or other third parties who represent that they have the right to disclose the information, or as otherwise permitted by law. 
+ **4.2** Intrawest may also collect personal information from other sources including credit bureaus or other third parties who represent that they have the right to disclose the information, or as otherwise permitted by law. 
 
 **Principle 5 - Limiting Use, Disclosure and Retention of Personal Information**
 
@@ -129,39 +117,37 @@ e) a credit reporting agency;
 f) a public authority or agent of a public authority, if in the reasonable judgment of Intrawest, it appears that there is imminent danger to life or property which could be avoided or minimized by disclosure of the information; 
 g) another entity as part of a merger, a sale of assets or all or part of a business, or any other corporate change or re-organization; 
 h) a third party or parties, where the individual consents to such disclosure or disclosure is required or permitted by law. 
-
-
 **5.2** Only Intrawest employees with a business need to know, or whose duties reasonably so require, are granted access to personal information about individuals.
 
-**5.3** Depending on the circumstances, where personal information has been used to make a decision about an individual, Intrawest shall retain, for a reasonable period of time, either the actual information or the rationale for making the decision. 
+ **5.3** Depending on the circumstances, where personal information has been used to make a decision about an individual, Intrawest shall retain, for a reasonable period of time, either the actual information or the rationale for making the decision. 
 
 **5.4** Intrawest shall maintain reasonable and systematic controls, schedules and practices for information and records retention and destruction which apply to personal information that is no longer necessary or relevant for the identified purposes or required or permitted by law to be retained. Such information shall be destroyed, erased or made anonymous.
 
-**5.5** Where appropriate, Intrawest may communicate updates of personal information to third parties.
+ **5.5** Where appropriate, Intrawest may communicate updates of personal information to third parties.
 
-**Principle 6 - Accuracy**
+ **Principle 6 - Accuracy**
 
 Intrawest shall take steps to ensure that personal information is as accurate, complete and up-to-date as is appropriate for its purposes. 
 
 **6.1** Personal information used by Intrawest shall be sufficiently accurate, complete and up-to-date to minimize the possibility that inappropriate information may be used to make a decision about an individual.
 
-**6.2** Intrawest shall update personal information about individuals as and when reasonably necessary to fulfill the identified purposes or as reasonably requested by the individual.
+ **6.2** Intrawest shall update personal information about individuals as and when reasonably necessary to fulfill the identified purposes or as reasonably requested by the individual.
 
-**Principle 7 - Security Safeguards**
+ **Principle 7 - Security Safeguards**
 
 Intrawest shall protect personal information by security safeguards appropriate to the sensitivity of the information. 
 
 **7.1** Intrawest shall take appropriate and reasonable steps to protect personal information against such risks as loss or theft, unauthorized access, disclosure, copying, use, modification or destruction.
 
-**7.2** Intrawest shall take appropriate and reasonable steps to protect personal information disclosed to third parties, for example by contractual agreements stipulating the confidentiality of the information and the purposes for which it is to be used.
+ **7.2** Intrawest shall take appropriate and reasonable steps to protect personal information disclosed to third parties, for example by contractual agreements stipulating the confidentiality of the information and the purposes for which it is to be used.
 
-**Principle 8 - Openness**
+ **Principle 8 - Openness**
 
 Intrawest shall make readily available to individuals specific information about its policies and practices relating to the management of personal information.
 
-**8.1** Copies of the Policy will be made available upon request.
+ **8.1** Copies of the Policy will be made available upon request.
 
-**8.2** Intrawest shall make information about its policies and procedures easy to understand, including: 
+ **8.2** Intrawest shall make information about its policies and procedures easy to understand, including: 
 
 a) the title and addresses of the person or persons accountable for Intrawest's compliance with the Policy and to whom inquiries or complaints can be forwarded; 
 b) the means of gaining access to personal information held by Intrawest; and 
@@ -172,22 +158,31 @@ c) a description of the type of personal information held by Intrawest, includin
 
 Upon request, Intrawest shall inform an individual of the existence, use and disclosure of his or her personal information, at a minimal or no cost to the individual. An individual shall be able to challenge the accuracy and completeness of the information and have it amended as appropriate.
 
-**9.1** In certain situations, Intrawest may not be able to provide access to all the personal information that it holds about an individual. For example, Intrawest may not provide access to information if doing so would likely reveal personal information about a third party or could reasonably be expected to threaten the life or security of an individual. Also, Intrawest may not provide access to information if disclosure would reveal confidential commercial information, if the information is protected by solicitor-client privilege, if the information was generated in the course of a formal dispute resolution process, or if the information was collected in relation to the investigation of a breach of an agreement or a contravention of a law. If access to personal information cannot be provided, Intrawest shall, upon request, provide the reasons for denying access.
+ **9.1** In certain situations, Intrawest may not be able to provide access to all the personal information that it holds about an individual. For example, Intrawest may not provide access to information if doing so would likely reveal personal information about a third party or could reasonably be expected to threaten the life or security of an individual. Also, Intrawest may not provide access to information if disclosure would reveal confidential commercial information, if the information is protected by solicitor-client privilege, if the information was generated in the course of a formal dispute resolution process, or if the information was collected in relation to the investigation of a breach of an agreement or a contravention of a law. If access to personal information cannot be provided, Intrawest shall, upon request, provide the reasons for denying access.
 
-**9.2** In order to safeguard personal information, an individual may be required to provide sufficient identification information to permit Intrawest to authorize access to the individual's file. 
+ **9.2** In order to safeguard personal information, an individual may be required to provide sufficient identification information to permit Intrawest to authorize access to the individual's file. 
 
 **9.3** Individuals can seek access to their personal information by contacting a designated representative at Intrawest.
 
-**9.4** Intrawest will endeavor to respond to all requests within 30 days or, in any event, as required or permitted by applicable law.
+ **9.4** Intrawest will endeavor to respond to all requests within 30 days or, in any event, as required or permitted by applicable law.
 
-**Principle 10 - Handling Inquiries and Challenges**
+ **Principle 10 - Handling Inquiries and Challenges**
 
 An individual shall be able to address a challenge concerning compliance with the above principles to the designated person or persons accountable for Intrawest's compliance with the Policy.
 
-**10.1** Intrawest shall maintain procedures for addressing and responding to all inquiries or complaints from individuals about Intrawest's handling of personal information.
+ **10.1** Intrawest shall maintain procedures for addressing and responding to all inquiries or complaints from individuals about Intrawest's handling of personal information.
 
-**10.2** Intrawest shall inform its customers about the existence of these procedures as well as the availability of complaint procedures.
+ **10.2** Intrawest shall inform its customers about the existence of these procedures as well as the availability of complaint procedures.
 
-**10.3** The person or persons accountable for compliance with this Policy may seek external advice where appropriate before providing a final response to individual complaints. 
+ **10.3** The person or persons accountable for compliance with this Policy may seek external advice where appropriate before providing a final response to individual complaints. 
 
-**Thank you for taking the time to review these policies which are for your convenience and safety.**
+If you have questions or concerns about our privacy policy or practices, or would like changes to the communications we send you, please contact our Privacy Office.
+
+By email: | [_yourprivacy@intrawest.com_](mailto:yourprivacy@intrawest.com)  
+---|---  
+By phone: | 1 877 477 6777 (North American Toll Free Number)  
+00 800 6777 6777 (International Toll Free Number)  
+By mail: | Ross Meacher, Chief Privacy Officer, Intrawest Corporation  
+#800 - 200 Burrard Street, Vancouver, BC Canada V6C 3L6  
+  
+**[Politique De Confidentialité](http://www.intrawest.com/politique.htm)**
