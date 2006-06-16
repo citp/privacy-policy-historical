@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cruises.com privacy policy that was archived on 2005-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051226050959id_/http%3A//www.cruises.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruises.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616212823id_/http%3A//www.cruises.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
