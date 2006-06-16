@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clipart.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221035716id_/http%3A//clipart.com/en/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clipart.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616204243id_/http%3A//clipart.com/en/company/privacy) for the most accurate reproduction.*
 
 # Clipart - Download Royalty-Free Clipart, Images, Fonts, Web Art and Graphics
 
@@ -6,7 +6,7 @@
 
 * * *
 
-We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only in effect for the Web pages, newsletters, discussion forums and lists and opt-in announcement lists owned and operated by Jupitermedia and its wholly-owned subsidiaries including, without limitation, JupiterImages Corporation, Hemera Technologies Inc. and the Dynamic Graphics Group (collectively hereafter "JUPM"). (The JUPM Network includes all Web sites and certain other Internet media properties linked directly or indirectly from the Jupitermedia.com home page.) The following discloses our Privacy Policy. 
+We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only in effect for the Web pages, newsletters, discussion forums and lists and opt-in announcement lists owned and operated by Jupitermedia and its wholly-owned subsidiaries including, without limitation, Jupiterimages Corporation, Hemera Technologies Inc. and the Dynamic Graphics Group (collectively hereafter "JUPM"). (The JUPM Network includes all Web sites and certain other Internet media properties linked directly or indirectly from the Jupitermedia.com home page.) The following discloses our Privacy Policy. 
 
 **What information are you collecting and how are you collecting it?**
 
