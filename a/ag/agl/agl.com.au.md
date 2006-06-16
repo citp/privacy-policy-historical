@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agl.com.au privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228031041id_/http%3A//www.agl.com.au/AGLNew/At%2Byour%2Bservice/Privacy%2Bstatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agl.com.au privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616072413id_/http%3A//www.agl.com.au/AGLNew/At%2Byour%2Bservice/Privacy%2Bstatement.htm) for the most accurate reproduction.*
 
 # AGL - Privacy Statement
 
@@ -47,17 +47,17 @@ If you have any queries on how we deal with your personal information or you wan
 
 ### Shareholders
 
-If you are an AGL shareholder we will have personal information about you to help us meet your needs as a shareholder. This could include your name, address, phone number and banking details. This information may be supplied by AGL to you, your stockbroker or some other agent acting on your behalf. AGL has secure systems operated by us to keep this information.
+If you are an AGL shareholder we will have personal information about you to help us meet your needs as a shareholder. This could include your name, address, phone number and banking details. This information may be supplied by AGL to you, your stockbroker or some other agent acting on your behalf. AGL contracts Link Market Services Limited to manage our share registry and maintain secure systems to keep this information.
 
 If in accordance with Australian tax laws, you choose to supply your Tax File Number (TFN), we give the relevant advice to the Australian Taxation Office (ATO). We may also provide dividend information to the ATO. AGL maintains TFNs in a secure area on the share register.
 
-AGL is committed to keeping your personal information secure and confidential. We do use related companies, contractors, agents and suppliers to assist us in servicing you. These parties may require access to some of your personal information. In such cases AGL requires these parties to maintain confidentiality and not misuse information. AGL takes its obligation to protect your information seriously and we make every effort to deal only with ethical suppliers who share and demonstrate respect for your privacy. Examples of these parties include the printing and mail-house businesses that produce and distribute annual reports and dividend advices, your bank in respect of direct payments and our computer system support companies.
+AGL is committed to keeping your personal information secure and confidential. We do use related companies, contractors, agents and suppliers to assist us in servicing you. These parties may require access to some of your personal information. In such cases AGL requires these parties to maintain confidentiality and not misuse information. AGL takes its obligation to protect your information seriously and we make every effort to deal only with ethical suppliers who share and demonstrate respect for your privacy. Examples of these parties include the printing and mail-house businesses that produce and distribute annual reports and dividend advices, your bank in respect of direct payments and Link Market Services Limited.
 
 Under Section 173 of Corporations Act 2001, AGL must allow inspection of the Company's share register to any person who applies for it. This register sets out all shareholders' names, addresses and share holdings. We sometimes provide information from the share register to meet the requirements of a requesting party, such as the top 100 shareholders. AGL does not knowingly supply shareholder information for purposes other than information that is considered in the interest of the shareholder, the investor market, brokers, financial journals and market analysts. 
 
 We may disclose your personal information to your stockbroker, accountant, a family member or other person who reasonably identifies themselves as authorised. We will generally seek some indication that the party contacting us is you or an authorised agent. If you cease to be a shareholder your records are kept securely by us.
 
-If you have any queries on how we deal with your personal information contact the AGL Share Registry on 02 9922 8259. If you want to review the personal information we have on you as a shareholder contact us as described in Access and correction below.
+If you have any queries on how we deal with your personal information or if you want to review the personal information we have on you as a shareholder contact **Link Market Services Limited** on **1800 724 514**. 
 
 | return to top |
 
@@ -136,4 +136,4 @@ We will consider any recommendation by you to change or correct information and 
 
 AGL may from time to time update this Privacy Statement. The current version is accessible through AGL's web site or can be obtained by contacting us.
 
-Version 3 03/2004
+Version 4 06/2006
