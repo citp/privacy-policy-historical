@@ -1,13 +1,14 @@
-<!--The following is the downloaded HTML source of the nmfn.com privacy policy that was archived on 2005-05-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050512074855id_/http%3A//www.nmfn.com/tn/global--privacy_statement_pg) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nmfn.com privacy policy that was archived on 2006-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060616120640id_/http%3A//www.nmfn.com/tn/global--privacy_statement_pg) for the most accurate reproduction.-->
 
 <html><head>
  
   <title name="documentTitle" id="documentTitle">NMFN: Online Privacy Statement</title>  
   <meta name="description" id="description" content="NMFN privacy statement."> 
   <meta name="robots" id="robots" content="follow,index"> 
-  <meta name="keywords" id="keywords" content=""> 
+  <meta name="keywords" id="keywords" content="">  
   <meta name="googlebot" content="follow,index"> 
+   
    
    
    
@@ -605,7 +606,7 @@
 
 
  
-<span name="nmfnFooterContent" id="nmfnFooterContent"><nmfnfootercontent><p><a href="/tn/global--sitemap--site_map">Site Index</a> |&nbsp;<a href="/tn/listpages--contact_us_forms_listing_pg">Contact Us</a> |&nbsp;<a href="/tn/listpages--faq_listing_page">FAQ</a></p><p><a href="/tn/global--legal_notice_pg">Legal Notice</a> |&nbsp;<a href="/tn/global--privacy_statement_pg">Online Privacy Statement</a> |&nbsp;<a href="/tn/global--disclosures_pg">Disclosures</a> |&nbsp;<a href="/tn/global--customer_privacy_pg">Customer Privacy Notice</a></p><p>Copyright 2005, The Northwestern Mutual Life Insurance Company/Northwestern Mutual, Milwaukee, WI. All rights reserved. 720 East Wisconsin Avenue, Milwaukee, Wisconsin 53202-4797 - (414) 271-1444. The Northwestern Mutual Financial Network is a marketing name for the sales and distribution arm of The Northwestern Mutual Life Insurance Company, its affiliates and subsidiaries.</p></nmfnfootercontent></span> 
+<span name="nmfnFooterContent" id="nmfnFooterContent"><nmfnfootercontent><p><a href="/tn/global--sitemap--site_map">Site Index</a> |&nbsp;<a href="/tn/listpages--contact_us_forms_listing_pg">Contact Us</a> |&nbsp;<a href="/tn/listpages--faq_listing_page">FAQ</a></p><p><a href="/tn/global--legal_notice_pg">Legal Notice</a> |&nbsp;<a href="/tn/global--privacy_statement_pg">Online Privacy Statement</a> |&nbsp;<a href="/tn/global--disclosures_pg">Disclosures</a> |&nbsp;<a href="/tn/global--customer_privacy_pg">Customer Privacy Notice</a></p><p>Copyright 2006, The Northwestern Mutual Life Insurance Company/Northwestern Mutual, Milwaukee, WI. All rights reserved. 720 East Wisconsin Avenue, Milwaukee, Wisconsin 53202-4797 - (414) 271-1444. The Northwestern Mutual Financial Network is a marketing name for the sales and distribution arm of The Northwestern Mutual Life Insurance Company, its affiliates and subsidiaries.</p></nmfnfootercontent></span> 
  
  
 
@@ -640,10 +641,17 @@
  
 <span name="VisibilityWebSiteStory"> 
 <script language="javascript"> 
+var _cstnextlevel=""; 
 function GetParmValue(p){ 
 	var param=p.toLowerCase(); 
 	var q=document.URL.toLowerCase(); 
  if (q.indexOf("?")>0) { 
+   if (q.indexOf("tmxcat")>0 && q.indexOf("newsbrief")>0) { 
+   	_cstnextlevel="newsbrief"; 
+   	} 
+  	if (q.indexOf("tmxcat")>0 && q.indexOf("opportunities")>0) { 
+    	_cstnextlevel="opportunities"; 
+   	} 
 	if (q.indexOf(param)>0) { 
 	  var s = q.split('?'); 
 	  if (s.length > 0) { 
@@ -673,7 +681,6 @@ function GetParmValue(p){
 <script name="hbx_acct_variable" language="JavaScript">var _acctnum = "DM52070914SD59EN3;DM521221DOSE11EN3;DM5405019BFR59EN3";</script> 
 <script name="mlc_variable" language="JavaScript">var _cstmlc = "/NMFN";</script> 
 <script language="JavaScript"> 
-// Split Type of site from Agent(cy) number in _cstmlc = "/FR/47666" 
 var siteType = ""; 
 if (_cstmlc.indexOf("/")==0) { 
 	var xx = _cstmlc.split('/'); 
@@ -682,7 +689,12 @@ if (_cstmlc.indexOf("/")==0) {
 	} 
 } 
 var _cstpn= GetParmValue("page"); 	//get page name(s) from URL page variable 
-if (_cstmlc!="/NMFN" && siteType!="FR") { 
+var _cstmlc2 = _cstmlc;  
+if (_cstnextlevel != ""){ 
+	_cstmlc = _cstmlc+"/"+_cstnextlevel; // add next level to content category if exists 
+} 
+ 
+if (_cstmlc2!="/NMFN" && siteType!="FR") { 
   if (_cstpn=="noPageParm") _cstpn="HomePage"; // set to HomePage for non-nmfn pages without the URL Page parameter 
   _cstmlc=_cstmlc+"/"+_cstpn; // this will build next level for Content Daily Uniques Visitors 
   }else{ 
@@ -693,17 +705,12 @@ if (_cstmlc!="/NMFN" && siteType!="FR") {
 <script language="javascript1.1" defer="" src="/tnetwork/script/hbx.js"></script> 
 </span> 
  
-<script> 
-	function SustainSession(){ 
-				var now = new Date(); 
-				var image=new Image();image.src="/tn/SustainSession" + now.getTime(); 
-				window.setTimeout("SustainSession()", 160000,'javascript' ); 
-	} 
-	window.setTimeout("SustainSession()", 160000,'javascript' ); 
-</script> 
+ 
+ 
  
 <span name="DebugXML"></span> 
-<div name="hostNodeAndCluster" id="hostNodeAndCluster" value="02:primary"></div> 
+ 
+<div name="hostNodeAndCluster" id="hostNodeAndCluster" value="01:primary"></div> 
 
 </form>
  
