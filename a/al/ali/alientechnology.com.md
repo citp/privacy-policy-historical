@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alientechnology.com privacy policy that was archived on 2005-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051208085248id_/http%3A//www.alientechnology.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alientechnology.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616055017id_/http%3A//www.alientechnology.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Alien Technology - Privacy Policy
 
