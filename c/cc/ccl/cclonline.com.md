@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cclonline.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219153003id_/http%3A//www.cclonline.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cclonline.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616041800id_/http%3A//www.cclonline.com/privacy.asp) for the most accurate reproduction.*
 
 # CCL Computers
 
@@ -21,11 +21,15 @@ In this Privacy Policy references to “we” and “us” are to CCL Computers 
 
 Any personal information we collect from this website will be used in accordance with the Data Protection Act 1998 and other applicable laws. Information supplied by customers will be used solely for the use of provision and improvement of product and services supplied by CCL Computers Ltd. The details that we collect will be used for the following purposes:
 
-> **2.1      **When opening an account and placing an order with us we require contact information (such as details of your name, delivery address, invoice address, e-mail address), financial information (such as credit or debit card number, the cards CSV number and expiry date) and unique identifiers (such as username and password). Contact data is stored for use in all our marketing communications and analysis. Financial information is used to verify the user’s qualifications for registration and to invoice the user for the products and services they have requested. Unique identifiers are used to verify the user’s identity. 
+> **2.1      **When opening an account and placing an order with us we require contact information (such as details of your name, delivery address, invoice address, e-mail address), financial information (such as credit or debit card number, the cards CSV number and expiry date) and unique identifiers (such as username and password). Contact data is stored for use in all our marketing communications and analysis. Financial information is used to verify the user’s qualifications for registration and to invoice the user for the products and services they have requested. Unique identifiers are used to verify the user’s identity.    
 > 
-> **2.2      **We also request for a telephone number which enables us to contact you in the event of there being a problem or query with your order or account. 
+> 
+> **  
+> 2.2      **We also request for a telephone number which enables us to contact you in the event of there being a problem or query with your order or account. 
 > 
 > **2.3      **Should you enter a competition or other promotional feature on our website we may ask you for your name, address, e-mail address and telephone number in order that we may efficiently administer the competition and promotion as well as notifying the winners.
+> 
+> **2.4**      Calls to the Contact Centre maybe monitored or recorded for quality control and training purposes. 
 
 **3.0       How we use this information**
 
