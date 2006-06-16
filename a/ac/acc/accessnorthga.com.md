@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accessnorthga.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230085756id_/http%3A//www.accessnorthga.com/etc/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accessnorthga.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616233305id_/http%3A//www.accessnorthga.com/etc/privacy.asp) for the most accurate reproduction.*
 
 # AccessNorthGa.com - North Georgia's Newsroom
 
