@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mbna.ca privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228122708id_/http%3A//www.mbna.com/canada/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbna.ca privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616030414id_/http%3A//www.mbna.com/canada/privacy.html) for the most accurate reproduction.*
 
 # MBNA Canada—Privacy Notice
 
-[This privacy notice is also available in printable PDF format](https://web.archive.org/web/20051228122708id_/http%3A//www.mbna.com/canada/pdf_files/canada_privacy.pdf)   
+[This privacy notice is also available in printable PDF format](https://web.archive.org/web/20060616030414id_/http%3A//www.mbna.com/canada/pdf_files/canada_privacy.pdf)   
 (PDF format requires [Adobe Reader](http://www.mbna.com/weblink/disclosure.jsp?disclosureNumber=2&destination=http://www.adobe.com/products/acrobat/readstep2.html?c=ca))
 
 MBNA Canada Bank is affiliated with the world’s largest independent credit card issuer. Our financial products and services are endorsed by hundreds of organizations and financial institutions. We back our financial products and services with top quality service. Collecting, protecting, using, sharing, and retaining information about you helps us do this. This notice explains MBNA’s personal information collection, protection, use, sharing, and retention practices and lets you choose whether MBNA may share certain information about you.
@@ -111,7 +111,7 @@ Further, we share only the personal information we believe is needed to offer a 
 
 **Access Requests**
 
-To request access to your personal information in our possession, complete a [personal information request form (PDF)](https://web.archive.org/web/20051228122708id_/http%3A//www.mbna.com/canada/pdf_files/Access%20Request%20Form_No%20Fee%20Version.pdf) or write to us at: MBNA Canada, P.O. Box 9660, Ottawa, ON K1G 6M9. Your request must include a copy of a valid driver’s license, birth certificate, passport, or certificate of Canadian citizenship. To inquire about your personal information in our possession or make corrections to it, write to us at the same address.
+To request access to your personal information in our possession, complete a [personal information request form (PDF)](https://web.archive.org/web/20060616030414id_/http%3A//www.mbna.com/canada/pdf_files/Access%20Request%20Form_No%20Fee%20Version.pdf) or write to us at: MBNA Canada, P.O. Box 9660, Ottawa, ON K1G 6M9. Your request must include a copy of a valid driver’s license, birth certificate, passport, or certificate of Canadian citizenship. To inquire about your personal information in our possession or make corrections to it, write to us at the same address.
 
 PDF format requires [Adobe Reader](http://www.mbna.com/weblink/disclosure.jsp?disclosureNumber=2&destination=http://www.adobe.com/products/acrobat/readstep2.html?c=ca)
 
