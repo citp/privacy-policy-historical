@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petro-canada.ca privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218013738id_/http%3A//www.petro-canada.ca/eng/misc/5588.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petro-canada.ca privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617002509id_/http%3A//petro-canada.ca/eng/misc/5588.htm) for the most accurate reproduction.*
 
 # Petro-Canada Privacy Policy
 
@@ -23,7 +23,7 @@ Petro-Canada collects your personal information through various means, such as t
 Petro-Canada collects this information so that we can carry out one or more of the following:
 
   * Administer the Petro-Points program; 
-  * Provide you with ongoing services relating to your purchases of Petro-Canada products including, but not limited to, fuel, lubricants, car care, parts, warranties and other offerings;
+  * Provide you with ongoing services relating to your purchases of Petro-Canada products, including, but not limited to, fuel, lubricants, car care, warranties and other offerings; 
   * Include you in preferred customer activities, such as special promotions and bonus offers; 
   * Manage, develop and improve our business and operations; 
   * Complete the necessary credit investigation(s) when you are applying for credit (i.e., Petro-Canada SuperPass credit card,  other commercial credit cards, or wholesale account); 
@@ -92,7 +92,8 @@ To help us serve you better, we continuously and automatically collect generic, 
 
 Petro-Canada reserves the right to change this policy at any time. Please check this page periodically for changes.
 
-Updated Tuesday, Dec. 23, 2003 at 1:41 p.m. EST.  
+Updated Tuesday, Jan. 17, 2006 at 1:41 p.m. EST.  
   
+   
    
   |  |  
