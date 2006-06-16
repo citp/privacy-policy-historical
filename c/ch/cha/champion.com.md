@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the champion.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210061939id_/http%3A//www.championmortgage.com/marketing/legalprivacy/legalprivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the champion.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617005658id_/http%3A//www.championmortgage.com/marketing/legalprivacy/legalprivacy.asp) for the most accurate reproduction.*
 
 # The home equity lenders at Champion Mortgage are committed to your privacy
 
-Privacy is an important issue. We provide this Policy as required by law to explain our information practices. It applies to the Key family of companies listed at the end of this Policy. Please read and retain this Policy to learn how we collect and use information about you, and your rights to limit the sharing and use of information.
+**Privacy is an important issue. We provide this Policy as required by law to explain our information practices. It applies to the Key family of companies listed at the end of this Policy. Please read and retain this Policy to learn how we collect and use information about you, and your rights to limit the sharing and use of information.**
 
 **How do we protect information?**  
-KeyCorp ("Key") does not share customer information about you outside of the Key family of companies, except as permitted by law. Key has strict standards and procedures designed to prevent unauthorized access to information. We apply these standards and procedures to our facilities and online services. Our safeguards meet or exceed federal standards for protecting consumer information. We permit only authorized employees, who have been trained in the proper handling of information, to have access to that information. If an employee were to violate Key's privacy procedures, they would be subject to disciplinary action.  
+KeyCorp ("Key") does not share customer information about you outside of the Key family of companies, except as permitted by law. Key has strict standards and procedures designed to prevent unauthorized access to information. We apply these standards and procedures to our facilities and online services. Our safeguards meet or exceed federal standards for protecting consumer information. We permit only authorized employees, who have been trained in the proper handling of information, to have access to that information. If an employee were to violate Key’s privacy procedures, they would be subject to disciplinary action.   
 
 
 **What are your options?**  
-Telling us not to share or use information is called "opting out". Key automatically opts you out of external information sharing with third parties outside Key. Key will not disclose information about you to third parties, except as permitted by law. You can also tell us not to share certain information within the Key family of companies, and not to use information for marketing purposes across the Key family of companies. You may also request that we not solicit you.
+Telling us not to share or use information is called "opting out". Key automatically opts you out of external information sharing with third parties outside Key. Key will not disclose information about you to third parties, except as permitted by law. You can also tell us not to share certain information within the Key family of companies, and not to use information for marketing purposes across the Key family of companies. You may also request that we not solicit you. 
 
 **How do you exercise your options?**   
 The **"YOUR OPTIONS"** section explains how to opt out of internal information sharing, limit internal use of information for marketing purposes, and restrict solicitations. 
@@ -46,17 +46,17 @@ _This Policy supersedes all previous notices or statements about practices descr
 
 **SHARING AND USING INFORMATION**
 
-Key reserves the right to share and/or use all information we collect as this Policy describes. We do not share information about you with third parties outside of Key, except as permitted by law. 
+Key reserves the right to share and/or use all information we collect as this Policy describes. We do not share information about you with third parties outside of Key, except as permitted by law.
 
 **Types of Information**  
-**Personal Private Information** \- non-public personal information that you provide to Key (e.g., birth date, marital status, employer and salary) or Key obtains from a third party (e.g., credit bureau).   
+**Personal Private Information** \- non-public personal information that you provide to Key (e.g., birth date, marital status, employer and salary) or Key obtains from a third party (e.g., credit bureau).  
 **Transaction and Experience Information** \- information Key develops from our relationship with you (e.g., account number, account balances and payment history).  
-**Identification Information** \- information Key obtains regarding your identification (e.g., name, address, telephone number and Social Security number). 
+**Identification Information** \- information Key obtains regarding your identification (e.g., name, address, telephone number and Social Security number).
 
 **Sharing Information with Outside Companies (External Sharing)**  
-We do not provide information about you to third parties outside of Key, except as permitted by law. When Key does disclose information about you to third parties under the limited legal exceptions, the third parties are required to treat the information they receive about you in strict confidence; to use it only for the purpose for which it was shared; and not to use the information for their own marketing purposes. Key does not sell information about you to third parties. 
+We do not provide information about you to third parties outside of Key, except as permitted by law. When Key does disclose information about you to third parties under the limited legal exceptions, the third parties are required to treat the information they receive about you in strict confidence; to use it only for the purpose for which it was shared; and not to use the information for their own marketing purposes. Key does not sell information about you to third parties.
 
-In addition to the "Additional Opt Out Exceptions" listed below, Key may from time to time share information to jointly market other financial institutions' products and services (e.g., mortgage bankers/brokers, insurance agents/companies, securities broker/dealers, indirect loan originators, correspondent lenders and transaction processors). 
+In addition to the "Additional Opt Out Exceptions" listed below, Key may from time to time share information to jointly market other financial institutions' products and services (e.g., mortgage bankers/brokers, insurance agents/companies, securities broker/dealers, indirect loan originators, correspondent lenders and transaction processors).
 
 **Sharing Information within Key (Internal Sharing)**  
 Key engages in several businesses (e.g., banking, mortgage lending, brokerage and investment services, trust administration, asset management and insurance). We may share Personal Private, Transaction and Experience, as well as Identification Information internally to prevent fraud, enhance services, and tailor products and services. Employees are only authorized to share information when a "business need to know" exists. 
@@ -78,17 +78,11 @@ Even if you opt out of using information for marketing purposes, Key may use inf
 It is important to understand that even if you opt out, in addition to those exceptions listed above, Key may continue to share or use information about you for the following:
 
   * To perform services (e.g., check printing, loan servicing, printing statements, bill payment, e-mail services and mail house services); 
-
   * To process your account or enforce your agreement with us; 
-
   * To protect the rights, property or safety of Key, our customers or others (e.g., to protect against fraud and to reduce credit risk); 
-
   * To comply with a legal requirement or process (e.g., subpoena or court order); 
-
   * To comply with your request or authorization to share information; and 
-
   * To furnish information to consumer reporting agencies. 
-
 
 
 
@@ -120,7 +114,9 @@ If you wish to opt out, your election can apply to the following:
 Your opt out elections will apply to all products and services you obtain within the Key family of companies. If you have a product or service jointly with another person(s), each of you may opt out individually or you may opt out for each other. If you opt out, we still may share or use information about a joint party(ies) unless you or someone else authorized to do so have opted out for that party.
 
 **Solicitation Preferences**  
-If you prefer not to receive promotional offers from Key by mail, telephone, or facsimile machine (fax) from Key, you may record your solicitation preferences with us at our toll-free number listed below. Recording a Do Not Solicit preference will not prohibit your account representative(s) from contacting you for account-related notifications, service or support activities.
+_This Policy constitutes Key’s Do Not Call Policy under the Telephone Consumer Protection Act for all KeyCorp consumers._
+
+If you prefer not to receive promotional offers from Key by mail, telephone, or facsimile machine (fax), you may record your solicitation preferences with us at our toll-free number listed below. Recording a Do Not Solicit preference will not prohibit your account representative(s) from contacting you for account-related notifications, service or support activities. 
 
 If you prefer not to receive e-mail offers for products and services from Key, send an e-mail to DNERequests@Key.com with 'No Promotional E-Mails' in the SUBJECT line. For your convenience a link is provided at the bottom of most e-mails sent by Key. 
 
@@ -137,12 +133,12 @@ If you prefer not to receive e-mail offers for products and services from Key, s
 **Information Collection Procedures for Opening Accounts**  
 To help the government fight the funding of terrorism and money laundering activities, federal law requires all financial institutions to obtain, verify, and record information that identifies each customer who opens an account. Therefore, all new and existing customers are subject to the identity verification requirements. 
 
-When you open an account with any entity within the Key family of companies, we will ask for your name, address and identification number, and, in the case of an individual, your date of birth. For business accounts, we may also obtain this information for individuals associated with the business. We may also request to see a driver's license or other identifying documents. In all cases, Key is committed to protecting your privacy and identity. 
+When you open an account with any entity within the Key family of companies, we will ask for your name, address and identification number, and, in the case of an individual, your date of birth. For business accounts, we may also obtain this information for individuals associated with the business. We may also request to see a valid driver’s license or other approved identifying documents. In all cases, Key is committed to protecting your privacy and identity.
 
 **This Policy applies to the following Key family of companies:**  
-KeyBank National Association; McDonald Investments Inc.; Victory Capital Management Inc.; Key Bank Life Insurance, Ltd.; Key Financial Services Inc.; KeyCorp Finance Inc.; KeyCorp Insurance Agency, Inc. (NY); KeyCorp Insurance Agency USA Inc. (ID); KeyCorp Insurance Agency USA Inc. (WA); Champion Financial Services, Inc.; Gradison Insurance Agency, Inc.; McD Agency PA, Inc.; KeyTrust Company National Association; SecoLink Settlement Services, LLC. 
+KeyBank National Association; McDonald Investments Inc.; Victory Capital Management Inc.; Key Bank Life Insurance, Ltd.; Key Financial Services Inc.; KeyCorp Finance Inc.; KeyCorp Insurance Agency, Inc. (NY); KeyCorp Insurance Agency USA Inc. (ID); KeyCorp Insurance Agency USA Inc. (WA); Champion Financial Services, Inc.; Gradison Insurance Agency, Inc.; McD Agency PA, Inc.; KeyTrust Company National Association; SecoLink Settlement Services, LLC; Key Investment Services LLC; Austin Capital Management LTD.; Austin Capital Offshore Management, LLC.
 
-Form No 80-0405x (5/31/2005)
+Form No 80-0405x (Rev. 6/01/2006)
 
 **IMPORTANT INFORMATION FOR VERMONT AND CALIFORNIA CONSUMERS**
 
@@ -174,7 +170,7 @@ If you have a California mailing address, we will automatically limit the disclo
 
 Your election(s) will apply to all products and services you obtain within the Key family of companies for personal, family or household purposes. If you wish to update your elections or if you would like more information about your options, call our dedicated toll free Privacy Line at **1-800-361-0968**.
 
-CS3240                                                                                                  Form No. 80-0405 Key Supp (5-20-2005) 
+CS7092                                                                                          Form No. 80-0405 Key Supp (Rev. 5/20/2005) 
 
   
 
