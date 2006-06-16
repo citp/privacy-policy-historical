@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the heidi.ie privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231174307id_/http%3A//www.heidi.ie/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heidi.ie privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616080703id_/http%3A//heidi.ie/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # Heidi Computers Limited - Internet Security and Software Server manufacturers
 
 **  
-** If you have questions or concerns regarding this Policy, contact us by any means listed on our [contact page](https://web.archive.org/web/20051231174307id_/http%3A//www.heidi.ie/contact_us.php). 
+** If you have questions or concerns regarding this Policy, contact us by any means listed on our [contact page](https://web.archive.org/web/20060616080703id_/http%3A//heidi.ie/contact_us.php). 
 
 **Privacy Policy**  
 Our Privacy Policy was developed as an extension of our commitment to combine the highest-quality products and services with the highest level of integrity in dealing with our clients and partners. The Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. This statement will be continuously assessed against new technologies, business practices and our customers' needs. 
@@ -74,4 +74,4 @@ We may provide aggregate information about our customers, sales, Web site traffi
 **What About Legally Compelled Disclosure of Information?** We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights. 
 
 **Your consent and changes to the Privacy Policy  
-** By using the our web sites , you consent to the collection and use of your information as we have outlined in this policy and to our [Terms of Use Policy](https://web.archive.org/web/20051231174307id_/http%3A//www.heidi.ie/Termsofuse.php). We may decide to change this Privacy Policy from time to time. When we do, we will post those changes on this page.
+** By using the our web sites , you consent to the collection and use of your information as we have outlined in this policy and to our [Terms of Use Policy](https://web.archive.org/web/20060616080703id_/http%3A//heidi.ie/Termsofuse.php). We may decide to change this Privacy Policy from time to time. When we do, we will post those changes on this page.
