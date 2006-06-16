@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cccapply.org privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231205015id_/http%3A//www.cccapply.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cccapply.org privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616104129id_/http%3A//cccapply.org/privacy.asp) for the most accurate reproduction.*
 
 # CCCApply - Privacy Policy Statement
 
@@ -65,7 +65,7 @@ In each of the circumstances described below, data specifically required to perf
 
 
 **SECURITY MEASURES TO PREVENT MISUSE OF INFORMATION ENTRUSTED TO CCCAPPLY**  
-CCCApply enables the data you input to be encrypted when in route between your browser and the CCCApply™ server and when in route between the CCCApply server and some other browser or server. This practice helps prevent unauthorized third parties from intercepting and gaining access to your private data during transmission over the Internet. CCCApply uses 56-bit, Secure Socket Layer encryption supported by both Netscape's and Microsoft's current browsers. 
+CCCApply enables the data you input to be encrypted when in route between your browser and the CCCApply server and when in route between the CCCApply server and some other browser or server. This practice helps prevent unauthorized third parties from intercepting and gaining access to your private data during transmission over the Internet. CCCApply uses 56-bit, Secure Socket Layer encryption supported by both Netscape's and Microsoft's current browsers. 
 
 Data residing on the CCCApply server is password protected, and access is provided only to those employees of Xap Corporation who require such access to administer and maintain the CCCApply system or to provide requested customer support to users of CCCApply. Each Xap Corporation employee who has access to the data residing on the CCCApply server has agreed in writing to respect the privacy of all such personal data. 
 
@@ -80,11 +80,11 @@ A cookie is a small file that a website transfers to a user's computer, which ma
 Most browsers are initially set to accept cookies. If you don't want cookies, you can set your browser to disable or refuse cookies or to alert you when cookies are being used. You should note, however, that various CCCApply services might not function properly when cookies are not utilized. 
 
 **LINKS**  
-CCCApply™ contains links to other sites having privacy policies that may differ from those of CCCApply™. The Chancellor's Office California Community Colleges and Xap Corporation are not responsible for the privacy practices or the content of any websites to which CCCApply™ links.   
+CCCApply contains links to other sites having privacy policies that may differ from those of CCCApply. The Chancellor's Office California Community Colleges and Xap Corporation are not responsible for the privacy practices or the content of any websites to which CCCApply links.   
 
 
 **MODIFYING AND DELETING YOUR INFORMATION**  
-You may update, otherwise modify or delete from the data stored on CCCApply™ any personal information you previously provided. To modify personal information, (1) log on to CCCApply™, (2) access either your user profile or an application containing the information you want to change, and (3) modify that information using standard word-processing techniques. To delete personal information, (1) log on to CCCApply™, (2) access your user profile, and (3) delete the information you want to remove from CCCApply™ using standard word-processing techniques. Please recognize that if you delete information, it will no longer be available on CCCApply™ so that, for example, if a college to which you previously submitted an application were to attempt to retrieve that application from CCCApply™ after you made the deletion the deleted information would no longer be accessible. Similarly, when accessed over CCCApply™ information that has been updated or otherwise modified will appear in its then most current form, rather than in the form in which it may have been submitted at some earlier time.   
+You may update, otherwise modify or delete from the data stored on CCCApply any personal information you previously provided. To modify personal information, (1) log on to CCCApply, (2) access either your user profile or an application containing the information you want to change, and (3) modify that information using standard word-processing techniques. To delete personal information, (1) log on to CCCApply, (2) access your user profile, and (3) delete the information you want to remove from CCCApply using standard word-processing techniques. Please recognize that if you delete information, it will no longer be available on CCCApply so that, for example, if a college to which you previously submitted an application were to attempt to retrieve that application from CCCApply after you made the deletion the deleted information would no longer be accessible. Similarly, when accessed over CCCApply information that has been updated or otherwise modified will appear in its then most current form, rather than in the form in which it may have been submitted at some earlier time.   
 
 
 **QUESTIONS**  
