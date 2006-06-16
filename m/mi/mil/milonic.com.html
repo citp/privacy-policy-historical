@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the milonic.com privacy policy that was archived on 2005-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051217170524id_/http%3A//www.milonic.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the milonic.com privacy policy that was archived on 2006-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060616041247id_/http%3A//www.milonic.com/privacy.php) for the most accurate reproduction.-->
 
 <html><head>
 <title>Milonic Solutions Privacy Policy</title>
 <!--UdmComment-->
-<meta name="Description" content="JavaScript Menus, DHTML Menus, Popup Menus, Tree Menus. If it's web site navigation you want; You name it, we'll do it. Fully Cross Browser Popup Web Site Navigation Systems. Free for non profits and Free fully supported Open Source licenses.">
+<meta name="Description" content="JavaScript Website DHTML Menus, Pulldown Menus, Popup Menus, Tree Menus, Tooltips, Color Pickers, Date Pickers. If it's web site navigation you want, you name it, we'll do it. Fully Cross Browser Popup Web Site Navigation Systems. Free for non profits and Free fully supported Open Source licenses.">
+<meta name="keywords" content="javascript menu, dhtml menu, dhtml, javascript, popup, popup menu, website menu, navigation menu, menu bar, cross browser menu, pop up, code, builder, cascading, css, pop-up, popup, dynamic,script, samples, jscript,drop down, development, editor, example">
 <!--/UdmComment-->
 <link rel="stylesheet" href="/includes/menu.css" media="screen">
 <link rel="stylesheet" href="/includes/menuprint.css" media="print">
@@ -14,7 +15,7 @@
 
 <!--
 	 Milonic DHTML Website Navigation Menu Version 5.0
-	 Copyright 2005 (c) Milonic Solutions Limited (UK). All Rights Reserved.
+	 Copyright 2006 (c) Milonic Solutions Limited (UK). All Rights Reserved.
 	 Please visit http://www.milonic.com/ for more information.
 -->	
 
@@ -37,32 +38,16 @@ if(ns4)_d.write("<scr"+"ipt src=/mmenuns4.js type=text/javascript><\/scr"+"ipt>"
 
 
 <iframe src="javascript:false" id="linkIF" style="top:-1000px;position:absolute;"></iframe>
-<img id="jserr" style="top:-1000px;position:absolute;">
 <script>
 
-function incHit(id)
-{
+function incHit(id){
 	gm=gmobj("linkIF")
 	if(id)gm.src="/linkto.php?id="+id
 }
-
-
-
-function jsError(msg, url, line)
-{
-	gm=gmobj("jserr")
-	dte=new Date()
-	txt='/jserror.php?u='+url+'&m='+msg+'&l='+line+'&d='+dte
-	if(gm)gm.src=txt
-	//alert('An error has occurred!\n\nFilename: '+url+'\nError: '+msg+'\nLine Number: '+line+'\n\nMilonic apologise for this and will investigate this problem as soon as possible.')
-	return false
-}
-_W.onerror=jsError
-
 </script><table border="0" width="100%" cellspacing="0" cellpadding="0">
 <tbody><tr>
 	<td height="126" valign="top">
-		<table border="0" cellpadding="4"><tbody><tr><td><a href="http://www.milonic.com"><img src="/images/transparent.gif" height="80" width="220" border="0"></a></td></tr></tbody></table>
+		<table border="0" cellpadding="4"><tbody><tr><td><a href="http://www.milonic.com"><img src="/images/transparent.gif" height="80" width="220" border="0" alt="DHTML Menu - JavaScript Menu By Milonic"></a></td></tr></tbody></table>
 	</td>
 </tr>
 </tbody></table>
@@ -88,9 +73,10 @@ _W.onerror=jsError
 				</li><li><a href="/styleproperties.php">Menu Style Properties</a>
 				</li><li><a href="/menuproperties.php">Menu Properties</a>
 				</li><li><a href="/itemproperties.php">Menu Item Properties</a>
-				</li><li><a href="/menu.php">DHTML Menu</a>
+				</li><li><a href="/menu.php">DHTML Menu - JavaScript Menu</a>
 				</li><li><a href="/tooltips.php">Tooltips</a>
 				</li><li><a href="/colorpicker.php">Color Picker</a>
+				</li><li><a href="/datepicker.php">Calendar Date Picker</a>
 			</li></td>
 			<td class="menu1" valign="top">
 				<li><a href="/mfa/">Discussion Forum Archive</a>
@@ -104,7 +90,7 @@ _W.onerror=jsError
 				</li><li><a href="/cssbasedmenus.php">CSS Based Menus</a>
 				</li><li><a href="/apachesetup.php">Apache Setup</a>
 				</li><li><a href="/iissetup.php">Internet Information Server IIS setup</a>
-				</li><li><a href="/pipermail/milonic/">Mailing List</a>
+				</li><li><a href="/filesystemproblems.php">File System Problems and JavaScript DHTML Menu</a>
 				</li><li><a href="/menuvinfo.php">Version Info</a>
 			</li></td>
 			<td class="menu1" valign="top"><a href="/aboutmilonic.php">About</a>
@@ -144,7 +130,7 @@ function img_off(img){
 	<tbody><tr>
 		<td valign="top" align="center" class="menu1">
 			<img src="/images/xpblank.gif" width="150" height="1">
-			Click here to log in<br><a href="/login.php?pge=/privacy.php" onmouseover="showtip('<b>You are not logged in</b><br>You need to login to download and use some of the good stuff');img_on('login')" onmouseout="popdown();img_off('login')"><img id="login" border="0" src="/images/login.gif"></a>		</td>
+			Click here to log in<br><a href="/login.php?pge=/privacy.php" onmouseover="showtip('<b>You are not logged in</b><br>You need to login to download and use some of the good stuff');img_on('login')" onmouseout="hidetip();img_off('login')"><img id="login" border="0" src="/images/login.gif"></a>		</td>
 		<td width="100%" bgcolor="white" class="menuWB" valign="top">
 			<table cellpadding="13" border="0" style="border:1px solid #bbbbbb">
 				<tbody><tr><td class="menuW">
@@ -177,9 +163,8 @@ We use "cookies" to help create a more effective and convenient site experience.
 <br>
 <br>
 <b><i>CHOICE TO OPT-OUT</i></b><br>
-Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the user. If you would like to opt-out send email to 
-
-<a href="mailto:mmprivacy@milonic.com">privacy@milonic.com</a>
+Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the user. 
+If you would like to opt-out please <a class="link" href="/contactus.php">Contact Us</a>
 
 <br>
 <br>
@@ -193,16 +178,12 @@ By using our site, you agree to this Policy. This is our entire and exclusive Pr
 <br>
 <br>
 <i><b>REVIEWING PERSONAL DATA</b></i><br>
-You can review and validate the information, that we have collected about you by sending email to 
-
-<a href="mailto:mminfo@milonic.com">info@milonic.com</a>
+You can review and validate the information, that we have collected about you by <a class="link" href="/contacting.php">Contact Us</a>
 <br>
 <br>
 <br>
 <b><i>CONTACTING THE WEB SITE</i></b><br>
-If you have any questions or comments about this privacy statement, the practices of this site, or your dealings with this Web Site, you can contact: 
-
-<a href="mailto:mmprivacy@milonic.com">privacy@milonic.com</a>
+If you have any questions or comments about this privacy statement, the practices of this site, or your dealings with this Web Site please <a class="link" href="/contactus.php">Contact Us</a>
 	
 	<br><br>
 	<a href="/spamlaws.php">The law on spam email</a>
@@ -267,14 +248,15 @@ Partners
 			<br>
 			<br>
 			<!--UdmComment-->
-			©1998-2005 Milonic Solutions Ltd. UK Registered Company #4406835<br>
-			<a class="link" href="http://www.milonic.com/privacy.php">Privacy Policy</a> | <a class="link" href="/license.php">License Agreement</a> | <a class="link" href="/contactus.php">Contact Us</a> | <a class="link" href="/support/">Tech Support</a><br><a href="http://www.milonic.com/">DHTML JavaScript Menu Courtesy of Milonic.com</a>
+			©1998-2006 Milonic Solutions Ltd. UK Registered Company #4406835<br>
+			<a class="link" href="http://www.milonic.com/privacy.php">Privacy Policy</a> | <a class="link" href="/license.php">License Agreement</a> | <a class="link" href="/contactus.php">Contact Us</a> | <a class="link" href="/support/">Tech Support</a><br><a class="link" href="http://www.milonic.com/">DHTML JavaScript Menu By Milonic.com</a>
 			<!--/UdmComment-->
 			<br><br><br><br><br><br><br>
 		</td>
 	</tr>
 	
 </tbody></table>
+
 
 
 </body></html>
