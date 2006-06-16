@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webnet77.com privacy policy that was archived on 2005-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051102235506id_/http%3A//webnet77.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webnet77.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616113243id_/http%3A//webnet77.com/privacy.html) for the most accurate reproduction.*
 
 # Webnet77 - Privacy Policy
 
