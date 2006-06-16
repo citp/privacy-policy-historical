@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cnn.cn privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215232958id_/http%3A//cnn.cn/shop/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnn.cn privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616203101id_/http%3A//cnn.cn/shop/privacy.php) for the most accurate reproduction.*
 
 # Cellular Nation Wide Network - cellular accessories for brand names such as SonyEricsson, NEC, Motorola, Nokia, Panasonic, Sanyo and Samsung.
 
