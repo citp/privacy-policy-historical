@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the incfile.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214114029id_/http%3A//www.incfile.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incfile.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616213057id_/http%3A//incfile.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # IncFile - Business Incorporation Solutions
 
-Privacy Policy
+## Privacy Policy 
 
 We at IncFile.com, LLC have designed our business practices to safeguard your privacy. This privacy policy applies to your information that we collect and receive; it does not apply to practices of businesses that we do not own or control or to people we do not employ. Therefore, we are not responsible for the privacy practices or the content of such other businesses.
 
