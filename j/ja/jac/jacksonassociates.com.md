@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jacksonassociates.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217155039id_/http%3A//www.jacksonassociates.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jacksonassociates.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616173436id_/http%3A//www.jacksonassociates.com/privacy.htm) for the most accurate reproduction.*
 
 # Jackson Associates Research Atlanta - Privacy Policy
 
@@ -40,7 +40,7 @@ Jackson Associates does not currently collect anonymous information about visits
 
 **Email Links**  
 Jackson Associates uses email links throughout its website so that you can contact us with your questions or concerns.  We read each message and provide prompt responses when appropriate.  Your email comments may be saved and used for website improvement and training purposes. __ **Our "Contact Us" Page**  
-Jackson Associates offers its interested business clients a way to get in touch with Polaris or a way to gather additional information. We allow for this through our Contact Us section of the website. Information collected through this avenue is used solely to answer questions or to make business contact with the individual or company wishing for the contact. 
+Jackson Associates offers its interested business clients a way to get in touch with us or a way to gather additional information. We allow for this through our Contact Us section of the website. Information collected through this avenue is used solely to answer questions or to make business contact with the individual or company wishing for the contact. 
 
  **Links to other websites  
 **Our website may list links to other websites not owned or operated by Jackson Associates.  Please keep in mind that those websites may operate under different policies regarding collection of personal information and privacy.  Jackson Associates encourages all Internet users to regularly check website privacy policies for all websites that they visit.  
