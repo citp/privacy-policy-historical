@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the addgene.org privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210051145id_/http%3A//www.addgene.org/pgvec1%3Ff%3Da%26cmd%3Dshowfile%26file%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addgene.org privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616040842id_/http%3A//www.addgene.org/pgvec1%3Ff%3Da%26cmd%3Dshowfile%26file%3Dprivacy) for the most accurate reproduction.*
 
-# Addgene's Privacy Information
+# Addgene - Privacy Information
 
-|  | 
-
-### Privacy Policy
+|  Privacy Policy
 
 Addgene, Inc. ("Addgene") values customer trust and promises to protect their privacy. This statement discloses the privacy policies and practices for Addgene, and its security precautions designed to protect customer privacy. 
 
