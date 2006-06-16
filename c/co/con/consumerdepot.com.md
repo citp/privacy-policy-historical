@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the consumerdepot.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231194922id_/http%3A//www.consumerdepot.com/policynew.asp%3FPage%3Dpriv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerdepot.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616205442id_/http%3A//www.consumerdepot.com/policynew.asp%3FPage%3Dpriv) for the most accurate reproduction.*
 
 # Consumer depot Policies
 
 | CATEGORIES  
 ---  
 **SEARCH**  
-[Advanced Search](https://web.archive.org/web/20051231194922id_/http%3A//www.consumerdepot.com/advsearch.asp)  
+[Advanced Search](https://web.archive.org/web/20060616205442id_/http%3A//www.consumerdepot.com/advsearch.asp)  
 **LOGIN**  
 [ Login ](http://www.consumerdepot.com/login/logincust.asp)  
-[  My Account](https://web.archive.org/web/20051231194922id_/http%3A//www.consumerdepot.com/accountinfo.asp)  
+[  My Account](https://web.archive.org/web/20060616205442id_/http%3A//www.consumerdepot.com/accountinfo.asp)  
 **SHOPPING CART**  
 ---  
 You have 0 items in your  Shopping Cart  
 **INFORMATION**  
-[Terms & Conditions ](https://web.archive.org/web/20051231194922id_/http%3A//www.consumerdepot.com/policynew.asp?Page=dsclmr)  
-[Privacy Policy](https://web.archive.org/web/20051231194922id_/http%3A//www.consumerdepot.com/policynew.asp?Page=priv)  
-[Return Policy](https://web.archive.org/web/20051231194922id_/http%3A//www.consumerdepot.com/policynew.asp?Page=return)  
-[Directions & Maps](https://web.archive.org/web/20051231194922id_/http%3A//www.consumerdepot.com/map.asp)  
+[Terms & Conditions ](https://web.archive.org/web/20060616205442id_/http%3A//www.consumerdepot.com/policynew.asp?Page=dsclmr)  
+[Privacy Policy](https://web.archive.org/web/20060616205442id_/http%3A//www.consumerdepot.com/policynew.asp?Page=priv)  
+[Return Policy](https://web.archive.org/web/20060616205442id_/http%3A//www.consumerdepot.com/policynew.asp?Page=return)  
+[Directions & Maps](https://web.archive.org/web/20060616205442id_/http%3A//www.consumerdepot.com/map.asp)  
 [FAQ's](http://www.consumerdepot.com/faq.asp)  
   
 Office Hours:-   
@@ -24,9 +24,7 @@ Office Hours:-
   
 Clearance Center:-   
 (CST)10AM-6PM (M-F) 10AM-6PM Sat.  
-  
-  
-We accept all major Credit Cards  
+[](http://www.consumerdepot.com/instore.asp)  
 | 
 
 **Security & Privacy Policies**  
