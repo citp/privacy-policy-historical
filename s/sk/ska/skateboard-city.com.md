@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the skateboard-city.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230180959id_/http%3A//skateboard-city.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skateboard-city.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616104421id_/http%3A//www.skateboard-city.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy Statement - Skateboard-City
+# Privacy Policy | Skateboard-City
 
+**Submitted by[Tom-E](http://skateboard-city.com/user/tom-e "View user profile.") on Fri, 2006-01-20 05:35.**  
 This is the web site of **Skateboard-City.com**.  
 We can be reached via e-mail at [webmaster@skateboard-city.com](mailto:webmaster@skateboard-city.com)
 
@@ -28,6 +29,6 @@ Upon request we provide site visitors with access to no information that we have
 
 Upon request we offer visitors the ability to have inaccuracies corrected in contact information, communications that the consumer/visitor has directed to the site.
 
-Consumers can have this information corrected by sending us e-mail at the above address.
+Consumers can have this information corrected by sending us e-mail at the above address. 
 
 If you feel that this site is not following its stated information policy, you may contact or us at the above e-mail address.
