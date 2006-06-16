@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the b2bm.biz privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218075923id_/http%3A//www.b2bm.biz/Content/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the b2bm.biz privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616110611id_/http%3A//www.b2bm.biz/Content/privacy.htm) for the most accurate reproduction.*
 
 # B2B Marketing magazine
 
