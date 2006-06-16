@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davenport.edu privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223222235id_/http%3A//www.davenport.edu/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davenport.edu privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616223331id_/http%3A//davenport.edu/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Davenport University > Home
 
