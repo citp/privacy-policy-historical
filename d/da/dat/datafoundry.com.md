@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the datafoundry.com privacy policy that was archived on 2005-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050311005736id_/http%3A//www.datafoundry.com/legal/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datafoundry.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616030201id_/http%3A//www.datafoundry.com/legal/privacy_policy.html) for the most accurate reproduction.*
 
-# Data Foundry: Privacy Policy
+# Privacy Policy : Data Foundry
 
-The rapid growth of the internet has brought with it a whole new set of issues regarding personal privacy. Data Foundry fully respects your privacy rights, and our policies have reflected our commitment to your privacy since we started offering news service to the public.
+The rapid growth of the internet has brought with it a whole new set of issues regarding personal privacy. Data Foundry™ fully respects your privacy rights, and our policies have reflected our commitment to your privacy since we started offering news service to the public.
 
 What follows is the Data Foundry Privacy Policy, which has remained unchanged since the company's inception. 
 
