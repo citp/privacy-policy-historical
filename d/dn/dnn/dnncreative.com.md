@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dnncreative.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222171941id_/http%3A//www.dnncreative.com/Home/tabid/53/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnncreative.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616081216id_/http%3A//www.dnncreative.com/Home/PrivacyStatement/tabid/200/Default.aspx) for the most accurate reproduction.*
 
-# DNN Creative Magazine for DotNetNuke® Web Design | Tutorials | Module Reviews | Videos
+# DNN Creative Magazine Privacy Statement
 
 DNN Creative Magazine for DotNetNuke is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the DNN Creative Magazine for DotNetNuke Web site and governs data collection and usage. By using the DNN Creative Magazine for DotNetNuke website, you consent to the data practices described in this statement.
 
@@ -44,4 +44,4 @@ DNN Creative Magazine for DotNetNuke will occasionally update this Statement of 
 
 Contact Information
 
-DNN Creative Magazine for DotNetNuke welcomes your comments regarding this Statement of Privacy. If you believe that DNN Creative Magazine for DotNetNuke has not adhered to this Statement, please contact DNN Creative Magazine for DotNetNuke at [lee@dnncreative.com](mailto:lee@dnncreative.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+DNN Creative Magazine for DotNetNuke welcomes your comments regarding this Statement of Privacy. If you believe that DNN Creative Magazine for DotNetNuke has not adhered to this Statement, please contact DNN Creative Magazine for DotNetNuke at lee@dnncreative.com. We will use commercially reasonable efforts to promptly determine and remedy the problem. 
