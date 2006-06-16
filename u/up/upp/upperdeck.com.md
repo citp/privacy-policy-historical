@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upperdeck.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231171335id_/http%3A//www.upperdeck.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upperdeck.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616153116id_/http%3A//www.upperdeck.com/privacy.aspx) for the most accurate reproduction.*
 
 # Upper Deck Account Login Page
 
@@ -24,9 +24,9 @@ The requested information is also used by Upper Deck to send you orders, newslet
 
 The Websites may contain chat rooms, forums, message boards and/or personal websites. Please remember that any information that is disclosed to any of these, is public information and you should exercise caution when deciding to disclose your personal information. 
 
-If you are a citizen of any European country and are under the age of 18, you will need your parent's or guardian's consent before you can have full access to the services provided at the Websites and before we process your personal data. [Click here](http://www.upperdeck.com/member/parentform.aspx) to find out how this consent can be given. 
+If you are a citizen of any European country and are under the age of 18, you must provide your parent or legal guardian's email address in order to be eligible and gain full access to the services provided at the Websites. 
 
-If you are a citizen of the United States and are under the age of 13, in compliance with the Children's Online Privacy Protection Act, Upper Deck requires verifiable parental consent before collecting personal information. [Click here](http://www.upperdeck.com/member/parentform.aspx) to find out how this consent can be given. 
+If you are a citizen of the United States and are under the age of 13, in compliance with the Children's Online Privacy Protection Act, Upper Deck requires that you provide your parent or legal guardian's email address in order to be eligible and gain full access to the services provided at the Websites. 
 
 _Data collected automatically_
 
@@ -56,9 +56,9 @@ The personal information collected by us may be shared with Upper Deck Company, 
 We have put in place physical, electronic and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while Upper Deck strives to protect your personal information, Upper Deck cannot ensure or warrant the security of any information you transmit to us. 
 
 **Policy for children under 18 years of age**   
-If you are a citizen of a European Country and under the age of 18, or a citizen of the United States or Canada and under the age of 13 you will need your parent's or guardian's consent before you can have full access to the services provided at the Websites and before we will further process your personal data. Consent may be provided by completing [this form](http://www.upperdeck.com/member/parentform.aspx) and either mailing or faxing it to Upper Deck's Privacy Policy Administrator at the address or number listed below. In addition, we will provide your parents with the ability to: (a) review the personal information we have collected from you; (b) refuse to allow any further collection or use of your personal data; and (c) remove your records from our database. Upper Deck does not require children to provide any more information than is reasonably necessary to participate in any of our site activities. 
+If you are a citizen of a European Country and under the age of 18, or a citizen of the United States or Canada and under the age of 13 you must provide your parent or legal guardian's email address in order to be eligible and gain full access to the services provided at the Websites. In addition, we will provide your parents with the ability to: (a) review the personal information we have collected from you; (b) refuse to allow any further collection or use of your personal data; and (c) remove your records from our database. Upper Deck does not require children to provide any more information than is reasonably necessary to participate in any of our site activities. 
 
-In the event that Upper Deck learns that you are under the age of 18 in Europe or 13 in the United States or Canada, Upper Deck will contact your parent or legal guardian (collectively, "Parents") to seek consent before we further process your personal data. Consent may be provided by completing the Parents Consent Form and either mailing or faxing this to Upper Deck's Privacy Policy Administrator at the address or number listed below. 
+In the event that Upper Deck learns that you are under the age of 18 in Europe or 13 in the United States or Canada, Upper Deck will contact your parent or legal guardian (collectively, "Parents") to seek consent before we further process your personal data. 
 
 Until consent is provided, we will neither collect any additional information about you nor use the information we've collected except for the purpose of seeking consent. If we do not have your parent's consent within 30 days we will destroy all personal data we have received from you and you will have only limited access to the Websites. 
 
