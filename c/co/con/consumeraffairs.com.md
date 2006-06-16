@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumeraffairs.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214065222id_/http%3A//www.consumeraffairs.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumeraffairs.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616195647id_/http%3A//www.consumeraffairs.com/privacy_policy.html) for the most accurate reproduction.*
 
 # ConsumerAffairs.Com Privacy Policy
 
@@ -9,7 +9,7 @@ This is the web site of **ConsumerAffairs.Com Inc.** Our postal address is:
 >  Santa Monica CA 90404  
 > 
 
-We can be reached via e-mail through the [Contact Us](https://web.archive.org/web/20051214065222id_/http%3A//www.consumeraffairs.com/info_request.htm) form on our Web site or at info@consumeraffairs.com. 
+We can be reached via e-mail through the [Contact Us](https://web.archive.org/web/20060616195647id_/http%3A//www.consumeraffairs.com/info_request.htm) form on our Web site or at info@consumeraffairs.com. 
 
 We collect only the domain name, but not the e-mail address of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
 
@@ -23,7 +23,9 @@ If you supply us with your postal address on-line you will only receive the info
 
 Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding their consumer complaint or inquiry.
 
-**Third Party Advertising** In addition to advertisements that are placed directly, we use Advertising.com, ContextWeb, Google AdSense, Tribal Fusion and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.advertising.com/Privacy.html).
+**Third Party Advertising** In addition to advertisements that are placed directly, we use Advertising.com, MaxOnline, Advertising.com, ContextWeb, Google AdSense, Tribal Fusion and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.advertising.com/Privacy.html).
+
+If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here: [www.maxonline.com/privacy_policy/index.php](http://www.maxonline.com/privacy_policy/index.php).
 
 **Third Party Cookies** In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
 
