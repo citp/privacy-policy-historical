@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4arabs.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212103513id_/http%3A//www.4arabs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4arabs.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617010547id_/http%3A//www.4arabs.com/privacy.html) for the most accurate reproduction.*
 
 # Arabic Banner Exchange: free exposure for your arabic and islamic sites
 
@@ -17,10 +17,6 @@ Our site uses an order form for customers to request information, products, and 
 #### Adtegrity.Com
 
 We serve ads through Adtegrity.Com . Adtegrity.com's Privacy Policy can be found at [Adtegrity.com's Privacy Policy](http://www.adtegrity.com/privacy.asp)
-
-#### Third Party Advertising
-
-We use BUDS INC, MaxWorldwide and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here 
 
 #### Third Party Cookies
 
