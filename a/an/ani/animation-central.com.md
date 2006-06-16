@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animation-central.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225190937id_/http%3A//animation-central.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animation-central.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616180534id_/http%3A//www.animation-central.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
