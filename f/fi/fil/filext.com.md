@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filext.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210161049id_/http%3A//filext.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filext.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616135917id_/http%3A//www.filext.com/privacy.php) for the most accurate reproduction.*
 
 # FILExt Privacy Statement
 
@@ -80,7 +80,7 @@ Like most standard Web site servers FILExt uses log files. This includes Interne
 
 #### Communications from FILExt 
 
-Communications from FILExt in response to submittals and/or feedback will generally carry a Computer Knowledge (cknow.com) return address. Automatic responses from the FILExt forum will carry a filext.com address from the user "vb_boss". These are machine-generated responses for such things as sending you a password confirmation when signing on to the forum or reminders when someone has posted to a thread you have marked for watching. Except for the user "vb_boss" you should never see an E-mail with a filext.com "From" address. Any mail received with a filext.com return address other than the above will most likely be a forgery. Unfortunately, the structure of the Internet's E-mail system make such forgeries fairly easy to accomplish (see [Joe Job](http://www.cknow.com/ckinfo/questions/825/Joe-Job)).
+Communications from FILExt in response to submittals and/or feedback will generally carry a Computer Knowledge (cknow.com) return address. Automatic responses from the FILExt forum will carry a filext.com address from the user "vb_boss". These are machine-generated responses for such things as sending you a password confirmation when signing on to the forum or reminders when someone has posted to a thread you have marked for watching. Except for the user "vb_boss" you should never see an E-mail with a filext.com "From" address. Any mail received with a filext.com return address other than the above will most likely be a forgery. Unfortunately, the structure of the Internet's E-mail system make such forgeries fairly easy to accomplish (see [Joe Job](http://www.cknow.com/ckinfo/j/JoeJob-Useofafakereturnad.html)).
 
 #### Sharing Legal Disclaimer 
 
