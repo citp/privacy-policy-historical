@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cotswoldoutdoor.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228115407id_/http%3A//www.cotswoldoutdoor.com/privacy/%3FRef%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cotswoldoutdoor.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616194253id_/http%3A//www.cotswoldoutdoor.com/privacy/%3FRef%3D) for the most accurate reproduction.*
 
 # Privacy Policy - Cotswold Outdoor
 
