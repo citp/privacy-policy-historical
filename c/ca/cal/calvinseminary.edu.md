@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calvinseminary.edu privacy policy that was archived on 2005-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051201020301id_/http%3A//www.calvinseminary.edu/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calvinseminary.edu privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616070756id_/http%3A//calvinseminary.edu/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement
 
