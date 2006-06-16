@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the otpp.com privacy policy that was archived on 2005-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051109091948id_/http%3A//www.otpp.com/web/website.nsf/web/PrivacyCode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the otpp.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616135414id_/http%3A//www.otpp.com/web/website.nsf/web/PrivacyCode) for the most accurate reproduction.*
 
 # OTPP - Privacy Code
 
@@ -10,11 +10,10 @@
 
 | 
 
-[](https://web.archive.org/web/20051109091948id_/http%3A//www.otpp.com/web/website.nsf/printview/privacycode)  
+[](https://web.archive.org/web/20060616135414id_/http%3A//www.otpp.com/web/website.nsf/printview/privacycode)  
   
 ---|---|---|---  
-|   |   
-  |  At the Ontario Teachers’ Pension Plan, we are dedicated to protecting your privacy and safeguarding your personal information. As part of our commitment, we have established this Privacy Code to govern our actions as they relate to the collection, use and disclosure of your information.
+| At the Ontario Teachers’ Pension Plan, we are dedicated to protecting your privacy and safeguarding your personal information. As part of our commitment, we have established this Privacy Code to govern our actions as they relate to the collection, use and disclosure of your information.
 
 In developing our Privacy Code, we conducted a thorough review of our practices and re-examined why we collect, use and retain certain personal information.
 
@@ -29,7 +28,7 @@ Principle 2 - Identifying Purposes
 Principle 3 - Consent  
 Principle 4 - Limiting Collection  
 Principle 5 - Limiting Use, Disclosure and Retention  
-[Principle 6 - Accuracy](https://web.archive.org/web/20051109091948id_/http%3A//www.otpp.com/web/website.nsf/web/PrivacyCode#6)  
+[Principle 6 - Accuracy](https://web.archive.org/web/20060616135414id_/http%3A//www.otpp.com/web/website.nsf/web/PrivacyCode#6)  
 Principle 7 - Safeguarding Your Information  
 Principle 8 - Openness  
 Principle 9 - Individual Access to Information  
@@ -119,7 +118,6 @@ Phone:| | (416) 730-3592 or 1-877-812-7989 ext. 3592 (toll free)
 Fax:| | (416) 730-3771 or 1-800-949-8208 (toll free)  
 We will respond to all inquiries or complaints related to the handling of personal information. If a complaint is found to be justified, we will take appropriate measures. Complaint procedures are available from the Corporate Privacy Officer.  
   
-   
   
   |   |   |    
 ---|---|---|---  
