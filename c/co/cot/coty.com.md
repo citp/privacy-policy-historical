@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coty.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210061157id_/http%3A//www.coty.com/WebContent.asp%3FSec%3D1%26Sub%3D1%26F%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coty.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616195350id_/http%3A//www.coty.com/WebContent.asp%3FSec%3D1%26Sub%3D1%26F%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Coty - About Coty
 
