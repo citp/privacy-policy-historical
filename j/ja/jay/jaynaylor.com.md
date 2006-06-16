@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the jaynaylor.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220231309id_/http%3A//www.jaynaylor.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaynaylor.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616043019id_/http%3A//www.jaynaylor.com/privacy.php) for the most accurate reproduction.*
 
 # Jay Naylor Illustrations Comics Games
 
   
-[Main](https://web.archive.org/web/20051220231309id_/http%3A//www.jaynaylor.com/index.php) . [Comics](https://web.archive.org/web/20051220231309id_/http%3A//www.jaynaylor.com/comics.html) . [Pictures](https://web.archive.org/web/20051220231309id_/http%3A//www.jaynaylor.com/pictures.html) . [Catalog](https://web.archive.org/web/20051220231309id_/http%3A//www.jaynaylor.com/catalog.html) . [News](https://web.archive.org/web/20051220231309id_/http%3A//www.jaynaylor.com/news.html) . [Profile](https://web.archive.org/web/20051220231309id_/http%3A//www.jaynaylor.com/profile.html) . [WIP](https://web.archive.org/web/20051220231309id_/http%3A//www.jaynaylor.com/wip.html) . [Links](https://web.archive.org/web/20051220231309id_/http%3A//www.jaynaylor.com/links.html) . [Contact](mailto:jaynaylor@charter.net)
+[Main](https://web.archive.org/web/20060616043019id_/http%3A//www.jaynaylor.com/index.php) . [Comics](https://web.archive.org/web/20060616043019id_/http%3A//www.jaynaylor.com/comics.html) . [Pictures](https://web.archive.org/web/20060616043019id_/http%3A//www.jaynaylor.com/pictures.html) . [Catalog](https://web.archive.org/web/20060616043019id_/http%3A//www.jaynaylor.com/catalog.html) . [News](https://web.archive.org/web/20060616043019id_/http%3A//www.jaynaylor.com/news.html) . [Profile](https://web.archive.org/web/20060616043019id_/http%3A//www.jaynaylor.com/profile.html) . [WIP](https://web.archive.org/web/20060616043019id_/http%3A//www.jaynaylor.com/wip.html) . [Links](https://web.archive.org/web/20060616043019id_/http%3A//www.jaynaylor.com/links.html) . [Contact](mailto:jay@jaynaylor.com)
 
 * * *
 
@@ -36,6 +36,6 @@ When an order is placed, you have the opportunity to update your personal inform
 
 How to Contact Us
 
-Should you have other questions or concerns about these privacy policies, please call us at 404-507-0453 or send us an email at [jaynaylor AT charter.net](mailto:jaynaylor@charter.net).
+Should you have other questions or concerns about these privacy policies, please call us at 678-207-6999 or send us an email at [jay AT jaynaylor.com](mailto:jay@jaynaylor.com).
 
 All material depicted in the pages of jaynaylor.com are © copyright JayNaylor.com Inc., unless otherwise specified. All rights reserved.
