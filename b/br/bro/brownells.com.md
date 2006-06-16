@@ -1,20 +1,67 @@
-> *The following text is extracted and transformed from the brownells.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203001934id_/http%3A//www.brownells.com/aspx/ns/general/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brownells.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616182913id_/http%3A//www.brownells.com/aspx/NS/General/Privacy.aspx) for the most accurate reproduction.*
 
 # Brownells - World's Largest Supplier of Firearm Accessories and Gunsmithing Tools
 
+|  |   
+| 
+
+|  | 
+
+Search
+
 |   
+---|---  
 |   
+keyword or stock#  
+[Advanced Search](https://web.archive.org/aspx/NS/store/catsearch.aspx)  
+  
+Member Login
+
+username
+
+|  | 
+
+password
+
+|   
+---|---|---|---  
+|   |  |   
+Forgot Password?  
+[Not A Member, Sign Up Now!](https://www.brownells.com/aspx/SSL/MyAccount/newprofile.aspx)  
+  
+  
+  
+|  |  **parts + materials**  
 ---  
-|  |   
-  
-Keyword(s) or stock #   
-  
-  
-[Browse by Category](https://web.archive.org/aspx/NS/Store/AdvancedSearch.aspx)  
-[Search Help](https://web.archive.org/aspx/NS/Store/SearchHelp.aspx)  
-|  |   
-  
-  
+[Handgun Parts](https://web.archive.org/categories.aspx?c=4815)  
+[Rifle Parts](https://web.archive.org/categories.aspx?c=4816)  
+[Shotgun Parts](https://web.archive.org/categories.aspx?c=4817)  
+[Combination Gun Parts](https://web.archive.org/categories.aspx?c=4813)  
+[Gunsmith Barrels](https://web.archive.org/categories.aspx?c=4814)  
+[Scopes & Electronic Sights](https://web.archive.org/categories.aspx?c=4806)  
+[Scope Rings & Bases](https://web.archive.org/categories.aspx?c=4805)  
+[Reamers & Chamber Gauges](https://web.archive.org/categories.aspx?c=4803)  
+[Recoil Pads & Buttstock Parts](https://web.archive.org/categories.aspx?c=4804)  
+[Stockmaking & Finishing](https://web.archive.org/categories.aspx?c=4812)  
+[Stock Bedding & Adhesives](https://web.archive.org/categories.aspx?c=4811)  
+[Metal, Springs & Screws](https://web.archive.org/categories.aspx?c=4801)  
+[Factory Parts](https://web.archive.org/aspx/NS/schematics/SchemMFG.aspx)  
+|  **tools + accessories**  
+---  
+[General Tools](https://web.archive.org/categories.aspx?c=4794)  
+[Metal Cutting Tools](https://web.archive.org/categories.aspx?c=4799)  
+[Metal Polishing & Abrasives](https://web.archive.org/categories.aspx?c=4800)  
+[Metal Coloring](https://web.archive.org/categories.aspx?c=4798)  
+[Special Gunsmithing Tools](https://web.archive.org/categories.aspx?c=4810)  
+[Soldering & Heat Treating](https://web.archive.org/categories.aspx?c=4809)  
+[Shop Accessories & Supplies](https://web.archive.org/categories.aspx?c=4808)  
+[Metal, Springs & Screws](https://web.archive.org/categories.aspx?c=4801)  
+|  **maintenance + accessories**  
+---  
+[Gun Cleaning & Lubricants](https://web.archive.org/categories.aspx?c=4795)  
+[Shooting Accessories](https://web.archive.org/categories.aspx?c=4807)  
+[Instructional Materials](https://web.archive.org/categories.aspx?c=4797)  
+[Miscellaneous](https://web.archive.org/categories.aspx?c=4802)  
 | 
 
   
@@ -69,3 +116,32 @@ Brownells - Selection. Service. Satisfaction.
 
 
 | 
+
+| 
+
+Schematics  
+  
+---  
+[](https://web.archive.org/aspx/NS/schematics/SchemMFG.aspx)  
+  
+Get a Catalog  
+  
+---  
+|   
+---  
+  
+[](https://web.archive.org/nra/)  
+  
+Members Get More!  
+  
+---  
+  
+Gift Certificates  
+  
+---  
+  
+Direct Stock Entry  
+  
+---  
+  
+Ready to order? Know your stock numbers? Then Direct Stock Entry is the place for you!
