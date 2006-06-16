@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paintshoppro.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228200007id_/http%3A//www.corel.com/servlet/Satellite%3Fpagename%3DCorel3/Section/Display%26sid%3D1047022946165%26gid%3D1047022956429%26cid%3D1047022956566) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paintshoppro.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617015240id_/http%3A//www.corel.com/servlet/Satellite%3Fpagename%3DCorel3/Section/Display%26sid%3D1047022946165%26gid%3D1047022956429%26cid%3D1047022956566) for the most accurate reproduction.*
 
 # About - Privacy
 
@@ -87,7 +87,7 @@ We may share the information that you have provided to us with subsidiaries and 
 In an effort to offer our customers the maximum benefit of Corel's strategic and co-branding partnerships, we also undertake co-marketing agreements with third parties who offer similar products or services or who may collect your personal information, identifiable or non-identifiable, in order to provide certain online services to you. Corel may share profile information with its co-branding partners in order to better personalize the content, banners and promotions that you and other users will see on our sites. Advertising partners or other online services partners of Corel may use their own cookies.  
 As a registered Corel customer, you will have the option of receiving news and special offers from third parties. You will have the option of declining such communications when you provide us with you information or at any other time.
 
-**Legal Disclaimer << />**br /> Although we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
+**Legal Disclaimer:** Although we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
 
 BACK TO TOP
 
