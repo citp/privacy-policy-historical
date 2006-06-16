@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geolearning.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225191848id_/http%3A//www.geolearning.com/main/Support/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geolearning.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616082442id_/http%3A//geolearning.com/main/Support/privacy.cfm) for the most accurate reproduction.*
 
 # GeoLearning Privacy Notice
 
