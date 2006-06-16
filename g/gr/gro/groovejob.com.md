@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groovejob.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218032540id_/http%3A//www.groovejob.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groovejob.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616181456id_/http%3A//www.groovejob.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy and Security
 
@@ -21,7 +21,7 @@ GrooveJob.com collects IP Addresses and uses cookies to identify users, create s
 
 When registering for GrooveJob.com, users must submit personal contact information and employment history. This is done to create an online application that is only sent to specific employers you choose. The information you submit here will be the only personal information we collect from you. Please be aware that your submission is your consent for us to give this information to those employers with whom you interact. 
 
-It is GrooveJob.com's policy not to sell, rent, lease, share or disclose the personal information of any user or former user to any company not owned by, affiliated with or involved with a contractual relationship with GrooveJob.com. All information collected maintained on users of GrooveJob.com as described above may be used for the day-to-day operations of GrooveJob.com, which may include notifying users about important changes to our Web site, new services, and carefully reviewed offers from third parties we think you will find valuable. 
+It is GrooveJob.com's policy not to sell, rent, lease, share or disclose the personal information of any user or former user to any company not owned by, affiliated with or involved with a contractual relationship with GrooveJob.com. All information collected and maintained on users of GrooveJob.com as described above may be used for the day-to-day operations of GrooveJob.com, which may include notifying users about important changes to our Web site and new services. In addition, GrooveJob.com may share selected information with contractually related third parties to notify you about offers we think you will find valuable. 
 
 **The information gathered at this site is distributed to employers solely for employment purposes.**
 
