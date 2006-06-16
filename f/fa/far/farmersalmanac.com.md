@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the farmersalmanac.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215082654id_/http%3A//www.geiger.com/Admin/AdminPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farmersalmanac.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616055506id_/http%3A//www.geiger.com/Admin/AdminPrivacy) for the most accurate reproduction.*
 
 # Geiger - Motivating People Since 1878
 
