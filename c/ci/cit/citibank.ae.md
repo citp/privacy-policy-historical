@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citibank.ae privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231042209id_/http%3A//www.citibank.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citibank.ae privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616193330id_/http%3A//www.citibank.com/privacy) for the most accurate reproduction.*
 
 # Citi - Privacy
 
@@ -27,7 +27,7 @@ You can visit a web site and find out about Citibank products and services and u
 
 Non-customers who receive promotional e-mail messages about Citibank products and services may elect to not receive ('opt out' of) further messages. If you opt out from receiving these e-mail messages, we will retain your e-mail address solely for the purposes of honoring your request. 
 
-In order to provide better service, we may use "[cookies](https://web.archive.org/web/20051231042209id_/http://www.citibank.com/privacy/cookie.htm)", which may be set by us or by another company for us. A cookie is a small piece of information that a web site stores on your web browser that can later be retrieved and read only by the same site. We use cookies for a administrative purposes and to enhance your online experience. For example, we may use cookies to track the number of visitors to our site or to enable us present rotating information to you at our site. You can set up your web browser to inform you when cookies are set or to prevent cookies from being set. 
+In order to provide better service, we may use "[cookies](https://web.archive.org/web/20060616193330id_/http://www.citibank.com/privacy/cookie.htm)", which may be set by us or by another company for us. A cookie is a small piece of information that a web site stores on your web browser that can later be retrieved and read only by the same site. We use cookies for a administrative purposes and to enhance your online experience. For example, we may use cookies to track the number of visitors to our site or to enable us present rotating information to you at our site. You can set up your web browser to inform you when cookies are set or to prevent cookies from being set. 
 
 Citibank collects Information about customers through the applications it receives and from other sources. If you are a customer, additional details about the Information we collect and how it may be disclosed is contained in **Our Privacy Notice** , which is provided to you at account opening. 
 
@@ -52,6 +52,6 @@ From time to time, we may change this Internet Privacy Policy. The effective dat
 
 Effective Date: This policy was last modified on July 1, 2004
 
-* All references to Citibank mean Citibank, N.A., Citibank, F.S.B. or Citibank (West), FSB, the bank that maintains your account relationship in the United States. 
+* All references to Citibank mean Citibank, N.A., Citibank, F.S.B., Citibank (West), FSB or Citibank Texas, N.A., the bank that maintains your account relationship in the United States. 
 
 | 
