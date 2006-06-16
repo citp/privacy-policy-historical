@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nextvenue.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605040135id_/http%3A//www.talkpointcommunications.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextvenue.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616102609id_/http%3A//www.talkpointcommunications.com/privacy.html) for the most accurate reproduction.*
 
-# TalkPoint:
+# TalkPoint Home - Interactive Webcasting & Webconferencing Services, Live & On Demand
 
 This privacy policy describes how TalkPoint collects, uses and shares information about users of TalkPoint's Web site. 
 
