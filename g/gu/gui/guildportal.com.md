@@ -1,12 +1,44 @@
-> *The following text is extracted and transformed from the guildportal.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220021612id_/http%3A//guildportal.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guildportal.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616020419id_/http%3A//guildportal.com/Privacy.aspx) for the most accurate reproduction.*
 
-# GuildPortal Guild Hosting and Management - World of Warcraft, Guild Wars, EverQuest, DAoC, City of Heroes and More! - Privacy Policy
+# GuildPortal Guild Hosting and Management - World of Warcraft, Guild Wars, EverQuest, Vanguard, Dungeons and Dragons Online, City of Heroes and More! - Privacy Policy
 
-Privacy Policy
+|  |  [](https://web.archive.org/web/20060616020419id_/http%3A//guildportal.com/Default.aspx) |   |  [](https://web.archive.org/web/20060616020419id_/http%3A//guildportal.com/NewGuild.aspx) |  [](https://web.archive.org/web/20060616020419id_/http%3A//guildportal.com/NewUser.aspx) |  [](https://web.archive.org/web/20060616020419id_/http%3A//guildportal.com/Search.aspx)  
+---|---|---|---|---|---  
+[](https://web.archive.org/web/20060616020419id_/http%3A//guildportal.com/Default.aspx) [Home](https://web.archive.org/web/20060616020419id_/http%3A//guildportal.com/Default.aspx) > Privacy Policy  
+[New Account](https://web.archive.org/web/20060616020419id_/http%3A//guildportal.com/NewUser.aspx)  
+[New Guild](https://web.archive.org/web/20060616020419id_/http%3A//guildportal.com/NewGuild.aspx)  
+[Support Form](https://web.archive.org/web/20060616020419id_/http%3A//guildportal.com/Support.aspx)  
+[Feature Request](https://web.archive.org/web/20060616020419id_/http%3A//guildportal.com/FeatureRequest.aspx)  
+[Admin Guide](https://web.archive.org/web/20060616020419id_/http%3A//guildportal.com/Guide.aspx)
+
+Search Guilds
+
+We Recommend
+
+[TenTonHammer](http://www.tentonhammer.com/ "TenTonHammer, the BEST *legit* source of gaming information!")  
+[Member Blogs](https://web.archive.org/web/20060616020419id_/http%3A//guildportal.com/MemberBlogs.aspx "Blogs from members of GuildPortal-hosted guilds!")  
+[GuildHelper](http://www.guildhelper.com/ "GuildHelper, for all your guild graphics and startup needs!")  
+[Offline T-Shirts](http://www.offlinetshirts.com/ "Gaming shirts!")
+
+Service News
+
+[Generated Sign...](https://web.archive.org/web/20060616020419id_/http%3A//guildportal.com/ShowNews.aspx?News=358 "Generated Sign-ups")  
+[New Roster Fun...](https://web.archive.org/web/20060616020419id_/http%3A//guildportal.com/ShowNews.aspx?News=357 "New Roster Functionality")  
+[Mac Editor](https://web.archive.org/web/20060616020419id_/http%3A//guildportal.com/ShowNews.aspx?News=356 "Mac Editor")  
+[TTH News Feeds](https://web.archive.org/web/20060616020419id_/http%3A//guildportal.com/ShowNews.aspx?News=355 "TTH News Feeds")  
+[Alla Content P...](https://web.archive.org/web/20060616020419id_/http%3A//guildportal.com/ShowNews.aspx?News=354 "Alla Content Pulled")  
+[Careful Out Th...](https://web.archive.org/web/20060616020419id_/http%3A//guildportal.com/ShowNews.aspx?News=353 "Careful Out There")  
+[Most Recent Po...](https://web.archive.org/web/20060616020419id_/http%3A//guildportal.com/ShowNews.aspx?News=352 "Most Recent Posts")  
+[File Uploading](https://web.archive.org/web/20060616020419id_/http%3A//guildportal.com/ShowNews.aspx?News=351 "File Uploading")  
+[Performance En...](https://web.archive.org/web/20060616020419id_/http%3A//guildportal.com/ShowNews.aspx?News=350 "Performance Enhancements")  
+[Blogs Back](https://web.archive.org/web/20060616020419id_/http%3A//guildportal.com/ShowNews.aspx?News=349 "Blogs Back")
+
+[](https://web.archive.org/web/20060616020419id_/http%3A//guildportal.com/RSS/Feed.aspx)
+
+| 
 
 Information Collection
 
-  
 GuildPortal is the sole owner of the information collected on GuildPortal.com. GuildPortal collects information from our users at a single point on our web site. 
 
 Registration
@@ -48,3 +80,25 @@ Though we make every effort to preserve user privacy, we may need to disclose pe
 Contact Information
 
 If users have any questions or suggestions regarding our privacy policy, please contact us at: 303 680 5428 support@GuildPortal.com 
+
+| 
+
+[](http://www.fh.org/)For every subscription and subscription renewal, GuildPortal donates $1 to Food for the Hungry and other humanitarian organizations. Click [here](https://web.archive.org/web/20060616020419id_/http%3A//guildportal.com/Donations.aspx) to view our record!
+
+  
+[](https://web.archive.org/web/20060616020419id_/http%3A//guildportal.com/TrackAd.aspx?Ad=196)
+
+Click [ here](https://web.archive.org/web/20060616020419id_/http%3A//guildportal.com/Testimonials.aspx) for all testimonials, and find out why others have used GuildPortal for their Guild Management and Guild Hosting needs!
+
+"So far I have found this site most useful to our guild. We were looking for a website with low maintenance and this is a perfect fit. I was amazed at how quick and easy it was to create a nice looking website that addressed all of our needs."
+
+Blackened Sabbath, BoD Alliance and Disposable Heroes
+
+  
+
+
+Active sites listed by member count  
+  
+GuildPortal ©2006 Axiom Shift, Inc. All rights reserved. [Terms of Use](https://web.archive.org/web/20060616020419id_/http%3A//guildportal.com/Terms.aspx) | [Privacy Policy](https://web.archive.org/web/20060616020419id_/http%3A//guildportal.com/Privacy.aspx) | [Support](https://web.archive.org/web/20060616020419id_/http%3A//guildportal.com/Support.aspx)
+
+Current Web Build: 2.1.2355.16378
