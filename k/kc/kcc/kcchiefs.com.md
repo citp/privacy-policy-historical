@@ -1,15 +1,18 @@
-> *The following text is extracted and transformed from the kcchiefs.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215044340id_/http%3A//kcchiefs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcchiefs.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616070331id_/http%3A//kcchiefs.com/privacy) for the most accurate reproduction.*
 
 # Kansas City Chiefs - Kansas City Chiefs Privacy Policy
 
-  
-
+[](http://www.truste.org/ivalidate.php?url=www.kcchiefs.com&sealid=101)[ ](http://www.truste.org/ivalidate.php?url=www.kcchiefs.com&sealid=101)
 
 Effective Date: 07/07/2005
 
 This privacy policy applies to the Kansas City Chiefs website located at www.kcchiefs.com (the “Website”).  The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you. 
 
 The Website is operated by Kansas City Chiefs.
+
+Kansas City Chiefs is a licensee of the TRUSTe Privacy Program.  TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the site **www.kcchiefs.com**.  Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+
+If you have questions or concerns regarding this statement, you should first contact Lance Brown at [questions@kcchiefs.com](mailto:questions@kcchiefs.com).  If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>.  TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 When this privacy policy uses the term “personally identifiable information” or “personal information,” we mean information that identifies a particular individual, such as your full name, street address or email address.  When other information, such as a favorite team or player, is associated with personal information, it also becomes personally identifiable information for the purposes of this privacy policy. 
 
