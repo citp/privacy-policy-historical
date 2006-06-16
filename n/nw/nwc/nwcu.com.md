@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nwcu.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223002431id_/http%3A//www.nwcu.com/About_Us/Bank_Disclose/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nwcu.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616225940id_/http%3A//www.nwcu.com/About_Us/Bank_Disclose/privacy.html) for the most accurate reproduction.*
 
 # Disclosures - Privacy Statement
 
