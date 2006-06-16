@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chronicle.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216111102id_/http%3A//chronicle.com/help/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chronicle.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616210426id_/http%3A//chronicle.com/help/privacy.htm) for the most accurate reproduction.*
 
 # The Chronicle: Privacy Statement
 
@@ -32,9 +32,9 @@ _The Chronicle_ has a contract with an outside company, DoubleClick Inc., to use
 
 _The Chronicle_ is not a member of the DoubleClick Network. Our agreement with DoubleClick specifies that information about our users may only be used to deliver ads on our site and may not be aggregated with other information collected by DoubleClick. **We do not provide any personal information, such as names, postal addresses, phone numbers, or e-mail addresses, to DoubleClick.** The only information DoubleClick receives is what is automatically passed by a Web browser, such as Internet Protocol number, domain name, and browser type.
 
-**Cookies**
+**Web Cookies**
 
-"Cookies" are bits of data sent from a Web server to a user's machine to be retrieved later for purposes of identification. When you visit The Chronicle and create a My Chronicle Careers account, we set and access cookies on your computer. We use cookies for a number of reasons, such as recognizing you when you visit the site and maintaining the security of your account.
+"Cookies" are bits of text data sent from a Web server to a user's computer to be retrieved later for purposes of identification. On our site cookies are used to provide access to certain areas, to track readership, to maintain user preferences, and to enable certain e-commerce transactions.
 
 Many consider the use of cookies to be an industry standard. Consequently, your Web browser is probably set to accept cookies. If you would prefer not to receive cookies, you can alter the configuration of your browser to refuse cookies. If you choose to do so, however, you should understand that it is possible that some areas of our site will not function properly when you view them.
 
