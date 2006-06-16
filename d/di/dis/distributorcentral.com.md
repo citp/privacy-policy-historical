@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the distributorcentral.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212113214id_/http%3A//www.distributorcentral.com/resources/agreements/DistributorCentral_Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the distributorcentral.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616202746id_/http%3A//www.distributorcentral.com/resources/agreements/DistributorCentral_Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
