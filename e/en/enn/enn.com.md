@@ -1,15 +1,12 @@
-> *The following text is extracted and transformed from the enn.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230200914id_/http%3A//www.enn.com/about_enn_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enn.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616112103id_/http%3A//enn.com/about_enn_privacy_policy.html) for the most accurate reproduction.*
 
 # ENN: Environmental News Network [[ ENN Privacy Policy ]]
 
-  
+### **Privacy Policy**
 
+Read ENN.com in complete confidence that your privacy will be protected. If you have any questions or concerns, please do not hesitate to [contact us](https://web.archive.org/web/20060616112103id_/http%3A//enn.com/contactservice.html).
 
-Privacy Policy
-
-Read ENN.com in complete confidence that your privacy will be protected. If you have any questions or concerns, please do not hesitate to [contact us](https://web.archive.org/web/20051230200914id_/http%3A//www.enn.com/contactservice.html).
-
-When a user subscribes to ENN's Daily E-mail Newsletter, personal information and e-mail address are used for subscriber maintenance only. At no point will this information be disclosed to a third party or be used by ENN for any other purpose. Email addresses are only used to distribute the daily email newsletter the users by their request. 
+When a user subscribes to ENN's Daily E-mail Newsletter, personal information and e-mail address are used for subscriber maintenance only. On occasion, ENN shares subscriber e-mail addresses only to selected third parties for the purpose of distributing special offers that we feel may be of interest to our readers. 
 
 The user can view or modify personal subscription information by logging into a secure server with a username and password they provided at the time of sign up. A user can unsubscribe to the daily email service at any time by using the following choices: logging into the subscriber profile and choosing the option to no longer receive the email, the unsubscribe option on the home page, or by returning the email and stating they would no long like to receive the daily email service. ENN will notify its subscribers of any changes to the privacy policy or relevant information by posting it on the site and the daily emails. All ENN users are encouraged to contact our office with any questions or comments. 
 
@@ -35,10 +32,9 @@ As an example, when a poll is submitted at ENN, a cookie is placed in the client
 
 · Users are advised that if they disable the cookies feature on their computer they may experience trouble navigating through the ENN site. 
 
-The information given to ENN.com, including, but not limited to, all posted information, all user information submitted to ENN.com, and all user information collected by cookies for the purposes of counting and personalization, remains confidential and password protected in a secure environment. Employees of ENN have individual passwords but not all employees have access to the secure server in which the user information is stored. 
+The information given to ENN.com, including, but not limited to, all posted information, all user information submitted to ENN.com, and all user information collected by cookies for the purposes of counting and personalization, remains confidential and password protected in a secure environment. Employees of ENN have individual passwords but not all employees have access to the secure server in which the user information is stored.
 
 Links to other web sites are often used in ENN stories and pages to supply the user with additional information. Please be advised that the ENN privacy policy does not apply to those web sites and ENN is not responsible for information collected on those sites. Users are encouraged to view the privacy policy posted by that web site company. 
 
-If you have questions or concerns regarding this statement, please [contact us](https://web.archive.org/web/20051230200914id_/http%3A//www.enn.com/contactservice.html).
+If you have questions or concerns regarding this statement, please [contact us](https://web.archive.org/web/20060616112103id_/http%3A//enn.com/contactservice.html)  
 
-* * *
