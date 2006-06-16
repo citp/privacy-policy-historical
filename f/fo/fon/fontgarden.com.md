@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fontgarden.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224174605id_/http%3A//www.fontgarden.com/contact/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fontgarden.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616141447id_/http%3A//www.fontgarden.com/privacy/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -64,7 +64,7 @@ This site has security measures in place to protect the loss, misuse, and altera
 
 Our site provides users the opportunity to opt-out of receiving promotional/marketing information from  us  . 
 
-  1. You can send email to [ellinor@fontgarden.com](mailto:ellinor@fontgarden.com)
+  1. You can send email to [ellinor@fontgarden.com](http://www.fontgarden.org/fontshop/contact_us.php)
   2. You can visit the following URL:  http://www.fontgarden.com/contact/contact.htm  
 
 
@@ -73,7 +73,7 @@ Our site provides users the opportunity to opt-out of receiving promotional/mark
 
 This site gives users the following options for changing and modifying information previously provided: 
 
-  1. You can send email to [ellinor@fontgarden.com](mailto:ellinor@fontgarden.com)
+  1. You can send email to [ellinor@fontgarden.com](http://www.fontgarden.org/fontshop/contact_us.php)
   2. You can visit the following URL:  http://www.fontgarden.com/contact/contact.htm
 
 
@@ -81,4 +81,4 @@ This site gives users the following options for changing and modifying informati
 **Contacting the Web Site**
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
-[_ellinor@fontgarden.com_](mailto:ellinor@fontgarden.com) __
+[_ellinor@fontgarden.com_](http://www.fontgarden.org/fontshop/contact_us.php) __
